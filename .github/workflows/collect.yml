@@ -1,0 +1,45 @@
+name: Coleta Asia Macro News
+
+# Roda a cada 10 min, independente do Mac estar ligado — é isso que evita
+# perder notícias publicadas enquanto o monitor local estava fechado (ex.:
+# um GDP divulgado no fim de semana). O GitHub não garante o minuto exato do
+# cron em horários de pico, mas a defasagem típica é de poucos minutos, bem
+# diferente de "só coleta quando alguém abrir o Mac".
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}  # permite rodar manualmente na aba Actions, para testar
+
+concurrency:
+  group: collect
+  cancel-in-progress: false  # nunca dois fetch ao mesmo tempo; enfileira em vez de cancelar
+
+permissions:
+  contents: write  # o job precisa commitar o feed.json atualizado de volta no repo
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Projeto é Python puro (stdlib only) — sem requirements.txt, sem pip install.
+      - name: Coletar notícias
+        run: python3 "Código/fetch_asia_news.py"
+
+      - name: Commitar e enviar o feed atualizado
+        run: |
+          git config user.name "asia-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add "Cache/feed.json" "Cache/translation_cache.json" "Cache/first_seen_cache.json" "Monitor de Notícias Macro.html"
+          if git diff --cached --quiet; then
+            echo "sem mudanças desde a última coleta"
+          else
+            git commit -m "coleta automática $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi
