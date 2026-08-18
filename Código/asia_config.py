@@ -117,11 +117,27 @@ RSS_SOURCES = [
     {"id": "nhk_economy",  "name": "NHK 経済",            "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",              "scope": "japan",  "domestic_jp": True},
     {"id": "nhk_politics", "name": "NHK 政治",            "url": "https://www3.nhk.or.jp/rss/news/cat4.xml",              "scope": "japan",  "domestic_jp": True},
     {"id": "yahoo_business", "name": "Yahoo! ニュース 経済", "url": "https://news.yahoo.co.jp/rss/topics/business.xml",     "scope": "japan",  "domestic_jp": True},
+    # Fonte oficial do BOJ (comunicados, resultados de operação, notas de
+    # pesquisa). Feed em inglês, então os títulos já casam os padrões em EN.
+    {"id": "boj_whatsnew", "name": "BOJ What's New (EN)", "url": "https://www.boj.or.jp/en/rss/whatsnew.xml",             "scope": "japan"},
+    # Site oficial do primeiro-ministro/gabinete. Só em japonês — precisa de
+    # domestic_jp para o fallback por kana+dica macro pegar agenda política.
+    {"id": "kantei_jnews", "name": "Kantei 首相官邸",      "url": "https://www.kantei.go.jp/index-jnews.rdf",              "scope": "japan",  "domestic_jp": True},
+    # Revista de negócios japonesa; bastante ruído de conteúdo não-macro, mas
+    # o filtro de tópico/macro_hint já cuida disso.
+    {"id": "toyo_keizai",  "name": "東洋経済オンライン",     "url": "https://toyokeizai.net/list/feed/rss",                  "scope": "japan",  "domestic_jp": True},
 
     # ---- China ----
     {"id": "scmp_business", "name": "SCMP Business",      "url": "https://www.scmp.com/rss/5/feed",                       "scope": "global"},
     # Xinhua: o worldrss.xml responde 200 mas está congelado desde jan/2018.
     # Cobertura vem pela query do Google News (gn_cn_xinhua).
+    # NBS (estatística oficial) tem RSS ao vivo em
+    # stats.gov.cn/english/PressRelease/rss.xml, mas o XML vem malformado
+    # (tag <meta> sem fechar dentro do <channel>) e quebra o parser estrito
+    # (xml.etree) lá pela linha 10498 — testado e confirmado, não é bloqueio
+    # de rede. Em vez de amaciar o parser globalmente (arriscado para as
+    # outras 15 fontes), a ponte é via Google News, que reembala em XML
+    # válido (ver gn_cn_nbs abaixo).
 
     # ---- Taiwan ----
     # O /cna/rss devolve corpo vazio. O feed vivo é o do FeedBurner, que o
@@ -129,7 +145,12 @@ RSS_SOURCES = [
     {"id": "focus_taiwan",  "name": "Focus Taiwan (CNA)", "url": "https://feeds.feedburner.com/rsscna/engnews",           "scope": "taiwan"},
 
     # ---- Coreia ----
-    {"id": "yonhap_en",     "name": "Yonhap English",     "url": "https://en.yna.co.kr/rss/industry.xml",                 "scope": "korea"},
+    # yonhap_en (en.yna.co.kr/rss/industry.xml) está morto — devolve HTML, não
+    # XML. Substituído pelo Korea Herald Business, confirmado ativo.
+    {"id": "korea_herald_biz", "name": "Korea Herald Business", "url": "https://www.koreaherald.com/rss/kh_Business",     "scope": "korea"},
+    # KED Global: a URL certa é /rss, não /newsRss (que devolve um feed quase
+    # vazio, 756 bytes). Substitui a query gn_kr_hankyung, que ficou morta.
+    {"id": "ked_global",    "name": "KED Global",         "url": "https://www.kedglobal.com/rss",                        "scope": "korea"},
 
     # ---- Pan-Ásia / global ----
     {"id": "nikkei_asia",   "name": "Nikkei Asia",        "url": "https://asia.nikkei.com/rss/feed/nar",                  "scope": "global"},
@@ -170,11 +191,19 @@ GOOGLE_NEWS_QUERIES = [
      "q": "site:scmp.com (China economy OR yuan OR PBOC OR property OR fiscal)"},
     {"id": "gn_cn_caixin",  "name": "Caixin",          "region": "china",
      "q": "site:caixin.com OR site:caixinglobal.com (China OR economy OR PBOC OR fiscal)"},
+    # Ampliado além de "逆回购 OR MLF OR 降准": compulsório, MLF por extenso,
+    # operações de compra/venda de títulos, financiamento social agregado
+    # (社融) e a reunião executiva do Conselho de Estado (国常会) — termos que
+    # a auditoria de cobertura apontou como faltantes.
     {"id": "gn_cn_pboc",    "name": "PBoC 中文",        "region": "china",
-     "q": "央行 逆回购 OR MLF OR 降准 when:7d",
+     "q": "央行 (逆回购 OR 买断式逆回购 OR MLF OR 中期借贷便利 OR 降准 OR "
+          "存款准备金率 OR 国债买卖 OR 社融 OR 国常会) when:7d",
      "locale": ("zh-CN", "CN", "CN:zh-Hans")},
     {"id": "gn_cn_xinhua",  "name": "Xinhua / 新华",    "region": "china",
      "q": "site:news.cn OR site:xinhuanet.com (economy OR Politburo OR State Council)"},
+    {"id": "gn_cn_nbs",     "name": "NBS China (GN)",   "region": "china",
+     "q": "site:stats.gov.cn (GDP OR CPI OR PPI OR PMI OR industrial production OR "
+          "retail sales OR fixed asset investment)"},
 
     # ---- Taiwan ----
     {"id": "gn_tw_focus",   "name": "Focus Taiwan",    "region": "taiwan",
@@ -193,8 +222,9 @@ GOOGLE_NEWS_QUERIES = [
     # ---- Coreia ----
     {"id": "gn_kr_yonhap",  "name": "Yonhap",          "region": "korea",
      "q": "site:yonhapnews.co.kr OR site:yna.co.kr (economy OR BOK OR export OR inflation)"},
-    {"id": "gn_kr_hankyung", "name": "한국경제",         "region": "korea",
-     "q": "site:hankyung.com (기준금리 OR 수출 OR 물가 OR 한국은행)"},
+    # gn_kr_hankyung (site:hankyung.com) ficou sem resultado novo desde
+    # fev/2026 — retirado. KED Global entra como fonte RSS direta em vez de
+    # query (ver ked_global em RSS_SOURCES), que é mais confiável.
     {"id": "gn_kr_mk",      "name": "매일경제",          "region": "korea",
      "q": "site:mk.co.kr (economy OR BOK OR export OR won)"},
     {"id": "gn_kr_reuters", "name": "Reuters Korea",   "region": "korea",
@@ -295,6 +325,10 @@ TOPIC_PATTERNS = {
         r"quantitative easing|tapering|tighten\w*|easing (cycle|polic\w+|bias)|"
         r"yield curve control|liquidity (injection|operation))\b"
         r"|\b(boj|pboc|bok|cbc|rrr|ycc)\b"
+        # Nome do relatório trimestral do BOJ ("Outlook for Economic Activity
+        # and Prices") — sem isso a manchete caía como sem-topico porque não
+        # cita "BOJ" nem "growth outlook" no título.
+        r"|outlook for economic activity and prices"
         r"|MLF|LPR|央行|公开市场|公開市場"
         r"|金利|利上げ|利下げ|金融政策|日銀|緩和|据え置き"
         r"|降准|降息|加息|逆回购|中期借贷便利|货币政策|存款准备金|貨幣政策|升息"
@@ -336,11 +370,18 @@ TOPIC_PATTERNS = {
     "activity": _rx(
         r"\b(economic growth|growth (forecasts?|outlook|targets?|rate)|"
         r"industrial (production|output)|retail sales|fixed asset investment|"
+        r"investment in fixed assets|"
         r"unemployment|jobless|payrolls?|employment|consumption|"
         r"econom(y|ies) (grew|expanded|contracted|slowed|shrank)|recession|"
         r"business (sentiment|confidence)|tankan|"
         r"purchasing managers)\b"
         r"|\b(gdp|pmi)\b"
+        # Título-padrão dos comunicados mensais/trimestrais "guarda-chuva" da
+        # NBS chinesa (ex.: "National Economy Maintained Steady Momentum...")
+        # — cobre PIB, produção industrial, varejo e investimento num só
+        # release, mas sem citar nenhum termo específico o bastante para
+        # bater os padrões acima.
+        r"|national economy (maintained|witnessed|operated|showed|made|got off)"
         r"|景気|国内総生産|鉱工業生産|小売|失業|雇用|短観"
         r"|经济增长|国内生产总值|工业增加值|社会消费品零售|固定资产投资|失业率|采购经理"
         r"|성장률|생산|고용|실업|소매판매"
@@ -394,6 +435,11 @@ TOPIC_PATTERNS = {
         r"policymakers?|policy makers?)\b"
         r"|\b(mof|motie|kostat|dgbas)\b"
         r"|金融政策|財政政策|経済対策|日銀総裁|財務相|財務省|経済財政|補正"
+        # Termos político-domésticos do Japão: aprovação de gabinete, pesquisa
+        # de opinião, coalizão — sem isso, notícia de queda de popularidade
+        # do premiê (que costuma anteceder mudança de política econômica)
+        # caía como "sem-topico".
+        r"|支持率|世論調査|連立"
         r"|货币政策|财政政策|国务院|政治局|两会|全国人大|经济工作会议|央行行长|财政部"
         r"|통화정책|재정정책|한국은행 총재|기획재정부|경제정책"
     ),
@@ -428,6 +474,10 @@ MACRO_HINT = _rx(
     r"mof|ministry of finance|state council|politburo)\b"
     r"|央行|人民银行|日銀|金融政策|財政|国債|降准|降息|物価|通胀|关税|财政"
     r"|한국은행|기준금리|물가|재정|관세"
+    # Sem isto, "支持率が急落" (aprovação do gabinete despenca) caía como
+    # tape-de-bolsa antes de chegar no filtro de tópico: 急落/急騰 batem no
+    # STOCK_TAPE_NOISE, e só sobrevivem com uma dica de macro no título.
+    r"|支持率|世論調査|連立"
 )
 
 # Manchete cravada em outro mercado. Só cai se NÃO houver âncora Ásia.
