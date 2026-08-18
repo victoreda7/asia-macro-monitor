@@ -1,13 +1,13 @@
 {
- "generated_at_utc": "2026-08-18T15:27:38.399972+00:00",
- "count": 351,
+ "generated_at_utc": "2026-08-18T15:55:36.283415+00:00",
+ "count": 343,
  "by_region": {
-  "japan": 153,
-  "china": 68,
-  "taiwan": 35,
-  "korea": 95
+  "japan": 147,
+  "china": 64,
+  "taiwan": 38,
+  "korea": 94
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -31,7 +31,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-18T04:14:00+00:00"
+   "newest": "2026-08-18T09:56:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -71,7 +71,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-08-18T15:22:27+00:00"
+   "newest": "2026-08-18T15:37:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -95,7 +95,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-18T12:52:14+00:00"
+   "newest": "2026-08-18T13:32:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -215,7 +215,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-18T12:16:15+00:00"
+   "newest": "2026-08-18T14:56:26+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -239,7 +239,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-08-18T15:05:13+00:00"
+   "newest": "2026-08-18T15:45:43+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -247,15 +247,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-18T07:00:10+00:00"
+   "newest": "2026-08-18T08:48:58+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
    "name": "Taipei Times",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 04/07/2026",
-   "newest": "2026-07-04T07:00:00+00:00"
+   "error": "",
+   "newest": "2026-08-17T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -263,7 +263,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-08-18T15:27:00+00:00"
+   "newest": "2026-08-18T15:55:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -271,15 +271,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-18T13:01:57+00:00"
+   "newest": "2026-08-18T10:01:16+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
    "name": "Xinhua / 新华",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-08-17T13:28:00+00:00"
+   "error": "parada desde 29/06/2026",
+   "newest": "2026-06-29T07:00:00+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -340,6 +340,57 @@
  ],
  "items": [
   {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "China tightens border crossings after Meta's play for AI startup Manus",
+   "url": "https://asia.nikkei.com/politics/international-relations/china-tightens-border-crossings-after-meta-s-play-for-ai-startup-manus",
+   "published_utc": "2026-08-18T15:55:35.861920+00:00",
+   "title_original": "China tightens border crossings after Meta's play for AI startup Manus",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5666e637666739e1"
+  },
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Japan braces for Trump demands on defense, yen ahead of US midterms",
+   "url": "https://asia.nikkei.com/politics/international-relations/japan-braces-for-trump-demands-on-defense-yen-ahead-of-us-midterms",
+   "published_utc": "2026-08-18T15:55:35.861920+00:00",
+   "title_original": "Japan braces for Trump demands on defense, yen ahead of US midterms",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "37222a57393a2904"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Japan Corporate News",
+   "title_en": "Hitachi Energy Invests $300 Million in China to Expand Grid Manufacturing Capacity",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-08-18:newsml_JCN109213:0-hitachi-energy-invests-300-million-in-china-to-expand-grid-manufacturing-capacity/",
+   "published_utc": "2026-08-18T15:31:10+00:00",
+   "title_original": "Hitachi Energy Invests $300 Million in China to Expand Grid Manufacturing Capacity",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "15fed24f97fec9eb"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Chip boom prompts Moody’s to lift Korea growth to 3.5%",
@@ -357,38 +408,22 @@
    "id": "661af607bbeb8c60"
   },
   {
-   "source_id": "tradingview_live",
+   "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
-   "title_en": "Central China Real Estate Expects H1 2026 Loss Of Rmb1.6 Billion-Rmb1.9 Billion",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44F0Y0:0-central-china-real-estate-expects-h1-2026-loss-of-rmb1-6-billion-rmb1-9-billion/",
-   "published_utc": "2026-08-18T14:56:04+00:00",
-   "title_original": "Central China Real Estate Expects H1 2026 Loss Of Rmb1.6 Billion-Rmb1.9 Billion",
-   "region": "china",
+   "title_en": "Global bond markets put governments on notice over fiscal, inflation risks",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWxrV2hFeTRkQjZmS2pjcmpEM1VJd2tTc2lkT1NxVjJ3c0Jpa2ZNQzJ3eFlSa1BoV3pQN3VLNzZEUHM0SHZHMURHLUthd21TV0R6TkY5N0lfR1pKRnRGZGpFc1FzamJfT1l2Q1pYQXloZ25LYWdxOHhQcndkZ21xU1lXZFJwc0ZOcnVqWUkyejNUdVcyWWlORW9rdzZORlJCZjZHMWZNX0tKYU44bDJReUpMcVNlOFBNd0E?oc=5",
+   "published_utc": "2026-08-18T14:56:26+00:00",
+   "title_original": "Global bond markets put governments on notice over fiscal, inflation risks",
+   "region": "japan",
    "topics": [
-    "property"
+    "fiscal",
+    "inflation"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "2c9c6e721fb095e3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China Power International Development To Sell 24.8726% Equity In Qiyuanxin Power",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44F0KT:0-china-power-international-development-to-sell-24-8726-equity-in-qiyuanxin-power/",
-   "published_utc": "2026-08-18T14:49:25+00:00",
-   "title_original": "China Power International Development To Sell 24.8726% Equity In Qiyuanxin Power",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e5479cb290bf902c"
+   "id": "43973cc5879d50aa"
   },
   {
    "source_id": "yahoo_business",
@@ -495,24 +530,6 @@
    "id": "f31af8324f6ded84"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Bond markets from US to Japan whacked as inflation and fiscal worries take hold",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWxrV2hFeTRkQjZmS2pjcmpEM1VJd2tTc2lkT1NxVjJ3c0Jpa2ZNQzJ3eFlSa1BoV3pQN3VLNzZEUHM0SHZHMURHLUthd21TV0R6TkY5N0lfR1pKRnRGZGpFc1FzamJfT1l2Q1pYQXloZ25LYWdxOHhQcndkZ21xU1lXZFJwc0ZOcnVqWUkyejNUdVcyWWlORW9rdzZORlJCZjZHMWZNX0tKYU44bDJReUpMcVNlOFBNd0E?oc=5",
-   "published_utc": "2026-08-18T12:16:15+00:00",
-   "title_original": "Bond markets from US to Japan whacked as inflation and fiscal worries take hold",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bb0847b57540229f"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Iron ore rises on concerns about China demand, stimulus hopes",
@@ -615,6 +632,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0e9b648a516fd9d9"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China Unveils Plan to Boost Consumption in Smaller Cities",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbGloYU9NMU5Wcy1uT1Y5QWZXSWFOcVAyQUxkbTZSOUNxS2hqTVZ1cTZiVVNSTUhVZHBPY2xDSmc0SkpreDFNdjhaTDhPTnliUWw5bm9lSDVtZ3g2OHRXcFNMTkhLZ3owTGdIdkNVQXRMczZyREctSDRVSHc4ckVlbGdJemc4a01NSGJnMjVEN0F1M3NfOHdKbWY5c3lkUGhKa2t4b1pLTjdwWFVFak5TakdR?oc=5",
+   "published_utc": "2026-08-18T09:56:00+00:00",
+   "title_original": "China Unveils Plan to Boost Consumption in Smaller Cities",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ad0bff7ae0422acf"
   },
   {
    "source_id": "gn_kr_ked",
@@ -720,7 +754,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "ajunews.com",
+   "source_name": "아주경제",
    "title_en": "[Time for austerity again] Entering a new period of increase... To what extent is this interest rate increase different from the past?",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZTXNFZUVFMldtaTh2MkszMjh6WlVsZ3ljZERXV09YN0w3alpjV0RMMll2aGRYTkZsSm5jN3dPdUdSVVNlWkVPdXhwUFlDU1FyNkc0Z3RyWmMtQdIBWEFVX3lxTE0wbGpIS2VoS3ZXSGR1d2VXTjZjdzV3N2l0bE9XSm8xa0gxLU1abWJRR3I5TEFBdWFSemhPM0hWRnM3YUdsTVM2UDJkWlZJaU9PbjlzbHhPRS0?oc=5",
    "published_utc": "2026-08-18T08:00:00+00:00",
@@ -774,7 +808,7 @@
    "source_name": "Investing.com",
    "title_en": "Japan’s 10-year yield hits three-decade peak on inflation worries By Reuters",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUNEbkpoTm5fTEZubzZUVWthUTZZWHU0NkFJeW03S214WDYzamVVM2x3TC1WZVVMbmUtdENKb2RLUUdKZ3MwQWV5U212OGZteEJoaDQzLVBiMjlodEZwcE5fdjdPWTZUUUx3NkdnNlptVnJHNFpveVJLOFJNRWtYLVFycURoOTVsX214TURzLVhvVkdWSFRaSlJKbVlxOXFfMkpoR2w1Mi1PeDN4U0d6Wm9Raw?oc=5",
-   "published_utc": "2026-08-18T05:26:15+00:00",
+   "published_utc": "2026-08-18T05:34:00+00:00",
    "title_original": "Japan’s 10-year yield hits three-decade peak on inflation worries By Reuters",
    "region": "japan",
    "topics": [
@@ -1033,7 +1067,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank has not launched 7-day reverse repurchases for 5 consecutive days, and overnight reverse repurchases continue to be launched.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CbmFkZWlIZ29ETXhaV2Fiam9YTUJuVHA4R3hwTWhleDJjLVVUWkQ5b2NBSVpyNUE1b0VPT0x4YzVEUldpNG11RTIxNE5xTXdIMThSTktHSXdqWVhZMFl0d2Rn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rbk9OTDBFM09PQ1o5cld3aUt1ekNGVGstRGlFbUN3NVFWSTVyNm5oYnMtOVN2d2l5U08tMmVXVURVY2NHYmF4eGFMLWYwZw?oc=5",
    "published_utc": "2026-08-18T00:42:28+00:00",
    "title_original": "央行连续5日未开展7天期逆回购 隔夜逆回购接续投放",
    "region": "china",
@@ -1044,7 +1078,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "284dfdbe281a3806"
+   "id": "5576b987ae0877d9"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1389,23 +1423,6 @@
    "id": "a3a8ff2839db7712"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "USD/JPY: Why Bessent Backs Himself for Successful Intervention",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQzBlY1RNVDRSeEF0RnpDd2E4NkdNVnJXVnpyVGF6bTc5akt4VFcxb2RacWdjaVdnQmVaS3pmVE5vdWVpNGlVZzg1VmlhcS1BcllmM2RwSGFDUkxVSXM1aFlwRGNlSG5Zd3BwT0lXQ0llaDlxTlRBYlRmSXlLTnlxdnROT3VLbURhS0lsakRjak9tOUtPRlJnWXMwTTdKV09JelE4cktDblE?oc=5",
-   "published_utc": "2026-08-17T08:39:02+00:00",
-   "title_original": "USD/JPY: Why Bessent Backs Himself for Successful Intervention",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "be781621ded51326"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Reserve Gauge Hits 12-Year High, Smoothing Yuan Rise",
@@ -1509,6 +1526,23 @@
    "id": "5a572febc6a4b2fd"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY: Why Bessent Backs Himself for Successful Intervention",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdElxTlVNWUlmS2pXb2N0SG94SUI1UWJ3aTktb0ZpQ1dPY0JQQl95dDNrUGF0VGZmUFgzSE51YUpLN2RpY29vbE5XYVpLUmRnUWRfZ2JCelhOZ2pjSG9ISmpCYVpPYTFkazJrSTJkMUp3aV9sbDc4MVp1NTQ1ZHVIbEpIazFLOGJQSUt4Y1plVjdWVlpmdWFYRUhNbDlUa1BlbGpxcEhJQQ?oc=5",
+   "published_utc": "2026-08-17T07:29:00+00:00",
+   "title_original": "USD/JPY: Why Bessent Backs Himself for Successful Intervention",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b89de97d198e12f1"
+  },
+  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Taiwan's excess savings forecast to top NT$11 trillion in 2027: DGBAS",
@@ -1577,7 +1611,7 @@
    "id": "dc0db3553ab6b643"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "Taiwan's president says record defence spending an investment in peace",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUhtZ0k5WElRd1ZLNlEtejNuLTZGcXQ0ZXMzRkpVWnk3aFVGaC1GV1EtOWwxQjM5eEdfNm85WGowWGlWQlhSekw2WnV3OXNtV1JRVjdsY2NzcF9HY1VPSDNhcktuV2l3ZWZXaVBNZExsaFN6dGZpcFBBall2MktGME84N2dHbi03WnVqRHRCU1hSMWxOdE5MZE94QnRUTHZWcDBYWFM0MkRqejlUc2xlanlIWQ?oc=5",
@@ -1591,25 +1625,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "edb95779372ed11f"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The Ministry of Finance recovers from the “big shock” and aggressive fiscal policy moves toward reality (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUllXZ3dyQWpHMzFrUDBYUU10bVdmV3pGTHZMR2tLV2RxdnhuVUdiTklPWEhleGdkSjJWU3lvMkNMYXdlc3dQd1UyR3hWVUhKUXVJNGUzVHZOb21yQXdLOGl2MlpLREdNNnUxWlV3bGZIN2FSM3gwcXpLeS1HRUU?oc=5",
-   "published_utc": "2026-08-17T06:44:12+00:00",
-   "title_original": "「骨太ショック」で財務省が巻き返し、積極財政は現実路線へ（TBS CROSS DIG with Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3ed2ff3a89e0841d"
+   "id": "f7f202cf4e284c4a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1647,24 +1663,6 @@
    "id": "d698817a996fdb6c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "环渤海新闻网",
-   "title_en": "The central bank launched a 565.5 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtQ3lGU0FJbTZGSXo3LXh1c2tUT21MZVhsbmVSZU13RU1fMUtBMWpWTWxCbmo2dkVQNU50cmhkS1JQQkotSXRTbWpvV0laS2xmOGR3bFhBcjM1bjBnUjZBb3NSSUtNenBiNnBuRHh6a2lLYmpZ?oc=5",
-   "published_utc": "2026-08-17T06:22:22+00:00",
-   "title_original": "央行今日开展5655亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "36ad94c762996cec"
-  },
-  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Number of furloughed workers down due to export order recovery",
@@ -1698,6 +1696,24 @@
    "live_wire": false,
    "manual": false,
    "id": "de788f8490d8a95e"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Japan Q2 GDP slides past expectations as capex, private spending slow",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT243dHVYcmZzeHg3MF9NdG5FLTl4QzY0SWlkZi1mM3o5aGVsN2QtcGNrSkVzTU1lZkkwalZnNm9Dam5FRzhfREVfX2Vid3M2eVFuZll4YU1sQUh1T1FzTGpWTHFlaTBmSFc0M285VlU2TDlyQ244X3B3QnExazYydzZJb3NlQWFkOWpwNUppTE9WQVY5YkQ5b3VqdXI5cW4wM0FBNlpESi1UVlo5QnB5VGFjT1hZMlktazh2SV9Bb1BHMXRFWnc?oc=5",
+   "published_utc": "2026-08-17T04:37:02+00:00",
+   "title_original": "Japan Q2 GDP slides past expectations as capex, private spending slow",
+   "region": "japan",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "181fcaaf17df7d4b"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1839,6 +1855,23 @@
    "id": "258f43d912acf34f"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar edges lower against euro as markets trim rate hike bets By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdXZvSXRkQWxOMUdKRWxwTjBzMHE0RVhXUEYxdWRqTmdwSGI1SDg3SkdrOE1HWTdFeWp2T092RW9nZGdmSTNPTEhIdEVvMGRBMXFmM0JScno3ZWhPOWN5bjk2TmlVeU5mWmF1d2d4SXR5c2JQek9nWGRCSmVlNWxXSmtxNXl6M1NkSGJYR0R0WEE0ZE1yZ0lCWm1RWDMtVXpuUk9vSmVIbw?oc=5",
+   "published_utc": "2026-08-17T00:47:15+00:00",
+   "title_original": "Dollar edges lower against euro as markets trim rate hike bets By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6817a2502a4eccf4"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Dollar edges lower against euro as markets trim rate hike bets",
@@ -1941,24 +1974,6 @@
    "id": "6c966b6515ecb3fa"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "新华网",
-   "title_en": "Libyan High Council of State rejects resignation of Central Bank governor-Xinhua",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMFl1T0t6Mzg5bmY4ZVhtWnlQYXZCT0lYSFU2QldhYXl6a2NJWEV4NzFoYnZ5LWljTXNVZnNSSU4xYXNockNxdmVfZVN4OEVFN25QMzBBWDRyY3NEcjZsOG1QdXpnQXV0bGdMeHZqazFRWlJMTV9fdjJOeTBFUlBtdTRxY3N1VkdIRFptOTlNSmwtQQ?oc=5",
-   "published_utc": "2026-08-16T16:19:45+00:00",
-   "title_original": "Libyan High Council of State rejects resignation of Central Bank governor-Xinhua",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "23af346fd828e894"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Industry minister again heads for Washington amid growing U.S. tariff pressure",
@@ -1975,6 +1990,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1c8b035514234ed2"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "封面新闻",
+   "title_en": "The central bank launched a 565.5 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlY1RuaEVmMlA3UkplNF9INWFGWHlWaVpHUDVFTU43UFhjVzQ5emdkT2xPNnpMczJpSWE0SVJoZmpXcDkyU1o1NFp2bGR3R1FodVdMMmllNXdKSkM5bHM0cFBNeHJpQzh6WnNDVXFoVmgydnQzS3NrTGtR?oc=5",
+   "published_utc": "2026-08-16T14:27:00+00:00",
+   "title_original": "央行今日开展5655亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "df2371784a9041e3"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2115,23 +2148,6 @@
    "id": "ff714d91aaa548c2"
   },
   {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan Inc. boosts short-term corporate debt holdings amid inflation",
-   "url": "https://asia.nikkei.com/business/finance/japan-inc.-boosts-short-term-corporate-debt-holdings-amid-inflation",
-   "published_utc": "2026-08-15T15:29:11.170287+00:00",
-   "title_original": "Japan Inc. boosts short-term corporate debt holdings amid inflation",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b44edb38591f84f9"
-  },
-  {
    "source_id": "gn_tw_focus",
    "source_name": "Focus Taiwan",
    "title_en": "KMT, Cabinet trade barbs over cuts to central government budget",
@@ -2147,6 +2163,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2f786a3bd77e8c59"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "What happens if USD/JPY goes above 160? ‘Credibility falls further’",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTRROU9SbGdybnNlT2x0VDlmdk5JdThqSV9QWnJreWZlODh6bkJnNTlXT0p6TXpQNkR4OE9HejFyT01nd2xEUGltM2lqbzVqWTZxTWxiaXlxRFl4VzZ1V3EyUzBpWGVwUFNEVVJjMUtXN2s3QTVCblFsT3ZMS1FtdFhuczhvQkIwSXhfbzNlWXRTTzJSTk83TG5raHFNc0FPaDFlRHdSeWZ1SGY5b0k3X0N6bw?oc=5",
+   "published_utc": "2026-08-15T05:33:55+00:00",
+   "title_original": "What happens if USD/JPY goes above 160? ‘Credibility falls further’",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0bd9c20ea7a0c4dd"
   },
   {
    "source_id": "gn_asia_ft",
@@ -2221,10 +2254,10 @@
   {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
-   "title_en": "BOJ eyeing September rate hike, faster pace of tightening, sources say By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDBJaGFZQmxtdmlyWjZNY01JQjloMktRX2d4OVh5YWMyZElOZDV4Yjg0a043b0JBaGpaZmU5eVJ3Z1BhQlFldzdEMTZnR0QxNU9JLXl0M2dtUm5JUkVyT21UalFLblRTM2VERmlkSnB3VW9CSEdkUkV0Q2xaTHdCSW1IY2xrTGdhUGFIRzRMR3IzWTh5RkRoUkQwRzQxazZnVXRIdjlrdW5SUnMtTVFtd0pyYnliaU5TbjVhQw?oc=5",
-   "published_utc": "2026-08-14T21:46:51+00:00",
-   "title_original": "BOJ eyeing September rate hike, faster pace of tightening, sources say By Reuters",
+   "title_en": "Dollar falls on pared rate hike bets, but on track to snap two-week losing streak",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFkzb0FtZ2dvTFBOYldlZnowT2VNN2V1N0FLRk9fdDk1b3ZLUFpoSkNGOFlGQXFpWFh3RUI3bTNOQ0ZfVGd2ZVRCZ0pPb2dxSE4wcWdxTW1IVDl5dUlpLXNnbXJOTVY1eHRlXzZwYzJKMjNiTWJ2Nmxsa0pSMkdTTF92X3JTRktEMUtGeThKNWNCNlZDa2lETlJiRUxRRDZKS0s0VTZ6Qy1kWk1fQnp2ODc3THFkN28?oc=5",
+   "published_utc": "2026-08-14T21:12:11+00:00",
+   "title_original": "Dollar falls on pared rate hike bets, but on track to snap two-week losing streak",
    "region": "japan",
    "topics": [
     "monetary"
@@ -2233,7 +2266,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "515e4d3b2bedfc6b"
+   "id": "6b9f765fbf6de9f1"
   },
   {
    "source_id": "gn_asia_ft",
@@ -2304,6 +2337,23 @@
    "id": "f70959f0ab2f417d"
   },
   {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "KMT, TPP approve full drone budget",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCS1F4VDVzaTB3LXpERldzbDVUSEdiTzMyNHFHZEQ1UG9WOFZidlZkNFkzbGoyUDRsQy1rckw0U3E1SDk2dTRUanpuRG1yQ19nd0l6N0wxYXRGMEFUbzlhQTJJRjdlTFBXTFkxSVJIWkE1V3FFLW5fTQ?oc=5",
+   "published_utc": "2026-08-14T16:00:00+00:00",
+   "title_original": "KMT, TPP approve full drone budget",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "83c5dd6c8cc2b340"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Samsung hires AI experts to accelerate chip business transformation",
@@ -2336,40 +2386,6 @@
    "live_wire": false,
    "manual": false,
    "id": "61857bb142e902b2"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "BofA says US yen intervention may need stronger follow-up",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObi1OUVFyNm93cW1TU21jWmFXSFVwOFNtLWpQTFdtRmRUa0JoUTVmanIwc1hobUdLSlQ5a3EwU25WQjVuTXB5cnhSUjlwN1FRaEdrdnZ0czZfLUJmT09jbzJwLXRUUkFNZTJBaGZiUFhHYm5LdnVPWmZxM3A1YmlHSW8zS0s3NTRobnU3VHdrSHJOOEhIdHlPenRaTnFXWjJPcUJUYmlXcV81MnVvNFNsUEp5d1d3LTRp?oc=5",
-   "published_utc": "2026-08-14T12:54:26+00:00",
-   "title_original": "BofA says US yen intervention may need stronger follow-up",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0c3d21a9b5d07850"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "US Dollar Japanese Yen (USD JPY) Analysis",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBWmowNXAxdWVBbjlJcktKM3hybHU3cThpTGR4ck1RckhjZXFfWXl5WFBybGFGeS1iU05CcnFLTnRrbUNTSXBKZDlyaEJMTmV2M1lPYzhsRnVJNUV5Uy1kMzRFRG9uZw?oc=5",
-   "published_utc": "2026-08-14T12:42:48+00:00",
-   "title_original": "US Dollar Japanese Yen (USD JPY) Analysis",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4b6e0a8e0f23a31a"
   },
   {
    "source_id": "gn_kr_ked",
@@ -2424,6 +2440,23 @@
    "id": "c6a7253e881bc549"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "서울경제",
+   "title_en": "“Entering the base interest rate increase cycle”… It is expected to rise further due to overlapping capital regulations.",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYZG9xWDc5YlprbmFqakJLT2FhR1QtbUVtRkJ1QTZvMUVaVm52ZnMtWU94YmJjd3N1NmxJVlRaYlNyTVZ4ZEx4aGZhWXJ1RzlUa0E?oc=5",
+   "published_utc": "2026-08-14T08:58:14+00:00",
+   "title_original": "“기준금리 인상 사이클 진입”…주담대 자본규제 겹쳐 더 오를 듯",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e7241961779f66aa"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "S. Korean won gains slightly after soft U.S. inflation data",
@@ -2460,20 +2493,21 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Yen’s weekly loss puts more intervention on traders’ radar By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmdUSVFhNEE1TTBkM2E0NmUtRGZHNTNlanoxc0lNRmtXYTlQT29zNW9aWTlzcS1mYUk2NzQ5RUpqSXE2c1NILTBPR05QVmI5S0RmUTFMdU4yLUhzLUhVMjlFeEFhNjR1dGV1Q2FqdzZXVkhiTW1fZjRUZ0ZlOExucER6R2NuemR5NElzQWJ2ckhjdGdrTGpxSl9hMHlGU25oRnhBeVVUaXZHSzVS?oc=5",
-   "published_utc": "2026-08-14T06:15:49+00:00",
-   "title_original": "Yen’s weekly loss puts more intervention on traders’ radar By Reuters",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY Shrugs Off Softer US Data and Faster BOJ Hike Talk",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVThKZ3pQSFhpSThuQUttNXpvY2FYY3pfUDBCQWt2LTFhMFR1bDNVckVzeXpQM3FUYmRGdWlHelJlaGdlXzAtR3V3RE5iZ3diLU5QUFcyMDBTcURLdU0wQWtrUE1kcW84VkxGandyaVdubmFiNUlmbm1hUmdhR09lNGZhZkc0V3lxTFRhTE5wemlnX25lVUs0VzVvOWJROVNuMm5v?oc=5",
+   "published_utc": "2026-08-14T06:34:00+00:00",
+   "title_original": "USD/JPY Shrugs Off Softer US Data and Faster BOJ Hike Talk",
    "region": "japan",
    "topics": [
+    "monetary",
     "fx"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "8136119d4bf3f353"
+   "id": "0be5b86e26749156"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2600,7 +2634,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Nvidia Feynman pushes TSMC A16 and CPO ramp",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjltWExjd29DN0dSNEJ4MXZoazlvX0tiWGZqTVhaMDlOSGRMeWRWNVF5MXVrTTB2LU9rMHZYbHdsaTI5ek9tMWdNSnNlSENjNi15RVJJZDVuT3NVb0NYRTlYTEdUSFpUQ3JEbll6bENNTm1neVcxM1U2bkpKVjNoSDN1MUtMSk5tajlVY053?oc=5",
    "published_utc": "2026-08-14T03:42:43+00:00",
@@ -2617,7 +2651,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "华尔街见闻",
+   "source_name": "wallstreetcn.com",
    "title_en": "The central bank launched a trillion-level buyout reverse repurchase in August, and launched overnight reverse repurchase for the first time in the middle of the month.",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VU0JPTHlWd0p6RU5xekhLMWVyeUJ3LVg5bzV4WkV0Rlh3cnpyWVdwc0pXS1hyNjgwZGhXc3BPQW0wZVhiZnR5Vnh0ajdnWTdvamtz?oc=5",
    "published_utc": "2026-08-14T03:38:55+00:00",
@@ -2634,7 +2668,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "TradingView",
+   "source_name": "es.tradingview.com",
    "title_en": "The unexpired balance of MLF of the People's Bank of China remains unchanged at 7.5 trillion yuan, and the next maturity size will be 600 billion yuan on August 25.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93ZmhodmJ0Tmt4TjFFMy02ZTZRVDVxeUJaUGJsTmxyM2p1MGIxMmdoTDBEcXlHQkplc3RIRk9lazdZM2d1ZmlNbFB4WHAxajFoWTh2azNoUXJUUUV2Y2NUamdWdjVucmZEOFRkMFRxeFpIel9uY1FJ?oc=5",
    "published_utc": "2026-08-14T02:32:13+00:00",
@@ -2718,24 +2752,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e7818143f1bb181f"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Japan may see more yen intervention, faster BOJ rate hikes, ex-top FX diplomat says By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTFNpVjR4UFhJQm1lYW0xaWZTM1BlWlBoMm1ESjJDNmJTZjFzX2lTVlgxQXdGdC1zMEZTMVprRkFJRTV4RmktQWdDb2o3bDF3V29iaHB6WTVUMzJBejlUQmhwYXdRenp0YkJ3bnpuRGhrcTVBUVlfWm9XWnFaaXlpcnFucTh2Z2hzOTFuXzh1b25vaEJGTlBaWmh2TFZMSWpnYjFkSjR2MllTUzg4V09ZX2hkMGhhLVE1Q1FUNExIdjZFS2NpYmd1Y2NGTVo?oc=5",
-   "published_utc": "2026-08-14T00:12:45+00:00",
-   "title_original": "Japan may see more yen intervention, faster BOJ rate hikes, ex-top FX diplomat says By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f3edd5f41449cee3"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2824,23 +2840,6 @@
    "id": "c52a5b472a15b444"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "USD/JPY Tests Japan’s Intervention Line as Carry Demand Rebuilds",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYURKQS1sdlFHR0ZwR0l2a3ZlWm0wdm03REhRZjBETS1FYnFxVWhYTjZTX2c1VEtUT3FxOXZTb1BVMDZ0S3FZRlN6Zk9ob0dHOHI2dGttcnVYVEtwaUI5djVyREJLamJ3S1B1UGxqZnY1YVR5TUQxbEQzcmMwWWp4Y3NiNHdXZjdTUE81TmtjN0xHVi00ZDNodjlPVnVqQ3VrTFBGTE9hdzQ4TzA?oc=5",
-   "published_utc": "2026-08-13T21:17:36+00:00",
-   "title_original": "USD/JPY Tests Japan’s Intervention Line as Carry Demand Rebuilds",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "270e836a54525d02"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Import prices fall for 2nd month in July on oil prices decline, stronger won",
@@ -2859,6 +2858,40 @@
    "id": "4aafe85b58be0b72"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY Tests Japan’s Intervention Line as Carry Demand Rebuilds",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcnZ2V0RZdlZpY1A3Z1FxR2dyS3h6aVBCVDd1NHo1VWVqSDFXMTBtTUI0WHBRdEpXbXotLTNreFE2VHU0dkZOZjBOUW1EbThDQWxrQ04wOUhDT2NoSkk5NnF6NTlja0wzRVA4UlRTVGo4WkpycHd6a19NV3pBM3BtaVZoOHRNWU0yMVZBRV9oV2g5WUlMNURrYmU0bnl6NDZQUjM0QS1UZEVtdw?oc=5",
+   "published_utc": "2026-08-13T20:57:00+00:00",
+   "title_original": "USD/JPY Tests Japan’s Intervention Line as Carry Demand Rebuilds",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0495d8b0dadbc422"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Rates Spark: The Yen Link to US Treasuries",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUpHOXBkb2tWQTI2QnZCQXJMT0ZMNG5oNmg5YVVsVnpvVEFNMlZxaV9aemR4WXlLVlF5Vm9Ba0QweVl2a19rS01aMXdraWlfbFlPOWVNR0habjJtMTktaFllVmNrNkw3ZU5pcWZNcjh2cUVKTERFdWdRZGhGREd1b3JBTzVEOWJfWkEwSTVn?oc=5",
+   "published_utc": "2026-08-13T19:58:00+00:00",
+   "title_original": "Rates Spark: The Yen Link to US Treasuries",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e2306a243603a0a"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China NEVs Top 60% of New-Car Sales as Exports Offset Domestic Slump",
@@ -2874,6 +2907,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bb030e726938603d"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "KMT set to freeze drone development budget",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MTFNPSnBobTJWQVdIRXROaTU4X2ZJZGI4dG5EWkpzUGZvN0dxaVNHQ1EzcEhHUHROcGU3RnJnSGpqaDJBNEJmVGVndEdPSVBvVWdnTE81bDJvZW5hbi1NQzRVTnZtYk5MNEhtcTJXajBnNUhfN2Riakpn?oc=5",
+   "published_utc": "2026-08-13T16:00:00+00:00",
+   "title_original": "KMT set to freeze drone development budget",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4cdc24d300806398"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2929,25 +2979,6 @@
    "id": "69637e88c909a65b"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "SeattleN",
-   "title_en": "The exchange rate is struggling due to the slowdown in U.S. prices... Bank of Korea's August 'back-to-back' calculation method complicated > News Focus",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMczNpT1RvWTJkOU9hMWRwTVVRYjdoXzFiZ0RCdUtwSGthb2kzNkphc3ZHMEdqYnZwc0JvNFhSZkxXSFpmMEZLOWpWRUk?oc=5",
-   "published_utc": "2026-08-13T10:16:21+00:00",
-   "title_original": "美 물가 둔화에 환율 숨통…한은 8월 '백투백' 셈법 복잡 > 뉴스포커스",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "95794979139a25c3"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "Central Bank: Launching 1,000 billion yuan buyout reverse repurchase operation on August 14",
@@ -2981,23 +3012,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c1eaef562c3e7c09"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "USD/JPY in Positive Territory: Yen Gives Back Intervention Gains",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYU1MX0pUdUtabHVHa3hRaEhmT250UVVHaXluX1Z6QTFMeWJHcGh0NU52ZWltZWtFTGZrbElaVXJNYU5jbmlVamllWklIbnVxT01rSEFUQXZJWEx6QXVrUDJDQjBhaHFBT0p4UFFVSGdKakNiUm1CdFB5R3ZZSzhtcko1T0xiekRtaXpmc3JQR1ZRVDMwdzVCejdKaXdmUndPdUxySlV2cV9WQm8?oc=5",
-   "published_utc": "2026-08-13T08:28:17+00:00",
-   "title_original": "USD/JPY in Positive Territory: Yen Gives Back Intervention Gains",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "78ddfda3df8d3f9c"
   },
   {
    "source_id": "boj_whatsnew",
@@ -3052,23 +3066,6 @@
    "id": "526dbe9b3df432a1"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Japanese govt supportive of earlier BOJ rate hike- Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFlncnlsTTNBQnpFb1o1V2N1Sm5BYWkzN1BfNjlJYkVaMG9EX0pmRUVmUC1xU0s3ZzZteTZELXVfLUxoVnkyOGdmbWZ5WVAwNnRWZEUtVkdtNjhyNmxJcFB6QlBpVHhFamVZQ3ExdG9HZzBZNmQ4VFZFeUotZVZLT0VDdjROVnBQYllHdnNNMWxEeFBJOElCUncxbWlVbVVkRjJoRHItTlRPdlVDMVkzOQ?oc=5",
-   "published_utc": "2026-08-13T05:30:35+00:00",
-   "title_original": "Japanese govt supportive of earlier BOJ rate hike- Bloomberg",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f3d015cbfcd9bae3"
-  },
-  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Morning Bid: Fed bets cool, BOJ wagers heat up",
@@ -3118,24 +3115,6 @@
    "live_wire": false,
    "manual": false,
    "id": "84dd905ac43837d0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank's reverse repurchase operations on August 13 were zero, with a net withdrawal of 1 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80Nk1KbWhhMGNWeW9wUHdXbm9QQ2NSa0g3RkZXSEdHeVZrM3hIYk5aN3NmWXFNZjVaeXp3ajFOR0ZFZC1tWVptQm5QdHIzUQ?oc=5",
-   "published_utc": "2026-08-13T01:59:53+00:00",
-   "title_original": "央行8月13日逆回购操作量为零 净回笼10亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b1281e6964285412"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3255,6 +3234,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3a38a135c600cc4f"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Japan PPI inflation misses expectations in July but surges to 3-½ yr peak",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1hWRkJxYWIzU1h3Q0dfWVI2QlhYaU5ubFd6ZzJZT1Jnb0tQQ2FSSXU4eEdPa3V1WEN2a284RjZwUUxYak9mTFNmM0JlNDRvaVl2LW52Skt6M2J5cXFrYWlzaVBLbVVfWEx5VTgtMG1WcDhseExvWlhCbVRIVlg3T0RCaFZMOU5zYWphbTZSWTZvOHB2RkdiZFVUZE9ULUZ1elpIT21ZUnRGcHIydjc1X0lHZF9WX3hHeXcwbWtQVHRrRm5Mdnl3UnNR?oc=5",
+   "published_utc": "2026-08-13T00:22:00+00:00",
+   "title_original": "Japan PPI inflation misses expectations in July but surges to 3-½ yr peak",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f6df1bad440fb527"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3415,11 +3411,11 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Oshkosh Defense demonstrates on-demand parts manufacturing in Japan By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORkJqcmhZMFpPb0hCUnJtQzNSLVFaV1NCeEtjZWpZRUhvRjJvVFZuTEx0cUZZbmVLTzJvY1ZMcU1xWktZeTFxRkV4VkRFWHJIMWItMDh5TFhVbVpCZVBZbHBpUDZnVzlWdmg4bVlmVGJ6ay1QY2h4M2FoS2MyaGpyTEdzdUtBUjhqYVlJc203aDhBNjV1ZzFsWktSbW1CNzVoVmxUN2lBUTUxaG1CWlN3WmlkbHNnRFBZanRidUdtWDRvY21Uc0E?oc=5",
-   "published_utc": "2026-08-12T12:43:54+00:00",
-   "title_original": "Oshkosh Defense demonstrates on-demand parts manufacturing in Japan By Investing.com",
+   "source_name": "Investing.com",
+   "title_en": "Oshkosh Defense demonstrates on-demand parts manufacturing in Japan",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3lLa1hXNFR5Q0ZYLTl0cldfVnlERUVWZTFEZU13XzdxMURKMkNPSEhfTTZOcWdiOEViVVdYNzlfaWw3Z0x3a21HQVNQaWRZLW5qRHhMU05aR2g5aVBzeVVRTXV3aENsb3VzSHNaRUF3LVpEWk9XNDNxbUdSU05sX1NaWk4zTnlQZmRmbDdraUN5NThzTEZQeHYydTJUamt4OUZZN01DRU5PYmx4UURWSzljRkRDUkdmWUZPcVB5anU?oc=5",
+   "published_utc": "2026-08-12T12:29:10+00:00",
+   "title_original": "Oshkosh Defense demonstrates on-demand parts manufacturing in Japan",
    "region": "japan",
    "topics": [
     "industrial"
@@ -3428,11 +3424,11 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "dd2d247d2ef640e3"
+   "id": "231b1acfe5183f88"
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "华尔街见闻",
+   "source_name": "wallstreetcn.com",
    "title_en": "Column of the Central Bank's Q2 Monetary Policy Report: Gradually increase the frequency of overnight reverse repurchase operations to further smooth the transmission of policy interest rates to market interest rates.",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JeVNQbTRTdmFWMFdLeVNqdHRQQ19rRUFDSTB5UVI3NFg5bnFVT1VXWlRZRHB5SDVNWTVpcWdTREpxOHI3Q2tHM3hnZTRIc2hQRGNj?oc=5",
    "published_utc": "2026-08-12T11:12:54+00:00",
@@ -3450,7 +3446,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "stcn.com",
+   "source_name": "观点网",
+   "title_en": "Second Quarter Report of the Central Bank: Carry out medium-term lending facility (MLF) operations in a timely manner to ensure medium- and long-term liquidity supply",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42Vnp5b0NkTjZmQ2FZaXAwemptalkyQjNVNmo5YjZvM0dNbVRTcHV4azVFbi0xcVZFa1c2UkxxTnh3RFh5aFAyVWtwaWhDVENkeWZaOExqelFpRHNPYUYzbnFB?oc=5",
+   "published_utc": "2026-08-12T11:12:42+00:00",
+   "title_original": "央行二季度报告：适时开展中期借贷便利(MLF)操作，保障中长期流动性供给",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "938e8b45e73e38ee"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券时报",
    "title_en": "The central bank announced that it will conduct continuous overnight reverse repurchase operations in the middle of the month",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tQTh5Y3VBcDFJcDFNYWduRl9rZ19oNzYtT2xlNFJQaWN0S0VBMndBZEpINTJ2NWt2TGw4SnJ6TVRGbzlSdDZILVdCOTFaS2pnVHRsbHMxZERPVzFm?oc=5",
    "published_utc": "2026-08-12T11:09:00+00:00",
@@ -3552,40 +3565,6 @@
    "id": "ac905a082a57ddbb"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "AI Still Runs Hot, Yen Flirts With 160, and China’s Oil Cushion Starts to Thin",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1VQajQtVDRyMldqS1BPTjZPTXFXSE1zaWx6Z2VfVUdkYkg0djloRzNLdFI4QXpXTXltdVl0Z1ZmR1RkbW1Ja1NObHNfRTVFdmJqVE1yaEFaNEtCVEJsNDhka1ZPRlhTbU44Z1g0WTJvb3RxSW4zd0ZZcjRGU2VteWRabXlacHhWVG1BVjFPN0NzQS1URDRVb0tXSkNsWEZxTG1nTVhLT3BiQWJxYnNpMFk1ZHhXYTM3elpJ?oc=5",
-   "published_utc": "2026-08-12T06:49:16+00:00",
-   "title_original": "AI Still Runs Hot, Yen Flirts With 160, and China’s Oil Cushion Starts to Thin",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b260f107eeaf805c"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "EUR/USD, USD/JPY Forecast: Fed Hike Bets Ease, Yen Weakness Does Not",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLTc0QU5Vd005RUFlNFF2N1FyZm1BNmlCLVZEQUI2Z19WLTBlY3hKQkhSa1pwRDlWN3dVZmV3NDlWRVlKXzZEdk53N0JTUWd1MVNiLTVlUGU4WllUR0xGRTdZVXM1YmFJUWluOE1XSUotVUpsSXRsbHQ1WV9JODExLUlJaFYtWFBNZTFVUTJ3QUdsT1l2SEFvdmVXRUVsS0E2QmNFUWtPcU1oZU0?oc=5",
-   "published_utc": "2026-08-12T06:49:16+00:00",
-   "title_original": "EUR/USD, USD/JPY Forecast: Fed Hike Bets Ease, Yen Weakness Does Not",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bcc9b076dac2c32f"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "OCP APAC 2026: Microsoft leans on Taiwan supply chain for 'silicon-to-systems' AI buildout",
@@ -3670,6 +3649,24 @@
    "live_wire": false,
    "manual": false,
    "id": "df4cbfe572e1e930"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar gains, yen slips as US CPI meets expectations By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTNLbE14QzRNNEhlbzBpLXVjRGtvbWJNUzZ1SnJzeWhRdVBxV0JHTDlmeEFwN25GQVdzNWRaSC05Nm1pQVhuMDNIdDE3cDJ0ZXVoY3ZBeEFQSTVGd05xSUpOc2Rmcm40UUE0b21IV3owUlNHOFNndDdEdUVmcmZQWVVtanQzSzV6Vl9sRFZjV2VkeGkwMllTYU94emc1UDZ3V2dUQVRwZ201UTFidEtmZ1p2bHRCZw?oc=5",
+   "published_utc": "2026-08-12T01:08:30+00:00",
+   "title_original": "Dollar gains, yen slips as US CPI meets expectations By Reuters",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fd5bf0c30179631f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3808,6 +3805,23 @@
    "id": "d6a1e517b7697cb7"
   },
   {
+   "source_id": "gn_kr_herald",
+   "source_name": "The Korea Herald",
+   "title_en": "July rate hike was no one-off, BOK deputy governor says",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SEhaNFh0YkxQWlM0YllRal81M1k3R3g4akVTOGVHLV83dXhKWXlJRGdhN2cwRWk3YXB4NGRsR044NzA2R1BHRTU0YVJFT1RkTmZ4c0stNA?oc=5",
+   "published_utc": "2026-08-11T06:03:19+00:00",
+   "title_original": "July rate hike was no one-off, BOK deputy governor says",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4bd5ecf3c8cd0e13"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "BOK expected to deliver 2nd rate hike to combat inflationary pressure: BOK senior deputy gov.",
@@ -3824,6 +3838,24 @@
    "live_wire": false,
    "manual": false,
    "id": "2b186009f5eb2ce4"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar flat a day ahead of key CPI data; yen gives up more intervention gains",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd29xWW1zYmEtUE5YdUdYeHRfV1ZDanBWQ3JOeVFib1Z3U2RKeTZjYm0wdXhvVDNLSFFYVnNDMUloYzZFbExWSkJ3TnNSc20xMmluaHo3dmtIRGtTUVNFS0d3WndETWZuc1IyTEx2WnhUclNzWDJsWWRvWHJXZExvYW94aXZiM215N29jcmk3MlhiaWlKQVEzbFlXOV84TGNPbmxuUHU0LVA?oc=5",
+   "published_utc": "2026-08-11T05:17:13+00:00",
+   "title_original": "Dollar flat a day ahead of key CPI data; yen gives up more intervention gains",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "78d9931bb0ed993e"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -3859,6 +3891,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b5a330c5553ac120"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar rises after two-week losing streak, yen gives up more intervention gains",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTN3OVVpZHQtQTcyQ01EaGlxNGVxUGZ3d2w3OHBzQkJnbW9HMlJxVHI0OGEtUjMwdm5jZ213c0hRaXJRdWo5cFBKNy1td2JGSEEwa1cxRnViajdBdG5TUkVrSnJPSHZLUVlfUUZJZjdzZEpxWlJqZU4xTFMzempHQTJtZExFcDQ4akRfTUtHSnpyQWhONC1CSjFNNUstWDlkU1NpVGZ1T3RDOTZYbEcxYUIycVE1TFRvcHhGRjg0eG8?oc=5",
+   "published_utc": "2026-08-10T20:09:44+00:00",
+   "title_original": "Dollar rises after two-week losing streak, yen gives up more intervention gains",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9fff353cdccc5013"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -3911,24 +3960,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d410d75c184e902f"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Japanese Yen Slide Signals Markets Doubt a Near-Term BOJ Rate Hike",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcldva25aNzc1c1FlLV93WWYweGc2dDZKNmdHWWFxZ05TRjItRGdMcUw2OG12dkpESFZ3bUkzYzFwdTBxVWtUVEFIUkx0SWpra2NlQUUzRG8wZllweUoxUDZsZnNDQXQ0Nkhjdm5naklENnlPRzJQN3VQSmV0UjVFSEdXT3diNkdSOHJuR1BqRHRWa3I4aVZxdW5STTVOU0VWdGlQcjYzUHVMQ3FKSXFJ?oc=5",
-   "published_utc": "2026-08-10T13:20:15+00:00",
-   "title_original": "Japanese Yen Slide Signals Markets Doubt a Near-Term BOJ Rate Hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4fc88c132666473d"
   },
   {
    "source_id": "manual_ia",
@@ -4018,23 +4049,6 @@
    "id": "8fbb70aeab4930f5"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "USD/JPY: Intervention Bought the Yen Time, Now Data Has to Do the Heavy Lifting",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjlGMGYwZHNqdnI2WFc2N3VReHdUNWdlQTBfdU05TWNGdE1QanVMUFhHYVNtRlRBQm1reWpkejlWM2R6VG9XaW53SGhSbnhmM28zQWFaNkJqZGt5bkNJdGRjWXhhaUdOQldYdU1Td3JYQ3ZqOTJNN0JlbnhGdWgyd1BjTVZHSXhsUUEyU3d1aFg0WlpjVU0yMHI2ZGFRZXhGdEI3TXFmcmFPWmZwX3hkOW4xWkc0UGowSUxHTWZB?oc=5",
-   "published_utc": "2026-08-10T07:45:11+00:00",
-   "title_original": "USD/JPY: Intervention Bought the Yen Time, Now Data Has to Do the Heavy Lifting",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6044faa72a60c303"
-  },
-  {
    "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Microsoft plans to unveil next-generation AI chip in September, The Information reports",
@@ -4087,23 +4101,6 @@
    "id": "c9e4cf005f5cb3d4"
   },
   {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix rally on U.S. market boost",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EamdjcXh1eXcxMUpuUTB2NXJwYjF4bXJDdURKNVFaMXNaTHRVT2tpeVQwWjJwdkc3ZE5HVE1XdFk4cEtfY1hnbE9tS2lfTUtfSFl4VjdvMA?oc=5",
-   "published_utc": "2026-08-10T02:29:13+00:00",
-   "title_original": "Samsung Electronics, SK hynix rally on U.S. market boost",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "43c32bbff7fce6ca"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Cover Story: China’s Drive to Shore Up Social Security Funds Brings a Payroll Shock",
@@ -4140,7 +4137,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "TSMC, ASE, WPG: the white-knight battles that built Taiwan's chip empire",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckl6WEdOejVnalYxNVNodi1iZHJxM1pHZVZXb3dGSnVDUExYRlBFX2RNb2RJdFpIX0FXVFJwNm5hemVENkl1dnFOX1Bqd3ZjNi1ZUGtTbTJKaGNienY1SU1kUEZvNmljd1lGaEw1eVNuT21razhPUkNPSWtMOHZpWW9FY0FBNGM?oc=5",
    "published_utc": "2026-08-08T00:06:29+00:00",
@@ -4353,7 +4350,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan advances efforts to become global drone hub with non-China supply chain edge",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNF9FdTJCcHN6OGpYVkIzQlg1Q0F4eXB3bXlkR1ZXcHB3ZTJPLXU5WHVZZW5Wa1Nza3k3VjVrckZqaGpQbVFhRUVRYXNUUFRucVBkWkRPOXBnWG1qRDd3b3hlR0xpZ1hLMjhUWXlISUE4SXBaMkZueVRPUGdoQ1RUN3VXejZYWFZNTDY0YnJCc0xXcmVySlFSN1p3WmFJYWt0aTYzclA3c1JuWmNE?oc=5",
    "published_utc": "2026-08-07T08:30:00+00:00",
@@ -4367,6 +4364,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c93258d7a29d0cd8"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan spent record 6.28 tril. yen in forex intervention on April 30",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rWExFRFQyMkl2UE5sWW9xcnQzWGZHci1PREFwdGtHaEU3QTM4MFF3ajZPY0EzTzR0Y1BQWi1ZeUsxZjBIM0lpQjc1TDd2eDBRVXlHUFNCY1V5UQ?oc=5",
+   "published_utc": "2026-08-07T07:00:00+00:00",
+   "title_original": "Japan spent record 6.28 tril. yen in forex intervention on April 30",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8c09c7e26c646003"
   },
   {
    "source_id": "boj_whatsnew",
@@ -5017,23 +5031,6 @@
    "id": "3b6a7305ff14fa97"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "China's State Council launches investigation into Chongqing mountain collapse",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1N1VkV1BaRkRCNzJ0SC11ZTNhWndoUU1sTl81d1ZYekM0Q2ZMa3FRU1RwTjg1LUM2dzRnZ1VkNW02Tk9yd2kxZ1pBbXdpMkQ3MDNuZE5qOFNxbng3Q3lRVlJsT2dRSGF2TlQ5NjhHYkdtLVZMV2tGVUYzUmw?oc=5",
-   "published_utc": "2026-08-04T13:44:18+00:00",
-   "title_original": "China's State Council launches investigation into Chongqing mountain collapse",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8d4e70480a20dd00"
-  },
-  {
    "source_id": "manual_ia",
    "source_name": "The Korea Herald / Bank of Korea",
    "title_en": "Inflation expected to edge up in August on base effect, says Bank of Korea",
@@ -5138,23 +5135,6 @@
    "live_wire": false,
    "manual": false,
    "id": "25ad8518da7d5fd0"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Xinhua News | China's State Council launches investigation into Chongqing mountain collapse",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4SEYzT29GZG03RDVkZEZrZzNrY0VTOG1VNWFPa1JPc1dYVlp1SGNma2hYN0RDOXdyZVRWNnF0b0E1LUtCcjR6cVhfdXpaeGk3VFdYbDUwZ2RYand4Zk1YbldLZGh1SktmQmkzbTR4XzB2aU8yQkk2OU5EbjY?oc=5",
-   "published_utc": "2026-08-04T07:00:00+00:00",
-   "title_original": "Xinhua News | China's State Council launches investigation into Chongqing mountain collapse",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8d3c3d310947fce6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -5364,23 +5344,6 @@
    "id": "46fd4125ffb3090a"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan's paternity leave rate tops 50% for 1st time in fiscal 2025",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrX1FyN0UxYU02ekcyOWpqbDhNeXE2MlE0MGxmclFxT2hZMmtIQkJCVEx4RDBLZlZocDVkYy1YLV9BQy1nSXR6U05Ybm9ZYURyN1BHTi0wV1d1QQ?oc=5",
-   "published_utc": "2026-08-03T07:00:00+00:00",
-   "title_original": "Japan's paternity leave rate tops 50% for 1st time in fiscal 2025",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "036b76554ba4601d"
-  },
-  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Outlook for Economic Activity and Prices (July 2026, full text)",
@@ -5519,23 +5482,6 @@
    "id": "1d63755d8dfda4a8"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "US Treasury alerts banks of possible yen intervention Friday By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1c1dW5CRGlSRGlqR2pWN0pSUlYtNWoxbWxycHlMQjVpQWpFMUJGQmQtQm9qU21pUDV3Z1ItRVRBRFdGeFJmaU1oQVJhSU5XVjQ5SW1CNzZDZFVlSDR2RzM3WWN5TnRLY0ZuTkdEUWZXTUtpZnZFWWFrbnBFOTJUTDVZeXRUNmRsanhUeWNZZzZaR2hza2tqbVBnUWxqZXpqcTdLWHJrUXdKTmt1bjRtQ2tmeWFTSENxWDBjVUF3?oc=5",
-   "published_utc": "2026-07-31T19:34:00+00:00",
-   "title_original": "US Treasury alerts banks of possible yen intervention Friday By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "797e35794bd4842a"
-  },
-  {
    "source_id": "manual_ia",
    "source_name": "The Korea Herald / Ministry of Data and Statistics",
    "title_en": "Korea's industrial output posts biggest gain in six years on autos and chips",
@@ -5623,23 +5569,6 @@
    "id": "2f115ec62245eb2f"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Asia stocks climb as KOSPI rebounds tracking Wall St gains; BOJ holds rates",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQazFYQWl0S0RiOFNVWnViaEtkaWNLWkJXakVtN1NmLTRWeU9iNzByVXR0U19FRS1fZjV6djQ5R1haV0xUanZtMy1SV2tFTGNCMTYyS25VNEZlZmZfVzQ2eHhkUE55azVHRmt4SVJJMVg3Zk43aWhjOWM5cTExbU0zd0NPbHF5S3U4dVo4NDItdTdzVDlWcEltZXg0YzhINi1FUlFQUXRLY1RrRXdzTVRVNVoyVnRrdVliVkRPamViU3RqeTlvMlR6X1RR?oc=5",
-   "published_utc": "2026-07-31T07:00:00+00:00",
-   "title_original": "Asia stocks climb as KOSPI rebounds tracking Wall St gains; BOJ holds rates",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9c7e7f3e20d2d7a9"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan conducts currency intervention to stem yen's fall vs. dollar: source",
@@ -5676,23 +5605,6 @@
    "id": "fcf9a81d1453e7cb"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Japan may have sold $58.97 billion in yen-buying intervention By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1FtX1p6S2hCNmpDNDZYa2s4amFkRmxqUDlyazlMalFoUjQ4alF1aVhtQXNnYnpZdUJVUDdYWXZjVVlfbHV4TUFpV3RXRGVwNFRyUHhyX0V2NVhHaHE5YlVzNTFRaEVNZ25hUDBZelBMVTRuNzFZTVdXdWE1TXIxaTRhQU02NWdIT2JvY19LSGpIY3VyZVhTT3cwWFhXUmhCaF8wYTZDaURvdXl3?oc=5",
-   "published_utc": "2026-07-31T07:00:00+00:00",
-   "title_original": "Japan may have sold $58.97 billion in yen-buying intervention By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b0d4a1643a89959f"
-  },
-  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "nhk.or.jp",
    "title_en": "PM Takaichi announces plan to cut consumption tax on food",
@@ -5708,23 +5620,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4cfdfaa2c7df85c1"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DUGxSS1phemc4cl9jUkQ4YVhuaFVJTUJJa0ZtdGpSbU1mM2tSV3F5SThiLUFKR25LX2tGMjlQX2pyOXl2cFFEUGdyTm9rYzJsdTVoUmFOVEJQVU9rWWJ4djFOSk1QTVRmZDRUZGdSOWgyaWpNcFFiVDFkR0c?oc=5",
-   "published_utc": "2026-07-31T07:00:00+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bf2f41ad1567eebc"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -5883,41 +5778,6 @@
    "live_wire": false,
    "manual": false,
    "id": "84cd955d22958b1c"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Japan fires yen intervention bazooka: Which stocks stand to benefit?",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVzZHYVRpUWpRTzVUR195ZEhkRWZHdUdpamFfS3lYWFptZ1NVNHd6TkowenUzRFlNY1ZsR0FtVDNTSTRnRXV1a1lXSVRSMG1ab3BpVEFJOTdpLXFpX1BhQ3h5WWQxWldVZEVmN3NsQWZmNXpnUnJlUjlrTU5Gd1JwS2g5Q2JDZ2lUd1VOcS1RbFk3Wk4xRk85dTEwX2pIZFA5WGNUcVVaSlpHUDBZYThCU3YyMTRVSUx3Y2dPckExZVRqTUx4M2pz?oc=5",
-   "published_utc": "2026-07-30T07:00:00+00:00",
-   "title_original": "Japan fires yen intervention bazooka: Which stocks stand to benefit?",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cd731d28dfbd1358"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Citigroup recommends dollar-yen trade ahead of BOJ decision",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTFKdUF2MG1wMktTZks5WnljbE1ybTAyNzR5dWhvekxYY2pwbHpjNHVNVm5KalRGUTVONGV2d0l3Y1ZDTWR1b3ZSZ05aWk14dVR6b2pyX2VLT3J2bktjTWtkaFA1MGdGREF3RkNrNGNnWDdJTElfT240XzRNcmJaYkxnSDJmY1dZV29sZllEMUQwQy02V1JJRTRIOTFHVUVvMEkxSnJZcjRxZEVkQWplb1MwYw?oc=5",
-   "published_utc": "2026-07-30T07:00:00+00:00",
-   "title_original": "Citigroup recommends dollar-yen trade ahead of BOJ decision",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f30f6571b574c7e9"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6093,23 +5953,6 @@
    "live_wire": false,
    "manual": false,
    "id": "332334f719d7c4a5"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "State Council establishes special team to investigate deadly south China reservoir breach",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOZXdJQ1ZSUS1aakFPcVNpTmcyYmxtT29jUlRfbjFNU2hiX0RGNVJ0cy0zUWVvaEZZVlZUQ09sRnAxdjJ3YXVVd3BXcVdTN3VyZkdobWNfZXc1dnI2cW5BVUxUT0sxTFRXZVpyVmpKcUpkY2RtNFlsUDFueDQ?oc=5",
-   "published_utc": "2026-07-24T07:00:00+00:00",
-   "title_original": "State Council establishes special team to investigate deadly south China reservoir breach",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b9b9fc10984b5a4"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6351,6 +6194,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2d8000943fa53a5b"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Taiwan shares end up after U.S. rally on eased inflation",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uSkRWQ0xGTUZOajlJTmV0YnJmMEVoWEg1ek9qamlSSmxmLTlLaWRWWjBlRmVoUUFuWlY5WWRMQzhxRDhvMm8wRlVjbm9FN18wTTFKQVBlMA?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "title_original": "Taiwan shares end up after U.S. rally on eased inflation",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b826bafb451a9897"
   },
   {
    "source_id": "manual_ia",
