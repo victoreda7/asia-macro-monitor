@@ -1,14 +1,22 @@
 {
- "generated_at_utc": "2026-08-20T10:43:33.152596+00:00",
- "count": 335,
+ "generated_at_utc": "2026-08-20T11:04:29.955091+00:00",
+ "count": 314,
  "by_region": {
-  "japan": 141,
-  "china": 59,
-  "taiwan": 37,
-  "korea": 98
+  "japan": 140,
+  "china": 58,
+  "taiwan": 36,
+  "korea": 80
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
+  {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -39,7 +47,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-20T07:38:49+00:00"
+   "newest": "2026-08-20T04:14:57+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -71,7 +79,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-08-20T10:17:51+00:00"
+   "newest": "2026-08-20T10:44:55+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -199,7 +207,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-19T12:54:43+00:00"
+   "newest": "2026-08-19T13:30:13+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -207,7 +215,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-20T09:09:34+00:00"
+   "newest": "2026-08-20T09:21:16+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -247,7 +255,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-20T06:00:29+00:00"
+   "newest": "2026-08-20T10:41:53+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -263,7 +271,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-08-20T10:42:18+00:00"
+   "newest": "2026-08-20T11:04:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -295,15 +303,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-08-20T10:24:44+00:00"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-08-19T00:02:34+00:00"
+   "newest": "2026-08-20T10:51:26+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -357,21 +357,38 @@
    "id": "1174717e24a867f0"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's Aurora Mobile Q2 revenue rises on Developer Services growth",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44H0DG:0-china-s-aurora-mobile-q2-revenue-rises-on-developer-services-growth/",
-   "published_utc": "2026-08-20T10:42:18+00:00",
-   "title_original": "China's Aurora Mobile Q2 revenue rises on Developer Services growth",
-   "region": "china",
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Samsung Electronics poised for $72bn shareholder return program",
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-poised-for-72bn-shareholder-return-program",
+   "published_utc": "2026-08-20T11:04:29.549363+00:00",
+   "title_original": "Samsung Electronics poised for $72bn shareholder return program",
+   "region": "korea",
    "topics": [
-    "property"
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c53c90149eb94dfc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Spencer Jakab | The Curious Case of SK Hynix's Buyback — WSJ",
+   "url": "https://www.tradingview.com/news/DJN_DN20260820004348:0/",
+   "published_utc": "2026-08-20T11:00:00+00:00",
+   "title_original": "Spencer Jakab | The Curious Case of SK Hynix's Buyback — WSJ",
+   "region": "korea",
+   "topics": [
+    "industrial"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "76d1e2ee8c70a4e2"
+   "id": "d597ff63cf4db7f7"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -460,23 +477,6 @@
    "live_wire": true,
    "manual": false,
    "id": "dbb1219fe47d1c8a"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AI boom lifts Taiwan tax revenue forecast to record NT$3.52 trillion in 2027",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcEtsZXF1ZEdndUJLdUU0T18xVVVfU29GYWJfSXVKN1pDdlhrcm9tc0x5Smw4OTd3cTJJVlVLcktvcDBZV3RpWDRXMWY1bnlNREQyTGozYXpic3R3RTNTaXZCM29MVXAtZG5IaVk0QzBlT2pyZ0I4SHJzUGVtUzhIZEhCZFZELUZvQ1Z0VVhheG9iSGQt?oc=5",
-   "published_utc": "2026-08-20T07:38:49+00:00",
-   "title_original": "AI boom lifts Taiwan tax revenue forecast to record NT$3.52 trillion in 2027",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0a14c0b51ddc8a91"
   },
   {
    "source_id": "gn_kr_bok",
@@ -775,6 +775,24 @@
    "id": "40fdba128289da41"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Japan trade deficit grows slightly less than expected in July, exports surge",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTjJzNkpOb1h2MmwzU0dRMUxMRlh4QUhhUUh6SEowY0VFT20zYkJoQjE0aEdtaFFqLXB3aUdWaHNlb0RMWXVBNVJqSVhwRnMxcnhQQ1NvdXhkcG9RZ042dXNjZ1NtVWFwcEJsUS03UW5FaTYycDVGbkFrSHp3Y1lkNzR5RnRiUC1abXpSVUhLV01UdERLU2YtY05uekIxaWhQYWxBdi1rRk9pQm56Si03MnBzYlctaVI1ZGVCUFM0NzRYMmg3cWt6a2xHOEs4WEU?oc=5",
+   "published_utc": "2026-08-20T01:48:51+00:00",
+   "title_original": "Japan trade deficit grows slightly less than expected in July, exports surge",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "178faf02e08f73bf"
+  },
+  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "China’s C919 supply chain: inside the push to replace Western aerospace parts",
@@ -808,24 +826,6 @@
    "live_wire": false,
    "manual": false,
    "id": "19ebd18f8d8bbfd7"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Japan trade deficit grows slightly less than expected in July, exports surge",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTjJzNkpOb1h2MmwzU0dRMUxMRlh4QUhhUUh6SEowY0VFT20zYkJoQjE0aEdtaFFqLXB3aUdWaHNlb0RMWXVBNVJqSVhwRnMxcnhQQ1NvdXhkcG9RZ042dXNjZ1NtVWFwcEJsUS03UW5FaTYycDVGbkFrSHp3Y1lkNzR5RnRiUC1abXpSVUhLV01UdERLU2YtY05uekIxaWhQYWxBdi1rRk9pQm56Si03MnBzYlctaVI1ZGVCUFM0NzRYMmg3cWt6a2xHOEs4WEU?oc=5",
-   "published_utc": "2026-08-20T00:47:24+00:00",
-   "title_original": "Japan trade deficit grows slightly less than expected in July, exports surge",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "178faf02e08f73bf"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -1139,6 +1139,23 @@
    "id": "89dad575c2735c48"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财联社",
+   "title_en": "The central bank's 7-day reverse repurchase operation has \"zero delivery\" for 7 consecutive days. Industry: Overnight reverse repurchase operation \"fills\" and becomes a core tool",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9odGtSUVM0MjZyZ1JtTDQzQzMyMFhZV0RfN3NQc1lMMG1rWmZNNUlDd0p2Vm9LNWlNZmxBSWFfdURId3FXV1ZyRQ?oc=5",
+   "published_utc": "2026-08-19T13:30:13+00:00",
+   "title_original": "央行7天期逆回购连续7日“零投放” 业内：隔夜逆回购操作“补位”成核心工具",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fb3311ce592a6202"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Asian stocks tumble as chip rout, bond yields hammer South Korea and Japan markets",
@@ -1223,23 +1240,6 @@
    "live_wire": false,
    "manual": false,
    "id": "35874ffb6fde1a12"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan criticises US over 'unfortunate' sanctions on ICC",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
-   "published_utc": "2026-08-19T09:32:18+00:00",
-   "title_original": "Japan criticises US over 'unfortunate' sanctions on ICC",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9ece937407fa28b2"
   },
   {
    "source_id": "nikkei_asia",
@@ -1396,6 +1396,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3aab6ab6ee104173"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Japan criticises US over 'unfortunate' sanctions on ICC",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
+   "published_utc": "2026-08-19T06:44:00+00:00",
+   "title_original": "Japan criticises US over 'unfortunate' sanctions on ICC",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9ece937407fa28b2"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1695,6 +1712,23 @@
    "id": "6c478a340fc192e4"
   },
   {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Cerebras launches new server chip and system designed to speed AI chatbots",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbU13WV9BblNQekV2Z3RoeUQ2dzFVQkkwQkZWVk5CSVA0LVVBZk16cnJ1YmNOeG9laGpSbTdqU2NNY212dlFYbnl4TjNVaUhOWmxVT0FXZDVjaGdvdGZxWW1mTFhtLWNiTmpUeEtiRUhSUnBPSUExYkE1aFd3VXFvajliLWxlRk9uSWdzbHZBWmxkRXZfcG5ucjc1TWJuR1Zod21zMjROT29TbjZHbWI5VHFtU1o?oc=5",
+   "published_utc": "2026-08-19T00:12:08+00:00",
+   "title_original": "Cerebras launches new server chip and system designed to speed AI chatbots",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f983fc87f780de63"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "청년일보",
    "title_en": "The base interest rate was raised, but only long-term bonds weakened... Treasury bond market: “Supply and demand are more important than policy”",
@@ -1730,23 +1764,6 @@
    "live_wire": false,
    "manual": false,
    "id": "742f5ab062359d3b"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Cerebras launches new server chip and system designed to speed AI chatbots",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbU13WV9BblNQekV2Z3RoeUQ2dzFVQkkwQkZWVk5CSVA0LVVBZk16cnJ1YmNOeG9laGpSbTdqU2NNY212dlFYbnl4TjNVaUhOWmxVT0FXZDVjaGdvdGZxWW1mTFhtLWNiTmpUeEtiRUhSUnBPSUExYkE1aFd3VXFvajliLWxlRk9uSWdzbHZBWmxkRXZfcG5ucjc1TWJuR1Zod21zMjROT29TbjZHbWI5VHFtU1o?oc=5",
-   "published_utc": "2026-08-19T00:01:00+00:00",
-   "title_original": "Cerebras launches new server chip and system designed to speed AI chatbots",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f983fc87f780de63"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1886,23 +1903,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2dceb01054f2cd62"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Takaichi's BOJ appointments in 2027 loom over pace of rate hikes",
-   "url": "https://asia.nikkei.com/economy/bank-of-japan/takaichi-s-boj-appointments-in-2027-loom-over-pace-of-rate-hikes",
-   "published_utc": "2026-08-18T17:12:33.119658+00:00",
-   "title_original": "Takaichi's BOJ appointments in 2027 loom over pace of rate hikes",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "57fbbd55d6d2f6c0"
   },
   {
    "source_id": "korea_herald_biz",
@@ -2284,24 +2284,6 @@
    "id": "a860523002abfe40"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "AI-exposed sectors see sharp drop in youth employment: BOK report",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93dkZhenFOWVFZT2RMX3lDbC03aDM0TGhvLTc0dlRROHF0Rnp6WjkySlpOUktwZzhvNWtEVHF3N0hmQ2FBc2NvUmdoc29sdDI4VjdVemdzbDhfdw?oc=5",
-   "published_utc": "2026-08-18T03:00:01+00:00",
-   "title_original": "AI-exposed sectors see sharp drop in youth employment: BOK report",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "aa12a860b624650d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Dollar feeble as rate hike bets dwindle, Iran war worries grow By Reuters",
@@ -2352,23 +2334,6 @@
    "live_wire": false,
    "manual": false,
    "id": "56d37a8b7c04b0da"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank conducted \"zero operations\" for 7-day reverse repos for 6 consecutive days",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KcEI4M0pkcldWcm1ZM3RJQ0hMNjdzM3hSMXhzbjFZY3RZNW44TXZoWlgzcTlWMkowWUNHeC15VE0wem5mekl2T3lwaGVqSWdYUDZMNkViMWVKRWoxUUFIeE1FTF96ZUQzaUswd1hXSzluN3Nx?oc=5",
-   "published_utc": "2026-08-18T01:23:39+00:00",
-   "title_original": "央行连续6天“零操作”7天期逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8935c7f8e9208292"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2544,7 +2509,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Highlights of the Outlook for Economic Activity and Prices (July 2026)",
-   "url": "https://www.boj.or.jp/en/mopo/outlook/highlight/ten202607.htm",
+   "url": "http://www.boj.or.jp/en/mopo/outlook/highlight/ten202607.htm",
    "published_utc": "2026-08-17T08:00:00+00:00",
    "title_original": "Highlights of the Outlook for Economic Activity and Prices (July 2026)",
    "region": "japan",
@@ -2555,13 +2520,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "be8c4df534b7f154"
+   "id": "933aa20a188f5633"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "BOJ Current Account Balances by Sector (July)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
    "published_utc": "2026-08-17T08:00:00+00:00",
    "title_original": "BOJ Current Account Balances by Sector (July)",
    "region": "japan",
@@ -2573,7 +2538,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2eed9b2e7f343c67"
+   "id": "cda2a62444accba6"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3115,28 +3080,10 @@
    "id": "e7241961779f66aa"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "S. Korean won gains slightly after soft U.S. inflation data",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84QjBjNUEtNTFJMllCWmp2WlprZElrWkFITmRJTnhYSkxqZHJzd1gzQ3pCQnhNeVNnN2lIVXBMeFRfeXdyRDZpdDBYemdvWDBtVi13b3prbUNtUQ?oc=5",
-   "published_utc": "2026-08-14T07:18:36+00:00",
-   "title_original": "S. Korean won gains slightly after soft U.S. inflation data",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6be3545b2b783fd9"
-  },
-  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "(Research Paper) What Prevents Productivity Gains from Translating into Wages: Lessons from Japan's Deflationary Period",
-   "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e12.htm",
+   "url": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e12.htm",
    "published_utc": "2026-08-14T07:00:00+00:00",
    "title_original": "(Research Paper) What Prevents Productivity Gains from Translating into Wages: Lessons from Japan's Deflationary Period",
    "region": "japan",
@@ -3147,7 +3094,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "76f6796552464b7b"
+   "id": "25f01fe3774e49eb"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3378,75 +3325,6 @@
    "id": "23851a41120ce980"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "S. Korean economic recovery strengthens on strong exports, consumption",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jNk5IRjZnMnZjc1VUcnhJZ1NWN3MwX040dV95QjRlbDFfQ3F2YTdzLW5uM19lZEptOVZpSUpDVmxKMmpnWFNyUFhNNEVmbHg2UFZEZ2Vna3l2Zw?oc=5",
-   "published_utc": "2026-08-14T01:00:04+00:00",
-   "title_original": "S. Korean economic recovery strengthens on strong exports, consumption",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2846b876a0641713"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) Seoul shares open sharply higher on U.S. gains amid eased inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtZ3A5UXpOcDRwSktDX3BnR1JtZWdyM3hHYWljc2c3aVYxU3pFOXpiT2pLTXNTTWdHUkg4cDNfM3RrTHFFMEdKd0tzazNNNGk0REhGQWQtN2xMUQ?oc=5",
-   "published_utc": "2026-08-14T00:23:07+00:00",
-   "title_original": "(LEAD) Seoul shares open sharply higher on U.S. gains amid eased inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "65cf4447d15d59e1"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "Seoul shares open sharply higher on US gains amid eased inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uRHBKY05CRE5rMl9uVVN4cWpiZldiMnB3UV8xNnRKUnd2Z0Eyd2xDVGlUTXI2YnRaYVFMaV9qanllMk4xS3pSUEJ5UkcxQlZrZmRKRjZwdw?oc=5",
-   "published_utc": "2026-08-14T00:14:51+00:00",
-   "title_original": "Seoul shares open sharply higher on US gains amid eased inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e7818143f1bb181f"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Seoul shares open sharply higher on U.S. gains amid eased inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qWTBIcmhKMGdpUUFyV09yRFJWdmxsOGlaaS1XZW1xUEFiR3BqdXJpWDNxRkFVOU40QkJHQ1lpRm1CZnR0ZEYzVGV2UHlqdXNMLTNoUEJIeUZUZw?oc=5",
-   "published_utc": "2026-08-14T00:03:22+00:00",
-   "title_original": "Seoul shares open sharply higher on U.S. gains amid eased inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d002b7fc9538b0c9"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "21财经",
    "title_en": "Domestic refined oil products will open a new round of price adjustment window; the central bank launches a 1000 billion yuan buyout reverse repurchase operation today丨21 Morning News",
@@ -3481,24 +3359,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c52a5b472a15b444"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Import prices fall for 2nd month in July on oil prices decline, stronger won",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZUMwR3NWdkZXT0xGdHktWFIzYVpSTXZlX2FKZjg4UVpzUXlEckJtZEU1eTlGdC0tSlFWOV9pamlBbHpqNkEyS3VXMDRWZzQtTGxDX1AyMkZZUQ?oc=5",
-   "published_utc": "2026-08-13T21:00:08+00:00",
-   "title_original": "Import prices fall for 2nd month in July on oil prices decline, stronger won",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4aafe85b58be0b72"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3593,7 +3453,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260810.xlsx",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260810.xlsx",
    "published_utc": "2026-08-13T08:00:00+00:00",
    "title_original": "Japanese Government Bonds Held by the Bank of Japan",
    "region": "japan",
@@ -3604,7 +3464,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "aef9b787128efcbc"
+   "id": "6162df622ebfab5f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -3622,23 +3482,6 @@
    "live_wire": false,
    "manual": false,
    "id": "55ae67c86ddfd2db"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Foreigners remain net sellers of S. Korean assets for 6th month in July: BOK",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nMENxU2ZEeHA0OUMyTDY5aGtDRF91ZG96WXhyMGZDSXBNWW8tNTBsNFJrbzdHQ1FiN1FVTHFWSS1FZlNYLVN1ZElYN09pdGVkODdtUHJiZHJkZw?oc=5",
-   "published_utc": "2026-08-13T03:00:11+00:00",
-   "title_original": "Foreigners remain net sellers of S. Korean assets for 6th month in July: BOK",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e6c1f469ccbed72a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3692,27 +3535,10 @@
    "id": "423f3dabc97d2af3"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK holds US$250 mln in U.S. gold ETF, 1st gold investment in 13 yrs",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YbnppS01PeEg2WkFHUGlrR0Z4dlBfZDdhRXVVeWpBME1maS04dUNwckVFSHZVbnRNdEtZMmp3bFBwVlBwNXJJaTR3Z1ZnZWxJdW9DdE1CSDRiUQ?oc=5",
-   "published_utc": "2026-08-13T01:01:30+00:00",
-   "title_original": "BOK holds US$250 mln in U.S. gold ETF, 1st gold investment in 13 yrs",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c410f8b459f01bff"
-  },
-  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (August 10)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260810.htm",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260810.htm",
    "published_utc": "2026-08-13T01:00:00+00:00",
    "title_original": "Bank of Japan Accounts (August 10)",
    "region": "japan",
@@ -3723,7 +3549,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "56b79dd53fed13c6"
+   "id": "3a38a135c600cc4f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -3747,7 +3573,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Corporate Goods Price Index (July)",
-   "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2607.pdf",
+   "url": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2607.pdf",
    "published_utc": "2026-08-12T23:50:00+00:00",
    "title_original": "Corporate Goods Price Index (July)",
    "region": "japan",
@@ -3758,7 +3584,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "4e0a37f43f73f9eb"
+   "id": "df4f173f581c04da"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -3781,7 +3607,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "(Research Paper) Market Operations in Fiscal 2025",
-   "url": "https://www.boj.or.jp/en/research/brp/mor/mor260812.htm",
+   "url": "http://www.boj.or.jp/en/research/brp/mor/mor260812.htm",
    "published_utc": "2026-08-12T07:00:00+00:00",
    "title_original": "(Research Paper) Market Operations in Fiscal 2025",
    "region": "japan",
@@ -3792,13 +3618,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "eccc2ac3f2eac059"
+   "id": "ac905a082a57ddbb"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "(Research Paper) Mapping Japan's Manufacturing Supply Chains Through Firm-to-Firm Transaction Data",
-   "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e13.htm",
+   "url": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e13.htm",
    "published_utc": "2026-08-12T05:00:00+00:00",
    "title_original": "(Research Paper) Mapping Japan's Manufacturing Supply Chains Through Firm-to-Firm Transaction Data",
    "region": "japan",
@@ -3810,13 +3636,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "78201dce10887409"
+   "id": "23a54fea2a5dfc66"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "(Research Paper) Linkages of Firm Spending Behavior through Supply Chains",
-   "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e14.htm",
+   "url": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e14.htm",
    "published_utc": "2026-08-12T05:00:00+00:00",
    "title_original": "(Research Paper) Linkages of Firm Spending Behavior through Supply Chains",
    "region": "japan",
@@ -3827,24 +3653,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "43d738f4ecd9c747"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "연합뉴스",
-   "title_en": "Seoul shares extend gains late Wed. morning on chip rally",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUmZobmRSOHFmSWctQnF0Mnl4c1ZQaDlJX08ycll6NktoMEZoN2ZvOElKN0Q0d0NPLU9wMGJNSmZtNnB2TWlSU0lNcVVxOW5qeXlfT3B3dHpST2FWWF9BazA4X04xQThhdVB3VW9RX2ZLaW9yTFhhQTh0WFNmd21wN0JHbExOSm8?oc=5",
-   "published_utc": "2026-08-12T02:31:34+00:00",
-   "title_original": "Seoul shares extend gains late Wed. morning on chip rally",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "df4cbfe572e1e930"
+   "id": "27954a038ca07b9e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3881,59 +3690,6 @@
    "live_wire": false,
    "manual": false,
    "id": "aeb27a2fbdd8d49b"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "July rate hike was no one-off, BOK deputy governor says",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SEhaNFh0YkxQWlM0YllRal81M1k3R3g4akVTOGVHLV83dXhKWXlJRGdhN2cwRWk3YXB4NGRsR044NzA2R1BHRTU0YVJFT1RkTmZ4c0stNA?oc=5",
-   "published_utc": "2026-08-11T06:03:19+00:00",
-   "title_original": "July rate hike was no one-off, BOK deputy governor says",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4bd5ecf3c8cd0e13"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK expected to deliver 2nd rate hike to combat inflationary pressure: BOK senior deputy gov.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51ZWhaRVNUM2F2RmlJb2htdWFZc2d6TkN0aVdCZTlaeldZbGVZdUhUcHZteno3cFV5RXNibzRDNkJsbE9ZWDVrSm56c0c5S1I2U1VRMkk2cGFGUQ?oc=5",
-   "published_utc": "2026-08-11T06:00:01+00:00",
-   "title_original": "BOK expected to deliver 2nd rate hike to combat inflationary pressure: BOK senior deputy gov.",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2b186009f5eb2ce4"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Export concentration in top 10 firms rises sharply in Q2 amid chip boom",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3VkNId2NsQjRENmNXWUp1YmFheDNsdlNYbURKM3B6UlkyUHVuRVVKUWNOS0RhX2U5VFdnc053aWRDVnRSdkVHYS1qNmRwdWl3R1lraEhjY2FDdw?oc=5",
-   "published_utc": "2026-08-11T03:00:05+00:00",
-   "title_original": "Export concentration in top 10 firms rises sharply in Q2 amid chip boom",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "919c366fa090d3f3"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -4022,23 +3778,6 @@
    "live_wire": false,
    "manual": true,
    "id": "8fbb70aeab4930f5"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "S. Korea showing signs of improvement on robust chip industry: KDI",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HNzZFRk1Ra2QyUk8zTGpKMnZPQjRtbExSNzNWQVBPSW1jcjJSNVJVRnJpN2V4QnFWckZaSFpzVUxNZW9FblJHTTB2VVZKXzYtWmw4S3ZQSVEyZw?oc=5",
-   "published_utc": "2026-08-10T07:00:00+00:00",
-   "title_original": "S. Korea showing signs of improvement on robust chip industry: KDI",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4c506c436db91499"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4257,7 +3996,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Consumption Activity Index",
-   "url": "https://www.boj.or.jp/en/research/research_data/cai/index.htm",
+   "url": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
    "published_utc": "2026-08-07T05:00:00+00:00",
    "title_original": "Consumption Activity Index",
    "region": "japan",
@@ -4268,7 +4007,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d3d9f294ad8ba496"
+   "id": "59b2bbbcbbf50853"
   },
   {
    "source_id": "nhk_economy",
@@ -4326,7 +4065,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Monetary Base and the Bank of Japan's Transactions (July)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2607.pdf",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2607.pdf",
    "published_utc": "2026-08-06T23:50:00+00:00",
    "title_original": "Monetary Base and the Bank of Japan's Transactions (July)",
    "region": "japan",
@@ -4337,13 +4076,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "70105174aeee2bc0"
+   "id": "c1204892b1de2ecd"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan's Transactions with the Government (July)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2607.pdf",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2607.pdf",
    "published_utc": "2026-08-06T23:50:00+00:00",
    "title_original": "Bank of Japan's Transactions with the Government (July)",
    "region": "japan",
@@ -4354,13 +4093,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "4574d81c10b1dd66"
+   "id": "9e2a6d0587421468"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Market Operations by the Bank of Japan (July)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2607.xlsx",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2607.xlsx",
    "published_utc": "2026-08-06T23:50:00+00:00",
    "title_original": "Market Operations by the Bank of Japan (July)",
    "region": "japan",
@@ -4371,7 +4110,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "c710d7d6822ea5ae"
+   "id": "ed88f2180e8ae91d"
   },
   {
    "source_id": "nhk_economy",
@@ -4458,24 +4197,6 @@
    "live_wire": false,
    "manual": false,
    "id": "55cc85601f80de6b"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(URGENT) S. Korea posts record-high current account surplus again in June: BOK",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUSndhLUN6WDRxaE9rZGRlSERPdXllQTRDQTZkalB1Y0V6a0lHS3hGRWlrYzNfaTNvc18wQUdZTmVnYnlaTUVlTGpjY21fSTRLZkdkbWFXUTJvZw?oc=5",
-   "published_utc": "2026-08-06T07:00:00+00:00",
-   "title_original": "(URGENT) S. Korea posts record-high current account surplus again in June: BOK",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "95d723afe60c1d7d"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -4817,7 +4538,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Sources of Changes in Current Account Balances (Projections for Aug.)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2608.xlsx",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2608.xlsx",
    "published_utc": "2026-08-04T23:50:00+00:00",
    "title_original": "Sources of Changes in Current Account Balances (Projections for Aug.)",
    "region": "japan",
@@ -4828,13 +4549,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "05da9e3bef37b9e1"
+   "id": "0cca00d23a2dc5ac"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Minutes of the Monetary Policy Meeting on June 15 and 16, 2026",
-   "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260616.pdf",
+   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260616.pdf",
    "published_utc": "2026-08-04T23:50:00+00:00",
    "title_original": "Minutes of the Monetary Policy Meeting on June 15 and 16, 2026",
    "region": "japan",
@@ -4846,7 +4567,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "0288a18f5b944d5c"
+   "id": "976b2ace5a6c57ff"
   },
   {
    "source_id": "manual_ia",
@@ -4994,7 +4715,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Collateral Accepted by the Bank of Japan (End of July)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/other/col/col2607.xlsx",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/col/col2607.xlsx",
    "published_utc": "2026-08-04T08:00:00+00:00",
    "title_original": "Collateral Accepted by the Bank of Japan (End of July)",
    "region": "japan",
@@ -5005,7 +4726,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "68ee85286086ce2b"
+   "id": "25ad8518da7d5fd0"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -5096,7 +4817,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "(BOJ Review) Impact of the Bank of Japan's Reductions in JGB Purchases on the JGB Markets",
-   "url": "https://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e10.htm",
+   "url": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e10.htm",
    "published_utc": "2026-08-04T06:30:00+00:00",
    "title_original": "(BOJ Review) Impact of the Bank of Japan's Reductions in JGB Purchases on the JGB Markets",
    "region": "japan",
@@ -5108,13 +4829,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "f1b62991c6ade574"
+   "id": "9a512329127978ee"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (July 31)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260731.htm",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260731.htm",
    "published_utc": "2026-08-04T01:00:00+00:00",
    "title_original": "Bank of Japan Accounts (July 31)",
    "region": "japan",
@@ -5125,7 +4846,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "4815b7355bdde851"
+   "id": "42d24e4f32436f54"
   },
   {
    "source_id": "manual_ia",
@@ -5217,7 +4938,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Outlook for Economic Activity and Prices (July 2026, full text)",
-   "url": "https://www.boj.or.jp/en/mopo/outlook/gor2607b.pdf",
+   "url": "http://www.boj.or.jp/en/mopo/outlook/gor2607b.pdf",
    "published_utc": "2026-08-03T05:00:00+00:00",
    "title_original": "Outlook for Economic Activity and Prices (July 2026, full text)",
    "region": "japan",
@@ -5228,13 +4949,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "4fd19b53f533d2b7"
+   "id": "da9fe5c30f33d702"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Sources of Changes in Current Account Balances and Market Operations (July)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf07.xlsx",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf07.xlsx",
    "published_utc": "2026-08-03T04:00:00+00:00",
    "title_original": "Sources of Changes in Current Account Balances and Market Operations (July)",
    "region": "japan",
@@ -5245,24 +4966,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "fe7027f458a878fc"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "연합뉴스",
-   "title_en": "No. of 1st-time exporters up nearly 4 pct in 2025: data",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWR6NjlablRNeTB4cGEySFRkdDc2T3hrQjZTaTVhSmpVSGo4aWc1amotUkhGWjhxZjNGZ1dqc1RFRkxURUJGQXR6X2FRU0paZjkzQXk0ZTZnY0w2TjcwTmFZZVVQVDhlQUhZeFVoX0VIc3o3c3BtQzhUalhNZktUeHVHVnkyZ1k?oc=5",
-   "published_utc": "2026-08-03T00:27:05+00:00",
-   "title_original": "No. of 1st-time exporters up nearly 4 pct in 2025: data",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "014cbb419e4f1516"
+   "id": "082e5dc7caf3f896"
   },
   {
    "source_id": "manual_ia",
@@ -5563,7 +5267,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Outlook for Economic Activity and Prices (July 2026, The Bank's View)",
-   "url": "https://www.boj.or.jp/en/mopo/outlook/gor2607a.pdf",
+   "url": "http://www.boj.or.jp/en/mopo/outlook/gor2607a.pdf",
    "published_utc": "2026-07-31T04:25:00+00:00",
    "title_original": "Outlook for Economic Activity and Prices (July 2026, The Bank's View)",
    "region": "japan",
@@ -5574,13 +5278,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "f4ef36a3d613c573"
+   "id": "17679da9ad5a3267"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Statement on Monetary Policy",
-   "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260731a.pdf",
+   "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260731a.pdf",
    "published_utc": "2026-07-31T04:25:00+00:00",
    "title_original": "Statement on Monetary Policy",
    "region": "japan",
@@ -5592,13 +5296,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "93b21a0b9a0e66fc"
+   "id": "547160a68d872cbb"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Scheduled Dates of Monetary Policy Meetings in 2027",
-   "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/m_ref/mref260731a.pdf",
+   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/m_ref/mref260731a.pdf",
    "published_utc": "2026-07-31T03:11:00+00:00",
    "title_original": "Scheduled Dates of Monetary Policy Meetings in 2027",
    "region": "japan",
@@ -5610,7 +5314,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "94380226c105357e"
+   "id": "69064943c0f50db7"
   },
   {
    "source_id": "manual_ia",
@@ -5663,25 +5367,6 @@
    "live_wire": false,
    "manual": false,
    "id": "84cd955d22958b1c"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) BOK signals continued monetary tightening amid rising inflation, sound economic growth",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UUWpIUzNmQjNNNzZvRXlGVEhpUTM1MjBHQXVMOXhvV0tlR2ZkNnU3R1h0dExZdDM5bzVqZHU1UzJPc0kxeTFtMUtLemNJZ3I1aTQ2MU1aTVpBdw?oc=5",
-   "published_utc": "2026-07-29T07:00:00+00:00",
-   "title_original": "(LEAD) BOK signals continued monetary tightening amid rising inflation, sound economic growth",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "579e03d3ad92368d"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -5739,7 +5424,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Average Contract Interest Rates on Loans and Discounts (June)",
-   "url": "https://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2606.pdf",
+   "url": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2606.pdf",
    "published_utc": "2026-07-28T23:50:00+00:00",
    "title_original": "Average Contract Interest Rates on Loans and Discounts (June)",
    "region": "japan",
@@ -5750,13 +5435,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "768347e1cfc36676"
+   "id": "fa6865b8b2304b41"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Indicators for Core CPI",
-   "url": "https://www.boj.or.jp/en/research/research_data/cpi/index.htm",
+   "url": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
    "published_utc": "2026-07-28T05:00:00+00:00",
    "title_original": "Indicators for Core CPI",
    "region": "japan",
@@ -5767,13 +5452,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9774b75f82219d2f"
+   "id": "549870a4319d8a4a"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "(IMES Newsletter) 2026 BOJ-IMES Conference",
-   "url": "https://www.boj.or.jp/en/about/release_2026/rel260727a.htm",
+   "url": "http://www.boj.or.jp/en/about/release_2026/rel260727a.htm",
    "published_utc": "2026-07-27T07:00:00+00:00",
    "title_original": "(IMES Newsletter) 2026 BOJ-IMES Conference",
    "region": "japan",
@@ -5784,13 +5469,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "f02845e508d7266c"
+   "id": "d1e5f02bef6ed3b0"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Services Producer Price Index (June)",
-   "url": "https://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2606.pdf",
+   "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2606.pdf",
    "published_utc": "2026-07-26T23:50:00+00:00",
    "title_original": "Services Producer Price Index (June)",
    "region": "japan",
@@ -5801,7 +5486,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "520ab5dbb3fe3a16"
+   "id": "7d66d17212eeff8d"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -5838,27 +5523,10 @@
    "id": "9b9b9fc10984b5a4"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Gov't to step up efforts to tame inflation amid renewed Middle East tensions",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hcWx2MGVrc0pucGNtS25aOGdOTUNKemhudzFYRzVrdGFfNzBOeGlvWlhQOGdzeUNtc0lTcmZxVTREbXJjR2QyVlB1RzRwdkNNdEZDYUVQRWhxUQ?oc=5",
-   "published_utc": "2026-07-24T07:00:00+00:00",
-   "title_original": "Gov't to step up efforts to tame inflation amid renewed Middle East tensions",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f7949b69f62dfc6d"
-  },
-  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Developments in Real Exports and Real Imports",
-   "url": "https://www.boj.or.jp/en/research/research_data/reri/index.htm",
+   "url": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
    "published_utc": "2026-07-23T07:00:00+00:00",
    "title_original": "Developments in Real Exports and Real Imports",
    "region": "japan",
@@ -5869,48 +5537,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ef504da8e8250954"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(News Focus) Sharper-than-expected Q2 growth fuels expectations for another rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YVnNyY3RuSEpVMFhSQXlONjR2UW9kazdjWWJKcEt2VEU0bTZ1a0VFbUQwMjctelNZWWZvVGxORks2c1ppVDFEMEpaSkpYaHZqZlBaOTNsWVRNdw?oc=5",
-   "published_utc": "2026-07-23T07:00:00+00:00",
-   "title_original": "(News Focus) Sharper-than-expected Q2 growth fuels expectations for another rate hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9557fad20381efb4"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(3rd LD) S. Korea's GDP expands 0.6 pct in Q2, with 3 pct annual growth on track: BOK",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VRV83X0h0dXlLdnd5OFBNRDk5VEVzQTQzRTFrMzR6WXJtTzFrUVp4NUpiN0dXZVVJLUJqb1UzaVk1NGxhN1JMSUtBN2ZyN3c5WkZmWUlGbmdydw?oc=5",
-   "published_utc": "2026-07-23T07:00:00+00:00",
-   "title_original": "(3rd LD) S. Korea's GDP expands 0.6 pct in Q2, with 3 pct annual growth on track: BOK",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "34ae3a73b90560bd"
+   "id": "660ca9ffa7c57e97"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "(BOJ Review) The Development and Strengthening of International Forums in Asia with the Participation of the Bank of Japan",
-   "url": "https://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e09.htm",
+   "url": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e09.htm",
    "published_utc": "2026-07-22T07:00:00+00:00",
    "title_original": "(BOJ Review) The Development and Strengthening of International Forums in Asia with the Participation of the Bank of Japan",
    "region": "japan",
@@ -5921,7 +5554,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "f46458ea9f1c7c98"
+   "id": "3df3ce7a508e211e"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -5946,7 +5579,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (July 20)",
-   "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260720.htm",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260720.htm",
    "published_utc": "2026-07-22T01:00:00+00:00",
    "title_original": "Bank of Japan Accounts (July 20)",
    "region": "japan",
@@ -5957,7 +5590,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e51d8f39a4b8699e"
+   "id": "9c2f2ceae5388ec8"
   },
   {
    "source_id": "gn_jp_mof",
