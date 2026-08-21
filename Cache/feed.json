@@ -1,22 +1,14 @@
 {
- "generated_at_utc": "2026-08-21T19:18:10.236922+00:00",
- "count": 356,
+ "generated_at_utc": "2026-08-21T19:40:31.409572+00:00",
+ "count": 361,
  "by_region": {
-  "japan": 135,
+  "japan": 138,
   "china": 72,
-  "taiwan": 39,
-  "korea": 110
+  "taiwan": 40,
+  "korea": 111
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.5,
  "sources": [
-  {
-   "source_id": "toyo_keizai",
-   "name": "東洋経済オンライン",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP 503",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -271,7 +263,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-08-21T19:16:39+00:00"
+   "newest": "2026-08-21T19:40:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -320,6 +312,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-08-06T07:00:00+00:00"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "name": "東洋経済オンライン",
+   "ok": true,
+   "count": 20,
+   "error": "",
+   "newest": "2026-08-22T04:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -791,6 +791,23 @@
    "id": "ed7675aee19486b0"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Attention is focusing on whether Samsung Electronics will continue its recently started rally in exp..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14bWFEUFA3aDRpWTR3ME9USE12d2tWOVNGbFJzT0JNeTI2bUx3ZDdsM1liNzItMEZxelBvdW5QRXZKbFQ1ejVaX09GNEZ0S1U?oc=5",
+   "published_utc": "2026-08-21T08:38:07+00:00",
+   "title_original": "Attention is focusing on whether Samsung Electronics will continue its recently started rally in exp..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "44171aa5cab93e4e"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "경향신문",
    "title_en": "What is the base interest rate for the second half of this year predicted by domestic financial groups?",
@@ -843,6 +860,40 @@
    "id": "6cae653b6b42bd3b"
   },
   {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Mitsui Fudosan's urban development efforts include \"condominiums that get better with age\"... What is the mechanism for acquiring large projects one after another | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/955389?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-08-21T08:01:00+00:00",
+   "title_original": "三井不動産の街づくりで｢経年優化するマンション｣…次々と大型案件を獲得していく仕組みとは | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f489eead630a005b"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "A completed property is an \"asset\"... A winning pattern of a sales strategy that does not offer discounts as seen in Sumitomo Real Estate's \"City Tower Senju Ohashi\" | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/955320?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-08-21T08:00:00+00:00",
+   "title_original": "完成物件は\"財産\"…住友不動産｢シティタワー千住大橋｣に見る値引きしない販売戦略の勝ちパターン | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "72acafa18ffa5589"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Tech Brief (Aug. 21): Memory-Chip Maker YMTC Moves Closer to Shanghai IPO",
@@ -875,6 +926,24 @@
    "live_wire": false,
    "manual": false,
    "id": "660ca9ffa7c57e97"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Korean Chipmakers’ Cash Payout Plans May Drive Won Rally Further",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV25UUWMxcVBuSjNpMVBZWHpNMnZsUDBhV3JXa0FSVXByVGw2WV9aVTE1OTNPMWNfR2Z0NzRqOHBuQlRvLWI4M1hrVDJvc1lER2RZZ0tUOGlQZmkwYnBoZXVJTXB1c3hMbXpya1ZQQ290RXVDYTJFY0dHb2FwVzdxNlBQei1xS0VfcldHLVR6VVVRUmsyc3pzTGlsQUlyYjQtamZxdzV0LXd4OHJJUW56NDU5YS0?oc=5",
+   "published_utc": "2026-08-21T06:33:00+00:00",
+   "title_original": "Korean Chipmakers’ Cash Payout Plans May Drive Won Rally Further",
+   "region": "korea",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc0fec207b295a08"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -927,23 +996,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6d4333c713540d79"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Insurance stocks are on the rise in the prospect of improving the deficit (loss ratio) as major non",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iSlBRalpsSWZzVFB2SmhfYmJkQ1UtdjQxNGh0UzF3alRDeXJOSTBDOTB3YTUtRnNYQ2NwcDZyMEtxamNXbVN3X1ptZjRPZ00?oc=5",
-   "published_utc": "2026-08-21T05:58:48+00:00",
-   "title_original": "Insurance stocks are on the rise in the prospect of improving the deficit (loss ratio) as major non",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b52586a171aa40b4"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -1209,7 +1261,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "v.daum.net",
    "title_en": "Kwon Min-soo, Deputy Governor of the Bank of Korea, “Decides monetary policy cautiously yet flexibly”",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Lc3Bnc2JTME9yaFFJWGFNUEpNVE5fdkZydW9wTVI1bGNZeU9UVk0xOUctTTZCdHZwQnBjXzJTcl96bDVoZmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ETGIzNG1iUG04X2JpcGhCVzdLM0JJQkh2LXJQak5KRTNSdXdaMjNZSTVCMHVzcDVEUnE5bVRndE1jRVVkbFN0dGlyS2piYXdsVzBUWQ?oc=5",
    "published_utc": "2026-08-21T01:54:05+00:00",
    "title_original": "권민수 한은 부총재 \"신중하면서도 유연하게 통화정책 결정\"",
    "region": "korea",
@@ -1221,7 +1273,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "acad4a9d52d56b10"
+   "id": "4e62d228ada45509"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1367,7 +1419,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스토마토",
    "title_en": "New Bank of Korea Deputy Governor Kwon Min-soo \"Needs prudent and flexible monetary policy\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EMTBpZ0dSWmJoMWxqbWdIN0dTTzhreU9mZEp5VEdjcUtJeWpSQ1RpZ21OVjdab2FPVzNHVkpQbHpVRWczNTlCb19TM2pCOE1DYUJUWF9qcnBGNEZENl9XZA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvMFZXeXlaTGlRcXdSQlpoZUxYUmthZE52OHhzekkxcEZ6bjdMMWZyVVE0LWhKRXlVcEt3cU5PQVJwb2xlOThLUU9CNGhWR29rRnVEX3JveTQ0akNqU0JCcA?oc=5",
    "published_utc": "2026-08-21T01:21:20+00:00",
    "title_original": "권민수 신임 한은 부총재 \"신중·유연한 통화정책 필요\"",
    "region": "korea",
@@ -1379,7 +1431,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ed119069c332f068"
+   "id": "59298cce172b0441"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1645,6 +1697,25 @@
    "id": "3e39db2aeba05ce6"
   },
   {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "After all, America's problem lies in \"remaining high U.S. interest rates\"... Surprise buyback of U.S. bonds confirms intention of coordinated intervention | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/955427?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-08-20T21:00:00+00:00",
+   "title_original": "やっぱりアメリカの問題意識は｢高止まりする米金利｣にある…サプライズの米国債買い戻しが協調介入の意図を裏付ける | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1f403b2cbb236346"
+  },
+  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "Nvidia denies report it is rolling out China AI chip by year-end",
@@ -1798,7 +1869,7 @@
    "id": "cfb9de4ae6eb184c"
   },
   {
-   "source_id": "gn_jp_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "China exports to US rise of rare earth critical to aerospace sector",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjJ5dXdmOHpZVlowLWJyTHFTcnl2cTZqN0pxNVpSVDVjMEx1R3czdURjWVdSYW1NV0l2OENTZ0c5MWtlYVkyMk51OUJVLUIya3EyOGxJOWtJdEFwMVpkQzZDVk5MMFZJU3ZyNXhQMi1KdVVObHhGOTl1Ty1pa1NrT3VucjNXcHdMN3R2ZHZFcmdCZVQtZ2VRQkZHbDNjMDJsdDNla0RwQW5XbkFBVHFVOEE4MA?oc=5",
@@ -1812,7 +1883,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "349f47eadb620d26"
+   "id": "87fca67a172f0fea"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3408,7 +3479,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "新浪网",
    "title_en": "Experts predict that overnight reverse repos may become the core policy tool for short-term liquidity of the Central Bank of China.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDNaeWEzeWNSbWllZ0hHZFEyd003QnBLLUhuVGhlUGFocDdtcmtyZ3RINlBBNG5lS2ZBNjhNSERVSEVJZEFhcWF4OWszWl9LWVM1bU13OUl0cTZlVnZYVVUxOTFxclBZR1U3Q3BWREtGa3NZby1oNVd6VE9wM0xTb3BfUXhuNkZGZV9ZOV81d2JMaWJEaWNVUmhIRUY3VVAw?oc=5",
    "published_utc": "2026-08-18T02:38:42+00:00",
@@ -4101,7 +4172,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Nvidia Feynman pushes TSMC A16 and CPO ramp",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjltWExjd29DN0dSNEJ4MXZoazlvX0tiWGZqTVhaMDlOSGRMeWRWNVF5MXVrTTB2LU9rMHZYbHdsaTI5ek9tMWdNSnNlSENjNi15RVJJZDVuT3NVb0NYRTlYTEdUSFpUQ3JEbll6bENNTm1neVcxM1U2bkpKVjNoSDN1MUtMSk5tajlVY053?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0kxMDFESkw0TFI1OWlERnlsOUlXMDBnWWJCRGZFenJWdDFsWDFFbGFVR2Z4RUZ1cDY2aWxJLWdsUS1teGk3NUZiZkEwb1o0SXVaSlV2ejdRanktRFFLRTU5eEtjcGlwX3NSc05sY3NnVFJhSGpQalRrZjR1UEdFSThET2lidnd5djNlRQ?oc=5",
    "published_utc": "2026-08-14T03:42:43+00:00",
    "title_original": "Nvidia Feynman pushes TSMC A16 and CPO ramp",
    "region": "taiwan",
@@ -4112,7 +4183,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "cc954318015ffdd3"
+   "id": "70e42bcce3774f27"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4570,8 +4641,8 @@
    "id": "4af1daafc1760c1d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "We ask Finance Minister Katayama, who holds the key to reducing the consumption tax on food products",
    "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199621000.html",
    "published_utc": "2026-08-07T12:57:08+00:00",
@@ -4586,7 +4657,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "921501cf4044e354"
+   "id": "5e4be4703212b5da"
   },
   {
    "source_id": "manual_ia",
@@ -4641,8 +4712,8 @@
    "id": "34646628821fcb2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "June economic trend index rises; economic outlook remains ``improved'' Cabinet Office",
    "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199331000.html",
    "published_utc": "2026-08-07T08:55:53+00:00",
@@ -4656,7 +4727,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f4cb3d1990757e57"
+   "id": "b01b2e568f7c5d29"
   },
   {
    "source_id": "nhk_economy",
@@ -5130,8 +5201,8 @@
    "id": "ab710a0c58e01eb4"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi says it is possible to achieve both a strong economy and fiscal sustainability",
    "url": "http://www3.nhk.or.jp/news/html/20260805/k10015197231000.html",
    "published_utc": "2026-08-05T06:21:29+00:00",
@@ -5144,7 +5215,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "01564c392bcda51e"
+   "id": "6a34b4bb606d05db"
   },
   {
    "source_id": "nhk_politics",
@@ -6433,6 +6504,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2d8000943fa53a5b"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Taiwan shares end up after U.S. rally on eased inflation",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uSkRWQ0xGTUZOajlJTmV0YnJmMEVoWEg1ek9qamlSSmxmLTlLaWRWWjBlRmVoUUFuWlY5WWRMQzhxRDhvMm8wRlVjbm9FN18wTTFKQVBlMA?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "title_original": "Taiwan shares end up after U.S. rally on eased inflation",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b826bafb451a9897"
   },
   {
    "source_id": "gn_tw_focus",
