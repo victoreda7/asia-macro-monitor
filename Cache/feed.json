@@ -1,22 +1,14 @@
 {
- "generated_at_utc": "2026-08-23T17:01:44.194846+00:00",
- "count": 348,
+ "generated_at_utc": "2026-08-23T17:29:26.259725+00:00",
+ "count": 350,
  "by_region": {
-  "japan": 131,
-  "china": 65,
+  "japan": 132,
+  "china": 67,
   "taiwan": 40,
-  "korea": 112
+  "korea": 111
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 33.8,
  "sources": [
-  {
-   "source_id": "gn_cn_nbs",
-   "name": "NBS China (GN)",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -79,7 +71,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-08-23T16:37:12+00:00"
+   "newest": "2026-08-23T17:00:29+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -162,6 +154,14 @@
    "newest": "2026-08-20T09:04:01+00:00"
   },
   {
+   "source_id": "gn_cn_nbs",
+   "name": "NBS China (GN)",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-08-17T07:00:00+00:00"
+  },
+  {
    "source_id": "gn_jp_nhkworld",
    "name": "NHK World EN",
    "ok": true,
@@ -223,7 +223,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-23T04:59:00+00:00"
+   "newest": "2026-08-22T06:47:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -263,7 +263,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-08-23T16:55:04+00:00"
+   "newest": "2026-08-23T17:15:36+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -271,7 +271,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-23T10:44:11+00:00"
+   "newest": "2026-08-23T13:37:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -732,24 +732,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fda80d884b378d94"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "위키리크스한국",
-   "title_en": "Should the base interest rate go to 3%? On the 27th, the Bank of Korea’s Monetary Policy Committee’s ‘raise vs. freeze’ decision was tense.",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wUFBnN0xBVXV3Z3l1LThVaDQxSmN2S191VVFRNjQxdThveHBpM0FPd1F1clZLb3FOZmVKMlZvQW4xVzRxSVp2TXpXSmJOSHpVVFdMSHA5aV9hZW15QWQ3X0I1SGl1SmJpTU5JUXkyMmo?oc=5",
-   "published_utc": "2026-08-23T00:56:00+00:00",
-   "title_original": "기준금리 3% 갈까…한은 27일 금통위 ‘인상 vs 동결’ 팽팽",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d56ffeea4dd3faf1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2033,23 +2015,6 @@
    "id": "59298cce172b0441"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "SK Hynix plans semiconductor fab in Japan, Hankyoreh reports By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM3JDaHNIeVljVEJGTUVmUVJOeGFibzB2N3ZfUHRURDQ2Q1JJNnZiNEhMU0Q3VDNsQkl5OWlOby1LMV9TRW1RdzBtYmowWEw4WmVYVW1CaXNHc3hTdGkwWXprbVM4NDFhS1V1OVY0dkxhWkllN1BYV1hTZEZiWlRxRnIzZ0gwR2RKMk5ZUjhBaVQ1Mk14ZnpONFlObUR0X2VHZ3BKWld2MW9NdWs4Vkl1aWthRVpCUQ?oc=5",
-   "published_utc": "2026-08-21T01:01:05+00:00",
-   "title_original": "SK Hynix plans semiconductor fab in Japan, Hankyoreh reports By Investing.com",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14ab42b2fc400a0e"
-  },
-  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "South Korea's SK Hynix considers building memory chip plant in Japan, Hankyoreh reports",
@@ -2101,41 +2066,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0bc43c39ee459341"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Japan CPI rises in July, core inflation grows but stays below BOJ target",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnh6QWxWQzNzQ0R6YXk3bDNjbjZ2Zm5xSldzUGFhX1dVTUhrcGw2UnppRGlvUGJDQjVXQmlMZGlseEhsQXE4ZjNwR2s0eGljOTlNYjBIQmZjSkdNc0RhWmE2WkFyazIzX3NMeTR3cm1NNFFJMzF2WlUyZG16bjFyMXhXOWgzNzM0eTFISEhTNWxPUElLV0xpRlpzZHk3ZHJmZ2Y4dFg2dlVyWjE3MjZFLWE5SG9JQUdvZWJwVXJiZVhKcEI1elBxcHdR?oc=5",
-   "published_utc": "2026-08-20T23:50:34+00:00",
-   "title_original": "Japan CPI rises in July, core inflation grows but stays below BOJ target",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9649499fadd643a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank’s 7-day reverse repurchase operation volume on August 20 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUamZjVlhqTzNwamNydHFFLTZFYk54al9nNEZYMXRGUm1fUU9qeXBWN3NBQVl3dVJWcTRuVC1BUS1zZ3lJNF9JOHpaNVVMZw?oc=5",
-   "published_utc": "2026-08-20T23:50:24+00:00",
-   "title_original": "央行8月20日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5d5050099d4ec0e1"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2446,6 +2376,23 @@
    "id": "413020095eb3b2d7"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "아주경제",
+   "title_en": "[Global long-term interest rate shock] The Bank of Korea narrows its range of maneuver... It is difficult to raise or lower interest rates",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tdkhBNWRnUHdNZUNOUHo3dkxDZW5kREZiTS1CYkdhcENaMVNuZE1vNTNnZjV6czZLVGNtOEdzcVAzMXBQLWxTNzFXc0hsUmhWNGhhTl81RXfSAVhBVV95cUxNbXZIQTVkZ1B3TWVDTlB6N3ZMQ2VuZERGYk0tQmJHYXBDWjFTbmRNbzUzZ2Y1enM2S1RjbThHc3FQMzFwUC1sUzcxV3NIbFJoVjRoYU5fNUV3?oc=5",
+   "published_utc": "2026-08-20T08:05:00+00:00",
+   "title_original": "[글로벌 장기금리 쇼크] 운신의 폭 좁아진 한은…금리 올리기도, 내리기도 어렵다",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1ac27cae09c267c1"
+  },
+  {
    "source_id": "gn_tw_focus",
    "source_name": "Focus Taiwan",
    "title_en": "Cabinet approves 2027 budget proposal, defense spending at 3.01% of GDP",
@@ -2550,22 +2497,38 @@
    "id": "07ed6b73bb235618"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Japan trade deficit grows slightly less than expected in July, exports surge",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTjJzNkpOb1h2MmwzU0dRMUxMRlh4QUhhUUh6SEowY0VFT20zYkJoQjE0aEdtaFFqLXB3aUdWaHNlb0RMWXVBNVJqSVhwRnMxcnhQQ1NvdXhkcG9RZ042dXNjZ1NtVWFwcEJsUS03UW5FaTYycDVGbkFrSHp3Y1lkNzR5RnRiUC1abXpSVUhLV01UdERLU2YtY05uekIxaWhQYWxBdi1rRk9pQm56Si03MnBzYlctaVI1ZGVCUFM0NzRYMmg3cWt6a2xHOEs4WEU?oc=5",
-   "published_utc": "2026-08-20T01:48:51+00:00",
-   "title_original": "Japan trade deficit grows slightly less than expected in July, exports surge",
-   "region": "japan",
+   "source_id": "gn_cn_pboc",
+   "source_name": "chinanews.com.cn",
+   "title_en": "The central bank’s 7-day reverse repurchase operation volume on August 20 was zero",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oeF9pOU1KSTB1ZEZmX0szUXdFdzlpNzNVTGY1cFduRVRib2hGT05DTjJmR0d1YTlQNDhwdmhubkVCN25MTk9lZ2JOVjcxVnJnUUlob3VWQUpLWXdwejJtRFBOVldYSXJH?oc=5",
+   "published_utc": "2026-08-20T03:11:29+00:00",
+   "title_original": "央行8月20日7天期逆回购操作量为零",
+   "region": "china",
    "topics": [
-    "fiscal",
-    "trade"
+    "monetary"
    ],
-   "lang_original": "en",
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "349c94bd7b1f6b25"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "腾讯新闻",
+   "title_en": "央行：8月20日7天期逆回购操作量为零",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wcHB5OWVPZHpiNzNiZkR2MGlxelpwcU1EbGZjQWxrNWRBcDJ2Z2JEVlgxZ0N4aTNyOFpJZHM2X1ZWM0QyNHVCYjhhQWFUVE5nazY1R2VRNTVQRDNERTE2cDBB?oc=5",
+   "published_utc": "2026-08-20T01:31:00+00:00",
+   "title_original": "央行：8月20日7天期逆回购操作量为零",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "178faf02e08f73bf"
+   "id": "230a937998a91584"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3244,23 +3207,6 @@
    "id": "43973cc5879d50aa"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Recovery Shows Intervention Cannot Close the Rate Gap",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONkFpYTM4bjJ5M0FvZDhGcnJ3S0JGUDNYVzliajZQYlZGVFYtdEdWWWlINWRNTGR5RURqeVBUNTREenREaDBlZGNrdDcxanE2VkNvdkctZ2JhTVdtNFBqWkFSV2JRdThuMXMyVHowOVZ1bkVSME5YWlBCYmdwTlZoalJDTFh2dXFpY215VHVobTE0ZjdvUnRQVVpkVlBlSGRJV0lWM1ZqSQ?oc=5",
-   "published_utc": "2026-08-18T20:54:00+00:00",
-   "title_original": "USD/JPY Recovery Shows Intervention Cannot Close the Rate Gap",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2dceb01054f2cd62"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Green Energy Exports Jump in July as EV Shipments Surge",
@@ -3520,6 +3466,23 @@
    "id": "e424918fb384d7fa"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Japan’s Q2 GDP grows 0.3% quarter-on-quarter, missing estimates By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGRINjlwS0pka0M4Wmd4TFZ6bHpnckFzNTVOODl4MUN1VjhmYjhQQ3BKdkx2MXNPZUlsd3k1QlJxZHJzSXhscExMb2ZrbndZRHFXNkJLTm1WcE9seW1heXcxbDJwNEp3RFVaN0dpeHBMT2VMekt5THBNZUt2RDU4TzRXRE5ZMThLQ1hVdHJneFEyeVdGenpFaExTV0tJZFZ4WUpleTMxWkVwdDA5dTZ5bmxPUkQ2ZUw1b0E?oc=5",
+   "published_utc": "2026-08-17T09:56:00+00:00",
+   "title_original": "Japan’s Q2 GDP grows 0.3% quarter-on-quarter, missing estimates By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4c8c84b0a4805733"
+  },
+  {
    "source_id": "gn_tw_focus",
    "source_name": "Focus Taiwan",
    "title_en": "Universal NT$10,000 cash handout to be included in 2027 budget: Lai",
@@ -3623,6 +3586,40 @@
    "id": "cda2a62444accba6"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY: Why Bessent Backs Himself for Successful Intervention",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdElxTlVNWUlmS2pXb2N0SG94SUI1UWJ3aTktb0ZpQ1dPY0JQQl95dDNrUGF0VGZmUFgzSE51YUpLN2RpY29vbE5XYVpLUmRnUWRfZ2JCelhOZ2pjSG9ISmpCYVpPYTFkazJrSTJkMUp3aV9sbDc4MVp1NTQ1ZHVIbEpIazFLOGJQSUt4Y1plVjdWVlpmdWFYRUhNbDlUa1BlbGpxcEhJQQ?oc=5",
+   "published_utc": "2026-08-17T07:29:00+00:00",
+   "title_original": "USD/JPY: Why Bessent Backs Himself for Successful Intervention",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b89de97d198e12f1"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "stats.gov.cn",
+   "title_en": "National Economy Maintained Steady Momentum with Innovation-driven and High-quality Development in the First Seven Months",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTEhOSElSbTBHaWJ1XzY3WGFwbkhaT213RnBheTlSVjVka1plWVZhYjJLZm1zTDZqaHl1WW9hcjhYa2hIcldZWDk2aVozU1ZEeUQ2Vk5tRmxvaGlmSEluU3MwanpleEhrNXVrbzhZZjRfak12d3pqUzdtVTBTX0dOVQ?oc=5",
+   "published_utc": "2026-08-17T07:00:00+00:00",
+   "title_original": "National Economy Maintained Steady Momentum with Innovation-driven and High-quality Development in the First Seven Months",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e71775dc11daf9f4"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "搜狐网",
    "title_en": "Three days from today, the central bank will launch overnight reverse repurchase operations",
@@ -3711,23 +3708,6 @@
    "id": "22a1b0b3b6aef807"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank carried out 565.5 billion overnight reverse repurchase operations and the volume of 7-day reverse repurchase operations was zero",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvWjhOS3c1Mk94Yjh4N0NjOUNfZFBoTDF3dExHRjF2MkxobHBzYV9INHdtVlIwQWdUa1RVNFdBQWFwTmtyenVydW5hSUVleHA1a2lvSXhwMnZtQ0VqTThxb0xR?oc=5",
-   "published_utc": "2026-08-17T02:38:11+00:00",
-   "title_original": "央行开展5655亿隔夜逆回购 7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "764cc878e7704709"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "US tariffs and FCC curbs redraw the drone supply chain — and Taiwan sees an opening",
@@ -3764,7 +3744,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "腾讯新闻",
    "title_en": "The central bank’s 7-day reverse repurchase operation volume on August 17 was zero",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ROE1jbzdOdzNTRTNrUVhGMklnYlZhSVFGZWhvUFkwOEVRTlBlYVhERmFNM0lDSmRjRW5LQUJEQTE0X2FXSlUtZmhWYlJtd3NYTm4zRE5n?oc=5",
    "published_utc": "2026-08-17T01:56:00+00:00",
@@ -3799,7 +3779,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "腾讯新闻",
    "title_en": "The central bank launched a 565.5 billion yuan overnight reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1McGx3VFR5WWVIaTJMZ1V6SDBfNVZhVS1FV3I0djhNZHk3LXhINmprUGZkcXBmWnFyWmlpcUZnWGxqM0NrNEswc3RFSF91QWlSTWhFX1RB?oc=5",
    "published_utc": "2026-08-17T01:33:00+00:00",
@@ -4128,6 +4108,23 @@
    "id": "4aafe85b58be0b72"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY Tests Japan’s Intervention Line as Carry Demand Rebuilds",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcnZ2V0RZdlZpY1A3Z1FxR2dyS3h6aVBCVDd1NHo1VWVqSDFXMTBtTUI0WHBRdEpXbXotLTNreFE2VHU0dkZOZjBOUW1EbThDQWxrQ04wOUhDT2NoSkk5NnF6NTlja0wzRVA4UlRTVGo4WkpycHd6a19NV3pBM3BtaVZoOHRNWU0yMVZBRV9oV2g5WUlMNURrYmU0bnl6NDZQUjM0QS1UZEVtdw?oc=5",
+   "published_utc": "2026-08-13T20:57:00+00:00",
+   "title_original": "USD/JPY Tests Japan’s Intervention Line as Carry Demand Rebuilds",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0495d8b0dadbc422"
+  },
+  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Japanese Government Bonds Held by the Bank of Japan",
@@ -4403,6 +4400,23 @@
    "live_wire": false,
    "manual": true,
    "id": "8b92f7740114bbd1"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Barclays maintains October rate hike call for Bank of Japan By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXFhQWhSVkdZNkQwSmtJM25KTVU4am9zV25HNjFDTlYwYjhJaFhmUFoxUDh3c0JRUnVMRTRET1Foa180SDJDbC1tOTdxTkJ1dEVMakN6TnhRb2Z4eThLbjdzOEJObndNdXBsdEM4T3hoMm5Mbnp2SXlxZGVjb0N0R01kQ3ZHSjVib3AzU2lDM1VfWWRMeHhKYkptdExFQWM2SDBpVEFCdXFPWkx2bHJHZjNpOENhcFdCcVVLeQ?oc=5",
+   "published_utc": "2026-08-10T11:34:00+00:00",
+   "title_original": "Barclays maintains October rate hike call for Bank of Japan By Investing.com",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8865bb15f6197e9a"
   },
   {
    "source_id": "manual_ia",
@@ -5565,10 +5579,10 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan gov't to use over 20 bil. yen from reserve funds to address quake: PM",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DTi1lTXBpM3g2eWpJV3RHQlFNT2FvSkNSNU9ETUZSNWtnQ0UySWFNN2F6U1hPcXFQQlJlamF2RlZROHkzTFFrQkt3M1pobUYtdXpFSk9HUHZXQQ?oc=5",
+   "title_en": "Japan to use over 20 bil. yen from reserve funds to address quake: Takaichi",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zZnhtZlVyUS1OaW1Fc210aFRMQzNsbW1jUUN0WlhKSUdjVWJnVks4YU9YN013aURpbWtfS2ZpLXJEYWR6djc0WUtwQ1gzalg2V2JoeUpTdnpCdw?oc=5",
    "published_utc": "2026-08-03T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Japan gov't to use over 20 bil. yen from reserve funds to address quake: PM",
+   "title_original": "Japan to use over 20 bil. yen from reserve funds to address quake: Takaichi",
    "region": "japan",
    "topics": [
     "fx"
@@ -5577,7 +5591,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "090eb6244cd82bc1"
+   "id": "89d7273a767203c1"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -5768,23 +5782,6 @@
    "live_wire": false,
    "manual": true,
    "id": "093c3e3c1e46713c"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan finance chief says \"always vigilant\" following yen's surge vs. dollar",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TMEJIWDhEOXM3SWRZaDgxb0xwMWE4MjlidjNNbmVEa2RTRU1VMnlkQzRvcFBrQWNTci1hSG9WVGpGeU1kNlNoak5zQ21WOThRTjFBTU81TVJCZw?oc=5",
-   "published_utc": "2026-07-31T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Japan finance chief says \"always vigilant\" following yen's surge vs. dollar",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a6f6f37e18e2a619"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -6012,6 +6009,24 @@
    "live_wire": false,
    "manual": true,
    "id": "ad74568d39a0da47"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan to secure funds for consumption tax cut via fiscal reforms: Takaichi",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzVWJNS1JzY1NXa0dwX002SmRkOTNXUC1XUE9fUnFWSWtNQWJnMm01LXZIRExwdmh3SmlSSi1ic0xiOC1CT1VxcjFXckxKbTFFWHlRZjlBREwyQQ?oc=5",
+   "published_utc": "2026-07-30T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Japan to secure funds for consumption tax cut via fiscal reforms: Takaichi",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "28f5fe985a3d0ae2"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -6290,6 +6305,23 @@
    "live_wire": false,
    "manual": true,
    "id": "86d0227f81d3e780"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "stats.gov.cn",
+   "title_en": "National Economy Operated within an Appropriate Range with New Growth Drivers Developing Rapidly in the First Half Year",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHE3aUt2UHZXaVNNX1dNeVFfRWFpVnFfdGN4S2FfRHlfN3ZBaWpYNVo1UHYzdmkwclBsSHVneEpFemNjWFlSaHRBdnViTl9EbTlKLVRiQ0drX1Z4VU5ySDVnWnZhb203aUpoa3ZaVm5SZ21iOVBvejBTM1otTnpGeQ?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "title_original": "National Economy Operated within an Appropriate Range with New Growth Drivers Developing Rapidly in the First Half Year",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2d8000943fa53a5b"
   },
   {
    "source_id": "gn_tw_focus",
