@@ -1,22 +1,14 @@
 {
- "generated_at_utc": "2026-08-24T11:31:33.977836+00:00",
- "count": 346,
+ "generated_at_utc": "2026-08-24T11:50:58.881448+00:00",
+ "count": 356,
  "by_region": {
   "japan": 136,
-  "china": 65,
-  "taiwan": 38,
-  "korea": 107
+  "china": 64,
+  "taiwan": 46,
+  "korea": 110
  },
- "elapsed_s": 334.5,
+ "elapsed_s": 35.7,
  "sources": [
-  {
-   "source_id": "gn_tw_focus",
-   "name": "Focus Taiwan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -47,7 +39,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-24T10:08:47+00:00"
+   "newest": "2026-08-24T10:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -56,6 +48,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-08-24T10:41:15+00:00"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "name": "Focus Taiwan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-08-23T11:49:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -111,7 +111,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-24T10:29:00+00:00"
+   "newest": "2026-08-24T11:47:20+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -199,7 +199,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-24T11:15:06+00:00"
+   "newest": "2026-08-24T11:39:21+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -215,7 +215,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-24T01:48:00+00:00"
+   "newest": "2026-08-24T07:11:29+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -223,7 +223,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-24T08:42:49+00:00"
+   "newest": "2026-08-24T06:36:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -263,7 +263,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-08-24T11:26:00+00:00"
+   "newest": "2026-08-24T11:49:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -358,8 +358,43 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "Continuing to inject medium-term liquidity into the market, the central bank’s 500 billion MLF operation is coming",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GbEJPUUJiMUl1b2ctZE8xeXNWaHpJRnVrQzJGTUFQQ0ltM0lCY1hNTkJ0eHBxM0JJT05TbnRKWi0zUUM1MzRGNjNzSjBrc29WZjlGeXd6VWg?oc=5",
+   "published_utc": "2026-08-24T11:39:21+00:00",
+   "title_original": "持续向市场注入中期流动性，央行5000亿MLF操作来了",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d0594ba21b3556d7"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "chnfund.com",
+   "title_en": "The central bank will carry out overnight reverse repurchase operations from August 27 to September 1, with the daily operation volume not exceeding 600 billion yuan.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMRUlKNHdieFFSQUlaNVA5enFVZkxhcjRpRnZ2Y3BwMFQ1dmJQaHAyNjl5QWJKSDFsVVhGRGs0eHVLOWdIVjhLREx3YkVVbDY0aExRTVVfeTJYSzZlOVdkRlpIT20wdHFSMzlHZXNSbExERzF4YU5MZ2lR?oc=5",
+   "published_utc": "2026-08-24T11:22:00+00:00",
+   "title_original": "央行将于8月27日至9月1日开展隔夜逆回购操作，每日操作量不超过6000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fe06497fcbef297f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "搜狐网",
-   "title_en": "央行出手！5000亿MLF操作来了",
+   "title_en": "The central bank takes action! 500 billion MLF operation is coming",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa0EtQno2emlvZ3BpeE1pOWNlam1YcHBzT0Z2QVQxTjMtTngta250SGQ0WTJ2TE9KN3QyYTNmQnVESHh6dHVlWHMtR29ob3pIbnA1MjJnMXE4TmxrLWM4bDZISkRaeFpsdzB3aWJYNVlvRDg2Nk45Nm5WNjNzb0hnc2otY1paZklFRDFpVA?oc=5",
    "published_utc": "2026-08-24T11:15:06+00:00",
    "title_original": "央行出手！5000亿MLF操作来了",
@@ -368,7 +403,7 @@
     "monetary"
    ],
    "lang_original": "zh-CN",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "58d14c8b01580cf1"
@@ -376,7 +411,7 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "搜狐网",
-   "title_en": "8月27日至9月1日，央行将连续操作",
+   "title_en": "From August 27 to September 1, the central bank will continue to operate",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMllkY3hfT3hrVU1kaHlNdUJhVlhrWElodVlkTTNVOHFjY19fcFdYUF9JeWFscW9GbldEOWE3UEdaMXZTVU1QMV9wY2paODlwRkxoVHVxZFFoUWpPSmZmMTZQTEpYQmk0blVreTJxWlVpNy1ubWRONXRYem9Fb1B6N3hUVXkxVEpoU3VkNA?oc=5",
    "published_utc": "2026-08-24T11:11:45+00:00",
    "title_original": "8月27日至9月1日，央行将连续操作",
@@ -385,7 +420,7 @@
     "monetary"
    ],
    "lang_original": "zh-CN",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "3fc9ae38325f4c4e"
@@ -408,26 +443,9 @@
    "id": "3622d165e11c4548"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "thepaper.cn",
-   "title_en": "央行8月25日将开展5000亿元MLF操作，净回笼1000亿元",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DanRXalIwQmlRV04zNEc2SXVnRUt1LWhHSVpYYVN2Ump6dUF5akxIcEN2N3ozb0twZnZTdnpOSEFRMFY4OGtPZkQ3YUR5SHZQcHNPLU9lalJSanBoZWs1aw?oc=5",
-   "published_utc": "2026-08-24T11:06:00+00:00",
-   "title_original": "央行8月25日将开展5000亿元MLF操作，净回笼1000亿元",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4eba85c58c08fe10"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
-   "title_en": "Minério de ferro sobe com novos sinais de estímulos da China",
+   "title_en": "Iron ore rises on new signs of stimulus from China",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44L0K5:0/",
    "published_utc": "2026-08-24T10:56:28+00:00",
    "title_original": "Minério de ferro sobe com novos sinais de estímulos da China",
@@ -436,7 +454,7 @@
     "fiscal"
    ],
    "lang_original": "pt",
-   "translated": false,
+   "translated": true,
    "live_wire": true,
    "manual": false,
    "id": "833f8d757d5c1275"
@@ -444,17 +462,18 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "広島市 補正予算案を発表 保育園などの運営支援に約9000万円など 9月の市議会定例会で提出（RCC中国放送）",
+   "title_en": "Hiroshima City Announces Supplementary Budget Proposal: Approximately 90 million yen to support operation of nursery schools, etc. Submitted at regular City Council meeting in September (RCC China Broadcasting)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FVEhIX0xSTXpleGpGNjlMQkpPLW8waUdnMmlHU25Bc1pzb1dfUjJWUXpUMk53bkpFUkk4WHJUUEN0VDdmT0I2Y1hZN2pDS3U5WUxGNEFXeHA2emdsWlUxakZVNXc2WlhNaVZ4YnpYeGk2bmpnazcwZGpMUmdBaE0?oc=5",
    "published_utc": "2026-08-24T10:40:25+00:00",
    "title_original": "広島市 補正予算案を発表 保育園などの運営支援に約9000万円など 9月の市議会定例会で提出（RCC中国放送）",
    "region": "china",
    "topics": [
     "fiscal",
+    "fx",
     "signaling"
    ],
    "lang_original": "ja",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "9ceb1d1811b689a5"
@@ -462,16 +481,17 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
-   "title_en": "央行：将在8月27日至9月1日开展隔夜逆回购操作 每日操作量不超过6000亿元",
+   "title_en": "Central Bank: It will carry out overnight reverse repurchase operations from August 27 to September 1, with the daily operation volume not exceeding 600 billion yuan.",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FTkQ3TzZiTEZQLThYbUFUeW16UGR4SHRNMFI5bEFQRGVnZkFRVk9CeWlvNUhvaVZ2X05TdEQ1VTE2U0lXc2dJVkcyMmY4U1J6OFptOTc0WnU1eUtueDB4dkFDMA?oc=5",
    "published_utc": "2026-08-24T10:13:46+00:00",
    "title_original": "央行：将在8月27日至9月1日开展隔夜逆回购操作 每日操作量不超过6000亿元",
    "region": "china",
    "topics": [
-    "monetary"
+    "monetary",
+    "fx"
    ],
    "lang_original": "zh-CN",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "7259ae81d2d0e8ac"
@@ -513,16 +533,17 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
-   "title_en": "央行将于8月25日开展5000亿元MLF操作",
+   "title_en": "The central bank will launch 500 billion yuan MLF operation on August 25",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EVjF5Qm0zRl93NkQ3RDI1ZUZKVk9pSjBUWXNNYkNBN2Y4UlppcThUd0FnX2NOVUUxTUhhdmRTWlJnSHN1WUZFYlEyQlo3X3lFV3JOUFJIZGdtM1J2TlFjeEhPSnJSanEzVkRoQUxtWVdYV3hnZFl4dENMS19YLUk?oc=5",
    "published_utc": "2026-08-24T09:56:00+00:00",
    "title_original": "央行将于8月25日开展5000亿元MLF操作",
    "region": "china",
    "topics": [
-    "monetary"
+    "monetary",
+    "fx"
    ],
    "lang_original": "zh-CN",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "5c762967f6f696e0"
@@ -547,16 +568,17 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
-   "title_en": "央行：8月25日将开展5000亿元MLF操作",
+   "title_en": "Central Bank: Will launch 500 billion yuan MLF operation on August 25",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wT3AzV1k2VE9PckdUTEFCRDJBRkVhdFdpOEVWeEM4cjVXZk55RDhJaE9hSFRqM01SN0xydzRSTUxuWFk0RzhMX1JWN0JSRm1Fd04zdFRvRXdrNnNfcUozNQ?oc=5",
    "published_utc": "2026-08-24T09:43:13+00:00",
    "title_original": "央行：8月25日将开展5000亿元MLF操作",
    "region": "china",
    "topics": [
-    "monetary"
+    "monetary",
+    "fx"
    ],
    "lang_original": "zh-CN",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "5b7fa8c22ddb8b30"
@@ -564,36 +586,20 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "大河财立方",
-   "title_en": "央行将开展5000亿元MLF操作",
+   "title_en": "The central bank will carry out 500 billion yuan MLF operation",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5ZjdFUEhaYVlURDZ1azN5R1p6bHJROW9PYVZBMUlLZjZkaVVvVWt5U3d2ZE9JOUxKaWV5Z1NMTTZLNFp6bEVnYnJ3ZHBqTUYyb1dvc28zUHpIb0diMXdIb0hlcV84MHBTV3c?oc=5",
    "published_utc": "2026-08-24T09:41:51+00:00",
    "title_original": "央行将开展5000亿元MLF操作",
    "region": "china",
    "topics": [
-    "monetary"
+    "monetary",
+    "fx"
    ],
    "lang_original": "zh-CN",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "5cddade175053cda"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Hanmi Pharmaceutical will export its \"muscle-preserving obesity new drug\" technology to Genentech, a..",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMXzBBR1hJbjVOeEdpMzJUU0ZlTXhUMFJLZjhBWl80NlEwZEdNa1FlR2VzX1RLeFM5MERBdm1zaWQtSEQtRXFfRExTRQ?oc=5",
-   "published_utc": "2026-08-24T08:43:38+00:00",
-   "title_original": "Hanmi Pharmaceutical will export its \"muscle-preserving obesity new drug\" technology to Genentech, a..",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "56c8049ef763e3d5"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -630,9 +636,43 @@
    "id": "2b9b28ac5569f3d6"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI energy bottleneck is driving semiconductor materials innovation, says Applied Materials",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNnRRcG5zNGJ2TnhEaTk0R1RPN01lZDdiQzh3RXhxdUVsMmFSV2V6RHQ4ei16Wm44MDItbkV0RlZ0RjJNRGxuWkNmZnpTazUyR0ZEN2VySF9tLUdvWlZDYkFDbTVBemZsQnA4TDM2bzRpZ0tRdkNqR1RmaEJQRy00UGhKZWVPd2JMVGQzNHRsQWNSMjl2YWFyT0swME1YT054bkZIQQ?oc=5",
+   "published_utc": "2026-08-24T07:56:00+00:00",
+   "title_original": "AI energy bottleneck is driving semiconductor materials innovation, says Applied Materials",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e275e3e09256e9aa"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The won-dollar exchange rate soared to 1561.5 won in early June in night trading and has recently fl..",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rYkJnOVE2OUR3dnZVX1lLREhKVlFESkI5amx5YU1hd0ZGQWdjTDlCZ09LdHRzM2NZbUt0NmtrZ09QRWJ5LWpScDBwa3ZsWnBFUG82b0FnOUE?oc=5",
+   "published_utc": "2026-08-24T07:53:09+00:00",
+   "title_original": "The won-dollar exchange rate soared to 1561.5 won in early June in night trading and has recently fl..",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d5d0c6e6e6bb715b"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
-   "title_en": "Xiaomi lança novo chip Xring e faz parceria com a TSMC para a produção, segundo fontes",
+   "title_en": "Xiaomi launches new Xring chip and partners with TSMC for production, according to sources",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44L07T:0/",
    "published_utc": "2026-08-24T07:12:31+00:00",
    "title_original": "Xiaomi lança novo chip Xring e faz parceria com a TSMC para a produção, segundo fontes",
@@ -641,7 +681,7 @@
     "industrial"
    ],
    "lang_original": "pt",
-   "translated": false,
+   "translated": true,
    "live_wire": true,
    "manual": false,
    "id": "a3340acb46abad55"
@@ -700,7 +740,7 @@
   {
    "source_id": "gn_kr_bok",
    "source_name": "연합인포맥스",
-   "title_en": "[다시쓰는 잠재성장률③] 통화정책 영향은…\"보다 높은 금리 정당화\" |",
+   "title_en": "[Rewriting potential growth rate ③] The impact of monetary policy... “Justifying Higher Interest Rates” |",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jakhJMjEzcjNERVNBSTd5NmFRVzNEZkc4R2dFVld4M3RwMjBSc1FLRjRUWlFJQV8yYzljMVVHaU54VklsdS1hcExrMFlVcXQ4RFlURVVILXlWQ0JQZ1ZxRElGQnE5U2R2SkFfWmR5N1dkNkxU?oc=5",
    "published_utc": "2026-08-24T06:15:47+00:00",
    "title_original": "[다시쓰는 잠재성장률③] 통화정책 영향은…\"보다 높은 금리 정당화\" |",
@@ -711,7 +751,7 @@
     "signaling"
    ],
    "lang_original": "ko",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "0e3273de1d39802f"
@@ -768,6 +808,23 @@
    "id": "7322358371549e39"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Gold rises above $4,650 as U.S. fiscal concerns keep bullion near 3-month high",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZU50N1NHOGZLM2ZfRFhEdzBXODhEaTdyZmV5V19PUWk5elJQTEFVRlZNak5YMnhGNkpHb0dpMktfS2JjRVNXZzBOS0MzTDl6aGFDZE9odHQ0ZGdLWm80SC1JS0E5UmlFczctRVRKQUdIYXg0M3l3MHJHai1neEZ0QlMzNDdSNUVrYjMtWnFtRDB3TXIyX1Z3Rjh5YnEwZXlJZVNkdmhUTGt6aHk0WTV4eWVuaXo0Z3B2Q1dpeXFmYlJlZ28?oc=5",
+   "published_utc": "2026-08-24T04:27:53+00:00",
+   "title_original": "Gold rises above $4,650 as U.S. fiscal concerns keep bullion near 3-month high",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "38a9d2d6cc1cf96e"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Media Hails Canada’s ‘Chinese-Style’ Tariff Retaliation",
@@ -785,9 +842,26 @@
    "id": "855dd30632057d97"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "SEMI launches alliance to ride semiconductor materials boom",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZS1uWG5TeGl5X3VKYVVOeUFFdzQ4U1dIMWJJb3Z5NkQyOFdWOHFhSjNvX3NCQjZMT2thMVJ6Q29LUEp0Mjd0OF85LVdCcUtJNnZFVWFSNWtzSDVxVTZYbXAxUTRaM1p5NWczVUhKeFdFaUJLQkhOSUpBcm0wQzJkVC1uNWdUQWswSTEwcDZiYXVwQl9NS3ZjQWtkM0p6MG9NWmFHLQ?oc=5",
+   "published_utc": "2026-08-24T02:48:25+00:00",
+   "title_original": "SEMI launches alliance to ride semiconductor materials boom",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6899fc5258f20637"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "日銀金沢支店跡地 金沢市が“愛称”募集 「金沢まちなか芸術祭」の会場にも使用（MRO北陸放送）",
+   "title_en": "Kanazawa City is recruiting nicknames for former Bank of Japan Kanazawa Branch site, which will also be used as a venue for the Kanazawa Machinaka Arts Festival (MRO Hokuriku Broadcasting)",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUxwRzBRTXZnajA1RG9fRkVYcUNyejRvaGZtOFF5OUhteEU0M24wZUduY2dvLWlrczJxUTFXSzJ0UHo4NkV2Y09NZ2ttamRsQ1FoTEl3UkR0azhvVlJLeFJiNnpGNDhQY1BuTERtenY0SEdrQmcySFY3cVlDTkFiY3FKUlFKU3AzVXUwYmZR?oc=5",
    "published_utc": "2026-08-24T02:40:26+00:00",
    "title_original": "日銀金沢支店跡地 金沢市が“愛称”募集 「金沢まちなか芸術祭」の会場にも使用（MRO北陸放送）",
@@ -796,10 +870,27 @@
     "monetary"
    ],
    "lang_original": "ja",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "a6d68ebe0ae0e7fa"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan speeds chip materials push with consumables, ITRI says",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1MtdkdfTzlKM1JCYTNTazNsZWpDQ0NNNU8yZVZKMFR4MFZGTFp0UDdOak5CWklMdHFqMHg5TEItS0taRUdjdDBIZ001VkoxU1E3MjlNN0JNQWg0R3VMNmlUY3hxSk1rNENKZFJYd3dEdkh0UVYwbkJ5WExjcE9PQ3J6bUtpaVpfQ2ZtYzFXYU1OWndJUzl6MFNxQQ?oc=5",
+   "published_utc": "2026-08-24T02:27:09+00:00",
+   "title_original": "Taiwan speeds chip materials push with consumables, ITRI says",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2cede1162c5b8149"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -840,16 +931,17 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "搜狐网",
-   "title_en": "央行今日开展3400亿元7天期逆回购操作",
+   "title_en": "The central bank launched a 340 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFl1NjlMYmIxd0U0aHY1anNLN3BMZmJ1bDYyR0ZZYUpXZlFNcGY4R21tM1d3Z0QtWVJoSFktOWN4YTltTi1YTm1CMEFrRUxCTVhmYy1odnl2dy1ydWE5OVpnWUl1MnA1LVNJVUFtU3JHblZyTlkzU3lGZjVjRXpvX2tTLXFteWoxN2xkcA?oc=5",
    "published_utc": "2026-08-24T02:05:19+00:00",
    "title_original": "央行今日开展3400亿元7天期逆回购操作",
    "region": "china",
    "topics": [
-    "monetary"
+    "monetary",
+    "fx"
    ],
    "lang_original": "zh-CN",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "3cf74526f15b174d"
@@ -857,19 +949,37 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "chinanews.com.cn",
-   "title_en": "8月24日央行开展3400亿元7天期逆回购操作",
+   "title_en": "On August 24, the central bank launched a 7-day reverse repurchase operation worth 340 billion yuan.",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrR3VFWENLTVNGa0oyaTBUcTRvSHdHZlVISjJ0WGhKdkIxQ253RS1BdzBVbDh4WDVyOXFoSjRlT2Jpc0loSWFoZmplRW9YSWgtSDVKVFJrT2dWMTU5VmtsZGpCdE96NVJR?oc=5",
    "published_utc": "2026-08-24T02:01:07+00:00",
    "title_original": "8月24日央行开展3400亿元7天期逆回购操作",
    "region": "china",
    "topics": [
-    "monetary"
+    "monetary",
+    "fx"
    ],
    "lang_original": "zh-CN",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "9c8608bc57e4d43c"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Finance minister discusses tech, infrastructure cooperation with AIIB",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92UXExOHNDQjVnOUY1M0xzd0w1c0llQi0yeVdRWnhDVGRhMTA5ZDVhXzMwazNfTjVEUmk1QzRlM1pRUlYwX1Q1bktRTnlpRkl1ZThDNndOUWlEUQ?oc=5",
+   "published_utc": "2026-08-24T01:23:40+00:00",
+   "title_original": "Finance minister discusses tech, infrastructure cooperation with AIIB",
+   "region": "korea",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b8d5f21c1e901d0c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -959,7 +1069,7 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "日銀の発言に注目、9月利上げ観測強まる－市場は約8割織り込み（Bloomberg）",
+   "title_en": "Paying attention to the Bank of Japan's comments, expectations for a September interest rate hike grow stronger - Market is pricing in around 80% (Bloomberg)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtQjQyQXRJMThMTzRGSFUyUU9RcjNZd3p3NmxmZGVFTUwwUy1xc2JnUkMzeHB6SjBhMHJ5RXJCeHduS0FxSzFHWVItMTZFd3hhc0NTQmh1ZHBZbWtYbl95QjNkTUhBb1M3VWdieGZGU0p3R2FwOERJd3pnUUZBSG8?oc=5",
    "published_utc": "2026-08-23T23:50:28+00:00",
    "title_original": "日銀の発言に注目、9月利上げ観測強まる－市場は約8割織り込み（Bloomberg）",
@@ -968,7 +1078,7 @@
     "monetary"
    ],
    "lang_original": "ja",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "cf078c549f3c93df"
@@ -991,37 +1101,72 @@
    "id": "885c04920ff99472"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "本周中国央行公开市场7天逆回购和MLF合计到期近7000亿元",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hZUpRVU41eHRSbXg4cDNfRldkLWFsbjQwZWs3TnF1S1JlWks0UVd4d0x4Y3RJV21YQ1pLSXFOalR4Qnl1UGowbnVwY1luTDg?oc=5",
-   "published_utc": "2026-08-23T23:48:25+00:00",
-   "title_original": "本周中国央行公开市场7天逆回购和MLF合计到期近7000亿元",
-   "region": "china",
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan's 'invisible champions' in chip materials are about to become visible, says GlobalWafers' Doris Hsu",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUZackdqR1l4YVhFaElERndYTlBPS18yMWpHTkxucGV3QVVrNU92aVJtZXA3OTZmMGV0TWk2WnVoMkFWSkJHTzNOdXlUOWdrTVEzeTBDRU1ZamFZdkZUUldTMDRuckhnSWYzMklNYThfdTRtWUtRMUNtMUlWQXh1bkt1ZjVkWUU0cUs2NWJYdlNXMjRScFp3UlJJNGVmMWMtNnBKcVpXZHU?oc=5",
+   "published_utc": "2026-08-23T23:42:25+00:00",
+   "title_original": "Taiwan's 'invisible champions' in chip materials are about to become visible, says GlobalWafers' Doris Hsu",
+   "region": "taiwan",
    "topics": [
-    "monetary"
+    "industrial"
    ],
-   "lang_original": "zh-CN",
+   "lang_original": "en",
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5c6e49a5cf8e5f71"
+   "id": "531a2a48fe73480e"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI chip boom lifts South Korean semiconductor materials makers' profits in 2Q26",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVBqckRvRnFZdl9GM3d4S3phZ3N6SklCU2E5ZTJVbUprM0NEUmc4NnlOYlJXbUlTM1BVeV9tRzRxeThsRnlKYVZwUkRQby0tMDIzaml4TmkyTXAzVUx0LXpRWHk2M0FDZDFDQ1JHc1lkMjZpUjFTMERGQU94RXR0REJGd3BqYUVXcUR3TTZuSDR2QXN3ZW82SG8zYUZwZnA3SHdOdHdQbw?oc=5",
+   "published_utc": "2026-08-23T23:40:11+00:00",
+   "title_original": "AI chip boom lifts South Korean semiconductor materials makers' profits in 2Q26",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fe958d1577a28f50"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan lifts 2027 tech budget, studies new TTA site in BSTP",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNWhXVEFkTjQtWUl4SUdXVzR5Y3c0dXU5M0VUUzFXaGNDdlB1aHpkNXhKWXhnVnl0TmpPcVNCWXFsNXZ3eURPWkNvR0x5OFV2cjNFNG9ONU83QWdEQjVHWG5EeVhKTDF1ZnI5TlZMd3BaZDBYRmZ3dVdqSkZpWDA4RlRQWTNMUGhGMi1xdw?oc=5",
+   "published_utc": "2026-08-23T23:39:29+00:00",
+   "title_original": "Taiwan lifts 2027 tech budget, studies new TTA site in BSTP",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b24e03fcf5b28427"
   },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
-   "title_en": "欧州を〈食品インフレ〉が襲う…燃料･肥料高騰に酷暑が追い打ち､難渋する金融財政政策でユーロ高や政局への影響も | 政治・経済・投資 | 東洋経済オンライン",
+   "title_en": "\"Food inflation\" hits Europe...Scorching fuel and fertilizer prices are compounded by the intense heat, and difficult monetary and fiscal policies are impacting the euro's appreciation and political situation | Politics, Economy, Investment | Toyo Keizai Online",
    "url": "https://toyokeizai.net/articles/-/955301?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "published_utc": "2026-08-23T21:30:00+00:00",
    "title_original": "欧州を〈食品インフレ〉が襲う…燃料･肥料高騰に酷暑が追い打ち､難渋する金融財政政策でユーロ高や政局への影響も | 政治・経済・投資 | 東洋経済オンライン",
    "region": "japan",
    "topics": [
     "fiscal",
+    "fx",
     "inflation",
     "signaling"
    ],
    "lang_original": "ja",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "8f72ac00ac926468"
@@ -1029,16 +1174,17 @@
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
-   "title_en": "デフレを脱したはずなのに…今度はインフレ懸念でやっぱり根強い｢ネガティブ･ノルム｣､実質賃金プラス化でも弱い消費 | 政治・経済・投資 | 東洋経済オンライン",
+   "title_en": "We should have escaped deflation, but now there is a persistent \"negative norm\" due to concerns about inflation, and consumption is weak even when real wages are positive | Politics, Economics, Investment | Toyo Keizai Online",
    "url": "https://toyokeizai.net/articles/-/955470?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "published_utc": "2026-08-23T21:00:00+00:00",
    "title_original": "デフレを脱したはずなのに…今度はインフレ懸念でやっぱり根強い｢ネガティブ･ノルム｣､実質賃金プラス化でも弱い消費 | 政治・経済・投資 | 東洋経済オンライン",
    "region": "japan",
    "topics": [
-    "inflation"
+    "inflation",
+    "activity"
    ],
    "lang_original": "ja",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "82a1ab7924b3b69c"
@@ -1063,7 +1209,7 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
-   "title_en": "央行重启7天期逆回购操作 实现对流动性精细化调节",
+   "title_en": "The central bank restarts 7-day reverse repurchase operations to achieve refined adjustment of liquidity",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjY5YUdDRUQ4LXhPWVhwU3lkR3lCZllmTXFJbGpnRFJLQ05Cc1ZhWllwZ2ZUWnZOWDg0blNHTXR1UTJMUVctelJvZUV3UmRYWndsajhYdFVCMXFTSzk4ejJQSV9WekQ2S1M0NEF0WUFNeXJSVG1wc0czMDJTWEQxQ1hOWQ?oc=5",
    "published_utc": "2026-08-23T15:38:16+00:00",
    "title_original": "央行重启7天期逆回购操作 实现对流动性精细化调节",
@@ -1072,7 +1218,7 @@
     "monetary"
    ],
    "lang_original": "zh-CN",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "ffe3e0662ab8f776"
@@ -1318,7 +1464,7 @@
   {
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
-   "title_en": "‘3% 금리’ 오나…'연속 인상' 가능성 급부상",
+   "title_en": "Is there a ‘3% interest rate’? The possibility of ‘consecutive increases’ is rapidly rising.",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KYnZyVVEtTlRGZkZKMnctMjc5WEFRMUVnSFc1djI5U0x6S2ttT3Ryd0xBVldycXloTUVXVEliWlVaSVdLVlFIb0R2NHNNbzZjUHNxeWFXS0Z2TzB1ZWUxRdIBYEFVX3lxTE5KYnZyVVEtTlRGZkZKMnctMjc5WEFRMUVnSFc1djI5U0x6S2ttT3Ryd0xBVldycXloTUVXVEliWlVaSVdLVlFIb0R2NHNNbzZjUHNxeWFXS0Z2TzB1ZWUxRQ?oc=5",
    "published_utc": "2026-08-23T04:45:58+00:00",
    "title_original": "‘3% 금리’ 오나…'연속 인상' 가능성 급부상",
@@ -1327,7 +1473,7 @@
     "monetary"
    ],
    "lang_original": "ko",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "c42eb81adb361123"
@@ -2193,23 +2339,6 @@
    "id": "660ca9ffa7c57e97"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "CoWoS boom lifts Taiwan semiconductor equipment makers, Bosch Rexroth targets 2027 volume growth",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUURjdnNsLVFObm8zTlFkOWFHdzRlUldUdjZQSDExaHllYTlNWFNYR2c4Z1U5QVF4OVVNVm5FSzRReWZxeTUzMlN0SGFUZHdESHlDNm1RNnhZX1NxeHlHRGJiLVdHLVZVMlJyendxSGxFRDdhdXdSdXhlcHFEb1hlLUo1cWRhb2lEZFVpX3YxYw?oc=5",
-   "published_utc": "2026-08-21T06:20:00+00:00",
-   "title_original": "CoWoS boom lifts Taiwan semiconductor equipment makers, Bosch Rexroth targets 2027 volume growth",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d6fbef64062e3fdc"
-  },
-  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "A date on the calendar could shape the BOJ's endgame on interest rates",
@@ -2278,6 +2407,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7a123a2388a514f1"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Xiaomi's Xring O3 nears launch on TSMC N3P, testing its in-house chip strategy",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHVMMGxxX0tVNWlEWXR4SndDWmlkeWVhOHQ5VGUzWjd1MnBhQW5HWjREZlJ5OWtjMkdOdzBRQWZtUmlaV3pQM1ZPbFlFcFI3SDVzd3FTR25Pbk0yVUM5S0lHMGlQX08ydlp5TUtDRS10SGRfNVhUZGloTGNyXzNnMmlxZVY1bVc0QTRFc0xYcE1GY2V2OEE?oc=5",
+   "published_utc": "2026-08-21T04:08:08+00:00",
+   "title_original": "Xiaomi's Xring O3 nears launch on TSMC N3P, testing its in-house chip strategy",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d7a8e701a7f23df"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2349,23 +2495,6 @@
    "id": "dc5636da8e5af8b4"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Explainer: Why South Korea's semiconductor concentration may fare better than Taiwan's",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVUVFV19sbG5BR3BKU00wVXFhRjlpUzRRUlpkRGlNbUxwTHFwSzlnaHpUX3d0OEN1NGxmWFNwRUl4ZEdELTdvMEhTNUU5bnpENWNTaWhNMlBGdFF4SVU2SUZxNFRBV0drT25aWXptY3NLTTg4YjRKYnJFazJEX0dmaGxmejY4ZEQyem81YXZ6bjY1WTF5WXRlcW9FSQ?oc=5",
-   "published_utc": "2026-08-21T02:44:44+00:00",
-   "title_original": "Explainer: Why South Korea's semiconductor concentration may fare better than Taiwan's",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a68a69815722eeff"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "SK hynix, Samsung Electronics gain as U.S. chip stocks rally",
@@ -2381,41 +2510,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f5876d144d2eb0bb"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan export orders near US$98 billion in July, with US as top buyer",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWFhiRHIxcFYxeDB5eXNlU2d1VG1zSlFtQ3FjSXliVXY2R1V1OU5hWldaWkRILUVrQ3ZuMGwzMExRN0hUMFR0NHpwRTM3T0FNWTVhdm9RRVFmUDgwMTcwV1pKakhWX2MwRzhjUnZscmtFTm0tZVFJNm9yXzRVZlJRSE5FWQ?oc=5",
-   "published_utc": "2026-08-21T01:45:00+00:00",
-   "title_original": "Taiwan export orders near US$98 billion in July, with US as top buyer",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7310096d66960386"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "On August 21, the central bank launched a 95 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTZklfZENoNVFNTHpNLXEyU0c2dE43LTk4N012ZEk5SWd4ZVF3NndXMkZLVlZPRDBYYnhZOXU4WTgwWEVkUGJueXJlMmt6eVA5MTYtUVcxZmZPSlcxelpxZTRIYWE2WGZfMmJ5MmFjT3BVMjFraUFhMQ?oc=5",
-   "published_utc": "2026-08-21T01:43:00+00:00",
-   "title_original": "8月21日央行开展950亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "37c9c38114be2761"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2434,24 +2528,6 @@
    "live_wire": false,
    "manual": false,
    "id": "029b0740e2a001f3"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
-   "title_en": "The central bank launches 95 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NQjNXU0RjMVB2N25MajM5WE9IMktfVzdKeXBTOWI1RUZKdXV1alA5Q3VmTjhfSVlEQy1hZ1lSM3BoYklWMnE3RzhGc3FxbWZreE5pU0ZR?oc=5",
-   "published_utc": "2026-08-21T01:36:00+00:00",
-   "title_original": "央行开展950亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4275fad18c12d512"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2595,6 +2671,23 @@
    "id": "a9649499fadd643a"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank’s 7-day reverse repurchase operation volume on August 20 was zero",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUamZjVlhqTzNwamNydHFFLTZFYk54al9nNEZYMXRGUm1fUU9qeXBWN3NBQVl3dVJWcTRuVC1BUS1zZ3lJNF9JOHpaNVVMZw?oc=5",
+   "published_utc": "2026-08-20T23:50:24+00:00",
+   "title_original": "央行8月20日7天期逆回购操作量为零",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5d5050099d4ec0e1"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Japan's core inflation accelerates in July, bolsters case for rate hike",
@@ -2645,40 +2738,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b4c0c6530a4b7fef"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Charts: TSMC's share of Taiwan chip manufacturing revenue falls to 81.8% as memory makers scale up",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHBBSW1VMTMycjE3M0MzRWN2NHA3RXZQb0dfNngzTjY5RFZ1YmxhX3pGSGhvYTg4OGRib2tjMEplLWpGTEtBOWR1bGlRLU5ka0dZN0ZOLVZpaU1YdHVkaWhJX3U4Nkd5bnR1R0xVakhFM28taXMydEhBRHhmeGhpWmlNUU5sd2dmbXVkbw?oc=5",
-   "published_utc": "2026-08-20T22:17:33+00:00",
-   "title_original": "Charts: TSMC's share of Taiwan chip manufacturing revenue falls to 81.8% as memory makers scale up",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0200953816319960"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Charts: AI test demand drives broadest growth among Taiwan's chip equipment suppliers",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkMxYXd6MjNiU0ZJX1FxWjhCSGVXVC1OZ2syU21ncFlPY2p6bWtLQkM3am5jVUExOXptU2Q3ZFQ2TXgxQXMwdlZwTm1xUkgtZk1CclJiV0pmZUhDVkhkZm9hM3cyR3ByT3UxTG5GUmZXUGxaaXM1dXZ4aHNteHkyT21MNEFfSlNHOXZHaHFoUkNNZw?oc=5",
-   "published_utc": "2026-08-20T22:16:01+00:00",
-   "title_original": "Charts: AI test demand drives broadest growth among Taiwan's chip equipment suppliers",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1a33719cc6653305"
   },
   {
    "source_id": "scmp_business",
@@ -2764,6 +2823,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8fa58fbb9ac25642"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Taiwan's July export orders up amid continued AI demand",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0QlBuWlI2MDNoZHlDZlFVTTRZNnhZaW5mWE5oMHpnazFDMjIycERKWXBYUTMzRFNrVmtzYm5nQTJvTkJ2MHRVbDJBLXhpLXpBVkxrSTQyWQ?oc=5",
+   "published_utc": "2026-08-20T12:28:00+00:00",
+   "title_original": "Taiwan's July export orders up amid continued AI demand",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c241c63cf694b6e8"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2852,6 +2928,24 @@
    "id": "413020095eb3b2d7"
   },
   {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Cabinet approves 2027 budget proposal, defense spending at 3.01% of GDP",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zUnV0UFF1c0hpNHJfVnVfOU1hZG9OQ2lhOFJGc005SHZXbDFqaGNxRUlWWHhTZEtGYXlyMXowWGs3ekUzLTlhaG1UMkFUcVRQeDNGWTh0TQ?oc=5",
+   "published_utc": "2026-08-20T08:04:00+00:00",
+   "title_original": "Cabinet approves 2027 budget proposal, defense spending at 3.01% of GDP",
+   "region": "taiwan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d9832407f652fa49"
+  },
+  {
    "source_id": "gn_kr_herald",
    "source_name": "The Korea Herald",
    "title_en": "SK hynix, union reach tentative deal for stock-heavy bonuses",
@@ -2904,29 +2998,12 @@
    "id": "e5df62f327ae53d7"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Nvidia, TSMC, chip gear makers ride AI boom into high-margin club",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdkdYNE1CNFU1RjBkVW0zaFQ0QlpjTTVzTnNWYTlwWGdMSjdVNW0tQzFLdC1iekZGem9iQS1oRWRhVFVrYnVZU0hLeWtiLXhGVV9MTzJYME12SjYtc2xSd2pKR3JlaElFSkNieDNPQkxzRzhpUjV2ZnhVNC12cUhMMWxxc2VJRksweTAwbk1vOUNELUk?oc=5",
-   "published_utc": "2026-08-20T04:14:57+00:00",
-   "title_original": "Nvidia, TSMC, chip gear makers ride AI boom into high-margin club",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "07ed6b73bb235618"
-  },
-  {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "The central bank’s 7-day reverse repurchase operation volume on August 20 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vM1RoV2NJVUNiWG5JemY1SEpSNVNPbGFRRnBERkRPaGZBUmRVbENKSXp2SUQyZ0lTbVNqOVlfUVc5eVItbnZMYzdMNEFxV1JhU3BfbXdDWkJ2UFFMakk2QmQycmgzbnM?oc=5",
-   "published_utc": "2026-08-20T03:21:16+00:00",
-   "title_original": "央行8月20日7天期逆回购操作量为零",
+   "source_name": "QQ News",
+   "title_en": "The 7-day reverse repurchase rate continues to \"return to zero\". Why did the central bank turn to overnight operations?",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QTWlENXNRazZheFZ2X0pqTzdyb0hKVzdDNWRYMUZyTlBmQzRfazcxbWM0X1B6c3k3bmFaTXRobkJKNzhJcm12b0JqN2pNbGxzVjViVzhTWW9MSTNwc1JLWG93?oc=5",
+   "published_utc": "2026-08-20T02:51:00+00:00",
+   "title_original": "7天逆回购连续“归零”，央行为什么转向隔夜操作？",
    "region": "china",
    "topics": [
     "monetary"
@@ -2935,24 +3012,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "17fef7db8ce05eac"
+   "id": "656ffcd0f679dbe5"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
-   "title_en": "央行：8月20日7天期逆回购操作量为零",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wcHB5OWVPZHpiNzNiZkR2MGlxelpwcU1EbGZjQWxrNWRBcDJ2Z2JEVlgxZ0N4aTNyOFpJZHM2X1ZWM0QyNHVCYjhhQWFUVE5nazY1R2VRNTVQRDNERTE2cDBB?oc=5",
-   "published_utc": "2026-08-20T01:31:00+00:00",
-   "title_original": "央行：8月20日7天期逆回购操作量为零",
-   "region": "china",
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "SK hynix unveils 40 tn won buyback, cancellation plan",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGaHBrSXJCU2VLaTNiMDdfTWhFdWFhQ21GT3FCQ2ZHM2kxWkcydzlzdW1aSHNVcWl1R2VxQlMxOFFvbjJHTlBZblNPWVk5ZXFSRktkamhSTQ?oc=5",
+   "published_utc": "2026-08-20T01:50:05+00:00",
+   "title_original": "SK hynix unveils 40 tn won buyback, cancellation plan",
+   "region": "korea",
    "topics": [
-    "monetary"
+    "industrial"
    ],
-   "lang_original": "zh-CN",
+   "lang_original": "en",
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "230a937998a91584"
+   "id": "3759c7dc5258e824"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3040,23 +3117,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4b7324c803727d35"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Rising demand for CPO, SiPh reshapes semiconductor testing",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlBWRVQ3bTVNVWktM2NQU3lzdkVySEdSZTlNSE5WblF1Uk9rdi1JOXVSYWhXM3BNbUVTMG4weVBLQjdaRkVkOUJQZi1DUlZGMllxa0NFcEh6Um9yeWczb1BXWU5KUzBhekJrcGdfQ0FQSW5oVHM0WUl6R1h4YVNKS3AweU92RVRqMlF3aEpLY2E?oc=5",
-   "published_utc": "2026-08-20T00:12:57+00:00",
-   "title_original": "Rising demand for CPO, SiPh reshapes semiconductor testing",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "60a6ac954e46ae0c"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3318,6 +3378,24 @@
    "id": "0db0ab1d31cb3ce8"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launched a 327.4 billion yuan overnight reverse repurchase operation on August 19",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TbXR1SkxYNkhXS21McGVZa1pCRjRUcEhhYlNYOGVrT25qejZFQ1lOMFp0TUpqYWhQcWZmVmRBZHVRUmJiUVY3VEtGU2JMZw?oc=5",
+   "published_utc": "2026-08-19T03:07:20+00:00",
+   "title_original": "央行8月19日开展3274亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "dc7389d766ff911f"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "KDI raises S. Korea's 2026 growth outlook to 3.2 pct amid AI boom",
@@ -3336,22 +3414,21 @@
    "id": "54ba0420da08e4e1"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan bond yields near 3% as inflation, fiscal worries mount",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVliSFc4NzVQTGlyM0ZZbzR6dWQyUWV2RWpfR3JCYmxzZDlnRW1zM2czNnZhd3RHVC1TdW9FQ25WZko0MlFpeExLMWZHYTdwcl96ZzFydlY3T3duWDNGZDhiR1VhRHExTndrYWlSNUVSX0xodjluUk1aOThRYmlBTkg5X0ZBcE13ckpxMWVDSkFsdWVvdEFiM3ZSSHpkbFduaXBheUx4SEtaNWl1Ujc4?oc=5",
-   "published_utc": "2026-08-19T02:35:00+00:00",
-   "title_original": "Japan bond yields near 3% as inflation, fiscal worries mount",
-   "region": "japan",
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Government prepares 800 tn won-plus budget for next year",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IMGdWWGZNQkVwM2NiM2kycW00b0RSdFlqc2thTDV4M0hMRTFTRGtjdF8wdlAxN184cHpSb3FsQ3ZWZzdnaldtMUdoNlRULUtneHAxSHZPdw?oc=5",
+   "published_utc": "2026-08-19T01:40:00+00:00",
+   "title_original": "Government prepares 800 tn won-plus budget for next year",
+   "region": "korea",
    "topics": [
-    "fiscal",
-    "inflation"
+    "fiscal"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "c2b2c57f537187a8"
+   "id": "3800d8a5a679df67"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3370,23 +3447,6 @@
    "live_wire": false,
    "manual": false,
    "id": "430d3aec64d7bce4"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Charts: Memory, not logic, is doing the work in Taiwan's July chip revenue",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTU9MbFRvX2VKRkhzV2dya1VvT1RnRlp3VlM1UkZTNUN2ZnlqNjljVVRPdE9ndElZMzZrUi1PQUY3MV9lS3hvUTdGTHlzYUdPc2h3ZWlveFYwcG5pajN6RGlNUk9GV2V6RGl5Yi1Bb0ZXR2dJNGJLQU9kT1dUUnZrSVdHcWxwMTUwR2NF?oc=5",
-   "published_utc": "2026-08-19T00:44:16+00:00",
-   "title_original": "Charts: Memory, not logic, is doing the work in Taiwan's July chip revenue",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b45a98c847a94540"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -3613,23 +3673,6 @@
    "id": "ea94d88f57ed2676"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC overseas fabs see profit flip in 1H26, Arizona surges 663% YoY",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSlh0U3J1VVNQTTZaRWw4ZEtQTTVqcFRDNnB6NkFUVWo4TWtzdnAxaEVFRGhHNW5Bb2M3TlJZLThDRXc4c2FTX1djaG9GQXVyLXdVSUFxSzk1N2ZUeWVRSWtqX3d0Y1lzYklEQ09jTkdYUFZXTnI3Zm4wN3BpWVVNblRZOHREdG9LOFlaYjgwaUpFZjRWTXJr?oc=5",
-   "published_utc": "2026-08-18T07:00:00+00:00",
-   "title_original": "TSMC overseas fabs see profit flip in 1H26, Arizona surges 663% YoY",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e04835ec4edb8be"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Industrial Output Growth Misses Estimates",
@@ -3683,24 +3726,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "caiwennews.com",
-   "title_en": "The central bank launched a 469.7 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53WUV0eVpMS2wtYVVTaDJKcUJwTnFfS1RoSjY0VmdZdWxJY21UUDQtVDJTWXN6MTBnUHlMb3VMSlZSNXVIZ2RWc2lmUGt5WGlsSHdnRkxTd042cW02?oc=5",
-   "published_utc": "2026-08-18T01:30:12+00:00",
-   "title_original": "央行今日开展4697亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8df1e4f0a496e782"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank has not launched 7-day reverse repurchases for 5 consecutive days, and overnight reverse repurchases continue to be launched.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CbmFkZWlIZ29ETXhaV2Fiam9YTUJuVHA4R3hwTWhleDJjLVVUWkQ5b2NBSVpyNUE1b0VPT0x4YzVEUldpNG11RTIxNE5xTXdIMThSTktHSXdqWVhZMFl0d2Rn?oc=5",
@@ -3735,6 +3760,23 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "Experts predict that overnight reverse repos may become the core policy tool for short-term liquidity of the Central Bank of China.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFZ0dnNXc2xCRC1teXpaR2o3YVhHaG5XMHo5S25yY1djeC1aODJaVVEyd0xvVWJVME0tYmhiei1ZWlppN3RTSW9fMWxldFdoTC1YenBrTXJYWWhjcWEyZjlSWUxlNEpCY3BVZXJYbnJpamdWZmF2Y1l6dE5vQkpsdy1tWWs?oc=5",
+   "published_utc": "2026-08-17T23:26:19+00:00",
+   "title_original": "专家料隔夜逆回购有可能成中国央行短期流动性核心政策工具",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a4d3387a36073470"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "京报网",
    "title_en": "Central bank’s interest rate regulation welcomes new changes",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRWHNZblhXdnVRbUJ3VFRycDUwbEF4R1hZdUFXaUtUM0JpT1F3bzNZWFhxcmVleHI3YXJ0R25FRU1LNzZfQjVZZTkxTzBfZlROaW1na0RnOU5tb0tJN1AtVWhEOW1TeWoxMFN0c1NrUEl3QQ?oc=5",
@@ -3766,6 +3808,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e424918fb384d7fa"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Universal NT$10,000 cash handout to be included in 2027 budget: Lai",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05XzRjUDdhQzJtSTNnVkJTdllxbHUxbkpHbXNIYUROOFJya08xcWRQdWVWcU9UTkd3bHVnYWR5ZjAxazZxYTdlUXlldFdIZkFPNTRmdHJkQQ?oc=5",
+   "published_utc": "2026-08-17T09:55:00+00:00",
+   "title_original": "Universal NT$10,000 cash handout to be included in 2027 budget: Lai",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "582a663e556bfe87"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -3853,6 +3912,24 @@
    "live_wire": false,
    "manual": false,
    "id": "5cb2d96c23a276dc"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The Export-Import Bank of Korea will provide large-scale financial support worth more than 1.4 trill..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tMDRSYVoxT2NUNC1aTjdrMzJuSGJDRjIxY2VKSm8xdl9qNU51WDJXeVFSakpMb1FPV0ZYMnE5Mzd5dklvclA3c2hMVUIwMXR2TlE?oc=5",
+   "published_utc": "2026-08-17T04:55:23+00:00",
+   "title_original": "The Export-Import Bank of Korea will provide large-scale financial support worth more than 1.4 trill..",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "de788f8490d8a95e"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -4007,6 +4084,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8921d826c4bbce70"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Taiwan ups 2026 GDP growth forecast to 11.05%, a 39-year high",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13X1JuVVZWWHFVYXczTVZMdHhKdEN1Y0h4MWFqREdka3JXak1WV08zamFaSUN3UG12bkNVVEw4Q2N5b193dmZ0RVRVZ3Z3N1lqUUJpaWdLaw?oc=5",
+   "published_utc": "2026-08-14T11:50:00+00:00",
+   "title_original": "Taiwan ups 2026 GDP growth forecast to 11.05%, a 39-year high",
+   "region": "taiwan",
+   "topics": [
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2c965d37cfd00294"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4182,23 +4277,6 @@
    "id": "e6c1f469ccbed72a"
   },
   {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "BOK holds $250m in US gold ETF, 1st gold investment in 13 yrs",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tTHU5S3QtNjVCOTZrSlk5TkZ6VlM4N3RDcFRJX0tsZ3ZSSzgzMThsZlZDVUtVeEtPQ0tVeWd4YWh5YjdPYTYxQ19WWFlLaFpZQ0NldWhxQQ?oc=5",
-   "published_utc": "2026-08-13T01:11:48+00:00",
-   "title_original": "BOK holds $250m in US gold ETF, 1st gold investment in 13 yrs",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d34d22cace985a15"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "BOK holds US$250 mln in U.S. gold ETF, 1st gold investment in 13 yrs",
@@ -4283,6 +4361,23 @@
    "live_wire": false,
    "manual": false,
    "id": "aeb27a2fbdd8d49b"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Taiex ends higher but turnover capped ahead of U.S. inflation data",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42aF9yQjhGM2otMlJ6dVpOV0NSdXdQbmRVS3R0MEM0X3lyR1lGc1BFc0s3VjY3QlVTYjB2Q1oxU0hNaWdhRWdubXdYMnYwU3hqSUFiblp3SQ?oc=5",
+   "published_utc": "2026-08-12T07:00:00+00:00",
+   "title_original": "Taiex ends higher but turnover capped ahead of U.S. inflation data",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9e2264f921c16307"
   },
   {
    "source_id": "boj_whatsnew",
@@ -4550,8 +4645,8 @@
    "id": "4af1daafc1760c1d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "We ask Finance Minister Katayama, who holds the key to reducing the consumption tax on food products",
    "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199621000.html",
    "published_utc": "2026-08-07T12:57:08+00:00",
@@ -4566,7 +4661,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5e4be4703212b5da"
+   "id": "921501cf4044e354"
   },
   {
    "source_id": "manual_ia",
@@ -4621,8 +4716,8 @@
    "id": "34646628821fcb2b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "June economic trend index rises; economic outlook remains ``improved'' Cabinet Office",
    "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199331000.html",
    "published_utc": "2026-08-07T08:55:53+00:00",
@@ -4636,7 +4731,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b01b2e568f7c5d29"
+   "id": "f4cb3d1990757e57"
   },
   {
    "source_id": "nhk_economy",
@@ -5110,8 +5205,8 @@
    "id": "ab710a0c58e01eb4"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi says it is possible to achieve both a strong economy and fiscal sustainability",
    "url": "http://www3.nhk.or.jp/news/html/20260805/k10015197231000.html",
    "published_utc": "2026-08-05T06:21:29+00:00",
@@ -5124,7 +5219,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6a34b4bb606d05db"
+   "id": "01564c392bcda51e"
   },
   {
    "source_id": "nhk_politics",
@@ -6208,6 +6303,59 @@
    "id": "332334f719d7c4a5"
   },
   {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "TIER raises Taiwan's 2026 GDP growth forecast to 10.38%",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uTHBKbk81d2E1Z0M4OGJSa1A0ZjdBb2xPb1FjeFNqQTRZR014cUxhRDN0XzU4cGZjclZDRWNqaWJFcFA0aGFnWnoyVjROOXhtNHp0dFdWQQ?oc=5",
+   "published_utc": "2026-07-24T07:00:00+00:00",
+   "title_original": "TIER raises Taiwan's 2026 GDP growth forecast to 10.38%",
+   "region": "taiwan",
+   "topics": [
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d2b07a7cef19643d"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "CIER raises Taiwan's 2026 GDP growth forecast to 10.35%",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53REQ5aVRQTnZUbHBTMFVPNVotSnhJRW9IclJBOG1QMXBxak0waUpKVTdhNzlnRThIWk80UUFVRk5vVnhHa1FwN2VmQXBSeDl0Nzc4M0JQQQ?oc=5",
+   "published_utc": "2026-07-22T07:00:00+00:00",
+   "title_original": "CIER raises Taiwan's 2026 GDP growth forecast to 10.35%",
+   "region": "taiwan",
+   "topics": [
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c73598fa7a3b8a6"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Taiwan's June export orders hit record high on AI demand",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YTEV4SGJUaHd5VnhHSnFXSFBqczEtazNYNEFrekRTYV9jdTRna09vV2Y0SWhFNENWQWFVZENpdkZveHhLSFc2QzVfS0J3V3ByQmN0Nkp4OA?oc=5",
+   "published_utc": "2026-07-21T07:00:00+00:00",
+   "title_original": "Taiwan's June export orders hit record high on AI demand",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a65e93d1ab0740cc"
+  },
+  {
    "source_id": "manual_ia",
    "source_name": "The Korea Herald / Korea Customs Service",
    "title_en": "Korea's exports up 52% in first 20 days of July on robust chip shipments",
@@ -6258,6 +6406,40 @@
    "live_wire": false,
    "manual": false,
    "id": "2d8000943fa53a5b"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Taiwan shares end up after U.S. rally on eased inflation",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uSkRWQ0xGTUZOajlJTmV0YnJmMEVoWEg1ek9qamlSSmxmLTlLaWRWWjBlRmVoUUFuWlY5WWRMQzhxRDhvMm8wRlVjbm9FN18wTTFKQVBlMA?oc=5",
+   "published_utc": "2026-07-15T07:00:00+00:00",
+   "title_original": "Taiwan shares end up after U.S. rally on eased inflation",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b826bafb451a9897"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Academia Sinica raises forecast for Taiwan's 2026 GDP growth to 10.16%",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WQ1g2bDVGbEtWd0JOVW5zOTY5dm5fWnpPeTZVaEhSVFpLMmREaHZpV0V3aWRiSVZKdHJsZVd1cUN0ZjJDQlc2aTBvNnVoLVVyUjQ0UzlwRQ?oc=5",
+   "published_utc": "2026-07-13T07:00:00+00:00",
+   "title_original": "Academia Sinica raises forecast for Taiwan's 2026 GDP growth to 10.16%",
+   "region": "taiwan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "930e882206cc0316"
   },
   {
    "source_id": "manual_ia",
