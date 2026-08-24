@@ -1,14 +1,22 @@
 {
- "generated_at_utc": "2026-08-24T11:04:09.507760+00:00",
- "count": 359,
+ "generated_at_utc": "2026-08-24T11:31:33.977836+00:00",
+ "count": 346,
  "by_region": {
   "japan": 136,
   "china": 65,
-  "taiwan": 49,
-  "korea": 109
+  "taiwan": 38,
+  "korea": 107
  },
- "elapsed_s": 302.3,
+ "elapsed_s": 334.5,
  "sources": [
+  {
+   "source_id": "gn_tw_focus",
+   "name": "Focus Taiwan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -47,23 +55,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-24T04:24:38+00:00"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "name": "Focus Taiwan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-08-23T11:49:00+00:00"
+   "newest": "2026-08-24T10:41:15+00:00"
   },
   {
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 36,
+   "count": 42,
    "error": "",
-   "newest": "2026-08-24T16:16:24+08:00"
+   "newest": "2026-08-24T19:10:40+08:00"
   },
   {
    "source_id": "investing_live",
@@ -71,7 +71,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-08-24T10:43:13+00:00"
+   "newest": "2026-08-24T11:21:31+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -79,7 +79,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-08-24T10:30:50+00:00"
+   "newest": "2026-08-24T11:20:34+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -199,7 +199,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-24T10:13:46+00:00"
+   "newest": "2026-08-24T11:15:06+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -263,7 +263,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-08-24T10:59:05+00:00"
+   "newest": "2026-08-24T11:26:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -357,6 +357,74 @@
    "id": "e472b7b2def3c6ee"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "央行出手！5000亿MLF操作来了",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa0EtQno2emlvZ3BpeE1pOWNlam1YcHBzT0Z2QVQxTjMtTngta250SGQ0WTJ2TE9KN3QyYTNmQnVESHh6dHVlWHMtR29ob3pIbnA1MjJnMXE4TmxrLWM4bDZISkRaeFpsdzB3aWJYNVlvRDg2Nk45Nm5WNjNzb0hnc2otY1paZklFRDFpVA?oc=5",
+   "published_utc": "2026-08-24T11:15:06+00:00",
+   "title_original": "央行出手！5000亿MLF操作来了",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "58d14c8b01580cf1"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "8月27日至9月1日，央行将连续操作",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMllkY3hfT3hrVU1kaHlNdUJhVlhrWElodVlkTTNVOHFjY19fcFdYUF9JeWFscW9GbldEOWE3UEdaMXZTVU1QMV9wY2paODlwRkxoVHVxZFFoUWpPSmZmMTZQTEpYQmk0blVreTJxWlVpNy1ubWRONXRYem9Fb1B6N3hUVXkxVEpoU3VkNA?oc=5",
+   "published_utc": "2026-08-24T11:11:45+00:00",
+   "title_original": "8月27日至9月1日，央行将连续操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3fc9ae38325f4c4e"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiwan jobless rate up for 2nd straight month in July",
+   "url": "https://focustaiwan.tw/business/202608240019",
+   "published_utc": "2026-08-24T11:10:40+00:00",
+   "title_original": "Taiwan jobless rate up for 2nd straight month in July",
+   "region": "taiwan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3622d165e11c4548"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "thepaper.cn",
+   "title_en": "央行8月25日将开展5000亿元MLF操作，净回笼1000亿元",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DanRXalIwQmlRV04zNEc2SXVnRUt1LWhHSVpYYVN2Ump6dUF5akxIcEN2N3ozb0twZnZTdnpOSEFRMFY4OGtPZkQ3YUR5SHZQcHNPLU9lalJSanBoZWs1aw?oc=5",
+   "published_utc": "2026-08-24T11:06:00+00:00",
+   "title_original": "央行8月25日将开展5000亿元MLF操作，净回笼1000亿元",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4eba85c58c08fe10"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Minério de ferro sobe com novos sinais de estímulos da China",
@@ -372,41 +440,6 @@
    "live_wire": true,
    "manual": false,
    "id": "833f8d757d5c1275"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Acuvi Enters Exclusive Global Collaboration With Japanese Precision Positioning Systems Manufacturer",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44L05Q:0-acuvi-enters-exclusive-global-collaboration-with-japanese-precision-positioning-systems-manufacturer/",
-   "published_utc": "2026-08-24T10:45:28+00:00",
-   "title_original": "Acuvi Enters Exclusive Global Collaboration With Japanese Precision Positioning Systems Manufacturer",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "085cffbbd8aea295"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan Post Insurance To Double Its Real Estate Fund It Manages Through Joint Venture With Mitsui & Co To 400 Billion Yen From 200 Billion Yen, Japan Post Insurance President Says In Nikkei Interview",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44I014:0-japan-post-insurance-to-double-its-real-estate-fund-it-manages-through-joint-venture-with-mitsui-co-to-400-billion-yen-from-200-billion-yen-japan-post-insurance-president-says-in-nikkei-interview/",
-   "published_utc": "2026-08-24T10:41:18+00:00",
-   "title_original": "Japan Post Insurance To Double Its Real Estate Fund It Manages Through Joint Venture With Mitsui & Co To 400 Billion Yen From 200 Billion Yen, Japan Post Insurance President Says In Nikkei Interview",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b818ee02b1ffd69d"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -425,57 +458,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9ceb1d1811b689a5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Chinese refiner Sinopec to boost oil imports from outside the Gulf",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44L08U:0-chinese-refiner-sinopec-to-boost-oil-imports-from-outside-the-gulf/",
-   "published_utc": "2026-08-24T10:40:21+00:00",
-   "title_original": "Chinese refiner Sinopec to boost oil imports from outside the Gulf",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ff9aa62856fde37e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "TWD: Profit after tax surged 41.6% to $8.193 million, with strong cash and no debt",
-   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3682874:0-twd-profit-after-tax-surged-41-6-to-8-193-million-with-strong-cash-and-no-debt/",
-   "published_utc": "2026-08-24T10:39:41+00:00",
-   "title_original": "TWD: Profit after tax surged 41.6% to $8.193 million, with strong cash and no debt",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8f60d6403fe03087"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Henan Dayou Energy H1 Net Loss At 642.9 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N44L0PG:0-henan-dayou-energy-h1-net-loss-at-642-9-million-yuan/",
-   "published_utc": "2026-08-24T10:25:55+00:00",
-   "title_original": "Henan Dayou Energy H1 Net Loss At 642.9 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "11a95fcdf76096dd"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -597,6 +579,23 @@
    "id": "5cddade175053cda"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Hanmi Pharmaceutical will export its \"muscle-preserving obesity new drug\" technology to Genentech, a..",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMXzBBR1hJbjVOeEdpMzJUU0ZlTXhUMFJLZjhBWl80NlEwZEdNa1FlR2VzX1RLeFM5MERBdm1zaWQtSEQtRXFfRExTRQ?oc=5",
+   "published_utc": "2026-08-24T08:43:38+00:00",
+   "title_original": "Hanmi Pharmaceutical will export its \"muscle-preserving obesity new drug\" technology to Genentech, a..",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "56c8049ef763e3d5"
+  },
+  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China vows to protect its rights as US readies Iran sanction",
@@ -631,46 +630,12 @@
    "id": "2b9b28ac5569f3d6"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AI energy bottleneck is driving semiconductor materials innovation, says Applied Materials",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNnRRcG5zNGJ2TnhEaTk0R1RPN01lZDdiQzh3RXhxdUVsMmFSV2V6RHQ4ei16Wm44MDItbkV0RlZ0RjJNRGxuWkNmZnpTazUyR0ZEN2VySF9tLUdvWlZDYkFDbTVBemZsQnA4TDM2bzRpZ0tRdkNqR1RmaEJQRy00UGhKZWVPd2JMVGQzNHRsQWNSMjl2YWFyT0swME1YT054bkZIQQ?oc=5",
-   "published_utc": "2026-08-24T07:56:00+00:00",
-   "title_original": "AI energy bottleneck is driving semiconductor materials innovation, says Applied Materials",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e275e3e09256e9aa"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The won-dollar exchange rate soared to 1561.5 won in early June in night trading and has recently fl..",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rYkJnOVE2OUR3dnZVX1lLREhKVlFESkI5amx5YU1hd0ZGQWdjTDlCZ09LdHRzM2NZbUt0NmtrZ09QRWJ5LWpScDBwa3ZsWnBFUG82b0FnOUE?oc=5",
-   "published_utc": "2026-08-24T07:53:09+00:00",
-   "title_original": "The won-dollar exchange rate soared to 1561.5 won in early June in night trading and has recently fl..",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d5d0c6e6e6bb715b"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
-   "title_en": "Xiaomi lança novo chip Xring e firma parceria com a TSMC para a produção, segundo fontes",
+   "title_en": "Xiaomi lança novo chip Xring e faz parceria com a TSMC para a produção, segundo fontes",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44L07T:0/",
    "published_utc": "2026-08-24T07:12:31+00:00",
-   "title_original": "Xiaomi lança novo chip Xring e firma parceria com a TSMC para a produção, segundo fontes",
+   "title_original": "Xiaomi lança novo chip Xring e faz parceria com a TSMC para a produção, segundo fontes",
    "region": "taiwan",
    "topics": [
     "industrial"
@@ -679,7 +644,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "dfc733adf5b3641d"
+   "id": "a3340acb46abad55"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -839,23 +804,6 @@
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
-   "title_en": "Taiwan speeds chip materials push with consumables, ITRI says",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1MtdkdfTzlKM1JCYTNTazNsZWpDQ0NNNU8yZVZKMFR4MFZGTFp0UDdOak5CWklMdHFqMHg5TEItS0taRUdjdDBIZ001VkoxU1E3MjlNN0JNQWg0R3VMNmlUY3hxSk1rNENKZFJYd3dEdkh0UVYwbkJ5WExjcE9PQ3J6bUtpaVpfQ2ZtYzFXYU1OWndJUzl6MFNxQQ?oc=5",
-   "published_utc": "2026-08-24T02:27:09+00:00",
-   "title_original": "Taiwan speeds chip materials push with consumables, ITRI says",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2cede1162c5b8149"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
    "title_en": "Taiwan semiconductor materials team up to build local supply chain",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUVZbUd6TFd3ZjR6Y2cyZzNKNFJrYllKQkctTERtUWNmNzByd044ZHhGRWxCZl9NcnZydy1mWUtxTzBBbUMxOHdMYWpCSDJCZnYtTExBM0Z2ZjBwNE5jV1RtRHVVVGdZblA3elN0LWxTQ1hXb3VEMkhEakdxanJvQUhfMTU4eDREU0o5ajlfUDVTRWJs?oc=5",
    "published_utc": "2026-08-24T02:10:47+00:00",
@@ -922,40 +870,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9c8608bc57e4d43c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "手机网易网",
-   "title_en": "央行今日开展3400亿元7天逆回购操作",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ycVdrM3pJYVRCUDNrOHQ5MldOZGNBMzFta05sRmxDS1R0Z09YeklVbUpWTEp0UVFRQk9oUjY4Wkh5b1NuY1FtSklHR3MyN3hmRHFHMA?oc=5",
-   "published_utc": "2026-08-24T01:45:38+00:00",
-   "title_original": "央行今日开展3400亿元7天逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c8e50d98b3ffec3b"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Finance minister discusses tech, infrastructure cooperation with AIIB",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92UXExOHNDQjVnOUY1M0xzd0w1c0llQi0yeVdRWnhDVGRhMTA5ZDVhXzMwazNfTjVEUmk1QzRlM1pRUlYwX1Q1bktRTnlpRkl1ZThDNndOUWlEUQ?oc=5",
-   "published_utc": "2026-08-24T01:23:40+00:00",
-   "title_original": "Finance minister discusses tech, infrastructure cooperation with AIIB",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b8d5f21c1e901d0c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1094,23 +1008,6 @@
    "id": "5c6e49a5cf8e5f71"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan's 'invisible champions' in chip materials are about to become visible, says GlobalWafers' Doris Hsu",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUZackdqR1l4YVhFaElERndYTlBPS18yMWpHTkxucGV3QVVrNU92aVJtZXA3OTZmMGV0TWk2WnVoMkFWSkJHTzNOdXlUOWdrTVEzeTBDRU1ZamFZdkZUUldTMDRuckhnSWYzMklNYThfdTRtWUtRMUNtMUlWQXh1bkt1ZjVkWUU0cUs2NWJYdlNXMjRScFp3UlJJNGVmMWMtNnBKcVpXZHU?oc=5",
-   "published_utc": "2026-08-23T23:42:25+00:00",
-   "title_original": "Taiwan's 'invisible champions' in chip materials are about to become visible, says GlobalWafers' Doris Hsu",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "531a2a48fe73480e"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "欧州を〈食品インフレ〉が襲う…燃料･肥料高騰に酷暑が追い打ち､難渋する金融財政政策でユーロ高や政局への影響も | 政治・経済・投資 | 東洋経済オンライン",
@@ -1234,10 +1131,10 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
-   "title_en": "71% air fiscal worries amid Japan's tax cut, Cabinet support hits lowest",
+   "title_en": "71% worry about fiscal health after Japan tax cut, Cabinet support at low",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wYUhkTlFlWmtxSUdHOUpDT2J3aVE0dmV2TnlCc0pmUXdoNGkyampCVHZPUzVQUmdSWndNUWdTcWZOa2dFekdNX0dFQmwtMW1id2RaZlpwWFVNZw?oc=5",
    "published_utc": "2026-08-23T13:23:11+00:00",
-   "title_original": "71% air fiscal worries amid Japan's tax cut, Cabinet support hits lowest",
+   "title_original": "71% worry about fiscal health after Japan tax cut, Cabinet support at low",
    "region": "japan",
    "topics": [
     "fiscal"
@@ -1246,7 +1143,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "bcb56ba99e173c57"
+   "id": "9fa20f5ecbda9c18"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2486,6 +2383,23 @@
    "id": "f5876d144d2eb0bb"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan export orders near US$98 billion in July, with US as top buyer",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWFhiRHIxcFYxeDB5eXNlU2d1VG1zSlFtQ3FjSXliVXY2R1V1OU5hWldaWkRILUVrQ3ZuMGwzMExRN0hUMFR0NHpwRTM3T0FNWTVhdm9RRVFmUDgwMTcwV1pKakhWX2MwRzhjUnZscmtFTm0tZVFJNm9yXzRVZlJRSE5FWQ?oc=5",
+   "published_utc": "2026-08-21T01:45:00+00:00",
+   "title_original": "Taiwan export orders near US$98 billion in July, with US as top buyer",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7310096d66960386"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
    "title_en": "On August 21, the central bank launched a 95 billion yuan 7-day reverse repurchase operation.",
@@ -2750,6 +2664,23 @@
    "id": "0200953816319960"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Charts: AI test demand drives broadest growth among Taiwan's chip equipment suppliers",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkMxYXd6MjNiU0ZJX1FxWjhCSGVXVC1OZ2syU21ncFlPY2p6bWtLQkM3am5jVUExOXptU2Q3ZFQ2TXgxQXMwdlZwTm1xUkgtZk1CclJiV0pmZUhDVkhkZm9hM3cyR3ByT3UxTG5GUmZXUGxaaXM1dXZ4aHNteHkyT21MNEFfSlNHOXZHaHFoUkNNZw?oc=5",
+   "published_utc": "2026-08-20T22:16:01+00:00",
+   "title_original": "Charts: AI test demand drives broadest growth among Taiwan's chip equipment suppliers",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1a33719cc6653305"
+  },
+  {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
    "title_en": "Despite US sanctions on Xinjiang cotton, China’s textile industry weathers the storm",
@@ -2833,23 +2764,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8fa58fbb9ac25642"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "Taiwan's July export orders up amid continued AI demand",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0QlBuWlI2MDNoZHlDZlFVTTRZNnhZaW5mWE5oMHpnazFDMjIycERKWXBYUTMzRFNrVmtzYm5nQTJvTkJ2MHRVbDJBLXhpLXpBVkxrSTQyWQ?oc=5",
-   "published_utc": "2026-08-20T12:28:00+00:00",
-   "title_original": "Taiwan's July export orders up amid continued AI demand",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c241c63cf694b6e8"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2936,24 +2850,6 @@
    "live_wire": false,
    "manual": false,
    "id": "413020095eb3b2d7"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "Cabinet approves 2027 budget proposal, defense spending at 3.01% of GDP",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zUnV0UFF1c0hpNHJfVnVfOU1hZG9OQ2lhOFJGc005SHZXbDFqaGNxRUlWWHhTZEtGYXlyMXowWGs3ekUzLTlhaG1UMkFUcVRQeDNGWTh0TQ?oc=5",
-   "published_utc": "2026-08-20T08:04:00+00:00",
-   "title_original": "Cabinet approves 2027 budget proposal, defense spending at 3.01% of GDP",
-   "region": "taiwan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d9832407f652fa49"
   },
   {
    "source_id": "gn_kr_herald",
@@ -3458,23 +3354,6 @@
    "id": "c2b2c57f537187a8"
   },
   {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Government prepares 800 tn won-plus budget for next year",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IMGdWWGZNQkVwM2NiM2kycW00b0RSdFlqc2thTDV4M0hMRTFTRGtjdF8wdlAxN184cHpSb3FsQ3ZWZzdnaldtMUdoNlRULUtneHAxSHZPdw?oc=5",
-   "published_utc": "2026-08-19T01:40:00+00:00",
-   "title_original": "Government prepares 800 tn won-plus budget for next year",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3800d8a5a679df67"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "jwview.com",
    "title_en": "Central Bank: Launches 327.4 billion yuan overnight reverse repurchase operation",
@@ -3734,6 +3613,23 @@
    "id": "ea94d88f57ed2676"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC overseas fabs see profit flip in 1H26, Arizona surges 663% YoY",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSlh0U3J1VVNQTTZaRWw4ZEtQTTVqcFRDNnB6NkFUVWo4TWtzdnAxaEVFRGhHNW5Bb2M3TlJZLThDRXc4c2FTX1djaG9GQXVyLXdVSUFxSzk1N2ZUeWVRSWtqX3d0Y1lzYklEQ09jTkdYUFZXTnI3Zm4wN3BpWVVNblRZOHREdG9LOFlaYjgwaUpFZjRWTXJr?oc=5",
+   "published_utc": "2026-08-18T07:00:00+00:00",
+   "title_original": "TSMC overseas fabs see profit flip in 1H26, Arizona surges 663% YoY",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9e04835ec4edb8be"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Industrial Output Growth Misses Estimates",
@@ -3872,23 +3768,6 @@
    "id": "e424918fb384d7fa"
   },
   {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "Universal NT$10,000 cash handout to be included in 2027 budget: Lai",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05XzRjUDdhQzJtSTNnVkJTdllxbHUxbkpHbXNIYUROOFJya08xcWRQdWVWcU9UTkd3bHVnYWR5ZjAxazZxYTdlUXlldFdIZkFPNTRmdHJkQQ?oc=5",
-   "published_utc": "2026-08-17T09:55:00+00:00",
-   "title_original": "Universal NT$10,000 cash handout to be included in 2027 budget: Lai",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "582a663e556bfe87"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Opinion: The PBOC’s Blueprint to Reshape China’s Financial System",
@@ -3976,24 +3855,6 @@
    "id": "5cb2d96c23a276dc"
   },
   {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The Export-Import Bank of Korea will provide large-scale financial support worth more than 1.4 trill..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tMDRSYVoxT2NUNC1aTjdrMzJuSGJDRjIxY2VKSm8xdl9qNU51WDJXeVFSakpMb1FPV0ZYMnE5Mzd5dklvclA3c2hMVUIwMXR2TlE?oc=5",
-   "published_utc": "2026-08-17T04:55:23+00:00",
-   "title_original": "The Export-Import Bank of Korea will provide large-scale financial support worth more than 1.4 trill..",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "de788f8490d8a95e"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China’s Chip Industry Is Having a Breakout Moment",
@@ -4009,23 +3870,6 @@
    "live_wire": false,
    "manual": false,
    "id": "22a1b0b3b6aef807"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "US tariffs and FCC curbs redraw the drone supply chain — and Taiwan sees an opening",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUk1oUko1RndRc3lKREtHRUt1LTZCRlJ1QnJsajRtNmJ6ek1XdGQ0SG1OU2ZCLWs1M2RlT29waXhHU2pPSF9oYkk5VnZ0YWlOaE1aR2kwZ01sTW9aLXpnbTJsZlpqZ2FBQnh2YV9YZUM2bDZlWGNFUklQM2JqUEVrSGxGdXhldDRpdjl4MlpnQk9ySDg2dnhaUA?oc=5",
-   "published_utc": "2026-08-17T02:34:06+00:00",
-   "title_original": "US tariffs and FCC curbs redraw the drone supply chain — and Taiwan sees an opening",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c79a54f01f79787b"
   },
   {
    "source_id": "gn_jp_investing",
@@ -4131,6 +3975,23 @@
    "id": "babe7cde256019a1"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI reshapes semiconductor testing as KYEC pushes four-way model",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTlSNGlqVG5NYUFQcFR2WnVLUlI2VXFWOHhZYkxNemJLZWF4X0ptcUhtV1YxT0pFRU1reGYzTnhnb2lZNThmN3ZtXzFoRzBvWjBzMy1rbkNRR0dJUFF4SFF0OGdqM3lYVzZQbnE0SE5CekJXLTFXVVRBV1Y0eDMtVFBuT2NOWklLUWNlWmh4QmFPSlZ6YWdtZDBtWEc0UQ?oc=5",
+   "published_utc": "2026-08-15T22:38:39+00:00",
+   "title_original": "AI reshapes semiconductor testing as KYEC pushes four-way model",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a4f4013af7ee0a01"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "US tells South Korea to move on US investment or risk higher tariffs",
@@ -4146,24 +4007,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8921d826c4bbce70"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "Taiwan ups 2026 GDP growth forecast to 11.05%, a 39-year high",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13X1JuVVZWWHFVYXczTVZMdHhKdEN1Y0h4MWFqREdka3JXak1WV08zamFaSUN3UG12bkNVVEw4Q2N5b193dmZ0RVRVZ3Z3N1lqUUJpaWdLaw?oc=5",
-   "published_utc": "2026-08-14T11:50:00+00:00",
-   "title_original": "Taiwan ups 2026 GDP growth forecast to 11.05%, a 39-year high",
-   "region": "taiwan",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2c965d37cfd00294"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4339,6 +4182,23 @@
    "id": "e6c1f469ccbed72a"
   },
   {
+   "source_id": "gn_kr_herald",
+   "source_name": "The Korea Herald",
+   "title_en": "BOK holds $250m in US gold ETF, 1st gold investment in 13 yrs",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tTHU5S3QtNjVCOTZrSlk5TkZ6VlM4N3RDcFRJX0tsZ3ZSSzgzMThsZlZDVUtVeEtPQ0tVeWd4YWh5YjdPYTYxQ19WWFlLaFpZQ0NldWhxQQ?oc=5",
+   "published_utc": "2026-08-13T01:11:48+00:00",
+   "title_original": "BOK holds $250m in US gold ETF, 1st gold investment in 13 yrs",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d34d22cace985a15"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "BOK holds US$250 mln in U.S. gold ETF, 1st gold investment in 13 yrs",
@@ -4423,23 +4283,6 @@
    "live_wire": false,
    "manual": false,
    "id": "aeb27a2fbdd8d49b"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "Taiex ends higher but turnover capped ahead of U.S. inflation data",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42aF9yQjhGM2otMlJ6dVpOV0NSdXdQbmRVS3R0MEM0X3lyR1lGc1BFc0s3VjY3QlVTYjB2Q1oxU0hNaWdhRWdubXdYMnYwU3hqSUFiblp3SQ?oc=5",
-   "published_utc": "2026-08-12T07:00:00+00:00",
-   "title_original": "Taiex ends higher but turnover capped ahead of U.S. inflation data",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e2264f921c16307"
   },
   {
    "source_id": "boj_whatsnew",
@@ -4598,23 +4441,6 @@
    "live_wire": false,
    "manual": true,
    "id": "8fbb70aeab4930f5"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Semiconductor material prices surge across silicon wafers, specialty gases and advanced packaging",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmRpeHRvRlU0N0t2MExDeTNsY3p6ZmtfMS1KU0hSQTFIYmRVLVlNS3docWhqQnVCODdTR0w1ZDdUYXZwRjkxUlRLd2Jrc3FzTHFPMmVKLWl1alVDOURfTGhleGh0WXNjVDR0NnVtZE9halF5OWViZGk5bTJpXzZWLUN6TFRLRzFPN1A5bmFxaUZJaXhGa1E?oc=5",
-   "published_utc": "2026-08-10T07:00:00+00:00",
-   "title_original": "Semiconductor material prices surge across silicon wafers, specialty gases and advanced packaging",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1e5dab5d62095da9"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -5250,6 +5076,40 @@
    "id": "f64d8c548ad5bd5c"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "U.S. joined Japan's currency intervention for stability of Asia: Bessent",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoUTZOR204SVZwcXJMT1JJcnh1aVBrenVNYndRd2hOYWZ1SmpXekVleVByLUVkUDBlNDJVcExrbzlMTWh3eFd5S3pCNWhialJOWUhrVlZaRGw3QQ?oc=5",
+   "published_utc": "2026-08-05T07:00:00+00:00",
+   "title_original": "U.S. joined Japan's currency intervention for stability of Asia: Bessent",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "74db57c7a3fde89e"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Honda's net profit for April-June up twofold to record high on weak yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VYWU5cWN2VTlndEs0WVNGTWlZbTdrUEtmV2dBUzRZMXE1VWhCNzdIT05CR20yeVBYX0E2bkVWTl83LUNyalViYkFTRlYtWjNQYkw4d1VMNXNjZw?oc=5",
+   "published_utc": "2026-08-05T07:00:00+00:00",
+   "title_original": "Honda's net profit for April-June up twofold to record high on weak yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ab710a0c58e01eb4"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi says it is possible to achieve both a strong economy and fiscal sustainability",
@@ -5708,6 +5568,23 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan gov't to use over 20 bil. yen from reserve funds to address quake: PM",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DTi1lTXBpM3g2eWpJV3RHQlFNT2FvSkNSNU9ETUZSNWtnQ0UySWFNN2F6U1hPcXFQQlJlamF2RlZROHkzTFFrQkt3M1pobUYtdXpFSk9HUHZXQQ?oc=5",
+   "published_utc": "2026-08-03T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Japan gov't to use over 20 bil. yen from reserve funds to address quake: PM",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "090eb6244cd82bc1"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
    "title_en": "Dollar plunges vs. yen amid warnings of further Japan-U.S. intervention",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15RG90YWpqZHVtUDJ2M3NIOTYxTnl2ZGFsV1kxS0dOQTYxeDlEQ0l5c0wtUFllekJZUG8yOFJ2ZFpvTjJsUFNsb1FJc1BmWWhyS08tZU9rbjQ1UQ?oc=5",
    "published_utc": "2026-08-03T07:00:00+00:00",
@@ -5997,23 +5874,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4064b0ca2e5565e2"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan likely spent 6-7 trillion yen on currency intervention",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCNjlPeHRkcHpXR3l6UDBKUHZFeEtQMkZFVl9lTFE0RTlMVE9rdUFOX2kxcEQyY3FVVFlHQ1JyQ2dXWVRxd004SUJnQUxjazFPUFUwM09nRThodw?oc=5",
-   "published_utc": "2026-07-31T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Japan likely spent 6-7 trillion yen on currency intervention",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1597371c2272e1fd"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -6348,59 +6208,6 @@
    "id": "332334f719d7c4a5"
   },
   {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "TIER raises Taiwan's 2026 GDP growth forecast to 10.38%",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uTHBKbk81d2E1Z0M4OGJSa1A0ZjdBb2xPb1FjeFNqQTRZR014cUxhRDN0XzU4cGZjclZDRWNqaWJFcFA0aGFnWnoyVjROOXhtNHp0dFdWQQ?oc=5",
-   "published_utc": "2026-07-24T07:00:00+00:00",
-   "title_original": "TIER raises Taiwan's 2026 GDP growth forecast to 10.38%",
-   "region": "taiwan",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d2b07a7cef19643d"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "CIER raises Taiwan's 2026 GDP growth forecast to 10.35%",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53REQ5aVRQTnZUbHBTMFVPNVotSnhJRW9IclJBOG1QMXBxak0waUpKVTdhNzlnRThIWk80UUFVRk5vVnhHa1FwN2VmQXBSeDl0Nzc4M0JQQQ?oc=5",
-   "published_utc": "2026-07-22T07:00:00+00:00",
-   "title_original": "CIER raises Taiwan's 2026 GDP growth forecast to 10.35%",
-   "region": "taiwan",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7c73598fa7a3b8a6"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "Taiwan's June export orders hit record high on AI demand",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YTEV4SGJUaHd5VnhHSnFXSFBqczEtazNYNEFrekRTYV9jdTRna09vV2Y0SWhFNENWQWFVZENpdkZveHhLSFc2QzVfS0J3V3ByQmN0Nkp4OA?oc=5",
-   "published_utc": "2026-07-21T07:00:00+00:00",
-   "title_original": "Taiwan's June export orders hit record high on AI demand",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a65e93d1ab0740cc"
-  },
-  {
    "source_id": "manual_ia",
    "source_name": "The Korea Herald / Korea Customs Service",
    "title_en": "Korea's exports up 52% in first 20 days of July on robust chip shipments",
@@ -6451,40 +6258,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2d8000943fa53a5b"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "Taiwan shares end up after U.S. rally on eased inflation",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uSkRWQ0xGTUZOajlJTmV0YnJmMEVoWEg1ek9qamlSSmxmLTlLaWRWWjBlRmVoUUFuWlY5WWRMQzhxRDhvMm8wRlVjbm9FN18wTTFKQVBlMA?oc=5",
-   "published_utc": "2026-07-15T07:00:00+00:00",
-   "title_original": "Taiwan shares end up after U.S. rally on eased inflation",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b826bafb451a9897"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "Academia Sinica raises forecast for Taiwan's 2026 GDP growth to 10.16%",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WQ1g2bDVGbEtWd0JOVW5zOTY5dm5fWnpPeTZVaEhSVFpLMmREaHZpV0V3aWRiSVZKdHJsZVd1cUN0ZjJDQlc2aTBvNnVoLVVyUjQ0UzlwRQ?oc=5",
-   "published_utc": "2026-07-13T07:00:00+00:00",
-   "title_original": "Academia Sinica raises forecast for Taiwan's 2026 GDP growth to 10.16%",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "930e882206cc0316"
   },
   {
    "source_id": "manual_ia",
