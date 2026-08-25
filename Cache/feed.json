@@ -1,13 +1,13 @@
 {
- "generated_at_utc": "2026-08-25T16:05:51.244941+00:00",
- "count": 364,
+ "generated_at_utc": "2026-08-25T16:50:41.902235+00:00",
+ "count": 358,
  "by_region": {
-  "japan": 138,
-  "china": 71,
+  "japan": 134,
+  "china": 69,
   "taiwan": 43,
   "korea": 112
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 62.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -23,7 +23,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-25T12:00:00+00:00"
+   "newest": "2026-08-25T13:10:32+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -71,7 +71,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-08-25T15:37:30+00:00"
+   "newest": "2026-08-25T16:36:47+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -79,7 +79,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-08-25T15:36:37+00:00"
+   "newest": "2026-08-25T16:25:06+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -87,7 +87,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-08-25T14:42:06+00:00"
+   "newest": "2026-08-25T16:27:22+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -119,7 +119,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-08-26T01:00:00+09:00"
+   "newest": "2026-08-26T02:30:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -215,7 +215,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-25T13:06:05+00:00"
+   "newest": "2026-08-25T12:38:36+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -239,7 +239,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-08-25T14:44:04+00:00"
+   "newest": "2026-08-25T16:26:05+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -255,7 +255,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-25T03:32:38+00:00"
+   "newest": "2026-08-24T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -263,7 +263,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-08-25T16:04:51+00:00"
+   "newest": "2026-08-25T16:49:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -340,6 +340,24 @@
  ],
  "items": [
   {
+   "source_id": "kantei_jnews",
+   "source_name": "Kantei 首相官邸",
+   "title_en": "高市総理は「中東情勢を踏まえた緊急的激変緩和措置」及び「物価高対策」等についての会見を行いました",
+   "url": "https://www.kantei.go.jp/jp/105/statement/2026/0825kaiken.html",
+   "published_utc": "2026-08-25T17:30:00+00:00",
+   "title_original": "高市総理は「中東情勢を踏まえた緊急的激変緩和措置」及び「物価高対策」等についての会見を行いました",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "577dcece764f14a2"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China Risun Announces Provision Of Loans To Connected Subsidiaries",
@@ -409,7 +427,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank launches 500 billion yuan MLF operation today",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU1dWMENueWk0MDlPcEFvMmlmVkFMNEFUZEFadlFGZzZCVFhRa3FwaGkzazQtLTdHN2dGWEg3UmJ0d3IxMWZlVGh6U1psZEQ1TmcwRzBlV1JvUW9PQUlhXzViWEhESHFFNjI5VzJLeFRCMjRuWjl0WVROOS1TY1lZZjNQbFJod1B1bEFSVE04OHduSVplWlhlYUE5Y0RqRmRa?oc=5",
    "published_utc": "2026-08-25T14:34:39+00:00",
@@ -478,23 +496,6 @@
    "id": "2631e207877d5776"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Investors shrug off US sanctions plan for Iran, bitcoin powers on",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREVmalQ3MXdwbVJUT3l4bktkT2xBLTVycVpRVkdzSUxPZ3lYdGZjTXpVWU5OckdENlF0R05kSm1CMUdPUDJwcXVxLWJaZ2VESzE1QTloUzdhTzZtMF9NM0FERmp3NWRJR3JudVN5UUttekdhTnV0UUExUFR2U0ZaS0J5TQ?oc=5",
-   "published_utc": "2026-08-25T13:06:05+00:00",
-   "title_original": "Investors shrug off US sanctions plan for Iran, bitcoin powers on",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "049004aa43256cda"
-  },
-  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "AI demand drives industrial production to record high in July",
@@ -512,27 +513,10 @@
    "id": "9226375fed008399"
   },
   {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China vows to protect Iran ties after US sanctions threat",
-   "url": "https://www.investing.com/news/economy-news/china-vows-to-protect-iran-ties-after-us-sanctions-threat-93CH-4875284",
-   "published_utc": "2026-08-25T12:24:59+00:00",
-   "title_original": "China vows to protect Iran ties after US sanctions threat",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0c28b1c1719c9071"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "In next fiscal year's budget proposal, the Ministry of Finance requests more than 38.6 trillion yen; interest payments on national bonds increase by 27.2% due to interest rate rise",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjc2LWRodEJOYjd0bEU4VHZtTjZya3VCQmh6MVVMRExveGxkdzc1SW5MRFk0Sm91Zk0yNkhTMmJ5b3dhUDVaWTlubmo0dUZXeno4d1F2QXFZX0owc21RMzdTbkNoaWNtVEhad1g3NS00alVtVzdKWjJlLU9BV0tneFhaZFhNTVpJMkx5X09B?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZVnBBSFFfeVVUM3pFRE9VZ0pPeVJ2MlM3SXVXT2wtaWZBTTdUYVZpRF9iekE5UGNhWjNJYUlCaTlqVHlPbmhSNnJSTE5NbTFMQV8tTGFkSXY3blVldXhMRGdPMDVSQy0yaGZleEFZUzhQNnB3OVphMWl1MHQ2bTg?oc=5",
    "published_utc": "2026-08-25T11:29:56+00:00",
    "title_original": "来年度予算案で財務省は38.6兆円余り予算要求 金利上昇受けて国債の利払い費27.2％増加",
    "region": "japan",
@@ -546,7 +530,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "84517f6de6d2cb28"
+   "id": "2c0dbe0d55ed8129"
   },
   {
    "source_id": "korea_herald_biz",
@@ -618,7 +602,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Dozens of China and Hong Kong Entities Hit by Bessent’s Iran Sanctions",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnpjUWs4UTdZbU5fVjFLQ2dyZlJDempDTEk2MFNNa01Na3JuT3JQejN3RXEzMl9KcWdnZVN2bWxFZVhrVzVRZ2Q0bVVjRzRYSmt1T19GZVg1bnVvS0dlWXQySWZsVUJtSmtLWUNTLTlrSm8ydXVDS0pUNVBSOE92YU5KVUR6eC1rMmpIXzRGLXQyN2ZnZUM2c1VZb2hyVDR5YkcyTEgzSzJIZG1pc3EyS09n?oc=5",
    "published_utc": "2026-08-25T08:59:48+00:00",
@@ -775,25 +759,6 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "Budget request from the Ministry of Finance, 38.6 trillion yen, highest national debt expenditure in 2027 (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJVEI4MmlFOENDRk0wNlE4MUlzNjBrNXJFOG1hNV9taFFEWUtPQXlvUGZjOUVnTmFOQ0VUcjBFemlhODlhZGVyNUtqUjFTOTVIaTg3Q3RTbkV5a3RscFRfclNOb012V2NZUVZSWXdVOERxU1M0bGZhZXJzWWhLWjg?oc=5",
-   "published_utc": "2026-08-25T07:36:04+00:00",
-   "title_original": "財務省の予算要求、38.6兆円 27年度国債費、過去最高（共同通信）",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "84f1c381cf1649e2"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
    "title_en": "The Ministry of Finance’s budget requirement is 38.6 trillion yen (Joint Communications)",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTURxZ01mSkRuWkg5TEdxVWJGVWJRRjVBSmlLM01RdWZ1SjdVMnpPdlZ3VzZKQXVuYUhRamx5YWZ0aDRwMlNlaG5GdkNnUzJYT2FyTVVkampLSG1JbkVDR0NHVVFyd3FBcDBRajZvdHQwNElrN2FROWV6MktfX1RFY1FaVDhoNXNKa093R3hn?oc=5",
    "published_utc": "2026-08-25T07:28:25+00:00",
@@ -882,7 +847,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "South Korea Tightens China Cabbage Inspections After Formaldehyde Scandal",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaTBmbW5uQTlJNEU5RzFrQ0M0Y2p1czZ4V3FSa2E1QnJ5dzRrUEI2UEt6NjBwMVNHNmhjVkxVVTEyc09LX3hnelExOXhyTVZETmhTT1JPeFVaNUVXcFN2bU1tdUZvMXp6ZUZiT3lRX0o3NEdMOVBzR0s3amRfd3VSekFhNVJUa2xLWjFtX0xkcW5ackY1ekxUUlJoUXQwTjJaaWhDQ2pNclpqSDdSZzlKNDNCRV9XUQ?oc=5",
    "published_utc": "2026-08-25T05:49:00+00:00",
@@ -896,24 +861,6 @@
    "live_wire": false,
    "manual": false,
    "id": "404c99e197044bc5"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Core CPI excluding special factors slows to +2.3% in July, core accelerates = Bank of Japan (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tNzl3Ym1RLXNORE5TYzZUM3g3c1ZVUXVHUllLNlVWejAzRTdhUTh4QmxiWE82WlFSZENTa3hkWVVQdEJ4QzhhdzZXRlo4ZWNTOEpCVUM1eTFueEF5NFgyLXlUNEpiR3pmM1JqeFppblZDRU10ZHVDQUVwN1dKWDQ?oc=5",
-   "published_utc": "2026-08-25T05:44:02+00:00",
-   "title_original": "特殊要因除くコアＣＰＩ、7月は＋2.3％に鈍化 コアコアは加速＝日銀（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dc5496eca069e9ad"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1090,6 +1037,23 @@
    "id": "465267d20a7044d2"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "조선일보",
+   "title_en": "신현송 한은 총재가 말한 금리 인상 조건 셋 중 둘 ‘충족’…“백투백 금리 인상, 가능성 열려 있다”",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2VfLXd2YjhsandQTUowOHBoYUZzOEFjTjVpTDFvcnhBUmN0bWNLeUZPYW00OEZHcG5hREdLLVJaT2JyWFFBZDN4Tm9Zc3daRy1qXzVmUW1XN0g5cl9yRTc4V0NIV2ozSkR2QnVXQllXUGtTOHF1c2NZa2hJR2tPOTRtZ0FkbGVSclR5c3h3?oc=5",
+   "published_utc": "2026-08-25T02:44:48+00:00",
+   "title_original": "신현송 한은 총재가 말한 금리 인상 조건 셋 중 둘 ‘충족’…“백투백 금리 인상, 가능성 열려 있다”",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "12cfd60ddaf371ed"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "eeo.com.cn",
    "title_en": "The central bank launched a 386 billion yuan 7-day reverse repurchase operation",
@@ -1180,7 +1144,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlU0T2w3MmJMTHUxOG9Qc2FmOWU2RjhuWEdJdnUtd1dubnZHZkE2WEsxUTRuamo4elB4dGhSU01UblVYRjdwZzg1a2lqZU9tNlNyWk8yV1VHLWNjUkZ1N0pHT0JLWFNkcnJ2ZVlSS1ZmR3ZhQktDalhFbWpfOFpfQUQxZ2d5TDc2Y04wVU5BdjZubWtlajExZVd5cVA3cDdodzluWXVRak5NbHJzRl9JdQ?oc=5",
    "published_utc": "2026-08-25T02:13:00+00:00",
@@ -1194,24 +1158,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1589fd478553acae"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank launches 500 billion yuan 1-year MLF operation to maintain sufficient liquidity",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SejZpM2kyUkt4aVZ2MnNlUV9aRjhPcUc0TUxhN0VpZkVSMVRJWW8tYktsNXZCaUVZUldNMEdkck45RmpKSU1pZTg4OXBOdw?oc=5",
-   "published_utc": "2026-08-25T02:08:42+00:00",
-   "title_original": "央行开展5000亿元1年期MLF操作 保持流动性充裕",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3eafdeb86572b3f1"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1356,7 +1302,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "US Eyes China Overcapacity Tariffs of 7.5% Before Xi-Trump Talks",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1cySzg1bmVQS2h5QnlFSllIV3VwWWNnQzRTVURxSjlhNnlRd3lvTmtOcE83dWs4UVQ3S05sUVZiR1h1dENiWU9hWnZXeVh4SjRDbzFTX1lrUVRROTNIUTdXNGJlcFVqbGs4Q3RCRUFaWHpSNkxreTZkYnNCYWIxbEg3V19WdURwamwxaU83TllhdWQ5X0lRQ1VXd1MwUzB1WVUyTmNaU2xzbzlxZVNDTndlWEk?oc=5",
    "published_utc": "2026-08-24T23:47:53+00:00",
@@ -1478,7 +1424,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "‘Boxed In’ BOJ Set to Hike Next Month, Former Board Member Says",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmJGV0k4WFBRcDBzWnZOQ2dFM2NKOTV2bV85ZnI1cU5hUkhYYnNqWjdMOFROUWh3bGxUX3dVTFVkdnpBWEJQU0I5ODFtMk1XTGVkOVV0RWRxVXQwdnFWenpRSktBQUxOMWtxb2RTLWFvdjJvcVExT0VkZzhnT0ZCSmRTXzBvcV91SnE4RkVaU21Xem9JWVpjRHQ0NUlHbGpHVXg4ZGNJdXNOYWNuN0RiNzJBOG0?oc=5",
    "published_utc": "2026-08-24T21:00:00+00:00",
@@ -1529,7 +1475,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank restarts reverse repos! Dividend low-volatility ETF Huatai-PineBridge (512890) bucked the trend and rose, institutions: the dual main line layout of bank stocks is just in time",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3F2ZkVzalpvdlBPczduWGFXUWlxTVNEcHR0OUZJek9OVWZpS0l3RURmcC1lMUNieU56OXVRZ0hrdVpneUFHTkMtd3R6N1E0Tm82azNtRjFRenRMWEhWSEtKR1drdDlJVHNyUS13TnAxS1dmU1ZuY1BGQjNnOUU2amZMWTR4R1Q0U2VBaElsclgzbTNNdnRDZzZwdEhKdWJZTEJwN3VB?oc=5",
    "published_utc": "2026-08-24T17:10:21+00:00",
@@ -1718,7 +1664,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "Continuing to inject medium-term liquidity into the market, the central bank’s 500 billion MLF operation is coming",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3LU0waTVIcGFPelVod3BiZEhDWTBHZm9sUEpjTE1hZUFYZ3c5VXhlRmpVSHZxbnVSZFFGQUJMc05wTUFpUFdmT2hrX0MwTGlNaW9yRi1vOV96UExvMFl2bDd5dXBFN3AtOXBkVGpTRDhXSVBlZnlyQw?oc=5",
    "published_utc": "2026-08-24T11:35:00+00:00",
@@ -1771,6 +1717,23 @@
   {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
+   "title_en": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2pHQzFrSGY3SWhhYWxFS2FDTEtMWEhQV3FsX0dnRzVKeVlxRWdsdjJaQzFkRURmVURacGJCYU9NUUtGb0MyQS1EUVNtOWNCU2VaUDFIMnRHelZUVmpENE1vZVhhQmFZaWZNallubFI5MWp1bkpyb1FkMDNYWFlWTk1RU05nekFNdV9saXZ2VDRHdndXWFIwYnZYNGhlcGlRNFFKZ1BCeldwTkVqbW55elNzMFIxSURMOTIxcg?oc=5",
+   "published_utc": "2026-08-24T11:02:23+00:00",
+   "title_original": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a75d54b55b914d3b"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
    "title_en": "Looming US sanctions on Iran put China oil buying in spotlight",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1hfY2RieU1zQWlvd1p0M1ZhdzdkU2ZGYmZ4TUlUdG9IbXRZWjlTbTctdi1vMHBJTEtWTG40aW1sOHRqT25MaFNleGZIdUlyU1NnZC12Z3FZT2FSU0ZxNmNra0pCZXpOQl9DUmVOZ3l2MzZLc2pkZndoR2pVUUl6dEp1TXRHMkNBeXRXNkMyNzhXejZuSS1aZGpPWHJETTVuUWVqQUhyay1kcUhU?oc=5",
    "published_utc": "2026-08-24T10:10:08+00:00",
@@ -1801,6 +1764,24 @@
    "live_wire": false,
    "manual": false,
    "id": "fbe2a5e0ef331482"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank will launch 500 billion yuan MLF operation on August 25",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRGhSOTc0MXd0UGotNW4tWExPTGt6Z2RVcEFJSnJrUE51WjdzbVJCZHBmeGJfQTRMMlZwMTBtblZkcDRMTEdsT0d2ZVFlMTluT0x4dFhqWklBeGlld0gwbVEyelZsdWZ5YWRrb1F0bkpfaDNNd1EyUXA1SFZkanZDV3NReGltMF9PLTZrUDlB?oc=5",
+   "published_utc": "2026-08-24T09:56:00+00:00",
+   "title_original": "央行将于8月25日开展5000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ef0543a6fb9476ab"
   },
   {
    "source_id": "nikkei_asia",
@@ -1957,23 +1938,6 @@
    "id": "cdf8228caacc9bf8"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2pHQzFrSGY3SWhhYWxFS2FDTEtMWEhQV3FsX0dnRzVKeVlxRWdsdjJaQzFkRURmVURacGJCYU9NUUtGb0MyQS1EUVNtOWNCU2VaUDFIMnRHelZUVmpENE1vZVhhQmFZaWZNallubFI5MWp1bkpyb1FkMDNYWFlWTk1RU05nekFNdV9saXZ2VDRHdndXWFIwYnZYNGhlcGlRNFFKZ1BCeldwTkVqbW55elNzMFIxSURMOTIxcg?oc=5",
-   "published_utc": "2026-08-24T06:22:00+00:00",
-   "title_original": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a75d54b55b914d3b"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "연합인포맥스",
    "title_en": "[Rewriting potential growth rate ③] The impact of monetary policy... “Justifying Higher Interest Rates” |",
@@ -2045,7 +2009,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "China Media Hails Canada’s ‘Chinese-Style’ Tariff Retaliation",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTXBBTGdHMmNJRGlxaXhkNDJoS1JCZEE2TW9adUttLVE0MzdXVlNNM2VnNUlrbTFGRkpnN2hOU19tN3pLbV9BY01mZ2FpYTZQZE81OGtkcER3S1pfY0pKZFRDcFBXWG9OVVNKbU5HQlNOLXBaWUh2TXRfTW1VVlVNT2JvT09XanN5SzNlNGcybncxcHNwbGk3VjhvSDBGRVFldy1lZ29IV3FhY1JBQ0NB?oc=5",
    "published_utc": "2026-08-24T02:57:00+00:00",
@@ -2182,23 +2146,6 @@
    "id": "44e97651728b4897"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "조세일보",
-   "title_en": "Countdown to 3% base interest rate... ‘Back-to-back’ hikes increase Youngkul’s bills again",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41cjhyQmhITWpuVFZMTm1MNWg5aGZKekh3LXJ1cXlOMUktVHBiNHI0S0tlOHg3S3pwSnE0NXRlb18xODRFTkRJWjdOWXZfSU5HOFl3cC14RUIyWEJGX1VB?oc=5",
-   "published_utc": "2026-08-24T00:24:42+00:00",
-   "title_original": "기준금리 3% 초읽기…‘백투백’ 인상에 영끌족 청구서 또 뛴다",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7de97d76ccdb657c"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "KB Securities announced on the 24th that Samsung Electronics' expansion of shareholder returns could..",
@@ -2214,23 +2161,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c0859d988cc7f7a8"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "BOJ Set to Offer Clues as Markets Bet Heavily on September Hike",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVlFSWThqbU5IQk9wZTBFS1lKamF2SUpjQ2thOGJOSXBkbzRjRVROb21kV0ptSmlLbnVQeTVuTVRDdWgtN2J3WmR6RF9YeDdWQXRRUkVmcEZiT2VKV3JfQUdTLTRUQnFXSXZjcXlzY2tkdlUxbjNaa1Etd3ZvdFZiSWIzbkRYRks1bDJKSWJ6TGY3aWpSbDZ5TlVQMFVkc1JoZ3ZFWkk0dGU3bGQtTmhuLWx2UFY?oc=5",
-   "published_utc": "2026-08-23T23:50:00+00:00",
-   "title_original": "BOJ Set to Offer Clues as Markets Bet Heavily on September Hike",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "885c04920ff99472"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3832,24 +3762,6 @@
    "id": "0db0ab1d31cb3ce8"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank launched a 327.4 billion yuan overnight reverse repurchase operation on August 19",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TbXR1SkxYNkhXS21McGVZa1pCRjRUcEhhYlNYOGVrT25qejZFQ1lOMFp0TUpqYWhQcWZmVmRBZHVRUmJiUVY3VEtGU2JMZw?oc=5",
-   "published_utc": "2026-08-19T03:07:20+00:00",
-   "title_original": "央行8月19日开展3274亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dc7389d766ff911f"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "KDI raises S. Korea's 2026 growth outlook to 3.2 pct amid AI boom",
@@ -3952,23 +3864,6 @@
    "live_wire": false,
    "manual": false,
    "id": "43973cc5879d50aa"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "USD/JPY Recovery Shows Intervention Cannot Close the Rate Gap",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnVxWU9WZUdpQnc0SDMzeXRyQkVhNUYzcjVTQlNDbHQ0TkVJQzZtTklaeVAxeWVVazRTUFVyUERDOXV1R2FpNEJVZGJHXzRzR1hFM20zcWxQMVBlVlFHNE5VVDBYVWIwMWU4dHd0ZnZrYmlwNUplNUpuN3djODVyTFhfLXN4QlVuWlVlSXdkUnQ5TnpBN29NQlctZXc4cWRhRy1F?oc=5",
-   "published_utc": "2026-08-18T21:32:50+00:00",
-   "title_original": "USD/JPY Recovery Shows Intervention Cannot Close the Rate Gap",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "77ad8777a6abfdc0"
   },
   {
    "source_id": "ked_global",
@@ -4159,23 +4054,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b1bc39efd7239c0c"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "USD/JPY: Why Bessent Backs Himself for Successful Intervention",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNm90YTQweGFGd0Zld3VBYnJaVURiYXphOE1RUjhOcWt6RUJFbWx4V2pOUUtTOFNEQUZvT2RwMTh0c0FFOW5zcHQtQTF0MmFzNExrNnFibC1wWGZwdlRFT2hTb0ZsNjA1UUI2TG43Nk9YbDBkMU5rUUtVUEhpTFRKbmtrbFFObDRHdnl1QTlVNERPdEtxS1RhNFNlX3VEVlZlTHRJ?oc=5",
-   "published_utc": "2026-08-17T08:45:13+00:00",
-   "title_original": "USD/JPY: Why Bessent Backs Himself for Successful Intervention",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e9d3fd16f43a69a"
   },
   {
    "source_id": "boj_whatsnew",
@@ -4770,6 +4648,23 @@
    "id": "8b92f7740114bbd1"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Barclays maintains October rate hike call for Bank of Japan By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXFhQWhSVkdZNkQwSmtJM25KTVU4am9zV25HNjFDTlYwYjhJaFhmUFoxUDh3c0JRUnVMRTRET1Foa180SDJDbC1tOTdxTkJ1dEVMakN6TnhRb2Z4eThLbjdzOEJObndNdXBsdEM4T3hoMm5Mbnp2SXlxZGVjb0N0R01kQ3ZHSjVib3AzU2lDM1VfWWRMeHhKYkptdExFQWM2SDBpVEFCdXFPWkx2bHJHZjNpOENhcFdCcVVLeQ?oc=5",
+   "published_utc": "2026-08-10T11:34:00+00:00",
+   "title_original": "Barclays maintains October rate hike call for Bank of Japan By Investing.com",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8865bb15f6197e9a"
+  },
+  {
    "source_id": "manual_ia",
    "source_name": "Seoul Economic Daily / KDI",
    "title_en": "KDI lifts Korea growth view but flags U.S. tariffs, Mideast risks",
@@ -4895,8 +4790,8 @@
    "id": "4af1daafc1760c1d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "We ask Finance Minister Katayama, who holds the key to reducing the consumption tax on food products",
    "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199621000.html",
    "published_utc": "2026-08-07T12:57:08+00:00",
@@ -4911,7 +4806,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "921501cf4044e354"
+   "id": "5e4be4703212b5da"
   },
   {
    "source_id": "manual_ia",
@@ -4966,8 +4861,8 @@
    "id": "34646628821fcb2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "June economic trend index rises; economic outlook remains ``improved'' Cabinet Office",
    "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199331000.html",
    "published_utc": "2026-08-07T08:55:53+00:00",
@@ -4981,7 +4876,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f4cb3d1990757e57"
+   "id": "b01b2e568f7c5d29"
   },
   {
    "source_id": "nhk_economy",
@@ -5421,25 +5316,8 @@
    "id": "74db57c7a3fde89e"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Honda's net profit for April-June up twofold to record high on weak yen",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VYWU5cWN2VTlndEs0WVNGTWlZbTdrUEtmV2dBUzRZMXE1VWhCNzdIT05CR20yeVBYX0E2bkVWTl83LUNyalViYkFTRlYtWjNQYkw4d1VMNXNjZw?oc=5",
-   "published_utc": "2026-08-05T07:00:00+00:00",
-   "title_original": "Honda's net profit for April-June up twofold to record high on weak yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ab710a0c58e01eb4"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi says it is possible to achieve both a strong economy and fiscal sustainability",
    "url": "http://www3.nhk.or.jp/news/html/20260805/k10015197231000.html",
    "published_utc": "2026-08-05T06:21:29+00:00",
@@ -5452,7 +5330,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "01564c392bcda51e"
+   "id": "6a34b4bb606d05db"
   },
   {
    "source_id": "nhk_politics",
@@ -5928,7 +5806,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "연합뉴스",
    "title_en": "No. of 1st-time exporters up nearly 4 pct in 2025: data",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWR6NjlablRNeTB4cGEySFRkdDc2T3hrQjZTaTVhSmpVSGo4aWc1amotUkhGWjhxZjNGZ1dqc1RFRkxURUJGQXR6X2FRU0paZjkzQXk0ZTZnY0w2TjcwTmFZZVVQVDhlQUhZeFVoX0VIc3o3c3BtQzhUalhNZktUeHVHVnkyZ1k?oc=5",
    "published_utc": "2026-08-03T00:27:05+00:00",
@@ -6098,6 +5976,24 @@
    "live_wire": false,
    "manual": false,
    "id": "a6f6f37e18e2a619"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ to watch economic impact of possible cut in food consumption tax: Ueda",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuc09FT1RqZTd1Y2NtVkQ1Qzl5Nl9pbllRWnZWbDB2QVlGLThscTlKakdOUWRib2xzM2kzSlNMQkpLM09vTWtIZFZsVWhjOHJWNVVDZl93cHRTUQ?oc=5",
+   "published_utc": "2026-07-31T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: BOJ to watch economic impact of possible cut in food consumption tax: Ueda",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f1e8d0412faec3f5"
   },
   {
    "source_id": "gn_jp_kyodo",
