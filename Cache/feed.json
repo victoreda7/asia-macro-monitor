@@ -1,13 +1,13 @@
 {
- "generated_at_utc": "2026-08-25T21:37:53.888206+00:00",
+ "generated_at_utc": "2026-08-25T21:57:12.947232+00:00",
  "count": 350,
  "by_region": {
-  "japan": 128,
-  "china": 68,
+  "japan": 129,
+  "china": 67,
   "taiwan": 41,
   "korea": 113
  },
- "elapsed_s": 31.6,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -71,7 +71,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-08-25T21:30:57+00:00"
+   "newest": "2026-08-25T21:52:45+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -79,7 +79,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-08-25T21:30:35+00:00"
+   "newest": "2026-08-25T21:54:29+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -156,10 +156,10 @@
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS China (GN)",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-08-17T07:00:00+00:00"
+   "error": "parada desde 15/07/2026",
+   "newest": "2026-07-15T07:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -167,7 +167,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-08-25T13:12:50+00:00"
+   "newest": "2026-08-25T20:39:31+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -239,7 +239,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-08-25T21:30:06+00:00"
+   "newest": "2026-08-25T21:50:08+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -263,7 +263,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-08-25T21:36:55+00:00"
+   "newest": "2026-08-25T21:55:29+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -319,7 +319,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-08-26T06:30:00+09:00"
+   "newest": "2026-08-26T06:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1195,6 +1195,24 @@
    "id": "1589fd478553acae"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launches 500 billion yuan 1-year MLF operation to maintain sufficient liquidity",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SejZpM2kyUkt4aVZ2MnNlUV9aRjhPcUc0TUxhN0VpZkVSMVRJWW8tYktsNXZCaUVZUldNMEdkck45RmpKSU1pZTg4OXBOdw?oc=5",
+   "published_utc": "2026-08-25T02:08:42+00:00",
+   "title_original": "央行开展5000亿元1年期MLF操作 保持流动性充裕",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3eafdeb86572b3f1"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "BOK Governor Shin heads to Jackson Hole after Thursday rate decision",
@@ -1662,23 +1680,6 @@
    "id": "a9c4ab5a3668e38b"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网",
-   "title_en": "The central bank’s new actions are explained by market experts",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MMS1IMWViTWdMUldSTEIwOEhBM1lvSFBDRzZEd00ycVhkZjl2TmFJeXZaaFluVTVBaXZ2d0NmaU5JcEs0UjFUaEhSaHhsMlot?oc=5",
-   "published_utc": "2026-08-24T11:22:44+00:00",
-   "title_original": "央行新动作，市场专家解读来了",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "28db4ed1b4788413"
-  },
-  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Taiwan jobless rate up for 2nd straight month in July",
@@ -2127,6 +2128,23 @@
    "live_wire": false,
    "manual": false,
    "id": "44e97651728b4897"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "조세일보",
+   "title_en": "Countdown to 3% base interest rate... ‘Back-to-back’ hikes increase Youngkul’s bills again",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41cjhyQmhITWpuVFZMTm1MNWg5aGZKekh3LXJ1cXlOMUktVHBiNHI0S0tlOHg3S3pwSnE0NXRlb18xODRFTkRJWjdOWXZfSU5HOFl3cC14RUIyWEJGX1VB?oc=5",
+   "published_utc": "2026-08-24T00:24:42+00:00",
+   "title_original": "기준금리 3% 초읽기…‘백투백’ 인상에 영끌족 청구서 또 뛴다",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7de97d76ccdb657c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2588,23 +2606,6 @@
    "live_wire": false,
    "manual": false,
    "id": "015e6d23dbbb509d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "The interest rate equation has become more complex... Bank of Korea's concerns, another hike? A hawkish freeze?",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BNjhULVJCTGVOaUFkSkE2ME15N3V5YWlBcVVTZklsSi1US1VnYTVoZU9sclFhNVR1dVNQUXYxUldRakp1RUdLQWVyaw?oc=5",
-   "published_utc": "2026-08-22T21:03:00+00:00",
-   "title_original": "복잡해진 금리 방정식…한은의 고심, 또 인상? 매파적 동결?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "231ce29f4a14093d"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3970,23 +3971,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cda2a62444accba6"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "stats.gov.cn",
-   "title_en": "National Economy Maintained Steady Momentum with Innovation-driven and High-quality Development in the First Seven Months",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTEhOSElSbTBHaWJ1XzY3WGFwbkhaT213RnBheTlSVjVka1plWVZhYjJLZm1zTDZqaHl1WW9hcjhYa2hIcldZWDk2aVozU1ZEeUQ2Vk5tRmxvaGlmSEluU3MwanpleEhrNXVrbzhZZjRfak12d3pqUzdtVTBTX0dOVQ?oc=5",
-   "published_utc": "2026-08-17T07:00:00+00:00",
-   "title_original": "National Economy Maintained Steady Momentum with Innovation-driven and High-quality Development in the First Seven Months",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e71775dc11daf9f4"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6155,6 +6139,24 @@
    "live_wire": false,
    "manual": false,
    "id": "3108a181313cc2a2"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "nhk.or.jp",
+   "title_en": "Japan trims current FY GDP growth outlook to 0.9%",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10N3ZDZXo3MTdLYzREeGMzY21CQ3RNTGk3N2E5NXN2OGRfeFRKLXNLQmFvTHJWVVlNdy1xUGpvVmwtazJpQjBjVi14MFBYWHd5TS1TdTFfbzZtTFBLY2lMN05B?oc=5",
+   "published_utc": "2026-07-29T07:00:00+00:00",
+   "title_original": "Japan trims current FY GDP growth outlook to 0.9%",
+   "region": "japan",
+   "topics": [
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "119e20572314d079"
   },
   {
    "source_id": "boj_whatsnew",
