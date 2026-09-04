@@ -1,14 +1,110 @@
 {
- "generated_at_utc": "2026-09-04T19:11:59.227351+00:00",
- "count": 354,
+ "generated_at_utc": "2026-09-04T21:30:10.536630+00:00",
+ "count": 232,
  "by_region": {
-  "japan": 154,
-  "china": 52,
-  "taiwan": 33,
-  "korea": 115
+  "japan": 120,
+  "china": 40,
+  "taiwan": 13,
+  "korea": 59
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 30.2,
  "sources": [
+  {
+   "source_id": "gn_asia_bloomberg",
+   "name": "Bloomberg Asia",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "name": "Caixin",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "name": "DIGITIMES",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "name": "KED Global",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_herald",
+   "name": "Korea Herald",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "name": "Reuters Taiwan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "name": "한국은행",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -16,30 +112,6 @@
    "count": 47,
    "error": "",
    "newest": "2026-09-04T16:00:00+09:00"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "name": "Bloomberg Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-04T14:58:12+00:00"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "name": "Caixin",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-04T17:50:00+00:00"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "name": "DIGITIMES",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-04T09:05:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -71,7 +143,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-04T19:02:36+00:00"
+   "newest": "2026-09-04T21:16:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -79,7 +151,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-04T18:30:40+00:00"
+   "newest": "2026-09-04T20:49:44+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -87,7 +159,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-04T15:50:08+00:00"
+   "newest": "2026-09-04T19:44:21+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -106,28 +178,12 @@
    "newest": ""
   },
   {
-   "source_id": "gn_kr_ked",
-   "name": "KED Global",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-04T17:44:25+00:00"
-  },
-  {
    "source_id": "kantei_jnews",
    "name": "Kantei 首相官邸",
    "ok": true,
    "count": 25,
    "error": "",
    "newest": "2026-09-05T05:00:00+09:00"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "name": "Korea Herald",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-04T08:39:45+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -162,14 +218,6 @@
    "newest": "2026-07-15T07:00:00+00:00"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-04T13:47:42+00:00"
-  },
-  {
    "source_id": "nhk_politics",
    "name": "NHK 政治",
    "ok": false,
@@ -199,7 +247,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-04T13:12:37+00:00"
+   "newest": "2026-09-04T15:45:53+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -207,31 +255,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-04T17:39:43+00:00"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-04T15:38:40+00:00"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-04T04:23:00+00:00"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "name": "Reuters Taiwan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-04T03:13:00+00:00"
+   "newest": "2026-09-04T20:14:40+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -239,15 +263,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-09-04T18:58:44+00:00"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-04T05:00:05+00:00"
+   "newest": "2026-09-04T19:22:16+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -263,7 +279,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-04T19:09:59+00:00"
+   "newest": "2026-09-04T21:29:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -287,7 +303,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-04T13:59:12+00:00"
+   "newest": "2026-09-04T20:15:11+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -319,60 +335,27 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-09-05T00:15:00+09:00"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-04T11:08:21+00:00"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "name": "한국은행",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-04T09:28:58+00:00"
+   "newest": "2026-09-05T06:15:00+09:00"
   }
  ],
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "ASML Plans 40% Japan Workforce Expansion to Support Chip Boom",
-   "url": "https://www.tradingview.com/news/gurufocus:676c882e8094b:0-asml-plans-40-japan-workforce-expansion-to-support-chip-boom/",
-   "published_utc": "2026-09-04T18:35:14+00:00",
-   "title_original": "ASML Plans 40% Japan Workforce Expansion to Support Chip Boom",
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Dollar firms as jobs data boosts Fed rate hike bets, yen eases after huge rally",
+   "url": "https://www.investing.com/news/forex-news/asian-currencies-rise-as-yen-set-for-best-week-since-july-fed-bets-fade-4888814",
+   "published_utc": "2026-09-04T19:44:21+00:00",
+   "title_original": "Dollar firms as jobs data boosts Fed rate hike bets, yen eases after huge rally",
    "region": "japan",
    "topics": [
-    "industrial"
+    "monetary",
+    "fx"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "f8451254baa070d9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "SK Hynix Jumps Over 3% as Tariff Talks Reach AI Memory",
-   "url": "https://www.tradingview.com/news/gurufocus:ca28bfb45094b:0-sk-hynix-jumps-over-3-as-tariff-talks-reach-ai-memory/",
-   "published_utc": "2026-09-04T18:25:06+00:00",
-   "title_original": "SK Hynix Jumps Over 3% as Tariff Talks Reach AI Memory",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "30657611c55fc055"
+   "id": "477bab05b3e08113"
   },
   {
    "source_id": "korea_herald_biz",
@@ -426,21 +409,22 @@
    "id": "1f7ba037871d23e9"
   },
   {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Yen’s changing fortunes might finally be spooking the bears",
-   "url": "https://www.investing.com/news/economy-news/analysisyens-changing-fortunes-might-finally-be-spooking-the-bears-4888902",
-   "published_utc": "2026-09-04T15:43:01+00:00",
-   "title_original": "Yen’s changing fortunes might finally be spooking the bears",
-   "region": "japan",
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "In August, the central bank's various tools withdrew a net liquidity of 408.6 billion yuan. Expert: The role of 7-day reverse repurchase has changed.",
+   "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPNTF5V24zSXIybTdTRmlUOS1aVEZoOGR6eVd0eUgza0IzSXZtM1E0c1RGMzJGbnd2M1pJbTIwRjJQV2x4dVlIb09wMzVLMDhNbC1Ic0RSU01zRXFZTVFyc0pubW1XdWFtdDFyR1E3M2QtcVFQZFpscWg4MDJFNzVMblJWbmZTU1NrRXlRa1lWUTFJZXNRcGZtekZrdXNJVWhoU01OeURCNU54cUJ3cHlxb2RKUlMxRm5wMm1KV0prMGFSQXNEZzBpVTRrV3NfSDZKMGU2bF9oMW9tNkstU3pxTjJtMTBpTklhbU1VX0xYTGxWM3dwWEZGUGFXTi04TU9fLVZDVjlYV1A1QTV1aUN2d0QzNXR2MWIyT3MwY0JOM0gwMHJ3ZWJXZGR5ZDJydGJhMVdPeXdpSEhmcVc5OEtDbjFhRTFVV0RPcnJkeTZzbFZYaGRqdEY5QWVVOWVPdmxHcXdqbnNXWnJCc2NuUXpnZHhqV2E1R25yZjlpMjl1Sk03OEtsUTNnX3lkLVZJd0ttcEZFdEQ0NnVKc201YXo2VUJhY0pxQVAtN3l0THl1TWp1UFFZOTZIVDFSZUI5cmNEMXFkUnBZczFxVG1xaVJtS3JoVFdOazFnank4SF9nSE9MTlQ1bENfWVZaUTZpVU0?oc=5",
+   "published_utc": "2026-09-04T15:45:53+00:00",
+   "title_original": "8月央行各项工具流动性净回笼4086亿元 专家：7天期逆回购角色转换",
+   "region": "china",
    "topics": [
+    "monetary",
     "fx"
    ],
-   "lang_original": "en",
-   "translated": false,
+   "lang_original": "zh-CN",
+   "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5df8636743db85c6"
+   "id": "d46469025bf07d40"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -477,23 +461,6 @@
    "id": "31df18e26eb0492a"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "US Dollar Slumps to Start September as Yen Surges on Rate Bets",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV01vZ0ZlWkRRVEl5Z1ZLZWtZa0tleGhHT1ljNTFrYmRoSGp3eW91M3RXOHFpUWFQWFpoRnBocURfSmxVOG44LTBUVWlaUnBZdzlJUmt2MnU1Y0hpMVJrZ0VHR0VnVW5IejE2TWZ1SFQ4aDFwME9nU0FTRmhlM0h5eVdRWGhLUk8tNEhVMDcteFZiNlZZRGxhR2ptYnBYLUtldVd2R19KQ2loSUFsdVc5VHVvRQ?oc=5",
-   "published_utc": "2026-09-04T14:58:12+00:00",
-   "title_original": "US Dollar Slumps to Start September as Yen Surges on Rate Bets",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "db69782640323f47"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Samsung narrows HBM gap with SK hynix",
@@ -527,24 +494,6 @@
    "live_wire": false,
    "manual": false,
    "id": "46e251e117ac71c8"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Yen hits month-high vs. dollar on outlook for BOJ rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOTnhRRk5OLUloWWtveFRTajl2ZWJzc1FLREx4cEdEb003eTVIaWRiR3c0V2FkM2xIRFR5VXlDLVlOZnVmN2FrcHRnNVNiTVRNVHMwUE0yVzN6NnNtR3pqSEVR?oc=5",
-   "published_utc": "2026-09-04T13:47:42+00:00",
-   "title_original": "Yen hits month-high vs. dollar on outlook for BOJ rate hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "15eae056f5ce453d"
   },
   {
    "source_id": "yahoo_business",
@@ -583,21 +532,20 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
-   "title_en": "The central bank will launch a 500 billion yuan buyout reverse repurchase operation on September 7. Here is the interpretation——",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS29uRGpMeGtuZ1JKdlFnUkdra1FwUVZSYzJ4OUpIY29ZQ1oxbmVpQ1FHY1E2enEySk5GZ1BoZnlSM0x0cDVCdkxZZGFrQUJ5Y2pOMndsZUo3djNZaDdTVHVsUW1rVlZWTWdLQkoxMnAzR1JfNUIwcFF4UTRZNlZEZE10Y0Nwazdw?oc=5",
-   "published_utc": "2026-09-04T12:55:00+00:00",
-   "title_original": "央行9月7日将开展5000亿元买断式逆回购操作，解读来了——",
+   "source_name": "财联社",
+   "title_en": "The central bank continued to issue 3-month outright reverse repurchases in equal amounts. At the beginning of the month, the 7-day reverse repurchase \"zero seal\" was repeated. The capital side faced multiple disturbing factors.",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QMGlFbWswQWtYWUxSZ2EzOXhUSGtwU2lYYXh3S283UmhhNTJhNkdrbWNHYnR0Q1I1Sl9KT3FQSVFJdXF2ZGlmYw?oc=5",
+   "published_utc": "2026-09-04T12:34:00+00:00",
+   "title_original": "央行等量续作3个月期买断式逆回购 月初再现7天期逆回购“封零” 资金面迎多重扰动因素",
    "region": "china",
    "topics": [
-    "monetary",
-    "fx"
+    "monetary"
    ],
    "lang_original": "zh-CN",
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9505fd76d05a0b2a"
+   "id": "f9debe92753f6c0c"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -650,6 +598,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d2fca07b8ea06aac"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "Central Bank: It will launch a 500 billion yuan buyout reverse repurchase operation next Monday",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ORE5FWndRSW5mb2FJMFVhR1pVWmtRX3pRakJoT3BET0phQmJobjkyMnNEWklxOUlETlpDNE1mRnFpWmo2c040YnVQME1jcExqSUd6UDRVeGx4R1NSVEZBWE9sUU5BbVlDWklmN055eE1zeUZCN2Y5UQ?oc=5",
+   "published_utc": "2026-09-04T11:25:00+00:00",
+   "title_original": "央行：下周一将开展5000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3362ce94b19c9706"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -706,24 +672,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "21jingji.com",
-   "title_en": "Central Bank: It will launch a 500 billion yuan buyout reverse repurchase operation next Monday",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON3A1Q2pMYXF5NXB5RTRvZnhDTXFmdFJtWGRVdkM3MTRqcEFsOVUtTDhOWkhtNmRBdU1EbFZmUWdkMXotLW9aOHJmOGNJRzM0bHRLSlVTYjJOVkhPOGs0QVllQXM0ZnFXR2pVX1h5c3NaaElSaDA0LXhnT1BieFdsRGFab1FHZElmNTQ3TA?oc=5",
-   "published_utc": "2026-09-04T10:59:00+00:00",
-   "title_original": "央行：下周一将开展5000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b539c5bd9cfab90"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 500 billion yuan buyout reverse repo on September 7 with a period of 3 months.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kNklPenNjYUJHYTVIM1gydmQ0ckhCODl6bmpIZDZ5OTFsX0M5TUJBbEgyNHBBY0lncGdINFV0UVg4TDR1Tm01elYwMnNvYzhvbnYySGc1OHVacUNJWWlRMUJB?oc=5",
@@ -775,6 +723,24 @@
    "id": "96cd5449e3521c9a"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "thepaper.cn",
+   "title_en": "Central Bank: On September 7, it will launch a 500 billion yuan three-month buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ucUJYQ2lTNnZfTW0zd3FDNDE1aWNlc2NoVEdFeHg3MmJoNmx4azZEcXFsTVI5VjlldUxKRGE1U3ZfaktJdlNxaFM4bFFGUkROSnc4bmNPX1QyZXJUN2xHUQ?oc=5",
+   "published_utc": "2026-09-04T10:21:00+00:00",
+   "title_original": "央行：9月7日将开展5000亿元3月期限买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b6cbb7a7e434542b"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Matsumoto Branch: ``While there are some weak movements, it is picking up.'' Judgment left unchanged for 11 consecutive months Nagano (NBS Nagano Broadcasting)",
@@ -790,24 +756,6 @@
    "live_wire": false,
    "manual": false,
    "id": "10810ce4179c11ec"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Budget requests for fiscal 2027 hit record high 143 tril. yen",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TZG41dF9zWkdualRCTlNsM0lEVHFMUUktTF85OWlqcjV4Q1g3c0VneG11NDlLeWZLalQzdHprbWN2YmxkWEJFR0J3Z0tPcTZtUkxOMzMtVnJQb0ZjbHFDZzdB?oc=5",
-   "published_utc": "2026-09-04T09:48:32+00:00",
-   "title_original": "Budget requests for fiscal 2027 hit record high 143 tril. yen",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1c1d3fd1646fb768"
   },
   {
    "source_id": "focus_taiwan",
@@ -844,42 +792,26 @@
    "id": "e508a120e0226612"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "주간한국",
-   "title_en": "[Weekly Hot Issue] 2nd consecutive ‘interest rate increase’… President Shin Hyun-song’s bold move",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Vc0VrUVFIODltQldDekpMUlE2RGxUaC1IdklTbmg0T3M5b1NLMjZBTXFBMTlqZ2p4YTN4NGJfR1BjMEwzdG54bjdDVlVhRHBHSXZ1MTZ3VWRVVjdpWlVZaEVVRUJqU2daempFOENOcjnSAXRBVV95cUxPR3RJRzVNWDlMcEh2S3JlRkZZanJkMWVEZ3BkQWFOY1hLVU8yTUhIb05nbWNvS1NaLXV1ckxmWTdsNDM0czNxVWFpb3JVN2h0MFpUZXJoMGMwcVg2clB1ai1Sb251eGtGb21KcXowYl9xdzV3Qg?oc=5",
-   "published_utc": "2026-09-04T09:28:58+00:00",
-   "title_original": "[주간핫이슈] 2연속 ‘금리인상’…신현송 총재의 광폭 행보",
-   "region": "korea",
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank will launch a 500 billion yuan buyout reverse repurchase operation on September 7",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YVjc2Nlp0cTBkNjgyOWotTWNXQ2x0NmtrWk1EejJSNkd0aTd6Nzl0bXJ0RFN0ZHR1RWVNREZfdkRfcDdKZnFUSHFQYWdZdw?oc=5",
+   "published_utc": "2026-09-04T09:22:45+00:00",
+   "title_original": "央行9月7日将开展5000亿元买断式逆回购操作",
+   "region": "china",
    "topics": [
-    "monetary"
+    "monetary",
+    "fx"
    ],
-   "lang_original": "ko",
+   "lang_original": "zh-CN",
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "897925712e2458b5"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일일보",
-   "title_en": "The Bank of Korea's RP bid rate fluctuates significantly before and after the base interest rate increase... Pay attention to the possibility of interest rate forecast indicators",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBT2w3ZnJnYmZyV1Y5cEw2ckpNdWo4SzFfaWVYZTBiSGNwajlGWmZCM0FjRDl5NkZpeHVOUTM0dXRHTU9od0kzbnR5eXZmd1dTX241elhmMlgyc1FaZXVXQ1dyOXHSAWhBVV95cUxQdWw2Z0xKa2RBR2x6V29ObEN6NnlJMlljR3FHUnUyVU1kQmE3R2NqYjRfT1M2ejZNc09VUHJUVGJUaUZzQXhVUTY5OGplZmd0RXV0UHluU3hRUjNPUndSSXhVckRER2hadg?oc=5",
-   "published_utc": "2026-09-04T09:13:54+00:00",
-   "title_original": "한은 RP 응찰률, 기준금리 인상 전후 큰 변동…금리 전망 지표 가능성 주목",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3be42e4bf102a2ea"
+   "id": "2687e4bbba17dd84"
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "eastmoney.com",
    "title_en": "Central Bank: Will launch 500 billion yuan buyout reverse repurchase operation on September 7",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YN2hYeGtYS2xnZFR0RDRWcUdIX29hcTVNQUNpUVhLcmw4ZmxUa3Q5UFpYTkh6Q3ZlVURRLWc3SVRveWxaQ3VvYTJHNDFRQVEzOVRXSXo1aXRfYUZNM0tmbw?oc=5",
    "published_utc": "2026-09-04T09:05:25+00:00",
@@ -894,24 +826,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cba7a9324fb7f3bf"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "From chips to physical AI: Experts urge Taiwan-US push for trusted drone supply chains at Semicon Taiwan 2026",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTlZFcU9oS055X0VkOEpfWEJha1g5bVlmMWxYdnZPRXZGdEY2eXoyaGtDNjFlNU1xSkdERHJkTkcyU2FSNi1aVkFoR19QSUNqNDUwMy15QW9rZTZKZXlRZjcxd0NEeVZLSS0yWUpnOC1Gdk5mMV9HM1Z6RjIyd3F4WS0xZGI5aGxoNzA1M2tuV1FZWnBrRXc0VUwyNlFWeUFKX0ZkTg?oc=5",
-   "published_utc": "2026-09-04T09:05:00+00:00",
-   "title_original": "From chips to physical AI: Experts urge Taiwan-US push for trusted drone supply chains at Semicon Taiwan 2026",
-   "region": "taiwan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "21765f5197ff30ac"
   },
   {
    "source_id": "nikkei_asia",
@@ -1035,23 +949,6 @@
    "id": "4fde3d8e37d3fb5a"
   },
   {
-   "source_id": "gn_kr_mk",
-   "source_name": "mk.co.kr",
-   "title_en": "Ministry of Finance and Economy ◇ Director-level △ Comprehensive Policy Director-General-level △ Ec..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5heGF2bVRGSEtnRDdQNjVzVENKS09JdC14WFNfZFNDSlNqQVVkQ0ZnNjZjRVJ3M0s4c3IyRjVTNmQ3OGNHUGNxYXdjeUtDLTcyZHc?oc=5",
-   "published_utc": "2026-09-04T07:36:07+00:00",
-   "title_original": "Ministry of Finance and Economy ◇ Director-level △ Comprehensive Policy Director-General-level △ Ec..",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "63f171c5fe615597"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The economy in Nagano Prefecture is \"picking up.\" Bank of Japan Matsumoto branch leaves judgment unchanged for 11 consecutive months. Capital investment increases to support AI business. Personal consumption remains steady despite the impact of rising prices [Nagano] (TV Shinshu)",
@@ -1073,7 +970,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "cls.cn",
+   "source_name": "财联社",
    "title_en": "There has been \"zero injection\" for three consecutive days. The central bank has withdrawn a net 1.41 trillion yuan a week, and the overnight funding rate has remained steady at 1.35%.",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BdkhjREhNTGpTRXNwT0ZuUm1PcUFGSjNFMVQtcUo3X2pOTjNOMlJPUU5aZndqdzFESTNXZmpRbnZEelpoWjh3cw?oc=5",
    "published_utc": "2026-09-04T07:26:00+00:00",
@@ -1088,23 +985,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cb7b646affa17265"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Japan’s Katayama Set to Stay as Finance Minister, Reports Say",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFFPdC1zSzlPaWJYblp3MElTeWJ1OWp3Sk9TRGlWd0VOT0RIbzRyYktkb0VrMmVwVTRieDI2OGZMTDYyYzFGUFNfZ2JPNlBka29NNzI4RUswcDdaRDF4cTF5WS1aMHBzelByQXpkT0dzRGJBVXRPZzNuZmVWVktsOE02MFExQmxrM0I4bWFpZ1ZjbWNGU3FNZk13dUczbXZwNzZZdExJN0Q0bXMtQzZXOQ?oc=5",
-   "published_utc": "2026-09-04T07:08:34+00:00",
-   "title_original": "Japan’s Katayama Set to Stay as Finance Minister, Reports Say",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1ec78cdbfc701910"
   },
   {
    "source_id": "boj_whatsnew",
@@ -1159,23 +1039,6 @@
    "id": "1578f08d65468dd0"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Korea’s Memory Chip Lead Over China Set to Grow, Report Says",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHN0My1YQTMteTZYc0F3cVpDN0owQ295cGZ5cmQwTmo5RGRTeTZGbkMwSmJFUVZmWS0yWVNpS0x6TElENGpFNnRBdWxiWjJIb0hGektIcnB4MTQxRDVwTVAzN3IyU0dBNTEwSlYwdFc2M2tMRG96SEpRcFVpMWFodzdKa0NIbGFnSjI2Yk1Pajg4ZTJGS0NSazB3cC1Ic1hjZEFobnVIdjRjelVaZUNz?oc=5",
-   "published_utc": "2026-09-04T06:16:15+00:00",
-   "title_original": "Korea’s Memory Chip Lead Over China Set to Grow, Report Says",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ac9d53f5c7710185"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Comments by Hajime Takada of the Bank of Japan... Experts point out that ``it will be interesting to see whether there will be successive interest rate hikes'' in October and December.",
@@ -1228,42 +1091,6 @@
    "id": "fcbdf9e9028e5942"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Carry Trade Exodus Fuels Yen Surge Ahead of BOJ Rate Decision",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVVLQ1JxMUF2UjJSdF93czRZTXpkaHVuZmVFNVJuVUtIVkVSRThtaXdSY1J0MDRvR2ZoUXkyUmtsN0lEM3pZR0I4aVVXU0NSNGdyUjVEOUh2ODhld2ZWZ01QdHRDWWJIdlJrU1BsNnJoUkJpWTE3ZVB6T0N4bUpRbjhCb3RWa0k0QUhGQm0xSE0zRmZYS3hpdDI2eFZXZmZVMV9SamVTTVhKSkR3ZVJJUHJn?oc=5",
-   "published_utc": "2026-09-04T04:25:00+00:00",
-   "title_original": "Carry Trade Exodus Fuels Yen Surge Ahead of BOJ Rate Decision",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "55d1251034afc236"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South Korea says chip investments under discussion with US amid tariff concerns",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSkZkV3RjdXdlZWNDdTJwSXNfUUZkamlhZWNEOFJzeHdXcWVGSUJ1Nmt1elFhNGxMUUJhcmVCa0FfTE9reXhlaU5rSlVPVGpjM29MRWpoWW5fVDVNVHVtQ25hRGxnSENHVFVnVnR0UHFaT0VDNVZock5YM2FtRG5uUTlWQ3RFcmhSSkdTcEJjOGZGOXh5N0pBX3ZUSFZNSE84dmpXUTZIaXZrdE1tVVdPaS1peS0ySDNELVMyWHRjREoyY2NORGZxeTBZTkpmSzA?oc=5",
-   "published_utc": "2026-09-04T04:23:00+00:00",
-   "title_original": "South Korea says chip investments under discussion with US amid tariff concerns",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a92f1c5e99d53b3"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "TradingView",
    "title_en": "The unexpired balance of MLF of the People's Bank of China remains unchanged at 7.4 trillion yuan, and the next maturity will be 600 billion yuan on September 25.",
@@ -1298,57 +1125,6 @@
    "live_wire": false,
    "manual": false,
    "id": "58978edd631bf0be"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "cls.cn",
-   "title_en": "The central bank continued to issue 3-month outright reverse repurchases in equal amounts. At the beginning of the month, the 7-day reverse repurchase \"zero seal\" was repeated. The capital side faced multiple disturbing factors.",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QMGlFbWswQWtYWUxSZ2EzOXhUSGtwU2lYYXh3S283UmhhNTJhNkdrbWNHYnR0Q1I1Sl9KT3FQSVFJdXF2ZGlmYw?oc=5",
-   "published_utc": "2026-09-04T03:42:00+00:00",
-   "title_original": "央行等量续作3个月期买断式逆回购 月初再现7天期逆回购“封零” 资金面迎多重扰动因素",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f9debe92753f6c0c"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan automation specialist Kenmec targets semiconductor packaging plants with low-clearance OHT, AI digital twins",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXJmdG8yZ252S3pxcHFyWTVJQjhhbU9PSUZ6YS05Xy11NllpS2NtLVRyWE0taWFhSkRjM2RTbURxYmhFN1YtVi1kZ202OU5fRGx6RFBIUndWNVRCRlhaMUpKSlpINFVqUVZSTlUtNlFBanJtamxVVFJDMkZwUmtNdElqcnUtSDBGckpSRHRPOXV4NWRC?oc=5",
-   "published_utc": "2026-09-04T03:30:00+00:00",
-   "title_original": "Taiwan automation specialist Kenmec targets semiconductor packaging plants with low-clearance OHT, AI digital twins",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "69e3908d86a3edb3"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Analysis: Physical AI upgrades autonomous driving and lifts Taiwan supply chains",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHNPTkRKRnlGanZZMW1acHVCcFB6WjNNQlpRc1JBd2hrVHVXWmNNMG9GMzl2TU1iM3FmRWZwWXpvUzlGS1N4N1VuN3VUcEdzWTU2WHVBbXgxTVBFVzF5SU5NSnhqMjZscmtYb01oMkNaRmxWdzNKWTE4ejBmcE5DNUJuUk5LeUwzUlhzdXV3UUFMaFB5Q2c?oc=5",
-   "published_utc": "2026-09-04T03:05:53+00:00",
-   "title_original": "Analysis: Physical AI upgrades autonomous driving and lifts Taiwan supply chains",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ab414aa87f85fe4d"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1422,40 +1198,6 @@
    "id": "c581356839ca19f5"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Nomura Says Three Straight BOJ Hikes Possible in Extreme Case",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTNpRzJwSTRIc2wxUGxiV01KQ2ZYYUdHNW5wNXB6WEM2YW40YUx4cGNNRzVSbk9RcVlQc2pxOWVqY2h6bjBNR1dJYTVFVnY3c1NUOVZaamRTWF8wYVhUZ2UxOEpKcjc3Q2dORmZ0X080TXJFcjJscVdNcmstd3p4LWtfZzZQWWFOVjJhMTlWQnNqUVZzSXM2YnktRFN6bnZMdy1QU080cnBFVUQ5ZWFnT1l3?oc=5",
-   "published_utc": "2026-09-04T01:52:00+00:00",
-   "title_original": "Nomura Says Three Straight BOJ Hikes Possible in Extreme Case",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e05c6b8b575d3402"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Dollar bounces on job gains, then pares ahead of CPI",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUNQZU5RWWN5TXNDaU9CQkIyc1NPTE95RzBLc0lSMGQyRGRnT19DVldpRXF2TEVzYXdKUzRjR1RyNC1KZ3Rka2Z2ZS1HZUhyUkFYLTBYWE1JRXhXSDJBYWV5Tmpkc3psRy1TWHNlZUN1T1hrZnE5TVpkVTlObkdrZWRVSnA5MU41cWVhSEZSNVU2TlBjdG5SbDBSb3BTYTE3SmNGZU5wR3dDVlVDRXFMZkN0SllDUWVh?oc=5",
-   "published_utc": "2026-09-04T01:35:00+00:00",
-   "title_original": "Dollar bounces on job gains, then pares ahead of CPI",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "62e51e19e5b0da4d"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "U.S. Treasury Secretary Bessent says reflation policy should be stopped; Bank of Japan Councilor Takada says interest rates should be raised flexibly",
@@ -1471,57 +1213,6 @@
    "live_wire": false,
    "manual": false,
    "id": "79a38b8c3a26d50a"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "mk.co.kr",
-   "title_en": "Samsung Electronics and SK Hynix have recently bought about 15 trillion won worth of treasury stocks..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NZElkZHdkazFlVW93bnBTMDdaUmxPaTlsTHBocUdjNTRXQzlEYXZZak8xa2djRThpbmloM0ludjNTc3FvWFl3NEZnR3RuNTQ?oc=5",
-   "published_utc": "2026-09-04T00:01:50+00:00",
-   "title_original": "Samsung Electronics and SK Hynix have recently bought about 15 trillion won worth of treasury stocks..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0a3856d6d6aca40f"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Young Liu urges 'Made with Taiwan' supply chain rethink",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHk0NnJxa1ZsdXUxM0FFVTl5Tmc5UVZpTzZBenZHQWFSYjQ5b1Rnay1XSVV3TUxnakhGd183SDAxNVZRNmU2M2sxRWNRLWVrT2dHbUhGQklnYWRwQnRpUmprSjhXbDdNcnZ2ZldZaWJQMjJMZGRXSTN2bUU4Qk5NQVBhUzBwUUZpMlBxMlJaWm1MNXVIa0FGYlVncFJDQQ?oc=5",
-   "published_utc": "2026-09-03T23:54:09+00:00",
-   "title_original": "Young Liu urges 'Made with Taiwan' supply chain rethink",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "38cbccaf811360a8"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Yen’s $103 Billion Short Risks Unwind Below 155, JPMorgan Says",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcXdOVXR3Q2lremlCYkdpSDRPbTBybXRpd2RWQ1ZjLTZkSHlRWFJKMDV3TmYxRmthOC1xTXBTVnhmT0ZsVGc2VFdTeFlZWGJndEpMWG5SMmZ3bFd1dk5DekdGZmtOZHdOV3doNUkyT3I0amFaYkJQb1kxdzZocXFMdVcwc2E5R0phUGU5Y3d2Q0V4YUJ1WFFRcmZYMDA4UU9CRS16MkpIQXo5MGNNMDBj?oc=5",
-   "published_utc": "2026-09-03T23:48:24+00:00",
-   "title_original": "Yen’s $103 Billion Short Risks Unwind Below 155, JPMorgan Says",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "721343fec6664da9"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -1542,23 +1233,6 @@
    "id": "24e820d78844d9ad"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South Korea says US companies to invest $2 billion in chip, energy sectors",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUUJSWDV3enR2THUyc3RxWDZpTVdhT0RiQmxxRVBObXczNGhuSUpEU2lqYUt1MmM1TU50d0VQSW42cUoxcTA5aFcyQVcxcm0tVVcwRkFNVjJWVUljV0Y2dkxrQ0U4dEdBQzFodDhGeEI4a2JjRGRkRFdZM25kTE5nTElzUEtHM19MRUxwNFRtSFhKR2dsX0VWUEFfa3ItX3FJVFhWVW5NSnlyMTNweWplQzNOQk1FSGdGU1E?oc=5",
-   "published_utc": "2026-09-03T22:54:17+00:00",
-   "title_original": "South Korea says US companies to invest $2 billion in chip, energy sectors",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f255930666c56de8"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The yen surges to 155.30 yen at one point, buying yen as the Bank of Japan looks certain to raise interest rates (Kyodo News)",
@@ -1575,113 +1249,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c316509fcd3bda65"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Greer says agriculture, non-tariff barrier announcements likely during Xi visit",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSFk3clJRRllpVF8wVTh0S1ZJalktZ3oxZUdJa1NzUTZucmxWM2lCTTNIbmdlWFhNeWVrWUhvX2xHX2JWMTk3RkV2N0pYZ21zVFlHeGRZU3JLeGN2cnFfLVJvMW1MUzZLbUVPUjFncFdqaTQyUm5zNEN1ZEhxbjFtRkZpemdlbkRrUzRPQnB1Ui04anhzWVowTHk3R05vM054YUM1VnFoamZsRktOMWY4YzB6cV9VTU9ydDdDMDE0ZnVfbWRLbGVScHI3M3ZVU2Y5eWt2QmU2M0tqeUVq?oc=5",
-   "published_utc": "2026-09-03T22:33:46+00:00",
-   "title_original": "Greer says agriculture, non-tariff barrier announcements likely during Xi visit",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2b660c12bac854c7"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Yen Rises as Intervention Risks, BOJ Hike Bets Jolt Traders",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1Y4TGticks1Y2ZYX2pyYlhqYWwwa2ZwVFpjRkFsZHVxZkxOTkw4RS04YkoxblNkN2JpS0NnOGN5V3gwa3VPcmZ2dHRVVVE4UHd0Z3dqalBmZHNfU01PNlZPT25GM0l4YUpEZ19zZHA4WXp6THQ2dm9NVXVyRHVTdjJEMUdzUTkwb3hVSDVSTUh6MkVwYmIzSjU1YkZzdS1jSm5HeUMwYlhsSDlLRmc?oc=5",
-   "published_utc": "2026-09-03T21:22:38+00:00",
-   "title_original": "Yen Rises as Intervention Risks, BOJ Hike Bets Jolt Traders",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "78273f8e9aa71f2f"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴시스",
-   "title_en": "Looking at the history of raising interest rates and loosening finances... House prices in 2018, prices in 2022",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KRkhtZUZuVFlFRWFRVENPV2dpOFlxcUtTMGVEY0g3Y1NEUG9qSnlZbEdnMTV6dDJ6TmEwWDNqeUxwQnMwUTZmWDBMNjJmd3dXNkQ2NTZpd2ExNTlYLTNKSnFQNHlMVlZKRzZ2T3h1eFZqRDZZQnF4VNIBeEFVX3lxTE1KRkhtZUZuVFlFRWFRVENPV2dpOFlxcUtTMGVEY0g3Y1NEUG9qSnlZbEdnMTV6dDJ6TmEwWDNqeUxwQnMwUTZmWDBMNjJmd3dXNkQ2NTZpd2ExNTlYLTNKSnFQNHlMVlZKRzZ2T3h1eFZqRDZZQnF4VA?oc=5",
-   "published_utc": "2026-09-03T21:00:00+00:00",
-   "title_original": "금리 올리고 재정 푼 전례 살펴보니…2018년엔 집값, 2022년엔 물가",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "inflation",
-    "property"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "af66ef6937886308"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Dollar Falls to Weakest Since May on Waller Comments, Yen Surge",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGlpQ0ZWaUwtQ3d6SW5aM0R0RWxmbG83ZTYzMk81TzZBekswMlNhOFRzTktUVE1vWjdQenZqQmI4cW9GMnBWSUhLSS1ZNmllX1JnQ0pWSTBId0xsSmFKeDZRUFRCZVRtM1hxNnpBYk85TGZycUM2WWpUamJrcS1Uc3ZtZFNsSUQta2xTcXRfbE5JWXBJeUE4dklSOElXaWlPNUdRazBfckhjR2ZhcDRRcExMRQ?oc=5",
-   "published_utc": "2026-09-03T20:12:37+00:00",
-   "title_original": "Dollar Falls to Weakest Since May on Waller Comments, Yen Surge",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a32786ac1b7530de"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Falls as JGB Yields Rewrite the Yen’s Long-Term Case",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZU5TUzJyNjBKWFVlcHhXZ1poRno4X0o2X1BUejAyYWVtdWJiZjJPMFNxblNCN3RZRExQcmNKNE5obVkwaVdvVkZtaWxtYXlqXzJUYnNwRmF2QjBld0NPSTZXaWlISWs0ZUVCR0l0SEI4SksyMFloSzl0U3FrRk1IUmtHNUVTeE9wTHlTUnk4TUc2SklwcEJvWERoemRya0p5QXZN?oc=5",
-   "published_utc": "2026-09-03T20:11:00+00:00",
-   "title_original": "USD/JPY Falls as JGB Yields Rewrite the Yen’s Long-Term Case",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "abc7e84cafaaf02c"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴닉",
-   "title_en": "In the era of 3% base interest rate, a complete list of stocks that benefit from interest rate increases: from banking and insurance to defensive and low PBR stocks 📈",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ydmZXV1c5eFJPVXhRd3g2UmRXVWJ0RlRCUmlPdU1EQTFMTXExeXBaOUk1akVYMlRvTmlJV0VvWFlmZUQzU2FyUUFtRkxvekN0R2YwSWN3?oc=5",
-   "published_utc": "2026-09-03T20:00:00+00:00",
-   "title_original": "기준금리 3% 시대, 금리 인상 수혜주 완전 정리: 은행·보험부터 경기방어·저PBR주까지 📈",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1f963e88f9a26e1"
   },
   {
    "source_id": "investing_fx",
@@ -1859,40 +1426,6 @@
    "id": "98324f17d92e3a34"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "US Complains to Germany About Yen Critique and G20 Russia Stance",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVJSb2FHMTJIczl0SmVHQUJPcFBicUtpTjRlX0dGOUlIbExDYkE2Yjk2TnpRc1pGSS16ZktPdzlOT2JGMjhMblloWVYxV0RwdjFMRTU1UDNWSXM4ZlY3eXRpLTk5ZXAyRmx4TVlvcmpvamlxSnhwYzZ4NnlRMkxPUjV5czNJZzNTM0xsWkM1QTNnbl82T0o4ZmlYMEE1dGRXcmVyQ1VadlZULVNjTjBnc2stMWRoQQ?oc=5",
-   "published_utc": "2026-09-03T13:36:50+00:00",
-   "title_original": "US Complains to Germany About Yen Critique and G20 Russia Stance",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a1d866745a203574"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Beijing bets on a US$1 trillion sports boom to revive consumption, job market",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXVVYTZ4aHo2dUVqVW1YMzNLT1RLSHdZODF6OVRhRk80ajdvQXFPYnNsWlg3R0dwZ200X0dTRjVGMjFKT1ZSVFpXVTRzWUxhVGF1SVY0eU5GdWg3WUlDb2doOVBfUDV5ZktmQUFScHJYaklybnprVmhUOWhUQmVldXMyS3YyRG16V0VENllmb0dMWVllR1g1WkFlbWR4cUtjYlhpdWZfVXQ2MWZKNVpJeHFWYUF3THNtZ1V6WTN5Tkc0OUk30gHEAUFVX3lxTFBaaTJhS05qQnFRdzVUT1VaOTZtVW5uTGpULWY0cFpWd21NRFVvVG83UmI2UDNuMjJGdGVYR1VJVEtlcVBBTzJoSXBqSzV4WVhaLWRNcG84Vm12eHlHbDRIS1BDYUpWaWduczFvN3FzbTlNWXJJSTd5ZTBwVWpHdkM1c1ktTGJGdkhNLVotN1hBT0otTnhHQ29lU2dBeFZDaFkyM3VrZnEyRXRFZ21GaGM4RU9ycDBqd0pndzFyaFY3dkFDdVA?oc=5",
-   "published_utc": "2026-09-03T13:00:06+00:00",
-   "title_original": "Beijing bets on a US$1 trillion sports boom to revive consumption, job market",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b3e06d703bc58656"
-  },
-  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Cabinet proposes US$19.12 billion supplementary budget",
@@ -1944,40 +1477,6 @@
    "id": "fae71ec528b95461"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan FX chief Mimura says on alert over yen moves, not reassured",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3NMVnIydWl1Yk42VUEzbWlBaWNIclZkYks4UlJrZlZQZlkxUHhCOFFmcUxxWmR3dnBWYm1FTUFwU1JnMW5MQ1RHZjdldC03Z1hadFM3bVI2RU5XVmNrZHNrTWhvbHF5b0tHWHNjVnhJTmVNQXRrc3ZXQjBUMVUtMk92SWE0NmFjTGJnVjg3SEYyQk56TVdJLUhvTUd6ak5VZFU2czA0Qk5IUENXSnFmeE0yVGx6REk?oc=5",
-   "published_utc": "2026-09-03T09:57:44+00:00",
-   "title_original": "Japan FX chief Mimura says on alert over yen moves, not reassured",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2ec9bef4fa9d4e0b"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korea’s new labor guidelines risk $590 bn chip cluster despite ban on strikes for profit-sharing",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wcE95eVNOVUhNTC0tMENRNHYyVC1yckJQZTRTZkx4bFZxaEZMWWdELVVvLUhWeUtySTB0SjJjM0h2Y0NOOVcyOGRsQ1RGc1FCREZqRFpZM0M4Znh1Q3QyZFpGRm5nX0d3M0F6MnRHOA?oc=5",
-   "published_utc": "2026-09-03T09:38:08+00:00",
-   "title_original": "S.Korea’s new labor guidelines risk $590 bn chip cluster despite ban on strikes for profit-sharing",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "006a7b6aaeee43e2"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Lutnick says US considering ‘targeted’ chip tariffs on firms that don’t build in US",
@@ -1994,92 +1493,6 @@
    "live_wire": false,
    "manual": false,
    "id": "983e46dffe623e6d"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "Will foreign residents qualify for Korea’s $370 marriage subsidy?",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ua1lIcGNGY3VxWWNDMWJiMzBMN1FpQjZSaEVQYjFIWkZkQjQzaVAzUlJQakhQNXNXMVFVZ3FkX0VvNlVqU01oVjFBeTQ3NHhhSDVUd0ctZw?oc=5",
-   "published_utc": "2026-09-03T08:50:18+00:00",
-   "title_original": "Will foreign residents qualify for Korea’s $370 marriage subsidy?",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7b533aebde774b88"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "더나은미래",
-   "title_en": "Bank of Korea ‘secretly’?… For the first time in 25 years, foreign exchange reserve rankings are made private.",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xQjNLRmhtOGdNTWRPd2Zkb0x4ZERvUFRxT2FDZG5iM1VkOGZrZnNGVHV2b3lPTVNMamRLWU5fQnJ1aWcyZGt3MTZvWjdZY1hDTVE?oc=5",
-   "published_utc": "2026-09-03T08:13:00+00:00",
-   "title_original": "‘슬그머니’ 한국은행?…25년 만에 외환보유액 순위 비공개로 전환",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d3b1044ca611d79d"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Taiwan proposes extra $4.6 billion in defence spending for this year",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUJhelczNGdrMU9qWngxSncydW1meDh6bUthTVFZbWJ4UnBSYXpac3RFbXk0a1NqZktRREZZTk1vV01FbURUeHJCQnN6MkJfUTBLNzloXzBMZHJfc2ZneE45SVRuQkd6UkJOUGllLXBVWGxaTEtid0ZmejlaZjhWX2dYSmR3OC1paExUcW1SSmxwZUFzTkxlUEtTSzNNVXRUMEo0VlltNTZmWXc?oc=5",
-   "published_utc": "2026-09-03T07:54:56+00:00",
-   "title_original": "Taiwan proposes extra $4.6 billion in defence spending for this year",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "304415d5c56023b1"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "금융경제플러스",
-   "title_en": "Raise interest rates, change credit ratings... Financial authorities plan to redesign the flow of money",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SVUN5ajZ0SFFrd1ZzMDBhOFdhc011MDBHQXZUVjhxMkVwYjhrQ3RaQ2Mwa2xmSjhyNjU1UW9EeDBKeWwxeUFZOG5YenFKQ1hobHNGczdMcnBnNmVmeDFRdVR0YmoxOWRZbXUxZw?oc=5",
-   "published_utc": "2026-09-03T07:50:00+00:00",
-   "title_original": "금리는 올리고 신용평가는 바꾸고…금융당국, 돈의 흐름 재설계 나선다",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "711c2f7782b8687b"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "China rejects G20 trade-imbalance claims, says no need to devalue yuan",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFh0eWEzdE5qTV9DTk5WYy1kRE92QktCUGpYMG1INlhuRWlSMzBsWUFkb0lpUUg0Z3dpWFNaM0F2V0tXRW1uV0pYcTJ2LVhrNGNMd2RCYnpwYk9KR0tiWWVvbjFrQnhLX21wdW9Hand3NkphS1RjUGI1YUpMNHk0ZjQyQy1JQzM2Um5nc1UxTnhNOTMyMS1hM1VxSTB2NG9IQTJOVkk3eXcwT1N4WlBKR19vRjBkZG5UVGNKWFQ4U1BEVkJ10gHEAUFVX3lxTE4xZkVrTU41V0U0WW85MDVEU2ZpQjV2N01JQkhnR0dlVjgtLU9ibGVQckxYVGE5OVpac3B3bnp5TXBlUHFMaW1GdEhMZU1VR0tzamtNQ2JBbFlKQjdEZ3BBNk96RERFQTB5YjB5RzFrZ0Y4X04ycl9NdnBiR3JjaExDUjgySi1RMm9DXzYyRkppT202RmphV3VEVnVld2hraXNBbjdJTVVQV0FSZHNBRmR2Q1hyakRtcmhDX0tYSmlvQV9Kd2Y?oc=5",
-   "published_utc": "2026-09-03T07:11:08+00:00",
-   "title_original": "China rejects G20 trade-imbalance claims, says no need to devalue yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "16e4f08b7e2cf000"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2134,57 +1547,6 @@
    "id": "50bcf9147da5e10f"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Intel pre-funds EMIB-T and CPU capacity, will address DRAM through partners rather than fabs",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkNaZ1RXSHplRHl1T3BlX0FwRHk2N2IyMkRTM1E3M2FzN1N1T2FOOFlEMHl2Zkd1UEdfSXE0Si1RVWtTTl9tV2NqVzd2T0ZPMmFNNHUyYUF4cTN3N0lQVXlZNHJVcGgxMERjazZPUDN1aHU3Sk1qMngtZVphRklHaFVLZ3FYS2ZEbm9SWg?oc=5",
-   "published_utc": "2026-09-03T02:21:37+00:00",
-   "title_original": "Intel pre-funds EMIB-T and CPU capacity, will address DRAM through partners rather than fabs",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8cdb46ca3f966edd"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AUO unit eyes TSMC ecosystem as merger benefits emerge",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEhYS2JFSXpReHJrcWN2cUhJVVhPNjNKc3h6WmJ1dzJYQjBTYlBXaXdUVkxLS3ppZ1dWRkFWOVcyY3dnczctRUU0ZFZ6MnFpQnZZa2VlUzFXZVJyVmRiZTJkSFUzQnBhRU9QbGZYMGRSM19VWEVweF94R211SmdGdXVVbmJTekt1dXJOUA?oc=5",
-   "published_utc": "2026-09-03T02:09:44+00:00",
-   "title_original": "AUO unit eyes TSMC ecosystem as merger benefits emerge",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7d720531ee9ef5c"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix gain as U.S. chip stocks rally",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TQ0VRUE9kNUh4WkZkTmlKdjB5alhYREtqYkUwblBJTXBady1Tc1RtMU9lb1dPRmRVQ043N2RfdnlZdU9SQTZDOVJQeUxQTEdGcnRna1duZw?oc=5",
-   "published_utc": "2026-09-03T02:09:32+00:00",
-   "title_original": "Samsung Electronics, SK hynix gain as U.S. chip stocks rally",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b9e2e2348f611968"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "chinanews.com.cn",
    "title_en": "The central bank’s 7-day reverse repurchase operation volume on September 3 was zero",
@@ -2218,41 +1580,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f7288aee83ff5c0b"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Yen jumps on BOJ hike bets, dollar slips on Waller comments",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUk4xazZBQThxRzlWV094ZGRtRGVpZUNWekE2R1lYVnRkQTduUVRHM3N3RW9TcmNjbWJ6TmIwNkliS0xNTzJDM09WVlIzOWktRV8tZE5LaTNJbkdoOHpRZVlWWkpQM2hVSXA5QTBDNklmTUdJbnlVVk9NV0tkT0dUcko3YmFSVUhVVzRkQnMwbw?oc=5",
-   "published_utc": "2026-09-03T01:03:00+00:00",
-   "title_original": "Yen jumps on BOJ hike bets, dollar slips on Waller comments",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "510ac4bb0d9cf6aa"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan services growth hits five-month high, PMI shows",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM2ZxOFJ2YVVjMGR5YThVdVU1M0tkbzB0emFlRzFrUzVRZ0Y2cEdQb21GM2xwbGFLeUFuc0xsOHRZQWp5cVE5cWEtM3A1aVZvcjNUNzBvREYxeE9VU21uN0hFRnA1d2x3Tl8yQ0dtejNkMVVHSEFwS2Y1X2t5OGx2cVBHcEpVRHVFNmJTdGNSNXVUSS1BSFFlbF82YkJTR09iOXZNWWZYcFpPMWs?oc=5",
-   "published_utc": "2026-09-03T00:33:00+00:00",
-   "title_original": "Japan services growth hits five-month high, PMI shows",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec9bc591617d1998"
   },
   {
    "source_id": "boj_whatsnew",
@@ -2307,38 +1634,21 @@
    "id": "131c13bceb278dbe"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
-   "title_en": "[Rising base interest rate] ② A direct hit to self-employed people with loans worth 1,100 trillion won... “Interest alone increases by 2 million won”",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tWW53RU5yWHRQOTlCSHd1Y3ZERzl0ZEg5YlJPR2FXUHVHOWdBZExMS1I4OTlkaHAtM0ZxdjlTUF84R041cmgtbDBOT1BOTDFNZzgweEQycXJHMkp5?oc=5",
-   "published_utc": "2026-09-02T22:00:00+00:00",
-   "title_original": "[뛰는 기준금리]② 1100조원 대출 자영업자 직격타...\"이자만 200만원 인상\"",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "923afa00b2ef86f2"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Japanese Companies Consider Asset Sales as Yen Debt Costs Rise",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2R6bnhGa0RLSTFYY0ZEOHMwTW5wTmVqWFRXaWYzbEVfVnRVMVZ3OHdUY2dhdXhjdlk2VC16TWxWYjRwWGo3TkxhWm1LTkdSeXZzbzl6eDVUZFlBY1Q1R0N3WjFLaEVCOE02d2Eyb2NxQTI5emg1bTRac0o2RVp5VFYtTXRTZ1RIRHo0S3JLcWktTE1aeEFDM2FGVmNydEppMnpDWXgtb2RabmF6Z3RLOWZvaw?oc=5",
-   "published_utc": "2026-09-02T21:00:00+00:00",
-   "title_original": "Japanese Companies Consider Asset Sales as Yen Debt Costs Rise",
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar lower as oil, yields lose steam; eyes on loonie, kiwi after rate decisions",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNEdsX09Pd0J5eVFEZmhiMmFNcDJDNVdEVk1ZcnJzakNyZkZ0a3pxTVpWb1J5R0JMeENZUHVZdml4QkZCNGpablJZOGVpTXdFWTJJNDlETWx4VjlZeGN1cy1TS2gzc3BsNTA1ZjZKMnExbnNoS1ZiTm5KMFhTeGFiNi0zZzFJQXZFRWZBX1VMN2NDYVpOcXdNLXU4SzFISEpFdndyRmNBZG9MXzdkSkhlS21uSVlYSGt3Z2c?oc=5",
+   "published_utc": "2026-09-02T20:43:48+00:00",
+   "title_original": "Dollar lower as oil, yields lose steam; eyes on loonie, kiwi after rate decisions",
    "region": "japan",
    "topics": [
-    "fx"
+    "monetary"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "3ff642fca907ddf5"
+   "id": "abca0e7f1bab76ad"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2361,23 +1671,6 @@
    "id": "1f7436b2656bde61"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Yen gains sharply, dollar eases from two-week high",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBBNVNPZnJHaVhnTDlrMDVERUdjS2dCWXl2NmplVWJtYTFiLXk3amhnNkFoeEdFVzBuczBNZmdNWEc3bEFTaFBxb1RWazVjTW0tQ2NNM1RjUlljdnB6a3VaQXdGeDNUUE9WbGJxOVJzZk1Wb056eEJqcUp4allyS0FSZmpLbXQ2MmZWYWdmVUNxczFmdU5helZNQ3pQT3c?oc=5",
-   "published_utc": "2026-09-02T19:29:11+00:00",
-   "title_original": "Yen gains sharply, dollar eases from two-week high",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0840b1d0f2b1666a"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Seoul shares tumble 4% on renewed US-Iran tensions; won strengthens",
@@ -2395,21 +1688,21 @@
    "id": "cb69208ee2b7f5eb"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Stocks climb and US yields ease; yen jumps against dollar",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5",
-   "published_utc": "2026-09-02T16:05:20+00:00",
-   "title_original": "Stocks climb and US yields ease; yen jumps against dollar",
-   "region": "japan",
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "TSMC to develop site in Baipu park",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fQWJPQXB0MHEtYkZyVXdyMzQ1WHcyMjEyZWJRNWdLRXJ6WWR0bzFJMTBqUmRoeHpWeUM4V2NyUkx3N2tJbjNwT1VlWU1JQWI0dGRNUjUybEJzaHVaWFpaZnhOa0lfbkt6V2N4ZXdqZFdsMTJULWc?oc=5",
+   "published_utc": "2026-09-02T16:00:00+00:00",
+   "title_original": "TSMC to develop site in Baipu park",
+   "region": "taiwan",
    "topics": [
-    "fx"
+    "industrial"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "877689cb6a40970b"
+   "id": "653ba0ae0b0b54d0"
   },
   {
    "source_id": "korea_herald_biz",
@@ -2465,40 +1758,6 @@
    "id": "50b7356fa3f4ea1e"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "news.bbsi.co.kr",
-   "title_en": "[Economic Odyssey] Bank of Korea's aggressive interest rate hike... What should we do about 'debt'?",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wdjVrTFRCSWNfNWlIZVhSZXRPRDVMT1dSQ1YzbEpKUW85Q2lTOV9zdko2VDV6eEI4MTVScTZyYm9nNTJJSDlTSTY1VjZGWk9mZXVONGNmUHJheU9jbTM4ZzRhOEw4WVQ4d0c4?oc=5",
-   "published_utc": "2026-09-02T10:00:00+00:00",
-   "title_original": "[경제 오딧세이]한국은행의 공격적인 금리인상...'빚투' 어떡하나?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1cc471332de63db9"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Micron says tightly coupled DRAM could deliver more than 10x HBM bandwidth",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeEs2ejhUaFhQbk9qZGxkWWhuSG9rdE5MWWhWNUhHY2lQMlRvNXJNR0dGWXI4ZGJwT2xWU29kb2VaYXpiMkFZQ0d3ZU03SHEtOU44V2R6S2dBQVlhcWtsVFVDLVY1eXM5bjE0WmItZ2JIdHIwTVJyeFVHOXMxSzVEUzFtVS0tYjRB?oc=5",
-   "published_utc": "2026-09-02T09:41:08+00:00",
-   "title_original": "Micron says tightly coupled DRAM could deliver more than 10x HBM bandwidth",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3585f3f9b236c1f2"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BOJ to debate rate rise, inflation much closer to 2% target: governor",
@@ -2534,6 +1793,24 @@
    "live_wire": false,
    "manual": false,
    "id": "43db5760b851a667"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "The central bank released August liquidity injection data: MLF net withdrawn 100 billion yuan, and a multi-tool combination implemented liquidity adjustment",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc0YtNll3eldvdERmZ0NvZ19ERkl3Zmc1NnRMd25BRl9zNmxyT3liSEVMcHBPLU9UYWkzdzQ1VjZwX01ZSnJvd0xFc0w5YXA3a0g4T2ZmYUFSbkM5YmRFTGlyMW9vODhEc04zZ3hHdmFjVENMb09kTW55bEpzX3FaVkZQUDBJNWRtTVNNRw?oc=5",
+   "published_utc": "2026-09-02T09:08:00+00:00",
+   "title_original": "央行公布8月流动性投放数据：MLF净回笼1000亿元，多工具组合实施流动性调节",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fb9c017000472591"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2574,23 +1851,6 @@
    "id": "26521673faebe531"
   },
   {
-   "source_id": "gn_kr_mk",
-   "source_name": "mk.co.kr",
-   "title_en": "SK Group Chairman Chey Tae-won said he is also considering building a new semiconductor plant in Jap..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40X3lESmVyd0liUndtOXVHTXVlZ0hkOXFjVkVjNVh2cHRSYzE2VHoyaUowakJvWW1EajhQUzRBUlJtM0RUMjdfNGxmZVczNFU?oc=5",
-   "published_utc": "2026-09-02T08:38:04+00:00",
-   "title_original": "SK Group Chairman Chey Tae-won said he is also considering building a new semiconductor plant in Jap..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "156322d09ec5a8ef"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "FOCUS: Japan's debt jitters press Takaichi to rethink fiscal stimulus policy",
@@ -2606,40 +1866,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a7a3d641acdef8f5"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: South Korean FX authorities bought $20 bln in repatriated SK Hynix funds, source says",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQTBFUmNfMnZUa2xfbURKbl9pVFp5cTRxdmVGeXZRbk5TZHN6OXBpbzNfMVJidEZaM1loV09CazhyWHo0M3ViN05ETUo2aW81NFdkeGVraHBzUGtrVEQtd1IxbWF0NVRxSl83YTZVZE5kZ0hpcHBHbTZIU0VhdlhqS3RVcmNUNXdDMURfc20zQ01rQTdMVE03N0JfZ1g2amNzSG5GNkl0eWFxcndDX3JBTlFSX0o5SDNWZnpMZ2xsWE5tWUJQSm9MUW42SHJMNnNw?oc=5",
-   "published_utc": "2026-09-02T08:21:51+00:00",
-   "title_original": "EXCLUSIVE: South Korean FX authorities bought $20 bln in repatriated SK Hynix funds, source says",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "522c09d6db01f983"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
-   "title_en": "CMA yield reduction due to continuous increase in base interest rate... Increased burden on securities companies",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40S25BN2hCM2M0VUZLU2hLQnFBb09wYldPYWpuRW9MM0xCaWctZ3VodHpKak9uN1kwRzhVc253Rk5LOTFWNXM1WmZONkFRZXhubFIxWU9yNlh2QWhl?oc=5",
-   "published_utc": "2026-09-02T08:13:00+00:00",
-   "title_original": "기준금리 연속 인상에 CMA 수익률 줄인상…증권사 부담 확대",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dd85b937bdc08d73"
   },
   {
    "source_id": "boj_whatsnew",
@@ -2676,72 +1902,21 @@
    "id": "1e741265ffc03058"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "시사저널e",
-   "title_en": "[Soaring interest rates, direction of the financial industry - Top] Banking sector, ‘boom’ with increased performance and increased capital ratio",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVRTZKc2ZqME1EN0JGbzk4aUp6bTByQmlSUjY4M05EMUtEV3I3ZGlidmg5cklyLWRpelB0U1BWUzZRWmJXV01kZGY0OEFSYl9CTHJ1ZDlkZ3Q2YjY3cUo5TGlESDJ5b2FycGhPcXlvMmdqUdIBdkFVX3lxTE1PTXlQT011NVhZM0N2SDR3bDFVUXdGcVNoZnRBejN5LUhRR3RscHRQYVpyQkFJQ0JEYVA0WENSZXFaS0FIZ0FXNkVrQm5ldjF5TENWMDRCbEtNWlFadU40eWYwQjEyT29LR1NPenZaeWZVR1IxU1E?oc=5",
-   "published_utc": "2026-09-02T07:51:04+00:00",
-   "title_original": "[치솟는 금리, 금융업 향방은-上] 은행권, 실적증가·자본비율 상승 ‘호황’",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2dd273e45907cbe5"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "주간한국",
-   "title_en": "The era of 3% base interest rate... Insurance, card, savings, and response strategies by industry",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TRndmc0JUam0taFBaekpySE5WWXczV056VjZ2SlVOVFgwUGJrdGVaYkRZSERQRkF2VGJkQzRPVk5lbzUtREJVMVJKQ0hwazBHalRCSUtqZjNPQXdRcXB4ZTA1b0djZi1aNU1lc2hxbzDSAXRBVV95cUxQc0g1M2ZyVm1QeEduZnBwTThWenAtemc4RTVPV05pb0FlRWs1WXRSN3BHaUszT09Ca1FCOFk2ZGRFa01oS1dWWDFCWVVCTUU1Q0ZtYUdOX0VDa3g5SXdvVXozaHQzMHZqMGEzWlk2bW15NlNBVA?oc=5",
-   "published_utc": "2026-09-02T06:44:41+00:00",
-   "title_original": "기준금리 3% 시대…보험·카드·저축銀, 업권별 대응 전략은",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e57230a437c30c7b"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "아주경제",
-   "title_en": "US-Japan long-term interest rate shock... The Bank of Korea narrows its operating margin and tightens corporate finances.",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kdkM5dC1scWFzNTN1NWJ5MFUtaHFESVdsTHRYbnQyVTZpQkFxMUVITnR6bTNvSzhBa2xoMlpLX3JCV1YwY3liVEpxVXdXMDJDMVZUZ3Z5UGLSAVhBVV95cUxPZHZDOXQtbHFhczUzdTVieTBVLWhxRElXbEx0WG50MlU2aUJBcTFFSE50em0zb0s4QWtsaDJaS19yQldWMGN5YlRKcVV3VzAyQzFWVGd2eVBi?oc=5",
-   "published_utc": "2026-09-02T06:26:10+00:00",
-   "title_original": "美·日 장기금리 쇼크…한은 운신폭 좁히고 기업 돈줄 죈다",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8adf020747d81e6c"
-  },
-  {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
-   "title_en": "Defence spending shows determination to protect Taiwan, president says",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVZvUU1pdTZMemxqOWw5TnYtX3RYOGxYYkQ0Nm9kLTkwc1hWTmZjaDhiWWtkZ3NFR2l0TjNaNU5pb0Q3NXpscTI2VklHTG10Yk0xZlYzdXVLVS1HRGU2X0RQMG1ucnJEMXdoMnFCREx2QUQtZW1JVXVYb3JJbjUxdGpsajg3blZHMEFnV2VVdlo4eldIU2hqckdtd3piWlJ1a1JjajhQcHhYbHdraE1obWJkbXQ?oc=5",
-   "published_utc": "2026-09-02T05:14:00+00:00",
-   "title_original": "Defence spending shows determination to protect Taiwan, president says",
-   "region": "taiwan",
+   "title_en": "China maintains stable refined fuel exports under relaxed controls, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUIwSVd2SGNha0pCOGN3VjRXdEhYYkwzOVBxeWVRanlua2RrVnQzY2RRSTdPd3oxRUQ0ZWJiOEFKNzZ0OHJncXdvNFExNUdmSG43ZFE4NUpKVHNYTHVvemJFc1UwNVNLejdQczEyRTRDaHY3X290Wjlha2JXRzV3TzU1cFBkTHNNZkczZjNNbzRyYUp2N0cwbHZDRzhMT1BnRVdUUjNNdU5NSWVwaEVHQndtT2x3cmlQUmpuXzhpMmV0MWpDQjBRM3R3?oc=5",
+   "published_utc": "2026-09-02T07:41:32+00:00",
+   "title_original": "China maintains stable refined fuel exports under relaxed controls, sources say",
+   "region": "china",
    "topics": [
-    "fiscal"
+    "trade"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "3e02bcc4a0bc0bcf"
+   "id": "48d8bb9a0dd64b56"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2760,23 +1935,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6cd7f039ab472940"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South Korean finance minister nominee vows to advance AI projects",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGJYcmhsaE1mTkdZS3hxRV81V1EyYUVkUlNIN3dDZjlnZkpmVXp2MHFZaXdFd0hYUjR0RFlXSmw1b0VHdjNiMi1rcWc3OVp0YUc3a2c0ckt2VWRnUlQ4cHVkem5OUm1TYVd3TW81c1RwT2hyMWlVR3VlLVExUjNGQXJ5R0dLcHg3NHp3N0FBSjZKMGltZk5GQnpDTTZRa3BvZ1BRRG9YdTBKVGg4aThsMVFMTUpvQW84?oc=5",
-   "published_utc": "2026-09-02T02:45:00+00:00",
-   "title_original": "South Korean finance minister nominee vows to advance AI projects",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b4dbb73ab4ac3dea"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2798,41 +1956,6 @@
    "id": "635a6e7afca74b9e"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "연합인포맥스",
-   "title_en": "[BOK Conference] Bank of Korea “Aging population increases risks to financial stability… monetary policy constraints”",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Mi1pTXlxOFJSWi13elRXbFV3VEN3TXB2TTVndERWY3pWYUpSQmZ5d19CYXRyNE9iNzB6QUpDdFJyN3lwbWFfVXJ3YnlKcGF2Um5Nd1ZYVVI4UmNjMGF5eVl0Z2dVUDEtUk1HN2hDVjbSAXRBVV95cUxQQl84eV9MeXNjSVdzVjAtSjlUYXQtek1NWklJNE9GY29ZS0t5YUw0WkNUTGRMc1ZfQ0tDVjhYYmotUHR1bi1yZlFLRV9KZkZjdFdiUGdYNFhFalBNX0FHQ0VUVjh3RW5iYXlGTUxtNGxPUUlvcw?oc=5",
-   "published_utc": "2026-09-02T02:29:33+00:00",
-   "title_original": "[BOK 컨퍼런스] 한은 \"고령화, 금융안정 위험 키워…통화정책 제약\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2a0ab75a416baf18"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix fall on renewed Middle East tensions",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HV1d2RDJDb2JtemFzbXMxWnFXMDRUR0lHNVNWMGt5dGpoMzFpYUVpVkp1NkdvNEZzY0R3eW82VjhGMXIzM2JVa2kzWXQxYzRHREZzQkRGUQ?oc=5",
-   "published_utc": "2026-09-02T02:11:32+00:00",
-   "title_original": "Samsung Electronics, SK hynix fall on renewed Middle East tensions",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a1c2583eb11c60e2"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Hawkish BOJ member calls for \"nimble\" approach to interest rate hikes",
@@ -2848,23 +1971,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ea36fa0b10b93fe3"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "BOJ's Takata urges nimble rate hikes, says 2026 marks a turning point",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdUd2WDdjRXVYRUFkeV9zTlJKZFl4UzZQT0NqMmo5emZNc2lBTGlmSEFmbTQtaGR4azNXWlV0RGhmM1ZsU3ZjV2wzSEo5a0ltT2FhclVHb1NwVDZWLVQ3X0g5cVl3NlJiZXBndmVuVk80dTJwaEpMLUluWmxkeVowR0c3TG4tNXdLekZzODBTVkQycHJ3LUMxX2x4VWtiZ2xlblBYQ3l3MDhBckkwT2lNLUQ3ek9KUQ?oc=5",
-   "published_utc": "2026-09-02T01:58:00+00:00",
-   "title_original": "BOJ's Takata urges nimble rate hikes, says 2026 marks a turning point",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8351c2f24c066ddf"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2953,144 +2059,6 @@
    "id": "f805db5b41b5eb07"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Semicon Taiwan 2026 signals a broader race for AI-era semiconductor leadership",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVRjSDNrZm5UNkJNcHotbFptMHVHb09OeEpRS2VYQVI3V2trclFVWGJiSTI3cHZNLTFQcmdLRHJvcy1NVUVHVUtqREZSVjNQNGhxSGNScWlOQ3VPWjJicGxpV2J0TU1wVTFUeHo0dnBMVjVDbGxzV3JwbXNQSFhfQkMwT3FOYllnQkRNOHJJZVc?oc=5",
-   "published_utc": "2026-09-02T00:57:29+00:00",
-   "title_original": "Semicon Taiwan 2026 signals a broader race for AI-era semiconductor leadership",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2c1873c477387d98"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "BOJ chief signals chance of September rate hike, debate on price risks",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWUxd0t2ZFAyQy10SlowSmZwczhNZjRXZTkzdk1RV0dWU3lvX0NONU40ak5KT2NudEdwNU1qR2ZXSHdRX0tRcHk0MF8yci0xaWhQbVZTZ3lTdHYzQ2lFOUlWaTlvLWo0VkhMaHotalJBLVV2aGFlUm1ESUJKWGxoVC10a0FJRk9mLUJDbHM5Nm9yaEpkYnRJLVNmaEtjUWg1Q0VsU1duRkVWMWxuRm5LWQ?oc=5",
-   "published_utc": "2026-09-02T00:25:00+00:00",
-   "title_original": "BOJ chief signals chance of September rate hike, debate on price risks",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "765c947470ccf0b6"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Beyond Language: Indonesian Engineers Bridging Cultures in Taiwan's Semiconductor Industry",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mNFlTS2lRQ25vOFJibXdRWXQwN1Q2VEI3c3VEejZUN01hMUptWkdOb2llMFJ4QW5oTWpYZkdUWDdVSVlXd1J4OUpDNXpSTjgzOTlabjZHM29HUFZmT0tCTnkzWG5IbXRicWlJRC1XNG9jUQ?oc=5",
-   "published_utc": "2026-09-02T00:20:57+00:00",
-   "title_original": "Beyond Language: Indonesian Engineers Bridging Cultures in Taiwan's Semiconductor Industry",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8a0913f501000a2c"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South Korea inflation quickens on one-off factor, misses expectations",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFVqdHg2NUFDZ0F2YXFNR0F0LUc3MjREVXRsdjRqVF9tbDctaVdiWFRFeEpJS1lNZk1tQ19mWlNnNHpSU2xIejhFd1hYNlpUQUhZWGIyeU4yODRmSmpvdkZMMTM4X3VrVWZrREpxQ0hjTDdfa2ZWTExoYUFGTC03Mmd4Z0M1T2RrSjNod0xXWlk3ak5SWGFMTC1HLTNkWTZ5SWUwb1dZV3RFTE1XLVdJ?oc=5",
-   "published_utc": "2026-09-01T23:10:00+00:00",
-   "title_original": "South Korea inflation quickens on one-off factor, misses expectations",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "08cb6ed036fdab87"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Bessent urges BOJ chief to combat weak yen with 'decisive' monetary steps",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX3dHakpDaThPeWlCT2NlVDBHNURLR1pvQnZZcDRPZUk2UXZWbDM2dXR3dzdaQThvT2hwZC00aEpkUmtoTERLSkduY2FZTXhTNl9ybXliX1g0VWVBZ3VrZG5JUEI5LVB4X1VDcjFMS2haYzl6T2NrUms4UHRlU0NWWjN6dHRaaTZSQTZmaG5kZDZJZnRKaFh6bmd0V2RCQW83WlRJT3l0eTFQbndxR3NzQkxjeW55MlFIemRCRW1WWTRTcEhWNDdUSkFWRUY?oc=5",
-   "published_utc": "2026-09-01T23:03:28+00:00",
-   "title_original": "Bessent urges BOJ chief to combat weak yen with 'decisive' monetary steps",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a3d4a0a1f2670d36"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
-   "title_en": "[Rising base interest rate] ① “Limited trickle-down effect for semiconductors”... Focus on ‘vulnerable groups’ affected by hike",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mTEFmZHBkUlJ1ZWNhNTRhZDdaV2pick9saEVUd19OckUtWENOV056TDJwZ1c3dnRFblVKN295WFdncGY3b2hkQldSUy1LN1Z1SE1LNzFGLVB2czg1?oc=5",
-   "published_utc": "2026-09-01T22:00:00+00:00",
-   "title_original": "[뛰는 기준금리]① \"반도체 낙수효과 제한적\"...인상 충격 '취약층' 집중",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "industrial"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "764cdbf525b93184"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스프리존",
-   "title_en": "Base interest rate 3.25% up ↑ 'Within the year vs next year'... Conflicting views of the Bank of Korea on speed control",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05T0VuVnQ4a2tvVmhqZ0lTNVpoMUJBTDJlZUt3WXhYb2hWVlQ0QWg2S0hOTXlncFE0dWRZX1oxRFZNeFBKV1pIQUJEV1NNcm5vTmtuTjFrcTQ2SWVwelR6ZTNRdWFVN25GN3NzcVc2Q3Y3NHM?oc=5",
-   "published_utc": "2026-09-01T21:41:48+00:00",
-   "title_original": "기준금리 3.25%↑ '연내 vs 내년'···엇갈린 한은 속도조절론",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da2d2a2a5cc018e3"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Korea unveils record $598 billion in 2027 budget, creates future fund for contingency challenges",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IMVlpaG5Ra3gzTHMtdlR4Slo3Tjhld09RZ0ZpdlFHc0d2dDlHcThTR2VLWGJibkhJWGtFLXBCSHl2c2ZWQVUtd0VPRXJncFNadTA3ODlwSE1OMTY4a19DcHNJd3dHeHlxV2c?oc=5",
-   "published_utc": "2026-09-01T18:55:45+00:00",
-   "title_original": "Korea unveils record $598 billion in 2027 budget, creates future fund for contingency challenges",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "77c8780b93f4a9f1"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Bessent urges BOJ chief to combat weak yen with ’decisive’ monetary steps By Reuters",
@@ -3107,40 +2075,6 @@
    "live_wire": false,
    "manual": false,
    "id": "aa347e97c1ad1879"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Katayama, Bessent confirm 'orderly' yen moves essential",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFTURwOXhDdFZOUHM1aDlzRFNSRGlVaVQ1c1A3UXFncXNadldWbnh4SlpyYm84c0VGYmt4aFBnU28zak5MNzk1VTFZRnFpdDBqYjhuN1dwMWFpOXZ0R1pUWHdB?oc=5",
-   "published_utc": "2026-09-01T12:15:34+00:00",
-   "title_original": "Katayama, Bessent confirm 'orderly' yen moves essential",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7f57584581f8ba8c"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Caixin Explains: How China’s New Housing Rules Rewrite Property Financing",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaXplWGhjWE1rcUs2anVuNGtqaXJTa3o0TzBhTnlEYXdENEpMZ29UNjE4YnlHZjAxYkwyTzBETjVZZS1PMGxxUjVja0gwbEpieGtva2NybnNuYnV5Y3dSUGE4cHZZLXNRRG1BVzJ1V3B5d2FDOTdFcVlPV3hmOVB1b3BPenFVak5SeHBXeG1ZTmtScE1IRFNkNzdjcFR4NjlYcjNlSHdScDU0SW1uYUJJVVpyOWducDZzb2I2SXlsYTQxZ3Zl?oc=5",
-   "published_utc": "2026-09-01T10:10:00+00:00",
-   "title_original": "Caixin Explains: How China’s New Housing Rules Rewrite Property Financing",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "61ac725cacf20833"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3160,23 +2094,6 @@
    "id": "219258221c6c1785"
   },
   {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Opinion | Why US sanctions threats against China aren’t credible",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQek5EUURPTjkwaG4wX0JnZW53ZUQ2bHRlMUxoREdWYW9oV1JjVlZvRGNUU3RxVG5CSEo2SDhRbVp5VmFqcVRCdk1HWDFiZ205bUpwWF9mNzJHM2JDLUdXalI1RUk1ajlfeVdMMEIxbWIzU2g2ZnUxSEFTaVAySmtUbUhMWHk4bkJ6ZHRrS0c1d3JJVldKRUZFV0I1UmdRVmhzdzJ6b3JDRTFzTTFwOUduelBR0gGyAUFVX3lxTE9WSUhhSVdwVTFlR2hBM1NWUmF3Z2VUdjNOVGJiZWxIalM2QlNiZmdxT2Y3Qm1DRU5uTC1DRnc4V3hISVpha3kzU04teGlZMWVFMmZMNXJDbm05dDVEOTFGb3UtTkNhNzFqdVFZUWZFdWNiYXpzdzZpa3RfQkhxZDBETTJiQzM0aGljTlFLbHFwR3FLZjZyWnBWOTJXLVM5ckc2SEplLXZZOHZnRjEyZzJvMHc?oc=5",
-   "published_utc": "2026-09-01T08:30:06+00:00",
-   "title_original": "Opinion | Why US sanctions threats against China aren’t credible",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3777cc15d97544b9"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "Japan manufacturing growth reaches strongest pace since April By Investing.com",
@@ -3192,57 +2109,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f55ca89811b37572"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China Slashes Hidden Local Government Debt by Half in Two Years",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXJaSkstbzQ2YlVwb3E0WnNZTU1jME5RdlEzN1hkYnJ5dEZvWHlxeVcxVDlRc0YwR1lmUklXMUZyN1NNV3hPazhSZWxfNmplOGh4NndRWmtCSVhNZy1JMG9NWVBqbnVLUFQ2bTh0WWN5SEk0SDhsYTMxSGVGY2RGZmR5bXFQaVIwZDFKUWxDeXphVGlRd1U3MGJ6dmZwTHkzbzdDelpKMkJoLUFmQzNiSmJ5Y0d5elpNQ2c?oc=5",
-   "published_utc": "2026-09-01T08:02:00+00:00",
-   "title_original": "China Slashes Hidden Local Government Debt by Half in Two Years",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1c6c3f1024987b9b"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan chip equipment maker Skytech opens advanced process lab with TSMC backing",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONlI0cnhwYWN1OUJwc1A0djFiXzhGSC1yTnhRcmF2clFjNmRoUzgxUC1nWUdVamNxZXZEeGJHVHI2WWRVVEZFV2xvUlMzSWtibEZlaU9EaVJ3eFhfQV9lM19qdXFyNnhsdVRtRHFudHNab3loSHRCVGR1OXpxVW9ua1pqc1NRVjBBRHZfR3o1X015TEZ3cUZV?oc=5",
-   "published_utc": "2026-09-01T07:55:00+00:00",
-   "title_original": "Taiwan chip equipment maker Skytech opens advanced process lab with TSMC backing",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "517471290a5a6ca4"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Government borrowing costs rise anew, adding to pressure on global policymakers",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSl9GcExBdk5lb3U4c1NTalROY2NUNHE4SXdlbE5yemw4WkwteWNMdTZVTFdrcHhPUVF5Q181eTlxZ2xoUkV6Q3F4a19ldHJBdGFnaG9URjY3bXNTMDE0aV9mVDU1MUtxMTRXRl9pR2p2THVmc2JiWGlSb1prUElXTWtaNzBsb3Z5U2tCNXZlTlMtM3pHU3Y0dkVNWUhHWmVWUmJxbnZmVVFlNmVlMDR3?oc=5",
-   "published_utc": "2026-09-01T07:27:00+00:00",
-   "title_original": "Government borrowing costs rise anew, adding to pressure on global policymakers",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8288c4c679ff3bff"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3298,26 +2164,8 @@
    "id": "ba4098de63d84119"
   },
   {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "Korea plans record W821tr budget on chip tax windfall",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNMGd5YnJ2ZnJRd0lSR255eUxKWHFsSlkzOE4waVJjOUxQN0c4RnhkRG5XcUFXZkduNzcwdDktZW5QN3BtQUFXeno0NkRYN1BtSFlBNlhQbw?oc=5",
-   "published_utc": "2026-09-01T05:52:12+00:00",
-   "title_original": "Korea plans record W821tr budget on chip tax windfall",
-   "region": "korea",
-   "topics": [
-    "fiscal",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c2a904b2746c4093"
-  },
-  {
    "source_id": "gn_asia_ft",
-   "source_name": "ft.com",
+   "source_name": "Financial Times",
    "title_en": "South Korea unveils record budget increase to cash in on AI boom",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNi1FMXhLOFBqXzRScHk2UXdPSG5KdkR3VEhQOUlVTW1YQWxhQWVOYU1rX2pBSkp2UzAtNnJGRGRoZEh0TTNMYmJaaUNLWUY1aVA1cFBBOHVCYzhMUzkyNVVhcXh2TUtDalM4MGVHak1FamZMbkFYaWlibGRiSEpsVzJ5TkE?oc=5",
    "published_utc": "2026-09-01T05:33:26+00:00",
@@ -3348,40 +2196,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bac7cc790854ef5e"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Taiwan's chip prowess is built on democracy and rule of law, president says",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZlNBQUloQjZQaTRsNEI5dlVwSTZqc0d5WXp6VmxqRXJra0V0b0cyaXlBQ1gzSzVDeHplZW53di1WUkZJX1cwd0QyQkwtb2VWRVN1S2Z0T1hwTmRKTVZnaUNBYzJvamRNOUltaGJ6bEdyTXU2enRZMnlNMkxsWFVPNFVMTTBFcEprRW9aODB6MXZtRDhIUGQta0IwcElxUng1c21GREYwanF2U2F3eWhjbnd0ZldUZ21aS2c?oc=5",
-   "published_utc": "2026-09-01T03:55:14+00:00",
-   "title_original": "Taiwan's chip prowess is built on democracy and rule of law, president says",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "770a96e4010cf6e0"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC delays CoWoS orders as CoPoS plans take shape",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZW80dVlfcEREMzQtVV9HMUdYLTZuNkZxcGVjLVA5Sklyb2NvSk5ndHdqcndMeUx2LVM5Q2ZXMklQNURqZnlCSnlfNWVfR2R2ZFJnRmlKOVhKLUpEcXFWZWQ1RVdtTkpjbmJXcDFGQUlQSnlibEtGZjFXNjZic1p5cC1iTS04MlZNS0RnSGpsQVFhemEz?oc=5",
-   "published_utc": "2026-09-01T03:38:56+00:00",
-   "title_original": "TSMC delays CoWoS orders as CoPoS plans take shape",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "560b0ea316e915af"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3420,31 +2234,12 @@
    "id": "1a439506956154a8"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "머니투데이",
-   "title_en": "The Bank of Korea puts the brakes on, and the government uses the accelerator?... “Currency and finance are not in sync” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxM2lPR2liR0tNLV9oTDdKWEdnME9SZW5GenpiUkZSRmYxVVNld3hXaGhXTDhFQjEtNTZUbHZlLXB5RUdSdExrVVlqTjJTMEFkY01xeTFKQzk2MHU2UE1IYk5rRG5sWnliUm5v0gFwQVVfeXFMT2IzNFEzZGlURE5uNUExX0xfLVVEYi1qNndOTkRmMVNENi1TWGdzU0JFWktRMUYzR0dVc3FNOTExdTY0WmpFekppUkZnNVZHVjVaTThadEhGemZiX3BkekV5TEgycERad2ZldHE0cmhwLQ?oc=5",
-   "published_utc": "2026-09-01T02:41:57+00:00",
-   "title_original": "한은은 브레이크, 정부는 액셀?…\"통화·재정 엇박자 아니다\" - 머니투데이",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dfeea0ff535c9544"
-  },
-  {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank launched a 5 billion yuan 7-day reverse repurchase, with the interest rate unchanged at 1.40%",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WZ0d4bXJDT1M3eWlzMUgxS0RRcGRfWjdQRHI2TmRRVzVYbi1zZ3NsaS1HTzkteHRyUG5IZnlsVmx0RDJkLTc2V3dHZVVfZw?oc=5",
-   "published_utc": "2026-09-01T01:56:48+00:00",
-   "title_original": "央行开展50亿元7天期逆回购 利率1.40%持平",
+   "source_name": "jwview.com",
+   "title_en": "The central bank launches 5 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKS3VHTnJOYmNON0loVnpDRlRFY2RBYWRxSE0wZ0EyaTZiTGEyTUZleVh3Zmt0MFNERWdmMDhMZkZzRVVsUDk1SHBTelR1ZkVndm5MT1RleTk0ZnhGZUV1WG9uZXg?oc=5",
+   "published_utc": "2026-09-01T01:31:00+00:00",
+   "title_original": "央行开展50亿元7天期逆回购操作",
    "region": "china",
    "topics": [
     "monetary",
@@ -3454,59 +2249,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc95c32045e8c20b"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Dollar gains as oil, rising bond yields stoke inflation fears",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzR4b3dnajg5QUJSRUN0VHJXQkhXQWpUX2lLVU91dWgtZWJSNGNKcXRLSUpramxQeER0NHliVWZ2LU9xSjJYV25IRGpUMWlDODcxc2g4d0d1S3ZkSFhMLUxEdWlEV1NwNDZmaUhENDZVT1RpUFlQci1UUGlvWlVlX0xObzRJdlFFT09GMWtXQmNGN0xKM0xWUTd1TDBwQzdQaHRyTTJvRnM5TmpMQ0tSZVR3?oc=5",
-   "published_utc": "2026-09-01T01:30:12+00:00",
-   "title_original": "Dollar gains as oil, rising bond yields stoke inflation fears",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3e9f958e077ca22b"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFc4bTExbGQweGt4OHNVVjRRS2RlcmN3dDBDWFVzeTFfd3BNUHhXT09ORzVzd2hVbnhlZVI5MlNpOWZrNUxHSGtjWTBsai13R1ZzaHpSUnAtLVRaNUljdmdqTDVsOElKR3ByQ3Rka3ZxaEhsSEpSNldBVm0xSVlVenBKV3VRaTdteDJxY3dUUmF1ZVM2NjBLSEpIQXlrTEZrSnNiVHdQX2JOSDJfVjFocWZjSVJfMjcxYkxTMw?oc=5",
-   "published_utc": "2026-09-01T01:27:00+00:00",
-   "title_original": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9be321a5944ab75"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Semicon Taiwan 2026 to spotlight AI-driven semiconductor supply chain shifts",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNck82djZXZGpsU2s5b041Tlo3UkJxdXJWZjlHbWpxbXNmTkNSN2FNemNDaWxnZUZKdDBXc3NpRmU5ZEpPZnRPV3ZDcFg1T2VnQmJQeVdfQkJrVXhYcDgyTHhHRFNRYVVVRnJNalhHcEhWOUJlWmU5UmV3ajJhdXZnMEZ1MWJvWnVFSHluT3JSaFctWF9z?oc=5",
-   "published_utc": "2026-09-01T01:16:21+00:00",
-   "title_original": "Semicon Taiwan 2026 to spotlight AI-driven semiconductor supply chain shifts",
-   "region": "taiwan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c944c97f97e18300"
+   "id": "2b2ee46698ce2e18"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3527,41 +2270,6 @@
    "id": "b301322f3001ee20"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "비즈니스포스트",
-   "title_en": "Kiwoom Securities: “The Bank of Korea will skip October and raise interest rates in November, with the final interest rate expected to be 3.5% next year.”",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LYnVJYWNCYU5OdW53clg5ODhka0ZOX2xOR2JpcUd5Nm1YSnV5VU1lMHI5LVg0ZWY5T1VXMGF4Rk1OajJxcE1XaU5POTRiV0Z6Z0JUdDFEZkh0ZGFMSEZvRDFsNExVMWtMSUw1RHMySEJCQzQ?oc=5",
-   "published_utc": "2026-08-31T23:41:41+00:00",
-   "title_original": "키움증권 \"한은 10월 건너뛰고 11월 금리 인상, 내년 최종금리 3.5% 예상\"",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc62c757badd1027"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan manufacturing moves into the prosperity zone as US export growth slows",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONXgwQm9yaWVHOW9aX0V3UENZaTVzTUVQMzdyRFVCYzJVcTZ3dnBjQ0haVFc1bkE0SUs1VWhUb19KaUhpYmZPWUtUQ1dlYkdGam1uWm0wMDZIaHMwNUR4WVIyektwaUdoQkVZMENRNHRaN00ycnZtY2llZHk0b1RJajdJREF4eVdJV09nMGJTaWZTV1RiX0FOc3lZYVg?oc=5",
-   "published_utc": "2026-08-31T23:38:02+00:00",
-   "title_original": "Taiwan manufacturing moves into the prosperity zone as US export growth slows",
-   "region": "taiwan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14c94c448904ce6d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance By Reuters",
@@ -3578,23 +2286,6 @@
    "live_wire": false,
    "manual": false,
    "id": "787951f15e1f181f"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea’s CCL exports jump 42% as AI infrastructure boom spreads",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aS2NjZU1uVU5QdXRWY0t2TEg0cU13dXBqMmZxa0llVjZ2Zy1UZG5GMlVXSnluUjhmOVgtNFJQaVVSazhMVktRUUxKeHZjVzJrUEJJMXI2S0o3UFlzVkdVWVJmaU4wQVQySTR2SXQ0WjZ1STRzTXkxbVZLZkZxb1U?oc=5",
-   "published_utc": "2026-08-31T20:49:26+00:00",
-   "title_original": "South Korea’s CCL exports jump 42% as AI infrastructure boom spreads",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "567b3b4afa5b78d3"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -3631,58 +2322,6 @@
    "id": "fb27244839b63805"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Japanese companies see consumption tax cut as frozen food opportunity",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0X3ZHaUo3YUZKRXAxM0tYRHdmZ3hiTGZFS3U5VnJjb0dxNTFZc2VfQTZtb0JBbi1LUnc3cWt0eEFlLU52c19qbmg4TFN3Q0V2MjhfSWtOdHN5Uk1rNFVINEFn?oc=5",
-   "published_utc": "2026-08-31T15:23:00+00:00",
-   "title_original": "Japanese companies see consumption tax cut as frozen food opportunity",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5035bd348f39f19"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5",
-   "published_utc": "2026-08-31T14:48:40+00:00",
-   "title_original": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "95bb122501277a37"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "[Economy Talk] Bank of Korea raises interest rates for 2 consecutive months... What is your asset allocation strategy?",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mV0g4OFJ1OF9xNlBLLUlQZmkwV2lHb2FSRGxaeXlXeWxsRjRCd1RBam9XUVFqV05IUHhKMmhBWHhLbjY5dm5NcE4waER6SjA?oc=5",
-   "published_utc": "2026-08-31T11:00:00+00:00",
-   "title_original": "[경제톡톡] 한국은행 2달 연속 금리 인상…자산 배분 전략은?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f69efc71f2287913"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan FY 2027 budget requests to hit new high of about 143 tril. yen",
@@ -3699,194 +2338,6 @@
    "live_wire": false,
    "manual": false,
    "id": "733f425b61a747e1"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Cover Story: How U.S. Tech Blockade Sparked China’s AI Chip Boom",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHR3bTZiR3hXN2F6bVE5ZE1DWXJmUTR1OGY1aXdrZHd6c05jV25vTWxfeDJTOVVxRTM1VzlVZDMyNWxUZWNCYk5JdDgxa0o5Ynl4SmFTVDM5MUdyTTFCcnVTclcyVHB4OVBTT1JfWlNYUkNfSFExWkt0VDR6bHQ0dmIwXy1zZ2xKSXJQN1ZRejVNcXk3bk5BTmxzN1dSS1IwQ0VPODJiOXZCRFJfS01hMVp0c0s0UQ?oc=5",
-   "published_utc": "2026-08-31T08:49:00+00:00",
-   "title_original": "Cover Story: How U.S. Tech Blockade Sparked China’s AI Chip Boom",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7859d5f9f90e504a"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Commentary: The End of the Presale Era and China’s Housing Divide",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb25qZ0dlRXJ4ekM5dUs1VHZHTkkyLVJnVGtIMlFiM2pyUkp6eDJmV0FjLVFVeHItWk5SZU5RMU93TmNSZmh6ZFFha1pFaktUV3VwdU1zamhPV05FYWNmcnpydEFKWjVuQ0tLTkxjQVNIR1RyQjRSb2ZfR05nc21qNGNFUGVqX3pjQk5kVFU0LWNlMzVCZnk2dTc4T0hKek84OU85QTNBN2RsR2l5bFBVRHhsM2tnVlpicnc?oc=5",
-   "published_utc": "2026-08-31T08:39:00+00:00",
-   "title_original": "Commentary: The End of the Presale Era and China’s Housing Divide",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5fe9882d74d091e8"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC sees SiPh going mainstream in 2027",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWXBJQUhLR0ZMZV9BeGVfTEQwMWk3blRGMVpoMnpnVkhvQ1ZuSml4MmtCcTBrWWxEY09oTTRoWFRwamFyeUE1X3NvV2duWmlXbnRkOXBac3FoNjZyNXBUN0tQWVFtd3JmZGFIOTUzUGJVQXpXWFdZRXlObEZhZUtvQzlDWTlvRE5sTDNEV05EMktOZw?oc=5",
-   "published_utc": "2026-08-31T08:28:42+00:00",
-   "title_original": "TSMC sees SiPh going mainstream in 2027",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bac26a3d2497dc84"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "머니투데이",
-   "title_en": "The era of 3% base interest rate... ‘Interest bomb’ is coming for both companies and family trees - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15WU8xc3BGTi1mRWVxLTFxWHNJXzZjZW9GTlk4bFUyMW1EUGhCS3VvQ2lackJ6MmVYRjRadDBKeGNQb09wUk1ta09QTXQ2Rmp2UFhwQXE3UXRHajdraW40QjhOZm1jZmxtSVHSAW9BVV95cUxQRmtiSTVkNTJtYU5MSkN2R2xoSC1ZWXpMZGYxbTFhSkZyejJJeXZDYW83RDhyQkw1RGhPa2U0YWRFZm42Qml3NU1PRDFyUGlIdkEwR19Wdmg3cmpkcmNnTHBNUUdXMHV5Qm9zNHgwb3c?oc=5",
-   "published_utc": "2026-08-31T07:37:59+00:00",
-   "title_original": "기준금리 3% 시대…기업도 가계도 '이자 폭탄' 온다 - 머니투데이",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4181de20e34c053a"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "마켓인",
-   "title_en": "Deposit interest rate increase slows despite ‘reverse money move’… Banks with nowhere to put money",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rSk5mWmxmZXVLUDhaTzhGNEdOR29zM1JuYkFHeUNQUVRFcjA3aWxmXzVYb0xjQkg3bEZleEIweHlOQmRYajJiTkRRUzlYcXY3Z29Zb0lMdHpWdnZJR05xRC1rakw3cXd0cDRWRTBHaWNWY00?oc=5",
-   "published_utc": "2026-08-31T07:30:02+00:00",
-   "title_original": "‘역머니무브’에도 예금금리 인상 주춤…돈 굴릴 곳 없는 은행들",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "afad9797da9c6aaf"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Gudeng chairman says trust underpins Taiwan supply chains amid Unimicron row",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGFLU1l2cUZNQWZId3N0Z0FYWlRmWW8xb3FzWktjS3dmc01wY3FvRVZiTVlhczFkT1VPTVdxWllBWTZubFV3R2RScGhkbVQzbHpzZjN2d3A5aFB1SXRQb1JHV1JmWFB6d1BRVlZ4dXVLUy1zMU9jbTBRcFlDMHZOdUM2Z3Y4S29PeVFoS2txMDAtVTNRMmlYalRB?oc=5",
-   "published_utc": "2026-08-31T07:24:19+00:00",
-   "title_original": "Gudeng chairman says trust underpins Taiwan supply chains amid Unimicron row",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b260b0ab1816a7e4"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "이코노미스트",
-   "title_en": "In the era of 3% base interest rate, financial stocks are mixed... Banks are running, but securities are ‘taking a step back’",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zUVlOckllWHVxY2pYYnpLMjNoaE9wSVdCLXU3MWRnN3F5bkJrRnYyREYzbjA5ZzZVN1RFcGlLVTBhSFJZUnlNMkxFYm45TmExZEdlVlFCWEpFU3duT3BRdzln?oc=5",
-   "published_utc": "2026-08-31T07:00:00+00:00",
-   "title_original": "기준금리 3% 시대, 금융주 희비 교차…은행 뛰는데 증권은 ‘뒷걸음질’",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a1fecb45dfce7aea"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Chip boom pushes Samsung, SK hynix taxes toward record",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TRDM4aUVjTVBWWURpWFg5MjhBeVJQR3E4aFBuYjFZZmhiQmd3QjJfMnRIU1dWVzNuMnVZV2xWdk9oTWUtTy0tM1ZNOXdtT1ZxNlo4YjkxNA?oc=5",
-   "published_utc": "2026-08-31T05:51:47+00:00",
-   "title_original": "Chip boom pushes Samsung, SK hynix taxes toward record",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9bfecbe38173dd34"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "글로벌경제신문",
-   "title_en": "Bank of Korea raises base interest rate to 3.0%",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iWDNVODN0bDZFNVA1bHlEekNIdXFwc0hnRTRHeHBRNFNQamFEYWVMc19OZ09RWkVMZmlyV25qMmV1eTJhaHBBaThRNW1ZWEl0NTB3Q1l5NXpKQzNFcFRFVkhyajJnQ1c4SzEtNNIBcEFVX3lxTE1DVkNMTndTVEZzUmZEWW9yY1VpZmwxUzlIQklzdG5TVXFIMzNUYjhyRGYxSHBUSWRfVGh0dHVwbmNqQTBwQTNsclQ2MU9lRGdaSzl5ZWY3T2MtckhsZG12RHJjVl9ZM0RQV2oyeFRCeTI?oc=5",
-   "published_utc": "2026-08-31T05:47:57+00:00",
-   "title_original": "한은, 기준금리 3.0%로 상향",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ca913f4a9b397287"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "글로벌이코노믹",
-   "title_en": "Bank of Korea's 'back to back' interest rate hikes, aftereffects... KRW 2,000 trillion in household debt, growing concerns over delinquency",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0R3V25HOU4wVzc2SWhZWjFfT3N1VnA4SEp5aEJtTjJLVGJyODZ2c2ttdHJJaEtwamZwTFM1RGdxcncwb1E5cHdCMHJwZUdPd2t0S1RKUGxYVjc3WHdDME1PLUVRTnE3eUQ5TExTQ0tMVjNkd3lwdTVBVE9OQTJFaGRVZw?oc=5",
-   "published_utc": "2026-08-31T05:44:57+00:00",
-   "title_original": "한은 ‘백투백’ 금리인상 후폭풍... 연체 우려 커지는 2000조 가계부채",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1e653ebb5b63de06"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Opinion: Calibrating China’s Economic Policy for the Next Phase of Growth",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjFSSHhUeXlYaUNQMkhXSnNkaW9hY3JCQkpDLXVRLVk0a1hyZTN2eFhRalBWaDZ5TTVYeW4wYThDUVNZUmpZclptMFQwT215RUtXYXhVZHFKSVYtTWdCb0hDXzlVQnJRcXByS3d0c2hHb0RsOXhDNGYyZmhWSGNCWHZEbzV2WHdUSzJVWlJETlhVX0tCcWYtOFJZVGJXRDN6alpWUnJ3Njg0WVNBOThCZXl1ZWotMVAxM2NIVnJVSUJYS1BW?oc=5",
-   "published_utc": "2026-08-31T05:42:00+00:00",
-   "title_original": "Opinion: Calibrating China’s Economic Policy for the Next Phase of Growth",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7a1ec2e7c77a5bf1"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3906,40 +2357,6 @@
    "id": "3677c77a8a874e6a"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank's 1,421.5 billion reverse repurchase expires this week, and a large withdrawal of 673 billion will be welcomed on Monday",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQZktyWGFfLTFrT0hpdGh6RlM3TEhpQkVfaTFWdnRvQXpfVm4wQ2plT012cHVOLUNaelgyQ242UnBpLXpjVlQ0WHNVX1l6UQ?oc=5",
-   "published_utc": "2026-08-31T02:40:25+00:00",
-   "title_original": "央行本周14215亿逆回购到期 周一迎6730亿大额回笼",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "57402b255d12a830"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "BOK’s Shin expects Fed to hike rates in September",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QYmlzZU1oWEotcUQ5R21EZUhNLW81WU9ubVowMlEyREpIYndLaHRDVE00SGUtYjQyQkkzY25MSUVWcWczWFV5MnR1aS1pYmJDTmpKbzJwQQ?oc=5",
-   "published_utc": "2026-08-31T02:16:02+00:00",
-   "title_original": "BOK’s Shin expects Fed to hike rates in September",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6da0c4f73151ddb6"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Hanwha Aerospace signs deal to export K9 howitzers to Spain",
@@ -3955,58 +2372,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2accca0447c87291"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "jwview.com",
-   "title_en": "The central bank launches 5 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXQU1NbmNuM3NKRC1OX1JQZVVaaUFBcnd3SDB6VHN3a2stWlZVbGstVEh0cEhnQ1V4bVhkem0xV3F5YUdibEJtamVFR3NDdGstRHliZ0ZMUnoxNG5Xb2xGcGx1Vm0?oc=5",
-   "published_utc": "2026-08-31T01:32:00+00:00",
-   "title_original": "央行开展50亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "853b0ad9d741c276"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Weekly news roundup: US pressures Korea chip investment, MediaTek wins Google TPU, Apple debuts 2nm M6",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVHBnZkhmRTJoX1g0VjhkeTZjVENaRHYwR09VWFhKWDZKa3hqYUJxcENsSm51WGxtaGxyekhOVzJhVWFGR1laWUR3MGpycDhVX1ZtRFk0clJQblNsS1F0elpOa0RMWEIyVmdYT0xGalJBb1RjWEdBbmhLNk55R25IREU1WXY5UEJKZ0FmOUxSRDltODNmbURNell4aHFkaEpvNldHUWNLdW5pLWlGaGsyRQ?oc=5",
-   "published_utc": "2026-08-31T01:27:24+00:00",
-   "title_original": "Weekly news roundup: US pressures Korea chip investment, MediaTek wins Google TPU, Apple debuts 2nm M6",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5f2f0d400ef32ea0"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴시스",
-   "title_en": "Against the backdrop of rising loan interest rates... Bank additional interest rate higher than 3% base interest rate",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWSmZSdC12TmJoaVBLVWhpT3JzQUhScTFYemtxRldDNHp6TXNlNEY4N2NEbFdrWmxxcWRXSmQ5ZExMZzF4Q0dXc0o4b3FaX1h4dHNySERTTDdFNThWOS1uc9IBeEFVX3lxTE94aTAtUmN6MG5iSzFrSnJGb2x4UndQUHBZUkw3eFpNTWlOYjNnOTBuR09ZbkFHQlFnclJKcm5mckNPU05yZFVydUxVSUdUNnh1NXg4elNHNzZudUkza05BRDc4RmttTHBhcHhTQ1pZOTNJYjBfNGZONQ?oc=5",
-   "published_utc": "2026-08-31T01:15:36+00:00",
-   "title_original": "뛰는 대출금리 배경에…3% 기준금리보다 더 높은 은행 가산금리",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "11d1563b1b82c658"
   },
   {
    "source_id": "gn_jp_investing",
@@ -4043,57 +2408,6 @@
    "id": "93d5dd66737391f2"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "MBC 뉴스",
-   "title_en": "[Economy in the News] Base interest rate returns to 3%, unusual continuous increase",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XRHFfZEF1MThUazZ4MXhzdm9BbUlpNm8xX3NjV19SRjlXSGR5M05ocHhTX1JtalNEcmVmYzVTYW5vQkNsMU9yY29na0NrMU1jSFI1cm5EUUt1Qm5xWjcteFRwZFFFdU1ya3lyN2twam9ZcWlHeTRuVnhB0gF6QVVfeXFMTThHQllWbmdiSkdtZVhsY3pmS1ZkNzFlUHc4SjRWa3ZyMTRoY3J0ZTIwb1drdXlPMk1wU3huUGtraTFNWUR1bWxySUVzVlZSamlNVUhzbkttcDdPUlZ2RTRiSm1wblVHVmI4X2x1ajdhUkduZG9PRGdWUmc?oc=5",
-   "published_utc": "2026-08-30T22:44:19+00:00",
-   "title_original": "[뉴스 속 경제] 3% 복귀한 기준금리‥이례적 연속 인상",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b3f961fedbc7def5"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴시스",
-   "title_en": "The reason why the Bank of Korea raised the benchmark interest rate for the second consecutive time [I don't know about gold]",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GektKS2ZDWjFVWUliOU1UYTJrblNHVmcwNEFKMDNKMEYzdEFUY1Z4ZUlFZ1V6SXB6NXU4a2V2Rzc3T3NGNHl2bmkwR2drMFpITm55MDFBbHZjeTBDWC1UX9IBeEFVX3lxTE9YRV9Dd1JvdHdWWDNOeGdvWUN4c1BJcFpoMEVnVGVQenpIN3ZpWTE1ZWVRREUyU1ZTSTdSbEZvU2NNazFKTW5LQ0JLQjVvR0l0X29fSGdSLXdhQXcya25QdkNldWpTMDIxWUJCNnF6ZDV6OVREQlp2cA?oc=5",
-   "published_utc": "2026-08-30T21:00:00+00:00",
-   "title_original": "한국은행이 기준금리 2연속 올린 배경은[금알못]",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0b40b2c78bfe9ab9"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Reuters: Bessent expects BOJ to 'do the right thing'",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FWF9FVmF4WFpLNExSNEk0M1QwLU5QX2JwYUJtZHZvTUFkVUhweC1NNGs1WF94RHNZWFFaUW5HYlBSdlJtTlhKRlpBUkhTd0dGdGhwbVBmbWhaR21TMm9MRG53?oc=5",
-   "published_utc": "2026-08-30T17:45:00+00:00",
-   "title_original": "Reuters: Bessent expects BOJ to 'do the right thing'",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d36fd860a00f1bca"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "US Treasury’s Bessent warns yen volatility risks spillover to global markets",
@@ -4111,40 +2425,6 @@
    "id": "5b1e84db2c8de108"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Bessent says disorderly yen moves can destabilize global markets",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHBpa0Q1ZFFoeUswNkhnRWtLZEdNVmpSNU5Qd19FY2ZseVEtLTJNQ0J4SVNLUU83RDRWa0VyWWlhQlNUdXoxMldCa0VTXzlhZllsbnh6LXVPbDNSYW1rVmFyY0VNRHljVUlPZGR2MTFZTWotZ0drc2hoNHJJTDZzVEpUZW9ieEt2Ny15QmktV0l0MWx1Rnd4Y00xc2pIQ0FLZkxtdzlkUTZXMDYxOVBXX3lrMUtpN0d6?oc=5",
-   "published_utc": "2026-08-29T16:47:43+00:00",
-   "title_original": "Bessent says disorderly yen moves can destabilize global markets",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bb6c8644e35fa73e"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "YTN",
-   "title_en": "Will interest rates rise due to the base interest rate increase? Interest burden also increases",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVbWFwUDNZNUNLcXpvQlZ3R0NXZWY4SDUydFI2NHVfbTlfNWd5WTk5cXQxbkFPMUlkQjFOa2RZajRYekUyMlJUWUdYWHg1dVYyRU5jSmVDbDlxMTI4VFRtajg1RWlwajVad2tPZVRoMA?oc=5",
-   "published_utc": "2026-08-29T13:20:00+00:00",
-   "title_original": "기준금리 인상에 주담대 오르나...이자 부담도 커져",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "555a1d4a5b776385"
-  },
-  {
    "source_id": "gn_tw_focus",
    "source_name": "Focus Taiwan",
    "title_en": "Taiwan should review past U.S. export control listings: Think tank",
@@ -4160,40 +2440,6 @@
    "live_wire": false,
    "manual": false,
    "id": "57d506c0813fec38"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제",
-   "title_en": "“Now we are in the era of 3% base interest rate”... Debt invested in stocks, young ants ‘scream’",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ySnlFM0YtR2g4QkhEWlV3XzBrTGZkNXYzN3dBX09HaVA2c0hBZTJueFhQTjdDRXROV05OQmt1Qmpnd0Rob0FNVklaczY1Vk1ORkE?oc=5",
-   "published_utc": "2026-08-29T04:16:11+00:00",
-   "title_original": "“이젠 기준금리 3%시대”…주식에 빚투·영끌 개미들 ‘비명’",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "365a2c44c57d44f1"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "China needs 600% child subsidy rise to prevent deeper birth crisis: scholars",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWXAxSjVQYXhXSkNmNGlwQkEteHZ5M2tQcnJrTnNEREl2bVRTUFY2Nmc1UTNRQ1FsTHFvU3FPWkFUV3gwRjdKT2xsdnl2VEFQaVFRMDRJWXItUGxuTWN1eUdnbTlzQXNacm1yeU00enNrTDJRM1Z3alN0MUYwV0lsdzYxTlJrRzRfNjFYOEFqa0VZYTZ1VmE4c1dCSHhZcG9STUtnQ0hpYkNQeFFtTG45UzNEdktGMXFWTVdqNlY5Q3hLSkRuejdDd2dB0gHKAUFVX3lxTE0yZXRNZU5LekNRcXItMXNGZTYtR2Vwc0UwVE5ibXFkcGt2ZGhKZEZublpTNFphbW9YLS1QQVByUDhHbTBndF9VbHI4S2o5aDQyTll1R3VqOVlMbThpdm90RklQTFFEZ0NiRVVON1BMMTlNUWNDMHJDWTJYQ2xpTDZBYXh2OE5Zb01vYkdWYmxZbXpDbnB6UkJMckV6SWlwOEVqZmwxSXQxdU9NN0RrLVFYS0dDZlloMlpLa1RvaFhqX0dDejF3NW9hc2c?oc=5",
-   "published_utc": "2026-08-29T02:00:09+00:00",
-   "title_original": "China needs 600% child subsidy rise to prevent deeper birth crisis: scholars",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8603ab73d514366f"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -4230,74 +2476,6 @@
    "id": "fcff9b273c16e665"
   },
   {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korea’s state fund bets $160 mn on cinema tech developer to counter global streaming threat",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QVUZjZzI3SXE5Y05OSE9WZEZLU3BKMGU3N0pFWXY2UGhrR1hhc01SQzRkdFlTb1Bld2xXeVRQR3Axd0xNU0s3YUUtbW9JcmJSckZGbGotNEoxZUh1QTVIQ2NwcndNLTJXb3RRRHVRbnJmd2sySFRocE5R?oc=5",
-   "published_utc": "2026-08-28T13:32:00+00:00",
-   "title_original": "S.Korea’s state fund bets $160 mn on cinema tech developer to counter global streaming threat",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf7cccbe145afa54"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "UN refugee agency scales back posts and budget for 2027, documents show",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWtFc01lWWhZVGlqMFEwQ0JNb2QtRGJXN2VaQ3NtUHpQSW9LdG50dFcwTXEyT2dUMHM4bWpaWkFJd01ZQlAzZmt3cnR0YlZuNk1uOXhGUXhjSkFrWGU3ZmxWclVOYVhhSVFvdjR1Rjg5LXVxTU1maFFPei1ueTBDbmZQTlA2QWZwVmdsVXFvWmhDeHFFanZoVlY0VEtodTd5VzU4REVuWVV4b1hIR291bQ?oc=5",
-   "published_utc": "2026-08-28T12:08:14+00:00",
-   "title_original": "UN refugee agency scales back posts and budget for 2027, documents show",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ab974bb658e9fdec"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Chart of the Day: China’s AI Chipmakers Are Turning Self-Reliance Into Sales",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1J0dDJhSWtEQUpzaFQ3OFAtb05FTFItZUpKUFQ5M05nNzFCSG5sc2l0amdlM0dRa1JmREpQZXVyTllGWnY3Z0pHenhudkhjTDdjN08tcGd3UUZ6bC15bk5kX2RiM2x1Y0RRS2tvOXo4R3RrQTJiVVVCQmJ4d3AySDVQV0w2TmZoUVBzZ3lLRm1mWWMxN2htQkc0Y282ZzNNdV9mUTRNM1VxbkY5QzVmUnktWHdGQmFUNkdIdFRseGpZS3RRLWs4MQ?oc=5",
-   "published_utc": "2026-08-28T11:22:00+00:00",
-   "title_original": "Chart of the Day: China’s AI Chipmakers Are Turning Self-Reliance Into Sales",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5452235f2c90a54f"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan spent record $96.5 billion to support yen over past month, ministry data shows",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb2g5MFFMM3ByaEYxQkEyZ1JCUTBkdTdkLXlxT2FrOVgyYUMzZlZYcmc0dXlJc0VJUWYzejZ2Ql93REdibHdmNGxDZUREUUxUbW5uUktJN1JBUXg0d1pRUGRCdldpUmNOVGpLUGlQTDZpbkNKNnF2enhYSC1mN2xBbEh0YWRrckFaSlptQmVsNDkzcmZtQjEwUEhsNmJrN2xySVNxbnpDeVZoRDdsX3U5NFUtSVUwTU9FTHZSSkM2b3hHRDJ6X0FkZVRTbHNHZw?oc=5",
-   "published_utc": "2026-08-28T10:49:43+00:00",
-   "title_original": "Japan spent record $96.5 billion to support yen over past month, ministry data shows",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "078e282984e41acc"
-  },
-  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "(BOJ Review) Expanding and Revising the Application of Hedonic Quality Adjustment in the Corporate Goods Price Index",
@@ -4314,59 +2492,6 @@
    "live_wire": false,
    "manual": false,
    "id": "619168321a155dee"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Tokyo core inflation creeps near BOJ's target, bolsters rate-hike chance",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMC1PTzRIcnE2U1FUSjBMenoxMmFFbmNzTVAxWDFFVjVFd3RxNWIyTFlqckZ1RGJZNGtqemJOXzhPNFF1U3VucEtEOVRrc1RTWUctV0RHNWRsZHVnRGducmNlSkpWT0szR2RTLUtqMVJadDNGU2E1dXF4Z05PRkI2dW9qM25fT1kybGFYd1lsS01nbGFCNHV4SHlSX1RxX2hoanE3dW5iU2ZzdzdnWU1QWA?oc=5",
-   "published_utc": "2026-08-27T23:45:00+00:00",
-   "title_original": "Tokyo core inflation creeps near BOJ's target, bolsters rate-hike chance",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7e4d867b5c25b1a"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGFaaDN4azFXVkpsOXY3T3VNbk9KOEdHQ2xqN1R4aGxVMWtnUERCWE0yN0pDRWhVNDUwTG1aekxQTEk0X2taY09ZN1JGTXNHNUMyR1Q2SmY5TEhOYVBHVzVSTTltVnRoeDhoem9vXzNZTjI5Q0NHWjBZU3Z3MDF3YTNnZ0pvOS1vRHUyQ1gxQ3NXdXhyeENEeXFlUWU3X0lCWG9UakIyUVVqaEs5NkRsemxJUnNDVHJwV21fZ2N3VUpuTUhTMnA3Rw?oc=5",
-   "published_utc": "2026-08-27T07:00:00+00:00",
-   "title_original": "SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f3b6ba344bf57bbc"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "ft.com",
-   "title_en": "South Korea raises interest rates to 3% to tame AI-fuelled inflation",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1pQT3RwV3phUlAwLVNMQlJHT3lzXzY5OXBQOGNYOXNsVlQ1TVVGSWktTUIzRHJhdGZaSTAwNnhSc3BVckp3eXdjTUUtQUY5YU54cXoyZlVnaDgxWVl5TzVGZXNJMHRPLVZNMUpTV0FpWmZxMDE0eDNzZ2F4QU1tRXNOaVM?oc=5",
-   "published_utc": "2026-08-27T07:00:00+00:00",
-   "title_original": "South Korea raises interest rates to 3% to tame AI-fuelled inflation",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0eb3635d58fadb37"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4456,23 +2581,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6f56d02af23e59d2"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix jump on Nvidia earnings beat",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01TmVXWVYtdUlGVkR2ekw5UmxpckptTFd0ODg1R0RnRHRFV0U4aVBsTS1kRlF6M3hQZkprWEd2engwWEZ4Uzl2Ry1pQXpoZXo3WHV0TzQzZw?oc=5",
-   "published_utc": "2026-08-27T02:06:09+00:00",
-   "title_original": "Samsung Electronics, SK hynix jump on Nvidia earnings beat",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "236a0fd2bb946df9"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4619,58 +2727,6 @@
    "id": "70e456d0fc2fda2a"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Japan govt. to help farmers, fishers cope with consumption tax cut",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6d1ZtRlBJeHpYXzhKeHNpODNwUE9sRDJ2VmR1TlowS1ZZUkc2RGFuZ3JabzNvT05YM2FTeGJ3Wm9ZWEhWYktVMTF6TUhKRVhDMW1iTi1Kdk0tY25FM2lGeTdB?oc=5",
-   "published_utc": "2026-08-26T12:27:32+00:00",
-   "title_original": "Japan govt. to help farmers, fishers cope with consumption tax cut",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "63d59722666b6ba1"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXhDWEMzc0kyQXE3R1o2WEtWc2taeXZQRWQtamJhdm42elI5VThLOURmRlRtMm12QVFiRHhSUlh1MVRKVEh1TDdxdGd1ZDluejFxd0lOYS0yQVluQ0p6QURhak9PeTRfNXFTZEgzTkxLbUVZWmt1N1BsdVRYdDhuT2tBT0N6dw?oc=5",
-   "published_utc": "2026-08-26T09:43:26+00:00",
-   "title_original": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "eaaeaa67f1bdfd9a"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "mk.co.kr",
-   "title_en": "Ministry of Finance and Economy ◇Min Kyung-shin △Strategic Economic Analysis Division Kim Hye-ryeon..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aQ0VMVjhGX2NIeVFTMl9tZEhWYk5idTlaUWstOWc0SWtwMnNnbTdvYXVZSk9kTERfSXdRQU9ZSmpGUHpieDN6N1JrMVF3QU9YWFE?oc=5",
-   "published_utc": "2026-08-26T08:11:56+00:00",
-   "title_original": "Ministry of Finance and Economy ◇Min Kyung-shin △Strategic Economic Analysis Division Kim Hye-ryeon..",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a7fdcc9c569ba027"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "S. Korean won gains slightly against U.S. dollar ahead of BOK's rate decision",
@@ -4774,23 +2830,6 @@
    "id": "7f18833b4b0aa06a"
   },
   {
-   "source_id": "gn_asia_ft",
-   "source_name": "ft.com",
-   "title_en": "China’s YMTC aims to overtake Samsung and SK Hynix in flash memory race",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVJ3UzA4Y1ZtV3hHd1RvX2ZiVTNFQXdsbXpiS1haSUtPcTdObTVLclcwSGU0ekV5bGYxVlBlNWVmckhIWW9haVpPMmsyY2NaWjF1Z3NaamZNUGtLTDh4VG5YczVLYnByV0x6QmJwTUZXdmtoc183VEd0enFpZjQ2eThaMGk?oc=5",
-   "published_utc": "2026-08-25T07:00:00+00:00",
-   "title_original": "China’s YMTC aims to overtake Samsung and SK Hynix in flash memory race",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e26998a633175275"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "4 watches worth 200 million yen stolen in smash-and-grab at Tokyo shop",
@@ -4823,24 +2862,6 @@
    "live_wire": false,
    "manual": false,
    "id": "549870a4319d8a4a"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "BOK Governor Shin heads to Jackson Hole after Thursday rate decision",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qMUFpdi05R0dwT2tXZnB5VzVmVFN5SEhkd1ZvNXRwRHZ6OXhqQmJfM1VtU05KdDkxbUNfRzZ2Z3JUQnNPYjFpVWtCTlFxWjhZbFFqQjF4OA?oc=5",
-   "published_utc": "2026-08-25T01:45:23+00:00",
-   "title_original": "BOK Governor Shin heads to Jackson Hole after Thursday rate decision",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "af6cfe26665c6382"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -4876,40 +2897,6 @@
    "live_wire": false,
    "manual": false,
    "id": "129b108bd1e0b977"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s Fiscal Revenue Surges as State Spending Stagnates",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPclBkR2oxdkNPMVdKYzlHTDU4RFNrYm03STh2M2FUNWhfdW1qOEtacTU0eUFSX3NYRkFMU0F4MnN0dTNoMlJNd1NNMk1HY3hZN2g5QVZfRFRTUVRCQk9DRHVhUndvUVM1T1NMZ1pjaDhRazZMZmdZdXJMNUJVak9JQkRva3lFd3FVUkFkZ1NON1NrNmZraGVWZWUyVzUwV3NuZUoyU21Fd3hpZWNxRHBxQg?oc=5",
-   "published_utc": "2026-08-24T07:00:00+00:00",
-   "title_original": "China’s Fiscal Revenue Surges as State Spending Stagnates",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8665b941585a4c75"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan semiconductor materials hit golden opportunity",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVZIVXpTenJXVFI5dHJDYm5uei03M1YybjE4Smt3dGlEVFNiU2MxdFdPdXRqdU9xaXZWVlVhNmZBbkNsdDJTQ0p6alQ2bTJVa1E4bEZNSXNyOHJnM2lRSmMzQWxmQlpNUU8xWmV0MjR1U0pKb1dqZ0NIVlhpX0dDWmZqZmJnVVUzY3Y3ZG94Q2N0UlVIWnR2SDJaVE5fOHRW?oc=5",
-   "published_utc": "2026-08-24T07:00:00+00:00",
-   "title_original": "Taiwan semiconductor materials hit golden opportunity",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a1465ffacb39d56"
   },
   {
    "source_id": "boj_whatsnew",
@@ -4998,6 +2985,23 @@
    "id": "7627169be16d77b8"
   },
   {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "Consumer confidence dips despite GDP growth",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jUXkxdFNSVWdwOUFlZGV0RDIxVDBCdm0ydngyalZCVGtMdG9yMVEtWVZLR0JoZ3RtWFk2dWh3bGdVY2lScnlZNkxXM3ZCMnpqaVd2Y1RRN0oxb25qek5wOElCc2duTmg4bjdpejBxWmYzSmNXOXc?oc=5",
+   "published_utc": "2026-08-21T07:00:00+00:00",
+   "title_original": "Consumer confidence dips despite GDP growth",
+   "region": "taiwan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "56badfef9232ee41"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "New BOK senior deputy gov. calls for prudent, flexible monetary policy",
@@ -5050,59 +3054,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d9832407f652fa49"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Taiwan proposes record defense spending for 2027",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MSmlBX3plSUhVOGlZZmd3QXBXSUl0RkgzRmYtcWFiNDRoMGc1Q3BSSFJleWctLUI5aFk3Vmtob3VoWV9sbjdhekRMemJWdl9jNkdrUUs0TlNFYlpoaWR1TWhR?oc=5",
-   "published_utc": "2026-08-20T07:00:00+00:00",
-   "title_original": "Taiwan proposes record defense spending for 2027",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b4c923df2a3e0df0"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China Revamps $1.5 Trillion Housing Fund to Unlock Savings, Boost Consumption",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd3E3b0JYZVpwNlVqNWVYNnBramN3QzROel9RNkpIcDkyV3BUXy00LWNVcmJjYlc4ZXNTY0ZiUU5mLTBHZ1V6bUpJSUhTalJnUGZwQ0FXYXVmZjRTLU13OVRKMmhpaUtlTXNELWdEZlB5WVVpc1JnLTVfUERlTV9VREIxTnJyeW1ycVV0djJsamU4bUpfMGFRZ3ZZdGcwR082LWI2NlRxMG82UFFPMHVTTm1aZkdiTzFRTW1OVlJOeERkRU9KZnpYaw?oc=5",
-   "published_utc": "2026-08-19T07:00:00+00:00",
-   "title_original": "China Revamps $1.5 Trillion Housing Fund to Unlock Savings, Boost Consumption",
-   "region": "china",
-   "topics": [
-    "activity",
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "53aacf4225cc0281"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Japan's Defense Ministry eyes record 9 trillion yen budget for fiscal 2027",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yVTctZHdueEh0VXpnQzdlS3pLRzVQOWdHNGpMYnVxWEE0SllnV0lsRm4xU21RZEl0b3RsbVJCWmYzTktNdUVndmFGcDZ0Z0tmcHlxakkzZXkyTXdZdm9ZSktB?oc=5",
-   "published_utc": "2026-08-19T07:00:00+00:00",
-   "title_original": "Japan's Defense Ministry eyes record 9 trillion yen budget for fiscal 2027",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d5e39dd496181302"
   },
   {
    "source_id": "ked_global",
@@ -5473,8 +3424,8 @@
    "id": "4af1daafc1760c1d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "We ask Finance Minister Katayama, who holds the key to reducing the consumption tax on food products",
    "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199621000.html",
    "published_utc": "2026-08-07T12:57:08+00:00",
@@ -5489,7 +3440,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "921501cf4044e354"
+   "id": "5e4be4703212b5da"
   },
   {
    "source_id": "manual_ia",
@@ -5544,8 +3495,8 @@
    "id": "34646628821fcb2b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "June economic trend index rises; economic outlook remains ``improved'' Cabinet Office",
    "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199331000.html",
    "published_utc": "2026-08-07T08:55:53+00:00",
@@ -5559,7 +3510,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f4cb3d1990757e57"
+   "id": "b01b2e568f7c5d29"
   },
   {
    "source_id": "nhk_economy",
@@ -5752,24 +3703,6 @@
    "id": "c60d5af57f651f15"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Japan govt. approves 2-year food consumption tax cut to 1%",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kXzd3NER2SlBzdHlBZV8wdmxScEpka0xHUW1JUkJ0ZHVBemdUZ01SX2pYSHltUWVuQ1dxMy1SRG5JN1pOMFhFRWE3X01GeHlsVk9GMUJ1TmxXUTVVOXl6TEt3?oc=5",
-   "published_utc": "2026-08-06T07:00:00+00:00",
-   "title_original": "Japan govt. approves 2-year food consumption tax cut to 1%",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f511764880fa4947"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Stock prices fall Sell orders centered on semiconductor-related stocks",
@@ -5930,8 +3863,8 @@
    "id": "d6511a648497d3c5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi says it is possible to achieve both a strong economy and fiscal sustainability",
    "url": "http://www3.nhk.or.jp/news/html/20260805/k10015197231000.html",
    "published_utc": "2026-08-05T06:21:29+00:00",
@@ -5944,7 +3877,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "01564c392bcda51e"
+   "id": "6a34b4bb606d05db"
   },
   {
    "source_id": "nhk_politics",
@@ -6369,41 +4302,6 @@
    "live_wire": false,
    "manual": true,
    "id": "ad74568d39a0da47"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "PM Takaichi aims to cut consumption tax on food to 1% from April",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yMF9VZHp5b3pTZmgtTTJQd2V2WkNSLUpLamYtNmJVMjRBZVNCclBlZVhxU2ZRWkwwRzN5dEJkb2hiTFZpQ2xVazlyN3dZaFlSVFYyeW11LTVBOVUwSXNDdFhR?oc=5",
-   "published_utc": "2026-07-30T07:00:00+00:00",
-   "title_original": "PM Takaichi aims to cut consumption tax on food to 1% from April",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b697c7c459e14c08"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Japan trims current FY GDP growth outlook to 0.9%",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10N3ZDZXo3MTdLYzREeGMzY21CQ3RNTGk3N2E5NXN2OGRfeFRKLXNLQmFvTHJWVVlNdy1xUGpvVmwtazJpQjBjVi14MFBYWHd5TS1TdTFfbzZtTFBLY2lMN05B?oc=5",
-   "published_utc": "2026-07-29T07:00:00+00:00",
-   "title_original": "Japan trims current FY GDP growth outlook to 0.9%",
-   "region": "japan",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "119e20572314d079"
   },
   {
    "source_id": "manual_ia",
