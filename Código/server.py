@@ -26,7 +26,7 @@ import sys
 import threading
 import time
 import webbrowser
-from datetime import datetime
+from datetime import datetime, timezone
 from functools import partial
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -42,6 +42,12 @@ HOME_FILE = "Monitor de Notícias Macro.html"
 HOME_PAGE = "/" + quote(HOME_FILE)
 
 FETCH_TIMEOUT = 420   # a primeira coleta pode passar de 3 min
+# Idade máxima do feed que o git pull trouxe para ele valer como fresco.
+# Acima disso o GitHub Actions parou (cron atrasado, workflow desabilitado,
+# repositório sem créditos) e vale gastar os ~90s de uma raspagem local —
+# sem isto, um pull que dá "nada novo" a cada 10 min mascarava o Actions
+# parado por horas e o Mac nunca coletava sozinho.
+FEED_FRESCO_MIN = 25
 PROMPT_TIMEOUT = 60
 MIN_INTERVAL = 60     # piso de segurança para o laço automático
 PIDFILE = ROOT / "Cache" / "monitor.pid"
@@ -52,6 +58,53 @@ _fetch_lock = threading.Lock()
 
 # Preenchido em main(). O botão Desligar precisa da instância para encerrar.
 _servidor = None
+
+
+def _ler_feed() -> dict:
+    """Lê o feed do disco. Nunca levanta."""
+    try:
+        return json.loads(FEED_PATH.read_text("utf-8"))
+    except (json.JSONDecodeError, OSError, ValueError):
+        return {}
+
+
+def _idade_feed_min(feed: dict | None = None) -> float:
+    """Minutos desde a última coleta que de fato alcançou as fontes.
+
+    Usa generated_at_utc, que o fetcher só avança quando a coleta foi boa;
+    numa coleta degradada ele fica parado e a idade aqui cresce, que é
+    exatamente o sinal de que precisamos tentar de novo."""
+    feed = _ler_feed() if feed is None else feed
+    marca = feed.get("generated_at_utc")
+    if not marca:
+        return float("inf")
+    try:
+        dt = datetime.fromisoformat(marca)
+    except ValueError:
+        return float("inf")
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return (datetime.now(timezone.utc) - dt).total_seconds() / 60
+
+
+def _renderizar() -> tuple[bool, str]:
+    """Regera o HTML a partir do feed.json em disco.
+
+    Roda em subprocesso de propósito: importar render_html aqui dentro
+    congelava o template na versão carregada no boot, então toda correção
+    no painel vinda de um git pull só aparecia depois de reiniciar o
+    monitor. Em subprocesso, o código novo vale na hora."""
+    try:
+        proc = subprocess.run(
+            [sys.executable, str(CODE / "render_html.py")],
+            cwd=str(CODE), capture_output=True, text=True, timeout=60,
+        )
+    except Exception as exc:
+        return False, f"{type(exc).__name__}: {exc}"
+    if proc.returncode != 0:
+        linhas = (proc.stderr or proc.stdout or "").strip().splitlines()
+        return False, linhas[-1] if linhas else "render falhou"
+    return True, "html regerado"
 
 
 def _rodar_fetcher(timeout: int = FETCH_TIMEOUT) -> tuple[bool, str]:
@@ -74,8 +127,30 @@ def _rodar_fetcher(timeout: int = FETCH_TIMEOUT) -> tuple[bool, str]:
         linhas = (proc.stderr or proc.stdout or "").strip().splitlines()
         return False, linhas[-1] if linhas else "o fetcher falhou"
 
-    resumo = [ln for ln in (proc.stdout or "").splitlines() if ln.startswith("✓")]
-    return True, resumo[-1] if resumo else "coleta concluída"
+    linhas = (proc.stdout or "").splitlines()
+    aviso = [ln for ln in linhas if ln.startswith("⚠")]
+    resumo = [ln for ln in linhas if ln.startswith("✓")]
+    msg = resumo[-1] if resumo else "coleta concluída"
+    if aviso:
+        msg = f"{aviso[-1].strip()} | {msg.strip()}"
+    return True, msg
+
+
+# Arquivos que o próprio monitor regrava a cada coleta (local ou via GitHub
+# Actions). Nunca são editados à mão, então descartar a versão local deles
+# antes de um pull é seguro — é só abrir espaço pro que o Actions coletou.
+_GERADOS = ("Cache/feed.json", "Cache/translation_cache.json",
+            "Cache/first_seen_cache.json", HOME_FILE)
+
+
+def _head() -> str:
+    """SHA do commit atual, ou string vazia se nem isso der."""
+    try:
+        proc = subprocess.run(["git", "rev-parse", "HEAD"], cwd=str(ROOT),
+                              capture_output=True, text=True, timeout=10)
+    except Exception:
+        return ""
+    return (proc.stdout or "").strip() if proc.returncode == 0 else ""
 
 
 def _git_pull() -> tuple[bool, str]:
@@ -90,20 +165,53 @@ def _git_pull() -> tuple[bool, str]:
     """
     if not (ROOT / ".git").exists():
         return False, "pasta não é um repositório git"
-    try:
-        proc = subprocess.run(
-            ["git", "pull", "--ff-only", "--quiet"],
-            cwd=str(ROOT), capture_output=True, text=True, timeout=30,
-        )
-    except subprocess.TimeoutExpired:
-        return False, "git pull demorou demais (sem internet?)"
-    except Exception as exc:
-        return False, f"{type(exc).__name__}: {exc}"
 
-    if proc.returncode != 0:
+    antes = _head()
+
+    def puxar():
+        try:
+            proc = subprocess.run(
+                ["git", "pull", "--ff-only", "--quiet"],
+                cwd=str(ROOT), capture_output=True, text=True, timeout=30,
+            )
+        except subprocess.TimeoutExpired:
+            return None, "git pull demorou demais (sem internet?)"
+        except Exception as exc:
+            return None, f"{type(exc).__name__}: {exc}"
+        if proc.returncode == 0:
+            return True, ""
         linhas = (proc.stderr or proc.stdout or "").strip().splitlines()
         return False, linhas[-1] if linhas else "git pull falhou"
-    return True, (proc.stdout or "").strip() or "já estava atualizado"
+
+    ok, erro = puxar()
+
+    # O `git pull --ff-only` trava pra sempre se ninguém limpar a árvore: o
+    # próprio monitor reescreve feed.json e o HTML a cada coleta, o que suja
+    # a árvore, o que faz o `--ff-only` seguinte recusar rodar por mudança
+    # local não commitada — um ciclo que não se resolve sozinho. Descartar os
+    # arquivos gerados quebra o ciclo sem risco para edição manual de verdade
+    # (manual_additions.json fica de fora de propósito).
+    #
+    # Mas só depois de o pull falhar, e não antes dele como era: quando não há
+    # commit novo no GitHub, o descarte de antes jogava fora a coleta local
+    # recém-feita e devolvia o feed commitado, mais velho. Com o Actions em
+    # cadência baixa, isso era a coleta local sendo desfeita a cada 10 min.
+    if ok is False:
+        subprocess.run(["git", "checkout", "--", *_GERADOS],
+                       cwd=str(ROOT), capture_output=True, text=True, timeout=15)
+        ok, erro = puxar()
+
+    if not ok:
+        return False, erro
+
+    # Com --quiet o stdout vem vazio tanto quando trouxe commit novo quanto
+    # quando não trouxe, e o log dizia "já estava atualizado" para sempre —
+    # inclusive nas horas em que o Actions estava parado. Comparar o HEAD
+    # antes e depois é o único jeito honesto de saber.
+    depois = _head()
+    if antes and depois and antes != depois:
+        return True, "coleta nova do GitHub"
+    return True, "nada novo no GitHub"
 
 
 def _atualizar(timeout: int = FETCH_TIMEOUT) -> tuple[bool, str]:
@@ -112,14 +220,16 @@ def _atualizar(timeout: int = FETCH_TIMEOUT) -> tuple[bool, str]:
     o monitor continua funcionando sozinho mesmo sem o GitHub Actions."""
     ok, msg = _git_pull()
     if ok:
-        try:
-            sys.path.insert(0, str(CODE))
-            import render_html  # import tardio: só pesa o boot de quem usa git
-            feed = json.loads(FEED_PATH.read_text("utf-8"))
-            render_html.render(feed, ROOT / HOME_FILE)
-        except Exception as exc:
-            return False, f"pull ok mas falhou ao renderizar: {exc}"
-        return True, f"git pull: {msg}"
+        ok_render, msg_render = _renderizar()
+        if not ok_render:
+            return False, f"pull ok mas falhou ao renderizar: {msg_render}"
+        idade = _idade_feed_min()
+        if idade <= FEED_FRESCO_MIN:
+            return True, f"git pull: {msg}"
+        # O repositório não tem coleta recente: o Actions parou. Raspa aqui.
+        ok_local, msg_local = _rodar_fetcher(timeout)
+        idade_txt = "?" if idade == float("inf") else f"{int(idade)} min"
+        return ok_local, f"{msg_local} (GitHub sem coleta há {idade_txt})"
     return _rodar_fetcher(timeout)
 
 
@@ -236,7 +346,12 @@ class Handler(SimpleHTTPRequestHandler):
                 self._json({"ok": False, "error": f"feed.json ilegível: {exc}"}, 500)
                 return
             self._json({"ok": True,
+                        "msg": msg,
                         "generated_at_utc": feed.get("generated_at_utc"),
+                        "collected_at_utc": feed.get("collected_at_utc"),
+                        "degraded": bool(feed.get("degraded")),
+                        "sources_ok": feed.get("sources_ok"),
+                        "sources_total": feed.get("sources_total"),
                         "count": feed.get("count", len(feed.get("items", []))),
                         "by_region": feed.get("by_region", {})})
         finally:

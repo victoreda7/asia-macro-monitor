@@ -39,6 +39,12 @@ SEEN_CACHE = CACHE / "first_seen_cache.json"
 MANUAL_PATH = CACHE / "manual_additions.json"
 HTML_PATH = ROOT / "Monitor de Notícias Macro.html"
 
+# Fração mínima de fontes respondendo para a coleta valer como boa. Abaixo
+# disso o problema é a rede desta máquina, não as fontes — e uma coleta
+# assim não pode passar por cima do que já estava bom no disco.
+MIN_FONTES_OK_RATIO = 0.25
+MIN_FONTES_OK_ABS = 3
+
 
 # ---------------------------------------------------------------------------
 # Data de primeira vista — para fontes sem pubDate
@@ -84,6 +90,49 @@ class SeenCache:
         tmp.write_text(json.dumps(self._data, ensure_ascii=False), "utf-8")
         tmp.replace(self.path)
         self._dirty = False
+
+
+# ---------------------------------------------------------------------------
+# Feed anterior — o feed é acumulativo, não uma fotografia
+# ---------------------------------------------------------------------------
+
+def carregar_feed_anterior() -> dict:
+    """Lê o feed.json que já está no disco. Nunca levanta: feed ilegível vira
+    dicionário vazio e a coleta segue."""
+    try:
+        return json.loads(FEED_PATH.read_text("utf-8"))
+    except (json.JSONDecodeError, OSError, ValueError):
+        return {}
+
+
+def itens_anteriores(feed: dict) -> list[NewsItem]:
+    """Reidrata os itens da coleta anterior — menos os curados à mão.
+
+    Cada coleta é uma fotografia rasa: RSS e Google News só mostram os
+    últimos itens, então o que saiu da janela sumia do feed mesmo tendo
+    poucas horas de vida. Somar o que já estava no disco faz de cada coleta
+    um acréscimo em vez de uma substituição — e é isso que impede que uma
+    coleta ruim (sem rede, fonte fora do ar) apague um feed bom.
+
+    Item curado à mão fica de fora de propósito: ele volta inteiro de
+    manual_additions.json a cada coleta, e reaproveitar a cópia antiga
+    ressuscitaria justamente o que o curador tirou do arquivo.
+    """
+    campos = NewsItem.__dataclass_fields__
+    saida: list[NewsItem] = []
+    for row in feed.get("items", []) or []:
+        if not isinstance(row, dict) or row.get("manual"):
+            continue
+        try:
+            item = NewsItem(**{k: v for k, v in row.items() if k in campos})
+        except (TypeError, ValueError):
+            continue
+        if item.region not in cfg.REGIONS:
+            continue
+        if filters.is_too_old(item.published_utc):
+            continue
+        saida.append(item)
+    return saida
 
 
 # ---------------------------------------------------------------------------
@@ -186,6 +235,13 @@ def run_once(include_live: bool = True, explain: bool = False, write: bool = Tru
     print(f"  {len(raw)} itens brutos de {len(statuses)} fontes "
           f"({sum(1 for s in statuses if not s.ok)} com problema)", flush=True)
 
+    # Medido aqui, antes de a marcação de "fonte parada" lá embaixo mexer no
+    # .ok: o que interessa neste ponto é quantas fontes a máquina conseguiu
+    # alcançar de fato. Zero significa rede caída, não 41 sites fora do ar.
+    responderam = sum(1 for s in statuses if s.ok)
+    minimo_ok = max(MIN_FONTES_OK_ABS, int(len(statuses) * MIN_FONTES_OK_RATIO))
+    degradada = responderam < minimo_ok
+
     kept: list[NewsItem] = []
     rejected = Counter()
     examples: dict[str, str] = {}
@@ -287,11 +343,30 @@ def run_once(include_live: bool = True, explain: bool = False, write: bool = Tru
                 it.topics = sorted(set(it.topics) | set(richer),
                                    key=cfg.TOPIC_ORDER.index)
 
-    merged = aplicar_tetos(filters.dedupe(kept + manual))
+    anterior = carregar_feed_anterior()
+    herdados = itens_anteriores(anterior)
+    if herdados:
+        print(f"→ acumulado: {len(herdados)} itens de coletas anteriores", flush=True)
+
+    # Ordem importa: o dedupe é estável e o item novo entra antes do herdado,
+    # então a versão recém-coletada vence a cópia velha dela.
+    merged = aplicar_tetos(filters.dedupe(kept + manual + herdados))
     by_region = Counter(i.region for i in merged)
 
+    agora_iso = datetime.now(timezone.utc).isoformat()
+    # generated_at_utc = última coleta que de fato alcançou as fontes. Numa
+    # coleta degradada ele fica parado no valor anterior de propósito: é o
+    # que faz o painel dizer "coleta há 5 h" em vez de "agora" com o feed
+    # velho na tela. A tentativa em si fica em collected_at_utc.
+    ultimo_bom = agora_iso if not degradada else (
+        anterior.get("generated_at_utc") or agora_iso)
+
     feed = {
-        "generated_at_utc": datetime.now(timezone.utc).isoformat(),
+        "generated_at_utc": ultimo_bom,
+        "collected_at_utc": agora_iso,
+        "degraded": degradada,
+        "sources_ok": responderam,
+        "sources_total": len(statuses),
         "count": len(merged),
         "by_region": {r: by_region.get(r, 0) for r in cfg.REGIONS},
         "elapsed_s": round(time.time() - started, 1),
@@ -308,6 +383,9 @@ def run_once(include_live: bool = True, explain: bool = False, write: bool = Tru
         print(f"→ gravado: {FEED_PATH.name} e {HTML_PATH.name}", flush=True)
 
     resumo = "  ".join(f"{cfg.REGION_FLAG[r]} {by_region.get(r,0)}" for r in cfg.REGIONS)
+    if degradada:
+        print(f"⚠ coleta incompleta: {responderam} de {len(statuses)} fontes responderam "
+              f"(rede caída?) — feed anterior preservado", flush=True)
     print(f"✓ {len(merged)} manchetes em {feed['elapsed_s']}s   {resumo}", flush=True)
     return feed
 

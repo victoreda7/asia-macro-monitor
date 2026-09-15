@@ -264,7 +264,11 @@ function renderChips(){
 function render(){
   renderFlags(); renderChips();
 
+  /* generated_at_utc = última coleta que alcançou as fontes; collected_at_utc =
+     última tentativa. Numa coleta sem rede as duas se separam, e é essa
+     diferença que o painel precisa mostrar em vez de fingir que está fresco. */
   var gen=FEED.generated_at_utc;
+  var tent=FEED.collected_at_utc||gen;
   document.getElementById("sub").innerHTML =
     "Japão · China · Taiwan · Coreia do Sul — última coleta <strong>"+esc(fmtFull(gen))+"</strong>";
 
@@ -276,19 +280,51 @@ function render(){
   document.getElementById("status").innerHTML=
     '<span class="dot '+cls+'"></span><span>'+rows.length+" de "+items().length+" manchetes</span>"+
     "<span>·</span><span>coleta há "+esc(ago(gen))+"</span>"+
+    (FEED.degraded?'<span>·</span><span style="color:var(--err)">tentativa de '+esc(ago(tent))+" atrás não alcançou as fontes</span>":"")+
     (bad?'<span>·</span><span style="color:var(--err)">'+bad+" fonte"+(bad>1?"s":"")+" com problema</span>":"");
 
-  document.getElementById("banner").innerHTML = canRunPanel() ? "" :
-    '<div class="note warn">Aberto como arquivo local: os botões só releem o que está em disco. '+
-    "Para buscar na web, feche esta aba e dê duplo-clique em <strong>Abrir Monitor.command</strong>.</div>";
+  var avisos=[];
+  if(FEED.degraded){
+    avisos.push('<div class="note warn"><strong>A última tentativa de coleta não alcançou as fontes</strong> — '+
+      (FEED.sources_ok||0)+" de "+(FEED.sources_total||0)+" responderam"+
+      (tent?" (tentativa de "+esc(fmtFull(tent))+")":"")+
+      ". Quase sempre é rede desta máquina: VPN, DNS ou Wi-Fi. "+
+      "As manchetes abaixo são da última coleta boa, de "+esc(fmtFull(gen))+
+      " — nada foi perdido, e a próxima coleta que funcionar volta a somar.</div>");
+  }
+  if(!canRunPanel()){
+    avisos.push('<div class="note warn">Aberto como arquivo local: os botões só releem o que está em disco. '+
+      "Para buscar na web, feche esta aba e dê duplo-clique em <strong>Abrir Monitor.command</strong>.</div>");
+  }
+  document.getElementById("banner").innerHTML = avisos.join("");
 
   var list=document.getElementById("list");
   if(!rows.length){
-    list.innerHTML = items().length
-      ? '<div class="empty">Nada com esses filtros. Tente ampliar o período.</div>'
-      : '<div class="empty"><strong>Nenhuma coleta ainda.</strong><br><br>'+
+    if(!items().length){
+      list.innerHTML='<div class="empty"><strong>Nenhuma coleta ainda.</strong><br><br>'+
         'Feche esta aba e dê duplo-clique em <strong>Abrir Monitor.command</strong>, '+
         'na pasta do projeto.<br>A primeira coleta leva de 1 a 3 minutos.</div>';
+      return;
+    }
+    /* "Nada com esses filtros" sozinho não diz se o filtro está apertado ou se
+       a coleta parou — e essas duas situações pedem ações opostas. Dizer a
+       idade da manchete mais nova resolve a dúvida em uma linha. */
+    var maisNova=null, tMax=-Infinity;
+    items().forEach(function(i){
+      var t=new Date(i.published_utc).getTime();
+      if(!isNaN(t) && t>tMax){ tMax=t; maisNova=i.published_utc; }
+    });
+    list.innerHTML='<div class="empty"><strong>Nada dentro destes filtros.</strong><br><br>'+
+      (maisNova?"A manchete mais recente do feed é de "+esc(ago(maisNova))+
+                " atrás ("+esc(fmtFull(maisNova))+").<br>":"")+
+      "O feed inteiro tem "+items().length+' manchetes.<br><br>'+
+      '<button id="verTudo">Limpar filtros e ver tudo</button></div>';
+    var vt=document.getElementById("verTudo");
+    if(vt) vt.addEventListener("click",function(){
+      filt.period="all"; filt.topic=[]; filt.q=""; filt.region="all";
+      document.getElementById("q").value="";
+      save(); render();
+    });
     return;
   }
 
@@ -387,7 +423,14 @@ document.getElementById("btnRefresh").addEventListener("click",async function(){
       headers:{"Content-Type":"application/json"},body:"{}"});
     var d=await r.json();
     clearInterval(tick);
-    if(d.ok){
+    if(d.ok && d.degraded){
+      /* a coleta rodou mas não alcançou nada: dizer "✓ N no feed" aqui foi o
+         que fez parecer que as notícias tinham sumido sem motivo */
+      await reloadFeed();
+      b.textContent="⚠ sem fontes";
+      toast("A coleta não alcançou as fontes ("+(d.sources_ok||0)+" de "+
+            (d.sources_total||0)+" responderam). O feed anterior foi mantido.",8000);
+    }else if(d.ok){
       var antes=items().length;
       await reloadFeed();
       var novas=items().length-antes;
@@ -498,3 +541,27 @@ def render(feed: dict, out_path: Path) -> Path:
     tmp.write_text(html, "utf-8")
     tmp.replace(out_path)
     return out_path
+
+
+def main() -> int:
+    """`python3 render_html.py` regera o HTML a partir do Cache/feed.json.
+
+    Existe para o server.py poder renderizar em subprocesso: importando o
+    módulo, o template ficava congelado na versão carregada no boot e uma
+    correção do painel vinda do GitHub só aparecia depois de reiniciar o
+    monitor.
+    """
+    raiz = Path(__file__).resolve().parent.parent
+    feed_path = raiz / "Cache" / "feed.json"
+    try:
+        feed = json.loads(feed_path.read_text("utf-8"))
+    except (json.JSONDecodeError, OSError) as exc:
+        print(f"! não consegui ler {feed_path.name}: {exc}")
+        return 1
+    saida = render(feed, raiz / "Monitor de Notícias Macro.html")
+    print(f"→ {saida.name} regerado com {len(feed.get('items', []))} manchetes")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
