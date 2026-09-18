@@ -1,73 +1,241 @@
 {
- "generated_at_utc": "2026-09-18T05:08:26.832823+00:00",
- "collected_at_utc": "2026-09-18T05:08:26.832823+00:00",
+ "generated_at_utc": "2026-09-18T09:42:25.861804+00:00",
+ "collected_at_utc": "2026-09-18T09:42:25.861804+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 15,
  "sources_total": 41,
  "count": 420,
  "by_region": {
-  "japan": 180,
-  "china": 95,
-  "taiwan": 39,
-  "korea": 106
+  "japan": 179,
+  "china": 97,
+  "taiwan": 40,
+  "korea": 104
  },
- "elapsed_s": 38.3,
+ "elapsed_s": 188.9,
  "sources": [
-  {
-   "source_id": "boj_whatsnew",
-   "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 46,
-   "error": "",
-   "newest": "2026-09-18T12:40:00+09:00"
-  },
   {
    "source_id": "gn_asia_bloomberg",
    "name": "Bloomberg Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T04:06:00+00:00"
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
   },
   {
    "source_id": "gn_cn_caixin",
    "name": "Caixin",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T02:25:00+00:00"
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
   },
   {
    "source_id": "gn_tw_digitimes",
    "name": "DIGITIMES",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T00:28:39+00:00"
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_ft",
    "name": "FT Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-17T04:01:24+00:00"
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "name": "Investing Japan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "name": "KED Global",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_herald",
+   "name": "Korea Herald",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "name": "Kyodo News EN",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_mof",
+   "name": "MOF Japan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "name": "NBS China (GN)",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "name": "PBoC 中文",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "name": "Reuters Taiwan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "name": "Taipei Times",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_tw_udn",
+   "name": "UDN / 經濟日報",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "name": "中央社 CNA",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "name": "한국은행",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 30,
+   "count": 44,
    "error": "",
-   "newest": "2026-09-15T10:34:00+00:00"
+   "newest": "2026-09-18T12:40:00+09:00"
   },
   {
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 48,
+   "count": 54,
    "error": "",
-   "newest": "2026-09-18T11:23:09+08:00"
+   "newest": "2026-09-18T16:28:27+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +243,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-18T04:49:34+00:00"
+   "newest": "2026-09-18T09:34:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +251,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-18T04:42:28+00:00"
+   "newest": "2026-09-18T09:30:32+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,15 +259,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-18T04:47:25+00:00"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "name": "Investing Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T04:02:00+00:00"
+   "newest": "2026-09-18T09:20:22+00:00"
   },
   {
    "source_id": "ked_global",
@@ -110,28 +270,12 @@
    "newest": ""
   },
   {
-   "source_id": "gn_kr_ked",
-   "name": "KED Global",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T01:29:22+00:00"
-  },
-  {
    "source_id": "kantei_jnews",
    "name": "Kantei 首相官邸",
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-09-18T07:00:00+09:00"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "name": "Korea Herald",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-17T07:56:18+00:00"
+   "newest": "2026-09-18T20:30:00+09:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,39 +283,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-09-18T10:40:36+00:00"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "name": "Kyodo News EN",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T01:10:00+00:00"
-  },
-  {
-   "source_id": "gn_jp_mof",
-   "name": "MOF Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-15T03:21:47+00:00"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "name": "NBS China (GN)",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-15T02:00:00+00:00"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T01:33:37+00:00"
+   "newest": "2026-09-18T17:43:13+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -198,68 +310,12 @@
    "newest": ""
   },
   {
-   "source_id": "gn_cn_pboc",
-   "name": "PBoC 中文",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T01:47:17+00:00"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-17T22:27:49+00:00"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T03:01:00+00:00"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T02:26:00+00:00"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "name": "Reuters Taiwan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-17T21:03:00+00:00"
-  },
-  {
    "source_id": "scmp_business",
    "name": "SCMP Business",
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-09-18T05:00:06+00:00"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-17T13:00:07+00:00"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "name": "Taipei Times",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T03:35:05+00:00"
+   "newest": "2026-09-18T05:45:55+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,31 +323,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-18T05:07:30+00:00"
-  },
-  {
-   "source_id": "gn_tw_udn",
-   "name": "UDN / 經濟日報",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-17T22:59:45+00:00"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-14T16:06:45+00:00"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T04:46:00+00:00"
+   "newest": "2026-09-18T09:41:18+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,23 +331,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-09-18T04:26:25+00:00"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T03:00:03+00:00"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "name": "中央社 CNA",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-11T09:34:34+00:00"
+   "newest": "2026-09-18T09:03:47+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,26 +339,96 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-09-18T14:00:00+09:00"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-18T04:17:18+00:00"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "name": "한국은행",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-17T22:06:00+00:00"
+   "newest": "2026-09-18T15:00:00+09:00"
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Seoul stocks soar over 2% on eased inflation woes",
+   "url": "https://www.koreaherald.com/article/10878751",
+   "published_utc": "2026-09-18T16:31:24+00:00",
+   "title_original": "Seoul stocks soar over 2% on eased inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f8c0e1ceaca102b5"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "SK hynix launches SK hynix Ventures in Silicon Valley",
+   "url": "https://www.koreaherald.com/article/10878747",
+   "published_utc": "2026-09-18T16:30:31+00:00",
+   "title_original": "SK hynix launches SK hynix Ventures in Silicon Valley",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7927879c9f93fbaf"
+  },
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "BOJ hikes rates to 1.25% as chief Ueda cites shift in policy phase",
+   "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-hikes-rates-to-1.25-as-chief-ueda-cites-shift-in-policy-phase",
+   "published_utc": "2026-09-18T09:42:24.245585+00:00",
+   "title_original": "BOJ hikes rates to 1.25% as chief Ueda cites shift in policy phase",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f2bc006309794e09"
+  },
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "US chip toolmaker Forge Nano bets on Taiwan for production: CEO",
+   "url": "https://asia.nikkei.com/editor-s-picks/interview/us-chip-toolmaker-forge-nano-bets-on-taiwan-for-production-ceo",
+   "published_utc": "2026-09-18T09:42:24.245585+00:00",
+   "title_original": "US chip toolmaker Forge Nano bets on Taiwan for production: CEO",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "83fc6a6d1d6c4a38"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yen Swings as Markets Digest Bank of Japan's Rate Path — 2nd Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20260918002027:0-yen-swings-as-markets-digest-bank-of-japan-s-rate-path-2nd-update/",
+   "published_utc": "2026-09-18T09:37:00+00:00",
+   "title_original": "Yen Swings as Markets Digest Bank of Japan's Rate Path — 2nd Update",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "30a32bf5ad196201"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -361,6 +447,41 @@
    "id": "23314629a66cffa6"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yen Risks Falling Further as BOJ Dissenters Could Resist Swift Rate Hikes — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20260918002017:0/",
+   "published_utc": "2026-09-18T09:34:00+00:00",
+   "title_original": "Yen Risks Falling Further as BOJ Dissenters Could Resist Swift Rate Hikes — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bbdb4190f7245224"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "London Stock Exchange",
+   "title_en": "REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-09-18:newsml_RSR3931Va:0-reg-hon-hai-prec-ind-co-announcement-on-behalf-of-subsidiary-fii/",
+   "published_utc": "2026-09-18T09:29:41+00:00",
+   "title_original": "REG - Hon Hai Prec.Ind.Co - Announcement on behalf of subsidiary FII",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ea7328d78725754a"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "S. Korea to extend fuel tax cut through Nov. amid price burdens",
@@ -376,6 +497,320 @@
    "live_wire": false,
    "manual": false,
    "id": "9526f45bfa6c77bc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's blue chips record best day in a month before Trump-Xi meeting",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45A0JZ:0/",
+   "published_utc": "2026-09-18T09:24:18+00:00",
+   "title_original": "Blue chips da China registram melhor dia em um mês antes de reunião entre Trump e Xi",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "b832ae3d2ac09a79"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Yen tumbles despite BOJ lifting rates as Ueda pre-empts aggressive tightening",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
+   "published_utc": "2026-09-18T09:20:22+00:00",
+   "title_original": "Yen tumbles despite BOJ lifting rates as Ueda pre-empts aggressive tightening",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "78987666f9ea5796"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Bank Of Japan Raises Rate To 1.25%; Highest Since 1995",
+   "url": "https://www.tradingview.com/news/dpa_afx:9d3f1c147c2a1:0-bank-of-japan-raises-rate-to-1-25-highest-since-1995/",
+   "published_utc": "2026-09-18T09:19:26+00:00",
+   "title_original": "Bank Of Japan Raises Rate To 1.25%; Highest Since 1995",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d88a608edbade43d"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ Governor Ueda’s comments at news conference",
+   "url": "https://www.investing.com/news/economy-news/boj-governor-uedas-comments-at-news-conference-4906744",
+   "published_utc": "2026-09-18T09:19:00+00:00",
+   "title_original": "BOJ Governor Ueda’s comments at news conference",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ae6a9ac7db85cc10"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's blue-chip stocks log best day in a month ahead of Trump-Xi meeting; Hong Kong rises",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45A0AA:0-china-s-blue-chip-stocks-log-best-day-in-a-month-ahead-of-trump-xi-meeting-hong-kong-rises/",
+   "published_utc": "2026-09-18T09:06:58+00:00",
+   "title_original": "China's blue-chip stocks log best day in a month ahead of Trump-Xi meeting; Hong Kong rises",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "70c0af1212997dcb"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sojitz To Enter India's Logistics Business For Chip Industry, Nikkei Reports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44O00E:0-sojitz-to-enter-india-s-logistics-business-for-chip-industry-nikkei-reports/",
+   "published_utc": "2026-09-18T09:02:50+00:00",
+   "title_original": "Sojitz To Enter India's Logistics Business For Chip Industry, Nikkei Reports",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "72b77c2a7466aa27"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Yen slumps to two-week low after BOJ rate hike underwhelms",
+   "url": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
+   "published_utc": "2026-09-18T09:00:33+00:00",
+   "title_original": "Yen slumps to two-week low after BOJ rate hike underwhelms",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0a30b6006d67c62d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yen Falls After Bank of Japan Raises Key Rate to 30-Year High — WSJ",
+   "url": "https://www.tradingview.com/news/DJN_DN20260918001811:0/",
+   "published_utc": "2026-09-18T08:58:00+00:00",
+   "title_original": "Yen Falls After Bank of Japan Raises Key Rate to 30-Year High — WSJ",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c8ac05fd0c499765"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan’s weak currency has a three-body problem",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45A09Y:0-japan-s-weak-currency-has-a-three-body-problem/",
+   "published_utc": "2026-09-18T08:48:58+00:00",
+   "title_original": "Japan’s weak currency has a three-body problem",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1dd8686623b17b63"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's January-August fiscal revenue up 5.7% year-on-year",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TKSXG:0-china-s-january-august-fiscal-revenue-up-5-7-year-on-year/",
+   "published_utc": "2026-09-18T08:38:01+00:00",
+   "title_original": "China's January-August fiscal revenue up 5.7% year-on-year",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f963baffa5f7d41d"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Citi sees EUR/JPY falling below ¥175 despite near-term rebound risk",
+   "url": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
+   "published_utc": "2026-09-18T08:37:50+00:00",
+   "title_original": "Citi sees EUR/JPY falling below ¥175 despite near-term rebound risk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e4671cf096d3b0c9"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's January-August government land sales revenue down 28.6% Y/Y",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N43T0CK:0-china-s-january-august-government-land-sales-revenue-down-28-6-y-y/",
+   "published_utc": "2026-09-18T08:29:02+00:00",
+   "title_original": "China's January-August government land sales revenue down 28.6% Y/Y",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6f0d3e023d634726"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yen sinks, sending Japan stocks surging after BOJ hike draws two dissents",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45A089:0-yen-sinks-sending-japan-stocks-surging-after-boj-hike-draws-two-dissents/",
+   "published_utc": "2026-09-18T08:26:55+00:00",
+   "title_original": "Yen sinks, sending Japan stocks surging after BOJ hike draws two dissents",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fe2344bfbaa098de"
+  },
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Bank of Japan Governor mentions rate hike pace at press conference",
+   "url": "https://news.yahoo.co.jp/pickup/6595713?source=rss",
+   "published_utc": "2026-09-18T08:22:23+00:00",
+   "title_original": "日銀総裁 会見で利上げペース言及",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c88cbf33775030b2"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ hikes rates; Huang on Nvidia chip sales - what’s moving markets",
+   "url": "https://www.investing.com/news/economy-news/boj-hikes-rates-huang-on-nvidia-chip-sales--whats-moving-markets-4906787",
+   "published_utc": "2026-09-18T07:55:52+00:00",
+   "title_original": "BOJ hikes rates; Huang on Nvidia chip sales - what’s moving markets",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dbb30b16664b728a"
+  },
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Temporarily in the 157 yen/dollar range after interest rate hike decision",
+   "url": "https://news.yahoo.co.jp/pickup/6595705?source=rss",
+   "published_utc": "2026-09-18T07:48:52+00:00",
+   "title_original": "利上げ決定後 一時1ドル157円台",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d961b485aee99bed"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SK Hynix's Solidigm unit considers building NAND memory chip factory in the US, according to sources",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45A06O:0/",
+   "published_utc": "2026-09-18T06:04:17+00:00",
+   "title_original": "Unidade Solidigm da SK Hynix avalia construir fábrica de chips de memória NAND nos EUA, segundo fontes",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "b01c7bcbe500cb25"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SK Hynix's Solidigm unit is evaluating the possibility of building a NAND memory chip factory in the US, according to sources",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45A06D:0/",
+   "published_utc": "2026-09-18T05:58:13+00:00",
+   "title_original": "A unidade Solidigm da SK Hynix está avaliando a possibilidade de construir uma fábrica de chips de memória NAND nos EUA, segundo fontes",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "b625531b393438fd"
   },
   {
    "source_id": "nikkei_asia",
@@ -496,24 +931,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fba9be12b5820064"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Yen slumps after BOJ hikes rates as expected",
-   "url": "https://www.investing.com/news/economy-news/yen-weak-ahead-of-boj-decision-rate-hike-expected-4906595",
-   "published_utc": "2026-09-18T04:42:28+00:00",
-   "title_original": "Yen slumps after BOJ hikes rates as expected",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ee0708a2b19f59ea"
   },
   {
    "source_id": "tradingview_live",
@@ -1596,194 +2013,6 @@
    "id": "ca359e354d8f81a8"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "MNI JAPAN AUG CORE CPI +1.7% Y/Y; JULY +1.8%",
-   "url": "https://www.tradingview.com/news/dpa_afx:4a664c084757f:0-mni-japan-aug-core-cpi-1-7-y-y-july-1-8/",
-   "published_utc": "2026-09-17T23:46:45+00:00",
-   "title_original": "MNI JAPAN AUG CORE CPI +1.7% Y/Y; JULY +1.8%",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c4dbb88e452c64d5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Inflation Rate Stays at 7-Month High",
-   "url": "https://www.tradingview.com/news/te_news:584747:0-japan-inflation-rate-stays-at-7-month-high/",
-   "published_utc": "2026-09-17T23:39:32+00:00",
-   "title_original": "Japan Inflation Rate Stays at 7-Month High",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3c5790e68e78abb7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Core Inflation Eases, Below Forecasts",
-   "url": "https://www.tradingview.com/news/te_news:584745:0-japan-core-inflation-eases-below-forecasts/",
-   "published_utc": "2026-09-17T23:37:18+00:00",
-   "title_original": "Japan Core Inflation Eases, Below Forecasts",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0133f4d62599997b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +1.5% VS. +1.5% IN JULY; GOODS (EX-FRESH FOOD) +2.4% VS. +2.4% IN JULY",
-   "url": "https://www.tradingview.com/news/macenews:41c0f5cb9094b:0-japan-aug-cpi-services-ex-owners-equivalent-rent-1-5-vs-1-5-in-july-goods-ex-fresh-food-2-4-vs-2-4-in-july/",
-   "published_utc": "2026-09-17T23:37:00+00:00",
-   "title_original": "JAPAN AUG CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +1.5% VS. +1.5% IN JULY; GOODS (EX-FRESH FOOD) +2.4% VS. +2.4% IN JULY",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "86986a7d7fb00dd4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG CORE INFLATION SLOWS AS UTILITY, FUEL SUBSIDIES CAUSE ENERGY PRICES TO SLIP BACK, PROCESSED FOOD MARKUPS CONTINUE TO EASE, HOTEL FEES DROP",
-   "url": "https://www.tradingview.com/news/macenews:9cc3797f1094b:0-japan-aug-core-inflation-slows-as-utility-fuel-subsidies-cause-energy-prices-to-slip-back-processed-food-markups-continue-to-ease-hotel-fees-drop/",
-   "published_utc": "2026-09-17T23:36:00+00:00",
-   "title_original": "JAPAN AUG CORE INFLATION SLOWS AS UTILITY, FUEL SUBSIDIES CAUSE ENERGY PRICES TO SLIP BACK, PROCESSED FOOD MARKUPS CONTINUE TO EASE, HOTEL FEES DROP",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "89aeaa117526cf33"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG CPI: ENERGY PRICES -0.7% Y/Y (-0.05 POINT) VS. +0.6% (+0.05 PT) IN JULY",
-   "url": "https://www.tradingview.com/news/macenews:63dcd4ad3094b:0-japan-aug-cpi-energy-prices-0-7-y-y-0-05-point-vs-0-6-0-05-pt-in-july/",
-   "published_utc": "2026-09-17T23:36:00+00:00",
-   "title_original": "JAPAN AUG CPI: ENERGY PRICES -0.7% Y/Y (-0.05 POINT) VS. +0.6% (+0.05 PT) IN JULY",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "79a84bb481928d27"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG CPI: PROCESSED FOOD +2.7% (+0.64 POINT) VS. +3.0% (+0.72 PT) IN JULY",
-   "url": "https://www.tradingview.com/news/macenews:3fe54b38b094b:0-japan-aug-cpi-processed-food-2-7-0-64-point-vs-3-0-0-72-pt-in-july/",
-   "published_utc": "2026-09-17T23:36:00+00:00",
-   "title_original": "JAPAN AUG CPI: PROCESSED FOOD +2.7% (+0.64 POINT) VS. +3.0% (+0.72 PT) IN JULY",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "de7c5df25b457054"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +1.9% Y/Y, 53RD STRAIGHT RISE (JULY +1.9%); MEDIAN FORECAST +2.1%",
-   "url": "https://www.tradingview.com/news/macenews:2b6b3f869094b:0-japan-aug-core-core-cpi-ex-fresh-food-energy-1-9-y-y-53rd-straight-rise-july-1-9-median-forecast-2-1/",
-   "published_utc": "2026-09-17T23:33:00+00:00",
-   "title_original": "JAPAN AUG CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +1.9% Y/Y, 53RD STRAIGHT RISE (JULY +1.9%); MEDIAN FORECAST +2.1%",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "db1ed87dbbbcf59a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG TOTAL CPI +1.9% Y/Y, 60TH STRAIGHT RISE (JULY +1.9%); MEDIAN FORECAST +2.0%",
-   "url": "https://www.tradingview.com/news/macenews:19e4c9264094b:0-japan-aug-total-cpi-1-9-y-y-60th-straight-rise-july-1-9-median-forecast-2-0/",
-   "published_utc": "2026-09-17T23:32:00+00:00",
-   "title_original": "JAPAN AUG TOTAL CPI +1.9% Y/Y, 60TH STRAIGHT RISE (JULY +1.9%); MEDIAN FORECAST +2.0%",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "84622371e50df9ef"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG CORE CPI (EXCLUDING FRESH FOOD) +1.7% Y/Y, 60TH STRAIGHT RISE (JULY +1.8%); MEDIAN FORECAST +1.9%",
-   "url": "https://www.tradingview.com/news/macenews:65a30a34e094b:0-japan-aug-core-cpi-excluding-fresh-food-1-7-y-y-60th-straight-rise-july-1-8-median-forecast-1-9/",
-   "published_utc": "2026-09-17T23:31:00+00:00",
-   "title_original": "JAPAN AUG CORE CPI (EXCLUDING FRESH FOOD) +1.7% Y/Y, 60TH STRAIGHT RISE (JULY +1.8%); MEDIAN FORECAST +1.9%",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a268896103afa30b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's August core consumer prices rise 1.7% yr/yr",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44401D:0-japan-s-august-core-consumer-prices-rise-1-7-yr-yr/",
-   "published_utc": "2026-09-17T23:30:15+00:00",
-   "title_original": "Japan's August core consumer prices rise 1.7% yr/yr",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "14ce1731706eed83"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Overseas strategists are disappointed and wary of the risk of yen depreciation as the Bank of Japan is not hawkish (Bloomberg)",
@@ -1820,23 +2049,6 @@
    "id": "e383f29ba4fb6e18"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea extends fuel-tax cuts until end of November",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45909O:0-south-korea-extends-fuel-tax-cuts-until-end-of-november/",
-   "published_utc": "2026-09-17T23:00:00+00:00",
-   "title_original": "South Korea extends fuel-tax cuts until end of November",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0e59ae6707322092"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Bank of Japan set to raise interest rates to 31-year high By Reuters",
@@ -1852,23 +2064,6 @@
    "live_wire": false,
    "manual": false,
    "id": "00eda5994b473111"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Japan Rate Decision On Tap For Friday",
-   "url": "https://www.tradingview.com/news/dpa_afx:b1f201867f74f:0-japan-rate-decision-on-tap-for-friday/",
-   "published_utc": "2026-09-17T22:21:38+00:00",
-   "title_original": "Japan Rate Decision On Tap For Friday",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f0339f568499d622"
   },
   {
    "source_id": "investing_econ",
@@ -1938,23 +2133,6 @@
    "live_wire": false,
    "manual": false,
    "id": "36085be35fda42ec"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Producer Inflation Rises in August",
-   "url": "https://www.tradingview.com/news/te_news:584718:0-south-korea-producer-inflation-rises-in-august/",
-   "published_utc": "2026-09-17T21:08:40+00:00",
-   "title_original": "South Korea Producer Inflation Rises in August",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c22da436a69f5978"
   },
   {
    "source_id": "toyo_keizai",
@@ -2162,6 +2340,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a95f82aa825540f3"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "AI boom gives Samsung pricing power as MLCC supply tightens",
+   "url": "https://www.koreaherald.com/article/10877230",
+   "published_utc": "2026-09-17T14:55:42+00:00",
+   "title_original": "AI boom gives Samsung pricing power as MLCC supply tightens",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4bccae701cdc602c"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7002,195 +7197,6 @@
    "live_wire": false,
    "manual": false,
    "id": "82ccf8f54f61e040"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "In Depth: China’s Auto Export Boom Spurs Push to Manufacture Overseas",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3AzallmZlFVWEp4bjhLY2F6Z1RrRmpqeml1RC1NZjBUbllybEJNZENsUFlOemVWVThLa0J1Q29CcERMZ1RaRTBkVzhuUVNRYXZWUlQ5UTlQeGJacXlPTXlMV3U0RUlsNWtzVGNjckJ6RlZJYnRjaUY3UV9ZdkxvODdKWG8zNE9lb1lORHFCcWhVVFlWQmxqUUlBQUtTTHpnY1ZoeGRKLVFsS2FySm5EbXFiamxfR3FwaXdRbnFfWQ?oc=5",
-   "published_utc": "2026-09-11T11:16:00+00:00",
-   "title_original": "In Depth: China’s Auto Export Boom Spurs Push to Manufacture Overseas",
-   "region": "china",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d079d2aae3eba29"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "COMMENTARY: Triple-digit oil, yen whiplash and a $2,000 iPhone: The financial week in five charts",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWjdWQXF6UU01aUpaT3N3bTdCaXRXSkRFelh4TlVxSUEwRzVPak1lbjdFR3VadlU5bC0wZmUwSU03OHNWR0RuY2xpZU10N2t3bS1qM0xKckVuN0ZLS0F0V0xFS2RsRTBpSHM1bEhxYzYtRUF2ME0zNC1jVnlOZU9TUGZRblVkZ1U3bDNwcGJWZ3Fld3UwWFZWUFlQSmJTb1hMSm9nZ2ZFUzNuMWF0UDhqVU1MMmRUbnYwdDdjZC1hZ085Z1BMWnVIR1FzMG9XVzVTWlFF?oc=5",
-   "published_utc": "2026-09-11T11:07:41+00:00",
-   "title_original": "COMMENTARY: Triple-digit oil, yen whiplash and a $2,000 iPhone: The financial week in five charts",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0c57b2e081ddbdd7"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "HSBC issues $54.3bn in yen-denominated senior bonds",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTlZReFNPVjRmVVlBWktCZU5hckJ2cEV3ajgtb3BhYU9hY1M2S2RSUHZUZk9JRnBUbTR1ZTZWNHRITy1scFdLT3NZWW9MUXNKTm9vSXNEOWNrTWZhYmllUVU3RGVJMTVUS1hfM2M0a21xQjdPTXhNOVJtUHNYNWJpUGFpMXI5RmRQTk9NZzV0aGFydTU2aUMzTFAzVWpocmJXWE1MalE2cXY?oc=5",
-   "published_utc": "2026-09-11T10:16:09+00:00",
-   "title_original": "HSBC issues $54.3bn in yen-denominated senior bonds",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "75452f73b6951f1e"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan unfazed by Trump's renewed chip tariff threat as MOU already locks in preferential US treatment",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3ZFTkNQelF3RXFBdWMxMWdWZVJYTG4xeV9nZkFnOWV3MGt2amZuLUhWZWFNclZ6MDdTUm9SaS02ZnRvTVhPNllxdXRLdm1xUkRyZldyMFhYS3ZEVHhhaFZiLWt3MXB5bXo4NlNxSVlBbWpZRE9ldzJ4cnRrLTJESzkySXdTNkRvQVEwNk5YdkZvczdMR292cElVME9GdVZuS2hMLW5fNEtCZVNOc1Q0?oc=5",
-   "published_utc": "2026-09-11T09:20:30+00:00",
-   "title_original": "Taiwan unfazed by Trump's renewed chip tariff threat as MOU already locks in preferential US treatment",
-   "region": "taiwan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5e5e43eae82ade66"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Tencent-backed Enflame nearly triples in Shanghai debut on AI chip demand bets",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1oyZUF1MXVHWmZZeDRoUTlDT0lORWoyNldHNGVlOFdOUlhjYUMyNEFXQzY1MjJGc0RCa3U2WG1DZ09vWVdCQzhqcnFSYkZqQU91NVBFeDZQMFc2aDNoRVh0NDhPWjYwSWs1TlA0NkNCZ1htNDN6VzJ1eVRMMHdvcEp1TWlYOG1zdllwNFZOc2dyVmtwX0hmZDhVUUVoanFGQWxFTnN3dVVVNHBLWkVoSVdaNWszOUY0SXBoUmE3QlJ1MUln?oc=5",
-   "published_utc": "2026-09-11T09:00:12+00:00",
-   "title_original": "Tencent-backed Enflame nearly triples in Shanghai debut on AI chip demand bets",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "24f18dee0199ff9c"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUXVRdklHeC0wazdnNldDb0RuSC1PbmUtSk1GN0w3WVA2cmhHT2QzQmFYTV92ZWZkc09XLVdqTFhXMTJmV2cwMkp3Mm1kTU15dHFNcGRRaUpkX0V6XzROZVBVeTg5a3Zl?oc=5",
-   "published_utc": "2026-09-11T08:48:00+00:00",
-   "title_original": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "61de1e1093683dc2"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
-   "title_en": "(2nd LD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hYUNsNlRCSUg1dm1WSlBDQTE4QVV3S0ZMV1Fzc0t1VllYaU9MMXo5eTYwMjJneU4zcnVBMm1oMEtpOUVjNEZ1YXhnNGNUcGhMTTlzSUpHRmpVZw?oc=5",
-   "published_utc": "2026-09-11T07:36:45+00:00",
-   "title_original": "(2nd LD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c3d9d027826a5a70"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Rate outlook: BOJ, Fed poised to hike",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WS01wWVI1empUbW51NV9nMW43Q1RWbHVhQjdod2pFb2lNSWE2LXJBNF8tOE9CeTA4VWVBeF82OC1iUXdvOXpTeUg3NjVVQWlwWTJ4ZzR0VVVST25pZmtHdEg5aFhiNW9pTnhCTFN3?oc=5",
-   "published_utc": "2026-09-11T07:00:00+00:00",
-   "title_original": "Rate outlook: BOJ, Fed poised to hike",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dac09e885e2411ca"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03NXJFY3VieUd5bnBtR09ycmtGTmhMdWVyU0FFZHRrV1paZ0dnc2RYazA5NU11Y1VJX00tUlE2LU1zQ1hlTGtvQ05SUkVpYkdlZEgtU0Z5VGthdw?oc=5",
-   "published_utc": "2026-09-11T06:59:12+00:00",
-   "title_original": "(LEAD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "414e908396fee4ec"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OVWxZRFdvYnh2T281eHROOVp2RU5XSjFuVkZWUVRqbHdkdGhZeDQtYzZCZ1NhaXA1Z3poT3V2RkxjVkVteUQtYTJqYTFtYXJoZmQwU05NLUEzdw?oc=5",
-   "published_utc": "2026-09-11T06:37:51+00:00",
-   "title_original": "Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7b283f6f1f1e327f"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(URGENT) Seoul shares end lower on rising oil prices, inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwRmNnVDY4dDM4TFNJUkNmcVFSS2FNbl9KY3ZrMU14TXhDSDVYbmtqdTQ3d0R6WWxTVHl2VFB1STVwU1U3SWl5M1ZJbGJuWTNhaTBTeEhmUjRtUQ?oc=5",
-   "published_utc": "2026-09-11T06:33:33+00:00",
-   "title_original": "(URGENT) Seoul shares end lower on rising oil prices, inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "eaddee30d4b52e1c"
   },
   {
    "source_id": "manual_ia",
