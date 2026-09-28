@@ -7,16 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-28T17:03:01.375165+00:00
+Última coleta: 2026-09-28T21:21:24.868304+00:00
 Total: 420 manchetes
 
-  🇯🇵 Japão          151
-  🇨🇳 China          129
+  🇯🇵 Japão          153
+  🇨🇳 China          127
   🇹🇼 Taiwan          34
   🇰🇷 Coreia do Sul  106
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Resonac develops large wafers that can yield 4 times as many chips
+  - [korea] Biz sentiment falls in September on rising costs: BOK
+  - [japan] A direct interview with the CEO of heating type king “IQOS”! The existence of competitors such as JT is "welco
+  - [japan] <Tax increase from October> Will the price advantage of heating type disappear? How will JT and BAT challenge 
+  - [china] The need for a "New Plaza Accord" increases as China's trade surplus increases dramatically... A huge trade im
+  - [korea] SK Hynix Stock Falls 5.1% as Rubin Memory Moves Into View
+  - [japan] Yen Gains After Japan’s Currency Czar Warns Against Weakness
+  - [korea] PAG Real Assets eyes $2 bn investment in S.Korean real estate
   - [china] The 14-day reverse repurchase restarted, and the central bank’s open market operations invested a total of 1.1
   - [korea] Seoul stocks sink over 2.5% on chip losses
   - [china] CBOT soybean futures plunge as China tariff cuts exclude soybeans
@@ -30,7 +38,6 @@ Total: 420 manchetes
   - [china] Brazil signs an agreement with China to export pork offal; ABPA sees more than US$100 million in revenue
   - [japan] The Bank of Japan releases the minutes of its July monetary policy meeting, with several members giving positi
   - [china] US, China Release Product Lists for $30 Billion Tariff Deal
-  - [korea] PAG Real Assets eyes $2 bn investment in S.Korean real estate
   - [taiwan] TSMC, others hold recruitment campaign in Silicon Valley
   - [china] Soybeans plummet more than 20 points in Chicago after China keeps American grain out of tariff cuts
   - [china] Russian oil supply to India tightens on reduced exports, strong Chinese demand
@@ -40,8 +47,8 @@ Total: 420 manchetes
   - [taiwan] VIS-NXP JV chip fab enters initial production stage
   - [japan] Exclusive-Japan’s currency diplomat Mimura urges markets to heed ’very clear’ warning on yen By Reuters
   - [japan] EXCLUSIVE: Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen
-  - [japan] Yen Gains After Japan’s Currency Czar Warns Against Weakness
   - [korea] [Preview of National Assembly Inspection] Bank of Korea Governor Shin Hyun-song’s first National Assembly insp
+  - [china] The central bank launched three-term reverse repos on September 28, with a net investment of 439.7 billion yua
   - [china] The central bank launched three-term reverse repos on September 28, with a net investment of 439.7 billion yua
   - [korea] This week, a window manufacturing company with annual sales of 20 billion won was registered as a sa..
   - [china] China e EUA concordam em reduzir tarifas sobre US$60 bi em mercadorias
@@ -50,13 +57,6 @@ Total: 420 manchetes
   - [japan] BREAKING NEWS: Dollar plunges nearly 1 yen, falls below 157 line
   - [korea] As construction of industrial facilities, including private semiconductor production facilities, inc..
   - [japan] Asia stocks slip as oil, yields rise; chipmakers hit by OpenAI pause
-  - [japan] Bank of Japan debated need for faster rate hikes, July minutes show By Reuters
-  - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il visits the Bank of Korea head..
-  - [japan] Jobs Report and Inflation Reading to Gauge US Economic Strength This Week
-  - [china] US, China slash tariffs on basic goods – but leave rare earths off the record
-  - [japan] A very annoying "Christmas gift"...The Bank of Japan's proposal infuriated the Banking Bureau of the Ministry 
-  - [korea] Will continuous increases in base interest rates put a burden on the profitability of savings banks?
-  - [taiwan] TSMC affiliate already eyes expansion as first Singapore plant 'sells out'
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 420 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-28T17:03:01+00:00",
+      "published_utc": "2026-09-28T21:21:24+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
