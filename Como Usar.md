@@ -26,9 +26,11 @@ natural de desligar é onde você já está olhando.
 Desde set/2026 o monitor também roda **inteiro na nuvem**: dá para abrir no
 celular ou em qualquer computador, com o Mac desligado.
 
-- **Endereço:** o link do projeto `asia-macro-monitor` na Vercel. Pede uma
-  senha na primeira vez (o usuário pode ser qualquer coisa); ela está em
-  `.env.local` como `PAINEL_SENHA`.
+- **Endereço:** https://asia-macro-monitor.vercel.app. Pede a senha só na
+  primeira vez em cada navegador (está em `.env.local` como `PAINEL_SENHA`);
+  depois fica conectado — o cookie de sessão se renova a cada visita (400
+  dias). Para desconectar um navegador: `/sair`. Trocar `PAINEL_SENHA` na
+  Vercel desconecta todos.
 - **Quem coleta:** o GitHub Actions (repositório público
   `victoreda7/asia-macro-monitor`). Quem dita o ritmo é o **cron-job.org**,
   que chama `/api/coletar?chave=…` no painel a cada 10 min. O agendador do

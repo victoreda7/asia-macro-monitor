@@ -2,7 +2,7 @@
 import { autorizado, lerArquivo, semCache } from "./_comum.js";
 
 export default async function handler(req, res) {
-  if (!autorizado(req, res)) return;
+  if (!autorizado(req, res, { pagina: true })) return;
   try {
     let html = await lerArquivo("Monitor de Notícias Macro.html");
     // Favicon 🗻 desenhado (Painel Web/favicon.*): troca qualquer ícone que
