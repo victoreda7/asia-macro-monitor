@@ -22,7 +22,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # ref: main de propósito. Sem isso o checkout pega o commit de quando o
+      # disparo foi feito; uma run que ficou na fila atrás de outra partia de
+      # um feed velho e conflitava no push (aconteceu em 28/09).
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
@@ -47,9 +52,12 @@ jobs:
           else
             git commit -m "coleta automática $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
             # O painel pode ter commitado a curadoria (manual_additions.json)
-            # enquanto esta coleta rodava: rebase antes de enviar.
+            # enquanto esta coleta rodava: rebase antes de enviar. Se outra
+            # coleta tiver mexido nos mesmos arquivos gerados, vale a desta
+            # (-X theirs = o commit sendo reaplicado), que é a mais nova.
             for tentativa in 1 2 3; do
-              git pull --rebase origin main && git push && exit 0
+              git pull --rebase -X theirs origin main && git push && exit 0
+              git rebase --abort 2>/dev/null || true
               sleep 5
             done
             exit 1
