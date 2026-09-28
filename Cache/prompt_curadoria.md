@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-28T15:51:33.811253+00:00
+Última coleta: 2026-09-28T16:03:38.716666+00:00
 Total: 420 manchetes
 
   🇯🇵 Japão          151
-  🇨🇳 China          128
+  🇨🇳 China          129
   🇹🇼 Taiwan          34
-  🇰🇷 Coreia do Sul  107
+  🇰🇷 Coreia do Sul  106
 
 ## O que já está no feed (não repita)
 
   - [korea] Seoul stocks sink over 2.5% on chip losses
+  - [china] CBOT soybean futures plunge as China tariff cuts exclude soybeans
   - [japan] Preview: Forecasters See Japan September Tankan Showing Large Manufacturers’ Sentiment at +25, Highest Since 2
   - [china] China tightens humanoid patent grip with 60% share
   - [taiwan] TSMC increases 2nm wafer production outlook by 20%: report
@@ -56,7 +57,6 @@ Total: 420 manchetes
   - [korea] Will continuous increases in base interest rates put a burden on the profitability of savings banks?
   - [taiwan] TSMC affiliate already eyes expansion as first Singapore plant 'sells out'
   - [china] US and China list Christmas ornaments, lumber, camels for tariff cuts
-  - [korea] Hyung-il Lee and Hyun-song Shin first meeting... Are fiscal-monetary policies in sync?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 420 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-28T15:51:33+00:00",
+      "published_utc": "2026-09-28T16:03:38+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
