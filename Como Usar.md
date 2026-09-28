@@ -21,6 +21,39 @@ Para desligar, use o botão **Desligar** no canto do painel — dois cliques, o
 primeiro arma e o segundo executa. Não existe script de parada porque o lugar
 natural de desligar é onde você já está olhando.
 
+## Painel web (sem o Mac)
+
+Desde set/2026 o monitor também roda **inteiro na nuvem**: dá para abrir no
+celular ou em qualquer computador, com o Mac desligado.
+
+- **Endereço:** o link do projeto `asia-macro-monitor` na Vercel. Pede uma
+  senha na primeira vez (o usuário pode ser qualquer coisa); ela está em
+  `.env.local` como `PAINEL_SENHA`.
+- **Quem coleta:** o GitHub Actions (repositório público
+  `victoreda7/asia-macro-monitor`). Quem dita o ritmo é o **cron-job.org**,
+  que chama `/api/coletar?chave=…` no painel a cada 10 min. O agendador do
+  próprio GitHub ficou de reserva (2 vezes por hora) porque sozinho ele
+  atrasava horas.
+- **Atualizar agora:** pede uma coleta ao GitHub e espera o feed mudar
+  (1 a 3 min). Dá para continuar lendo enquanto isso.
+- **Curadoria IA:** gera o prompt; você roda num chat de IA com web, cola o
+  JSON da resposta no campo *Resultado da IA* e clica em **Enviar**. O painel
+  grava `Cache/manual_additions.json` no GitHub e dispara a coleta que funde.
+- **Desligar** não aparece: não há nada rodando que precise ser desligado.
+
+Peças: o código da Vercel fica em `Painel Web/` (funções Node, sem build). Ele
+não guarda nada; só lê o que o Actions commitou e dispara coletas. Variáveis na
+Vercel: `GITHUB_TOKEN` (token fine-grained só deste repositório, Actions e
+Contents de leitura e escrita), `PAINEL_SENHA` e `CRON_CHAVE`.
+
+O monitor local (`Abrir Monitor.command`) continua funcionando como antes. Os
+dois leem o mesmo feed do GitHub.
+
+**Quando os tokens vencerem** (1 ano): gere outro `github_pat_` com as mesmas
+permissões e troque `GITHUB_TOKEN` na Vercel (Settings → Environment
+Variables). Depois é preciso republicar, porque a variável só vale em
+deploys novos.
+
 ## Os dois relógios
 
 Vale separar, porque parecem a mesma coisa e não são:

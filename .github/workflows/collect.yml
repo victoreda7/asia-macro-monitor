@@ -1,14 +1,14 @@
 name: Coleta Asia Macro News
 
-# Roda a cada 10 min, independente do Mac estar ligado — é isso que evita
-# perder notícias publicadas enquanto o monitor local estava fechado (ex.:
-# um GDP divulgado no fim de semana). O GitHub não garante o minuto exato do
-# cron em horários de pico, mas a defasagem típica é de poucos minutos, bem
-# diferente de "só coleta quando alguém abrir o Mac".
+# Quem dita o ritmo é o cron-job.org: a cada 10 min ele chama
+# /api/coletar no painel da Vercel, que dispara este workflow
+# (workflow_dispatch). O agendador do próprio GitHub ficou só de reserva — em
+# set/2026 ele rodava ~6 vezes por dia em vez de 144, com buracos de até 8 h.
+# O botão "Atualizar agora" do painel web também entra por workflow_dispatch.
 on:
   schedule:
-    - cron: "*/10 * * * *"
-  workflow_dispatch: {}  # permite rodar manualmente na aba Actions, para testar
+    - cron: "7,37 * * * *"   # reserva, caso o cron-job.org pare
+  workflow_dispatch: {}
 
 concurrency:
   group: collect
@@ -32,14 +32,25 @@ jobs:
       - name: Coletar notícias
         run: python3 "Código/fetch_asia_news.py"
 
+      # Prompt de curadoria na versão do painel web (a IA devolve o JSON no
+      # chat, a pessoa cola no painel). Sai com as estatísticas desta coleta.
+      - name: Gerar prompt de curadoria
+        run: python3 "Código/build_prompt.py" --web --saida "Cache/prompt_curadoria.md"
+
       - name: Commitar e enviar o feed atualizado
         run: |
           git config user.name "asia-monitor-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add "Cache/feed.json" "Cache/translation_cache.json" "Cache/first_seen_cache.json" "Monitor de Notícias Macro.html"
+          git add "Cache/feed.json" "Cache/translation_cache.json" "Cache/first_seen_cache.json" "Cache/prompt_curadoria.md" "Monitor de Notícias Macro.html"
           if git diff --cached --quiet; then
             echo "sem mudanças desde a última coleta"
           else
             git commit -m "coleta automática $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-            git push
+            # O painel pode ter commitado a curadoria (manual_additions.json)
+            # enquanto esta coleta rodava: rebase antes de enviar.
+            for tentativa in 1 2 3; do
+              git pull --rebase origin main && git push && exit 0
+              sleep 5
+            done
+            exit 1
           fi

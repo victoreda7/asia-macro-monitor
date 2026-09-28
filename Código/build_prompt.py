@@ -66,7 +66,9 @@ def load_feed() -> dict:
         return {}
 
 
-def build() -> str:
+def build(web: bool = False) -> str:
+    """web=True: versão para o painel na Vercel — a IA devolve o JSON no chat
+    e a pessoa cola no painel, em vez de gravar um arquivo no Mac."""
     feed = load_feed()
     items = feed.get("items", [])
     by_region = Counter(i.get("region") for i in items)
@@ -91,6 +93,25 @@ def build() -> str:
 
     topicos = ", ".join(f"`{t}`" for t in cfg.TOPIC_ORDER)
     agora = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
+
+    if web:
+        destino = ("3. Responda **só com o JSON** no formato abaixo, num bloco ```json.\n"
+                   "   Ele vai ser colado no painel, então nada de texto fora do bloco.")
+        depois = ("## Depois de responder\n\n"
+                  "A pessoa cola o JSON no campo **Resultado da IA** do painel e clica em\n"
+                  "**Enviar**. O painel grava o arquivo no repositório e dispara uma coleta,\n"
+                  "que funde o manual com o automático.\n")
+    else:
+        destino = f"3. Grave o resultado em:\n   `{MANUAL_PATH}`"
+        depois = (
+            "## Depois de gravar\n\n"
+            "Rode a coleta de novo para fundir o manual com o automático:\n\n"
+            "```\n"
+            f"python3 \"{ROOT / 'Código' / 'fetch_asia_news.py'}\"\n"
+            "```\n\n"
+            "Ou clique em **Atualizar agora** no painel. O fetcher nunca apaga o\n"
+            "manual_additions.json — ele só lê e mistura.\n"
+        )
 
     return f"""{GATILHO}
 
@@ -118,8 +139,7 @@ Total: {len(items)} manchetes
    câmbio, inflação, atividade, comércio, imobiliário, indústria e chips,
    ou sinalização de autoridade. Nada de tape de bolsa, corporativo isolado,
    esporte ou cultura.
-3. Grave o resultado em:
-   `{MANUAL_PATH}`
+{destino}
 
 ## Checklist por país
 {checklist}
@@ -158,26 +178,20 @@ Total: {len(items)} manchetes
 Itens sem `title_en`, sem `url` ou com `region` inválida são descartados em
 silêncio pelo pipeline.
 
-## Depois de gravar
-
-Rode a coleta de novo para fundir o manual com o automático:
-
-```
-python3 "{ROOT / 'Código' / 'fetch_asia_news.py'}"
-```
-
-Ou clique em **Atualizar agora** no painel. O fetcher nunca apaga o
-manual_additions.json — ele só lê e mistura.
+{depois}
 """
 
 
 def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--json", action="store_true", help="saída JSON para o painel")
+    p.add_argument("--web", action="store_true",
+                   help="versão do painel web: a IA devolve o JSON em vez de gravar arquivo")
+    p.add_argument("--saida", help="grava o prompt neste arquivo em vez de imprimir")
     args = p.parse_args()
 
     try:
-        prompt = build()
+        prompt = build(web=args.web)
     except Exception as exc:
         if args.json:
             print(json.dumps({"ok": False, "error": f"{type(exc).__name__}: {exc}"}))
@@ -187,6 +201,8 @@ def main() -> int:
     if args.json:
         print(json.dumps({"ok": True, "prompt": prompt,
                           "manual_path": str(MANUAL_PATH)}, ensure_ascii=False))
+    elif args.saida:
+        Path(args.saida).write_text(prompt, encoding="utf-8")
     else:
         print(prompt)
     return 0

@@ -208,11 +208,15 @@ function fmtFull(iso){
   catch(e){ return iso; }
 }
 
-/* o painel local é o único que consegue rodar o fetcher */
-function canRunPanel(){
+/* modo web: servido pela Vercel, que injeta window.__MODO_WEB__ no <head>.
+   Lá a coleta roda no GitHub Actions; os botões disparam e esperam o feed. */
+function modoWeb(){ return window.__MODO_WEB__===true; }
+function painelLocal(){
   return location.protocol==="http:" &&
     (location.hostname==="127.0.0.1"||location.hostname==="localhost");
 }
+/* quem consegue buscar na web: o painel local (server.py) ou o painel web */
+function canRunPanel(){ return painelLocal() || modoWeb(); }
 
 function items(){ return (FEED.items)||[]; }
 
@@ -412,6 +416,7 @@ document.getElementById("btnRefresh").addEventListener("click",async function(){
     toast(ok?"Feed relido do disco.":"Nada novo em disco. Suba o painel para buscar na web.");
     return;
   }
+  if(modoWeb()){ await refreshWeb(b); return; }
   // A coleta leva cerca de 90s. Sem contador a pessoa acha que travou e
   // clica de novo, o que só rende um 409.
   var t0=Date.now();
@@ -449,6 +454,50 @@ document.getElementById("btnRefresh").addEventListener("click",async function(){
   }
   setTimeout(function(){ b.disabled=false; b.textContent="↻ Atualizar agora"; },3000);
 });
+
+/* Painel web: dispara a coleta no GitHub Actions e relê o feed até ele mudar.
+   O Actions leva de 1 a 3 min entre entrar na fila, coletar e commitar. */
+async function refreshWeb(b){
+  var antesCol=FEED.collected_at_utc||FEED.generated_at_utc, antesN=items().length, t0=Date.now();
+  function fim(){ setTimeout(function(){ b.disabled=false; b.textContent="↻ Atualizar agora"; },4000); }
+  var tick=setInterval(function(){
+    b.innerHTML='<span class="spin"></span>Coletando… '+Math.round((Date.now()-t0)/1000)+"s";
+  },1000);
+  try{
+    var r=await fetch("/api/asia-news-refresh",{method:"POST",
+      headers:{"Content-Type":"application/json"},body:"{}"});
+    var d=await r.json();
+    if(!d.ok) throw new Error(d.error||"falhou");
+    toast("Coleta pedida ao GitHub. Leva de 1 a 3 minutos — pode continuar lendo.",5000);
+    while(Date.now()-t0 < 360000){
+      await new Promise(function(ok){ setTimeout(ok,15000); });
+      try{
+        var rr=await fetch("Cache/feed.json?t="+Date.now(),{cache:"no-store"});
+        if(!rr.ok) continue;
+        var nd=await rr.json();
+      }catch(e){ continue; }
+      if(nd && nd.items && (nd.collected_at_utc||nd.generated_at_utc)!==antesCol){
+        clearInterval(tick); FEED=nd; render();
+        var seg=Math.round((Date.now()-t0)/1000), novas=items().length-antesN;
+        if(nd.degraded){
+          b.textContent="⚠ sem fontes";
+          toast("A coleta não alcançou as fontes ("+(nd.sources_ok||0)+" de "+
+                (nd.sources_total||0)+" responderam). O feed anterior foi mantido.",8000);
+        }else{
+          b.textContent="✓ "+items().length+" no feed"+(novas>0?" (+"+novas+")":"");
+          toast("Coleta concluída em "+seg+"s · "+items().length+" manchetes");
+        }
+        fim(); return;
+      }
+    }
+    clearInterval(tick); b.textContent="Ainda na fila";
+    toast("O GitHub ainda não terminou. O painel se atualiza sozinho quando a coleta chegar.",7000);
+  }catch(e){
+    clearInterval(tick); b.textContent="Falhou";
+    toast("Não consegui pedir a coleta: "+e.message,7000);
+  }
+  fim();
+}
 
 document.getElementById("btnManual").addEventListener("click",async function(){
   if(!canRunPanel()){ toast("Precisa do painel local em 127.0.0.1 para gerar o prompt.",4200); return; }
@@ -497,6 +546,36 @@ function showPrompt(text){
     '<button id="pClose">Fechar</button>'+
     '<span style="margin-left:auto;font-size:12px;color:var(--tx3)">Depois de gravar manual_additions.json, clique em Atualizar agora</span></footer></div>';
   ov.querySelector("pre").textContent=text;
+  if(modoWeb()){
+    ov.querySelector("footer span").textContent="Copie, rode num chat de IA com web e cole a resposta abaixo";
+    var box=document.createElement("div");
+    box.style.cssText="border-top:1px solid var(--line);padding:12px 18px;display:flex;flex-direction:column;gap:8px";
+    box.innerHTML='<label for="pJson" style="font-size:12px;font-weight:600">Resultado da IA</label>'+
+      '<textarea id="pJson" rows="6" placeholder="Cole aqui o bloco JSON que a IA devolveu" '+
+      'style="width:100%;box-sizing:border-box;font:12px/1.5 ui-monospace,Menlo,monospace;padding:8px;'+
+      'border:1px solid var(--line);border-radius:8px;resize:vertical"></textarea>'+
+      '<div><button class="primary" id="pSend">Enviar resultado</button></div>';
+    ov.querySelector(".modal").insertBefore(box, ov.querySelector(".modal footer"));
+    box.querySelector("#pSend").addEventListener("click",async function(){
+      var sb=this, txt=box.querySelector("#pJson").value.trim();
+      if(!txt){ toast("Cole o JSON da IA primeiro."); return; }
+      sb.disabled=true; sb.innerHTML='<span class="spin"></span>Enviando…';
+      try{
+        var r=await fetch("/api/asia-news-manual-save",{method:"POST",
+          headers:{"Content-Type":"application/json"},body:JSON.stringify({texto:txt})});
+        var d=await r.json();
+        if(!d.ok) throw new Error(d.error||"falhou");
+        ov.remove();
+        toast(d.count+" manchete"+(d.count>1?"s":"")+" gravada"+(d.count>1?"s":"")+
+              (d.discarded?" ("+d.discarded+" descartada"+(d.discarded>1?"s":"")+" por falta de campo)":"")+
+              ". A coleta que funde tudo já foi pedida — aparece em 1 a 3 min.",8000);
+        setTimeout(reloadFeed,120000); setTimeout(reloadFeed,240000);
+      }catch(e){
+        sb.disabled=false; sb.textContent="Enviar resultado";
+        toast("Não gravei: "+e.message,8000);
+      }
+    });
+  }
   document.body.appendChild(ov);
   ov.addEventListener("click",function(e){ if(e.target===ov) ov.remove(); });
   ov.querySelector("#pClose").addEventListener("click",function(){ ov.remove(); });
@@ -514,6 +593,10 @@ document.addEventListener("keydown",function(e){
   if(e.key==="/" && document.activeElement.tagName!=="INPUT"){ e.preventDefault(); document.getElementById("q").focus(); }
 });
 
+if(modoWeb()){
+  document.getElementById("btnOff").style.display="none";
+  document.getElementById("btnRefresh").title="Pede uma coleta nova ao GitHub Actions (1 a 3 min)";
+}
 reloadFeed();   /* se estiver servido, pega a versão mais recente do disco */
 render();
 </script>
