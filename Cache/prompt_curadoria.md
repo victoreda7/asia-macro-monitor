@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-28T16:31:58.197883+00:00
+Última coleta: 2026-09-28T17:03:01.375165+00:00
 Total: 420 manchetes
 
   🇯🇵 Japão          151
@@ -17,6 +17,7 @@ Total: 420 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] The 14-day reverse repurchase restarted, and the central bank’s open market operations invested a total of 1.1
   - [korea] Seoul stocks sink over 2.5% on chip losses
   - [china] CBOT soybean futures plunge as China tariff cuts exclude soybeans
   - [japan] Preview: Forecasters See Japan September Tankan Showing Large Manufacturers’ Sentiment at +25, Highest Since 2
@@ -56,7 +57,6 @@ Total: 420 manchetes
   - [japan] A very annoying "Christmas gift"...The Bank of Japan's proposal infuriated the Banking Bureau of the Ministry 
   - [korea] Will continuous increases in base interest rates put a burden on the profitability of savings banks?
   - [taiwan] TSMC affiliate already eyes expansion as first Singapore plant 'sells out'
-  - [china] US and China list Christmas ornaments, lumber, camels for tariff cuts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 420 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-28T16:31:58+00:00",
+      "published_utc": "2026-09-28T17:03:01+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
