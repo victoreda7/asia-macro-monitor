@@ -12,9 +12,9 @@ export default async function handler(req, res) {
       .replace(/<!-- favicon[\s\S]*?-->\s*/g, "")
       .replace(/<link rel="(?:icon|alternate icon|apple-touch-icon)"[^>]*>\s*/g, "");
     const icone =
-      '\n<link rel="icon" href="/favicon.svg?v=2" type="image/svg+xml">' +
-      '\n<link rel="icon" href="/favicon-32.png?v=2" type="image/png" sizes="32x32">' +
-      '\n<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2">';
+      '\n<link rel="icon" href="/favicon.svg?v=3" type="image/svg+xml">' +
+      '\n<link rel="icon" href="/favicon-32.png?v=3" type="image/png" sizes="32x32">' +
+      '\n<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=3">';
     // Liga o modo web do painel: botões passam a falar com as funções daqui
     // (e não com o server.py local), e o "Desligar" some.
     html = html.replace(
