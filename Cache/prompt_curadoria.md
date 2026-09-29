@@ -7,21 +7,40 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-28T21:21:24.868304+00:00
+Última coleta: 2026-09-29T01:12:24.787802+00:00
 Total: 420 manchetes
 
-  🇯🇵 Japão          153
-  🇨🇳 China          127
-  🇹🇼 Taiwan          34
-  🇰🇷 Coreia do Sul  106
+  🇯🇵 Japão          151
+  🇨🇳 China          121
+  🇹🇼 Taiwan          35
+  🇰🇷 Coreia do Sul  113
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul stocks open lower on inflation woes
+  - [korea] Samsung Electronics: HBM will account for nearly 30% of industry DRAM capacity next year
+  - [china] Soybeans near one-month low on exclusion from China's proposed tariff cuts
+  - [korea] Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year
+  - [korea] While the Seoul apartment sales price index, which compared January to August this year, rose 6.4%
+  - [korea] (LEAD) Seoul stocks open lower on inflation woes
+  - [korea] Hanmi Semiconductor Wins 8 Billion Won Order
+  - [korea] (URGENT) Seoul stocks open lower on inflation woes
+  - [korea] Samsung Electronics allocates US$1 billion to expand Helix Digital AI, a company backed by KKR
+  - [korea] Samsung Electronics commits $1 billion to KKR-backed Helix Digital AI buildout
+  - [japan] Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen
+  - [korea] Samsung Electro-Mechanics' Vietnam Affiliate to Spend KRW2.510T to Expand Chip-Substrate Production
+  - [korea] Samsung Electro-Mechanics to Spend KRW4.270T to Expand Chip-Substrate Production in Sejong
+  - [taiwan] Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard
+  - [taiwan] Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win
+  - [japan] Business confidence improves due to AI demand, but rising prices are a headwind for personal consumption (Sept
+  - [japan] Should I sell the “New NISA” due to the Bank of Japan interest rate hike? Misconception that “interest rate hi
+  - [japan] It's a miracle that ``Japanese gin'' sells ``430,000 bottles a year'' in its home country of England...The tru
   - [japan] Japan's Resonac develops large wafers that can yield 4 times as many chips
+  - [japan] Used condominium market plunges into “inventory hell” due to Bank of Japan interest rate hike (Bunshun Online)
   - [korea] Biz sentiment falls in September on rising costs: BOK
   - [japan] A direct interview with the CEO of heating type king “IQOS”! The existence of competitors such as JT is "welco
-  - [japan] <Tax increase from October> Will the price advantage of heating type disappear? How will JT and BAT challenge 
   - [china] The need for a "New Plaza Accord" increases as China's trade surplus increases dramatically... A huge trade im
+  - [japan] Will the price advantage of heating type disappear? How will JT and BAT challenge the champion "ICOS" with a 7
   - [korea] SK Hynix Stock Falls 5.1% as Rubin Memory Moves Into View
   - [japan] Yen Gains After Japan’s Currency Czar Warns Against Weakness
   - [korea] PAG Real Assets eyes $2 bn investment in S.Korean real estate
@@ -38,25 +57,6 @@ Total: 420 manchetes
   - [china] Brazil signs an agreement with China to export pork offal; ABPA sees more than US$100 million in revenue
   - [japan] The Bank of Japan releases the minutes of its July monetary policy meeting, with several members giving positi
   - [china] US, China Release Product Lists for $30 Billion Tariff Deal
-  - [taiwan] TSMC, others hold recruitment campaign in Silicon Valley
-  - [china] Soybeans plummet more than 20 points in Chicago after China keeps American grain out of tariff cuts
-  - [china] Russian oil supply to India tightens on reduced exports, strong Chinese demand
-  - [japan] Citi sees Japan yen intervention likely near 160 per dollar By Investing.com
-  - [japan] Citi sees Japan yen intervention likely near 160 per dollar
-  - [china] China Auto Subsidy Scheme Unravels, Leaving Consumers and Banks Exposed
-  - [taiwan] VIS-NXP JV chip fab enters initial production stage
-  - [japan] Exclusive-Japan’s currency diplomat Mimura urges markets to heed ’very clear’ warning on yen By Reuters
-  - [japan] EXCLUSIVE: Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen
-  - [korea] [Preview of National Assembly Inspection] Bank of Korea Governor Shin Hyun-song’s first National Assembly insp
-  - [china] The central bank launched three-term reverse repos on September 28, with a net investment of 439.7 billion yua
-  - [china] The central bank launched three-term reverse repos on September 28, with a net investment of 439.7 billion yua
-  - [korea] This week, a window manufacturing company with annual sales of 20 billion won was registered as a sa..
-  - [china] China e EUA concordam em reduzir tarifas sobre US$60 bi em mercadorias
-  - [korea] [Palm Economy] Base interest rates in global financial markets
-  - [japan] Bank of Japan releases summary of July decision-making meeting; multiple members call for acceleration of inte
-  - [japan] BREAKING NEWS: Dollar plunges nearly 1 yen, falls below 157 line
-  - [korea] As construction of industrial facilities, including private semiconductor production facilities, inc..
-  - [japan] Asia stocks slip as oil, yields rise; chipmakers hit by OpenAI pause
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 420 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-28T21:21:24+00:00",
+      "published_utc": "2026-09-29T01:12:24+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
