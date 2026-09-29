@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T18:55:00.909712+00:00
+Última coleta: 2026-09-29T19:02:46.365437+00:00
 Total: 420 manchetes
 
   🇯🇵 Japão          152
@@ -17,19 +17,20 @@ Total: 420 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea launches its own version of popular US fund Roundhill Memory ETF DRAM
   - [taiwan] TSMC Stock Moves Higher as AI Revival Meets Capacity Risk
   - [taiwan] TSMC's 2nm Push Could Create a New Winner in the AI Chip Boom
   - [korea] Samsung Electronics Stock Gains as Helix Draws $1 Billion
   - [korea] Korea’s dollar store giant Daiso emerges as real estate player with $355 mn deals
   - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarter
   - [korea] Seoul stocks fall for 2nd day on inflation woes
+  - [china] Demand Boost for US Crops Still Unclear After China Tariff Cuts
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
   - [japan] Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook
   - [china] Four arrows fired in unison! After the National Standing Committee set the tone, the central bank launched a n
   - [china] China launches 'mini stimulus' targeting affordable homes, infrastructure
   - [china] China announces interest rate cuts and mortgage subsidies to boost growth
   - [china] Libya's High State Council rejects changes to presidential election law as "unconstitutional"-Xinhua
-  - [korea] Korea launches its own version of popular US fund Roundhill Memory ETF DRAM
   - [china] China unveils rate cut, mortgage subsidies to spur growth
   - [china] China espera que comércio cresça apesar dos desafios externos
   - [china] KMT, TPP legislators reject all 27 of Lai's Control Yuan nominees
@@ -44,7 +45,6 @@ Total: 420 manchetes
   - [japan] 2-year interest rate approaches 2%, Bank of Japan's stance is changing - Assessing the Tankan (Reuters)
   - [korea] Issues that affect the decision to increase interest rates... Look at the remarks of the Monetary Policy Commi
   - [japan] Asia stocks subdued as rising yields, oil weigh; RBA hikes rates as expected
-  - [china] Demand Boost for US Crops Still Unclear After China Tariff Cuts
   - [japan] EQt Raises Tender Offer Price For Kakaku.Com To 3,681 Yen From 3,680 Yen, Filing Shows
   - [korea] The Bank of Korea approves a monetary and credit policy report containing the background for raising the base 
   - [japan] Japanese Shares Fall on Inflation Worries
@@ -116,7 +116,7 @@ Total: 420 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T18:55:01+00:00",
+      "published_utc": "2026-09-29T19:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
