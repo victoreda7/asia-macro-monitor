@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T19:02:46.365437+00:00
-Total: 420 manchetes
+Última coleta: 2026-09-29T19:03:58.131364+00:00
+Total: 3000 manchetes
 
-  🇯🇵 Japão          152
-  🇨🇳 China          119
-  🇹🇼 Taiwan          34
-  🇰🇷 Coreia do Sul  115
+  🇯🇵 Japão          1255
+  🇨🇳 China          767
+  🇹🇼 Taiwan         259
+  🇰🇷 Coreia do Sul  719
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan to create state investment fund for defense startups, eyeing more drones
+  - [taiwan] The Trump-Xi summit leaves Taiwan in limbo
   - [korea] Korea launches its own version of popular US fund Roundhill Memory ETF DRAM
   - [taiwan] TSMC Stock Moves Higher as AI Revival Meets Capacity Risk
   - [taiwan] TSMC's 2nm Push Could Create a New Winner in the AI Chip Boom
   - [korea] Samsung Electronics Stock Gains as Helix Draws $1 Billion
+  - [japan] Prime Minister Takaichi held a summit meeting with Prime Minister of Mongolia Nyamuosor Otilal
   - [korea] Korea’s dollar store giant Daiso emerges as real estate player with $355 mn deals
   - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarter
   - [korea] Seoul stocks fall for 2nd day on inflation woes
@@ -29,9 +32,11 @@ Total: 420 manchetes
   - [japan] Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook
   - [china] Four arrows fired in unison! After the National Standing Committee set the tone, the central bank launched a n
   - [china] China launches 'mini stimulus' targeting affordable homes, infrastructure
+  - [japan] Oil giants rush to help Italy's Meloni curb energy costs with fuel price caps
   - [china] China announces interest rate cuts and mortgage subsidies to boost growth
   - [china] Libya's High State Council rejects changes to presidential election law as "unconstitutional"-Xinhua
   - [china] China unveils rate cut, mortgage subsidies to spur growth
+  - [china] What trap? US-China relations show conflict is far from inevitable
   - [china] China espera que comércio cresça apesar dos desafios externos
   - [china] KMT, TPP legislators reject all 27 of Lai's Control Yuan nominees
   - [china] China Offers Mortgage Subsidies to Boost Ailing Property Sector
@@ -52,11 +57,6 @@ Total: 420 manchetes
   - [japan] The Bank of Japan and the Federal Reserve have no choice but to worry about stock prices -- The focus of monet
   - [china] Stifel upgrades STAAR Surgical stock rating on China growth outlook
   - [korea] SK Hynix Could Post Lower-Than-Expected But Still Record 3Q Operating Profit — Market Talk
-  - [korea] (LEAD) Seoul stocks fall for 2nd day on inflation woes
-  - [taiwan] Column: Why Micron's US$250M venture fund is about more than HBM margins—Taiwan has a stake in it
-  - [korea] (URGENT) Seoul stocks fall for 2nd day on inflation woes
-  - [china] China Signals Economic Stimulus to Counter Worsening Slowdown
-  - [china] ‘Important and consequential’: Jensen Huang on US-China AI race, risk management
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 420 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T19:02:46+00:00",
+      "published_utc": "2026-09-29T19:03:58+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
