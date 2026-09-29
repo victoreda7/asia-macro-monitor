@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T22:52:45.203000+00:00
+Última coleta: 2026-09-29T23:02:49.224830+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1265
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] The annual interest burden of the Korea Land and Housing Corporation (LH), which supports the govern..
   - [japan] Tsuyoshi Morioka's reputation has changed from being the ``God of Marketing''...The true nature of his ``abili
   - [korea] Trump set to unveil $200B South Korean U.S. investment plan
   - [japan] Three banks in Chiba Prefecture raise interest rates to 0.5% for ordinary deposits in response to Bank of Japa
@@ -51,7 +52,6 @@ Total: 3000 manchetes
   - [china] China to subsidize mortgage interest for first-time home buyers
   - [china] China cuts key interest rate, offers mortgage subsidy to boost economy
   - [japan] Supplementary budget proposal of 14.9 billion yen TEPCO's contribution to snow removal support: Prefectural as
-  - [korea] The annual interest burden of the Korea Land and Housing Corporation (LH), which supports the govern..
   - [korea] Seoul stocks open lower on inflation woes
   - [japan] What will happen this winter as electricity prices reach record highs? [Q&A]
   - [taiwan] In global semiconductor race, Singapore bets on critical, mature technologies
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T22:52:45+00:00",
+      "published_utc": "2026-09-29T23:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
