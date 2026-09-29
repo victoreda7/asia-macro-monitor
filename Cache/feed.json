@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-09-29T21:52:48.284878+00:00",
- "collected_at_utc": "2026-09-29T21:52:48.284878+00:00",
+ "generated_at_utc": "2026-09-29T22:02:45.829495+00:00",
+ "collected_at_utc": "2026-09-29T22:02:45.829495+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,24 +11,8 @@
   "taiwan": 256,
   "korea": 718
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 29.5,
  "sources": [
-  {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -176,10 +160,18 @@
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS China (GN)",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 15/07/2026",
-   "newest": "2026-07-15T07:00:00+00:00"
+   "error": "",
+   "newest": "2026-09-15T07:00:00+00:00"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-09-28T20:58:17+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -222,6 +214,14 @@
    "newest": "2026-09-29T20:21:44+00:00"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-09-29T13:19:22+00:00"
+  },
+  {
    "source_id": "gn_kr_reuters",
    "name": "Reuters Korea",
    "ok": true,
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-09-29T21:30:07+00:00"
+   "newest": "2026-09-29T21:59:03+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-29T21:52:00+00:00"
+   "newest": "2026-09-29T22:00:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-09-30T06:45:00+09:00"
+   "newest": "2026-09-30T07:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -11785,7 +11785,7 @@
    "id": "55af513ce28ed339"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "US stresses backing for Japan, Korea and Taiwan ahead of Trump-Xi summit",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM3kxaTQ5UmlqZnlsTkdFQUc1bS1TMlJST0gxUFhWZmFNendlU3pUY3pyZHh4ZW9vaHBQbjZWOURPTHppTWVQQTRxa1FJN1RyYlkwbGFoR0dyYTF2VWh1MEFTY2ViSTgxdXBkNWw4Y3BpZk9GQ3ZuZm92SWVuN0xpeUZITFRMcl9QSU5zWEkycUNDR21JQlJ4V1RtVjJkNkwwbDAzWU1nd0Q4QlU?oc=5",
@@ -11799,7 +11799,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "c0cd215644d8cfd7"
+   "id": "829f4bfb9e526069"
   },
   {
    "source_id": "korea_herald_biz",
