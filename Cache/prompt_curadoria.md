@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T23:02:49.224830+00:00
+Última coleta: 2026-09-29T23:09:51.307016+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1265
-  🇨🇳 China          761
+  🇨🇳 China          760
   🇹🇼 Taiwan         256
-  🇰🇷 Coreia do Sul  718
+  🇰🇷 Coreia do Sul  719
 
 ## O que já está no feed (não repita)
 
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [japan] Roland revived from a large deficit through MBO...6 years after relisting, now that the fund that supported th
   - [korea] SK Hynix Stock Rises While Bernstein Cuts Target
   - [taiwan] Wells Fargo Spots Unexpected Winner in TSMC's 2nm Race
+  - [korea] Appeals court declines to pause sanctions against Trump lawyers in IRS settlement
   - [japan] Japan to create state investment fund for defense startups, eyeing more drones
   - [taiwan] The Trump-Xi summit leaves Taiwan in limbo
   - [korea] Korea launches its own version of popular US fund Roundhill Memory ETF DRAM
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] What will happen this winter as electricity prices reach record highs? [Q&A]
   - [taiwan] In global semiconductor race, Singapore bets on critical, mature technologies
   - [japan] 2-year interest rate approaches 2%, Bank of Japan's intention to change stance Assessing the Tankan (Reuters)
-  - [japan] 2-year interest rate approaches 2%, Bank of Japan's stance is changing - Assessing the Tankan (Reuters)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T23:02:49+00:00",
+      "published_utc": "2026-09-29T23:09:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
