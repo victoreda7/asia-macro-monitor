@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T21:22:45.919169+00:00
+Última coleta: 2026-09-29T21:32:47.224903+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1264
   🇨🇳 China          762
-  🇹🇼 Taiwan         257
-  🇰🇷 Coreia do Sul  717
+  🇹🇼 Taiwan         256
+  🇰🇷 Coreia do Sul  718
 
 ## O que já está no feed (não repita)
 
+  - [korea] Trump set to unveil $200B South Korean U.S. investment plan
   - [japan] Three banks in Chiba Prefecture raise interest rates to 0.5% for ordinary deposits in response to Bank of Japa
   - [japan] Nikkei average could reach 80,000 yen level due to six performance improvement drivers such as AI and semicond
   - [japan] <Liquor tax will be unified from October> Behind the scenes of dependence on champion Asahi's "Super Dry"... "
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] 2-year interest rate approaches 2%, Bank of Japan's intention to change stance Assessing the Tankan (Reuters)
   - [japan] 2-year interest rate approaches 2%, Bank of Japan's stance is changing - Assessing the Tankan (Reuters)
   - [korea] Issues that affect the decision to increase interest rates... Look at the remarks of the Monetary Policy Commi
-  - [japan] Asia stocks subdued as rising yields, oil weigh; RBA hikes rates as expected
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T21:22:46+00:00",
+      "published_utc": "2026-09-29T21:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
