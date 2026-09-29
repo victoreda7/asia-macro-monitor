@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T19:22:45.657385+00:00
+Última coleta: 2026-09-29T19:32:48.288127+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1262
+  🇯🇵 Japão          1261
   🇨🇳 China          762
   🇹🇼 Taiwan         257
-  🇰🇷 Coreia do Sul  719
+  🇰🇷 Coreia do Sul  720
 
 ## O que já está no feed (não repita)
 
@@ -30,6 +30,7 @@ Total: 3000 manchetes
   - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarter
   - [korea] Seoul stocks fall for 2nd day on inflation woes
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
+  - [korea] The Korean financial market is tense due to the sharp rise in US and Japanese government bond yields... Bank o
   - [japan] Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook
   - [china] Four arrows fired in unison! After the National Standing Committee set the tone, the central bank launched a n
   - [china] China launches 'mini stimulus' targeting affordable homes, infrastructure
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] EQt Raises Tender Offer Price For Kakaku.Com To 3,681 Yen From 3,680 Yen, Filing Shows
   - [japan] Stock prices have fallen in a wide range of stocks due to the rise in crude oil futures prices.
   - [korea] The Bank of Korea approves a monetary and credit policy report containing the background for raising the base 
-  - [japan] Japanese Shares Fall on Inflation Worries
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T19:22:45+00:00",
+      "published_utc": "2026-09-29T19:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
