@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T19:12:51.639024+00:00
+Última coleta: 2026-09-29T19:22:45.657385+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1262
-  🇨🇳 China          764
+  🇨🇳 China          762
   🇹🇼 Taiwan         257
-  🇰🇷 Coreia do Sul  717
+  🇰🇷 Coreia do Sul  719
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix Stock Rises While Bernstein Cuts Target
   - [taiwan] Wells Fargo Spots Unexpected Winner in TSMC's 2nm Race
   - [japan] Japan to create state investment fund for defense startups, eyeing more drones
   - [taiwan] The Trump-Xi summit leaves Taiwan in limbo
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Stock prices have fallen in a wide range of stocks due to the rise in crude oil futures prices.
   - [korea] The Bank of Korea approves a monetary and credit policy report containing the background for raising the base 
   - [japan] Japanese Shares Fall on Inflation Worries
-  - [taiwan] Singapore's chip progress
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T19:12:51+00:00",
+      "published_utc": "2026-09-29T19:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
