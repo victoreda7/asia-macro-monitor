@@ -7,36 +7,38 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T12:08:01.396390+00:00
+Última coleta: 2026-09-29T13:20:21.110238+00:00
 Total: 420 manchetes
 
-  🇯🇵 Japão          155
-  🇨🇳 China          116
-  🇹🇼 Taiwan          32
+  🇯🇵 Japão          154
+  🇨🇳 China          118
+  🇹🇼 Taiwan          31
   🇰🇷 Coreia do Sul  117
 
 ## O que já está no feed (não repita)
 
   - [korea] Seoul stocks fall for 2nd day on inflation woes
-  - [china] China espera que comércio cresça apesar dos desafios externos
+  - [china] China launches 'mini stimulus' targeting affordable homes, infrastructure
+  - [china] Libya's High State Council rejects changes to presidential election law as "unconstitutional"-Xinhua
+  - [korea] Korea launches its own version of popular US fund Roundhill Memory ETF DRAM
   - [china] China unveils rate cut, mortgage subsidies to spur growth
+  - [china] China espera que comércio cresça apesar dos desafios externos
   - [china] KMT, TPP legislators reject all 27 of Lai's Control Yuan nominees
   - [korea] Korea’s dollar store giant Daiso emerges as real estate player with $355 mn deals
   - [china] China to subsidize mortgage interest for first-time home buyers
   - [japan] Supplementary budget proposal of 14.9 billion yen TEPCO's contribution to snow removal support: Prefectural as
   - [korea] The annual interest burden of the Korea Land and Housing Corporation (LH), which supports the govern..
   - [korea] Seoul stocks open lower on inflation woes
-  - [china] China asks local governments to ‘intensify’ policy tweaks to boost consumption
   - [taiwan] In global semiconductor race, Singapore bets on critical, mature technologies
   - [japan] Japan to spend 111.8 bil. yen on tax cut preparation
   - [japan] 2-year interest rate approaches 2%, Bank of Japan's intention to change stance Assessing the Tankan (Reuters)
+  - [japan] 2-year interest rate approaches 2%, Bank of Japan's stance is changing - Assessing the Tankan (Reuters)
   - [korea] Issues that affect the decision to increase interest rates... Look at the remarks of the Monetary Policy Commi
   - [japan] EQt Raises Tender Offer Price For Kakaku.Com To 3,681 Yen From 3,680 Yen, Filing Shows
   - [japan] Asia stocks subdued as rising yields, oil weigh; RBA hikes rates as expected
   - [korea] The Bank of Korea approves a monetary and credit policy report containing the background for raising the base 
   - [japan] Japanese Shares Fall on Inflation Worries
   - [taiwan] Singapore's chip progress
-  - [korea] Korea launches its own version of popular US fund Roundhill Memory ETF DRAM
   - [japan] The Bank of Japan and the Federal Reserve have no choice but to worry about stock prices -- The focus of monet
   - [china] Stifel upgrades STAAR Surgical stock rating on China growth outlook
   - [korea] SK Hynix Could Post Lower-Than-Expected But Still Record 3Q Operating Profit — Market Talk
@@ -51,12 +53,10 @@ Total: 420 manchetes
   - [taiwan] Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal
   - [taiwan] GlobalFoundries eyes GaN expansion to challenge TSMC in AI
   - [korea] SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform
+  - [china] China asks local governments to ‘intensify’ policy tweaks to boost consumption
   - [japan] [By prefecture] The prefecture with the highest prices is Tokyo, and the second is Kanagawa Prefecture...A ran
   - [china] China’s LNG Imports to Fall for Second Month Due to High Prices
   - [taiwan] TSMC helps VSMC build first Singapore fab in 22 months at lower cost than US
-  - [japan] The prefecture's economy is left unchanged as a "moderate recovery." Prices continue to be under upward pressu
-  - [korea] Foreign media reviews are positive on the pace of interest rate hikes by the Bank of Korea, “leading to a natu
-  - [korea] Samsung Electronics, SK hynix rebound on bargain-hunting
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 420 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T12:08:01+00:00",
+      "published_utc": "2026-09-29T13:20:21+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
