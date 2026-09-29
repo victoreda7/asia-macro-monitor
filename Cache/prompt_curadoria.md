@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T21:02:49.229653+00:00
+Última coleta: 2026-09-29T21:12:50.417783+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1263
+  🇯🇵 Japão          1264
   🇨🇳 China          762
   🇹🇼 Taiwan         257
-  🇰🇷 Coreia do Sul  718
+  🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
+  - [japan] Three banks in Chiba Prefecture raise interest rates to 0.5% for ordinary deposits in response to Bank of Japa
+  - [japan] Nikkei average could reach 80,000 yen level due to six performance improvement drivers such as AI and semicond
   - [japan] <Liquor tax will be unified from October> Behind the scenes of dependence on champion Asahi's "Super Dry"... "
   - [japan] Roland revived from a large deficit through MBO...6 years after relisting, now that the fund that supported th
   - [korea] SK Hynix Stock Rises While Bernstein Cuts Target
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] 2-year interest rate approaches 2%, Bank of Japan's stance is changing - Assessing the Tankan (Reuters)
   - [korea] Issues that affect the decision to increase interest rates... Look at the remarks of the Monetary Policy Commi
   - [japan] Asia stocks subdued as rising yields, oil weigh; RBA hikes rates as expected
-  - [china] Demand Boost for US Crops Still Unclear After China Tariff Cuts
-  - [japan] EQt Raises Tender Offer Price For Kakaku.Com To 3,681 Yen From 3,680 Yen, Filing Shows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T21:02:49+00:00",
+      "published_utc": "2026-09-29T21:12:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
