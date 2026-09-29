@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-09-29T19:03:58.131364+00:00",
- "collected_at_utc": "2026-09-29T19:03:58.131364+00:00",
+ "generated_at_utc": "2026-09-29T19:12:51.639024+00:00",
+ "collected_at_utc": "2026-09-29T19:12:51.639024+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1255,
-  "china": 767,
-  "taiwan": 259,
-  "korea": 719
+  "japan": 1262,
+  "china": 764,
+  "taiwan": 257,
+  "korea": 717
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 34.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-29T15:59:50+00:00"
+   "newest": "2026-09-29T15:59:28+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -176,18 +176,18 @@
   {
    "source_id": "nhk_politics",
    "name": "NHK 政治",
-   "ok": false,
+   "ok": true,
    "count": 60,
-   "error": "parada desde 08/08/2026",
-   "newest": "2026-08-08T10:04:37+09:00"
+   "error": "",
+   "newest": "2026-09-30T04:07:30+09:00"
   },
   {
    "source_id": "nhk_economy",
    "name": "NHK 経済",
-   "ok": false,
+   "ok": true,
    "count": 60,
-   "error": "parada desde 08/08/2026",
-   "newest": "2026-08-08T15:10:11+09:00"
+   "error": "",
+   "newest": "2026-09-30T01:21:10+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-29T19:02:00+00:00"
+   "newest": "2026-09-29T19:11:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "Wells Fargo Spots Unexpected Winner in TSMC's 2nm Race",
+   "url": "https://www.tradingview.com/news/gurufocus:840ac4e5c094b:0-wells-fargo-spots-unexpected-winner-in-tsmc-s-2nm-race/",
+   "published_utc": "2026-09-29T19:11:01+00:00",
+   "title_original": "Wells Fargo Spots Unexpected Winner in TSMC's 2nm Race",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b609fcb4b4f928b6"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -481,7 +498,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarters",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWm80akZhQ3RNeEZZa3RsRTdXSWk2Q3o2V2RTSGl2NmRJcTZYRXZkMFBjb3JBX0Y5VzN2LTBTSW1FZHRqdzdmWVdwQ0plLU1vVER5ZTRVblZNNFlzTmhIMExkYWk2alRaZTNLUTVfdy1VOFhJVGYzaXZfSkx6ZTliOHVfMlk3WjVKelVMeEdFLW1CTFd4WHVZSw?oc=5",
    "published_utc": "2026-09-29T16:07:30+00:00",
@@ -512,23 +529,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ea114a08bc5fc50"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Demand Boost for US Crops Still Unclear After China Tariff Cuts",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3BxanVseGp0Zmx1TVdIdXA1UXN1dmt6VWstLUVZNnQxckEzS0g1TTdMaHZIYUJmQ3YtcmprenUzZnQxckRyM09ObFV5ZEFmaTBaOVJLTkNiajVJMkxidFR2c3VJVG1SNzIzSUlQQTI1Y01aVHlaWnJoWEpMWWdGS0ctbTB2NzNUcDB5ZVE0SzJtS01rR1FpRUFSRGowMGtSRGdxNUMzU3ZhdUgzWDA5SGF2SEg?oc=5",
-   "published_utc": "2026-09-29T15:59:50+00:00",
-   "title_original": "Demand Boost for US Crops Still Unclear After China Tariff Cuts",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c246d2611f0eff25"
   },
   {
    "source_id": "tradingview_live",
@@ -567,7 +567,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "Four arrows fired in unison! After the National Standing Committee set the tone, the central bank launched a new round of financial package to stabilize growth.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BY1g1LThUdWZicmQ0bmZlOWlmZWdDTU1WM0xHLXNGX2tzTUs4MXZRTXl0bFhIZ3ZyTHZwUEpVc1plZ3owbGJ1SW1XMVBXU2V0cTFyZDFrZC1XT3lJRGhyU3NnRXJ2aU5ITE0zWkI3VUpydjktUVRQQg?oc=5",
    "published_utc": "2026-09-29T13:31:21+00:00",
@@ -724,7 +724,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China Offers Mortgage Subsidies to Boost Ailing Property Sector",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ21qdFBiWUY4MjJ6YkVBamdrZ25tQ1dUNFdXRU01am91MjdRdVFUZTB2N2FRcndBdW9FQzBEeDJaRXBYbl9QUWs0QmJTQ2prejE0c1pSNklqWDFhTVlwR0hCQWs5dVoxNDZqYTQ5QXJrT2dxbHotWmlJYm1oQm5lSmRLNXJyTm9uUkZnN2p3SGhNclZ0bnl4aDlaZXlQOUdsRzVjVEg2enBFU0MzQklsc0duUFc?oc=5",
    "published_utc": "2026-09-29T10:25:20+00:00",
@@ -798,7 +798,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "mk.co.kr",
    "title_en": "The annual interest burden of the Korea Land and Housing Corporation (LH), which supports the govern..",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FLU9zSDdhU3lPZ05CNWRQUXZtcXB1NFpYZ3FKUEJab0JadDZ1a3RnSWRkSWpSaktmYTlnMmZ1Mjl5Rk4wcWhQa2lmckJFSzdlUmtzV0Fn?oc=5",
    "published_utc": "2026-09-29T09:33:47+00:00",
@@ -829,6 +829,23 @@
    "live_wire": false,
    "manual": false,
    "id": "aea6b278d10f5b3a"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "What will happen this winter as electricity prices reach record highs? [Q&A]",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260929de52999",
+   "published_utc": "2026-09-29T09:13:00+00:00",
+   "title_original": "電気料金が「過去最高」の水準へ この冬はどうなる？【Q＆A】",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ae346823dd1f3fbc"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -919,6 +936,23 @@
    "id": "64b626f251a1a403"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Demand Boost for US Crops Still Unclear After China Tariff Cuts",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3BxanVseGp0Zmx1TVdIdXA1UXN1dmt6VWstLUVZNnQxckEzS0g1TTdMaHZIYUJmQ3YtcmprenUzZnQxckRyM09ObFV5ZEFmaTBaOVJLTkNiajVJMkxidFR2c3VJVG1SNzIzSUlQQTI1Y01aVHlaWnJoWEpMWWdGS0ctbTB2NzNUcDB5ZVE0SzJtS01rR1FpRUFSRGowMGtSRGdxNUMzU3ZhdUgzWDA5SGF2SEg?oc=5",
+   "published_utc": "2026-09-29T07:53:24+00:00",
+   "title_original": "Demand Boost for US Crops Still Unclear After China Tariff Cuts",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c246d2611f0eff25"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "EQt Raises Tender Offer Price For Kakaku.Com To 3,681 Yen From 3,680 Yen, Filing Shows",
@@ -936,8 +970,25 @@
    "id": "2d3de29fba20f3cd"
   },
   {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock prices have fallen in a wide range of stocks due to the rise in crude oil futures prices.",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260929de53027",
+   "published_utc": "2026-09-29T07:23:27+00:00",
+   "title_original": "株価 値下がり 原油先物価格の上昇を背景に幅広い銘柄で",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4c69afbccef4e1c0"
+  },
+  {
    "source_id": "gn_kr_bok",
-   "source_name": "리드경제",
+   "source_name": "leadeconomy.co.kr",
    "title_en": "The Bank of Korea approves a monetary and credit policy report containing the background for raising the base interest rate.",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUTUtHQXhVdHBJVmVackY1cXpQVXY2TFZwU29RR3Q3YVZsZVpOYmdEREs3RzNHOWtPVEg4cXozZ1dObGFMd0wwQUhxcWVRY2I3QmZOa1FlV2tGMHF3R0s5clZ2dTN3YXh5TkhJWmtEdw?oc=5",
    "published_utc": "2026-09-29T07:05:00+00:00",
@@ -1092,7 +1143,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China Signals Economic Stimulus to Counter Worsening Slowdown",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjl0SVVLdWt2S2drT1d4SEhVYTJRcV84R2RiRV9hYXM1cUNiTlhERVVwaWRtUGFhVjlCZnJMOTFjSWVEVlZ6cElqbkZTdFNtUGh1X0hkSXhOS2Y4NG9SbGNDanVUbm5zTUhCY1NNX0cyQUFYcGx2SmViOGZ6TVFtWWxzYTN6ZzczaTZRS3FtMENPQWJBYVh2RXRPODhuWnhZeWllNkxpTXU5VGoxb1RqWVBn?oc=5",
    "published_utc": "2026-09-29T06:22:00+00:00",
@@ -1175,6 +1226,25 @@
    "live_wire": true,
    "manual": false,
    "id": "703f925fda4ee45d"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
+   "published_utc": "2026-09-29T04:23:30+00:00",
+   "title_original": "食料品の消費税減税などの準備へ 予備費から1118億円支出決定",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "38b4d6c26a1ec51f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1281,7 +1351,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Japan’s Katayama Repeats Weak Yen Concern After Bessent Call",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0ZtZHBuSFVRWl9jUWR5cjRSVzlYem9SR2NrZnBsbXF3ZUt2T19lU0tDZEFSV2dIMnJkNVJpUG1nYl9rRUUwMTk1SkRvUkdxVExueThrc3U0ZWV2VEhSUjJFaTRFaHFjNnpyaHNUVGt3aGxHRWhmSldVYkZvdWxieTRxSVpRREszemFicUZvUVNENDRjOWQ3OU16dmRQUXF4d1l5WVlBdjA3YTFIS25rekRTcmc?oc=5",
    "published_utc": "2026-09-29T02:54:00+00:00",
@@ -1298,7 +1368,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China’s LNG Imports to Fall for Second Month Due to High Prices",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdW9wR3Z5aGVmVHd1b2J1bGlOeURlSk5sbkZRc2tPb19BNDdiTjltU1FEUUxTaWZQd0U2Wmp5QkJwemt6MTRMTXU4Y0tOOGE0NnhmczlzYzZQcGVWNkUzREZmdHNZdi1mVUxBTXYtbk1NbDgxREZUSGFFeEhKbEp2NkRNNmZyV1h2UllyMkk0UFBXWkkwWm1pRXF4bEpOUkNrRTdMMkF5TGQ5dkJxeXZyYTFhd3k?oc=5",
    "published_utc": "2026-09-29T02:53:00+00:00",
@@ -1987,7 +2057,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "South Korea’s Central Bank Is Smart Not to Kill This Boom",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcG9nWDV6c2k4NzlmMFRzNkNPRzBWVmpRYXBnWXdYUEhVMVhXSXIxdC1Tc09iT0V6OVVqRXdkQUQ3cXNyYzZBWmVvZmxiU0FQcWRnMFhXeFpsM3h2Nm8zQk9EZmF2X2laN0xxLU1INVBKX1IwV2h5R0Y1ZFI3dnhDcGpzWG5hOXJ5Yy1wUC1HUzF1bXd1RmNpTWczaktpdHo3dDhjZl92elBwSDVHLWJqZw?oc=5",
    "published_utc": "2026-09-28T18:00:09+00:00",
@@ -2021,7 +2091,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The 14-day reverse repurchase restarted, and the central bank’s open market operations invested a total of 1.1 trillion yuan in one day",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJZWVKU1AtTG42RXZ4MHRkd1pGbTNzRGtIYjNWb2VjaEJJUWlxc283bmtMS29WRWhjMF9wZWZURGxYV0N5YU5HT0hJRlduSVV4NDdqMkNOeWpKbHp3dW9MaXc4VWdxR1VwTjJJMWJiNXBnTEcyeDdNMQ?oc=5",
    "published_utc": "2026-09-28T16:57:57+00:00",
@@ -2209,7 +2279,7 @@
    "id": "937f196b0893ea51"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "China's cabinet pledges stronger policy support to meet growth target",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUJpVWpuOGk0N2htYXdELUlJbUpKUUo4bV9ZWDh0VXJtdkllZkhac05aWGJoMTd5MFMtTE1xd2lRMEFhUU9ER2J3WHE3Q3lHLU9rbXpQSkxKazUydkFjSlNaYnZWS0pWeERuLS0tSnJicnNDN0RFV3pPN29xc2Q2WEQ5ekRMRXlicnZVV0NVbl8wV1M2THdLUkwyMk5CXzA2UUQ4RERySXRLaVhSVGRpS0VfaEx6MVpDWEFYbg?oc=5",
@@ -2224,7 +2294,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "3e02eeba8b4183bf"
+   "id": "c12387620ac932c2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2246,7 +2316,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "US, China Release Product Lists for $30 Billion Tariff Deal",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejAwODBlZm1pdk5leVFwbHA2cnRWRkZXT2R2ejVDNjhtV01qb3ZFQ0hoMW9pWTVHN3dqOXBramZyY0RDdDJkMEQyUGRaVHh5QUFnak1SQ0c4dkp6aE5QYjdEd25ZMXFheXhRcmVXLXZJV1ZLNmk1MndtZ3FaNmNPcDNXSkxkV1Rvb2x6MmZBWVBvOV9rTmZMS0ljRENGWGY3d0ZFbFpTajZGVW1PZGdz?oc=5",
    "published_utc": "2026-09-28T11:33:29+00:00",
@@ -2294,6 +2364,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3e6dadb01106c138"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Five opposition parties in the House of Representatives: “Careful deliberation of the consumption tax reduction bill, including the presence of the prime minister”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260928de52919",
+   "published_utc": "2026-09-28T10:33:29+00:00",
+   "title_original": "衆院野党5党派“消費税減税法案 首相出席含め丁寧な審議を”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b5857c59f2a016c"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -2835,7 +2923,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "mk.co.kr",
    "title_en": "“Sailing smoothly despite a stronger won”: Samsung Electro-Mechanics on track for record third-quarter earnings as AI components drive growth",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GeEI2YjFaZTJnNF9uZVlubjF2dFViTE9IWVRWTkRNVDlxZzZreG5OOXJqeU4zNDlsTTItS1RCNEhhdVg5dkRkWGxfaW9FZ0FnM3VB?oc=5",
    "published_utc": "2026-09-28T06:24:13+00:00",
@@ -3567,6 +3655,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1802778ce5e1097e"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Bank of Japan releases the minutes of its July meeting. Opinions on “accelerating the pace of interest rate hikes” abound",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260928de52787",
+   "published_utc": "2026-09-28T01:49:00+00:00",
+   "title_original": "日銀 7月会合の議事要旨公表 “利上げペース加速”意見相次ぐ",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a643f8b6c4f45a62"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4623,7 +4728,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Here’s a Comparison of US, China Readouts on Trump-Xi Summit",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTRRVVViYnJIa1VxRFNtZnlYN0R4V1M0aUVaTlJWbUJ2WmpBTDAxQ2ZjdnpRNVI0Z0Z4eW9FNHRnZzRJQjVXekRFNEYxREFXQlJGalQyUVFOb1lEck1FTktwRG1pWW9FdHlnNkd1WnN3Y1RFMXZScldyQUFzekRUSmdmdG5rT2ZKVEZMRzU0VklRX0xGaFhvdTg2ODdZcHAwQlg1cFV0SXhxbnEyeU13?oc=5",
    "published_utc": "2026-09-26T16:03:59+00:00",
@@ -4875,6 +4980,24 @@
    "live_wire": false,
    "manual": false,
    "id": "2bbabfd3d85b1408"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Meiji Restoration Representative Yoshimura “We will definitely achieve a reduction in the number of seats and a reduction in consumption tax in the extraordinary Diet session”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260926de52583",
+   "published_utc": "2026-09-26T07:03:00+00:00",
+   "title_original": "維新 吉村代表“臨時国会で定数削減・消費税減税を必ず実現”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ddd04e76a47eebc3"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -5192,6 +5315,42 @@
    "id": "5e65c444f85aa77e"
   },
   {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Government to support preparations for consumption tax reduction on food products, including contingency funds",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52513",
+   "published_utc": "2026-09-25T20:39:00+00:00",
+   "title_original": "政府 食料品の消費税減税の準備を支援へ 予備費支出も",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "34b8ab9d5b6d3857"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "The Japanese government will explain the content of the US-China summit and also hold a Japan-US summit telephone talk.",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260926de52519",
+   "published_utc": "2026-09-25T20:33:22+00:00",
+   "title_original": "米中首脳会談の内容説明を 日米首脳電話会談も 日本政府",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b46e37789dd4be5f"
+  },
+  {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
    "title_en": "Yen jumps as Trump shows concern over its weakness, dollar halts daily win streak",
@@ -5259,6 +5418,23 @@
    "live_wire": false,
    "manual": false,
    "id": "72f5a9e8275c46b6"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Yen exchange rate rises to $1 = 156 yen level; yen appreciates by more than 2 yen in one day, raising concerns about intervention",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260926de52516",
+   "published_utc": "2026-09-25T19:50:14+00:00",
+   "title_original": "円相場1ドル＝156円台に上昇 1日で2円余円高に 介入警戒強まる",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3852d66f91e6e1ce"
   },
   {
    "source_id": "nikkei_asia",
@@ -5482,6 +5658,23 @@
    "id": "76a152eef7d0ebaf"
   },
   {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Finance Minister Katayama speaks by phone with Secretary Bessent and confirms strengthening of Japan-U.S. cooperation",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52509",
+   "published_utc": "2026-09-25T14:51:00+00:00",
+   "title_original": "片山財務相がベッセント長官と電話会談 日米協力強化を確認",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d947bafecb95c188"
+  },
+  {
    "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Details on US, China trade talks to come on Monday, says Greer",
@@ -5497,6 +5690,24 @@
    "live_wire": false,
    "manual": false,
    "id": "a214050b23d595c3"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "The US-China summit attracted the attention of the world. What is its impact on Japan and the world?",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52482",
+   "published_utc": "2026-09-25T13:18:55+00:00",
+   "title_original": "世界が注目した米中首脳会談 日本や世界への影響は",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6d1d587ed27b4142"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -5599,6 +5810,42 @@
    "live_wire": false,
    "manual": false,
    "id": "4396ed65fcb3cec4"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Finance Minister: “President Trump expressed concerns about the depreciation of the yen at the Japan-U.S. summit meeting”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52321",
+   "published_utc": "2026-09-25T11:00:30+00:00",
+   "title_original": "財務相“日米首脳会談でトランプ大統領から円安懸念示された”",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0eb027cf439fd138"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "NTT Docomo also raises price plans due to rising prices and increased capital investment",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52440",
+   "published_utc": "2026-09-25T10:34:17+00:00",
+   "title_original": "NTTドコモも料金プラン値上げ 物価高や設備投資増などで",
+   "region": "japan",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8b69e4b5f855ee39"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5757,6 +6004,24 @@
    "id": "5ae3d280d1d4e609"
   },
   {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Chief Cabinet Secretary Kihara, Liberal Democratic Party's Mr. Onodera \"Cooperate with opposition parties on consumption tax reduction bill\"",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52412",
+   "published_utc": "2026-09-25T08:27:43+00:00",
+   "title_original": "木原官房長官 自民・小野寺氏“消費税減税法案に野党協力を”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "aa067c169e6fd1fc"
+  },
+  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "Trump voiced concern about yen weakness in talks with PM Takaichi: Japan",
@@ -5859,6 +6124,41 @@
    "id": "ceb39d77d44cfe2a"
   },
   {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Mortgage interest rates exceed 7% in the US, increasing the burden of purchasing a home",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52397",
+   "published_utc": "2026-09-25T07:25:19+00:00",
+   "title_original": "アメリカで住宅ローン金利が7％超え 住宅購入の負担増",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "59fe93c86fe0be81"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock prices rise Bank stocks rise due to rising interest rates",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52326",
+   "published_utc": "2026-09-25T07:17:38+00:00",
+   "title_original": "株価 値上がり 金利上昇で銀行銘柄など上昇",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "32ad399c8308432f"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "USD/JPY: The Yen Tide Is Turning, but the Beach Is Already Crowded",
@@ -5944,6 +6244,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6c97de7314b7ab50"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Prime Minister of Mongolia to visit Japan next week for summit meeting with Prime Minister Takaichi",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52363",
+   "published_utc": "2026-09-25T05:44:00+00:00",
+   "title_original": "モンゴル首相来週来日 高市首相と首脳会談へ",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1bb1c11efd0e5379"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6324,6 +6641,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a3843be94a97796e"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Long-term interest rates rise to 3.115%, the highest level in about 30 years since August 1996",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52314",
+   "published_utc": "2026-09-25T01:48:00+00:00",
+   "title_original": "長期金利3.115％に上昇 1996年8月以来 約30年ぶりの高水準",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a6e30d5288e5491b"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6971,7 +7305,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank makes big moves before the holiday! The upper limit of overnight reverse repurchase soared to 1 trillion, and MLF made a net investment of 200 billion. What signal?",
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQV3YyRU9vNWdxbFZVeWtZMnZKUDB6TEVWaXZINmJNRGtETG9KVVp5R19DbEd2YlZwbW42TFZJYTlUMUprdGV6ZEVQcUtLTGFGdjhRX3dLWW5EUFZSNmxDNlZvTjZZQks3UzNGRXRuUnF4TXRoWW1TdlZsNDFUamtxalJEeG5rU2ROVDZ4MEJlNXN4OFFfMG5SY2MyOWRkR1NuanBTcm15dVg3RzJUNnMxaVB2VWRETTh5YzN0YlFOWkJhRjF4YWs1RFZkX0xfampMV2loZF8yZ2lzOVZ4MEEzMC1ZUm1hQnZNcWNPWFkzU2MtbVpIWG9DYUxWYXVVWDE1VEhJQ1JEaXVrWkduR3NRTA?oc=5",
    "published_utc": "2026-09-24T07:00:00+00:00",
@@ -9003,7 +9337,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "vegannews.co.kr",
+   "source_name": "비건뉴스",
    "title_en": "The base interest rate and deposit interest rate are different from the decision maker.",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hTVhMaUZLaGpxZmFoaFNjZkdqRVNWX2pPMDFxT001bkxzcWdzdDN6d3lsZ1VqV0xGNkozbjZ4UDFJUV9PaUgzRFM5akhrMVQ1S0Q5cXd0c28xN0p6XzZia0lRUFctdw?oc=5",
    "published_utc": "2026-09-23T04:10:42+00:00",
@@ -16574,6 +16908,23 @@
    "live_wire": false,
    "manual": false,
    "id": "41773eb86faf5f7e"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) Seoul stocks soar over 2 pct on eased inflation woes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDZmNOLUJTdHRMWFVINFBNOURLWXdOaXhKRmRwRHlaOFFuQnFrMld0R2ZpQ0xzUm5qcVRSQUxsdEhGV1hvUjV4aVp3dmZIajFUSDRvcU8wcjdGZw?oc=5",
+   "published_utc": "2026-09-18T06:32:53+00:00",
+   "title_original": "(URGENT) Seoul stocks soar over 2 pct on eased inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "acaa263b711e03f0"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51611,351 +51962,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f0930f39dab26668"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "USD/JPY: Yen Slips Past ¥160 as Intervention Risk Returns. What to Expect Now",
-   "url": "https://www.tradingview.com/news/tradingview:fdbf7d7e5094b:0-usd-jpy-yen-slips-past-160-as-intervention-risk-returns-what-to-expect-now/",
-   "published_utc": "2026-08-31T05:10:44+00:00",
-   "title_original": "USD/JPY: Yen Slips Past ¥160 as Intervention Risk Returns. What to Expect Now",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "173d6ea034604b70"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Housing Starts Rise for 4th Month, Growth Slows",
-   "url": "https://www.tradingview.com/news/te_news:579384:0-japan-housing-starts-rise-for-4th-month-growth-slows/",
-   "published_utc": "2026-08-31T05:06:56+00:00",
-   "title_original": "Japan Housing Starts Rise for 4th Month, Growth Slows",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fa34c4a3fe46d6c9"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China’s August LNG Imports Set to Drop as High Prices Hit Demand",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0IyemtIczQ1ZGF5RGgzZEdFSjNuVUh4dHJKVFRfMFdIQzJuZm4xMm42cEdIaUVQR2UySFVIaWtKY3BfNlZDVW5ETXpGWWl3VHg2X2xONEdtaVk3NkpnVnJMSzYzcU9iR0Z5eWhWTjcxcGpHTGFWUFRkMGdHUmZyM0ZpWTlwdFU5d29QcjVTVjZsOXVfX2FreXZ4TUJyRUg4bEJ6S1VnNDI5TlR1UnJJNzdVZ1NTUQ?oc=5",
-   "published_utc": "2026-08-31T04:44:00+00:00",
-   "title_original": "China’s August LNG Imports Set to Drop as High Prices Hit Demand",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "72be063aec0c6702"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Asian currencies mixed as yen hovers near 160; oil surge raises risk-off pressures",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1I0QVVDNzFraVB5U0U5QjFCRkJDRF83SENDMEhtV0pxNEVjU3Rtb1NVQUVFb0FjbEhVaHo4TzdxdVAxb01YMmZoVjc3dmY3dW4yNWRfYXg0MnNXcWRCV2NhZlVXRDRjWmtvOElGQS1ZVktESXZXUmtfTnZiZXhiVDBMMEl4OXNMUTZLcTVGaHdvd3dYVHluTDRabGZ5N2RKSEQ1c1cxVEJyUVlZbF82NGdQeVVRTXZuQWJnMURPelVxOEVGZkNWX0dMa3FNakJ0b1E?oc=5",
-   "published_utc": "2026-08-31T04:14:00+00:00",
-   "title_original": "Asian currencies mixed as yen hovers near 160; oil surge raises risk-off pressures",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "eb9ebc6fcf2ce4a5"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "米財務長官 日銀の円安対策 「正しい判断」に期待 通信社インタビューで（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWcWM4dnlZU3FsS2ozQTlWNkl3aGxHWVlUTm1EdUhVR0EtZjBqYmtOX00yV0xpUFJUSzhValVicVJ0SFpKLTJOcVQ5aUV0YWFjSktpYS1DMlFSVVl0ZDRzVzVPTHVRa1R2Z0Uya2JSWjBrRGlIanpLX2ZHMGdnemM?oc=5",
-   "published_utc": "2026-08-31T04:03:24+00:00",
-   "title_original": "米財務長官 日銀の円安対策 「正しい判断」に期待 通信社インタビューで（TBS NEWS DIG Powered by JNN）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "589766ed80a64711"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "OPINION: Consumption tax should not be cut, could trigger Japan gov't bond downgrade",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WbXZWeGJidVQtdGhpQ2lRczVaTHhBQVNqTmtJZndDNGJGRXJhX3VwemlHUnNPRTVNX3lmaHJ6SGJvR3d3alpoeUdicmF6cUZpOFdfZjlDZDkyUQ?oc=5",
-   "published_utc": "2026-08-31T04:03:00+00:00",
-   "title_original": "OPINION: Consumption tax should not be cut, could trigger Japan gov't bond downgrade",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3677c77a8a874e6a"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "円安対応で“日銀が利上げすべき” アメリカ財務長官が「正しい判断」に期待 植田総裁との会談前に対応促す狙いか",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtYTlJeHRWR3dndlVra2FkYXUwb1NnNk8xLXJoS2g1RzRzRUZXXzFBSnJzT2ZoWUtuV1VWSVQ3V1V0QzFUVHI4Q21PSlY5WGh1ZkpSVXg1Um5xSkplY0M5S1VvbzFHWkdicnFsWndCN1RNbU1jUWM3ZVJQYzhvUUU?oc=5",
-   "published_utc": "2026-08-31T04:00:39+00:00",
-   "title_original": "円安対応で“日銀が利上げすべき” アメリカ財務長官が「正しい判断」に期待 植田総裁との会談前に対応促す狙いか",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "024d736615703a14"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "AI growth to hinge on integrated systems: TSMC executive",
-   "url": "https://focustaiwan.tw/sci-tech/202608310006",
-   "published_utc": "2026-08-31T03:54:12+00:00",
-   "title_original": "AI growth to hinge on integrated systems: TSMC executive",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6e81d7fedb36fc62"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Taiwan, U.S. to boost semiconductor workforce cooperation: U.S. envoy",
-   "url": "https://focustaiwan.tw/sci-tech/202608310005",
-   "published_utc": "2026-08-31T03:37:09+00:00",
-   "title_original": "Taiwan, U.S. to boost semiconductor workforce cooperation: U.S. envoy",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0bec5ad7e4606c21"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "eeo.com.cn",
-   "title_en": "央行开展50亿元7天期逆回购操作",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mc2xQU2hrRExBSXJhcGNJMEdfZHdZYkFYeDRrNlc0bDZyMWJVWll6TjNWVDd1djd0SWxOUzdSa09hejZlNDhxSURIRmctSzFoZUdJLUIxdjc?oc=5",
-   "published_utc": "2026-08-31T03:30:00+00:00",
-   "title_original": "央行开展50亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8b4c5fd2ea52c99e"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan manufacturing know-how is key physical AI asset",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0hqX2hmN0x6cG9YS1FVS0FtTkR0bTFCTVBHSE94aEQ3alQ2TTBwZnNGZ1h2aXpYVFBlaVZmQTJBYzJhVU1KSDl3S2gwdTdKV0JRejdtS0g4VzRMMEVYVGZDel9GRXVxTzI4Z1QtY3ZBR3VKX3RoMGVsUHZxYmZTNWtjUExrQmRDZHpEZC1fTVdtZzFlZUF4cEtEck5GZEI5?oc=5",
-   "published_utc": "2026-08-31T03:04:09+00:00",
-   "title_original": "Taiwan manufacturing know-how is key physical AI asset",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ee5f1e18a545cc20"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "U.S. Treasury Secretary Bessent expects Bank of Japan Governor Ueda to make \"correct decision\"; interest rate rises at 160 yen to dollar at one point over weekend",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tbkhHNktzNlZuaVd5V1BxSVRZYjRPTVdVb0FjbUlTVllKRk5ySWJYejROYkJfcHV2aTYzT0RzdV94Wjd2TW8xbU5aQzBQLS0za05kTWxkdnlpTTVSS3JldG9HOWVpQU5CcUlCYXl2djZKLVNJZGZWdUdNYXlZeVE?oc=5",
-   "published_utc": "2026-08-31T02:56:21+00:00",
-   "title_original": "アメリカのベッセント財務長官が日銀・植田総裁の「正しい判断」を期待 週末一時1ドル160円台 円安対応で“利上げ”めぐり",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b91c95c44d1deaa"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "韓国の内閣改造、財政経済相に李氏指名 国防相も交代（ロイター）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51MU9MOXhvcU5nbW41TmdHWmZGbDBxeFdIR2pkMFlnY01wMGxhSFN0RHg0TG5xTXpyV0JCMWt0blhIY3N1NDZOVGtONEFaQWpHTnI0MWlFVi05LVI2Q1k2YUVheVc1R0dmdl9sc2J6bm4weXRuQW1TNzRpRnBMdk0?oc=5",
-   "published_utc": "2026-08-31T02:40:40+00:00",
-   "title_original": "韓国の内閣改造、財政経済相に李氏指名 国防相も交代（ロイター）",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2ba436681b91f6d4"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank's 1,421.5 billion reverse repurchase expires this week, and a large withdrawal of 673 billion will be welcomed on Monday",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQZktyWGFfLTFrT0hpdGh6RlM3TEhpQkVfaTFWdnRvQXpfVm4wQ2plT012cHVOLUNaelgyQ242UnBpLXpjVlQ0WHNVX1l6UQ?oc=5",
-   "published_utc": "2026-08-31T02:40:25+00:00",
-   "title_original": "央行本周14215亿逆回购到期 周一迎6730亿大额回笼",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "57402b255d12a830"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung, SK hynix tumble on U.S. rate hike concerns",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yTUF0ZGtkRmlTY0JFRFFySkJfZkdxMmFacGY2YTdKZXFKNGRqSU1DSE9SVWNySFJzWmliYUo1aUdSa3pYQUhBQ3dWYTlrQlA0Uk5BZ2d4VQ?oc=5",
-   "published_utc": "2026-08-31T02:09:33+00:00",
-   "title_original": "Samsung, SK hynix tumble on U.S. rate hike concerns",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "013352dd285e3ef3"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Hanwha Aerospace signs deal to export K9 howitzers to Spain",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pcEhXSWhCRzdHalMyUmQ2RUd1SE1oZnM4U2o2WktXVVoxSDNGdHRfZUtVbmstelZKQ0ZNb09YRkM0dENvYkxJWDRDdXBjdktJdlBDZ192Q3RKZw?oc=5",
-   "published_utc": "2026-08-31T02:07:16+00:00",
-   "title_original": "Hanwha Aerospace signs deal to export K9 howitzers to Spain",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2accca0447c87291"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Bessent Expects BOJ to ‘Do the Right Thing’ on Policy",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNejE1eExnaWtiWDNacF9tV05ESFZFQ0NRMFd6azhqajRWbDl0dTlTQ1pQU0lSRzQtN1NSQ1J6SUhlSEpEV1FldGNSaF96N3htcy1UOWlvX2h2R183RGY2ZVhkUEk5V252RFZueXY4MTY3Ym5UYnVRb1BYdUxEWUtnRnYyOXhkVWNLc1JqTkt2dXBCNzlYUm9xNXpGYUpsR3dIQXEzNVk4c01LaHFXOW1zSg?oc=5",
-   "published_utc": "2026-08-31T02:00:00+00:00",
-   "title_original": "Bessent Expects BOJ to ‘Do the Right Thing’ on Policy",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f846df242fc95739"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "高金利・高物価が低所得層を直撃…下位20%の利子コストが36%増（朝鮮日報日本語版）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nT0JFd3FxYVpLQVFWYU5XY3VRZ1puSHk1TXJiWU1mSlE3MlJZRmJHTWlrMVVjREhyUVFlMF84RmVQcFBlWElCVzItOFpDM3AtaElIZVAxZGg5QnVrWVN5ZUlOakFSM09BN19aN2EwUkdIcXZIYll5Sjh0MC1fYkE?oc=5",
-   "published_utc": "2026-08-31T02:00:00+00:00",
-   "title_original": "高金利・高物価が低所得層を直撃…下位20%の利子コストが36%増（朝鮮日報日本語版）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e5119e686b4e9af1"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Breaking News] Long-term interest rates temporarily rise to 2.95% due to expectations of further Bank of Japan interest rate hikes and rise in US interest rates Market will also keep a close eye on “estimate request”",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTNjcxMllhcmI1cDZFaTdocW9QSUZNc1ZRRmJ3UzlIUTlyTU9GR256ODJwRHVGUWhoenRUQm1meE5reTJiQVN3TmotQkNtU1JnamRIWkJqWklPcWY0Ui1SbXNnQ2lQWUx6R3k3TVg4MDEzY2ZoeEcweWdTZ1Z1MXM?oc=5",
-   "published_utc": "2026-08-31T01:59:22+00:00",
-   "title_original": "【速報】長期金利、一時2.95%まで上昇 日銀追加利上げ観測や米金利上昇などが要因 市場は“概算要求”も注視",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fd2085e642269756"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar near two-week high as Warsh boosts rate-hike bets; yen slips past 160 By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY0E2SkotMDJ3cnM5MUN2QzI3c0s4YXhfLVREUGVsQzNtTGxQUUxEMGw4Tm9sRmFMMXBIYVBVWHNYandMQ0hYOUFuVzB6V01FVEpoQXN6b1doVF9LSEk0Tlp1S2N2LXBkcnlsN2lXeHpaazdDWXRSZHBoNG1nVVpsRlhVeV9vNlBLNzVaZjZDRmFVdmJDT28xYVVLZ1RaV3RjaUtGdDZEVkNFMWFGeXZOVnRmcFJOTkttVklfd25paHNQUkE?oc=5",
-   "published_utc": "2026-08-31T01:53:01+00:00",
-   "title_original": "Dollar near two-week high as Warsh boosts rate-hike bets; yen slips past 160 By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "235a5db79154595f"
   },
   {
    "source_id": "manual_ia",
