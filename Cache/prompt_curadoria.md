@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T18:46:33.731224+00:00
+Última coleta: 2026-09-29T18:48:57.354921+00:00
 Total: 420 manchetes
 
-  🇯🇵 Japão          153
+  🇯🇵 Japão          152
   🇨🇳 China          119
-  🇹🇼 Taiwan          33
+  🇹🇼 Taiwan          34
   🇰🇷 Coreia do Sul  115
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Stock Moves Higher as AI Revival Meets Capacity Risk
   - [taiwan] TSMC's 2nm Push Could Create a New Winner in the AI Chip Boom
   - [korea] Samsung Electronics Stock Gains as Helix Draws $1 Billion
   - [korea] Korea’s dollar store giant Daiso emerges as real estate player with $355 mn deals
@@ -24,6 +25,7 @@ Total: 420 manchetes
   - [korea] Seoul stocks fall for 2nd day on inflation woes
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
   - [japan] Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook
+  - [china] Four arrows fired in unison! After the National Standing Committee set the tone, the central bank launched a n
   - [china] China launches 'mini stimulus' targeting affordable homes, infrastructure
   - [china] China announces interest rate cuts and mortgage subsidies to boost growth
   - [china] Libya's High State Council rejects changes to presidential election law as "unconstitutional"-Xinhua
@@ -55,8 +57,6 @@ Total: 420 manchetes
   - [korea] (URGENT) Seoul stocks fall for 2nd day on inflation woes
   - [china] China Signals Economic Stimulus to Counter Worsening Slowdown
   - [china] ‘Important and consequential’: Jensen Huang on US-China AI race, risk management
-  - [japan] Nikkei 225 drops 1.2% as US interest rates hit 19-year high: Why KOSPI barely moves
-  - [china] COMMENTARY: China's metal-heavy commodity imports map a messy energy transition
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 420 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T18:46:33+00:00",
+      "published_utc": "2026-09-29T18:48:57+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
