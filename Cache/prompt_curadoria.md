@@ -7,17 +7,46 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T01:12:24.787802+00:00
+Última coleta: 2026-09-29T07:25:21.073157+00:00
 Total: 420 manchetes
 
-  🇯🇵 Japão          151
-  🇨🇳 China          121
-  🇹🇼 Taiwan          35
-  🇰🇷 Coreia do Sul  113
+  🇯🇵 Japão          155
+  🇨🇳 China          113
+  🇹🇼 Taiwan          34
+  🇰🇷 Coreia do Sul  118
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul stocks fall for 2nd day on inflation woes
   - [korea] Seoul stocks open lower on inflation woes
+  - [japan] EQt Raises Tender Offer Price For Kakaku.Com To 3,681 Yen From 3,680 Yen, Filing Shows
+  - [japan] Asia stocks subdued as rising yields, oil weigh; RBA hikes rates as expected
+  - [korea] The Bank of Korea approves a monetary and credit policy report containing the background for raising the base 
+  - [japan] Japanese Shares Fall on Inflation Worries
+  - [taiwan] Singapore's chip progress
+  - [korea] Korea launches its own version of popular US fund Roundhill Memory ETF DRAM
+  - [japan] The Bank of Japan and the Federal Reserve have no choice but to worry about stock prices -- The focus of monet
+  - [china] Stifel upgrades STAAR Surgical stock rating on China growth outlook
+  - [korea] SK Hynix Could Post Lower-Than-Expected But Still Record 3Q Operating Profit — Market Talk
+  - [korea] (LEAD) Seoul stocks fall for 2nd day on inflation woes
+  - [taiwan] Column: Why Micron's US$250M venture fund is about more than HBM margins—Taiwan has a stake in it
+  - [korea] (URGENT) Seoul stocks fall for 2nd day on inflation woes
+  - [china] China Signals Economic Stimulus to Counter Worsening Slowdown
+  - [japan] Nikkei 225 drops 1.2% as US interest rates hit 19-year high: Why KOSPI barely moves
+  - [korea] Korea’s dollar store giant Daiso emerges as real estate player with $355 mn deals
+  - [korea] Samsung shares rise after 5% drop as Nvidia bets on AI beyond chips
+  - [taiwan] Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal
+  - [taiwan] GlobalFoundries eyes GaN expansion to challenge TSMC in AI
+  - [korea] SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform
+  - [japan] [By prefecture] The prefecture with the highest prices is Tokyo, and the second is Kanagawa Prefecture...A ran
+  - [china] China’s LNG Imports to Fall for Second Month Due to High Prices
+  - [japan] The prefecture's economy is left unchanged as a "moderate recovery." Prices continue to be under upward pressu
+  - [korea] Samsung Electronics, SK hynix rebound on bargain-hunting
+  - [korea] CPTPP membership could lift Korea GDP by $6.5bn over decade: Gov’t
+  - [china] The central bank launched a 90.5 billion yuan 7-day reverse repurchase operation in the open market
+  - [korea] The contraction of transactions in the housing market in the three Gangnam districts (Gangnam, Seoch..
+  - [korea] Following the Deputy Prime Minister, Shin Hyun-song met with 16 bank presidents and also listened to opinions 
+  - [korea] South Korean exports seen rising for 16th month on solid AI chip demand
   - [korea] Samsung Electronics: HBM will account for nearly 30% of industry DRAM capacity next year
   - [china] Soybeans near one-month low on exclusion from China's proposed tariff cuts
   - [korea] Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year
@@ -27,36 +56,7 @@ Total: 420 manchetes
   - [korea] (URGENT) Seoul stocks open lower on inflation woes
   - [korea] Samsung Electronics allocates US$1 billion to expand Helix Digital AI, a company backed by KKR
   - [korea] Samsung Electronics commits $1 billion to KKR-backed Helix Digital AI buildout
-  - [japan] Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen
-  - [korea] Samsung Electro-Mechanics' Vietnam Affiliate to Spend KRW2.510T to Expand Chip-Substrate Production
-  - [korea] Samsung Electro-Mechanics to Spend KRW4.270T to Expand Chip-Substrate Production in Sejong
-  - [taiwan] Behind CoWoS (part 2): How TSMC turned a niche packaging experiment into an industry standard
-  - [taiwan] Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win
-  - [japan] Business confidence improves due to AI demand, but rising prices are a headwind for personal consumption (Sept
-  - [japan] Should I sell the “New NISA” due to the Bank of Japan interest rate hike? Misconception that “interest rate hi
-  - [japan] It's a miracle that ``Japanese gin'' sells ``430,000 bottles a year'' in its home country of England...The tru
-  - [japan] Japan's Resonac develops large wafers that can yield 4 times as many chips
-  - [japan] Used condominium market plunges into “inventory hell” due to Bank of Japan interest rate hike (Bunshun Online)
-  - [korea] Biz sentiment falls in September on rising costs: BOK
-  - [japan] A direct interview with the CEO of heating type king “IQOS”! The existence of competitors such as JT is "welco
-  - [china] The need for a "New Plaza Accord" increases as China's trade surplus increases dramatically... A huge trade im
-  - [japan] Will the price advantage of heating type disappear? How will JT and BAT challenge the champion "ICOS" with a 7
-  - [korea] SK Hynix Stock Falls 5.1% as Rubin Memory Moves Into View
-  - [japan] Yen Gains After Japan’s Currency Czar Warns Against Weakness
-  - [korea] PAG Real Assets eyes $2 bn investment in S.Korean real estate
-  - [china] The 14-day reverse repurchase restarted, and the central bank’s open market operations invested a total of 1.1
-  - [korea] Seoul stocks sink over 2.5% on chip losses
-  - [china] CBOT soybean futures plunge as China tariff cuts exclude soybeans
-  - [japan] Preview: Forecasters See Japan September Tankan Showing Large Manufacturers’ Sentiment at +25, Highest Since 2
-  - [china] China tightens humanoid patent grip with 60% share
-  - [taiwan] TSMC increases 2nm wafer production outlook by 20%: report
-  - [korea] What's next for Intel after the SK Hynix partnership rumors?
-  - [china] Chinese premier chairs State Council executive meeting on macro policies, investment
-  - [china] China Studies Policies to Boost Economy, Stabilize Housing Market
-  - [japan] U.S. debt sell-off extends on $106 crude oil and hawkish central bank outlooks
-  - [china] Brazil signs an agreement with China to export pork offal; ABPA sees more than US$100 million in revenue
-  - [japan] The Bank of Japan releases the minutes of its July monetary policy meeting, with several members giving positi
-  - [china] US, China Release Product Lists for $30 Billion Tariff Deal
+  - [japan] EXCLUSIVE Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 420 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T01:12:24+00:00",
+      "published_utc": "2026-09-29T07:25:21+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
