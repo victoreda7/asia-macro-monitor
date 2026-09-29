@@ -119,8 +119,8 @@ _PT = {
 
 RSS_SOURCES = [
     # ---- Japão ----
-    {"id": "nhk_economy",  "name": "NHK 経済",            "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",              "scope": "japan",  "domestic_jp": True},
-    {"id": "nhk_politics", "name": "NHK 政治",            "url": "https://www3.nhk.or.jp/rss/news/cat4.xml",              "scope": "japan",  "domestic_jp": True},
+    {"id": "nhk_economy",  "name": "NHK 経済",            "url": "https://news.web.nhk/n-data/conf/na/rss/cat5.xml",           "scope": "japan",  "domestic_jp": True},
+    {"id": "nhk_politics", "name": "NHK 政治",            "url": "https://news.web.nhk/n-data/conf/na/rss/cat4.xml",           "scope": "japan",  "domestic_jp": True},
     {"id": "yahoo_business", "name": "Yahoo! ニュース 経済", "url": "https://news.yahoo.co.jp/rss/topics/business.xml",     "scope": "japan",  "domestic_jp": True},
     # Fonte oficial do BOJ (comunicados, resultados de operação, notas de
     # pesquisa). Feed em inglês, então os títulos já casam os padrões em EN.
