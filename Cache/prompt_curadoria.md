@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T23:42:45.634700+00:00
+Última coleta: 2026-09-29T23:52:44.225122+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1264
-  🇨🇳 China          762
+  🇯🇵 Japão          1265
+  🇨🇳 China          761
   🇹🇼 Taiwan         256
   🇰🇷 Coreia do Sul  718
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Aug Inventory-Shipments Ratio +1.7% on Month
+  - [japan] Japan Aug Shipments -2.5% on Month
+  - [japan] Nikkei May Rise as Decline in Oil Prices Ease Inflation Fears — Market Talk
+  - [china] China promete reagir caso UE adote medidas que visem comércio chinês
+  - [korea] South Korea Retail Sales Fall Again in August
   - [china] China plans to strengthen surveillance on steel exports
   - [korea] South Korea Industrial Output Unexpectedly Falls
   - [korea] The annual interest burden of the Korea Land and Housing Corporation (LH), which supports the govern..
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] What trap? US-China relations show conflict is far from inevitable
   - [china] China espera que comércio cresça apesar dos desafios externos
   - [china] KMT, TPP legislators reject all 27 of Lai's Control Yuan nominees
-  - [china] China Offers Mortgage Subsidies to Boost Ailing Property Sector
-  - [china] China to subsidize mortgage interest for first-time home buyers
-  - [china] China cuts key interest rate, offers mortgage subsidy to boost economy
-  - [japan] Supplementary budget proposal of 14.9 billion yen TEPCO's contribution to snow removal support: Prefectural as
-  - [korea] Seoul stocks open lower on inflation woes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T23:42:45+00:00",
+      "published_utc": "2026-09-29T23:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
