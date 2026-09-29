@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T13:20:21.110238+00:00
+Última coleta: 2026-09-29T14:16:44.721699+00:00
 Total: 420 manchetes
 
-  🇯🇵 Japão          154
-  🇨🇳 China          118
+  🇯🇵 Japão          153
+  🇨🇳 China          119
   🇹🇼 Taiwan          31
   🇰🇷 Coreia do Sul  117
 
@@ -19,6 +19,7 @@ Total: 420 manchetes
 
   - [korea] Seoul stocks fall for 2nd day on inflation woes
   - [china] China launches 'mini stimulus' targeting affordable homes, infrastructure
+  - [china] China announces interest rate cuts and mortgage subsidies to boost growth
   - [china] Libya's High State Council rejects changes to presidential election law as "unconstitutional"-Xinhua
   - [korea] Korea launches its own version of popular US fund Roundhill Memory ETF DRAM
   - [china] China unveils rate cut, mortgage subsidies to spur growth
@@ -29,11 +30,12 @@ Total: 420 manchetes
   - [japan] Supplementary budget proposal of 14.9 billion yen TEPCO's contribution to snow removal support: Prefectural as
   - [korea] The annual interest burden of the Korea Land and Housing Corporation (LH), which supports the govern..
   - [korea] Seoul stocks open lower on inflation woes
+  - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarter
   - [taiwan] In global semiconductor race, Singapore bets on critical, mature technologies
-  - [japan] Japan to spend 111.8 bil. yen on tax cut preparation
   - [japan] 2-year interest rate approaches 2%, Bank of Japan's intention to change stance Assessing the Tankan (Reuters)
   - [japan] 2-year interest rate approaches 2%, Bank of Japan's stance is changing - Assessing the Tankan (Reuters)
   - [korea] Issues that affect the decision to increase interest rates... Look at the remarks of the Monetary Policy Commi
+  - [china] Demand Boost for US Crops Still Unclear After China Tariff Cuts
   - [japan] EQt Raises Tender Offer Price For Kakaku.Com To 3,681 Yen From 3,680 Yen, Filing Shows
   - [japan] Asia stocks subdued as rising yields, oil weigh; RBA hikes rates as expected
   - [korea] The Bank of Korea approves a monetary and credit policy report containing the background for raising the base 
@@ -49,14 +51,12 @@ Total: 420 manchetes
   - [china] ‘Important and consequential’: Jensen Huang on US-China AI race, risk management
   - [japan] Nikkei 225 drops 1.2% as US interest rates hit 19-year high: Why KOSPI barely moves
   - [china] COMMENTARY: China's metal-heavy commodity imports map a messy energy transition
+  - [japan] Japan to spend 111.8 bil. yen on tax cut preparation
   - [korea] Samsung shares rise after 5% drop as Nvidia bets on AI beyond chips
   - [taiwan] Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal
   - [taiwan] GlobalFoundries eyes GaN expansion to challenge TSMC in AI
   - [korea] SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform
   - [china] China asks local governments to ‘intensify’ policy tweaks to boost consumption
-  - [japan] [By prefecture] The prefecture with the highest prices is Tokyo, and the second is Kanagawa Prefecture...A ran
-  - [china] China’s LNG Imports to Fall for Second Month Due to High Prices
-  - [taiwan] TSMC helps VSMC build first Singapore fab in 22 months at lower cost than US
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 420 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T13:20:21+00:00",
+      "published_utc": "2026-09-29T14:16:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
