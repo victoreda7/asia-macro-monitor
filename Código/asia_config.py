@@ -20,18 +20,23 @@ import re
 
 RSS_PER_SOURCE_LIMIT = 60      # itens por feed RSS
 GN_PER_QUERY_LIMIT = 30        # itens por query do Google News
-# Teto do feed. Com 34 fontes, 220 saturava em cerca de 5 dias de histórico —
-# o filtro padrão da UI é 7 dias, então a página prometia mais do que o arquivo
-# tinha. Itens curados à mão NÃO contam para este teto.
-FEED_ITEM_CAP = 420
-# Nenhuma fonte pode ocupar mais que isto, para uma sozinha não afogar o resto.
-PER_SOURCE_CAP = 30
+# Teto do feed. Em set/2026 o teto de 420 guardava só ~6 dias: das 1.259
+# manchetes que passaram no filtro em 9 dias, 850 tinham sumido — os dias 21 e
+# 22/09 inteiros, e metade de 23 a 25/09. Com ~110 manchetes/dia, 3.000 cobre
+# o período de 30 dias da UI (o corte por idade abaixo faz o resto).
+# Itens curados à mão NÃO contam para este teto.
+FEED_ITEM_CAP = 3000
+# Nenhuma fonte pode ocupar mais que isto POR DIA, para um wire tagarela não
+# afogar o resto. Antes o teto era de 30 no feed inteiro: com o feed
+# acumulando dias, PBoC, BOK, Bloomberg e Yahoo batiam o teto e passavam a
+# perder manchetes do próprio dia.
+PER_SOURCE_DAILY_CAP = 30
 HTTP_TIMEOUT = 20              # segundos por request
 HTTP_RETRIES = 4               # tentativas em 429/503/erro de rede
 FETCH_WORKERS = 6              # downloads em paralelo
 TRANSLATE_WORKERS = 4          # traduções em paralelo
 TRANSLATE_PAUSE = 0.25         # segundos entre chamadas de tradução, por worker
-MAX_ITEM_AGE_DAYS = 45         # descarta o que for mais velho que isso
+MAX_ITEM_AGE_DAYS = 30         # descarta o que for mais velho que isso (= maior período da UI)
 STALE_SOURCE_DAYS = 20         # fonte sem nada novo há mais que isso vira alerta
 
 USER_AGENT = (
@@ -329,6 +334,10 @@ TOPIC_PATTERNS = {
         # and Prices") — sem isso a manchete caía como sem-topico porque não
         # cita "BOJ" nem "growth outlook" no título.
         r"|outlook for economic activity and prices"
+        # Comunicados operacionais do BOJ que mexem com a curva: pesquisa do
+        # mercado de títulos, reunião sobre operações, compras de JGB.
+        r"|\bbond market survey\b|\bmarket operations?\b"
+        r"|\bjgb (purchases?|buying|bond[- ]buying)\b|国債買い入れ|국고채 매입"
         r"|MLF|LPR|央行|公开市场|公開市場"
         r"|金利|利上げ|利下げ|金融政策|日銀|緩和|据え置き"
         r"|降准|降息|加息|逆回购|中期借贷便利|货币政策|存款准备金|貨幣政策|升息"
@@ -361,7 +370,13 @@ TOPIC_PATTERNS = {
     "inflation": _rx(
         r"\b(inflation\w*|deflation\w*|disinflation|consumer prices?|producer prices?|"
         r"price index|core (cpi|inflation|prices?)|cost of living|"
-        r"price (pressure|growth|gains?))\b"
+        r"price (pressure|growth|gains?)|"
+        # Preço administrado (luz, gás encanado, alimentos): o "Korea freezes
+        # Q4 electricity rates" e o "Taiwan freezes electricity rates" caíam
+        # como sem-topico. Petróleo fica de fora — é commodity global e traria
+        # tape de mercado.
+        r"(electricity|power|utility|energy|food) (rates?|prices?|bills?|tariffs?|costs?))\b"
+        r"|電気料金|电价|전기요금"
         r"|\b(cpi|ppi)\b"
         r"|物価|インフレ|デフレ|消費者物価"
         r"|通胀|通缩|物价|居民消费价格|通膨"
@@ -389,7 +404,14 @@ TOPIC_PATTERNS = {
     "trade": _rx(
         r"\b(exports?\w*|imports?\w*|trade (balance|surplus|deficit|war|deal|"
         r"talks|data|tension\w*)|tariffs?|customs|shipments?|current account|"
-        r"export controls?|sanctions?|supply chains?|trade agreement)\b"
+        r"export controls?|sanctions?|supply chains?|trade agreement|"
+        # Cúpula e trégua comercial EUA–China e pacotes de investimento
+        # bilaterais (ex.: os US$ 350 bi da Coreia nos EUA) — em set/2026 a
+        # cúpula Trump–Xi inteira caiu como sem-topico.
+        r"(trade|tariff) (truce|pact|framework|negotiat\w+)|"
+        r"investment (plan|pledge|package|fund|deal)|"
+        r"(us|u\.s\.)[- ]china (summit|talks|deal|truce|consensus|relations)|"
+        r"trump[- ]xi|xi'?s (visit|summit))\b"
         r"|輸出|輸入|貿易|関税|経常収支"
         r"|出口|进口|贸易|关税|海关|经常账户|出口管制"
         r"|수출|수입|무역|관세|경상수지"
@@ -440,6 +462,9 @@ TOPIC_PATTERNS = {
         # do premiê (que costuma anteceder mudança de política econômica)
         # caía como "sem-topico".
         r"|支持率|世論調査|連立"
+        # Cúpulas de chefe de governo com os EUA/China (首脳会談 = cúpula).
+        r"|\b(summit|talks) with (trump|xi)\b|\b(takaichi|lee jae[- ]myung|lai ching[- ]te) and trump\b"
+        r"|首脳会談|元首会晤|정상회담"
         r"|货币政策|财政政策|国务院|政治局|两会|全国人大|经济工作会议|央行行长|财政部"
         r"|통화정책|재정정책|한국은행 총재|기획재정부|경제정책"
     ),

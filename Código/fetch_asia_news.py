@@ -201,20 +201,27 @@ def aplicar_tetos(itens: list[NewsItem]) -> list[NewsItem]:
     de ministério é publicado uma vez por trimestre e fica velho rápido, mas
     não deixa de importar.
 
-    E nenhuma fonte pode ocupar mais que PER_SOURCE_CAP, para que um wire
-    tagarela não empurre para fora as fontes que publicam pouco e bem.
+    E nenhuma fonte pode ocupar mais que PER_SOURCE_DAILY_CAP num mesmo dia,
+    para que um wire tagarela não empurre para fora as fontes que publicam
+    pouco e bem.
+
+    O corte é feito do mais novo para o mais velho. Antes ele seguia a ordem
+    de chegada (coleta nova primeiro, herdados depois): item velho que ainda
+    aparecia no RSS — o BOJ lista semanas de comunicados — tomava a vaga de
+    manchete de ontem que só existia no acumulado.
     """
+    data = lambda i: (filters.parse_dt(i.published_utc)
+                      or datetime.min.replace(tzinfo=timezone.utc))
     curados = [i for i in itens if i.manual]
     espaco = max(cfg.FEED_ITEM_CAP - len(curados), 0)
 
-    por_fonte: Counter = Counter()
+    por_fonte_dia: Counter = Counter()
     automaticos: list[NewsItem] = []
-    for it in itens:
-        if it.manual:
+    for it in sorted((i for i in itens if not i.manual), key=data, reverse=True):
+        chave = (it.source_id, (it.published_utc or "")[:10])
+        if por_fonte_dia[chave] >= cfg.PER_SOURCE_DAILY_CAP:
             continue
-        if por_fonte[it.source_id] >= cfg.PER_SOURCE_CAP:
-            continue
-        por_fonte[it.source_id] += 1
+        por_fonte_dia[chave] += 1
         automaticos.append(it)
         if len(automaticos) >= espaco:
             break
