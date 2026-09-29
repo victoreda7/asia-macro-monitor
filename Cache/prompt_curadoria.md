@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T23:22:44.774188+00:00
+Última coleta: 2026-09-29T23:32:52.122872+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1265
-  🇨🇳 China          761
+  🇯🇵 Japão          1264
+  🇨🇳 China          762
   🇹🇼 Taiwan         256
   🇰🇷 Coreia do Sul  718
 
 ## O que já está no feed (não repita)
 
+  - [china] China plans to strengthen surveillance on steel exports
+  - [korea] South Korea Industrial Output Unexpectedly Falls
   - [korea] The annual interest burden of the Korea Land and Housing Corporation (LH), which supports the govern..
   - [japan] Tsuyoshi Morioka's reputation has changed from being the ``God of Marketing''...The true nature of his ``abili
   - [korea] Trump set to unveil $200B South Korean U.S. investment plan
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China cuts key interest rate, offers mortgage subsidy to boost economy
   - [japan] Supplementary budget proposal of 14.9 billion yen TEPCO's contribution to snow removal support: Prefectural as
   - [korea] Seoul stocks open lower on inflation woes
-  - [japan] What will happen this winter as electricity prices reach record highs? [Q&A]
-  - [taiwan] In global semiconductor race, Singapore bets on critical, mature technologies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T23:22:45+00:00",
+      "published_utc": "2026-09-29T23:32:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

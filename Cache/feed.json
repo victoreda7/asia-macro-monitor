@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-09-29T23:22:44.774188+00:00",
- "collected_at_utc": "2026-09-29T23:22:44.774188+00:00",
+ "generated_at_utc": "2026-09-29T23:32:52.122872+00:00",
+ "collected_at_utc": "2026-09-29T23:32:52.122872+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1265,
-  "china": 761,
+  "japan": 1264,
+  "china": 762,
   "taiwan": 256,
   "korea": 718
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 35.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-29T23:20:22+00:00"
+   "newest": "2026-09-29T23:31:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-29T15:29:59+00:00"
+   "newest": "2026-09-29T18:30:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-09-29T22:27:03+00:00"
+   "newest": "2026-09-29T23:25:22+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,8 +344,42 @@
  ],
  "items": [
   {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "China plans to strengthen surveillance on steel exports",
+   "url": "https://news.yahoo.co.jp/pickup/6597017?source=rss",
+   "published_utc": "2026-09-29T23:25:22+00:00",
+   "title_original": "中国念頭 鉄鋼う回輸出監視強化へ",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "70bc62f364e6ed8b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea Industrial Output Unexpectedly Falls",
+   "url": "https://www.tradingview.com/news/te_news:587850:0-south-korea-industrial-output-unexpectedly-falls/",
+   "published_utc": "2026-09-29T23:06:43+00:00",
+   "title_original": "South Korea Industrial Output Unexpectedly Falls",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b7ae9e465c12f9a0"
+  },
+  {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "mk.co.kr",
    "title_en": "The annual interest burden of the Korea Land and Housing Corporation (LH), which supports the govern..",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wQ1ZqT2d4Y1BhTWQxNTBuTmIwUUlEUUcyZVl1amtaNDBUcHowYjR0NzVPSjZVbzVRTE1EZk1PNllEeU94VHpZcTJ3c2hWU3d6UkNmekhR?oc=5",
    "published_utc": "2026-09-29T22:32:14+00:00",
@@ -551,7 +585,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "Korea launches its own version of popular US fund Roundhill Memory ETF DRAM",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM1FXMGNZS01BRzcza0plNENIb3R1aUdsSG5hcWhOTUY3aFZRczE1U0czUGZqODFiYkFVUjRDNGlYT2ZMei1IZXRiWUxIRUdhQmZ6TWprREF6RW9qbGphLUF1cGdpQ1Qw?oc=5",
    "published_utc": "2026-09-29T19:00:24+00:00",
@@ -636,7 +670,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "Korea’s dollar store giant Daiso emerges as real estate player with $355 mn deals",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40aGtRVVlEMllBbDRRNVhPLVRkQmUwN0VHbDZ4SnpoZDI3dGl3U0FKMnEtbmxDTGtSdDRPdWJFR1JzeWNjWlNaR2c0c0JGMnV4SnhNUnU2QjVlN1FhVUVDejBzTGlmLVM1c2tLenRoOA?oc=5",
    "published_utc": "2026-09-29T16:45:03+00:00",
@@ -915,7 +949,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China Offers Mortgage Subsidies to Boost Ailing Property Sector",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ21qdFBiWUY4MjJ6YkVBamdrZ25tQ1dUNFdXRU01am91MjdRdVFUZTB2N2FRcndBdW9FQzBEeDJaRXBYbl9QUWs0QmJTQ2prejE0c1pSNklqWDFhTVlwR0hCQWs5dVoxNDZqYTQ5QXJrT2dxbHotWmlJYm1oQm5lSmRLNXJyTm9uUkZnN2p3SGhNclZ0bnl4aDlaZXlQOUdsRzVjVEg2enBFU0MzQklsc0duUFc?oc=5",
    "published_utc": "2026-09-29T10:25:20+00:00",
@@ -1111,7 +1145,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Demand Boost for US Crops Still Unclear After China Tariff Cuts",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3BxanVseGp0Zmx1TVdIdXA1UXN1dmt6VWstLUVZNnQxckEzS0g1TTdMaHZIYUJmQ3YtcmprenUzZnQxckRyM09ObFV5ZEFmaTBaOVJLTkNiajVJMkxidFR2c3VJVG1SNzIzSUlQQTI1Y01aVHlaWnJoWEpMWWdGS0ctbTB2NzNUcDB5ZVE0SzJtS01rR1FpRUFSRGowMGtSRGdxNUMzU3ZhdUgzWDA5SGF2SEg?oc=5",
    "published_utc": "2026-09-29T07:53:24+00:00",
@@ -1317,7 +1351,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China Signals Economic Stimulus to Counter Worsening Slowdown",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjl0SVVLdWt2S2drT1d4SEhVYTJRcV84R2RiRV9hYXM1cUNiTlhERVVwaWRtUGFhVjlCZnJMOTFjSWVEVlZ6cElqbkZTdFNtUGh1X0hkSXhOS2Y4NG9SbGNDanVUbm5zTUhCY1NNX0cyQUFYcGx2SmViOGZ6TVFtWWxzYTN6ZzczaTZRS3FtMENPQWJBYVh2RXRPODhuWnhZeWllNkxpTXU5VGoxb1RqWVBn?oc=5",
    "published_utc": "2026-09-29T06:22:00+00:00",
@@ -1402,8 +1436,8 @@
    "id": "703f925fda4ee45d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
    "published_utc": "2026-09-29T04:23:30+00:00",
@@ -1418,7 +1452,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "38b4d6c26a1ec51f"
+   "id": "7abfef93833be46e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1507,7 +1541,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Japan’s Katayama Repeats Weak Yen Concern After Bessent Call",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0ZtZHBuSFVRWl9jUWR5cjRSVzlYem9SR2NrZnBsbXF3ZUt2T19lU0tDZEFSV2dIMnJkNVJpUG1nYl9rRUUwMTk1SkRvUkdxVExueThrc3U0ZWV2VEhSUjJFaTRFaHFjNnpyaHNUVGt3aGxHRWhmSldVYkZvdWxieTRxSVpRREszemFicUZvUVNENDRjOWQ3OU16dmRQUXF4d1l5WVlBdjA3YTFIS25rekRTcmc?oc=5",
    "published_utc": "2026-09-29T02:54:00+00:00",
@@ -1524,7 +1558,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China’s LNG Imports to Fall for Second Month Due to High Prices",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdW9wR3Z5aGVmVHd1b2J1bGlOeURlSk5sbkZRc2tPb19BNDdiTjltU1FEUUxTaWZQd0U2Wmp5QkJwemt6MTRMTXU4Y0tOOGE0NnhmczlzYzZQcGVWNkUzREZmdHNZdi1mVUxBTXYtbk1NbDgxREZUSGFFeEhKbEp2NkRNNmZyV1h2UllyMkk0UFBXWkkwWm1pRXF4bEpOUkNrRTdMMkF5TGQ5dkJxeXZyYTFhd3k?oc=5",
    "published_utc": "2026-09-29T02:53:00+00:00",
@@ -2197,7 +2231,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Yen Gains After Japan’s Currency Czar Warns Against Weakness",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOakpoa3l1cXNZY05NdVNnU085c1VjTDhhWHRIQXFFUU1vVl9UWFk5aDRfWGJpaG9DTEwzWTRWS3RSejdDLTVEWUUzZk5jbmtvei1vbEtMcExiY2czWVJDOC1TUVdRRkd5cnJ6dm9uMk1rOVZWZHRYZnFkZTZNNE14Z0VZRUh2VnRHRHJ5ZTRhX2EybVVBU294UVA1VWcxdzl5YThvVEUwRlprYXRObk1FNA?oc=5",
    "published_utc": "2026-09-28T20:29:43+00:00",
@@ -2314,6 +2348,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a5d43b8a55b42e55"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Gold hits seven-week low as oil surge fuels rate hike bets",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+   "published_utc": "2026-09-28T15:53:50+00:00",
+   "title_original": "Gold hits seven-week low as oil surge fuels rate hike bets",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fa61bb739cd55af6"
   },
   {
    "source_id": "tradingview_live",
@@ -2490,7 +2541,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "US, China Release Product Lists for $30 Billion Tariff Deal",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejAwODBlZm1pdk5leVFwbHA2cnRWRkZXT2R2ejVDNjhtV01qb3ZFQ0hoMW9pWTVHN3dqOXBramZyY0RDdDJkMEQyUGRaVHh5QUFnak1SQ0c4dkp6aE5QYjdEd25ZMXFheXhRcmVXLXZJV1ZLNmk1MndtZ3FaNmNPcDNXSkxkV1Rvb2x6MmZBWVBvOV9rTmZMS0ljRENGWGY3d0ZFbFpTajZGVW1PZGdz?oc=5",
    "published_utc": "2026-09-28T11:33:29+00:00",
@@ -2871,7 +2922,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "mk.co.kr",
    "title_en": "As construction of industrial facilities, including private semiconductor production facilities, inc..",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05VUlBQTNGRHRUMG1ycGdTSFVRcF9oNHlfTHVJTnBtV2oxNkwwSzN2dGNOaVI2RHh4NzNRVGpIbmNESlJuWUk1RndiTEtzX2pRM0ZPTm5B?oc=5",
    "published_utc": "2026-09-28T08:11:23+00:00",
@@ -3097,7 +3148,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "mk.co.kr",
    "title_en": "“Sailing smoothly despite a stronger won”: Samsung Electro-Mechanics on track for record third-quarter earnings as AI components drive growth",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GeEI2YjFaZTJnNF9uZVlubjF2dFViTE9IWVRWTkRNVDlxZzZreG5OOXJqeU4zNDlsTTItS1RCNEhhdVg5dkRkWGxfaW9FZ0FnM3VB?oc=5",
    "published_utc": "2026-09-28T06:24:13+00:00",
@@ -3865,23 +3916,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d7fdc3a0f2c9b9a8"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Gold hits seven-week low as oil surge fuels rate hike bets",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
-   "published_utc": "2026-09-28T01:41:00+00:00",
-   "title_original": "Gold hits seven-week low as oil surge fuels rate hike bets",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fa61bb739cd55af6"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4902,7 +4936,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Here’s a Comparison of US, China Readouts on Trump-Xi Summit",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTRRVVViYnJIa1VxRFNtZnlYN0R4V1M0aUVaTlJWbUJ2WmpBTDAxQ2ZjdnpRNVI0Z0Z4eW9FNHRnZzRJQjVXekRFNEYxREFXQlJGalQyUVFOb1lEck1FTktwRG1pWW9FdHlnNkd1WnN3Y1RFMXZScldyQUFzekRUSmdmdG5rT2ZKVEZMRzU0VklRX0xGaFhvdTg2ODdZcHAwQlg1cFV0SXhxbnEyeU13?oc=5",
    "published_utc": "2026-09-26T16:03:59+00:00",
@@ -8725,24 +8759,6 @@
    "id": "ba40a4dedac883aa"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out MLF operations worth 800 billion yuan for a period of one year",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNy04aFlsTWZscC1sRl9udjlPclllcmVXa1hnTHZJV0F0UF9PU3laaHNiY2ltTkxOaFZPOG85bklOUXNVZGpEcTlrNC1CMEVYWklQdWtPNjBDYXc4SGxMZ0xuY1hVQQ?oc=5",
-   "published_utc": "2026-09-23T16:31:27+00:00",
-   "title_original": "央行将开展8000亿元MLF操作，期限1年",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3344bbb30ef21a5"
-  },
-  {
    "source_id": "gn_tw_taipeitimes",
    "source_name": "Taipei Times",
    "title_en": "ADB raises GDP growth for Taiwan to 11% this year",
@@ -8792,6 +8808,24 @@
    "live_wire": false,
    "manual": false,
    "id": "02f2929cdd74dd53"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "国际金融报",
+   "title_en": "The central bank will carry out MLF operations worth 800 billion yuan for a period of one year",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ec1Zla3FZWXBqNVhZcGhtSVBDbVRPZXU5aXI3bENPVnhjV3l3eGdfYTEtaS1Yb3JHcGFacXVNZDh4UVlMSy1RQVlmM2hBM0E3aElPSldHcWtRXzBoODA4?oc=5",
+   "published_utc": "2026-09-23T15:36:00+00:00",
+   "title_original": "央行将开展8000亿元MLF操作，期限1年",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d089248eebb49d6b"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -10166,7 +10200,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "South Korea’s $350 bn US investment plan takes shape with Texas power, nuclear projects",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sOGstUUdQRlJmcXJWN1ZxS0lhRHc4RnJOTXFWUnRLV0szcFBSUkxXR0RWcHdPVmo4ZjB2d1oxOUxZb2FINk1JX1ZkeUJXT0FkYXp6bmJEVFhDTk9ON21GbEtvcENTaktQalRreVFXZy01MndYdkNz?oc=5",
    "published_utc": "2026-09-22T12:55:00+00:00",
@@ -11905,7 +11939,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "China tightens grip on Korea's robotaxi supply chain as Chinese LiDAR dominates",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81TzNEcGNLczNmclg4aEkyX2xNeGh5MzVkbGQtbHRrcF94ekZ5RXZVVXpQVS1PT2huS3VsY1BlTXdvTVpjSEppYkNOUmtSdWxjU2tid2gyVklpNXEtVU5GckVKanJRSWFHQzBVenV5ZURaUmp1?oc=5",
    "published_utc": "2026-09-21T13:16:00+00:00",
@@ -12337,7 +12371,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "Korea freezes Q4 electricity rates despite rising fuel costs eroding KEPCO’s profit, debt profile",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UaFdTU2FpNVg1bGYzZUU3YWR0eDlDWnFtTGgxaVV0T2RmZ2FTTXRfczAwbXpSS1RIcEFERFo4NUhqbkFzNHFmVS04UXVpdXdDNXZwbzloN3owU2VUa2hnXzJmREZGZ3RX?oc=5",
    "published_utc": "2026-09-21T07:00:00+00:00",
@@ -28551,7 +28585,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUXVRdklHeC0wazdnNldDb0RuSC1PbmUtSk1GN0w3WVA2cmhHT2QzQmFYTV92ZWZkc09XLVdqTFhXMTJmV2cwMkp3Mm1kTU15dHFNcGRRaUpkX0V6XzROZVBVeTg5a3Zl?oc=5",
    "published_utc": "2026-09-11T07:00:00+00:00",
@@ -51848,7 +51882,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "South Korea’s CCL exports jump 42% as AI infrastructure boom spreads",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aS2NjZU1uVU5QdXRWY0t2TEg0cU13dXBqMmZxa0llVjZ2Zy1UZG5GMlVXSnluUjhmOVgtNFJQaVVSazhMVktRUUxKeHZjVzJrUEJJMXI2S0o3UFlzVkdVWVJmaU4wQVQySTR2SXQ0WjZ1STRzTXkxbVZLZkZxb1U?oc=5",
    "published_utc": "2026-08-31T07:00:00+00:00",
@@ -51932,40 +51966,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d36fd860a00f1bca"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "BOK’s Shin expects Fed to hike rates in September",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QYmlzZU1oWEotcUQ5R21EZUhNLW81WU9ubVowMlEyREpIYndLaHRDVE00SGUtYjQyQkkzY25MSUVWcWczWFV5MnR1aS1pYmJDTmpKbzJwQQ?oc=5",
-   "published_utc": "2026-08-31T07:00:00+00:00",
-   "title_original": "BOK’s Shin expects Fed to hike rates in September",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6da0c4f73151ddb6"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Industry Ministry Seeks Unprecedented $49 Billion Budget",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZExxdzN4QU9FeUJOTWJSNFc3Q011a2ZHRmRWMzlvWFZGY0k4VUdKU2ppVlpNSVBLa2pPN3lJU1NIVEVuOWpxdGhzWFBJLVVDRlpFakJBb2xjYnJ3dUNVSXU4QjVpNk91NjFFWHhjQXMyOXM2WlUwOFRMY2hUWlNKcmlxSElVS21PT3FBM3M5bzBmZGx0T3pJUDhBZEJadTVELWtVd195UVNKc3ZRdmhYZjdHd2I?oc=5",
-   "published_utc": "2026-08-31T06:34:00+00:00",
-   "title_original": "Japan’s Industry Ministry Seeks Unprecedented $49 Billion Budget",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a674fa0dfb400531"
   },
   {
    "source_id": "manual_ia",
