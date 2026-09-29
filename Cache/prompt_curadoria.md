@@ -7,17 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T14:16:44.721699+00:00
+Última coleta: 2026-09-29T18:46:33.731224+00:00
 Total: 420 manchetes
 
   🇯🇵 Japão          153
   🇨🇳 China          119
-  🇹🇼 Taiwan          31
-  🇰🇷 Coreia do Sul  117
+  🇹🇼 Taiwan          33
+  🇰🇷 Coreia do Sul  115
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC's 2nm Push Could Create a New Winner in the AI Chip Boom
+  - [korea] Samsung Electronics Stock Gains as Helix Draws $1 Billion
+  - [korea] Korea’s dollar store giant Daiso emerges as real estate player with $355 mn deals
+  - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarter
   - [korea] Seoul stocks fall for 2nd day on inflation woes
+  - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
+  - [japan] Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook
   - [china] China launches 'mini stimulus' targeting affordable homes, infrastructure
   - [china] China announces interest rate cuts and mortgage subsidies to boost growth
   - [china] Libya's High State Council rejects changes to presidential election law as "unconstitutional"-Xinhua
@@ -25,19 +31,19 @@ Total: 420 manchetes
   - [china] China unveils rate cut, mortgage subsidies to spur growth
   - [china] China espera que comércio cresça apesar dos desafios externos
   - [china] KMT, TPP legislators reject all 27 of Lai's Control Yuan nominees
-  - [korea] Korea’s dollar store giant Daiso emerges as real estate player with $355 mn deals
+  - [china] China Offers Mortgage Subsidies to Boost Ailing Property Sector
   - [china] China to subsidize mortgage interest for first-time home buyers
+  - [china] China cuts key interest rate, offers mortgage subsidy to boost economy
   - [japan] Supplementary budget proposal of 14.9 billion yen TEPCO's contribution to snow removal support: Prefectural as
   - [korea] The annual interest burden of the Korea Land and Housing Corporation (LH), which supports the govern..
   - [korea] Seoul stocks open lower on inflation woes
-  - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarter
   - [taiwan] In global semiconductor race, Singapore bets on critical, mature technologies
   - [japan] 2-year interest rate approaches 2%, Bank of Japan's intention to change stance Assessing the Tankan (Reuters)
   - [japan] 2-year interest rate approaches 2%, Bank of Japan's stance is changing - Assessing the Tankan (Reuters)
   - [korea] Issues that affect the decision to increase interest rates... Look at the remarks of the Monetary Policy Commi
+  - [japan] Asia stocks subdued as rising yields, oil weigh; RBA hikes rates as expected
   - [china] Demand Boost for US Crops Still Unclear After China Tariff Cuts
   - [japan] EQt Raises Tender Offer Price For Kakaku.Com To 3,681 Yen From 3,680 Yen, Filing Shows
-  - [japan] Asia stocks subdued as rising yields, oil weigh; RBA hikes rates as expected
   - [korea] The Bank of Korea approves a monetary and credit policy report containing the background for raising the base 
   - [japan] Japanese Shares Fall on Inflation Worries
   - [taiwan] Singapore's chip progress
@@ -51,12 +57,6 @@ Total: 420 manchetes
   - [china] ‘Important and consequential’: Jensen Huang on US-China AI race, risk management
   - [japan] Nikkei 225 drops 1.2% as US interest rates hit 19-year high: Why KOSPI barely moves
   - [china] COMMENTARY: China's metal-heavy commodity imports map a messy energy transition
-  - [japan] Japan to spend 111.8 bil. yen on tax cut preparation
-  - [korea] Samsung shares rise after 5% drop as Nvidia bets on AI beyond chips
-  - [taiwan] Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal
-  - [taiwan] GlobalFoundries eyes GaN expansion to challenge TSMC in AI
-  - [korea] SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform
-  - [china] China asks local governments to ‘intensify’ policy tweaks to boost consumption
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 420 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T14:16:44+00:00",
+      "published_utc": "2026-09-29T18:46:33+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
