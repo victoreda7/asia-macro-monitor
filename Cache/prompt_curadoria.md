@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T23:12:45.142142+00:00
+Última coleta: 2026-09-29T23:22:44.774188+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1265
-  🇨🇳 China          760
+  🇨🇳 China          761
   🇹🇼 Taiwan         256
-  🇰🇷 Coreia do Sul  719
+  🇰🇷 Coreia do Sul  718
 
 ## O que já está no feed (não repita)
 
@@ -35,6 +35,7 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Stock Gains as Helix Draws $1 Billion
   - [japan] Prime Minister Takaichi held a summit meeting with Prime Minister of Mongolia Nyamuosor Otilal
   - [korea] Korea’s dollar store giant Daiso emerges as real estate player with $355 mn deals
+  - [china] China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI
   - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarter
   - [korea] Seoul stocks fall for 2nd day on inflation woes
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Seoul stocks open lower on inflation woes
   - [japan] What will happen this winter as electricity prices reach record highs? [Q&A]
   - [taiwan] In global semiconductor race, Singapore bets on critical, mature technologies
-  - [japan] 2-year interest rate approaches 2%, Bank of Japan's intention to change stance Assessing the Tankan (Reuters)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T23:12:45+00:00",
+      "published_utc": "2026-09-29T23:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
