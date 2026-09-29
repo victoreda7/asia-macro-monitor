@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-09-29T20:52:46.334849+00:00",
- "collected_at_utc": "2026-09-29T20:52:46.334849+00:00",
+ "generated_at_utc": "2026-09-29T21:02:49.229653+00:00",
+ "collected_at_utc": "2026-09-29T21:02:49.229653+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1261,
+  "japan": 1263,
   "china": 762,
   "taiwan": 257,
-  "korea": 720
+  "korea": 718
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-29T20:36:29+00:00"
+   "newest": "2026-09-29T20:54:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-29T20:24:37+00:00"
+   "newest": "2026-09-29T20:36:51+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-29T14:44:38+00:00"
+   "newest": "2026-09-29T20:44:04+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -160,10 +160,10 @@
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS China (GN)",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-09-15T07:00:00+00:00"
+   "error": "parada desde 15/07/2026",
+   "newest": "2026-07-15T07:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-29T20:51:47+00:00"
+   "newest": "2026-09-29T21:01:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-09-30T05:45:00+09:00"
+   "newest": "2026-09-30T05:55:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-29T14:55:17+00:00"
+   "newest": "2026-09-29T15:05:12+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "<Liquor tax will be unified from October> Behind the scenes of dependence on champion Asahi's \"Super Dry\"... \"Retail store shelves\" stolen by cyber damage and the merits and demerits of one leg | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/959398?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-09-29T20:55:00+00:00",
+   "title_original": "〈10月から酒税一本化〉王者アサヒ｢スーパードライ｣依存の裏側…サイバー被害で奪われた｢小売店の棚｣と一本足の功罪 | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9ff8d7bdbaa90c48"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Roland revived from a large deficit through MBO...6 years after relisting, now that the fund that supported the company's restructuring has left, the question of \"next growth\" | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/959044?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-09-29T20:50:00+00:00",
+   "title_original": "大赤字からMBOで蘇ったローランド…再上場から6年､再建支えたファンドが去った今､問われる｢次なる成長｣ | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ce49ba70033306fd"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -566,10 +600,10 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "radiok1230.com",
+   "source_name": "K-Radio 우리방송",
    "title_en": "The Korean financial market is tense due to the sharp rise in US and Japanese government bond yields... Bank of Korea warns of ‘interest rate and foreign exchange’ risks",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vQWlCOUxPWk9CS1FnNjRZckN1ZGc1dFJzU1JlVWlXQzExQUtSWUpCMUlLay1NLWRPbnlJbm5IcWx5ZnV5UFFGelEtd3VoSk1wVjBtaEFCaUdvMVNFSEdyX19ka0tUbnIyVmJGLWNR0gFyQVVfeXFMUFFsZ2NUeldGNDNROHJ6M2x4UHRVTFl2VWVJalZkRHp2d0lqa1VYUy1vYVJXYmVqeE8wS1QyMzRwRWJHdVg4WjZZOW5CblZ3SzUydmJLdUY2Z0lxaTFwd0JiTFd4NFNiUWN4NmNISUJ2dzVR?oc=5",
-   "published_utc": "2026-09-29T14:55:17+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRbGdjVHpXRjQzUThyejNseFB0VUxZdlVlSWpWZER6dndJamtVWFMtb2FSV2JlanhPMEtUMjM0cEViR3VYOFo2WTluQm5Wd0s1MnZiS3VGNmdJcWkxcHdCYkxXeDRTYlFjeDZjSElCdnc1UdIBckFVX3lxTFBRbGdjVHpXRjQzUThyejNseFB0VUxZdlVlSWpWZER6dndJamtVWFMtb2FSV2JlanhPMEtUMjM0cEViR3VYOFo2WTluQm5Wd0s1MnZiS3VGNmdJcWkxcHdCYkxXeDRTYlFjeDZjSElCdnc1UQ?oc=5",
+   "published_utc": "2026-09-29T15:05:12+00:00",
    "title_original": "미·일 국채금리 급등에 한국 금융시장 긴장…한은, ‘금리·외환’ 리스크 경고",
    "region": "korea",
    "topics": [
@@ -581,7 +615,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d5a3580e0dddf956"
+   "id": "384fe6bb83aa6c21"
   },
   {
    "source_id": "investing_fx",
@@ -637,7 +671,7 @@
   },
   {
    "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Oil giants rush to help Italy's Meloni curb energy costs with fuel price caps",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRUZwMmRHcVVaSHB3SU9Edk4yZXdXenRfZUlEcmhsbjQ0dTFNWGZQbGpsV0ROZF8ybnFkVEVjcGowakN2dElwdjk5QnRwSkg3Y3pSTkdnNzdfUkItdXJVdkNNM01vSGNVSTJUUmxvY3lBNDMwTk9WODB2RXJ5YmhRZ3oweXZOLUlfRi12OFU1UUtiT1hRRFhXdDJ4QWM0RnpSb0VhcTR0dUZ3ZFJJM2JLQ3JzbGloQ1U4amF0NngzRnFqMGc?oc=5",
    "published_utc": "2026-09-29T13:19:22+00:00",
@@ -760,7 +794,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "China Offers Mortgage Subsidies to Boost Ailing Property Sector",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ21qdFBiWUY4MjJ6YkVBamdrZ25tQ1dUNFdXRU01am91MjdRdVFUZTB2N2FRcndBdW9FQzBEeDJaRXBYbl9QUWs0QmJTQ2prejE0c1pSNklqWDFhTVlwR0hCQWs5dVoxNDZqYTQ5QXJrT2dxbHotWmlJYm1oQm5lSmRLNXJyTm9uUkZnN2p3SGhNclZ0bnl4aDlaZXlQOUdsRzVjVEg2enBFU0MzQklsc0duUFc?oc=5",
    "published_utc": "2026-09-29T10:25:20+00:00",
@@ -796,7 +830,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "China cuts key interest rate, offers mortgage subsidy to boost economy",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkhvV0RfZkpsd2p3M0RtenREZThrZ0lSQ2tGbUxzSGdDckI1LWV4eE9ETllGZi1UTVNPZmd3bUpKeGhQenZMQk5LS3NnLXNJbU1SV2dNQThGdFBiRWo1NzU3Mnd5ekhqV29XSnBYZlBGNWRoZ1NSaGcweC1sTHJoSkRSVTM3RTBaclE1dnZVdmpBUzg4bHlaa1NFQWQwaVBtRDRJQmFLT1YyNGRGMVNpaUlvdV9PUdIBtgFBVV95cUxPdWpaN2ZRRUNjUnJncUZQNEZPRUI2Z3FuNkxQM0oyVFdEUzV4MklreGQ4WlhUNWZYNTcyZmVpa3M4QjlmazI0VlNNQ3Q0V3Y3TzRoWHV3SXdFZEdjXzU0RnRQSEV4UXVSLXJoVWZYcTRVX1Jlb0JWWXMydC1nbmFnTWZNa3RYWVFTd0xZSFRqOVNQVzZudEtrTWtMQ3o1Vzg2VDRYeVo4bkdLdTlrNjh6MC1MaHh2Zw?oc=5",
    "published_utc": "2026-09-29T10:11:00+00:00",
@@ -973,7 +1007,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "Demand Boost for US Crops Still Unclear After China Tariff Cuts",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3BxanVseGp0Zmx1TVdIdXA1UXN1dmt6VWstLUVZNnQxckEzS0g1TTdMaHZIYUJmQ3YtcmprenUzZnQxckRyM09ObFV5ZEFmaTBaOVJLTkNiajVJMkxidFR2c3VJVG1SNzIzSUlQQTI1Y01aVHlaWnJoWEpMWWdGS0ctbTB2NzNUcDB5ZVE0SzJtS01rR1FpRUFSRGowMGtSRGdxNUMzU3ZhdUgzWDA5SGF2SEg?oc=5",
    "published_utc": "2026-09-29T07:53:24+00:00",
@@ -1179,7 +1213,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "China Signals Economic Stimulus to Counter Worsening Slowdown",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjl0SVVLdWt2S2drT1d4SEhVYTJRcV84R2RiRV9hYXM1cUNiTlhERVVwaWRtUGFhVjlCZnJMOTFjSWVEVlZ6cElqbkZTdFNtUGh1X0hkSXhOS2Y4NG9SbGNDanVUbm5zTUhCY1NNX0cyQUFYcGx2SmViOGZ6TVFtWWxzYTN6ZzczaTZRS3FtMENPQWJBYVh2RXRPODhuWnhZeWllNkxpTXU5VGoxb1RqWVBn?oc=5",
    "published_utc": "2026-09-29T06:22:00+00:00",
@@ -1231,7 +1265,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "COMMENTARY: China's metal-heavy commodity imports map a messy energy transition",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNW1fS1c5RmstV3VOaDMya3NQSjlTTE5NNGdteVU4b0JJdGM2aUpVaHk4LVRJRjdBeE9BejE3YjZoQ08yenNKNlBveXNIUXVhd0g5ajRtSlA2alQ0YkViZWx5WmRqbXQzandfS2VGWEszMFhKeHJkcWV6RGVpZnc4NTFXLWJ1Sk1UTkZHT1hHV2tfRlFnQ1Q4NGczUTVRLTRpSGxWRUlLckY2SHJCZFpFQzh5TFVGYlRKTWRlcWVhdzlkLUU1WVNzV1NVcmxqUQ?oc=5",
    "published_utc": "2026-09-29T05:00:00+00:00",
@@ -1335,7 +1369,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "China asks local governments to ‘intensify’ policy tweaks to boost consumption",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUJEUFFQQkRWSmJoUjdHT2R5QmRTdThBR2tGSG1jZnZsM3o4bU9saUo1NW43allUbmszSW1zMHoyb3pUODR2Y0tnWm13WjhibVNfZGlOT0E5TGFFekkwT193NE94bUFtOW9xWW04VjRTay1WemtsNnRnMmlEV2ViaFFKN3JRbnV0b0JIcXhkWUdTeGt5ZUtfM01nWFNLamo1Yk1BWVRudVFncFpwVUtXWXpNdjJxTmpUT21fTWJuRUNCQ2RXamFsOFVOd2tYZ9IBzgFBVV95cUxNUURfbVJVR3BmSEZId1ZUQkNCb1JZaWdiYmY1Q3pZTnY3RXNtNGsyX3A3NnhMRDZZbW1SZDRlWld2VTFoVzRJRHpNcHp4M1FlSUxUM1E2d19Rd25ERU9JdGc0dVhDZWlaNk5QaVRkU1hfVnNuVE01cExDRFg3UkU2VmxCY2VvZ3RlWjhsWWhTcDY1LTlFR3FjOFpfNjhCMEpvQnlMZHo5YXc4cHVZekQ0UVJBT2VTcF9WbVc4Nk50VS1NbWxvekVTZkZNZ3dCZw?oc=5",
    "published_utc": "2026-09-29T03:07:07+00:00",
@@ -1387,7 +1421,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "Japan’s Katayama Repeats Weak Yen Concern After Bessent Call",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0ZtZHBuSFVRWl9jUWR5cjRSVzlYem9SR2NrZnBsbXF3ZUt2T19lU0tDZEFSV2dIMnJkNVJpUG1nYl9rRUUwMTk1SkRvUkdxVExueThrc3U0ZWV2VEhSUjJFaTRFaHFjNnpyaHNUVGt3aGxHRWhmSldVYkZvdWxieTRxSVpRREszemFicUZvUVNENDRjOWQ3OU16dmRQUXF4d1l5WVlBdjA3YTFIS25rekRTcmc?oc=5",
    "published_utc": "2026-09-29T02:54:00+00:00",
@@ -1404,7 +1438,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "China’s LNG Imports to Fall for Second Month Due to High Prices",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdW9wR3Z5aGVmVHd1b2J1bGlOeURlSk5sbkZRc2tPb19BNDdiTjltU1FEUUxTaWZQd0U2Wmp5QkJwemt6MTRMTXU4Y0tOOGE0NnhmczlzYzZQcGVWNkUzREZmdHNZdi1mVUxBTXYtbk1NbDgxREZUSGFFeEhKbEp2NkRNNmZyV1h2UllyMkk0UFBXWkkwWm1pRXF4bEpOUkNrRTdMMkF5TGQ5dkJxeXZyYTFhd3k?oc=5",
    "published_utc": "2026-09-29T02:53:00+00:00",
@@ -1578,7 +1612,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "womaneconomy.co.kr",
+   "source_name": "여성경제신문",
    "title_en": "Following the Deputy Prime Minister, Shin Hyun-song met with 16 bank presidents and also listened to opinions from the field outside of monetary policy.",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40TEFSMFJrY3J4dTY3Tzc0YUJhekYzbmFtdGxobFR5UEpVVzFhdUVZTGJSakMtNnBtdkcxclVsMDN5NHg4TWFfYUZtM0k0akdhUmF2WF9oWjNuenFaT25NSm9DQmtnSXM5MGdfb1FHdUg5SGvSAXdBVV95cUxNaXlpSFpxSUhDLVVwNENtRk9hay1fLWduNThfSFEyUEhMVXV5U2NNR0VIemhGNVFQa21aSVVKZ1RXZ3Z5aXhoZXo1MFFlMUZidnFFSkZFZVYxbkZSWEI4amd3ZVc5QWxEeVE4ZEptX1RnUEpUMFNoaw?oc=5",
    "published_utc": "2026-09-29T01:27:22+00:00",
@@ -1596,7 +1630,7 @@
   },
   {
    "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "South Korean exports seen rising for 16th month on solid AI chip demand",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPangxT3pzak9jS0tDVDNNYXJGMTZiZTdTM2p6WVNWWlhqRFpMeHFOcWR3SExFVWVJMU4tQWQ1WGx5M2xaamRsc3paWmFkVXJCNFhncGlwQkxMb2pZYmRYNG9faVcyYzZsUDJmLWN5OGF0SjBHM0VzSlRwSVBHZ1pYc2R6Z3hwbmV5cmZyb2FodEVkaGVCbEY2VURiNkp4RFdiQlVFRUpaR1BJOGRJQS1lTFZMekhxb2RVeE5j?oc=5",
    "published_utc": "2026-09-29T01:09:43+00:00",
@@ -1767,7 +1801,7 @@
   },
   {
    "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "EXCLUSIVE Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzFRTndpRkJHX2FfcTFFdHFvNVVrQU5MZVAxM0Z1T1p3TjRyaUtyNFRaNjRQQjQwYjJaVW5ocTlGYU1iU0w4WGNISjhWb0ZsWHpTYkZ5aEhPX1B1blRyak40X0FHMDdWdnUzSGFYczRrXzd1bXBPODRNbDdnN2NPcTZLZFpIaWhTRkQ0bVZIMGxGcFo0S1B1M3RrV0pWU1h6d0d6NC1SMkhwdl9ESGJiZFVXLWl4Mll4bUE?oc=5",
    "published_utc": "2026-09-28T23:44:09+00:00",
@@ -2059,7 +2093,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "Yen Gains After Japan’s Currency Czar Warns Against Weakness",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOakpoa3l1cXNZY05NdVNnU085c1VjTDhhWHRIQXFFUU1vVl9UWFk5aDRfWGJpaG9DTEwzWTRWS3RSejdDLTVEWUUzZk5jbmtvei1vbEtMcExiY2czWVJDOC1TUVdRRkd5cnJ6dm9uMk1rOVZWZHRYZnFkZTZNNE14Z0VZRUh2VnRHRHJ5ZTRhX2EybVVBU294UVA1VWcxdzl5YThvVEUwRlprYXRObk1FNA?oc=5",
    "published_utc": "2026-09-28T20:29:43+00:00",
@@ -2316,7 +2350,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "China's cabinet pledges stronger policy support to meet growth target",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUJpVWpuOGk0N2htYXdELUlJbUpKUUo4bV9ZWDh0VXJtdkllZkhac05aWGJoMTd5MFMtTE1xd2lRMEFhUU9ER2J3WHE3Q3lHLU9rbXpQSkxKazUydkFjSlNaYnZWS0pWeERuLS0tSnJicnNDN0RFV3pPN29xc2Q2WEQ5ekRMRXlicnZVV0NVbl8wV1M2THdLUkwyMk5CXzA2UUQ4RERySXRLaVhSVGRpS0VfaEx6MVpDWEFYbg?oc=5",
    "published_utc": "2026-09-28T11:37:43+00:00",
@@ -2352,7 +2386,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "US, China Release Product Lists for $30 Billion Tariff Deal",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejAwODBlZm1pdk5leVFwbHA2cnRWRkZXT2R2ejVDNjhtV01qb3ZFQ0hoMW9pWTVHN3dqOXBramZyY0RDdDJkMEQyUGRaVHh5QUFnak1SQ0c4dkp6aE5QYjdEd25ZMXFheXhRcmVXLXZJV1ZLNmk1MndtZ3FaNmNPcDNXSkxkV1Rvb2x6MmZBWVBvOV9rTmZMS0ljRENGWGY3d0ZFbFpTajZGVW1PZGdz?oc=5",
    "published_utc": "2026-09-28T11:33:29+00:00",
@@ -2421,7 +2455,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Russian oil supply to India tightens on reduced exports, strong Chinese demand",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTlqcl9scHJnUzlYbUtkUnpIdDRZWUhiaUVRU0FTZ1hzTVNRVXZLRFZFUmdTc0s2LVNueDBpOHBVZTNIb2ZKei16c2c0VVhFMjd4UFdxclM0bjk0bGJWbHNrT2FpSlBZenVsanlUanZCVk05SHVsS0IyNU5FTno5aS1scFJKT3BUWnhBZjc4Rll2UUFTVEd4eWJRaEFUVzJMdDdMYkE1QVdKYXE4aUdWQ0ljRC14QTZDbURzSVJ4UzI?oc=5",
    "published_utc": "2026-09-28T10:27:52+00:00",
@@ -2819,7 +2853,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "US, China slash tariffs on basic goods – but leave rare earths off the record",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkxUMGphZ2ZwYnpUbzUxUUd2c3dER01QeDZNZHFmQlEzQmJSMllMX0FvYmpkSnp0YWhOYlhhM1BHNWM3bjZ1RllpNmNoOFd5UXdIRWRKc2lXVWQzWXp1Vi1wc2ZjV2cxa2dHS25NMDh2UTF0VU9BUFBRU2QtRUlVako1cE1sY1FHYXZrSkhkcnYtQVJYc2NVMC1CZlUtWFVPdzdtaU1zRW1Nend3dWs3V29QblBqcWlZOFc1dlVyT3BDNTBoZlRmUHpKVk7SAcwBQVVfeXFMUE5ib3FJaFRzM1JnR3l4eG9UM0FUcVlPNy1WSHI3S1FJVm5xYTdVR0V1S3AzLWpxQzVZZE1MQjZtSjdITU5ESU1KQTZacnNweEptdDl5TGJJTVpJSEIwcUUzckdmSVpIVTNjb3hjanJUMlQzbnpQTWs5b0xVYUl3NjlnS2l5bm1nT2lUQzd3WnNmd0wzRXFiU0J4cVZGcko4dnltVXpfYkpwWXcyMW9fVmNKWTRrTjZIRjZvSFo4WjdlWDlXM19zek05aGJh?oc=5",
    "published_utc": "2026-09-28T07:00:36+00:00",
@@ -2923,7 +2957,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "대한데일리",
+   "source_name": "dhdaily.co.kr",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Are fiscal-monetary policies in sync?",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmSDhSUXZrSXRKd2tGNlJJWjRaRGQxTG5LWHNMZGYzZVpIQ3NwbHZuUE9GeHkzb1FsUDhVRTJtX01QOXJqUjdUakV5ZHdkeE13Wk5PZGhQVE5OS0hJWVNVajBOaFIyNFh5WkI4?oc=5",
    "published_utc": "2026-09-28T06:34:43+00:00",
@@ -3184,7 +3218,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "China to cut tariffs on US farm goods, but list excludes soybeans",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcS1oNDFMWG5pMzdiVDYzYlpoWmx2dXh2Z3FDbUJ5T09CbEFBV251Rkc2cFZTcnlPTDZ6N2hJbThrNTRrc255d0NZUWJhendkbXBNc3M4cWRWV1RaVkg3ZXg5Q2ZQVEZxWW1hX1V3UjJUOEJMZGlCRXJEdUpvZzUtQzdreVY5azNfSGxwakVfZFJOa0F0Y1NDWVllMHhaZEQybjRTdg?oc=5",
    "published_utc": "2026-09-28T04:19:00+00:00",
@@ -3392,7 +3426,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "China, US pledge tariff cuts on $60 billion of goods including agriculture, toys, toasters",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaTBqVzRGcGNNZ2M5YWVLbUQxanlOVWhxYU5lWjNuYzJSWmtHV2lQTWdSUXlpTGM3M1UzU2JUckNLUGxIc3dFVWx5WlExNnotSmtQblE4UnM0Sk1OVnQycjVkR0ozUlpzMW5MMExHNll4NDR2dXpfWTNCMVpQT0docjI1SHFDeFdwYnZGVlVocXhzTy10WWViRk54VklyNzNiRFczXy04aURCdVdmSEdNbjNrRHpXNXM5LWRCZzJQajZVMVBx?oc=5",
    "published_utc": "2026-09-28T03:07:00+00:00",
@@ -3462,7 +3496,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
+   "source_name": "newspim.com",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -3480,7 +3514,7 @@
   },
   {
    "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Hong Kong home prices largely flat in August",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVlZPbDlFNmdjckllRTg3UFpzbkt5NVdBRmZxenBmbUE1SFhRODItai1VdE1PREZZSzhpcnNISHk3NmRueDc3Y09EMWlDUnBsOUw3RXEtNUhad3pUcmdGVnBOS3Y4cS1CbmpRWlVMOHlES0dIYjA3c3A4dWxTeGcwS1NjUlR5Wlo4Q3BGckVCWllEOWc4d1NSb3l5YTQ?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -3730,7 +3764,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Gold hits seven-week low as oil surge fuels rate hike bets",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
    "published_utc": "2026-09-28T01:41:00+00:00",
@@ -3819,7 +3853,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "Asean firms hope Pinglu Canal will open China market, but fear flood of imports",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQamktZzBTWWtzZ1JTRl9DcmVENnZSZW5DUzhRVDV3RFNKN0M5SUtyOUpGN0hTV0NxaXRVUTNObjRnLXJtdl9kSm1rc3d4emhtOWhtLXJwNFhINWRjOWlibHo5cHd0YV93SmJIVlpTZVZhbXpEZFRIcWdHU05KbGdaQnRaemcwZDVBbW9mNVdwNU81bHdzQ0F3Qzlsa0c1emNFVzQxQmlSY2I1U1lfc2c2bXZoV2tLenhQNktMbjQ2dGtjLUtKMXlXZmJ30gHKAUFVX3lxTFBxTVFZeUdzemkxV0lkZEpkbU13STVlWHNXREpiSDlRZVhmeTNNYnZEbENWZWotOF82dGEtYXB4WkhJb2oxS2xnNTg1SkREdW5GeV82WUdXUHpHbkYtblRrSnVnZnJiRE5fQkRkaThKQ2xYdjBaczhtbk90X0dDNnp2bEUyVVBIVmZuM3ZTaUNJYzdJcVZOQ3puQmJYbnBLOFE4TmRqdDR4MkljdzRQc2l0WVBKWW5OaUctYUNmajhvSkZyVnJmdC1iUkE?oc=5",
    "published_utc": "2026-09-28T01:00:13+00:00",
@@ -4492,7 +4526,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "As Chinese retirees boost consumption, some hope for greater respect in society",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTHFBdGFLNzN2NXJJdlBGY3lPVnFVWEs2UXZxYU9ydXU3cEZaUFJHSUJVWGpwc2x4MkdEelY5ZDFYanJvc0t6SEFCSHlsZWFZdm9UZEp2OXlLb3c3al94aXFSbDNHckhLSjZHYUNrb3B4bm9ScFBlMzd6WW1OdTZVRU42Vm1PR21GZmJVRTlCU1ZfMVljMGVMZGJFbVJ3U09jVG45Sk81VnVZMXB5NGwtVzN3enhxcmtrVGpRNVBzZFY1NlJxM2EtaEtod1R5SFF5YzJRTzRtb9IB1wFBVV95cUxQeTJYWnl0RHlnSFVlOUtsOW8tWWszZW5Rb0o5YWt5VFJlQl9Fc3BLcFRjY0F1OXA4YmY3Ty1FVURERnBraUpVOUpmZzlxeExubEszekZ6ZkxuX2pEb3pFeFNWcDFlQ1BSOGdrcFFseGtNeWRncnlaOXBXUzVrNG1faTRPZWtkWGliekVqX2djZ0lkcEw1UW9ObHVtbWVyMV9HQ2NXMDA1eUloaVQ5ZTVraTlvWnlNMEtmX2hYMlVEWEdIQ2lWQ3hmT0NlQjh5UUNTOElxcXRmcw?oc=5",
    "published_utc": "2026-09-27T13:00:10+00:00",
@@ -4509,7 +4543,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "My Take | How Beijing is neutralising Washington’s sanctions machine",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSDJ2N1AwLU5fTFE5S2E5TGpwazNnMF9vUTBpMTYzRmRzZ2t5NElrQi1fd2syaDVWMEtQRnVscUx2eWRxUzhNZVZ1TUlGSkkwWW1kMmZxeUNabUJVZHdITzIyWmlyeFI1WGN2czcxd2h5WjFyc2R2eEsxRUxIMUd1T1lqQmtKelZ5clQ1UFdjM2FkZkhmWjFoOTA3QXg0NkNjY1U5RVYwQWZINnRFVzNjQmNkNA?oc=5",
    "published_utc": "2026-09-27T12:30:07+00:00",
@@ -4747,7 +4781,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
    "published_utc": "2026-09-26T19:59:32+00:00",
@@ -4764,7 +4798,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "Here’s a Comparison of US, China Readouts on Trump-Xi Summit",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTRRVVViYnJIa1VxRFNtZnlYN0R4V1M0aUVaTlJWbUJ2WmpBTDAxQ2ZjdnpRNVI0Z0Z4eW9FNHRnZzRJQjVXekRFNEYxREFXQlJGalQyUVFOb1lEck1FTktwRG1pWW9FdHlnNkd1WnN3Y1RFMXZScldyQUFzekRUSmdmdG5rT2ZKVEZMRzU0VklRX0xGaFhvdTg2ODdZcHAwQlg1cFV0SXhxbnEyeU13?oc=5",
    "published_utc": "2026-09-26T16:03:59+00:00",
@@ -4832,7 +4866,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "Trade truce aside, was AI the real Xi-Trump summit breakthrough?",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR29DbHRpckN6TkVPdy1CbjNQUFIteVR3eGJnRzdTM293M2pLWEx1bnlfVDNfcHZuN2hhU283R3FGM2dLXzFLQUNCamNiRVctUTV4d1lWUndYY1lJSDBkN2xNNFNKbmFkbG9RSXgzOWFHdVdNSXRzMFNWNzdwMVhEQ1JLNVl6X1pYdU5FcVBjWFFCSUZtUy1qUVY4VkRqbms4Ujh5Q0dtcVQ0TUVXajBPUXY5Q3hNRXdWY1BpQVNrRlNqNzhwbjVB0gHHAUFVX3lxTE5yYlF0MGY1dDNsNDlTamxBaFYxand6OTNMRGZxVS1Ba3pCckx3MVFnRzlxSkxqQW9pYXY1azRmdDBXQzZZSDNDZVc1UkVMY1M0OTRZNllQaS1RVUh2aXlIUUVDMlN0eXVLSmotV1dUN0FXZjQ1YmxSdFJDYmxJTkJncmc3R2F1a1VkdXI1b2EzQXpoZW1HYmVOTl9ycnFiVmczbW9jZUdOaFY5d0N1YTZ2N1RiQWFSU2RMbzE5SUFOS1lEWnRxcjA?oc=5",
    "published_utc": "2026-09-26T12:39:03+00:00",
@@ -5037,7 +5071,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "China’s first lady Peng Liyuan shines during Xi-Trump summit: what you missed",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZUtrb1lGdlQyZkJjTWdNTmJYNHRoRE45S0NhT2dEdGlRSGJ2bDN2WUpuTTNHUU9UZUdSc0NvWE45SS1NTG9mUnNmMnhEUTU5bTZQY2pvMjZZUGhBS2x5U1hnVTI0VW80dzJvYTQxeURoeHhjaUJFQVhHMEZrazB2ZTJ4Q0JRaXhqZEM2YjJjemFIck9QVUFhejJueFFETjRaZVlQWnBTYWU5U25oNW1XTkZVR2dyckxtNFpLVzh5ejhvWjByV2JlMXdRZWIwX0U5OXZzSURR0gHWAUFVX3lxTE9HZzBIS0xBZnNNb3Fza0otYnhiQWhZTTZRRnRyeVJIZzREdm95U2NlODZzdG9kX1ZTcHNsMXhQcHdyVVpkc2tybEdRLVBMUlJfdElJVnctUTVjcVdwMjJHWmp2ODR0azllWElpYnM4MnB1MUx6N3ZHajlRMjc4UzYtMzRHTWo1U0pVeUJwMkJzQVlkOWE4OEJLN2NBLWZ6aU9XcGJ4d3Mtazl3dzBqc1ZKM1BMb2VJemdGcHB4ZVlSSTNqRjdvQWJIYkpkdmVRdm9QZTJfWVE?oc=5",
    "published_utc": "2026-09-26T04:30:07+00:00",
@@ -5107,7 +5141,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Arming Taiwan an important US interest, Taipei official says after Trump-Xi summit",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmxPT01ncFNMX1E2V2FuRWpFUk0tXzR6WWJVYUl6TlRHM3QxYndiMTAyWlN0bV9qRlJMdmxiem9OQzJUZHBlMnJuZzBTUjFxbVZpN1QtOThvRTZTMEZrRHJSNG4zbnNJRU9lVWdpQmdveV84NHo1R1R0WHJSRmhUdWdYWVJka2t4RWtSVld5TDV2SVpScE80UnJXdkdsOFQ2dlFxeHJMdEFvODlHdnVPVGMyMnhVWWl3cHZWRDN6Yw?oc=5",
    "published_utc": "2026-09-26T02:08:00+00:00",
@@ -5610,7 +5644,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Trump-Xi state dinner guest list includes SpaceX’s Musk, Nvidia’s Huang and LVMH’s Arnault",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODQxZlQtOHZFRC1GeGc0ZzhtVjI4bHNjX1F4TEd4NWJZTlk0UmRCQndWT2NmQXhwdlNVWmRYZXA4Q0tvbEtNZ1BsY3haY2k1YUpnU2s2T1lseFVGR1VHZFpaUEYxUGxvT2pqOThaUDlxa18tUmk5ZjJ1QmdIYm1rY29VLTE2WHNrdXNqVWxHc0pYVWJlbWtmbEtwTVRaVUI2aWRIcTdmVDI1MExEbFVDRHU2aHFaVkdxMEJndHcxZU9PSU1Ec0E?oc=5",
    "published_utc": "2026-09-25T15:54:08+00:00",
@@ -5627,7 +5661,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "China's first lady Peng Liyuan turns soft power on US audience",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWR5YUI1enNxN01RbG4wZ0lRMFJkNWh1ZGxWa0ZLVDg4SjVzRmdzNU9yeU9nV3FEeDcwSEpQbTEzdWhnc1prcnZZNEE4dGt4Mnp5SGJaMGdOUzhienl0UXF4U0U5VjdhVjZuYWp3LXNtWVpEbzl5clVQUTVhcUVxaW9YM21sTE1OdWFJcVd0S0xaaUJyN21YeFl2dW1uTkRtZmtVa2NGRUxCbzAxaU5EZ1ktd0ZwaTlh?oc=5",
    "published_utc": "2026-09-25T15:54:08+00:00",
@@ -5712,7 +5746,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Details on US, China trade talks to come on Monday, says Greer",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcHJmSWhBWkgzQk9MZUMzQmhOZ0pRWVdzb1dtU2ZsTVVlTVlWelh0R2ZQcFZfN0NTXzE4WTEtSTZxdU1tbzlodi12RWVrSENGTDlMYTRkS0JnT0g2WktvTXZETmk5Um9mSnVPUTBfNXN4Q0JNaGs2Y29GT2xXZkxHOGhxZWNCQWY3bEd5Zy14RmNlSlFDZHBXampMcXhvWHJW?oc=5",
    "published_utc": "2026-09-25T13:46:19+00:00",
@@ -6748,7 +6782,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "US Democrats criticize lavish Trump-Xi summit as lacking substance",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUZjSjY1VWloRVlHOGNncVhDOEktaDhRS213am9WcVFoQm5WazVBT09USEdTdy1vamlHQktXMmd2S3FwM2Y2eUhsd2FPWGxQNmR6cEJBcVZfcFBZbWlMQnFDWDQ3dGd6SjFyRlNoTDhxOU8tckZtblZOSzJPSG5IVTBqS0ptZlZtaUUtSkQ0MDVIaE5TUFowTUYzQXlfamk1UTdKTkp6OW0zd1NyTTBlclFlQzFzcVU?oc=5",
    "published_utc": "2026-09-24T23:12:10+00:00",
@@ -6854,7 +6888,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Five takeaways from Trump's summit with Xi in Washington",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUZiUFVUOGt5dnNJYXpucXZQZ2NmbjlYdzZPV2ZDZFlUZ3AyZjJJNXNkVndsZ0dJSmgwZ3BlX2R3M1dYNWtILWhtdDh2aXFndHllTy1wa0RrU3M1ZW5tR1pvWEM4a1lMbXdyR2g1M2JQZlozNjVVLWZaYjBBYm1ZMEx5VW51eFlHQ01NNnZhNHlhVDBoMW4zU3VwOA?oc=5",
    "published_utc": "2026-09-24T20:51:00+00:00",
@@ -7182,7 +7216,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Chinese defence ministry urges 'extreme caution' over arms sales to Taiwan ahead of Trump-Xi summit",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdUJ6eGxzbTYzQkJTMXFqWnhZYU1BakkxZDBONmZEVnV4bkJPMU0tb2w0MEluVF8wSWptWmR0dUNpX1pHbW5YLXRHSnRONnZEYkpRSWNhb1ZRUzlFTDYzdlFnWE5uVy1meDhudTZJUXQ4bVpPckFvRVlveGZuSnpyUVpBa0Faazh6Qm4zSnRXbi1vbDNJS1JsT291enRieEk?oc=5",
    "published_utc": "2026-09-24T09:12:46+00:00",
@@ -7900,7 +7934,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Hope fading for new Boeing deal during US-China summit, sources say",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbjNsVlBmUHA5c2wzcnZVNnJ1b2x5bEF5cGhuUzR0RGtKQkpWeDgtcE5YLXpJbFRVZTg3RHN3WllHb0xWWTQxOENKbHJnWGs2TWEzWWtUV3NFOEJ6S29VM2xPSGh4Ny1oUUFvSXNmdXpJd1B3d2ozdEtRQXl1QVB5c0syY1dCY3BkOVpYYWJmaTNiaEZFd1JWN2diNFF2NGRoV1hMRFA2SlYwek0xT1FDVFhIVWRsaVlFb3pZck1ONGpKcnZRTDNB?oc=5",
    "published_utc": "2026-09-24T02:27:00+00:00",
@@ -8297,7 +8331,7 @@
   },
   {
    "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "US Energy Secretary Wright says diesel export ban won't work",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLURJYzl4V3RkZXJGQmlKRmZCb242YXJ2RlRBbkJxMWlzVkZyYlh6SkRrWlFWUGJ0V19yU2FSdHhrUkxzN0xBR2p5OWx5ZmVUN3ZDTDRJUENPUWQ4a2M0RThCbDl6b0FVUzhpa3EwNENCYUYtc3N5RWgxX3lFMWY1MWMtWjdtb0U1X1lwamNaNjJtMEVZSm5rMEJtSm5HWUo0V1haSXB5UjBNX05pdFZJaVk1ckNpTHFy?oc=5",
    "published_utc": "2026-09-23T22:05:42+00:00",
@@ -8974,7 +9008,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "US says China trade truce extended as Trump welcomes Xi",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
    "published_utc": "2026-09-23T10:01:00+00:00",
@@ -11544,7 +11578,7 @@
   },
   {
    "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Yen eases as potential for intervention eyed",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEFyOHhrcWVmUjJqdnBjS2NLMUtvajJaU1ZBNHdFNDhobTd6d2VKbEl1cThLOTJOSVdHN3lMUmZXNGluMTJTVW9lckdWSUVKdERCaVFxU1U5ZVowMVE5c2ZxcXE0RDMwLXpfWUtvbDZOajI0N3ZNbG1PUU8yenhDbW5ybG1zbDRjWDRNQXRFVlMwWnZFTnRZbkZVRncxdWlLN0FMX29obHIwOFJyX2gxa0c2Y0E3cTlS?oc=5",
    "published_utc": "2026-09-21T17:54:07+00:00",
@@ -11682,7 +11716,7 @@
   },
   {
    "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "US stresses backing for Japan, Korea and Taiwan ahead of Trump-Xi summit",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM3kxaTQ5UmlqZnlsTkdFQUc1bS1TMlJST0gxUFhWZmFNendlU3pUY3pyZHh4ZW9vaHBQbjZWOURPTHppTWVQQTRxa1FJN1RyYlkwbGFoR0dyYTF2VWh1MEFTY2ViSTgxdXBkNWw4Y3BpZk9GQ3ZuZm92SWVuN0xpeUZITFRMcl9QSU5zWEkycUNDR21JQlJ4V1RtVjJkNkwwbDAzWU1nd0Q4QlU?oc=5",
    "published_utc": "2026-09-21T15:51:00+00:00",
@@ -12251,7 +12285,7 @@
   },
   {
    "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "How Trump and Xi went from tariff war to trade truce",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZExFRzNrdTZtWHdwRU9FLXpibVg1dVByZ2Y0aklMcW5YcjdkVkl1ME1tdUhvVFA2dHlHWS1BSDhIekNkMTJFWS1iTnVHZE0yOTlxX2RHREswSDlIMTVDbVR4VGFRQVlNRURGX1kzWVdBdk80ZmVOWEJ4eXBVQmlsal9XM3JjNkVKN1FPbElDRmpSbGJWSTNuWWdXZ2VVOGVsNG44eGZ3?oc=5",
    "published_utc": "2026-09-21T07:00:00+00:00",
@@ -13598,7 +13632,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Taiwan breaks ground on advanced packaging park anchored by TSMC",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGV6cVJvQlJmWmV0dDdLM0Vka0hFMy03UlZlQzAxTkFZYVdncmZHNER0Sld3U2tWcGdweDdYRmJXMmg1cmVkSmxKaE1WLWM2TFhYVEw2azFIV1ozSzV4S1FOSTh5aUl3eHYydzV0T25uTDFKX0NDTk05X05VclhHTE5HdDYwSHRBcFgxX3F2ZTdORTV6bWVmbk42X2JXcUpkcEgtaWFveG1LNTg4YjNLd0VYV3hPRk0?oc=5",
    "published_utc": "2026-09-20T07:00:00+00:00",
@@ -16754,7 +16788,7 @@
   },
   {
    "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "BOJ lifts rates to 31-year high, pivots towards preemptive inflation fight",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -39384,7 +39418,7 @@
   },
   {
    "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
+   "source_name": "koreaherald.com",
    "title_en": "Economy, housing, foreign policy in focus as Assembly gears up to grill Lee government",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4td2F4UDR1SmZIWXRiRlJOQzJIa1JCeDdpNUtib3MyNVhNRzdMbzY1ekFHS1lyS1VNRXRfa0VacHlKMFlMRFd1dHktdUxfNFhYTVhMNGozYw?oc=5",
    "published_utc": "2026-09-06T07:00:00+00:00",
@@ -51929,41 +51963,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4fb4eba2d6d83c0c"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "글로벌경제신문",
-   "title_en": "Bank of Korea raises base interest rate to 3.0%",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iWDNVODN0bDZFNVA1bHlEekNIdXFwc0hnRTRHeHBRNFNQamFEYWVMc19OZ09RWkVMZmlyV25qMmV1eTJhaHBBaThRNW1ZWEl0NTB3Q1l5NXpKQzNFcFRFVkhyajJnQ1c4SzEtNNIBcEFVX3lxTE1DVkNMTndTVEZzUmZEWW9yY1VpZmwxUzlIQklzdG5TVXFIMzNUYjhyRGYxSHBUSWRfVGh0dHVwbmNqQTBwQTNsclQ2MU9lRGdaSzl5ZWY3T2MtckhsZG12RHJjVl9ZM0RQV2oyeFRCeTI?oc=5",
-   "published_utc": "2026-08-31T05:47:57+00:00",
-   "title_original": "한은, 기준금리 3.0%로 상향",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ca913f4a9b397287"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "글로벌이코노믹",
-   "title_en": "Bank of Korea's 'back to back' interest rate hikes, aftereffects... KRW 2,000 trillion in household debt, growing concerns over delinquency",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0R3V25HOU4wVzc2SWhZWjFfT3N1VnA4SEp5aEJtTjJLVGJyODZ2c2ttdHJJaEtwamZwTFM1RGdxcncwb1E5cHdCMHJwZUdPd2t0S1RKUGxYVjc3WHdDME1PLUVRTnE3eUQ5TExTQ0tMVjNkd3lwdTVBVE9OQTJFaGRVZw?oc=5",
-   "published_utc": "2026-08-31T05:44:57+00:00",
-   "title_original": "한은 ‘백투백’ 금리인상 후폭풍... 연체 우려 커지는 2000조 가계부채",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1e653ebb5b63de06"
   },
   {
    "source_id": "manual_ia",

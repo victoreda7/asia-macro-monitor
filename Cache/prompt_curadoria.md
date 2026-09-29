@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T20:52:46.334849+00:00
+Última coleta: 2026-09-29T21:02:49.229653+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1261
+  🇯🇵 Japão          1263
   🇨🇳 China          762
   🇹🇼 Taiwan         257
-  🇰🇷 Coreia do Sul  720
+  🇰🇷 Coreia do Sul  718
 
 ## O que já está no feed (não repita)
 
+  - [japan] <Liquor tax will be unified from October> Behind the scenes of dependence on champion Asahi's "Super Dry"... "
+  - [japan] Roland revived from a large deficit through MBO...6 years after relisting, now that the fund that supported th
   - [korea] SK Hynix Stock Rises While Bernstein Cuts Target
   - [taiwan] Wells Fargo Spots Unexpected Winner in TSMC's 2nm Race
   - [japan] Japan to create state investment fund for defense startups, eyeing more drones
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Asia stocks subdued as rising yields, oil weigh; RBA hikes rates as expected
   - [china] Demand Boost for US Crops Still Unclear After China Tariff Cuts
   - [japan] EQt Raises Tender Offer Price For Kakaku.Com To 3,681 Yen From 3,680 Yen, Filing Shows
-  - [japan] Stock prices have fallen in a wide range of stocks due to the rise in crude oil futures prices.
-  - [korea] The Bank of Korea approves a monetary and credit policy report containing the background for raising the base 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T20:52:46+00:00",
+      "published_utc": "2026-09-29T21:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
