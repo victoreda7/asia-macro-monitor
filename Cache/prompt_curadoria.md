@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T10:52:44.467395+00:00
+Última coleta: 2026-09-30T11:03:21.610236+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1265
-  🇨🇳 China          773
-  🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  712
+  🇯🇵 Japão          1264
+  🇨🇳 China          774
+  🇹🇼 Taiwan         251
+  🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
+  - [china] China's metal-heavy commodity imports map a messy energy transition: Maguire
+  - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary Factory Right-of-Use Acquisition
   - [japan] Japan Paused Forex Intervention as Yen Strengthened Modestly — Update
   - [japan] Hyperscale Data Secures $22.58 Million Notes, Extends JGB Loan Maturity to 2027
   - [japan] Japan economic panel members underline BOJ independence By Reuters
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China's Latest Stimulus Package Seems Small — Market Talk
   - [japan] Nidek 25th fiscal year financial results 564.6 billion yen deficit
   - [china] China's Mortgage Subsidies Scope Likely Disappoints Market — Market Talk
-  - [japan] BOJ Tankan Likely to Show Rise in Corporate Inflation Outlook — Market Talk
-  - [japan] Asia stocks gain ahead of U.S. PCE inflation; regional data in focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T10:52:44+00:00",
+      "published_utc": "2026-09-30T11:03:21+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
