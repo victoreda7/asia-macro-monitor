@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T01:52:44.182734+00:00
+Última coleta: 2026-09-30T02:02:45.677150+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1283
-  🇨🇳 China          756
+  🇯🇵 Japão          1281
+  🇨🇳 China          758
   🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  712
 
@@ -20,7 +20,9 @@ Total: 3000 manchetes
   - [korea] Industrial output, retail sales, facility investment down in Aug.
   - [china] China services growth hits three-month high, private PMI shows
   - [china] China factory activity hits five-month high in September, private PMI shows
+  - [china] China NBS General PMI Rises to 9-Month High
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7351 WEDS VS 6.7411
+  - [china] China factory activity returns to growth in Sept, services strengthen - PMI
   - [china] China’s next big export could be $1.5 trln of debt
   - [china] The central bank launches 833.5 billion yuan overnight reverse repurchase operation
   - [china] The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN METI KEEPS VIEW: INDUSTRIAL OUTPUT TAKING ONE STEP FORWARD AND ONE STEP BACK
   - [japan] JAPAN AUG INDUSTRIAL OUTPUT +3.4% Y/Y (JULY REVISED TO +3.9% FROM +4.1%), 3RD STRAIGHT RISE; MEDIAN FORECAST +
   - [japan] JAPAN AUG INDUSTRIAL OUTPUT -1.7% M/M (JULY REVISED TO -0.2% FROM +0.1%); 2ND STRAIGHT FALL; MEDIAN FORECAST +
-  - [japan] Japan Aug Inventory-Shipments Ratio +1.7% on Month
-  - [japan] Japan Aug Shipments -2.5% on Month
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T01:52:44+00:00",
+      "published_utc": "2026-09-30T02:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
