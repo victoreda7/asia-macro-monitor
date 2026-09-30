@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T00:22:43.906114+00:00
+Última coleta: 2026-09-30T00:32:43.765885+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1282
-  🇨🇳 China          754
-  🇹🇼 Taiwan         251
-  🇰🇷 Coreia do Sul  713
+  🇯🇵 Japão          1283
+  🇨🇳 China          755
+  🇹🇼 Taiwan         250
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [japan] Japan Retail Sales Gain 2.7% On Year In August
   - [japan] Japan August factory output unexpectedly falls
   - [japan] JAPAN AUG RETAIL SALES Y/Y RISE SLOWS FROM JULY AS STORMY WEATHER DAMPENS SEASONAL DEMAND FOR CLOTHING, ELECTR
   - [japan] Japan Industrial Output Sinks 1.7% In August
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Behind the scenes of dependence on champion Asahi's "Super Dry"... "Retail store shelves" stolen by cyber dama
   - [japan] Roland revived from a large deficit through MBO...6 years after relisting, now that the fund that supported th
   - [korea] SK Hynix Stock Rises While Bernstein Cuts Target
-  - [taiwan] Wells Fargo Spots Unexpected Winner in TSMC's 2nm Race
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T00:22:44+00:00",
+      "published_utc": "2026-09-30T00:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
