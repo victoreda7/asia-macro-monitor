@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T06:22:46.174515+00:00
+Última coleta: 2026-09-30T06:32:46.759808+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1260
-  🇨🇳 China          777
+  🇨🇳 China          778
   🇹🇼 Taiwan         247
-  🇰🇷 Coreia do Sul  716
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [japan] Tsukishima Holdings Co Ltd - To Buy Back Up To 2.5% Of Own Shares Worth 3 Billion Yen
   - [japan] Regarding the government's denial of reflation and the Bank of Japan's acceleration of the pace of interest ra
   - [china] China adds 55% tariff to Brazil beef as imports hit quota
+  - [china] China’s Repo Push Gains Ground as Legal Issues, Low Yields Drag
   - [japan] Japan Housing Starts Rise Less than Estimated
   - [japan] Japan Production Likely Supported by AI-Related Capex — Market Talk
   - [china] China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China Manufacturing Growth Hits 5-Month High
   - [china] China factory activity hits five-month high in September, private PMI shows
   - [china] China NBS General PMI Rises to 9-Month High
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7351 WEDS VS 6.7411
-  - [korea] Samsung Electronics, SK hynix rise as U.S. chip stocks rally
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T06:22:46+00:00",
+      "published_utc": "2026-09-30T06:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

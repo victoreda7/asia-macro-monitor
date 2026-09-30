@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-09-30T06:22:46.174515+00:00",
- "collected_at_utc": "2026-09-30T06:22:46.174515+00:00",
+ "generated_at_utc": "2026-09-30T06:32:46.759808+00:00",
+ "collected_at_utc": "2026-09-30T06:32:46.759808+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1260,
-  "china": 777,
+  "china": 778,
   "taiwan": 247,
-  "korea": 716
+  "korea": 715
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T05:07:00+00:00"
+   "newest": "2026-09-30T05:39:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-30T05:51:16+00:00"
+   "newest": "2026-09-30T06:19:07+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-30T05:38:30+00:00"
+   "newest": "2026-09-30T06:06:44+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-29T23:32:00+00:00"
+   "newest": "2026-09-30T04:41:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-30T06:22:06+00:00"
+   "newest": "2026-09-30T06:31:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T05:23:36+00:00"
+   "newest": "2026-09-30T06:19:25+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -396,6 +396,23 @@
    "id": "1356cffe30308478"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Tsukishima Holdings Co Ltd - To Buy Back Up To 2.5% Of Own Shares Worth 3 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45L1ZR:0-tsukishima-holdings-co-ltd-to-buy-back-up-to-2-5-of-own-shares-worth-3-billion-yen/",
+   "published_utc": "2026-09-30T06:31:42+00:00",
+   "title_original": "Tsukishima Holdings Co Ltd - To Buy Back Up To 2.5% Of Own Shares Worth 3 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9ff58f39e1c0ee05"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "news.yahoo.co.jp",
    "title_en": "Regarding the government's denial of reflation and the Bank of Japan's acceleration of the pace of interest rate hikes [Chief Market Strategist, Sumitomo Mitsui DS Asset Management] (THE GOLD ONLINE)",
@@ -428,6 +445,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b3c7a1cd5e2e0aed"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China’s Repo Push Gains Ground as Legal Issues, Low Yields Drag",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0JNOXlBc1ZlQmxHSG1VbjRWQUxrazU3dWVCRjlpd2NmUFBEYjVDc3I3cXRtdHhZTmlVenZwc2tBM2dMdnQ2NlRDNFRyODlSeTNvQTQweFM4N2xnZmtBQXY4cGZ0S09lbndWdWF2ZU9mTHEwblR1cThKSzc4SWszczZvT1N0cFN1a3JNeWpyazIzMFVBLXJpRjZrbUs4cTFDTWVxTVlGZnV3RXd0Z3cyNjUtcw?oc=5",
+   "published_utc": "2026-09-30T05:39:00+00:00",
+   "title_original": "China’s Repo Push Gains Ground as Legal Issues, Low Yields Drag",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "baafc203afd0d9cf"
   },
   {
    "source_id": "tradingview_live",
@@ -1320,23 +1354,6 @@
    "live_wire": true,
    "manual": false,
    "id": "095811b420e2b8b1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "JAPAN AUG RETAIL SALES -1.2% M/M; JULY +2.1%",
-   "url": "https://www.tradingview.com/news/dpa_afx:d6b4ccecaccf1:0-japan-aug-retail-sales-1-2-m-m-july-2-1/",
-   "published_utc": "2026-09-30T00:13:52+00:00",
-   "title_original": "JAPAN AUG RETAIL SALES -1.2% M/M; JULY +2.1%",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2b80ca66b2e6767c"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2808,8 +2825,8 @@
    "id": "703f925fda4ee45d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
    "published_utc": "2026-09-29T04:23:30+00:00",
@@ -2824,7 +2841,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "38b4d6c26a1ec51f"
+   "id": "7abfef93833be46e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4281,7 +4298,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "부산일보",
+   "source_name": "busan.com",
    "title_en": "[Palm Economy] Base interest rates in global financial markets",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NVkFYcUNKTk91dGhya215N2xMM2x5TU5SVy10ZlVldjlsRUtacW1vU2hZMUUtVHBfa1dVb25WM1owYVEza1pzeUZ5ZmZENHpUNkQxbmF1RW5NakI0dUI5amxkMURPdjJ6ZUF3bXBtMWlpdmQz?oc=5",
    "published_utc": "2026-09-28T08:30:28+00:00",
@@ -51946,24 +51963,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4e09dc2fb27da99b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea's Exports Extend Chip-Led Growth in August",
-   "url": "https://www.tradingview.com/news/DJN_DN20260831008441:0-south-korea-s-exports-extend-chip-led-growth-in-august/",
-   "published_utc": "2026-09-01T00:40:00+00:00",
-   "title_original": "South Korea's Exports Extend Chip-Led Growth in August",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c797dc3d7cb698e7"
   },
   {
    "source_id": "manual_ia",
