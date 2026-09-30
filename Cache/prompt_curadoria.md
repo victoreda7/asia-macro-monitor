@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T07:22:59.976675+00:00
+Última coleta: 2026-09-30T07:32:49.163218+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1260
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [japan] 高市政権の財政運営に「リスクシナリオの分析も必要」 財務省が指摘（朝日新聞）
   - [japan] Japan Housing Starts Rise 6.1% In August
   - [japan] Liquidity Indicators in the JGB Markets (August)
+  - [japan] Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD
   - [japan] Air Liquide Invests Over EUR 170 Mln To Support Semiconductor Leader Expanding Capabilities In Japan
   - [china] Gigasun Subsidiary Signs Agreement For Solar Plant In China
   - [korea] OPmobility To Acquire Hyundai Mobis Lighting Business For KRW 600 Billion
@@ -44,7 +45,6 @@ Total: 3000 manchetes
   - [japan] Asian currencies mixed as yen rebounds, dollar stays near two-month high
   - [japan] Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus
   - [china] Standard Chartered does not rule out the possibility of central bank cutting RRR
-  - [japan] Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD
   - [japan] Yen's Long-Term Trend Has Likely Turned to Appreciation — Market Talk
   - [china] China’s weak soybean demand dims prospects for US cargoes after tariff snub
   - [taiwan] Foundry 2.0 revenue hits record as growth spreads beyond TSMC
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T07:23:00+00:00",
+      "published_utc": "2026-09-30T07:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
