@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-09-30T08:22:47.776584+00:00",
- "collected_at_utc": "2026-09-30T08:22:47.776584+00:00",
+ "generated_at_utc": "2026-09-30T08:32:45.812949+00:00",
+ "collected_at_utc": "2026-09-30T08:32:45.812949+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1261,
-  "china": 778,
+  "china": 779,
   "taiwan": 246,
-  "korea": 715
+  "korea": 714
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T05:31:14+00:00"
+   "newest": "2026-09-30T05:30:34+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 47,
+   "count": 48,
    "error": "",
-   "newest": "2026-09-30T14:54:29+08:00"
+   "newest": "2026-09-30T16:12:32+08:00"
   },
   {
    "source_id": "investing_live",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T07:31:11+00:00"
+   "newest": "2026-09-30T08:11:54+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-09-30T17:16:07+00:00"
+   "newest": "2026-09-30T17:26:57+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-30T08:21:56+00:00"
+   "newest": "2026-09-30T08:31:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T06:33:31+00:00"
+   "newest": "2026-09-30T03:34:20+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -1207,6 +1207,23 @@
    "live_wire": true,
    "manual": false,
    "id": "cbee2f81c6cdc9f7"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Breakingviews - COMMENTARY: China’s next big export could be $1.5 trln of debt",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHVjbHYwSi1PRDZQYXlRUVRtUkNnTl9zOGx0Z0RUdmpkY2IwRURZZ1BWSS14ZFBlM3VxNlFDcVJUdUF4LS13ZWd6WEpha19vR1U1WWY5cE8yZUQtdThzeXlucDFBdGFMSFpZLVJKNk1vNFBWcFEya3lxbk82VU1rY0VSMTFoRDA0SV93ei1XSlRwWlRuMGxNVFBTRU55X1pvUlIzRU5ROE4?oc=5",
+   "published_utc": "2026-09-30T02:21:00+00:00",
+   "title_original": "Breakingviews - COMMENTARY: China’s next big export could be $1.5 trln of debt",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ea90af80873acd33"
   },
   {
    "source_id": "tradingview_live",
@@ -2747,7 +2764,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "leadeconomy.co.kr",
+   "source_name": "리드경제",
    "title_en": "The Bank of Korea approves a monetary and credit policy report containing the background for raising the base interest rate.",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUTUtHQXhVdHBJVmVackY1cXpQVXY2TFZwU29RR3Q3YVZsZVpOYmdEREs3RzNHOWtPVEg4cXozZ1dObGFMd0wwQUhxcWVRY2I3QmZOa1FlV2tGMHF3R0s5clZ2dTN3YXh5TkhJWmtEdw?oc=5",
    "published_utc": "2026-09-29T07:05:00+00:00",
@@ -3372,7 +3389,7 @@
    "id": "fe138add491b31db"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc09PSzNCSGVzb0s3LUZpWnkxZ1dZVXVncEY2YlBnVF9XOEJuaHRKSFl1c1JkYkJRcGpKc1dHTERDYnI2NndxZlBfY3QxYm9RdTUzUXRGZUdXaC1OWDJLbERLWjFvcFFTbWFHQ1dVTHR2cDVzb2RNUjRtY0N3bUhyS19YakRsdVhhbUhheld3MGlSRE00MEZPQ1E1ZDdXV2lTbWZVMWxheUVNbUFjZkp3TWVVekhmaWhQQUViRlZ0UDNsNFhsTEZSbXRsYmZDX0k?oc=5",
@@ -3386,7 +3403,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "86b310ed7425154d"
+   "id": "7edf713e08eb4dd5"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5293,7 +5310,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "hani.co.kr",
+   "source_name": "한겨레",
    "title_en": "Deputy Prime Minister Lee meets with Bank of Korea governors 6 days after taking office... “Fiscal-Monetary Policy Cooperation”",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSXltS2J3QUhWa2V2aERndVJDaHJLbUJPRGluanBpTDJOMG56d0pUVVRIOEh6Q0tHV2x2eWpNUWJvLXE2N3NrNkdKZUo2cHBkZml2U2JobEtFYUNaRURNNjVwVmV5QQ?oc=5",
    "published_utc": "2026-09-28T02:39:00+00:00",
@@ -51949,24 +51966,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c1532ec27ab11ad1"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "South Korea’s Exports Gather Pace as Chip Boom Powers Ahead",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzMwUjNBMGt0U3ZUQmlyQ25JTUlyNDR0eU45dU5TOFZRczVxR08xdkoxMG1IV251YTgzX2lwWGxXZUV6VVNTT1J3VFRqT2J4aHdNdUxmTjZNUWV4Mmk0NHpILXBucXRtMy1wVWw4RTdvWWxucXd6dXJuUWZsODN0bkEtTTQ4WmEtZmd5bHg5UGg5U0RyTGl0aHRpN3B6X1BhcmF1cC1ZRVU5Zkx5MWZv?oc=5",
-   "published_utc": "2026-09-01T01:26:00+00:00",
-   "title_original": "South Korea’s Exports Gather Pace as Chip Boom Powers Ahead",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c66fb97712b27a85"
   },
   {
    "source_id": "manual_ia",
