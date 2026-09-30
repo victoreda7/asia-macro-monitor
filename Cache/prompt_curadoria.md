@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T10:12:48.018556+00:00
+Última coleta: 2026-09-30T10:22:46.437735+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1262
+  🇯🇵 Japão          1264
   🇨🇳 China          774
-  🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  715
+  🇹🇼 Taiwan         250
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
+  - [china] China Aoyuan Is Close To Finalizing Onshore Debt Restructuring Proposal
+  - [taiwan] TSMC weighs Texas investment to expand U.S. chip production: report
+  - [japan] Japan Paused Forex Intervention as Yen Strengthened Modestly
+  - [japan] I don't think there is a big discrepancy in perception between the Bank of Japan and the economy and prices - 
   - [japan] Japanese economic panel members emphasise BOJ’s independence
   - [japan] Respect the Bank of Japan's autonomy, explain economic and fiscal risks and secure confidence - Member of the 
   - [china] China's Central Bank May Still Prefer Targeted, Low-Profile Credit Easing — Market Talk
@@ -28,6 +32,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
   - [taiwan] TSMC evaluates potential Texas investment, sources say
   - [china] China enables four new Brazilian plants to export meat
+  - [china] Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a peri
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [korea] Industrial output, retail sales, facility investment down in Aug.
   - [taiwan] Taiwan backs TSMC's US push but insists core R&D stays home
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's August oil imports rise 13.1% y/y - METI
   - [japan] BOJ Tankan Likely to Show Improvement in Manufacturers' Sentiment — Market Talk
   - [japan] The Ministry of Finance points out that ``risk scenario analysis is also necessary'' for the Takaichi administ
-  - [japan] Japan Housing Starts Rise 6.1% In August
-  - [japan] Liquidity Indicators in the JGB Markets (August)
-  - [japan] Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD
-  - [japan] Air Liquide Invests Over EUR 170 Mln To Support Semiconductor Leader Expanding Capabilities In Japan
-  - [china] Gigasun Subsidiary Signs Agreement For Solar Plant In China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T10:12:48+00:00",
+      "published_utc": "2026-09-30T10:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
