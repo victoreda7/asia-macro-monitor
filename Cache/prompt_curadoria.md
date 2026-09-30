@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T08:12:49.865562+00:00
+Última coleta: 2026-09-30T08:22:47.776584+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1260
-  🇨🇳 China          779
+  🇯🇵 Japão          1261
+  🇨🇳 China          778
   🇹🇼 Taiwan         246
   🇰🇷 Coreia do Sul  715
 
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [japan] JGB yields fall after report says PM Takaichi to vow nimble response to markets
   - [china] China's Latest Stimulus Package Seems Small — Market Talk
   - [japan] Nidek 25th fiscal year financial results 564.6 billion yen deficit
   - [china] China's Mortgage Subsidies Scope Likely Disappoints Market — Market Talk
@@ -39,6 +40,7 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi's policy speech seeks understanding of the consumption tax cut: ``Give household finan
   - [japan] Tsukishima Holdings Co Ltd - To Buy Back Up To 2.5% Of Own Shares Worth 3 Billion Yen
   - [china] China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More
+  - [japan] Regarding the government's denial of reflation and the Bank of Japan's consideration of accelerating the pace 
   - [japan] Regarding the government's denial of reflation and the Bank of Japan's acceleration of the pace of interest ra
   - [china] China adds 55% tariff to Brazil beef as imports hit quota
   - [china] China’s Repo Push Gains Ground as Legal Issues, Low Yields Drag
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen's Long-Term Trend Has Likely Turned to Appreciation — Market Talk
   - [china] China’s weak soybean demand dims prospects for US cargoes after tariff snub
   - [taiwan] Foundry 2.0 revenue hits record as growth spreads beyond TSMC
-  - [china] Yuan set for 7th straight quarterly gain as exporters sell dollars before holiday
-  - [china] China stimulus picks: tech and consumer names tied to new credit flows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T08:12:50+00:00",
+      "published_utc": "2026-09-30T08:22:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
