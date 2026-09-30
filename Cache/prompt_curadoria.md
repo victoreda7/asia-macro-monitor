@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T00:52:45.510796+00:00
+Última coleta: 2026-09-30T01:02:45.465273+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1284
-  🇨🇳 China          753
+  🇨🇳 China          754
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  713
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [japan] 8月の鉱工業生産指数 前月を1.7％下回る
   - [korea] South Korea finance minister vows to stabilise bond market
   - [japan] Japan Industrial Output Declines Again as Middle East Conflict Drags On
   - [japan] Japan Retail Sales Gain 2.7% On Year In August
@@ -38,7 +39,6 @@ Total: 3000 manchetes
   - [japan] JAPAN AUG INDUSTRIAL OUTPUT: 12 OUT OF 15 INDUSTRIES POST FALL, 3 ARE UP
   - [japan] JAPAN METI: AUG INDUSTRIAL OUTPUT M/M DROP LED BY AUTOS, GENERAL MACHINERY, FUELS
   - [japan] JAPAN METI FORECAST INDEX: SEPT INDUSTRIAL OUTPUT +1.6% M/M (ADJUSTED FOR UPWARD BIAS), OCT +3.1%
-  - [japan] Japan August factory output falls 1.7% month-on-month
   - [japan] JAPAN AUG RETAIL SALES -1.2% M/M (JULY REVISED TO +2.1% FROM +2.4%); MEDIAN FORECAST -0.9% (RANGE: -1.6% TO -0
   - [korea] Hengan International Says Chair And Executive Director Sze Man Bok Passed Away On Sept 29
   - [japan] JAPAN AUG RETAIL SALES +2.7% Y/Y (JULY REVISED TO +3.7% FROM +4.0%); 6TH STRAIGHT RISE; MEDIAN FORECAST +2.7% 
@@ -49,6 +49,7 @@ Total: 3000 manchetes
   - [japan] JAPAN AUG INDUSTRIAL OUTPUT -1.7% M/M (JULY REVISED TO -0.2% FROM +0.1%); 2ND STRAIGHT FALL; MEDIAN FORECAST +
   - [japan] Japan Aug Inventory-Shipments Ratio +1.7% on Month
   - [japan] Japan Aug Shipments -2.5% on Month
+  - [japan] Japan August factory output falls 1.7% month-on-month
   - [japan] Nikkei May Rise as Decline in Oil Prices Ease Inflation Fears — Market Talk
   - [china] China promete reagir caso UE adote medidas que visem comércio chinês
   - [korea] AMD CEO Lisa Su Reportedly to Visit South Korea Next Month for Semiconductor Meeting
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China plans to strengthen surveillance on steel exports
   - [korea] South Korea Industrial Output Unexpectedly Falls
   - [korea] The annual interest burden of the Korea Land and Housing Corporation (LH), which supports the govern..
-  - [japan] Tsuyoshi Morioka's reputation has changed from being the ``God of Marketing''...The true nature of his ``abili
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T00:52:45+00:00",
+      "published_utc": "2026-09-30T01:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
