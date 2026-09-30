@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T05:32:44.897855+00:00
+Última coleta: 2026-09-30T05:42:45.682554+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1260
+  🇯🇵 Japão          1259
   🇨🇳 China          777
-  🇹🇼 Taiwan         247
+  🇹🇼 Taiwan         248
   🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
   - [japan] Japan Housing Starts Rise Less than Estimated
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics, SK hynix rise as U.S. chip stocks rally
   - [china] China’s next big export could be $1.5 trln of debt
   - [taiwan] Grand Pacific Petrochemical, Air Water join forces to expand Taiwan semiconductor materials business
-  - [china] The central bank launches 833.5 billion yuan overnight reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T05:32:45+00:00",
+      "published_utc": "2026-09-30T05:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
