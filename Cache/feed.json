@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-09-30T09:32:56.326482+00:00",
- "collected_at_utc": "2026-09-30T09:32:56.326482+00:00",
+ "generated_at_utc": "2026-09-30T09:42:48.390425+00:00",
+ "collected_at_utc": "2026-09-30T09:42:48.390425+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1259,
-  "china": 776,
+  "japan": 1260,
+  "china": 774,
   "taiwan": 249,
-  "korea": 716
+  "korea": 717
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 49,
-   "error": "",
-   "newest": "2026-09-30T17:00:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T07:41:25+00:00"
+   "newest": "2026-09-30T06:51:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 48,
+   "count": 50,
    "error": "",
-   "newest": "2026-09-30T16:12:32+08:00"
+   "newest": "2026-09-30T17:27:38+08:00"
   },
   {
    "source_id": "investing_live",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-29T06:02:26+00:00"
+   "newest": "2026-09-28T17:58:17+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-09-30T18:09:20+09:00"
+   "newest": "2026-09-30T18:32:55+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-30T09:32:00+00:00"
+   "newest": "2026-09-30T09:42:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T03:34:20+00:00"
+   "newest": "2026-09-30T06:33:31+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T09:05:59+00:00"
+   "newest": "2026-09-30T09:13:55+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T09:17:02+00:00"
+   "newest": "2026-09-30T09:24:24+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T01:55:23+00:00"
+   "newest": "2026-09-30T03:00:19+00:00"
   }
  ],
  "items": [
@@ -377,6 +377,57 @@
    "live_wire": false,
    "manual": false,
    "id": "3b58b0e8b14b9c1e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japanese economic panel members emphasise BOJ's independence",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45L0ON:0-japanese-economic-panel-members-emphasise-boj-s-independence/",
+   "published_utc": "2026-09-30T09:34:09+00:00",
+   "title_original": "Japanese economic panel members emphasise BOJ's independence",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "63b5f3443171e8ff"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Central Bank May Still Prefer Targeted, Low-Profile Credit Easing — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20260930002032:0/",
+   "published_utc": "2026-09-30T09:33:00+00:00",
+   "title_original": "China's Central Bank May Still Prefer Targeted, Low-Profile Credit Easing — Market Talk",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f4885661ee116154"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minister of Land, Infrast..",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iY0gtTXdiUkc2eXdjUHh1OW1LSzZuR1kwMGNEcEg2YUhubFhwQXJNMUhJLWVrMGFEZzIwOWEydWlKVWtSTHhyZ2JvN3RYM0Fiam00?oc=5",
+   "published_utc": "2026-09-30T09:24:24+00:00",
+   "title_original": "Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minister of Land, Infrast..",
+   "region": "korea",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a9cd4a24be68adf4"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1230,7 +1281,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "Standard Chartered does not rule out the possibility of central bank cutting RRR",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JME1RbWRJbzA3ZUJROWVlTzJwUDc3ajVqWUxsQVptNFdlWFlQYTI3MDNFR19VVkJrbzV3dGNpRzlKWVBwaHdmbk9YUDNRSndJZFU3LXVibzZEc1VBUGJJVlVn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RVXJ3UHFEa21BR3hEVFhaSnptYVNDdGpWMjBoYlhrbC11R2VrRTFjenNXY3Y0bDFrRVVEUlRELUJXN0JzWDA2eFF5UG9XZw?oc=5",
    "published_utc": "2026-09-30T03:56:15+00:00",
    "title_original": "渣打不排除央行降准的可能性",
    "region": "china",
@@ -1241,7 +1292,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "da41cb4da2901778"
+   "id": "ad34efd162f89224"
   },
   {
    "source_id": "tradingview_live",
@@ -1347,6 +1398,23 @@
    "id": "3276ce83dd45c66b"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "edaily.co.kr",
+   "title_en": "“We raised the base interest rate in August as well”… Why did deposit and savings interest rates fall?",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS2NYQzhvV2pkLV85MmdRMVk4elhxdU5zUzFfUEJ0SXVvRTFMVUNUMzdIQ20waGdDdUI0bnd6V3BLTG9mTXF0azVQbjRJZnluV0tyZU1RcnlMbWY5dV9PYjFnenFuaEhwZFFMYXpZZkF1UlM1TnJNNTZ6bzB0UzJwWA?oc=5",
+   "published_utc": "2026-09-30T03:00:19+00:00",
+   "title_original": "\"8월에도 기준금리 올렸는데\"…예·적금 금리는 왜 떨어졌나",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "44763fda4d3a2a74"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "Offshore Yuan Holds Gains",
@@ -1413,41 +1481,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e7967e2cc286751e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Rupiah gains; Korean won, Philippine peso weaken among mixed Asian FX",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45M03U:0-rupiah-gains-korean-won-philippine-peso-weaken-among-mixed-asian-fx/",
-   "published_utc": "2026-09-30T02:22:56+00:00",
-   "title_original": "Rupiah gains; Korean won, Philippine peso weaken among mixed Asian FX",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "33abfa82cfa91fae"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's New Mortgage Subsidy Falls Short of Expectations — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260929009298:0/",
-   "published_utc": "2026-09-30T02:22:00+00:00",
-   "title_original": "China's New Mortgage Subsidy Falls Short of Expectations — Market Talk",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cbee2f81c6cdc9f7"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1572,7 +1605,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺财经",
+   "source_name": "同花顺",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out 833.5 billion yuan of overnight reverse repurchase operations.",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdy1vXzlVSWJ5MHBBX1Y3emNjeS1wNDRDZjFocHNCTXZ1ekZyRGhTVW1nOEFVeUZ2eEdOY3Q0VUVfQnlXXzdPQ09DVm9iV2FqSkpCZ0w4UHJ5RWtGX1E?oc=5",
    "published_utc": "2026-09-30T01:23:15+00:00",
@@ -2290,7 +2323,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmY1bmJOSzlUYUtEZ1Bna3ZEM21LdXdyOEZYX3hpTkJ5THk2SG52WlQzcTRSOTl5SjRCS2JJYkZxYUdLRTNyanBhN0lsODBVeFM0cnlHbW4zamdOby0wNUltSWZxRnFkQkFVRV9famVYSDVvRHlCTjNpYzliQVJneUd0VHZmblFCSGh5ckdIX3paLXpXc3l5am9uaTdJNWRDaTdBWjl5dzJoOVplYWpHZXJkanJpY3FtU0pZaC1SRm1PNkdMUktkaWJ3?oc=5",
    "published_utc": "2026-09-29T16:25:00+00:00",
@@ -2375,7 +2408,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "K-Radio 우리방송",
+   "source_name": "radiok1230.com",
    "title_en": "The Korean financial market is tense due to the sharp rise in US and Japanese government bond yields... Bank of Korea warns of ‘interest rate and foreign exchange’ risks",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vQWlCOUxPWk9CS1FnNjRZckN1ZGc1dFJzU1JlVWlXQzExQUtSWUpCMUlLay1NLWRPbnlJbm5IcWx5ZnV5UFFGelEtd3VoSk1wVjBtaEFCaUdvMVNFSEdyX19ka0tUbnIyVmJGLWNR0gFyQVVfeXFMUFFsZ2NUeldGNDNROHJ6M2x4UHRVTFl2VWVJalZkRHp2d0lqa1VYUy1vYVJXYmVqeE8wS1QyMzRwRWJHdVg4WjZZOW5CblZ3SzUydmJLdUY2Z0lxaTFwd0JiTFd4NFNiUWN4NmNISUJ2dzVR?oc=5",
    "published_utc": "2026-09-29T14:55:17+00:00",
@@ -3126,8 +3159,8 @@
    "id": "703f925fda4ee45d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
    "published_utc": "2026-09-29T04:23:30+00:00",
@@ -3142,7 +3175,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7abfef93833be46e"
+   "id": "38b4d6c26a1ec51f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3389,7 +3422,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "pulse.mk.co.kr",
    "title_en": "Samsung Electronics, SK hynix rebound on bargain-hunting",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51YldWZ1lfN0s2Ui1pZDV4Z3RVNGp4X2ZVd2hXWnJiWFFDYkdWM0Q4cFJCSnJNXzVIZmFDZWJiMFVJazN0djFPZlV1eEZEaHI1MlhrOWdWQQ?oc=5",
    "published_utc": "2026-09-29T02:10:34+00:00",
@@ -4009,7 +4042,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The 14-day reverse repurchase restarted, and the central bank’s open market operations invested a total of 1.1 trillion yuan in one day",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJZWVKU1AtTG42RXZ4MHRkd1pGbTNzRGtIYjNWb2VjaEJJUWlxc283bmtMS29WRWhjMF9wZWZURGxYV0N5YU5HT0hJRlduSVV4NDdqMkNOeWpKbHp3dW9MaXc4VWdxR1VwTjJJMWJiNXBnTEcyeDdNMQ?oc=5",
    "published_utc": "2026-09-28T16:57:57+00:00",
@@ -4406,7 +4439,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Auto Subsidy Scheme Unravels, Leaving Consumers and Banks Exposed",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEtQZWp0TWNUU3dhWDBsaUxIV0tZZ21JYk1yaFo1ODZWOEtaX2ZUU3ZzUUM5VDM4eHFzQ29NMlREMEZyeXRQMVRuT2NvN0VIWmZPdkwyM0VLd2Z4NmszaGt5WFplLTlNemRsNEZGdGpMd0FsQ3NjTm9lR2c1bEF0azRJemNoaEplbmdEZFpxSFN5STkzWWFraWpfWDVLLU11eG1jYXQ4Y1FGeEQ0S0NHUGNxMVVQS0NlajRJbmwteVdyZkk?oc=5",
    "published_utc": "2026-09-28T09:43:00+00:00",
@@ -4616,7 +4649,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "busan.com",
+   "source_name": "부산일보",
    "title_en": "[Palm Economy] Base interest rates in global financial markets",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NVkFYcUNKTk91dGhya215N2xMM2x5TU5SVy10ZlVldjlsRUtacW1vU2hZMUUtVHBfa1dVb25WM1owYVEza1pzeUZ5ZmZENHpUNkQxbmF1RW5NakI0dUI5amxkMURPdjJ6ZUF3bXBtMWlpdmQz?oc=5",
    "published_utc": "2026-09-28T08:30:28+00:00",
@@ -5118,7 +5151,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "더팩트",
+   "source_name": "news.tf.co.kr",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... “Seeking harmony between economic and monetary policies”",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T0R3SWdnS3p2cEozekVCTW9VOGtLX0VJMHFBWm9OaFZtYnluWGJzX3JtbmtCVVQ1VnRTVVp5bEpRWTloZzItekhwTTVQS2lYU3Q3czltZ1A5UdIBVEFVX3lxTE93TU5DMHU4RC0xdXFVbWJEamc1VGxUbFJ2RUQwTW11dXY2V2YxSEp3QnR5OVlmRWpEM2o4X0g0dHZiYUJsTl9kY2ZTc1EzZm8wVlhZQQ?oc=5",
    "published_utc": "2026-09-28T04:18:59+00:00",
@@ -5187,7 +5220,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "ohmynews.com",
+   "source_name": "OhmyNews",
    "title_en": "Meeting of the Big 2 in the economy... Anxiety in the midst of growth, a test bed for fiscal and monetary policy cooperation",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Id1NqYnQ1LWRodS1Da2lSdFFmeWU5SzZMWXJ0OWwwdUc1dW9XTmVGUjRMSE11eXcweWs0OU9wUXA0bHNDcGRCUzU2N0VoQVhEQmI3MDdjazMyTDZUZXZwZVpXb0dYRDkzLTRWMW1fVDItSHdZU2hr?oc=5",
    "published_utc": "2026-09-28T03:41:00+00:00",
@@ -5362,7 +5395,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
+   "source_name": "newspim.com",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -6580,7 +6613,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "MTN 머니투데이방송",
+   "source_name": "news.mtn.co.kr",
    "title_en": "Even if the base interest rate rises, the deposit interest rate falls... Savings bank’s ‘Chuseok special offer’ also disappeared",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pQkpsamFEZ2I1ZzJtSlQtLVh5WnhSNXZXY2R2dnNCREtDV3JVeTRDWGVlOFhkeUVTTGVkTEpZSkwtdlBMMkVjOHY0eGxIOC1BbVhaUHE0T3djM3E4dm4ycE8teS0?oc=5",
    "published_utc": "2026-09-27T00:02:01+00:00",
@@ -7803,7 +7836,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
+   "source_name": "yicai.com",
    "title_en": "DR001 has recently been running at around 1.2%, and the central bank’s reverse repurchase operation volume has dropped, highlighting the easing of funds.",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mMFZleUYzWS1UWnQ2dHpqTGFvYlhOWVZONVNoaXV5WmxOa0pfY1IzTVNHZXUxV0ZTTkoxdS1rUWxQZGY0V0s1Y1dwM1JIVURJWU04?oc=5",
    "published_utc": "2026-09-25T10:03:36+00:00",
@@ -8840,7 +8873,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "PBOC Cautions Against ‘Herd Effect’ as Yuan Extends Rally",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHJXZXdiUzJDWGFfTk04QzhINEN4bXMtdTFYdllWa1ZsUGlJSFVfV3F3SjNVYmpxN0pPa2daVy1VMzNnb29TbFhKaFk5X0pocUxkZWNsX3EwUUZCM21hNTBWWmZnRXlNV3d2azFIUm1NUm1nLXp0TG1ULXpuYVJoSkQzcHE4YXMxTWVGMG9fbk0tU1Q2UnN6U3FYRkZGX3BJSVlVbllZWXl4WXJZUTJJ?oc=5",
    "published_utc": "2026-09-24T18:27:00+00:00",
@@ -9065,7 +9098,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Opens Offshore Yuan Platform to Overseas Brokerages",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcHZuNzFHT2tUMV9OZzdPS1lnLTRQTm1mRkZSR0ZDaUNmZTJJb0lDOGx1UFhQTHZZQlh1dnNBUnVDQy0xYk80VGZ5MW91eDBpbkZCZld2c3lSamdITEVPWDhfanhYYzhjVl9NTWRiOVR2UTB0UlRZZ3hyRV9HRk8tNWR4UGF2Q2g2RTJsWkotMXE1MEUxZDc5RVNxZ3pjNWRQUUIteU5mSGZoV0ZiYV8xbDZ3?oc=5",
    "published_utc": "2026-09-24T09:33:00+00:00",
@@ -9259,7 +9292,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank makes big moves before the holiday! The upper limit of overnight reverse repurchase soared to 1 trillion, and MLF made a net investment of 200 billion. What signal?",
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQV3YyRU9vNWdxbFZVeWtZMnZKUDB6TEVWaXZINmJNRGtETG9KVVp5R19DbEd2YlZwbW42TFZJYTlUMUprdGV6ZEVQcUtLTGFGdjhRX3dLWW5EUFZSNmxDNlZvTjZZQks3UzNGRXRuUnF4TXRoWW1TdlZsNDFUamtxalJEeG5rU2ROVDZ4MEJlNXN4OFFfMG5SY2MyOWRkR1NuanBTcm15dVg3RzJUNnMxaVB2VWRETTh5YzN0YlFOWkJhRjF4YWs1RFZkX0xfampMV2loZF8yZ2lzOVZ4MEEzMC1ZUm1hQnZNcWNPWFkzU2MtbVpIWG9DYUxWYXVVWDE1VEhJQ1JEaXVrWkduR3NRTA?oc=5",
    "published_utc": "2026-09-24T07:00:00+00:00",
@@ -9328,7 +9361,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The Double Festival is approaching and the central bank will take action! Overnight reverse repurchase reaches a daily maximum of 1 trillion, with new tools taking the lead",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzRFX3FPNWt6UWx1cHlxMEN1YURHUk52Zld4RFJZb1Izci1zZUYwUWJZbWkzVEJuNUhuZ0hrSy1QQUN2dUExeVkta3VaNnl0bkpaa1pnTU03YWt1eFJpcHVqdHQ0ZmRFeW5ianlaWjFuelBsTTNtdFZ4MTdMSG13aTEzb0Y5bWJKTDhXOHdaOWhvX0VpZW55MTJMY0hZd2hiby1nM2F3?oc=5",
    "published_utc": "2026-09-24T06:45:07+00:00",
@@ -10076,7 +10109,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "hb.dzwww.com",
+   "source_name": "海报新闻",
    "title_en": "The central bank will carry out overnight reverse repurchases for 11 consecutive days",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XQk9reVhPQTNUT21KY1hJY2ZVOGxVeWRYbEVVY0M5TGdSMHJFX3BIN05ZakZoQTZDMC02cXBJcGowYlkwMUVyb1VxaHRRWjNM?oc=5",
    "published_utc": "2026-09-24T00:14:00+00:00",
@@ -11912,7 +11945,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Commentary: Are Exports Holding China’s Economy ‘Hostage’?",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWThScUlkQkxBdzlHWjBPQkh2WXdPb3pITmNFZ3FhLTRENV9USTdZdjhHbngwLWVhelhkLU9KaDJPWjFsSE9ZQ25uVnZPazlhQzNhcml5SkU1R1BZMXliWDRxVENZeVNCVjRsUkhjcE15UGt1cnp3bF9SZS1uYzh0Z3VCVVU3WWNTQ3dtSWZjblVUSHpwcjdicERab2YxYURfY2hOdGFWU1pIMjEx?oc=5",
    "published_utc": "2026-09-22T12:57:00+00:00",
@@ -14425,7 +14458,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "CXMT Begins Mass Production of Fifth-Generation Memory Chips",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0NaLWgycnpvaG9pMkt0VU8zcDEyR1l4QWszbS1QOVJWZlNOS1h1cjU0M2RGNXdvazhtQkl4OHBhOWx6SHMyTElLcHVPYWRielVzSENQRTRRWUt2UWlrZ3QydWt0NjRHWEJaVWRvUi11azhCZVktOW5DaldQV3R2bnVISTItaWF2LWlDRWVwcG9xeDVhTEdfdHNoVUZFSFA3dVJmZnN1ZEV5dUpLb21EZ081Y2lGQQ?oc=5",
    "published_utc": "2026-09-21T04:13:00+00:00",
@@ -16233,7 +16266,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Fiscal Revenue Growth Slows as Government Spending Contracts",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajVnYVFTVWxPRW02QmZSZzVnb2xBWl9qaVc0Z1RrbWpzdTFZQ0xCY2VXSml3S3Q0cDM2ZU1KN3JGaVpKQm04b1k4eFpDM2JZSHR1R1FKeUdHay1sVFNHQ0p3TS1SYzhOSGRtV1RlM3E2M3VtRnV4bU81Z3luT0JOb056YkU2RkVISjhVT2d2Z3dfS19BdU1peENFNUJrSlE1MDVMNHhBUDlOQW9WNkZvVzBKZlBEUVZ4UVN3djJ3?oc=5",
    "published_utc": "2026-09-19T07:00:00+00:00",
@@ -18746,7 +18779,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Targets 3.5 Trillion Yuan Pharmaceutical Industry by 2030",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGZ6RmdHNF8tYUVvaVZhc25ldWRXZDM0ZlQyU2Y5MkVFVERiekJsbTVHb2wxb2l0OFZDSTR3ZG9wc2hwM0pzWHVmZHg4QnF3U2tqcXJiVmVFR3V2LV9Wc1hMZ1YzNTBnalpVYlFRX1A1Yzh6RFJqVUsyUmxVNFpKQ3FRY2djUjRVZlNYWEJEZGthWXVzME12WlFjTWI3MmlDUXkwZUgyYUVvUVlnVDRsS29NODk1SUZY?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -21645,7 +21678,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Commentary: To Revive Consumption, China Must Defend Both the Yuan and Incomes",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNWJjWFVBb2U3WFZWVDZBRmlIb2xoNEhQbGQ2TUxBUE1yMXdqaEtJZm0xRDBOOWhha2o0dkJVVVlQOGg1WmJNZjc2eHlmQ1FhSUhnWmVhYm83WG9aOWwzemRGNnYzS3lRd283UlJVOU9kWmhvQzdHY3NMYjA5dV9hN1pVcW1DTzRDUDVGcWhHUDV0QnluZzhDbTdQRjhLbllKWTg0SlAwZjhhUDBCVWVwTlNSRzZJVzlhNVRBWERGSDJhMVZmTGNHT19oTQ?oc=5",
    "published_utc": "2026-09-17T07:00:00+00:00",
@@ -41357,7 +41390,7 @@
   },
   {
    "source_id": "gn_kr_herald",
-   "source_name": "koreaherald.com",
+   "source_name": "The Korea Herald",
    "title_en": "Economy, housing, foreign policy in focus as Assembly gears up to grill Lee government",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4td2F4UDR1SmZIWXRiRlJOQzJIa1JCeDdpNUtib3MyNVhNRzdMbzY1ekFHS1lyS1VNRXRfa0VacHlKMFlMRFd1dHktdUxfNFhYTVhMNGozYw?oc=5",
    "published_utc": "2026-09-06T07:00:00+00:00",
@@ -51932,41 +51965,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a0937c9ccdf2fbc5"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "资鲸",
-   "title_en": "The central bank launched a 5 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPanQ0M0JQTTZNWUhLWnZhUlUtTGw5WkpCekZYREkzNHhJLVNUSFRsaV9Ed3R0NkgyZ1VGSndNTERLUGhCcVkzTTNvV2JReVhvdmotU2lTakNsRFppWEZPYTBNUDZyQzlMQXc5VXFFVGtmRXlKUTFhdUdFazJZZ2JMLVlLakZnRkV4WWI1QXpEYTdVUQ?oc=5",
-   "published_utc": "2026-09-01T01:42:48+00:00",
-   "title_original": "央行今日开展50亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da0e552d9644bca5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY359 BLN VIA O/N REVERSE REPO TUES",
-   "url": "https://www.tradingview.com/news/dpa_afx:3d1bbf90f61bc:0-china-pboc-conducts-cny359-bln-via-o-n-reverse-repo-tues/",
-   "published_utc": "2026-09-01T01:41:38+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY359 BLN VIA O/N REVERSE REPO TUES",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "37f83d7a407c214e"
   },
   {
    "source_id": "manual_ia",
