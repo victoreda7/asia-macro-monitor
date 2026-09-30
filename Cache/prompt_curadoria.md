@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T15:02:50.887805+00:00
+Última coleta: 2026-09-30T15:12:51.425027+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1262
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [taiwan] TSMC's $265 Billion U.S. Expansion May Be Getting Even Bigger
   - [korea] BOK Financial Price Target Cut to $135.00/Share From $148.00 by Wells Fargo
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC evaluates potential Texas investment, sources say
   - [korea] Global interest rates are resembling 'Corona tightening'... Will Korea also go up by 3.5% per year?
   - [china] 17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October
-  - [china] China enables four new Brazilian plants to export meat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T15:02:51+00:00",
+      "published_utc": "2026-09-30T15:12:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
