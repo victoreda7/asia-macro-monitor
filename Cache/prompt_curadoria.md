@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T22:22:43.345175+00:00
+Última coleta: 2026-09-30T22:32:46.591882+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1269
+  🇯🇵 Japão          1270
   🇨🇳 China          779
   🇹🇼 Taiwan         255
-  🇰🇷 Coreia do Sul  697
+  🇰🇷 Coreia do Sul  696
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank Of Japan Tankan Survey Due On Thursday
   - [japan] Is the accelerating pace of interest rate hikes by the Bank of Japan a contributing factor? Signs of a ``barga
   - [korea] Trump unveils 3 projects under Korea's $200b US investment plan
   - [japan] Mail-order giant Askul's new president Narimatsu, who is in his 40s, says that after overcoming ransomware dam
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's metal-heavy commodity imports map a messy energy transition: Maguire
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary Factory Right-of-Use Acquisition
   - [japan] Japan Paused Forex Intervention as Yen Strengthened Modestly — Update
-  - [japan] Japan economic panel members underline BOJ independence By Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T22:22:43+00:00",
+      "published_utc": "2026-09-30T22:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
