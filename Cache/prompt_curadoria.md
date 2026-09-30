@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T16:22:45.452807+00:00
+Última coleta: 2026-09-30T16:32:47.804486+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1261
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [china] Cambricon Says Former Exec Raises Equity Incentive Claim To 27.8 Billion Yuan
   - [japan] RDP plans to improve financial situation by downsizing party headquarters and reducing staff
   - [taiwan] TSMC Is Ready to Spend $265 Billion in the U.S. It Could Spend Even More. — Barrons.com
+  - [china] The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation for a period of 3 mont
   - [china] The central bank announced that it will carry out a 1.2 trillion yuan buyout reverse repurchase operation
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [china] ACM Research subsidiary reports RMB 17.1B backlog, 88% YoY rise
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minister of Land, Infrast..
   - [china] Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation
   - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
-  - [taiwan] TSMC evaluates potential Texas investment, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T16:22:45+00:00",
+      "published_utc": "2026-09-30T16:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
