@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T18:03:23.484510+00:00
+Última coleta: 2026-09-30T18:12:49.188127+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1263
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] United, American Airlines up Japan routes to tap demand fueled by weak yen
+  - [china] The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation for a period of 3 mont
   - [china] Central China Real Estate Reaches Agreement With Existing Lenders On Extension Group's Borrowings
   - [japan] Three banks raise variable interest rates on housing loans; all five banks raise fixed interest rates
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
@@ -30,7 +31,6 @@ Total: 3000 manchetes
   - [china] Cambricon Says Former Exec Raises Equity Incentive Claim To 27.8 Billion Yuan
   - [japan] RDP plans to improve financial situation by downsizing party headquarters and reducing staff
   - [taiwan] TSMC Is Ready to Spend $265 Billion in the U.S. It Could Spend Even More. — Barrons.com
-  - [china] The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation for a period of 3 mont
   - [china] The central bank announced that it will carry out a 1.2 trillion yuan buyout reverse repurchase operation
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [china] ACM Research subsidiary reports RMB 17.1B backlog, 88% YoY rise
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T18:03:23+00:00",
+      "published_utc": "2026-09-30T18:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
