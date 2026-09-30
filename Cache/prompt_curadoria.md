@@ -7,23 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T04:02:45.722464+00:00
+Última coleta: 2026-09-30T04:12:47.164909+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1267
-  🇨🇳 China          770
-  🇹🇼 Taiwan         248
+  🇯🇵 Japão          1264
+  🇨🇳 China          772
+  🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [china] Standard Chartered does not rule out the possibility of central bank cutting RRR
   - [japan] Yen's Long-Term Trend Has Likely Turned to Appreciation — Market Talk
   - [china] China’s weak soybean demand dims prospects for US cargoes after tariff snub
+  - [taiwan] Foundry 2.0 revenue hits record as growth spreads beyond TSMC
   - [china] Yuan set for 7th straight quarterly gain as exporters sell dollars before holiday
   - [china] China stimulus picks: tech and consumer names tied to new credit flows
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
+  - [china] DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia
   - [china] Offshore Yuan Holds Gains
   - [china] China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan
   - [china] China's DeepSeek says it used open-source tools based on Huawei ascend chips
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan August factory output unexpectedly falls
   - [japan] JAPAN AUG RETAIL SALES Y/Y RISE SLOWS FROM JULY AS STORMY WEATHER DAMPENS SEASONAL DEMAND FOR CLOTHING, ELECTR
   - [china] China Stimulus Seen Supporting Growth Target, Not Broader Recovery
-  - [japan] Japan Industrial Output Sinks 1.7% In August
-  - [japan] Japan industrial production unexpectedly falls in August, retail sales slow
-  - [japan] JAPAN AUG RETAIL SALES Y/Y RISE LED BY AUTOS, DEPARTMENT STORES, FOOD/BEVERAGES
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T04:02:45+00:00",
+      "published_utc": "2026-09-30T04:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
