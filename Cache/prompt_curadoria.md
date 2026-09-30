@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T16:32:47.804486+00:00
+Última coleta: 2026-09-30T16:42:45.972803+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1261
+  🇯🇵 Japão          1262
   🇨🇳 China          777
   🇹🇼 Taiwan         255
-  🇰🇷 Coreia do Sul  707
+  🇰🇷 Coreia do Sul  706
 
 ## O que já está no feed (não repita)
 
+  - [japan] United, American Airlines up Japan routes to tap demand fueled by weak yen
   - [china] Central China Real Estate Reaches Agreement With Existing Lenders On Extension Group's Borrowings
   - [japan] Three banks raise variable interest rates on housing loans; all five banks raise fixed interest rates
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's Central Bank May Still Prefer Targeted, Low-Profile Credit Easing — Market Talk
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minister of Land, Infrast..
   - [china] Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation
-  - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T16:32:48+00:00",
+      "published_utc": "2026-09-30T16:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
