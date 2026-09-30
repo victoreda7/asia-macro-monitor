@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T03:02:44.140497+00:00
+Última coleta: 2026-09-30T03:12:44.908940+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1275
-  🇨🇳 China          766
-  🇹🇼 Taiwan         247
-  🇰🇷 Coreia do Sul  712
+  🇯🇵 Japão          1271
+  🇨🇳 China          767
+  🇹🇼 Taiwan         248
+  🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
+  - [china] Offshore Yuan Holds Gains
   - [china] China's DeepSeek says it used open-source tools based on Huawei ascend chips
   - [korea] Rupiah gains; Korean won, Philippine peso weaken among mixed Asian FX
   - [china] China's New Mortgage Subsidy Falls Short of Expectations — Market Talk
   - [china] Trade Talks, Rare-Earth Exports Key Near-Term Gauges of U.S.-China Ties — Market Talk
+  - [taiwan] TSMC reportedly evaluates Texas fabs as US regional competition intensifies
   - [japan] Yen Set for Monthly Advance
   - [china] Chinese stocks inch up after Beijing's fresh stimulus but property stocks slide
   - [china] CHINA PBOC CONDUCTS CNY833.5 BLN VIA O/N REVERSE REPO WEDS
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] MNI JAPAN AUG RETAIL SALES +2.7% Y/Y; JULY +3.7%
   - [japan] JAPAN AUG FACTORY OUTPUT POSTS 2ND STRAIGHT M/M DROP
   - [japan] MNI JAPAN AUG FACTORY OUTPUT -1.7% M/M; JULY -0.2%
-  - [japan] Japan's Industrial Production Fell in August But Expected to Rebound
-  - [japan] ASIA NIGHT SESSION | Nikkei, TAIEX Futures Rebound Overnight on Chip Strength as US Yields Hit 2007 High
-  - [china] China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T03:02:44+00:00",
+      "published_utc": "2026-09-30T03:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
