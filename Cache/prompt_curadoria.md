@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T14:12:50.487360+00:00
+Última coleta: 2026-09-30T14:22:46.502089+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1264
-  🇨🇳 China          774
+  🇨🇳 China          775
   🇹🇼 Taiwan         254
-  🇰🇷 Coreia do Sul  708
+  🇰🇷 Coreia do Sul  707
 
 ## O que já está no feed (não repita)
 
@@ -32,6 +32,7 @@ Total: 3000 manchetes
   - [japan] Discussions begin at the Fiscal System Council for next year's budget formulation
   - [japan] Crude oil imports in August Imports from the United States were 12 times higher than in the same month last ye
   - [china] Retail Export Strategies Give Way to Integrated China-ASEAN Supply Chains
+  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [japan] Prime Minister Takaichi "examines financial scale" in preparation for next year's budget draft
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining Shares
   - [china] China's metal-heavy commodity imports map a messy energy transition: Maguire
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] 17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October
   - [china] China enables four new Brazilian plants to export meat
   - [china] Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a peri
-  - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T14:12:50+00:00",
+      "published_utc": "2026-09-30T14:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
