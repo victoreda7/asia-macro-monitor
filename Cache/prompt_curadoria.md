@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T09:02:48.467316+00:00
+Última coleta: 2026-09-30T09:12:44.605564+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1261
@@ -19,6 +19,8 @@ Total: 3000 manchetes
 
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
+  - [china] China enables four new Brazilian plants to export meat
+  - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [korea] Industrial output, retail sales, facility investment down in Aug.
   - [china] China stocks flat, limp to quarterly drop, as stimulus falls short
   - [japan] Nidek 564.6 billion yen deficit, huge loss due to accounting fraud etc.
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Repo Push Gains Ground as Legal Issues, Low Yields Drag
   - [china] China Repo Push Advances as Legal Issues, Low Yields Drag
   - [japan] Japan Housing Starts Rise Less than Estimated
-  - [japan] Japan Production Likely Supported by AI-Related Capex — Market Talk
-  - [korea] South Korea's Headline Inflation Likely Eased in September, Poll Shows — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T09:02:48+00:00",
+      "published_utc": "2026-09-30T09:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
