@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T11:03:21.610236+00:00
+Última coleta: 2026-09-30T11:12:45.355773+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1264
@@ -27,13 +27,13 @@ Total: 3000 manchetes
   - [japan] Japan Paused Forex Intervention as Yen Strengthened Modestly
   - [china] China Aoyuan Is Close To Finalizing Onshore Debt Restructuring Proposal
   - [taiwan] TSMC weighs Texas investment to expand U.S. chip production: report
+  - [china] Central Bank: Will launch 1.2 trillion yuan buyout reverse repurchase operation on October 8
   - [japan] I don't think there is a big discrepancy in perception between the Bank of Japan and the economy and prices - 
   - [japan] There has been no foreign exchange intervention in the past month, and the yen continues to appreciate as the 
   - [japan] Japanese economic panel members emphasise BOJ’s independence
   - [japan] Respect the Bank of Japan's autonomy, explain economic and fiscal risks and secure confidence - Member of the 
   - [china] China's Central Bank May Still Prefer Targeted, Low-Profile Credit Easing — Market Talk
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minister of Land, Infrast..
-  - [china] Central Bank: Will launch 1.2 trillion yuan buyout reverse repurchase operation on October 8
   - [china] Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation
   - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
   - [taiwan] TSMC evaluates potential Texas investment, sources say
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T11:03:21+00:00",
+      "published_utc": "2026-09-30T11:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
