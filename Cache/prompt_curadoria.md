@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T01:02:45.465273+00:00
+Última coleta: 2026-09-30T01:12:44.773044+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1284
@@ -18,7 +18,8 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] Industrial output, retail sales, facility investment down in Aug.
-  - [japan] 8月の鉱工業生産指数 前月を1.7％下回る
+  - [japan] Industrial production index for August was 1.7% lower than the previous month
+  - [japan] "Yinkya" or "Yinkya"? Which one will be happier: the "introvert" who seeks stability or the "extrovert" who se
   - [korea] South Korea finance minister vows to stabilise bond market
   - [japan] Japan Industrial Output Declines Again as Middle East Conflict Drags On
   - [japan] Japan Retail Sales Gain 2.7% On Year In August
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea Retail Sales Fall Again in August
   - [china] China plans to strengthen surveillance on steel exports
   - [korea] South Korea Industrial Output Unexpectedly Falls
-  - [korea] The annual interest burden of the Korea Land and Housing Corporation (LH), which supports the govern..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T01:02:45+00:00",
+      "published_utc": "2026-09-30T01:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
