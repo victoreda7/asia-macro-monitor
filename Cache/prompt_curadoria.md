@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T05:02:52.843957+00:00
+Última coleta: 2026-09-30T05:12:44.655186+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1261
   🇨🇳 China          776
-  🇹🇼 Taiwan         248
-  🇰🇷 Coreia do Sul  715
+  🇹🇼 Taiwan         247
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [japan] Japan Production Likely Supported by AI-Related Capex — Market Talk
   - [korea] South Korea's Headline Inflation Likely Eased in September, Poll Shows — Market Talk
+  - [china] China factory activity grows at fastest pace in 5 months in Sept: RatingDog PMI
   - [china] China stocks flat, limp to quarterly drop, as stimulus falls short
   - [china] China adds 55% tariff to Brazil beef imports
   - [japan] Japan's industrial output drops 1.7% M/M in August; retail sales rise 2.7% Y/Y
@@ -44,7 +46,6 @@ Total: 3000 manchetes
   - [japan] Yen Set for Monthly Advance
   - [china] Chinese stocks inch up after Beijing's fresh stimulus but property stocks slide
   - [china] CHINA PBOC CONDUCTS CNY833.5 BLN VIA O/N REVERSE REPO WEDS
-  - [china] China factory activity grows at fastest pace in 5 months in Sept: RatingDog PMI
   - [china] China services growth hits three-month high, private PMI shows
   - [china] China Manufacturing Growth Hits 5-Month High
   - [china] China factory activity hits five-month high in September, private PMI shows
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launches 833.5 billion yuan overnight reverse repurchase operation
   - [china] The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out
   - [korea] SK Hynix stuck in cloud consolidation below 50% Fib: Live
-  - [japan] Industrial production index for August was 1.7% lower than the previous month
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T05:02:53+00:00",
+      "published_utc": "2026-09-30T05:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
