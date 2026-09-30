@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T02:12:44.886322+00:00
+Última coleta: 2026-09-30T02:18:58.092576+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1279
-  🇨🇳 China          762
+  🇯🇵 Japão          1278
+  🇨🇳 China          763
   🇹🇼 Taiwan         247
   🇰🇷 Coreia do Sul  712
 
@@ -21,13 +21,13 @@ Total: 3000 manchetes
   - [china] Trade Talks, Rare-Earth Exports Key Near-Term Gauges of U.S.-China Ties — Market Talk
   - [china] Chinese stocks inch up after Beijing's fresh stimulus but property stocks slide
   - [china] CHINA PBOC CONDUCTS CNY833.5 BLN VIA O/N REVERSE REPO WEDS
-  - [china] China Manufacturing Growth Hits 5-Month High
+  - [china] China factory activity grows at fastest pace in 5 months in Sept: RatingDog PMI
   - [china] China services growth hits three-month high, private PMI shows
+  - [china] China Manufacturing Growth Hits 5-Month High
   - [china] China factory activity hits five-month high in September, private PMI shows
   - [china] China NBS General PMI Rises to 9-Month High
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7351 WEDS VS 6.7411
   - [korea] Samsung Electronics, SK hynix rise as U.S. chip stocks rally
-  - [china] China factory activity returns to growth in Sept, services strengthen - PMI
   - [china] China’s next big export could be $1.5 trln of debt
   - [taiwan] Grand Pacific Petrochemical, Air Water join forces to expand Taiwan semiconductor materials business
   - [china] The central bank launches 833.5 billion yuan overnight reverse repurchase operation
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T02:12:45+00:00",
+      "published_utc": "2026-09-30T02:18:58+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
