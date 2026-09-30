@@ -7,27 +7,30 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T06:42:45.267883+00:00
+Última coleta: 2026-09-30T06:52:44.910806+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1260
-  🇨🇳 China          779
+  🇯🇵 Japão          1258
+  🇨🇳 China          780
   🇹🇼 Taiwan         247
-  🇰🇷 Coreia do Sul  714
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [japan] Air Liquide Invests Over EUR 170 Mln To Support Semiconductor Leader Expanding Capabilities In Japan
+  - [china] Gigasun Subsidiary Signs Agreement For Solar Plant In China
+  - [korea] OPmobility To Acquire Hyundai Mobis Lighting Business For KRW 600 Billion
   - [japan] Prime Minister Takaichi's policy speech seeks understanding of the consumption tax cut: ``Give household finan
   - [japan] Tsukishima Holdings Co Ltd - To Buy Back Up To 2.5% Of Own Shares Worth 3 Billion Yen
+  - [china] China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More
   - [japan] Regarding the government's denial of reflation and the Bank of Japan's acceleration of the pace of interest ra
   - [china] China adds 55% tariff to Brazil beef as imports hit quota
   - [china] China’s Repo Push Gains Ground as Legal Issues, Low Yields Drag
   - [japan] Japan Housing Starts Rise Less than Estimated
   - [japan] Japan Production Likely Supported by AI-Related Capex — Market Talk
-  - [china] China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More
   - [korea] South Korea's Headline Inflation Likely Eased in September, Poll Shows — Market Talk
   - [china] China factory activity grows at fastest pace in 5 months in Sept: RatingDog PMI
   - [china] China stocks flat, limp to quarterly drop, as stimulus falls short
@@ -35,7 +38,6 @@ Total: 3000 manchetes
   - [japan] Asian currencies mixed as yen rebounds, dollar stays near two-month high
   - [japan] Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus
   - [china] Standard Chartered does not rule out the possibility of central bank cutting RRR
-  - [japan] Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD
   - [japan] Yen's Long-Term Trend Has Likely Turned to Appreciation — Market Talk
   - [china] China’s weak soybean demand dims prospects for US cargoes after tariff snub
   - [taiwan] Foundry 2.0 revenue hits record as growth spreads beyond TSMC
@@ -44,6 +46,7 @@ Total: 3000 manchetes
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [china] DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia
   - [china] Offshore Yuan Holds Gains
+  - [japan] Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD
   - [china] China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan
   - [china] China's DeepSeek says it used open-source tools based on Huawei ascend chips
   - [china] China Warns Broad EU Tariffs Could Disrupt Trade Negotiations
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Set for Monthly Advance
   - [china] Chinese stocks inch up after Beijing's fresh stimulus but property stocks slide
   - [china] CHINA PBOC CONDUCTS CNY833.5 BLN VIA O/N REVERSE REPO WEDS
-  - [china] ‘Hiccup’ or ‘stall’? What rising interest rates mean for Hong Kong home prices
-  - [china] China services growth hits three-month high, private PMI shows
-  - [china] China Manufacturing Growth Hits 5-Month High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T06:42:45+00:00",
+      "published_utc": "2026-09-30T06:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
