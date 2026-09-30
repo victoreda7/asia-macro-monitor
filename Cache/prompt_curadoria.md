@@ -7,23 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T09:42:48.390425+00:00
+Última coleta: 2026-09-30T09:52:47.402707+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1260
+  🇯🇵 Japão          1261
   🇨🇳 China          774
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  717
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
-  - [japan] Japanese economic panel members emphasise BOJ's independence
+  - [japan] Japanese economic panel members emphasise BOJ’s independence
+  - [japan] Respect the Bank of Japan's autonomy, explain economic and fiscal risks and secure confidence - Member of the 
   - [china] China's Central Bank May Still Prefer Targeted, Low-Profile Credit Easing — Market Talk
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minister of Land, Infrast..
-  - [china] Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation
   - [china] Central Bank: Will launch 1.2 trillion yuan buyout reverse repurchase operation on October 8
+  - [china] Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation
   - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
   - [taiwan] TSMC evaluates potential Texas investment, sources say
   - [china] China enables four new Brazilian plants to export meat
@@ -40,6 +41,7 @@ Total: 3000 manchetes
   - [china] China Eastern Airlines Approves 3.4 Billion Yuan Investment
   - [japan] BOJ’s policy pivot opens scope for faster rate hikes
   - [japan] JGB yields fall after report says PM Takaichi to vow nimble response to markets
+  - [japan] Asian currencies mixed as dollar eases from two-month high, yen gains
   - [china] China's Latest Stimulus Package Seems Small — Market Talk
   - [japan] Nidek 25th fiscal year financial results 564.6 billion yen deficit
   - [china] China's Mortgage Subsidies Scope Likely Disappoints Market — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD
   - [japan] Air Liquide Invests Over EUR 170 Mln To Support Semiconductor Leader Expanding Capabilities In Japan
   - [china] Gigasun Subsidiary Signs Agreement For Solar Plant In China
-  - [korea] OPmobility To Acquire Hyundai Mobis Lighting Business For KRW 600 Billion
-  - [japan] Prime Minister Takaichi's policy speech seeks understanding of the consumption tax cut: ``Give household finan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T09:42:48+00:00",
+      "published_utc": "2026-09-30T09:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

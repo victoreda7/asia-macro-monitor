@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-09-30T09:42:48.390425+00:00",
- "collected_at_utc": "2026-09-30T09:42:48.390425+00:00",
+ "generated_at_utc": "2026-09-30T09:52:47.402707+00:00",
+ "collected_at_utc": "2026-09-30T09:52:47.402707+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1260,
+  "japan": 1261,
   "china": 774,
   "taiwan": 249,
-  "korea": 717
+  "korea": 716
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 49,
+   "error": "",
+   "newest": "2026-09-30T17:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-30T09:20:52+00:00"
+   "newest": "2026-09-30T09:44:44+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-30T09:12:27+00:00"
+   "newest": "2026-09-30T09:42:50+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-30T09:19:43+00:00"
+   "newest": "2026-09-30T09:35:28+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T09:21:08+00:00"
+   "newest": "2026-09-30T09:20:29+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-09-30T07:54:04+00:00"
+   "newest": "2026-09-30T09:46:24+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T09:13:55+00:00"
+   "newest": "2026-09-30T09:42:03+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T03:00:19+00:00"
+   "newest": "2026-09-30T01:55:23+00:00"
   }
  ],
  "items": [
@@ -379,21 +379,40 @@
    "id": "3b58b0e8b14b9c1e"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japanese economic panel members emphasise BOJ's independence",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45L0ON:0-japanese-economic-panel-members-emphasise-boj-s-independence/",
-   "published_utc": "2026-09-30T09:34:09+00:00",
-   "title_original": "Japanese economic panel members emphasise BOJ's independence",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japanese economic panel members emphasise BOJ’s independence",
+   "url": "https://www.investing.com/news/economy-news/japanese-economic-panel-members-emphasise-bojs-independence-4924462",
+   "published_utc": "2026-09-30T09:42:50+00:00",
+   "title_original": "Japanese economic panel members emphasise BOJ’s independence",
    "region": "japan",
    "topics": [
     "monetary"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "63b5f3443171e8ff"
+   "id": "9a3fde741c2e8b04"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Respect the Bank of Japan's autonomy, explain economic and fiscal risks and secure confidence - Member of the Advisory Council (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ZEc4azhCejdhdXh2dGp6S3V2UUVFZmJhdk1obGJnR19ESks3ZHpESk5Od3MyMmIyS2RKZ3BmamVWdm1IcHYxNi1zQ1M1dGM2TFNneWJaM1I2N2dSNnBnOWFFTEQybWY1eEtfSWx6bXBiRmRIbUNwX2tFbTNuSHc?oc=5",
+   "published_utc": "2026-09-30T09:42:03+00:00",
+   "title_original": "日銀の自主性尊重、経済財政のリスク説明し信認確保＝諮問会議議員（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b83b593ee33d0ea2"
   },
   {
    "source_id": "tradingview_live",
@@ -432,24 +451,6 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
-   "title_en": "Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Wc2NOeWR3Qk9lRjRyeWt4cHB0Z1dWc2JwNUtSZS1uNHlhMWhCQldqRldHdHZyN2Y0c3ljaUhsUE9ocmtVaGQ2ZHZ6SkYzVk9YN3RkbTM4Z2JTWVd3bEVSWDJTZk03Zw?oc=5",
-   "published_utc": "2026-09-30T09:21:08+00:00",
-   "title_original": "央行：将开展1.2万亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1522bd4f34a513bc"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
    "title_en": "Central Bank: Will launch 1.2 trillion yuan buyout reverse repurchase operation on October 8",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12TzZsMXEyNlJRb2F4V0JpTFNQRUdreEliWjJKT0I5SHlhTldsSThJczk3NzhnQnAxQ21PV0sxMExFbTNFdXR2TGljRWZBZWh2U2ZHMUoxM2M3aUp3WkEyUnF3Rl9fQQ?oc=5",
    "published_utc": "2026-09-30T09:20:29+00:00",
@@ -464,6 +465,24 @@
    "live_wire": false,
    "manual": false,
    "id": "831cdacf8ef02654"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Wc2NOeWR3Qk9lRjRyeWt4cHB0Z1dWc2JwNUtSZS1uNHlhMWhCQldqRldHdHZyN2Y0c3ljaUhsUE9ocmtVaGQ2ZHZ6SkYzVk9YN3RkbTM4Z2JTWVd3bEVSWDJTZk03Zw?oc=5",
+   "published_utc": "2026-09-30T09:19:45+00:00",
+   "title_original": "央行：将开展1.2万亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1522bd4f34a513bc"
   },
   {
    "source_id": "tradingview_live",
@@ -738,6 +757,23 @@
    "live_wire": true,
    "manual": false,
    "id": "85b10ef8e85357f3"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Asian currencies mixed as dollar eases from two-month high, yen gains",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb3g1NDJ6MFlzZ0RfX3RXdUhtUlNra01aOEZQQVdOeG96aUpuRnBGRV9ieHIyMUN3dzM2UXpOX1hrZU1aV3BNcnR0SklSMVJMalNxRjU4R3ptc3VSdnZRUkxJNGxaaElFS3MzQ09LcGdxRUlYVFlrc2NHb2txWHBqSWYwUWl3OHFGTnVRd1JLLXU0ck9oNUc3X2pmbFJIZ0tncTFjOTRoTHZSU3BEckRHZUZQV2I2ejJkUkRTVg?oc=5",
+   "published_utc": "2026-09-30T08:11:54+00:00",
+   "title_original": "Asian currencies mixed as dollar eases from two-month high, yen gains",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b62bf0b80cf88163"
   },
   {
    "source_id": "tradingview_live",
@@ -1430,6 +1466,23 @@
    "live_wire": true,
    "manual": false,
    "id": "575b968fa931ea61"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Brazil Beef Hit With 55% China Tariff After Filling Export Quota",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFRJajFYUUxyMkRmeGRyMmFSSEw3VE92V2phQWVPaEdKOEU4SFJmOHExeWtzck1HYm1DeFFDWkVMX0dhcnA2NmlidG5ZeWh2a1BJSWZIbVE0Vk1aN3VRTXcxekl1bzBOR29HMnlueDE2OEVwRGFMWTktbnl4S2cyX1lEV0xhd1d5eWJESVMtQmZDUnpEM3J3dS14bE5KTTFHaUwzUnpaRktaaXV1dUEzc28xb0s?oc=5",
+   "published_utc": "2026-09-30T02:49:00+00:00",
+   "title_original": "Brazil Beef Hit With 55% China Tariff After Filling Export Quota",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "05f20655cc5a3017"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2833,9 +2886,9 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "매일경제",
+   "source_name": "매일경제 마켓",
    "title_en": "Issues that affect the decision to increase interest rates... Look at the remarks of the Monetary Policy Committee members who have decision-making power",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84LXp2SFNHTWJKR3JCR2trVXc0TDF3d1ExdmhCUE5Ub3ZwanRpa2U0a2V5SG04QkpHeEtrUDBnTHdVVHBnZ1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12MlZZMzFNR2xaejZPUEJfMHNwY3A3azVXT1IzS1hRc1JJM1Z3Sk5fWER4U2g0c0Etd1hyaXB3S0lIZWlUUlFMMzJ5LXFleWkwTkE?oc=5",
    "published_utc": "2026-09-29T08:30:55+00:00",
    "title_original": "금리 인상 결정에 영향 주는 사안은 …결정권 있는 금통위원 발언 보니",
    "region": "korea",
@@ -2847,7 +2900,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "667285aca2187bfd"
+   "id": "4ef66e93d9b702ce"
   },
   {
    "source_id": "gn_jp_investing",
@@ -4978,7 +5031,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "아시아타임즈",
+   "source_name": "asiatime.co.kr",
    "title_en": "First meeting between economic and monetary policy leaders... “Joint response to external uncertainties”",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SREhIWVpqTUlnbWE1MlEyWUFnSHhIRHNENUdXV0loRGliQnN4QlRkWUZkTW1SMkNCLS1vZkRHZmRDSGQxMDVNS01nNzBmaGZHYU9hOXFxcUlVRjhSMkE?oc=5",
    "published_utc": "2026-09-28T05:47:00+00:00",
@@ -5395,7 +5448,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "newspim.com",
+   "source_name": "뉴스핌",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -5501,6 +5554,25 @@
    "id": "de5490c7ee87001a"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "v.daum.net",
+   "title_en": "Lee Hyung-il, the Bank of Korea tie wearer, “seeks to harmonize economic and monetary policies”… Shin Hyun-song “Prices and financial stability are the premise”",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Oano5cHdxOXZmdGFJaHIxR0dOd3lLdEJUenQ2dzZ5VDdGVEV2eDM3LVBFSWVsQmdObWFXdE5TSm4yWnpNM2lTUDU5NA?oc=5",
+   "published_utc": "2026-09-28T02:32:00+00:00",
+   "title_original": "한은 넥타이 멘 이형일 “경제·통화정책 조화 모색”…신현송 “물가·금융안정이 전제”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2acc34fe582203e4"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Finance minister, BOK chief stress coordination to address uncertainties",
@@ -5517,25 +5589,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b7b2209db70369c1"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "헤럴드경제",
-   "title_en": "Lee Hyung-il, the Bank of Korea tie wearer, “seeks to harmonize economic and monetary policies”… Shin Hyun-song “Prices and financial stability are the premise”",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Gc1c2MHN5Z2FYYlVpcDdNMzRrSDMtVS1XemNqUjkzVkoyY1VnTHdxdVdGNGZyUGtMRy1DcTBBSFV0SDlnRUZWUkdDQnNoZ0FVOTdyR3p3?oc=5",
-   "published_utc": "2026-09-28T02:30:00+00:00",
-   "title_original": "한은 넥타이 멘 이형일 “경제·통화정책 조화 모색”…신현송 “물가·금융안정이 전제”",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2c8817db170486fb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7712,6 +7765,23 @@
    "live_wire": false,
    "manual": false,
    "id": "638958dceb16768d"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Weak yen may reflect market misunderstanding: Japan finance chief",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13WTI0QnBpQ0VqbEZHVnRuNmlrSHpNV1V2bEhMLS1qb3B3RUYycHhSb183MkFrMjBnTVpQV2hJbnQ5aGw1NDNpS2VvVEMzMDM4cW4xMlhzMFZYZw?oc=5",
+   "published_utc": "2026-09-25T13:13:00+00:00",
+   "title_original": "BREAKING NEWS: Weak yen may reflect market misunderstanding: Japan finance chief",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "895c185ddf1843db"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51895,76 +51965,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bb712243c99d2b48"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Secretary Bessent makes unusual request for Bank of Japan to raise interest rates, but Finance Minister Katayama denies it, discrepancies (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcDQ4b0gwblM2NldqS04yQkhfbEhWRnFVMDJBRFpVMlEybVVvWDBSNzN0bThoQzZRajMwZTQxVUJpTVY5Y09fSFFYbVVObmpmbEN4bUV4SUpFOEdaa3M3aEoyYWhrQklCNi1ZZnZuYkJacVYzb2otMlNYUHRqWlE?oc=5",
-   "published_utc": "2026-09-01T02:13:19+00:00",
-   "title_original": "ベッセント長官が日銀利上げへ異例の要請、片山財務相否定で食い違い（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cbf7c953cbd2c22c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank launched a 5 billion yuan 7-day reverse repurchase, with the interest rate unchanged at 1.40%",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WZ0d4bXJDT1M3eWlzMUgxS0RRcGRfWjdQRHI2TmRRVzVYbi1zZ3NsaS1HTzkteHRyUG5IZnlsVmx0RDJkLTc2V3dHZVVfZw?oc=5",
-   "published_utc": "2026-09-01T01:56:48+00:00",
-   "title_original": "央行开展50亿元7天期逆回购 利率1.40%持平",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dc95c32045e8c20b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Korean Won's Medium-Term Outlook Appears Constructive — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260831008609:0/",
-   "published_utc": "2026-09-01T01:51:00+00:00",
-   "title_original": "Korean Won's Medium-Term Outlook Appears Constructive — Market Talk",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "56c81dced7f7a48e"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Bond yields rise as oil prices fan inflation fears; stocks slip",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
-   "published_utc": "2026-09-01T01:46:00+00:00",
-   "title_original": "Bond yields rise as oil prices fan inflation fears; stocks slip",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a0937c9ccdf2fbc5"
   },
   {
    "source_id": "manual_ia",
