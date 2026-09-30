@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T10:32:46.225003+00:00
+Última coleta: 2026-09-30T10:42:52.284987+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1265
-  🇨🇳 China          774
+  🇯🇵 Japão          1266
+  🇨🇳 China          773
   🇹🇼 Taiwan         250
   🇰🇷 Coreia do Sul  711
 
@@ -19,6 +19,9 @@ Total: 3000 manchetes
 
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
+  - [japan] Japan Paused Forex Intervention as Yen Strengthened Modestly — Update
+  - [japan] Hyperscale Data Secures $22.58 Million Notes, Extends JGB Loan Maturity to 2027
+  - [japan] Japan economic panel members underline BOJ independence By Reuters
   - [japan] Japan Paused Forex Intervention as Yen Strengthened Modestly
   - [china] China Aoyuan Is Close To Finalizing Onshore Debt Restructuring Proposal
   - [taiwan] TSMC weighs Texas investment to expand U.S. chip production: report
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ Tankan Likely to Show Rise in Corporate Inflation Outlook — Market Talk
   - [japan] Asia stocks gain ahead of U.S. PCE inflation; regional data in focus
   - [japan] Stock prices rise; concerns about corporate profits ease as crude oil futures prices trend downwards
-  - [china] China manufacturing, services sectors return to growth in September
-  - [japan] Japan's August oil imports rise 13.1% y/y - METI
-  - [japan] BOJ Tankan Likely to Show Improvement in Manufacturers' Sentiment — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T10:32:46+00:00",
+      "published_utc": "2026-09-30T10:42:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
