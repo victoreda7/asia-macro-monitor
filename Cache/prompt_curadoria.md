@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T13:12:46.394944+00:00
+Última coleta: 2026-09-30T13:22:47.518766+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1264
-  🇨🇳 China          775
+  🇯🇵 Japão          1265
+  🇨🇳 China          774
   🇹🇼 Taiwan         254
   🇰🇷 Coreia do Sul  707
 
@@ -19,6 +19,10 @@ Total: 3000 manchetes
 
   - [japan] Prime Minister Takaichi held the 13th Economic and Fiscal Council Meeting in 2020
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
+  - [taiwan] TSMC Reportedly Weighs Texas Chip Investment On Top Of $265B Arizona Push
+  - [japan] JDI Mobara factory, which is undergoing business restructuring, decided to sell to semiconductor parts manufac
+  - [china] Cambricon Says Former Exec Raises Equity Incentive Claim To 27.8 Billion Yuan
+  - [japan] RDP plans to improve financial situation by downsizing party headquarters and reducing staff
   - [taiwan] TSMC Is Ready to Spend $265 Billion in the U.S. It Could Spend Even More. — Barrons.com
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [china] ACM Research subsidiary reports RMB 17.1B backlog, 88% YoY rise
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a peri
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [korea] Industrial output, retail sales, facility investment down in Aug.
-  - [taiwan] Taiwan backs TSMC's US push but insists core R&D stays home
-  - [china] China stocks flat, limp to quarterly drop, as stimulus falls short
-  - [japan] Nidek has a deficit of 564.6 billion yen due to huge losses due to accounting fraud, etc.
-  - [china] Scottish Mortgage Investment Trust cuts China exposure to 11%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T13:12:46+00:00",
+      "published_utc": "2026-09-30T13:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
