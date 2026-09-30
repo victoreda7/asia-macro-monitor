@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T11:22:46.024428+00:00
+Última coleta: 2026-09-30T11:32:47.543391+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1264
-  🇨🇳 China          774
-  🇹🇼 Taiwan         252
-  🇰🇷 Coreia do Sul  710
+  🇨🇳 China          775
+  🇹🇼 Taiwan         253
+  🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
+  - [china] Retail Export Strategies Give Way to Integrated China-ASEAN Supply Chains
   - [japan] Prime Minister Takaichi "examines financial scale" in preparation for next year's budget draft
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining Shares
   - [china] China's metal-heavy commodity imports map a messy energy transition: Maguire
@@ -40,6 +41,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
   - [taiwan] TSMC evaluates potential Texas investment, sources say
   - [korea] Global interest rates are resembling 'Corona tightening'... Will Korea also go up by 3.5% per year?
+  - [china] 17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October
   - [china] China enables four new Brazilian plants to export meat
   - [china] Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a peri
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China Eastern Airlines Approves 3.4 Billion Yuan Investment
   - [japan] BOJ’s policy pivot opens scope for faster rate hikes
   - [japan] JGB yields fall after report says PM Takaichi to vow nimble response to markets
-  - [japan] Asian currencies mixed as dollar eases from two-month high, yen gains
-  - [china] China's Latest Stimulus Package Seems Small — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T11:22:46+00:00",
+      "published_utc": "2026-09-30T11:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
