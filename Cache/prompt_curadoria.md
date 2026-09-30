@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T17:12:46.203820+00:00
+Última coleta: 2026-09-30T17:22:45.730630+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1262
-  🇨🇳 China          777
-  🇹🇼 Taiwan         255
-  🇰🇷 Coreia do Sul  706
+  🇨🇳 China          780
+  🇹🇼 Taiwan         254
+  🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
@@ -42,6 +42,7 @@ Total: 3000 manchetes
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [japan] Prime Minister Takaichi "examines financial scale" in preparation for next year's budget draft
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining Shares
+  - [china] China to further boost domestic grain supply as US soybeans excluded from tariff cuts
   - [china] China's metal-heavy commodity imports map a messy energy transition: Maguire
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary Factory Right-of-Use Acquisition
   - [japan] Japan Paused Forex Intervention as Yen Strengthened Modestly — Update
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese economic panel members emphasise BOJ’s independence
   - [japan] Respect the Bank of Japan's autonomy, explain economic and fiscal risks and secure confidence - Member of the 
   - [china] China's Central Bank May Still Prefer Targeted, Low-Profile Credit Easing — Market Talk
-  - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minister of Land, Infrast..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T17:12:46+00:00",
+      "published_utc": "2026-09-30T17:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
