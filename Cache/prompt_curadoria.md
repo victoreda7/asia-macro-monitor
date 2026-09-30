@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T03:52:43.609089+00:00
+Última coleta: 2026-09-30T04:02:45.722464+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1268
-  🇨🇳 China          769
+  🇯🇵 Japão          1267
+  🇨🇳 China          770
   🇹🇼 Taiwan         248
   🇰🇷 Coreia do Sul  715
 
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [japan] Yen's Long-Term Trend Has Likely Turned to Appreciation — Market Talk
   - [china] China’s weak soybean demand dims prospects for US cargoes after tariff snub
   - [china] Yuan set for 7th straight quarterly gain as exporters sell dollars before holiday
+  - [china] China stimulus picks: tech and consumer names tied to new credit flows
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [china] Offshore Yuan Holds Gains
   - [china] China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Industrial Output Sinks 1.7% In August
   - [japan] Japan industrial production unexpectedly falls in August, retail sales slow
   - [japan] JAPAN AUG RETAIL SALES Y/Y RISE LED BY AUTOS, DEPARTMENT STORES, FOOD/BEVERAGES
-  - [japan] JAPAN METI DOWNGRADES ITS VIEW ON RETAIL SALES FOR 1ST TIME SINCE SEPT 2025 REPORT, NOTING S/A 3-MONTH MOVING 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T03:52:43+00:00",
+      "published_utc": "2026-09-30T04:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
