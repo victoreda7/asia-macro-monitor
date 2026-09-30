@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T01:22:45.835857+00:00
+Última coleta: 2026-09-30T01:32:48.824282+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1283
   🇨🇳 China          754
-  🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  713
+  🇹🇼 Taiwan         249
+  🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [china] The central bank launches 833.5 billion yuan overnight reverse repurchase operation
+  - [china] The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out
   - [korea] SK Hynix stuck in cloud consolidation below 50% Fib: Live
   - [japan] Industrial production index for August was 1.7% lower than the previous month
   - [japan] "Yinkya" or "Yinkya"? Which one will be happier: the "introvert" who seeks stability or the "extrovert" who se
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei May Rise as Decline in Oil Prices Ease Inflation Fears — Market Talk
   - [china] China promete reagir caso UE adote medidas que visem comércio chinês
   - [korea] AMD CEO Lisa Su Reportedly to Visit South Korea Next Month for Semiconductor Meeting
-  - [korea] South Korea Retail Sales Fall Again in August
-  - [china] China plans to strengthen surveillance on steel exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T01:22:46+00:00",
+      "published_utc": "2026-09-30T01:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
