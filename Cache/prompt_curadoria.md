@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T07:42:51.569958+00:00
+Última coleta: 2026-09-30T07:52:48.108552+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1260
-  🇨🇳 China          777
-  🇹🇼 Taiwan         247
+  🇨🇳 China          778
+  🇹🇼 Taiwan         246
   🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
@@ -20,10 +20,13 @@ Total: 3000 manchetes
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
-  - [japan] 株価 値上がり 原油先物価格が下落傾向で企業収益の懸念和らぐ
+  - [japan] BOJ Tankan Likely to Show Rise in Corporate Inflation Outlook — Market Talk
+  - [japan] Asia stocks gain ahead of U.S. PCE inflation; regional data in focus
+  - [japan] Stock prices rise; concerns about corporate profits ease as crude oil futures prices trend downwards
+  - [china] China manufacturing, services sectors return to growth in September
   - [japan] Japan's August oil imports rise 13.1% y/y - METI
   - [japan] BOJ Tankan Likely to Show Improvement in Manufacturers' Sentiment — Market Talk
-  - [japan] 高市政権の財政運営に「リスクシナリオの分析も必要」 財務省が指摘（朝日新聞）
+  - [japan] The Ministry of Finance points out that "risk scenario analysis is also necessary" for the Takaichi administra
   - [japan] Japan Housing Starts Rise 6.1% In August
   - [japan] Liquidity Indicators in the JGB Markets (August)
   - [japan] Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD
@@ -36,6 +39,7 @@ Total: 3000 manchetes
   - [japan] Regarding the government's denial of reflation and the Bank of Japan's acceleration of the pace of interest ra
   - [china] China adds 55% tariff to Brazil beef as imports hit quota
   - [china] China’s Repo Push Gains Ground as Legal Issues, Low Yields Drag
+  - [china] China Repo Push Advances as Legal Issues, Low Yields Drag
   - [japan] Japan Housing Starts Rise Less than Estimated
   - [japan] Japan Production Likely Supported by AI-Related Capex — Market Talk
   - [korea] South Korea's Headline Inflation Likely Eased in September, Poll Shows — Market Talk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [china] DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia
   - [china] Offshore Yuan Holds Gains
-  - [china] China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan
-  - [china] China's DeepSeek says it used open-source tools based on Huawei ascend chips
-  - [china] China Warns Broad EU Tariffs Could Disrupt Trade Negotiations
-  - [korea] Rupiah gains; Korean won, Philippine peso weaken among mixed Asian FX
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T07:42:51+00:00",
+      "published_utc": "2026-09-30T07:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

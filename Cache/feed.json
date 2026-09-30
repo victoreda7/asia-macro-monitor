@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-09-30T07:42:51.569958+00:00",
- "collected_at_utc": "2026-09-30T07:42:51.569958+00:00",
+ "generated_at_utc": "2026-09-30T07:52:48.108552+00:00",
+ "collected_at_utc": "2026-09-30T07:52:48.108552+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1260,
-  "china": 777,
-  "taiwan": 247,
+  "china": 778,
+  "taiwan": 246,
   "korea": 716
  },
- "elapsed_s": 34.7,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T01:00:00+00:00"
+   "newest": "2026-09-30T07:45:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T04:49:35+00:00"
+   "newest": "2026-09-30T07:31:11+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T07:06:41+00:00"
+   "newest": "2026-09-30T07:46:09+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-30T07:42:21+00:00"
+   "newest": "2026-09-30T07:52:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -396,9 +396,46 @@
    "id": "1356cffe30308478"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Tankan Likely to Show Rise in Corporate Inflation Outlook — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20260930001273:0/",
+   "published_utc": "2026-09-30T07:43:00+00:00",
+   "title_original": "BOJ Tankan Likely to Show Rise in Corporate Inflation Outlook — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "325f73932a581196"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Asia stocks gain ahead of U.S. PCE inflation; regional data in focus",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYXlMTGlZNGp2b1VacnJiTldZMXdtLWVUaXVIQncwMkxFeDZ1N3lKQURqcTlNZWtranVHeHFaWGJZUDNHelFfR3RWX0QxOThWMzFWNW5WTzBfNFVVQWZUaW1lUThvMFlmVWlNV3JicEhtbmFxQnRZWHNoWWxraUhrejFXc2hLTjI2U0hkNGRFNTZ4VmRPSVk5blpkbXFVQXNmNVVNS05weU5TZEstd0VhRll2SFJRUjVFWUlIY1pCOTc?oc=5",
+   "published_utc": "2026-09-30T07:31:11+00:00",
+   "title_original": "Asia stocks gain ahead of U.S. PCE inflation; regional data in focus",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "098bc4deead86d1f"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
-   "title_en": "株価 値上がり 原油先物価格が下落傾向で企業収益の懸念和らぐ",
+   "title_en": "Stock prices rise; concerns about corporate profits ease as crude oil futures prices trend downwards",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53398",
    "published_utc": "2026-09-30T07:21:27+00:00",
    "title_original": "株価 値上がり 原油先物価格が下落傾向で企業収益の懸念和らぐ",
@@ -407,10 +444,27 @@
     "inflation"
    ],
    "lang_original": "ja",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "c9c6478d1a2b7a77"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "ShareCast",
+   "title_en": "China manufacturing, services sectors return to growth in September",
+   "url": "https://www.tradingview.com/news/sharecast:1a10847d3094b:0-china-manufacturing-services-sectors-return-to-growth-in-september/",
+   "published_utc": "2026-09-30T07:20:14+00:00",
+   "title_original": "China manufacturing, services sectors return to growth in September",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "336bfe44f0f88324"
   },
   {
    "source_id": "tradingview_live",
@@ -451,7 +505,7 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "高市政権の財政運営に「リスクシナリオの分析も必要」 財務省が指摘（朝日新聞）",
+   "title_en": "The Ministry of Finance points out that \"risk scenario analysis is also necessary\" for the Takaichi administration's fiscal management (Asahi Shimbun)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5UTVHc3pxZXFqcWk1WW9BeXB6UTlDalFXWGZXRWNsUlludnRScFJ6RnRVRTZ2am1JRXdMc2lZbEdDM2VoV2JzNFBsdGJJRlZIM1k0ZWpWRlZaZUo4bmlkeXUydDhQdUdWdkNEa1BNOEF4ZTBSR09aN1ZUcUxHTGc?oc=5",
    "published_utc": "2026-09-30T07:05:52+00:00",
    "title_original": "高市政権の財政運営に「リスクシナリオの分析も必要」 財務省が指摘（朝日新聞）",
@@ -461,7 +515,7 @@
     "signaling"
    ],
    "lang_original": "ja",
-   "translated": false,
+   "translated": true,
    "live_wire": false,
    "manual": false,
    "id": "924dbec411afdbf5"
@@ -671,6 +725,23 @@
    "live_wire": false,
    "manual": false,
    "id": "baafc203afd0d9cf"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Repo Push Advances as Legal Issues, Low Yields Drag",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0JNOXlBc1ZlQmxHSG1VbjRWQUxrazU3dWVCRjlpd2NmUFBEYjVDc3I3cXRtdHhZTmlVenZwc2tBM2dMdnQ2NlRDNFRyODlSeTNvQTQweFM4N2xnZmtBQXY4cGZ0S09lbndWdWF2ZU9mTHEwblR1cThKSzc4SWszczZvT1N0cFN1a3JNeWpyazIzMFVBLXJpRjZrbUs4cTFDTWVxTVlGZnV3RXd0Z3cyNjUtcw?oc=5",
+   "published_utc": "2026-09-30T05:39:00+00:00",
+   "title_original": "China Repo Push Advances as Legal Issues, Low Yields Drag",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ef58bf66656c25d2"
   },
   {
    "source_id": "tradingview_live",
@@ -1391,40 +1462,6 @@
    "live_wire": true,
    "manual": false,
    "id": "75c18a72a7366b7e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Japan Industrial Output Declines Again as Middle East Conflict Drags On",
-   "url": "https://www.tradingview.com/news/binance_news:0e562f076094b:0-japan-industrial-output-declines-again-as-middle-east-conflict-drags-on/",
-   "published_utc": "2026-09-30T00:24:07+00:00",
-   "title_original": "Japan Industrial Output Declines Again as Middle East Conflict Drags On",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3edfc0a0d87de8e3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Japan Retail Sales Gain 2.7% On Year In August",
-   "url": "https://www.tradingview.com/news/dpa_afx:818d9504507e3:0-japan-retail-sales-gain-2-7-on-year-in-august/",
-   "published_utc": "2026-09-30T00:22:31+00:00",
-   "title_original": "Japan Retail Sales Gain 2.7% On Year In August",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "44c781819afdfc0d"
   },
   {
    "source_id": "investing_live",
@@ -3087,7 +3124,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
+   "source_name": "yicai.com",
    "title_en": "Monetary policy, credit, offshore RMB...the central bank's press conference responded to the top ten hot topics!",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkkzMEFZemMyVTFhX2F3aTUzbWNMbGItdmJxb252MHdBeVRoLUJzMDRmc1k4V0dNc1lBRFhJUkZET3VVUTdmOFZxSHk3LTBHdXRB?oc=5",
    "published_utc": "2026-09-29T02:38:34+00:00",
@@ -3263,7 +3300,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "womaneconomy.co.kr",
+   "source_name": "여성경제신문",
    "title_en": "Following the Deputy Prime Minister, Shin Hyun-song met with 16 bank presidents and also listened to opinions from the field outside of monetary policy.",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40TEFSMFJrY3J4dTY3Tzc0YUJhekYzbmFtdGxobFR5UEpVVzFhdUVZTGJSakMtNnBtdkcxclVsMDN5NHg4TWFfYUZtM0k0akdhUmF2WF9oWjNuenFaT25NSm9DQmtnSXM5MGdfb1FHdUg5SGvSAXdBVV95cUxNaXlpSFpxSUhDLVVwNENtRk9hay1fLWduNThfSFEyUEhMVXV5U2NNR0VIemhGNVFQa21aSVVKZ1RXZ3Z5aXhoZXo1MFFlMUZidnFFSkZFZVYxbkZSWEI4amd3ZVc5QWxEeVE4ZEptX1RnUEpUMFNoaw?oc=5",
    "published_utc": "2026-09-29T01:27:22+00:00",
@@ -4384,25 +4421,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Fiscal and monetary policy ‘cooperation’",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5dUdLSVBfaHl1aS0wc284R3FYamdRc2lmakpXS3RYOG1TVWhDUmhkeURTMTVDRnVBdjdKTlhDZ0JfT2dBckE?oc=5",
-   "published_utc": "2026-09-28T08:30:56+00:00",
-   "title_original": "이형일·신현송 첫 회동…재정·통화정책 '공조'",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "31782cf8d632a163"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "부산일보",
    "title_en": "[Palm Economy] Base interest rates in global financial markets",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NVkFYcUNKTk91dGhya215N2xMM2x5TU5SVy10ZlVldjlsRUtacW1vU2hZMUUtVHBfa1dVb25WM1owYVEza1pzeUZ5ZmZENHpUNkQxbmF1RW5NakI0dUI5amxkMURPdjJ6ZUF3bXBtMWlpdmQz?oc=5",
@@ -4417,6 +4435,25 @@
    "live_wire": false,
    "manual": false,
    "id": "05b609cc9e8e8231"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "v.daum.net",
+   "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Fiscal and monetary policy ‘cooperation’",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBaC1MU3pHSXVpOTEtVTZ3M0ZWMkdQVzcwTWlmNGJBUmN0X1VxeEh4YXJpUlF2SFdTakI5Z0VtTUhSVzQ5NTBaVG54TQ?oc=5",
+   "published_utc": "2026-09-28T08:30:00+00:00",
+   "title_original": "이형일·신현송 첫 회동…재정·통화정책 '공조'",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff0d17626293dad4"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5255,6 +5292,25 @@
    "id": "de5490c7ee87001a"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "v.daum.net",
+   "title_en": "Lee Hyung-il, the Bank of Korea tie wearer, “seeks to harmonize economic and monetary policies”… Shin Hyun-song “Prices and financial stability are the premise”",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Oano5cHdxOXZmdGFJaHIxR0dOd3lLdEJUenQ2dzZ5VDdGVEV2eDM3LVBFSWVsQmdObWFXdE5TSm4yWnpNM2lTUDU5NA?oc=5",
+   "published_utc": "2026-09-28T02:32:00+00:00",
+   "title_original": "한은 넥타이 멘 이형일 “경제·통화정책 조화 모색”…신현송 “물가·금융안정이 전제”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2acc34fe582203e4"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Finance minister, BOK chief stress coordination to address uncertainties",
@@ -5271,25 +5327,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b7b2209db70369c1"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "헤럴드경제",
-   "title_en": "Lee Hyung-il, the Bank of Korea tie wearer, “seeks to harmonize economic and monetary policies”… Shin Hyun-song “Prices and financial stability are the premise”",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Gc1c2MHN5Z2FYYlVpcDdNMzRrSDMtVS1XemNqUjkzVkoyY1VnTHdxdVdGNGZyUGtMRy1DcTBBSFV0SDlnRUZWUkdDQnNoZ0FVOTdyR3p3?oc=5",
-   "published_utc": "2026-09-28T02:30:00+00:00",
-   "title_original": "한은 넥타이 멘 이형일 “경제·통화정책 조화 모색”…신현송 “물가·금융안정이 전제”",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2c8817db170486fb"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7590,7 +7627,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
+   "source_name": "yicai.com",
    "title_en": "DR001 has recently been running at around 1.2%, and the central bank’s reverse repurchase operation volume has dropped, highlighting the easing of funds.",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mMFZleUYzWS1UWnQ2dHpqTGFvYlhOWVZONVNoaXV5WmxOa0pfY1IzTVNHZXUxV0ZTTkoxdS1rUWxQZGY0V0s1Y1dwM1JIVURJWU04?oc=5",
    "published_utc": "2026-09-25T10:03:36+00:00",
@@ -51929,42 +51966,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fb1d8822645f29b4"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "富途牛牛",
-   "title_en": "The Central Bank of China: Today it launched a 7-day reverse repurchase operation of 5 billion yuan, with a bidding amount of 5 billion yuan, a winning bid amount of 5 billion yuan, and an operating interest rate of 1.",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzNVb0tkMzFNX3cxeUxZTVZRRm9Ocm1YSUliU3NtQWx2UDZMU00yU3UycTZ6QnZ5dFZIVjZIc25Pb1BydTZOOUY3NlBWaHFKMGxKMzN0dUFvNHJzRFdPbGlqZXQ2dXl5UVdxQWxqeFpNOUhLQVBHVTRLbUN4SlB1MEVKRGZJS0FnNk5xWGdGQVdGUQ?oc=5",
-   "published_utc": "2026-09-01T01:21:37+00:00",
-   "title_original": "中国央行：今日开展50亿元7天期逆回购操作，投标量50亿元，中标量50亿元，操作利率为1.",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9fd48b3728132b1d"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Semicon Taiwan 2026 to spotlight AI-driven semiconductor supply chain shifts",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNck82djZXZGpsU2s5b041Tlo3UkJxdXJWZjlHbWpxbXNmTkNSN2FNemNDaWxnZUZKdDBXc3NpRmU5ZEpPZnRPV3ZDcFg1T2VnQmJQeVdfQkJrVXhYcDgyTHhHRFNRYVVVRnJNalhHcEhWOUJlWmU5UmV3ajJhdXZnMEZ1MWJvWnVFSHluT3JSaFctWF9z?oc=5",
-   "published_utc": "2026-09-01T01:16:21+00:00",
-   "title_original": "Semicon Taiwan 2026 to spotlight AI-driven semiconductor supply chain shifts",
-   "region": "taiwan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c944c97f97e18300"
   },
   {
    "source_id": "manual_ia",
