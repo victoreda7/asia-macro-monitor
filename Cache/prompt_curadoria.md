@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T01:42:44.527288+00:00
+Última coleta: 2026-09-30T01:52:44.182734+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1283
-  🇨🇳 China          755
+  🇨🇳 China          756
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  713
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [china] China services growth hits three-month high, private PMI shows
+  - [china] China factory activity hits five-month high in September, private PMI shows
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7351 WEDS VS 6.7411
   - [china] China’s next big export could be $1.5 trln of debt
   - [china] The central bank launches 833.5 billion yuan overnight reverse repurchase operation
   - [china] The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN AUG INDUSTRIAL OUTPUT -1.7% M/M (JULY REVISED TO -0.2% FROM +0.1%); 2ND STRAIGHT FALL; MEDIAN FORECAST +
   - [japan] Japan Aug Inventory-Shipments Ratio +1.7% on Month
   - [japan] Japan Aug Shipments -2.5% on Month
-  - [japan] Japan August factory output falls 1.7% month-on-month
-  - [japan] Nikkei May Rise as Decline in Oil Prices Ease Inflation Fears — Market Talk
-  - [china] China promete reagir caso UE adote medidas que visem comércio chinês
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T01:42:44+00:00",
+      "published_utc": "2026-09-30T01:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
