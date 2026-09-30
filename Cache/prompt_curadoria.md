@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T01:12:44.773044+00:00
+Última coleta: 2026-09-30T01:22:45.835857+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1284
+  🇯🇵 Japão          1283
   🇨🇳 China          754
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  712
+  🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [korea] SK Hynix stuck in cloud consolidation below 50% Fib: Live
   - [japan] Industrial production index for August was 1.7% lower than the previous month
   - [japan] "Yinkya" or "Yinkya"? Which one will be happier: the "introvert" who seeks stability or the "extrovert" who se
   - [korea] South Korea finance minister vows to stabilise bond market
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] AMD CEO Lisa Su Reportedly to Visit South Korea Next Month for Semiconductor Meeting
   - [korea] South Korea Retail Sales Fall Again in August
   - [china] China plans to strengthen surveillance on steel exports
-  - [korea] South Korea Industrial Output Unexpectedly Falls
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T01:12:45+00:00",
+      "published_utc": "2026-09-30T01:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
