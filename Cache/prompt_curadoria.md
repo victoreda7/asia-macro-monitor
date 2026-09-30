@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T03:32:45.543881+00:00
+Última coleta: 2026-09-30T03:42:46.608106+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1270
-  🇨🇳 China          768
+  🇯🇵 Japão          1269
+  🇨🇳 China          769
   🇹🇼 Taiwan         248
   🇰🇷 Coreia do Sul  714
 
@@ -19,6 +19,8 @@ Total: 3000 manchetes
 
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [japan] Yen's Long-Term Trend Has Likely Turned to Appreciation — Market Talk
+  - [china] China’s weak soybean demand dims prospects for US cargoes after tariff snub
   - [china] Yuan set for 7th straight quarterly gain as exporters sell dollars before holiday
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [china] Offshore Yuan Holds Gains
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan industrial production unexpectedly falls in August, retail sales slow
   - [japan] JAPAN AUG RETAIL SALES Y/Y RISE LED BY AUTOS, DEPARTMENT STORES, FOOD/BEVERAGES
   - [japan] JAPAN METI DOWNGRADES ITS VIEW ON RETAIL SALES FOR 1ST TIME SINCE SEPT 2025 REPORT, NOTING S/A 3-MONTH MOVING 
-  - [japan] JAPAN AUG RETAIL SALES -1.2% M/M; JULY +2.1%
-  - [japan] JAPAN METI DOWNGRADES VIEW: RETAIL SALES TAKING ONE STEP FORWARD AND ONE STEP BACK FROM RETAIL SALES ON UPTREN
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T03:32:45+00:00",
+      "published_utc": "2026-09-30T03:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
