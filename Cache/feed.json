@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-09-30T07:02:45.090386+00:00",
- "collected_at_utc": "2026-09-30T07:02:45.090386+00:00",
+ "generated_at_utc": "2026-09-30T07:12:45.677776+00:00",
+ "collected_at_utc": "2026-09-30T07:12:45.677776+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1259,
-  "china": 779,
+  "japan": 1260,
+  "china": 778,
   "taiwan": 247,
   "korea": 715
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T05:30:34+00:00"
+   "newest": "2026-09-30T05:31:14+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 43,
+   "count": 47,
    "error": "",
-   "newest": "2026-09-30T12:12:17+08:00"
+   "newest": "2026-09-30T14:54:29+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-30T06:42:28+00:00"
+   "newest": "2026-09-30T07:06:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-30T06:42:28+00:00"
+   "newest": "2026-09-30T07:06:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T06:51:07+00:00"
+   "newest": "2026-09-30T07:06:41+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T03:59:00+00:00"
+   "newest": "2026-09-30T04:01:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T02:02:57+00:00"
+   "newest": "2026-09-30T06:01:56+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-30T07:00:51+00:00"
+   "newest": "2026-09-30T07:11:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-09-30T15:00:00+09:00"
+   "newest": "2026-09-30T16:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -394,6 +394,42 @@
    "live_wire": false,
    "manual": false,
    "id": "1356cffe30308478"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Tankan Likely to Show Improvement in Manufacturers' Sentiment — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20260930001116:0/",
+   "published_utc": "2026-09-30T07:07:00+00:00",
+   "title_original": "BOJ Tankan Likely to Show Improvement in Manufacturers' Sentiment — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3ac38eab5011fb2e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Japan Housing Starts Rise 6.1% In August",
+   "url": "https://www.tradingview.com/news/dpa_afx:d948163f4972d:0-japan-housing-starts-rise-6-1-in-august/",
+   "published_utc": "2026-09-30T07:04:53+00:00",
+   "title_original": "Japan Housing Starts Rise 6.1% In August",
+   "region": "japan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c665b67c2e2399a2"
   },
   {
    "source_id": "boj_whatsnew",
@@ -721,6 +757,23 @@
    "id": "da41cb4da2901778"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHJwbTJwSzgzVDFaelEyck14dlFhNkF3MXpoQUJ3VEhlcXZ2bXBvMUw1ajdBSV9kQzVNNGY4WEc0TGUxRWVFNDBsSk5DYVdELUdNa2tETERRTW5XanR3WGQ1b0kwQVBzQTRIZUNzcDkxN3Vsdlc5d2xDSDVySlFWTE5CR2pObUZYX0N3MkxoNzhDS0VaWHZJc1ZvejRTZDQzY3AzMURmX3VhVEZ4bnNtYQ?oc=5",
+   "published_utc": "2026-09-30T03:51:00+00:00",
+   "title_original": "Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bd5c69b164b05007"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Yen's Long-Term Trend Has Likely Turned to Appreciation — Market Talk",
@@ -857,23 +910,6 @@
    "live_wire": true,
    "manual": false,
    "id": "575b968fa931ea61"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHJwbTJwSzgzVDFaelEyck14dlFhNkF3MXpoQUJ3VEhlcXZ2bXBvMUw1ajdBSV9kQzVNNGY4WEc0TGUxRWVFNDBsSk5DYVdELUdNa2tETERRTW5XanR3WGQ1b0kwQVBzQTRIZUNzcDkxN3Vsdlc5d2xDSDVySlFWTE5CR2pObUZYX0N3MkxoNzhDS0VaWHZJc1ZvejRTZDQzY3AzMURmX3VhVEZ4bnNtYQ?oc=5",
-   "published_utc": "2026-09-30T02:54:50+00:00",
-   "title_original": "Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bd5c69b164b05007"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1354,42 +1390,6 @@
    "live_wire": true,
    "manual": false,
    "id": "74267044b995efb2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG RETAIL SALES Y/Y RISE SLOWS FROM JULY AS STORMY WEATHER DAMPENS SEASONAL DEMAND FOR CLOTHING, ELECTRONICS INCLUDING AIR CONDITIONERS",
-   "url": "https://www.tradingview.com/news/macenews:00eaf7b42094b:0-japan-aug-retail-sales-y-y-rise-slows-from-july-as-stormy-weather-dampens-seasonal-demand-for-clothing-electronics-including-air-conditioners/",
-   "published_utc": "2026-09-30T00:19:00+00:00",
-   "title_original": "JAPAN AUG RETAIL SALES Y/Y RISE SLOWS FROM JULY AS STORMY WEATHER DAMPENS SEASONAL DEMAND FOR CLOTHING, ELECTRONICS INCLUDING AIR CONDITIONERS",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6422c37621fa2d5b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "China Stimulus Seen Supporting Growth Target, Not Broader Recovery",
-   "url": "https://www.tradingview.com/news/binance_news:1bc8ee0bc094b:0-china-stimulus-seen-supporting-growth-target-not-broader-recovery/",
-   "published_utc": "2026-09-30T00:17:05+00:00",
-   "title_original": "China Stimulus Seen Supporting Growth Target, Not Broader Recovery",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "28bd85370a561c74"
   },
   {
    "source_id": "investing_live",
@@ -8661,23 +8661,6 @@
    "id": "cccd7ecc7e040491"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.cn",
-   "title_en": "The Double Festival is approaching and the central bank will take action! Overnight reverse repurchase reaches a daily maximum of 1 trillion, with new tools taking the lead",
-   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQakVWWEM4bzVjUDFmSGZjelNsZF9uc0hpMXpsaWRySURkSnREMTdMQUQxS2xwRlN4c2NSTjBPVFlPelFIZUhvbG0xQ1R4LUQ4S25vWm54SWt3eXBKa3BjSUpTX2E1VVQzc2l2SVJuQ0c2RHJWMEFpd3RDTU5obnd3ZU1uZkdnNkpfZGRxSWd4X1Z4Vld3ZXFxWkloaGIyZTFCZmJCdGFsUE9FVUFhVE9faXhpdjZ4UEFBWllvZGg4V0wxNmVxT0RLVmxDX2lZLUFxY3R2Nm5Oc05rcXJjbWJzSVJNeEhMaDU0QTlfY1pMaFYycHZrLVg3Zk5jVE0xSmRfMTkyc0sxZUIzaFJ6bDlWX1NPTWVmSmVjbFNUbWtabVQ5TVVNV1FJM0J6N1ZmRlBkTTJiY3RBc0NLQjlfd3c?oc=5",
-   "published_utc": "2026-09-24T11:45:50+00:00",
-   "title_original": "双节将至央行出手！隔夜逆回购每日最高1万亿，新工具挑大梁",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e9ee87ede64369dc"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Himi City Council passes second supplementary budget bill to expand support for heavy rain victims (Kita Nippon Broadcasting)",
@@ -9077,6 +9060,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fb42737475e86022"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.cn",
+   "title_en": "The Double Festival is approaching and the central bank will take action! Overnight reverse repurchase reaches a daily maximum of 1 trillion, with new tools taking the lead",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzRFX3FPNWt6UWx1cHlxMEN1YURHUk52Zld4RFJZb1Izci1zZUYwUWJZbWkzVEJuNUhuZ0hrSy1QQUN2dUExeVkta3VaNnl0bkpaa1pnTU03YWt1eFJpcHVqdHQ0ZmRFeW5ianlaWjFuelBsTTNtdFZ4MTdMSG13aTEzb0Y5bWJKTDhXOHdaOWhvX0VpZW55MTJMY0hZd2hiby1nM2F3?oc=5",
+   "published_utc": "2026-09-24T06:45:07+00:00",
+   "title_original": "双节将至央行出手！隔夜逆回购每日最高1万亿，新工具挑大梁",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eecd24173a647486"
   },
   {
    "source_id": "gn_jp_investing",
