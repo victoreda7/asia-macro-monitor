@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T19:52:46.991043+00:00
+Última coleta: 2026-09-30T20:02:44.815047+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1263
-  🇨🇳 China          780
+  🇨🇳 China          781
   🇹🇼 Taiwan         256
-  🇰🇷 Coreia do Sul  701
+  🇰🇷 Coreia do Sul  700
 
 ## O que já está no feed (não repita)
 
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [china] Brazil Beef Hit With 55% China Tariff After Filling Export Quota
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [taiwan] TSMC's $265 Billion U.S. Expansion May Be Getting Even Bigger
+  - [china] Has the US-China tariff deal eroded Southeast Asia’s edge as a factory hub?
   - [korea] BOK Financial Price Target Cut to $135.00/Share From $148.00 by Wells Fargo
   - [taiwan] TSMC Reportedly Weighs Texas Chip Investment On Top Of $265B Arizona Push
   - [japan] JDI Mobara factory, which is undergoing business restructuring, decided to sell to semiconductor parts manufac
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank: Will launch 1.2 trillion yuan buyout reverse repurchase operation on October 8
   - [japan] I don't think there is a big discrepancy in perception between the Bank of Japan and the economy and prices - 
   - [japan] There has been no foreign exchange intervention in the past month, and the yen continues to appreciate as the 
-  - [japan] Japanese economic panel members emphasise BOJ’s independence
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T19:52:47+00:00",
+      "published_utc": "2026-09-30T20:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
