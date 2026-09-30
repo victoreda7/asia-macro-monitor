@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T17:22:45.730630+00:00
+Última coleta: 2026-09-30T17:32:49.085290+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1262
-  🇨🇳 China          780
-  🇹🇼 Taiwan         254
-  🇰🇷 Coreia do Sul  704
+  🇨🇳 China          781
+  🇹🇼 Taiwan         255
+  🇰🇷 Coreia do Sul  702
 
 ## O que já está no feed (não repita)
 
@@ -40,6 +40,7 @@ Total: 3000 manchetes
   - [japan] Crude oil imports in August Imports from the United States were 12 times higher than in the same month last ye
   - [china] Retail Export Strategies Give Way to Integrated China-ASEAN Supply Chains
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
+  - [china] The central bank takes action! 1.2 trillion buyout reverse repurchase is coming
   - [japan] Prime Minister Takaichi "examines financial scale" in preparation for next year's budget draft
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining Shares
   - [china] China to further boost domestic grain supply as US soybeans excluded from tariff cuts
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] There has been no foreign exchange intervention in the past month, and the yen continues to appreciate as the 
   - [japan] Japanese economic panel members emphasise BOJ’s independence
   - [japan] Respect the Bank of Japan's autonomy, explain economic and fiscal risks and secure confidence - Member of the 
-  - [china] China's Central Bank May Still Prefer Targeted, Low-Profile Credit Easing — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T17:22:45+00:00",
+      "published_utc": "2026-09-30T17:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
