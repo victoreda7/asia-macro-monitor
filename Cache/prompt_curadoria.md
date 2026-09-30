@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T00:32:43.765885+00:00
+Última coleta: 2026-09-30T00:45:14.672309+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1283
-  🇨🇳 China          755
+  🇯🇵 Japão          1284
+  🇨🇳 China          753
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  712
+  🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [korea] South Korea finance minister vows to stabilise bond market
+  - [japan] Japan Industrial Output Declines Again as Middle East Conflict Drags On
   - [japan] Japan Retail Sales Gain 2.7% On Year In August
   - [japan] Japan August factory output unexpectedly falls
   - [japan] JAPAN AUG RETAIL SALES Y/Y RISE SLOWS FROM JULY AS STORMY WEATHER DAMPENS SEASONAL DEMAND FOR CLOTHING, ELECTR
+  - [china] China Stimulus Seen Supporting Growth Target, Not Broader Recovery
   - [japan] Japan Industrial Output Sinks 1.7% In August
+  - [japan] Japan industrial production unexpectedly falls in August, retail sales slow
   - [japan] JAPAN AUG RETAIL SALES Y/Y RISE LED BY AUTOS, DEPARTMENT STORES, FOOD/BEVERAGES
   - [japan] JAPAN METI DOWNGRADES ITS VIEW ON RETAIL SALES FOR 1ST TIME SINCE SEPT 2025 REPORT, NOTING S/A 3-MONTH MOVING 
   - [japan] JAPAN AUG RETAIL SALES -1.2% M/M; JULY +2.1%
@@ -30,6 +34,7 @@ Total: 3000 manchetes
   - [japan] JAPAN AUG FACTORY OUTPUT POSTS 2ND STRAIGHT M/M DROP
   - [japan] MNI JAPAN AUG FACTORY OUTPUT -1.7% M/M; JULY -0.2%
   - [japan] Japan's Industrial Production Fell in August But Expected to Rebound
+  - [japan] ASIA NIGHT SESSION | Nikkei, TAIEX Futures Rebound Overnight on Chip Strength as US Yields Hit 2007 High
   - [japan] JAPAN AUG INDUSTRIAL OUTPUT: 12 OUT OF 15 INDUSTRIES POST FALL, 3 ARE UP
   - [japan] JAPAN METI: AUG INDUSTRIAL OUTPUT M/M DROP LED BY AUTOS, GENERAL MACHINERY, FUELS
   - [japan] JAPAN METI FORECAST INDEX: SEPT INDUSTRIAL OUTPUT +1.6% M/M (ADJUSTED FOR UPWARD BIAS), OCT +3.1%
@@ -46,17 +51,12 @@ Total: 3000 manchetes
   - [japan] Japan Aug Shipments -2.5% on Month
   - [japan] Nikkei May Rise as Decline in Oil Prices Ease Inflation Fears — Market Talk
   - [china] China promete reagir caso UE adote medidas que visem comércio chinês
+  - [korea] AMD CEO Lisa Su Reportedly to Visit South Korea Next Month for Semiconductor Meeting
   - [korea] South Korea Retail Sales Fall Again in August
   - [china] China plans to strengthen surveillance on steel exports
   - [korea] South Korea Industrial Output Unexpectedly Falls
   - [korea] The annual interest burden of the Korea Land and Housing Corporation (LH), which supports the govern..
   - [japan] Tsuyoshi Morioka's reputation has changed from being the ``God of Marketing''...The true nature of his ``abili
-  - [korea] Trump set to unveil $200B South Korean U.S. investment plan
-  - [japan] Three banks in Chiba Prefecture raise interest rates to 0.5% for ordinary deposits in response to Bank of Japa
-  - [japan] Nikkei average could reach 80,000 yen level due to six performance improvement drivers such as AI and semicond
-  - [japan] Behind the scenes of dependence on champion Asahi's "Super Dry"... "Retail store shelves" stolen by cyber dama
-  - [japan] Roland revived from a large deficit through MBO...6 years after relisting, now that the fund that supported th
-  - [korea] SK Hynix Stock Rises While Bernstein Cuts Target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T00:32:44+00:00",
+      "published_utc": "2026-09-30T00:45:14+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
