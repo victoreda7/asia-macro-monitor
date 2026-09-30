@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T14:22:46.502089+00:00
+Última coleta: 2026-09-30T14:32:46.875225+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1264
+  🇯🇵 Japão          1263
   🇨🇳 China          775
-  🇹🇼 Taiwan         254
+  🇹🇼 Taiwan         255
   🇰🇷 Coreia do Sul  707
 
 ## O que já está no feed (não repita)
 
   - [japan] Prime Minister Takaichi held the 13th Economic and Fiscal Council Meeting in 2020
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
+  - [taiwan] TSMC's $265 Billion U.S. Expansion May Be Getting Even Bigger
   - [korea] BOK Financial Price Target Cut to $135.00/Share From $148.00 by Wells Fargo
   - [taiwan] TSMC Reportedly Weighs Texas Chip Investment On Top Of $265B Arizona Push
   - [japan] JDI Mobara factory, which is undergoing business restructuring, decided to sell to semiconductor parts manufac
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Global interest rates are resembling 'Corona tightening'... Will Korea also go up by 3.5% per year?
   - [china] 17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October
   - [china] China enables four new Brazilian plants to export meat
-  - [china] Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a peri
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T14:22:46+00:00",
+      "published_utc": "2026-09-30T14:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
