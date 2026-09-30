@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T04:22:46.026039+00:00
+Última coleta: 2026-09-30T04:32:45.191955+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1262
-  🇨🇳 China          773
-  🇹🇼 Taiwan         250
+  🇨🇳 China          774
+  🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [china] Offshore Yuan Holds Gains
   - [china] China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan
   - [china] China's DeepSeek says it used open-source tools based on Huawei ascend chips
+  - [china] China Warns Broad EU Tariffs Could Disrupt Trade Negotiations
   - [korea] Rupiah gains; Korean won, Philippine peso weaken among mixed Asian FX
   - [china] China's New Mortgage Subsidy Falls Short of Expectations — Market Talk
   - [china] Trade Talks, Rare-Earth Exports Key Near-Term Gauges of U.S.-China Ties — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Industrial Output Declines Again as Middle East Conflict Drags On
   - [japan] Japan Retail Sales Gain 2.7% On Year In August
   - [japan] Japan August factory output unexpectedly falls
-  - [japan] JAPAN AUG RETAIL SALES Y/Y RISE SLOWS FROM JULY AS STORMY WEATHER DAMPENS SEASONAL DEMAND FOR CLOTHING, ELECTR
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T04:22:46+00:00",
+      "published_utc": "2026-09-30T04:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
