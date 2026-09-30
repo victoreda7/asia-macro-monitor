@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T14:52:50.799277+00:00
+Última coleta: 2026-09-30T15:02:50.887805+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1263
-  🇨🇳 China          775
+  🇯🇵 Japão          1262
+  🇨🇳 China          776
   🇹🇼 Taiwan         255
   🇰🇷 Coreia do Sul  707
 
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [china] Cambricon Says Former Exec Raises Equity Incentive Claim To 27.8 Billion Yuan
   - [japan] RDP plans to improve financial situation by downsizing party headquarters and reducing staff
   - [taiwan] TSMC Is Ready to Spend $265 Billion in the U.S. It Could Spend Even More. — Barrons.com
+  - [china] 央行宣布，将开展1.2万亿元买断式逆回购操作
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [china] ACM Research subsidiary reports RMB 17.1B backlog, 88% YoY rise
   - [japan] Private-sector politicians make proposals for economic policy management based on movements in interest rates 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Global interest rates are resembling 'Corona tightening'... Will Korea also go up by 3.5% per year?
   - [china] 17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October
   - [china] China enables four new Brazilian plants to export meat
-  - [china] Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a peri
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T14:52:51+00:00",
+      "published_utc": "2026-09-30T15:02:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
