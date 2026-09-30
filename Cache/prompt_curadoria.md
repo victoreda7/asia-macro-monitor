@@ -7,21 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T09:12:44.605564+00:00
+Última coleta: 2026-09-30T09:22:46.098749+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1261
-  🇨🇳 China          777
-  🇹🇼 Taiwan         246
+  🇯🇵 Japão          1259
+  🇨🇳 China          776
+  🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
+  - [china] Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation
+  - [china] Central Bank: Will launch 1.2 trillion yuan buyout reverse repurchase operation on October 8
+  - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
+  - [taiwan] TSMC evaluates potential Texas investment, sources say
   - [china] China enables four new Brazilian plants to export meat
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [taiwan] Taiwan backs TSMC's US push but insists core R&D stays home
   - [china] China stocks flat, limp to quarterly drop, as stimulus falls short
   - [japan] Nidek 564.6 billion yen deficit, huge loss due to accounting fraud etc.
   - [china] Scottish Mortgage Investment Trust cuts China exposure to 11%
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Tsukishima Holdings Co Ltd - To Buy Back Up To 2.5% Of Own Shares Worth 3 Billion Yen
   - [china] China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More
   - [japan] Regarding the government's denial of reflation and the Bank of Japan's consideration of accelerating the pace 
-  - [japan] Regarding the government's denial of reflation and the Bank of Japan's acceleration of the pace of interest ra
-  - [china] China adds 55% tariff to Brazil beef as imports hit quota
-  - [china] China’s Repo Push Gains Ground as Legal Issues, Low Yields Drag
-  - [china] China Repo Push Advances as Legal Issues, Low Yields Drag
-  - [japan] Japan Housing Starts Rise Less than Estimated
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T09:12:44+00:00",
+      "published_utc": "2026-09-30T09:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
