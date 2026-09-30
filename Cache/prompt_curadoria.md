@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T18:22:50.409256+00:00
+Última coleta: 2026-09-30T18:32:45.239546+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1263
-  🇨🇳 China          781
+  🇯🇵 Japão          1264
+  🇨🇳 China          780
   🇹🇼 Taiwan         255
   🇰🇷 Coreia do Sul  701
 
 ## O que já está no feed (não repita)
 
+  - [japan] Most Japan business leaders want strict 2-year limit on food tax cut: Nikkei poll
   - [japan] United, American Airlines up Japan routes to tap demand fueled by weak yen
   - [china] Central China Real Estate Reaches Agreement With Existing Lenders On Extension Group's Borrowings
   - [japan] Three banks raise variable interest rates on housing loans; all five banks raise fixed interest rates
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] I don't think there is a big discrepancy in perception between the Bank of Japan and the economy and prices - 
   - [japan] There has been no foreign exchange intervention in the past month, and the yen continues to appreciate as the 
   - [japan] Japanese economic panel members emphasise BOJ’s independence
-  - [japan] Respect the Bank of Japan's autonomy, explain economic and fiscal risks and secure confidence - Member of the 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T18:22:50+00:00",
+      "published_utc": "2026-09-30T18:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
