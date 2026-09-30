@@ -7,18 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-29T23:52:44.225122+00:00
+Última coleta: 2026-09-30T00:02:45.717397+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1265
-  🇨🇳 China          761
-  🇹🇼 Taiwan         256
-  🇰🇷 Coreia do Sul  718
+  🇯🇵 Japão          1270
+  🇨🇳 China          760
+  🇹🇼 Taiwan         254
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [japan] JAPAN AUG RETAIL SALES -1.2% M/M (JULY REVISED TO +2.1% FROM +2.4%); MEDIAN FORECAST -0.9% (RANGE: -1.6% TO -0
+  - [korea] Hengan International Says Chair And Executive Director Sze Man Bok Passed Away On Sept 29
+  - [japan] JAPAN AUG RETAIL SALES +2.7% Y/Y (JULY REVISED TO +3.7% FROM +4.0%); 6TH STRAIGHT RISE; MEDIAN FORECAST +2.7% 
+  - [japan] JAPAN METI KEEPS VIEW: INDUSTRIAL OUTPUT TAKING ONE STEP FORWARD AND ONE STEP BACK
+  - [japan] JAPAN AUG INDUSTRIAL OUTPUT +3.4% Y/Y (JULY REVISED TO +3.9% FROM +4.1%), 3RD STRAIGHT RISE; MEDIAN FORECAST +
+  - [japan] JAPAN AUG INDUSTRIAL OUTPUT -1.7% M/M (JULY REVISED TO -0.2% FROM +0.1%); 2ND STRAIGHT FALL; MEDIAN FORECAST +
   - [japan] Japan Aug Inventory-Shipments Ratio +1.7% on Month
   - [japan] Japan Aug Shipments -2.5% on Month
+  - [japan] Japan August factory output falls 1.7% month-on-month
   - [japan] Nikkei May Rise as Decline in Oil Prices Ease Inflation Fears — Market Talk
   - [china] China promete reagir caso UE adote medidas que visem comércio chinês
   - [korea] South Korea Retail Sales Fall Again in August
@@ -48,15 +55,8 @@ Total: 3000 manchetes
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
   - [korea] The Korean financial market is tense due to the sharp rise in US and Japanese government bond yields... Bank o
   - [japan] Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook
+  - [korea] K-defense: A textbook case of transforming weapons self-reliance into global exporter
   - [china] Four arrows fired in unison! After the National Standing Committee set the tone, the central bank launched a n
-  - [china] China launches 'mini stimulus' targeting affordable homes, infrastructure
-  - [japan] Oil giants rush to help Italy's Meloni curb energy costs with fuel price caps
-  - [china] China announces interest rate cuts and mortgage subsidies to boost growth
-  - [china] Libya's High State Council rejects changes to presidential election law as "unconstitutional"-Xinhua
-  - [china] China unveils rate cut, mortgage subsidies to spur growth
-  - [china] What trap? US-China relations show conflict is far from inevitable
-  - [china] China espera que comércio cresça apesar dos desafios externos
-  - [china] KMT, TPP legislators reject all 27 of Lai's Control Yuan nominees
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-29T23:52:44+00:00",
+      "published_utc": "2026-09-30T00:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
