@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T02:32:45.617573+00:00
+Última coleta: 2026-09-30T02:42:44.553758+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1276
-  🇨🇳 China          764
+  🇯🇵 Japão          1275
+  🇨🇳 China          766
   🇹🇼 Taiwan         247
-  🇰🇷 Coreia do Sul  713
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [china] China's DeepSeek says it used open-source tools based on Huawei ascend chips
   - [korea] Rupiah gains; Korean won, Philippine peso weaken among mixed Asian FX
   - [china] China's New Mortgage Subsidy Falls Short of Expectations — Market Talk
   - [china] Trade Talks, Rare-Earth Exports Key Near-Term Gauges of U.S.-China Ties — Market Talk
@@ -55,8 +56,7 @@ Total: 3000 manchetes
   - [japan] MNI JAPAN AUG FACTORY OUTPUT -1.7% M/M; JULY -0.2%
   - [japan] Japan's Industrial Production Fell in August But Expected to Rebound
   - [japan] ASIA NIGHT SESSION | Nikkei, TAIEX Futures Rebound Overnight on Chip Strength as US Yields Hit 2007 High
-  - [japan] JAPAN AUG INDUSTRIAL OUTPUT: 12 OUT OF 15 INDUSTRIES POST FALL, 3 ARE UP
-  - [japan] JAPAN METI: AUG INDUSTRIAL OUTPUT M/M DROP LED BY AUTOS, GENERAL MACHINERY, FUELS
+  - [china] China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T02:32:45+00:00",
+      "published_utc": "2026-09-30T02:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
