@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T10:42:52.284987+00:00
+Última coleta: 2026-09-30T10:52:44.467395+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1266
+  🇯🇵 Japão          1265
   🇨🇳 China          773
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  711
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
@@ -35,6 +35,7 @@ Total: 3000 manchetes
   - [china] Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation
   - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
   - [taiwan] TSMC evaluates potential Texas investment, sources say
+  - [korea] Global interest rates are resembling 'Corona tightening'... Will Korea also go up by 3.5% per year?
   - [china] China enables four new Brazilian plants to export meat
   - [china] Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a peri
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's Mortgage Subsidies Scope Likely Disappoints Market — Market Talk
   - [japan] BOJ Tankan Likely to Show Rise in Corporate Inflation Outlook — Market Talk
   - [japan] Asia stocks gain ahead of U.S. PCE inflation; regional data in focus
-  - [japan] Stock prices rise; concerns about corporate profits ease as crude oil futures prices trend downwards
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T10:42:52+00:00",
+      "published_utc": "2026-09-30T10:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
