@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T23:12:43.967749+00:00
+Última coleta: 2026-09-30T23:22:44.213794+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1270
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan hikes foreign residency fees, tightens rules: 5 things to know
   - [japan] Bank Of Japan Tankan Survey Due On Thursday
   - [japan] Is the accelerating pace of interest rate hikes by the Bank of Japan a contributing factor? Signs of a ``barga
   - [korea] Trump unveils 3 projects under Korea's $200b US investment plan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China to further boost domestic grain supply as US soybeans excluded from tariff cuts
   - [china] China's metal-heavy commodity imports map a messy energy transition: Maguire
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary Factory Right-of-Use Acquisition
-  - [japan] Japan Paused Forex Intervention as Yen Strengthened Modestly — Update
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T23:12:44+00:00",
+      "published_utc": "2026-09-30T23:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
