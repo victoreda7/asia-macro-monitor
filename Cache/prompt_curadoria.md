@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T06:12:43.958901+00:00
+Última coleta: 2026-09-30T06:22:46.174515+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1259
+  🇯🇵 Japão          1260
   🇨🇳 China          777
-  🇹🇼 Taiwan         248
+  🇹🇼 Taiwan         247
   🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
@@ -20,9 +20,11 @@ Total: 3000 manchetes
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [japan] Regarding the government's denial of reflation and the Bank of Japan's acceleration of the pace of interest ra
   - [china] China adds 55% tariff to Brazil beef as imports hit quota
   - [japan] Japan Housing Starts Rise Less than Estimated
   - [japan] Japan Production Likely Supported by AI-Related Capex — Market Talk
+  - [china] China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More
   - [korea] South Korea's Headline Inflation Likely Eased in September, Poll Shows — Market Talk
   - [china] China factory activity grows at fastest pace in 5 months in Sept: RatingDog PMI
   - [china] China stocks flat, limp to quarterly drop, as stimulus falls short
@@ -31,7 +33,6 @@ Total: 3000 manchetes
   - [japan] Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus
   - [china] Standard Chartered does not rule out the possibility of central bank cutting RRR
   - [japan] Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD
-  - [china] China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More
   - [japan] Yen's Long-Term Trend Has Likely Turned to Appreciation — Market Talk
   - [china] China’s weak soybean demand dims prospects for US cargoes after tariff snub
   - [taiwan] Foundry 2.0 revenue hits record as growth spreads beyond TSMC
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China NBS General PMI Rises to 9-Month High
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7351 WEDS VS 6.7411
   - [korea] Samsung Electronics, SK hynix rise as U.S. chip stocks rally
-  - [china] China’s next big export could be $1.5 trln of debt
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T06:12:44+00:00",
+      "published_utc": "2026-09-30T06:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
