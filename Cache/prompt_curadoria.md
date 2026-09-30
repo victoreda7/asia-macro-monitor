@@ -7,23 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T02:02:45.677150+00:00
+Última coleta: 2026-09-30T02:12:44.886322+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1281
-  🇨🇳 China          758
-  🇹🇼 Taiwan         249
+  🇯🇵 Japão          1279
+  🇨🇳 China          762
+  🇹🇼 Taiwan         247
   🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [china] Trade Talks, Rare-Earth Exports Key Near-Term Gauges of U.S.-China Ties — Market Talk
+  - [china] Chinese stocks inch up after Beijing's fresh stimulus but property stocks slide
+  - [china] CHINA PBOC CONDUCTS CNY833.5 BLN VIA O/N REVERSE REPO WEDS
+  - [china] China Manufacturing Growth Hits 5-Month High
   - [china] China services growth hits three-month high, private PMI shows
   - [china] China factory activity hits five-month high in September, private PMI shows
   - [china] China NBS General PMI Rises to 9-Month High
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7351 WEDS VS 6.7411
+  - [korea] Samsung Electronics, SK hynix rise as U.S. chip stocks rally
   - [china] China factory activity returns to growth in Sept, services strengthen - PMI
   - [china] China’s next big export could be $1.5 trln of debt
+  - [taiwan] Grand Pacific Petrochemical, Air Water join forces to expand Taiwan semiconductor materials business
   - [china] The central bank launches 833.5 billion yuan overnight reverse repurchase operation
   - [china] The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out
   - [korea] SK Hynix stuck in cloud consolidation below 50% Fib: Live
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN METI FORECAST INDEX: SEPT INDUSTRIAL OUTPUT +1.6% M/M (ADJUSTED FOR UPWARD BIAS), OCT +3.1%
   - [japan] JAPAN AUG RETAIL SALES -1.2% M/M (JULY REVISED TO +2.1% FROM +2.4%); MEDIAN FORECAST -0.9% (RANGE: -1.6% TO -0
   - [korea] Hengan International Says Chair And Executive Director Sze Man Bok Passed Away On Sept 29
-  - [japan] JAPAN AUG RETAIL SALES +2.7% Y/Y (JULY REVISED TO +3.7% FROM +4.0%); 6TH STRAIGHT RISE; MEDIAN FORECAST +2.7% 
-  - [japan] Japan Retail Sales Growth Below Forecasts
-  - [japan] Japan Industrial Output Unexpectedly Falls
-  - [japan] JAPAN METI KEEPS VIEW: INDUSTRIAL OUTPUT TAKING ONE STEP FORWARD AND ONE STEP BACK
-  - [japan] JAPAN AUG INDUSTRIAL OUTPUT +3.4% Y/Y (JULY REVISED TO +3.9% FROM +4.1%), 3RD STRAIGHT RISE; MEDIAN FORECAST +
-  - [japan] JAPAN AUG INDUSTRIAL OUTPUT -1.7% M/M (JULY REVISED TO -0.2% FROM +0.1%); 2ND STRAIGHT FALL; MEDIAN FORECAST +
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T02:02:45+00:00",
+      "published_utc": "2026-09-30T02:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
