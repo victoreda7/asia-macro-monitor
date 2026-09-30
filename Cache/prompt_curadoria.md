@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T07:12:45.677776+00:00
+Última coleta: 2026-09-30T07:22:59.976675+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1260
-  🇨🇳 China          778
+  🇨🇳 China          777
   🇹🇼 Taiwan         247
-  🇰🇷 Coreia do Sul  715
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [japan] 株価 値上がり 原油先物価格が下落傾向で企業収益の懸念和らぐ
+  - [japan] Japan's August oil imports rise 13.1% y/y - METI
   - [japan] BOJ Tankan Likely to Show Improvement in Manufacturers' Sentiment — Market Talk
+  - [japan] 高市政権の財政運営に「リスクシナリオの分析も必要」 財務省が指摘（朝日新聞）
   - [japan] Japan Housing Starts Rise 6.1% In August
   - [japan] Liquidity Indicators in the JGB Markets (August)
   - [japan] Air Liquide Invests Over EUR 170 Mln To Support Semiconductor Leader Expanding Capabilities In Japan
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China's DeepSeek says it used open-source tools based on Huawei ascend chips
   - [china] China Warns Broad EU Tariffs Could Disrupt Trade Negotiations
   - [korea] Rupiah gains; Korean won, Philippine peso weaken among mixed Asian FX
-  - [china] China's New Mortgage Subsidy Falls Short of Expectations — Market Talk
-  - [china] Trade Talks, Rare-Earth Exports Key Near-Term Gauges of U.S.-China Ties — Market Talk
-  - [taiwan] TSMC reportedly evaluates Texas fabs as US regional competition intensifies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T07:12:45+00:00",
+      "published_utc": "2026-09-30T07:23:00+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
