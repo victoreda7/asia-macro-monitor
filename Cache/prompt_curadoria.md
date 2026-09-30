@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T07:52:48.108552+00:00
+Última coleta: 2026-09-30T08:02:46.994206+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1260
-  🇨🇳 China          778
+  🇨🇳 China          779
   🇹🇼 Taiwan         246
-  🇰🇷 Coreia do Sul  716
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [china] China's Mortgage Subsidies Scope Likely Disappoints Market — Market Talk
   - [japan] BOJ Tankan Likely to Show Rise in Corporate Inflation Outlook — Market Talk
   - [japan] Asia stocks gain ahead of U.S. PCE inflation; regional data in focus
   - [japan] Stock prices rise; concerns about corporate profits ease as crude oil futures prices trend downwards
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China stimulus picks: tech and consumer names tied to new credit flows
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [china] DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia
-  - [china] Offshore Yuan Holds Gains
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T07:52:48+00:00",
+      "published_utc": "2026-09-30T08:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
