@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T20:02:44.815047+00:00
+Última coleta: 2026-09-30T20:12:46.632287+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1263
+  🇯🇵 Japão          1264
   🇨🇳 China          781
   🇹🇼 Taiwan         256
-  🇰🇷 Coreia do Sul  700
+  🇰🇷 Coreia do Sul  699
 
 ## O que já está no feed (não repita)
 
+  - [japan] Outline of consumption tax reduction and income-based benefits bill revealed
   - [japan] Most Japan business leaders want strict 2-year limit on food tax cut: Nikkei poll
   - [japan] United, American Airlines up Japan routes to tap demand fueled by weak yen
   - [china] Central China Real Estate Reaches Agreement With Existing Lenders On Extension Group's Borrowings
   - [japan] Three banks raise variable interest rates on housing loans; all five banks raise fixed interest rates
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [china] Brazil Beef Hit With 55% China Tariff After Filling Export Quota
+  - [korea] Household loans continue to increase despite increases in base and loan interest rates
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [taiwan] TSMC's $265 Billion U.S. Expansion May Be Getting Even Bigger
   - [china] Has the US-China tariff deal eroded Southeast Asia’s edge as a factory hub?
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China Aoyuan Is Close To Finalizing Onshore Debt Restructuring Proposal
   - [taiwan] TSMC weighs Texas investment to expand U.S. chip production: report
   - [china] Central Bank: Will launch 1.2 trillion yuan buyout reverse repurchase operation on October 8
-  - [japan] I don't think there is a big discrepancy in perception between the Bank of Japan and the economy and prices - 
-  - [japan] There has been no foreign exchange intervention in the past month, and the yen continues to appreciate as the 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T20:02:45+00:00",
+      "published_utc": "2026-09-30T20:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
