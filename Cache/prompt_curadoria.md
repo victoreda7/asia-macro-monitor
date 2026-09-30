@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T08:02:46.994206+00:00
+Última coleta: 2026-09-30T08:12:49.865562+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1260
@@ -20,6 +20,8 @@ Total: 3000 manchetes
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [china] China's Latest Stimulus Package Seems Small — Market Talk
+  - [japan] Nidek 25th fiscal year financial results 564.6 billion yen deficit
   - [china] China's Mortgage Subsidies Scope Likely Disappoints Market — Market Talk
   - [japan] BOJ Tankan Likely to Show Rise in Corporate Inflation Outlook — Market Talk
   - [japan] Asia stocks gain ahead of U.S. PCE inflation; regional data in focus
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Foundry 2.0 revenue hits record as growth spreads beyond TSMC
   - [china] Yuan set for 7th straight quarterly gain as exporters sell dollars before holiday
   - [china] China stimulus picks: tech and consumer names tied to new credit flows
-  - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
-  - [china] DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T08:02:47+00:00",
+      "published_utc": "2026-09-30T08:12:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
