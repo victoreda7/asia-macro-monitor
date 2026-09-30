@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T06:52:44.910806+00:00
+Última coleta: 2026-09-30T07:02:45.090386+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1258
-  🇨🇳 China          780
+  🇯🇵 Japão          1259
+  🇨🇳 China          779
   🇹🇼 Taiwan         247
   🇰🇷 Coreia do Sul  715
 
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [japan] Liquidity Indicators in the JGB Markets (August)
   - [japan] Air Liquide Invests Over EUR 170 Mln To Support Semiconductor Leader Expanding Capabilities In Japan
   - [china] Gigasun Subsidiary Signs Agreement For Solar Plant In China
   - [korea] OPmobility To Acquire Hyundai Mobis Lighting Business For KRW 600 Billion
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC reportedly evaluates Texas fabs as US regional competition intensifies
   - [japan] Yen Set for Monthly Advance
   - [china] Chinese stocks inch up after Beijing's fresh stimulus but property stocks slide
-  - [china] CHINA PBOC CONDUCTS CNY833.5 BLN VIA O/N REVERSE REPO WEDS
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T06:52:45+00:00",
+      "published_utc": "2026-09-30T07:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
