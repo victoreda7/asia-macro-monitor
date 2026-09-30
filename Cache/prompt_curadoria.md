@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T13:02:45.747742+00:00
+Última coleta: 2026-09-30T13:12:46.394944+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1264
   🇨🇳 China          775
-  🇹🇼 Taiwan         253
-  🇰🇷 Coreia do Sul  708
+  🇹🇼 Taiwan         254
+  🇰🇷 Coreia do Sul  707
 
 ## O que já está no feed (não repita)
 
   - [japan] Prime Minister Takaichi held the 13th Economic and Fiscal Council Meeting in 2020
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
+  - [taiwan] TSMC Is Ready to Spend $265 Billion in the U.S. It Could Spend Even More. — Barrons.com
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [china] ACM Research subsidiary reports RMB 17.1B backlog, 88% YoY rise
   - [japan] Private-sector politicians make proposals for economic policy management based on movements in interest rates 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China stocks flat, limp to quarterly drop, as stimulus falls short
   - [japan] Nidek has a deficit of 564.6 billion yen due to huge losses due to accounting fraud, etc.
   - [china] Scottish Mortgage Investment Trust cuts China exposure to 11%
-  - [japan] Japan's oil imports rise 13% in August as US supplies surge
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T13:02:45+00:00",
+      "published_utc": "2026-09-30T13:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
