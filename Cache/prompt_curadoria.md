@@ -7,17 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T00:12:44.282187+00:00
+Última coleta: 2026-09-30T00:22:43.906114+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1277
-  🇨🇳 China          757
-  🇹🇼 Taiwan         252
-  🇰🇷 Coreia do Sul  714
+  🇯🇵 Japão          1282
+  🇨🇳 China          754
+  🇹🇼 Taiwan         251
+  🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [japan] Japan August factory output unexpectedly falls
+  - [japan] JAPAN AUG RETAIL SALES Y/Y RISE SLOWS FROM JULY AS STORMY WEATHER DAMPENS SEASONAL DEMAND FOR CLOTHING, ELECTR
+  - [japan] Japan Industrial Output Sinks 1.7% In August
+  - [japan] JAPAN AUG RETAIL SALES Y/Y RISE LED BY AUTOS, DEPARTMENT STORES, FOOD/BEVERAGES
+  - [japan] JAPAN METI DOWNGRADES ITS VIEW ON RETAIL SALES FOR 1ST TIME SINCE SEPT 2025 REPORT, NOTING S/A 3-MONTH MOVING 
+  - [japan] JAPAN AUG RETAIL SALES -1.2% M/M; JULY +2.1%
+  - [japan] JAPAN METI DOWNGRADES VIEW: RETAIL SALES TAKING ONE STEP FORWARD AND ONE STEP BACK FROM RETAIL SALES ON UPTREN
   - [japan] MNI JAPAN AUG RETAIL SALES +2.7% Y/Y; JULY +3.7%
   - [japan] JAPAN AUG FACTORY OUTPUT POSTS 2ND STRAIGHT M/M DROP
   - [japan] MNI JAPAN AUG FACTORY OUTPUT -1.7% M/M; JULY -0.2%
@@ -25,6 +32,7 @@ Total: 3000 manchetes
   - [japan] JAPAN AUG INDUSTRIAL OUTPUT: 12 OUT OF 15 INDUSTRIES POST FALL, 3 ARE UP
   - [japan] JAPAN METI: AUG INDUSTRIAL OUTPUT M/M DROP LED BY AUTOS, GENERAL MACHINERY, FUELS
   - [japan] JAPAN METI FORECAST INDEX: SEPT INDUSTRIAL OUTPUT +1.6% M/M (ADJUSTED FOR UPWARD BIAS), OCT +3.1%
+  - [japan] Japan August factory output falls 1.7% month-on-month
   - [japan] JAPAN AUG RETAIL SALES -1.2% M/M (JULY REVISED TO +2.1% FROM +2.4%); MEDIAN FORECAST -0.9% (RANGE: -1.6% TO -0
   - [korea] Hengan International Says Chair And Executive Director Sze Man Bok Passed Away On Sept 29
   - [japan] JAPAN AUG RETAIL SALES +2.7% Y/Y (JULY REVISED TO +3.7% FROM +4.0%); 6TH STRAIGHT RISE; MEDIAN FORECAST +2.7% 
@@ -35,7 +43,6 @@ Total: 3000 manchetes
   - [japan] JAPAN AUG INDUSTRIAL OUTPUT -1.7% M/M (JULY REVISED TO -0.2% FROM +0.1%); 2ND STRAIGHT FALL; MEDIAN FORECAST +
   - [japan] Japan Aug Inventory-Shipments Ratio +1.7% on Month
   - [japan] Japan Aug Shipments -2.5% on Month
-  - [japan] Japan August factory output falls 1.7% month-on-month
   - [japan] Nikkei May Rise as Decline in Oil Prices Ease Inflation Fears — Market Talk
   - [china] China promete reagir caso UE adote medidas que visem comércio chinês
   - [korea] South Korea Retail Sales Fall Again in August
@@ -46,17 +53,10 @@ Total: 3000 manchetes
   - [korea] Trump set to unveil $200B South Korean U.S. investment plan
   - [japan] Three banks in Chiba Prefecture raise interest rates to 0.5% for ordinary deposits in response to Bank of Japa
   - [japan] Nikkei average could reach 80,000 yen level due to six performance improvement drivers such as AI and semicond
-  - [japan] <Liquor tax will be unified from October> Behind the scenes of dependence on champion Asahi's "Super Dry"... "
+  - [japan] Behind the scenes of dependence on champion Asahi's "Super Dry"... "Retail store shelves" stolen by cyber dama
   - [japan] Roland revived from a large deficit through MBO...6 years after relisting, now that the fund that supported th
   - [korea] SK Hynix Stock Rises While Bernstein Cuts Target
   - [taiwan] Wells Fargo Spots Unexpected Winner in TSMC's 2nm Race
-  - [korea] Appeals court declines to pause sanctions against Trump lawyers in IRS settlement
-  - [japan] Japan to create state investment fund for defense startups, eyeing more drones
-  - [taiwan] The Trump-Xi summit leaves Taiwan in limbo
-  - [korea] Korea launches its own version of popular US fund Roundhill Memory ETF DRAM
-  - [taiwan] TSMC Stock Moves Higher as AI Revival Meets Capacity Risk
-  - [taiwan] TSMC's 2nm Push Could Create a New Winner in the AI Chip Boom
-  - [korea] Samsung Electronics Stock Gains as Helix Draws $1 Billion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T00:12:44+00:00",
+      "published_utc": "2026-09-30T00:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
