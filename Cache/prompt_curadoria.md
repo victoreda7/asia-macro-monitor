@@ -7,19 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T00:02:45.717397+00:00
+Última coleta: 2026-09-30T00:12:44.282187+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1270
-  🇨🇳 China          760
-  🇹🇼 Taiwan         254
-  🇰🇷 Coreia do Sul  716
+  🇯🇵 Japão          1277
+  🇨🇳 China          757
+  🇹🇼 Taiwan         252
+  🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [japan] MNI JAPAN AUG RETAIL SALES +2.7% Y/Y; JULY +3.7%
+  - [japan] JAPAN AUG FACTORY OUTPUT POSTS 2ND STRAIGHT M/M DROP
+  - [japan] MNI JAPAN AUG FACTORY OUTPUT -1.7% M/M; JULY -0.2%
+  - [japan] Japan's Industrial Production Fell in August But Expected to Rebound
+  - [japan] JAPAN AUG INDUSTRIAL OUTPUT: 12 OUT OF 15 INDUSTRIES POST FALL, 3 ARE UP
+  - [japan] JAPAN METI: AUG INDUSTRIAL OUTPUT M/M DROP LED BY AUTOS, GENERAL MACHINERY, FUELS
+  - [japan] JAPAN METI FORECAST INDEX: SEPT INDUSTRIAL OUTPUT +1.6% M/M (ADJUSTED FOR UPWARD BIAS), OCT +3.1%
   - [japan] JAPAN AUG RETAIL SALES -1.2% M/M (JULY REVISED TO +2.1% FROM +2.4%); MEDIAN FORECAST -0.9% (RANGE: -1.6% TO -0
   - [korea] Hengan International Says Chair And Executive Director Sze Man Bok Passed Away On Sept 29
   - [japan] JAPAN AUG RETAIL SALES +2.7% Y/Y (JULY REVISED TO +3.7% FROM +4.0%); 6TH STRAIGHT RISE; MEDIAN FORECAST +2.7% 
+  - [japan] Japan Retail Sales Growth Below Forecasts
+  - [japan] Japan Industrial Output Unexpectedly Falls
   - [japan] JAPAN METI KEEPS VIEW: INDUSTRIAL OUTPUT TAKING ONE STEP FORWARD AND ONE STEP BACK
   - [japan] JAPAN AUG INDUSTRIAL OUTPUT +3.4% Y/Y (JULY REVISED TO +3.9% FROM +4.1%), 3RD STRAIGHT RISE; MEDIAN FORECAST +
   - [japan] JAPAN AUG INDUSTRIAL OUTPUT -1.7% M/M (JULY REVISED TO -0.2% FROM +0.1%); 2ND STRAIGHT FALL; MEDIAN FORECAST +
@@ -47,16 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Stock Moves Higher as AI Revival Meets Capacity Risk
   - [taiwan] TSMC's 2nm Push Could Create a New Winner in the AI Chip Boom
   - [korea] Samsung Electronics Stock Gains as Helix Draws $1 Billion
-  - [japan] Prime Minister Takaichi held a summit meeting with Prime Minister of Mongolia Nyamuosor Otilal
-  - [korea] Korea’s dollar store giant Daiso emerges as real estate player with $355 mn deals
-  - [china] China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI
-  - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarter
-  - [korea] Seoul stocks fall for 2nd day on inflation woes
-  - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Tuesday?
-  - [korea] The Korean financial market is tense due to the sharp rise in US and Japanese government bond yields... Bank o
-  - [japan] Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook
-  - [korea] K-defense: A textbook case of transforming weapons self-reliance into global exporter
-  - [china] Four arrows fired in unison! After the National Standing Committee set the tone, the central bank launched a n
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T00:02:45+00:00",
+      "published_utc": "2026-09-30T00:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
