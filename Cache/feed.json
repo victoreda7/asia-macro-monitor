@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-09-30T11:32:47.543391+00:00",
- "collected_at_utc": "2026-09-30T11:32:47.543391+00:00",
+ "generated_at_utc": "2026-09-30T11:42:51.424036+00:00",
+ "collected_at_utc": "2026-09-30T11:42:51.424036+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1264,
-  "china": 775,
+  "japan": 1265,
+  "china": 774,
   "taiwan": 253,
   "korea": 708
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 50,
+   "count": 55,
    "error": "",
-   "newest": "2026-09-30T17:27:38+08:00"
+   "newest": "2026-09-30T19:25:50+08:00"
   },
   {
    "source_id": "investing_live",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-09-30T19:03:32+09:00"
+   "newest": "2026-09-30T20:40:06+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T07:28:36+00:00"
+   "newest": "2026-09-30T04:33:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-30T11:32:11+00:00"
+   "newest": "2026-09-30T11:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T09:33:31+00:00"
+   "newest": "2026-09-30T06:33:31+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T11:24:00+00:00"
+   "newest": "2026-09-30T11:29:25+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -377,6 +377,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3b58b0e8b14b9c1e"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Crude oil imports in August Imports from the United States were 12 times higher than in the same month last year",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260930de53463",
+   "published_utc": "2026-09-30T11:40:06+00:00",
+   "title_original": "8月の原油輸入 アメリカからの輸入は前年同月比12倍",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "60f4ae85956b9a89"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -744,7 +761,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "한국경제",
+   "source_name": "hankyung.com",
    "title_en": "Global interest rates are resembling 'Corona tightening'... Will Korea also go up by 3.5% per year?",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcmp0RDhESlJPQVFlaE9QTDUyREZ5TXNDMmhCV1hFc0NfOUg4RWJ6NFpQM25LYzRLcExFZ0NPSW9feW5tZ3VmSG1vMVFmcUt1SmRidVoxUmxZdw?oc=5",
    "published_utc": "2026-09-30T09:11:13+00:00",
@@ -3369,8 +3386,8 @@
    "id": "703f925fda4ee45d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
    "published_utc": "2026-09-29T04:23:30+00:00",
@@ -3385,7 +3402,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7abfef93833be46e"
+   "id": "38b4d6c26a1ec51f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3736,7 +3753,7 @@
    "id": "ec6abde39ce13b4f"
   },
   {
-   "source_id": "gn_kr_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "South Korean exports seen rising for 16th month on solid AI chip demand",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPangxT3pzak9jS0tDVDNNYXJGMTZiZTdTM2p6WVNWWlhqRFpMeHFOcWR3SExFVWVJMU4tQWQ1WGx5M2xaamRsc3paWmFkVXJCNFhncGlwQkxMb2pZYmRYNG9faVcyYzZsUDJmLWN5OGF0SjBHM0VzSlRwSVBHZ1pYc2R6Z3hwbmV5cmZyb2FodEVkaGVCbEY2VURiNkp4RFdiQlVFRUpaR1BJOGRJQS1lTFZMekhxb2RVeE5j?oc=5",
@@ -3751,7 +3768,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "fe138add491b31db"
+   "id": "935d75f355e7e264"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -4649,7 +4666,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Auto Subsidy Scheme Unravels, Leaving Consumers and Banks Exposed",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEtQZWp0TWNUU3dhWDBsaUxIV0tZZ21JYk1yaFo1ODZWOEtaX2ZUU3ZzUUM5VDM4eHFzQ29NMlREMEZyeXRQMVRuT2NvN0VIWmZPdkwyM0VLd2Z4NmszaGt5WFplLTlNemRsNEZGdGpMd0FsQ3NjTm9lR2c1bEF0azRJemNoaEplbmdEZFpxSFN5STkzWWFraWpfWDVLLU11eG1jYXQ4Y1FGeEQ0S0NHUGNxMVVQS0NlajRJbmwteVdyZkk?oc=5",
    "published_utc": "2026-09-28T09:43:00+00:00",
@@ -5430,7 +5447,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "OhmyNews",
+   "source_name": "ohmynews.com",
    "title_en": "Meeting of the Big 2 in the economy... Anxiety in the midst of growth, a test bed for fiscal and monetary policy cooperation",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Id1NqYnQ1LWRodS1Da2lSdFFmeWU5SzZMWXJ0OWwwdUc1dW9XTmVGUjRMSE11eXcweWs0OU9wUXA0bHNDcGRCUzU2N0VoQVhEQmI3MDdjazMyTDZUZXZwZVpXb0dYRDkzLTRWMW1fVDItSHdZU2hr?oc=5",
    "published_utc": "2026-09-28T03:41:00+00:00",
@@ -51945,24 +51962,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e74eea1a6ae57e49"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank withdraws a net 469 billion yuan from reverse repurchase on September 1, and the operating interest rate remains at 1.40%",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKUXVabUozTTAtRmJVZF9rcHBsM3REb3lBR1FveDk1b1llYTFZU3RGeWJPemxSOXlVTWZUX1JJTVhrbjZhZjdkckhkRVR3QQ?oc=5",
-   "published_utc": "2026-09-01T03:06:36+00:00",
-   "title_original": "央行9月1日逆回购净回笼4690亿元 操作利率维持1.40%",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "63ed7992e4975571"
   },
   {
    "source_id": "manual_ia",
