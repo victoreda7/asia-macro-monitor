@@ -127,6 +127,16 @@ def fetch_rss(source: dict) -> tuple[list[dict], SourceStatus]:
         err = getattr(__import__("http_util").get_bytes, "last_error", "sem resposta")
         return [], SourceStatus(source["id"], source["name"], False, 0, str(err))
     items = parse_rss(body, cfg.RSS_PER_SOURCE_LIMIT)
+    shift = source.get("pub_shift_hours")
+    if shift:
+        # fonte com relógio errado conhecido (ver asia_config); import local
+        # para não criar dependência circular com filters
+        from datetime import timedelta
+        from filters import parse_dt
+        for it in items:
+            dt = parse_dt(it.get("published"))
+            if dt:
+                it["published"] = (dt + timedelta(hours=shift)).isoformat()
     for it in items:
         it["source_name"] = source["name"]
     ok = bool(items)

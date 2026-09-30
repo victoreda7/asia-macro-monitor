@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
@@ -113,6 +114,23 @@ class TranslationCache:
 
 _ENDPOINT = "https://translate.googleapis.com/translate_a/single"
 
+# Calendários de era. O tradutor não converte 令和８年 (8º ano da era Reiwa =
+# 2026) e às vezes inventa o ano: saiu "Meeting in 2020" em 30/09. Trocar a era
+# pelo ano gregoriano ANTES de traduzir resolve, e de quebra muda a chave do
+# cache, então traduções antigas erradas são refeitas sozinhas.
+_ERAS = {"令和": 2018, "平成": 1988, "昭和": 1925, "民國": 1911, "民国": 1911}
+# "中華民國115年" vira só "2026年": se sobrar o "中華", o tradutor lê "China".
+_ERA_RE = re.compile(r"(?:中[華华](?=民))?(令和|平成|昭和|民國|民国)\s*([0-9０-９]+|元)\s*年")
+_FULLWIDTH = str.maketrans("０１２３４５６７８９", "0123456789")
+
+
+def normalizar_eras(text: str) -> str:
+    def troca(m: re.Match) -> str:
+        n = m.group(2)
+        ano = 1 if n == "元" else int(n.translate(_FULLWIDTH))
+        return f"{_ERAS[m.group(1)] + ano}年"
+    return _ERA_RE.sub(troca, text or "")
+
 
 def _translate_once(text: str, lang: str) -> str | None:
     url = f"{_ENDPOINT}?client=gtx&sl={lang}&tl=en&dt=t&q={quote(text)}"
@@ -142,7 +160,7 @@ def translate_items(items, cache: TranslationCache) -> None:
             it.title_en = it.title_original
             it.translated = False
             continue
-        cached = cache.get(lang, it.title_original)
+        cached = cache.get(lang, normalizar_eras(it.title_original))
         if cached:
             it.title_en = cached
             it.translated = True
@@ -158,9 +176,10 @@ def translate_items(items, cache: TranslationCache) -> None:
         it, lang = job
         with lock:
             time.sleep(cfg.TRANSLATE_PAUSE / max(cfg.TRANSLATE_WORKERS, 1))
-        out = _translate_once(it.title_original, lang)
+        fonte = normalizar_eras(it.title_original)
+        out = _translate_once(fonte, lang)
         if out:
-            cache.put(lang, it.title_original, out)
+            cache.put(lang, fonte, out)
             it.title_en = out
             it.translated = True
         else:

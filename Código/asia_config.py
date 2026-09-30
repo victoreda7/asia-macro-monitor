@@ -127,7 +127,12 @@ RSS_SOURCES = [
     {"id": "boj_whatsnew", "name": "BOJ What's New (EN)", "url": "https://www.boj.or.jp/en/rss/whatsnew.xml",             "scope": "japan"},
     # Site oficial do primeiro-ministro/gabinete. Só em japonês — precisa de
     # domestic_jp para o fallback por kana+dica macro pegar agenda política.
-    {"id": "kantei_jnews", "name": "Kantei 首相官邸",      "url": "https://www.kantei.go.jp/index-jnews.rdf",              "scope": "japan",  "domestic_jp": True},
+    # pub_shift_hours: o RSS do Kantei soma 9 h a mais no pubDate — escreve a
+    # hora de Tóquio já convertida e ainda carimba +0900 (ex.: conselho das
+    # 17:40 JST de 30/09 sai como "01 Oct 02:40 +0900"). Sem o ajuste o item
+    # fica 9 h no futuro e o painel mostra "agora" por horas. Se um dia o
+    # Kantei corrigir o feed, basta apagar este campo.
+    {"id": "kantei_jnews", "name": "Kantei 首相官邸",      "url": "https://www.kantei.go.jp/index-jnews.rdf",              "scope": "japan",  "domestic_jp": True, "pub_shift_hours": -9},
     # Revista de negócios japonesa; bastante ruído de conteúdo não-macro, mas
     # o filtro de tópico/macro_hint já cuida disso.
     {"id": "toyo_keizai",  "name": "東洋経済オンライン",     "url": "https://toyokeizai.net/list/feed/rss",                  "scope": "japan",  "domestic_jp": True},

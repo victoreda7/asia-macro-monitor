@@ -44,6 +44,9 @@ HTML_PATH = ROOT / "Monitor de Notícias Macro.html"
 # assim não pode passar por cima do que já estava bom no disco.
 MIN_FONTES_OK_RATIO = 0.25
 MIN_FONTES_OK_ABS = 3
+# Folga para relógio de servidor adiantado: acima disso a data é considerada
+# errada (fuso trocado na fonte) e o item usa a hora do primeiro encontro.
+FUTURO_TOLERANCIA = timedelta(minutes=15)
 
 
 # ---------------------------------------------------------------------------
@@ -255,6 +258,7 @@ def run_once(include_live: bool = True, explain: bool = False, write: bool = Tru
     newest_by_source: dict[str, datetime] = {}
     seen = SeenCache(SEEN_CACHE)
     now = datetime.now(timezone.utc)
+    datas_futuras = 0
 
     for row, meta in raw:
         title = row.get("title", "")
@@ -284,6 +288,13 @@ def run_once(include_live: bool = True, explain: bool = False, write: bool = Tru
             continue
 
         pub_dt = filters.parse_dt(row.get("published"))
+        if pub_dt is not None and pub_dt > now + FUTURO_TOLERANCIA:
+            # Fonte com fuso errado manda data no futuro, e o painel mostra
+            # "agora" até o relógio alcançá-la (Kantei ficou 9 h assim em
+            # 30/09). Data do futuro não vale: usa o primeiro encontro.
+            datas_futuras += 1
+            examples.setdefault("data-futura", f"{meta['source_id']}: {title[:70]}")
+            pub_dt = None
         if pub_dt is None:
             # Sem data na fonte (RSS 1.0 do Nikkei e afins): trava no
             # primeiro encontro em vez de gerar "agora" de novo a cada run.
@@ -308,6 +319,9 @@ def run_once(include_live: bool = True, explain: bool = False, write: bool = Tru
 
     print(f"→ filtro: {len(kept)} passaram, {sum(rejected.values())} descartados",
           flush=True)
+    if datas_futuras:
+        print(f"  ! {datas_futuras} item(ns) com data no futuro — usei a hora do primeiro "
+              f"encontro (ex.: {examples.get('data-futura','')})", flush=True)
     if explain:
         for reason, n in rejected.most_common():
             print(f"    {reason:<16} {n:>5}   ex.: {examples.get(reason,'')}")
