@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T21:12:46.381124+00:00
+Última coleta: 2026-09-30T21:22:45.285754+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1268
@@ -17,7 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [korea] Trump unveils 3 projects under Korea's US investment plan
+  - [korea] Trump unveils 3 projects under Korea's $200b US investment plan
   - [japan] Mail-order giant Askul's new president Narimatsu, who is in his 40s, says that after overcoming ransomware dam
   - [japan] How is Japan positioned in the context of "strategic stability" between the United States and China? The forme
   - [japan] ``Is there a reason for more than just easing congestion?'' ANA's ``SFC reform'' unexpected ``correction'' Beh
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T21:12:46+00:00",
+      "published_utc": "2026-09-30T21:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
