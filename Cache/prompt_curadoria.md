@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T16:42:45.972803+00:00
+Última coleta: 2026-09-30T16:52:45.918420+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1262
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] Central China Real Estate Reaches Agreement With Existing Lenders On Extension Group's Borrowings
   - [japan] Three banks raise variable interest rates on housing loans; all five banks raise fixed interest rates
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
+  - [china] Brazil Beef Hit With 55% China Tariff After Filling Export Quota
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [taiwan] TSMC's $265 Billion U.S. Expansion May Be Getting Even Bigger
   - [korea] BOK Financial Price Target Cut to $135.00/Share From $148.00 by Wells Fargo
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Respect the Bank of Japan's autonomy, explain economic and fiscal risks and secure confidence - Member of the 
   - [china] China's Central Bank May Still Prefer Targeted, Low-Profile Credit Easing — Market Talk
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minister of Land, Infrast..
-  - [china] Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T16:42:46+00:00",
+      "published_utc": "2026-09-30T16:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
