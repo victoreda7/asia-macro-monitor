@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T05:52:44.361902+00:00
+Última coleta: 2026-09-30T06:02:45.578418+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1259
@@ -30,6 +30,7 @@ Total: 3000 manchetes
   - [japan] Asian currencies mixed as yen rebounds, dollar stays near two-month high
   - [japan] Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus
   - [china] Standard Chartered does not rule out the possibility of central bank cutting RRR
+  - [japan] Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD
   - [china] China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More
   - [japan] Yen's Long-Term Trend Has Likely Turned to Appreciation — Market Talk
   - [china] China’s weak soybean demand dims prospects for US cargoes after tariff snub
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7351 WEDS VS 6.7411
   - [korea] Samsung Electronics, SK hynix rise as U.S. chip stocks rally
   - [china] China’s next big export could be $1.5 trln of debt
-  - [taiwan] Grand Pacific Petrochemical, Air Water join forces to expand Taiwan semiconductor materials business
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T05:52:44+00:00",
+      "published_utc": "2026-09-30T06:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
