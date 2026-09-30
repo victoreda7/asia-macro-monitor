@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T23:42:46.995946+00:00
+Última coleta: 2026-09-30T23:52:43.899831+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1270
-  🇨🇳 China          779
+  🇯🇵 Japão          1271
+  🇨🇳 China          778
   🇹🇼 Taiwan         255
   🇰🇷 Coreia do Sul  696
 
 ## O que já está no feed (não repita)
 
+  - [japan] Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026
+  - [japan] Tankan (Sept.): Summary and Outline
   - [japan] Yen Consolidates Ahead of BOJ Tankan, BOJ's Summary of Opinions — Market Talk
   - [japan] US long-term interest rates temporarily hit the 5.3% level, the highest level in about 19 years
   - [japan] Japan hikes foreign residency fees, tightens rules: 5 things to know
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [china] The central bank takes action! 1.2 trillion buyout reverse repurchase is coming
   - [japan] Prime Minister Takaichi "examines financial scale" in preparation for next year's budget draft
-  - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining Shares
-  - [china] China to further boost domestic grain supply as US soybeans excluded from tariff cuts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T23:42:47+00:00",
+      "published_utc": "2026-09-30T23:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

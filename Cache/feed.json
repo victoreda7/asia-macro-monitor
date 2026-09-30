@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-09-30T23:42:46.995946+00:00",
- "collected_at_utc": "2026-09-30T23:42:46.995946+00:00",
+ "generated_at_utc": "2026-09-30T23:52:43.899831+00:00",
+ "collected_at_utc": "2026-09-30T23:52:43.899831+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1270,
-  "china": 779,
+  "japan": 1271,
+  "china": 778,
   "taiwan": 255,
   "korea": 696
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 49,
+   "count": 51,
    "error": "",
-   "newest": "2026-09-30T17:00:00+09:00"
+   "newest": "2026-10-01T08:50:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T05:30:34+00:00"
+   "newest": "2026-09-30T05:31:14+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T17:07:46+00:00"
+   "newest": "2026-09-30T23:10:24+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T22:14:30+00:00"
+   "newest": "2026-09-30T23:10:24+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T12:51:52+00:00"
+   "newest": "2026-09-30T15:48:07+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T22:34:12+00:00"
+   "newest": "2026-09-30T23:46:06+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
+   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
+   "published_utc": "2026-09-30T23:50:00+00:00",
+   "title_original": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1e9bd8a57c0b32eb"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Tankan (Sept.): Summary and Outline",
+   "url": "http://www.boj.or.jp/en/statistics/tk/tankan09a.htm",
+   "published_utc": "2026-09-30T23:50:00+00:00",
+   "title_original": "Tankan (Sept.): Summary and Outline",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0fc13cf506e278be"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -502,8 +537,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:38+00:00",
@@ -517,7 +552,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "75b4c762a9b099d0"
+   "id": "1a1839a5fb285df0"
   },
   {
    "source_id": "nikkei_asia",
@@ -865,8 +900,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -881,7 +916,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "950b84d1e9e45198"
+   "id": "2711875b41f47be4"
   },
   {
    "source_id": "tradingview_live",
@@ -901,8 +936,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -915,7 +950,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5af5981dfcf348d4"
+   "id": "c6a7c990cb0818fa"
   },
   {
    "source_id": "nhk_economy",
@@ -3905,8 +3940,8 @@
    "id": "703f925fda4ee45d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
    "published_utc": "2026-09-29T04:23:30+00:00",
@@ -3921,7 +3956,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "38b4d6c26a1ec51f"
+   "id": "7abfef93833be46e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4495,7 +4530,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "kbthink.com",
+   "source_name": "KB Think",
    "title_en": "Semiconductors are booming, so why are they hesitating to raise additional prices? The key is ‘domestic demand’",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zUnh0N05fSDMybDZ5VWVtYWxTRTNJSEM1UHhvOHE1M2UzVXAzT3BsZUJsOU1PdlN3amd6NXdhMXRXM2lpdzlrWWc0aHhDcDRFeFhqcEdQNHFZUFFQVXdpTEVtMDNBeEtyWm5DTXN0VjFqUQ?oc=5",
    "published_utc": "2026-09-28T23:18:33+00:00",
@@ -6159,7 +6194,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "newspim.com",
+   "source_name": "뉴스핌",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -10771,7 +10806,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新华网",
+   "source_name": "hn.news.cn",
    "title_en": "The central bank will carry out overnight reverse repurchase operations",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ld2s3OGFjMUJxLU5HOGdCUnNtTVZJbTIyOVBSb1ZnbFZ2VnVMVUZ2eVNURTJSTVk5Vkotb3JQRjdaaVZuMl9JeUFtTnhSQkE2QUxRYlp2RTROb2V6VjlZelhyV3VWby1JSGsxNXI4T3VSbmhvN2V1eUJSZw?oc=5",
    "published_utc": "2026-09-24T01:28:40+00:00",
@@ -51930,40 +51965,6 @@
    "live_wire": false,
    "manual": false,
    "id": "14da83efca2dddf3"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Caixin Explains: How China’s New Housing Rules Rewrite Property Financing",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaXplWGhjWE1rcUs2anVuNGtqaXJTa3o0TzBhTnlEYXdENEpMZ29UNjE4YnlHZjAxYkwyTzBETjVZZS1PMGxxUjVja0gwbEpieGtva2NybnNuYnV5Y3dSUGE4cHZZLXNRRG1BVzJ1V3B5d2FDOTdFcVlPV3hmOVB1b3BPenFVak5SeHBXeG1ZTmtScE1IRFNkNzdjcFR4NjlYcjNlSHdScDU0SW1uYUJJVVpyOWducDZzb2I2SXlsYTQxZ3Zl?oc=5",
-   "published_utc": "2026-09-01T07:00:00+00:00",
-   "title_original": "Caixin Explains: How China’s New Housing Rules Rewrite Property Financing",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "61ac725cacf20833"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "BOJ chief signals chance of September rate hike, debate on price risks",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWUxd0t2ZFAyQy10SlowSmZwczhNZjRXZTkzdk1RV0dWU3lvX0NONU40ak5KT2NudEdwNU1qR2ZXSHdRX0tRcHk0MF8yci0xaWhQbVZTZ3lTdHYzQ2lFOUlWaTlvLWo0VkhMaHotalJBLVV2aGFlUm1ESUJKWGxoVC10a0FJRk9mLUJDbHM5Nm9yaEpkYnRJLVNmaEtjUWg1Q0VsU1duRkVWMWxuRm5LWQ?oc=5",
-   "published_utc": "2026-09-01T07:00:00+00:00",
-   "title_original": "BOJ chief signals chance of September rate hike, debate on price risks",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "765c947470ccf0b6"
   },
   {
    "source_id": "manual_ia",
