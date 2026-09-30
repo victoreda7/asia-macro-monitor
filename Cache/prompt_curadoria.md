@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T03:12:44.908940+00:00
+Última coleta: 2026-09-30T03:25:54.879680+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1271
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [china] Offshore Yuan Holds Gains
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN METI DOWNGRADES VIEW: RETAIL SALES TAKING ONE STEP FORWARD AND ONE STEP BACK FROM RETAIL SALES ON UPTREN
   - [japan] MNI JAPAN AUG RETAIL SALES +2.7% Y/Y; JULY +3.7%
   - [japan] JAPAN AUG FACTORY OUTPUT POSTS 2ND STRAIGHT M/M DROP
-  - [japan] MNI JAPAN AUG FACTORY OUTPUT -1.7% M/M; JULY -0.2%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T03:12:45+00:00",
+      "published_utc": "2026-09-30T03:25:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
