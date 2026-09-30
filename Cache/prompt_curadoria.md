@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T04:43:22.256354+00:00
+Última coleta: 2026-09-30T04:52:44.386091+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1263
@@ -19,10 +19,11 @@ Total: 3000 manchetes
 
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [china] China adds 55% tariff to Brazil beef imports
   - [japan] Japan's industrial output drops 1.7% M/M in August; retail sales rise 2.7% Y/Y
   - [japan] Asian currencies mixed as yen rebounds, dollar stays near two-month high
-  - [china] China adds 55% tariff to Brazil beef imports
   - [china] Standard Chartered does not rule out the possibility of central bank cutting RRR
+  - [china] China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More
   - [japan] Yen's Long-Term Trend Has Likely Turned to Appreciation — Market Talk
   - [china] China’s weak soybean demand dims prospects for US cargoes after tariff snub
   - [taiwan] Foundry 2.0 revenue hits record as growth spreads beyond TSMC
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Industrial production index for August was 1.7% lower than the previous month
   - [japan] "Yinkya" or "Yinkya"? Which one will be happier: the "introvert" who seeks stability or the "extrovert" who se
   - [korea] South Korea finance minister vows to stabilise bond market
-  - [japan] Japan Industrial Output Declines Again as Middle East Conflict Drags On
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T04:43:22+00:00",
+      "published_utc": "2026-09-30T04:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
