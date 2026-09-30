@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T12:12:48.253388+00:00
+Última coleta: 2026-09-30T12:22:45.274121+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1265
-  🇨🇳 China          774
+  🇯🇵 Japão          1264
+  🇨🇳 China          775
   🇹🇼 Taiwan         253
   🇰🇷 Coreia do Sul  708
 
@@ -20,6 +20,8 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi held the 13th Economic and Fiscal Council Meeting in 2020
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
+  - [china] ACM Research subsidiary reports RMB 17.1B backlog, 88% YoY rise
+  - [japan] Private-sector politicians make proposals for economic policy management based on movements in interest rates 
   - [china] China’s next big export could be $1.5 trln of debt
   - [japan] Discussions begin at the Fiscal System Council for next year's budget formulation
   - [japan] Crude oil imports in August Imports from the United States were 12 times higher than in the same month last ye
@@ -29,8 +31,8 @@ Total: 3000 manchetes
   - [china] China's metal-heavy commodity imports map a messy energy transition: Maguire
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary Factory Right-of-Use Acquisition
   - [japan] Japan Paused Forex Intervention as Yen Strengthened Modestly — Update
-  - [japan] Hyperscale Data Secures $22.58 Million Notes, Extends JGB Loan Maturity to 2027
   - [japan] Japan economic panel members underline BOJ independence By Reuters
+  - [japan] Hyperscale Data Secures $22.58 Million Notes, Extends JGB Loan Maturity to 2027
   - [japan] Japan Paused Forex Intervention as Yen Strengthened Modestly
   - [china] China Aoyuan Is Close To Finalizing Onshore Debt Restructuring Proposal
   - [taiwan] TSMC weighs Texas investment to expand U.S. chip production: report
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Nidek has a deficit of 564.6 billion yen due to huge losses due to accounting fraud, etc.
   - [china] Scottish Mortgage Investment Trust cuts China exposure to 11%
   - [japan] Japan's oil imports rise 13% in August as US supplies surge
-  - [china] China applies 55% tariff to Brazilian beef after reaching import quota
-  - [korea] While Samsung Electronics and SK Hynix are completing large-scale treasury stock purchases, other li..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T12:12:48+00:00",
+      "published_utc": "2026-09-30T12:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
