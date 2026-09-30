@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T16:02:53.673601+00:00
+Última coleta: 2026-09-30T16:12:46.364639+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1261
@@ -18,7 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [china] Central China Real Estate Reaches Agreement With Existing Lenders On Extension Group's Borrowings
-  - [japan] 住宅ローン 3行が変動金利引き上げ 固定金利は5行とも
+  - [japan] Three banks raise variable interest rates on housing loans; all five banks raise fixed interest rates
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
   - [taiwan] TSMC's $265 Billion U.S. Expansion May Be Getting Even Bigger
@@ -28,7 +28,7 @@ Total: 3000 manchetes
   - [china] Cambricon Says Former Exec Raises Equity Incentive Claim To 27.8 Billion Yuan
   - [japan] RDP plans to improve financial situation by downsizing party headquarters and reducing staff
   - [taiwan] TSMC Is Ready to Spend $265 Billion in the U.S. It Could Spend Even More. — Barrons.com
-  - [china] 央行宣布，将开展1.2万亿元买断式逆回购操作
+  - [china] The central bank announced that it will carry out a 1.2 trillion yuan buyout reverse repurchase operation
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [china] ACM Research subsidiary reports RMB 17.1B backlog, 88% YoY rise
   - [japan] Private-sector politicians make proposals for economic policy management based on movements in interest rates 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T16:02:53+00:00",
+      "published_utc": "2026-09-30T16:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
