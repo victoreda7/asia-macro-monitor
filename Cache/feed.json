@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-09-30T04:52:44.386091+00:00",
- "collected_at_utc": "2026-09-30T04:52:44.386091+00:00",
+ "generated_at_utc": "2026-09-30T05:02:52.843957+00:00",
+ "collected_at_utc": "2026-09-30T05:02:52.843957+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1263,
-  "china": 774,
-  "taiwan": 249,
-  "korea": 714
+  "japan": 1261,
+  "china": 776,
+  "taiwan": 248,
+  "korea": 715
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-29T22:05:00+00:00"
+   "newest": "2026-09-29T23:32:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-29T19:29:09+00:00"
+   "newest": "2026-09-29T21:03:51+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-30T04:41:00+00:00"
+   "newest": "2026-09-30T05:01:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-09-30T13:30:00+09:00"
+   "newest": "2026-09-30T14:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -377,6 +377,40 @@
    "live_wire": false,
    "manual": false,
    "id": "1356cffe30308478"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korea's Headline Inflation Likely Eased in September, Poll Shows — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20260930000156:0/",
+   "published_utc": "2026-09-30T05:01:00+00:00",
+   "title_original": "South Korea's Headline Inflation Likely Eased in September, Poll Shows — Market Talk",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a9231899f00a8bd3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China stocks flat, limp to quarterly drop, as stimulus falls short",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45M01M:0-china-stocks-flat-limp-to-quarterly-drop-as-stimulus-falls-short/",
+   "published_utc": "2026-09-30T04:46:49+00:00",
+   "title_original": "China stocks flat, limp to quarterly drop, as stimulus falls short",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3a76565a13ff64a8"
   },
   {
    "source_id": "investing_live",
@@ -1237,40 +1271,6 @@
    "id": "e8e687c17b79ad38"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "JAPAN AUG FACTORY OUTPUT POSTS 2ND STRAIGHT M/M DROP",
-   "url": "https://www.tradingview.com/news/dpa_afx:330c5d1d43797:0-japan-aug-factory-output-posts-2nd-straight-m-m-drop/",
-   "published_utc": "2026-09-30T00:10:48+00:00",
-   "title_original": "JAPAN AUG FACTORY OUTPUT POSTS 2ND STRAIGHT M/M DROP",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f4678bd8a728d462"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "MNI JAPAN AUG FACTORY OUTPUT -1.7% M/M; JULY -0.2%",
-   "url": "https://www.tradingview.com/news/dpa_afx:fdca519e737f3:0-mni-japan-aug-factory-output-1-7-m-m-july-0-2/",
-   "published_utc": "2026-09-30T00:08:07+00:00",
-   "title_original": "MNI JAPAN AUG FACTORY OUTPUT -1.7% M/M; JULY -0.2%",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "218c55b0f5c93c88"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "South Korea Tax Revenue to Hit Fresh Record on Global Chip Boom",
@@ -1921,7 +1921,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarters",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWm80akZhQ3RNeEZZa3RsRTdXSWk2Q3o2V2RTSGl2NmRJcTZYRXZkMFBjb3JBX0Y5VzN2LTBTSW1FZHRqdzdmWVdwQ0plLU1vVER5ZTRVblZNNFlzTmhIMExkYWk2alRaZTNLUTVfdy1VOFhJVGYzaXZfSkx6ZTliOHVfMlk3WjVKelVMeEdFLW1CTFd4WHVZSw?oc=5",
    "published_utc": "2026-09-29T16:07:30+00:00",
@@ -2673,7 +2673,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVNfSzV5azFFMnhubTBnaDY2MjZWVGRaQUlHNDlRU3dVM2R4UHFsN0JNVElxV09WVUJ0LWs2aWcxNUI3aGh4QUVwWlZqMUowNXo3eEZqdlJ6YldhVjJnUW5PV2tIYW9qTnpkN1lKd3FkMzUyN1U3d0sxUXJ6SXlDTVlnM2JMZVRyM0tTVmtTTW12V1Z6eF9WZ1Zmbjk4VmFRaVlMeUJFdE45YmYyUVB2ZUl1eGVzRjNLVUhlcHlEQ3RZYlVZNTl4Z1RCRjlOR3Zab1HSAdIBQVVfeXFMTUc4ZUptZUpqOW92SDNDYjNTb0NXTi03aTR4N1lEUkpFRVlUMk00OEZyemM4b3hwSG1FSkZBZGY4TUZxM2s1SlAzUkkwYjI0V2dJVm1sdEVMekJ4TGZnM3lhRXZqYS05N1EyN2I1VWRtT2w4Zi0zQVJFaWg2MTB2NUxJSDVhejl4VkNfUEZtMm5vckxmdTRYOGFhX3VMZlNSM2JKa0VaLV92T3Y2ODl0RXlvajZuaU45UHZLUUUyNHpwODYzSWlWX2pBc2VCc2pmaTNB?oc=5",
    "published_utc": "2026-09-29T05:20:17+00:00",
@@ -2894,6 +2894,25 @@
    "live_wire": false,
    "manual": false,
    "id": "348d39e2c506b0c5"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "第一财经",
+   "title_en": "Monetary policy, credit, offshore RMB...the central bank's press conference responded to the top ten hot topics!",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkkzMEFZemMyVTFhX2F3aTUzbWNMbGItdmJxb252MHdBeVRoLUJzMDRmc1k4V0dNc1lBRFhJUkZET3VVUTdmOFZxSHk3LTBHdXRB?oc=5",
+   "published_utc": "2026-09-29T02:38:34+00:00",
+   "title_original": "货币政策、信贷、离岸人民币…央行发布会回应十大热点！",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "112d1581fbcec277"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3587,7 +3606,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "The 14-day reverse repurchase restarted, and the central bank’s open market operations invested a total of 1.1 trillion yuan in one day",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJZWVKU1AtTG42RXZ4MHRkd1pGbTNzRGtIYjNWb2VjaEJJUWlxc283bmtMS29WRWhjMF9wZWZURGxYV0N5YU5HT0hJRlduSVV4NDdqMkNOeWpKbHp3dW9MaXc4VWdxR1VwTjJJMWJiNXBnTEcyeDdNMQ?oc=5",
    "published_utc": "2026-09-28T16:57:57+00:00",
@@ -3742,7 +3761,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rVmZqeDhPX2dVYTNhNGhncnI1RUs0NXhFMDNlQkFCZ3MyYkJsdkNPcUl0WDdTQmpYSElFcHFYRVhhSmROVnpfQWQ5SUJxTE5PblFxNE1SN0k4SjFkWkJaV0RhSk90YjN3QlM5YVFrTFdvU3lRY1FZdjZ0LXI?oc=5",
    "published_utc": "2026-09-28T13:10:00+00:00",
@@ -4366,7 +4385,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "스트레이트뉴스",
+   "source_name": "straightnews.co.kr",
    "title_en": "Will continuous increases in base interest rates put a burden on the profitability of savings banks?",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lRUdYWDRuTHpqaGZ4RUtYYnBCTVZYTlZETDJ4VkdVeU0xck5vM2hpOVh6ZlNZNnNyWWFheXJmc3Ewc3lLTGdOdThvT1VfNkhLWnpQWDI3ZUFmNmxiZmRlb1h0aVFEVnRnS1ZHVHpkemZXZTR3TlBr0gF3QVVfeXFMT2VFR1hYNG5MempoZnhFS1hicEJNVlhOVkRMMnhWR1V5TTFyTm8zaGk5WHpmU1k2c3JZYWF5cmZzcTBzeUtMZ051OG9PVV82SEtaelBYMjdlQWY2bGJmZGVvWHRpUURWdGdLVkdUemR6ZldlNHdOUGs?oc=5",
    "published_utc": "2026-09-28T06:49:05+00:00",
@@ -4975,7 +4994,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "파이낸셜포스트",
+   "source_name": "financialpost.co.kr",
    "title_en": "First meeting between Deputy Prime Minister Lee Hyung-il and Governor Shin Hyun-song... \"Strengthening economic and monetary policy communication\"",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pbmx6ZHpRTWRFZjFaTnVMbTNHbjI3NVpXcmZUMGNNaFBTR1hUa1pPelBoYU9ZQU13WFFOWmlEZFVLalNoWjVpR0N1NHJ5VFIzSVFVbTdkODAxRTFyRTNSOFI1NXkzTGljTjdRZWFlYmNWQUFC?oc=5",
    "published_utc": "2026-09-28T02:43:05+00:00",
@@ -6310,7 +6329,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China, U.S. reach consensus on eight outcomes in Xi's visit",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4SXVvQTFCY04wbS1kYzU1bGJsbXFPQ3h0UXFxMjV0ZkpWdnVZXzlvUlBhVDF4YnRSUW9PN1c0akV0UmtoeWZIdTc4X3lNVmdmd2lJd1JrQXJYNGhkVW50STRDSzIwZGlXQUdITGtfckhpLWJucjduUm95MUY?oc=5",
    "published_utc": "2026-09-26T10:50:00+00:00",
@@ -8712,7 +8731,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新京报",
+   "source_name": "bjnews.com.cn",
    "title_en": "Big move before the holiday! What signal does the central bank launch an 800 billion yuan MLF operation?",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53YWxZel9VSDF0X2RBSGJBOWQtREpCM1Rrb0xfb2Fid29felpyTEhHYnlYeFJPRWROX3ZjVzJmSG42SW1SaTFKSmctTkJHemZ0UFVTUnc2Vk42N1NtRXJyM01HNjc?oc=5",
    "published_utc": "2026-09-24T08:18:00+00:00",
@@ -14781,7 +14800,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China's State Council appoints, removes officials",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTmlyOHpLQ0syMGZkV2FEeVp1b0JfOGhQbVR1TURQeFd5Q1ZDejRQNHkzcy1lWkhBb2hoZ1BJd2R0alI3MXpkVWtjTEhhTXloRTZYRV9MVDJVOXlXUWJmOXl4NC0xOXRFLXFkelRWYlZnMUVkNkM0b0x3OXY?oc=5",
    "published_utc": "2026-09-20T11:40:16+00:00",
@@ -16950,7 +16969,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
    "published_utc": "2026-09-18T15:43:15+00:00",
@@ -17211,7 +17230,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
+   "source_name": "focustaiwan.tw",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T11:36:00+00:00",
@@ -18149,23 +18168,6 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: 2 BOJ rate hike dissenters said domestic demand remains weak: Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Fd1M5MElpcTVTckQ3cEFtdmVPbVFwR2VMTzRYd3FrMDAzaXE2VGlFSDUtOHZTel9Sd1FZNG9WSHdacHJNekRNbndNendoMGpTV1lIdHFRM3pUUQ?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: 2 BOJ rate hike dissenters said domestic demand remains weak: Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0d20705262af38ac"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Higher-than-usual rate hike possible depending on prices: BOJ Ueda",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MNmRlaDJ3QXI5bjNoMzlrLTFreWIwUHMxQXRwQWphZ1VQYmxTa1g4eV8ta1IxdnNjQkV3MlRzak44ZXFBZDZfMG1ZUHV0VnBNcWpNVEs2QkRjUQ?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -18179,6 +18181,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1af7557dc6d93615"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: 2 BOJ rate hike dissenters said domestic demand remains weak: Ueda",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Fd1M5MElpcTVTckQ3cEFtdmVPbVFwR2VMTzRYd3FrMDAzaXE2VGlFSDUtOHZTel9Sd1FZNG9WSHdacHJNekRNbndNendoMGpTV1lIdHFRM3pUUQ?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: 2 BOJ rate hike dissenters said domestic demand remains weak: Ueda",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0d20705262af38ac"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -26679,7 +26698,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nbk5KVkVjWHdKclpEMXZHd05LUnVvZkg2ZThPZ3lYeVRhd0RxVGJkSVdqb1Q0NjUyWjdXc2VTemFsOTBrb0ppZ2dud2ZhYlFsTVZOQ0NyblN6X1Z1N2wtakdzMFI1emJ6LVIyQWNYZEhycDNGeEo2QXBOWnY?oc=5",
    "published_utc": "2026-09-14T12:35:00+00:00",
@@ -27322,7 +27341,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Xinhua News | China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93T0V0SG82MDNSd0djbmNKbkxmS0pMckRVYlo0YXUwdDB2eUdrdGVTQmZYZzBuRHppWGd5UlN4cmJIWXZWWmJXMHkyRkhmV0VCNUJ2WTlzblNYNTJseFhRN3hMS3UycDBMN1VMQzdFajFId0VQX2NjUUNxNlU?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -51946,23 +51965,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9db77cff50082f34"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Rising Packaging Complexity Elevates Glass in Semiconductor Manufacturing",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckU1bUxOUHdJbU0tblV6TU1sNzdjaTJEWVp1d1lyS2I4eWdMa2RQMlBPNi1kNUJZZUZoSmI3bGZ1UWU0QkxwaEZ5aHBDSnZlLU5TbXZzY1dzdWVNcU5sME1QS3IzVUhyeGVKRXpidXlHQVFSTlAtYlZFLUFfa3FRdzU2QUo1YndsdGYzeHc2LXU0QQ?oc=5",
-   "published_utc": "2026-09-01T00:00:00+00:00",
-   "title_original": "Rising Packaging Complexity Elevates Glass in Semiconductor Manufacturing",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "75393feff2991953"
   },
   {
    "source_id": "manual_ia",

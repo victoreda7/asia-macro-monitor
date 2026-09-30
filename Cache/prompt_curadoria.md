@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T04:52:44.386091+00:00
+Última coleta: 2026-09-30T05:02:52.843957+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1263
-  🇨🇳 China          774
-  🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  714
+  🇯🇵 Japão          1261
+  🇨🇳 China          776
+  🇹🇼 Taiwan         248
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
   - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
   - [korea] Industrial output, retail sales, facility investment down in Aug.
+  - [korea] South Korea's Headline Inflation Likely Eased in September, Poll Shows — Market Talk
+  - [china] China stocks flat, limp to quarterly drop, as stimulus falls short
   - [china] China adds 55% tariff to Brazil beef imports
   - [japan] Japan's industrial output drops 1.7% M/M in August; retail sales rise 2.7% Y/Y
   - [japan] Asian currencies mixed as yen rebounds, dollar stays near two-month high
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out
   - [korea] SK Hynix stuck in cloud consolidation below 50% Fib: Live
   - [japan] Industrial production index for August was 1.7% lower than the previous month
-  - [japan] "Yinkya" or "Yinkya"? Which one will be happier: the "introvert" who seeks stability or the "extrovert" who se
-  - [korea] South Korea finance minister vows to stabilise bond market
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T04:52:44+00:00",
+      "published_utc": "2026-09-30T05:02:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
