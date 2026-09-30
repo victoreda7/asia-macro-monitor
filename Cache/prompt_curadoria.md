@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T02:18:58.092576+00:00
+Última coleta: 2026-09-30T02:22:44.303561+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1278
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [korea] Industrial output, retail sales, facility investment down in Aug.
   - [china] Trade Talks, Rare-Earth Exports Key Near-Term Gauges of U.S.-China Ties — Market Talk
+  - [japan] Yen Set for Monthly Advance
   - [china] Chinese stocks inch up after Beijing's fresh stimulus but property stocks slide
   - [china] CHINA PBOC CONDUCTS CNY833.5 BLN VIA O/N REVERSE REPO WEDS
   - [china] China factory activity grows at fastest pace in 5 months in Sept: RatingDog PMI
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN METI: AUG INDUSTRIAL OUTPUT M/M DROP LED BY AUTOS, GENERAL MACHINERY, FUELS
   - [japan] JAPAN METI FORECAST INDEX: SEPT INDUSTRIAL OUTPUT +1.6% M/M (ADJUSTED FOR UPWARD BIAS), OCT +3.1%
   - [japan] JAPAN AUG RETAIL SALES -1.2% M/M (JULY REVISED TO +2.1% FROM +2.4%); MEDIAN FORECAST -0.9% (RANGE: -1.6% TO -0
-  - [korea] Hengan International Says Chair And Executive Director Sze Man Bok Passed Away On Sept 29
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T02:18:58+00:00",
+      "published_utc": "2026-09-30T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
