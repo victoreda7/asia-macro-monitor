@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T23:32:44.563671+00:00
+Última coleta: 2026-09-30T23:42:46.995946+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1270
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Consolidates Ahead of BOJ Tankan, BOJ's Summary of Opinions — Market Talk
+  - [japan] US long-term interest rates temporarily hit the 5.3% level, the highest level in about 19 years
   - [japan] Japan hikes foreign residency fees, tightens rules: 5 things to know
   - [japan] Bank Of Japan Tankan Survey Due On Thursday
   - [japan] Is the accelerating pace of interest rate hikes by the Bank of Japan a contributing factor? Signs of a ``barga
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi "examines financial scale" in preparation for next year's budget draft
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining Shares
   - [china] China to further boost domestic grain supply as US soybeans excluded from tariff cuts
-  - [china] China's metal-heavy commodity imports map a messy energy transition: Maguire
-  - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary Factory Right-of-Use Acquisition
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T23:32:44+00:00",
+      "published_utc": "2026-09-30T23:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
