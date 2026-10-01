@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T03:12:45.609784+00:00
+Última coleta: 2026-10-01T03:22:44.238479+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1287
-  🇨🇳 China          761
+  🇯🇵 Japão          1286
+  🇨🇳 China          762
   🇹🇼 Taiwan         258
   🇰🇷 Coreia do Sul  694
 
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [japan] Stock prices rise significantly Buy orders for AI/semiconductor related stocks
   - [china] Yuan Appreciation Intact but U.S.-China Rate Gap to Cap Pace — Market Talk
   - [japan] BOJ Likely to Remain on Guard Against Inflation — Market Talk
+  - [china] Greer urges G20 to back Trump tariff agenda, takes aim at China
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
   - [japan] Tokyo Metro aims to ease rush by projecting vehicle congestion on the floor
   - [japan] [Today's Oha Biz October 1st (Thursday)] Nidek final deficit 564.6 billion yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan summary affirms priority is avoiding inflation overshoot
   - [taiwan] Key facts: TSMC (2330) $265B U.S. investment; $60–$64B capex outlook; Q3 results Oct. 15
   - [japan] Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in pri
-  - [taiwan] Taiwan Manufacturing Expands Most Since 2021
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T03:12:45+00:00",
+      "published_utc": "2026-10-01T03:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
