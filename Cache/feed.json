@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-01T22:32:45.410901+00:00",
- "collected_at_utc": "2026-10-01T22:32:45.410901+00:00",
+ "generated_at_utc": "2026-10-01T22:42:43.293095+00:00",
+ "collected_at_utc": "2026-10-01T22:42:43.293095+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1286,
+  "japan": 1285,
   "china": 790,
   "taiwan": 249,
-  "korea": 675
+  "korea": 676
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
-  {
-   "source_id": "investing_econ",
-   "name": "Investing Economy",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -84,6 +76,14 @@
    "count": 10,
    "error": "",
    "newest": "2026-10-01T22:27:27+00:00"
+  },
+  {
+   "source_id": "investing_econ",
+   "name": "Investing Economy",
+   "ok": true,
+   "count": 10,
+   "error": "",
+   "newest": "2026-10-01T22:00:30+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T22:21:15+00:00"
+   "newest": "2026-10-01T22:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-01T22:26:16+00:00"
+   "newest": "2026-10-01T22:39:17+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-02T07:15:00+09:00"
+   "newest": "2026-10-02T07:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "South Korea Inflation Data Due On Friday",
+   "url": "https://www.tradingview.com/news/dpa_afx:c383a7e406eb6:0-south-korea-inflation-data-due-on-friday/",
+   "published_utc": "2026-10-01T22:22:00+00:00",
+   "title_original": "South Korea Inflation Data Due On Friday",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c0d562a77e735a89"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Beincrypto",
+   "title_en": "China and Russia Just Tightened Fuel Supplies: Will Bitcoin Pay in October?",
+   "url": "https://www.tradingview.com/news/beincrypto:081d53f3e094b:0-china-and-russia-just-tightened-fuel-supplies-will-bitcoin-pay-in-october/",
+   "published_utc": "2026-10-01T21:54:09+00:00",
+   "title_original": "China and Russia Just Tightened Fuel Supplies: Will Bitcoin Pay in October?",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d854b3eceaae1875"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -1604,7 +1638,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "pulse.mk.co.kr",
    "title_en": "Korea’s real wages fall for 4th straight month as inflation outpaces pay gains",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JdVZVVjhfVzJvOGJSV2M5eUMwMncxX1JFa2t6Ym1nX0taUENvV0xWOWYwdFcwWXhhS1Bzbjk3YWJlVEdjQ3F5bHlMZ3lDa3RqTkE?oc=5",
    "published_utc": "2026-10-01T06:08:01+00:00",
@@ -1635,23 +1669,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5725b60eb0fe9474"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Chinese refiners suspend October fuel exports, one cancels cargoes, sources say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N04W:0-chinese-refiners-suspend-october-fuel-exports-one-cancels-cargoes-sources-say/",
-   "published_utc": "2026-10-01T05:58:41+00:00",
-   "title_original": "Chinese refiners suspend October fuel exports, one cancels cargoes, sources say",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "45bf5a689716aabb"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1739,24 +1756,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ae7ac30554ea161b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "BOJ signals accelerated rate tightening amid persistent inflation risks",
-   "url": "https://www.tradingview.com/news/seekingalpha:96db96a1c094b:0-boj-signals-accelerated-rate-tightening-amid-persistent-inflation-risks/",
-   "published_utc": "2026-10-01T05:25:06+00:00",
-   "title_original": "BOJ signals accelerated rate tightening amid persistent inflation risks",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e765fae21c983b34"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3314,8 +3313,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -3329,7 +3328,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "75b4c762a9b099d0"
+   "id": "1a1839a5fb285df0"
   },
   {
    "source_id": "nikkei_asia",
@@ -3728,8 +3727,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -3744,7 +3743,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "950b84d1e9e45198"
+   "id": "2711875b41f47be4"
   },
   {
    "source_id": "tradingview_live",
@@ -3764,8 +3763,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -3778,7 +3777,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5af5981dfcf348d4"
+   "id": "c6a7c990cb0818fa"
   },
   {
    "source_id": "nhk_economy",
@@ -4233,7 +4232,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
+   "source_name": "cls.cn",
    "title_en": "17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October 8 with a period of 3 months]",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2cktXNzRrMEZfZVFtaS15UF84a0t3ZGpuRWpud3hsaWhsWnpKTjhJcHQwTDlrWVltRlB2dkh1ZGZWRU42clB4Rw?oc=5",
    "published_utc": "2026-09-30T09:09:45+00:00",
@@ -5881,7 +5880,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "radiok1230.com",
+   "source_name": "K-Radio 우리방송",
    "title_en": "The Korean financial market is tense due to the sharp rise in US and Japanese government bond yields... Bank of Korea warns of ‘interest rate and foreign exchange’ risks",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRbGdjVHpXRjQzUThyejNseFB0VUxZdlVlSWpWZER6dndJamtVWFMtb2FSV2JlanhPMEtUMjM0cEViR3VYOFo2WTluQm5Wd0s1MnZiS3VGNmdJcWkxcHdCYkxXeDRTYlFjeDZjSElCdnc1UdIBckFVX3lxTFBRbGdjVHpXRjQzUThyejNseFB0VUxZdlVlSWpWZER6dndJamtVWFMtb2FSV2JlanhPMEtUMjM0cEViR3VYOFo2WTluQm5Wd0s1MnZiS3VGNmdJcWkxcHdCYkxXeDRTYlFjeDZjSElCdnc1UQ?oc=5",
    "published_utc": "2026-09-29T15:05:12+00:00",
@@ -6857,7 +6856,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
+   "source_name": "yicai.com",
    "title_en": "Monetary policy, credit, offshore RMB...the central bank's press conference responded to the top ten hot topics!",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkkzMEFZemMyVTFhX2F3aTUzbWNMbGItdmJxb252MHdBeVRoLUJzMDRmc1k4V0dNc1lBRFhJUkZET3VVUTdmOFZxSHk3LTBHdXRB?oc=5",
    "published_utc": "2026-09-29T02:38:34+00:00",
@@ -6946,7 +6945,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "pulse.mk.co.kr",
    "title_en": "Samsung Electronics, SK hynix rebound on bargain-hunting",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51YldWZ1lfN0s2Ui1pZDV4Z3RVNGp4X2ZVd2hXWnJiWFFDYkdWM0Q4cFJCSnJNXzVIZmFDZWJiMFVJazN0djFPZlV1eEZEaHI1MlhrOWdWQQ?oc=5",
    "published_utc": "2026-09-29T02:10:34+00:00",
@@ -8414,23 +8413,6 @@
    "id": "1c6e2b8c465847ad"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "RMB 661 billion was invested in overnight reverse repurchases in a single day, and the central bank provided clear signals of cross-season and cross-holiday protection.",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDJSeVg2UlJVQXdWZ1ctXzk5S1JXcnJKb2IySUQxXzJQUWxYb2VoQ0hwb2I4eTVRTUtSYmNrMjduWDlZZnAzQXZrOWQ2RDVsQnhrNE1adHBVNGNmODd0Z293SlhvRU1GRGhPelZnWDFQVTE1NzVvLU9GcmktRHJiQmZra21Za1VUb0lQVmRLdTE4UFow?oc=5",
-   "published_utc": "2026-09-28T07:00:00+00:00",
-   "title_original": "单日投放6610亿元隔夜逆回购 央行跨季、跨节呵护信号显著",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "75b026670585c8ca"
-  },
-  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "TSMC affiliate already eyes expansion as first Singapore plant 'sells out'",
@@ -8520,7 +8502,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "straightnews.co.kr",
+   "source_name": "스트레이트뉴스",
    "title_en": "Will continuous increases in base interest rates put a burden on the profitability of savings banks?",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56VjhKSmlzSzd3R2JqenJobEtXU0toR0twSWtKM0IxOFdjMkVUTVdhYTByYU5EMmx5bGdweG1ZOGZjNkRqWnlPa1N0Nkh2dVFLVXBTdW9DLW9ZV3lMWmdEV25kTHhNeXlWV041ZEFGQTlKZmPSAXdBVV95cUxPZUVHWFg0bkx6amhmeEVLWGJwQk1WWE5WREwyeFZHVXlNMXJObzNoaTlYemZTWTZzcllhYXlyZnNxMHN5S0xnTnU4b09VXzZIS1p6UFgyN2VBZjZsYmZkZW9YdGlRRFZ0Z0tWR1R6ZHpmV2U0d05Qaw?oc=5",
    "published_utc": "2026-09-28T06:25:01+00:00",
@@ -8811,6 +8793,23 @@
    "live_wire": false,
    "manual": false,
    "id": "35a43efa9042b330"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "RMB 661 billion was invested in overnight reverse repurchases in a single day, and the central bank provided clear signals of cross-season and cross-holiday protection.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkJoUzN4VncwclpOZ2xOendGT0dkcTBhSVVmbC1veTlhTFNJZGdLZ1I0Ym1NRU9FUDR5eEpXNUdjbHgzLUpRblE4bWNoYTc4c2RWVTVFTnV0MlY1Q0dreXp4ekwtLWlld0tHRWEtdjhoZmp3SHJuNy13ZzFPRmZCRkc2QjZXeDc0VTN2ZGZxWQ?oc=5",
+   "published_utc": "2026-09-28T03:55:20+00:00",
+   "title_original": "单日投放6610亿元隔夜逆回购 央行跨季、跨节呵护信号显著",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8fd37d4f23710158"
   },
   {
    "source_id": "gn_kr_bok",
@@ -11537,7 +11536,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
+   "source_name": "yicai.com",
    "title_en": "DR001 has recently been running at around 1.2%, and the central bank’s reverse repurchase operation volume has dropped, highlighting the easing of funds.",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mMFZleUYzWS1UWnQ2dHpqTGFvYlhOWVZONVNoaXV5WmxOa0pfY1IzTVNHZXUxV0ZTTkoxdS1rUWxQZGY0V0s1Y1dwM1JIVURJWU04?oc=5",
    "published_utc": "2026-09-25T10:03:36+00:00",
@@ -21418,7 +21417,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "focustaiwan.tw",
+   "source_name": "Focus Taiwan - CNA English News",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T11:36:00+00:00",
