@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T06:33:20.935974+00:00",
- "collected_at_utc": "2026-10-01T06:33:20.935974+00:00",
+ "generated_at_utc": "2026-10-01T06:42:44.296940+00:00",
+ "collected_at_utc": "2026-10-01T06:42:44.296940+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1292,
-  "china": 768,
-  "taiwan": 256,
-  "korea": 684
+  "japan": 1291,
+  "china": 770,
+  "taiwan": 254,
+  "korea": 685
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T04:17:00+00:00"
+   "newest": "2026-10-01T06:01:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T05:42:56+00:00"
+   "newest": "2026-10-01T04:19:44+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-24T07:27:40+00:00"
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T06:25:14+00:00"
+   "newest": "2026-10-01T06:41:47+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T05:39:15+00:00"
+   "newest": "2026-10-01T06:26:45+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,75 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Yen Falls After Japan Q3 Tankan Survey Data",
+   "url": "https://www.tradingview.com/news/dpa_afx:271412fe73943:0-yen-falls-after-japan-q3-tankan-survey-data/",
+   "published_utc": "2026-10-01T06:41:47+00:00",
+   "title_original": "Yen Falls After Japan Q3 Tankan Survey Data",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a94d36cb7117288b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "China's Tencent taps Oracle for 100,000 AI chips in $7B lease deal - report",
+   "url": "https://www.tradingview.com/news/seekingalpha:12becd97d094b:0-china-s-tencent-taps-oracle-for-100-000-ai-chips-in-7b-lease-deal-report/",
+   "published_utc": "2026-10-01T06:38:32+00:00",
+   "title_original": "China's Tencent taps Oracle for 100,000 AI chips in $7B lease deal - report",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fef79c89b7cba543"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Kospi Snaps Three-Session Losing Streak; Chip Stocks Advance",
+   "url": "https://www.tradingview.com/news/DJN_DN20261001001122_20261001001123:0/",
+   "published_utc": "2026-10-01T06:36:00+00:00",
+   "title_original": "Kospi Snaps Three-Session Losing Streak; Chip Stocks Advance",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "66a1c299a81f662e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Ceres Inc - To Buy Back Up To 10.83% Of Shares Worth 2.5 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45N0MW:0-ceres-inc-to-buy-back-up-to-10-83-of-shares-worth-2-5-billion-yen/",
+   "published_utc": "2026-10-01T06:32:29+00:00",
+   "title_original": "Ceres Inc - To Buy Back Up To 10.83% Of Shares Worth 2.5 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9c3e656f7e137277"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Japan manufacturing growth slows to six-month low in September By Investing.com",
@@ -359,6 +428,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1fd5493701957789"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "At 3:00 p.m., the dollar rose to the low 158 yen range, as expectations for continuous interest rate hikes by the Bank of Japan faded (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01R1l5c2dFMWJHeDBJUnV2Y0lDQ19RcEtlMWhLOGo1RlNjclVNVllNczBIUlpNN0UyQjhiYkY1d1g5WHRUd0xSN3JCVFM0dkxKTTNGSmJuVGl4QWZlQzJXQXNKaDkzWWlQRW9uSFJ4U3hQU0NJNVFHMGo4SmtuMGM?oc=5",
+   "published_utc": "2026-10-01T06:26:45+00:00",
+   "title_original": "午後3時のドルは158円前半へ上昇、日銀連続利上げ観測後退で（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d98805fb54656ef4"
   },
   {
    "source_id": "investing_live",
@@ -1650,23 +1737,6 @@
    "id": "e792bb81e0f782e7"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Japan Manufacturing Sector Ebbs In September - S&P Global",
-   "url": "https://www.tradingview.com/news/dpa_afx:c72e403c66fba:0-japan-manufacturing-sector-ebbs-in-september-s-p-global/",
-   "published_utc": "2026-10-01T01:06:08+00:00",
-   "title_original": "Japan Manufacturing Sector Ebbs In September - S&P Global",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "278063ac3e18b3d9"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "SK Hynix trapped in no-trade zone at ₩1,778,000: Live levels",
@@ -1701,41 +1771,6 @@
    "id": "e0c0560cb0fb4f94"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "CNBC TV18",
-   "title_en": "Bank of Japan summary affirms priority is avoiding inflation overshoot",
-   "url": "https://www.tradingview.com/news/cnbctv:a47715e15094b:0/",
-   "published_utc": "2026-10-01T01:00:03+00:00",
-   "title_original": "Bank of Japan summary affirms priority is avoiding inflation overshoot",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "03aef4ca4afc21f7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Key facts: TSMC (2330) $265B U.S. investment; $60–$64B capex outlook; Q3 results Oct. 15",
-   "url": "https://www.tradingview.com/news/tradingview:45baa77de04a2:0-key-facts-tsmc-2330-265b-u-s-investment-60-64b-capex-outlook-q3-results-oct-15/",
-   "published_utc": "2026-10-01T01:00:00+00:00",
-   "title_original": "Key facts: TSMC (2330) $265B U.S. investment; $60–$64B capex outlook; Q3 results Oct. 15",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9d9b5e7f4fd6edb0"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in prices - Bank of Japan September meeting (Reuters)",
@@ -1752,23 +1787,6 @@
    "live_wire": false,
    "manual": false,
    "id": "248c7d15907d32ed"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Taiwan Manufacturing Expands Most Since 2021",
-   "url": "https://www.tradingview.com/news/te_news:588420:0-taiwan-manufacturing-expands-most-since-2021/",
-   "published_utc": "2026-10-01T00:43:48+00:00",
-   "title_original": "Taiwan Manufacturing Expands Most Since 2021",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5662b59f260efcc5"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -2492,8 +2510,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -2507,7 +2525,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a1839a5fb285df0"
+   "id": "75b4c762a9b099d0"
   },
   {
    "source_id": "nikkei_asia",
@@ -2889,8 +2907,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -2905,7 +2923,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2711875b41f47be4"
+   "id": "950b84d1e9e45198"
   },
   {
    "source_id": "tradingview_live",
@@ -2925,8 +2943,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -2939,7 +2957,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c6a7c990cb0818fa"
+   "id": "5af5981dfcf348d4"
   },
   {
    "source_id": "nhk_economy",
@@ -3233,6 +3251,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d69e85cbd2b685de"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation on October 8",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0tXZFpJTjR2bWxlODdHV3pCTWU4aUJYaG1VeDVGTExCN0tzeEdhM0w0elhyM1pnV2hCSnVhWVpDdkZMQkxIR2YySE44b3FsVGdhVnJhM1h0SXZPMUt3TFpYX3NJUnVRTUhIRVRpOXFoZGZJeVNDeE5hSklUVVI2OW5EZUtFUHJqQWc?oc=5",
+   "published_utc": "2026-09-30T09:54:08+00:00",
+   "title_original": "央行将于10月8日开展12000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ef2056659cb64a24"
   },
   {
    "source_id": "investing_econ",
@@ -5790,8 +5826,8 @@
    "id": "703f925fda4ee45d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
    "published_utc": "2026-09-29T04:23:30+00:00",
@@ -5806,7 +5842,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7abfef93833be46e"
+   "id": "38b4d6c26a1ec51f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6828,7 +6864,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rVmZqeDhPX2dVYTNhNGhncnI1RUs0NXhFMDNlQkFCZ3MyYkJsdkNPcUl0WDdTQmpYSElFcHFYRVhhSmROVnpfQWQ5SUJxTE5PblFxNE1SN0k4SjFkWkJaV0RhSk90YjN3QlM5YVFrTFdvU3lRY1FZdjZ0LXI?oc=5",
    "published_utc": "2026-09-28T13:10:00+00:00",
@@ -9484,7 +9520,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "China, U.S. reach consensus on eight outcomes in Xi's visit",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4SXVvQTFCY04wbS1kYzU1bGJsbXFPQ3h0UXFxMjV0ZkpWdnVZXzlvUlBhVDF4YnRSUW9PN1c0akV0UmtoeWZIdTc4X3lNVmdmd2lJd1JrQXJYNGhkVW50STRDSzIwZGlXQUdITGtfckhpLWJucjduUm95MUY?oc=5",
    "published_utc": "2026-09-26T10:50:00+00:00",
@@ -18023,7 +18059,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "China's State Council appoints, removes officials",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTmlyOHpLQ0syMGZkV2FEeVp1b0JfOGhQbVR1TURQeFd5Q1ZDejRQNHkzcy1lWkhBb2hoZ1BJd2R0alI3MXpkVWtjTEhhTXloRTZYRV9MVDJVOXlXUWJmOXl4NC0xOXRFLXFkelRWYlZnMUVkNkM0b0x3OXY?oc=5",
    "published_utc": "2026-09-20T11:40:16+00:00",
@@ -20192,7 +20228,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "Chinese premier chairs State Council executive meeting",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
    "published_utc": "2026-09-18T15:43:15+00:00",
@@ -30584,7 +30620,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "Xinhua News | China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93T0V0SG82MDNSd0djbmNKbkxmS0pMckRVYlo0YXUwdDB2eUdrdGVTQmZYZzBuRHppWGd5UlN4cmJIWXZWWmJXMHkyRkhmV0VCNUJ2WTlzblNYNTJseFhRN3hMS3UycDBMN1VMQzdFajFId0VQX2NjUUNxNlU?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -30601,7 +30637,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nbk5KVkVjWHdKclpEMXZHd05LUnVvZkg2ZThPZ3lYeVRhd0RxVGJkSVdqb1Q0NjUyWjdXc2VTemFsOTBrb0ppZ2dud2ZhYlFsTVZOQ0NyblN6X1Z1N2wtakdzMFI1emJ6LVIyQWNYZEhycDNGeEo2QXBOWnY?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -51951,40 +51987,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d3068d44799d93ec"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan considers interest rate hike in September, with policy rate at 1.25% (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kNDMwbTZFcGFWdTNtM05TLXhheTI3cjJWNF9NRENZV2ZjVmc4TElrekJPTnAtdFdiWVQ2ekJpOWRaejQzWVdQQXF6dF9QSVZocDVpNW9wTzJzLWpwYUN0MHJ1aUlVODJMZ1YwSkpaNDhNMExoeWFRRWxyY0Rfek0?oc=5",
-   "published_utc": "2026-09-02T01:37:03+00:00",
-   "title_original": "日銀、9月利上げを検討 政策金利1.25％が軸（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "db3f8814a983e2d9"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Government borrowing costs rise anew, adding to pressure on global policymakers By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOTZzRWJiazJJbVRHenFuLTVFVk5TX0xrQXZHQjBJS2ZWQTl4QWlPNGx1RFRYVnhSeGFCTFRaT2ZaTk1pM0lMd09IRGRPVjZFV1NaRFFCQ2o1S2poc1FuNlBVMGdMQ0tmb0NWUUQ2LTAxWmZid1dHYVotSm1OekdwdjJTaER1ZFgtUFRXS3RqcV9laW9GQkViQkF1ZzRPX2RzdHhtVy12bFNadVB1anVJ?oc=5",
-   "published_utc": "2026-09-02T01:36:09+00:00",
-   "title_original": "Government borrowing costs rise anew, adding to pressure on global policymakers By Reuters",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e5ecbb7d5fe668ae"
   },
   {
    "source_id": "manual_ia",

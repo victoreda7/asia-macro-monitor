@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T06:33:20.935974+00:00
+Última coleta: 2026-10-01T06:42:44.296940+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1292
-  🇨🇳 China          768
-  🇹🇼 Taiwan         256
-  🇰🇷 Coreia do Sul  684
+  🇯🇵 Japão          1291
+  🇨🇳 China          770
+  🇹🇼 Taiwan         254
+  🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Falls After Japan Q3 Tankan Survey Data
+  - [china] China's Tencent taps Oracle for 100,000 AI chips in $7B lease deal - report
+  - [korea] Kospi Snaps Three-Session Losing Streak; Chip Stocks Advance
+  - [japan] Ceres Inc - To Buy Back Up To 10.83% Of Shares Worth 2.5 Billion Yen
   - [japan] Japan manufacturing growth slows to six-month low in September By Investing.com
+  - [japan] At 3:00 p.m., the dollar rose to the low 158 yen range, as expectations for continuous interest rate hikes by 
   - [japan] Japan manufacturing growth slows to six-month low in September
   - [japan] Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms
   - [japan] Yen Falls Against Majors
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Sources of Changes in Current Account Balances and Market Operations (Sept.)
   - [japan] Asian currencies mixed as dollar holds highs, yen slips on BOJ signals
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
-  - [japan] Japan’s patchy business mood takes pressure off BOJ for immediate hike
-  - [japan] BoJ Policymakers See Scope for Faster Rate Hikes
-  - [japan] Japanese Yen weakens as BOJ summary damps bets for back-to-back rate hike
-  - [china] China’s Tencent Leases 100,000 Chips From Oracle To Accelerate AI Push - FT
-  - [japan] Japan bond yields rise as US Treasury selloff persists, BOJ outlook in focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T06:33:21+00:00",
+      "published_utc": "2026-10-01T06:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
