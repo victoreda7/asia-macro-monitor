@@ -7,16 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T23:32:44.084394+00:00
+Última coleta: 2026-10-01T23:42:43.417525+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1283
-  🇨🇳 China          790
+  🇯🇵 Japão          1285
+  🇨🇳 China          789
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  677
+  🇰🇷 Coreia do Sul  676
 
 ## O que já está no feed (não repita)
 
+  - [japan] Tokyo core inflation jumps in September, bolsters case for more BOJ hikes
+  - [japan] JAPAN SEPT TOKYO CPI: PROCESSED FOOD +3.6% (+0.83 POINT) VS. +3.6% (+0.83 POINT) IN AUG
+  - [japan] JAPAN SEPT TOKYO INFLATION ANNUAL RATE JUMPS AS CITY’S FREE BASE WATER CHARGES END AFTER PEAK SUMMER MONTHS, D
+  - [japan] JAPAN SEPT TOKYO CPI: ENERGY -1.9% Y/Y (-0.08 POINT CONTRIBUTION), VS. -2.0% (-0.09 POINT) IN AUG
+  - [korea] Korea's consumer price increase rate in September was 2.9%, and agricultural products prices stabilized.
+  - [japan] JAPAN AUG S/A UNEMPLOYMENT RATE 2.5% (JULY 2.4%); MEDIAN FORECAST 2.4% (RANGE: 2.4% TO 2.5%)
+  - [japan] JAPAN SEPT TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +3.0% Y/Y (AUG +2.0%); MEDIAN FORECAST +2.4% (RANGE: +2
+  - [japan] JAPAN SEPT TOKYO CORE CPI (EX-FRESH FOOD) +2.7% Y/Y (AUG +1.8 %), MEDIAN FORECAST +2.1% (RANGE: +1.9% TO +2.2%
+  - [japan] JAPAN SEPT TOKYO TOTAL CPI +2.7% Y/Y (AUG +1.9%); MEDIAN FORECAST +2.2% (RANGE: +2.1% to +2.4%)
   - [korea] South Korea Inflation Rate Slows in September
   - [korea] South Korea's Inflation Eases But Stays Sticky
   - [korea] South Korea Sept inflation +2.9% y/y, as expected
@@ -48,15 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix reiterates no decision made on Solidigm financing despite dual-listing reports
   - [korea] Lotte expands financial, export support for partners
   - [japan] Kumamoto Earthquake: National government takes financial measures for prefecture reconstruction fund Fujii, Mi
-  - [china] China's BYD sales rise in September as export boom sustains momentum
-  - [japan] Euro slides to 17-month low, hit by rates and inflation cocktail By Reuters
-  - [japan] Globaltec Formation Says GOH Min Yen Appointed As Executive Director
-  - [china] Oil prices rise 2% as China suspends fuel exports
-  - [japan] Yen market price falls by more than 1 yen due to rise in long-term interest rates in the United States
-  - [china] VIEW Chinese refiners suspend October fuel exports, sources say
-  - [japan] [Approaching the 160 yen level again] Reasons why the trend of ``returning to a weak yen'' remains unchanged d
-  - [japan] Dollar holds as elevated U.S. yields overshadow cooling inflation data
-  - [japan] Bank of Japan Tankan Large Enterprises/Non-Manufacturing Index worsens for the first time in five quarters (AB
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T23:32:44+00:00",
+      "published_utc": "2026-10-01T23:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
