@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T06:12:42.831212+00:00
+Última coleta: 2026-10-01T06:22:45.736504+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1292
+  🇯🇵 Japão          1291
   🇨🇳 China          768
   🇹🇼 Taiwan         257
-  🇰🇷 Coreia do Sul  683
+  🇰🇷 Coreia do Sul  684
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Falls Against Majors
+  - [korea] Korea’s real wages fall for 4th straight month as inflation outpaces pay gains
   - [korea] Trump unveils 3 projects under Korea's $200b US investment plan
   - [china] Chinese refiners suspend October fuel exports, one cancels cargoes, sources say
   - [taiwan] Four glass makers converge on 510x515mm substrate, hinting at TSMC's next move
@@ -37,6 +39,7 @@ Total: 3000 manchetes
   - [japan] Morning Bid: Inflation relief gives bonds little reprieve
   - [japan] Bank of Japan members publish “main opinions” from September meeting on gap in perception of economy and price
   - [korea] South Korea's Lee appoints new presidential policy chief, economic growth aide
+  - [korea] Even if the won/dollar exchange rate surges, the negative impact on household consumption is limited..
   - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [japan] Japanese chipmakers rally as Micron earnings boost AI trade
   - [japan] Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Stock prices rise significantly Buy orders for AI/semiconductor related stocks
   - [china] Yuan Appreciation Intact but U.S.-China Rate Gap to Cap Pace — Market Talk
   - [japan] BOJ Likely to Remain on Guard Against Inflation — Market Talk
-  - [china] Huawei unveils Mate 90 phones, leans on homegrown chip design to offset US curbs
-  - [china] Greer urges G20 to back Trump tariff agenda, takes aim at China
-  - [japan] Tokyo Metro aims to ease rush by projecting vehicle congestion on the floor
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T06:12:43+00:00",
+      "published_utc": "2026-10-01T06:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
