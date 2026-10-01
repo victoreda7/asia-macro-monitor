@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T00:22:49.274254+00:00
+Última coleta: 2026-10-01T00:27:02.048158+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1289
-  🇨🇳 China          766
+  🇨🇳 China          764
   🇹🇼 Taiwan         253
-  🇰🇷 Coreia do Sul  692
+  🇰🇷 Coreia do Sul  694
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGBs Fall on Prospects for Quicker Pace of BOJ Rate Hikes — Market Talk
+  - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion
   - [japan] Japan Big Manufacturers More Optimistic Despite Headwinds
   - [korea] South Korea September exports rise 83.5% y/y to monthly record
   - [japan] Japan business mood improves, tankan survey shows
   - [japan] BOJ debated need for more rate hikes at September meeting, summary shows
+  - [japan] Bank of Japan Tankan in September improves for 6th consecutive quarter, large companies/manufacturing industry
   - [korea] South Korea exports surge past expectations in Sept, trade surplus grows
   - [japan] [Breaking News] Bank of Japan Tankan: Large corporate manufacturing industry improves for 6th consecutive quar
   - [japan] BoJ Tankan: Large Manufacturing Index Improves In Q3
@@ -29,6 +32,7 @@ Total: 3000 manchetes
   - [japan] BOJ TANKAN: SMALL NON-MFG INDEX 15; JUNE 15; MEDIAN 16
   - [japan] BOJ TANKAN LARGE NON-MFG INDEX 35; JUNE 37; MEDIAN 37
   - [japan] MNI BOJ SEPT TANKAN LARGE MFG DI 24; JUNE 22; MEDIAN 26
+  - [korea] South Korea Posts Record Trade Surplus
   - [japan] BOJ SEPT TANKAN SHOWS LARGE MFG SENTIMENT RISE LED BY OIL/COAL, STEEL, NON-FERROUS, WHILE OFFSET BY FOOD, LUMB
   - [korea] South Korea Import Growth Tops Estimates
   - [japan] BOJ SEPT TANKAN: MAJOR MANUFACTURERS SEE INFLATION AT 2.2% IN 5 YEARS FROM NOW VS. 2.2% FORECAST IN JUNE SURVE
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] US long-term interest rates temporarily hit the 5.3% level, the highest level in about 19 years
   - [japan] Japan hikes foreign residency fees, tightens rules: 5 things to know
   - [japan] Bank Of Japan Tankan Survey Due On Thursday
-  - [japan] Is the accelerating pace of interest rate hikes by the Bank of Japan a contributing factor? Signs of a ``barga
-  - [korea] Trump unveils 3 projects under Korea's $200b US investment plan
-  - [japan] Mail-order giant Askul's new president Narimatsu, who is in his 40s, says that after overcoming ransomware dam
-  - [japan] How is Japan positioned in the context of "strategic stability" between the United States and China? The forme
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T00:22:49+00:00",
+      "published_utc": "2026-10-01T00:27:02+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
