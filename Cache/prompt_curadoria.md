@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T00:32:44.766249+00:00
+Última coleta: 2026-10-01T00:42:44.281650+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1290
@@ -17,14 +17,16 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
+  - [taiwan] TSMC evaluates potential Texas investment, sources say
+  - [japan] Japan Big Manufacturers More Optimistic Despite Headwinds
   - [korea] South Korea factory growth hits 4-month high as export orders boom, PMI shows
   - [japan] Japan September factory growth slows to 6-month low, PMI shows
   - [japan] [Breaking News] Bank of Japan September Tankan Business Confidence Improving in Large Companies and Manufactur
   - [japan] BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary
+  - [korea] South Korea September exports rise 83.5% y/y to monthly record
   - [japan] JGBs Fall on Prospects for Quicker Pace of BOJ Rate Hikes — Market Talk
   - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion
-  - [japan] Japan Big Manufacturers More Optimistic Despite Headwinds
-  - [korea] South Korea September exports rise 83.5% y/y to monthly record
   - [japan] Japan business mood improves, tankan survey shows
   - [japan] BOJ debated need for more rate hikes at September meeting, summary shows
   - [japan] Bank of Japan Tankan in September improves for 6th consecutive quarter, large companies/manufacturing industry
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT INDEX AT +14 (JUNE +9); MEDIAN FORECAST +11
   - [japan] BOJ SEPT TANKAN LARGE NON-MANUFACTURER SENTIMENT INDEX AT +35 (JUNE +37); MEDIAN FORECAST +36
   - [japan] BOJ SEPT TANKAN LARGE MFG SENTIMENT RISES TO HIGHEST SINCE MARCH 2018
-  - [japan] BOJ SEPT QUARTER TANKAN LARGE MANUFACTURER SENTIMENT INDEX AT +24 (JUNE +22); MEDIAN FORECAST +25
-  - [japan] Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T00:32:44+00:00",
+      "published_utc": "2026-10-01T00:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
