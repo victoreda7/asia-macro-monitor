@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T23:12:45.432573+00:00
+Última coleta: 2026-10-01T23:22:42.879204+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1283
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's Inflation Eases But Stays Sticky
   - [korea] South Korea Sept inflation +2.9% y/y, as expected
   - [china] US alleges California man smuggled export-controlled servers to China
   - [korea] South Korea Inflation Data Due On Friday
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar holds as elevated U.S. yields overshadow cooling inflation data
   - [japan] Bank of Japan Tankan Large Enterprises/Non-Manufacturing Index worsens for the first time in five quarters (AB
   - [japan] Nikkei closes at highest level in six weeks; Micron predictions boost semiconductor stocks
-  - [japan] Main opinions expressed at the Bank of Japan's September meeting: ``I will refrain from commenting beyond publ
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T23:12:45+00:00",
+      "published_utc": "2026-10-01T23:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
