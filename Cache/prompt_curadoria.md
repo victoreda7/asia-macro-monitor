@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T06:22:45.736504+00:00
+Última coleta: 2026-10-01T06:25:47.202508+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1291
-  🇨🇳 China          768
+  🇯🇵 Japão          1290
+  🇨🇳 China          769
   🇹🇼 Taiwan         257
   🇰🇷 Coreia do Sul  684
 
@@ -42,6 +42,7 @@ Total: 3000 manchetes
   - [korea] Even if the won/dollar exchange rate surges, the negative impact on household consumption is limited..
   - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [japan] Japanese chipmakers rally as Micron earnings boost AI trade
+  - [china] China Eyes More Targeted Fiscal Support After Growth Slowdown
   - [japan] Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session
   - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
   - [japan] Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan bond yields rise as US Treasury selloff persists, BOJ outlook in focus
   - [japan] Stock prices rise significantly Buy orders for AI/semiconductor related stocks
   - [china] Yuan Appreciation Intact but U.S.-China Rate Gap to Cap Pace — Market Talk
-  - [japan] BOJ Likely to Remain on Guard Against Inflation — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T06:22:45+00:00",
+      "published_utc": "2026-10-01T06:25:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
