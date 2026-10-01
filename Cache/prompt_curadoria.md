@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T00:27:02.048158+00:00
+Última coleta: 2026-10-01T00:32:44.766249+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1289
-  🇨🇳 China          764
-  🇹🇼 Taiwan         253
-  🇰🇷 Coreia do Sul  694
+  🇯🇵 Japão          1290
+  🇨🇳 China          763
+  🇹🇼 Taiwan         251
+  🇰🇷 Coreia do Sul  696
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea factory growth hits 4-month high as export orders boom, PMI shows
+  - [japan] Japan September factory growth slows to 6-month low, PMI shows
+  - [japan] [Breaking News] Bank of Japan September Tankan Business Confidence Improving in Large Companies and Manufactur
+  - [japan] BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary
   - [japan] JGBs Fall on Prospects for Quicker Pace of BOJ Rate Hikes — Market Talk
   - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion
   - [japan] Japan Big Manufacturers More Optimistic Despite Headwinds
@@ -28,6 +32,7 @@ Total: 3000 manchetes
   - [japan] [Breaking News] Bank of Japan Tankan: Large corporate manufacturing industry improves for 6th consecutive quar
   - [japan] BoJ Tankan: Large Manufacturing Index Improves In Q3
   - [japan] BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT’S LARGER-THAN-EXPECTED RISE DRIVEN BY AUTOS, NON-FERROUS METALS
+  - [korea] South Korea Exports Hit Fresh Record High
   - [japan] BOJ SEPT TANKAN: SMALL MFG INDEX 14; JUNE 9; MEDIAN 11
   - [japan] BOJ TANKAN: SMALL NON-MFG INDEX 15; JUNE 15; MEDIAN 16
   - [japan] BOJ TANKAN LARGE NON-MFG INDEX 35; JUNE 37; MEDIAN 37
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ SEPT TANKAN LARGE MFG SENTIMENT RISES TO HIGHEST SINCE MARCH 2018
   - [japan] BOJ SEPT QUARTER TANKAN LARGE MANUFACTURER SENTIMENT INDEX AT +24 (JUNE +22); MEDIAN FORECAST +25
   - [japan] Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026
-  - [japan] Tankan (Sept.): Summary and Outline
-  - [japan] Yen Consolidates Ahead of BOJ Tankan, BOJ's Summary of Opinions — Market Talk
-  - [japan] US long-term interest rates temporarily hit the 5.3% level, the highest level in about 19 years
-  - [japan] Japan hikes foreign residency fees, tightens rules: 5 things to know
-  - [japan] Bank Of Japan Tankan Survey Due On Thursday
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T00:27:02+00:00",
+      "published_utc": "2026-10-01T00:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

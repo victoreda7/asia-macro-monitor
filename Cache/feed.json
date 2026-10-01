@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T00:27:02.048158+00:00",
- "collected_at_utc": "2026-10-01T00:27:02.048158+00:00",
+ "generated_at_utc": "2026-10-01T00:32:44.766249+00:00",
+ "collected_at_utc": "2026-10-01T00:32:44.766249+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1289,
-  "china": 764,
-  "taiwan": 253,
-  "korea": 694
+  "japan": 1290,
+  "china": 763,
+  "taiwan": 251,
+  "korea": 696
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T00:18:49+00:00"
+   "newest": "2026-10-01T00:19:14+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T22:26:00+00:00"
+   "newest": "2026-10-01T00:27:20+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T12:44:27+00:00"
+   "newest": "2026-09-30T23:00:08+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T00:25:00+00:00"
+   "newest": "2026-10-01T00:31:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T00:17:32+00:00"
+   "newest": "2026-10-01T00:27:59+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,77 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea factory growth hits 4-month high as export orders boom, PMI shows",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_ZUN00FFKW:0-south-korea-factory-growth-hits-4-month-high-as-export-orders-boom-pmi-shows/",
+   "published_utc": "2026-10-01T00:31:20+00:00",
+   "title_original": "South Korea factory growth hits 4-month high as export orders boom, PMI shows",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9921266002218145"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan September factory growth slows to 6-month low, PMI shows",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_ZRN00EMA9:0-japan-september-factory-growth-slows-to-6-month-low-pmi-shows/",
+   "published_utc": "2026-10-01T00:30:37+00:00",
+   "title_original": "Japan September factory growth slows to 6-month low, PMI shows",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8bd32074d06a1138"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "[Breaking News] Bank of Japan September Tankan Business Confidence Improving in Large Companies and Manufacturing Industries (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIeHdZaTNDem05ZHNmd3MxRl9ob0s0M3hSMHZFZWptQW9LcWlhNEpEY281VXUzVUZvYzFSRzVXTzBTdmgySlMtSXlrUUZheWgtV21zWjdETUs1dlV0LXJVaDJqMEVTYjNiYzZTbk53QzFqa0dveE8zTWxiUWRCMkk?oc=5",
+   "published_utc": "2026-10-01T00:27:59+00:00",
+   "title_original": "【速報】日銀9月短観 大企業・製造業の景況感改善（TBS NEWS DIG Powered by JNN）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "48289f64dcd0b3b9"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTC1kdUV3dGl5OTE1dHFxT3I3cXF5MFA2cy1kQkQtMVNQUUJIeUJoOVVNRlctZWN0bWhOQVZnbVhEZGdVNEdLUEtYX1VFTkYtQVNmM0k4WlcyQQ?oc=5",
+   "published_utc": "2026-10-01T00:27:20+00:00",
+   "title_original": "BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7d3aba20d42cafc"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -538,6 +609,23 @@
    "live_wire": true,
    "manual": false,
    "id": "46d67fbf4cd4b9f4"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea Exports Hit Fresh Record High",
+   "url": "https://www.tradingview.com/news/te_news:588400:0-south-korea-exports-hit-fresh-record-high/",
+   "published_utc": "2026-10-01T00:11:50+00:00",
+   "title_original": "South Korea Exports Hit Fresh Record High",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a7bedf7b3d651445"
   },
   {
    "source_id": "tradingview_live",
@@ -1057,6 +1145,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c7757a0a89873e66"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "华龙网",
+   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByYTRmczlSYUFmcGt3ZzRoelBXVDBiYUluOUJKd0lVWGxMOFYzUWcwUmMyOXhZbW1DTjFyUFRqVVlKeS0wdk9JVWhzQlBSMENraEx0bkNUWGp3cEtMeGRiaENwbzB1aHUwOUNB?oc=5",
+   "published_utc": "2026-09-30T23:00:08+00:00",
+   "title_original": "央行将开展12000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "dbe0eac8f5d46bda"
   },
   {
    "source_id": "tradingview_live",
@@ -1615,25 +1721,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FUjZ0TU5wVlIwRXkwUmhCVlZQcnJ1dHBTcFJDdXd3RHdDQ0ZKUm12TWdLWXFfM0xCVDRtQWs3RDhqTlluTTVSWG1MT0I0T05tbGFxLUxnQjB5a2V4aHc?oc=5",
-   "published_utc": "2026-09-30T11:25:10+00:00",
-   "title_original": "央行将开展12000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d33f535014041b39"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
+   "source_name": "jiemian.com",
    "title_en": "The central bank takes action! 1.2 trillion buyout reverse repurchase is coming",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nNHhLdEFRRHdfdWRiWGxBZHR3WFhhZmxqaVl2NkM3TFFHT2F4WkVuRnJtcEIyeVA2OTBTUEN6NER5WkN0RFNXc1FsSy1xY05YZ3FoTzlVcjQ?oc=5",
    "published_utc": "2026-09-30T11:16:59+00:00",
@@ -2634,7 +2722,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUg5OUtKZEFWWE1PU3dHYURRTThhbS1fWTM2YzdIekQyTTIwU1daMl8wSW5XNTl4aklKSWlxVHRrazlhRlNjNXZDX0ZHd3RnUldXTUZmbGNuYXJYMUV2SFVvWEZsVWRuajcxazZ5WmZ3eEg5TEMtMVVIMXB1V0ppNHA4VEIyQzN0c0hmZDNjaWFLTE81d3IxLXZQeWVJWjhzWTNrUXBzU0IwYXhaX3NqUXkwNTJmMS1yZlhiaGNPRVUxcGZ0RmNKVFhRRVZrQQ?oc=5",
    "published_utc": "2026-09-30T03:03:00+00:00",
@@ -2754,7 +2842,7 @@
   },
   {
    "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Stocks rise, 2-year US bond yield eases after soft US inflation data",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTkhETkh2bThQM2VXdlJQZHdqOHVHRTFNX2dRMVZVMGhhMzczY0xIYkRfdmVldzNlVFdEbWZTVC1aYW1fekVfOW9Db28yd0czQVk5MURaaWVfNjdTVFVGeE1Dcy16dk9vQmNZb3c2bklRd3l0cTNwQXBqemxxbWxwS3RaYw?oc=5",
    "published_utc": "2026-09-30T01:58:00+00:00",
@@ -2857,7 +2945,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "10jqka.com.cn",
+   "source_name": "同花顺财经",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out 833.5 billion yuan of overnight reverse repurchase operations.",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdy1vXzlVSWJ5MHBBX1Y3emNjeS1wNDRDZjFocHNCTXZ1ekZyRGhTVW1nOEFVeUZ2eEdOY3Q0VUVfQnlXXzdPQ09DVm9iV2FqSkpCZ0w4UHJ5RWtGX1E?oc=5",
    "published_utc": "2026-09-30T01:23:15+00:00",
@@ -3661,7 +3749,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "radiok1230.com",
+   "source_name": "K-Radio 우리방송",
    "title_en": "The Korean financial market is tense due to the sharp rise in US and Japanese government bond yields... Bank of Korea warns of ‘interest rate and foreign exchange’ risks",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRbGdjVHpXRjQzUThyejNseFB0VUxZdlVlSWpWZER6dndJamtVWFMtb2FSV2JlanhPMEtUMjM0cEViR3VYOFo2WTluQm5Wd0s1MnZiS3VGNmdJcWkxcHdCYkxXeDRTYlFjeDZjSElCdnc1UdIBckFVX3lxTFBRbGdjVHpXRjQzUThyejNseFB0VUxZdlVlSWpWZER6dndJamtVWFMtb2FSV2JlanhPMEtUMjM0cEViR3VYOFo2WTluQm5Wd0s1MnZiS3VGNmdJcWkxcHdCYkxXeDRTYlFjeDZjSElCdnc1UQ?oc=5",
    "published_utc": "2026-09-29T15:05:12+00:00",
@@ -3767,7 +3855,7 @@
   },
   {
    "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Oil giants rush to help Italy's Meloni curb energy costs with fuel price caps",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRUZwMmRHcVVaSHB3SU9Edk4yZXdXenRfZUlEcmhsbjQ0dTFNWGZQbGpsV0ROZF8ybnFkVEVjcGowakN2dElwdjk5QnRwSkg3Y3pSTkdnNzdfUkItdXJVdkNNM01vSGNVSTJUUmxvY3lBNDMwTk9WODB2RXJ5YmhRZ3oweXZOLUlfRi12OFU1UUtiT1hRRFhXdDJ4QWM0RnpSb0VhcTR0dUZ3ZFJJM2JLQ3JzbGloQ1U4amF0NngzRnFqMGc?oc=5",
    "published_utc": "2026-09-29T13:19:22+00:00",
@@ -3803,7 +3891,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "news.cn",
+   "source_name": "新华网",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"-Xinhua",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGw3YmRiRW40NGFsM0pRSThUTWtYNWNQbmpZWW1FaXJ0NHBmT0Y1Njh6NmhnVFdtbm8zZEJmSEVXY3dqdnRzWGdrT09wNUVSMlNURndkdm9yMFhuUzRpVFkzX3Nnb2toTDhjblg1MU5pNFhOc2tySHY3cVZ5VmJOaw?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
@@ -4709,7 +4797,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "pulse.mk.co.kr",
    "title_en": "Samsung Electronics, SK hynix rebound on bargain-hunting",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51YldWZ1lfN0s2Ui1pZDV4Z3RVNGp4X2ZVd2hXWnJiWFFDYkdWM0Q4cFJCSnJNXzVIZmFDZWJiMFVJazN0djFPZlV1eEZEaHI1MlhrOWdWQQ?oc=5",
    "published_utc": "2026-09-29T02:10:34+00:00",
@@ -4814,7 +4902,7 @@
   },
   {
    "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "South Korean exports seen rising for 16th month on solid AI chip demand",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPangxT3pzak9jS0tDVDNNYXJGMTZiZTdTM2p6WVNWWlhqRFpMeHFOcWR3SExFVWVJMU4tQWQ1WGx5M2xaamRsc3paWmFkVXJCNFhncGlwQkxMb2pZYmRYNG9faVcyYzZsUDJmLWN5OGF0SjBHM0VzSlRwSVBHZ1pYc2R6Z3hwbmV5cmZyb2FodEVkaGVCbEY2VURiNkp4RFdiQlVFRUpaR1BJOGRJQS1lTFZMekhxb2RVeE5j?oc=5",
    "published_utc": "2026-09-29T01:08:00+00:00",
@@ -4832,7 +4920,7 @@
   },
   {
    "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc09PSzNCSGVzb0s3LUZpWnkxZ1dZVXVncEY2YlBnVF9XOEJuaHRKSFl1c1JkYkJRcGpKc1dHTERDYnI2NndxZlBfY3QxYm9RdTUzUXRGZUdXaC1OWDJLbERLWjFvcFFTbWFHQ1dVTHR2cDVzb2RNUjRtY0N3bUhyS19YakRsdVhhbUhheld3MGlSRE00MEZPQ1E1ZDdXV2lTbWZVMWxheUVNbUFjZkp3TWVVekhmaWhQQUViRlZ0UDNsNFhsTEZSbXRsYmZDX0k?oc=5",
    "published_utc": "2026-09-29T01:03:00+00:00",
@@ -4934,7 +5022,7 @@
   },
   {
    "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "EXCLUSIVE Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzFRTndpRkJHX2FfcTFFdHFvNVVrQU5MZVAxM0Z1T1p3TjRyaUtyNFRaNjRQQjQwYjJaVW5ocTlGYU1iU0w4WGNISjhWb0ZsWHpTYkZ5aEhPX1B1blRyak40X0FHMDdWdnUzSGFYczRrXzd1bXBPODRNbDdnN2NPcTZLZFpIaWhTRkQ0bVZIMGxGcFo0S1B1M3RrV0pWU1h6d0d6NC1SMkhwdl9ESGJiZFVXLWl4Mll4bUE?oc=5",
    "published_utc": "2026-09-28T23:44:09+00:00",
@@ -5313,7 +5401,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "China, US pledge tariff cuts on $60 billion of goods including agriculture, toys, toasters",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaTBqVzRGcGNNZ2M5YWVLbUQxanlOVWhxYU5lWjNuYzJSWmtHV2lQTWdSUXlpTGM3M1UzU2JUckNLUGxIc3dFVWx5WlExNnotSmtQblE4UnM0Sk1OVnQycjVkR0ozUlpzMW5MMExHNll4NDR2dXpfWTNCMVpQT0docjI1SHFDeFdwYnZGVlVocXhzTy10WWViRk54VklyNzNiRFczXy04aURCdVdmSEdNbjNrRHpXNXM5LWRCZzJQajZVMVBx?oc=5",
    "published_utc": "2026-09-28T17:50:11+00:00",
@@ -5344,6 +5432,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d96839ee6392d1a2"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank launched a 139 billion yuan 7-day reverse repurchase operation, with a bidding volume of 139 billion yuan",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMi0yWV8zYUtvUi1lLU1Fcm1fdFlTeVFMeUZZanlFTUhTMXJFYTNFa1AxR3pISmpFMDBPNWd1ZFJpeHBHMHQtQ01ES0JRNkhDX1Y1VVo3UkNQTjlxVzZqZlFmQ1dHdw?oc=5",
+   "published_utc": "2026-09-28T16:27:14+00:00",
+   "title_original": "央行开展1390亿元7天逆回购操作，投标量1390亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cf11f16a021479e1"
   },
   {
    "source_id": "korea_herald_biz",
@@ -6126,7 +6232,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "스트레이트뉴스",
+   "source_name": "straightnews.co.kr",
    "title_en": "Will continuous increases in base interest rates put a burden on the profitability of savings banks?",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lRUdYWDRuTHpqaGZ4RUtYYnBCTVZYTlZETDJ4VkdVeU0xck5vM2hpOVh6ZlNZNnNyWWFheXJmc3Ewc3lLTGdOdThvT1VfNkhLWnpQWDI3ZUFmNmxiZmRlb1h0aVFEVnRnS1ZHVHpkemZXZTR3TlBr0gF3QVVfeXFMT2VFR1hYNG5MempoZnhFS1hicEJNVlhOVkRMMnhWR1V5TTFyTm8zaGk5WHpmU1k2c3JZYWF5cmZzcTBzeUtMZ051OG9PVV82SEtaelBYMjdlQWY2bGJmZGVvWHRpUURWdGdLVkdUemR6ZldlNHdOUGs?oc=5",
    "published_utc": "2026-09-28T06:49:05+00:00",
@@ -6403,7 +6509,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "newsian.co.kr",
+   "source_name": "뉴시안",
    "title_en": "Deputy Prime Minister Lee Hyung-il and Bank of Korea Governor Shin Hyun-song first meeting... Strengthening economic and monetary policy cooperation",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSFkzTTk1UHFrR28tSnFPTkVaSE9pX0hqOWNEcFg2MUxTYjZNR0tnNDdoc0MxTzJoYmlkbENKenYyeHA1MWhOZGlPTGU3ZlFaQzJ3U3EtdU5nVXpNdXRoa1hTeDdDVU9jNkHSAW5BVV95cUxQeGNUYUNGQzBlcEV6VjZkSlIwLXN2Qkp0Q3A5VjVrdThNaUdSUTZXa3ZZaEc1NDJQUVVjWW02WXE0RTNETVR0eTZlaTNpSjBrWUV3M1AtVU8xQ2RTLUduV2hzSmUtMFFsN3hySWVndw?oc=5",
    "published_utc": "2026-09-28T05:00:26+00:00",
@@ -6456,7 +6562,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "news.tf.co.kr",
+   "source_name": "더팩트",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... “Seeking harmony between economic and monetary policies”",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T0R3SWdnS3p2cEozekVCTW9VOGtLX0VJMHFBWm9OaFZtYnluWGJzX3JtbmtCVVQ1VnRTVVp5bEpRWTloZzItekhwTTVQS2lYU3Q3czltZ1A5UdIBVEFVX3lxTE93TU5DMHU4RC0xdXFVbWJEamc1VGxUbFJ2RUQwTW11dXY2V2YxSEp3QnR5OVlmRWpEM2o4X0g0dHZiYUJsTl9kY2ZTc1EzZm8wVlhZQQ?oc=5",
    "published_utc": "2026-09-28T04:18:59+00:00",
@@ -6718,7 +6824,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Hong Kong home prices largely flat in August",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVlZPbDlFNmdjckllRTg3UFpzbkt5NVdBRmZxenBmbUE1SFhRODItai1VdE1PREZZSzhpcnNISHk3NmRueDc3Y09EMWlDUnBsOUw3RXEtNUhad3pUcmdGVnBOS3Y4cS1CbmpRWlVMOHlES0dIYjA3c3A4dWxTeGcwS1NjUlR5Wlo4Q3BGckVCWllEOWc4d1NSb3l5YTQ?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -7072,24 +7178,6 @@
    "live_wire": false,
    "manual": false,
    "id": "279b402dddc7ac8e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 139 billion yuan 7-day reverse repurchase operation, with a bidding volume of 139 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMi0yWV8zYUtvUi1lLU1Fcm1fdFlTeVFMeUZZanlFTUhTMXJFYTNFa1AxR3pISmpFMDBPNWd1ZFJpeHBHMHQtQ01ES0JRNkhDX1Y1VVo3UkNQTjlxVzZqZlFmQ1dHdw?oc=5",
-   "published_utc": "2026-09-28T00:51:06+00:00",
-   "title_original": "央行开展1390亿元7天逆回购操作，投标量1390亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf11f16a021479e1"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -7474,7 +7562,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "직썰",
+   "source_name": "ziksir.com",
    "title_en": "The Bank of Korea's monetary policy is distorted by the rise in U.S. interest rates... Three major variables for the October Monetary Policy Committee decision",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRcXA4TnBNTU1FUDNZNXh6SzlsOERzc2RhNGluelNPTFJ2dkMtQnE0STNUX0NhWjVrTmxaMElNQ1BaLURZeHJJQVptSkdLbXZXT01ZS0lmRW1RV0NZUWtPQjVhRXZqZlVa0gFsQVVfeXFMT0gxbXQ1aWtvRkNMUzkxTENJT2JUeUpRV2lFWmkzdTE3UjFfQWY1UUJlOFVqYlZMMlI3cFU1akpzaEVDTkRxd0VsemZJN2ktWDRfbHowVFFjclA2OXRDSVJsUTI3WEs2SEhxQ3ph?oc=5",
    "published_utc": "2026-09-27T21:00:00+00:00",
@@ -8021,7 +8109,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
    "published_utc": "2026-09-26T19:59:32+00:00",
@@ -8362,7 +8450,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Arming Taiwan an important US interest, Taipei official says after Trump-Xi summit",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmxPT01ncFNMX1E2V2FuRWpFUk0tXzR6WWJVYUl6TlRHM3QxYndiMTAyWlN0bV9qRlJMdmxiem9OQzJUZHBlMnJuZzBTUjFxbVZpN1QtOThvRTZTMEZrRHJSNG4zbnNJRU9lVWdpQmdveV84NHo1R1R0WHJSRmhUdWdYWVJka2t4RWtSVld5TDV2SVpScE80UnJXdkdsOFQ2dlFxeHJMdEFvODlHdnVPVGMyMnhVWWl3cHZWRDN6Yw?oc=5",
    "published_utc": "2026-09-26T03:11:21+00:00",
@@ -8867,7 +8955,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Trump-Xi state dinner guest list includes SpaceX’s Musk, Nvidia’s Huang and LVMH’s Arnault",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODQxZlQtOHZFRC1GeGc0ZzhtVjI4bHNjX1F4TEd4NWJZTlk0UmRCQndWT2NmQXhwdlNVWmRYZXA4Q0tvbEtNZ1BsY3haY2k1YUpnU2s2T1lseFVGR1VHZFpaUEYxUGxvT2pqOThaUDlxa18tUmk5ZjJ1QmdIYm1rY29VLTE2WHNrdXNqVWxHc0pYVWJlbWtmbEtwTVRaVUI2aWRIcTdmVDI1MExEbFVDRHU2aHFaVkdxMEJndHcxZU9PSU1Ec0E?oc=5",
    "published_utc": "2026-09-25T15:54:08+00:00",
@@ -9003,7 +9091,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Five takeaways from Trump's summit with Xi in Washington",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUZiUFVUOGt5dnNJYXpucXZQZ2NmbjlYdzZPV2ZDZFlUZ3AyZjJJNXNkVndsZ0dJSmgwZ3BlX2R3M1dYNWtILWhtdDh2aXFndHllTy1wa0RrU3M1ZW5tR1pvWEM4a1lMbXdyR2g1M2JQZlozNjVVLWZaYjBBYm1ZMEx5VW51eFlHQ01NNnZhNHlhVDBoMW4zU3VwOA?oc=5",
    "published_utc": "2026-09-25T13:39:37+00:00",
@@ -10073,7 +10161,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "US Democrats criticize lavish Trump-Xi summit as lacking substance",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUZjSjY1VWloRVlHOGNncVhDOEktaDhRS213am9WcVFoQm5WazVBT09USEdTdy1vamlHQktXMmd2S3FwM2Y2eUhsd2FPWGxQNmR6cEJBcVZfcFBZbWlMQnFDWDQ3dGd6SjFyRlNoTDhxOU8tckZtblZOSzJPSG5IVTBqS0ptZlZtaUUtSkQ0MDVIaE5TUFowTUYzQXlfamk1UTdKTkp6OW0zd1NyTTBlclFlQzFzcVU?oc=5",
    "published_utc": "2026-09-24T23:12:10+00:00",
@@ -10666,7 +10754,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "The central bank makes big moves before the holiday! The upper limit of overnight reverse repurchase soared to 1 trillion, and MLF made a net investment of 200 billion. What signal?",
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQV3YyRU9vNWdxbFZVeWtZMnZKUDB6TEVWaXZINmJNRGtETG9KVVp5R19DbEd2YlZwbW42TFZJYTlUMUprdGV6ZEVQcUtLTGFGdjhRX3dLWW5EUFZSNmxDNlZvTjZZQks3UzNGRXRuUnF4TXRoWW1TdlZsNDFUamtxalJEeG5rU2ROVDZ4MEJlNXN4OFFfMG5SY2MyOWRkR1NuanBTcm15dVg3RzJUNnMxaVB2VWRETTh5YzN0YlFOWkJhRjF4YWs1RFZkX0xfampMV2loZF8yZ2lzOVZ4MEEzMC1ZUm1hQnZNcWNPWFkzU2MtbVpIWG9DYUxWYXVVWDE1VEhJQ1JEaXVrWkduR3NRTA?oc=5",
    "published_utc": "2026-09-24T07:00:00+00:00",
@@ -11118,7 +11206,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "The central bank increased the amount of MLF, and the total net liquidity injection in mid-September was 200 billion yuan｜News",
    "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPdENyZWpjUjFnZXM2Y3AzeW9URHBxS2VtNTNmeUJudGZ5Yzh6Z0xMWWFjRUdfTmNrYmRBNWh0a1pwd3l5QUlTM0hBc3M1Vk1CT0hyUmVlOHJiY2d6cnJsSmQxX3NHNF9WUzZTZzh0aE5qTGN5b2Z2Q0s3Z29sSGlBMUM4YW5lNy16N1ltVF94dXhwN3huSXRvQ25KM3htNENpYVNrMlFkdUlfX3M0YXN0b3hhdjZONnYxZ3ZvQVVaSl9VS2NKMmVZMzlKb3hkNXdwUnpqSXpmdjBSaGRNMXNFVzdVbHpvQlNXb00yaTMxR050OG90bmpoZWxJbmVTbXlYNEcyd29nZkRCMWZtN1I0VzFNZ2x0NmdDTkwxSlhSRmluUnpUQThOVTEtd1FkNGhuQXZuZW9iQ09pUEZVYVlNNDFHSmVQNlZWREkwWDRxSmZpN1QtOEhmU3B4ZnNyMnl3T19URzA3TTNTSktEWUtBSHNhVm8tT1dJeU83TllEcm54eGdCOGlBVW9jQ0FiUVNCeTJCN1NOSWpsZUkwUEhfU1V2ZjN6eVJaQkFxOG5DNEFCYVdDZFo2T0EzY3ctNTNjN1UtM3JINl9mM1V4T0tXREhwYw?oc=5",
    "published_utc": "2026-09-24T03:35:51+00:00",
@@ -11312,7 +11400,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "hn.news.cn",
+   "source_name": "新华网",
    "title_en": "The central bank will carry out overnight reverse repurchase operations",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ld2s3OGFjMUJxLU5HOGdCUnNtTVZJbTIyOVBSb1ZnbFZ2VnVMVUZ2eVNURTJSTVk5Vkotb3JQRjdaaVZuMl9JeUFtTnhSQkE2QUxRYlp2RTROb2V6VjlZelhyV3VWby1JSGsxNXI4T3VSbmhvN2V1eUJSZw?oc=5",
    "published_utc": "2026-09-24T01:28:40+00:00",
@@ -12333,7 +12421,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "US says China trade truce extended as Trump welcomes Xi",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
    "published_utc": "2026-09-23T10:01:00+00:00",
@@ -20116,7 +20204,7 @@
   },
   {
    "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "BOJ lifts rates to 31-year high, pivots towards preemptive inflation fight",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -20184,6 +20272,24 @@
    "live_wire": false,
    "manual": false,
    "id": "a9787add5be5af92"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: 2 of 9 BOJ policymakers voted against rate hike",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XWU5vWGk4MEpVNkZmd1ZaV0pnQ29MV3E2N0lQWTh4SGdmUzR4ZHJVR2ZMTXUxdkNteDN4UzNiQ1N4UXNMbGthWklnazdfUHZOV2treWp2UFc5Zw?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: 2 of 9 BOJ policymakers voted against rate hike",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "993936432cbe3c9c"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51899,110 +52005,6 @@
    "live_wire": false,
    "manual": false,
    "id": "293acc5b6bc424da"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Taiwan's manufacturing activity expands at fastest pace in 5 years",
-   "url": "https://focustaiwan.tw/business/202609010031",
-   "published_utc": "2026-09-01T12:44:28+00:00",
-   "title_original": "Taiwan's manufacturing activity expands at fastest pace in 5 years",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6ce165b555a0dcfc"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Mozambique reverses decision on central bank chief, names Navalha as governor",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMk0tSGticGd2RU9GVmE3Vk1FaVg4QXVTMjNldDlyOWFxaWpFc2VzQlQ2b2E4RGdfemJqOHNXbUEtZzlXelJVYnZ3RXFNRkFmNnBRaHV5blpiTGMzblY5UHZtMjA1R3JwdnY3QS1jUTRxQjd4ZUpmdERFWDlfMWVzTU5sZmw0ZDRrN2NwLXBocVI0QTI3UjRlRl9GTGIxdFp1MDBwSDR4UnlGc2VHdGFXcG9uN3VRRmEzeWx3YUhn?oc=5",
-   "published_utc": "2026-09-01T12:44:27+00:00",
-   "title_original": "Mozambique reverses decision on central bank chief, names Navalha as governor",
-   "region": "taiwan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8366f5cdc617c78d"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Bond selloff deepens and stocks drop as oil prices stoke inflation fears",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
-   "published_utc": "2026-09-01T12:27:21+00:00",
-   "title_original": "Bond selloff deepens and stocks drop as oil prices stoke inflation fears",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "022b601cfb10d421"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Japan Corporate News",
-   "title_en": "TANAKA Memorial Foundation to Offer Precious Metals Research Grants of Up to 10 Million Yen (from a Grant Pool of 20 Million Yen) - Applications for Research Projects Open on September 1",
-   "url": "https://www.tradingview.com/news/reuters.com,2026-09-01:newsml_JCN109552:0-tanaka-memorial-foundation-to-offer-precious-metals-research-grants-of-up-to-10-million-yen-from-a-grant-pool-of-20-million-yen-applications-for-research-projects-open-on-september-1/",
-   "published_utc": "2026-09-01T12:05:31+00:00",
-   "title_original": "TANAKA Memorial Foundation to Offer Precious Metals Research Grants of Up to 10 Million Yen (from a Grant Pool of 20 Million Yen) - Applications for Research Projects Open on September 1",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a99f06578f099f0e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Iron ore steady as traders assess high shipments, China PMI",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44T0O8:0/",
-   "published_utc": "2026-09-01T11:41:29+00:00",
-   "title_original": "Minério de ferro fica estável enquanto traders avaliam embarques elevados e PMI da China",
-   "region": "china",
-   "topics": [
-    "activity",
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "2a79b5bac987898e"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Long-term interest rates temporarily rise to 3.005% due to growing expectations for a Bank of Japan interest rate hike and concerns about fiscal deterioration (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hNTJLclBqdjJpcjkyT0tSaVZWUy1qT0xXMXp3QTJSSE9XYmpibDYyRTlIcnpDa2k5dEtSZ2habUQtMU5IUlZxT2E3dndWdVl4UVRJTFFiRGlDRXNUZ2xKY2FUN1FydjE4Y0RiSno5MkpLaVNVa01Sb1QxYlVyaHM?oc=5",
-   "published_utc": "2026-09-01T10:25:45+00:00",
-   "title_original": "長期金利 一時3.005％まで上昇 日銀の利上げ観測高まりや財政悪化への懸念から（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec6f0822549bf826"
   },
   {
    "source_id": "manual_ia",
