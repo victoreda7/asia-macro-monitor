@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T11:42:47.497562+00:00
+Última coleta: 2026-10-01T11:52:47.490306+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1290
-  🇨🇳 China          778
+  🇨🇳 China          777
   🇹🇼 Taiwan         251
-  🇰🇷 Coreia do Sul  681
+  🇰🇷 Coreia do Sul  682
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix reiterates no decision made on Solidigm financing despite dual-listing reports
   - [korea] Lotte expands financial, export support for partners
   - [japan] Kumamoto Earthquake: National government takes financial measures for prefecture reconstruction fund Fujii, Mi
   - [china] China's BYD sales rise in September as export boom sustains momentum
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ Summary Suggests Low Chance of Back-To-Back Rate Hike — Market Talk
   - [japan] Japanese Shares Climb on Chip Rally
   - [japan] BOJ Summary Shows Government Unconcerned About Price Overshoot Risks — Market Talk
-  - [japan] Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T11:42:47+00:00",
+      "published_utc": "2026-10-01T11:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
