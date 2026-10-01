@@ -7,25 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T02:32:46.261541+00:00
+Última coleta: 2026-10-01T02:42:44.734754+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1289
-  🇨🇳 China          758
-  🇹🇼 Taiwan         257
+  🇯🇵 Japão          1287
+  🇨🇳 China          759
+  🇹🇼 Taiwan         258
   🇰🇷 Coreia do Sul  696
 
 ## O que já está no feed (não repita)
 
   - [japan] What is the NHK public opinion poll? Survey targets and methods
+  - [china] China's PMI Improvement May Not Be Sign of Economic Recovery — Market Talk
+  - [japan] Japan 10-Year Yield Rises on Hawkish BOJ Outlook
+  - [japan] Tankan Supports View for Faster-Than-Before BOJ Rate Hikes — Market Talk
   - [korea] Lotte expands financial, export support for partners
+  - [japan] Japan business mood reaches 8-year high, bolsters case for BOJ hikes
   - [japan] Japan's Nikkei hits six-week high as Micron forecast lifts chip stocks
   - [korea] South Korean won, Thai baht lead losses across Asian currencies
+  - [japan] Yen Weakens as Dollar, Treasury Yields Weigh
   - [japan] Bank of Japan's short view on the 6th period of continuous improvements in the large enterprise manufacturing 
   - [japan] Bank of Japan Tankan: Large companies and non-manufacturing industries worsen for the first time in five quart
   - [japan] Bank of Japan's main opinions were less hawkish than expected (NRI researcher's commentary on current events)
   - [korea] Korea moves to cut bond issuance as high rates bite
-  - [japan] Japan business mood reaches 8-year high, bolsters case for BOJ hikes
   - [japan] Need to accelerate pace of interest rate hikes; strong economy, wary of upward movement in prices; Bank of Jap
   - [japan] BOJ Summary Points to Growing Risk of Inflation Overshooting Target
   - [taiwan] TSMC weighs investment in Texas to expand U.S. chip production, Reuters reports
@@ -37,6 +41,7 @@ Total: 3000 manchetes
   - [taiwan] AI chip packaging demand meets labor pushback: ASE's NT$5.6B Taiwan snack factory deal sparks strike vote
   - [japan] Japan Manufacturing Sector Ebbs In September - S&P Global
   - [korea] SK Hynix trapped in no-trade zone at ₩1,778,000: Live levels
+  - [taiwan] SG Semiconductor builds brand and talent for Singapore chip industry
   - [japan] Bank of Japan summary affirms priority is avoiding inflation overshoot
   - [taiwan] Key facts: TSMC (2330) $265B U.S. investment; $60–$64B capex outlook; Q3 results Oct. 15
   - [japan] Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in pri
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ debated more rate hikes, scope for faster move at Sept meeting, summary shows
   - [japan] [Breaking News] Bank of Japan September Tankan Business Confidence Improving in Large Companies and Manufactur
   - [japan] BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary
-  - [japan] JGBs Fall on Prospects for Quicker Pace of BOJ Rate Hikes — Market Talk
-  - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion
-  - [korea] South Korea's monthly exports top $120 billion for the first time on record chip sales
-  - [korea] South Korea September exports rise 83.5% y/y to monthly record
-  - [japan] BOJ debated need for more rate hikes at September meeting, summary shows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T02:32:46+00:00",
+      "published_utc": "2026-10-01T02:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T02:32:46.261541+00:00",
- "collected_at_utc": "2026-10-01T02:32:46.261541+00:00",
+ "generated_at_utc": "2026-10-01T02:42:44.734754+00:00",
+ "collected_at_utc": "2026-10-01T02:42:44.734754+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1289,
-  "china": 758,
-  "taiwan": 257,
+  "japan": 1287,
+  "china": 759,
+  "taiwan": 258,
   "korea": 696
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T02:06:33+00:00"
+   "newest": "2026-10-01T02:31:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T02:00:33+00:00"
+   "newest": "2026-10-01T02:31:04+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-01T11:27:54+09:00"
+   "newest": "2026-10-01T11:35:25+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-01T11:31:32+09:00"
+   "newest": "2026-10-01T11:31:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-29T16:00:00+00:00"
+   "newest": "2026-09-30T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T02:22:11+00:00"
+   "newest": "2026-10-01T02:40:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-01T11:00:00+09:00"
+   "newest": "2026-10-01T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T01:49:12+00:00"
+   "newest": "2026-10-01T02:19:18+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -348,7 +348,7 @@
    "source_name": "NHK 政治",
    "title_en": "What is the NHK public opinion poll? Survey targets and methods",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53459",
-   "published_utc": "2026-10-01T02:27:54+00:00",
+   "published_utc": "2026-10-01T02:35:25+00:00",
    "title_original": "NHK世論調査とは 調査の対象と方法",
    "region": "japan",
    "topics": [
@@ -359,6 +359,58 @@
    "live_wire": false,
    "manual": false,
    "id": "ac83028b80138399"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's PMI Improvement May Not Be Sign of Economic Recovery — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20260930009775:0/",
+   "published_utc": "2026-10-01T02:29:00+00:00",
+   "title_original": "China's PMI Improvement May Not Be Sign of Economic Recovery — Market Talk",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1c97e6710a8b988b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Japan 10-Year Yield Rises on Hawkish BOJ Outlook",
+   "url": "https://www.tradingview.com/news/te_news:588472:0-japan-10-year-yield-rises-on-hawkish-boj-outlook/",
+   "published_utc": "2026-10-01T02:25:25+00:00",
+   "title_original": "Japan 10-Year Yield Rises on Hawkish BOJ Outlook",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "59bee4e1bd007dda"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Tankan Supports View for Faster-Than-Before BOJ Rate Hikes — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20260930009769:0/",
+   "published_utc": "2026-10-01T02:25:00+00:00",
+   "title_original": "Tankan Supports View for Faster-Than-Before BOJ Rate Hikes — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f8a33f8f4f52a987"
   },
   {
    "source_id": "korea_herald_biz",
@@ -376,6 +428,23 @@
    "live_wire": false,
    "manual": false,
    "id": "554b60bef9333a48"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan business mood reaches 8-year high, bolsters case for BOJ hikes",
+   "url": "https://www.investing.com/news/economy-news/japan-business-mood-improves-tankan-survey-shows-4926127",
+   "published_utc": "2026-10-01T02:18:47+00:00",
+   "title_original": "Japan business mood reaches 8-year high, bolsters case for BOJ hikes",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b03596461e2646b3"
   },
   {
    "source_id": "tradingview_live",
@@ -410,6 +479,23 @@
    "live_wire": true,
    "manual": false,
    "id": "86952e324d089706"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Yen Weakens as Dollar, Treasury Yields Weigh",
+   "url": "https://www.tradingview.com/news/te_news:588463:0-yen-weakens-as-dollar-treasury-yields-weigh/",
+   "published_utc": "2026-10-01T02:10:06+00:00",
+   "title_original": "Yen Weakens as Dollar, Treasury Yields Weigh",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0f04bca501593068"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -482,23 +568,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3226f022c499edff"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan business mood reaches 8-year high, bolsters case for BOJ hikes",
-   "url": "https://www.investing.com/news/economy-news/japan-business-mood-improves-tankan-survey-shows-4926127",
-   "published_utc": "2026-10-01T01:54:49+00:00",
-   "title_original": "Japan business mood reaches 8-year high, bolsters case for BOJ hikes",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b03596461e2646b3"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -689,6 +758,23 @@
    "live_wire": true,
    "manual": false,
    "id": "1304ec4cc14586f9"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes.com",
+   "title_en": "SG Semiconductor builds brand and talent for Singapore chip industry",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVl9KeWpFRFBJenc0NXNkVU1oYjhxcmpyd2wtX2RYODVkNlNldEtvUXA2T1NPdWRhQzNfZFBOTjZQQ1FyTXd6ZWpidGN0d3BNVWRaYk04SzkwSGVsandkX1ZCem1uSXl0VlIzWnMxd3VTUTd0dTBoQXcwTjhQQWhuckQzaEdXRXRGOWN4b3RCUTZuUDhhd2lXdmk2WF9CSjQ?oc=5",
+   "published_utc": "2026-10-01T01:02:01+00:00",
+   "title_original": "SG Semiconductor builds brand and talent for Singapore chip industry",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e0c0560cb0fb4f94"
   },
   {
    "source_id": "tradingview_live",
@@ -1199,78 +1285,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1f52deb03bbae37a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "BOJ SEPT TANKAN: SMALL MFG INDEX 14; JUNE 9; MEDIAN 11",
-   "url": "https://www.tradingview.com/news/dpa_afx:2ef2b24370716:0-boj-sept-tankan-small-mfg-index-14-june-9-median-11/",
-   "published_utc": "2026-10-01T00:11:07+00:00",
-   "title_original": "BOJ SEPT TANKAN: SMALL MFG INDEX 14; JUNE 9; MEDIAN 11",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6478fc4bb9653f7c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "BOJ TANKAN: SMALL NON-MFG INDEX 15; JUNE 15; MEDIAN 16",
-   "url": "https://www.tradingview.com/news/dpa_afx:d0080e20919f1:0-boj-tankan-small-non-mfg-index-15-june-15-median-16/",
-   "published_utc": "2026-10-01T00:11:07+00:00",
-   "title_original": "BOJ TANKAN: SMALL NON-MFG INDEX 15; JUNE 15; MEDIAN 16",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4d0071a08cd1f64a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "BOJ TANKAN LARGE NON-MFG INDEX 35; JUNE 37; MEDIAN 37",
-   "url": "https://www.tradingview.com/news/dpa_afx:b1a1cee2533ef:0-boj-tankan-large-non-mfg-index-35-june-37-median-37/",
-   "published_utc": "2026-10-01T00:10:52+00:00",
-   "title_original": "BOJ TANKAN LARGE NON-MFG INDEX 35; JUNE 37; MEDIAN 37",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6115fba40d8be452"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "MNI BOJ SEPT TANKAN LARGE MFG DI 24; JUNE 22; MEDIAN 26",
-   "url": "https://www.tradingview.com/news/dpa_afx:65149455a04fa:0-mni-boj-sept-tankan-large-mfg-di-24-june-22-median-26/",
-   "published_utc": "2026-10-01T00:08:13+00:00",
-   "title_original": "MNI BOJ SEPT TANKAN LARGE MFG DI 24; JUNE 22; MEDIAN 26",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c3fec502f14368e2"
   },
   {
    "source_id": "nikkei_asia",
@@ -1887,7 +1901,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "Brazil Beef Hit With 55% China Tariff After Filling Quota",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFRJajFYUUxyMkRmeGRyMmFSSEw3VE92V2phQWVPaEdKOEU4SFJmOHExeWtzck1HYm1DeFFDWkVMX0dhcnA2NmlidG5ZeWh2a1BJSWZIbVE0Vk1aN3VRTXcxekl1bzBOR29HMnlueDE2OEVwRGFMWTktbnl4S2cyX1lEV0xhd1d5eWJESVMtQmZDUnpEM3J3dS14bE5KTTFHaUwzUnpaRktaaXV1dUEzc28xb0s?oc=5",
    "published_utc": "2026-09-30T15:04:44+00:00",
@@ -1904,7 +1918,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "kwnews.co.kr",
+   "source_name": "강원일보",
    "title_en": "Household loans continue to increase despite increases in base and loan interest rates",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNFgwSmhySEF2c043UU52SVJESzRyYnFJVjJmbDl4N0VSX3NXUFlHcVdZU0hDY3VjMkNpNzR1eUVEbXpsYWtFMDNQYUNrZWRKOERrX09uTW9mdTQ?oc=5",
    "published_utc": "2026-09-30T15:00:00+00:00",
@@ -2508,7 +2522,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Respect the Bank of Japan's autonomy, explain economic and fiscal risks and secure confidence - Member of the Advisory Council (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ZEc4azhCejdhdXh2dGp6S3V2UUVFZmJhdk1obGJnR19ESks3ZHpESk5Od3MyMmIyS2RKZ3BmamVWdm1IcHYxNi1zQ1M1dGM2TFNneWJaM1I2N2dSNnBnOWFFTEQybWY1eEtfSWx6bXBiRmRIbUNwX2tFbTNuSHc?oc=5",
    "published_utc": "2026-09-30T09:42:03+00:00",
@@ -2908,7 +2922,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHJwbTJwSzgzVDFaelEyck14dlFhNkF3MXpoQUJ3VEhlcXZ2bXBvMUw1ajdBSV9kQzVNNGY4WEc0TGUxRWVFNDBsSk5DYVdELUdNa2tETERRTW5XanR3WGQ1b0kwQVBzQTRIZUNzcDkxN3Vsdlc5d2xDSDVySlFWTE5CR2pObUZYX0N3MkxoNzhDS0VaWHZJc1ZvejRTZDQzY3AzMURmX3VhVEZ4bnNtYQ?oc=5",
    "published_utc": "2026-09-30T06:51:00+00:00",
@@ -2943,7 +2957,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQm1qaVhoWHdfY0duY25QYkp2SE1qZWFRWUVQMU92N1h2ZmVjbDFWTGgzQm5oQS10QWtTb0tSSmc4b2ttX3RGWDlaTmZuNzh5Nm8zOXdCZms1Y0RkMTJjcmxvNlNpaDFyaW9OVk41QVRuNFJSTXJXVlRGdTBrbVJCY3NfSnVzcTFYNUhBUmt5U2tnX1FHa0h2cWN6emdvM2kyQjlXcC1NNmVxQ0haQjFuTg?oc=5",
    "published_utc": "2026-09-30T06:17:00+00:00",
@@ -3029,7 +3043,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "China Repo Push Advances as Legal Issues, Low Yields Drag",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0JNOXlBc1ZlQmxHSG1VbjRWQUxrazU3dWVCRjlpd2NmUFBEYjVDc3I3cXRtdHhZTmlVenZwc2tBM2dMdnQ2NlRDNFRyODlSeTNvQTQweFM4N2xnZmtBQXY4cGZ0S09lbndWdWF2ZU9mTHEwblR1cThKSzc4SWszczZvT1N0cFN1a3JNeWpyazIzMFVBLXJpRjZrbUs4cTFDTWVxTVlGZnV3RXd0Z3cyNjUtcw?oc=5",
    "published_utc": "2026-09-30T05:39:00+00:00",
@@ -3233,7 +3247,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEV0aXVjTlZwRmtzSVZoMVRwM2xHa0x6ZU01TFdibDZWYkFEbERvczBTZHBPWGpTZ3gwVk1JMUE3dl9MWWluZ3NvOG9LWlViQkpLWHh5WGw5RnZTSTVINDRyLWpkYnY4eTVRT2lmU3BhVDlzWnhzY3Rjd2lGUnFTOW5nRGdTYXNCQW1KTlU3akpNTjZhOHNtLXFPd0RWYXJmOExoY1U3T1liRHk1TFd5TkZFZFU?oc=5",
    "published_utc": "2026-09-30T02:37:19+00:00",
@@ -3250,7 +3264,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "China Warns Broad EU Tariffs Could Disrupt Trade Negotiations",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWVwQVJDNndsTlFOelI3WV95T2tIQW9TeGluYkhFTHFmdncxanZDUW5XdmYzODBLTjhPUDQ3MEdIdktVVTlHaHdGZnVMSmxaMzE0Q2lqbDEydU4zMWg0VWhXYnlyMVc3X3ppdEJBOHFrSS1GZ2M0UjNJQW0tWmhxSWtUVTM1cDg2WTB3ekhzYW0tTUZHT1RZNkUyYlAycVRTM2hPb1pvR21fYktGMjFfcG5R?oc=5",
    "published_utc": "2026-09-30T02:26:00+00:00",
@@ -3508,7 +3522,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "South Korea Tax Revenue to Hit Fresh Record on Global Chip Boom",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEpTWTFYV25uU1Jsc1c3aS1IZFpXODVWV2ZWUVRGbWhGbXhNMDdLSVdCTWEwaEVSU0NVR3VyU1hmMWlYSnJwV0wza1lYN2VRT2kyRXVwSzlNMXdoVDZVZlBtNzhQY0JHQTRzQkRaLTc0NW1yUzBjRTdXUmhQTDJVM1VIUXpCRUZ5OGxyTExEbndlUlF6SGt6YkR2ckF0UnJHTm9hMXlKaVc0eUZnU0lURFhoUGg?oc=5",
    "published_utc": "2026-09-30T00:00:00+00:00",
@@ -6066,7 +6080,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "China Signals Economic Stimulus to Counter Worsening Slowdown",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjl0SVVLdWt2S2drT1d4SEhVYTJRcV84R2RiRV9hYXM1cUNiTlhERVVwaWRtUGFhVjlCZnJMOTFjSWVEVlZ6cElqbkZTdFNtUGh1X0hkSXhOS2Y4NG9SbGNDanVUbm5zTUhCY1NNX0cyQUFYcGx2SmViOGZ6TVFtWWxzYTN6ZzczaTZRS3FtMENPQWJBYVh2RXRPODhuWnhZeWllNkxpTXU5VGoxb1RqWVBn?oc=5",
    "published_utc": "2026-09-28T13:00:41+00:00",
@@ -6154,7 +6168,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "US, China Release Product Lists for $30 Billion Tariff Deal",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejAwODBlZm1pdk5leVFwbHA2cnRWRkZXT2R2ejVDNjhtV01qb3ZFQ0hoMW9pWTVHN3dqOXBramZyY0RDdDJkMEQyUGRaVHh5QUFnak1SQ0c4dkp6aE5QYjdEd25ZMXFheXhRcmVXLXZJV1ZLNmk1MndtZ3FaNmNPcDNXSkxkV1Rvb2x6MmZBWVBvOV9rTmZMS0ljRENGWGY3d0ZFbFpTajZGVW1PZGdz?oc=5",
    "published_utc": "2026-09-28T11:33:29+00:00",
@@ -7056,7 +7070,7 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "ft.com",
+   "source_name": "Financial Times",
    "title_en": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFBnYU9HTGlGbC1FM3JwQmxHMmpuUWk4NVpFbFFFbnAzN0l5WG02ZE1qOWxIREtuaHlqN2wwRlduZDd3T292QTYwSTVVaG82bWxnR3FlWGotN2xIakpDRW5uSGpRYjNFX3c5SXNTTU51OGNmN1ViTU1ZYS14N3dKWFFTUXA?oc=5",
    "published_utc": "2026-09-28T04:05:16+00:00",
@@ -8603,7 +8617,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "Here’s a Comparison of US, China Readouts on Trump-Xi Summit",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTRRVVViYnJIa1VxRFNtZnlYN0R4V1M0aUVaTlJWbUJ2WmpBTDAxQ2ZjdnpRNVI0Z0Z4eW9FNHRnZzRJQjVXekRFNEYxREFXQlJGalQyUVFOb1lEck1FTktwRG1pWW9FdHlnNkd1WnN3Y1RFMXZScldyQUFzekRUSmdmdG5rT2ZKVEZMRzU0VklRX0xGaFhvdTg2ODdZcHAwQlg1cFV0SXhxbnEyeU13?oc=5",
    "published_utc": "2026-09-26T16:03:59+00:00",
@@ -10934,7 +10948,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "Peng Liyuan’s English takes the spotlight in exchange with Melania Trump",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT1k0cFZaVzJ0M0k4RDd6SlVCdzdXNjFIelNmQTMtZjNWOFNTUFlCMTR4R094b1E2c1hTdDFJX1FBRmNpODVXQVdremxRZmtOeXgwRnBoTDUyRExub0Vra1lod0Z5NThPVGtuQWlpek1RQzFial96TVBUNE1pX0ZBN0tnSFMwMnJMNTdnUTk4VXhDNENHM3JDdURGTFFudm9aSEZwM3BOaWZOaE1ScU4wa251ZWdHUDV3X3FwdFJCLXJ5RU05cXM40gHHAUFVX3lxTE5HRGhFby1fY3pCZXU2UjlnZnNJMlg1SlJlXzRaaHg3M29VOEhaei1mT3dIajc4QXRGdUNIMTUtUmVKcG5xcnJVV3VsNVJCMTVkX2UxUDNwc21rbWlzYjZmTmgwYWQ5MlBXNS1OczNVYmxGYXNoV2oxX1ZKU0FKMTA3M1NGOHpqOGNhMDhFbjVYV0p4UG9hM1NfWER5ekpmLXFLNUdQSi1MS3pSaXZlS19vRW5qcHVla2ZveGZ4Z1JGc1BRWjk1bjA?oc=5",
    "published_utc": "2026-09-24T10:43:41+00:00",
@@ -20367,6 +20381,24 @@
    "id": "dfe78368aa5c6456"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "english.kyodonews.net",
+   "title_en": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmVudElxT21NQUxjV0JCVGlqSVZSaU9tOHRCa2pNdzk5MHJSM3pGX01JYlBHYlhvX204OG1fRnFCTEZZSzFzSEd4aWJhWEV5X2R2MnZXZ2I0QQ?oc=5",
+   "published_utc": "2026-09-18T07:41:00+00:00",
+   "title_original": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6fccd22b421df798"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan raises policy rate to 1.25%, highest level in 31 years Governor Ueda emphasizes policy to continue raising interest rates at press conference",
@@ -20556,24 +20588,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f2edd6a4675e1ef2"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "english.kyodonews.net",
-   "title_en": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmVudElxT21NQUxjV0JCVGlqSVZSaU9tOHRCa2pNdzk5MHJSM3pGX01JYlBHYlhvX204OG1fRnFCTEZZSzFzSEd4aWJhWEV5X2R2MnZXZ2I0QQ?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6fccd22b421df798"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51974,24 +51988,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f24daa7eb2c0dc81"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "The burden of mortgage repayments will become even heavier...How long will the Bank of Japan's interest rate hike last? | Life | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/956490?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-01T21:00:00+00:00",
-   "title_original": "住宅ローンの返済負担はさらに重くなっていく…日銀の利上げはいったいどこまで続くのか | ライフ | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b0db9eb38731d7b"
   },
   {
    "source_id": "manual_ia",
