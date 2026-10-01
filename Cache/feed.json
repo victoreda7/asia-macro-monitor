@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T14:32:50.203100+00:00",
- "collected_at_utc": "2026-10-01T14:32:50.203100+00:00",
+ "generated_at_utc": "2026-10-01T14:42:49.321348+00:00",
+ "collected_at_utc": "2026-10-01T14:42:49.321348+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1289,
+  "japan": 1288,
   "china": 783,
-  "taiwan": 250,
+  "taiwan": 251,
   "korea": 678
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 54,
+   "count": 59,
    "error": "",
-   "newest": "2026-10-01T19:44:56+08:00"
+   "newest": "2026-10-01T21:12:08+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T14:07:16+00:00"
+   "newest": "2026-10-01T14:34:56+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T14:07:57+00:00"
+   "newest": "2026-10-01T14:30:46+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T14:32:00+00:00"
+   "newest": "2026-10-01T14:40:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -411,6 +411,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ec020b3e36b70722"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiwan's manufacturing activity expands at fastest pace in five years",
+   "url": "https://focustaiwan.tw/business/202610010023",
+   "published_utc": "2026-10-01T13:12:08+00:00",
+   "title_original": "Taiwan's manufacturing activity expands at fastest pace in five years",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8c2572500f737e46"
   },
   {
    "source_id": "tradingview_live",
@@ -3060,8 +3077,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -3075,7 +3092,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "75b4c762a9b099d0"
+   "id": "1a1839a5fb285df0"
   },
   {
    "source_id": "nikkei_asia",
@@ -3474,8 +3491,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -3490,7 +3507,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "950b84d1e9e45198"
+   "id": "2711875b41f47be4"
   },
   {
    "source_id": "tradingview_live",
@@ -3510,8 +3527,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -3524,7 +3541,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5af5981dfcf348d4"
+   "id": "c6a7c990cb0818fa"
   },
   {
    "source_id": "nhk_economy",
@@ -5558,7 +5575,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
+   "source_name": "taipeitimes.com",
    "title_en": "Legislative Yuan rejects Control Yuan nominees",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iUHl4WUs4Vng5UVZQYl9uOTJHSEJDZlU2MWJXaF9jdUJxbUhSSTJMXzNKajJBYUxyV0JRN0o1czFRMDdWc3hWUmoyMDlCQVVDRmJUZElSeFhDVjMxaENIWHRxOFhYWm9RbEtGZlNIVE1tUjF1NnloTg?oc=5",
    "published_utc": "2026-09-29T16:00:00+00:00",
@@ -5768,7 +5785,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "新华网",
+   "source_name": "news.cn",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"-Xinhua",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGw3YmRiRW40NGFsM0pRSThUTWtYNWNQbmpZWW1FaXJ0NHBmT0Y1Njh6NmhnVFdtbm8zZEJmSEVXY3dqdnRzWGdrT09wNUVSMlNURndkdm9yMFhuUzRpVFkzX3Nnb2toTDhjblg1MU5pNFhOc2tySHY3cVZ5VmJOaw?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
@@ -6411,8 +6428,8 @@
    "id": "703f925fda4ee45d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
    "published_utc": "2026-09-29T04:23:30+00:00",
@@ -6427,7 +6444,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "38b4d6c26a1ec51f"
+   "id": "7abfef93833be46e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -9630,7 +9647,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
+   "source_name": "taipeitimes.com",
    "title_en": "Trump-Xi meeting: ‘Anti-China card’ has lost impact: KMT lawmaker",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsQXQ1alJhdWZoRWFVeW05UmJsSHhKV1NRYXBxa1RmLTEzR3lWVk5wcldPZFh1ZU0tTUpuVkZ0TUN4Rl8tbU1wa01EZ05Dd2dRQjZkYWVpUnQ3TWxub2pOdllQeFFkSHpBZE9uVWowLXhsd1hjZS04OXVB?oc=5",
    "published_utc": "2026-09-27T16:00:00+00:00",
@@ -10108,7 +10125,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
+   "source_name": "taipeitimes.com",
    "title_en": "Trump-Xi meeting: Xi’s visit to archives cut short, sources say",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VV3lGYU9xMUxaZGp5dDlQMjN2azJXYjVRSWs5SEh4aFJpMmlQeVRfcGxqSEVFTHRSRHBzVktkbnB5YmR1dHFSczAwTnpJZmJsSDlqSTJUVHVxaFAyVGJkejk0dHRsTFhlZmlId00tS09PbGpOUDlQUWRR?oc=5",
    "published_utc": "2026-09-26T16:00:00+00:00",
@@ -27318,7 +27335,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
+   "source_name": "taipeitimes.com",
    "title_en": "Japan eyes defense spending at 3.5% of GDP, sources say",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRUhuRDBpTVBUS0wxbWR2MjE2RDRNalJYdGdlZFVuT1E3NDMzR1hDU0VsSF9WUXRGRktpamhNV18wNTlTcGdHN3V3dHd2QkFUaVA1VmxDVE1QbXJaMTVYd3VVYmUtclc5eVNzUnFhc0F4RXNzU212TA?oc=5",
    "published_utc": "2026-09-16T07:00:00+00:00",
@@ -51959,24 +51976,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2529556c61f5e047"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BOJ to debate rate rise, inflation much closer to 2% target: governor",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82LWlhNy1aMkdZRFlMUkZUSDFNRTl1MC1IOW80Y2ttdzEzN2tIa0dXSjBRRFdOQzE5dFpSTmV5Yl9ITHNFUV9tXzRRbWZqUFJ4bjA2RHFtdE12QQ?oc=5",
-   "published_utc": "2026-09-02T07:00:00+00:00",
-   "title_original": "BOJ to debate rate rise, inflation much closer to 2% target: governor",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "368db4db6b2f549a"
   },
   {
    "source_id": "manual_ia",
