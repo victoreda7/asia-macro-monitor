@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T23:23:21.824683+00:00",
- "collected_at_utc": "2026-10-01T23:23:21.824683+00:00",
+ "generated_at_utc": "2026-10-01T23:32:44.084394+00:00",
+ "collected_at_utc": "2026-10-01T23:32:44.084394+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1283,
-  "china": 791,
+  "china": 790,
   "taiwan": 250,
-  "korea": 676
+  "korea": 677
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T23:00:54+00:00"
+   "newest": "2026-10-01T23:24:50+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T03:16:00+00:00"
+   "newest": "2026-10-01T00:28:15+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T23:22:00+00:00"
+   "newest": "2026-10-01T23:30:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea Inflation Rate Slows in September",
+   "url": "https://www.tradingview.com/news/te_news:588916:0-south-korea-inflation-rate-slows-in-september/",
+   "published_utc": "2026-10-01T23:16:11+00:00",
+   "title_original": "South Korea Inflation Rate Slows in September",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "72e8672382bd297f"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1550,23 +1567,6 @@
    "id": "ebef020db8a01e13"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "China's Tencent taps Oracle for 100,000 AI chips in $7B lease deal - report",
-   "url": "https://www.tradingview.com/news/seekingalpha:12becd97d094b:0-china-s-tencent-taps-oracle-for-100-000-ai-chips-in-7b-lease-deal-report/",
-   "published_utc": "2026-10-01T06:38:32+00:00",
-   "title_original": "China's Tencent taps Oracle for 100,000 AI chips in $7B lease deal - report",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fef79c89b7cba543"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "At 3:00 p.m., the dollar rose to the low 158 yen range, as expectations for continuous interest rate hikes by the Bank of Japan faded (Reuters)",
@@ -1638,7 +1638,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "pulse.mk.co.kr",
    "title_en": "Korea’s real wages fall for 4th straight month as inflation outpaces pay gains",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JdVZVVjhfVzJvOGJSV2M5eUMwMncxX1JFa2t6Ym1nX0taUENvV0xWOWYwdFcwWXhhS1Bzbjk3YWJlVEdjQ3F5bHlMZ3lDa3RqTkE?oc=5",
    "published_utc": "2026-10-01T06:08:01+00:00",
@@ -2244,7 +2244,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "Seoul shares narrow losses late Thurs. morning amid inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtT0JBWTF5MkVrNEkwRktwUWJ1WUwzdDQzUVN2eE4zUTFpNHI2M3ZkVEhDSjBLaTdBVVZFT09GZ3VZOG5KWERub3BUX3VBb2tGUnB2SVRWTXE0QQ?oc=5",
    "published_utc": "2026-10-01T02:28:02+00:00",
@@ -3348,8 +3348,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -3363,7 +3363,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "75b4c762a9b099d0"
+   "id": "1a1839a5fb285df0"
   },
   {
    "source_id": "nikkei_asia",
@@ -3744,8 +3744,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -3760,7 +3760,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "950b84d1e9e45198"
+   "id": "2711875b41f47be4"
   },
   {
    "source_id": "tradingview_live",
@@ -3780,8 +3780,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -3794,7 +3794,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5af5981dfcf348d4"
+   "id": "c6a7c990cb0818fa"
   },
   {
    "source_id": "nhk_economy",
@@ -5897,7 +5897,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "K-Radio 우리방송",
+   "source_name": "radiok1230.com",
    "title_en": "The Korean financial market is tense due to the sharp rise in US and Japanese government bond yields... Bank of Korea warns of ‘interest rate and foreign exchange’ risks",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRbGdjVHpXRjQzUThyejNseFB0VUxZdlVlSWpWZER6dndJamtVWFMtb2FSV2JlanhPMEtUMjM0cEViR3VYOFo2WTluQm5Wd0s1MnZiS3VGNmdJcWkxcHdCYkxXeDRTYlFjeDZjSElCdnc1UdIBckFVX3lxTFBRbGdjVHpXRjQzUThyejNseFB0VUxZdlVlSWpWZER6dndJamtVWFMtb2FSV2JlanhPMEtUMjM0cEViR3VYOFo2WTluQm5Wd0s1MnZiS3VGNmdJcWkxcHdCYkxXeDRTYlFjeDZjSElCdnc1UQ?oc=5",
    "published_utc": "2026-09-29T15:05:12+00:00",
@@ -6056,7 +6056,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "新华网",
+   "source_name": "news.cn",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"-Xinhua",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGw3YmRiRW40NGFsM0pRSThUTWtYNWNQbmpZWW1FaXJ0NHBmT0Y1Njh6NmhnVFdtbm8zZEJmSEVXY3dqdnRzWGdrT09wNUVSMlNURndkdm9yMFhuUzRpVFkzX3Nnb2toTDhjblg1MU5pNFhOc2tySHY3cVZ5VmJOaw?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
@@ -6286,7 +6286,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "stcn.com",
+   "source_name": "证券时报网",
    "title_en": "1.2 trillion yuan! Central Bank’s operations on October 8",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LYjdwdllJLW9nZUhrNmhIRTRCZHNVOWdGRkZuUnJxNnU0OWZiVDdSdFJRaDF1MlB0S0FJRlN4cE40Zzk3VjV6R2E1Q0wyMVVfU3pOd3Y2VQ?oc=5",
    "published_utc": "2026-09-29T08:59:00+00:00",
@@ -6564,7 +6564,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Seoul stocks fall for 2nd day on inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cald3d3pKTFV1T09pQUV6dEh6cVdjOUk3eUUyckFET29QTEl2Q1VzYXNpWUcxWXhueTlYY3pCOFFTYlpwN1h6eGFIcWlBZy1kdy1MS3VrMThSUQ?oc=5",
    "published_utc": "2026-09-29T06:43:27+00:00",
@@ -6598,7 +6598,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "(URGENT) Seoul stocks fall for 2nd day on inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iYU4yLUQyUjl4ODc1cVNGLWZwMmhFOGNfR3JjaU16aWJOTGlURlV5a1Y1YzA5NkNkWXRPWno4aFlraG5KRE5GbW9XYWlxN011ZlljR25FWTZMQQ?oc=5",
    "published_utc": "2026-09-29T06:31:04+00:00",
@@ -6962,7 +6962,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "pulse.mk.co.kr",
    "title_en": "Samsung Electronics, SK hynix rebound on bargain-hunting",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51YldWZ1lfN0s2Ui1pZDV4Z3RVNGp4X2ZVd2hXWnJiWFFDYkdWM0Q4cFJCSnJNXzVIZmFDZWJiMFVJazN0djFPZlV1eEZEaHI1MlhrOWdWQQ?oc=5",
    "published_utc": "2026-09-29T02:10:34+00:00",
@@ -7136,7 +7136,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Seoul stocks open lower on inflation woes",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVZjUk0wZzZPMTd6d25VYWtkbXBOSkFhR0F0dzFfdzdkNmlhdzNFQmQxWHVCYnotbUlmS1g4aTRWekF5VDBlYlBpRElOUDNnWVRBY091eU9YTGdkN1doNkE0bS1tUHJRelNsYV94RTJRUW5IUjIyTnJPZGRNZ0hlVWhrS2E?oc=5",
    "published_utc": "2026-09-29T00:20:22+00:00",
@@ -7153,7 +7153,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "(URGENT) Seoul stocks open lower on inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6cGJYUERTMTlTeDF5dDl0cVktLWxlZWxZNUdzTVM0Sm95eThNeTctNkJucHIwSExlWHdIZ01OZ3ZzVWxPc0dKVnFldmVhdUxtcmU2eFQxdldBdw?oc=5",
    "published_utc": "2026-09-29T00:01:21+00:00",
@@ -7429,7 +7429,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "Biz sentiment falls in September on rising costs: BOK",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxUXdBdjJ2ZGQ1MDRJakxyWkRxSnhCN2g5aFU2dk9fWGdGUGIyb3dYUzFfbWlWMC0yWTlHX096OWRWcVlwRWlJbk1NOEt4WkdaU2c1a0V6VWRyZw?oc=5",
    "published_utc": "2026-09-28T21:00:10+00:00",
@@ -8536,7 +8536,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "straightnews.co.kr",
+   "source_name": "스트레이트뉴스",
    "title_en": "Will continuous increases in base interest rates put a burden on the profitability of savings banks?",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56VjhKSmlzSzd3R2JqenJobEtXU0toR0twSWtKM0IxOFdjMkVUTVdhYTByYU5EMmx5bGdweG1ZOGZjNkRqWnlPa1N0Nkh2dVFLVXBTdW9DLW9ZV3lMWmdEV25kTHhNeXlWV041ZEFGQTlKZmPSAXdBVV95cUxPZUVHWFg0bkx6amhmeEVLWGJwQk1WWE5WREwyeFZHVXlNMXJObzNoaTlYemZTWTZzcllhYXlyZnNxMHN5S0xnTnU4b09VXzZIS1p6UFgyN2VBZjZsYmZkZW9YdGlRRFZ0Z0tWR1R6ZHpmV2U0d05Qaw?oc=5",
    "published_utc": "2026-09-28T06:25:01+00:00",
@@ -8725,7 +8725,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "newsian.co.kr",
+   "source_name": "뉴시안",
    "title_en": "Deputy Prime Minister Lee Hyung-il and Bank of Korea Governor Shin Hyun-song first meeting... Strengthening economic and monetary policy cooperation",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSFkzTTk1UHFrR28tSnFPTkVaSE9pX0hqOWNEcFg2MUxTYjZNR0tnNDdoc0MxTzJoYmlkbENKenYyeHA1MWhOZGlPTGU3ZlFaQzJ3U3EtdU5nVXpNdXRoa1hTeDdDVU9jNkHSAW5BVV95cUxQeGNUYUNGQzBlcEV6VjZkSlIwLXN2Qkp0Q3A5VjVrdThNaUdSUTZXa3ZZaEc1NDJQUVVjWW02WXE0RTNETVR0eTZlaTNpSjBrWUV3M1AtVU8xQ2RTLUduV2hzSmUtMFFsN3hySWVndw?oc=5",
    "published_utc": "2026-09-28T05:00:26+00:00",
@@ -8830,7 +8830,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "ohmynews.com",
+   "source_name": "OhmyNews",
    "title_en": "Meeting of the Big 2 in the economy... Anxiety in the midst of growth, a test bed for fiscal and monetary policy cooperation",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Id1NqYnQ1LWRodS1Da2lSdFFmeWU5SzZMWXJ0OWwwdUc1dW9XTmVGUjRMSE11eXcweWs0OU9wUXA0bHNDcGRCUzU2N0VoQVhEQmI3MDdjazMyTDZUZXZwZVpXb0dYRDkzLTRWMW1fVDItSHdZU2hr?oc=5",
    "published_utc": "2026-09-28T03:41:00+00:00",
@@ -9076,7 +9076,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "financialpost.co.kr",
+   "source_name": "파이낸셜포스트",
    "title_en": "First meeting between Deputy Prime Minister Lee Hyung-il and Governor Shin Hyun-song... \"Strengthening economic and monetary policy communication\"",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pbmx6ZHpRTWRFZjFaTnVMbTNHbjI3NVpXcmZUMGNNaFBTR1hUa1pPelBoYU9ZQU13WFFOWmlEZFVLalNoWjVpR0N1NHJ5VFIzSVFVbTdkODAxRTFyRTNSOFI1NXkzTGljTjdRZWFlYmNWQUFC?oc=5",
    "published_utc": "2026-09-28T02:43:05+00:00",
@@ -9111,7 +9111,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "biz.heraldcorp.com",
+   "source_name": "헤럴드경제",
    "title_en": "Hyung-il Lee “Seeking harmony between economic and monetary policies”… Shin Hyun-song “Prices and financial stability are the premise”",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENHAxbk5NZXVhSFNpZWZSOXlURW4xdWVWR2hoYmdYRGtPdGVXa0p3c002ZnNDVkxXSHdJcEUyMTcxWkpYSGlNQlVKeU53c2pfU3p6cmpB?oc=5",
    "published_utc": "2026-09-28T02:39:21+00:00",
@@ -9186,7 +9186,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "Finance minister, BOK chief stress coordination to address uncertainties",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zbS1DTl9JVEhPWld2bWppOU1saFFxLTBqNGNoUnNIUFNwalBNQnI1MzJKcDh6OHN3aWJGM3hHSFRWQ3UzanBOd043ZnRTbXE2cjZrWkQtUE1pdw?oc=5",
    "published_utc": "2026-09-28T02:30:22+00:00",
@@ -9937,7 +9937,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "taipeitimes.com",
+   "source_name": "Taipei Times",
    "title_en": "Trump-Xi meeting: ‘Anti-China card’ has lost impact: KMT lawmaker",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsQXQ1alJhdWZoRWFVeW05UmJsSHhKV1NRYXBxa1RmLTEzR3lWVk5wcldPZFh1ZU0tTUpuVkZ0TUN4Rl8tbU1wa01EZ05Dd2dRQjZkYWVpUnQ3TWxub2pOdllQeFFkSHpBZE9uVWowLXhsd1hjZS04OXVB?oc=5",
    "published_utc": "2026-09-27T16:00:00+00:00",
@@ -10296,7 +10296,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "news.mtn.co.kr",
+   "source_name": "MTN 머니투데이방송",
    "title_en": "Even if the base interest rate rises, the deposit interest rate falls... Savings bank’s ‘Chuseok special offer’ also disappeared",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pQkpsamFEZ2I1ZzJtSlQtLVh5WnhSNXZXY2R2dnNCREtDV3JVeTRDWGVlOFhkeUVTTGVkTEpZSkwtdlBMMkVjOHY0eGxIOC1BbVhaUHE0T3djM3E4dm4ycE8teS0?oc=5",
    "published_utc": "2026-09-27T00:02:01+00:00",
@@ -10415,7 +10415,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "taipeitimes.com",
+   "source_name": "Taipei Times",
    "title_en": "Trump-Xi meeting: Xi’s visit to archives cut short, sources say",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VV3lGYU9xMUxaZGp5dDlQMjN2azJXYjVRSWs5SEh4aFJpMmlQeVRfcGxqSEVFTHRSRHBzVktkbnB5YmR1dHFSczAwTnpJZmJsSDlqSTJUVHVxaFAyVGJkejk0dHRsTFhlZmlId00tS09PbGpOUDlQUWRR?oc=5",
    "published_utc": "2026-09-26T16:00:00+00:00",
@@ -16847,7 +16847,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "BOK voices woes over financial imbalance, rising debt burden",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RaE9iR0t6UjZQaFJDZE1oZDdtWkQ4MWNtNkdRMmFES1h3QnFCcF9tNExSeHd0LUE2ZG12cFVzSlFfdHFZTWNkTHhrTWVqNTJwLTE0OVNSTWF5Zw?oc=5",
    "published_utc": "2026-09-22T02:00:11+00:00",
@@ -21434,7 +21434,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "focustaiwan.tw",
+   "source_name": "Focus Taiwan - CNA English News",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T11:36:00+00:00",
@@ -22477,7 +22477,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "S. Korea logs public account deficit for 6th consecutive year in 2025: BOK",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yaXFkSi0wanVHcHc4QWlrdEZlZ1JlZmdVdlhpbXNjQXJpVF9pUTdsUWNUUDJVdXpULVBNRV9GeHV1MTZzQUhjNi1DZnRHd0x5ZkFVeXRZdlFPdw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -22531,7 +22531,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "(URGENT) Seoul stocks open sharply higher on eased inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5YW1NY2xyQnJJOUVxN3ktQ0prUk04N3lmempUNmloUWxZN0JoVEUzT01rX2RlM19HcEMtd2NUenE2ZVp3X0poYTh0VWRVN2E2RTVIZXRKWDBxUQ?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -22617,7 +22617,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Seoul stocks soar over 2 pct on eased inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaV2NGVmw2STJDSU5uUElZM29XSFBIdXpZT1Z5OHUxWFp6NHNpYS01bjlTRlcxWjI0WWp6WEYyTVlKYUN6c0tzR3RUZGZLRjJpemFvcDJlU3V2Zw?oc=5",
    "published_utc": "2026-09-18T06:55:39+00:00",
@@ -22723,7 +22723,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "Seoul stocks soar over 2 pct on eased inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMMVZYVDNnZjUzLS1fZFZRMk92Ty1EQTRhaUxSNGVfb0d6Vkl6VDJmNlRqaW9pcFZsVEdfeHQzR3V1b3dhZFRwa1M2Ukhkb1RRSlVsdDlFX3lzQQ?oc=5",
    "published_utc": "2026-09-18T06:35:35+00:00",
@@ -22740,7 +22740,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "(URGENT) Seoul stocks soar over 2 pct on eased inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDZmNOLUJTdHRMWFVINFBNOURLWXdOaXhKRmRwRHlaOFFuQnFrMld0R2ZpQ0xzUm5qcVRSQUxsdEhGV1hvUjV4aVp3dmZIajFUSDRvcU8wcjdGZw?oc=5",
    "published_utc": "2026-09-18T06:32:53+00:00",
@@ -25882,7 +25882,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
+   "source_name": "Yonhap News Agency",
    "title_en": "Foreigners turn to net buyers of S. Korean assets in Aug.: BOK",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KZTJJQWs2UlF6eGhCVlduRndVVDBGdFd2OWRoaVFpNHZlcnZja1dSLXVXc2xMaG9rZU1yLTA5U0RIandxMkJfSTJaQVFYakZ2RDRTM0hqQUktdw?oc=5",
    "published_utc": "2026-09-17T03:00:14+00:00",
