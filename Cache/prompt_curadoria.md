@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T01:42:43.740607+00:00
+Última coleta: 2026-10-01T01:52:44.175634+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1286
+  🇯🇵 Japão          1287
   🇨🇳 China          762
   🇹🇼 Taiwan         255
-  🇰🇷 Coreia do Sul  697
+  🇰🇷 Coreia do Sul  696
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Summary Points to Growing Risk of Inflation Overshooting Target
   - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Oct 8
   - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion — Update
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] How a TSMC veteran is steering Singapore's lab-to-fab chip strategy
   - [japan] BOJ SEPT TANKAN: SMALL MFG INDEX 14; JUNE 9; MEDIAN 11
   - [japan] BOJ TANKAN: SMALL NON-MFG INDEX 15; JUNE 15; MEDIAN 16
-  - [japan] BOJ TANKAN LARGE NON-MFG INDEX 35; JUNE 37; MEDIAN 37
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T01:42:43+00:00",
+      "published_utc": "2026-10-01T01:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

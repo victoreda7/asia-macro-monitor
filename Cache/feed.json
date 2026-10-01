@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T01:42:43.740607+00:00",
- "collected_at_utc": "2026-10-01T01:42:43.740607+00:00",
+ "generated_at_utc": "2026-10-01T01:52:44.175634+00:00",
+ "collected_at_utc": "2026-10-01T01:52:44.175634+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1286,
+  "japan": 1287,
   "china": 762,
   "taiwan": 255,
-  "korea": 697
+  "korea": 696
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T23:10:24+00:00"
+   "newest": "2026-10-01T00:21:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-09-30T23:34:09+00:00"
+   "newest": "2026-10-01T01:44:09+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T01:42:01+00:00"
+   "newest": "2026-10-01T01:52:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T00:44:07+00:00"
+   "newest": "2026-10-01T01:42:54+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T00:51:26+00:00"
+   "newest": "2026-10-01T01:40:42+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Summary Points to Growing Risk of Inflation Overshooting Target",
+   "url": "https://www.tradingview.com/news/DJN_DN20260930009657:0/",
+   "published_utc": "2026-10-01T01:42:00+00:00",
+   "title_original": "BOJ Summary Points to Growing Risk of Inflation Overshooting Target",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "924aadcd586f6cd2"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -1046,6 +1064,23 @@
   },
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan business mood reaches 8-year high, bolsters case for BOJ hikes",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45M061:0-japan-business-mood-reaches-8-year-high-bolsters-case-for-boj-hikes/",
+   "published_utc": "2026-10-01T00:09:33+00:00",
+   "title_original": "Japan business mood reaches 8-year high, bolsters case for BOJ hikes",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "904d86e939e86585"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "MNI BOJ SEPT TANKAN LARGE MFG DI 24; JUNE 22; MEDIAN 26",
    "url": "https://www.tradingview.com/news/dpa_afx:65149455a04fa:0-mni-boj-sept-tankan-large-mfg-di-24-june-22-median-26/",
@@ -1078,41 +1113,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8cd89a930960060b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "BOJ SEPT TANKAN SHOWS LARGE MFG SENTIMENT RISE LED BY OIL/COAL, STEEL, NON-FERROUS, WHILE OFFSET BY FOOD, LUMBER/WOOD",
-   "url": "https://www.tradingview.com/news/macenews:57df98c3a094b:0-boj-sept-tankan-shows-large-mfg-sentiment-rise-led-by-oil-coal-steel-non-ferrous-while-offset-by-food-lumber-wood/",
-   "published_utc": "2026-10-01T00:07:00+00:00",
-   "title_original": "BOJ SEPT TANKAN SHOWS LARGE MFG SENTIMENT RISE LED BY OIL/COAL, STEEL, NON-FERROUS, WHILE OFFSET BY FOOD, LUMBER/WOOD",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0bbde04150f694b1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Import Growth Tops Estimates",
-   "url": "https://www.tradingview.com/news/te_news:588396:0-south-korea-import-growth-tops-estimates/",
-   "published_utc": "2026-10-01T00:03:05+00:00",
-   "title_original": "South Korea Import Growth Tops Estimates",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1e1a9097a44f25bf"
   },
   {
    "source_id": "nikkei_asia",
@@ -2939,7 +2939,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "guandian.cn",
    "title_en": "Standard Chartered does not rule out the possibility of central bank cutting RRR",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RVXJ3UHFEa21BR3hEVFhaSnptYVNDdGpWMjBoYlhrbC11R2VrRTFjenNXY3Y0bDFrRVVEUlRELUJXN0JzWDA2eFF5UG9XZw?oc=5",
    "published_utc": "2026-09-30T03:56:15+00:00",
@@ -11019,7 +11019,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "guandian.cn",
    "title_en": "The central bank will carry out overnight reverse repurchase on September 28, with a daily upper limit of 1 trillion yuan",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WSmRMRUlZUGhqM3RFYnRzRTgtUURKWVdhRkxrMXY4aWVEeTJlWkZuSGJ2YW1lZTduOVZPbjFkLWQzeXhVTDdyS0x5SkxLdw?oc=5",
    "published_utc": "2026-09-24T07:51:52+00:00",
@@ -11597,7 +11597,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "guandian.cn",
    "title_en": "The central bank launched a 51.5 billion yuan 7-day reverse repurchase operation today with an interest rate of 1.40%",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xa0plYnpBeC1STnk4dkJOemtqUzcySlllck9pOEowYjJ1TlZCQzV5eW5pd210RkRYVkp0cHpuekVWdzRhSTA5c0ZfQUNmNDhKUG80S3JNbTl0VENTTk5hTEd3?oc=5",
    "published_utc": "2026-09-24T02:54:37+00:00",
