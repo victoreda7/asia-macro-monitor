@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T04:22:45.056645+00:00
+Última coleta: 2026-10-01T04:32:44.676189+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1290
+  🇯🇵 Japão          1292
   🇨🇳 China          765
   🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  687
+  🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japanese chipmakers rally as Micron earnings boost AI trade
   - [japan] Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session
   - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
+  - [japan] Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms
   - [japan] Sources of Changes in Current Account Balances and Market Operations (Sept.)
   - [japan] Asian currencies mixed as dollar holds highs, yen slips on BOJ signals
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea’s Export Growth Extends Rally as Chip Boom Rolls on
   - [korea] South Korea’s Monthly Exports Hit Record as Chip Boom Rolls on
   - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
-  - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Oct 8
-  - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion — Update
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T04:22:45+00:00",
+      "published_utc": "2026-10-01T04:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
