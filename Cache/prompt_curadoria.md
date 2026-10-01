@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T07:12:45.619362+00:00
+Última coleta: 2026-10-01T07:22:47.695565+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1293
+  🇯🇵 Japão          1294
   🇨🇳 China          769
   🇹🇼 Taiwan         254
-  🇰🇷 Coreia do Sul  684
+  🇰🇷 Coreia do Sul  683
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock price rises by 2,200 yen Buy orders spread to AI/semiconductor related stocks
   - [japan] Nikkei logs six-week closing high as Micron forecast lifts chip stocks
   - [japan] BOJ Summary Suggests Low Chance of Back-To-Back Rate Hike — Market Talk
+  - [japan] Japanese Shares Climb on Chip Rally
   - [japan] BOJ Summary Shows Government Unconcerned About Price Overshoot Risks — Market Talk
   - [japan] Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session
   - [japan] Yen Falls After Japan Q3 Tankan Survey Data
@@ -33,7 +35,7 @@ Total: 3000 manchetes
   - [japan] Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms
   - [japan] Yen Falls Against Majors
   - [korea] Korea’s real wages fall for 4th straight month as inflation outpaces pay gains
-  - [korea] Trump unveils 3 projects under Korea's $200b US investment plan
+  - [korea] Korea kicks off US investment plan with $22.3b Texas power project
   - [china] Chinese refiners suspend October fuel exports, one cancels cargoes, sources say
   - [taiwan] Four glass makers converge on 510x515mm substrate, hinting at TSMC's next move
   - [japan] Takashi Sasano mentions the ``deterioration of cockroaches'' in the Bank of Japan Tankan News: ``If you listen
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan members publish “main opinions” from September meeting on gap in perception of economy and price
   - [korea] South Korea's Lee appoints new presidential policy chief, economic growth aide
   - [korea] Even if the won/dollar exchange rate surges, the negative impact on household consumption is limited..
-  - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
-  - [japan] Japanese chipmakers rally as Micron earnings boost AI trade
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T07:12:45+00:00",
+      "published_utc": "2026-10-01T07:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
