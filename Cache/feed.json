@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T00:12:45.888590+00:00",
- "collected_at_utc": "2026-10-01T00:12:45.888590+00:00",
+ "generated_at_utc": "2026-10-01T00:22:49.274254+00:00",
+ "collected_at_utc": "2026-10-01T00:22:49.274254+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1284,
-  "china": 771,
+  "japan": 1289,
+  "china": 766,
   "taiwan": 253,
   "korea": 692
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-30T23:48:30+00:00"
+   "newest": "2026-10-01T00:18:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-30T23:30:40+00:00"
+   "newest": "2026-10-01T00:18:49+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T00:12:00+00:00"
+   "newest": "2026-10-01T00:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T00:01:10+00:00"
+   "newest": "2026-10-01T00:14:34+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,148 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan Big Manufacturers More Optimistic Despite Headwinds",
+   "url": "https://www.tradingview.com/news/DJN_DN20260930009345:0/",
+   "published_utc": "2026-10-01T00:21:00+00:00",
+   "title_original": "Japan Big Manufacturers More Optimistic Despite Headwinds",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "51539ebf4738471f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea September exports rise 83.5% y/y to monthly record",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N002:0-south-korea-september-exports-rise-83-5-y-y-to-monthly-record/",
+   "published_utc": "2026-10-01T00:20:24+00:00",
+   "title_original": "South Korea September exports rise 83.5% y/y to monthly record",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2d5b133374fe81ad"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan business mood improves, tankan survey shows",
+   "url": "https://www.investing.com/news/economy-news/japan-business-mood-improves-tankan-survey-shows-4926127",
+   "published_utc": "2026-10-01T00:18:49+00:00",
+   "title_original": "Japan business mood improves, tankan survey shows",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e7692bf114ca7f4a"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ debated need for more rate hikes at September meeting, summary shows",
+   "url": "https://www.investing.com/news/economy-news/boj-debated-need-for-more-rate-hikes-at-september-meeting-summary-shows-4926126",
+   "published_utc": "2026-10-01T00:18:30+00:00",
+   "title_original": "BOJ debated need for more rate hikes at September meeting, summary shows",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "306dcfebf17c3a1e"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "South Korea exports surge past expectations in Sept, trade surplus grows",
+   "url": "https://www.investing.com/news/economic-indicators/south-korea-exports-surge-past-expectations-in-sept-trade-surplus-grows-4926121",
+   "published_utc": "2026-10-01T00:15:07+00:00",
+   "title_original": "South Korea exports surge past expectations in Sept, trade surplus grows",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c427bb406382af5d"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "[Breaking News] Bank of Japan Tankan: Large corporate manufacturing industry improves for 6th consecutive quarter, non-manufacturing industry worsens for the first time in 5 quarters, outlook worsens across the board (TV Asahi Network (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UV0NOWkdaN0JlUHdtQW9meVI3RGp6Slg4ODZLREkwdG1EZ0M3YnJBQzBUQjRNN2VjbnlIUzkyRVp4WEIwbVdpaHlJNHhqdG9qMFZFbzN0ZlAyWDJleXdxNVVFOTdudEd5cExjWW40V3ZNUHNxdWdTcFVIaWxWTlk?oc=5",
+   "published_utc": "2026-10-01T00:14:34+00:00",
+   "title_original": "【速報】日銀短観 大企業製造業6期連続改善 非製造業5期ぶり悪化 先行きは軒並み悪化（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16f2a162dd1f9088"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "BoJ Tankan: Large Manufacturing Index Improves In Q3",
+   "url": "https://www.tradingview.com/news/dpa_afx:7d52fe94eebf6:0-boj-tankan-large-manufacturing-index-improves-in-q3/",
+   "published_utc": "2026-10-01T00:13:26+00:00",
+   "title_original": "BoJ Tankan: Large Manufacturing Index Improves In Q3",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9c7bc78c68a87979"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT’S LARGER-THAN-EXPECTED RISE DRIVEN BY AUTOS, NON-FERROUS METALS, GENERAL MACHINERY",
+   "url": "https://www.tradingview.com/news/macenews:fba5aab49094b:0-boj-sept-tankan-smaller-manufacturer-sentiment-s-larger-than-expected-rise-driven-by-autos-non-ferrous-metals-general-machinery/",
+   "published_utc": "2026-10-01T00:12:00+00:00",
+   "title_original": "BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT’S LARGER-THAN-EXPECTED RISE DRIVEN BY AUTOS, NON-FERROUS METALS, GENERAL MACHINERY",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "46d67fbf4cd4b9f4"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -399,23 +541,6 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan business mood improves, tankan survey shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45M061:0-japan-business-mood-improves-tankan-survey-shows/",
-   "published_utc": "2026-10-01T00:09:33+00:00",
-   "title_original": "Japan business mood improves, tankan survey shows",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c2af751efea0fa17"
-  },
-  {
-   "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "MNI BOJ SEPT TANKAN LARGE MFG DI 24; JUNE 22; MEDIAN 26",
    "url": "https://www.tradingview.com/news/dpa_afx:65149455a04fa:0-mni-boj-sept-tankan-large-mfg-di-24-june-22-median-26/",
@@ -449,6 +574,23 @@
    "live_wire": true,
    "manual": false,
    "id": "0bbde04150f694b1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea Import Growth Tops Estimates",
+   "url": "https://www.tradingview.com/news/te_news:588396:0-south-korea-import-growth-tops-estimates/",
+   "published_utc": "2026-10-01T00:03:05+00:00",
+   "title_original": "South Korea Import Growth Tops Estimates",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1e1a9097a44f25bf"
   },
   {
    "source_id": "tradingview_live",
@@ -567,6 +709,23 @@
    "live_wire": false,
    "manual": false,
    "id": "04d8335519794377"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Japan Q3 Business Confidence Hit Highest Since 2018",
+   "url": "https://www.tradingview.com/news/te_news:588394:0-japan-q3-business-confidence-hit-highest-since-2018/",
+   "published_utc": "2026-09-30T23:57:52+00:00",
+   "title_original": "Japan Q3 Business Confidence Hit Highest Since 2018",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5b2dce502480f3eb"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1607,7 +1766,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "Central Bank: Will launch 1.2 trillion yuan buyout reverse repurchase operation on October 8",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUWdUSmtnTklnOUdGS2ZacFI3WlhQdjZaRHg5dnphT2V0TVFBV1gybVpCN1BBYVJka2xFYXlKeEZZYzU5Tlo2TnNTRUtVN0piNzBwa2dxOTlQaWtsdTFmM1A5VEYyNEtLN3I3WjFjUllHT2c0WlpDQWRQUUlmS2JGOFRHNnE5bFgxaHlvMW1IQ1dWRUVYbERCMVhWNWdnX2xfTVNkaTVn?oc=5",
    "published_utc": "2026-09-30T10:10:46+00:00",
@@ -1818,6 +1977,23 @@
    "id": "772e3a46e7fccceb"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국경제",
+   "title_en": "Global interest rates are resembling ‘post-Corona austerity’… Will Korea also go to 3.5%?",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcmp0RDhESlJPQVFlaE9QTDUyREZ5TXNDMmhCV1hFc0NfOUg4RWJ6NFpQM25LYzRLcExFZ0NPSW9feW5tZ3VmSG1vMVFmcUt1SmRidVoxUmxZdw?oc=5",
+   "published_utc": "2026-09-30T09:11:13+00:00",
+   "title_original": "'코로나 후 긴축' 닮아가는 글로벌 금리…韓도 3.5% 갈까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c12809ebef3e275f"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "财联社",
    "title_en": "17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October 8 with a period of 3 months]",
@@ -1902,23 +2078,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4126b47faf5c9c7e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China stocks flat, limp to quarterly drop, as stimulus falls short",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45M09F:0-china-stocks-flat-limp-to-quarterly-drop-as-stimulus-falls-short/",
-   "published_utc": "2026-09-30T09:00:12+00:00",
-   "title_original": "China stocks flat, limp to quarterly drop, as stimulus falls short",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "38af33f64a037979"
   },
   {
    "source_id": "nhk_economy",
@@ -5705,25 +5864,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Fiscal and monetary policy ‘cooperation’",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKLWs2WVhzRzY1bklVb2VUaWF4MXJONUdyS2hzcDhLZ1ZKMXkydmRuZTczZVkyWm9QUG00NHlpRUR5Y0xTb18yUTlweC1fS1U?oc=5",
-   "published_utc": "2026-09-28T08:30:56+00:00",
-   "title_original": "이형일·신현송 첫 회동…재정·통화정책 '공조'",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e0079b7b76fe235c"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "부산일보",
    "title_en": "[Palm Economy] Base interest rates in global financial markets",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NVkFYcUNKTk91dGhya215N2xMM2x5TU5SVy10ZlVldjlsRUtacW1vU2hZMUUtVHBfa1dVb25WM1owYVEza1pzeUZ5ZmZENHpUNkQxbmF1RW5NakI0dUI5amxkMURPdjJ6ZUF3bXBtMWlpdmQz?oc=5",
@@ -5738,6 +5878,25 @@
    "live_wire": false,
    "manual": false,
    "id": "05b609cc9e8e8231"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "v.daum.net",
+   "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Fiscal and monetary policy ‘cooperation’",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5dUdLSVBfaHl1aS0wc284R3FYamdRc2lmakpXS3RYOG1TVWhDUmhkeURTMTVDRnVBdjdKTlhDZ0JfT2dBckE?oc=5",
+   "published_utc": "2026-09-28T08:30:00+00:00",
+   "title_original": "이형일·신현송 첫 회동…재정·통화정책 '공조'",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "31782cf8d632a163"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51843,159 +52002,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f5fc5423a43b5a4e"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Tells Carmakers to Keep Price War Away From Export Markets",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEZGWk1OQTliaktzbUFvUWVfaGp5YXdLVVNnU0U0aUoyT0QtNHMwZktmb25DUUxreTA1YlNpTHFLQmJrcmZWUjVwcC0xWnJVbHJxODNUaE9zQWdTRDlWSTZnLW8tcjBhNDI2RTl0WVEyOEFTSjU3V3VOd0ZRbGRBZGhuN0d2RDJwRENJck9rTHJIT3BXLVN4cGRLTVM2UHN4OVF6cXg3TE1sVFNnZVUwRGFDdmg3Zw?oc=5",
-   "published_utc": "2026-09-01T09:37:54+00:00",
-   "title_original": "China Tells Carmakers to Keep Price War Away From Export Markets",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "71f97aa5ff185af7"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan, U.S. agree \"orderly\" yen rates crucial for financial stability",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vT2ZhNUFhbEZ2UUM5Q1BOTFJDRnU0amEtaFJvZHk0S1JreENvMnJpb2RmVHVKVHhtUlVOa2JGZWN4NXdvVXp1Uktwd3RHQllaWTZDaFpPN29JZw?oc=5",
-   "published_utc": "2026-09-01T09:33:23+00:00",
-   "title_original": "Japan, U.S. agree \"orderly\" yen rates crucial for financial stability",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "219258221c6c1785"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "BYD's sales extend growth streak on strong exports",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3RrUklYeUhraXJFWVpTNEhQSThWbk1GZ1ZoOHhScVplSDQ2RHVyT2ZqeWN5bDdkODhPOVQ0VEtvN01vOWZBLUZQRnE5eWUxZXlzTWNta0RmTlFIeTdxeHhiZUdtbTRQR2VuZGJuX3lJZGJGX2xEdFFGT0JobXNMZVEwa0VzSWpaTl95R3FxOC1GOGVOUlAtX1FmWGJPNnhtSmJ0S3RKZ2JHYnM2UUU2MVd3?oc=5",
-   "published_utc": "2026-09-01T09:29:56+00:00",
-   "title_original": "BYD's sales extend growth streak on strong exports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "680c1128a00dc00d"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Court Freezes Nexperia Assets Worth $318 Million in Fight Over Dutch Chipmaker",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY01veWdCVWoxQzBwbjE1ZGdVZjRQMXM3YVpDR3NhZFdUdXo2eEc1TzQwVHFJc2ZNY0lnSXRWRS1adnR6dEpFNGpLNmFUZlpBLTZYTEpVQ0o3bC02QXR4X1pSbExlSHVpejFvOGU5UnZVX0lkc2pxOEE1eThEZ05RVDU1LWxKZ3NWUW9qaWNxc1pWazJfUVhXcmtUTEpxQ2hvWmNFdjZ2Tll1eVRYbTU3WWVGTHltT1ZmN1I5T1hlZDJyd2hYX01ydE9B?oc=5",
-   "published_utc": "2026-09-01T09:05:47+00:00",
-   "title_original": "China Court Freezes Nexperia Assets Worth $318 Million in Fight Over Dutch Chipmaker",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7024fe94b843b194"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The tax reform plan, which had a lot of talk and troubles, was partially revised around the comprehe..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zSU9yRms2UF9VRDdiSnhqU2hLeFJyX0hoWm43MG1fbmphQk5yTmc3UGdIRDZuWDdWcDB0ejNZUEJMdi1VY3E0NDMzdFNnLUFHd1E?oc=5",
-   "published_utc": "2026-09-01T08:59:01+00:00",
-   "title_original": "The tax reform plan, which had a lot of talk and troubles, was partially revised around the comprehe..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "45c650781fa5be88"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The characteristics of the \"super budget,\" which is set at 821 trillion won next year, are the Futur..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56WWNrRGdickVCT3RiRDRGbzV3QkRZNVNyYUdNa0tIM3ZjeG5xVVlvVHFodDJIYjA2TTBieUo1eTMxb2p4bkdjSzM4TENNczEyT2c?oc=5",
-   "published_utc": "2026-09-01T08:53:46+00:00",
-   "title_original": "The characteristics of the \"super budget,\" which is set at 821 trillion won next year, are the Futur..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ce4316efaeb55222"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "SK Hynix touts up to 5.15x inference gains with custom HBM",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkk5NWJhb24xQjUyZDhEYXRCNlVsTGJ2bEFGd3N0U0ZRbS04dElKS3E0Yjg4ZWlLRXpLcWpQVXRBaV9EaTFIRkFGdEExUFFjTmNZY2V5cDktSGluR0NmZVJBYjFMWVJpdTZHb1RDWU1rU1dlcEJKYXpfbjl2dVl3bFo0Wk9TRzY4MlNVTkljeUhLN2JhdGVMUjBlN0xoOGQzZGJCUzRWR2wxZVdh?oc=5",
-   "published_utc": "2026-09-01T08:53:42+00:00",
-   "title_original": "SK Hynix touts up to 5.15x inference gains with custom HBM",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e94cbb39fca8b5ce"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The government has set aside the R&D budget for next year at 39.5 trillion won, the largest ever..",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FUEs5OUpvN0VQOFc5NHVIMGVtZllxUFRGQUtYMUZmYTdwdTU5VlpQM1BxM3htVXY2U1dvdkVJR09vMDR1MmozOGVKWQ?oc=5",
-   "published_utc": "2026-09-01T08:52:59+00:00",
-   "title_original": "The government has set aside the R&D budget for next year at 39.5 trillion won, the largest ever..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6992ded44cc4b867"
-  },
-  {
-   "source_id": "scmp_business",
-   "source_name": "SCMP Business",
-   "title_en": "Why US sanctions threats against China aren’t credible",
-   "url": "https://www.scmp.com/opinion/china-opinion/article/3365837/why-us-sanctions-threats-against-china-arent-credible?utm_source=rss_feed",
-   "published_utc": "2026-09-01T08:30:06+00:00",
-   "title_original": "Why US sanctions threats against China aren’t credible",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "445d505440b5543d"
   },
   {
    "source_id": "manual_ia",

@@ -7,28 +7,37 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T00:12:45.888590+00:00
+Última coleta: 2026-10-01T00:22:49.274254+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1284
-  🇨🇳 China          771
+  🇯🇵 Japão          1289
+  🇨🇳 China          766
   🇹🇼 Taiwan         253
   🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Big Manufacturers More Optimistic Despite Headwinds
+  - [korea] South Korea September exports rise 83.5% y/y to monthly record
+  - [japan] Japan business mood improves, tankan survey shows
+  - [japan] BOJ debated need for more rate hikes at September meeting, summary shows
+  - [korea] South Korea exports surge past expectations in Sept, trade surplus grows
+  - [japan] [Breaking News] Bank of Japan Tankan: Large corporate manufacturing industry improves for 6th consecutive quar
+  - [japan] BoJ Tankan: Large Manufacturing Index Improves In Q3
+  - [japan] BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT’S LARGER-THAN-EXPECTED RISE DRIVEN BY AUTOS, NON-FERROUS METALS
   - [japan] BOJ SEPT TANKAN: SMALL MFG INDEX 14; JUNE 9; MEDIAN 11
   - [japan] BOJ TANKAN: SMALL NON-MFG INDEX 15; JUNE 15; MEDIAN 16
   - [japan] BOJ TANKAN LARGE NON-MFG INDEX 35; JUNE 37; MEDIAN 37
-  - [japan] Japan business mood improves, tankan survey shows
   - [japan] MNI BOJ SEPT TANKAN LARGE MFG DI 24; JUNE 22; MEDIAN 26
   - [japan] BOJ SEPT TANKAN SHOWS LARGE MFG SENTIMENT RISE LED BY OIL/COAL, STEEL, NON-FERROUS, WHILE OFFSET BY FOOD, LUMB
+  - [korea] South Korea Import Growth Tops Estimates
   - [japan] BOJ SEPT TANKAN: MAJOR MANUFACTURERS SEE INFLATION AT 2.2% IN 5 YEARS FROM NOW VS. 2.2% FORECAST IN JUNE SURVE
   - [japan] BOJ SEPT TANKAN: MAJOR MANUFACTURERS SEE INFLATION AT 2.3% IN 3 YEARS FROM NOW VS. 2.2% FORECAST IN JUNE SURVE
   - [japan] BOJ SEPT TANKAN: MAJOR MANUFACTURERS SEE INFLATION AT 2.3% A YEAR FROM NOW VS. 2.3% FORECAST IN JUNE SURVEY
   - [japan] BOJ SEPT TANKAN: ALL FIRMS ASSUME FISCAL 2026 USD/JPY FX RATE TO AVERAGE Y154.23 (JUNEY152.57)
   - [japan] BOJ Tankan shows sixth straight rise in manufacturer sentiment
   - [japan] Bank of Japan Tankan in September: Business confidence in “large companies and manufacturing industries” impro
+  - [japan] Japan Q3 Business Confidence Hit Highest Since 2018
   - [japan] Business confidence of large companies and manufacturing industries improves for 6th consecutive quarter, Bank
   - [japan] BOJ SEPT TANKAN: SMALLER FIRM FISCAL 2026 COMBINED CAPEX PLANS -4.7% Y/Y (JUNE -8.3%); MEDIAN FORECAST -4.8%
   - [japan] BOJ SEPT TANKAN: LARGE FIRM FISCAL 2026 COMBINED CAPEX PLANS +11.3% Y/Y (JUNE +11.5%); MEDIAN FORECAST +12.1%
@@ -48,15 +57,6 @@ Total: 3000 manchetes
   - [korea] Trump unveils 3 projects under Korea's $200b US investment plan
   - [japan] Mail-order giant Askul's new president Narimatsu, who is in his 40s, says that after overcoming ransomware dam
   - [japan] How is Japan positioned in the context of "strategic stability" between the United States and China? The forme
-  - [japan] ``Is there a reason for more than just easing congestion?'' ANA's ``SFC reform'' unexpected ``correction'' Beh
-  - [japan] Outline of consumption tax reduction and income-based benefits bill revealed
-  - [japan] Most Japan business leaders want strict 2-year limit on food tax cut: Nikkei poll
-  - [japan] United, American Airlines up Japan routes to tap demand fueled by weak yen
-  - [china] Central China Real Estate Reaches Agreement With Existing Lenders On Extension Group's Borrowings
-  - [japan] Three banks raise variable interest rates on housing loans; all five banks raise fixed interest rates
-  - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
-  - [china] Brazil Beef Hit With 55% China Tariff After Filling Export Quota
-  - [korea] Household loans continue to increase despite increases in base and loan interest rates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T00:12:46+00:00",
+      "published_utc": "2026-10-01T00:22:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
