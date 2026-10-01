@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T01:22:44.359899+00:00
+Última coleta: 2026-10-01T01:32:45.189143+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1288
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Oct 8
+  - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion — Update
   - [korea] South Korea stocks slip despite stellar exports as oil worries weigh
   - [japan] Japan MOF To Auction Y3.0T Of TD-Bills Oct 8
   - [japan] Japan Manufacturing Sector Ebbs In September - S&P Global
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ TANKAN LARGE NON-MFG INDEX 35; JUNE 37; MEDIAN 37
   - [japan] MNI BOJ SEPT TANKAN LARGE MFG DI 24; JUNE 22; MEDIAN 26
   - [korea] South Korea Posts Record Trade Surplus
-  - [japan] BOJ SEPT TANKAN SHOWS LARGE MFG SENTIMENT RISE LED BY OIL/COAL, STEEL, NON-FERROUS, WHILE OFFSET BY FOOD, LUMB
-  - [korea] South Korea Import Growth Tops Estimates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T01:22:44+00:00",
+      "published_utc": "2026-10-01T01:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
