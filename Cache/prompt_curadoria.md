@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T09:42:45.740451+00:00
+Última coleta: 2026-10-01T09:52:45.468690+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1291
-  🇨🇳 China          773
-  🇹🇼 Taiwan         253
-  🇰🇷 Coreia do Sul  683
+  🇯🇵 Japão          1290
+  🇨🇳 China          776
+  🇹🇼 Taiwan         252
+  🇰🇷 Coreia do Sul  682
 
 ## O que já está no feed (não repita)
 
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [korea] Bank of Korea plans gold purchase from domestic producers in December
   - [china] Oil prices rise 2% as China suspends fuel exports
   - [china] China's Latest Stimulus Package Could Be Beginning of New Policy Support Round — Market Talk
+  - [china] Chinese refiners suspend October fuel exports, sources say
   - [japan] Flat 35 interest rate is the highest ever at 3.830%
   - [japan] Yen Falls After Japan Q3 Tankan Survey Data
   - [japan] Japan PM vows to underpin yen by boosting economic competitiveness
@@ -31,6 +32,7 @@ Total: 3000 manchetes
   - [korea] The appointments of Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minis..
   - [japan] ``Main opinions'' announced at Bank of Japan's September meeting; no comments on continuous interest rate hike
   - [china] Guangzhou Caps Deposits, Tightens Oversight in Housing-Sales Overhaul
+  - [china] China Cancels Some Fuel Shipments to Support Domestic Supply
   - [china] ZAWYA: Why East African banks are joining yuan payment system ?
   - [korea] ZAWYA: How Kenya won back Rwanda’s oil cargo imports ?
   - [japan] Japan PM says govermentt steps will strengthen market confidence in yen
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea’s real wages fall for 4th straight month as inflation outpaces pay gains
   - [korea] Korea kicks off US investment plan with $22.3b Texas power project
   - [china] Chinese refiners suspend October fuel exports, one cancels cargoes, sources say
-  - [taiwan] Four glass makers converge on 510x515mm substrate, hinting at TSMC's next move
-  - [japan] Bank of Japan releases main opinions at September meeting, maintains interest rate hike stance, with some poin
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T09:42:45+00:00",
+      "published_utc": "2026-10-01T09:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
