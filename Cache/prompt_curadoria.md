@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T13:52:46.621829+00:00
+Última coleta: 2026-10-01T14:05:25.741277+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1289
-  🇨🇳 China          781
+  🇨🇳 China          782
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  680
+  🇰🇷 Coreia do Sul  679
 
 ## O que já está no feed (não repita)
 
+  - [china] Xi-Trump meeting’s takeaways, successes and fallout: 7 US-China relations reads
   - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [china] EU sees worrying rise in imports from China, official says
   - [china] US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] ZAWYA: How Kenya won back Rwanda’s oil cargo imports ?
   - [japan] Japan PM says govermentt steps will strengthen market confidence in yen
   - [japan] Stock price rises by 2,200 yen Buy orders spread to AI/semiconductor related stocks
-  - [japan] Main opinions from the September meeting of the Bank of Japan: If there are signs of upward movement in prices
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T13:52:46+00:00",
+      "published_utc": "2026-10-01T14:05:25+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
