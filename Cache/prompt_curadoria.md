@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T10:12:45.643359+00:00
+Última coleta: 2026-10-01T10:22:47.147415+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1289
-  🇨🇳 China          777
-  🇹🇼 Taiwan         252
-  🇰🇷 Coreia do Sul  682
+  🇯🇵 Japão          1290
+  🇨🇳 China          778
+  🇹🇼 Taiwan         251
+  🇰🇷 Coreia do Sul  681
 
 ## O que já está no feed (não repita)
 
+  - [china] Oil prices rise 2% as China suspends fuel exports
+  - [japan] Yen market price falls by more than 1 yen due to rise in long-term interest rates in the United States
+  - [china] VIEW Chinese refiners suspend October fuel exports, sources say
   - [china] US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources
+  - [japan] [Approaching the 160 yen level again] Reasons why the trend of ``returning to a weak yen'' remains unchanged d
   - [china] US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say
   - [japan] Dollar holds as elevated U.S. yields overshadow cooling inflation data
   - [japan] Bank of Japan Tankan Large Enterprises/Non-Manufacturing Index worsens for the first time in five quarters (AB
@@ -26,7 +30,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
   - [japan] Bank of Japan releases “main opinions” from September meeting, also points out the possibility of accelerating
   - [korea] Bank of Korea plans gold purchase from domestic producers in December
-  - [china] Oil prices rise 2% as China suspends fuel exports
   - [china] China's Latest Stimulus Package Could Be Beginning of New Policy Support Round — Market Talk
   - [china] Chinese refiners suspend October fuel exports, sources say
   - [japan] Flat 35 interest rate is the highest ever at 3.830%
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi Snaps Three-Session Losing Streak; Chip Stocks Advance
   - [japan] Ceres Inc - To Buy Back Up To 10.83% Of Shares Worth 2.5 Billion Yen
   - [japan] Japan manufacturing growth slows to six-month low in September By Investing.com
-  - [japan] At 3:00 p.m., the dollar rose to the low 158 yen range, as expectations for continuous interest rate hikes by 
-  - [japan] Japan manufacturing growth slows to six-month low in September
-  - [japan] Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T10:12:45+00:00",
+      "published_utc": "2026-10-01T10:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
