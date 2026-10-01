@@ -7,18 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T08:22:46.303925+00:00
+Última coleta: 2026-10-01T08:32:48.878106+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1294
+  🇯🇵 Japão          1293
   🇨🇳 China          771
-  🇹🇼 Taiwan         253
+  🇹🇼 Taiwan         254
   🇰🇷 Coreia do Sul  682
 
 ## O que já está no feed (não repita)
 
-  - [china] Guangzhou Caps Deposits, Tightens Oversight in Housing-Sales Overhaul
   - [japan] Japan PM vows to underpin yen by boosting economic competitiveness
+  - [china] Guangzhou Caps Deposits, Tightens Oversight in Housing-Sales Overhaul
   - [china] ZAWYA: Why East African banks are joining yuan payment system ?
   - [korea] ZAWYA: How Kenya won back Rwanda’s oil cargo imports ?
   - [japan] Japan PM says govermentt steps will strengthen market confidence in yen
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T08:22:46+00:00",
+      "published_utc": "2026-10-01T08:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
