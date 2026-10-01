@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T09:12:47.823267+00:00
+Última coleta: 2026-10-01T09:22:44.533255+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1293
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
+  - [japan] Bank of Japan releases “main opinions” from September meeting, also points out the possibility of accelerating
   - [china] China's Latest Stimulus Package Could Be Beginning of New Policy Support Round — Market Talk
   - [japan] Flat 35 interest rate is the highest ever at 3.830%
   - [japan] Yen Falls After Japan Q3 Tankan Survey Data
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Memory shortage deepens, extending boom for Korean chipmakers
   - [japan] Macroscope: Bank of Japan Tankan, support for interest rate hike, October forecast setback slightly (Reuters)
   - [japan] BOJ signals accelerated rate tightening amid persistent inflation risks
-  - [korea] SK hynix says no decision on Solidigm amid IPO concerns
-  - [china] Commentary: A $30 Billion Opening Beneath a Still-High U.S. Tariff Wall
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T09:12:48+00:00",
+      "published_utc": "2026-10-01T09:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
