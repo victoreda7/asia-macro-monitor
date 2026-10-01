@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T12:02:47.608133+00:00
+Última coleta: 2026-10-01T12:12:46.154877+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1291
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [korea] Lotte expands financial, export support for partners
   - [japan] Kumamoto Earthquake: National government takes financial measures for prefecture reconstruction fund Fujii, Mi
   - [china] China's BYD sales rise in September as export boom sustains momentum
+  - [japan] Euro slides to 17-month low, hit by rates and inflation mix By Reuters
   - [japan] Euro slides to 17-month low, hit by rates and inflation cocktail By Reuters
   - [japan] Globaltec Formation Says GOH Min Yen Appointed As Executive Director
   - [china] Oil prices rise 2% as China suspends fuel exports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei logs six-week closing high as Micron forecast lifts chip stocks
   - [japan] BOJ Summary Suggests Low Chance of Back-To-Back Rate Hike — Market Talk
   - [japan] Japanese Shares Climb on Chip Rally
-  - [japan] BOJ Summary Shows Government Unconcerned About Price Overshoot Risks — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T12:02:47+00:00",
+      "published_utc": "2026-10-01T12:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
