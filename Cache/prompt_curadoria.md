@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T00:42:44.281650+00:00
+Última coleta: 2026-10-01T00:52:43.504151+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1290
-  🇨🇳 China          763
-  🇹🇼 Taiwan         251
+  🇯🇵 Japão          1289
+  🇨🇳 China          762
+  🇹🇼 Taiwan         253
   🇰🇷 Coreia do Sul  696
 
 ## O que já está no feed (não repita)
 
+  - [japan] Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in pri
   - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
   - [taiwan] TSMC evaluates potential Texas investment, sources say
   - [japan] Japan Big Manufacturers More Optimistic Despite Headwinds
@@ -32,9 +33,12 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Tankan in September improves for 6th consecutive quarter, large companies/manufacturing industry
   - [korea] South Korea exports surge past expectations in Sept, trade surplus grows
   - [japan] [Breaking News] Bank of Japan Tankan: Large corporate manufacturing industry improves for 6th consecutive quar
+  - [japan] Bank of Japan September meeting should be managed appropriately to prevent prices from continuing to rise exce
   - [japan] BoJ Tankan: Large Manufacturing Index Improves In Q3
   - [japan] BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT’S LARGER-THAN-EXPECTED RISE DRIVEN BY AUTOS, NON-FERROUS METALS
+  - [taiwan] Lip-Bu Tan calls TSMC a partner rather than a rival
   - [korea] South Korea Exports Hit Fresh Record High
+  - [taiwan] How a TSMC veteran is steering Singapore's lab-to-fab chip strategy
   - [japan] BOJ SEPT TANKAN: SMALL MFG INDEX 14; JUNE 9; MEDIAN 11
   - [japan] BOJ TANKAN: SMALL NON-MFG INDEX 15; JUNE 15; MEDIAN 16
   - [japan] BOJ TANKAN LARGE NON-MFG INDEX 35; JUNE 37; MEDIAN 37
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ SEPT TANKAN: SMALLER FIRM FISCAL 2026 COMBINED CAPEX PLANS -4.7% Y/Y (JUNE -8.3%); MEDIAN FORECAST -4.8%
   - [japan] BOJ SEPT TANKAN: LARGE FIRM FISCAL 2026 COMBINED CAPEX PLANS +11.3% Y/Y (JUNE +11.5%); MEDIAN FORECAST +12.1%
   - [japan] BOJ SEPT TANKAN SMALLER NON-MANUFACTURER SENTIMENT INDEX +15 (JUNE +15); MEDIAN FORECAST +14
-  - [japan] Bank of Japan Tankan Economic judgment of large manufacturing companies improves for 6th consecutive quarter
-  - [japan] BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT INDEX AT +14 (JUNE +9); MEDIAN FORECAST +11
-  - [japan] BOJ SEPT TANKAN LARGE NON-MANUFACTURER SENTIMENT INDEX AT +35 (JUNE +37); MEDIAN FORECAST +36
-  - [japan] BOJ SEPT TANKAN LARGE MFG SENTIMENT RISES TO HIGHEST SINCE MARCH 2018
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T00:42:44+00:00",
+      "published_utc": "2026-10-01T00:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
