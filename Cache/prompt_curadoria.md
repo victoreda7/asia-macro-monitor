@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T02:52:45.612774+00:00
+Última coleta: 2026-10-01T03:02:44.167378+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1286
@@ -17,9 +17,12 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
+  - [japan] Tokyo Metro aims to ease rush by projecting vehicle congestion on the floor
   - [japan] [Today's Oha Biz October 1st (Thursday)] Nidek final deficit 564.6 billion yen
   - [japan] What is the NHK public opinion poll? Survey targets and methods
   - [china] China's PMI Improvement May Not Be Sign of Economic Recovery — Market Talk
+  - [korea] Seoul shares narrow losses late Thurs. morning amid inflation woes
   - [japan] Japan 10-Year Yield Rises on Hawkish BOJ Outlook
   - [japan] Tankan Supports View for Faster-Than-Before BOJ Rate Hikes — Market Talk
   - [korea] Lotte expands financial, export support for partners
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC evaluates potential Texas investment, sources say
   - [japan] Japan Big Manufacturers More Optimistic Despite Headwinds
   - [japan] Japan Manufacturing Growth at 6-Month Low, Confirmed
-  - [korea] South Korea factory growth hits 4-month high as export orders boom, PMI shows
-  - [japan] [Japanese Market Conditions] Yen falls to 157 yen-lower level following Bank of Japan's ``main opinion'' - bon
-  - [japan] Japan September factory growth slows to 6-month low, PMI shows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T02:52:45+00:00",
+      "published_utc": "2026-10-01T03:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
