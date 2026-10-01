@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T03:02:44.167378+00:00
+Última coleta: 2026-10-01T03:12:45.609784+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1286
-  🇨🇳 China          759
+  🇯🇵 Japão          1287
+  🇨🇳 China          761
   🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  697
+  🇰🇷 Coreia do Sul  694
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan bond yields rise as US Treasury selloff persists, BOJ outlook in focus
+  - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
+  - [japan] Stock prices rise significantly Buy orders for AI/semiconductor related stocks
+  - [china] Yuan Appreciation Intact but U.S.-China Rate Gap to Cap Pace — Market Talk
+  - [japan] BOJ Likely to Remain on Guard Against Inflation — Market Talk
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
   - [japan] Tokyo Metro aims to ease rush by projecting vehicle congestion on the floor
   - [japan] [Today's Oha Biz October 1st (Thursday)] Nidek final deficit 564.6 billion yen
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Key facts: TSMC (2330) $265B U.S. investment; $60–$64B capex outlook; Q3 results Oct. 15
   - [japan] Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in pri
   - [taiwan] Taiwan Manufacturing Expands Most Since 2021
-  - [korea] South Korea Manufacturing Growth Accelerates in September
-  - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
-  - [taiwan] TSMC evaluates potential Texas investment, sources say
-  - [japan] Japan Big Manufacturers More Optimistic Despite Headwinds
-  - [japan] Japan Manufacturing Growth at 6-Month Low, Confirmed
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T03:02:44+00:00",
+      "published_utc": "2026-10-01T03:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
