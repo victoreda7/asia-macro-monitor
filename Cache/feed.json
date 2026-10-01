@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T13:02:47.385681+00:00",
- "collected_at_utc": "2026-10-01T13:02:47.385681+00:00",
+ "generated_at_utc": "2026-10-01T13:12:49.152009+00:00",
+ "collected_at_utc": "2026-10-01T13:12:49.152009+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1290,
+  "japan": 1291,
   "china": 779,
   "taiwan": 250,
-  "korea": 681
+  "korea": 680
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T13:02:00+00:00"
+   "newest": "2026-10-01T13:11:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N0J1:0/",
+   "published_utc": "2026-10-01T13:06:02+00:00",
+   "title_original": "EUA reduzem exportações de peças de aeronaves para a China, enquanto Trump busca obter vantagem nas negociações comerciais, segundo fontes",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "94f580ec9d66e84b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45N0RI:0-us-slows-aircraft-part-exports-to-china-as-trump-seeks-leverage-in-trade-negotiations-sources-say/",
+   "published_utc": "2026-10-01T13:05:13+00:00",
+   "title_original": "US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a1ab80297f3a44ec"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -532,23 +566,6 @@
    "id": "ebbc525822fae0e8"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N0BF:0/",
-   "published_utc": "2026-10-01T10:01:07+00:00",
-   "title_original": "EUA reduzem as exportações de peças de aeronaves para a China enquanto Trump busca obter vantagem nas negociações comerciais, segundo fontes",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "729bc8226bcba356"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "[Approaching the 160 yen level again] Reasons why the trend of ``returning to a weak yen'' remains unchanged despite foreign exchange intervention and interest rate hikes / Impact of the Bank of Japan's ``failing to become a hawk'' / Focus of Japan-U.S. ``additional interest rate hikes'' / ``Risk of Trump going out of control'' after the midterm elections | Business | Toyo Keizai Online",
@@ -565,23 +582,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ff9e6eb86b9ca6a8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45K0SH:0-us-slows-aircraft-part-exports-to-china-as-trump-seeks-leverage-in-trade-negotiations-sources-say/",
-   "published_utc": "2026-10-01T10:00:00+00:00",
-   "title_original": "US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c6c54afe66c81561"
   },
   {
    "source_id": "gn_jp_investing",
@@ -706,6 +706,23 @@
    "live_wire": true,
    "manual": false,
    "id": "52dbef66e6261e18"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Japan to Detail First Five Years of Takaichi Investment Plan",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWW1aNHBrZWNXZmhzaVJiMnk3U3Y0MmVDcDBqX3hOQ19nSFEzSk5iMExaWHBUb1BJQ1RxZWdWdWFxMTNsZXUwMWZLVE1GOVZpZWIyQWhUT2tsUm16bzA3ajlUcXhrVUl0aTYyVUhhcUoxMlJyeW9hNWRhdXJTN213MEUyV0h3Zlpad3N5TG1tWmh4ck9hOGlhVnEzZ0gyYzAxV1piUWY0aVdEdVVEek1RMG9IRFc?oc=5",
+   "published_utc": "2026-10-01T09:08:27+00:00",
+   "title_original": "Japan to Detail First Five Years of Takaichi Investment Plan",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "794fdc0e3e97d31b"
   },
   {
    "source_id": "tradingview_live",
@@ -1766,10 +1783,10 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "ft.com",
+   "source_name": "Financial Times",
    "title_en": "EU steel exports hit by high energy costs, tariffs and China oversupply",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWxvZElxNVZsVHBRUXByUVJ5aTF3bE5TTjluQTBJUlp5VUVlM3plcDBzLVpmODltSUFnbUdlN09JSWwtdkFwSS1lSmZOTlFnSnFxbWlNd2RDWVFxWVdLSEQyREgtQl9UREZEZ1R2MmJIVlVsNmw3UnphZ3k0RHRFbHVQVEg?oc=5",
-   "published_utc": "2026-10-01T04:00:24+00:00",
+   "published_utc": "2026-10-01T04:00:49+00:00",
    "title_original": "EU steel exports hit by high energy costs, tariffs and China oversupply",
    "region": "china",
    "topics": [
@@ -2697,7 +2714,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Japan big manufacturers' confidence improves to 24 in Sept. from 22: BOJ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMRlItT0ozSEdlUXpJbTdJWkhaUldSWUVGSS1MNjYtbGl2YnFaTVZmR1BSZXVvMTNKdUJYVnJvd1M0MG5EN1Z5Q0EyOXJ1b2liYUlBWVZjMExvUQ?oc=5",
    "published_utc": "2026-09-30T23:51:00+00:00",
@@ -8441,7 +8458,7 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "ft.com",
+   "source_name": "Financial Times",
    "title_en": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFBnYU9HTGlGbC1FM3JwQmxHMmpuUWk4NVpFbFFFbnAzN0l5WG02ZE1qOWxIREtuaHlqN2wwRlduZDd3T292QTYwSTVVaG82bWxnR3FlWGotN2xIakpDRW5uSGpRYjNFX3c5SXNTTU51OGNmN1ViTU1ZYS14N3dKWFFTUXA?oc=5",
    "published_utc": "2026-09-28T04:05:16+00:00",
@@ -8756,7 +8773,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "hani.co.kr",
+   "source_name": "한겨레",
    "title_en": "Deputy Prime Minister Lee meets with Bank of Korea governors 6 days after taking office... “Fiscal-Monetary Policy Cooperation”",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSXltS2J3QUhWa2V2aERndVJDaHJLbUJPRGluanBpTDJOMG56d0pUVVRIOEh6Q0tHV2x2eWpNUWJvLXE2N3NrNkdKZUo2cHBkZml2U2JobEtFYUNaRURNNjVwVmV5QQ?oc=5",
    "published_utc": "2026-09-28T02:39:00+00:00",
@@ -10887,7 +10904,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Bessent says desirability of strong yen discussed with Japan's Katayama",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mWEU3b0QxMzJrYUdPNi1oOUdNRFZIUklqNDFkRnlTU1B2NUEyekVkcUgzVURMTzdZek1YUEVuODk4d3NoRjFLSUNLTUtVXzlLTjlQcUlmZFYyQQ?oc=5",
    "published_utc": "2026-09-25T15:20:00+00:00",
@@ -10955,7 +10972,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Dollar briefly falls below 157 yen after Japan-U.S. financial chief talks",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNkNaaUs1bVFZc3gwY1NlZUV4RllnVV9pVzA3VXFtdTNtcVlta1NGazg4S3J6MGlFVTlIZkNRdGxPN3FtNTUzUTlaa2pEMWZpV1N1a24tY1pZQQ?oc=5",
    "published_utc": "2026-09-25T13:49:00+00:00",
@@ -11041,7 +11058,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Japan, U.S. finance chiefs reaffirm undervalued yen is problem: Katayama",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMUc0NnMwVWNyZnVIOWFZMGYtc21HYjVPM0hWbGg1SGoyeDhhSFJpbGp3Z2c2RXBRMFVnWi1JUGFuU2ZqbTFnVG1wbkZTNXF2U1gxaXpMc19Gdw?oc=5",
    "published_utc": "2026-09-25T13:00:00+00:00",
@@ -11092,7 +11109,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "Trump voiced concern about yen weakness in talks with Japan PM: Takaichi",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TmhLNXZ4T1pmNG5fZ3RqbDFsbE5WN2NpNjYzbzF6bGRpU3llR0pFS1ZMYlp2eEtpVjlKTFJKVE1ZM0l4SXRjUXAyMkhETWZURHJwTFluS2Nndw?oc=5",
    "published_utc": "2026-09-25T11:46:02+00:00",
@@ -12964,23 +12981,6 @@
    "id": "1bc7720e48c64bbc"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "US says China trade truce extended as Trump welcomes Xi",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
-   "published_utc": "2026-09-24T05:19:47+00:00",
-   "title_original": "US says China trade truce extended as Trump welcomes Xi",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "173572d249bb696b"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Qualcomm sticks with TSMC for both 2nm Snapdragon flagships as Samsung steps up foundry push",
@@ -14613,6 +14613,23 @@
    "id": "80a5f39ca30e6422"
   },
   {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "US says China trade truce extended as Trump welcomes Xi",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
+   "published_utc": "2026-09-23T07:00:00+00:00",
+   "title_original": "US says China trade truce extended as Trump welcomes Xi",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "173572d249bb696b"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "U.S. President Donald Trump has been supporting a ban on exports of diesel from the U.S. As public s..",
@@ -14993,7 +15010,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "Japan retailer Aeon launches 1,000 yen jeans amid consumer crunch",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJUjlscWxBbkl5eFBwMEdzNElyaHRoc05aUy1adFA2dGg3M2NOVjRYYlQteFkwUTFSYTE5dU1OYzV4bFJ1OTNBaHUwSXU5WFdGNm55V0xxN0Ztdw?oc=5",
    "published_utc": "2026-09-23T01:20:00+00:00",
@@ -18874,7 +18891,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "Japan to give up to 430 mil. yen in grants for Solomon Islands elections",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42ZjVHRzNrSS02V2J5aTVHS1Jyd2xCZ1oyMjBHcGRSMzRYdF9jRjljMW9EV1phb1pyY3QwcFo5RGRFblpDVU5wSFRYTm5lUWFvV2gya1NrOUtnQQ?oc=5",
    "published_utc": "2026-09-20T07:00:00+00:00",
@@ -19607,7 +19624,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "FOCUS: BOJ quickens interest rate hikes, tightening course remains unclear",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pSGdvTmdBcWhGSWs1bl94QUNxRnpmcW9GbHhTdGU5VUFiYkZXSDh6SF9qQmFnTEM2MkotM1NfMGRTRjI3UDFuNGNWTFNKTnVhMk1XMlB0TklNUQ?oc=5",
    "published_utc": "2026-09-19T07:00:00+00:00",
@@ -19624,7 +19641,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Yen gains vs. dollar amid speculation of BOJ \"rate check\"",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yaXBZY0dmcEtkYXJ6ZnN5M3ZRMzc1WUhmUkZvX0llVy14eTNZc2RjVFNsc21yQWk1NzM0WXZWUVRlaDNNSmtBWGxyMkpYMl9OWXlJMUFuckJRZw?oc=5",
    "published_utc": "2026-09-19T07:00:00+00:00",
@@ -21839,7 +21856,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Japan's economy, prices moving almost in line with BOJ's expectations: Ueda",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YOXktak1PWDhZMWYtb2RkSHZVM3laNlhlcWFYbVA3dy1maDd4RkdocDFKcDhmZjNvVXZuTXJnWnNaVE5TMUN4YmItVUIzcVpCdDRvZEZsb1RDZw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -21891,7 +21908,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: BOJ watching impact of overseas rate hikes on Japanese yen: chief Ueda",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjNU0tNVg2emxsX0N4TWJySFpXd182RVA3amJ6MXRCaW1oRUpXa1k1cW1fblZ1cHJTcTEzQnh5aFZLby0wbTMwWmFPeEw1NjN2LVVfVUxLYk5qdw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -21962,7 +21979,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmVudElxT21NQUxjV0JCVGlqSVZSaU9tOHRCa2pNdzk5MHJSM3pGX01JYlBHYlhvX204OG1fRnFCTEZZSzFzSEd4aWJhWEV5X2R2MnZXZ2I0QQ?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -21999,7 +22016,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Higher-than-usual rate hike possible depending on prices: BOJ Ueda",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MNmRlaDJ3QXI5bjNoMzlrLTFreWIwUHMxQXRwQWphZ1VQYmxTa1g4eV8ta1IxdnNjQkV3MlRzak44ZXFBZDZfMG1ZUHV0VnBNcWpNVEs2QkRjUQ?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -22067,7 +22084,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: BOJ to weigh AI, Mideast, currency developments in policy: Ueda",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00ME1LSWYwdExKcWRYaTdQLXRITHl4MTRmd1pZdy16YVA4ZG04NkxVZEd2UnZzR2hOa1VKMlRiZ0szeHdMU00taWEwNWtoSXVuc2FXSTItcWNqdw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -25073,7 +25090,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Japan PM vows transparent communication with markets on fiscal policy",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xTnNacHQtRjE0Q1dvYnZST0NqZzlkT0lwczB2YlV6T2gwcDJkZ1FnRml1N0F6Sk1GdnFlc0E2TDFIMEVkdnFDM0hLd2pZRlV6c21BNXNmYmxwZw?oc=5",
    "published_utc": "2026-09-17T07:00:00+00:00",
@@ -31225,7 +31242,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Japan gov't mulls increasing budget for Okinawa development",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jUkVuSXBxcW5tdUJiSVNteWNIR09WUnFFa1NqM3ZTdHFEWFhOdFNkd1BsbFBIUzViV0ZNRndINXU1THMzN0xlOFdhV19tZ0ZQNmpGRVpadHJ4QQ?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -51962,23 +51979,6 @@
    "live_wire": false,
    "manual": false,
    "id": "227e6111991789a2"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "주간한국",
-   "title_en": "The era of 3% base interest rate... Insurance, card, savings, and response strategies by industry",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TRndmc0JUam0taFBaekpySE5WWXczV056VjZ2SlVOVFgwUGJrdGVaYkRZSERQRkF2VGJkQzRPVk5lbzUtREJVMVJKQ0hwazBHalRCSUtqZjNPQXdRcXB4ZTA1b0djZi1aNU1lc2hxbzDSAXRBVV95cUxQc0g1M2ZyVm1QeEduZnBwTThWenAtemc4RTVPV05pb0FlRWs1WXRSN3BHaUszT09Ca1FCOFk2ZGRFa01oS1dWWDFCWVVCTUU1Q0ZtYUdOX0VDa3g5SXdvVXozaHQzMHZqMGEzWlk2bW15NlNBVA?oc=5",
-   "published_utc": "2026-09-02T06:44:41+00:00",
-   "title_original": "기준금리 3% 시대…보험·카드·저축銀, 업권별 대응 전략은",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e57230a437c30c7b"
   },
   {
    "source_id": "manual_ia",

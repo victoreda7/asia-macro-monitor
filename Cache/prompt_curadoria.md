@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T13:02:47.385681+00:00
+Última coleta: 2026-10-01T13:12:49.152009+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1290
+  🇯🇵 Japão          1291
   🇨🇳 China          779
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  681
+  🇰🇷 Coreia do Sul  680
 
 ## O que já está no feed (não repita)
 
+  - [china] US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources
+  - [china] US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say
   - [china] Russia will increase exports of sunflower oil to China, war affects sales to India
   - [korea] SK hynix reiterates no decision made on Solidigm financing despite dual-listing reports
   - [korea] Lotte expands financial, export support for partners
@@ -28,9 +30,7 @@ Total: 3000 manchetes
   - [china] Oil prices rise 2% as China suspends fuel exports
   - [japan] Yen market price falls by more than 1 yen due to rise in long-term interest rates in the United States
   - [china] VIEW Chinese refiners suspend October fuel exports, sources say
-  - [china] US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources
   - [japan] [Approaching the 160 yen level again] Reasons why the trend of ``returning to a weak yen'' remains unchanged d
-  - [china] US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say
   - [japan] Dollar holds as elevated U.S. yields overshadow cooling inflation data
   - [japan] Bank of Japan Tankan Large Enterprises/Non-Manufacturing Index worsens for the first time in five quarters (AB
   - [japan] Nikkei closes at highest level in six weeks; Micron predictions boost semiconductor stocks
@@ -38,6 +38,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
   - [japan] Bank of Japan releases “main opinions” from September meeting, also points out the possibility of accelerating
   - [korea] Bank of Korea plans gold purchase from domestic producers in December
+  - [japan] Japan to Detail First Five Years of Takaichi Investment Plan
   - [china] China's Latest Stimulus Package Could Be Beginning of New Policy Support Round — Market Talk
   - [china] Chinese refiners suspend October fuel exports, sources say
   - [japan] Flat 35 interest rate is the highest ever at 3.830%
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Stock price rises by 2,200 yen Buy orders spread to AI/semiconductor related stocks
   - [japan] Main opinions from the September meeting of the Bank of Japan: If there are signs of upward movement in prices
   - [japan] Nikkei logs six-week closing high as Micron forecast lifts chip stocks
-  - [japan] BOJ Summary Suggests Low Chance of Back-To-Back Rate Hike — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T13:02:47+00:00",
+      "published_utc": "2026-10-01T13:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
