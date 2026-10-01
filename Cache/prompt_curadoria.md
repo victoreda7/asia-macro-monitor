@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T13:32:45.054499+00:00
+Última coleta: 2026-10-01T13:42:46.185132+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1291
-  🇨🇳 China          779
+  🇯🇵 Japão          1290
+  🇨🇳 China          780
   🇹🇼 Taiwan         250
   🇰🇷 Coreia do Sul  680
 
 ## O que já está no feed (não repita)
 
+  - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [china] US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources
   - [china] US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say
   - [china] Russia will increase exports of sunflower oil to China, war affects sales to India
@@ -37,6 +38,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
   - [japan] Bank of Japan releases “main opinions” from September meeting, also points out the possibility of accelerating
   - [korea] Bank of Korea plans gold purchase from domestic producers in December
+  - [china] Oil prices rise as China suspends fuel exports
   - [japan] Japan to Detail First Five Years of Takaichi Investment Plan
   - [china] China's Latest Stimulus Package Could Be Beginning of New Policy Support Round — Market Talk
   - [china] Chinese refiners suspend October fuel exports, sources say
@@ -52,11 +54,9 @@ Total: 3000 manchetes
   - [china] ZAWYA: Why East African banks are joining yuan payment system ?
   - [korea] ZAWYA: How Kenya won back Rwanda’s oil cargo imports ?
   - [japan] Japan PM says govermentt steps will strengthen market confidence in yen
-  - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [japan] Stock price rises by 2,200 yen Buy orders spread to AI/semiconductor related stocks
   - [japan] Main opinions from the September meeting of the Bank of Japan: If there are signs of upward movement in prices
   - [japan] Nikkei logs six-week closing high as Micron forecast lifts chip stocks
-  - [japan] BOJ Summary Suggests Low Chance of Back-To-Back Rate Hike — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T13:32:45+00:00",
+      "published_utc": "2026-10-01T13:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
