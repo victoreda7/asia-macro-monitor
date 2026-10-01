@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T05:42:45.273162+00:00
+Última coleta: 2026-10-01T05:52:46.217215+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1293
   🇨🇳 China          767
-  🇹🇼 Taiwan         255
-  🇰🇷 Coreia do Sul  685
+  🇹🇼 Taiwan         256
+  🇰🇷 Coreia do Sul  684
 
 ## O que já está no feed (não repita)
 
+  - [japan] Takashi Sasano mentions the ``deterioration of cockroaches'' in the Bank of Japan Tankan News: ``If you listen
   - [korea] Memory shortage deepens, extending boom for Korean chipmakers
+  - [japan] Macroscope: Bank of Japan Tankan, support for interest rate hike, October forecast setback slightly (Reuters)
   - [japan] BOJ signals accelerated rate tightening amid persistent inflation risks
   - [japan] Bank of Japan releases main opinions at September meeting, maintains interest rate hike stance, with some poin
   - [korea] SK hynix says no decision on Solidigm amid IPO concerns
@@ -25,6 +27,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan September meeting: Opinions on the need to raise interest rates at a rapid pace one after anothe
   - [japan] Japan's manufacturing PMI moderates to 54.1 in September; BOJ signals quicker hikes
   - [china] Russia steps up sunflower oil exports to China as war disrupts India trade
+  - [china] Chinese refiners suspend Oct fuel exports, PetroChina cancels cargoes, sources say
   - [japan] Japan inflation wave lifts prices on 3,000 food and drink items
   - [japan] The market is once again aware of the risk of being on the defensive, with the Bank of Japan's main opinion in
   - [japan] At the Bank of Japan's meeting in September, when it decided to raise interest rates for the first time in thr
@@ -36,6 +39,7 @@ Total: 3000 manchetes
   - [japan] Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session
   - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
   - [japan] Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms
+  - [china] EU steel exports hit by high energy costs, tariffs and China oversupply
   - [japan] Sources of Changes in Current Account Balances and Market Operations (Sept.)
   - [japan] Asian currencies mixed as dollar holds highs, yen slips on BOJ signals
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] [Today's Oha Biz October 1st (Thursday)] Nidek final deficit 564.6 billion yen
   - [japan] What is the NHK public opinion poll? Survey targets and methods
   - [japan] [New phase of the “Beer Wars”] What will happen to the beer industry with the liquor tax reform on October 1st
-  - [china] China's PMI Improvement May Not Be Sign of Economic Recovery — Market Talk
-  - [korea] Seoul shares narrow losses late Thurs. morning amid inflation woes
-  - [japan] Japan 10-Year Yield Rises on Hawkish BOJ Outlook
-  - [japan] Tankan Supports View for Faster-Than-Before BOJ Rate Hikes — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T05:42:45+00:00",
+      "published_utc": "2026-10-01T05:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
