@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T05:52:46.217215+00:00
+Última coleta: 2026-10-01T06:02:46.250324+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1293
-  🇨🇳 China          767
+  🇨🇳 China          768
   🇹🇼 Taiwan         256
-  🇰🇷 Coreia do Sul  684
+  🇰🇷 Coreia do Sul  683
 
 ## O que já está no feed (não repita)
 
+  - [korea] Trump unveils 3 projects under Korea's $200b US investment plan
+  - [china] Chinese refiners suspend October fuel exports, one cancels cargoes, sources say
   - [japan] Takashi Sasano mentions the ``deterioration of cockroaches'' in the Bank of Japan Tankan News: ``If you listen
   - [korea] Memory shortage deepens, extending boom for Korean chipmakers
   - [japan] Macroscope: Bank of Japan Tankan, support for interest rate hike, October forecast setback slightly (Reuters)
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Greer urges G20 to back Trump tariff agenda, takes aim at China
   - [japan] Tokyo Metro aims to ease rush by projecting vehicle congestion on the floor
   - [japan] [Today's Oha Biz October 1st (Thursday)] Nidek final deficit 564.6 billion yen
-  - [japan] What is the NHK public opinion poll? Survey targets and methods
-  - [japan] [New phase of the “Beer Wars”] What will happen to the beer industry with the liquor tax reform on October 1st
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T05:52:46+00:00",
+      "published_utc": "2026-10-01T06:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
