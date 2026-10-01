@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T15:32:48.112161+00:00
+Última coleta: 2026-10-01T15:42:47.890728+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1287
-  🇨🇳 China          785
+  🇨🇳 China          786
   🇹🇼 Taiwan         251
-  🇰🇷 Coreia do Sul  677
+  🇰🇷 Coreia do Sul  676
 
 ## O que já está no feed (não repita)
 
+  - [china] IMF says extension of tariff truce between US and China increases trade predictability
   - [china] IMF says US-China tariff truce extension enhances trade predictability
   - [china] In Depth: What’s in the China-U.S. Tariff Truce, and What’s Left Unsettled
   - [china] Xi-Trump meeting’s takeaways, successes and fallout: 7 US-China relations reads
@@ -44,7 +45,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
   - [japan] Bank of Japan releases “main opinions” from September meeting, also points out the possibility of accelerating
   - [korea] Bank of Korea plans gold purchase from domestic producers in December
-  - [china] Oil prices rise as China suspends fuel exports
+  - [china] Oil prices rise $3 as China suspends fuel exports
   - [japan] Japan to Map Out First Five Years of Takaichi’s Investment Plan
   - [japan] Japan to Detail First Five Years of Takaichi Investment Plan
   - [china] China's Latest Stimulus Package Could Be Beginning of New Policy Support Round — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The appointments of Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minis..
   - [japan] ``Main opinions'' announced at Bank of Japan's September meeting; no comments on continuous interest rate hike
   - [taiwan] Taiwan extends fuel freeze, seeks extra subsidies for CPC, Taipower
-  - [china] Guangzhou Caps Deposits, Tightens Oversight in Housing-Sales Overhaul
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T15:32:48+00:00",
+      "published_utc": "2026-10-01T15:42:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
