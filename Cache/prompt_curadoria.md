@@ -7,27 +7,32 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T00:52:43.504151+00:00
+Última coleta: 2026-10-01T01:02:44.148143+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1289
   🇨🇳 China          762
-  🇹🇼 Taiwan         253
-  🇰🇷 Coreia do Sul  696
+  🇹🇼 Taiwan         254
+  🇰🇷 Coreia do Sul  695
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan summary affirms priority is avoiding inflation overshoot
   - [japan] Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in pri
-  - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
-  - [taiwan] TSMC evaluates potential Texas investment, sources say
-  - [japan] Japan Big Manufacturers More Optimistic Despite Headwinds
-  - [korea] South Korea factory growth hits 4-month high as export orders boom, PMI shows
+  - [taiwan] Taiwan Manufacturing Expands Most Since 2021
   - [japan] Japan September factory growth slows to 6-month low, PMI shows
+  - [taiwan] TSMC evaluates potential Texas investment, sources say
+  - [korea] South Korea factory growth hits 4-month high as export orders boom, PMI shows
+  - [korea] South Korea Manufacturing Growth Accelerates in September
+  - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
+  - [japan] Japan Big Manufacturers More Optimistic Despite Headwinds
+  - [japan] Japan Manufacturing Growth at 6-Month Low, Confirmed
+  - [japan] [Japanese Market Conditions] Yen falls to 157 yen-lower level following Bank of Japan's ``main opinion'' - bon
   - [japan] [Breaking News] Bank of Japan September Tankan Business Confidence Improving in Large Companies and Manufactur
   - [japan] BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary
-  - [korea] South Korea September exports rise 83.5% y/y to monthly record
   - [japan] JGBs Fall on Prospects for Quicker Pace of BOJ Rate Hikes — Market Talk
   - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion
+  - [korea] South Korea September exports rise 83.5% y/y to monthly record
   - [japan] Japan business mood improves, tankan survey shows
   - [japan] BOJ debated need for more rate hikes at September meeting, summary shows
   - [japan] Bank of Japan Tankan in September improves for 6th consecutive quarter, large companies/manufacturing industry
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ SEPT TANKAN: ALL FIRMS ASSUME FISCAL 2026 USD/JPY FX RATE TO AVERAGE Y154.23 (JUNEY152.57)
   - [japan] BOJ Tankan shows sixth straight rise in manufacturer sentiment
   - [japan] Bank of Japan Tankan in September: Business confidence in “large companies and manufacturing industries” impro
-  - [japan] Japan Q3 Business Confidence Hit Highest Since 2018
-  - [japan] Business confidence of large companies and manufacturing industries improves for 6th consecutive quarter, Bank
-  - [japan] BOJ SEPT TANKAN: SMALLER FIRM FISCAL 2026 COMBINED CAPEX PLANS -4.7% Y/Y (JUNE -8.3%); MEDIAN FORECAST -4.8%
-  - [japan] BOJ SEPT TANKAN: LARGE FIRM FISCAL 2026 COMBINED CAPEX PLANS +11.3% Y/Y (JUNE +11.5%); MEDIAN FORECAST +12.1%
-  - [japan] BOJ SEPT TANKAN SMALLER NON-MANUFACTURER SENTIMENT INDEX +15 (JUNE +15); MEDIAN FORECAST +14
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T00:52:43+00:00",
+      "published_utc": "2026-10-01T01:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

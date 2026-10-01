@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-01T00:52:43.504151+00:00",
- "collected_at_utc": "2026-10-01T00:52:43.504151+00:00",
+ "generated_at_utc": "2026-10-01T01:02:44.148143+00:00",
+ "collected_at_utc": "2026-10-01T01:02:44.148143+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1289,
   "china": 762,
-  "taiwan": 253,
-  "korea": 696
+  "taiwan": 254,
+  "korea": 695
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T20:51:57+00:00"
+   "newest": "2026-09-30T17:19:53+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T00:31:29+00:00"
+   "newest": "2026-10-01T00:48:29+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-01T06:07:56+00:00"
+   "newest": "2026-10-01T09:54:30+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T18:07:56+00:00"
+   "newest": "2026-09-30T22:00:13+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T00:39:00+00:00"
+   "newest": "2026-10-01T01:01:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-01T00:48:29+00:00"
+   "newest": "2026-10-01T00:53:03+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T00:43:42+00:00"
+   "newest": "2026-10-01T00:51:26+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "Bank of Japan summary affirms priority is avoiding inflation overshoot",
+   "url": "https://www.tradingview.com/news/cnbctv:a47715e15094b:0/",
+   "published_utc": "2026-10-01T01:00:03+00:00",
+   "title_original": "Bank of Japan summary affirms priority is avoiding inflation overshoot",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "03aef4ca4afc21f7"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "news.yahoo.co.jp",
@@ -363,6 +381,92 @@
   },
   {
    "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Taiwan Manufacturing Expands Most Since 2021",
+   "url": "https://www.tradingview.com/news/te_news:588420:0-taiwan-manufacturing-expands-most-since-2021/",
+   "published_utc": "2026-10-01T00:43:48+00:00",
+   "title_original": "Taiwan Manufacturing Expands Most Since 2021",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5662b59f260efcc5"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Japan September factory growth slows to 6-month low, PMI shows",
+   "url": "https://www.investing.com/news/economic-indicators/japan-september-factory-growth-slows-to-6month-low-pmi-shows-4926146",
+   "published_utc": "2026-10-01T00:43:09+00:00",
+   "title_original": "Japan September factory growth slows to 6-month low, PMI shows",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "61809bf906370906"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "TSMC evaluates potential Texas investment, sources say",
+   "url": "https://www.investing.com/news/stock-market-news/tsmc-evaluates-potential-texas-investment-sources-say-4924436",
+   "published_utc": "2026-10-01T00:42:46+00:00",
+   "title_original": "TSMC evaluates potential Texas investment, sources say",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5b14e88e7fe6eb60"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "South Korea factory growth hits 4-month high as export orders boom, PMI shows",
+   "url": "https://www.investing.com/news/economic-indicators/south-korea-factory-growth-hits-4month-high-as-export-orders-boom-pmi-shows-4926145",
+   "published_utc": "2026-10-01T00:42:30+00:00",
+   "title_original": "South Korea factory growth hits 4-month high as export orders boom, PMI shows",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "19a37d21f90bb258"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea Manufacturing Growth Accelerates in September",
+   "url": "https://www.tradingview.com/news/te_news:588418:0-south-korea-manufacturing-growth-accelerates-in-september/",
+   "published_utc": "2026-10-01T00:39:07+00:00",
+   "title_original": "South Korea Manufacturing Growth Accelerates in September",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "17e598096f189b8c"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "TSMC avalia possível investimento no Texas, segundo fontes",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N00R:0/",
@@ -377,23 +481,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4f23c56a14f40e4b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "TSMC evaluates potential Texas investment, sources say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N00O:0-tsmc-evaluates-potential-texas-investment-sources-say/",
-   "published_utc": "2026-10-01T00:37:57+00:00",
-   "title_original": "TSMC evaluates potential Texas investment, sources say",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "67f9807e35c6c9b4"
   },
   {
    "source_id": "tradingview_live",
@@ -414,38 +501,38 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea factory growth hits 4-month high as export orders boom, PMI shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_ZUN00FFKW:0-south-korea-factory-growth-hits-4-month-high-as-export-orders-boom-pmi-shows/",
-   "published_utc": "2026-10-01T00:31:20+00:00",
-   "title_original": "South Korea factory growth hits 4-month high as export orders boom, PMI shows",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9921266002218145"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan September factory growth slows to 6-month low, PMI shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_ZRN00EMA9:0-japan-september-factory-growth-slows-to-6-month-low-pmi-shows/",
-   "published_utc": "2026-10-01T00:30:37+00:00",
-   "title_original": "Japan September factory growth slows to 6-month low, PMI shows",
+   "source_name": "Trading Economics",
+   "title_en": "Japan Manufacturing Growth at 6-Month Low, Confirmed",
+   "url": "https://www.tradingview.com/news/te_news:588414:0-japan-manufacturing-growth-at-6-month-low-confirmed/",
+   "published_utc": "2026-10-01T00:35:15+00:00",
+   "title_original": "Japan Manufacturing Growth at 6-Month Low, Confirmed",
    "region": "japan",
    "topics": [
-    "activity"
+    "industrial"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "8bd32074d06a1138"
+   "id": "3bf2ecc1476175e0"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "news.yahoo.co.jp",
+   "title_en": "[Japanese Market Conditions] Yen falls to 157 yen-lower level following Bank of Japan's ``main opinion'' - bonds cheap (Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rXzM2OTFrNUF4VldMVWxndHpuUkZZa2JDcHB5eE5vdHc5VFZubXZGeWx2d0pHd3NhODU5MkU5R1ktQXFjVFk4S0h3djFQRFFlUjhmZnVwOXFPUE9NbEVCNnNYU2pLd2NtV2hNUU91YWxwZ1lCTmNpR2dHQ1UwSjA?oc=5",
+   "published_utc": "2026-10-01T00:30:54+00:00",
+   "title_original": "【日本市況】日銀「主な意見」受け157円後半に円下落－債券安い（Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d51fcb0acca31873"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -484,23 +571,6 @@
    "id": "b7d3aba20d42cafc"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "South Korea September exports rise 83.5% y/y to monthly record",
-   "url": "https://www.investing.com/news/economic-indicators/south-korea-september-exports-rise-835-yy-to-monthly-record-4926130",
-   "published_utc": "2026-10-01T00:24:31+00:00",
-   "title_original": "South Korea September exports rise 83.5% y/y to monthly record",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5e3709b224dc0316"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "JGBs Fall on Prospects for Quicker Pace of BOJ Rate Hikes — Market Talk",
@@ -534,6 +604,23 @@
    "live_wire": true,
    "manual": false,
    "id": "488abde8cbadb8cc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea September exports rise 83.5% y/y to monthly record",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N002:0-south-korea-september-exports-rise-83-5-y-y-to-monthly-record/",
+   "published_utc": "2026-10-01T00:20:24+00:00",
+   "title_original": "South Korea September exports rise 83.5% y/y to monthly record",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2d5b133374fe81ad"
   },
   {
    "source_id": "investing_econ",
@@ -1287,6 +1374,23 @@
    "id": "355e8a6c52a68fb5"
   },
   {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "How US sanctions forced Xinjiang’s cotton industry to build a survival model",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWhNS2JiNlFPVnpqQmZPY1hDM3c3V0NQX0tjMGg3LTRhbXRvSzFDMnJZQWdQLVVZU2VsMG1JcGxWS2FlaDFUdnRpM1JCTU11aVVFUXVrODBISFFlYmVZNXlZbGVpem02YmJrWUhXY3hValg4YkFGM19hMnY2MXB0UUVZUHljVVUzOUtsMlhPczhxcE5nZTJiUG8wNWVEQldaNXkwT3htamJydDZIM1pPRHhQeEVfVGZuNEFDadIBvAFBVV95cUxPUkJaS1RwOWt2eW1kYXJsTFFVN2ptUG5fLXpnbHRhTFBJR2daZnktVjNwR2JsVTVhU2VoYUl3cVRvTzdPUERLZ0FiX1NRRktLR0wxOGQ4NlFkNkgwZy1Ed2hsNjN2cjhLY01fbUxSRUFfYVE3RUhBN3NoRmdTalRTWUhrcGZrdnlQSk13dkhBejZsTFA2bmhjU3ZRSGNGZklabmFzT3ExX0U5cVZyVmRXcnlhY0M4dmFxVk9Rcw?oc=5",
+   "published_utc": "2026-09-30T22:00:13+00:00",
+   "title_original": "How US sanctions forced Xinjiang’s cotton industry to build a survival model",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8ef0a53baf5e47a3"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "news.yahoo.co.jp",
    "title_en": "Is the accelerating pace of interest rate hikes by the Bank of Japan a contributing factor? Signs of a ``bargain sale'' opening in the city's condominium market (Weekly Pre-NEWS)",
@@ -1374,11 +1478,11 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
-   "published_utc": "2026-09-30T20:08:38+00:00",
+   "published_utc": "2026-09-30T20:08:00+00:00",
    "title_original": "消費税減税と所得に応じた給付の法案 概要判明",
    "region": "japan",
    "topics": [
@@ -1389,7 +1493,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "75b4c762a9b099d0"
+   "id": "1a1839a5fb285df0"
   },
   {
    "source_id": "nikkei_asia",
@@ -1754,8 +1858,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -1770,7 +1874,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "950b84d1e9e45198"
+   "id": "2711875b41f47be4"
   },
   {
    "source_id": "tradingview_live",
@@ -1790,8 +1894,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -1804,7 +1908,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5af5981dfcf348d4"
+   "id": "c6a7c990cb0818fa"
   },
   {
    "source_id": "nhk_economy",
@@ -4621,8 +4725,8 @@
    "id": "703f925fda4ee45d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
    "published_utc": "2026-09-29T04:23:30+00:00",
@@ -4637,7 +4741,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "38b4d6c26a1ec51f"
+   "id": "7abfef93833be46e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -10508,23 +10612,6 @@
    "id": "cccd7ecc7e040491"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The Double Festival is approaching and the central bank will take action! Overnight reverse repurchase reaches a daily maximum of 1 trillion, with new tools taking the lead",
-   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQakVWWEM4bzVjUDFmSGZjelNsZF9uc0hpMXpsaWRySURkSnREMTdMQUQxS2xwRlN4c2NSTjBPVFlPelFIZUhvbG0xQ1R4LUQ4S25vWm54SWt3eXBKa3BjSUpTX2E1VVQzc2l2SVJuQ0c2RHJWMEFpd3RDTU5obnd3ZU1uZkdnNkpfZGRxSWd4X1Z4Vld3ZXFxWkloaGIyZTFCZmJCdGFsUE9FVUFhVE9faXhpdjZ4UEFBWllvZGg4V0wxNmVxT0RLVmxDX2lZLUFxY3R2Nm5Oc05rcXJjbWJzSVJNeEhMaDU0QTlfY1pMaFYycHZrLVg3Zk5jVE0xSmRfMTkyc0sxZUIzaFJ6bDlWX1NPTWVmSmVjbFNUbWtabVQ5TVVNV1FJM0J6N1ZmRlBkTTJiY3RBc0NLQjlfd3c?oc=5",
-   "published_utc": "2026-09-24T11:45:50+00:00",
-   "title_original": "双节将至央行出手！隔夜逆回购每日最高1万亿，新工具挑大梁",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e9ee87ede64369dc"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Himi City Council passes second supplementary budget bill to expand support for heavy rain victims (Kita Nippon Broadcasting)",
@@ -10924,6 +11011,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fb42737475e86022"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The Double Festival is approaching and the central bank will take action! Overnight reverse repurchase reaches a daily maximum of 1 trillion, with new tools taking the lead",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzRFX3FPNWt6UWx1cHlxMEN1YURHUk52Zld4RFJZb1Izci1zZUYwUWJZbWkzVEJuNUhuZ0hrSy1QQUN2dUExeVkta3VaNnl0bkpaa1pnTU03YWt1eFJpcHVqdHQ0ZmRFeW5ianlaWjFuelBsTTNtdFZ4MTdMSG13aTEzb0Y5bWJKTDhXOHdaOWhvX0VpZW55MTJMY0hZd2hiby1nM2F3?oc=5",
+   "published_utc": "2026-09-24T06:45:07+00:00",
+   "title_original": "双节将至央行出手！隔夜逆回购每日最高1万亿，新工具挑大梁",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eecd24173a647486"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51900,113 +52004,6 @@
    "live_wire": false,
    "manual": false,
    "id": "aa347e97c1ad1879"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」（ロイター）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14LVpmRmpLZ3JLQU83WWFnMnlmRUhqV29QV3QwTFYzXzZBcDJnN3lYcjBwU1FkRXJpQnRLZ1NzVWlkNkY5X3NOYW5RZWhfbWJJTmc4WGQ2RW5pak1JdHBWN2RkaG9DenhhaWdvZGkzR2V4X3hOTVRkWGNNZVAtVUk?oc=5",
-   "published_utc": "2026-09-01T16:11:52+00:00",
-   "title_original": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ce59d99b08748b8a"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "U.S. Secretary of State emphasizes the importance of monetary policy to the Bank of Japan governor (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lTkRRd3VZdzQ4U1h4dDcyQzA1QUZmLW53dVRjVXFhYXpTcE5YdEJkT0p4QW10XzhIQWQyVWx1TnNRc3NObXdnU0JVTGlOVjN0YnZXckFiY29SLXFLTmxLSFgwRHZsLXdNd2xpV3VnMnNRS3V5d0xwRW8xWlR1Q28?oc=5",
-   "published_utc": "2026-09-01T16:06:14+00:00",
-   "title_original": "米長官、日銀総裁に金融政策が重要と強調（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "trade",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "39f5aaac2127e386"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Fu Shou Yuan International Announces Pre-Conditional Voluntary Cash Partial Offer",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44T0HZ:0-fu-shou-yuan-international-announces-pre-conditional-voluntary-cash-partial-offer/",
-   "published_utc": "2026-09-01T15:57:25+00:00",
-   "title_original": "Fu Shou Yuan International Announces Pre-Conditional Voluntary Cash Partial Offer",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7c0fd26a657371bb"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Korea plans record W821tr budget on chip tax windfall",
-   "url": "https://www.koreaherald.com/article/10858932",
-   "published_utc": "2026-09-01T14:52:12+00:00",
-   "title_original": "Korea plans record W821tr budget on chip tax windfall",
-   "region": "korea",
-   "topics": [
-    "fiscal",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d288e091cdd7811b"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Korea's market rally must go beyond chips: Societe Generale",
-   "url": "https://www.koreaherald.com/article/10858923",
-   "published_utc": "2026-09-01T14:48:33+00:00",
-   "title_original": "Korea's market rally must go beyond chips: Societe Generale",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0ebfdf350d3938a0"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "Flat 35 September applicable interest rate 3.46%",
-   "url": "https://news.yahoo.co.jp/pickup/6593916?source=rss",
-   "published_utc": "2026-09-01T14:33:57+00:00",
-   "title_original": "フラット35 9月の適用金利3.46%",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a24e6fc990343e89"
   },
   {
    "source_id": "manual_ia",
