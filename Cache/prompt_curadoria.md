@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T16:42:45.567112+00:00
+Última coleta: 2026-10-01T16:52:46.326576+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1286
-  🇨🇳 China          787
+  🇯🇵 Japão          1285
+  🇨🇳 China          788
   🇹🇼 Taiwan         250
   🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
 
+  - [china] 45% YTD rally! Experts see up to 56% upside in these 3 stocks on China's export shift | Target, rationale
   - [korea] Samsung raises Galaxy S26 prices by $100 amid chip shortage
   - [china] DGTR recommends anti-dumping duty on tuberculosis drug ingredient imports from China, Thailand
   - [china] IMF says extension of tariff truce between US and China increases trade predictability
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Falls After Japan Q3 Tankan Survey Data
   - [japan] Japan PM vows to underpin yen by boosting economic competitiveness
   - [korea] While U.S. Micron, the third-largest memory chipmaker, was the first to start its earnings season sm..
-  - [korea] The appointments of Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minis..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T16:42:45+00:00",
+      "published_utc": "2026-10-01T16:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
