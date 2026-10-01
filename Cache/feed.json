@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T04:32:44.676189+00:00",
- "collected_at_utc": "2026-10-01T04:32:44.676189+00:00",
+ "generated_at_utc": "2026-10-01T04:42:46.286048+00:00",
+ "collected_at_utc": "2026-10-01T04:42:46.286048+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1292,
-  "china": 765,
+  "china": 764,
   "taiwan": 258,
-  "korea": 685
+  "korea": 686
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T04:17:53+00:00"
+   "newest": "2026-10-01T04:26:50+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T02:01:46+00:00"
+   "newest": "2026-10-01T04:27:55+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T04:30:55+00:00"
+   "newest": "2026-10-01T04:40:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T04:08:16+00:00"
+   "newest": "2026-10-01T04:33:51+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,77 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "news.yahoo.co.jp",
+   "title_en": "At the Bank of Japan's meeting in September, when it decided to raise interest rates for the first time in three months, some said that if there were signs of an upward trend in prices, ``the pace of interest rate hikes would have to be accelerated.''",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOeUhvWGgtbzZQWG51Mmh1NDNHeGFSb29lSHBCTWlEM1Mya3RFcmdrcUMyMmRpTlk2TTVDWnBvcjAtYWZ5bFZManRlTzUtUjBfRHJhTllEcDEySzByaUktY01EMGQzNXVpM1dTSXdKSHNSSmVfcThXdnpMeUVlVnM?oc=5",
+   "published_utc": "2026-10-01T04:33:51+00:00",
+   "title_original": "３か月ぶり利上げ決めた９月の日銀会合、物価上振れの兆候なら「利上げペース速めざるを得ない」との意見も",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3a98c2292f65a636"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "news.yahoo.co.jp",
+   "title_en": "Bank of Japan members publish “main opinions” from September meeting on gap in perception of economy and prices (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40OGFoZ0llY2VMWnBKSUdMSklfUTBKTzI5d3JhVm9lNEU5QlJEdFdBWGs0VlZLR3pJWkdVbFhHV2lfa2RsTl91dVhNSGlRalNVREszdFFLelRsYk44c1F6MEgzZnpSWVh0dzJMUlU4ZDdiYU5HY2JWMk0tNEFOdFE?oc=5",
+   "published_utc": "2026-10-01T04:31:17+00:00",
+   "title_original": "日銀委員、経済と物価の認識に隔たり 9月会合の「主な意見」公表（朝日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5b227560d96b2c22"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea's Lee appoints new presidential policy chief, economic growth aide",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44S00N:0-south-korea-s-lee-appoints-new-presidential-policy-chief-economic-growth-aide/",
+   "published_utc": "2026-10-01T04:30:39+00:00",
+   "title_original": "South Korea's Lee appoints new presidential policy chief, economic growth aide",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9183ac71c8e32e4c"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzeHliaFRwbWhfaHV3S2s3dkpJbmdJMmlJSzJZdXhMWFEyZFFOcEFKb2JiNkhGR2QtQUxFU3ZjUUlTRlc1TU1WWnlOWWhKU1FEdlNtdHdwazVlUU84MVVyNlJ3Qm9VZVdDdHc?oc=5",
+   "published_utc": "2026-10-01T04:27:55+00:00",
+   "title_original": "S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dcabf31fd7bb72ee"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -850,7 +921,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Bank of Japan's short view on the 6th period of continuous improvements in the large enterprise manufacturing industry (ABEMA TIMES)",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVlvVkF5SmJZbUR1RmxHQ2c5SGFBODlvNXoyZWdHSnhoamxJcVoyeENWanBTZmdpY29mVnYwOG10TUwzcTZtb285MDhIVWhtaktoaFZFSGdoSFZBaENkZnk2NVhYWDgzZ0FXejVSTDhyTlFxR0w0UTg3bVdsWk1SdGZpNUVOalFJWnZDT0FB?oc=5",
    "published_utc": "2026-10-01T02:09:16+00:00",
@@ -869,7 +940,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Bank of Japan Tankan: Large companies and non-manufacturing industries worsen for the first time in five quarters; situation in the Middle East and other unfavorable weather; outlook across the board (TV Asahi (ANN))",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MME5BTGV6SjlGSUdHeWx0Vjl6YXJmRW1SaDJRNzVQYVgxVTdORW5PeTloTFpvMlI2Z3VhdlI0dWNadThRbXlraGZMRmc3WUVvVTR5VHVaeHQwNmhIaGgtM29ISjhJb2RfT3J2TTd3elFZNjZmVTRibF9ZRlBzeVE?oc=5",
    "published_utc": "2026-10-01T02:06:31+00:00",
@@ -888,7 +959,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Bank of Japan's main opinions were less hawkish than expected (NRI researcher's commentary on current events)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16dUJyMkZOaGNxcUhnbWZOWmtVOU9PNmN5aTN3Y0pwaWFGSmhGbG01WlI3YkhTSHZuaUVXVk5lVEFwQV9MeHRZUV9tSjJVM1VlV0R0WU40TXo0VklTNnBEZUhIbzJhYm5DVW5fZG5jU0Fsd3loa0tDUE9LbXdRNVE?oc=5",
    "published_utc": "2026-10-01T02:02:26+00:00",
@@ -922,7 +993,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Need to accelerate pace of interest rate hikes; strong economy, wary of upward movement in prices; Bank of Japan September meeting (Jiji Press)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlRXJPSFhldHl6NHlEbHZLMnAwc3o4MTF5YTZna2lJa29sbWcxNzhnaDBNNXhwVkt6N1VBNVE4NU9hSlJuNlREbG12R2RUVlQ4S0k1Ykl4OXZud1ZtZW02RlZZTXFlVVQwMllGZGszaWpSclhvMkVOdFMtZjN2Y1E?oc=5",
    "published_utc": "2026-10-01T01:54:06+00:00",
@@ -1025,24 +1096,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9f784de7b0869a38"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzeHliaFRwbWhfaHV3S2s3dkpJbmdJMmlJSzJZdXhMWFEyZFFOcEFKb2JiNkhGR2QtQUxFU3ZjUUlTRlc1TU1WWnlOWWhKU1FEdlNtdHdwazVlUU84MVVyNlJ3Qm9VZVdDdHc?oc=5",
-   "published_utc": "2026-10-01T01:33:01+00:00",
-   "title_original": "S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dcabf31fd7bb72ee"
   },
   {
    "source_id": "tradingview_live",
@@ -1217,7 +1270,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in prices - Bank of Japan September meeting (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qZ1RIQ2ZIQzNNNXNrTEZVbHhlWjh6OXBieWVCRTFZblhfS2RNXzI5Y215eW8zRktOcVhEQXd0cnJaLUR3OXRfWXB2cWh2VmROcF9haWJTbVVuM2lKcjFDZk0zRW5Ob3diNjZWTVlqNG96WlRSWTNIajA5anJVa3M?oc=5",
    "published_utc": "2026-10-01T00:44:07+00:00",
@@ -1444,7 +1497,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Bank of Japan Tankan in September improves for 6th consecutive quarter, large companies/manufacturing industry +24 (Mainichi Shimbun)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIVDNVWHlzTUtwSTV0VE8wVDRfUjAtQzFiUGowajhvR0k0SEU2RTBtaV92YXc4bng3Qk9WMWxvNDd4U3hacEV0Uk1fMXh1REdvSWN2bEZ4NnhybUJ1aVJwU2VVUFJrUWZHazBLRUo2dVRCWEFUQkFkMld4UmUtd2s?oc=5",
    "published_utc": "2026-10-01T00:17:32+00:00",
@@ -1516,7 +1569,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Bank of Japan September meeting should be managed appropriately to prevent prices from continuing to rise excessively - main opinions (Bloomberg)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oLXMyazBjRFVHTXdDcmxjTDdQRGtlYTFyVDA1SjBIc1d2YU5JeXR5R01qOWQwa1dKa1BGSE9PYTlyakNHcFdDeXBDOXNJdzliVjdSd3JrcVBrNS1kTUFhb0kxVlB3VzBJazBSdVVzZnk2OUZ3WlRSY3I1Mzc0WEU?oc=5",
    "published_utc": "2026-10-01T00:13:48+00:00",
@@ -1606,7 +1659,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Bank of Japan Tankan in September: Business confidence in “large companies and manufacturing industries” improves for the sixth consecutive quarter… “Large companies and non-manufacturing industries” worsens (Yomiuri Shimbun Online)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xUHVNTG41WVZDSDZYVklURDNpUFdRSC1acmx5VjJSdnNTMlE2NjBwcEtYMGxEZjBZc0VNMVE0OWVRLW1MWExzYlVnenQtUWpLWUtwZTdWbWdHa1FFQ1RvcUNsYTJUS2QyaXo2TTRNV0M5U2VUMHpJUTRfVW41dkU?oc=5",
    "published_utc": "2026-10-01T00:01:10+00:00",
@@ -1642,7 +1695,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Business confidence of large companies and manufacturing industries improves for 6th consecutive quarter, Bank of Japan Tankan shows tailwind from AI demand (Asahi Shimbun)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oaG9pMDRrRWRkekpjWGVpLW94UllpYnRJZnM0cmFKZnQ5MER5TnVfODV1dG9lNnlWUERsaUFPY201RWZtS3ZQWFJJUkU2RHk3d1hLSFpwdDVNY25iZXViQTdCYXpYeE5ZT1ZhWVdqMlpIWkZyNmhzQVRVN3RLbWs?oc=5",
    "published_utc": "2026-09-30T23:57:01+00:00",
@@ -2142,6 +2195,24 @@
    "id": "e23d47962f823456"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation for a period of 3 months",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Tc2w0czYzYXRFVVlLeVhJVllIYVRQVWJUVXlybU9hVnVTSjB6UDZjWGlfeEpIbXJtcER5b0k1UXZ4TGp4Nzc2dzJaU2N1V1Ita0VHUjlzUG5Ubzd1RzhpT3loVXZndw?oc=5",
+   "published_utc": "2026-09-30T15:40:27+00:00",
+   "title_original": "央行将开展1.2万亿元买断式逆回购操作，期限3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "548139763e7971c1"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Three banks raise variable interest rates on housing loans; all five banks raise fixed interest rates",
@@ -2380,24 +2451,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c11cbd3dd64cede5"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation for a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Tc2w0czYzYXRFVVlLeVhJVllIYVRQVWJUVXlybU9hVnVTSjB6UDZjWGlfeEpIbXJtcER5b0k1UXZ4TGp4Nzc2dzJaU2N1V1Ita0VHUjlzUG5Ubzd1RzhpT3loVXZndw?oc=5",
-   "published_utc": "2026-09-30T12:44:27+00:00",
-   "title_original": "央行将开展1.2万亿元买断式逆回购操作，期限3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "548139763e7971c1"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6358,7 +6411,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rVmZqeDhPX2dVYTNhNGhncnI1RUs0NXhFMDNlQkFCZ3MyYkJsdkNPcUl0WDdTQmpYSElFcHFYRVhhSmROVnpfQWQ5SUJxTE5PblFxNE1SN0k4SjFkWkJaV0RhSk90YjN3QlM5YVFrTFdvU3lRY1FZdjZ0LXI?oc=5",
    "published_utc": "2026-09-28T13:10:00+00:00",
@@ -9014,7 +9067,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China, U.S. reach consensus on eight outcomes in Xi's visit",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4SXVvQTFCY04wbS1kYzU1bGJsbXFPQ3h0UXFxMjV0ZkpWdnVZXzlvUlBhVDF4YnRSUW9PN1c0akV0UmtoeWZIdTc4X3lNVmdmd2lJd1JrQXJYNGhkVW50STRDSzIwZGlXQUdITGtfckhpLWJucjduUm95MUY?oc=5",
    "published_utc": "2026-09-26T10:50:00+00:00",
@@ -11484,7 +11537,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "bjnews.com.cn",
+   "source_name": "新京报",
    "title_en": "Big move before the holiday! What signal does the central bank launch an 800 billion yuan MLF operation?",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaeGRuYk5haGpyTTNvMjBkUk1iS2hzUnNnRHRSRXpEc19yc0tNVkJweUtuSVRPU2ZBcEtVYlZIZ0tMY3ZWekw2ZEwwaFI1TTZvay04UWczeElDcnJudUViemxn?oc=5",
    "published_utc": "2026-09-24T08:18:00+00:00",
@@ -17536,7 +17589,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China's State Council appoints, removes officials",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTmlyOHpLQ0syMGZkV2FEeVp1b0JfOGhQbVR1TURQeFd5Q1ZDejRQNHkzcy1lWkhBb2hoZ1BJd2R0alI3MXpkVWtjTEhhTXloRTZYRV9MVDJVOXlXUWJmOXl4NC0xOXRFLXFkelRWYlZnMUVkNkM0b0x3OXY?oc=5",
    "published_utc": "2026-09-20T11:40:16+00:00",
@@ -19705,7 +19758,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
    "published_utc": "2026-09-18T15:43:15+00:00",
@@ -20676,24 +20729,6 @@
    "id": "dfe78368aa5c6456"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmVudElxT21NQUxjV0JCVGlqSVZSaU9tOHRCa2pNdzk5MHJSM3pGX01JYlBHYlhvX204OG1fRnFCTEZZSzFzSEd4aWJhWEV5X2R2MnZXZ2I0QQ?oc=5",
-   "published_utc": "2026-09-18T07:41:00+00:00",
-   "title_original": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6fccd22b421df798"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan raises policy rate to 1.25%, highest level in 31 years Governor Ueda emphasizes policy to continue raising interest rates at press conference",
@@ -20883,6 +20918,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f2edd6a4675e1ef2"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmVudElxT21NQUxjV0JCVGlqSVZSaU9tOHRCa2pNdzk5MHJSM3pGX01JYlBHYlhvX204OG1fRnFCTEZZSzFzSEd4aWJhWEV5X2R2MnZXZ2I0QQ?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6fccd22b421df798"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -30097,7 +30150,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Xinhua News | China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93T0V0SG82MDNSd0djbmNKbkxmS0pMckRVYlo0YXUwdDB2eUdrdGVTQmZYZzBuRHppWGd5UlN4cmJIWXZWWmJXMHkyRkhmV0VCNUJ2WTlzblNYNTJseFhRN3hMS3UycDBMN1VMQzdFajFId0VQX2NjUUNxNlU?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -30114,7 +30167,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nbk5KVkVjWHdKclpEMXZHd05LUnVvZkg2ZThPZ3lYeVRhd0RxVGJkSVdqb1Q0NjUyWjdXc2VTemFsOTBrb0ppZ2dud2ZhYlFsTVZOQ0NyblN6X1Z1N2wtakdzMFI1emJ6LVIyQWNYZEhycDNGeEo2QXBOWnY?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -51933,59 +51986,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d222030afb8b3f1a"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Watch Scott Bessent Says China Stopped Unanimous G20 Communique Over Trade Surplus Dispute",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2NHbkIzVHAxdEE3bkhrWUpXOTNFWTlONjVlWFE0SkRXNkRXNEdCaHhkMWNsMDQzRFZnZFF6S2dqUWZ4S2EwcmVhM1B4b2RHV19mOFEzRzNpbGtmZUFyVWhDQVpiN01aWTlaYmM1WmdCemozdTJzMUhDZHdOUm83allSVVZNcEhFTk16NUZtMG9wTk5lNlVocnZZNnp4cHZqWXdFeHM4TE9tQQ?oc=5",
-   "published_utc": "2026-09-02T00:00:00+00:00",
-   "title_original": "Watch Scott Bessent Says China Stopped Unanimous G20 Communique Over Trade Surplus Dispute",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3b495fcc9192f2a2"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
-   "title_en": "Bank of Japan Governor Ueda ``No comment on details'', talks with US Treasury Secretary Bescent on 30th (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOZlU4N3M1Qm44WkFxdmNhWUZfTjduYmRmd1l4c2JCejcwODlwTWc0cUxLZExxWnY2TkdYTHZDOW1zcjROR0hDTlRMV2Nrb21CYVo0ZnU3bjB4Z2VHV1A4OWZSazV2QXgxZm5DYWt6QWQzblBndXJ2b1dZSkNaTDg?oc=5",
-   "published_utc": "2026-09-01T23:53:08+00:00",
-   "title_original": "植田日銀総裁「詳細はノーコメント」、ベセント米財務長官と30日に会談（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "21f22cc0b59fc9a7"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Breaking News] Bank of Japan Governor Ueda ``We had a useful discussion'' Meeting with US Treasury Secretary Bessent Joint press conference with Finance Minister Katayama after the G20 meeting",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QN19JNktjXzQ3eExJblZucWo1bUlNck9kTy1UYWgtSFBWVjk3aEFxbU1RU29OeUdwQk4yUkdoWDYtSHNyQzVmek5GekRPM1Z5OFhfM2ZJeDZpTm1yU09wbkVVOFpmQmt3NHVjU1lDRXlGWXZIaEc5M093dTU0T0U?oc=5",
-   "published_utc": "2026-09-01T23:45:40+00:00",
-   "title_original": "【速報】日銀・植田総裁「有益な議論ができた」ベッセント米財務長官との会談 G20会議後に片山財務大臣と共同記者会見",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d26235f261ff9bb6"
   },
   {
    "source_id": "manual_ia",

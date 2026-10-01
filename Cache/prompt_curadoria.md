@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T04:32:44.676189+00:00
+Última coleta: 2026-10-01T04:42:46.286048+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1292
-  🇨🇳 China          765
+  🇨🇳 China          764
   🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  685
+  🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
+  - [japan] At the Bank of Japan's meeting in September, when it decided to raise interest rates for the first time in thr
+  - [japan] Bank of Japan members publish “main opinions” from September meeting on gap in perception of economy and price
+  - [korea] South Korea's Lee appoints new presidential policy chief, economic growth aide
+  - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [japan] Japanese chipmakers rally as Micron earnings boost AI trade
   - [japan] Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session
   - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Need to accelerate pace of interest rate hikes; strong economy, wary of upward movement in prices; Bank of Jap
   - [japan] BOJ Summary Points to Growing Risk of Inflation Overshooting Target
   - [korea] SK Hynix to review shareholder protection measures after reports of Solidigm's US IPO
-  - [taiwan] TSMC weighs investment in Texas to expand U.S. chip production, Reuters reports
-  - [korea] South Korea’s Export Growth Extends Rally as Chip Boom Rolls on
-  - [korea] South Korea’s Monthly Exports Hit Record as Chip Boom Rolls on
-  - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T04:32:44+00:00",
+      "published_utc": "2026-10-01T04:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
