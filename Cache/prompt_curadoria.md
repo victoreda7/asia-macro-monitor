@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T05:12:43.803537+00:00
+Última coleta: 2026-10-01T05:23:19.014292+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1294
-  🇨🇳 China          765
+  🇯🇵 Japão          1292
+  🇨🇳 China          767
   🇹🇼 Taiwan         256
   🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
   - [korea] SK hynix says no decision on Solidigm amid IPO concerns
+  - [china] Commentary: A $30 Billion Opening Beneath a Still-High U.S. Tariff Wall
   - [japan] Bank of Japan September meeting: Opinions on the need to raise interest rates at a rapid pace one after anothe
   - [japan] Japan's manufacturing PMI moderates to 54.1 in September; BOJ signals quicker hikes
   - [china] Russia steps up sunflower oil exports to China as war disrupts India trade
@@ -42,6 +43,7 @@ Total: 3000 manchetes
   - [japan] Stock prices rise significantly Buy orders for AI/semiconductor related stocks
   - [china] Yuan Appreciation Intact but U.S.-China Rate Gap to Cap Pace — Market Talk
   - [japan] BOJ Likely to Remain on Guard Against Inflation — Market Talk
+  - [china] Huawei unveils Mate 90 phones, leans on homegrown chip design to offset US curbs
   - [china] Greer urges G20 to back Trump tariff agenda, takes aim at China
   - [japan] Tokyo Metro aims to ease rush by projecting vehicle congestion on the floor
   - [japan] [Today's Oha Biz October 1st (Thursday)] Nidek final deficit 564.6 billion yen
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Lotte expands financial, export support for partners
   - [japan] Japan's Nikkei hits six-week high as Micron forecast lifts chip stocks
   - [korea] South Korean won, Thai baht lead losses across Asian currencies
-  - [japan] Yen Weakens as Dollar, Treasury Yields Weigh
-  - [japan] Bank of Japan's short view on the 6th period of continuous improvements in the large enterprise manufacturing 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T05:12:44+00:00",
+      "published_utc": "2026-10-01T05:23:19+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
