@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T16:52:46.326576+00:00
+Última coleta: 2026-10-01T17:02:46.706423+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1285
-  🇨🇳 China          788
-  🇹🇼 Taiwan         250
+  🇨🇳 China          789
+  🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [china] US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources
   - [china] US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say
   - [china] Russia will increase exports of sunflower oil to China, war affects sales to India
+  - [china] Brazil Steelmakers See New Import Threats as China Share Falls
   - [korea] SK hynix reiterates no decision made on Solidigm financing despite dual-listing reports
   - [korea] Lotte expands financial, export support for partners
   - [japan] Kumamoto Earthquake: National government takes financial measures for prefecture reconstruction fund Fujii, Mi
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Flat 35 interest rate is the highest ever at 3.830%
   - [japan] Yen Falls After Japan Q3 Tankan Survey Data
   - [japan] Japan PM vows to underpin yen by boosting economic competitiveness
-  - [korea] While U.S. Micron, the third-largest memory chipmaker, was the first to start its earnings season sm..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T16:52:46+00:00",
+      "published_utc": "2026-10-01T17:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
