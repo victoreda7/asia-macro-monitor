@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T20:52:47.018261+00:00
+Última coleta: 2026-10-01T21:02:44.998354+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1285
-  🇨🇳 China          788
+  🇯🇵 Japão          1284
+  🇨🇳 China          789
   🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  678
 
 ## O que já está no feed (não repita)
 
+  - [china] China shortens leash on property developers
   - [korea] Samsung Electronics Stocks Gain 2.8% as Micron Reinforces Memory Scarcity
   - [japan] BOJ debated more rate hikes to adjust 'accommodative' conditions: opinion summary
   - [china] Exclusive-US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan to Detail First Five Years of Takaichi Investment Plan
   - [china] China's Latest Stimulus Package Could Be Beginning of New Policy Support Round — Market Talk
   - [china] Chinese refiners suspend October fuel exports, sources say
-  - [japan] Flat 35 interest rate is the highest ever at 3.830%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T20:52:47+00:00",
+      "published_utc": "2026-10-01T21:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
