@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T08:32:48.878106+00:00
+Última coleta: 2026-10-01T08:42:45.014799+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1293
+  🇯🇵 Japão          1292
   🇨🇳 China          771
   🇹🇼 Taiwan         254
-  🇰🇷 Coreia do Sul  682
+  🇰🇷 Coreia do Sul  683
 
 ## O que já está no feed (não repita)
 
+  - [korea] The appointments of Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minis..
   - [japan] Japan PM vows to underpin yen by boosting economic competitiveness
   - [china] Guangzhou Caps Deposits, Tightens Oversight in Housing-Sales Overhaul
   - [china] ZAWYA: Why East African banks are joining yuan payment system ?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's manufacturing PMI moderates to 54.1 in September; BOJ signals quicker hikes
   - [china] Russia steps up sunflower oil exports to China as war disrupts India trade
   - [china] Chinese refiners suspend Oct fuel exports, PetroChina cancels cargoes, sources say
-  - [japan] Japan inflation wave lifts prices on 3,000 food and drink items
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T08:32:49+00:00",
+      "published_utc": "2026-10-01T08:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
