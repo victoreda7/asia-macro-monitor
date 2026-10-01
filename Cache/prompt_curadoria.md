@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T21:42:45.023039+00:00
+Última coleta: 2026-10-01T21:52:45.195384+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1285
+  🇯🇵 Japão          1286
   🇨🇳 China          790
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  676
+  🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [japan] "Constructed at a cost of 4.9 billion yen → Big deficit due to declining popularity → In danger of closure"...
   - [china] Chinese state funds backed purchases of restricted Nvidia AI chips, report says
   - [china] China shortens leash on property developers
   - [japan] ``Russian finances'' unable to benefit from high crude oil prices, gold holdings plummet! Putin faces great di
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan releases “main opinions” from September meeting, also points out the possibility of accelerating
   - [korea] Bank of Korea plans gold purchase from domestic producers in December
   - [china] Oil price rises 4% after news that China has suspended fuel exports and that American troops are on their way 
-  - [japan] Japan to Map Out First Five Years of Takaichi’s Investment Plan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T21:42:45+00:00",
+      "published_utc": "2026-10-01T21:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
