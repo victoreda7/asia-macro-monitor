@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T03:52:46.173303+00:00
+Última coleta: 2026-10-01T04:02:44.208449+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1286
+  🇯🇵 Japão          1287
   🇨🇳 China          764
   🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  692
+  🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [japan] Sources of Changes in Current Account Balances and Market Operations (Sept.)
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
   - [japan] Japan’s patchy business mood takes pressure off BOJ for immediate hike
   - [japan] BoJ Policymakers See Scope for Faster Rate Hikes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion — Update
   - [korea] South Korea stocks slip despite stellar exports as oil worries weigh
   - [japan] Japan MOF To Auction Y3.0T Of TD-Bills Oct 8
-  - [taiwan] AI chip packaging demand meets labor pushback: ASE's NT$5.6B Taiwan snack factory deal sparks strike vote
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T03:52:46+00:00",
+      "published_utc": "2026-10-01T04:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
