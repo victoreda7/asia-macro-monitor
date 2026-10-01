@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T03:32:44.107862+00:00
+Última coleta: 2026-10-01T03:42:44.576656+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1286
-  🇨🇳 China          763
+  🇯🇵 Japão          1285
+  🇨🇳 China          764
   🇹🇼 Taiwan         258
   🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
+  - [japan] BoJ Policymakers See Scope for Faster Rate Hikes
   - [japan] Japanese Yen weakens as BOJ summary damps bets for back-to-back rate hike
   - [china] China’s Tencent Leases 100,000 Chips From Oracle To Accelerate AI Push - FT
   - [japan] Japan bond yields rise as US Treasury selloff persists, BOJ outlook in focus
@@ -48,6 +49,7 @@ Total: 3000 manchetes
   - [korea] SK Hynix to review shareholder protection measures after reports of Solidigm's US IPO
   - [taiwan] TSMC weighs investment in Texas to expand U.S. chip production, Reuters reports
   - [korea] South Korea’s Export Growth Extends Rally as Chip Boom Rolls on
+  - [korea] South Korea’s Monthly Exports Hit Record as Chip Boom Rolls on
   - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Oct 8
   - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion — Update
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan MOF To Auction Y3.0T Of TD-Bills Oct 8
   - [taiwan] AI chip packaging demand meets labor pushback: ASE's NT$5.6B Taiwan snack factory deal sparks strike vote
   - [japan] Japan Manufacturing Sector Ebbs In September - S&P Global
-  - [korea] SK Hynix trapped in no-trade zone at ₩1,778,000: Live levels
-  - [taiwan] SG Semiconductor builds brand and talent for Singapore chip industry
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T03:32:44+00:00",
+      "published_utc": "2026-10-01T03:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
