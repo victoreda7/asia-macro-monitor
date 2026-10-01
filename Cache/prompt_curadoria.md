@@ -7,17 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T00:02:45.136689+00:00
+Última coleta: 2026-10-01T00:12:45.888590+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1276
-  🇨🇳 China          773
-  🇹🇼 Taiwan         255
-  🇰🇷 Coreia do Sul  696
+  🇯🇵 Japão          1284
+  🇨🇳 China          771
+  🇹🇼 Taiwan         253
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ SEPT TANKAN: SMALL MFG INDEX 14; JUNE 9; MEDIAN 11
+  - [japan] BOJ TANKAN: SMALL NON-MFG INDEX 15; JUNE 15; MEDIAN 16
+  - [japan] BOJ TANKAN LARGE NON-MFG INDEX 35; JUNE 37; MEDIAN 37
+  - [japan] Japan business mood improves, tankan survey shows
+  - [japan] MNI BOJ SEPT TANKAN LARGE MFG DI 24; JUNE 22; MEDIAN 26
+  - [japan] BOJ SEPT TANKAN SHOWS LARGE MFG SENTIMENT RISE LED BY OIL/COAL, STEEL, NON-FERROUS, WHILE OFFSET BY FOOD, LUMB
+  - [japan] BOJ SEPT TANKAN: MAJOR MANUFACTURERS SEE INFLATION AT 2.2% IN 5 YEARS FROM NOW VS. 2.2% FORECAST IN JUNE SURVE
+  - [japan] BOJ SEPT TANKAN: MAJOR MANUFACTURERS SEE INFLATION AT 2.3% IN 3 YEARS FROM NOW VS. 2.2% FORECAST IN JUNE SURVE
+  - [japan] BOJ SEPT TANKAN: MAJOR MANUFACTURERS SEE INFLATION AT 2.3% A YEAR FROM NOW VS. 2.3% FORECAST IN JUNE SURVEY
+  - [japan] BOJ SEPT TANKAN: ALL FIRMS ASSUME FISCAL 2026 USD/JPY FX RATE TO AVERAGE Y154.23 (JUNEY152.57)
   - [japan] BOJ Tankan shows sixth straight rise in manufacturer sentiment
+  - [japan] Bank of Japan Tankan in September: Business confidence in “large companies and manufacturing industries” impro
   - [japan] Business confidence of large companies and manufacturing industries improves for 6th consecutive quarter, Bank
   - [japan] BOJ SEPT TANKAN: SMALLER FIRM FISCAL 2026 COMBINED CAPEX PLANS -4.7% Y/Y (JUNE -8.3%); MEDIAN FORECAST -4.8%
   - [japan] BOJ SEPT TANKAN: LARGE FIRM FISCAL 2026 COMBINED CAPEX PLANS +11.3% Y/Y (JUNE +11.5%); MEDIAN FORECAST +12.1%
@@ -46,17 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea’s Aug factory output, consumption, investment tumble on Hyundai strike; bond yields fall
   - [china] Brazil Beef Hit With 55% China Tariff After Filling Export Quota
   - [korea] Household loans continue to increase despite increases in base and loan interest rates
-  - [taiwan] Why TSMC’s capacity crunch opens the door for Samsung’s foundry
-  - [taiwan] TSMC's $265 Billion U.S. Expansion May Be Getting Even Bigger
-  - [china] Has the US-China tariff deal eroded Southeast Asia’s edge as a factory hub?
-  - [korea] BOK Financial Price Target Cut to $135.00/Share From $148.00 by Wells Fargo
-  - [taiwan] TSMC Reportedly Weighs Texas Chip Investment On Top Of $265B Arizona Push
-  - [japan] JDI Mobara factory, which is undergoing business restructuring, decided to sell to semiconductor parts manufac
-  - [china] Cambricon Says Former Exec Raises Equity Incentive Claim To 27.8 Billion Yuan
-  - [japan] RDP plans to improve financial situation by downsizing party headquarters and reducing staff
-  - [taiwan] TSMC Is Ready to Spend $265 Billion in the U.S. It Could Spend Even More. — Barrons.com
-  - [china] The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation for a period of 3 mont
-  - [china] The central bank announced that it will carry out a 1.2 trillion yuan buyout reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T00:02:45+00:00",
+      "published_utc": "2026-10-01T00:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
