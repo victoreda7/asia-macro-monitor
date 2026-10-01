@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T07:02:44.566894+00:00
+Última coleta: 2026-10-01T07:12:45.619362+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1291
+  🇯🇵 Japão          1293
   🇨🇳 China          769
   🇹🇼 Taiwan         254
-  🇰🇷 Coreia do Sul  686
+  🇰🇷 Coreia do Sul  684
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nikkei logs six-week closing high as Micron forecast lifts chip stocks
+  - [japan] BOJ Summary Suggests Low Chance of Back-To-Back Rate Hike — Market Talk
   - [japan] BOJ Summary Shows Government Unconcerned About Price Overshoot Risks — Market Talk
   - [japan] Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session
   - [japan] Yen Falls After Japan Q3 Tankan Survey Data
   - [japan] Asian currencies rangebound as dollar holds near two-month high, yen slips
+  - [japan] Yen Weakens as BOJ Summary Disappoints
   - [china] China's Tencent taps Oracle for 100,000 AI chips in $7B lease deal - report
   - [korea] Kospi Snaps Three-Session Losing Streak; Chip Stocks Advance
   - [japan] Ceres Inc - To Buy Back Up To 10.83% Of Shares Worth 2.5 Billion Yen
@@ -48,15 +51,12 @@ Total: 3000 manchetes
   - [japan] The market is once again aware of the risk of being on the defensive, with the Bank of Japan's main opinion in
   - [japan] At the Bank of Japan's meeting in September, when it decided to raise interest rates for the first time in thr
   - [japan] Morning Bid: Inflation relief gives bonds little reprieve
+  - [japan] Bank of Japan members announce ``main opinions'' from September meeting on gap in perception of economy and pr
   - [japan] Bank of Japan members publish “main opinions” from September meeting on gap in perception of economy and price
   - [korea] South Korea's Lee appoints new presidential policy chief, economic growth aide
   - [korea] Even if the won/dollar exchange rate surges, the negative impact on household consumption is limited..
   - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [japan] Japanese chipmakers rally as Micron earnings boost AI trade
-  - [china] China Eyes More Targeted Fiscal Support After Growth Slowdown
-  - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
-  - [japan] Asian currencies mixed as dollar holds highs, yen slips on BOJ signals
-  - [china] EU steel exports hit by high energy costs, tariffs and China oversupply
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T07:02:44+00:00",
+      "published_utc": "2026-10-01T07:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

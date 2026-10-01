@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T07:02:44.566894+00:00",
- "collected_at_utc": "2026-10-01T07:02:44.566894+00:00",
+ "generated_at_utc": "2026-10-01T07:12:45.619362+00:00",
+ "collected_at_utc": "2026-10-01T07:12:45.619362+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1291,
+  "japan": 1293,
   "china": 769,
   "taiwan": 254,
-  "korea": 686
+  "korea": 684
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T05:30:04+00:00"
+   "newest": "2026-10-01T05:30:25+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 42,
+   "count": 43,
    "error": "",
-   "newest": "2026-10-01T12:56:24+08:00"
+   "newest": "2026-10-01T13:47:27+08:00"
   },
   {
    "source_id": "investing_live",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-01T16:00:26+09:00"
+   "newest": "2026-10-01T16:00:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-01T04:14:43+00:00"
+   "newest": "2026-10-01T07:09:25+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T06:51:05+00:00"
+   "newest": "2026-10-01T07:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,40 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Nikkei logs six-week closing high as Micron forecast lifts chip stocks",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N057:0-nikkei-logs-six-week-closing-high-as-micron-forecast-lifts-chip-stocks/",
+   "published_utc": "2026-10-01T07:09:03+00:00",
+   "title_original": "Nikkei logs six-week closing high as Micron forecast lifts chip stocks",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "aaee00e8b8ec5a40"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Summary Suggests Low Chance of Back-To-Back Rate Hike — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261001001271:0/",
+   "published_utc": "2026-10-01T07:09:00+00:00",
+   "title_original": "BOJ Summary Suggests Low Chance of Back-To-Back Rate Hike — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "db8aea1df9d213c9"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "BOJ Summary Shows Government Unconcerned About Price Overshoot Risks — Market Talk",
    "url": "https://www.tradingview.com/news/DJN_DN20261001001150:0/",
@@ -412,6 +446,24 @@
    "live_wire": false,
    "manual": false,
    "id": "56ef68d1653e1168"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Yen Weakens as BOJ Summary Disappoints",
+   "url": "https://www.tradingview.com/news/te_news:588567:0-yen-weakens-as-boj-summary-disappoints/",
+   "published_utc": "2026-10-01T06:38:49+00:00",
+   "title_original": "Yen Weakens as BOJ Summary Disappoints",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ebef020db8a01e13"
   },
   {
    "source_id": "tradingview_live",
@@ -553,7 +605,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "pulse.mk.co.kr",
+   "source_name": "매일경제",
    "title_en": "Korea’s real wages fall for 4th straight month as inflation outpaces pay gains",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JdVZVVjhfVzJvOGJSV2M5eUMwMncxX1JFa2t6Ym1nX0taUENvV0xWOWYwdFcwWXhhS1Bzbjk3YWJlVEdjQ3F5bHlMZ3lDa3RqTkE?oc=5",
    "published_utc": "2026-10-01T06:08:01+00:00",
@@ -879,6 +931,24 @@
    "live_wire": false,
    "manual": false,
    "id": "77e7e857a14ecfac"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan members announce ``main opinions'' from September meeting on gap in perception of economy and prices (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHhVVm5kVjlhWVRPM2FfdGhYQWpDNlFpVUM2UVpDeGJiOENxOHctdlFPUWdyR0JwdFBEZUtwbHozOFRSSi1aTHE5OG5GUnJwcXBwQnFiaEZHSXFkbkpEVlJnZEJRazZrdTdVZloxUFJnRkhTWmQtZDlzRDBDZ3cyWjNLVEhtbWRHc3NYZ0Fn?oc=5",
+   "published_utc": "2026-10-01T04:31:17+00:00",
+   "title_original": "日銀委員、経済と物価の認識に隔たり 9月会合の「主な意見」公表 (朝日新聞)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "30c6c4e934464861"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1686,57 +1756,6 @@
    "id": "21203d04a4333780"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Oct 8",
-   "url": "https://www.tradingview.com/news/DJN_DN20260930009639:0/",
-   "published_utc": "2026-10-01T01:30:00+00:00",
-   "title_original": "Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Oct 8",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5f0127f05c9ab876"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "AI Boom Powers South Korea's September Exports Past $120 Billion — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20260930009632:0/",
-   "published_utc": "2026-10-01T01:26:00+00:00",
-   "title_original": "AI Boom Powers South Korea's September Exports Past $120 Billion — Update",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4d975fa877556947"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea stocks slip despite stellar exports as oil worries weigh",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N014:0-south-korea-stocks-slip-despite-stellar-exports-as-oil-worries-weigh/",
-   "published_utc": "2026-10-01T01:21:06+00:00",
-   "title_original": "South Korea stocks slip despite stellar exports as oil worries weigh",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4c90481a0b6c4467"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "AI chip packaging demand meets labor pushback: ASE's NT$5.6B Taiwan snack factory deal sparks strike vote",
@@ -1988,7 +2007,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan September meeting: If there are signs of an upward trend in prices, the pace of interest rate hikes may accelerate - Main opinion (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oLXMyazBjRFVHTXdDcmxjTDdQRGtlYTFyVDA1SjBIc1d2YU5JeXR5R01qOWQwa1dKa1BGSE9PYTlyakNHcFdDeXBDOXNJdzliVjdSd3JrcVBrNS1kTUFhb0kxVlB3VzBJazBSdVVzZnk2OUZ3WlRSY3I1Mzc0WEU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDZNM1lwLUJTN0pKOFhWNGtGM2pJek5kSksxYk5fcWZKZ3RJNjBJNlR1SWF3LWxvNlNlT3A4WFB0QzVzaW1pdGRueDdpaUd3Vjk4UEFQVWw4NlJsNmh2QjA1MVJMYXd0LWtXQkZKalpiNmF3bWdSUTdmZl9XY1FaUEc5OGpDN25h?oc=5",
    "published_utc": "2026-10-01T00:13:48+00:00",
    "title_original": "日銀9月会合、物価上振れ兆候なら利上げペース加速も－主な意見（Bloomberg）",
    "region": "japan",
@@ -2000,7 +2019,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d8d35d4ef32b9699"
+   "id": "b76423258027fc23"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2527,8 +2546,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -2542,7 +2561,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "75b4c762a9b099d0"
+   "id": "1a1839a5fb285df0"
   },
   {
    "source_id": "nikkei_asia",
@@ -2941,8 +2960,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -2957,7 +2976,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "950b84d1e9e45198"
+   "id": "2711875b41f47be4"
   },
   {
    "source_id": "tradingview_live",
@@ -2977,8 +2996,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -2991,7 +3010,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5af5981dfcf348d4"
+   "id": "c6a7c990cb0818fa"
   },
   {
    "source_id": "nhk_economy",
@@ -3342,7 +3361,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a period of 3 months.",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KWnhhZ2o3TGh4cUNtNFV2WTZ0aG1lYXNZRzVrV3pKYUpod1lUckx6VWtLTF9SalR1UHRDMVJNbUxiZmNzSWx3eDJBVTk0MG5Yb1dKM0xjbVNwd0syY2tadTlraDVaUQ?oc=5",
    "published_utc": "2026-09-30T09:33:38+00:00",
@@ -3446,7 +3465,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "한국경제",
+   "source_name": "hankyung.com",
    "title_en": "Global interest rates are resembling ‘post-Corona austerity’… Will Korea also go to 3.5%?",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcmp0RDhESlJPQVFlaE9QTDUyREZ5TXNDMmhCV1hFc0NfOUg4RWJ6NFpQM25LYzRLcExFZ0NPSW9feW5tZ3VmSG1vMVFmcUt1SmRidVoxUmxZdw?oc=5",
    "published_utc": "2026-09-30T09:11:13+00:00",
@@ -4082,7 +4101,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "The central bank’s 7-day reverse repurchase operation volume on September 30 was zero",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVFNuSFNTOWh2WTNvSmEwc2RjLWIySFJCSzdhSllQMmdGMkNhNnY1WjJ4emp0ejZzTjB6QTNEWjdLNGVsNlFvaVI1S1c5cmE2SzRrWGptY0RKOC1WdW5GSTM4Y0tjUQ?oc=5",
    "published_utc": "2026-09-30T02:32:05+00:00",
@@ -4253,7 +4272,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "The central bank launches 833.5 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wYzRPMHpfY01uRjV5NnI5Y3JlNTNUZ3prN19hbWZLOE1sM0NwM0NQS04tOG1fSXR0ZHBCMEJReHVBY1NMMl9EeXkzelVPNk9tNlRfUzVKR21UcXVkRHJWSTVsNTVGUQ?oc=5",
    "published_utc": "2026-09-30T01:27:22+00:00",
@@ -5217,7 +5236,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "新华网",
+   "source_name": "news.cn",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"-Xinhua",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGw3YmRiRW40NGFsM0pRSThUTWtYNWNQbmpZWW1FaXJ0NHBmT0Y1Njh6NmhnVFdtbm8zZEJmSEVXY3dqdnRzWGdrT09wNUVSMlNURndkdm9yMFhuUzRpVFkzX3Nnb2toTDhjblg1MU5pNFhOc2tySHY3cVZ5VmJOaw?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
@@ -5860,8 +5879,8 @@
    "id": "703f925fda4ee45d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
    "published_utc": "2026-09-29T04:23:30+00:00",
@@ -5876,7 +5895,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "38b4d6c26a1ec51f"
+   "id": "7abfef93833be46e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6175,7 +6194,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "The central bank launched a 90.5 billion yuan 7-day reverse repurchase operation in the open market",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PaTdURXp2M29ReEJpZGJhV2VMclpqaXBfNFBobnNhRTFhOHVyOFlqb3ZDU3BIYU01T0NDSnEtZW5WYk8wTjhWeUdZWnFxS1kzMzJkbXZUa0U1WVVZdjJWOWJVYmdDQQ?oc=5",
    "published_utc": "2026-09-29T01:43:01+00:00",
@@ -8166,7 +8185,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "The central bank today launched a 139 billion yuan 7-day reverse repurchase operation, a 661 billion yuan overnight reverse repurchase operation, and a 300 billion yuan 14-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RdUhmcjdRSnFhT3VHMWkyZVdDZlR1cXJoLXpMLWppNUVoSUdJUUhUUzRLOVQxazk3Qnl6WXB2QWVBMG5Ob3YzUU5pSi1jTGlPeE9ZZ25pUXNhSG1EeFRfNDRpYTQ4QQ?oc=5",
    "published_utc": "2026-09-28T02:46:41+00:00",
@@ -8184,7 +8203,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "파이낸셜포스트",
+   "source_name": "financialpost.co.kr",
    "title_en": "First meeting between Deputy Prime Minister Lee Hyung-il and Governor Shin Hyun-song... \"Strengthening economic and monetary policy communication\"",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pbmx6ZHpRTWRFZjFaTnVMbTNHbjI3NVpXcmZUMGNNaFBTR1hUa1pPelBoYU9ZQU13WFFOWmlEZFVLalNoWjVpR0N1NHJ5VFIzSVFVbTdkODAxRTFyRTNSOFI1NXkzTGljTjdRZWFlYmNWQUFC?oc=5",
    "published_utc": "2026-09-28T02:43:05+00:00",
@@ -8506,7 +8525,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "The central bank launched a 139 billion yuan 7-day reverse repurchase operation, with a bidding volume of 139 billion yuan",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMi0yWV8zYUtvUi1lLU1Fcm1fdFlTeVFMeUZZanlFTUhTMXJFYTNFa1AxR3pISmpFMDBPNWd1ZFJpeHBHMHQtQ01ES0JRNkhDX1Y1VVo3UkNQTjlxVzZqZlFmQ1dHdw?oc=5",
    "published_utc": "2026-09-28T00:51:06+00:00",
@@ -51968,23 +51987,6 @@
    "live_wire": false,
    "manual": false,
    "id": "eb2a783630c895a7"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan member Takada strengthens his hawkish stance, saying continuous interest rate hikes are \"possible\" - with flexible range (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yVWVIcnJjSkNDcjBKcXp4NU1uSGcwTk1RdGZITVcycDNCNWVKWTJvSVJqVTRIci1ab3VqWl9mMnZ6MjZlbTcyNjU0RU01ajY5cHBkRS1UV0xuUlV3dXRDSGhUTng0T1lxRnMtR3FSaHY3akdaSC1fV1VxcEw1czQ?oc=5",
-   "published_utc": "2026-09-02T01:42:55+00:00",
-   "title_original": "高田日銀委員､連続利上げ｢あり得る｣とタカ派姿勢強める-幅も機動的に（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bb5d2450ffa8abcd"
   },
   {
    "source_id": "manual_ia",
