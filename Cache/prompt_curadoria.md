@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T07:32:45.311602+00:00
+Última coleta: 2026-10-01T07:42:45.087163+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1294
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [japan] Stock price rises by 2,200 yen Buy orders spread to AI/semiconductor related stocks
   - [japan] Main opinions from the September meeting of the Bank of Japan: If there are signs of upward movement in prices
   - [japan] Nikkei logs six-week closing high as Micron forecast lifts chip stocks
@@ -30,8 +31,8 @@ Total: 3000 manchetes
   - [china] China's Tencent taps Oracle for 100,000 AI chips in $7B lease deal - report
   - [korea] Kospi Snaps Three-Session Losing Streak; Chip Stocks Advance
   - [japan] Ceres Inc - To Buy Back Up To 10.83% Of Shares Worth 2.5 Billion Yen
-  - [japan] Japan manufacturing growth slows to six-month low in September By Investing.com
   - [japan] At 3:00 p.m., the dollar rose to the low 158 yen range, as expectations for continuous interest rate hikes by 
+  - [japan] Japan manufacturing growth slows to six-month low in September By Investing.com
   - [japan] Japan manufacturing growth slows to six-month low in September
   - [japan] Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms
   - [japan] Yen Falls Against Majors
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Morning Bid: Inflation relief gives bonds little reprieve
   - [japan] Bank of Japan members announce ``main opinions'' from September meeting on gap in perception of economy and pr
   - [japan] Bank of Japan members publish “main opinions” from September meeting on gap in perception of economy and price
-  - [korea] South Korea's Lee appoints new presidential policy chief, economic growth aide
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T07:32:45+00:00",
+      "published_utc": "2026-10-01T07:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
