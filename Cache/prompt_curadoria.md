@@ -7,23 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T03:22:44.238479+00:00
+Última coleta: 2026-10-01T03:32:44.107862+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1286
-  🇨🇳 China          762
+  🇨🇳 China          763
   🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  694
+  🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
+  - [japan] Japanese Yen weakens as BOJ summary damps bets for back-to-back rate hike
+  - [china] China’s Tencent Leases 100,000 Chips From Oracle To Accelerate AI Push - FT
   - [japan] Japan bond yields rise as US Treasury selloff persists, BOJ outlook in focus
   - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
   - [japan] Stock prices rise significantly Buy orders for AI/semiconductor related stocks
   - [china] Yuan Appreciation Intact but U.S.-China Rate Gap to Cap Pace — Market Talk
   - [japan] BOJ Likely to Remain on Guard Against Inflation — Market Talk
   - [china] Greer urges G20 to back Trump tariff agenda, takes aim at China
-  - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
   - [japan] Tokyo Metro aims to ease rush by projecting vehicle congestion on the floor
   - [japan] [Today's Oha Biz October 1st (Thursday)] Nidek final deficit 564.6 billion yen
   - [japan] What is the NHK public opinion poll? Survey targets and methods
@@ -31,6 +33,7 @@ Total: 3000 manchetes
   - [korea] Seoul shares narrow losses late Thurs. morning amid inflation woes
   - [japan] Japan 10-Year Yield Rises on Hawkish BOJ Outlook
   - [japan] Tankan Supports View for Faster-Than-Before BOJ Rate Hikes — Market Talk
+  - [japan] Yen Falls After BOJ Summary Eases Rate-Hike Bets
   - [korea] Lotte expands financial, export support for partners
   - [japan] Japan business mood reaches 8-year high, bolsters case for BOJ hikes
   - [japan] Japan's Nikkei hits six-week high as Micron forecast lifts chip stocks
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Manufacturing Sector Ebbs In September - S&P Global
   - [korea] SK Hynix trapped in no-trade zone at ₩1,778,000: Live levels
   - [taiwan] SG Semiconductor builds brand and talent for Singapore chip industry
-  - [japan] Bank of Japan summary affirms priority is avoiding inflation overshoot
-  - [taiwan] Key facts: TSMC (2330) $265B U.S. investment; $60–$64B capex outlook; Q3 results Oct. 15
-  - [japan] Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in pri
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T03:22:44+00:00",
+      "published_utc": "2026-10-01T03:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
