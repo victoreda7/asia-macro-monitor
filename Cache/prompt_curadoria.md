@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T10:02:47.262976+00:00
+Última coleta: 2026-10-01T10:12:45.643359+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1289
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [china] US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources
   - [china] US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say
+  - [japan] Dollar holds as elevated U.S. yields overshadow cooling inflation data
   - [japan] Bank of Japan Tankan Large Enterprises/Non-Manufacturing Index worsens for the first time in five quarters (AB
   - [japan] Nikkei closes at highest level in six weeks; Micron predictions boost semiconductor stocks
   - [japan] Main opinions expressed at the Bank of Japan's September meeting: ``I will refrain from commenting beyond publ
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] At 3:00 p.m., the dollar rose to the low 158 yen range, as expectations for continuous interest rate hikes by 
   - [japan] Japan manufacturing growth slows to six-month low in September
   - [japan] Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms
-  - [japan] Yen Falls Against Majors
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T10:02:47+00:00",
+      "published_utc": "2026-10-01T10:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
