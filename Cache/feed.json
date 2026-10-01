@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-09-30T23:52:43.899831+00:00",
- "collected_at_utc": "2026-09-30T23:52:43.899831+00:00",
+ "generated_at_utc": "2026-10-01T00:02:45.136689+00:00",
+ "collected_at_utc": "2026-10-01T00:02:45.136689+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1271,
-  "china": 778,
+  "japan": 1276,
+  "china": 773,
   "taiwan": 255,
   "korea": 696
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-30T23:31:12+00:00"
+   "newest": "2026-09-30T23:48:30+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-01T08:33:35+09:00"
+   "newest": "2026-10-01T08:54:28+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-09-30T23:40:00+00:00"
+   "newest": "2026-10-01T00:02:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T23:46:06+00:00"
+   "newest": "2026-09-30T23:57:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-01T08:30:00+09:00"
+   "newest": "2026-10-01T08:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,197 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "BOJ Tankan shows sixth straight rise in manufacturer sentiment",
+   "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-tankan-shows-sixth-straight-rise-in-manufacturer-sentiment",
+   "published_utc": "2026-10-01T00:02:44.055782+00:00",
+   "title_original": "BOJ Tankan shows sixth straight rise in manufacturer sentiment",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5e72122d1d4434d4"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Business confidence of large companies and manufacturing industries improves for 6th consecutive quarter, Bank of Japan Tankan shows tailwind from AI demand (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oaG9pMDRrRWRkekpjWGVpLW94UllpYnRJZnM0cmFKZnQ5MER5TnVfODV1dG9lNnlWUERsaUFPY201RWZtS3ZQWFJJUkU2RHk3d1hLSFpwdDVNY25iZXViQTdCYXpYeE5ZT1ZhWVdqMlpIWkZyNmhzQVRVN3RLbWs?oc=5",
+   "published_utc": "2026-09-30T23:57:01+00:00",
+   "title_original": "大企業・製造業の景況感、6期連続改善 日銀短観、AI需要追い風に（朝日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b9958c43c2891805"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "BOJ SEPT TANKAN: SMALLER FIRM FISCAL 2026 COMBINED CAPEX PLANS -4.7% Y/Y (JUNE -8.3%); MEDIAN FORECAST -4.8%",
+   "url": "https://www.tradingview.com/news/macenews:e5b11bc0b094b:0-boj-sept-tankan-smaller-firm-fiscal-2026-combined-capex-plans-4-7-y-y-june-8-3-median-forecast-4-8/",
+   "published_utc": "2026-09-30T23:57:00+00:00",
+   "title_original": "BOJ SEPT TANKAN: SMALLER FIRM FISCAL 2026 COMBINED CAPEX PLANS -4.7% Y/Y (JUNE -8.3%); MEDIAN FORECAST -4.8%",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0250ad4da37afa6c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "BOJ SEPT TANKAN: LARGE FIRM FISCAL 2026 COMBINED CAPEX PLANS +11.3% Y/Y (JUNE +11.5%); MEDIAN FORECAST +12.1%",
+   "url": "https://www.tradingview.com/news/macenews:e49ff32cf094b:0-boj-sept-tankan-large-firm-fiscal-2026-combined-capex-plans-11-3-y-y-june-11-5-median-forecast-12-1/",
+   "published_utc": "2026-09-30T23:56:00+00:00",
+   "title_original": "BOJ SEPT TANKAN: LARGE FIRM FISCAL 2026 COMBINED CAPEX PLANS +11.3% Y/Y (JUNE +11.5%); MEDIAN FORECAST +12.1%",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "798bf2250791c4e4"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "BOJ SEPT TANKAN SMALLER NON-MANUFACTURER SENTIMENT INDEX +15 (JUNE +15); MEDIAN FORECAST +14",
+   "url": "https://www.tradingview.com/news/macenews:77b574535094b:0-boj-sept-tankan-smaller-non-manufacturer-sentiment-index-15-june-15-median-forecast-14/",
+   "published_utc": "2026-09-30T23:55:00+00:00",
+   "title_original": "BOJ SEPT TANKAN SMALLER NON-MANUFACTURER SENTIMENT INDEX +15 (JUNE +15); MEDIAN FORECAST +14",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2795fef64c8cd87d"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Bank of Japan Tankan Economic judgment of large manufacturing companies improves for 6th consecutive quarter",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261001de53527",
+   "published_utc": "2026-09-30T23:54:28+00:00",
+   "title_original": "日銀短観 大企業製造業の景気判断 6期連続で改善",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "25dfa02698c3d729"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT INDEX AT +14 (JUNE +9); MEDIAN FORECAST +11",
+   "url": "https://www.tradingview.com/news/macenews:47a97bb1c094b:0-boj-sept-tankan-smaller-manufacturer-sentiment-index-at-14-june-9-median-forecast-11/",
+   "published_utc": "2026-09-30T23:54:00+00:00",
+   "title_original": "BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT INDEX AT +14 (JUNE +9); MEDIAN FORECAST +11",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1ad7f2ea23e97597"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "BOJ SEPT TANKAN LARGE NON-MANUFACTURER SENTIMENT INDEX AT +35 (JUNE +37); MEDIAN FORECAST +36",
+   "url": "https://www.tradingview.com/news/macenews:33f984dbb094b:0-boj-sept-tankan-large-non-manufacturer-sentiment-index-at-35-june-37-median-forecast-36/",
+   "published_utc": "2026-09-30T23:53:00+00:00",
+   "title_original": "BOJ SEPT TANKAN LARGE NON-MANUFACTURER SENTIMENT INDEX AT +35 (JUNE +37); MEDIAN FORECAST +36",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b465a5b096bf5b81"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "BOJ SEPT TANKAN LARGE MFG SENTIMENT RISES TO HIGHEST SINCE MARCH 2018",
+   "url": "https://www.tradingview.com/news/macenews:c2ff1a5b5094b:0-boj-sept-tankan-large-mfg-sentiment-rises-to-highest-since-march-2018/",
+   "published_utc": "2026-09-30T23:53:00+00:00",
+   "title_original": "BOJ SEPT TANKAN LARGE MFG SENTIMENT RISES TO HIGHEST SINCE MARCH 2018",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0b23e20d6a2da96f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "BOJ SEPT QUARTER TANKAN LARGE MANUFACTURER SENTIMENT INDEX AT +24 (JUNE +22); MEDIAN FORECAST +25",
+   "url": "https://www.tradingview.com/news/macenews:f1c4247ed094b:0-boj-sept-quarter-tankan-large-manufacturer-sentiment-index-at-24-june-22-median-forecast-25/",
+   "published_utc": "2026-09-30T23:51:00+00:00",
+   "title_original": "BOJ SEPT QUARTER TANKAN LARGE MANUFACTURER SENTIMENT INDEX AT +24 (JUNE +22); MEDIAN FORECAST +25",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "131db5073eb7b809"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -1228,7 +1419,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "I don't think there is a big discrepancy in perception between the Bank of Japan and the economy and prices - Minister of Finance and Finance Jouchi (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0MEcyNVU5UTNtcm12NjlIaENMYVhleVhVdjZfakpYeDhYc3NTUWNLOGN1aGg2VEdnVXM3YzJycHpqek9GRE5iWEFkLXNtNVJlcFdFU1kwSVEzUkZTUEJZdHZ0TFE1WDRROGRWX3VyZkYtR0tBUkpOdndTeF9XZ2c?oc=5",
    "published_utc": "2026-09-30T10:01:57+00:00",
@@ -1282,7 +1473,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Respect the Bank of Japan's autonomy, explain economic and fiscal risks and secure confidence - Member of the Advisory Council (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ZEc4azhCejdhdXh2dGp6S3V2UUVFZmJhdk1obGJnR19ESks3ZHpESk5Od3MyMmIyS2RKZ3BmamVWdm1IcHYxNi1zQ1M1dGM2TFNneWJaM1I2N2dSNnBnOWFFTEQybWY1eEtfSWx6bXBiRmRIbUNwX2tFbTNuSHc?oc=5",
    "published_utc": "2026-09-30T09:42:03+00:00",
@@ -1474,7 +1665,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "apps.digitimes.com",
    "title_en": "Taiwan backs TSMC's US push but insists core R&D stays home",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pSXdoaGY4VmJsSnRVQzBIWmxyTlR1NERKNmREbnBTcnNiSGhnRmY3NFVfUjV2SFY2TVNNeENOeUhDcUNNMWhqVk1tczd1Sno5VnVfX0RGMkxlb2hhZEl2ZQ?oc=5",
    "published_utc": "2026-09-30T09:04:47+00:00",
@@ -1542,40 +1733,6 @@
    "id": "418683df7dcfc6d8"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Scottish Mortgage Investment Trust cuts China exposure to 11%",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45M0IQ:0-scottish-mortgage-investment-trust-cuts-china-exposure-to-11/",
-   "published_utc": "2026-09-30T08:41:07+00:00",
-   "title_original": "Scottish Mortgage Investment Trust cuts China exposure to 11%",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "00437075ac1154d5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's oil imports rise 13% in August as US supplies surge",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45M08S:0-japan-s-oil-imports-rise-13-in-august-as-us-supplies-surge/",
-   "published_utc": "2026-09-30T08:40:19+00:00",
-   "title_original": "Japan's oil imports rise 13% in August as US supplies surge",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8bdc95df1940ec2a"
-  },
-  {
    "source_id": "kantei_jnews",
    "source_name": "Kantei 首相官邸",
    "title_en": "Prime Minister Takaichi held the 13th Economic and Fiscal Council Meeting in 2026",
@@ -1592,23 +1749,6 @@
    "live_wire": false,
    "manual": false,
    "id": "849c1b48a3494572"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China applies 55% tariff to Brazilian beef after reaching import quota",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45M0JE:0/",
-   "published_utc": "2026-09-30T08:38:57+00:00",
-   "title_original": "China aplica tarifa de 55% à carne bovina brasileira ao atingir cota de importação",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "2b31a55692a49dd5"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1645,23 +1785,6 @@
    "id": "f608d99ffb831de5"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China Eastern Airlines Approves 3.4 Billion Yuan Investment",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45M0JR:0-china-eastern-airlines-approves-3-4-billion-yuan-investment/",
-   "published_utc": "2026-09-30T08:31:57+00:00",
-   "title_original": "China Eastern Airlines Approves 3.4 Billion Yuan Investment",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "56305049c19e6895"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ’s policy pivot opens scope for faster rate hikes",
@@ -1677,23 +1800,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c810605862becf89"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "JGB yields fall after report says PM Takaichi to vow nimble response to markets",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45M08P:0-jgb-yields-fall-after-report-says-pm-takaichi-to-vow-nimble-response-to-markets/",
-   "published_utc": "2026-09-30T08:19:49+00:00",
-   "title_original": "JGB yields fall after report says PM Takaichi to vow nimble response to markets",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "85b10ef8e85357f3"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1713,24 +1819,6 @@
    "id": "b62bf0b80cf88163"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Latest Stimulus Package Seems Small — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260930001408:0/",
-   "published_utc": "2026-09-30T08:08:00+00:00",
-   "title_original": "China's Latest Stimulus Package Seems Small — Market Talk",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fb9c1658f76ef06b"
-  },
-  {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
    "title_en": "Nidek 25th fiscal year financial results 564.6 billion yen deficit",
@@ -1747,24 +1835,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3434955d84a1f1e9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Mortgage Subsidies Scope Likely Disappoints Market — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260930001322:0/",
-   "published_utc": "2026-09-30T07:59:00+00:00",
-   "title_original": "China's Mortgage Subsidies Scope Likely Disappoints Market — Market Talk",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d43f8f4b8e4c74bb"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3155,7 +3225,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "radiok1230.com",
+   "source_name": "K-Radio 우리방송",
    "title_en": "The Korean financial market is tense due to the sharp rise in US and Japanese government bond yields... Bank of Korea warns of ‘interest rate and foreign exchange’ risks",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRbGdjVHpXRjQzUThyejNseFB0VUxZdlVlSWpWZER6dndJamtVWFMtb2FSV2JlanhPMEtUMjM0cEViR3VYOFo2WTluQm5Wd0s1MnZiS3VGNmdJcWkxcHdCYkxXeDRTYlFjeDZjSElCdnc1UdIBckFVX3lxTFBRbGdjVHpXRjQzUThyejNseFB0VUxZdlVlSWpWZER6dndJamtVWFMtb2FSV2JlanhPMEtUMjM0cEViR3VYOFo2WTluQm5Wd0s1MnZiS3VGNmdJcWkxcHdCYkxXeDRTYlFjeDZjSElCdnc1UQ?oc=5",
    "published_utc": "2026-09-29T15:05:12+00:00",
@@ -3227,7 +3297,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "Four arrows fired in unison! After the National Standing Committee set the tone, the central bank launched a new round of financial package to stabilize growth.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BY1g1LThUdWZicmQ0bmZlOWlmZWdDTU1WM0xHLXNGX2tzTUs4MXZRTXl0bFhIZ3ZyTHZwUEpVc1plZ3owbGJ1SW1XMVBXU2V0cTFyZDFrZC1XT3lJRGhyU3NnRXJ2aU5ITE0zWkI3VUpydjktUVRQQg?oc=5",
    "published_utc": "2026-09-29T13:31:21+00:00",
@@ -3297,7 +3367,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "news.cn",
+   "source_name": "新华网",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"-Xinhua",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGw3YmRiRW40NGFsM0pRSThUTWtYNWNQbmpZWW1FaXJ0NHBmT0Y1Njh6NmhnVFdtbm8zZEJmSEVXY3dqdnRzWGdrT09wNUVSMlNURndkdm9yMFhuUzRpVFkzX3Nnb2toTDhjblg1MU5pNFhOc2tySHY3cVZ5VmJOaw?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
@@ -3701,7 +3771,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "리드경제",
+   "source_name": "leadeconomy.co.kr",
    "title_en": "The Bank of Korea approves a monetary and credit policy report containing the background for raising the base interest rate.",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUTUtHQXhVdHBJVmVackY1cXpQVXY2TFZwU29RR3Q3YVZsZVpOYmdEREs3RzNHOWtPVEg4cXozZ1dObGFMd0wwQUhxcWVRY2I3QmZOa1FlV2tGMHF3R0s5clZ2dTN3YXh5TkhJWmtEdw?oc=5",
    "published_utc": "2026-09-29T07:05:00+00:00",
@@ -3822,7 +3892,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "apps.digitimes.com",
    "title_en": "Column: Why Micron's US$250M venture fund is about more than HBM margins—Taiwan has a stake in it",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHJlOVlFTVJkcXAweGo1ZkVsRktJX1lXUHlYLXRfeGpFSzZtVGRVYWtjbkhlZWptQzk5bVhxOHFCYnlobkI3Vzd2QVMzQm1LaFE0QzUxT196b1Q4U3liczhITEQtOGgzd1dQU0d5Vy10OEthTEJfYWV3Mll1VlQtYVVRYTZzMWg1eFFETzUtMkJma2c3SDlNMGtsaw?oc=5",
    "published_utc": "2026-09-29T06:40:00+00:00",
@@ -3977,7 +4047,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "apps.digitimes.com",
    "title_en": "GlobalFoundries eyes GaN expansion to challenge TSMC in AI",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjBkU0hSeTg3TzJsT293UXdOckNEQWxvenFfTDhJbno2Tm9pLXpEMTFsa180U2xCZDFKNEJMdVo5T0I1S1ZBc3pkeXZXaldsN1U5V21yRGFuSVBZRmZaUGNNZkZsUHp6ZUJaOFM3ZWt6Slpaa2JIQU9KM3A1MEZYVU1PdHVTd2dROXYzVHJtbTBHTHRFX2g2b01LX283TnhyMTFwbXcxQ2E?oc=5",
    "published_utc": "2026-09-29T03:31:47+00:00",
@@ -4133,7 +4203,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "apps.digitimes.com",
    "title_en": "TSMC helps VSMC build first Singapore fab in 22 months at lower cost than US",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVGRsMXNRYkNlbkNFNnpZSEVnSjFRMDROT0pnTkI3d1VSdnF5RFlOS0tZd0dRSS05TG9FV1FUU3FwWktKQTJUczFDWDRUZm8yVjJZbFhWTmdCMHZ4aENTUHFfR2U0ckZfNGw4UDhzMG9SSHRRX3AwX0FzOHY5bTQ2Wmozc1oxWkNxR2kwQmpWQQ?oc=5",
    "published_utc": "2026-09-29T02:38:26+00:00",
@@ -4513,7 +4583,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "apps.digitimes.com",
    "title_en": "Behind CoWoS (part 1)—How a 0% yield crisis led to TSMC's first advanced packaging win",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42TU1YLTNmWkdid1NoMlFfeXk4Q2xGb3k2bk5QdGYxeWUxRHBCVDZGRDJIMi1XaFlWV2JNZ3RWSWRVaWJyS3FzUDM5V1V2amtfNkY3UWE0M0N0MGt2TkhKXw?oc=5",
    "published_utc": "2026-09-28T23:18:40+00:00",
@@ -4547,7 +4617,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The 14-day reverse repurchase restarted, and the central bank’s open market operations invested a total of 1.1 trillion yuan in one day",
    "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxOWGRGUWp1QUZrTGhaTDdmeFlZemZWWmw0cE5WZGhRTEFla0dOMFhJNFVVaE11NmlZRUozYXZMcERMX1BjQ09ySUVrUEhzYXlOUEVadThrU0FMaWZGaWtraW9XN0NLMDh1eGIxSkNjaXpGUldmQm9fay04X0xEMVN1TDQwdDJnbjdlMlFCOVZhS3dUOG5BaEZtMHVsUm83cFNtZ2NMcDExQlhXalJoVkdyRmNrdDI0aU1HMzFkOFdLTUlJMS1FVXBnVjVNQl9ySXFKa0F4WGJBN3ZLRHJEY0hTQ0QwZjc5WXk1cDFOU0tlSk9HV3dlZ2xLNzZ2NXZ0c0hrZVh3aDduSjNwNUptLWZDOFVqTG92THdfclVHd3diMnI1R0FNOWw5TDBNUlp1eTU5Y2VseWhSVS1HTFFzYTZub0k5UTUybjREWlpaRnEycUJzT0hFbndjTE5kS0ZweGFzTll2RjQ0clhFbUtFdDFLOHZwWV9vWEw0RXVsNEVNRmJQM2NmZE05ZmJYUnptUjNGeVdGcjEtSE14MnpTN1dxcV96REpDakJHOVd4QW42YmlGZ2d5Z1A2TUl5bFhyMnNRYnlRaVpROFJvODF1V3hWV0REampJQ1pxaUdDS1FyX09vZkN1VkV4dGx1Wm4yMVZqWDdQZUJIX29SNW9KWXFEU0xBaTMtRmdoUlFlS25LUnU?oc=5",
    "published_utc": "2026-09-28T23:00:36+00:00",
@@ -5897,7 +5967,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "newsian.co.kr",
+   "source_name": "뉴시안",
    "title_en": "Deputy Prime Minister Lee Hyung-il and Bank of Korea Governor Shin Hyun-song first meeting... Strengthening economic and monetary policy cooperation",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSFkzTTk1UHFrR28tSnFPTkVaSE9pX0hqOWNEcFg2MUxTYjZNR0tnNDdoc0MxTzJoYmlkbENKenYyeHA1MWhOZGlPTGU3ZlFaQzJ3U3EtdU5nVXpNdXRoa1hTeDdDVU9jNkHSAW5BVV95cUxQeGNUYUNGQzBlcEV6VjZkSlIwLXN2Qkp0Q3A5VjVrdThNaUdSUTZXa3ZZaEc1NDJQUVVjWW02WXE0RTNETVR0eTZlaTNpSjBrWUV3M1AtVU8xQ2RTLUduV2hzSmUtMFFsN3hySWVndw?oc=5",
    "published_utc": "2026-09-28T05:00:26+00:00",
@@ -5950,7 +6020,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "더팩트",
+   "source_name": "news.tf.co.kr",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... “Seeking harmony between economic and monetary policies”",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T0R3SWdnS3p2cEozekVCTW9VOGtLX0VJMHFBWm9OaFZtYnluWGJzX3JtbmtCVVQ1VnRTVVp5bEpRWTloZzItekhwTTVQS2lYU3Q3czltZ1A5UdIBVEFVX3lxTE93TU5DMHU4RC0xdXFVbWJEamc1VGxUbFJ2RUQwTW11dXY2V2YxSEp3QnR5OVlmRWpEM2o4X0g0dHZiYUJsTl9kY2ZTc1EzZm8wVlhZQQ?oc=5",
    "published_utc": "2026-09-28T04:18:59+00:00",
@@ -6337,7 +6407,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "biz.heraldcorp.com",
+   "source_name": "헤럴드경제",
    "title_en": "Lee Hyung-il, the Bank of Korea tie wearer, “seeks to harmonize economic and monetary policies”… Shin Hyun-song “Prices and financial stability are the premise”",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Gc1c2MHN5Z2FYYlVpcDdNMzRrSDMtVS1XemNqUjkzVkoyY1VnTHdxdVdGNGZyUGtMRy1DcTBBSFV0SDlnRUZWUkdDQnNoZ0FVOTdyR3p3?oc=5",
    "published_utc": "2026-09-28T02:30:00+00:00",
@@ -7430,7 +7500,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "MTN 머니투데이방송",
+   "source_name": "news.mtn.co.kr",
    "title_en": "Even if the base interest rate rises, the deposit interest rate falls... Savings bank’s ‘Chuseok special offer’ also disappeared",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pQkpsamFEZ2I1ZzJtSlQtLVh5WnhSNXZXY2R2dnNCREtDV3JVeTRDWGVlOFhkeUVTTGVkTEpZSkwtdlBMMkVjOHY0eGxIOC1BbVhaUHE0T3djM3E4dm4ycE8teS0?oc=5",
    "published_utc": "2026-09-27T00:02:01+00:00",
@@ -9827,6 +9897,23 @@
    "id": "cccd7ecc7e040491"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The Double Festival is approaching and the central bank will take action! Overnight reverse repurchase reaches a daily maximum of 1 trillion, with new tools taking the lead",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQakVWWEM4bzVjUDFmSGZjelNsZF9uc0hpMXpsaWRySURkSnREMTdMQUQxS2xwRlN4c2NSTjBPVFlPelFIZUhvbG0xQ1R4LUQ4S25vWm54SWt3eXBKa3BjSUpTX2E1VVQzc2l2SVJuQ0c2RHJWMEFpd3RDTU5obnd3ZU1uZkdnNkpfZGRxSWd4X1Z4Vld3ZXFxWkloaGIyZTFCZmJCdGFsUE9FVUFhVE9faXhpdjZ4UEFBWllvZGg4V0wxNmVxT0RLVmxDX2lZLUFxY3R2Nm5Oc05rcXJjbWJzSVJNeEhMaDU0QTlfY1pMaFYycHZrLVg3Zk5jVE0xSmRfMTkyc0sxZUIzaFJ6bDlWX1NPTWVmSmVjbFNUbWtabVQ5TVVNV1FJM0J6N1ZmRlBkTTJiY3RBc0NLQjlfd3c?oc=5",
+   "published_utc": "2026-09-24T11:45:50+00:00",
+   "title_original": "双节将至央行出手！隔夜逆回购每日最高1万亿，新工具挑大梁",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e9ee87ede64369dc"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Himi City Council passes second supplementary budget bill to expand support for heavy rain victims (Kita Nippon Broadcasting)",
@@ -10160,7 +10247,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank makes big moves before the holiday! The upper limit of overnight reverse repurchase soared to 1 trillion, and MLF made a net investment of 200 billion. What signal?",
    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQV3YyRU9vNWdxbFZVeWtZMnZKUDB6TEVWaXZINmJNRGtETG9KVVp5R19DbEd2YlZwbW42TFZJYTlUMUprdGV6ZEVQcUtLTGFGdjhRX3dLWW5EUFZSNmxDNlZvTjZZQks3UzNGRXRuUnF4TXRoWW1TdlZsNDFUamtxalJEeG5rU2ROVDZ4MEJlNXN4OFFfMG5SY2MyOWRkR1NuanBTcm15dVg3RzJUNnMxaVB2VWRETTh5YzN0YlFOWkJhRjF4YWs1RFZkX0xfampMV2loZF8yZ2lzOVZ4MEEzMC1ZUm1hQnZNcWNPWFkzU2MtbVpIWG9DYUxWYXVVWDE1VEhJQ1JEaXVrWkduR3NRTA?oc=5",
    "published_utc": "2026-09-24T07:00:00+00:00",
@@ -10226,23 +10313,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fb42737475e86022"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The Double Festival is approaching and the central bank will take action! Overnight reverse repurchase reaches a daily maximum of 1 trillion, with new tools taking the lead",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzRFX3FPNWt6UWx1cHlxMEN1YURHUk52Zld4RFJZb1Izci1zZUYwUWJZbWkzVEJuNUhuZ0hrSy1QQUN2dUExeVkta3VaNnl0bkpaa1pnTU03YWt1eFJpcHVqdHQ0ZmRFeW5ianlaWjFuelBsTTNtdFZ4MTdMSG13aTEzb0Y5bWJKTDhXOHdaOWhvX0VpZW55MTJMY0hZd2hiby1nM2F3?oc=5",
-   "published_utc": "2026-09-24T06:45:07+00:00",
-   "title_original": "双节将至央行出手！隔夜逆回购每日最高1万亿，新工具挑大梁",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "eecd24173a647486"
   },
   {
    "source_id": "gn_jp_investing",
@@ -10612,7 +10682,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank increased the amount of MLF, and the total net liquidity injection in mid-September was 200 billion yuan｜News",
    "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPdENyZWpjUjFnZXM2Y3AzeW9URHBxS2VtNTNmeUJudGZ5Yzh6Z0xMWWFjRUdfTmNrYmRBNWh0a1pwd3l5QUlTM0hBc3M1Vk1CT0hyUmVlOHJiY2d6cnJsSmQxX3NHNF9WUzZTZzh0aE5qTGN5b2Z2Q0s3Z29sSGlBMUM4YW5lNy16N1ltVF94dXhwN3huSXRvQ25KM3htNENpYVNrMlFkdUlfX3M0YXN0b3hhdjZONnYxZ3ZvQVVaSl9VS2NKMmVZMzlKb3hkNXdwUnpqSXpmdjBSaGRNMXNFVzdVbHpvQlNXb00yaTMxR050OG90bmpoZWxJbmVTbXlYNEcyd29nZkRCMWZtN1I0VzFNZ2x0NmdDTkwxSlhSRmluUnpUQThOVTEtd1FkNGhuQXZuZW9iQ09pUEZVYVlNNDFHSmVQNlZWREkwWDRxSmZpN1QtOEhmU3B4ZnNyMnl3T19URzA3TTNTSktEWUtBSHNhVm8tT1dJeU83TllEcm54eGdCOGlBVW9jQ0FiUVNCeTJCN1NOSWpsZUkwUEhfU1V2ZjN6eVJaQkFxOG5DNEFCYVdDZFo2T0EzY3ctNTNjN1UtM3JINl9mM1V4T0tXREhwYw?oc=5",
    "published_utc": "2026-09-24T03:35:51+00:00",
@@ -10806,7 +10876,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "hn.news.cn",
+   "source_name": "新华网",
    "title_en": "The central bank will carry out overnight reverse repurchase operations",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ld2s3OGFjMUJxLU5HOGdCUnNtTVZJbTIyOVBSb1ZnbFZ2VnVMVUZ2eVNURTJSTVk5Vkotb3JQRjdaaVZuMl9JeUFtTnhSQkE2QUxRYlp2RTROb2V6VjlZelhyV3VWby1JSGsxNXI4T3VSbmhvN2V1eUJSZw?oc=5",
    "published_utc": "2026-09-24T01:28:40+00:00",
@@ -15070,7 +15140,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "apps.digitimes.com",
    "title_en": "Taiwan firms keen on investing in US manufacturing",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0t0LWhxTHlPV2l0aUNZQ25WWmZHb0padGp1LU9jUnUybGRRUTMwODdjZmZDSURLdmp4UENQa2tCb2pTR2h5eVVJMDNZQkxoNHBpeWpzejItT2NrNVJOZHJtR2RudXVRQ3lDT0t4Y3dEVzBjTHYxMC1FeE12V0E2Wkc0N0J0OUxRbmJFRGsycVpZeVBmeUJQdVVRclFudFdvYm55M2daQnh4cUpiWEcwcjhWX1BzZw?oc=5",
    "published_utc": "2026-09-21T07:00:00+00:00",
@@ -51914,57 +51984,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9f3c0de3921cea0f"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Bond Market Survey (August 2026)",
-   "url": "http://www.boj.or.jp/en/paym/bond/bond_list/bond2608.pdf",
-   "published_utc": "2026-09-01T07:00:00+00:00",
-   "title_original": "Bond Market Survey (August 2026)",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1191becab246f502"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan manufacturing growth reaches strongest pace since April By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS3BvUC1xUi02RzVkLXJMQ0tKeTBsZE9neURCbm15aWFXQ1BrTmpNRnk0bkpYRVlhSVdiaXJWc2dndXRhRnF0bDYxa0xDUFJSRVB6RTAxOHVKN3BKNWR2N2dKWGIyY0xrT1RYTzNzWkhoM3pxTUMtbGJNdU5CbTNjWFVjbjB6dkxXUEd4R19aSm9rOWNLMGFDSzhvQUFqMmN0VWpocElITlIybUxMN2drV21vZ29KejhFbF9tbVQ4aw?oc=5",
-   "published_utc": "2026-09-01T07:00:00+00:00",
-   "title_original": "Japan manufacturing growth reaches strongest pace since April By Investing.com",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0e76a2fd226b1312"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan's Katayama, Bessent agree orderly yen movements essential",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CaEtpeUZWLUxRbGZPTnNNTW9ZTGh5VnRZcWc5OFJMMGlOTC1HU3pWVDJOUW5TbFN5cmhTemJ0LXRSbFM5RV81MmtpUk91cmVzWllaOW5lam5WQQ?oc=5",
-   "published_utc": "2026-09-01T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Japan's Katayama, Bessent agree orderly yen movements essential",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "14da83efca2dddf3"
   },
   {
    "source_id": "manual_ia",

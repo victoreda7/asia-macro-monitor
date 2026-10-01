@@ -7,16 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-09-30T23:52:43.899831+00:00
+Última coleta: 2026-10-01T00:02:45.136689+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1271
-  🇨🇳 China          778
+  🇯🇵 Japão          1276
+  🇨🇳 China          773
   🇹🇼 Taiwan         255
   🇰🇷 Coreia do Sul  696
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Tankan shows sixth straight rise in manufacturer sentiment
+  - [japan] Business confidence of large companies and manufacturing industries improves for 6th consecutive quarter, Bank
+  - [japan] BOJ SEPT TANKAN: SMALLER FIRM FISCAL 2026 COMBINED CAPEX PLANS -4.7% Y/Y (JUNE -8.3%); MEDIAN FORECAST -4.8%
+  - [japan] BOJ SEPT TANKAN: LARGE FIRM FISCAL 2026 COMBINED CAPEX PLANS +11.3% Y/Y (JUNE +11.5%); MEDIAN FORECAST +12.1%
+  - [japan] BOJ SEPT TANKAN SMALLER NON-MANUFACTURER SENTIMENT INDEX +15 (JUNE +15); MEDIAN FORECAST +14
+  - [japan] Bank of Japan Tankan Economic judgment of large manufacturing companies improves for 6th consecutive quarter
+  - [japan] BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT INDEX AT +14 (JUNE +9); MEDIAN FORECAST +11
+  - [japan] BOJ SEPT TANKAN LARGE NON-MANUFACTURER SENTIMENT INDEX AT +35 (JUNE +37); MEDIAN FORECAST +36
+  - [japan] BOJ SEPT TANKAN LARGE MFG SENTIMENT RISES TO HIGHEST SINCE MARCH 2018
+  - [japan] BOJ SEPT QUARTER TANKAN LARGE MANUFACTURER SENTIMENT INDEX AT +24 (JUNE +22); MEDIAN FORECAST +25
   - [japan] Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026
   - [japan] Tankan (Sept.): Summary and Outline
   - [japan] Yen Consolidates Ahead of BOJ Tankan, BOJ's Summary of Opinions — Market Talk
@@ -47,16 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Is Ready to Spend $265 Billion in the U.S. It Could Spend Even More. — Barrons.com
   - [china] The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation for a period of 3 mont
   - [china] The central bank announced that it will carry out a 1.2 trillion yuan buyout reverse repurchase operation
-  - [korea] Korea lifts tax revenue forecast to record W478.6tr on chip boom
-  - [china] ACM Research subsidiary reports RMB 17.1B backlog, 88% YoY rise
-  - [japan] Private-sector politicians make proposals for economic policy management based on movements in interest rates 
-  - [china] China’s next big export could be $1.5 trln of debt
-  - [japan] Discussions begin at the Fiscal System Council for next year's budget formulation
-  - [japan] Crude oil imports in August Imports from the United States were 12 times higher than in the same month last ye
-  - [china] Retail Export Strategies Give Way to Integrated China-ASEAN Supply Chains
-  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
-  - [china] The central bank takes action! 1.2 trillion buyout reverse repurchase is coming
-  - [japan] Prime Minister Takaichi "examines financial scale" in preparation for next year's budget draft
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-09-30T23:52:44+00:00",
+      "published_utc": "2026-10-01T00:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
