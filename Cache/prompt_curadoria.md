@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T01:02:44.148143+00:00
+Última coleta: 2026-10-01T01:12:42.967890+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1289
+  🇯🇵 Japão          1288
   🇨🇳 China          762
-  🇹🇼 Taiwan         254
+  🇹🇼 Taiwan         255
   🇰🇷 Coreia do Sul  695
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Manufacturing Sector Ebbs In September - S&P Global
   - [japan] Bank of Japan summary affirms priority is avoiding inflation overshoot
+  - [taiwan] Key facts: TSMC (2330) $265B U.S. investment; $60–$64B capex outlook; Q3 results Oct. 15
   - [japan] Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in pri
   - [taiwan] Taiwan Manufacturing Expands Most Since 2021
   - [japan] Japan September factory growth slows to 6-month low, PMI shows
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ SEPT TANKAN: MAJOR MANUFACTURERS SEE INFLATION AT 2.3% IN 3 YEARS FROM NOW VS. 2.2% FORECAST IN JUNE SURVE
   - [japan] BOJ SEPT TANKAN: MAJOR MANUFACTURERS SEE INFLATION AT 2.3% A YEAR FROM NOW VS. 2.3% FORECAST IN JUNE SURVEY
   - [japan] BOJ SEPT TANKAN: ALL FIRMS ASSUME FISCAL 2026 USD/JPY FX RATE TO AVERAGE Y154.23 (JUNEY152.57)
-  - [japan] BOJ Tankan shows sixth straight rise in manufacturer sentiment
-  - [japan] Bank of Japan Tankan in September: Business confidence in “large companies and manufacturing industries” impro
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T01:02:44+00:00",
+      "published_utc": "2026-10-01T01:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
