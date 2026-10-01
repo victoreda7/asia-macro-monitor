@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T05:32:44.124093+00:00
+Última coleta: 2026-10-01T05:42:45.273162+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1292
+  🇯🇵 Japão          1293
   🇨🇳 China          767
-  🇹🇼 Taiwan         256
+  🇹🇼 Taiwan         255
   🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
   - [korea] Memory shortage deepens, extending boom for Korean chipmakers
+  - [japan] BOJ signals accelerated rate tightening amid persistent inflation risks
   - [japan] Bank of Japan releases main opinions at September meeting, maintains interest rate hike stance, with some poin
   - [korea] SK hynix says no decision on Solidigm amid IPO concerns
   - [china] Commentary: A $30 Billion Opening Beneath a Still-High U.S. Tariff Wall
@@ -27,6 +28,7 @@ Total: 3000 manchetes
   - [japan] Japan inflation wave lifts prices on 3,000 food and drink items
   - [japan] The market is once again aware of the risk of being on the defensive, with the Bank of Japan's main opinion in
   - [japan] At the Bank of Japan's meeting in September, when it decided to raise interest rates for the first time in thr
+  - [japan] Morning Bid: Inflation relief gives bonds little reprieve
   - [japan] Bank of Japan members publish “main opinions” from September meeting on gap in perception of economy and price
   - [korea] South Korea's Lee appoints new presidential policy chief, economic growth aide
   - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Seoul shares narrow losses late Thurs. morning amid inflation woes
   - [japan] Japan 10-Year Yield Rises on Hawkish BOJ Outlook
   - [japan] Tankan Supports View for Faster-Than-Before BOJ Rate Hikes — Market Talk
-  - [japan] Yen Falls After BOJ Summary Eases Rate-Hike Bets
-  - [korea] Lotte expands financial, export support for partners
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T05:32:44+00:00",
+      "published_utc": "2026-10-01T05:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
