@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T01:52:44.175634+00:00
+Última coleta: 2026-10-01T02:02:46.094534+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1287
-  🇨🇳 China          762
-  🇹🇼 Taiwan         255
+  🇯🇵 Japão          1288
+  🇨🇳 China          760
+  🇹🇼 Taiwan         256
   🇰🇷 Coreia do Sul  696
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea moves to cut bond issuance as high rates bite
+  - [japan] Need to accelerate pace of interest rate hikes; strong economy, wary of upward movement in prices; Bank of Jap
   - [japan] BOJ Summary Points to Growing Risk of Inflation Overshooting Target
+  - [taiwan] TSMC weighs investment in Texas to expand U.S. chip production, Reuters reports
   - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Oct 8
   - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion — Update
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT’S LARGER-THAN-EXPECTED RISE DRIVEN BY AUTOS, NON-FERROUS METALS
   - [taiwan] Lip-Bu Tan calls TSMC a partner rather than a rival
   - [korea] South Korea Exports Hit Fresh Record High
-  - [taiwan] How a TSMC veteran is steering Singapore's lab-to-fab chip strategy
-  - [japan] BOJ SEPT TANKAN: SMALL MFG INDEX 14; JUNE 9; MEDIAN 11
-  - [japan] BOJ TANKAN: SMALL NON-MFG INDEX 15; JUNE 15; MEDIAN 16
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T01:52:44+00:00",
+      "published_utc": "2026-10-01T02:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
