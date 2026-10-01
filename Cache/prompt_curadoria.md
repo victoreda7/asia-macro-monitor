@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T02:42:44.734754+00:00
+Última coleta: 2026-10-01T02:52:45.612774+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1287
+  🇯🇵 Japão          1286
   🇨🇳 China          759
   🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  696
+  🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
+  - [japan] [Today's Oha Biz October 1st (Thursday)] Nidek final deficit 564.6 billion yen
   - [japan] What is the NHK public opinion poll? Survey targets and methods
   - [china] China's PMI Improvement May Not Be Sign of Economic Recovery — Market Talk
   - [japan] Japan 10-Year Yield Rises on Hawkish BOJ Outlook
@@ -32,7 +33,9 @@ Total: 3000 manchetes
   - [korea] Korea moves to cut bond issuance as high rates bite
   - [japan] Need to accelerate pace of interest rate hikes; strong economy, wary of upward movement in prices; Bank of Jap
   - [japan] BOJ Summary Points to Growing Risk of Inflation Overshooting Target
+  - [korea] SK Hynix to review shareholder protection measures after reports of Solidigm's US IPO
   - [taiwan] TSMC weighs investment in Texas to expand U.S. chip production, Reuters reports
+  - [korea] South Korea’s Export Growth Extends Rally as Chip Boom Rolls on
   - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Oct 8
   - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion — Update
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea factory growth hits 4-month high as export orders boom, PMI shows
   - [japan] [Japanese Market Conditions] Yen falls to 157 yen-lower level following Bank of Japan's ``main opinion'' - bon
   - [japan] Japan September factory growth slows to 6-month low, PMI shows
-  - [japan] BOJ debated more rate hikes, scope for faster move at Sept meeting, summary shows
-  - [japan] [Breaking News] Bank of Japan September Tankan Business Confidence Improving in Large Companies and Manufactur
-  - [japan] BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T02:42:44+00:00",
+      "published_utc": "2026-10-01T02:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
