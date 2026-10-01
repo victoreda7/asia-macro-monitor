@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T17:22:47.363386+00:00
+Última coleta: 2026-10-01T17:32:45.891607+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1285
-  🇨🇳 China          789
-  🇹🇼 Taiwan         249
+  🇨🇳 China          788
+  🇹🇼 Taiwan         250
   🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
 
+  - [china] Exclusive-US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say
   - [china] 45% YTD rally! Experts see up to 56% upside in these 3 stocks on China's export shift | Target, rationale
   - [korea] Samsung raises Galaxy S26 prices by $100 amid chip shortage
   - [china] DGTR recommends anti-dumping duty on tuberculosis drug ingredient imports from China, Thailand
@@ -29,7 +30,6 @@ Total: 3000 manchetes
   - [china] China driving worrying rise in EU imports, Commission official says
   - [taiwan] Taiwan's manufacturing activity expands at fastest pace in five years
   - [china] US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources
-  - [china] US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say
   - [china] Russia will increase exports of sunflower oil to China, war affects sales to India
   - [china] Brazil Steelmakers See New Import Threats as China Share Falls
   - [korea] SK hynix reiterates no decision made on Solidigm financing despite dual-listing reports
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T17:22:47+00:00",
+      "published_utc": "2026-10-01T17:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
