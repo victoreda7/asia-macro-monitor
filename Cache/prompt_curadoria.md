@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T17:02:46.706423+00:00
+Última coleta: 2026-10-01T17:12:45.785071+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1285
@@ -49,7 +49,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
   - [japan] Bank of Japan releases “main opinions” from September meeting, also points out the possibility of accelerating
   - [korea] Bank of Korea plans gold purchase from domestic producers in December
-  - [china] Oil prices rise $3 as China suspends fuel exports
+  - [china] Oil prices rise $3 after China suspends fuel exports
   - [japan] Japan to Map Out First Five Years of Takaichi’s Investment Plan
   - [japan] Japan to Detail First Five Years of Takaichi Investment Plan
   - [china] China's Latest Stimulus Package Could Be Beginning of New Policy Support Round — Market Talk
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T17:02:46+00:00",
+      "published_utc": "2026-10-01T17:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
