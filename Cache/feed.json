@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T06:42:44.296940+00:00",
- "collected_at_utc": "2026-10-01T06:42:44.296940+00:00",
+ "generated_at_utc": "2026-10-01T06:52:45.971671+00:00",
+ "collected_at_utc": "2026-10-01T06:52:45.971671+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1291,
-  "china": 770,
+  "china": 769,
   "taiwan": 254,
-  "korea": 685
+  "korea": 686
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T05:56:31+00:00"
+   "newest": "2026-10-01T01:56:01+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T06:20:58+00:00"
+   "newest": "2026-10-01T06:45:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T06:06:32+00:00"
+   "newest": "2026-10-01T06:42:31+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T03:59:56+00:00"
+   "newest": "2026-10-01T06:39:10+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T06:01:43+00:00"
+   "newest": "2026-10-01T06:36:57+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-01T13:14:07+09:00"
+   "newest": "2026-10-01T15:42:03+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-01T14:10:00+09:00"
+   "newest": "2026-10-01T15:44:31+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T06:41:47+00:00"
+   "newest": "2026-10-01T06:51:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T06:08:01+00:00"
+   "newest": "2026-10-01T06:36:59+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Summary Shows Government Unconcerned About Price Overshoot Risks — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261001001150:0/",
+   "published_utc": "2026-10-01T06:46:00+00:00",
+   "title_original": "BOJ Summary Shows Government Unconcerned About Price Overshoot Risks — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c8613c745d07620c"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261001de53589",
+   "published_utc": "2026-10-01T06:42:03+00:00",
+   "title_original": "臨時国会 消費税減税法案など21の法案提出予定 政府",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0ccd49f19a26ff25"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -360,6 +395,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a94d36cb7117288b"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asian currencies rangebound as dollar holds near two-month high, yen slips",
+   "url": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
+   "published_utc": "2026-10-01T06:39:10+00:00",
+   "title_original": "Asian currencies rangebound as dollar holds near two-month high, yen slips",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "56ef68d1653e1168"
   },
   {
    "source_id": "tradingview_live",
@@ -934,24 +986,6 @@
    "id": "3a2bf49e9e2878b9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261001de53589",
-   "published_utc": "2026-10-01T04:14:07+00:00",
-   "title_original": "臨時国会 消費税減税法案など21の法案提出予定 政府",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0ccd49f19a26ff25"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
@@ -1003,24 +1037,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9bfd1df757ddaa40"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Asian currencies mixed as dollar holds highs, yen slips on BOJ signals",
-   "url": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
-   "published_utc": "2026-10-01T03:59:56+00:00",
-   "title_original": "Asian currencies mixed as dollar holds highs, yen slips on BOJ signals",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "665782e4570d8422"
   },
   {
    "source_id": "nhk_economy",
@@ -1703,25 +1719,8 @@
    "id": "4c90481a0b6c4467"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan MOF To Auction Y3.0T Of TD-Bills Oct 8",
-   "url": "https://www.tradingview.com/news/DJN_DN20260930009618:0/",
-   "published_utc": "2026-10-01T01:20:00+00:00",
-   "title_original": "Japan MOF To Auction Y3.0T Of TD-Bills Oct 8",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "26b9437bbadbdc06"
-  },
-  {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "AI chip packaging demand meets labor pushback: ASE's NT$5.6B Taiwan snack factory deal sparks strike vote",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSTAzNzdvbnBWV0RGOHQ0WjJxb3hOS2xDU2lJZHo4VFhUUlBTM3ROQ2xzRjNnMnNxeC1vczVVUkJqXzhvYWIwUHVvTVpnX2M0VVZjVHpzR3Ftek5KQnJKeFo3TUJOM3ROMDFnWVd5Ym9iMDhGXzItY2M0Z00zNDd5LWZoUnpTdnFxMUZ4UUxlREpkdw?oc=5",
    "published_utc": "2026-10-01T01:15:15+00:00",
@@ -1755,7 +1754,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "SG Semiconductor builds brand and talent for Singapore chip industry",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVl9KeWpFRFBJenc0NXNkVU1oYjhxcmpyd2wtX2RYODVkNlNldEtvUXA2T1NPdWRhQzNfZFBOTjZQQ1FyTXd6ZWpidGN0d3BNVWRaYk04SzkwSGVsandkX1ZCem1uSXl0VlIzWnMxd3VTUTd0dTBoQXcwTjhQQWhuckQzaEdXRXRGOWN4b3RCUTZuUDhhd2lXdmk2WF9CSjQ?oc=5",
    "published_utc": "2026-10-01T01:02:01+00:00",
@@ -2005,7 +2004,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Lip-Bu Tan calls TSMC a partner rather than a rival",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWW82ZlFIOG9kMHZqdnlsYkxCOWlOeE1Fb01XeEoxYWtkYjRHck04R2ZxdEJ6TzhBRTRTNFZkUlI5SEp2S0ttN0FXWVk5aFdRSXFzM3UxcU0zLTF5TjNvNWhaOHZXeVVjLThiUjlZQlA3Skx0NXc3ODB6dTFkVnNzYXpHSkREbjNOc2UxMQ?oc=5",
    "published_utc": "2026-10-01T00:11:53+00:00",
@@ -2022,7 +2021,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "How a TSMC veteran is steering Singapore's lab-to-fab chip strategy",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkNsbWFXWEFZOW5kNFZoQkdSSnhJNHdZS0JQaEV1djJLOVNrREZhOGtwbGZFRXNEWnVxUS1CLWViekItSnFrUG9PUjNrU01CYU4yUVlhWTYtOE5YdjRRYXFLWXdqVGQzMWJVZG5oS3FVSWlrZkFfMWthSzhzRllnOERQT2dlVkEzRVhmWGFPWVdMWDVtS2xIZ3ZWS3EzVjlF?oc=5",
    "published_utc": "2026-10-01T00:11:28+00:00",
@@ -2510,8 +2509,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -2525,7 +2524,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "75b4c762a9b099d0"
+   "id": "1a1839a5fb285df0"
   },
   {
    "source_id": "nikkei_asia",
@@ -2612,6 +2611,23 @@
    "live_wire": false,
    "manual": false,
    "id": "548139763e7971c1"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Korea’s chip leaders urge push beyond fast-follower model",
+   "url": "https://www.koreaherald.com/article/10889267",
+   "published_utc": "2026-09-30T15:36:24+00:00",
+   "title_original": "Korea’s chip leaders urge push beyond fast-follower model",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e64c260d70e92e77"
   },
   {
    "source_id": "nhk_economy",
@@ -2907,8 +2923,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -2923,7 +2939,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "950b84d1e9e45198"
+   "id": "2711875b41f47be4"
   },
   {
    "source_id": "tradingview_live",
@@ -2943,8 +2959,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -2957,7 +2973,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5af5981dfcf348d4"
+   "id": "c6a7c990cb0818fa"
   },
   {
    "source_id": "nhk_economy",
@@ -3963,7 +3979,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Foundry 2.0 revenue hits record as growth spreads beyond TSMC",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUNNM0JMVFlMYlNjbXdxbWlIUVRTRzZfOUlZS1h4djZIMklrVTlHaXI0NnFwLXNpbEcyZkxrSmlNNktBT05wM3Nud0xsQzdaaU04a3hVU1JLVWpRcnVmLS1IcjNHWG55c2VsTzZyVmJ0alFVZVg3RDRhWGV2RWdPc1VzNk02dFR2VXNaVEZVYw?oc=5",
    "published_utc": "2026-09-30T03:29:34+00:00",
@@ -4202,7 +4218,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Grand Pacific Petrochemical, Air Water join forces to expand Taiwan semiconductor materials business",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWg5T1JZM1RIMkcyQjRYTUgxT3NhNjV0MzUwZHA4UWk0N25MLV8tc0prR0g0dUJIOG1aSTdLdXFiVTJMVUtaVm8td1RXVnhWRG1mcjdhYlQxWnk0UVNLUEZCTkxkenVCZnBtZnVVVk1xUjlpdGdYWmUwc242Tl8zWEx0SVZPVW5LRW1Bc2xsYVZmc3pzaWRaMFZJdUVwZ1lZ?oc=5",
    "published_utc": "2026-09-30T01:28:09+00:00",
@@ -4990,7 +5006,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "taipeitimes.com",
+   "source_name": "Taipei Times",
    "title_en": "Legislative Yuan rejects Control Yuan nominees",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iUHl4WUs4Vng5UVZQYl9uOTJHSEJDZlU2MWJXaF9jdUJxbUhSSTJMXzNKajJBYUxyV0JRN0o1czFRMDdWc3hWUmoyMDlCQVVDRmJUZElSeFhDVjMxaENIWHRxOFhYWm9RbEtGZlNIVE1tUjF1NnloTg?oc=5",
    "published_utc": "2026-09-29T16:00:00+00:00",
@@ -5431,7 +5447,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "In global semiconductor race, Singapore bets on critical, mature technologies",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1RGZE5GN214UnVaS2lFNzR4YWR6Qno5WXNKM0MzOXM4REZzdTQzdnlPajJ3MFN0UWJLZjV6RjlUVVFlM2QyTFBlZG0xTERBN2JQNmthQ183QUkzLWZaQm5JckI3UTdZRzZhTU00ZkQyVHphZ2hoQnp4VWdrM0FFSGE3RTN6b0FTU0duMkNpVFdPdlNWWF91dXRiM3pZMmQzOTd4NENrQm9oVlE?oc=5",
    "published_utc": "2026-09-29T08:57:39+00:00",
@@ -5621,7 +5637,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Singapore's chip progress",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XNjZCb0thUXp3V2MxZUpJX1M0c1R5cFczcC04aEtCWTNabC1OOUxlckk0RXZZTUZqVm9hRHlLZmZ3WGhYX1hHRUR6TDdjUFh0MTBTVEtSRl9hc29yTE1hZEc0NWNLdXMxZmd5YlU5dEZfX3hxNGxoeEpR?oc=5",
    "published_utc": "2026-09-29T07:03:20+00:00",
@@ -5826,8 +5842,8 @@
    "id": "703f925fda4ee45d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
    "published_utc": "2026-09-29T04:23:30+00:00",
@@ -5842,11 +5858,11 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "38b4d6c26a1ec51f"
+   "id": "7abfef93833be46e"
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNUZNV0k1NXFrQ2p5VzFOZmFMeUZYU0hxSWtSZ1huSUxCVHZ4SXQ3cXFjcl9iMXc3WmE0RHZTOEttUTJKREI4NmQyWjUyZU9YVXRmR3dFOGljRG1wT25JLWVKTFFGYkVIZ3kzb1dPV2o3SW82cHlsTFdTTEdCQmRYb1BOVDRVbHk3YWZfNEpQZw?oc=5",
    "published_utc": "2026-09-29T03:59:54+00:00",
@@ -5880,7 +5896,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNWdxNDRkWjI1Qy1fN0F0SjJkU19RYmNBN2VQdm5oRXIzVHRPT0hNZ2w2bkgyaEllamd2b2I4UzlSYUFNTHJ4X21sTHduTVdSQzFONG91N25FaU9nSWNGS2JJX1dNbUZxRTcwSUNPYkVHZXhJUUJBZUxKcXZwOXpKR05qUXdBbTJKX25CS2g0TQ?oc=5",
    "published_utc": "2026-09-29T03:23:52+00:00",
@@ -6089,7 +6105,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "pulse.mk.co.kr",
+   "source_name": "매일경제",
    "title_en": "Samsung Electronics, SK hynix rebound on bargain-hunting",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51YldWZ1lfN0s2Ui1pZDV4Z3RVNGp4X2ZVd2hXWnJiWFFDYkdWM0Q4cFJCSnJNXzVIZmFDZWJiMFVJazN0djFPZlV1eEZEaHI1MlhrOWdWQQ?oc=5",
    "published_utc": "2026-09-29T02:10:34+00:00",
@@ -6864,7 +6880,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rVmZqeDhPX2dVYTNhNGhncnI1RUs0NXhFMDNlQkFCZ3MyYkJsdkNPcUl0WDdTQmpYSElFcHFYRVhhSmROVnpfQWQ5SUJxTE5PblFxNE1SN0k4SjFkWkJaV0RhSk90YjN3QlM5YVFrTFdvU3lRY1FZdjZ0LXI?oc=5",
    "published_utc": "2026-09-28T13:10:00+00:00",
@@ -7297,7 +7313,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "xinwen.bjd.com.cn",
+   "source_name": "京报网",
    "title_en": "The central bank launched \"three arrows\" today, with a net investment of 439.7 billion yuan in open market operations.",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50X0RibUl3NXFPbjJLVXM1WmlRZmg2b1dxZG1iRzlmY1lLUG8tY0hpSzFlYjdkTml6Q2w0TFpvSF9ldy1jMXJMRFR0UlFBVjNfOEd0cGVmOFgyeG1fYmZJVXlMWUpQWm1DVGNvOU9kTG53dw?oc=5",
    "published_utc": "2026-09-28T08:42:00+00:00",
@@ -7574,7 +7590,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "알파경제",
+   "source_name": "alphabiz.co.kr",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Strengthening economic and monetary policy cooperation",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoT3FZNTZrNGNiZ0N5SWZnNzhMVTM2MEJqX1luZzllbUt0SjhJWFlCUmpTNG50SEpycXJCX1VZS05ESkNJTGVCUjdyNmwxT2dYYTF5bUxZaEdJTXFlcDFJR2c4R1FjTTdkTzVDRnd3?oc=5",
    "published_utc": "2026-09-28T06:38:11+00:00",
@@ -8185,7 +8201,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "hani.co.kr",
+   "source_name": "한겨레",
    "title_en": "Deputy Prime Minister Lee meets with Bank of Korea governors 6 days after taking office... “Fiscal-Monetary Policy Cooperation”",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSXltS2J3QUhWa2V2aERndVJDaHJLbUJPRGluanBpTDJOMG56d0pUVVRIOEh6Q0tHV2x2eWpNUWJvLXE2N3NrNkdKZUo2cHBkZml2U2JobEtFYUNaRURNNjVwVmV5QQ?oc=5",
    "published_utc": "2026-09-28T02:39:00+00:00",
@@ -8974,7 +8990,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "taipeitimes.com",
+   "source_name": "Taipei Times",
    "title_en": "Trump-Xi meeting: ‘Anti-China card’ has lost impact: KMT lawmaker",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsQXQ1alJhdWZoRWFVeW05UmJsSHhKV1NRYXBxa1RmLTEzR3lWVk5wcldPZFh1ZU0tTUpuVkZ0TUN4Rl8tbU1wa01EZ05Dd2dRQjZkYWVpUnQ3TWxub2pOdllQeFFkSHpBZE9uVWowLXhsd1hjZS04OXVB?oc=5",
    "published_utc": "2026-09-27T16:00:00+00:00",
@@ -9452,7 +9468,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "taipeitimes.com",
+   "source_name": "Taipei Times",
    "title_en": "Trump-Xi meeting: Xi’s visit to archives cut short, sources say",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VV3lGYU9xMUxaZGp5dDlQMjN2azJXYjVRSWs5SEh4aFJpMmlQeVRfcGxqSEVFTHRSRHBzVktkbnB5YmR1dHFSczAwTnpJZmJsSDlqSTJUVHVxaFAyVGJkejk0dHRsTFhlZmlId00tS09PbGpOUDlQUWRR?oc=5",
    "published_utc": "2026-09-26T16:00:00+00:00",
@@ -9520,7 +9536,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China, U.S. reach consensus on eight outcomes in Xi's visit",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4SXVvQTFCY04wbS1kYzU1bGJsbXFPQ3h0UXFxMjV0ZkpWdnVZXzlvUlBhVDF4YnRSUW9PN1c0akV0UmtoeWZIdTc4X3lNVmdmd2lJd1JrQXJYNGhkVW50STRDSzIwZGlXQUdITGtfckhpLWJucjduUm95MUY?oc=5",
    "published_utc": "2026-09-26T10:50:00+00:00",
@@ -10213,7 +10229,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "taipeitimes.com",
+   "source_name": "Taipei Times",
    "title_en": "Taiwan trade surplus to hit US$205.4bn on back of AI",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYbWFrTUVkNXBvYldEOHlEZm1lTWJoOF9xS0k4MFNtc0NhRzdoY1gyaUNYRUNLMjU3dHRNNElHVWtnYU5TN1VZQUE2VUI5YXF3bUZ2cTVnM2QxMDgyZi1ERjIyMlM0VUZFbVpYVnQwQXhGTFRHSlJTUQ?oc=5",
    "published_utc": "2026-09-25T16:00:00+00:00",
@@ -12235,7 +12251,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Cadence, Synopsys certify TSMC A14 design flows ahead of 2028 production",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemNPZFJFY3BwS0JOSUJKdWRrX3FBRGhlMTdFcy1jMTA4S3czNjhJd1p2Y05CTjlTUUVoaWxUV1J3TVNUelRmMFNtR1NFOFprTHpFbWphSXh5WVA2MFkwcTA3YkpaM2p1cDdhSUJkclBKek5jNGFLdkZzTjBkdWNDNXhGUG92cGJoWS1CZ0lXb1V2RGoxTGV1WXNxUks?oc=5",
    "published_utc": "2026-09-24T06:26:00+00:00",
@@ -12602,7 +12618,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "TSMC locks in 3-6% wafer out price hikes for 2027",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVE4Ty1hREZERmhoSkJWekhXV25RekVMSXpMMHJyNmpJTjV0ZFJQUlF4eHJVTkxsN1ZrZVFoa3RsRnhuZWM2Z1pSUTZOeFg5MWMtLXVuM2VwWEF1eUhsanZuOFVNUmdfb1VLSkxmMERxTWt2cldmcjdOMTFNdWpfTDlzZzNKQQ?oc=5",
    "published_utc": "2026-09-24T03:09:04+00:00",
@@ -18059,7 +18075,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China's State Council appoints, removes officials",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTmlyOHpLQ0syMGZkV2FEeVp1b0JfOGhQbVR1TURQeFd5Q1ZDejRQNHkzcy1lWkhBb2hoZ1BJd2R0alI3MXpkVWtjTEhhTXloRTZYRV9MVDJVOXlXUWJmOXl4NC0xOXRFLXFkelRWYlZnMUVkNkM0b0x3OXY?oc=5",
    "published_utc": "2026-09-20T11:40:16+00:00",
@@ -20228,7 +20244,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
    "published_utc": "2026-09-18T15:43:15+00:00",
@@ -26680,7 +26696,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "taipeitimes.com",
+   "source_name": "Taipei Times",
    "title_en": "Japan eyes defense spending at 3.5% of GDP, sources say",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRUhuRDBpTVBUS0wxbWR2MjE2RDRNalJYdGdlZFVuT1E3NDMzR1hDU0VsSF9WUXRGRktpamhNV18wNTlTcGdHN3V3dHd2QkFUaVA1VmxDVE1QbXJaMTVYd3VVYmUtclc5eVNzUnFhc0F4RXNzU212TA?oc=5",
    "published_utc": "2026-09-16T07:00:00+00:00",
@@ -30620,7 +30636,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Xinhua News | China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93T0V0SG82MDNSd0djbmNKbkxmS0pMckRVYlo0YXUwdDB2eUdrdGVTQmZYZzBuRHppWGd5UlN4cmJIWXZWWmJXMHkyRkhmV0VCNUJ2WTlzblNYNTJseFhRN3hMS3UycDBMN1VMQzdFajFId0VQX2NjUUNxNlU?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -30637,7 +30653,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nbk5KVkVjWHdKclpEMXZHd05LUnVvZkg2ZThPZ3lYeVRhd0RxVGJkSVdqb1Q0NjUyWjdXc2VTemFsOTBrb0ppZ2dud2ZhYlFsTVZOQ0NyblN6X1Z1N2wtakdzMFI1emJ6LVIyQWNYZEhycDNGeEo2QXBOWnY?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -51970,23 +51986,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7564aea8424ed450"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "chinanews.com.cn",
-   "title_en": "The central bank’s 7-day reverse repurchase operation volume on September 2 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yeHJUMi1NdFBHbE5DOVd3WVZ5c29GT0hwOW83ZnpwVzlNOEFvR0pzbGp0bkZGaUIwUmtnS3dvVkMwcXJDalE5WHRIdFoyTjJuX2dHS0FCVlV0cE00TGEyRVMxWkU0UkxS?oc=5",
-   "published_utc": "2026-09-02T01:37:44+00:00",
-   "title_original": "央行9月2日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d3068d44799d93ec"
   },
   {
    "source_id": "manual_ia",
