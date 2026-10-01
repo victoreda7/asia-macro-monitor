@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T06:25:47.202508+00:00
+Última coleta: 2026-10-01T06:33:20.935974+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1290
-  🇨🇳 China          769
-  🇹🇼 Taiwan         257
+  🇯🇵 Japão          1292
+  🇨🇳 China          768
+  🇹🇼 Taiwan         256
   🇰🇷 Coreia do Sul  684
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan manufacturing growth slows to six-month low in September By Investing.com
+  - [japan] Japan manufacturing growth slows to six-month low in September
+  - [japan] Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms
   - [japan] Yen Falls Against Majors
   - [korea] Korea’s real wages fall for 4th straight month as inflation outpaces pay gains
   - [korea] Trump unveils 3 projects under Korea's $200b US investment plan
@@ -45,7 +48,6 @@ Total: 3000 manchetes
   - [china] China Eyes More Targeted Fiscal Support After Growth Slowdown
   - [japan] Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session
   - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
-  - [japan] Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms
   - [china] EU steel exports hit by high energy costs, tariffs and China oversupply
   - [japan] Sources of Changes in Current Account Balances and Market Operations (Sept.)
   - [japan] Asian currencies mixed as dollar holds highs, yen slips on BOJ signals
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Yen weakens as BOJ summary damps bets for back-to-back rate hike
   - [china] China’s Tencent Leases 100,000 Chips From Oracle To Accelerate AI Push - FT
   - [japan] Japan bond yields rise as US Treasury selloff persists, BOJ outlook in focus
-  - [japan] Stock prices rise significantly Buy orders for AI/semiconductor related stocks
-  - [china] Yuan Appreciation Intact but U.S.-China Rate Gap to Cap Pace — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T06:25:47+00:00",
+      "published_utc": "2026-10-01T06:33:21+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

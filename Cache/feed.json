@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T06:25:47.202508+00:00",
- "collected_at_utc": "2026-10-01T06:25:47.202508+00:00",
+ "generated_at_utc": "2026-10-01T06:33:20.935974+00:00",
+ "collected_at_utc": "2026-10-01T06:33:20.935974+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1290,
-  "china": 769,
-  "taiwan": 257,
+  "japan": 1292,
+  "china": 768,
+  "taiwan": 256,
   "korea": 684
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T06:06:32+00:00"
+   "newest": "2026-10-01T06:20:58+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T04:08:46+00:00"
+   "newest": "2026-10-01T06:27:33+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-01T15:24:44+00:00"
+   "newest": "2026-10-01T15:26:00+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T00:27:20+00:00"
+   "newest": "2026-10-01T00:27:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T05:02:00+00:00"
+   "newest": "2026-10-01T05:48:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T05:02:00+00:00"
+   "newest": "2026-10-01T05:48:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Japan manufacturing growth slows to six-month low in September By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUczd3dlclp4SVB6Qk96VHpfckFmS0RrSllwck1QdWtJd1Bfakg0eFV2M012WGFmZ3J1NFZ3RjJfYWFiYzI2cDA4NHhFMHpIbHlraEROSnBONThXZE5OYUVJaXNaVTBxZTd2cHhPUUcxbUNKVXRBR1ZOSDNNTS1MdnRQRHhKV2ttN1Ftcko1V0p3Tk5ZMDFiTEZFUlVtQ3YzSFV4ckxRZUNuQS00aFVjYlAwOUE3OFZCUzI1bTF4NA?oc=5",
+   "published_utc": "2026-10-01T06:27:33+00:00",
+   "title_original": "Japan manufacturing growth slows to six-month low in September By Investing.com",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1fd5493701957789"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Japan manufacturing growth slows to six-month low in September",
+   "url": "https://www.investing.com/news/economic-indicators/japan-manufacturing-growth-slows-to-sixmonth-low-in-september-93CH-4926324",
+   "published_utc": "2026-10-01T06:18:39+00:00",
+   "title_original": "Japan manufacturing growth slows to six-month low in September",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a4dd20eeaccac452"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms",
+   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-chipmaker-gains-soft-us-inflation-nikkei-outperforms-4926231",
+   "published_utc": "2026-10-01T06:14:22+00:00",
+   "title_original": "Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms",
+   "region": "japan",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "43c1899f02d7fc08"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -828,24 +880,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fc445d6b083643c6"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms",
-   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-chipmaker-gains-soft-us-inflation-nikkei-outperforms-4926231",
-   "published_utc": "2026-10-01T04:06:35+00:00",
-   "title_original": "Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "43c1899f02d7fc08"
   },
   {
    "source_id": "gn_asia_ft",
@@ -1796,7 +1830,7 @@
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTC1kdUV3dGl5OTE1dHFxT3I3cXF5MFA2cy1kQkQtMVNQUUJIeUJoOVVNRlctZWN0bWhOQVZnbVhEZGdVNEdLUEtYX1VFTkYtQVNmM0k4WlcyQQ?oc=5",
-   "published_utc": "2026-10-01T00:27:20+00:00",
+   "published_utc": "2026-10-01T00:27:00+00:00",
    "title_original": "BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary",
    "region": "japan",
    "topics": [
@@ -4920,7 +4954,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
+   "source_name": "taipeitimes.com",
    "title_en": "Legislative Yuan rejects Control Yuan nominees",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iUHl4WUs4Vng5UVZQYl9uOTJHSEJDZlU2MWJXaF9jdUJxbUhSSTJMXzNKajJBYUxyV0JRN0o1czFRMDdWc3hWUmoyMDlCQVVDRmJUZElSeFhDVjMxaENIWHRxOFhYWm9RbEtGZlNIVE1tUjF1NnloTg?oc=5",
    "published_utc": "2026-09-29T16:00:00+00:00",
@@ -6086,6 +6120,23 @@
    "live_wire": false,
    "manual": false,
    "id": "96e9940ecbe107a4"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Tokyo ranks 2nd globally for housing-bubble risk",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxRDJPbVJlUWFCX2t1VHZ0alJ5X0c3M3NSNmkwczU4OTRRMElaaEpicnpvYUlaTVVfaEIzeVdzTW54WFg2S0hvSlc1TTFkX0YxM3I1aHN2Vnk5dw?oc=5",
+   "published_utc": "2026-09-29T01:33:00+00:00",
+   "title_original": "Tokyo ranks 2nd globally for housing-bubble risk",
+   "region": "japan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2d339fee81eda173"
   },
   {
    "source_id": "gn_kr_mk",
@@ -8010,7 +8061,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "newspim.com",
+   "source_name": "뉴스핌",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -8153,7 +8204,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "biz.heraldcorp.com",
+   "source_name": "헤럴드경제",
    "title_en": "Lee Hyung-il, the Bank of Korea tie wearer, “seeks to harmonize economic and monetary policies”… Shin Hyun-song “Prices and financial stability are the premise”",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Gc1c2MHN5Z2FYYlVpcDdNMzRrSDMtVS1XemNqUjkzVkoyY1VnTHdxdVdGNGZyUGtMRy1DcTBBSFV0SDlnRUZWUkdDQnNoZ0FVOTdyR3p3?oc=5",
    "published_utc": "2026-09-28T02:30:00+00:00",
@@ -8887,7 +8938,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
+   "source_name": "taipeitimes.com",
    "title_en": "Trump-Xi meeting: ‘Anti-China card’ has lost impact: KMT lawmaker",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsQXQ1alJhdWZoRWFVeW05UmJsSHhKV1NRYXBxa1RmLTEzR3lWVk5wcldPZFh1ZU0tTUpuVkZ0TUN4Rl8tbU1wa01EZ05Dd2dRQjZkYWVpUnQ3TWxub2pOdllQeFFkSHpBZE9uVWowLXhsd1hjZS04OXVB?oc=5",
    "published_utc": "2026-09-27T16:00:00+00:00",
@@ -9365,7 +9416,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
+   "source_name": "taipeitimes.com",
    "title_en": "Trump-Xi meeting: Xi’s visit to archives cut short, sources say",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VV3lGYU9xMUxaZGp5dDlQMjN2azJXYjVRSWs5SEh4aFJpMmlQeVRfcGxqSEVFTHRSRHBzVktkbnB5YmR1dHFSczAwTnpJZmJsSDlqSTJUVHVxaFAyVGJkejk0dHRsTFhlZmlId00tS09PbGpOUDlQUWRR?oc=5",
    "published_utc": "2026-09-26T16:00:00+00:00",
@@ -10126,7 +10177,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
+   "source_name": "taipeitimes.com",
    "title_en": "Taiwan trade surplus to hit US$205.4bn on back of AI",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYbWFrTUVkNXBvYldEOHlEZm1lTWJoOF9xS0k4MFNtc0NhRzdoY1gyaUNYRUNLMjU3dHRNNElHVWtnYU5TN1VZQUE2VUI5YXF3bUZ2cTVnM2QxMDgyZi1ERjIyMlM0VUZFbVpYVnQwQXhGTFRHSlJTUQ?oc=5",
    "published_utc": "2026-09-25T16:00:00+00:00",
@@ -10276,6 +10327,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d947bafecb95c188"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Dollar briefly falls below 157 yen after Japan-U.S. financial chief talks",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNkNaaUs1bVFZc3gwY1NlZUV4RllnVV9pVzA3VXFtdTNtcVlta1NGazg4S3J6MGlFVTlIZkNRdGxPN3FtNTUzUTlaa2pEMWZpV1N1a24tY1pZQQ?oc=5",
+   "published_utc": "2026-09-25T13:49:00+00:00",
+   "title_original": "BREAKING NEWS: Dollar briefly falls below 157 yen after Japan-U.S. financial chief talks",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf2ca8fde690801c"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -26576,7 +26644,7 @@
   },
   {
    "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
+   "source_name": "taipeitimes.com",
    "title_en": "Japan eyes defense spending at 3.5% of GDP, sources say",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRUhuRDBpTVBUS0wxbWR2MjE2RDRNalJYdGdlZFVuT1E3NDMzR1hDU0VsSF9WUXRGRktpamhNV18wNTlTcGdHN3V3dHd2QkFUaVA1VmxDVE1QbXJaMTVYd3VVYmUtclc5eVNzUnFhc0F4RXNzU212TA?oc=5",
    "published_utc": "2026-09-16T07:00:00+00:00",
@@ -51917,77 +51985,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e5ecbb7d5fe668ae"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
-   "title_en": "TSMC says Europe chip strategy is shifting from plans to demand creation",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnRQdDlOeG40LXZkRHFEWFBQVFo3SkZFdnVkYi1WNXh6RklWd2l0S1JBYlNTMUpLWWpfelhQTU1oVEpyWDkwWk1rRDUzd0l5ZFpySG1pQzVhTWI5RUlaMnhpT2puVjNlU3BRWTNMRC1QazFOQVhXbG50M0dIT0xPZ09iVU94Qi0wTUFj?oc=5",
-   "published_utc": "2026-09-02T01:32:58+00:00",
-   "title_original": "TSMC says Europe chip strategy is shifting from plans to demand creation",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4c613e7730d54148"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Speech by Board Member TAKATA in Sapporo (Economic Activity, Prices, and Monetary Policy in Japan)",
-   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko260902a.htm",
-   "published_utc": "2026-09-02T01:30:00+00:00",
-   "title_original": "Speech by Board Member TAKATA in Sapporo (Economic Activity, Prices, and Monetary Policy in Japan)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3e87f6080353e801"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "sohu.com",
-   "title_en": "The central bank's reverse repurchase operation net withdrawn 598.5 billion yuan today",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREduR1Q3UE5BTmFQLVRwSXhqbDV6TXlIbzAtNHBFQjNzeTRBVGEwbE1pbzNtQXpnWURHSzd5NVNud3pqZWZTWmowc1RDcWNOcUYybml1cFg0S2d2NGZOTUE0LWIxckdOcFNNdUVidTFXQVk5Q1ZEd2JFWmFsd2VhSmUwSm9lVldO?oc=5",
-   "published_utc": "2026-09-02T01:28:37+00:00",
-   "title_original": "央行逆回购操作今日净回笼5985亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "105b8e3bca425c87"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "``We had a useful discussion.'' Bank of Japan Governor meets with US Treasury Secretary (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50LThZdDJJOHBZN3EwUVJYMS0zaVhPY3BJaDFJZmVjS2ZsQk1SaURIVlVNeTBLa3l4QUR5dDh5NDhZYWVGenJpcFRjVmlYOTJTck1MOGVJYmdDSGp6RXBZeG5NVnZOXzhlWERSQ1dMWlQ3dFlfdWFNcmJjREZzUFE?oc=5",
-   "published_utc": "2026-09-02T01:20:12+00:00",
-   "title_original": "「有益な議論できた」日銀総裁 米財務長官と会談（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "90aa85e254840a0c"
   },
   {
    "source_id": "manual_ia",
