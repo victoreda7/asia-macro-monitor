@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T02:22:46.710567+00:00",
- "collected_at_utc": "2026-10-01T02:22:46.710567+00:00",
+ "generated_at_utc": "2026-10-01T02:32:46.261541+00:00",
+ "collected_at_utc": "2026-10-01T02:32:46.261541+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1288,
+  "japan": 1289,
   "china": 758,
   "taiwan": 257,
-  "korea": 697
+  "korea": 696
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-01T08:23:04+09:00"
+   "newest": "2026-10-01T11:27:54+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-01T10:32:17+09:00"
+   "newest": "2026-10-01T11:31:32+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T02:06:31+00:00"
+   "newest": "2026-10-01T02:09:16+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T01:55:39+00:00"
+   "newest": "2026-10-01T01:49:12+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "What is the NHK public opinion poll? Survey targets and methods",
+   "url": "https://news.web.nhk/newsweb/na/nd-20260930de53459",
+   "published_utc": "2026-10-01T02:27:54+00:00",
+   "title_original": "NHK世論調査とは 調査の対象と方法",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ac83028b80138399"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -396,7 +413,26 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan's short view on the 6th period of continuous improvements in the large enterprise manufacturing industry (ABEMA TIMES)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVlvVkF5SmJZbUR1RmxHQ2c5SGFBODlvNXoyZWdHSnhoamxJcVoyeENWanBTZmdpY29mVnYwOG10TUwzcTZtb285MDhIVWhtaktoaFZFSGdoSFZBaENkZnk2NVhYWDgzZ0FXejVSTDhyTlFxR0w0UTg3bVdsWk1SdGZpNUVOalFJWnZDT0FB?oc=5",
+   "published_utc": "2026-10-01T02:09:16+00:00",
+   "title_original": "日銀短観 大企業製造業6期連続改善（ABEMA TIMES）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "337caf8e4f168932"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Tankan: Large companies and non-manufacturing industries worsen for the first time in five quarters; situation in the Middle East and other unfavorable weather; outlook across the board (TV Asahi (ANN))",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MME5BTGV6SjlGSUdHeWx0Vjl6YXJmRW1SaDJRNzVQYVgxVTdORW5PeTloTFpvMlI2Z3VhdlI0dWNadThRbXlraGZMRmc3WUVvVTR5VHVaeHQwNmhIaGgtM29ISjhJb2RfT3J2TTd3elFZNjZmVTRibF9ZRlBzeVE?oc=5",
    "published_utc": "2026-10-01T02:06:31+00:00",
@@ -412,6 +448,23 @@
    "live_wire": false,
    "manual": false,
    "id": "95f217e859112a87"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan's main opinions were less hawkish than expected (NRI researcher's commentary on current events)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1d3emhTUXpBajVVaDgzTGJBYkpTMld1aGxJWndiNHRhZVBfNHZIcU9UekNwTnlwSnM4YkhjQXM4eVBTTXJmMEtyVjhQWTQ2dFh6U3diRVp1SzVNemVBelhKMVZmMEt1NmxPSmFienI2SHdpbjgtNHJ0TzZWQ3VucE1EeUVGSmRTc3NlTFRn?oc=5",
+   "published_utc": "2026-10-01T02:02:26+00:00",
+   "title_original": "予想よりもタカ派色が強くなかった日銀・主な意見（NRI研究員の時事解説）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "da5b45c39e7782a2"
   },
   {
    "source_id": "gn_kr_mk",
@@ -449,7 +502,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Need to accelerate pace of interest rate hikes; strong economy, wary of upward movement in prices; Bank of Japan September meeting (Jiji Press)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlRXJPSFhldHl6NHlEbHZLMnAwc3o4MTF5YTZna2lJa29sbWcxNzhnaDBNNXhwVkt6N1VBNVE4NU9hSlJuNlREbG12R2RUVlQ4S0k1Ykl4OXZud1ZtZW02RlZZTXFlVVQwMllGZGszaWpSclhvMkVOdFMtZjN2Y1E?oc=5",
    "published_utc": "2026-10-01T01:54:06+00:00",
@@ -674,7 +727,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in prices - Bank of Japan September meeting (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qZ1RIQ2ZIQzNNNXNrTEZVbHhlWjh6OXBieWVCRTFZblhfS2RNXzI5Y215eW8zRktOcVhEQXd0cnJaLUR3OXRfWXB2cWh2VmROcF9haWJTbVVuM2lKcjFDZk0zRW5Ob3diNjZWTVlqNG96WlRSWTNIajA5anJVa3M?oc=5",
    "published_utc": "2026-10-01T00:44:07+00:00",
@@ -812,7 +865,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "[Japanese Market Conditions] Yen falls to 157 yen-lower level following Bank of Japan's ``main opinion'' - bonds cheap (Bloomberg)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rXzM2OTFrNUF4VldMVWxndHpuUkZZa2JDcHB5eE5vdHc5VFZubXZGeWx2d0pHd3NhODU5MkU5R1ktQXFjVFk4S0h3djFQRFFlUjhmZnVwOXFPUE9NbEVCNnNYU2pLd2NtV2hNUU91YWxwZ1lCTmNpR2dHQ1UwSjA?oc=5",
    "published_utc": "2026-10-01T00:30:54+00:00",
@@ -883,7 +936,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTC1kdUV3dGl5OTE1dHFxT3I3cXF5MFA2cy1kQkQtMVNQUUJIeUJoOVVNRlctZWN0bWhOQVZnbVhEZGdVNEdLUEtYX1VFTkYtQVNmM0k4WlcyQQ?oc=5",
    "published_utc": "2026-10-01T00:27:20+00:00",
@@ -987,7 +1040,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Tankan in September improves for 6th consecutive quarter, large companies/manufacturing industry +24 (Mainichi Shimbun)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIVDNVWHlzTUtwSTV0VE8wVDRfUjAtQzFiUGowajhvR0k0SEU2RTBtaV92YXc4bng3Qk9WMWxvNDd4U3hacEV0Uk1fMXh1REdvSWN2bEZ4NnhybUJ1aVJwU2VVUFJrUWZHazBLRUo2dVRCWEFUQkFkMld4UmUtd2s?oc=5",
    "published_utc": "2026-10-01T00:17:32+00:00",
@@ -1023,7 +1076,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "[Breaking News] Bank of Japan Tankan: Large corporate manufacturing industry improves for 6th consecutive quarter, non-manufacturing industry worsens for the first time in 5 quarters, outlook worsens across the board (TV Asahi Network (ANN))",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UV0NOWkdaN0JlUHdtQW9meVI3RGp6Slg4ODZLREkwdG1EZ0M3YnJBQzBUQjRNN2VjbnlIUzkyRVp4WEIwbVdpaHlJNHhqdG9qMFZFbzN0ZlAyWDJleXdxNVVFOTdudEd5cExjWW40V3ZNUHNxdWdTcFVIaWxWTlk?oc=5",
    "published_utc": "2026-10-01T00:14:34+00:00",
@@ -1042,7 +1095,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan September meeting should be managed appropriately to prevent prices from continuing to rise excessively - main opinions (Bloomberg)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oLXMyazBjRFVHTXdDcmxjTDdQRGtlYTFyVDA1SjBIc1d2YU5JeXR5R01qOWQwa1dKa1BGSE9PYTlyakNHcFdDeXBDOXNJdzliVjdSd3JrcVBrNS1kTUFhb0kxVlB3VzBJazBSdVVzZnk2OUZ3WlRSY3I1Mzc0WEU?oc=5",
    "published_utc": "2026-10-01T00:13:48+00:00",
@@ -1259,7 +1312,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Tankan in September: Business confidence in “large companies and manufacturing industries” improves for the sixth consecutive quarter… “Large companies and non-manufacturing industries” worsens (Yomiuri Shimbun Online)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xUHVNTG41WVZDSDZYVklURDNpUFdRSC1acmx5VjJSdnNTMlE2NjBwcEtYMGxEZjBZc0VNMVE0OWVRLW1MWExzYlVnenQtUWpLWUtwZTdWbWdHa1FFQ1RvcUNsYTJUS2QyaXo2TTRNV0M5U2VUMHpJUTRfVW41dkU?oc=5",
    "published_utc": "2026-10-01T00:01:10+00:00",
@@ -1295,7 +1348,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Business confidence of large companies and manufacturing industries improves for 6th consecutive quarter, Bank of Japan Tankan shows tailwind from AI demand (Asahi Shimbun)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oaG9pMDRrRWRkekpjWGVpLW94UllpYnRJZnM0cmFKZnQ5MER5TnVfODV1dG9lNnlWUERsaUFPY201RWZtS3ZQWFJJUkU2RHk3d1hLSFpwdDVNY25iZXViQTdCYXpYeE5ZT1ZhWVdqMlpIWkZyNmhzQVRVN3RLbWs?oc=5",
    "published_utc": "2026-09-30T23:57:01+00:00",
@@ -1694,8 +1747,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -1709,7 +1762,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "75b4c762a9b099d0"
+   "id": "1a1839a5fb285df0"
   },
   {
    "source_id": "nikkei_asia",
@@ -1831,6 +1884,23 @@
    "live_wire": false,
    "manual": false,
    "id": "05f20655cc5a3017"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "bloomberg.com",
+   "title_en": "Brazil Beef Hit With 55% China Tariff After Filling Quota",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFRJajFYUUxyMkRmeGRyMmFSSEw3VE92V2phQWVPaEdKOEU4SFJmOHExeWtzck1HYm1DeFFDWkVMX0dhcnA2NmlidG5ZeWh2a1BJSWZIbVE0Vk1aN3VRTXcxekl1bzBOR29HMnlueDE2OEVwRGFMWTktbnl4S2cyX1lEV0xhd1d5eWJESVMtQmZDUnpEM3J3dS14bE5KTTFHaUwzUnpaRktaaXV1dUEzc28xb0s?oc=5",
+   "published_utc": "2026-09-30T15:04:44+00:00",
+   "title_original": "Brazil Beef Hit With 55% China Tariff After Filling Quota",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba73373138ded0e1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2074,8 +2144,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -2090,7 +2160,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "950b84d1e9e45198"
+   "id": "2711875b41f47be4"
   },
   {
    "source_id": "tradingview_live",
@@ -2110,8 +2180,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -2124,7 +2194,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5af5981dfcf348d4"
+   "id": "c6a7c990cb0818fa"
   },
   {
    "source_id": "nhk_economy",
@@ -2384,7 +2454,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "I don't think there is a big discrepancy in perception between the Bank of Japan and the economy and prices - Minister of Finance and Finance Jouchi (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0MEcyNVU5UTNtcm12NjlIaENMYVhleVhVdjZfakpYeDhYc3NTUWNLOGN1aGg2VEdnVXM3YzJycHpqek9GRE5iWEFkLXNtNVJlcFdFU1kwSVEzUkZTUEJZdHZ0TFE1WDRROGRWX3VyZkYtR0tBUkpOdndTeF9XZ2c?oc=5",
    "published_utc": "2026-09-30T10:01:57+00:00",
@@ -4941,8 +5011,8 @@
    "id": "703f925fda4ee45d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
    "published_utc": "2026-09-29T04:23:30+00:00",
@@ -4957,7 +5027,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "38b4d6c26a1ec51f"
+   "id": "7abfef93833be46e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6986,7 +7056,7 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
+   "source_name": "ft.com",
    "title_en": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFBnYU9HTGlGbC1FM3JwQmxHMmpuUWk4NVpFbFFFbnAzN0l5WG02ZE1qOWxIREtuaHlqN2wwRlduZDd3T292QTYwSTVVaG82bWxnR3FlWGotN2xIakpDRW5uSGpRYjNFX3c5SXNTTU51OGNmN1ViTU1ZYS14N3dKWFFTUXA?oc=5",
    "published_utc": "2026-09-28T04:05:16+00:00",
@@ -9413,7 +9483,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Bessent says desirability of strong yen discussed with Japan's Katayama",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mWEU3b0QxMzJrYUdPNi1oOUdNRFZIUklqNDFkRnlTU1B2NUEyekVkcUgzVURMTzdZek1YUEVuODk4d3NoRjFLSUNLTUtVXzlLTjlQcUlmZFYyQQ?oc=5",
    "published_utc": "2026-09-25T15:20:00+00:00",
@@ -9567,7 +9637,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Japan, U.S. finance chiefs reaffirm undervalued yen is problem: Katayama",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMUc0NnMwVWNyZnVIOWFZMGYtc21HYjVPM0hWbGg1SGoyeDhhSFJpbGp3Z2c2RXBRMFVnWi1JUGFuU2ZqbTFnVG1wbkZTNXF2U1gxaXpMc19Gdw?oc=5",
    "published_utc": "2026-09-25T13:00:00+00:00",
@@ -9618,7 +9688,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "Trump voiced concern about yen weakness in talks with Japan PM: Takaichi",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TmhLNXZ4T1pmNG5fZ3RqbDFsbE5WN2NpNjYzbzF6bGRpU3llR0pFS1ZMYlp2eEtpVjlKTFJKVE1ZM0l4SXRjUXAyMkhETWZURHJwTFluS2Nndw?oc=5",
    "published_utc": "2026-09-25T11:46:02+00:00",
@@ -9791,7 +9861,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Takaichi says she told Trump undervalued yen is problematic in Tues. talks",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLbElHd19ib2I3cE1QcUpBTGZHYWxkTGxadHNUcFpYYkxMWnlYSnRSSkR2dTJwNlJFb2hvaTdrbFdlU3VFZWVxRUJsRUszN0pGdXgzNE10eVdrQQ?oc=5",
    "published_utc": "2026-09-25T09:10:00+00:00",
@@ -11071,7 +11141,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新京报",
+   "source_name": "bjnews.com.cn",
    "title_en": "Big move before the holiday! What signal does the central bank launch an 800 billion yuan MLF operation?",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaeGRuYk5haGpyTTNvMjBkUk1iS2hzUnNnRHRSRXpEc19yc0tNVkJweUtuSVRPU2ZBcEtVYlZIZ0tMY3ZWekw2ZEwwaFI1TTZvay04UWczeElDcnJudUViemxn?oc=5",
    "published_utc": "2026-09-24T08:18:00+00:00",
@@ -13486,7 +13556,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "Japan retailer Aeon launches 1,000 yen jeans amid consumer crunch",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJUjlscWxBbkl5eFBwMEdzNElyaHRoc05aUy1adFA2dGg3M2NOVjRYYlQteFkwUTFSYTE5dU1OYzV4bFJ1OTNBaHUwSXU5WFdGNm55V0xxN0Ztdw?oc=5",
    "published_utc": "2026-09-23T01:20:00+00:00",
@@ -17384,7 +17454,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "Japan to give up to 430 mil. yen in grants for Solomon Islands elections",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42ZjVHRzNrSS02V2J5aTVHS1Jyd2xCZ1oyMjBHcGRSMzRYdF9jRjljMW9EV1phb1pyY3QwcFo5RGRFblpDVU5wSFRYTm5lUWFvV2gya1NrOUtnQQ?oc=5",
    "published_utc": "2026-09-20T07:00:00+00:00",
@@ -18117,7 +18187,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "FOCUS: BOJ quickens interest rate hikes, tightening course remains unclear",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pSGdvTmdBcWhGSWs1bl94QUNxRnpmcW9GbHhTdGU5VUFiYkZXSDh6SF9qQmFnTEM2MkotM1NfMGRTRjI3UDFuNGNWTFNKTnVhMk1XMlB0TklNUQ?oc=5",
    "published_utc": "2026-09-19T07:00:00+00:00",
@@ -18134,7 +18204,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Yen gains vs. dollar amid speculation of BOJ \"rate check\"",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yaXBZY0dmcEtkYXJ6ZnN5M3ZRMzc1WUhmUkZvX0llVy14eTNZc2RjVFNsc21yQWk1NzM0WXZWUVRlaDNNSmtBWGxyMkpYMl9OWXlJMUFuckJRZw?oc=5",
    "published_utc": "2026-09-19T07:00:00+00:00",
@@ -20297,24 +20367,6 @@
    "id": "dfe78368aa5c6456"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmVudElxT21NQUxjV0JCVGlqSVZSaU9tOHRCa2pNdzk5MHJSM3pGX01JYlBHYlhvX204OG1fRnFCTEZZSzFzSEd4aWJhWEV5X2R2MnZXZ2I0QQ?oc=5",
-   "published_utc": "2026-09-18T07:41:00+00:00",
-   "title_original": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6fccd22b421df798"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan raises policy rate to 1.25%, highest level in 31 years Governor Ueda emphasizes policy to continue raising interest rates at press conference",
@@ -20384,7 +20436,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Japan's economy, prices moving almost in line with BOJ's expectations: Ueda",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YOXktak1PWDhZMWYtb2RkSHZVM3laNlhlcWFYbVA3dy1maDd4RkdocDFKcDhmZjNvVXZuTXJnWnNaVE5TMUN4YmItVUIzcVpCdDRvZEZsb1RDZw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -20507,7 +20559,44 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
+   "title_en": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmVudElxT21NQUxjV0JCVGlqSVZSaU9tOHRCa2pNdzk5MHJSM3pGX01JYlBHYlhvX204OG1fRnFCTEZZSzFzSEd4aWJhWEV5X2R2MnZXZ2I0QQ?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6fccd22b421df798"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "english.kyodonews.net",
+   "title_en": "BREAKING NEWS: BOJ's monetary policy not aimed at stabilizing currency moves: Ueda",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0MkczWmw1dVh4c2NCdGp6cU1GcGZSSDNtNVpscndjNU9fZ2hZUTR6UDAtZFhmX0VpY25mR0VDeFpDcFR5ZWdUMnB6Z193T0p5Y3NBTW83Q1ItZw?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: BOJ's monetary policy not aimed at stabilizing currency moves: Ueda",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "83afac64abaabe81"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Higher-than-usual rate hike possible depending on prices: BOJ Ueda",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MNmRlaDJ3QXI5bjNoMzlrLTFreWIwUHMxQXRwQWphZ1VQYmxTa1g4eV8ta1IxdnNjQkV3MlRzak44ZXFBZDZfMG1ZUHV0VnBNcWpNVEs2QkRjUQ?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -20575,7 +20664,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: BOJ to weigh AI, Mideast, currency developments in policy: Ueda",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00ME1LSWYwdExKcWRYaTdQLXRITHl4MTRmd1pZdy16YVA4ZG04NkxVZEd2UnZzR2hOa1VKMlRiZ0szeHdMU00taWEwNWtoSXVuc2FXSTItcWNqdw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -20593,7 +20682,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BOJ lifts rate to 1.25%, flags more as policy enters new phase amid inflation",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aYmEtV0JOUjV4WUlDUG5hcWtmSm05UlBjOFJsX0lReDFhbDMwaW5TVXJWRVdFZU5lNkljckdlamFndlg1LURqRlhWSTVGWmYtUlIwaU9JS3dEZw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -21342,7 +21431,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Accommodative financial conditions to be maintained after rate hike: BOJ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hRnIzVHBPYVpPWjAzNnprMm5YYWJwRXoxblRoYU1nVDVTWXQ1N1dQaGVkdm1QVzZIbnc5Q1RTTHVkREE0ZUF5eldqZV9WSFVrbl9NMnFaWXRGdw?oc=5",
    "published_utc": "2026-09-18T03:33:00+00:00",
@@ -23547,7 +23636,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: PM expresses hope for BOJ to work with gov't, guide policy as appropriate",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CbVhlR091d3ZmWl94U2gzdGdQcHVRSVVIMTdjWkc3cXB6WUJwVzQ2YnBaTTJzaXZHUTJUOE1LZ2tqR1BLNWFnYnFqZTVpeUN1Mi00Sjc2VmI0QQ?oc=5",
    "published_utc": "2026-09-17T07:00:00+00:00",
@@ -23564,7 +23653,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Japan PM vows transparent communication with markets on fiscal policy",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xTnNacHQtRjE0Q1dvYnZST0NqZzlkT0lwczB2YlV6T2gwcDJkZ1FnRml1N0F6Sk1GdnFlc0E2TDFIMEVkdnFDM0hLd2pZRlV6c21BNXNmYmxwZw?oc=5",
    "published_utc": "2026-09-17T07:00:00+00:00",
@@ -29716,7 +29805,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
+   "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: Japan gov't mulls increasing budget for Okinawa development",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jUkVuSXBxcW5tdUJiSVNteWNIR09WUnFFa1NqM3ZTdHFEWFhOdFNkd1BsbFBIUzViV0ZNRndINXU1THMzN0xlOFdhV19tZ0ZQNmpGRVpadHJ4QQ?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -51903,95 +51992,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9b0db9eb38731d7b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GlobeNewswire",
-   "title_en": "Ferroglobe Comments on European Commission's Initiation of Interim Review of Antidumping Measures on Chinese Silicon Metal Imports",
-   "url": "https://www.tradingview.com/news/globenewswire:4d6284092094b:0-ferroglobe-comments-on-european-commission-s-initiation-of-interim-review-of-antidumping-measures-on-chinese-silicon-metal-imports/",
-   "published_utc": "2026-09-01T21:00:00+00:00",
-   "title_original": "Ferroglobe Comments on European Commission's Initiation of Interim Review of Antidumping Measures on Chinese Silicon Metal Imports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9ef3c67914e2f722"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "직썰",
-   "title_en": "Bank of Korea's 'back-to-back interest rate hikes' make the financial sector happy... Banks with booming profits smile, securities and credit cards sigh",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5COG90SEhscGxGZXV4YmthaV93ZXI0Qm9EaTRha3RLVEdRbF9fenU5QTE5OENfVk5jTGF5WHhfWHlRYjJGQWU5UW04ZUJuYktDYzIxOTFjYmVXMDBRRHpmUUNQbVJBeExv0gFsQVVfeXFMTkhzTURpZ0U2dmVQU0N6aHdjRzFfdHNyQ1J5SFFvUy1VVEFlTFFFNnp6SXNjMWRoSm1kd1VRU1pRYmN1X2tCSWgyZGZ2ZGs4MDJOSTVHaEI3SUNXcDRKZ3F6Tm50b3ctMk5uU3Z6?oc=5",
-   "published_utc": "2026-09-01T21:00:00+00:00",
-   "title_original": "한은 ‘백투백 금리 인상’에 금융권 희비…이자익 뛰는 은행 웃고 증권·카드 한숨",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4c29d29cd1d9fca0"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
-   "title_en": "Treasury Secretary Bessent and Bank of Japan Governor Ueda meet; strongly support decisive monetary policy measures to address excessive yen depreciation",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92MjNnLUxlWU5ObWtPcjUyUnRyc1FiR0tlQXVFcGI1b0xtR2MwVk4zSFpFT2xNSVdQZFZEdU9mQWJ5VFozVEFGZGF4Umo4VFh2ZXd0TlRvNEtzYm1TTWh6WXVwbkRWcmxmRHk5OC1idC11enVUaUQzclFXbTFfZVk?oc=5",
-   "published_utc": "2026-09-01T20:55:08+00:00",
-   "title_original": "ベッセント財務長官と日銀・植田総裁が会談 行き過ぎた円安への「断固とした金融政策上の措置を強く支持」",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ebb0eb2e802c6d7b"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "米長官、円安対応措置に強い支持 日銀総裁と会談（共同通信）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yTE9PeC1EZ01oSTBxSHIxdllyelZDa2EwMXBvN2tyVXljWk90aERwTnB3eWFkcTNyalMzQTVhRklaRjgzVWRRblpTYzQ3R21BeWZOcWl3ZmZ1cmFPWUtSOU0tQjYzbDJFNVQyTWFXdW5TNzZqVUxnV0szalBHSGM?oc=5",
-   "published_utc": "2026-09-01T20:46:22+00:00",
-   "title_original": "米長官、円安対応措置に強い支持 日銀総裁と会談（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "41ef71fb8f4e3f7c"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "As bonds sell off, Japan needs the discipline of high interest rates",
-   "url": "https://asia.nikkei.com/spotlight/comment/as-bonds-sell-off-japan-needs-the-discipline-of-high-interest-rates",
-   "published_utc": "2026-09-01T19:31:40.904787+00:00",
-   "title_original": "As bonds sell off, Japan needs the discipline of high interest rates",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b2acbd0ccbb6f92a"
   },
   {
    "source_id": "manual_ia",
