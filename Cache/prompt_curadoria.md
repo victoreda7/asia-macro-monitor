@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T07:22:47.695565+00:00
+Última coleta: 2026-10-01T07:32:45.311602+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1294
   🇨🇳 China          769
-  🇹🇼 Taiwan         254
-  🇰🇷 Coreia do Sul  683
+  🇹🇼 Taiwan         253
+  🇰🇷 Coreia do Sul  684
 
 ## O que já está no feed (não repita)
 
   - [japan] Stock price rises by 2,200 yen Buy orders spread to AI/semiconductor related stocks
+  - [japan] Main opinions from the September meeting of the Bank of Japan: If there are signs of upward movement in prices
   - [japan] Nikkei logs six-week closing high as Micron forecast lifts chip stocks
   - [japan] BOJ Summary Suggests Low Chance of Back-To-Back Rate Hike — Market Talk
   - [japan] Japanese Shares Climb on Chip Rally
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan members announce ``main opinions'' from September meeting on gap in perception of economy and pr
   - [japan] Bank of Japan members publish “main opinions” from September meeting on gap in perception of economy and price
   - [korea] South Korea's Lee appoints new presidential policy chief, economic growth aide
-  - [korea] Even if the won/dollar exchange rate surges, the negative impact on household consumption is limited..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T07:22:47+00:00",
+      "published_utc": "2026-10-01T07:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
