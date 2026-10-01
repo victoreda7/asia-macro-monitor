@@ -7,23 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T06:02:46.250324+00:00
+Última coleta: 2026-10-01T06:12:42.831212+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1293
+  🇯🇵 Japão          1292
   🇨🇳 China          768
-  🇹🇼 Taiwan         256
+  🇹🇼 Taiwan         257
   🇰🇷 Coreia do Sul  683
 
 ## O que já está no feed (não repita)
 
   - [korea] Trump unveils 3 projects under Korea's $200b US investment plan
   - [china] Chinese refiners suspend October fuel exports, one cancels cargoes, sources say
+  - [taiwan] Four glass makers converge on 510x515mm substrate, hinting at TSMC's next move
+  - [japan] Bank of Japan releases main opinions at September meeting, maintains interest rate hike stance, with some poin
   - [japan] Takashi Sasano mentions the ``deterioration of cockroaches'' in the Bank of Japan Tankan News: ``If you listen
   - [korea] Memory shortage deepens, extending boom for Korean chipmakers
   - [japan] Macroscope: Bank of Japan Tankan, support for interest rate hike, October forecast setback slightly (Reuters)
   - [japan] BOJ signals accelerated rate tightening amid persistent inflation risks
-  - [japan] Bank of Japan releases main opinions at September meeting, maintains interest rate hike stance, with some poin
   - [korea] SK hynix says no decision on Solidigm amid IPO concerns
   - [china] Commentary: A $30 Billion Opening Beneath a Still-High U.S. Tariff Wall
   - [japan] Bank of Japan September meeting: Opinions on the need to raise interest rates at a rapid pace one after anothe
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Huawei unveils Mate 90 phones, leans on homegrown chip design to offset US curbs
   - [china] Greer urges G20 to back Trump tariff agenda, takes aim at China
   - [japan] Tokyo Metro aims to ease rush by projecting vehicle congestion on the floor
-  - [japan] [Today's Oha Biz October 1st (Thursday)] Nidek final deficit 564.6 billion yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T06:02:46+00:00",
+      "published_utc": "2026-10-01T06:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
