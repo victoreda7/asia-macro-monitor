@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T04:12:44.558557+00:00
+Última coleta: 2026-10-01T04:22:45.056645+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1289
-  🇨🇳 China          764
+  🇯🇵 Japão          1290
+  🇨🇳 China          765
   🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  689
+  🇰🇷 Coreia do Sul  687
 
 ## O que já está no feed (não repita)
 
+  - [japan] Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session
   - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
   - [japan] Sources of Changes in Current Account Balances and Market Operations (Sept.)
   - [japan] Asian currencies mixed as dollar holds highs, yen slips on BOJ signals
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Oct 8
   - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion — Update
-  - [korea] South Korea stocks slip despite stellar exports as oil worries weigh
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T04:12:44+00:00",
+      "published_utc": "2026-10-01T04:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

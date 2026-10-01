@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T04:12:44.558557+00:00",
- "collected_at_utc": "2026-10-01T04:12:44.558557+00:00",
+ "generated_at_utc": "2026-10-01T04:22:45.056645+00:00",
+ "collected_at_utc": "2026-10-01T04:22:45.056645+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1289,
-  "china": 764,
+  "japan": 1290,
+  "china": 765,
   "taiwan": 258,
-  "korea": 689
+  "korea": 687
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T21:50:27+00:00"
+   "newest": "2026-10-01T04:17:53+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-01T11:35:25+09:00"
+   "newest": "2026-10-01T13:14:07+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-01T02:19:19+00:00"
+   "newest": "2026-10-01T04:14:43+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T04:09:13+00:00"
+   "newest": "2026-10-01T04:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T00:38:00+00:00"
+   "newest": "2026-09-30T21:40:42+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T03:33:10+00:00"
+   "newest": "2026-10-01T04:08:16+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261001de53589",
+   "published_utc": "2026-10-01T04:14:07+00:00",
+   "title_original": "臨時国会 消費税減税法案など21の法案提出予定 政府",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0ccd49f19a26ff25"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -852,7 +870,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "mk.co.kr",
    "title_en": "Korea moves to cut bond issuance as high rates bite",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14QjBPcG5SbjBPb2NINzZkeEJ1Ni1mYVpYMF9SWjdMT0ZubnFuSGxxNDlpMDFTT3Q4Ymd2cm1kYUwzY1JaQWhJUnM0dXZ0RFhuTzBWaw?oc=5",
    "published_utc": "2026-10-01T01:55:39+00:00",
@@ -1933,6 +1951,23 @@
    "id": "1f1606ee4173f2b4"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Can Anything Slow China’s Export Juggernaut?",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1ZURzl5LW1OcWtqTjhDYldQa2pxdl9FeWQ1RkhFd2dwQ3RsUW1ULTlLX3VEV19EZDZkRnc2VERwTUxaaTUyUkxKN3pmQmNUQnhKYlpUVnJ2cDdjTFhKQjN0OHltV1RCUk9acTdkZF9KWFFvQ0VlVllKdFVVUl9memhpclp1MW91VGlqZ3FxRmNoa3JSNGRTT0JNZjNOVkZFYTlvVjNtZVk2ZmhrYWYwYlA0aUZ1SUFL?oc=5",
+   "published_utc": "2026-09-30T21:00:05+00:00",
+   "title_original": "Can Anything Slow China’s Export Juggernaut?",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c2a8dd226072fd6d"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Mail-order giant Askul's new president Narimatsu, who is in his 40s, says that after overcoming ransomware damage, the company is \"more than a retail business\" | Business | Toyo Keizai Online",
@@ -2143,7 +2178,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "강원일보",
+   "source_name": "kwnews.co.kr",
    "title_en": "Household loans continue to increase despite increases in base and loan interest rates",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNFgwSmhySEF2c043UU52SVJESzRyYnFJVjJmbDl4N0VSX3NXUFlHcVdZU0hDY3VjMkNpNzR1eUVEbXpsYWtFMDNQYUNrZWRKOERrX09uTW9mdTQ?oc=5",
    "published_utc": "2026-09-30T15:00:00+00:00",
@@ -2471,7 +2506,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "jiemian.com",
+   "source_name": "Jiemian.com",
    "title_en": "The central bank takes action! 1.2 trillion buyout reverse repurchase is coming",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nNHhLdEFRRHdfdWRiWGxBZHR3WFhhZmxqaVl2NkM3TFFHT2F4WkVuRnJtcEIyeVA2OTBTUEN6NER5WkN0RFNXc1FsSy1xY05YZ3FoTzlVcjQ?oc=5",
    "published_utc": "2026-09-30T11:16:59+00:00",
@@ -2992,7 +3027,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "mk.co.kr",
    "title_en": "While Samsung Electronics and SK Hynix are completing large-scale treasury stock purchases, other li..",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GODltejlGYS1iZ01BTjNuQWRKUzVVVm1HU1FCVTJRVXlWUWlWWWw0R05qeWdRRTA2ZkFFbV9TWjA3Si1wTzlsOHo5MUQ4WW8?oc=5",
    "published_utc": "2026-09-30T08:38:54+00:00",
@@ -3353,7 +3388,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "guandian.cn",
+   "source_name": "观点网",
    "title_en": "Standard Chartered does not rule out the possibility of central bank cutting RRR",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RVXJ3UHFEa21BR3hEVFhaSnptYVNDdGpWMjBoYlhrbC11R2VrRTFjenNXY3Y0bDFrRVVEUlRELUJXN0JzWDA2eFF5UG9XZw?oc=5",
    "published_utc": "2026-09-30T03:56:15+00:00",
@@ -6322,7 +6357,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "China Signals Economic Stimulus to Counter Worsening Slowdown",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjl0SVVLdWt2S2drT1d4SEhVYTJRcV84R2RiRV9hYXM1cUNiTlhERVVwaWRtUGFhVjlCZnJMOTFjSWVEVlZ6cElqbkZTdFNtUGh1X0hkSXhOS2Y4NG9SbGNDanVUbm5zTUhCY1NNX0cyQUFYcGx2SmViOGZ6TVFtWWxzYTN6ZzczaTZRS3FtMENPQWJBYVh2RXRPODhuWnhZeWllNkxpTXU5VGoxb1RqWVBn?oc=5",
    "published_utc": "2026-09-28T13:00:41+00:00",
@@ -6998,7 +7033,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "alphabiz.co.kr",
+   "source_name": "알파경제",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Strengthening economic and monetary policy cooperation",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoT3FZNTZrNGNiZ0N5SWZnNzhMVTM2MEJqX1luZzllbUt0SjhJWFlCUmpTNG50SEpycXJCX1VZS05ESkNJTGVCUjdyNmwxT2dYYTF5bUxZaEdJTXFlcDFJR2c4R1FjTTdkTzVDRnd3?oc=5",
    "published_utc": "2026-09-28T06:38:11+00:00",
@@ -7329,7 +7364,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
+   "source_name": "21jingji.com",
    "title_en": "RMB 661 billion was invested in overnight reverse repurchases in a single day, and the central bank provided clear signals of cross-season and cross-holiday protection.",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkJoUzN4VncwclpOZ2xOendGT0dkcTBhSVVmbC1veTlhTFNJZGdLZ1I0Ym1NRU9FUDR5eEpXNUdjbHgzLUpRblE4bWNoYTc4c2RWVTVFTnV0MlY1Q0dreXp4ekwtLWlld0tHRWEtdjhoZmp3SHJuNy13ZzFPRmZCRkc2QjZXeDc0VTN2ZGZxWQ?oc=5",
    "published_utc": "2026-09-28T03:55:20+00:00",
@@ -7574,7 +7609,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "financialpost.co.kr",
+   "source_name": "파이낸셜포스트",
    "title_en": "First meeting between Deputy Prime Minister Lee Hyung-il and Governor Shin Hyun-song... \"Strengthening economic and monetary policy communication\"",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pbmx6ZHpRTWRFZjFaTnVMbTNHbjI3NVpXcmZUMGNNaFBTR1hUa1pPelBoYU9ZQU13WFFOWmlEZFVLalNoWjVpR0N1NHJ5VFIzSVFVbTdkODAxRTFyRTNSOFI1NXkzTGljTjdRZWFlYmNWQUFC?oc=5",
    "published_utc": "2026-09-28T02:43:05+00:00",
@@ -7664,7 +7699,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "biz.heraldcorp.com",
+   "source_name": "헤럴드경제",
    "title_en": "Lee Hyung-il, the Bank of Korea tie wearer, “seeks to harmonize economic and monetary policies”… Shin Hyun-song “Prices and financial stability are the premise”",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Gc1c2MHN5Z2FYYlVpcDdNMzRrSDMtVS1XemNqUjkzVkoyY1VnTHdxdVdGNGZyUGtMRy1DcTBBSFV0SDlnRUZWUkdDQnNoZ0FVOTdyR3p3?oc=5",
    "published_utc": "2026-09-28T02:30:00+00:00",
@@ -8295,7 +8330,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "ziksir.com",
+   "source_name": "직썰",
    "title_en": "The Bank of Korea's monetary policy is distorted by the rise in U.S. interest rates... Three major variables for the October Monetary Policy Committee decision",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRcXA4TnBNTU1FUDNZNXh6SzlsOERzc2RhNGluelNPTFJ2dkMtQnE0STNUX0NhWjVrTmxaMElNQ1BaLURZeHJJQVptSkdLbXZXT01ZS0lmRW1RV0NZUWtPQjVhRXZqZlVa0gFsQVVfeXFMT0gxbXQ1aWtvRkNMUzkxTENJT2JUeUpRV2lFWmkzdTE3UjFfQWY1UUJlOFVqYlZMMlI3cFU1akpzaEVDTkRxd0VsemZJN2ktWDRfbHowVFFjclA2OXRDSVJsUTI3WEs2SEhxQ3ph?oc=5",
    "published_utc": "2026-09-27T21:00:00+00:00",
@@ -11450,7 +11485,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "guandian.cn",
+   "source_name": "观点网",
    "title_en": "The central bank will carry out overnight reverse repurchase on September 28, with a daily upper limit of 1 trillion yuan",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WSmRMRUlZUGhqM3RFYnRzRTgtUURKWVdhRkxrMXY4aWVEeTJlWkZuSGJ2YW1lZTduOVZPbjFkLWQzeXhVTDdyS0x5SkxLdw?oc=5",
    "published_utc": "2026-09-24T07:51:52+00:00",
@@ -51950,40 +51985,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b59d094c48926386"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea inflation quickens on one-off factor, misses expectations",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44T16B:0-south-korea-inflation-quickens-on-one-off-factor-misses-expectations/",
-   "published_utc": "2026-09-01T23:32:38+00:00",
-   "title_original": "South Korea inflation quickens on one-off factor, misses expectations",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dad0e2d3f72e068e"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스프리존",
-   "title_en": "Base interest rate 3.25% ↑ 'Within the year vs next year'... Conflicting views of the Bank of Korea on speed control |",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kS0RVN3BfM3ROS3YtajlPNHNtQWhyQUk2ejhYaW4tNUNnZ1hNN3c4bENkMWNEVnpaWFNaejJsTzd6SkVzQmlObDJJTDI5OGh0SXNUUG10OHBrb2kwQnc5OW91c2o5djBuR29qODZqV2xCWlRTN2sw?oc=5",
-   "published_utc": "2026-09-01T23:22:38+00:00",
-   "title_original": "기준금리 3.25%↑ '연내 vs 내년'···엇갈린 한은 속도조절론 |",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dd6db06cb2e7d95e"
   },
   {
    "source_id": "manual_ia",
