@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T02:02:46.094534+00:00
+Última coleta: 2026-10-01T02:12:45.242991+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1288
-  🇨🇳 China          760
-  🇹🇼 Taiwan         256
+  🇨🇳 China          759
+  🇹🇼 Taiwan         257
   🇰🇷 Coreia do Sul  696
 
 ## O que já está no feed (não repita)
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion — Update
   - [korea] South Korea stocks slip despite stellar exports as oil worries weigh
   - [japan] Japan MOF To Auction Y3.0T Of TD-Bills Oct 8
+  - [taiwan] AI chip packaging demand meets labor pushback: ASE's NT$5.6B Taiwan snack factory deal sparks strike vote
   - [japan] Japan Manufacturing Sector Ebbs In September - S&P Global
   - [korea] SK Hynix trapped in no-trade zone at ₩1,778,000: Live levels
   - [japan] Bank of Japan summary affirms priority is avoiding inflation overshoot
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BoJ Tankan: Large Manufacturing Index Improves In Q3
   - [japan] BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT’S LARGER-THAN-EXPECTED RISE DRIVEN BY AUTOS, NON-FERROUS METALS
   - [taiwan] Lip-Bu Tan calls TSMC a partner rather than a rival
-  - [korea] South Korea Exports Hit Fresh Record High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T02:02:46+00:00",
+      "published_utc": "2026-10-01T02:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

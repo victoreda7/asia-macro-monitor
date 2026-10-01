@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-01T02:02:46.094534+00:00",
- "collected_at_utc": "2026-10-01T02:02:46.094534+00:00",
+ "generated_at_utc": "2026-10-01T02:12:45.242991+00:00",
+ "collected_at_utc": "2026-10-01T02:12:45.242991+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1288,
-  "china": 760,
-  "taiwan": 256,
+  "china": 759,
+  "taiwan": 257,
   "korea": 696
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 29.6,
  "sources": [
-  {
-   "source_id": "gn_kr_herald",
-   "name": "Korea Herald",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -35,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T17:19:53+00:00"
+   "newest": "2026-09-30T23:00:07+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T00:11:53+00:00"
+   "newest": "2026-10-01T01:56:01+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -123,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T01:33:01+00:00"
+   "newest": "2026-10-01T02:01:46+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -134,12 +126,20 @@
    "newest": "2026-09-30T17:40:00+09:00"
   },
   {
+   "source_id": "gn_kr_herald",
+   "name": "Korea Herald",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-09-30T21:07:56+00:00"
+  },
+  {
    "source_id": "korea_herald_biz",
    "name": "Korea Herald Business",
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-01T10:59:11+00:00"
+   "newest": "2026-10-01T11:09:48+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T01:54:06+00:00"
+   "newest": "2026-10-01T02:01:36+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-01T10:30:00+09:00"
+   "newest": "2026-10-01T11:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -498,6 +498,23 @@
    "live_wire": true,
    "manual": false,
    "id": "26b9437bbadbdc06"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes.com",
+   "title_en": "AI chip packaging demand meets labor pushback: ASE's NT$5.6B Taiwan snack factory deal sparks strike vote",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSTAzNzdvbnBWV0RGOHQ0WjJxb3hOS2xDU2lJZHo4VFhUUlBTM3ROQ2xzRjNnMnNxeC1vczVVUkJqXzhvYWIwUHVvTVpnX2M0VVZjVHpzR3Ftek5KQnJKeFo3TUJOM3ROMDFnWVd5Ym9iMDhGXzItY2M0Z00zNDd5LWZoUnpTdnFxMUZ4UUxlREpkdw?oc=5",
+   "published_utc": "2026-10-01T01:15:15+00:00",
+   "title_original": "AI chip packaging demand meets labor pushback: ASE's NT$5.6B Taiwan snack factory deal sparks strike vote",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e792bb81e0f782e7"
   },
   {
    "source_id": "tradingview_live",
@@ -1641,8 +1658,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -1656,7 +1673,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a1839a5fb285df0"
+   "id": "75b4c762a9b099d0"
   },
   {
    "source_id": "nikkei_asia",
@@ -2021,8 +2038,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -2037,7 +2054,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2711875b41f47be4"
+   "id": "950b84d1e9e45198"
   },
   {
    "source_id": "tradingview_live",
@@ -2057,8 +2074,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -2071,7 +2088,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c6a7c990cb0818fa"
+   "id": "5af5981dfcf348d4"
   },
   {
    "source_id": "nhk_economy",
@@ -4888,8 +4905,8 @@
    "id": "703f925fda4ee45d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided to spend 111.8 billion yen from contingency funds to prepare for food consumption tax reduction, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
    "published_utc": "2026-09-29T04:23:30+00:00",
@@ -4904,7 +4921,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7abfef93833be46e"
+   "id": "38b4d6c26a1ec51f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51974,23 +51991,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c9775b83e23118af"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mint",
-   "title_en": "India eyes plastic notes: How govt plans to keep polymer currency secure from China, Pakistan influence",
-   "url": "https://www.tradingview.com/news/moodys:591a938ad6fae:0-india-eyes-plastic-notes-how-govt-plans-to-keep-polymer-currency-secure-from-china-pakistan-influence/",
-   "published_utc": "2026-09-01T19:04:50+00:00",
-   "title_original": "India eyes plastic notes: How govt plans to keep polymer currency secure from China, Pakistan influence",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d2699717ccc795fb"
   },
   {
    "source_id": "manual_ia",
