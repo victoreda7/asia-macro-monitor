@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T06:52:45.971671+00:00
+Última coleta: 2026-10-01T07:02:44.566894+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1291
@@ -33,11 +33,11 @@ Total: 3000 manchetes
   - [korea] Trump unveils 3 projects under Korea's $200b US investment plan
   - [china] Chinese refiners suspend October fuel exports, one cancels cargoes, sources say
   - [taiwan] Four glass makers converge on 510x515mm substrate, hinting at TSMC's next move
-  - [japan] Bank of Japan releases main opinions at September meeting, maintains interest rate hike stance, with some poin
   - [japan] Takashi Sasano mentions the ``deterioration of cockroaches'' in the Bank of Japan Tankan News: ``If you listen
   - [korea] Memory shortage deepens, extending boom for Korean chipmakers
   - [japan] Macroscope: Bank of Japan Tankan, support for interest rate hike, October forecast setback slightly (Reuters)
   - [japan] BOJ signals accelerated rate tightening amid persistent inflation risks
+  - [japan] Bank of Japan releases main opinions at September meeting, maintains interest rate hike stance, with some poin
   - [korea] SK hynix says no decision on Solidigm amid IPO concerns
   - [china] Commentary: A $30 Billion Opening Beneath a Still-High U.S. Tariff Wall
   - [japan] Bank of Japan September meeting: Opinions on the need to raise interest rates at a rapid pace one after anothe
@@ -55,8 +55,8 @@ Total: 3000 manchetes
   - [japan] Japanese chipmakers rally as Micron earnings boost AI trade
   - [china] China Eyes More Targeted Fiscal Support After Growth Slowdown
   - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
+  - [japan] Asian currencies mixed as dollar holds highs, yen slips on BOJ signals
   - [china] EU steel exports hit by high energy costs, tariffs and China oversupply
-  - [japan] Sources of Changes in Current Account Balances and Market Operations (Sept.)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T06:52:46+00:00",
+      "published_utc": "2026-10-01T07:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
