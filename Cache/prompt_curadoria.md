@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T08:02:45.323132+00:00
+Última coleta: 2026-10-01T08:12:45.522387+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1293
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan PM vows to underpin yen by boosting economic competitiveness
   - [china] ZAWYA: Why East African banks are joining yuan payment system ?
   - [korea] ZAWYA: How Kenya won back Rwanda’s oil cargo imports ?
   - [japan] Japan PM says govermentt steps will strengthen market confidence in yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese refiners suspend Oct fuel exports, PetroChina cancels cargoes, sources say
   - [japan] Japan inflation wave lifts prices on 3,000 food and drink items
   - [japan] The market is once again aware of the risk of being on the defensive, with the Bank of Japan's main opinion in
-  - [japan] At the Bank of Japan's meeting in September, when it decided to raise interest rates for the first time in thr
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T08:02:45+00:00",
+      "published_utc": "2026-10-01T08:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
