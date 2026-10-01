@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T02:12:45.242991+00:00
+Última coleta: 2026-10-01T02:22:46.710567+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1288
-  🇨🇳 China          759
+  🇨🇳 China          758
   🇹🇼 Taiwan         257
-  🇰🇷 Coreia do Sul  696
+  🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
+  - [korea] Lotte expands financial, export support for partners
+  - [japan] Japan's Nikkei hits six-week high as Micron forecast lifts chip stocks
+  - [korea] South Korean won, Thai baht lead losses across Asian currencies
+  - [japan] Bank of Japan Tankan: Large companies and non-manufacturing industries worsen for the first time in five quart
   - [korea] Korea moves to cut bond issuance as high rates bite
+  - [japan] Japan business mood reaches 8-year high, bolsters case for BOJ hikes
   - [japan] Need to accelerate pace of interest rate hikes; strong economy, wary of upward movement in prices; Bank of Jap
   - [japan] BOJ Summary Points to Growing Risk of Inflation Overshooting Target
   - [taiwan] TSMC weighs investment in Texas to expand U.S. chip production, Reuters reports
@@ -48,15 +53,10 @@ Total: 3000 manchetes
   - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion
   - [korea] South Korea's monthly exports top $120 billion for the first time on record chip sales
   - [korea] South Korea September exports rise 83.5% y/y to monthly record
-  - [japan] Japan business mood improves, tankan survey shows
   - [japan] BOJ debated need for more rate hikes at September meeting, summary shows
   - [japan] Bank of Japan Tankan in September improves for 6th consecutive quarter, large companies/manufacturing industry
   - [korea] South Korea exports surge past expectations in Sept, trade surplus grows
   - [japan] [Breaking News] Bank of Japan Tankan: Large corporate manufacturing industry improves for 6th consecutive quar
-  - [japan] Bank of Japan September meeting should be managed appropriately to prevent prices from continuing to rise exce
-  - [japan] BoJ Tankan: Large Manufacturing Index Improves In Q3
-  - [japan] BOJ SEPT TANKAN SMALLER MANUFACTURER SENTIMENT’S LARGER-THAN-EXPECTED RISE DRIVEN BY AUTOS, NON-FERROUS METALS
-  - [taiwan] Lip-Bu Tan calls TSMC a partner rather than a rival
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T02:12:45+00:00",
+      "published_utc": "2026-10-01T02:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

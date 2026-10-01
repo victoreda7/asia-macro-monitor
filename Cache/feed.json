@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T02:12:45.242991+00:00",
- "collected_at_utc": "2026-10-01T02:12:45.242991+00:00",
+ "generated_at_utc": "2026-10-01T02:22:46.710567+00:00",
+ "collected_at_utc": "2026-10-01T02:22:46.710567+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1288,
-  "china": 759,
+  "china": 758,
   "taiwan": 257,
-  "korea": 696
+  "korea": 697
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T01:46:47+00:00"
+   "newest": "2026-10-01T02:06:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T01:13:07+00:00"
+   "newest": "2026-10-01T02:00:33+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-01T11:09:48+00:00"
+   "newest": "2026-10-01T11:17:18+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-01T01:44:09+00:00"
+   "newest": "2026-10-01T02:19:19+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T02:01:09+00:00"
+   "newest": "2026-10-01T02:22:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T02:01:36+00:00"
+   "newest": "2026-10-01T02:06:31+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,76 @@
  ],
  "items": [
   {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Lotte expands financial, export support for partners",
+   "url": "https://www.koreaherald.com/article/10890268",
+   "published_utc": "2026-10-01T02:22:45.527701+00:00",
+   "title_original": "Lotte expands financial, export support for partners",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "554b60bef9333a48"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's Nikkei hits six-week high as Micron forecast lifts chip stocks",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45M1FA:0-japan-s-nikkei-hits-six-week-high-as-micron-forecast-lifts-chip-stocks/",
+   "published_utc": "2026-10-01T02:14:04+00:00",
+   "title_original": "Japan's Nikkei hits six-week high as Micron forecast lifts chip stocks",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "47f1236461c4c123"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean won, Thai baht lead losses across Asian currencies",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45N03U:0-south-korean-won-thai-baht-lead-losses-across-asian-currencies/",
+   "published_utc": "2026-10-01T02:14:01+00:00",
+   "title_original": "South Korean won, Thai baht lead losses across Asian currencies",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "86952e324d089706"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "news.yahoo.co.jp",
+   "title_en": "Bank of Japan Tankan: Large companies and non-manufacturing industries worsen for the first time in five quarters; situation in the Middle East and other unfavorable weather; outlook across the board (TV Asahi (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MME5BTGV6SjlGSUdHeWx0Vjl6YXJmRW1SaDJRNzVQYVgxVTdORW5PeTloTFpvMlI2Z3VhdlI0dWNadThRbXlraGZMRmc3WUVvVTR5VHVaeHQwNmhIaGgtM29ISjhJb2RfT3J2TTd3elFZNjZmVTRibF9ZRlBzeVE?oc=5",
+   "published_utc": "2026-10-01T02:06:31+00:00",
+   "title_original": "日銀短観 大企業・非製造業が5期ぶり悪化 中東情勢ほか天候不良 先行き軒並み（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "95f217e859112a87"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Korea moves to cut bond issuance as high rates bite",
@@ -359,6 +429,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3226f022c499edff"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan business mood reaches 8-year high, bolsters case for BOJ hikes",
+   "url": "https://www.investing.com/news/economy-news/japan-business-mood-improves-tankan-survey-shows-4926127",
+   "published_utc": "2026-10-01T01:54:49+00:00",
+   "title_original": "Japan business mood reaches 8-year high, bolsters case for BOJ hikes",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b03596461e2646b3"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -884,23 +971,6 @@
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
-   "title_en": "Japan business mood improves, tankan survey shows",
-   "url": "https://www.investing.com/news/economy-news/japan-business-mood-improves-tankan-survey-shows-4926127",
-   "published_utc": "2026-10-01T00:18:49+00:00",
-   "title_original": "Japan business mood improves, tankan survey shows",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e7692bf114ca7f4a"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
    "title_en": "BOJ debated need for more rate hikes at September meeting, summary shows",
    "url": "https://www.investing.com/news/economy-news/boj-debated-need-for-more-rate-hikes-at-september-meeting-summary-shows-4926126",
    "published_utc": "2026-10-01T00:18:30+00:00",
@@ -1133,23 +1203,6 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan business mood reaches 8-year high, bolsters case for BOJ hikes",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45M061:0-japan-business-mood-reaches-8-year-high-bolsters-case-for-boj-hikes/",
-   "published_utc": "2026-10-01T00:09:33+00:00",
-   "title_original": "Japan business mood reaches 8-year high, bolsters case for BOJ hikes",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "904d86e939e86585"
-  },
-  {
-   "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "MNI BOJ SEPT TANKAN LARGE MFG DI 24; JUNE 22; MEDIAN 26",
    "url": "https://www.tradingview.com/news/dpa_afx:65149455a04fa:0-mni-boj-sept-tankan-large-mfg-di-24-june-22-median-26/",
@@ -1165,23 +1218,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c3fec502f14368e2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Posts Record Trade Surplus",
-   "url": "https://www.tradingview.com/news/te_news:588398:0-south-korea-posts-record-trade-surplus/",
-   "published_utc": "2026-10-01T00:07:39+00:00",
-   "title_original": "South Korea Posts Record Trade Surplus",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8cd89a930960060b"
   },
   {
    "source_id": "nikkei_asia",
@@ -1781,7 +1817,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "Brazil Beef Hit With 55% China Tariff After Filling Export Quota",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFRJajFYUUxyMkRmeGRyMmFSSEw3VE92V2phQWVPaEdKOEU4SFJmOHExeWtzck1HYm1DeFFDWkVMX0dhcnA2NmlidG5ZeWh2a1BJSWZIbVE0Vk1aN3VRTXcxekl1bzBOR29HMnlueDE2OEVwRGFMWTktbnl4S2cyX1lEV0xhd1d5eWJESVMtQmZDUnpEM3J3dS14bE5KTTFHaUwzUnpaRktaaXV1dUEzc28xb0s?oc=5",
    "published_utc": "2026-09-30T15:04:44+00:00",
@@ -2802,7 +2838,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHJwbTJwSzgzVDFaelEyck14dlFhNkF3MXpoQUJ3VEhlcXZ2bXBvMUw1ajdBSV9kQzVNNGY4WEc0TGUxRWVFNDBsSk5DYVdELUdNa2tETERRTW5XanR3WGQ1b0kwQVBzQTRIZUNzcDkxN3Vsdlc5d2xDSDVySlFWTE5CR2pObUZYX0N3MkxoNzhDS0VaWHZJc1ZvejRTZDQzY3AzMURmX3VhVEZ4bnNtYQ?oc=5",
    "published_utc": "2026-09-30T06:51:00+00:00",
@@ -2837,7 +2873,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQm1qaVhoWHdfY0duY25QYkp2SE1qZWFRWUVQMU92N1h2ZmVjbDFWTGgzQm5oQS10QWtTb0tSSmc4b2ttX3RGWDlaTmZuNzh5Nm8zOXdCZms1Y0RkMTJjcmxvNlNpaDFyaW9OVk41QVRuNFJSTXJXVlRGdTBrbVJCY3NfSnVzcTFYNUhBUmt5U2tnX1FHa0h2cWN6emdvM2kyQjlXcC1NNmVxQ0haQjFuTg?oc=5",
    "published_utc": "2026-09-30T06:17:00+00:00",
@@ -2923,7 +2959,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "China Repo Push Advances as Legal Issues, Low Yields Drag",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0JNOXlBc1ZlQmxHSG1VbjRWQUxrazU3dWVCRjlpd2NmUFBEYjVDc3I3cXRtdHhZTmlVenZwc2tBM2dMdnQ2NlRDNFRyODlSeTNvQTQweFM4N2xnZmtBQXY4cGZ0S09lbndWdWF2ZU9mTHEwblR1cThKSzc4SWszczZvT1N0cFN1a3JNeWpyazIzMFVBLXJpRjZrbUs4cTFDTWVxTVlGZnV3RXd0Z3cyNjUtcw?oc=5",
    "published_utc": "2026-09-30T05:39:00+00:00",
@@ -3127,7 +3163,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEV0aXVjTlZwRmtzSVZoMVRwM2xHa0x6ZU01TFdibDZWYkFEbERvczBTZHBPWGpTZ3gwVk1JMUE3dl9MWWluZ3NvOG9LWlViQkpLWHh5WGw5RnZTSTVINDRyLWpkYnY4eTVRT2lmU3BhVDlzWnhzY3Rjd2lGUnFTOW5nRGdTYXNCQW1KTlU3akpNTjZhOHNtLXFPd0RWYXJmOExoY1U3T1liRHk1TFd5TkZFZFU?oc=5",
    "published_utc": "2026-09-30T02:37:19+00:00",
@@ -3144,7 +3180,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "China Warns Broad EU Tariffs Could Disrupt Trade Negotiations",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWVwQVJDNndsTlFOelI3WV95T2tIQW9TeGluYkhFTHFmdncxanZDUW5XdmYzODBLTjhPUDQ3MEdIdktVVTlHaHdGZnVMSmxaMzE0Q2lqbDEydU4zMWg0VWhXYnlyMVc3X3ppdEJBOHFrSS1GZ2M0UjNJQW0tWmhxSWtUVTM1cDg2WTB3ekhzYW0tTUZHT1RZNkUyYlAycVRTM2hPb1pvR21fYktGMjFfcG5R?oc=5",
    "published_utc": "2026-09-30T02:26:00+00:00",
@@ -3402,7 +3438,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "South Korea Tax Revenue to Hit Fresh Record on Global Chip Boom",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEpTWTFYV25uU1Jsc1c3aS1IZFpXODVWV2ZWUVRGbWhGbXhNMDdLSVdCTWEwaEVSU0NVR3VyU1hmMWlYSnJwV0wza1lYN2VRT2kyRXVwSzlNMXdoVDZVZlBtNzhQY0JHQTRzQkRaLTc0NW1yUzBjRTdXUmhQTDJVM1VIUXpCRUZ5OGxyTExEbndlUlF6SGt6YkR2ckF0UnJHTm9hMXlKaVc0eUZnU0lURFhoUGg?oc=5",
    "published_utc": "2026-09-30T00:00:00+00:00",
@@ -5960,7 +5996,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "China Signals Economic Stimulus to Counter Worsening Slowdown",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjl0SVVLdWt2S2drT1d4SEhVYTJRcV84R2RiRV9hYXM1cUNiTlhERVVwaWRtUGFhVjlCZnJMOTFjSWVEVlZ6cElqbkZTdFNtUGh1X0hkSXhOS2Y4NG9SbGNDanVUbm5zTUhCY1NNX0cyQUFYcGx2SmViOGZ6TVFtWWxzYTN6ZzczaTZRS3FtMENPQWJBYVh2RXRPODhuWnhZeWllNkxpTXU5VGoxb1RqWVBn?oc=5",
    "published_utc": "2026-09-28T13:00:41+00:00",
@@ -6048,7 +6084,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "US, China Release Product Lists for $30 Billion Tariff Deal",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejAwODBlZm1pdk5leVFwbHA2cnRWRkZXT2R2ejVDNjhtV01qb3ZFQ0hoMW9pWTVHN3dqOXBramZyY0RDdDJkMEQyUGRaVHh5QUFnak1SQ0c4dkp6aE5QYjdEd25ZMXFheXhRcmVXLXZJV1ZLNmk1MndtZ3FaNmNPcDNXSkxkV1Rvb2x6MmZBWVBvOV9rTmZMS0ljRENGWGY3d0ZFbFpTajZGVW1PZGdz?oc=5",
    "published_utc": "2026-09-28T11:33:29+00:00",
@@ -8497,7 +8533,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "Here’s a Comparison of US, China Readouts on Trump-Xi Summit",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTRRVVViYnJIa1VxRFNtZnlYN0R4V1M0aUVaTlJWbUJ2WmpBTDAxQ2ZjdnpRNVI0Z0Z4eW9FNHRnZzRJQjVXekRFNEYxREFXQlJGalQyUVFOb1lEck1FTktwRG1pWW9FdHlnNkd1WnN3Y1RFMXZScldyQUFzekRUSmdmdG5rT2ZKVEZMRzU0VklRX0xGaFhvdTg2ODdZcHAwQlg1cFV0SXhxbnEyeU13?oc=5",
    "published_utc": "2026-09-26T16:03:59+00:00",
@@ -51956,41 +51992,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2acbd0ccbb6f92a"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Trump administration urges G20 to protect against Chinese imports",
-   "url": "https://www.investing.com/news/economy-news/trump-administration-urges-g20-to-protect-against-chinese-imports-93CH-4884506",
-   "published_utc": "2026-09-01T19:21:37+00:00",
-   "title_original": "Trump administration urges G20 to protect against Chinese imports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a0196d29fc465130"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Bessent urges BOJ to maintain sound policy, avoid yen volatility",
-   "url": "https://www.investing.com/news/forex-news/bessent-urges-boj-to-maintain-sound-policy-avoid-yen-volatility-93CH-4884500",
-   "published_utc": "2026-09-01T19:16:17+00:00",
-   "title_original": "Bessent urges BOJ to maintain sound policy, avoid yen volatility",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c9775b83e23118af"
   },
   {
    "source_id": "manual_ia",
