@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T09:32:45.971682+00:00
+Última coleta: 2026-10-01T09:42:45.740451+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1291
-  🇨🇳 China          772
+  🇨🇳 China          773
   🇹🇼 Taiwan         253
-  🇰🇷 Coreia do Sul  684
+  🇰🇷 Coreia do Sul  683
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nikkei closes at highest level in six weeks; Micron predictions boost semiconductor stocks
+  - [japan] Main opinions expressed at the Bank of Japan's September meeting: ``I will refrain from commenting beyond publ
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
   - [japan] Bank of Japan releases “main opinions” from September meeting, also points out the possibility of accelerating
   - [korea] Bank of Korea plans gold purchase from domestic producers in December
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese refiners suspend October fuel exports, one cancels cargoes, sources say
   - [taiwan] Four glass makers converge on 510x515mm substrate, hinting at TSMC's next move
   - [japan] Bank of Japan releases main opinions at September meeting, maintains interest rate hike stance, with some poin
-  - [japan] Takashi Sasano mentions the ``deterioration of cockroaches'' in the Bank of Japan Tankan News: ``If you listen
-  - [korea] Memory shortage deepens, extending boom for Korean chipmakers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T09:32:46+00:00",
+      "published_utc": "2026-10-01T09:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
