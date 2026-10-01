@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T01:12:42.967890+00:00
+Última coleta: 2026-10-01T01:22:44.359899+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1288
@@ -17,19 +17,23 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea stocks slip despite stellar exports as oil worries weigh
+  - [japan] Japan MOF To Auction Y3.0T Of TD-Bills Oct 8
   - [japan] Japan Manufacturing Sector Ebbs In September - S&P Global
+  - [korea] SK Hynix trapped in no-trade zone at ₩1,778,000: Live levels
   - [japan] Bank of Japan summary affirms priority is avoiding inflation overshoot
   - [taiwan] Key facts: TSMC (2330) $265B U.S. investment; $60–$64B capex outlook; Q3 results Oct. 15
   - [japan] Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in pri
   - [taiwan] Taiwan Manufacturing Expands Most Since 2021
   - [japan] Japan September factory growth slows to 6-month low, PMI shows
-  - [taiwan] TSMC evaluates potential Texas investment, sources say
-  - [korea] South Korea factory growth hits 4-month high as export orders boom, PMI shows
   - [korea] South Korea Manufacturing Growth Accelerates in September
   - [taiwan] TSMC avalia possível investimento no Texas, segundo fontes
+  - [taiwan] TSMC evaluates potential Texas investment, sources say
   - [japan] Japan Big Manufacturers More Optimistic Despite Headwinds
   - [japan] Japan Manufacturing Growth at 6-Month Low, Confirmed
+  - [korea] South Korea factory growth hits 4-month high as export orders boom, PMI shows
   - [japan] [Japanese Market Conditions] Yen falls to 157 yen-lower level following Bank of Japan's ``main opinion'' - bon
+  - [japan] BOJ debated more rate hikes, scope for faster move at Sept meeting, summary shows
   - [japan] [Breaking News] Bank of Japan September Tankan Business Confidence Improving in Large Companies and Manufactur
   - [japan] BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary
   - [japan] JGBs Fall on Prospects for Quicker Pace of BOJ Rate Hikes — Market Talk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea Posts Record Trade Surplus
   - [japan] BOJ SEPT TANKAN SHOWS LARGE MFG SENTIMENT RISE LED BY OIL/COAL, STEEL, NON-FERROUS, WHILE OFFSET BY FOOD, LUMB
   - [korea] South Korea Import Growth Tops Estimates
-  - [japan] BOJ SEPT TANKAN: MAJOR MANUFACTURERS SEE INFLATION AT 2.2% IN 5 YEARS FROM NOW VS. 2.2% FORECAST IN JUNE SURVE
-  - [japan] BOJ SEPT TANKAN: MAJOR MANUFACTURERS SEE INFLATION AT 2.3% IN 3 YEARS FROM NOW VS. 2.2% FORECAST IN JUNE SURVE
-  - [japan] BOJ SEPT TANKAN: MAJOR MANUFACTURERS SEE INFLATION AT 2.3% A YEAR FROM NOW VS. 2.3% FORECAST IN JUNE SURVEY
-  - [japan] BOJ SEPT TANKAN: ALL FIRMS ASSUME FISCAL 2026 USD/JPY FX RATE TO AVERAGE Y154.23 (JUNEY152.57)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T01:12:43+00:00",
+      "published_utc": "2026-10-01T01:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
