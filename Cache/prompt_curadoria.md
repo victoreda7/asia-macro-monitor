@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T07:42:45.087163+00:00
+Última coleta: 2026-10-01T07:52:46.171349+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1294
+  🇯🇵 Japão          1293
   🇨🇳 China          769
   🇹🇼 Taiwan         253
-  🇰🇷 Coreia do Sul  684
+  🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
+  - [korea] ZAWYA: How Kenya won back Rwanda’s oil cargo imports ?
+  - [japan] Japan PM says govermentt steps will strengthen market confidence in yen
   - [korea] S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak
   - [japan] Stock price rises by 2,200 yen Buy orders spread to AI/semiconductor related stocks
   - [japan] Main opinions from the September meeting of the Bank of Japan: If there are signs of upward movement in prices
@@ -31,8 +33,8 @@ Total: 3000 manchetes
   - [china] China's Tencent taps Oracle for 100,000 AI chips in $7B lease deal - report
   - [korea] Kospi Snaps Three-Session Losing Streak; Chip Stocks Advance
   - [japan] Ceres Inc - To Buy Back Up To 10.83% Of Shares Worth 2.5 Billion Yen
-  - [japan] At 3:00 p.m., the dollar rose to the low 158 yen range, as expectations for continuous interest rate hikes by 
   - [japan] Japan manufacturing growth slows to six-month low in September By Investing.com
+  - [japan] At 3:00 p.m., the dollar rose to the low 158 yen range, as expectations for continuous interest rate hikes by 
   - [japan] Japan manufacturing growth slows to six-month low in September
   - [japan] Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms
   - [japan] Yen Falls Against Majors
@@ -40,11 +42,11 @@ Total: 3000 manchetes
   - [korea] Korea kicks off US investment plan with $22.3b Texas power project
   - [china] Chinese refiners suspend October fuel exports, one cancels cargoes, sources say
   - [taiwan] Four glass makers converge on 510x515mm substrate, hinting at TSMC's next move
+  - [japan] Bank of Japan releases main opinions at September meeting, maintains interest rate hike stance, with some poin
   - [japan] Takashi Sasano mentions the ``deterioration of cockroaches'' in the Bank of Japan Tankan News: ``If you listen
   - [korea] Memory shortage deepens, extending boom for Korean chipmakers
   - [japan] Macroscope: Bank of Japan Tankan, support for interest rate hike, October forecast setback slightly (Reuters)
   - [japan] BOJ signals accelerated rate tightening amid persistent inflation risks
-  - [japan] Bank of Japan releases main opinions at September meeting, maintains interest rate hike stance, with some poin
   - [korea] SK hynix says no decision on Solidigm amid IPO concerns
   - [china] Commentary: A $30 Billion Opening Beneath a Still-High U.S. Tariff Wall
   - [japan] Bank of Japan September meeting: Opinions on the need to raise interest rates at a rapid pace one after anothe
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] The market is once again aware of the risk of being on the defensive, with the Bank of Japan's main opinion in
   - [japan] At the Bank of Japan's meeting in September, when it decided to raise interest rates for the first time in thr
   - [japan] Morning Bid: Inflation relief gives bonds little reprieve
-  - [japan] Bank of Japan members announce ``main opinions'' from September meeting on gap in perception of economy and pr
-  - [japan] Bank of Japan members publish “main opinions” from September meeting on gap in perception of economy and price
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T07:42:45+00:00",
+      "published_utc": "2026-10-01T07:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
