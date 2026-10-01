@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-01T05:02:47.372384+00:00",
- "collected_at_utc": "2026-10-01T05:02:47.372384+00:00",
+ "generated_at_utc": "2026-10-01T05:12:43.803537+00:00",
+ "collected_at_utc": "2026-10-01T05:12:43.803537+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,8 +8,8 @@
  "by_region": {
   "japan": 1294,
   "china": 765,
-  "taiwan": 258,
-  "korea": 683
+  "taiwan": 256,
+  "korea": 685
  },
  "elapsed_s": 30.3,
  "sources": [
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T04:41:46+00:00"
+   "newest": "2026-10-01T04:59:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T04:36:57+00:00"
+   "newest": "2026-10-01T04:49:11+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-01T13:52:16+00:00"
+   "newest": "2026-10-01T14:10:11+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-24T07:27:40+00:00"
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T01:45:21+00:00"
+   "newest": "2026-09-30T19:00:57+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-01T13:52:00+09:00"
+   "newest": "2026-10-01T14:10:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T03:12:00+00:00"
+   "newest": "2026-10-01T03:37:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T02:24:00+00:00"
+   "newest": "2026-10-01T03:37:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T05:01:13+00:00"
+   "newest": "2026-10-01T05:11:53+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-01T13:00:00+09:00"
+   "newest": "2026-10-01T14:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,59 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "SK hynix says no decision on Solidigm amid IPO concerns",
+   "url": "https://www.koreaherald.com/article/10890574",
+   "published_utc": "2026-10-01T05:12:42.490757+00:00",
+   "title_original": "SK hynix says no decision on Solidigm amid IPO concerns",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b99880343bc73256"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Bank of Japan September meeting: Opinions on the need to raise interest rates at a rapid pace one after another",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261001de53594",
+   "published_utc": "2026-10-01T05:04:05+00:00",
+   "title_original": "日銀 9月会合 速いペースでの利上げも必要とする意見相次ぐ",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "76565d78812f09b2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Japan's manufacturing PMI moderates to 54.1 in September; BOJ signals quicker hikes",
+   "url": "https://www.tradingview.com/news/seekingalpha:c36022483094b:0-japan-s-manufacturing-pmi-moderates-to-54-1-in-september-boj-signals-quicker-hikes/",
+   "published_utc": "2026-10-01T05:01:19+00:00",
+   "title_original": "Japan's manufacturing PMI moderates to 54.1 in September; BOJ signals quicker hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1fbbfa55e05bbeeb"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -379,7 +432,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "The market is once again aware of the risk of being on the defensive, with the Bank of Japan's main opinion indicating no change in the government's cautious stance on interest rate hikes (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10dlJHSFRkb3VoY0dZRjJveTl2UkEzdG9TakY0R0o1UTd3MFlmUGpUYWhkYXN6VEdpeE9XTi1MV1lNTXp1c1paLUQwSHlOczdQcVdNUUtadEREeUp0TFdCQ3V2QWxIUVJZaEUtNmdFc0U3T2VHZEZFZkxSLWVYV3M?oc=5",
    "published_utc": "2026-10-01T04:41:16+00:00",
@@ -396,7 +449,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "At the Bank of Japan's meeting in September, when it decided to raise interest rates for the first time in three months, some said that if there were signs of an upward trend in prices, ``the pace of interest rate hikes would have to be accelerated.''",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOeUhvWGgtbzZQWG51Mmh1NDNHeGFSb29lSHBCTWlEM1Mya3RFcmdrcUMyMmRpTlk2TTVDWnBvcjAtYWZ5bFZManRlTzUtUjBfRHJhTllEcDEySzByaUktY01EMGQzNXVpM1dTSXdKSHNSSmVfcThXdnpMeUVlVnM?oc=5",
    "published_utc": "2026-10-01T04:33:51+00:00",
@@ -414,7 +467,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan members publish “main opinions” from September meeting on gap in perception of economy and prices (Asahi Shimbun)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40OGFoZ0llY2VMWnBKSUdMSklfUTBKTzI5d3JhVm9lNEU5QlJEdFdBWGs0VlZLR3pJWkdVbFhHV2lfa2RsTl91dVhNSGlRalNVREszdFFLelRsYk44c1F6MEgzZnpSWVh0dzJMUlU4ZDdiYU5HY2JWMk0tNEFOdFE?oc=5",
    "published_utc": "2026-10-01T04:31:17+00:00",
@@ -501,11 +554,11 @@
    "id": "0ccd49f19a26ff25"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
    "title_en": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
-   "url": "https://www.investing.com/news/stock-market-news/chinas-tencent-leases-100000-chips-from-oracle-to-accelerate-ai-push-ft-reports-4926202",
-   "published_utc": "2026-10-01T04:12:31+00:00",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45N068:0-china-s-tencent-leases-100-000-chips-from-oracle-to-accelerate-ai-push-ft-reports/",
+   "published_utc": "2026-10-01T04:08:02+00:00",
    "title_original": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
    "region": "china",
    "topics": [
@@ -515,7 +568,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "000b3ba7fb978bb9"
+   "id": "fc445d6b083643c6"
   },
   {
    "source_id": "investing_live",
@@ -972,7 +1025,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan's short view on the 6th period of continuous improvements in the large enterprise manufacturing industry (ABEMA TIMES)",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVlvVkF5SmJZbUR1RmxHQ2c5SGFBODlvNXoyZWdHSnhoamxJcVoyeENWanBTZmdpY29mVnYwOG10TUwzcTZtb285MDhIVWhtaktoaFZFSGdoSFZBaENkZnk2NVhYWDgzZ0FXejVSTDhyTlFxR0w0UTg3bVdsWk1SdGZpNUVOalFJWnZDT0FB?oc=5",
    "published_utc": "2026-10-01T02:09:16+00:00",
@@ -991,7 +1044,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Tankan: Large companies and non-manufacturing industries worsen for the first time in five quarters; situation in the Middle East and other unfavorable weather; outlook across the board (TV Asahi (ANN))",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MME5BTGV6SjlGSUdHeWx0Vjl6YXJmRW1SaDJRNzVQYVgxVTdORW5PeTloTFpvMlI2Z3VhdlI0dWNadThRbXlraGZMRmc3WUVvVTR5VHVaeHQwNmhIaGgtM29ISjhJb2RfT3J2TTd3elFZNjZmVTRibF9ZRlBzeVE?oc=5",
    "published_utc": "2026-10-01T02:06:31+00:00",
@@ -1010,7 +1063,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan's main opinions were less hawkish than expected (NRI researcher's commentary on current events)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16dUJyMkZOaGNxcUhnbWZOWmtVOU9PNmN5aTN3Y0pwaWFGSmhGbG01WlI3YkhTSHZuaUVXVk5lVEFwQV9MeHRZUV9tSjJVM1VlV0R0WU40TXo0VklTNnBEZUhIbzJhYm5DVW5fZG5jU0Fsd3loa0tDUE9LbXdRNVE?oc=5",
    "published_utc": "2026-10-01T02:02:26+00:00",
@@ -1044,7 +1097,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Need to accelerate pace of interest rate hikes; strong economy, wary of upward movement in prices; Bank of Japan September meeting (Jiji Press)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlRXJPSFhldHl6NHlEbHZLMnAwc3o4MTF5YTZna2lJa29sbWcxNzhnaDBNNXhwVkt6N1VBNVE4NU9hSlJuNlREbG12R2RUVlQ4S0k1Ykl4OXZud1ZtZW02RlZZTXFlVVQwMllGZGszaWpSclhvMkVOdFMtZjN2Y1E?oc=5",
    "published_utc": "2026-10-01T01:54:06+00:00",
@@ -1218,7 +1271,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "AI chip packaging demand meets labor pushback: ASE's NT$5.6B Taiwan snack factory deal sparks strike vote",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSTAzNzdvbnBWV0RGOHQ0WjJxb3hOS2xDU2lJZHo4VFhUUlBTM3ROQ2xzRjNnMnNxeC1vczVVUkJqXzhvYWIwUHVvTVpnX2M0VVZjVHpzR3Ftek5KQnJKeFo3TUJOM3ROMDFnWVd5Ym9iMDhGXzItY2M0Z00zNDd5LWZoUnpTdnFxMUZ4UUxlREpkdw?oc=5",
    "published_utc": "2026-10-01T01:15:15+00:00",
@@ -1269,7 +1322,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "SG Semiconductor builds brand and talent for Singapore chip industry",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVl9KeWpFRFBJenc0NXNkVU1oYjhxcmpyd2wtX2RYODVkNlNldEtvUXA2T1NPdWRhQzNfZFBOTjZQQ1FyTXd6ZWpidGN0d3BNVWRaYk04SzkwSGVsandkX1ZCem1uSXl0VlIzWnMxd3VTUTd0dTBoQXcwTjhQQWhuckQzaEdXRXRGOWN4b3RCUTZuUDhhd2lXdmk2WF9CSjQ?oc=5",
    "published_utc": "2026-10-01T01:02:01+00:00",
@@ -1321,7 +1374,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in prices - Bank of Japan September meeting (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qZ1RIQ2ZIQzNNNXNrTEZVbHhlWjh6OXBieWVCRTFZblhfS2RNXzI5Y215eW8zRktOcVhEQXd0cnJaLUR3OXRfWXB2cWh2VmROcF9haWJTbVVuM2lKcjFDZk0zRW5Ob3diNjZWTVlqNG96WlRSWTNIajA5anJVa3M?oc=5",
    "published_utc": "2026-10-01T00:44:07+00:00",
@@ -1353,6 +1406,24 @@
    "live_wire": true,
    "manual": false,
    "id": "5662b59f260efcc5"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "South Korea factory growth hits 4-month high as export orders boom, PMI shows",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmIzTjNTWGYzWERHb2c3VmFNdzlYZFltZk9maHhOWVhfZjlZNEp5dDFKMzZuLU1rYjZ0YS1Tb19VbXI1eE5nb0Vhaklidnh5MGJOSTFGQVREb0RJUzVTdW9MbVBTNW1WaW9WWjVhUmZPa2lkdlJ1WlhLejF0MkJEVWZZZUNuTml2bGVUYWRkY3diVVdBWmQ0ZXh3WmdyVFd4SW1DbXRFMmZsMmRWd0xWeUk1VEw4WHUzSWszRDdqSTh2Rnh6N0lv?oc=5",
+   "published_utc": "2026-10-01T00:40:00+00:00",
+   "title_original": "South Korea factory growth hits 4-month high as export orders boom, PMI shows",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "42457d96047435c2"
   },
   {
    "source_id": "tradingview_live",
@@ -1404,40 +1475,6 @@
    "live_wire": true,
    "manual": false,
    "id": "67f9807e35c6c9b4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan Big Manufacturers More Optimistic Despite Headwinds",
-   "url": "https://www.tradingview.com/news/DJN_DN20260930009495:0-japan-big-manufacturers-more-optimistic-despite-headwinds/",
-   "published_utc": "2026-10-01T00:36:00+00:00",
-   "title_original": "Japan Big Manufacturers More Optimistic Despite Headwinds",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8be29828bcf38b11"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Manufacturing Growth at 6-Month Low, Confirmed",
-   "url": "https://www.tradingview.com/news/te_news:588414:0-japan-manufacturing-growth-at-6-month-low-confirmed/",
-   "published_utc": "2026-10-01T00:35:15+00:00",
-   "title_original": "Japan Manufacturing Growth at 6-Month Low, Confirmed",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3bf2ecc1476175e0"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1530,7 +1567,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Tankan in September improves for 6th consecutive quarter, large companies/manufacturing industry +24 (Mainichi Shimbun)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIVDNVWHlzTUtwSTV0VE8wVDRfUjAtQzFiUGowajhvR0k0SEU2RTBtaV92YXc4bng3Qk9WMWxvNDd4U3hacEV0Uk1fMXh1REdvSWN2bEZ4NnhybUJ1aVJwU2VVUFJrUWZHazBLRUo2dVRCWEFUQkFkMld4UmUtd2s?oc=5",
    "published_utc": "2026-10-01T00:17:32+00:00",
@@ -1602,6 +1639,24 @@
   },
   {
    "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan September meeting: If there are signs of an upward trend in prices, the pace of interest rate hikes may accelerate - Main opinion (Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oLXMyazBjRFVHTXdDcmxjTDdQRGtlYTFyVDA1SjBIc1d2YU5JeXR5R01qOWQwa1dKa1BGSE9PYTlyakNHcFdDeXBDOXNJdzliVjdSd3JrcVBrNS1kTUFhb0kxVlB3VzBJazBSdVVzZnk2OUZ3WlRSY3I1Mzc0WEU?oc=5",
+   "published_utc": "2026-10-01T00:13:48+00:00",
+   "title_original": "日銀9月会合、物価上振れ兆候なら利上げペース加速も－主な意見（Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d8d35d4ef32b9699"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
    "source_name": "news.yahoo.co.jp",
    "title_en": "Bank of Japan September meeting should be managed appropriately to prevent prices from continuing to rise excessively - main opinions (Bloomberg)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oLXMyazBjRFVHTXdDcmxjTDdQRGtlYTFyVDA1SjBIc1d2YU5JeXR5R01qOWQwa1dKa1BGSE9PYTlyakNHcFdDeXBDOXNJdzliVjdSd3JrcVBrNS1kTUFhb0kxVlB3VzBJazBSdVVzZnk2OUZ3WlRSY3I1Mzc0WEU?oc=5",
@@ -1620,7 +1675,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Lip-Bu Tan calls TSMC a partner rather than a rival",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWW82ZlFIOG9kMHZqdnlsYkxCOWlOeE1Fb01XeEoxYWtkYjRHck04R2ZxdEJ6TzhBRTRTNFZkUlI5SEp2S0ttN0FXWVk5aFdRSXFzM3UxcU0zLTF5TjNvNWhaOHZXeVVjLThiUjlZQlA3Skx0NXc3ODB6dTFkVnNzYXpHSkREbjNOc2UxMQ?oc=5",
    "published_utc": "2026-10-01T00:11:53+00:00",
@@ -1637,7 +1692,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "How a TSMC veteran is steering Singapore's lab-to-fab chip strategy",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkNsbWFXWEFZOW5kNFZoQkdSSnhJNHdZS0JQaEV1djJLOVNrREZhOGtwbGZFRXNEWnVxUS1CLWViekItSnFrUG9PUjNrU01CYU4yUVlhWTYtOE5YdjRRYXFLWXdqVGQzMWJVZG5oS3FVSWlrZkFfMWthSzhzRllnOERQT2dlVkEzRVhmWGFPWVdMWDVtS2xIZ3ZWS3EzVjlF?oc=5",
    "published_utc": "2026-10-01T00:11:28+00:00",
@@ -1692,7 +1747,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Tankan in September: Business confidence in “large companies and manufacturing industries” improves for the sixth consecutive quarter… “Large companies and non-manufacturing industries” worsens (Yomiuri Shimbun Online)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xUHVNTG41WVZDSDZYVklURDNpUFdRSC1acmx5VjJSdnNTMlE2NjBwcEtYMGxEZjBZc0VNMVE0OWVRLW1MWExzYlVnenQtUWpLWUtwZTdWbWdHa1FFQ1RvcUNsYTJUS2QyaXo2TTRNV0M5U2VUMHpJUTRfVW41dkU?oc=5",
    "published_utc": "2026-10-01T00:01:10+00:00",
@@ -1728,7 +1783,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Business confidence of large companies and manufacturing industries improves for 6th consecutive quarter, Bank of Japan Tankan shows tailwind from AI demand (Asahi Shimbun)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oaG9pMDRrRWRkekpjWGVpLW94UllpYnRJZnM0cmFKZnQ5MER5TnVfODV1dG9lNnlWUERsaUFPY201RWZtS3ZQWFJJUkU2RHk3d1hLSFpwdDVNY25iZXViQTdCYXpYeE5ZT1ZhWVdqMlpIWkZyNmhzQVRVN3RLbWs?oc=5",
    "published_utc": "2026-09-30T23:57:01+00:00",
@@ -2610,7 +2665,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Retail Export Strategies Give Way to Integrated China-ASEAN Supply Chains",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMmF5TU9ma2Nvb0VHOWxBSFJKMzZoanNkOHc2QXM2VVBmVHFGdUQzcXZYM2RyUFhDOXVlNVpFbllGUDZPaVQzbThJelhkRFgwVnczMUVFbm95X3BpdWZudDJ5TG9IRW9CV2V6SHg1NDU5MldGZUtYdi1qZmo4RG9peGxadnFoSzNGYWdOWjJjNktDX1E2Wm1TQ3NvQjRBaEZMdl8yR1FHVDUtQ0FfWHBwdGZFZnFVX05rb0Jpal9ZTnFCd1RxWXJN?oc=5",
    "published_utc": "2026-09-30T11:26:00+00:00",
@@ -3560,7 +3615,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Foundry 2.0 revenue hits record as growth spreads beyond TSMC",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUNNM0JMVFlMYlNjbXdxbWlIUVRTRzZfOUlZS1h4djZIMklrVTlHaXI0NnFwLXNpbEcyZkxrSmlNNktBT05wM3Nud0xsQzdaaU04a3hVU1JLVWpRcnVmLS1IcjNHWG55c2VsTzZyVmJ0alFVZVg3RDRhWGV2RWdPc1VzNk02dFR2VXNaVEZVYw?oc=5",
    "published_utc": "2026-09-30T03:29:34+00:00",
@@ -3799,7 +3854,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Grand Pacific Petrochemical, Air Water join forces to expand Taiwan semiconductor materials business",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWg5T1JZM1RIMkcyQjRYTUgxT3NhNjV0MzUwZHA4UWk0N25MLV8tc0prR0g0dUJIOG1aSTdLdXFiVTJMVUtaVm8td1RXVnhWRG1mcjdhYlQxWnk0UVNLUEZCTkxkenVCZnBtZnVVVk1xUjlpdGdYWmUwc242Tl8zWEx0SVZPVW5LRW1Bc2xsYVZmc3pzaWRaMFZJdUVwZ1lZ?oc=5",
    "published_utc": "2026-09-30T01:28:09+00:00",
@@ -4553,7 +4608,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmY1bmJOSzlUYUtEZ1Bna3ZEM21LdXdyOEZYX3hpTkJ5THk2SG52WlQzcTRSOTl5SjRCS2JJYkZxYUdLRTNyanBhN0lsODBVeFM0cnlHbW4zamdOby0wNUltSWZxRnFkQkFVRV9famVYSDVvRHlCTjNpYzliQVJneUd0VHZmblFCSGh5ckdIX3paLXpXc3l5am9uaTdJNWRDaTdBWjl5dzJoOVplYWpHZXJkanJpY3FtU0pZaC1SRm1PNkdMUktkaWJ3?oc=5",
    "published_utc": "2026-09-29T16:25:00+00:00",
@@ -5028,7 +5083,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "In global semiconductor race, Singapore bets on critical, mature technologies",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1RGZE5GN214UnVaS2lFNzR4YWR6Qno5WXNKM0MzOXM4REZzdTQzdnlPajJ3MFN0UWJLZjV6RjlUVVFlM2QyTFBlZG0xTERBN2JQNmthQ183QUkzLWZaQm5JckI3UTdZRzZhTU00ZkQyVHphZ2hoQnp4VWdrM0FFSGE3RTN6b0FTU0duMkNpVFdPdlNWWF91dXRiM3pZMmQzOTd4NENrQm9oVlE?oc=5",
    "published_utc": "2026-09-29T08:57:39+00:00",
@@ -5218,7 +5273,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Singapore's chip progress",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XNjZCb0thUXp3V2MxZUpJX1M0c1R5cFczcC04aEtCWTNabC1OOUxlckk0RXZZTUZqVm9hRHlLZmZ3WGhYX1hHRUR6TDdjUFh0MTBTVEtSRl9hc29yTE1hZEc0NWNLdXMxZmd5YlU5dEZfX3hxNGxoeEpR?oc=5",
    "published_utc": "2026-09-29T07:03:20+00:00",
@@ -5443,7 +5498,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNUZNV0k1NXFrQ2p5VzFOZmFMeUZYU0hxSWtSZ1huSUxCVHZ4SXQ3cXFjcl9iMXc3WmE0RHZTOEttUTJKREI4NmQyWjUyZU9YVXRmR3dFOGljRG1wT25JLWVKTFFGYkVIZ3kzb1dPV2o3SW82cHlsTFdTTEdCQmRYb1BOVDRVbHk3YWZfNEpQZw?oc=5",
    "published_utc": "2026-09-29T03:59:54+00:00",
@@ -5477,7 +5532,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNWdxNDRkWjI1Qy1fN0F0SjJkU19RYmNBN2VQdm5oRXIzVHRPT0hNZ2w2bkgyaEllamd2b2I4UzlSYUFNTHJ4X21sTHduTVdSQzFONG91N25FaU9nSWNGS2JJX1dNbUZxRTcwSUNPYkVHZXhJUUJBZUxKcXZwOXpKR05qUXdBbTJKX25CS2g0TQ?oc=5",
    "published_utc": "2026-09-29T03:23:52+00:00",
@@ -5686,7 +5741,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
+   "source_name": "pulse.mk.co.kr",
    "title_en": "Samsung Electronics, SK hynix rebound on bargain-hunting",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51YldWZ1lfN0s2Ui1pZDV4Z3RVNGp4X2ZVd2hXWnJiWFFDYkdWM0Q4cFJCSnJNXzVIZmFDZWJiMFVJazN0djFPZlV1eEZEaHI1MlhrOWdWQQ?oc=5",
    "published_utc": "2026-09-29T02:10:34+00:00",
@@ -6704,7 +6759,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Auto Subsidy Scheme Unravels, Leaving Consumers and Banks Exposed",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEtQZWp0TWNUU3dhWDBsaUxIV0tZZ21JYk1yaFo1ODZWOEtaX2ZUU3ZzUUM5VDM4eHFzQ29NMlREMEZyeXRQMVRuT2NvN0VIWmZPdkwyM0VLd2Z4NmszaGt5WFplLTlNemRsNEZGdGpMd0FsQ3NjTm9lR2c1bEF0azRJemNoaEplbmdEZFpxSFN5STkzWWFraWpfWDVLLU11eG1jYXQ4Y1FGeEQ0S0NHUGNxMVVQS0NlajRJbmwteVdyZkk?oc=5",
    "published_utc": "2026-09-28T09:43:00+00:00",
@@ -7154,7 +7209,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "alphabiz.co.kr",
+   "source_name": "알파경제",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Strengthening economic and monetary policy cooperation",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoT3FZNTZrNGNiZ0N5SWZnNzhMVTM2MEJqX1luZzllbUt0SjhJWFlCUmpTNG50SEpycXJCX1VZS05ESkNJTGVCUjdyNmwxT2dYYTF5bUxZaEdJTXFlcDFJR2c4R1FjTTdkTzVDRnd3?oc=5",
    "published_utc": "2026-09-28T06:38:11+00:00",
@@ -7677,7 +7732,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
+   "source_name": "newspim.com",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -7765,7 +7820,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "hani.co.kr",
+   "source_name": "한겨레",
    "title_en": "Deputy Prime Minister Lee meets with Bank of Korea governors 6 days after taking office... “Fiscal-Monetary Policy Cooperation”",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSXltS2J3QUhWa2V2aERndVJDaHJLbUJPRGluanBpTDJOMG56d0pUVVRIOEh6Q0tHV2x2eWpNUWJvLXE2N3NrNkdKZUo2cHBkZml2U2JobEtFYUNaRURNNjVwVmV5QQ?oc=5",
    "published_utc": "2026-09-28T02:39:00+00:00",
@@ -8451,7 +8506,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "직썰",
+   "source_name": "ziksir.com",
    "title_en": "The Bank of Korea's monetary policy is distorted by the rise in U.S. interest rates... Three major variables for the October Monetary Policy Committee decision",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRcXA4TnBNTU1FUDNZNXh6SzlsOERzc2RhNGluelNPTFJ2dkMtQnE0STNUX0NhWjVrTmxaMElNQ1BaLURZeHJJQVptSkdLbXZXT01ZS0lmRW1RV0NZUWtPQjVhRXZqZlVa0gFsQVVfeXFMT0gxbXQ1aWtvRkNMUzkxTENJT2JUeUpRV2lFWmkzdTE3UjFfQWY1UUJlOFVqYlZMMlI3cFU1akpzaEVDTkRxd0VsemZJN2ktWDRfbHowVFFjclA2OXRDSVJsUTI3WEs2SEhxQ3ph?oc=5",
    "published_utc": "2026-09-27T21:00:00+00:00",
@@ -11224,7 +11279,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "PBOC Cautions Against ‘Herd Effect’ as Yuan Extends Rally",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHJXZXdiUzJDWGFfTk04QzhINEN4bXMtdTFYdllWa1ZsUGlJSFVfV3F3SjNVYmpxN0pPa2daVy1VMzNnb29TbFhKaFk5X0pocUxkZWNsX3EwUUZCM21hNTBWWmZnRXlNV3d2azFIUm1NUm1nLXp0TG1ULXpuYVJoSkQzcHE4YXMxTWVGMG9fbk0tU1Q2UnN6U3FYRkZGX3BJSVlVbllZWXl4WXJZUTJJ?oc=5",
    "published_utc": "2026-09-24T18:27:00+00:00",
@@ -11798,7 +11853,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Cadence, Synopsys certify TSMC A14 design flows ahead of 2028 production",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemNPZFJFY3BwS0JOSUJKdWRrX3FBRGhlMTdFcy1jMTA4S3czNjhJd1p2Y05CTjlTUUVoaWxUV1J3TVNUelRmMFNtR1NFOFprTHpFbWphSXh5WVA2MFkwcTA3YkpaM2p1cDdhSUJkclBKek5jNGFLdkZzTjBkdWNDNXhGUG92cGJoWS1CZ0lXb1V2RGoxTGV1WXNxUks?oc=5",
    "published_utc": "2026-09-24T06:26:00+00:00",
@@ -12148,7 +12203,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "TSMC locks in 3-6% wafer out price hikes for 2027",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVE4Ty1hREZERmhoSkJWekhXV25RekVMSXpMMHJyNmpJTjV0ZFJQUlF4eHJVTkxsN1ZrZVFoa3RsRnhuZWM2Z1pSUTZOeFg5MWMtLXVuM2VwWEF1eUhsanZuOFVNUmdfb1VLSkxmMERxTWt2cldmcjdOMTFNdWpfTDlzZzNKQQ?oc=5",
    "published_utc": "2026-09-24T03:09:04+00:00",
@@ -14757,7 +14812,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Commentary: Are Exports Holding China’s Economy ‘Hostage’?",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWThScUlkQkxBdzlHWjBPQkh2WXdPb3pITmNFZ3FhLTRENV9USTdZdjhHbngwLWVhelhkLU9KaDJPWjFsSE9ZQ25uVnZPazlhQzNhcml5SkU1R1BZMXliWDRxVENZeVNCVjRsUkhjcE15UGt1cnp3bF9SZS1uYzh0Z3VCVVU3WWNTQ3dtSWZjblVUSHpwcjdicERab2YxYURfY2hOdGFWU1pIMjEx?oc=5",
    "published_utc": "2026-09-22T07:00:00+00:00",
@@ -18634,7 +18689,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Fiscal Revenue Growth Slows as Government Spending Contracts",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajVnYVFTVWxPRW02QmZSZzVnb2xBWl9qaVc0Z1RrbWpzdTFZQ0xCY2VXSml3S3Q0cDM2ZU1KN3JGaVpKQm04b1k4eFpDM2JZSHR1R1FKeUdHay1sVFNHQ0p3TS1SYzhOSGRtV1RlM3E2M3VtRnV4bU81Z3luT0JOb056YkU2RkVISjhVT2d2Z3dfS19BdU1peENFNUJrSlE1MDVMNHhBUDlOQW9WNkZvVzBKZlBEUVZ4UVN3djJ3?oc=5",
    "published_utc": "2026-09-19T07:00:00+00:00",
@@ -20762,24 +20817,6 @@
    "id": "dfe78368aa5c6456"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmVudElxT21NQUxjV0JCVGlqSVZSaU9tOHRCa2pNdzk5MHJSM3pGX01JYlBHYlhvX204OG1fRnFCTEZZSzFzSEd4aWJhWEV5X2R2MnZXZ2I0QQ?oc=5",
-   "published_utc": "2026-09-18T07:41:00+00:00",
-   "title_original": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6fccd22b421df798"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan raises policy rate to 1.25%, highest level in 31 years Governor Ueda emphasizes policy to continue raising interest rates at press conference",
@@ -20972,6 +21009,24 @@
   },
   {
    "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmVudElxT21NQUxjV0JCVGlqSVZSaU9tOHRCa2pNdzk5MHJSM3pGX01JYlBHYlhvX204OG1fRnFCTEZZSzFzSEd4aWJhWEV5X2R2MnZXZ2I0QQ?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6fccd22b421df798"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
    "source_name": "english.kyodonews.net",
    "title_en": "BREAKING NEWS: BOJ's monetary policy not aimed at stabilizing currency moves: Ueda",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0MkczWmw1dVh4c2NCdGp6cU1GcGZSSDNtNVpscndjNU9fZ2hZUTR6UDAtZFhmX0VpY25mR0VDeFpDcFR5ZWdUMnB6Z193T0p5Y3NBTW83Q1ItZw?oc=5",
@@ -21094,24 +21149,6 @@
    "id": "01f88a2d9a142243"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "BOJ lifts rates to 31-year high, pivots towards preemptive inflation fight",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "BOJ lifts rates to 31-year high, pivots towards preemptive inflation fight",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c89e362749875355"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "S. Korea logs public account deficit for 6th consecutive year in 2025: BOK",
@@ -21128,6 +21165,24 @@
    "live_wire": false,
    "manual": false,
    "id": "90c1c91672dfd1f1"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "BOJ lifts rates to 31-year high, pivots towards preemptive inflation fight",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "BOJ lifts rates to 31-year high, pivots towards preemptive inflation fight",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c89e362749875355"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -21149,7 +21204,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Targets 3.5 Trillion Yuan Pharmaceutical Industry by 2030",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGZ6RmdHNF8tYUVvaVZhc25ldWRXZDM0ZlQyU2Y5MkVFVERiekJsbTVHb2wxb2l0OFZDSTR3ZG9wc2hwM0pzWHVmZHg4QnF3U2tqcXJiVmVFR3V2LV9Wc1hMZ1YzNTBnalpVYlFRX1A1Yzh6RFJqVUsyUmxVNFpKQ3FRY2djUjRVZlNYWEJEZGthWXVzME12WlFjTWI3MmlDUXkwZUgyYUVvUVlnVDRsS29NODk1SUZY?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -21201,7 +21256,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China’s Youth Unemployment Hits Record High",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHE5RFJkanY2eDV3LVBTUzhKaUpZUjI0cHRXZlUzdDZiVjNsR1ZRUmVZUW94eE15d1RELV8tUEtuN1hkbngzYzRFMk5ZUzFPdUhYMzJydzNKV3lvbm90Y0I3Q2pBOGdnTXdrb2ZvSEk3OU0xZHhiWFRfcHlreFZiUDZHdi1ZTzVjaGVhVzdreFh3clpKT2hLeHdIYmdsZw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -24083,7 +24138,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Commentary: To Revive Consumption, China Must Defend Both the Yuan and Incomes",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNWJjWFVBb2U3WFZWVDZBRmlIb2xoNEhQbGQ2TUxBUE1yMXdqaEtJZm0xRDBOOWhha2o0dkJVVVlQOGg1WmJNZjc2eHlmQ1FhSUhnWmVhYm83WG9aOWwzemRGNnYzS3lRd283UlJVOU9kWmhvQzdHY3NMYjA5dV9hN1pVcW1DTzRDUDVGcWhHUDV0QnluZzhDbTdQRjhLbllKWTg0SlAwZjhhUDBCVWVwTlNSRzZJVzlhNVRBWERGSDJhMVZmTGNHT19oTQ?oc=5",
    "published_utc": "2026-09-17T07:00:00+00:00",
@@ -51933,58 +51988,6 @@
    "live_wire": true,
    "manual": false,
    "id": "44bf6a9447313f3e"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ to debate whether to raise interest rates at next policy meeting: Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WbEJEeUtyOVU2UFZyc0NZVWxhOFI4eGMxR2k5SFFoRmJ2OUhlT0NnbzRtZXpYOVZDRkh4dmZheExuaDhoSzlpbUdtSnhkOVd3X0hjdG9TNXNBUQ?oc=5",
-   "published_utc": "2026-09-02T00:21:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ to debate whether to raise interest rates at next policy meeting: Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e5b583bac1e7fb31"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Beyond Language: Indonesian Engineers Bridging Cultures in Taiwan's Semiconductor Industry",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mNFlTS2lRQ25vOFJibXdRWXQwN1Q2VEI3c3VEejZUN01hMUptWkdOb2llMFJ4QW5oTWpYZkdUWDdVSVlXd1J4OUpDNXpSTjgzOTlabjZHM29HUFZmT0tCTnkzWG5IbXRicWlJRC1XNG9jUQ?oc=5",
-   "published_utc": "2026-09-02T00:20:57+00:00",
-   "title_original": "Beyond Language: Indonesian Engineers Bridging Cultures in Taiwan's Semiconductor Industry",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8a0913f501000a2c"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Panama Canal sees $5.56 billion revenue in FY2027 budget proposal",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWVKZTVnQjQ1cmlOeXIxMElOX3liOHNBc0tmR0Y5bV83cTFST1l5Z0Z5RVZOLTZXQlVldjdKRGQ5NWZDcE9iYWJsMEhXM2NETTJFbGp1ZnR4VUx3UlJoVzhGRUZnMjJpcUVqdUZUOV9oMlFfUWdYMUdyWHZhUDl2eXJZeTFXQnVCMUVCZzNfNjFFT28yOGI3Q29IUk00dkNveFdvbkpFZElYZnh4bDN0bkR3?oc=5",
-   "published_utc": "2026-09-02T00:16:00+00:00",
-   "title_original": "Panama Canal sees $5.56 billion revenue in FY2027 budget proposal",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0178e9b5fa58aa56"
   },
   {
    "source_id": "manual_ia",

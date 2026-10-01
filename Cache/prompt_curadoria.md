@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T05:02:47.372384+00:00
+Última coleta: 2026-10-01T05:12:43.803537+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1294
   🇨🇳 China          765
-  🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  683
+  🇹🇼 Taiwan         256
+  🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix says no decision on Solidigm amid IPO concerns
+  - [japan] Bank of Japan September meeting: Opinions on the need to raise interest rates at a rapid pace one after anothe
+  - [japan] Japan's manufacturing PMI moderates to 54.1 in September; BOJ signals quicker hikes
   - [china] Russia steps up sunflower oil exports to China as war disrupts India trade
   - [japan] Japan inflation wave lifts prices on 3,000 food and drink items
   - [japan] The market is once again aware of the risk of being on the defensive, with the Bank of Japan's main opinion in
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean won, Thai baht lead losses across Asian currencies
   - [japan] Yen Weakens as Dollar, Treasury Yields Weigh
   - [japan] Bank of Japan's short view on the 6th period of continuous improvements in the large enterprise manufacturing 
-  - [japan] Bank of Japan Tankan: Large companies and non-manufacturing industries worsen for the first time in five quart
-  - [japan] Bank of Japan's main opinions were less hawkish than expected (NRI researcher's commentary on current events)
-  - [korea] Korea moves to cut bond issuance as high rates bite
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T05:02:47+00:00",
+      "published_utc": "2026-10-01T05:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
