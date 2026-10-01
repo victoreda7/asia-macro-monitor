@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T10:52:45.483668+00:00
+Última coleta: 2026-10-01T11:02:44.586243+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1291
-  🇨🇳 China          777
+  🇯🇵 Japão          1290
+  🇨🇳 China          778
   🇹🇼 Taiwan         251
   🇰🇷 Coreia do Sul  681
 
 ## O que já está no feed (não repita)
 
+  - [korea] Lotte expands financial, export support for partners
+  - [china] China's BYD sales rise in September as export boom sustains momentum
   - [japan] Euro slides to 17-month low, hit by rates and inflation cocktail By Reuters
   - [japan] Globaltec Formation Says GOH Min Yen Appointed As Executive Director
   - [china] Oil prices rise 2% as China suspends fuel exports
@@ -40,6 +42,7 @@ Total: 3000 manchetes
   - [korea] While U.S. Micron, the third-largest memory chipmaker, was the first to start its earnings season sm..
   - [korea] The appointments of Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minis..
   - [japan] ``Main opinions'' announced at Bank of Japan's September meeting; no comments on continuous interest rate hike
+  - [taiwan] Taiwan extends fuel freeze, seeks extra subsidies for CPC, Taipower
   - [china] Guangzhou Caps Deposits, Tightens Oversight in Housing-Sales Overhaul
   - [china] China Cancels Some Fuel Shipments to Support Domestic Supply
   - [china] ZAWYA: Why East African banks are joining yuan payment system ?
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ Summary Shows Government Unconcerned About Price Overshoot Risks — Market Talk
   - [japan] Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session
   - [japan] Asian currencies rangebound as dollar holds near two-month high, yen slips
-  - [japan] Yen Weakens as BOJ Summary Disappoints
-  - [china] China's Tencent taps Oracle for 100,000 AI chips in $7B lease deal - report
-  - [korea] Kospi Snaps Three-Session Losing Streak; Chip Stocks Advance
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T10:52:45+00:00",
+      "published_utc": "2026-10-01T11:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
