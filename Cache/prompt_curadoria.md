@@ -7,22 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T03:42:44.576656+00:00
+Última coleta: 2026-10-01T03:52:46.173303+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1285
+  🇯🇵 Japão          1286
   🇨🇳 China          764
   🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  693
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
+  - [japan] Japan’s patchy business mood takes pressure off BOJ for immediate hike
   - [japan] BoJ Policymakers See Scope for Faster Rate Hikes
+  - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
   - [japan] Japanese Yen weakens as BOJ summary damps bets for back-to-back rate hike
   - [china] China’s Tencent Leases 100,000 Chips From Oracle To Accelerate AI Push - FT
   - [japan] Japan bond yields rise as US Treasury selloff persists, BOJ outlook in focus
-  - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
   - [japan] Stock prices rise significantly Buy orders for AI/semiconductor related stocks
   - [china] Yuan Appreciation Intact but U.S.-China Rate Gap to Cap Pace — Market Talk
   - [japan] BOJ Likely to Remain on Guard Against Inflation — Market Talk
@@ -30,13 +31,13 @@ Total: 3000 manchetes
   - [japan] Tokyo Metro aims to ease rush by projecting vehicle congestion on the floor
   - [japan] [Today's Oha Biz October 1st (Thursday)] Nidek final deficit 564.6 billion yen
   - [japan] What is the NHK public opinion poll? Survey targets and methods
+  - [japan] [New phase of the “Beer Wars”] What will happen to the beer industry with the liquor tax reform on October 1st
   - [china] China's PMI Improvement May Not Be Sign of Economic Recovery — Market Talk
   - [korea] Seoul shares narrow losses late Thurs. morning amid inflation woes
   - [japan] Japan 10-Year Yield Rises on Hawkish BOJ Outlook
   - [japan] Tankan Supports View for Faster-Than-Before BOJ Rate Hikes — Market Talk
   - [japan] Yen Falls After BOJ Summary Eases Rate-Hike Bets
   - [korea] Lotte expands financial, export support for partners
-  - [japan] Japan business mood reaches 8-year high, bolsters case for BOJ hikes
   - [japan] Japan's Nikkei hits six-week high as Micron forecast lifts chip stocks
   - [korea] South Korean won, Thai baht lead losses across Asian currencies
   - [japan] Yen Weakens as Dollar, Treasury Yields Weigh
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea stocks slip despite stellar exports as oil worries weigh
   - [japan] Japan MOF To Auction Y3.0T Of TD-Bills Oct 8
   - [taiwan] AI chip packaging demand meets labor pushback: ASE's NT$5.6B Taiwan snack factory deal sparks strike vote
-  - [japan] Japan Manufacturing Sector Ebbs In September - S&P Global
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T03:42:44+00:00",
+      "published_utc": "2026-10-01T03:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

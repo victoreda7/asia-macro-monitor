@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T03:42:44.576656+00:00",
- "collected_at_utc": "2026-10-01T03:42:44.576656+00:00",
+ "generated_at_utc": "2026-10-01T03:52:46.173303+00:00",
+ "collected_at_utc": "2026-10-01T03:52:46.173303+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1285,
+  "japan": 1286,
   "china": 764,
   "taiwan": 258,
-  "korea": 693
+  "korea": 692
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T03:12:31+00:00"
+   "newest": "2026-10-01T03:32:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T02:31:04+00:00"
+   "newest": "2026-10-01T03:24:45+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T03:41:16+00:00"
+   "newest": "2026-10-01T03:51:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T00:38:00+00:00"
+   "newest": "2026-09-30T21:40:42+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T03:07:24+00:00"
+   "newest": "2026-10-01T03:33:10+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T02:19:18+00:00"
+   "newest": "2026-10-01T02:40:34+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -363,6 +363,23 @@
    "id": "d1803964703fd35e"
   },
   {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan’s patchy business mood takes pressure off BOJ for immediate hike",
+   "url": "https://www.investing.com/news/economy-news/japan-business-mood-improves-tankan-survey-shows-4926127",
+   "published_utc": "2026-10-01T03:24:45+00:00",
+   "title_original": "Japan’s patchy business mood takes pressure off BOJ for immediate hike",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "930861d2492f4674"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "BoJ Policymakers See Scope for Faster Rate Hikes",
@@ -379,6 +396,23 @@
    "live_wire": true,
    "manual": false,
    "id": "3fa15fd4839df6f9"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
+   "url": "https://www.investing.com/news/stock-market-news/chinas-tencent-leases-100000-chips-from-oracle-to-accelerate-ai-push-ft-reports-4926202",
+   "published_utc": "2026-10-01T03:18:33+00:00",
+   "title_original": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "000b3ba7fb978bb9"
   },
   {
    "source_id": "tradingview_live",
@@ -431,23 +465,6 @@
    "live_wire": true,
    "manual": false,
    "id": "01945aa1a64bb245"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45N05W:0-china-s-tencent-leases-100-000-chips-from-oracle-to-accelerate-ai-push-ft-reports/",
-   "published_utc": "2026-10-01T03:06:49+00:00",
-   "title_original": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ea7c424b150297d6"
   },
   {
    "source_id": "nhk_economy",
@@ -571,6 +588,23 @@
    "id": "ac83028b80138399"
   },
   {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "[New phase of the “Beer Wars”] What will happen to the beer industry with the liquor tax reform on October 1st? Tax reduction on beer, increase on low-malt beer. As the price differential narrows, what are the key points to focus on in the strategies of the four major companies? / Will the power balance of the beer industry change in the future? | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/959811?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-01T02:30:00+00:00",
+   "title_original": "【“ビール戦争”新局面】10/1の酒税改正でどうなるビール業界／ビールは減税、発泡酒は増税。価格差縮まる中、大手4社の戦略の注目ポイントは？／今後、ビール業界の勢力図は変わる？ | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "67a8b074e79298c7"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "China's PMI Improvement May Not Be Sign of Economic Recovery — Market Talk",
@@ -673,23 +707,6 @@
    "live_wire": false,
    "manual": false,
    "id": "554b60bef9333a48"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan business mood reaches 8-year high, bolsters case for BOJ hikes",
-   "url": "https://www.investing.com/news/economy-news/japan-business-mood-improves-tankan-survey-shows-4926127",
-   "published_utc": "2026-10-01T02:18:47+00:00",
-   "title_original": "Japan business mood reaches 8-year high, bolsters case for BOJ hikes",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b03596461e2646b3"
   },
   {
    "source_id": "tradingview_live",
@@ -2243,7 +2260,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation for a period of 3 months",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Tc2w0czYzYXRFVVlLeVhJVllIYVRQVWJUVXlybU9hVnVTSjB6UDZjWGlfeEpIbXJtcER5b0k1UXZ4TGp4Nzc2dzJaU2N1V1Ita0VHUjlzUG5Ubzd1RzhpT3loVXZndw?oc=5",
    "published_utc": "2026-09-30T12:44:27+00:00",
@@ -2696,7 +2713,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a period of 3 months.",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KWnhhZ2o3TGh4cUNtNFV2WTZ0aG1lYXNZRzVrV3pKYUpod1lUckx6VWtLTF9SalR1UHRDMVJNbUxiZmNzSWx3eDJBVTk0MG5Yb1dKM0xjbVNwd0syY2tadTlraDVaUQ?oc=5",
    "published_utc": "2026-09-30T09:33:38+00:00",
@@ -2783,7 +2800,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "hankyung.com",
+   "source_name": "한국경제",
    "title_en": "Global interest rates are resembling ‘post-Corona austerity’… Will Korea also go to 3.5%?",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcmp0RDhESlJPQVFlaE9QTDUyREZ5TXNDMmhCV1hFc0NfOUg4RWJ6NFpQM25LYzRLcExFZ0NPSW9feW5tZ3VmSG1vMVFmcUt1SmRidVoxUmxZdw?oc=5",
    "published_utc": "2026-09-30T09:11:13+00:00",
@@ -2800,7 +2817,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
+   "source_name": "cls.cn",
    "title_en": "17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October 8 with a period of 3 months]",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2cktXNzRrMEZfZVFtaS15UF84a0t3ZGpuRWpud3hsaWhsWnpKTjhJcHQwTDlrWVltRlB2dkh1ZGZWRU42clB4Rw?oc=5",
    "published_utc": "2026-09-30T09:09:45+00:00",
@@ -3419,7 +3436,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "The central bank’s 7-day reverse repurchase operation volume on September 30 was zero",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVFNuSFNTOWh2WTNvSmEwc2RjLWIySFJCSzdhSllQMmdGMkNhNnY1WjJ4emp0ejZzTjB6QTNEWjdLNGVsNlFvaVI1S1c5cmE2SzRrWGptY0RKOC1WdW5GSTM4Y0tjUQ?oc=5",
    "published_utc": "2026-09-30T02:32:05+00:00",
@@ -3590,7 +3607,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "The central bank launches 833.5 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wYzRPMHpfY01uRjV5NnI5Y3JlNTNUZ3prN19hbWZLOE1sM0NwM0NQS04tOG1fSXR0ZHBCMEJReHVBY1NMMl9EeXkzelVPNk9tNlRfUzVKR21UcXVkRHJWSTVsNTVGUQ?oc=5",
    "published_utc": "2026-09-30T01:27:22+00:00",
@@ -5512,7 +5529,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "The central bank launched a 90.5 billion yuan 7-day reverse repurchase operation in the open market",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PaTdURXp2M29ReEJpZGJhV2VMclpqaXBfNFBobnNhRTFhOHVyOFlqb3ZDU3BIYU01T0NDSnEtZW5WYk8wTjhWeUdZWnFxS1kzMzJkbXZUa0U1WVVZdjJWOWJVYmdDQQ?oc=5",
    "published_utc": "2026-09-29T01:43:01+00:00",
@@ -7259,7 +7276,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
+   "source_name": "21jingji.com",
    "title_en": "RMB 661 billion was invested in overnight reverse repurchases in a single day, and the central bank provided clear signals of cross-season and cross-holiday protection.",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkJoUzN4VncwclpOZ2xOendGT0dkcTBhSVVmbC1veTlhTFNJZGdLZ1I0Ym1NRU9FUDR5eEpXNUdjbHgzLUpRblE4bWNoYTc4c2RWVTVFTnV0MlY1Q0dreXp4ekwtLWlld0tHRWEtdjhoZmp3SHJuNy13ZzFPRmZCRkc2QjZXeDc0VTN2ZGZxWQ?oc=5",
    "published_utc": "2026-09-28T03:55:20+00:00",
@@ -7486,7 +7503,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "The central bank today launched a 139 billion yuan 7-day reverse repurchase operation, a 661 billion yuan overnight reverse repurchase operation, and a 300 billion yuan 14-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RdUhmcjdRSnFhT3VHMWkyZVdDZlR1cXJoLXpMLWppNUVoSUdJUUhUUzRLOVQxazk3Qnl6WXB2QWVBMG5Ob3YzUU5pSi1jTGlPeE9ZZ25pUXNhSG1EeFRfNDRpYTQ4QQ?oc=5",
    "published_utc": "2026-09-28T02:46:41+00:00",
@@ -7826,7 +7843,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "finance.eastmoney.com",
    "title_en": "The central bank launched a 139 billion yuan 7-day reverse repurchase operation, with a bidding volume of 139 billion yuan",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMi0yWV8zYUtvUi1lLU1Fcm1fdFlTeVFMeUZZanlFTUhTMXJFYTNFa1AxR3pISmpFMDBPNWd1ZFJpeHBHMHQtQ01ES0JRNkhDX1Y1VVo3UkNQTjlxVzZqZlFmQ1dHdw?oc=5",
    "published_utc": "2026-09-28T00:51:06+00:00",
@@ -20536,24 +20553,6 @@
    "id": "dfe78368aa5c6456"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmVudElxT21NQUxjV0JCVGlqSVZSaU9tOHRCa2pNdzk5MHJSM3pGX01JYlBHYlhvX204OG1fRnFCTEZZSzFzSEd4aWJhWEV5X2R2MnZXZ2I0QQ?oc=5",
-   "published_utc": "2026-09-18T07:41:00+00:00",
-   "title_original": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6fccd22b421df798"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan raises policy rate to 1.25%, highest level in 31 years Governor Ueda emphasizes policy to continue raising interest rates at press conference",
@@ -20743,6 +20742,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f2edd6a4675e1ef2"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmVudElxT21NQUxjV0JCVGlqSVZSaU9tOHRCa2pNdzk5MHJSM3pGX01JYlBHYlhvX204OG1fRnFCTEZZSzFzSEd4aWJhWEV5X2R2MnZXZ2I0QQ?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6fccd22b421df798"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51965,23 +51982,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f57e75c2f5712edc"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "hankyung.com",
-   "title_en": "The interest rate hike has begun again... What to invest in and what not to invest in",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XbWRGX3dmRGkyczJscjBsemdHeEpaQmZrUEdnOEl5T3hnWm5qMGVVTVl2RlExZ0IwZXJabUg2c0g4Z0QtY2s4MWpxSTJ0T2QwdGN2cnJmeUtNdw?oc=5",
-   "published_utc": "2026-09-01T23:00:20+00:00",
-   "title_original": "다시 시작된 금리 인상기…투자할 종목과 투자해선 안 될 종목",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "aa7b3f583d0d526d"
   },
   {
    "source_id": "manual_ia",
