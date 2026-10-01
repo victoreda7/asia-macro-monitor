@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T10:32:46.044703+00:00
+Última coleta: 2026-10-01T10:42:45.106513+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1291
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Euro slides to 17-month low, hit by rates and inflation cocktail By Reuters
   - [japan] Globaltec Formation Says GOH Min Yen Appointed As Executive Director
   - [china] Oil prices rise 2% as China suspends fuel exports
   - [japan] Yen market price falls by more than 1 yen due to rise in long-term interest rates in the United States
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Weakens as BOJ Summary Disappoints
   - [china] China's Tencent taps Oracle for 100,000 AI chips in $7B lease deal - report
   - [korea] Kospi Snaps Three-Session Losing Streak; Chip Stocks Advance
-  - [japan] Ceres Inc - To Buy Back Up To 10.83% Of Shares Worth 2.5 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T10:32:46+00:00",
+      "published_utc": "2026-10-01T10:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
