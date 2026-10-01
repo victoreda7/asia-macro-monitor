@@ -7,21 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T04:02:44.208449+00:00
+Última coleta: 2026-10-01T04:12:44.558557+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1287
+  🇯🇵 Japão          1289
   🇨🇳 China          764
   🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  691
+  🇰🇷 Coreia do Sul  689
 
 ## O que já está no feed (não repita)
 
+  - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
   - [japan] Sources of Changes in Current Account Balances and Market Operations (Sept.)
+  - [japan] Asian currencies mixed as dollar holds highs, yen slips on BOJ signals
   - [japan] Bank of Japan Tankan Economic judgment of large companies in manufacturing industry improves for 6th consecuti
   - [japan] Japan’s patchy business mood takes pressure off BOJ for immediate hike
   - [japan] BoJ Policymakers See Scope for Faster Rate Hikes
-  - [china] China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports
   - [japan] Japanese Yen weakens as BOJ summary damps bets for back-to-back rate hike
   - [china] China’s Tencent Leases 100,000 Chips From Oracle To Accelerate AI Push - FT
   - [japan] Japan bond yields rise as US Treasury selloff persists, BOJ outlook in focus
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan MOF To Auction Y600.0B Of 30-Year Govt Bonds Oct 8
   - [korea] AI Boom Powers South Korea's September Exports Past $120 Billion — Update
   - [korea] South Korea stocks slip despite stellar exports as oil worries weigh
-  - [japan] Japan MOF To Auction Y3.0T Of TD-Bills Oct 8
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T04:02:44+00:00",
+      "published_utc": "2026-10-01T04:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-01T04:02:44.208449+00:00",
- "collected_at_utc": "2026-10-01T04:02:44.208449+00:00",
+ "generated_at_utc": "2026-10-01T04:12:44.558557+00:00",
+ "collected_at_utc": "2026-10-01T04:12:44.558557+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1287,
+  "japan": 1289,
   "china": 764,
   "taiwan": 258,
-  "korea": 691
+  "korea": 689
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T01:56:01+00:00"
+   "newest": "2026-10-01T03:37:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T03:32:09+00:00"
+   "newest": "2026-10-01T04:02:50+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T03:24:45+00:00"
+   "newest": "2026-10-01T03:54:33+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-09-30T21:04:47+00:00"
+   "newest": "2026-10-01T03:59:56+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-01T04:01:00+00:00"
+   "newest": "2026-10-01T04:09:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T21:40:42+00:00"
+   "newest": "2026-10-01T00:38:00+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-01T12:00:00+09:00"
+   "newest": "2026-10-01T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45N068:0-china-s-tencent-leases-100-000-chips-from-oracle-to-accelerate-ai-push-ft-reports/",
+   "published_utc": "2026-10-01T04:08:02+00:00",
+   "title_original": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fc445d6b083643c6"
+  },
+  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Sources of Changes in Current Account Balances and Market Operations (Sept.)",
@@ -360,6 +377,24 @@
    "live_wire": false,
    "manual": false,
    "id": "9bfd1df757ddaa40"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asian currencies mixed as dollar holds highs, yen slips on BOJ signals",
+   "url": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
+   "published_utc": "2026-10-01T03:59:56+00:00",
+   "title_original": "Asian currencies mixed as dollar holds highs, yen slips on BOJ signals",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "665782e4570d8422"
   },
   {
    "source_id": "nhk_economy",
@@ -414,23 +449,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3fa15fd4839df6f9"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
-   "url": "https://www.investing.com/news/stock-market-news/chinas-tencent-leases-100000-chips-from-oracle-to-accelerate-ai-push-ft-reports-4926202",
-   "published_utc": "2026-10-01T03:18:33+00:00",
-   "title_original": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "000b3ba7fb978bb9"
   },
   {
    "source_id": "tradingview_live",
@@ -939,7 +957,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "South Korea’s Monthly Exports Hit Record as Chip Boom Rolls on",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeUlRNmZsd18xdW1FM3YyblM4ek9QaFVYWFNvWTZhUVdOalNEYnhTbnVySkJfSGtIR1Foa24yVzZFV2lMUDNWMTlySE1SdXdIM2xVNlZQMmplMzZOaGI5eUNZS0puRTB3SjBmVHQ5Z014NmJpdnQyR2hWS1ZLY0lBejFrdEpaRGdnU0JZV2pHTjAtd2V2TFh3bHN0OEJOZ0FpMGZ0c1l1ajJVREF4ZlNmc1daMWc?oc=5",
    "published_utc": "2026-10-01T01:37:00+00:00",
@@ -1406,6 +1424,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c427bb406382af5d"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "BOJ debated more rate hikes, scope for faster move at Sept meeting, summary shows",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdzJocjN0YVk0QkZXc0dZRUc5dWgwdHhOQmxBSWNsV0JfVnBMd2JIY0U0OGwzdnh0V0VjamtrWnhQeHNSTC1abDZraUI5OGN2MTFwZDBXN2tlakJHMWNqeGZVUWFUTVJIYzhiYmMyaGNET0NZYlFaTU5OQUJZUDBuS1VGQWZYMkotb2hCZm56UThuSEpjS2FycnZUcldzdTF1Vm43bG10eVQ0S3pWc1dmdkVkN24xZFZBMDA4?oc=5",
+   "published_utc": "2026-10-01T00:15:00+00:00",
+   "title_original": "BOJ debated more rate hikes, scope for faster move at Sept meeting, summary shows",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8d8f29f602c56cb8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2091,7 +2126,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "Brazil Beef Hit With 55% China Tariff After Filling Quota",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFRJajFYUUxyMkRmeGRyMmFSSEw3VE92V2phQWVPaEdKOEU4SFJmOHExeWtzck1HYm1DeFFDWkVMX0dhcnA2NmlidG5ZeWh2a1BJSWZIbVE0Vk1aN3VRTXcxekl1bzBOR29HMnlueDE2OEVwRGFMWTktbnl4S2cyX1lEV0xhd1d5eWJESVMtQmZDUnpEM3J3dS14bE5KTTFHaUwzUnpaRktaaXV1dUEzc28xb0s?oc=5",
    "published_utc": "2026-09-30T15:04:44+00:00",
@@ -3129,7 +3164,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHJwbTJwSzgzVDFaelEyck14dlFhNkF3MXpoQUJ3VEhlcXZ2bXBvMUw1ajdBSV9kQzVNNGY4WEc0TGUxRWVFNDBsSk5DYVdELUdNa2tETERRTW5XanR3WGQ1b0kwQVBzQTRIZUNzcDkxN3Vsdlc5d2xDSDVySlFWTE5CR2pObUZYX0N3MkxoNzhDS0VaWHZJc1ZvejRTZDQzY3AzMURmX3VhVEZ4bnNtYQ?oc=5",
    "published_utc": "2026-09-30T06:51:00+00:00",
@@ -3164,7 +3199,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "China’s ‘Mini Stimulus’ Seen Securing GDP Target, Not Much More",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQm1qaVhoWHdfY0duY25QYkp2SE1qZWFRWUVQMU92N1h2ZmVjbDFWTGgzQm5oQS10QWtTb0tSSmc4b2ttX3RGWDlaTmZuNzh5Nm8zOXdCZms1Y0RkMTJjcmxvNlNpaDFyaW9OVk41QVRuNFJSTXJXVlRGdTBrbVJCY3NfSnVzcTFYNUhBUmt5U2tnX1FHa0h2cWN6emdvM2kyQjlXcC1NNmVxQ0haQjFuTg?oc=5",
    "published_utc": "2026-09-30T06:17:00+00:00",
@@ -3250,7 +3285,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "China Repo Push Advances as Legal Issues, Low Yields Drag",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0JNOXlBc1ZlQmxHSG1VbjRWQUxrazU3dWVCRjlpd2NmUFBEYjVDc3I3cXRtdHhZTmlVenZwc2tBM2dMdnQ2NlRDNFRyODlSeTNvQTQweFM4N2xnZmtBQXY4cGZ0S09lbndWdWF2ZU9mTHEwblR1cThKSzc4SWszczZvT1N0cFN1a3JNeWpyazIzMFVBLXJpRjZrbUs4cTFDTWVxTVlGZnV3RXd0Z3cyNjUtcw?oc=5",
    "published_utc": "2026-09-30T05:39:00+00:00",
@@ -3437,7 +3472,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEV0aXVjTlZwRmtzSVZoMVRwM2xHa0x6ZU01TFdibDZWYkFEbERvczBTZHBPWGpTZ3gwVk1JMUE3dl9MWWluZ3NvOG9LWlViQkpLWHh5WGw5RnZTSTVINDRyLWpkYnY4eTVRT2lmU3BhVDlzWnhzY3Rjd2lGUnFTOW5nRGdTYXNCQW1KTlU3akpNTjZhOHNtLXFPd0RWYXJmOExoY1U3T1liRHk1TFd5TkZFZFU?oc=5",
    "published_utc": "2026-09-30T02:37:19+00:00",
@@ -3471,7 +3506,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "China Warns Broad EU Tariffs Could Disrupt Trade Negotiations",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWVwQVJDNndsTlFOelI3WV95T2tIQW9TeGluYkhFTHFmdncxanZDUW5XdmYzODBLTjhPUDQ3MEdIdktVVTlHaHdGZnVMSmxaMzE0Q2lqbDEydU4zMWg0VWhXYnlyMVc3X3ppdEJBOHFrSS1GZ2M0UjNJQW0tWmhxSWtUVTM1cDg2WTB3ekhzYW0tTUZHT1RZNkUyYlAycVRTM2hPb1pvR21fYktGMjFfcG5R?oc=5",
    "published_utc": "2026-09-30T02:26:00+00:00",
@@ -6375,7 +6410,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "US, China Release Product Lists for $30 Billion Tariff Deal",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejAwODBlZm1pdk5leVFwbHA2cnRWRkZXT2R2ejVDNjhtV01qb3ZFQ0hoMW9pWTVHN3dqOXBramZyY0RDdDJkMEQyUGRaVHh5QUFnak1SQ0c4dkp6aE5QYjdEd25ZMXFheXhRcmVXLXZJV1ZLNmk1MndtZ3FaNmNPcDNXSkxkV1Rvb2x6MmZBWVBvOV9rTmZMS0ljRENGWGY3d0ZFbFpTajZGVW1PZGdz?oc=5",
    "published_utc": "2026-09-28T11:33:29+00:00",
@@ -7486,7 +7521,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "newspim.com",
+   "source_name": "뉴스핌",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -7539,7 +7574,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "파이낸셜포스트",
+   "source_name": "financialpost.co.kr",
    "title_en": "First meeting between Deputy Prime Minister Lee Hyung-il and Governor Shin Hyun-song... \"Strengthening economic and monetary policy communication\"",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pbmx6ZHpRTWRFZjFaTnVMbTNHbjI3NVpXcmZUMGNNaFBTR1hUa1pPelBoYU9ZQU13WFFOWmlEZFVLalNoWjVpR0N1NHJ5VFIzSVFVbTdkODAxRTFyRTNSOFI1NXkzTGljTjdRZWFlYmNWQUFC?oc=5",
    "published_utc": "2026-09-28T02:43:05+00:00",
@@ -8260,7 +8295,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "직썰",
+   "source_name": "ziksir.com",
    "title_en": "The Bank of Korea's monetary policy is distorted by the rise in U.S. interest rates... Three major variables for the October Monetary Policy Committee decision",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRcXA4TnBNTU1FUDNZNXh6SzlsOERzc2RhNGluelNPTFJ2dkMtQnE0STNUX0NhWjVrTmxaMElNQ1BaLURZeHJJQVptSkdLbXZXT01ZS0lmRW1RV0NZUWtPQjVhRXZqZlVa0gFsQVVfeXFMT0gxbXQ1aWtvRkNMUzkxTENJT2JUeUpRV2lFWmkzdTE3UjFfQWY1UUJlOFVqYlZMMlI3cFU1akpzaEVDTkRxd0VsemZJN2ktWDRfbHowVFFjclA2OXRDSVJsUTI3WEs2SEhxQ3ph?oc=5",
    "published_utc": "2026-09-27T21:00:00+00:00",
@@ -8824,7 +8859,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
+   "source_name": "Bloomberg.com",
    "title_en": "Here’s a Comparison of US, China Readouts on Trump-Xi Summit",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTRRVVViYnJIa1VxRFNtZnlYN0R4V1M0aUVaTlJWbUJ2WmpBTDAxQ2ZjdnpRNVI0Z0Z4eW9FNHRnZzRJQjVXekRFNEYxREFXQlJGalQyUVFOb1lEck1FTktwRG1pWW9FdHlnNkd1WnN3Y1RFMXZScldyQUFzekRUSmdmdG5rT2ZKVEZMRzU0VklRX0xGaFhvdTg2ODdZcHAwQlg1cFV0SXhxbnEyeU13?oc=5",
    "published_utc": "2026-09-26T16:03:59+00:00",
@@ -51949,40 +51984,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dd6db06cb2e7d95e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea's Inflation Rebounds Above 3% — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20260901008983:0/",
-   "published_utc": "2026-09-01T23:20:00+00:00",
-   "title_original": "South Korea's Inflation Rebounds Above 3% — Update",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "12d85212fe08dad6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Inflation Rate Accelerates in August",
-   "url": "https://www.tradingview.com/news/te_news:580199:0-south-korea-inflation-rate-accelerates-in-august/",
-   "published_utc": "2026-09-01T23:18:12+00:00",
-   "title_original": "South Korea Inflation Rate Accelerates in August",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5463e2f12cd1c29e"
   },
   {
    "source_id": "manual_ia",
