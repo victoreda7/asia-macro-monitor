@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T21:32:46.421646+00:00
+Última coleta: 2026-10-02T21:42:46.182173+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1290
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] What will happen to the relationship between Prime Minister Takaichi, who was supposed to be a ``reflationist,
   - [japan] One of the reasons why the yen continues to depreciate is the Bank of Japan's "fiscal subordination" issue, an
   - [korea] Trump pushes South Korea on $54B Alaska LNG venture, warns of tariff hikes
   - [japan] IBM/GE → Unemployment, Entrepreneurship, Publishing, National University Professor's ``University Professor fr
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Collateral Accepted by the Bank of Japan (End of Sept.)
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [korea] Ministry of Finance and Economy ◇Promotion of Deputy Director △Public relations Officer Kim Young-h..
-  - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3287582.16, Implies 79% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T21:32:46+00:00",
+      "published_utc": "2026-10-02T21:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
