@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-02T00:22:45.905932+00:00",
- "collected_at_utc": "2026-10-02T00:22:45.905932+00:00",
+ "generated_at_utc": "2026-10-02T00:32:44.279888+00:00",
+ "collected_at_utc": "2026-10-02T00:32:44.279888+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1298,
+  "japan": 1299,
   "china": 780,
-  "taiwan": 248,
-  "korea": 674
+  "taiwan": 249,
+  "korea": 672
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T00:00:30+00:00"
+   "newest": "2026-10-02T00:24:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T23:52:05+00:00"
+   "newest": "2026-10-02T00:19:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T07:04:50+00:00"
+   "newest": "2026-10-02T00:19:05+00:00"
   },
   {
    "source_id": "ked_global",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-01T22:39:17+00:00"
+   "newest": "2026-10-02T00:21:05+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,6 +344,42 @@
  ],
  "items": [
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNmpVSDRzNGJ6YXhXTVJtS3JPYkxBOU16ZnhpQTZDeFRqR2JIWlFvYlRwLXJYSU1DZlNGMkt6OU9LLXU4QjFyOExnbWFuZG1SeC1VN2FlOFhybF9TalY4Vi1wV2lxbmhycTBWQ05Dczc3d0M2cHFkX2hpRFhyMGRHa0REM2wyc0pZSF9RclI3dWk1U0F2ckUxQWtRNlk5Qm5FSk9xeXV4ZlhkUU9HNVVfUW5JNktOc0txcFZCMEZ6OF9hRmFwa3hfUXdJZUV0VW8?oc=5",
+   "published_utc": "2026-10-02T00:19:05+00:00",
+   "title_original": "Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "06a5f0d7e69e92fb"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes",
+   "url": "https://www.investing.com/news/economy-news/tokyo-core-inflation-jumps-in-september-bolsters-case-for-more-boj-hikes-4928698",
+   "published_utc": "2026-10-02T00:18:52+00:00",
+   "title_original": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "624f7b6f727fd130"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year",
@@ -359,6 +395,24 @@
    "live_wire": false,
    "manual": false,
    "id": "b02a52bcc777dc24"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes",
+   "url": "https://www.investing.com/news/economic-indicators/tokyo-inflation-accelerates-in-sept-strengthening-case-for-further-boj-hikes-4928711",
+   "published_utc": "2026-10-02T00:08:43+00:00",
+   "title_original": "Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b686f5eb0f4b30f9"
   },
   {
    "source_id": "tradingview_live",
@@ -565,24 +619,6 @@
    "id": "06ace17224d4dabf"
   },
   {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Tokyo core inflation jumps in September, bolsters case for more BOJ hikes",
-   "url": "https://www.investing.com/news/economy-news/tokyo-core-inflation-jumps-in-september-bolsters-case-for-more-boj-hikes-4928698",
-   "published_utc": "2026-10-01T23:48:26+00:00",
-   "title_original": "Tokyo core inflation jumps in September, bolsters case for more BOJ hikes",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b272e7c18136483b"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "US long-term interest rates hit the highest level in 24 years, with mortgage rates in the low 7% range",
@@ -667,24 +703,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f364c06638dc9e4b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45M0C3:0-tokyo-core-inflation-rate-jumps-in-september-bolsters-case-for-more-boj-hikes/",
-   "published_utc": "2026-10-01T23:40:54+00:00",
-   "title_original": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d49aea342ac4b199"
   },
   {
    "source_id": "tradingview_live",
@@ -1300,6 +1318,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8c2572500f737e46"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N0J1:0/",
+   "published_utc": "2026-10-01T13:06:02+00:00",
+   "title_original": "EUA reduzem exportações de peças de aeronaves para a China, enquanto Trump busca obter vantagem nas negociações comerciais, segundo fontes",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "94f580ec9d66e84b"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2692,6 +2727,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e792bb81e0f782e7"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AWS Trainium 3 shipments stall as supply chain sees turnaround",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVFgzcU8tc2c4Qk1LeXU5a0RXNS04cTk1Z19iUHd3c1RUZlRjQWQ3NkRtcnZyWnJtZDM0NVFsYXRPVkl2Ylk5XzNTMWVVMXd6U0M4NnR4NnpESkl1T3Q0VDJKUGg1ZkRnVEdDcW9BUHNMYkZMM1d4U0g1ODcteTVBUi13V0dqMTEwQXlxR21CemFRLUl2YVE?oc=5",
+   "published_utc": "2026-10-01T01:14:14+00:00",
+   "title_original": "AWS Trainium 3 shipments stall as supply chain sees turnaround",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7402f44032f1bcda"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -6699,7 +6751,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "리드경제",
+   "source_name": "leadeconomy.co.kr",
    "title_en": "The Bank of Korea approves a monetary and credit policy report containing the background for raising the base interest rate.",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUTUtHQXhVdHBJVmVackY1cXpQVXY2TFZwU29RR3Q3YVZsZVpOYmdEREs3RzNHOWtPVEg4cXozZ1dObGFMd0wwQUhxcWVRY2I3QmZOa1FlV2tGMHF3R0s5clZ2dTN3YXh5TkhJWmtEdw?oc=5",
    "published_utc": "2026-09-29T07:05:00+00:00",
@@ -7184,7 +7236,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "businesspost.co.kr",
+   "source_name": "비즈니스포스트",
    "title_en": "Foreign media reviews are positive on the pace of interest rate hikes by the Bank of Korea, “leading to a natural soft landing”",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96ZFluMDViLWNvcUQ1T2hDcWI0SjZLNjFGOEh0TlRsZE5WQ0JEanJ4dDRtUWd6Mm9VZjlIdTBRX2hIUkZLM0hiY1doMnZhNEVDZ2V0bFQ5QUI2NUcwWkYxTTU1QldqcUtNemtZaVFhZzZUd3M?oc=5",
    "published_utc": "2026-09-29T02:15:19+00:00",
@@ -10535,7 +10587,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "MTN 머니투데이방송",
+   "source_name": "news.mtn.co.kr",
    "title_en": "Even if the base interest rate rises, the deposit interest rate falls... Savings bank’s ‘Chuseok special offer’ also disappeared",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pQkpsamFEZ2I1ZzJtSlQtLVh5WnhSNXZXY2R2dnNCREtDV3JVeTRDWGVlOFhkeUVTTGVkTEpZSkwtdlBMMkVjOHY0eGxIOC1BbVhaUHE0T3djM3E4dm4ycE8teS0?oc=5",
    "published_utc": "2026-09-27T00:02:01+00:00",
@@ -51909,58 +51961,6 @@
    "live_wire": true,
    "manual": false,
    "id": "44db8756dd97c772"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "bihainews.com",
-   "title_en": "[The central bank's reverse repurchase operation net withdrawn 103 billion yuan today]_Futures_24H News",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDcmxVWHdEZl9sWXlQNFQ3cUJuNjlkZmhNRktLZFB0Z0RDTjlhb04xU0JEemQ1SzFCVndTRXNlX2h6VlB4NjdlSWRyak1jQnNZb0FiMndMblpQbHVSM3hCbDVoamc0Zw?oc=5",
-   "published_utc": "2026-09-02T10:25:03+00:00",
-   "title_original": "【央行逆回购操作今日净回笼1030亿元】_期货_24H快讯",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "19feffd82a8bcd9c"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "B world",
-   "title_en": "Daegu companies 85% base interest rate increase ‘negative’",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5STE8zLTZIcGYtUWpIY0czZlctOFlya3kweTB0RGxQODZfNmh2Q1ByME9sQWtCb085cTh6VnlxREp5N3ZFWW52YWhOMWp5YTJFVzdFT0ptdnZhZkVWMTBCMktTSGpnYmloU0hETU5IckQ?oc=5",
-   "published_utc": "2026-09-02T10:01:19+00:00",
-   "title_original": "대구기업 85% 기준금리 인상 ‘부정적’",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4f0bf769aafc0094"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "BBS불교방송",
-   "title_en": "[Economic Odyssey] Bank of Korea's aggressive interest rate hike... What should we do about 'debt'?",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wdjVrTFRCSWNfNWlIZVhSZXRPRDVMT1dSQ1YzbEpKUW85Q2lTOV9zdko2VDV6eEI4MTVScTZyYm9nNTJJSDlTSTY1VjZGWk9mZXVONGNmUHJheU9jbTM4ZzRhOEw4WVQ4d0c4?oc=5",
-   "published_utc": "2026-09-02T10:00:00+00:00",
-   "title_original": "[경제 오딧세이]한국은행의 공격적인 금리인상...'빚투' 어떡하나?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1cc471332de63db9"
   },
   {
    "source_id": "manual_ia",

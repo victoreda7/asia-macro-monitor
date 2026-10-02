@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T00:22:45.905932+00:00
+Última coleta: 2026-10-02T00:32:44.279888+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1298
+  🇯🇵 Japão          1299
   🇨🇳 China          780
-  🇹🇼 Taiwan         248
-  🇰🇷 Coreia do Sul  674
+  🇹🇼 Taiwan         249
+  🇰🇷 Coreia do Sul  672
 
 ## O que já está no feed (não repita)
 
+  - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
+  - [japan] Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes
   - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
+  - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes
   - [korea] SK Hynix Stocks Gain 3.2% as Supply Contracts Reprice Memory Scarcity
   - [korea] Key facts: Samsung Electronics (005930) Q2 memory record; HBM4E samples
   - [japan] Prices in Tokyo's wards rose 2.7% in September...an increase of 2% for the first time in eight months (Yomiuri
@@ -30,13 +33,11 @@ Total: 3000 manchetes
   - [japan] Tankan (Sept.): Comprehensive Data Set
   - [japan] JAPAN AUG JOBLESS RATE TICKS UP AS JOB CUTS/RETIREMENTS, QUITS FOR OTHER WORK BOTH RISE M/M, MORE PEOPLE BEGIN
   - [japan] MNI JAPAN AUG JOBLESS RATE RISES TO 2.5% FROM JULY 2.4%
-  - [japan] Tokyo core inflation jumps in September, bolsters case for more BOJ hikes
   - [japan] US long-term interest rates hit the highest level in 24 years, with mortgage rates in the low 7% range
   - [japan] Nikkei May Decline Amid Concerns About Higher Energy Costs — Market Talk
   - [japan] JAPAN AUG UNEMPLOYMENT DOWN 20,000 Y/Y AT 1.80 MLN, DOWN FOR FIRST TIME IN 13 MONTHS AFTER BEING FLAT IN JULY 
   - [korea] South Korea September inflation eases to 2.9% y/y, matches forecast
   - [japan] JAPAN AUG EMPLOYMENT UP 140,000 Y/Y AT 68.49 MILLION FOR 1ST RISE IN 2 MONTHS AFTER BEING FLAT IN JULY
-  - [japan] Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes
   - [japan] Tokyo Core Inflation Rises Above BoJ Target
   - [japan] JAPAN SEPT TOKYO CPI: PROCESSED FOOD +3.6% (+0.83 POINT) VS. +3.6% (+0.83 POINT) IN AUG
   - [japan] JAPAN SEPT TOKYO INFLATION ANNUAL RATE JUMPS AS CITY’S FREE BASE WATER CHARGES END AFTER PEAK SUMMER MONTHS, D
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China and Russia Just Tightened Fuel Supplies: Will Bitcoin Pay in October?
   - [japan] "Constructed at a cost of 4.9 billion yen → Big deficit due to declining popularity → In danger of closure"...
   - [china] Chinese state funds backed purchases of restricted Nvidia AI chips, report says
-  - [china] China shortens leash on property developers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T00:22:46+00:00",
+      "published_utc": "2026-10-02T00:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
