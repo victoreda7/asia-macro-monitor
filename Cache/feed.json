@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-02T09:32:46.109266+00:00",
- "collected_at_utc": "2026-10-02T09:32:46.109266+00:00",
+ "generated_at_utc": "2026-10-02T09:42:50.198429+00:00",
+ "collected_at_utc": "2026-10-02T09:42:50.198429+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1289,
-  "china": 784,
+  "japan": 1291,
+  "china": 783,
   "taiwan": 247,
-  "korea": 680
+  "korea": 679
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T09:23:43+00:00"
+   "newest": "2026-10-02T09:38:37+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T09:13:53+00:00"
+   "newest": "2026-10-02T09:36:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T09:23:43+00:00"
+   "newest": "2026-10-02T09:24:51+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-02T18:05:43+09:00"
+   "newest": "2026-10-02T18:35:29+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-02T17:33:00+09:00"
+   "newest": "2026-10-02T18:35:01+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T09:31:40+00:00"
+   "newest": "2026-10-02T09:42:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T09:18:29+00:00"
+   "newest": "2026-10-02T09:38:39+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,60 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Japan finance minister: Government united in view reflation is over",
+   "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-finance-minister-government-united-in-view-reflation-is-over",
+   "published_utc": "2026-10-02T09:42:48.993698+00:00",
+   "title_original": "Japan finance minister: Government united in view reflation is over",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d04e0524b4f2b794"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill approved at Liberal Democratic Party joint meeting, with calls for clarification of support recipients",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261002de53932",
+   "published_utc": "2026-10-02T09:35:29+00:00",
+   "title_original": "消費税減税法案 自民合同会議で了承 支援金対象明示求める声も",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b3da192161fc99bd"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
+   "url": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
+   "published_utc": "2026-10-02T09:24:51+00:00",
+   "title_original": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3b636fb68d9f815d"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -534,7 +588,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "In Focus | How US sanctions forced Xinjiang’s cotton industry to build a survival model",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWhNS2JiNlFPVnpqQmZPY1hDM3c3V0NQX0tjMGg3LTRhbXRvSzFDMnJZQWdQLVVZU2VsMG1JcGxWS2FlaDFUdnRpM1JCTU11aVVFUXVrODBISFFlYmVZNXlZbGVpem02YmJrWUhXY3hValg4YkFGM19hMnY2MXB0UUVZUHljVVUzOUtsMlhPczhxcE5nZTJiUG8wNWVEQldaNXkwT3htamJydDZIM1pPRHhQeEVfVGZuNEFDaQ?oc=5",
    "published_utc": "2026-10-02T07:05:46+00:00",
@@ -931,25 +985,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b193afa84847f49e"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Dollar rally stalls ahead of payrolls test; yen firms on strong Tokyo inflation",
-   "url": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
-   "published_utc": "2026-10-02T03:36:20+00:00",
-   "title_original": "Dollar rally stalls ahead of payrolls test; yen firms on strong Tokyo inflation",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "47b9e7f37a86676b"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2447,7 +2482,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "EU retools Trump trade war tripwire into China shipments surge alarm",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUtGWWcxdDllX3lkaVI4SjV5Qk1DS0F3QzFOZHpReEdtNEhvUjZlU3hQNkZIQXFHSUZwVldIamlJVjE2emdFcHl0SXd4ZUdPcThXWU9YZV96LUtpQWdYNFRiVmZDbGhSbFAyLXZFMVkycVNncl9sY3ZmWjRDamlHODR1N1VuZFBId2ItWEJ1YTlLdkwzVXBadG4xM2RhS3k4UnJqRi1KUzJ3ZHZyRGpUNnV0akFaZVRNOHUwWEZB0gG-AUFVX3lxTE5FelJ1UEtneFlrd2xSbHdPVzg0emF0bUlTZHJhdzJtdWZBdkw0cy1yd3pNNlVDdEpEMDhzWWVoaWpRUEQzMl9CaWRBSk5hOFZhQzlrWmRYbGFLd3luYUtSeEtVWGdFSUNSZ2s2U3ROTHN4YmJkckhxdFBDUERHNG40YlZEQTlQaG5ET1ljNDFLTFJVT2l0ZXF1TFprM05paDdkLUxlQW1JU1dxdGxyVnBqOVFMVzktRWlHVUxKd0E?oc=5",
    "published_utc": "2026-10-01T13:20:16+00:00",
@@ -4871,7 +4906,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "Brazil’s beef exporters hit a wall in China as 55% tariff kicks in",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUJNcWdqaS1sTUh2Y0g3WHdxYnV1WXdBcVVqd1NfRkdNTmdKaE5yNmw0MkdCSFNXRHZaU2dUVGtsRXJ6M2kwVlNWS0t2WlVnSGdzMDhxNnVyRkRwVjhXOV9ETkl4WlJnSEtkR3ZiLUdmNXBhckpTaTdzRW1JeWUwVzFhanhrNjhVNDJPbU5tekFjdnhKRGVYcDNrcnNjNnNuWHphTVkxMDRIOUNaZi1kRDJ2TzhQaU5kakRNaWpmOHcxYzROcjBoZlo5LVp5Z9IBzgFBVV95cUxNTGpIYUo0WEZOR1dxLURNaTJLSE1CcG8yMkNLQW9lTFhvXzlyWF93N0I3TkxIaGN6ZmZ3cERUaHBqQmMwSTRYWHZaTHhMYV94ZS1YTG9YVGx0VDVlVV9ZMHhGWG1VWmd2bTlUQzU1VEhldS14blNqYWVEaHJXVHhmUEllaGNBaERDSy1sTzJEWFRTVzhaWjJlZmpJTTVMMVlmQWg3d1JPdFBUZEVMX0hCU2xrd005cGhjWmRMMnFJeWlOaTBsaG0xYlNmUFZBZw?oc=5",
    "published_utc": "2026-09-30T18:07:56+00:00",
@@ -5060,7 +5095,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "Has the US-China tariff deal eroded Southeast Asia’s edge as a factory hub?",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGpUcUd1VlJrZkRrQmh4ZmtrWDZEblRtSi1zS2NKRjE3c0RRZVVzRzJlM1F2ZDdpUEhoNkJQU2FhdUVYUlVGakQ3VGhFdHV5Z2piWU1OdFlYMnpFX0ZydFV6RzBqTkJWUldTUF8zSEdiNjNWOVRPNzIzYWpaeUx1NHZuQ2dHZl9EV0RmYXRfZ25PZVdXVkdzeEpHQ0F6cFBQcUN0ZUxUNHNXZnpSc3RiRDBtaEMtdFo0TjRV0gG7AUFVX3lxTE56c0lMSkhSWFNyeVpfLXJDU2ZPbjNwaDk5VDJ5eVQtaEJEN0pWS2RERzRsVS1jMHREOGVSV3JUTVhxRmQ5XzdlcGkxWUpCTmtnR1drY1NNTkNRbHlRbjFPcHlNQ1BKZ3FpN1dQSmN3UXJOcDBnUmFFclNuQ1BUVzkxQkh4MDZDc3l4ekRXYUE1MGxBa19GSjN1a3Zvbk1KRC03U00tZzVYUWxacXZUd010V0p2X3hTa28wN1U?oc=5",
    "published_utc": "2026-09-30T14:11:54+00:00",
@@ -5353,7 +5388,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "China to further boost domestic grain supply as US soybeans excluded from tariff cuts",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZzJOTXB4dlRJMVJPdTlRTUJ6ZkdiZVRXS2c2NHQ5SEljQzNXZTYwOEl5RS1JeGdPem9vazlBbkt6X25zZHVYbEVKTnhjZEZqcW9NMjRFRXZhSVhwemhMM3R0U284aF9OV2lzUnUxdkVjeTF2R0tRTkFmclBBQlFjMWFJRUhDVjhqYnI2bWptYVo5VGZqZEdqbDJud3A2YzRYUC1QRUVEd01WNXZScHRIR0NELVNKUWJwVlFYTWctdFlMcHFjUTdRcWJ3SjhCbHctMW5vci1B0gHWAUFVX3lxTFBqbmpZeFE5VEFfQXpuMUd0VUw1cm1hMmlLNXRnamtBNFlrQXdyem8tTE03Ym5OR3VxVGRTdVBBa3p5UE1xaEZDODhVU2xEekpreTZsS2d1YjRRTVl0aDJmbzNVYzFXakZobGhLQnBJTFFWVHd4THd2MDNYX1hsWjFnMTZOV2VXUVpFeE9kZVZsZWpGclhMamtyNUlzX1hLT1NzaDB2LUMzYThMSkgtQVV4Vk4wanpTMHZveW1iSzdmWVRhbkhyOXZ1S0RWZDBGeHJFbEI4UVE?oc=5",
    "published_utc": "2026-09-30T11:00:06+00:00",
@@ -6254,7 +6289,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "guandian.cn",
+   "source_name": "观点网",
    "title_en": "Standard Chartered does not rule out the possibility of central bank cutting RRR",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RVXJ3UHFEa21BR3hEVFhaSnptYVNDdGpWMjBoYlhrbC11R2VrRTFjenNXY3Y0bDFrRVVEUlRELUJXN0JzWDA2eFF5UG9XZw?oc=5",
    "published_utc": "2026-09-30T03:56:15+00:00",
@@ -6339,7 +6374,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "조선일보",
+   "source_name": "chosun.com",
    "title_en": "Home loan interest rate highest in 3 years and 9 months... Credit loans exceeded 6%",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFFDTzIzaFJzTlhQa2M1aFlUOThDOWIyY1gycXZ0d2FEN3pBNWw3MUhzSEVrVmpxSVNkZXROYTdoSGNyVU1MaHh3V0VVb1JjRFQ5bzJ1ZUN1WUhJNGJ1dlFWNDBEQlQ5NDVaSlFkM2pKTUh1amN1SkUyRGpMblZLa3dZVzlHVVhwZVpOdDBB?oc=5",
    "published_utc": "2026-09-30T03:07:25+00:00",
@@ -6459,7 +6494,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "‘Hiccup’ or ‘stall’? What rising interest rates mean for Hong Kong home prices",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXNJOGY1OUNFWDB3blduVDRfT2hycUY3WDlPU0tTcVpCQzdwMENUM1psLWprbXB2Q0NuenRYaVB0cG1MTDMyTWh4b25fZVVMam5vaW05RUdhQ3p4S2ZHZjRiblJGNWE3QUc1VnJ6c0lFYWJHN1ZGS3dsRHRUSWpZUnNlQTBZYU5RYXg1RUw2cktEbWlBcmRLSVRRUHRmZW81cmRMRHpjNE5xbGZvUy1PRDZod1dBQkt4b1RaNWZPNDLSAcABQVVfeXFMTWFVRWlvblBNOEEtMU5lenkyYWxadGF1LWoyVXQ5dkxpVDJLSWZoN2pkdFN3dThKeDA5Rk00dFNCWVFIN2dOdi13Nmd6MVNPaFFKRURRVzlMcU5jTVJ0VWVlSG5ScTRwZXRCb3ozS3B6LS1tNUVPS20xUEk3OXRMZ3QwTXBObnQxWlpJaEF6bVUxbTJkZjRoQ3FJcjk2WlQyb2pZd1N2LVdNeURsV2ZrOFlIYXpiam1xNW42OU5yX3Zw?oc=5",
    "published_utc": "2026-09-30T02:02:57+00:00",
@@ -7665,7 +7700,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "Opinion | What trap? US-China relations show conflict is far from inevitable",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcEt5aWpuOVhGQzdKWFR1QTJEZk9qY1BvbXRqRzlhTEhPUnpJamkwdGctbHc4VEdXMV9PaEMwMGhFVzVGZFFMd01sT1o2c05tS195TU1hQkR1YlZWTV81M2lnRjVld3dlNUhSbnlwNWRzZW9VZjBjRkZKWE0xeUJIX2lKdE1Ud0tBU0UxVjE4NTdDc1U0TmRFTlFDTVBTMjZTY0lfV1V3U1dFZF9kVGVHQXQ0Vk1UcVnSAbcBQVVfeXFMTlR5TXM0TXZNMmVNR2pTaWk3VF9PTjJfQnQ3SEpCZkNBaEoxcEFERVZzSVZBZVJxa0ZzUEVjVVdkaGJJNjRmdVBVS2ZWTnBzV1lkd0NiZFJPQTg1cVNLRVg3TlE3REpIR0VzdUsxT2g2N0xCRGFoN1lnOFptb3lUalZMN3FqRWdSc091SnE4b3FFT1R0YTEyb1hIcHYwWUpKdjdPZm1HLXIyVzVvX3pxV0dQYTdBZHNJ?oc=5",
    "published_utc": "2026-09-29T12:30:06+00:00",
@@ -7770,7 +7805,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "China cuts key interest rate, offers mortgage subsidy to boost economy",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkhvV0RfZkpsd2p3M0RtenREZThrZ0lSQ2tGbUxzSGdDckI1LWV4eE9ETllGZi1UTVNPZmd3bUpKeGhQenZMQk5LS3NnLXNJbU1SV2dNQThGdFBiRWo1NzU3Mnd5ekhqV29XSnBYZlBGNWRoZ1NSaGcweC1sTHJoSkRSVTM3RTBaclE1dnZVdmpBUzg4bHlaa1NFQWQwaVBtRDRJQmFLT1YyNGRGMVNpaUlvdV9PUdIBtgFBVV95cUxPdWpaN2ZRRUNjUnJncUZQNEZPRUI2Z3FuNkxQM0oyVFdEUzV4MklreGQ4WlhUNWZYNTcyZmVpa3M4QjlmazI0VlNNQ3Q0V3Y3TzRoWHV3SXdFZEdjXzU0RnRQSEV4UXVSLXJoVWZYcTRVX1Jlb0JWWXMydC1nbmFnTWZNa3RYWVFTd0xZSFRqOVNQVzZudEtrTWtMQ3o1Vzg2VDRYeVo4bkdLdTlrNjh6MC1MaHh2Zw?oc=5",
    "published_utc": "2026-09-29T10:11:00+00:00",
@@ -8345,7 +8380,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "China asks local governments to ‘intensify’ policy tweaks to boost consumption",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUJEUFFQQkRWSmJoUjdHT2R5QmRTdThBR2tGSG1jZnZsM3o4bU9saUo1NW43allUbmszSW1zMHoyb3pUODR2Y0tnWm13WjhibVNfZGlOT0E5TGFFekkwT193NE94bUFtOW9xWW04VjRTay1WemtsNnRnMmlEV2ViaFFKN3JRbnV0b0JIcXhkWUdTeGt5ZUtfM01nWFNLamo1Yk1BWVRudVFncFpwVUtXWXpNdjJxTmpUT21fTWJuRUNCQ2RXamFsOFVOd2tYZ9IBzgFBVV95cUxNUURfbVJVR3BmSEZId1ZUQkNCb1JZaWdiYmY1Q3pZTnY3RXNtNGsyX3A3NnhMRDZZbW1SZDRlWld2VTFoVzRJRHpNcHp4M1FlSUxUM1E2d19Rd25ERU9JdGc0dVhDZWlaNk5QaVRkU1hfVnNuVE01cExDRFg3UkU2VmxCY2VvZ3RlWjhsWWhTcDY1LTlFR3FjOFpfNjhCMEpvQnlMZHo5YXc4cHVZekQ0UVJBT2VTcF9WbVc4Nk50VS1NbWxvekVTZkZNZ3dCZw?oc=5",
    "published_utc": "2026-09-29T03:07:07+00:00",
@@ -9693,7 +9728,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "guandian.cn",
+   "source_name": "观点网",
    "title_en": "The central bank launched three-term reverse repos on September 28, with a net investment of 439.7 billion yuan.",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5NEQ4c29NZWpTSTNUamxVOGsxRGJnN1BrTVhycks0cHRJdkdFQTlvdEVSTVI4enZweVpMYm5jQjd5MWhrTEJMYjBUWm1VZw?oc=5",
    "published_utc": "2026-09-28T09:00:37+00:00",
@@ -9989,7 +10024,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "US, China slash tariffs on basic goods – but leave rare earths off the record",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkxUMGphZ2ZwYnpUbzUxUUd2c3dER01QeDZNZHFmQlEzQmJSMllMX0FvYmpkSnp0YWhOYlhhM1BHNWM3bjZ1RllpNmNoOFd5UXdIRWRKc2lXVWQzWXp1Vi1wc2ZjV2cxa2dHS25NMDh2UTF0VU9BUFBRU2QtRUlVako1cE1sY1FHYXZrSkhkcnYtQVJYc2NVMC1CZlUtWFVPdzdtaU1zRW1Nend3dWs3V29QblBqcWlZOFc1dlVyT3BDNTBoZlRmUHpKVk7SAcwBQVVfeXFMUE5ib3FJaFRzM1JnR3l4eG9UM0FUcVlPNy1WSHI3S1FJVm5xYTdVR0V1S3AzLWpxQzVZZE1MQjZtSjdITU5ESU1KQTZacnNweEptdDl5TGJJTVpJSEIwcUUzckdmSVpIVTNjb3hjanJUMlQzbnpQTWs5b0xVYUl3NjlnS2l5bm1nT2lUQzd3WnNmd0wzRXFiU0J4cVZGcko4dnltVXpfYkpwWXcyMW9fVmNKWTRrTjZIRjZvSFo4WjdlWDlXM19zek05aGJh?oc=5",
    "published_utc": "2026-09-28T07:00:36+00:00",
@@ -10318,7 +10353,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "뉴시안",
+   "source_name": "newsian.co.kr",
    "title_en": "Deputy Prime Minister Lee Hyung-il and Bank of Korea Governor Shin Hyun-song first meeting... Strengthening economic and monetary policy cooperation",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSFkzTTk1UHFrR28tSnFPTkVaSE9pX0hqOWNEcFg2MUxTYjZNR0tnNDdoc0MxTzJoYmlkbENKenYyeHA1MWhOZGlPTGU3ZlFaQzJ3U3EtdU5nVXpNdXRoa1hTeDdDVU9jNkHSAW5BVV95cUxQeGNUYUNGQzBlcEV6VjZkSlIwLXN2Qkp0Q3A5VjVrdThNaUdSUTZXa3ZZaEc1NDJQUVVjWW02WXE0RTNETVR0eTZlaTNpSjBrWUV3M1AtVU8xQ2RTLUduV2hzSmUtMFFsN3hySWVndw?oc=5",
    "published_utc": "2026-09-28T05:00:26+00:00",
@@ -10423,7 +10458,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "OhmyNews",
+   "source_name": "ohmynews.com",
    "title_en": "Meeting of the Big 2 in the economy... Anxiety in the midst of growth, a test bed for fiscal and monetary policy cooperation",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Id1NqYnQ1LWRodS1Da2lSdFFmeWU5SzZMWXJ0OWwwdUc1dW9XTmVGUjRMSE11eXcweWs0OU9wUXA0bHNDcGRCUzU2N0VoQVhEQmI3MDdjazMyTDZUZXZwZVpXb0dYRDkzLTRWMW1fVDItSHdZU2hr?oc=5",
    "published_utc": "2026-09-28T03:41:00+00:00",
@@ -51926,40 +51961,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d7d720531ee9ef5c"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "pulse.mk.co.kr",
-   "title_en": "Samsung Electronics, SK hynix gain as U.S. chip stocks rally",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TQ0VRUE9kNUh4WkZkTmlKdjB5alhYREtqYkUwblBJTXBady1Tc1RtMU9lb1dPRmRVQ043N2RfdnlZdU9SQTZDOVJQeUxQTEdGcnRna1duZw?oc=5",
-   "published_utc": "2026-09-03T02:09:32+00:00",
-   "title_original": "Samsung Electronics, SK hynix gain as U.S. chip stocks rally",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b9e2e2348f611968"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China services activity quickens on stronger domestic demand, private PMI shows",
-   "url": "https://www.investing.com/news/economy-news/china-services-activity-quickens-on-stronger-domestic-demand-private-pmi-shows-4886924",
-   "published_utc": "2026-09-03T02:00:28+00:00",
-   "title_original": "China services activity quickens on stronger domestic demand, private PMI shows",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "164124b32bdbf560"
   },
   {
    "source_id": "manual_ia",
