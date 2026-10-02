@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T04:42:45.774479+00:00
+Última coleta: 2026-10-02T04:52:43.887747+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1294
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
   - [japan] Japan's unemployment rate rises to 2.5% in August, above expectations
   - [china] More aggressive China stimulus unlikely for now, BofA says
   - [japan] <Clearly emerging trends> In the past five years, when inflation has rapidly increased, what and how have hous
@@ -35,7 +36,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics, SK hynix trade near flat after trimming losses
   - [japan] Toho, the largest commercial food wholesaler, has revised its sales forecast upward, but profits remain unchan
   - [japan] Japan power semiconductor deal stalls as Rohm, Toshiba, Mitsubishi haggle
-  - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
   - [japan] Tokyo prices rose 2.7% in September, reaching the 2% level for the first time in eight months (Kyodo News)
   - [china] Hangzhou Great Star 3Q Earnings Likely Weighed by Yuan Strength — Market Talk
   - [korea] South Korean Shares Edge Lower on Inflation Concerns
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T04:42:46+00:00",
+      "published_utc": "2026-10-02T04:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
