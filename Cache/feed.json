@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-02T01:02:50.167827+00:00",
- "collected_at_utc": "2026-10-02T01:02:50.167827+00:00",
+ "generated_at_utc": "2026-10-02T01:13:20.595413+00:00",
+ "collected_at_utc": "2026-10-02T01:13:20.595413+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1299,
+  "japan": 1298,
   "china": 778,
   "taiwan": 250,
-  "korea": 673
+  "korea": 674
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T18:36:58+00:00"
+   "newest": "2026-10-02T01:04:04+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-30T05:39:18+00:00"
+   "newest": "2026-09-30T05:38:21+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T01:00:28+00:00"
+   "newest": "2026-10-02T01:10:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T00:30:24+00:00"
+   "newest": "2026-10-02T01:07:39+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-02T09:00:00+09:00"
+   "newest": "2026-10-02T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T00:00:25+00:00"
+   "newest": "2026-10-02T01:00:14+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Opposition to the Bank of Japan's interest rate hike decision (Hiroyuki Kubota) - Expert",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjZJVzBGZXU0SlIyWlJTQ1ZrckdjZ3NtaEFwY2k1elNLaE8ycGRFalBDUDFmMFBuR3d6Q0pYWWYxY0VnN1R6ZzUyUGRWNmxFOWVjcHRYbE9XWHlpYUdacGlXMEg0dm9GZXQ3eDVsMFl4YTdKRjdFcjNVZjdVRGU3TlFIMTRSSzA4?oc=5",
+   "published_utc": "2026-10-02T01:05:31+00:00",
+   "title_original": "日銀の利上げ決定の際の反対意見（久保田博幸） - エキスパート",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "97cce119cba9a4df"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tSS1pT2t1Y1JNNzd2RzBjSEFkZ0QxVEF3V3pETVJZZGJsX0w5RmQ5TmRXRzVaREdUX3hHZmY5d01oU0VvVmZPYUFNRDJ3bmtJSHEzTmtnWndGbXFQNldTQVNEOWl0RzR6R0E?oc=5",
+   "published_utc": "2026-10-02T01:04:04+00:00",
+   "title_original": "South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2a97d0571c08444d"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -379,7 +413,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "[Tokyo Foreign Exchange] Dollar, low 157 yen level = softening due to strong Tokyo prices (9:00 am on the 2nd) (Jiji Press)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WGJMYnFLX3hwY3BBNURadmFMQkRnWVU4Z0JkRTQwNzFINDBSQ0xPUldUYkRwNE1Va2JqeWpUbks3ZWoyOHMxa0Q3NE9HeWo0emVoQVZiUXRxMTBaWGxBOUJwYWJIampKR1F4Qnc5dmQ1aW95UlZaM0Q1V0FfQkU?oc=5",
    "published_utc": "2026-10-02T00:30:24+00:00",
@@ -502,7 +536,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Prices in Tokyo's wards rose 2.7% in September...an increase of 2% for the first time in eight months (Yomiuri Shimbun Online)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55dXNHNGJaWTVWWDE3LVVuZ25TRkNJSTI1QzZxLUpqMHhoSEp5ZW9lbHlZbTJqcklUWHljdHNXRHN4bUNXTmtyZ21QTzQtVXlBQnVVSWV2TlAtOGJrM0MxcEp5ejhuSXh3Q01lc3NIakVRelAwYWhVd3B1cXRKVWM?oc=5",
    "published_utc": "2026-10-01T23:56:47+00:00",
@@ -519,7 +553,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Tokyo prices rose 2.7% in September (Kyodo News)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BaGZRdmJBRDNLM19lTG1WbjBNdG9sYmpJb09IWW84dVhTdjFpeWdDRHo1cUp5Mlo4T3huLWZLTXpFSlZlam1OdjM5Q0tXOUR6R0kxUFpCSHJmY2drLWJaeGxvN2szWk9kUGZQMmFBSXNqZW1vMlJxcmdvNTNraEE?oc=5",
    "published_utc": "2026-10-01T23:56:41+00:00",
@@ -844,7 +878,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Korea's consumer price increase rate in September was 2.9%, and agricultural products prices stabilized.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WQXM5amU3bzFvNXdxV3FRN29VNUZSUGN0cTV2SVV0ekFBN3pscDJ1ZkNHWWpNR1ZPVzJEd0p1ZXNwTE1sTTBhVDZ0Smk4b3FyVUdZNjJ2VUxjd0wza2t6VGRJb2MtVks4LU9pTGJjZVlkck5WOWFGSVBidXBfdTA?oc=5",
    "published_utc": "2026-10-01T23:34:18+00:00",
@@ -1356,7 +1390,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "EU retools Trump trade war tripwire into China shipments surge alarm",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUtGWWcxdDllX3lkaVI4SjV5Qk1DS0F3QzFOZHpReEdtNEhvUjZlU3hQNkZIQXFHSUZwVldIamlJVjE2emdFcHl0SXd4ZUdPcThXWU9YZV96LUtpQWdYNFRiVmZDbGhSbFAyLXZFMVkycVNncl9sY3ZmWjRDamlHODR1N1VuZFBId2ItWEJ1YTlLdkwzVXBadG4xM2RhS3k4UnJqRi1KUzJ3ZHZyRGpUNnV0akFaZVRNOHUwWEZB0gG-AUFVX3lxTE5FelJ1UEtneFlrd2xSbHdPVzg0emF0bUlTZHJhdzJtdWZBdkw0cy1yd3pNNlVDdEpEMDhzWWVoaWpRUEQzMl9CaWRBSk5hOFZhQzlrWmRYbGFLd3luYUtSeEtVWGdFSUNSZ2s2U3ROTHN4YmJkckhxdFBDUERHNG40YlZEQTlQaG5ET1ljNDFLTFJVT2l0ZXF1TFprM05paDdkLUxlQW1JU1dxdGxyVnBqOVFMVzktRWlHVUxKd0E?oc=5",
    "published_utc": "2026-10-01T13:20:16+00:00",
@@ -1562,7 +1596,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Tankan Large Enterprises/Non-Manufacturing Index worsens for the first time in five quarters (ABEMA TIMES)",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNi0wdEpBWW5GNmVnSjdoVDhNZ1B4ME51VWd4Ul9RRzIyUGZzcm13Rkt4S29Ld0J5T0h1RjZ6US13Z3c2RUpwSUpOU3YzbWpjT181dEpxaEFVV1hIbk5UZ3BYUTZWOGwzTjk1eFVmNG9teU45TzE5ZVJLbWY0ejZrS0txMXlvNlg3WGJlbE9B?oc=5",
    "published_utc": "2026-10-01T09:45:30+00:00",
@@ -1754,7 +1788,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "``Main opinions'' announced at Bank of Japan's September meeting; no comments on continuous interest rate hikes (Mainichi Shimbun)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VeHZ3bFEtc3NtTXdKTlZGdGplVk5famlQenRRWTh1N1FqejNRZEFNVG9tRlhsYzAwYXJZaE9TZERJWGFWaWFzWjhPMlllTjlnemcxM2VMLVpIT2ZhSE5EenVVcDdGRExWLUJzUENHYTN0TFVUTFQ1OUZmWEtCQjg?oc=5",
    "published_utc": "2026-10-01T08:31:30+00:00",
@@ -2221,7 +2255,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "At the Bank of Japan's meeting in September, when it decided to raise interest rates for the first time in three months, some said that if there were signs of an upward trend in prices, ``the pace of interest rate hikes would have to be accelerated.''",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOeUhvWGgtbzZQWG51Mmh1NDNHeGFSb29lSHBCTWlEM1Mya3RFcmdrcUMyMmRpTlk2TTVDWnBvcjAtYWZ5bFZManRlTzUtUjBfRHJhTllEcDEySzByaUktY01EMGQzNXVpM1dTSXdKSHNSSmVfcThXdnpMeUVlVnM?oc=5",
    "published_utc": "2026-10-01T04:33:51+00:00",
@@ -2382,7 +2416,7 @@
    "source_name": "Financial Times",
    "title_en": "EU steel exports hit by high energy costs, tariffs and China oversupply",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWxvZElxNVZsVHBRUXByUVJ5aTF3bE5TTjluQTBJUlp5VUVlM3plcDBzLVpmODltSUFnbUdlN09JSWwtdkFwSS1lSmZOTlFnSnFxbWlNd2RDWVFxWVdLSEQyREgtQl9UREZEZ1R2MmJIVlVsNmw3UnphZ3k0RHRFbHVQVEg?oc=5",
-   "published_utc": "2026-10-01T04:00:49+00:00",
+   "published_utc": "2026-10-01T04:00:24+00:00",
    "title_original": "EU steel exports hit by high energy costs, tariffs and China oversupply",
    "region": "china",
    "topics": [
@@ -2449,7 +2483,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "中国经济网",
+   "source_name": "finance.ce.cn",
    "title_en": "The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation for a period of 3 months",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IbzJDTWRoMVVvMUZmcG02c2xDV3d2dUNRNS1EZDFjaklacDVraWRRTDdKbVp1YkszbE1LR0cyLXlHaUdzTmNheklFRmJFdXB3VS12SG50NHY2ZktxeUVRZG16VUlhQUtrVWlfczR5aGdzXzg?oc=5",
    "published_utc": "2026-10-01T03:16:00+00:00",
@@ -2660,7 +2694,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan's main opinions were less hawkish than expected (NRI researcher's commentary on current events)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16dUJyMkZOaGNxcUhnbWZOWmtVOU9PNmN5aTN3Y0pwaWFGSmhGbG01WlI3YkhTSHZuaUVXVk5lVEFwQV9MeHRZUV9tSjJVM1VlV0R0WU40TXo0VklTNnBEZUhIbzJhYm5DVW5fZG5jU0Fsd3loa0tDUE9LbXdRNVE?oc=5",
    "published_utc": "2026-10-01T02:02:26+00:00",
@@ -2955,7 +2989,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "jiemian.com",
+   "source_name": "Jiemian.com",
    "title_en": "The central bank takes action! 1.2 trillion buyout reverse repurchase is coming",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSl9SVVNjNDlmTEtxNjdUV2cxN1BpN00weHFhUmdhZHVXdVpBajl4dFBZZU1qeDNsa2FXVDlKQjRsOFRYZmwyX3dpVHpWMi1TSVJqcEFR?oc=5",
    "published_utc": "2026-10-01T00:28:15+00:00",
@@ -3276,7 +3310,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Business confidence of large companies and manufacturing industries improves for 6th consecutive quarter, Bank of Japan Tankan shows tailwind from AI demand (Asahi Shimbun)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oaG9pMDRrRWRkekpjWGVpLW94UllpYnRJZnM0cmFKZnQ5MER5TnVfODV1dG9lNnlWUERsaUFPY201RWZtS3ZQWFJJUkU2RHk3d1hLSFpwdDVNY25iZXViQTdCYXpYeE5ZT1ZhWVdqMlpIWkZyNmhzQVRVN3RLbWs?oc=5",
    "published_utc": "2026-09-30T23:57:01+00:00",
@@ -3588,7 +3622,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "How US sanctions forced Xinjiang’s cotton industry to build a survival model",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWhNS2JiNlFPVnpqQmZPY1hDM3c3V0NQX0tjMGg3LTRhbXRvSzFDMnJZQWdQLVVZU2VsMG1JcGxWS2FlaDFUdnRpM1JCTU11aVVFUXVrODBISFFlYmVZNXlZbGVpem02YmJrWUhXY3hValg4YkFGM19hMnY2MXB0UUVZUHljVVUzOUtsMlhPczhxcE5nZTJiUG8wNWVEQldaNXkwT3htamJydDZIM1pPRHhQeEVfVGZuNEFDadIBvAFBVV95cUxPUkJaS1RwOWt2eW1kYXJsTFFVN2ptUG5fLXpnbHRhTFBJR2daZnktVjNwR2JsVTVhU2VoYUl3cVRvTzdPUERLZ0FiX1NRRktLR0wxOGQ4NlFkNkgwZy1Ed2hsNjN2cjhLY01fbUxSRUFfYVE3RUhBN3NoRmdTalRTWUhrcGZrdnlQSk13dkhBejZsTFA2bmhjU3ZRSGNGZklabmFzT3ExX0U5cVZyVmRXcnlhY0M4dmFxVk9Rcw?oc=5",
    "published_utc": "2026-09-30T22:00:13+00:00",
@@ -3605,7 +3639,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Is the accelerating pace of interest rate hikes by the Bank of Japan a contributing factor? Signs of a ``bargain sale'' opening in the city's condominium market (Weekly Pre-NEWS)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd28wNUFNSHRWRjFZdUFtQUFOWmRUdVZCc0pXWVVCbW5iWHotbUZMVUdrZ1piQkxJV2Uta2VOcVdfdG03QVpOT1phY0Rld3M1NFNHWDVHMjRhMGhNSi1XNzJuNkpjcTdGUGtDR2ExOVJwWUpaZUx1ejFQblJFX0k?oc=5",
    "published_utc": "2026-09-30T21:49:31+00:00",
@@ -3744,7 +3778,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "Brazil’s beef exporters hit a wall in China as 55% tariff kicks in",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUJNcWdqaS1sTUh2Y0g3WHdxYnV1WXdBcVVqd1NfRkdNTmdKaE5yNmw0MkdCSFNXRHZaU2dUVGtsRXJ6M2kwVlNWS0t2WlVnSGdzMDhxNnVyRkRwVjhXOV9ETkl4WlJnSEtkR3ZiLUdmNXBhckpTaTdzRW1JeWUwVzFhanhrNjhVNDJPbU5tekFjdnhKRGVYcDNrcnNjNnNuWHphTVkxMDRIOUNaZi1kRDJ2TzhQaU5kakRNaWpmOHcxYzROcjBoZlo5LVp5Z9IBzgFBVV95cUxNTGpIYUo0WEZOR1dxLURNaTJLSE1CcG8yMkNLQW9lTFhvXzlyWF93N0I3TkxIaGN6ZmZ3cERUaHBqQmMwSTRYWHZaTHhMYV94ZS1YTG9YVGx0VDVlVV9ZMHhGWG1VWmd2bTlUQzU1VEhldS14blNqYWVEaHJXVHhmUEllaGNBaERDSy1sTzJEWFRTVzhaWjJlZmpJTTVMMVlmQWg3d1JPdFBUZEVMX0hCU2xrd005cGhjWmRMMnFJeWlOaTBsaG0xYlNmUFZBZw?oc=5",
    "published_utc": "2026-09-30T18:07:56+00:00",
@@ -3933,7 +3967,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "Has the US-China tariff deal eroded Southeast Asia’s edge as a factory hub?",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGpUcUd1VlJrZkRrQmh4ZmtrWDZEblRtSi1zS2NKRjE3c0RRZVVzRzJlM1F2ZDdpUEhoNkJQU2FhdUVYUlVGakQ3VGhFdHV5Z2piWU1OdFlYMnpFX0ZydFV6RzBqTkJWUldTUF8zSEdiNjNWOVRPNzIzYWpaeUx1NHZuQ2dHZl9EV0RmYXRfZ25PZVdXVkdzeEpHQ0F6cFBQcUN0ZUxUNHNXZnpSc3RiRDBtaEMtdFo0TjRV0gG7AUFVX3lxTE56c0lMSkhSWFNyeVpfLXJDU2ZPbjNwaDk5VDJ5eVQtaEJEN0pWS2RERzRsVS1jMHREOGVSV3JUTVhxRmQ5XzdlcGkxWUpCTmtnR1drY1NNTkNRbHlRbjFPcHlNQ1BKZ3FpN1dQSmN3UXJOcDBnUmFFclNuQ1BUVzkxQkh4MDZDc3l4ekRXYUE1MGxBa19GSjN1a3Zvbk1KRC03U00tZzVYUWxacXZUd010V0p2X3hTa28wN1U?oc=5",
    "published_utc": "2026-09-30T14:11:54+00:00",
@@ -4226,7 +4260,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "China to further boost domestic grain supply as US soybeans excluded from tariff cuts",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZzJOTXB4dlRJMVJPdTlRTUJ6ZkdiZVRXS2c2NHQ5SEljQzNXZTYwOEl5RS1JeGdPem9vazlBbkt6X25zZHVYbEVKTnhjZEZqcW9NMjRFRXZhSVhwemhMM3R0U284aF9OV2lzUnUxdkVjeTF2R0tRTkFmclBBQlFjMWFJRUhDVjhqYnI2bWptYVo5VGZqZEdqbDJud3A2YzRYUC1QRUVEd01WNXZScHRIR0NELVNKUWJwVlFYTWctdFlMcHFjUTdRcWJ3SjhCbHctMW5vci1B0gHWAUFVX3lxTFBqbmpZeFE5VEFfQXpuMUd0VUw1cm1hMmlLNXRnamtBNFlrQXdyem8tTE03Ym5OR3VxVGRTdVBBa3p5UE1xaEZDODhVU2xEekpreTZsS2d1YjRRTVl0aDJmbzNVYzFXakZobGhLQnBJTFFWVHd4THd2MDNYX1hsWjFnMTZOV2VXUVpFeE9kZVZsZWpGclhMamtyNUlzX1hLT1NzaDB2LUMzYThMSkgtQVV4Vk4wanpTMHZveW1iSzdmWVRhbkhyOXZ1S0RWZDBGeHJFbEI4UVE?oc=5",
    "published_utc": "2026-09-30T11:00:06+00:00",
@@ -4626,7 +4660,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
+   "source_name": "cls.cn",
    "title_en": "17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October 8 with a period of 3 months]",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2cktXNzRrMEZfZVFtaS15UF84a0t3ZGpuRWpud3hsaWhsWnpKTjhJcHQwTDlrWVltRlB2dkh1ZGZWRU42clB4Rw?oc=5",
    "published_utc": "2026-09-30T09:09:45+00:00",
@@ -5332,7 +5366,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "‘Hiccup’ or ‘stall’? What rising interest rates mean for Hong Kong home prices",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXNJOGY1OUNFWDB3blduVDRfT2hycUY3WDlPU0tTcVpCQzdwMENUM1psLWprbXB2Q0NuenRYaVB0cG1MTDMyTWh4b25fZVVMam5vaW05RUdhQ3p4S2ZHZjRiblJGNWE3QUc1VnJ6c0lFYWJHN1ZGS3dsRHRUSWpZUnNlQTBZYU5RYXg1RUw2cktEbWlBcmRLSVRRUHRmZW81cmRMRHpjNE5xbGZvUy1PRDZod1dBQkt4b1RaNWZPNDLSAcABQVVfeXFMTWFVRWlvblBNOEEtMU5lenkyYWxadGF1LWoyVXQ5dkxpVDJLSWZoN2pkdFN3dThKeDA5Rk00dFNCWVFIN2dOdi13Nmd6MVNPaFFKRURRVzlMcU5jTVJ0VWVlSG5ScTRwZXRCb3ozS3B6LS1tNUVPS20xUEk3OXRMZ3QwTXBObnQxWlpJaEF6bVUxbTJkZjRoQ3FJcjk2WlQyb2pZd1N2LVdNeURsV2ZrOFlIYXpiam1xNW42OU5yX3Zw?oc=5",
    "published_utc": "2026-09-30T02:02:57+00:00",
@@ -6433,9 +6467,9 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "新华网",
+   "source_name": "xinhuanet.com",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"-Xinhua",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGw3YmRiRW40NGFsM0pRSThUTWtYNWNQbmpZWW1FaXJ0NHBmT0Y1Njh6NmhnVFdtbm8zZEJmSEVXY3dqdnRzWGdrT09wNUVSMlNURndkdm9yMFhuUzRpVFkzX3Nnb2toTDhjblg1MU5pNFhOc2tySHY3cVZ5VmJOaw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkZDQ1pSNVdOUERWVGszNDc5Y2dsQU12Z25mcjl0TFUtWWNvbnViV1BMQVp3RFhjbmVBMXQ2S3F2bmotVk15MjFWV1BiMGpXUGRjS1Qyb3NhT18yNk5ma3hPNnhhS0ZWa0ZaWjRxYkM5c1ZzN2hvVFFPUEh3RHpMMzcyMDVpVnkt?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
    "title_original": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"-Xinhua",
    "region": "china",
@@ -6446,7 +6480,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "feffcf4e165d281c"
+   "id": "4032172bd62d47a5"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -6503,7 +6537,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "Opinion | What trap? US-China relations show conflict is far from inevitable",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcEt5aWpuOVhGQzdKWFR1QTJEZk9qY1BvbXRqRzlhTEhPUnpJamkwdGctbHc4VEdXMV9PaEMwMGhFVzVGZFFMd01sT1o2c05tS195TU1hQkR1YlZWTV81M2lnRjVld3dlNUhSbnlwNWRzZW9VZjBjRkZKWE0xeUJIX2lKdE1Ud0tBU0UxVjE4NTdDc1U0TmRFTlFDTVBTMjZTY0lfV1V3U1dFZF9kVGVHQXQ0Vk1UcVnSAbcBQVVfeXFMTlR5TXM0TXZNMmVNR2pTaWk3VF9PTjJfQnQ3SEpCZkNBaEoxcEFERVZzSVZBZVJxa0ZzUEVjVVdkaGJJNjRmdVBVS2ZWTnBzV1lkd0NiZFJPQTg1cVNLRVg3TlE3REpIR0VzdUsxT2g2N0xCRGFoN1lnOFptb3lUalZMN3FqRWdSc091SnE4b3FFT1R0YTEyb1hIcHYwWUpKdjdPZm1HLXIyVzVvX3pxV0dQYTdBZHNJ?oc=5",
    "published_utc": "2026-09-29T12:30:06+00:00",
@@ -6608,7 +6642,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "China cuts key interest rate, offers mortgage subsidy to boost economy",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkhvV0RfZkpsd2p3M0RtenREZThrZ0lSQ2tGbUxzSGdDckI1LWV4eE9ETllGZi1UTVNPZmd3bUpKeGhQenZMQk5LS3NnLXNJbU1SV2dNQThGdFBiRWo1NzU3Mnd5ekhqV29XSnBYZlBGNWRoZ1NSaGcweC1sTHJoSkRSVTM3RTBaclE1dnZVdmpBUzg4bHlaa1NFQWQwaVBtRDRJQmFLT1YyNGRGMVNpaUlvdV9PUdIBtgFBVV95cUxPdWpaN2ZRRUNjUnJncUZQNEZPRUI2Z3FuNkxQM0oyVFdEUzV4MklreGQ4WlhUNWZYNTcyZmVpa3M4QjlmazI0VlNNQ3Q0V3Y3TzRoWHV3SXdFZEdjXzU0RnRQSEV4UXVSLXJoVWZYcTRVX1Jlb0JWWXMydC1nbmFnTWZNa3RYWVFTd0xZSFRqOVNQVzZudEtrTWtMQ3o1Vzg2VDRYeVo4bkdLdTlrNjh6MC1MaHh2Zw?oc=5",
    "published_utc": "2026-09-29T10:11:00+00:00",
@@ -6699,7 +6733,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "stcn.com",
+   "source_name": "证券时报网",
    "title_en": "1.2 trillion yuan! Central Bank’s operations on October 8",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LYjdwdllJLW9nZUhrNmhIRTRCZHNVOWdGRkZuUnJxNnU0OWZiVDdSdFJRaDF1MlB0S0FJRlN4cE40Zzk3VjV6R2E1Q0wyMVVfU3pOd3Y2VQ?oc=5",
    "published_utc": "2026-09-29T08:59:00+00:00",
@@ -7183,7 +7217,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "China asks local governments to ‘intensify’ policy tweaks to boost consumption",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUJEUFFQQkRWSmJoUjdHT2R5QmRTdThBR2tGSG1jZnZsM3o4bU9saUo1NW43allUbmszSW1zMHoyb3pUODR2Y0tnWm13WjhibVNfZGlOT0E5TGFFekkwT193NE94bUFtOW9xWW04VjRTay1WemtsNnRnMmlEV2ViaFFKN3JRbnV0b0JIcXhkWUdTeGt5ZUtfM01nWFNLamo1Yk1BWVRudVFncFpwVUtXWXpNdjJxTmpUT21fTWJuRUNCQ2RXamFsOFVOd2tYZ9IBzgFBVV95cUxNUURfbVJVR3BmSEZId1ZUQkNCb1JZaWdiYmY1Q3pZTnY3RXNtNGsyX3A3NnhMRDZZbW1SZDRlWld2VTFoVzRJRHpNcHp4M1FlSUxUM1E2d19Rd25ERU9JdGc0dVhDZWlaNk5QaVRkU1hfVnNuVE01cExDRFg3UkU2VmxCY2VvZ3RlWjhsWWhTcDY1LTlFR3FjOFpfNjhCMEpvQnlMZHo5YXc4cHVZekQ0UVJBT2VTcF9WbVc4Nk50VS1NbWxvekVTZkZNZ3dCZw?oc=5",
    "published_utc": "2026-09-29T03:07:07+00:00",
@@ -8618,7 +8652,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "xinwen.bjd.com.cn",
+   "source_name": "京报网",
    "title_en": "The central bank launched \"three arrows\" today, with a net investment of 439.7 billion yuan in open market operations.",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50X0RibUl3NXFPbjJLVXM1WmlRZmg2b1dxZG1iRzlmY1lLUG8tY0hpSzFlYjdkTml6Q2w0TFpvSF9ldy1jMXJMRFR0UlFBVjNfOEd0cGVmOFgyeG1fYmZJVXlMWUpQWm1DVGNvOU9kTG53dw?oc=5",
    "published_utc": "2026-09-28T08:42:00+00:00",
@@ -8672,7 +8706,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "busan.com",
+   "source_name": "부산일보",
    "title_en": "[Palm Economy] Base interest rates in global financial markets",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NVkFYcUNKTk91dGhya215N2xMM2x5TU5SVy10ZlVldjlsRUtacW1vU2hZMUUtVHBfa1dVb25WM1owYVEza1pzeUZ5ZmZENHpUNkQxbmF1RW5NakI0dUI5amxkMURPdjJ6ZUF3bXBtMWlpdmQz?oc=5",
    "published_utc": "2026-09-28T08:30:28+00:00",
@@ -8809,7 +8843,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
+   "source_name": "scmp.com",
    "title_en": "US, China slash tariffs on basic goods – but leave rare earths off the record",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkxUMGphZ2ZwYnpUbzUxUUd2c3dER01QeDZNZHFmQlEzQmJSMllMX0FvYmpkSnp0YWhOYlhhM1BHNWM3bjZ1RllpNmNoOFd5UXdIRWRKc2lXVWQzWXp1Vi1wc2ZjV2cxa2dHS25NMDh2UTF0VU9BUFBRU2QtRUlVako1cE1sY1FHYXZrSkhkcnYtQVJYc2NVMC1CZlUtWFVPdzdtaU1zRW1Nend3dWs3V29QblBqcWlZOFc1dlVyT3BDNTBoZlRmUHpKVk7SAcwBQVVfeXFMUE5ib3FJaFRzM1JnR3l4eG9UM0FUcVlPNy1WSHI3S1FJVm5xYTdVR0V1S3AzLWpxQzVZZE1MQjZtSjdITU5ESU1KQTZacnNweEptdDl5TGJJTVpJSEIwcUUzckdmSVpIVTNjb3hjanJUMlQzbnpQTWs5b0xVYUl3NjlnS2l5bm1nT2lUQzd3WnNmd0wzRXFiU0J4cVZGcko4dnltVXpfYkpwWXcyMW9fVmNKWTRrTjZIRjZvSFo4WjdlWDlXM19zek05aGJh?oc=5",
    "published_utc": "2026-09-28T07:00:36+00:00",
@@ -8913,7 +8947,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "dhdaily.co.kr",
+   "source_name": "대한데일리",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Are fiscal-monetary policies in sync?",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmSDhSUXZrSXRKd2tGNlJJWjRaRGQxTG5LWHNMZGYzZVpIQ3NwbHZuUE9GeHkzb1FsUDhVRTJtX01QOXJqUjdUakV5ZHdkeE13Wk5PZGhQVE5OS0hJWVNVajBOaFIyNFh5WkI4?oc=5",
    "published_utc": "2026-09-28T06:34:43+00:00",
@@ -9524,7 +9558,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "biz.heraldcorp.com",
+   "source_name": "헤럴드경제",
    "title_en": "Hyung-il Lee “Seeking harmony between economic and monetary policies”… Shin Hyun-song “Prices and financial stability are the premise”",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENHAxbk5NZXVhSFNpZWZSOXlURW4xdWVWR2hoYmdYRGtPdGVXa0p3c002ZnNDVkxXSHdJcEUyMTcxWkpYSGlNQlVKeU53c2pfU3p6cmpB?oc=5",
    "published_utc": "2026-09-28T02:39:21+00:00",
@@ -51922,42 +51956,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8921ae6a69bcd4f1"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Governor Ueda: ``Discussing interest rate hikes, including next meeting'' US Treasury Secretary: ``Now is the era of Takaitinomics'' (Sankei Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96THhSV0tLa0t2V3ZIMHZ5SHhuVVhGOHFsWnI4SElHZEM4eWFGWGVHTkVSb2lGTVlEWlBGSVJCMEh5Nm40WWNuX1hFTkFlUmdmQ2laOXdpaXFCUE9lZ0xMUGhnU3g2amtHWVZUZkNYRnVYWWE1NTluSmhQVVpCaGs?oc=5",
-   "published_utc": "2026-09-02T11:44:13+00:00",
-   "title_original": "植田日銀総裁「次回会合を含め利上げ議論」 米財務長官「今はタカイチノミクスの時代」（産経新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "330e520ef279b3b0"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Sovereign debt plummets as inflation fears push yields to multi-year peaks",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1lHNjl5elU0anM2Wm42elp2bkx5MlRKelRub0hBM1dLZExqZGNwMUFaZFpuSjhlU00ta25ZMEljSUJEeHZXQ3VpeWpXMGxFNGtCNFdOZzlKRzV2SXc1cXN5ZUx0SGs0S2t0SDlDRFZpa3dWN2FfYjJISGljdEpFbC12OVoxbTRwdmk2b2gzM0k2UXg5NDVuOWNOTFU3TDJnbkktWng0R1JYUVZteDdRYnc2ZFo3TkpZQlBpVXVibmtrZw?oc=5",
-   "published_utc": "2026-09-02T11:28:39+00:00",
-   "title_original": "Sovereign debt plummets as inflation fears push yields to multi-year peaks",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "35e72dc365a47bef"
   },
   {
    "source_id": "manual_ia",

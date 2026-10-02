@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T01:02:50.167827+00:00
+Última coleta: 2026-10-02T01:13:20.595413+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1299
+  🇯🇵 Japão          1298
   🇨🇳 China          778
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  673
+  🇰🇷 Coreia do Sul  674
 
 ## O que já está no feed (não repita)
 
+  - [japan] Opposition to the Bank of Japan's interest rate hike decision (Hiroyuki Kubota) - Expert
+  - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
   - [taiwan] Key facts: TSMC (2330) Leads AI Foundry, Tops $2T Market Cap
   - [japan] Pickup in Tokyo Inflation Likely to Fuel Rate-Hike Views
   - [japan] [Tokyo Foreign Exchange] Dollar, low 157 yen level = softening due to strong Tokyo prices (9:00 am on the 2nd)
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea Inflation Rate Slows in September
   - [korea] South Korea's Inflation Eases But Stays Sticky
   - [korea] South Korea Sept inflation +2.9% y/y, as expected
-  - [china] US alleges California man smuggled export-controlled servers to China
-  - [korea] South Korea Inflation Data Due On Friday
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T01:02:50+00:00",
+      "published_utc": "2026-10-02T01:13:20+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
