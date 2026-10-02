@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T21:42:46.182173+00:00
+Última coleta: 2026-10-02T21:52:47.878483+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1290
-  🇨🇳 China          788
+  🇯🇵 Japão          1288
+  🇨🇳 China          789
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  673
+  🇰🇷 Coreia do Sul  674
 
 ## O que já está no feed (não repita)
 
+  - [korea] US firms add just 29,000 Jobs, unemployment rate ticks up
   - [japan] What will happen to the relationship between Prime Minister Takaichi, who was supposed to be a ``reflationist,
   - [japan] One of the reasons why the yen continues to depreciate is the Bank of Japan's "fiscal subordination" issue, an
   - [korea] Trump pushes South Korea on $54B Alaska LNG venture, warns of tariff hikes
@@ -35,7 +36,6 @@ Total: 3000 manchetes
   - [china] China Aoyuan Announces Disposal Of Assets By Receivers
   - [japan] Eurozone consumer prices rose 3.8% in September, the highest level in three years
   - [japan] Former Liberal Democratic Party Chairman Miyazawa: “It is better not to reduce the consumption tax”
-  - [korea] US firms add just 29,000 Jobs, unemployment rate ticks up
   - [korea] Trump says South Korea trade deal adds $8.4B oil project
   - [china] China’s C919 jet faces further delivery delays amid US export chill: analysts
   - [japan] Yen market price rises, dollar sold due to fall in crude oil futures prices
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T21:42:46+00:00",
+      "published_utc": "2026-10-02T21:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

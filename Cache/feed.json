@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-02T21:42:46.182173+00:00",
- "collected_at_utc": "2026-10-02T21:42:46.182173+00:00",
+ "generated_at_utc": "2026-10-02T21:52:47.878483+00:00",
+ "collected_at_utc": "2026-10-02T21:52:47.878483+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1290,
-  "china": 788,
+  "japan": 1288,
+  "china": 789,
   "taiwan": 249,
-  "korea": 673
+  "korea": 674
  },
- "elapsed_s": 31.1,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-03T05:01:25+09:00"
+   "newest": "2026-10-03T06:46:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T21:41:42+00:00"
+   "newest": "2026-10-02T21:48:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-03T06:30:00+09:00"
+   "newest": "2026-10-03T06:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "US firms add just 29,000 Jobs, unemployment rate ticks up",
+   "url": "https://www.koreaherald.com/article/10892342",
+   "published_utc": "2026-10-02T22:06:01+00:00",
+   "title_original": "US firms add just 29,000 Jobs, unemployment rate ticks up",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "679a8f8927c0dcc7"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -652,23 +669,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d35aba2752d2f219"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "US firms add just 29,000 Jobs, unemployment rate ticks up",
-   "url": "https://www.koreaherald.com/article/10892342",
-   "published_utc": "2026-10-02T13:22:45.565328+00:00",
-   "title_original": "US firms add just 29,000 Jobs, unemployment rate ticks up",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "679a8f8927c0dcc7"
   },
   {
    "source_id": "investing_econ",
@@ -3514,6 +3514,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7c0c22372fa4d9e6"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "Commentary: China’s Youth Labor Market Demands Intervention to Avert a ‘Lost Generation’",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMm50WTlkclBJMlRsNTI5aVpfdHNObWtBQU9vY1J4YVRiRG5YX09EQmc5S1lqR0FKNjF3N0VRNXBzLWtXdlF3OF9jOGhHb0dESEtFY3A3TUFPQlROLUJjZGtDclYzQmQyMGpLUTJteG90N3VxcWJQLVhQaGlmXy1wbVBFSkVtRUxyTjVVUE9HR3FVUnZLa1EtTGlBQjBTQjBxdUhQLTlSY2hpZkhndll0R3RadkZ1WXhWTHYtb3hGSmlYODRHUXR6MEdublBaS2gtbkxNOWF3?oc=5",
+   "published_utc": "2026-10-01T07:15:00+00:00",
+   "title_original": "Commentary: China’s Youth Labor Market Demands Intervention to Avert a ‘Lost Generation’",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ca13f67bcf60ae47"
   },
   {
    "source_id": "nhk_economy",
@@ -6889,6 +6906,24 @@
    "live_wire": false,
    "manual": false,
    "id": "0aa2cdcb498bfab6"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스웍스",
+   "title_en": "Bank mortgage interest rate in August was 4.66%... Highest in 3 years and 9 months",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11eElISS0wTnprV1hLYmptd19USHhONnNNdHhPdnpyMmxodmlrSExXMlpmNUkyMldIVzVYdDJUREF5MjFNSE1OanI3WWhQVVN1VVRwUzMxUkhPeWdkVXdKVXdSWngtN0kycWlRamlPeXBoQVHSAXNBVV95cUxNdXhJSEktME56a1dYS2JqbXdfVEh4TjZzTXR4T3Z6cjJsaHZpa0hMVzJaZjVJMjJXSFc1WHQyVERBeTIxTUhNTmpyN1loUFVTdVVUcFMzMVJIT3lnZFV3SlV3Ulp4LTdJMnFpUWppT3lwaEFR?oc=5",
+   "published_utc": "2026-09-30T04:28:43+00:00",
+   "title_original": "8월 은행 주담대 금리 4.66%…3년 9개월 만에 최고",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7ac6c82d808e8b1"
   },
   {
    "source_id": "gn_jp_investing",
@@ -11342,7 +11377,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
+   "source_name": "newspim.com",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -51924,40 +51959,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7b533aebde774b88"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Stocks, bonds gain ahead of US data, Fed comments; yen rallies By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWFnSlVxV0FzbGFfdnpXaHQzQlBFQWhyVWhFalY5Y3FiZk5QVjBNOEUwYm0xbnpsRDUwakxabmM1SFRYalNfX0MxREt4Q25vVVdfdEpYaGltM3lWY2NzWmphZVFfTFpqM1E2UjVQLWp5SlNQVGdUdFJYdzBvTUt3YUstbXliZjN2TENEclZlb3hEU3dDcTVQTnVWMVBpYTJkVVd5SFA0ZDBURVBxaHc?oc=5",
-   "published_utc": "2026-09-03T08:49:22+00:00",
-   "title_original": "Stocks, bonds gain ahead of US data, Fed comments; yen rallies By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9c61e2be2fb18a06"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Stocks, bonds gain ahead of US data, Fed comments; yen rallies",
-   "url": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
-   "published_utc": "2026-09-03T08:48:24+00:00",
-   "title_original": "Stocks, bonds gain ahead of US data, Fed comments; yen rallies",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "522daef5514c6c04"
   },
   {
    "source_id": "manual_ia",
