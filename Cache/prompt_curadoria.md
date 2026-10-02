@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T02:42:45.766875+00:00
+Última coleta: 2026-10-02T02:52:45.593435+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1299
+  🇯🇵 Japão          1301
   🇨🇳 China          780
-  🇹🇼 Taiwan         247
-  🇰🇷 Coreia do Sul  674
+  🇹🇼 Taiwan         246
+  🇰🇷 Coreia do Sul  673
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Steadies After Hot Tokyo Inflation Data
+  - [japan] Japan does not need excessively loose monetary policy, economy minister says
   - [taiwan] Taiwan dollar weakens, Philippine peso gains among largely muted Asian FX
   - [japan] Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes
   - [china] Asia's gasoline margin skyrockets on outages, China export halt, traders say
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] MNI JAPAN AUG JOBLESS RATE RISES TO 2.5% FROM JULY 2.4%
   - [japan] US long-term interest rates hit the highest level in 24 years, with mortgage rates in the low 7% range
   - [japan] Nikkei May Decline Amid Concerns About Higher Energy Costs — Market Talk
-  - [japan] JAPAN AUG UNEMPLOYMENT DOWN 20,000 Y/Y AT 1.80 MLN, DOWN FOR FIRST TIME IN 13 MONTHS AFTER BEING FLAT IN JULY 
-  - [korea] South Korea September inflation eases to 2.9% y/y, matches forecast
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T02:42:45+00:00",
+      "published_utc": "2026-10-02T02:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
