@@ -1,13 +1,13 @@
 {
- "generated_at_utc": "2026-10-02T05:02:43.868066+00:00",
- "collected_at_utc": "2026-10-02T05:02:43.868066+00:00",
+ "generated_at_utc": "2026-10-02T05:12:44.478616+00:00",
+ "collected_at_utc": "2026-10-02T05:12:44.478616+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1293,
-  "china": 782,
+  "japan": 1294,
+  "china": 781,
   "taiwan": 249,
   "korea": 676
  },
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T03:33:02+00:00"
+   "newest": "2026-10-02T05:03:43+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-02T13:45:08+09:00"
+   "newest": "2026-10-02T13:45:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T05:01:12+00:00"
+   "newest": "2026-10-02T05:10:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T04:24:14+00:00"
+   "newest": "2026-10-02T05:00:39+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-02T13:00:00+09:00"
+   "newest": "2026-10-02T14:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan Stocks Look Attractive, Especially When Dollar-Yen Above 152 — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261002000101:0/",
+   "published_utc": "2026-10-02T05:08:00+00:00",
+   "title_original": "Japan Stocks Look Attractive, Especially When Dollar-Yen Above 152 — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d1fa3902d8523fa1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -365,7 +382,7 @@
    "source_name": "NHK 経済",
    "title_en": "September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261002de53786",
-   "published_utc": "2026-10-02T04:45:08+00:00",
+   "published_utc": "2026-10-02T04:45:00+00:00",
    "title_original": "東京23区の9月の消費者物価指数 前年同月比2.7％上昇",
    "region": "japan",
    "topics": [
@@ -10184,7 +10201,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "hani.co.kr",
+   "source_name": "한겨레",
    "title_en": "Deputy Prime Minister Lee meets with Bank of Korea governors 6 days after taking office... “Fiscal-Monetary Policy Cooperation”",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSXltS2J3QUhWa2V2aERndVJDaHJLbUJPRGluanBpTDJOMG56d0pUVVRIOEh6Q0tHV2x2eWpNUWJvLXE2N3NrNkdKZUo2cHBkZml2U2JobEtFYUNaRURNNjVwVmV5QQ?oc=5",
    "published_utc": "2026-09-28T02:39:00+00:00",
@@ -51940,24 +51957,6 @@
    "live_wire": false,
    "manual": false,
    "id": "21fe350c53f5b863"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Correcting imbalances, targeting China, taking a tough look at Japan's finances G20 Finance Ministers Meeting (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HQUQxQ2pmS0N6ZDRyaHVOSDBneV9FeDIzb2ZaX2hXSEJCUWNLbTM5QjVjTnM0b0Y3cTZCeUNRcUNVOENRaVkwQzlfV09tS1J6dmJyN24zQnJvZVJTUkNBdnhpUnNVbzQzVm5sb1hMN09pOU8tbUxFLW90eS1qTzQ?oc=5",
-   "published_utc": "2026-09-02T22:08:16+00:00",
-   "title_original": "不均衡是正、中国狙い撃ち 日本の財政に厳しい視線 G20財務相会議（時事通信）",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "131c13bceb278dbe"
   },
   {
    "source_id": "manual_ia",

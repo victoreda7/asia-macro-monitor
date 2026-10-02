@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T05:02:43.868066+00:00
+Última coleta: 2026-10-02T05:12:44.478616+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1293
-  🇨🇳 China          782
+  🇯🇵 Japão          1294
+  🇨🇳 China          781
   🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  676
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Stocks Look Attractive, Especially When Dollar-Yen Above 152 — Market Talk
   - [japan] Retail JGB sales surge more than 80% as rates rise
   - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
   - [korea] South Korean Won Steady on Export Growth
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] [Tokyo Foreign Exchange] Dollar, low 157 yen level = softening due to strong Tokyo prices (9:00 am on the 2nd)
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes
-  - [korea] SK Hynix Stocks Gain 3.2% as Supply Contracts Reprice Memory Scarcity
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T05:02:44+00:00",
+      "published_utc": "2026-10-02T05:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
