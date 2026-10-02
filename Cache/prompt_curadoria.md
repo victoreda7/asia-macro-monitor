@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T07:52:45.841804+00:00
+Última coleta: 2026-10-02T08:02:44.823893+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1292
+  🇯🇵 Japão          1293
   🇨🇳 China          782
   🇹🇼 Taiwan         248
-  🇰🇷 Coreia do Sul  678
+  🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
 
+  - [japan] Collateral Accepted by the Bank of Japan (End of Sept.)
+  - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3287582.16, Implies 79% Upside
   - [korea] Samsung Electronics' large-scale share buyback has entered the final stage. The event, which has sup..
   - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Asia's gasoline margin skyrockets on outages, China export halt, traders say
   - [korea] Samsung Electronics, SK hynix trade near flat after trimming losses
   - [japan] Toho, the largest commercial food wholesaler, has revised its sales forecast upward, but profits remain unchan
-  - [japan] Japan power semiconductor deal stalls as Rohm, Toshiba, Mitsubishi haggle
-  - [japan] Tokyo prices rose 2.7% in September, reaching the 2% level for the first time in eight months (Kyodo News)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T07:52:46+00:00",
+      "published_utc": "2026-10-02T08:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
