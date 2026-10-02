@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T16:02:46.850690+00:00
+Última coleta: 2026-10-02T16:12:44.609136+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1293
-  🇨🇳 China          784
-  🇹🇼 Taiwan         248
+  🇯🇵 Japão          1291
+  🇨🇳 China          785
+  🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
@@ -35,6 +35,7 @@ Total: 3000 manchetes
   - [china] China fuel export suspension to choke supplies in Asia
   - [japan] BREAKING NEWS: Japan farm minister admits making "misleading" remarks on local budget cut
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
+  - [taiwan] Taiwan pledges to help TSMC expand domestic investment amid Singapore rumors
   - [korea] Art Group Buys 6.87% Equity Interests In Edgeon For Krw 585.75 Million
   - [china] China's Mortgage Subsidy Likely to Have Limited Impact — Market Talk
   - [japan] Collateral Accepted by the Bank of Japan (End of Sept.)
@@ -48,6 +49,7 @@ Total: 3000 manchetes
   - [japan] Minister of Administrative Reform Nakajima Autumn Review “Keeping in mind the creation of financial resources 
   - [japan] Chief Cabinet Secretary Kihara informs governor of financial support for Kumamoto earthquake recovery fund
   - [china] China Chip Smuggling Cases Expose Nvidia’s Blind Spots
+  - [china] Nvidia’s Blind Spots Exposed by China Chip Smuggling
   - [china] Atlas Copco Buys Chinese Heating and Cooling Equipment Manufacturer Guangdong Euroklimat
   - [japan] House of Representatives Opposition Diet Committee Chairman and others call for careful deliberation of consum
   - [china] China's Policy Stimulus Package Still Positive Step Despite Limited Scale — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Long-term JGB yields rise toward multi-decade highs as inflation signs mount
   - [japan] Hankyu Hanshin Holdings, Inc. - To Expand The Limit For Its Share Buybacks Up To 5.16% Worth 50 Billion Yen Fr
   - [korea] South Korea's Strong Chip Exports Yet to Spill Over Into Broader Economy — Market Talk
-  - [japan] Japan Stocks Look Attractive, Especially When Dollar-Yen Above 152 — Market Talk
-  - [japan] Retail JGB sales surge more than 80% as rates rise
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T16:02:47+00:00",
+      "published_utc": "2026-10-02T16:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
