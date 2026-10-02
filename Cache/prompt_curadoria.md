@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T12:22:45.103833+00:00
+Última coleta: 2026-10-02T12:32:47.074675+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1294
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [taiwan] Manufacturing sector flashes 'green' light in August
   - [china] China fuel export suspension to choke supplies in Asia
   - [japan] BREAKING NEWS: Japan farm minister admits making "misleading" remarks on local budget cut
+  - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
   - [korea] Art Group Buys 6.87% Equity Interests In Edgeon For Krw 585.75 Million
   - [china] China's Mortgage Subsidy Likely to Have Limited Impact — Market Talk
   - [japan] Collateral Accepted by the Bank of Japan (End of Sept.)
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's unemployment rate rises to 2.5% in August, above expectations
   - [china] More aggressive China stimulus unlikely for now, BofA says
   - [japan] <Clearly emerging trends> In the past five years, when inflation has rapidly increased, what and how have hous
-  - [japan] Japan Minister Declines to Elaborate on Remarks at BOJ Meeting
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T12:22:45+00:00",
+      "published_utc": "2026-10-02T12:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
