@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T02:12:50.558258+00:00
+Última coleta: 2026-10-02T02:22:43.588009+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1299
-  🇨🇳 China          778
-  🇹🇼 Taiwan         248
+  🇨🇳 China          779
+  🇹🇼 Taiwan         247
   🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan dollar weakens, Philippine peso gains among largely muted Asian FX
+  - [japan] Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes
   - [china] Asia's gasoline margin skyrockets on outages, China export halt, traders say
   - [korea] Samsung Electronics, SK hynix trade near flat after trimming losses
   - [japan] Toho, the largest commercial food wholesaler, has revised its sales forecast upward, but profits remain unchan
@@ -31,7 +33,6 @@ Total: 3000 manchetes
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 9
   - [japan] September consumer prices in Tokyo's 23 wards increased by 2.7% compared to the same month last year.Over 2% f
   - [japan] September consumer price index for Tokyo's 23 wards (excluding fresh food) 2.7% compared to the same month las
-  - [japan] Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes
   - [japan] Opposition to the Bank of Japan's interest rate hike decision (Hiroyuki Kubota) - Expert
   - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
   - [taiwan] Key facts: TSMC (2330) Leads AI Foundry, Tops $2T Market Cap
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN AUG UNEMPLOYMENT DOWN 20,000 Y/Y AT 1.80 MLN, DOWN FOR FIRST TIME IN 13 MONTHS AFTER BEING FLAT IN JULY 
   - [korea] South Korea September inflation eases to 2.9% y/y, matches forecast
   - [japan] JAPAN AUG EMPLOYMENT UP 140,000 Y/Y AT 68.49 MILLION FOR 1ST RISE IN 2 MONTHS AFTER BEING FLAT IN JULY
-  - [japan] Tokyo Core Inflation Rises Above BoJ Target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T02:12:50+00:00",
+      "published_utc": "2026-10-02T02:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
