@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T16:42:45.036564+00:00
+Última coleta: 2026-10-02T16:52:47.194051+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1291
-  🇨🇳 China          785
+  🇯🇵 Japão          1289
+  🇨🇳 China          787
   🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  675
 
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [japan] Former Liberal Democratic Party Chairman Miyazawa: “It is better not to reduce the consumption tax”
   - [korea] US firms add just 29,000 Jobs, unemployment rate ticks up
   - [korea] Trump says South Korea trade deal adds $8.4B oil project
+  - [china] China’s C919 jet faces further delivery delays amid US export chill: analysts
   - [japan] Yen market price rises, dollar sold due to fall in crude oil futures prices
   - [japan] Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity
   - [japan] Japan finance minister: Government united in view reflation is over
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] House of Representatives Opposition Diet Committee Chairman and others call for careful deliberation of consum
   - [china] China's Policy Stimulus Package Still Positive Step Despite Limited Scale — Market Talk
   - [japan] Inflation increases in Tokyo's 23 wards by more than 2% for the first time in 8 months (ABEMA TIMES)
-  - [japan] Long-term JGB yields rise toward multi-decade highs as inflation signs mount
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T16:42:45+00:00",
+      "published_utc": "2026-10-02T16:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
