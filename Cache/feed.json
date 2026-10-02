@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-02T20:02:44.871282+00:00",
- "collected_at_utc": "2026-10-02T20:02:44.871282+00:00",
+ "generated_at_utc": "2026-10-02T20:12:46.377520+00:00",
+ "collected_at_utc": "2026-10-02T20:12:46.377520+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1289,
+  "japan": 1291,
   "china": 787,
-  "taiwan": 249,
-  "korea": 675
+  "taiwan": 248,
+  "korea": 674
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.5,
  "sources": [
-  {
-   "source_id": "gn_tw_reuters",
-   "name": "Reuters Taiwan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T19:45:23+00:00"
+   "newest": "2026-10-02T20:04:44+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T19:42:31+00:00"
+   "newest": "2026-10-02T20:02:26+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -187,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-03T04:58:08+09:00"
+   "newest": "2026-10-03T05:01:25+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -238,6 +230,14 @@
    "newest": "2026-10-02T17:57:51+00:00"
   },
   {
+   "source_id": "gn_tw_reuters",
+   "name": "Reuters Taiwan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-02T10:10:16+00:00"
+  },
+  {
    "source_id": "scmp_business",
    "name": "SCMP Business",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T20:02:27+00:00"
+   "newest": "2026-10-02T20:12:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T15:53:57+00:00"
+   "newest": "2026-10-02T18:54:19+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T18:01:34+00:00"
+   "newest": "2026-10-02T20:04:58+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Japan local governments step up Taiwan outreach for chip investment",
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-local-governments-step-up-taiwan-outreach-for-chip-investment",
+   "published_utc": "2026-10-02T20:12:44.912615+00:00",
+   "title_original": "Japan local governments step up Taiwan outreach for chip investment",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b91faf68118a57b4"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "What's coming to the former Bank of Japan Kanazawa branch? The artworks on display will be... 21st century will be closed for a long time next May (Hokkoku Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VYVNQdy11aFczb29mQ1RzMC1MQ0E4cE9rRVhWQ3RKTkVhVlhkOGZFcXA1b1NiaWRmbUtIWS0xQXdnQ01fTEJBOENWZHpPcFkwUVYzYlIxYzdRTTZPLWtGVmlSd1RpUF9vSmJwQWY0ZExzNDgxa3hsN0gwMkVNOG8?oc=5",
+   "published_utc": "2026-10-02T20:04:58+00:00",
+   "title_original": "旧日銀金沢支店に何が来る？ 展示される美術品は… 来年５月、２１美の長期休館中（北國新聞社）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d602203c643fc66c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -5660,7 +5694,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "stockstar.com",
+   "source_name": "证券之星",
    "title_en": "The central bank announced that it will carry out a 1.2 trillion yuan buyout reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VU1labFJuWGl1d1c3N1RKNHVldFBham9wWWRiUzJJUEUteWZKa3N3ZHlhZVJhTFFzR1JsS0gtWE9lVWZJU0VuTDZvWFVTQ0tVbGE4b0RkSEhZTXhrcEdEXw?oc=5",
    "published_utc": "2026-09-30T12:19:51+00:00",
@@ -8144,7 +8178,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHUnRnQTVQZkREcjlKY3VoWWJhaUxUb29pVnFXaGYxX1U5N3dSSTBILVVWdHNQbHY5Z1FTSjYwckc4WnhhdHNNWHJ4ZmFJN2JiLVpubUgwb21BTlNBWUlrb0htTElxX25TQi1vaENGTVBMVmJobk9pLXZfRQ?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
@@ -8567,7 +8601,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "leadeconomy.co.kr",
+   "source_name": "리드경제",
    "title_en": "The Bank of Korea approves a monetary and credit policy report containing the background for raising the base interest rate.",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUTUtHQXhVdHBJVmVackY1cXpQVXY2TFZwU29RR3Q3YVZsZVpOYmdEREs3RzNHOWtPVEg4cXozZ1dObGFMd0wwQUhxcWVRY2I3QmZOa1FlV2tGMHF3R0s5clZ2dTN3YXh5TkhJWmtEdw?oc=5",
    "published_utc": "2026-09-29T07:05:00+00:00",
@@ -9897,7 +9931,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rVmZqeDhPX2dVYTNhNGhncnI1RUs0NXhFMDNlQkFCZ3MyYkJsdkNPcUl0WDdTQmpYSElFcHFYRVhhSmROVnpfQWQ5SUJxTE5PblFxNE1SN0k4SjFkWkJaV0RhSk90YjN3QlM5YVFrTFdvU3lRY1FZdjZ0LXI?oc=5",
    "published_utc": "2026-09-28T13:10:00+00:00",
@@ -10383,6 +10417,25 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "한국경제TV",
+   "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Fiscal and monetary policy ‘cooperation’",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Pb2FvcGMtTTNYYlBqMGJxMFdxbUEydVM0NTNYSXB2TFdrTmUxdzJzWHV2V1IxSjhBUFdjZldVM044NnpwYXB3aTlmSlhzRjFZaXlsa05LNmduRjFjTk1FYmxTZVNUT0tXUUotNjNibnZwSDJjZkZR?oc=5",
+   "published_utc": "2026-09-28T08:31:00+00:00",
+   "title_original": "이형일·신현송 첫 회동…재정·통화정책 ＇공조＇",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "af8746307efad53a"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "부산일보",
    "title_en": "[Palm Economy] Base interest rates in global financial markets",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NVkFYcUNKTk91dGhya215N2xMM2x5TU5SVy10ZlVldjlsRUtacW1vU2hZMUUtVHBfa1dVb25WM1owYVEza1pzeUZ5ZmZENHpUNkQxbmF1RW5NakI0dUI5amxkMURPdjJ6ZUF3bXBtMWlpdmQz?oc=5",
@@ -10397,25 +10450,6 @@
    "live_wire": false,
    "manual": false,
    "id": "05b609cc9e8e8231"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Fiscal and monetary policy ‘cooperation’",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5dUdLSVBfaHl1aS0wc284R3FYamdRc2lmakpXS3RYOG1TVWhDUmhkeURTMTVDRnVBdjdKTlhDZ0JfT2dBckE?oc=5",
-   "published_utc": "2026-09-28T08:30:00+00:00",
-   "title_original": "이형일·신현송 첫 회동…재정·통화정책 '공조'",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "31782cf8d632a163"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -10661,7 +10695,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "dhdaily.co.kr",
+   "source_name": "대한데일리",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Are fiscal-monetary policies in sync?",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmSDhSUXZrSXRKd2tGNlJJWjRaRGQxTG5LWHNMZGYzZVpIQ3NwbHZuUE9GeHkzb1FsUDhVRTJtX01QOXJqUjdUakV5ZHdkeE13Wk5PZGhQVE5OS0hJWVNVajBOaFIyNFh5WkI4?oc=5",
    "published_utc": "2026-09-28T06:34:43+00:00",
@@ -11097,7 +11131,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "TradingView",
+   "source_name": "es.tradingview.com",
    "title_en": "The unexpired balance of MLF of the Central Bank of China is 7.6 trillion yuan, and the next maturity will be 900 billion yuan on October 27.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hT0xQenZsdDdyYVB1RXA2dmtja1BRbllRUWtockhBdzF5aFAxMFZrVTBUMWFNOVlISm5YTTA4UVBaLUJCMG41T3gtcXZsSlRXOWVkZUl1dHhMVXJ4QTlNVWtBS1pZV1FnSjNLN1lTQ0gxQXBKZjYw?oc=5",
    "published_utc": "2026-09-28T03:17:00+00:00",
@@ -11185,7 +11219,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
+   "source_name": "newspim.com",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -12663,7 +12697,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China, U.S. reach consensus on eight outcomes in Xi's visit",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4SXVvQTFCY04wbS1kYzU1bGJsbXFPQ3h0UXFxMjV0ZkpWdnVZXzlvUlBhVDF4YnRSUW9PN1c0akV0UmtoeWZIdTc4X3lNVmdmd2lJd1JrQXJYNGhkVW50STRDSzIwZGlXQUdITGtfckhpLWJucjduUm95MUY?oc=5",
    "published_utc": "2026-09-26T10:50:00+00:00",
@@ -21184,7 +21218,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China's State Council appoints, removes officials",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTmlyOHpLQ0syMGZkV2FEeVp1b0JfOGhQbVR1TURQeFd5Q1ZDejRQNHkzcy1lWkhBb2hoZ1BJd2R0alI3MXpkVWtjTEhhTXloRTZYRV9MVDJVOXlXUWJmOXl4NC0xOXRFLXFkelRWYlZnMUVkNkM0b0x3OXY?oc=5",
    "published_utc": "2026-09-20T11:40:16+00:00",
@@ -23353,7 +23387,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
    "published_utc": "2026-09-18T15:43:15+00:00",
@@ -23614,7 +23648,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan - CNA English News",
+   "source_name": "focustaiwan.tw",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T11:36:00+00:00",
@@ -33745,7 +33779,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Xinhua News | China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93T0V0SG82MDNSd0djbmNKbkxmS0pMckRVYlo0YXUwdDB2eUdrdGVTQmZYZzBuRHppWGd5UlN4cmJIWXZWWmJXMHkyRkhmV0VCNUJ2WTlzblNYNTJseFhRN3hMS3UycDBMN1VMQzdFajFId0VQX2NjUUNxNlU?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -33762,7 +33796,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nbk5KVkVjWHdKclpEMXZHd05LUnVvZkg2ZThPZ3lYeVRhd0RxVGJkSVdqb1Q0NjUyWjdXc2VTemFsOTBrb0ppZ2dud2ZhYlFsTVZOQ0NyblN6X1Z1N2wtakdzMFI1emJ6LVIyQWNYZEhycDNGeEo2QXBOWnY?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -51924,40 +51958,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bf15d3995c35d527"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Taiwan proposes extra $4.6 billion in defence spending for this year",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUJhelczNGdrMU9qWngxSncydW1meDh6bUthTVFZbWJ4UnBSYXpac3RFbXk0a1NqZktRREZZTk1vV01FbURUeHJCQnN6MkJfUTBLNzloXzBMZHJfc2ZneE45SVRuQkd6UkJOUGllLXBVWGxaTEtid0ZmejlaZjhWX2dYSmR3OC1paExUcW1SSmxwZUFzTkxlUEtTSzNNVXRUMEo0VlltNTZmWXc?oc=5",
-   "published_utc": "2026-09-03T07:54:56+00:00",
-   "title_original": "Taiwan proposes extra $4.6 billion in defence spending for this year",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "304415d5c56023b1"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "금융경제플러스",
-   "title_en": "Raise interest rates, change credit ratings... Financial authorities plan to redesign the flow of money",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SVUN5ajZ0SFFrd1ZzMDBhOFdhc011MDBHQXZUVjhxMkVwYjhrQ3RaQ2Mwa2xmSjhyNjU1UW9EeDBKeWwxeUFZOG5YenFKQ1hobHNGczdMcnBnNmVmeDFRdVR0YmoxOWRZbXUxZw?oc=5",
-   "published_utc": "2026-09-03T07:50:00+00:00",
-   "title_original": "금리는 올리고 신용평가는 바꾸고…금융당국, 돈의 흐름 재설계 나선다",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "711c2f7782b8687b"
   },
   {
    "source_id": "manual_ia",
