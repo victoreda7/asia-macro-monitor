@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T04:02:43.332885+00:00
+Última coleta: 2026-10-02T04:12:45.359296+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1298
+  🇯🇵 Japão          1295
   🇨🇳 China          780
-  🇹🇼 Taiwan         248
-  🇰🇷 Coreia do Sul  674
+  🇹🇼 Taiwan         249
+  🇰🇷 Coreia do Sul  676
 
 ## O que já está no feed (não repita)
 
+  - [japan] <Clearly emerging trends> In the past five years, when inflation has rapidly increased, what and how have hous
+  - [taiwan] TSMC reportedly weighs Texas expansion, but key US tax incentive could decide the move as Singapore enters the
   - [japan] Japanese yen firms on strong inflation, dollar muted before payrolls test
   - [japan] Japan does not need excessively loose monetary policy, economy minister says
   - [taiwan] DIGITIMES Insight: Intel, TSMC, Samsung converge on backside power — packaging becomes the next divide
   - [china] China's PMI Recovery Encouraging Despite Fragile Domestic Demand — Market Talk
   - [japan] September consumer price index for Tokyo's 23 wards, total excluding fresh food, rose by 2.7% Autumn delicacy 
   - [japan] Yen Steadies After Hot Tokyo Inflation Data
+  - [korea] Gold slips before US payrolls data, set for second weekly loss
   - [taiwan] TSMC, NTU deepen R&D ties through nearly 50 projects a year
   - [taiwan] Taiwan dollar weakens, Philippine peso gains among largely muted Asian FX
   - [japan] Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes
@@ -39,6 +42,7 @@ Total: 3000 manchetes
   - [korea] SSBT "The Bank of Korea freezes in October... If core prices rise, it will rise in November."
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 9
   - [japan] September consumer prices in Tokyo's 23 wards increased by 2.7% compared to the same month last year.Over 2% f
+  - [korea] As the base interest rate rises, the CMA also gets excited... Securities company interest rate competition ‘ac
   - [japan] September consumer price index for Tokyo's 23 wards (excluding fresh food) 2.7% compared to the same month las
   - [japan] Opposition to the Bank of Japan's interest rate hike decision (Hiroyuki Kubota) - Expert
   - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Key facts: Samsung Electronics (005930) Q2 memory record; HBM4E samples
   - [japan] JAPAN SEPT TOKYO CORE-CORE CPI +3.0% Y/Y; AUG +2.0%
   - [japan] MNI JAPAN SEPT TOKYO CORE CPI +2.7% Y/Y; AUG +1.8%
-  - [japan] Japan Jobless Rate Climbs To 2.5%
-  - [japan] Tokyo Inflation Jumps To 2.7% Annually In September
-  - [japan] Tokyo prices rose 2.7% in September (Kyodo News)
-  - [japan] Average Contract Interest Rates on Loans and Discounts (Aug.)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T04:02:43+00:00",
+      "published_utc": "2026-10-02T04:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
