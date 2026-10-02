@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T11:42:46.032511+00:00
+Última coleta: 2026-10-02T11:52:46.084491+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1293
+  🇯🇵 Japão          1294
   🇨🇳 China          784
   🇹🇼 Taiwan         247
-  🇰🇷 Coreia do Sul  676
+  🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen market price rises, dollar sold due to fall in crude oil futures prices
   - [japan] Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity
   - [japan] Japan finance minister: Government united in view reflation is over
   - [japan] Prime Minister Takaichi “plans to leave monetary policy to the Bank of Japan,” Finance Minister Satsuki Kataya
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] More aggressive China stimulus unlikely for now, BofA says
   - [japan] <Clearly emerging trends> In the past five years, when inflation has rapidly increased, what and how have hous
   - [japan] Japanese yen firms on strong inflation, dollar muted before payrolls test
-  - [taiwan] TSMC reportedly weighs Texas expansion, but key US tax incentive could decide the move as Singapore enters the
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T11:42:46+00:00",
+      "published_utc": "2026-10-02T11:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
