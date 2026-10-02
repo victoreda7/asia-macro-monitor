@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T23:02:44.358814+00:00
+Última coleta: 2026-10-02T23:12:48.421020+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1287
+  🇯🇵 Japão          1288
   🇨🇳 China          789
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  675
+  🇰🇷 Coreia do Sul  674
 
 ## O que já está no feed (não repita)
 
+  - [japan] U.S. employment statistics show a lower-than-expected 29,000 increase in September...unemployment rate rises f
   - [korea] "The Federal Reserve and the Bank of Korea will freeze interest rates in October... USD-KRW 1,345-1,370 expect
   - [korea] US firms add just 29,000 Jobs, unemployment rate ticks up
   - [korea] The Bank of Korea said, “Raising interest rates will help stabilize inflation and housing prices.”
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan pledges to help TSMC expand domestic investment amid Singapore rumors
   - [korea] Art Group Buys 6.87% Equity Interests In Edgeon For Krw 585.75 Million
   - [china] China's Mortgage Subsidy Likely to Have Limited Impact — Market Talk
-  - [japan] Collateral Accepted by the Bank of Japan (End of Sept.)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T23:02:44+00:00",
+      "published_utc": "2026-10-02T23:12:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
