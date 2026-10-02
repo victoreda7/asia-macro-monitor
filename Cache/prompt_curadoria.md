@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T02:02:44.621160+00:00
+Última coleta: 2026-10-02T02:12:50.558258+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1299
-  🇨🇳 China          777
-  🇹🇼 Taiwan         249
+  🇨🇳 China          778
+  🇹🇼 Taiwan         248
   🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [china] Asia's gasoline margin skyrockets on outages, China export halt, traders say
+  - [korea] Samsung Electronics, SK hynix trade near flat after trimming losses
+  - [japan] Toho, the largest commercial food wholesaler, has revised its sales forecast upward, but profits remain unchan
+  - [japan] Japan power semiconductor deal stalls as Rohm, Toshiba, Mitsubishi haggle
   - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
   - [japan] Tokyo prices rose 2.7% in September, reaching the 2% level for the first time in eight months (Kyodo News)
   - [china] Hangzhou Great Star 3Q Earnings Likely Weighed by Yuan Strength — Market Talk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea September inflation eases to 2.9% y/y, matches forecast
   - [japan] JAPAN AUG EMPLOYMENT UP 140,000 Y/Y AT 68.49 MILLION FOR 1ST RISE IN 2 MONTHS AFTER BEING FLAT IN JULY
   - [japan] Tokyo Core Inflation Rises Above BoJ Target
-  - [japan] Tokyo Core Inflation Accelerates Sharply Above Bank of Japan Target
-  - [japan] JAPAN SEPT TOKYO CPI: PROCESSED FOOD +3.6% (+0.83 POINT) VS. +3.6% (+0.83 POINT) IN AUG
-  - [japan] Prices in Tokyo's wards rose 2.7% in September...an increase of 2% for the first time in eight months (Yomiuri
-  - [japan] JAPAN SEPT TOKYO INFLATION ANNUAL RATE JUMPS AS CITY’S FREE BASE WATER CHARGES END AFTER PEAK SUMMER MONTHS, D
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T02:02:44+00:00",
+      "published_utc": "2026-10-02T02:12:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
