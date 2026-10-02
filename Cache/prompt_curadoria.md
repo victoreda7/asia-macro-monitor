@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T01:13:20.595413+00:00
+Última coleta: 2026-10-02T01:22:43.420138+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1298
@@ -17,23 +17,23 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes
   - [japan] Opposition to the Bank of Japan's interest rate hike decision (Hiroyuki Kubota) - Expert
   - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
   - [taiwan] Key facts: TSMC (2330) Leads AI Foundry, Tops $2T Market Cap
   - [japan] Pickup in Tokyo Inflation Likely to Fuel Rate-Hike Views
   - [japan] [Tokyo Foreign Exchange] Dollar, low 157 yen level = softening due to strong Tokyo prices (9:00 am on the 2nd)
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
-  - [japan] Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes
   - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes
   - [korea] SK Hynix Stocks Gain 3.2% as Supply Contracts Reprice Memory Scarcity
   - [korea] Key facts: Samsung Electronics (005930) Q2 memory record; HBM4E samples
   - [japan] Prices in Tokyo's wards rose 2.7% in September...an increase of 2% for the first time in eight months (Yomiuri
-  - [japan] Tokyo prices rose 2.7% in September (Kyodo News)
   - [japan] JAPAN SEPT TOKYO CORE-CORE CPI +3.0% Y/Y; AUG +2.0%
   - [japan] MNI JAPAN SEPT TOKYO CORE CPI +2.7% Y/Y; AUG +1.8%
   - [japan] Japan Jobless Rate Climbs To 2.5%
   - [japan] Tokyo Inflation Jumps To 2.7% Annually In September
+  - [japan] Tokyo prices rose 2.7% in September (Kyodo News)
   - [japan] Average Contract Interest Rates on Loans and Discounts (Aug.)
   - [japan] Tankan (Sept.): Comprehensive Data Set
   - [japan] JAPAN AUG JOBLESS RATE TICKS UP AS JOB CUTS/RETIREMENTS, QUITS FOR OTHER WORK BOTH RISE M/M, MORE PEOPLE BEGIN
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T01:13:20+00:00",
+      "published_utc": "2026-10-02T01:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
