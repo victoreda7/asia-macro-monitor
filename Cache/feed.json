@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-02T00:12:46.234832+00:00",
- "collected_at_utc": "2026-10-02T00:12:46.234832+00:00",
+ "generated_at_utc": "2026-10-02T00:22:45.905932+00:00",
+ "collected_at_utc": "2026-10-02T00:22:45.905932+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1297,
-  "china": 781,
+  "japan": 1298,
+  "china": 780,
   "taiwan": 248,
   "korea": 674
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-02T08:54:28+09:00"
+   "newest": "2026-10-02T09:15:29+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T17:17:05+00:00"
+   "newest": "2026-10-01T23:03:31+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T00:10:17+00:00"
+   "newest": "2026-10-02T00:18:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261002de53786",
+   "published_utc": "2026-10-02T00:15:29+00:00",
+   "title_original": "東京23区の9月の消費者物価指数 前年同月比2.7％上昇",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b02a52bcc777dc24"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -427,23 +444,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6047f1132c73c878"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261002de53786",
-   "published_utc": "2026-10-01T23:54:28+00:00",
-   "title_original": "東京23区の9月の消費者物価指数 前年同月比2.7％上昇",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b02a52bcc777dc24"
   },
   {
    "source_id": "tradingview_live",
@@ -667,6 +667,24 @@
    "live_wire": true,
    "manual": false,
    "id": "f364c06638dc9e4b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45M0C3:0-tokyo-core-inflation-rate-jumps-in-september-bolsters-case-for-more-boj-hikes/",
+   "published_utc": "2026-10-01T23:40:54+00:00",
+   "title_original": "Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d49aea342ac4b199"
   },
   {
    "source_id": "tradingview_live",
@@ -1282,23 +1300,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8c2572500f737e46"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N0J1:0/",
-   "published_utc": "2026-10-01T13:06:02+00:00",
-   "title_original": "EUA reduzem exportações de peças de aeronaves para a China, enquanto Trump busca obter vantagem nas negociações comerciais, segundo fontes",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "94f580ec9d66e84b"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -3913,10 +3914,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "证券之星",
    "title_en": "The central bank announced that it will carry out a 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qUnZ3TE1PREZhcThNeDU0SklNRjdZZEZHMGpTLXN1VHlNNGk5VUI2Mmk2TmRwSl9GYWg5QlNPQ1RybmVlWU8yYWYyQnNPN3lXZ1p3?oc=5",
-   "published_utc": "2026-09-30T12:45:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VU1labFJuWGl1d1c3N1RKNHVldFBham9wWWRiUzJJUEUteWZKa3N3ZHlhZVJhTFFzR1JsS0gtWE9lVWZJU0VuTDZvWFVTQ0tVbGE4b0RkSEhZTXhrcEdEXw?oc=5",
+   "published_utc": "2026-09-30T12:19:51+00:00",
    "title_original": "央行宣布，将开展1.2万亿元买断式逆回购操作",
    "region": "china",
    "topics": [
@@ -3927,7 +3928,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a47c81ab2ab7d72"
+   "id": "9139b446494aa3c5"
   },
   {
    "source_id": "korea_herald_biz",
