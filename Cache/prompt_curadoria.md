@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T07:02:45.718637+00:00
+Última coleta: 2026-10-02T07:12:45.210796+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1295
-  🇨🇳 China          781
+  🇯🇵 Japão          1294
+  🇨🇳 China          782
   🇹🇼 Taiwan         248
   🇰🇷 Coreia do Sul  676
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
+  - [china] Everest Medicines Announces the Acceptance and Priority Review of VELSIPITY(R) Manufacturing Localization Appl
+  - [japan] Why did National Democratic Party representative Tamaki suddenly distance himself from the government? The tru
   - [japan] Minister of Administrative Reform Nakajima Autumn Review “Keeping in mind the creation of financial resources 
   - [japan] Chief Cabinet Secretary Kihara informs governor of financial support for Kumamoto earthquake recovery fund
+  - [china] China Chip Smuggling Cases Expose Nvidia’s Blind Spots
   - [china] Atlas Copco Buys Chinese Heating and Cooling Equipment Manufacturer Guangdong Euroklimat
   - [japan] House of Representatives Opposition Diet Committee Chairman and others call for careful deliberation of consum
   - [china] China's Policy Stimulus Package Still Positive Step Despite Limited Scale — Market Talk
@@ -26,7 +30,6 @@ Total: 3000 manchetes
   - [japan] Long-term JGB yields rise toward multi-decade highs as inflation signs mount
   - [japan] Hankyu Hanshin Holdings, Inc. - To Expand The Limit For Its Share Buybacks Up To 5.16% Worth 50 Billion Yen Fr
   - [korea] South Korea's Strong Chip Exports Yet to Spill Over Into Broader Economy — Market Talk
-  - [china] China Chip Smuggling Cases Expose Nvidia’s Blind Spots
   - [japan] Japan Stocks Look Attractive, Especially When Dollar-Yen Above 152 — Market Talk
   - [japan] Retail JGB sales surge more than 80% as rates rise
   - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Tokyo prices rose 2.7% in September, reaching the 2% level for the first time in eight months (Kyodo News)
   - [china] Hangzhou Great Star 3Q Earnings Likely Weighed by Yuan Strength — Market Talk
   - [korea] South Korean Shares Edge Lower on Inflation Concerns
-  - [korea] South Korean policymakers ramp up warnings amid bond sell-off
-  - [japan] Why is Russia's finances in the biggest deficit even though crude oil prices have soared? The US's strong sanc
-  - [korea] SSBT "The Bank of Korea freezes in October... If core prices rise, it will rise in November."
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T07:02:45+00:00",
+      "published_utc": "2026-10-02T07:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
