@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-02T03:12:45.543775+00:00",
- "collected_at_utc": "2026-10-02T03:12:45.543775+00:00",
+ "generated_at_utc": "2026-10-02T03:23:21.100923+00:00",
+ "collected_at_utc": "2026-10-02T03:23:21.100923+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1300,
-  "china": 781,
-  "taiwan": 246,
+  "china": 780,
+  "taiwan": 247,
   "korea": 673
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T01:56:44+00:00"
+   "newest": "2026-10-02T02:22:48+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-02T11:35:30+09:00"
+   "newest": "2026-10-02T12:16:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T23:27:36+00:00"
+   "newest": "2026-10-01T23:44:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T02:22:00+00:00"
+   "newest": "2026-10-01T14:32:45+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T03:10:36+00:00"
+   "newest": "2026-10-02T03:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T02:49:17+00:00"
+   "newest": "2026-10-02T03:13:42+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T01:29:23+00:00"
+   "newest": "2026-10-02T00:33:11+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan does not need excessively loose monetary policy, economy minister says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45O01Q:0-japan-does-not-need-excessively-loose-monetary-policy-economy-minister-says/",
+   "published_utc": "2026-10-02T03:19:49+00:00",
+   "title_original": "Japan does not need excessively loose monetary policy, economy minister says",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "23d36f6b62f3a49a"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -396,22 +414,21 @@
    "id": "cd3ad0d8c4870ef5"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan does not need excessively loose monetary policy, economy minister says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45A03T:0-japan-does-not-need-excessively-loose-monetary-policy-economy-minister-says/",
-   "published_utc": "2026-10-02T02:35:09+00:00",
-   "title_original": "Japan does not need excessively loose monetary policy, economy minister says",
-   "region": "japan",
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC, NTU deepen R&D ties through nearly 50 projects a year",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUxBbGZrcTdvWFBHVHlSc1MyUkZuSThaV1NfN2YzRWw2cDluLWlNLUZjTWx1RFFDWVRhSW55YzM1SkN0aEUtUzdHZUFjV0VZYmV1VEVqVTZkMm9UYjlsRzFObWRrVUJZVnYxcGpyT3NhT3BURjN4cUhTMVZUVDFuOUJrT29CbjdDTUdQag?oc=5",
+   "published_utc": "2026-10-02T02:22:48+00:00",
+   "title_original": "TSMC, NTU deepen R&D ties through nearly 50 projects a year",
+   "region": "taiwan",
    "topics": [
-    "monetary",
-    "signaling"
+    "industrial"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "38a7b52d6500ad43"
+   "id": "c0b8b5d41600155c"
   },
   {
    "source_id": "tradingview_live",
@@ -1037,7 +1054,7 @@
    "source_name": "NHK 経済",
    "title_en": "US long-term interest rates hit the highest level in 24 years, with mortgage rates in the low 7% range",
    "url": "https://news.web.nhk/newsweb/na/nd-20261002de53787",
-   "published_utc": "2026-10-01T23:46:50+00:00",
+   "published_utc": "2026-10-01T23:46:00+00:00",
    "title_original": "米長期金利 24年ぶりの高水準に 住宅ローンは7％台前半",
    "region": "japan",
    "topics": [
@@ -2272,6 +2289,23 @@
    "id": "37bcc56f280f9e8d"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan manufacturing growth slows to six-month low in September By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUF5Y25wZkd4ekhLTDVZU3JJQmlha3hvWWFaT19ELVhxT014Nm9jZVVMakNpNHZQanlyUGRWNExXQUFlSm50ckdSN096WGQ5TjhxdzlDaEpfZHJkZC1vOEJyYjdWbVdNOTBlUndDR1JVNXluQVNfRW40eVpSZG5MVW9MV2JER005OXd2TzVBbkQ3NVNLbF9xZGtJUWdSSnlJM2dpa19QTlZlRFlvVDcxUmZiNk9UYTFOUGhFTGFLSQ?oc=5",
+   "published_utc": "2026-10-01T06:50:24+00:00",
+   "title_original": "Japan manufacturing growth slows to six-month low in September By Investing.com",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5a1f9af5ebd48cc2"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session",
@@ -2323,23 +2357,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d98805fb54656ef4"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Japan manufacturing growth slows to six-month low in September By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMDNCZUVEc19VQkozYV9NNnJqaWVQT0stNExNOGpSVTNnVW1sb1M1elQzWjZTXzJWMVZ0R0tvb1AyZ1dxak5xTFZhWEdQYWhqWVJNTVpzemR1eHpxMlhLcFJ0bXRKbVViUVN3NjJGQnROX1BWTnNGRG5tV19KZXh6NW13ZXF4NVE3cE14VTJXSnl1UzZjeHpsMVh0dVAzNVZGdHBwc0o1Mkp6Z2liNTFrU25RaUtWTExZMmVfX2dnSQ?oc=5",
-   "published_utc": "2026-10-01T06:20:00+00:00",
-   "title_original": "Japan manufacturing growth slows to six-month low in September By Investing.com",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "405e29f5e21664ac"
   },
   {
    "source_id": "investing_live",
@@ -4866,7 +4883,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.cn",
    "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation on October 8",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0tXZFpJTjR2bWxlODdHV3pCTWU4aUJYaG1VeDVGTExCN0tzeEdhM0w0elhyM1pnV2hCSnVhWVpDdkZMQkxIR2YySE44b3FsVGdhVnJhM1h0SXZPMUt3TFpYX3NJUnVRTUhIRVRpOXFoZGZJeVNDeE5hSklUVVI2OW5EZUtFUHJqQWc?oc=5",
    "published_utc": "2026-09-30T09:54:08+00:00",
@@ -6621,7 +6638,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.cn",
    "title_en": "The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarters",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWm80akZhQ3RNeEZZa3RsRTdXSWk2Q3o2V2RTSGl2NmRJcTZYRXZkMFBjb3JBX0Y5VzN2LTBTSW1FZHRqdzdmWVdwQ0plLU1vVER5ZTRVblZNNFlzTmhIMExkYWk2alRaZTNLUTVfdy1VOFhJVGYzaXZfSkx6ZTliOHVfMlk3WjVKelVMeEdFLW1CTFd4WHVZSw?oc=5",
    "published_utc": "2026-09-29T16:07:30+00:00",
@@ -8134,7 +8151,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "kbthink.com",
+   "source_name": "KB Think",
    "title_en": "Semiconductors are booming, so why are they hesitating to raise additional prices? The key is ‘domestic demand’",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zUnh0N05fSDMybDZ5VWVtYWxTRTNJSEM1UHhvOHE1M2UzVXAzT3BsZUJsOU1PdlN3amd6NXdhMXRXM2lpdzlrWWc0aHhDcDRFeFhqcEdQNHFZUFFQVXdpTEVtMDNBeEtyWm5DTXN0VjFqUQ?oc=5",
    "published_utc": "2026-09-28T23:18:33+00:00",
@@ -8151,7 +8168,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.cn",
    "title_en": "The 14-day reverse repurchase restarted, and the central bank’s open market operations invested a total of 1.1 trillion yuan in one day",
    "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxOWGRGUWp1QUZrTGhaTDdmeFlZemZWWmw0cE5WZGhRTEFla0dOMFhJNFVVaE11NmlZRUozYXZMcERMX1BjQ09ySUVrUEhzYXlOUEVadThrU0FMaWZGaWtraW9XN0NLMDh1eGIxSkNjaXpGUldmQm9fay04X0xEMVN1TDQwdDJnbjdlMlFCOVZhS3dUOG5BaEZtMHVsUm83cFNtZ2NMcDExQlhXalJoVkdyRmNrdDI0aU1HMzFkOFdLTUlJMS1FVXBnVjVNQl9ySXFKa0F4WGJBN3ZLRHJEY0hTQ0QwZjc5WXk1cDFOU0tlSk9HV3dlZ2xLNzZ2NXZ0c0hrZVh3aDduSjNwNUptLWZDOFVqTG92THdfclVHd3diMnI1R0FNOWw5TDBNUlp1eTU5Y2VseWhSVS1HTFFzYTZub0k5UTUybjREWlpaRnEycUJzT0hFbndjTE5kS0ZweGFzTll2RjQ0clhFbUtFdDFLOHZwWV9vWEw0RXVsNEVNRmJQM2NmZE05ZmJYUnptUjNGeVdGcjEtSE14MnpTN1dxcV96REpDakJHOVd4QW42YmlGZ2d5Z1A2TUl5bFhyMnNRYnlRaVpROFJvODF1V3hWV0REampJQ1pxaUdDS1FyX09vZkN1VkV4dGx1Wm4yMVZqWDdQZUJIX29SNW9KWXFEU0xBaTMtRmdoUlFlS25LUnU?oc=5",
    "published_utc": "2026-09-28T23:00:36+00:00",
@@ -51939,26 +51956,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f22fe465532015fb"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Central Bank: MLF net withdrawal of 100 billion yuan and reverse repo withdrawal of 641.5 billion yuan in August | People's Bank of China | Mortgage Supplementary Loans | Monetary Policy | Central Bank | Liquidity",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOak5XMk0yNklCUmwtVVI4amVTTHl2S29TUWpnSmpGbkRIbTR5Y3FFSGZzeUFYVkFhYkR4UV9aeDgyVVJ3dTZXSUVzdkxibXp0dms4MUlTUjdrVU1veVVqdjV3dEVaNnJqeFR2STF3UUZiVFI4YlFVWHQ5aElodmlCaE5qV2VYaHFGZ2c?oc=5",
-   "published_utc": "2026-09-02T19:32:00+00:00",
-   "title_original": "央行：8月MLF净回笼1000亿元逆回购回笼6415亿元|中国人民银行|抵押补充贷款|货币政策|中央银行|流动性",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx",
-    "property",
-    "signaling"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1f7436b2656bde61"
   },
   {
    "source_id": "manual_ia",

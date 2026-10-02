@@ -7,20 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T03:12:45.543775+00:00
+Última coleta: 2026-10-02T03:23:21.100923+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1300
-  🇨🇳 China          781
-  🇹🇼 Taiwan         246
+  🇨🇳 China          780
+  🇹🇼 Taiwan         247
   🇰🇷 Coreia do Sul  673
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan does not need excessively loose monetary policy, economy minister says
   - [china] China's PMI Recovery Encouraging Despite Fragile Domestic Demand — Market Talk
   - [japan] September consumer price index for Tokyo's 23 wards, total excluding fresh food, rose by 2.7% Autumn delicacy 
   - [japan] Yen Steadies After Hot Tokyo Inflation Data
-  - [japan] Japan does not need excessively loose monetary policy, economy minister says
+  - [taiwan] TSMC, NTU deepen R&D ties through nearly 50 projects a year
   - [taiwan] Taiwan dollar weakens, Philippine peso gains among largely muted Asian FX
   - [japan] Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes
   - [china] Asia's gasoline margin skyrockets on outages, China export halt, traders say
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Average Contract Interest Rates on Loans and Discounts (Aug.)
   - [japan] Tankan (Sept.): Comprehensive Data Set
   - [japan] JAPAN AUG JOBLESS RATE TICKS UP AS JOB CUTS/RETIREMENTS, QUITS FOR OTHER WORK BOTH RISE M/M, MORE PEOPLE BEGIN
-  - [japan] MNI JAPAN AUG JOBLESS RATE RISES TO 2.5% FROM JULY 2.4%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T03:12:45+00:00",
+      "published_utc": "2026-10-02T03:23:21+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
