@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T10:42:45.077867+00:00
+Última coleta: 2026-10-02T10:52:45.840755+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1292
   🇨🇳 China          783
-  🇹🇼 Taiwan         247
-  🇰🇷 Coreia do Sul  678
+  🇹🇼 Taiwan         248
+  🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
 
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [japan] Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus
   - [korea] European Chip Stocks Rally after Report Samsung Ups Prices — Market Talk
   - [china] SK Innovation, Aramco-backed S-Oil rally as China export bans add to global fuel strain
+  - [taiwan] Manufacturing sector flashes 'green' light in August
   - [china] China fuel export suspension to choke supplies in Asia
   - [japan] BREAKING NEWS: Japan farm minister admits making "misleading" remarks on local budget cut
   - [korea] Art Group Buys 6.87% Equity Interests In Edgeon For Krw 585.75 Million
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese yen firms on strong inflation, dollar muted before payrolls test
   - [taiwan] TSMC reportedly weighs Texas expansion, but key US tax incentive could decide the move as Singapore enters the
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
-  - [japan] Japan does not need excessively loose monetary policy, economy minister says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T10:42:45+00:00",
+      "published_utc": "2026-10-02T10:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
