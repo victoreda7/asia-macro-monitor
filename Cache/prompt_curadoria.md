@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T00:52:43.125993+00:00
+Última coleta: 2026-10-02T01:02:50.167827+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1301
-  🇨🇳 China          779
-  🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  671
+  🇯🇵 Japão          1299
+  🇨🇳 China          778
+  🇹🇼 Taiwan         250
+  🇰🇷 Coreia do Sul  673
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Key facts: TSMC (2330) Leads AI Foundry, Tops $2T Market Cap
   - [japan] Pickup in Tokyo Inflation Likely to Fuel Rate-Hike Views
   - [japan] [Tokyo Foreign Exchange] Dollar, low 157 yen level = softening due to strong Tokyo prices (9:00 am on the 2nd)
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea Sept inflation +2.9% y/y, as expected
   - [china] US alleges California man smuggled export-controlled servers to China
   - [korea] South Korea Inflation Data Due On Friday
-  - [china] China and Russia Just Tightened Fuel Supplies: Will Bitcoin Pay in October?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T00:52:43+00:00",
+      "published_utc": "2026-10-02T01:02:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
