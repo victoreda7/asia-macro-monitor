@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T00:02:43.643627+00:00
+Última coleta: 2026-10-02T00:12:46.234832+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1297
-  🇨🇳 China          779
-  🇹🇼 Taiwan         250
+  🇨🇳 China          781
+  🇹🇼 Taiwan         248
   🇰🇷 Coreia do Sul  674
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix Stocks Gain 3.2% as Supply Contracts Reprice Memory Scarcity
   - [korea] Key facts: Samsung Electronics (005930) Q2 memory record; HBM4E samples
   - [japan] Prices in Tokyo's wards rose 2.7% in September...an increase of 2% for the first time in eight months (Yomiuri
   - [japan] Tokyo prices rose 2.7% in September (Kyodo News)
@@ -29,12 +30,12 @@ Total: 3000 manchetes
   - [japan] Tankan (Sept.): Comprehensive Data Set
   - [japan] JAPAN AUG JOBLESS RATE TICKS UP AS JOB CUTS/RETIREMENTS, QUITS FOR OTHER WORK BOTH RISE M/M, MORE PEOPLE BEGIN
   - [japan] MNI JAPAN AUG JOBLESS RATE RISES TO 2.5% FROM JULY 2.4%
+  - [japan] Tokyo core inflation jumps in September, bolsters case for more BOJ hikes
   - [japan] US long-term interest rates hit the highest level in 24 years, with mortgage rates in the low 7% range
   - [japan] Nikkei May Decline Amid Concerns About Higher Energy Costs — Market Talk
   - [japan] JAPAN AUG UNEMPLOYMENT DOWN 20,000 Y/Y AT 1.80 MLN, DOWN FOR FIRST TIME IN 13 MONTHS AFTER BEING FLAT IN JULY 
   - [korea] South Korea September inflation eases to 2.9% y/y, matches forecast
   - [japan] JAPAN AUG EMPLOYMENT UP 140,000 Y/Y AT 68.49 MILLION FOR 1ST RISE IN 2 MONTHS AFTER BEING FLAT IN JULY
-  - [japan] Tokyo core inflation jumps in September, bolsters case for more BOJ hikes
   - [japan] Tokyo Core Inflation Rises Above BoJ Target
   - [japan] JAPAN SEPT TOKYO CPI: PROCESSED FOOD +3.6% (+0.83 POINT) VS. +3.6% (+0.83 POINT) IN AUG
   - [japan] JAPAN SEPT TOKYO INFLATION ANNUAL RATE JUMPS AS CITY’S FREE BASE WATER CHARGES END AFTER PEAK SUMMER MONTHS, D
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese state funds backed purchases of restricted Nvidia AI chips, report says
   - [china] China shortens leash on property developers
   - [japan] ``Russian finances'' unable to benefit from high crude oil prices, gold holdings plummet! Putin faces great di
-  - [japan] Coordinated intervention to buy yen for the first time in 28 years, US stance and future of international coop
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T00:02:43+00:00",
+      "published_utc": "2026-10-02T00:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

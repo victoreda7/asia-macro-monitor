@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-02T00:02:43.643627+00:00",
- "collected_at_utc": "2026-10-02T00:02:43.643627+00:00",
+ "generated_at_utc": "2026-10-02T00:12:46.234832+00:00",
+ "collected_at_utc": "2026-10-02T00:12:46.234832+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1297,
-  "china": 779,
-  "taiwan": 250,
+  "china": 781,
+  "taiwan": 248,
   "korea": 674
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 29.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T17:57:09+00:00"
+   "newest": "2026-10-01T20:00:01+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T23:43:09+00:00"
+   "newest": "2026-10-02T00:00:30+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-01T23:43:09+00:00"
+   "newest": "2026-10-01T23:52:05+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T00:01:00+00:00"
+   "newest": "2026-10-02T00:10:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-02T08:30:00+09:00"
+   "newest": "2026-10-02T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T11:10:10+00:00"
+   "newest": "2026-10-02T00:00:25+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "SK Hynix Stocks Gain 3.2% as Supply Contracts Reprice Memory Scarcity",
+   "url": "https://www.tradingview.com/news/gurufocus:b330ca110094b:0-sk-hynix-stocks-gain-3-2-as-supply-contracts-reprice-memory-scarcity/",
+   "published_utc": "2026-10-02T00:03:19+00:00",
+   "title_original": "SK Hynix Stocks Gain 3.2% as Supply Contracts Reprice Memory Scarcity",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "74e7430b71c8c555"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -548,6 +565,24 @@
    "id": "06ace17224d4dabf"
   },
   {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Tokyo core inflation jumps in September, bolsters case for more BOJ hikes",
+   "url": "https://www.investing.com/news/economy-news/tokyo-core-inflation-jumps-in-september-bolsters-case-for-more-boj-hikes-4928698",
+   "published_utc": "2026-10-01T23:48:26+00:00",
+   "title_original": "Tokyo core inflation jumps in September, bolsters case for more BOJ hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b272e7c18136483b"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "US long-term interest rates hit the highest level in 24 years, with mortgage rates in the low 7% range",
@@ -632,24 +667,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f364c06638dc9e4b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Tokyo core inflation jumps in September, bolsters case for more BOJ hikes",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45M0C3:0-tokyo-core-inflation-jumps-in-september-bolsters-case-for-more-boj-hikes/",
-   "published_utc": "2026-10-01T23:40:54+00:00",
-   "title_original": "Tokyo core inflation jumps in September, bolsters case for more BOJ hikes",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "04c0302ca69839d6"
   },
   {
    "source_id": "tradingview_live",
@@ -1267,6 +1284,23 @@
    "id": "8c2572500f737e46"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "US reduces exports of aircraft parts to China as Trump seeks advantage in trade talks: sources",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N0J1:0/",
+   "published_utc": "2026-10-01T13:06:02+00:00",
+   "title_original": "EUA reduzem exportações de peças de aeronaves para a China, enquanto Trump busca obter vantagem nas negociações comerciais, segundo fontes",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "94f580ec9d66e84b"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "Brazil Steelmakers See New Import Threats as China Share Falls",
@@ -1632,7 +1666,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan extends fuel freeze, seeks extra subsidies for CPC, Taipower",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXhjYnVkb2daUzh0VEVudDRhM2hxcnRKdDlGRG1kUkh4RXZOSzhtaGQ0X2R1SHV1WEVPWTh1OXBYdGtJTFF4Q3kyTWVndzRSUHpsX3YweDNVWkE0QVJmVlQzM2gzMGJ4Z1RpdVRkcFZoazN2clRpa0VBWURWbDBiVmZzeTFCQ0NGbGRRQ1Q5Rms1YUhtYmthX1UxRi0wRzJsWGVJRGgzbmZFQQ?oc=5",
    "published_utc": "2026-10-01T08:13:24+00:00",
@@ -2293,7 +2327,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.ce.cn",
+   "source_name": "中国经济网",
    "title_en": "The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation for a period of 3 months",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IbzJDTWRoMVVvMUZmcG02c2xDV3d2dUNRNS1EZDFjaklacDVraWRRTDdKbVp1YkszbE1LR0cyLXlHaUdzTmNheklFRmJFdXB3VS12SG50NHY2ZktxeUVRZG16VUlhQUtrVWlfczR5aGdzXzg?oc=5",
    "published_utc": "2026-10-01T03:16:00+00:00",
@@ -2643,7 +2677,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "AI chip packaging demand meets labor pushback: ASE's NT$5.6B Taiwan snack factory deal sparks strike vote",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSTAzNzdvbnBWV0RGOHQ0WjJxb3hOS2xDU2lJZHo4VFhUUlBTM3ROQ2xzRjNnMnNxeC1vczVVUkJqXzhvYWIwUHVvTVpnX2M0VVZjVHpzR3Ftek5KQnJKeFo3TUJOM3ROMDFnWVd5Ym9iMDhGXzItY2M0Z00zNDd5LWZoUnpTdnFxMUZ4UUxlREpkdw?oc=5",
    "published_utc": "2026-10-01T01:15:15+00:00",
@@ -2711,7 +2745,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "SG Semiconductor builds brand and talent for Singapore chip industry",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVl9KeWpFRFBJenc0NXNkVU1oYjhxcmpyd2wtX2RYODVkNlNldEtvUXA2T1NPdWRhQzNfZFBOTjZQQ1FyTXd6ZWpidGN0d3BNVWRaYk04SzkwSGVsandkX1ZCem1uSXl0VlIzWnMxd3VTUTd0dTBoQXcwTjhQQWhuckQzaEdXRXRGOWN4b3RCUTZuUDhhd2lXdmk2WF9CSjQ?oc=5",
    "published_utc": "2026-10-01T01:02:01+00:00",
@@ -3535,8 +3569,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -3550,7 +3584,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "75b4c762a9b099d0"
+   "id": "1a1839a5fb285df0"
   },
   {
    "source_id": "nikkei_asia",
@@ -3879,10 +3913,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
+   "source_name": "搜狐网",
    "title_en": "The central bank announced that it will carry out a 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VU1labFJuWGl1d1c3N1RKNHVldFBham9wWWRiUzJJUEUteWZKa3N3ZHlhZVJhTFFzR1JsS0gtWE9lVWZJU0VuTDZvWFVTQ0tVbGE4b0RkSEhZTXhrcEdEXw?oc=5",
-   "published_utc": "2026-09-30T12:19:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qUnZ3TE1PREZhcThNeDU0SklNRjdZZEZHMGpTLXN1VHlNNGk5VUI2Mmk2TmRwSl9GYWg5QlNPQ1RybmVlWU8yYWYyQnNPN3lXZ1p3?oc=5",
+   "published_utc": "2026-09-30T12:45:00+00:00",
    "title_original": "央行宣布，将开展1.2万亿元买断式逆回购操作",
    "region": "china",
    "topics": [
@@ -3893,7 +3927,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9139b446494aa3c5"
+   "id": "1a47c81ab2ab7d72"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3931,8 +3965,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -3947,7 +3981,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "950b84d1e9e45198"
+   "id": "2711875b41f47be4"
   },
   {
    "source_id": "tradingview_live",
@@ -3967,8 +4001,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -3981,7 +4015,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5af5981dfcf348d4"
+   "id": "c6a7c990cb0818fa"
   },
   {
    "source_id": "nhk_economy",
@@ -4136,6 +4170,23 @@
    "live_wire": true,
    "manual": false,
    "id": "01ab6412b496144f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "The central bank announced that it will conduct continuous overnight reverse repurchase operations in the middle of the month",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14QU1JbWxPTmxQV0I3MTlLU0xpWElMRWdCZFVpbVUwUU9pUjQtTmRpTU9ieFU4M1IyWkVDN05VMXRSQTZqZW5uOE5QWFM1RlRMZzMw?oc=5",
+   "published_utc": "2026-09-30T10:48:56+00:00",
+   "title_original": "央行公告，将在月中连续开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ea079e31fc559a5f"
   },
   {
    "source_id": "gn_jp_investing",
@@ -4436,7 +4487,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "cls.cn",
+   "source_name": "财联社",
    "title_en": "17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October 8 with a period of 3 months]",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2cktXNzRrMEZfZVFtaS15UF84a0t3ZGpuRWpud3hsaWhsWnpKTjhJcHQwTDlrWVltRlB2dkh1ZGZWRU42clB4Rw?oc=5",
    "published_utc": "2026-09-30T09:09:45+00:00",
@@ -4988,7 +5039,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Foundry 2.0 revenue hits record as growth spreads beyond TSMC",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUNNM0JMVFlMYlNjbXdxbWlIUVRTRzZfOUlZS1h4djZIMklrVTlHaXI0NnFwLXNpbEcyZkxrSmlNNktBT05wM3Nud0xsQzdaaU04a3hVU1JLVWpRcnVmLS1IcjNHWG55c2VsTzZyVmJ0alFVZVg3RDRhWGV2RWdPc1VzNk02dFR2VXNaVEZVYw?oc=5",
    "published_utc": "2026-09-30T03:29:34+00:00",
@@ -5022,7 +5073,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "chosun.com",
+   "source_name": "조선일보",
    "title_en": "Home loan interest rate highest in 3 years and 9 months... Credit loans exceeded 6%",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFFDTzIzaFJzTlhQa2M1aFlUOThDOWIyY1gycXZ0d2FEN3pBNWw3MUhzSEVrVmpxSVNkZXROYTdoSGNyVU1MaHh3V0VVb1JjRFQ5bzJ1ZUN1WUhJNGJ1dlFWNDBEQlQ5NDVaSlFkM2pKTUh1amN1SkUyRGpMblZLa3dZVzlHVVhwZVpOdDBB?oc=5",
    "published_utc": "2026-09-30T03:07:25+00:00",
@@ -5280,7 +5331,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺财经",
+   "source_name": "同花顺",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out 833.5 billion yuan of overnight reverse repurchase operations.",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdy1vXzlVSWJ5MHBBX1Y3emNjeS1wNDRDZjFocHNCTXZ1ekZyRGhTVW1nOEFVeUZ2eEdOY3Q0VUVfQnlXXzdPQ09DVm9iV2FqSkpCZ0w4UHJ5RWtGX1E?oc=5",
    "published_utc": "2026-09-30T01:23:15+00:00",
@@ -6084,7 +6135,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "K-Radio 우리방송",
+   "source_name": "radiok1230.com",
    "title_en": "The Korean financial market is tense due to the sharp rise in US and Japanese government bond yields... Bank of Korea warns of ‘interest rate and foreign exchange’ risks",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRbGdjVHpXRjQzUThyejNseFB0VUxZdlVlSWpWZER6dndJamtVWFMtb2FSV2JlanhPMEtUMjM0cEViR3VYOFo2WTluQm5Wd0s1MnZiS3VGNmdJcWkxcHdCYkxXeDRTYlFjeDZjSElCdnc1UdIBckFVX3lxTFBRbGdjVHpXRjQzUThyejNseFB0VUxZdlVlSWpWZER6dndJamtVWFMtb2FSV2JlanhPMEtUMjM0cEViR3VYOFo2WTluQm5Wd0s1MnZiS3VGNmdJcWkxcHdCYkxXeDRTYlFjeDZjSElCdnc1UQ?oc=5",
    "published_utc": "2026-09-29T15:05:12+00:00",
@@ -6491,7 +6542,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "In global semiconductor race, Singapore bets on critical, mature technologies",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1RGZE5GN214UnVaS2lFNzR4YWR6Qno5WXNKM0MzOXM4REZzdTQzdnlPajJ3MFN0UWJLZjV6RjlUVVFlM2QyTFBlZG0xTERBN2JQNmthQ183QUkzLWZaQm5JckI3UTdZRzZhTU00ZkQyVHphZ2hoQnp4VWdrM0FFSGE3RTN6b0FTU0duMkNpVFdPdlNWWF91dXRiM3pZMmQzOTd4NENrQm9oVlE?oc=5",
    "published_utc": "2026-09-29T08:57:39+00:00",
@@ -6681,7 +6732,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Singapore's chip progress",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XNjZCb0thUXp3V2MxZUpJX1M0c1R5cFczcC04aEtCWTNabC1OOUxlckk0RXZZTUZqVm9hRHlLZmZ3WGhYX1hHRUR6TDdjUFh0MTBTVEtSRl9hc29yTE1hZEc0NWNLdXMxZmd5YlU5dEZfX3hxNGxoeEpR?oc=5",
    "published_utc": "2026-09-29T07:03:20+00:00",
@@ -6906,7 +6957,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNUZNV0k1NXFrQ2p5VzFOZmFMeUZYU0hxSWtSZ1huSUxCVHZ4SXQ3cXFjcl9iMXc3WmE0RHZTOEttUTJKREI4NmQyWjUyZU9YVXRmR3dFOGljRG1wT25JLWVKTFFGYkVIZ3kzb1dPV2o3SW82cHlsTFdTTEdCQmRYb1BOVDRVbHk3YWZfNEpQZw?oc=5",
    "published_utc": "2026-09-29T03:59:54+00:00",
@@ -6940,7 +6991,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNWdxNDRkWjI1Qy1fN0F0SjJkU19RYmNBN2VQdm5oRXIzVHRPT0hNZ2w2bkgyaEllamd2b2I4UzlSYUFNTHJ4X21sTHduTVdSQzFONG91N25FaU9nSWNGS2JJX1dNbUZxRTcwSUNPYkVHZXhJUUJBZUxKcXZwOXpKR05qUXdBbTJKX25CS2g0TQ?oc=5",
    "published_utc": "2026-09-29T03:23:52+00:00",
@@ -7132,7 +7183,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "비즈니스포스트",
+   "source_name": "businesspost.co.kr",
    "title_en": "Foreign media reviews are positive on the pace of interest rate hikes by the Bank of Korea, “leading to a natural soft landing”",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96ZFluMDViLWNvcUQ1T2hDcWI0SjZLNjFGOEh0TlRsZE5WQ0JEanJ4dDRtUWd6Mm9VZjlIdTBRX2hIUkZLM0hiY1doMnZhNEVDZ2V0bFQ5QUI2NUcwWkYxTTU1QldqcUtNemtZaVFhZzZUd3M?oc=5",
    "published_utc": "2026-09-29T02:15:19+00:00",
@@ -9551,7 +9602,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
+   "source_name": "digitimes",
    "title_en": "South Korea's HBM-linked exports surge as Taiwan, Malaysia emerge as high-value destinations",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUh3YzRSS2NlTWNMT014QWpMNzlIZEFHVHMzbERCN3NKWl9ubzAxZEhBR3pCVEx1WjFlSHdUcmtZT2NHc2NESlN2V05zZi1xYlBfSDFtVTNjOW9DNi1UZlBuc0tSZnd4OUZPNWJUdVRkMWNOM1l2VXVITmlYa2x3RnRyX3VLNzFyNFhkQQ?oc=5",
    "published_utc": "2026-09-28T01:12:02+00:00",
@@ -51909,57 +51960,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1cc471332de63db9"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Consumer price hike seen at 2.5% without mobile bills: finance ministry",
-   "url": "https://www.koreaherald.com/article/10859767",
-   "published_utc": "2026-09-02T09:55:43+00:00",
-   "title_original": "Consumer price hike seen at 2.5% without mobile bills: finance ministry",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "028f7ab3255775ac"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
-   "title_en": "Sandisk says HBF can match HBM bandwidth with up to 16x the capacity",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNblhleDc4c2t2UUpEQUUtalI1aFlmUGgzUktRMDNXV1h4TUZYbFJYNkYyMlhVcFFQUF9JNllOdWpSdnV3Y3pkdmh0b2phS3ZsbDlBUU9uVmdLTzZ6THRFT3VYaHlvcjl6Z3pjT0ZERGYzVGRpTG1Zc3hkTzBwWTBNZkxFOU1feUJCWFZpUU9EUThwUnVC?oc=5",
-   "published_utc": "2026-09-02T09:54:45+00:00",
-   "title_original": "Sandisk says HBF can match HBM bandwidth with up to 16x the capacity",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "38e250c5522b28d6"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Micron says tightly coupled DRAM could deliver more than 10x HBM bandwidth",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeEs2ejhUaFhQbk9qZGxkWWhuSG9rdE5MWWhWNUhHY2lQMlRvNXJNR0dGWXI4ZGJwT2xWU29kb2VaYXpiMkFZQ0d3ZU03SHEtOU44V2R6S2dBQVlhcWtsVFVDLVY1eXM5bjE0WmItZ2JIdHIwTVJyeFVHOXMxSzVEUzFtVS0tYjRB?oc=5",
-   "published_utc": "2026-09-02T09:41:08+00:00",
-   "title_original": "Micron says tightly coupled DRAM could deliver more than 10x HBM bandwidth",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3585f3f9b236c1f2"
   },
   {
    "source_id": "manual_ia",
