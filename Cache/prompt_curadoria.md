@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T21:12:47.099108+00:00
+Última coleta: 2026-10-02T21:22:44.068416+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1291
+  🇯🇵 Japão          1290
   🇨🇳 China          788
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  672
+  🇰🇷 Coreia do Sul  673
 
 ## O que já está no feed (não repita)
 
+  - [japan] One of the reasons why the yen continues to depreciate is the Bank of Japan's "fiscal subordination" issue, an
+  - [korea] Trump pushes South Korea on $54B Alaska LNG venture, warns of tariff hikes
   - [japan] IBM/GE → Unemployment, Entrepreneurship, Publishing, National University Professor's ``University Professor fr
   - [japan] Japan local governments step up Taiwan outreach for chip investment
   - [japan] What's coming to the former Bank of Japan Kanazawa branch? The artworks on display will be... 21st century wil
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [korea] Ministry of Finance and Economy ◇Promotion of Deputy Director △Public relations Officer Kim Young-h..
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3287582.16, Implies 79% Upside
-  - [korea] Samsung Electronics' large-scale share buyback has entered the final stage. The event, which has sup..
-  - [china] In Focus | How US sanctions forced Xinjiang’s cotton industry to build a survival model
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T21:12:47+00:00",
+      "published_utc": "2026-10-02T21:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
