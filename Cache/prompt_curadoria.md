@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T13:22:46.125147+00:00
+Última coleta: 2026-10-02T13:32:45.850431+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1294
-  🇨🇳 China          784
+  🇨🇳 China          783
   🇹🇼 Taiwan         247
-  🇰🇷 Coreia do Sul  675
+  🇰🇷 Coreia do Sul  676
 
 ## O que já está no feed (não repita)
 
   - [korea] US firms add just 29,000 Jobs, unemployment rate ticks up
+  - [korea] Trump says South Korea trade deal adds $8.4B oil project
   - [japan] Yen market price rises, dollar sold due to fall in crude oil futures prices
   - [japan] Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity
   - [japan] Japan finance minister: Government united in view reflation is over
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
   - [korea] South Korean Won Steady on Export Growth
   - [japan] Japan's unemployment rate rises to 2.5% in August, above expectations
-  - [china] More aggressive China stimulus unlikely for now, BofA says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T13:22:46+00:00",
+      "published_utc": "2026-10-02T13:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
