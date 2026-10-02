@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-02T00:32:44.279888+00:00",
- "collected_at_utc": "2026-10-02T00:32:44.279888+00:00",
+ "generated_at_utc": "2026-10-02T00:43:20.579530+00:00",
+ "collected_at_utc": "2026-10-02T00:43:20.579530+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1299,
+  "japan": 1300,
   "china": 780,
   "taiwan": 249,
-  "korea": 672
+  "korea": 671
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T20:00:01+00:00"
+   "newest": "2026-10-01T21:00:03+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-01T21:31:11+00:00"
+   "newest": "2026-10-02T09:34:07+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T00:18:00+00:00"
+   "newest": "2026-10-02T00:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T18:47:56+00:00"
+   "newest": "2026-10-01T21:50:10+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T23:56:47+00:00"
+   "newest": "2026-10-02T00:30:24+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "[Tokyo Foreign Exchange] Dollar, low 157 yen level = softening due to strong Tokyo prices (9:00 am on the 2nd) (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WGJMYnFLX3hwY3BBNURadmFMQkRnWVU4Z0JkRTQwNzFINDBSQ0xPUldUYkRwNE1Va2JqeWpUbks3ZWoyOHMxa0Q3NE9HeWo0emVoQVZiUXRxMTBaWGxBOUJwYWJIampKR1F4Qnc5dmQ1aW95UlZaM0Q1V0FfQkU?oc=5",
+   "published_utc": "2026-10-02T00:30:24+00:00",
+   "title_original": "〔東京外為〕ドル、157円台後半＝強めの東京都物価で軟化（2日午前9時）（時事通信）",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b90f88fa9d46454e"
+  },
   {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
@@ -1045,6 +1063,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f2592a2bde7aa6c7"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Chip Smuggling Cases Expose Nvidia’s Blind Spots",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnZqUE1kc1RPWjZZTkV6Rjl0NGlnQ0szamJ5YWFURzFpVWJYUThldVJ2Wm5vSEJBTnVGZjlvMEs3REpRVDJaeU5nMDV2bmEzOVV3cE9sYTdZa3g0c2FnNnlhNThXMnBDQTJjZFczaUtJZTZmT0tsMHc4cWZ0U3R6UzRUVUc4V2VNeUdWMS1oU2xDcllzZ05TakN1c1c4Zi1Vc2pQOTFHSVFSY1hI?oc=5",
+   "published_utc": "2026-10-01T21:00:03+00:00",
+   "title_original": "China Chip Smuggling Cases Expose Nvidia’s Blind Spots",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ade393b01abbed85"
   },
   {
    "source_id": "toyo_keizai",
@@ -3622,8 +3657,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -3637,7 +3672,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a1839a5fb285df0"
+   "id": "75b4c762a9b099d0"
   },
   {
    "source_id": "nikkei_asia",
@@ -4018,8 +4053,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -4034,7 +4069,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2711875b41f47be4"
+   "id": "950b84d1e9e45198"
   },
   {
    "source_id": "tradingview_live",
@@ -4054,8 +4089,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -4068,7 +4103,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c6a7c990cb0818fa"
+   "id": "5af5981dfcf348d4"
   },
   {
    "source_id": "nhk_economy",
@@ -6349,7 +6384,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "新华网",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"-Xinhua",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGw3YmRiRW40NGFsM0pRSThUTWtYNWNQbmpZWW1FaXJ0NHBmT0Y1Njh6NmhnVFdtbm8zZEJmSEVXY3dqdnRzWGdrT09wNUVSMlNURndkdm9yMFhuUzRpVFkzX3Nnb2toTDhjblg1MU5pNFhOc2tySHY3cVZ5VmJOaw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkZDQ1pSNVdOUERWVGszNDc5Y2dsQU12Z25mcjl0TFUtWWNvbnViV1BMQVp3RFhjbmVBMXQ2S3F2bmotVk15MjFWV1BiMGpXUGRjS1Qyb3NhT18yNk5ma3hPNnhhS0ZWa0ZaWjRxYkM5c1ZzN2hvVFFPUEh3RHpMMzcyMDVpVnkt?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
    "title_original": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"-Xinhua",
    "region": "china",
@@ -6360,7 +6395,24 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "feffcf4e165d281c"
+   "id": "4032172bd62d47a5"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHUnRnQTVQZkREcjlKY3VoWWJhaUxUb29pVnFXaGYxX1U5N3dSSTBILVVWdHNQbHY5Z1FTSjYwckc4WnhhdHNNWHJ4ZmFJN2JiLVpubUgwb21BTlNBWUlrb0htTElxX25TQi1vaENGTVBMVmJobk9pLXZfRQ?oc=5",
+   "published_utc": "2026-09-29T13:14:15+00:00",
+   "title_original": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "32aeac54145f756e"
   },
   {
    "source_id": "investing_econ",
@@ -51909,58 +51961,6 @@
    "live_wire": false,
    "manual": false,
    "id": "027d68b31c8827ee"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China-made Tesla electric vehicle sales continue growth streak, but momentum slows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44U0F7:0/",
-   "published_utc": "2026-09-02T10:39:12+00:00",
-   "title_original": "As vendas de veículos elétricos da Tesla fabricados na China mantêm a sequência de crescimento, mas o ímpeto diminui",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "53f6db778a6e73e3"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "BOK says inflation to ease in Sept. but underlying pressures to persist",
-   "url": "https://www.koreaherald.com/article/10859877",
-   "published_utc": "2026-09-02T10:30:48+00:00",
-   "title_original": "BOK says inflation to ease in Sept. but underlying pressures to persist",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cb6bbcfbd6bfe104"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China-made Tesla electric vehicle sales rise 3.6% year-on-year in August",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44U0EN:0/",
-   "published_utc": "2026-09-02T10:27:25+00:00",
-   "title_original": "Vendas de veículos elétricos da Tesla fabricados na China sobem 3,6% ano a ano em agosto",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "44db8756dd97c772"
   },
   {
    "source_id": "manual_ia",
