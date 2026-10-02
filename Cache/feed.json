@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-02T22:42:43.407849+00:00",
- "collected_at_utc": "2026-10-02T22:42:43.407849+00:00",
+ "generated_at_utc": "2026-10-02T22:52:45.719841+00:00",
+ "collected_at_utc": "2026-10-02T22:52:45.719841+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1288,
+  "japan": 1287,
   "china": 789,
   "taiwan": 249,
-  "korea": 674
+  "korea": 675
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-03T07:08:00+09:00"
+   "newest": "2026-10-03T07:46:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T22:39:00+00:00"
+   "newest": "2026-10-02T22:51:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T22:00:00+00:00"
+   "newest": "2026-10-02T22:40:01+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "KB Think",
+   "title_en": "\"The Federal Reserve and the Bank of Korea will freeze interest rates in October... USD-KRW 1,345-1,370 expected.\"",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yMkFZd0FucS1naHpFaVd6QWJrckxhTW5iNFRvOXFZRkRSRHhtR0FNTTBHVGVpMWNjMmVfRWg0MjJLQ3E1bnRwTUhGdnU2akVMWExNOTdDYjcyOVdfbUNJWV83cHMtU1dSZmpnN2VUamVCUQ?oc=5",
+   "published_utc": "2026-10-02T22:40:01+00:00",
+   "title_original": "\"10월 연준·한은 금리 동결할 것…달러-원 1,345~1,370원 전망\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5e3fb665f9df8164"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -10594,25 +10612,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "한국경제TV",
-   "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Fiscal and monetary policy ‘cooperation’",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Pb2FvcGMtTTNYYlBqMGJxMFdxbUEydVM0NTNYSXB2TFdrTmUxdzJzWHV2V1IxSjhBUFdjZldVM044NnpwYXB3aTlmSlhzRjFZaXlsa05LNmduRjFjTk1FYmxTZVNUT0tXUUotNjNibnZwSDJjZkZR?oc=5",
-   "published_utc": "2026-09-28T08:31:00+00:00",
-   "title_original": "이형일·신현송 첫 회동…재정·통화정책 ＇공조＇",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "af8746307efad53a"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "부산일보",
    "title_en": "[Palm Economy] Base interest rates in global financial markets",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NVkFYcUNKTk91dGhya215N2xMM2x5TU5SVy10ZlVldjlsRUtacW1vU2hZMUUtVHBfa1dVb25WM1owYVEza1pzeUZ5ZmZENHpUNkQxbmF1RW5NakI0dUI5amxkMURPdjJ6ZUF3bXBtMWlpdmQz?oc=5",
@@ -10627,6 +10626,25 @@
    "live_wire": false,
    "manual": false,
    "id": "05b609cc9e8e8231"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "v.daum.net",
+   "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Fiscal and monetary policy ‘cooperation’",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5dUdLSVBfaHl1aS0wc284R3FYamdRc2lmakpXS3RYOG1TVWhDUmhkeURTMTVDRnVBdjdKTlhDZ0JfT2dBckE?oc=5",
+   "published_utc": "2026-09-28T08:30:00+00:00",
+   "title_original": "이형일·신현송 첫 회동…재정·통화정책 '공조'",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "31782cf8d632a163"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51943,24 +51961,6 @@
    "live_wire": false,
    "manual": false,
    "id": "983e46dffe623e6d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "USD/JPY signal: forecast with yen rising due to BoJ bullish bets",
-   "url": "https://www.tradingview.com/news/invezz:3d330d789bc81:0/",
-   "published_utc": "2026-09-03T08:56:18+00:00",
-   "title_original": "Sinal USD/JPY: previsão com iene em alta por apostas em alta do BoJ",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "6fc5d2445721e08a"
   },
   {
    "source_id": "manual_ia",
