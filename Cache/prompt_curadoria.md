@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T08:22:46.532180+00:00
+Última coleta: 2026-10-02T08:32:45.570829+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1289
-  🇨🇳 China          785
+  🇨🇳 China          784
   🇹🇼 Taiwan         248
-  🇰🇷 Coreia do Sul  678
+  🇰🇷 Coreia do Sul  679
 
 ## O que já está no feed (não repita)
 
+  - [korea] Art Group Buys 6.87% Equity Interests In Edgeon For Krw 585.75 Million
   - [china] China's Mortgage Subsidy Likely to Have Limited Impact — Market Talk
   - [japan] Collateral Accepted by the Bank of Japan (End of Sept.)
   - [japan] Japanese Government Bonds Held by the Bank of Japan
@@ -51,12 +52,11 @@ Total: 3000 manchetes
   - [japan] Japan does not need excessively loose monetary policy, economy minister says
   - [taiwan] DIGITIMES Insight: Intel, TSMC, Samsung converge on backside power — packaging becomes the next divide
   - [china] China's PMI Recovery Encouraging Despite Fragile Domestic Demand — Market Talk
+  - [japan] Stock prices fall; moves to sell rising stocks before the release of US employment statistics
   - [japan] September consumer price index for Tokyo's 23 wards, total excluding fresh food, rose by 2.7% Autumn delicacy 
   - [japan] Yen Steadies After Hot Tokyo Inflation Data
   - [korea] Gold slips before US payrolls data, set for second weekly loss
   - [taiwan] TSMC, NTU deepen R&D ties through nearly 50 projects a year
-  - [taiwan] Taiwan dollar weakens, Philippine peso gains among largely muted Asian FX
-  - [japan] Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T08:22:46+00:00",
+      "published_utc": "2026-10-02T08:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
