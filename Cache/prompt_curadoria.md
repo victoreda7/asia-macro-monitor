@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T01:42:48.115784+00:00
+Última coleta: 2026-10-02T01:52:44.649824+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1299
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
   - [korea] South Korean policymakers ramp up warnings amid bond sell-off
   - [japan] Why is Russia's finances in the biggest deficit even though crude oil prices have soared? The US's strong sanc
   - [korea] SSBT "The Bank of Korea freezes in October... If core prices rise, it will rise in November."
@@ -31,7 +32,6 @@ Total: 3000 manchetes
   - [china] US Charges California Man Over $300 Million Nvidia Chip Shipments to China
   - [japan] [Tokyo Foreign Exchange] Dollar, low 157 yen level = softening due to strong Tokyo prices (9:00 am on the 2nd)
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
-  - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes
   - [korea] SK Hynix Stocks Gain 3.2% as Supply Contracts Reprice Memory Scarcity
   - [korea] Key facts: Samsung Electronics (005930) Q2 memory record; HBM4E samples
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T01:42:48+00:00",
+      "published_utc": "2026-10-02T01:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
