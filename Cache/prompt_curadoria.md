@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T02:22:43.588009+00:00
+Última coleta: 2026-10-02T02:31:03.325345+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1299
-  🇨🇳 China          779
+  🇨🇳 China          780
   🇹🇼 Taiwan         247
-  🇰🇷 Coreia do Sul  675
+  🇰🇷 Coreia do Sul  674
 
 ## O que já está no feed (não repita)
 
@@ -42,6 +42,7 @@ Total: 3000 manchetes
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes
   - [korea] SK Hynix Stocks Gain 3.2% as Supply Contracts Reprice Memory Scarcity
+  - [china] Man Charged by US With Illegally Shipping Nvidia Chips to China
   - [korea] Key facts: Samsung Electronics (005930) Q2 memory record; HBM4E samples
   - [japan] JAPAN SEPT TOKYO CORE-CORE CPI +3.0% Y/Y; AUG +2.0%
   - [japan] MNI JAPAN SEPT TOKYO CORE CPI +2.7% Y/Y; AUG +1.8%
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei May Decline Amid Concerns About Higher Energy Costs — Market Talk
   - [japan] JAPAN AUG UNEMPLOYMENT DOWN 20,000 Y/Y AT 1.80 MLN, DOWN FOR FIRST TIME IN 13 MONTHS AFTER BEING FLAT IN JULY 
   - [korea] South Korea September inflation eases to 2.9% y/y, matches forecast
-  - [japan] JAPAN AUG EMPLOYMENT UP 140,000 Y/Y AT 68.49 MILLION FOR 1ST RISE IN 2 MONTHS AFTER BEING FLAT IN JULY
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T02:22:43+00:00",
+      "published_utc": "2026-10-02T02:31:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
