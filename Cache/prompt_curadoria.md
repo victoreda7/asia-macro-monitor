@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T15:22:45.113603+00:00
+Última coleta: 2026-10-02T15:32:47.181308+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1294
-  🇨🇳 China          783
+  🇯🇵 Japão          1293
+  🇨🇳 China          784
   🇹🇼 Taiwan         248
   🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [china] China Aoyuan Announces Disposal Of Assets By Receivers
   - [japan] Eurozone consumer prices rose 3.8% in September, the highest level in three years
   - [japan] Former Liberal Democratic Party Chairman Miyazawa: “It is better not to reduce the consumption tax”
   - [korea] US firms add just 29,000 Jobs, unemployment rate ticks up
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea's Strong Chip Exports Yet to Spill Over Into Broader Economy — Market Talk
   - [japan] Japan Stocks Look Attractive, Especially When Dollar-Yen Above 152 — Market Talk
   - [japan] Retail JGB sales surge more than 80% as rates rise
-  - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T15:22:45+00:00",
+      "published_utc": "2026-10-02T15:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
