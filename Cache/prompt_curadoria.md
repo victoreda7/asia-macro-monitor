@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T09:22:44.470442+00:00
+Última coleta: 2026-10-02T09:32:46.109266+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1290
-  🇨🇳 China          783
-  🇹🇼 Taiwan         248
-  🇰🇷 Coreia do Sul  679
+  🇯🇵 Japão          1289
+  🇨🇳 China          784
+  🇹🇼 Taiwan         247
+  🇰🇷 Coreia do Sul  680
 
 ## O que já está no feed (não repita)
 
+  - [korea] European Chip Stocks Rally after Report Samsung Ups Prices — Market Talk
+  - [china] SK Innovation, Aramco-backed S-Oil rally as China export bans add to global fuel strain
   - [china] China fuel export suspension to choke supplies in Asia
   - [japan] BREAKING NEWS: Japan farm minister admits making "misleading" remarks on local budget cut
   - [korea] Art Group Buys 6.87% Equity Interests In Edgeon For Krw 585.75 Million
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] DIGITIMES Insight: Intel, TSMC, Samsung converge on backside power — packaging becomes the next divide
   - [china] China's PMI Recovery Encouraging Despite Fragile Domestic Demand — Market Talk
   - [japan] Stock prices fall; moves to sell rising stocks before the release of US employment statistics
-  - [japan] September consumer price index for Tokyo's 23 wards, total excluding fresh food, rose by 2.7% Autumn delicacy 
-  - [japan] Yen Steadies After Hot Tokyo Inflation Data
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T09:22:44+00:00",
+      "published_utc": "2026-10-02T09:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
