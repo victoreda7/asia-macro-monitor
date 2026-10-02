@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T16:12:44.609136+00:00
+Última coleta: 2026-10-02T16:22:45.332041+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1291
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Number of U.S. employed workers falls significantly below market expectations Expectations of Fed interest rat
   - [china] China Aoyuan Announces Disposal Of Assets By Receivers
   - [japan] Eurozone consumer prices rose 3.8% in September, the highest level in three years
   - [japan] Former Liberal Democratic Party Chairman Miyazawa: “It is better not to reduce the consumption tax”
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Inflation increases in Tokyo's 23 wards by more than 2% for the first time in 8 months (ABEMA TIMES)
   - [japan] Long-term JGB yields rise toward multi-decade highs as inflation signs mount
   - [japan] Hankyu Hanshin Holdings, Inc. - To Expand The Limit For Its Share Buybacks Up To 5.16% Worth 50 Billion Yen Fr
-  - [korea] South Korea's Strong Chip Exports Yet to Spill Over Into Broader Economy — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T16:12:44+00:00",
+      "published_utc": "2026-10-02T16:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

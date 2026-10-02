@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-02T16:12:44.609136+00:00",
- "collected_at_utc": "2026-10-02T16:12:44.609136+00:00",
+ "generated_at_utc": "2026-10-02T16:22:45.332041+00:00",
+ "collected_at_utc": "2026-10-02T16:22:45.332041+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 249,
   "korea": 675
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.1,
  "sources": [
+  {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -187,7 +195,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-02T22:56:03+09:00"
+   "newest": "2026-10-03T01:19:01+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T13:01:10+00:00"
+   "newest": "2026-10-02T16:16:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -246,14 +254,6 @@
    "newest": "2026-10-02T14:51:04+00:00"
   },
   {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-02T02:00:21+00:00"
-  },
-  {
    "source_id": "gn_tw_taipeitimes",
    "name": "Taipei Times",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T16:11:11+00:00"
+   "newest": "2026-10-02T16:21:28+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T12:51:09+00:00"
+   "newest": "2026-10-02T09:50:43+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Number of U.S. employed workers falls significantly below market expectations Expectations of Fed interest rate hike recede",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261003de53999",
+   "published_utc": "2026-10-02T16:19:01+00:00",
+   "title_original": "アメリカ就業者数 市場予想大幅に下回る FRB利上げ観測が後退",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "18b584433637c891"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -3816,7 +3833,7 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "ft.com",
+   "source_name": "Financial Times",
    "title_en": "EU steel exports hit by high energy costs, tariffs and China oversupply",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWxvZElxNVZsVHBRUXByUVJ5aTF3bE5TTjluQTBJUlp5VUVlM3plcDBzLVpmODltSUFnbUdlN09JSWwtdkFwSS1lSmZOTlFnSnFxbWlNd2RDWVFxWVdLSEQyREgtQl9UREZEZ1R2MmJIVlVsNmw3UnphZ3k0RHRFbHVQVEg?oc=5",
    "published_utc": "2026-10-01T04:00:49+00:00",
@@ -5007,7 +5024,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "cqnews.net",
+   "source_name": "华龙网",
    "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByYTRmczlSYUFmcGt3ZzRoelBXVDBiYUluOUJKd0lVWGxMOFYzUWcwUmMyOXhZbW1DTjFyUFRqVVlKeS0wdk9JVWhzQlBSMENraEx0bkNUWGp3cEtMeGRiaENwbzB1aHUwOUNB?oc=5",
    "published_utc": "2026-09-30T23:00:08+00:00",
@@ -5180,8 +5197,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -5195,7 +5212,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a1839a5fb285df0"
+   "id": "75b4c762a9b099d0"
   },
   {
    "source_id": "nikkei_asia",
@@ -5576,8 +5593,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -5592,7 +5609,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2711875b41f47be4"
+   "id": "950b84d1e9e45198"
   },
   {
    "source_id": "tradingview_live",
@@ -5612,8 +5629,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -5626,7 +5643,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c6a7c990cb0818fa"
+   "id": "5af5981dfcf348d4"
   },
   {
    "source_id": "nhk_economy",
@@ -6115,7 +6132,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
+   "source_name": "cls.cn",
    "title_en": "17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October 8 with a period of 3 months]",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2cktXNzRrMEZfZVFtaS15UF84a0t3ZGpuRWpud3hsaWhsWnpKTjhJcHQwTDlrWVltRlB2dkh1ZGZWRU42clB4Rw?oc=5",
    "published_utc": "2026-09-30T09:09:45+00:00",
@@ -6701,7 +6718,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "chosun.com",
+   "source_name": "조선일보",
    "title_en": "Home loan interest rate highest in 3 years and 9 months... Credit loans exceeded 6%",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFFDTzIzaFJzTlhQa2M1aFlUOThDOWIyY1gycXZ0d2FEN3pBNWw3MUhzSEVrVmpxSVNkZXROYTdoSGNyVU1MaHh3V0VVb1JjRFQ5bzJ1ZUN1WUhJNGJ1dlFWNDBEQlQ5NDVaSlFkM2pKTUh1amN1SkUyRGpMblZLa3dZVzlHVVhwZVpOdDBB?oc=5",
    "published_utc": "2026-09-30T03:07:25+00:00",
@@ -6959,7 +6976,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "10jqka.com.cn",
+   "source_name": "同花顺财经",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out 833.5 billion yuan of overnight reverse repurchase operations.",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdy1vXzlVSWJ5MHBBX1Y3emNjeS1wNDRDZjFocHNCTXZ1ekZyRGhTVW1nOEFVeUZ2eEdOY3Q0VUVfQnlXXzdPQ09DVm9iV2FqSkpCZ0w4UHJ5RWtGX1E?oc=5",
    "published_utc": "2026-09-30T01:23:15+00:00",
@@ -7817,7 +7834,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "After the National Standing Committee set the tone, the central bank launched a new round of financial package to stabilize growth.",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3lhWTRHbDJPYkNtWHpsTy1KTGZLQWVWT3dYMWpLMGYzWU5GWWVuVnF3bjlBTW02OVBGMl9nT0lHdXc4eTZvUlU1Mk9TcjNlSktuVElIYUh1UjNRT0RWUXd2YjZ4ZFhWb0czQzZ3SDJQZ3VkLUxqaFVxTS1NVlpYWG1VVkI?oc=5",
    "published_utc": "2026-09-29T15:02:00+00:00",
@@ -10804,7 +10821,7 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "ft.com",
+   "source_name": "Financial Times",
    "title_en": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFBnYU9HTGlGbC1FM3JwQmxHMmpuUWk4NVpFbFFFbnAzN0l5WG02ZE1qOWxIREtuaHlqN2wwRlduZDd3T292QTYwSTVVaG82bWxnR3FlWGotN2xIakpDRW5uSGpRYjNFX3c5SXNTTU51OGNmN1ViTU1ZYS14N3dKWFFTUXA?oc=5",
    "published_utc": "2026-09-28T04:05:16+00:00",
@@ -11084,7 +11101,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "헤럴드경제",
+   "source_name": "biz.heraldcorp.com",
    "title_en": "Hyung-il Lee “Seeking harmony between economic and monetary policies”… Shin Hyun-song “Prices and financial stability are the premise”",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENHAxbk5NZXVhSFNpZWZSOXlURW4xdWVWR2hoYmdYRGtPdGVXa0p3c002ZnNDVkxXSHdJcEUyMTcxWkpYSGlNQlVKeU53c2pfU3p6cmpB?oc=5",
    "published_utc": "2026-09-28T02:39:21+00:00",
@@ -12287,7 +12304,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "MTN 머니투데이방송",
+   "source_name": "news.mtn.co.kr",
    "title_en": "Even if the base interest rate rises, the deposit interest rate falls... Savings bank’s ‘Chuseok special offer’ also disappeared",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pQkpsamFEZ2I1ZzJtSlQtLVh5WnhSNXZXY2R2dnNCREtDV3JVeTRDWGVlOFhkeUVTTGVkTEpZSkwtdlBMMkVjOHY0eGxIOC1BbVhaUHE0T3djM3E4dm4ycE8teS0?oc=5",
    "published_utc": "2026-09-27T00:02:01+00:00",
@@ -12801,7 +12818,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "미래경제",
+   "source_name": "mirae-biz.com",
    "title_en": "The Bank of Korea raises interest rates to control housing prices and debt... The problem is '15 months later'",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PWVBaZklITERKd3prMkxkci1HVnZicnltN3FrSmlSMkN0aUdLNTdURkc4M1NVakFwYlVfQzJQaFZZRER1TEQyWUh1MzR4VFp1bVM4MzVqbVlTampNZWRMMEt4LVJ2MjVLSEpEZw?oc=5",
    "published_utc": "2026-09-26T00:30:00+00:00",
@@ -51940,23 +51957,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a7d762bb6233071d"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Yen Surges With Traders on High Alert for Further Intervention",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOWkydTFtM0xSMHFJNlpYcU1jb05hRUt3UV9tRXhxR2YwM05fcDJGQ2EwNmdobndZRnRxLU9yM3VSalFQN0tleThGT09EeDk5NXdQTFd4S2hPbzVsbUhGMVJHcmtRdFY1ckl3TGRVdllMSGZXNklWYm5yZHNUbDUyZTd1NVRXaHFvUEg0bnVjMGhaVTEzQjlXRWRXN0U4dHZkQXJoTmtralJtajY3eWxsZ281QQ?oc=5",
-   "published_utc": "2026-09-03T06:56:00+00:00",
-   "title_original": "Yen Surges With Traders on High Alert for Further Intervention",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "77999d2181306094"
   },
   {
    "source_id": "manual_ia",
