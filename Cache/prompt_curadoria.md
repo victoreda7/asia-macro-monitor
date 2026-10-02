@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T19:43:19.987381+00:00
+Última coleta: 2026-10-02T19:52:47.041481+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1289
   🇨🇳 China          787
-  🇹🇼 Taiwan         248
-  🇰🇷 Coreia do Sul  676
+  🇹🇼 Taiwan         249
+  🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Stocks Jump 3.1% as High-NA Road Map Targets 2030
+  - [korea] ASML Stocks Surge 3.5% as Samsung Pulls High-NA Into DRAM
+  - [japan] Dollar set for first 3-week win streak since January, euro rebounds and yen gains
   - [japan] Behind-the-scenes circumstances behind Indonesia's resumption of imports of "Japanese used trains" What happen
   - [taiwan] Taiwan Semiconductor Stock Rises on Broadcom's $60 Billion Chip Deal
   - [china] Soybeans slump on dimming hope of Chinese tariff cuts
@@ -35,7 +38,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi “plans to leave monetary policy to the Bank of Japan,” Finance Minister Satsuki Kataya
   - [japan] Consumption tax reduction bill approved at Liberal Democratic Party joint meeting, with calls for clarificatio
   - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
-  - [japan] Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus
   - [korea] European Chip Stocks Rally after Report Samsung Ups Prices — Market Talk
   - [china] SK Innovation, Aramco-backed S-Oil rally as China export bans add to global fuel strain
   - [taiwan] Manufacturing sector flashes 'green' light in August
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Why did National Democratic Party representative Tamaki suddenly distance himself from the government? The tru
   - [japan] Minister of Administrative Reform Nakajima Autumn Review “Keeping in mind the creation of financial resources 
   - [japan] Chief Cabinet Secretary Kihara informs governor of financial support for Kumamoto earthquake recovery fund
-  - [china] China Chip Smuggling Cases Expose Nvidia’s Blind Spots
-  - [china] Nvidia’s Blind Spots Exposed by China Chip Smuggling
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T19:43:20+00:00",
+      "published_utc": "2026-10-02T19:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

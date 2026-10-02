@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-02T19:43:19.987381+00:00",
- "collected_at_utc": "2026-10-02T19:43:19.987381+00:00",
+ "generated_at_utc": "2026-10-02T19:52:47.041481+00:00",
+ "collected_at_utc": "2026-10-02T19:52:47.041481+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1289,
   "china": 787,
-  "taiwan": 248,
-  "korea": 676
+  "taiwan": 249,
+  "korea": 675
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T17:10:30+00:00"
+   "newest": "2026-10-02T18:57:04+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T19:20:47+00:00"
+   "newest": "2026-10-02T19:45:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T19:04:48+00:00"
+   "newest": "2026-10-02T19:42:31+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T13:07:53+00:00"
+   "newest": "2026-10-02T19:41:18+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T08:17:41+00:00"
+   "newest": "2026-10-02T05:58:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T19:32:00+00:00"
+   "newest": "2026-10-02T19:50:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "TSMC Stocks Jump 3.1% as High-NA Road Map Targets 2030",
+   "url": "https://www.tradingview.com/news/gurufocus:287ce0f59094b:0-tsmc-stocks-jump-3-1-as-high-na-road-map-targets-2030/",
+   "published_utc": "2026-10-02T19:48:27+00:00",
+   "title_original": "TSMC Stocks Jump 3.1% as High-NA Road Map Targets 2030",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "308c41d39f13ecff"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "ASML Stocks Surge 3.5% as Samsung Pulls High-NA Into DRAM",
+   "url": "https://www.tradingview.com/news/gurufocus:e27ab295f094b:0-asml-stocks-surge-3-5-as-samsung-pulls-high-na-into-dram/",
+   "published_utc": "2026-10-02T19:47:03+00:00",
+   "title_original": "ASML Stocks Surge 3.5% as Samsung Pulls High-NA Into DRAM",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ff0dc833ba5e8993"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Dollar set for first 3-week win streak since January, euro rebounds and yen gains",
+   "url": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
+   "published_utc": "2026-10-02T19:41:18+00:00",
+   "title_original": "Dollar set for first 3-week win streak since January, euro rebounds and yen gains",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9999e431f332ed"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -602,7 +653,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Prime Minister Takaichi “plans to leave monetary policy to the Bank of Japan,” Finance Minister Satsuki Katayama reveals in an exclusive TBS interview",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPdjlWM3V4cmhISWdMQkprbFJJSVVPYU1MS2xuaFFEWEJmOGNEODdEMjBjbWVTMUhNc2Q0amFoYjl0SksxMXlIckdaQXFjcjlaUlU5aDlrWWJLVWZ0YTIwSEJXQ2F2NWM5OUJiRmlXalBkZVNPVWttWEhKSjhxeUU?oc=5",
    "published_utc": "2026-10-02T09:39:25+00:00",
@@ -652,25 +703,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2a97d0571c08444d"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
-   "url": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
-   "published_utc": "2026-10-02T09:24:51+00:00",
-   "title_original": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3b636fb68d9f815d"
   },
   {
    "source_id": "tradingview_live",
@@ -1333,7 +1365,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnVzZxQmhlcTJFZHA2alpHTXNlSUliN3ZNTG9pMTdub0xqay0xRlNRV1FvZHpCMmZQZGNwbnplN1hfWkVZOXUya0pHcjVlYlk2NGw3eWFoTk14SDhNVVpvbQ?oc=5",
    "published_utc": "2026-10-02T03:47:33+00:00",
@@ -1505,7 +1537,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "TSMC, NTU deepen R&D ties through nearly 50 projects a year",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDc1ktUlVSTllTd256c3ByaWxvUFJORFhGNFFRX3h1RFdVYmoybWlzNkY3aG9UQjR3MlFiWDdGRFhDbTlrN045dWFCYTF6NXdodG1WMUlUWG5HSDNmclZidQ?oc=5",
    "published_utc": "2026-10-02T02:22:48+00:00",
@@ -1693,7 +1725,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Why is Russia's finances in the biggest deficit even though crude oil prices have soared? The US's strong sanctions are making it even more difficult, and there is a possibility that Japan will be targeted...",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdjZ4QlM0TkdMN2F4UWFtbEE3b2g4RzRBclZsWEQ4T2h6NmJxVXRKMkRLNXRyX0RDeGlVcFFWMXp4TUJZd21aSDdxeGhRYzExTk5pOHd5TDktdms0TUFEdThIcjNSVF9yQU5CWWc5a0FXMlhyZlVmVEV5M2Z4ZVk?oc=5",
    "published_utc": "2026-10-02T01:32:30+00:00",
@@ -1815,7 +1847,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Opposition to the Bank of Japan's interest rate hike decision (Hiroyuki Kubota) - Expert",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjZJVzBGZXU0SlIyWlJTQ1ZrckdjZ3NtaEFwY2k1elNLaE8ycGRFalBDUDFmMFBuR3d6Q0pYWWYxY0VnN1R6ZzUyUGRWNmxFOWVjcHRYbE9XWHlpYUdacGlXMEg0dm9GZXQ3eDVsMFl4YTdKRjdFcjNVZjdVRGU3TlFIMTRSSzA4?oc=5",
    "published_utc": "2026-10-02T01:05:31+00:00",
@@ -1917,40 +1949,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b686f5eb0f4b30f9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "SK Hynix Stocks Gain 3.2% as Supply Contracts Reprice Memory Scarcity",
-   "url": "https://www.tradingview.com/news/gurufocus:b330ca110094b:0-sk-hynix-stocks-gain-3-2-as-supply-contracts-reprice-memory-scarcity/",
-   "published_utc": "2026-10-02T00:03:19+00:00",
-   "title_original": "SK Hynix Stocks Gain 3.2% as Supply Contracts Reprice Memory Scarcity",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "74e7430b71c8c555"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Key facts: Samsung Electronics (005930) Q2 memory record; HBM4E samples",
-   "url": "https://www.tradingview.com/news/tradingview:875d92f35197f:0-key-facts-samsung-electronics-005930-q2-memory-record-hbm4e-samples/",
-   "published_utc": "2026-10-02T00:00:00+00:00",
-   "title_original": "Key facts: Samsung Electronics (005930) Q2 memory record; HBM4E samples",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1429ea1a2e3b6de6"
   },
   {
    "source_id": "tradingview_live",
@@ -3935,7 +3933,7 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "ft.com",
+   "source_name": "Financial Times",
    "title_en": "EU steel exports hit by high energy costs, tariffs and China oversupply",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWxvZElxNVZsVHBRUXByUVJ5aTF3bE5TTjluQTBJUlp5VUVlM3plcDBzLVpmODltSUFnbUdlN09JSWwtdkFwSS1lSmZOTlFnSnFxbWlNd2RDWVFxWVdLSEQyREgtQl9UREZEZ1R2MmJIVlVsNmw3UnphZ3k0RHRFbHVQVEg?oc=5",
    "published_utc": "2026-10-01T04:00:49+00:00",
@@ -4527,6 +4525,23 @@
    "id": "d51fcb0acca31873"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "Jiemian.com",
+   "title_en": "The central bank takes action! 1.2 trillion buyout reverse repurchase is coming",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSl9SVVNjNDlmTEtxNjdUV2cxN1BpN00weHFhUmdhZHVXdVpBajl4dFBZZU1qeDNsa2FXVDlKQjRsOFRYZmwyX3dpVHpWMi1TSVJqcEFR?oc=5",
+   "published_utc": "2026-10-01T00:28:15+00:00",
+   "title_original": "央行出手！12000亿买断式逆回购来了",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "563ab9e464d2f691"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "[Breaking News] Bank of Japan September Tankan Business Confidence Improving in Large Companies and Manufacturing Industries (TBS NEWS DIG Powered by JNN)",
@@ -4741,7 +4756,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "How a TSMC veteran is steering Singapore's lab-to-fab chip strategy",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUtJaTNCUlJYSm02cjVFdnlDN3ZVLUZFV3pqaktUR3ktRDBLQVFWMnA3dW42WFNTWHdoMENhb2FOaHhJVlpGVlJnNHBwOWUxdGR0aDBpZW1OSXFXWXNxLURONmF5aHE4QjhOMGZaYk1uOW5lQ3pMNkE1UmgxaGd1Y01lRFJvRFJEYTBGVnhpX2FYYUxjQnJJbEplSzVnMzdqYmc?oc=5",
    "published_utc": "2026-10-01T00:11:28+00:00",
@@ -6304,7 +6319,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan backs TSMC's US push but insists core R&D stays home",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pSXdoaGY4VmJsSnRVQzBIWmxyTlR1NERKNmREbnBTcnNiSGhnRmY3NFVfUjV2SFY2TVNNeENOeUhDcUNNMWhqVk1tczd1Sno5VnVfX0RGMkxlb2hhZEl2ZQ?oc=5",
    "published_utc": "2026-09-30T09:04:47+00:00",
@@ -6837,7 +6852,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "조선일보",
+   "source_name": "chosun.com",
    "title_en": "Home loan interest rate highest in 3 years and 9 months... Credit loans exceeded 6%",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFFDTzIzaFJzTlhQa2M1aFlUOThDOWIyY1gycXZ0d2FEN3pBNWw3MUhzSEVrVmpxSVNkZXROYTdoSGNyVU1MaHh3V0VVb1JjRFQ5bzJ1ZUN1WUhJNGJ1dlFWNDBEQlQ5NDVaSlFkM2pKTUh1amN1SkUyRGpMblZLa3dZVzlHVVhwZVpOdDBB?oc=5",
    "published_utc": "2026-09-30T03:07:25+00:00",
@@ -7623,23 +7638,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ce49ba70033306fd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "The central bank takes action! 1.2 trillion buyout reverse repurchase is coming",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSl9SVVNjNDlmTEtxNjdUV2cxN1BpN00weHFhUmdhZHVXdVpBajl4dFBZZU1qeDNsa2FXVDlKQjRsOFRYZmwyX3dpVHpWMi1TSVJqcEFR?oc=5",
-   "published_utc": "2026-09-29T20:10:00+00:00",
-   "title_original": "央行出手！12000亿买断式逆回购来了",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "563ab9e464d2f691"
   },
   {
    "source_id": "gn_jp_investing",
@@ -8826,7 +8824,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "GlobalFoundries eyes GaN expansion to challenge TSMC in AI",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjBkU0hSeTg3TzJsT293UXdOckNEQWxvenFfTDhJbno2Tm9pLXpEMTFsa180U2xCZDFKNEJMdVo5T0I1S1ZBc3pkeXZXaldsN1U5V21yRGFuSVBZRmZaUGNNZkZsUHp6ZUJaOFM3ZWt6Slpaa2JIQU9KM3A1MEZYVU1PdHVTd2dROXYzVHJtbTBHTHRFX2g2b01LX283TnhyMTFwbXcxQ2E?oc=5",
    "published_utc": "2026-09-29T03:31:47+00:00",
@@ -9053,7 +9051,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "비즈니스포스트",
+   "source_name": "businesspost.co.kr",
    "title_en": "Foreign media reviews are positive on the pace of interest rate hikes by the Bank of Korea, “leading to a natural soft landing”",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96ZFluMDViLWNvcUQ1T2hDcWI0SjZLNjFGOEh0TlRsZE5WQ0JEanJ4dDRtUWd6Mm9VZjlIdTBRX2hIUkZLM0hiY1doMnZhNEVDZ2V0bFQ5QUI2NUcwWkYxTTU1QldqcUtNemtZaVFhZzZUd3M?oc=5",
    "published_utc": "2026-09-29T02:15:19+00:00",
@@ -10366,25 +10364,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "wowtv.co.kr",
-   "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Fiscal and monetary policy ‘cooperation’",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Pb2FvcGMtTTNYYlBqMGJxMFdxbUEydVM0NTNYSXB2TFdrTmUxdzJzWHV2V1IxSjhBUFdjZldVM044NnpwYXB3aTlmSlhzRjFZaXlsa05LNmduRjFjTk1FYmxTZVNUT0tXUUotNjNibnZwSDJjZkZR?oc=5",
-   "published_utc": "2026-09-28T08:31:00+00:00",
-   "title_original": "이형일·신현송 첫 회동…재정·통화정책 ＇공조＇",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "af8746307efad53a"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "부산일보",
    "title_en": "[Palm Economy] Base interest rates in global financial markets",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NVkFYcUNKTk91dGhya215N2xMM2x5TU5SVy10ZlVldjlsRUtacW1vU2hZMUUtVHBfa1dVb25WM1owYVEza1pzeUZ5ZmZENHpUNkQxbmF1RW5NakI0dUI5amxkMURPdjJ6ZUF3bXBtMWlpdmQz?oc=5",
@@ -10399,6 +10378,25 @@
    "live_wire": false,
    "manual": false,
    "id": "05b609cc9e8e8231"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "v.daum.net",
+   "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Fiscal and monetary policy ‘cooperation’",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5dUdLSVBfaHl1aS0wc284R3FYamdRc2lmakpXS3RYOG1TVWhDUmhkeURTMTVDRnVBdjdKTlhDZ0JfT2dBckE?oc=5",
+   "published_utc": "2026-09-28T08:30:00+00:00",
+   "title_original": "이형일·신현송 첫 회동…재정·통화정책 '공조'",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "31782cf8d632a163"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -10644,7 +10642,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "dhdaily.co.kr",
+   "source_name": "대한데일리",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Are fiscal-monetary policies in sync?",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmSDhSUXZrSXRKd2tGNlJJWjRaRGQxTG5LWHNMZGYzZVpIQ3NwbHZuUE9GeHkzb1FsUDhVRTJtX01QOXJqUjdUakV5ZHdkeE13Wk5PZGhQVE5OS0hJWVNVajBOaFIyNFh5WkI4?oc=5",
    "published_utc": "2026-09-28T06:34:43+00:00",
@@ -10976,7 +10974,7 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "ft.com",
+   "source_name": "Financial Times",
    "title_en": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFBnYU9HTGlGbC1FM3JwQmxHMmpuUWk4NVpFbFFFbnAzN0l5WG02ZE1qOWxIREtuaHlqN2wwRlduZDd3T292QTYwSTVVaG82bWxnR3FlWGotN2xIakpDRW5uSGpRYjNFX3c5SXNTTU51OGNmN1ViTU1ZYS14N3dKWFFTUXA?oc=5",
    "published_utc": "2026-09-28T04:05:16+00:00",
@@ -11080,7 +11078,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "es.tradingview.com",
+   "source_name": "TradingView",
    "title_en": "The unexpired balance of MLF of the Central Bank of China is 7.6 trillion yuan, and the next maturity will be 900 billion yuan on October 27.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hT0xQenZsdDdyYVB1RXA2dmtja1BRbllRUWtockhBdzF5aFAxMFZrVTBUMWFNOVlISm5YTTA4UVBaLUJCMG41T3gtcXZsSlRXOWVkZUl1dHhMVXJ4QTlNVWtBS1pZV1FnSjNLN1lTQ0gxQXBKZjYw?oc=5",
    "published_utc": "2026-09-28T03:17:00+00:00",
@@ -11168,7 +11166,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "newspim.com",
+   "source_name": "뉴스핌",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -14978,7 +14976,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Anduril's Taiwan supply chain to grow 15-fold in 2026",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcml4bUZhWjUxTU11WVlxWTdoaEpieW1QTUdnS3pWbTZuX0VFY2hhNmNJSzQxU1dGb3pseVNnX0tseENfRmZIUllLYTlvUXgtbnRlSndSQmRlV2lwZXBSdm5FaFRJVWpMUDFURzdZRnBtelZXaFpXbi1vc19zWHE1MEFOYVc5b0NmNVNHNjJ3cFdLRHJScTkta3ZTZEpkcUdnME9xNXB2WlJoUkltX21z?oc=5",
    "published_utc": "2026-09-24T10:05:32+00:00",
@@ -17100,7 +17098,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan courts Indian IIT chief in bid to boost chip talent ties",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUtOVThaek5zbENESEd3bWtiYkRQWng3cjVaNW1xZTRXNnBwU0ZYYlpFYmJFNW81UF9BblFTbDRDQXFTV2ZVci01WTgtYkU2Rm9iclFFamkzZzRsT080SDhOY3loQzNXbl9LT1lEU05nb3VVcS1QQUc4OE9oUWNDY2N2dnNUR0daY2h3MXFva19PX2p6QUVJNk1SRHFsUC1CZXR3TkZBeUx3LS1VY2VXdl9KejU?oc=5",
    "published_utc": "2026-09-23T07:00:00+00:00",
@@ -20115,7 +20113,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan firms keen on investing in US manufacturing",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0t0LWhxTHlPV2l0aUNZQ25WWmZHb0padGp1LU9jUnUybGRRUTMwODdjZmZDSURLdmp4UENQa2tCb2pTR2h5eVVJMDNZQkxoNHBpeWpzejItT2NrNVJOZHJtR2RudXVRQ3lDT0t4Y3dEVzBjTHYxMC1FeE12V0E2Wkc0N0J0OUxRbmJFRGsycVpZeVBmeUJQdVVRclFudFdvYm55M2daQnh4cUpiWEcwcjhWX1BzZw?oc=5",
    "published_utc": "2026-09-21T07:00:00+00:00",
@@ -23597,7 +23595,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "focustaiwan.tw",
+   "source_name": "Focus Taiwan - CNA English News",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T11:36:00+00:00",
