@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-02T04:12:45.359296+00:00",
- "collected_at_utc": "2026-10-02T04:12:45.359296+00:00",
+ "generated_at_utc": "2026-10-02T04:22:45.292102+00:00",
+ "collected_at_utc": "2026-10-02T04:22:45.292102+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1295,
-  "china": 780,
+  "china": 781,
   "taiwan": 249,
-  "korea": 676
+  "korea": 675
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T03:51:31+00:00"
+   "newest": "2026-10-02T04:06:32+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T03:31:13+00:00"
+   "newest": "2026-10-02T04:06:32+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-02T12:57:56+00:00"
+   "newest": "2026-10-02T13:15:00+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T04:10:45+00:00"
+   "newest": "2026-10-02T04:20:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T04:01:01+00:00"
+   "newest": "2026-10-02T04:04:55+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Japan's unemployment rate rises to 2.5% in August, above expectations",
+   "url": "https://www.tradingview.com/news/seekingalpha:da3caab68094b:0-japan-s-unemployment-rate-rises-to-2-5-in-august-above-expectations/",
+   "published_utc": "2026-10-02T04:18:14+00:00",
+   "title_original": "Japan's unemployment rate rises to 2.5% in August, above expectations",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2635f566f13c1042"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "More aggressive China stimulus unlikely for now, BofA says",
+   "url": "https://www.investing.com/news/economy-news/more-aggressive-china-stimulus-unlikely-for-now-bofa-says-4928874",
+   "published_utc": "2026-10-02T04:03:51+00:00",
+   "title_original": "More aggressive China stimulus unlikely for now, BofA says",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "30acb5fb8285c5fe"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -3019,6 +3053,24 @@
    "id": "d7dbe3a1fbb8db4d"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan major makers' confidence up for 6th quarter on AI, chip demand: BOJ",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uV3VqbGE2N096LXh4RkptTmVjb1hKcnE3T0NPeGRSMzRETzNCbks4V1NrS2l4enVCTEtyZUpUYVVVaFVPUjNvU0JGMjYxYUg4S0FjQ3AxNmVrZw?oc=5",
+   "published_utc": "2026-10-01T03:04:00+00:00",
+   "title_original": "Japan major makers' confidence up for 6th quarter on AI, chip demand: BOJ",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "40b5b3df543548b0"
+  },
+  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "Huawei unveils Mate 90 phones, leans on homegrown chip design to offset US curbs",
@@ -3527,7 +3579,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "english.kyodonews.net",
+   "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTC1kdUV3dGl5OTE1dHFxT3I3cXF5MFA2cy1kQkQtMVNQUUJIeUJoOVVNRlctZWN0bWhOQVZnbVhEZGdVNEdLUEtYX1VFTkYtQVNmM0k4WlcyQQ?oc=5",
    "published_utc": "2026-10-01T00:27:00+00:00",
@@ -7912,7 +7964,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "비즈니스포스트",
+   "source_name": "businesspost.co.kr",
    "title_en": "Foreign media reviews are positive on the pace of interest rate hikes by the Bank of Korea, “leading to a natural soft landing”",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96ZFluMDViLWNvcUQ1T2hDcWI0SjZLNjFGOEh0TlRsZE5WQ0JEanJ4dDRtUWd6Mm9VZjlIdTBRX2hIUkZLM0hiY1doMnZhNEVDZ2V0bFQ5QUI2NUcwWkYxTTU1QldqcUtNemtZaVFhZzZUd3M?oc=5",
    "published_utc": "2026-09-29T02:15:19+00:00",
@@ -9972,7 +10024,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
+   "source_name": "newspim.com",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -51904,59 +51956,6 @@
    "live_wire": false,
    "manual": false,
    "id": "805f892208fc2a4d"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Illustrated] Bank of Japan faces “external pressure” to raise interest rates in September = U.S. administration makes unprecedented intervention to correct yen depreciation (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52WDg4T05tZ21sY3NNODJEbTZSN1QtU1R4T2FONEgyTXlJajdRaFdad2NtLVVmQThZVWp2cFN1MmNnSkZVV09ZOXY3WWU5TVRkN0FpWjVVMkxzXzRwcGJ5ZFJ5a2tUQWI4U1JmVWM2dEt0aHRoM3lqaWxTUlRzVUE?oc=5",
-   "published_utc": "2026-09-02T22:07:13+00:00",
-   "title_original": "【図解】日銀、9月利上げへ「外圧」＝米政権、円安是正で異例の介入（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "90224148c7d58ff0"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan faces “external pressure” to raise interest rates in September; US administration makes unprecedented intervention to correct yen depreciation (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZb0JMSXN2aTdrTWJXaWJONENoQmR0c1J0X0dEeUVnWWg1MTB0aW9lZU83YkE4NW9aWjZpaG1uZHRIbGFkOXlLQXJJYzFpdHRORF9MLUlWQWljY2t5c0hWTWdtU0Q3cDJ0dlZpTm0tdVJUTFRtLWpRNnJQSGh1Ukk?oc=5",
-   "published_utc": "2026-09-02T22:06:43+00:00",
-   "title_original": "日銀、9月利上げへ「外圧」 米政権、円安是正で異例の介入（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d5b5c742de457a0f"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
-   "title_en": "[Rising base interest rate] ② A direct hit to self-employed people with loans worth 1,100 trillion won... “Interest alone increases by 2 million won”",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tWW53RU5yWHRQOTlCSHd1Y3ZERzl0ZEg5YlJPR2FXUHVHOWdBZExMS1I4OTlkaHAtM0ZxdjlTUF84R041cmgtbDBOT1BOTDFNZzgweEQycXJHMkp5?oc=5",
-   "published_utc": "2026-09-02T22:00:00+00:00",
-   "title_original": "[뛰는 기준금리]② 1100조원 대출 자영업자 직격타...\"이자만 200만원 인상\"",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "923afa00b2ef86f2"
   },
   {
    "source_id": "manual_ia",
