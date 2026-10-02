@@ -7,16 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-01T23:52:45.468510+00:00
+Última coleta: 2026-10-02T00:02:43.643627+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1292
-  🇨🇳 China          783
+  🇯🇵 Japão          1297
+  🇨🇳 China          779
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  675
+  🇰🇷 Coreia do Sul  674
 
 ## O que já está no feed (não repita)
 
+  - [korea] Key facts: Samsung Electronics (005930) Q2 memory record; HBM4E samples
+  - [japan] Prices in Tokyo's wards rose 2.7% in September...an increase of 2% for the first time in eight months (Yomiuri
+  - [japan] Tokyo prices rose 2.7% in September (Kyodo News)
+  - [japan] JAPAN SEPT TOKYO CORE-CORE CPI +3.0% Y/Y; AUG +2.0%
+  - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
+  - [japan] MNI JAPAN SEPT TOKYO CORE CPI +2.7% Y/Y; AUG +1.8%
+  - [japan] Japan Jobless Rate Climbs To 2.5%
   - [japan] Tokyo Inflation Jumps To 2.7% Annually In September
   - [japan] Average Contract Interest Rates on Loans and Discounts (Aug.)
   - [japan] Tankan (Sept.): Comprehensive Data Set
@@ -28,6 +35,7 @@ Total: 3000 manchetes
   - [korea] South Korea September inflation eases to 2.9% y/y, matches forecast
   - [japan] JAPAN AUG EMPLOYMENT UP 140,000 Y/Y AT 68.49 MILLION FOR 1ST RISE IN 2 MONTHS AFTER BEING FLAT IN JULY
   - [japan] Tokyo core inflation jumps in September, bolsters case for more BOJ hikes
+  - [japan] Tokyo Core Inflation Rises Above BoJ Target
   - [japan] JAPAN SEPT TOKYO CPI: PROCESSED FOOD +3.6% (+0.83 POINT) VS. +3.6% (+0.83 POINT) IN AUG
   - [japan] JAPAN SEPT TOKYO INFLATION ANNUAL RATE JUMPS AS CITY’S FREE BASE WATER CHARGES END AFTER PEAK SUMMER MONTHS, D
   - [japan] JAPAN SEPT TOKYO CPI: ENERGY -1.9% Y/Y (-0.08 POINT CONTRIBUTION), VS. -2.0% (-0.09 POINT) IN AUG
@@ -49,14 +57,6 @@ Total: 3000 manchetes
   - [china] China shortens leash on property developers
   - [japan] ``Russian finances'' unable to benefit from high crude oil prices, gold holdings plummet! Putin faces great di
   - [japan] Coordinated intervention to buy yen for the first time in 28 years, US stance and future of international coop
-  - [korea] Samsung Electronics Stocks Gain 2.8% as Micron Reinforces Memory Scarcity
-  - [japan] BOJ debated more rate hikes to adjust 'accommodative' conditions: opinion summary
-  - [china] Exclusive-US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say
-  - [china] 45% YTD rally! Experts see up to 56% upside in these 3 stocks on China's export shift | Target, rationale
-  - [korea] Samsung raises Galaxy S26 prices by $100 amid chip shortage
-  - [china] DGTR recommends anti-dumping duty on tuberculosis drug ingredient imports from China, Thailand
-  - [china] IMF says extension of tariff truce between US and China increases trade predictability
-  - [china] IMF says US-China tariff truce extension enhances trade predictability
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-01T23:52:45+00:00",
+      "published_utc": "2026-10-02T00:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
