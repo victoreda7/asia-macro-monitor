@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T08:02:44.823893+00:00
+Última coleta: 2026-10-02T08:12:45.980299+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1293
-  🇨🇳 China          782
+  🇯🇵 Japão          1290
+  🇨🇳 China          784
   🇹🇼 Taiwan         248
-  🇰🇷 Coreia do Sul  677
+  🇰🇷 Coreia do Sul  678
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Mortgage Subsidy Likely to Have Limited Impact — Market Talk
   - [japan] Collateral Accepted by the Bank of Japan (End of Sept.)
   - [japan] Japanese Government Bonds Held by the Bank of Japan
+  - [korea] Ministry of Finance and Economy ◇Promotion of Deputy Director △Public relations Officer Kim Young-h..
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3287582.16, Implies 79% Upside
   - [korea] Samsung Electronics' large-scale share buyback has entered the final stage. The event, which has sup..
+  - [china] In Focus | How US sanctions forced Xinjiang’s cotton industry to build a survival model
   - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
   - [china] Everest Medicines Announces the Acceptance and Priority Review of VELSIPITY(R) Manufacturing Localization Appl
   - [japan] Why did National Democratic Party representative Tamaki suddenly distance himself from the government? The tru
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC, NTU deepen R&D ties through nearly 50 projects a year
   - [taiwan] Taiwan dollar weakens, Philippine peso gains among largely muted Asian FX
   - [japan] Tokyo core inflation rate jumps in September, bolsters case for more BOJ hikes
-  - [china] Asia's gasoline margin skyrockets on outages, China export halt, traders say
-  - [korea] Samsung Electronics, SK hynix trade near flat after trimming losses
-  - [japan] Toho, the largest commercial food wholesaler, has revised its sales forecast upward, but profits remain unchan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T08:02:45+00:00",
+      "published_utc": "2026-10-02T08:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
