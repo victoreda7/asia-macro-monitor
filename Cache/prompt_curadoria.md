@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T01:32:43.660104+00:00
+Última coleta: 2026-10-02T01:42:48.115784+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1300
+  🇯🇵 Japão          1299
   🇨🇳 China          777
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  674
+  🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean policymakers ramp up warnings amid bond sell-off
+  - [japan] Why is Russia's finances in the biggest deficit even though crude oil prices have soared? The US's strong sanc
+  - [korea] SSBT "The Bank of Korea freezes in October... If core prices rise, it will rise in November."
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 9
   - [japan] September consumer prices in Tokyo's 23 wards increased by 2.7% compared to the same month last year.Over 2% f
   - [japan] September consumer price index for Tokyo's 23 wards (excluding fresh food) 2.7% compared to the same month las
@@ -32,7 +35,6 @@ Total: 3000 manchetes
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes
   - [korea] SK Hynix Stocks Gain 3.2% as Supply Contracts Reprice Memory Scarcity
   - [korea] Key facts: Samsung Electronics (005930) Q2 memory record; HBM4E samples
-  - [japan] Prices in Tokyo's wards rose 2.7% in September...an increase of 2% for the first time in eight months (Yomiuri
   - [japan] JAPAN SEPT TOKYO CORE-CORE CPI +3.0% Y/Y; AUG +2.0%
   - [japan] MNI JAPAN SEPT TOKYO CORE CPI +2.7% Y/Y; AUG +1.8%
   - [japan] Japan Jobless Rate Climbs To 2.5%
@@ -50,13 +52,11 @@ Total: 3000 manchetes
   - [japan] Tokyo Core Inflation Rises Above BoJ Target
   - [japan] Tokyo Core Inflation Accelerates Sharply Above Bank of Japan Target
   - [japan] JAPAN SEPT TOKYO CPI: PROCESSED FOOD +3.6% (+0.83 POINT) VS. +3.6% (+0.83 POINT) IN AUG
+  - [japan] Prices in Tokyo's wards rose 2.7% in September...an increase of 2% for the first time in eight months (Yomiuri
   - [japan] JAPAN SEPT TOKYO INFLATION ANNUAL RATE JUMPS AS CITY’S FREE BASE WATER CHARGES END AFTER PEAK SUMMER MONTHS, D
   - [japan] JAPAN SEPT TOKYO CPI: ENERGY -1.9% Y/Y (-0.08 POINT CONTRIBUTION), VS. -2.0% (-0.09 POINT) IN AUG
   - [japan] Japan Jobless Rate Edges Higher
   - [korea] Korea's consumer price increase rate in September was 2.9%, and agricultural products prices stabilized.
-  - [japan] JAPAN AUG S/A UNEMPLOYMENT RATE 2.5% (JULY 2.4%); MEDIAN FORECAST 2.4% (RANGE: 2.4% TO 2.5%)
-  - [japan] JAPAN SEPT TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +3.0% Y/Y (AUG +2.0%); MEDIAN FORECAST +2.4% (RANGE: +2
-  - [japan] JAPAN SEPT TOKYO CORE CPI (EX-FRESH FOOD) +2.7% Y/Y (AUG +1.8 %), MEDIAN FORECAST +2.1% (RANGE: +1.9% TO +2.2%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T01:32:43+00:00",
+      "published_utc": "2026-10-02T01:42:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
