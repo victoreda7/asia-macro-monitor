@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T09:42:50.198429+00:00
+Última coleta: 2026-10-02T09:52:45.024745+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1291
+  🇯🇵 Japão          1292
   🇨🇳 China          783
-  🇹🇼 Taiwan         247
+  🇹🇼 Taiwan         246
   🇰🇷 Coreia do Sul  679
 
 ## O que já está no feed (não repita)
 
   - [japan] Japan finance minister: Government united in view reflation is over
+  - [japan] Prime Minister Takaichi “plans to leave monetary policy to the Bank of Japan,” Finance Minister Satsuki Kataya
   - [japan] Consumption tax reduction bill approved at Liberal Democratic Party joint meeting, with calls for clarificatio
   - [japan] Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus
   - [korea] European Chip Stocks Rally after Report Samsung Ups Prices — Market Talk
@@ -52,11 +53,10 @@ Total: 3000 manchetes
   - [japan] Japan's unemployment rate rises to 2.5% in August, above expectations
   - [china] More aggressive China stimulus unlikely for now, BofA says
   - [japan] <Clearly emerging trends> In the past five years, when inflation has rapidly increased, what and how have hous
-  - [taiwan] TSMC reportedly weighs Texas expansion, but key US tax incentive could decide the move as Singapore enters the
   - [japan] Japanese yen firms on strong inflation, dollar muted before payrolls test
+  - [taiwan] TSMC reportedly weighs Texas expansion, but key US tax incentive could decide the move as Singapore enters the
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
   - [japan] Japan does not need excessively loose monetary policy, economy minister says
-  - [taiwan] DIGITIMES Insight: Intel, TSMC, Samsung converge on backside power — packaging becomes the next divide
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T09:42:50+00:00",
+      "published_utc": "2026-10-02T09:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
