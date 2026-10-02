@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T17:02:48.717355+00:00
+Última coleta: 2026-10-02T17:12:45.102737+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1289
-  🇨🇳 China          787
-  🇹🇼 Taiwan         249
+  🇨🇳 China          788
+  🇹🇼 Taiwan         248
   🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [china] Soybeans slump on dimming hope of Chinese tariff cuts
   - [japan] Japan hits Russia 'shadow fleet' in 1st sanctions since Putin trip to disputed isle
   - [japan] Number of U.S. employed workers falls significantly below market expectations Expectations of Fed interest rat
   - [china] China Aoyuan Announces Disposal Of Assets By Receivers
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Atlas Copco Buys Chinese Heating and Cooling Equipment Manufacturer Guangdong Euroklimat
   - [japan] House of Representatives Opposition Diet Committee Chairman and others call for careful deliberation of consum
   - [china] China's Policy Stimulus Package Still Positive Step Despite Limited Scale — Market Talk
-  - [japan] Inflation increases in Tokyo's 23 wards by more than 2% for the first time in 8 months (ABEMA TIMES)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T17:02:48+00:00",
+      "published_utc": "2026-10-02T17:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
