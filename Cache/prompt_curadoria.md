@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T13:02:46.024205+00:00
+Última coleta: 2026-10-02T13:12:45.231362+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1294
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [japan] Japan finance minister: Government united in view reflation is over
   - [japan] Prime Minister Takaichi “plans to leave monetary policy to the Bank of Japan,” Finance Minister Satsuki Kataya
   - [japan] Consumption tax reduction bill approved at Liberal Democratic Party joint meeting, with calls for clarificatio
+  - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
   - [japan] Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus
   - [korea] European Chip Stocks Rally after Report Samsung Ups Prices — Market Talk
   - [china] SK Innovation, Aramco-backed S-Oil rally as China export bans add to global fuel strain
@@ -37,7 +38,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3287582.16, Implies 79% Upside
   - [korea] Samsung Electronics' large-scale share buyback has entered the final stage. The event, which has sup..
   - [china] In Focus | How US sanctions forced Xinjiang’s cotton industry to build a survival model
-  - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
   - [china] Everest Medicines Announces the Acceptance and Priority Review of VELSIPITY(R) Manufacturing Localization Appl
   - [japan] Why did National Democratic Party representative Tamaki suddenly distance himself from the government? The tru
   - [japan] Minister of Administrative Reform Nakajima Autumn Review “Keeping in mind the creation of financial resources 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T13:02:46+00:00",
+      "published_utc": "2026-10-02T13:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
