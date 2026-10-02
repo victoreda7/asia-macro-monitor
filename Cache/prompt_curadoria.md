@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T19:52:47.041481+00:00
+Última coleta: 2026-10-02T20:02:44.871282+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1289
@@ -34,6 +34,7 @@ Total: 3000 manchetes
   - [china] China’s C919 jet faces further delivery delays amid US export chill: analysts
   - [japan] Yen market price rises, dollar sold due to fall in crude oil futures prices
   - [japan] Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity
+  - [japan] Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus
   - [japan] Japan finance minister: Government united in view reflation is over
   - [japan] Prime Minister Takaichi “plans to leave monetary policy to the Bank of Japan,” Finance Minister Satsuki Kataya
   - [japan] Consumption tax reduction bill approved at Liberal Democratic Party joint meeting, with calls for clarificatio
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Everest Medicines Announces the Acceptance and Priority Review of VELSIPITY(R) Manufacturing Localization Appl
   - [japan] Why did National Democratic Party representative Tamaki suddenly distance himself from the government? The tru
   - [japan] Minister of Administrative Reform Nakajima Autumn Review “Keeping in mind the creation of financial resources 
-  - [japan] Chief Cabinet Secretary Kihara informs governor of financial support for Kumamoto earthquake recovery fund
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T19:52:47+00:00",
+      "published_utc": "2026-10-02T20:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
