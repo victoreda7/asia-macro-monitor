@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T06:42:45.299205+00:00
+Última coleta: 2026-10-02T06:55:28.369233+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1295
-  🇨🇳 China          780
+  🇯🇵 Japão          1294
+  🇨🇳 China          782
   🇹🇼 Taiwan         248
-  🇰🇷 Coreia do Sul  677
+  🇰🇷 Coreia do Sul  676
 
 ## O que já está no feed (não repita)
 
+  - [japan] Chief Cabinet Secretary Kihara informs governor of financial support for Kumamoto earthquake recovery fund
+  - [china] Atlas Copco Buys Chinese Heating and Cooling Equipment Manufacturer Guangdong Euroklimat
+  - [japan] House of Representatives Opposition Diet Committee Chairman and others call for careful deliberation of consum
+  - [china] China's Policy Stimulus Package Still Positive Step Despite Limited Scale — Market Talk
   - [japan] Long-term JGB yields rise toward multi-decade highs as inflation signs mount
   - [japan] Hankyu Hanshin Holdings, Inc. - To Expand The Limit For Its Share Buybacks Up To 5.16% Worth 50 Billion Yen Fr
   - [korea] South Korea's Strong Chip Exports Yet to Spill Over Into Broader Economy — Market Talk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] SSBT "The Bank of Korea freezes in October... If core prices rise, it will rise in November."
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 9
   - [japan] September consumer prices in Tokyo's 23 wards increased by 2.7% compared to the same month last year.Over 2% f
-  - [korea] As the base interest rate rises, the CMA also gets excited... Securities company interest rate competition ‘ac
-  - [korea] S. Korea Inflation Stays Sticky, Backing BOK’s Tightening Bias
-  - [japan] September consumer price index for Tokyo's 23 wards (excluding fresh food) 2.7% compared to the same month las
-  - [japan] Opposition to the Bank of Japan's interest rate hike decision (Hiroyuki Kubota) - Expert
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T06:42:45+00:00",
+      "published_utc": "2026-10-02T06:55:28+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
