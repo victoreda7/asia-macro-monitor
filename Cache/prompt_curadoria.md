@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T04:52:43.887747+00:00
+Última coleta: 2026-10-02T05:02:43.868066+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1294
+  🇯🇵 Japão          1293
   🇨🇳 China          782
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  675
+  🇰🇷 Coreia do Sul  676
 
 ## O que já está no feed (não repita)
 
+  - [japan] Retail JGB sales surge more than 80% as rates rise
   - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
+  - [korea] South Korean Won Steady on Export Growth
   - [japan] Japan's unemployment rate rises to 2.5% in August, above expectations
   - [china] More aggressive China stimulus unlikely for now, BofA says
   - [japan] <Clearly emerging trends> In the past five years, when inflation has rapidly increased, what and how have hous
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes
   - [korea] SK Hynix Stocks Gain 3.2% as Supply Contracts Reprice Memory Scarcity
-  - [china] Man Charged by US With Illegally Shipping Nvidia Chips to China
-  - [korea] Key facts: Samsung Electronics (005930) Q2 memory record; HBM4E samples
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T04:52:44+00:00",
+      "published_utc": "2026-10-02T05:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

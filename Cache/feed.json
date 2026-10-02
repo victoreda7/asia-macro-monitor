@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-02T04:52:43.887747+00:00",
- "collected_at_utc": "2026-10-02T04:52:43.887747+00:00",
+ "generated_at_utc": "2026-10-02T05:02:43.868066+00:00",
+ "collected_at_utc": "2026-10-02T05:02:43.868066+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1294,
+  "japan": 1293,
   "china": 782,
   "taiwan": 249,
-  "korea": 675
+  "korea": 676
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T01:30:23+00:00"
+   "newest": "2026-10-02T04:02:56+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T04:31:09+00:00"
+   "newest": "2026-10-02T04:50:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-02T04:06:32+00:00"
+   "newest": "2026-10-02T04:36:33+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-02T12:40:09+09:00"
+   "newest": "2026-10-02T13:58:40+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T04:50:31+00:00"
+   "newest": "2026-10-02T05:01:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-02T03:49:11+00:00"
+   "newest": "2026-10-02T05:00:14+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T02:03:11+00:00"
+   "newest": "2026-10-02T04:48:09+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Retail JGB sales surge more than 80% as rates rise",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45O07G:0-retail-jgb-sales-surge-more-than-80-as-rates-rise/",
+   "published_utc": "2026-10-02T04:59:55+00:00",
+   "title_original": "Retail JGB sales surge more than 80% as rates rise",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "49148043158b765e"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -359,6 +376,24 @@
    "live_wire": false,
    "manual": false,
    "id": "b02a52bcc777dc24"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korean Won Steady on Export Growth",
+   "url": "https://www.tradingview.com/news/te_news:588995:0-south-korean-won-steady-on-export-growth/",
+   "published_utc": "2026-10-02T04:42:16+00:00",
+   "title_original": "South Korean Won Steady on Export Growth",
+   "region": "korea",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d96acd17eda78cba"
   },
   {
    "source_id": "tradingview_live",
@@ -759,7 +794,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "KB Think",
+   "source_name": "kbthink.com",
    "title_en": "SSBT \"The Bank of Korea freezes in October... If core prices rise, it will rise in November.\"",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nNXBueTBMUmFqVXl3QTBDV2h0REU3YTQ0bUVaT0h1TUFacXhCUkJOdlNzckRqb3hhbjg1ZUlHT1J2a0dfQkM2dmFLcXhLdEVuVXgyRk4yRGxCcnF6T2xBcDdrUUVaaGVkRXBjaWNKVWluQQ?oc=5",
    "published_utc": "2026-10-02T01:29:23+00:00",
@@ -4314,8 +4349,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -4329,7 +4364,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a1839a5fb285df0"
+   "id": "75b4c762a9b099d0"
   },
   {
    "source_id": "nikkei_asia",
@@ -4710,8 +4745,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -4726,7 +4761,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2711875b41f47be4"
+   "id": "950b84d1e9e45198"
   },
   {
    "source_id": "tradingview_live",
@@ -4746,8 +4781,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -4760,7 +4795,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c6a7c990cb0818fa"
+   "id": "5af5981dfcf348d4"
   },
   {
    "source_id": "nhk_economy",
@@ -5075,7 +5110,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.cn",
    "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation on October 8",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0tXZFpJTjR2bWxlODdHV3pCTWU4aUJYaG1VeDVGTExCN0tzeEdhM0w0elhyM1pnV2hCSnVhWVpDdkZMQkxIR2YySE44b3FsVGdhVnJhM1h0SXZPMUt3TFpYX3NJUnVRTUhIRVRpOXFoZGZJeVNDeE5hSklUVVI2OW5EZUtFUHJqQWc?oc=5",
    "published_utc": "2026-09-30T09:54:08+00:00",
@@ -6830,7 +6865,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.cn",
    "title_en": "The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarters",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWm80akZhQ3RNeEZZa3RsRTdXSWk2Q3o2V2RTSGl2NmRJcTZYRXZkMFBjb3JBX0Y5VzN2LTBTSW1FZHRqdzdmWVdwQ0plLU1vVER5ZTRVblZNNFlzTmhIMExkYWk2alRaZTNLUTVfdy1VOFhJVGYzaXZfSkx6ZTliOHVfMlk3WjVKelVMeEdFLW1CTFd4WHVZSw?oc=5",
    "published_utc": "2026-09-29T16:07:30+00:00",
@@ -7323,7 +7358,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "证券时报网",
+   "source_name": "stcn.com",
    "title_en": "1.2 trillion yuan! Central Bank’s operations on October 8",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LYjdwdllJLW9nZUhrNmhIRTRCZHNVOWdGRkZuUnJxNnU0OWZiVDdSdFJRaDF1MlB0S0FJRlN4cE40Zzk3VjV6R2E1Q0wyMVVfU3pOd3Y2VQ?oc=5",
    "published_utc": "2026-09-29T08:59:00+00:00",
@@ -7910,7 +7945,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
+   "source_name": "yicai.com",
    "title_en": "Monetary policy, credit, offshore RMB...the central bank's press conference responded to the top ten hot topics!",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdkkzMEFZemMyVTFhX2F3aTUzbWNMbGItdmJxb252MHdBeVRoLUJzMDRmc1k4V0dNc1lBRFhJUkZET3VVUTdmOFZxSHk3LTBHdXRB?oc=5",
    "published_utc": "2026-09-29T02:38:34+00:00",
@@ -8343,7 +8378,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "KB Think",
+   "source_name": "kbthink.com",
    "title_en": "Semiconductors are booming, so why are they hesitating to raise additional prices? The key is ‘domestic demand’",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zUnh0N05fSDMybDZ5VWVtYWxTRTNJSEM1UHhvOHE1M2UzVXAzT3BsZUJsOU1PdlN3amd6NXdhMXRXM2lpdzlrWWc0aHhDcDRFeFhqcEdQNHFZUFFQVXdpTEVtMDNBeEtyWm5DTXN0VjFqUQ?oc=5",
    "published_utc": "2026-09-28T23:18:33+00:00",
@@ -8360,7 +8395,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.cn",
    "title_en": "The 14-day reverse repurchase restarted, and the central bank’s open market operations invested a total of 1.1 trillion yuan in one day",
    "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxOWGRGUWp1QUZrTGhaTDdmeFlZemZWWmw0cE5WZGhRTEFla0dOMFhJNFVVaE11NmlZRUozYXZMcERMX1BjQ09ySUVrUEhzYXlOUEVadThrU0FMaWZGaWtraW9XN0NLMDh1eGIxSkNjaXpGUldmQm9fay04X0xEMVN1TDQwdDJnbjdlMlFCOVZhS3dUOG5BaEZtMHVsUm83cFNtZ2NMcDExQlhXalJoVkdyRmNrdDI0aU1HMzFkOFdLTUlJMS1FVXBnVjVNQl9ySXFKa0F4WGJBN3ZLRHJEY0hTQ0QwZjc5WXk1cDFOU0tlSk9HV3dlZ2xLNzZ2NXZ0c0hrZVh3aDduSjNwNUptLWZDOFVqTG92THdfclVHd3diMnI1R0FNOWw5TDBNUlp1eTU5Y2VseWhSVS1HTFFzYTZub0k5UTUybjREWlpaRnEycUJzT0hFbndjTE5kS0ZweGFzTll2RjQ0clhFbUtFdDFLOHZwWV9vWEw0RXVsNEVNRmJQM2NmZE05ZmJYUnptUjNGeVdGcjEtSE14MnpTN1dxcV96REpDakJHOVd4QW42YmlGZ2d5Z1A2TUl5bFhyMnNRYnlRaVpROFJvODF1V3hWV0REampJQ1pxaUdDS1FyX09vZkN1VkV4dGx1Wm4yMVZqWDdQZUJIX29SNW9KWXFEU0xBaTMtRmdoUlFlS25LUnU?oc=5",
    "published_utc": "2026-09-28T23:00:36+00:00",
@@ -9519,7 +9554,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "alphabiz.co.kr",
+   "source_name": "알파경제",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Strengthening economic and monetary policy cooperation",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoT3FZNTZrNGNiZ0N5SWZnNzhMVTM2MEJqX1luZzllbUt0SjhJWFlCUmpTNG50SEpycXJCX1VZS05ESkNJTGVCUjdyNmwxT2dYYTF5bUxZaEdJTXFlcDFJR2c4R1FjTTdkTzVDRnd3?oc=5",
    "published_utc": "2026-09-28T06:38:11+00:00",
@@ -9607,7 +9642,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺",
+   "source_name": "同花顺财经",
    "title_en": "The central bank has invested a total of 1.1 trillion yuan in reverse repurchase for three maturities, and the funds have been stable across quarters.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56cVdSZmxTQm9kM0FfaGJKNDliNGtaWW9yc094Y2F1V0R5NjBmRFRSRzJDTGJtNWp5bTVqbTl5c3BCQVVISWIxRDBDSUhMWVZpcTRCbURwTnAwU21DTV9MOU93?oc=5",
    "published_utc": "2026-09-28T06:17:02+00:00",
@@ -9954,7 +9989,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "es.tradingview.com",
+   "source_name": "TradingView",
    "title_en": "The unexpired balance of MLF of the Central Bank of China is 7.6 trillion yuan, and the next maturity will be 900 billion yuan on October 27.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hT0xQenZsdDdyYVB1RXA2dmtja1BRbllRUWtockhBdzF5aFAxMFZrVTBUMWFNOVlISm5YTTA4UVBaLUJCMG41T3gtcXZsSlRXOWVkZUl1dHhMVXJ4QTlNVWtBS1pZV1FnSjNLN1lTQ0gxQXBKZjYw?oc=5",
    "published_utc": "2026-09-28T03:17:00+00:00",
@@ -10042,7 +10077,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "newspim.com",
+   "source_name": "뉴스핌",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -10130,7 +10165,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "헤럴드경제",
+   "source_name": "biz.heraldcorp.com",
    "title_en": "Hyung-il Lee “Seeking harmony between economic and monetary policies”… Shin Hyun-song “Prices and financial stability are the premise”",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENHAxbk5NZXVhSFNpZWZSOXlURW4xdWVWR2hoYmdYRGtPdGVXa0p3c002ZnNDVkxXSHdJcEUyMTcxWkpYSGlNQlVKeU53c2pfU3p6cmpB?oc=5",
    "published_utc": "2026-09-28T02:39:21+00:00",
@@ -10149,7 +10184,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "한겨레",
+   "source_name": "hani.co.kr",
    "title_en": "Deputy Prime Minister Lee meets with Bank of Korea governors 6 days after taking office... “Fiscal-Monetary Policy Cooperation”",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSXltS2J3QUhWa2V2aERndVJDaHJLbUJPRGluanBpTDJOMG56d0pUVVRIOEh6Q0tHV2x2eWpNUWJvLXE2N3NrNkdKZUo2cHBkZml2U2JobEtFYUNaRURNNjVwVmV5QQ?oc=5",
    "published_utc": "2026-09-28T02:39:00+00:00",
@@ -12607,7 +12642,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "第一财经",
+   "source_name": "yicai.com",
    "title_en": "DR001 has recently been running at around 1.2%, and the central bank’s reverse repurchase operation volume has dropped, highlighting the easing of funds.",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mMFZleUYzWS1UWnQ2dHpqTGFvYlhOWVZONVNoaXV5WmxOa0pfY1IzTVNHZXUxV0ZTTkoxdS1rUWxQZGY0V0s1Y1dwM1JIVURJWU04?oc=5",
    "published_utc": "2026-09-25T10:03:36+00:00",
@@ -51923,40 +51958,6 @@
    "live_wire": false,
    "manual": false,
    "id": "131c13bceb278dbe"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Stocks Steady as Bond Yields Stabilize; Yen Gains: Markets Wrap",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUd3cTZLb3EydFBjMW1pVXhiNV9Mbm94SU1pWTcxRVoyaXlpRmVzLVRqdzdYRXNha01YU0JNRmJUbzJSczNvSGx3M1JUOW1IUzlFRU13S1piYkMwLVRtZk1TWlBNdlNLOTg0TmFMY0pKX1QyVkdNWUU3SU43WnB6ckdWd19vcElBYmhNcnM5QlVFUkZY?oc=5",
-   "published_utc": "2026-09-02T22:08:10+00:00",
-   "title_original": "Stocks Steady as Bond Yields Stabilize; Yen Gains: Markets Wrap",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1f93c2d77cc85ac5"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Stocks Steady as Oil, Bonds Stabilize; Yen Gains: Markets Wrap",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUd3cTZLb3EydFBjMW1pVXhiNV9Mbm94SU1pWTcxRVoyaXlpRmVzLVRqdzdYRXNha01YU0JNRmJUbzJSczNvSGx3M1JUOW1IUzlFRU13S1piYkMwLVRtZk1TWlBNdlNLOTg0TmFMY0pKX1QyVkdNWUU3SU43WnB6ckdWd19vcElBYmhNcnM5QlVFUkZY?oc=5",
-   "published_utc": "2026-09-02T22:08:10+00:00",
-   "title_original": "Stocks Steady as Oil, Bonds Stabilize; Yen Gains: Markets Wrap",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "97c4a2993b1d7c59"
   },
   {
    "source_id": "manual_ia",
