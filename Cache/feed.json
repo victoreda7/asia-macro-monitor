@@ -1,34 +1,18 @@
 {
- "generated_at_utc": "2026-10-02T20:52:47.276649+00:00",
- "collected_at_utc": "2026-10-02T20:52:47.276649+00:00",
+ "generated_at_utc": "2026-10-02T21:02:46.152548+00:00",
+ "collected_at_utc": "2026-10-02T21:02:46.152548+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1290,
-  "china": 787,
+  "japan": 1291,
+  "china": 788,
   "taiwan": 249,
-  "korea": 674
+  "korea": 672
  },
- "elapsed_s": 31.0,
+ "elapsed_s": 31.2,
  "sources": [
-  {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "name": "Taipei Times",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -262,12 +246,28 @@
    "newest": "2026-10-02T18:11:53+00:00"
   },
   {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-02T13:00:09+00:00"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "name": "Taipei Times",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-01T16:00:00+00:00"
+  },
+  {
    "source_id": "tradingview_live",
    "name": "TradingView (ao vivo)",
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-02T20:51:54+00:00"
+   "newest": "2026-10-02T21:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-03T05:40:00+09:00"
+   "newest": "2026-10-03T06:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "IBM/GE → Unemployment, Entrepreneurship, Publishing, National University Professor's ``University Professor from 40s'' Author's thoughts on conditions for becoming a university teacher, Academic Shift 19 | Career/Education | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/959287?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-02T21:00:00+00:00",
+   "title_original": "IBM･GE→失業､起業､出版､国立大教授の『40代から大学教授』著者が考える大学教員転身の条件､アカデミックシフト19 | キャリア・教育 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b484e2663864628f"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Japan local governments step up Taiwan outreach for chip investment",
@@ -362,7 +379,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "What's coming to the former Bank of Japan Kanazawa branch? The artworks on display will be... 21st century will be closed for a long time next May (Hokkoku Shimbun)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VYVNQdy11aFczb29mQ1RzMC1MQ0E4cE9rRVhWQ3RKTkVhVlhkOGZFcXA1b1NiaWRmbUtIWS0xQXdnQ01fTEJBOENWZHpPcFkwUVYzYlIxYzdRTTZPLWtGVmlSd1RpUF9vSmJwQWY0ZExzNDgxa3hsN0gwMkVNOG8?oc=5",
    "published_utc": "2026-10-02T20:04:58+00:00",
@@ -481,7 +498,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "Man Charged by US With Illegally Shipping Nvidia Chips to China",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaG1Cb2o1VlRFTXR6eE14TFgtMVEwbXM5OEJLekFLSXBOUVh2dGwwa3dQc0RhR0d1VjZLb3Y4UVZQb1AwRnpJcV9XNDZkYUs2T0hSQWR0V3JVYVBDTUczNEFOTHhGRjdSazBqVVBCeEhTT1Fncmo3a3l5Q0MwSnlRZTVJcnRTTDY2VjUzNERxeVVmcElpVFhpQTZXWE5ENS1EdFIxV0kwTTVNTE5JUUkwSmJnTUk?oc=5",
    "published_utc": "2026-10-02T17:10:30+00:00",
@@ -706,7 +723,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Prime Minister Takaichi “plans to leave monetary policy to the Bank of Japan,” Finance Minister Satsuki Katayama reveals in an exclusive TBS interview",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPdjlWM3V4cmhISWdMQkprbFJJSVVPYU1MS2xuaFFEWEJmOGNEODdEMjBjbWVTMUhNc2Q0amFoYjl0SksxMXlIckdaQXFjcjlaUlU5aDlrWWJLVWZ0YTIwSEJXQ2F2NWM5OUJiRmlXalBkZVNPVWttWEhKSjhxeUU?oc=5",
    "published_utc": "2026-10-02T09:39:25+00:00",
@@ -1104,7 +1121,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "Nvidia’s Blind Spots Exposed by China Chip Smuggling",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnZqUE1kc1RPWjZZTkV6Rjl0NGlnQ0szamJ5YWFURzFpVWJYUThldVJ2Wm5vSEJBTnVGZjlvMEs3REpRVDJaeU5nMDV2bmEzOVV3cE9sYTdZa3g0c2FnNnlhNThXMnBDQTJjZFczaUtJZTZmT0tsMHc4cWZ0U3R6UzRUVUc4V2VNeUdWMS1oU2xDcllzZ05TakN1c1c4Zi1Vc2pQOTFHSVFSY1hI?oc=5",
    "published_utc": "2026-10-02T06:49:00+00:00",
@@ -1365,7 +1382,7 @@
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
-   "title_en": "<Clearly emerging trends> In the past five years, when inflation has rapidly increased, what and how have households saved? Thorough analysis of the best data | Politics, Economy, Investment | Toyo Keizai Online",
+   "title_en": "In the past five years, when inflation has rapidly increased, what and how have households saved? Thorough analysis of the best data | Politics, Economy, Investment | Toyo Keizai Online",
    "url": "https://toyokeizai.net/articles/-/959892?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "published_utc": "2026-10-02T04:00:00+00:00",
    "title_original": "〈くっきり浮かび上がる傾向〉インフレが一気に進んだこの5年､家計は何をどう節約したのか？最高峰データを徹底分析 | 政治・経済・投資 | 東洋経済オンライン",
@@ -1381,7 +1398,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "Japan Minister Declines to Elaborate on Remarks at BOJ Meeting",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUE5IRUVhY2pVYUxTaXRfdGlUSS1WNGpXZ2IybDgxa1VWdFMyT2ExTWZHeGlqQmVlTEIwNnoyUDV1eW5zeGVybmR1c0laSUtzQVo5RlJ1dHdJNW9BSThrRFFEa0tnTGUyWWpFMENWTU9pcnFWX3Rod2VpT0ZRdmhBSUFNTnB6UzIzYWNLTVQzOFAwaG1kaHJ6amJRT0dOTXF6d2FZSGI0OGFiVDdPSWZPblRrYw?oc=5",
    "published_utc": "2026-10-02T03:55:00+00:00",
@@ -1795,7 +1812,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Why is Russia's finances in the biggest deficit even though crude oil prices have soared? The US's strong sanctions are making it even more difficult, and there is a possibility that Japan will be targeted...",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdjZ4QlM0TkdMN2F4UWFtbEE3b2g4RzRBclZsWEQ4T2h6NmJxVXRKMkRLNXRyX0RDeGlVcFFWMXp4TUJZd21aSDdxeGhRYzExTk5pOHd5TDktdms0TUFEdThIcjNSVF9yQU5CWWc5a0FXMlhyZlVmVEV5M2Z4ZVk?oc=5",
    "published_utc": "2026-10-02T01:32:30+00:00",
@@ -1882,7 +1899,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "S. Korea Inflation Stays Sticky, Backing BOK’s Tightening Bias",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb09PQ21fMWFrMlVuYlc4ZExIMHpnUVRHSUpzWlBmNDZXb0gwQmNWc2hIaVVqX0JuWVdwdGZ0eXhWRnVMUnBLclhLX1pSaEhmVWwwU0pwZm1acnN0SnB6Q0oyZ3htQ3ZBZEV5TUg1ZFlTaUl5NFNuS0k3X3FtQnFaQmZHTHBsbXVndlZDS0Y1ei1iU29UREV0QVV0dWlTdG9pc0YwWDdLcmhnTEdwcGM1cA?oc=5",
    "published_utc": "2026-10-02T01:18:00+00:00",
@@ -1917,7 +1934,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Opposition to the Bank of Japan's interest rate hike decision (Hiroyuki Kubota) - Expert",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjZJVzBGZXU0SlIyWlJTQ1ZrckdjZ3NtaEFwY2k1elNLaE8ycGRFalBDUDFmMFBuR3d6Q0pYWWYxY0VnN1R6ZzUyUGRWNmxFOWVjcHRYbE9XWHlpYUdacGlXMEg0dm9GZXQ3eDVsMFl4YTdKRjdFcjNVZjdVRGU3TlFIMTRSSzA4?oc=5",
    "published_utc": "2026-10-02T01:05:31+00:00",
@@ -2621,7 +2638,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "Greer Says No Date Set for US-China Board of Trade Tariff Cuts",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzM4bDlkWmZyczQ4amtQYm9XcHdhNzMyZngteGdmMGhVVHRuVUR1c3czUjBjbXd2Z0FCMlJXcWZLMHpPNGVEY185NmtXaDJYUEpTT2Y0Q3YwQXR2V3V0bGtVc0ZxR2JzdmRLRE13LTgyWU4tV2lIcGdwUG5IVldHcUNPeGh6VnJkUGMyeWNUeHgwak1Kd3QtREpDc2JjelFaVWU4cUNkUjNiWlBIM1NoLXVoTQ?oc=5",
    "published_utc": "2026-10-01T21:28:49+00:00",
@@ -2689,7 +2706,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "bloomberg.com",
    "title_en": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHgtcGRUUmk5UVJtZ1dYTlNiSmw5aEtBQ1ZRLXhDZjN0bnFZV3A2UXdRN1ZEbGlEb3RDdGFoTUY5VkI4djZnT0hqRFZKdXpNNVBJeWNsQ0dzbFZfVUUwZWhCUklMVmhuaURGdHNxSEtNYjFnWXRJVG41X283SGlFa2d0MW9mWV9FWnNCU05pZkFrdmc3WGlNeWFPbzl4Qi1UdXpwX2U1WFNUUEM4ejBhMXlkZVA?oc=5",
    "published_utc": "2026-10-01T21:00:00+00:00",
@@ -5349,8 +5366,8 @@
    "id": "f567e1545d8e65f9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Outline of consumption tax reduction and income-based benefits bill revealed",
    "url": "https://news.web.nhk/newsweb/na/nd-20261001de53505",
    "published_utc": "2026-09-30T20:08:00+00:00",
@@ -5364,7 +5381,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a1839a5fb285df0"
+   "id": "75b4c762a9b099d0"
   },
   {
    "source_id": "nikkei_asia",
@@ -5763,8 +5780,8 @@
    "id": "5cf1720bb8a2e34a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Private-sector politicians make proposals for economic policy management based on movements in interest rates and prices",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
    "published_utc": "2026-09-30T12:12:52+00:00",
@@ -5779,7 +5796,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2711875b41f47be4"
+   "id": "950b84d1e9e45198"
   },
   {
    "source_id": "tradingview_live",
@@ -5799,8 +5816,8 @@
    "id": "4f01ad5a0ac9dea2"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Discussions begin at the Fiscal System Council for next year's budget formulation",
    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53457",
    "published_utc": "2026-09-30T11:55:00+00:00",
@@ -5813,7 +5830,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c6a7c990cb0818fa"
+   "id": "5af5981dfcf348d4"
   },
   {
    "source_id": "nhk_economy",
@@ -6004,6 +6021,24 @@
    "id": "100f0fdf6f56156a"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "jrj.com.cn",
+   "title_en": "Good news came after the market closed. The central bank announced in advance that it would release a net fund of 200 billion yuan after the holiday! At a time when A-share funds are hesitant and hesitant, the central bank has given the market \"reassurance\" in advance.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VNkEtQ2NRaWtQM0F6ckZ4Z1Vtckx3UjcxdXJlTndMaFRqM3FRR0djd3NXcEpENGJEaFZBaVJWdEU3Q2JwdV9DSjZiTW9EVERUVDd3NFFYV2dHcnRJWFoySXRaRWZWOTRySmhKWlhHekV1QQ?oc=5",
+   "published_utc": "2026-09-30T10:38:01+00:00",
+   "title_original": "盘后有利好传来，央行提前预告，节后净释放2000亿元资金！在A股各路资金犹豫、避险之际，央行提前给市场吃下“定心丸”",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "399a6517cf2f8f00"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Japan economic panel members underline BOJ independence",
@@ -6145,7 +6180,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.cn",
    "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation on October 8",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0tXZFpJTjR2bWxlODdHV3pCTWU4aUJYaG1VeDVGTExCN0tzeEdhM0w0elhyM1pnV2hCSnVhWVpDdkZMQkxIR2YySE44b3FsVGdhVnJhM1h0SXZPMUt3TFpYX3NJUnVRTUhIRVRpOXFoZGZJeVNDeE5hSklUVVI2OW5EZUtFUHJqQWc?oc=5",
    "published_utc": "2026-09-30T09:54:08+00:00",
@@ -6285,7 +6320,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "hankyung.com",
+   "source_name": "한국경제",
    "title_en": "Global interest rates are resembling ‘post-Corona austerity’… Will Korea also go to 3.5%?",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcmp0RDhESlJPQVFlaE9QTDUyREZ5TXNDMmhCV1hFc0NfOUg4RWJ6NFpQM25LYzRLcExFZ0NPSW9feW5tZ3VmSG1vMVFmcUt1SmRidVoxUmxZdw?oc=5",
    "published_utc": "2026-09-30T09:11:13+00:00",
@@ -6337,7 +6372,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a period of 3 months.",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zekpNSk9PckNQbnpCaGM0RU02aEFmM25NNHl5M2t2bzJRdzBZZW5ybXczbGpDSXhvWElVYnJyVkJISnhtcXJKRkVCTHlENWpUcGFlSGxJTDBtQUxjYTRLTw?oc=5",
    "published_utc": "2026-09-30T09:07:53+00:00",
@@ -7934,7 +7969,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.cn",
    "title_en": "The central bank uses multiple tools to protect liquidity, and funding is expected to be stable across quarters",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWm80akZhQ3RNeEZZa3RsRTdXSWk2Q3o2V2RTSGl2NmRJcTZYRXZkMFBjb3JBX0Y5VzN2LTBTSW1FZHRqdzdmWVdwQ0plLU1vVER5ZTRVblZNNFlzTmhIMExkYWk2alRaZTNLUTVfdy1VOFhJVGYzaXZfSkx6ZTliOHVfMlk3WjVKelVMeEdFLW1CTFd4WHVZSw?oc=5",
    "published_utc": "2026-09-29T16:07:30+00:00",
@@ -8195,7 +8230,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHUnRnQTVQZkREcjlKY3VoWWJhaUxUb29pVnFXaGYxX1U5N3dSSTBILVVWdHNQbHY5Z1FTSjYwckc4WnhhdHNNWHJ4ZmFJN2JiLVpubUgwb21BTlNBWUlrb0htTElxX25TQi1vaENGTVBMVmJobk9pLXZfRQ?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
@@ -8962,7 +8997,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "The central bank launched a 90.5 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JdjR0Qi1ZVzd4RkFfcTVqVVBBMzJEaGtBOHpXa1F6RmVwd2o4QnFiM0dybU5tYWZiVGRscUkzdkw4eTlnMFdsUVY1UlFvbmt0eFhEaGJSM0dCU2dDSjBMQg?oc=5",
    "published_utc": "2026-09-29T03:02:58+00:00",
@@ -9121,7 +9156,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "비즈니스포스트",
+   "source_name": "businesspost.co.kr",
    "title_en": "Foreign media reviews are positive on the pace of interest rate hikes by the Bank of Korea, “leading to a natural soft landing”",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96ZFluMDViLWNvcUQ1T2hDcWI0SjZLNjFGOEh0TlRsZE5WQ0JEanJ4dDRtUWd6Mm9VZjlIdTBRX2hIUkZLM0hiY1doMnZhNEVDZ2V0bFQ5QUI2NUcwWkYxTTU1QldqcUtNemtZaVFhZzZUd3M?oc=5",
    "published_utc": "2026-09-29T02:15:19+00:00",
@@ -9155,7 +9190,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "The central bank launched a 90.5 billion yuan 7-day reverse repurchase operation in the open market",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSYTNkS1ZwV2p5UC1ycEtGMzlhcW45blZ3aV9mcE5KZW9rZDU5ODR1djFDYmR2WVV6c0R1aHJsOTFoNHZLNy1mMWhndkxHM0lqTlR4VTRsTTJvbEhTajlNWQ?oc=5",
    "published_utc": "2026-09-29T02:07:17+00:00",
@@ -9517,7 +9552,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.cn",
    "title_en": "The 14-day reverse repurchase restarted, and the central bank’s open market operations invested a total of 1.1 trillion yuan in one day",
    "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxOWGRGUWp1QUZrTGhaTDdmeFlZemZWWmw0cE5WZGhRTEFla0dOMFhJNFVVaE11NmlZRUozYXZMcERMX1BjQ09ySUVrUEhzYXlOUEVadThrU0FMaWZGaWtraW9XN0NLMDh1eGIxSkNjaXpGUldmQm9fay04X0xEMVN1TDQwdDJnbjdlMlFCOVZhS3dUOG5BaEZtMHVsUm83cFNtZ2NMcDExQlhXalJoVkdyRmNrdDI0aU1HMzFkOFdLTUlJMS1FVXBnVjVNQl9ySXFKa0F4WGJBN3ZLRHJEY0hTQ0QwZjc5WXk1cDFOU0tlSk9HV3dlZ2xLNzZ2NXZ0c0hrZVh3aDduSjNwNUptLWZDOFVqTG92THdfclVHd3diMnI1R0FNOWw5TDBNUlp1eTU5Y2VseWhSVS1HTFFzYTZub0k5UTUybjREWlpaRnEycUJzT0hFbndjTE5kS0ZweGFzTll2RjQ0clhFbUtFdDFLOHZwWV9vWEw0RXVsNEVNRmJQM2NmZE05ZmJYUnptUjNGeVdGcjEtSE14MnpTN1dxcV96REpDakJHOVd4QW42YmlGZ2d5Z1A2TUl5bFhyMnNRYnlRaVpROFJvODF1V3hWV0REampJQ1pxaUdDS1FyX09vZkN1VkV4dGx1Wm4yMVZqWDdQZUJIX29SNW9KWXFEU0xBaTMtRmdoUlFlS25LUnU?oc=5",
    "published_utc": "2026-09-28T23:00:36+00:00",
@@ -9948,7 +9983,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rVmZqeDhPX2dVYTNhNGhncnI1RUs0NXhFMDNlQkFCZ3MyYkJsdkNPcUl0WDdTQmpYSElFcHFYRVhhSmROVnpfQWQ5SUJxTE5PblFxNE1SN0k4SjFkWkJaV0RhSk90YjN3QlM5YVFrTFdvU3lRY1FZdjZ0LXI?oc=5",
    "published_utc": "2026-09-28T13:10:00+00:00",
@@ -10782,7 +10817,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺",
+   "source_name": "同花顺财经",
    "title_en": "The central bank has invested a total of 1.1 trillion yuan in reverse repurchase for three maturities, and the funds have been stable across quarters.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56cVdSZmxTQm9kM0FfaGJKNDliNGtaWW9yc094Y2F1V0R5NjBmRFRSRzJDTGJtNWp5bTVqbTl5c3BCQVVISWIxRDBDSUhMWVZpcTRCbURwTnAwU21DTV9MOU93?oc=5",
    "published_utc": "2026-09-28T06:17:02+00:00",
@@ -11218,7 +11253,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "The central bank launched a 139 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JLVpNdDk3LTJ5WE95TnBvdlpqMHF2Ni1kbGhVNy1uT0E5N2FzY0FaYVVSMjFPU1c1cFFJOUk0OXhRYVVwOEJJMWcxVEhQQzV0TWxVdWNKWHRKQW9fVXJ1SA?oc=5",
    "published_utc": "2026-09-28T02:59:35+00:00",
@@ -11236,7 +11271,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
+   "source_name": "newspim.com",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -11343,7 +11378,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "한겨레",
+   "source_name": "hani.co.kr",
    "title_en": "Deputy Prime Minister Lee meets with Bank of Korea governors 6 days after taking office... “Fiscal-Monetary Policy Cooperation”",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSXltS2J3QUhWa2V2aERndVJDaHJLbUJPRGluanBpTDJOMG56d0pUVVRIOEh6Q0tHV2x2eWpNUWJvLXE2N3NrNkdKZUo2cHBkZml2U2JobEtFYUNaRURNNjVwVmV5QQ?oc=5",
    "published_utc": "2026-09-28T02:39:00+00:00",
@@ -11541,7 +11576,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "The central bank launched a 139 billion yuan 7-day reverse repurchase operation today, with an operating interest rate of 1.40%",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9idnNIS0o1MWFPY2ZpUk5xcHJtUUVnbC1EbTlZRTlVMmptZmlyOFFVSzVMTmluQ3BZbVZ1MTRLS29IYXJQVURod0RtNkVlY3RkRmJRWUJjTFhmSjcydG5wVw?oc=5",
    "published_utc": "2026-09-28T01:34:24+00:00",
@@ -12714,7 +12749,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "China, U.S. reach consensus on eight outcomes in Xi's visit",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4SXVvQTFCY04wbS1kYzU1bGJsbXFPQ3h0UXFxMjV0ZkpWdnVZXzlvUlBhVDF4YnRSUW9PN1c0akV0UmtoeWZIdTc4X3lNVmdmd2lJd1JrQXJYNGhkVW50STRDSzIwZGlXQUdITGtfckhpLWJucjduUm95MUY?oc=5",
    "published_utc": "2026-09-26T10:50:00+00:00",
@@ -21235,7 +21270,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "China's State Council appoints, removes officials",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTmlyOHpLQ0syMGZkV2FEeVp1b0JfOGhQbVR1TURQeFd5Q1ZDejRQNHkzcy1lWkhBb2hoZ1BJd2R0alI3MXpkVWtjTEhhTXloRTZYRV9MVDJVOXlXUWJmOXl4NC0xOXRFLXFkelRWYlZnMUVkNkM0b0x3OXY?oc=5",
    "published_utc": "2026-09-20T11:40:16+00:00",
@@ -23404,7 +23439,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "Chinese premier chairs State Council executive meeting",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
    "published_utc": "2026-09-18T15:43:15+00:00",
@@ -33796,7 +33831,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "Xinhua News | China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93T0V0SG82MDNSd0djbmNKbkxmS0pMckRVYlo0YXUwdDB2eUdrdGVTQmZYZzBuRHppWGd5UlN4cmJIWXZWWmJXMHkyRkhmV0VCNUJ2WTlzblNYNTJseFhRN3hMS3UycDBMN1VMQzdFajFId0VQX2NjUUNxNlU?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -33813,7 +33848,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
+   "source_name": "english.news.cn",
    "title_en": "China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nbk5KVkVjWHdKclpEMXZHd05LUnVvZkg2ZThPZ3lYeVRhd0RxVGJkSVdqb1Q0NjUyWjdXc2VTemFsOTBrb0ppZ2dud2ZhYlFsTVZOQ0NyblN6X1Z1N2wtakdzMFI1emJ6LVIyQWNYZEhycDNGeEo2QXBOWnY?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -51922,41 +51957,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5ae783fd270ce549"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "더나은미래",
-   "title_en": "Bank of Korea ‘secretly’?… For the first time in 25 years, foreign exchange reserve rankings are made private.",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xQjNLRmhtOGdNTWRPd2Zkb0x4ZERvUFRxT2FDZG5iM1VkOGZrZnNGVHV2b3lPTVNMamRLWU5fQnJ1aWcyZGt3MTZvWjdZY1hDTVE?oc=5",
-   "published_utc": "2026-09-03T08:13:00+00:00",
-   "title_original": "‘슬그머니’ 한국은행?…25년 만에 외환보유액 순위 비공개로 전환",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d3b1044ca611d79d"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Deputy Prime Minister and Minister of Finance and Economy Koo Yoon-chul said shortly after returning..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XaXZXQXdvTEpuOGVJaFluMk4xU3dpU01hZUdiVDNjcTFHTmJyR0NzSmJONmQxTmFlMW9iVDBvVHpkTGlaSERsRXdOY0k1a1hpQlE?oc=5",
-   "published_utc": "2026-09-03T08:04:59+00:00",
-   "title_original": "Deputy Prime Minister and Minister of Finance and Economy Koo Yoon-chul said shortly after returning..",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b94370bada736698"
   },
   {
    "source_id": "manual_ia",
