@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T05:12:44.478616+00:00
+Última coleta: 2026-10-02T05:22:43.972852+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1294
+  🇯🇵 Japão          1293
   🇨🇳 China          781
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  676
+  🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's Strong Chip Exports Yet to Spill Over Into Broader Economy — Market Talk
   - [japan] Japan Stocks Look Attractive, Especially When Dollar-Yen Above 152 — Market Talk
   - [japan] Retail JGB sales surge more than 80% as rates rise
   - [japan] September consumer price index for Tokyo's 23 wards increased by 2.7% compared to the same month last year
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] US Charges California Man Over $300 Million Nvidia Chip Shipments to China
   - [japan] [Tokyo Foreign Exchange] Dollar, low 157 yen level = softening due to strong Tokyo prices (9:00 am on the 2nd)
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
-  - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T05:12:44+00:00",
+      "published_utc": "2026-10-02T05:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
