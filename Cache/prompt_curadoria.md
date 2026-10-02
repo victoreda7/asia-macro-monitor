@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T19:33:22.167423+00:00
+Última coleta: 2026-10-02T19:43:19.987381+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1289
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [japan] Behind-the-scenes circumstances behind Indonesia's resumption of imports of "Japanese used trains" What happen
   - [taiwan] Taiwan Semiconductor Stock Rises on Broadcom's $60 Billion Chip Deal
   - [china] Soybeans slump on dimming hope of Chinese tariff cuts
+  - [china] Man Charged by US With Illegally Shipping Nvidia Chips to China
   - [japan] Japan hits Russia 'shadow fleet' in 1st sanctions since Putin trip to disputed isle
   - [japan] Number of U.S. employed workers falls significantly below market expectations Expectations of Fed interest rat
   - [china] China Aoyuan Announces Disposal Of Assets By Receivers
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Chief Cabinet Secretary Kihara informs governor of financial support for Kumamoto earthquake recovery fund
   - [china] China Chip Smuggling Cases Expose Nvidia’s Blind Spots
   - [china] Nvidia’s Blind Spots Exposed by China Chip Smuggling
-  - [china] Atlas Copco Buys Chinese Heating and Cooling Equipment Manufacturer Guangdong Euroklimat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T19:33:22+00:00",
+      "published_utc": "2026-10-02T19:43:20+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
