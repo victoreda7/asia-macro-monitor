@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T07:32:46.060207+00:00
+Última coleta: 2026-10-02T07:42:46.882975+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1293
+  🇯🇵 Japão          1292
   🇨🇳 China          782
   🇹🇼 Taiwan         248
-  🇰🇷 Coreia do Sul  677
+  🇰🇷 Coreia do Sul  678
 
 ## O que já está no feed (não repita)
 
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3287582.16, Implies 79% Upside
+  - [korea] Samsung Electronics' large-scale share buyback has entered the final stage. The event, which has sup..
   - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
   - [china] Everest Medicines Announces the Acceptance and Priority Review of VELSIPITY(R) Manufacturing Localization Appl
   - [japan] Why did National Democratic Party representative Tamaki suddenly distance himself from the government? The tru
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Toho, the largest commercial food wholesaler, has revised its sales forecast upward, but profits remain unchan
   - [japan] Japan power semiconductor deal stalls as Rohm, Toshiba, Mitsubishi haggle
   - [japan] Tokyo prices rose 2.7% in September, reaching the 2% level for the first time in eight months (Kyodo News)
-  - [china] Hangzhou Great Star 3Q Earnings Likely Weighed by Yuan Strength — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T07:32:46+00:00",
+      "published_utc": "2026-10-02T07:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
