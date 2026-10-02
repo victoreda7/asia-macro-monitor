@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T06:22:45.878953+00:00
+Última coleta: 2026-10-02T06:32:44.286066+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1294
@@ -30,6 +30,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC reportedly weighs Texas expansion, but key US tax incentive could decide the move as Singapore enters the
   - [japan] Japanese yen firms on strong inflation, dollar muted before payrolls test
   - [japan] Dollar rally stalls ahead of payrolls test; yen firms on strong Tokyo inflation
+  - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
   - [japan] Japan does not need excessively loose monetary policy, economy minister says
   - [taiwan] DIGITIMES Insight: Intel, TSMC, Samsung converge on backside power — packaging becomes the next divide
   - [china] China's PMI Recovery Encouraging Despite Fragile Domestic Demand — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] September consumer price index for Tokyo's 23 wards (excluding fresh food) 2.7% compared to the same month las
   - [japan] Opposition to the Bank of Japan's interest rate hike decision (Hiroyuki Kubota) - Expert
   - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
-  - [taiwan] Key facts: TSMC (2330) Leads AI Foundry, Tops $2T Market Cap
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T06:22:46+00:00",
+      "published_utc": "2026-10-02T06:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
