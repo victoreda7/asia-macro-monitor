@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T06:03:52.608610+00:00
+Última coleta: 2026-10-02T06:12:44.485415+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1293
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Hankyu Hanshin Holdings, Inc. - To Expand The Limit For Its Share Buybacks Up To 5.16% Worth 50 Billion Yen Fr
   - [korea] South Korea's Strong Chip Exports Yet to Spill Over Into Broader Economy — Market Talk
   - [china] China Chip Smuggling Cases Expose Nvidia’s Blind Spots
   - [japan] Japan Stocks Look Attractive, Especially When Dollar-Yen Above 152 — Market Talk
@@ -27,7 +28,7 @@ Total: 3000 manchetes
   - [china] More aggressive China stimulus unlikely for now, BofA says
   - [japan] <Clearly emerging trends> In the past five years, when inflation has rapidly increased, what and how have hous
   - [taiwan] TSMC reportedly weighs Texas expansion, but key US tax incentive could decide the move as Singapore enters the
-  - [japan] Japanese yen firms on strong inflation, dollar muted before payrolls test
+  - [japan] Dollar rally stalls ahead of payrolls test; yen firms on strong Tokyo inflation
   - [japan] Japan does not need excessively loose monetary policy, economy minister says
   - [taiwan] DIGITIMES Insight: Intel, TSMC, Samsung converge on backside power — packaging becomes the next divide
   - [china] China's PMI Recovery Encouraging Despite Fragile Domestic Demand — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
   - [taiwan] Key facts: TSMC (2330) Leads AI Foundry, Tops $2T Market Cap
   - [japan] Pickup in Tokyo Inflation Likely to Fuel Rate-Hike Views
-  - [china] US Charges California Man Over $300 Million Nvidia Chip Shipments to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T06:03:52+00:00",
+      "published_utc": "2026-10-02T06:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
