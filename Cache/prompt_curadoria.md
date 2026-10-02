@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T22:02:46.199368+00:00
+Última coleta: 2026-10-02T22:12:44.727381+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1288
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] US firms add just 29,000 Jobs, unemployment rate ticks up
+  - [korea] The Bank of Korea said, “Raising interest rates will help stabilize inflation and housing prices.”
   - [japan] What will happen to the relationship between Prime Minister Takaichi, who was supposed to be a ``reflationist,
   - [japan] One of the reasons why the yen continues to depreciate is the Bank of Japan's "fiscal subordination" issue, an
   - [korea] Trump pushes South Korea on $54B Alaska LNG venture, warns of tariff hikes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's Mortgage Subsidy Likely to Have Limited Impact — Market Talk
   - [japan] Collateral Accepted by the Bank of Japan (End of Sept.)
   - [japan] Japanese Government Bonds Held by the Bank of Japan
-  - [korea] Ministry of Finance and Economy ◇Promotion of Deputy Director △Public relations Officer Kim Young-h..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T22:02:46+00:00",
+      "published_utc": "2026-10-02T22:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
