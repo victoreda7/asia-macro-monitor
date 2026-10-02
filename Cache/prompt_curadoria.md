@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-02T12:12:45.482855+00:00
+Última coleta: 2026-10-02T12:22:45.103833+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1294
@@ -56,7 +56,7 @@ Total: 3000 manchetes
   - [japan] Japan's unemployment rate rises to 2.5% in August, above expectations
   - [china] More aggressive China stimulus unlikely for now, BofA says
   - [japan] <Clearly emerging trends> In the past five years, when inflation has rapidly increased, what and how have hous
-  - [japan] Japanese yen firms on strong inflation, dollar muted before payrolls test
+  - [japan] Japan Minister Declines to Elaborate on Remarks at BOJ Meeting
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-02T12:12:45+00:00",
+      "published_utc": "2026-10-02T12:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
