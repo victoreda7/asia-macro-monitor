@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-03T05:32:42.942532+00:00
+Última coleta: 2026-10-03T05:42:46.040384+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1287
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] What, wasn't it the Bank of Japan's fault? …Reiwa’s Black Monday is a bigger factor than the “Ueda shock”
   - [japan] Bank of Japan September Tankan Business conditions DI for manufacturing industry worsens Kagawa Prefecture (KS
   - [japan] The importance of the Bank of Japan's words "change in circumstances" (Hiroyuki Kubota) - Expert
   - [japan] U.S. employment statistics show a lower-than-expected 29,000 increase in September...unemployment rate rises f
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] SK Innovation, Aramco-backed S-Oil rally as China export bans add to global fuel strain
   - [taiwan] Manufacturing sector flashes 'green' light in August
   - [china] China seen doing ‘just enough’ with targeted fiscal support to defend GDP growth
-  - [china] China fuel export suspension to choke supplies in Asia
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-03T05:32:43+00:00",
+      "published_utc": "2026-10-03T05:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
