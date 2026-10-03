@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-03T07:42:44.163949+00:00
+Última coleta: 2026-10-03T07:52:45.336287+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1287
+  🇯🇵 Japão          1286
   🇨🇳 China          790
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  674
+  🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [korea] Trump Touts 'Better' South Korea Trade Deal With $8.4 Billion Oil Project, But Seoul Says It Wasn’t Part of th
   - [japan] What, wasn't it the Bank of Japan's fault? …Reiwa’s Black Monday is a bigger factor than the “Ueda shock”
   - [japan] Bank of Japan September Tankan Business conditions DI for manufacturing industry worsens Kagawa Prefecture (KS
   - [japan] The importance of the Bank of Japan's words "change in circumstances" (Hiroyuki Kubota) - Expert
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] European Chip Stocks Rally after Report Samsung Ups Prices — Market Talk
   - [china] SK Innovation, Aramco-backed S-Oil rally as China export bans add to global fuel strain
   - [taiwan] Manufacturing sector flashes 'green' light in August
-  - [china] China seen doing ‘just enough’ with targeted fiscal support to defend GDP growth
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-03T07:42:44+00:00",
+      "published_utc": "2026-10-03T07:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
