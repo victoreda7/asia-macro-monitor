@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-03T02:52:46.891309+00:00
+Última coleta: 2026-10-03T03:02:45.723711+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1287
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [korea] US firms add just 29,000 Jobs, unemployment rate ticks up
   - [korea] The Bank of Korea said, “Raising interest rates will help stabilize inflation and housing prices.”
   - [japan] What will happen to the relationship between Prime Minister Takaichi, who was supposed to be a ``reflationist,
+  - [japan] One of the reasons why the yen continues to depreciate is the Bank of Japan's "fiscal subordination" issue, an
   - [japan] One of the reasons why the yen continues to depreciate is the Bank of Japan's "fiscal subordination" issue, an
   - [korea] Trump pushes South Korea on $54B Alaska LNG venture, warns of tariff hikes
   - [japan] IBM/GE → Unemployment, Entrepreneurship, Publishing, National University Professor's ``University Professor fr
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China seen doing ‘just enough’ with targeted fiscal support to defend GDP growth
   - [china] China fuel export suspension to choke supplies in Asia
   - [japan] BREAKING NEWS: Japan farm minister admits making "misleading" remarks on local budget cut
-  - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-03T02:52:47+00:00",
+      "published_utc": "2026-10-03T03:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
