@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-03T02:42:43.695402+00:00
+Última coleta: 2026-10-03T02:52:46.891309+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1288
-  🇨🇳 China          789
+  🇯🇵 Japão          1287
+  🇨🇳 China          790
   🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  674
 
@@ -53,10 +53,10 @@ Total: 3000 manchetes
   - [korea] European Chip Stocks Rally after Report Samsung Ups Prices — Market Talk
   - [china] SK Innovation, Aramco-backed S-Oil rally as China export bans add to global fuel strain
   - [taiwan] Manufacturing sector flashes 'green' light in August
+  - [china] China seen doing ‘just enough’ with targeted fiscal support to defend GDP growth
   - [china] China fuel export suspension to choke supplies in Asia
   - [japan] BREAKING NEWS: Japan farm minister admits making "misleading" remarks on local budget cut
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
-  - [taiwan] Taiwan pledges to help TSMC expand domestic investment amid Singapore rumors
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-03T02:42:43+00:00",
+      "published_utc": "2026-10-03T02:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
