@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-03T21:02:47.598003+00:00
-Total: 2980 manchetes
+Última coleta: 2026-10-03T21:12:44.988820+00:00
+Total: 2982 manchetes
 
-  🇯🇵 Japão          1274
+  🇯🇵 Japão          1276
   🇨🇳 China          789
   🇹🇼 Taiwan         247
   🇰🇷 Coreia do Sul  670
 
 ## O que já está no feed (não repita)
 
+  - [japan] This is the complete picture of Obata's theoretical system (21st century economic theory)...Entertainment, ecs
+  - [japan] Trump warmly welcomes Xi Jinping at the U.S.-China summit meeting...Why Americans' "feelings toward China have
   - [japan] Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide
   - [taiwan] Musk confirms talks with TSMC over his Texas chip factory project
   - [china] How US-China tech ties are deepening as RISC-V chips go mainstream
@@ -55,8 +57,6 @@ Total: 2980 manchetes
   - [korea] Trump says South Korea trade deal adds $8.4B oil project
   - [china] China’s C919 jet faces further delivery delays amid US export chill: analysts
   - [japan] Yen market price rises, dollar sold due to fall in crude oil futures prices
-  - [japan] Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity
-  - [japan] Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2980 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-03T21:02:47+00:00",
+      "published_utc": "2026-10-03T21:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
