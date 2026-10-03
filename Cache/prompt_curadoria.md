@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-03T01:02:44.801690+00:00
+Última coleta: 2026-10-03T01:12:44.795301+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1288
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [korea] Trump pushes South Korea on $54B Alaska LNG venture, warns of tariff hikes
   - [japan] IBM/GE → Unemployment, Entrepreneurship, Publishing, National University Professor's ``University Professor fr
   - [japan] Japan local governments step up Taiwan outreach for chip investment
+  - [japan] Hedge Funds Are Rebuilding Short Bets Against Japan’s Yen
   - [japan] What's coming to the former Bank of Japan Kanazawa branch? The artworks on display will be... 21st century wil
   - [taiwan] TSMC Stocks Jump 3.1% as High-NA Road Map Targets 2030
   - [korea] ASML Stocks Surge 3.5% as Samsung Pulls High-NA Into DRAM
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Japan farm minister admits making "misleading" remarks on local budget cut
   - [japan] Tokyo inflation accelerates in Sept, strengthening case for further BOJ hikes By Investing.com
   - [taiwan] Taiwan pledges to help TSMC expand domestic investment amid Singapore rumors
-  - [korea] Art Group Buys 6.87% Equity Interests In Edgeon For Krw 585.75 Million
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-03T01:02:45+00:00",
+      "published_utc": "2026-10-03T01:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
