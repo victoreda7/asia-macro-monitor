@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-03T08:22:44.507524+00:00
+Última coleta: 2026-10-03T08:32:46.049670+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1287
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Can Britain really afford to diverge from EU tariffs on Chinese EVs?
   - [japan] OPINION: Japan must improve fiscal credibility as long-term rates rise
   - [korea] Trump Touts 'Better' South Korea Trade Deal With $8.4 Billion Oil Project, But Seoul Says It Wasn’t Part of th
   - [japan] What, wasn't it the Bank of Japan's fault? …Reiwa’s Black Monday is a bigger factor than the “Ueda shock”
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill approved at Liberal Democratic Party joint meeting, with calls for clarificatio
   - [korea] South Korea’s Sept inflation cools to 2.9% on fuel caps, lower farm prices
   - [korea] European Chip Stocks Rally after Report Samsung Ups Prices — Market Talk
-  - [china] SK Innovation, Aramco-backed S-Oil rally as China export bans add to global fuel strain
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-03T08:22:44+00:00",
+      "published_utc": "2026-10-03T08:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
