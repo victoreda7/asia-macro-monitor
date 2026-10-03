@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-03T20:32:44.433853+00:00
-Total: 2980 manchetes
+Última coleta: 2026-10-03T20:42:47.156737+00:00
+Total: 2981 manchetes
 
-  🇯🇵 Japão          1273
+  🇯🇵 Japão          1274
   🇨🇳 China          789
   🇹🇼 Taiwan         247
   🇰🇷 Coreia do Sul  671
 
 ## O que já está no feed (não repita)
 
+  - [japan] Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide
   - [taiwan] Musk confirms talks with TSMC over his Texas chip factory project
   - [china] How US-China tech ties are deepening as RISC-V chips go mainstream
   - [china] Why India’s Manufacturing Future Isn’t the China Model
@@ -56,7 +57,6 @@ Total: 2980 manchetes
   - [japan] Yen market price rises, dollar sold due to fall in crude oil futures prices
   - [japan] Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity
   - [japan] Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus
-  - [japan] Japan finance minister: Government united in view reflation is over
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2980 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-03T20:32:44+00:00",
+      "published_utc": "2026-10-03T20:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
