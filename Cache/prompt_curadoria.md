@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-03T03:32:47.214723+00:00
+Última coleta: 2026-10-03T03:42:45.410483+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1287
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan September Tankan Business conditions DI for manufacturing industry worsens Kagawa Prefecture (KS
   - [japan] The importance of the Bank of Japan's words "change in circumstances" (Hiroyuki Kubota) - Expert
   - [japan] U.S. employment statistics show a lower-than-expected 29,000 increase in September...unemployment rate rises f
   - [korea] "The Federal Reserve and the Bank of Korea will freeze interest rates in October... USD-KRW 1,345-1,370 expect
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Manufacturing sector flashes 'green' light in August
   - [china] China seen doing ‘just enough’ with targeted fiscal support to defend GDP growth
   - [china] China fuel export suspension to choke supplies in Asia
-  - [japan] BREAKING NEWS: Japan farm minister admits making "misleading" remarks on local budget cut
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-03T03:32:47+00:00",
+      "published_utc": "2026-10-03T03:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
