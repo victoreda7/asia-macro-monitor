@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-03T16:42:44.106457+00:00
-Total: 2987 manchetes
+Última coleta: 2026-10-03T16:52:43.706982+00:00
+Total: 2988 manchetes
 
   🇯🇵 Japão          1278
-  🇨🇳 China          788
+  🇨🇳 China          789
   🇹🇼 Taiwan         247
   🇰🇷 Coreia do Sul  674
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Musk confirms talks with TSMC over his Texas chip factory project
+  - [china] How US-China tech ties are deepening as RISC-V chips go mainstream
   - [japan] Pros and cons of 1% food consumption tax What are the tax reduction effects?
   - [china] Can Britain really afford to diverge from EU tariffs on Chinese EVs?
   - [japan] OPINION: Japan must improve fiscal credibility as long-term rates rise
@@ -56,7 +57,6 @@ Total: 2987 manchetes
   - [japan] Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus
   - [japan] Japan finance minister: Government united in view reflation is over
   - [japan] Prime Minister Takaichi “plans to leave monetary policy to the Bank of Japan,” Finance Minister Satsuki Kataya
-  - [japan] Consumption tax reduction bill approved at Liberal Democratic Party joint meeting, with calls for clarificatio
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2987 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-03T16:42:44+00:00",
+      "published_utc": "2026-10-03T16:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
