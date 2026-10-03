@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-03T12:02:44.786810+00:00",
- "collected_at_utc": "2026-10-03T12:02:44.786810+00:00",
+ "generated_at_utc": "2026-10-03T12:12:44.477288+00:00",
+ "collected_at_utc": "2026-10-03T12:12:44.477288+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2998,
+ "count": 2997,
  "by_region": {
-  "japan": 1284,
+  "japan": 1283,
   "china": 790,
   "taiwan": 248,
   "korea": 676
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -160,10 +160,10 @@
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS China (GN)",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 15/07/2026",
-   "newest": "2026-07-15T07:00:00+00:00"
+   "error": "",
+   "newest": "2026-09-15T07:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-03T11:50:22+00:00"
+   "newest": "2026-10-03T12:05:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-03T11:50:09+00:00"
+   "newest": "2026-10-03T12:03:47+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T23:15:36+00:00"
+   "newest": "2026-10-03T08:39:59+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -9369,24 +9369,6 @@
    "id": "fe701e06758305c1"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 90.5 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JdjR0Qi1ZVzd4RkFfcTVqVVBBMzJEaGtBOHpXa1F6RmVwd2o4QnFiM0dybU5tYWZiVGRscUkzdkw4eTlnMFdsUVY1UlFvbmt0eFhEaGJSM0dCU2dDSjBMQg?oc=5",
-   "published_utc": "2026-09-29T03:02:58+00:00",
-   "title_original": "央行今日开展905亿元7天逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e0f41c8d2f6842c2"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "다바(DABA)뉴스",
    "title_en": "[Diagnosis] Trying to control housing prices in the metropolitan area is shaking up the local economy",
@@ -9700,6 +9682,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ec6abde39ce13b4f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.eastmoney.com",
+   "title_en": "The central bank launched a 90.5 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kM2o4emltcGhKckVPM3k3VmVpTW5rVmd1SkNlRmhaV1RnLXhfQnJsX2RoV0Y1ck81SWdVaE96WngtVVJudUZ1R21wTUR3U3Z4SjVrakdHSzQ3dnE2UU12b2VyVDRzdw?oc=5",
+   "published_utc": "2026-09-29T01:23:03+00:00",
+   "title_original": "央行今日开展905亿元7天逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cebecdfa4f02924d"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -10859,11 +10859,11 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "한국경제TV",
+   "source_name": "v.daum.net",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Fiscal and monetary policy ‘cooperation’",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Pb2FvcGMtTTNYYlBqMGJxMFdxbUEydVM0NTNYSXB2TFdrTmUxdzJzWHV2V1IxSjhBUFdjZldVM044NnpwYXB3aTlmSlhzRjFZaXlsa05LNmduRjFjTk1FYmxTZVNUT0tXUUotNjNibnZwSDJjZkZR?oc=5",
-   "published_utc": "2026-09-28T08:31:00+00:00",
-   "title_original": "이형일·신현송 첫 회동…재정·통화정책 ＇공조＇",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKLWs2WVhzRzY1bklVb2VUaWF4MXJONUdyS2hzcDhLZ1ZKMXkydmRuZTczZVkyWm9QUG00NHlpRUR5Y0xTb18yUTlweC1fS1U?oc=5",
+   "published_utc": "2026-09-28T08:30:56+00:00",
+   "title_original": "이형일·신현송 첫 회동…재정·통화정책 '공조'",
    "region": "korea",
    "topics": [
     "monetary",
@@ -10874,7 +10874,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "af8746307efad53a"
+   "id": "e0079b7b76fe235c"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51909,24 +51909,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ddfd4e7f85cc9ea6"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The yen exchange rate temporarily fell to the 155 yen level to the dollar, and there is a growing view that the Bank of Japan's interest rate hike will accelerate (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44Q1ByN0ladDF1bEVHYThsWVdnVmVjLVpkRVliSEFnQkRfenp1NzN3VnNOd3FSTmU0R1FfVHFNVHFkdGttTUF1OTl0MWp3cjZPQXJtMUFzRDRHNTRrcm55UjBhTXZ2cWRsN0g1d010VWVxaVhOSEFTOWtrYnhnYjg?oc=5",
-   "published_utc": "2026-09-03T12:09:19+00:00",
-   "title_original": "円相場 一時1ドル＝155円台に 日銀の利上げが加速するという見方広がる（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ae6d227353342069"
   },
   {
    "source_id": "manual_ia",
