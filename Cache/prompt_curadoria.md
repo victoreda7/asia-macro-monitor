@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T20:52:45.248867+00:00
-Total: 2851 manchetes
+Última coleta: 2026-10-04T21:03:23.121112+00:00
+Total: 2853 manchetes
 
-  🇯🇵 Japão          1216
+  🇯🇵 Japão          1218
   🇨🇳 China          754
   🇹🇼 Taiwan         237
   🇰🇷 Coreia do Sul  644
 
 ## O que já está no feed (não repita)
 
+  - [japan] <Special Discussion> The US could impose up to 100% tariffs on countries that support Russia...If the Democrat
+  - [japan] ``It is best for the petrochemical business to be independent,'' says Resonac CFO, who is in a hurry to focus 
   - [japan] Extraordinary Diet convenes today to debate consumption tax reduction bill, etc.
   - [japan] Japan's Rapidus to help 17 companies design chips for clients
   - [korea] Trump threatens tariffs of up to 300% as Korea faces pressure over US investment
@@ -55,8 +57,6 @@ Total: 2851 manchetes
   - [japan] Japan local governments step up Taiwan outreach for chip investment
   - [japan] Hedge Funds Are Rebuilding Short Bets Against Japan’s Yen
   - [japan] What's coming to the former Bank of Japan Kanazawa branch? The artworks on display will be... 21st century wil
-  - [taiwan] TSMC Stocks Jump 3.1% as High-NA Road Map Targets 2030
-  - [korea] ASML Stocks Surge 3.5% as Samsung Pulls High-NA Into DRAM
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2851 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T20:52:45+00:00",
+      "published_utc": "2026-10-04T21:03:23+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
