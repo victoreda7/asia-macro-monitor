@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T05:02:44.101804+00:00
-Total: 2929 manchetes
+Última coleta: 2026-10-04T05:12:43.018324+00:00
+Total: 2930 manchetes
 
   🇯🇵 Japão          1243
   🇨🇳 China          782
   🇹🇼 Taiwan         243
-  🇰🇷 Coreia do Sul  661
+  🇰🇷 Coreia do Sul  662
 
 ## O que já está no feed (não repita)
 
+  - [korea] Trump threatens tariffs of up to 300% as Korea faces pressure over US investment
   - [korea] Foreign investors sell W20.3tr in Korean stocks, led by SK hynix and Samsung Electronics
   - [japan] Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide
   - [japan] Kringle Pharma, a drug discovery venture from Osaka University and Keio University, is expected to reduce its 
@@ -56,7 +57,6 @@ Total: 2929 manchetes
   - [japan] Number of U.S. employed workers falls significantly below market expectations Expectations of Fed interest rat
   - [china] China Aoyuan Announces Disposal Of Assets By Receivers
   - [japan] Eurozone consumer prices rose 3.8% in September, the highest level in three years
-  - [japan] Former Liberal Democratic Party Chairman Miyazawa: “It is better not to reduce the consumption tax”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2929 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T05:02:44+00:00",
+      "published_utc": "2026-10-04T05:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
