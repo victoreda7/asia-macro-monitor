@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T06:22:45.465584+00:00
-Total: 2927 manchetes
+Última coleta: 2026-10-04T06:32:44.975369+00:00
+Total: 2928 manchetes
 
-  🇯🇵 Japão          1243
+  🇯🇵 Japão          1244
   🇨🇳 China          782
   🇹🇼 Taiwan         243
   🇰🇷 Coreia do Sul  659
 
 ## O que já está no feed (não repita)
 
+  - [japan] Takaichi policy speech, Malaysia budget, Pacific islands climate summit
   - [japan] Is it no longer reliable? ...The Bank of Japan will also quietly make a decision in 2026. Why Hello Work's eff
   - [korea] Trump threatens tariffs of up to 300% as Korea faces pressure over US investment
   - [korea] Foreign investors sell W20.3tr in Korean stocks, led by SK hynix and Samsung Electronics
@@ -56,7 +57,6 @@ Total: 2927 manchetes
   - [china] Man Charged by US With Illegally Shipping Nvidia Chips to China
   - [japan] Japan hits Russia 'shadow fleet' in 1st sanctions since Putin trip to disputed isle
   - [japan] Number of U.S. employed workers falls significantly below market expectations Expectations of Fed interest rat
-  - [china] China Aoyuan Announces Disposal Of Assets By Receivers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2927 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T06:22:45+00:00",
+      "published_utc": "2026-10-04T06:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
