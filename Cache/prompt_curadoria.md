@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T08:22:43.679861+00:00
-Total: 2901 manchetes
+Última coleta: 2026-10-04T08:32:43.214725+00:00
+Total: 2899 manchetes
 
   🇯🇵 Japão          1230
-  🇨🇳 China          779
-  🇹🇼 Taiwan         239
-  🇰🇷 Coreia do Sul  653
+  🇨🇳 China          777
+  🇹🇼 Taiwan         238
+  🇰🇷 Coreia do Sul  654
 
 ## O que já está no feed (não repita)
 
+  - [korea] K consumer goods stocks, which had been spotlighted as "export stocks" due to the foreign consumptio..
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi strengthens his approach to opposition par
   - [japan] Takaichi policy speech, Malaysia budget, Pacific islands climate summit
   - [japan] Is it no longer reliable? ...The Bank of Japan will also quietly make a decision in 2026. Why Hello Work's eff
@@ -56,7 +57,6 @@ Total: 2901 manchetes
   - [taiwan] Taiwan Semiconductor Stock Rises on Broadcom's $60 Billion Chip Deal
   - [china] Soybeans slump on dimming hope of Chinese tariff cuts
   - [china] Man Charged by US With Illegally Shipping Nvidia Chips to China
-  - [japan] Japan hits Russia 'shadow fleet' in 1st sanctions since Putin trip to disputed isle
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2901 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T08:22:43+00:00",
+      "published_utc": "2026-10-04T08:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
