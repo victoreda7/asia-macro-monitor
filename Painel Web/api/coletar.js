@@ -11,8 +11,8 @@ export default async function handler(req, res) {
     return res.status(401).json({ ok: false, error: "chave inválida" });
   }
   try {
-    await dispararColeta();
-    res.status(202).json({ ok: true, dispatched: true, at: new Date().toISOString() });
+    const { tentativas } = await dispararColeta();
+    res.status(202).json({ ok: true, dispatched: true, tentativas, at: new Date().toISOString() });
   } catch (e) {
     res.status(502).json({ ok: false, error: e.message });
   }
