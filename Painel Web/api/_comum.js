@@ -163,20 +163,47 @@ export async function lerArquivo(caminho) {
 
 // Pede uma coleta ao GitHub Actions. Se já houver uma rodando, a nova fica na
 // fila (o workflow tem concurrency group), então disparar a mais não faz mal.
+//
+// Cada tentativa tem prazo próprio e há até 3 tentativas. Motivo: em 03/10
+// 22:02 UTC uma chamada ao GitHub ficou pendurada sem resposta, a função
+// esperou até o fim e o cron-job.org (limite de 30 s) registrou "Timeout" —
+// a coleta daquele horário nunca foi disparada. Com prazo + nova tentativa, um
+// soluço isolado do GitHub é absorvido dentro da mesma chamada. Se uma
+// tentativa "expirada" tiver chegado ao GitHub, o pior caso é uma coleta extra
+// na fila, inofensiva.
+const PRAZO_TENTATIVA_MS = 7000;
+const TENTATIVAS = 3;
+
 export async function dispararColeta() {
   if (!TOKEN) throw new Error("GITHUB_TOKEN não configurado na Vercel");
-  const r = await fetch(
-    `https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}/dispatches`,
-    {
-      method: "POST",
-      headers: cabecalhos({ Accept: "application/vnd.github+json", "Content-Type": "application/json" }),
-      body: JSON.stringify({ ref: BRANCH }),
-    },
-  );
-  if (r.status !== 204 && r.status !== 200) {
-    const txt = (await r.text()).slice(0, 200);
-    throw new Error(`GitHub recusou o disparo (${r.status}): ${txt}`);
+  let ultimoErro;
+  let feitas = 0;
+  for (let i = 1; i <= TENTATIVAS; i++) {
+    feitas = i;
+    try {
+      const r = await fetch(
+        `https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}/dispatches`,
+        {
+          method: "POST",
+          headers: cabecalhos({ Accept: "application/vnd.github+json", "Content-Type": "application/json" }),
+          body: JSON.stringify({ ref: BRANCH }),
+          signal: AbortSignal.timeout(PRAZO_TENTATIVA_MS),
+        },
+      );
+      if (r.status === 204 || r.status === 200) return { tentativas: i };
+      const txt = (await r.text()).slice(0, 200);
+      ultimoErro = new Error(`GitHub recusou o disparo (${r.status}): ${txt}`);
+      // 4xx (token, permissão, workflow inexistente) não melhora tentando de novo.
+      if (r.status >= 400 && r.status < 500 && r.status !== 429) break;
+    } catch (e) {
+      const expirou = e?.name === "TimeoutError" || e?.name === "AbortError";
+      ultimoErro = new Error(
+        expirou ? `GitHub não respondeu em ${PRAZO_TENTATIVA_MS / 1000} s` : `falha de rede: ${e.message}`,
+      );
+    }
+    if (i < TENTATIVAS) await new Promise((ok) => setTimeout(ok, 1000 * i));
   }
+  throw new Error(`${ultimoErro.message} (após ${feitas} tentativa${feitas > 1 ? "s" : ""})`);
 }
 
 // Cria ou substitui um arquivo no repositório com um commit.
