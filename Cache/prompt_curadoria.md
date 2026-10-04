@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T13:42:45.075810+00:00
+Última coleta: 2026-10-04T13:52:45.039044+00:00
 Total: 2868 manchetes
 
   🇯🇵 Japão          1225
@@ -17,6 +17,7 @@ Total: 2868 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Trump threatens tariffs of up to 300% as Korea faces pressure over US investment
   - [korea] Foreign investors sell W20.3tr in Korean stocks, led by SK hynix and Samsung Electronics
   - [japan] Japan adds Garantex to list of Russia sanctions over Ukraine war
   - [china] Russian exporters fight to win back Chinese buyers amid fallout over fake goods
@@ -24,7 +25,6 @@ Total: 2868 manchetes
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi strengthens his approach to opposition par
   - [japan] Takaichi policy speech, Malaysia budget, Pacific islands climate summit
   - [japan] Is it no longer reliable? ...The Bank of Japan will also quietly make a decision in 2026. Why Hello Work's eff
-  - [korea] Trump threatens tariffs of up to 300% as Korea faces pressure over US investment
   - [japan] Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide
   - [japan] Kringle Pharma, a drug discovery venture from Osaka University and Keio University, is expected to reduce its 
   - [korea] On September 15, the "2026 BOK Regional Economic Symposium" was held at the Lotte City Hotel in Daej..
@@ -116,7 +116,7 @@ Total: 2868 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T13:42:45+00:00",
+      "published_utc": "2026-10-04T13:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
