@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T12:52:45.662322+00:00
+Última coleta: 2026-10-04T13:02:45.103986+00:00
 Total: 2872 manchetes
 
   🇯🇵 Japão          1226
@@ -19,6 +19,7 @@ Total: 2872 manchetes
 
   - [korea] Foreign investors sell W20.3tr in Korean stocks, led by SK hynix and Samsung Electronics
   - [japan] Japan adds Garantex to list of Russia sanctions over Ukraine war
+  - [china] Russian exporters fight to win back Chinese buyers amid fallout over fake goods
   - [korea] K consumer goods stocks, which had been spotlighted as "export stocks" due to the foreign consumptio..
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi strengthens his approach to opposition par
   - [japan] Takaichi policy speech, Malaysia budget, Pacific islands climate summit
@@ -56,7 +57,6 @@ Total: 2872 manchetes
   - [japan] Dollar set for first 3-week win streak since January, euro rebounds and yen gains
   - [japan] Behind-the-scenes circumstances behind Indonesia's resumption of imports of "Japanese used trains" What happen
   - [taiwan] Taiwan Semiconductor Stock Rises on Broadcom's $60 Billion Chip Deal
-  - [china] Soybeans slump on dimming hope of Chinese tariff cuts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2872 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T12:52:45+00:00",
+      "published_utc": "2026-10-04T13:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
