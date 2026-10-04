@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-04T03:22:45.182373+00:00",
- "collected_at_utc": "2026-10-04T03:22:45.182373+00:00",
+ "generated_at_utc": "2026-10-04T03:32:44.319838+00:00",
+ "collected_at_utc": "2026-10-04T03:32:44.319838+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
- "count": 2945,
+ "count": 2943,
  "by_region": {
-  "japan": 1252,
+  "japan": 1251,
   "china": 786,
-  "taiwan": 244,
+  "taiwan": 243,
   "korea": 663
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.5,
  "sources": [
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-04T02:41:39+00:00"
+   "newest": "2026-10-04T03:24:56+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-04T02:41:39+00:00"
+   "newest": "2026-10-04T03:24:56+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -222,14 +230,6 @@
    "newest": "2026-10-03T13:00:39+00:00"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-03T23:31:13+00:00"
-  },
-  {
    "source_id": "gn_tw_reuters",
    "name": "Reuters Taiwan",
    "ok": true,
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-03T13:00:16+00:00"
+   "newest": "2026-10-03T13:00:11+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-04T03:04:47+00:00"
+   "newest": "2026-10-04T03:22:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-04T01:14:49+00:00"
+   "newest": "2026-10-03T22:27:09+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-04T00:30:00+00:00"
+   "newest": "2026-10-04T03:23:25+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -1040,7 +1040,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "China’s C919 jet faces further delivery delays amid US export chill: analysts",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQXpDOGNUSmx0ZWlxZnN1eWZObS1kZk9NZW1ta2g0R2VwUDVvX09EVUg3WEdnaHRTSzhGZjFOTTVteFBQWGVpN3FwbUVIS2hnbzBZMXBwWFZlVmdCR19tcmN6eGdnZlgtY2dfMGhCUXlLNlNjYUg1allwejNEQ1Y5M2FEWFJhMzI1V2lpMHdoR0dkRy13Rk9Tenc5YnBMVHdzTXVmTkliOHVHbkFmX0xBSFlwVWJCcm9Cc0VWZlBObXFsaWQwT3A4YTJoSTZoVnfSAc8BQVVfeXFMUEVkRE1rWEFQeXJoa1BqSGhYcGFhNDFkb012STRraUpwZlRKUEpWb2VpSGdqTmZXT3lhMlRKSVZ2b2EzQWx5Y0k4SzhxckhnTUNVV3dVSzFQVk1rLUhyYklZa19jTjF2YmYyZHJ0ZU5LVll1aVgtNkRvY0l0N3dQNFZqU0x2djVmWkpvTENZTlFyQkxvT3l2TS03NnNpM1h6alZMeFVRNnRJMUtXUlAtU0F4c1B2dWdiN0JNMUtMbU5MVDdHS3JYMDdFWkYwVEJB?oc=5",
    "published_utc": "2026-10-02T13:00:09+00:00",
@@ -1232,7 +1232,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "China seen doing ‘just enough’ with targeted fiscal support to defend GDP growth",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbEQ3YXMzUTI3aVF1NjVSTlJrNFU2c3JfcENJUzNzM0N2WU55NnNSTndJYlNOeHQ3UEpSZ2xEamtKRkNjNXZCeFQ4b0t5NDhaay1rTTJTTTVvUXFXQUVJT1d6MG9yVVZQNkZJd3k2V0o3NjQ5U3hQUmV4NnFmQWZpM05HcThNT21aT0t3LVN4QlZRXzdSZW9QeklwSVJFb3ZPNWtVZ3BBZ01lOHBrQlRBVzBZWlY2TVZ0U21mWU5XOE03V084OU9JNdIByAFBVV95cUxPM1JsT3pmOFpSSE4tVi1SYkNhWGdMcktjYXBuOXc4dTd3cTZIZkUtMXByY3JhdkIxeFh5Tmtrd2lOVll0U1NiWE5yWF9qZkJUc2NRekdObVE5dHZPeXEtNUtseW0tTnk2c05QcDRPR2xhLXowdHVLVzdja1g4S2hkY0hRN3JtVlpEV2hXb1J3V3ZOMUxBVmV5VGYxY2ZNS2xLYXo3M1BoZjZ4clpRRUJiYzhOVmhnNmFUSHBWd19RaFVfc0ZQSFNabw?oc=5",
    "published_utc": "2026-10-02T09:00:06+00:00",
@@ -3471,7 +3471,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "EU retools Trump trade war tripwire into China shipments surge alarm",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUtGWWcxdDllX3lkaVI4SjV5Qk1DS0F3QzFOZHpReEdtNEhvUjZlU3hQNkZIQXFHSUZwVldIamlJVjE2emdFcHl0SXd4ZUdPcThXWU9YZV96LUtpQWdYNFRiVmZDbGhSbFAyLXZFMVkycVNncl9sY3ZmWjRDamlHODR1N1VuZFBId2ItWEJ1YTlLdkwzVXBadG4xM2RhS3k4UnJqRi1KUzJ3ZHZyRGpUNnV0akFaZVRNOHUwWEZB0gG-AUFVX3lxTE5FelJ1UEtneFlrd2xSbHdPVzg0emF0bUlTZHJhdzJtdWZBdkw0cy1yd3pNNlVDdEpEMDhzWWVoaWpRUEQzMl9CaWRBSk5hOFZhQzlrWmRYbGFLd3luYUtSeEtVWGdFSUNSZ2s2U3ROTHN4YmJkckhxdFBDUERHNG40YlZEQTlQaG5ET1ljNDFLTFJVT2l0ZXF1TFprM05paDdkLUxlQW1JU1dxdGxyVnBqOVFMVzktRWlHVUxKd0E?oc=5",
    "published_utc": "2026-10-01T13:20:16+00:00",
@@ -5686,7 +5686,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "华龙网",
+   "source_name": "cqnews.net",
    "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByYTRmczlSYUFmcGt3ZzRoelBXVDBiYUluOUJKd0lVWGxMOFYzUWcwUmMyOXhZbW1DTjFyUFRqVVlKeS0wdk9JVWhzQlBSMENraEx0bkNUWGp3cEtMeGRiaENwbzB1aHUwOUNB?oc=5",
    "published_utc": "2026-09-30T23:00:08+00:00",
@@ -5739,7 +5739,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "How US sanctions forced Xinjiang’s cotton industry to build a survival model",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWhNS2JiNlFPVnpqQmZPY1hDM3c3V0NQX0tjMGg3LTRhbXRvSzFDMnJZQWdQLVVZU2VsMG1JcGxWS2FlaDFUdnRpM1JCTU11aVVFUXVrODBISFFlYmVZNXlZbGVpem02YmJrWUhXY3hValg4YkFGM19hMnY2MXB0UUVZUHljVVUzOUtsMlhPczhxcE5nZTJiUG8wNWVEQldaNXkwT3htamJydDZIM1pPRHhQeEVfVGZuNEFDadIBvAFBVV95cUxPUkJaS1RwOWt2eW1kYXJsTFFVN2ptUG5fLXpnbHRhTFBJR2daZnktVjNwR2JsVTVhU2VoYUl3cVRvTzdPUERLZ0FiX1NRRktLR0wxOGQ4NlFkNkgwZy1Ed2hsNjN2cjhLY01fbUxSRUFfYVE3RUhBN3NoRmdTalRTWUhrcGZrdnlQSk13dkhBejZsTFA2bmhjU3ZRSGNGZklabmFzT3ExX0U5cVZyVmRXcnlhY0M4dmFxVk9Rcw?oc=5",
    "published_utc": "2026-09-30T22:00:13+00:00",
@@ -5912,7 +5912,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "Brazil’s beef exporters hit a wall in China as 55% tariff kicks in",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUJNcWdqaS1sTUh2Y0g3WHdxYnV1WXdBcVVqd1NfRkdNTmdKaE5yNmw0MkdCSFNXRHZaU2dUVGtsRXJ6M2kwVlNWS0t2WlVnSGdzMDhxNnVyRkRwVjhXOV9ETkl4WlJnSEtkR3ZiLUdmNXBhckpTaTdzRW1JeWUwVzFhanhrNjhVNDJPbU5tekFjdnhKRGVYcDNrcnNjNnNuWHphTVkxMDRIOUNaZi1kRDJ2TzhQaU5kakRNaWpmOHcxYzROcjBoZlo5LVp5Z9IBzgFBVV95cUxNTGpIYUo0WEZOR1dxLURNaTJLSE1CcG8yMkNLQW9lTFhvXzlyWF93N0I3TkxIaGN6ZmZ3cERUaHBqQmMwSTRYWHZaTHhMYV94ZS1YTG9YVGx0VDVlVV9ZMHhGWG1VWmd2bTlUQzU1VEhldS14blNqYWVEaHJXVHhmUEllaGNBaERDSy1sTzJEWFRTVzhaWjJlZmpJTTVMMVlmQWg3d1JPdFBUZEVMX0hCU2xrd005cGhjWmRMMnFJeWlOaTBsaG0xYlNmUFZBZw?oc=5",
    "published_utc": "2026-09-30T18:07:56+00:00",
@@ -6119,7 +6119,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "Has the US-China tariff deal eroded Southeast Asia’s edge as a factory hub?",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGpUcUd1VlJrZkRrQmh4ZmtrWDZEblRtSi1zS2NKRjE3c0RRZVVzRzJlM1F2ZDdpUEhoNkJQU2FhdUVYUlVGakQ3VGhFdHV5Z2piWU1OdFlYMnpFX0ZydFV6RzBqTkJWUldTUF8zSEdiNjNWOVRPNzIzYWpaeUx1NHZuQ2dHZl9EV0RmYXRfZ25PZVdXVkdzeEpHQ0F6cFBQcUN0ZUxUNHNXZnpSc3RiRDBtaEMtdFo0TjRV0gG7AUFVX3lxTE56c0lMSkhSWFNyeVpfLXJDU2ZPbjNwaDk5VDJ5eVQtaEJEN0pWS2RERzRsVS1jMHREOGVSV3JUTVhxRmQ5XzdlcGkxWUpCTmtnR1drY1NNTkNRbHlRbjFPcHlNQ1BKZ3FpN1dQSmN3UXJOcDBnUmFFclNuQ1BUVzkxQkh4MDZDc3l4ekRXYUE1MGxBa19GSjN1a3Zvbk1KRC03U00tZzVYUWxacXZUd010V0p2X3hTa28wN1U?oc=5",
    "published_utc": "2026-09-30T14:11:54+00:00",
@@ -6412,7 +6412,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "China to further boost domestic grain supply as US soybeans excluded from tariff cuts",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZzJOTXB4dlRJMVJPdTlRTUJ6ZkdiZVRXS2c2NHQ5SEljQzNXZTYwOEl5RS1JeGdPem9vazlBbkt6X25zZHVYbEVKTnhjZEZqcW9NMjRFRXZhSVhwemhMM3R0U284aF9OV2lzUnUxdkVjeTF2R0tRTkFmclBBQlFjMWFJRUhDVjhqYnI2bWptYVo5VGZqZEdqbDJud3A2YzRYUC1QRUVEd01WNXZScHRIR0NELVNKUWJwVlFYTWctdFlMcHFjUTdRcWJ3SjhCbHctMW5vci1B0gHWAUFVX3lxTFBqbmpZeFE5VEFfQXpuMUd0VUw1cm1hMmlLNXRnamtBNFlrQXdyem8tTE03Ym5OR3VxVGRTdVBBa3p5UE1xaEZDODhVU2xEekpreTZsS2d1YjRRTVl0aDJmbzNVYzFXakZobGhLQnBJTFFWVHd4THd2MDNYX1hsWjFnMTZOV2VXUVpFeE9kZVZsZWpGclhMamtyNUlzX1hLT1NzaDB2LUMzYThMSkgtQVV4Vk4wanpTMHZveW1iSzdmWVRhbkhyOXZ1S0RWZDBGeHJFbEI4UVE?oc=5",
    "published_utc": "2026-09-30T11:00:06+00:00",
@@ -7743,7 +7743,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺财经",
+   "source_name": "10jqka.com.cn",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out 833.5 billion yuan of overnight reverse repurchase operations.",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdy1vXzlVSWJ5MHBBX1Y3emNjeS1wNDRDZjFocHNCTXZ1ekZyRGhTVW1nOEFVeUZ2eEdOY3Q0VUVfQnlXXzdPQ09DVm9iV2FqSkpCZ0w4UHJ5RWtGX1E?oc=5",
    "published_utc": "2026-09-30T01:23:15+00:00",
@@ -8274,7 +8274,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
+   "source_name": "jiemian.com",
    "title_en": "The central bank takes action! 1.2 trillion buyout reverse repurchase is coming",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nNHhLdEFRRHdfdWRiWGxBZHR3WFhhZmxqaVl2NkM3TFFHT2F4WkVuRnJtcEIyeVA2OTBTUEN6NER5WkN0RFNXc1FsSy1xY05YZ3FoTzlVcjQ?oc=5",
    "published_utc": "2026-09-29T20:10:00+00:00",
@@ -9735,7 +9735,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "businesspost.co.kr",
+   "source_name": "비즈니스포스트",
    "title_en": "Foreign media reviews are positive on the pace of interest rate hikes by the Bank of Korea, “leading to a natural soft landing”",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96ZFluMDViLWNvcUQ1T2hDcWI0SjZLNjFGOEh0TlRsZE5WQ0JEanJ4dDRtUWd6Mm9VZjlIdTBRX2hIUkZLM0hiY1doMnZhNEVDZ2V0bFQ5QUI2NUcwWkYxTTU1QldqcUtNemtZaVFhZzZUd3M?oc=5",
    "published_utc": "2026-09-29T02:15:19+00:00",
@@ -11923,7 +11923,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "v.daum.net",
    "title_en": "“Austerity will continue until the first half of next year… Base interest rate expected to be final 3.5%” [Herald Money Festa 2026]",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FTW9nZUJjT0F2ek5RekJCSVpObEJ3TW44RW9YSkRQM1lFZjMteWhyTVQxMW1TSW55emRZY0V6Smg0LU9PRzdUX0tCMGFBS1U?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kUTd2VkRmTS14NXY4SzB5Mkg0Z0RPMXVQb2lYYmJrWHQtQ1FwMTlqOWNKN011R0NsaF9wWkxYU2stclQzN1M3NUlia3VlWENPT3c2Qg?oc=5",
    "published_utc": "2026-09-28T02:42:44+00:00",
    "title_original": "“내년 상반기까지 긴축 지속…기준금리 최종 3.5% 전망” [헤럴드머니페스타 2026]",
    "region": "korea",
@@ -11934,11 +11934,11 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4bbc2883ac5a8a10"
+   "id": "6d7de42fade8609d"
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "biz.heraldcorp.com",
+   "source_name": "헤럴드경제",
    "title_en": "Hyung-il Lee “Seeking harmony between economic and monetary policies”… Shin Hyun-song “Prices and financial stability are the premise”",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENHAxbk5NZXVhSFNpZWZSOXlURW4xdWVWR2hoYmdYRGtPdGVXa0p3c002ZnNDVkxXSHdJcEUyMTcxWkpYSGlNQlVKeU53c2pfU3p6cmpB?oc=5",
    "published_utc": "2026-09-28T02:39:21+00:00",
@@ -17834,23 +17834,6 @@
    "id": "14641d76cbf34dc2"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan retailer Aeon launches 1,000 yen jeans amid consumer crunch",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJUjlscWxBbkl5eFBwMEdzNElyaHRoc05aUy1adFA2dGg3M2NOVjRYYlQteFkwUTFSYTE5dU1OYzV4bFJ1OTNBaHUwSXU5WFdGNm55V0xxN0Ztdw?oc=5",
-   "published_utc": "2026-09-23T07:00:00+00:00",
-   "title_original": "Japan retailer Aeon launches 1,000 yen jeans amid consumer crunch",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "553b38cf4bb6ee71"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan courts Indian IIT chief in bid to boost chip talent ties",
@@ -18279,6 +18262,23 @@
    "live_wire": false,
    "manual": false,
    "id": "4d46fc919047c5f0"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan retailer Aeon launches 1,000 yen jeans amid consumer crunch",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJUjlscWxBbkl5eFBwMEdzNElyaHRoc05aUy1adFA2dGg3M2NOVjRYYlQteFkwUTFSYTE5dU1OYzV4bFJ1OTNBaHUwSXU5WFdGNm55V0xxN0Ztdw?oc=5",
+   "published_utc": "2026-09-23T01:20:00+00:00",
+   "title_original": "Japan retailer Aeon launches 1,000 yen jeans amid consumer crunch",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "553b38cf4bb6ee71"
   },
   {
    "source_id": "gn_kr_mk",
@@ -24332,7 +24332,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "focustaiwan.tw",
+   "source_name": "Focus Taiwan - CNA English News",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T11:36:00+00:00",
@@ -44354,7 +44354,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "english.kyodonews.net",
+   "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ to raise key interest rate by 0.25 percentage point in Sept. meeting",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hZXVLM3J4dE5zeC0tZW5mVVdTMFVCcU9Ha09uZTM0VnI1dFFyTC15OGpkUzlyZzVBWEVDVm1WZm0tZnlqODc5Ynk3QmJ3dURibUVJMTNDSUg5dw?oc=5",
    "published_utc": "2026-09-08T07:00:00+00:00",
@@ -50963,41 +50963,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c55ed20ad470cb32"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Tokyo Foreign Exchange] Dollar, near 156 yen = lows as Bank of Japan rate hike expected to accelerate (noon on the 4th) (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCN00yM0pmVEduN3dLejc2cVBtdGJKX3ZRMkZ1NEZTSURrUy1fU3N0cTJUdUVVTEt2NmpUMkVaY05yM2M5VHZuWklQQVNnTW8zbGRoWTVNQ2FtNDZSNmFMUjlzWU9NdHgxd0Z0cF9CUTNnaWM3SHZMUDVqN1NMS2s?oc=5",
-   "published_utc": "2026-09-04T03:30:25+00:00",
-   "title_original": "〔東京外為〕ドル、156円近辺＝日銀利上げ加速観測で安値もみ合い（4日正午）（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b855a0b7cb200286"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan automation specialist Kenmec targets semiconductor packaging plants with low-clearance OHT, AI digital twins",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXJmdG8yZ252S3pxcHFyWTVJQjhhbU9PSUZ6YS05Xy11NllpS2NtLVRyWE0taWFhSkRjM2RTbURxYmhFN1YtVi1kZ202OU5fRGx6RFBIUndWNVRCRlhaMUpKSlpINFVqUVZSTlUtNlFBanJtamxVVFJDMkZwUmtNdElqcnUtSDBGckpSRHRPOXV4NWRC?oc=5",
-   "published_utc": "2026-09-04T03:30:00+00:00",
-   "title_original": "Taiwan automation specialist Kenmec targets semiconductor packaging plants with low-clearance OHT, AI digital twins",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "69e3908d86a3edb3"
   },
   {
    "source_id": "manual_ia",
