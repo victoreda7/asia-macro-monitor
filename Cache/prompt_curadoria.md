@@ -7,22 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T12:47:08.455219+00:00
-Total: 2869 manchetes
+Última coleta: 2026-10-04T12:52:45.662322+00:00
+Total: 2872 manchetes
 
-  🇯🇵 Japão          1225
+  🇯🇵 Japão          1226
   🇨🇳 China          761
   🇹🇼 Taiwan         237
-  🇰🇷 Coreia do Sul  646
+  🇰🇷 Coreia do Sul  648
 
 ## O que já está no feed (não repita)
 
+  - [korea] Foreign investors sell W20.3tr in Korean stocks, led by SK hynix and Samsung Electronics
+  - [japan] Japan adds Garantex to list of Russia sanctions over Ukraine war
   - [korea] K consumer goods stocks, which had been spotlighted as "export stocks" due to the foreign consumptio..
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi strengthens his approach to opposition par
   - [japan] Takaichi policy speech, Malaysia budget, Pacific islands climate summit
   - [japan] Is it no longer reliable? ...The Bank of Japan will also quietly make a decision in 2026. Why Hello Work's eff
   - [korea] Trump threatens tariffs of up to 300% as Korea faces pressure over US investment
-  - [korea] Foreign investors sell W20.3tr in Korean stocks, led by SK hynix and Samsung Electronics
   - [japan] Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide
   - [japan] Kringle Pharma, a drug discovery venture from Osaka University and Keio University, is expected to reduce its 
   - [korea] On September 15, the "2026 BOK Regional Economic Symposium" was held at the Lotte City Hotel in Daej..
@@ -56,7 +57,6 @@ Total: 2869 manchetes
   - [japan] Behind-the-scenes circumstances behind Indonesia's resumption of imports of "Japanese used trains" What happen
   - [taiwan] Taiwan Semiconductor Stock Rises on Broadcom's $60 Billion Chip Deal
   - [china] Soybeans slump on dimming hope of Chinese tariff cuts
-  - [china] Man Charged by US With Illegally Shipping Nvidia Chips to China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2869 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T12:47:08+00:00",
+      "published_utc": "2026-10-04T12:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
