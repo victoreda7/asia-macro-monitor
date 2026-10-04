@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T01:02:42.891962+00:00
+Última coleta: 2026-10-04T01:12:43.331007+00:00
 Total: 2961 manchetes
 
-  🇯🇵 Japão          1264
+  🇯🇵 Japão          1263
   🇨🇳 China          788
   🇹🇼 Taiwan         245
-  🇰🇷 Coreia do Sul  664
+  🇰🇷 Coreia do Sul  665
 
 ## O que já está no feed (não repita)
 
+  - [korea] On September 15, the "2026 BOK Regional Economic Symposium" was held at the Lotte City Hotel in Daej..
   - [japan] This is the complete picture of Obata's theoretical system (21st century economic theory)...Entertainment, ecs
   - [japan] Trump warmly welcomes Xi Jinping at the U.S.-China summit meeting...Why Americans' "feelings toward China have
   - [japan] Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide
@@ -56,7 +57,6 @@ Total: 2961 manchetes
   - [japan] Former Liberal Democratic Party Chairman Miyazawa: “It is better not to reduce the consumption tax”
   - [korea] Trump says South Korea trade deal adds $8.4B oil project
   - [china] China’s C919 jet faces further delivery delays amid US export chill: analysts
-  - [japan] Yen market price rises, dollar sold due to fall in crude oil futures prices
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2961 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T01:02:43+00:00",
+      "published_utc": "2026-10-04T01:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
