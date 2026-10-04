@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T02:12:44.442339+00:00
+Última coleta: 2026-10-04T02:22:43.541665+00:00
 Total: 2951 manchetes
 
   🇯🇵 Japão          1256
@@ -17,10 +17,10 @@ Total: 2951 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide
   - [korea] On September 15, the "2026 BOK Regional Economic Symposium" was held at the Lotte City Hotel in Daej..
   - [japan] This is the complete picture of Obata's theoretical system (21st century economic theory)...Entertainment, ecs
   - [japan] Trump warmly welcomes Xi Jinping at the U.S.-China summit meeting...Why Americans' "feelings toward China have
-  - [japan] Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide
   - [taiwan] Musk confirms talks with TSMC over his Texas chip factory project
   - [china] How US-China tech ties are deepening as RISC-V chips go mainstream
   - [china] Why India’s Manufacturing Future Isn’t the China Model
@@ -116,7 +116,7 @@ Total: 2951 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T02:12:44+00:00",
+      "published_utc": "2026-10-04T02:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
