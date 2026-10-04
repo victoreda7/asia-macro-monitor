@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T21:42:44.271473+00:00
-Total: 2853 manchetes
+Última coleta: 2026-10-04T21:52:45.692896+00:00
+Total: 2854 manchetes
 
   🇯🇵 Japão          1218
-  🇨🇳 China          754
+  🇨🇳 China          755
   🇹🇼 Taiwan         237
   🇰🇷 Coreia do Sul  644
 
 ## O que já está no feed (não repita)
 
+  - [japan] The “biggest problem” of the Japanese economy is not “fiscal deficit” but “corporate surplus” (Diamond Online)
+  - [china] Britain expected to impose tariffs on Chinese electric cars, The Times reports
   - [japan] <Special Discussion> The US could impose up to 100% tariffs on countries that support Russia...If the Democrat
   - [japan] ``It is best for the petrochemical business to be independent,'' says Resonac CFO, who is in a hurry to focus 
   - [japan] Extraordinary Diet convenes today to debate consumption tax reduction bill, etc.
@@ -55,8 +57,6 @@ Total: 2853 manchetes
   - [korea] Trump pushes South Korea on $54B Alaska LNG venture, warns of tariff hikes
   - [japan] IBM/GE → Unemployment, Entrepreneurship, Publishing, National University Professor's ``University Professor fr
   - [japan] Japan local governments step up Taiwan outreach for chip investment
-  - [japan] Hedge Funds Are Rebuilding Short Bets Against Japan’s Yen
-  - [japan] What's coming to the former Bank of Japan Kanazawa branch? The artworks on display will be... 21st century wil
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2853 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T21:42:44+00:00",
+      "published_utc": "2026-10-04T21:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
