@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T22:52:47.045664+00:00
-Total: 2858 manchetes
+Última coleta: 2026-10-04T23:02:44.052376+00:00
+Total: 2859 manchetes
 
   🇯🇵 Japão          1220
-  🇨🇳 China          757
+  🇨🇳 China          758
   🇹🇼 Taiwan         237
   🇰🇷 Coreia do Sul  644
 
 ## O que já está no feed (não repita)
 
+  - [china] U.K. is said to plan tariffs on Chinese EVs under pressure from EU
   - [china] Britain set to levy tariffs on Chinese electric cars, The Times reports
   - [japan] Is a variable type home loan still more advantageous? Should I switch to a fixed rate due to concerns that wil
   - [japan] Although he was almost seriously injured due to tiles falling off the exterior wall...the condominium manageme
@@ -55,7 +56,6 @@ Total: 2858 manchetes
   - [korea] US firms add just 29,000 Jobs, unemployment rate ticks up
   - [korea] The Bank of Korea said, “Raising interest rates will help stabilize inflation and housing prices.”
   - [japan] What will happen to the relationship between Prime Minister Takaichi, who was supposed to be a ``reflationist,
-  - [japan] One of the reasons why the yen continues to depreciate is the Bank of Japan's "fiscal subordination" issue, an
   - [japan] One of the reasons why the yen continues to depreciate is the Bank of Japan's "fiscal subordination" issue, an
 
 ## O que fazer
@@ -116,7 +116,7 @@ Total: 2858 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T22:52:47+00:00",
+      "published_utc": "2026-10-04T23:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
