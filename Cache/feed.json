@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-04T03:32:44.319838+00:00",
- "collected_at_utc": "2026-10-04T03:32:44.319838+00:00",
+ "generated_at_utc": "2026-10-04T03:42:42.256806+00:00",
+ "collected_at_utc": "2026-10-04T03:42:42.256806+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
- "count": 2943,
+ "count": 2942,
  "by_region": {
   "japan": 1251,
   "china": 786,
   "taiwan": 243,
-  "korea": 663
+  "korea": 662
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
-  {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -230,6 +222,14 @@
    "newest": "2026-10-03T13:00:39+00:00"
   },
   {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-03T23:31:13+00:00"
+  },
+  {
    "source_id": "gn_tw_reuters",
    "name": "Reuters Taiwan",
    "ok": true,
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-03T13:00:11+00:00"
+   "newest": "2026-10-03T13:00:16+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-03T22:27:09+00:00"
+   "newest": "2026-10-04T01:14:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -448,7 +448,7 @@
   },
   {
    "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
+   "source_name": "South China Morning Post",
    "title_en": "How US-China tech ties are deepening as RISC-V chips go mainstream",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWjNPY1kxV1N4OHJhNGtxQ1Z0eWdrY0U2T1ZIZHhvTUhFcndzcjRUcVJVNDVuMEFyRlgzMHdDSVF6c1JSb1VScEpEcENRWVJPYy1LcFBfNlVFNFl3VHVyLWZKQTc1TnlpU3VwWURfUTdUUHF6RGdlQVdGWFBrZ1gtUEUtQmtwWGFWakViSVVndGRyWHdUSThWOGhXWnpGeTA1cnFCM2tYRUdvTjJscExzalZTVjE4bFBuNnfSAboBQVVfeXFMT3NaS0JTUl8ySnE4a2F2Vzgxb0RPdFBsbTJ2ZjU3cEJibEszVXZHUEozWnBETS1qSFZ5TEV6ckdUaGN4N0plWU1xODF5V25aREliR1J2Y18zTHBJWjBCQnBSMXB4Rkx4bHJsSDE4WUhmM3RDZnZDTjBTUlE2dTF3Z3N3UmFqcnYwUVNSYmRWS1Nnc29rcVBXMURIc0RyZkdNM1VzWTNTam5iVl9ZaTgtLWZ0bGdRZ0R0UEZn?oc=5",
    "published_utc": "2026-10-03T13:00:16+00:00",
@@ -4512,7 +4512,7 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
+   "source_name": "ft.com",
    "title_en": "EU steel exports hit by high energy costs, tariffs and China oversupply",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWxvZElxNVZsVHBRUXByUVJ5aTF3bE5TTjluQTBJUlp5VUVlM3plcDBzLVpmODltSUFnbUdlN09JSWwtdkFwSS1lSmZOTlFnSnFxbWlNd2RDWVFxWVdLSEQyREgtQl9UREZEZ1R2MmJIVlVsNmw3UnphZ3k0RHRFbHVQVEg?oc=5",
    "published_utc": "2026-10-01T04:00:49+00:00",
@@ -5686,7 +5686,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "cqnews.net",
+   "source_name": "华龙网",
    "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByYTRmczlSYUFmcGt3ZzRoelBXVDBiYUluOUJKd0lVWGxMOFYzUWcwUmMyOXhZbW1DTjFyUFRqVVlKeS0wdk9JVWhzQlBSMENraEx0bkNUWGp3cEtMeGRiaENwbzB1aHUwOUNB?oc=5",
    "published_utc": "2026-09-30T23:00:08+00:00",
@@ -6899,7 +6899,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "eastmoney.com",
    "title_en": "Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a period of 3 months.",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zekpNSk9PckNQbnpCaGM0RU02aEFmM25NNHl5M2t2bzJRdzBZZW5ybXczbGpDSXhvWElVYnJyVkJISnhtcXJKRkVCTHlENWpUcGFlSGxJTDBtQUxjYTRLTw?oc=5",
    "published_utc": "2026-09-30T09:07:53+00:00",
@@ -8274,7 +8274,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "jiemian.com",
+   "source_name": "Jiemian.com",
    "title_en": "The central bank takes action! 1.2 trillion buyout reverse repurchase is coming",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nNHhLdEFRRHdfdWRiWGxBZHR3WFhhZmxqaVl2NkM3TFFHT2F4WkVuRnJtcEIyeVA2OTBTUEN6NER5WkN0RFNXc1FsSy1xY05YZ3FoTzlVcjQ?oc=5",
    "published_utc": "2026-09-29T20:10:00+00:00",
@@ -9769,7 +9769,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "eastmoney.com",
    "title_en": "The central bank launched a 90.5 billion yuan 7-day reverse repurchase operation in the open market",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSYTNkS1ZwV2p5UC1ycEtGMzlhcW45blZ3aV9mcE5KZW9rZDU5ODR1djFDYmR2WVV6c0R1aHJsOTFoNHZLNy1mMWhndkxHM0lqTlR4VTRsTTJvbEhTajlNWQ?oc=5",
    "published_utc": "2026-09-29T02:07:17+00:00",
@@ -11676,7 +11676,7 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
+   "source_name": "ft.com",
    "title_en": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFBnYU9HTGlGbC1FM3JwQmxHMmpuUWk4NVpFbFFFbnAzN0l5WG02ZE1qOWxIREtuaHlqN2wwRlduZDd3T292QTYwSTVVaG82bWxnR3FlWGotN2xIakpDRW5uSGpRYjNFX3c5SXNTTU51OGNmN1ViTU1ZYS14N3dKWFFTUXA?oc=5",
    "published_utc": "2026-09-28T04:05:16+00:00",
@@ -12173,7 +12173,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "eastmoney.com",
    "title_en": "The central bank launched a 139 billion yuan 7-day reverse repurchase operation today, with an operating interest rate of 1.40%",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9idnNIS0o1MWFPY2ZpUk5xcHJtUUVnbC1EbTlZRTlVMmptZmlyOFFVSzVMTmluQ3BZbVZ1MTRLS29IYXJQVURod0RtNkVlY3RkRmJRWUJjTFhmSjcydG5wVw?oc=5",
    "published_utc": "2026-09-28T01:34:24+00:00",
@@ -17834,6 +17834,23 @@
    "id": "14641d76cbf34dc2"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan retailer Aeon launches 1,000 yen jeans amid consumer crunch",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJUjlscWxBbkl5eFBwMEdzNElyaHRoc05aUy1adFA2dGg3M2NOVjRYYlQteFkwUTFSYTE5dU1OYzV4bFJ1OTNBaHUwSXU5WFdGNm55V0xxN0Ztdw?oc=5",
+   "published_utc": "2026-09-23T07:00:00+00:00",
+   "title_original": "Japan retailer Aeon launches 1,000 yen jeans amid consumer crunch",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "553b38cf4bb6ee71"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan courts Indian IIT chief in bid to boost chip talent ties",
@@ -18262,23 +18279,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4d46fc919047c5f0"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan retailer Aeon launches 1,000 yen jeans amid consumer crunch",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJUjlscWxBbkl5eFBwMEdzNElyaHRoc05aUy1adFA2dGg3M2NOVjRYYlQteFkwUTFSYTE5dU1OYzV4bFJ1OTNBaHUwSXU5WFdGNm55V0xxN0Ztdw?oc=5",
-   "published_utc": "2026-09-23T01:20:00+00:00",
-   "title_original": "Japan retailer Aeon launches 1,000 yen jeans amid consumer crunch",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "553b38cf4bb6ee71"
   },
   {
    "source_id": "gn_kr_mk",
@@ -24332,7 +24332,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan - CNA English News",
+   "source_name": "focustaiwan.tw",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T11:36:00+00:00",
@@ -50946,23 +50946,6 @@
    "live_wire": true,
    "manual": false,
    "id": "952d623ecaff35ad"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korean Chip Makers 3Q Profit Likely Softer on Won Strength — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260903010699:0/",
-   "published_utc": "2026-09-04T03:38:00+00:00",
-   "title_original": "South Korean Chip Makers 3Q Profit Likely Softer on Won Strength — Market Talk",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c55ed20ad470cb32"
   },
   {
    "source_id": "manual_ia",
