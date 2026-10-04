@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T23:22:44.581797+00:00
+Última coleta: 2026-10-04T23:31:07.344915+00:00
 Total: 2857 manchetes
 
   🇯🇵 Japão          1218
@@ -17,6 +17,7 @@ Total: 2857 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Extraordinary Diet convenes today to debate consumption tax reduction bill, etc.
   - [china] U.K. is said to plan tariffs on Chinese EVs under pressure from EU
   - [china] Britain set to levy tariffs on Chinese electric cars, The Times reports
   - [japan] Is a variable type home loan still more advantageous? Should I switch to a fixed rate due to concerns that wil
@@ -25,7 +26,6 @@ Total: 2857 manchetes
   - [china] Britain expected to impose tariffs on Chinese electric cars, The Times reports
   - [japan] <Special Discussion> The US could impose up to 100% tariffs on countries that support Russia...If the Democrat
   - [japan] ``It is best for the petrochemical business to be independent,'' says Resonac CFO, who is in a hurry to focus 
-  - [japan] Extraordinary Diet convenes today to debate consumption tax reduction bill, etc.
   - [japan] Japan's Rapidus to help 17 companies design chips for clients
   - [korea] Trump threatens tariffs of up to 300% as Korea faces pressure over US investment
   - [korea] Foreign investors sell W20.3tr in Korean stocks, led by SK hynix and Samsung Electronics
@@ -116,7 +116,7 @@ Total: 2857 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T23:22:44+00:00",
+      "published_utc": "2026-10-04T23:31:07+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
