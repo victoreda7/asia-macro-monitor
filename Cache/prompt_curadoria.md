@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T19:42:44.615563+00:00
+Última coleta: 2026-10-04T19:52:47.166741+00:00
 Total: 2850 manchetes
 
   🇯🇵 Japão          1216
@@ -17,6 +17,7 @@ Total: 2850 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Rapidus to help 17 companies design chips for clients
   - [korea] Trump threatens tariffs of up to 300% as Korea faces pressure over US investment
   - [korea] Foreign investors sell W20.3tr in Korean stocks, led by SK hynix and Samsung Electronics
   - [japan] Japan adds Garantex to list of Russia sanctions over Ukraine war
@@ -56,7 +57,6 @@ Total: 2850 manchetes
   - [korea] ASML Stocks Surge 3.5% as Samsung Pulls High-NA Into DRAM
   - [japan] Dollar set for first 3-week win streak since January, euro rebounds and yen gains
   - [japan] Behind-the-scenes circumstances behind Indonesia's resumption of imports of "Japanese used trains" What happen
-  - [taiwan] Taiwan Semiconductor Stock Rises on Broadcom's $60 Billion Chip Deal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2850 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T19:42:44+00:00",
+      "published_utc": "2026-10-04T19:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
