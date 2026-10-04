@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T22:42:44.830314+00:00
-Total: 2856 manchetes
+Última coleta: 2026-10-04T22:52:47.045664+00:00
+Total: 2858 manchetes
 
-  🇯🇵 Japão          1219
-  🇨🇳 China          756
+  🇯🇵 Japão          1220
+  🇨🇳 China          757
   🇹🇼 Taiwan         237
   🇰🇷 Coreia do Sul  644
 
 ## O que já está no feed (não repita)
 
+  - [china] Britain set to levy tariffs on Chinese electric cars, The Times reports
+  - [japan] Is a variable type home loan still more advantageous? Should I switch to a fixed rate due to concerns that wil
   - [japan] Although he was almost seriously injured due to tiles falling off the exterior wall...the condominium manageme
   - [japan] The “biggest problem” of the Japanese economy is not “fiscal deficit” but “corporate surplus” (Diamond Online)
   - [china] Britain expected to impose tariffs on Chinese electric cars, The Times reports
@@ -55,8 +57,6 @@ Total: 2856 manchetes
   - [japan] What will happen to the relationship between Prime Minister Takaichi, who was supposed to be a ``reflationist,
   - [japan] One of the reasons why the yen continues to depreciate is the Bank of Japan's "fiscal subordination" issue, an
   - [japan] One of the reasons why the yen continues to depreciate is the Bank of Japan's "fiscal subordination" issue, an
-  - [korea] Trump pushes South Korea on $54B Alaska LNG venture, warns of tariff hikes
-  - [japan] IBM/GE → Unemployment, Entrepreneurship, Publishing, National University Professor's ``University Professor fr
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2856 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T22:42:45+00:00",
+      "published_utc": "2026-10-04T22:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

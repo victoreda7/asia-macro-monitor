@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-04T22:42:44.830314+00:00",
- "collected_at_utc": "2026-10-04T22:42:44.830314+00:00",
+ "generated_at_utc": "2026-10-04T22:52:47.045664+00:00",
+ "collected_at_utc": "2026-10-04T22:52:47.045664+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2856,
+ "count": 2858,
  "by_region": {
-  "japan": 1219,
-  "china": 756,
+  "japan": 1220,
+  "china": 757,
   "taiwan": 237,
   "korea": 644
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-04T22:42:16+00:00"
+   "newest": "2026-10-04T22:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-04T22:25:08+00:00"
+   "newest": "2026-10-04T22:32:13+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Britain set to levy tariffs on Chinese electric cars, The Times reports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45Q08Q:0-britain-set-to-levy-tariffs-on-chinese-electric-cars-the-times-reports/",
+   "published_utc": "2026-10-04T22:46:42+00:00",
+   "title_original": "Britain set to levy tariffs on Chinese electric cars, The Times reports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c4d8b6a7292b4164"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Is a variable type home loan still more advantageous? Should I switch to a fixed rate due to concerns that will increase due to the Bank of Japan's interest rate hike? \"We need 8 rate hikes to catch up\"",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zWkQzNE5HUUIzY3dFMU4wTzZycDZ0a2UwT0lmUkVFNThtTjlxWjhBaFd4MkRIUTdhSUQ5c19PQWF4NDZrQktKUnFFTFVhbW1qTm1OZy13MUdiQ19Md2ROZkF6b1J1OEoyaXBXZ3VpdnlQUF8tNVlzbGZnOTkwc0E?oc=5",
+   "published_utc": "2026-10-04T22:31:43+00:00",
+   "title_original": "住宅ローンは変動型がなお有利？ 日銀利上げで増える不安で固定に乗り換えるべきか…「追いつくには利上げ8回必要」",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "abaf122f44791d34"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -2183,7 +2218,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnVzZxQmhlcTJFZHA2alpHTXNlSUliN3ZNTG9pMTdub0xqay0xRlNRV1FvZHpCMmZQZGNwbnplN1hfWkVZOXUya0pHcjVlYlk2NGw3eWFoTk14SDhNVVpvbQ?oc=5",
    "published_utc": "2026-10-02T03:47:33+00:00",
@@ -2373,7 +2408,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "TSMC, NTU deepen R&D ties through nearly 50 projects a year",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDc1ktUlVSTllTd256c3ByaWxvUFJORFhGNFFRX3h1RFdVYmoybWlzNkY3aG9UQjR3MlFiWDdGRFhDbTlrN045dWFCYTF6NXdodG1WMUlUWG5HSDNmclZidQ?oc=5",
    "published_utc": "2026-10-02T02:22:48+00:00",
@@ -3710,7 +3745,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "In Depth: What’s in the China-U.S. Tariff Truce, and What’s Left Unsettled",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOEs1UmdkRFViNlFBNndUaHFCbWxkSGtLcnBFQ3U1V3FDR1Qyb1BFZHl0M2prclJhdFJidTRlaFdHNlJzT2EyVDJScndialdTNFFpclU0aHFRT1I1Vlc3TmRHQ1NiRWRQSV9IcDlBNFRaRlhjeGZBVEs2cG5HQzIzQzRkX250dlRtSnRpejJKdXJIS0NkVjZYMVVIZnBfczZIa25IZzVNeVk5QnpJMWNhbTdKRlktcm4tWk9lV1k0N1o?oc=5",
    "published_utc": "2026-10-01T14:10:00+00:00",
@@ -4314,7 +4349,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Commentary: China’s Youth Labor Market Demands Intervention to Avert a ‘Lost Generation’",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMm50WTlkclBJMlRsNTI5aVpfdHNObWtBQU9vY1J4YVRiRG5YX09EQmc5S1lqR0FKNjF3N0VRNXBzLWtXdlF3OF9jOGhHb0dESEtFY3A3TUFPQlROLUJjZGtDclYzQmQyMGpLUTJteG90N3VxcWJQLVhQaGlmXy1wbVBFSkVtRUxyTjVVUE9HR3FVUnZLa1EtTGlBQjBTQjBxdUhQLTlSY2hpZkhndll0R3RadkZ1WXhWTHYtb3hGSmlYODRHUXR6MEdublBaS2gtbkxNOWF3?oc=5",
    "published_utc": "2026-10-01T07:15:00+00:00",
@@ -5661,7 +5696,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "How a TSMC veteran is steering Singapore's lab-to-fab chip strategy",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUtJaTNCUlJYSm02cjVFdnlDN3ZVLUZFV3pqaktUR3ktRDBLQVFWMnA3dW42WFNTWHdoMENhb2FOaHhJVlpGVlJnNHBwOWUxdGR0aDBpZW1OSXFXWXNxLURONmF5aHE4QjhOMGZaYk1uOW5lQ3pMNkE1UmgxaGd1Y01lRFJvRFJEYTBGVnhpX2FYYUxjQnJJbEplSzVnMzdqYmc?oc=5",
    "published_utc": "2026-10-01T00:11:28+00:00",
@@ -6410,7 +6445,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "강원일보",
+   "source_name": "kwnews.co.kr",
    "title_en": "Household loans continue to increase despite increases in base and loan interest rates",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNFgwSmhySEF2c043UU52SVJESzRyYnFJVjJmbDl4N0VSX3NXUFlHcVdZU0hDY3VjMkNpNzR1eUVEbXpsYWtFMDNQYUNrZWRKOERrX09uTW9mdTQ?oc=5",
    "published_utc": "2026-09-30T15:00:00+00:00",
@@ -6703,7 +6738,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Retail Export Strategies Give Way to Integrated China-ASEAN Supply Chains",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMmF5TU9ma2Nvb0VHOWxBSFJKMzZoanNkOHc2QXM2VVBmVHFGdUQzcXZYM2RyUFhDOXVlNVpFbllGUDZPaVQzbThJelhkRFgwVnczMUVFbm95X3BpdWZudDJ5TG9IRW9CV2V6SHg1NDU5MldGZUtYdi1qZmo4RG9peGxadnFoSzNGYWdOWjJjNktDX1E2Wm1TQ3NvQjRBaEZMdl8yR1FHVDUtQ0FfWHBwdGZFZnFVX05rb0Jpal9ZTnFCd1RxWXJN?oc=5",
    "published_utc": "2026-09-30T11:26:00+00:00",
@@ -7121,7 +7156,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "cj.sina.cn",
+   "source_name": "新浪财经",
    "title_en": "Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWm00VXNndWlwQzJxcjRlUUZYUUJqMVhqUC1DcGtybmpDamtYNWd5RWNsWjVhSG9tQ3N6RnZreDlWUm9YOFBOMk4xNmdUQjlLbFBGM1BwdjdST0YwTlFsTUJJLXJHNzVGcTdhU3VuYXJtZWxnTm52b01jYklxRmV0OXVRRQ?oc=5",
    "published_utc": "2026-09-30T09:34:59+00:00",
@@ -7224,7 +7259,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
+   "source_name": "cls.cn",
    "title_en": "17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October 8 with a period of 3 months]",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2cktXNzRrMEZfZVFtaS15UF84a0t3ZGpuRWpud3hsaWhsWnpKTjhJcHQwTDlrWVltRlB2dkh1ZGZWRU42clB4Rw?oc=5",
    "published_utc": "2026-09-30T09:09:45+00:00",
@@ -7518,7 +7553,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China’s Manufacturing Activity Returns to Expansion",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTk9yb2I4MEdHYUZ5bGZXRzI5Z2ZXMThXSGRIam1oUURVb3VEcGpNeWFOeUw1ellnSENrZG1VREJzbGVTOWYtdVhIcnhtWmhJNXZuZHduRUthVEdaTDFRQkpVLUx4WlJfcHRuNzBUY2tZYUNyb3pzdTh2VU9PekZIZXN1cDJ5MzJObF9Dcmc5bVpiY1VHZEJldkNkZjRCQ2MzUUFsMHJmbHU?oc=5",
    "published_utc": "2026-09-30T07:00:00+00:00",
@@ -7742,7 +7777,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "guandian.cn",
+   "source_name": "观点网",
    "title_en": "Standard Chartered does not rule out the possibility of central bank cutting RRR",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RVXJ3UHFEa21BR3hEVFhaSnptYVNDdGpWMjBoYlhrbC11R2VrRTFjenNXY3Y0bDFrRVVEUlRELUJXN0JzWDA2eFF5UG9XZw?oc=5",
    "published_utc": "2026-09-30T03:56:15+00:00",
@@ -7896,7 +7931,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "The central bank’s 7-day reverse repurchase operation volume on September 30 was zero",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVFNuSFNTOWh2WTNvSmEwc2RjLWIySFJCSzdhSllQMmdGMkNhNnY1WjJ4emp0ejZzTjB6QTNEWjdLNGVsNlFvaVI1S1c5cmE2SzRrWGptY0RKOC1WdW5GSTM4Y0tjUQ?oc=5",
    "published_utc": "2026-09-30T02:32:05+00:00",
@@ -8067,7 +8102,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "The central bank launches 833.5 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wYzRPMHpfY01uRjV5NnI5Y3JlNTNUZ3prN19hbWZLOE1sM0NwM0NQS04tOG1fSXR0ZHBCMEJReHVBY1NMMl9EeXkzelVPNk9tNlRfUzVKR21UcXVkRHJWSTVsNTVGUQ?oc=5",
    "published_utc": "2026-09-30T01:27:22+00:00",
@@ -8839,7 +8874,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmY1bmJOSzlUYUtEZ1Bna3ZEM21LdXdyOEZYX3hpTkJ5THk2SG52WlQzcTRSOTl5SjRCS2JJYkZxYUdLRTNyanBhN0lsODBVeFM0cnlHbW4zamdOby0wNUltSWZxRnFkQkFVRV9famVYSDVvRHlCTjNpYzliQVJneUd0VHZmblFCSGh5ckdIX3paLXpXc3l5am9uaTdJNWRDaTdBWjl5dzJoOVplYWpHZXJkanJpY3FtU0pZaC1SRm1PNkdMUktkaWJ3?oc=5",
    "published_utc": "2026-09-29T16:25:00+00:00",
@@ -8908,7 +8943,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China’s Central Bank Cuts Policy Lending Rate in Targeted Growth Push",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWgzdTBBSmtITmUxLTBxM0J1XzZXeHlnYnVmZkswWnBkTk1XTl9WVV8xa3h3VElwNnAtRFI4ZGoyeDYxSzdMeks5NU9YQ3NCTlZtVWdxMFJEWnRDZGFWX0hUZHdPQTdjY1ZLdEdyZ3EzdjJZUThNNnFEWUVpaTlYMFF3b0NSQzlTeTlWQXdXRzdlWWdFUk9ONmpVd2pQMUxJMUtFakpRcHgxLWYyQl92YktLQlhQT0NyWGJ0aWl4LXU?oc=5",
    "published_utc": "2026-09-29T15:45:00+00:00",
@@ -9851,7 +9886,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "GlobalFoundries eyes GaN expansion to challenge TSMC in AI",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjBkU0hSeTg3TzJsT293UXdOckNEQWxvenFfTDhJbno2Tm9pLXpEMTFsa180U2xCZDFKNEJMdVo5T0I1S1ZBc3pkeXZXaldsN1U5V21yRGFuSVBZRmZaUGNNZkZsUHp6ZUJaOFM3ZWt6Slpaa2JIQU9KM3A1MEZYVU1PdHVTd2dROXYzVHJtbTBHTHRFX2g2b01LX283TnhyMTFwbXcxQ2E?oc=5",
    "published_utc": "2026-09-29T03:31:47+00:00",
@@ -10077,7 +10112,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "비즈니스포스트",
+   "source_name": "businesspost.co.kr",
    "title_en": "Foreign media reviews are positive on the pace of interest rate hikes by the Bank of Korea, “leading to a natural soft landing”",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96ZFluMDViLWNvcUQ1T2hDcWI0SjZLNjFGOEh0TlRsZE5WQ0JEanJ4dDRtUWd6Mm9VZjlIdTBRX2hIUkZLM0hiY1doMnZhNEVDZ2V0bFQ5QUI2NUcwWkYxTTU1QldqcUtNemtZaVFhZzZUd3M?oc=5",
    "published_utc": "2026-09-29T02:15:19+00:00",
@@ -10129,7 +10164,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "The central bank launched a 90.5 billion yuan 7-day reverse repurchase operation today, with an operating interest rate of 1.40%",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ybTZoZkZkekRBNU5KSFdjbTZDTEZPYzlCcFo2THRaOGJJNzE5SEVvZlJ1Nkx2ajJEaVl6MDg3LW91c0dGT21COXpoNUllNFo0Q1gyOGF6RFo2NFdsOWYtNUtWTEF1UQ?oc=5",
    "published_utc": "2026-09-29T02:02:17+00:00",
@@ -11182,7 +11217,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Auto Subsidy Scheme Unravels, Leaving Consumers and Banks Exposed",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEtQZWp0TWNUU3dhWDBsaUxIV0tZZ21JYk1yaFo1ODZWOEtaX2ZUU3ZzUUM5VDM4eHFzQ29NMlREMEZyeXRQMVRuT2NvN0VIWmZPdkwyM0VLd2Z4NmszaGt5WFplLTlNemRsNEZGdGpMd0FsQ3NjTm9lR2c1bEF0azRJemNoaEplbmdEZFpxSFN5STkzWWFraWpfWDVLLU11eG1jYXQ4Y1FGeEQ0S0NHUGNxMVVQS0NlajRJbmwteVdyZkk?oc=5",
    "published_utc": "2026-09-28T09:43:00+00:00",
@@ -11268,7 +11303,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "guandian.cn",
+   "source_name": "观点网",
    "title_en": "The central bank launched three-term reverse repos on September 28, with a net investment of 439.7 billion yuan.",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5NEQ4c29NZWpTSTNUamxVOGsxRGJnN1BrTVhycks0cHRJdkdFQTlvdEVSTVI4enZweVpMYm5jQjd5MWhrTEJMYjBUWm1VZw?oc=5",
    "published_utc": "2026-09-28T09:00:37+00:00",
@@ -11635,7 +11670,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "On September 28, the central bank launched a 139 billion yuan 7-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ONFpQWDN3WU45OHFsRm1pYy1mN3V2ZXdYMHVsS21ZM0pkUW9KYWhEZ0tNRGQ0WDE5LUYwcnVhUkM4Skk3b1Y0LVZLeTVPcHRyVmdjNUlqWE0xNGZISXZ4bTQ0UmJSdw?oc=5",
    "published_utc": "2026-09-28T07:00:00+00:00",
@@ -12141,7 +12176,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "es.tradingview.com",
+   "source_name": "TradingView",
    "title_en": "The unexpired balance of MLF of the Central Bank of China is 7.6 trillion yuan, and the next maturity will be 900 billion yuan on October 27.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hT0xQenZsdDdyYVB1RXA2dmtja1BRbllRUWtockhBdzF5aFAxMFZrVTBUMWFNOVlISm5YTTA4UVBaLUJCMG41T3gtcXZsSlRXOWVkZUl1dHhMVXJ4QTlNVWtBS1pZV1FnSjNLN1lTQ0gxQXBKZjYw?oc=5",
    "published_utc": "2026-09-28T03:17:00+00:00",
@@ -12246,7 +12281,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "The central bank today launched a 139 billion yuan 7-day reverse repurchase operation, a 661 billion yuan overnight reverse repurchase operation, and a 300 billion yuan 14-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RdUhmcjdRSnFhT3VHMWkyZVdDZlR1cXJoLXpMLWppNUVoSUdJUUhUUzRLOVQxazk3Qnl6WXB2QWVBMG5Ob3YzUU5pSi1jTGlPeE9ZZ25pUXNhSG1EeFRfNDRpYTQ4QQ?oc=5",
    "published_utc": "2026-09-28T02:46:41+00:00",
@@ -12318,7 +12353,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "hani.co.kr",
+   "source_name": "한겨레",
    "title_en": "Deputy Prime Minister Lee meets with Bank of Korea governors 6 days after taking office... “Fiscal-Monetary Policy Cooperation”",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSXltS2J3QUhWa2V2aERndVJDaHJLbUJPRGluanBpTDJOMG56d0pUVVRIOEh6Q0tHV2x2eWpNUWJvLXE2N3NrNkdKZUo2cHBkZml2U2JobEtFYUNaRURNNjVwVmV5QQ?oc=5",
    "published_utc": "2026-09-28T02:39:00+00:00",
@@ -12569,7 +12604,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "The central bank launched a 139 billion yuan 7-day reverse repurchase operation today, with an operating interest rate of 1.40%",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TSnFmUTlSb1ZnRk9ISEFBTElpalZHWXdkUTBQVVc5VWtVdlVFMmpTUnpCdzRDYW9EOURTWEs4LWdFRkxVZGZWQ0ZYa3ozNUNWNjEySklIckZOUzVmMXlOUzhNTFJQQQ?oc=5",
    "published_utc": "2026-09-28T01:34:24+00:00",
@@ -12641,7 +12676,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "The central bank launched a 139 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwZFR4QUxaejdIVlI5ZVpYVkR6Q29ZZFh6Vk50OEp5bm9mQlUweVJ4OUxaSUs2ZUtGeUhXc0JRNjRkY3dNcXFtVEdSRk5MMUJEa3FnblVjOF9zcGFueG5FMk5VNkFuUQ?oc=5",
    "published_utc": "2026-09-28T01:12:58+00:00",
@@ -12730,7 +12765,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.eastmoney.com",
+   "source_name": "东方财富",
    "title_en": "The central bank launched a 139 billion yuan 7-day reverse repurchase operation, with a bidding volume of 139 billion yuan",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMi0yWV8zYUtvUi1lLU1Fcm1fdFlTeVFMeUZZanlFTUhTMXJFYTNFa1AxR3pISmpFMDBPNWd1ZFJpeHBHMHQtQ01ES0JRNkhDX1Y1VVo3UkNQTjlxVzZqZlFmQ1dHdw?oc=5",
    "published_utc": "2026-09-28T00:51:06+00:00",
@@ -15936,7 +15971,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "PBOC Cautions Against ‘Herd Effect’ as Yuan Extends Rally",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHJXZXdiUzJDWGFfTk04QzhINEN4bXMtdTFYdllWa1ZsUGlJSFVfV3F3SjNVYmpxN0pPa2daVy1VMzNnb29TbFhKaFk5X0pocUxkZWNsX3EwUUZCM21hNTBWWmZnRXlNV3d2azFIUm1NUm1nLXp0TG1ULXpuYVJoSkQzcHE4YXMxTWVGMG9fbk0tU1Q2UnN6U3FYRkZGX3BJSVlVbllZWXl4WXJZUTJJ?oc=5",
    "published_utc": "2026-09-24T18:27:00+00:00",
@@ -16127,7 +16162,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Anduril's Taiwan supply chain to grow 15-fold in 2026",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcml4bUZhWjUxTU11WVlxWTdoaEpieW1QTUdnS3pWbTZuX0VFY2hhNmNJSzQxU1dGb3pseVNnX0tseENfRmZIUllLYTlvUXgtbnRlSndSQmRlV2lwZXBSdm5FaFRJVWpMUDFURzdZRnBtelZXaFpXbi1vc19zWHE1MEFOYVc5b0NmNVNHNjJ3cFdLRHJScTkta3ZTZEpkcUdnME9xNXB2WlJoUkltX21z?oc=5",
    "published_utc": "2026-09-24T10:05:32+00:00",
@@ -18266,7 +18301,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan courts Indian IIT chief in bid to boost chip talent ties",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUtOVThaek5zbENESEd3bWtiYkRQWng3cjVaNW1xZTRXNnBwU0ZYYlpFYmJFNW81UF9BblFTbDRDQXFTV2ZVci01WTgtYkU2Rm9iclFFamkzZzRsT080SDhOY3loQzNXbl9LT1lEU05nb3VVcS1QQUc4OE9oUWNDY2N2dnNUR0daY2h3MXFva19PX2p6QUVJNk1SRHFsUC1CZXR3TkZBeUx3LS1VY2VXdl9KejU?oc=5",
    "published_utc": "2026-09-23T07:00:00+00:00",
@@ -19468,7 +19503,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Commentary: Are Exports Holding China’s Economy ‘Hostage’?",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWThScUlkQkxBdzlHWjBPQkh2WXdPb3pITmNFZ3FhLTRENV9USTdZdjhHbngwLWVhelhkLU9KaDJPWjFsSE9ZQ25uVnZPazlhQzNhcml5SkU1R1BZMXliWDRxVENZeVNCVjRsUkhjcE15UGt1cnp3bF9SZS1uYzh0Z3VCVVU3WWNTQ3dtSWZjblVUSHpwcjdicERab2YxYURfY2hOdGFWU1pIMjEx?oc=5",
    "published_utc": "2026-09-22T07:00:00+00:00",
@@ -23328,7 +23363,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Fiscal Revenue Growth Slows as Government Spending Contracts",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajVnYVFTVWxPRW02QmZSZzVnb2xBWl9qaVc0Z1RrbWpzdTFZQ0xCY2VXSml3S3Q0cDM2ZU1KN3JGaVpKQm04b1k4eFpDM2JZSHR1R1FKeUdHay1sVFNHQ0p3TS1SYzhOSGRtV1RlM3E2M3VtRnV4bU81Z3luT0JOb056YkU2RkVISjhVT2d2Z3dfS19BdU1peENFNUJrSlE1MDVMNHhBUDlOQW9WNkZvVzBKZlBEUVZ4UVN3djJ3?oc=5",
    "published_utc": "2026-09-19T07:00:00+00:00",
@@ -24746,7 +24781,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan - CNA English News",
+   "source_name": "focustaiwan.tw",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T11:36:00+00:00",
@@ -25877,7 +25912,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Targets 3.5 Trillion Yuan Pharmaceutical Industry by 2030",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGZ6RmdHNF8tYUVvaVZhc25ldWRXZDM0ZlQyU2Y5MkVFVERiekJsbTVHb2wxb2l0OFZDSTR3ZG9wc2hwM0pzWHVmZHg4QnF3U2tqcXJiVmVFR3V2LV9Wc1hMZ1YzNTBnalpVYlFRX1A1Yzh6RFJqVUsyUmxVNFpKQ3FRY2djUjRVZlNYWEJEZGthWXVzME12WlFjTWI3MmlDUXkwZUgyYUVvUVlnVDRsS29NODk1SUZY?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -25929,7 +25964,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China’s Youth Unemployment Hits Record High",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHE5RFJkanY2eDV3LVBTUzhKaUpZUjI0cHRXZlUzdDZiVjNsR1ZRUmVZUW94eE15d1RELV8tUEtuN1hkbngzYzRFMk5ZUzFPdUhYMzJydzNKV3lvbm90Y0I3Q2pBOGdnTXdrb2ZvSEk3OU0xZHhiWFRfcHlreFZiUDZHdi1ZTzVjaGVhVzdreFh3clpKT2hLeHdIYmdsZw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -28777,7 +28812,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Commentary: To Revive Consumption, China Must Defend Both the Yuan and Incomes",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNWJjWFVBb2U3WFZWVDZBRmlIb2xoNEhQbGQ2TUxBUE1yMXdqaEtJZm0xRDBOOWhha2o0dkJVVVlQOGg1WmJNZjc2eHlmQ1FhSUhnWmVhYm83WG9aOWwzemRGNnYzS3lRd283UlJVOU9kWmhvQzdHY3NMYjA5dV9hN1pVcW1DTzRDUDVGcWhHUDV0QnluZzhDbTdQRjhLbllKWTg0SlAwZjhhUDBCVWVwTlNSRzZJVzlhNVRBWERGSDJhMVZmTGNHT19oTQ?oc=5",
    "published_utc": "2026-09-17T07:00:00+00:00",
