@@ -7,18 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T02:42:46.511627+00:00
-Total: 2950 manchetes
+Última coleta: 2026-10-04T02:52:44.137671+00:00
+Total: 2947 manchetes
 
-  🇯🇵 Japão          1256
+  🇯🇵 Japão          1253
   🇨🇳 China          786
   🇹🇼 Taiwan         245
   🇰🇷 Coreia do Sul  663
 
 ## O que já está no feed (não repita)
 
-  - [japan] Kringle Pharma, a drug discovery venture from Osaka University and Keio University, is expected to reduce its 
   - [japan] Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide
+  - [japan] Kringle Pharma, a drug discovery venture from Osaka University and Keio University, is expected to reduce its 
   - [korea] On September 15, the "2026 BOK Regional Economic Symposium" was held at the Lotte City Hotel in Daej..
   - [japan] This is the complete picture of Obata's theoretical system (21st century economic theory)...Entertainment, ecs
   - [japan] Trump warmly welcomes Xi Jinping at the U.S.-China summit meeting...Why Americans' "feelings toward China have
@@ -116,7 +116,7 @@ Total: 2950 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T02:42:46+00:00",
+      "published_utc": "2026-10-04T02:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
