@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T05:02:45.806147+00:00
-Total: 2880 manchetes
+Última coleta: 2026-10-05T05:12:43.756852+00:00
+Total: 2882 manchetes
 
   🇯🇵 Japão          1229
   🇨🇳 China          762
-  🇹🇼 Taiwan         242
+  🇹🇼 Taiwan         244
   🇰🇷 Coreia do Sul  647
 
 ## O que já está no feed (não repita)
 
   - [japan] Output Gap, Potential Growth Rate, and Labor Market Indicators
+  - [taiwan] Global AI servers shift production nearshore, slowing direct Taiwan exports to US
   - [korea] South Korean Won Firms Near 2024 High
+  - [taiwan] TSMC, Intel named as Musk's Terafab ambitions face reality check
   - [china] China-EU Trade Talks Unlikely to Result in Major Breakthroughs — Market Talk
   - [taiwan] Tesla Stock Rises Overnight After Musk Says ‘Something May Come Of’ TSMC Talks On Terafab
   - [china] Tata's Assam chip unit is almost ready, and a non-China supply chain is in place
@@ -55,8 +57,6 @@ Total: 2880 manchetes
   - [japan] It's not Prime Minister Takaichi's fault or the Bank of Japan's fault...The name of the politician pointed out
   - [japan] <Special Discussion> The US could impose up to 100% tariffs on countries that support Russia...If the Democrat
   - [japan] ``It is best for the petrochemical business to be independent,'' says Resonac CFO, who is in a hurry to focus 
-  - [japan] Japan's Rapidus to help 17 companies design chips for clients
-  - [korea] Trump threatens tariffs of up to 300% as Korea faces pressure over US investment
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2880 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T05:02:46+00:00",
+      "published_utc": "2026-10-05T05:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
