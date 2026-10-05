@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T00:22:48.259042+00:00
-Total: 2858 manchetes
+Última coleta: 2026-10-05T00:33:20.772814+00:00
+Total: 2860 manchetes
 
-  🇯🇵 Japão          1220
+  🇯🇵 Japão          1222
   🇨🇳 China          757
   🇹🇼 Taiwan         236
   🇰🇷 Coreia do Sul  645
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan service sector activity slows from 5-month high, PMI shows
   - [japan] Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)
   - [japan] JGBs Mixed Ahead of Expected Extraordinary Diet Session in Japan — Market Talk
   - [japan] Reflationist ex-BOJ policymaker calls end to low rates, big spending
@@ -29,6 +30,7 @@ Total: 2858 manchetes
   - [japan] Although he was almost seriously injured due to tiles falling off the exterior wall...the condominium manageme
   - [japan] The “biggest problem” of the Japanese economy is not “fiscal deficit” but “corporate surplus” (Diamond Online)
   - [china] Britain expected to impose tariffs on Chinese electric cars, The Times reports
+  - [japan] It's not Prime Minister Takaichi's fault or the Bank of Japan's fault...The name of the politician pointed out
   - [japan] <Special Discussion> The US could impose up to 100% tariffs on countries that support Russia...If the Democrat
   - [japan] ``It is best for the petrochemical business to be independent,'' says Resonac CFO, who is in a hurry to focus 
   - [japan] Japan's Rapidus to help 17 companies design chips for clients
@@ -55,8 +57,6 @@ Total: 2858 manchetes
   - [korea] Trump Touts 'Better' South Korea Trade Deal With $8.4 Billion Oil Project, But Seoul Says It Wasn’t Part of th
   - [japan] What, wasn't it the Bank of Japan's fault? …Reiwa’s Black Monday is a bigger factor than the “Ueda shock”
   - [japan] Bank of Japan September Tankan Business conditions DI for manufacturing industry worsens Kagawa Prefecture (KS
-  - [japan] The importance of the Bank of Japan's words "change in circumstances" (Hiroyuki Kubota) - Expert
-  - [japan] U.S. employment statistics show a lower-than-expected 29,000 increase in September...unemployment rate rises f
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2858 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T00:22:48+00:00",
+      "published_utc": "2026-10-05T00:33:20+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
