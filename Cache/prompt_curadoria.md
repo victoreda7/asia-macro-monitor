@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T20:22:59.614272+00:00
-Total: 2918 manchetes
+Última coleta: 2026-10-05T21:18:05.725928+00:00
+Total: 2920 manchetes
 
-  🇯🇵 Japão          1246
-  🇨🇳 China          770
+  🇯🇵 Japão          1247
+  🇨🇳 China          771
   🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  653
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nasdaq hits new high; buy tech stocks even as long-term interest rates rise
+  - [china] Behind Germany's far-right AfD's rise is the "China Shock"...China's industrial competitiveness is exporting t
+  - [japan] Prime Minister Takaichi seeks understanding on consumption tax cut, opposition parties plan to provide financi
   - [taiwan] Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses
   - [taiwan] Tesla Stock Rises After Musk Confirms TSMC Talks
   - [china] Takaichi's ``aggressive fiscal policy'' is state capitalism that imitates China while viewing it as an enemy. 
@@ -54,9 +57,6 @@ Total: 2918 manchetes
   - [japan] Japan’s PMI data signals cooling momentum across manufacturing and services
   - [japan] Output Gap, Potential Growth Rate, and Labor Market Indicators
   - [china] Weekly Recap: ’26 9–10% currency-neutral guidance and China push
-  - [taiwan] Global AI servers shift production nearshore, slowing direct Taiwan exports to US
-  - [korea] South Korean Won Firms Near 2024 High
-  - [taiwan] TSMC, Intel named as Musk's Terafab ambitions face reality check
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2918 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T20:22:59+00:00",
+      "published_utc": "2026-10-05T21:18:05+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
