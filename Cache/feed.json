@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-05T16:42:46.466995+00:00",
- "collected_at_utc": "2026-10-05T16:42:46.466995+00:00",
+ "generated_at_utc": "2026-10-05T16:52:45.849714+00:00",
+ "collected_at_utc": "2026-10-05T16:52:45.849714+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 2917,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 248,
   "korea": 654
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.7,
  "sources": [
+  {
+   "source_id": "gn_cn_caixin",
+   "name": "Caixin",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -28,14 +36,6 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-05T12:08:50+00:00"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "name": "Caixin",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-02T07:45:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-05T16:16:04+00:00"
+   "newest": "2026-10-05T16:45:58+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-05T16:12:52+00:00"
+   "newest": "2026-10-05T16:25:43+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T14:01:46+00:00"
+   "newest": "2026-10-05T16:33:46+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-05T16:42:22+00:00"
+   "newest": "2026-10-05T16:52:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T12:50:30+00:00"
+   "newest": "2026-10-05T08:36:15+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM2h0c3lxc2dnMzBkcUp2UUlteUVyWkxmRWNsOFlsVW9UeHdLWndDcWw4bi1TNXRCY21jNGg3OS1uMWZPYVhPOE9LY1p5emYyQXNBVFlkQ0c4NWIyN3Q3bU1aUElJbS1RMVI2eEFLZXJ0dE4yZUFYa25iTlJXejlVNlcxV3NrZzZySy0xQnlZTlVfbW9xWktMcWV0Y1RDRUtxZVU3QnZMejg0TFVBclN3ck5sclBtM0U2SU12Z051aTZoRWpDMldESFUtUWJfZw?oc=5",
+   "published_utc": "2026-10-05T16:33:46+00:00",
+   "title_original": "Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "70d388625c3f216a"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "ShareCast",
@@ -376,23 +393,6 @@
    "live_wire": true,
    "manual": false,
    "id": "88c4efb920423f35"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM2h0c3lxc2dnMzBkcUp2UUlteUVyWkxmRWNsOFlsVW9UeHdLWndDcWw4bi1TNXRCY21jNGg3OS1uMWZPYVhPOE9LY1p5emYyQXNBVFlkQ0c4NWIyN3Q3bU1aUElJbS1RMVI2eEFLZXJ0dE4yZUFYa25iTlJXejlVNlcxV3NrZzZySy0xQnlZTlVfbW9xWktMcWV0Y1RDRUtxZVU3QnZMejg0TFVBclN3ck5sclBtM0U2SU12Z051aTZoRWpDMldESFUtUWJfZw?oc=5",
-   "published_utc": "2026-10-05T14:01:46+00:00",
-   "title_original": "Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "70d388625c3f216a"
   },
   {
    "source_id": "nhk_economy",
@@ -944,7 +944,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Global AI servers shift production nearshore, slowing direct Taiwan exports to US",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDZBOFg2RlkwNUVFakMzMVdFM20xTDBFcXJHSHZJMDZWdXJaMlhKclBXN1BMeDhxYXR6STZ3ak9ONVJpcEFaRlJpVHczc0I5Q2R5Sm1sbURaVDhQR3ZKNUpHT2tIT0hNUTlPTGNlWDhGemwwcE9Pamp1cllaaEMzemN3RGhzSjdyaFR5WDBJTWxmNm9pR1dGcQ?oc=5",
    "published_utc": "2026-10-05T04:48:48+00:00",
@@ -978,7 +978,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "TSMC, Intel named as Musk's Terafab ambitions face reality check",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFpVLWNpaGZDQUgtT1h5LW03OGhPbVVySU5lSEYzXzU3cTFYaTIxWHl1eWwxWXdzMnpFX2d2cm15SEpjc1hoX1RLZHhSOWUzczNhX0lKVVR1YldCUG1pdl9hcWl3LXhkZm5FQnNzZUFBalRaVVVvc0t5em1qR2N1NWZ4OHpBcmpGelVJODY1X1NOZ0paVkRn?oc=5",
    "published_utc": "2026-10-05T04:08:27+00:00",
@@ -1185,7 +1185,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Shield AI expands Taiwan supply chain in sovereign AI push",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORTdQZUVuZ3pxUG5SMHctTWNWR1lwYy15enZTZ291MU1QU1VXNlBoamJOaHRmZ3E1SDVaMEpKRWd6cVA0cjV1TUFKbFJCbENHWlFacVM1aTBaN0s4MzA4VkxhN3FBeHdKaVg2TDdXRGFfRmMxY3VXWkttQjNMMkR0UXlhaG16NnJGRGRkZ2tLc2V6MFFkVjFNWjdHN3ZqUTRHTkV1Q0dR?oc=5",
    "published_utc": "2026-10-05T02:01:19+00:00",
@@ -1924,7 +1924,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
    "published_utc": "2026-10-03T14:36:49+00:00",
@@ -2848,7 +2848,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Taiwan pledges to help TSMC expand domestic investment amid Singapore rumors",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMkVvSkpSTVljV2d6RnMzMy02dlFSMzJDdVVpcHBzaFdkWXFQRDR6d2dhbkVVeUM2TzZmRHF0WnV3Y0VmTlM2c3pEMmtFT2xWXzZWRmc0eEpmWTgwaXZzNWxmanFpTHh4VnVyRDFOeU5WTWE1U09lcWVkVnVJbG1LSndRRUEtcEVzdzBWSWpnQjA3bTQ?oc=5",
    "published_utc": "2026-10-02T08:25:17+00:00",
@@ -3055,7 +3055,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1FVNEdaTFN5dXFXdGtCbzNUTDFXTmNpLThlOEZtazNxZWVGczBCazdUdXNUWkF3OXFfb1U3MWVKejc2RzQ4dmdJMGlvWENlWUxkTmExZUc3Skc1elR1Y1ZSR2cwWldnLUFCQVNjR0poSEI1dFhKMDhUYzFhOWtQZmRCX2k1Wi1FclltRDJB?oc=5",
    "published_utc": "2026-10-02T07:00:00+00:00",
@@ -3473,7 +3473,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "TSMC mulls multi-fab Texas campus beyond Arizona, with Singapore also in talks",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KaTdiVHZncjJydTRkVW92Q3hjNWxfOTFpbmhPTG1jVHBRWHdqZnhhakdoWURxdTIxMC0zNDhvUnBYcUJwSklQLWlzc1c4bEF4bjF5amlTTHRqZVU3QzhZ?oc=5",
    "published_utc": "2026-10-02T03:47:47+00:00",
@@ -3542,7 +3542,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "DIGITIMES Insight: Intel, TSMC, Samsung converge on backside power — packaging becomes the next divide",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjIzNWlKbzRLMWlHREJYc19VWGRvZWVpWHNwdmZUUVdQaHFGWldhX2VjMzdrMkt5cXozWlBUaE1udHVBRXNId2J2ZjhoZ3ZXZElQb2V2SXNhMFF2WDV0X25GTEZ0cWQ0NzR0ai1DenZiRkdQS3VmZDBqSk9YT09MQ2RqWVRsWTd0OTRYRWN1eVRjbDhZYUE?oc=5",
    "published_utc": "2026-10-02T03:21:24+00:00",
@@ -4129,7 +4129,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "ekn.kr",
+   "source_name": "에너지경제신문",
    "title_en": "The base interest rate is driven by prices and pushed by exchange rates... Attention to the last Monetary Policy Committee of the year",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1Q1Nud0d0ZDZYTUtoZExQZXMxc2ZvSGQxX2ZyTk0yTVVtU1VLNUlVQ3JzYnNsQlQwTklUYU0zT052RWU3cEF5RlNrR0owdzhseS1RWEpycEJjTDQ?oc=5",
    "published_utc": "2026-10-01T23:54:15+00:00",
@@ -5589,7 +5589,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "news.qq.com",
    "title_en": "1.2 trillion yuan! The central bank previews the buyout reverse repurchase operation on the first day after the holidays",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42MmMxNDliRmpTaDhxRWUyeWRfVWFFRWU2eGhKT2FmYldEZEM4LUhPOHZpdnJhQXYwbFNIQlhodGFmSEEtLU1uZ3R2MWM3d1NCRUU0bjFnaVFlUF9PNXdac0NR?oc=5",
    "published_utc": "2026-10-01T08:17:00+00:00",
@@ -6738,7 +6738,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "SG Semiconductor builds brand and talent for Singapore chip industry",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVl9KeWpFRFBJenc0NXNkVU1oYjhxcmpyd2wtX2RYODVkNlNldEtvUXA2T1NPdWRhQzNfZFBOTjZQQ1FyTXd6ZWpidGN0d3BNVWRaYk04SzkwSGVsandkX1ZCem1uSXl0VlIzWnMxd3VTUTd0dTBoQXcwTjhQQWhuckQzaEdXRXRGOWN4b3RCUTZuUDhhd2lXdmk2WF9CSjQ?oc=5",
    "published_utc": "2026-10-01T01:02:01+00:00",
@@ -8236,7 +8236,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "news.qq.com",
    "title_en": "Good news came after the market closed. The central bank announced in advance that it would release a net fund of 200 billion yuan after the holiday! At a time when A-share funds are hesitant and hesitant, the central bank has given the market \"reassurance\" in advance.",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nMEs2NGticERTZW4weXdidV9nT1JjQi14RjhpRGJwRG1ZSXBRM1NtQ1Z4T3hsb0RqYXF5Y1lSY1ZFOVNGU1NPd3J4TzFMb1JOam5BMGpR?oc=5",
    "published_utc": "2026-09-30T10:43:00+00:00",
@@ -8534,7 +8534,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "capwhale.com",
+   "source_name": "资鲸",
    "title_en": "Central Bank: Launching 1.2 trillion yuan buyout reverse repurchase operation on October 8 with a period of 3 months",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQTdKcmZULVlFRGxqWEx6aW9rYnlQQ0NJVmI1bnMxNnhCOGZYWVZXS3JHbmhlVHliekFVOXBEaEVTenFYaElRdGN1WkRCeERwZkhubGFjZTFCblNhSmRlMlZuaTNhbDR4b24zUFFvY2dkUnJQbzNiMC0xWmZMckRzMlVMTGMxekQzUkxEZEhzbnhfZw?oc=5",
    "published_utc": "2026-09-30T09:22:26+00:00",
@@ -8604,7 +8604,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "hankyung.com",
+   "source_name": "한국경제",
    "title_en": "Global interest rates are resembling ‘post-Corona austerity’… Will Korea also go to 3.5%?",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcmp0RDhESlJPQVFlaE9QTDUyREZ5TXNDMmhCV1hFc0NfOUg4RWJ6NFpQM25LYzRLcExFZ0NPSW9feW5tZ3VmSG1vMVFmcUt1SmRidVoxUmxZdw?oc=5",
    "published_utc": "2026-09-30T09:11:13+00:00",
@@ -9054,7 +9054,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "news.qq.com",
    "title_en": "The central bank has exceeded its quota by 200 billion yuan, and the overnight funding limit has been raised to 1 trillion. How will banks respond across quarters?",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jTXNOang3Q09JSDZJUGk3M0ZqX05WQW9iQ0drOHlYV0x3WDB6OGxPaU05MVJ0djE5ZDZia2R4dFRKd1p0Q1FjcGVwbXR4QUtSX2s0TkFn?oc=5",
    "published_utc": "2026-09-30T05:40:00+00:00",
@@ -9243,7 +9243,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Foundry 2.0 revenue hits record as growth spreads beyond TSMC",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUNNM0JMVFlMYlNjbXdxbWlIUVRTRzZfOUlZS1h4djZIMklrVTlHaXI0NnFwLXNpbEcyZkxrSmlNNktBT05wM3Nud0xsQzdaaU04a3hVU1JLVWpRcnVmLS1IcjNHWG55c2VsTzZyVmJ0alFVZVg3RDRhWGV2RWdPc1VzNk02dFR2VXNaVEZVYw?oc=5",
    "published_utc": "2026-09-30T03:29:34+00:00",
@@ -9572,10 +9572,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
+   "source_name": "同花顺财经",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out 833.5 billion yuan of overnight reverse repurchase operations.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44Vkw4SW1STVY0T3lnbVlYVS0zN2RfUU0zTnV2UkxHN21uMHJITEtZVVR3eUsyUVZZMm5KVkl0MjIxWDhZZWZzbzhjWV8xZERFX2YzbjdDclpaTzRhQS02Qg?oc=5",
-   "published_utc": "2026-09-30T01:26:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdy1vXzlVSWJ5MHBBX1Y3emNjeS1wNDRDZjFocHNCTXZ1ekZyRGhTVW1nOEFVeUZ2eEdOY3Q0VUVfQnlXXzdPQ09DVm9iV2FqSkpCZ0w4UHJ5RWtGX1E?oc=5",
+   "published_utc": "2026-09-30T01:23:15+00:00",
    "title_original": "央行9月30日7天期逆回购操作量为零 同时开展8335亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -9586,7 +9586,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7d767ba34ee55525"
+   "id": "b61a80a8ec981a5a"
   },
   {
    "source_id": "gn_kr_bok",
@@ -10941,7 +10941,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "In global semiconductor race, Singapore bets on critical, mature technologies",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1RGZE5GN214UnVaS2lFNzR4YWR6Qno5WXNKM0MzOXM4REZzdTQzdnlPajJ3MFN0UWJLZjV6RjlUVVFlM2QyTFBlZG0xTERBN2JQNmthQ183QUkzLWZaQm5JckI3UTdZRzZhTU00ZkQyVHphZ2hoQnp4VWdrM0FFSGE3RTN6b0FTU0duMkNpVFdPdlNWWF91dXRiM3pZMmQzOTd4NENrQm9oVlE?oc=5",
    "published_utc": "2026-09-29T08:57:39+00:00",
@@ -11390,7 +11390,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNWdxNDRkWjI1Qy1fN0F0SjJkU19RYmNBN2VQdm5oRXIzVHRPT0hNZ2w2bkgyaEllamd2b2I4UzlSYUFNTHJ4X21sTHduTVdSQzFONG91N25FaU9nSWNGS2JJX1dNbUZxRTcwSUNPYkVHZXhJUUJBZUxKcXZwOXpKR05qUXdBbTJKX25CS2g0TQ?oc=5",
    "published_utc": "2026-09-29T03:23:52+00:00",
@@ -11651,7 +11651,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "news.qq.com",
    "title_en": "The central bank launches 90.5 billion yuan 7-day reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wdVVPdDljWWdycVlOSjNVcVA1YU8zaEpydHkzM3RXOWhEeWc1RG51aDA4R0d5bUV6X1RYVGJENEFUR0JXRkRMNVBJU1plbjl4T0NlSDZn?oc=5",
    "published_utc": "2026-09-29T02:06:00+00:00",
@@ -11756,7 +11756,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "news.qq.com",
    "title_en": "The central bank launched a 90.5 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qczV2TWVfZnlTMi15Tm1jTnRHRzdTOVI5UjJjN3JHM2tndXE1YzRaaGtNNVFEQXpyRm1IUExDZkhRZkpocWlGS2dFX3k3Z1BHdDZ3MXNB?oc=5",
    "published_utc": "2026-09-29T01:24:00+00:00",
