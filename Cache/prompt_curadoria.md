@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T11:23:21.302277+00:00
-Total: 2907 manchetes
+Última coleta: 2026-10-05T11:33:20.774469+00:00
+Total: 2908 manchetes
 
   🇯🇵 Japão          1243
   🇨🇳 China          766
-  🇹🇼 Taiwan         244
+  🇹🇼 Taiwan         245
   🇰🇷 Coreia do Sul  654
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Musk hints TSMC may join his mega chip venture, and Intel's stock is taking a hit
   - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
   - [japan] Bank of Japan Deputy Governor Uchida AI “moves the financial environment more accommodatively” (TBS NEWS DIG P
   - [japan] After making an internal report about deficiencies in the remittance system at the Bank of Japan, she was bann
@@ -56,7 +57,6 @@ Total: 2907 manchetes
   - [taiwan] TSMC emerges as potential Terafab partner as suppliers see over 80% chance of Musk deal
   - [taiwan] Shield AI expands Taiwan supply chain in sovereign AI push
   - [japan] BOJ’s Deputy Chief Flags AI’s Possible Impact on Neutral Rate
-  - [taiwan] Weekly news roundup: Musk looms large as AI chip boom drives capacity expansion and geopolitical risks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2907 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T11:23:21+00:00",
+      "published_utc": "2026-10-05T11:33:21+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
