@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T12:02:44.642280+00:00
-Total: 2909 manchetes
+Última coleta: 2026-10-05T12:12:47.456720+00:00
+Total: 2910 manchetes
 
-  🇯🇵 Japão          1244
+  🇯🇵 Japão          1245
   🇨🇳 China          766
   🇹🇼 Taiwan         245
   🇰🇷 Coreia do Sul  654
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan and Australia finance ministers meet to launch new dialogue framework
   - [taiwan] Musk hints TSMC may join his mega chip venture, and Intel's stock is taking a hit
   - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
   - [japan] Euro falls to 17-month low on Paris fiscal worries
@@ -56,7 +57,6 @@ Total: 2909 manchetes
   - [japan] Prime Minister Takaichi will be forced to make a major decision at the end of the year, and with the rise of t
   - [taiwan] Taiwan dollar gains most among muted Asian currencies
   - [taiwan] TSMC emerges as potential Terafab partner as suppliers see over 80% chance of Musk deal
-  - [taiwan] Shield AI expands Taiwan supply chain in sovereign AI push
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2909 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T12:02:44+00:00",
+      "published_utc": "2026-10-05T12:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
