@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T01:52:44.765178+00:00
-Total: 2863 manchetes
+Última coleta: 2026-10-05T02:02:44.664180+00:00
+Total: 2862 manchetes
 
-  🇯🇵 Japão          1226
-  🇨🇳 China          757
+  🇯🇵 Japão          1225
+  🇨🇳 China          758
   🇹🇼 Taiwan         236
-  🇰🇷 Coreia do Sul  644
+  🇰🇷 Coreia do Sul  643
 
 ## O que já está no feed (não repita)
 
+  - [china] UK Expected to Follow EU With Tariffs on Chinese EVs, Times Says
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows
   - [japan] Japan's Rapidus To Help 17 Companies Design Chips For Clients, Nikkei Says
@@ -56,7 +57,6 @@ Total: 2863 manchetes
   - [taiwan] Musk confirms talks with TSMC over his Texas chip factory project
   - [china] How US-China tech ties are deepening as RISC-V chips go mainstream
   - [china] Why India’s Manufacturing Future Isn’t the China Model
-  - [japan] Pros and cons of 1% food consumption tax What are the tax reduction effects?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2863 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T01:52:44+00:00",
+      "published_utc": "2026-10-05T02:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
