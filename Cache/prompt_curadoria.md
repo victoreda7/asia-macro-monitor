@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T06:42:46.362735+00:00
-Total: 2891 manchetes
+Última coleta: 2026-10-05T06:52:44.722367+00:00
+Total: 2890 manchetes
 
   🇯🇵 Japão          1232
   🇨🇳 China          764
   🇹🇼 Taiwan         245
-  🇰🇷 Coreia do Sul  650
+  🇰🇷 Coreia do Sul  649
 
 ## O que já está no feed (não repita)
 
@@ -45,6 +45,7 @@ Total: 2891 manchetes
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows
   - [japan] Japan's Rapidus To Help 17 Companies Design Chips For Clients, Nikkei Says
   - [japan] Interview: The role of reflation policy has ended, and demand expansion from here is a "risk" - Former Bank of
+  - [korea] If the loan interest rate rises, house prices fall after 6 months.
   - [japan] Japan service sector activity slows from 5-month high, PMI shows
   - [japan] BOJ's Uchida flags AI's mixed impacts on productivity
   - [japan] Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)
@@ -56,7 +57,6 @@ Total: 2891 manchetes
   - [china] U.K. is said to plan tariffs on Chinese EVs under pressure from EU
   - [china] Britain set to levy tariffs on Chinese electric cars, The Times reports
   - [japan] Is a variable type home loan still more advantageous? Should I switch to a fixed rate due to concerns that wil
-  - [japan] Although he was almost seriously injured due to tiles falling off the exterior wall...the condominium manageme
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2891 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T06:42:46+00:00",
+      "published_utc": "2026-10-05T06:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
