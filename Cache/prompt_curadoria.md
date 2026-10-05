@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T07:02:46.887320+00:00
-Total: 2888 manchetes
+Última coleta: 2026-10-05T07:12:45.939136+00:00
+Total: 2889 manchetes
 
-  🇯🇵 Japão          1231
+  🇯🇵 Japão          1232
   🇨🇳 China          762
   🇹🇼 Taiwan         245
   🇰🇷 Coreia do Sul  650
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan New Building Blocks "Shogun's Road", Great Proposal from Tanzan to Pope...Road Replacement Opera
+  - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
   - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
   - [japan] Takaichi pledges fiscal discipline as Japan’s debt bill rises
   - [taiwan] Taiwan's September Inflation Likely Exceeded 2%, WSJ Poll Shows — Market Talk
@@ -39,9 +41,9 @@ Total: 2888 manchetes
   - [taiwan] Taiwan dollar gains most among muted Asian currencies
   - [taiwan] TSMC emerges as potential Terafab partner as suppliers see over 80% chance of Musk deal
   - [taiwan] Shield AI expands Taiwan supply chain in sovereign AI push
+  - [china] UK Expected to Follow EU With China EV Tariffs, Report Says
   - [japan] BOJ’s Deputy Chief Flags AI’s Possible Impact on Neutral Rate
   - [taiwan] Weekly news roundup: Musk looms large as AI chip boom drives capacity expansion and geopolitical risks
-  - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows
   - [japan] Japan's Rapidus To Help 17 Companies Design Chips For Clients, Nikkei Says
   - [japan] Interview: The role of reflation policy has ended, and demand expansion from here is a "risk" - Former Bank of
@@ -55,8 +57,6 @@ Total: 2888 manchetes
   - [japan] Sources of Changes in Current Account Balances (Projections for Oct.)
   - [korea] Mortgage interest rates are also ‘fluctuating’… Will interest rates rise further due to the additional hike by
   - [china] U.K. is said to plan tariffs on Chinese EVs under pressure from EU
-  - [china] Britain set to levy tariffs on Chinese electric cars, The Times reports
-  - [japan] Is a variable type home loan still more advantageous? Should I switch to a fixed rate due to concerns that wil
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2888 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T07:02:47+00:00",
+      "published_utc": "2026-10-05T07:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
