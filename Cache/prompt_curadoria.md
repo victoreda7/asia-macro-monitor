@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-04T23:52:44.536899+00:00
-Total: 2857 manchetes
+Última coleta: 2026-10-05T00:02:45.612579+00:00
+Total: 2856 manchetes
 
-  🇯🇵 Japão          1218
+  🇯🇵 Japão          1217
   🇨🇳 China          758
-  🇹🇼 Taiwan         237
-  🇰🇷 Coreia do Sul  644
+  🇹🇼 Taiwan         236
+  🇰🇷 Coreia do Sul  645
 
 ## O que já está no feed (não repita)
 
   - [japan] Sources of Changes in Current Account Balances (Projections for Oct.)
   - [japan] Extraordinary Diet convenes today to debate consumption tax reduction bill, etc.
+  - [korea] Mortgage interest rates are also ‘fluctuating’… Will interest rates rise further due to the additional hike by
   - [china] U.K. is said to plan tariffs on Chinese EVs under pressure from EU
   - [china] Britain set to levy tariffs on Chinese electric cars, The Times reports
   - [japan] Is a variable type home loan still more advantageous? Should I switch to a fixed rate due to concerns that wil
@@ -56,7 +57,6 @@ Total: 2857 manchetes
   - [korea] "The Federal Reserve and the Bank of Korea will freeze interest rates in October... USD-KRW 1,345-1,370 expect
   - [korea] US firms add just 29,000 Jobs, unemployment rate ticks up
   - [korea] The Bank of Korea said, “Raising interest rates will help stabilize inflation and housing prices.”
-  - [japan] What will happen to the relationship between Prime Minister Takaichi, who was supposed to be a ``reflationist,
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2857 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-04T23:52:44+00:00",
+      "published_utc": "2026-10-05T00:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
