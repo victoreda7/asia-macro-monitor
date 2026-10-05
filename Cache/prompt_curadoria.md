@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T05:32:45.389880+00:00
+Última coleta: 2026-10-05T05:42:43.698533+00:00
 Total: 2888 manchetes
 
   🇯🇵 Japão          1232
@@ -17,9 +17,9 @@ Total: 2888 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Takaichi pledges fiscal discipline as Japan’s debt bill rises
   - [taiwan] Taiwan's September Inflation Likely Exceeded 2%, WSJ Poll Shows — Market Talk
   - [japan] Bank of Japan's output gap increases by 0.55% in April-June quarter, supporting continued interest rate hike (
-  - [japan] Takaichi pledges fiscal discipline as Japan's debt bill rises
   - [japan] Japan’s PMI data signals cooling momentum across manufacturing and services
   - [japan] Output Gap, Potential Growth Rate, and Labor Market Indicators
   - [china] Weekly Recap: ’26 9–10% currency-neutral guidance and China push
@@ -116,7 +116,7 @@ Total: 2888 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T05:32:45+00:00",
+      "published_utc": "2026-10-05T05:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
