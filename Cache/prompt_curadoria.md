@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T00:02:45.612579+00:00
-Total: 2856 manchetes
+Última coleta: 2026-10-05T00:12:44.025000+00:00
+Total: 2857 manchetes
 
-  🇯🇵 Japão          1217
+  🇯🇵 Japão          1218
   🇨🇳 China          758
   🇹🇼 Taiwan         236
   🇰🇷 Coreia do Sul  645
 
 ## O que já está no feed (não repita)
 
+  - [japan] Reflationist ex-BOJ policymaker calls end to low rates, big spending
   - [japan] Sources of Changes in Current Account Balances (Projections for Oct.)
   - [japan] Extraordinary Diet convenes today to debate consumption tax reduction bill, etc.
   - [korea] Mortgage interest rates are also ‘fluctuating’… Will interest rates rise further due to the additional hike by
@@ -56,7 +57,6 @@ Total: 2856 manchetes
   - [japan] U.S. employment statistics show a lower-than-expected 29,000 increase in September...unemployment rate rises f
   - [korea] "The Federal Reserve and the Bank of Korea will freeze interest rates in October... USD-KRW 1,345-1,370 expect
   - [korea] US firms add just 29,000 Jobs, unemployment rate ticks up
-  - [korea] The Bank of Korea said, “Raising interest rates will help stabilize inflation and housing prices.”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2856 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T00:02:45+00:00",
+      "published_utc": "2026-10-05T00:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
