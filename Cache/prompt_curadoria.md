@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T03:23:33.830651+00:00
+Última coleta: 2026-10-05T03:32:46.685924+00:00
 Total: 2871 manchetes
 
   🇯🇵 Japão          1227
@@ -17,13 +17,14 @@ Total: 2871 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ says AI boom may have eased financial conditions, warns of market risks
   - [china] ZAWYA: Egypt’s food industry exports to China rise 21% YoY in 8 months
+  - [japan] Extraordinary National Diet convenes to debate bills such as “Food consumption tax reduction” bill
   - [japan] Yen Holds Steady as Traders Await Economic Data
-  - [korea] “국채금리 5% 넘어서는데 대출금리 어디까지 오르나”…국내 금융시장 금리 압박 커져
-  - [japan] 高市首相が迫られる年末の｢重大決断｣ ､議員定数削減｢先送り論｣台頭で現実味を増す自維連立"崩壊"の危うい足音 | 政治・経済・投資 | 東洋経済オンライン
+  - [korea] “The government bond interest rate is over 5%, so how much will the loan interest rate rise?” Increasing press
+  - [japan] Prime Minister Takaichi will be forced to make a major decision at the end of the year, and with the rise of t
   - [taiwan] Taiwan dollar gains most among muted Asian currencies
   - [taiwan] Shield AI expands Taiwan supply chain in sovereign AI push
-  - [china] UK Expected to Follow EU With Tariffs on Chinese EVs, Times Says
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows
   - [japan] Japan's Rapidus To Help 17 Companies Design Chips For Clients, Nikkei Says
@@ -34,7 +35,6 @@ Total: 2871 manchetes
   - [japan] Reflationist ex-BOJ policymaker calls end to low rates, big spending
   - [japan] JGBs Mixed Ahead of Expected Extraordinary Diet Session in Japan — Market Talk
   - [japan] Sources of Changes in Current Account Balances (Projections for Oct.)
-  - [japan] Extraordinary Diet convenes today to debate consumption tax reduction bill, etc.
   - [korea] Mortgage interest rates are also ‘fluctuating’… Will interest rates rise further due to the additional hike by
   - [china] U.K. is said to plan tariffs on Chinese EVs under pressure from EU
   - [china] Britain set to levy tariffs on Chinese electric cars, The Times reports
@@ -42,6 +42,7 @@ Total: 2871 manchetes
   - [japan] Although he was almost seriously injured due to tiles falling off the exterior wall...the condominium manageme
   - [japan] The “biggest problem” of the Japanese economy is not “fiscal deficit” but “corporate surplus” (Diamond Online)
   - [china] Britain expected to impose tariffs on Chinese electric cars, The Times reports
+  - [china] UK Expected to Follow EU With Tariffs on Chinese EVs, Times Says
   - [japan] It's not Prime Minister Takaichi's fault or the Bank of Japan's fault...The name of the politician pointed out
   - [japan] <Special Discussion> The US could impose up to 100% tariffs on countries that support Russia...If the Democrat
   - [japan] ``It is best for the petrochemical business to be independent,'' says Resonac CFO, who is in a hurry to focus 
@@ -56,7 +57,6 @@ Total: 2871 manchetes
   - [japan] Is it no longer reliable? ...The Bank of Japan will also quietly make a decision in 2026. Why Hello Work's eff
   - [japan] Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide
   - [japan] Kringle Pharma, a drug discovery venture from Osaka University and Keio University, is expected to reduce its 
-  - [korea] On September 15, the "2026 BOK Regional Economic Symposium" was held at the Lotte City Hotel in Daej..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2871 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T03:23:34+00:00",
+      "published_utc": "2026-10-05T03:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
