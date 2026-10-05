@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T21:32:47.054293+00:00
-Total: 2921 manchetes
+Última coleta: 2026-10-05T21:42:47.256199+00:00
+Total: 2922 manchetes
 
   🇯🇵 Japão          1247
   🇨🇳 China          771
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  653
+  🇰🇷 Coreia do Sul  654
 
 ## O que já está no feed (não repita)
 
   - [taiwan] SPCX Stock Ends Higher On Starship Fuel Plans, Analyst Optimism And TSMC Talks
+  - [korea] South Korea FX Reserves End Three-Month Rising Streak
   - [japan] Nasdaq hits new high; buy tech stocks even as long-term interest rates rise
   - [china] Behind Germany's far-right AfD's rise is the "China Shock"...China's industrial competitiveness is exporting t
   - [japan] Prime Minister Takaichi seeks understanding on consumption tax cut, opposition parties plan to provide financi
@@ -56,7 +57,6 @@ Total: 2921 manchetes
   - [korea] Mortgage interest rates around 7%... Additional increases add to the burden
   - [japan] Bank of Japan's output gap increases by 0.55% in April-June quarter, supporting continued interest rate hike (
   - [japan] Japan’s PMI data signals cooling momentum across manufacturing and services
-  - [japan] Output Gap, Potential Growth Rate, and Labor Market Indicators
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2921 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T21:32:47+00:00",
+      "published_utc": "2026-10-05T21:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

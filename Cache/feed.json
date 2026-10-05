@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-05T21:32:47.054293+00:00",
- "collected_at_utc": "2026-10-05T21:32:47.054293+00:00",
+ "generated_at_utc": "2026-10-05T21:42:47.256199+00:00",
+ "collected_at_utc": "2026-10-05T21:42:47.256199+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2921,
+ "count": 2922,
  "by_region": {
   "japan": 1247,
   "china": 771,
   "taiwan": 250,
-  "korea": 653
+  "korea": 654
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-05T21:12:21+00:00"
+   "newest": "2026-10-05T21:32:51+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-05T21:11:08+00:00"
+   "newest": "2026-10-05T21:40:14+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-05T21:31:57+00:00"
+   "newest": "2026-10-05T21:41:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T16:46:27+00:00"
+   "newest": "2026-10-05T21:14:45+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T02:30:01+00:00"
+   "newest": "2026-10-03T09:43:57+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-06T06:00:00+09:00"
+   "newest": "2026-10-06T06:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -359,6 +359,23 @@
    "live_wire": true,
    "manual": false,
    "id": "07649dd8fda903f8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea FX Reserves End Three-Month Rising Streak",
+   "url": "https://www.tradingview.com/news/te_news:589660:0-south-korea-fx-reserves-end-three-month-rising-streak/",
+   "published_utc": "2026-10-05T21:24:34+00:00",
+   "title_original": "South Korea FX Reserves End Three-Month Rising Streak",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ef6e3b961fce627b"
   },
   {
    "source_id": "nhk_economy",
@@ -4007,7 +4024,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "KB Think",
+   "source_name": "kbthink.com",
    "title_en": "SSBT \"The Bank of Korea freezes in October... If core prices rise, it will rise in November.\"",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nNXBueTBMUmFqVXl3QTBDV2h0REU3YTQ0bUVaT0h1TUFacXhCUkJOdlNzckRqb3hhbjg1ZUlHT1J2a0dfQkM2dmFLcXhLdEVuVXgyRk4yRGxCcnF6T2xBcDdrUUVaaGVkRXBjaWNKVWluQQ?oc=5",
    "published_utc": "2026-10-02T01:29:23+00:00",
@@ -7510,6 +7527,24 @@
    "id": "c7757a0a89873e66"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "华龙网",
+   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByYTRmczlSYUFmcGt3ZzRoelBXVDBiYUluOUJKd0lVWGxMOFYzUWcwUmMyOXhZbW1DTjFyUFRqVVlKeS0wdk9JVWhzQlBSMENraEx0bkNUWGp3cEtMeGRiaENwbzB1aHUwOUNB?oc=5",
+   "published_utc": "2026-09-30T23:00:08+00:00",
+   "title_original": "央行将开展12000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "dbe0eac8f5d46bda"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Bank Of Japan Tankan Survey Due On Thursday",
@@ -7877,7 +7912,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "v.daum.net",
    "title_en": "Household loans continue to increase despite increases in base and loan interest rates",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JQ01TRFNfTWQyTWM2amxfMUZtNmc5UkFhRDJLaUVUMnoydFpvZ09NekFheDJFNkpzTjN1N2hTcHRYXzhZeUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOUDc4M2ZyOUhwMVl5VFFFWVNLMk54UmlYTk5qdlJTUUdibFJwMENJajlGbHBNb0NJSnlsU2dVN0VMZmxpQWNZdTFvNA?oc=5",
    "published_utc": "2026-09-30T15:01:38+00:00",
    "title_original": "기준금리·대출금리 상승에도 가계대출 증가세 여전",
    "region": "korea",
@@ -7888,7 +7923,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b11a7832d2a60e8"
+   "id": "c2f2c0f11d73ecee"
   },
   {
    "source_id": "korea_herald_biz",
@@ -9261,7 +9296,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "mediapen.com",
+   "source_name": "미디어펜",
    "title_en": "Bank term deposit interest rate exceeds 4% in “only 2 years and 3 months”",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xc1RoVzFWcFZscDJJZHF5d0g1QkdsVER1dElBNERWV2dGQmVEVVdnR1pkbG04dHA3QUgzTGdHaVpKd2I4TjlpQXNSWWpONXZJUkZkVdIBWEFVX3lxTE1VWjc0S0ljczhZUmZQOUJCQmEwRHN5aEtyRzBEU2hTa3RRTkUwdUd0NDVyaGRMcTF1a0FDS2c4VGpDbWRNWDZhZ1lidUVZOWRXUVVUT3c3MWs?oc=5",
    "published_utc": "2026-09-30T03:59:26+00:00",
@@ -9434,7 +9469,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "biz.chosun.com",
+   "source_name": "Chosunbiz",
    "title_en": "Highest mortgage interest rate in 45 months... Credit loans exceed 6% in 20 months - Chosun Biz",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTUQ1WURsTXFpU1ZhU0gwQjFMaVR2cDh5bUg1ZGhMZzRTU2FrV1ZTNnItZUN4eEZrbUR6eURSODR5dmo2eDExZEtKQXFTTDhYTVVJcnBoWXJLRTdfRTNwTnZscGFEWS13cG9qdDlqUEY5bGd5N0NRRkQwdjZ0TnFvbV92dDN1UdIBmgFBVV95cUxPYk4zaHMyYVVnLUdRam54QlVKMmx5MFBiT3JjLXZOUXZzZnZnWkNGeEdTSnhKSV8zeUItUE1ZWUdFTHVMN19kVk1kcERfRDNVa2VkRHVGRWI4a1M0MHZZWEZsaHJRNDlmUWdNeHdPd1dUWkxzQy01VktLR1Z5MEZaa1o4VUQ5dF9aS3B5bWdHTU5SV3VLSjhwbTVB?oc=5",
    "published_utc": "2026-09-30T03:00:00+00:00",
@@ -9658,10 +9693,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
+   "source_name": "同花顺财经",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out 833.5 billion yuan of overnight reverse repurchase operations.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44Vkw4SW1STVY0T3lnbVlYVS0zN2RfUU0zTnV2UkxHN21uMHJITEtZVVR3eUsyUVZZMm5KVkl0MjIxWDhZZWZzbzhjWV8xZERFX2YzbjdDclpaTzRhQS02Qg?oc=5",
-   "published_utc": "2026-09-30T01:26:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdy1vXzlVSWJ5MHBBX1Y3emNjeS1wNDRDZjFocHNCTXZ1ekZyRGhTVW1nOEFVeUZ2eEdOY3Q0VUVfQnlXXzdPQ09DVm9iV2FqSkpCZ0w4UHJ5RWtGX1E?oc=5",
+   "published_utc": "2026-09-30T01:23:15+00:00",
    "title_original": "央行9月30日7天期逆回购操作量为零 同时开展8335亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -9672,7 +9707,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7d767ba34ee55525"
+   "id": "b61a80a8ec981a5a"
   },
   {
    "source_id": "gn_kr_bok",
@@ -10222,24 +10257,6 @@
    "id": "5181a9d6f388a7ad"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "封面新闻",
-   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SQmhYYWFGeElzRkZqNkhZRmYyMEtuZWlCN3EyTU0xeXVhQkd1cDdxVnJobkhxeGNEU0JKcmNTcElSWGhFNnRBZW5FLXpvNU1haS13ajVHR0ZKdzdHRHpsNDB0SVk1cG1RbmNhZFV2WHV0Q3pIRDQw?oc=5",
-   "published_utc": "2026-09-29T19:46:00+00:00",
-   "title_original": "央行将开展12000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0072aa546315a0e9"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Global currency divergence: Banxico, BoJ and ECB chart independent paths from the Fed",
@@ -10761,7 +10778,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "specialtimes.co.kr",
+   "source_name": "스페셜타임스",
    "title_en": "How the base interest rate increase affects my loan interest... What determines the interest rate?",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pVk1JV0p0ZTc4NzdWc04zdC0weVJST2o4V3dUZlo4TFQxMzNNcGJsUTRfbDhIeldaRzNGMUpmak80WmtpNnNBT0g5d0w2NmNhSnJYV3JmN0lNdnZwbjdMcmhpdW1jcmFMenVSM3pQS2tzNFk?oc=5",
    "published_utc": "2026-09-29T13:07:28+00:00",
@@ -12135,7 +12152,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "KB Think",
+   "source_name": "kbthink.com",
    "title_en": "Semiconductors are booming, so why are they hesitating to raise additional prices? The key is ‘domestic demand’",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zUnh0N05fSDMybDZ5VWVtYWxTRTNJSEM1UHhvOHE1M2UzVXAzT3BsZUJsOU1PdlN3amd6NXdhMXRXM2lpdzlrWWc0aHhDcDRFeFhqcEdQNHFZUFFQVXdpTEVtMDNBeEtyWm5DTXN0VjFqUQ?oc=5",
    "published_utc": "2026-09-28T23:18:33+00:00",
@@ -36661,7 +36678,7 @@
   },
   {
    "source_id": "gn_jp_kyodo",
-   "source_name": "english.kyodonews.net",
+   "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Japan gov't mulls increasing budget for Okinawa development",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jUkVuSXBxcW5tdUJiSVNteWNIR09WUnFFa1NqM3ZTdHFEWFhOdFNkd1BsbFBIUzViV0ZNRndINXU1THMzN0xlOFdhV19tZ0ZQNmpGRVpadHJ4QQ?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
