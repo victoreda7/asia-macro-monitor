@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T08:42:44.637108+00:00
-Total: 2892 manchetes
+Última coleta: 2026-10-05T08:52:46.789696+00:00
+Total: 2895 manchetes
 
-  🇯🇵 Japão          1236
+  🇯🇵 Japão          1237
   🇨🇳 China          763
-  🇹🇼 Taiwan         244
-  🇰🇷 Coreia do Sul  649
+  🇹🇼 Taiwan         245
+  🇰🇷 Coreia do Sul  650
 
 ## O que já está no feed (não repita)
 
+  - [japan] Asian currencies weaken as dollar gains, euro hits 17-month low
+  - [taiwan] Taiwan Forex Reserves Edge Lower
   - [japan] Rapidus collaborates with 17 semiconductor design companies to attract attention for mass production
   - [china] QCOM Gains Overnight After Patent Deal With China’s Huawei Covering AI Chip Tech
   - [japan] Japan service sector growth slows in September, PMI shows By Investing.com
@@ -55,8 +57,6 @@ Total: 2892 manchetes
   - [korea] If the loan interest rate rises, house prices fall after 6 months.
   - [japan] Japan service sector activity slows from 5-month high, PMI shows
   - [japan] BOJ's Uchida flags AI's mixed impacts on productivity
-  - [japan] Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)
-  - [japan] Reflationist ex-BOJ policymaker calls end to low rates, big spending
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2892 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T08:42:44+00:00",
+      "published_utc": "2026-10-05T08:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
