@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T03:03:17.690357+00:00
-Total: 2869 manchetes
+Última coleta: 2026-10-05T03:12:58.218665+00:00
+Total: 2870 manchetes
 
-  🇯🇵 Japão          1226
+  🇯🇵 Japão          1227
   🇨🇳 China          758
   🇹🇼 Taiwan         240
   🇰🇷 Coreia do Sul  645
@@ -18,6 +18,7 @@ Total: 2869 manchetes
 ## O que já está no feed (não repita)
 
   - [china] ZAWYA: Egypt’s food industry exports to China rise 21% YoY in 8 months
+  - [japan] Yen Holds Steady as Traders Await Economic Data
   - [korea] “국채금리 5% 넘어서는데 대출금리 어디까지 오르나”…국내 금융시장 금리 압박 커져
   - [japan] 高市首相が迫られる年末の｢重大決断｣ ､議員定数削減｢先送り論｣台頭で現実味を増す自維連立"崩壊"の危うい足音 | 政治・経済・投資 | 東洋経済オンライン
   - [taiwan] Taiwan dollar gains most among muted Asian currencies
@@ -56,7 +57,6 @@ Total: 2869 manchetes
   - [japan] Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide
   - [japan] Kringle Pharma, a drug discovery venture from Osaka University and Keio University, is expected to reduce its 
   - [korea] On September 15, the "2026 BOK Regional Economic Symposium" was held at the Lotte City Hotel in Daej..
-  - [korea] The prolonged high interest rate has increased the interest expense on loans borne by households by
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2869 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T03:03:17+00:00",
+      "published_utc": "2026-10-05T03:12:58+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
