@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T12:52:46.338389+00:00
-Total: 2910 manchetes
+Última coleta: 2026-10-05T13:02:45.874765+00:00
+Total: 2911 manchetes
 
   🇯🇵 Japão          1245
-  🇨🇳 China          766
+  🇨🇳 China          767
   🇹🇼 Taiwan         245
   🇰🇷 Coreia do Sul  654
 
 ## O que já está no feed (não repita)
 
+  - [china] Antimony Market Faces a Nov. 27 Export-Control Deadline from China
   - [japan] Japan and Australia finance ministers meet to launch new dialogue framework
   - [taiwan] Musk hints TSMC may join his mega chip venture, and Intel's stock is taking a hit
   - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
@@ -56,7 +57,6 @@ Total: 2910 manchetes
   - [korea] “The government bond interest rate is over 5%, so how much will the loan interest rate rise?” Increasing press
   - [japan] Prime Minister Takaichi will be forced to make a major decision at the end of the year, and with the rise of t
   - [taiwan] Taiwan dollar gains most among muted Asian currencies
-  - [taiwan] TSMC emerges as potential Terafab partner as suppliers see over 80% chance of Musk deal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2910 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T12:52:46+00:00",
+      "published_utc": "2026-10-05T13:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
