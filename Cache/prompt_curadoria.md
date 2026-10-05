@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T15:22:46.635104+00:00
-Total: 2917 manchetes
+Última coleta: 2026-10-05T15:32:45.271915+00:00
+Total: 2918 manchetes
 
   🇯🇵 Japão          1246
-  🇨🇳 China          768
+  🇨🇳 China          769
   🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  654
 
 ## O que já está no feed (não repita)
 
+  - [china] UK considering tariffs on Chinese car imports
   - [taiwan] Intel Stock Tumbles -- TSMC Eyes Elon Musk's Terafab Project
   - [taiwan] Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses
   - [japan] Focus is on “reduction of consumption tax on food products” Extraordinary Diet session convened
@@ -56,7 +57,6 @@ Total: 2917 manchetes
   - [taiwan] TSMC, Intel named as Musk's Terafab ambitions face reality check
   - [china] China-EU Trade Talks Unlikely to Result in Major Breakthroughs — Market Talk
   - [taiwan] Tesla Stock Rises Overnight After Musk Says ‘Something May Come Of’ TSMC Talks On Terafab
-  - [china] Tata's Assam chip unit is almost ready, and a non-China supply chain is in place
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2917 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T15:22:46+00:00",
+      "published_utc": "2026-10-05T15:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
