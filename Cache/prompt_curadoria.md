@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T07:32:44.955725+00:00
-Total: 2890 manchetes
+Última coleta: 2026-10-05T07:42:45.818330+00:00
+Total: 2892 manchetes
 
-  🇯🇵 Japão          1233
-  🇨🇳 China          762
+  🇯🇵 Japão          1235
+  🇨🇳 China          763
   🇹🇼 Taiwan         245
-  🇰🇷 Coreia do Sul  650
+  🇰🇷 Coreia do Sul  649
 
 ## O que já está no feed (não repita)
 
+  - [china] QCOM Gains Overnight After Patent Deal With China’s Huawei Covering AI Chip Tech
+  - [japan] Japan service sector growth slows in September, PMI shows By Investing.com
+  - [japan] Nikkei stock index retakes 70,000, 1st time since July, as Fed rate hike prospects dim
   - [japan] BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology
   - [japan] Bank of Japan New Building Blocks "Shogun's Road", Great Proposal from Tanzan to Pope...Road Replacement Opera
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
@@ -54,9 +57,6 @@ Total: 2890 manchetes
   - [japan] Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)
   - [japan] Reflationist ex-BOJ policymaker calls end to low rates, big spending
   - [japan] JGBs Mixed Ahead of Expected Extraordinary Diet Session in Japan — Market Talk
-  - [china] As US bears down, exporters China and Vietnam establish closer transport links
-  - [japan] Sources of Changes in Current Account Balances (Projections for Oct.)
-  - [korea] Mortgage interest rates are also ‘fluctuating’… Will interest rates rise further due to the additional hike by
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2890 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T07:32:45+00:00",
+      "published_utc": "2026-10-05T07:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
