@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T07:42:45.818330+00:00
+Última coleta: 2026-10-05T07:52:43.652329+00:00
 Total: 2892 manchetes
 
   🇯🇵 Japão          1235
@@ -19,12 +19,12 @@ Total: 2892 manchetes
 
   - [china] QCOM Gains Overnight After Patent Deal With China’s Huawei Covering AI Chip Tech
   - [japan] Japan service sector growth slows in September, PMI shows By Investing.com
+  - [japan] Takaichi pledges fiscal discipline as Japan’s debt bill rises
   - [japan] Nikkei stock index retakes 70,000, 1st time since July, as Fed rate hike prospects dim
   - [japan] BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology
   - [japan] Bank of Japan New Building Blocks "Shogun's Road", Great Proposal from Tanzan to Pope...Road Replacement Opera
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
   - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
-  - [japan] Takaichi pledges fiscal discipline as Japan’s debt bill rises
   - [taiwan] Taiwan's September Inflation Likely Exceeded 2%, WSJ Poll Shows — Market Talk
   - [japan] Bank of Japan's output gap increases by 0.55% in April-June quarter, supporting continued interest rate hike (
   - [japan] Japan’s PMI data signals cooling momentum across manufacturing and services
@@ -116,7 +116,7 @@ Total: 2892 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T07:42:46+00:00",
+      "published_utc": "2026-10-05T07:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
