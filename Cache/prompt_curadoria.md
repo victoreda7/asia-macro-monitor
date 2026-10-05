@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T23:02:46.254920+00:00
+Última coleta: 2026-10-05T23:12:49.561097+00:00
 Total: 2920 manchetes
 
-  🇯🇵 Japão          1246
+  🇯🇵 Japão          1245
   🇨🇳 China          771
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  654
+  🇰🇷 Coreia do Sul  655
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hanmi Semiconductor Co Wins 24.5 Billion Won Order
   - [japan] Bank of Japan to determine that underlying inflation has reached 2% at meeting this month (Jiji Press)
   - [japan] <Machine tool orders> The summer decline continues to be strong, with August orders reaching 197.8 billion yen
   - [japan] Threatening complaints were made, but an "unexpected savior" appeared during the "litigation trouble" with a b
@@ -56,7 +57,6 @@ Total: 2920 manchetes
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
   - [japan] Takaichi Faces Test of Economic Agenda as Japan Parliament Opens
   - [china] COMMENTARY: India may be best placed to fill a China-sized hole in fuel exports
-  - [taiwan] Taiwan's September Inflation Likely Exceeded 2%, WSJ Poll Shows — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2920 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T23:02:46+00:00",
+      "published_utc": "2026-10-05T23:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
