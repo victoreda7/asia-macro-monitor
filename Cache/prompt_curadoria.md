@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T09:02:46.914471+00:00
-Total: 2898 manchetes
+Última coleta: 2026-10-05T09:12:45.603511+00:00
+Total: 2900 manchetes
 
   🇯🇵 Japão          1240
   🇨🇳 China          763
   🇹🇼 Taiwan         245
-  🇰🇷 Coreia do Sul  650
+  🇰🇷 Coreia do Sul  652
 
 ## O que já está no feed (não repita)
 
@@ -23,6 +23,7 @@ Total: 2898 manchetes
   - [taiwan] Taiwan Forex Reserves Edge Lower
   - [japan] Rapidus collaborates with 17 semiconductor design companies to attract attention for mass production
   - [japan] Japan farm minister retracts controversial budget remarks, makes apology
+  - [korea] Should I sell stocks and deposit money? Bankers’ deposit interest rate ‘increase rally’
   - [china] QCOM Gains Overnight After Patent Deal With China’s Huawei Covering AI Chip Tech
   - [japan] Japan service sector growth slows in September, PMI shows By Investing.com
   - [japan] Takaichi pledges fiscal discipline as Japan’s debt bill rises
@@ -32,6 +33,7 @@ Total: 2898 manchetes
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
   - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
   - [taiwan] Taiwan's September Inflation Likely Exceeded 2%, WSJ Poll Shows — Market Talk
+  - [korea] Mortgage interest rates around 7%... Additional increases add to the burden
   - [japan] Bank of Japan's output gap increases by 0.55% in April-June quarter, supporting continued interest rate hike (
   - [japan] Japan’s PMI data signals cooling momentum across manufacturing and services
   - [japan] Output Gap, Potential Growth Rate, and Labor Market Indicators
@@ -55,8 +57,6 @@ Total: 2898 manchetes
   - [japan] BOJ’s Deputy Chief Flags AI’s Possible Impact on Neutral Rate
   - [taiwan] Weekly news roundup: Musk looms large as AI chip boom drives capacity expansion and geopolitical risks
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows
-  - [japan] Japan's Rapidus To Help 17 Companies Design Chips For Clients, Nikkei Says
-  - [japan] Interview: The role of reflation policy has ended, and demand expansion from here is a "risk" - Former Bank of
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2898 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T09:02:47+00:00",
+      "published_utc": "2026-10-05T09:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
