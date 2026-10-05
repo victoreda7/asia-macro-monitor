@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T11:02:46.492887+00:00
-Total: 2905 manchetes
+Última coleta: 2026-10-05T11:12:44.781420+00:00
+Total: 2907 manchetes
 
-  🇯🇵 Japão          1241
+  🇯🇵 Japão          1243
   🇨🇳 China          766
   🇹🇼 Taiwan         244
   🇰🇷 Coreia do Sul  654
 
 ## O que já está no feed (não repita)
 
+  - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
   - [japan] Bank of Japan Deputy Governor Uchida AI “moves the financial environment more accommodatively” (TBS NEWS DIG P
   - [japan] After making an internal report about deficiencies in the remittance system at the Bank of Japan, she was bann
   - [japan] Asian currencies weaken as dollar gains, euro hits 17-month low
@@ -31,7 +32,7 @@ Total: 2905 manchetes
   - [japan] BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology
   - [japan] Bank of Japan New Building Blocks "Shogun's Road", Great Proposal from Tanzan to Pope...Road Replacement Opera
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
-  - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
+  - [japan] Takaichi Faces Test of Economic Agenda as Japan Parliament Opens
   - [china] COMMENTARY: India may be best placed to fill a China-sized hole in fuel exports
   - [taiwan] Taiwan's September Inflation Likely Exceeded 2%, WSJ Poll Shows — Market Talk
   - [korea] Mortgage interest rates around 7%... Additional increases add to the burden
@@ -56,7 +57,6 @@ Total: 2905 manchetes
   - [taiwan] Shield AI expands Taiwan supply chain in sovereign AI push
   - [japan] BOJ’s Deputy Chief Flags AI’s Possible Impact on Neutral Rate
   - [taiwan] Weekly news roundup: Musk looms large as AI chip boom drives capacity expansion and geopolitical risks
-  - [japan] Japan services PMI misses forecasts in September as private-sector growth slows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2905 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T11:02:46+00:00",
+      "published_utc": "2026-10-05T11:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
