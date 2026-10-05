@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-05T05:22:43.459948+00:00",
- "collected_at_utc": "2026-10-05T05:22:43.459948+00:00",
+ "generated_at_utc": "2026-10-05T05:32:45.389880+00:00",
+ "collected_at_utc": "2026-10-05T05:32:45.389880+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2883,
+ "count": 2888,
  "by_region": {
-  "japan": 1230,
-  "china": 762,
-  "taiwan": 244,
-  "korea": 647
+  "japan": 1232,
+  "china": 763,
+  "taiwan": 245,
+  "korea": 648
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-05T13:30:00+09:00"
+   "newest": "2026-10-05T14:26:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-05T13:48:08+09:00"
+   "newest": "2026-10-05T13:48:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-01T05:56:21+00:00"
+   "newest": "2026-10-01T08:17:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-05T05:21:01+00:00"
+   "newest": "2026-10-05T05:31:44+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-04T22:19:25+00:00"
+   "newest": "2026-10-05T01:19:50+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T04:05:02+00:00"
+   "newest": "2026-10-05T05:16:30+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -345,6 +345,57 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Taiwan's September Inflation Likely Exceeded 2%, WSJ Poll Shows — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261005000203:0/",
+   "published_utc": "2026-10-05T05:29:00+00:00",
+   "title_original": "Taiwan's September Inflation Likely Exceeded 2%, WSJ Poll Shows — Market Talk",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3f13fb9a57191952"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "news.yahoo.co.jp",
+   "title_en": "Bank of Japan's output gap increases by 0.55% in April-June quarter, supporting continued interest rate hike (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSTNTUFZOZmtlQnA2NEZ2X1RRUDFpY1I1bEhaRGZnbFdZTndlTjhTV0l1VzBEYTc3bXRYSTBMZHk1YlAxMFRvZ3BYM2RPWXpkVEt6WElUZTNPanNXX2l3RzRBR0dQRTNxdEM2OHBHNUlkemtXdGQxd1Q1cVZOSG8?oc=5",
+   "published_utc": "2026-10-05T05:16:30+00:00",
+   "title_original": "日銀版需給ギャップ、4―6月期はプラス0.55％ 利上げ継続をサポート（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "aa3187d0a4751db8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Takaichi pledges fiscal discipline as Japan's debt bill rises",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_SPN45900X:0-takaichi-pledges-fiscal-discipline-as-japan-s-debt-bill-rises/",
+   "published_utc": "2026-10-05T05:11:35+00:00",
+   "title_original": "Takaichi pledges fiscal discipline as Japan's debt bill rises",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7be081ba8f6bae10"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
    "title_en": "Japan’s PMI data signals cooling momentum across manufacturing and services",
    "url": "https://www.tradingview.com/news/seekingalpha:d2cdf20f4094b:0-japan-s-pmi-data-signals-cooling-momentum-across-manufacturing-and-services/",
@@ -377,6 +428,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1b470663e1f8bc72"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Weekly Recap: ’26 9–10% currency-neutral guidance and China push",
+   "url": "https://www.tradingview.com/news/tradingview:871561d12e945:0-weekly-recap-26-9-10-currency-neutral-guidance-and-china-push/",
+   "published_utc": "2026-10-05T05:00:00+00:00",
+   "title_original": "Weekly Recap: ’26 9–10% currency-neutral guidance and China push",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f0a516338b426f49"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -896,7 +964,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Is a variable type home loan still more advantageous? Should I switch to a fixed rate due to concerns that will increase due to the Bank of Japan's interest rate hike? \"We need 8 rate hikes to catch up\"",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zWkQzNE5HUUIzY3dFMU4wTzZycDZ0a2UwT0lmUkVFNThtTjlxWjhBaFd4MkRIUTdhSUQ5c19PQWF4NDZrQktKUnFFTFVhbW1qTm1OZy13MUdiQ19Md2ROZkF6b1J1OEoyaXBXZ3VpdnlQUF8tNVlzbGZnOTkwc0E?oc=5",
    "published_utc": "2026-10-04T22:30:35+00:00",
@@ -931,7 +999,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "The “biggest problem” of the Japanese economy is not “fiscal deficit” but “corporate surplus” (Diamond Online)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05MkFQV1ZONXJBZ2lCQTdjWGJleDdlXzlzR1dQWFpwWDI0S3lIVWFSUGQ4STBDbnhCX01xOXp0cnN6aU5XY1VIMW9LREh2NFdQUDNSajQyTVhLWWZ1dnZDaTBDUXh0NG1oeDNhSVVacDNpbzducTFfUGhrNncwZEE?oc=5",
    "published_utc": "2026-10-04T21:45:30+00:00",
@@ -999,7 +1067,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "It's not Prime Minister Takaichi's fault or the Bank of Japan's fault...The name of the politician pointed out by economists as the person responsible for the yen's depreciation (President Online)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WU2ZLT3dPZ0J1YnludC1QUFVRdHFOdEtWMldQbUZvWGp5Tm5Uc1lrUldxbmxuaWdwX3JVR01RTTJtUWY4MHJzY3lIN01PcXMyLWladjdFaDVUMFdSLTRVTGswY2hHam52VXhWMEJXM1JSbkY1N1JGSDdYZDJfSUE?oc=5",
    "published_utc": "2026-10-04T21:15:36+00:00",
@@ -1188,7 +1256,7 @@
   },
   {
    "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
+   "source_name": "news.yahoo.co.jp",
    "title_en": "Is it no longer reliable? ...The Bank of Japan will also quietly make a decision in 2026. Why Hello Work's effective job opening ratio has reached its limit",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1leGZwRjVIU2ZITjFMUERVU1lxMF9vQXN2Q0J1dUFvSFBDZXBoZlFGS19yblVBVXhTMFo2aE5EWHYwTFdLOVg0cUpSM1hRQy1QMHVRekRibUN0VUZXZ01LWDVfaHJSeTFnTEN5eV9iRGR6R0l0bzhST1VNWFhLdFE?oc=5",
    "published_utc": "2026-10-04T05:30:37+00:00",
@@ -1478,6 +1546,25 @@
    "live_wire": false,
    "manual": false,
    "id": "dec1e0335d85d2b3"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "스페셜경제",
+   "title_en": "Bank of Korea “raises interest rates twice, expects inflation and housing prices to stabilize”",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NOGs1WGhHZzJLMFg5VDF3UTdMZFI1MGZ1XzdDUmFqZEk5MFhJY2txLUNPbWxlbkdfRjZfbHl1eHM1djFXOFJ1R3dqdTJDcDdrcnQ5cDJtbGRvWHdkQXo1SGhLdi0yUG5RcnNpMw?oc=5",
+   "published_utc": "2026-10-03T01:51:28+00:00",
+   "title_original": "한은 “두 차례 금리 인상, 물가·집값 안정 기대”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "property"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a86942cdc523ecfd"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3267,7 +3354,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "kbthink.com",
+   "source_name": "KB Think",
    "title_en": "SSBT \"The Bank of Korea freezes in October... If core prices rise, it will rise in November.\"",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nNXBueTBMUmFqVXl3QTBDV2h0REU3YTQ0bUVaT0h1TUFacXhCUkJOdlNzckRqb3hhbjg1ZUlHT1J2a0dfQkM2dmFLcXhLdEVuVXgyRk4yRGxCcnF6T2xBcDdrUUVaaGVkRXBjaWNKVWluQQ?oc=5",
    "published_utc": "2026-10-02T01:29:23+00:00",
@@ -3319,7 +3406,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "매일신문",
+   "source_name": "imaeil.com",
    "title_en": "As the base interest rate rises, the CMA also gets excited... Securities company interest rate competition ‘active’",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CcjhPeVZJckFGWGYyUGxjRS0taFpsRU55Q0F1ekFQMFZuTGhicXc2bUtLU2FYdWpiLXZkWU1MczdoMGhYc0RYTktzWU9ldmRjMTRNNEVXbUNNenBzNm1FOGhn?oc=5",
    "published_utc": "2026-10-02T01:18:23+00:00",
@@ -5578,7 +5665,7 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
+   "source_name": "ft.com",
    "title_en": "EU steel exports hit by high energy costs, tariffs and China oversupply",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWxvZElxNVZsVHBRUXByUVJ5aTF3bE5TTjluQTBJUlp5VUVlM3plcDBzLVpmODltSUFnbUdlN09JSWwtdkFwSS1lSmZOTlFnSnFxbWlNd2RDWVFxWVdLSEQyREgtQl9UREZEZ1R2MmJIVlVsNmw3UnphZ3k0RHRFbHVQVEg?oc=5",
    "published_utc": "2026-10-01T04:00:49+00:00",
@@ -9878,7 +9965,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHUnRnQTVQZkREcjlKY3VoWWJhaUxUb29pVnFXaGYxX1U5N3dSSTBILVVWdHNQbHY5Z1FTSjYwckc4WnhhdHNNWHJ4ZmFJN2JiLVpubUgwb21BTlNBWUlrb0htTElxX25TQi1vaENGTVBMVmJobk9pLXZfRQ?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
@@ -11234,7 +11321,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "kbthink.com",
+   "source_name": "KB Think",
    "title_en": "Semiconductors are booming, so why are they hesitating to raise additional prices? The key is ‘domestic demand’",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zUnh0N05fSDMybDZ5VWVtYWxTRTNJSEM1UHhvOHE1M2UzVXAzT3BsZUJsOU1PdlN3amd6NXdhMXRXM2lpdzlrWWc0aHhDcDRFeFhqcEdQNHFZUFFQVXdpTEVtMDNBeEtyWm5DTXN0VjFqUQ?oc=5",
    "published_utc": "2026-09-28T23:18:33+00:00",
@@ -11682,7 +11769,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rVmZqeDhPX2dVYTNhNGhncnI1RUs0NXhFMDNlQkFCZ3MyYkJsdkNPcUl0WDdTQmpYSElFcHFYRVhhSmROVnpfQWQ5SUJxTE5PblFxNE1SN0k4SjFkWkJaV0RhSk90YjN3QlM5YVFrTFdvU3lRY1FZdjZ0LXI?oc=5",
    "published_utc": "2026-09-28T13:10:00+00:00",
@@ -12501,7 +12588,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "dhdaily.co.kr",
+   "source_name": "대한데일리",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Are fiscal-monetary policies in sync?",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmSDhSUXZrSXRKd2tGNlJJWjRaRGQxTG5LWHNMZGYzZVpIQ3NwbHZuUE9GeHkzb1FsUDhVRTJtX01QOXJqUjdUakV5ZHdkeE13Wk5PZGhQVE5OS0hJWVNVajBOaFIyNFh5WkI4?oc=5",
    "published_utc": "2026-09-28T06:34:43+00:00",
@@ -12571,7 +12658,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺",
+   "source_name": "stock.10jqka.com.cn",
    "title_en": "The central bank has invested a total of 1.1 trillion yuan in reverse repurchase for three maturities, and the funds have been stable across quarters.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56cVdSZmxTQm9kM0FfaGJKNDliNGtaWW9yc094Y2F1V0R5NjBmRFRSRzJDTGJtNWp5bTVqbTl5c3BCQVVISWIxRDBDSUhMWVZpcTRCbURwTnAwU21DTV9MOU93?oc=5",
    "published_utc": "2026-09-28T06:17:02+00:00",
@@ -23390,7 +23477,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China's State Council appoints, removes officials",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTmlyOHpLQ0syMGZkV2FEeVp1b0JfOGhQbVR1TURQeFd5Q1ZDejRQNHkzcy1lWkhBb2hoZ1BJd2R0alI3MXpkVWtjTEhhTXloRTZYRV9MVDJVOXlXUWJmOXl4NC0xOXRFLXFkelRWYlZnMUVkNkM0b0x3OXY?oc=5",
    "published_utc": "2026-09-20T07:00:00+00:00",
@@ -25281,7 +25368,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
    "published_utc": "2026-09-18T15:43:15+00:00",
@@ -25542,7 +25629,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan - CNA English News",
+   "source_name": "focustaiwan.tw",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T11:36:00+00:00",
@@ -35673,7 +35760,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "Xinhua News | China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93T0V0SG82MDNSd0djbmNKbkxmS0pMckRVYlo0YXUwdDB2eUdrdGVTQmZYZzBuRHppWGd5UlN4cmJIWXZWWmJXMHkyRkhmV0VCNUJ2WTlzblNYNTJseFhRN3hMS3UycDBMN1VMQzdFajFId0VQX2NjUUNxNlU?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -35690,7 +35777,7 @@
   },
   {
    "source_id": "gn_cn_xinhua",
-   "source_name": "english.news.cn",
+   "source_name": "Xinhua",
    "title_en": "China's State Council launches investigation into cargo ship fire in east China's Qingdao",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nbk5KVkVjWHdKclpEMXZHd05LUnVvZkg2ZThPZ3lYeVRhd0RxVGJkSVdqb1Q0NjUyWjdXc2VTemFsOTBrb0ppZ2dud2ZhYlFsTVZOQ0NyblN6X1Z1N2wtakdzMFI1emJ6LVIyQWNYZEhycDNGeEo2QXBOWnY?oc=5",
    "published_utc": "2026-09-14T07:00:00+00:00",
@@ -49320,7 +49407,7 @@
   },
   {
    "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
+   "source_name": "koreaherald.com",
    "title_en": "Economy, housing, foreign policy in focus as Assembly gears up to grill Lee government",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4td2F4UDR1SmZIWXRiRlJOQzJIa1JCeDdpNUtib3MyNVhNRzdMbzY1ekFHS1lyS1VNRXRfa0VacHlKMFlMRFd1dHktdUxfNFhYTVhMNGozYw?oc=5",
    "published_utc": "2026-09-06T07:00:00+00:00",

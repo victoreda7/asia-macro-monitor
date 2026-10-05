@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T05:22:43.459948+00:00
-Total: 2883 manchetes
+Última coleta: 2026-10-05T05:32:45.389880+00:00
+Total: 2888 manchetes
 
-  🇯🇵 Japão          1230
-  🇨🇳 China          762
-  🇹🇼 Taiwan         244
-  🇰🇷 Coreia do Sul  647
+  🇯🇵 Japão          1232
+  🇨🇳 China          763
+  🇹🇼 Taiwan         245
+  🇰🇷 Coreia do Sul  648
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's September Inflation Likely Exceeded 2%, WSJ Poll Shows — Market Talk
+  - [japan] Bank of Japan's output gap increases by 0.55% in April-June quarter, supporting continued interest rate hike (
+  - [japan] Takaichi pledges fiscal discipline as Japan's debt bill rises
   - [japan] Japan’s PMI data signals cooling momentum across manufacturing and services
   - [japan] Output Gap, Potential Growth Rate, and Labor Market Indicators
+  - [china] Weekly Recap: ’26 9–10% currency-neutral guidance and China push
   - [taiwan] Global AI servers shift production nearshore, slowing direct Taiwan exports to US
   - [korea] South Korean Won Firms Near 2024 High
   - [taiwan] TSMC, Intel named as Musk's Terafab ambitions face reality check
@@ -53,10 +57,6 @@ Total: 2883 manchetes
   - [japan] Although he was almost seriously injured due to tiles falling off the exterior wall...the condominium manageme
   - [japan] The “biggest problem” of the Japanese economy is not “fiscal deficit” but “corporate surplus” (Diamond Online)
   - [china] Britain expected to impose tariffs on Chinese electric cars, The Times reports
-  - [china] UK Expected to Follow EU With Tariffs on Chinese EVs, Times Says
-  - [china] UK Expected to Follow EU With China EV Tariffs, Times Says
-  - [japan] It's not Prime Minister Takaichi's fault or the Bank of Japan's fault...The name of the politician pointed out
-  - [japan] <Special Discussion> The US could impose up to 100% tariffs on countries that support Russia...If the Democrat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2883 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T05:22:43+00:00",
+      "published_utc": "2026-10-05T05:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
