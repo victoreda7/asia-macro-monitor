@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T17:42:44.820205+00:00
-Total: 2916 manchetes
+Última coleta: 2026-10-05T17:52:48.400668+00:00
+Total: 2917 manchetes
 
   🇯🇵 Japão          1246
   🇨🇳 China          769
-  🇹🇼 Taiwan         248
+  🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  653
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Tesla Stock Rises After Musk Confirms TSMC Talks
   - [china] Takaichi's ``aggressive fiscal policy'' is state capitalism that imitates China while viewing it as an enemy. 
   - [taiwan] Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses
   - [china] UK considering tariffs on Chinese car imports
@@ -56,7 +57,6 @@ Total: 2916 manchetes
   - [taiwan] Global AI servers shift production nearshore, slowing direct Taiwan exports to US
   - [korea] South Korean Won Firms Near 2024 High
   - [taiwan] TSMC, Intel named as Musk's Terafab ambitions face reality check
-  - [china] China-EU Trade Talks Unlikely to Result in Major Breakthroughs — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2916 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T17:42:45+00:00",
+      "published_utc": "2026-10-05T17:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
