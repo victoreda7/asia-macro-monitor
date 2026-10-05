@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T15:02:47.200861+00:00
-Total: 2915 manchetes
+Última coleta: 2026-10-05T15:12:49.666945+00:00
+Total: 2917 manchetes
 
   🇯🇵 Japão          1246
   🇨🇳 China          768
-  🇹🇼 Taiwan         247
+  🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  654
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Intel Stock Tumbles -- TSMC Eyes Elon Musk's Terafab Project
   - [taiwan] Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses
   - [japan] Focus is on “reduction of consumption tax on food products” Extraordinary Diet session convened
   - [korea] Korean shipbuilders, refiners see Q3 estimates upgraded; chipmakers face cuts
@@ -32,6 +33,7 @@ Total: 2915 manchetes
   - [taiwan] Taiwan Forex Reserves Edge Lower
   - [japan] Rapidus collaborates with 17 semiconductor design companies to attract attention for mass production
   - [japan] Japan farm minister retracts controversial budget remarks, makes apology
+  - [taiwan] AMD's Lisa Su back in Taiwan as AI capacity crunch spreads beyond TSMC
   - [korea] Should I sell stocks and deposit money? Bankers’ deposit interest rate ‘increase rally’
   - [taiwan] Taiwan teams accelerate 2D semiconductor transfer with published research in Nature
   - [china] QCOM Gains Overnight After Patent Deal With China’s Huawei Covering AI Chip Tech
@@ -55,8 +57,6 @@ Total: 2915 manchetes
   - [china] China-EU Trade Talks Unlikely to Result in Major Breakthroughs — Market Talk
   - [taiwan] Tesla Stock Rises Overnight After Musk Says ‘Something May Come Of’ TSMC Talks On Terafab
   - [china] Tata's Assam chip unit is almost ready, and a non-China supply chain is in place
-  - [japan] BOJ says AI boom may have eased financial conditions, warns of market risks
-  - [china] ZAWYA: Egypt’s food industry exports to China rise 21% YoY in 8 months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2915 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T15:02:47+00:00",
+      "published_utc": "2026-10-05T15:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
