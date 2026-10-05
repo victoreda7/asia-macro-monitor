@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T08:52:46.789696+00:00
-Total: 2895 manchetes
+Última coleta: 2026-10-05T09:02:46.914471+00:00
+Total: 2898 manchetes
 
-  🇯🇵 Japão          1237
+  🇯🇵 Japão          1240
   🇨🇳 China          763
   🇹🇼 Taiwan         245
   🇰🇷 Coreia do Sul  650
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Deputy Governor Uchida AI “moves the financial environment more accommodatively” (TBS NEWS DIG P
+  - [japan] After making an internal report about deficiencies in the remittance system at the Bank of Japan, she was bann
   - [japan] Asian currencies weaken as dollar gains, euro hits 17-month low
   - [taiwan] Taiwan Forex Reserves Edge Lower
   - [japan] Rapidus collaborates with 17 semiconductor design companies to attract attention for mass production
+  - [japan] Japan farm minister retracts controversial budget remarks, makes apology
   - [china] QCOM Gains Overnight After Patent Deal With China’s Huawei Covering AI Chip Tech
   - [japan] Japan service sector growth slows in September, PMI shows By Investing.com
   - [japan] Takaichi pledges fiscal discipline as Japan’s debt bill rises
@@ -54,9 +57,6 @@ Total: 2895 manchetes
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows
   - [japan] Japan's Rapidus To Help 17 Companies Design Chips For Clients, Nikkei Says
   - [japan] Interview: The role of reflation policy has ended, and demand expansion from here is a "risk" - Former Bank of
-  - [korea] If the loan interest rate rises, house prices fall after 6 months.
-  - [japan] Japan service sector activity slows from 5-month high, PMI shows
-  - [japan] BOJ's Uchida flags AI's mixed impacts on productivity
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2895 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T08:52:47+00:00",
+      "published_utc": "2026-10-05T09:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
