@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T13:12:45.421208+00:00
-Total: 2912 manchetes
+Última coleta: 2026-10-05T13:22:46.566542+00:00
+Total: 2914 manchetes
 
-  🇯🇵 Japão          1245
+  🇯🇵 Japão          1246
   🇨🇳 China          768
   🇹🇼 Taiwan         245
-  🇰🇷 Coreia do Sul  654
+  🇰🇷 Coreia do Sul  655
 
 ## O que já está no feed (não repita)
 
+  - [japan] Focus is on “reduction of consumption tax on food products” Extraordinary Diet session convened
+  - [korea] Korean shipbuilders, refiners see Q3 estimates upgraded; chipmakers face cuts
   - [china] P2P stablecoin wallets in China grew 43x despite restrictions on cryptocurrencies, according to Chainalysis
   - [china] Antimony Market Faces a Nov. 27 Export-Control Deadline from China
   - [japan] Japan and Australia finance ministers meet to launch new dialogue framework
@@ -55,8 +57,6 @@ Total: 2912 manchetes
   - [china] ZAWYA: Egypt’s food industry exports to China rise 21% YoY in 8 months
   - [japan] Extraordinary National Diet convenes to debate bills such as “Food consumption tax reduction” bill
   - [japan] Yen Holds Steady as Traders Await Economic Data
-  - [korea] “The government bond interest rate is over 5%, so how much will the loan interest rate rise?” Increasing press
-  - [japan] Prime Minister Takaichi will be forced to make a major decision at the end of the year, and with the rise of t
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2912 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T13:12:45+00:00",
+      "published_utc": "2026-10-05T13:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
