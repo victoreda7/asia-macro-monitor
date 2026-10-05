@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T22:02:46.510021+00:00
-Total: 2920 manchetes
+Última coleta: 2026-10-05T22:12:45.549598+00:00
+Total: 2922 manchetes
 
-  🇯🇵 Japão          1245
+  🇯🇵 Japão          1247
   🇨🇳 China          771
   🇹🇼 Taiwan         250
   🇰🇷 Coreia do Sul  654
 
 ## O que já está no feed (não repita)
 
+  - [japan] <Machine tool orders> The summer decline continues to be strong, with August orders reaching 197.8 billion yen
+  - [japan] Threatening complaints were made, but an "unexpected savior" appeared during the "litigation trouble" with a b
   - [taiwan] SPCX Stock Ends Higher On Starship Fuel Plans, Analyst Optimism And TSMC Talks
   - [korea] South Korea FX Reserves End Three-Month Rising Streak
   - [japan] Nasdaq hits new high; buy tech stocks even as long-term interest rates rise
@@ -55,8 +57,6 @@ Total: 2920 manchetes
   - [china] COMMENTARY: India may be best placed to fill a China-sized hole in fuel exports
   - [taiwan] Taiwan's September Inflation Likely Exceeded 2%, WSJ Poll Shows — Market Talk
   - [korea] Mortgage interest rates around 7%... Additional increases add to the burden
-  - [japan] Bank of Japan's output gap increases by 0.55% in April-June quarter, supporting continued interest rate hike (
-  - [japan] Japan’s PMI data signals cooling momentum across manufacturing and services
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2920 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T22:02:46+00:00",
+      "published_utc": "2026-10-05T22:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
