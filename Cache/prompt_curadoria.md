@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T01:32:43.475056+00:00
+Última coleta: 2026-10-05T01:42:51.351082+00:00
 Total: 2863 manchetes
 
   🇯🇵 Japão          1226
@@ -18,10 +18,10 @@ Total: 2863 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
-  - [japan] Japan service sector activity slows from 5-month high, PMI shows
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows
   - [japan] Japan's Rapidus To Help 17 Companies Design Chips For Clients, Nikkei Says
   - [japan] Interview: The role of reflation policy has ended, and demand expansion from here is a "risk" - Former Bank of
+  - [japan] Japan service sector activity slows from 5-month high, PMI shows
   - [japan] BOJ's Uchida flags AI's mixed impacts on productivity
   - [japan] Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)
   - [japan] Reflationist ex-BOJ policymaker calls end to low rates, big spending
@@ -116,7 +116,7 @@ Total: 2863 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T01:32:43+00:00",
+      "published_utc": "2026-10-05T01:42:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
