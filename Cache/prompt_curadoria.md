@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T10:52:45.837420+00:00
-Total: 2904 manchetes
+Última coleta: 2026-10-05T11:02:46.492887+00:00
+Total: 2905 manchetes
 
   🇯🇵 Japão          1241
   🇨🇳 China          766
   🇹🇼 Taiwan         244
-  🇰🇷 Coreia do Sul  653
+  🇰🇷 Coreia do Sul  654
 
 ## O que já está no feed (não repita)
 
@@ -54,9 +54,9 @@ Total: 2904 manchetes
   - [taiwan] Taiwan dollar gains most among muted Asian currencies
   - [taiwan] TSMC emerges as potential Terafab partner as suppliers see over 80% chance of Musk deal
   - [taiwan] Shield AI expands Taiwan supply chain in sovereign AI push
-  - [china] UK Expected to Follow EU With China EV Tariffs, Report Says
   - [japan] BOJ’s Deputy Chief Flags AI’s Possible Impact on Neutral Rate
   - [taiwan] Weekly news roundup: Musk looms large as AI chip boom drives capacity expansion and geopolitical risks
+  - [japan] Japan services PMI misses forecasts in September as private-sector growth slows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2904 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T10:52:46+00:00",
+      "published_utc": "2026-10-05T11:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
