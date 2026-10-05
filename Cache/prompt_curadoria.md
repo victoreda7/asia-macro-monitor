@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T14:52:47.249526+00:00
-Total: 2914 manchetes
+Última coleta: 2026-10-05T15:02:47.200861+00:00
+Total: 2915 manchetes
 
   🇯🇵 Japão          1246
   🇨🇳 China          768
-  🇹🇼 Taiwan         246
+  🇹🇼 Taiwan         247
   🇰🇷 Coreia do Sul  654
 
 ## O que já está no feed (não repita)
@@ -33,6 +33,7 @@ Total: 2914 manchetes
   - [japan] Rapidus collaborates with 17 semiconductor design companies to attract attention for mass production
   - [japan] Japan farm minister retracts controversial budget remarks, makes apology
   - [korea] Should I sell stocks and deposit money? Bankers’ deposit interest rate ‘increase rally’
+  - [taiwan] Taiwan teams accelerate 2D semiconductor transfer with published research in Nature
   - [china] QCOM Gains Overnight After Patent Deal With China’s Huawei Covering AI Chip Tech
   - [japan] Japan service sector growth slows in September, PMI shows By Investing.com
   - [japan] Takaichi pledges fiscal discipline as Japan’s debt bill rises
@@ -56,7 +57,6 @@ Total: 2914 manchetes
   - [china] Tata's Assam chip unit is almost ready, and a non-China supply chain is in place
   - [japan] BOJ says AI boom may have eased financial conditions, warns of market risks
   - [china] ZAWYA: Egypt’s food industry exports to China rise 21% YoY in 8 months
-  - [japan] Extraordinary National Diet convenes to debate bills such as “Food consumption tax reduction” bill
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2914 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T14:52:47+00:00",
+      "published_utc": "2026-10-05T15:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
