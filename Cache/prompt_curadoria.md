@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T02:22:44.332690+00:00
-Total: 2864 manchetes
+Última coleta: 2026-10-05T02:32:46.099117+00:00
+Total: 2866 manchetes
 
-  🇯🇵 Japão          1225
+  🇯🇵 Japão          1226
   🇨🇳 China          758
-  🇹🇼 Taiwan         238
+  🇹🇼 Taiwan         239
   🇰🇷 Coreia do Sul  643
 
 ## O que já está no feed (não repita)
 
+  - [japan] 高市首相が迫られる年末の｢重大決断｣ ､議員定数削減｢先送り論｣台頭で現実味を増す自維連立"崩壊"の危うい足音 | 政治・経済・投資 | 東洋経済オンライン
   - [taiwan] Taiwan dollar gains most among muted Asian currencies
   - [china] UK Expected to Follow EU With Tariffs on Chinese EVs, Times Says
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
@@ -56,7 +57,6 @@ Total: 2864 manchetes
   - [japan] This is the complete picture of Obata's theoretical system (21st century economic theory)...Entertainment, ecs
   - [japan] Trump warmly welcomes Xi Jinping at the U.S.-China summit meeting...Why Americans' "feelings toward China have
   - [taiwan] Iranian rial at new low, as cenbank sells dollars to support currency
-  - [taiwan] Musk confirms talks with TSMC over his Texas chip factory project
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2864 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T02:22:44+00:00",
+      "published_utc": "2026-10-05T02:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
