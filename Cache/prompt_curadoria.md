@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T00:12:44.025000+00:00
-Total: 2857 manchetes
+Última coleta: 2026-10-05T00:22:48.259042+00:00
+Total: 2858 manchetes
 
-  🇯🇵 Japão          1218
-  🇨🇳 China          758
+  🇯🇵 Japão          1220
+  🇨🇳 China          757
   🇹🇼 Taiwan         236
   🇰🇷 Coreia do Sul  645
 
 ## O que já está no feed (não repita)
 
+  - [japan] Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)
+  - [japan] JGBs Mixed Ahead of Expected Extraordinary Diet Session in Japan — Market Talk
   - [japan] Reflationist ex-BOJ policymaker calls end to low rates, big spending
   - [japan] Sources of Changes in Current Account Balances (Projections for Oct.)
   - [japan] Extraordinary Diet convenes today to debate consumption tax reduction bill, etc.
@@ -55,8 +57,6 @@ Total: 2857 manchetes
   - [japan] Bank of Japan September Tankan Business conditions DI for manufacturing industry worsens Kagawa Prefecture (KS
   - [japan] The importance of the Bank of Japan's words "change in circumstances" (Hiroyuki Kubota) - Expert
   - [japan] U.S. employment statistics show a lower-than-expected 29,000 increase in September...unemployment rate rises f
-  - [korea] "The Federal Reserve and the Bank of Korea will freeze interest rates in October... USD-KRW 1,345-1,370 expect
-  - [korea] US firms add just 29,000 Jobs, unemployment rate ticks up
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2857 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T00:12:44+00:00",
+      "published_utc": "2026-10-05T00:22:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
