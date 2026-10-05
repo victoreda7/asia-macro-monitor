@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T07:12:45.939136+00:00
-Total: 2889 manchetes
+Última coleta: 2026-10-05T07:22:46.427360+00:00
+Total: 2890 manchetes
 
-  🇯🇵 Japão          1232
+  🇯🇵 Japão          1233
   🇨🇳 China          762
   🇹🇼 Taiwan         245
   🇰🇷 Coreia do Sul  650
 
 ## O que já está no feed (não repita)
 
+  - [japan] BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology
   - [japan] Bank of Japan New Building Blocks "Shogun's Road", Great Proposal from Tanzan to Pope...Road Replacement Opera
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
   - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
@@ -56,7 +57,6 @@ Total: 2889 manchetes
   - [china] As US bears down, exporters China and Vietnam establish closer transport links
   - [japan] Sources of Changes in Current Account Balances (Projections for Oct.)
   - [korea] Mortgage interest rates are also ‘fluctuating’… Will interest rates rise further due to the additional hike by
-  - [china] U.K. is said to plan tariffs on Chinese EVs under pressure from EU
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2889 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T07:12:46+00:00",
+      "published_utc": "2026-10-05T07:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
