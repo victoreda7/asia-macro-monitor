@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T05:52:46.296608+00:00
-Total: 2888 manchetes
+Última coleta: 2026-10-05T06:02:42.948454+00:00
+Total: 2889 manchetes
 
   🇯🇵 Japão          1232
-  🇨🇳 China          763
+  🇨🇳 China          764
   🇹🇼 Taiwan         245
   🇰🇷 Coreia do Sul  648
 
 ## O que já está no feed (não repita)
 
+  - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
   - [japan] Takaichi pledges fiscal discipline as Japan’s debt bill rises
   - [taiwan] Taiwan's September Inflation Likely Exceeded 2%, WSJ Poll Shows — Market Talk
   - [japan] Bank of Japan's output gap increases by 0.55% in April-June quarter, supporting continued interest rate hike (
@@ -49,14 +50,13 @@ Total: 2888 manchetes
   - [japan] Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)
   - [japan] Reflationist ex-BOJ policymaker calls end to low rates, big spending
   - [japan] JGBs Mixed Ahead of Expected Extraordinary Diet Session in Japan — Market Talk
+  - [china] As US bears down, exporters China and Vietnam establish closer transport links
   - [japan] Sources of Changes in Current Account Balances (Projections for Oct.)
   - [korea] Mortgage interest rates are also ‘fluctuating’… Will interest rates rise further due to the additional hike by
   - [china] U.K. is said to plan tariffs on Chinese EVs under pressure from EU
   - [china] Britain set to levy tariffs on Chinese electric cars, The Times reports
   - [japan] Is a variable type home loan still more advantageous? Should I switch to a fixed rate due to concerns that wil
   - [japan] Although he was almost seriously injured due to tiles falling off the exterior wall...the condominium manageme
-  - [japan] The “biggest problem” of the Japanese economy is not “fiscal deficit” but “corporate surplus” (Diamond Online)
-  - [china] Britain expected to impose tariffs on Chinese electric cars, The Times reports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2888 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T05:52:46+00:00",
+      "published_utc": "2026-10-05T06:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
