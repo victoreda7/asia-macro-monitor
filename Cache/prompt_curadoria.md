@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T00:52:46.221742+00:00
-Total: 2861 manchetes
+Última coleta: 2026-10-05T01:02:46.148002+00:00
+Total: 2862 manchetes
 
-  🇯🇵 Japão          1223
+  🇯🇵 Japão          1225
   🇨🇳 China          757
   🇹🇼 Taiwan         236
-  🇰🇷 Coreia do Sul  645
+  🇰🇷 Coreia do Sul  644
 
 ## O que já está no feed (não repita)
 
-  - [japan] Japan's Rapidus To Help 17 Companies Design Chips For Clients, Nikkei Says
   - [japan] Japan service sector activity slows from 5-month high, PMI shows
+  - [japan] Japan services PMI misses forecasts in September as private-sector growth slows
+  - [japan] Japan's Rapidus To Help 17 Companies Design Chips For Clients, Nikkei Says
+  - [japan] Interview: The role of reflation policy has ended, and demand expansion from here is a "risk" - Former Bank of
   - [japan] BOJ's Uchida flags AI's mixed impacts on productivity
   - [japan] Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)
   - [japan] Reflationist ex-BOJ policymaker calls end to low rates, big spending
@@ -55,8 +57,6 @@ Total: 2861 manchetes
   - [china] Why India’s Manufacturing Future Isn’t the China Model
   - [japan] Pros and cons of 1% food consumption tax What are the tax reduction effects?
   - [china] Can Britain really afford to diverge from EU tariffs on Chinese EVs?
-  - [japan] OPINION: Japan must improve fiscal credibility as long-term rates rise
-  - [korea] Trump Touts 'Better' South Korea Trade Deal With $8.4 Billion Oil Project, But Seoul Says It Wasn’t Part of th
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2861 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T00:52:46+00:00",
+      "published_utc": "2026-10-05T01:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

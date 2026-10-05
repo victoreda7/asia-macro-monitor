@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-05T00:52:46.221742+00:00",
- "collected_at_utc": "2026-10-05T00:52:46.221742+00:00",
+ "generated_at_utc": "2026-10-05T01:02:46.148002+00:00",
+ "collected_at_utc": "2026-10-05T01:02:46.148002+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2861,
+ "count": 2862,
  "by_region": {
-  "japan": 1223,
+  "japan": 1225,
   "china": 757,
   "taiwan": 236,
-  "korea": 645
+  "korea": 644
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-05T00:19:24+00:00"
+   "newest": "2026-10-05T00:55:30+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-05T00:18:29+00:00"
+   "newest": "2026-10-05T00:54:48+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-05T07:00:52+09:00"
+   "newest": "2026-10-05T07:00:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-04T15:39:43+00:00"
+   "newest": "2026-10-04T21:46:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-05T00:51:00+00:00"
+   "newest": "2026-10-05T01:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T00:00:02+00:00"
+   "newest": "2026-10-05T00:43:57+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-04T15:22:13+00:00"
+   "newest": "2026-10-04T08:32:04+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-04T01:02:34+00:00"
+   "newest": "2026-10-04T23:00:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Japan service sector activity slows from 5-month high, PMI shows",
+   "url": "https://www.investing.com/news/economic-indicators/japan-service-sector-activity-slows-from-5month-high-pmi-shows-4930971",
+   "published_utc": "2026-10-05T00:55:30+00:00",
+   "title_original": "Japan service sector activity slows from 5-month high, PMI shows",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4925523361cf8a56"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Japan services PMI misses forecasts in September as private-sector growth slows",
+   "url": "https://www.investing.com/news/economic-indicators/japan-services-pmi-misses-forecasts-in-september-as-privatesector-growth-slows-4930975",
+   "published_utc": "2026-10-05T00:52:53+00:00",
+   "title_original": "Japan services PMI misses forecasts in September as private-sector growth slows",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9f2cb8747686cdd1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -361,21 +395,21 @@
    "id": "a9462e699e61e858"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan service sector activity slows from 5-month high, PMI shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_ZRN00EN09:0-japan-service-sector-activity-slows-from-5-month-high-pmi-shows/",
-   "published_utc": "2026-10-05T00:30:23+00:00",
-   "title_original": "Japan service sector activity slows from 5-month high, PMI shows",
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Interview: The role of reflation policy has ended, and demand expansion from here is a \"risk\" - Former Bank of Japan member Noguchi (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16SnlFVzFDckY3Z0F5MVV2RFF6VkJnek9pYUdHeU91RTVGTmNXZFg4WVc5WnlNUUhVT1dJSjBiVzBsUFdvcVpfUXFZZTN0eXJjOGttaTRPYm5aOFhKZTNPWHkyUmdsS2ZMdXFDa3k3Wm9Rdl9nMkZMckE1WUo2cU0?oc=5",
+   "published_utc": "2026-10-05T00:43:57+00:00",
+   "title_original": "インタビュー：リフレ政策の役割終了、ここからの需要拡大は「リスク」＝野口元日銀委員（ロイター）",
    "region": "japan",
    "topics": [
-    "activity"
+    "monetary"
    ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
    "manual": false,
-   "id": "df1768e2365bd30f"
+   "id": "c54a61b27e52ffed"
   },
   {
    "source_id": "tradingview_live",
@@ -742,7 +776,7 @@
   },
   {
    "source_id": "gn_kr_mk",
-   "source_name": "mk.co.kr",
+   "source_name": "매일경제",
    "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
    "published_utc": "2026-10-04T08:16:47+00:00",
@@ -1471,7 +1505,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "US issues sanctions against Hamas financing network, Treasury says",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkdRRkxGNHBqcFM5b0RNbjRMU2NXeXFWUXdselk3QVNzVkNqSWw1aWdJTjQyc0VWeFNqSjB3dGtjaWdpdHZuYzVxaVdKQmM4X0lMRC10UnlzRWFndmFWUVlrU2l4NG5nR2QyNnJ0Z3AwNE91QXlVV2IzNG5RcENFVTViWEw4ek5xank2YU80OGVGRWV5RGVOcXVwZi1xSXhzaElHMWxndFFqQXQ0Q01YeHFoSllfeTJ1TWJv?oc=5",
    "published_utc": "2026-10-02T14:33:45+00:00",
@@ -2409,7 +2443,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnVzZxQmhlcTJFZHA2alpHTXNlSUliN3ZNTG9pMTdub0xqay0xRlNRV1FvZHpCMmZQZGNwbnplN1hfWkVZOXUya0pHcjVlYlk2NGw3eWFoTk14SDhNVVpvbQ?oc=5",
    "published_utc": "2026-10-02T03:47:33+00:00",
@@ -2599,7 +2633,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "TSMC, NTU deepen R&D ties through nearly 50 projects a year",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDc1ktUlVSTllTd256c3ByaWxvUFJORFhGNFFRX3h1RFdVYmoybWlzNkY3aG9UQjR3MlFiWDdGRFhDbTlrN045dWFCYTF6NXdodG1WMUlUWG5HSDNmclZidQ?oc=5",
    "published_utc": "2026-10-02T02:22:48+00:00",
@@ -3082,7 +3116,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Chinese refiners suspend October fuel exports to bolster stocks, sources say",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1hVSHNzaElkOXlpSnE5VW5DTEx5a2Z4WWt3NDFHVTd6TEhKQ3JHeFJhZDBsZXBkYy1MV29ZNjdPTGtHNlpwUEVLNEpBMUowZEItTjBraElOaGQ1U3U4NUxvWnNNM0JWeUlMVllMZkF1aHNKanVkVElwcmctX003R2dja0RsTkNXcEtZaVk5WmYzWW5KWEZpODdwUWxWOWdYYTBqVUF4SUg4ZVduWV9YdFN1RlNyZVExTWV1SGlpTE5nZnpxS3d3SmNIWVE?oc=5",
    "published_utc": "2026-10-01T23:50:57+00:00",
@@ -3682,7 +3716,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "한국데이터경제신문",
+   "source_name": "dataeconomy.co.kr",
    "title_en": "Bank of Korea's base interest rate forecast for 2026, reason for an increase despite consumer sentiment at 106.6",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NOHVSN05JZmJvc3FwYjhhRGtLbHZscHp6em1KeGl5WVVBanFxUFBRTFp4cXRTejY4d2pxbVE5T1E0OFpXVmdqel9DV3JGdjY2WW41TmZCNVVqV0FGVU1Dcml6alRDcllYV0psOXZZOULSAXRBVV95cUxNR0lnNllDUE5NSXM3cU5sNm03aklxTW5jb1UxMUljUGlhSEtCLUFUSjltRGdHZXE0ZVZhbFhxM05weHZvQXgzaTJyWGc5X0NKQ0wtemtucDJGWndqMTRfQ1QwLVF6WnVveGZBU0hKMXZ2SlRCeg?oc=5",
    "published_utc": "2026-10-01T21:10:00+00:00",
@@ -4023,7 +4057,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "China driving worrying rise in EU imports, Commission official says",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEw1ZEl0MEZJXy1VNjUxbnE4c1NmTDNOVzlUaUhfMG5iWEZYcnN1cmlTR25EbUxRZDhzMFRtMFVkS3l2bzhHdVdQWnNnVWtQTGh0dV92WFNIVVJJcU1hSFBJMGZ5QUwxTWF3X2RZTnFiemRiV0d0R3ZrVXNzb2NlYktOdUl4eWxoY3AzZFp3aGVNaXNrRFh2bHY3d2Z3dXBzcnVsa3ZpOHRnV2laUURnbg?oc=5",
    "published_utc": "2026-10-01T13:21:43+00:00",
@@ -4194,7 +4228,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "VIEW Chinese refiners suspend October fuel exports, sources say",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnExM1MyQV9LX2ZOcWJra2NUUWhBRVNqbTh2bmZHTERobzBHZ0RVX2ZhS290R3ZITnpzUzJXbjl2WFBITXN6YXotaTRLZ091V3J1MS1EOWlYeVgwOXFkZ1ZMMDZoOW5pVWhqdUNxRFhYMjRpV2pJcEcwa2ZnekZ0TkMzNGV0NUlDcXNXaUl5QS1IRGpxb3JMbzFVMTk4ZU1hQ2FpVHN5MFFTV2M5VXNJU3lCRGg?oc=5",
    "published_utc": "2026-10-01T10:01:37+00:00",
@@ -4698,7 +4732,7 @@
   },
   {
    "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "BOJ debated faster rate hikes in September, government pushed back",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdzJocjN0YVk0QkZXc0dZRUc5dWgwdHhOQmxBSWNsV0JfVnBMd2JIY0U0OGwzdnh0V0VjamtrWnhQeHNSTC1abDZraUI5OGN2MTFwZDBXN2tlakJHMWNqeGZVUWFUTVJIYzhiYmMyaGNET0NZYlFaTU5OQUJZUDBuS1VGQWZYMkotb2hCZm56UThuSEpjS2FycnZUcldzdTF1Vm43bG10eVQ0S3pWc1dmdkVkN24xZFZBMDA4?oc=5",
    "published_utc": "2026-10-01T06:16:32+00:00",
@@ -5098,7 +5132,7 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "ft.com",
+   "source_name": "Financial Times",
    "title_en": "EU steel exports hit by high energy costs, tariffs and China oversupply",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWxvZElxNVZsVHBRUXByUVJ5aTF3bE5TTjluQTBJUlp5VUVlM3plcDBzLVpmODltSUFnbUdlN09JSWwtdkFwSS1lSmZOTlFnSnFxbWlNd2RDWVFxWVdLSEQyREgtQl9UREZEZ1R2MmJIVlVsNmw3UnphZ3k0RHRFbHVQVEg?oc=5",
    "published_utc": "2026-10-01T04:00:49+00:00",
@@ -5745,7 +5779,7 @@
   },
   {
    "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "South Korea's monthly exports top $120 billion for the first time on record chip sales",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnJyM2ZNTm1lLU0yWWdRY3VFSDFYdEZHV29NSzR4LVl3RUhpLXk2b0UtVExfM0VUYlBKbGVKWF80NVpONGdrcTNySU5IZDEwMjdHWWtkNUR6ZnRoMlNqWVFNRXM2RUtZZTRaTFQwVVVLMm9oWUpTcEd5YW4tUUFNMGpucVpnUU1oY29Lak9oMnBrSHp5V1REQ1F4OWpUaTdfNGRsb1AtUTNDZUo5cHNOMg?oc=5",
    "published_utc": "2026-10-01T00:23:00+00:00",
@@ -5905,7 +5939,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "How a TSMC veteran is steering Singapore's lab-to-fab chip strategy",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUtJaTNCUlJYSm02cjVFdnlDN3ZVLUZFV3pqaktUR3ktRDBLQVFWMnA3dW42WFNTWHdoMENhb2FOaHhJVlpGVlJnNHBwOWUxdGR0aDBpZW1OSXFXWXNxLURONmF5aHE4QjhOMGZaYk1uOW5lQ3pMNkE1UmgxaGd1Y01lRFJvRFJEYTBGVnhpX2FYYUxjQnJJbEplSzVnMzdqYmc?oc=5",
    "published_utc": "2026-10-01T00:11:28+00:00",
@@ -6308,7 +6342,7 @@
   },
   {
    "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "PREVIEW BOJ's policy pivot opens scope for faster rate hikes",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGJiVXhXeVJaNndSQVh4MVZZZTM0UXFkU3FJMWVkNzdwYXpDZTBCU1MzNldhbFdqUWlMXzYxN0djc2tXQ1R0UTV1Q2dCckVadDNrMk5hR2F5UnhoZFgxb1B3ek9PWEFkZk5uc1c4cG5JaENRNXEtUV9ZcWthTTEtaTRFMG9CbEFGOFAxeVBhU1J4el9MdDlYZHExdmNIT29INExhRQ?oc=5",
    "published_utc": "2026-09-30T22:02:01+00:00",
@@ -7238,24 +7272,6 @@
    "id": "79baa18c9a2f1a99"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a period of 3 months.",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMENXZWM0OFZ1bXB2cWpLREVLSERNbm5YbmtFOUdtRkxqZHFyaVRjWEJWQkdvR2Z1RHlFU01JcC1LZnJud0hRZURwWGhZWGU0ZUlqbnNxTmlIbXBmTC1qekpOb3RuTlVPZENRLTVBU3lLdldnRUt0eFlrR1ZvazVONlNSQ2Q3SWtFeTNHeg?oc=5",
-   "published_utc": "2026-09-30T10:08:00+00:00",
-   "title_original": "央行：10月8日将开展12000亿元买断式逆回购操作 期限为3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ba1b66e7ed0cd25a"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "I don't think there is a big discrepancy in perception between the Bank of Japan and the economy and prices - Minister of Finance and Finance Jouchi (Reuters)",
@@ -7417,7 +7433,7 @@
   },
   {
    "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "TSMC evaluates potential Texas investment, sources say",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbk5sR25ad2FWc2RmSWZua1F3Mi1OR1NtTGx5bi1lQ1I0MHlmSHNyUXRGNUd5WmtOVEFMazFUY0FnM0tHdG8zbUF4QjlsaUNJWHhaZ2RXaWtUZHZhN0QteXRiNFNzb3pWcjA0Ty14cFJPenZhV0xnWktra01NaTNYa2s0Q0pEY0FxS20wV0lleWYzWGstYllNc1c3MFFxLXY1X3F4YjI5LXBhbG1J?oc=5",
    "published_utc": "2026-09-30T09:22:00+00:00",
@@ -7500,6 +7516,24 @@
    "live_wire": true,
    "manual": false,
    "id": "884caacfe9b58be6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a period of 3 months.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zekpNSk9PckNQbnpCaGM0RU02aEFmM25NNHl5M2t2bzJRdzBZZW5ybXczbGpDSXhvWElVYnJyVkJISnhtcXJKRkVCTHlENWpUcGFlSGxJTDBtQUxjYTRLTw?oc=5",
+   "published_utc": "2026-09-30T09:07:53+00:00",
+   "title_original": "央行：10月8日将开展12000亿元买断式逆回购操作 期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8fc05dd4bab89763"
   },
   {
    "source_id": "korea_herald_biz",
@@ -9292,7 +9326,7 @@
   },
   {
    "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "Oil giants rush to help Italy's Meloni curb energy costs with fuel price caps",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRUZwMmRHcVVaSHB3SU9Edk4yZXdXenRfZUlEcmhsbjQ0dTFNWGZQbGpsV0ROZF8ybnFkVEVjcGowakN2dElwdjk5QnRwSkg3Y3pSTkdnNzdfUkItdXJVdkNNM01vSGNVSTJUUmxvY3lBNDMwTk9WODB2RXJ5YmhRZ3oweXZOLUlfRi12OFU1UUtiT1hRRFhXdDJ4QWM0RnpSb0VhcTR0dUZ3ZFJJM2JLQ3JzbGloQ1U4amF0NngzRnFqMGc?oc=5",
    "published_utc": "2026-09-29T13:19:22+00:00",
@@ -10095,7 +10129,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "GlobalFoundries eyes GaN expansion to challenge TSMC in AI",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjBkU0hSeTg3TzJsT293UXdOckNEQWxvenFfTDhJbno2Tm9pLXpEMTFsa180U2xCZDFKNEJMdVo5T0I1S1ZBc3pkeXZXaldsN1U5V21yRGFuSVBZRmZaUGNNZkZsUHp6ZUJaOFM3ZWt6Slpaa2JIQU9KM3A1MEZYVU1PdHVTd2dROXYzVHJtbTBHTHRFX2g2b01LX283TnhyMTFwbXcxQ2E?oc=5",
    "published_utc": "2026-09-29T03:31:47+00:00",
@@ -10496,7 +10530,7 @@
   },
   {
    "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "South Korean exports seen rising for 16th month on solid AI chip demand",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPangxT3pzak9jS0tDVDNNYXJGMTZiZTdTM2p6WVNWWlhqRFpMeHFOcWR3SExFVWVJMU4tQWQ1WGx5M2xaamRsc3paWmFkVXJCNFhncGlwQkxMb2pZYmRYNG9faVcyYzZsUDJmLWN5OGF0SjBHM0VzSlRwSVBHZ1pYc2R6Z3hwbmV5cmZyb2FodEVkaGVCbEY2VURiNkp4RFdiQlVFRUpaR1BJOGRJQS1lTFZMekhxb2RVeE5j?oc=5",
    "published_utc": "2026-09-29T01:08:00+00:00",
@@ -10976,7 +11010,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "China, US pledge tariff cuts on $60 billion of goods including agriculture, toys, toasters",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaTBqVzRGcGNNZ2M5YWVLbUQxanlOVWhxYU5lWjNuYzJSWmtHV2lQTWdSUXlpTGM3M1UzU2JUckNLUGxIc3dFVWx5WlExNnotSmtQblE4UnM0Sk1OVnQycjVkR0ozUlpzMW5MMExHNll4NDR2dXpfWTNCMVpQT0docjI1SHFDeFdwYnZGVlVocXhzTy10WWViRk54VklyNzNiRFczXy04aURCdVdmSEdNbjNrRHpXNXM5LWRCZzJQajZVMVBx?oc=5",
    "published_utc": "2026-09-28T17:50:11+00:00",
@@ -11617,7 +11651,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "xinwen.bjd.com.cn",
    "title_en": "The central bank launched \"three arrows\" today, with a net investment of 439.7 billion yuan in open market operations.",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50X0RibUl3NXFPbjJLVXM1WmlRZmg2b1dxZG1iRzlmY1lLUG8tY0hpSzFlYjdkTml6Q2w0TFpvSF9ldy1jMXJMRFR0UlFBVjNfOEd0cGVmOFgyeG1fYmZJVXlMWUpQWm1DVGNvOU9kTG53dw?oc=5",
    "published_utc": "2026-09-28T08:42:00+00:00",
@@ -11949,7 +11983,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "dhdaily.co.kr",
+   "source_name": "대한데일리",
    "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Are fiscal-monetary policies in sync?",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmSDhSUXZrSXRKd2tGNlJJWjRaRGQxTG5LWHNMZGYzZVpIQ3NwbHZuUE9GeHkzb1FsUDhVRTJtX01QOXJqUjdUakV5ZHdkeE13Wk5PZGhQVE5OS0hJWVNVajBOaFIyNFh5WkI4?oc=5",
    "published_utc": "2026-09-28T06:34:43+00:00",
@@ -11985,7 +12019,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "straightnews.co.kr",
+   "source_name": "스트레이트뉴스",
    "title_en": "Will continuous increases in base interest rates put a burden on the profitability of savings banks?",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56VjhKSmlzSzd3R2JqenJobEtXU0toR0twSWtKM0IxOFdjMkVUTVdhYTByYU5EMmx5bGdweG1ZOGZjNkRqWnlPa1N0Nkh2dVFLVXBTdW9DLW9ZV3lMWmdEV25kTHhNeXlWV041ZEFGQTlKZmPSAXdBVV95cUxPZUVHWFg0bkx6amhmeEVLWGJwQk1WWE5WREwyeFZHVXlNMXJObzNoaTlYemZTWTZzcllhYXlyZnNxMHN5S0xnTnU4b09VXzZIS1p6UFgyN2VBZjZsYmZkZW9YdGlRRFZ0Z0tWR1R6ZHpmV2U0d05Qaw?oc=5",
    "published_utc": "2026-09-28T06:25:01+00:00",
@@ -12019,7 +12053,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺财经",
+   "source_name": "同花顺",
    "title_en": "The central bank has invested a total of 1.1 trillion yuan in reverse repurchase for three maturities, and the funds have been stable across quarters.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56cVdSZmxTQm9kM0FfaGJKNDliNGtaWW9yc094Y2F1V0R5NjBmRFRSRzJDTGJtNWp5bTVqbTl5c3BCQVVISWIxRDBDSUhMWVZpcTRCbURwTnAwU21DTV9MOU93?oc=5",
    "published_utc": "2026-09-28T06:17:02+00:00",
@@ -12455,7 +12489,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
+   "source_name": "newspim.com",
    "title_en": "Deputy Prime Minister Lee Hyung-il strengthens cooperation with the Bank of Korea on 'economic and monetary policy'... Preemptive response to market risks",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xdXhUQU9HWVBJTTZLNk1XalRwQUdXSHF1aUs5MGpRY1hPYTI5YnhQWHpkbDR0Q3BuLThtZ3R4aWF6dzllZXp6NmVrVEtMcFU4UVNjMEVmYkVibjdB?oc=5",
    "published_utc": "2026-09-28T02:53:00+00:00",
@@ -12867,7 +12901,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "stock.stockstar.com",
+   "source_name": "证券之星",
    "title_en": "The central bank today launched a 139 billion yuan 7-day reverse repurchase operation and a 661 billion yuan overnight reverse repurchase operation, and launched a 300 billion yuan 14-day reverse repurchase operation.",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2UEZnNUx5bXBxUVpXam1BMVJVMkpfY09jeHk4T0g5T0VJNm44TldjVmh5ODFiX3pwcmtWZ3FoTTd3T1E2UDQ3ZnBPX1kwZ1JSYlEydjFoWkZ3NGhsQVl4Tw?oc=5",
    "published_utc": "2026-09-28T01:29:20+00:00",
@@ -14210,7 +14244,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
    "published_utc": "2026-09-26T07:00:00+00:00",
@@ -15437,7 +15471,7 @@
   },
   {
    "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
+   "source_name": "reuters.com",
    "title_en": "China's first lady Peng Liyuan turns soft power on US audience",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWR5YUI1enNxN01RbG4wZ0lRMFJkNWh1ZGxWa0ZLVDg4SjVzRmdzNU9yeU9nV3FEeDcwSEpQbTEzdWhnc1prcnZZNEE4dGt4Mnp5SGJaMGdOUzhienl0UXF4U0U5VjdhVjZuYWp3LXNtWVpEbzl5clVQUTVhcUVxaW9YM21sTE1OdWFJcVd0S0xaaUJyN21YeFl2dW1uTkRtZmtVa2NGRUxCbzAxaU5EZ1ktd0ZwaTlh?oc=5",
    "published_utc": "2026-09-25T07:00:00+00:00",
@@ -16371,7 +16405,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Anduril's Taiwan supply chain to grow 15-fold in 2026",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcml4bUZhWjUxTU11WVlxWTdoaEpieW1QTUdnS3pWbTZuX0VFY2hhNmNJSzQxU1dGb3pseVNnX0tseENfRmZIUllLYTlvUXgtbnRlSndSQmRlV2lwZXBSdm5FaFRJVWpMUDFURzdZRnBtelZXaFpXbi1vc19zWHE1MEFOYVc5b0NmNVNHNjJ3cFdLRHJScTkta3ZTZEpkcUdnME9xNXB2WlJoUkltX21z?oc=5",
    "published_utc": "2026-09-24T10:05:32+00:00",
@@ -18510,7 +18544,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan courts Indian IIT chief in bid to boost chip talent ties",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUtOVThaek5zbENESEd3bWtiYkRQWng3cjVaNW1xZTRXNnBwU0ZYYlpFYmJFNW81UF9BblFTbDRDQXFTV2ZVci01WTgtYkU2Rm9iclFFamkzZzRsT080SDhOY3loQzNXbl9LT1lEU05nb3VVcS1QQUc4OE9oUWNDY2N2dnNUR0daY2h3MXFva19PX2p6QUVJNk1SRHFsUC1CZXR3TkZBeUx3LS1VY2VXdl9KejU?oc=5",
    "published_utc": "2026-09-23T07:00:00+00:00",
@@ -49515,24 +49549,6 @@
    "live_wire": false,
    "manual": false,
    "id": "defde3b73b87c34f"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "연합인포맥스",
-   "title_en": "Bank of Korea says, “Monetary policy must reflect financial vulnerabilities and expectations of economic entities” |",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9raktDa0d2Z1JKUnBxbFNUeDZXdmJMVHBrQjZLWTVDNGM1NEh3a1JyZkx5T2Y5eDJJdUxDWUZSdF9DUS1DZ3I3UGs0TGpOY0ZTZjdqVFBZcFh0OUNsbXVWUDlURjJhRFBxQjFNMVJ0cDVoTTNF?oc=5",
-   "published_utc": "2026-09-05T00:58:52+00:00",
-   "title_original": "한은 \"통화정책, 금융취약성·경제주체 기대 함께 반영해야\" |",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b9db722f56f35036"
   },
   {
    "source_id": "manual_ia",
