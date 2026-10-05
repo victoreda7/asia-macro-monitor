@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T08:12:46.357397+00:00
+Última coleta: 2026-10-05T08:25:26.798528+00:00
 Total: 2892 manchetes
 
-  🇯🇵 Japão          1235
+  🇯🇵 Japão          1236
   🇨🇳 China          763
-  🇹🇼 Taiwan         245
+  🇹🇼 Taiwan         244
   🇰🇷 Coreia do Sul  649
 
 ## O que já está no feed (não repita)
 
+  - [japan] Rapidus collaborates with 17 semiconductor design companies to attract attention for mass production
   - [china] QCOM Gains Overnight After Patent Deal With China’s Huawei Covering AI Chip Tech
   - [japan] Japan service sector growth slows in September, PMI shows By Investing.com
   - [japan] Takaichi pledges fiscal discipline as Japan’s debt bill rises
@@ -56,7 +57,6 @@ Total: 2892 manchetes
   - [japan] BOJ's Uchida flags AI's mixed impacts on productivity
   - [japan] Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)
   - [japan] Reflationist ex-BOJ policymaker calls end to low rates, big spending
-  - [japan] JGBs Mixed Ahead of Expected Extraordinary Diet Session in Japan — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2892 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T08:12:46+00:00",
+      "published_utc": "2026-10-05T08:25:27+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
