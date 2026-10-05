@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-05T00:33:20.772814+00:00",
- "collected_at_utc": "2026-10-05T00:33:20.772814+00:00",
+ "generated_at_utc": "2026-10-05T00:42:44.040078+00:00",
+ "collected_at_utc": "2026-10-05T00:42:44.040078+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 2860,
  "by_region": {
-  "japan": 1222,
+  "japan": 1221,
   "china": 757,
   "taiwan": 236,
-  "korea": 645
+  "korea": 646
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-05T00:00:29+00:00"
+   "newest": "2026-10-05T00:19:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-04T22:36:27+00:00"
+   "newest": "2026-10-05T00:18:29+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -379,6 +379,24 @@
    "id": "db8cbb9a1a27eefd"
   },
   {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Reflationist ex-BOJ policymaker calls end to low rates, big spending",
+   "url": "https://www.investing.com/news/economy-news/reflationist-exboj-policymaker-calls-end-to-low-rates-big-spending-4930968",
+   "published_utc": "2026-10-05T00:18:29+00:00",
+   "title_original": "Reflationist ex-BOJ policymaker calls end to low rates, big spending",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c280d31c194484d2"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "JGBs Mixed Ahead of Expected Extraordinary Diet Session in Japan — Market Talk",
@@ -394,24 +412,6 @@
    "live_wire": true,
    "manual": false,
    "id": "004c1adf515aff5d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Reflationist ex-BOJ policymaker calls end to low rates, big spending",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45P03Z:0-reflationist-ex-boj-policymaker-calls-end-to-low-rates-big-spending/",
-   "published_utc": "2026-10-05T00:10:10+00:00",
-   "title_original": "Reflationist ex-BOJ policymaker calls end to low rates, big spending",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2cac960eaa22624f"
   },
   {
    "source_id": "boj_whatsnew",
@@ -3524,6 +3524,24 @@
    "live_wire": true,
    "manual": false,
    "id": "266c3052d79f87f8"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "원주투데이",
+   "title_en": "If the loan interest rate rises, house prices fall after 6 months.",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zbXdYTWdOOFRVY1U3cTFqLTUtMUIzZUx3TEtwOWlBUklSU2JMeXpvOUFubmR0WkJFYlplRldlcVBIQ1RBeDVHa3pHalU3R0ROcl9GVjZmb3pFTDBKMFMxMTVxSlZHUDdQN2ZxeVVmSlY?oc=5",
+   "published_utc": "2026-10-01T22:59:00+00:00",
+   "title_original": "대출금리 오르면 집값 6개월 뒤 하락",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8624f4db7214f184"
   },
   {
    "source_id": "tradingview_live",
@@ -49499,23 +49517,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5c6a1aed96c6f4c7"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "Young people rush to buy homes, warning of risks",
-   "url": "https://news.yahoo.co.jp/pickup/6594274?source=rss",
-   "published_utc": "2026-09-05T00:37:14+00:00",
-   "title_original": "住宅購入急ぐ若年層 リスクに警鐘",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e0c0a2f3a7388b59"
   },
   {
    "source_id": "manual_ia",

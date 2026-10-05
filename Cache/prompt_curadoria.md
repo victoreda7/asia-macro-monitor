@@ -7,20 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T00:33:20.772814+00:00
+Última coleta: 2026-10-05T00:42:44.040078+00:00
 Total: 2860 manchetes
 
-  🇯🇵 Japão          1222
+  🇯🇵 Japão          1221
   🇨🇳 China          757
   🇹🇼 Taiwan         236
-  🇰🇷 Coreia do Sul  645
+  🇰🇷 Coreia do Sul  646
 
 ## O que já está no feed (não repita)
 
   - [japan] Japan service sector activity slows from 5-month high, PMI shows
   - [japan] Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)
-  - [japan] JGBs Mixed Ahead of Expected Extraordinary Diet Session in Japan — Market Talk
   - [japan] Reflationist ex-BOJ policymaker calls end to low rates, big spending
+  - [japan] JGBs Mixed Ahead of Expected Extraordinary Diet Session in Japan — Market Talk
   - [japan] Sources of Changes in Current Account Balances (Projections for Oct.)
   - [japan] Extraordinary Diet convenes today to debate consumption tax reduction bill, etc.
   - [korea] Mortgage interest rates are also ‘fluctuating’… Will interest rates rise further due to the additional hike by
@@ -116,7 +116,7 @@ Total: 2860 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T00:33:20+00:00",
+      "published_utc": "2026-10-05T00:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
