@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T10:12:45.376592+00:00
-Total: 2902 manchetes
+Última coleta: 2026-10-05T10:22:46.174397+00:00
+Total: 2903 manchetes
 
   🇯🇵 Japão          1241
-  🇨🇳 China          764
+  🇨🇳 China          766
   🇹🇼 Taiwan         244
-  🇰🇷 Coreia do Sul  653
+  🇰🇷 Coreia do Sul  652
 
 ## O que já está no feed (não repita)
 
@@ -32,6 +32,7 @@ Total: 2902 manchetes
   - [japan] Bank of Japan New Building Blocks "Shogun's Road", Great Proposal from Tanzan to Pope...Road Replacement Opera
   - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
   - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
+  - [china] COMMENTARY: India may be best placed to fill a China-sized hole in fuel exports
   - [taiwan] Taiwan's September Inflation Likely Exceeded 2%, WSJ Poll Shows — Market Talk
   - [korea] Mortgage interest rates around 7%... Additional increases add to the burden
   - [japan] Bank of Japan's output gap increases by 0.55% in April-June quarter, supporting continued interest rate hike (
@@ -56,7 +57,6 @@ Total: 2902 manchetes
   - [china] UK Expected to Follow EU With China EV Tariffs, Report Says
   - [japan] BOJ’s Deputy Chief Flags AI’s Possible Impact on Neutral Rate
   - [taiwan] Weekly news roundup: Musk looms large as AI chip boom drives capacity expansion and geopolitical risks
-  - [japan] Japan services PMI misses forecasts in September as private-sector growth slows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2902 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T10:12:45+00:00",
+      "published_utc": "2026-10-05T10:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
