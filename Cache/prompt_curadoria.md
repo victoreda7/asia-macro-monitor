@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-05T04:22:43.696218+00:00
-Total: 2877 manchetes
+Última coleta: 2026-10-05T04:32:45.084928+00:00
+Total: 2878 manchetes
 
   🇯🇵 Japão          1227
-  🇨🇳 China          762
+  🇨🇳 China          761
   🇹🇼 Taiwan         243
-  🇰🇷 Coreia do Sul  645
+  🇰🇷 Coreia do Sul  647
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean Won Firms Near 2024 High
   - [china] China-EU Trade Talks Unlikely to Result in Major Breakthroughs — Market Talk
   - [taiwan] Tesla Stock Rises Overnight After Musk Says ‘Something May Come Of’ TSMC Talks On Terafab
   - [china] Tata's Assam chip unit is almost ready, and a non-China supply chain is in place
@@ -56,7 +57,6 @@ Total: 2877 manchetes
   - [korea] Foreign investors sell W20.3tr in Korean stocks, led by SK hynix and Samsung Electronics
   - [japan] Japan adds Garantex to list of Russia sanctions over Ukraine war
   - [china] Russian exporters fight to win back Chinese buyers amid fallout over fake goods
-  - [korea] K consumer goods stocks, which had been spotlighted as "export stocks" due to the foreign consumptio..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2877 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-05T04:22:43+00:00",
+      "published_utc": "2026-10-05T04:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
