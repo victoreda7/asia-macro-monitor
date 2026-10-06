@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-06T19:46:03.396393+00:00",
- "collected_at_utc": "2026-10-06T19:46:03.396393+00:00",
+ "generated_at_utc": "2026-10-06T19:52:45.803467+00:00",
+ "collected_at_utc": "2026-10-06T19:52:45.803467+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1285,
-  "china": 778,
-  "taiwan": 256,
+  "japan": 1283,
+  "china": 779,
+  "taiwan": 257,
   "korea": 681
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 31.1,
  "sources": [
+  {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -267,7 +275,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-06T19:40:36+00:00"
+   "newest": "2026-10-06T19:51:31+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -300,14 +308,6 @@
    "count": 8,
    "error": "",
    "newest": "2026-10-06T14:43:49+00:00"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-06T05:24:33+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "Intel Stock Slips as TSMC Talks Complicate TeraFab's 14A Bet",
+   "url": "https://www.tradingview.com/news/gurufocus:24053978f094b:0-intel-stock-slips-as-tsmc-talks-complicate-terafab-s-14a-bet/",
+   "published_utc": "2026-10-06T19:51:12+00:00",
+   "title_original": "Intel Stock Slips as TSMC Talks Complicate TeraFab's 14A Bet",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0d3bdccca4c75e99"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -1439,10 +1456,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
+   "source_name": "Investing.com South Africa",
    "title_en": "Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTdHRUlrUkQtbW9UQkxOSkpQaTZvQU1mZlZDb3JyUWVfTTJXdzRmZDdLWVgwMDVJbjgyT0RSOTBJb1llN0dwbkpSUUtnOWhwZHBhSDU4bUpFMFp5bmFneG5KRnFQc0hCSmRWM21jZlVlNUotc29nbXJ4OTAzQ1Q5VWQ5blAwVVhnTmppbHhQTDZ6MzlqelJKT3BJd3hVMmFyenpoZUJZY0hsSldfVGJoOW0zb3J1SlRJS05V?oc=5",
-   "published_utc": "2026-10-06T04:50:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlUwdE10YnpneVRRcVBBc0cySTFpQnVDR1dfVV9UQ2daT2llRDNvc2cxYVF2bmEzeWx0bjd5S3RnN2dPZE9jWVVOOXZwTl80NGFMdW4wQlJ0MDNPNzE0UVRtYzBsd3l2SUNNNzVJby1xSlVkN3VzSFdkZHpjT1EtMm8tTjhkRmFOTEtjMDJxWWlPeVdlZFA1NlZPaW50eS1iY3dSa3RMRU9kWGdyTmR3bFdHcWkxUVpoX3g0?oc=5",
+   "published_utc": "2026-10-06T04:59:37+00:00",
    "title_original": "Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy By Investing.com",
    "region": "japan",
    "topics": [
@@ -1452,7 +1469,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2fd14a653177c360"
+   "id": "e5b4a3019c568713"
   },
   {
    "source_id": "investing_live",
@@ -2353,6 +2370,23 @@
    "id": "51d154391bec380c"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan service sector growth slows in September, PMI shows By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2twS3NjQmZiQy1jcDI5c1ZHa0VLWENRVWZySFZuYlluMUtyUkxmbDBCM25BTFlvc3NBTVpkM0JYS1ZpZ19QRTNLWER1cV9lOEFhb2EyTWNIaENScktPY21LRjEtbHZ5cDlEMEc4TWROZWtpd1VvUUNnWDVsQTNGbUJOb0FZQjJIQldqeDRyRi1fbmFzbWk4UHZGSW04MFMxQXBQaElWNDBnVUhINjhobXhQQTVWMUNO?oc=5",
+   "published_utc": "2026-10-05T08:34:14+00:00",
+   "title_original": "Japan service sector growth slows in September, PMI shows By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3bda50f15be15663"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "Taiwan Forex Reserves Edge Lower",
@@ -2487,23 +2521,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8c94810c24d0824e"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Japan service sector growth slows in September, PMI shows By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdm56OXFjVFpyYjJLUkNGa1NGRndRZ1lQYU5TaWxoV3RBZUdyMUIxdXlLd2RpNzlIYnhUUmMzaG9wa1dTOTVrdExWbGp1UE1ORkQ2eEhObngxSjh0RDF6cEs3dXh4ZU1ZYjJCYmZtNkZWZUptbGZKVnRTUHRnZjNRVFVNRksyQWt0TnZtdXZ4cVl0Y0xZOFNQQk0xMWJtOXVPY0F1eUw2WEZUUUJGZkhPbEVhdkJ4dVpi?oc=5",
-   "published_utc": "2026-10-05T07:32:00+00:00",
-   "title_original": "Japan service sector growth slows in September, PMI shows By Investing.com",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5b5a77fcf3c07dcc"
   },
   {
    "source_id": "investing_econ",
@@ -7722,6 +7739,23 @@
    "id": "37bcc56f280f9e8d"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan manufacturing growth slows to six-month low in September By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUF5Y25wZkd4ekhLTDVZU3JJQmlha3hvWWFaT19ELVhxT014Nm9jZVVMakNpNHZQanlyUGRWNExXQUFlSm50ckdSN096WGQ5TjhxdzlDaEpfZHJkZC1vOEJyYjdWbVdNOTBlUndDR1JVNXluQVNfRW40eVpSZG5MVW9MV2JER005OXd2TzVBbkQ3NVNLbF9xZGtJUWdSSnlJM2dpa19QTlZlRFlvVDcxUmZiNk9UYTFOUGhFTGFLSQ?oc=5",
+   "published_utc": "2026-10-01T06:50:24+00:00",
+   "title_original": "Japan manufacturing growth slows to six-month low in September By Investing.com",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5a1f9af5ebd48cc2"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Government plans to submit 21 bills including consumption tax reduction bill in extraordinary Diet session",
@@ -7773,23 +7807,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d98805fb54656ef4"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Japan manufacturing growth slows to six-month low in September By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMDNCZUVEc19VQkozYV9NNnJqaWVQT0stNExNOGpSVTNnVW1sb1M1elQzWjZTXzJWMVZ0R0tvb1AyZ1dxak5xTFZhWEdQYWhqWVJNTVpzemR1eHpxMlhLcFJ0bXRKbVViUVN3NjJGQnROX1BWTnNGRG5tV19KZXh6NW13ZXF4NVE3cE14VTJXSnl1UzZjeHpsMVh0dVAzNVZGdHBwc0o1Mkp6Z2liNTFrU25RaUtWTExZMmVfX2dnSQ?oc=5",
-   "published_utc": "2026-10-01T06:20:00+00:00",
-   "title_original": "Japan manufacturing growth slows to six-month low in September By Investing.com",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "405e29f5e21664ac"
   },
   {
    "source_id": "investing_live",
@@ -8765,6 +8782,23 @@
    "id": "6eb588e758336305"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "手机网易网",
+   "title_en": "Day 1 of vacation! The central bank made a major announcement: releasing 1.2 trillion funds! Is the A-share market stable after the holiday?",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Vbk9kbklOdDVNTWNBMUw5U21OcThOUEJvMTJpSEo3Z0RtZ2NuNVk4N0tGT2pBZFVFbjVGa2JMbzFWMVpBMWZhbWQtUldBREdsbUFncFZGVVBweUd6czRsM1ln?oc=5",
+   "published_utc": "2026-10-01T00:47:53+00:00",
+   "title_original": "假期第1天！央行重磅发布：释放1.2万亿资金！节后A股行情稳了吗",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "527f01f596d1ee6e"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Some say there is no choice but to accelerate interest rate hikes if there are signs of an upward trend in prices - Bank of Japan September meeting (Reuters)",
@@ -9416,6 +9450,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c7757a0a89873e66"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "华龙网",
+   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByYTRmczlSYUFmcGt3ZzRoelBXVDBiYUluOUJKd0lVWGxMOFYzUWcwUmMyOXhZbW1DTjFyUFRqVVlKeS0wdk9JVWhzQlBSMENraEx0bkNUWGp3cEtMeGRiaENwbzB1aHUwOUNB?oc=5",
+   "published_utc": "2026-09-30T23:00:08+00:00",
+   "title_original": "央行将开展12000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "dbe0eac8f5d46bda"
   },
   {
    "source_id": "gn_kr_bok",
@@ -12198,24 +12250,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5181a9d6f388a7ad"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "封面新闻",
-   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SQmhYYWFGeElzRkZqNkhZRmYyMEtuZWlCN3EyTU0xeXVhQkd1cDdxVnJobkhxeGNEU0JKcmNTcElSWGhFNnRBZW5FLXpvNU1haS13ajVHR0ZKdzdHRHpsNDB0SVk1cG1RbmNhZFV2WHV0Q3pIRDQw?oc=5",
-   "published_utc": "2026-09-29T19:46:00+00:00",
-   "title_original": "央行将开展12000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0072aa546315a0e9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51904,40 +51938,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bf7ed9cb9d1f02b7"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Japan’s August foreign reserves post largest-ever drop after record intervention",
-   "url": "https://www.investing.com/news/economic-indicators/japans-august-foreign-reserves-post-largestever-drop-after-record-intervention-4890332",
-   "published_utc": "2026-09-07T00:31:00+00:00",
-   "title_original": "Japan’s August foreign reserves post largest-ever drop after record intervention",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5b22d09778fe7a26"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "Private lodging in Shinjuku Ward to be prohibited from operating in residential areas",
-   "url": "https://news.yahoo.co.jp/pickup/6594497?source=rss",
-   "published_utc": "2026-09-07T00:13:21+00:00",
-   "title_original": "新宿区の民泊 住宅地の営業禁止へ",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f878454cb512a52f"
   },
   {
    "source_id": "manual_ia",

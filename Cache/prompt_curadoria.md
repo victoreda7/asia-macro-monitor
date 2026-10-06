@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T19:46:03.396393+00:00
+Última coleta: 2026-10-06T19:52:45.803467+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1285
-  🇨🇳 China          778
-  🇹🇼 Taiwan         256
+  🇯🇵 Japão          1283
+  🇨🇳 China          779
+  🇹🇼 Taiwan         257
   🇰🇷 Coreia do Sul  681
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Intel Stock Slips as TSMC Talks Complicate TeraFab's 14A Bet
   - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
   - [taiwan] TSMC Stocks Drop as Musk Confirms Terafab Talks Without a Deal
   - [korea] South Korea exports eased Russia fuel crisis caused by drone strikes, Ukraine says
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JGB yield rises despite 30-year-high coupon as rates add to fiscal fears
   - [china] China's GDP Growth Likely Edged Up to 4.5% in 3Q, Citi Says — Market Talk
   - [japan] Underlying inflation stabilizes at around 2% target, ``more important'' Bank of Japan Governor Ueda (Jiji Pres
-  - [japan] AI Inflation Impact on Japan CPI Likely Limited — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T19:46:03+00:00",
+      "published_utc": "2026-10-06T19:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
