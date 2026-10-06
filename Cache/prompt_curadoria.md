@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T10:52:46.265368+00:00
-Total: 2991 manchetes
+Última coleta: 2026-10-06T11:02:48.628324+00:00
+Total: 2993 manchetes
 
-  🇯🇵 Japão          1283
+  🇯🇵 Japão          1284
   🇨🇳 China          775
   🇹🇼 Taiwan         254
-  🇰🇷 Coreia do Sul  679
+  🇰🇷 Coreia do Sul  680
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Governor Ueda plans to continue raising interest rates while remaining cautious of upside risk t
   - [korea] Goldman sees Korean FX intervention risk if won strengthens sharply By Investing.com
+  - [korea] Goldman sees Korean FX intervention risk if won strengthens sharply
   - [japan] Yomiuri: Japan's House Foods Group to Absorb Subsidiaries in Restructuring Gambit
   - [japan] Bank of Japan Governor Ueda warns against upward trend in prices: ``Stability at 2% is more important'' (Asahi
   - [japan] Japan's Sumitomo Mitsui DS Asset swaps some French bonds for German, yen debt
@@ -55,8 +57,6 @@ Total: 2991 manchetes
   - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
   - [japan] Prime Minister Takaichi asks US President Trump to approach Japan-North Korea summit meeting
   - [korea] Samsung Biologics union seeks direct talks with Samsung Electronics
-  - [korea] Vice Minister of Finance and Economy Kwon Dae-young said on the 6th that the Financial Services Comm..
-  - [japan] 10-year JGB coupon hits 30-year high as rising rates add to fiscal fears
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2991 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T10:52:46+00:00",
+      "published_utc": "2026-10-06T11:02:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

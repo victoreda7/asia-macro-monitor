@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-06T10:52:46.265368+00:00",
- "collected_at_utc": "2026-10-06T10:52:46.265368+00:00",
+ "generated_at_utc": "2026-10-06T11:02:48.628324+00:00",
+ "collected_at_utc": "2026-10-06T11:02:48.628324+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2991,
+ "count": 2993,
  "by_region": {
-  "japan": 1283,
+  "japan": 1284,
   "china": 775,
   "taiwan": 254,
-  "korea": 679
+  "korea": 680
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T10:25:04+00:00"
+   "newest": "2026-10-06T10:52:55+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T10:22:03+00:00"
+   "newest": "2026-10-06T10:34:13+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T09:13:08+00:00"
+   "newest": "2026-10-06T10:29:14+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T09:58:00+00:00"
+   "newest": "2026-10-06T10:54:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-06T19:50:50+09:00"
+   "newest": "2026-10-06T19:58:01+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T14:00:06+00:00"
+   "newest": "2026-10-06T06:44:14+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-06T10:52:13+00:00"
+   "newest": "2026-10-06T11:01:46+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T07:28:50+00:00"
+   "newest": "2026-10-06T04:29:33+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T10:01:53+00:00"
+   "newest": "2026-10-06T10:13:58+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,24 @@
  ],
  "items": [
   {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Bank of Japan Governor Ueda plans to continue raising interest rates while remaining cautious of upside risk to prices",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261006de55495",
+   "published_utc": "2026-10-06T10:55:47+00:00",
+   "title_original": "日銀植田総裁 物価上振れリスク警戒しながら利上げ進める考え",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a21ba3d6ecbe5d32"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "Goldman sees Korean FX intervention risk if won strengthens sharply By Investing.com",
@@ -359,6 +377,23 @@
    "live_wire": false,
    "manual": false,
    "id": "dd5f334ffdbb7238"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Goldman sees Korean FX intervention risk if won strengthens sharply",
+   "url": "https://www.investing.com/news/forex-news/goldman-sees-korean-fx-intervention-risk-if-won-strengthens-sharply-93CH-4933873",
+   "published_utc": "2026-10-06T10:29:14+00:00",
+   "title_original": "Goldman sees Korean FX intervention risk if won strengthens sharply",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d20eaba15fe298c"
   },
   {
    "source_id": "tradingview_live",
@@ -1405,7 +1440,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "en.yna.co.kr",
    "title_en": "Finance minister vows efforts to tame inflation, boost growth",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZQUFsWGFWOGp2QmtwU3BWeVhXVUp6RXctdjNNU3ppT0hXTTAzWGd2dkZWVFplMGVwV3o3Qy1vUXZGREVwamdaVDk0YU9wbHQzc3UzdlVBQUdmdw?oc=5",
    "published_utc": "2026-10-06T01:18:09+00:00",
@@ -5053,7 +5088,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "apps.digitimes.com",
    "title_en": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnVzZxQmhlcTJFZHA2alpHTXNlSUliN3ZNTG9pMTdub0xqay0xRlNRV1FvZHpCMmZQZGNwbnplN1hfWkVZOXUya0pHcjVlYlk2NGw3eWFoTk14SDhNVVpvbQ?oc=5",
    "published_utc": "2026-10-02T03:47:33+00:00",
@@ -7152,7 +7187,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "qq.com",
    "title_en": "1.2 trillion yuan! The central bank previews the buyout reverse repurchase operation on the first day after the holidays",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42MmMxNDliRmpTaDhxRWUyeWRfVWFFRWU2eGhKT2FmYldEZEM4LUhPOHZpdnJhQXYwbFNIQlhodGFmSEEtLU1uZ3R2MWM3d1NCRUU0bjFnaVFlUF9PNXdac0NR?oc=5",
    "published_utc": "2026-10-01T08:17:00+00:00",
@@ -7797,7 +7832,7 @@
   },
   {
    "source_id": "gn_asia_ft",
-   "source_name": "ft.com",
+   "source_name": "Financial Times",
    "title_en": "EU steel exports hit by high energy costs, tariffs and China oversupply",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWxvZElxNVZsVHBRUXByUVJ5aTF3bE5TTjluQTBJUlp5VUVlM3plcDBzLVpmODltSUFnbUdlN09JSWwtdkFwSS1lSmZOTlFnSnFxbWlNd2RDWVFxWVdLSEQyREgtQl9UREZEZ1R2MmJIVlVsNmw3UnphZ3k0RHRFbHVQVEg?oc=5",
    "published_utc": "2026-10-01T04:00:49+00:00",
@@ -8022,7 +8057,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "en.yna.co.kr",
    "title_en": "Seoul shares narrow losses late Thurs. morning amid inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtT0JBWTF5MkVrNEkwRktwUWJ1WUwzdDQzUVN2eE4zUTFpNHI2M3ZkVEhDSjBLaTdBVVZFT09GZ3VZOG5KWERub3BUX3VBb2tGUnB2SVRWTXE0QQ?oc=5",
    "published_utc": "2026-10-01T02:28:02+00:00",
@@ -8639,7 +8674,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "apps.digitimes.com",
    "title_en": "How a TSMC veteran is steering Singapore's lab-to-fab chip strategy",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUtJaTNCUlJYSm02cjVFdnlDN3ZVLUZFV3pqaktUR3ktRDBLQVFWMnA3dW42WFNTWHdoMENhb2FOaHhJVlpGVlJnNHBwOWUxdGR0aDBpZW1OSXFXWXNxLURONmF5aHE4QjhOMGZaYk1uOW5lQ3pMNkE1UmgxaGd1Y01lRFJvRFJEYTBGVnhpX2FYYUxjQnJJbEplSzVnMzdqYmc?oc=5",
    "published_utc": "2026-10-01T00:11:28+00:00",
@@ -9390,7 +9425,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "v.daum.net",
    "title_en": "Household loans continue to increase despite increases in base and loan interest rates",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JQ01TRFNfTWQyTWM2amxfMUZtNmc5UkFhRDJLaUVUMnoydFpvZ09NekFheDJFNkpzTjN1N2hTcHRYXzhZeUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9za3I1dG13N0lBU1NMNEVPNUZjRjhBZmExUVVqTWxmSHd5aWFmaDFBTmRqQVBFc3FqNWx3ejRoaUVxZHNKeXhXT2RoUmlCVV9PampuZw?oc=5",
    "published_utc": "2026-09-30T15:01:38+00:00",
    "title_original": "기준금리·대출금리 상승에도 가계대출 증가세 여전",
    "region": "korea",
@@ -9401,7 +9436,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b11a7832d2a60e8"
+   "id": "ffb58c8cb37054b0"
   },
   {
    "source_id": "korea_herald_biz",
@@ -9835,7 +9870,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "qq.com",
    "title_en": "Good news came after the market closed. The central bank announced in advance that it would release a net fund of 200 billion yuan after the holiday! At a time when A-share funds are hesitant and hesitant, the central bank has given the market \"reassurance\" in advance.",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nMEs2NGticERTZW4weXdidV9nT1JjQi14RjhpRGJwRG1ZSXBRM1NtQ1Z4T3hsb0RqYXF5Y1lSY1ZFOVNGU1NPd3J4TzFMb1JOam5BMGpR?oc=5",
    "published_utc": "2026-09-30T10:43:00+00:00",
@@ -10636,7 +10671,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "qq.com",
    "title_en": "The central bank has exceeded its quota by 200 billion yuan, and the overnight funding limit has been raised to 1 trillion. How will banks respond across quarters?",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jTXNOang3Q09JSDZJUGk3M0ZqX05WQW9iQ0drOHlYV0x3WDB6OGxPaU05MVJ0djE5ZDZia2R4dFRKd1p0Q1FjcGVwbXR4QUtSX2s0TkFn?oc=5",
    "published_utc": "2026-09-30T05:40:00+00:00",
@@ -11136,7 +11171,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "apps.digitimes.com",
    "title_en": "Grand Pacific Petrochemical, Air Water join forces to expand Taiwan semiconductor materials business",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnRlOXRSYkNtX3h3OVRmbGR6SFdvM1BWUG1MZHVJOFBGSVB3T2hXMWNtWFZoQ3RQbk5reElPT2EzZGYtQWlKVTA5MDJZU2M3MzQwLTljV1F0TFpSZG1nTzhmRFM3U1NINF8tMTRJdGJ5emsxUWVoZXhYRWoyaTBTY1JyUENkRTBtUlNpWUpIdGVMdGFxWU5vZzlzTHAzT2FoOTNoaE0tMG05aWdEZThGdA?oc=5",
    "published_utc": "2026-09-30T01:28:09+00:00",
@@ -11171,7 +11206,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺财经",
+   "source_name": "同花顺",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out 833.5 billion yuan of overnight reverse repurchase operations.",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdy1vXzlVSWJ5MHBBX1Y3emNjeS1wNDRDZjFocHNCTXZ1ekZyRGhTVW1nOEFVeUZ2eEdOY3Q0VUVfQnlXXzdPQ09DVm9iV2FqSkpCZ0w4UHJ5RWtGX1E?oc=5",
    "published_utc": "2026-09-30T01:23:15+00:00",
@@ -12889,7 +12924,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "en.yna.co.kr",
    "title_en": "(LEAD) Seoul stocks fall for 2nd day on inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cald3d3pKTFV1T09pQUV6dEh6cVdjOUk3eUUyckFET29QTEl2Q1VzYXNpWUcxWXhueTlYY3pCOFFTYlpwN1h6eGFIcWlBZy1kdy1MS3VrMThSUQ?oc=5",
    "published_utc": "2026-09-29T06:43:27+00:00",
@@ -12923,7 +12958,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "en.yna.co.kr",
    "title_en": "(URGENT) Seoul stocks fall for 2nd day on inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iYU4yLUQyUjl4ODc1cVNGLWZwMmhFOGNfR3JjaU16aWJOTGlURlV5a1Y1YzA5NkNkWXRPWno4aFlraG5KRE5GbW9XYWlxN011ZlljR25FWTZMQQ?oc=5",
    "published_utc": "2026-09-29T06:31:04+00:00",
@@ -13061,7 +13096,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "apps.digitimes.com",
    "title_en": "GlobalFoundries eyes GaN expansion to challenge TSMC in AI",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjBkU0hSeTg3TzJsT293UXdOckNEQWxvenFfTDhJbno2Tm9pLXpEMTFsa180U2xCZDFKNEJMdVo5T0I1S1ZBc3pkeXZXaldsN1U5V21yRGFuSVBZRmZaUGNNZkZsUHp6ZUJaOFM3ZWt6Slpaa2JIQU9KM3A1MEZYVU1PdHVTd2dROXYzVHJtbTBHTHRFX2g2b01LX283TnhyMTFwbXcxQ2E?oc=5",
    "published_utc": "2026-09-29T03:31:47+00:00",
@@ -13253,7 +13288,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "en.yna.co.kr",
    "title_en": "Seoul stocks slightly lower late Tues. morning on inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96Y0RuUm5OSUNBSWpQSW9hRm9Vb05sNHdHeVJwTVZMUlZVNTJjbXphQTlpR3JfdG1Pdm9LRWkzM3pfUmN4Ynd0TmN4eWpRSktDbUwzdTAtUXNyUQ?oc=5",
    "published_utc": "2026-09-29T02:27:31+00:00",
@@ -13531,7 +13566,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "en.yna.co.kr",
    "title_en": "(LEAD) Seoul stocks open lower on inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XZjJIRjluTVcyU3hfbDBTdFBGdHNNZzItWEVyMFRuZWZUaFV2RllPd0JhdzZ2WEZ2RTZKS2JLalI1cWgxQ284WFZuRWpLaHdpUlZ0aXVUd3RWZw?oc=5",
    "published_utc": "2026-09-29T00:20:22+00:00",
@@ -13548,7 +13583,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "en.yna.co.kr",
    "title_en": "(URGENT) Seoul stocks open lower on inflation woes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6cGJYUERTMTlTeDF5dDl0cVktLWxlZWxZNUdzTVM0Sm95eThNeTctNkJucHIwSExlWHdIZ01OZ3ZzVWxPc0dKVnFldmVhdUxtcmU2eFQxdldBdw?oc=5",
    "published_utc": "2026-09-29T00:01:21+00:00",
@@ -13823,7 +13858,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "en.yna.co.kr",
    "title_en": "Biz sentiment falls in September on rising costs: BOK",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxUXdBdjJ2ZGQ1MDRJakxyWkRxSnhCN2g5aFU2dk9fWGdGUGIyb3dYUzFfbWlWMC0yWTlHX096OWRWcVlwRWlJbk1NOEt4WkdaU2c1a0V6VWRyZw?oc=5",
    "published_utc": "2026-09-28T21:00:10+00:00",
@@ -15673,7 +15708,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "en.yna.co.kr",
    "title_en": "Finance minister, BOK chief stress coordination to address uncertainties",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zbS1DTl9JVEhPWld2bWppOU1saFFxLTBqNGNoUnNIUFNwalBNQnI1MzJKcDh6OHN3aWJGM3hHSFRWQ3UzanBOd043ZnRTbXE2cjZrWkQtUE1pdw?oc=5",
    "published_utc": "2026-09-28T02:30:22+00:00",
@@ -19390,7 +19425,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "apps.digitimes.com",
    "title_en": "Anduril's Taiwan supply chain to grow 15-fold in 2026",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcml4bUZhWjUxTU11WVlxWTdoaEpieW1QTUdnS3pWbTZuX0VFY2hhNmNJSzQxU1dGb3pseVNnX0tseENfRmZIUllLYTlvUXgtbnRlSndSQmRlV2lwZXBSdm5FaFRJVWpMUDFURzdZRnBtelZXaFpXbi1vc19zWHE1MEFOYVc5b0NmNVNHNjJ3cFdLRHJScTkta3ZTZEpkcUdnME9xNXB2WlJoUkltX21z?oc=5",
    "published_utc": "2026-09-24T10:05:32+00:00",
@@ -21547,7 +21582,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "apps.digitimes.com",
    "title_en": "Taiwan courts Indian IIT chief in bid to boost chip talent ties",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUtOVThaek5zbENESEd3bWtiYkRQWng3cjVaNW1xZTRXNnBwU0ZYYlpFYmJFNW81UF9BblFTbDRDQXFTV2ZVci01WTgtYkU2Rm9iclFFamkzZzRsT080SDhOY3loQzNXbl9LT1lEU05nb3VVcS1QQUc4OE9oUWNDY2N2dnNUR0daY2h3MXFva19PX2p6QUVJNk1SRHFsUC1CZXR3TkZBeUx3LS1VY2VXdl9KejU?oc=5",
    "published_utc": "2026-09-23T07:00:00+00:00",
@@ -21581,7 +21616,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "en.yna.co.kr",
    "title_en": "BOK supplies 3.65 tln won in fresh banknotes ahead of Chuseok",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yV1JBR0xJZzBVMDVFclpXWXhEMzlWZEpibUxWLTd5NG9ESWVvNXdGc2ZKamMwbWctNkl6QmZ5SHlOYmZqMTExMUdObzZUS3Y1dDhIaGVzZFAxUQ?oc=5",
    "published_utc": "2026-09-23T07:00:00+00:00",
@@ -22732,7 +22767,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "en.yna.co.kr",
    "title_en": "BOK voices woes over financial imbalance, rising debt burden",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RaE9iR0t6UjZQaFJDZE1oZDdtWkQ4MWNtNkdRMmFES1h3QnFCcF9tNExSeHd0LUE2ZG12cFVzSlFfdHFZTWNkTHhrTWVqNTJwLTE0OVNSTWF5Zw?oc=5",
    "published_utc": "2026-09-22T07:00:00+00:00",
@@ -24511,7 +24546,7 @@
   },
   {
    "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_name": "en.yna.co.kr",
    "title_en": "BOK launches pilot program for 24-hour offshore won settlement",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JLUNYM0tYSjg3VHdRY0RDVVNOUWstVk5OOXQ1SlBKU0ZoUnNZRlVOSHhaYWhZLTBGcF9UOE9tM3JtdUNIMTBUVjl6NU0zMy1Wd2xlSHpvaTRpdw?oc=5",
    "published_utc": "2026-09-21T07:00:00+00:00",
@@ -28027,7 +28062,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan - CNA English News",
+   "source_name": "focustaiwan.tw",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T11:36:00+00:00",
@@ -36388,7 +36423,7 @@
   },
   {
    "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
+   "source_name": "koreaherald.com",
    "title_en": "Finance minister nominee vows to tackle inflation, bolster economic recovery",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41VzlHY0hidFNoZFl4d2dUWGVnR0dIZHV0a2l1ZmY1NmpPVUgyMWdxcy05cTJRLTZ5ajhwNllJUDYwWnUwXzk1SDJFaFMzX3MwYTZ1TWl2aw?oc=5",
    "published_utc": "2026-09-15T07:00:00+00:00",
