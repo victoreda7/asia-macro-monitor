@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T06:42:47.264524+00:00
-Total: 2960 manchetes
+Última coleta: 2026-10-06T06:52:46.911803+00:00
+Total: 2961 manchetes
 
   🇯🇵 Japão          1265
   🇨🇳 China          774
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  671
+  🇰🇷 Coreia do Sul  672
 
 ## O que já está no feed (não repita)
 
   - [korea] Kospi Snaps Two-Session Winning Streak; Defense, Chip Stocks Retreat
   - [japan] BOJ Ueda says financial conditions remain loose
+  - [korea] The amount of finance supported by the Export-Import Bank of Korea to smoothly secure "seven key min..
   - [japan] Japan's Iwatani, Cosmo to develop hydrogen supply chain at Chiba refinery
   - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
   - [japan] Prime Minister Takaichi asks US President Trump to approach Japan-North Korea summit meeting
@@ -56,7 +57,6 @@ Total: 2960 manchetes
   - [japan] <Machine tool orders> The summer decline continues to be strong, with August orders reaching 197.8 billion yen
   - [japan] Threatening complaints were made, but an "unexpected savior" appeared during the "litigation trouble" with a b
   - [korea] There are a lot of things to say and a lot of trouble, but they say they will strengthen real estate..
-  - [taiwan] SPCX Stock Ends Higher On Starship Fuel Plans, Analyst Optimism And TSMC Talks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2960 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T06:42:47+00:00",
+      "published_utc": "2026-10-06T06:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
