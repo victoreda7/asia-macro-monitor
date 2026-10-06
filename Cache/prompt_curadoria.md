@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T02:52:43.196155+00:00
-Total: 2933 manchetes
+Última coleta: 2026-10-06T03:02:44.895453+00:00
+Total: 2934 manchetes
 
   🇯🇵 Japão          1250
   🇨🇳 China          772
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  662
+  🇰🇷 Coreia do Sul  663
 
 ## O que já está no feed (não repita)
 
@@ -31,6 +31,7 @@ Total: 2933 manchetes
   - [japan] Bank of Japan to determine that underlying inflation has reached 2% at meeting this month (Jiji Press)
   - [japan] <Machine tool orders> The summer decline continues to be strong, with August orders reaching 197.8 billion yen
   - [japan] Threatening complaints were made, but an "unexpected savior" appeared during the "litigation trouble" with a b
+  - [korea] There are a lot of things to say and a lot of trouble, but they say they will strengthen real estate..
   - [taiwan] SPCX Stock Ends Higher On Starship Fuel Plans, Analyst Optimism And TSMC Talks
   - [korea] South Korea FX Reserves End Three-Month Rising Streak
   - [japan] Nasdaq hits new high; buy tech stocks even as long-term interest rates rise
@@ -56,7 +57,6 @@ Total: 2933 manchetes
   - [taiwan] Taiwan Forex Reserves Edge Lower
   - [japan] Rapidus collaborates with 17 semiconductor design companies to attract attention for mass production
   - [japan] Japan farm minister retracts controversial budget remarks, makes apology
-  - [taiwan] AMD's Lisa Su back in Taiwan as AI capacity crunch spreads beyond TSMC
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2933 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T02:52:43+00:00",
+      "published_utc": "2026-10-06T03:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
