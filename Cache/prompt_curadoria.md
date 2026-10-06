@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T04:22:44.562243+00:00
-Total: 2940 manchetes
+Última coleta: 2026-10-06T04:32:46.798474+00:00
+Total: 2942 manchetes
 
-  🇯🇵 Japão          1255
+  🇯🇵 Japão          1256
   🇨🇳 China          772
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  664
+  🇰🇷 Coreia do Sul  665
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ may signal underlying inflation has hit 2% goal, sources say
   - [japan] Japan bonds pare losses after strong auction, but fiscal worries weigh
   - [japan] Kawasaki Heavy: Aims For Revenue Of More Than 3.3 Trln Yen And Business Profit Of More Than 330 Billion Yen By
   - [japan] World map made of glass beads in the Bank of Japan underground vault unveiled at Kanazawa Machinaka Arts Festi
@@ -26,6 +27,7 @@ Total: 2940 manchetes
   - [japan] Yen Steady as Takaichi Vows Fiscal Expansion
   - [japan] It is reported that the Bank of Japan has determined that the underlying inflation rate has reached 2% (curren
   - [japan] Japan bonds slide before 10-year auction amid fiscal worries at home and abroad
+  - [korea] Finance minister vows efforts to tame inflation, boost growth
   - [korea] South Korea finance minister sees economic growth in 3% range this year
   - [korea] SK Hynix trapped below SMA20 in tight range: Live levels
   - [korea] Samsung Electro-Mechanics Gains After Chip-Packaging Equipment Purchase Deal
@@ -55,8 +57,6 @@ Total: 2940 manchetes
   - [japan] Japan's chip industry capitalizes on growth in India semiconductor industry
   - [taiwan] Musk hints TSMC may join his mega chip venture, and Intel's stock is taking a hit
   - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
-  - [korea] A part-timer who posted real estate advertisements online and received 200 won per case and a new em..
-  - [china] UK Expected to Follow EU With China EV Tariffs, Report Says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2940 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T04:22:44+00:00",
+      "published_utc": "2026-10-06T04:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
