@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T00:52:48.440895+00:00
-Total: 2921 manchetes
+Última coleta: 2026-10-06T01:02:46.758251+00:00
+Total: 2920 manchetes
 
-  🇯🇵 Japão          1245
-  🇨🇳 China          772
+  🇯🇵 Japão          1244
+  🇨🇳 China          771
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  655
+  🇰🇷 Coreia do Sul  656
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electro-Mechanics Gains After Chip-Packaging Equipment Purchase Deal
   - [korea] Hanmi to Build Packaging Equipment for Samsung's AI-Chip Substrates
   - [korea] Hanmi Semiconductor Secures KRW24.48B Contract With Samsung Electro-Mechanics
   - [korea] Hanmi Semiconductor Co Wins 24.5 Billion Won Order
@@ -56,7 +57,6 @@ Total: 2921 manchetes
   - [japan] Nikkei stock index retakes 70,000, 1st time since July, as Fed rate hike prospects dim
   - [japan] BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology
   - [japan] Bank of Japan New Building Blocks "Shogun's Road", Great Proposal from Tanzan to Pope...Road Replacement Opera
-  - [japan] Japan services PMI misses forecasts in September as private-sector growth slows By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2921 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T00:52:48+00:00",
+      "published_utc": "2026-10-06T01:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
