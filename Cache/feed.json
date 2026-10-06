@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-06T20:52:48.092437+00:00",
- "collected_at_utc": "2026-10-06T20:52:48.092437+00:00",
+ "generated_at_utc": "2026-10-06T21:02:46.121272+00:00",
+ "collected_at_utc": "2026-10-06T21:02:46.121272+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1283,
-  "china": 781,
+  "china": 782,
   "taiwan": 257,
-  "korea": 679
+  "korea": 678
  },
- "elapsed_s": 31.1,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T20:31:28+00:00"
+   "newest": "2026-10-06T20:52:48+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T18:53:44+00:00"
+   "newest": "2026-10-06T20:46:09+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T18:56:32+00:00"
+   "newest": "2026-10-06T20:46:08+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-07T00:53:39+09:00"
+   "newest": "2026-10-07T06:01:56+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T13:09:00+00:00"
+   "newest": "2026-10-03T10:14:44+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-06T20:51:57+00:00"
+   "newest": "2026-10-06T21:02:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T13:45:30+00:00"
+   "newest": "2026-10-05T08:14:27+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Uncertainty mounts in Singapore after China tightens offshore trust rules",
+   "url": "https://asia.nikkei.com/business/business-asia/uncertainty-mounts-in-singapore-after-china-tightens-offshore-trust-rules",
+   "published_utc": "2026-10-06T21:02:45.597157+00:00",
+   "title_original": "Uncertainty mounts in Singapore after China tightens offshore trust rules",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b2c02eaea5f16992"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -2766,7 +2783,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "팩트인뉴스",
    "title_en": "Mortgage interest rates around 7%... Additional increases add to the burden",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44VEJMWWlIZ2dRRExuYzRzM0R0ak1qZDhvYUxmZXAxQW1SUjJSWUdjVjBPVGpuUHdYajYzdU94S2hueGJ3dDFyRlEwX2J4UG8xQU84ZUpidVRILTlOLTJfRmtOcUFpYmkzaERlVkUzRGTSAXRBVV95cUxOMy1JT3ZQQmhicmhQLVJmRThTOGRDT203STh4MDB6YW50LUMxMG11aEdoTVlpMFo4VUllS0poRkhpa2ZvSmkxcXFnVFhLSHFXc0VKZ0s0VUJfZ21ZSWdaNWxYaC0wS3ZoeHA0Y1NzbXJEWXdYdQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zLUlPdlBCaGJyaFAtUmZFOFM4ZENPbTdJOHgwMHphbnQtQzEwbXVoR2hNWWkwWjhVSWVLSmhGSGlrZm9KaTFxcWdUWEtIcVdzRUpnSzRVQl9nbVlJZ1o1bFhoLTBLdmh4cDRjU3NtckRZd1h10gF0QVVfeXFMTjMtSU92UEJoYnJoUC1SZkU4UzhkQ09tN0k4eDAwemFudC1DMTBtdWhHaE1ZaTBaOFVJZUtKaEZIaWtmb0ppMXFxZ1RYS0hxV3NFSmdLNFVCX2dtWUlnWjVsWGgtMEt2aHhwNGNTc21yRFl3WHU?oc=5",
    "published_utc": "2026-10-05T05:16:50+00:00",
    "title_original": "주담대 금리 7%대 눈앞…추가 인상에 부담 가중",
    "region": "korea",
@@ -2778,7 +2795,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "96f72d494a1bb706"
+   "id": "a8239d5a16d5a396"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51919,24 +51936,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b25585525c3e0c89"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "Inflation concerns around the world... Interested in whether central banks around the world will raise interest rates",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WZDBHNGZNVmZBWVRWZ25NSGdQLTZzM1I2VGNSMEdyeUk1ZnVDZHRJUVZ3OE1rTkdvS2RJb0t4Sl81eTY0ajRQQ19NQzF4QmM?oc=5",
-   "published_utc": "2026-09-07T01:12:06+00:00",
-   "title_original": "전 세계서 인플레이션 우려…각국 중앙은행 ‘금리 인상’ 여부 관심",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da86259cbb92472a"
   },
   {
    "source_id": "manual_ia",
