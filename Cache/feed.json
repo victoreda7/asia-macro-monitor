@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-06T14:02:47.155436+00:00",
- "collected_at_utc": "2026-10-06T14:02:47.155436+00:00",
+ "generated_at_utc": "2026-10-06T14:12:53.725475+00:00",
+ "collected_at_utc": "2026-10-06T14:12:53.725475+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1287,
-  "china": 778,
-  "taiwan": 254,
+  "japan": 1289,
+  "china": 777,
+  "taiwan": 253,
   "korea": 681
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 54,
+   "count": 59,
    "error": "",
-   "newest": "2026-10-06T17:48:40+08:00"
+   "newest": "2026-10-06T21:00:54+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T13:46:32+00:00"
+   "newest": "2026-10-06T14:03:27+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T13:05:43+00:00"
+   "newest": "2026-10-06T14:11:51+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T08:49:00+00:00"
+   "newest": "2026-10-06T13:40:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T04:40:00+00:00"
+   "newest": "2026-10-06T11:52:37+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-06T14:01:42+00:00"
+   "newest": "2026-10-06T14:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,41 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japanese Yen Likely to Rise if Fed Lifts Rates Less Than Expected — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261006004798:0-japanese-yen-likely-to-rise-if-fed-lifts-rates-less-than-expected-market-talk/",
+   "published_utc": "2026-10-06T14:07:00+00:00",
+   "title_original": "Japanese Yen Likely to Rise if Fed Lifts Rates Less Than Expected — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "67f3d508cc10d2ad"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "NPS cuts Korean tech winners for insurers, defensive stocks as interest rates rise",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04aUpabUZpcGxGeWlQOE9ZMUQ1aGo4eHA1ZnZtdG1EVGZKcHNjMy1abE4tRzMxNFN5ZTJQUkJjNERsQ2JuSGN3U1hoeEt2ZU5aeExfM0xqRmhiLVR4UThsTF9abXVfVmlGaHY0Mw?oc=5",
+   "published_utc": "2026-10-06T14:05:00+00:00",
+   "title_original": "NPS cuts Korean tech winners for insurers, defensive stocks as interest rates rise",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "706a20d1bbdc8c83"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "CoinMarketCal",
    "title_en": "Numeraire: Upbit opens KRW and USDT spot trading - 06 Oct 2026",
    "url": "https://www.tradingview.com/news/coinmarketcal:1eed990a7094b:0-numeraire-upbit-opens-krw-and-usdt-spot-trading-06-oct-2026/",
@@ -359,6 +394,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c4ee62787ab42ef6"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yTmxfQjBlMlNoSUg0bXZUcnJFUkNybGRnWk9HRldBVjVHQUJjUy1SdmpNelhWT01VVzBWYWtZeFdjc0xsWnRaa01hRUFNOF9HQl9PUGI2SzhxQQ?oc=5",
+   "published_utc": "2026-10-06T13:40:00+00:00",
+   "title_original": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a4dd4c730ff2feee"
   },
   {
    "source_id": "nhk_economy",
@@ -1353,7 +1405,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Samsung steps up HBM cooling as TSMC expands CoWoS",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY09abGxiTXlNZm5oaWJnYjcwZnZSSkNCSW12WTctbE4zLWVvV0E3amlPMEtwbVZMQVAzZ1dKZlZHZk1Sb3I1cmxOMTVaSFVTdGp5VFdYWGZxM014SW90bUU0WDZwc01YNncwNHZPdzBTbTVkUjk2Nlpuc0xuemNwX3dlVWdob3o3SHc?oc=5",
    "published_utc": "2026-10-06T04:15:08+00:00",
@@ -5242,7 +5294,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnVzZxQmhlcTJFZHA2alpHTXNlSUliN3ZNTG9pMTdub0xqay0xRlNRV1FvZHpCMmZQZGNwbnplN1hfWkVZOXUya0pHcjVlYlk2NGw3eWFoTk14SDhNVVpvbQ?oc=5",
    "published_utc": "2026-10-02T03:47:33+00:00",
@@ -8828,7 +8880,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "How a TSMC veteran is steering Singapore's lab-to-fab chip strategy",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUtJaTNCUlJYSm02cjVFdnlDN3ZVLUZFV3pqaktUR3ktRDBLQVFWMnA3dW42WFNTWHdoMENhb2FOaHhJVlpGVlJnNHBwOWUxdGR0aDBpZW1OSXFXWXNxLURONmF5aHE4QjhOMGZaYk1uOW5lQ3pMNkE1UmgxaGd1Y01lRFJvRFJEYTBGVnhpX2FYYUxjQnJJbEplSzVnMzdqYmc?oc=5",
    "published_utc": "2026-10-01T00:11:28+00:00",
@@ -11342,7 +11394,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Grand Pacific Petrochemical, Air Water join forces to expand Taiwan semiconductor materials business",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnRlOXRSYkNtX3h3OVRmbGR6SFdvM1BWUG1MZHVJOFBGSVB3T2hXMWNtWFZoQ3RQbk5reElPT2EzZGYtQWlKVTA5MDJZU2M3MzQwLTljV1F0TFpSZG1nTzhmRFM3U1NINF8tMTRJdGJ5emsxUWVoZXhYRWoyaTBTY1JyUENkRTBtUlNpWUpIdGVMdGFxWU5vZzlzTHAzT2FoOTNoaE0tMG05aWdEZThGdA?oc=5",
    "published_utc": "2026-09-30T01:28:09+00:00",
@@ -13267,7 +13319,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "GlobalFoundries eyes GaN expansion to challenge TSMC in AI",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjBkU0hSeTg3TzJsT293UXdOckNEQWxvenFfTDhJbno2Tm9pLXpEMTFsa180U2xCZDFKNEJMdVo5T0I1S1ZBc3pkeXZXaldsN1U5V21yRGFuSVBZRmZaUGNNZkZsUHp6ZUJaOFM3ZWt6Slpaa2JIQU9KM3A1MEZYVU1PdHVTd2dROXYzVHJtbTBHTHRFX2g2b01LX283TnhyMTFwbXcxQ2E?oc=5",
    "published_utc": "2026-09-29T03:31:47+00:00",
@@ -19596,7 +19648,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Anduril's Taiwan supply chain to grow 15-fold in 2026",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcml4bUZhWjUxTU11WVlxWTdoaEpieW1QTUdnS3pWbTZuX0VFY2hhNmNJSzQxU1dGb3pseVNnX0tseENfRmZIUllLYTlvUXgtbnRlSndSQmRlV2lwZXBSdm5FaFRJVWpMUDFURzdZRnBtelZXaFpXbi1vc19zWHE1MEFOYVc5b0NmNVNHNjJ3cFdLRHJScTkta3ZTZEpkcUdnME9xNXB2WlJoUkltX21z?oc=5",
    "published_utc": "2026-09-24T10:05:32+00:00",
@@ -21753,7 +21805,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan courts Indian IIT chief in bid to boost chip talent ties",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUtOVThaek5zbENESEd3bWtiYkRQWng3cjVaNW1xZTRXNnBwU0ZYYlpFYmJFNW81UF9BblFTbDRDQXFTV2ZVci01WTgtYkU2Rm9iclFFamkzZzRsT080SDhOY3loQzNXbl9LT1lEU05nb3VVcS1QQUc4OE9oUWNDY2N2dnNUR0daY2h3MXFva19PX2p6QUVJNk1SRHFsUC1CZXR3TkZBeUx3LS1VY2VXdl9KejU?oc=5",
    "published_utc": "2026-09-23T07:00:00+00:00",
@@ -51888,57 +51940,6 @@
    "live_wire": false,
    "manual": false,
    "id": "140d3552b9999c61"
-  },
-  {
-   "source_id": "scmp_business",
-   "source_name": "SCMP Business",
-   "title_en": "Economist Lan Xiaohuan on the balancing act needed to boost China’s consumption",
-   "url": "https://www.scmp.com/economy/global-economy/article/3366326/economist-lan-xiaohuan-balancing-act-needed-boost-chinas-consumption?utm_source=rss_feed",
-   "published_utc": "2026-09-06T22:00:09+00:00",
-   "title_original": "Economist Lan Xiaohuan on the balancing act needed to boost China’s consumption",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "95d25538af92c88c"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "South Korea to combine 5 utilities to prepare for AI, chip power demand",
-   "url": "https://asia.nikkei.com/politics/south-korea-to-combine-5-utilities-to-prepare-for-ai-chip-power-demand",
-   "published_utc": "2026-09-06T21:39:22.296690+00:00",
-   "title_original": "South Korea to combine 5 utilities to prepare for AI, chip power demand",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d0c780a05a6063c"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "Military budgets more arms production",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JZ2c3cENJcjd0dzI3MHVGX2JVQzZNbzNLV3hSdVczQmN2YWc2cER3c3pzcXdVNHJGQjJIUjM5U2taMmZuR3BXQWYxM1dOTHhjMWdFYkVyS01VQk8xY3VoSkVjQk5JNjNxd1Item9NLWtRVDJNeGtObw?oc=5",
-   "published_utc": "2026-09-06T16:00:00+00:00",
-   "title_original": "Military budgets more arms production",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d3a097122a8fc617"
   },
   {
    "source_id": "manual_ia",

@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T14:02:47.155436+00:00
+Última coleta: 2026-10-06T14:12:53.725475+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1287
-  🇨🇳 China          778
-  🇹🇼 Taiwan         254
+  🇯🇵 Japão          1289
+  🇨🇳 China          777
+  🇹🇼 Taiwan         253
   🇰🇷 Coreia do Sul  681
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japanese Yen Likely to Rise if Fed Lifts Rates Less Than Expected — Market Talk
+  - [korea] NPS cuts Korean tech winners for insurers, defensive stocks as interest rates rise
   - [korea] Numeraire: Upbit opens KRW and USDT spot trading - 06 Oct 2026
+  - [japan] Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028
   - [japan] Finance Minister Katayama: ``This is not an election campaign'' according to some reports
   - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
   - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] 10-year government bond interest rate set at 3.1% per year
   - [japan] Liberal Democratic Party/Ishin “Efforts to pass food consumption tax reduction bill in the current Diet sessio
   - [japan] TV personality Dewi ordered to pay 200,000 yen fine over assaults
-  - [taiwan] TSMC tops global FDI ranking as AI infrastructure redraws overseas investment
-  - [japan] Japan's Nikkei climbs 1% on dip in crude oil, smooth JGB auction
-  - [taiwan] AMD to expand Taiwan supply chain investment as chip demand grows: Lisa Su
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T14:02:47+00:00",
+      "published_utc": "2026-10-06T14:12:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
