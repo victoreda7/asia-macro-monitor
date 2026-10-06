@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T08:52:45.003869+00:00
-Total: 2976 manchetes
+Última coleta: 2026-10-06T09:02:45.972375+00:00
+Total: 2980 manchetes
 
   🇯🇵 Japão          1278
-  🇨🇳 China          773
-  🇹🇼 Taiwan         253
-  🇰🇷 Coreia do Sul  672
+  🇨🇳 China          774
+  🇹🇼 Taiwan         252
+  🇰🇷 Coreia do Sul  676
 
 ## O que já está no feed (não repita)
 
+  - [korea] Amid growing fiscal instability in Europe, including Spain and France, the Korean national debt situ..
+  - [korea] Hanmi Semiconductor has won a 24.5 billion won order for semiconductor post-processing equipment fro..
   - [japan] Interest rates on 10-year government bonds rise to 3.1%, the highest level in about 30 years Ministry of Finan
+  - [korea] First Vice Minister of Finance and Economy Kwon Dae-young apologized for increasing investor losses
+  - [korea] Samsung Electronics is expected to open the era of "quarter operating profit of KRW 100 trillion" fo..
   - [japan] Japan should significantly expand JGB sales to retail investors, lawmaker says
   - [taiwan] AMD CEO Lisa Su sees 'very high' chip demand continuing for years, praises TSMC expansion
   - [japan] JGB yield rises despite 30-year-high coupon as rates add to fiscal fears
@@ -53,10 +57,6 @@ Total: 2976 manchetes
   - [japan] BOJ may signal underlying inflation has hit 2% goal, sources say
   - [korea] Samsung steps up HBM cooling as TSMC expands CoWoS
   - [japan] Japan bonds pare losses after strong auction, but fiscal worries weigh
-  - [japan] Kawasaki Heavy: Aims For Revenue Of More Than 3.3 Trln Yen And Business Profit Of More Than 330 Billion Yen By
-  - [japan] Asian currencies mixed as dollar climbs, euro nears 17-month low
-  - [taiwan] Solidigm expands Taiwan SSD production base to tap AI server supply chain
-  - [korea] Bank of Korea ahead of the Monetary Policy Committee in October… The variables that determine the base interes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2976 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T08:52:45+00:00",
+      "published_utc": "2026-10-06T09:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
