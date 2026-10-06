@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T03:12:43.684262+00:00
-Total: 2934 manchetes
+Última coleta: 2026-10-06T03:22:44.103396+00:00
+Total: 2935 manchetes
 
-  🇯🇵 Japão          1250
+  🇯🇵 Japão          1251
   🇨🇳 China          772
   🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  663
@@ -20,6 +20,7 @@ Total: 2934 manchetes
   - [japan] Japan Yield Gains as Takaichi Vows Fiscal Expansion
   - [korea] Most Asian FX steady; Philippine peso, South Korean won weaken
   - [japan] Yen Steady as Takaichi Vows Fiscal Expansion
+  - [japan] It is reported that the Bank of Japan has determined that the underlying inflation rate has reached 2% (curren
   - [japan] Japan bonds slide before 10-year auction amid fiscal worries at home and abroad
   - [korea] South Korea finance minister sees economic growth in 3% range this year
   - [korea] SK Hynix trapped below SMA20 in tight range: Live levels
@@ -56,7 +57,6 @@ Total: 2934 manchetes
   - [japan] Asian currencies weaken as dollar gains, euro hits 17-month low
   - [taiwan] Taiwan Forex Reserves Edge Lower
   - [japan] Rapidus collaborates with 17 semiconductor design companies to attract attention for mass production
-  - [japan] Japan farm minister retracts controversial budget remarks, makes apology
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2934 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T03:12:43+00:00",
+      "published_utc": "2026-10-06T03:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
