@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T07:24:49.382294+00:00
-Total: 2964 manchetes
+Última coleta: 2026-10-06T07:32:48.666576+00:00
+Total: 2966 manchetes
 
-  🇯🇵 Japão          1269
+  🇯🇵 Japão          1271
   🇨🇳 China          774
   🇹🇼 Taiwan         250
   🇰🇷 Coreia do Sul  671
 
 ## O que já está no feed (não repita)
 
+  - [japan] 10-year government bond interest rate set at 3.1% per year
+  - [japan] BOJ chief calls for more focus on anchoring inflation around target
   - [japan] Liberal Democratic Party/Ishin “Efforts to pass food consumption tax reduction bill in the current Diet sessio
   - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
   - [japan] Japan's Nikkei climbs 1% on dip in crude oil, smooth JGB auction
-  - [japan] BOJ chief calls for more focus on anchoring inflation around target
+  - [japan] BREAKING NEWS: BOJ to raise rates as needed to stabilize inflation: governor
   - [korea] Kospi Snaps Two-Session Winning Streak; Defense, Chip Stocks Retreat
   - [japan] BOJ Ueda says financial conditions remain loose
   - [korea] The amount of finance supported by the Export-Import Bank of Korea to smoothly secure "seven key min..
@@ -55,8 +57,6 @@ Total: 2964 manchetes
   - [korea] South Korea finance minister sees economic growth in 3% range this year
   - [korea] Samsung Electro-Mechanics Gains After Chip-Packaging Equipment Purchase Deal
   - [korea] Hanmi to Build Packaging Equipment for Samsung's AI-Chip Substrates
-  - [korea] Hanmi Semiconductor Secures KRW24.48B Contract With Samsung Electro-Mechanics
-  - [korea] Hanmi Semiconductor Co Wins 24.5 Billion Won Order
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2964 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T07:24:49+00:00",
+      "published_utc": "2026-10-06T07:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
