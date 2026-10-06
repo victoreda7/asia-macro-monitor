@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T11:02:48.628324+00:00
-Total: 2993 manchetes
+Última coleta: 2026-10-06T11:12:44.648546+00:00
+Total: 2994 manchetes
 
-  🇯🇵 Japão          1284
+  🇯🇵 Japão          1285
   🇨🇳 China          775
   🇹🇼 Taiwan         254
   🇰🇷 Coreia do Sul  680
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen market price decline; yen selling moves due to interest rate difference between Japan and the US
   - [japan] Bank of Japan Governor Ueda plans to continue raising interest rates while remaining cautious of upside risk t
   - [korea] Goldman sees Korean FX intervention risk if won strengthens sharply By Investing.com
   - [korea] Goldman sees Korean FX intervention risk if won strengthens sharply
@@ -56,7 +57,6 @@ Total: 2993 manchetes
   - [japan] Japan's Iwatani, Cosmo to develop hydrogen supply chain at Chiba refinery
   - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
   - [japan] Prime Minister Takaichi asks US President Trump to approach Japan-North Korea summit meeting
-  - [korea] Samsung Biologics union seeks direct talks with Samsung Electronics
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2993 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T11:02:48+00:00",
+      "published_utc": "2026-10-06T11:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
