@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T12:33:20.804346+00:00
-Total: 2994 manchetes
+Última coleta: 2026-10-06T12:42:46.164743+00:00
+Total: 2997 manchetes
 
   🇯🇵 Japão          1286
-  🇨🇳 China          774
+  🇨🇳 China          775
   🇹🇼 Taiwan         254
-  🇰🇷 Coreia do Sul  680
+  🇰🇷 Coreia do Sul  682
 
 ## O que já está no feed (não repita)
 
+  - [china] MORE U.S. AUGUST TRADE: CHINA DEFICIT UP TO $16.4 BILLION FROM $15.2 BILLION IN JULY
+  - [korea] Roze AI Expands Disaster Prevention and Physical AI Business with Approximately US$12.2 Million (KRW 16.4 Bill
+  - [korea] Roze AI Inc. (RZAI) Wins KRW 16.4B Disaster-Prevention Contracts in South Korea
   - [japan] JGB yield rises despite 30-year-high coupon
   - [japan] Yen market price decline; yen selling moves due to interest rate difference between Japan and the US
   - [japan] Bank of Japan Governor Ueda plans to continue raising interest rates while remaining cautious of upside risk t
@@ -54,9 +57,6 @@ Total: 2994 manchetes
   - [japan] BREAKING NEWS: BOJ to raise rates as needed to stabilize inflation: governor
   - [korea] Kospi Snaps Two-Session Winning Streak; Defense, Chip Stocks Retreat
   - [japan] BOJ Ueda says financial conditions remain loose
-  - [korea] The amount of finance supported by the Export-Import Bank of Korea to smoothly secure "seven key min..
-  - [japan] Japan's Iwatani, Cosmo to develop hydrogen supply chain at Chiba refinery
-  - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2994 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T12:33:21+00:00",
+      "published_utc": "2026-10-06T12:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
