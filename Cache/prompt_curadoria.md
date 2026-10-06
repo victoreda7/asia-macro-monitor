@@ -7,17 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T13:22:46.873938+00:00
-Total: 2998 manchetes
+Última coleta: 2026-10-06T13:32:46.127237+00:00
+Total: 2999 manchetes
 
-  🇯🇵 Japão          1286
+  🇯🇵 Japão          1287
   🇨🇳 China          776
   🇹🇼 Taiwan         254
   🇰🇷 Coreia do Sul  682
 
 ## O que já está no feed (não repita)
 
-  - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
+  - [japan] Finance Minister Katayama: ``This is not an election campaign'' according to some reports
   - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
   - [china] MORE U.S. AUGUST TRADE: CHINA DEFICIT UP TO $16.4 BILLION FROM $15.2 BILLION IN JULY
   - [korea] Roze AI Expands Disaster Prevention and Physical AI Business with Approximately US$12.2 Million (KRW 16.4 Bill
@@ -52,11 +52,11 @@ Total: 2998 manchetes
   - [japan] 10-year government bond interest rate set at 3.1% per year
   - [japan] Liberal Democratic Party/Ishin “Efforts to pass food consumption tax reduction bill in the current Diet sessio
   - [japan] TV personality Dewi ordered to pay 200,000 yen fine over assaults
+  - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
   - [taiwan] TSMC tops global FDI ranking as AI infrastructure redraws overseas investment
   - [japan] Japan's Nikkei climbs 1% on dip in crude oil, smooth JGB auction
   - [taiwan] AMD to expand Taiwan supply chain investment as chip demand grows: Lisa Su
   - [japan] BREAKING NEWS: BOJ to raise rates as needed to stabilize inflation: governor
-  - [korea] Kospi Snaps Two-Session Winning Streak; Defense, Chip Stocks Retreat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2998 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T13:22:47+00:00",
+      "published_utc": "2026-10-06T13:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
