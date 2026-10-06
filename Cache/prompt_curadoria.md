@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T20:22:44.227613+00:00
+Última coleta: 2026-10-06T20:32:46.961299+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1283
-  🇨🇳 China          780
+  🇨🇳 China          781
   🇹🇼 Taiwan         257
-  🇰🇷 Coreia do Sul  680
+  🇰🇷 Coreia do Sul  679
 
 ## O que já está no feed (não repita)
 
+  - [japan] <Highest profit for 5 consecutive terms> Ebara challenges champion AMAT with semiconductor CMP equipment, "thr
   - [china] Wabash Welcomes Final U.S. Ruling on Unfairly Traded Chinese Trailer Imports; Canada and Mexico Investigations
+  - [china] Wabash (WNC) Says U.S. Finalizes China Trailer AD/CVD; 232 Tariffs Stack
   - [taiwan] TSMC and other Taiwan players boost AI spending in US, Southeast Asia
   - [japan] Towa plans chipmaking tool plant for Japanese supply chain: CEO
   - [taiwan] Intel Stock Slips as TSMC Talks Complicate TeraFab's 14A Bet
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] First Vice Minister of Finance and Economy Kwon Dae-young apologized for increasing investor losses
   - [korea] Samsung Electronics is expected to open the era of "quarter operating profit of KRW 100 trillion" fo..
   - [japan] Japan should significantly expand JGB sales to retail investors, lawmaker says
-  - [china] Chinese LCD panel makers tighten supply to lift prices — Taiwan suppliers eye order shifts
-  - [taiwan] AMD CEO Lisa Su sees 'very high' chip demand continuing for years, praises TSMC expansion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T20:22:44+00:00",
+      "published_utc": "2026-10-06T20:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
