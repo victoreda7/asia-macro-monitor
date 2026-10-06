@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T10:02:44.521935+00:00
-Total: 2988 manchetes
+Última coleta: 2026-10-06T10:12:48.559037+00:00
+Total: 2991 manchetes
 
-  🇯🇵 Japão          1281
+  🇯🇵 Japão          1283
   🇨🇳 China          775
-  🇹🇼 Taiwan         253
+  🇹🇼 Taiwan         254
   🇰🇷 Coreia do Sul  679
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yomiuri: Japan's House Foods Group to Absorb Subsidiaries in Restructuring Gambit
+  - [japan] Bank of Japan Governor Ueda warns against upward trend in prices: ``Stability at 2% is more important'' (Asahi
   - [japan] Japan's Sumitomo Mitsui DS Asset swaps some French bonds for German, yen debt
+  - [taiwan] TSMC Texas-Terafab buzz drives Taiwan contractors to move fast
   - [taiwan] TSMC evaluates potential Texas investment, sources say
   - [korea] Ministry of Planning and Budget ◇ Promotion of Deputy Director △ Director of Budget Park Jung-min
   - [korea] Amid growing fiscal instability in Europe, including Spain and France, the Korean national debt situ..
@@ -54,9 +57,6 @@ Total: 2988 manchetes
   - [korea] Vice Minister of Finance and Economy Kwon Dae-young said on the 6th that the Financial Services Comm..
   - [japan] 10-year JGB coupon hits 30-year high as rising rates add to fiscal fears
   - [japan] Food consumption tax reduction bill approved by the Liberal Democratic Party's Board of Governors and to be su
-  - [china] AI street surveillance system China's exports are increasing
-  - [korea] SK Hynix compresses at KRW 1,776,000 Fibonacci support: Live
-  - [japan] [Today's Oha Biz October 6th (Tuesday)] Major housing manufacturer's strategy review
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2988 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T10:02:44+00:00",
+      "published_utc": "2026-10-06T10:12:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
