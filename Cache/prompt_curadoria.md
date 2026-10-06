@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T09:22:45.177702+00:00
+Última coleta: 2026-10-06T09:32:44.631917+00:00
 Total: 2984 manchetes
 
   🇯🇵 Japão          1279
@@ -17,6 +17,7 @@ Total: 2984 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC evaluates potential Texas investment, sources say
   - [korea] Ministry of Planning and Budget ◇ Promotion of Deputy Director △ Director of Budget Park Jung-min
   - [korea] Amid growing fiscal instability in Europe, including Spain and France, the Korean national debt situ..
   - [japan] Bank of Japan Governor Ueda ``adjusts the degree of monetary easing'' and continues to raise interest rates Gr
@@ -56,7 +57,6 @@ Total: 2984 manchetes
   - [korea] SK Hynix compresses at KRW 1,776,000 Fibonacci support: Live
   - [japan] [Today's Oha Biz October 6th (Tuesday)] Major housing manufacturer's strategy review
   - [japan] Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy By Investing.com
-  - [japan] Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2984 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T09:22:45+00:00",
+      "published_utc": "2026-10-06T09:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
