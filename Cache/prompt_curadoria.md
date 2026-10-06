@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T12:52:49.181438+00:00
-Total: 2997 manchetes
+Última coleta: 2026-10-06T13:02:46.115099+00:00
+Total: 2998 manchetes
 
   🇯🇵 Japão          1286
-  🇨🇳 China          775
+  🇨🇳 China          776
   🇹🇼 Taiwan         254
   🇰🇷 Coreia do Sul  682
 
 ## O que já está no feed (não repita)
 
+  - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
   - [china] MORE U.S. AUGUST TRADE: CHINA DEFICIT UP TO $16.4 BILLION FROM $15.2 BILLION IN JULY
   - [korea] Roze AI Expands Disaster Prevention and Physical AI Business with Approximately US$12.2 Million (KRW 16.4 Bill
   - [korea] Roze AI Inc. (RZAI) Wins KRW 16.4B Disaster-Prevention Contracts in South Korea
@@ -56,7 +57,6 @@ Total: 2997 manchetes
   - [taiwan] AMD to expand Taiwan supply chain investment as chip demand grows: Lisa Su
   - [japan] BREAKING NEWS: BOJ to raise rates as needed to stabilize inflation: governor
   - [korea] Kospi Snaps Two-Session Winning Streak; Defense, Chip Stocks Retreat
-  - [japan] BOJ Ueda says financial conditions remain loose
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2997 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T12:52:49+00:00",
+      "published_utc": "2026-10-06T13:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
