@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T02:22:44.434315+00:00
-Total: 2930 manchetes
+Última coleta: 2026-10-06T02:32:45.014623+00:00
+Total: 2931 manchetes
 
-  🇯🇵 Japão          1247
+  🇯🇵 Japão          1248
   🇨🇳 China          772
   🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  662
@@ -18,6 +18,7 @@ Total: 2930 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] Most Asian FX steady; Philippine peso, South Korean won weaken
+  - [japan] Yen Steady as Takaichi Vows Fiscal Expansion
   - [japan] Japan bonds slide before 10-year auction amid fiscal worries at home and abroad
   - [korea] South Korea finance minister sees economic growth in 3% range this year
   - [korea] SK Hynix trapped below SMA20 in tight range: Live levels
@@ -25,8 +26,8 @@ Total: 2930 manchetes
   - [korea] Hanmi to Build Packaging Equipment for Samsung's AI-Chip Substrates
   - [korea] Hanmi Semiconductor Secures KRW24.48B Contract With Samsung Electro-Mechanics
   - [korea] Hanmi Semiconductor Co Wins 24.5 Billion Won Order
-  - [japan] Bank of Japan to determine that underlying inflation has reached 2% at meeting this month (Jiji Press)
   - [japan] The Bank of Japan will consider determining that the underlying price index has reached 2% (Jiji Press)
+  - [japan] Bank of Japan to determine that underlying inflation has reached 2% at meeting this month (Jiji Press)
   - [japan] <Machine tool orders> The summer decline continues to be strong, with August orders reaching 197.8 billion yen
   - [japan] Threatening complaints were made, but an "unexpected savior" appeared during the "litigation trouble" with a b
   - [taiwan] SPCX Stock Ends Higher On Starship Fuel Plans, Analyst Optimism And TSMC Talks
@@ -56,7 +57,6 @@ Total: 2930 manchetes
   - [taiwan] AMD's Lisa Su back in Taiwan as AI capacity crunch spreads beyond TSMC
   - [korea] Should I sell stocks and deposit money? Bankers’ deposit interest rate ‘increase rally’
   - [taiwan] Taiwan teams accelerate 2D semiconductor transfer with published research in Nature
-  - [china] QCOM Gains Overnight After Patent Deal With China’s Huawei Covering AI Chip Tech
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2930 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T02:22:44+00:00",
+      "published_utc": "2026-10-06T02:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
