@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T05:22:44.646220+00:00
-Total: 2952 manchetes
+Última coleta: 2026-10-06T05:32:45.161950+00:00
+Total: 2953 manchetes
 
-  🇯🇵 Japão          1262
+  🇯🇵 Japão          1263
   🇨🇳 China          773
   🇹🇼 Taiwan         250
   🇰🇷 Coreia do Sul  667
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister Takaichi asks US President Trump to approach Japan-North Korea summit meeting
   - [korea] Samsung Biologics union seeks direct talks with Samsung Electronics
   - [japan] 10-year JGB coupon hits 30-year high as rising rates add to fiscal fears
   - [japan] Food consumption tax reduction bill approved by the Liberal Democratic Party's Board of Governors and to be su
@@ -56,7 +57,6 @@ Total: 2952 manchetes
   - [japan] Prime Minister Takaichi seeks understanding on consumption tax cut, opposition parties plan to provide financi
   - [taiwan] Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses
   - [taiwan] Tesla Stock Rises After Musk Confirms TSMC Talks
-  - [china] Takaichi's ``aggressive fiscal policy'' is state capitalism that imitates China while viewing it as an enemy. 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2952 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T05:22:44+00:00",
+      "published_utc": "2026-10-06T05:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
