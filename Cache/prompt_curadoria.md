@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T13:52:46.801070+00:00
+Última coleta: 2026-10-06T14:02:47.155436+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1287
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Numeraire: Upbit opens KRW and USDT spot trading - 06 Oct 2026
   - [japan] Finance Minister Katayama: ``This is not an election campaign'' according to some reports
   - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
   - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC tops global FDI ranking as AI infrastructure redraws overseas investment
   - [japan] Japan's Nikkei climbs 1% on dip in crude oil, smooth JGB auction
   - [taiwan] AMD to expand Taiwan supply chain investment as chip demand grows: Lisa Su
-  - [japan] BREAKING NEWS: BOJ to raise rates as needed to stabilize inflation: governor
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T13:52:47+00:00",
+      "published_utc": "2026-10-06T14:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
