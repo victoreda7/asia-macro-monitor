@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-06T18:22:46.574311+00:00",
- "collected_at_utc": "2026-10-06T18:22:46.574311+00:00",
+ "generated_at_utc": "2026-10-06T18:32:45.927475+00:00",
+ "collected_at_utc": "2026-10-06T18:32:45.927475+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1287,
-  "china": 777,
+  "japan": 1286,
+  "china": 778,
   "taiwan": 256,
   "korea": 680
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 48,
+   "error": "",
+   "newest": "2026-10-05T14:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T18:04:13+00:00"
+   "newest": "2026-10-06T18:25:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T18:04:13+00:00"
+   "newest": "2026-10-06T18:18:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T13:09:00+00:00"
+   "newest": "2026-10-03T10:14:44+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-06T18:22:00+00:00"
+   "newest": "2026-10-06T18:31:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T10:29:06+00:00"
+   "newest": "2026-10-06T16:32:01+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T13:45:30+00:00"
+   "newest": "2026-10-05T08:14:27+00:00"
   }
  ],
  "items": [
@@ -3826,6 +3826,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a8d89969be75a87b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "茉莉花新闻网",
+   "title_en": "The central bank raised the upper limit of overnight reverse repurchase to one trillion to protect cross-holiday funds for 11 consecutive days",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5uWUpJVEt3c3ZEN1JBbjNuOEpHVFY4UWNHZVZLdlRtYjVEc0hyR05UWm91SUxDcHU0MUxzSUI5NzlYY2VWZmc?oc=5",
+   "published_utc": "2026-10-03T10:14:44+00:00",
+   "title_original": "央行上调隔夜逆回购上限至万亿 连续11天呵护跨节资金",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c56cf84bbbbcecb5"
   },
   {
    "source_id": "yahoo_business",
@@ -15328,6 +15345,23 @@
    "id": "339691e806c08422"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Minutes: BOJ discussed faster rate hikes at July meeting",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2Qm1Jcmo0b1ZwRV96TFE2d2NEUUx5NC1kM05oWnZHQXlPMEx5bF9GYzNMTWlLNkNVc2p2SnVmTjE4UEo4b3BjWmw1cWJMMnFtdU8xenROQXdUN3oxVTV0OUY2VQ?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "title_original": "Minutes: BOJ discussed faster rate hikes at July meeting",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "824f8debe6e25e50"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "TSMC affiliate already eyes expansion as first Singapore plant 'sells out'",
@@ -16905,23 +16939,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b6e1e42dc731ff96"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Minutes: BOJ discussed faster rate hikes at July meeting",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2Qm1Jcmo0b1ZwRV96TFE2d2NEUUx5NC1kM05oWnZHQXlPMEx5bF9GYzNMTWlLNkNVc2p2SnVmTjE4UEo4b3BjWmw1cWJMMnFtdU8xenROQXdUN3oxVTV0OUY2VQ?oc=5",
-   "published_utc": "2026-09-27T15:51:00+00:00",
-   "title_original": "Minutes: BOJ discussed faster rate hikes at July meeting",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "824f8debe6e25e50"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51922,24 +51939,6 @@
    "live_wire": false,
    "manual": false,
    "id": "355d183f776b7952"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Foreign exchange reserves at the end of August decreased by 12 trillion yen due to foreign exchange intervention by the government and the Bank of Japan (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SenAxNlFnMXFDd0dWck5VanFkQWFBOTZTSmJ3SWhnXzdTczdYWl8ySDdKdkZtbEdoMjhhUUVWWE5SN1ZmSk82Q2lLSm1GeVJpZFYyb21tbUphZzZEd3EwV2lIdlBoVDU1dUwyVThhY29OR1NkQTJwNlJncE5acTA?oc=5",
-   "published_utc": "2026-09-07T00:06:14+00:00",
-   "title_original": "8月末の外貨準備、12兆円減 政府・日銀の為替介入で（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "758084501fb8fe55"
   },
   {
    "source_id": "manual_ia",
