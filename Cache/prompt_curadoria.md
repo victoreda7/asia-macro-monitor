@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T19:22:48.985615+00:00
+Última coleta: 2026-10-06T19:32:45.972085+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1285
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
   - [taiwan] TSMC Stocks Drop as Musk Confirms Terafab Talks Without a Deal
   - [korea] South Korea exports eased Russia fuel crisis caused by drone strikes, Ukraine says
   - [taiwan] Taiwan's AUO, Innolux bet on glass as next-gen AI chip material
@@ -28,7 +29,6 @@ Total: 3000 manchetes
   - [korea] Numeraire: Upbit opens KRW and USDT spot trading - 06 Oct 2026
   - [japan] Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028
   - [japan] Finance Minister Katayama: ``This is not an election campaign'' according to some reports
-  - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
   - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
   - [china] MORE U.S. AUGUST TRADE: CHINA DEFICIT UP TO $16.4 BILLION FROM $15.2 BILLION IN JULY
   - [korea] Roze AI Expands Disaster Prevention and Physical AI Business with Approximately US$12.2 Million (KRW 16.4 Bill
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T19:22:49+00:00",
+      "published_utc": "2026-10-06T19:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
