@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T21:42:44.310902+00:00
+Última coleta: 2026-10-06T21:52:44.641539+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1283
+  🇯🇵 Japão          1282
   🇨🇳 China          782
   🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  677
+  🇰🇷 Coreia do Sul  678
 
 ## O que já está no feed (não repita)
 
+  - [korea] NLST Stock Jumps 18% After Micron’s $600M License Deal — Retail Now Awaits SK Hynix
   - [taiwan] TSMC boosts US investments to $265B on AI boom: report
   - [china] Uncertainty mounts in Singapore after China tightens offshore trust rules
   - [japan] Will the "$30 billion result" won by Trump at the US-China summit help the Republican Party in dire straits? "
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Amid growing fiscal instability in Europe, including Spain and France, the Korean national debt situ..
   - [japan] Bank of Japan Governor Ueda ``adjusts the degree of monetary easing'' and continues to raise interest rates Gr
   - [korea] Hanmi Semiconductor has won a 24.5 billion won order for semiconductor post-processing equipment fro..
-  - [japan] Interest rates on 10-year government bonds rise to 3.1%, the highest level in about 30 years Ministry of Finan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T21:42:44+00:00",
+      "published_utc": "2026-10-06T21:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
