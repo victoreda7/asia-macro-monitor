@@ -7,20 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T23:43:21.622100+00:00
+Última coleta: 2026-10-06T23:52:45.652087+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1284
-  🇨🇳 China          781
+  🇯🇵 Japão          1288
+  🇨🇳 China          779
   🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  677
+  🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [japan] Monetary Base and the Bank of Japan's Transactions (Sept.)
+  - [japan] Bank of Japan's Transactions with the Government (Sept.)
+  - [japan] Market Operations by the Bank of Japan (Sept.)
   - [japan] Japan considers another extra budget for disaster relief, Yomiuri says
   - [japan] Japan manufacturers’ mood hits near 5-year high, service-sector sentiment slumps: Reuters poll
   - [korea] Samsung’s Q3 profit seen jumping nine-fold, but chip margins may be flat
   - [japan] Japan Manufacturers' Confidence Highest Since 2021
+  - [japan] 日銀利上げ「景気殺さぬタイミングで」と佐藤審議委員、段階的な調整に賛成 メディアの取材に（ロイター）
   - [japan] BOJ's dovish dissenter signals support for future rate hikes
   - [japan] BOJ's Sato signals support for future rate hikes, Kyodo reports
   - [japan] Is it wrong to say that "Japanese houses are high-performance"? "The weakest function in developed countries" 
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] JGB yield rises despite 30-year-high coupon
   - [japan] Yen market price decline; yen selling moves due to interest rate difference between Japan and the US
   - [japan] Bank of Japan Governor Ueda plans to continue raising interest rates while remaining cautious of upside risk t
-  - [korea] Goldman sees Korean FX intervention risk if won strengthens sharply By Investing.com
-  - [korea] Goldman sees Korean FX intervention risk if won strengthens sharply
-  - [japan] Yomiuri: Japan's House Foods Group to Absorb Subsidiaries in Restructuring Gambit
-  - [japan] Bank of Japan Governor Ueda warns against upward trend in prices: ``Stability at 2% is more important'' (Asahi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T23:43:21+00:00",
+      "published_utc": "2026-10-06T23:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

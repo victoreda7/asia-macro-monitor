@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-06T23:43:21.622100+00:00",
- "collected_at_utc": "2026-10-06T23:43:21.622100+00:00",
+ "generated_at_utc": "2026-10-06T23:52:45.652087+00:00",
+ "collected_at_utc": "2026-10-06T23:52:45.652087+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1284,
-  "china": 781,
+  "japan": 1288,
+  "china": 779,
   "taiwan": 258,
-  "korea": 677
+  "korea": 675
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 48,
+   "count": 51,
    "error": "",
-   "newest": "2026-10-05T14:00:00+09:00"
+   "newest": "2026-10-07T08:50:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T22:52:35+00:00"
+   "newest": "2026-10-06T23:11:12+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-07T08:30:00+09:00"
+   "newest": "2026-10-07T08:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2609.pdf",
+   "published_utc": "2026-10-06T23:50:00+00:00",
+   "title_original": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b125bca3a1efc08"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Bank of Japan's Transactions with the Government (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
+   "published_utc": "2026-10-06T23:50:00+00:00",
+   "title_original": "Bank of Japan's Transactions with the Government (Sept.)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a825fddb85031586"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Market Operations by the Bank of Japan (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
+   "published_utc": "2026-10-06T23:50:00+00:00",
+   "title_original": "Market Operations by the Bank of Japan (Sept.)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "36d85464386a55ad"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -410,6 +461,24 @@
    "live_wire": true,
    "manual": false,
    "id": "b76d0b10ff10ed5f"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "日銀利上げ「景気殺さぬタイミングで」と佐藤審議委員、段階的な調整に賛成 メディアの取材に（ロイター）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RZE1seWlUUDhidjluQWdqbFgzU1NYU2oydmZYbFptVnIzWktFT2hGM0Y1a1gtQ0NaTmZkcU9rSHdkM1ZyMENOVWo4UlVGTHFqbXk5SEZsOUhLaTJpUWF4dVU2NEMtQU5HTENyRHdKNVVVQUpxOW44RXZnQkNycUE?oc=5",
+   "published_utc": "2026-10-06T23:11:12+00:00",
+   "title_original": "日銀利上げ「景気殺さぬタイミングで」と佐藤審議委員、段階的な調整に賛成 メディアの取材に（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2d1aa4ab1e75586e"
   },
   {
    "source_id": "tradingview_live",
@@ -51860,75 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "286c4c9acc50f41c"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Inventory surge signals strength in chips, weakness in autos",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45R1RTNURTWkhYNEFYLUNldE1DUXVRdU9tT2pkXzZ6cXFueVFRUmdyV3FUNmRldXFaYy1rNUhjM3ktejJOaG5rNl9nVEFPTThOc0hmbU1xQQ?oc=5",
-   "published_utc": "2026-09-07T02:07:19+00:00",
-   "title_original": "Inventory surge signals strength in chips, weakness in autos",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e9a12373d909120d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "湖南红网",
-   "title_en": "The central bank launched a 500 billion yuan three-month buyout reverse repurchase operation on September 7",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xU0ZsZ2ZadE85UzRNek9YNEdjczlwZTIyd3A2QlNJa1hhdkpOX09wWENwaVpLQnFmOE1Cdk5Ub0ZndGVpa1JsX2h0ZE5Pek80bk1LREZQdXEtMXRxbEMyei02ekgzQQ?oc=5",
-   "published_utc": "2026-09-07T01:59:23+00:00",
-   "title_original": "央行9月7日开展5000亿元3个月期买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4455333b74c202b6"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Strong won lifts airline stocks",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMMndDRkRMMnJLa1VCMFo3RzY3NmFTUDdWRTN5VnpNbE80MHc5VXRjZDJIaWhKUGVwM1FKeVZmWmlqMFZDOXlGUnd0YWtRc0lqdlpYZFdxQQ?oc=5",
-   "published_utc": "2026-09-07T01:56:01+00:00",
-   "title_original": "Strong won lifts airline stocks",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2a0d931d64e448b8"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Property Moves to Fuel 30% Hit to Land Sales, Goldman Says",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclU4SktObnlieXptUVJGX1h4cU1qUDhCTHNPRVAxcTFuR3VjQ3NYN1hkN3dYdEN2eFQzMnY5N1VxN2tBVjlzRWNWanQ4OU83YnBsTm14WWFnVnFuV2NJWks5X2VLdjZqOEE3WV9id0c1eXotc3dMbGdhRlozdkNZQmw5VV9RcWpIdzROa3dxbTZNU1NHZDBDTGx0eG1NLUN0LTEwczREb2gyQm1SQndpcUxvRQ?oc=5",
-   "published_utc": "2026-09-07T01:44:00+00:00",
-   "title_original": "China Property Moves to Fuel 30% Hit to Land Sales, Goldman Says",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d8f65f704852ebc6"
   },
   {
    "source_id": "manual_ia",
