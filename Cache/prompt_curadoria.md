@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T20:42:46.855394+00:00
+Última coleta: 2026-10-06T20:52:48.092437+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1283
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Will the "$30 billion result" won by Trump at the US-China summit help the Republican Party in dire straits? "
   - [japan] <Highest profit for 5 consecutive terms> Ebara challenges champion AMAT with semiconductor CMP equipment, "thr
   - [china] Wabash Welcomes Final U.S. Ruling on Unfairly Traded Chinese Trailer Imports; Canada and Mexico Investigations
   - [china] Wabash (WNC) Says U.S. Finalizes China Trailer AD/CVD; 232 Tariffs Stack
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Interest rates on 10-year government bonds rise to 3.1%, the highest level in about 30 years Ministry of Finan
   - [korea] First Vice Minister of Finance and Economy Kwon Dae-young apologized for increasing investor losses
   - [korea] Samsung Electronics is expected to open the era of "quarter operating profit of KRW 100 trillion" fo..
-  - [japan] Japan should significantly expand JGB sales to retail investors, lawmaker says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T20:42:47+00:00",
+      "published_utc": "2026-10-06T20:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
