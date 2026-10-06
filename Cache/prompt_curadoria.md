@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T23:02:44.024274+00:00
+Última coleta: 2026-10-06T23:12:44.744294+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1283
+  🇯🇵 Japão          1284
   🇨🇳 China          781
   🇹🇼 Taiwan         258
-  🇰🇷 Coreia do Sul  678
+  🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan considers another extra budget for disaster relief, Yomiuri says
+  - [japan] BOJ's dovish dissenter signals support for future rate hikes
   - [japan] BOJ's Sato signals support for future rate hikes, Kyodo reports
   - [japan] Is it wrong to say that "Japanese houses are high-performance"? "The weakest function in developed countries" 
   - [korea] NLST Stock Jumps 18% After Micron’s $600M License Deal — Retail Now Awaits SK Hynix
@@ -32,8 +34,8 @@ Total: 3000 manchetes
   - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
   - [taiwan] TSMC Stocks Drop as Musk Confirms Terafab Talks Without a Deal
   - [korea] South Korea exports eased Russia fuel crisis caused by drone strikes, Ukraine says
-  - [taiwan] Taiwan's AUO, Innolux bet on glass as next-gen AI chip material
   - [japan] Bank of Japan member Sato favors continuing interest rate hikes without specifying timing, concerns about weak
+  - [taiwan] Taiwan's AUO, Innolux bet on glass as next-gen AI chip material
   - [taiwan] Taiwan Semiconductor Price Target Raised to $665.00/Share From $650.00 by Barclays
   - [japan] "There are too many needs for semiconductors or GPUs"...Minister of Economy, Trade and Industry Akazawa says i
   - [japan] Japanese Yen Likely to Rise if Fed Lifts Rates Less Than Expected — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Sumitomo Mitsui DS Asset swaps some French bonds for German, yen debt
   - [taiwan] TSMC Texas-Terafab buzz drives Taiwan contractors to move fast
   - [taiwan] TSMC evaluates potential Texas investment, sources say
-  - [korea] Ministry of Planning and Budget ◇ Promotion of Deputy Director △ Director of Budget Park Jung-min
-  - [korea] Amid growing fiscal instability in Europe, including Spain and France, the Korean national debt situ..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T23:02:44+00:00",
+      "published_utc": "2026-10-06T23:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
