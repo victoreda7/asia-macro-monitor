@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T23:12:44.744294+00:00
+Última coleta: 2026-10-06T23:22:46.295130+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1284
@@ -17,7 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan manufacturers’ mood hits near 5-year high, service-sector sentiment slumps: Reuters poll
   - [japan] Japan considers another extra budget for disaster relief, Yomiuri says
+  - [korea] Samsung’s Q3 profit seen jumping nine-fold, but chip margins may be flat
   - [japan] BOJ's dovish dissenter signals support for future rate hikes
   - [japan] BOJ's Sato signals support for future rate hikes, Kyodo reports
   - [japan] Is it wrong to say that "Japanese houses are high-performance"? "The weakest function in developed countries" 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Yomiuri: Japan's House Foods Group to Absorb Subsidiaries in Restructuring Gambit
   - [japan] Bank of Japan Governor Ueda warns against upward trend in prices: ``Stability at 2% is more important'' (Asahi
   - [japan] Japan's Sumitomo Mitsui DS Asset swaps some French bonds for German, yen debt
-  - [taiwan] TSMC Texas-Terafab buzz drives Taiwan contractors to move fast
-  - [taiwan] TSMC evaluates potential Texas investment, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T23:12:44+00:00",
+      "published_utc": "2026-10-06T23:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
