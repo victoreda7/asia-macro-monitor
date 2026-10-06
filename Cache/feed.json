@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-06T01:42:44.848761+00:00",
- "collected_at_utc": "2026-10-06T01:42:44.848761+00:00",
+ "generated_at_utc": "2026-10-06T01:52:46.239926+00:00",
+ "collected_at_utc": "2026-10-06T01:52:46.239926+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 2923,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 249,
   "korea": 657
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 32.8,
  "sources": [
+  {
+   "source_id": "gn_asia_ft",
+   "name": "FT Asia",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -46,14 +54,6 @@
    "newest": "2026-10-05T08:29:17+00:00"
   },
   {
-   "source_id": "gn_asia_ft",
-   "name": "FT Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-05T21:01:56+00:00"
-  },
-  {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 38,
+   "count": 39,
    "error": "",
-   "newest": "2026-10-05T21:02:42+08:00"
+   "newest": "2026-10-06T09:09:00+08:00"
   },
   {
    "source_id": "investing_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-06T01:40:01+00:00"
+   "newest": "2026-10-06T01:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T22:31:59+00:00"
+   "newest": "2026-10-05T19:28:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -3784,7 +3784,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnVzZxQmhlcTJFZHA2alpHTXNlSUliN3ZNTG9pMTdub0xqay0xRlNRV1FvZHpCMmZQZGNwbnplN1hfWkVZOXUya0pHcjVlYlk2NGw3eWFoTk14SDhNVVpvbQ?oc=5",
    "published_utc": "2026-10-02T03:47:33+00:00",
@@ -7352,7 +7352,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "How a TSMC veteran is steering Singapore's lab-to-fab chip strategy",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUtJaTNCUlJYSm02cjVFdnlDN3ZVLUZFV3pqaktUR3ktRDBLQVFWMnA3dW42WFNTWHdoMENhb2FOaHhJVlpGVlJnNHBwOWUxdGR0aDBpZW1OSXFXWXNxLURONmF5aHE4QjhOMGZaYk1uOW5lQ3pMNkE1UmgxaGd1Y01lRFJvRFJEYTBGVnhpX2FYYUxjQnJJbEplSzVnMzdqYmc?oc=5",
    "published_utc": "2026-10-01T00:11:28+00:00",
@@ -8253,7 +8253,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
+   "source_name": "stockstar.com",
    "title_en": "The central bank announced that it will carry out a 1.2 trillion yuan buyout reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VU1labFJuWGl1d1c3N1RKNHVldFBham9wWWRiUzJJUEUteWZKa3N3ZHlhZVJhTFFzR1JsS0gtWE9lVWZJU0VuTDZvWFVTQ0tVbGE4b0RkSEhZTXhrcEdEXw?oc=5",
    "published_utc": "2026-09-30T12:19:51+00:00",
@@ -9831,7 +9831,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Grand Pacific Petrochemical, Air Water join forces to expand Taiwan semiconductor materials business",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnRlOXRSYkNtX3h3OVRmbGR6SFdvM1BWUG1MZHVJOFBGSVB3T2hXMWNtWFZoQ3RQbk5reElPT2EzZGYtQWlKVTA5MDJZU2M3MzQwLTljV1F0TFpSZG1nTzhmRFM3U1NINF8tMTRJdGJ5emsxUWVoZXhYRWoyaTBTY1JyUENkRTBtUlNpWUpIdGVMdGFxWU5vZzlzTHAzT2FoOTNoaE0tMG05aWdEZThGdA?oc=5",
    "published_utc": "2026-09-30T01:28:09+00:00",
@@ -11703,7 +11703,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "GlobalFoundries eyes GaN expansion to challenge TSMC in AI",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjBkU0hSeTg3TzJsT293UXdOckNEQWxvenFfTDhJbno2Tm9pLXpEMTFsa180U2xCZDFKNEJMdVo5T0I1S1ZBc3pkeXZXaldsN1U5V21yRGFuSVBZRmZaUGNNZkZsUHp6ZUJaOFM3ZWt6Slpaa2JIQU9KM3A1MEZYVU1PdHVTd2dROXYzVHJtbTBHTHRFX2g2b01LX283TnhyMTFwbXcxQ2E?oc=5",
    "published_utc": "2026-09-29T03:31:47+00:00",
@@ -18032,7 +18032,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Anduril's Taiwan supply chain to grow 15-fold in 2026",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcml4bUZhWjUxTU11WVlxWTdoaEpieW1QTUdnS3pWbTZuX0VFY2hhNmNJSzQxU1dGb3pseVNnX0tseENfRmZIUllLYTlvUXgtbnRlSndSQmRlV2lwZXBSdm5FaFRJVWpMUDFURzdZRnBtelZXaFpXbi1vc19zWHE1MEFOYVc5b0NmNVNHNjJ3cFdLRHJScTkta3ZTZEpkcUdnME9xNXB2WlJoUkltX21z?oc=5",
    "published_utc": "2026-09-24T10:05:32+00:00",
@@ -20189,7 +20189,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
+   "source_name": "digitimes",
    "title_en": "Taiwan courts Indian IIT chief in bid to boost chip talent ties",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUtOVThaek5zbENESEd3bWtiYkRQWng3cjVaNW1xZTRXNnBwU0ZYYlpFYmJFNW81UF9BblFTbDRDQXFTV2ZVci01WTgtYkU2Rm9iclFFamkzZzRsT080SDhOY3loQzNXbl9LT1lEU05nb3VVcS1QQUc4OE9oUWNDY2N2dnNUR0daY2h3MXFva19PX2p6QUVJNk1SRHFsUC1CZXR3TkZBeUx3LS1VY2VXdl9KejU?oc=5",
    "published_utc": "2026-09-23T07:00:00+00:00",
