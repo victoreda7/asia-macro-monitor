@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T09:12:46.480973+00:00
-Total: 2981 manchetes
+Última coleta: 2026-10-06T09:22:45.177702+00:00
+Total: 2984 manchetes
 
   🇯🇵 Japão          1279
-  🇨🇳 China          774
-  🇹🇼 Taiwan         252
-  🇰🇷 Coreia do Sul  676
+  🇨🇳 China          775
+  🇹🇼 Taiwan         253
+  🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
 
+  - [korea] Ministry of Planning and Budget ◇ Promotion of Deputy Director △ Director of Budget Park Jung-min
   - [korea] Amid growing fiscal instability in Europe, including Spain and France, the Korean national debt situ..
   - [japan] Bank of Japan Governor Ueda ``adjusts the degree of monetary easing'' and continues to raise interest rates Gr
   - [korea] Hanmi Semiconductor has won a 24.5 billion won order for semiconductor post-processing equipment fro..
@@ -24,6 +25,7 @@ Total: 2981 manchetes
   - [korea] First Vice Minister of Finance and Economy Kwon Dae-young apologized for increasing investor losses
   - [korea] Samsung Electronics is expected to open the era of "quarter operating profit of KRW 100 trillion" fo..
   - [japan] Japan should significantly expand JGB sales to retail investors, lawmaker says
+  - [china] Chinese LCD panel makers tighten supply to lift prices — Taiwan suppliers eye order shifts
   - [taiwan] AMD CEO Lisa Su sees 'very high' chip demand continuing for years, praises TSMC expansion
   - [japan] JGB yield rises despite 30-year-high coupon as rates add to fiscal fears
   - [china] China's GDP Growth Likely Edged Up to 4.5% in 3Q, Citi Says — Market Talk
@@ -38,6 +40,7 @@ Total: 2981 manchetes
   - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
   - [taiwan] TSMC tops global FDI ranking as AI infrastructure redraws overseas investment
   - [japan] Japan's Nikkei climbs 1% on dip in crude oil, smooth JGB auction
+  - [taiwan] AMD to expand Taiwan supply chain investment as chip demand grows: Lisa Su
   - [japan] BREAKING NEWS: BOJ to raise rates as needed to stabilize inflation: governor
   - [korea] Kospi Snaps Two-Session Winning Streak; Defense, Chip Stocks Retreat
   - [japan] BOJ Ueda says financial conditions remain loose
@@ -54,9 +57,6 @@ Total: 2981 manchetes
   - [japan] [Today's Oha Biz October 6th (Tuesday)] Major housing manufacturer's strategy review
   - [japan] Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy By Investing.com
   - [japan] Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy
-  - [japan] Bank of Japan may decide to reach 2% underlying inflation at October meeting - source (Reuters)
-  - [japan] BOJ may signal underlying inflation has hit 2% goal, sources say
-  - [korea] Samsung steps up HBM cooling as TSMC expands CoWoS
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2981 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T09:12:46+00:00",
+      "published_utc": "2026-10-06T09:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
