@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T08:02:47.610959+00:00
-Total: 2971 manchetes
+Última coleta: 2026-10-06T08:12:45.314652+00:00
+Total: 2974 manchetes
 
-  🇯🇵 Japão          1275
-  🇨🇳 China          774
-  🇹🇼 Taiwan         251
+  🇯🇵 Japão          1276
+  🇨🇳 China          775
+  🇹🇼 Taiwan         252
   🇰🇷 Coreia do Sul  671
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB yield rises despite 30-year-high coupon as rates add to fiscal fears
+  - [china] China's GDP Growth Likely Edged Up to 4.5% in 3Q, Citi Says — Market Talk
   - [japan] Underlying inflation stabilizes at around 2% target, ``more important'' Bank of Japan Governor Ueda (Jiji Pres
   - [japan] AI Inflation Impact on Japan CPI Likely Limited — Market Talk
   - [japan] BOJ chief calls for more focus on anchoring inflation around target
@@ -25,6 +27,7 @@ Total: 2971 manchetes
   - [japan] Liberal Democratic Party/Ishin “Efforts to pass food consumption tax reduction bill in the current Diet sessio
   - [japan] TV personality Dewi ordered to pay 200,000 yen fine over assaults
   - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
+  - [taiwan] TSMC tops global FDI ranking as AI infrastructure redraws overseas investment
   - [japan] Japan's Nikkei climbs 1% on dip in crude oil, smooth JGB auction
   - [japan] BREAKING NEWS: BOJ to raise rates as needed to stabilize inflation: governor
   - [korea] Kospi Snaps Two-Session Winning Streak; Defense, Chip Stocks Retreat
@@ -54,9 +57,6 @@ Total: 2971 manchetes
   - [japan] Citi Strategist Sees JGB Yields Nearing Peak
   - [japan] Japan Yield Gains as Takaichi Vows Fiscal Expansion
   - [korea] Most Asian FX steady; Philippine peso, South Korean won weaken
-  - [japan] Yen Steady as Takaichi Vows Fiscal Expansion
-  - [japan] It is reported that the Bank of Japan has determined that the underlying inflation rate has reached 2% (curren
-  - [japan] Japan bonds slide before 10-year auction amid fiscal worries at home and abroad
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2971 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T08:02:47+00:00",
+      "published_utc": "2026-10-06T08:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

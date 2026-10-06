@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-06T08:02:47.610959+00:00",
- "collected_at_utc": "2026-10-06T08:02:47.610959+00:00",
+ "generated_at_utc": "2026-10-06T08:12:45.314652+00:00",
+ "collected_at_utc": "2026-10-06T08:12:45.314652+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
- "count": 2971,
+ "count": 2974,
  "by_region": {
-  "japan": 1275,
-  "china": 774,
-  "taiwan": 251,
+  "japan": 1276,
+  "china": 775,
+  "taiwan": 252,
   "korea": 671
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.3,
  "sources": [
+  {
+   "source_id": "investing_econ",
+   "name": "Investing Economy",
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -43,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T04:15:08+00:00"
+   "newest": "2026-10-06T07:01:13+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,15 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T07:49:39+00:00"
-  },
-  {
-   "source_id": "investing_econ",
-   "name": "Investing Economy",
-   "ok": true,
-   "count": 10,
-   "error": "",
-   "newest": "2026-10-06T07:42:43+00:00"
+   "newest": "2026-10-06T08:07:05+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T07:05:42+00:00"
+   "newest": "2026-10-06T08:11:51+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-06T16:15:33+00:00"
+   "newest": "2026-10-06T17:03:12+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T02:13:00+00:00"
+   "newest": "2026-10-06T07:21:43+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T00:34:38+00:00"
+   "newest": "2026-10-05T21:14:15+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-06T08:01:39+00:00"
+   "newest": "2026-10-06T08:11:36+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T07:33:49+00:00"
+   "newest": "2026-10-06T08:04:48+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "JGB yield rises despite 30-year-high coupon as rates add to fiscal fears",
+   "url": "https://asia.nikkei.com/business/markets/jgb-yield-rises-despite-30-year-high-coupon-as-rates-add-to-fiscal-fears",
+   "published_utc": "2026-10-06T08:12:44.973985+00:00",
+   "title_original": "JGB yield rises despite 30-year-high coupon as rates add to fiscal fears",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a1990f84e03a3f12"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's GDP Growth Likely Edged Up to 4.5% in 3Q, Citi Says — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261006001000:0-china-s-gdp-growth-likely-edged-up-to-4-5-in-3q-citi-says-market-talk/",
+   "published_utc": "2026-10-06T08:04:00+00:00",
+   "title_original": "China's GDP Growth Likely Edged Up to 4.5% in 3Q, Citi Says — Market Talk",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7aae8bc056126aa2"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -470,7 +504,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "Samsung Biologics union seeks bargaining with Samsung Electronics",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDUmRneXFqaE1Nc0M0ODF4TTJ5dkRxYWYyWXF2TVpfMTQ0azdUM1Y3UlpPZU1wbElUU19RSE1FTDh0SE5UQnVMUXdNQVUybGltTk5wVmdLZGdzRlN2VXMwSW93aVppV0t1RmpycjZMVQ?oc=5",
    "published_utc": "2026-10-06T07:05:42+00:00",
@@ -484,6 +518,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0f142bc1cd5d8116"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC tops global FDI ranking as AI infrastructure redraws overseas investment",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdmpzRi1rZXhZVnlZTklGNmJlVGZMa1ZTdlRZS1BWVEFNT3VIa09UUHRNRzZTZTQ0ZnREOGMyNnVOdXAzanpvNjdMY3NGcUFuaWotcXNJWXJOVlNlc1NNcVp4dkZqNnVwOHJ4ZHJVZGJ6VGFOM01LUUZKZW5pRjJMYWlFVGxMXzg0VXliN3JaeGVQY1hNYWc?oc=5",
+   "published_utc": "2026-10-06T07:01:13+00:00",
+   "title_original": "TSMC tops global FDI ranking as AI infrastructure redraws overseas investment",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "75e7c574fa4518f9"
   },
   {
    "source_id": "tradingview_live",
@@ -1423,7 +1474,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "Korean shipbuilders, refiners see Q3 estimates upgraded; chipmakers face cuts",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtM2hvR184S1h2MEVhNVE4Vl9PQTJ6ZGh4TzJpQlZoendyeERZWS10QmVSakhtYTU5bnRmVmZhWGFvdzNLblhlWGZYMzdtVnRTT1c3NGMyRzFpUEZfTDlTU0k5eG5fZTQ4SE9V?oc=5",
    "published_utc": "2026-10-05T13:11:00+00:00",
@@ -5311,7 +5362,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "ekn.kr",
+   "source_name": "에너지경제신문",
    "title_en": "The base interest rate is driven by prices and pushed by exchange rates... Attention to the last Monetary Policy Committee of the year",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1Q1Nud0d0ZDZYTUtoZExQZXMxc2ZvSGQxX2ZyTk0yTVVtU1VLNUlVQ3JzYnNsQlQwTklUYU0zT052RWU3cEF5RlNrR0owdzhseS1RWEpycEJjTDQ?oc=5",
    "published_utc": "2026-10-01T23:54:15+00:00",
@@ -6270,7 +6321,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzeHliaFRwbWhfaHV3S2s3dkpJbmdJMmlJSzJZdXhMWFEyZFFOcEFKb2JiNkhGR2QtQUxFU3ZjUUlTRlc1TU1WWnlOWWhKU1FEdlNtdHdwazVlUU84MVVyNlJ3Qm9VZVdDdHc?oc=5",
    "published_utc": "2026-10-01T13:33:01+00:00",
@@ -6771,7 +6822,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "news.qq.com",
    "title_en": "1.2 trillion yuan! The central bank previews the buyout reverse repurchase operation on the first day after the holidays",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42MmMxNDliRmpTaDhxRWUyeWRfVWFFRWU2eGhKT2FmYldEZEM4LUhPOHZpdnJhQXYwbFNIQlhodGFmSEEtLU1uZ3R2MWM3d1NCRUU0bjFnaVFlUF9PNXdac0NR?oc=5",
    "published_utc": "2026-10-01T08:17:00+00:00",
@@ -8606,24 +8657,6 @@
    "id": "c7757a0a89873e66"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "华龙网",
-   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByYTRmczlSYUFmcGt3ZzRoelBXVDBiYUluOUJKd0lVWGxMOFYzUWcwUmMyOXhZbW1DTjFyUFRqVVlKeS0wdk9JVWhzQlBSMENraEx0bkNUWGp3cEtMeGRiaENwbzB1aHUwOUNB?oc=5",
-   "published_utc": "2026-09-30T23:00:08+00:00",
-   "title_original": "央行将开展12000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dbe0eac8f5d46bda"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Bank Of Japan Tankan Survey Due On Thursday",
@@ -9436,7 +9469,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "news.qq.com",
    "title_en": "Good news came after the market closed. The central bank announced in advance that it would release a net fund of 200 billion yuan after the holiday! At a time when A-share funds are hesitant and hesitant, the central bank has given the market \"reassurance\" in advance.",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nMEs2NGticERTZW4weXdidV9nT1JjQi14RjhpRGJwRG1ZSXBRM1NtQ1Z4T3hsb0RqYXF5Y1lSY1ZFOVNGU1NPd3J4TzFMb1JOam5BMGpR?oc=5",
    "published_utc": "2026-09-30T10:43:00+00:00",
@@ -9628,7 +9661,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "뉴닉",
+   "source_name": "newneek.co",
    "title_en": "In August, mortgage interest rates hit the highest in 3 years and 9 months. 📈",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PRGdtTW55NVVTSzFTbGEyR1BacUNrcmRCSjBERjE1aUx4amZBamNrcDdvQnZscFBNc3BaYk56YmlHdHpRaDdsS0FwNUdfeWdXcjhR?oc=5",
    "published_utc": "2026-09-30T09:44:07+00:00",
@@ -9766,24 +9799,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7915bda5daf94b7f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Central Bank: Will launch 1.2 trillion yuan buyout reverse repurchase operation on October 8",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR09fQVNodnExMkNJZWx6TkkzQVBsYnVwU3B0TlRuUFZtZS1tTG82Z0stUzZ5MGZrQnFPZldFQi1FYVdlNGNqMy1GTHR2XzEyYTlZNkJGM3pMa3hkemJZcEgzd19wZXZoOHViX2dVVXBMY21NOURVckhyMGR0emk2X1gxRDRocnp3dUhVbXRR?oc=5",
-   "published_utc": "2026-09-30T09:14:00+00:00",
-   "title_original": "央行：将于10月8日开展12000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3f8802ed2acb110"
   },
   {
    "source_id": "gn_kr_bok",
@@ -10132,6 +10147,24 @@
    "id": "fd903e1f09de1064"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "Central Bank: Will launch 1.2 trillion yuan buyout reverse repurchase operation on October 8",
+   "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOZDdvRGlqVjE1NFI3LTBhdEZqei0xLXl0bmM3dFl2Q283b0JZTW56am53Z3pOcGduaGlBbUhIendYN3lqb3VpSV9PZk54T3dDeTFESnl0dlcwQXVraG5FajdJTFJXbTdIdU5hbkpETVNCN1dNbWVGTjY4WHpMWThUdG9vcGg2TF9relBoZWw4bldRUkF3QW9oNHpOcm83TzZpb2lVcHpqRm9iSzZqWU1NWVh0YzRQSGpTMmVldWJXdVZRcTNhRmZ5ZTdXN0tFWHAzcFU3WklKZzRRYUNNSTBkdElXanZPVE1xUHdhU3hzM0VYTjJQLTlndnJmc1B4dDRQS0dZTmpBNkRMU3BvdFo1eDlZQnJZV19vTllFVTZtd2lPNWoyaE5YY1ZIeVRUWUVLeXFSNndkSmZMbEU4N2NZOUYyOHpIQ1FMbjctMk9wNTdYM0J3UkcxcjRpZXZBa2pSZVh4UVR2MGxLT3BqWml2NG9zUFpzc0ZMT3BzYVYxR0ZOd0t4bEV0Sm1MWlU3M2VwMjdJMDhKZURSa0hYeU9xNlE0UzFJYWJheWdFdnFaMlYzNHNrQjlIeGZKQ1FBU1dRRVVqZGpMZUVXeG9kaXVsNmVjQ0RKUQ?oc=5",
+   "published_utc": "2026-09-30T07:00:00+00:00",
+   "title_original": "央行：将于10月8日开展12000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9260faa28d2b8b3a"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Manufacturing Activity Returns to Expansion",
@@ -10254,7 +10287,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
+   "source_name": "news.qq.com",
    "title_en": "The central bank has exceeded its quota by 200 billion yuan, and the overnight funding limit has been raised to 1 trillion. How will banks respond across quarters?",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jTXNOang3Q09JSDZJUGk3M0ZqX05WQW9iQ0drOHlYV0x3WDB6OGxPaU05MVJ0djE5ZDZia2R4dFRKd1p0Q1FjcGVwbXR4QUtSX2s0TkFn?oc=5",
    "published_utc": "2026-09-30T05:40:00+00:00",
@@ -10789,7 +10822,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "10jqka.com.cn",
+   "source_name": "同花顺财经",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on September 30, and it also carried out 833.5 billion yuan of overnight reverse repurchase operations.",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdy1vXzlVSWJ5MHBBX1Y3emNjeS1wNDRDZjFocHNCTXZ1ekZyRGhTVW1nOEFVeUZ2eEdOY3Q0VUVfQnlXXzdPQ09DVm9iV2FqSkpCZ0w4UHJ5RWtGX1E?oc=5",
    "published_utc": "2026-09-30T01:23:15+00:00",
@@ -11370,6 +11403,24 @@
    "id": "5181a9d6f388a7ad"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "封面新闻",
+   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SQmhYYWFGeElzRkZqNkhZRmYyMEtuZWlCN3EyTU0xeXVhQkd1cDdxVnJobkhxeGNEU0JKcmNTcElSWGhFNnRBZW5FLXpvNU1haS13ajVHR0ZKdzdHRHpsNDB0SVk1cG1RbmNhZFV2WHV0Q3pIRDQw?oc=5",
+   "published_utc": "2026-09-29T19:46:00+00:00",
+   "title_original": "央行将开展12000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0072aa546315a0e9"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Global currency divergence: Banxico, BoJ and ECB chart independent paths from the Fed",
@@ -11560,7 +11611,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "Korea’s dollar store giant Daiso emerges as real estate player with $355 mn deals",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40aGtRVVlEMllBbDRRNVhPLVRkQmUwN0VHbDZ4SnpoZDI3dGl3U0FKMnEtbmxDTGtSdDRPdWJFR1JzeWNjWlNaR2c0c0JGMnV4SnhNUnU2QjVlN1FhVUVDejBzTGlmLVM1c2tLenRoOA?oc=5",
    "published_utc": "2026-09-29T16:45:03+00:00",
@@ -24040,7 +24091,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "China tightens grip on Korea's robotaxi supply chain as Chinese LiDAR dominates",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81TzNEcGNLczNmclg4aEkyX2xNeGh5MzVkbGQtbHRrcF94ekZ5RXZVVXpQVS1PT2huS3VsY1BlTXdvTVpjSEppYkNOUmtSdWxjU2tid2gyVklpNXEtVU5GckVKanJRSWFHQzBVenV5ZURaUmp1?oc=5",
    "published_utc": "2026-09-21T07:00:00+00:00",
@@ -40416,7 +40467,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
+   "source_name": "kedglobal.com",
    "title_en": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUXVRdklHeC0wazdnNldDb0RuSC1PbmUtSk1GN0w3WVA2cmhHT2QzQmFYTV92ZWZkc09XLVdqTFhXMTJmV2cwMkp3Mm1kTU15dHFNcGRRaUpkX0V6XzROZVBVeTg5a3Zl?oc=5",
    "published_utc": "2026-09-11T07:00:00+00:00",
