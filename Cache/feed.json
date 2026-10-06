@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-06T18:03:15.685877+00:00",
- "collected_at_utc": "2026-10-06T18:03:15.685877+00:00",
+ "generated_at_utc": "2026-10-06T18:12:44.885501+00:00",
+ "collected_at_utc": "2026-10-06T18:12:44.885501+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1289,
+  "japan": 1288,
   "china": 777,
-  "taiwan": 255,
+  "taiwan": 256,
   "korea": 679
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T08:35:09+00:00"
+   "newest": "2026-10-06T08:09:25+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T17:42:20+00:00"
+   "newest": "2026-10-06T18:04:13+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T17:25:45+00:00"
+   "newest": "2026-10-06T18:04:13+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-06T18:02:00+00:00"
+   "newest": "2026-10-06T18:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T08:14:27+00:00"
+   "newest": "2026-10-06T13:45:30+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "TSMC Stocks Drop as Musk Confirms Terafab Talks Without a Deal",
+   "url": "https://www.tradingview.com/news/gurufocus:e7d84ef27094b:0-tsmc-stocks-drop-as-musk-confirms-terafab-talks-without-a-deal/",
+   "published_utc": "2026-10-06T18:11:16+00:00",
+   "title_original": "TSMC Stocks Drop as Musk Confirms Terafab Talks Without a Deal",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b611b75b66e08775"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -10425,6 +10442,24 @@
    "id": "b83b593ee33d0ea2"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWm00VXNndWlwQzJxcjRlUUZYUUJqMVhqUC1DcGtybmpDamtYNWd5RWNsWjVhSG9tQ3N6RnZreDlWUm9YOFBOMk4xNmdUQjlLbFBGM1BwdjdST0YwTlFsTUJJLXJHNzVGcTdhU3VuYXJtZWxnTm52b01jYklxRmV0OXVRRQ?oc=5",
+   "published_utc": "2026-09-30T09:34:59+00:00",
+   "title_original": "央行：将开展12000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "719bb674bfa1065e"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "China's Central Bank May Still Prefer Targeted, Low-Profile Credit Easing — Market Talk",
@@ -12302,24 +12337,6 @@
    "live_wire": true,
    "manual": false,
    "id": "073f453b1a1e1df0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36氪",
-   "title_en": "Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00X2E5NzE5VnpleVVYRG5qOHRmT0M5THNabFdxRnlLdXhNbUNvZjVuVERhNVZ5UHV4UkxpRVZhLXJBamx3WGhLWE9CRWtoT3JUMF81REV0NzF4aHc?oc=5",
-   "published_utc": "2026-09-29T18:13:00+00:00",
-   "title_original": "央行：将开展1.2万亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6c8515868ad9c5f7"
   },
   {
    "source_id": "tradingview_live",
@@ -51923,23 +51940,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0524533c3da10262"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Monetary Base and the Bank of Japan's Transactions (Aug.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2608.pdf",
-   "published_utc": "2026-09-06T23:50:00+00:00",
-   "title_original": "Monetary Base and the Bank of Japan's Transactions (Aug.)",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "afc72068721ecb88"
   },
   {
    "source_id": "manual_ia",
