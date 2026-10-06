@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T07:32:48.666576+00:00
-Total: 2966 manchetes
+Última coleta: 2026-10-06T07:42:44.105684+00:00
+Total: 2968 manchetes
 
-  🇯🇵 Japão          1271
+  🇯🇵 Japão          1272
   🇨🇳 China          774
-  🇹🇼 Taiwan         250
+  🇹🇼 Taiwan         251
   🇰🇷 Coreia do Sul  671
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's September Exports Likely Rose 46.5%, WSJ Poll Shows — Market Talk
   - [japan] 10-year government bond interest rate set at 3.1% per year
   - [japan] BOJ chief calls for more focus on anchoring inflation around target
   - [japan] Liberal Democratic Party/Ishin “Efforts to pass food consumption tax reduction bill in the current Diet sessio
+  - [japan] TV personality Dewi ordered to pay 200,000 yen fine over assaults
   - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
   - [japan] Japan's Nikkei climbs 1% on dip in crude oil, smooth JGB auction
   - [japan] BREAKING NEWS: BOJ to raise rates as needed to stabilize inflation: governor
@@ -55,8 +57,6 @@ Total: 2966 manchetes
   - [japan] Japan bonds slide before 10-year auction amid fiscal worries at home and abroad
   - [korea] Finance minister vows efforts to tame inflation, boost growth
   - [korea] South Korea finance minister sees economic growth in 3% range this year
-  - [korea] Samsung Electro-Mechanics Gains After Chip-Packaging Equipment Purchase Deal
-  - [korea] Hanmi to Build Packaging Equipment for Samsung's AI-Chip Substrates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2966 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T07:32:48+00:00",
+      "published_utc": "2026-10-06T07:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
