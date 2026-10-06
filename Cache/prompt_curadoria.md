@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T15:02:47.673636+00:00
+Última coleta: 2026-10-06T15:12:46.428024+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1290
+  🇯🇵 Japão          1291
   🇨🇳 China          777
-  🇹🇼 Taiwan         254
-  🇰🇷 Coreia do Sul  679
+  🇹🇼 Taiwan         255
+  🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's AUO, Innolux bet on glass as next-gen AI chip material
+  - [japan] Bank of Japan member Sato favors continuing interest rate hikes without specifying timing, concerns about weak
   - [taiwan] Taiwan Semiconductor Price Target Raised to $665.00/Share From $650.00 by Barclays
   - [japan] "There are too many needs for semiconductors or GPUs"...Minister of Economy, Trade and Industry Akazawa says i
   - [japan] Japanese Yen Likely to Rise if Fed Lifts Rates Less Than Expected — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] AI Inflation Impact on Japan CPI Likely Limited — Market Talk
   - [japan] BOJ chief calls for more focus on anchoring inflation around target
   - [japan] Asian currencies rangebound as dollar, euro hold near multi-month extremes
-  - [taiwan] Taiwan's September Exports Likely Rose 46.5%, WSJ Poll Shows — Market Talk
-  - [japan] 10-year government bond interest rate set at 3.1% per year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T15:02:47+00:00",
+      "published_utc": "2026-10-06T15:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
