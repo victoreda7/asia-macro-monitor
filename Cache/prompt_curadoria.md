@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T07:52:45.187662+00:00
-Total: 2969 manchetes
+Última coleta: 2026-10-06T08:02:47.610959+00:00
+Total: 2971 manchetes
 
-  🇯🇵 Japão          1273
+  🇯🇵 Japão          1275
   🇨🇳 China          774
   🇹🇼 Taiwan         251
   🇰🇷 Coreia do Sul  671
 
 ## O que já está no feed (não repita)
 
+  - [japan] Underlying inflation stabilizes at around 2% target, ``more important'' Bank of Japan Governor Ueda (Jiji Pres
+  - [japan] AI Inflation Impact on Japan CPI Likely Limited — Market Talk
   - [japan] BOJ chief calls for more focus on anchoring inflation around target
   - [taiwan] Taiwan's September Exports Likely Rose 46.5%, WSJ Poll Shows — Market Talk
   - [japan] 10-year government bond interest rate set at 3.1% per year
@@ -55,8 +57,6 @@ Total: 2969 manchetes
   - [japan] Yen Steady as Takaichi Vows Fiscal Expansion
   - [japan] It is reported that the Bank of Japan has determined that the underlying inflation rate has reached 2% (curren
   - [japan] Japan bonds slide before 10-year auction amid fiscal worries at home and abroad
-  - [korea] Finance minister vows efforts to tame inflation, boost growth
-  - [korea] South Korea finance minister sees economic growth in 3% range this year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2969 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T07:52:45+00:00",
+      "published_utc": "2026-10-06T08:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
