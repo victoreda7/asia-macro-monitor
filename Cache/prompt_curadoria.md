@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T21:12:44.882625+00:00
+Última coleta: 2026-10-06T21:22:46.144887+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1283
   🇨🇳 China          782
-  🇹🇼 Taiwan         257
-  🇰🇷 Coreia do Sul  678
+  🇹🇼 Taiwan         258
+  🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC boosts US investments to $265B on AI boom: report
   - [china] Uncertainty mounts in Singapore after China tightens offshore trust rules
   - [japan] Will the "$30 billion result" won by Trump at the US-China summit help the Republican Party in dire straits? "
   - [japan] <Highest profit for 5 consecutive terms> Ebara challenges champion AMAT with semiconductor CMP equipment, "thr
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda ``adjusts the degree of monetary easing'' and continues to raise interest rates Gr
   - [korea] Hanmi Semiconductor has won a 24.5 billion won order for semiconductor post-processing equipment fro..
   - [japan] Interest rates on 10-year government bonds rise to 3.1%, the highest level in about 30 years Ministry of Finan
-  - [korea] First Vice Minister of Finance and Economy Kwon Dae-young apologized for increasing investor losses
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T21:12:45+00:00",
+      "published_utc": "2026-10-06T21:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
