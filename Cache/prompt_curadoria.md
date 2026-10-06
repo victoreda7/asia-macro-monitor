@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T06:52:46.911803+00:00
-Total: 2961 manchetes
+Última coleta: 2026-10-06T07:02:47.747285+00:00
+Total: 2962 manchetes
 
-  🇯🇵 Japão          1265
+  🇯🇵 Japão          1268
   🇨🇳 China          774
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  672
+  🇰🇷 Coreia do Sul  670
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Nikkei climbs 1% on dip in crude oil, smooth JGB auction
+  - [japan] BOJ chief calls for more focus on anchoring inflation around target
   - [korea] Kospi Snaps Two-Session Winning Streak; Defense, Chip Stocks Retreat
   - [japan] BOJ Ueda says financial conditions remain loose
   - [korea] The amount of finance supported by the Export-Import Bank of Korea to smoothly secure "seven key min..
@@ -37,6 +39,7 @@ Total: 2961 manchetes
   - [korea] Samsung steps up HBM cooling as TSMC expands CoWoS
   - [japan] Japan bonds pare losses after strong auction, but fiscal worries weigh
   - [japan] Kawasaki Heavy: Aims For Revenue Of More Than 3.3 Trln Yen And Business Profit Of More Than 330 Billion Yen By
+  - [japan] Asian currencies mixed as dollar climbs, euro nears 17-month low
   - [taiwan] Solidigm expands Taiwan SSD production base to tap AI server supply chain
   - [korea] Bank of Korea ahead of the Monetary Policy Committee in October… The variables that determine the base interes
   - [japan] World map made of glass beads in the Bank of Japan underground vault unveiled at Kanazawa Machinaka Arts Festi
@@ -54,9 +57,6 @@ Total: 2961 manchetes
   - [korea] Hanmi Semiconductor Co Wins 24.5 Billion Won Order
   - [japan] The Bank of Japan will consider determining that the underlying price index has reached 2% (Jiji Press)
   - [japan] Bank of Japan to determine that underlying inflation has reached 2% at meeting this month (Jiji Press)
-  - [japan] <Machine tool orders> The summer decline continues to be strong, with August orders reaching 197.8 billion yen
-  - [japan] Threatening complaints were made, but an "unexpected savior" appeared during the "litigation trouble" with a b
-  - [korea] There are a lot of things to say and a lot of trouble, but they say they will strengthen real estate..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2961 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T06:52:47+00:00",
+      "published_utc": "2026-10-06T07:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
