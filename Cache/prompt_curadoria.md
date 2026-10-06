@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T14:42:46.027377+00:00
+Última coleta: 2026-10-06T14:52:48.988800+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1289
+  🇯🇵 Japão          1290
   🇨🇳 China          777
-  🇹🇼 Taiwan         253
-  🇰🇷 Coreia do Sul  681
+  🇹🇼 Taiwan         254
+  🇰🇷 Coreia do Sul  679
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Semiconductor Price Target Raised to $665.00/Share From $650.00 by Barclays
+  - [japan] "There are too many needs for semiconductors or GPUs"...Minister of Economy, Trade and Industry Akazawa says i
   - [japan] Japanese Yen Likely to Rise if Fed Lifts Rates Less Than Expected — Market Talk
   - [korea] NPS cuts Korean tech winners for insurers, defensive stocks as interest rates rise
   - [korea] Numeraire: Upbit opens KRW and USDT spot trading - 06 Oct 2026
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Asian currencies rangebound as dollar, euro hold near multi-month extremes
   - [taiwan] Taiwan's September Exports Likely Rose 46.5%, WSJ Poll Shows — Market Talk
   - [japan] 10-year government bond interest rate set at 3.1% per year
-  - [japan] Liberal Democratic Party/Ishin “Efforts to pass food consumption tax reduction bill in the current Diet sessio
-  - [japan] TV personality Dewi ordered to pay 200,000 yen fine over assaults
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T14:42:46+00:00",
+      "published_utc": "2026-10-06T14:52:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
