@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T02:02:48.284056+00:00
-Total: 2927 manchetes
+Última coleta: 2026-10-06T02:12:45.167140+00:00
+Total: 2929 manchetes
 
-  🇯🇵 Japão          1246
-  🇨🇳 China          771
+  🇯🇵 Japão          1247
+  🇨🇳 China          772
   🇹🇼 Taiwan         249
   🇰🇷 Coreia do Sul  661
 
@@ -25,6 +25,7 @@ Total: 2927 manchetes
   - [korea] Hanmi Semiconductor Secures KRW24.48B Contract With Samsung Electro-Mechanics
   - [korea] Hanmi Semiconductor Co Wins 24.5 Billion Won Order
   - [japan] Bank of Japan to determine that underlying inflation has reached 2% at meeting this month (Jiji Press)
+  - [japan] The Bank of Japan will consider determining that the underlying price index has reached 2% (Jiji Press)
   - [japan] <Machine tool orders> The summer decline continues to be strong, with August orders reaching 197.8 billion yen
   - [japan] Threatening complaints were made, but an "unexpected savior" appeared during the "litigation trouble" with a b
   - [taiwan] SPCX Stock Ends Higher On Starship Fuel Plans, Analyst Optimism And TSMC Talks
@@ -56,7 +57,6 @@ Total: 2927 manchetes
   - [taiwan] Taiwan teams accelerate 2D semiconductor transfer with published research in Nature
   - [china] QCOM Gains Overnight After Patent Deal With China’s Huawei Covering AI Chip Tech
   - [japan] Japan service sector growth slows in September, PMI shows By Investing.com
-  - [japan] Takaichi pledges fiscal discipline as Japan’s debt bill rises
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2927 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T02:02:48+00:00",
+      "published_utc": "2026-10-06T02:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
