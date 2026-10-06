@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T04:42:45.815057+00:00
+Última coleta: 2026-10-06T04:52:44.743527+00:00
 Total: 2943 manchetes
 
-  🇯🇵 Japão          1256
-  🇨🇳 China          773
-  🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  665
+  🇯🇵 Japão          1255
+  🇨🇳 China          772
+  🇹🇼 Taiwan         250
+  🇰🇷 Coreia do Sul  666
 
 ## O que já está no feed (não repita)
 
   - [japan] BOJ may signal underlying inflation has hit 2% goal, sources say
+  - [korea] Samsung steps up HBM cooling as TSMC expands CoWoS
   - [japan] Japan bonds pare losses after strong auction, but fiscal worries weigh
   - [japan] Kawasaki Heavy: Aims For Revenue Of More Than 3.3 Trln Yen And Business Profit Of More Than 330 Billion Yen By
+  - [taiwan] Solidigm expands Taiwan SSD production base to tap AI server supply chain
   - [japan] World map made of glass beads in the Bank of Japan underground vault unveiled at Kanazawa Machinaka Arts Festi
   - [japan] Citi Strategist Sees JGB Yields Nearing Peak
   - [japan] Japan Yield Gains as Takaichi Vows Fiscal Expansion
@@ -55,8 +57,6 @@ Total: 2943 manchetes
   - [china] Antimony Market Faces a Nov. 27 Export-Control Deadline from China
   - [japan] Japan and Australia finance ministers meet to launch new dialogue framework
   - [japan] Japan's chip industry capitalizes on growth in India semiconductor industry
-  - [taiwan] Musk hints TSMC may join his mega chip venture, and Intel's stock is taking a hit
-  - [china] India may be best placed to fill a China-sized hole in fuel exports: Maguire
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2943 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T04:42:46+00:00",
+      "published_utc": "2026-10-06T04:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
