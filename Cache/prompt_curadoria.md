@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T23:22:46.295130+00:00
+Última coleta: 2026-10-06T23:32:45.272504+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1284
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [japan] Japan manufacturers’ mood hits near 5-year high, service-sector sentiment slumps: Reuters poll
   - [japan] Japan considers another extra budget for disaster relief, Yomiuri says
   - [korea] Samsung’s Q3 profit seen jumping nine-fold, but chip margins may be flat
+  - [japan] Japan Manufacturers' Confidence Highest Since 2021
   - [japan] BOJ's dovish dissenter signals support for future rate hikes
   - [japan] BOJ's Sato signals support for future rate hikes, Kyodo reports
   - [japan] Is it wrong to say that "Japanese houses are high-performance"? "The weakest function in developed countries" 
@@ -27,7 +28,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC boosts US investments to $265B on AI boom: report
   - [china] Uncertainty mounts in Singapore after China tightens offshore trust rules
   - [japan] Will the "$30 billion result" won by Trump at the US-China summit help the Republican Party in dire straits? "
-  - [japan] <Highest profit for 5 consecutive terms> Ebara challenges champion AMAT with semiconductor CMP equipment, "thr
+  - [japan] Ebara challenges champion AMAT with semiconductor CMP equipment, "three weapons" unleashed by generation AI bo
   - [china] Wabash Welcomes Final U.S. Ruling on Unfairly Traded Chinese Trailer Imports; Canada and Mexico Investigations
   - [china] Wabash (WNC) Says U.S. Finalizes China Trailer AD/CVD; 232 Tariffs Stack
   - [taiwan] TSMC and other Taiwan players boost AI spending in US, Southeast Asia
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Goldman sees Korean FX intervention risk if won strengthens sharply
   - [japan] Yomiuri: Japan's House Foods Group to Absorb Subsidiaries in Restructuring Gambit
   - [japan] Bank of Japan Governor Ueda warns against upward trend in prices: ``Stability at 2% is more important'' (Asahi
-  - [japan] Japan's Sumitomo Mitsui DS Asset swaps some French bonds for German, yen debt
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T23:22:46+00:00",
+      "published_utc": "2026-10-06T23:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
