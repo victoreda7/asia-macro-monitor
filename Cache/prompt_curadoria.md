@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T05:02:44.616959+00:00
-Total: 2944 manchetes
+Última coleta: 2026-10-06T05:12:45.704196+00:00
+Total: 2950 manchetes
 
-  🇯🇵 Japão          1256
-  🇨🇳 China          772
+  🇯🇵 Japão          1261
+  🇨🇳 China          773
   🇹🇼 Taiwan         250
   🇰🇷 Coreia do Sul  666
 
 ## O que já está no feed (não repita)
 
+  - [japan] 10-year JGB coupon hits 30-year high as rising rates add to fiscal fears
+  - [japan] Food consumption tax reduction bill approved by the Liberal Democratic Party's Board of Governors and to be su
+  - [china] AI street surveillance system China's exports are increasing
+  - [japan] [Today's Oha Biz October 6th (Tuesday)] Major housing manufacturer's strategy review
+  - [japan] Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy By Investing.com
   - [japan] Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy
   - [japan] BOJ may signal underlying inflation has hit 2% goal, sources say
   - [korea] Samsung steps up HBM cooling as TSMC expands CoWoS
@@ -52,11 +57,6 @@ Total: 2944 manchetes
   - [china] Takaichi's ``aggressive fiscal policy'' is state capitalism that imitates China while viewing it as an enemy. 
   - [china] UK considering tariffs on Chinese car imports
   - [taiwan] Intel Stock Tumbles -- TSMC Eyes Elon Musk's Terafab Project
-  - [japan] Focus is on “reduction of consumption tax on food products” Extraordinary Diet session convened
-  - [korea] Korean shipbuilders, refiners see Q3 estimates upgraded; chipmakers face cuts
-  - [china] P2P stablecoin wallets in China grew 43x despite restrictions on cryptocurrencies, according to Chainalysis
-  - [china] Antimony Market Faces a Nov. 27 Export-Control Deadline from China
-  - [japan] Japan and Australia finance ministers meet to launch new dialogue framework
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2944 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T05:02:44+00:00",
+      "published_utc": "2026-10-06T05:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
