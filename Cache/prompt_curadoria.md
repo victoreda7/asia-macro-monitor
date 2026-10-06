@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T01:32:44.328615+00:00
+Última coleta: 2026-10-06T01:42:44.848761+00:00
 Total: 2923 manchetes
 
-  🇯🇵 Japão          1245
+  🇯🇵 Japão          1246
   🇨🇳 China          771
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  658
+  🇰🇷 Coreia do Sul  657
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan bonds slide before 10-year auction amid fiscal worries at home and abroad
   - [korea] South Korea finance minister sees economic growth in 3% range this year
   - [korea] SK Hynix trapped below SMA20 in tight range: Live levels
   - [korea] Samsung Electro-Mechanics Gains After Chip-Packaging Equipment Purchase Deal
@@ -56,7 +57,6 @@ Total: 2923 manchetes
   - [china] QCOM Gains Overnight After Patent Deal With China’s Huawei Covering AI Chip Tech
   - [japan] Japan service sector growth slows in September, PMI shows By Investing.com
   - [japan] Takaichi pledges fiscal discipline as Japan’s debt bill rises
-  - [japan] Nikkei stock index retakes 70,000, 1st time since July, as Fed rate hike prospects dim
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2923 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T01:32:44+00:00",
+      "published_utc": "2026-10-06T01:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
