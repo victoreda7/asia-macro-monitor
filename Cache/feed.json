@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-06T19:52:45.803467+00:00",
- "collected_at_utc": "2026-10-06T19:52:45.803467+00:00",
+ "generated_at_utc": "2026-10-06T20:02:45.642560+00:00",
+ "collected_at_utc": "2026-10-06T20:02:45.642560+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 257,
   "korea": 681
  },
- "elapsed_s": 31.1,
+ "elapsed_s": 29.6,
  "sources": [
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T19:30:12+00:00"
+   "newest": "2026-10-06T19:55:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -187,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-06T23:36:52+09:00"
+   "newest": "2026-10-07T04:51:47+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-02T13:09:00+00:00"
+   "newest": "2026-10-03T10:14:44+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-06T19:51:31+00:00"
+   "newest": "2026-10-06T20:02:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -308,6 +300,14 @@
    "count": 8,
    "error": "",
    "newest": "2026-10-06T14:43:49+00:00"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-06T05:24:33+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Towa plans chipmaking tool plant for Japanese supply chain: CEO",
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/towa-plans-chipmaking-tool-plant-for-japanese-supply-chain-ceo",
+   "published_utc": "2026-10-06T20:02:45.087160+00:00",
+   "title_original": "Towa plans chipmaking tool plant for Japanese supply chain: CEO",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e4bd448dc47ebdda"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -1456,10 +1473,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
+   "source_name": "Investing.com UK",
    "title_en": "Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlUwdE10YnpneVRRcVBBc0cySTFpQnVDR1dfVV9UQ2daT2llRDNvc2cxYVF2bmEzeWx0bjd5S3RnN2dPZE9jWVVOOXZwTl80NGFMdW4wQlJ0MDNPNzE0UVRtYzBsd3l2SUNNNzVJby1xSlVkN3VzSFdkZHpjT1EtMm8tTjhkRmFOTEtjMDJxWWlPeVdlZFA1NlZPaW50eS1iY3dSa3RMRU9kWGdyTmR3bFdHcWkxUVpoX3g0?oc=5",
-   "published_utc": "2026-10-06T04:59:37+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTdHRUlrUkQtbW9UQkxOSkpQaTZvQU1mZlZDb3JyUWVfTTJXdzRmZDdLWVgwMDVJbjgyT0RSOTBJb1llN0dwbkpSUUtnOWhwZHBhSDU4bUpFMFp5bmFneG5KRnFQc0hCSmRWM21jZlVlNUotc29nbXJ4OTAzQ1Q5VWQ5blAwVVhnTmppbHhQTDZ6MzlqelJKT3BJd3hVMmFyenpoZUJZY0hsSldfVGJoOW0zb3J1SlRJS05V?oc=5",
+   "published_utc": "2026-10-06T04:50:00+00:00",
    "title_original": "Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy By Investing.com",
    "region": "japan",
    "topics": [
@@ -1469,7 +1486,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e5b4a3019c568713"
+   "id": "2fd14a653177c360"
   },
   {
    "source_id": "investing_live",
@@ -2370,23 +2387,6 @@
    "id": "51d154391bec380c"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan service sector growth slows in September, PMI shows By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2twS3NjQmZiQy1jcDI5c1ZHa0VLWENRVWZySFZuYlluMUtyUkxmbDBCM25BTFlvc3NBTVpkM0JYS1ZpZ19QRTNLWER1cV9lOEFhb2EyTWNIaENScktPY21LRjEtbHZ5cDlEMEc4TWROZWtpd1VvUUNnWDVsQTNGbUJOb0FZQjJIQldqeDRyRi1fbmFzbWk4UHZGSW04MFMxQXBQaElWNDBnVUhINjhobXhQQTVWMUNO?oc=5",
-   "published_utc": "2026-10-05T08:34:14+00:00",
-   "title_original": "Japan service sector growth slows in September, PMI shows By Investing.com",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3bda50f15be15663"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "Taiwan Forex Reserves Edge Lower",
@@ -2521,6 +2521,23 @@
    "live_wire": true,
    "manual": false,
    "id": "8c94810c24d0824e"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Japan service sector growth slows in September, PMI shows By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdm56OXFjVFpyYjJLUkNGa1NGRndRZ1lQYU5TaWxoV3RBZUdyMUIxdXlLd2RpNzlIYnhUUmMzaG9wa1dTOTVrdExWbGp1UE1ORkQ2eEhObngxSjh0RDF6cEs3dXh4ZU1ZYjJCYmZtNkZWZUptbGZKVnRTUHRnZjNRVFVNRksyQWt0TnZtdXZ4cVl0Y0xZOFNQQk0xMWJtOXVPY0F1eUw2WEZUUUJGZkhPbEVhdkJ4dVpi?oc=5",
+   "published_utc": "2026-10-05T07:32:00+00:00",
+   "title_original": "Japan service sector growth slows in September, PMI shows By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5b5a77fcf3c07dcc"
   },
   {
    "source_id": "investing_econ",
@@ -51919,25 +51936,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5c7cd1e7644d95ad"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Yen market “155 yen battle” or “Bank of Japan rate hike” rather than “intervention” 5 yen sharp rise in 2 days U.S. employment statistics rekindle interest rate hike expectations",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aMVo3ZkJPM3AzYVVBUVRvbERlNDV5ZVZfU25ZaWpubXgzWC11clZCNWxoY2FIUmp4YmR2N01KNzZvSVdqeUtGSkNZWERWUzVEN0tSNENZOHdmVVJ5WEYxakJzTDh1SFJhYlJ2NmRCcnZRUVhkLVlOOEFiQTg5aE0?oc=5",
-   "published_utc": "2026-09-07T00:35:00+00:00",
-   "title_original": "円相場「155円攻防」か “介入”よりも“日銀利上げ” 2日間で5円の急上昇 アメリカは雇用統計で利上げ観測再燃",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bf7ed9cb9d1f02b7"
   },
   {
    "source_id": "manual_ia",
