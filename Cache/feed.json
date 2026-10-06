@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-06T18:12:44.885501+00:00",
- "collected_at_utc": "2026-10-06T18:12:44.885501+00:00",
+ "generated_at_utc": "2026-10-06T18:22:46.574311+00:00",
+ "collected_at_utc": "2026-10-06T18:22:46.574311+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1288,
+  "japan": 1287,
   "china": 777,
   "taiwan": 256,
-  "korea": 679
+  "korea": 680
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 48,
-   "error": "",
-   "newest": "2026-10-05T14:00:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T08:09:25+00:00"
+   "newest": "2026-10-06T08:35:09+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T11:09:44+00:00"
+   "newest": "2026-10-06T16:22:45+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-06T18:12:00+00:00"
+   "newest": "2026-10-06T18:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -359,6 +359,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b611b75b66e08775"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "South Korea exports eased Russia fuel crisis caused by drone strikes, Ukraine says",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQXotNFg0SW5LTUZxQ09TWjlDNGdtWnNvckU2dW4tZ0xKakxEYXBZb0ltblA3MHZzMXlSanh4TThxSktldmpTQ0Z2UmZUQWE3d0Q3YjRJMGhkVGJnbllyWXZUbzRXWmIyNjkydVVCTFJaMEZKOTh3bFVGZE9zQm9feU80LV9BYlpfaUxBZl80bU9tTnNudGRkRERHY2pLLXhPMVA5bGJsRl9uWG1sQzl4aVNfbGtBVHlyYXFkN1VaR1hMMl9XNXFN?oc=5",
+   "published_utc": "2026-10-06T16:22:45+00:00",
+   "title_original": "South Korea exports eased Russia fuel crisis caused by drone strikes, Ukraine says",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f36f996c50656a2f"
   },
   {
    "source_id": "nikkei_asia",
@@ -51923,23 +51940,6 @@
    "live_wire": false,
    "manual": false,
    "id": "758084501fb8fe55"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Forex Reserves Hit Nearly 4-Year Low",
-   "url": "https://www.tradingview.com/news/te_news:581426:0-japan-forex-reserves-hit-nearly-4-year-low/",
-   "published_utc": "2026-09-06T23:56:47+00:00",
-   "title_original": "Japan Forex Reserves Hit Nearly 4-Year Low",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0524533c3da10262"
   },
   {
    "source_id": "manual_ia",
