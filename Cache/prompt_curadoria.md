@@ -7,19 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T07:42:44.105684+00:00
-Total: 2968 manchetes
+Última coleta: 2026-10-06T07:52:45.187662+00:00
+Total: 2969 manchetes
 
-  🇯🇵 Japão          1272
+  🇯🇵 Japão          1273
   🇨🇳 China          774
   🇹🇼 Taiwan         251
   🇰🇷 Coreia do Sul  671
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ chief calls for more focus on anchoring inflation around target
   - [taiwan] Taiwan's September Exports Likely Rose 46.5%, WSJ Poll Shows — Market Talk
   - [japan] 10-year government bond interest rate set at 3.1% per year
-  - [japan] BOJ chief calls for more focus on anchoring inflation around target
   - [japan] Liberal Democratic Party/Ishin “Efforts to pass food consumption tax reduction bill in the current Diet sessio
   - [japan] TV personality Dewi ordered to pay 200,000 yen fine over assaults
   - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
@@ -116,7 +116,7 @@ Total: 2968 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T07:42:44+00:00",
+      "published_utc": "2026-10-06T07:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
