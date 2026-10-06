@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-06T22:02:46.500442+00:00",
- "collected_at_utc": "2026-10-06T22:02:46.500442+00:00",
+ "generated_at_utc": "2026-10-06T22:11:03.287262+00:00",
+ "collected_at_utc": "2026-10-06T22:11:03.287262+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1282,
-  "china": 782,
+  "japan": 1283,
+  "china": 781,
   "taiwan": 258,
   "korea": 678
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-03T10:14:44+00:00"
+   "newest": "2026-10-02T13:09:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-06T22:00:10+00:00"
+   "newest": "2026-10-06T22:09:50+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-06T22:01:00+00:00"
+   "newest": "2026-10-06T22:09:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-07T06:45:00+09:00"
+   "newest": "2026-10-07T07:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T08:14:27+00:00"
+   "newest": "2026-10-06T13:45:30+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ's Sato signals support for future rate hikes, Kyodo reports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45S1J9:0-boj-s-sato-signals-support-for-future-rate-hikes-kyodo-reports/",
+   "published_utc": "2026-10-06T22:00:11+00:00",
+   "title_original": "BOJ's Sato signals support for future rate hikes, Kyodo reports",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a0adbc5862a76e39"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Is it wrong to say that \"Japanese houses are high-performance\"? \"The weakest function in developed countries\" as pointed out by a talented real estate salesman Manga \"Honest Real Estate\" (Volume 22, Episode 175) | Life | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/958699?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-06T22:00:00+00:00",
+   "title_original": "｢日本の住宅は高性能｣は間違い？ 敏腕不動産営業が指摘する\"先進国で最弱の機能\" 漫画｢正直不動産｣（第22集 第175話） | ライフ | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f20d9d7d67877e99"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
@@ -1866,24 +1900,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c10cfdc95008b749"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Yen Steady as Takaichi Vows Fiscal Expansion",
-   "url": "https://www.tradingview.com/news/te_news:589703:0-yen-steady-as-takaichi-vows-fiscal-expansion/",
-   "published_utc": "2026-10-06T02:16:04+00:00",
-   "title_original": "Yen Steady as Takaichi Vows Fiscal Expansion",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "17f7b445bbad7dcc"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51917,24 +51933,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f56ca0889cbb0e4b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "jwview.com",
-   "title_en": "The central bank launches 500 million yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90aEhNTU90eVgzSkFUNE84Z20xaVNRaDJpMG1fdnVLdTJQajRqVVhkWG9EWG5CRUFGYVdlUDVLcGt6Njc3WFd5ZmViTjlUalRqbHlBcEVHbm1hZjhLREVuUXludDY?oc=5",
-   "published_utc": "2026-09-07T01:25:00+00:00",
-   "title_original": "央行开展5亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b25585525c3e0c89"
   },
   {
    "source_id": "manual_ia",
