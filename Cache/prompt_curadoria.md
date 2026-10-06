@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T07:02:47.747285+00:00
-Total: 2962 manchetes
+Última coleta: 2026-10-06T07:12:45.178508+00:00
+Total: 2963 manchetes
 
   🇯🇵 Japão          1268
   🇨🇳 China          774
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  670
+  🇰🇷 Coreia do Sul  671
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
   - [japan] Japan's Nikkei climbs 1% on dip in crude oil, smooth JGB auction
   - [japan] BOJ chief calls for more focus on anchoring inflation around target
   - [korea] Kospi Snaps Two-Session Winning Streak; Defense, Chip Stocks Retreat
@@ -56,7 +57,6 @@ Total: 2962 manchetes
   - [korea] Hanmi Semiconductor Secures KRW24.48B Contract With Samsung Electro-Mechanics
   - [korea] Hanmi Semiconductor Co Wins 24.5 Billion Won Order
   - [japan] The Bank of Japan will consider determining that the underlying price index has reached 2% (Jiji Press)
-  - [japan] Bank of Japan to determine that underlying inflation has reached 2% at meeting this month (Jiji Press)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2962 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T07:02:47+00:00",
+      "published_utc": "2026-10-06T07:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
