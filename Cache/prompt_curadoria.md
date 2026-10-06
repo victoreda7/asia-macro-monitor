@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T08:32:49.219638+00:00
-Total: 2975 manchetes
+Última coleta: 2026-10-06T08:42:44.213396+00:00
+Total: 2976 manchetes
 
   🇯🇵 Japão          1278
   🇨🇳 China          773
   🇹🇼 Taiwan         253
-  🇰🇷 Coreia do Sul  671
+  🇰🇷 Coreia do Sul  672
 
 ## O que já está no feed (não repita)
 
+  - [japan] Interest rates on 10-year government bonds rise to 3.1%, the highest level in about 30 years Ministry of Finan
   - [japan] Japan should significantly expand JGB sales to retail investors, lawmaker says
   - [taiwan] AMD CEO Lisa Su sees 'very high' chip demand continuing for years, praises TSMC expansion
   - [japan] JGB yield rises despite 30-year-high coupon as rates add to fiscal fears
@@ -56,7 +57,6 @@ Total: 2975 manchetes
   - [japan] Asian currencies mixed as dollar climbs, euro nears 17-month low
   - [taiwan] Solidigm expands Taiwan SSD production base to tap AI server supply chain
   - [korea] Bank of Korea ahead of the Monetary Policy Committee in October… The variables that determine the base interes
-  - [japan] World map made of glass beads in the Bank of Japan underground vault unveiled at Kanazawa Machinaka Arts Festi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2975 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T08:32:49+00:00",
+      "published_utc": "2026-10-06T08:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
