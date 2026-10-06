@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T05:52:45.695317+00:00
-Total: 2955 manchetes
+Última coleta: 2026-10-06T06:02:45.378583+00:00
+Total: 2957 manchetes
 
   🇯🇵 Japão          1263
-  🇨🇳 China          773
+  🇨🇳 China          774
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  669
+  🇰🇷 Coreia do Sul  670
 
 ## O que já está no feed (não repita)
 
+  - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
   - [japan] Prime Minister Takaichi asks US President Trump to approach Japan-North Korea summit meeting
   - [korea] Samsung Biologics union seeks direct talks with Samsung Electronics
   - [korea] Vice Minister of Finance and Economy Kwon Dae-young said on the 6th that the Financial Services Comm..
@@ -33,6 +34,7 @@ Total: 2955 manchetes
   - [japan] Japan bonds pare losses after strong auction, but fiscal worries weigh
   - [japan] Kawasaki Heavy: Aims For Revenue Of More Than 3.3 Trln Yen And Business Profit Of More Than 330 Billion Yen By
   - [taiwan] Solidigm expands Taiwan SSD production base to tap AI server supply chain
+  - [korea] Bank of Korea ahead of the Monetary Policy Committee in October… The variables that determine the base interes
   - [japan] World map made of glass beads in the Bank of Japan underground vault unveiled at Kanazawa Machinaka Arts Festi
   - [japan] Citi Strategist Sees JGB Yields Nearing Peak
   - [japan] Japan Yield Gains as Takaichi Vows Fiscal Expansion
@@ -55,8 +57,6 @@ Total: 2955 manchetes
   - [korea] South Korea FX Reserves End Three-Month Rising Streak
   - [japan] Nasdaq hits new high; buy tech stocks even as long-term interest rates rise
   - [china] Behind Germany's far-right AfD's rise is the "China Shock"...China's industrial competitiveness is exporting t
-  - [japan] Prime Minister Takaichi seeks understanding on consumption tax cut, opposition parties plan to provide financi
-  - [taiwan] Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2955 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T05:52:45+00:00",
+      "published_utc": "2026-10-06T06:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
