@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T09:02:45.972375+00:00
-Total: 2980 manchetes
+Última coleta: 2026-10-06T09:12:46.480973+00:00
+Total: 2981 manchetes
 
-  🇯🇵 Japão          1278
+  🇯🇵 Japão          1279
   🇨🇳 China          774
   🇹🇼 Taiwan         252
   🇰🇷 Coreia do Sul  676
@@ -18,6 +18,7 @@ Total: 2980 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] Amid growing fiscal instability in Europe, including Spain and France, the Korean national debt situ..
+  - [japan] Bank of Japan Governor Ueda ``adjusts the degree of monetary easing'' and continues to raise interest rates Gr
   - [korea] Hanmi Semiconductor has won a 24.5 billion won order for semiconductor post-processing equipment fro..
   - [japan] Interest rates on 10-year government bonds rise to 3.1%, the highest level in about 30 years Ministry of Finan
   - [korea] First Vice Minister of Finance and Economy Kwon Dae-young apologized for increasing investor losses
@@ -56,7 +57,6 @@ Total: 2980 manchetes
   - [japan] Bank of Japan may decide to reach 2% underlying inflation at October meeting - source (Reuters)
   - [japan] BOJ may signal underlying inflation has hit 2% goal, sources say
   - [korea] Samsung steps up HBM cooling as TSMC expands CoWoS
-  - [japan] Japan bonds pare losses after strong auction, but fiscal worries weigh
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2980 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T09:02:46+00:00",
+      "published_utc": "2026-10-06T09:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
