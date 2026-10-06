@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T04:52:44.743527+00:00
-Total: 2943 manchetes
+Última coleta: 2026-10-06T05:02:44.616959+00:00
+Total: 2944 manchetes
 
-  🇯🇵 Japão          1255
+  🇯🇵 Japão          1256
   🇨🇳 China          772
   🇹🇼 Taiwan         250
   🇰🇷 Coreia do Sul  666
 
 ## O que já está no feed (não repita)
 
+  - [japan] Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy
   - [japan] BOJ may signal underlying inflation has hit 2% goal, sources say
   - [korea] Samsung steps up HBM cooling as TSMC expands CoWoS
   - [japan] Japan bonds pare losses after strong auction, but fiscal worries weigh
@@ -56,7 +57,6 @@ Total: 2943 manchetes
   - [china] P2P stablecoin wallets in China grew 43x despite restrictions on cryptocurrencies, according to Chainalysis
   - [china] Antimony Market Faces a Nov. 27 Export-Control Deadline from China
   - [japan] Japan and Australia finance ministers meet to launch new dialogue framework
-  - [japan] Japan's chip industry capitalizes on growth in India semiconductor industry
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2943 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T04:52:44+00:00",
+      "published_utc": "2026-10-06T05:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
