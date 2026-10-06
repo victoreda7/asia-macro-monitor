@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-06T08:22:44.403081+00:00",
- "collected_at_utc": "2026-10-06T08:22:44.403081+00:00",
+ "generated_at_utc": "2026-10-06T08:32:49.219638+00:00",
+ "collected_at_utc": "2026-10-06T08:32:49.219638+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2973,
+ "count": 2975,
  "by_region": {
-  "japan": 1276,
-  "china": 774,
-  "taiwan": 252,
+  "japan": 1278,
+  "china": 773,
+  "taiwan": 253,
   "korea": 671
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T07:29:20+00:00"
+   "newest": "2026-10-06T07:40:20+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-06T16:54:07+09:00"
+   "newest": "2026-10-06T17:27:09+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-06T08:11:36+00:00"
+   "newest": "2026-10-06T08:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T08:04:48+00:00"
+   "newest": "2026-10-06T08:25:57+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan should significantly expand JGB sales to retail investors, lawmaker says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45S0BD:0-japan-should-significantly-expand-jgb-sales-to-retail-investors-lawmaker-says/",
+   "published_utc": "2026-10-06T08:25:01+00:00",
+   "title_original": "Japan should significantly expand JGB sales to retail investors, lawmaker says",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f2bd03a32928fc4a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "AMD CEO Lisa Su sees 'very high' chip demand continuing for years, praises TSMC expansion",
+   "url": "https://www.tradingview.com/news/seekingalpha:45875f569094b:0-amd-ceo-lisa-su-sees-very-high-chip-demand-continuing-for-years-praises-tsmc-expansion/",
+   "published_utc": "2026-10-06T08:23:27+00:00",
+   "title_original": "AMD CEO Lisa Su sees 'very high' chip demand continuing for years, praises TSMC expansion",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4dd826a64a4a91bf"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -433,6 +467,23 @@
    "id": "0b31d82b425ce36d"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Asian currencies rangebound as dollar, euro hold near multi-month extremes",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaTAzUGRWbWdpNm1DMU0wcEpiS09kTWRocDRQci00ZzQ3TEtweTNhdlM0QXBDVWZzSUhFNWdQbHlHSTI3YldzQlJESDlKbXpaazU5NlF3dWVySnIwN0x2OXVES3ItSnhZZGk3NTVDeGw5SFhnZU9UeDdsR1NqTjBCdVdXTHBkNDVZMGtBblhwcUdNRVNjLTRXOUt3OFFwOEo4VnFxdUFNUzk1QkE2U2c3a1Rn?oc=5",
+   "published_utc": "2026-10-06T07:40:20+00:00",
+   "title_original": "Asian currencies rangebound as dollar, euro hold near multi-month extremes",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "646b321b3ac113fa"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Taiwan's September Exports Likely Rose 46.5%, WSJ Poll Shows — Market Talk",
@@ -504,7 +555,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "kedglobal.com",
+   "source_name": "KED Global",
    "title_en": "Samsung Biologics union seeks bargaining with Samsung Electronics",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDUmRneXFqaE1Nc0M0ODF4TTJ5dkRxYWYyWXF2TVpfMTQ0azdUM1Y3UlpPZU1wbElUU19RSE1FTDh0SE5UQnVMUXdNQVUybGltTk5wVmdLZGdzRlN2VXMwSW93aVppV0t1RmpycjZMVQ?oc=5",
    "published_utc": "2026-10-06T07:05:42+00:00",
@@ -521,7 +572,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "TSMC tops global FDI ranking as AI infrastructure redraws overseas investment",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdmpzRi1rZXhZVnlZTklGNmJlVGZMa1ZTdlRZS1BWVEFNT3VIa09UUHRNRzZTZTQ0ZnREOGMyNnVOdXAzanpvNjdMY3NGcUFuaWotcXNJWXJOVlNlc1NNcVp4dkZqNnVwOHJ4ZHJVZGJ6VGFOM01LUUZKZW5pRjJMYWlFVGxMXzg0VXliN3JaeGVQY1hNYWc?oc=5",
    "published_utc": "2026-10-06T07:01:13+00:00",
@@ -868,7 +919,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Samsung steps up HBM cooling as TSMC expands CoWoS",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnduQXFwMDZtZHBGallSTmV4VC1RWUZ2ampDQUpCd0hjYnVJazg5TXlELVNfVy0xVmxJUkVnTEpuMUduZlBhU3FGakQ2WGd3VnU0eHJHdFlLc3lUWE5QNXhnb2tlNkRoUV9GZE5fejFsNEhjTmtiTHVaQ2U2TTZQbndYdlp1Y2dEa2IzUE5rd0NBREU?oc=5",
    "published_utc": "2026-10-06T04:15:08+00:00",
@@ -936,7 +987,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Solidigm expands Taiwan SSD production base to tap AI server supply chain",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3VrbG5jODNGMVppU2RWT3R6M0Z5OFhzUTZoeEhjM3lyeEt1ZmZNdkE4STFmUkhRVXBKdEc0eGJXcXdNY0RDMGJpYW5wVDRYNWFnM1NmR21ZZnpPZHpKTDlkV0R0ZlZfZkpUcVBFVXh3dV9mckhIOTlUYTZ4eml4T29QVERFZTViWFlKS1hZQm5nM3gxWFE?oc=5",
    "published_utc": "2026-10-06T03:57:53+00:00",
@@ -1474,7 +1525,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "kedglobal.com",
+   "source_name": "KED Global",
    "title_en": "Korean shipbuilders, refiners see Q3 estimates upgraded; chipmakers face cuts",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtM2hvR184S1h2MEVhNVE4Vl9PQTJ6ZGh4TzJpQlZoendyeERZWS10QmVSakhtYTU5bnRmVmZhWGFvdzNLblhlWGZYMzdtVnRTT1c3NGMyRzFpUEZfTDlTU0k5eG5fZTQ4SE9V?oc=5",
    "published_utc": "2026-10-05T13:11:00+00:00",
@@ -1747,7 +1798,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "AMD's Lisa Su back in Taiwan as AI capacity crunch spreads beyond TSMC",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1E1NjhzaG56S0RrV2xHNHdCWVdObzNYa3RBOHFHaC00eGJNSnQzX3pfaHNZZXdDWVpIb1NrcDM4aUdobVVvdUxJRmJRTkJqblJ6NTIyZ2c3cVJwdkwzTHBJcHFxSWdzYllZbWRfUFRkYUU5T0l0S1d2TEh6MXFrTXNSOVRTRU5OMElPdA?oc=5",
    "published_utc": "2026-10-05T08:15:18+00:00",
@@ -2072,7 +2123,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Global AI servers shift production nearshore, slowing direct Taiwan exports to US",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDZBOFg2RlkwNUVFakMzMVdFM20xTDBFcXJHSHZJMDZWdXJaMlhKclBXN1BMeDhxYXR6STZ3ak9ONVJpcEFaRlJpVHczc0I5Q2R5Sm1sbURaVDhQR3ZKNUpHT2tIT0hNUTlPTGNlWDhGemwwcE9Pamp1cllaaEMzemN3RGhzSjdyaFR5WDBJTWxmNm9pR1dGcQ?oc=5",
    "published_utc": "2026-10-05T04:48:48+00:00",
@@ -2330,7 +2381,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Shield AI expands Taiwan supply chain in sovereign AI push",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORTdQZUVuZ3pxUG5SMHctTWNWR1lwYy15enZTZ291MU1QU1VXNlBoamJOaHRmZ3E1SDVaMEpKRWd6cVA0cjV1TUFKbFJCbENHWlFacVM1aTBaN0s4MzA4VkxhN3FBeHdKaVg2TDdXRGFfRmMxY3VXWkttQjNMMkR0UXlhaG16NnJGRGRkZ2tLc2V6MFFkVjFNWjdHN3ZqUTRHTkV1Q0dR?oc=5",
    "published_utc": "2026-10-05T02:01:19+00:00",
@@ -3086,7 +3137,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
    "published_utc": "2026-10-03T14:36:49+00:00",
@@ -3313,7 +3364,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "연합인포맥스",
+   "source_name": "news.einfomax.co.kr",
    "title_en": "\"The Federal Reserve and the Bank of Korea will freeze interest rates in October... USD-KRW 1,345-1,370 expected\" |",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMDBIZ0g2OVpBZjBxczlMTkhxa2g4RDBLbktiSC1xM2ZuTk5pZ1QzT0wwNkJ4dEZJRG1fSzk2RU8zSjljTW1iQkNtNWhTQWhFSjVqcHh2NUxCSEFublNhT0RLMU5DbzhYQXVRMFoteGZ6ajRv?oc=5",
    "published_utc": "2026-10-02T22:44:15+00:00",
@@ -4288,7 +4339,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1FVNEdaTFN5dXFXdGtCbzNUTDFXTmNpLThlOEZtazNxZWVGczBCazdUdXNUWkF3OXFfb1U3MWVKejc2RzQ4dmdJMGlvWENlWUxkTmExZUc3Skc1elR1Y1ZSR2cwWldnLUFCQVNjR0poSEI1dFhKMDhUYzFhOWtQZmRCX2k1Wi1FclltRDJB?oc=5",
    "published_utc": "2026-10-02T07:00:00+00:00",
@@ -4706,7 +4757,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "TSMC mulls multi-fab Texas campus beyond Arizona, with Singapore also in talks",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KaTdiVHZncjJydTRkVW92Q3hjNWxfOTFpbmhPTG1jVHBRWHdqZnhhakdoWURxdTIxMC0zNDhvUnBYcUJwSklQLWlzc1c4bEF4bjF5amlTTHRqZVU3QzhZ?oc=5",
    "published_utc": "2026-10-02T03:47:47+00:00",
@@ -6287,7 +6338,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "In Depth: What’s in the China-U.S. Tariff Truce, and What’s Left Unsettled",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOEs1UmdkRFViNlFBNndUaHFCbWxkSGtLcnBFQ3U1V3FDR1Qyb1BFZHl0M2prclJhdFJidTRlaFdHNlJzT2EyVDJScndialdTNFFpclU0aHFRT1I1Vlc3TmRHQ1NiRWRQSV9IcDlBNFRaRlhjeGZBVEs2cG5HQzIzQzRkX250dlRtSnRpejJKdXJIS0NkVjZYMVVIZnBfczZIa25IZzVNeVk5QnpJMWNhbTdKRlktcm4tWk9lV1k0N1o?oc=5",
    "published_utc": "2026-10-01T14:10:00+00:00",
@@ -6321,7 +6372,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "kedglobal.com",
+   "source_name": "KED Global",
    "title_en": "S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzeHliaFRwbWhfaHV3S2s3dkpJbmdJMmlJSzJZdXhMWFEyZFFOcEFKb2JiNkhGR2QtQUxFU3ZjUUlTRlc1TU1WWnlOWWhKU1FEdlNtdHdwazVlUU84MVVyNlJ3Qm9VZVdDdHc?oc=5",
    "published_utc": "2026-10-01T13:33:01+00:00",
@@ -6822,7 +6873,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "news.qq.com",
+   "source_name": "QQ News",
    "title_en": "1.2 trillion yuan! The central bank previews the buyout reverse repurchase operation on the first day after the holidays",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42MmMxNDliRmpTaDhxRWUyeWRfVWFFRWU2eGhKT2FmYldEZEM4LUhPOHZpdnJhQXYwbFNIQlhodGFmSEEtLU1uZ3R2MWM3d1NCRUU0bjFnaVFlUF9PNXdac0NR?oc=5",
    "published_utc": "2026-10-01T08:17:00+00:00",
@@ -6927,7 +6978,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Commentary: China’s Youth Labor Market Demands Intervention to Avert a ‘Lost Generation’",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMm50WTlkclBJMlRsNTI5aVpfdHNObWtBQU9vY1J4YVRiRG5YX09EQmc5S1lqR0FKNjF3N0VRNXBzLWtXdlF3OF9jOGhHb0dESEtFY3A3TUFPQlROLUJjZGtDclYzQmQyMGpLUTJteG90N3VxcWJQLVhQaGlmXy1wbVBFSkVtRUxyTjVVUE9HR3FVUnZLa1EtTGlBQjBTQjBxdUhQLTlSY2hpZkhndll0R3RadkZ1WXhWTHYtb3hGSmlYODRHUXR6MEdublBaS2gtbkxNOWF3?oc=5",
    "published_utc": "2026-10-01T07:15:00+00:00",
@@ -7989,7 +8040,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "SG Semiconductor builds brand and talent for Singapore chip industry",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVl9KeWpFRFBJenc0NXNkVU1oYjhxcmpyd2wtX2RYODVkNlNldEtvUXA2T1NPdWRhQzNfZFBOTjZQQ1FyTXd6ZWpidGN0d3BNVWRaYk04SzkwSGVsandkX1ZCem1uSXl0VlIzWnMxd3VTUTd0dTBoQXcwTjhQQWhuckQzaEdXRXRGOWN4b3RCUTZuUDhhd2lXdmk2WF9CSjQ?oc=5",
    "published_utc": "2026-10-01T01:02:01+00:00",
@@ -9315,7 +9366,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Retail Export Strategies Give Way to Integrated China-ASEAN Supply Chains",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMmF5TU9ma2Nvb0VHOWxBSFJKMzZoanNkOHc2QXM2VVBmVHFGdUQzcXZYM2RyUFhDOXVlNVpFbllGUDZPaVQzbThJelhkRFgwVnczMUVFbm95X3BpdWZudDJ5TG9IRW9CV2V6SHg1NDU5MldGZUtYdi1qZmo4RG9peGxadnFoSzNGYWdOWjJjNktDX1E2Wm1TQ3NvQjRBaEZMdl8yR1FHVDUtQ0FfWHBwdGZFZnFVX05rb0Jpal9ZTnFCd1RxWXJN?oc=5",
    "published_utc": "2026-09-30T11:26:00+00:00",
@@ -9469,7 +9520,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "news.qq.com",
+   "source_name": "QQ News",
    "title_en": "Good news came after the market closed. The central bank announced in advance that it would release a net fund of 200 billion yuan after the holiday! At a time when A-share funds are hesitant and hesitant, the central bank has given the market \"reassurance\" in advance.",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nMEs2NGticERTZW4weXdidV9nT1JjQi14RjhpRGJwRG1ZSXBRM1NtQ1Z4T3hsb0RqYXF5Y1lSY1ZFOVNGU1NPd3J4TzFMb1JOam5BMGpR?oc=5",
    "published_utc": "2026-09-30T10:43:00+00:00",
@@ -9661,7 +9712,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "newneek.co",
+   "source_name": "뉴닉",
    "title_en": "In August, mortgage interest rates hit the highest in 3 years and 9 months. 📈",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PRGdtTW55NVVTSzFTbGEyR1BacUNrcmRCSjBERjE1aUx4amZBamNrcDdvQnZscFBNc3BaYk56YmlHdHpRaDdsS0FwNUdfeWdXcjhR?oc=5",
    "published_utc": "2026-09-30T09:44:07+00:00",
@@ -10079,7 +10130,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Must Shift Focus to Consumption to Overcome Economic Bottlenecks, Economists Say",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT1RyTUZjZ3FlR2xkTVVxamhxTGNYUU9Wei1yaXJuZG9SelBSSDBESGdsTU40STFsa1FvLUF6Sk1IQi1IcVhDblUyUktDV2czQ2lhcDNCb1NRRWJJWWxudGVkb0JXWWI1YmY2UGNLTlRhcV9VRFEwV3VGaDNxSHVqblRpVlhxcjBKQlBVaVE4c0JWeE8zaTdrTzg3NWlycEN4UjZ3bkRjcnZCZ2NXWWtPZzRKRHd3dnlBQncyb1RvVVBSeGdmalpFemtHSWlacldjdU1wQzJ3NA?oc=5",
    "published_utc": "2026-09-30T07:22:00+00:00",
@@ -10166,7 +10217,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China’s Manufacturing Activity Returns to Expansion",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTk9yb2I4MEdHYUZ5bGZXRzI5Z2ZXMThXSGRIam1oUURVb3VEcGpNeWFOeUw1ellnSENrZG1VREJzbGVTOWYtdVhIcnhtWmhJNXZuZHduRUthVEdaTDFRQkpVLUx4WlJfcHRuNzBUY2tZYUNyb3pzdTh2VU9PekZIZXN1cDJ5MzJObF9Dcmc5bVpiY1VHZEJldkNkZjRCQ2MzUUFsMHJmbHU?oc=5",
    "published_utc": "2026-09-30T07:00:00+00:00",
@@ -10287,7 +10338,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "news.qq.com",
+   "source_name": "QQ News",
    "title_en": "The central bank has exceeded its quota by 200 billion yuan, and the overnight funding limit has been raised to 1 trillion. How will banks respond across quarters?",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jTXNOang3Q09JSDZJUGk3M0ZqX05WQW9iQ0drOHlYV0x3WDB6OGxPaU05MVJ0djE5ZDZia2R4dFRKd1p0Q1FjcGVwbXR4QUtSX2s0TkFn?oc=5",
    "published_utc": "2026-09-30T05:40:00+00:00",
@@ -10425,7 +10476,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "guandian.cn",
+   "source_name": "观点网",
    "title_en": "Standard Chartered does not rule out the possibility of central bank cutting RRR",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RVXJ3UHFEa21BR3hEVFhaSnptYVNDdGpWMjBoYlhrbC11R2VrRTFjenNXY3Y0bDFrRVVEUlRELUJXN0JzWDA2eFF5UG9XZw?oc=5",
    "published_utc": "2026-09-30T03:56:15+00:00",
@@ -10476,7 +10527,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "Foundry 2.0 revenue hits record as growth spreads beyond TSMC",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUNNM0JMVFlMYlNjbXdxbWlIUVRTRzZfOUlZS1h4djZIMklrVTlHaXI0NnFwLXNpbEcyZkxrSmlNNktBT05wM3Nud0xsQzdaaU04a3hVU1JLVWpRcnVmLS1IcjNHWG55c2VsTzZyVmJ0alFVZVg3RDRhWGV2RWdPc1VzNk02dFR2VXNaVEZVYw?oc=5",
    "published_utc": "2026-09-30T03:29:34+00:00",
@@ -11387,7 +11438,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "jiemian.com",
+   "source_name": "Jiemian.com",
    "title_en": "The central bank takes action! 1.2 trillion buyout reverse repurchase is coming",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nNHhLdEFRRHdfdWRiWGxBZHR3WFhhZmxqaVl2NkM3TFFHT2F4WkVuRnJtcEIyeVA2OTBTUEN6NER5WkN0RFNXc1FsSy1xY05YZ3FoTzlVcjQ?oc=5",
    "published_utc": "2026-09-29T20:10:00+00:00",
@@ -11611,7 +11662,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "kedglobal.com",
+   "source_name": "KED Global",
    "title_en": "Korea’s dollar store giant Daiso emerges as real estate player with $355 mn deals",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40aGtRVVlEMllBbDRRNVhPLVRkQmUwN0VHbDZ4SnpoZDI3dGl3U0FKMnEtbmxDTGtSdDRPdWJFR1JzeWNjWlNaR2c0c0JGMnV4SnhNUnU2QjVlN1FhVUVDejBzTGlmLVM1c2tLenRoOA?oc=5",
    "published_utc": "2026-09-29T16:45:03+00:00",
@@ -11628,7 +11679,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmY1bmJOSzlUYUtEZ1Bna3ZEM21LdXdyOEZYX3hpTkJ5THk2SG52WlQzcTRSOTl5SjRCS2JJYkZxYUdLRTNyanBhN0lsODBVeFM0cnlHbW4zamdOby0wNUltSWZxRnFkQkFVRV9famVYSDVvRHlCTjNpYzliQVJneUd0VHZmblFCSGh5ckdIX3paLXpXc3l5am9uaTdJNWRDaTdBWjl5dzJoOVplYWpHZXJkanJpY3FtU0pZaC1SRm1PNkdMUktkaWJ3?oc=5",
    "published_utc": "2026-09-29T16:25:00+00:00",
@@ -11697,7 +11748,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China’s Central Bank Cuts Policy Lending Rate in Targeted Growth Push",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWgzdTBBSmtITmUxLTBxM0J1XzZXeHlnYnVmZkswWnBkTk1XTl9WVV8xa3h3VElwNnAtRFI4ZGoyeDYxSzdMeks5NU9YQ3NCTlZtVWdxMFJEWnRDZGFWX0hUZHdPQTdjY1ZLdEdyZ3EzdjJZUThNNnFEWUVpaTlYMFF3b0NSQzlTeTlWQXdXRzdlWWdFUk9ONmpVd2pQMUxJMUtFakpRcHgxLWYyQl92YktLQlhQT0NyWGJ0aWl4LXU?oc=5",
    "published_utc": "2026-09-29T15:45:00+00:00",
@@ -11731,7 +11782,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Beijing Steps In With Mortgage Subsidies to Revive Housing Demand",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYThwWHFhZGxrb0swWm00eFJLa0dENXZCN0R5N1lpckJKTmktZGNDLW9mcEloNU85dFJrdk9LcjhKNGRKY3poQWszNzVHeFJFR0pRTlVrcExvLVM4bkZTMjVZMzI2MGRoY2VwUEplUzVobzhaa0dqSHZMX0pBamF3OVlhUlV3ek1ucDdjWl9id3hDYWNJS2U2bDVCMjVZTzRPdUtRT1dwOFI2dlBKMUNFVngzYjBiS2ZveWJVNw?oc=5",
    "published_utc": "2026-09-29T15:15:00+00:00",
@@ -11925,7 +11976,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "163.com",
+   "source_name": "手机网易网",
    "title_en": "Four arrows fired in unison! After the National Standing Committee set the tone, the central bank launched a new round of financial package to stabilize growth.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pM1JUQTRuZmlOTTc1VkdBWDJxZHpOcDVHVHk2eEE1RERFVHFvRmU4TEp1cnA2R3BBVFBETG1IQktsMmpxUl9CVURqQW4wYVlFaVpTVU9ST19Kd1I5ZkFQeVFB?oc=5",
    "published_utc": "2026-09-29T13:14:09+00:00",
@@ -12226,7 +12277,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "In global semiconductor race, Singapore bets on critical, mature technologies",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1RGZE5GN214UnVaS2lFNzR4YWR6Qno5WXNKM0MzOXM4REZzdTQzdnlPajJ3MFN0UWJLZjV6RjlUVVFlM2QyTFBlZG0xTERBN2JQNmthQ183QUkzLWZaQm5JckI3UTdZRzZhTU00ZkQyVHphZ2hoQnp4VWdrM0FFSGE3RTN6b0FTU0duMkNpVFdPdlNWWF91dXRiM3pZMmQzOTd4NENrQm9oVlE?oc=5",
    "published_utc": "2026-09-29T08:57:39+00:00",
@@ -12711,7 +12762,7 @@
   },
   {
    "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
+   "source_name": "digitimes.com",
    "title_en": "SK Hynix tests HBM5 with TSMC as HBM4 enters Nvidia's next platform",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNWdxNDRkWjI1Qy1fN0F0SjJkU19RYmNBN2VQdm5oRXIzVHRPT0hNZ2w2bkgyaEllamd2b2I4UzlSYUFNTHJ4X21sTHduTVdSQzFONG91N25FaU9nSWNGS2JJX1dNbUZxRTcwSUNPYkVHZXhJUUJBZUxKcXZwOXpKR05qUXdBbTJKX25CS2g0TQ?oc=5",
    "published_utc": "2026-09-29T03:23:52+00:00",
@@ -14095,7 +14146,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Auto Subsidy Scheme Unravels, Leaving Consumers and Banks Exposed",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEtQZWp0TWNUU3dhWDBsaUxIV0tZZ21JYk1yaFo1ODZWOEtaX2ZUU3ZzUUM5VDM4eHFzQ29NMlREMEZyeXRQMVRuT2NvN0VIWmZPdkwyM0VLd2Z4NmszaGt5WFplLTlNemRsNEZGdGpMd0FsQ3NjTm9lR2c1bEF0azRJemNoaEplbmdEZFpxSFN5STkzWWFraWpfWDVLLU11eG1jYXQ4Y1FGeEQ0S0NHUGNxMVVQS0NlajRJbmwteVdyZkk?oc=5",
    "published_utc": "2026-09-28T09:43:00+00:00",
@@ -18832,7 +18883,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "PBOC Cautions Against ‘Herd Effect’ as Yuan Extends Rally",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHJXZXdiUzJDWGFfTk04QzhINEN4bXMtdTFYdllWa1ZsUGlJSFVfV3F3SjNVYmpxN0pPa2daVy1VMzNnb29TbFhKaFk5X0pocUxkZWNsX3EwUUZCM21hNTBWWmZnRXlNV3d2azFIUm1NUm1nLXp0TG1ULXpuYVJoSkQzcHE4YXMxTWVGMG9fbk0tU1Q2UnN6U3FYRkZGX3BJSVlVbllZWXl4WXJZUTJJ?oc=5",
    "published_utc": "2026-09-24T18:27:00+00:00",
@@ -22382,7 +22433,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "Commentary: Are Exports Holding China’s Economy ‘Hostage’?",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWThScUlkQkxBdzlHWjBPQkh2WXdPb3pITmNFZ3FhLTRENV9USTdZdjhHbngwLWVhelhkLU9KaDJPWjFsSE9ZQ25uVnZPazlhQzNhcml5SkU1R1BZMXliWDRxVENZeVNCVjRsUkhjcE15UGt1cnp3bF9SZS1uYzh0Z3VCVVU3WWNTQ3dtSWZjblVUSHpwcjdicERab2YxYURfY2hOdGFWU1pIMjEx?oc=5",
    "published_utc": "2026-09-22T07:00:00+00:00",
@@ -24091,7 +24142,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "kedglobal.com",
+   "source_name": "KED Global",
    "title_en": "China tightens grip on Korea's robotaxi supply chain as Chinese LiDAR dominates",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81TzNEcGNLczNmclg4aEkyX2xNeGh5MzVkbGQtbHRrcF94ekZ5RXZVVXpQVS1PT2huS3VsY1BlTXdvTVpjSEppYkNOUmtSdWxjU2tid2gyVklpNXEtVU5GckVKanJRSWFHQzBVenV5ZURaUmp1?oc=5",
    "published_utc": "2026-09-21T07:00:00+00:00",
@@ -26242,7 +26293,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Fiscal Revenue Growth Slows as Government Spending Contracts",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajVnYVFTVWxPRW02QmZSZzVnb2xBWl9qaVc0Z1RrbWpzdTFZQ0xCY2VXSml3S3Q0cDM2ZU1KN3JGaVpKQm04b1k4eFpDM2JZSHR1R1FKeUdHay1sVFNHQ0p3TS1SYzhOSGRtV1RlM3E2M3VtRnV4bU81Z3luT0JOb056YkU2RkVISjhVT2d2Z3dfS19BdU1peENFNUJrSlE1MDVMNHhBUDlOQW9WNkZvVzBKZlBEUVZ4UVN3djJ3?oc=5",
    "published_utc": "2026-09-19T07:00:00+00:00",
@@ -28880,7 +28931,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China Targets 3.5 Trillion Yuan Pharmaceutical Industry by 2030",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGZ6RmdHNF8tYUVvaVZhc25ldWRXZDM0ZlQyU2Y5MkVFVERiekJsbTVHb2wxb2l0OFZDSTR3ZG9wc2hwM0pzWHVmZHg4QnF3U2tqcXJiVmVFR3V2LV9Wc1hMZ1YzNTBnalpVYlFRX1A1Yzh6RFJqVUsyUmxVNFpKQ3FRY2djUjRVZlNYWEJEZGthWXVzME12WlFjTWI3MmlDUXkwZUgyYUVvUVlnVDRsS29NODk1SUZY?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -28932,7 +28983,7 @@
   },
   {
    "source_id": "gn_cn_caixin",
-   "source_name": "caixinglobal.com",
+   "source_name": "Caixin Global",
    "title_en": "China’s Youth Unemployment Hits Record High",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHE5RFJkanY2eDV3LVBTUzhKaUpZUjI0cHRXZlUzdDZiVjNsR1ZRUmVZUW94eE15d1RELV8tUEtuN1hkbngzYzRFMk5ZUzFPdUhYMzJydzNKV3lvbm90Y0I3Q2pBOGdnTXdrb2ZvSEk3OU0xZHhiWFRfcHlreFZiUDZHdi1ZTzVjaGVhVzdreFh3clpKT2hLeHdIYmdsZw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -40467,7 +40518,7 @@
   },
   {
    "source_id": "gn_kr_ked",
-   "source_name": "kedglobal.com",
+   "source_name": "KED Global",
    "title_en": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUXVRdklHeC0wazdnNldDb0RuSC1PbmUtSk1GN0w3WVA2cmhHT2QzQmFYTV92ZWZkc09XLVdqTFhXMTJmV2cwMkp3Mm1kTU15dHFNcGRRaUpkX0V6XzROZVBVeTg5a3Zl?oc=5",
    "published_utc": "2026-09-11T07:00:00+00:00",
@@ -51453,23 +51504,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e901be2e55ca77a5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Agricultural Bank of China Plans Up to 160 Billion Yuan A-Share Placement to Boost Core Tier-1 Capital",
-   "url": "https://www.tradingview.com/news/binance_news:92e20217f094b:0-agricultural-bank-of-china-plans-up-to-160-billion-yuan-a-share-placement-to-boost-core-tier-1-capital/",
-   "published_utc": "2026-09-06T08:23:12+00:00",
-   "title_original": "Agricultural Bank of China Plans Up to 160 Billion Yuan A-Share Placement to Boost Core Tier-1 Capital",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "69375fef642ff5d1"
   },
   {
    "source_id": "manual_ia",

@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T08:22:44.403081+00:00
-Total: 2973 manchetes
+Última coleta: 2026-10-06T08:32:49.219638+00:00
+Total: 2975 manchetes
 
-  🇯🇵 Japão          1276
-  🇨🇳 China          774
-  🇹🇼 Taiwan         252
+  🇯🇵 Japão          1278
+  🇨🇳 China          773
+  🇹🇼 Taiwan         253
   🇰🇷 Coreia do Sul  671
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan should significantly expand JGB sales to retail investors, lawmaker says
+  - [taiwan] AMD CEO Lisa Su sees 'very high' chip demand continuing for years, praises TSMC expansion
   - [japan] JGB yield rises despite 30-year-high coupon as rates add to fiscal fears
   - [china] China's GDP Growth Likely Edged Up to 4.5% in 3Q, Citi Says — Market Talk
   - [japan] Underlying inflation stabilizes at around 2% target, ``more important'' Bank of Japan Governor Ueda (Jiji Pres
   - [japan] AI Inflation Impact on Japan CPI Likely Limited — Market Talk
   - [japan] BOJ chief calls for more focus on anchoring inflation around target
+  - [japan] Asian currencies rangebound as dollar, euro hold near multi-month extremes
   - [taiwan] Taiwan's September Exports Likely Rose 46.5%, WSJ Poll Shows — Market Talk
   - [japan] 10-year government bond interest rate set at 3.1% per year
   - [japan] Liberal Democratic Party/Ishin “Efforts to pass food consumption tax reduction bill in the current Diet sessio
@@ -54,9 +57,6 @@ Total: 2973 manchetes
   - [taiwan] Solidigm expands Taiwan SSD production base to tap AI server supply chain
   - [korea] Bank of Korea ahead of the Monetary Policy Committee in October… The variables that determine the base interes
   - [japan] World map made of glass beads in the Bank of Japan underground vault unveiled at Kanazawa Machinaka Arts Festi
-  - [japan] Citi Strategist Sees JGB Yields Nearing Peak
-  - [japan] Japan Yield Gains as Takaichi Vows Fiscal Expansion
-  - [korea] Most Asian FX steady; Philippine peso, South Korean won weaken
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2973 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T08:22:44+00:00",
+      "published_utc": "2026-10-06T08:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
