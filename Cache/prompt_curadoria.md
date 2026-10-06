@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T03:52:45.106925+00:00
+Última coleta: 2026-10-06T04:02:46.847553+00:00
 Total: 2935 manchetes
 
-  🇯🇵 Japão          1251
+  🇯🇵 Japão          1252
   🇨🇳 China          772
   🇹🇼 Taiwan         249
-  🇰🇷 Coreia do Sul  663
+  🇰🇷 Coreia do Sul  662
 
 ## O que já está no feed (não repita)
 
+  - [japan] World map made of glass beads in the Bank of Japan underground vault unveiled at Kanazawa Machinaka Arts Festi
   - [japan] Japan Yield Gains as Takaichi Vows Fiscal Expansion
   - [korea] Most Asian FX steady; Philippine peso, South Korean won weaken
   - [japan] Yen Steady as Takaichi Vows Fiscal Expansion
@@ -56,7 +57,6 @@ Total: 2935 manchetes
   - [japan] After making an internal report about deficiencies in the remittance system at the Bank of Japan, she was bann
   - [japan] Asian currencies weaken as dollar gains, euro hits 17-month low
   - [taiwan] Taiwan Forex Reserves Edge Lower
-  - [japan] Rapidus collaborates with 17 semiconductor design companies to attract attention for mass production
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2935 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T03:52:45+00:00",
+      "published_utc": "2026-10-06T04:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
