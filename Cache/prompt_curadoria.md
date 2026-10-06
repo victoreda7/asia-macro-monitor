@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T06:12:45.623197+00:00
-Total: 2957 manchetes
+Última coleta: 2026-10-06T06:22:44.802195+00:00
+Total: 2958 manchetes
 
-  🇯🇵 Japão          1263
+  🇯🇵 Japão          1264
   🇨🇳 China          774
   🇹🇼 Taiwan         250
   🇰🇷 Coreia do Sul  670
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Iwatani, Cosmo to develop hydrogen supply chain at Chiba refinery
   - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
   - [japan] Prime Minister Takaichi asks US President Trump to approach Japan-North Korea summit meeting
   - [korea] Samsung Biologics union seeks direct talks with Samsung Electronics
@@ -56,7 +57,6 @@ Total: 2957 manchetes
   - [taiwan] SPCX Stock Ends Higher On Starship Fuel Plans, Analyst Optimism And TSMC Talks
   - [korea] South Korea FX Reserves End Three-Month Rising Streak
   - [japan] Nasdaq hits new high; buy tech stocks even as long-term interest rates rise
-  - [china] Behind Germany's far-right AfD's rise is the "China Shock"...China's industrial competitiveness is exporting t
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2957 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T06:12:45+00:00",
+      "published_utc": "2026-10-06T06:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
