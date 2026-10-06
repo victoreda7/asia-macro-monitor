@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T06:32:45.394832+00:00
-Total: 2958 manchetes
+Última coleta: 2026-10-06T06:42:47.264524+00:00
+Total: 2960 manchetes
 
-  🇯🇵 Japão          1264
+  🇯🇵 Japão          1265
   🇨🇳 China          774
   🇹🇼 Taiwan         250
-  🇰🇷 Coreia do Sul  670
+  🇰🇷 Coreia do Sul  671
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi Snaps Two-Session Winning Streak; Defense, Chip Stocks Retreat
+  - [japan] BOJ Ueda says financial conditions remain loose
   - [japan] Japan's Iwatani, Cosmo to develop hydrogen supply chain at Chiba refinery
   - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
   - [japan] Prime Minister Takaichi asks US President Trump to approach Japan-North Korea summit meeting
@@ -55,8 +57,6 @@ Total: 2958 manchetes
   - [japan] Threatening complaints were made, but an "unexpected savior" appeared during the "litigation trouble" with a b
   - [korea] There are a lot of things to say and a lot of trouble, but they say they will strengthen real estate..
   - [taiwan] SPCX Stock Ends Higher On Starship Fuel Plans, Analyst Optimism And TSMC Talks
-  - [korea] South Korea FX Reserves End Three-Month Rising Streak
-  - [japan] Nasdaq hits new high; buy tech stocks even as long-term interest rates rise
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2958 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T06:32:45+00:00",
+      "published_utc": "2026-10-06T06:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
