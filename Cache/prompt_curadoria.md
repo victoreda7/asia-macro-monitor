@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T23:42:45.444625+00:00
+Última coleta: 2026-10-07T23:52:43.428265+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1261
+  🇯🇵 Japão          1260
   🇨🇳 China          781
   🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  689
+  🇰🇷 Coreia do Sul  690
 
 ## O que já está no feed (não repita)
 
@@ -31,7 +31,6 @@ Total: 3000 manchetes
   - [japan] Fed rate hike, wary of higher inflation; many support further rate hikes
   - [japan] When a woman returns home, she hears a noise inside... The "unexpected culprit" in the "stalker case" that sen
   - [korea] SK Hynix’s Solidigm Is Said to Pick Banks for US IPO Next Year - Bloomberg News
-  - [china] Bond market closes | The central bank continues to pour funds into a loosening situation, and the 10-year gove
   - [china] Brazil and China distance themselves from the G20 declaration on industrial overproduction
   - [china] Zoom CEO Eric Yuan sells $2.27 million in NASDAQ:ZM stock
   - [japan] NGK President Kobayashi ``Concentrates investment in the semiconductor manufacturing field''...Withdrawal from
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [korea] AMD’s Lisa Su calls chips ‘team sport’ as Samsung, SK hynix ties deepen
   - [taiwan] SpaceX, Intel, TSMC, Webull, Fair Isaac, and More Stocks That Explain Today's Market — Barrons.com
   - [china] Why China’s export engine may hit a ceiling as trading partners face limits
+  - [korea] The number of hacking attempts targeting the Export-Import Bank of Korea this year was nearly eight
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T23:42:45+00:00",
+      "published_utc": "2026-10-07T23:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
