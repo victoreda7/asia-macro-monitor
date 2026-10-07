@@ -7,20 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T08:52:46.232939+00:00
+Última coleta: 2026-10-07T09:02:47.214604+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1281
-  🇨🇳 China          771
+  🇯🇵 Japão          1278
+  🇨🇳 China          772
   🇹🇼 Taiwan         264
-  🇰🇷 Coreia do Sul  684
+  🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
   - [korea] AMD’s Lisa Su calls chips ‘team sport’ as Samsung, SK hynix ties deepen
+  - [china] Visionox Technology To Raise Up To 3 Bln Yuan In Private Share Placement
   - [japan] Ruling party approves consumption tax reduction bill; government to submit to parliament as early as this week
   - [japan] Japanese Yen Faces Hit From Potential Supplementary Budget — Market Talk
+  - [korea] "Annual Export of $1 Trillion…" "You have to start preparing for 'Post Semiconductor'."
   - [taiwan] Musk says we will “build and run” Terafab, TSMC may sublease space
+  - [korea] Operating profit of KRW 4 trillion by Q3… LG Electronics' All-Time Performance 'Preview' This Year
+  - [korea] Samsung Electronics DS employee earning 80 million won a year to receive 750 million won in performance bonuse
+  - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il met with the head of six econ..
+  - [taiwan] Taiwan Inflation Hits 31-Month High
   - [taiwan] Taiwan's Inflation Hits Over Two-Year High
   - [japan] Bank of Japan Tankan Steel business confidence turns positive, reflecting sales price transfer (Nikkan Sangyo 
   - [japan] Sumitomo Mitsui Trust Group Plans Approximately 350 Billion Yen Japan Infrastructure Fund As Early As In 2028,
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Micron Union in Taoyuan, Taiwan Gets Strike Clearance
   - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers
   - [japan] BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction
-  - [korea] Samsung’s HBM prices tipped to more than double in 2027
-  - [korea] Lotte Biologics expands US manufacturing partnership with Alvotech
-  - [china] Asia markets slip amid softening Chinese reserves and persistent energy cost pressures
-  - [taiwan] Intel to continue working on Musk’s Terafab despite TSMC talks - Bloomberg
-  - [korea] Global banks lift Korea growth outlook to 3.5% on chip boom
-  - [japan] Consumption Activity Index
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T08:52:46+00:00",
+      "published_utc": "2026-10-07T09:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
