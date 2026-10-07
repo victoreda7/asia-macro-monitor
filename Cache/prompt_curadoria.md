@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T19:22:46.609816+00:00
+Última coleta: 2026-10-07T19:32:45.731925+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1267
-  🇨🇳 China          780
+  🇯🇵 Japão          1266
+  🇨🇳 China          781
   🇹🇼 Taiwan         272
   🇰🇷 Coreia do Sul  681
 
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [japan] Japan bank to connect small businesses with US AI developers
   - [korea] SK Hynix Stocks Drop 2.8% Despite AMD's Multi-Generation HBM Plan
   - [china] The Fed's overnight reverse repurchase agreement (RRP) usage on Wednesday was $2.338 billion
+  - [china] China rejects EU request for voluntary hybrid car export curbs, FT reports
   - [taiwan] Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today's Market — Barrons.com
   - [china] China slaps down EU request for voluntary curbs on hybrid car exports
   - [japan] Japan Pushes Local 5G Manufacturing, Digital Infrastructure In India
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Visionox Technology To Raise Up To 3 Bln Yuan In Private Share Placement
   - [japan] Ruling party approves consumption tax reduction bill; government to submit to parliament as early as this week
   - [japan] Japanese Yen Faces Hit From Potential Supplementary Budget — Market Talk
-  - [korea] "Annual Export of $1 Trillion…" "You have to start preparing for 'Post Semiconductor'."
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T19:22:46+00:00",
+      "published_utc": "2026-10-07T19:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
