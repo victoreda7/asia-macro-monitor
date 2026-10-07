@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T07:42:45.873014+00:00
+Última coleta: 2026-10-07T07:52:45.079011+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1284
+  🇯🇵 Japão          1281
   🇨🇳 China          774
-  🇹🇼 Taiwan         261
-  🇰🇷 Coreia do Sul  681
+  🇹🇼 Taiwan         263
+  🇰🇷 Coreia do Sul  682
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Micron union in Taoyuan, Taiwan gets authorization to go on strike
+  - [taiwan] Micron's Taoyuan union in Taiwan secures authorisation to strike
+  - [korea] AMD CEO says she continues to explore foundry partnership with Samsung Electronics
+  - [korea] AMD CEO says continues to explore foundry partnership with Samsung Electronics
+  - [taiwan] INTC Stock Jumps Overnight: CEO Says Intel Will Keep Working With Musk's Terafab Amid TSMC Partnership Buzz
   - [taiwan] Musk says TSMC will not manage Terafab AI chip complex
   - [taiwan] Musk says TSMC won't run Terafab AI chip complex
   - [japan] August economic trend index decreased by 1.9 points from the previous month, the first decrease in 6 months
@@ -33,7 +38,6 @@ Total: 3000 manchetes
   - [japan] Japan’s Rapidus faces uphill battle to fill its $15B chip factory
   - [taiwan] Micron Union in Taoyuan, Taiwan Gets Strike Clearance
   - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers
-  - [taiwan] Micron's Taoyuan union in Taiwan secures authorisation to strike
   - [japan] BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction
   - [korea] Samsung’s HBM prices tipped to more than double in 2027
   - [korea] Lotte Biologics expands US manufacturing partnership with Alvotech
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] AMD’s Su to meet Samsung’s chip head as memory crunch persists- Bloomberg News
   - [korea] Korean Retail Investors Lose $1.7 Billion on Leveraged Chip ETFs
   - [china] Chinese EV Market Is Shifting to Serve Primarily as Hub for EV Exports — Market Talk
-  - [korea] Samsung Electronics Set to Post Record Third-Quarter Operating Profit — Earnings Preview
-  - [taiwan] Hwacom shifts semiconductor business to SureWin, targets post-quantum security
-  - [korea] Samsung Electronics, SK hynix rebound from early losses
-  - [japan] Yen Weakens on Yield Differential
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T07:42:46+00:00",
+      "published_utc": "2026-10-07T07:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
