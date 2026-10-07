@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T05:35:27.593137+00:00
+Última coleta: 2026-10-07T05:42:45.385708+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1290
+  🇯🇵 Japão          1289
   🇨🇳 China          776
   🇹🇼 Taiwan         257
-  🇰🇷 Coreia do Sul  677
+  🇰🇷 Coreia do Sul  678
 
 ## O que já está no feed (não repita)
 
+  - [korea] Global banks lift Korea growth outlook to 3.5% on chip boom
   - [japan] Consumption Activity Index
   - [japan] Australian Dollar-Yen May Have Reached Long-Term Ceiling — Market Talk
   - [korea] South Korean Won Tests 2024 High
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers By Reuters
   - [japan] Japan Forex Reserves Fall Further in September
   - [korea] Samsung Electronics poised to top $74bn in Q3 OP
-  - [japan] Monetary Base and the Bank of Japan's Transactions (Sept.)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T05:35:27+00:00",
+      "published_utc": "2026-10-07T05:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
