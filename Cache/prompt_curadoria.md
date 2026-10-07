@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T06:02:46.274052+00:00
+Última coleta: 2026-10-07T06:12:44.264092+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1289
@@ -17,9 +17,11 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung’s HBM prices tipped to more than double in 2027
   - [korea] Lotte Biologics expands US manufacturing partnership with Alvotech
   - [korea] AMD's Lisa Su courts Korean AI chipmakers as it takes on Nvidia
   - [china] Asia markets slip amid softening Chinese reserves and persistent energy cost pressures
+  - [taiwan] Intel to continue working on Musk’s Terafab despite TSMC talks - Bloomberg
   - [korea] Global banks lift Korea growth outlook to 3.5% on chip boom
   - [japan] Consumption Activity Index
   - [japan] Australian Dollar-Yen May Have Reached Long-Term Ceiling — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Accounts (September 30)
   - [taiwan] Rapidus adds Malaysian chip designers to its semiconductor network
   - [taiwan] Nan Pao pitches water-based resins as Taiwan textile shipments surge
-  - [japan] JGB Futures Edge Higher, Tracking Gains in U.S. Treasury Market — Market Talk
-  - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T06:02:46+00:00",
+      "published_utc": "2026-10-07T06:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
