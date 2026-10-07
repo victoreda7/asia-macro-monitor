@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T00:12:43.466953+00:00
+Última coleta: 2026-10-07T00:22:46.776557+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1288
-  🇨🇳 China          779
+  🇯🇵 Japão          1289
+  🇨🇳 China          778
   🇹🇼 Taiwan         258
   🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB Futures Edge Higher, Tracking Gains in U.S. Treasury Market — Market Talk
+  - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers
   - [japan] Japan Forex Reserves Fall Further in September
-  - [japan] Japan's $15 billion Rapidus chip bet hinges on winning customers
   - [korea] Samsung Electronics poised to top $74bn in Q3 OP
   - [japan] Monetary Base and the Bank of Japan's Transactions (Sept.)
   - [japan] Bank of Japan's Transactions with the Government (Sept.)
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
   - [china] MORE U.S. AUGUST TRADE: CHINA DEFICIT UP TO $16.4 BILLION FROM $15.2 BILLION IN JULY
   - [korea] Roze AI Expands Disaster Prevention and Physical AI Business with Approximately US$12.2 Million (KRW 16.4 Bill
-  - [korea] Roze AI Inc. (RZAI) Wins KRW 16.4B Disaster-Prevention Contracts in South Korea
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T00:12:43+00:00",
+      "published_utc": "2026-10-07T00:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

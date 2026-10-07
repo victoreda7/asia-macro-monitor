@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T00:12:43.466953+00:00",
- "collected_at_utc": "2026-10-07T00:12:43.466953+00:00",
+ "generated_at_utc": "2026-10-07T00:22:46.776557+00:00",
+ "collected_at_utc": "2026-10-07T00:22:46.776557+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1288,
-  "china": 779,
+  "japan": 1289,
+  "china": 778,
   "taiwan": 258,
   "korea": 675
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T23:48:34+00:00"
+   "newest": "2026-10-07T00:14:54+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-03T10:14:44+00:00"
+   "newest": "2026-10-02T13:09:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T00:08:00+00:00"
+   "newest": "2026-10-07T00:19:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T22:36:21+00:00"
+   "newest": "2026-10-06T19:33:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-07T09:00:00+09:00"
+   "newest": "2026-10-07T09:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T08:14:27+00:00"
+   "newest": "2026-10-06T13:45:30+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "JGB Futures Edge Higher, Tracking Gains in U.S. Treasury Market — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261006008995:0-jgb-futures-edge-higher-tracking-gains-in-u-s-treasury-market-market-talk/",
+   "published_utc": "2026-10-07T00:17:00+00:00",
+   "title_original": "JGB Futures Edge Higher, Tracking Gains in U.S. Treasury Market — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b7378681ccbe0c5c"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers",
+   "url": "https://www.investing.com/news/stock-market-news/analysisjapans-15-billion-rapidus-chip-bet-hinges-on-winning-customers-4935460",
+   "published_utc": "2026-10-07T00:06:40+00:00",
+   "title_original": "Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ff21c922adebefbc"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
@@ -359,23 +393,6 @@
    "live_wire": true,
    "manual": false,
    "id": "bf72a00296c5239a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's $15 billion Rapidus chip bet hinges on winning customers",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42P05Y:0-japan-s-15-billion-rapidus-chip-bet-hinges-on-winning-customers/",
-   "published_utc": "2026-10-06T23:54:30+00:00",
-   "title_original": "Japan's $15 billion Rapidus chip bet hinges on winning customers",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0b7d62f7a707dc51"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51911,24 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "94fdf81657c431fa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Video丨The central bank launches a 500 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16eG5KWWxBaHF0VkE2ejdvbXo3djRjMGhHcWJrN3JpT2hNRDgwRHZPMTAwaHhKYU1zME1fWDIwelpLRGtTeHAySENDT0tjQm5IY1RvNm01RmViSWpkaExZdk9oYTRzYm0xdzBVT0pqSHBnNUVKMjJkOA?oc=5",
-   "published_utc": "2026-09-07T02:57:00+00:00",
-   "title_original": "视频丨央行开展5000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "257d5bc0eba52ff0"
   },
   {
    "source_id": "manual_ia",
