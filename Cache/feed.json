@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T01:12:44.418154+00:00",
- "collected_at_utc": "2026-10-07T01:12:44.418154+00:00",
+ "generated_at_utc": "2026-10-07T01:22:43.361395+00:00",
+ "collected_at_utc": "2026-10-07T01:22:43.361395+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1289,
-  "china": 778,
+  "japan": 1290,
+  "china": 777,
   "taiwan": 260,
   "korea": 673
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T00:46:03+00:00"
+   "newest": "2026-10-07T01:06:43+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T23:36:43+00:00"
+   "newest": "2026-10-07T01:06:37+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T11:17:12+00:00"
+   "newest": "2026-10-04T18:11:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T22:00:10+00:00"
+   "newest": "2026-10-06T22:40:48+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T01:11:58+00:00"
+   "newest": "2026-10-07T01:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Towa Plans Chipmaking Tool Plant For Japanese Supply Chain: CEO, Nikkei Says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45S1NB:0-towa-plans-chipmaking-tool-plant-for-japanese-supply-chain-ceo-nikkei-says/",
+   "published_utc": "2026-10-07T01:14:05+00:00",
+   "title_original": "Towa Plans Chipmaking Tool Plant For Japanese Supply Chain: CEO, Nikkei Says",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ad7c77c6864267d7"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK Hynix bounces at Fibonacci support, cloud traps price: Live",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-below-sma20-in-tight-range-live-levels-93CH-4933195",
+   "published_utc": "2026-10-07T01:06:43+00:00",
+   "title_original": "SK Hynix bounces at Fibonacci support, cloud traps price: Live",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3b11d713d78d55a7"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -1914,24 +1948,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6dd8098ce8df7893"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "SK Hynix compresses at KRW 1,776,000 Fibonacci support: Live",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-below-sma20-in-tight-range-live-levels-93CH-4933195",
-   "published_utc": "2026-10-06T05:05:27+00:00",
-   "title_original": "SK Hynix compresses at KRW 1,776,000 Fibonacci support: Live",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0aa9258bbaa4ec4c"
   },
   {
    "source_id": "nhk_economy",
@@ -51910,24 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c760dbff1ce75b89"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中工网",
-   "title_en": "Video｜The central bank launches a 500 billion yuan buyout reverse repurchase operation-Video",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZSm1QT29CYUk2Nmt5enlVcnVWQnNuN29BVzAybzEwZ1lGY0t5YzZvYm95NDNTa3JWSVB4ZnQxY0IxTmxMak54b3EyblU0LVNGYmx0eXdja1NfTjgtSXJB?oc=5",
-   "published_utc": "2026-09-07T03:24:00+00:00",
-   "title_original": "视频｜央行开展5000亿元买断式逆回购操作- 视频",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5663d9d94873088e"
   },
   {
    "source_id": "manual_ia",
