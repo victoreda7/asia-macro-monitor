@@ -7,21 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T23:02:45.550992+00:00
+Última coleta: 2026-10-07T23:12:42.963622+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1264
+  🇯🇵 Japão          1263
   🇨🇳 China          781
   🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  686
+  🇰🇷 Coreia do Sul  687
 
 ## O que já está no feed (não repita)
 
   - [korea] Samsung Electronics First South Korean Company to Top KRW100T in Quarterly Operating Profit
+  - [korea] Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings
   - [korea] Samsung Electronics 3Q Oper Pft Estimate Largely Met FactSet-Compiled Consensus
   - [korea] Samsung Electronics Sees 3Q Oper Pft KRW107.400T Vs. KRW12.170T >005930.SE
-  - [korea] Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings
   - [korea] Samsung Electronics Sees 3Q Rev KRW195.000T Vs KRW86.060T >005930.SE
+  - [korea] [Breaking] Samsung Electronics Co., Ltd. made more than 100 trillion won in three months, setting a new milest
   - [korea] Samsung Q3 profit jumps 783% as AI memory boom lifts chip earnings
   - [japan] Japan Current Account Data Due On Thursday
   - [japan] Fed rate hike, wary of higher inflation; many support further rate hikes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] EU seeks to cut trade deficit with China in talks with Beijing
   - [japan] Yen Rises After BoJ Sato's Hawkish Remarks
   - [china] Tozed Kangwei To Issue 36.45 Mln Shares, Raising 979.8 Mln Yuan In Shenzhen Listing
-  - [taiwan] TSMC earnings could cause another round of consensus upgrades
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T23:02:45+00:00",
+      "published_utc": "2026-10-07T23:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
