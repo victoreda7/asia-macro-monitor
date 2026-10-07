@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T21:52:44.716014+00:00
+Última coleta: 2026-10-07T22:02:45.283354+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1263
   🇨🇳 China          783
-  🇹🇼 Taiwan         273
-  🇰🇷 Coreia do Sul  681
+  🇹🇼 Taiwan         272
+  🇰🇷 Coreia do Sul  682
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix’s Solidigm Is Said to Pick Banks for US IPO Next Year - Bloomberg News
   - [china] Brazil and China distance themselves from the G20 declaration on industrial overproduction
   - [china] Zoom CEO Eric Yuan sells $2.27 million in NASDAQ:ZM stock
   - [japan] NGK President Kobayashi ``Concentrates investment in the semiconductor manufacturing field''...Withdrawal from
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea to strengthen food safety ties, support exports to Latin America
   - [japan] BREAKING NEWS: Takaichi vows proper budget distribution amid farm minister controversy
   - [korea] Finance minister pledges to create favorable biz environment amid challenges
-  - [taiwan] Micron Taoyuan union secures strike authorization, weighs 'surprise strike'
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T21:52:44+00:00",
+      "published_utc": "2026-10-07T22:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
