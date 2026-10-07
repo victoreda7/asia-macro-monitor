@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T09:42:45.844584+00:00
+Última coleta: 2026-10-07T09:52:45.390199+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1276
   🇨🇳 China          775
-  🇹🇼 Taiwan         263
-  🇰🇷 Coreia do Sul  686
+  🇹🇼 Taiwan         264
+  🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Intel Stock Rebounds as Musk Explains Terafab AI Chip Project and TSMC's Role — Barrons.com
   - [japan] Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road bud
   - [korea] AMD CEO says he continues to explore foundry partnership with Samsung Electronics
   - [taiwan] Musk says TSMC won’t run Terafab AI chip complex
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Table: King Yuan Electronics Sep Rev NT$4.07B Vs NT$3.27B
   - [korea] Samsung’s Q3 profit seen hitting 105T won on AI-driven chip demand - report
   - [japan] Asia stocks slip as rising oil, yields weigh; RBI hikes rates as expected
-  - [japan] Japan’s Rapidus faces uphill battle to fill its $15B chip factory
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T09:42:46+00:00",
+      "published_utc": "2026-10-07T09:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
