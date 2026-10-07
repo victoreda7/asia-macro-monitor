@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T02:12:45.582023+00:00",
- "collected_at_utc": "2026-10-07T02:12:45.582023+00:00",
+ "generated_at_utc": "2026-10-07T02:22:45.482771+00:00",
+ "collected_at_utc": "2026-10-07T02:22:45.482771+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1288,
-  "china": 777,
+  "japan": 1289,
+  "china": 775,
   "taiwan": 261,
-  "korea": 674
+  "korea": 675
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T01:47:53+00:00"
+   "newest": "2026-10-07T02:07:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-07T11:02:50+00:00"
+   "newest": "2026-10-07T11:16:35+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "newest": "2026-10-03T10:14:44+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T02:11:00+00:00"
+   "newest": "2026-10-07T02:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T22:36:21+00:00"
+   "newest": "2026-10-06T19:33:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T01:49:20+00:00"
+   "newest": "2026-10-07T02:00:34+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T23:40:22+00:00"
+   "newest": "2026-10-06T08:24:52+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Korea to strengthen food safety ties, support exports to Latin America",
+   "url": "https://www.koreaherald.com/article/10895451",
+   "published_utc": "2026-10-07T02:22:43.599189+00:00",
+   "title_original": "Korea to strengthen food safety ties, support exports to Latin America",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "928dbbcf1b5651bd"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan futures rise as weather disruptions, port delays tighten supply",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45T03Z:0-japan-futures-rise-as-weather-disruptions-port-delays-tighten-supply/",
+   "published_utc": "2026-10-07T02:20:49+00:00",
+   "title_original": "Japan futures rise as weather disruptions, port delays tighten supply",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "60540cdd205026a0"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -359,6 +393,23 @@
    "live_wire": false,
    "manual": false,
    "id": "396872f57e1e2412"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Will the Bank of Japan's decision to reach 2% assist the Takaichi administration's move away from its reflation policy? (TBS CROSS DIG with Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04dGRKU3dydkUxS01CNS1tampPVGNCaUJWNno5QTNGLTJNRnZVSFNiYzhpSDNhZm1QSUxRM3FYbTdYei1LR3NpcFlXWExDZ1FXYnZER1pyazVjc3ZDNTFlLTBlVWprZkhSOTh2RmpQbTRDU3J3YWtsYmJZQVN5aW8?oc=5",
+   "published_utc": "2026-10-07T02:00:34+00:00",
+   "title_original": "日銀「2％到達と判断」の動きは高市政権のリフレ政策脱却のアシストか（TBS CROSS DIG with Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "232fa1adc738f1b5"
   },
   {
    "source_id": "tradingview_live",
@@ -1617,6 +1668,24 @@
    "live_wire": true,
    "manual": false,
    "id": "f2bd03a32928fc4a"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "위키리크스한국",
+   "title_en": "Korea Investment & Securities reorganizes deposit usage fee rates... Differential application by section in an interest rate increase environment",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TUE8xVzZucE1rNnh3OFRiTUFqaVM1dEt5cDU3bTdfRGpqQXNRM2Z3bVk0R2pSc2JTaWRJT0NRR2RYaWw5eUQ5ODRkaTVHajA3VTZoRGstTXc0UkNadnhqUkFBd1BocGlINS1OMmJRTQ?oc=5",
+   "published_utc": "2026-10-06T08:24:52+00:00",
+   "title_original": "한투증권, 예탁금 이용료율 재정비…금리인상 환경 속 구간별 차등 적용",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ee30f3b4859a0334"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51855,75 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba942203b1a85c0e"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China’s export growth seen accelerating in August: Reuters poll",
-   "url": "https://www.investing.com/news/economy-news/chinas-export-growth-seen-accelerating-in-august-reuters-poll-4890373",
-   "published_utc": "2026-09-07T05:42:55+00:00",
-   "title_original": "China’s export growth seen accelerating in August: Reuters poll",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6692c57395ccee83"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Weekly Recap: Samurai yen bond sale and FX liquidity for Euroclear’s AutoFX",
-   "url": "https://www.tradingview.com/news/tradingview:e318907afe461:0-weekly-recap-samurai-yen-bond-sale-and-fx-liquidity-for-euroclear-s-autofx/",
-   "published_utc": "2026-09-07T05:14:52+00:00",
-   "title_original": "Weekly Recap: Samurai yen bond sale and FX liquidity for Euroclear’s AutoFX",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7fe5cc9390e205b8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Samsung's Expanding HBM Shipments Set to Offset Slower General-Purpose Memory Growth in 2027 — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260907000159:0/",
-   "published_utc": "2026-09-07T05:13:00+00:00",
-   "title_original": "Samsung's Expanding HBM Shipments Set to Offset Slower General-Purpose Memory Growth in 2027 — Market Talk",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "71b143ae63f467ae"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "U.S. Export Restrictions Pose Challenges to Chinese Memory Makers' Growth — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260907000087:0/",
-   "published_utc": "2026-09-07T05:03:00+00:00",
-   "title_original": "U.S. Export Restrictions Pose Challenges to Chinese Memory Makers' Growth — Market Talk",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f045ee0a94849d40"
   },
   {
    "source_id": "manual_ia",

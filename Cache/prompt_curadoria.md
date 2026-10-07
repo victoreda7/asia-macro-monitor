@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T02:12:45.582023+00:00
+Última coleta: 2026-10-07T02:22:45.482771+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1288
-  🇨🇳 China          777
+  🇯🇵 Japão          1289
+  🇨🇳 China          775
   🇹🇼 Taiwan         261
-  🇰🇷 Coreia do Sul  674
+  🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea to strengthen food safety ties, support exports to Latin America
+  - [japan] Japan futures rise as weather disruptions, port delays tighten supply
   - [korea] Finance minister pledges to create favorable biz environment amid challenges
+  - [japan] Will the Bank of Japan's decision to reach 2% assist the Takaichi administration's move away from its reflatio
   - [japan] JGB yields track global bond rally; dovish BOJ member signals support for hikes
   - [taiwan] AI supercycle, pricing, and Terafab top the agenda ahead of TSMC's earnings call
   - [china] China Golden Week Offers Limited Boost to Consumption — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Wabash Welcomes Final U.S. Ruling on Unfairly Traded Chinese Trailer Imports; Canada and Mexico Investigations
   - [china] Wabash (WNC) Says U.S. Finalizes China Trailer AD/CVD; 232 Tariffs Stack
   - [taiwan] TSMC and other Taiwan players boost AI spending in US, Southeast Asia
-  - [japan] Towa plans chipmaking tool plant for Japanese supply chain: CEO
-  - [taiwan] Intel Stock Slips as TSMC Talks Complicate TeraFab's 14A Bet
-  - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T02:12:45+00:00",
+      "published_utc": "2026-10-07T02:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
