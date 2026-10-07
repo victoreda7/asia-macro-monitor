@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T14:52:51.726888+00:00
+Última coleta: 2026-10-07T15:02:45.698874+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1272
   🇨🇳 China          777
-  🇹🇼 Taiwan         270
-  🇰🇷 Coreia do Sul  681
+  🇹🇼 Taiwan         271
+  🇰🇷 Coreia do Sul  680
 
 ## O que já está no feed (não repita)
 
   - [korea] Samsung’s HBM prices tipped to more than double in 2027
+  - [japan] Central Bank of India raises interest rates for the first time in 3 years and 8 months against the backdrop of
+  - [taiwan] Intel stays in Musk's Terafab plan as TSMC joins the mix
   - [korea] Lotte Biologics expands US manufacturing partnership with Alvotech
   - [korea] AMD’s Lisa Su calls chips ‘team sport’ as Samsung, SK hynix ties deepen
   - [taiwan] SpaceX, Intel, TSMC, Webull, Fair Isaac, and More Stocks That Explain Today's Market — Barrons.com
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's Inflation Hits Over Two-Year High
   - [japan] Asian currencies mixed as dollar firms, yen weakens near 158
   - [japan] Bank of Japan Tankan Steel business confidence turns positive, reflecting sales price transfer (Nikkan Sangyo 
-  - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers By Reuters
-  - [japan] Sumitomo Mitsui Trust Group Plans Approximately 350 Billion Yen Japan Infrastructure Fund As Early As In 2028,
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T14:52:51+00:00",
+      "published_utc": "2026-10-07T15:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
