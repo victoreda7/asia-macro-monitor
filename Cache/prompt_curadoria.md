@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T09:12:45.804405+00:00
+Última coleta: 2026-10-07T09:22:44.686960+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1276
+  🇯🇵 Japão          1275
   🇨🇳 China          775
   🇹🇼 Taiwan         263
-  🇰🇷 Coreia do Sul  686
+  🇰🇷 Coreia do Sul  687
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road bud
+  - [korea] AMD CEO says he continues to explore foundry partnership with Samsung Electronics
   - [taiwan] Musk says TSMC won’t run Terafab AI chip complex
   - [korea] AMD’s Lisa Su calls chips ‘team sport’ as Samsung, SK hynix ties deepen
   - [china] Visionox Technology To Raise Up To 3 Bln Yuan In Private Share Placement
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Asia stocks slip as rising oil, yields weigh; RBI hikes rates as expected
   - [japan] Japan’s Rapidus faces uphill battle to fill its $15B chip factory
   - [taiwan] Micron Union in Taoyuan, Taiwan Gets Strike Clearance
-  - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers
-  - [japan] BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T09:12:45+00:00",
+      "published_utc": "2026-10-07T09:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

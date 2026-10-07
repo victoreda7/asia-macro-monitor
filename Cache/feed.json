@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-07T09:12:45.804405+00:00",
- "collected_at_utc": "2026-10-07T09:12:45.804405+00:00",
+ "generated_at_utc": "2026-10-07T09:22:44.686960+00:00",
+ "collected_at_utc": "2026-10-07T09:22:44.686960+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1276,
+  "japan": 1275,
   "china": 775,
   "taiwan": 263,
-  "korea": 686
+  "korea": 687
  },
  "elapsed_s": 30.1,
  "sources": [
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T08:38:55+00:00"
+   "newest": "2026-10-07T09:10:08+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-10-06T17:00:00+09:00"
+   "newest": "2026-10-07T16:45:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-07T18:08:49+09:00"
+   "newest": "2026-10-07T18:21:24+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "newest": "2026-10-07T04:41:15+00:00"
   },
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T05:13:00+00:00"
+   "newest": "2026-10-07T07:56:09+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-07T08:30:06+00:00"
+   "newest": "2026-10-07T09:17:37+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T09:02:01+00:00"
+   "newest": "2026-10-07T09:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T09:00:40+00:00"
+   "newest": "2026-10-07T09:08:10+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-07T06:46:34+00:00"
+   "newest": "2026-10-07T09:13:37+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
+   "published_utc": "2026-10-07T09:21:24+00:00",
+   "title_original": "高市首相“消費税減税 最善の方法”“道路予算 適切配分徹底”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "082ec485c7ba9e26"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "AMD CEO says he continues to explore foundry partnership with Samsung Electronics",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45T0K1:0/",
+   "published_utc": "2026-10-07T09:07:47+00:00",
+   "title_original": "CEO da AMD afirma que continua explorar parceria de fundição com Samsung Electronics",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "48b732cee596a963"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -3591,6 +3626,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bfb0d0a9d32f729c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "虎嗅网",
+   "title_en": "The central bank’s four directional tools are implemented: 700 billion capital flow and policy logic analysis",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ScTZNRF8tazZPc053UE0zbnd5Ry1SX0M0YnZoRWI1ZG5FODBHYzZRQWQ1MzZLZlk3dWtrT0pTTFprLVp3YTlnN1dtaVhMOEhOR2lfNHZvNW56U2hnN04w?oc=5",
+   "published_utc": "2026-10-05T16:11:07+00:00",
+   "title_original": "央行四项定向工具落地：7000亿资金流向与政策逻辑解析",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fd692994410cb99d"
   },
   {
    "source_id": "tradingview_live",
@@ -11385,10 +11437,10 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "강원일보",
+   "source_name": "Daum",
    "title_en": "Household loans continue to increase despite increases in base and loan interest rates",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNFgwSmhySEF2c043UU52SVJESzRyYnFJVjJmbDl4N0VSX3NXUFlHcVdZU0hDY3VjMkNpNzR1eUVEbXpsYWtFMDNQYUNrZWRKOERrX09uTW9mdTQ?oc=5",
-   "published_utc": "2026-09-30T15:00:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JQ01TRFNfTWQyTWM2amxfMUZtNmc5UkFhRDJLaUVUMnoydFpvZ09NekFheDJFNkpzTjN1N2hTcHRYXzhZeUE?oc=5",
+   "published_utc": "2026-09-30T15:01:38+00:00",
    "title_original": "기준금리·대출금리 상승에도 가계대출 증가세 여전",
    "region": "korea",
    "topics": [
@@ -11398,7 +11450,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "609ab971b57aa765"
+   "id": "6b11a7832d2a60e8"
   },
   {
    "source_id": "korea_herald_biz",
@@ -11849,24 +11901,6 @@
    "id": "ea079e31fc559a5f"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
-   "title_en": "Good news came after the market closed. The central bank announced in advance that it would release a net fund of 200 billion yuan after the holiday! At a time when A-share funds are hesitant and hesitant, the central bank has given the market \"reassurance\" in advance.",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nMEs2NGticERTZW4weXdidV9nT1JjQi14RjhpRGJwRG1ZSXBRM1NtQ1Z4T3hsb0RqYXF5Y1lSY1ZFOVNGU1NPd3J4TzFMb1JOam5BMGpR?oc=5",
-   "published_utc": "2026-09-30T10:43:00+00:00",
-   "title_original": "盘后有利好传来，央行提前预告，节后净释放2000亿元资金！在A股各路资金犹豫、避险之际，央行提前给市场吃下“定心丸”",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6f1f5e35095003ce"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Japan economic panel members underline BOJ independence By Reuters",
@@ -11882,6 +11916,24 @@
    "live_wire": false,
    "manual": false,
    "id": "100f0fdf6f56156a"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "Good news came after the market closed. The central bank announced in advance that it would release a net fund of 200 billion yuan after the holiday! At a time when A-share funds are hesitant and hesitant, the central bank has given the market \"reassurance\" in advance.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREdMVnpISlh6azU1M3ljU0tiTXVhUXVhei1EQlBDTFlFUlpoRjJWdXdvS3VMVUlWdkdQdnNGVzRlODg2TExSTTVFVzZPNG5fb3E3Wll1dUt4MWI5YS1ZMHpYRVdWMlFwNl8teWlqdGcxaWhhR1M0VnFuVVNuVXA5eW90NHdUeWVB?oc=5",
+   "published_utc": "2026-09-30T10:38:01+00:00",
+   "title_original": "盘后有利好传来，央行提前预告，节后净释放2000亿元资金！在A股各路资金犹豫、避险之际，央行提前给市场吃下“定心丸”",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "497ff04cdc8f46d9"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -51876,58 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7cdb3c648484ca1f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "Tencent Slips 1% While Its AI-Chip Bet Attacks Nvidia's China Moat",
-   "url": "https://www.tradingview.com/news/gurufocus:80427e573094b:0-tencent-slips-1-while-its-ai-chip-bet-attacks-nvidia-s-china-moat/",
-   "published_utc": "2026-09-07T21:52:26+00:00",
-   "title_original": "Tencent Slips 1% While Its AI-Chip Bet Attacks Nvidia's China Moat",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e335c24cb263aa14"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "Interest rate rise worries mortgage repayers",
-   "url": "https://news.yahoo.co.jp/pickup/6594597?source=rss",
-   "published_utc": "2026-09-07T21:48:02+00:00",
-   "title_original": "金利上昇 住宅ローン返済者ら悩み",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0a56fa8ddf6fd8c3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "Toyota Stock: 345 Billion Currency Boost Faces Strongest Yen in Seven Months",
-   "url": "https://www.tradingview.com/news/gurufocus:ba79c815e094b:0-toyota-stock-345-billion-currency-boost-faces-strongest-yen-in-seven-months/",
-   "published_utc": "2026-09-07T21:44:59+00:00",
-   "title_original": "Toyota Stock: 345 Billion Currency Boost Faces Strongest Yen in Seven Months",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "44e4185e59b2641f"
   },
   {
    "source_id": "manual_ia",
