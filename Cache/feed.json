@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T13:52:49.180003+00:00",
- "collected_at_utc": "2026-10-07T13:52:49.180003+00:00",
+ "generated_at_utc": "2026-10-07T14:02:48.939521+00:00",
+ "collected_at_utc": "2026-10-07T14:02:48.939521+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1274,
-  "china": 776,
+  "japan": 1273,
+  "china": 777,
   "taiwan": 269,
   "korea": 681
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T12:01:54+00:00"
+   "newest": "2026-10-07T13:54:18+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-07T04:41:15+00:00"
+   "newest": "2026-10-07T11:17:18+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-07T12:30:06+00:00"
+   "newest": "2026-10-07T14:00:06+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T13:51:37+00:00"
+   "newest": "2026-10-07T14:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T12:21:02+00:00"
+   "newest": "2026-10-07T13:50:37+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "Why China’s export engine may hit a ceiling as trading partners face limits",
+   "url": "https://www.scmp.com/economy/global-economy/article/3370078/why-chinas-export-engine-may-hit-ceiling-trading-partners-face-limits?utm_source=rss_feed",
+   "published_utc": "2026-10-07T14:00:06+00:00",
+   "title_original": "Why China’s export engine may hit a ceiling as trading partners face limits",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d90cbb2515dc5494"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The number of hacking attempts targeting the Export-Import Bank of Korea this year was nearly eight",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13c3VzWURCZG1XRlpESGxaTWdmbkRsamVhU083eE9JZVFmNWFqXy1BeDB1cVh6bzlQTGtuZG9hSkhscHJ1YzdvWEV4OA?oc=5",
+   "published_utc": "2026-10-07T13:50:37+00:00",
+   "title_original": "The number of hacking attempts targeting the Export-Import Bank of Korea this year was nearly eight",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "00445a76e57f4581"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -51894,40 +51929,6 @@
    "live_wire": true,
    "manual": false,
    "id": "08b9c01e5a2afc2c"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Watch Yen Gains Past 154 as Rally Extends",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcG5JZkF4TFVrZnVpWE4tT0paYk5VZjBlYmR0TVlFWUg4LS0yYU5od0VDaHJVUlltWWJzOEp3WV9lVnZkT252VUFBZ1RCMzdHS2VhMk9LclFXWHB1R0tSWFBEWGFsMFNTQU02aGt2MHcteEFhU2EwT19JMTVBOFVUWEFSMHp1aU5FVFljYUJ1V2EwVVZF?oc=5",
-   "published_utc": "2026-09-07T23:40:36+00:00",
-   "title_original": "Watch Yen Gains Past 154 as Rally Extends",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff7a20d8c96e5ea4"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "South Korea's economy grew solidly in the second quarter of this year on the back of increased expor..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkTDFCWlhza3JBSDEzOG5XdlFDZmpYbVEwNXJTNldYMkJ6OWlSX3BYWW5RVktEZU5lUnF4VDFNUGZIMDZyRTFhOGlGSkxsdnFkSnc?oc=5",
-   "published_utc": "2026-09-07T23:24:09+00:00",
-   "title_original": "South Korea's economy grew solidly in the second quarter of this year on the back of increased expor..",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5c3c0d26a9547253"
   },
   {
    "source_id": "manual_ia",

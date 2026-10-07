@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T13:52:49.180003+00:00
+Última coleta: 2026-10-07T14:02:48.939521+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1274
-  🇨🇳 China          776
+  🇯🇵 Japão          1273
+  🇨🇳 China          777
   🇹🇼 Taiwan         269
   🇰🇷 Coreia do Sul  681
 
 ## O que já está no feed (não repita)
 
+  - [china] Why China’s export engine may hit a ceiling as trading partners face limits
+  - [korea] The number of hacking attempts targeting the Export-Import Bank of Korea this year was nearly eight
   - [japan] Yen Rises After BoJ Sato's Hawkish Remarks
   - [china] Tozed Kangwei To Issue 36.45 Mln Shares, Raising 979.8 Mln Yuan In Shenzhen Listing
   - [taiwan] TSMC earnings could cause another round of consensus upgrades
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Itcenentec Acquiring Real Estate Worth 74 Billion Won
   - [japan] Okura Industrial Co Ltd - Determined Selling Price For Secondary Share Offering At 5,315 Yen
   - [korea] Monetary Policy Committee member Jang Yong-seong "It is difficult to predict the future of the semiconductor i
-  - [taiwan] Workers' union at chipmaker Micron Tech in Taiwan receives authorization to go on strike
-  - [taiwan] Micron's Taoyuan union in Taiwan secures authorisation to strike
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T13:52:49+00:00",
+      "published_utc": "2026-10-07T14:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
