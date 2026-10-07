@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T17:22:47.444933+00:00
+Última coleta: 2026-10-07T17:32:46.605247+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1269
-  🇨🇳 China          778
+  🇯🇵 Japão          1268
+  🇨🇳 China          779
   🇹🇼 Taiwan         272
   🇰🇷 Coreia do Sul  681
 
@@ -19,11 +19,13 @@ Total: 3000 manchetes
 
   - [korea] SK Hynix Stocks Drop 2.8% Despite AMD's Multi-Generation HBM Plan
   - [taiwan] Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today's Market — Barrons.com
+  - [china] China slaps down EU request for voluntary curbs on hybrid car exports
   - [japan] Japan Pushes Local 5G Manufacturing, Digital Infrastructure In India
   - [korea] Samsung’s HBM prices tipped to more than double in 2027
   - [japan] Central Bank of India raises interest rates for the first time in 3 years and 8 months against the backdrop of
   - [taiwan] Intel stays in Musk's Terafab plan as TSMC joins the mix
   - [korea] Lotte Biologics expands US manufacturing partnership with Alvotech
+  - [taiwan] Micron Tech chipmaker union in Taiwan gets OK to strike
   - [korea] AMD’s Lisa Su calls chips ‘team sport’ as Samsung, SK hynix ties deepen
   - [taiwan] SpaceX, Intel, TSMC, Webull, Fair Isaac, and More Stocks That Explain Today's Market — Barrons.com
   - [china] Why China’s export engine may hit a ceiling as trading partners face limits
@@ -42,7 +44,6 @@ Total: 3000 manchetes
   - [korea] Korea to strengthen food safety ties, support exports to Latin America
   - [japan] BREAKING NEWS: Takaichi vows proper budget distribution amid farm minister controversy
   - [korea] Finance minister pledges to create favorable biz environment amid challenges
-  - [taiwan] Micron Tech chipmaker union in Taiwan gets OK to strike
   - [taiwan] Micron Taoyuan union secures strike authorization, weighs 'surprise strike'
   - [taiwan] SpaceX, TSMC, Constellation Brands, FICO, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] Intel Stock Rebounds as Musk Explains Terafab AI Chip Project and TSMC's Role — Barrons.com
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] "Annual Export of $1 Trillion…" "You have to start preparing for 'Post Semiconductor'."
   - [taiwan] Musk says we will “build and run” Terafab, TSMC may sublease space
   - [korea] Operating profit of KRW 4 trillion by Q3… LG Electronics' All-Time Performance 'Preview' This Year
-  - [korea] Samsung Electronics DS employee earning 80 million won a year to receive 750 million won in performance bonuse
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T17:22:47+00:00",
+      "published_utc": "2026-10-07T17:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
