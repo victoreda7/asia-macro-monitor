@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T07:12:46.537251+00:00
+Última coleta: 2026-10-07T07:22:45.231500+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1287
-  🇨🇳 China          776
-  🇹🇼 Taiwan         258
+  🇨🇳 China          775
+  🇹🇼 Taiwan         259
   🇰🇷 Coreia do Sul  679
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Musk Says Maybe TSMC Subleases Part Of The Terafab If They Want, But Nothing More Than That
+  - [japan] Japan futures rise as weather disruptions, port delays tighten supply
   - [japan] BOJ Has Favorable Window to Hike Rates Through Next Spring — Market Talk
   - [japan] Ckd Corp - To Buy Back Up To 1.94% Of Own Shares Worth 5 Billion Yen
   - [japan] Komei's new representative Okamoto has dismissed the consumption tax cut as "inefficient," but rumors of a "re
@@ -54,9 +56,7 @@ Total: 3000 manchetes
   - [japan] Yomiuri: Mizuho Bank to Offer 2 Trillion Yen in Startup Support
   - [china] China's forex reserves fall more than expected in September
   - [korea] Korea to strengthen food safety ties, support exports to Latin America
-  - [japan] Japan futures rise as weather disruptions, port delays tighten supply
   - [korea] Finance minister pledges to create favorable biz environment amid challenges
-  - [japan] Will the Bank of Japan's decision to reach 2% assist the Takaichi administration's move away from its reflatio
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T07:12:46+00:00",
+      "published_utc": "2026-10-07T07:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
