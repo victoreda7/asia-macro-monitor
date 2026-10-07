@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T23:22:52.814906+00:00
+Última coleta: 2026-10-07T23:32:15.235896+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1262
@@ -18,9 +18,9 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] SK Hynix’s Memory Division Reportedly Picks Banks For Its US IPO Next Year
+  - [korea] Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings
   - [korea] South Korea Current Account Surplus Widens
   - [korea] Samsung Electronics First South Korean Company to Top KRW100T in Quarterly Operating Profit
-  - [korea] Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings
   - [korea] Samsung Electronics 3Q Oper Pft Estimate Largely Met FactSet-Compiled Consensus
   - [korea] Samsung Electronics Sees 3Q Oper Pft KRW107.400T Vs. KRW12.170T >005930.SE
   - [korea] Samsung Electronics Sees 3Q Rev KRW195.000T Vs KRW86.060T >005930.SE
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T23:22:53+00:00",
+      "published_utc": "2026-10-07T23:32:15+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
