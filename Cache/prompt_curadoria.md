@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T07:52:45.079011+00:00
+Última coleta: 2026-10-07T08:02:44.421044+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1281
-  🇨🇳 China          774
+  🇯🇵 Japão          1280
+  🇨🇳 China          773
   🇹🇼 Taiwan         263
-  🇰🇷 Coreia do Sul  682
+  🇰🇷 Coreia do Sul  684
 
 ## O que já está no feed (não repita)
 
-  - [taiwan] Micron union in Taoyuan, Taiwan gets authorization to go on strike
-  - [taiwan] Micron's Taoyuan union in Taiwan secures authorisation to strike
-  - [korea] AMD CEO says she continues to explore foundry partnership with Samsung Electronics
   - [korea] AMD CEO says continues to explore foundry partnership with Samsung Electronics
+  - [taiwan] Micron’s Taoyuan union in Taiwan secures authorisation to strike
+  - [korea] Monetary Policy Committee member Jang Yong-seong "It is difficult to predict the future of the semiconductor i
+  - [taiwan] Micron union in Taoyuan, Taiwan gets authorization to go on strike
+  - [korea] AMD CEO says she continues to explore foundry partnership with Samsung Electronics
   - [taiwan] INTC Stock Jumps Overnight: CEO Says Intel Will Keep Working With Musk's Terafab Amid TSMC Partnership Buzz
+  - [korea] Monetary Policy Committee member Jang Yong-seong “Employment must increase to improve domestic demand… Semicon
   - [taiwan] Musk says TSMC will not manage Terafab AI chip complex
   - [taiwan] Musk says TSMC won't run Terafab AI chip complex
   - [japan] August economic trend index decreased by 1.9 points from the previous month, the first decrease in 6 months
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese Yuan May Be Undervalued — Market Talk
   - [korea] AMD's Su to Meet with Samsung's Chip Division Chief as Memory Shortage Persists — Bloomberg News
   - [korea] AMD’s Su to meet Samsung’s chip head as memory crunch persists- Bloomberg News
-  - [korea] Korean Retail Investors Lose $1.7 Billion on Leveraged Chip ETFs
-  - [china] Chinese EV Market Is Shifting to Serve Primarily as Hub for EV Exports — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T07:52:45+00:00",
+      "published_utc": "2026-10-07T08:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

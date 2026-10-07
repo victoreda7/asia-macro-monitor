@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T07:52:45.079011+00:00",
- "collected_at_utc": "2026-10-07T07:52:45.079011+00:00",
+ "generated_at_utc": "2026-10-07T08:02:44.421044+00:00",
+ "collected_at_utc": "2026-10-07T08:02:44.421044+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1281,
-  "china": 774,
+  "japan": 1280,
+  "china": 773,
   "taiwan": 263,
-  "korea": 682
+  "korea": 684
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 57,
+   "count": 58,
    "error": "",
-   "newest": "2026-10-07T14:28:37+08:00"
+   "newest": "2026-10-07T15:27:40+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T07:30:09+00:00"
+   "newest": "2026-10-07T07:57:25+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T07:18:19+00:00"
+   "newest": "2026-10-07T07:49:00+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T07:28:22+00:00"
+   "newest": "2026-10-07T07:38:47+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T06:51:15+00:00"
+   "newest": "2026-10-07T07:56:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T06:37:15+00:00"
+   "newest": "2026-10-07T07:54:18+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 20,
+   "count": 22,
    "error": "",
    "newest": "2026-10-07T04:41:15+00:00"
   },
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T06:54:50+00:00"
+   "newest": "2026-10-07T07:48:44+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T07:21:41+00:00"
+   "newest": "2026-10-07T07:44:29+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,63 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T07:16:00+00:00"
+   "newest": "2026-10-07T07:53:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
+   "url": "https://www.investing.com/news/stock-market-news/amd-ceo-says-continues-to-explore-foundry-partnership-with-samsung-electronics-4935723",
+   "published_utc": "2026-10-07T07:54:42+00:00",
+   "title_original": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b4a53e0a45ba92f0"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Micron’s Taoyuan union in Taiwan secures authorisation to strike",
+   "url": "https://www.investing.com/news/stock-market-news/microns-taoyuan-union-in-taiwan-secures-authorisation-to-strike-4935768",
+   "published_utc": "2026-10-07T07:54:26+00:00",
+   "title_original": "Micron’s Taoyuan union in Taiwan secures authorisation to strike",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "aeee136932603cbb"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "조선일보",
+   "title_en": "Monetary Policy Committee member Jang Yong-seong \"It is difficult to predict the future of the semiconductor industry... Future Fund must be designed carefully.\"",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeldPZnU3U3VvOWpFYWRheFh6T0VSTWtLOFNTa2NIcjdQN1lZWE1tMkhoQVdqNk5VSG02SGRwRmlRN1lwWGxSZng0NjBQcGxKZnlkdE9xa2F5a3l2bG1oSDV1UjVEWS1ST3JPb1NqZ1dlVVBGTHBfNDNlaXlXZEVRcG01aVpDc3Znc1VqZ2VR?oc=5",
+   "published_utc": "2026-10-07T07:53:00+00:00",
+   "title_original": "장용성 금통위원 \"반도체 산업 미래 예측 어려워…미래기금, 신중히 설계해야\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d2f9b786462fef3"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -363,23 +416,6 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
-   "title_en": "Micron's Taoyuan union in Taiwan secures authorisation to strike",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45T0D9:0-micron-s-taoyuan-union-in-taiwan-secures-authorisation-to-strike/",
-   "published_utc": "2026-10-07T07:51:32+00:00",
-   "title_original": "Micron's Taoyuan union in Taiwan secures authorisation to strike",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1986b486714688e8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
    "title_en": "AMD CEO says she continues to explore foundry partnership with Samsung Electronics",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45T070:0/",
    "published_utc": "2026-10-07T07:43:37+00:00",
@@ -393,23 +429,6 @@
    "live_wire": true,
    "manual": false,
    "id": "af4b04c15c88dea9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45T0FM:0-amd-ceo-says-continues-to-explore-foundry-partnership-with-samsung-electronics/",
-   "published_utc": "2026-10-07T07:43:09+00:00",
-   "title_original": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a4391948d9de2ae4"
   },
   {
    "source_id": "tradingview_live",
@@ -427,6 +446,26 @@
    "live_wire": true,
    "manual": false,
    "id": "8d37b19d47ef1364"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "KB Think",
+   "title_en": "Monetary Policy Committee member Jang Yong-seong “Employment must increase to improve domestic demand… Semiconductors are capital-intensive.”",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sR2JVcFdfZVVzNmFxbnJGVGhFWC0wdmE1RFRRczl5X3oxVGNuTUUxa3ozRTVuV3JmWFRrYXVIc0M5UzVVd2VSR1dUdFdmUDdBTTMwS1ROSEoxellpUWl4M1dUUnNOMDJ3b1VNYXlma2FOQQ?oc=5",
+   "published_utc": "2026-10-07T07:39:48+00:00",
+   "title_original": "장용성 금통위원 \"내수 좋아지려면 고용 늘어야…반도체는 자본집약적\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1de1a8a3df8b253d"
   },
   {
    "source_id": "tradingview_live",
@@ -11188,10 +11227,10 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "Daum",
+   "source_name": "강원일보",
    "title_en": "Household loans continue to increase despite increases in base and loan interest rates",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JQ01TRFNfTWQyTWM2amxfMUZtNmc5UkFhRDJLaUVUMnoydFpvZ09NekFheDJFNkpzTjN1N2hTcHRYXzhZeUE?oc=5",
-   "published_utc": "2026-09-30T15:01:38+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNFgwSmhySEF2c043UU52SVJESzRyYnFJVjJmbDl4N0VSX3NXUFlHcVdZU0hDY3VjMkNpNzR1eUVEbXpsYWtFMDNQYUNrZWRKOERrX09uTW9mdTQ?oc=5",
+   "published_utc": "2026-09-30T15:00:00+00:00",
    "title_original": "기준금리·대출금리 상승에도 가계대출 증가세 여전",
    "region": "korea",
    "topics": [
@@ -11201,7 +11240,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b11a7832d2a60e8"
+   "id": "609ab971b57aa765"
   },
   {
    "source_id": "korea_herald_biz",
@@ -11634,24 +11673,6 @@
    "id": "ea079e31fc559a5f"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
-   "title_en": "Good news came after the market closed. The central bank announced in advance that it would release a net fund of 200 billion yuan after the holiday! At a time when A-share funds are hesitant and hesitant, the central bank has given the market \"reassurance\" in advance.",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nMEs2NGticERTZW4weXdidV9nT1JjQi14RjhpRGJwRG1ZSXBRM1NtQ1Z4T3hsb0RqYXF5Y1lSY1ZFOVNGU1NPd3J4TzFMb1JOam5BMGpR?oc=5",
-   "published_utc": "2026-09-30T10:43:00+00:00",
-   "title_original": "盘后有利好传来，央行提前预告，节后净释放2000亿元资金！在A股各路资金犹豫、避险之际，央行提前给市场吃下“定心丸”",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6f1f5e35095003ce"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Japan economic panel members underline BOJ independence By Reuters",
@@ -11667,6 +11688,24 @@
    "live_wire": false,
    "manual": false,
    "id": "100f0fdf6f56156a"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "Good news came after the market closed. The central bank announced in advance that it would release a net fund of 200 billion yuan after the holiday! At a time when A-share funds are hesitant and hesitant, the central bank has given the market \"reassurance\" in advance.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREdMVnpISlh6azU1M3ljU0tiTXVhUXVhei1EQlBDTFlFUlpoRjJWdXdvS3VMVUlWdkdQdnNGVzRlODg2TExSTTVFVzZPNG5fb3E3Wll1dUt4MWI5YS1ZMHpYRVdWMlFwNl8teWlqdGcxaWhhR1M0VnFuVVNuVXA5eW90NHdUeWVB?oc=5",
+   "published_utc": "2026-09-30T10:38:01+00:00",
+   "title_original": "盘后有利好传来，央行提前预告，节后净释放2000亿元资金！在A股各路资金犹豫、避险之际，央行提前给市场吃下“定心丸”",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "497ff04cdc8f46d9"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -51885,41 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "605027c7e4da2470"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "China's Huawei heads to trial in US over sanctions and trade secrets",
-   "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-s-huawei-heads-to-trial-in-us-over-sanctions-and-trade-secrets",
-   "published_utc": "2026-09-07T16:01:40.264598+00:00",
-   "title_original": "China's Huawei heads to trial in US over sanctions and trade secrets",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c9a2fc6903832d18"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Yen surges to seven-month high; dollar drifts ahead of US inflation",
-   "url": "https://www.investing.com/news/economy-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations-4890340",
-   "published_utc": "2026-09-07T14:55:42+00:00",
-   "title_original": "Yen surges to seven-month high; dollar drifts ahead of US inflation",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8014b08bb9105828"
   },
   {
    "source_id": "manual_ia",
