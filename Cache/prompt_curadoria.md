@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T16:02:46.512039+00:00
+Última coleta: 2026-10-07T16:12:46.324188+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1271
-  🇨🇳 China          778
+  🇯🇵 Japão          1272
+  🇨🇳 China          777
   🇹🇼 Taiwan         271
   🇰🇷 Coreia do Sul  680
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Pushes Local 5G Manufacturing, Digital Infrastructure In India
   - [korea] Samsung’s HBM prices tipped to more than double in 2027
   - [japan] Central Bank of India raises interest rates for the first time in 3 years and 8 months against the backdrop of
   - [taiwan] Intel stays in Musk's Terafab plan as TSMC joins the mix
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il met with the head of six econ..
   - [taiwan] Taiwan Inflation Hits 31-Month High
   - [taiwan] Taiwan's Inflation Hits Over Two-Year High
-  - [japan] Asian currencies mixed as dollar firms, yen weakens near 158
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T16:02:46+00:00",
+      "published_utc": "2026-10-07T16:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
