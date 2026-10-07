@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T10:52:44.779962+00:00
+Última coleta: 2026-10-07T11:02:46.165298+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1275
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea to strengthen food safety ties, support exports to Latin America
   - [korea] Finance minister pledges to create favorable biz environment amid challenges
   - [taiwan] SpaceX, TSMC, Constellation Brands, FICO, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] Intel Stock Rebounds as Musk Explains Terafab AI Chip Project and TSMC's Role — Barrons.com
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan futures rise as weather disruptions, port delays tighten supply
   - [japan] BOJ Has Favorable Window to Hike Rates Through Next Spring — Market Talk
   - [japan] Ckd Corp - To Buy Back Up To 1.94% Of Own Shares Worth 5 Billion Yen
-  - [japan] Komei's new representative Okamoto has dismissed the consumption tax cut as "inefficient," but rumors of a "re
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T10:52:45+00:00",
+      "published_utc": "2026-10-07T11:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
