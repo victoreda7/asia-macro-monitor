@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T23:12:42.963622+00:00
+Última coleta: 2026-10-07T23:22:52.814906+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1263
+  🇯🇵 Japão          1262
   🇨🇳 China          781
   🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  687
+  🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix’s Memory Division Reportedly Picks Banks For Its US IPO Next Year
+  - [korea] South Korea Current Account Surplus Widens
   - [korea] Samsung Electronics First South Korean Company to Top KRW100T in Quarterly Operating Profit
   - [korea] Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings
   - [korea] Samsung Electronics 3Q Oper Pft Estimate Largely Met FactSet-Compiled Consensus
@@ -28,6 +30,7 @@ Total: 3000 manchetes
   - [japan] Fed rate hike, wary of higher inflation; many support further rate hikes
   - [japan] When a woman returns home, she hears a noise inside... The "unexpected culprit" in the "stalker case" that sen
   - [korea] SK Hynix’s Solidigm Is Said to Pick Banks for US IPO Next Year - Bloomberg News
+  - [china] Bond market closes | The central bank continues to pour funds into a loosening situation, and the 10-year gove
   - [china] Brazil and China distance themselves from the G20 declaration on industrial overproduction
   - [china] Zoom CEO Eric Yuan sells $2.27 million in NASDAQ:ZM stock
   - [japan] NGK President Kobayashi ``Concentrates investment in the semiconductor manufacturing field''...Withdrawal from
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] SpaceX, Intel, TSMC, Webull, Fair Isaac, and More Stocks That Explain Today's Market — Barrons.com
   - [china] Why China’s export engine may hit a ceiling as trading partners face limits
   - [korea] The number of hacking attempts targeting the Export-Import Bank of Korea this year was nearly eight
-  - [china] EU seeks to cut trade deficit with China in talks with Beijing
-  - [japan] Yen Rises After BoJ Sato's Hawkish Remarks
-  - [china] Tozed Kangwei To Issue 36.45 Mln Shares, Raising 979.8 Mln Yuan In Shenzhen Listing
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T23:12:43+00:00",
+      "published_utc": "2026-10-07T23:22:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T23:12:42.963622+00:00",
- "collected_at_utc": "2026-10-07T23:12:42.963622+00:00",
+ "generated_at_utc": "2026-10-07T23:22:52.814906+00:00",
+ "collected_at_utc": "2026-10-07T23:22:52.814906+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1263,
+  "japan": 1262,
   "china": 781,
   "taiwan": 269,
-  "korea": 687
+  "korea": 688
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 21,
    "error": "",
-   "newest": "2026-10-07T17:17:57+00:00"
+   "newest": "2026-10-07T21:29:55+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T16:00:00+00:00"
+   "newest": "2026-10-07T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T23:01:00+00:00"
+   "newest": "2026-10-07T23:20:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T22:16:50+00:00"
+   "newest": "2026-10-07T22:38:39+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-29T10:50:39+00:00"
+   "newest": "2026-09-29T07:00:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-08T08:00:00+09:00"
+   "newest": "2026-10-08T08:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "SK Hynix’s Memory Division Reportedly Picks Banks For Its US IPO Next Year",
+   "url": "https://www.tradingview.com/news/stocktwits:2766b1d9e094b:0-sk-hynix-s-memory-division-reportedly-picks-banks-for-its-us-ipo-next-year/",
+   "published_utc": "2026-10-07T23:20:00+00:00",
+   "title_original": "SK Hynix’s Memory Division Reportedly Picks Banks For Its US IPO Next Year",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8514009fbfcdf03f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea Current Account Surplus Widens",
+   "url": "https://www.tradingview.com/news/te_news:590295:0-south-korea-current-account-surplus-widens/",
+   "published_utc": "2026-10-07T23:06:21+00:00",
+   "title_original": "South Korea Current Account Surplus Widens",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bc338c1abc97effb"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -531,6 +565,24 @@
    "live_wire": true,
    "manual": false,
    "id": "b2c855694123c3ec"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财联社",
+   "title_en": "Bond market closes | The central bank continues to pour funds into a loosening situation, and the 10-year government bond yield still rises slightly",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ibkktejhsaGpuX2pwd2NwLTF6ZXl5RTNLSF9nSUhJbDNlZTNaaUt5VWhCTU81R3g0VHF6b3N3YnFPQUVYSmtoYw?oc=5",
+   "published_utc": "2026-10-07T21:29:55+00:00",
+   "title_original": "债市收盘|央行持续净投放下资金转松，10年期国债收益率仍小幅上行",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cb05b16368dd830c"
   },
   {
    "source_id": "tradingview_live",
@@ -1563,23 +1615,6 @@
    "id": "b5d1ba2b673d304f"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Itcenentec Acquiring Real Estate Worth 74 Billion Won",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45S1YP:0-itcenentec-acquiring-real-estate-worth-74-billion-won/",
-   "published_utc": "2026-10-07T08:06:29+00:00",
-   "title_original": "Itcenentec Acquiring Real Estate Worth 74 Billion Won",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7ba0323acadbf858"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "조선일보",
    "title_en": "Monetary Policy Committee member Jang Yong-seong \"It is difficult to predict the future of the semiconductor industry... Future Fund must be designed carefully.\"",
@@ -2131,24 +2166,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0ad99e1e9736ca88"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
-   "title_en": "Bond market closes | The central bank continues to pour funds into a loosening situation, and the 10-year government bond yield still rises slightly",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ibkktejhsaGpuX2pwd2NwLTF6ZXl5RTNLSF9nSUhJbDNlZTNaaUt5VWhCTU81R3g0VHF6b3N3YnFPQUVYSmtoYw?oc=5",
-   "published_utc": "2026-10-06T23:22:38+00:00",
-   "title_original": "债市收盘|央行持续净投放下资金转松，10年期国债收益率仍小幅上行",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cb05b16368dd830c"
   },
   {
    "source_id": "investing_econ",
@@ -51911,24 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7dfbb7ab3a261381"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Japanese Market Conditions] Yen further appreciates; bonds rise to around 152 yen at one point due to expectations of Bank of Japan rate hike (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrYWpNeXd5SXdScUlsVDJWa0RNcDNEWlVCUHJKdFMzQ2hEVlJ1Vl9feTczeFZjcDFwOVVmTWFfOXdBem1NMVVCaEl3T1dzUmw0RkJ2TS1VQk1kaWx3SDktMGlPYnJxWkFTYV90V01uZnV0TFpVWHkxSDlGak9uZms?oc=5",
-   "published_utc": "2026-09-08T00:42:46+00:00",
-   "title_original": "【日本市況】円が一段高、日銀利上げ観測で一時152円後半－債券上昇（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7924808405f6522f"
   },
   {
    "source_id": "manual_ia",
