@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T05:12:44.830183+00:00
+Última coleta: 2026-10-07T05:22:43.662083+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1290
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [japan] Australian Dollar-Yen May Have Reached Long-Term Ceiling — Market Talk
   - [korea] South Korean Won Tests 2024 High
   - [china] India's central bank's reverse repurchase rate is 3.35% as of October 7, compared with the previous value of 3
+  - [china] As of October 7, the central bank's deposit reserve ratio is 3%, expected to be 3%, and the previous value was
   - [japan] Japan 10Y Yield Eases as BOJ Rate Outlook in Focus
   - [japan] Asian currencies mixed as dollar holds gains, yen weakens near 158
   - [china] Chinese Yuan May Be Undervalued — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Forex Reserves Fall Further in September
   - [korea] Samsung Electronics poised to top $74bn in Q3 OP
   - [japan] Monetary Base and the Bank of Japan's Transactions (Sept.)
-  - [japan] Bank of Japan's Transactions with the Government (Sept.)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T05:12:45+00:00",
+      "published_utc": "2026-10-07T05:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
