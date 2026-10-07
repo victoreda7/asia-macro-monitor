@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-07T00:52:43.274252+00:00",
- "collected_at_utc": "2026-10-07T00:52:43.274252+00:00",
+ "generated_at_utc": "2026-10-07T01:02:45.195846+00:00",
+ "collected_at_utc": "2026-10-07T01:02:45.195846+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1290,
-  "china": 779,
-  "taiwan": 258,
+  "japan": 1289,
+  "china": 778,
+  "taiwan": 260,
   "korea": 673
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 51,
+   "count": 52,
    "error": "",
-   "newest": "2026-10-07T08:50:00+09:00"
+   "newest": "2026-10-07T10:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T09:18:34+00:00"
+   "newest": "2026-10-07T00:52:31+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T00:41:13+00:00"
+   "newest": "2026-10-07T00:46:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-05T07:43:57+00:00"
+   "newest": "2026-10-06T02:59:52+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T21:58:14+00:00"
+   "newest": "2026-10-06T21:49:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T21:58:14+00:00"
+   "newest": "2026-10-06T21:49:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T00:51:00+00:00"
+   "newest": "2026-10-07T01:01:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-06T23:31:08+00:00"
+   "newest": "2026-10-07T00:55:21+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T00:23:36+00:00"
+   "newest": "2026-10-07T00:51:07+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Bank of Japan Accounts (September 30)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260930.htm",
+   "published_utc": "2026-10-07T01:00:00+00:00",
+   "title_original": "Bank of Japan Accounts (September 30)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b71aae053b239416"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Rapidus adds Malaysian chip designers to its semiconductor network",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPakdKWG1CZE1tU3dDZ0xoTmdWUXdXTnBFSVpSdlo5ZXpZTEhtZjlpU3JpazJKd0tpMmx6U1lwMDQ1VXNPS0pScnVZVXR4MmhNakluYjFUcXpxMU9WREYxR0VVSnMxYjFJMWMya1JfN0wycnVVc2lnb2dFNWtCZWV0WG9DaHlnMG9fS3owRA?oc=5",
+   "published_utc": "2026-10-07T00:52:31+00:00",
+   "title_original": "Rapidus adds Malaysian chip designers to its semiconductor network",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22b6ed63e17424ac"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Nan Pao pitches water-based resins as Taiwan textile shipments surge",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVpCOWRTY19kdE1RSmZHaHQxNXNsZ3JpQjU4UHpDUE84c3lubUl2VkpZNXJoYUR1SndLc2hEd1EyalhuVHJsWkJHS3R5QWh3MU9LcTVTbmZ3QVVLLUxWTjBWY0l3MmdMNjR5Q1FqUzcyMS1tVnhyNzdCYWhLd3pfRHRXeC1idUlGdzd6UWpRMXAwdXNtZzc4bC1B?oc=5",
+   "published_utc": "2026-10-07T00:40:34+00:00",
+   "title_original": "Nan Pao pitches water-based resins as Taiwan textile shipments surge",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba44464315a2210e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -51877,58 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5663d9d94873088e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank launches a 500 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IUzJMUXE4cUxGNi1NRy1yUEo2M3haQ1lPMzloMUp4TU0zUVF2Z3kwV2x4SW41MjBZRENQb1FPdGZ2NldXM3piN0dpd3N2eG1lb3lkUDdHNjV2UWdBSHl1cDlRM1BadGh3ZVliZzZWSVRiQQ?oc=5",
-   "published_utc": "2026-09-07T03:16:45+00:00",
-   "title_original": "央行开展5000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6d6c872d69652714"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Yen’s changing fortunes might finally be spooking the bears By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPME14b0IwUVAwU29vb2NQRk1uZDJEVXFtUmZvYW1jRnc2a05IZGZhOFdINC04a1JzblVldWc1QzFnZnNLbjhUcjRxYmd0aHV0cnkwYThXLTlONGdmaGdrd3A3aFZTc01GZ0puM05STnNXbWxCaGxhMG1ZM2JGamhMV3JaMHVHLVN2VFFzZ1NTaDF4TFItVEJNdjVQLUxoQ3pQdjJDN2cwTEFvRjlZQ3U0?oc=5",
-   "published_utc": "2026-09-07T03:05:20+00:00",
-   "title_original": "Yen’s changing fortunes might finally be spooking the bears By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "22acc8cdb49af15d"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Yen’s changing fortunes might finally be spooking the bears",
-   "url": "https://www.investing.com/news/economy-news/yens-changing-fortunes-might-finally-be-spooking-the-bears-4890347",
-   "published_utc": "2026-09-07T03:00:34+00:00",
-   "title_original": "Yen’s changing fortunes might finally be spooking the bears",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5d32aa83a9a1cf67"
   },
   {
    "source_id": "manual_ia",

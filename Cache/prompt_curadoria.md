@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T00:52:43.274252+00:00
+Última coleta: 2026-10-07T01:02:45.195846+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1290
-  🇨🇳 China          779
-  🇹🇼 Taiwan         258
+  🇯🇵 Japão          1289
+  🇨🇳 China          778
+  🇹🇼 Taiwan         260
   🇰🇷 Coreia do Sul  673
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Accounts (September 30)
+  - [taiwan] Rapidus adds Malaysian chip designers to its semiconductor network
+  - [taiwan] Nan Pao pitches water-based resins as Taiwan textile shipments surge
   - [japan] JGB Futures Edge Higher, Tracking Gains in U.S. Treasury Market — Market Talk
   - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers
   - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers By Reuters
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Yen Likely to Rise if Fed Lifts Rates Less Than Expected — Market Talk
   - [korea] NPS cuts Korean tech winners for insurers, defensive stocks as interest rates rise
   - [korea] Numeraire: Upbit opens KRW and USDT spot trading - 06 Oct 2026
-  - [japan] Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028
-  - [japan] Finance Minister Katayama: ``This is not an election campaign'' according to some reports
-  - [china] China turns on the export taps as LME zinc squeeze grinds on: Andy Home
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T00:52:43+00:00",
+      "published_utc": "2026-10-07T01:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
