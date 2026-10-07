@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T15:33:21.335242+00:00
+Última coleta: 2026-10-07T15:42:44.493274+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1272
-  🇨🇳 China          777
+  🇯🇵 Japão          1271
+  🇨🇳 China          778
   🇹🇼 Taiwan         271
   🇰🇷 Coreia do Sul  680
 
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [japan] Yen Rises Against Majors
   - [taiwan] Intel Stock Is Defying the Chip Slump as Musk Explains TSMC Role in AI Project — Barrons.com
   - [china] UK proposes duty on imports of Chinese rutile titanium dioxide
+  - [china] China Warns EU It Has Tools Ready If Trade Tensions Escalate
   - [korea] Samsung Electronics to pay chip division special bonus in spring 2027
   - [japan] Ritsumeikan summarizes the concept of "immediate payment within this fiscal year" regarding consumption tax re
   - [korea] Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Inflation Hits 31-Month High
   - [taiwan] Taiwan's Inflation Hits Over Two-Year High
   - [japan] Asian currencies mixed as dollar firms, yen weakens near 158
-  - [japan] Bank of Japan Tankan Steel business confidence turns positive, reflecting sales price transfer (Nikkan Sangyo 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T15:33:21+00:00",
+      "published_utc": "2026-10-07T15:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
