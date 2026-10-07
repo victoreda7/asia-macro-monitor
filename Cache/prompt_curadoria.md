@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T17:12:46.264708+00:00
+Última coleta: 2026-10-07T17:22:47.444933+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1270
+  🇯🇵 Japão          1269
   🇨🇳 China          778
   🇹🇼 Taiwan         272
-  🇰🇷 Coreia do Sul  680
+  🇰🇷 Coreia do Sul  681
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix Stocks Drop 2.8% Despite AMD's Multi-Generation HBM Plan
   - [taiwan] Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today's Market — Barrons.com
   - [japan] Japan Pushes Local 5G Manufacturing, Digital Infrastructure In India
   - [korea] Samsung’s HBM prices tipped to more than double in 2027
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Musk says we will “build and run” Terafab, TSMC may sublease space
   - [korea] Operating profit of KRW 4 trillion by Q3… LG Electronics' All-Time Performance 'Preview' This Year
   - [korea] Samsung Electronics DS employee earning 80 million won a year to receive 750 million won in performance bonuse
-  - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il met with the head of six econ..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T17:12:46+00:00",
+      "published_utc": "2026-10-07T17:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
