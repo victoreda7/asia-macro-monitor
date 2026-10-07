@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T07:32:45.786620+00:00
+Última coleta: 2026-10-07T07:42:45.873014+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1285
-  🇨🇳 China          775
-  🇹🇼 Taiwan         259
+  🇯🇵 Japão          1284
+  🇨🇳 China          774
+  🇹🇼 Taiwan         261
   🇰🇷 Coreia do Sul  681
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Musk says TSMC will not manage Terafab AI chip complex
+  - [taiwan] Musk says TSMC won't run Terafab AI chip complex
+  - [japan] August economic trend index decreased by 1.9 points from the previous month, the first decrease in 6 months
   - [korea] Samsung Electronics semiconductor manager to receive 750 million won in performance bonuses next year
   - [korea] What if you put 5 million won into a product with a deposit interest rate of 4%?
   - [taiwan] Musk Says Maybe TSMC Subleases Part Of The Terafab If They Want, But Nothing More Than That
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Hwacom shifts semiconductor business to SureWin, targets post-quantum security
   - [korea] Samsung Electronics, SK hynix rebound from early losses
   - [japan] Yen Weakens on Yield Differential
-  - [korea] Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat
-  - [japan] Yomiuri: Mizuho Bank to Offer 2 Trillion Yen in Startup Support
-  - [china] China's forex reserves fall more than expected in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T07:32:46+00:00",
+      "published_utc": "2026-10-07T07:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
