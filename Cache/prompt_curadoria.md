@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T14:42:45.770832+00:00
+Última coleta: 2026-10-07T14:52:51.726888+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1272
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung’s HBM prices tipped to more than double in 2027
   - [korea] Lotte Biologics expands US manufacturing partnership with Alvotech
   - [korea] AMD’s Lisa Su calls chips ‘team sport’ as Samsung, SK hynix ties deepen
   - [taiwan] SpaceX, Intel, TSMC, Webull, Fair Isaac, and More Stocks That Explain Today's Market — Barrons.com
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Tankan Steel business confidence turns positive, reflecting sales price transfer (Nikkan Sangyo 
   - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers By Reuters
   - [japan] Sumitomo Mitsui Trust Group Plans Approximately 350 Billion Yen Japan Infrastructure Fund As Early As In 2028,
-  - [korea] Itcenentec Acquiring Real Estate Worth 74 Billion Won
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T14:42:46+00:00",
+      "published_utc": "2026-10-07T14:52:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
