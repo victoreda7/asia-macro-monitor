@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T01:52:47.027466+00:00",
- "collected_at_utc": "2026-10-07T01:52:47.027466+00:00",
+ "generated_at_utc": "2026-10-07T02:02:46.214528+00:00",
+ "collected_at_utc": "2026-10-07T02:02:46.214528+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1289,
-  "china": 778,
-  "taiwan": 259,
+  "china": 777,
+  "taiwan": 260,
   "korea": 674
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T01:30:09+00:00"
+   "newest": "2026-10-07T01:47:53+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T23:11:55+00:00"
+   "newest": "2026-10-07T01:54:18+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-07T10:48:24+00:00"
+   "newest": "2026-10-07T10:52:15+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T01:51:23+00:00"
+   "newest": "2026-10-07T02:00:35+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T01:26:34+00:00"
+   "newest": "2026-10-07T01:49:20+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-07T10:30:00+09:00"
+   "newest": "2026-10-07T11:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -345,6 +345,24 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "JGB yields track global bond rally; dovish BOJ member signals support for hikes",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45T03E:0-jgb-yields-track-global-bond-rally-dovish-boj-member-signals-support-for-hikes/",
+   "published_utc": "2026-10-07T01:58:57+00:00",
+   "title_original": "JGB yields track global bond rally; dovish BOJ member signals support for hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c9b075aa6330cc98"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "China Golden Week Offers Limited Boost to Consumption — Market Talk",
    "url": "https://www.tradingview.com/news/DJN_DN20261006009123:0-china-golden-week-offers-limited-boost-to-consumption-market-talk/",
@@ -359,6 +377,23 @@
    "live_wire": true,
    "manual": false,
    "id": "71a32755c647e3be"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korean Shares Extend Decline on Chip Outlook",
+   "url": "https://www.tradingview.com/news/te_news:589995:0-south-korean-shares-extend-decline-on-chip-outlook/",
+   "published_utc": "2026-10-07T01:40:40+00:00",
+   "title_original": "South Korean Shares Extend Decline on Chip Outlook",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d47a726e59acd1ae"
   },
   {
    "source_id": "nikkei_asia",
@@ -1407,6 +1442,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f10b163e383367ec"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "World Bank raises Africa's 2026 growth forecast, urges AI investments",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSWxydGRxeGV6eFBoMzd4dGN1aV9rQVV6UTFhLTE0NFozWW10Yk5ndkQ0QkpFX2EwdkJfSzhxTXdZV0p3ZDZXZVNWVC0tLTBvMlR5ZWx4bnVWekpKWVdxNmRqQ2d1VkNOVjdwczY1cWlOZ1JITEtpcnRfc1daMFlGZGNtdnVDVXp4b3l3NW9leWlMUWhuMGZIYXE2Y3Q0VGdTQlFyMktGSkdMZ1VFZUlGSFdKT3k5Szg?oc=5",
+   "published_utc": "2026-10-06T09:05:46+00:00",
+   "title_original": "World Bank raises Africa's 2026 growth forecast, urges AI investments",
+   "region": "taiwan",
+   "topics": [
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a836af08811c0a03"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51871,58 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8b1ed60b87ae867b"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Morning Bid: Diesel the real spoiler for US inflation doves",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVEpMZWxDcWdjVkVYRGdtakVZSGxsWVZfR2N5eFR4UTBRTzZWTmxMZXF3REFZeHBkelU2YXJQb21JZEtGNVNqQld1eTYxV3VpLXFzT1VEVEtQVUNxa3VQTW5mdE1OQ2JocmNrdW80bktWQWxfY2w2SmoxV2dfOWs?oc=5",
-   "published_utc": "2026-09-07T04:34:00+00:00",
-   "title_original": "Morning Bid: Diesel the real spoiler for US inflation doves",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0ec3218d75a183fa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "jingjiribao.cn",
-   "title_en": "The central bank launched a 500 billion yuan buyout reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzUmhGU0R4Tm9XMDhELVVHMnNrTUJHTVdBemJ5U3M2dnlxbllZOWJNUERxbmdNUksySC1mS0VHenVuR0pudnN4aE1JTGdoS2IyRlZjallITm1CWjVOeFdBUTFPbw?oc=5",
-   "published_utc": "2026-09-07T04:10:56+00:00",
-   "title_original": "央行今天开展5000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2bb50ebc82192ce3"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The Bank of Japan's \"policy reaction function\" as shown by Treasury Secretary Bessent (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzcldXdjFkZDZuZ2ZvRDhkOTU3N0ZyUFBuR0wyeDZQTDB2UDNqMkpwbkRDUGJyMlBKRmtRNHIyUjB3c2Nsb0xfQklOUXhGdGs4Q0xCc3hoQnR4dkRpc3hQWjMzS2RyWGozMjhrWVlybHlGQl9SVmFfZ1N1dUMtNjg?oc=5",
-   "published_utc": "2026-09-07T04:00:34+00:00",
-   "title_original": "ベッセント財務長官が映し出す日銀の「政策反応関数」（TBS CROSS DIG with Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "777193c69409a5de"
   },
   {
    "source_id": "manual_ia",
