@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T05:02:46.376138+00:00
+Última coleta: 2026-10-07T05:12:44.830183+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1292
-  🇨🇳 China          775
+  🇯🇵 Japão          1290
+  🇨🇳 China          776
   🇹🇼 Taiwan         257
-  🇰🇷 Coreia do Sul  676
+  🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
 
   - [japan] Consumption Activity Index
   - [japan] Australian Dollar-Yen May Have Reached Long-Term Ceiling — Market Talk
+  - [korea] South Korean Won Tests 2024 High
+  - [china] India's central bank's reverse repurchase rate is 3.35% as of October 7, compared with the previous value of 3
   - [japan] Japan 10Y Yield Eases as BOJ Rate Outlook in Focus
   - [japan] Asian currencies mixed as dollar holds gains, yen weakens near 158
   - [china] Chinese Yuan May Be Undervalued — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics poised to top $74bn in Q3 OP
   - [japan] Monetary Base and the Bank of Japan's Transactions (Sept.)
   - [japan] Bank of Japan's Transactions with the Government (Sept.)
-  - [japan] Market Operations by the Bank of Japan (Sept.)
-  - [japan] Japan considers another extra budget for disaster relief, Yomiuri says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T05:02:46+00:00",
+      "published_utc": "2026-10-07T05:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
