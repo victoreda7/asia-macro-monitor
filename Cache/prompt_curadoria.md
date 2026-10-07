@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T11:22:44.653418+00:00
+Última coleta: 2026-10-07T11:32:47.107586+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1275
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics to pay chip division special bonus in spring 2027
+  - [japan] Ritsumeikan summarizes the concept of "immediate payment within this fiscal year" regarding consumption tax re
   - [korea] Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat
   - [korea] Korea to strengthen food safety ties, support exports to Latin America
   - [japan] BREAKING NEWS: Takaichi vows proper budget distribution amid farm minister controversy
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Musk says TSMC will not manage Terafab AI chip complex
   - [japan] August economic trend index decreased by 1.9 points from the previous month, the first decrease in 6 months
   - [korea] Samsung Electronics semiconductor manager to receive 750 million won in performance bonuses next year
-  - [korea] What if you put 5 million won into a product with a deposit interest rate of 4%?
-  - [taiwan] Musk Says Maybe TSMC Subleases Part Of The Terafab If They Want, But Nothing More Than That
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T11:22:44+00:00",
+      "published_utc": "2026-10-07T11:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
