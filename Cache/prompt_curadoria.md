@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T03:52:44.625974+00:00
+Última coleta: 2026-10-07T04:02:44.652004+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1288
+  🇯🇵 Japão          1289
   🇨🇳 China          775
   🇹🇼 Taiwan         261
-  🇰🇷 Coreia do Sul  676
+  🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [japan] Asian currencies mixed as dollar holds gains, yen weakens near 158
   - [china] Chinese Yuan May Be Undervalued — Market Talk
   - [korea] AMD's Su to Meet with Samsung's Chip Division Chief as Memory Shortage Persists — Bloomberg News
   - [korea] AMD’s Su to meet Samsung’s chip head as memory crunch persists- Bloomberg News
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan manufacturers’ mood hits near 5-year high, service-sector sentiment slumps: Reuters poll
   - [japan] Japan Manufacturers' Confidence Highest Since 2021
   - [japan] Bank of Japan interest rate hike "at a time that doesn't kill the economy," Councilor Sato says in a media int
-  - [japan] BOJ's dovish dissenter signals support for future rate hikes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T03:52:44+00:00",
+      "published_utc": "2026-10-07T04:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

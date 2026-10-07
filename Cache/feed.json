@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T03:52:44.625974+00:00",
- "collected_at_utc": "2026-10-07T03:52:44.625974+00:00",
+ "generated_at_utc": "2026-10-07T04:02:44.652004+00:00",
+ "collected_at_utc": "2026-10-07T04:02:44.652004+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1288,
+  "japan": 1289,
   "china": 775,
   "taiwan": 261,
-  "korea": 676
+  "korea": 675
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T03:31:21+00:00"
+   "newest": "2026-10-07T03:53:01+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-06T21:06:19+00:00"
+   "newest": "2026-10-07T03:51:14+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
    "newest": "2026-10-03T10:14:44+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T16:06:05+00:00"
+   "newest": "2026-10-06T21:49:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T03:52:11+00:00"
+   "newest": "2026-10-07T04:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T02:59:17+00:00"
+   "newest": "2026-10-07T03:42:51+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-07T12:30:00+09:00"
+   "newest": "2026-10-07T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asian currencies mixed as dollar holds gains, yen weakens near 158",
+   "url": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
+   "published_utc": "2026-10-07T03:51:14+00:00",
+   "title_original": "Asian currencies mixed as dollar holds gains, yen weakens near 158",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d2540344d0df7ce0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -10792,10 +10809,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "证券之星",
    "title_en": "The central bank announced that it will carry out a 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qUnZ3TE1PREZhcThNeDU0SklNRjdZZEZHMGpTLXN1VHlNNGk5VUI2Mmk2TmRwSl9GYWg5QlNPQ1RybmVlWU8yYWYyQnNPN3lXZ1p3?oc=5",
-   "published_utc": "2026-09-30T12:45:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VU1labFJuWGl1d1c3N1RKNHVldFBham9wWWRiUzJJUEUteWZKa3N3ZHlhZVJhTFFzR1JsS0gtWE9lVWZJU0VuTDZvWFVTQ0tVbGE4b0RkSEhZTXhrcEdEXw?oc=5",
+   "published_utc": "2026-09-30T12:19:51+00:00",
    "title_original": "央行宣布，将开展1.2万亿元买断式逆回购操作",
    "region": "china",
    "topics": [
@@ -10806,7 +10823,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a47c81ab2ab7d72"
+   "id": "9139b446494aa3c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51902,23 +51919,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8dfa59fbac5813a8"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "경기일보",
-   "title_en": "The Bank of Korea said, “If the base interest rate rises, we are concerned about a series of insolvencies among ‘youngkkeul households.’”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkYk1zSk1wcDFkY1FMSlplYW1sQXdfRWx1S2pmMDBwVHVoOHNIaVptMlNjVmRuSFl0UXlxUFhLQjBsc2thOVlHNmRPb2JtUHU2WUNLV0VTNC1FZ2s?oc=5",
-   "published_utc": "2026-09-07T07:11:46+00:00",
-   "title_original": "한은 \"기준금리 오르면 ‘영끌 가구’ 연쇄 부실도 우려\"",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a215b7d0b0125d6c"
   },
   {
    "source_id": "manual_ia",
