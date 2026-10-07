@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T03:02:45.115317+00:00",
- "collected_at_utc": "2026-10-07T03:02:45.115317+00:00",
+ "generated_at_utc": "2026-10-07T03:12:44.592251+00:00",
+ "collected_at_utc": "2026-10-07T03:12:44.592251+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1290,
-  "china": 774,
-  "taiwan": 261,
-  "korea": 675
+  "china": 775,
+  "taiwan": 262,
+  "korea": 673
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T01:57:24+00:00"
+   "newest": "2026-10-07T02:41:05+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T01:54:18+00:00"
+   "newest": "2026-10-07T03:10:38+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "newest": "2026-10-03T10:14:44+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T03:01:06+00:00"
+   "newest": "2026-10-07T03:08:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T19:33:49+00:00"
+   "newest": "2026-10-07T01:39:47+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T02:46:00+00:00"
+   "newest": "2026-10-07T02:59:17+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-07T01:45:44+00:00"
+   "newest": "2026-10-07T03:10:22+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -346,6 +346,23 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
+   "title_en": "Chinese EV Market Is Shifting to Serve Primarily as Hub for EV Exports — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261006009252:0-chinese-ev-market-is-shifting-to-serve-primarily-as-hub-for-ev-exports-market-talk/",
+   "published_utc": "2026-10-07T03:02:00+00:00",
+   "title_original": "Chinese EV Market Is Shifting to Serve Primarily as Hub for EV Exports — Market Talk",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fa50854cc6c7efb0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
    "title_en": "Samsung Electronics Set to Post Record Third-Quarter Operating Profit — Earnings Preview",
    "url": "https://www.tradingview.com/news/DJN_DN20261006009227:0-samsung-electronics-set-to-post-record-third-quarter-operating-profit-earnings-preview/",
    "published_utc": "2026-10-07T02:46:00+00:00",
@@ -359,6 +376,23 @@
    "live_wire": true,
    "manual": false,
    "id": "2e7bf7d590223530"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Hwacom shifts semiconductor business to SureWin, targets post-quantum security",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMy1pWFQ3Y0pnNzJOU2NUWFRvbWxlTzRmOV90RnloVmVZU3otVVMtek9od0dhN195dUh2XzZ2WmxTYXBYb2VNVXE0U1VlVzR0LWpWUjJ6M2hNN3hSOUtienViYnEwdWZ5QzRLN3phNTl5OWFSbkFOTHBjWTZWb2FCX2pwNzQ4T2pNdE5ISThqVVQ5OWJmYmc?oc=5",
+   "published_utc": "2026-10-07T02:41:05+00:00",
+   "title_original": "Hwacom shifts semiconductor business to SureWin, targets post-quantum security",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "aec5a17307e3282c"
   },
   {
    "source_id": "gn_kr_mk",
@@ -41964,23 +41998,6 @@
    "id": "cf2909b5441babd9"
   },
   {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUXVRdklHeC0wazdnNldDb0RuSC1PbmUtSk1GN0w3WVA2cmhHT2QzQmFYTV92ZWZkc09XLVdqTFhXMTJmV2cwMkp3Mm1kTU15dHFNcGRRaUpkX0V6XzROZVBVeTg5a3Zl?oc=5",
-   "published_utc": "2026-09-11T07:00:00+00:00",
-   "title_original": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "61de1e1093683dc2"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
@@ -41996,6 +42013,23 @@
    "live_wire": false,
    "manual": false,
    "id": "414e908396fee4ec"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUXVRdklHeC0wazdnNldDb0RuSC1PbmUtSk1GN0w3WVA2cmhHT2QzQmFYTV92ZWZkc09XLVdqTFhXMTJmV2cwMkp3Mm1kTU15dHFNcGRRaUpkX0V6XzROZVBVeTg5a3Zl?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "title_original": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "61de1e1093683dc2"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51886,42 +51920,6 @@
    "live_wire": false,
    "manual": false,
    "id": "39bf0290ef9425e2"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Evergood (CEO Kim Han-sang), a Korean agri-food exporter, held export talks with Costco buyers in th..",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDcEJ0SzFrel83bzNzMEcxT3ptcXlYRUR0TDdoZjhXa1M2ZmRSd0c2OVdOSlhmNFdISThSak1PbTZzaHJUSnRhQlVXMVhVVm96bWxR?oc=5",
-   "published_utc": "2026-09-07T06:49:34+00:00",
-   "title_original": "Evergood (CEO Kim Han-sang), a Korean agri-food exporter, held export talks with Costco buyers in th..",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "905c4045daebb5e8"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "제이누리",
-   "title_en": "There are concerns about the ‘mismatch’ between the Lee administration’s expansionary fiscal policy and tight monetary policy.",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1NHNneTZNN1NjQXFWdi1tR3hjbnktYlVkaUVSWjhuWHBJWkNBQl9VbjJQZnZFNGpveWVfODlDWEMxY2NOTFhCbG9LSVUtdUxSNGpaSmQ5TDYxQTJE?oc=5",
-   "published_utc": "2026-09-07T06:39:33+00:00",
-   "title_original": "李 정부 확장 재정과 긴축 통화정책 ‘엇박자’ 우려된다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "eab093b7aeeaf01f"
   },
   {
    "source_id": "manual_ia",

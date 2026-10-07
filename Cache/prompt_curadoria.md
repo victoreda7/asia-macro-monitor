@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T03:02:45.115317+00:00
+Última coleta: 2026-10-07T03:12:44.592251+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1290
-  🇨🇳 China          774
-  🇹🇼 Taiwan         261
-  🇰🇷 Coreia do Sul  675
+  🇨🇳 China          775
+  🇹🇼 Taiwan         262
+  🇰🇷 Coreia do Sul  673
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese EV Market Is Shifting to Serve Primarily as Hub for EV Exports — Market Talk
   - [korea] Samsung Electronics Set to Post Record Third-Quarter Operating Profit — Earnings Preview
+  - [taiwan] Hwacom shifts semiconductor business to SureWin, targets post-quantum security
   - [korea] Samsung Electronics, SK hynix rebound from early losses
   - [japan] Yen Weakens on Yield Differential
   - [korea] Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Is it wrong to say that "Japanese houses are high-performance"? "The weakest function in developed countries" 
   - [korea] NLST Stock Jumps 18% After Micron’s $600M License Deal — Retail Now Awaits SK Hynix
   - [taiwan] TSMC boosts US investments to $265B on AI boom: report
-  - [china] Uncertainty mounts in Singapore after China tightens offshore trust rules
-  - [china] China’s Growth Target Has Become a Trap for Xi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T03:02:45+00:00",
+      "published_utc": "2026-10-07T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
