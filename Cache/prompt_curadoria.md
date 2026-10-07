@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T20:12:45.714135+00:00
+Última coleta: 2026-10-07T20:22:46.677188+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1264
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics to pay chip division special bonus in spring 2027
   - [korea] AMD’s Lisa Su Visits South Korea, Reportedly Discusses AI Collaboration With Samsung, SK Hynix
   - [japan] Australia will buy Japan frigates despite budget cuts: finance chief
   - [japan] Japan bank to connect small businesses with US AI developers
@@ -44,7 +45,6 @@ Total: 3000 manchetes
   - [taiwan] Intel Stock Is Defying the Chip Slump as Musk Explains TSMC Role in AI Project — Barrons.com
   - [china] UK proposes duty on imports of Chinese rutile titanium dioxide
   - [china] China Warns EU It Has Tools Ready If Trade Tensions Escalate
-  - [korea] Samsung Electronics to pay chip division special bonus in spring 2027
   - [japan] Ritsumeikan summarizes the concept of "immediate payment within this fiscal year" regarding consumption tax re
   - [korea] Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat
   - [korea] Korea to strengthen food safety ties, support exports to Latin America
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T20:12:45+00:00",
+      "published_utc": "2026-10-07T20:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
