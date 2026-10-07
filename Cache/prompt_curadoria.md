@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T16:22:46.576094+00:00
+Última coleta: 2026-10-07T16:32:46.810278+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1272
-  🇨🇳 China          777
+  🇯🇵 Japão          1271
+  🇨🇳 China          778
   🇹🇼 Taiwan         271
   🇰🇷 Coreia do Sul  680
 
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [taiwan] SpaceX, Intel, TSMC, Webull, Fair Isaac, and More Stocks That Explain Today's Market — Barrons.com
   - [china] Why China’s export engine may hit a ceiling as trading partners face limits
   - [korea] The number of hacking attempts targeting the Export-Import Bank of Korea this year was nearly eight
+  - [china] EU seeks to cut trade deficit with China in talks with Beijing
   - [japan] Yen Rises After BoJ Sato's Hawkish Remarks
   - [china] Tozed Kangwei To Issue 36.45 Mln Shares, Raising 979.8 Mln Yuan In Shenzhen Listing
   - [taiwan] TSMC earnings could cause another round of consensus upgrades
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics DS employee earning 80 million won a year to receive 750 million won in performance bonuse
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il met with the head of six econ..
   - [taiwan] Taiwan Inflation Hits 31-Month High
-  - [taiwan] Taiwan's Inflation Hits Over Two-Year High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T16:22:46+00:00",
+      "published_utc": "2026-10-07T16:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
