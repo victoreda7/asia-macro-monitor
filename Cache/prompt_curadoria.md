@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T06:22:44.376567+00:00
+Última coleta: 2026-10-07T06:32:46.018025+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1288
@@ -18,7 +18,9 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [taiwan] Micron Union in Taoyuan, Taiwan Gets Strike Clearance
+  - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers
   - [taiwan] Micron's Taoyuan union in Taiwan secures authorisation to strike
+  - [japan] BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction
   - [korea] Samsung’s HBM prices tipped to more than double in 2027
   - [korea] Lotte Biologics expands US manufacturing partnership with Alvotech
   - [korea] AMD's Lisa Su courts Korean AI chipmakers as it takes on Nvidia
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung takes Vietnam up semiconductor value chain with $5bn expansion
   - [japan] Japan MOF To Auction Y2.5T Of 5-Year Govt Bonds Oct 14
   - [japan] Towa Plans Chipmaking Tool Plant For Japanese Supply Chain: CEO, Nikkei Says
-  - [korea] SK Hynix bounces at Fibonacci support, cloud traps price: Live
-  - [japan] Bank of Japan Accounts (September 30)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T06:22:44+00:00",
+      "published_utc": "2026-10-07T06:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
