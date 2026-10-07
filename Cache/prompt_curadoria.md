@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T02:22:45.482771+00:00
+Última coleta: 2026-10-07T02:32:45.335166+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1289
+  🇯🇵 Japão          1290
   🇨🇳 China          775
-  🇹🇼 Taiwan         261
+  🇹🇼 Taiwan         260
   🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat
+  - [japan] Yomiuri: Mizuho Bank to Offer 2 Trillion Yen in Startup Support
+  - [china] China's forex reserves fall more than expected in September
   - [korea] Korea to strengthen food safety ties, support exports to Latin America
   - [japan] Japan futures rise as weather disruptions, port delays tighten supply
   - [korea] Finance minister pledges to create favorable biz environment amid challenges
@@ -42,7 +45,6 @@ Total: 3000 manchetes
   - [japan] Market Operations by the Bank of Japan (Sept.)
   - [japan] Japan considers another extra budget for disaster relief, Yomiuri says
   - [japan] Japan manufacturers’ mood hits near 5-year high, service-sector sentiment slumps: Reuters poll
-  - [korea] Samsung’s Q3 profit seen jumping nine-fold, but chip margins may be flat
   - [japan] Japan Manufacturers' Confidence Highest Since 2021
   - [japan] Bank of Japan interest rate hike "at a time that doesn't kill the economy," Councilor Sato says in a media int
   - [japan] BOJ's dovish dissenter signals support for future rate hikes
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Will the "$30 billion result" won by Trump at the US-China summit help the Republican Party in dire straits? "
   - [japan] Ebara challenges champion AMAT with semiconductor CMP equipment, "three weapons" unleashed by generation AI bo
   - [china] Wabash Welcomes Final U.S. Ruling on Unfairly Traded Chinese Trailer Imports; Canada and Mexico Investigations
-  - [china] Wabash (WNC) Says U.S. Finalizes China Trailer AD/CVD; 232 Tariffs Stack
-  - [taiwan] TSMC and other Taiwan players boost AI spending in US, Southeast Asia
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T02:22:45+00:00",
+      "published_utc": "2026-10-07T02:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
