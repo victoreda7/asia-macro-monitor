@@ -7,25 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T08:12:43.803345+00:00
-Total: 3000 manchetes
+Última coleta: 2026-10-07T08:22:46.462576+00:00
+Total: 2999 manchetes
 
-  🇯🇵 Japão          1281
+  🇯🇵 Japão          1279
   🇨🇳 China          772
-  🇹🇼 Taiwan         262
+  🇹🇼 Taiwan         263
   🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's Inflation Hits Over Two-Year High
   - [japan] Sumitomo Mitsui Trust Group Plans Approximately 350 Billion Yen Japan Infrastructure Fund As Early As In 2028,
   - [korea] Itcenentec Acquiring Real Estate Worth 74 Billion Won
   - [japan] Okura Industrial Co Ltd - Determined Selling Price For Secondary Share Offering At 5,315 Yen
-  - [korea] AMD CEO says continues to explore foundry partnership with Samsung Electronics
-  - [taiwan] Micron’s Taoyuan union in Taiwan secures authorisation to strike
   - [korea] Monetary Policy Committee member Jang Yong-seong "It is difficult to predict the future of the semiconductor i
   - [taiwan] Micron union in Taoyuan, Taiwan gets authorization to go on strike
+  - [taiwan] Micron's Taoyuan union in Taiwan secures authorisation to strike
   - [china] Guangxi Wuzhou's Key Shareholder Plans To Buy Shares For Up To 178.09 Mln Yuan
   - [korea] AMD CEO says she continues to explore foundry partnership with Samsung Electronics
+  - [korea] AMD CEO says continues to explore foundry partnership with Samsung Electronics
   - [taiwan] INTC Stock Jumps Overnight: CEO Says Intel Will Keep Working With Musk's Terafab Amid TSMC Partnership Buzz
   - [korea] Monetary Policy Committee member Jang Yong-seong “Employment must increase to improve domestic demand… Semicon
   - [taiwan] Musk says TSMC will not manage Terafab AI chip complex
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean Won Tests 2024 High
   - [china] India's central bank's reverse repurchase rate is 3.35% as of October 7, compared with the previous value of 3
   - [china] As of October 7, the central bank's deposit reserve ratio is 3%, expected to be 3%, and the previous value was
-  - [japan] Japan 10Y Yield Eases as BOJ Rate Outlook in Focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T08:12:43+00:00",
+      "published_utc": "2026-10-07T08:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

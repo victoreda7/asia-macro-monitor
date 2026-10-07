@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T08:12:43.803345+00:00",
- "collected_at_utc": "2026-10-07T08:12:43.803345+00:00",
+ "generated_at_utc": "2026-10-07T08:22:46.462576+00:00",
+ "collected_at_utc": "2026-10-07T08:22:46.462576+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 3000,
+ "count": 2999,
  "by_region": {
-  "japan": 1281,
+  "japan": 1279,
   "china": 772,
-  "taiwan": 262,
+  "taiwan": 263,
   "korea": 685
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T07:57:25+00:00"
+   "newest": "2026-10-07T08:14:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T07:49:00+00:00"
+   "newest": "2026-10-07T08:12:42+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "error": "",
    "newest": "2026-10-07T04:41:15+00:00"
   },
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T05:13:00+00:00"
+   "newest": "2026-10-07T03:30:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T08:11:32+00:00"
+   "newest": "2026-10-07T08:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,23 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Taiwan's Inflation Hits Over Two-Year High",
+   "url": "https://www.tradingview.com/news/DJN_DN20261007001486:0-taiwan-s-inflation-hits-over-two-year-high/",
+   "published_utc": "2026-10-07T08:21:00+00:00",
+   "title_original": "Taiwan's Inflation Hits Over Two-Year High",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1845a2b998d5b3cc"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Sumitomo Mitsui Trust Group Plans Approximately 350 Billion Yen Japan Infrastructure Fund As Early As In 2028, Nikkei Reports",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45S1OT:0-sumitomo-mitsui-trust-group-plans-approximately-350-billion-yen-japan-infrastructure-fund-as-early-as-in-2028-nikkei-reports/",
@@ -395,40 +412,6 @@
    "id": "e966a5bd9cb61fbc"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
-   "url": "https://www.investing.com/news/stock-market-news/amd-ceo-says-continues-to-explore-foundry-partnership-with-samsung-electronics-4935723",
-   "published_utc": "2026-10-07T07:54:42+00:00",
-   "title_original": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b4a53e0a45ba92f0"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Micron’s Taoyuan union in Taiwan secures authorisation to strike",
-   "url": "https://www.investing.com/news/stock-market-news/microns-taoyuan-union-in-taiwan-secures-authorisation-to-strike-4935768",
-   "published_utc": "2026-10-07T07:54:26+00:00",
-   "title_original": "Micron’s Taoyuan union in Taiwan secures authorisation to strike",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "aeee136932603cbb"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "조선일보",
    "title_en": "Monetary Policy Committee member Jang Yong-seong \"It is difficult to predict the future of the semiconductor industry... Future Fund must be designed carefully.\"",
@@ -467,6 +450,23 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
+   "title_en": "Micron's Taoyuan union in Taiwan secures authorisation to strike",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45T0D9:0-micron-s-taoyuan-union-in-taiwan-secures-authorisation-to-strike/",
+   "published_utc": "2026-10-07T07:51:32+00:00",
+   "title_original": "Micron's Taoyuan union in Taiwan secures authorisation to strike",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1986b486714688e8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
    "title_en": "Guangxi Wuzhou's Key Shareholder Plans To Buy Shares For Up To 178.09 Mln Yuan",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45T0IN:0-guangxi-wuzhou-s-key-shareholder-plans-to-buy-shares-for-up-to-178-09-mln-yuan/",
    "published_utc": "2026-10-07T07:51:21+00:00",
@@ -497,6 +497,23 @@
    "live_wire": true,
    "manual": false,
    "id": "af4b04c15c88dea9"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45T0FM:0-amd-ceo-says-continues-to-explore-foundry-partnership-with-samsung-electronics/",
+   "published_utc": "2026-10-07T07:43:09+00:00",
+   "title_original": "AMD CEO says continues to explore foundry partnership with Samsung Electronics",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a4391948d9de2ae4"
   },
   {
    "source_id": "tradingview_live",
@@ -1186,23 +1203,6 @@
    "id": "5a2c7e00fdb71e32"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Yen Weakens on Yield Differential",
-   "url": "https://www.tradingview.com/news/te_news:590010:0-yen-weakens-on-yield-differential/",
-   "published_utc": "2026-10-07T02:33:04+00:00",
-   "title_original": "Yen Weakens on Yield Differential",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f6123a38f7c1d847"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat",
@@ -1218,40 +1218,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ffa69ad309483ff5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Yomiuri: Mizuho Bank to Offer 2 Trillion Yen in Startup Support",
-   "url": "https://www.tradingview.com/news/DJN_DN20261006009193:0-yomiuri-mizuho-bank-to-offer-2-trillion-yen-in-startup-support/",
-   "published_utc": "2026-10-07T02:26:00+00:00",
-   "title_original": "Yomiuri: Mizuho Bank to Offer 2 Trillion Yen in Startup Support",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "56b16203e59195c4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's forex reserves fall more than expected in September",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TNL7A:0-china-s-forex-reserves-fall-more-than-expected-in-september/",
-   "published_utc": "2026-10-07T02:25:36+00:00",
-   "title_original": "China's forex reserves fall more than expected in September",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c197f0b7569bcc78"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1644,6 +1610,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f20d9d7d67877e99"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "手机网易网",
+   "title_en": "Central Bank: On October 8, it will launch a 1.2 trillion yuan three-month buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrdmMtUWtTOHV1RVk4X3FVOGJOMkh3Nng0Q2lKZ1lWSHgwV0Y2R2tYcncycThZSTVVVWdna3kzZ1dGTy10eFRveUhBUGlxSmQxbUVpMg?oc=5",
+   "published_utc": "2026-10-06T21:50:21+00:00",
+   "title_original": "央行：10月8日将开展12000亿元3个月期买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "34975e099e6ec8a9"
   },
   {
    "source_id": "tradingview_live",
@@ -11260,10 +11244,10 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "강원일보",
+   "source_name": "Daum",
    "title_en": "Household loans continue to increase despite increases in base and loan interest rates",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNFgwSmhySEF2c043UU52SVJESzRyYnFJVjJmbDl4N0VSX3NXUFlHcVdZU0hDY3VjMkNpNzR1eUVEbXpsYWtFMDNQYUNrZWRKOERrX09uTW9mdTQ?oc=5",
-   "published_utc": "2026-09-30T15:00:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JQ01TRFNfTWQyTWM2amxfMUZtNmc5UkFhRDJLaUVUMnoydFpvZ09NekFheDJFNkpzTjN1N2hTcHRYXzhZeUE?oc=5",
+   "published_utc": "2026-09-30T15:01:38+00:00",
    "title_original": "기준금리·대출금리 상승에도 가계대출 증가세 여전",
    "region": "korea",
    "topics": [
@@ -11273,7 +11257,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "609ab971b57aa765"
+   "id": "6b11a7832d2a60e8"
   },
   {
    "source_id": "korea_herald_biz",
@@ -11706,24 +11690,6 @@
    "id": "ea079e31fc559a5f"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
-   "title_en": "Good news came after the market closed. The central bank announced in advance that it would release a net fund of 200 billion yuan after the holiday! At a time when A-share funds are hesitant and hesitant, the central bank has given the market \"reassurance\" in advance.",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nMEs2NGticERTZW4weXdidV9nT1JjQi14RjhpRGJwRG1ZSXBRM1NtQ1Z4T3hsb0RqYXF5Y1lSY1ZFOVNGU1NPd3J4TzFMb1JOam5BMGpR?oc=5",
-   "published_utc": "2026-09-30T10:43:00+00:00",
-   "title_original": "盘后有利好传来，央行提前预告，节后净释放2000亿元资金！在A股各路资金犹豫、避险之际，央行提前给市场吃下“定心丸”",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6f1f5e35095003ce"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Japan economic panel members underline BOJ independence By Reuters",
@@ -11739,6 +11705,24 @@
    "live_wire": false,
    "manual": false,
    "id": "100f0fdf6f56156a"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "Good news came after the market closed. The central bank announced in advance that it would release a net fund of 200 billion yuan after the holiday! At a time when A-share funds are hesitant and hesitant, the central bank has given the market \"reassurance\" in advance.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREdMVnpISlh6azU1M3ljU0tiTXVhUXVhei1EQlBDTFlFUlpoRjJWdXdvS3VMVUlWdkdQdnNGVzRlODg2TExSTTVFVzZPNG5fb3E3Wll1dUt4MWI5YS1ZMHpYRVdWMlFwNl8teWlqdGcxaWhhR1M0VnFuVVNuVXA5eW90NHdUeWVB?oc=5",
+   "published_utc": "2026-09-30T10:38:01+00:00",
+   "title_original": "盘后有利好传来，央行提前预告，节后净释放2000亿元资金！在A股各路资金犹豫、避险之际，央行提前给市场吃下“定心丸”",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "497ff04cdc8f46d9"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -11896,6 +11880,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ef2056659cb64a24"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a period of 3 months.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40MVFwV2J1cC1KUDZMYUN1dkR5SEg5cTUyZ0VxYnkwSHFPRDNnQXZRM2kwT1J0RXIwYTUwaTJZTl9ucnJzU2Z2ZENZWU5JMTQyWWI3am9xaU1CM2x2Q2FVRw?oc=5",
+   "published_utc": "2026-09-30T09:46:52+00:00",
+   "title_original": "央行：10月8日将开展12000亿元买断式逆回购操作 期限为3个月",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8f9c57e34c7669ed"
   },
   {
    "source_id": "gn_kr_bok",
@@ -12125,24 +12127,6 @@
    "live_wire": true,
    "manual": false,
    "id": "884caacfe9b58be6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Central Bank: On October 8, it will launch a 1.2 trillion yuan buyout reverse repurchase operation with a period of 3 months.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zekpNSk9PckNQbnpCaGM0RU02aEFmM25NNHl5M2t2bzJRdzBZZW5ybXczbGpDSXhvWElVYnJyVkJISnhtcXJKRkVCTHlENWpUcGFlSGxJTDBtQUxjYTRLTw?oc=5",
-   "published_utc": "2026-09-30T09:07:53+00:00",
-   "title_original": "央行：10月8日将开展12000亿元买断式逆回购操作 期限为3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8fc05dd4bab89763"
   },
   {
    "source_id": "korea_herald_biz",
