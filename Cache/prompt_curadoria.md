@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T21:12:46.302004+00:00
+Última coleta: 2026-10-07T21:22:49.205674+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1263
-  🇨🇳 China          782
-  🇹🇼 Taiwan         273
+  🇨🇳 China          783
+  🇹🇼 Taiwan         272
   🇰🇷 Coreia do Sul  682
 
 ## O que já está no feed (não repita)
 
+  - [china] Brazil and China distance themselves from the G20 declaration on industrial overproduction
   - [china] Zoom CEO Eric Yuan sells $2.27 million in NASDAQ:ZM stock
   - [japan] NGK President Kobayashi ``Concentrates investment in the semiconductor manufacturing field''...Withdrawal from
   - [taiwan] Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today's Market — Barrons.com
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Takaichi vows proper budget distribution amid farm minister controversy
   - [korea] Finance minister pledges to create favorable biz environment amid challenges
   - [taiwan] Micron Taoyuan union secures strike authorization, weighs 'surprise strike'
-  - [taiwan] SpaceX, TSMC, Constellation Brands, FICO, and More Stocks That Explain Today's Market — Barrons.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T21:12:46+00:00",
+      "published_utc": "2026-10-07T21:22:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
