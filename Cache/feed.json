@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-07T12:12:47.680507+00:00",
- "collected_at_utc": "2026-10-07T12:12:47.680507+00:00",
+ "generated_at_utc": "2026-10-07T12:22:44.748032+00:00",
+ "collected_at_utc": "2026-10-07T12:22:44.748032+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1275,
   "china": 774,
-  "taiwan": 267,
-  "korea": 684
+  "taiwan": 268,
+  "korea": 683
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T04:00:22+00:00"
+   "newest": "2026-10-07T04:00:47+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -67,7 +67,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-07T17:29:57+08:00"
+   "newest": "2026-10-07T19:52:06+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T11:54:39+00:00"
+   "newest": "2026-10-07T12:16:28+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T11:54:39+00:00"
+   "newest": "2026-10-07T12:14:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T11:54:23+00:00"
+   "newest": "2026-10-07T12:09:33+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
    "newest": "2026-10-07T04:41:15+00:00"
   },
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-07T12:00:08+00:00"
+   "newest": "2026-10-07T12:20:05+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T03:00:08+00:00"
+   "newest": "2026-10-07T10:00:11+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T12:02:00+00:00"
+   "newest": "2026-10-07T12:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T08:56:58+00:00"
+   "newest": "2026-10-07T08:49:29+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -462,6 +462,23 @@
    "live_wire": false,
    "manual": false,
    "id": "204f92a90c70d345"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Micron Taoyuan union secures strike authorization, weighs 'surprise strike'",
+   "url": "https://focustaiwan.tw/business/202610070021",
+   "published_utc": "2026-10-07T10:42:00+00:00",
+   "title_original": "Micron Taoyuan union secures strike authorization, weighs 'surprise strike'",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bae322e451b8233b"
   },
   {
    "source_id": "tradingview_live",
@@ -11779,6 +11796,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "Sohu",
+   "title_en": "The central bank announced that it will carry out a 1.2 trillion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qUnZ3TE1PREZhcThNeDU0SklNRjdZZEZHMGpTLXN1VHlNNGk5VUI2Mmk2TmRwSl9GYWg5QlNPQ1RybmVlWU8yYWYyQnNPN3lXZ1p3?oc=5",
+   "published_utc": "2026-09-30T12:45:00+00:00",
+   "title_original": "央行宣布，将开展1.2万亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1a47c81ab2ab7d72"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "川观新闻",
    "title_en": "Central Bank: In order to maintain sufficient liquidity in the banking system, a 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October 8 for a period of 3 months.",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZSUFkN1d4SERucm8wVzFRTEVWTkF3aXpCOGpqMzZ2bGxzV0wycS1Mc01ILUlidk9DdGxZYXJWR0JmYkFUd3owTTktSzFSUQ?oc=5",
@@ -11794,24 +11829,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3d56f5dd3e2b9031"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank announced that it will carry out a 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VU1labFJuWGl1d1c3N1RKNHVldFBham9wWWRiUzJJUEUteWZKa3N3ZHlhZVJhTFFzR1JsS0gtWE9lVWZJU0VuTDZvWFVTQ0tVbGE4b0RkSEhZTXhrcEdEXw?oc=5",
-   "published_utc": "2026-09-30T12:19:51+00:00",
-   "title_original": "央行宣布，将开展1.2万亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9139b446494aa3c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51910,23 +51927,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4b8a3edff1e70054"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
-   "title_en": "S. Korea's economy grows 0.6 pct in Q2, matching initial estimate: BOK",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YSG1BTWJkTE1LSVlVQktaWTZCcjFuVkRwRmRqcDhVSmxERWE0Qm1fRHRvOFpaN0RKb2xraHhsNG1ER2JueHAzTWszQlhEWVJaemdIYmo4amkyZw?oc=5",
-   "published_utc": "2026-09-07T23:00:05+00:00",
-   "title_original": "S. Korea's economy grows 0.6 pct in Q2, matching initial estimate: BOK",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f99689ae8481ddd7"
   },
   {
    "source_id": "manual_ia",

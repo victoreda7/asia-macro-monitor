@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T12:12:47.680507+00:00
+Última coleta: 2026-10-07T12:22:44.748032+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1275
   🇨🇳 China          774
-  🇹🇼 Taiwan         267
-  🇰🇷 Coreia do Sul  684
+  🇹🇼 Taiwan         268
+  🇰🇷 Coreia do Sul  683
 
 ## O que já está no feed (não repita)
 
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Takaichi vows proper budget distribution amid farm minister controversy
   - [korea] Finance minister pledges to create favorable biz environment amid challenges
   - [taiwan] Micron Tech chipmaker union in Taiwan gets OK to strike
+  - [taiwan] Micron Taoyuan union secures strike authorization, weighs 'surprise strike'
   - [taiwan] SpaceX, TSMC, Constellation Brands, FICO, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] Intel Stock Rebounds as Musk Explains Terafab AI Chip Project and TSMC's Role — Barrons.com
   - [taiwan] TSMC supplier Gudeng launches operations at Arizona plant
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Monetary Policy Committee member Jang Yong-seong “Employment must increase to improve domestic demand… Semicon
   - [taiwan] Musk says TSMC will not manage Terafab AI chip complex
   - [japan] August economic trend index decreased by 1.9 points from the previous month, the first decrease in 6 months
-  - [korea] Samsung Electronics semiconductor manager to receive 750 million won in performance bonuses next year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T12:12:47+00:00",
+      "published_utc": "2026-10-07T12:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
