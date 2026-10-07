@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T20:32:47.516445+00:00
+Última coleta: 2026-10-07T20:42:49.125733+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1264
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Representative question from today in the House of Councilors, debate over consumption tax cut, investigation 
+  - [japan] <Our original business is pumps> Ebara's entry into semiconductor equipment was a "historical necessity"; the 
   - [korea] Samsung Electronics to pay chip division special bonus in spring 2027
   - [korea] AMD’s Lisa Su Visits South Korea, Reportedly Discusses AI Collaboration With Samsung, SK Hynix
   - [japan] Australia will buy Japan frigates despite budget cuts: finance chief
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] SpaceX, TSMC, Constellation Brands, FICO, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] Intel Stock Rebounds as Musk Explains Terafab AI Chip Project and TSMC's Role — Barrons.com
   - [taiwan] TSMC supplier Gudeng launches operations at Arizona plant
-  - [japan] Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road bud
-  - [korea] AMD CEO says he continues to explore foundry partnership with Samsung Electronics
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T20:32:47+00:00",
+      "published_utc": "2026-10-07T20:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
