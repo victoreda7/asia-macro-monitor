@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T04:52:45.098434+00:00
+Última coleta: 2026-10-07T05:02:46.376138+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1291
+  🇯🇵 Japão          1292
   🇨🇳 China          775
-  🇹🇼 Taiwan         258
+  🇹🇼 Taiwan         257
   🇰🇷 Coreia do Sul  676
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption Activity Index
+  - [japan] Australian Dollar-Yen May Have Reached Long-Term Ceiling — Market Talk
   - [japan] Japan 10Y Yield Eases as BOJ Rate Outlook in Focus
   - [japan] Asian currencies mixed as dollar holds gains, yen weakens near 158
   - [china] Chinese Yuan May Be Undervalued — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan's Transactions with the Government (Sept.)
   - [japan] Market Operations by the Bank of Japan (Sept.)
   - [japan] Japan considers another extra budget for disaster relief, Yomiuri says
-  - [japan] Japan manufacturers’ mood hits near 5-year high, service-sector sentiment slumps: Reuters poll
-  - [japan] Japan Manufacturers' Confidence Highest Since 2021
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T04:52:45+00:00",
+      "published_utc": "2026-10-07T05:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
