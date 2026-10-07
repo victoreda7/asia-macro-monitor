@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T10:32:44.671250+00:00
+Última coleta: 2026-10-07T10:42:51.869817+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1276
+  🇯🇵 Japão          1275
   🇨🇳 China          774
-  🇹🇼 Taiwan         265
+  🇹🇼 Taiwan         266
   🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
   - [taiwan] SpaceX, TSMC, Constellation Brands, FICO, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] Intel Stock Rebounds as Musk Explains Terafab AI Chip Project and TSMC's Role — Barrons.com
+  - [taiwan] TSMC supplier Gudeng launches operations at Arizona plant
   - [japan] Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road bud
   - [korea] AMD CEO says he continues to explore foundry partnership with Samsung Electronics
   - [taiwan] Musk says TSMC won’t run Terafab AI chip complex
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Ckd Corp - To Buy Back Up To 1.94% Of Own Shares Worth 5 Billion Yen
   - [japan] Komei's new representative Okamoto has dismissed the consumption tax cut as "inefficient," but rumors of a "re
   - [china] Table: King Yuan Electronics Sep Rev NT$4.07B Vs NT$3.27B
-  - [korea] Samsung’s Q3 profit seen hitting 105T won on AI-driven chip demand - report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T10:32:44+00:00",
+      "published_utc": "2026-10-07T10:42:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
