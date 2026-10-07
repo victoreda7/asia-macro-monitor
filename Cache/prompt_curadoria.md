@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T02:02:46.214528+00:00
+Última coleta: 2026-10-07T02:12:45.582023+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1289
+  🇯🇵 Japão          1288
   🇨🇳 China          777
-  🇹🇼 Taiwan         260
+  🇹🇼 Taiwan         261
   🇰🇷 Coreia do Sul  674
 
 ## O que já está no feed (não repita)
 
+  - [korea] Finance minister pledges to create favorable biz environment amid challenges
   - [japan] JGB yields track global bond rally; dovish BOJ member signals support for hikes
+  - [taiwan] AI supercycle, pricing, and Terafab top the agenda ahead of TSMC's earnings call
   - [china] China Golden Week Offers Limited Boost to Consumption — Market Talk
   - [korea] South Korean Shares Extend Decline on Chip Outlook
   - [korea] Samsung takes Vietnam up semiconductor value chain with $5bn expansion
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Towa plans chipmaking tool plant for Japanese supply chain: CEO
   - [taiwan] Intel Stock Slips as TSMC Talks Complicate TeraFab's 14A Bet
   - [korea] Samsung Biologics union seeks bargaining with Samsung Electronics
-  - [taiwan] TSMC Stocks Drop as Musk Confirms Terafab Talks Without a Deal
-  - [korea] South Korea exports eased Russia fuel crisis caused by drone strikes, Ukraine says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T02:02:46+00:00",
+      "published_utc": "2026-10-07T02:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
