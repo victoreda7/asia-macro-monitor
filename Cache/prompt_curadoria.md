@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T19:32:45.731925+00:00
+Última coleta: 2026-10-07T19:42:47.468095+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1266
+  🇯🇵 Japão          1265
   🇨🇳 China          781
-  🇹🇼 Taiwan         272
+  🇹🇼 Taiwan         273
   🇰🇷 Coreia do Sul  681
 
 ## O que já está no feed (não repita)
 
+  - [japan] Australia will buy Japan frigates despite budget cuts: finance chief
   - [japan] Japan bank to connect small businesses with US AI developers
+  - [taiwan] Taiwan's US envoy says ties robust after Trump-Xi summit
   - [korea] SK Hynix Stocks Drop 2.8% Despite AMD's Multi-Generation HBM Plan
   - [china] The Fed's overnight reverse repurchase agreement (RRP) usage on Wednesday was $2.338 billion
   - [china] China rejects EU request for voluntary hybrid car export curbs, FT reports
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] AMD CEO says he continues to explore foundry partnership with Samsung Electronics
   - [taiwan] Musk says TSMC won’t run Terafab AI chip complex
   - [china] Visionox Technology To Raise Up To 3 Bln Yuan In Private Share Placement
-  - [japan] Ruling party approves consumption tax reduction bill; government to submit to parliament as early as this week
-  - [japan] Japanese Yen Faces Hit From Potential Supplementary Budget — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T19:32:45+00:00",
+      "published_utc": "2026-10-07T19:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
