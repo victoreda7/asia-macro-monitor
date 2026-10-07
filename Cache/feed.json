@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-07T01:22:43.361395+00:00",
- "collected_at_utc": "2026-10-07T01:22:43.361395+00:00",
+ "generated_at_utc": "2026-10-07T01:32:47.058084+00:00",
+ "collected_at_utc": "2026-10-07T01:32:47.058084+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1290,
   "china": 777,
-  "taiwan": 260,
-  "korea": 673
+  "taiwan": 259,
+  "korea": 674
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 26,
    "error": "",
-   "newest": "2026-10-02T13:09:00+00:00"
+   "newest": "2026-10-03T10:14:44+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T01:21:00+00:00"
+   "newest": "2026-10-07T01:30:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-07T00:55:21+00:00"
+   "newest": "2026-10-07T01:23:46+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-07T10:00:00+09:00"
+   "newest": "2026-10-07T10:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Samsung takes Vietnam up semiconductor value chain with $5bn expansion",
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-takes-vietnam-up-semiconductor-value-chain-with-5bn-expansion",
+   "published_utc": "2026-10-07T01:32:46.466071+00:00",
+   "title_original": "Samsung takes Vietnam up semiconductor value chain with $5bn expansion",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7776a5f2efce7c80"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan MOF To Auction Y2.5T Of 5-Year Govt Bonds Oct 14",
+   "url": "https://www.tradingview.com/news/DJN_DN20261006009106:0-japan-mof-to-auction-y2-5t-of-5-year-govt-bonds-oct-14/",
+   "published_utc": "2026-10-07T01:30:00+00:00",
+   "title_original": "Japan MOF To Auction Y2.5T Of 5-Year Govt Bonds Oct 14",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b15f2d40013db582"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -11992,6 +12026,24 @@
    "id": "ea90af80873acd33"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "资鲸",
+   "title_en": "The central bank launches 833.5 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXRQZ3hYVmI0enNtcDRBTzBhMkh3ZFR2bENoU1p6VGRfQnZ5SFVJa09xOXQ1QXh5S19JTDRFWk0yOUMtS3U3RmdfY1dmYnBuclYyODk1TGItSDdsdmdFb2xONURkOS1udHpqSkpMdnBxTUNYeE5mZDJuTFgwY0xodkExOU9LLVBRM0EzNkpwbmtPZw?oc=5",
+   "published_utc": "2026-09-30T01:36:55+00:00",
+   "title_original": "央行开展8335亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0622f371d0a4a90d"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Grand Pacific Petrochemical, Air Water join forces to expand Taiwan semiconductor materials business",
@@ -12007,24 +12059,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e5f206891488b049"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launches 833.5 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wYzRPMHpfY01uRjV5NnI5Y3JlNTNUZ3prN19hbWZLOE1sM0NwM0NQS04tOG1fSXR0ZHBCMEJReHVBY1NMMl9EeXkzelVPNk9tNlRfUzVKR21UcXVkRHJWSTVsNTVGUQ?oc=5",
-   "published_utc": "2026-09-30T01:27:22+00:00",
-   "title_original": "央行开展8335亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "73391ef615d39032"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51891,41 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a1465ee47638d1b3"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The Bank of Japan's financial and economic outlook is \"at a standstill due to the effects of the Kumamoto earthquake\", and its judgment has been lowered for the first time in 1 year and 5 months (KKT Kumamoto Kenmin TV)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xcEEtN1NHbXpBUkJaNV9pcDBDV2JaRFVJLXRkY1ZmbTE0N3Jyb3dfd3V1NUxPZE91aXY0M2hoRVQ4UDFWSHRwc0VESVJxOHJONVV6N2hwR0tGc0hmbEdpN2JOVnBjSFRib3NKZGg0SEZGQ0pRNXkyRl81ZTA3UGs?oc=5",
-   "published_utc": "2026-09-07T03:40:00+00:00",
-   "title_original": "日銀の金融経済概観｢熊本地震の影響で足踏み状態｣1年5か月ぶりに判断引き下げ（ＫＫＴ熊本県民テレビ）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d38e587b2351cf15"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Exclusive: Taipower's new green power sandbox could ease TSMC's surplus electricity problem",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOekZqWVdOdnQxQVQtYVN0VEZ3SXp0MkRKaHRmY3lzaUhqdmZBOFlOWDFkangwYmYxaTdsbnQwT3IwZ21mTU05enBpalZzeWlJMGEwZGdyTExSWjcxMGtpRUtrQzFTRF83Y2cxOVYxY3dVWDR2QWhQa2hlUWxXMEt1Y09SSlBiRGIyWFBheDNVVklmSG13WUFiUHk5cU1OckNyWUJ0WUFZSlRsM2ZCR1RNbXh5Y0w4NWZSejkzUllVdUk?oc=5",
-   "published_utc": "2026-09-07T03:35:05+00:00",
-   "title_original": "Exclusive: Taipower's new green power sandbox could ease TSMC's surplus electricity problem",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c760dbff1ce75b89"
   },
   {
    "source_id": "manual_ia",
