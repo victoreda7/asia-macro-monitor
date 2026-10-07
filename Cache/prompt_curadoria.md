@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T12:32:45.020298+00:00
+Última coleta: 2026-10-07T12:42:44.000789+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1274
   🇨🇳 China          774
-  🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  683
+  🇹🇼 Taiwan         270
+  🇰🇷 Coreia do Sul  682
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC earnings could cause another round of consensus upgrades
+  - [japan] Yen Rises Against Majors
   - [taiwan] Intel Stock Is Defying the Chip Slump as Musk Explains TSMC Role in AI Project — Barrons.com
   - [korea] Samsung Electronics to pay chip division special bonus in spring 2027
   - [japan] Ritsumeikan summarizes the concept of "immediate payment within this fiscal year" regarding consumption tax re
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Guangxi Wuzhou's Key Shareholder Plans To Buy Shares For Up To 178.09 Mln Yuan
   - [korea] AMD CEO says she continues to explore foundry partnership with Samsung Electronics
   - [korea] AMD CEO says continues to explore foundry partnership with Samsung Electronics
-  - [taiwan] INTC Stock Jumps Overnight: CEO Says Intel Will Keep Working With Musk's Terafab Amid TSMC Partnership Buzz
-  - [korea] Monetary Policy Committee member Jang Yong-seong “Employment must increase to improve domestic demand… Semicon
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T12:32:45+00:00",
+      "published_utc": "2026-10-07T12:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
