@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T07:02:47.100917+00:00
+Última coleta: 2026-10-07T07:12:46.537251+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1288
-  🇨🇳 China          775
+  🇯🇵 Japão          1287
+  🇨🇳 China          776
   🇹🇼 Taiwan         258
   🇰🇷 Coreia do Sul  679
 
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [japan] BOJ Has Favorable Window to Hike Rates Through Next Spring — Market Talk
   - [japan] Ckd Corp - To Buy Back Up To 1.94% Of Own Shares Worth 5 Billion Yen
+  - [japan] Komei's new representative Okamoto has dismissed the consumption tax cut as "inefficient," but rumors of a "re
   - [china] Table: King Yuan Electronics Sep Rev NT$4.07B Vs NT$3.27B
   - [korea] Samsung’s Q3 profit seen hitting 105T won on AI-driven chip demand - report
   - [japan] Asia stocks slip as rising oil, yields weigh; RBI hikes rates as expected
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan futures rise as weather disruptions, port delays tighten supply
   - [korea] Finance minister pledges to create favorable biz environment amid challenges
   - [japan] Will the Bank of Japan's decision to reach 2% assist the Takaichi administration's move away from its reflatio
-  - [japan] JGB yields track global bond rally; dovish BOJ member signals support for hikes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T07:02:47+00:00",
+      "published_utc": "2026-10-07T07:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
