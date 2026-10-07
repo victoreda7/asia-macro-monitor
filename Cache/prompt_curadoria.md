@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T11:12:44.705467+00:00
+Última coleta: 2026-10-07T11:22:44.653418+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1275
-  🇨🇳 China          774
-  🇹🇼 Taiwan         266
+  🇨🇳 China          773
+  🇹🇼 Taiwan         267
   🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat
   - [korea] Korea to strengthen food safety ties, support exports to Latin America
+  - [japan] BREAKING NEWS: Takaichi vows proper budget distribution amid farm minister controversy
   - [korea] Finance minister pledges to create favorable biz environment amid challenges
+  - [taiwan] Micron Tech chipmaker union in Taiwan gets OK to strike
   - [taiwan] SpaceX, TSMC, Constellation Brands, FICO, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] Intel Stock Rebounds as Musk Explains Terafab AI Chip Project and TSMC's Role — Barrons.com
   - [taiwan] TSMC supplier Gudeng launches operations at Arizona plant
@@ -42,7 +45,7 @@ Total: 3000 manchetes
   - [korea] Itcenentec Acquiring Real Estate Worth 74 Billion Won
   - [japan] Okura Industrial Co Ltd - Determined Selling Price For Secondary Share Offering At 5,315 Yen
   - [korea] Monetary Policy Committee member Jang Yong-seong "It is difficult to predict the future of the semiconductor i
-  - [taiwan] Micron union in Taoyuan, Taiwan gets authorization to go on strike
+  - [taiwan] Workers' union at chipmaker Micron Tech in Taiwan receives authorization to go on strike
   - [taiwan] Micron's Taoyuan union in Taiwan secures authorisation to strike
   - [china] Guangxi Wuzhou's Key Shareholder Plans To Buy Shares For Up To 178.09 Mln Yuan
   - [korea] AMD CEO says she continues to explore foundry partnership with Samsung Electronics
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics semiconductor manager to receive 750 million won in performance bonuses next year
   - [korea] What if you put 5 million won into a product with a deposit interest rate of 4%?
   - [taiwan] Musk Says Maybe TSMC Subleases Part Of The Terafab If They Want, But Nothing More Than That
-  - [japan] Japan futures rise as weather disruptions, port delays tighten supply
-  - [japan] BOJ Has Favorable Window to Hike Rates Through Next Spring — Market Talk
-  - [japan] Ckd Corp - To Buy Back Up To 1.94% Of Own Shares Worth 5 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T11:12:44+00:00",
+      "published_utc": "2026-10-07T11:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
