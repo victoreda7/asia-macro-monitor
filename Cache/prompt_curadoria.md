@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T07:22:45.231500+00:00
+Última coleta: 2026-10-07T07:32:45.786620+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1287
+  🇯🇵 Japão          1285
   🇨🇳 China          775
   🇹🇼 Taiwan         259
-  🇰🇷 Coreia do Sul  679
+  🇰🇷 Coreia do Sul  681
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics semiconductor manager to receive 750 million won in performance bonuses next year
+  - [korea] What if you put 5 million won into a product with a deposit interest rate of 4%?
   - [taiwan] Musk Says Maybe TSMC Subleases Part Of The Terafab If They Want, But Nothing More Than That
   - [japan] Japan futures rise as weather disruptions, port delays tighten supply
   - [japan] BOJ Has Favorable Window to Hike Rates Through Next Spring — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat
   - [japan] Yomiuri: Mizuho Bank to Offer 2 Trillion Yen in Startup Support
   - [china] China's forex reserves fall more than expected in September
-  - [korea] Korea to strengthen food safety ties, support exports to Latin America
-  - [korea] Finance minister pledges to create favorable biz environment amid challenges
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T07:22:45+00:00",
+      "published_utc": "2026-10-07T07:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
