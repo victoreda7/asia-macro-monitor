@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T06:32:46.018025+00:00
+Última coleta: 2026-10-07T06:42:49.344963+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1288
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan’s Rapidus faces uphill battle to fill its $15B chip factory
   - [taiwan] Micron Union in Taoyuan, Taiwan Gets Strike Clearance
   - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers
   - [taiwan] Micron's Taoyuan union in Taiwan secures authorisation to strike
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean Shares Extend Decline on Chip Outlook
   - [korea] Samsung takes Vietnam up semiconductor value chain with $5bn expansion
   - [japan] Japan MOF To Auction Y2.5T Of 5-Year Govt Bonds Oct 14
-  - [japan] Towa Plans Chipmaking Tool Plant For Japanese Supply Chain: CEO, Nikkei Says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T06:32:46+00:00",
+      "published_utc": "2026-10-07T06:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
