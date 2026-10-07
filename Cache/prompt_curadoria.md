@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T14:12:46.554747+00:00
+Última coleta: 2026-10-07T14:22:46.164404+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1273
+  🇯🇵 Japão          1272
   🇨🇳 China          777
-  🇹🇼 Taiwan         269
+  🇹🇼 Taiwan         270
   🇰🇷 Coreia do Sul  681
 
 ## O que já está no feed (não repita)
 
+  - [korea] AMD’s Lisa Su calls chips ‘team sport’ as Samsung, SK hynix ties deepen
+  - [taiwan] SpaceX, Intel, TSMC, Webull, Fair Isaac, and More Stocks That Explain Today's Market — Barrons.com
   - [china] Why China’s export engine may hit a ceiling as trading partners face limits
   - [korea] The number of hacking attempts targeting the Export-Import Bank of Korea this year was nearly eight
   - [japan] Yen Rises After BoJ Sato's Hawkish Remarks
@@ -39,7 +41,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road bud
   - [korea] AMD CEO says he continues to explore foundry partnership with Samsung Electronics
   - [taiwan] Musk says TSMC won’t run Terafab AI chip complex
-  - [korea] AMD’s Lisa Su calls chips ‘team sport’ as Samsung, SK hynix ties deepen
   - [china] Visionox Technology To Raise Up To 3 Bln Yuan In Private Share Placement
   - [japan] Ruling party approves consumption tax reduction bill; government to submit to parliament as early as this week
   - [japan] Japanese Yen Faces Hit From Potential Supplementary Budget — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Sumitomo Mitsui Trust Group Plans Approximately 350 Billion Yen Japan Infrastructure Fund As Early As In 2028,
   - [korea] Itcenentec Acquiring Real Estate Worth 74 Billion Won
   - [japan] Okura Industrial Co Ltd - Determined Selling Price For Secondary Share Offering At 5,315 Yen
-  - [korea] Monetary Policy Committee member Jang Yong-seong "It is difficult to predict the future of the semiconductor i
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T14:12:46+00:00",
+      "published_utc": "2026-10-07T14:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
