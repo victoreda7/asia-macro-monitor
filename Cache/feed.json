@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-07T22:52:45.715746+00:00",
- "collected_at_utc": "2026-10-07T22:52:45.715746+00:00",
+ "generated_at_utc": "2026-10-07T23:02:45.550992+00:00",
+ "collected_at_utc": "2026-10-07T23:02:45.550992+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1265,
+  "japan": 1264,
   "china": 781,
-  "taiwan": 271,
-  "korea": 683
+  "taiwan": 269,
+  "korea": 686
  },
  "elapsed_s": 29.4,
  "sources": [
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-07T20:29:49+00:00"
+   "newest": "2026-10-08T07:56:16+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
-   "newest": "2026-10-07T21:29:55+00:00"
+   "newest": "2026-10-07T17:17:57+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T22:51:19+00:00"
+   "newest": "2026-10-07T23:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T21:48:43+00:00"
+   "newest": "2026-10-07T22:16:50+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Samsung Electronics First South Korean Company to Top KRW100T in Quarterly Operating Profit",
+   "url": "https://www.tradingview.com/news/DJN_DN20261007008455_20261007008473:0-samsung-electronics-first-south-korean-company-to-top-krw100t-in-quarterly-operating-profit/",
+   "published_utc": "2026-10-07T22:58:00+00:00",
+   "title_original": "Samsung Electronics First South Korean Company to Top KRW100T in Quarterly Operating Profit",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b43e61bc436a1c6a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Samsung Electronics 3Q Oper Pft Estimate Largely Met FactSet-Compiled Consensus",
+   "url": "https://www.tradingview.com/news/DJN_DN20261007008455_20261007008464:0-samsung-electronics-3q-oper-pft-estimate-largely-met-factset-compiled-consensus/",
+   "published_utc": "2026-10-07T22:53:00+00:00",
+   "title_original": "Samsung Electronics 3Q Oper Pft Estimate Largely Met FactSet-Compiled Consensus",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a577dc0795db0bfe"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Samsung Electronics Sees 3Q Oper Pft KRW107.400T Vs. KRW12.170T >005930.SE",
+   "url": "https://www.tradingview.com/news/DJN_DN20261007008455_20261007008460:0-samsung-electronics-sees-3q-oper-pft-krw107-400t-vs-krw12-170t-005930-se/",
+   "published_utc": "2026-10-07T22:52:00+00:00",
+   "title_original": "Samsung Electronics Sees 3Q Oper Pft KRW107.400T Vs. KRW12.170T >005930.SE",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "81a6b7e12160f004"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -463,24 +514,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b2c855694123c3ec"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
-   "title_en": "Bond market closes | The central bank continues to pour funds into a loosening situation, and the 10-year government bond yield still rises slightly",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ibkktejhsaGpuX2pwd2NwLTF6ZXl5RTNLSF9nSUhJbDNlZTNaaUt5VWhCTU81R3g0VHF6b3N3YnFPQUVYSmtoYw?oc=5",
-   "published_utc": "2026-10-07T21:29:55+00:00",
-   "title_original": "债市收盘|央行持续净投放下资金转松，10年期国债收益率仍小幅上行",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cb05b16368dd830c"
   },
   {
    "source_id": "tradingview_live",
@@ -1219,8 +1252,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -1234,7 +1267,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -1530,23 +1563,6 @@
    "id": "7ba0323acadbf858"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Okura Industrial Co Ltd - Determined Selling Price For Secondary Share Offering At 5,315 Yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45S1OQ:0-okura-industrial-co-ltd-determined-selling-price-for-secondary-share-offering-at-5-315-yen/",
-   "published_utc": "2026-10-07T08:01:38+00:00",
-   "title_original": "Okura Industrial Co Ltd - Determined Selling Price For Secondary Share Offering At 5,315 Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e966a5bd9cb61fbc"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "조선일보",
    "title_en": "Monetary Policy Committee member Jang Yong-seong \"It is difficult to predict the future of the semiconductor industry... Future Fund must be designed carefully.\"",
@@ -1564,40 +1580,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a3d02999a3434684"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Workers' union at chipmaker Micron Tech in Taiwan receives authorization to go on strike",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45T078:0/",
-   "published_utc": "2026-10-07T07:51:58+00:00",
-   "title_original": "Sindicato dos trabalhadores da fabricante de chips Micron Tech, em Taiwan, recebe autorização para entrar em greve",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "de41170e3cea0620"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Micron's Taoyuan union in Taiwan secures authorisation to strike",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45T0D9:0-micron-s-taoyuan-union-in-taiwan-secures-authorisation-to-strike/",
-   "published_utc": "2026-10-07T07:51:32+00:00",
-   "title_original": "Micron's Taoyuan union in Taiwan secures authorisation to strike",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1986b486714688e8"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2132,6 +2114,24 @@
    "live_wire": false,
    "manual": false,
    "id": "0ad99e1e9736ca88"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财联社",
+   "title_en": "Bond market closes | The central bank continues to pour funds into a loosening situation, and the 10-year government bond yield still rises slightly",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ibkktejhsaGpuX2pwd2NwLTF6ZXl5RTNLSF9nSUhJbDNlZTNaaUt5VWhCTU81R3g0VHF6b3N3YnFPQUVYSmtoYw?oc=5",
+   "published_utc": "2026-10-06T23:22:38+00:00",
+   "title_original": "债市收盘|央行持续净投放下资金转松，10年期国债收益率仍小幅上行",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cb05b16368dd830c"
   },
   {
    "source_id": "investing_econ",
