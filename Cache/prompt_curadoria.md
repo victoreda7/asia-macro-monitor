@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-06T23:52:45.652087+00:00
+Última coleta: 2026-10-07T00:02:45.169417+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1288
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's $15 billion Rapidus chip bet hinges on winning customers
+  - [korea] Samsung Electronics poised to top $74bn in Q3 OP
   - [japan] Monetary Base and the Bank of Japan's Transactions (Sept.)
   - [japan] Bank of Japan's Transactions with the Government (Sept.)
   - [japan] Market Operations by the Bank of Japan (Sept.)
@@ -24,7 +26,7 @@ Total: 3000 manchetes
   - [japan] Japan manufacturers’ mood hits near 5-year high, service-sector sentiment slumps: Reuters poll
   - [korea] Samsung’s Q3 profit seen jumping nine-fold, but chip margins may be flat
   - [japan] Japan Manufacturers' Confidence Highest Since 2021
-  - [japan] 日銀利上げ「景気殺さぬタイミングで」と佐藤審議委員、段階的な調整に賛成 メディアの取材に（ロイター）
+  - [japan] Bank of Japan interest rate hike "at a time that doesn't kill the economy," Councilor Sato says in a media int
   - [japan] BOJ's dovish dissenter signals support for future rate hikes
   - [japan] BOJ's Sato signals support for future rate hikes, Kyodo reports
   - [japan] Is it wrong to say that "Japanese houses are high-performance"? "The weakest function in developed countries" 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Roze AI Expands Disaster Prevention and Physical AI Business with Approximately US$12.2 Million (KRW 16.4 Bill
   - [korea] Roze AI Inc. (RZAI) Wins KRW 16.4B Disaster-Prevention Contracts in South Korea
   - [japan] JGB yield rises despite 30-year-high coupon
-  - [japan] Yen market price decline; yen selling moves due to interest rate difference between Japan and the US
-  - [japan] Bank of Japan Governor Ueda plans to continue raising interest rates while remaining cautious of upside risk t
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-06T23:52:45+00:00",
+      "published_utc": "2026-10-07T00:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
