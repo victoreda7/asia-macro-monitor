@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T20:22:46.677188+00:00
+Última coleta: 2026-10-07T20:32:47.516445+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1264
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics to pay chip division special bonus in spring 2027
   - [korea] AMD’s Lisa Su Visits South Korea, Reportedly Discusses AI Collaboration With Samsung, SK Hynix
   - [japan] Australia will buy Japan frigates despite budget cuts: finance chief
+  - [japan] Fed Used Treasury Funds to Support Yen in Joint Intervention
   - [japan] Japan bank to connect small businesses with US AI developers
   - [taiwan] Taiwan's US envoy says ties robust after Trump-Xi summit
   - [korea] SK Hynix Stocks Drop 2.8% Despite AMD's Multi-Generation HBM Plan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC supplier Gudeng launches operations at Arizona plant
   - [japan] Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road bud
   - [korea] AMD CEO says he continues to explore foundry partnership with Samsung Electronics
-  - [taiwan] Musk says TSMC won’t run Terafab AI chip complex
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T20:22:46+00:00",
+      "published_utc": "2026-10-07T20:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
