@@ -7,20 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T22:42:45.331137+00:00
+Última coleta: 2026-10-07T22:52:45.715746+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1265
-  🇨🇳 China          782
+  🇨🇳 China          781
   🇹🇼 Taiwan         271
-  🇰🇷 Coreia do Sul  682
+  🇰🇷 Coreia do Sul  683
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings
+  - [korea] Samsung Electronics Sees 3Q Rev KRW195.000T Vs KRW86.060T >005930.SE
+  - [korea] Samsung Q3 profit jumps 783% as AI memory boom lifts chip earnings
   - [japan] Japan Current Account Data Due On Thursday
   - [japan] Fed rate hike, wary of higher inflation; many support further rate hikes
   - [japan] When a woman returns home, she hears a noise inside... The "unexpected culprit" in the "stalker case" that sen
   - [korea] SK Hynix’s Solidigm Is Said to Pick Banks for US IPO Next Year - Bloomberg News
+  - [china] Bond market closes | The central bank continues to pour funds into a loosening situation, and the 10-year gove
   - [china] Brazil and China distance themselves from the G20 declaration on industrial overproduction
   - [china] Zoom CEO Eric Yuan sells $2.27 million in NASDAQ:ZM stock
   - [japan] NGK President Kobayashi ``Concentrates investment in the semiconductor manufacturing field''...Withdrawal from
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC earnings could cause another round of consensus upgrades
   - [japan] Yen Rises Against Majors
   - [taiwan] Intel Stock Is Defying the Chip Slump as Musk Explains TSMC Role in AI Project — Barrons.com
-  - [china] UK proposes duty on imports of Chinese rutile titanium dioxide
-  - [china] China Warns EU It Has Tools Ready If Trade Tensions Escalate
-  - [japan] Ritsumeikan summarizes the concept of "immediate payment within this fiscal year" regarding consumption tax re
-  - [korea] Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T22:42:45+00:00",
+      "published_utc": "2026-10-07T22:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
