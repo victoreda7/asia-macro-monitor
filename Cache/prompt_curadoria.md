@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T20:42:49.125733+00:00
+Última coleta: 2026-10-07T20:52:51.710682+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1264
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] NGK President Kobayashi ``Concentrates investment in the semiconductor manufacturing field''...Withdrawal from
+  - [taiwan] Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today's Market — Barrons.com
   - [japan] Representative question from today in the House of Councilors, debate over consumption tax cut, investigation 
   - [japan] <Our original business is pumps> Ebara's entry into semiconductor equipment was a "historical necessity"; the 
   - [korea] Samsung Electronics to pay chip division special bonus in spring 2027
@@ -28,7 +30,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Stocks Drop 2.8% Despite AMD's Multi-Generation HBM Plan
   - [china] The Fed's overnight reverse repurchase agreement (RRP) usage on Wednesday was $2.338 billion
   - [china] China rejects EU request for voluntary hybrid car export curbs, FT reports
-  - [taiwan] Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today's Market — Barrons.com
   - [china] China slaps down EU request for voluntary curbs on hybrid car exports
   - [japan] Japan Pushes Local 5G Manufacturing, Digital Infrastructure In India
   - [korea] Samsung’s HBM prices tipped to more than double in 2027
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Micron Taoyuan union secures strike authorization, weighs 'surprise strike'
   - [taiwan] SpaceX, TSMC, Constellation Brands, FICO, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] Intel Stock Rebounds as Musk Explains Terafab AI Chip Project and TSMC's Role — Barrons.com
-  - [taiwan] TSMC supplier Gudeng launches operations at Arizona plant
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T20:42:49+00:00",
+      "published_utc": "2026-10-07T20:52:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
