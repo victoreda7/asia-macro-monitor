@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T08:42:45.383629+00:00
-Total: 2999 manchetes
+Última coleta: 2026-10-07T08:52:46.232939+00:00
+Total: 3000 manchetes
 
-  🇯🇵 Japão          1279
-  🇨🇳 China          772
-  🇹🇼 Taiwan         263
-  🇰🇷 Coreia do Sul  685
+  🇯🇵 Japão          1281
+  🇨🇳 China          771
+  🇹🇼 Taiwan         264
+  🇰🇷 Coreia do Sul  684
 
 ## O que já está no feed (não repita)
 
+  - [korea] AMD’s Lisa Su calls chips ‘team sport’ as Samsung, SK hynix ties deepen
+  - [japan] Ruling party approves consumption tax reduction bill; government to submit to parliament as early as this week
+  - [japan] Japanese Yen Faces Hit From Potential Supplementary Budget — Market Talk
+  - [taiwan] Musk says we will “build and run” Terafab, TSMC may sublease space
   - [taiwan] Taiwan's Inflation Hits Over Two-Year High
+  - [japan] Bank of Japan Tankan Steel business confidence turns positive, reflecting sales price transfer (Nikkan Sangyo 
   - [japan] Sumitomo Mitsui Trust Group Plans Approximately 350 Billion Yen Japan Infrastructure Fund As Early As In 2028,
   - [korea] Itcenentec Acquiring Real Estate Worth 74 Billion Won
   - [japan] Okura Industrial Co Ltd - Determined Selling Price For Secondary Share Offering At 5,315 Yen
@@ -48,15 +53,10 @@ Total: 2999 manchetes
   - [japan] BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction
   - [korea] Samsung’s HBM prices tipped to more than double in 2027
   - [korea] Lotte Biologics expands US manufacturing partnership with Alvotech
-  - [korea] AMD's Lisa Su courts Korean AI chipmakers as it takes on Nvidia
   - [china] Asia markets slip amid softening Chinese reserves and persistent energy cost pressures
   - [taiwan] Intel to continue working on Musk’s Terafab despite TSMC talks - Bloomberg
   - [korea] Global banks lift Korea growth outlook to 3.5% on chip boom
   - [japan] Consumption Activity Index
-  - [japan] Australian Dollar-Yen May Have Reached Long-Term Ceiling — Market Talk
-  - [korea] South Korean Won Tests 2024 High
-  - [china] India's central bank's reverse repurchase rate is 3.35% as of October 7, compared with the previous value of 3
-  - [china] As of October 7, the central bank's deposit reserve ratio is 3%, expected to be 3%, and the previous value was
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2999 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T08:42:45+00:00",
+      "published_utc": "2026-10-07T08:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
