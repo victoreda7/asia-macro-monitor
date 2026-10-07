@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T17:42:45.304879+00:00
+Última coleta: 2026-10-07T17:52:45.263247+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1268
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan bank to connect small businesses with US AI developers
   - [korea] SK Hynix Stocks Drop 2.8% Despite AMD's Multi-Generation HBM Plan
   - [taiwan] Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today's Market — Barrons.com
   - [china] China slaps down EU request for voluntary curbs on hybrid car exports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Yen Faces Hit From Potential Supplementary Budget — Market Talk
   - [korea] "Annual Export of $1 Trillion…" "You have to start preparing for 'Post Semiconductor'."
   - [taiwan] Musk says we will “build and run” Terafab, TSMC may sublease space
-  - [korea] Operating profit of KRW 4 trillion by Q3… LG Electronics' All-Time Performance 'Preview' This Year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T17:42:45+00:00",
+      "published_utc": "2026-10-07T17:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
