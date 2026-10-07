@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T02:52:44.104119+00:00
+Última coleta: 2026-10-07T03:02:45.115317+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1291
+  🇯🇵 Japão          1290
   🇨🇳 China          774
-  🇹🇼 Taiwan         260
+  🇹🇼 Taiwan         261
   🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
   - [korea] Samsung Electronics Set to Post Record Third-Quarter Operating Profit — Earnings Preview
+  - [korea] Samsung Electronics, SK hynix rebound from early losses
   - [japan] Yen Weakens on Yield Differential
   - [korea] Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat
   - [japan] Yomiuri: Mizuho Bank to Offer 2 Trillion Yen in Startup Support
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC boosts US investments to $265B on AI boom: report
   - [china] Uncertainty mounts in Singapore after China tightens offshore trust rules
   - [china] China’s Growth Target Has Become a Trap for Xi
-  - [japan] Will the "$30 billion result" won by Trump at the US-China summit help the Republican Party in dire straits? "
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T02:52:44+00:00",
+      "published_utc": "2026-10-07T03:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
