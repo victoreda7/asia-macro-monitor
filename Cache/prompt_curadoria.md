@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T01:42:45.194794+00:00
+Última coleta: 2026-10-07T01:52:47.027466+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1290
-  🇨🇳 China          777
+  🇯🇵 Japão          1289
+  🇨🇳 China          778
   🇹🇼 Taiwan         259
   🇰🇷 Coreia do Sul  674
 
 ## O que já está no feed (não repita)
 
+  - [china] China Golden Week Offers Limited Boost to Consumption — Market Talk
   - [korea] Samsung takes Vietnam up semiconductor value chain with $5bn expansion
   - [japan] Japan MOF To Auction Y2.5T Of 5-Year Govt Bonds Oct 14
   - [japan] Towa Plans Chipmaking Tool Plant For Japanese Supply Chain: CEO, Nikkei Says
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea exports eased Russia fuel crisis caused by drone strikes, Ukraine says
   - [taiwan] Taiwan's AUO, Innolux bet on glass as next-gen AI chip material
   - [japan] Bank of Japan member Sato favors continuing interest rate hikes without specifying timing, concerns about weak
-  - [taiwan] Taiwan Semiconductor Price Target Raised to $665.00/Share From $650.00 by Barclays
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T01:42:45+00:00",
+      "published_utc": "2026-10-07T01:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

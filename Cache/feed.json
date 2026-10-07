@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T01:42:45.194794+00:00",
- "collected_at_utc": "2026-10-07T01:42:45.194794+00:00",
+ "generated_at_utc": "2026-10-07T01:52:47.027466+00:00",
+ "collected_at_utc": "2026-10-07T01:52:47.027466+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1290,
-  "china": 777,
+  "japan": 1289,
+  "china": 778,
   "taiwan": 259,
   "korea": 674
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T00:17:41+00:00"
+   "newest": "2026-10-07T00:07:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-07T09:41:39+00:00"
+   "newest": "2026-10-07T10:48:24+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T21:49:00+00:00"
+   "newest": "2026-10-06T23:09:55+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T01:30:00+00:00"
+   "newest": "2026-10-07T01:51:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-07T01:23:46+00:00"
+   "newest": "2026-10-07T01:45:44+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Golden Week Offers Limited Boost to Consumption — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261006009123:0-china-golden-week-offers-limited-boost-to-consumption-market-talk/",
+   "published_utc": "2026-10-07T01:46:00+00:00",
+   "title_original": "China Golden Week Offers Limited Boost to Consumption — Market Talk",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "71a32755c647e3be"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -41706,23 +41723,6 @@
    "id": "cf2909b5441babd9"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03NXJFY3VieUd5bnBtR09ycmtGTmhMdWVyU0FFZHRrV1paZ0dnc2RYazA5NU11Y1VJX00tUlE2LU1zQ1hlTGtvQ05SUkVpYkdlZEgtU0Z5VGthdw?oc=5",
-   "published_utc": "2026-09-11T07:00:00+00:00",
-   "title_original": "(LEAD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "414e908396fee4ec"
-  },
-  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
@@ -41738,6 +41738,23 @@
    "live_wire": false,
    "manual": false,
    "id": "61de1e1093683dc2"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03NXJFY3VieUd5bnBtR09ycmtGTmhMdWVyU0FFZHRrV1paZ0dnc2RYazA5NU11Y1VJX00tUlE2LU1zQ1hlTGtvQ05SUkVpYkdlZEgtU0Z5VGthdw?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "title_original": "(LEAD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "414e908396fee4ec"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51906,25 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "777193c69409a5de"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Economic outlook in Kumamoto Prefecture lowered, Bank of Japan Kumamoto Branch \"Standing at a standstill due to the effects of the Kumamoto Earthquake\" (TKU TV Kumamoto)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lWl96X29wb0E2RjBjZ0FSYVQ3T3ZaSUx4R0pucjNrUUxTT28wemxGWUQ1bUtsa1NwMmVEM0l5R2tCWXpFVXNuOGhOXzZkOFllUXF6bHExYU1CTkZldnlvNXZnbUpRMWlMS2I3Q3cxTDFXSUJMSkNNczg0WlM2OU0?oc=5",
-   "published_utc": "2026-09-07T03:57:01+00:00",
-   "title_original": "熊本県内の景気判断 引き下げ 日銀熊本支店「熊本地震の影響により足踏み状態」（TKUテレビ熊本）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a1465ee47638d1b3"
   },
   {
    "source_id": "manual_ia",
