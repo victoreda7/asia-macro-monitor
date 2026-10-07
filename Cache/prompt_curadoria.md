@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T09:02:47.214604+00:00
+Última coleta: 2026-10-07T09:12:45.804405+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1278
-  🇨🇳 China          772
-  🇹🇼 Taiwan         264
+  🇯🇵 Japão          1276
+  🇨🇳 China          775
+  🇹🇼 Taiwan         263
   🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Musk says TSMC won’t run Terafab AI chip complex
   - [korea] AMD’s Lisa Su calls chips ‘team sport’ as Samsung, SK hynix ties deepen
   - [china] Visionox Technology To Raise Up To 3 Bln Yuan In Private Share Placement
   - [japan] Ruling party approves consumption tax reduction bill; government to submit to parliament as early as this week
@@ -41,7 +42,6 @@ Total: 3000 manchetes
   - [taiwan] INTC Stock Jumps Overnight: CEO Says Intel Will Keep Working With Musk's Terafab Amid TSMC Partnership Buzz
   - [korea] Monetary Policy Committee member Jang Yong-seong “Employment must increase to improve domestic demand… Semicon
   - [taiwan] Musk says TSMC will not manage Terafab AI chip complex
-  - [taiwan] Musk says TSMC won't run Terafab AI chip complex
   - [japan] August economic trend index decreased by 1.9 points from the previous month, the first decrease in 6 months
   - [korea] Samsung Electronics semiconductor manager to receive 750 million won in performance bonuses next year
   - [korea] What if you put 5 million won into a product with a deposit interest rate of 4%?
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T09:02:47+00:00",
+      "published_utc": "2026-10-07T09:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
