@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T03:32:43.701430+00:00",
- "collected_at_utc": "2026-10-07T03:32:43.701430+00:00",
+ "generated_at_utc": "2026-10-07T03:42:44.646195+00:00",
+ "collected_at_utc": "2026-10-07T03:42:44.646195+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1290,
+  "japan": 1288,
   "china": 775,
-  "taiwan": 262,
-  "korea": 673
+  "taiwan": 261,
+  "korea": 676
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T03:12:20+00:00"
+   "newest": "2026-10-07T03:31:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-07T11:28:09+00:00"
+   "newest": "2026-10-07T12:35:13+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-07T12:20:42+09:00"
+   "newest": "2026-10-07T12:38:35+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T03:20:25+00:00"
+   "newest": "2026-10-07T03:34:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T02:37:43+00:00"
+   "newest": "2026-10-07T03:01:49+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,74 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Chinese Yuan May Be Undervalued — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261006009279:0-chinese-yuan-may-be-undervalued-market-talk/",
+   "published_utc": "2026-10-07T03:28:00+00:00",
+   "title_original": "Chinese Yuan May Be Undervalued — Market Talk",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "23f92963b7e299ff"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "AMD's Su to Meet with Samsung's Chip Division Chief as Memory Shortage Persists — Bloomberg News",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45T02G:0/",
+   "published_utc": "2026-10-07T03:26:29+00:00",
+   "title_original": "Su, da AMD, se reunirá com o chefe da divisão de chips da Samsung enquanto a escassez de memória persiste — Bloomberg News",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "cbdf72ade848badf"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "AMD’s Su to meet Samsung’s chip head as memory crunch persists- Bloomberg News",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45T069:0-amd-s-su-to-meet-samsung-s-chip-head-as-memory-crunch-persists-bloomberg-news/",
+   "published_utc": "2026-10-07T03:26:11+00:00",
+   "title_original": "AMD’s Su to meet Samsung’s chip head as memory crunch persists- Bloomberg News",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1153eb5538ed807f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "Korean Retail Investors Lose $1.7 Billion on Leveraged Chip ETFs",
+   "url": "https://www.tradingview.com/news/binance_news:cc3b53a0f094b:0-korean-retail-investors-lose-1-7-billion-on-leveraged-chip-etfs/",
+   "published_utc": "2026-10-07T03:06:01+00:00",
+   "title_original": "Korean Retail Investors Lose $1.7 Billion on Leveraged Chip ETFs",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "89dd89f833822bf4"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -41998,23 +42066,6 @@
    "id": "cf2909b5441babd9"
   },
   {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUXVRdklHeC0wazdnNldDb0RuSC1PbmUtSk1GN0w3WVA2cmhHT2QzQmFYTV92ZWZkc09XLVdqTFhXMTJmV2cwMkp3Mm1kTU15dHFNcGRRaUpkX0V6XzROZVBVeTg5a3Zl?oc=5",
-   "published_utc": "2026-09-11T07:00:00+00:00",
-   "title_original": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "61de1e1093683dc2"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
@@ -42030,6 +42081,23 @@
    "live_wire": false,
    "manual": false,
    "id": "414e908396fee4ec"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUXVRdklHeC0wazdnNldDb0RuSC1PbmUtSk1GN0w3WVA2cmhHT2QzQmFYTV92ZWZkc09XLVdqTFhXMTJmV2cwMkp3Mm1kTU15dHFNcGRRaUpkX0V6XzROZVBVeTg5a3Zl?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "title_original": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "61de1e1093683dc2"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51851,75 +51919,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a215b7d0b0125d6c"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Analysis: Under tariff threats, Taiwan chipmakers hedge beyond US",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmNCRnNqQ1Vnak9uSE1PbWFWX3gyRnpBdHVTY3NoNGVCZTRYN3hrQXozMDY4RUxLcW56Tm5mTW9GX01HVmRSd2FSWkdzOFlTTGt1STlXVEI2cWZhaXNGcGZublVXeXYyZTVIUWVVV1NjWTBmcWFSY1BsU1hGalI3U2NxMlRRVHQ1eHNOREd0elpHcDFOekNyZExxbw?oc=5",
-   "published_utc": "2026-09-07T07:00:00+00:00",
-   "title_original": "Analysis: Under tariff threats, Taiwan chipmakers hedge beyond US",
-   "region": "taiwan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f7713c9a35ab9b99"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Commentary: Zombie Automakers Are Fueling China’s Export Chaos",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdTdUQ1ZvaHQxUHZVcFl4UWJ6RHEyS18xNU1WTXFibVJzZFNZSVBwcjFiS3RxUlN6cGhaTHoyMWdtN0lHVWtTZTJNZkpqWEVud1N3enhfX1JzZVpUa2lSdGdObnhHN29pcFdZeXM4cnVlbEw2TDI0T1ZfbnVWeTBBcFBoZlpZa1ZqMHp3MFU2SmJIZGFYX1F0RnNLSmZrbVlzOHhvTTQ0dnVFOTh3TGx5VUNSVFdfdw?oc=5",
-   "published_utc": "2026-09-07T07:00:00+00:00",
-   "title_original": "Commentary: Zombie Automakers Are Fueling China’s Export Chaos",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "71fecef8ab78f9a8"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan spends big to boost yen | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OWk43RHRlSEVxRkFrXzlhSG9uOEFsckV4MG1OY1ZTdTZKYW5iWVpqWW5HOUpyYlJROGc5N095czh6MmtZR1lXdXNXd2plVWxIaUEtM180eWNvQi10aE1KQTVXWQ?oc=5",
-   "published_utc": "2026-09-07T07:00:00+00:00",
-   "title_original": "Japan spends big to boost yen | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b113462771041ee5"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan's GDP grew at faster pace in Apr.-Jun. quarter",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80MU5Hd3Y5M3hDcTh1TGVMTlRaMWhBWjhBdTZZNTNGajBrdVpVYUJIa0g0X1BZQ2Q0YTU1QU45TjhIalFXWXFDS2VVcEN5N3VSSWttLU5tQmxfMzEzeFpTUjAzQQ?oc=5",
-   "published_utc": "2026-09-07T07:00:00+00:00",
-   "title_original": "Japan's GDP grew at faster pace in Apr.-Jun. quarter",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "39bf0290ef9425e2"
   },
   {
    "source_id": "manual_ia",
