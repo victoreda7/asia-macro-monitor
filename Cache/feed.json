@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-07T21:02:45.548192+00:00",
- "collected_at_utc": "2026-10-07T21:02:45.548192+00:00",
+ "generated_at_utc": "2026-10-07T21:12:46.302004+00:00",
+ "collected_at_utc": "2026-10-07T21:12:46.302004+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1264,
-  "china": 781,
+  "japan": 1263,
+  "china": 782,
   "taiwan": 273,
   "korea": 682
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T19:54:14+00:00"
+   "newest": "2026-10-07T19:17:08+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T20:43:26+00:00"
+   "newest": "2026-10-07T21:04:31+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T18:43:34+00:00"
+   "newest": "2026-10-07T20:58:07+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T21:01:39+00:00"
+   "newest": "2026-10-07T21:11:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-29T07:00:00+00:00"
+   "newest": "2026-09-29T10:50:39+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-08T05:50:00+09:00"
+   "newest": "2026-10-08T06:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Zoom CEO Eric Yuan sells $2.27 million in NASDAQ:ZM stock",
+   "url": "https://www.investing.com/news/insider-trading-news/zoom-ceo-eric-yuan-sells-227-million-in-nasdaqzm-stock-93CH-4937550",
+   "published_utc": "2026-10-07T21:01:12+00:00",
+   "title_original": "Zoom CEO Eric Yuan sells $2.27 million in NASDAQ:ZM stock",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "feb285cb8ce9f015"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -1046,8 +1063,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -1061,7 +1078,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -51912,24 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "901e5b34c693e931"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The yen sharply appreciates, temporarily reaching the 153 yen level for the first time in seven months, with the Bank of Japan expected to accelerate interest rate hikes (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTXhRVk1peDhfX3FaTHhVZVpRVmVwbk1FQ09UMGZ0TldfdnRnUm9XSFBxZlBXdjZ6NUs4ZTc5bER1a1plUmgtZ2F1X0dpajBYMFU0eG5JckNUQ3V4VXdTbTZaMUMwTDhPbmNDdm9GbTdMWl9xdURNdkRxZVpDUDA?oc=5",
-   "published_utc": "2026-09-08T00:13:57+00:00",
-   "title_original": "円大幅高、一時153円台 7カ月ぶり水準、日銀の利上げ加速観測（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "840a4e187e64c3d5"
   },
   {
    "source_id": "manual_ia",
