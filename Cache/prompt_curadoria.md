@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T12:22:44.748032+00:00
+Última coleta: 2026-10-07T12:32:45.020298+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1275
+  🇯🇵 Japão          1274
   🇨🇳 China          774
-  🇹🇼 Taiwan         268
+  🇹🇼 Taiwan         269
   🇰🇷 Coreia do Sul  683
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Intel Stock Is Defying the Chip Slump as Musk Explains TSMC Role in AI Project — Barrons.com
   - [korea] Samsung Electronics to pay chip division special bonus in spring 2027
   - [japan] Ritsumeikan summarizes the concept of "immediate payment within this fiscal year" regarding consumption tax re
   - [korea] Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat
@@ -44,6 +45,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's Inflation Hits Over Two-Year High
   - [japan] Asian currencies mixed as dollar firms, yen weakens near 158
   - [japan] Bank of Japan Tankan Steel business confidence turns positive, reflecting sales price transfer (Nikkan Sangyo 
+  - [japan] Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers By Reuters
   - [japan] Sumitomo Mitsui Trust Group Plans Approximately 350 Billion Yen Japan Infrastructure Fund As Early As In 2028,
   - [korea] Itcenentec Acquiring Real Estate Worth 74 Billion Won
   - [japan] Okura Industrial Co Ltd - Determined Selling Price For Secondary Share Offering At 5,315 Yen
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] AMD CEO says continues to explore foundry partnership with Samsung Electronics
   - [taiwan] INTC Stock Jumps Overnight: CEO Says Intel Will Keep Working With Musk's Terafab Amid TSMC Partnership Buzz
   - [korea] Monetary Policy Committee member Jang Yong-seong “Employment must increase to improve domestic demand… Semicon
-  - [taiwan] Musk says TSMC will not manage Terafab AI chip complex
-  - [japan] August economic trend index decreased by 1.9 points from the previous month, the first decrease in 6 months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T12:22:44+00:00",
+      "published_utc": "2026-10-07T12:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
