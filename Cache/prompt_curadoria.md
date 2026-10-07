@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T22:22:46.073515+00:00
+Última coleta: 2026-10-07T22:32:45.938193+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1264
+  🇯🇵 Japão          1265
   🇨🇳 China          782
-  🇹🇼 Taiwan         272
+  🇹🇼 Taiwan         271
   🇰🇷 Coreia do Sul  682
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Current Account Data Due On Thursday
   - [japan] Fed rate hike, wary of higher inflation; many support further rate hikes
   - [japan] When a woman returns home, she hears a noise inside... The "unexpected culprit" in the "stalker case" that sen
   - [korea] SK Hynix’s Solidigm Is Said to Pick Banks for US IPO Next Year - Bloomberg News
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Warns EU It Has Tools Ready If Trade Tensions Escalate
   - [japan] Ritsumeikan summarizes the concept of "immediate payment within this fiscal year" regarding consumption tax re
   - [korea] Samsung's Q3 profit seen jumping nine-fold, but chip margins may be flat
-  - [korea] Korea to strengthen food safety ties, support exports to Latin America
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T22:22:46+00:00",
+      "published_utc": "2026-10-07T22:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
