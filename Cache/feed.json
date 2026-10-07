@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-07T09:22:44.686960+00:00",
- "collected_at_utc": "2026-10-07T09:22:44.686960+00:00",
+ "generated_at_utc": "2026-10-07T09:32:45.202540+00:00",
+ "collected_at_utc": "2026-10-07T09:32:45.202540+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1275,
+  "japan": 1276,
   "china": 775,
   "taiwan": 263,
-  "korea": 687
+  "korea": 686
  },
  "elapsed_s": 30.1,
  "sources": [
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T06:12:00+00:00"
+   "newest": "2026-10-07T08:37:32+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T09:04:28+00:00"
+   "newest": "2026-10-07T09:27:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T08:48:50+00:00"
+   "newest": "2026-10-07T09:25:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T09:10:08+00:00"
+   "newest": "2026-10-07T09:28:57+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-07T18:01:54+09:00"
+   "newest": "2026-10-07T18:21:24+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-07T18:21:24+09:00"
+   "newest": "2026-10-07T18:31:21+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T09:22:00+00:00"
+   "newest": "2026-10-07T09:31:41+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-07T09:13:37+00:00"
+   "newest": "2026-10-07T09:21:34+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -339,13 +339,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T07:53:00+00:00"
+   "newest": "2026-10-07T07:58:03+00:00"
   }
  ],
  "items": [
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -359,7 +359,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -586,6 +586,23 @@
    "id": "1845a2b998d5b3cc"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Asian currencies mixed as dollar firms, yen weakens near 158",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWZGanFWdlpqOEIycGhKSU1QWWxOZDRoT3MzMWpILS1uNG1mS1BWM2RFOVlGQUxmQzlISVNjM3ZXWDdvdWdhRm10WmM1QURWYm4xNTZ1dENqazdCdXE2U1pHQ3AxTFJNYm90VmtiVXEzZHFKWFhmOGVNMmw1WVRRMmduQWIwTEtwRHlPNnN1T3pTdnZ6dUwxcHV3N0JNMGFMam0wczVhRlZ4TXlyMnpJUGJHYkNOUQ?oc=5",
+   "published_utc": "2026-10-07T08:20:18+00:00",
+   "title_original": "Asian currencies mixed as dollar firms, yen weakens near 158",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e8c2f208d5b905c8"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Tankan Steel business confidence turns positive, reflecting sales price transfer (Nikkan Sangyo Shimbun)",
@@ -659,8 +676,8 @@
    "source_name": "조선일보",
    "title_en": "Monetary Policy Committee member Jang Yong-seong \"It is difficult to predict the future of the semiconductor industry... Future Fund must be designed carefully.\"",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeldPZnU3U3VvOWpFYWRheFh6T0VSTWtLOFNTa2NIcjdQN1lZWE1tMkhoQVdqNk5VSG02SGRwRmlRN1lwWGxSZng0NjBQcGxKZnlkdE9xa2F5a3l2bG1oSDV1UjVEWS1ST3JPb1NqZ1dlVVBGTHBfNDNlaXlXZEVRcG01aVpDc3Znc1VqZ2VR?oc=5",
-   "published_utc": "2026-10-07T07:53:00+00:00",
-   "title_original": "장용성 금통위원 \"반도체 산업 미래 예측 어려워…미래기금, 신중히 설계해야\"",
+   "published_utc": "2026-10-07T07:58:03+00:00",
+   "title_original": "장용성 금통위원 \"반도체 경기 미래 예측 어려워…미래기금, 신중히 설계해야\"",
    "region": "korea",
    "topics": [
     "monetary",
@@ -671,7 +688,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7d2f9b786462fef3"
+   "id": "a3d02999a3434684"
   },
   {
    "source_id": "tradingview_live",
@@ -3631,7 +3648,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "虎嗅网",
    "title_en": "The central bank’s four directional tools are implemented: 700 billion capital flow and policy logic analysis",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ScTZNRF8tazZPc053UE0zbnd5Ry1SX0M0YnZoRWI1ZG5FODBHYzZRQWQ1MzZLZlk3dWtrT0pTTFprLVp3YTlnN1dtaVhMOEhOR2lfNHZvNW56U2hnN04w?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96NmN4ZDNMRDVuVTltNE9raDhaSWE0SEdpM3kyakk0Z1RjWjVOQl8xajBqNS1hY3FoblE0Zl9GczBIOU1iUkxmbExMQnhnN2E2Nmc?oc=5",
    "published_utc": "2026-10-05T16:11:07+00:00",
    "title_original": "央行四项定向工具落地：7000亿资金流向与政策逻辑解析",
    "region": "china",
@@ -3642,7 +3659,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fd692994410cb99d"
+   "id": "e54ba61e0c203f50"
   },
   {
    "source_id": "tradingview_live",
@@ -51911,23 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "95c434ab6f9bcd31"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Kospi jumps as chip stocks rally on renewed AI spending optimism",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3clZSdlRLdDNiTlNsWUNWLV9DVU44eUQzaDF0cUlSM0pIUF9TSDhjUWxXdUw1cXFJSlp1U2tTUmVJdHRJekhHZDlmcERXS2YzRzRnaGZNc0hnZ2RkTU9VQ1JIMDg1NjRKZE9haHM3MVcyeVZCaGxtZjVR?oc=5",
-   "published_utc": "2026-09-07T21:59:28+00:00",
-   "title_original": "Kospi jumps as chip stocks rally on renewed AI spending optimism",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7cdb3c648484ca1f"
   },
   {
    "source_id": "manual_ia",

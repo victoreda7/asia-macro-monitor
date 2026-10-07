@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T09:22:44.686960+00:00
+Última coleta: 2026-10-07T09:32:45.202540+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1275
+  🇯🇵 Japão          1276
   🇨🇳 China          775
   🇹🇼 Taiwan         263
-  🇰🇷 Coreia do Sul  687
+  🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il met with the head of six econ..
   - [taiwan] Taiwan Inflation Hits 31-Month High
   - [taiwan] Taiwan's Inflation Hits Over Two-Year High
+  - [japan] Asian currencies mixed as dollar firms, yen weakens near 158
   - [japan] Bank of Japan Tankan Steel business confidence turns positive, reflecting sales price transfer (Nikkan Sangyo 
   - [japan] Sumitomo Mitsui Trust Group Plans Approximately 350 Billion Yen Japan Infrastructure Fund As Early As In 2028,
   - [korea] Itcenentec Acquiring Real Estate Worth 74 Billion Won
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung’s Q3 profit seen hitting 105T won on AI-driven chip demand - report
   - [japan] Asia stocks slip as rising oil, yields weigh; RBI hikes rates as expected
   - [japan] Japan’s Rapidus faces uphill battle to fill its $15B chip factory
-  - [taiwan] Micron Union in Taoyuan, Taiwan Gets Strike Clearance
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T09:22:44+00:00",
+      "published_utc": "2026-10-07T09:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
