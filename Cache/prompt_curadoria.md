@@ -7,25 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T00:02:43.426461+00:00
+Última coleta: 2026-10-08T00:12:45.781624+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1259
-  🇨🇳 China          781
+  🇯🇵 Japão          1257
+  🇨🇳 China          782
   🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  691
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
   - [korea] Key facts: Samsung (005930) HBM4 Deal; Foundry Talks; Fab Woes
+  - [korea] Key facts: AMD Praises SK hynix (000660) HBM4; ADR Falls 2.8%
   - [japan] BREAKING NEWS: Japan logs current account surplus of 4.06 trillion yen in August
   - [korea] SK Hynix’s Memory Division Reportedly Picks Banks For Its US IPO Next Year
-  - [korea] Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings
   - [korea] Samsung Electronics’ quarterly operating profit tops 100 trillion won for the first time... companywide operat
   - [korea] South Korea Current Account Surplus Widens
   - [korea] Samsung Electronics First South Korean Company to Top KRW100T in Quarterly Operating Profit
   - [korea] Samsung Electronics 3Q Oper Pft Estimate Largely Met FactSet-Compiled Consensus
   - [korea] Samsung Electronics Sees 3Q Oper Pft KRW107.400T Vs. KRW12.170T >005930.SE
+  - [korea] Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings
   - [korea] Samsung Electronics Sees 3Q Rev KRW195.000T Vs KRW86.060T >005930.SE
   - [korea] [Breaking] Samsung Electronics Co., Ltd. made more than 100 trillion won in three months, setting a new milest
   - [korea] Samsung Q3 profit jumps 783% as AI memory boom lifts chip earnings
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Intel stays in Musk's Terafab plan as TSMC joins the mix
   - [korea] Lotte Biologics expands US manufacturing partnership with Alvotech
   - [taiwan] Micron Tech chipmaker union in Taiwan gets OK to strike
-  - [korea] AMD’s Lisa Su calls chips ‘team sport’ as Samsung, SK hynix ties deepen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T00:02:43+00:00",
+      "published_utc": "2026-10-08T00:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

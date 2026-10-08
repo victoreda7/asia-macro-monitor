@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T00:02:43.426461+00:00",
- "collected_at_utc": "2026-10-08T00:02:43.426461+00:00",
+ "generated_at_utc": "2026-10-08T00:12:45.781624+00:00",
+ "collected_at_utc": "2026-10-08T00:12:45.781624+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1259,
-  "china": 781,
+  "japan": 1257,
+  "china": 782,
   "taiwan": 269,
-  "korea": 691
+  "korea": 692
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T23:35:40+00:00"
+   "newest": "2026-10-08T00:04:34+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "error": "",
    "newest": "2026-10-07T21:29:55+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T00:01:27+00:00"
+   "newest": "2026-10-08T00:09:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T23:50:04+00:00"
+   "newest": "2026-10-08T00:04:13+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-08T08:30:00+09:00"
+   "newest": "2026-10-08T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T22:50:40+00:00"
+   "newest": "2026-10-07T23:46:21+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -359,6 +359,23 @@
    "live_wire": true,
    "manual": false,
    "id": "392186c30fa64453"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Key facts: AMD Praises SK hynix (000660) HBM4; ADR Falls 2.8%",
+   "url": "https://www.tradingview.com/news/tradingview:9b56c417d177f:0-key-facts-amd-praises-sk-hynix-000660-hbm4-adr-falls-2-8/",
+   "published_utc": "2026-10-08T00:00:00+00:00",
+   "title_original": "Key facts: AMD Praises SK hynix (000660) HBM4; ADR Falls 2.8%",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0625f4c110b9d029"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -394,23 +411,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8514009fbfcdf03f"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
-   "url": "https://www.investing.com/news/stock-market-news/samsung-q3-profit-jumps-nearly-ninefold-as-ai-memory-boom-lifts-chip-earnings-4937684",
-   "published_utc": "2026-10-07T23:19:26+00:00",
-   "title_original": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3f3287c5bb710a16"
   },
   {
    "source_id": "gn_kr_mk",
@@ -496,6 +496,23 @@
    "live_wire": true,
    "manual": false,
    "id": "81a6b7e12160f004"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45T115:0-samsung-q3-profit-jumps-nearly-nine-fold-as-ai-memory-boom-lifts-chip-earnings/",
+   "published_utc": "2026-10-07T22:51:18+00:00",
+   "title_original": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6f4aae6ab6d4b4a3"
   },
   {
    "source_id": "tradingview_live",
@@ -1390,8 +1407,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -1405,7 +1422,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -1665,23 +1682,6 @@
    "live_wire": false,
    "manual": false,
    "id": "61c079c7139f7c21"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Sumitomo Mitsui Trust Group Plans Approximately 350 Billion Yen Japan Infrastructure Fund As Early As In 2028, Nikkei Reports",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45S1OT:0-sumitomo-mitsui-trust-group-plans-approximately-350-billion-yen-japan-infrastructure-fund-as-early-as-in-2028-nikkei-reports/",
-   "published_utc": "2026-10-07T08:10:42+00:00",
-   "title_original": "Sumitomo Mitsui Trust Group Plans Approximately 350 Billion Yen Japan Infrastructure Fund As Early As In 2028, Nikkei Reports",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b5d1ba2b673d304f"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2150,6 +2150,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ba44464315a2210e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Investment Calendar for October 8 | Central Bank’s Trillion-Level Liquidity Operation Implemented",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IRUlfUmxlMndQVmUydkJCc2hzQVN2TFJnLUFyMHRYZWJrc1VkNDFKNmIyMGRoWVNLZ1o5YjlCN3RIMjM0VDZ2azY4LVV0QTIwVS1OTVZfWGVhSnpGazF6Q2xITlp2dw?oc=5",
+   "published_utc": "2026-10-07T00:11:58+00:00",
+   "title_original": "10月8日投资日历 | 央行万亿级流动性操作落地",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ca853e09358a70f2"
   },
   {
    "source_id": "tradingview_live",
@@ -51910,24 +51927,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6a70a4dfef244c03"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s GDP Growth Revised Higher, Backing BOJ Rate Hike Case",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkRwWjVqb0NydFNVVUx0OHFoUTk3SWRLenNsTXhZMUpRbnlRbk0zbV96ZzZCSzBDUUxaSS1HcVBKSlVFSDlMLVRzM2hOcncwQUZNbHdZMjhTOUYyampUS281Ny1rZGFmLTVFZ095RGQtNERZQ2RQRVlRaWFjRnFaWmFDaUJpaUhiVG1WcjJpSWNIclV5WGRVU3BDRnNJLV9KZzBXLWdMdjVvQ19ONHNLRA?oc=5",
-   "published_utc": "2026-09-08T01:15:00+00:00",
-   "title_original": "Japan’s GDP Growth Revised Higher, Backing BOJ Rate Hike Case",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "38a6875633edd953"
   },
   {
    "source_id": "manual_ia",
