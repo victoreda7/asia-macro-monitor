@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T03:52:43.422298+00:00
+Última coleta: 2026-10-08T04:02:45.844287+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1245
+  🇯🇵 Japão          1244
   🇨🇳 China          782
   🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  704
+  🇰🇷 Coreia do Sul  705
 
 ## O que já está no feed (não repita)
 
@@ -56,7 +56,7 @@ Total: 3000 manchetes
   - [japan] “Reiwa Loan Hell” faced by Bank of Japan interest rate hike… Shock of 40,000 yen increase in repayments in 202
   - [china] Beyond the summit: how US-China relations could still unravel
   - [japan] August current balance surplus of 4,062 billion yen due to increased dividends from overseas, etc.
-  - [korea] Seoul shares turn lower after opening up amid inflation worries
+  - [korea] (2nd LD) S. Korea extends current account surplus in Aug. amid solid exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T03:52:43+00:00",
+      "published_utc": "2026-10-08T04:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
