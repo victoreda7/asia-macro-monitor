@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-07T23:52:43.428265+00:00
+Última coleta: 2026-10-08T00:02:43.426461+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1260
+  🇯🇵 Japão          1259
   🇨🇳 China          781
   🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  690
+  🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [korea] Key facts: Samsung (005930) HBM4 Deal; Foundry Talks; Fab Woes
+  - [japan] BREAKING NEWS: Japan logs current account surplus of 4.06 trillion yen in August
   - [korea] SK Hynix’s Memory Division Reportedly Picks Banks For Its US IPO Next Year
   - [korea] Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings
   - [korea] Samsung Electronics’ quarterly operating profit tops 100 trillion won for the first time... companywide operat
@@ -31,6 +33,7 @@ Total: 3000 manchetes
   - [japan] Fed rate hike, wary of higher inflation; many support further rate hikes
   - [japan] When a woman returns home, she hears a noise inside... The "unexpected culprit" in the "stalker case" that sen
   - [korea] SK Hynix’s Solidigm Is Said to Pick Banks for US IPO Next Year - Bloomberg News
+  - [china] Bond market closes | The central bank continues to pour funds into a loosening situation, and the 10-year gove
   - [china] Brazil and China distance themselves from the G20 declaration on industrial overproduction
   - [china] Zoom CEO Eric Yuan sells $2.27 million in NASDAQ:ZM stock
   - [japan] NGK President Kobayashi ``Concentrates investment in the semiconductor manufacturing field''...Withdrawal from
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Lotte Biologics expands US manufacturing partnership with Alvotech
   - [taiwan] Micron Tech chipmaker union in Taiwan gets OK to strike
   - [korea] AMD’s Lisa Su calls chips ‘team sport’ as Samsung, SK hynix ties deepen
-  - [taiwan] SpaceX, Intel, TSMC, Webull, Fair Isaac, and More Stocks That Explain Today's Market — Barrons.com
-  - [china] Why China’s export engine may hit a ceiling as trading partners face limits
-  - [korea] The number of hacking attempts targeting the Export-Import Bank of Korea this year was nearly eight
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-07T23:52:43+00:00",
+      "published_utc": "2026-10-08T00:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-07T23:52:43.428265+00:00",
- "collected_at_utc": "2026-10-07T23:52:43.428265+00:00",
+ "generated_at_utc": "2026-10-08T00:02:43.426461+00:00",
+ "collected_at_utc": "2026-10-08T00:02:43.426461+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1260,
+  "japan": 1259,
   "china": 781,
   "taiwan": 269,
-  "korea": 690
+  "korea": 691
  },
  "elapsed_s": 29.6,
  "sources": [
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T11:13:00+00:00"
+   "newest": "2026-10-07T23:52:07+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-07T17:17:57+00:00"
+   "newest": "2026-10-07T21:29:55+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-07T23:50:18+00:00"
+   "newest": "2026-10-08T00:01:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T22:38:39+00:00"
+   "newest": "2026-10-07T23:50:04+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Key facts: Samsung (005930) HBM4 Deal; Foundry Talks; Fab Woes",
+   "url": "https://www.tradingview.com/news/tradingview:7d7a6ddaa2952:0-key-facts-samsung-005930-hbm4-deal-foundry-talks-fab-woes/",
+   "published_utc": "2026-10-08T00:00:00+00:00",
+   "title_original": "Key facts: Samsung (005930) HBM4 Deal; Foundry Talks; Fab Woes",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "392186c30fa64453"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan logs current account surplus of 4.06 trillion yen in August",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04dW50UWRRQjRyMzN6RjBFemZGcUpFTl9FaVRsTEJ4SlNWVW53Y2RPeVF3dlV6ZzZTLTNWTzVNNUVxUG9XNzJWSDFxVEJubkZPQWFWdENpX2gyUQ?oc=5",
+   "published_utc": "2026-10-07T23:52:07+00:00",
+   "title_original": "BREAKING NEWS: Japan logs current account surplus of 4.06 trillion yen in August",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8986d0726e332e84"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
@@ -582,6 +617,24 @@
    "live_wire": true,
    "manual": false,
    "id": "b2c855694123c3ec"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财联社",
+   "title_en": "Bond market closes | The central bank continues to pour funds into a loosening situation, and the 10-year government bond yield still rises slightly",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ibkktejhsaGpuX2pwd2NwLTF6ZXl5RTNLSF9nSUhJbDNlZTNaaUt5VWhCTU81R3g0VHF6b3N3YnFPQUVYSmtoYw?oc=5",
+   "published_utc": "2026-10-07T21:29:55+00:00",
+   "title_original": "债市收盘|央行持续净投放下资金转松，10年期国债收益率仍小幅上行",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cb05b16368dd830c"
   },
   {
    "source_id": "tradingview_live",
@@ -1337,8 +1390,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -1352,7 +1405,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -2199,24 +2252,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0ad99e1e9736ca88"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
-   "title_en": "Bond market closes | The central bank continues to pour funds into a loosening situation, and the 10-year government bond yield still rises slightly",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ibkktejhsaGpuX2pwd2NwLTF6ZXl5RTNLSF9nSUhJbDNlZTNaaUt5VWhCTU81R3g0VHF6b3N3YnFPQUVYSmtoYw?oc=5",
-   "published_utc": "2026-10-06T23:22:38+00:00",
-   "title_original": "债市收盘|央行持续净投放下资金转松，10年期国债收益率仍小幅上行",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cb05b16368dd830c"
   },
   {
    "source_id": "investing_econ",
@@ -51893,40 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "38a6875633edd953"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Yen hovers near seven-month high, dollar steadies By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFhnNjZVQWR5SnMtMGZ1Umx5S3Y4Tld1andiNjVwZWcxc0xxNDI2VGRTa1NmS2JiNFVVNDJZQ2V3STVrZXR4Q1dQNDlTR2tnaXlRbVdXcXM2RmFNLXdKai1Ua1ZrMzVUZks4aFp2VGNUSTh2U3U1TnF3VW9HMjg5eGdNTkhpMGRhbGxiZzhiQTM0cUtZT3lLQ1VWVzFlZmowR25qd0tBbk81MnpIOUhmMGVkNmttSW9RZ1JJNw?oc=5",
-   "published_utc": "2026-09-08T01:05:02+00:00",
-   "title_original": "Yen hovers near seven-month high, dollar steadies By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "024d962882c1f387"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Yen pauses after rally as dollar firms By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFhnNjZVQWR5SnMtMGZ1Umx5S3Y4Tld1andiNjVwZWcxc0xxNDI2VGRTa1NmS2JiNFVVNDJZQ2V3STVrZXR4Q1dQNDlTR2tnaXlRbVdXcXM2RmFNLXdKai1Ua1ZrMzVUZks4aFp2VGNUSTh2U3U1TnF3VW9HMjg5eGdNTkhpMGRhbGxiZzhiQTM0cUtZT3lLQ1VWVzFlZmowR25qd0tBbk81MnpIOUhmMGVkNmttSW9RZ1JJNw?oc=5",
-   "published_utc": "2026-09-08T01:05:02+00:00",
-   "title_original": "Yen pauses after rally as dollar firms By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "de2d6b284a280fd6"
   },
   {
    "source_id": "manual_ia",
