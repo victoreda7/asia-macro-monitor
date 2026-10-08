@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T16:52:45.106202+00:00
+Última coleta: 2026-10-08T17:02:43.990773+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1232
-  🇨🇳 China          790
+  🇨🇳 China          789
   🇹🇼 Taiwan         275
-  🇰🇷 Coreia do Sul  703
+  🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
+  - [korea] Cash Cat: CASHCAT begins KRW spot trading on Bithumb - 08 Oct 2026
   - [korea] Seoul shares down for 3rd day amid inflation worries
   - [korea] Samsung Electronics guides to huge surge in Q3 profits
   - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Seoul shares turn lower after opening up amid inflation worries
   - [taiwan] TSMC Sales Are a Good Sign for the AI Trade. Tech Stocks Are Falling Anyway. — Barrons.com
   - [taiwan] Taiwan September exports hit fresh monthly record on AI demand, US leads
-  - [china] Far East Smarter Energy's Units Win Bids, Sign Contracts Worth 1.4 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T16:52:45+00:00",
+      "published_utc": "2026-10-08T17:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
