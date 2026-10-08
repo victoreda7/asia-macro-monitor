@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-08T22:12:44.441227+00:00",
- "collected_at_utc": "2026-10-08T22:12:44.441227+00:00",
+ "generated_at_utc": "2026-10-08T22:21:51.330920+00:00",
+ "collected_at_utc": "2026-10-08T22:21:51.330920+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,15 +11,15 @@
   "taiwan": 281,
   "korea": 702
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 53,
-   "error": "",
-   "newest": "2026-10-08T14:00:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T21:44:27+00:00"
+   "newest": "2026-10-08T22:12:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T22:11:00+00:00"
+   "newest": "2026-10-08T22:21:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-09T07:00:00+09:00"
+   "newest": "2026-10-09T07:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T15:11:52+00:00"
+   "newest": "2026-10-08T08:33:59+00:00"
   }
  ],
  "items": [
@@ -3567,8 +3567,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -3582,7 +3582,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
