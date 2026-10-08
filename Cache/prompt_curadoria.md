@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T14:12:44.268683+00:00
+Última coleta: 2026-10-08T14:22:44.272646+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1233
+  🇯🇵 Japão          1232
   🇨🇳 China          788
-  🇹🇼 Taiwan         276
+  🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  703
 
 ## O que já está no feed (não repita)
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [taiwan] GlobalFoundries will manufacture essential component for AI chips for TSMC in US$2 billion deal
   - [taiwan] GlobalFoundries to make key AI chip component for TSMC in $2 billion deal
   - [taiwan] TSMC Stocks Drop 2% Despite Citi's NT$4,000 Target
+  - [taiwan] September exports hit record monthly high, extend growth to 35 months
   - [taiwan] GlobalFoundries will manufacture a key AI chip component for TSMC
   - [taiwan] GlobalFoundries to make key AI chip component for TSMC
   - [taiwan] GlobalFoundries partners with TSMC to establish US-based production of silicon interposers
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen market price falls slightly; yen sells due to inflation concerns
   - [china] Table: Chun Yuan Steel Industry Sep Rev NT$1.99B Vs NT$1.99B
   - [japan] BofA sees downside risks for USD/JPY
-  - [japan] More than 5,000 bankruptcies in the first half of this fiscal year for the second consecutive year, due to the
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T14:12:44+00:00",
+      "published_utc": "2026-10-08T14:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

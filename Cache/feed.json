@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T14:12:44.268683+00:00",
- "collected_at_utc": "2026-10-08T14:12:44.268683+00:00",
+ "generated_at_utc": "2026-10-08T14:22:44.272646+00:00",
+ "collected_at_utc": "2026-10-08T14:22:44.272646+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1233,
+  "japan": 1232,
   "china": 788,
-  "taiwan": 276,
+  "taiwan": 277,
   "korea": 703
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -67,7 +67,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T20:29:16+08:00"
+   "newest": "2026-10-08T20:53:20+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T13:45:04+00:00"
+   "newest": "2026-10-08T14:17:46+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T13:31:23+00:00"
+   "newest": "2026-10-08T14:13:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 20,
+   "count": 18,
    "error": "",
    "newest": "2026-10-08T08:34:16+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T14:11:46+00:00"
+   "newest": "2026-10-08T14:21:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T10:55:14+00:00"
+   "newest": "2026-10-08T07:56:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T08:33:59+00:00"
+   "newest": "2026-10-08T02:24:43+00:00"
   }
  ],
  "items": [
@@ -444,6 +444,23 @@
    "live_wire": true,
    "manual": false,
    "id": "1e4a42a677887eb7"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "September exports hit record monthly high, extend growth to 35 months",
+   "url": "https://focustaiwan.tw/business/202610080020",
+   "published_utc": "2026-10-08T12:52:18+00:00",
+   "title_original": "September exports hit record monthly high, extend growth to 35 months",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e5dc4871c975f1dc"
   },
   {
    "source_id": "tradingview_live",
@@ -3341,8 +3358,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -3356,7 +3373,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -32819,23 +32836,6 @@
    "id": "b8dbe564e07ea424"
   },
   {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "Taiwan freezes electricity rates to support economy",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
-   "published_utc": "2026-09-18T11:36:00+00:00",
-   "title_original": "Taiwan freezes electricity rates to support economy",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a00b4baeb4330729"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Ordinary deposit interest rate raised to 0.5%; Bank of Japan raises interest rate to the highest level in 34 years; 3 mega banks (Jiji Press)",
@@ -34089,6 +34089,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9ecd05a7ccdfd25e"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan - CNA English News",
+   "title_en": "Taiwan freezes electricity rates to support economy",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "Taiwan freezes electricity rates to support economy",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a00b4baeb4330729"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51930,23 +51947,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7bc8de7b309dd277"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "The Yen Is on a Tear. U.S. Investors Need to Keep It in Focus. — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20260908006797:0/",
-   "published_utc": "2026-09-08T17:20:00+00:00",
-   "title_original": "The Yen Is on a Tear. U.S. Investors Need to Keep It in Focus. — Barrons.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "258b3a6b6c5824e7"
   },
   {
    "source_id": "manual_ia",
