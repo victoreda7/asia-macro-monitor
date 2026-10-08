@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T02:12:43.185184+00:00
+Última coleta: 2026-10-08T02:22:45.446120+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1248
@@ -44,6 +44,7 @@ Total: 3000 manchetes
   - [japan] August current balance surplus of 4,062 billion yen due to increased dividends from overseas, etc.
   - [korea] Seoul shares turn lower after opening up amid inflation worries
   - [korea] (LEAD) Seoul shares turn lower after opening up amid inflation worries
+  - [china] Securities Star morning news summary on October 8: The central bank will carry out a 1.2 trillion yuan buyout 
   - [korea] S. Korea extends current account surplus in Aug. amid solid exports
   - [korea] Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom
   - [china] The central bank launched a trillion-dollar buyout reverse repurchase, and the Dark Side of the Moon completed
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung quarterly profit surges to $80bn on AI chip demand
   - [korea] Samsung profit surges ninefold to $80bn on AI chip demand
   - [korea] SK Hynix’s Memory Division Reportedly Picks Banks For Its US IPO Next Year
-  - [korea] Samsung Electronics’ quarterly operating profit tops 100 trillion won for the first time... companywide operat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T02:12:43+00:00",
+      "published_utc": "2026-10-08T02:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
