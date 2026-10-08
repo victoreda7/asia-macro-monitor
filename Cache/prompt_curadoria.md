@@ -7,20 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T21:22:43.170864+00:00
+Última coleta: 2026-10-08T21:32:41.742605+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1221
   🇨🇳 China          797
-  🇹🇼 Taiwan         279
-  🇰🇷 Coreia do Sul  703
+  🇹🇼 Taiwan         280
+  🇰🇷 Coreia do Sul  702
 
 ## O que já está no feed (não repita)
 
+  - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] Synopsys Looks To Work With Chinese AI Labs To Speed Up Chip Design, Nikkei Says
   - [china] CXMT, the semiconductor giant with the top Chinese market capitalization, begins mass production of next-gener
   - [taiwan] TSMC's AI Boom Just Got Bigger
-  - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] Sumitomo Bakelite to boost chip encapsulant output in China, Singapore
   - [china] Synopsys plans to explore working with Chinese AI labs on chip design tech: report
   - [china] Synopsys looks to work with Chinese AI labs to speed up chip design
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T21:22:43+00:00",
+      "published_utc": "2026-10-08T21:32:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
