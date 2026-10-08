@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T10:52:42.591682+00:00
+Última coleta: 2026-10-08T11:02:43.915983+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1232
-  🇨🇳 China          790
+  🇯🇵 Japão          1234
+  🇨🇳 China          789
   🇹🇼 Taiwan         273
-  🇰🇷 Coreia do Sul  705
+  🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung, SK hynix face investor test as buybacks wind down
+  - [japan] Bank of Japan’s regional economic report “AI-related demand expands and production increases in many regions”
   - [korea] Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue
+  - [japan] PM Takaichi rejects "reflationary" label for her economic policies
   - [japan] Prime Minister: “Funding sources for consumption tax reduction will be considered throughout budget formulatio
   - [china] EU trade chief in talks with China to rebalance 'unsustainable' deficit
   - [china] China PBOC: Daily Yuan FX Turnover Too Big to Manipulate
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's Exports Gained Momentum in September
   - [china] China issues third batch of 2026 export quotas for low-sulfur fuel oil, sources say
   - [taiwan] TSMC's Q3 revenue jumps 50% Y/Y to record NT$1.49T, beating market forecast
-  - [taiwan] TSMC's Q3 revenue jumps 50% Y/Y to record NT$1.49T, beating estimates
-  - [china] China Banking Corp Says Gilbert U. Dee Resigns As Vice Chairman
-  - [taiwan] TSMC posts record quarterly revenue, highest-ever September sales
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T10:52:42+00:00",
+      "published_utc": "2026-10-08T11:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
