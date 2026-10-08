@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T15:22:43.913478+00:00",
- "collected_at_utc": "2026-10-08T15:22:43.913478+00:00",
+ "generated_at_utc": "2026-10-08T15:32:44.994624+00:00",
+ "collected_at_utc": "2026-10-08T15:32:44.994624+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1232,
-  "china": 789,
+  "china": 790,
   "taiwan": 276,
-  "korea": 703
+  "korea": 702
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T14:38:10+00:00"
+   "newest": "2026-10-08T15:24:12+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T14:19:06+00:00"
+   "newest": "2026-10-08T15:11:57+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T10:45:47+00:00"
+   "newest": "2026-10-08T12:40:49+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T15:21:35+00:00"
+   "newest": "2026-10-08T15:32:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T02:24:43+00:00"
+   "newest": "2026-10-08T08:33:59+00:00"
   }
  ],
  "items": [
@@ -393,6 +393,24 @@
    "live_wire": true,
    "manual": false,
    "id": "b4733aab0dfff48a"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China defends yuan policy as Europe steps up pressure over trade surplus",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMndSd19fTHdFQ01xZEp2Vzh5Zlg2M0g3YjhNTFNlZ3M5eUphc3RzNTAxcTh6LXlKSWpVTDI4dl9OR1VTM1pDZVhLa2dGbEZGMEdIVDNnT1hyRjh5WWRVN0xNcjRKVGdyclhndEF5cEo3V3p5aE9PTkdQWktTN1M2S1hRRFRnZ1F0NmYwWEJrUDBEcUZXYXE1ZFpfVEI4aWZqNnpkYTNJQ1FpZ2NpQ2tJR2c0eGFkeTRkenFpZTZYRmI4R292?oc=5",
+   "published_utc": "2026-10-08T13:19:10+00:00",
+   "title_original": "China defends yuan policy as Europe steps up pressure over trade surplus",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6e3c010d1d8e7639"
   },
   {
    "source_id": "tradingview_live",
@@ -529,6 +547,23 @@
    "live_wire": true,
    "manual": false,
    "id": "336b16b548421052"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Prudential's Japanese unit involved in 5.2 bil. yen fraud",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iSUR4ZkotcmFmS2RLemJFRHdPMVc4Vjl1WE52OXRFZWhZb2hMb25uOWtGUGxkd1IxSjlkMnBwcV9DaXVDRTBuTUh0Sy1udFdTNGJPaWNSa0NMUQ?oc=5",
+   "published_utc": "2026-10-08T12:40:49+00:00",
+   "title_original": "Prudential's Japanese unit involved in 5.2 bil. yen fraud",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0aec8ec5361ac961"
   },
   {
    "source_id": "tradingview_live",
@@ -51913,40 +51948,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2d45637bfacb673e"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Samsung opens Japan AI chip R&D hub for advanced packaging collaboration",
-   "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-opens-japan-ai-chip-r-d-hub-for-advanced-packaging-collaboration",
-   "published_utc": "2026-09-08T17:34:08.601793+00:00",
-   "title_original": "Samsung opens Japan AI chip R&D hub for advanced packaging collaboration",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3830e843013016c1"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Inflation threatens to snap Japan's 7-month streak of real wage growth",
-   "url": "https://asia.nikkei.com/economy/inflation-threatens-to-snap-japan-s-7-month-streak-of-real-wage-growth",
-   "published_utc": "2026-09-08T17:34:08.601793+00:00",
-   "title_original": "Inflation threatens to snap Japan's 7-month streak of real wage growth",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7bc8de7b309dd277"
   },
   {
    "source_id": "manual_ia",

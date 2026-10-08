@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T15:22:43.913478+00:00
+Última coleta: 2026-10-08T15:32:44.994624+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1232
-  🇨🇳 China          789
+  🇨🇳 China          790
   🇹🇼 Taiwan         276
-  🇰🇷 Coreia do Sul  703
+  🇰🇷 Coreia do Sul  702
 
 ## O que já está no feed (não repita)
 
   - [china] Xin Yuan Enterprises Says Ocean Vivo To Make Pre-Conditional Voluntary Cash Offer
   - [taiwan] TSMC Taps GlobalFoundries In $2B AI Chip Deal, Putting GFS Stock On Track To Hit Over 1-Month High
   - [taiwan] Taiwan Semiconductor’s Sales Surged In September
+  - [china] China defends yuan policy as Europe steps up pressure over trade surplus
   - [china] China defende política do iuan enquanto Europa intensifica pressão sobre superávit comercial
   - [taiwan] TSMC Sales Soar 50%. The Stock Is Falling Anyway
   - [taiwan] GlobalFoundries will manufacture essential component for AI chips for TSMC in US$2 billion deal
@@ -28,6 +29,7 @@ Total: 3000 manchetes
   - [taiwan] September exports hit record monthly high, extend growth to 35 months
   - [taiwan] GlobalFoundries will manufacture a key AI chip component for TSMC
   - [taiwan] GlobalFoundries to make key AI chip component for TSMC
+  - [japan] Prudential's Japanese unit involved in 5.2 bil. yen fraud
   - [taiwan] GlobalFoundries partners with TSMC to establish US-based production of silicon interposers
   - [korea] New Silkroad Says Unit To Buy 2.67% Stake In I-Aurora For KRW 1,999.99 Million
   - [china] China has no need or intention to weaken yuan for trade edge, central bank says
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Far East Smarter Energy's Units Win Bids, Sign Contracts Worth 1.4 Billion Yuan
   - [korea] S. Korea extends current account surplus in Aug. amid solid exports
   - [taiwan] TSMC achieves record revenue in the 3rd quarter and exceeds market forecasts
-  - [japan] BREAKING NEWS: BOJ upgrades economic view of 2 regions on strong AI demand
-  - [japan] Yen market price falls slightly; yen sells due to inflation concerns
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T15:22:44+00:00",
+      "published_utc": "2026-10-08T15:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
