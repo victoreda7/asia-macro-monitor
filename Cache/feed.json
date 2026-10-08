@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-08T22:21:51.330920+00:00",
- "collected_at_utc": "2026-10-08T22:21:51.330920+00:00",
+ "generated_at_utc": "2026-10-08T22:22:43.111325+00:00",
+ "collected_at_utc": "2026-10-08T22:22:43.111325+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1220,
+  "japan": 1219,
   "china": 797,
   "taiwan": 281,
-  "korea": 702
+  "korea": 703
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 53,
+   "error": "",
+   "newest": "2026-10-08T14:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T16:00:00+00:00"
+   "newest": "2026-10-08T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T22:21:01+00:00"
+   "newest": "2026-10-08T22:21:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T13:54:09+00:00"
+   "newest": "2026-10-08T16:57:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T08:33:59+00:00"
+   "newest": "2026-10-08T16:44:23+00:00"
   }
  ],
  "items": [
@@ -515,6 +515,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4d607afacb29ca27"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "중소기업투데이",
+   "title_en": "October “Korea-US base interest rate ‘freezes’, stock market range strengthens”",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92b2lEcW16NnViOWhFV3RqY1U2QURfb0ZoLUo5TFFZQmJOT2hqQ29idHlTRE1wLUlGY3luZVZPaVA5bWc3dWFpVEVNVWowRGJRZURXXzRmcl9IN0I0X0pSQTQtWVo0QVFK0gFsQVVfeXFMUDBrc0IzZWhHemtFcjFESTdvTFRIZkFnQXJnNUxxRnctemVLelFwRkFjTEF3MVlmaDIyMmdRdEI1YTJ0S3ZWUHpTdWJGLWY2NWtOYlowUEMzM0tHRGMxendPdG9FTk9Ub19zd0FS?oc=5",
+   "published_utc": "2026-10-08T16:44:23+00:00",
+   "title_original": "10월 “한·미 기준금리 ‘동결’, 증시 박스권 강보합”",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "96225b5b81754817"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3567,8 +3584,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -3582,7 +3599,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -17363,7 +17380,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmpwQVpRZG8yTVdkRXlTcW5xS3ZZb3EtSjVPN2dPc1g3YXFTZ09vUlVNR3k5eEVBQk9mZWZhUzlXdE1GSWFOS1c3bWJPSGpubDU3bEJULTFvU05PcGpkMjVENVpsQlk0cjNPZGxob1RpVWotb3gwa091ZURrWTJqVkVvbG5JZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHUnRnQTVQZkREcjlKY3VoWWJhaUxUb29pVnFXaGYxX1U5N3dSSTBILVVWdHNQbHY5Z1FTSjYwckc4WnhhdHNNWHJ4ZmFJN2JiLVpubUgwb21BTlNBWUlrb0htTElxX25TQi1vaENGTVBMVmJobk9pLXZfRQ?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
    "title_original": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
    "region": "china",
@@ -17374,7 +17391,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9725d40adaeb9145"
+   "id": "32aeac54145f756e"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -32920,23 +32937,6 @@
    "id": "008434ebc302f747"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
-   "published_utc": "2026-09-18T15:23:15+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e62f309accc3d17"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Yuan Surges Past 6.7 per Dollar to Three-Year High",
@@ -46022,6 +46022,23 @@
    "id": "414e908396fee4ec"
   },
   {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EVUg2dmdoYllHTTl1b3A5LUpUS3d5dXZNVkJYNlcxOVlOWlhwZkJWaTdNRWNJWWU0SUNyLVFBUG1Mbll4U3VtcGd4eHlNd1pnTkF0MkdkVVpMaDRaWm1sVS1HYUtqQVBHWWNUQkhKTm11eHVGWVYxeENaNC0?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "00e0d68ad177fe2d"
+  },
+  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "Rate outlook: BOJ, Fed poised to hike",
@@ -51925,23 +51942,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c7d2771d123cf1da"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Japan manufacturers’ mood hits near 5-year high on semiconductor demand: Reuters poll",
-   "url": "https://www.investing.com/news/economic-indicators/japan-manufacturers-mood-hits-near-5year-high-on-semiconductor-demand-reuters-poll-4892591",
-   "published_utc": "2026-09-08T23:06:56+00:00",
-   "title_original": "Japan manufacturers’ mood hits near 5-year high on semiconductor demand: Reuters poll",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fc4d9b865ed4cb19"
   },
   {
    "source_id": "manual_ia",

@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T22:21:51.330920+00:00
+Última coleta: 2026-10-08T22:22:43.111325+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1220
+  🇯🇵 Japão          1219
   🇨🇳 China          797
   🇹🇼 Taiwan         281
-  🇰🇷 Coreia do Sul  702
+  🇰🇷 Coreia do Sul  703
 
 ## O que já está no feed (não repita)
 
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [korea] Samsung, SK Hynix record earnings fuel South Korea spending on AI, youth
   - [china] China defends yuan policy as Europe steps up pressure over trade surplus
   - [korea] Cash Cat: CASHCAT begins KRW spot trading on Bithumb - 08 Oct 2026
+  - [korea] October “Korea-US base interest rate ‘freezes’, stock market range strengthens”
   - [korea] Seoul shares down for 3rd day amid inflation worries
   - [korea] Samsung Electronics guides to huge surge in Q3 profits
   - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China PBOC: Daily Yuan FX Turnover Too Big to Manipulate
   - [china] China PBOC: Yuan Undervaluation Claims Are Misconceived
   - [china] China PBOC Says It Doesn't See Yuan as Undervalued
-  - [china] China PBOC Says It Never Engaged in Competitive Devaluation to Boost Exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T22:21:51+00:00",
+      "published_utc": "2026-10-08T22:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
