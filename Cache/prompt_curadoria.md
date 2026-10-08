@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T12:02:44.623866+00:00
+Última coleta: 2026-10-08T12:12:43.728868+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1233
   🇨🇳 China          789
-  🇹🇼 Taiwan         273
-  🇰🇷 Coreia do Sul  705
+  🇹🇼 Taiwan         272
+  🇰🇷 Coreia do Sul  706
 
 ## O que já está no feed (não repita)
 
+  - [korea] New Silkroad Says Unit To Buy 2.67% Stake In I-Aurora For KRW 1,999.99 Million
   - [china] China has no need or intention to weaken yuan for trade edge, central bank says
   - [taiwan] Taiwan Trade Surplus Grows In September
   - [china] China's Central Bank Rejects Claims Yuan Is Undervalued
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] 22nd Asia Pacific Retailers Conference Video Message from Prime Minister Takaichi
   - [korea] Samsung Q3 profit seen surging nearly nine-fold as AI chip demand soars
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
-  - [taiwan] Taiwan's Exports Gained Momentum in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T12:02:44+00:00",
+      "published_utc": "2026-10-08T12:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
