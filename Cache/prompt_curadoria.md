@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T22:22:43.111325+00:00
+Última coleta: 2026-10-08T22:32:55.079181+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1219
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's EV subsidies benefit Tesla more than Honda, Nissan
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] Synopsys Looks To Work With Chinese AI Labs To Speed Up Chip Design, Nikkei Says
   - [china] CXMT, the semiconductor giant with the top Chinese market capitalization, begins mass production of next-gener
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] EU trade chief in talks with China to rebalance 'unsustainable' deficit
   - [china] China PBOC: Daily Yuan FX Turnover Too Big to Manipulate
   - [china] China PBOC: Yuan Undervaluation Claims Are Misconceived
-  - [china] China PBOC Says It Doesn't See Yuan as Undervalued
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T22:22:43+00:00",
+      "published_utc": "2026-10-08T22:32:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
