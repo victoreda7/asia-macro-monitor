@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T12:22:46.352796+00:00
+Última coleta: 2026-10-08T12:32:41.993099+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1233
-  🇨🇳 China          789
-  🇹🇼 Taiwan         272
+  🇨🇳 China          790
+  🇹🇼 Taiwan         271
   🇰🇷 Coreia do Sul  706
 
 ## O que já está no feed (não repita)
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [korea] Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue
   - [japan] PM Takaichi rejects "reflationary" label for her economic policies
   - [japan] Prime Minister: “Funding sources for consumption tax reduction will be considered throughout budget formulatio
+  - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
   - [china] EU trade chief in talks with China to rebalance 'unsustainable' deficit
   - [china] China PBOC: Daily Yuan FX Turnover Too Big to Manipulate
   - [china] China PBOC: Yuan Undervaluation Claims Are Misconceived
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics opened the era of 100 trillion won in quarterly operating profit, but its stock
   - [japan] 22nd Asia Pacific Retailers Conference Video Message from Prime Minister Takaichi
   - [korea] Samsung Q3 profit seen surging nearly nine-fold as AI chip demand soars
-  - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T12:22:46+00:00",
+      "published_utc": "2026-10-08T12:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
