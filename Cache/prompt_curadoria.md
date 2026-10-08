@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T02:42:46.034372+00:00
+Última coleta: 2026-10-08T02:51:37.955126+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1248
+  🇯🇵 Japão          1246
   🇨🇳 China          780
-  🇹🇼 Taiwan         270
-  🇰🇷 Coreia do Sul  702
+  🇹🇼 Taiwan         271
+  🇰🇷 Coreia do Sul  703
 
 ## O que já está no feed (não repita)
 
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 8 was zero
+  - [taiwan] TSMC Could Deliver Over 40% Revenue Growth into 2027 — Market Talk
+  - [korea] Seoul shares extend losses late Thurs. morning amid inflation worries
   - [japan] "A tremendous shock and blow"...The risk of Trump's "diesel oil export ban" smoldering ahead of the midterm el
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [korea] Samsung, SK hynix face investor test as buybacks wind down
@@ -48,15 +50,13 @@ Total: 3000 manchetes
   - [korea] Seoul shares turn lower after opening up amid inflation worries
   - [korea] (LEAD) Seoul shares turn lower after opening up amid inflation worries
   - [china] Securities Star morning news summary on October 8: The central bank will carry out a 1.2 trillion yuan buyout 
+  - [korea] Corporate surplus funds overtake households amid chip boom
   - [korea] S. Korea extends current account surplus in Aug. amid solid exports
   - [korea] Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom
   - [china] The central bank launched a trillion-dollar buyout reverse repurchase, and the Dark Side of the Moon completed
   - [korea] South Korean Won Hits 4-week High
   - [china] We’ve already known about the financial news丨The central bank’s 1.2 trillion reverse repurchase is launched to
   - [korea] Key facts: Samsung (005930) HBM4 Deal; Foundry Talks; Fab Woes
-  - [korea] Key facts: AMD Praises SK hynix (000660) HBM4; ADR Falls 2.8%
-  - [japan] Japan Current Account Surplus Above Forecasts
-  - [japan] BREAKING NEWS: Japan logs current account surplus of 4.06 trillion yen in August
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T02:42:46+00:00",
+      "published_utc": "2026-10-08T02:51:38+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
