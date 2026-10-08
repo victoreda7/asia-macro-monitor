@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T00:22:44.860589+00:00
+Última coleta: 2026-10-08T00:32:46.358901+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1256
-  🇨🇳 China          782
+  🇯🇵 Japão          1255
+  🇨🇳 China          783
   🇹🇼 Taiwan         268
   🇰🇷 Coreia do Sul  694
 
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [korea] S. Korea extends current account surplus in Aug. amid solid exports
   - [korea] Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom
+  - [china] We’ve already known about the financial news丨The central bank’s 1.2 trillion reverse repurchase is launched to
   - [korea] Key facts: Samsung (005930) HBM4 Deal; Foundry Talks; Fab Woes
   - [korea] Key facts: AMD Praises SK hynix (000660) HBM4; ADR Falls 2.8%
   - [japan] Japan Current Account Surplus Above Forecasts
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China rejects EU request for voluntary hybrid car export curbs, FT reports
   - [china] China slaps down EU request for voluntary curbs on hybrid car exports
   - [japan] Japan Pushes Local 5G Manufacturing, Digital Infrastructure In India
-  - [korea] Samsung’s HBM prices tipped to more than double in 2027
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T00:22:45+00:00",
+      "published_utc": "2026-10-08T00:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
