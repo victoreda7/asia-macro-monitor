@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T10:12:48.837445+00:00
+Última coleta: 2026-10-08T10:19:02.275940+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1234
-  🇨🇳 China          782
+  🇨🇳 China          783
   🇹🇼 Taiwan         276
-  🇰🇷 Coreia do Sul  708
+  🇰🇷 Coreia do Sul  707
 
 ## O que já está no feed (não repita)
 
+  - [china] India launches subsidy probe on Chinese insoluble sulphur imports
   - [japan] Prime Minister: “Funding sources for consumption tax reduction will be considered throughout budget formulatio
   - [taiwan] TSMC Sales Are a Big Win for the AI Trade. Why AMD and Other Chip Stocks Are Falling Anyway. — Barrons.com
   - [china] China has no need or intention to weaken yuan for trade edge, central bank says
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Table: Taiwan Semiconductor Mfg Sep Rev NT$511.86B Vs NT$330.98B
   - [japan] "With the weak yen and rising prices..." Family trip to Hawaii → Save money on food Cocorico Endo's wife confe
   - [china] Parties name 16 committee conveners for new Legislative Yuan session
-  - [japan] Bank of Japan Sakura Report raises economic outlook for Tohoku and Shikoku; companies also believe that AI-rel
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T10:12:49+00:00",
+      "published_utc": "2026-10-08T10:19:02+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

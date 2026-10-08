@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T10:12:48.837445+00:00",
- "collected_at_utc": "2026-10-08T10:12:48.837445+00:00",
+ "generated_at_utc": "2026-10-08T10:19:02.275940+00:00",
+ "collected_at_utc": "2026-10-08T10:19:02.275940+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1234,
-  "china": 782,
+  "china": 783,
   "taiwan": 276,
-  "korea": 708
+  "korea": 707
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T09:44:56+00:00"
+   "newest": "2026-10-08T10:14:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T09:36:50+00:00"
+   "newest": "2026-10-08T10:12:44+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T18:59:53+09:00"
+   "newest": "2026-10-08T19:17:02+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 19,
+   "count": 17,
    "error": "",
    "newest": "2026-10-08T08:34:16+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T10:11:41+00:00"
+   "newest": "2026-10-08T10:18:28+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T04:50:52+00:00"
+   "newest": "2026-10-08T07:56:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Business Line",
+   "title_en": "India launches subsidy probe on Chinese insoluble sulphur imports",
+   "url": "https://www.tradingview.com/news/moodys:94240fdca5143:0-india-launches-subsidy-probe-on-chinese-insoluble-sulphur-imports/",
+   "published_utc": "2026-10-08T10:12:08+00:00",
+   "title_original": "India launches subsidy probe on Chinese insoluble sulphur imports",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c27f3c444a5984ad"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -744,7 +762,7 @@
    "source_name": "NHK 政治",
    "title_en": "Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inheritance Investment",
    "url": "https://news.web.nhk/newsweb/na/nd-20261008de56280",
-   "published_utc": "2026-10-08T08:24:40+00:00",
+   "published_utc": "2026-10-08T08:24:00+00:00",
    "title_original": "首相“消費税減税 社会保障財源影響与えず” 簗農相続投の考え",
    "region": "japan",
    "topics": [
@@ -1329,23 +1347,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c075786a656d6e7f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Samsung Electronics Projects Surge In Q3 Operating Income, Sales On AI Demand",
-   "url": "https://www.tradingview.com/news/dpa_afx:25ca3ebf1f978:0-samsung-electronics-projects-surge-in-q3-operating-income-sales-on-ai-demand/",
-   "published_utc": "2026-10-08T05:06:23+00:00",
-   "title_original": "Samsung Electronics Projects Surge In Q3 Operating Income, Sales On AI Demand",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "25b7cb605d3324a0"
   },
   {
    "source_id": "nhk_economy",
@@ -3210,8 +3211,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -3225,7 +3226,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -32689,7 +32690,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
+   "source_name": "Focus Taiwan - CNA English News",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T11:36:00+00:00",
