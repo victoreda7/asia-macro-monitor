@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T18:12:43.010063+00:00
-Total: 2998 manchetes
+Última coleta: 2026-10-08T18:22:42.583277+00:00
+Total: 2999 manchetes
 
   🇯🇵 Japão          1232
-  🇨🇳 China          787
+  🇨🇳 China          788
   🇹🇼 Taiwan         275
   🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
+  - [china] Synopsys looks to work with Chinese AI labs to speed up chip design
   - [korea] Samsung, SK Hynix record earnings fuel South Korea spending on AI, youth
   - [korea] Cash Cat: CASHCAT begins KRW spot trading on Bithumb - 08 Oct 2026
   - [korea] Seoul shares down for 3rd day amid inflation worries
@@ -56,7 +57,6 @@ Total: 2998 manchetes
   - [taiwan] TSMC Sales Are a Big Win for the AI Trade. Why AMD and Other Chip Stocks Are Falling Anyway. — Barrons.com
   - [korea] Seoul shares turn lower after opening up amid inflation worries
   - [taiwan] TSMC Sales Are a Good Sign for the AI Trade. Tech Stocks Are Falling Anyway. — Barrons.com
-  - [taiwan] Taiwan September exports hit fresh monthly record on AI demand, US leads
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2998 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T18:12:43+00:00",
+      "published_utc": "2026-10-08T18:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
