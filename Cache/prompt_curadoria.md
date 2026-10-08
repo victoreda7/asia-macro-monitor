@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T17:33:25.151457+00:00
-Total: 3000 manchetes
+Última coleta: 2026-10-08T17:42:48.593817+00:00
+Total: 2999 manchetes
 
   🇯🇵 Japão          1232
-  🇨🇳 China          789
+  🇨🇳 China          788
   🇹🇼 Taiwan         275
   🇰🇷 Coreia do Sul  704
 
@@ -24,7 +24,6 @@ Total: 3000 manchetes
   - [china] Xin Yuan Enterprises Says Ocean Vivo To Make Pre-Conditional Voluntary Cash Offer
   - [taiwan] TSMC Taps GlobalFoundries In $2B AI Chip Deal, Putting GFS Stock On Track To Hit Over 1-Month High
   - [taiwan] Taiwan Semiconductor’s Sales Surged In September
-  - [china] China defends yuan policy as Europe steps up pressure over trade surplus
   - [china] China defende política do iuan enquanto Europa intensifica pressão sobre superávit comercial
   - [taiwan] TSMC Sales Soar 50%. The Stock Is Falling Anyway
   - [taiwan] GlobalFoundries will manufacture essential component for AI chips for TSMC in US$2 billion deal
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [korea] Seoul shares turn lower after opening up amid inflation worries
   - [taiwan] TSMC Sales Are a Good Sign for the AI Trade. Tech Stocks Are Falling Anyway. — Barrons.com
   - [taiwan] Taiwan September exports hit fresh monthly record on AI demand, US leads
+  - [china] Far East Smarter Energy's Units Win Bids, Sign Contracts Worth 1.4 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T17:33:25+00:00",
+      "published_utc": "2026-10-08T17:42:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
