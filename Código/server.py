@@ -7,7 +7,7 @@ Painel local do Asia Macro News Monitor.
     python3 server.py --no-open    não abre o browser
 
 Serve a pasta do projeto e expõe duas rotas POST:
-  /api/asia-news-refresh        roda o fetcher e devolve {ok, generated_at_utc, count}
+  /api/asia-news-refresh        pede coleta nova ao GitHub (ou raspa local) e devolve {ok, generated_at_utc, count}
   /api/asia-news-manual-prompt  devolve {ok, prompt} para a curadoria por IA
 
 Também roda o laço de coleta automática numa thread de fundo: a cada 5 minutos
@@ -233,6 +233,113 @@ def _atualizar(timeout: int = FETCH_TIMEOUT) -> tuple[bool, str]:
     return _rodar_fetcher(timeout)
 
 
+# ---- "Atualizar agora": pedir uma coleta nova, não só puxar a última ----
+#
+# Até 08/10/2026 o botão chamava _atualizar(), que só faz git pull: se a
+# última coleta do GitHub tinha menos de 25 min, nada era raspado e o clique
+# não mudava nada. Agora o botão faz o mesmo que o do painel web — dispara o
+# workflow no GitHub Actions, espera a run terminar e puxa o resultado. Sem
+# token ou sem GitHub, raspa aqui mesmo.
+WORKFLOW_ARQ = "collect.yml"
+MANUAL_ESPERA = 300   # segundos esperando a run do GitHub terminar
+MANUAL_POLL = 8
+
+
+def _token_github() -> str:
+    """GITHUB_TOKEN do .env.local (gitignored). Vazio se não houver."""
+    try:
+        for linha in (ROOT / ".env.local").read_text("utf-8").splitlines():
+            linha = linha.strip()
+            if linha.startswith("GITHUB_TOKEN="):
+                return linha.split("=", 1)[1].strip().strip('"').strip("'")
+    except OSError:
+        pass
+    return ""
+
+
+def _repo_github() -> str:
+    """'dono/repo' a partir do remoto origin. Vazio se não der."""
+    try:
+        proc = subprocess.run(["git", "remote", "get-url", "origin"], cwd=str(ROOT),
+                              capture_output=True, text=True, timeout=10)
+    except Exception:
+        return ""
+    url = (proc.stdout or "").strip()
+    for prefixo in ("https://github.com/", "git@github.com:"):
+        if url.startswith(prefixo):
+            resto = url[len(prefixo):]
+            return resto[:-4] if resto.endswith(".git") else resto
+    return ""
+
+
+def _api_github(metodo: str, caminho: str, token: str, corpo: dict | None = None):
+    import urllib.request
+    dados = json.dumps(corpo).encode() if corpo is not None else None
+    req = urllib.request.Request(
+        "https://api.github.com" + caminho, data=dados, method=metodo,
+        headers={"Authorization": f"Bearer {token}",
+                 "Accept": "application/vnd.github+json",
+                 "X-GitHub-Api-Version": "2022-11-28",
+                 "User-Agent": "asia-macro-monitor-local"})
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        txt = resp.read().decode("utf-8") or "{}"
+        return resp.status, json.loads(txt)
+
+
+def _coleta_github(token: str, repo: str) -> tuple[bool | None, str]:
+    """Dispara o workflow e espera ele terminar.
+
+    (True, msg) run concluída com sucesso; (False, msg) run falhou ou a
+    espera estourou; (None, msg) nem deu para disparar (sem rede, token)."""
+    inicio = datetime.now(timezone.utc).replace(microsecond=0)
+    marca = (inicio.timestamp() - 5)
+    try:
+        _api_github("POST", f"/repos/{repo}/actions/workflows/{WORKFLOW_ARQ}/dispatches",
+                    token, {"ref": "main"})
+    except Exception as exc:
+        return None, f"não consegui disparar no GitHub ({type(exc).__name__}: {exc})"
+
+    desde = datetime.fromtimestamp(marca, timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    caminho = (f"/repos/{repo}/actions/workflows/{WORKFLOW_ARQ}/runs"
+               f"?event=workflow_dispatch&per_page=10&created=%3E%3D{desde}")
+    t0 = time.time()
+    while time.time() - t0 < MANUAL_ESPERA:
+        time.sleep(MANUAL_POLL)
+        try:
+            _, dados = _api_github("GET", caminho, token)
+        except Exception:
+            continue
+        runs = dados.get("workflow_runs") or []
+        # A mais antiga criada depois do clique é a nossa (o cron-job.org
+        # também dispara; se a dele terminar primeiro, serve do mesmo jeito).
+        prontas = [r for r in runs if r.get("status") == "completed"]
+        if any(r.get("conclusion") == "success" for r in prontas):
+            return True, f"coleta nova no GitHub em {int(time.time() - t0)}s"
+        if prontas and len(prontas) == len(runs):
+            return False, f"run do GitHub terminou com '{prontas[0].get('conclusion')}'"
+    return False, f"GitHub não terminou em {MANUAL_ESPERA}s"
+
+
+def _atualizar_agora(timeout: int = FETCH_TIMEOUT) -> tuple[bool, str]:
+    """O que o botão "Atualizar agora" faz: uma varredura nova de verdade."""
+    token, repo = _token_github(), _repo_github()
+    if token and repo:
+        ok_gh, msg_gh = _coleta_github(token, repo)
+        if ok_gh:
+            ok, msg = _git_pull()
+            if ok:
+                ok_r, msg_r = _renderizar()
+                if not ok_r:
+                    return False, f"pull ok mas falhou ao renderizar: {msg_r}"
+                return True, msg_gh
+            msg_gh = f"{msg_gh}, mas o git pull falhou ({msg})"
+        # GitHub fora, run falhou ou demorou: raspa aqui.
+        ok_l, msg_l = _rodar_fetcher(timeout)
+        return ok_l, f"{msg_l} (coleta local — {msg_gh})"
+    ok_l, msg_l = _rodar_fetcher(timeout)
+    return ok_l, f"{msg_l} (coleta local — sem GITHUB_TOKEN no .env.local)"
+
+
 def _laco_automatico(intervalo: int, parar: threading.Event) -> None:
     """Coleta a cada `intervalo` segundos, para sempre.
 
@@ -336,7 +443,8 @@ class Handler(SimpleHTTPRequestHandler):
                         "error": "coleta automática em andamento, tente em instantes"}, 409)
             return
         try:
-            ok, msg = _atualizar()
+            ok, msg = _atualizar_agora()
+            print(f"  [{datetime.now():%H:%M:%S}] atualizar agora: {msg}", flush=True)
             if not ok:
                 self._json({"ok": False, "error": msg}, 500)
                 return
