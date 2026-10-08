@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T04:52:43.855776+00:00
+Última coleta: 2026-10-08T05:02:44.033603+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1239
+  🇯🇵 Japão          1238
   🇨🇳 China          784
   🇹🇼 Taiwan         268
-  🇰🇷 Coreia do Sul  709
+  🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [korea] Pons: Spot trading opens on Upbit in KRW, BTC, and USDT markets - 08 Oct 2026
   - [korea] SK Hynix's Solidigm selects Goldman, Morgan Stanley to lead $100B US listing: report
   - [korea] Samsung Electronics Co., Ltd. Stock 12‑Month Price Target Cut to KRW 486160.09, Implies 81% Upside
   - [china] The first day after the holiday! The central bank took action and launched a 1.2 trillion yuan buyout reverse 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched a 606 billion yuan overnight reverse repurchase operation today
   - [korea] South Korea's August Current Account Surplus Hits Second-Highest Level
   - [china] The central bank's reverse repurchase is net withdrawn today..._7x24 News_Sina Finance
-  - [china] The central bank's reverse repurchases net withdrawn 608.5 billion yuan today.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T04:52:44+00:00",
+      "published_utc": "2026-10-08T05:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-08T04:52:43.855776+00:00",
- "collected_at_utc": "2026-10-08T04:52:43.855776+00:00",
+ "generated_at_utc": "2026-10-08T05:02:44.033603+00:00",
+ "collected_at_utc": "2026-10-08T05:02:44.033603+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1239,
+  "japan": 1238,
   "china": 784,
   "taiwan": 268,
-  "korea": 709
+  "korea": 710
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 52,
+   "count": 53,
    "error": "",
-   "newest": "2026-10-08T08:50:00+09:00"
+   "newest": "2026-10-08T14:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T04:51:18+00:00"
+   "newest": "2026-10-08T05:01:50+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T01:50:21+00:00"
+   "newest": "2026-10-07T22:48:38+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T01:14:13+00:00"
+   "newest": "2026-10-08T02:24:43+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "CoinMarketCal",
+   "title_en": "Pons: Spot trading opens on Upbit in KRW, BTC, and USDT markets - 08 Oct 2026",
+   "url": "https://www.tradingview.com/news/coinmarketcal:52e323ac2094b:0-pons-spot-trading-opens-on-upbit-in-krw-btc-and-usdt-markets-08-oct-2026/",
+   "published_utc": "2026-10-08T05:00:14+00:00",
+   "title_original": "Pons: Spot trading opens on Upbit in KRW, BTC, and USDT markets - 08 Oct 2026",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "17a40c7e8e2d6cb9"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -2948,6 +2965,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3d6da692790f8455"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veUVQTXNGcnhNQWVXZFVPV01JT1V4dGdFYVpuakI1ZGlPMFhqM1IzZjVUX1hQN2ZSTDVURjFaUzdvbWg3QWN3QlI2OXBGc2JTaUNNTmhESGE2UQ?oc=5",
+   "published_utc": "2026-10-07T06:38:00+00:00",
+   "title_original": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4ec0cf34a3b73caf"
   },
   {
    "source_id": "investing_live",
@@ -51889,41 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ce77d860c3476f69"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Focus: Rapid appreciation of yen causes carry trade turmoil as hawkish Bank of Japan factors in (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YYjBwSVlYOF9qQ3VQanh0NnZxWGlLZ0w0T3dmRjlYZWtkbjgzc3VhdWF2RUxLSWtrQmpydng2d3Jva0ZyNXh3dU1nMzluSWg3a3p0cWxSajEzZzZfTEN4Z1R1XzkyVVI5Zm10OGlBQ1pNV3hzZXdDMXhjMy1DNTg?oc=5",
-   "published_utc": "2026-09-08T08:03:33+00:00",
-   "title_original": "焦点：円急伸でキャリートレード動揺、タカ派的な日銀の織り込み進む（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d762fdd0d69f7ebd"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "USD/JPY: Fight the Yen at Your Own Risk",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDhlMkFFZnhIUW9nRFVxczJUdEhHb09jdjhkWkJkeC1lLVNwRXFZZWd0Rzg1TEx0RHR6cFU1YjBzN2VZZVRSbkdHQXlRTFk4TjRwNXhXbmgzcWZFSXRkWWNyWjV5blVNWUh5b1NvdDBOLVlTZ2RmYnBSZm1zOUVMaDhYMkc?oc=5",
-   "published_utc": "2026-09-08T07:47:26+00:00",
-   "title_original": "USD/JPY: Fight the Yen at Your Own Risk",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e36981ee013177fe"
   },
   {
    "source_id": "manual_ia",
