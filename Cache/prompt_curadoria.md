@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T09:52:48.004246+00:00
+Última coleta: 2026-10-08T10:02:48.127833+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1233
+  🇯🇵 Japão          1234
   🇨🇳 China          781
   🇹🇼 Taiwan         275
-  🇰🇷 Coreia do Sul  711
+  🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
@@ -35,6 +35,7 @@ Total: 3000 manchetes
   - [korea] Jusung Engineering, a semiconductor deposition equipment company, is showing a steep upward rally. A..
   - [china] A sequel with more volume! The central bank will launch a 1.2 trillion yuan buyout reverse repo
   - [korea] Samsung Electronics opened the era of 100 trillion won in quarterly operating profit, but its stock
+  - [japan] 22nd Asia Pacific Retailers Conference Video Message from Prime Minister Takaichi
   - [korea] Samsung Q3 profit seen surging nearly nine-fold as AI chip demand soars
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
   - [taiwan] Taiwan's Exports Gained Momentum in September
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Table: Yuan Jen Enterprises Sep Rev NT$907.1M Vs NT$602.4M
   - [korea] Seoul stocks down for 3rd day amid inflation worries
   - [japan] BREAKING NEWS: Fast Retailing forecasts 560 bil. yen net profit for year ending next Aug.
-  - [korea] (URGENT) Seoul stocks down for 3rd day amid inflation worries
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T09:52:48+00:00",
+      "published_utc": "2026-10-08T10:02:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
