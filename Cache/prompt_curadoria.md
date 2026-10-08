@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T09:02:46.367928+00:00
+Última coleta: 2026-10-08T09:12:48.385577+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1232
@@ -17,7 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korea extends current account surplus in Aug. amid solid exports
   - [japan] More than 5,000 bankruptcies in the first half of this fiscal year for the second consecutive year, due to the
+  - [taiwan] Taiwan Imports Hit New Record
   - [japan] Street economy in September rises for 5 consecutive months Consumption is strong due to holidays
   - [taiwan] Taiwan Exports Hit Record High
   - [taiwan] Taiwan Posts Largest Trade Surplus on Record
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC's revenue in the third quarter grows 50% compared to the same period last year, exceeding market forecast
   - [japan] Increase in Tohoku, Shikoku Bank of Japan economic judgment, AI demand (Kyodo News)
   - [japan] Bank of Japan raises economic outlook for Tohoku and Shikoku, leaves unchanged for remaining 7 regions = Regio
-  - [japan] BOJ: AI demand may push Japan’s inflation above 2% target, impact policy
-  - [japan] Bank of Japan maintains economic outlook in 7 regions nationwide (Kyodo News)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T09:02:46+00:00",
+      "published_utc": "2026-10-08T09:12:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
