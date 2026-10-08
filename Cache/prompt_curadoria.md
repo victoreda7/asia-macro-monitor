@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T08:12:44.415060+00:00
+Última coleta: 2026-10-08T08:22:46.614399+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1235
+  🇯🇵 Japão          1233
   🇨🇳 China          784
-  🇹🇼 Taiwan         269
+  🇹🇼 Taiwan         271
   🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's Exports Gained Momentum in September
+  - [china] China issues third batch of 2026 export quotas for low-sulfur fuel oil, sources say
   - [taiwan] TSMC's Q3 revenue jumps 50% Y/Y to record NT$1.49T, beating market forecast
+  - [taiwan] TSMC's Q3 revenue jumps 50% Y/Y to record NT$1.49T, beating estimates
   - [china] China Banking Corp Says Gilbert U. Dee Resigns As Vice Chairman
   - [korea] (2nd LD) Seoul shares down for 3rd day amid inflation worries
   - [korea] Seoul shares down for 3rd day amid inflation worries
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Pons: Spot trading opens on Upbit in KRW, BTC, and USDT markets - 08 Oct 2026
   - [korea] Why is SK Hynix stock falling today?
   - [korea] Why is Samsung Electronics stock falling today?
-  - [korea] SK Hynix's Solidigm selects Goldman, Morgan Stanley to lead $100B US listing: report
-  - [korea] Samsung Electronics Co., Ltd. Stock 12‑Month Price Target Cut to KRW 486160.09, Implies 81% Upside
-  - [china] The first day after the holiday! The central bank took action and launched a 1.2 trillion yuan buyout reverse 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T08:12:44+00:00",
+      "published_utc": "2026-10-08T08:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

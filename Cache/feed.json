@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T08:12:44.415060+00:00",
- "collected_at_utc": "2026-10-08T08:12:44.415060+00:00",
+ "generated_at_utc": "2026-10-08T08:22:46.614399+00:00",
+ "collected_at_utc": "2026-10-08T08:22:46.614399+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1235,
+  "japan": 1233,
   "china": 784,
-  "taiwan": 269,
+  "taiwan": 271,
   "korea": 712
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 18,
+   "count": 17,
    "error": "",
    "newest": "2026-10-08T05:08:52+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T08:11:02+00:00"
+   "newest": "2026-10-08T08:20:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T06:27:36+00:00"
+   "newest": "2026-10-08T08:06:53+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Taiwan's Exports Gained Momentum in September",
+   "url": "https://www.tradingview.com/news/DJN_DN20261008001968:0-taiwan-s-exports-gained-momentum-in-september/",
+   "published_utc": "2026-10-08T08:20:00+00:00",
+   "title_original": "Taiwan's Exports Gained Momentum in September",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fb73cfa1c6f4e93f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China issues third batch of 2026 export quotas for low-sulfur fuel oil, sources say",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45U07E:0-china-issues-third-batch-of-2026-export-quotas-for-low-sulfur-fuel-oil-sources-say/",
+   "published_utc": "2026-10-08T08:14:53+00:00",
+   "title_original": "China issues third batch of 2026 export quotas for low-sulfur fuel oil, sources say",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "68e466e3cbe2c1c7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -359,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "7057825cd48434aa"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "TSMC's Q3 revenue jumps 50% Y/Y to record NT$1.49T, beating estimates",
+   "url": "https://www.tradingview.com/news/seekingalpha:2e9e7c353094b:0-tsmc-s-q3-revenue-jumps-50-y-y-to-record-nt-1-49t-beating-estimates/",
+   "published_utc": "2026-10-08T08:03:02+00:00",
+   "title_original": "TSMC's Q3 revenue jumps 50% Y/Y to record NT$1.49T, beating estimates",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b6da4d548f5c5b8b"
   },
   {
    "source_id": "tradingview_live",
@@ -1330,24 +1381,6 @@
    "id": "3b966ed9fc633af3"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Yuan Consolidates as Market Participants Assess PBOC's Yuan Fixing Vs. Dollar — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261007008872:0-yuan-consolidates-as-market-participants-assess-pboc-s-yuan-fixing-vs-dollar-market-talk/",
-   "published_utc": "2026-10-08T02:00:00+00:00",
-   "title_original": "Yuan Consolidates as Market Participants Assess PBOC's Yuan Fixing Vs. Dollar — Market Talk",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "79c42486bcf527bd"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "济南新闻",
    "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation - News",
@@ -1364,40 +1397,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c493e57a0828bd29"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45R0EX:0-tokyo-financial-exchange-launches-new-boj-rate-futures-as-policy-shifts-accelerate/",
-   "published_utc": "2026-10-08T01:45:43+00:00",
-   "title_original": "Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a05734fad9699579"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Tokyo Gas acquires Indonesian LNG developer for island network",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45U032:0-tokyo-gas-acquires-indonesian-lng-developer-for-island-network/",
-   "published_utc": "2026-10-08T01:42:24+00:00",
-   "title_original": "Tokyo Gas acquires Indonesian LNG developer for island network",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d43ed39820b1cabd"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8086,7 +8085,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "www.ebn.co.kr",
+   "source_name": "ebn.co.kr",
    "title_en": "The Bank of Korea's final interest rate is 3.50%... Bond market tense until November Monetary Policy Committee meeting",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GcDZqRDN1WjdBZ2RxZkdNQXBuZXZlcW13TEZQcXlFdWtONVJlRm1zZHlzZTNRd2ZkcDdIQUhOeWozVVk1dl9BSHdBaUtRSUZ1X29yOXRodDh3M2p4UFFCZEo1YU5SdFFn?oc=5",
    "published_utc": "2026-10-02T21:00:00+00:00",
