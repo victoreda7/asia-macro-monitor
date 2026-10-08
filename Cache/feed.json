@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T00:52:45.674163+00:00",
- "collected_at_utc": "2026-10-08T00:52:45.674163+00:00",
+ "generated_at_utc": "2026-10-08T01:02:44.772025+00:00",
+ "collected_at_utc": "2026-10-08T01:02:44.772025+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1252,
-  "china": 783,
+  "china": 782,
   "taiwan": 268,
-  "korea": 697
+  "korea": 698
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T07:06:59+09:00"
+   "newest": "2026-10-08T09:55:10+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-07T22:41:05+00:00"
+   "newest": "2026-10-08T01:00:10+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "Beyond the summit: how US-China relations could still unravel",
+   "url": "https://www.scmp.com/opinion/china-opinion/article/3369893/beyond-summit-how-us-china-relations-could-still-unravel?utm_source=rss_feed",
+   "published_utc": "2026-10-08T01:00:10+00:00",
+   "title_original": "Beyond the summit: how US-China relations could still unravel",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3c04858c701c6d9b"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "August current balance surplus of 4,062 billion yen due to increased dividends from overseas, etc.",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56259",
+   "published_utc": "2026-10-08T00:55:10+00:00",
+   "title_original": "8月経常収支 4兆620億円の黒字 海外からの配当増加などで",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c1337f5c93422569"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -547,6 +582,23 @@
    "live_wire": false,
    "manual": false,
    "id": "20e11f9bf145011e"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "Samsung profit surges ninefold to $80bn on AI chip demand",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkdBN3lQTkJTdW4yZWNHenpWcERwUUViQl9qUUVqemJFb28yN3dEUnhMSVBoaHNKbGRaX0sxaFdMS3cyR282WmkwU21BN3FsZ3dLWGdJVnhsSnd3c1hFYVlNRVB5WFNQUHQyYWRLNGdwdmFHR2lHMkQ1c0tSX3AyUFBzcm8?oc=5",
+   "published_utc": "2026-10-07T23:30:24+00:00",
+   "title_original": "Samsung profit surges ninefold to $80bn on AI chip demand",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0353eafef77a6f22"
   },
   {
    "source_id": "tradingview_live",
@@ -1560,8 +1612,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -1575,7 +1627,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -51872,57 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1285fd50791eeb08"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "Huawei drives China’s push to make its own advanced chips",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFNTc3V3akREbVlsb2N3VmJMcFY1ZUtKZXlWc28zMnFIcmE3M0R1X0gtMnl4bXZIX2pPX2YtLS1ZbDZsdkxPYTM0MVpyOTc0SlJtd2x3YUgydHNocDBQdnBoWkZsb0Q5QnhCX2tEaVdwMDZYZFl0VXZKWl9DNm56aHU5QV8?oc=5",
-   "published_utc": "2026-09-08T02:57:46+00:00",
-   "title_original": "Huawei drives China’s push to make its own advanced chips",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e650395c2bd6b500"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
-   "title_en": "China’s export machine strengthens in August as trade imbalance concerns mount",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYkRta3ZWcEJmV1pyUmRiSzBBOUJYa2lMeV9CVnFNYnFrOXBzeXhvNEItdjNzUEZCSHE3enZHVm1rUWhFSC01RGJqWWxlSk1iTzBTWFdqakNObXBUQzNxU05KejZfNFVrdVFFU1JOeldHOFhTUWlRd0lnOGtBbnlSZVZSUjFlQ3FTQ042T2VWdnhyNVR4UUdSNXg2QVNJYkRNcUtzVWVZZml1MjZKOVUtMjI0RFhpRmd5bEwwOEl2bGZIWi1UZ3VPaWVMT2k4VUJLb1R2VHFhTU81SFZLcUZTaUV0b9IB4wFBVV95cUxQUGg4WHJNanRHQWM3X3VmaDRoQ2xXWElEZXg5VkdpWmlWQVZIaEtxVTNrcnh0dFhXOTJaMUhkdC1sWlNhbVJiMnVNRDRFdVV3TXpkQUEteWVLazlYMTlLek1VTGhDQk40SmRTZ05Ra05nX1FMRzlXWDBKZ0c0NnFqZU1sM2VQbUdfcTZBX3E0Mk1NUnRhY3JxMzduUmY0ZWs0eF9YNGJCcE5uc2tIdV9OM2N1WkN2WFRPbzdFQzFNTVRlTUtfUHBzd2FveU1BQmpQTkh1eDNmVkRybjYtWWNHaF9Idw?oc=5",
-   "published_utc": "2026-09-08T02:41:09+00:00",
-   "title_original": "China’s export machine strengthens in August as trade imbalance concerns mount",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "57a267a1b41a3c68"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Gold rises as yen surge weakens dollar; oil and Fed bets cap gains",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcDNScGtQWm9LYWNVWkJHV3gzRnNXcXZHNDgxY1FtU1F6b1ZXZlVIN0swTi01RTNHc0pVczFRelAwSXU4UEVrUVY2a0tlTGY2LTJBVHRqUHRFT0J3alVwNFRRcXZPbU5yVWFTR3MzNTRfTC0zZXpaeTZfYXNmZGt0Uk9xaEZ6Z3JEbFVLOGx3aTkzSjE0c2JvSVczVDBXNVRwUHNWd2EwUFRRa1BIajJkTTFOaW5rZUhOS3UwaEp3?oc=5",
-   "published_utc": "2026-09-08T02:35:45+00:00",
-   "title_original": "Gold rises as yen surge weakens dollar; oil and Fed bets cap gains",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "08dc355009076287"
   },
   {
    "source_id": "manual_ia",
