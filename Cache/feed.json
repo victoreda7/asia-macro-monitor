@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-08T06:12:46.350385+00:00",
- "collected_at_utc": "2026-10-08T06:12:46.350385+00:00",
+ "generated_at_utc": "2026-10-08T06:22:47.082833+00:00",
+ "collected_at_utc": "2026-10-08T06:22:47.082833+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 270,
   "korea": 711
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T05:44:58+00:00"
+   "newest": "2026-10-08T06:18:54+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T05:42:21+00:00"
+   "newest": "2026-10-08T06:13:13+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-08T14:52:15+00:00"
+   "newest": "2026-10-08T15:14:58+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T06:12:00+00:00"
+   "newest": "2026-10-08T06:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T05:06:35+00:00"
+   "newest": "2026-10-08T05:29:07+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -345,6 +345,40 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "TSMC's third-quarter revenue surges 50%, rides on AI wave to beat market forecast",
+   "url": "https://www.tradingview.com/news/cnbctv:46f9caa05094b:0/",
+   "published_utc": "2026-10-08T06:19:08+00:00",
+   "title_original": "TSMC's third-quarter revenue surges 50%, rides on AI wave to beat market forecast",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3146edc7d0c36de3"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "TSMC’s third-quarter revenue surges to record, beating market forecast",
+   "url": "https://www.investing.com/news/stock-market-news/tsmcs-thirdquarter-revenue-surges-50-yy-beating-market-forecast-4937913",
+   "published_utc": "2026-10-08T06:18:54+00:00",
+   "title_original": "TSMC’s third-quarter revenue surges to record, beating market forecast",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "17f7cecb3dedb524"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Bank of Japan Branch Managers Expect Price Pressures to Broaden",
    "url": "https://www.tradingview.com/news/DJN_DN20261008001017:0-bank-of-japan-branch-managers-expect-price-pressures-to-broaden/",
@@ -376,40 +410,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ec7aa7bcf2ab64d4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "TSMC's third-quarter revenue surges to record, beating market forecast",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45U0AF:0-tsmc-s-third-quarter-revenue-surges-to-record-beating-market-forecast/",
-   "published_utc": "2026-10-08T06:08:46+00:00",
-   "title_original": "TSMC's third-quarter revenue surges to record, beating market forecast",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "45374ed116987c48"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "TSMC’s third-quarter revenue surges 50% y/y, beating market forecast",
-   "url": "https://www.investing.com/news/stock-market-news/tsmcs-thirdquarter-revenue-surges-50-yy-beating-market-forecast-4937913",
-   "published_utc": "2026-10-08T05:42:36+00:00",
-   "title_original": "TSMC’s third-quarter revenue surges 50% y/y, beating market forecast",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "99210a33df5febb2"
   },
   {
    "source_id": "investing_econ",
@@ -445,6 +445,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3c0f8113a26a0381"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Increase in Tohoku, Shikoku Bank of Japan economic judgment, AI demand (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxakUwQzloSGt3MkNrV1lmVklFelc5dG83U1M2VkFEaDRwd1pQbnVaWGR4elNRUU5uME5mM0dUejRBUURIVXQ5UWRETjZuSHIyeUc1WkJqNjFHa2tMZ2U0alNPdldqS3VJdGNaVlU3XzJPWlFQVE1CYXBTZzlOQ2M?oc=5",
+   "published_utc": "2026-10-08T05:29:07+00:00",
+   "title_original": "東北、四国で引き上げ 日銀景気判断、AI需要（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "35a3be17d00e827f"
   },
   {
    "source_id": "tradingview_live",
@@ -2791,8 +2809,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -2806,7 +2824,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -51909,23 +51927,6 @@
    "live_wire": true,
    "manual": false,
    "id": "96c51195c081ca92"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan plans to raise interest rates at this month's meeting (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mVUl0anNEcmhPbDllRTBtd1l1MU12RkFFYU82d1VyZm51WmZ6Z0oyUlc4em9MWE93djBNRC1FbnVPVWltQXNhakpXZWVUT1g0OFFsTWhaT3Z0OXpPLWtrOTVfcGJwdnRaeFhZUTFLYmNwMXB2dExyNWxsdEJhd28?oc=5",
-   "published_utc": "2026-09-08T09:29:59+00:00",
-   "title_original": "日銀、今月会合で利上げ方針（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2fbf7c84e075f630"
   },
   {
    "source_id": "manual_ia",

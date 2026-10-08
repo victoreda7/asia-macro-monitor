@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T06:12:46.350385+00:00
+Última coleta: 2026-10-08T06:22:47.082833+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1239
@@ -17,12 +17,13 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC's third-quarter revenue surges 50%, rides on AI wave to beat market forecast
+  - [taiwan] TSMC’s third-quarter revenue surges to record, beating market forecast
   - [japan] Bank of Japan Branch Managers Expect Price Pressures to Broaden
   - [taiwan] TSMC's Q3 Revenue Hits a Record, Beating Market Forecasts
-  - [taiwan] TSMC's third-quarter revenue surges to record, beating market forecast
-  - [taiwan] TSMC’s third-quarter revenue surges 50% y/y, beating market forecast
   - [japan] Bank of Japan sees broadening inflationary pressure
   - [taiwan] TSMC's revenue in the third quarter grows 50% compared to the same period last year, exceeding market forecast
+  - [japan] Increase in Tohoku, Shikoku Bank of Japan economic judgment, AI demand (Kyodo News)
   - [japan] BOJ: AI demand may push Japan’s inflation above 2% target, impact policy
   - [japan] Bank of Japan maintains economic outlook in 7 regions nationwide (Kyodo News)
   - [korea] Samsung Electronics Projects Surge In Q3 Operating Income, Sales On AI Demand
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Yuan Consolidates as Market Participants Assess PBOC's Yuan Fixing Vs. Dollar — Market Talk
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation - News
   - [japan] Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate
-  - [japan] Tokyo Gas acquires Indonesian LNG developer for island network
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T06:12:46+00:00",
+      "published_utc": "2026-10-08T06:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
