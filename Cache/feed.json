@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T09:22:51.565187+00:00",
- "collected_at_utc": "2026-10-08T09:22:51.565187+00:00",
+ "generated_at_utc": "2026-10-08T09:32:45.632695+00:00",
+ "collected_at_utc": "2026-10-08T09:32:45.632695+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1232,
+  "japan": 1233,
   "china": 781,
-  "taiwan": 273,
-  "korea": 714
+  "taiwan": 274,
+  "korea": 712
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T08:47:38+00:00"
+   "newest": "2026-10-08T09:22:51+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T08:48:32+00:00"
+   "newest": "2026-10-08T09:06:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T07:44:09+00:00"
+   "newest": "2026-10-08T09:02:01+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T06:39:00+00:00"
+   "newest": "2026-10-08T09:15:07+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T18:18:22+09:00"
+   "newest": "2026-10-08T18:24:34+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T06:19:00+00:00"
+   "newest": "2026-10-08T05:39:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T03:00:28+00:00"
+   "newest": "2026-10-08T07:01:14+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T09:21:25+00:00"
+   "newest": "2026-10-08T09:30:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T09:06:00+00:00"
+   "newest": "2026-10-08T09:18:02+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T08:41:26+00:00"
+   "newest": "2026-10-08T00:55:06+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Taiwan September exports hit fresh monthly record on AI demand, US leads",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45U07R:0-taiwan-september-exports-hit-fresh-monthly-record-on-ai-demand-us-leads/",
+   "published_utc": "2026-10-08T09:25:39+00:00",
+   "title_original": "Taiwan September exports hit fresh monthly record on AI demand, US leads",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "911637bbdb47271c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Far East Smarter Energy's Units Win Bids, Sign Contracts Worth 1.4 Billion Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45U0O3:0-far-east-smarter-energy-s-units-win-bids-sign-contracts-worth-1-4-billion-yuan/",
+   "published_utc": "2026-10-08T09:21:33+00:00",
+   "title_original": "Far East Smarter Energy's Units Win Bids, Sign Contracts Worth 1.4 Billion Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3d91e297337d629a"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -376,6 +410,23 @@
    "live_wire": true,
    "manual": false,
    "id": "3c08a21b8a0d6f21"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ upgrades economic view of 2 regions on strong AI demand",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hTEItZmtMUGRHNmFESnIzcDQxQ0JLbTVyWEtqRzJJdFQzTXg4VGtFZXJQODE0bGtldFFNbXhuS3hMRTBsbzhsd1BRUU1BeW51UExXRFpVeldOQQ?oc=5",
+   "published_utc": "2026-10-08T09:15:07+00:00",
+   "title_original": "BREAKING NEWS: BOJ upgrades economic view of 2 regions on strong AI demand",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "af9d5f6a6aa6b6e1"
   },
   {
    "source_id": "nhk_economy",
@@ -413,11 +464,28 @@
    "id": "47ed260c1449cc3c"
   },
   {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "BofA sees downside risks for USD/JPY",
+   "url": "https://www.investing.com/news/forex-news/bofa-sees-downside-risks-for-usdjpy-93CH-4938182",
+   "published_utc": "2026-10-08T08:58:55+00:00",
+   "title_original": "BofA sees downside risks for USD/JPY",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c483669fbc7bc162"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "More than 5,000 bankruptcies in the first half of this fiscal year for the second consecutive year, due to the situation in the Middle East and the weak yen",
    "url": "https://news.web.nhk/newsweb/na/nd-20261008de56677",
-   "published_utc": "2026-10-08T08:57:49+00:00",
+   "published_utc": "2026-10-08T08:57:00+00:00",
    "title_original": "今年度上半期の倒産 2年連続5000件超 中東情勢や円安が背景に",
    "region": "japan",
    "topics": [
@@ -452,7 +520,7 @@
    "source_name": "NHK 経済",
    "title_en": "Street economy in September rises for 5 consecutive months Consumption is strong due to holidays",
    "url": "https://news.web.nhk/newsweb/na/nd-20261008de56691",
-   "published_utc": "2026-10-08T08:51:18+00:00",
+   "published_utc": "2026-10-08T08:51:00+00:00",
    "title_original": "9月の街角景気 5か月連続で上昇 連休で消費堅調",
    "region": "japan",
    "topics": [
@@ -1276,41 +1344,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f6a1f0b77eb4caca"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "SK Hynix's Solidigm selects Goldman, Morgan Stanley to lead $100B US listing: report",
-   "url": "https://www.tradingview.com/news/seekingalpha:b26a4e644094b:0-sk-hynix-s-solidigm-selects-goldman-morgan-stanley-to-lead-100b-us-listing-report/",
-   "published_utc": "2026-10-08T04:41:29+00:00",
-   "title_original": "SK Hynix's Solidigm selects Goldman, Morgan Stanley to lead $100B US listing: report",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "14355e9b3c4a5572"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Samsung Electronics Co., Ltd. Stock 12‑Month Price Target Cut to KRW 486160.09, Implies 81% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:5b048fd90fd7e:0-samsung-electronics-co-ltd-stock-12-month-price-target-cut-to-krw-486160-09-implies-81-upside/",
-   "published_utc": "2026-10-08T04:20:00+00:00",
-   "title_original": "Samsung Electronics Co., Ltd. Stock 12‑Month Price Target Cut to KRW 486160.09, Implies 81% Upside",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "62bc46710aaa8ae0"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -32620,7 +32653,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
+   "source_name": "Focus Taiwan - CNA English News",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T11:36:00+00:00",
@@ -51901,40 +51934,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7465985f94062909"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Ships Out First Sulfuric Acid Cargo Since Halt on Exports",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3FnbEdweE9lQzlzV1BJajU5QjhrYnoyOTl4Z2JyeW51b0EycFBfUG5ZMkYtREhpMVg4QmljZU4xSXFEMG53ZDRmZ2tHZVpEV3daek85Y284dHRrZW1adWlTYXBCS0JFQWxqVTZVTWxOWEhqRUtvYjRNM3BNSjlBejlzNEdaWnlSaldBa2RaQ04xWGFPVlZkbkcxMVRvOWJNUWJ2UWI4TVdhU1c0UWJybERFa2c?oc=5",
-   "published_utc": "2026-09-08T14:40:13+00:00",
-   "title_original": "China Ships Out First Sulfuric Acid Cargo Since Halt on Exports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3376c7849cf1eb10"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "The yen’s sudden surge upsets the carry trade faithful By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVlYNWlsYVJGRUhRTGI4WnJrVXc0SFZNRWRiLTFKanc2RTkxT3pjSzEzWDZQMDk3NE9vLTVWQjdwTFcwbjhsWi1wQmc3ZE55NXlES0Uya2dGYzVFNG9YNkF4Q2dFcnBnRHdGczFPZkJKNUNreFQyaFJpazlxcTRrRHFrbUlRU0JkeUNvLWRZSnNKU21TNjlRbGg5VFNZT3VMOFJNRnkyQzVDUXl3LVl1Yw?oc=5",
-   "published_utc": "2026-09-08T13:17:53+00:00",
-   "title_original": "The yen’s sudden surge upsets the carry trade faithful By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "981b832edf8a554c"
   },
   {
    "source_id": "manual_ia",

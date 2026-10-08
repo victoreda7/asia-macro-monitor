@@ -7,20 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T09:22:51.565187+00:00
+Última coleta: 2026-10-08T09:32:45.632695+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1232
+  🇯🇵 Japão          1233
   🇨🇳 China          781
-  🇹🇼 Taiwan         273
-  🇰🇷 Coreia do Sul  714
+  🇹🇼 Taiwan         274
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan September exports hit fresh monthly record on AI demand, US leads
+  - [china] Far East Smarter Energy's Units Win Bids, Sign Contracts Worth 1.4 Billion Yuan
   - [korea] S. Korea extends current account surplus in Aug. amid solid exports
   - [taiwan] TSMC achieves record revenue in the 3rd quarter and exceeds market forecasts
+  - [japan] BREAKING NEWS: BOJ upgrades economic view of 2 regions on strong AI demand
   - [japan] Yen market price falls slightly; yen sells due to inflation concerns
   - [china] Table: Chun Yuan Steel Industry Sep Rev NT$1.99B Vs NT$1.99B
+  - [japan] BofA sees downside risks for USD/JPY
   - [japan] More than 5,000 bankruptcies in the first half of this fiscal year for the second consecutive year, due to the
   - [taiwan] Taiwan Imports Hit New Record
   - [japan] Street economy in September rises for 5 consecutive months Consumption is strong due to holidays
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] (URGENT) Seoul stocks down for 3rd day amid inflation worries
   - [china] China's Semiconductor Self-Sufficiency Rate Could Reach 47% in 2030 — Market Talk
   - [korea] Kospi Falls for Third Consecutive Session; Chip Stocks Retreat
-  - [japan] Bank of Japan Branch Managers Expect Price Pressures to Broaden
-  - [korea] Samsung Stock Unimpressed Even After 783% Profit Growth Forecast
-  - [taiwan] TSMC's third-quarter revenue surges 50%, rides on AI wave to beat market forecast
-  - [taiwan] TSMC’s third-quarter revenue surges to record, beating market forecast
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T09:22:51+00:00",
+      "published_utc": "2026-10-08T09:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
