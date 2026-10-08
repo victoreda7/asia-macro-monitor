@@ -7,16 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T01:22:47.004823+00:00
+Última coleta: 2026-10-08T01:32:45.491821+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1252
-  🇨🇳 China          779
+  🇯🇵 Japão          1250
+  🇨🇳 China          781
   🇹🇼 Taiwan         269
   🇰🇷 Coreia do Sul  700
 
 ## O que já está no feed (não repita)
 
+  - [japan] Asian stocks slip as oil, inflation worries and tech selloff weigh heavy; Nikkei down 700 points
+  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
+  - [china] The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation_7x24 news_Sina Finance
+  - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 8 was zero
+  - [china] The central bank's reverse repurchase is net withdrawn today..._7x24 News_Sina Finance
+  - [china] Central Bank of China: Based on the needs of primary dealers in open market business, the volume of 7-day reve
   - [korea] South Korea shares on track for second weekly decline as chipmakers drag
   - [korea] ‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level fr
   - [japan] “Reiwa Loan Hell” faced by Bank of Japan interest rate hike… Shock of 40,000 yen increase in repayments in 202
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix’s Solidigm Is Said to Pick Banks for US IPO Next Year - Bloomberg News
   - [china] Bond market closes | The central bank continues to pour funds into a loosening situation, and the 10-year gove
   - [china] Brazil and China distance themselves from the G20 declaration on industrial overproduction
-  - [china] Zoom CEO Eric Yuan sells $2.27 million in NASDAQ:ZM stock
-  - [japan] NGK President Kobayashi ``Concentrates investment in the semiconductor manufacturing field''...Withdrawal from
-  - [taiwan] Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today's Market — Barrons.com
-  - [japan] Representative question from today in the House of Councilors, debate over consumption tax cut, investigation 
-  - [japan] Ebara's entry into semiconductor equipment was a "historical necessity"; the innovation of CMP equipment honed
-  - [korea] Samsung Electronics to pay chip division special bonus in spring 2027
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T01:22:47+00:00",
+      "published_utc": "2026-10-08T01:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
