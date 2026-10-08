@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T06:02:45.900445+00:00",
- "collected_at_utc": "2026-10-08T06:02:45.900445+00:00",
+ "generated_at_utc": "2026-10-08T06:12:46.350385+00:00",
+ "collected_at_utc": "2026-10-08T06:12:46.350385+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1239,
-  "china": 782,
-  "taiwan": 268,
+  "china": 780,
+  "taiwan": 270,
   "korea": 711
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T05:52:00+00:00"
+   "newest": "2026-10-08T06:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T03:49:47+00:00"
+   "newest": "2026-10-08T05:54:13+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Bank of Japan Branch Managers Expect Price Pressures to Broaden",
+   "url": "https://www.tradingview.com/news/DJN_DN20261008001017:0-bank-of-japan-branch-managers-expect-price-pressures-to-broaden/",
+   "published_utc": "2026-10-08T06:11:00+00:00",
+   "title_original": "Bank of Japan Branch Managers Expect Price Pressures to Broaden",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0b0d0472f2d9f3c1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC's Q3 Revenue Hits a Record, Beating Market Forecasts",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45U057:0/",
+   "published_utc": "2026-10-08T06:09:33+00:00",
+   "title_original": "Receita da TSMC no terceiro trimestre atinge um recorde, superando as previsões do mercado",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "ec7aa7bcf2ab64d4"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC's third-quarter revenue surges to record, beating market forecast",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45U0AF:0-tsmc-s-third-quarter-revenue-surges-to-record-beating-market-forecast/",
+   "published_utc": "2026-10-08T06:08:46+00:00",
+   "title_original": "TSMC's third-quarter revenue surges to record, beating market forecast",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "45374ed116987c48"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -2740,8 +2791,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -2755,7 +2806,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -51875,58 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2fbf7c84e075f630"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "ShareCast",
-   "title_en": "China's trade surplus rises as high-tech shipments surge",
-   "url": "https://www.tradingview.com/news/sharecast:65db04172094b:0-china-s-trade-surplus-rises-as-high-tech-shipments-surge/",
-   "published_utc": "2026-09-08T09:27:41+00:00",
-   "title_original": "China's trade surplus rises as high-tech shipments surge",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "61fc85bdb8f24867"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asian stocks fall as yen surge, oil gains revive Fed rate hike concerns",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUk4cW5hZm5FVE92dzlYaXc1bElCdkNJUjdIalBHV0FwVVVqWVpWTDBNcHNGNmk4Z0lRUmpiQnNYRGV5Z2R1UkpRb0d4NmFRWWV1cGJOZEcxcERpWVRvUmRuT0JLTm9GeHFQNWpVTk5BdGVoc0lJb3dNZjRZTVY2NVFHNzFaaUNSRGlIQlhXYjZ6S2JWNC11UHk0dmZiNEQ4Vmk1N29GcXZOOUR6X2VVckhDcFc2MTJJc2tuQWk1UDJxUQ?oc=5",
-   "published_utc": "2026-09-08T09:21:21+00:00",
-   "title_original": "Asian stocks fall as yen surge, oil gains revive Fed rate hike concerns",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2ea8d69511792ce0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Exports Likely to Stay Strong — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260908001791:0/",
-   "published_utc": "2026-09-08T09:16:00+00:00",
-   "title_original": "China's Exports Likely to Stay Strong — Market Talk",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9aa7a0dafc28a73a"
   },
   {
    "source_id": "manual_ia",
