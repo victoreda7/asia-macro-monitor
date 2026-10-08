@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T07:22:47.369867+00:00
+Última coleta: 2026-10-08T07:32:46.321839+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1237
-  🇨🇳 China          784
+  🇯🇵 Japão          1236
+  🇨🇳 China          785
   🇹🇼 Taiwan         268
   🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares down for 3rd day amid inflation worries
+  - [china] Occl Says Government Initiates Countervailing Duty Investigation On Insoluble Sulphur Imports From China Pr
+  - [korea] Protec Mems Technology Wins 7.29 Billion Won Order From Samsung Electronics
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
   - [korea] South Korea shares log second weekly decline as chipmakers drag
   - [taiwan] Table: Taiwan Semiconductor Mfg Sep Rev NT$511.86B Vs NT$330.98B
   - [japan] "With the weak yen and rising prices..." Family trip to Hawaii → Save money on food Cocorico Endo's wife confe
   - [china] Parties name 16 committee conveners for new Legislative Yuan session
+  - [japan] Bank of Japan Sakura Report raises economic outlook for Tohoku and Shikoku; companies also believe that AI-rel
   - [china] Table: Yuan Jen Enterprises Sep Rev NT$907.1M Vs NT$602.4M
   - [korea] Seoul stocks down for 3rd day amid inflation worries
   - [japan] BREAKING NEWS: Fast Retailing forecasts 560 bil. yen net profit for year ending next Aug.
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
   - [china] Yuan steady despite dollar strength during China's Golden Week holiday
   - [korea] S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls
-  - [japan] Stock prices fall, profit-taking selling in some semiconductor-related stocks
-  - [china] As China and the EU begin crunch trade talks, optimism is in short supply
-  - [japan] Yen Holds Steady After Strong Data
-  - [taiwan] TSMC Could Deliver Over 40% Revenue Growth into 2027 — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T07:22:47+00:00",
+      "published_utc": "2026-10-08T07:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
