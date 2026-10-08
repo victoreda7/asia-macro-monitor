@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T01:42:46.461884+00:00
+Última coleta: 2026-10-08T01:52:45.918665+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1247
-  🇨🇳 China          783
+  🇯🇵 Japão          1248
+  🇨🇳 China          782
   🇹🇼 Taiwan         269
   🇰🇷 Coreia do Sul  701
 
 ## O que já está no feed (não repita)
 
+  - [japan] Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate
+  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
+  - [japan] Tokyo Gas acquires Indonesian LNG developer for island network
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation-News Center
   - [china] CHINA PBOC CONDUCTS CNY606 BLN VIA O/N REVERSE REPO THURS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7367 THURS VS 6.7351
   - [japan] Asian stocks slip as oil, inflation worries and tech selloff weigh heavy; Nikkei down 700 points
   - [china] [The Central Bank will launch a 1.2 trillion yuan buyout reverse repurchase operation] In order to maintain su
-  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [china] The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation_7x24 news_Sina Finance
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 8 was zero
   - [china] The central bank launched a 606 billion yuan overnight reverse repurchase operation today
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Sees 3Q Oper Pft KRW107.400T Vs. KRW12.170T >005930.SE
   - [korea] Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings
   - [korea] Samsung Electronics Sees 3Q Rev KRW195.000T Vs KRW86.060T >005930.SE
-  - [korea] [Breaking] Samsung Electronics Co., Ltd. made more than 100 trillion won in three months, setting a new milest
-  - [korea] Samsung Q3 profit jumps 783% as AI memory boom lifts chip earnings
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T01:42:46+00:00",
+      "published_utc": "2026-10-08T01:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

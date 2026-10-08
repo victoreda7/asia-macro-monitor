@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T01:42:46.461884+00:00",
- "collected_at_utc": "2026-10-08T01:42:46.461884+00:00",
+ "generated_at_utc": "2026-10-08T01:52:45.918665+00:00",
+ "collected_at_utc": "2026-10-08T01:52:45.918665+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1247,
-  "china": 783,
+  "japan": 1248,
+  "china": 782,
   "taiwan": 269,
   "korea": 701
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T01:24:19+00:00"
+   "newest": "2026-10-08T01:42:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-08T09:48:25+00:00"
+   "newest": "2026-10-08T10:51:57+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T09:55:10+09:00"
+   "newest": "2026-10-08T09:55:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-10-08T01:38:56+00:00"
+   "newest": "2026-10-08T01:44:03+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T15:22:13+00:00"
+   "newest": "2026-10-08T00:57:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T23:12:45+00:00"
+   "newest": "2026-10-08T00:57:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T23:33:00+00:00"
+   "newest": "2026-10-08T00:51:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T01:41:00+00:00"
+   "newest": "2026-10-08T01:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45R0EX:0-tokyo-financial-exchange-launches-new-boj-rate-futures-as-policy-shifts-accelerate/",
+   "published_utc": "2026-10-08T01:45:43+00:00",
+   "title_original": "Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a05734fad9699579"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "广州日报新花城",
+   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVNXX0MxdUMxQXJxQW9JM2wzcWxJcG9hdFhJampMRDdDUmowbnd1THdUVlJ2NjZRQUJFUml3TG1aaVphZ09kNU5sUGlrbmhzNlNzT1FBVHdlRmwwWkpnRXEzSklJT3A3Z0hvTkdETVlVUkw2SFB6Q2NEUEJBay02NzNnMF9uOXFGaVE?oc=5",
+   "published_utc": "2026-10-08T01:44:03+00:00",
+   "title_original": "央行将开展12000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b9d62262c24e79fb"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Tokyo Gas acquires Indonesian LNG developer for island network",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45U032:0-tokyo-gas-acquires-indonesian-lng-developer-for-island-network/",
+   "published_utc": "2026-10-08T01:42:24+00:00",
+   "title_original": "Tokyo Gas acquires Indonesian LNG developer for island network",
+   "region": "japan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d43ed39820b1cabd"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "中国宁波网",
@@ -429,24 +481,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fe271a2ba77f1167"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "富途牛牛",
-   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY210dkMwYjJXNE9iNEdHZ282ZFNTaWFPald3T0R5bWgyZ1Q3M3k2MUNZZEMyNEM5VlpQcTZTLTI1eDdIM29mRVhqUEdvOW1JZ0kwak93MUEzbUxmLWdIRFVXTXZNS3c2R0ZYaDZjVGF0RUZIcDBwWlRYVHhBRFc5VkJzUGF0UTZCX05OcVFodzBFS0Vq?oc=5",
-   "published_utc": "2026-10-08T01:27:56+00:00",
-   "title_original": "央行将开展12000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f7369ac79d8af4ff"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -626,7 +660,7 @@
    "source_name": "NHK 経済",
    "title_en": "August current balance surplus of 4,062 billion yen due to increased dividends from overseas, etc.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261008de56259",
-   "published_utc": "2026-10-08T00:55:10+00:00",
+   "published_utc": "2026-10-08T00:55:00+00:00",
    "title_original": "8月経常収支 4兆620億円の黒字 海外からの配当増加などで",
    "region": "japan",
    "topics": [
@@ -1100,6 +1134,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b2c855694123c3ec"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "FirstFT: China rejects EU request for voluntary curbs on hybrid car exports",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzk5cmtYSHRWWnhfUjBDUFRFcnNBM1AwV0pGbG9YVXM5QldRSW1aVXJ0aEZLdGNkTlUwMWFIdWFaN2tiLTJVRWZEcS1JVzkyZ3NRTEpTYUNGdmJ2LTUySzhadVJnUUxibE1MLUZLQ2UzbGx6YnU3NFpCWmpaWTBtSlZad0k?oc=5",
+   "published_utc": "2026-10-07T21:34:04+00:00",
+   "title_original": "FirstFT: China rejects EU request for voluntary curbs on hybrid car exports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ee24d81f53082c61"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1891,8 +1942,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -1906,7 +1957,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -51871,60 +51922,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ef8f90987ebb42ed"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China soybean imports dip in August; full-year seen flat or lower",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N450031:0-china-soybean-imports-dip-in-august-full-year-seen-flat-or-lower/",
-   "published_utc": "2026-09-08T04:22:09+00:00",
-   "title_original": "China soybean imports dip in August; full-year seen flat or lower",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "077b3d4c57e9dd3d"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Topical topic on Yahoo! Comments] \"Japan's prices and international comparison under the weak yen\" \"Gap between local experience and numbers\" - Differences in perceptions regarding soaring prices and weak yen",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zZE9UemNkQkxfNnk2M0haRFNva2tiR013WS1LazhHb2NpSjZ2MlQxVy1Pb0d2bjl3NnZSZmh0Ym1mMkEzaURrbkFZanJZSXdiaG5JZmZZcTREbjlCeGctMGZwcG84TC16cXhJM2p4aWctTmtQQUhwZHZJTC1uM2M?oc=5",
-   "published_utc": "2026-09-08T04:20:14+00:00",
-   "title_original": "【ヤフコメで話題】「円安下の日本の物価と国際比較」「現地体験と数字のギャップ」 - 物価高騰と円安を巡る実感の違い",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a756dea7606f3a19"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's yuan flat despite strong export data as US inflation in focus",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N450039:0-china-s-yuan-flat-despite-strong-export-data-as-us-inflation-in-focus/",
-   "published_utc": "2026-09-08T04:10:57+00:00",
-   "title_original": "China's yuan flat despite strong export data as US inflation in focus",
-   "region": "china",
-   "topics": [
-    "fx",
-    "inflation",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "30334955274abf57"
   },
   {
    "source_id": "manual_ia",
