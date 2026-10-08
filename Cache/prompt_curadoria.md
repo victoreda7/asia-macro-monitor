@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T04:42:45.922403+00:00
+Última coleta: 2026-10-08T04:52:43.855776+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1241
+  🇯🇵 Japão          1239
   🇨🇳 China          784
   🇹🇼 Taiwan         268
-  🇰🇷 Coreia do Sul  707
+  🇰🇷 Coreia do Sul  709
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix's Solidigm selects Goldman, Morgan Stanley to lead $100B US listing: report
   - [korea] Samsung Electronics Co., Ltd. Stock 12‑Month Price Target Cut to KRW 486160.09, Implies 81% Upside
   - [china] The first day after the holiday! The central bank took action and launched a 1.2 trillion yuan buyout reverse 
   - [korea] Why is SK Hynix stock gaining today?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea's August Current Account Surplus Hits Second-Highest Level
   - [china] The central bank's reverse repurchase is net withdrawn today..._7x24 News_Sina Finance
   - [china] The central bank's reverse repurchases net withdrawn 608.5 billion yuan today.
-  - [china] Central Bank of China: Based on the needs of primary dealers in open market business, the volume of 7-day reve
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T04:42:46+00:00",
+      "published_utc": "2026-10-08T04:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
