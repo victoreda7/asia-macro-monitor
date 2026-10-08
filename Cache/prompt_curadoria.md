@@ -7,16 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T10:22:42.554902+00:00
+Última coleta: 2026-10-08T10:32:42.436210+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1234
-  🇨🇳 China          783
-  🇹🇼 Taiwan         276
-  🇰🇷 Coreia do Sul  707
+  🇯🇵 Japão          1232
+  🇨🇳 China          790
+  🇹🇼 Taiwan         273
+  🇰🇷 Coreia do Sul  705
 
 ## O que já está no feed (não repita)
 
+  - [china] EU trade chief in talks with China to rebalance 'unsustainable' deficit
+  - [china] China PBOC: Daily Yuan FX Turnover Too Big to Manipulate
+  - [china] China PBOC: Yuan Undervaluation Claims Are Misconceived
+  - [china] China PBOC Says It Doesn't See Yuan as Undervalued
+  - [china] China PBOC Says It Never Engaged in Competitive Devaluation to Boost Exports
+  - [china] People's Bank of China Says It Doesn't Need to Devalue Yuan to Gain Trade Advantage
+  - [china] China PBOC: Yuan Devaluation Didn't Accelerate Export Share Growth
+  - [china] China PBOC: Past Yuan Appreciation Did Not Hurt Trade
   - [china] India launches subsidy probe on Chinese insoluble sulphur imports
   - [japan] Prime Minister: “Funding sources for consumption tax reduction will be considered throughout budget formulatio
   - [taiwan] TSMC Sales Are a Big Win for the AI Trade. Why AMD and Other Chip Stocks Are Falling Anyway. — Barrons.com
@@ -49,14 +57,6 @@ Total: 3000 manchetes
   - [china] China Banking Corp Says Gilbert U. Dee Resigns As Vice Chairman
   - [taiwan] TSMC posts record quarterly revenue, highest-ever September sales
   - [korea] (2nd LD) Seoul shares down for 3rd day amid inflation worries
-  - [korea] Seoul shares down for 3rd day amid inflation worries
-  - [japan] Consumption tax cut to compensate small and medium-sized farmers
-  - [china] Occl Says Government Initiates Countervailing Duty Investigation On Insoluble Sulphur Imports From China Pr
-  - [korea] Protec Mems Technology Wins 7.29 Billion Won Order From Samsung Electronics
-  - [korea] South Korea shares log second weekly decline as chipmakers drag
-  - [taiwan] Table: Taiwan Semiconductor Mfg Sep Rev NT$511.86B Vs NT$330.98B
-  - [japan] "With the weak yen and rising prices..." Family trip to Hawaii → Save money on food Cocorico Endo's wife confe
-  - [china] Parties name 16 committee conveners for new Legislative Yuan session
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T10:22:42+00:00",
+      "published_utc": "2026-10-08T10:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
