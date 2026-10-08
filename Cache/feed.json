@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-08T01:02:44.772025+00:00",
- "collected_at_utc": "2026-10-08T01:02:44.772025+00:00",
+ "generated_at_utc": "2026-10-08T01:12:43.904362+00:00",
+ "collected_at_utc": "2026-10-08T01:12:43.904362+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1252,
-  "china": 782,
+  "japan": 1253,
+  "china": 781,
   "taiwan": 268,
   "korea": 698
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 52,
-   "error": "",
-   "newest": "2026-10-08T08:50:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T00:48:20+00:00"
+   "newest": "2026-10-08T01:00:35+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T00:52:09+00:00"
+   "newest": "2026-10-08T01:09:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T00:04:13+00:00"
+   "newest": "2026-10-08T01:00:43+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-08T09:30:00+09:00"
+   "newest": "2026-10-08T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "“Reiwa Loan Hell” faced by Bank of Japan interest rate hike… Shock of 40,000 yen increase in repayments in 2027 and 4 urgent measures (FRIDAY)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbk1SZmhkX0VRZXhVa3dDOHluUGVhNlVadEFvX1o5NldFUnozMHk3UGl6c3RUZ2V1VmRPTFFQV3o5ZS1wSC1MWDhZUUVSWlE4YWlYYzN6ZVkxYjFwN05NSWpwSkUwQzdkZjlQaEJmSlcyQl92RHRzdzJsSE9QSVk?oc=5",
+   "published_utc": "2026-10-08T01:00:43+00:00",
+   "title_original": "日銀利上げで直面する「令和のローン地獄」…’27年に返済4万円増の衝撃と急ぐべき4つの対策（FRIDAY）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb3e818d1f3e216d"
+  },
   {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
@@ -1612,8 +1630,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -1627,7 +1645,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -51907,23 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3a4e239dea0f1181"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "Huawei drives China’s push to make advanced chips",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFNTc3V3akREbVlsb2N3VmJMcFY1ZUtKZXlWc28zMnFIcmE3M0R1X0gtMnl4bXZIX2pPX2YtLS1ZbDZsdkxPYTM0MVpyOTc0SlJtd2x3YUgydHNocDBQdnBoWkZsb0Q5QnhCX2tEaVdwMDZYZFl0VXZKWl9DNm56aHU5QV8?oc=5",
-   "published_utc": "2026-09-08T03:00:55+00:00",
-   "title_original": "Huawei drives China’s push to make advanced chips",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1285fd50791eeb08"
   },
   {
    "source_id": "manual_ia",
