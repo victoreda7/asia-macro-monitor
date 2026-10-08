@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T04:32:49.338169+00:00
+Última coleta: 2026-10-08T04:42:45.922403+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1241
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [japan] Stock prices fall, profit-taking selling in some semiconductor-related stocks
   - [china] As China and the EU begin crunch trade talks, optimism is in short supply
   - [japan] Yen Holds Steady After Strong Data
+  - [china] The central bank’s 7-day reverse repurchase operation volume on October 8 was zero
   - [taiwan] TSMC Could Deliver Over 40% Revenue Growth into 2027 — Market Talk
   - [korea] Seoul shares extend losses late Thurs. morning amid inflation worries
   - [japan] PGIM: French Bond Selloff Could Bring Japanese Money Home and Support the Yen
@@ -52,7 +53,6 @@ Total: 3000 manchetes
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 8, 2026 was zero
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 8 was zero
   - [china] The central bank launched a 606 billion yuan overnight reverse repurchase operation today
-  - [china] The central bank’s 7-day reverse repurchase operation volume on October 8 was zero
   - [korea] South Korea's August Current Account Surplus Hits Second-Highest Level
   - [china] The central bank's reverse repurchase is net withdrawn today..._7x24 News_Sina Finance
   - [china] The central bank's reverse repurchases net withdrawn 608.5 billion yuan today.
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T04:32:49+00:00",
+      "published_utc": "2026-10-08T04:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
