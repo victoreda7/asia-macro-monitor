@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T07:02:46.472765+00:00
+Última coleta: 2026-10-08T07:12:47.316304+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1237
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
   - [china] Table: Yuan Jen Enterprises Sep Rev NT$907.1M Vs NT$602.4M
   - [korea] Seoul stocks down for 3rd day amid inflation worries
+  - [japan] BREAKING NEWS: Fast Retailing forecasts 560 bil. yen net profit for year ending next Aug.
   - [korea] (URGENT) Seoul stocks down for 3rd day amid inflation worries
   - [china] China's Semiconductor Self-Sufficiency Rate Could Reach 47% in 2030 — Market Talk
   - [korea] Kospi Falls for Third Consecutive Session; Chip Stocks Retreat
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] As China and the EU begin crunch trade talks, optimism is in short supply
   - [japan] Yen Holds Steady After Strong Data
   - [taiwan] TSMC Could Deliver Over 40% Revenue Growth into 2027 — Market Talk
-  - [korea] Seoul shares extend losses late Thurs. morning amid inflation worries
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T07:02:46+00:00",
+      "published_utc": "2026-10-08T07:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
