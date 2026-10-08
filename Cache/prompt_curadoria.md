@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T20:32:42.736318+00:00
+Última coleta: 2026-10-08T20:42:43.317521+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1221
-  🇨🇳 China          796
-  🇹🇼 Taiwan         279
+  🇨🇳 China          795
+  🇹🇼 Taiwan         280
   🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC's AI Boom Just Got Bigger
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] Sumitomo Bakelite to boost chip encapsulant output in China, Singapore
   - [china] Synopsys plans to explore working with Chinese AI labs on chip design tech: report
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China PBOC Says It Never Engaged in Competitive Devaluation to Boost Exports
   - [china] People's Bank of China Says It Doesn't Need to Devalue Yuan to Gain Trade Advantage
   - [china] China PBOC: Yuan Devaluation Didn't Accelerate Export Share Growth
-  - [china] China PBOC: Past Yuan Appreciation Did Not Hurt Trade
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T20:32:42+00:00",
+      "published_utc": "2026-10-08T20:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
