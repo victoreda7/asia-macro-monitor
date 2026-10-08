@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T08:42:47.027614+00:00
+Última coleta: 2026-10-08T08:52:46.937426+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1231
-  🇨🇳 China          784
+  🇯🇵 Japão          1232
+  🇨🇳 China          783
   🇹🇼 Taiwan         272
   🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
+  - [japan] Street economy in September rises for 5 consecutive months Consumption is strong due to holidays
+  - [china] A sequel with more volume! The central bank will launch a 1.2 trillion yuan buyout reverse repo
   - [korea] Samsung Q3 profit seen surging nearly nine-fold as AI chip demand soars
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
   - [taiwan] Taiwan's Exports Gained Momentum in September
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Projects Surge In Q3 Operating Income, Sales On AI Demand
   - [japan] Bank of Japan upgrades economic view for 2 of 9 regions
   - [japan] Samsung operating profit approximately 8.8 times, new record high due to increased demand for semiconductors
-  - [korea] South Korean Won Rises to 4-Week High
-  - [korea] Pons: Spot trading opens on Upbit in KRW, BTC, and USDT markets - 08 Oct 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T08:42:47+00:00",
+      "published_utc": "2026-10-08T08:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

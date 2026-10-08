@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T08:42:47.027614+00:00",
- "collected_at_utc": "2026-10-08T08:42:47.027614+00:00",
+ "generated_at_utc": "2026-10-08T08:52:46.937426+00:00",
+ "collected_at_utc": "2026-10-08T08:52:46.937426+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1231,
-  "china": 784,
+  "japan": 1232,
+  "china": 783,
   "taiwan": 272,
   "korea": 713
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T08:25:09+00:00"
+   "newest": "2026-10-08T08:47:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T08:19:28+00:00"
+   "newest": "2026-10-08T08:48:32+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T16:08:47+09:00"
+   "newest": "2026-10-08T17:51:18+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 18,
+   "count": 19,
    "error": "",
-   "newest": "2026-10-08T05:08:52+00:00"
+   "newest": "2026-10-08T08:34:16+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T08:05:41+00:00"
+   "newest": "2026-10-08T08:35:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,45 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T03:59:01+00:00"
+   "newest": "2026-10-08T02:24:43+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Street economy in September rises for 5 consecutive months Consumption is strong due to holidays",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56691",
+   "published_utc": "2026-10-08T08:51:18+00:00",
+   "title_original": "9月の街角景気 5か月連続で上昇 連休で消費堅調",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3f2ab0d10e0d5a74"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "A sequel with more volume! The central bank will launch a 1.2 trillion yuan buyout reverse repo",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwWFZKSHRBajJac2VuREtyV2NKTUllelpya1ZzVFRTSWtObGRXQjROX2FodFZaaFl0eVlBUnFyZTg3SDdqT3VwT3NsT1V1MGNTN29fOW9uWDdjajFaekE?oc=5",
+   "published_utc": "2026-10-08T08:34:16+00:00",
+   "title_original": "加量续作！央行将开展12000亿元买断式逆回购",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bac86ccfe267e796"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -3036,8 +3071,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -3051,7 +3086,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -6342,7 +6377,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "부산일보",
    "title_en": "Should I sell stocks and deposit money? Bankers’ deposit interest rate ‘increase rally’",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQU1TcjRXSGhyRUV1ZkhQejVRREpLR3NJdlhQOG9ZWHhpX3BsYklVMU9ZbklpTnNwRk5iNDJMc3NhSFJfdWxXeWJNQWZoclhrZTlDY2gwVTUyaU5hX2M2Ni1rSnROV0NwX0RjT2tfX3ZkUmVWYkE3UFA3UzQ5ckNGU0NFdWJWOV9ibk00bkNlR1BWZ1VrRTFkU2dYYXF2SEptMWRiNFQwb3hIaU5KWDJHaXlKaThQeFNCeXlDUjdsamszQkdUQUYxc1lHQWRWQllacnBFVlQ5dDQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdGFOclJjRHNxb2cwMGNXTXYybmthSm5FMkV4S29pN0FvTFFDNXhwTVNXbjdPbldRQkNvM2lodC00LWJRemhDSk1iUG5kT0dkQTRxX0pUTWVCNHlreFktVmNFdkVFT05yRHZYbnVUa0hqbm1ta285SQ?oc=5",
    "published_utc": "2026-10-05T08:14:27+00:00",
    "title_original": "주식 팔고 예금할까… 은행가 예금금리 ‘인상 랠리’",
    "region": "korea",
@@ -6353,7 +6388,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a80eca6e5434091"
+   "id": "a4bb6f4c956c2404"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51898,40 +51933,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e81e2099d5de081c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's iron ore imports exceed expectations in August",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4500LN:0/",
-   "published_utc": "2026-09-08T11:27:07+00:00",
-   "title_original": "Importações de minério de ferro pela China superam expectativas em agosto",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "ca73af8036599eb9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's soybean imports fall in August; forecast for the year indicates stability or decline",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4500L2:0/",
-   "published_utc": "2026-09-08T11:19:38+00:00",
-   "title_original": "Importações de soja pela China caem em agosto; previsão para o ano aponta estabilidade ou queda",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "2fd0f8f29b7d47c6"
   },
   {
    "source_id": "manual_ia",
