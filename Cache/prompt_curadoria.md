@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T00:42:44.970440+00:00
+Última coleta: 2026-10-08T00:52:45.674163+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1254
+  🇯🇵 Japão          1252
   🇨🇳 China          783
   🇹🇼 Taiwan         268
-  🇰🇷 Coreia do Sul  695
+  🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares turn lower after opening up amid inflation worries
+  - [korea] (LEAD) Seoul shares turn lower after opening up amid inflation worries
   - [korea] S. Korea extends current account surplus in Aug. amid solid exports
   - [korea] Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom
+  - [china] The central bank launched a trillion-dollar buyout reverse repurchase, and the Dark Side of the Moon completed
   - [korea] South Korean Won Hits 4-week High
   - [china] We’ve already known about the financial news丨The central bank’s 1.2 trillion reverse repurchase is launched to
   - [korea] Key facts: Samsung (005930) HBM4 Deal; Foundry Talks; Fab Woes
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan bank to connect small businesses with US AI developers
   - [taiwan] Taiwan's US envoy says ties robust after Trump-Xi summit
   - [korea] SK Hynix Stocks Drop 2.8% Despite AMD's Multi-Generation HBM Plan
-  - [china] The Fed's overnight reverse repurchase agreement (RRP) usage on Wednesday was $2.338 billion
-  - [china] China rejects EU request for voluntary hybrid car export curbs, FT reports
-  - [china] China slaps down EU request for voluntary curbs on hybrid car exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T00:42:45+00:00",
+      "published_utc": "2026-10-08T00:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

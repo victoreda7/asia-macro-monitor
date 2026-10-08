@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-08T00:42:44.970440+00:00",
- "collected_at_utc": "2026-10-08T00:42:44.970440+00:00",
+ "generated_at_utc": "2026-10-08T00:52:45.674163+00:00",
+ "collected_at_utc": "2026-10-08T00:52:45.674163+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1254,
+  "japan": 1252,
   "china": 783,
   "taiwan": 268,
-  "korea": 695
+  "korea": 697
  },
  "elapsed_s": 29.5,
  "sources": [
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T00:16:01+00:00"
+   "newest": "2026-10-08T00:48:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T23:25:02+00:00"
+   "newest": "2026-10-08T00:48:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T00:26:31+00:00"
+   "newest": "2026-10-08T00:49:47+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-08T09:19:08+00:00"
+   "newest": "2026-10-08T09:48:25+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "error": "",
-   "newest": "2026-10-08T00:11:00+00:00"
+   "newest": "2026-10-08T00:21:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T23:06:35+00:00"
+   "newest": "2026-10-07T23:33:43+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T00:41:49+00:00"
+   "newest": "2026-10-08T00:52:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-06T05:24:33+00:00"
+   "newest": "2026-10-08T00:43:38+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -346,6 +346,40 @@
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
+   "title_en": "Seoul shares turn lower after opening up amid inflation worries",
+   "url": "https://www.koreaherald.com/article/10896552",
+   "published_utc": "2026-10-08T00:52:45.128660+00:00",
+   "title_original": "Seoul shares turn lower after opening up amid inflation worries",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8f4ee034b20a7a12"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) Seoul shares turn lower after opening up amid inflation worries",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02WjhrZzhZbV8tS1YzUll2N1BqMkFyckpUSks2QVY4bWpGbEJYUFlPNUNlSDhuUmtUNUJtSWJOd2NKUXFNellTU00xU1ZvQU9ONVR2d3Zncjhxdw?oc=5",
+   "published_utc": "2026-10-08T00:43:38+00:00",
+   "title_original": "(LEAD) Seoul shares turn lower after opening up amid inflation worries",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e78fd12a8c8425b2"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
    "title_en": "S. Korea extends current account surplus in Aug. amid solid exports",
    "url": "https://www.koreaherald.com/article/10896469",
    "published_utc": "2026-10-08T00:22:44.311874+00:00",
@@ -376,6 +410,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fe8c03efc39e78cf"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "The central bank launched a trillion-dollar buyout reverse repurchase, and the Dark Side of the Moon completed financing to promote the Hong Kong Stock Exchange IPO",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnRGcVZHTWRaM3pQbExWMElRanQtVE5uekhNUEpjb2V3QkdCbHhvMl8xYVdvY2Qxa0NGZ2RXaTFXSlBRYUVJTUdkNThsX3ZjU1EwLTRTTjhxazIxeFFRVGdoZ0hFVnZFZmRUWHJydWtDTnZ4RjRRQTlfcWpvdFZrSzNZYlg2N1dSNVZXcg?oc=5",
+   "published_utc": "2026-10-08T00:21:00+00:00",
+   "title_original": "央行开展万亿买断式逆回购，月之暗面完成融资推进港交所IPO",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "99ac81229b899ca2"
   },
   {
    "source_id": "tradingview_live",
@@ -30644,8 +30695,8 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
-   "published_utc": "2026-09-18T15:23:15+00:00",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
+   "published_utc": "2026-09-18T15:43:15+00:00",
    "title_original": "Chinese premier chairs State Council executive meeting",
    "region": "china",
    "topics": [
@@ -30655,7 +30706,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9e62f309accc3d17"
+   "id": "ac5c93c1746a6f36"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -39263,10 +39314,10 @@
    "id": "b0dcd67d1b1d61e5"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
+   "source_id": "gn_kr_herald",
+   "source_name": "The Korea Herald",
    "title_en": "Finance minister nominee vows to tackle inflation, bolster economic recovery",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BM2NHbmhBai1mWlVwN1ZxVFh4X05Jb3NWY0dUWTFjNktWV0M5N1JLRlVCMUUwVnRMT2s5dUF5NXd5bEZWeDVVU0JHWXlIT0dzQlpsNUZaaFFYZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41VzlHY0hidFNoZFl4d2dUWGVnR0dIZHV0a2l1ZmY1NmpPVUgyMWdxcy05cTJRLTZ5ajhwNllJUDYwWnUwXzk1SDJFaFMzX3MwYTZ1TWl2aw?oc=5",
    "published_utc": "2026-09-15T07:00:00+00:00",
    "title_original": "Finance minister nominee vows to tackle inflation, bolster economic recovery",
    "region": "korea",
@@ -39278,7 +39329,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "39b972ea0915fd4d"
+   "id": "3dbd78fa90ae6d6a"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51872,60 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "08dc355009076287"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
-   "title_en": "The central bank launched a 1 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVDhEWUdScXZEa0VhSTExUXV2RzZBQ2xwaDJUblhuRjZYT19EdHc0N0VTNHgzS1pKUnlWM1VTSkZlNmV0Tm0xZWt3VTNOMWlUeHd1NjFZeURFeDByWlpKbDE1SmdkYmtVa1lvY29Udk9aNjlvdWgwZVdjTF94SGc3QXVpaWx0RE1oVEE?oc=5",
-   "published_utc": "2026-09-08T02:35:17+00:00",
-   "title_original": "央行今日开展10亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "de90b8ed11d3d2dd"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "Economic expansion is weak due to weak yen and high prices",
-   "url": "https://news.yahoo.co.jp/pickup/6594628?source=rss",
-   "published_utc": "2026-09-08T02:34:49+00:00",
-   "title_original": "景気拡大 円安と物価高で実感薄く",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6d7f8f72dd1dbfb0"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Katayama Says Will Aim to Maintain Orderly FX Market",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkllTWVRdS1EWVk0dEFqTDZfRVViZnpXMk1XNFltMnotVnA5emhaNjZaN0NMNHFGQ2pTQ2Q0NUUwZVhNUUY5S3VuRkd3R1JLa01ReHZpZTJtdE1MRjFqWV9xR2N1MzJodDhfTTVSVDg5X1l6VWViMGpOUC05aGtUZzlMS1pmdWZiMmMtMTdNWWw5Z0JqenNRMlpzU1B2eVhCcE92TTRHaWFXNFg3SXYwVQ?oc=5",
-   "published_utc": "2026-09-08T02:05:00+00:00",
-   "title_original": "Japan’s Katayama Says Will Aim to Maintain Orderly FX Market",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f0b5edba106c0cb3"
   },
   {
    "source_id": "manual_ia",
