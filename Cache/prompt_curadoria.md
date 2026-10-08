@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T00:12:45.781624+00:00
+Última coleta: 2026-10-08T00:22:44.860589+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1257
+  🇯🇵 Japão          1256
   🇨🇳 China          782
-  🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  692
+  🇹🇼 Taiwan         268
+  🇰🇷 Coreia do Sul  694
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korea extends current account surplus in Aug. amid solid exports
+  - [korea] Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom
   - [korea] Key facts: Samsung (005930) HBM4 Deal; Foundry Talks; Fab Woes
   - [korea] Key facts: AMD Praises SK hynix (000660) HBM4; ADR Falls 2.8%
+  - [japan] Japan Current Account Surplus Above Forecasts
   - [japan] BREAKING NEWS: Japan logs current account surplus of 4.06 trillion yen in August
+  - [korea] Samsung quarterly profit surges to $80bn on AI chip demand
   - [korea] SK Hynix’s Memory Division Reportedly Picks Banks For Its US IPO Next Year
   - [korea] Samsung Electronics’ quarterly operating profit tops 100 trillion won for the first time... companywide operat
   - [korea] South Korea Current Account Surplus Widens
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China slaps down EU request for voluntary curbs on hybrid car exports
   - [japan] Japan Pushes Local 5G Manufacturing, Digital Infrastructure In India
   - [korea] Samsung’s HBM prices tipped to more than double in 2027
-  - [japan] Central Bank of India raises interest rates for the first time in 3 years and 8 months against the backdrop of
-  - [taiwan] Intel stays in Musk's Terafab plan as TSMC joins the mix
-  - [korea] Lotte Biologics expands US manufacturing partnership with Alvotech
-  - [taiwan] Micron Tech chipmaker union in Taiwan gets OK to strike
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T00:12:45+00:00",
+      "published_utc": "2026-10-08T00:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
