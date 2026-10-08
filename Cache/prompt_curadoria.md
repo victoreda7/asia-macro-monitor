@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T16:22:46.044759+00:00
+Última coleta: 2026-10-08T16:32:46.406795+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1232
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [korea] Seoul shares down for 3rd day amid inflation worries
   - [korea] Samsung Electronics guides to huge surge in Q3 profits
+  - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
   - [china] Xin Yuan Enterprises Says Ocean Vivo To Make Pre-Conditional Voluntary Cash Offer
   - [taiwan] TSMC Taps GlobalFoundries In $2B AI Chip Deal, Putting GFS Stock On Track To Hit Over 1-Month High
   - [taiwan] Taiwan Semiconductor’s Sales Surged In September
@@ -42,7 +43,6 @@ Total: 3000 manchetes
   - [korea] Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue
   - [japan] PM Takaichi rejects "reflationary" label for her economic policies
   - [japan] Prime Minister: “Funding sources for consumption tax reduction will be considered throughout budget formulatio
-  - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
   - [china] EU trade chief in talks with China to rebalance 'unsustainable' deficit
   - [china] China PBOC: Daily Yuan FX Turnover Too Big to Manipulate
   - [china] China PBOC: Yuan Undervaluation Claims Are Misconceived
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T16:22:46+00:00",
+      "published_utc": "2026-10-08T16:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
