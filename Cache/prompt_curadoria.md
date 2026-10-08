@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T08:52:46.937426+00:00
+Última coleta: 2026-10-08T09:02:46.367928+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1232
-  🇨🇳 China          783
-  🇹🇼 Taiwan         272
+  🇨🇳 China          782
+  🇹🇼 Taiwan         273
   🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
+  - [japan] More than 5,000 bankruptcies in the first half of this fiscal year for the second consecutive year, due to the
   - [japan] Street economy in September rises for 5 consecutive months Consumption is strong due to holidays
+  - [taiwan] Taiwan Exports Hit Record High
+  - [taiwan] Taiwan Posts Largest Trade Surplus on Record
   - [china] A sequel with more volume! The central bank will launch a 1.2 trillion yuan buyout reverse repo
   - [korea] Samsung Q3 profit seen surging nearly nine-fold as AI chip demand soars
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan raises economic outlook for Tohoku and Shikoku, leaves unchanged for remaining 7 regions = Regio
   - [japan] BOJ: AI demand may push Japan’s inflation above 2% target, impact policy
   - [japan] Bank of Japan maintains economic outlook in 7 regions nationwide (Kyodo News)
-  - [korea] Samsung Electronics Projects Surge In Q3 Operating Income, Sales On AI Demand
-  - [japan] Bank of Japan upgrades economic view for 2 of 9 regions
-  - [japan] Samsung operating profit approximately 8.8 times, new record high due to increased demand for semiconductors
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T08:52:47+00:00",
+      "published_utc": "2026-10-08T09:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
