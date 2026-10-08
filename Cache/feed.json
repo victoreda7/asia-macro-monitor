@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-08T15:42:43.685099+00:00",
- "collected_at_utc": "2026-10-08T15:42:43.685099+00:00",
+ "generated_at_utc": "2026-10-08T15:52:43.088984+00:00",
+ "collected_at_utc": "2026-10-08T15:52:43.088984+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1232,
   "china": 790,
-  "taiwan": 276,
-  "korea": 702
+  "taiwan": 275,
+  "korea": 703
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T15:24:12+00:00"
+   "newest": "2026-10-08T15:44:37+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T15:11:57+00:00"
+   "newest": "2026-10-08T15:37:01+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T20:01:11+09:00"
+   "newest": "2026-10-09T00:50:03+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
    "newest": "2026-10-08T08:38:00+00:00"
   },
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-08T15:20:53+00:00"
+   "newest": "2026-10-08T15:50:26+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T15:32:03+00:00"
+   "newest": "2026-10-08T15:51:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T08:33:59+00:00"
+   "newest": "2026-10-08T03:59:01+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "ShareCast",
+   "title_en": "Samsung Electronics guides to huge surge in Q3 profits",
+   "url": "https://www.tradingview.com/news/sharecast:5dca7ed53094b:0-samsung-electronics-guides-to-huge-surge-in-q3-profits/",
+   "published_utc": "2026-10-08T15:36:42+00:00",
+   "title_original": "Samsung Electronics guides to huge surge in Q3 profits",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ffe57b62f00deac5"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1125,23 +1142,6 @@
    "live_wire": false,
    "manual": false,
    "id": "129463d3bef3d4dc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Taiwan Imports Hit New Record",
-   "url": "https://www.tradingview.com/news/te_news:590498:0-taiwan-imports-hit-new-record/",
-   "published_utc": "2026-10-08T08:53:38+00:00",
-   "title_original": "Taiwan Imports Hit New Record",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9c1d25a41e1a01a6"
   },
   {
    "source_id": "nhk_economy",
@@ -3393,8 +3393,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -3408,7 +3408,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -6699,7 +6699,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "부산일보",
    "title_en": "Should I sell stocks and deposit money? Bankers’ deposit interest rate ‘increase rally’",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdGFOclJjRHNxb2cwMGNXTXYybmthSm5FMkV4S29pN0FvTFFDNXhwTVNXbjdPbldRQkNvM2lodC00LWJRemhDSk1iUG5kT0dkQTRxX0pUTWVCNHlreFktVmNFdkVFT05yRHZYbnVUa0hqbm1ta285SQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQU1TcjRXSGhyRUV1ZkhQejVRREpLR3NJdlhQOG9ZWHhpX3BsYklVMU9ZbklpTnNwRk5iNDJMc3NhSFJfdWxXeWJNQWZoclhrZTlDY2gwVTUyaU5hX2M2Ni1rSnROV0NwX0RjT2tfX3ZkUmVWYkE3UFA3UzQ5ckNGU0NFdWJWOV9ibk00bkNlR1BWZ1VrRTFkU2dYYXF2SEptMWRiNFQwb3hIaU5KWDJHaXlKaThQeFNCeXlDUjdsamszQkdUQUYxc1lHQWRWQllacnBFVlQ5dDQ?oc=5",
    "published_utc": "2026-10-05T08:14:27+00:00",
    "title_original": "주식 팔고 예금할까… 은행가 예금금리 ‘인상 랠리’",
    "region": "korea",
@@ -6710,7 +6710,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4bb6f4c956c2404"
+   "id": "1a80eca6e5434091"
   },
   {
    "source_id": "gn_tw_digitimes",

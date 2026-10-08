@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T15:42:43.685099+00:00
+Última coleta: 2026-10-08T15:52:43.088984+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1232
   🇨🇳 China          790
-  🇹🇼 Taiwan         276
-  🇰🇷 Coreia do Sul  702
+  🇹🇼 Taiwan         275
+  🇰🇷 Coreia do Sul  703
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics guides to huge surge in Q3 profits
   - [china] Xin Yuan Enterprises Says Ocean Vivo To Make Pre-Conditional Voluntary Cash Offer
   - [taiwan] TSMC Taps GlobalFoundries In $2B AI Chip Deal, Putting GFS Stock On Track To Hit Over 1-Month High
   - [taiwan] Taiwan Semiconductor’s Sales Surged In September
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan September exports hit fresh monthly record on AI demand, US leads
   - [china] Far East Smarter Energy's Units Win Bids, Sign Contracts Worth 1.4 Billion Yuan
   - [korea] S. Korea extends current account surplus in Aug. amid solid exports
-  - [taiwan] TSMC achieves record revenue in the 3rd quarter and exceeds market forecasts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T15:42:43+00:00",
+      "published_utc": "2026-10-08T15:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
