@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T07:52:45.013258+00:00
+Última coleta: 2026-10-08T08:02:45.394206+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1235
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China Banking Corp Says Gilbert U. Dee Resigns As Vice Chairman
   - [korea] (2nd LD) Seoul shares down for 3rd day amid inflation worries
   - [korea] Seoul shares down for 3rd day amid inflation worries
   - [japan] Consumption tax cut to compensate small and medium-sized farmers
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Co., Ltd. Stock 12‑Month Price Target Cut to KRW 486160.09, Implies 81% Upside
   - [china] The first day after the holiday! The central bank took action and launched a 1.2 trillion yuan buyout reverse 
   - [japan] Asian currencies rangebound as dollar holds near 18-month high, yen slips
-  - [taiwan] AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T07:52:45+00:00",
+      "published_utc": "2026-10-08T08:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
