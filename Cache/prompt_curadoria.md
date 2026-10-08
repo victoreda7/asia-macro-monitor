@@ -7,18 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T03:22:45.897717+00:00
+Última coleta: 2026-10-08T03:32:45.185276+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1245
-  🇨🇳 China          781
-  🇹🇼 Taiwan         271
-  🇰🇷 Coreia do Sul  703
+  🇨🇳 China          782
+  🇹🇼 Taiwan         269
+  🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
-  - [china] Yuan steady despite dollar strength during China's Golden Week holiday
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
+  - [china] Yuan steady despite dollar strength during China's Golden Week holiday
   - [korea] S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls
   - [japan] Stock prices fall, profit-taking selling in some semiconductor-related stocks
   - [china] As China and the EU begin crunch trade talks, optimism is in short supply
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 8 was zero
   - [taiwan] TSMC Could Deliver Over 40% Revenue Growth into 2027 — Market Talk
   - [korea] Seoul shares extend losses late Thurs. morning amid inflation worries
+  - [japan] PGIM: French Bond Selloff Could Bring Japanese Money Home and Support the Yen
   - [japan] "A tremendous shock and blow"...The risk of Trump's "diesel oil export ban" smoldering ahead of the midterm el
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [korea] Samsung, SK hynix face investor test as buybacks wind down
@@ -33,6 +34,7 @@ Total: 3000 manchetes
   - [korea] Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue
   - [japan] Japan futures fall as yen firms, Tokyo equities slip
   - [china] Yuan Consolidates as Market Participants Assess PBOC's Yuan Fixing Vs. Dollar — Market Talk
+  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation - News
   - [japan] Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate
   - [japan] Tokyo Gas acquires Indonesian LNG developer for island network
   - [china] CHINA PBOC CONDUCTS CNY606 BLN VIA O/N REVERSE REPO THURS
@@ -44,6 +46,7 @@ Total: 3000 manchetes
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 8, 2026 was zero
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 8 was zero
   - [china] The central bank launched a 606 billion yuan overnight reverse repurchase operation today
+  - [korea] South Korea's August Current Account Surplus Hits Second-Highest Level
   - [china] The central bank's reverse repurchase is net withdrawn today..._7x24 News_Sina Finance
   - [china] Central Bank of China: Based on the needs of primary dealers in open market business, the volume of 7-day reve
   - [korea] South Korea shares on track for second weekly decline as chipmakers drag
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Beyond the summit: how US-China relations could still unravel
   - [japan] August current balance surplus of 4,062 billion yen due to increased dividends from overseas, etc.
   - [korea] Seoul shares turn lower after opening up amid inflation worries
-  - [korea] (LEAD) Seoul shares turn lower after opening up amid inflation worries
-  - [china] Securities Star morning news summary on October 8: The central bank will carry out a 1.2 trillion yuan buyout 
-  - [korea] Corporate surplus funds overtake households amid chip boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T03:22:46+00:00",
+      "published_utc": "2026-10-08T03:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
