@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T12:52:42.857346+00:00
+Última coleta: 2026-10-08T13:02:46.114913+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1233
-  🇨🇳 China          790
-  🇹🇼 Taiwan         272
-  🇰🇷 Coreia do Sul  705
+  🇨🇳 China          788
+  🇹🇼 Taiwan         275
+  🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] GlobalFoundries will manufacture essential component for AI chips for TSMC in US$2 billion deal
+  - [taiwan] GlobalFoundries to make key AI chip component for TSMC in $2 billion deal
+  - [taiwan] TSMC Stocks Drop 2% Despite Citi's NT$4,000 Target
+  - [taiwan] GlobalFoundries will manufacture a key AI chip component for TSMC
+  - [taiwan] GlobalFoundries to make key AI chip component for TSMC
   - [taiwan] GlobalFoundries partners with TSMC to establish US-based production of silicon interposers
   - [korea] New Silkroad Says Unit To Buy 2.67% Stake In I-Aurora For KRW 1,999.99 Million
   - [china] China has no need or intention to weaken yuan for trade edge, central bank says
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Imports Hit New Record
   - [japan] Street economy in September rises for 5 consecutive months Consumption is strong due to holidays
   - [taiwan] Taiwan Exports Hit Record High
-  - [taiwan] Taiwan Posts Largest Trade Surplus on Record
-  - [korea] Jusung Engineering, a semiconductor deposition equipment company, is showing a steep upward rally. A..
-  - [china] A sequel with more volume! The central bank will launch a 1.2 trillion yuan buyout reverse repo
-  - [korea] Samsung Electronics opened the era of 100 trillion won in quarterly operating profit, but its stock
-  - [japan] 22nd Asia Pacific Retailers Conference Video Message from Prime Minister Takaichi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T12:52:43+00:00",
+      "published_utc": "2026-10-08T13:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
