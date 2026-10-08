@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T03:02:46.529056+00:00
+Última coleta: 2026-10-08T03:12:44.106746+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1246
+  🇯🇵 Japão          1245
   🇨🇳 China          781
   🇹🇼 Taiwan         271
-  🇰🇷 Coreia do Sul  702
+  🇰🇷 Coreia do Sul  703
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan steady despite dollar strength during China's Golden Week holiday
+  - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
+  - [korea] S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls
   - [japan] Stock prices fall, profit-taking selling in some semiconductor-related stocks
   - [china] As China and the EU begin crunch trade talks, optimism is in short supply
   - [japan] Yen Holds Steady After Strong Data
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] (LEAD) Seoul shares turn lower after opening up amid inflation worries
   - [china] Securities Star morning news summary on October 8: The central bank will carry out a 1.2 trillion yuan buyout 
   - [korea] Corporate surplus funds overtake households amid chip boom
-  - [korea] S. Korea extends current account surplus in Aug. amid solid exports
-  - [korea] Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom
-  - [china] The central bank launched a trillion-dollar buyout reverse repurchase, and the Dark Side of the Moon completed
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T03:02:46+00:00",
+      "published_utc": "2026-10-08T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

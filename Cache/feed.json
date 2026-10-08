@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T03:02:46.529056+00:00",
- "collected_at_utc": "2026-10-08T03:02:46.529056+00:00",
+ "generated_at_utc": "2026-10-08T03:12:44.106746+00:00",
+ "collected_at_utc": "2026-10-08T03:12:44.106746+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1246,
+  "japan": 1245,
   "china": 781,
   "taiwan": 271,
-  "korea": 702
+  "korea": 703
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T02:26:50+00:00"
+   "newest": "2026-10-08T03:10:57+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T08:07:00+09:00"
+   "newest": "2026-10-08T12:02:52+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T12:00:56+09:00"
+   "newest": "2026-10-08T12:09:40+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T03:00:50+00:00"
+   "newest": "2026-10-08T03:11:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T02:37:08+00:00"
+   "newest": "2026-10-08T03:01:49+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-08T11:30:00+09:00"
+   "newest": "2026-10-08T12:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T00:24:32+00:00"
+   "newest": "2026-10-08T00:30:36+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yuan steady despite dollar strength during China's Golden Week holiday",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45U00Y:0-yuan-steady-despite-dollar-strength-during-china-s-golden-week-holiday/",
+   "published_utc": "2026-10-08T03:06:00+00:00",
+   "title_original": "Yuan steady despite dollar strength during China's Golden Week holiday",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6cd8b4c59fce9eaa"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inheritance Investment",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56280",
+   "published_utc": "2026-10-08T03:02:52+00:00",
+   "title_original": "首相“消費税減税 社会保障財源影響与えず” 簗農相続投の考え",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0e98a768505b7255"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sNTMwZGREc0JpcHo2a3AzUmgyemdFRTdvU1hwQ3N3V0JQcmozeGN2cU9sM3VqTUxLRGg4RVZzaEpkSnJfWWluRmF1X0NSdGI2Vm1vNXVBbC0xUQ?oc=5",
+   "published_utc": "2026-10-08T03:01:49+00:00",
+   "title_original": "S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "42bb2603bbe3b990"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -761,7 +813,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "手机新浪网",
    "title_en": "The central bank's reverse repurchase is net withdrawn today..._7x24 News_Sina Finance",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQOWF0X2hodWFVdkdtTlpWOEdFQnB5WEc4dFUxd21ocE9UUGI3YldhU2dTNk1IQTcweHhlSV94Q1ZpYzVTZ2oxeEQzaG1Db0U?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80aE1HcW9zLWxyRE1leWZYaDVPOEpRRmRhdWFVOVVoT0tjODFrTndIMTA2Rmp2dWZfQmRla0xsb1E0QUxNTGpVb3pZdw?oc=5",
    "published_utc": "2026-10-08T01:22:48+00:00",
    "title_original": "央行逆回购今日净回笼......_7x24快讯_新浪财经",
    "region": "china",
@@ -772,7 +824,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50bea8886f42d883"
+   "id": "86f181fadd751966"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -44417,23 +44469,6 @@
    "id": "cf2909b5441babd9"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03NXJFY3VieUd5bnBtR09ycmtGTmhMdWVyU0FFZHRrV1paZ0dnc2RYazA5NU11Y1VJX00tUlE2LU1zQ1hlTGtvQ05SUkVpYkdlZEgtU0Z5VGthdw?oc=5",
-   "published_utc": "2026-09-11T07:00:00+00:00",
-   "title_original": "(LEAD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "414e908396fee4ec"
-  },
-  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "South Korea’s AI chip ambitions collide with nuclear licensing delays",
@@ -44449,6 +44484,23 @@
    "live_wire": false,
    "manual": false,
    "id": "61de1e1093683dc2"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03NXJFY3VieUd5bnBtR09ycmtGTmhMdWVyU0FFZHRrV1paZ0dnc2RYazA5NU11Y1VJX00tUlE2LU1zQ1hlTGtvQ05SUkVpYkdlZEgtU0Z5VGthdw?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "title_original": "(LEAD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "414e908396fee4ec"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51871,57 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1c25c757240f49c5"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Analysis-Why the BOJ will bet small on rate hikes now to avoid a bigger shock later",
-   "url": "https://www.investing.com/news/economy-news/analysiswhy-the-boj-will-bet-small-on-rate-hikes-now-to-avoid-a-bigger-shock-later-4890795",
-   "published_utc": "2026-09-08T06:06:32+00:00",
-   "title_original": "Analysis-Why the BOJ will bet small on rate hikes now to avoid a bigger shock later",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ce7f4b781779f46f"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Hits Japan With Anti-Dumping Measures on Chip Chemical",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3BPUWJZN0N2dGtrSXhmVEFjcVJPMUNtOURHQ1YwOEw2MGFRTGh5ZmdldHNFY0VhSXRjeWh6dGVMWkJyTmp6NmRWRHdkRnczMmJadnpEQkV4Um93ZmpwOS1Zbk1lWi1EU0ktdjBJZVRsUEdrSzE1dFlOWGRibm9qNUt6SU5qN1p3cEVhTi1SbnROQm9WLV9PRmNKWmdQSHl6NldoUzZMV2swTmVpRnh3bg?oc=5",
-   "published_utc": "2026-09-08T06:06:00+00:00",
-   "title_original": "China Hits Japan With Anti-Dumping Measures on Chip Chemical",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "de3c2d8b856ab85d"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "AUD/USD Breakout Builds as Yen Strength Softens the Greeenback",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjJrRnZZTzZPUk1YaEsxU08wN0xfWG95QWxsOEdaR25weFc0YWlmbTZDelZIWldIS090UjVhaWF1bFdVSF82SXNvbnJSeE1xMS1DZURldGtiQmhkNU1EM29lN2ZWWV9kVjkzLWFyb3Q2U1V6aF9yZF9RaURPd2tqMFc0MW5tWFEwd01fRlBKb1U3ZElkNl9wek1yYmMyVUtvM2pGdFJmV0M?oc=5",
-   "published_utc": "2026-09-08T06:02:00+00:00",
-   "title_original": "AUD/USD Breakout Builds as Yen Strength Softens the Greeenback",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dbca8ecb69586ca6"
   },
   {
    "source_id": "manual_ia",
