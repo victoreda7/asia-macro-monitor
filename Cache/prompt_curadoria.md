@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T06:52:45.456751+00:00
+Última coleta: 2026-10-08T07:02:46.472765+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1236
-  🇨🇳 China          782
-  🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  713
+  🇯🇵 Japão          1237
+  🇨🇳 China          784
+  🇹🇼 Taiwan         268
+  🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea shares log second weekly decline as chipmakers drag
+  - [taiwan] Table: Taiwan Semiconductor Mfg Sep Rev NT$511.86B Vs NT$330.98B
+  - [japan] "With the weak yen and rising prices..." Family trip to Hawaii → Save money on food Cocorico Endo's wife confe
+  - [china] Parties name 16 committee conveners for new Legislative Yuan session
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
+  - [china] Table: Yuan Jen Enterprises Sep Rev NT$907.1M Vs NT$602.4M
   - [korea] Seoul stocks down for 3rd day amid inflation worries
   - [korea] (URGENT) Seoul stocks down for 3rd day amid inflation worries
   - [china] China's Semiconductor Self-Sufficiency Rate Could Reach 47% in 2030 — Market Talk
@@ -30,6 +35,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan sees broadening inflationary pressure
   - [taiwan] TSMC's revenue in the third quarter grows 50% compared to the same period last year, exceeding market forecast
   - [japan] Increase in Tohoku, Shikoku Bank of Japan economic judgment, AI demand (Kyodo News)
+  - [japan] Bank of Japan raises economic outlook for Tohoku and Shikoku, leaves unchanged for remaining 7 regions = Regio
   - [japan] BOJ: AI demand may push Japan’s inflation above 2% target, impact policy
   - [japan] Bank of Japan maintains economic outlook in 7 regions nationwide (Kyodo News)
   - [korea] Samsung Electronics Projects Surge In Q3 Operating Income, Sales On AI Demand
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Holds Steady After Strong Data
   - [taiwan] TSMC Could Deliver Over 40% Revenue Growth into 2027 — Market Talk
   - [korea] Seoul shares extend losses late Thurs. morning amid inflation worries
-  - [japan] PGIM: French Bond Selloff Could Bring Japanese Money Home and Support the Yen
-  - [japan] "A tremendous shock and blow"...The risk of Trump's "diesel oil export ban" smoldering ahead of the midterm el
-  - [korea] ‘Three major conditions’ for preemptive interest rate increase proposed by the Bank of Korea
-  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
-  - [korea] Samsung, SK hynix face investor test as buybacks wind down
-  - [china] Nissan Says It Will Start Sales Of China-Made Frontier Pro Pickup Truck In Mexico In October, Highlighting Chi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T06:52:45+00:00",
+      "published_utc": "2026-10-08T07:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
