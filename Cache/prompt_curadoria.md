@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T02:35:27.364564+00:00
+Última coleta: 2026-10-08T02:42:46.034372+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1248
-  🇨🇳 China          781
-  🇹🇼 Taiwan         269
+  🇨🇳 China          780
+  🇹🇼 Taiwan         270
   🇰🇷 Coreia do Sul  702
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank’s 7-day reverse repurchase operation volume on October 8 was zero
+  - [japan] "A tremendous shock and blow"...The risk of Trump's "diesel oil export ban" smoldering ahead of the midterm el
+  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [korea] Samsung, SK hynix face investor test as buybacks wind down
   - [china] Nissan Says It Will Start Sales Of China-Made Frontier Pro Pickup Truck In Mexico In October, Highlighting Chi
   - [korea] Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue
@@ -26,11 +29,11 @@ Total: 3000 manchetes
   - [japan] Tokyo Gas acquires Indonesian LNG developer for island network
   - [china] CHINA PBOC CONDUCTS CNY606 BLN VIA O/N REVERSE REPO THURS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7367 THURS VS 6.7351
-  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation-News Center
   - [japan] Asian stocks slip as oil, inflation worries and tech selloff weigh heavy; Nikkei down 700 points
   - [china] [The Central Bank will launch a 1.2 trillion yuan buyout reverse repurchase operation] In order to maintain su
   - [china] The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation_7x24 news_Sina Finance
+  - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 8, 2026 was zero
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 8 was zero
   - [china] The central bank launched a 606 billion yuan overnight reverse repurchase operation today
   - [china] The central bank's reverse repurchase is net withdrawn today..._7x24 News_Sina Finance
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Key facts: AMD Praises SK hynix (000660) HBM4; ADR Falls 2.8%
   - [japan] Japan Current Account Surplus Above Forecasts
   - [japan] BREAKING NEWS: Japan logs current account surplus of 4.06 trillion yen in August
-  - [korea] Samsung quarterly profit surges to $80bn on AI chip demand
-  - [korea] Samsung profit surges ninefold to $80bn on AI chip demand
-  - [korea] SK Hynix’s Memory Division Reportedly Picks Banks For Its US IPO Next Year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T02:35:27+00:00",
+      "published_utc": "2026-10-08T02:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
