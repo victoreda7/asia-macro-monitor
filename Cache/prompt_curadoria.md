@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T13:12:43.351732+00:00
+Última coleta: 2026-10-08T13:22:43.978342+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1233
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China defende política do iuan enquanto Europa intensifica pressão sobre superávit comercial
+  - [taiwan] TSMC Sales Soar 50%. The Stock Is Falling Anyway
   - [taiwan] GlobalFoundries will manufacture essential component for AI chips for TSMC in US$2 billion deal
   - [taiwan] GlobalFoundries to make key AI chip component for TSMC in $2 billion deal
   - [taiwan] TSMC Stocks Drop 2% Despite Citi's NT$4,000 Target
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] BofA sees downside risks for USD/JPY
   - [japan] More than 5,000 bankruptcies in the first half of this fiscal year for the second consecutive year, due to the
   - [taiwan] Taiwan Imports Hit New Record
-  - [japan] Street economy in September rises for 5 consecutive months Consumption is strong due to holidays
-  - [taiwan] Taiwan Exports Hit Record High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T13:12:43+00:00",
+      "published_utc": "2026-10-08T13:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
