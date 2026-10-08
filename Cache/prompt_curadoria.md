@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T02:02:44.981382+00:00
+Última coleta: 2026-10-08T02:12:43.185184+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1248
@@ -17,15 +17,17 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung, SK hynix face investor test as buybacks wind down
+  - [china] Nissan Says It Will Start Sales Of China-Made Frontier Pro Pickup Truck In Mexico In October, Highlighting Chi
   - [korea] Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue
   - [japan] Japan futures fall as yen firms, Tokyo equities slip
   - [china] Yuan Consolidates as Market Participants Assess PBOC's Yuan Fixing Vs. Dollar — Market Talk
   - [japan] Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate
   - [japan] Tokyo Gas acquires Indonesian LNG developer for island network
-  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation-News Center
   - [china] CHINA PBOC CONDUCTS CNY606 BLN VIA O/N REVERSE REPO THURS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7367 THURS VS 6.7351
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
+  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation-News Center
   - [japan] Asian stocks slip as oil, inflation worries and tech selloff weigh heavy; Nikkei down 700 points
   - [china] [The Central Bank will launch a 1.2 trillion yuan buyout reverse repurchase operation] In order to maintain su
   - [china] The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation_7x24 news_Sina Finance
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung profit surges ninefold to $80bn on AI chip demand
   - [korea] SK Hynix’s Memory Division Reportedly Picks Banks For Its US IPO Next Year
   - [korea] Samsung Electronics’ quarterly operating profit tops 100 trillion won for the first time... companywide operat
-  - [korea] South Korea Current Account Surplus Widens
-  - [korea] Samsung Electronics First South Korean Company to Top KRW100T in Quarterly Operating Profit
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T02:02:45+00:00",
+      "published_utc": "2026-10-08T02:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
