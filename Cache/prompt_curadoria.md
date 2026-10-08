@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T05:02:44.033603+00:00
+Última coleta: 2026-10-08T05:12:44.975472+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1238
-  🇨🇳 China          784
+  🇯🇵 Japão          1237
+  🇨🇳 China          783
   🇹🇼 Taiwan         268
-  🇰🇷 Coreia do Sul  710
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan maintains economic outlook in 7 regions nationwide (Kyodo News)
+  - [korea] Samsung Electronics Projects Surge In Q3 Operating Income, Sales On AI Demand
+  - [japan] Samsung operating profit approximately 8.8 times, new record high due to increased demand for semiconductors
   - [korea] Pons: Spot trading opens on Upbit in KRW, BTC, and USDT markets - 08 Oct 2026
+  - [korea] Why is SK Hynix stock falling today?
+  - [korea] Why is Samsung Electronics stock falling today?
   - [korea] SK Hynix's Solidigm selects Goldman, Morgan Stanley to lead $100B US listing: report
   - [korea] Samsung Electronics Co., Ltd. Stock 12‑Month Price Target Cut to KRW 486160.09, Implies 81% Upside
   - [china] The first day after the holiday! The central bank took action and launched a 1.2 trillion yuan buyout reverse 
-  - [korea] Why is SK Hynix stock gaining today?
   - [japan] Asian currencies rangebound as dollar holds near 18-month high, yen slips
   - [taiwan] AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
@@ -30,7 +34,6 @@ Total: 3000 manchetes
   - [japan] Stock prices fall, profit-taking selling in some semiconductor-related stocks
   - [china] As China and the EU begin crunch trade talks, optimism is in short supply
   - [japan] Yen Holds Steady After Strong Data
-  - [china] The central bank’s 7-day reverse repurchase operation volume on October 8 was zero
   - [taiwan] TSMC Could Deliver Over 40% Revenue Growth into 2027 — Market Talk
   - [korea] Seoul shares extend losses late Thurs. morning amid inflation worries
   - [japan] PGIM: French Bond Selloff Could Bring Japanese Money Home and Support the Yen
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation_7x24 news_Sina Finance
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 8, 2026 was zero
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 8 was zero
-  - [china] The central bank launched a 606 billion yuan overnight reverse repurchase operation today
-  - [korea] South Korea's August Current Account Surplus Hits Second-Highest Level
-  - [china] The central bank's reverse repurchase is net withdrawn today..._7x24 News_Sina Finance
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T05:02:44+00:00",
+      "published_utc": "2026-10-08T05:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

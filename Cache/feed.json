@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T05:02:44.033603+00:00",
- "collected_at_utc": "2026-10-08T05:02:44.033603+00:00",
+ "generated_at_utc": "2026-10-08T05:12:44.975472+00:00",
+ "collected_at_utc": "2026-10-08T05:12:44.975472+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1238,
-  "china": 784,
+  "japan": 1237,
+  "china": 783,
   "taiwan": 268,
-  "korea": 710
+  "korea": 712
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T04:42:19+00:00"
+   "newest": "2026-10-08T05:01:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T12:24:44+09:00"
+   "newest": "2026-10-08T14:04:53+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T05:01:50+00:00"
+   "newest": "2026-10-08T05:11:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T04:41:22+00:00"
+   "newest": "2026-10-08T05:06:35+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,59 @@
  ],
  "items": [
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan maintains economic outlook in 7 regions nationwide (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BelNBVGQ2akJTb0h6LUozN2RWTTd5eWMyZmRraG5maWJCcXg4SmhhLUo0cUlHM1dKTHk3RkdILXQtVVVCajFKWGVvZWYzT0g1c2t5NkZSWUI5eW5CTlZIdGtqbmJBSEVfSWtqcmlvZGc5OV9CVmU2X0gzaWVnQjQ?oc=5",
+   "published_utc": "2026-10-08T05:06:35+00:00",
+   "title_original": "日銀、全国7地域で景気判断維持（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c075786a656d6e7f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Samsung Electronics Projects Surge In Q3 Operating Income, Sales On AI Demand",
+   "url": "https://www.tradingview.com/news/dpa_afx:25ca3ebf1f978:0-samsung-electronics-projects-surge-in-q3-operating-income-sales-on-ai-demand/",
+   "published_utc": "2026-10-08T05:06:23+00:00",
+   "title_original": "Samsung Electronics Projects Surge In Q3 Operating Income, Sales On AI Demand",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "25b7cb605d3324a0"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Samsung operating profit approximately 8.8 times, new record high due to increased demand for semiconductors",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56506",
+   "published_utc": "2026-10-08T05:04:53+00:00",
+   "title_original": "サムスン 営業利益 約8.8倍 半導体需要拡大で過去最高を更新",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3d99928eb622ab46"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "CoinMarketCal",
    "title_en": "Pons: Spot trading opens on Upbit in KRW, BTC, and USDT markets - 08 Oct 2026",
@@ -359,6 +412,40 @@
    "live_wire": true,
    "manual": false,
    "id": "17a40c7e8e2d6cb9"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is SK Hynix stock falling today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-gaining-today-93CH-4937860",
+   "published_utc": "2026-10-08T04:59:01+00:00",
+   "title_original": "Why is SK Hynix stock falling today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2e94a4a052615e16"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is Samsung Electronics stock falling today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-falling-today-93CH-4937885",
+   "published_utc": "2026-10-08T04:56:40+00:00",
+   "title_original": "Why is Samsung Electronics stock falling today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f6a1f0b77eb4caca"
   },
   {
    "source_id": "tradingview_live",
@@ -412,23 +499,6 @@
    "live_wire": false,
    "manual": false,
    "id": "482fc8acc9da715f"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Why is SK Hynix stock gaining today?",
-   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-gaining-today-93CH-4937860",
-   "published_utc": "2026-10-08T04:03:24+00:00",
-   "title_original": "Why is SK Hynix stock gaining today?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f03e2b46873acb10"
   },
   {
    "source_id": "investing_fx",
@@ -567,23 +637,6 @@
    "live_wire": true,
    "manual": false,
    "id": "956174ec06c37278"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 8 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYlhFbVVSUGl0MlVPcW5XbEZSUmV6QTNncE5raUZKUUs5eGJnNDhxcHNNOHJBNF9IQlVRNzlXV2s4UDdHTlFVd1p5OXA1THZxcnNMNGhibkZZd05laF9vOU5qUG1wNjUzdXFZUzY4SXhVZjBWcF9RTG1wM0dTcE5fX055LTJRX3JPVGN3?oc=5",
-   "published_utc": "2026-10-08T02:38:24+00:00",
-   "title_original": "央行10月8日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c27e188c0f3475fc"
   },
   {
    "source_id": "tradingview_live",
@@ -999,6 +1052,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6bd83aa523635038"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中新经纬",
+   "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 8 was zero",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CVHVnX0xxOUNGUlY5LVd5UHJpbGRVRjZVRFBoQlp1M3k3YWpGMEJVTFdRUkRpTDRLVkNkLVFsWFpNWDl1M1FCeWhSYTllUnA5VzhHQURqdXY2d1NmakljcFpaMmw?oc=5",
+   "published_utc": "2026-10-08T01:25:00+00:00",
+   "title_original": "央行10月8日7天期逆回购操作量为零",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c831cc4b35b7b6fa"
   },
   {
    "source_id": "tradingview_live",
@@ -1533,6 +1603,25 @@
    "live_wire": false,
    "manual": false,
    "id": "795f4d92a6e21303"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) S. Korea logs US$46.1 bln current account surplus in Aug. amid chip supercycle: BOK",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zMG1tWi0tSUFqV0xDYVQ5RThPU1UzTDlKcm5kY2hhWE5aQk9YUmYxTmQxTlJhamZaYVR5cnZCS2hoa0NOYWhyQl9WakU3OVZ5dWp4b0NZZEtFQQ?oc=5",
+   "published_utc": "2026-10-07T23:00:02+00:00",
+   "title_original": "(URGENT) S. Korea logs US$46.1 bln current account surplus in Aug. amid chip supercycle: BOK",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e4bb889eb507cff0"
   },
   {
    "source_id": "tradingview_live",
@@ -51837,92 +51926,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5e97e5ff148f4cd7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Crypto Briefing",
-   "title_en": "Bitcoin faces pressure from yen rally and rising bond yields as carry trade unwind looms",
-   "url": "https://www.tradingview.com/news/cryptobriefing:4ba964257094b:0-bitcoin-faces-pressure-from-yen-rally-and-rising-bond-yields-as-carry-trade-unwind-looms/",
-   "published_utc": "2026-09-08T08:36:28+00:00",
-   "title_original": "Bitcoin faces pressure from yen rally and rising bond yields as carry trade unwind looms",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "189e12ab33cba9cb"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "S. Korea's nominal GDP grows at fastest pace in 47 years in Q2",
-   "url": "https://www.koreaherald.com/article/10865710",
-   "published_utc": "2026-09-08T08:27:51+00:00",
-   "title_original": "S. Korea's nominal GDP grows at fastest pace in 47 years in Q2",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d81c49a7c62427a0"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s August Exports Jump 25% on AI Price Surge",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc1NudW1vLXI0UERpYlFBSGlDamV1VnJyd0hSdFZybl9nb3JIeXVreU41MlZnb0FTVVpWblR0TjNiMk5EU0JLd3RXSHBvWVNJU1pRR092TVhfa2ozUUFKSURDN0EyRUg3RGQzOEduZ0dCLUNLSFNrRE9paFJ1WG83OHE0RlVDbW5uMU1lNFYzRjRBRnlBb2dvdS0xTi1sM0pST2RSNw?oc=5",
-   "published_utc": "2026-09-08T08:26:00+00:00",
-   "title_original": "China’s August Exports Jump 25% on AI Price Surge",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "80694489b13f3152"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴닉",
-   "title_en": "From inflation to oil prices, the real reason why central banks around the world in the United States, Japan, Europe, and Korea are raising interest rates all at once 🏦🙋",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LWE1XbGRMT1BWOGdVWXZnVFVWc0NkaW1OdnBTOXh4Wm82WmF2V1VlYU9FVGFIMktjenFZZXBoWVBEYU0tSWQyaXh1U3YySEJmMGE4?oc=5",
-   "published_utc": "2026-09-08T08:20:00+00:00",
-   "title_original": "인플레이션부터 기름값까지, 미국·일본·유럽·한국 전 세계 중앙은행이 일제히 기준금리 올리는 진짜 이유 🏦🙋",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1a5352f3690feffd"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Sterling today: Pound slips as yen-fuelled dollar uncertainty keeps G10 on edge",
-   "url": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-yenfuelled-dollar-uncertainty-keeps-g10-on-edge-4890958",
-   "published_utc": "2026-09-08T08:16:06+00:00",
-   "title_original": "Sterling today: Pound slips as yen-fuelled dollar uncertainty keeps G10 on edge",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ce77d860c3476f69"
   },
   {
    "source_id": "manual_ia",
