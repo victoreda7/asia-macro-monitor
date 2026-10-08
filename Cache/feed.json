@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T05:12:44.975472+00:00",
- "collected_at_utc": "2026-10-08T05:12:44.975472+00:00",
+ "generated_at_utc": "2026-10-08T05:22:50.961495+00:00",
+ "collected_at_utc": "2026-10-08T05:22:50.961495+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1237,
+  "japan": 1238,
   "china": 783,
-  "taiwan": 268,
+  "taiwan": 267,
   "korea": 712
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T14:04:53+09:00"
+   "newest": "2026-10-08T14:04:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 18,
+   "count": 19,
    "error": "",
    "newest": "2026-10-08T04:10:45+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T05:11:30+00:00"
+   "newest": "2026-10-08T05:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T22:48:38+00:00"
+   "newest": "2026-10-08T01:50:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T02:24:43+00:00"
+   "newest": "2026-10-08T01:14:13+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Crypto Briefing",
+   "title_en": "BOJ: AI demand may push Japan’s inflation above 2% target, impact policy",
+   "url": "https://www.tradingview.com/news/cryptobriefing:caff267dd094b:0-boj-ai-demand-may-push-japan-s-inflation-above-2-target-impact-policy/",
+   "published_utc": "2026-10-08T05:06:38+00:00",
+   "title_original": "BOJ: AI demand may push Japan’s inflation above 2% target, impact policy",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c663961609304719"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -380,11 +398,28 @@
    "id": "25b7cb605d3324a0"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Bank of Japan upgrades economic view for 2 of 9 regions",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_SPN44U008:0-bank-of-japan-upgrades-economic-view-for-2-of-9-regions/",
+   "published_utc": "2026-10-08T05:05:03+00:00",
+   "title_original": "Bank of Japan upgrades economic view for 2 of 9 regions",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7d659a45e70aecec"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Samsung operating profit approximately 8.8 times, new record high due to increased demand for semiconductors",
    "url": "https://news.web.nhk/newsweb/na/nd-20261008de56506",
-   "published_utc": "2026-10-08T05:04:53+00:00",
+   "published_utc": "2026-10-08T05:04:00+00:00",
    "title_original": "サムスン 営業利益 約8.8倍 半導体需要拡大で過去最高を更新",
    "region": "japan",
    "topics": [
@@ -395,6 +430,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3d99928eb622ab46"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korean Won Rises to 4-Week High",
+   "url": "https://www.tradingview.com/news/te_news:590381:0-south-korean-won-rises-to-4-week-high/",
+   "published_utc": "2026-10-08T05:01:39+00:00",
+   "title_original": "South Korean Won Rises to 4-Week High",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8049d1b123ae0388"
   },
   {
    "source_id": "tradingview_live",
@@ -933,10 +985,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "www.caiwennews.com",
    "title_en": "Central Bank: Launching 606 billion overnight reverse repos on October 8",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjFBR1N6Sm5QQXRUbWs2b3dQaWZadUtLaG14QTlzZ21ESjc0dkk2TVhSRzhkRmwtN2hNSlN5YTgxV2puenB6U0RYcWpEYWI2Ymx2Nk4ycDd3SERUQzloVlZNMXdXQmpCZjlNOGM1cnFLVXZCanNBZUhOWjhEVTVmV2tFanRxdnZIVDZNZg?oc=5",
-   "published_utc": "2026-10-08T01:31:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UOWRKajd2NlV3RzRFVDRlNERCb0dBR2ZTeWQ3SjBSelQxZE1zUXN0aVRXZUx0MnFTUHFkSkFhR3BfdTNzTlNoVktHZDhSNUxjdlRjUFNIVnQzYjl2?oc=5",
+   "published_utc": "2026-10-08T01:30:08+00:00",
    "title_original": "央行：10月8日投放6060亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -946,7 +998,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b12926454cc5dae6"
+   "id": "75c7ade6c893f8e0"
   },
   {
    "source_id": "tradingview_live",
@@ -2894,6 +2946,23 @@
    "live_wire": false,
    "manual": false,
    "id": "61c079c7139f7c21"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "EU Plans Import Cap on Chinese Hybrid Cars to Protect Sector",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXFDc3dCUnJvMUJMWHc3Sklod1dibTJ0bGpHb0R2QnVERHh6a0lzX3BPclN0VlhHd1lSZ3VHVUJlTDZwS0tqcHpmQXBaSTg4b2R4NFJpNVcxMUloVGplNHFTTmV0ckJQYUdoa3NLc1Q1ZVRKSk9CdVA2Z3hyYks2M2Fvai1vWFRkWTZxYjBOUGwwYmFaNGtLU0ozSmZXWXdKYjVYcWZBQzlRTWsxWk4xN2d1TQ?oc=5",
+   "published_utc": "2026-10-07T08:13:34+00:00",
+   "title_original": "EU Plans Import Cap on Chinese Hybrid Cars to Protect Sector",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fa72d7f993281390"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51857,75 +51926,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4f1460f5c5dc4c9a"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "TSMC, ASML partner on 12-inch EUV photomasks for advanced chips",
-   "url": "https://focustaiwan.tw/business/202609080020",
-   "published_utc": "2026-09-08T09:06:15+00:00",
-   "title_original": "TSMC, ASML partner on 12-inch EUV photomasks for advanced chips",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "015f63f40cb5111c"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "부산일보",
-   "title_en": "[Kang Yoon-kyung’s Column] The local economy is in shambles and the base interest rate is being raised.",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3N0VCU2ZjQmFKTXRrLWRtRkkzMV9pZVJ0Q0xtUVVIbXZuUV9HeHQydVRzSm0wejVPZkQ2VFVSQU4wMEJMWWpITjRFOXZLZlRzZWJRVkZYZ2NibC1WZndGcVQ5UENVLWQ1Y1VleW1Qcjc2RjFU?oc=5",
-   "published_utc": "2026-09-08T09:04:02+00:00",
-   "title_original": "[강윤경 칼럼] 지역 경제 엉망인데 기준금리 인상이라니",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5d38af548ed7e8ef"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "BYD targets more than 2.5 million vehicle exports in 2027, brokerages say",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN2YzSE1UZGpna0FPd0NqUHNpVE5sTVQxcHFZOFAzd1RQb0x2UGNuY3B5eGttSmlSZGVkdnYyTC1XQnFKRGVQdzBBVWswcjFjLU9reUN5WHhXTVA5cF92UjI0dkltbnVORExud0xjVmFJazhZS2RtQ2NOMVNEWEpqSHp5MC03cFROdzJFVE5SUVJ6SHRVTEdOWi1DOFJrV2lCa3JZaVUweU5hWk1oTGltdFBJbWh3UXVmVl9FWnFlV3ppVjItZFdXUUFsWTd2eEU?oc=5",
-   "published_utc": "2026-09-08T08:55:44+00:00",
-   "title_original": "BYD targets more than 2.5 million vehicle exports in 2027, brokerages say",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "db8273663542352d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Upward Revision to Japan 2Q GDP Gives Yen Extra Boost — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260908001657:0/",
-   "published_utc": "2026-09-08T08:55:00+00:00",
-   "title_original": "Upward Revision to Japan 2Q GDP Gives Yen Extra Boost — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5e97e5ff148f4cd7"
   },
   {
    "source_id": "manual_ia",
