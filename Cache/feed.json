@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-08T01:12:43.904362+00:00",
- "collected_at_utc": "2026-10-08T01:12:43.904362+00:00",
+ "generated_at_utc": "2026-10-08T01:22:47.004823+00:00",
+ "collected_at_utc": "2026-10-08T01:22:47.004823+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1253,
-  "china": 781,
-  "taiwan": 268,
-  "korea": 698
+  "japan": 1252,
+  "china": 779,
+  "taiwan": 269,
+  "korea": 700
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 52,
+   "error": "",
+   "newest": "2026-10-08T08:50:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T01:09:00+00:00"
+   "newest": "2026-10-08T01:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T07:58:03+00:00"
+   "newest": "2026-10-08T01:14:13+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea shares on track for second weekly decline as chipmakers drag",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45U00Q:0-south-korea-shares-on-track-for-second-weekly-decline-as-chipmakers-drag/",
+   "published_utc": "2026-10-08T01:20:13+00:00",
+   "title_original": "South Korea shares on track for second weekly decline as chipmakers drag",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a95b13bb2d24fe4c"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "에너지경제신문",
+   "title_en": "‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level from 2022",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CWkNRbkhPN2JGNVc0UlhBY1NjSGNNOEZaUUVrcmJleFBZWDIwZGdVSGE4cnpzTTk4c0V0MV9tZnhOYTNSa1JYQzlMSkJReHdJaVNacEZtMHp0ZG1QN2JVX0tDRQ?oc=5",
+   "published_utc": "2026-10-08T01:14:13+00:00",
+   "title_original": "‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "99c612b549c007d3"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -1201,6 +1235,24 @@
    "id": "f7c81a0ec99f68c7"
   },
   {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Kenya central bank holds key rate, sees inflation within target despite recent rise",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnMtTjdfYUFybUUwb1FGTEFwVG0tdDlSRlIxMlVKNXNuaE5yNUpQdkFaS1QzNmxmN1pFcnIzWmUyOXJRbkFySktQS2NaQ2hUSFpTalB0T1U0Rm5BVVBGZllhS2E0dlhDRTBCUmNzeVhpeWNxWDhrMGYtWXpOMFZDWW9adVIxXzl4THhlOFNPVldGV3FKSnh5QW9sRk1IZ1d0ZS1B?oc=5",
+   "published_utc": "2026-10-07T14:56:35+00:00",
+   "title_original": "Kenya central bank holds key rate, sees inflation within target despite recent rise",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ddf7f9e9eacfb33d"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "Intel stays in Musk's Terafab plan as TSMC joins the mix",
@@ -1630,8 +1682,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -1645,7 +1697,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -6001,7 +6053,7 @@
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Russian exporters fight to win back Chinese buyers amid fallout over fake goods",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV1YxOVRqZU5GcklWRm5vTm1rUnlrUjRPUE5sN3FCdTAzR1ZwU1pQU3JELUQwVGVoQlcweEhhR0I2ak8yWGVTQnN4aFVwWHpNNmlsRHJPUHhQM2lXVTVhY3JhMzRkbW9EcVFwV1JqbTE1TGNKSmxtRzlXckpzQTA3eFZwa09yTE9vMlZtcU9jMmd4bmpBVm81bmhwTzl2THdsZW9yaUxsZHBCV0hwbnJJc0lYME42azNVYkY0OXJna1VGYTRadXE0Wlo4U1NyY2RhVlHSAdIBQVVfeXFMUHhLMXozX1NCWHRhY3V4dVp4aHlpQUMtTnI4ZHRERkViWWcxZkF6VjlXOVJtR3NKSHRHbzY5ZlE5UW1yOTVoQjVIeVpjeU10bHpSNC1zM29LQXBNU2M5UC1VQUNfWXBKSXZXaTZGVW9aTkZVenIwN095QjZYZS1Pc3hjM1RaZEswRmQ0T0Vxazh1bGJyVDNoUXdoc2VUdFoySWdDd2dHUV9rRGtGNXk3VUg2SFVua3ktLTZYNDhjN3ZQZ2o5RWZNOGZfVW1Ebk90TTJ3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV1YxOVRqZU5GcklWRm5vTm1rUnlrUjRPUE5sN3FCdTAzR1ZwU1pQU3JELUQwVGVoQlcweEhhR0I2ak8yWGVTQnN4aFVwWHpNNmlsRHJPUHhQM2lXVTVhY3JhMzRkbW9EcVFwV1JqbTE1TGNKSmxtRzlXckpzQTA3eFZwa09yTE9vMlZtcU9jMmd4bmpBVm81bmhwTzl2THdsZW9yaUxsZHBCV0hwbnJJc0lYME42azNVYkY0OXJna1VGYTRadXE0Wlo4U1NyY2RhVlE?oc=5",
    "published_utc": "2026-10-04T09:00:06+00:00",
    "title_original": "Russian exporters fight to win back Chinese buyers amid fallout over fake goods",
    "region": "china",
@@ -6012,7 +6064,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e42d2a3420f789c6"
+   "id": "f1e884ea0e920475"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51873,58 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b1acdc181d518f58"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China’s Oil Imports Strengthen as Refiners Diversify Supply",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekhyZnZaN2djQmpKT2YyeGRaem1mS0FMSTlyZFVHTVF5Z0dzRU5LV21jRmlxWnZTVHFhZHUwUlU1UUNQdmUzcGo0ak44YmpuNjRoeFV2YkI3QWV5NUdwcWJQcERBWW5zczNDb0p2RE9EOUtNbmZadE9ITlpiZDFicHozZDJCeEpmUUxXTHZxZTAzTjRHX01aWkNMVFJVbjl4Y3EwQ3lsNzNJUDZ2bWJ1N3V3?oc=5",
-   "published_utc": "2026-09-08T03:23:00+00:00",
-   "title_original": "China’s Oil Imports Strengthen as Refiners Diversify Supply",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "47f8dfb0048a9444"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Yen extends rally as BOJ hike bets gather pace",
-   "url": "https://www.investing.com/news/forex-news/yen-extends-rally-as-boj-hike-bets-gather-pace-4890777",
-   "published_utc": "2026-09-08T03:14:39+00:00",
-   "title_original": "Yen extends rally as BOJ hike bets gather pace",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4acf9ac8b528fd64"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "China’s 25% export surge sets stage for record annual trade surplus",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnkxQXZIUUNxQzlQMXFUYTNMTXpfSjdjcHZaSUtTa0U4dEF1dHZUYzk2QzRDdzJlN0djaFNObE9qSXo1QUthc25Wck16MUZjd1FIVGFmZEg1RDlRZGFFRndWbENRVXpEUWVPRnM5MFd6aWlNaHpIblA0ejNZZW1PT3l1RjU?oc=5",
-   "published_utc": "2026-09-08T03:01:39+00:00",
-   "title_original": "China’s 25% export surge sets stage for record annual trade surplus",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a4e239dea0f1181"
   },
   {
    "source_id": "manual_ia",

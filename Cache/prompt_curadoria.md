@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T01:12:43.904362+00:00
+Última coleta: 2026-10-08T01:22:47.004823+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1253
-  🇨🇳 China          781
-  🇹🇼 Taiwan         268
-  🇰🇷 Coreia do Sul  698
+  🇯🇵 Japão          1252
+  🇨🇳 China          779
+  🇹🇼 Taiwan         269
+  🇰🇷 Coreia do Sul  700
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea shares on track for second weekly decline as chipmakers drag
+  - [korea] ‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level fr
   - [japan] “Reiwa Loan Hell” faced by Bank of Japan interest rate hike… Shock of 40,000 yen increase in repayments in 202
   - [china] Beyond the summit: how US-China relations could still unravel
   - [japan] August current balance surplus of 4,062 billion yen due to increased dividends from overseas, etc.
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Representative question from today in the House of Councilors, debate over consumption tax cut, investigation 
   - [japan] Ebara's entry into semiconductor equipment was a "historical necessity"; the innovation of CMP equipment honed
   - [korea] Samsung Electronics to pay chip division special bonus in spring 2027
-  - [korea] AMD’s Lisa Su Visits South Korea, Reportedly Discusses AI Collaboration With Samsung, SK Hynix
-  - [japan] Australia will buy Japan frigates despite budget cuts: finance chief
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T01:12:44+00:00",
+      "published_utc": "2026-10-08T01:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
