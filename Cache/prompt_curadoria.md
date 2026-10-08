@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T12:32:41.993099+00:00
+Última coleta: 2026-10-08T12:42:44.559977+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1233
   🇨🇳 China          790
-  🇹🇼 Taiwan         271
-  🇰🇷 Coreia do Sul  706
+  🇹🇼 Taiwan         272
+  🇰🇷 Coreia do Sul  705
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] GlobalFoundries partners with TSMC to establish US-based production of silicon interposers
   - [korea] New Silkroad Says Unit To Buy 2.67% Stake In I-Aurora For KRW 1,999.99 Million
   - [china] China has no need or intention to weaken yuan for trade edge, central bank says
   - [taiwan] Taiwan Trade Surplus Grows In September
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] A sequel with more volume! The central bank will launch a 1.2 trillion yuan buyout reverse repo
   - [korea] Samsung Electronics opened the era of 100 trillion won in quarterly operating profit, but its stock
   - [japan] 22nd Asia Pacific Retailers Conference Video Message from Prime Minister Takaichi
-  - [korea] Samsung Q3 profit seen surging nearly nine-fold as AI chip demand soars
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T12:32:42+00:00",
+      "published_utc": "2026-10-08T12:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
