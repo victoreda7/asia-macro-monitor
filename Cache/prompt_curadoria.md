@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T23:42:46.192559+00:00
-Total: 2998 manchetes
+Última coleta: 2026-10-08T23:52:43.078278+00:00
+Total: 2996 manchetes
 
-  🇯🇵 Japão          1221
-  🇨🇳 China          796
+  🇯🇵 Japão          1222
+  🇨🇳 China          795
   🇹🇼 Taiwan         279
-  🇰🇷 Coreia do Sul  702
+  🇰🇷 Coreia do Sul  700
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
   - [japan] JAPAN AUG HOUSEHOLD SPENDING Y/Y FALL LED BY LOWER PRIVATE UNIVERSITY TUITION, DOMESTIC PACKAGE TOUR COST, SUB
   - [japan] JAPAN AUG REAL CORE HOUSEHOLD SPENDING (EX-HOUSING, VEHICLES, GIFT MONEY) -4.2% Y/Y VS. -1.4% IN JULY WHEN OVE
   - [japan] IMF invites BOJ chief Ueda to speak on November 6
@@ -56,7 +57,6 @@ Total: 2998 manchetes
   - [japan] Bank of Japan’s regional economic report “AI-related demand expands and production increases in many regions”
   - [korea] Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue
   - [japan] PM Takaichi rejects "reflationary" label for her economic policies
-  - [japan] Prime Minister: “Funding sources for consumption tax reduction will be considered throughout budget formulatio
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2998 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T23:42:46+00:00",
+      "published_utc": "2026-10-08T23:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,31 +1,23 @@
 {
- "generated_at_utc": "2026-10-08T23:42:46.192559+00:00",
- "collected_at_utc": "2026-10-08T23:42:46.192559+00:00",
+ "generated_at_utc": "2026-10-08T23:52:43.078278+00:00",
+ "collected_at_utc": "2026-10-08T23:52:43.078278+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
- "count": 2998,
+ "count": 2996,
  "by_region": {
-  "japan": 1221,
-  "china": 796,
+  "japan": 1222,
+  "china": 795,
   "taiwan": 279,
-  "korea": 702
+  "korea": 700
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.8,
  "sources": [
-  {
-   "source_id": "gn_jp_mof",
-   "name": "MOF Japan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 53,
+   "count": 50,
    "error": "",
    "newest": "2026-10-08T14:00:00+09:00"
   },
@@ -158,6 +150,14 @@
    "newest": "2026-10-08T12:40:49+00:00"
   },
   {
+   "source_id": "gn_jp_mof",
+   "name": "MOF Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-09-28T07:00:00+00:00"
+  },
+  {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T06:28:00+09:00"
+   "newest": "2026-10-09T08:46:29+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T23:39:00+00:00"
+   "newest": "2026-10-08T23:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-09T08:30:00+09:00"
+   "newest": "2026-10-09T08:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Nikkei May Decline Amid Concerns About Energy Costs — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261008009684:0-nikkei-may-decline-amid-concerns-about-energy-costs-market-talk/",
+   "published_utc": "2026-10-08T23:46:00+00:00",
+   "title_original": "Nikkei May Decline Amid Concerns About Energy Costs — Market Talk",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "757d8014b546e680"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
@@ -1157,24 +1174,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d264f2a75140f31f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China PBOC: Past Yuan Appreciation Did Not Hurt Trade",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008003073_20261008003076:0-china-pboc-past-yuan-appreciation-did-not-hurt-trade/",
-   "published_utc": "2026-10-08T10:19:00+00:00",
-   "title_original": "China PBOC: Past Yuan Appreciation Did Not Hurt Trade",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f0dfc59f617a8acf"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3600,8 +3599,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -3615,7 +3614,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -51873,40 +51872,6 @@
    "live_wire": false,
    "manual": false,
    "id": "94e5e4a7e766dcc9"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Korea Picks $22 Billion Gas Project as First Under Trade Deal",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa1U1VU5wSElNNndzU09Ba2tMdEZFY2xFSXRGaFo2YTVQM2o4dEtHMHlCUmMySjlaMzRZVmljaUxFR250VTh0U0pHMU90Z2c0al9wTkl3VWlqV3JfQlhrUElwbjFYQkZwU0VGNGN4Mm1qU3QyM0VnYnZBdjRlZDNTcUg1MTVocUVxMmtKUS15VEZTOHdPeFhHN29FTkpSd1FqSmVUX0JmeWVRTmdLaFBfWg?oc=5",
-   "published_utc": "2026-09-08T23:45:06+00:00",
-   "title_original": "Korea Picks $22 Billion Gas Project as First Under Trade Deal",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9daf7f7c988dde15"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Korea Picks $22 Billion Gas Project as First in US Trade Deal",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa1U1VU5wSElNNndzU09Ba2tMdEZFY2xFSXRGaFo2YTVQM2o4dEtHMHlCUmMySjlaMzRZVmljaUxFR250VTh0U0pHMU90Z2c0al9wTkl3VWlqV3JfQlhrUElwbjFYQkZwU0VGNGN4Mm1qU3QyM0VnYnZBdjRlZDNTcUg1MTVocUVxMmtKUS15VEZTOHdPeFhHN29FTkpSd1FqSmVUX0JmeWVRTmdLaFBfWg?oc=5",
-   "published_utc": "2026-09-08T23:45:06+00:00",
-   "title_original": "Korea Picks $22 Billion Gas Project as First in US Trade Deal",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "421f966e227a5528"
   },
   {
    "source_id": "manual_ia",
