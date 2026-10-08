@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T15:03:21.537542+00:00",
- "collected_at_utc": "2026-10-08T15:03:21.537542+00:00",
+ "generated_at_utc": "2026-10-08T15:12:43.654728+00:00",
+ "collected_at_utc": "2026-10-08T15:12:43.654728+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1232,
-  "china": 788,
-  "taiwan": 277,
+  "china": 789,
+  "taiwan": 276,
   "korea": 703
  },
- "elapsed_s": 31.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T14:26:51+00:00"
+   "newest": "2026-10-08T15:10:57+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 20,
+   "count": 18,
    "error": "",
    "newest": "2026-10-08T08:38:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T15:02:55+00:00"
+   "newest": "2026-10-08T15:11:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-08T13:31:29+00:00"
+   "newest": "2026-10-08T15:06:53+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Xin Yuan Enterprises Says Ocean Vivo To Make Pre-Conditional Voluntary Cash Offer",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45T2B5:0-xin-yuan-enterprises-says-ocean-vivo-to-make-pre-conditional-voluntary-cash-offer/",
+   "published_utc": "2026-10-08T15:09:11+00:00",
+   "title_original": "Xin Yuan Enterprises Says Ocean Vivo To Make Pre-Conditional Voluntary Cash Offer",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a9d0345615b3239b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "TSMC Taps GlobalFoundries In $2B AI Chip Deal, Putting GFS Stock On Track To Hit Over 1-Month High",
+   "url": "https://www.tradingview.com/news/stocktwits:144988d06094b:0-tsmc-taps-globalfoundries-in-2b-ai-chip-deal-putting-gfs-stock-on-track-to-hit-over-1-month-high/",
+   "published_utc": "2026-10-08T15:05:25+00:00",
+   "title_original": "TSMC Taps GlobalFoundries In $2B AI Chip Deal, Putting GFS Stock On Track To Hit Over 1-Month High",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b82e497452b844ed"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "BayStreet",
@@ -1090,40 +1124,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3f2ab0d10e0d5a74"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Taiwan Exports Hit Record High",
-   "url": "https://www.tradingview.com/news/te_news:590494:0-taiwan-exports-hit-record-high/",
-   "published_utc": "2026-10-08T08:45:09+00:00",
-   "title_original": "Taiwan Exports Hit Record High",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "eb606458a6aab1ba"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Taiwan Posts Largest Trade Surplus on Record",
-   "url": "https://www.tradingview.com/news/te_news:590491:0-taiwan-posts-largest-trade-surplus-on-record/",
-   "published_utc": "2026-10-08T08:38:07+00:00",
-   "title_original": "Taiwan Posts Largest Trade Surplus on Record",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8b22aec0e83e346f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3358,8 +3358,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -3373,7 +3373,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
