@@ -211,9 +211,16 @@ GOOGLE_NEWS_QUERIES = [
      "locale": ("zh-CN", "CN", "CN:zh-Hans")},
     {"id": "gn_cn_xinhua",  "name": "Xinhua / 新华",    "region": "china",
      "q": "site:news.cn OR site:xinhuanet.com (economy OR Politburo OR State Council)"},
-    {"id": "gn_cn_nbs",     "name": "NBS China (GN)",   "region": "china",
-     "q": "site:stats.gov.cn (GDP OR CPI OR PPI OR PMI OR industrial production OR "
-          "retail sales OR fixed asset investment)"},
+    # Parada desde 15/09/2026 com a query antiga (inglês, en-US, termos com
+    # OR): o Google News ordena por relevância e o índice em inglês do
+    # stats.gov.cn é pobre, então os 30 itens vinham cheios de páginas de
+    # 2023–2025 e o PMI de setembro (30/09) e o lucro industrial (27/09) não
+    # apareciam. Em chinês + zh-CN + when:14d vêm só os comunicados recentes
+    # (PMI, lucro industrial, CPI/PPI, 70 cidades, varejo); o que não é macro
+    # (reuniões internas, treinamento) cai no filtro de tópico.
+    {"id": "gn_cn_nbs",     "name": "NBS 国家统计局",   "region": "china",
+     "q": "site:stats.gov.cn when:14d",
+     "locale": ("zh-CN", "CN", "CN:zh-Hans")},
 
     # ---- Taiwan ----
     {"id": "gn_tw_focus",   "name": "Focus Taiwan",    "region": "taiwan",
@@ -404,6 +411,9 @@ TOPIC_PATTERNS = {
         r"|national economy (maintained|witnessed|operated|showed|made|got off)"
         r"|景気|国内総生産|鉱工業生産|小売|失業|雇用|短観"
         r"|经济增长|国内生产总值|工业增加值|社会消费品零售|固定资产投资|失业率|采购经理"
+        # Lucro industrial e "规模以上工业" (empresas acima do porte mínimo)
+        # — release mensal da NBS que caía como sem-topico.
+        r"|工业企业利润|规模以上工业|industrial profits"
         r"|성장률|생산|고용|실업|소매판매"
     ),
     "trade": _rx(
