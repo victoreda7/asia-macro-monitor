@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T07:32:46.321839+00:00
+Última coleta: 2026-10-08T07:42:45.871366+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1236
+  🇯🇵 Japão          1235
   🇨🇳 China          785
   🇹🇼 Taiwan         268
-  🇰🇷 Coreia do Sul  711
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [korea] (2nd LD) Seoul shares down for 3rd day amid inflation worries
   - [korea] Seoul shares down for 3rd day amid inflation worries
+  - [japan] Consumption tax cut to compensate small and medium-sized farmers
   - [china] Occl Says Government Initiates Countervailing Duty Investigation On Insoluble Sulphur Imports From China Pr
   - [korea] Protec Mems Technology Wins 7.29 Billion Won Order From Samsung Electronics
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The first day after the holiday! The central bank took action and launched a 1.2 trillion yuan buyout reverse 
   - [japan] Asian currencies rangebound as dollar holds near 18-month high, yen slips
   - [taiwan] AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
-  - [china] Yuan steady despite dollar strength during China's Golden Week holiday
-  - [korea] S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T07:32:46+00:00",
+      "published_utc": "2026-10-08T07:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

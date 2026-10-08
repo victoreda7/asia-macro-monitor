@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T07:32:46.321839+00:00",
- "collected_at_utc": "2026-10-08T07:32:46.321839+00:00",
+ "generated_at_utc": "2026-10-08T07:42:45.871366+00:00",
+ "collected_at_utc": "2026-10-08T07:42:45.871366+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1236,
+  "japan": 1235,
   "china": 785,
   "taiwan": 268,
-  "korea": 711
+  "korea": 712
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T04:00:26+00:00"
+   "newest": "2026-10-08T04:02:17+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T07:18:38+00:00"
+   "newest": "2026-10-08T07:39:29+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
    "newest": "2026-10-08T05:08:52+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T00:51:00+00:00"
+   "newest": "2026-10-08T06:04:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T00:51:00+00:00"
+   "newest": "2026-10-08T05:39:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-08T07:19:52+00:00"
+   "newest": "2026-10-08T07:32:44+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T06:40:09+00:00"
+   "newest": "2026-10-08T07:37:32+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(2nd LD) Seoul shares down for 3rd day amid inflation worries",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5seDRvT2xqaUZpaVdMTDJLOFlTZDRMY3d2bWJ5YU96SnQtSHBSbHBOdUxPM01Nem9lX2otdjQ3M3pZUFFfUEszbTc5MjJ5Wko1V1Rpei1xdk14dw?oc=5",
+   "published_utc": "2026-10-08T07:37:32+00:00",
+   "title_original": "(2nd LD) Seoul shares down for 3rd day amid inflation worries",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ca8437f0ee955450"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Seoul shares down for 3rd day amid inflation worries",
@@ -359,6 +376,24 @@
    "live_wire": false,
    "manual": false,
    "id": "9848352b41facf35"
+  },
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Consumption tax cut to compensate small and medium-sized farmers",
+   "url": "https://news.yahoo.co.jp/pickup/6598002?source=rss",
+   "published_utc": "2026-10-08T07:32:44+00:00",
+   "title_original": "消費減税 中小零細農家に補填へ",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "61802b1c6a3bcf75"
   },
   {
    "source_id": "tradingview_live",
@@ -51898,40 +51933,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2ed410ddb670a9be"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Original] Bank of Japan accelerates interest rate hike to 1.25% at this month's meeting",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hS1RDbjRnemk2YXJVaGFQWk1SNHNBMkZ1cjY1Sy0xQjIyY09jbkdmcDZ0TWRLb1doSTJvdnF4ZE9JX19va3hlb01hOU95VVBI?oc=5",
-   "published_utc": "2026-09-08T11:16:05+00:00",
-   "title_original": "【独自】日銀、今月の会合で利上げへ ペース加速、1.25％に",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4cb06ffb9097d947"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "Why the sudden appreciation of the yen: Background and outlook",
-   "url": "https://news.yahoo.co.jp/pickup/6594665?source=rss",
-   "published_utc": "2026-09-08T10:53:51+00:00",
-   "title_original": "なぜ突然の円高に 背景と見通し",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "34e5f0fc72d9f479"
   },
   {
    "source_id": "manual_ia",
