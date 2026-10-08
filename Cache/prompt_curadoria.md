@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T00:32:46.358901+00:00
+Última coleta: 2026-10-08T00:42:44.970440+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1255
+  🇯🇵 Japão          1254
   🇨🇳 China          783
   🇹🇼 Taiwan         268
-  🇰🇷 Coreia do Sul  694
+  🇰🇷 Coreia do Sul  695
 
 ## O que já está no feed (não repita)
 
   - [korea] S. Korea extends current account surplus in Aug. amid solid exports
   - [korea] Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom
+  - [korea] South Korean Won Hits 4-week High
   - [china] We’ve already known about the financial news丨The central bank’s 1.2 trillion reverse repurchase is launched to
   - [korea] Key facts: Samsung (005930) HBM4 Deal; Foundry Talks; Fab Woes
   - [korea] Key facts: AMD Praises SK hynix (000660) HBM4; ADR Falls 2.8%
@@ -45,7 +46,7 @@ Total: 3000 manchetes
   - [japan] NGK President Kobayashi ``Concentrates investment in the semiconductor manufacturing field''...Withdrawal from
   - [taiwan] Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today's Market — Barrons.com
   - [japan] Representative question from today in the House of Councilors, debate over consumption tax cut, investigation 
-  - [japan] <Our original business is pumps> Ebara's entry into semiconductor equipment was a "historical necessity"; the 
+  - [japan] Ebara's entry into semiconductor equipment was a "historical necessity"; the innovation of CMP equipment honed
   - [korea] Samsung Electronics to pay chip division special bonus in spring 2027
   - [korea] AMD’s Lisa Su Visits South Korea, Reportedly Discusses AI Collaboration With Samsung, SK Hynix
   - [japan] Australia will buy Japan frigates despite budget cuts: finance chief
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The Fed's overnight reverse repurchase agreement (RRP) usage on Wednesday was $2.338 billion
   - [china] China rejects EU request for voluntary hybrid car export curbs, FT reports
   - [china] China slaps down EU request for voluntary curbs on hybrid car exports
-  - [japan] Japan Pushes Local 5G Manufacturing, Digital Infrastructure In India
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T00:32:46+00:00",
+      "published_utc": "2026-10-08T00:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
