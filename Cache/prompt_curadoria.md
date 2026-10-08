@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T06:42:48.080357+00:00
+Última coleta: 2026-10-08T06:52:45.456751+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1237
+  🇯🇵 Japão          1236
   🇨🇳 China          782
   🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  712
+  🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
+  - [korea] Seoul stocks down for 3rd day amid inflation worries
   - [korea] (URGENT) Seoul stocks down for 3rd day amid inflation worries
   - [china] China's Semiconductor Self-Sufficiency Rate Could Reach 47% in 2030 — Market Talk
   - [korea] Kospi Falls for Third Consecutive Session; Chip Stocks Retreat
@@ -42,7 +44,6 @@ Total: 3000 manchetes
   - [china] The first day after the holiday! The central bank took action and launched a 1.2 trillion yuan buyout reverse 
   - [japan] Asian currencies rangebound as dollar holds near 18-month high, yen slips
   - [taiwan] AUO subsidiary Darwin shifts toward high-end manufacturing, explores CPO and semiconductor opportunities
-  - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
   - [china] Yuan steady despite dollar strength during China's Golden Week holiday
   - [korea] S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls
   - [japan] Stock prices fall, profit-taking selling in some semiconductor-related stocks
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [korea] Samsung, SK hynix face investor test as buybacks wind down
   - [china] Nissan Says It Will Start Sales Of China-Made Frontier Pro Pickup Truck In Mexico In October, Highlighting Chi
-  - [korea] Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T06:42:48+00:00",
+      "published_utc": "2026-10-08T06:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
