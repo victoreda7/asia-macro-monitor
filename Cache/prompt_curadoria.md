@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T06:22:47.082833+00:00
+Última coleta: 2026-10-08T06:32:46.208214+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1239
-  🇨🇳 China          780
-  🇹🇼 Taiwan         270
-  🇰🇷 Coreia do Sul  711
+  🇯🇵 Japão          1237
+  🇨🇳 China          782
+  🇹🇼 Taiwan         269
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Branch Managers Expect Price Pressures to Broaden
+  - [korea] Samsung Stock Unimpressed Even After 783% Profit Growth Forecast
   - [taiwan] TSMC's third-quarter revenue surges 50%, rides on AI wave to beat market forecast
   - [taiwan] TSMC’s third-quarter revenue surges to record, beating market forecast
-  - [japan] Bank of Japan Branch Managers Expect Price Pressures to Broaden
   - [taiwan] TSMC's Q3 Revenue Hits a Record, Beating Market Forecasts
   - [japan] Bank of Japan sees broadening inflationary pressure
   - [taiwan] TSMC's revenue in the third quarter grows 50% compared to the same period last year, exceeding market forecast
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan futures fall as yen firms, Tokyo equities slip
   - [china] Yuan Consolidates as Market Participants Assess PBOC's Yuan Fixing Vs. Dollar — Market Talk
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation - News
-  - [japan] Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T06:22:47+00:00",
+      "published_utc": "2026-10-08T06:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

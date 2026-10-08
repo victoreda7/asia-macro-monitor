@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T06:22:47.082833+00:00",
- "collected_at_utc": "2026-10-08T06:22:47.082833+00:00",
+ "generated_at_utc": "2026-10-08T06:32:46.208214+00:00",
+ "collected_at_utc": "2026-10-08T06:32:46.208214+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1239,
-  "china": 780,
-  "taiwan": 270,
-  "korea": 711
+  "japan": 1237,
+  "china": 782,
+  "taiwan": 269,
+  "korea": 712
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T03:10:57+00:00"
+   "newest": "2026-10-08T06:26:32+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T06:21:00+00:00"
+   "newest": "2026-10-08T06:32:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T22:48:38+00:00"
+   "newest": "2026-10-08T04:50:52+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -345,6 +345,41 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Bank of Japan Branch Managers Expect Price Pressures to Broaden",
+   "url": "https://www.tradingview.com/news/DJN_DN20261008001124:0-bank-of-japan-branch-managers-expect-price-pressures-to-broaden/",
+   "published_utc": "2026-10-08T06:26:00+00:00",
+   "title_original": "Bank of Japan Branch Managers Expect Price Pressures to Broaden",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bec81d728c7e9b35"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Samsung Stock Unimpressed Even After 783% Profit Growth Forecast",
+   "url": "https://www.tradingview.com/news/tradingview:6b9eeec20094b:0-samsung-stock-unimpressed-even-after-783-profit-growth-forecast/",
+   "published_utc": "2026-10-08T06:22:26+00:00",
+   "title_original": "Samsung Stock Unimpressed Even After 783% Profit Growth Forecast",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "46bb2ac2658f8c55"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "CNBC TV18",
    "title_en": "TSMC's third-quarter revenue surges 50%, rides on AI wave to beat market forecast",
    "url": "https://www.tradingview.com/news/cnbctv:46f9caa05094b:0/",
@@ -376,23 +411,6 @@
    "live_wire": true,
    "manual": false,
    "id": "17f7cecb3dedb524"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Bank of Japan Branch Managers Expect Price Pressures to Broaden",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008001017:0-bank-of-japan-branch-managers-expect-price-pressures-to-broaden/",
-   "published_utc": "2026-10-08T06:11:00+00:00",
-   "title_original": "Bank of Japan Branch Managers Expect Price Pressures to Broaden",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0b0d0472f2d9f3c1"
   },
   {
    "source_id": "tradingview_live",
@@ -2809,8 +2827,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -2824,7 +2842,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -3603,6 +3621,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b70d3512810ea84b"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Land sales offer only temporary relief for West Kowloon arts hub, experts warn",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM1JwQjlqR3I0SjdqS28xOXQ3Q2tjVXlUaVRHeUJrX0JMV2U3LW1uX2tKbXU5bkg5ckdoc1FfVE4wWXhJMjRSUUlSY2hwRFItT0lzNjA4V2d4MDkwSFdEM2t6SlZmdkMzRjk0QW1fVHFCU3dLWnJBUW9XM3J6Nnc1Y3BiZ0pxbW5lQ3Z5OV96X1F2R09CMEtueFNXM1ctcDU5djlUT0lXMUMtT0E0cTVsT2N2ZDMzSjNtWjNqUlU2UG0tRnU4LUdMdV8taFhqd9IBzgFBVV95cUxPSVJyR2pnNzJLRlhVZmRvNkVmeXBST09zX2VuLURMZ1hKajNNcTlhbjhQRk9hQldsdFJqMC1Xbzh4MU1xMlVyUzdBMHZzZ2p6U2RmLWQwaVF4Mm5zSWVfTzZWWDFoemtpWEpOVXp0T3FqVkIzZWF2Y2RSTUdXMjNyQzNYN1VxQ2VZMG9PVFplODRCZ3lHSmw0QVowTlRObXVkbktUN0dOb2xZcWd6UmdXREx3TEdKSzFEbWV0WE5DZ3A4aEIwT3ZKTmJOS0xrZw?oc=5",
+   "published_utc": "2026-10-07T00:00:31+00:00",
+   "title_original": "Land sales offer only temporary relief for West Kowloon arts hub, experts warn",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a45ba30e64e5f364"
   },
   {
    "source_id": "tradingview_live",
@@ -4726,6 +4761,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4dd826a64a4a91bf"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "West Kowloon arts hub deficit widens to HK$998 million as operating costs rise",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTJya1JMUEFUZE0tSXRtaUhWemFieHFrQ09EQUR5WHo5TnNUaDluZnhmcVpGaXVwQmhDcHRFelEwSHZSTDlUSFJsdFlILWFoTmZhTjZldHBSRjZPUzhObXlTVnQxM05FZ1RWVUd1U2RrakNORHhpR3dCcHd5R0FOUDZiLXhMNFdoME9PVkxRanp4Z19rRS1yNmk0SW5zNVFmMXEzUGlwRjhDUm1BQVhCazFlSDcyS2E1U1NjVlB4SUpoZ3Y2eGNEVHhDNkJZTlXSAc8BQVVfeXFMT2VHaWhzSjBIOWFOZURsRjRyYU1Md29HUUFNbDBRV0lseTVFNG82WnI5TjZpNEhBVTRleWcxME5UeEFGM0k2by0zMi1DOVZQeDY1SnU0RUhKSkZiSTZDc3I4eDJOaDhXUUFTdERpX3FyVXQwek1PVW1hOFlmWkQ1V3hHMG1iSGdyMVc3anRjNHpRZGhFTEVXUTRyQ2o2Z1FuRzhpck1TWlNpdG1PQ0xUSXE3SkcweUJhOHpzSG1IbndqRUNZZGVTQmRvX3czUDJ3?oc=5",
+   "published_utc": "2026-10-06T08:14:47+00:00",
+   "title_original": "West Kowloon arts hub deficit widens to HK$998 million as operating costs rise",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9db91f320e53f49f"
   },
   {
    "source_id": "nikkei_asia",
@@ -8459,6 +8511,24 @@
    "live_wire": false,
    "manual": false,
    "id": "06a5f0d7e69e92fb"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "블루밍비트",
+   "title_en": "September prices rise to 2% again... The Bank of Korea said, “October will rise by around 3%.”",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6Q3l0T3QtalNvSUdUbTIxVnl5bzZyN3N5bVNaNkJheDNLcE95S3ZKTUxNSUNYWWtTOVhqWWlfeVA5VFBVY0ZWV1RfZ2wxVFBH?oc=5",
+   "published_utc": "2026-10-02T08:38:04+00:00",
+   "title_original": "9월 물가 다시 2%대…한은 \"10월은 3% 안팎 오를 것\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6312e3e1ce1458c5"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51859,74 +51929,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8345025f074ead58"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Original] Bank of Japan accelerates rate hike to 1.25% at this month's meeting (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TbHZ0Z1dDdUluUWtibWRDTlE0MkM4WDVOV1U0QUdpOVJzUE5sUHA5NDVoUmtSZWVndVlQMWdma2p0R3VSYkY5ZTNZeW40V3FSd3lQa2pKQ3FLZkZ3MXk4U2VfcVp5b0gxeUZtb19XOFZNbUVJbGp6ZVgyRTY5Tms?oc=5",
-   "published_utc": "2026-09-08T10:01:23+00:00",
-   "title_original": "【独自】日銀、今月の会合で利上げへ ペース加速、1.25％に（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "292d98234afa8a89"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Can GPT-6 Astra reignite the memory chip and KOSPI trade?",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmd2ZzNKaGdFeHZUcG1tMDBNZGNUWDdQLUFWc2RRaUdfcGZsZTdqVzUyMmdpRUFoajQwMnMyTE5LWjlWWkhsY1h0N28xRXQ2dC1naUl5TTRWSEdZM1hIczE2b1d2UWNSdUdXTzhSNFYzTTJuUDJFazA5VUFibWJIUXBpWUphRHN2cnhyUV9EakZ5OXNhNER6WjhyTUtCOW1HcnF5T1lLSzJXVlpPWkhuc01n?oc=5",
-   "published_utc": "2026-09-08T09:44:06+00:00",
-   "title_original": "Can GPT-6 Astra reignite the memory chip and KOSPI trade?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fcb32c28bc0714a2"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "TSMC, Intel and Samsung all bet on ASML's latest chip tool in AI race",
-   "url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-intel-and-samsung-all-bet-on-asml-s-latest-chip-tool-in-ai-race",
-   "published_utc": "2026-09-08T09:35:18.779348+00:00",
-   "title_original": "TSMC, Intel and Samsung all bet on ASML's latest chip tool in AI race",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fe30de00f07b9b5f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "Bitcoin Rally Faces Fresh Risks From Fed, Oil, Yen And Bond Markets As Spot Demand Weakens",
-   "url": "https://www.tradingview.com/news/stocktwits:01481e730094b:0-bitcoin-rally-faces-fresh-risks-from-fed-oil-yen-and-bond-markets-as-spot-demand-weakens/",
-   "published_utc": "2026-09-08T09:30:58+00:00",
-   "title_original": "Bitcoin Rally Faces Fresh Risks From Fed, Oil, Yen And Bond Markets As Spot Demand Weakens",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "96c51195c081ca92"
   },
   {
    "source_id": "manual_ia",
