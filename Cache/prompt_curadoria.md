@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T01:52:45.918665+00:00
+Última coleta: 2026-10-08T02:02:44.981382+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1248
-  🇨🇳 China          782
+  🇨🇳 China          781
   🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  701
+  🇰🇷 Coreia do Sul  702
 
 ## O que já está no feed (não repita)
 
+  - [korea] Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue
+  - [japan] Japan futures fall as yen firms, Tokyo equities slip
+  - [china] Yuan Consolidates as Market Participants Assess PBOC's Yuan Fixing Vs. Dollar — Market Talk
   - [japan] Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate
-  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [japan] Tokyo Gas acquires Indonesian LNG developer for island network
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation-News Center
   - [china] CHINA PBOC CONDUCTS CNY606 BLN VIA O/N REVERSE REPO THURS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7367 THURS VS 6.7351
+  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [japan] Asian stocks slip as oil, inflation worries and tech selloff weigh heavy; Nikkei down 700 points
   - [china] [The Central Bank will launch a 1.2 trillion yuan buyout reverse repurchase operation] In order to maintain su
   - [china] The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation_7x24 news_Sina Finance
@@ -33,6 +36,7 @@ Total: 3000 manchetes
   - [korea] South Korea shares on track for second weekly decline as chipmakers drag
   - [korea] South Korea says to take legal action if illegal Russian fuel shipments confirmed
   - [korea] ‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level fr
+  - [japan] “Reiwa mortgage hell” facing Bank of Japan interest rate hike…Shock of 40,000 yen increase in repayments in 20
   - [japan] “Reiwa Loan Hell” faced by Bank of Japan interest rate hike… Shock of 40,000 yen increase in repayments in 202
   - [china] Beyond the summit: how US-China relations could still unravel
   - [japan] August current balance surplus of 4,062 billion yen due to increased dividends from overseas, etc.
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics’ quarterly operating profit tops 100 trillion won for the first time... companywide operat
   - [korea] South Korea Current Account Surplus Widens
   - [korea] Samsung Electronics First South Korean Company to Top KRW100T in Quarterly Operating Profit
-  - [korea] Samsung Electronics 3Q Oper Pft Estimate Largely Met FactSet-Compiled Consensus
-  - [korea] Samsung Electronics Sees 3Q Oper Pft KRW107.400T Vs. KRW12.170T >005930.SE
-  - [korea] Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings
-  - [korea] Samsung Electronics Sees 3Q Rev KRW195.000T Vs KRW86.060T >005930.SE
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T01:52:46+00:00",
+      "published_utc": "2026-10-08T02:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

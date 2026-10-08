@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T01:52:45.918665+00:00",
- "collected_at_utc": "2026-10-08T01:52:45.918665+00:00",
+ "generated_at_utc": "2026-10-08T02:02:44.981382+00:00",
+ "collected_at_utc": "2026-10-08T02:02:44.981382+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1248,
-  "china": 782,
+  "china": 781,
   "taiwan": 269,
-  "korea": 701
+  "korea": 702
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-08T10:51:57+00:00"
+   "newest": "2026-10-08T10:52:38+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 24,
+   "count": 22,
    "error": "",
-   "newest": "2026-10-08T01:44:03+00:00"
+   "newest": "2026-10-08T01:35:12+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-08T01:00:10+00:00"
+   "newest": "2026-10-08T01:54:42+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T01:52:00+00:00"
+   "newest": "2026-10-08T02:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,58 @@
  ],
  "items": [
   {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue",
+   "url": "https://www.koreaherald.com/article/10896734",
+   "published_utc": "2026-10-08T02:02:44.058746+00:00",
+   "title_original": "Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "680e30062a9529b0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan futures fall as yen firms, Tokyo equities slip",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45U03V:0-japan-futures-fall-as-yen-firms-tokyo-equities-slip/",
+   "published_utc": "2026-10-08T02:00:58+00:00",
+   "title_original": "Japan futures fall as yen firms, Tokyo equities slip",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3b966ed9fc633af3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yuan Consolidates as Market Participants Assess PBOC's Yuan Fixing Vs. Dollar — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261007008872:0-yuan-consolidates-as-market-participants-assess-pboc-s-yuan-fixing-vs-dollar-market-talk/",
+   "published_utc": "2026-10-08T02:00:00+00:00",
+   "title_original": "Yuan Consolidates as Market Participants Assess PBOC's Yuan Fixing Vs. Dollar — Market Talk",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "79c42486bcf527bd"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Tokyo Financial Exchange launches new BOJ rate futures as policy shifts accelerate",
@@ -359,24 +411,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a05734fad9699579"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "广州日报新花城",
-   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVNXX0MxdUMxQXJxQW9JM2wzcWxJcG9hdFhJampMRDdDUmowbnd1THdUVlJ2NjZRQUJFUml3TG1aaVphZ09kNU5sUGlrbmhzNlNzT1FBVHdlRmwwWkpnRXEzSklJT3A3Z0hvTkdETVlVUkw2SFB6Q2NEUEJBay02NzNnMF9uOXFGaVE?oc=5",
-   "published_utc": "2026-10-08T01:44:03+00:00",
-   "title_original": "央行将开展12000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b9d62262c24e79fb"
   },
   {
    "source_id": "tradingview_live",
@@ -446,6 +480,24 @@
    "live_wire": true,
    "manual": false,
    "id": "24f74547c3698b07"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPczFGaG16ZGl2NmNPWkQ4OEQyb3hnSWlXQ1d6WldZUk9aYWlacUt3bGVBQmxfbGJueVpSRE9iYjB4Wm85SXNpNi1kcDEzWUphZUJwbzgwS3dCVGZwb0NLMHBEdWlvYlhfLVcxbVZLb0xSTG5kdklTWktNMGpOdHlzMGVwaHZFVC1tTE9YOQ?oc=5",
+   "published_utc": "2026-10-08T01:35:12+00:00",
+   "title_original": "央行将开展12000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c46cb0283679a27f"
   },
   {
    "source_id": "tradingview_live",
@@ -619,6 +671,25 @@
    "live_wire": false,
    "manual": false,
    "id": "99c612b549c007d3"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "“Reiwa mortgage hell” facing Bank of Japan interest rate hike…Shock of 40,000 yen increase in repayments in 2027 and 4 urgent measures (FRIDAY)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbk1SZmhkX0VRZXhVa3dDOHluUGVhNlVadEFvX1o5NldFUnozMHk3UGl6c3RUZ2V1VmRPTFFQV3o5ZS1wSC1MWDhZUUVSWlE4YWlYYzN6ZVkxYjFwN05NSWpwSkUwQzdkZjlQaEJmSlcyQl92RHRzdzJsSE9QSVk?oc=5",
+   "published_utc": "2026-10-08T01:00:43+00:00",
+   "title_original": "日銀利上げで直面する「令和の住宅ローン地獄」…’27年に返済4万円増の衝撃と急ぐべき4つの対策（FRIDAY）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx",
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c6c3f62597e24d41"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1942,8 +2013,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -1957,7 +2028,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -51854,74 +51925,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b0254bb74b39b3fa"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Export Growth Rebounds as Trade Surplus Nears $806 Billion",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbTllQTVENHBHellwVlUtNGF5SWp4aGVoX296c09yTzdGNlozZjZXUnFxbTlPTEg1NEJlaTJkM1dIMEZMc1VESjJJV3VNd3NMdGFXdEllTGhHcEtDM2FCVG5YTENCQmFKNFptZnN1RWNhZjk2SHpSMkxXMi1aNUJMVDRYMGZBcmxMeTFFbkFxb01YN2JEZ2QxUkxBT0Vpby1VY0tjQ0VHQ0toQUR5eDU2YTRvQW4?oc=5",
-   "published_utc": "2026-09-08T04:47:00+00:00",
-   "title_original": "China Export Growth Rebounds as Trade Surplus Nears $806 Billion",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2176cdc3300bacc7"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Morning Bid: The yen also rises",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEU0NHBtaXJmZE1oRFZ0cVhYQXlZRHhZdXdLUGtja3ZLdFVVeDZxYmlzcmMyVEllcVBfVmhQR1NadDFrVlk1M3Jya3ZoYTFaaC1mN21pSkVDX01qS2hZQlc3VDVtS0ZTcnlVS1gwcDN6aldFY2hQRGJhTGVza2haZlg2TENxRU1yc01VWU84YUE?oc=5",
-   "published_utc": "2026-09-08T04:31:00+00:00",
-   "title_original": "Morning Bid: The yen also rises",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6e3db2c8980dca83"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "The yen also rises",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45006G:0-the-yen-also-rises/",
-   "published_utc": "2026-09-08T04:30:00+00:00",
-   "title_original": "The yen also rises",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "029d17d320e4f538"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China Tightens Rules to Speed Automakers’ Payments to Suppliers",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMzBvSVJBWHhzZEM5UUFUZkFkdUQ2cmdJdUdBM0JZT09UQU12X09pbk5MRkpyM0dPLW5wUC1zV2Y1dnVhdWwwOGhHcjRWZFd5TktXWENSR2J3UXZMY0hfRFBKM2RtMGFSdHMwbVVnV3FCdmR4RnFJWUMxWnVrVXo3S2F0R3J6LTVqT1o2MHpCNl9wTEdrcXAzTjVOdEVzX094WUd5OHNtUExESjJ0RFhFTVk1c2FDNFVa?oc=5",
-   "published_utc": "2026-09-08T04:29:00+00:00",
-   "title_original": "China Tightens Rules to Speed Automakers’ Payments to Suppliers",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ef8f90987ebb42ed"
   },
   {
    "source_id": "manual_ia",
