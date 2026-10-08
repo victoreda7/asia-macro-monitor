@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T02:52:44.227106+00:00
+Última coleta: 2026-10-08T03:02:46.529056+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1246
-  🇨🇳 China          780
+  🇨🇳 China          781
   🇹🇼 Taiwan         271
-  🇰🇷 Coreia do Sul  703
+  🇰🇷 Coreia do Sul  702
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock prices fall, profit-taking selling in some semiconductor-related stocks
+  - [china] As China and the EU begin crunch trade talks, optimism is in short supply
+  - [japan] Yen Holds Steady After Strong Data
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 8 was zero
   - [taiwan] TSMC Could Deliver Over 40% Revenue Growth into 2027 — Market Talk
   - [korea] Seoul shares extend losses late Thurs. morning amid inflation worries
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] S. Korea extends current account surplus in Aug. amid solid exports
   - [korea] Samsung Q3 profit jumps nearly 9 times to $80bn in AI chip boom
   - [china] The central bank launched a trillion-dollar buyout reverse repurchase, and the Dark Side of the Moon completed
-  - [korea] South Korean Won Hits 4-week High
-  - [china] We’ve already known about the financial news丨The central bank’s 1.2 trillion reverse repurchase is launched to
-  - [korea] Key facts: Samsung (005930) HBM4 Deal; Foundry Talks; Fab Woes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T02:52:44+00:00",
+      "published_utc": "2026-10-08T03:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T02:52:44.227106+00:00",
- "collected_at_utc": "2026-10-08T02:52:44.227106+00:00",
+ "generated_at_utc": "2026-10-08T03:02:46.529056+00:00",
+ "collected_at_utc": "2026-10-08T03:02:46.529056+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1246,
-  "china": 780,
+  "china": 781,
   "taiwan": 271,
-  "korea": 703
+  "korea": 702
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T23:41:18+00:00"
+   "newest": "2026-10-08T02:10:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T09:55:00+09:00"
+   "newest": "2026-10-08T12:00:56+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
    "newest": "2026-10-08T02:38:24+00:00"
   },
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-08T02:33:22+00:00"
+   "newest": "2026-10-08T03:00:28+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T02:51:00+00:00"
+   "newest": "2026-10-08T03:00:50+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock prices fall, profit-taking selling in some semiconductor-related stocks",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56428",
+   "published_utc": "2026-10-08T03:00:56+00:00",
+   "title_original": "株価 値下がり 半導体関連銘柄の一部で利益確定売り",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7be6f80fba4c242d"
+  },
+  {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "As China and the EU begin crunch trade talks, optimism is in short supply",
+   "url": "https://www.scmp.com/economy/china-economy/article/3370119/china-and-eu-begin-crunch-trade-talks-optimism-short-supply?utm_source=rss_feed",
+   "published_utc": "2026-10-08T03:00:28+00:00",
+   "title_original": "As China and the EU begin crunch trade talks, optimism is in short supply",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fa8ad272a1e64f54"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Yen Holds Steady After Strong Data",
+   "url": "https://www.tradingview.com/news/te_news:590349:0-yen-holds-steady-after-strong-data/",
+   "published_utc": "2026-10-08T02:39:17+00:00",
+   "title_original": "Yen Holds Steady After Strong Data",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "956174ec06c37278"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "搜狐网",
@@ -51871,59 +51922,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dbca8ecb69586ca6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "GDP raised by semiconductors... Will the ‘October interest rate hike’ bear any weight? [Nominal GDP highest in 47 years]",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9pb0pPOGU2MS1XdF94MWEyMjIxdVlPM2R6TjVvOFoyTmJ3UGxJOUpNTG03djJkNEFYUjBZbkcxcG8zSUswNnc?oc=5",
-   "published_utc": "2026-09-08T05:57:00+00:00",
-   "title_original": "반도체가 끌어올린 GDP…‘10월 금리인상’ 무게 실리나 [명목GDP 47년만 최고]",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "806bc5452a2c9644"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Resend - [Angle] Market expectations for 0.5% interest rate hike in September, why the Bank of Japan is cautious (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SYnozcjhOb1BQVEl0Q2p5Rkt1NXVqVHJuVG9RaGlHMWZRV1NjQnd1cGJMRVBGUXJWa0RNZXppN19lc3lJN09rRXZkcFFKU1pqTDJGbXNaUzJKU1dvbU1GUEJWLVl3NVMwdHFFQU40dFFsT1NBV3hJNTFZcTBaWDA?oc=5",
-   "published_utc": "2026-09-08T05:55:59+00:00",
-   "title_original": "再送-〔アングル〕9月に0.5％利上げの市場観測、日銀が慎重な理由（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "be82d0d020537ddd"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Yen’s Rally Through Key Level Puts Currency’s 2026 High in Reach",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVdCNGRXaVJVUGpEYk9QcGQzLVpYZTJrcWp6ZzZCN3FVRmxDdW1JQlpsakppOHp1em1RYjNXOXdpc3o4SU5VT3BGdWkyUkJidVNFcHNXLWh4eHh3ZmFBY3pCcmItMEw5ajdoMmk0NllGaFd5VXRHN1A4QjFlTnBLQkF4bTktcDctMloyTjhMZktkdHhCMV9MR0t3S3dKMW9JNUJuanBGMmdwS0dJSF9vLUNyZkw1Zw?oc=5",
-   "published_utc": "2026-09-08T05:51:00+00:00",
-   "title_original": "Yen’s Rally Through Key Level Puts Currency’s 2026 High in Reach",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9f1d75e8fee9ee25"
   },
   {
    "source_id": "manual_ia",
