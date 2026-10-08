@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T04:02:45.844287+00:00
+Última coleta: 2026-10-08T04:12:45.610843+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1244
   🇨🇳 China          782
-  🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  705
+  🇹🇼 Taiwan         268
+  🇰🇷 Coreia do Sul  706
 
 ## O que já está no feed (não repita)
 
+  - [china] The first day after the holiday! The central bank took action and launched a 1.2 trillion yuan buyout reverse 
+  - [korea] Why is SK Hynix stock gaining today?
+  - [japan] Asian currencies rangebound as dollar holds near 18-month high, yen slips
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
   - [china] Yuan steady despite dollar strength during China's Golden Week holiday
   - [korea] S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls
@@ -28,6 +31,7 @@ Total: 3000 manchetes
   - [korea] Seoul shares extend losses late Thurs. morning amid inflation worries
   - [japan] PGIM: French Bond Selloff Could Bring Japanese Money Home and Support the Yen
   - [japan] "A tremendous shock and blow"...The risk of Trump's "diesel oil export ban" smoldering ahead of the midterm el
+  - [korea] ‘Three major conditions’ for preemptive interest rate increase proposed by the Bank of Korea
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [korea] Samsung, SK hynix face investor test as buybacks wind down
   - [china] Nissan Says It Will Start Sales Of China-Made Frontier Pro Pickup Truck In Mexico In October, Highlighting Chi
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea says to take legal action if illegal Russian fuel shipments confirmed
   - [korea] ‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level fr
   - [japan] “Reiwa mortgage hell” facing Bank of Japan interest rate hike…Shock of 40,000 yen increase in repayments in 20
-  - [japan] “Reiwa Loan Hell” faced by Bank of Japan interest rate hike… Shock of 40,000 yen increase in repayments in 202
-  - [china] Beyond the summit: how US-China relations could still unravel
-  - [japan] August current balance surplus of 4,062 billion yen due to increased dividends from overseas, etc.
-  - [korea] (2nd LD) S. Korea extends current account surplus in Aug. amid solid exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T04:02:45+00:00",
+      "published_utc": "2026-10-08T04:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

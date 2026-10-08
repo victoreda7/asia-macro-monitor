@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-08T04:02:45.844287+00:00",
- "collected_at_utc": "2026-10-08T04:02:45.844287+00:00",
+ "generated_at_utc": "2026-10-08T04:12:45.610843+00:00",
+ "collected_at_utc": "2026-10-08T04:12:45.610843+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1244,
   "china": 782,
-  "taiwan": 269,
-  "korea": 705
+  "taiwan": 268,
+  "korea": 706
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T10:37:00+00:00"
+   "newest": "2026-10-08T04:08:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T03:42:20+00:00"
+   "newest": "2026-10-08T04:06:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-07T21:29:30+00:00"
+   "newest": "2026-10-08T04:01:47+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "error": "",
-   "newest": "2026-10-08T02:38:24+00:00"
+   "newest": "2026-10-08T04:10:45+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T00:04:00+00:00"
+   "newest": "2026-10-08T00:57:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-08T12:00:00+09:00"
+   "newest": "2026-10-08T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T00:30:36+00:00"
+   "newest": "2026-10-08T03:49:47+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,62 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T01:14:13+00:00"
+   "newest": "2026-10-08T02:24:43+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "The first day after the holiday! The central bank took action and launched a 1.2 trillion yuan buyout reverse repurchase, with a term of 3 months, and an additional 200 billion yuan. Experts: A clear signal to maintain sufficient liquidity.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzM5UzhwTmZhZnpFUEQxb3JnWWlpVVBJbzIyN1dKYWNZbkg3U3MyNVd2WHE3bm83MC1Bam15Mld3LWNna2dHcGVHLXZsV3MxVFZxdGpCRlowZXVWQWcyM1pjZUprc1dsOFBaLTdMVGpYa1R2WVJQeWI5bjlQSThEY2htSU15MmhZ?oc=5",
+   "published_utc": "2026-10-08T04:10:45+00:00",
+   "title_original": "节后第一天！央行出手，开展12000亿元买断式逆回购，期限3个月，加量续做2000亿，专家：保持流动性充裕的明确信号",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "482fc8acc9da715f"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is SK Hynix stock gaining today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-gaining-today-93CH-4937860",
+   "published_utc": "2026-10-08T04:03:24+00:00",
+   "title_original": "Why is SK Hynix stock gaining today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f03e2b46873acb10"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asian currencies rangebound as dollar holds near 18-month high, yen slips",
+   "url": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
+   "published_utc": "2026-10-08T04:01:47+00:00",
+   "title_original": "Asian currencies rangebound as dollar holds near 18-month high, yen slips",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "caa88de8e47b008a"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -530,6 +582,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7844593c1dbfbe13"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "헤럴드경제",
+   "title_en": "‘Three major conditions’ for preemptive interest rate increase proposed by the Bank of Korea",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ESUdmN0FDZlRPZVF0NjJnNERJc2tJUHJGTVVLYkpicDc0X0o3VUZ4YVUtd3NPTmJPUnZDcUY3TTcxMUxCYXlpNGZZV2VHYlpicVhoUllrcw?oc=5",
+   "published_utc": "2026-10-08T02:24:43+00:00",
+   "title_original": "한은이 내놓은 선제 금리인상 ‘3대 조건’",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "91c626f4e4a580ca"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6401,7 +6470,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "Mortgage interest rates are also ‘fluctuating’… Will interest rates rise further due to the additional hike by the Bank of Korea? [Interest Rate Shock ③]",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ib3hPTjdrbTlmNTEwSGlqQVlVSl9KekIzX05ET0kxQWlYZDZMUEpWczlYRS1uQUN6RHBpUVB4SWdKTldZbmZ3VERmRnlaaTV4emRVWHk0bnZxUTFZaUpYLdIBeEFVX3lxTE1BQzZSRl8xUTdQVjlJLXVpdUp6dFV3ZFJyLW9reEZzQldocnNnOGIzUmk1MTNfQUJYcHVMZjkwZjBnYVM2ZUd5YUNRaV9ZWDZqby01OFdfV1VVQkd0TVU1RU9IN0Z2a1k4c3FTZ1Z2M1pjQTJqQ2JoaQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BQzZSRl8xUTdQVjlJLXVpdUp6dFV3ZFJyLW9reEZzQldocnNnOGIzUmk1MTNfQUJYcHVMZjkwZjBnYVM2ZUd5YUNRaV9ZWDZqby01OFdfV1VVQkd0TVU1RU9IN0Z2a1k4c3FTZ1Z2M1pjQTJqQ2JoadIBeEFVX3lxTE1BQzZSRl8xUTdQVjlJLXVpdUp6dFV3ZFJyLW9reEZzQldocnNnOGIzUmk1MTNfQUJYcHVMZjkwZjBnYVM2ZUd5YUNRaV9ZWDZqby01OFdfV1VVQkd0TVU1RU9IN0Z2a1k4c3FTZ1Z2M1pjQTJqQ2JoaQ?oc=5",
    "published_utc": "2026-10-04T23:00:00+00:00",
    "title_original": "주담대 금리도 '들썩'…한은 추가 인상에 이자 더 오르나[금리 쇼크③]",
    "region": "korea",
@@ -6413,7 +6482,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1f7d403fe459ec87"
+   "id": "d9889a24cb918d64"
   },
   {
    "source_id": "tradingview_live",
@@ -51855,75 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5de2882f7f4b8e0d"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "COMMENTARY: China's crude oil imports stayed weak in August. Can this continue?",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNjJvZmc3M0wteXQ1VzNhSUZHY3p4eGl4UjNUWC1BYi16ajFCbzZYUlBfV0tQajNaSVFvWVRWTmY5WlhpT1hPb0JwRUF4OHY2NG96bl9xTVppUTFyZUN3clpMLTJfNnRhenNsTVVuUXlXZmxxMDV6R00tQk1MWVBkOTlUdi1uOUxuV1l2WnZaODZESnNLWVdzM0RxSFlQZTF5ZWhiUkZtSExpWmQ5cGZ1M0dnTTdjNjNRR3hqV21pT3lOMlZlZEJRQ0lB?oc=5",
-   "published_utc": "2026-09-08T07:00:00+00:00",
-   "title_original": "COMMENTARY: China's crude oil imports stayed weak in August. Can this continue?",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e4df601cd4c173d"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan logs current account surplus of 2.99 trillion yen in July",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxdm1XRlRieG5KTjFkbnU2VmRWMTZ2QXFsV0FrWGpKbDZVQlpUSmhaYk1hR1VqVDljX29KakNpdGdPRVdXeUN4LU82eU5qTzl6b2FDanVXZnJpUQ?oc=5",
-   "published_utc": "2026-09-08T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Japan logs current account surplus of 2.99 trillion yen in July",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "abc8339d8f3d2d5c"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "ASML to work with major chipmakers to use latest tools for larger chips",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGlERHBBRHI0TlBlczZQVGdMT2Z6b1RHdV9ZV2VXTkNfcWpmVkl5alFIMTBVaHppb3BNZTZTUHNCUmthLWNUNGhpekpCUVdKUE94TFozMEMxMVNiYzdsNFlZbHFmNkRFRWlTVEs2SkJpQ2dHeDdybkxjNG01X2xuNWVPSEd3MlJzX2dnbEhLYlZxZHkta0NPc1dJS1RNMkYxTDI2WWMydUpraHZnMEhSc1d2V2hwajNfMVBj?oc=5",
-   "published_utc": "2026-09-08T07:00:00+00:00",
-   "title_original": "ASML to work with major chipmakers to use latest tools for larger chips",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fce37b7bd15faae1"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korea's economy grows 0.6% in Q2 vs. Q1 as nominal GDP surges",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xaW5LVXE0MFZ3T2ViRFRheDR2NVhnc21sZDhMVVl0RFlqRW10ZW5IZFhKc2RoSWpKNU5nTXBmc1lKWHpyZHliRFhuU2NTY3Y3ZXF6TWMtWVFmZENPSzN6RnIwLTRUTzYwUlE?oc=5",
-   "published_utc": "2026-09-08T07:00:00+00:00",
-   "title_original": "S.Korea's economy grows 0.6% in Q2 vs. Q1 as nominal GDP surges",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8ce3c33a3a390ffe"
   },
   {
    "source_id": "manual_ia",
