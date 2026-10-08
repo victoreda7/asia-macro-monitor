@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T11:02:43.915983+00:00
+Última coleta: 2026-10-08T11:12:42.165929+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1234
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] Samsung, SK hynix face investor test as buybacks wind down
+  - [china] China's Central Bank Rejects Claims Yuan Is Undervalued
   - [japan] Bank of Japan’s regional economic report “AI-related demand expands and production increases in many regions”
   - [korea] Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue
   - [japan] PM Takaichi rejects "reflationary" label for her economic policies
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
   - [taiwan] Taiwan's Exports Gained Momentum in September
   - [china] China issues third batch of 2026 export quotas for low-sulfur fuel oil, sources say
-  - [taiwan] TSMC's Q3 revenue jumps 50% Y/Y to record NT$1.49T, beating market forecast
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T11:02:44+00:00",
+      "published_utc": "2026-10-08T11:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
