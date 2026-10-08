@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T04:12:45.610843+00:00",
- "collected_at_utc": "2026-10-08T04:12:45.610843+00:00",
+ "generated_at_utc": "2026-10-08T04:22:44.548566+00:00",
+ "collected_at_utc": "2026-10-08T04:22:44.548566+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1244,
-  "china": 782,
+  "japan": 1242,
+  "china": 783,
   "taiwan": 268,
-  "korea": 706
+  "korea": 707
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T11:29:49+00:00"
+   "newest": "2026-10-07T11:16:37+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T12:29:47+09:00"
+   "newest": "2026-10-08T13:14:26+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 18,
+   "count": 17,
    "error": "",
    "newest": "2026-10-08T04:10:45+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T04:02:01+00:00"
+   "newest": "2026-10-08T04:21:48+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Samsung Electronics Co., Ltd. Stock 12‑Month Price Target Cut to KRW 486160.09, Implies 81% Upside",
+   "url": "https://www.tradingview.com/news/tradingview:5b048fd90fd7e:0-samsung-electronics-co-ltd-stock-12-month-price-target-cut-to-krw-486160-09-implies-81-upside/",
+   "published_utc": "2026-10-08T04:20:00+00:00",
+   "title_original": "Samsung Electronics Co., Ltd. Stock 12‑Month Price Target Cut to KRW 486160.09, Implies 81% Upside",
+   "region": "korea",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "62bc46710aaa8ae0"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "搜狐网",
@@ -807,6 +825,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e30840a6997e3c57"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "Central Bank: Launching 606 billion overnight reverse repos on October 8",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjFBR1N6Sm5QQXRUbWs2b3dQaWZadUtLaG14QTlzZ21ESjc0dkk2TVhSRzhkRmwtN2hNSlN5YTgxV2puenB6U0RYcWpEYWI2Ymx2Nk4ycDd3SERUQzloVlZNMXdXQmpCZjlNOGM1cnFLVXZCanNBZUhOWjhEVTVmV2tFanRxdnZIVDZNZg?oc=5",
+   "published_utc": "2026-10-08T01:31:00+00:00",
+   "title_original": "央行：10月8日投放6060亿隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b12926454cc5dae6"
   },
   {
    "source_id": "tradingview_live",
@@ -2425,8 +2460,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -2440,7 +2475,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -6470,7 +6505,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "Mortgage interest rates are also ‘fluctuating’… Will interest rates rise further due to the additional hike by the Bank of Korea? [Interest Rate Shock ③]",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BQzZSRl8xUTdQVjlJLXVpdUp6dFV3ZFJyLW9reEZzQldocnNnOGIzUmk1MTNfQUJYcHVMZjkwZjBnYVM2ZUd5YUNRaV9ZWDZqby01OFdfV1VVQkd0TVU1RU9IN0Z2a1k4c3FTZ1Z2M1pjQTJqQ2JoadIBeEFVX3lxTE1BQzZSRl8xUTdQVjlJLXVpdUp6dFV3ZFJyLW9reEZzQldocnNnOGIzUmk1MTNfQUJYcHVMZjkwZjBnYVM2ZUd5YUNRaV9ZWDZqby01OFdfV1VVQkd0TVU1RU9IN0Z2a1k4c3FTZ1Z2M1pjQTJqQ2JoaQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ib3hPTjdrbTlmNTEwSGlqQVlVSl9KekIzX05ET0kxQWlYZDZMUEpWczlYRS1uQUN6RHBpUVB4SWdKTldZbmZ3VERmRnlaaTV4emRVWHk0bnZxUTFZaUpYLdIBeEFVX3lxTE1BQzZSRl8xUTdQVjlJLXVpdUp6dFV3ZFJyLW9reEZzQldocnNnOGIzUmk1MTNfQUJYcHVMZjkwZjBnYVM2ZUd5YUNRaV9ZWDZqby01OFdfV1VVQkd0TVU1RU9IN0Z2a1k4c3FTZ1Z2M1pjQTJqQ2JoaQ?oc=5",
    "published_utc": "2026-10-04T23:00:00+00:00",
    "title_original": "주담대 금리도 '들썩'…한은 추가 인상에 이자 더 오르나[금리 쇼크③]",
    "region": "korea",
@@ -6482,7 +6517,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d9889a24cb918d64"
+   "id": "1f7d403fe459ec87"
   },
   {
    "source_id": "tradingview_live",
@@ -51889,41 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6896399c25363fff"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Dollar weakens further to 152 yen level on BOJ rate hike speculation",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGeWhPcWNZUDN5dERlenN0NTJxZDI0c3VubWViZlZmZzNHemZkUnY1T3poMmN5WW4zVzBKQjJtSDhpbk54aWFab1ZhMFdNbW9CbWhodDFuV3NWdw?oc=5",
-   "published_utc": "2026-09-08T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Dollar weakens further to 152 yen level on BOJ rate hike speculation",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "43fb681a980dca08"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BOJ to raise key interest rate by 0.25 percentage point in Sept. meeting: sources",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hWGZKMFBiQXJ4U2hxTDJNRGc5ZHhTY1NGTjI1MDB1Uks0QnhMR0gwak1wV2Vnb1hmZWpVQ19VNlBVbm1RQ2VOQ2NscHJBMlhvemNRWndjTVBlZw?oc=5",
-   "published_utc": "2026-09-08T07:00:00+00:00",
-   "title_original": "BOJ to raise key interest rate by 0.25 percentage point in Sept. meeting: sources",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5de2882f7f4b8e0d"
   },
   {
    "source_id": "manual_ia",
