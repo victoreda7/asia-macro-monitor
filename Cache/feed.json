@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-08T11:22:42.998131+00:00",
- "collected_at_utc": "2026-10-08T11:22:42.998131+00:00",
+ "generated_at_utc": "2026-10-08T11:32:42.459029+00:00",
+ "collected_at_utc": "2026-10-08T11:32:42.459029+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 273,
   "korea": 704
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T04:00:16+00:00"
+   "newest": "2026-10-08T04:00:26+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 59,
+   "count": 60,
    "error": "",
-   "newest": "2026-10-08T16:54:05+08:00"
+   "newest": "2026-10-08T19:20:10+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-08T10:55:17+00:00"
+   "newest": "2026-10-08T11:20:54+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T07:00:00+00:00"
+   "newest": "2026-10-08T10:05:26+00:00"
   },
   {
    "source_id": "ked_global",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 18,
+   "count": 19,
    "error": "",
    "newest": "2026-10-08T08:34:16+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T11:22:05+00:00"
+   "newest": "2026-10-08T11:32:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,63 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T02:24:43+00:00"
+   "newest": "2026-10-08T08:33:59+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China has no need or intention to weaken yuan for trade edge, central bank says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45U0ON:0-china-has-no-need-or-intention-to-weaken-yuan-for-trade-edge-central-bank-says/",
+   "published_utc": "2026-10-08T11:28:09+00:00",
+   "title_original": "China has no need or intention to weaken yuan for trade edge, central bank says",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6c85bf1c8992b106"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Taiwan Trade Surplus Grows In September",
+   "url": "https://www.tradingview.com/news/dpa_afx:5d2e2d1fa5691:0-taiwan-trade-surplus-grows-in-september/",
+   "published_utc": "2026-10-08T11:26:03+00:00",
+   "title_original": "Taiwan Trade Surplus Grows In September",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1e10db458510526f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Central Bank Rejects Claims Yuan Is Undervalued",
+   "url": "https://www.tradingview.com/news/DJN_DN20261008003828:0-china-s-central-bank-rejects-claims-yuan-is-undervalued/",
+   "published_utc": "2026-10-08T11:25:00+00:00",
+   "title_original": "China's Central Bank Rejects Claims Yuan Is Undervalued",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "112be30ede358378"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -359,24 +412,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a1ee37ea5e1ac3e5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Central Bank Rejects Claims Yuan Is Undervalued",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008003073:0-china-s-central-bank-rejects-claims-yuan-is-undervalued/",
-   "published_utc": "2026-10-08T11:10:00+00:00",
-   "title_original": "China's Central Bank Rejects Claims Yuan Is Undervalued",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c3ee49b67a808199"
   },
   {
    "source_id": "nhk_economy",
@@ -626,24 +661,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b69f4ba395aed070"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China has no need or intention to weaken yuan for trade edge, central bank says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N43T0B8:0-china-has-no-need-or-intention-to-weaken-yuan-for-trade-edge-central-bank-says/",
-   "published_utc": "2026-10-08T09:53:58+00:00",
-   "title_original": "China has no need or intention to weaken yuan for trade edge, central bank says",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d53a755b8f718cbe"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1210,23 +1227,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d0b3127e8350d629"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Table: Taiwan Semiconductor Mfg Sep Rev NT$511.86B Vs NT$330.98B",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008001424:0-table-taiwan-semiconductor-mfg-sep-rev-nt-511-86b-vs-nt-330-98b/",
-   "published_utc": "2026-10-08T06:52:00+00:00",
-   "title_original": "Table: Taiwan Semiconductor Mfg Sep Rev NT$511.86B Vs NT$330.98B",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "80a7ee1e8bd904f2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -19131,6 +19131,23 @@
    "id": "868e2c2544016317"
   },
   {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China Auto Subsidy Scheme Unravels, Leaving Consumers and Banks Exposed",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEtQZWp0TWNUU3dhWDBsaUxIV0tZZ21JYk1yaFo1ODZWOEtaX2ZUU3ZzUUM5VDM4eHFzQ29NMlREMEZyeXRQMVRuT2NvN0VIWmZPdkwyM0VLd2Z4NmszaGt5WFplLTlNemRsNEZGdGpMd0FsQ3NjTm9lR2c1bEF0azRJemNoaEplbmdEZFpxSFN5STkzWWFraWpfWDVLLU11eG1jYXQ4Y1FGeEQ0S0NHUGNxMVVQS0NlajRJbmwteVdyZkk?oc=5",
+   "published_utc": "2026-09-28T09:43:00+00:00",
+   "title_original": "China Auto Subsidy Scheme Unravels, Leaving Consumers and Banks Exposed",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ad17cb4befbcefc4"
+  },
+  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "VIS-NXP JV chip fab enters initial production stage",
@@ -19600,23 +19617,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8c823c8ac703f0a0"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China Auto Subsidy Scheme Unravels, Leaving Consumers and Banks Exposed",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEtQZWp0TWNUU3dhWDBsaUxIV0tZZ21JYk1yaFo1ODZWOEtaX2ZUU3ZzUUM5VDM4eHFzQ29NMlREMEZyeXRQMVRuT2NvN0VIWmZPdkwyM0VLd2Z4NmszaGt5WFplLTlNemRsNEZGdGpMd0FsQ3NjTm9lR2c1bEF0azRJemNoaEplbmdEZFpxSFN5STkzWWFraWpfWDVLLU11eG1jYXQ4Y1FGeEQ0S0NHUGNxMVVQS0NlajRJbmwteVdyZkk?oc=5",
-   "published_utc": "2026-09-28T07:00:00+00:00",
-   "title_original": "China Auto Subsidy Scheme Unravels, Leaving Consumers and Banks Exposed",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ad17cb4befbcefc4"
   },
   {
    "source_id": "gn_jp_nhkworld",
