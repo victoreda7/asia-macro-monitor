@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T05:42:45.187697+00:00
+Última coleta: 2026-10-08T05:52:50.045883+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1238
-  🇨🇳 China          783
-  🇹🇼 Taiwan         267
-  🇰🇷 Coreia do Sul  712
+  🇯🇵 Japão          1239
+  🇨🇳 China          782
+  🇹🇼 Taiwan         268
+  🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC’s third-quarter revenue surges 50% y/y, beating market forecast
+  - [japan] Bank of Japan sees broadening inflationary pressure
+  - [taiwan] TSMC's revenue in the third quarter grows 50% compared to the same period last year, exceeding market forecast
   - [japan] BOJ: AI demand may push Japan’s inflation above 2% target, impact policy
   - [japan] Bank of Japan maintains economic outlook in 7 regions nationwide (Kyodo News)
   - [korea] Samsung Electronics Projects Surge In Q3 Operating Income, Sales On AI Demand
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY606 BLN VIA O/N REVERSE REPO THURS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7367 THURS VS 6.7351
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation-News Center
-  - [china] Central Bank: Launching 606 billion overnight reverse repos on October 8
-  - [japan] Asian stocks slip as oil, inflation worries and tech selloff weigh heavy; Nikkei down 700 points
-  - [china] [The Central Bank will launch a 1.2 trillion yuan buyout reverse repurchase operation] In order to maintain su
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T05:42:45+00:00",
+      "published_utc": "2026-10-08T05:52:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
