@@ -7,23 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T01:32:45.491821+00:00
+Última coleta: 2026-10-08T01:42:46.461884+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1250
-  🇨🇳 China          781
+  🇯🇵 Japão          1247
+  🇨🇳 China          783
   🇹🇼 Taiwan         269
-  🇰🇷 Coreia do Sul  700
+  🇰🇷 Coreia do Sul  701
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation-News Center
+  - [china] CHINA PBOC CONDUCTS CNY606 BLN VIA O/N REVERSE REPO THURS
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7367 THURS VS 6.7351
   - [japan] Asian stocks slip as oil, inflation worries and tech selloff weigh heavy; Nikkei down 700 points
+  - [china] [The Central Bank will launch a 1.2 trillion yuan buyout reverse repurchase operation] In order to maintain su
   - [china] The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation
   - [china] The central bank will carry out a 1.2 trillion yuan buyout reverse repurchase operation_7x24 news_Sina Finance
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 8 was zero
+  - [china] The central bank launched a 606 billion yuan overnight reverse repurchase operation today
   - [china] The central bank's reverse repurchase is net withdrawn today..._7x24 News_Sina Finance
   - [china] Central Bank of China: Based on the needs of primary dealers in open market business, the volume of 7-day reve
   - [korea] South Korea shares on track for second weekly decline as chipmakers drag
+  - [korea] South Korea says to take legal action if illegal Russian fuel shipments confirmed
   - [korea] ‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level fr
   - [japan] “Reiwa Loan Hell” faced by Bank of Japan interest rate hike… Shock of 40,000 yen increase in repayments in 202
   - [china] Beyond the summit: how US-China relations could still unravel
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Sees 3Q Rev KRW195.000T Vs KRW86.060T >005930.SE
   - [korea] [Breaking] Samsung Electronics Co., Ltd. made more than 100 trillion won in three months, setting a new milest
   - [korea] Samsung Q3 profit jumps 783% as AI memory boom lifts chip earnings
-  - [japan] Japan Current Account Data Due On Thursday
-  - [japan] Fed rate hike, wary of higher inflation; many support further rate hikes
-  - [japan] When a woman returns home, she hears a noise inside... The "unexpected culprit" in the "stalker case" that sen
-  - [korea] SK Hynix’s Solidigm Is Said to Pick Banks for US IPO Next Year - Bloomberg News
-  - [china] Bond market closes | The central bank continues to pour funds into a loosening situation, and the 10-year gove
-  - [china] Brazil and China distance themselves from the G20 declaration on industrial overproduction
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T01:32:45+00:00",
+      "published_utc": "2026-10-08T01:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

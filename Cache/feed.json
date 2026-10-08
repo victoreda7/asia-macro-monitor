@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-08T01:32:45.491821+00:00",
- "collected_at_utc": "2026-10-08T01:32:45.491821+00:00",
+ "generated_at_utc": "2026-10-08T01:42:46.461884+00:00",
+ "collected_at_utc": "2026-10-08T01:42:46.461884+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1250,
-  "china": 781,
+  "japan": 1247,
+  "china": 783,
   "taiwan": 269,
-  "korea": 700
+  "korea": 701
  },
  "elapsed_s": 30.9,
  "sources": [
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T00:49:47+00:00"
+   "newest": "2026-10-08T01:18:21+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 22,
+   "count": 24,
    "error": "",
-   "newest": "2026-10-08T01:27:56+00:00"
+   "newest": "2026-10-08T01:38:56+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T23:33:43+00:00"
+   "newest": "2026-10-07T23:33:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T01:31:44+00:00"
+   "newest": "2026-10-08T01:41:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,58 @@
  ],
  "items": [
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国宁波网",
+   "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation-News Center",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtV2lPbFUyOFpmdk9KbTZwaExBcHNTZm0tUjZLVVdBYnhYZmVwVFVVcGQ5TGRoNkpSbVV6MnZSeHNtdWpPU2ludHItTkJrbHZlRWIybTYxZ04wV2NEMGE3Zk1ZUXdNM3dj?oc=5",
+   "published_utc": "2026-10-08T01:38:56+00:00",
+   "title_original": "央行将开展12000亿元买断式逆回购操作-新闻中心",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f9a9acabfcb46793"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY606 BLN VIA O/N REVERSE REPO THURS",
+   "url": "https://www.tradingview.com/news/dpa_afx:0985ef45332e6:0-china-pboc-conducts-cny606-bln-via-o-n-reverse-repo-thurs/",
+   "published_utc": "2026-10-08T01:38:41+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY606 BLN VIA O/N REVERSE REPO THURS",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cc30f5168e1f97ea"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7367 THURS VS 6.7351",
+   "url": "https://www.tradingview.com/news/dpa_afx:28cbb39b47ec3:0-china-sets-yuan-central-parity-at-6-7367-thurs-vs-6-7351/",
+   "published_utc": "2026-10-08T01:37:00+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7367 THURS VS 6.7351",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "24f74547c3698b07"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "CNBC TV18",
    "title_en": "Asian stocks slip as oil, inflation worries and tech selloff weigh heavy; Nikkei down 700 points",
@@ -359,6 +411,24 @@
    "live_wire": true,
    "manual": false,
    "id": "b25092fd448a7f79"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "汇通网 Fx678",
+   "title_en": "[The Central Bank will launch a 1.2 trillion yuan buyout reverse repurchase operation] In order to maintain sufficient liquidity in the banking system, today (8th), the People's Bank of China will launch a 1.2 trillion yuan buyout reverse repurchase operation using a fixed quantity, interest rate bidding, and multiple price winning bids, with a period of 3 months, a total of 89 days. (CCTV News)_Foreign exchange news report",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82cGVyY3ZDSGJWME56SksxUk9yMmZSdWMtSHlaQ3NMT1d4ejJ2UnA4UFdJdUZGTThXUnZzV0FQUEM3YWdDeW5OZmJmeGlzWlNUdUY0RnNZQXREcGVMVTJkUzFuakFhTGc?oc=5",
+   "published_utc": "2026-10-08T01:28:23+00:00",
+   "title_original": "【央行将开展12000亿元买断式逆回购操作】 为保持银行体系流动性充裕，今天（8日），中国人民银行将以固定数量、利率招标、多重价位中标方式开展12000亿元买断式逆回购操作，期限为3个月，共89天。（央视新闻）_外汇动态报道",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fe271a2ba77f1167"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -415,6 +485,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank launched a 606 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Y2lPa01jZVp0UDRYYjFHQXRnZUc3WWQxUzUtR05PZXk0Rm16TmdHaUVGWFB0dUVwdXRucTUzdWpFNTVKR3B6Q2dRUXRtRWlza0dIQ3JwVk91Q0htSzNNbg?oc=5",
+   "published_utc": "2026-10-08T01:25:42+00:00",
+   "title_original": "央行今日开展6060亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6bd83aa523635038"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "手机新浪网",
    "title_en": "The central bank's reverse repurchase is net withdrawn today..._7x24 News_Sina Finance",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQOWF0X2hodWFVdkdtTlpWOEdFQnB5WEc4dFUxd21ocE9UUGI3YldhU2dTNk1IQTcweHhlSV94Q1ZpYzVTZ2oxeEQzaG1Db0U?oc=5",
@@ -463,6 +551,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a95b13bb2d24fe4c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea says to take legal action if illegal Russian fuel shipments confirmed",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44Z039:0-south-korea-says-to-take-legal-action-if-illegal-russian-fuel-shipments-confirmed/",
+   "published_utc": "2026-10-08T01:18:04+00:00",
+   "title_original": "South Korea says to take legal action if illegal Russian fuel shipments confirmed",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9ab856509595925a"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2517,8 +2622,8 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "Investment Calendar for October 8 | Central Bank’s Trillion-Level Liquidity Operation Implemented",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IRUlfUmxlMndQVmUydkJCc2hzQVN2TFJnLUFyMHRYZWJrc1VkNDFKNmIyMGRoWVNLZ1o5YjlCN3RIMjM0VDZ2azY4LVV0QTIwVS1OTVZfWGVhSnpGazF6Q2xITlp2dw?oc=5",
-   "published_utc": "2026-10-07T00:11:58+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XR0dNTGhac1phY2Mzck5aYzdrWnhiVEVZWGRnTWFkUUxtZ3BzM1ZGUmNNT29lS0ZCRE5hb1NRYWhYbTY0NExmVEdiUUp2dTk2Wm1YSG9ldkVoaHZMNWFXWg?oc=5",
+   "published_utc": "2026-10-07T00:13:21+00:00",
    "title_original": "10月8日投资日历 | 央行万亿级流动性操作落地",
    "region": "china",
    "topics": [
@@ -2528,7 +2633,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ca853e09358a70f2"
+   "id": "b70d3512810ea84b"
   },
   {
    "source_id": "tradingview_live",
@@ -51820,110 +51925,6 @@
    "live_wire": true,
    "manual": false,
    "id": "30334955274abf57"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "JGB yield curve flattens as BOJ tightening remains in focus",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45005N:0-jgb-yield-curve-flattens-as-boj-tightening-remains-in-focus/",
-   "published_utc": "2026-09-08T04:09:44+00:00",
-   "title_original": "JGB yield curve flattens as BOJ tightening remains in focus",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "76a9950464839671"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan Five-Year Bond Sale Sees Muted Demand Ahead of BOJ",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNF9KUFVjSjFvdHdsUHZaa3h2LVVIQjl3dzRSZzRwYjFlbmppc3lMc2pjWGdFcWhzbjhpdnJ1VEd4OU5HVTRqZ3dnSkdJckR3aFlMRzhUajZ0TE1qcTBMZkhNTTFrRnpGc3lnRlF0dkdrOEpnaWUzTXRrbTA2VHpHT3c5SExwN05GWkFuVFFFZC0tcDFubXpuYUhQQkFMc3k4SFhxb1BEM3lYaWVSRVpIZHNseFpuM0RPVzJTUDhRN0g?oc=5",
-   "published_utc": "2026-09-08T04:09:00+00:00",
-   "title_original": "Japan Five-Year Bond Sale Sees Muted Demand Ahead of BOJ",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "926c343856463d26"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Japan Q2 GDP growth revised higher, supporting case for BOJ rate hike",
-   "url": "https://www.investing.com/news/economic-indicators/japan-q2-gdp-beats-forecast-supporting-case-for-boj-rate-hike-4890750",
-   "published_utc": "2026-09-08T04:08:14+00:00",
-   "title_original": "Japan Q2 GDP growth revised higher, supporting case for BOJ rate hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5a671df56663f9b5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Crypto Briefing",
-   "title_en": "China posts $29B trade surplus with US in August as exports surge 34%",
-   "url": "https://www.tradingview.com/news/cryptobriefing:fa135da02094b:0-china-posts-29b-trade-surplus-with-us-in-august-as-exports-surge-34/",
-   "published_utc": "2026-09-08T04:04:32+00:00",
-   "title_original": "China posts $29B trade surplus with US in August as exports surge 34%",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a7dae16c97f5a07b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China August rare earths exports stay below year-to-date monthly average",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45007H:0-china-august-rare-earths-exports-stay-below-year-to-date-monthly-average/",
-   "published_utc": "2026-09-08T04:03:34+00:00",
-   "title_original": "China August rare earths exports stay below year-to-date monthly average",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5ded9ad2eb1c7e7b"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "Offshore borrowing in renminbi hits record high of nearly $150bn",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTBXMGR6T2t0blBXYV9rX3Q0eUpBY3RJMkVzSGliZFM0ZnhIam9PNG1zSTNEVjdrQ01tRFlIdnZaNkstLTZCNVFHTXQtbWVlclFhelJOTC1UdTRReTBmSGE0bDVzS2FWbWNCRjJYZGF2SFJ3dnNBcnVzMDNWXy1QVHJSZUs?oc=5",
-   "published_utc": "2026-09-08T04:01:30+00:00",
-   "title_original": "Offshore borrowing in renminbi hits record high of nearly $150bn",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7a5f4939f5387aad"
   },
   {
    "source_id": "manual_ia",
