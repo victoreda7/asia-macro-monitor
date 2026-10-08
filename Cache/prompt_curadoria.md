@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T10:02:48.127833+00:00
+Última coleta: 2026-10-08T10:12:48.837445+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1234
-  🇨🇳 China          781
-  🇹🇼 Taiwan         275
-  🇰🇷 Coreia do Sul  710
+  🇨🇳 China          782
+  🇹🇼 Taiwan         276
+  🇰🇷 Coreia do Sul  708
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister: “Funding sources for consumption tax reduction will be considered throughout budget formulatio
+  - [taiwan] TSMC Sales Are a Big Win for the AI Trade. Why AMD and Other Chip Stocks Are Falling Anyway. — Barrons.com
+  - [china] China has no need or intention to weaken yuan for trade edge, central bank says
   - [korea] Seoul shares turn lower after opening up amid inflation worries
   - [taiwan] TSMC Sales Are a Good Sign for the AI Trade. Tech Stocks Are Falling Anyway. — Barrons.com
   - [taiwan] Taiwan September exports hit fresh monthly record on AI demand, US leads
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] "With the weak yen and rising prices..." Family trip to Hawaii → Save money on food Cocorico Endo's wife confe
   - [china] Parties name 16 committee conveners for new Legislative Yuan session
   - [japan] Bank of Japan Sakura Report raises economic outlook for Tohoku and Shikoku; companies also believe that AI-rel
-  - [china] Table: Yuan Jen Enterprises Sep Rev NT$907.1M Vs NT$602.4M
-  - [korea] Seoul stocks down for 3rd day amid inflation worries
-  - [japan] BREAKING NEWS: Fast Retailing forecasts 560 bil. yen net profit for year ending next Aug.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T10:02:48+00:00",
+      "published_utc": "2026-10-08T10:12:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
