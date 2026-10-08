@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T23:22:41.318574+00:00",
- "collected_at_utc": "2026-10-08T23:22:41.318574+00:00",
+ "generated_at_utc": "2026-10-08T23:32:43.014186+00:00",
+ "collected_at_utc": "2026-10-08T23:32:43.014186+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2999,
+ "count": 2998,
  "by_region": {
-  "japan": 1218,
+  "japan": 1219,
   "china": 797,
-  "taiwan": 281,
-  "korea": 703
+  "taiwan": 280,
+  "korea": 702
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T06:09:47+09:00"
+   "newest": "2026-10-09T06:09:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T23:20:21+00:00"
+   "newest": "2026-10-08T23:30:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T16:27:36+00:00"
+   "newest": "2026-10-08T08:33:59+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "IMF invites BOJ chief Ueda to speak on November 6",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45U1VN:0-imf-invites-boj-chief-ueda-to-speak-on-november-6/",
+   "published_utc": "2026-10-08T23:28:31+00:00",
+   "title_original": "IMF invites BOJ chief Ueda to speak on November 6",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2fb354c18213f08d"
+  },
   {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
@@ -1178,23 +1195,6 @@
    "id": "8f4ee034b20a7a12"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "TSMC Sales Are a Good Sign for the AI Trade. Tech Stocks Are Falling Anyway. — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008002665:0-tsmc-sales-are-a-good-sign-for-the-ai-trade-tech-stocks-are-falling-anyway-barrons-com/",
-   "published_utc": "2026-10-08T09:36:00+00:00",
-   "title_original": "TSMC Sales Are a Good Sign for the AI Trade. Tech Stocks Are Falling Anyway. — Barrons.com",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "96619880760c25ab"
-  },
-  {
    "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Taiwan September exports hit fresh monthly record on AI demand, US leads",
@@ -1420,6 +1420,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b64a607336db3eec"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "Samsung profit surges ninefold to $80bn on AI chip demand",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkdBN3lQTkJTdW4yZWNHenpWcERwUUViQl9qUUVqemJFb28yN3dEUnhMSVBoaHNKbGRaX0sxaFdMS3cyR282WmkwU21BN3FsZ3dLWGdJVnhsSnd3c1hFYVlNRVB5WFNQUHQyYWRLNGdwdmFHR2lHMkQ1c0tSX3AyUFBzcm8?oc=5",
+   "published_utc": "2026-10-08T08:28:23+00:00",
+   "title_original": "Samsung profit surges ninefold to $80bn on AI chip demand",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0353eafef77a6f22"
   },
   {
    "source_id": "nhk_politics",
@@ -2448,23 +2465,6 @@
    "live_wire": false,
    "manual": false,
    "id": "20e11f9bf145011e"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "Samsung profit surges ninefold to $80bn on AI chip demand",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkdBN3lQTkJTdW4yZWNHenpWcERwUUViQl9qUUVqemJFb28yN3dEUnhMSVBoaHNKbGRaX0sxaFdMS3cyR282WmkwU21BN3FsZ3dLWGdJVnhsSnd3c1hFYVlNRVB5WFNQUHQyYWRLNGdwdmFHR2lHMkQ1c0tSX3AyUFBzcm8?oc=5",
-   "published_utc": "2026-10-07T23:30:24+00:00",
-   "title_original": "Samsung profit surges ninefold to $80bn on AI chip demand",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0353eafef77a6f22"
   },
   {
    "source_id": "tradingview_live",
@@ -15601,6 +15601,23 @@
    "id": "fd903e1f09de1064"
   },
   {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Huo Lihui, chief statistician of the Service Industry Survey Center of the National Bureau of Statistics, interprets the China Purchasing Managers Index in September 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VZjhBb3N1MGNXQWprY2VETDV2dmFfd1o0azE3OGtkdzBtMHEyNzRNMVBfT3ZjdGtTM1RSVWJMZDVHbFpHS1BSZG9SMll2S01HV0dMeUJEVE5EQ2dva29rY05PaWt5SURncWdSRkFncw?oc=5",
+   "published_utc": "2026-09-30T07:00:00+00:00",
+   "title_original": "国家统计局服务业调查中心首席统计师霍丽慧解读2026年9月中国采购经理指数",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e305e26fdfd1fbd8"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
    "title_en": "The central bank takes action! 1.2 trillion buyout reverse repurchase is coming | People's Bank of China | Bonds | Interest rates | Wang Qing | 3 months",
@@ -16255,23 +16272,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0622f371d0a4a90d"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Huo Lihui, chief statistician of the Service Industry Survey Center of the National Bureau of Statistics, interprets the China Purchasing Managers Index in September 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VZjhBb3N1MGNXQWprY2VETDV2dmFfd1o0azE3OGtkdzBtMHEyNzRNMVBfT3ZjdGtTM1RSVWJMZDVHbFpHS1BSZG9SMll2S01HV0dMeUJEVE5EQ2dva29rY05PaWt5SURncWdSRkFncw?oc=5",
-   "published_utc": "2026-09-30T01:30:00+00:00",
-   "title_original": "国家统计局服务业调查中心首席统计师霍丽慧解读2026年9月中国采购经理指数",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e305e26fdfd1fbd8"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -17397,7 +17397,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHUnRnQTVQZkREcjlKY3VoWWJhaUxUb29pVnFXaGYxX1U5N3dSSTBILVVWdHNQbHY5Z1FTSjYwckc4WnhhdHNNWHJ4ZmFJN2JiLVpubUgwb21BTlNBWUlrb0htTElxX25TQi1vaENGTVBMVmJobk9pLXZfRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmpwQVpRZG8yTVdkRXlTcW5xS3ZZb3EtSjVPN2dPc1g3YXFTZ09vUlVNR3k5eEVBQk9mZWZhUzlXdE1GSWFOS1c3bWJPSGpubDU3bEJULTFvU05PcGpkMjVENVpsQlk0cjNPZGxob1RpVWotb3gwa091ZURrWTJqVkVvbG5JZw?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
    "title_original": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
    "region": "china",
@@ -17408,7 +17408,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "32aeac54145f756e"
+   "id": "9725d40adaeb9145"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -32954,6 +32954,23 @@
    "id": "008434ebc302f747"
   },
   {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
+   "published_utc": "2026-09-18T15:23:15+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9e62f309accc3d17"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Yuan Surges Past 6.7 per Dollar to Three-Year High",
@@ -46039,23 +46056,6 @@
    "id": "414e908396fee4ec"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EVUg2dmdoYllHTTl1b3A5LUpUS3d5dXZNVkJYNlcxOVlOWlhwZkJWaTdNRWNJWWU0SUNyLVFBUG1Mbll4U3VtcGd4eHlNd1pnTkF0MkdkVVpMaDRaWm1sVS1HYUtqQVBHWWNUQkhKTm11eHVGWVYxeENaNC0?oc=5",
-   "published_utc": "2026-09-11T07:00:00+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "00e0d68ad177fe2d"
-  },
-  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "Rate outlook: BOJ, Fed poised to hike",
@@ -51908,23 +51908,6 @@
    "live_wire": false,
    "manual": false,
    "id": "421f966e227a5528"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Jobless Rate Falls to 2.7% in August",
-   "url": "https://www.tradingview.com/news/te_news:582167:0-south-korea-jobless-rate-falls-to-2-7-in-august/",
-   "published_utc": "2026-09-08T23:23:25+00:00",
-   "title_original": "South Korea Jobless Rate Falls to 2.7% in August",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0585bedd79db64e7"
   },
   {
    "source_id": "manual_ia",
