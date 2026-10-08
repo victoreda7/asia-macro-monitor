@@ -7,23 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-08T09:12:48.385577+00:00
+Última coleta: 2026-10-08T09:22:51.565187+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1232
-  🇨🇳 China          782
+  🇨🇳 China          781
   🇹🇼 Taiwan         273
-  🇰🇷 Coreia do Sul  713
+  🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
   - [korea] S. Korea extends current account surplus in Aug. amid solid exports
+  - [taiwan] TSMC achieves record revenue in the 3rd quarter and exceeds market forecasts
+  - [japan] Yen market price falls slightly; yen sells due to inflation concerns
+  - [china] Table: Chun Yuan Steel Industry Sep Rev NT$1.99B Vs NT$1.99B
   - [japan] More than 5,000 bankruptcies in the first half of this fiscal year for the second consecutive year, due to the
   - [taiwan] Taiwan Imports Hit New Record
   - [japan] Street economy in September rises for 5 consecutive months Consumption is strong due to holidays
   - [taiwan] Taiwan Exports Hit Record High
   - [taiwan] Taiwan Posts Largest Trade Surplus on Record
+  - [korea] Jusung Engineering, a semiconductor deposition equipment company, is showing a steep upward rally. A..
   - [china] A sequel with more volume! The central bank will launch a 1.2 trillion yuan buyout reverse repo
+  - [korea] Samsung Electronics opened the era of 100 trillion won in quarterly operating profit, but its stock
   - [korea] Samsung Q3 profit seen surging nearly nine-fold as AI chip demand soars
   - [japan] Prime Minister: “Consumption tax cut will not affect social security revenue” Thoughts on Yano Farmer Inherita
   - [taiwan] Taiwan's Exports Gained Momentum in September
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Stock Unimpressed Even After 783% Profit Growth Forecast
   - [taiwan] TSMC's third-quarter revenue surges 50%, rides on AI wave to beat market forecast
   - [taiwan] TSMC’s third-quarter revenue surges to record, beating market forecast
-  - [taiwan] TSMC's Q3 Revenue Hits a Record, Beating Market Forecasts
-  - [japan] Bank of Japan sees broadening inflationary pressure
-  - [taiwan] TSMC's revenue in the third quarter grows 50% compared to the same period last year, exceeding market forecast
-  - [japan] Increase in Tohoku, Shikoku Bank of Japan economic judgment, AI demand (Kyodo News)
-  - [japan] Bank of Japan raises economic outlook for Tohoku and Shikoku, leaves unchanged for remaining 7 regions = Regio
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-08T09:12:48+00:00",
+      "published_utc": "2026-10-08T09:22:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

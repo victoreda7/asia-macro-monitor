@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-08T09:12:48.385577+00:00",
- "collected_at_utc": "2026-10-08T09:12:48.385577+00:00",
+ "generated_at_utc": "2026-10-08T09:22:51.565187+00:00",
+ "collected_at_utc": "2026-10-08T09:22:51.565187+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1232,
-  "china": 782,
+  "china": 781,
   "taiwan": 273,
-  "korea": 713
+  "korea": 714
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T07:57:01+00:00"
+   "newest": "2026-10-08T08:51:52+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T08:26:51+00:00"
+   "newest": "2026-10-08T09:10:57+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T18:10:44+09:00"
+   "newest": "2026-10-08T18:18:22+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-08T18:01:12+09:00"
+   "newest": "2026-10-08T18:14:23+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T07:47:30+00:00"
+   "newest": "2026-10-08T06:04:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T07:47:30+00:00"
+   "newest": "2026-10-08T06:19:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-08T09:11:34+00:00"
+   "newest": "2026-10-08T09:21:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T08:35:00+00:00"
+   "newest": "2026-10-08T09:06:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-08T09:06:35+00:00"
+   "newest": "2026-10-08T09:16:28+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -359,6 +359,58 @@
    "live_wire": false,
    "manual": false,
    "id": "977646305c281811"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC achieves record revenue in the 3rd quarter and exceeds market forecasts",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45U0L7:0/",
+   "published_utc": "2026-10-08T09:17:29+00:00",
+   "title_original": "TSMC atinge recorde de receita no 3º tri e supera previsões do mercado",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "3c08a21b8a0d6f21"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Yen market price falls slightly; yen sells due to inflation concerns",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56768",
+   "published_utc": "2026-10-08T09:14:23+00:00",
+   "title_original": "円相場 小幅に値下がり インフレ懸念で円が売られる",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f59c2c12326aa27b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Table: Chun Yuan Steel Industry Sep Rev NT$1.99B Vs NT$1.99B",
+   "url": "https://www.tradingview.com/news/DJN_DN20261008002500:0-table-chun-yuan-steel-industry-sep-rev-nt-1-99b-vs-nt-1-99b/",
+   "published_utc": "2026-10-08T09:14:00+00:00",
+   "title_original": "Table: Chun Yuan Steel Industry Sep Rev NT$1.99B Vs NT$1.99B",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "47ed260c1449cc3c"
   },
   {
    "source_id": "nhk_economy",
@@ -447,6 +499,23 @@
    "id": "8b22aec0e83e346f"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Jusung Engineering, a semiconductor deposition equipment company, is showing a steep upward rally. A..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BRGVtbFdzR1Ffd29PVEZQREFnTWpOVmxPcEhqWU53czdDMU5tMEQycE1CNEhhMGR0TzJ4Y1UtNzg3YklpNGFFWHU4Yk1wa3c?oc=5",
+   "published_utc": "2026-10-08T08:35:43+00:00",
+   "title_original": "Jusung Engineering, a semiconductor deposition equipment company, is showing a steep upward rally. A..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d80d8ba099c04f67"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "京报网",
    "title_en": "A sequel with more volume! The central bank will launch a 1.2 trillion yuan buyout reverse repo",
@@ -463,6 +532,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bac86ccfe267e796"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics opened the era of 100 trillion won in quarterly operating profit, but its stock",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBET1I0ODZXdWoteUpneGhGNVFDQk1uVkV2TlIwVXU1cEd6VnpoTk5HMWJMVFVUbGxaRm9GQ2s5dldqUTdhVlBKV2NyVjNNUUk?oc=5",
+   "published_utc": "2026-10-08T08:30:10+00:00",
+   "title_original": "Samsung Electronics opened the era of 100 trillion won in quarterly operating profit, but its stock",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ebcfa27b4bcd6d7c"
   },
   {
    "source_id": "tradingview_live",
@@ -1280,23 +1366,6 @@
    "id": "bccedbef326c7d78"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Yuan steady despite dollar strength during China's Golden Week holiday",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45U00Y:0-yuan-steady-despite-dollar-strength-during-china-s-golden-week-holiday/",
-   "published_utc": "2026-10-08T03:06:00+00:00",
-   "title_original": "Yuan steady despite dollar strength during China's Golden Week holiday",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6cd8b4c59fce9eaa"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls",
@@ -1346,23 +1415,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fa8ad272a1e64f54"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Yen Holds Steady After Strong Data",
-   "url": "https://www.tradingview.com/news/te_news:590349:0-yen-holds-steady-after-strong-data/",
-   "published_utc": "2026-10-08T02:39:17+00:00",
-   "title_original": "Yen Holds Steady After Strong Data",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "956174ec06c37278"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51883,57 +51935,6 @@
    "live_wire": false,
    "manual": false,
    "id": "981b832edf8a554c"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korea's economy grows 0.6% in Q2 as nominal GDP surges",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xaW5LVXE0MFZ3T2ViRFRheDR2NVhnc21sZDhMVVl0RFlqRW10ZW5IZFhKc2RoSWpKNU5nTXBmc1lKWHpyZHliRFhuU2NTY3Y3ZXF6TWMtWVFmZENPSzN6RnIwLTRUTzYwUlE?oc=5",
-   "published_utc": "2026-09-08T12:47:56+00:00",
-   "title_original": "S.Korea's economy grows 0.6% in Q2 as nominal GDP surges",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dadc58e05bae4ce9"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Taiwan's inflation tops 2% threshold for 4th straight month",
-   "url": "https://focustaiwan.tw/business/202609080029",
-   "published_utc": "2026-09-08T12:37:38+00:00",
-   "title_original": "Taiwan's inflation tops 2% threshold for 4th straight month",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6dcacd647f66e78"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Copper rally sets record LME price as US tariff fears fuel supply ‘scramble’",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVFXcV9wU01EWkppam1sazBmYUk2WFpIWWNkazVqU2o3QW5jOUh3ai13TXZoemZYVERxRmdITGxweWlneTVwV2lhNVFWTnJTbzBVcmpMaHl3Q2ZiU3ZieWY3OWQyYXhQbXI2N0NDSmtBTmZLUzFOeG5fME9qSDlkb3BJVUNPUkpGVzdIcnlOUUdyRDlVTzhTbDc4cnRfaEppUVBGSEthNHc2VHpYZ2lJTGFvNWc1Vmw0V2UySU1ab0w5UkVrYkVQR2hFYXp0Vzln0gHQAUFVX3lxTE5DZFpKS1h1UG00dVlscm05VEE2MTdqbWNwc0lKRlB1NV9nWGdCV2k2T2dWQW5QYVJyZGk1N1d2dWcwanFxdDY3Slh6VjVJcXdyWExzYlgycnlnOGFtNTRVTE1XeWFpdVo4OF9YTGxPSlY3bTJzQlJ5aEctbXU2dzQ3RG1WTnJPT2cyd0pueWh5LUw2OFl2dk5XWjByNDFVQ2xHTTlvXzNYZjktbXduU0x4TWZqdFpqQW13cjZ1WDVvb1RLUG5LRlVGdnJnSzcyZHg?oc=5",
-   "published_utc": "2026-09-08T12:00:13+00:00",
-   "title_original": "Copper rally sets record LME price as US tariff fears fuel supply ‘scramble’",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6d2c82e34638de00"
   },
   {
    "source_id": "manual_ia",
