@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T08:32:43.019617+00:00
+Última coleta: 2026-10-09T08:42:44.278019+00:00
 Total: 2972 manchetes
 
   🇯🇵 Japão          1207
-  🇨🇳 China          794
-  🇹🇼 Taiwan         280
+  🇨🇳 China          795
+  🇹🇼 Taiwan         279
   🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
@@ -37,6 +37,7 @@ Total: 2972 manchetes
   - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
   - [japan] Is Kyushu experiencing a “warm and rainy winter”? Concerns about rising prices due to crop failures and poor c
   - [korea] South Korean Won Eases
+  - [china] Ecobank Taps Yuan Payments, Eyes Africa’s Trade With China
   - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to remain stable in October
   - [china] China's blue-chip stocks hit over one-year low on AI-linked supply chain selloff
   - [china] China to resume fuel exports in Oct after holiday pause, Reuters reports
@@ -56,7 +57,6 @@ Total: 2972 manchetes
   - [china] Offshore Yuan Rises as PBoC Defends Policy
   - [china] China approves non-state crude oil import quota for 2027 at 257 million tons
   - [china] CHINA PBOC CONDUCTS CNY2 BLN VIA 7-DAY REVERSE REPO FRI
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7330 FRI VS 6.7367
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2972 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T08:32:43+00:00",
+      "published_utc": "2026-10-09T08:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
