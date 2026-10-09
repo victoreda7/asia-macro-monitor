@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T02:52:41.457301+00:00
-Total: 2982 manchetes
+Última coleta: 2026-10-09T03:02:42.100240+00:00
+Total: 2981 manchetes
 
-  🇯🇵 Japão          1217
-  🇨🇳 China          788
+  🇯🇵 Japão          1215
+  🇨🇳 China          789
   🇹🇼 Taiwan         280
   🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan firms as dollar slips, PBOC rejects undervaluation claims amid EU talks
   - [korea] SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12
   - [taiwan] GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
   - [china] Offshore Yuan Rises as PBoC Defends Policy
@@ -56,7 +57,6 @@ Total: 2982 manchetes
   - [taiwan] Taiwan Semiconductor’s Sales Surged In September
   - [china] China defende política do iuan enquanto Europa intensifica pressão sobre superávit comercial
   - [taiwan] TSMC Sales Soar 50%. The Stock Is Falling Anyway
-  - [taiwan] GlobalFoundries will manufacture essential component for AI chips for TSMC in US$2 billion deal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2982 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T02:52:41+00:00",
+      "published_utc": "2026-10-09T03:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
