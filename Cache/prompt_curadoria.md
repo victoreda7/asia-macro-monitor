@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T14:12:43.422485+00:00
-Total: 2973 manchetes
+Última coleta: 2026-10-09T14:22:43.406958+00:00
+Total: 2974 manchetes
 
   🇯🇵 Japão          1207
-  🇨🇳 China          803
+  🇨🇳 China          804
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  686
 
@@ -48,6 +48,7 @@ Total: 2973 manchetes
   - [japan] Buy it in a hurry? Or wait and see? ...The Bank of Japan's interest rate hike will increase the burden of home
   - [japan] Prime Minister Takaichi held the 14th Economic and Fiscal Council Meeting in 2026
   - [korea] Just as important as preventing hacking is protecting the user's assets in the event of an accident...
+  - [china] China Rolls Out $82 Billion in Additional Stimulus for Provinces
   - [china] China Says It Has No Intention of Depreciating Yuan to Boost Exports
   - [japan] Stock price decline narrows in the afternoon, buyback movement in semiconductor-related stocks
   - [china] China to support expansion of domestic demand, deepen fiscal reform
@@ -56,7 +57,6 @@ Total: 2973 manchetes
   - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
   - [china] China's tax crackdown increases pressure on luxury brands as US spending weakens
   - [japan] Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”
-  - [japan] Iseki&Co Ltd - To Buy Back Up To 1.46% Of Own Shares Worth 500 Million Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2973 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T14:12:43+00:00",
+      "published_utc": "2026-10-09T14:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
