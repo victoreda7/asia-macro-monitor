@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T15:12:44.279703+00:00
-Total: 2982 manchetes
+Última coleta: 2026-10-09T15:22:44.352242+00:00
+Total: 2984 manchetes
 
   🇯🇵 Japão          1208
-  🇨🇳 China          809
+  🇨🇳 China          811
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
+  - [china] China Longyuan Power Posts Sept 2026 Power Generation Up 7.08% To 5.7 Million Mwh
   - [china] China, EU strike deal to cut Chinese hybrid vehicle exports by over half
   - [china] Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas
   - [china] EU says it agrees with China to halve hybrid vehicle exports to EU
   - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
+  - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [japan] Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation contin
   - [taiwan] Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says
   - [japan] Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk
@@ -55,8 +57,6 @@ Total: 2982 manchetes
   - [korea] Just as important as preventing hacking is protecting the user's assets in the event of an accident...
   - [china] China Says It Has No Intention of Depreciating Yuan to Boost Exports
   - [china] China Rolls Out $82 Billion in Additional Stimulus for Provinces
-  - [japan] Stock price decline narrows in the afternoon, buyback movement in semiconductor-related stocks
-  - [china] China to support expansion of domestic demand, deepen fiscal reform
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2982 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T15:12:44+00:00",
+      "published_utc": "2026-10-09T15:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T15:12:44.279703+00:00",
- "collected_at_utc": "2026-10-09T15:12:44.279703+00:00",
+ "generated_at_utc": "2026-10-09T15:22:44.352242+00:00",
+ "collected_at_utc": "2026-10-09T15:22:44.352242+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2982,
+ "count": 2984,
  "by_region": {
   "japan": 1208,
-  "china": 809,
+  "china": 811,
   "taiwan": 277,
   "korea": 688
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T07:42:44+00:00"
+   "newest": "2026-10-08T03:59:06+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-24T07:00:00+00:00"
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T22:17:23+09:00"
+   "newest": "2026-10-10T00:15:27+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-10T00:03:54+09:00"
+   "newest": "2026-10-10T00:15:27+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
-   "newest": "2026-10-09T09:16:00+00:00"
+   "newest": "2026-10-09T10:22:31+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T15:11:46+00:00"
+   "newest": "2026-10-09T15:21:41+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T06:18:51+00:00"
+   "newest": "2026-10-09T09:27:23+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China Longyuan Power Posts Sept 2026 Power Generation Up 7.08% To 5.7 Million Mwh",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45V13P:0-china-longyuan-power-posts-sept-2026-power-generation-up-7-08-to-5-7-million-mwh/",
+   "published_utc": "2026-10-09T15:21:20+00:00",
+   "title_original": "China Longyuan Power Posts Sept 2026 Power Generation Up 7.08% To 5.7 Million Mwh",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "79f3ebd6839277b5"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -410,6 +427,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8c609259b9cb32c1"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "EU Says China Accord Could Cut Hybrid Car Exports by Half",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGliVlhRNmZ2WGZXZXpYWmZUdjRFUXBwRmlqWHBaNzZKYWVGTDI5cDJVS0hwblE1VG5hVmI4T25QRmZJcHYwNlN2UXdXckM5anhQbzQ4TlhzVXV6T2xSaEJwTlhPQTFOZFlBcC0xZGc5enFUTDRpYzBLWjNHSm1GQUtrdEFQWUpRQlhWSlVTU0V2VG1CQXlVQ3YxUEY0UzM4ajd3TUlibzQ2R0ZodmVidUNqRQ?oc=5",
+   "published_utc": "2026-10-09T13:35:01+00:00",
+   "title_original": "EU Says China Accord Could Cut Hybrid Car Exports by Half",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bb722953481737a0"
   },
   {
    "source_id": "nhk_economy",
@@ -1699,23 +1733,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6ef1fcd9d52a75de"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China approves non-state crude oil import quota for 2027 at 257 million tons",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N42U0DI:0-china-approves-non-state-crude-oil-import-quota-for-2027-at-257-million-tons/",
-   "published_utc": "2026-10-09T02:14:32+00:00",
-   "title_original": "China approves non-state crude oil import quota for 2027 at 257 million tons",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a8706ddabd927adc"
   },
   {
    "source_id": "investing_econ",
@@ -3368,6 +3385,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bccedbef326c7d78"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Malaysia's chip push: a new island and pressure from Washington and Beijing",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LVWMzeE1RRHR4ZVBQSmN0TEtoNFpPODdpYnp0VjhQLUV4WXBoTTdfczZnYkZ4QzJwUU8wbkk5UjFLM2lXQVF3YmVrd3lQX0N6OW50UWpmLVk1WnFEeURLQQ?oc=5",
+   "published_utc": "2026-10-08T03:55:00+00:00",
+   "title_original": "Malaysia's chip push: a new island and pressure from Washington and Beijing",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "51b7e519d4126769"
   },
   {
    "source_id": "gn_kr_bok",
@@ -8536,7 +8570,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "부산일보",
    "title_en": "Should I sell stocks and deposit money? Bankers’ deposit interest rate ‘increase rally’",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQU1TcjRXSGhyRUV1ZkhQejVRREpLR3NJdlhQOG9ZWHhpX3BsYklVMU9ZbklpTnNwRk5iNDJMc3NhSFJfdWxXeWJNQWZoclhrZTlDY2gwVTUyaU5hX2M2Ni1rSnROV0NwX0RjT2tfX3ZkUmVWYkE3UFA3UzQ5ckNGU0NFdWJWOV9ibk00bkNlR1BWZ1VrRTFkU2dYYXF2SEptMWRiNFQwb3hIaU5KWDJHaXlKaThQeFNCeXlDUjdsamszQkdUQUYxc1lHQWRWQllacnBFVlQ5dDQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdGFOclJjRHNxb2cwMGNXTXYybmthSm5FMkV4S29pN0FvTFFDNXhwTVNXbjdPbldRQkNvM2lodC00LWJRemhDSk1iUG5kT0dkQTRxX0pUTWVCNHlreFktVmNFdkVFT05yRHZYbnVUa0hqbm1ta285SQ?oc=5",
    "published_utc": "2026-10-05T08:14:27+00:00",
    "title_original": "주식 팔고 예금할까… 은행가 예금금리 ‘인상 랠리’",
    "region": "korea",
@@ -8547,7 +8581,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1a80eca6e5434091"
+   "id": "a4bb6f4c956c2404"
   },
   {
    "source_id": "gn_tw_digitimes",
