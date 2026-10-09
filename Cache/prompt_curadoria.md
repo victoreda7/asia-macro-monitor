@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T02:12:44.093602+00:00
-Total: 2985 manchetes
+Última coleta: 2026-10-09T02:22:43.779075+00:00
+Total: 2986 manchetes
 
-  🇯🇵 Japão          1218
-  🇨🇳 China          791
+  🇯🇵 Japão          1217
+  🇨🇳 China          793
   🇹🇼 Taiwan         279
   🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
+  - [china] China approves non-state crude oil import quota for 2027 at 257 million tons
+  - [china] CHINA PBOC CONDUCTS CNY2 BLN VIA 7-DAY REVERSE REPO FRI
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7330 FRI VS 6.7367
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
@@ -54,9 +57,6 @@ Total: 2985 manchetes
   - [taiwan] GlobalFoundries to make key AI chip component for TSMC in $2 billion deal
   - [taiwan] TSMC Stocks Drop 2% Despite Citi's NT$4,000 Target
   - [taiwan] September exports hit record monthly high, extend growth to 35 months
-  - [taiwan] GlobalFoundries will manufacture a key AI chip component for TSMC
-  - [taiwan] GlobalFoundries to make key AI chip component for TSMC
-  - [japan] Prudential's Japanese unit involved in 5.2 bil. yen fraud
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2985 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T02:12:44+00:00",
+      "published_utc": "2026-10-09T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
