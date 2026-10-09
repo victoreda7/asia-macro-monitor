@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T05:02:44.362928+00:00
-Total: 2968 manchetes
+Última coleta: 2026-10-09T05:12:45.437871+00:00
+Total: 2967 manchetes
 
-  🇯🇵 Japão          1210
+  🇯🇵 Japão          1209
   🇨🇳 China          785
-  🇹🇼 Taiwan         280
-  🇰🇷 Coreia do Sul  693
+  🇹🇼 Taiwan         281
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
@@ -38,6 +38,7 @@ Total: 2968 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7330 FRI VS 6.7367
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [china] Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
+  - [taiwan] US Moves to Reassure Taiwan as Trump-Xi Ties Stall Big Arms Deal
   - [japan] JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk
   - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase operation today
   - [china] The Central Bank of China: Today it launched a 2 billion yuan 7-day reverse repurchase operation, with a biddi
@@ -56,7 +57,6 @@ Total: 2968 manchetes
   - [taiwan] TSMC's AI Boom Just Got Bigger
   - [china] Sumitomo Bakelite to boost chip encapsulant output in China, Singapore
   - [china] Synopsys plans to explore working with Chinese AI labs on chip design tech: report
-  - [china] Synopsys looks to work with Chinese AI labs to speed up chip design
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2968 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T05:02:44+00:00",
+      "published_utc": "2026-10-09T05:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
