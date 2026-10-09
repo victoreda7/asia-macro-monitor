@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T22:22:42.066763+00:00
-Total: 2992 manchetes
+Última coleta: 2026-10-09T22:32:45.302815+00:00
+Total: 2993 manchetes
 
   🇯🇵 Japão          1207
-  🇨🇳 China          817
+  🇨🇳 China          818
   🇹🇼 Taiwan         279
   🇰🇷 Coreia do Sul  689
 
 ## O que já está no feed (não repita)
 
+  - [china] Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China
+  - [korea] Prices that cannot be determined... Will the Bank of Korea and the US Federal Reserve raise the base interest 
   - [japan] Japan food tax cut gets cabinet approval with key questions unanswered
   - [china] Super Micro Contractor Pleads Guilty In Scheme To Divert Computer Servers Built With Nvidia AI Chips To China
   - [china] China and EU discuss trade conflict EU "to curb exports from China"
@@ -55,8 +57,6 @@ Total: 2992 manchetes
   - [china] China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan
   - [china] Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say
   - [china] Yuan’s Global Role Is Expanding Beyond Trade,Execs Say
-  - [china] Gasoline margin down 9% on hopes of China export resumption
-  - [china] Timespreads crunch as markets eye China exports resumption
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2992 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T22:22:42+00:00",
+      "published_utc": "2026-10-09T22:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
