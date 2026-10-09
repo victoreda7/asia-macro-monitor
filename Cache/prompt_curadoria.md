@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T13:12:46.323388+00:00
-Total: 2970 manchetes
+Última coleta: 2026-10-09T13:22:45.156212+00:00
+Total: 2971 manchetes
 
-  🇯🇵 Japão          1206
+  🇯🇵 Japão          1207
   🇨🇳 China          801
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
+  - [japan] Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation contin
   - [taiwan] Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says
   - [japan] Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk
   - [china] China AI developers publish safety tests for just 3.6% of model releases, report finds
@@ -56,7 +57,6 @@ Total: 2970 manchetes
   - [japan] Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”
   - [japan] Iseki&Co Ltd - To Buy Back Up To 1.46% Of Own Shares Worth 500 Million Yen
   - [korea] It was found that the budget of 16 million won was used by the chairman of the Korea Education Facil..
-  - [korea] Bank of Korea predicts ‘hawkish freeze’ in base interest rate in October… Additional U.S. tightening is a vari
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2970 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T13:12:46+00:00",
+      "published_utc": "2026-10-09T13:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
