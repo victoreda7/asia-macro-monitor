@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T06:12:42.745788+00:00
-Total: 2965 manchetes
+Última coleta: 2026-10-09T06:22:44.133027+00:00
+Total: 2964 manchetes
 
-  🇯🇵 Japão          1207
+  🇯🇵 Japão          1206
   🇨🇳 China          787
   🇹🇼 Taiwan         281
   🇰🇷 Coreia do Sul  690
 
 ## O que já está no feed (não repita)
 
+  - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [china] Broker Sucden Financial wants to clear LME metals trades in offshore yuan
   - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
   - [japan] Is Kyushu experiencing a “warm and rainy winter”? Concerns about rising prices due to crop failures and poor c
@@ -41,7 +42,6 @@ Total: 2965 manchetes
   - [china] China approves non-state crude oil import quota for 2027 at 257 million tons
   - [china] CHINA PBOC CONDUCTS CNY2 BLN VIA 7-DAY REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7330 FRI VS 6.7367
-  - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [china] Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
   - [taiwan] US Moves to Reassure Taiwan as Trump-Xi Ties Stall Big Arms Deal
   - [japan] JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk
@@ -116,7 +116,7 @@ Total: 2965 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T06:12:42+00:00",
+      "published_utc": "2026-10-09T06:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
