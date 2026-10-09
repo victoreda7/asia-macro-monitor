@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T05:22:44.934316+00:00
-Total: 2966 manchetes
+Última coleta: 2026-10-09T05:32:43.361685+00:00
+Total: 2967 manchetes
 
   🇯🇵 Japão          1208
   🇨🇳 China          785
   🇹🇼 Taiwan         281
-  🇰🇷 Coreia do Sul  692
+  🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean Won Eases
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] China's blue-chip stocks hit over one-year low on AI-linked supply chain selloff
   - [china] China to resume fuel exports in Oct after holiday pause, Reuters reports
@@ -56,7 +57,6 @@ Total: 2966 manchetes
   - [china] CXMT, the semiconductor giant with the top Chinese market capitalization, begins mass production of next-gener
   - [taiwan] TSMC's AI Boom Just Got Bigger
   - [china] Sumitomo Bakelite to boost chip encapsulant output in China, Singapore
-  - [china] Synopsys plans to explore working with Chinese AI labs on chip design tech: report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2966 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T05:22:45+00:00",
+      "published_utc": "2026-10-09T05:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
