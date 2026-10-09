@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T10:22:43.236064+00:00",
- "collected_at_utc": "2026-10-09T10:22:43.236064+00:00",
+ "generated_at_utc": "2026-10-09T10:32:41.948012+00:00",
+ "collected_at_utc": "2026-10-09T10:32:41.948012+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2966,
+ "count": 2969,
  "by_region": {
-  "japan": 1204,
-  "china": 796,
+  "japan": 1205,
+  "china": 798,
   "taiwan": 278,
   "korea": 688
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T07:37:51+00:00"
+   "newest": "2026-10-09T02:43:17+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T10:00:36+00:00"
+   "newest": "2026-10-09T10:22:53+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T09:37:31+00:00"
+   "newest": "2026-10-09T10:18:46+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T09:46:00+00:00"
+   "newest": "2026-10-09T10:07:23+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T10:11:39+00:00"
+   "newest": "2026-10-09T10:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T10:07:02+00:00"
+   "newest": "2026-10-09T10:20:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-09T08:42:49+00:00"
+   "newest": "2026-10-09T10:26:48+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,6 +344,75 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Timespreads crunch as markets eye China exports resumption",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45V0PF:0-timespreads-crunch-as-markets-eye-china-exports-resumption/",
+   "published_utc": "2026-10-09T10:26:42+00:00",
+   "title_original": "Timespreads crunch as markets eye China exports resumption",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6c09d1b3122db3cc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Dex-Lab, Subsidiary Of Novamsc, Secures 16 Million RGT Order In China",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45V0VB:0-dex-lab-subsidiary-of-novamsc-secures-16-million-rgt-order-in-china/",
+   "published_utc": "2026-10-09T10:25:47+00:00",
+   "title_original": "Dex-Lab, Subsidiary Of Novamsc, Secures 16 Million RGT Order In China",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "aa4e7087bce252e3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Starhill Global Real Estate Investment Trust Divests Ebisu Fort For Jpy 6.20 Billion",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45V0MU:0-starhill-global-real-estate-investment-trust-divests-ebisu-fort-for-jpy-6-20-billion/",
+   "published_utc": "2026-10-09T10:25:35+00:00",
+   "title_original": "Starhill Global Real Estate Investment Trust Divests Ebisu Fort For Jpy 6.20 Billion",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "23ff28b957feca88"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sales of Chinese-made Tesla electric vehicles accelerate in September",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45V09T:0/",
+   "published_utc": "2026-10-09T10:16:04+00:00",
+   "title_original": "Vendas de veículos elétricos da Tesla fabricados na China aceleram em setembro",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "84a371c0512e0907"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Government Cabinet approves bill related to food consumption tax reduction",
@@ -377,23 +446,6 @@
    "live_wire": true,
    "manual": false,
    "id": "88976a7f96e74ed3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Sales of Chinese-made Tesla electric vehicles accelerate in September",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45V092:0/",
-   "published_utc": "2026-10-09T09:59:09+00:00",
-   "title_original": "Vendas de veículos elétricos da Tesla fabricados na China aceleram em setembro",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "b8570a79dc6bf259"
   },
   {
    "source_id": "tradingview_live",
@@ -3252,7 +3304,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "에너지경제신문",
    "title_en": "‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level from 2022",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MzlGNzQzeHpCYkY4a3NJQXFzOVpITFNZekhOb3oyTU55Yjh3TDhWSjRBNGVsd2cwX0JBMWRER0VxUGNDYW05TzhuR0RtdmFJemtDMi16MWR5ak0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CWkNRbkhPN2JGNVc0UlhBY1NjSGNNOEZaUUVrcmJleFBZWDIwZGdVSGE4cnpzTTk4c0V0MV9tZnhOYTNSa1JYQzlMSkJReHdJaVNacEZtMHp0ZG1QN2JVX0tDRQ?oc=5",
    "published_utc": "2026-10-08T01:14:13+00:00",
    "title_original": "‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM",
    "region": "korea",
@@ -3263,7 +3315,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f20de907c2a7b4c4"
+   "id": "99c612b549c007d3"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -16749,23 +16801,6 @@
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
-   "title_en": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmY1bmJOSzlUYUtEZ1Bna3ZEM21LdXdyOEZYX3hpTkJ5THk2SG52WlQzcTRSOTl5SjRCS2JJYkZxYUdLRTNyanBhN0lsODBVeFM0cnlHbW4zamdOby0wNUltSWZxRnFkQkFVRV9famVYSDVvRHlCTjNpYzliQVJneUd0VHZmblFCSGh5ckdIX3paLXpXc3l5am9uaTdJNWRDaTdBWjl5dzJoOVplYWpHZXJkanJpY3FtU0pZaC1SRm1PNkdMUktkaWJ3?oc=5",
-   "published_utc": "2026-09-30T07:00:00+00:00",
-   "title_original": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "43fd139b9ffda4e0"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
    "title_en": "China’s Manufacturing Activity Returns to Expansion",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTk9yb2I4MEdHYUZ5bGZXRzI5Z2ZXMThXSGRIam1oUURVb3VEcGpNeWFOeUw1ellnSENrZG1VREJzbGVTOWYtdVhIcnhtWmhJNXZuZHduRUthVEdaTDFRQkpVLUx4WlJfcHRuNzBUY2tZYUNyb3pzdTh2VU9PekZIZXN1cDJ5MzJObF9Dcmc5bVpiY1VHZEJldkNkZjRCQ2MzUUFsMHJmbHU?oc=5",
    "published_utc": "2026-09-30T07:00:00+00:00",
@@ -18241,6 +18276,23 @@
    "live_wire": false,
    "manual": false,
    "id": "205895bdd253c1e0"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmY1bmJOSzlUYUtEZ1Bna3ZEM21LdXdyOEZYX3hpTkJ5THk2SG52WlQzcTRSOTl5SjRCS2JJYkZxYUdLRTNyanBhN0lsODBVeFM0cnlHbW4zamdOby0wNUltSWZxRnFkQkFVRV9famVYSDVvRHlCTjNpYzliQVJneUd0VHZmblFCSGh5ckdIX3paLXpXc3l5am9uaTdJNWRDaTdBWjl5dzJoOVplYWpHZXJkanJpY3FtU0pZaC1SRm1PNkdMUktkaWJ3?oc=5",
+   "published_utc": "2026-09-29T16:25:00+00:00",
+   "title_original": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "43fd139b9ffda4e0"
   },
   {
    "source_id": "gn_tw_taipeitimes",

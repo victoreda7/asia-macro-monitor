@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T10:22:43.236064+00:00
-Total: 2966 manchetes
+Última coleta: 2026-10-09T10:32:41.948012+00:00
+Total: 2969 manchetes
 
-  🇯🇵 Japão          1204
-  🇨🇳 China          796
+  🇯🇵 Japão          1205
+  🇨🇳 China          798
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
+  - [china] Timespreads crunch as markets eye China exports resumption
+  - [china] Dex-Lab, Subsidiary Of Novamsc, Secures 16 Million RGT Order In China
+  - [japan] Starhill Global Real Estate Investment Trust Divests Ebisu Fort For Jpy 6.20 Billion
+  - [china] Sales of Chinese-made Tesla electric vehicles accelerate in September
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [japan] Japan Machine Tool Orders Surge 60.4% In September
-  - [china] Sales of Chinese-made Tesla electric vehicles accelerate in September
   - [china] China's third batch of 2026 fuel export quotas down from year ago, sources say
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] China's central bank buys net 100 billion yuan of sovereign bonds in September
@@ -54,9 +57,6 @@ Total: 2966 manchetes
   - [japan] Asia stocks mixed; chipmakers slide on OpenAI revenue concerns
   - [japan] Issues with food consumption tax reduction: securing financial resources and impact on consumers
   - [china] China to resume October fuel exports after a brief halt, four trade sources say
-  - [china] China to resume October fuel exports after holiday pause, sources say
-  - [japan] Japan PM vows to keep watching yen, inflation moves carefully
-  - [taiwan] TSMC Revenue Likely to Be Driven by Continued Growth in AI Demand — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2966 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T10:22:43+00:00",
+      "published_utc": "2026-10-09T10:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
