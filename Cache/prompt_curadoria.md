@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T15:52:43.737210+00:00
-Total: 2987 manchetes
+Última coleta: 2026-10-09T16:02:44.717509+00:00
+Total: 2986 manchetes
 
   🇯🇵 Japão          1210
-  🇨🇳 China          813
+  🇨🇳 China          812
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  687
 
@@ -22,6 +22,7 @@ Total: 2987 manchetes
   - [china] China-EU trade talks yield prospect of Chinese hybrid exports halving
   - [china] Mercedes welcomes EU-China import deal for offering more predictability
   - [china] China Longyuan Power Posts Sept 2026 Power Generation Up 7.08% To 5.7 Million Mwh
+  - [taiwan] OPPO To Launch Find X10 Pro Max With MediaTek 2nm Chip Globally
   - [china] China, EU strike deal to cut Chinese hybrid vehicle exports by over half
   - [china] Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas
   - [china] EU says it agrees with China to halve hybrid vehicle exports to EU
@@ -56,7 +57,6 @@ Total: 2987 manchetes
   - [china] EU and China face crunch time in effort to avoid trade war
   - [china] China ramps up fiscal push to meet growth target
   - [china] The central bank invested a net 100 billion yuan in open market government bond sales in September
-  - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2987 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T15:52:43+00:00",
+      "published_utc": "2026-10-09T16:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
