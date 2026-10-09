@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T14:52:43.977937+00:00",
- "collected_at_utc": "2026-10-09T14:52:43.977937+00:00",
+ "generated_at_utc": "2026-10-09T15:02:44.559973+00:00",
+ "collected_at_utc": "2026-10-09T15:02:44.559973+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2979,
+ "count": 2981,
  "by_region": {
-  "japan": 1209,
-  "china": 806,
+  "japan": 1208,
+  "china": 809,
   "taiwan": 277,
   "korea": 687
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T11:59:14+00:00"
+   "newest": "2026-10-09T13:35:01+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T14:40:32+00:00"
+   "newest": "2026-10-09T14:59:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T14:30:39+00:00"
+   "newest": "2026-10-09T14:44:09+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T07:38:23+00:00"
+   "newest": "2026-10-09T04:13:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T14:52:01+00:00"
+   "newest": "2026-10-09T15:01:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China, EU strike deal to cut Chinese hybrid vehicle exports by over half",
+   "url": "https://www.investing.com/news/economic-indicators/china-eu-strike-deal-to-cut-chinese-hybrid-vehicle-exports-by-over-half-4941416",
+   "published_utc": "2026-10-09T14:48:43+00:00",
+   "title_original": "China, EU strike deal to cut Chinese hybrid vehicle exports by over half",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1c50b90d97edab16"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas",
@@ -378,8 +395,25 @@
    "id": "91431e6663917737"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "EU Says Accord With China Could Cut Hybrid Car Exports by Half",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGliVlhRNmZ2WGZXZXpYWmZUdjRFUXBwRmlqWHBaNzZKYWVGTDI5cDJVS0hwblE1VG5hVmI4T25QRmZJcHYwNlN2UXdXckM5anhQbzQ4TlhzVXV6T2xSaEJwTlhPQTFOZFlBcC0xZGc5enFUTDRpYzBLWjNHSm1GQUtrdEFQWUpRQlhWSlVTU0V2VG1CQXlVQ3YxUEY0UzM4ajd3TUlibzQ2R0ZodmVidUNqRQ?oc=5",
+   "published_utc": "2026-10-09T13:35:01+00:00",
+   "title_original": "EU Says Accord With China Could Cut Hybrid Car Exports by Half",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8c609259b9cb32c1"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -393,7 +427,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -445,6 +479,23 @@
    "live_wire": true,
    "manual": false,
    "id": "6eeedfe35361477d"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Says It Has ‘Understanding’ With EU on Hybrid Car Exports",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1pYaThUV19xaG1UY0Q3ZzN5cjhOYVF6NF9lSGRmZmM0dE40em10Z19nTmZXdTFycEtLQkp6enp4aDNqcFJxQXZYdWNlOWRqVTNJbUVHTWxkYWk3emNINzlGRGJEVFhTOWc3cEVtRmdCMmFHU1R0WmFKekd0Q2V0VXFIWnBVRjkzSTdSNnNGaFdoNnRRTEhFVnVlMHBVakc5dTZVbmxWLWg5a3NDSXRXakJR?oc=5",
+   "published_utc": "2026-10-09T12:29:28+00:00",
+   "title_original": "China Says It Has ‘Understanding’ With EU on Hybrid Car Exports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fdfa6aa0687f3006"
   },
   {
    "source_id": "tradingview_live",
@@ -533,8 +584,8 @@
    "id": "0b47d3b41ca0bbf3"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -548,7 +599,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -1371,8 +1422,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -1386,7 +1437,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -5096,8 +5147,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -5111,7 +5162,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -51578,23 +51629,6 @@
    "live_wire": false,
    "manual": false,
    "id": "83f5601eed1df4bc"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Japan’s China-facing military push tests labour, budget and political limits",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbWlLNS1zRzFaeFh0bVFZMWtUaGlVSDFkMjF2d1lsbE9KTkctb1NjNTFyWTM3dG9lczBjOEJza0ZaSDB0YVNveFc5VG4zNHZwNnpQcE5hUm5OdEpkVGRyNkF5ZUROZ2dvbGpkNG83cUNBZktyRTVJb1Q0dmk5dF9ZSi1SdlpieUZvNEtIRWtma2FHbWszSng4YXFWSl9XNlVWZmFOcjVDZXBMOUkwMzBSOHlYQXE3QklUTHF4UlVINjJRQmRwTDNlY1dzVkwtM2FSdUHSAdIBQVVfeXFMUDEzYlBhdXJjNHR0dFdoaGZ1OENVbS1ib3lXWE5zV2lUY29XYnJVUTZQdlVRbW1HOTh2THdSNnVOeERHSFl2U3F5TkdjSU5WbGp5ei0yUnZLY2RneXNMRHVpTUloRGdwUVUyNzZDQ25PMHRudjRsazNRVHJUbE9GQ2FiY19lZXhEd29PcXV0T3Bncmhhb3pPY01BZEFlSlhaaU1pdDluWlBhcV9OYW5sVXhOVWEyWi1fclByNEVqbG5KNXV5RmMtX25RZGZkbnVPMDR3?oc=5",
-   "published_utc": "2026-09-09T15:00:09+00:00",
-   "title_original": "Japan’s China-facing military push tests labour, budget and political limits",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b66373e193fa5a69"
   },
   {
    "source_id": "manual_ia",

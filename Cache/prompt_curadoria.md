@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T14:52:43.977937+00:00
-Total: 2979 manchetes
+Última coleta: 2026-10-09T15:02:44.559973+00:00
+Total: 2981 manchetes
 
-  🇯🇵 Japão          1209
-  🇨🇳 China          806
+  🇯🇵 Japão          1208
+  🇨🇳 China          809
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  687
 
 ## O que já está no feed (não repita)
 
+  - [china] China, EU strike deal to cut Chinese hybrid vehicle exports by over half
   - [china] Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas
   - [china] EU says it agrees with China to halve hybrid vehicle exports to EU
+  - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
   - [japan] Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation contin
   - [taiwan] Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says
   - [japan] Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk
   - [china] China AI developers publish safety tests for just 3.6% of model releases, report finds
+  - [china] China Says It Has ‘Understanding’ With EU on Hybrid Car Exports
   - [china] Ecobank to join China's CIPS payments platform for yuan settlement
   - [china] China agrees to slash EU hybrid car exports in half, putting brake on trade war
   - [china] Developing | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
@@ -54,9 +57,6 @@ Total: 2979 manchetes
   - [china] China Rolls Out $82 Billion in Additional Stimulus for Provinces
   - [japan] Stock price decline narrows in the afternoon, buyback movement in semiconductor-related stocks
   - [china] China to support expansion of domestic demand, deepen fiscal reform
-  - [china] Uzum Says U.S. Investors Remain Interested Despite China Trade Tensions
-  - [japan] Dollar Likely to Stay in 155-160 Yen Range — Market Talk
-  - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2979 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T14:52:44+00:00",
+      "published_utc": "2026-10-09T15:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
