@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T14:32:46.227010+00:00",
- "collected_at_utc": "2026-10-09T14:32:46.227010+00:00",
+ "generated_at_utc": "2026-10-09T14:42:45.247902+00:00",
+ "collected_at_utc": "2026-10-09T14:42:45.247902+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2977,
+ "count": 2978,
  "by_region": {
-  "japan": 1208,
+  "japan": 1209,
   "china": 806,
   "taiwan": 277,
   "korea": 686
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T11:21:57+00:00"
+   "newest": "2026-10-09T11:58:54+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T22:17:23+09:00"
+   "newest": "2026-10-09T23:41:18+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T14:31:33+00:00"
+   "newest": "2026-10-09T14:41:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T08:02:19+00:00"
+   "newest": "2026-10-09T11:02:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -378,8 +378,8 @@
    "id": "91431e6663917737"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -393,7 +393,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -515,8 +515,26 @@
    "id": "943a586ed264354b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Govt. submits bill for consumption tax cut",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oMWUzQmNLcmhyWFdNODBNY1BPNVRrX3kzRW5OQWJMMmViUGtwdHB6TFhoMEx2ZFpJel82cmhBMWJTbTEwU01OZTdWLUVLUjVBVkNEZDZoWDNObVBLSHhYOVdtcw?oc=5",
+   "published_utc": "2026-10-09T11:58:54+00:00",
+   "title_original": "Govt. submits bill for consumption tax cut",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b47d3b41ca0bbf3"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -530,7 +548,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "tradingview_live",
@@ -548,24 +566,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b0acdebf17d9cbd7"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Govt. submits bill for consumption tax cut",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oMWUzQmNLcmhyWFdNODBNY1BPNVRrX3kzRW5OQWJMMmViUGtwdHB6TFhoMEx2ZFpJel82cmhBMWJTbTEwU01OZTdWLUVLUjVBVkNEZDZoWDNObVBLSHhYOVdtcw?oc=5",
-   "published_utc": "2026-10-09T11:21:57+00:00",
-   "title_original": "Govt. submits bill for consumption tax cut",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0b47d3b41ca0bbf3"
   },
   {
    "source_id": "tradingview_live",
@@ -1371,8 +1371,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -1386,7 +1386,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar heads for fourth straight weekly gain as euro slumps on fiscal worries",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPazB4eFpMSTdTQ2lQTkZISHU2NjNWYkhzdkgtUVN0cm8zU2E4a01JQWlHTmpqbVNjVkhETGtyOFEzN3RsRnVQVEFuekJlbnNjV0sya0NyNHVkUzNPcGdCdmYxNDF4Qzd4QzVyTkNJVzNsM2ltc0ptc2hsTTZvY3REUmpJb2kyQXhscy05cGxEb0dES2dGSS1vUHV4TjFPY1JPc0N1TUVXWFBjTU9zOGkw?oc=5",
+   "published_utc": "2026-10-09T03:46:25+00:00",
+   "title_original": "Dollar heads for fourth straight weekly gain as euro slumps on fiscal worries",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "de7298f8b947b602"
   },
   {
    "source_id": "tradingview_live",
@@ -3617,7 +3634,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "에너지경제신문",
    "title_en": "‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level from 2022",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MzlGNzQzeHpCYkY4a3NJQXFzOVpITFNZekhOb3oyTU55Yjh3TDhWSjRBNGVsd2cwX0JBMWRER0VxUGNDYW05TzhuR0RtdmFJemtDMi16MWR5ak0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CWkNRbkhPN2JGNVc0UlhBY1NjSGNNOEZaUUVrcmJleFBZWDIwZGdVSGE4cnpzTTk4c0V0MV9tZnhOYTNSa1JYQzlMSkJReHdJaVNacEZtMHp0ZG1QN2JVX0tDRQ?oc=5",
    "published_utc": "2026-10-08T01:14:13+00:00",
    "title_original": "‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM",
    "region": "korea",
@@ -3628,7 +3645,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f20de907c2a7b4c4"
+   "id": "99c612b549c007d3"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5062,8 +5079,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -5077,7 +5094,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -18856,7 +18873,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHUnRnQTVQZkREcjlKY3VoWWJhaUxUb29pVnFXaGYxX1U5N3dSSTBILVVWdHNQbHY5Z1FTSjYwckc4WnhhdHNNWHJ4ZmFJN2JiLVpubUgwb21BTlNBWUlrb0htTElxX25TQi1vaENGTVBMVmJobk9pLXZfRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmpwQVpRZG8yTVdkRXlTcW5xS3ZZb3EtSjVPN2dPc1g3YXFTZ09vUlVNR3k5eEVBQk9mZWZhUzlXdE1GSWFOS1c3bWJPSGpubDU3bEJULTFvU05PcGpkMjVENVpsQlk0cjNPZGxob1RpVWotb3gwa091ZURrWTJqVkVvbG5JZw?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
    "title_original": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
    "region": "china",
@@ -18867,7 +18884,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "32aeac54145f756e"
+   "id": "9725d40adaeb9145"
   },
   {
    "source_id": "gn_cn_pboc",

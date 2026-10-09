@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T14:32:46.227010+00:00
-Total: 2977 manchetes
+Última coleta: 2026-10-09T14:42:45.247902+00:00
+Total: 2978 manchetes
 
-  🇯🇵 Japão          1208
+  🇯🇵 Japão          1209
   🇨🇳 China          806
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  686
@@ -27,9 +27,9 @@ Total: 2977 manchetes
   - [china] China agrees to slash EU hybrid car exports in half, putting brake on trade war
   - [china] Developing | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [china] Breaking | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
+  - [japan] Govt. submits bill for consumption tax cut
   - [japan] Prime Minister Takaichi's economic growth rate and fiscal management targets "concrete inspection and verifica
   - [japan] Yen Falls Against Majors
-  - [japan] Govt. submits bill for consumption tax cut
   - [china] China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan
   - [china] Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say
   - [china] Yuan’s Global Role Is Expanding Beyond Trade,Execs Say
@@ -116,7 +116,7 @@ Total: 2977 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T14:32:46+00:00",
+      "published_utc": "2026-10-09T14:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
