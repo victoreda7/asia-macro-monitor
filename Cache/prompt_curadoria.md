@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T14:42:45.247902+00:00
-Total: 2978 manchetes
+Última coleta: 2026-10-09T14:52:43.977937+00:00
+Total: 2979 manchetes
 
   🇯🇵 Japão          1209
   🇨🇳 China          806
   🇹🇼 Taiwan         277
-  🇰🇷 Coreia do Sul  686
+  🇰🇷 Coreia do Sul  687
 
 ## O que já está no feed (não repita)
 
@@ -50,8 +50,8 @@ Total: 2978 manchetes
   - [japan] Buy it in a hurry? Or wait and see? ...The Bank of Japan's interest rate hike will increase the burden of home
   - [japan] Prime Minister Takaichi held the 14th Economic and Fiscal Council Meeting in 2026
   - [korea] Just as important as preventing hacking is protecting the user's assets in the event of an accident...
-  - [china] China Rolls Out $82 Billion in Additional Stimulus for Provinces
   - [china] China Says It Has No Intention of Depreciating Yuan to Boost Exports
+  - [china] China Rolls Out $82 Billion in Additional Stimulus for Provinces
   - [japan] Stock price decline narrows in the afternoon, buyback movement in semiconductor-related stocks
   - [china] China to support expansion of domestic demand, deepen fiscal reform
   - [china] Uzum Says U.S. Investors Remain Interested Despite China Trade Tensions
@@ -116,7 +116,7 @@ Total: 2978 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T14:42:45+00:00",
+      "published_utc": "2026-10-09T14:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
