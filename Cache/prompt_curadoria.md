@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T16:12:42.147741+00:00
-Total: 2988 manchetes
+Última coleta: 2026-10-09T16:22:44.255710+00:00
+Total: 2989 manchetes
 
   🇯🇵 Japão          1209
-  🇨🇳 China          814
+  🇨🇳 China          815
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  687
 
 ## O que já está no feed (não repita)
 
   - [china] Tariffs targeting China's Temu, Shein shrink US small parcel deliveries
+  - [china] China, EU strike deal to halve Chinese hybrid exports
   - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
   - [china] EU-China understanding could halve Chinese hybrid car exports
   - [japan] Japan's DOGE to 'step up' spending review, eyeing EV subsidies, health checks
@@ -56,7 +57,6 @@ Total: 2988 manchetes
   - [japan] Japan Machine Tool Orders Surge 60.4% In September
   - [china] China's third batch of 2026 fuel export quotas down from year ago, sources say
   - [china] China's central bank buys net 100 billion yuan of sovereign bonds in September
-  - [china] EU and China face crunch time in effort to avoid trade war
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2988 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T16:12:42+00:00",
+      "published_utc": "2026-10-09T16:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
