@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T01:22:43.234939+00:00
-Total: 2992 manchetes
+Última coleta: 2026-10-09T01:32:48.195649+00:00
+Total: 2991 manchetes
 
-  🇯🇵 Japão          1221
-  🇨🇳 China          795
+  🇯🇵 Japão          1222
+  🇨🇳 China          794
   🇹🇼 Taiwan         279
-  🇰🇷 Coreia do Sul  697
+  🇰🇷 Coreia do Sul  696
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk
+  - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase operation today
+  - [china] The Central Bank of China: Today it launched a 2 billion yuan 7-day reverse repurchase operation, with a biddi
   - [japan] Japan MOF To Auction Y2.2T Of TD-Bills Oct 19
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 16
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
@@ -54,9 +57,6 @@ Total: 2992 manchetes
   - [japan] Prudential's Japanese unit involved in 5.2 bil. yen fraud
   - [taiwan] GlobalFoundries partners with TSMC to establish US-based production of silicon interposers
   - [korea] New Silkroad Says Unit To Buy 2.67% Stake In I-Aurora For KRW 1,999.99 Million
-  - [china] China has no need or intention to weaken yuan for trade edge, central bank says
-  - [taiwan] Taiwan Trade Surplus Grows In September
-  - [china] China's Central Bank Rejects Claims Yuan Is Undervalued
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2992 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T01:22:43+00:00",
+      "published_utc": "2026-10-09T01:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

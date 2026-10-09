@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T01:22:43.234939+00:00",
- "collected_at_utc": "2026-10-09T01:22:43.234939+00:00",
+ "generated_at_utc": "2026-10-09T01:32:48.195649+00:00",
+ "collected_at_utc": "2026-10-09T01:32:48.195649+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2992,
+ "count": 2991,
  "by_region": {
-  "japan": 1221,
-  "china": 795,
+  "japan": 1222,
+  "china": 794,
   "taiwan": 279,
-  "korea": 697
+  "korea": 696
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T10:20:22+09:00"
+   "newest": "2026-10-09T10:20:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 20,
+   "count": 23,
    "error": "",
-   "newest": "2026-10-08T08:38:00+00:00"
+   "newest": "2026-10-09T01:28:58+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-08T23:37:31+00:00"
+   "newest": "2026-10-09T01:30:05+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T01:22:00+00:00"
+   "newest": "2026-10-09T01:31:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T22:57:24+00:00"
+   "newest": "2026-10-08T19:57:06+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,63 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T16:44:23+00:00"
+   "newest": "2026-10-08T15:11:52+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261008009826:0-jgb-yields-lower-across-curve-after-u-s-treasury-yield-declines-market-talk/",
+   "published_utc": "2026-10-09T01:31:00+00:00",
+   "title_original": "JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "656ff90cbae02be1"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "www.capwhale.com",
+   "title_en": "The central bank launched a 2 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDQ1ZjMzbVYtUHhnaTBKMGw2QW1Mb0V4TnZrbkFpRXZ5U1JRb1ZpVTN0Wkd5S3ZmNHRlNjhzb1FPZ0pNTzhMVEVCYWxRSHRjc0c5YzRTZXp3SjlvVjRpX1dma2RabzI4NUdjZnFHY0tRQ0k4eXVicHJFOVgzSTBJaDQycFN1S214V0NNQjZtR1FjUQ?oc=5",
+   "published_utc": "2026-10-09T01:28:58+00:00",
+   "title_original": "央行今日开展20亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b1f810311e201a9d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "汇通网 Fx678",
+   "title_en": "The Central Bank of China: Today it launched a 2 billion yuan 7-day reverse repurchase operation, with a bidding volume of 2 billion yuan and a winning bid of 2 billion yuan. The operating interest rate was 1.40%, the same as before_Foreign Exchange Dynamic Report",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tVjRzdVpSM1dvQTdkWkJCRDdMd0Y5WE5peFNlT2Y4RTdDZ0ZCMGEtVmN3MF96dUV0ejZ5WnFoOHcwcnFlVHBEVzBtT3ZUMERUR2Y2SjBhMzlkZFhWTFR6RjFUV3h3NzA?oc=5",
+   "published_utc": "2026-10-09T01:21:56+00:00",
+   "title_original": "中国央行：今日开展20亿元7天逆回购操作，投标量20亿元，中标量20亿元，操作利率为1.40%，与此前持平_外汇动态报道",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6883049fb6c7df7d"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -3685,8 +3738,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -3700,7 +3753,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -33038,23 +33091,6 @@
    "id": "008434ebc302f747"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
-   "published_utc": "2026-09-18T15:23:15+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e62f309accc3d17"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Yuan Surges Past 6.7 per Dollar to Three-Year High",
@@ -33297,23 +33333,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8dbe564e07ea424"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan - CNA English News",
-   "title_en": "Taiwan freezes electricity rates to support economy",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
-   "published_utc": "2026-09-18T11:36:00+00:00",
-   "title_original": "Taiwan freezes electricity rates to support economy",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a00b4baeb4330729"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -34569,6 +34588,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9ecd05a7ccdfd25e"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan - CNA English News",
+   "title_en": "Taiwan freezes electricity rates to support economy",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "Taiwan freezes electricity rates to support economy",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a00b4baeb4330729"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -46140,6 +46176,23 @@
    "id": "414e908396fee4ec"
   },
   {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EVUg2dmdoYllHTTl1b3A5LUpUS3d5dXZNVkJYNlcxOVlOWlhwZkJWaTdNRWNJWWU0SUNyLVFBUG1Mbll4U3VtcGd4eHlNd1pnTkF0MkdkVVpMaDRaWm1sVS1HYUtqQVBHWWNUQkhKTm11eHVGWVYxeENaNC0?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "00e0d68ad177fe2d"
+  },
+  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "Rate outlook: BOJ, Fed poised to hike",
@@ -51732,76 +51785,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1ad049dbee6f3bee"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Yuan Steps Into Carry Trade Spotlight Over Yen, Strategists Say",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa19oVUVHRTZpWm9nU0w3djhLazZDelZqdmtmdFM4eHV3cm1DSGVxMUNuR0tQYlNqRWdzX3R0MUdZbnl6SG4xbVlGdUlla09qSUZVX2Vja1V6eEJkUEZKM2E5NUk4ZDNULUVHRFRSVnIzczBMTlVaODFLNDhQZzZxLTJJQ0ZUZEpqQWwzMGdielEySWZ5OEljeDJFOXBENVN6RnVSbXQ4c29uakQzZEhRUHFmOA?oc=5",
-   "published_utc": "2026-09-09T01:32:00+00:00",
-   "title_original": "Yuan Steps Into Carry Trade Spotlight Over Yen, Strategists Say",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a670be16e39f8572"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Yuan Steps Into Carry Trade Spotlight Over Yen, Analysts Say",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa19oVUVHRTZpWm9nU0w3djhLazZDelZqdmtmdFM4eHV3cm1DSGVxMUNuR0tQYlNqRWdzX3R0MUdZbnl6SG4xbVlGdUlla09qSUZVX2Vja1V6eEJkUEZKM2E5NUk4ZDNULUVHRFRSVnIzczBMTlVaODFLNDhQZzZxLTJJQ0ZUZEpqQWwzMGdielEySWZ5OEljeDJFOXBENVN6RnVSbXQ4c29uakQzZEhRUHFmOA?oc=5",
-   "published_utc": "2026-09-09T01:32:00+00:00",
-   "title_original": "Yuan Steps Into Carry Trade Spotlight Over Yen, Analysts Say",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e4d8f665222cbb80"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
-   "title_en": "央行：9月9日7天期逆回购操作量为零",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91NGlvZVhzWUlESmJfUzFibGRTOXdZLUdoT19xOGlCWEhvNUtoNzJVLXZrUWE1dGR2QzBVYTVfUGstb2ZRM2NjRFpIOWZzV1NGWVFDZG53?oc=5",
-   "published_utc": "2026-09-09T01:28:00+00:00",
-   "title_original": "央行：9月9日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0318f255c3d0fd52"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "Will Bank of Korea Governor Shin Hyun-song raise interest rates again in October? GDP, prices, and household debt are falling",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9PVy16UFdJVTNaYjh1QWpjckdqeEJucWJWWks3UmRxUUFxdC1UZzBTMkNGMHJSZzRCMDdTaVNyaHplOC1ITXc?oc=5",
-   "published_utc": "2026-09-09T01:23:49+00:00",
-   "title_original": "신현송 한은 총재, 10월 금리 또 올릴까…GDP·물가·가계부채가 민다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b87f65a12432e45"
   },
   {
    "source_id": "manual_ia",
