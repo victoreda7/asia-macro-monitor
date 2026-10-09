@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T15:22:44.352242+00:00
-Total: 2984 manchetes
+Última coleta: 2026-10-09T15:32:44.395860+00:00
+Total: 2985 manchetes
 
   🇯🇵 Japão          1208
-  🇨🇳 China          811
+  🇨🇳 China          812
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
+  - [china] China-EU trade talks yield prospect of Chinese hybrid exports halving
+  - [china] Mercedes welcomes EU-China import deal for offering more predictability
   - [china] China Longyuan Power Posts Sept 2026 Power Generation Up 7.08% To 5.7 Million Mwh
   - [china] China, EU strike deal to cut Chinese hybrid vehicle exports by over half
   - [china] Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas
@@ -55,8 +57,6 @@ Total: 2984 manchetes
   - [japan] Buy it in a hurry? Or wait and see? ...The Bank of Japan's interest rate hike will increase the burden of home
   - [japan] Prime Minister Takaichi held the 14th Economic and Fiscal Council Meeting in 2026
   - [korea] Just as important as preventing hacking is protecting the user's assets in the event of an accident...
-  - [china] China Says It Has No Intention of Depreciating Yuan to Boost Exports
-  - [china] China Rolls Out $82 Billion in Additional Stimulus for Provinces
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2984 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T15:22:44+00:00",
+      "published_utc": "2026-10-09T15:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
