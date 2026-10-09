@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T03:42:44.769586+00:00
-Total: 2986 manchetes
+Última coleta: 2026-10-09T03:52:43.262931+00:00
+Total: 2985 manchetes
 
   🇯🇵 Japão          1219
   🇨🇳 China          791
-  🇹🇼 Taiwan         281
+  🇹🇼 Taiwan         280
   🇰🇷 Coreia do Sul  695
 
 ## O que já está no feed (não repita)
 
+  - [japan] Issues with food consumption tax reduction: securing financial resources and impact on consumers
   - [japan] Stock prices fall Sell orders on AI/semiconductor related stocks
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] China to resume October fuel exports after a brief halt, four trade sources say
@@ -56,7 +57,6 @@ Total: 2986 manchetes
   - [china] Synopsys looks to work with Chinese AI labs to speed up chip design
   - [korea] Samsung, SK Hynix record earnings fuel South Korea spending on AI, youth
   - [china] China defends yuan policy as Europe steps up pressure over trade surplus
-  - [korea] Cash Cat: CASHCAT begins KRW spot trading on Bithumb - 08 Oct 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2986 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T03:42:45+00:00",
+      "published_utc": "2026-10-09T03:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

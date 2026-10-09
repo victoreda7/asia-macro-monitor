@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T03:42:44.769586+00:00",
- "collected_at_utc": "2026-10-09T03:42:44.769586+00:00",
+ "generated_at_utc": "2026-10-09T03:52:43.262931+00:00",
+ "collected_at_utc": "2026-10-09T03:52:43.262931+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2986,
+ "count": 2985,
  "by_region": {
   "japan": 1219,
   "china": 791,
-  "taiwan": 281,
+  "taiwan": 280,
   "korea": 695
  },
- "elapsed_s": 31.5,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T12:35:54+09:00"
+   "newest": "2026-10-09T12:49:49+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T12:41:33+09:00"
+   "newest": "2026-10-09T12:49:49+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 25,
+   "count": 23,
    "error": "",
-   "newest": "2026-10-09T02:52:10+00:00"
+   "newest": "2026-10-09T02:48:46+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -344,6 +344,24 @@
  ],
  "items": [
   {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
+   "published_utc": "2026-10-09T03:49:49+00:00",
+   "title_original": "食料品の消費税減税の課題 財源確保や消費者への影響は",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b32a7abd3b9116e5"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Stock prices fall Sell orders on AI/semiconductor related stocks",
@@ -414,8 +432,8 @@
    "id": "4d02197d7f3ae9d2"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de56982",
    "published_utc": "2026-10-09T03:23:12+00:00",
@@ -430,7 +448,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6bb48dec7fba6945"
+   "id": "9c4b802748aa2eee"
   },
   {
    "source_id": "tradingview_live",
@@ -4071,8 +4089,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -4086,7 +4104,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -51669,41 +51687,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6c31493701641d78"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "INTC Stock Slips Overnight: AMD Reaffirms TSMC Ties Amid Intel Foundry Buzz — But Keeps Supplier Options Open",
-   "url": "https://www.tradingview.com/news/stocktwits:c71068bc2094b:0-intc-stock-slips-overnight-amd-reaffirms-tsmc-ties-amid-intel-foundry-buzz-but-keeps-supplier-options-open/",
-   "published_utc": "2026-09-09T03:45:07+00:00",
-   "title_original": "INTC Stock Slips Overnight: AMD Reaffirms TSMC Ties Amid Intel Foundry Buzz — But Keeps Supplier Options Open",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9cc3314c72e929ac"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan shorter-end yields fall as stronger yen dims rate hike bets",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45107T:0-japan-shorter-end-yields-fall-as-stronger-yen-dims-rate-hike-bets/",
-   "published_utc": "2026-09-09T03:44:16+00:00",
-   "title_original": "Japan shorter-end yields fall as stronger yen dims rate hike bets",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4f6bc2e7a09bc9bc"
   },
   {
    "source_id": "manual_ia",
