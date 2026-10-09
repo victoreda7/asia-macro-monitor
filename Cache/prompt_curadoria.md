@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T20:32:43.530005+00:00
-Total: 2992 manchetes
+Última coleta: 2026-10-09T20:42:44.461867+00:00
+Total: 2993 manchetes
 
   🇯🇵 Japão          1209
-  🇨🇳 China          815
+  🇨🇳 China          816
   🇹🇼 Taiwan         279
   🇰🇷 Coreia do Sul  689
 
 ## O que já está no feed (não repita)
 
+  - [china] China and EU discuss trade conflict EU "to curb exports from China"
   - [japan] Japan machine tool order backlog hits all-time high on AI demand
   - [korea] BOK Financial Price Target Cut to $146.00/Share From $149.00 by RBC Capital
   - [china] China, EU strike deal to halve Chinese hybrid exports
@@ -56,7 +57,6 @@ Total: 2992 manchetes
   - [china] Dex-Lab, Subsidiary Of Novamsc, Secures 16 Million RGT Order In China
   - [japan] Starhill Global Real Estate Investment Trust Divests Ebisu Fort For Jpy 6.20 Billion
   - [china] China steps up fiscal stimulus to meet growth targets (Reuters)
-  - [china] Sales of Chinese-made Tesla electric vehicles accelerate in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2992 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T20:32:43+00:00",
+      "published_utc": "2026-10-09T20:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
