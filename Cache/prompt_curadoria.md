@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T16:02:44.717509+00:00
-Total: 2986 manchetes
+Última coleta: 2026-10-09T16:12:42.147741+00:00
+Total: 2988 manchetes
 
-  🇯🇵 Japão          1210
-  🇨🇳 China          812
-  🇹🇼 Taiwan         277
+  🇯🇵 Japão          1209
+  🇨🇳 China          814
+  🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  687
 
 ## O que já está no feed (não repita)
 
+  - [china] Tariffs targeting China's Temu, Shein shrink US small parcel deliveries
   - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
+  - [china] EU-China understanding could halve Chinese hybrid car exports
   - [japan] Japan's DOGE to 'step up' spending review, eyeing EV subsidies, health checks
   - [china] China-EU trade talks yield prospect of Chinese hybrid exports halving
   - [china] Mercedes welcomes EU-China import deal for offering more predictability
@@ -55,8 +57,6 @@ Total: 2986 manchetes
   - [china] China's third batch of 2026 fuel export quotas down from year ago, sources say
   - [china] China's central bank buys net 100 billion yuan of sovereign bonds in September
   - [china] EU and China face crunch time in effort to avoid trade war
-  - [china] China ramps up fiscal push to meet growth target
-  - [china] The central bank invested a net 100 billion yuan in open market government bond sales in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2986 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T16:02:44+00:00",
+      "published_utc": "2026-10-09T16:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
