@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T06:22:44.133027+00:00
-Total: 2964 manchetes
+Última coleta: 2026-10-09T06:32:48.180817+00:00
+Total: 2965 manchetes
 
-  🇯🇵 Japão          1206
+  🇯🇵 Japão          1207
   🇨🇳 China          787
   🇹🇼 Taiwan         281
   🇰🇷 Coreia do Sul  690
 
 ## O que já está no feed (não repita)
 
+  - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
+  - [japan] Citi sees limited upside for EUR/JPY amid intervention expectations
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
+  - [japan] Japan Machine Tool Orders Notch Fresh High
   - [china] Broker Sucden Financial wants to clear LME metals trades in offshore yuan
   - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
   - [japan] Is Kyushu experiencing a “warm and rainy winter”? Concerns about rising prices due to crop failures and poor c
   - [korea] South Korean Won Eases
-  - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] China's blue-chip stocks hit over one-year low on AI-linked supply chain selloff
   - [china] China to resume fuel exports in Oct after holiday pause, Reuters reports
   - [japan] Issues with food consumption tax reduction: securing financial resources and impact on consumers
@@ -55,8 +57,6 @@ Total: 2964 manchetes
   - [japan] JAPAN AUG HOUSEHOLD SPENDING Y/Y FALL LED BY LOWER PRIVATE UNIVERSITY TUITION, DOMESTIC PACKAGE TOUR COST, SUB
   - [japan] JAPAN AUG REAL CORE HOUSEHOLD SPENDING (EX-HOUSING, VEHICLES, GIFT MONEY) -4.2% Y/Y VS. -1.4% IN JULY WHEN OVE
   - [japan] IMF invites BOJ chief Ueda to speak on November 6
-  - [korea] Two memory slots for distinguishing conditional functions Read description
-  - [japan] Japan's EV subsidies benefit Tesla more than Honda, Nissan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2964 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T06:22:44+00:00",
+      "published_utc": "2026-10-09T06:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

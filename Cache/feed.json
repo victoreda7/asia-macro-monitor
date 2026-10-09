@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T06:22:44.133027+00:00",
- "collected_at_utc": "2026-10-09T06:22:44.133027+00:00",
+ "generated_at_utc": "2026-10-09T06:32:48.180817+00:00",
+ "collected_at_utc": "2026-10-09T06:32:48.180817+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2964,
+ "count": 2965,
  "by_region": {
-  "japan": 1206,
+  "japan": 1207,
   "china": 787,
   "taiwan": 281,
   "korea": 690
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 35.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T05:37:00+00:00"
+   "newest": "2026-10-09T06:31:20+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T06:05:04+00:00"
+   "newest": "2026-10-09T06:25:47+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T06:00:42+00:00"
+   "newest": "2026-10-09T06:24:54+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T03:44:49+00:00"
+   "newest": "2026-10-09T06:20:38+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T15:16:40+09:00"
+   "newest": "2026-10-09T15:29:10+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T06:21:52+00:00"
+   "newest": "2026-10-09T06:32:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,45 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T16:27:36+00:00"
+   "newest": "2026-10-08T22:47:48+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXZ6M05YN0JBUFl0WWtLN2V3Q2NIOWhpM3JCeHhld2JTdE5uQUc5SzQwd2VSOThsNmNaZ2RpRXltVEJCckpGT2xWdGhrQUtHekFmZk8zRGEzallKbHl5bDB5UmxrWEZPRy1wZWVrUm5LYXp6NnhyUHg0S2s3cXhwZm11eGVHWmJfR0dGdC1GV2VuREkza0hHRzdjd1VWWFc1dnZJTXBETC1CS3U2N0ZRYnh3cW52OGM?oc=5",
+   "published_utc": "2026-10-09T06:31:20+00:00",
+   "title_original": "How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0a587661a2419676"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Citi sees limited upside for EUR/JPY amid intervention expectations",
+   "url": "https://www.investing.com/news/forex-news/citi-sees-limited-upside-for-eurjpy-amid-intervention-expectations-93CH-4940266",
+   "published_utc": "2026-10-09T06:20:38+00:00",
+   "title_original": "Citi sees limited upside for EUR/JPY amid intervention expectations",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "50b43b363191e8cc"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -360,6 +395,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2af39685882503d3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Japan Machine Tool Orders Notch Fresh High",
+   "url": "https://www.tradingview.com/news/te_news:590723:0-japan-machine-tool-orders-notch-fresh-high/",
+   "published_utc": "2026-10-09T06:13:47+00:00",
+   "title_original": "Japan Machine Tool Orders Notch Fresh High",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c26255cfcb6af738"
   },
   {
    "source_id": "tradingview_live",
@@ -432,24 +484,6 @@
    "id": "695847fb57ad605f"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXZ6M05YN0JBUFl0WWtLN2V3Q2NIOWhpM3JCeHhld2JTdE5uQUc5SzQwd2VSOThsNmNaZ2RpRXltVEJCckpGT2xWdGhrQUtHekFmZk8zRGEzallKbHl5bDB5UmxrWEZPRy1wZWVrUm5LYXp6NnhyUHg0S2s3cXhwZm11eGVHWmJfR0dGdC1GV2VuREkza0hHRzdjd1VWWFc1dnZJTXBETC1CS3U2N0ZRYnh3cW52OGM?oc=5",
-   "published_utc": "2026-10-09T05:01:20+00:00",
-   "title_original": "How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0a587661a2419676"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China's blue-chip stocks hit over one-year low on AI-linked supply chain selloff",
@@ -485,8 +519,8 @@
    "id": "e0f7981770d44941"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -500,7 +534,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "tradingview_live",
@@ -555,8 +589,8 @@
    "id": "4d02197d7f3ae9d2"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de56982",
    "published_utc": "2026-10-09T03:23:12+00:00",
@@ -571,7 +605,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6bb48dec7fba6945"
+   "id": "9c4b802748aa2eee"
   },
   {
    "source_id": "tradingview_live",
@@ -2674,24 +2708,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank launched a 606 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Y2lPa01jZVp0UDRYYjFHQXRnZUc3WWQxUzUtR05PZXk0Rm16TmdHaUVGWFB0dUVwdXRucTUzdWpFNTVKR3B6Q2dRUXRtRWlza0dIQ3JwVk91Q0htSzNNbg?oc=5",
-   "published_utc": "2026-10-08T01:25:42+00:00",
-   "title_original": "央行今日开展6060亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6bd83aa523635038"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "手机新浪网",
    "title_en": "The central bank's reverse repurchase is net withdrawn today..._7x24 News_Sina Finance",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQOWF0X2hodWFVdkdtTlpWOEdFQnB5WEc4dFUxd21ocE9UUGI3YldhU2dTNk1IQTcweHhlSV94Q1ZpYzVTZ2oxeEQzaG1Db0U?oc=5",
@@ -2763,7 +2779,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "에너지경제신문",
    "title_en": "‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level from 2022",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MzlGNzQzeHpCYkY4a3NJQXFzOVpITFNZekhOb3oyTU55Yjh3TDhWSjRBNGVsd2cwX0JBMWRER0VxUGNDYW05TzhuR0RtdmFJemtDMi16MWR5ak0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CWkNRbkhPN2JGNVc0UlhBY1NjSGNNOEZaUUVrcmJleFBZWDIwZGdVSGE4cnpzTTk4c0V0MV9tZnhOYTNSa1JYQzlMSkJReHdJaVNacEZtMHp0ZG1QN2JVX0tDRQ?oc=5",
    "published_utc": "2026-10-08T01:14:13+00:00",
    "title_original": "‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM",
    "region": "korea",
@@ -2774,7 +2790,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f20de907c2a7b4c4"
+   "id": "99c612b549c007d3"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4157,6 +4173,24 @@
    "id": "2153169fb6da80d8"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 606 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvYjNlWjRPbThKSVUxaDBBVzYzamtyMFBZWXVIYWJsWFZtVWdnaXdZeXpSWWFRdDd6UWNybTRNODRVLXp2TldRTjVFZUxjZ2FveGdMMUZ5TUxTQk0?oc=5",
+   "published_utc": "2026-10-07T10:28:00+00:00",
+   "title_original": "央行今日开展6060亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0a92136c5038abfb"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Intel Stock Rebounds as Musk Explains Terafab AI Chip Project and TSMC's Role — Barrons.com",
@@ -4191,8 +4225,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -4206,7 +4240,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -14100,24 +14134,6 @@
    "id": "55b75f5c1649ad32"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South Korea's monthly exports top $120 billion for the first time on record chip sales",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnJyM2ZNTm1lLU0yWWdRY3VFSDFYdEZHV29NSzR4LVl3RUhpLXk2b0UtVExfM0VUYlBKbGVKWF80NVpONGdrcTNySU5IZDEwMjdHWWtkNUR6ZnRoMlNqWVFNRXM2RUtZZTRaTFQwVVVLMm9oWUpTcEd5YW4tUUFNMGpucVpnUU1oY29Lak9oMnBrSHp5V1REQ1F4OWpUaTdfNGRsb1AtUTNDZUo5cHNOMg?oc=5",
-   "published_utc": "2026-10-01T00:23:00+00:00",
-   "title_original": "South Korea's monthly exports top $120 billion for the first time on record chip sales",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "70411000e629aa83"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ debated need for more rate hikes at September meeting, summary shows",
@@ -16223,6 +16239,24 @@
    "id": "c6cb0b13831ce3d7"
   },
   {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "South Korea's monthly exports top $120 billion for the first time on record chip sales",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnJyM2ZNTm1lLU0yWWdRY3VFSDFYdEZHV29NSzR4LVl3RUhpLXk2b0UtVExfM0VUYlBKbGVKWF80NVpONGdrcTNySU5IZDEwMjdHWWtkNUR6ZnRoMlNqWVFNRXM2RUtZZTRaTFQwVVVLMm9oWUpTcEd5YW4tUUFNMGpucVpnUU1oY29Lak9oMnBrSHp5V1REQ1F4OWpUaTdfNGRsb1AtUTNDZUo5cHNOMg?oc=5",
+   "published_utc": "2026-09-30T07:00:00+00:00",
+   "title_original": "South Korea's monthly exports top $120 billion for the first time on record chip sales",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "70411000e629aa83"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Manufacturing Activity Returns to Expansion",
@@ -17985,7 +18019,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHUnRnQTVQZkREcjlKY3VoWWJhaUxUb29pVnFXaGYxX1U5N3dSSTBILVVWdHNQbHY5Z1FTSjYwckc4WnhhdHNNWHJ4ZmFJN2JiLVpubUgwb21BTlNBWUlrb0htTElxX25TQi1vaENGTVBMVmJobk9pLXZfRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmpwQVpRZG8yTVdkRXlTcW5xS3ZZb3EtSjVPN2dPc1g3YXFTZ09vUlVNR3k5eEVBQk9mZWZhUzlXdE1GSWFOS1c3bWJPSGpubDU3bEJULTFvU05PcGpkMjVENVpsQlk0cjNPZGxob1RpVWotb3gwa091ZURrWTJqVkVvbG5JZw?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
    "title_original": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
    "region": "china",
@@ -17996,7 +18030,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "32aeac54145f756e"
+   "id": "9725d40adaeb9145"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -33542,6 +33576,23 @@
    "id": "008434ebc302f747"
   },
   {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
+   "published_utc": "2026-09-18T15:23:15+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9e62f309accc3d17"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Yuan Surges Past 6.7 per Dollar to Three-Year High",
@@ -46627,23 +46678,6 @@
    "id": "414e908396fee4ec"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EVUg2dmdoYllHTTl1b3A5LUpUS3d5dXZNVkJYNlcxOVlOWlhwZkJWaTdNRWNJWWU0SUNyLVFBUG1Mbll4U3VtcGd4eHlNd1pnTkF0MkdkVVpMaDRaWm1sVS1HYUtqQVBHWWNUQkhKTm11eHVGWVYxeENaNC0?oc=5",
-   "published_utc": "2026-09-11T07:00:00+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "00e0d68ad177fe2d"
-  },
-  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "Rate outlook: BOJ, Fed poised to hike",
@@ -51308,24 +51342,6 @@
    "live_wire": false,
    "manual": false,
    "id": "aeadd8bab0bd734f"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Tokyo Foreign Exchange] Dollar, low 153 yen level = weak as Bank of Japan is expected to accelerate interest rate hikes (3:00 p.m. on the 9th) (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTEI4aFpFa29oODFBc2xTSFdGX1ZxdzJOdDFOVUgtSmFxSWM4bDBiZ1VXb19pRXFVdnJaVThYN2FxdndIOUpWVjNDWmJJRm5HRUFnLUhJNTJHRTFxRmQxTVNkNGhnUXFONnJUNUYwVjFBeE04Tm5KOXh3NDllcjA?oc=5",
-   "published_utc": "2026-09-09T06:30:25+00:00",
-   "title_original": "〔東京外為〕ドル、153円台前半＝日銀の利上げ加速観測で軟調（9日午後3時）（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ac227e85f787fdca"
   },
   {
    "source_id": "manual_ia",
