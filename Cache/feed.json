@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T17:42:42.332282+00:00",
- "collected_at_utc": "2026-10-09T17:42:42.332282+00:00",
+ "generated_at_utc": "2026-10-09T17:52:44.645997+00:00",
+ "collected_at_utc": "2026-10-09T17:52:44.645997+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2990,
+ "count": 2991,
  "by_region": {
-  "japan": 1209,
-  "china": 817,
+  "japan": 1210,
+  "china": 816,
   "taiwan": 277,
-  "korea": 687
+  "korea": 688
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T17:31:40+00:00"
+   "newest": "2026-10-09T17:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T14:02:19+00:00"
+   "newest": "2026-10-09T11:02:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Japan machine tool order backlog hits all-time high on AI demand",
+   "url": "https://asia.nikkei.com/business/business-trends/japan-machine-tool-order-backlog-hits-all-time-high-on-ai-demand",
+   "published_utc": "2026-10-09T17:52:44.078333+00:00",
+   "title_original": "Japan machine tool order backlog hits all-time high on AI demand",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "63cb24c94c0330e6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOK Financial Price Target Cut to $146.00/Share From $149.00 by RBC Capital",
+   "url": "https://www.tradingview.com/news/DJN_DN20261009005587:0-bok-financial-price-target-cut-to-146-00-share-from-149-00-by-rbc-capital/",
+   "published_utc": "2026-10-09T17:49:00+00:00",
+   "title_original": "BOK Financial Price Target Cut to $146.00/Share From $149.00 by RBC Capital",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b48e9cd9157b3996"
+  },
   {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
@@ -616,8 +650,8 @@
    "id": "bb722953481737a0"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -631,7 +665,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -806,8 +840,8 @@
    "id": "cfe3e7802dc62476"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -821,7 +855,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -1678,8 +1712,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -1693,7 +1727,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1711,23 +1745,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de7298f8b947b602"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China to resume October fuel exports after a brief halt, four trade sources say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45V02I:0-china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/",
-   "published_utc": "2026-10-09T03:44:05+00:00",
-   "title_original": "China to resume October fuel exports after a brief halt, four trade sources say",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e442507918b11c7e"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -5350,8 +5367,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -5365,7 +5382,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",

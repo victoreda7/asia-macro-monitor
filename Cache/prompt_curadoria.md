@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T17:42:42.332282+00:00
-Total: 2990 manchetes
+Última coleta: 2026-10-09T17:52:44.645997+00:00
+Total: 2991 manchetes
 
-  🇯🇵 Japão          1209
-  🇨🇳 China          817
+  🇯🇵 Japão          1210
+  🇨🇳 China          816
   🇹🇼 Taiwan         277
-  🇰🇷 Coreia do Sul  687
+  🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan machine tool order backlog hits all-time high on AI demand
+  - [korea] BOK Financial Price Target Cut to $146.00/Share From $149.00 by RBC Capital
   - [china] China, EU strike deal to halve Chinese hybrid exports
   - [china] EU Says it Reached Understanding with China to Cut Back Hybrid Vehicle Exports — Update
   - [china] Tariffs targeting China's Temu, Shein shrink US small parcel deliveries
@@ -55,8 +57,6 @@ Total: 2990 manchetes
   - [japan] Starhill Global Real Estate Investment Trust Divests Ebisu Fort For Jpy 6.20 Billion
   - [china] China steps up fiscal stimulus to meet growth targets (Reuters)
   - [china] Sales of Chinese-made Tesla electric vehicles accelerate in September
-  - [japan] Government Cabinet approves bill related to food consumption tax reduction
-  - [japan] Japan Machine Tool Orders Surge 60.4% In September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2990 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T17:42:42+00:00",
+      "published_utc": "2026-10-09T17:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
