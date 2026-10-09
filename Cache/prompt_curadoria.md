@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T10:02:42.813477+00:00
+Última coleta: 2026-10-09T10:12:44.680370+00:00
 Total: 2968 manchetes
 
-  🇯🇵 Japão          1204
+  🇯🇵 Japão          1205
   🇨🇳 China          796
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  690
+  🇰🇷 Coreia do Sul  689
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Machine Tool Orders Surge 60.4% In September
   - [china] Sales of Chinese-made Tesla electric vehicles accelerate in September
   - [china] China's third batch of 2026 fuel export quotas down from year ago, sources say
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
@@ -56,7 +57,6 @@ Total: 2968 manchetes
   - [china] China to resume October fuel exports after holiday pause, sources say
   - [japan] Japan PM vows to keep watching yen, inflation moves carefully
   - [taiwan] TSMC Revenue Likely to Be Driven by Continued Growth in AI Demand — Market Talk
-  - [japan] Yen Set for Fourth Consecutive Weekly Decline
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2968 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T10:02:43+00:00",
+      "published_utc": "2026-10-09T10:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
