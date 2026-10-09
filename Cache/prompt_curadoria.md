@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T22:42:43.549031+00:00
+Última coleta: 2026-10-09T22:52:42.551943+00:00
 Total: 2991 manchetes
 
   🇯🇵 Japão          1205
@@ -30,7 +30,6 @@ Total: 2991 manchetes
   - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
   - [china] EU-China understanding could halve Chinese hybrid car exports
   - [china] China’s Oil Imports Look Set to Rise as Supertanker Fleet Swells
-  - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [japan] Japan's DOGE to 'step up' spending review, eyeing EV subsidies, health checks
   - [china] China-EU trade talks yield prospect of Chinese hybrid exports halving
   - [china] Mercedes welcomes EU-China import deal for offering more predictability
@@ -41,6 +40,7 @@ Total: 2991 manchetes
   - [china] EU says it agrees with China to halve hybrid vehicle exports to EU
   - [china] Developer of One Stanley pledges 6-year warranty and checks amid steel bar probe
   - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
+  - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [japan] Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation contin
   - [taiwan] Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says
   - [japan] Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk
@@ -116,7 +116,7 @@ Total: 2991 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T22:42:43+00:00",
+      "published_utc": "2026-10-09T22:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
