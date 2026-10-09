@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T10:52:42.866504+00:00
+Última coleta: 2026-10-09T11:02:42.889746+00:00
 Total: 2970 manchetes
 
   🇯🇵 Japão          1205
@@ -17,6 +17,7 @@ Total: 2970 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan’s Global Role Is Expanding Beyond Trade,Execs Say
   - [china] Gasoline margin down 9% on hopes of China export resumption
   - [china] Timespreads crunch as markets eye China exports resumption
   - [china] Dex-Lab, Subsidiary Of Novamsc, Secures 16 Million RGT Order In China
@@ -25,7 +26,6 @@ Total: 2970 manchetes
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [japan] Japan Machine Tool Orders Surge 60.4% In September
   - [china] China's third batch of 2026 fuel export quotas down from year ago, sources say
-  - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] China's central bank buys net 100 billion yuan of sovereign bonds in September
   - [china] EU and China face crunch time in effort to avoid trade war
   - [china] China ramps up fiscal push to meet growth target
@@ -116,7 +116,7 @@ Total: 2970 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T10:52:43+00:00",
+      "published_utc": "2026-10-09T11:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
