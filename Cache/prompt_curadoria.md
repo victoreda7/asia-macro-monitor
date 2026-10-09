@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T05:32:43.361685+00:00
-Total: 2967 manchetes
+Última coleta: 2026-10-09T05:42:42.152031+00:00
+Total: 2968 manchetes
 
   🇯🇵 Japão          1208
-  🇨🇳 China          785
+  🇨🇳 China          786
   🇹🇼 Taiwan         281
   🇰🇷 Coreia do Sul  693
 
 ## O que já está no feed (não repita)
 
+  - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
+  - [japan] Is Kyushu experiencing a “warm and rainy winter”? Concerns about rising prices due to crop failures and poor c
   - [korea] South Korean Won Eases
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] China's blue-chip stocks hit over one-year low on AI-linked supply chain selloff
@@ -28,6 +30,7 @@ Total: 2967 manchetes
   - [japan] Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”
   - [taiwan] TSMC Revenue Likely to Be Driven by Continued Growth in AI Demand — Market Talk
   - [japan] Yen Set for Fourth Consecutive Weekly Decline
+  - [china] Can China use a widening US yield gap to build on the yuan’s global role?
   - [china] Yuan firms as dollar slips, PBOC rejects undervaluation claims amid EU talks
   - [korea] SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12
   - [china] The central bank launches 2 billion yuan 7-day reverse repurchase operation
@@ -54,9 +57,6 @@ Total: 2967 manchetes
   - [korea] Two memory slots for distinguishing conditional functions Read description
   - [japan] Japan's EV subsidies benefit Tesla more than Honda, Nissan
   - [china] Synopsys Looks To Work With Chinese AI Labs To Speed Up Chip Design, Nikkei Says
-  - [china] CXMT, the semiconductor giant with the top Chinese market capitalization, begins mass production of next-gener
-  - [taiwan] TSMC's AI Boom Just Got Bigger
-  - [china] Sumitomo Bakelite to boost chip encapsulant output in China, Singapore
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2967 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T05:32:43+00:00",
+      "published_utc": "2026-10-09T05:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
