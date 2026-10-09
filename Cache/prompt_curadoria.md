@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T11:22:42.049959+00:00
+Última coleta: 2026-10-09T11:32:45.201512+00:00
 Total: 2970 manchetes
 
   🇯🇵 Japão          1205
@@ -17,6 +17,7 @@ Total: 2970 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Falls Against Majors
   - [china] China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan
   - [china] Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say
   - [china] Yuan’s Global Role Is Expanding Beyond Trade,Execs Say
@@ -24,6 +25,7 @@ Total: 2970 manchetes
   - [china] Timespreads crunch as markets eye China exports resumption
   - [china] Dex-Lab, Subsidiary Of Novamsc, Secures 16 Million RGT Order In China
   - [japan] Starhill Global Real Estate Investment Trust Divests Ebisu Fort For Jpy 6.20 Billion
+  - [china] 中国、成長目標達成に向け財政刺激策を強化（ロイター）
   - [china] Sales of Chinese-made Tesla electric vehicles accelerate in September
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [japan] Japan Machine Tool Orders Surge 60.4% In September
@@ -55,8 +57,6 @@ Total: 2970 manchetes
   - [korea] South Korean Won Eases
   - [china] Ecobank Taps Yuan Payments, Eyes Africa’s Trade With China
   - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to remain stable in October
-  - [china] China's blue-chip stocks hit over one-year low on AI-linked supply chain selloff
-  - [china] China to resume fuel exports in Oct after holiday pause, Reuters reports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2970 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T11:22:42+00:00",
+      "published_utc": "2026-10-09T11:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
