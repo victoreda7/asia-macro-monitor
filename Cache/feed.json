@@ -1,21 +1,21 @@
 {
- "generated_at_utc": "2026-10-09T17:12:42.533555+00:00",
- "collected_at_utc": "2026-10-09T17:12:42.533555+00:00",
+ "generated_at_utc": "2026-10-09T17:22:42.681232+00:00",
+ "collected_at_utc": "2026-10-09T17:22:42.681232+00:00",
  "degraded": false,
  "sources_ok": 40,
  "sources_total": 41,
- "count": 2990,
+ "count": 2989,
  "by_region": {
-  "japan": 1210,
+  "japan": 1209,
   "china": 816,
   "taiwan": 277,
   "korea": 687
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.3,
  "sources": [
   {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
+   "source_id": "gn_jp_investing",
+   "name": "Investing Japan",
    "ok": false,
    "count": 0,
    "error": "sem resultados",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T13:35:01+00:00"
+   "newest": "2026-10-09T15:55:36+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T05:45:34+00:00"
+   "newest": "2026-10-08T03:59:06+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T16:56:35+00:00"
+   "newest": "2026-10-09T17:11:14+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T16:55:11+00:00"
+   "newest": "2026-10-09T17:03:00+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -100,14 +100,6 @@
    "count": 10,
    "error": "",
    "newest": "2026-10-09T14:00:47+00:00"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "name": "Investing Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-09T12:06:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -219,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T16:05:52+00:00"
+   "newest": "2026-10-09T16:58:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T17:01:25+00:00"
+   "newest": "2026-10-09T17:22:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -284,6 +276,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-09T11:02:21+00:00"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-09-29T13:14:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China, EU strike deal to halve Chinese hybrid exports",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHg5eDd4SHlldjU0OVlpTEVOaHB0QVpIOGhaTm9CSVN2WmE2RUtobThWUkpGM1NrMFVxeVFKMnctbEF4aV9JQnZIT0RjaXlWVHBhb3Noam5HemZnd0ZRTy1TSEJjUFljMl9md29ESGFUeVFha29xaWd0a050VjVjV2pFRS1qUWVJVm04SDJJUjRGcXBQUzE3TzhDaV9SWHR6TndZaGhMRUlib0NSekZFenBpUUtuTnZZSy1JekRHaDZoLTA?oc=5",
+   "published_utc": "2026-10-09T16:58:00+00:00",
+   "title_original": "China, EU strike deal to halve Chinese hybrid exports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "42b01a82a8b938b3"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "EU Says it Reached Understanding with China to Cut Back Hybrid Vehicle Exports — Update",
@@ -378,23 +395,6 @@
    "id": "1220b8a69be60648"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China, EU strike deal to halve Chinese hybrid exports",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHg5eDd4SHlldjU0OVlpTEVOaHB0QVpIOGhaTm9CSVN2WmE2RUtobThWUkpGM1NrMFVxeVFKMnctbEF4aV9JQnZIT0RjaXlWVHBhb3Noam5HemZnd0ZRTy1TSEJjUFljMl9md29ESGFUeVFha29xaWd0a050VjVjV2pFRS1qUWVJVm04SDJJUjRGcXBQUzE3TzhDaV9SWHR6TndZaGhMRUlib0NSekZFenBpUUtuTnZZSy1JekRHaDZoLTA?oc=5",
-   "published_utc": "2026-10-09T16:05:52+00:00",
-   "title_original": "China, EU strike deal to halve Chinese hybrid exports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "42b01a82a8b938b3"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "SK chief eyes Gwangju chip fabs alongside Yongin cluster",
@@ -427,6 +427,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c9aa1c6cecd79e15"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "EU Says Accord With China Could Cut Hybrid Car Exports by Half",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGliVlhRNmZ2WGZXZXpYWmZUdjRFUXBwRmlqWHBaNzZKYWVGTDI5cDJVS0hwblE1VG5hVmI4T25QRmZJcHYwNlN2UXdXckM5anhQbzQ4TlhzVXV6T2xSaEJwTlhPQTFOZFlBcC0xZGc5enFUTDRpYzBLWjNHSm1GQUtrdEFQWUpRQlhWSlVTU0V2VG1CQXlVQ3YxUEY0UzM4ajd3TUlibzQ2R0ZodmVidUNqRQ?oc=5",
+   "published_utc": "2026-10-09T15:55:36+00:00",
+   "title_original": "EU Says Accord With China Could Cut Hybrid Car Exports by Half",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8c609259b9cb32c1"
   },
   {
    "source_id": "nikkei_asia",
@@ -567,23 +584,6 @@
   {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
-   "title_en": "EU Says Accord With China Could Cut Hybrid Car Exports by Half",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGliVlhRNmZ2WGZXZXpYWmZUdjRFUXBwRmlqWHBaNzZKYWVGTDI5cDJVS0hwblE1VG5hVmI4T25QRmZJcHYwNlN2UXdXckM5anhQbzQ4TlhzVXV6T2xSaEJwTlhPQTFOZFlBcC0xZGc5enFUTDRpYzBLWjNHSm1GQUtrdEFQWUpRQlhWSlVTU0V2VG1CQXlVQ3YxUEY0UzM4ajd3TUlibzQ2R0ZodmVidUNqRQ?oc=5",
-   "published_utc": "2026-10-09T13:35:01+00:00",
-   "title_original": "EU Says Accord With China Could Cut Hybrid Car Exports by Half",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c609259b9cb32c1"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
    "title_en": "EU Says China Accord Could Cut Hybrid Car Exports by Half",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGliVlhRNmZ2WGZXZXpYWmZUdjRFUXBwRmlqWHBaNzZKYWVGTDI5cDJVS0hwblE1VG5hVmI4T25QRmZJcHYwNlN2UXdXckM5anhQbzQ4TlhzVXV6T2xSaEJwTlhPQTFOZFlBcC0xZGc5enFUTDRpYzBLWjNHSm1GQUtrdEFQWUpRQlhWSlVTU0V2VG1CQXlVQ3YxUEY0UzM4ajd3TUlibzQ2R0ZodmVidUNqRQ?oc=5",
    "published_utc": "2026-10-09T13:35:01+00:00",
@@ -599,8 +599,8 @@
    "id": "bb722953481737a0"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -614,7 +614,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -789,8 +789,8 @@
    "id": "cfe3e7802dc62476"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -804,7 +804,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "tradingview_live",
@@ -1661,8 +1661,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -1676,7 +1676,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -5333,8 +5333,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -5348,7 +5348,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -51763,24 +51763,6 @@
    "live_wire": false,
    "manual": false,
    "id": "283040a2c376ebc9"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Mr. Bessent's policy to keep the yen weak puts pressure on the Bank of Japan to raise interest rates - disappointment could cause market turmoil (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxX3RwcXlybk5fQ1BWWlRqc3U3ZlE4NkU2anZObDFEZVNhQ3lzZ01SOXoxUWkteFlwM3ZCVWFzTm9iRFhYVnY3bW1XWC1XYkhBMl82WGtDUG1yMGZ5SjBXWFdjdF8xODlMZ1RvY2ZZSmlOeVhiZmpJMGtjNVJjRVU?oc=5",
-   "published_utc": "2026-09-09T17:16:54+00:00",
-   "title_original": "ベッセント氏の円安けん制、日銀に利上げの重圧－失望招けば市場動揺（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1bcbd0390ac81569"
   },
   {
    "source_id": "manual_ia",
