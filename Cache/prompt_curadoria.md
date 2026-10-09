@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T16:42:44.249380+00:00
-Total: 2989 manchetes
+Última coleta: 2026-10-09T16:52:41.998884+00:00
+Total: 2990 manchetes
 
-  🇯🇵 Japão          1209
+  🇯🇵 Japão          1210
   🇨🇳 China          816
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  687
@@ -22,6 +22,7 @@ Total: 2989 manchetes
   - [china] China, EU strike deal to halve Chinese hybrid exports
   - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
   - [china] EU-China understanding could halve Chinese hybrid car exports
+  - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [japan] Japan's DOGE to 'step up' spending review, eyeing EV subsidies, health checks
   - [china] China-EU trade talks yield prospect of Chinese hybrid exports halving
   - [china] Mercedes welcomes EU-China import deal for offering more predictability
@@ -31,7 +32,6 @@ Total: 2989 manchetes
   - [china] Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas
   - [china] EU says it agrees with China to halve hybrid vehicle exports to EU
   - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
-  - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [japan] Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation contin
   - [taiwan] Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says
   - [japan] Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk
@@ -116,7 +116,7 @@ Total: 2989 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T16:42:44+00:00",
+      "published_utc": "2026-10-09T16:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
