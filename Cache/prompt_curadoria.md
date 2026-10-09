@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T22:12:42.261971+00:00
+Última coleta: 2026-10-09T22:22:42.066763+00:00
 Total: 2992 manchetes
 
   🇯🇵 Japão          1207
@@ -18,6 +18,7 @@ Total: 2992 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] Japan food tax cut gets cabinet approval with key questions unanswered
+  - [china] Super Micro Contractor Pleads Guilty In Scheme To Divert Computer Servers Built With Nvidia AI Chips To China
   - [china] China and EU discuss trade conflict EU "to curb exports from China"
   - [japan] Japan machine tool order backlog hits all-time high on AI demand
   - [korea] BOK Financial Price Target Cut to $146.00/Share From $149.00 by RBC Capital
@@ -56,7 +57,6 @@ Total: 2992 manchetes
   - [china] Yuan’s Global Role Is Expanding Beyond Trade,Execs Say
   - [china] Gasoline margin down 9% on hopes of China export resumption
   - [china] Timespreads crunch as markets eye China exports resumption
-  - [china] Dex-Lab, Subsidiary Of Novamsc, Secures 16 Million RGT Order In China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2992 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T22:12:42+00:00",
+      "published_utc": "2026-10-09T22:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
