@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T00:02:46.586419+00:00
-Total: 2994 manchetes
+Última coleta: 2026-10-09T00:12:44.629811+00:00
+Total: 2995 manchetes
 
   🇯🇵 Japão          1221
   🇨🇳 China          795
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  700
+  🇰🇷 Coreia do Sul  701
 
 ## O que já está no feed (não repita)
 
+  - [korea] Key facts: Samsung Electronics (005930) Q3 Profit Jumps; Q4 Phone Cuts
   - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
   - [japan] JAPAN AUG HOUSEHOLD SPENDING Y/Y FALL LED BY LOWER PRIVATE UNIVERSITY TUITION, DOMESTIC PACKAGE TOUR COST, SUB
   - [japan] JAPAN AUG REAL CORE HOUSEHOLD SPENDING (EX-HOUSING, VEHICLES, GIFT MONEY) -4.2% Y/Y VS. -1.4% IN JULY WHEN OVE
@@ -56,7 +57,6 @@ Total: 2994 manchetes
   - [korea] Samsung, SK hynix face investor test as buybacks wind down
   - [japan] Bank of Japan’s regional economic report “AI-related demand expands and production increases in many regions”
   - [korea] Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue
-  - [japan] PM Takaichi rejects "reflationary" label for her economic policies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2994 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T00:02:46+00:00",
+      "published_utc": "2026-10-09T00:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
