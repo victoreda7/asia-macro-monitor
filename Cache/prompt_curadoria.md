@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T03:02:42.100240+00:00
-Total: 2981 manchetes
+Última coleta: 2026-10-09T03:12:41.786737+00:00
+Total: 2979 manchetes
 
-  🇯🇵 Japão          1215
+  🇯🇵 Japão          1214
   🇨🇳 China          789
   🇹🇼 Taiwan         280
-  🇰🇷 Coreia do Sul  697
+  🇰🇷 Coreia do Sul  696
 
 ## O que já está no feed (não repita)
 
   - [china] Yuan firms as dollar slips, PBOC rejects undervaluation claims amid EU talks
   - [korea] SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12
+  - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase, with a net withdrawal of 604 billion yuan
   - [taiwan] GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
   - [china] Offshore Yuan Rises as PBoC Defends Policy
   - [china] China approves non-state crude oil import quota for 2027 at 257 million tons
@@ -56,7 +57,6 @@ Total: 2981 manchetes
   - [taiwan] TSMC Taps GlobalFoundries In $2B AI Chip Deal, Putting GFS Stock On Track To Hit Over 1-Month High
   - [taiwan] Taiwan Semiconductor’s Sales Surged In September
   - [china] China defende política do iuan enquanto Europa intensifica pressão sobre superávit comercial
-  - [taiwan] TSMC Sales Soar 50%. The Stock Is Falling Anyway
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2981 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T03:02:42+00:00",
+      "published_utc": "2026-10-09T03:12:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
