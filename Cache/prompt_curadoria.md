@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T23:12:42.609644+00:00
+Última coleta: 2026-10-09T23:22:43.013184+00:00
 Total: 2992 manchetes
 
-  🇯🇵 Japão          1205
-  🇨🇳 China          819
+  🇯🇵 Japão          1206
+  🇨🇳 China          818
   🇹🇼 Taiwan         279
   🇰🇷 Coreia do Sul  689
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nakayama Kinni-kun conducts a “real” price survey at an American supermarket.Although he is surprised by the 5
   - [china] Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China
   - [korea] Prices that cannot be determined... Will the Bank of Korea and the US Federal Reserve raise the base interest 
   - [japan] Japan food tax cut gets cabinet approval with key questions unanswered
@@ -30,6 +31,7 @@ Total: 2992 manchetes
   - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
   - [china] EU-China understanding could halve Chinese hybrid car exports
   - [china] China’s Oil Imports Look Set to Rise as Supertanker Fleet Swells
+  - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [japan] Japan's DOGE to 'step up' spending review, eyeing EV subsidies, health checks
   - [china] China-EU trade talks yield prospect of Chinese hybrid exports halving
   - [china] Mercedes welcomes EU-China import deal for offering more predictability
@@ -40,7 +42,6 @@ Total: 2992 manchetes
   - [china] EU says it agrees with China to halve hybrid vehicle exports to EU
   - [china] Developer of One Stanley pledges 6-year warranty and checks amid steel bar probe
   - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
-  - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [japan] Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation contin
   - [taiwan] Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says
   - [japan] Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk
@@ -56,7 +57,6 @@ Total: 2992 manchetes
   - [japan] Yen Falls Against Majors
   - [china] China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan
   - [china] Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say
-  - [china] Yuan’s Global Role Is Expanding Beyond Trade,Execs Say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2992 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T23:12:42+00:00",
+      "published_utc": "2026-10-09T23:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

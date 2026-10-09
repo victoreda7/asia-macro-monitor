@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T23:12:42.609644+00:00",
- "collected_at_utc": "2026-10-09T23:12:42.609644+00:00",
+ "generated_at_utc": "2026-10-09T23:22:43.013184+00:00",
+ "collected_at_utc": "2026-10-09T23:22:43.013184+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 2992,
  "by_region": {
-  "japan": 1205,
-  "china": 819,
+  "japan": 1206,
+  "china": 818,
   "taiwan": 279,
   "korea": 689
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T22:48:26+00:00"
+   "newest": "2026-10-09T23:06:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-24T07:00:00+00:00"
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T16:51:42+00:00"
+   "newest": "2026-10-09T17:47:43+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T23:00:00+00:00"
+   "newest": "2026-10-09T23:21:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T17:04:43+00:00"
+   "newest": "2026-10-09T20:03:33+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T22:20:08+00:00"
+   "newest": "2026-10-09T23:18:08+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,11 +344,29 @@
  ],
  "items": [
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Nakayama Kinni-kun conducts a “real” price survey at an American supermarket.Although he is surprised by the 500 yen cost for a coke, his personal opinion is that, considering his income situation, ``I think it's tougher in Japan.'' (Oricon)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CUmpQRmhJUzRjYmV5WmN1enRRenhKZ1hHZUNxMVQ1b0RoVnVncmRqWnNuMXl6NC02MDZjcGJJQUtGcmI3OFEwanBwczVRVnNBdF9PSkpsMVh4OEs4RHZxeGo1R05wMTVaalgxNmhnQzVicFZBV0N0V0lWYzBlaVU?oc=5",
+   "published_utc": "2026-10-09T23:18:08+00:00",
+   "title_original": "なかやまきんに君、アメリカのスーパーで“リアル”物価調査 コーラ1本500円には驚がくも、収入事情など踏まえ私見「日本のほうが厳しいという考えもあります」（オリコン）",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "30f86b7d1cbcdb35"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
    "title_en": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
-   "url": "https://www.investing.com/news/stock-market-news/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china-4941793",
-   "published_utc": "2026-10-09T22:30:25+00:00",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45V1GB:0-super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china/",
+   "published_utc": "2026-10-09T22:43:16+00:00",
    "title_original": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
    "region": "china",
    "topics": [
@@ -358,7 +376,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "d30b9c206f42aa4e"
+   "id": "14fdb8df4aa9c8ea"
   },
   {
    "source_id": "gn_kr_bok",
@@ -566,6 +584,23 @@
    "id": "c871d45afc6ad9c4"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "EU Says China Accord Could Cut Hybrid Car Exports by Half",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGliVlhRNmZ2WGZXZXpYWmZUdjRFUXBwRmlqWHBaNzZKYWVGTDI5cDJVS0hwblE1VG5hVmI4T25QRmZJcHYwNlN2UXdXckM5anhQbzQ4TlhzVXV6T2xSaEJwTlhPQTFOZFlBcC0xZGc5enFUTDRpYzBLWjNHSm1GQUtrdEFQWUpRQlhWSlVTU0V2VG1CQXlVQ3YxUEY0UzM4ajd3TUlibzQ2R0ZodmVidUNqRQ?oc=5",
+   "published_utc": "2026-10-09T15:55:36+00:00",
+   "title_original": "EU Says China Accord Could Cut Hybrid Car Exports by Half",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bb722953481737a0"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Japan's DOGE to 'step up' spending review, eyeing EV subsidies, health checks",
@@ -736,25 +771,8 @@
    "id": "8c609259b9cb32c1"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "EU Says China Accord Could Cut Hybrid Car Exports by Half",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGliVlhRNmZ2WGZXZXpYWmZUdjRFUXBwRmlqWHBaNzZKYWVGTDI5cDJVS0hwblE1VG5hVmI4T25QRmZJcHYwNlN2UXdXckM5anhQbzQ4TlhzVXV6T2xSaEJwTlhPQTFOZFlBcC0xZGc5enFUTDRpYzBLWjNHSm1GQUtrdEFQWUpRQlhWSlVTU0V2VG1CQXlVQ3YxUEY0UzM4ajd3TUlibzQ2R0ZodmVidUNqRQ?oc=5",
-   "published_utc": "2026-10-09T13:35:01+00:00",
-   "title_original": "EU Says China Accord Could Cut Hybrid Car Exports by Half",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bb722953481737a0"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -768,7 +786,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -943,8 +961,8 @@
    "id": "0b47d3b41ca0bbf3"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -958,7 +976,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -1761,8 +1779,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -1776,7 +1794,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2161,6 +2179,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c02c446d99dbad42"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "The Bank of Korea turns hawkish... Will interest rates be raised in succession in July and August?",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11a3FYcGxCTXR1Nm96ektRMXoxZW01SWRZZ1BEem1GZGhTeEVIVzVtSmd2bkh3b3AwNnNITE9FQk81NkdlQTBxYk5TMHFlQkN5Wm1MM1NWby0tOHpKQkpTRWpISQ?oc=5",
+   "published_utc": "2026-10-08T21:50:29+00:00",
+   "title_original": "매파로 돌변한 한은…7월·8월 연속 금리 인상 나설까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff714d91aaa548c2"
   },
   {
    "source_id": "tradingview_live",
@@ -5487,8 +5522,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -5502,7 +5537,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -6777,23 +6812,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b611b75b66e08775"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "The Bank of Korea turns hawkish... Will interest rates be raised in succession in July and August?",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11a3FYcGxCTXR1Nm96ektRMXoxZW01SWRZZ1BEem1GZGhTeEVIVzVtSmd2bkh3b3AwNnNITE9FQk81NkdlQTBxYk5TMHFlQkN5Wm1MM1NWby0tOHpKQkpTRWpISQ?oc=5",
-   "published_utc": "2026-10-06T17:25:41+00:00",
-   "title_original": "매파로 돌변한 한은…7월·8월 연속 금리 인상 나설까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff714d91aaa548c2"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -25251,23 +25269,6 @@
    "id": "1594d8368ccaad01"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Citi sees yen strengthening on reduced foreign investment By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDZSQ0pPd1I2WWdQai1wQjhRTjNfUURmcVFZUzdWOUUxa0tVc2xhQndrbGtBaVh1b1V3ZkYySl80TlFQMVZ2T3F3dncwTDZTUGVPM2NaOWI3WUdKYjV2cnU1Y21SR2d1YWJNOFZZS3ZkbV9QNjZXN0xDRC00Z3o0T2dIUVhtOTE0UHRZclUwVDBtNFN5YkpUdGpGSWJhdFI4Z1A5aDZlclJYX3k1bGxsaTdqZVN6Zk9QbVE?oc=5",
-   "published_utc": "2026-09-25T09:08:00+00:00",
-   "title_original": "Citi sees yen strengthening on reduced foreign investment By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8ff3c8c7cef4727a"
-  },
-  {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
    "title_en": "Citi sees yen strengthening on reduced foreign investment",
@@ -25525,6 +25526,23 @@
    "live_wire": false,
    "manual": false,
    "id": "4396ed65fcb3cec4"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Citi sees yen strengthening on reduced foreign investment By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDZSQ0pPd1I2WWdQai1wQjhRTjNfUURmcVFZUzdWOUUxa0tVc2xhQndrbGtBaVh1b1V3ZkYySl80TlFQMVZ2T3F3dncwTDZTUGVPM2NaOWI3WUdKYjV2cnU1Y21SR2d1YWJNOFZZS3ZkbV9QNjZXN0xDRC00Z3o0T2dIUVhtOTE0UHRZclUwVDBtNFN5YkpUdGpGSWJhdFI4Z1A5aDZlclJYX3k1bGxsaTdqZVN6Zk9QbVE?oc=5",
+   "published_utc": "2026-09-25T07:00:00+00:00",
+   "title_original": "Citi sees yen strengthening on reduced foreign investment By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8ff3c8c7cef4727a"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51796,23 +51814,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4019e949e34edc3d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GlobeNewswire",
-   "title_en": "H World Group Limited Announces Pricing of CNY3.35 Billion CNY-denominated Senior Bonds",
-   "url": "https://www.tradingview.com/news/globenewswire:ee8893fd4094b:0-h-world-group-limited-announces-pricing-of-cny3-35-billion-cny-denominated-senior-bonds/",
-   "published_utc": "2026-09-09T23:15:00+00:00",
-   "title_original": "H World Group Limited Announces Pricing of CNY3.35 Billion CNY-denominated Senior Bonds",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a73ab1f9ac9a04bf"
   },
   {
    "source_id": "manual_ia",
