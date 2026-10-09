@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T11:42:45.096622+00:00
-Total: 2968 manchetes
+Última coleta: 2026-10-09T11:52:48.798159+00:00
+Total: 2969 manchetes
 
-  🇯🇵 Japão          1205
+  🇯🇵 Japão          1206
   🇨🇳 China          800
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
+  - [japan] 高市首相 経済成長率や財政運営目標"点検・検証体制具体化を”
   - [japan] Yen Falls Against Majors
   - [china] China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan
   - [china] Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say
@@ -56,7 +57,6 @@ Total: 2968 manchetes
   - [japan] Is Kyushu experiencing a “warm and rainy winter”? Concerns about rising prices due to crop failures and poor c
   - [korea] South Korean Won Eases
   - [china] Ecobank Taps Yuan Payments, Eyes Africa’s Trade With China
-  - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to remain stable in October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2968 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T11:42:45+00:00",
+      "published_utc": "2026-10-09T11:52:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
