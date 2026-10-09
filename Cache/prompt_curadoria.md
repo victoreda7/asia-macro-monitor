@@ -7,24 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T03:32:44.775345+00:00
-Total: 2983 manchetes
+Última coleta: 2026-10-09T03:42:44.769586+00:00
+Total: 2986 manchetes
 
-  🇯🇵 Japão          1217
-  🇨🇳 China          790
+  🇯🇵 Japão          1219
+  🇨🇳 China          791
   🇹🇼 Taiwan         281
   🇰🇷 Coreia do Sul  695
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock prices fall Sell orders on AI/semiconductor related stocks
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
-  - [japan] Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”
-  - [japan] Japan PM vows to keep watching yen, inflation moves carefully
   - [china] China to resume October fuel exports after a brief halt, four trade sources say
+  - [japan] Japan PM vows to keep watching yen, inflation moves carefully
+  - [japan] Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”
   - [taiwan] TSMC Revenue Likely to Be Driven by Continued Growth in AI Demand — Market Talk
   - [japan] Yen Set for Fourth Consecutive Weekly Decline
   - [china] Yuan firms as dollar slips, PBOC rejects undervaluation claims amid EU talks
   - [korea] SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12
+  - [china] The central bank launches 2 billion yuan 7-day reverse repurchase operation
   - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase, with a net withdrawal of 604 billion yuan
   - [taiwan] GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
   - [china] Offshore Yuan Rises as PBoC Defends Policy
@@ -38,6 +40,7 @@ Total: 2983 manchetes
   - [china] The Central Bank of China: Today it launched a 2 billion yuan 7-day reverse repurchase operation, with a biddi
   - [japan] Japan MOF To Auction Y2.2T Of TD-Bills Oct 19
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 16
+  - [japan] Risk of rising European government bond yields (Bank of Japan) (Hiroyuki Kubota) - Expert
   - [korea] Key facts: Samsung Electronics (005930) Q3 Profit Jumps; Q4 Phone Cuts
   - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
   - [japan] JAPAN AUG HOUSEHOLD SPENDING Y/Y FALL LED BY LOWER PRIVATE UNIVERSITY TUITION, DOMESTIC PACKAGE TOUR COST, SUB
@@ -54,9 +57,6 @@ Total: 2983 manchetes
   - [korea] Samsung, SK Hynix record earnings fuel South Korea spending on AI, youth
   - [china] China defends yuan policy as Europe steps up pressure over trade surplus
   - [korea] Cash Cat: CASHCAT begins KRW spot trading on Bithumb - 08 Oct 2026
-  - [korea] October “Korea-US base interest rate ‘freezes’, stock market range strengthens”
-  - [korea] Seoul shares down for 3rd day amid inflation worries
-  - [korea] Samsung Electronics guides to huge surge in Q3 profits
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2983 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T03:32:45+00:00",
+      "published_utc": "2026-10-09T03:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

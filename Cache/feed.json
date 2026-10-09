@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T03:32:44.775345+00:00",
- "collected_at_utc": "2026-10-09T03:32:44.775345+00:00",
+ "generated_at_utc": "2026-10-09T03:42:44.769586+00:00",
+ "collected_at_utc": "2026-10-09T03:42:44.769586+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2983,
+ "count": 2986,
  "by_region": {
-  "japan": 1217,
-  "china": 790,
+  "japan": 1219,
+  "china": 791,
   "taiwan": 281,
   "korea": 695
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T02:56:31+00:00"
+   "newest": "2026-10-09T03:30:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T02:06:21+00:00"
+   "newest": "2026-10-09T03:24:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T12:23:12+09:00"
+   "newest": "2026-10-09T12:35:54+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T12:25:34+09:00"
+   "newest": "2026-10-09T12:41:33+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 23,
+   "count": 25,
    "error": "",
-   "newest": "2026-10-09T02:48:46+00:00"
+   "newest": "2026-10-09T02:52:10+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T03:30:06+00:00"
+   "newest": "2026-10-09T03:41:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T15:11:52+00:00"
+   "newest": "2026-10-08T16:27:36+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock prices fall Sell orders on AI/semiconductor related stocks",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261009de57107",
+   "published_utc": "2026-10-09T03:41:33+00:00",
+   "title_original": "株価 値下がり AI・半導体関連の銘柄で売り注文",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "100a2fa5bcc23b64"
+  },
   {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
@@ -362,6 +379,41 @@
    "id": "0a587661a2419676"
   },
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China to resume October fuel exports after a brief halt, four trade sources say",
+   "url": "https://www.investing.com/news/commodities-news/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say-4940140",
+   "published_utc": "2026-10-09T03:30:19+00:00",
+   "title_original": "China to resume October fuel exports after a brief halt, four trade sources say",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3000bb22f41b09ba"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan PM vows to keep watching yen, inflation moves carefully",
+   "url": "https://www.investing.com/news/economy-news/japan-pm-vows-to-keep-watching-yen-inflation-moves-carefully-4940139",
+   "published_utc": "2026-10-09T03:24:21+00:00",
+   "title_original": "Japan PM vows to keep watching yen, inflation moves carefully",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4d02197d7f3ae9d2"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”",
@@ -379,41 +431,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6bb48dec7fba6945"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan PM vows to keep watching yen, inflation moves carefully",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45V077:0-japan-pm-vows-to-keep-watching-yen-inflation-moves-carefully/",
-   "published_utc": "2026-10-09T03:16:09+00:00",
-   "title_original": "Japan PM vows to keep watching yen, inflation moves carefully",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "29c3d295563094d0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China to resume October fuel exports after a brief halt, four trade sources say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45V07M:0-china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/",
-   "published_utc": "2026-10-09T03:11:16+00:00",
-   "title_original": "China to resume October fuel exports after a brief halt, four trade sources say",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dad0dcbadd5b7ac2"
   },
   {
    "source_id": "tradingview_live",
@@ -483,6 +500,24 @@
    "live_wire": false,
    "manual": false,
    "id": "869867c1ebdc0f11"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "The central bank launches 2 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YdzhsS0NiZWlaeFhHZVJSYS15R3ZJamhzaElhdkVSQUlLc0VOSDE4NmFNMGwtWF81eHBPSDYzbEFHU3lJTDNUNU9HVUJGWFd0Wnh5NnhOZGQ?oc=5",
+   "published_utc": "2026-10-09T02:52:10+00:00",
+   "title_original": "央行开展20亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "73db63b6e6c67764"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -644,7 +679,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "https://m.capwhale.com/",
    "title_en": "The central bank launched a 2 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTjdqMXd6cDZ5ZjRTWHpWTm5NT21iOUZGWVlHV08yOE1vem5kamZYRDAzeXR2empRcXVGenc3VTN2MDFaNHBBS1ZMbmh6QlpQWnlybzFLY2lJb0tpdHdQZHdaNXJWN05NSUZoNjZ2TVc0OGFDSExSSFpoNFdzRHJBN2VfWW1Rb2pLaDg0M05URV9JQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDQ1ZjMzbVYtUHhnaTBKMGw2QW1Mb0V4TnZrbkFpRXZ5U1JRb1ZpVTN0Wkd5S3ZmNHRlNjhzb1FPZ0pNTzhMVEVCYWxRSHRjc0c5YzRTZXp3SjlvVjRpX1dma2RabzI4NUdjZnFHY0tRQ0k4eXVicHJFOVgzSTBJaDQycFN1S214V0NNQjZtR1FjUQ?oc=5",
    "published_utc": "2026-10-09T01:28:02+00:00",
    "title_original": "央行今日开展20亿元7天期逆回购操作",
    "region": "china",
@@ -656,7 +691,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "060d717068bc0f34"
+   "id": "b1f810311e201a9d"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -709,6 +744,24 @@
    "live_wire": true,
    "manual": false,
    "id": "e071972bb0c8dfec"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Risk of rising European government bond yields (Bank of Japan) (Hiroyuki Kubota) - Expert",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0tYcktNSk1seTE2eWdIODE3ODFOSkxLUkY4UVRRSGstX2FSeEl4Z09IMTYyalZTSXE3OVJSUkM1bDZ6UjczMzNfcEFYN0IyVl93bTQyOUVocWJua1NIc25oNXhfSjF5NHRtSy1HSTUxaUs5ZDhYc2R0dEFJdmd0QUxvdHRXLUhl?oc=5",
+   "published_utc": "2026-10-09T01:02:43+00:00",
+   "title_original": "日銀欧の国債利回り上昇のリスク（久保田博幸） - エキスパート",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e253a5a154f7c10f"
   },
   {
    "source_id": "tradingview_live",
@@ -2590,7 +2643,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "에너지경제신문",
    "title_en": "‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level from 2022",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CWkNRbkhPN2JGNVc0UlhBY1NjSGNNOEZaUUVrcmJleFBZWDIwZGdVSGE4cnpzTTk4c0V0MV9tZnhOYTNSa1JYQzlMSkJReHdJaVNacEZtMHp0ZG1QN2JVX0tDRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MzlGNzQzeHpCYkY4a3NJQXFzOVpITFNZekhOb3oyTU55Yjh3TDhWSjRBNGVsd2cwX0JBMWRER0VxUGNDYW05TzhuR0RtdmFJemtDMi16MWR5ak0?oc=5",
    "published_utc": "2026-10-08T01:14:13+00:00",
    "title_original": "‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM",
    "region": "korea",
@@ -2601,7 +2654,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "99c612b549c007d3"
+   "id": "f20de907c2a7b4c4"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -17812,7 +17865,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmpwQVpRZG8yTVdkRXlTcW5xS3ZZb3EtSjVPN2dPc1g3YXFTZ09vUlVNR3k5eEVBQk9mZWZhUzlXdE1GSWFOS1c3bWJPSGpubDU3bEJULTFvU05PcGpkMjVENVpsQlk0cjNPZGxob1RpVWotb3gwa091ZURrWTJqVkVvbG5JZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHUnRnQTVQZkREcjlKY3VoWWJhaUxUb29pVnFXaGYxX1U5N3dSSTBILVVWdHNQbHY5Z1FTSjYwckc4WnhhdHNNWHJ4ZmFJN2JiLVpubUgwb21BTlNBWUlrb0htTElxX25TQi1vaENGTVBMVmJobk9pLXZfRQ?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
    "title_original": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
    "region": "china",
@@ -17823,7 +17876,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9725d40adaeb9145"
+   "id": "32aeac54145f756e"
   },
   {
    "source_id": "gn_cn_pboc",
