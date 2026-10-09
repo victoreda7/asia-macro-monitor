@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-09T17:32:42.381295+00:00",
- "collected_at_utc": "2026-10-09T17:32:42.381295+00:00",
+ "generated_at_utc": "2026-10-09T17:42:42.332282+00:00",
+ "collected_at_utc": "2026-10-09T17:42:42.332282+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
- "count": 2989,
+ "count": 2990,
  "by_region": {
   "japan": 1209,
-  "china": 816,
+  "china": 817,
   "taiwan": 277,
   "korea": 687
  },
  "elapsed_s": 29.5,
  "sources": [
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -35,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T15:55:36+00:00"
+   "newest": "2026-10-09T16:00:23+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T17:11:14+00:00"
+   "newest": "2026-10-09T17:30:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T17:03:00+00:00"
+   "newest": "2026-10-09T17:24:52+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -160,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-09-24T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -283,7 +275,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T11:02:21+00:00"
+   "newest": "2026-10-09T14:02:19+00:00"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-09-29T13:14:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -427,6 +427,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c9aa1c6cecd79e15"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China’s Oil Imports Look Set to Rise as Supertanker Fleet Swells",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzhMOFBadmV0ZlBhMFFQZUE2elRyQnkxRzhYNlBlcUZiRWJjYzNaemMwV3V4RlQxWlI5MnE4Mi1pV1djUl9GT0gyRGUxclBzYjlIYlRxcF8yQU5ZMDdjN1JFZjUwRkVaYXNiV2xVajlQVkZDUlR4VnNjb2VPdm9MSWFiemd6NWtuUDNodFBrbS0wTmE0bFI5U1p5dEZ2ckdxZHprd2pKS2xBWWpSdEJycTZIR3pPZw?oc=5",
+   "published_utc": "2026-10-09T16:00:23+00:00",
+   "title_original": "China’s Oil Imports Look Set to Rise as Supertanker Fleet Swells",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c871d45afc6ad9c4"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -42283,6 +42300,23 @@
    "id": "f5f90c240933a720"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Bessent calls US yen intervention \"nominal,\" defends trade By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHU1R2pwQmJfc2loTVdTYUJZTHNlWXBuWFh1cTZJc1I0dVRWNTNQVGRxMVBkVThJLW5MbXRZZWRWc1M4dlIwUUtHRmFSaHRxZDRIM2VkZERIcDNIM25sZ1NvOTdRVnpDT2FLWklxTXF4UDVXdXNkVnpleTlKaUJHYk1TN04yaHBscERWY1g3MzZOM0tnZ3otQV9LRnY4UmZRT294OFMxbWV2UQ?oc=5",
+   "published_utc": "2026-09-15T21:56:10+00:00",
+   "title_original": "Bessent calls US yen intervention \"nominal,\" defends trade By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9f77d06b53f5a611"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "Cash-Strapped Japanese Monks Turn to Investing as Inflation Worsens",
@@ -42349,23 +42383,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8376459504c52273"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Bessent calls US yen intervention \"nominal,\" defends trade By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkwtYkctalNEc3otdk1TNkp0d1hHU1BsTzVyZkZvZnQ4RnRzQzlycmt5dFhmWkJhU0kwT2E4X1VqbF9Mc0RXZUFvNE8yVkhNMllTMlNScXhubmFhSnFWUVFzdVJveGo1aVBwYmM5MFM1bTRVUG1VQUlaWFZJa1pycU1BOTNmYW9SM01HX01IWENCX2VTTlFHZ2w5Y3FtdTBtdUk0VVV4blJhUQ?oc=5",
-   "published_utc": "2026-09-15T17:24:00+00:00",
-   "title_original": "Bessent calls US yen intervention \"nominal,\" defends trade By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "06baa26003e593eb"
   },
   {
    "source_id": "investing_econ",
