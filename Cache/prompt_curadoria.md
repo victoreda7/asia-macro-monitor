@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T01:52:42.978239+00:00
-Total: 2990 manchetes
+Última coleta: 2026-10-09T02:02:44.619370+00:00
+Total: 2989 manchetes
 
   🇯🇵 Japão          1222
-  🇨🇳 China          792
+  🇨🇳 China          791
   🇹🇼 Taiwan         279
   🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
+  - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
   - [japan] JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk
   - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase operation today
@@ -24,7 +25,6 @@ Total: 2990 manchetes
   - [japan] Japan MOF To Auction Y2.2T Of TD-Bills Oct 19
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 16
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
-  - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [korea] Key facts: Samsung Electronics (005930) Q3 Profit Jumps; Q4 Phone Cuts
   - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
   - [japan] JAPAN AUG HOUSEHOLD SPENDING Y/Y FALL LED BY LOWER PRIVATE UNIVERSITY TUITION, DOMESTIC PACKAGE TOUR COST, SUB
@@ -116,7 +116,7 @@ Total: 2990 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T01:52:43+00:00",
+      "published_utc": "2026-10-09T02:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
