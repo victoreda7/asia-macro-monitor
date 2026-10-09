@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T01:42:43.624923+00:00
-Total: 2991 manchetes
+Última coleta: 2026-10-09T01:52:42.978239+00:00
+Total: 2990 manchetes
 
   🇯🇵 Japão          1222
-  🇨🇳 China          794
+  🇨🇳 China          792
   🇹🇼 Taiwan         279
-  🇰🇷 Coreia do Sul  696
+  🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
   - [japan] JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk
   - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase operation today
   - [china] The Central Bank of China: Today it launched a 2 billion yuan 7-day reverse repurchase operation, with a biddi
@@ -56,7 +57,6 @@ Total: 2991 manchetes
   - [taiwan] GlobalFoundries to make key AI chip component for TSMC
   - [japan] Prudential's Japanese unit involved in 5.2 bil. yen fraud
   - [taiwan] GlobalFoundries partners with TSMC to establish US-based production of silicon interposers
-  - [korea] New Silkroad Says Unit To Buy 2.67% Stake In I-Aurora For KRW 1,999.99 Million
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2991 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T01:42:43+00:00",
+      "published_utc": "2026-10-09T01:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

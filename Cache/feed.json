@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T01:42:43.624923+00:00",
- "collected_at_utc": "2026-10-09T01:42:43.624923+00:00",
+ "generated_at_utc": "2026-10-09T01:52:42.978239+00:00",
+ "collected_at_utc": "2026-10-09T01:52:42.978239+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2991,
+ "count": 2990,
  "by_region": {
   "japan": 1222,
-  "china": 794,
+  "china": 792,
   "taiwan": 279,
-  "korea": 696
+  "korea": 697
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T03:59:06+00:00"
+   "newest": "2026-10-08T07:37:51+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-09T01:30:05+00:00"
+   "newest": "2026-10-09T01:49:58+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T01:41:02+00:00"
+   "newest": "2026-10-09T01:52:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T15:11:52+00:00"
+   "newest": "2026-10-08T16:44:23+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45V00C:0-chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack/",
+   "published_utc": "2026-10-09T01:52:10+00:00",
+   "title_original": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "50c52e7291cdd7ed"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -6953,6 +6970,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a0a8f14fc7b9b38d"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "사람의 풍경",
+   "title_en": "The base interest rate has entered the 3% range, a signal for household asset rebalancing.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3RlRVM3a3RiOTdEaGQ3b1lTQmhvQXNYb3Y2bzFFOEl3a3pDUE9QemRqeHV5TUxkWGZqbmMzU0FZYTRBSnJpS2d6anVDTnl3eWVsRm1kNzFBUTR1R0V2bjg0OXBQZVByT3U1a1ROY3pXT25OdzN3SHR4MHZkem9XR3lmYXBhODh6?oc=5",
+   "published_utc": "2026-10-05T09:42:21+00:00",
+   "title_original": "3%대 진입한 기준금리, 가계 자산 리밸런싱의 신호탄",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "59e32c169b580f4c"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -33335,6 +33369,23 @@
    "id": "b8dbe564e07ea424"
   },
   {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan - CNA English News",
+   "title_en": "Taiwan freezes electricity rates to support economy",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
+   "published_utc": "2026-09-18T11:36:00+00:00",
+   "title_original": "Taiwan freezes electricity rates to support economy",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a00b4baeb4330729"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Ordinary deposit interest rate raised to 0.5%; Bank of Japan raises interest rate to the highest level in 34 years; 3 mega banks (Jiji Press)",
@@ -34588,23 +34639,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9ecd05a7ccdfd25e"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan - CNA English News",
-   "title_en": "Taiwan freezes electricity rates to support economy",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "Taiwan freezes electricity rates to support economy",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a00b4baeb4330729"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51734,57 +51768,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fa9bee2ace753060"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
-   "title_en": "中国8月消費者物価は0.8％上昇（共同通信）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GcXczVlRBRWxONWZZVkNCTzJPNHZzNXA2ejdtanJhYTFPRWFYSDF2MHZWTlFqV1dFMGdWMjdBQ0VsQkdDdEVvU3Y5bHAyM0tUb21ldmF3czhyd3VtWHplVkZwNE0zU1I4c1FtWlpoV2xoNjZiU1NXUnM4TkpCeXM?oc=5",
-   "published_utc": "2026-09-09T01:47:31+00:00",
-   "title_original": "中国8月消費者物価は0.8％上昇（共同通信）",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "07546048a8ebbd9c"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "China's price rise accelerates in August - high oil prices and AI boom spread (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4TUY5QWdKajdzVEZLeWtxTngtUzhwUEdhcXlpeVpqdzhiYjFPRGMxXzJITjBQbE5KV0k2LXR0VnlyR3VRZFNhbmk5RzhYVDFJWUFrWEpKZk1TZF8xUG9nM0lQTFMyYTJQX3Bpa1I3ai10NmFzSU9PQ2lMMEFiMXc?oc=5",
-   "published_utc": "2026-09-09T01:47:24+00:00",
-   "title_original": "中国の物価上昇ペース、8月に加速－原油高やAIブームが波及（Bloomberg）",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6ab9776de4d43db8"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "China's price rise accelerates in August - food and energy prices rise (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4TUY5QWdKajdzVEZLeWtxTngtUzhwUEdhcXlpeVpqdzhiYjFPRGMxXzJITjBQbE5KV0k2LXR0VnlyR3VRZFNhbmk5RzhYVDFJWUFrWEpKZk1TZF8xUG9nM0lQTFMyYTJQX3Bpa1I3ai10NmFzSU9PQ2lMMEFiMXc?oc=5",
-   "published_utc": "2026-09-09T01:47:24+00:00",
-   "title_original": "中国の物価上昇ペース、8月に加速－食品やエネルギーが値上がり（Bloomberg）",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1ad049dbee6f3bee"
   },
   {
    "source_id": "manual_ia",
