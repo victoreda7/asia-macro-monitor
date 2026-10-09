@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T13:42:44.474304+00:00
-Total: 2971 manchetes
+Última coleta: 2026-10-09T13:52:43.241588+00:00
+Total: 2973 manchetes
 
   🇯🇵 Japão          1207
-  🇨🇳 China          801
+  🇨🇳 China          803
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  686
 
@@ -23,6 +23,7 @@ Total: 2971 manchetes
   - [china] China AI developers publish safety tests for just 3.6% of model releases, report finds
   - [china] Ecobank to join China's CIPS payments platform for yuan settlement
   - [china] China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
+  - [china] Developing | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [china] Breaking | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [japan] Prime Minister Takaichi's economic growth rate and fiscal management targets "concrete inspection and verifica
   - [japan] Yen Falls Against Majors
@@ -56,7 +57,6 @@ Total: 2971 manchetes
   - [china] China's tax crackdown increases pressure on luxury brands as US spending weakens
   - [japan] Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”
   - [japan] Iseki&Co Ltd - To Buy Back Up To 1.46% Of Own Shares Worth 500 Million Yen
-  - [korea] It was found that the budget of 16 million won was used by the chairman of the Korea Education Facil..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2971 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T13:42:44+00:00",
+      "published_utc": "2026-10-09T13:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
