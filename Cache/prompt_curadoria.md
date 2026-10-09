@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T03:52:43.262931+00:00
-Total: 2985 manchetes
+Última coleta: 2026-10-09T04:02:42.786116+00:00
+Total: 2981 manchetes
 
-  🇯🇵 Japão          1219
-  🇨🇳 China          791
+  🇯🇵 Japão          1218
+  🇨🇳 China          788
   🇹🇼 Taiwan         280
   🇰🇷 Coreia do Sul  695
 
@@ -27,7 +27,6 @@ Total: 2985 manchetes
   - [japan] Yen Set for Fourth Consecutive Weekly Decline
   - [china] Yuan firms as dollar slips, PBOC rejects undervaluation claims amid EU talks
   - [korea] SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12
-  - [china] The central bank launches 2 billion yuan 7-day reverse repurchase operation
   - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase, with a net withdrawal of 604 billion yuan
   - [taiwan] GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
   - [china] Offshore Yuan Rises as PBoC Defends Policy
@@ -37,6 +36,7 @@ Total: 2985 manchetes
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [china] Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
   - [japan] JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk
+  - [china] The central bank launches 2 billion yuan 7-day reverse repurchase operation
   - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase operation today
   - [china] The Central Bank of China: Today it launched a 2 billion yuan 7-day reverse repurchase operation, with a biddi
   - [japan] Japan MOF To Auction Y2.2T Of TD-Bills Oct 19
@@ -56,7 +56,7 @@ Total: 2985 manchetes
   - [china] Synopsys plans to explore working with Chinese AI labs on chip design tech: report
   - [china] Synopsys looks to work with Chinese AI labs to speed up chip design
   - [korea] Samsung, SK Hynix record earnings fuel South Korea spending on AI, youth
-  - [china] China defends yuan policy as Europe steps up pressure over trade surplus
+  - [korea] Cash Cat: CASHCAT begins KRW spot trading on Bithumb - 08 Oct 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2985 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T03:52:43+00:00",
+      "published_utc": "2026-10-09T04:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
