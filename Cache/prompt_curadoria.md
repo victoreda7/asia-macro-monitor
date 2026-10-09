@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T12:02:43.735740+00:00
-Total: 2970 manchetes
+Última coleta: 2026-10-09T12:12:43.726589+00:00
+Total: 2971 manchetes
 
   🇯🇵 Japão          1206
-  🇨🇳 China          801
+  🇨🇳 China          802
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
+  - [china] Ecobank to join China's CIPS payments platform for yuan settlement
   - [china] China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
+  - [japan] Govt. submits bill for consumption tax cut
   - [japan] Prime Minister Takaichi's economic growth rate and fiscal management targets "concrete inspection and verifica
   - [japan] Yen Falls Against Majors
   - [china] China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan
@@ -55,8 +57,6 @@ Total: 2970 manchetes
   - [japan] Japan Machine Tool Orders Notch Fresh High
   - [china] Broker Sucden Financial wants to clear LME metals trades in offshore yuan
   - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
-  - [japan] Is Kyushu experiencing a “warm and rainy winter”? Concerns about rising prices due to crop failures and poor c
-  - [korea] South Korean Won Eases
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2970 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T12:02:43+00:00",
+      "published_utc": "2026-10-09T12:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
