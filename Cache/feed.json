@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-09T12:32:43.967535+00:00",
- "collected_at_utc": "2026-10-09T12:32:43.967535+00:00",
+ "generated_at_utc": "2026-10-09T12:42:43.152178+00:00",
+ "collected_at_utc": "2026-10-09T12:42:43.152178+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2970,
+ "count": 2969,
  "by_region": {
-  "japan": 1206,
-  "china": 802,
+  "japan": 1205,
+  "china": 803,
   "taiwan": 276,
-  "korea": 686
+  "korea": 685
  },
  "elapsed_s": 29.6,
  "sources": [
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T20:46:29+09:00"
+   "newest": "2026-10-09T21:40:12+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "newest": "2026-10-09T09:16:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T12:31:55+00:00"
+   "newest": "2026-10-09T12:41:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T08:02:19+00:00"
+   "newest": "2026-10-09T11:02:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T12:07:00+00:00"
+   "newest": "2026-10-09T12:21:29+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China AI developers publish safety tests for just 3.6% of model releases, report finds",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N45V0NB:0-china-ai-developers-publish-safety-tests-for-just-3-6-of-model-releases-report-finds/",
+   "published_utc": "2026-10-09T12:36:29+00:00",
+   "title_original": "China AI developers publish safety tests for just 3.6% of model releases, report finds",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6eeedfe35361477d"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1492,23 +1509,6 @@
    "live_wire": false,
    "manual": false,
    "id": "26b4d85f2dd47cdf"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008009826:0-jgb-yields-lower-across-curve-after-u-s-treasury-yield-declines-market-talk/",
-   "published_utc": "2026-10-09T01:31:00+00:00",
-   "title_original": "JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "656ff90cbae02be1"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51422,23 +51422,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7ac4a5cd31c69a1e"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Korea’s AI boom turns semiconductor hubs into new education hotspots",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JOUlDV083ejA0Tm1qWUptWXlmYnBQdEZTeDVTSFk0d1hfRnlBNzdXWF9zUDM1RWxJejVQRlhJMVFHRHJzMGFJdWJSemJaVWM5LWR3SmJFYzlMak9GWEtOOTBNbUgzb2dJYjliTHVmZEVRQQ?oc=5",
-   "published_utc": "2026-09-09T12:42:00+00:00",
-   "title_original": "Korea’s AI boom turns semiconductor hubs into new education hotspots",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "37c2635a3ff02698"
   },
   {
    "source_id": "manual_ia",
