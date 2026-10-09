@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T02:02:44.619370+00:00
-Total: 2989 manchetes
+Última coleta: 2026-10-09T02:12:44.093602+00:00
+Total: 2985 manchetes
 
-  🇯🇵 Japão          1222
+  🇯🇵 Japão          1218
   🇨🇳 China          791
   🇹🇼 Taiwan         279
   🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
+  - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
   - [japan] JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk
@@ -24,12 +25,12 @@ Total: 2989 manchetes
   - [china] The Central Bank of China: Today it launched a 2 billion yuan 7-day reverse repurchase operation, with a biddi
   - [japan] Japan MOF To Auction Y2.2T Of TD-Bills Oct 19
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 16
-  - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [korea] Key facts: Samsung Electronics (005930) Q3 Profit Jumps; Q4 Phone Cuts
   - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
   - [japan] JAPAN AUG HOUSEHOLD SPENDING Y/Y FALL LED BY LOWER PRIVATE UNIVERSITY TUITION, DOMESTIC PACKAGE TOUR COST, SUB
   - [japan] JAPAN AUG REAL CORE HOUSEHOLD SPENDING (EX-HOUSING, VEHICLES, GIFT MONEY) -4.2% Y/Y VS. -1.4% IN JULY WHEN OVE
   - [japan] IMF invites BOJ chief Ueda to speak on November 6
+  - [korea] Two memory slots for distinguishing conditional functions Read description
   - [japan] Japan's EV subsidies benefit Tesla more than Honda, Nissan
   - [china] Synopsys Looks To Work With Chinese AI Labs To Speed Up Chip Design, Nikkei Says
   - [china] CXMT, the semiconductor giant with the top Chinese market capitalization, begins mass production of next-gener
@@ -56,7 +57,6 @@ Total: 2989 manchetes
   - [taiwan] GlobalFoundries will manufacture a key AI chip component for TSMC
   - [taiwan] GlobalFoundries to make key AI chip component for TSMC
   - [japan] Prudential's Japanese unit involved in 5.2 bil. yen fraud
-  - [taiwan] GlobalFoundries partners with TSMC to establish US-based production of silicon interposers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2989 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T02:02:44+00:00",
+      "published_utc": "2026-10-09T02:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T02:02:44.619370+00:00",
- "collected_at_utc": "2026-10-09T02:02:44.619370+00:00",
+ "generated_at_utc": "2026-10-09T02:12:44.093602+00:00",
+ "collected_at_utc": "2026-10-09T02:12:44.093602+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2989,
+ "count": 2985,
  "by_region": {
-  "japan": 1222,
+  "japan": 1218,
   "china": 791,
   "taiwan": 279,
   "korea": 697
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T01:00:00+00:00"
+   "newest": "2026-10-09T02:06:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T03:59:06+00:00"
+   "newest": "2026-10-09T01:39:50+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T17:28:18+00:00"
+   "newest": "2026-10-09T01:02:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-10-09T08:00:00+09:00"
+   "newest": "2026-10-09T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T09:45:53+09:00"
+   "newest": "2026-10-09T11:11:38+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T02:00:00+00:00"
+   "newest": "2026-10-09T02:11:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T19:57:06+00:00"
+   "newest": "2026-10-08T22:57:24+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T15:11:52+00:00"
+   "newest": "2026-10-08T22:47:48+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Government Cabinet approves bill related to food consumption tax reduction",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261009de56958",
+   "published_utc": "2026-10-09T02:11:38+00:00",
+   "title_original": "政府 食料品の消費税減税関連法案を閣議決定",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2af39685882503d3"
+  },
   {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
@@ -466,24 +484,6 @@
    "id": "e071972bb0c8dfec"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Government Cabinet approves bill related to food consumption tax reduction",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261009de56958",
-   "published_utc": "2026-10-09T00:45:53+00:00",
-   "title_original": "政府 食料品の消費税減税関連法案を閣議決定",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2af39685882503d3"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
    "title_en": "Key facts: Samsung Electronics (005930) Q3 Profit Jumps; Q4 Phone Cuts",
@@ -567,6 +567,23 @@
    "live_wire": true,
    "manual": false,
    "id": "2fb354c18213f08d"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "Calgary Roughnecks",
+   "title_en": "Two memory slots for distinguishing conditional functions Read description",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pQUpfQU1McXJDdjJDSGJJUVA5WTZnTWZwck9iVjlXYWlhTWMtV01xVEdpNFJxTE9rQ1pnRm1hZVF3VVB5RXZTcm9SY2R3bjk2TlN4QUdjZHZDRFczSG4wNnJ3VlQtRWE4V24yTlowUGVkQWdRd2c?oc=5",
+   "published_utc": "2026-10-08T22:47:48+00:00",
+   "title_original": "조건부 기능을 구별하는 메모리 슬롯 2개 설명 읽기",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "54196b1827ee9a52"
   },
   {
    "source_id": "nikkei_asia",
@@ -3755,8 +3772,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -3770,7 +3787,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92b58b5965a5d5e5"
+   "id": "082ec485c7ba9e26"
   },
   {
    "source_id": "tradingview_live",
@@ -51666,91 +51683,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba0da3929019c056"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar trades near 7-month low against yen as oil settles above $100 By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWN1dUxtUTVuaVVubFJOX1VSVjZya3RXZmU0WDBFMVRnVVRlRTVmWHo3a1R0dmpNd29zcmN4T25PQy1tU1ZiNENXcy00ZXVCd0F0YTJ2Y3JMM3VrRV83d1I1QzFhbEExUXhLZFdxZDY1ODhSbjBBQjhHQTRpODhhLTVKaGVuZ2xrYVlPTS01QVJ5aDAtT0V3X0xfc1cwYkFyX3dla1BQb0xCdy02N2hpTENWOHc5M0NBT3ZLN2l6V1A?oc=5",
-   "published_utc": "2026-09-09T02:10:02+00:00",
-   "title_original": "Dollar trades near 7-month low against yen as oil settles above $100 By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a7ab30f2d5afd422"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스저널리즘",
-   "title_en": "If interest rates rise by 0.5%p, household interest will rise by 6.5 trillion won per year… 2.3 trillion won burden for middle and low-income people",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMUkhWZE4tOUtiYWlDRTFLdDlWYkFOeEhCRmpSN0ZKbEE2S0VrSFUzUjV0cVh1MW9jZ1dGR0p3RldiVk9QcVNKLU12NTlOYjFnWlgtM2JoUVhJZ0FCMERRLVh6cV96OTJHY25r?oc=5",
-   "published_utc": "2026-09-09T02:07:52+00:00",
-   "title_original": "금리 0.5%p 오르면 가계 이자 연 6조5000억원↑…중·저소득층 부담 2조3000억원",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "de44537b65ed838f"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "The yen’s sudden surge upsets the carry trade faithful",
-   "url": "https://www.investing.com/news/economy-news/the-yens-sudden-surge-is-upsetting-the-carry-trade-faithful-4890790",
-   "published_utc": "2026-09-09T02:06:53+00:00",
-   "title_original": "The yen’s sudden surge upsets the carry trade faithful",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf5f5ffadc9ec252"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Yen stands tall as dollar wobbles, oil’s run towards $100 chills sentiment",
-   "url": "https://www.investing.com/news/economy-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment-4892667",
-   "published_utc": "2026-09-09T02:06:35+00:00",
-   "title_original": "Yen stands tall as dollar wobbles, oil’s run towards $100 chills sentiment",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0bebe6a0e3fecf06"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Retail Traders Add to Yen Shorts as Currency Rallies",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWhoNlN1VkFKYU9MUk1CdUJjZnBRN1h5b1R3RXRLb2pIZXdiMDJEQXU5bkxhQXhQa2VFUV81NFN2dWltczMyci12bFRhaGlFZnRBS0pRZ3FDNFVXNjVYUVlvWjgxejBXN3RoQTYtSnFSOS1sZXBUSnBmOEZmLUZSOG9McS01M0Rxc2RyTktvd0pTVXdkMDlLMklQZm5vRlNFYkRZZ1BGZ2diYWNNUkMxQQ?oc=5",
-   "published_utc": "2026-09-09T02:03:00+00:00",
-   "title_original": "Japan’s Retail Traders Add to Yen Shorts as Currency Rallies",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5a3b94fe91f1bde0"
   },
   {
    "source_id": "manual_ia",
