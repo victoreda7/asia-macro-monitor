@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T06:32:48.180817+00:00
-Total: 2965 manchetes
+Última coleta: 2026-10-09T06:42:43.430077+00:00
+Total: 2967 manchetes
 
-  🇯🇵 Japão          1207
+  🇯🇵 Japão          1209
   🇨🇳 China          787
   🇹🇼 Taiwan         281
   🇰🇷 Coreia do Sul  690
 
 ## O que já está no feed (não repita)
 
+  - [japan] Osg Corp - To Buy Back Up To 1.8% Of Own Shares Worth 5 Billion Yen
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [japan] Citi sees limited upside for EUR/JPY amid intervention expectations
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
@@ -56,7 +57,6 @@ Total: 2965 manchetes
   - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
   - [japan] JAPAN AUG HOUSEHOLD SPENDING Y/Y FALL LED BY LOWER PRIVATE UNIVERSITY TUITION, DOMESTIC PACKAGE TOUR COST, SUB
   - [japan] JAPAN AUG REAL CORE HOUSEHOLD SPENDING (EX-HOUSING, VEHICLES, GIFT MONEY) -4.2% Y/Y VS. -1.4% IN JULY WHEN OVE
-  - [japan] IMF invites BOJ chief Ueda to speak on November 6
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2965 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T06:32:48+00:00",
+      "published_utc": "2026-10-09T06:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
