@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T05:52:42.132278+00:00
+Última coleta: 2026-10-09T06:02:41.898907+00:00
 Total: 2968 manchetes
 
   🇯🇵 Japão          1208
-  🇨🇳 China          786
+  🇨🇳 China          787
   🇹🇼 Taiwan         281
-  🇰🇷 Coreia do Sul  693
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [china] Broker Sucden Financial wants to clear LME metals trades in offshore yuan
   - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
   - [japan] Is Kyushu experiencing a “warm and rainy winter”? Concerns about rising prices due to crop failures and poor c
   - [korea] South Korean Won Eases
@@ -56,7 +57,6 @@ Total: 2968 manchetes
   - [japan] IMF invites BOJ chief Ueda to speak on November 6
   - [korea] Two memory slots for distinguishing conditional functions Read description
   - [japan] Japan's EV subsidies benefit Tesla more than Honda, Nissan
-  - [china] Synopsys Looks To Work With Chinese AI Labs To Speed Up Chip Design, Nikkei Says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2968 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T05:52:42+00:00",
+      "published_utc": "2026-10-09T06:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
