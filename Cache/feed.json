@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-09T00:42:41.829531+00:00",
- "collected_at_utc": "2026-10-09T00:42:41.829531+00:00",
+ "generated_at_utc": "2026-10-09T00:52:41.816673+00:00",
+ "collected_at_utc": "2026-10-09T00:52:41.816673+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
- "count": 2992,
+ "count": 2993,
  "by_region": {
-  "japan": 1220,
+  "japan": 1221,
   "china": 795,
   "taiwan": 278,
   "korea": 699
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.5,
  "sources": [
-  {
-   "source_id": "gn_asia_ft",
-   "name": "FT Asia",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -51,7 +43,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T07:37:51+00:00"
+   "newest": "2026-10-08T03:59:06+00:00"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "name": "FT Asia",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-08T22:28:10+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-10-08T18:00:00+09:00"
+   "newest": "2026-10-09T08:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T09:41:00+09:00"
+   "newest": "2026-10-09T09:45:53+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T00:38:35+00:00"
+   "newest": "2026-10-09T00:50:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,24 @@
  ],
  "items": [
   {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Government Cabinet approves bill related to food consumption tax reduction",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261009de56958",
+   "published_utc": "2026-10-09T00:45:53+00:00",
+   "title_original": "政府 食料品の消費税減税関連法案を閣議決定",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2af39685882503d3"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances",
@@ -382,7 +400,7 @@
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Nikkei May Decline Amid Concerns About Energy Costs — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008009684:0-nikkei-may-decline-amid-concerns-about-energy-costs-market-talk/",
+   "url": "https://www.tradingview.com/news/DJN_DN20261008009685:0-nikkei-may-decline-amid-concerns-about-energy-costs-market-talk/",
    "published_utc": "2026-10-08T23:46:00+00:00",
    "title_original": "Nikkei May Decline Amid Concerns About Energy Costs — Market Talk",
    "region": "japan",
@@ -393,7 +411,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "757d8014b546e680"
+   "id": "1be54c70e0387c30"
   },
   {
    "source_id": "tradingview_live",

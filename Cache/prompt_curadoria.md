@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T00:42:41.829531+00:00
-Total: 2992 manchetes
+Última coleta: 2026-10-09T00:52:41.816673+00:00
+Total: 2993 manchetes
 
-  🇯🇵 Japão          1220
+  🇯🇵 Japão          1221
   🇨🇳 China          795
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  699
 
 ## O que já está no feed (não repita)
 
+  - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [korea] Key facts: Samsung Electronics (005930) Q3 Profit Jumps; Q4 Phone Cuts
   - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
@@ -56,7 +57,6 @@ Total: 2992 manchetes
   - [china] China's Central Bank Rejects Claims Yuan Is Undervalued
   - [korea] Samsung, SK hynix face investor test as buybacks wind down
   - [japan] Bank of Japan’s regional economic report “AI-related demand expands and production increases in many regions”
-  - [korea] Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2992 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T00:42:41+00:00",
+      "published_utc": "2026-10-09T00:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
