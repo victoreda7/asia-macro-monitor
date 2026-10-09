@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T06:42:43.430077+00:00",
- "collected_at_utc": "2026-10-09T06:42:43.430077+00:00",
+ "generated_at_utc": "2026-10-09T06:52:43.333075+00:00",
+ "collected_at_utc": "2026-10-09T06:52:43.333075+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 2967,
  "by_region": {
   "japan": 1209,
-  "china": 787,
+  "china": 788,
   "taiwan": 281,
-  "korea": 690
+  "korea": 689
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T06:25:47+00:00"
+   "newest": "2026-10-09T06:46:13+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T06:24:54+00:00"
+   "newest": "2026-10-09T06:42:29+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
    "newest": "2026-10-09T02:52:10+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T06:42:06+00:00"
+   "newest": "2026-10-09T06:51:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T01:57:57+00:00"
+   "newest": "2026-10-08T22:57:24+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T21:01:44+00:00"
+   "newest": "2026-10-09T06:36:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T16:44:23+00:00"
+   "newest": "2026-10-08T15:11:52+00:00"
   }
  ],
  "items": [
@@ -1550,6 +1550,24 @@
    "live_wire": false,
    "manual": false,
    "id": "3addcd9c6e025283"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China defends yuan policy as Europe steps up pressure over trade surplus",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMndSd19fTHdFQ01xZEp2Vzh5Zlg2M0g3YjhNTFNlZ3M5eUphc3RzNTAxcTh6LXlKSWpVTDI4dl9OR1VTM1pDZVhLa2dGbEZGMEdIVDNnT1hyRjh5WWRVN0xNcjRKVGdyclhndEF5cEo3V3p5aE9PTkdQWktTN1M2S1hRRFRnZ1F0NmYwWEJrUDBEcUZXYXE1ZFpfVEI4aWZqNnpkYTNJQ1FpZ2NpQ2tJR2c0eGFkeTRkenFpZTZYRmI4R292?oc=5",
+   "published_utc": "2026-10-08T11:32:00+00:00",
+   "title_original": "China defends yuan policy as Europe steps up pressure over trade surplus",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6e3c010d1d8e7639"
   },
   {
    "source_id": "tradingview_live",
@@ -51359,23 +51377,6 @@
    "live_wire": false,
    "manual": false,
    "id": "35e9d7d9440f746f"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일일보",
-   "title_en": "With a base interest rate in the 3% range, PF businesses are in ‘super emergency’",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NcnY2VjZwNTlwdmV6dDNsQjVSY3BfZWRsTkx3bU44SHFzcTdtQ1MwVmpQbGVfcldGV1FNZGVLRllhS2RmdGVIMkRSU29hM0Y0aTN1bG53MHJRdzFMVjdsZnZYeWfSAWhBVV95cUxNUFlTQk42STlPeFRXcUxhazAzWVg1TUZfbFEyZ3MtUTc1eEQxZE9jTnVqREdLRnBUc0lOckg4Nk9fVU51Y3lYZTZVUlRFUkpiVzhmc1A5cXNKQWxtdWZuZ084X3VqaGN2eg?oc=5",
-   "published_utc": "2026-09-09T06:44:56+00:00",
-   "title_original": "3%대 기준금리에 PF 사업장 '초비상'",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "aeadd8bab0bd734f"
   },
   {
    "source_id": "manual_ia",
