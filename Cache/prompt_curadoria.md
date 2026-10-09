@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T10:32:41.948012+00:00
-Total: 2969 manchetes
+Última coleta: 2026-10-09T10:42:44.409141+00:00
+Total: 2970 manchetes
 
   🇯🇵 Japão          1205
-  🇨🇳 China          798
+  🇨🇳 China          799
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
+  - [china] Gasoline margin down 9% on hopes of China export resumption
   - [china] Timespreads crunch as markets eye China exports resumption
   - [china] Dex-Lab, Subsidiary Of Novamsc, Secures 16 Million RGT Order In China
   - [japan] Starhill Global Real Estate Investment Trust Divests Ebisu Fort For Jpy 6.20 Billion
@@ -56,7 +57,6 @@ Total: 2969 manchetes
   - [china] China to resume fuel exports in Oct after holiday pause, Reuters reports
   - [japan] Asia stocks mixed; chipmakers slide on OpenAI revenue concerns
   - [japan] Issues with food consumption tax reduction: securing financial resources and impact on consumers
-  - [china] China to resume October fuel exports after a brief halt, four trade sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2969 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T10:32:42+00:00",
+      "published_utc": "2026-10-09T10:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

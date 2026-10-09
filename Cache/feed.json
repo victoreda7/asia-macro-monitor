@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T10:32:41.948012+00:00",
- "collected_at_utc": "2026-10-09T10:32:41.948012+00:00",
+ "generated_at_utc": "2026-10-09T10:42:44.409141+00:00",
+ "collected_at_utc": "2026-10-09T10:42:44.409141+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2969,
+ "count": 2970,
  "by_region": {
   "japan": 1205,
-  "china": 798,
+  "china": 799,
   "taiwan": 278,
   "korea": 688
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T10:22:53+00:00"
+   "newest": "2026-10-09T10:38:37+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T09:17:57+00:00"
+   "newest": "2026-10-09T10:32:06+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T10:32:00+00:00"
+   "newest": "2026-10-09T10:42:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T04:58:48+00:00"
+   "newest": "2026-10-09T08:02:19+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T10:20:00+00:00"
+   "newest": "2026-10-09T10:26:41+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Gasoline margin down 9% on hopes of China export resumption",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45V0A3:0-gasoline-margin-down-9-on-hopes-of-china-export-resumption/",
+   "published_utc": "2026-10-09T10:35:49+00:00",
+   "title_original": "Gasoline margin down 9% on hopes of China export resumption",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ee670dc4247fd0b7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1009,8 +1026,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -1024,7 +1041,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "tradingview_live",
@@ -3304,7 +3321,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "에너지경제신문",
    "title_en": "‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level from 2022",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CWkNRbkhPN2JGNVc0UlhBY1NjSGNNOEZaUUVrcmJleFBZWDIwZGdVSGE4cnpzTTk4c0V0MV9tZnhOYTNSa1JYQzlMSkJReHdJaVNacEZtMHp0ZG1QN2JVX0tDRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MzlGNzQzeHpCYkY4a3NJQXFzOVpITFNZekhOb3oyTU55Yjh3TDhWSjRBNGVsd2cwX0JBMWRER0VxUGNDYW05TzhuR0RtdmFJemtDMi16MWR5ak0?oc=5",
    "published_utc": "2026-10-08T01:14:13+00:00",
    "title_original": "‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM",
    "region": "korea",
@@ -3315,7 +3332,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "99c612b549c007d3"
+   "id": "f20de907c2a7b4c4"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4767,8 +4784,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -4782,7 +4799,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
