@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T07:22:43.531264+00:00
-Total: 2972 manchetes
+Última coleta: 2026-10-09T07:32:44.655369+00:00
+Total: 2973 manchetes
 
-  🇯🇵 Japão          1210
-  🇨🇳 China          790
+  🇯🇵 Japão          1209
+  🇨🇳 China          791
   🇹🇼 Taiwan         281
-  🇰🇷 Coreia do Sul  691
+  🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
@@ -22,6 +22,7 @@ Total: 2972 manchetes
   - [china] China's tax crackdown increases pressure on luxury brands as US spending weakens
   - [japan] Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”
   - [japan] Iseki&Co Ltd - To Buy Back Up To 1.46% Of Own Shares Worth 500 Million Yen
+  - [korea] It was found that the budget of 16 million won was used by the chairman of the Korea Education Facil..
   - [korea] Bank of Korea predicts ‘hawkish freeze’ in base interest rate in October… Additional U.S. tightening is a vari
   - [japan] Osg Corp - To Buy Back Up To 1.8% Of Own Shares Worth 5 Billion Yen
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
@@ -32,6 +33,7 @@ Total: 2972 manchetes
   - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
   - [japan] Is Kyushu experiencing a “warm and rainy winter”? Concerns about rising prices due to crop failures and poor c
   - [korea] South Korean Won Eases
+  - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to remain stable in October
   - [china] China's blue-chip stocks hit over one-year low on AI-linked supply chain selloff
   - [china] China to resume fuel exports in Oct after holiday pause, Reuters reports
   - [japan] Asia stocks mixed; chipmakers slide on OpenAI revenue concerns
@@ -55,8 +57,6 @@ Total: 2972 manchetes
   - [china] Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
   - [taiwan] US Moves to Reassure Taiwan as Trump-Xi Ties Stall Big Arms Deal
   - [japan] JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk
-  - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase operation today
-  - [china] The Central Bank of China: Today it launched a 2 billion yuan 7-day reverse repurchase operation, with a biddi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2972 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T07:22:43+00:00",
+      "published_utc": "2026-10-09T07:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
