@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T09:22:44.976405+00:00
-Total: 2970 manchetes
+Última coleta: 2026-10-09T09:30:56.288050+00:00
+Total: 2971 manchetes
 
-  🇯🇵 Japão          1205
-  🇨🇳 China          796
+  🇯🇵 Japão          1206
+  🇨🇳 China          797
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  691
+  🇰🇷 Coreia do Sul  690
 
 ## O que já está no feed (não repita)
 
   - [china] EU and China face crunch time in effort to avoid trade war
-  - [china] The central bank invested a net 100 billion yuan in open market government bond sales in September
   - [china] China ramps up fiscal push to meet growth target
+  - [china] The central bank invested a net 100 billion yuan in open market government bond sales in September
+  - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan
+  - [japan] Buy it in a hurry? Or wait and see? ...The Bank of Japan's interest rate hike will increase the burden of home
   - [korea] Just as important as preventing hacking is protecting the user's assets in the event of an accident...
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] China Says It Has No Intention of Depreciating Yuan to Boost Exports
@@ -55,8 +57,6 @@ Total: 2970 manchetes
   - [china] Can China use a widening US yield gap to build on the yuan’s global role?
   - [china] Yuan firms as dollar slips, PBOC rejects undervaluation claims amid EU talks
   - [korea] SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12
-  - [china] The central bank launches 2 billion yuan 7-day reverse repurchase operation
-  - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase, with a net withdrawal of 604 billion yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2970 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T09:22:45+00:00",
+      "published_utc": "2026-10-09T09:30:56+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
