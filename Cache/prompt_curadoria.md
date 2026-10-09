@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T07:12:43.393712+00:00
-Total: 2971 manchetes
+Última coleta: 2026-10-09T07:22:43.531264+00:00
+Total: 2972 manchetes
 
-  🇯🇵 Japão          1209
+  🇯🇵 Japão          1210
   🇨🇳 China          790
   🇹🇼 Taiwan         281
   🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar Likely to Stay in 155-160 Yen Range — Market Talk
   - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
   - [china] China's tax crackdown increases pressure on luxury brands as US spending weakens
   - [japan] Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”
@@ -56,7 +57,6 @@ Total: 2971 manchetes
   - [japan] JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk
   - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase operation today
   - [china] The Central Bank of China: Today it launched a 2 billion yuan 7-day reverse repurchase operation, with a biddi
-  - [japan] Japan MOF To Auction Y2.2T Of TD-Bills Oct 19
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2971 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T07:12:43+00:00",
+      "published_utc": "2026-10-09T07:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
