@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T04:42:41.557820+00:00
-Total: 2972 manchetes
+Última coleta: 2026-10-09T04:52:41.970002+00:00
+Total: 2971 manchetes
 
-  🇯🇵 Japão          1212
+  🇯🇵 Japão          1211
   🇨🇳 China          786
   🇹🇼 Taiwan         280
   🇰🇷 Coreia do Sul  694
@@ -18,16 +18,18 @@ Total: 2972 manchetes
 ## O que já está no feed (não repita)
 
   - [china] China's blue-chip stocks hit over one-year low on AI-linked supply chain selloff
+  - [china] China to resume fuel exports in Oct after holiday pause, Reuters reports
   - [japan] Issues with food consumption tax reduction: securing financial resources and impact on consumers
+  - [china] China to resume October fuel exports after a brief halt, four trade sources say
   - [japan] Stock prices fall Sell orders on AI/semiconductor related stocks
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
-  - [china] China to resume October fuel exports after a brief halt, four trade sources say
   - [japan] Japan PM vows to keep watching yen, inflation moves carefully
   - [japan] Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”
   - [taiwan] TSMC Revenue Likely to Be Driven by Continued Growth in AI Demand — Market Talk
   - [japan] Yen Set for Fourth Consecutive Weekly Decline
   - [china] Yuan firms as dollar slips, PBOC rejects undervaluation claims amid EU talks
   - [korea] SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12
+  - [china] The central bank launches 2 billion yuan 7-day reverse repurchase operation
   - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase, with a net withdrawal of 604 billion yuan
   - [taiwan] GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
   - [china] Offshore Yuan Rises as PBoC Defends Policy
@@ -37,7 +39,6 @@ Total: 2972 manchetes
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [china] Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
   - [japan] JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk
-  - [china] The central bank launches 2 billion yuan 7-day reverse repurchase operation
   - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase operation today
   - [china] The Central Bank of China: Today it launched a 2 billion yuan 7-day reverse repurchase operation, with a biddi
   - [japan] Japan MOF To Auction Y2.2T Of TD-Bills Oct 19
@@ -56,7 +57,6 @@ Total: 2972 manchetes
   - [china] Sumitomo Bakelite to boost chip encapsulant output in China, Singapore
   - [china] Synopsys plans to explore working with Chinese AI labs on chip design tech: report
   - [china] Synopsys looks to work with Chinese AI labs to speed up chip design
-  - [korea] Samsung, SK Hynix record earnings fuel South Korea spending on AI, youth
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2972 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T04:42:41+00:00",
+      "published_utc": "2026-10-09T04:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
