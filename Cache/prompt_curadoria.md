@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T07:53:06.184942+00:00
-Total: 2973 manchetes
+Última coleta: 2026-10-09T08:02:42.079614+00:00
+Total: 2974 manchetes
 
   🇯🇵 Japão          1209
-  🇨🇳 China          792
+  🇨🇳 China          793
   🇹🇼 Taiwan         280
   🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
+  - [china] China Says It Has No Intention of Depreciating Yuan to Boost Exports
   - [japan] Stock price decline narrows in the afternoon, buyback movement in semiconductor-related stocks
   - [china] China to support expansion of domestic demand, deepen fiscal reform
   - [japan] Dollar Likely to Stay in 155-160 Yen Range — Market Talk
@@ -27,7 +29,6 @@ Total: 2973 manchetes
   - [korea] It was found that the budget of 16 million won was used by the chairman of the Korea Education Facil..
   - [korea] Bank of Korea predicts ‘hawkish freeze’ in base interest rate in October… Additional U.S. tightening is a vari
   - [japan] Osg Corp - To Buy Back Up To 1.8% Of Own Shares Worth 5 Billion Yen
-  - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [japan] Citi sees limited upside for EUR/JPY amid intervention expectations
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [japan] Japan Machine Tool Orders Notch Fresh High
@@ -56,7 +57,6 @@ Total: 2973 manchetes
   - [china] CHINA PBOC CONDUCTS CNY2 BLN VIA 7-DAY REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7330 FRI VS 6.7367
   - [china] Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
-  - [taiwan] US Moves to Reassure Taiwan as Trump-Xi Ties Stall Big Arms Deal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2973 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T07:53:06+00:00",
+      "published_utc": "2026-10-09T08:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
