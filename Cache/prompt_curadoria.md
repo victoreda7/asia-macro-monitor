@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T12:52:44.109390+00:00
-Total: 2968 manchetes
+Última coleta: 2026-10-09T13:02:43.775845+00:00
+Total: 2969 manchetes
 
   🇯🇵 Japão          1205
-  🇨🇳 China          802
+  🇨🇳 China          803
   🇹🇼 Taiwan         276
   🇰🇷 Coreia do Sul  685
 
@@ -20,6 +20,7 @@ Total: 2968 manchetes
   - [china] China AI developers publish safety tests for just 3.6% of model releases, report finds
   - [china] Ecobank to join China's CIPS payments platform for yuan settlement
   - [china] China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
+  - [china] Breaking | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [japan] Govt. submits bill for consumption tax cut
   - [japan] Prime Minister Takaichi's economic growth rate and fiscal management targets "concrete inspection and verifica
   - [japan] Yen Falls Against Majors
@@ -41,6 +42,7 @@ Total: 2968 manchetes
   - [china] The central bank invested a net 100 billion yuan in open market government bond sales in September
   - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan
   - [japan] Buy it in a hurry? Or wait and see? ...The Bank of Japan's interest rate hike will increase the burden of home
+  - [japan] Prime Minister Takaichi held the 14th Economic and Fiscal Council Meeting in 2026
   - [korea] Just as important as preventing hacking is protecting the user's assets in the event of an accident...
   - [china] China Says It Has No Intention of Depreciating Yuan to Boost Exports
   - [japan] Stock price decline narrows in the afternoon, buyback movement in semiconductor-related stocks
@@ -55,8 +57,6 @@ Total: 2968 manchetes
   - [korea] Bank of Korea predicts ‘hawkish freeze’ in base interest rate in October… Additional U.S. tightening is a vari
   - [japan] Osg Corp - To Buy Back Up To 1.8% Of Own Shares Worth 5 Billion Yen
   - [japan] Citi sees limited upside for EUR/JPY amid intervention expectations
-  - [japan] Japan Machine Tool Orders Notch Fresh High
-  - [china] Broker Sucden Financial wants to clear LME metals trades in offshore yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2968 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T12:52:44+00:00",
+      "published_utc": "2026-10-09T13:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
