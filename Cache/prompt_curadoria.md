@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T21:32:41.190027+00:00
-Total: 2992 manchetes
+Última coleta: 2026-10-09T21:42:42.965739+00:00
+Total: 2993 manchetes
 
   🇯🇵 Japão          1208
-  🇨🇳 China          816
+  🇨🇳 China          817
   🇹🇼 Taiwan         279
   🇰🇷 Coreia do Sul  689
 
@@ -34,6 +34,7 @@ Total: 2992 manchetes
   - [china] China, EU strike deal to cut Chinese hybrid vehicle exports by over half
   - [china] Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas
   - [china] EU says it agrees with China to halve hybrid vehicle exports to EU
+  - [china] Developer of One Stanley pledges 6-year warranty and checks amid steel bar probe
   - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
   - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [japan] Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation contin
@@ -56,7 +57,6 @@ Total: 2992 manchetes
   - [china] Timespreads crunch as markets eye China exports resumption
   - [china] Dex-Lab, Subsidiary Of Novamsc, Secures 16 Million RGT Order In China
   - [japan] Starhill Global Real Estate Investment Trust Divests Ebisu Fort For Jpy 6.20 Billion
-  - [china] China steps up fiscal stimulus to meet growth targets (Reuters)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2992 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T21:32:41+00:00",
+      "published_utc": "2026-10-09T21:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
