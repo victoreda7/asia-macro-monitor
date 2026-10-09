@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T17:52:44.645997+00:00
+Última coleta: 2026-10-09T18:02:43.309630+00:00
 Total: 2991 manchetes
 
   🇯🇵 Japão          1210
@@ -45,7 +45,6 @@ Total: 2991 manchetes
   - [china] Developing | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [china] Breaking | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [japan] Govt. submits bill for consumption tax cut
-  - [japan] Govt. submits bill for consumption tax cut | NHK WORLD-JAPAN News
   - [japan] Prime Minister Takaichi's economic growth rate and fiscal management targets "concrete inspection and verifica
   - [japan] Yen Falls Against Majors
   - [china] China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan
@@ -57,6 +56,7 @@ Total: 2991 manchetes
   - [japan] Starhill Global Real Estate Investment Trust Divests Ebisu Fort For Jpy 6.20 Billion
   - [china] China steps up fiscal stimulus to meet growth targets (Reuters)
   - [china] Sales of Chinese-made Tesla electric vehicles accelerate in September
+  - [japan] Government Cabinet approves bill related to food consumption tax reduction
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2991 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T17:52:44+00:00",
+      "published_utc": "2026-10-09T18:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
