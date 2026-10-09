@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T07:32:44.655369+00:00
+Última coleta: 2026-10-09T07:53:06.184942+00:00
 Total: 2973 manchetes
 
   🇯🇵 Japão          1209
-  🇨🇳 China          791
-  🇹🇼 Taiwan         281
+  🇨🇳 China          792
+  🇹🇼 Taiwan         280
   🇰🇷 Coreia do Sul  692
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock price decline narrows in the afternoon, buyback movement in semiconductor-related stocks
+  - [china] China to support expansion of domestic demand, deepen fiscal reform
   - [japan] Dollar Likely to Stay in 155-160 Yen Range — Market Talk
   - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
   - [china] China's tax crackdown increases pressure on luxury brands as US spending weakens
@@ -39,7 +41,6 @@ Total: 2973 manchetes
   - [japan] Asia stocks mixed; chipmakers slide on OpenAI revenue concerns
   - [japan] Issues with food consumption tax reduction: securing financial resources and impact on consumers
   - [china] China to resume October fuel exports after a brief halt, four trade sources say
-  - [japan] Stock prices fall Sell orders on AI/semiconductor related stocks
   - [china] China to resume October fuel exports after holiday pause, sources say
   - [japan] Japan PM vows to keep watching yen, inflation moves carefully
   - [taiwan] TSMC Revenue Likely to Be Driven by Continued Growth in AI Demand — Market Talk
@@ -56,7 +57,6 @@ Total: 2973 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7330 FRI VS 6.7367
   - [china] Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
   - [taiwan] US Moves to Reassure Taiwan as Trump-Xi Ties Stall Big Arms Deal
-  - [japan] JGB Yields Lower Across Curve After U.S. Treasury Yield Declines — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2973 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T07:32:44+00:00",
+      "published_utc": "2026-10-09T07:53:06+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
