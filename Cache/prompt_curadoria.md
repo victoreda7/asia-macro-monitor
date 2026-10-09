@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T14:22:43.406958+00:00
-Total: 2974 manchetes
+Última coleta: 2026-10-09T14:32:46.227010+00:00
+Total: 2977 manchetes
 
-  🇯🇵 Japão          1207
-  🇨🇳 China          804
+  🇯🇵 Japão          1208
+  🇨🇳 China          806
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
+  - [china] Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas
+  - [china] EU says it agrees with China to halve hybrid vehicle exports to EU
   - [japan] Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation contin
   - [taiwan] Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says
   - [japan] Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk
   - [china] China AI developers publish safety tests for just 3.6% of model releases, report finds
   - [china] Ecobank to join China's CIPS payments platform for yuan settlement
-  - [china] China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
+  - [china] China agrees to slash EU hybrid car exports in half, putting brake on trade war
   - [china] Developing | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [china] Breaking | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [japan] Prime Minister Takaichi's economic growth rate and fiscal management targets "concrete inspection and verifica
@@ -55,8 +57,6 @@ Total: 2974 manchetes
   - [china] Uzum Says U.S. Investors Remain Interested Despite China Trade Tensions
   - [japan] Dollar Likely to Stay in 155-160 Yen Range — Market Talk
   - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
-  - [china] China's tax crackdown increases pressure on luxury brands as US spending weakens
-  - [japan] Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2974 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T14:22:43+00:00",
+      "published_utc": "2026-10-09T14:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
