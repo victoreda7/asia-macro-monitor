@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T09:30:56.288050+00:00",
- "collected_at_utc": "2026-10-09T09:30:56.288050+00:00",
+ "generated_at_utc": "2026-10-09T09:32:41.828763+00:00",
+ "collected_at_utc": "2026-10-09T09:32:41.828763+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2971,
+ "count": 2972,
  "by_region": {
   "japan": 1206,
-  "china": 797,
+  "china": 798,
   "taiwan": 278,
   "korea": 690
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T08:01:20+00:00"
+   "newest": "2026-10-09T09:31:20+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T09:21:48+00:00"
+   "newest": "2026-10-09T09:31:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T04:58:48+00:00"
+   "newest": "2026-10-09T08:02:19+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,43 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXZ6M05YN0JBUFl0WWtLN2V3Q2NIOWhpM3JCeHhld2JTdE5uQUc5SzQwd2VSOThsNmNaZ2RpRXltVEJCckpGT2xWdGhrQUtHekFmZk8zRGEzallKbHl5bDB5UmxrWEZPRy1wZWVrUm5LYXp6NnhyUHg0S2s3cXhwZm11eGVHWmJfR0dGdC1GV2VuREkza0hHRzdjd1VWWFc1dnZJTXBETC1CS3U2N0ZRYnh3cW52OGM?oc=5",
+   "published_utc": "2026-10-09T09:31:20+00:00",
+   "title_original": "How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0a587661a2419676"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's central bank buys net 100 billion yuan of sovereign bonds in September",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TNZZM:0-china-s-central-bank-buys-net-100-billion-yuan-of-sovereign-bonds-in-september/",
+   "published_utc": "2026-10-09T09:27:28+00:00",
+   "title_original": "China's central bank buys net 100 billion yuan of sovereign bonds in September",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e0812da0599e2369"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -452,24 +489,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6b911ceeffbc90e1"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXZ6M05YN0JBUFl0WWtLN2V3Q2NIOWhpM3JCeHhld2JTdE5uQUc5SzQwd2VSOThsNmNaZ2RpRXltVEJCckpGT2xWdGhrQUtHekFmZk8zRGEzallKbHl5bDB5UmxrWEZPRy1wZWVrUm5LYXp6NnhyUHg0S2s3cXhwZm11eGVHWmJfR0dGdC1GV2VuREkza0hHRzdjd1VWWFc1dnZJTXBETC1CS3U2N0ZRYnh3cW52OGM?oc=5",
-   "published_utc": "2026-10-09T08:01:20+00:00",
-   "title_original": "How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0a587661a2419676"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -887,8 +906,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -902,7 +921,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "tradingview_live",
@@ -3182,7 +3201,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "에너지경제신문",
    "title_en": "‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level from 2022",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MzlGNzQzeHpCYkY4a3NJQXFzOVpITFNZekhOb3oyTU55Yjh3TDhWSjRBNGVsd2cwX0JBMWRER0VxUGNDYW05TzhuR0RtdmFJemtDMi16MWR5ak0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CWkNRbkhPN2JGNVc0UlhBY1NjSGNNOEZaUUVrcmJleFBZWDIwZGdVSGE4cnpzTTk4c0V0MV9tZnhOYTNSa1JYQzlMSkJReHdJaVNacEZtMHp0ZG1QN2JVX0tDRQ?oc=5",
    "published_utc": "2026-10-08T01:14:13+00:00",
    "title_original": "‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM",
    "region": "korea",
@@ -3193,7 +3212,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f20de907c2a7b4c4"
+   "id": "99c612b549c007d3"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4645,8 +4664,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -4660,7 +4679,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -16679,6 +16698,23 @@
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
+   "title_en": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmY1bmJOSzlUYUtEZ1Bna3ZEM21LdXdyOEZYX3hpTkJ5THk2SG52WlQzcTRSOTl5SjRCS2JJYkZxYUdLRTNyanBhN0lsODBVeFM0cnlHbW4zamdOby0wNUltSWZxRnFkQkFVRV9famVYSDVvRHlCTjNpYzliQVJneUd0VHZmblFCSGh5ckdIX3paLXpXc3l5am9uaTdJNWRDaTdBWjl5dzJoOVplYWpHZXJkanJpY3FtU0pZaC1SRm1PNkdMUktkaWJ3?oc=5",
+   "published_utc": "2026-09-30T07:00:00+00:00",
+   "title_original": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "43fd139b9ffda4e0"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
    "title_en": "China’s Manufacturing Activity Returns to Expansion",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTk9yb2I4MEdHYUZ5bGZXRzI5Z2ZXMThXSGRIam1oUURVb3VEcGpNeWFOeUw1ellnSENrZG1VREJzbGVTOWYtdVhIcnhtWmhJNXZuZHduRUthVEdaTDFRQkpVLUx4WlJfcHRuNzBUY2tZYUNyb3pzdTh2VU9PekZIZXN1cDJ5MzJObF9Dcmc5bVpiY1VHZEJldkNkZjRCQ2MzUUFsMHJmbHU?oc=5",
    "published_utc": "2026-09-30T07:00:00+00:00",
@@ -18154,23 +18190,6 @@
    "live_wire": false,
    "manual": false,
    "id": "205895bdd253c1e0"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmY1bmJOSzlUYUtEZ1Bna3ZEM21LdXdyOEZYX3hpTkJ5THk2SG52WlQzcTRSOTl5SjRCS2JJYkZxYUdLRTNyanBhN0lsODBVeFM0cnlHbW4zamdOby0wNUltSWZxRnFkQkFVRV9famVYSDVvRHlCTjNpYzliQVJneUd0VHZmblFCSGh5ckdIX3paLXpXc3l5am9uaTdJNWRDaTdBWjl5dzJoOVplYWpHZXJkanJpY3FtU0pZaC1SRm1PNkdMUktkaWJ3?oc=5",
-   "published_utc": "2026-09-29T16:25:00+00:00",
-   "title_original": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "43fd139b9ffda4e0"
   },
   {
    "source_id": "gn_tw_taipeitimes",
