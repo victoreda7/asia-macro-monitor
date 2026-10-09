@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T08:15:22.429665+00:00
-Total: 2973 manchetes
+Última coleta: 2026-10-09T08:22:44.757627+00:00
+Total: 2974 manchetes
 
   🇯🇵 Japão          1209
-  🇨🇳 China          793
+  🇨🇳 China          794
   🇹🇼 Taiwan         280
   🇰🇷 Coreia do Sul  691
 
@@ -21,6 +21,7 @@ Total: 2973 manchetes
   - [china] China Says It Has No Intention of Depreciating Yuan to Boost Exports
   - [japan] Stock price decline narrows in the afternoon, buyback movement in semiconductor-related stocks
   - [china] China to support expansion of domestic demand, deepen fiscal reform
+  - [china] Uzum Says U.S. Investors Remain Interested Despite China Trade Tensions
   - [japan] Dollar Likely to Stay in 155-160 Yen Range — Market Talk
   - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
   - [china] China's tax crackdown increases pressure on luxury brands as US spending weakens
@@ -56,7 +57,6 @@ Total: 2973 manchetes
   - [china] China approves non-state crude oil import quota for 2027 at 257 million tons
   - [china] CHINA PBOC CONDUCTS CNY2 BLN VIA 7-DAY REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7330 FRI VS 6.7367
-  - [china] Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2973 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T08:15:22+00:00",
+      "published_utc": "2026-10-09T08:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
