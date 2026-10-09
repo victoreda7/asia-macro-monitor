@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T10:12:44.680370+00:00
-Total: 2968 manchetes
+Última coleta: 2026-10-09T10:22:43.236064+00:00
+Total: 2966 manchetes
 
-  🇯🇵 Japão          1205
+  🇯🇵 Japão          1204
   🇨🇳 China          796
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  689
+  🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
+  - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [japan] Japan Machine Tool Orders Surge 60.4% In September
   - [china] Sales of Chinese-made Tesla electric vehicles accelerate in September
   - [china] China's third batch of 2026 fuel export quotas down from year ago, sources say
@@ -41,7 +42,6 @@ Total: 2968 manchetes
   - [korea] Bank of Korea predicts ‘hawkish freeze’ in base interest rate in October… Additional U.S. tightening is a vari
   - [japan] Osg Corp - To Buy Back Up To 1.8% Of Own Shares Worth 5 Billion Yen
   - [japan] Citi sees limited upside for EUR/JPY amid intervention expectations
-  - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [japan] Japan Machine Tool Orders Notch Fresh High
   - [china] Broker Sucden Financial wants to clear LME metals trades in offshore yuan
   - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
@@ -116,7 +116,7 @@ Total: 2968 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T10:12:44+00:00",
+      "published_utc": "2026-10-09T10:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
