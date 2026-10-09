@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T07:02:44.717351+00:00",
- "collected_at_utc": "2026-10-09T07:02:44.717351+00:00",
+ "generated_at_utc": "2026-10-09T07:12:43.393712+00:00",
+ "collected_at_utc": "2026-10-09T07:12:43.393712+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2968,
+ "count": 2971,
  "by_region": {
   "japan": 1209,
-  "china": 789,
+  "china": 790,
   "taiwan": 281,
-  "korea": 689
+  "korea": 691
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T04:00:40+00:00"
+   "newest": "2026-10-09T04:01:29+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-09T15:59:29+00:00"
+   "newest": "2026-10-09T16:05:37+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "error": "",
-   "newest": "2026-10-09T01:30:00+00:00"
+   "newest": "2026-10-09T07:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T15:29:10+09:00"
+   "newest": "2026-10-09T16:07:09+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-09T15:12:59+09:00"
+   "newest": "2026-10-09T16:07:09+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "newest": "2026-10-09T02:52:10+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T07:02:08+00:00"
+   "newest": "2026-10-09T07:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,63 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T15:11:52+00:00"
+   "newest": "2026-10-09T06:39:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "SK chief eyes Gwangju chip fabs alongside Yongin cluster",
+   "url": "https://www.koreaherald.com/article/10897855",
+   "published_utc": "2026-10-09T07:12:41.328684+00:00",
+   "title_original": "SK chief eyes Gwangju chip fabs alongside Yongin cluster",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3b56730d22e5913a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's tax crackdown increases pressure on luxury brands as US spending weakens",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45V05K:0/",
+   "published_utc": "2026-10-09T07:08:38+00:00",
+   "title_original": "Repressão fiscal da China aumenta a pressão sobre as marcas de luxo, à medida que os gastos nos EUA enfraquecem",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "c5adbf8e31cbba55"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261009de56982",
+   "published_utc": "2026-10-09T07:07:09+00:00",
+   "title_original": "高市首相“消費税減税 国民1人あたりの負担軽減額 約3.6万円”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6bb48dec7fba6945"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -359,6 +412,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c4efbd42095129a4"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "국민일보",
+   "title_en": "Bank of Korea predicts ‘hawkish freeze’ in base interest rate in October… Additional U.S. tightening is a variable",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lc1k0TU00b0s5d21VdjBrX3NYMHRiUFhGeUR5cGpjaHRxS3NyVmExalhwTndoYkFsUVZncllJVnRjN19LdXhJamZycDVLNUFOMlVnZEZSekJLdTdNT1J4clVKOGFKd03SAWxBVV95cUxOd3BoNDRYRXJGVU5FV1VURW80amp1MkVIeGh5cVcyV2w4Zk1CVzRrazVmbHg0VGlNaXd3YVFUa3pfbGJHeS1WUnVuR2xISEplbVVoQVNtb20xV2tlVkFLNzhrTDZEZDU5SFZSOWQ?oc=5",
+   "published_utc": "2026-10-09T06:39:00+00:00",
+   "title_original": "한국은행 10월 기준금리 ‘매파적 동결’ 전망…美 추가 긴축은 변수",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e95c4e56dbe987e6"
   },
   {
    "source_id": "tradingview_live",
@@ -655,25 +725,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4d02197d7f3ae9d2"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261009de56982",
-   "published_utc": "2026-10-09T03:23:12+00:00",
-   "title_original": "高市首相“消費税減税 国民1人あたりの負担軽減額 約3.6万円”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6bb48dec7fba6945"
   },
   {
    "source_id": "tradingview_live",
@@ -2794,24 +2845,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank launched a 606 billion yuan overnight reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Y2lPa01jZVp0UDRYYjFHQXRnZUc3WWQxUzUtR05PZXk0Rm16TmdHaUVGWFB0dUVwdXRucTUzdWpFNTVKR3B6Q2dRUXRtRWlza0dIQ3JwVk91Q0htSzNNbg?oc=5",
-   "published_utc": "2026-10-08T01:25:42+00:00",
-   "title_original": "央行今日开展6060亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6bd83aa523635038"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "手机新浪网",
    "title_en": "The central bank's reverse repurchase is net withdrawn today..._7x24 News_Sina Finance",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQOWF0X2hodWFVdkdtTlpWOEdFQnB5WEc4dFUxd21ocE9UUGI3YldhU2dTNk1IQTcweHhlSV94Q1ZpYzVTZ2oxeEQzaG1Db0U?oc=5",
@@ -2883,7 +2916,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "에너지경제신문",
    "title_en": "‘It’s the same 3% base interest rate, but why is the atmosphere so different?’… DCM is on a different level from 2022",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CWkNRbkhPN2JGNVc0UlhBY1NjSGNNOEZaUUVrcmJleFBZWDIwZGdVSGE4cnpzTTk4c0V0MV9tZnhOYTNSa1JYQzlMSkJReHdJaVNacEZtMHp0ZG1QN2JVX0tDRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MzlGNzQzeHpCYkY4a3NJQXFzOVpITFNZekhOb3oyTU55Yjh3TDhWSjRBNGVsd2cwX0JBMWRER0VxUGNDYW05TzhuR0RtdmFJemtDMi16MWR5ak0?oc=5",
    "published_utc": "2026-10-08T01:14:13+00:00",
    "title_original": "‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM",
    "region": "korea",
@@ -2894,7 +2927,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "99c612b549c007d3"
+   "id": "f20de907c2a7b4c4"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4292,6 +4325,24 @@
    "live_wire": true,
    "manual": false,
    "id": "2153169fb6da80d8"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 606 billion yuan overnight reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvYjNlWjRPbThKSVUxaDBBVzYzamtyMFBZWXVIYWJsWFZtVWdnaXdZeXpSWWFRdDd6UWNybTRNODRVLXp2TldRTjVFZUxjZ2FveGdMMUZ5TUxTQk0?oc=5",
+   "published_utc": "2026-10-07T10:28:00+00:00",
+   "title_original": "央行今日开展6060亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0a92136c5038abfb"
   },
   {
    "source_id": "tradingview_live",
