@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T03:12:41.786737+00:00",
- "collected_at_utc": "2026-10-09T03:12:41.786737+00:00",
+ "generated_at_utc": "2026-10-09T03:22:43.181562+00:00",
+ "collected_at_utc": "2026-10-09T03:22:43.181562+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2979,
+ "count": 2983,
  "by_region": {
-  "japan": 1214,
-  "china": 789,
-  "taiwan": 280,
+  "japan": 1216,
+  "china": 790,
+  "taiwan": 281,
   "korea": 696
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T02:54:21+00:00"
+   "newest": "2026-10-09T02:56:31+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T03:01:52+00:00"
+   "newest": "2026-10-09T03:21:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,75 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan PM vows to keep watching yen, inflation moves carefully",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45V077:0-japan-pm-vows-to-keep-watching-yen-inflation-moves-carefully/",
+   "published_utc": "2026-10-09T03:16:09+00:00",
+   "title_original": "Japan PM vows to keep watching yen, inflation moves carefully",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "29c3d295563094d0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China to resume October fuel exports after a brief halt, four trade sources say",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45V07M:0-china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say/",
+   "published_utc": "2026-10-09T03:11:16+00:00",
+   "title_original": "China to resume October fuel exports after a brief halt, four trade sources say",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dad0dcbadd5b7ac2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Revenue Likely to Be Driven by Continued Growth in AI Demand — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261008009957:0-tsmc-revenue-likely-to-be-driven-by-continued-growth-in-ai-demand-market-talk/",
+   "published_utc": "2026-10-09T03:05:00+00:00",
+   "title_original": "TSMC Revenue Likely to Be Driven by Continued Growth in AI Demand — Market Talk",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "df40bf2be4d308b6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Yen Set for Fourth Consecutive Weekly Decline",
+   "url": "https://www.tradingview.com/news/te_news:590676:0-yen-set-for-fourth-consecutive-weekly-decline/",
+   "published_utc": "2026-10-09T03:01:42+00:00",
+   "title_original": "Yen Set for Fourth Consecutive Weekly Decline",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4a2d93db9fbbb663"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -33281,23 +33350,6 @@
    "id": "008434ebc302f747"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
-   "published_utc": "2026-09-18T15:23:15+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e62f309accc3d17"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Yuan Surges Past 6.7 per Dollar to Three-Year High",
@@ -46381,6 +46433,23 @@
    "live_wire": false,
    "manual": false,
    "id": "414e908396fee4ec"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EVUg2dmdoYllHTTl1b3A5LUpUS3d5dXZNVkJYNlcxOVlOWlhwZkJWaTdNRWNJWWU0SUNyLVFBUG1Mbll4U3VtcGd4eHlNd1pnTkF0MkdkVVpMaDRaWm1sVS1HYUtqQVBHWWNUQkhKTm11eHVGWVYxeENaNC0?oc=5",
+   "published_utc": "2026-09-11T07:00:00+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "00e0d68ad177fe2d"
   },
   {
    "source_id": "gn_jp_nhkworld",

@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T03:12:41.786737+00:00
-Total: 2979 manchetes
+Última coleta: 2026-10-09T03:22:43.181562+00:00
+Total: 2983 manchetes
 
-  🇯🇵 Japão          1214
-  🇨🇳 China          789
-  🇹🇼 Taiwan         280
+  🇯🇵 Japão          1216
+  🇨🇳 China          790
+  🇹🇼 Taiwan         281
   🇰🇷 Coreia do Sul  696
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan PM vows to keep watching yen, inflation moves carefully
+  - [china] China to resume October fuel exports after a brief halt, four trade sources say
+  - [taiwan] TSMC Revenue Likely to Be Driven by Continued Growth in AI Demand — Market Talk
+  - [japan] Yen Set for Fourth Consecutive Weekly Decline
   - [china] Yuan firms as dollar slips, PBOC rejects undervaluation claims amid EU talks
   - [korea] SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12
   - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase, with a net withdrawal of 604 billion yuan
@@ -53,10 +57,6 @@ Total: 2979 manchetes
   - [korea] Seoul shares down for 3rd day amid inflation worries
   - [korea] Samsung Electronics guides to huge surge in Q3 profits
   - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
-  - [china] Xin Yuan Enterprises Says Ocean Vivo To Make Pre-Conditional Voluntary Cash Offer
-  - [taiwan] TSMC Taps GlobalFoundries In $2B AI Chip Deal, Putting GFS Stock On Track To Hit Over 1-Month High
-  - [taiwan] Taiwan Semiconductor’s Sales Surged In September
-  - [china] China defende política do iuan enquanto Europa intensifica pressão sobre superávit comercial
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2979 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T03:12:41+00:00",
+      "published_utc": "2026-10-09T03:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
