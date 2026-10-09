@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-09T17:22:42.681232+00:00",
- "collected_at_utc": "2026-10-09T17:22:42.681232+00:00",
+ "generated_at_utc": "2026-10-09T17:32:42.381295+00:00",
+ "collected_at_utc": "2026-10-09T17:32:42.381295+00:00",
  "degraded": false,
  "sources_ok": 40,
  "sources_total": 41,
@@ -11,11 +11,11 @@
   "taiwan": 277,
   "korea": 687
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.5,
  "sources": [
   {
-   "source_id": "gn_jp_investing",
-   "name": "Investing Japan",
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
    "ok": false,
    "count": 0,
    "error": "sem resultados",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T03:59:06+00:00"
+   "newest": "2026-10-08T05:45:34+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -100,6 +100,14 @@
    "count": 10,
    "error": "",
    "newest": "2026-10-09T14:00:47+00:00"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "name": "Investing Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-09T12:06:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +160,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-09-24T07:00:00+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +275,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T17:22:02+00:00"
+   "newest": "2026-10-09T17:31:40+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -276,14 +284,6 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-09T11:02:21+00:00"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-29T13:14:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1368,24 +1368,6 @@
    "id": "78f37dba65211ecb"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Yuan Hits Four-Year High Versus Basket as PBOC Backs FX Policy",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHlibzVTNENDQ1JDSzVvMWZreHJQOHg5d05yMElKWVJrQ1ExWXNIZmwtc2FkZU50VGc5Y3dEQVQ4LWpfR2RkVWlBeW1YczBpa25id0hBY2phM0l4WHh3cmMtMUY0cWZvUWlZdXZBTWloVkFPRU1BS1BvYlpxZ1J2YjdLeW00ZHBDRVdkQ3VSMF9RcWNsc293T3VFUnBPdFNBWi1CM1R3T2Y4cFg1TVRmckx1dw?oc=5",
-   "published_utc": "2026-10-09T06:59:55+00:00",
-   "title_original": "Yuan Hits Four-Year High Versus Basket as PBOC Backs FX Policy",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3cd254cd7ac4ec72"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "국민일보",
    "title_en": "Bank of Korea predicts ‘hawkish freeze’ in base interest rate in October… Additional U.S. tightening is a variable",
@@ -1418,6 +1400,24 @@
    "live_wire": true,
    "manual": false,
    "id": "75de6dff1e0742fc"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Yuan Hits Four-Year High Versus Basket as PBOC Backs FX Policy",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHlibzVTNENDQ1JDSzVvMWZreHJQOHg5d05yMElKWVJrQ1ExWXNIZmwtc2FkZU50VGc5Y3dEQVQ4LWpfR2RkVWlBeW1YczBpa25id0hBY2phM0l4WHh3cmMtMUY0cWZvUWlZdXZBTWloVkFPRU1BS1BvYlpxZ1J2YjdLeW00ZHBDRVdkQ3VSMF9RcWNsc293T3VFUnBPdFNBWi1CM1R3T2Y4cFg1TVRmckx1dw?oc=5",
+   "published_utc": "2026-10-09T06:31:00+00:00",
+   "title_original": "Yuan Hits Four-Year High Versus Basket as PBOC Backs FX Policy",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3cd254cd7ac4ec72"
   },
   {
    "source_id": "investing_fx",
@@ -1803,7 +1803,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 2 billion yuan 7-day reverse repurchase, with a net withdrawal of 604 billion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NLUtwYWJNTUdNM3BDLVl5YVNJSk1UVW5relo5dlc4SjdPUXdpZUE5cV92QXdxcUhIMjVWcTlwWW41OUdselJUY3VJdEJVQUVEd0Z5UmtjNWVWdHFuS0V4Q3Zn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mVVRTb1h3aDNzUTVDdWdYcXBWVjJOa1ZKTDVyVVJHNUlScVUyMWVMMGpsdk5TYTNiOUdRdkgza1poamJtT3JtcFVMM1o4dw?oc=5",
    "published_utc": "2026-10-09T02:48:46+00:00",
    "title_original": "央行开展20亿元7天期逆回购 净回笼6040亿元",
    "region": "china",
@@ -1815,7 +1815,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "97cb06abb66d55f4"
+   "id": "c3f9d0258f4bd046"
   },
   {
    "source_id": "gn_cn_pboc",
