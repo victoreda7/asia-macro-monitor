@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T15:32:44.395860+00:00
-Total: 2985 manchetes
+Última coleta: 2026-10-09T15:42:43.466681+00:00
+Total: 2986 manchetes
 
-  🇯🇵 Japão          1208
+  🇯🇵 Japão          1209
   🇨🇳 China          812
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  688
@@ -35,6 +35,7 @@ Total: 2985 manchetes
   - [china] Developing | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [china] Breaking | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [japan] Govt. submits bill for consumption tax cut
+  - [japan] Govt. submits bill for consumption tax cut | NHK WORLD-JAPAN News
   - [japan] Prime Minister Takaichi's economic growth rate and fiscal management targets "concrete inspection and verifica
   - [japan] Yen Falls Against Majors
   - [china] China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan
@@ -56,7 +57,6 @@ Total: 2985 manchetes
   - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan
   - [japan] Buy it in a hurry? Or wait and see? ...The Bank of Japan's interest rate hike will increase the burden of home
   - [japan] Prime Minister Takaichi held the 14th Economic and Fiscal Council Meeting in 2026
-  - [korea] Just as important as preventing hacking is protecting the user's assets in the event of an accident...
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2985 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T15:32:44+00:00",
+      "published_utc": "2026-10-09T15:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
