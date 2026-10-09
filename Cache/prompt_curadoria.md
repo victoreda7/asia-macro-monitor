@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T06:52:43.333075+00:00
-Total: 2967 manchetes
+Última coleta: 2026-10-09T07:02:44.717351+00:00
+Total: 2968 manchetes
 
   🇯🇵 Japão          1209
-  🇨🇳 China          788
+  🇨🇳 China          789
   🇹🇼 Taiwan         281
   🇰🇷 Coreia do Sul  689
 
 ## O que já está no feed (não repita)
 
+  - [japan] Iseki&Co Ltd - To Buy Back Up To 1.46% Of Own Shares Worth 500 Million Yen
   - [japan] Osg Corp - To Buy Back Up To 1.8% Of Own Shares Worth 5 Billion Yen
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [japan] Citi sees limited upside for EUR/JPY amid intervention expectations
@@ -28,9 +29,11 @@ Total: 2967 manchetes
   - [korea] South Korean Won Eases
   - [china] China's blue-chip stocks hit over one-year low on AI-linked supply chain selloff
   - [china] China to resume fuel exports in Oct after holiday pause, Reuters reports
+  - [japan] Asia stocks mixed; chipmakers slide on OpenAI revenue concerns
   - [japan] Issues with food consumption tax reduction: securing financial resources and impact on consumers
   - [china] China to resume October fuel exports after a brief halt, four trade sources say
   - [japan] Stock prices fall Sell orders on AI/semiconductor related stocks
+  - [china] China to resume October fuel exports after holiday pause, sources say
   - [japan] Japan PM vows to keep watching yen, inflation moves carefully
   - [japan] Prime Minister Takaichi: “Consumption tax reduction: reduced burden per person of approximately 36,000 yen”
   - [taiwan] TSMC Revenue Likely to Be Driven by Continued Growth in AI Demand — Market Talk
@@ -54,9 +57,6 @@ Total: 2967 manchetes
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 16
   - [japan] Risk of rising European government bond yields (Bank of Japan) (Hiroyuki Kubota) - Expert
   - [korea] Key facts: Samsung Electronics (005930) Q3 Profit Jumps; Q4 Phone Cuts
-  - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
-  - [japan] JAPAN AUG HOUSEHOLD SPENDING Y/Y FALL LED BY LOWER PRIVATE UNIVERSITY TUITION, DOMESTIC PACKAGE TOUR COST, SUB
-  - [japan] JAPAN AUG REAL CORE HOUSEHOLD SPENDING (EX-HOUSING, VEHICLES, GIFT MONEY) -4.2% Y/Y VS. -1.4% IN JULY WHEN OVE
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2967 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T06:52:43+00:00",
+      "published_utc": "2026-10-09T07:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
