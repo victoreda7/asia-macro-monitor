@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T11:12:42.402810+00:00
-Total: 2969 manchetes
+Última coleta: 2026-10-09T11:22:42.049959+00:00
+Total: 2970 manchetes
 
   🇯🇵 Japão          1205
-  🇨🇳 China          799
+  🇨🇳 China          801
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  687
+  🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
+  - [china] China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan
+  - [china] Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say
   - [china] Yuan’s Global Role Is Expanding Beyond Trade,Execs Say
   - [china] Gasoline margin down 9% on hopes of China export resumption
   - [china] Timespreads crunch as markets eye China exports resumption
@@ -55,8 +57,6 @@ Total: 2969 manchetes
   - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to remain stable in October
   - [china] China's blue-chip stocks hit over one-year low on AI-linked supply chain selloff
   - [china] China to resume fuel exports in Oct after holiday pause, Reuters reports
-  - [japan] Asia stocks mixed; chipmakers slide on OpenAI revenue concerns
-  - [japan] Issues with food consumption tax reduction: securing financial resources and impact on consumers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2969 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T11:12:42+00:00",
+      "published_utc": "2026-10-09T11:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
