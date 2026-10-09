@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T11:52:48.798159+00:00
-Total: 2969 manchetes
+Última coleta: 2026-10-09T12:02:43.735740+00:00
+Total: 2970 manchetes
 
   🇯🇵 Japão          1206
-  🇨🇳 China          800
+  🇨🇳 China          801
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
-  - [japan] 高市首相 経済成長率や財政運営目標"点検・検証体制具体化を”
+  - [china] China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
+  - [japan] Prime Minister Takaichi's economic growth rate and fiscal management targets "concrete inspection and verifica
   - [japan] Yen Falls Against Majors
   - [china] China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan
   - [china] Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say
@@ -26,7 +27,7 @@ Total: 2969 manchetes
   - [china] Timespreads crunch as markets eye China exports resumption
   - [china] Dex-Lab, Subsidiary Of Novamsc, Secures 16 Million RGT Order In China
   - [japan] Starhill Global Real Estate Investment Trust Divests Ebisu Fort For Jpy 6.20 Billion
-  - [china] 中国、成長目標達成に向け財政刺激策を強化（ロイター）
+  - [china] China steps up fiscal stimulus to meet growth targets (Reuters)
   - [china] Sales of Chinese-made Tesla electric vehicles accelerate in September
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [japan] Japan Machine Tool Orders Surge 60.4% In September
@@ -56,7 +57,6 @@ Total: 2969 manchetes
   - [china] China Central Bank Defends Currency Policy Before EU Trade Talks
   - [japan] Is Kyushu experiencing a “warm and rainy winter”? Concerns about rising prices due to crop failures and poor c
   - [korea] South Korean Won Eases
-  - [china] Ecobank Taps Yuan Payments, Eyes Africa’s Trade With China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2969 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T11:52:49+00:00",
+      "published_utc": "2026-10-09T12:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
