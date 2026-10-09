@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T13:02:43.775845+00:00
-Total: 2969 manchetes
+Última coleta: 2026-10-09T13:12:46.323388+00:00
+Total: 2970 manchetes
 
-  🇯🇵 Japão          1205
-  🇨🇳 China          803
-  🇹🇼 Taiwan         276
-  🇰🇷 Coreia do Sul  685
+  🇯🇵 Japão          1206
+  🇨🇳 China          801
+  🇹🇼 Taiwan         277
+  🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says
+  - [japan] Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk
   - [china] China AI developers publish safety tests for just 3.6% of model releases, report finds
   - [china] Ecobank to join China's CIPS payments platform for yuan settlement
   - [china] China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
@@ -55,8 +57,6 @@ Total: 2969 manchetes
   - [japan] Iseki&Co Ltd - To Buy Back Up To 1.46% Of Own Shares Worth 500 Million Yen
   - [korea] It was found that the budget of 16 million won was used by the chairman of the Korea Education Facil..
   - [korea] Bank of Korea predicts ‘hawkish freeze’ in base interest rate in October… Additional U.S. tightening is a vari
-  - [japan] Osg Corp - To Buy Back Up To 1.8% Of Own Shares Worth 5 Billion Yen
-  - [japan] Citi sees limited upside for EUR/JPY amid intervention expectations
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2969 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T13:02:43+00:00",
+      "published_utc": "2026-10-09T13:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

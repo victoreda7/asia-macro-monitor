@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-09T13:02:43.775845+00:00",
- "collected_at_utc": "2026-10-09T13:02:43.775845+00:00",
+ "generated_at_utc": "2026-10-09T13:12:46.323388+00:00",
+ "collected_at_utc": "2026-10-09T13:12:46.323388+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2969,
+ "count": 2970,
  "by_region": {
-  "japan": 1205,
-  "china": 803,
-  "taiwan": 276,
-  "korea": 685
+  "japan": 1206,
+  "china": 801,
+  "taiwan": 277,
+  "korea": 686
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T10:54:46+00:00"
+   "newest": "2026-10-09T08:01:06+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T12:42:41+00:00"
+   "newest": "2026-10-09T12:50:10+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-09T12:51:57+00:00"
+   "newest": "2026-10-09T13:11:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T12:21:29+00:00"
+   "newest": "2026-10-09T12:47:19+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says",
+   "url": "https://www.tradingview.com/news/seekingalpha:dfcebbdff094b:0-taiwan-semiconductor-s-strong-q3-sales-a-positive-sign-for-q4-wedbush-says/",
+   "published_utc": "2026-10-09T13:05:14+00:00",
+   "title_original": "Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5fbd8ba861460890"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261009003576:0-potential-tax-free-incentive-for-holding-japanese-bonds-could-help-yen-market-talk/",
+   "published_utc": "2026-10-09T13:05:00+00:00",
+   "title_original": "Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7cf59d7c355563a5"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1476,40 +1510,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a8706ddabd927adc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY2 BLN VIA 7-DAY REVERSE REPO FRI",
-   "url": "https://www.tradingview.com/news/dpa_afx:a48c2bce82902:0-china-pboc-conducts-cny2-bln-via-7-day-reverse-repo-fri/",
-   "published_utc": "2026-10-09T02:13:17+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY2 BLN VIA 7-DAY REVERSE REPO FRI",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b355fae52b6e1679"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7330 FRI VS 6.7367",
-   "url": "https://www.tradingview.com/news/dpa_afx:369a9e50f2f4a:0-china-sets-yuan-central-parity-at-6-7330-fri-vs-6-7367/",
-   "published_utc": "2026-10-09T02:12:25+00:00",
-   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7330 FRI VS 6.7367",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bd1f5ad6a602a1cb"
   },
   {
    "source_id": "investing_econ",
@@ -3145,6 +3145,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bccedbef326c7d78"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "자본시장뉴스",
+   "title_en": "Kyung-Soo Yoon, head of the International Bureau, has been appointed as the new head of the Bank of Korea's Economic Research Institute.",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBISFJFcDJpcEtkZm1uaEtVTjFwVGtMb2dtR3phamFHUVU2YUFPWkE4TFVvTXFqYjZlLWVXSXJSZ2RicDZlekU0Mjd1NG83anZXWXdaZm5lYVlrbHQySzJYVEJmTXhJSFU?oc=5",
+   "published_utc": "2026-10-08T03:05:00+00:00",
+   "title_original": "한국은행 새 경제연구원장에 윤경수 국제국장 내정",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a98985b898a44a93"
   },
   {
    "source_id": "gn_kr_yonhap",
