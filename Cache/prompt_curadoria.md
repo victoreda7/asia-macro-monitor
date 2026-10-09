@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T01:12:42.516938+00:00
-Total: 2990 manchetes
+Última coleta: 2026-10-09T01:22:43.234939+00:00
+Total: 2992 manchetes
 
-  🇯🇵 Japão          1219
+  🇯🇵 Japão          1221
   🇨🇳 China          795
-  🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  698
+  🇹🇼 Taiwan         279
+  🇰🇷 Coreia do Sul  697
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan MOF To Auction Y2.2T Of TD-Bills Oct 19
+  - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 16
   - [japan] Government Cabinet approves bill related to food consumption tax reduction
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [korea] Key facts: Samsung Electronics (005930) Q3 Profit Jumps; Q4 Phone Cuts
@@ -55,8 +57,6 @@ Total: 2990 manchetes
   - [china] China has no need or intention to weaken yuan for trade edge, central bank says
   - [taiwan] Taiwan Trade Surplus Grows In September
   - [china] China's Central Bank Rejects Claims Yuan Is Undervalued
-  - [korea] Samsung, SK hynix face investor test as buybacks wind down
-  - [japan] Bank of Japan’s regional economic report “AI-related demand expands and production increases in many regions”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2990 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T01:12:42+00:00",
+      "published_utc": "2026-10-09T01:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
