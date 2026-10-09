@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-09T09:02:44.811572+00:00
+Última coleta: 2026-10-09T09:12:43.486912+00:00
 Total: 2967 manchetes
 
-  🇯🇵 Japão          1207
-  🇨🇳 China          792
+  🇯🇵 Japão          1205
+  🇨🇳 China          793
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  690
+  🇰🇷 Coreia do Sul  691
 
 ## O que já está no feed (não repita)
 
+  - [korea] Just as important as preventing hacking is protecting the user's assets in the event of an accident...
   - [china] How China’s Stimulus May Shore Up GDP While Reinforcing Imbalances
   - [china] China Says It Has No Intention of Depreciating Yuan to Boost Exports
   - [japan] Stock price decline narrows in the afternoon, buyback movement in semiconductor-related stocks
@@ -53,10 +54,9 @@ Total: 2967 manchetes
   - [korea] SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12
   - [china] The central bank launches 2 billion yuan 7-day reverse repurchase operation
   - [china] The central bank launched a 2 billion yuan 7-day reverse repurchase, with a net withdrawal of 604 billion yuan
+  - [china] The central bank carried out 2 billion yuan of 7-day reverse repurchase, with a net withdrawal of 604 billion 
   - [taiwan] GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap
   - [china] Offshore Yuan Rises as PBoC Defends Policy
-  - [china] China approves non-state crude oil import quota for 2027 at 257 million tons
-  - [china] CHINA PBOC CONDUCTS CNY2 BLN VIA 7-DAY REVERSE REPO FRI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2967 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-09T09:02:45+00:00",
+      "published_utc": "2026-10-09T09:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
