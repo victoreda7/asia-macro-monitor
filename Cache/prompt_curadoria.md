@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T03:42:41.809361+00:00
-Total: 2963 manchetes
+Última coleta: 2026-10-10T03:52:45.582934+00:00
+Total: 2965 manchetes
 
   🇯🇵 Japão          1186
   🇨🇳 China          817
-  🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  682
+  🇹🇼 Taiwan         279
+  🇰🇷 Coreia do Sul  683
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's Serious Crimes Investigation Agency plans to budget 16.9 billion won for government offices, but
+  - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 10 was zero
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 10 was zero
   - [china] Stocktwits Zero To Sixty — Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Ca
@@ -44,19 +46,17 @@ Total: 2963 manchetes
   - [china] Mercedes welcomes EU-China import deal for offering more predictability
   - [china] China Longyuan Power Posts Sept 2026 Power Generation Up 7.08% To 5.7 Million Mwh
   - [taiwan] OPPO To Launch Find X10 Pro Max With MediaTek 2nm Chip Globally
+  - [taiwan] ICC urges members to make sure it can continue despite US sanctions
   - [china] China, EU strike deal to cut Chinese hybrid vehicle exports by over half
   - [china] Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas
   - [china] EU says it agrees with China to halve hybrid vehicle exports to EU
   - [china] Developer of One Stanley pledges 6-year warranty and checks amid steel bar probe
   - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
-  - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [japan] Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation contin
   - [taiwan] Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says
   - [japan] Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk
   - [china] China AI developers publish safety tests for just 3.6% of model releases, report finds
   - [china] China Says It Has ‘Understanding’ With EU on Hybrid Car Exports
-  - [china] Ecobank to join China's CIPS payments platform for yuan settlement
-  - [china] China agrees to slash EU hybrid car exports in half, putting brake on trade war
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2963 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T03:42:42+00:00",
+      "published_utc": "2026-10-10T03:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
