@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T00:42:42.442779+00:00
-Total: 2985 manchetes
+Última coleta: 2026-10-10T00:52:44.718667+00:00
+Total: 2986 manchetes
 
-  🇯🇵 Japão          1203
+  🇯🇵 Japão          1204
   🇨🇳 China          817
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  687
 
 ## O que já está no feed (não repita)
 
+  - [japan] Why are bankruptcies at record high due to high prices?
   - [japan] Did the Bank of Japan achieve its price target? (Hiroyuki Kubota) - Expert
   - [japan] Nakayama Kinni-kun conducts a “real” price survey at an American supermarket.Although he is surprised by the 5
   - [china] Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China
@@ -56,7 +57,6 @@ Total: 2985 manchetes
   - [japan] Govt. submits bill for consumption tax cut
   - [japan] Prime Minister Takaichi's economic growth rate and fiscal management targets "concrete inspection and verifica
   - [japan] Yen Falls Against Majors
-  - [china] China Merchants Shekou Industrial Zone's September Contract Sales At 14.3 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2985 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T00:42:42+00:00",
+      "published_utc": "2026-10-10T00:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

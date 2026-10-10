@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-10T00:42:42.442779+00:00",
- "collected_at_utc": "2026-10-10T00:42:42.442779+00:00",
+ "generated_at_utc": "2026-10-10T00:52:44.718667+00:00",
+ "collected_at_utc": "2026-10-10T00:52:44.718667+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2985,
+ "count": 2986,
  "by_region": {
-  "japan": 1203,
+  "japan": 1204,
   "china": 817,
   "taiwan": 278,
   "korea": 687
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-10T00:24:23+00:00"
+   "newest": "2026-10-10T00:37:35+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-10T00:24:23+00:00"
+   "newest": "2026-10-10T00:37:35+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-09-24T07:00:00+00:00"
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-09T22:37:12+00:00"
+   "newest": "2026-10-10T00:51:36+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T23:03:31+00:00"
+   "newest": "2026-10-09T20:03:33+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-09T23:47:56+00:00"
+   "newest": "2026-10-10T00:49:04+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Why are bankruptcies at record high due to high prices?",
+   "url": "https://news.yahoo.co.jp/pickup/6598219?source=rss",
+   "published_utc": "2026-10-10T00:49:04+00:00",
+   "title_original": "物価高倒産が過去最多ペース なぜ",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f6078695d31e12e0"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -2197,6 +2214,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c02c446d99dbad42"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "The Bank of Korea turns hawkish... Will interest rates be raised in succession in July and August?",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11a3FYcGxCTXR1Nm96ektRMXoxZW01SWRZZ1BEem1GZGhTeEVIVzVtSmd2bkh3b3AwNnNITE9FQk81NkdlQTBxYk5TMHFlQkN5Wm1MM1NWby0tOHpKQkpTRWpISQ?oc=5",
+   "published_utc": "2026-10-08T21:50:29+00:00",
+   "title_original": "매파로 돌변한 한은…7월·8월 연속 금리 인상 나설까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff714d91aaa548c2"
   },
   {
    "source_id": "tradingview_live",
@@ -6830,23 +6864,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b611b75b66e08775"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "The Bank of Korea turns hawkish... Will interest rates be raised in succession in July and August?",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11a3FYcGxCTXR1Nm96ektRMXoxZW01SWRZZ1BEem1GZGhTeEVIVzVtSmd2bkh3b3AwNnNITE9FQk81NkdlQTBxYk5TMHFlQkN5Wm1MM1NWby0tOHpKQkpTRWpISQ?oc=5",
-   "published_utc": "2026-10-06T17:25:41+00:00",
-   "title_original": "매파로 돌변한 한은…7월·8월 연속 금리 인상 나설까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff714d91aaa548c2"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -25304,23 +25321,6 @@
    "id": "1594d8368ccaad01"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Citi sees yen strengthening on reduced foreign investment By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDZSQ0pPd1I2WWdQai1wQjhRTjNfUURmcVFZUzdWOUUxa0tVc2xhQndrbGtBaVh1b1V3ZkYySl80TlFQMVZ2T3F3dncwTDZTUGVPM2NaOWI3WUdKYjV2cnU1Y21SR2d1YWJNOFZZS3ZkbV9QNjZXN0xDRC00Z3o0T2dIUVhtOTE0UHRZclUwVDBtNFN5YkpUdGpGSWJhdFI4Z1A5aDZlclJYX3k1bGxsaTdqZVN6Zk9QbVE?oc=5",
-   "published_utc": "2026-09-25T09:08:00+00:00",
-   "title_original": "Citi sees yen strengthening on reduced foreign investment By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8ff3c8c7cef4727a"
-  },
-  {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
    "title_en": "Citi sees yen strengthening on reduced foreign investment",
@@ -25578,6 +25578,23 @@
    "live_wire": false,
    "manual": false,
    "id": "4396ed65fcb3cec4"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Citi sees yen strengthening on reduced foreign investment By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDZSQ0pPd1I2WWdQai1wQjhRTjNfUURmcVFZUzdWOUUxa0tVc2xhQndrbGtBaVh1b1V3ZkYySl80TlFQMVZ2T3F3dncwTDZTUGVPM2NaOWI3WUdKYjV2cnU1Y21SR2d1YWJNOFZZS3ZkbV9QNjZXN0xDRC00Z3o0T2dIUVhtOTE0UHRZclUwVDBtNFN5YkpUdGpGSWJhdFI4Z1A5aDZlclJYX3k1bGxsaTdqZVN6Zk9QbVE?oc=5",
+   "published_utc": "2026-09-25T07:00:00+00:00",
+   "title_original": "Citi sees yen strengthening on reduced foreign investment By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8ff3c8c7cef4727a"
   },
   {
    "source_id": "gn_jp_kyodo",
