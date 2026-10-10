@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T14:42:42.376843+00:00
-Total: 2895 manchetes
+Última coleta: 2026-10-10T14:52:42.066067+00:00
+Total: 2894 manchetes
 
   🇯🇵 Japão          1168
-  🇨🇳 China          804
+  🇨🇳 China          803
   🇹🇼 Taiwan         275
   🇰🇷 Coreia do Sul  648
 
 ## O que já está no feed (não repita)
 
+  - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
   - [china] China Passenger Vehicle Retail Sales Drop 24% in September
   - [japan] Top 15 Asian countries where prices are cheaper than Japan! Which country in Asia has the lowest prices? (LIMO
   - [china] China creates 10.52 million jobs, plans new AI and services employment measures
@@ -56,7 +57,6 @@ Total: 2895 manchetes
   - [china] Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas
   - [china] EU says it agrees with China to halve hybrid vehicle exports to EU
   - [taiwan] EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize
-  - [china] Developer of One Stanley pledges 6-year warranty and checks amid steel bar probe
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2895 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T14:42:42+00:00",
+      "published_utc": "2026-10-10T14:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

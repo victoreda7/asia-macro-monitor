@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-10T14:42:42.376843+00:00",
- "collected_at_utc": "2026-10-10T14:42:42.376843+00:00",
+ "generated_at_utc": "2026-10-10T14:52:42.066067+00:00",
+ "collected_at_utc": "2026-10-10T14:52:42.066067+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2895,
+ "count": 2894,
  "by_region": {
   "japan": 1168,
-  "china": 804,
+  "china": 803,
   "taiwan": 275,
   "korea": 648
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-10T23:41:05+09:00"
+   "newest": "2026-10-10T23:41:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-10T02:35:20+00:00"
+   "newest": "2026-10-10T14:37:54+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-10T14:37:01+00:00"
+   "newest": "2026-10-10T14:52:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T08:05:58+00:00"
+   "newest": "2026-10-10T11:06:23+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "https://www.mrjjxw.com/",
+   "title_en": "In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There are new changes in the mix of medium and long-term tools.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81a3ZLQkZyWFdfS1J1V1Y0SG5JZENnWG80cVB1eWpHV0ZMYkdXbUJLZzhDTnluVjFwdnRkUHFTcVB2OWFIZ2M5Ukp2dFdHZmx5d3JsVVJKb2JINGVHZk9MUUNqTmtQdw?oc=5",
+   "published_utc": "2026-10-10T14:37:54+00:00",
+   "title_original": "9月央行各项工具净投放流动性5564亿元 专家：中长期工具组合出现新变化",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b99978c934cc885a"
+  },
   {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
@@ -2216,7 +2234,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "TradingView",
    "title_en": "The unexpired balance of MLF of the Central Bank of China remains at 7.6 trillion yuan, and the next maturity will be 900 billion yuan on October 27",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55ekN6WS1qZDJwdk4weGt0LXBSU1BaUERmV2tMLUpUWVdZUmRkM1JtY2RHM0hFd2ZtOTRFLWFraUhrajFYZDdQSTlnVWtQX2tlazBiUllGTkk1RXMxMVRwTEFOQnp4dEpES1lMem85UmNRY3JicmlZ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42aFFOeElHR2hJd250NnVBUUJUMmJqaFZKWmhLeHgwcmdwWGt6Ti15bTVQOUJucnVEc1NQQ2JtdWQ0eWxXaGRDRkhrSDN5aElRUE9xU0NMckhVVnEtVEExR2lZbDljQ2RWNGd0eUNSUkN1TU9UVVB0Qw?oc=5",
    "published_utc": "2026-10-09T02:41:00+00:00",
    "title_original": "中国央行MLF未到期余额维持76,000亿元，下次到期在10月27日规模9,000亿",
    "region": "china",
@@ -2228,7 +2246,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "99ebdc3267c995f2"
+   "id": "a5b97b48da1c5992"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -50084,40 +50102,6 @@
    "live_wire": false,
    "manual": false,
    "id": "71c1e463f05ddd2b"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Foreign Holdings of China’s Onshore Yuan Assets Top 11 Trillion Yuan",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmFMSEc0clpTUEtOSW5QaUw4cE1GcndydmhzZjRlSzgxQVNITkI1b2U0V2hPNUg4aU13eXNWS3hLYUxRN2VFTk8wbURvOEhNQ3dDMEJ5bk9iYS1SZ0pHLXY1bUJBa1ozU1E4eWRXdVRrcFgwaTFZTkRObVBJVUptcGRZcW0xRzhJZ2hUMkotWGdlcFAyNTBIOWt1bVJDWVI2bHB0OTFKTmdDS2xYUzdIVk9PbHM1UFg0MF9EMTBPbw?oc=5",
-   "published_utc": "2026-09-10T14:48:00+00:00",
-   "title_original": "Foreign Holdings of China’s Onshore Yuan Assets Top 11 Trillion Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "813039d4b09c0a2e"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Foreign Holdings of China’s Onshore Yuan Assets Top $1.6 Trillion",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmFMSEc0clpTUEtOSW5QaUw4cE1GcndydmhzZjRlSzgxQVNITkI1b2U0V2hPNUg4aU13eXNWS3hLYUxRN2VFTk8wbURvOEhNQ3dDMEJ5bk9iYS1SZ0pHLXY1bUJBa1ozU1E4eWRXdVRrcFgwaTFZTkRObVBJVUptcGRZcW0xRzhJZ2hUMkotWGdlcFAyNTBIOWt1bVJDWVI2bHB0OTFKTmdDS2xYUzdIVk9PbHM1UFg0MF9EMTBPbw?oc=5",
-   "published_utc": "2026-09-10T14:48:00+00:00",
-   "title_original": "Foreign Holdings of China’s Onshore Yuan Assets Top $1.6 Trillion",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "48af9ef7df6ea321"
   },
   {
    "source_id": "manual_ia",
