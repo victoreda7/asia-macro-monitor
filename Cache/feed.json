@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-10T16:22:42.634428+00:00",
- "collected_at_utc": "2026-10-10T16:22:42.634428+00:00",
+ "generated_at_utc": "2026-10-10T16:32:41.784704+00:00",
+ "collected_at_utc": "2026-10-10T16:32:41.784704+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 2887,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 275,
   "korea": 645
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.6,
  "sources": [
-  {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -211,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T14:37:54+00:00"
+   "newest": "2026-10-10T15:40:18+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-10T16:20:30+00:00"
+   "newest": "2026-10-10T16:31:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T13:11:28+00:00"
+   "newest": "2026-10-10T11:38:14+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -334,6 +326,14 @@
    "newest": "2026-10-10T14:00:00+09:00"
   },
   {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-10T04:45:50+00:00"
+  },
+  {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There are new changes in the mix of medium and long-term tools.",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa005aHltd1Vrd2ZZNk45SVhrUy1MNFN0ZnJlTHE4aFdfcmhLQU1QTWV0NGNEdFIySmJBX2V1SVZqZnJ5VDIxUGV2aGJPY0JzLVg5OGFhTU9UeG1WVG15Z1l5RjZMaDRsUXJoN1VUMkdieE82N1VFM1k2V3ZYNGNqNWJrTTVUVFdyY0VJbE8tUWxLTGRaOGplLTJlTEVPX2Q1SjIxVW1lYUZqVjFfNXVKTVZwczc4ekFILW1WMEhaa2h5TDVMdU1ic2hlZ2NuRkloLS1RS0pnRVRSQ1RUc0NodGQ1NUkyOXdmZkRESi1KNzVPUl9ST0hNaA?oc=5",
+   "published_utc": "2026-10-10T15:40:18+00:00",
+   "title_original": "9月央行各项工具净投放流动性5564亿元 专家：中长期工具组合出现新变化",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2fdabb462ee26826"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -359,24 +377,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b2ec852e91721617"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "https://www.mrjjxw.com/",
-   "title_en": "In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There are new changes in the mix of medium and long-term tools.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81a3ZLQkZyWFdfS1J1V1Y0SG5JZENnWG80cVB1eWpHV0ZMYkdXbUJLZzhDTnluVjFwdnRkUHFTcVB2OWFIZ2M5Ukp2dFdHZmx5d3JsVVJKb2JINGVHZk9MUUNqTmtQdw?oc=5",
-   "published_utc": "2026-10-10T14:37:54+00:00",
-   "title_original": "9月央行各项工具净投放流动性5564亿元 专家：中长期工具组合出现新变化",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b99978c934cc885a"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2545,23 +2545,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c02c446d99dbad42"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "The Bank of Korea turns hawkish... Will interest rates be raised in succession in July and August?",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11a3FYcGxCTXR1Nm96ektRMXoxZW01SWRZZ1BEem1GZGhTeEVIVzVtSmd2bkh3b3AwNnNITE9FQk81NkdlQTBxYk5TMHFlQkN5Wm1MM1NWby0tOHpKQkpTRWpISQ?oc=5",
-   "published_utc": "2026-10-08T21:50:29+00:00",
-   "title_original": "매파로 돌변한 한은…7월·8월 연속 금리 인상 나설까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff714d91aaa548c2"
   },
   {
    "source_id": "tradingview_live",
@@ -7298,6 +7281,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b611b75b66e08775"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "The Bank of Korea turns hawkish... Will interest rates be raised in succession in July and August?",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11a3FYcGxCTXR1Nm96ektRMXoxZW01SWRZZ1BEem1GZGhTeEVIVzVtSmd2bkh3b3AwNnNITE9FQk81NkdlQTBxYk5TMHFlQkN5Wm1MM1NWby0tOHpKQkpTRWpISQ?oc=5",
+   "published_utc": "2026-10-06T17:25:41+00:00",
+   "title_original": "매파로 돌변한 한은…7월·8월 연속 금리 인상 나설까",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff714d91aaa548c2"
   },
   {
    "source_id": "gn_kr_reuters",
