@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T03:52:45.582934+00:00
-Total: 2965 manchetes
+Última coleta: 2026-10-10T04:02:42.917843+00:00
+Total: 2964 manchetes
 
-  🇯🇵 Japão          1186
+  🇯🇵 Japão          1187
   🇨🇳 China          817
   🇹🇼 Taiwan         279
-  🇰🇷 Coreia do Sul  683
+  🇰🇷 Coreia do Sul  681
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan turns academic success into an export industry
   - [korea] South Korea's Serious Crimes Investigation Agency plans to budget 16.9 billion won for government offices, but
   - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 10 was zero
@@ -56,7 +57,6 @@ Total: 2965 manchetes
   - [taiwan] Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says
   - [japan] Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk
   - [china] China AI developers publish safety tests for just 3.6% of model releases, report finds
-  - [china] China Says It Has ‘Understanding’ With EU on Hybrid Car Exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2965 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T03:52:45+00:00",
+      "published_utc": "2026-10-10T04:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-10T03:52:45.582934+00:00",
- "collected_at_utc": "2026-10-10T03:52:45.582934+00:00",
+ "generated_at_utc": "2026-10-10T04:02:42.917843+00:00",
+ "collected_at_utc": "2026-10-10T04:02:42.917843+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2965,
+ "count": 2964,
  "by_region": {
-  "japan": 1186,
+  "japan": 1187,
   "china": 817,
   "taiwan": 279,
-  "korea": 683
+  "korea": 681
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-10T03:50:03+00:00"
+   "newest": "2026-10-10T03:57:53+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T02:24:16+00:00"
+   "newest": "2026-10-10T02:00:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Japan turns academic success into an export industry",
+   "url": "https://asia.nikkei.com/business/business-trends/japan-turns-academic-success-into-an-export-industry",
+   "published_utc": "2026-10-10T04:02:42.330121+00:00",
+   "title_original": "Japan turns academic success into an export industry",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "23a379b605bf0561"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -944,8 +961,8 @@
    "id": "8c609259b9cb32c1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -959,7 +976,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -1134,8 +1151,8 @@
    "id": "0b47d3b41ca0bbf3"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -1149,7 +1166,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -1952,8 +1969,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -1967,7 +1984,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2054,24 +2071,6 @@
    "live_wire": false,
    "manual": false,
    "id": "869867c1ebdc0f11"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "经济观察网",
-   "title_en": "The central bank launches 2 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YdzhsS0NiZWlaeFhHZVJSYS15R3ZJamhzaElhdkVSQUlLc0VOSDE4NmFNMGwtWF81eHBPSDYzbEFHU3lJTDNUNU9HVUJGWFd0Wnh5NnhOZGQ?oc=5",
-   "published_utc": "2026-10-09T02:52:10+00:00",
-   "title_original": "央行开展20亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "73db63b6e6c67764"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2177,6 +2176,24 @@
    "live_wire": false,
    "manual": false,
    "id": "26b4d85f2dd47cdf"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中新经纬",
+   "title_en": "The central bank launches 2 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ySFhwWUJmU2VTWlV1R2U4S1J3ZnE1S3JVOWpYSnFyX0M1aWt5WTVUamJ1Q3BRNktTaEdxVlRMNTd6b0RmUlEzMGkxS25iZmo3ZTFkT0dCdlBKczc2ZkxsbUNSeFU?oc=5",
+   "published_utc": "2026-10-09T01:30:00+00:00",
+   "title_original": "央行开展20亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0ab8771da76bbccb"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5729,8 +5746,8 @@
    "id": "1861405b1421580a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi: “The best way to reduce consumption tax” “Thorough appropriate allocation of road budget”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55662",
    "published_utc": "2026-10-07T09:21:24+00:00",
@@ -5744,7 +5761,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "082ec485c7ba9e26"
+   "id": "92b58b5965a5d5e5"
   },
   {
    "source_id": "tradingview_live",
@@ -22246,6 +22263,24 @@
    "id": "c40b44ff5f4696ec"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Finance minister, BOK chief stress coordination to address uncertainties",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zbS1DTl9JVEhPWld2bWppOU1saFFxLTBqNGNoUnNIUFNwalBNQnI1MzJKcDh6OHN3aWJGM3hHSFRWQ3UzanBOd043ZnRTbXE2cjZrWkQtUE1pdw?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "title_original": "Finance minister, BOK chief stress coordination to address uncertainties",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7b2209db70369c1"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China Auto Subsidy Scheme Unravels, Leaving Consumers and Banks Exposed",
@@ -23018,24 +23053,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2acc34fe582203e4"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Finance minister, BOK chief stress coordination to address uncertainties",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zbS1DTl9JVEhPWld2bWppOU1saFFxLTBqNGNoUnNIUFNwalBNQnI1MzJKcDh6OHN3aWJGM3hHSFRWQ3UzanBOd043ZnRTbXE2cjZrWkQtUE1pdw?oc=5",
-   "published_utc": "2026-09-28T02:30:22+00:00",
-   "title_original": "Finance minister, BOK chief stress coordination to address uncertainties",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7b2209db70369c1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51299,40 +51316,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a73207425a99f9f0"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "The Bank of Korea “determines the pace of base interest rate increase depending on internal and external conditions”",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBOTGdzNE1qb1dTQnBwX3dNeXJrMG85Zk1VNHE3NmFqcE1URXpTeS1EWEY4WkZFcENBVGpBZnNaZnRPUUNsSkE?oc=5",
-   "published_utc": "2026-09-10T03:57:00+00:00",
-   "title_original": "한은 \"대내외 여건 따라 기준금리 인상 속도 결정\"",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c5b094ea5d282acb"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Bank of Korea to assess conditions to determine pace and timing of tightening, says board member",
-   "url": "https://www.investing.com/news/economy-news/bank-of-korea-to-assess-conditions-to-determine-pace-and-timing-of-tightening-says-board-member-4894909",
-   "published_utc": "2026-09-10T03:54:25+00:00",
-   "title_original": "Bank of Korea to assess conditions to determine pace and timing of tightening, says board member",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a88e6c2ebbb29225"
   },
   {
    "source_id": "manual_ia",
