@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T23:32:44.536501+00:00
-Total: 2881 manchetes
+Última coleta: 2026-10-10T23:45:29.523651+00:00
+Total: 2882 manchetes
 
-  🇯🇵 Japão          1163
+  🇯🇵 Japão          1164
   🇨🇳 China          797
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  644
 
 ## O que já está no feed (não repita)
 
+  - [japan] 47歳おひとりさま女性｢80平米マンション｣を手放し1LDK･注文住宅へ"自分サイズ"の｢2軒目の家｣ | ライフ | 東洋経済オンライン
   - [japan] 障害者50人 9カ月で雇用打ち切り
   - [taiwan] <5 trillion yen in total> Huge capital investment in Taiwan's semiconductor back-end process ``Packaging and t
   - [japan] Everpure director Mallun Yen sells $1.75m in shares
@@ -56,7 +57,6 @@ Total: 2881 manchetes
   - [china] China’s Oil Imports Look Set to Rise as Supertanker Fleet Swells
   - [japan] Japan's DOGE to 'step up' spending review, eyeing EV subsidies, health checks
   - [china] China-EU trade talks yield prospect of Chinese hybrid exports halving
-  - [china] Mercedes welcomes EU-China import deal for offering more predictability
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2881 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T23:32:44+00:00",
+      "published_utc": "2026-10-10T23:45:29+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
