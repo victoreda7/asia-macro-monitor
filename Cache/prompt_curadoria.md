@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T09:52:44.912615+00:00
+Última coleta: 2026-10-10T10:02:40.627521+00:00
 Total: 2911 manchetes
 
-  🇯🇵 Japão          1172
-  🇨🇳 China          812
+  🇯🇵 Japão          1171
+  🇨🇳 China          813
   🇹🇼 Taiwan         275
   🇰🇷 Coreia do Sul  652
 
@@ -23,6 +23,7 @@ Total: 2911 manchetes
   - [china] EU Says China Will Cut Hybrid Car Exports by Millions
   - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's
   - [japan] Japan turns academic success into an export industry
+  - [china] China Targets AI-Linked Jobs With New Employment Initiative
   - [korea] South Korea's Serious Crimes Investigation Agency plans to budget 16.9 billion won for government offices, but
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 10 was zero
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 10 was zero
@@ -56,7 +57,6 @@ Total: 2911 manchetes
   - [taiwan] EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize
   - [china] Developer of One Stanley pledges 6-year warranty and checks amid steel bar probe
   - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
-  - [japan] Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation contin
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2911 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T09:52:45+00:00",
+      "published_utc": "2026-10-10T10:02:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
