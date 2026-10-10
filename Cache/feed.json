@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-10T03:32:42.289869+00:00",
- "collected_at_utc": "2026-10-10T03:32:42.289869+00:00",
+ "generated_at_utc": "2026-10-10T03:42:41.809361+00:00",
+ "collected_at_utc": "2026-10-10T03:42:41.809361+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2965,
+ "count": 2963,
  "by_region": {
-  "japan": 1188,
+  "japan": 1186,
   "china": 817,
   "taiwan": 278,
   "korea": 682
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-09T09:18:37+00:00"
+   "newest": "2026-10-10T02:54:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T17:47:43+00:00"
+   "newest": "2026-10-10T01:32:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-10T03:26:37+00:00"
+   "newest": "2026-10-10T03:40:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -22211,6 +22211,24 @@
    "id": "c40b44ff5f4696ec"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Finance minister, BOK chief stress coordination to address uncertainties",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zbS1DTl9JVEhPWld2bWppOU1saFFxLTBqNGNoUnNIUFNwalBNQnI1MzJKcDh6OHN3aWJGM3hHSFRWQ3UzanBOd043ZnRTbXE2cjZrWkQtUE1pdw?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "title_original": "Finance minister, BOK chief stress coordination to address uncertainties",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7b2209db70369c1"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China Auto Subsidy Scheme Unravels, Leaving Consumers and Banks Exposed",
@@ -22983,24 +23001,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2acc34fe582203e4"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Finance minister, BOK chief stress coordination to address uncertainties",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zbS1DTl9JVEhPWld2bWppOU1saFFxLTBqNGNoUnNIUFNwalBNQnI1MzJKcDh6OHN3aWJGM3hHSFRWQ3UzanBOd043ZnRTbXE2cjZrWkQtUE1pdw?oc=5",
-   "published_utc": "2026-09-28T02:30:22+00:00",
-   "title_original": "Finance minister, BOK chief stress coordination to address uncertainties",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7b2209db70369c1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51298,44 +51298,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a88e6c2ebbb29225"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The dollar was in the mid-153 yen range in the morning, moving up and down after the Bank of Japan member's statement, waiting for the US price index (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQjZ2OW9NaVZJa3FNazI4RlIza19XVWFLWWFzTFJ0YkxGSUNmbVVYWXd5UFNPSGxxLUcyMEU0TG1QTXNqYW1IT01LeTFxOGoxX3VnSTNsZGpHNVctMnVobDhSTXBMaGRRWEprM1dRaUhtYjRFdWJSeW0yNXJ2ZUE?oc=5",
-   "published_utc": "2026-09-10T03:40:51+00:00",
-   "title_original": "午前のドルは153円半ば、増日銀委員発言後に上下 米物価指標待ち（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3ed28f2224ded55a"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The dollar was in the mid-153 yen range in the morning, moving up and down after BOJ member's statement, waiting for US price index (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSUE1OUxkN0VuLVdMOVRRX0pjdkZ6RG9MR3pKYlRqM2hFMElMWXV3SnVmV05acFhCWEYxNjREZklvVm4yRXIyM1EyX0FlV3d0SGI0WTdtR3VTTHgtNUV1ZWppaEJaRXFwNVZlYzZHMGRScmdIbXBGYlh0bFkwRmkwWHdnMkhYa2V3XzFocmdn?oc=5",
-   "published_utc": "2026-09-10T03:40:51+00:00",
-   "title_original": "午前のドルは153円半ば、増日銀委員発言後に上下 米物価指標待ち (ロイター)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0c3b594803379ed2"
   },
   {
    "source_id": "manual_ia",
