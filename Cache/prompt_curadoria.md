@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T00:52:44.718667+00:00
-Total: 2986 manchetes
+Última coleta: 2026-10-10T01:02:42.891696+00:00
+Total: 2988 manchetes
 
   🇯🇵 Japão          1204
-  🇨🇳 China          817
+  🇨🇳 China          819
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  687
 
 ## O que já está no feed (não repita)
 
+  - [china] Stocktwits Zero To Sixty — Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Ca
   - [japan] Why are bankruptcies at record high due to high prices?
   - [japan] Did the Bank of Japan achieve its price target? (Hiroyuki Kubota) - Expert
   - [japan] Nakayama Kinni-kun conducts a “real” price survey at an American supermarket.Although he is surprised by the 5
@@ -25,6 +26,7 @@ Total: 2986 manchetes
   - [japan] Japan food tax cut gets cabinet approval with key questions unanswered
   - [china] Super Micro Contractor Pleads Guilty In Scheme To Divert Computer Servers Built With Nvidia AI Chips To China
   - [china] China and EU discuss trade conflict EU "to curb exports from China"
+  - [china] The central bank uses multiple tools to protect liquidity and funds are expected to remain stable in October |
   - [japan] Japan machine tool order backlog hits all-time high on AI demand
   - [korea] BOK Financial Price Target Cut to $146.00/Share From $149.00 by RBC Capital
   - [china] China, EU strike deal to halve Chinese hybrid exports
@@ -55,8 +57,6 @@ Total: 2986 manchetes
   - [china] Breaking | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [japan] Govt. submits bill for consumption tax cut | NHK WORLD-JAPAN News
   - [japan] Govt. submits bill for consumption tax cut
-  - [japan] Prime Minister Takaichi's economic growth rate and fiscal management targets "concrete inspection and verifica
-  - [japan] Yen Falls Against Majors
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2986 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T00:52:44+00:00",
+      "published_utc": "2026-10-10T01:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
