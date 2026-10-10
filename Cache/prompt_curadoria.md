@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T07:12:42.594622+00:00
+Última coleta: 2026-10-10T07:22:41.249825+00:00
 Total: 2928 manchetes
 
-  🇯🇵 Japão          1173
-  🇨🇳 China          818
+  🇯🇵 Japão          1172
+  🇨🇳 China          819
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  660
 
 ## O que já está no feed (não repita)
 
+  - [china] China creates 10.52 million jobs, plans new AI and services employment measures
   - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's
   - [japan] Japan turns academic success into an export industry
   - [korea] South Korea's Serious Crimes Investigation Agency plans to budget 16.9 billion won for government offices, but
@@ -35,7 +36,6 @@ Total: 2928 manchetes
   - [china] The central bank uses multiple tools to protect liquidity and funds are expected to remain stable in October |
   - [japan] Japan machine tool order backlog hits all-time high on AI demand
   - [korea] BOK Financial Price Target Cut to $146.00/Share From $149.00 by RBC Capital
-  - [china] China, EU strike deal to halve Chinese hybrid exports
   - [china] EU Says it Reached Understanding with China to Cut Back Hybrid Vehicle Exports — Update
   - [china] Tariffs targeting China's Temu, Shein shrink US small parcel deliveries
   - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
@@ -116,7 +116,7 @@ Total: 2928 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T07:12:42+00:00",
+      "published_utc": "2026-10-10T07:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
