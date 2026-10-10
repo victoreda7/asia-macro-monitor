@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T16:12:42.670174+00:00
+Última coleta: 2026-10-10T16:22:42.634428+00:00
 Total: 2887 manchetes
 
   🇯🇵 Japão          1168
@@ -17,8 +17,8 @@ Total: 2887 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
   - [taiwan] Insider trades: P&G, Marvell Technology, TSMC among notable names
+  - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
   - [china] China Passenger Vehicle Retail Sales Drop 24% in September
   - [japan] Top 15 Asian countries where prices are cheaper than Japan! Which country in Asia has the lowest prices? (LIMO
   - [china] China creates 10.52 million jobs, plans new AI and services employment measures
@@ -116,7 +116,7 @@ Total: 2887 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T16:12:42+00:00",
+      "published_utc": "2026-10-10T16:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

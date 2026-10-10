@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-10T16:12:42.670174+00:00",
- "collected_at_utc": "2026-10-10T16:12:42.670174+00:00",
+ "generated_at_utc": "2026-10-10T16:22:42.634428+00:00",
+ "collected_at_utc": "2026-10-10T16:22:42.634428+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 2887,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 275,
   "korea": 645
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.9,
  "sources": [
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-10T15:46:12+00:00"
+   "newest": "2026-10-10T15:54:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -203,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T15:22:12+00:00"
+   "newest": "2026-10-10T14:37:54+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +275,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-10T16:05:50+00:00"
+   "newest": "2026-10-10T16:20:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T11:06:23+00:00"
+   "newest": "2026-10-10T14:06:55+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -326,14 +334,6 @@
    "newest": "2026-10-10T14:00:00+09:00"
   },
   {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-10T04:45:50+00:00"
-  },
-  {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
@@ -343,24 +343,6 @@
   }
  ],
  "items": [
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There are new changes in the mix of medium and long-term tools.",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWVhZdzBFejQ2SjhjZHdqQ2NwRVZ0VUZyUVlZdjkzeEUwZElKWnZQeWtTeTRvbVFPVElnRVRrQkFvLUNSVG54aVdvc1VRVjhpbnVRS2hTZW9TZUI1NkR5THU4b2VTVTJFa0RGVFN3Z3ZtQklSbTI5aU1aZHctcjJNVWNDT0tZUGstRi1nVFpuekd5dUIxa3hiSjR6SVZBSVRIX2pQNTJtck1mWUY3cUJEeW5rV29XWEViMHVIeklpWVV6Q20wRE5xZ2lLZWY5QlY1SnVWM2tUcnUwa0RKVld4LUo0Rlg5QlFoaXNFM2dHX3JrMHFSUFczd1Vsd1JCNC13Q1dkdW1RWVRsbnp6?oc=5",
-   "published_utc": "2026-10-10T15:22:12+00:00",
-   "title_original": "9月央行各项工具净投放流动性5564亿元 专家：中长期工具组合出现新变化",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "17190720b544237b"
-  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -377,6 +359,24 @@
    "live_wire": true,
    "manual": false,
    "id": "b2ec852e91721617"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "https://www.mrjjxw.com/",
+   "title_en": "In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There are new changes in the mix of medium and long-term tools.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81a3ZLQkZyWFdfS1J1V1Y0SG5JZENnWG80cVB1eWpHV0ZMYkdXbUJLZzhDTnluVjFwdnRkUHFTcVB2OWFIZ2M5Ukp2dFdHZmx5d3JsVVJKb2JINGVHZk9MUUNqTmtQdw?oc=5",
+   "published_utc": "2026-10-10T14:37:54+00:00",
+   "title_original": "9月央行各项工具净投放流动性5564亿元 专家：中长期工具组合出现新变化",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b99978c934cc885a"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1551,6 +1551,23 @@
    "id": "f9e2d59dbfe8b52a"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China to resume October fuel exports after holiday pause, sources say",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1hqTEMxUXNhdTUya2dwTlA2VVktRm9QeWlYcDRJWkFiaGg4aXhpcTBFcnJETDJUZDZQRHdIdVBiVFl6UFdNU0VCdFlTRHhaaVk3akVSazBsN3QwOXBSUHFjckM4TWc4LUtIdzNyc2kyM0RjclFNOG1QYkplX3ljOHBFR1NibFRwUS1QMHAyd3ZhZjZTZGtoMmVjbGsyUWdaQ01FV21jSFFiM1FrQ0U4eHRYOTRUZlRTeTRlRFJVOFh4RVk?oc=5",
+   "published_utc": "2026-10-09T09:22:04+00:00",
+   "title_original": "China to resume October fuel exports after holiday pause, sources say",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d95e8223c8dbff0c"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "China ramps up fiscal push to meet growth target",
@@ -2124,23 +2141,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de7298f8b947b602"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China to resume October fuel exports after holiday pause, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1hqTEMxUXNhdTUya2dwTlA2VVktRm9QeWlYcDRJWkFiaGg4aXhpcTBFcnJETDJUZDZQRHdIdVBiVFl6UFdNU0VCdFlTRHhaaVk3akVSazBsN3QwOXBSUHFjckM4TWc4LUtIdzNyc2kyM0RjclFNOG1QYkplX3ljOHBFR1NibFRwUS1QMHAyd3ZhZjZTZGtoMmVjbGsyUWdaQ01FV21jSFFiM1FrQ0U4eHRYOTRUZlRTeTRlRFJVOFh4RVk?oc=5",
-   "published_utc": "2026-10-09T03:28:00+00:00",
-   "title_original": "China to resume October fuel exports after holiday pause, sources say",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d95e8223c8dbff0c"
   },
   {
    "source_id": "investing_econ",
