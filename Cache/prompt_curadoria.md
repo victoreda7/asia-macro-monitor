@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T22:52:40.992475+00:00
-Total: 2880 manchetes
+Última coleta: 2026-10-10T23:02:43.839453+00:00
+Total: 2881 manchetes
 
-  🇯🇵 Japão          1162
+  🇯🇵 Japão          1163
   🇨🇳 China          797
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  644
 
 ## O que já está no feed (não repita)
 
+  - [japan] 障害者50人 9カ月で雇用打ち切り
   - [taiwan] <5 trillion yen in total> Huge capital investment in Taiwan's semiconductor back-end process ``Packaging and t
   - [japan] Everpure director Mallun Yen sells $1.75m in shares
   - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
@@ -56,7 +57,6 @@ Total: 2880 manchetes
   - [japan] Japan's DOGE to 'step up' spending review, eyeing EV subsidies, health checks
   - [china] China-EU trade talks yield prospect of Chinese hybrid exports halving
   - [china] Mercedes welcomes EU-China import deal for offering more predictability
-  - [china] China Longyuan Power Posts Sept 2026 Power Generation Up 7.08% To 5.7 Million Mwh
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2880 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T22:52:41+00:00",
+      "published_utc": "2026-10-10T23:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
