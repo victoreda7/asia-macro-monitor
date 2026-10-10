@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T01:42:41.296910+00:00
-Total: 2984 manchetes
+Última coleta: 2026-10-10T01:52:44.786241+00:00
+Total: 2983 manchetes
 
-  🇯🇵 Japão          1200
-  🇨🇳 China          817
+  🇯🇵 Japão          1199
+  🇨🇳 China          818
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  689
+  🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank’s 7-day reverse repurchase operation volume on October 10 was zero
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 10 was zero
   - [china] Stocktwits Zero To Sixty — Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Ca
   - [japan] Why are bankruptcies at record high due to high prices?
@@ -56,7 +57,6 @@ Total: 2984 manchetes
   - [china] China Says It Has ‘Understanding’ With EU on Hybrid Car Exports
   - [china] Ecobank to join China's CIPS payments platform for yuan settlement
   - [china] China agrees to slash EU hybrid car exports in half, putting brake on trade war
-  - [china] Developing | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2984 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T01:42:41+00:00",
+      "published_utc": "2026-10-10T01:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
