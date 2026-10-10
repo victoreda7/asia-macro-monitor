@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T13:12:42.515484+00:00
+Última coleta: 2026-10-10T13:22:45.337921+00:00
 Total: 2897 manchetes
 
-  🇯🇵 Japão          1170
-  🇨🇳 China          804
+  🇯🇵 Japão          1169
+  🇨🇳 China          805
   🇹🇼 Taiwan         275
   🇰🇷 Coreia do Sul  648
 
 ## O que já está no feed (não repita)
 
+  - [china] China Passenger Vehicle Retail Sales Drop 24% in September
   - [japan] Top 15 Asian countries where prices are cheaper than Japan! Which country in Asia has the lowest prices? (LIMO
   - [china] China creates 10.52 million jobs, plans new AI and services employment measures
   - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
@@ -56,7 +57,6 @@ Total: 2897 manchetes
   - [china] EU says it agrees with China to halve hybrid vehicle exports to EU
   - [taiwan] EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize
   - [china] Developer of One Stanley pledges 6-year warranty and checks amid steel bar probe
-  - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2897 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T13:12:42+00:00",
+      "published_utc": "2026-10-10T13:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
