@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T04:42:43.916515+00:00
-Total: 2958 manchetes
+Última coleta: 2026-10-10T04:52:41.811128+00:00
+Total: 2959 manchetes
 
   🇯🇵 Japão          1184
-  🇨🇳 China          817
+  🇨🇳 China          818
   🇹🇼 Taiwan         279
   🇰🇷 Coreia do Sul  678
 
@@ -54,9 +54,9 @@ Total: 2958 manchetes
   - [taiwan] EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize
   - [china] Developer of One Stanley pledges 6-year warranty and checks amid steel bar probe
   - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
+  - [china] EU Says China Will Cut Hybrid Car Exports by Millions
   - [japan] Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation contin
   - [taiwan] Taiwan Semiconductor's strong Q3 sales a positive sign for Q4, Wedbush says
-  - [japan] Potential Tax-Free Incentive For Holding Japanese Bonds Could Help Yen — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2958 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T04:42:44+00:00",
+      "published_utc": "2026-10-10T04:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
