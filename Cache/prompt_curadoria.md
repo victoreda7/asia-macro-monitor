@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T20:22:43.006310+00:00
+Última coleta: 2026-10-10T20:32:42.109556+00:00
 Total: 2882 manchetes
 
-  🇯🇵 Japão          1165
-  🇨🇳 China          797
+  🇯🇵 Japão          1164
+  🇨🇳 China          798
   🇹🇼 Taiwan         276
   🇰🇷 Coreia do Sul  644
 
@@ -20,6 +20,7 @@ Total: 2882 manchetes
   - [japan] Everpure director Mallun Yen sells $1.75m in shares
   - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
   - [taiwan] Insider trades: P&G, Marvell Technology, TSMC among notable names
+  - [china] EU Plans Measures to Cut Imports of Chinese Hybrid Cars by Half
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit
   - [china] China Passenger Vehicle Retail Sales Drop 24% in September
   - [japan] Top 15 Asian countries where prices are cheaper than Japan! Which country in Asia has the lowest prices? (LIMO
@@ -56,7 +57,6 @@ Total: 2882 manchetes
   - [china] Mercedes welcomes EU-China import deal for offering more predictability
   - [china] China Longyuan Power Posts Sept 2026 Power Generation Up 7.08% To 5.7 Million Mwh
   - [taiwan] OPPO To Launch Find X10 Pro Max With MediaTek 2nm Chip Globally
-  - [taiwan] ICC urges members to make sure it can continue despite US sanctions
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2882 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T20:22:43+00:00",
+      "published_utc": "2026-10-10T20:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
