@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-10T09:02:41.222079+00:00",
- "collected_at_utc": "2026-10-10T09:02:41.222079+00:00",
+ "generated_at_utc": "2026-10-10T09:12:42.779841+00:00",
+ "collected_at_utc": "2026-10-10T09:12:42.779841+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2919,
+ "count": 2917,
  "by_region": {
   "japan": 1173,
-  "china": 815,
-  "taiwan": 276,
+  "china": 814,
+  "taiwan": 275,
   "korea": 655
  },
- "elapsed_s": 29.0,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-10T08:34:46+00:00"
+   "newest": "2026-10-10T08:15:28+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-10T07:43:28+00:00"
+   "newest": "2026-10-10T08:48:20+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-07T06:38:00+00:00"
+   "newest": "2026-10-08T12:40:49+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T08:30:40+00:00"
+   "newest": "2026-10-10T09:05:52+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Top 15 Asian countries where prices are cheaper than Japan! Which country in Asia has the lowest prices? (LIMO)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qUlRBS0liZC1GUXZPWjUxdzQ1T1IwUGZPaTdXY0p5aUw0ZkVuREZYaVpsY1FLRk4xVWpXLXdPelBZM2hhd1hLT2JlTXc2TXA0ell3dHN0QzlYaVk4SHoxLUpLVF90ZjVyVmM3NF9UUU4xV0lkZWtCVzVlczhMRW8?oc=5",
+   "published_utc": "2026-10-10T09:05:52+00:00",
+   "title_original": "日本より物価が安いアジアの国TOP15！アジアで一番物価が安い国はどこ？（LIMO）",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d8c75e51d739a139"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -571,21 +588,21 @@
    "id": "30f86b7d1cbcdb35"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
    "title_en": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45V10K:0/",
-   "published_utc": "2026-10-09T22:23:11+00:00",
-   "title_original": "Contratado da Super Micro se declara culpado em esquema para desviar servidores de IA com chips da Nvidia para a China",
+   "url": "https://www.investing.com/news/stock-market-news/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china-4941793",
+   "published_utc": "2026-10-09T22:30:25+00:00",
+   "title_original": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
    "region": "china",
    "topics": [
     "industrial"
    ],
-   "lang_original": "pt",
-   "translated": true,
+   "lang_original": "en",
+   "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "95d5a3243a759203"
+   "id": "d30b9c206f42aa4e"
   },
   {
    "source_id": "gn_kr_bok",
@@ -50483,58 +50500,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5d0813b8764bb37b"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Taiwan steps up chip R&D, homegrown design software",
-   "url": "https://focustaiwan.tw/politics/202609100017",
-   "published_utc": "2026-09-10T09:09:08+00:00",
-   "title_original": "Taiwan steps up chip R&D, homegrown design software",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7b2ef398768a72ac"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Central Bank: It will carry out overnight reverse repurchase operations from September 14 to September 17, with the daily operation volume not exceeding 600 billion yuan.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uN2pHYWlQR21ITXhpQ2xoc3ZSSWFFYTFOXzV4SXRXejFwdS1DVHNNLVpmUnA1Yk51VHU2UXlhUWt6dnp0R0V0X0l6VGhnX0x0ZHpVMXNVWGxGaVdFbE9jVA?oc=5",
-   "published_utc": "2026-09-10T09:03:39+00:00",
-   "title_original": "央行：将在9月14日至9月17日开展隔夜逆回购操作 每日操作量不超过6000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "54d152cf6ff5ffcb"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japanese life insurers expand investments in property amid inflation",
-   "url": "https://asia.nikkei.com/business/markets/property/japanese-life-insurers-expand-investments-in-property-amid-inflation2",
-   "published_utc": "2026-09-10T09:03:33.554547+00:00",
-   "title_original": "Japanese life insurers expand investments in property amid inflation",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a7fa8befb0b07f21"
   },
   {
    "source_id": "manual_ia",
