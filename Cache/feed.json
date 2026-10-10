@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-10T16:02:42.334508+00:00",
- "collected_at_utc": "2026-10-10T16:02:42.334508+00:00",
+ "generated_at_utc": "2026-10-10T16:12:42.670174+00:00",
+ "collected_at_utc": "2026-10-10T16:12:42.670174+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2888,
+ "count": 2887,
  "by_region": {
   "japan": 1168,
   "china": 799,
   "taiwan": 275,
-  "korea": 646
+  "korea": 645
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-08T12:40:49+00:00"
+   "newest": "2026-10-08T19:45:57+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T14:37:54+00:00"
+   "newest": "2026-10-10T15:22:12+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-10T16:00:30+00:00"
+   "newest": "2026-10-10T16:05:50+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T14:06:55+00:00"
+   "newest": "2026-10-10T11:06:23+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,6 +344,24 @@
  ],
  "items": [
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There are new changes in the mix of medium and long-term tools.",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWVhZdzBFejQ2SjhjZHdqQ2NwRVZ0VUZyUVlZdjkzeEUwZElKWnZQeWtTeTRvbVFPVElnRVRrQkFvLUNSVG54aVdvc1VRVjhpbnVRS2hTZW9TZUI1NkR5THU4b2VTVTJFa0RGVFN3Z3ZtQklSbTI5aU1aZHctcjJNVWNDT0tZUGstRi1nVFpuekd5dUIxa3hiSjR6SVZBSVRIX2pQNTJtck1mWUY3cUJEeW5rV29XWEViMHVIeklpWVV6Q20wRE5xZ2lLZWY5QlY1SnVWM2tUcnUwa0RKVld4LUo0Rlg5QlFoaXNFM2dHX3JrMHFSUFczd1Vsd1JCNC13Q1dkdW1RWVRsbnp6?oc=5",
+   "published_utc": "2026-10-10T15:22:12+00:00",
+   "title_original": "9月央行各项工具净投放流动性5564亿元 专家：中长期工具组合出现新变化",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "17190720b544237b"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
    "title_en": "Insider trades: P&G, Marvell Technology, TSMC among notable names",
@@ -359,24 +377,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b2ec852e91721617"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "https://www.mrjjxw.com/",
-   "title_en": "In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There are new changes in the mix of medium and long-term tools.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81a3ZLQkZyWFdfS1J1V1Y0SG5JZENnWG80cVB1eWpHV0ZMYkdXbUJLZzhDTnluVjFwdnRkUHFTcVB2OWFIZ2M5Ukp2dFdHZmx5d3JsVVJKb2JINGVHZk9MUUNqTmtQdw?oc=5",
-   "published_utc": "2026-10-10T14:37:54+00:00",
-   "title_original": "9月央行各项工具净投放流动性5564亿元 专家：中长期工具组合出现新变化",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b99978c934cc885a"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1084,8 +1084,8 @@
    "id": "8c609259b9cb32c1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -1099,7 +1099,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -1273,8 +1273,8 @@
    "id": "0b47d3b41ca0bbf3"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -1288,7 +1288,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "tradingview_live",
@@ -2091,8 +2091,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -2106,7 +2106,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -49981,23 +49981,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5d03aff309d1bce9"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Seoul shares end lower on inflation fears",
-   "url": "https://www.koreaherald.com/article/10869461",
-   "published_utc": "2026-09-10T16:07:54+00:00",
-   "title_original": "Seoul shares end lower on inflation fears",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "516746c9d6ffb004"
   },
   {
    "source_id": "manual_ia",
