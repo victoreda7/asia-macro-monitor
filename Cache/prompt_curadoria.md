@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T17:32:42.176924+00:00
-Total: 2886 manchetes
+Última coleta: 2026-10-10T17:42:41.506551+00:00
+Total: 2887 manchetes
 
-  🇯🇵 Japão          1167
+  🇯🇵 Japão          1168
   🇨🇳 China          798
   🇹🇼 Taiwan         276
   🇰🇷 Coreia do Sul  645
 
 ## O que já está no feed (não repita)
 
+  - [japan] Everpure director Mallun Yen sells $1.75m in shares
   - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
   - [taiwan] Insider trades: P&G, Marvell Technology, TSMC among notable names
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit
@@ -56,7 +57,6 @@ Total: 2886 manchetes
   - [taiwan] OPPO To Launch Find X10 Pro Max With MediaTek 2nm Chip Globally
   - [taiwan] ICC urges members to make sure it can continue despite US sanctions
   - [china] China, EU strike deal to cut Chinese hybrid vehicle exports by over half
-  - [china] Beijing Lets Local Governments Tap 550 Billion Yuan in Unused Debt Quotas
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2886 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T17:32:42+00:00",
+      "published_utc": "2026-10-10T17:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
