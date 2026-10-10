@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-10T01:02:42.891696+00:00
-Total: 2988 manchetes
+Última coleta: 2026-10-10T01:09:27.513341+00:00
+Total: 2987 manchetes
 
   🇯🇵 Japão          1204
-  🇨🇳 China          819
-  🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  687
+  🇨🇳 China          818
+  🇹🇼 Taiwan         277
+  🇰🇷 Coreia do Sul  688
 
 ## O que já está no feed (não repita)
 
   - [china] Stocktwits Zero To Sixty — Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Ca
   - [japan] Why are bankruptcies at record high due to high prices?
+  - [korea] The execution rate of the information protection budget of 20 financial companies with many computer..
   - [japan] Did the Bank of Japan achieve its price target? (Hiroyuki Kubota) - Expert
   - [japan] Nakayama Kinni-kun conducts a “real” price survey at an American supermarket.Although he is surprised by the 5
   - [china] Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China
@@ -56,7 +57,6 @@ Total: 2988 manchetes
   - [china] Developing | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [china] Breaking | China and EU reach ‘understanding’ on hybrid vehicles after crunch trade talks
   - [japan] Govt. submits bill for consumption tax cut | NHK WORLD-JAPAN News
-  - [japan] Govt. submits bill for consumption tax cut
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2988 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-10T01:02:43+00:00",
+      "published_utc": "2026-10-10T01:09:27+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
