@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-10T02:12:42.091540+00:00",
- "collected_at_utc": "2026-10-10T02:12:42.091540+00:00",
+ "generated_at_utc": "2026-10-10T02:22:42.116313+00:00",
+ "collected_at_utc": "2026-10-10T02:22:42.116313+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2982,
+ "count": 2980,
  "by_region": {
-  "japan": 1199,
+  "japan": 1198,
   "china": 817,
   "taiwan": 278,
-  "korea": 688
+  "korea": 687
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 31,
+   "count": 32,
    "error": "",
-   "newest": "2026-10-09T19:21:10+08:00"
+   "newest": "2026-10-10T10:08:31+08:00"
   },
   {
    "source_id": "investing_live",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T23:18:45+00:00"
+   "newest": "2026-10-09T22:27:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-10T00:51:36+00:00"
+   "newest": "2026-10-10T02:19:36+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-10T02:00:22+00:00"
+   "newest": "2026-10-10T02:20:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T20:03:33+00:00"
+   "newest": "2026-10-09T23:03:31+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -2197,6 +2197,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6883049fb6c7df7d"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Home Sales Post Modest Recovery After Latest Stimulus",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmI0SW9YU3E1R29YV2VXVlB6VDJXUGdwZG5hTUY1dmZiOUFERnBGbzl4WDNYTmQyZzBHTEhMNzVndXNKdEFRMEFjMEczeTUtUFdmanczTkZXaFRrWUZPY3pYTk4zQW1Bb25MU1BCbTI5SWZFa3FEdDVvWmhQRGNGVXpWRVpTcGhqRVhJbTlqYUNYTFliS0xkNF9pMEdOZUx5XzBjLTR3NEdJMGZyUHNN?oc=5",
+   "published_utc": "2026-10-09T01:14:00+00:00",
+   "title_original": "China Home Sales Post Modest Recovery After Latest Stimulus",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e927eeb0a3e85abb"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51585,58 +51602,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d18fbed7c8146323"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Yen Holds Near 7-Month High",
-   "url": "https://www.tradingview.com/news/te_news:582557:0-yen-holds-near-7-month-high/",
-   "published_utc": "2026-09-10T02:22:23+00:00",
-   "title_original": "Yen Holds Near 7-Month High",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f5367ee164868a95"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "chinanews.com.cn",
-   "title_en": "On September 10, the central bank launched a 3 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OdVprNW1uVjkzX2cyOVpEd3FFdG5KTUR3ZHRfQWpIbEFSeERiLU5tb2JWUGc1TUJWRVY1bkM4eThWTlI4RUVtTXFqX3dUNnFER2p5czluMW52MzNwV3piclQ2V3dGRk5y?oc=5",
-   "published_utc": "2026-09-10T02:20:17+00:00",
-   "title_original": "9月10日央行开展30亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8cd1065e10fa2089"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Bond yields rise in Aug. on BOK's back-to-back rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3dll0ckowTlNSZnNobDNGU0VyZzY1Q193TDd4SklnZVctMGNZaFdXcUVzSzRoSjNSTWljVDRLbXkzQ0hqUktHT0llRXpSYVhCenY3bGNGdFdmZw?oc=5",
-   "published_utc": "2026-09-10T02:17:21+00:00",
-   "title_original": "Bond yields rise in Aug. on BOK's back-to-back rate hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3aeaba7030e629d4"
   },
   {
    "source_id": "manual_ia",
