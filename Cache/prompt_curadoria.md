@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T08:14:53.061616+00:00
-Total: 2818 manchetes
+Última coleta: 2026-10-11T08:24:49.792737+00:00
+Total: 2817 manchetes
 
-  🇯🇵 Japão          1113
+  🇯🇵 Japão          1111
   🇨🇳 China          790
   🇹🇼 Taiwan         274
-  🇰🇷 Coreia do Sul  641
+  🇰🇷 Coreia do Sul  642
 
 ## O que já está no feed (não repita)
 
   - [korea] 한·미 기준금리 10월 동결 전망…'긴축 기조는 지속될 것'
+  - [korea] As investment in industrial facilities such as semiconductor fabs and data centers has emerged as a
   - [korea] Food companies that were sanctioned for fixing food prices, such as sugar and flour, topped the Fair..
   - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
   - [korea] "금리 치솟는데 이자 어쩌나" 가계대출 57.3%가 변동금리
@@ -27,6 +28,7 @@ Total: 2818 manchetes
   - [korea] 기준금리 연속 인상에도 변동금리 대출 증가···가계부채 경고등
   - [korea] Samsung to expand chip capacity in Vietnam, boost high-end production in Korea
   - [japan] 1％から1.25％へ日銀が政策金利引き上げ 『金利のある時代』へ 住宅ローンへの影響は? 支払いはどれくらい上昇? 【福岡発】
+  - [korea] The base interest rate has entered the 3% range, a signal for household asset rebalancing.
   - [japan] Kawasaki Heavy aims at 1 tril. yen in defense sales as Japan ups spending
   - [taiwan] Changs Ascending September revenue jumps 92% on semiconductor plant buildouts
   - [japan] 半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン
@@ -55,8 +57,6 @@ Total: 2818 manchetes
   - [korea] South Korea's Serious Crimes Investigation Agency plans to budget 16.9 billion won for government offices, but
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 10 was zero
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 10 was zero
-  - [china] Stocktwits Zero To Sixty — Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Ca
-  - [japan] Why are bankruptcies at record high due to high prices?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2818 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T08:14:53+00:00",
+      "published_utc": "2026-10-11T08:24:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
