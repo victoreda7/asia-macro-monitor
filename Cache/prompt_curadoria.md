@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T23:42:42.995605+00:00
-Total: 2782 manchetes
+Última coleta: 2026-10-11T23:52:43.556240+00:00
+Total: 2783 manchetes
 
   🇯🇵 Japão          1107
   🇨🇳 China          769
   🇹🇼 Taiwan         270
-  🇰🇷 Coreia do Sul  636
+  🇰🇷 Coreia do Sul  637
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea to deploy market stabilising measures if needed, finance minister says
   - [korea] Last year, the amount of counterfeit and falsified bills that the Bank of Korea took over from the i..
   - [japan] "A corner of Ota Ward's three major luxury residential areas" "Ikegami Line to be detoured due to residents' o
   - [japan] ``The company president lives there secretly'' ``It was even called ``Shin Denen Chofu''...The long history of
@@ -56,7 +57,6 @@ Total: 2782 manchetes
   - [japan] Semiconductor memory giant Micron's financial results reflect "endless memory shortage" AI servers shipped wit
   - [korea] Concerns about an 'interest bomb' in household loans due to consecutive increases in base interest rates... Th
   - [japan] Minister Kihara "Carefully discuss with opposition parties to pass tax reduction bill, etc." NHK Sunday debate
-  - [korea] South Korean Firms Diverge as Large-Company Exports Surge and Small-Business Output Falls
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2782 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T23:42:43+00:00",
+      "published_utc": "2026-10-11T23:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
