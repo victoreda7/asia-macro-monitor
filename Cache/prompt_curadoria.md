@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T11:55:07.438727+00:00
+Última coleta: 2026-10-11T12:05:09.035184+00:00
 Total: 2797 manchetes
 
   🇯🇵 Japão          1104
@@ -17,6 +17,7 @@ Total: 2797 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
   - [japan] ココリコ遠藤＞ハワイへ家族旅行 円安＆物価上昇でカップ麺も（毎日キレイ）
   - [japan] Yen weakness since 2025 has been limited to offshore hours: analysis
   - [korea] 한·미 기준금리 10월 동결 전망…'긴축 기조는 지속될 것'
@@ -24,7 +25,6 @@ Total: 2797 manchetes
   - [korea] Food companies that were sanctioned for fixing food prices, such as sugar and flour, topped the Fair..
   - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
   - [korea] "금리 치솟는데 이자 어쩌나" 가계대출 57.3%가 변동금리
-  - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
   - [korea] Hacking attempts on BOK, state lenders top 1 million
@@ -116,7 +116,7 @@ Total: 2797 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T11:55:07+00:00",
+      "published_utc": "2026-10-11T12:05:09+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
