@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T17:52:42.699281+00:00
+Última coleta: 2026-10-11T18:02:42.289039+00:00
 Total: 2776 manchetes
 
   🇯🇵 Japão          1102
@@ -17,6 +17,7 @@ Total: 2776 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
   - [china] EU plans yearly cap of 350,000 Chinese hybrid cars as trade tensions rise
   - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
   - [korea] The Bank of Korea predicts a ‘hawkish freeze’ in its benchmark interest rate in October… Additional tightening
@@ -24,7 +25,6 @@ Total: 2776 manchetes
   - [japan] Japan weighs railway upgrades as part of defense spending push
   - [korea] Samsung to expand chip capacity in Vietnam, boost high-end production in Korea
   - [china] Renault CEO calls EU-China hybrid import deal a ’major milestone’ - Bloomberg
-  - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
   - [japan] Cocorico Endo > Family trip to Hawaii - cup noodles due to the weak yen and rising prices (beautiful every day
   - [japan] Yen weakness since 2025 has been limited to offshore hours: analysis
   - [korea] Korea-US base interest rates expected to freeze in October... 'The austerity trend will continue'
@@ -48,8 +48,8 @@ Total: 2776 manchetes
   - [japan] Everpure director Mallun Yen sells $1.75m in shares
   - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
   - [taiwan] Insider trades: P&G, Marvell Technology, TSMC among notable names
-  - [china] EU Plans Measures to Halve Imports of Chinese Hybrid Cars
   - [china] EU Plans Measures to Cut Imports of Chinese Hybrid Cars by Half
+  - [china] EU Plans Measures to Halve Imports of Chinese Hybrid Cars
   - [china] China Passenger Vehicle Retail Sales Drop 24% in September
   - [japan] Top 15 Asian countries where prices are cheaper than Japan! Which country in Asia has the lowest prices? (LIMO
   - [china] China to launch initiative to boost employment amid AI advances
@@ -116,7 +116,7 @@ Total: 2776 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T17:52:42+00:00",
+      "published_utc": "2026-10-11T18:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
