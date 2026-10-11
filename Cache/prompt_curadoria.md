@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T08:24:49.792737+00:00
+Última coleta: 2026-10-11T08:34:51.077071+00:00
 Total: 2817 manchetes
 
   🇯🇵 Japão          1111
@@ -28,7 +28,6 @@ Total: 2817 manchetes
   - [korea] 기준금리 연속 인상에도 변동금리 대출 증가···가계부채 경고등
   - [korea] Samsung to expand chip capacity in Vietnam, boost high-end production in Korea
   - [japan] 1％から1.25％へ日銀が政策金利引き上げ 『金利のある時代』へ 住宅ローンへの影響は? 支払いはどれくらい上昇? 【福岡発】
-  - [korea] The base interest rate has entered the 3% range, a signal for household asset rebalancing.
   - [japan] Kawasaki Heavy aims at 1 tril. yen in defense sales as Japan ups spending
   - [taiwan] Changs Ascending September revenue jumps 92% on semiconductor plant buildouts
   - [japan] 半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン
@@ -57,6 +56,7 @@ Total: 2817 manchetes
   - [korea] South Korea's Serious Crimes Investigation Agency plans to budget 16.9 billion won for government offices, but
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 10 was zero
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 10 was zero
+  - [china] Stocktwits Zero To Sixty — Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Ca
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2817 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T08:24:50+00:00",
+      "published_utc": "2026-10-11T08:34:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
