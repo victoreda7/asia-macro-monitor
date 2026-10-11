@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T04:03:32.768286+00:00
+Última coleta: 2026-10-11T04:13:46.975681+00:00
 Total: 2831 manchetes
 
   🇯🇵 Japão          1126
@@ -17,6 +17,7 @@ Total: 2831 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] 1％から1.25％へ日銀が政策金利引き上げ 『金利のある時代』へ 住宅ローンへの影響は? 支払いはどれくらい上昇? 【福岡発】
   - [taiwan] Changs Ascending September revenue jumps 92% on semiconductor plant buildouts
   - [japan] 半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン
   - [japan] 木原長官 "野党と丁寧に議論 減税法案など成立を" NHK日曜討論
@@ -56,7 +57,6 @@ Total: 2831 manchetes
   - [china] The central bank uses multiple tools to protect liquidity and funds are expected to remain stable in October |
   - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to remain stable in October
   - [japan] Japan machine tool order backlog hits all-time high on AI demand
-  - [korea] BOK Financial Price Target Cut to $146.00/Share From $149.00 by RBC Capital
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2831 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T04:03:32+00:00",
+      "published_utc": "2026-10-11T04:13:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
