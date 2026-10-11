@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T00:12:47.369155+00:00
-Total: 2869 manchetes
+Última coleta: 2026-10-11T00:22:46.422281+00:00
+Total: 2867 manchetes
 
-  🇯🇵 Japão          1153
+  🇯🇵 Japão          1152
   🇨🇳 China          797
   🇹🇼 Taiwan         277
-  🇰🇷 Coreia do Sul  642
+  🇰🇷 Coreia do Sul  641
 
 ## O que já está no feed (não repita)
 
@@ -48,6 +48,7 @@ Total: 2869 manchetes
   - [china] Super Micro Contractor Pleads Guilty In Scheme To Divert Computer Servers Built With Nvidia AI Chips To China
   - [china] China and EU discuss trade conflict EU "to curb exports from China"
   - [china] The central bank uses multiple tools to protect liquidity and funds are expected to remain stable in October |
+  - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to remain stable in October
   - [japan] Japan machine tool order backlog hits all-time high on AI demand
   - [korea] BOK Financial Price Target Cut to $146.00/Share From $149.00 by RBC Capital
   - [china] EU Says it Reached Understanding with China to Cut Back Hybrid Vehicle Exports — Update
@@ -56,7 +57,6 @@ Total: 2869 manchetes
   - [china] EU-China understanding could halve Chinese hybrid car exports
   - [china] China’s Oil Imports Look Set to Rise as Supertanker Fleet Swells
   - [japan] Japan's DOGE to 'step up' spending review, eyeing EV subsidies, health checks
-  - [china] China-EU trade talks yield prospect of Chinese hybrid exports halving
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2869 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T00:12:47+00:00",
+      "published_utc": "2026-10-11T00:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
