@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T20:32:42.327658+00:00
+Última coleta: 2026-10-11T20:42:41.688557+00:00
 Total: 2776 manchetes
 
   🇯🇵 Japão          1101
@@ -17,6 +17,7 @@ Total: 2776 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Former iPhone display plant in Japan to start new life in chip supply chain
   - [japan] Japan Week Ahead: BOJ Policymakers to Digest More Q3 Data Before Oct. 29-30 Meeting; Board Widely Expected Hol
   - [korea] Shin Hyun-song’s first National Assembly inspection… ‘A lot of issues’ in the controversy over interest rate h
   - [japan] Preview: Forecasters See Another High Reading for Japanese Producer Price Inflation in September Report
@@ -48,7 +49,7 @@ Total: 2776 manchetes
   - [korea] South Korean Firms Diverge as Large-Company Exports Surge and Small-Business Output Falls
   - [japan] A 47-year-old single woman gave up her 80 square meter apartment and moved to a 1LDK/custom-built home as her 
   - [japan] Employment of 50 people with disabilities terminated after 9 months
-  - [taiwan] <5 trillion yen in total> Huge capital investment in Taiwan's semiconductor back-end process ``Packaging and t
+  - [taiwan] Huge capital investment in Taiwan's semiconductor back-end process ``Packaging and testing are not supporting 
   - [japan] Everpure director Mallun Yen sells $1.75m in shares By Investing.com
   - [japan] Everpure director Mallun Yen sells $1.75m in shares
   - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
@@ -56,7 +57,6 @@ Total: 2776 manchetes
   - [china] EU Plans Measures to Cut Imports of Chinese Hybrid Cars by Half
   - [china] EU Plans Measures to Halve Imports of Chinese Hybrid Cars
   - [china] China Passenger Vehicle Retail Sales Drop 24% in September
-  - [japan] Top 15 Asian countries where prices are cheaper than Japan! Which country in Asia has the lowest prices? (LIMO
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2776 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T20:32:42+00:00",
+      "published_utc": "2026-10-11T20:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
