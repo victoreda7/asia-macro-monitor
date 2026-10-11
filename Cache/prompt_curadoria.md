@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T08:04:36.333338+00:00
+Última coleta: 2026-10-11T08:14:53.061616+00:00
 Total: 2818 manchetes
 
-  🇯🇵 Japão          1114
+  🇯🇵 Japão          1113
   🇨🇳 China          790
   🇹🇼 Taiwan         274
-  🇰🇷 Coreia do Sul  640
+  🇰🇷 Coreia do Sul  641
 
 ## O que já está no feed (não repita)
 
+  - [korea] 한·미 기준금리 10월 동결 전망…'긴축 기조는 지속될 것'
   - [korea] Food companies that were sanctioned for fixing food prices, such as sugar and flour, topped the Fair..
   - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
   - [korea] "금리 치솟는데 이자 어쩌나" 가계대출 57.3%가 변동금리
@@ -56,7 +57,6 @@ Total: 2818 manchetes
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 10 was zero
   - [china] Stocktwits Zero To Sixty — Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Ca
   - [japan] Why are bankruptcies at record high due to high prices?
-  - [korea] The execution rate of the information protection budget of 20 financial companies with many computer..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2818 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T08:04:36+00:00",
+      "published_utc": "2026-10-11T08:14:53+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
