@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T02:22:45.797237+00:00
-Total: 2840 manchetes
+Última coleta: 2026-10-11T02:33:32.710578+00:00
+Total: 2842 manchetes
 
-  🇯🇵 Japão          1134
+  🇯🇵 Japão          1135
   🇨🇳 China          793
-  🇹🇼 Taiwan         275
+  🇹🇼 Taiwan         276
   🇰🇷 Coreia do Sul  638
 
 ## O que já está no feed (não repita)
 
+  - [japan] 半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン
+  - [japan] 木原長官 "野党と丁寧に議論 減税法案など成立を" NHK日曜討論
+  - [korea] South Korean Firms Diverge as Large-Company Exports Surge and Small-Business Output Falls
   - [japan] 47歳おひとりさま女性｢80平米マンション｣を手放し1LDK･注文住宅へ"自分サイズ"の｢2軒目の家｣ | ライフ | 東洋経済オンライン
   - [japan] 障害者50人 9カ月で雇用打ち切り
   - [taiwan] <5 trillion yen in total> Huge capital investment in Taiwan's semiconductor back-end process ``Packaging and t
@@ -34,6 +37,7 @@ Total: 2840 manchetes
   - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's
   - [japan] Japan turns academic success into an export industry
   - [china] China Targets AI-Linked Jobs With New Employment Initiative
+  - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
   - [korea] South Korea's Serious Crimes Investigation Agency plans to budget 16.9 billion won for government offices, but
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 10 was zero
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 10 was zero
@@ -53,10 +57,6 @@ Total: 2840 manchetes
   - [korea] BOK Financial Price Target Cut to $146.00/Share From $149.00 by RBC Capital
   - [china] EU Says it Reached Understanding with China to Cut Back Hybrid Vehicle Exports — Update
   - [china] Tariffs targeting China's Temu, Shein shrink US small parcel deliveries
-  - [korea] SK chief eyes Gwangju chip fabs alongside Yongin cluster
-  - [china] EU-China understanding could halve Chinese hybrid car exports
-  - [china] China’s Oil Imports Look Set to Rise as Supertanker Fleet Swells
-  - [japan] Japan's DOGE to 'step up' spending review, eyeing EV subsidies, health checks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2840 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T02:22:46+00:00",
+      "published_utc": "2026-10-11T02:33:32+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
