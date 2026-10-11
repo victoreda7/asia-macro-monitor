@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T07:14:20.344658+00:00
+Última coleta: 2026-10-11T07:24:35.377752+00:00
 Total: 2822 manchetes
 
   🇯🇵 Japão          1117
@@ -21,6 +21,7 @@ Total: 2822 manchetes
   - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
   - [korea] "금리 치솟는데 이자 어쩌나" 가계대출 57.3%가 변동금리
   - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
+  - [korea] 기준금리 연속 인상에 가계대출 '이자 폭탄' 우려…변동금리 비중 57% 돌파
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
   - [korea] Hacking attempts on BOK, state lenders top 1 million
   - [korea] 기준금리 연속 인상에도 변동금리 대출 증가···가계부채 경고등
@@ -29,7 +30,6 @@ Total: 2822 manchetes
   - [japan] Kawasaki Heavy aims at 1 tril. yen in defense sales as Japan ups spending
   - [taiwan] Changs Ascending September revenue jumps 92% on semiconductor plant buildouts
   - [japan] 半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン
-  - [korea] 기준금리 연속 인상에 가계대출 '이자 폭탄' 우려…변동금리 비중 57% 돌파
   - [japan] 木原長官 "野党と丁寧に議論 減税法案など成立を" NHK日曜討論
   - [korea] South Korean Firms Diverge as Large-Company Exports Surge and Small-Business Output Falls
   - [japan] 47歳おひとりさま女性｢80平米マンション｣を手放し1LDK･注文住宅へ"自分サイズ"の｢2軒目の家｣ | ライフ | 東洋経済オンライン
@@ -116,7 +116,7 @@ Total: 2822 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T07:14:20+00:00",
+      "published_utc": "2026-10-11T07:24:35+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
