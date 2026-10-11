@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T12:55:07.702829+00:00
+Última coleta: 2026-10-11T13:05:10.732489+00:00
 Total: 2798 manchetes
 
   🇯🇵 Japão          1104
@@ -25,7 +25,6 @@ Total: 2798 manchetes
   - [korea] Food companies that were sanctioned for fixing food prices, such as sugar and flour, topped the Fair..
   - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
   - [korea] "금리 치솟는데 이자 어쩌나" 가계대출 57.3%가 변동금리
-  - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
   - [korea] Hacking attempts on BOK, state lenders top 1 million
   - [korea] 기준금리 연속 인상에도 변동금리 대출 증가···가계부채 경고등
@@ -55,6 +54,7 @@ Total: 2798 manchetes
   - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's
   - [japan] Japan turns academic success into an export industry
   - [china] China Targets AI-Linked Jobs With New Employment Initiative
+  - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit
   - [korea] South Korea's Serious Crimes Investigation Agency plans to budget 16.9 billion won for government offices, but
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 10 was zero
 
@@ -116,7 +116,7 @@ Total: 2798 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T12:55:07+00:00",
+      "published_utc": "2026-10-11T13:05:10+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
