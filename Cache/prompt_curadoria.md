@@ -7,40 +7,40 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T15:05:07.323916+00:00
-Total: 2798 manchetes
+Última coleta: 2026-10-11T15:15:24.642788+00:00
+Total: 2778 manchetes
 
-  🇯🇵 Japão          1105
-  🇨🇳 China          785
+  🇯🇵 Japão          1102
+  🇨🇳 China          770
   🇹🇼 Taiwan         272
-  🇰🇷 Coreia do Sul  636
+  🇰🇷 Coreia do Sul  634
 
 ## O que já está no feed (não repita)
 
+  - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
   - [korea] Hacking attempts on BOK, state lenders top 1 million
   - [japan] Japan weighs railway upgrades as part of defense spending push
   - [korea] Samsung to expand chip capacity in Vietnam, boost high-end production in Korea
   - [china] Renault CEO calls EU-China hybrid import deal a ’major milestone’ - Bloomberg
   - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
-  - [japan] ココリコ遠藤＞ハワイへ家族旅行 円安＆物価上昇でカップ麺も（毎日キレイ）
+  - [japan] Cocorico Endo > Family trip to Hawaii - cup noodles due to the weak yen and rising prices (beautiful every day
   - [japan] Yen weakness since 2025 has been limited to offshore hours: analysis
-  - [korea] 한·미 기준금리 10월 동결 전망…'긴축 기조는 지속될 것'
+  - [korea] Korea-US base interest rates expected to freeze in October... 'The austerity trend will continue'
   - [korea] As investment in industrial facilities such as semiconductor fabs and data centers has emerged as a
   - [korea] Food companies that were sanctioned for fixing food prices, such as sugar and flour, topped the Fair..
-  - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
-  - [korea] "금리 치솟는데 이자 어쩌나" 가계대출 57.3%가 변동금리
+  - [korea] “Interest rates are soaring, what happens to interest?” 57.3% of household loans have variable interest rates
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
-  - [korea] 기준금리 연속 인상에도 변동금리 대출 증가···가계부채 경고등
-  - [japan] 1％から1.25％へ日銀が政策金利引き上げ 『金利のある時代』へ 住宅ローンへの影響は? 支払いはどれくらい上昇? 【福岡発】
+  - [korea] Floating rate loans increase despite consecutive increases in base interest rates... Household debt warning li
+  - [japan] The Bank of Japan raises the policy interest rate from 1% to 1.25%, entering an era of interest rates. What wi
   - [japan] Kawasaki Heavy aims at 1 tril. yen in defense sales as Japan ups spending
   - [taiwan] Changs Ascending September revenue jumps 92% on semiconductor plant buildouts
-  - [japan] 半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン
-  - [korea] 기준금리 연속 인상에 가계대출 '이자 폭탄' 우려…변동금리 비중 57% 돌파
-  - [japan] 木原長官 "野党と丁寧に議論 減税法案など成立を" NHK日曜討論
+  - [japan] Semiconductor memory giant Micron's financial results reflect "endless memory shortage" AI servers shipped wit
+  - [korea] Concerns about an 'interest bomb' in household loans due to consecutive increases in base interest rates... Th
+  - [japan] Minister Kihara "Carefully discuss with opposition parties to pass tax reduction bill, etc." NHK Sunday debate
   - [korea] South Korean Firms Diverge as Large-Company Exports Surge and Small-Business Output Falls
-  - [japan] 47歳おひとりさま女性｢80平米マンション｣を手放し1LDK･注文住宅へ"自分サイズ"の｢2軒目の家｣ | ライフ | 東洋経済オンライン
-  - [japan] 障害者50人 9カ月で雇用打ち切り
+  - [japan] A 47-year-old single woman gave up her 80 square meter apartment and moved to a 1LDK/custom-built home as her 
+  - [japan] Employment of 50 people with disabilities terminated after 9 months
   - [taiwan] <5 trillion yen in total> Huge capital investment in Taiwan's semiconductor back-end process ``Packaging and t
   - [japan] Everpure director Mallun Yen sells $1.75m in shares
   - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
@@ -116,7 +116,7 @@ Total: 2798 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T15:05:07+00:00",
+      "published_utc": "2026-10-11T15:15:24+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
