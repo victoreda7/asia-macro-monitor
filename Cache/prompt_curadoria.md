@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T05:24:01.766434+00:00
-Total: 2834 manchetes
+Última coleta: 2026-10-11T05:34:01.785273+00:00
+Total: 2833 manchetes
 
-  🇯🇵 Japão          1126
+  🇯🇵 Japão          1125
   🇨🇳 China          792
   🇹🇼 Taiwan         275
   🇰🇷 Coreia do Sul  641
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
   - [korea] Hacking attempts on BOK, state lenders top 1 million
   - [korea] 기준금리 연속 인상에도 변동금리 대출 증가···가계부채 경고등
   - [korea] Samsung to expand chip capacity in Vietnam, boost high-end production in Korea
@@ -34,7 +35,6 @@ Total: 2834 manchetes
   - [china] EU Plans Measures to Cut Imports of Chinese Hybrid Cars by Half
   - [china] EU Plans Measures to Halve Imports of Chinese Hybrid Cars
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit
-  - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
   - [china] China Passenger Vehicle Retail Sales Drop 24% in September
   - [japan] Top 15 Asian countries where prices are cheaper than Japan! Which country in Asia has the lowest prices? (LIMO
   - [china] China to launch initiative to boost employment amid AI advances
@@ -116,7 +116,7 @@ Total: 2834 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T05:24:01+00:00",
+      "published_utc": "2026-10-11T05:34:02+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
