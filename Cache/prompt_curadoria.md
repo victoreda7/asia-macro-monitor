@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T18:52:43.877002+00:00
-Total: 2775 manchetes
+Última coleta: 2026-10-11T19:02:42.576185+00:00
+Total: 2776 manchetes
 
-  🇯🇵 Japão          1100
+  🇯🇵 Japão          1101
   🇨🇳 China          771
   🇹🇼 Taiwan         271
   🇰🇷 Coreia do Sul  633
@@ -27,6 +27,7 @@ Total: 2775 manchetes
   - [korea] Samsung to expand chip capacity in Vietnam, boost high-end production in Korea
   - [china] Renault CEO calls EU-China hybrid import deal a ’major milestone’ - Bloomberg
   - [japan] Cocorico Endo > Family trip to Hawaii - cup noodles due to the weak yen and rising prices (beautiful every day
+  - [japan] Yen weakness since 2025 has been limited to offshore hours: analysis By Investing.com
   - [japan] Yen weakness since 2025 has been limited to offshore hours: analysis
   - [korea] Korea-US base interest rates expected to freeze in October... 'The austerity trend will continue'
   - [korea] As investment in industrial facilities such as semiconductor fabs and data centers has emerged as a
@@ -56,7 +57,6 @@ Total: 2775 manchetes
   - [china] China to launch initiative to boost employment amid AI advances
   - [china] China creates 10.52 million jobs, plans new AI and services employment measures
   - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
-  - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2775 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T18:52:44+00:00",
+      "published_utc": "2026-10-11T19:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
