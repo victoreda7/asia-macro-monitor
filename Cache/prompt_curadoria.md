@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T21:02:43.158212+00:00
-Total: 2778 manchetes
+Última coleta: 2026-10-11T21:12:45.046062+00:00
+Total: 2777 manchetes
 
-  🇯🇵 Japão          1103
+  🇯🇵 Japão          1104
   🇨🇳 China          770
-  🇹🇼 Taiwan         271
-  🇰🇷 Coreia do Sul  634
+  🇹🇼 Taiwan         270
+  🇰🇷 Coreia do Sul  633
 
 ## O que já está no feed (não repita)
 
   - [japan] Investors bet on Japan, Australia rental housing as rates, home prices rise
+  - [japan] "European Debt Crisis 2.0" becomes a reality with the explosion in France...Can the ECB put out the fire as in
   - [japan] Former iPhone display plant in Japan to start new life in chip supply chain
   - [japan] Japan Week Ahead: BOJ Policymakers to Digest More Q3 Data Before Oct. 29-30 Meeting; Board Widely Expected Hol
   - [korea] Shin Hyun-song’s first National Assembly inspection… ‘A lot of issues’ in the controversy over interest rate h
@@ -56,7 +57,6 @@ Total: 2778 manchetes
   - [japan] Everpure director Mallun Yen sells $1.75m in shares By Investing.com
   - [japan] Everpure director Mallun Yen sells $1.75m in shares
   - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
-  - [taiwan] Insider trades: P&G, Marvell Technology, TSMC among notable names
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2778 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T21:02:43+00:00",
+      "published_utc": "2026-10-11T21:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
