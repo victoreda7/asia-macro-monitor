@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T02:33:32.710578+00:00
+Última coleta: 2026-10-11T02:43:30.303722+00:00
 Total: 2842 manchetes
 
   🇯🇵 Japão          1135
@@ -28,6 +28,7 @@ Total: 2842 manchetes
   - [taiwan] Insider trades: P&G, Marvell Technology, TSMC among notable names
   - [china] EU Plans Measures to Cut Imports of Chinese Hybrid Cars by Half
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit
+  - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
   - [china] China Passenger Vehicle Retail Sales Drop 24% in September
   - [japan] Top 15 Asian countries where prices are cheaper than Japan! Which country in Asia has the lowest prices? (LIMO
   - [china] China creates 10.52 million jobs, plans new AI and services employment measures
@@ -37,7 +38,6 @@ Total: 2842 manchetes
   - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's
   - [japan] Japan turns academic success into an export industry
   - [china] China Targets AI-Linked Jobs With New Employment Initiative
-  - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
   - [korea] South Korea's Serious Crimes Investigation Agency plans to budget 16.9 billion won for government offices, but
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 10 was zero
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 10 was zero
@@ -116,7 +116,7 @@ Total: 2842 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T02:33:32+00:00",
+      "published_utc": "2026-10-11T02:43:30+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
