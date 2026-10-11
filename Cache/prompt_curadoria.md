@@ -7,10 +7,10 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T06:04:03.777272+00:00
-Total: 2829 manchetes
+Última coleta: 2026-10-11T06:14:03.482506+00:00
+Total: 2830 manchetes
 
-  🇯🇵 Japão          1121
+  🇯🇵 Japão          1122
   🇨🇳 China          791
   🇹🇼 Taiwan         275
   🇰🇷 Coreia do Sul  642
@@ -23,6 +23,7 @@ Total: 2829 manchetes
   - [korea] 기준금리 연속 인상에도 변동금리 대출 증가···가계부채 경고등
   - [korea] Samsung to expand chip capacity in Vietnam, boost high-end production in Korea
   - [japan] 1％から1.25％へ日銀が政策金利引き上げ 『金利のある時代』へ 住宅ローンへの影響は? 支払いはどれくらい上昇? 【福岡発】
+  - [japan] Kawasaki Heavy aims at 1 tril. yen in defense sales as Japan ups spending
   - [taiwan] Changs Ascending September revenue jumps 92% on semiconductor plant buildouts
   - [japan] 半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン
   - [japan] 木原長官 "野党と丁寧に議論 減税法案など成立を" NHK日曜討論
@@ -56,7 +57,6 @@ Total: 2829 manchetes
   - [japan] Nakayama Kinni-kun conducts a “real” price survey at an American supermarket.Although he is surprised by the 5
   - [china] Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China
   - [korea] Prices that cannot be determined... Will the Bank of Korea and the US Federal Reserve raise the base interest 
-  - [japan] Japan food tax cut gets cabinet approval with key questions unanswered
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2829 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T06:04:03+00:00",
+      "published_utc": "2026-10-11T06:14:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
