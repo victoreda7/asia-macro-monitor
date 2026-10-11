@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T02:43:30.303722+00:00
-Total: 2842 manchetes
+Última coleta: 2026-10-11T02:53:30.569789+00:00
+Total: 2843 manchetes
 
   🇯🇵 Japão          1135
   🇨🇳 China          793
-  🇹🇼 Taiwan         276
+  🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  638
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Changs Ascending September revenue jumps 92% on semiconductor plant buildouts
   - [japan] 半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン
   - [japan] 木原長官 "野党と丁寧に議論 減税法案など成立を" NHK日曜討論
   - [korea] South Korean Firms Diverge as Large-Company Exports Surge and Small-Business Output Falls
@@ -27,6 +28,7 @@ Total: 2842 manchetes
   - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
   - [taiwan] Insider trades: P&G, Marvell Technology, TSMC among notable names
   - [china] EU Plans Measures to Cut Imports of Chinese Hybrid Cars by Half
+  - [china] EU Plans Measures to Halve Imports of Chinese Hybrid Cars
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
   - [china] China Passenger Vehicle Retail Sales Drop 24% in September
@@ -55,8 +57,6 @@ Total: 2842 manchetes
   - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to remain stable in October
   - [japan] Japan machine tool order backlog hits all-time high on AI demand
   - [korea] BOK Financial Price Target Cut to $146.00/Share From $149.00 by RBC Capital
-  - [china] EU Says it Reached Understanding with China to Cut Back Hybrid Vehicle Exports — Update
-  - [china] Tariffs targeting China's Temu, Shein shrink US small parcel deliveries
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2842 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T02:43:30+00:00",
+      "published_utc": "2026-10-11T02:53:30+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
