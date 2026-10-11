@@ -29,7 +29,7 @@ import filters
 import render_html
 import sources
 from filters import NewsItem
-from translate import TranslationCache, translate_items
+from translate import TranslationCache, detect_lang, resumo_uso, translate_items
 
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "Cache"
@@ -96,6 +96,9 @@ class SeenCache:
 
 
 # ---------------------------------------------------------------------------
+RETRADUZIR_MAX = 80   # herdados sem tradução reprocessados por coleta
+
+
 # Feed anterior — o feed é acumulativo, não uma fotografia
 # ---------------------------------------------------------------------------
 
@@ -368,6 +371,25 @@ def run_once(include_live: bool = True, explain: bool = False, write: bool = Tru
     herdados = itens_anteriores(anterior)
     if herdados:
         print(f"→ acumulado: {len(herdados)} itens de coletas anteriores", flush=True)
+
+    # Herdado que ficou sem tradução (tradutor bloqueado no dia em que entrou)
+    # ganha outra chance a cada coleta. Antes, uma falha valia para sempre:
+    # o item atravessava as coletas seguintes com o título original.
+    sem_traducao = [h for h in herdados if not h.translated and not h.manual
+                    and detect_lang(h.title_original) not in ("en", "pt")]
+    sem_traducao.sort(key=lambda h: h.published_utc or "", reverse=True)
+    sem_traducao = sem_traducao[:RETRADUZIR_MAX]
+    if sem_traducao:
+        translate_items(sem_traducao, cache)
+        refeitas = sum(1 for h in sem_traducao if h.translated)
+        print(f"  {refeitas} de {len(sem_traducao)} títulos antigos traduzidos agora", flush=True)
+        for it in sem_traducao:
+            if it.translated:
+                richer = cfg.topics_of_title(it.title_en)
+                if richer:
+                    it.topics = sorted(set(it.topics) | set(richer),
+                                       key=cfg.TOPIC_ORDER.index)
+    print(f"  tradutor: {resumo_uso()}", flush=True)
 
     # Ordem importa: o dedupe é estável e o item novo entra antes do herdado,
     # então a versão recém-coletada vence a cópia velha dela.
