@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-11T04:43:46.926660+00:00",
- "collected_at_utc": "2026-10-11T04:43:46.926660+00:00",
+ "generated_at_utc": "2026-10-11T04:53:45.825702+00:00",
+ "collected_at_utc": "2026-10-11T04:53:45.825702+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2833,
+ "count": 2834,
  "by_region": {
   "japan": 1126,
   "china": 793,
   "taiwan": 275,
-  "korea": 639
+  "korea": 640
  },
- "elapsed_s": 94.4,
+ "elapsed_s": 94.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T12:11:29+00:00"
+   "newest": "2026-10-10T12:34:31+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-11T10:13:13+00:00"
+   "newest": "2026-10-11T13:46:03+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-11T04:35:24+00:00"
+   "newest": "2026-10-11T04:49:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T23:14:19+00:00"
+   "newest": "2026-10-11T02:13:52+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T07:45:10+00:00"
+   "newest": "2026-10-10T18:20:17+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Samsung to expand chip capacity in Vietnam, boost high-end production in Korea",
+   "url": "https://www.koreaherald.com/article/10898561",
+   "published_utc": "2026-10-11T04:52:40.311838+00:00",
+   "title_original": "Samsung to expand chip capacity in Vietnam, boost high-end production in Korea",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "43aa8a9da91068dd"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -396,8 +413,8 @@
    "id": "e8f9fcc70b0a8490"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "木原長官 \"野党と丁寧に議論 減税法案など成立を\" NHK日曜討論",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -410,7 +427,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -685,23 +702,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8c609259b9cb32c1"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "EU Says China Accord Could Cut Hybrid Car Exports by Half",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGliVlhRNmZ2WGZXZXpYWmZUdjRFUXBwRmlqWHBaNzZKYWVGTDI5cDJVS0hwblE1VG5hVmI4T25QRmZJcHYwNlN2UXdXckM5anhQbzQ4TlhzVXV6T2xSaEJwTlhPQTFOZFlBcC0xZGc5enFUTDRpYzBLWjNHSm1GQUtrdEFQWUpRQlhWSlVTU0V2VG1CQXlVQ3YxUEY0UzM4ajd3TUlibzQ2R0ZodmVidUNqRQ?oc=5",
-   "published_utc": "2026-10-10T06:20:00+00:00",
-   "title_original": "EU Says China Accord Could Cut Hybrid Car Exports by Half",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bb722953481737a0"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1358,8 +1358,25 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "EU Says China Accord Could Cut Hybrid Car Exports by Half",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGliVlhRNmZ2WGZXZXpYWmZUdjRFUXBwRmlqWHBaNzZKYWVGTDI5cDJVS0hwblE1VG5hVmI4T25QRmZJcHYwNlN2UXdXckM5anhQbzQ4TlhzVXV6T2xSaEJwTlhPQTFOZFlBcC0xZGc5enFUTDRpYzBLWjNHSm1GQUtrdEFQWUpRQlhWSlVTU0V2VG1CQXlVQ3YxUEY0UzM4ajd3TUlibzQ2R0ZodmVidUNqRQ?oc=5",
+   "published_utc": "2026-10-09T13:35:01+00:00",
+   "title_original": "EU Says China Accord Could Cut Hybrid Car Exports by Half",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bb722953481737a0"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -1373,7 +1390,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -1564,8 +1581,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -1579,7 +1596,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -2382,8 +2399,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -2397,7 +2414,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -20670,23 +20687,6 @@
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
-   "title_en": "Seoul stocks slightly lower late Tues. morning on inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96Y0RuUm5OSUNBSWpQSW9hRm9Vb05sNHdHeVJwTVZMUlZVNTJjbXphQTlpR3JfdG1Pdm9LRWkzM3pfUmN4Ynd0TmN4eWpRSktDbUwzdTAtUXNyUQ?oc=5",
-   "published_utc": "2026-09-29T07:00:00+00:00",
-   "title_original": "Seoul stocks slightly lower late Tues. morning on inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7e346d3125265bc"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
    "title_en": "Biz sentiment falls in September on rising costs: BOK",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxUXdBdjJ2ZGQ1MDRJakxyWkRxSnhCN2g5aFU2dk9fWGdGUGIyb3dYUzFfbWlWMC0yWTlHX096OWRWcVlwRWlJbk1NOEt4WkdaU2c1a0V6VWRyZw?oc=5",
    "published_utc": "2026-09-29T07:00:00+00:00",
@@ -21135,6 +21135,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2c3d8c743ef38125"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Seoul stocks slightly lower late Tues. morning on inflation woes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96Y0RuUm5OSUNBSWpQSW9hRm9Vb05sNHdHeVJwTVZMUlZVNTJjbXphQTlpR3JfdG1Pdm9LRWkzM3pfUmN4Ynd0TmN4eWpRSktDbUwzdTAtUXNyUQ?oc=5",
+   "published_utc": "2026-09-29T02:27:31+00:00",
+   "title_original": "Seoul stocks slightly lower late Tues. morning on inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7e346d3125265bc"
   },
   {
    "source_id": "gn_tw_digitimes",

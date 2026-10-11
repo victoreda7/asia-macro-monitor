@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T04:43:46.926660+00:00
-Total: 2833 manchetes
+Última coleta: 2026-10-11T04:53:45.825702+00:00
+Total: 2834 manchetes
 
   🇯🇵 Japão          1126
   🇨🇳 China          793
   🇹🇼 Taiwan         275
-  🇰🇷 Coreia do Sul  639
+  🇰🇷 Coreia do Sul  640
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung to expand chip capacity in Vietnam, boost high-end production in Korea
   - [japan] 1％から1.25％へ日銀が政策金利引き上げ 『金利のある時代』へ 住宅ローンへの影響は? 支払いはどれくらい上昇? 【福岡発】
   - [taiwan] Changs Ascending September revenue jumps 92% on semiconductor plant buildouts
   - [japan] 半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン
@@ -37,7 +38,6 @@ Total: 2833 manchetes
   - [china] China to launch initiative to boost employment amid AI advances
   - [china] China creates 10.52 million jobs, plans new AI and services employment measures
   - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
-  - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [china] EU Says China Will Cut Hybrid Car Exports by Millions
   - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's
   - [japan] Japan turns academic success into an export industry
@@ -116,7 +116,7 @@ Total: 2833 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T04:43:47+00:00",
+      "published_utc": "2026-10-11T04:53:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
