@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T16:02:42.453847+00:00
+Última coleta: 2026-10-11T16:12:44.188437+00:00
 Total: 2778 manchetes
 
-  🇯🇵 Japão          1102
+  🇯🇵 Japão          1103
   🇨🇳 China          771
-  🇹🇼 Taiwan         271
+  🇹🇼 Taiwan         270
   🇰🇷 Coreia do Sul  634
 
 ## O que já está no feed (não repita)
@@ -44,6 +44,7 @@ Total: 2778 manchetes
   - [japan] A 47-year-old single woman gave up her 80 square meter apartment and moved to a 1LDK/custom-built home as her 
   - [japan] Employment of 50 people with disabilities terminated after 9 months
   - [taiwan] <5 trillion yen in total> Huge capital investment in Taiwan's semiconductor back-end process ``Packaging and t
+  - [japan] Everpure director Mallun Yen sells $1.75m in shares By Investing.com
   - [japan] Everpure director Mallun Yen sells $1.75m in shares
   - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
   - [taiwan] Insider trades: P&G, Marvell Technology, TSMC among notable names
@@ -56,7 +57,6 @@ Total: 2778 manchetes
   - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
   - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [china] EU Says China Will Cut Hybrid Car Exports by Millions
-  - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2778 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T16:02:42+00:00",
+      "published_utc": "2026-10-11T16:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
