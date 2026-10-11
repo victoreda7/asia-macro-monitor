@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T04:53:45.825702+00:00
-Total: 2834 manchetes
+Última coleta: 2026-10-11T05:03:48.155428+00:00
+Total: 2835 manchetes
 
   🇯🇵 Japão          1126
   🇨🇳 China          793
   🇹🇼 Taiwan         275
-  🇰🇷 Coreia do Sul  640
+  🇰🇷 Coreia do Sul  641
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hacking attempts on BOK, state lenders top 1 million
   - [korea] Samsung to expand chip capacity in Vietnam, boost high-end production in Korea
   - [japan] 1％から1.25％へ日銀が政策金利引き上げ 『金利のある時代』へ 住宅ローンへの影響は? 支払いはどれくらい上昇? 【福岡発】
   - [taiwan] Changs Ascending September revenue jumps 92% on semiconductor plant buildouts
@@ -38,6 +39,7 @@ Total: 2834 manchetes
   - [china] China to launch initiative to boost employment amid AI advances
   - [china] China creates 10.52 million jobs, plans new AI and services employment measures
   - [china] EU Says Accord With China Could Cut Hybrid Car Exports by Half
+  - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [china] EU Says China Will Cut Hybrid Car Exports by Millions
   - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's
   - [japan] Japan turns academic success into an export industry
@@ -55,8 +57,6 @@ Total: 2834 manchetes
   - [japan] Japan food tax cut gets cabinet approval with key questions unanswered
   - [china] Super Micro Contractor Pleads Guilty In Scheme To Divert Computer Servers Built With Nvidia AI Chips To China
   - [china] China and EU discuss trade conflict EU "to curb exports from China"
-  - [china] The central bank uses multiple tools to protect liquidity and funds are expected to remain stable in October |
-  - [china] The central bank uses multiple tools to protect liquidity, and funding is expected to remain stable in October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2834 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T04:53:46+00:00",
+      "published_utc": "2026-10-11T05:03:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
