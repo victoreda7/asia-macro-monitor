@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T10:44:52.003243+00:00
-Total: 2802 manchetes
+Última coleta: 2026-10-11T10:55:06.746417+00:00
+Total: 2800 manchetes
 
   🇯🇵 Japão          1106
-  🇨🇳 China          787
+  🇨🇳 China          786
   🇹🇼 Taiwan         272
-  🇰🇷 Coreia do Sul  637
+  🇰🇷 Coreia do Sul  636
 
 ## O que já está no feed (não repita)
 
+  - [japan] ココリコ遠藤＞ハワイへ家族旅行 円安＆物価上昇でカップ麺も（毎日キレイ）
   - [japan] Yen weakness since 2025 has been limited to offshore hours: analysis
   - [korea] 한·미 기준금리 10월 동결 전망…'긴축 기조는 지속될 것'
   - [korea] As investment in industrial facilities such as semiconductor fabs and data centers has emerged as a
@@ -56,7 +57,6 @@ Total: 2802 manchetes
   - [china] China Targets AI-Linked Jobs With New Employment Initiative
   - [korea] South Korea's Serious Crimes Investigation Agency plans to budget 16.9 billion won for government offices, but
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 10 was zero
-  - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 10 was zero
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2802 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T10:44:52+00:00",
+      "published_utc": "2026-10-11T10:55:06+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
