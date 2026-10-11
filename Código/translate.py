@@ -132,19 +132,94 @@ def normalizar_eras(text: str) -> str:
     return _ERA_RE.sub(troca, text or "")
 
 
-def _translate_once(text: str, lang: str) -> str | None:
-    url = f"{_ENDPOINT}?client=gtx&sl={lang}&tl=en&dt=t&q={quote(text)}"
-    body = get_text(url, retries=2, timeout=15)
-    if not body:
+# Três caminhos, na ordem. O translate_a/single (client=gtx) é o melhor, mas
+# o Google bloqueia por IP com 429 ("Sorry...") de tempos em tempos — em
+# 10–11/10/2026 bloqueou tanto o Mac quanto o GitHub Actions e toda manchete
+# nova saiu sem tradução. O endpoint da extensão do Chrome (clients5) é outro
+# limite, e o MyMemory é a rede de segurança (cota anônima ~5 mil caracteres
+# por dia, suficiente para os furos de um dia ruim).
+_CLIENTS5 = "https://clients5.google.com/translate_a/t"
+_MYMEMORY = "https://api.mymemory.translated.net/get"
+
+# Backend que falhou nesta execução não é tentado de novo: um 429 do gtx
+# custaria retries e backoff em cada uma das dezenas de manchetes.
+_desligados: set[str] = set()
+_falhas: dict[str, int] = {}
+uso: dict[str, int] = {}
+_estado_lock = threading.Lock()
+_MAX_FALHAS = 3
+
+
+def _json_ou_none(url: str):
+    body = get_text(url, retries=1, timeout=15)
+    if not body or body.lstrip().startswith("<"):
         return None
     try:
-        data = json.loads(body)
-        # formato: [[["traduzido","original",...], ...], ...]
-        chunks = [seg[0] for seg in data[0] if seg and seg[0]]
-        out = "".join(chunks).strip()
-        return out or None
-    except (json.JSONDecodeError, IndexError, TypeError):
+        return json.loads(body)
+    except json.JSONDecodeError:
         return None
+
+
+def _via_gtx(text: str, lang: str) -> str | None:
+    data = _json_ou_none(f"{_ENDPOINT}?client=gtx&sl={lang}&tl=en&dt=t&q={quote(text)}")
+    try:
+        # formato: [[["traduzido","original",...], ...], ...]
+        return "".join(seg[0] for seg in data[0] if seg and seg[0]).strip() or None
+    except (IndexError, TypeError, KeyError):
+        return None
+
+
+def _via_clients5(text: str, lang: str) -> str | None:
+    data = _json_ou_none(f"{_CLIENTS5}?client=dict-chrome-ex&sl={lang}&tl=en&q={quote(text)}")
+    try:
+        # ["traduzido"] ou [["traduzido","ja"]]
+        out = data[0]
+        if isinstance(out, list):
+            out = out[0]
+        return out.strip() if isinstance(out, str) and out.strip() else None
+    except (IndexError, TypeError, KeyError):
+        return None
+
+
+def _via_mymemory(text: str, lang: str) -> str | None:
+    data = _json_ou_none(f"{_MYMEMORY}?q={quote(text)}&langpair={quote(lang + '|en')}")
+    try:
+        if int(data.get("responseStatus", 0)) != 200 or data.get("quotaFinished"):
+            return None
+        out = (data["responseData"]["translatedText"] or "").strip()
+    except (AttributeError, KeyError, TypeError, ValueError):
+        return None
+    # Cota estourada às vezes vem como texto "traduzido" com status 200.
+    if not out or "MYMEMORY WARNING" in out.upper() or out == text:
+        return None
+    return out
+
+
+_BACKENDS = (("google", _via_gtx), ("google-ext", _via_clients5), ("mymemory", _via_mymemory))
+
+
+def _translate_once(text: str, lang: str) -> str | None:
+    for nome, fn in _BACKENDS:
+        with _estado_lock:
+            if nome in _desligados:
+                continue
+        out = fn(text, lang)
+        with _estado_lock:
+            if out:
+                _falhas[nome] = 0
+                uso[nome] = uso.get(nome, 0) + 1
+                return out
+            _falhas[nome] = _falhas.get(nome, 0) + 1
+            if _falhas[nome] >= _MAX_FALHAS:
+                _desligados.add(nome)
+    return None
+
+
+def resumo_uso() -> str:
+    partes = [f"{k} {v}" for k, v in uso.items()]
+    if _desligados:
+        partes.append("bloqueados: " + ", ".join(sorted(_desligados)))
+    return "; ".join(partes) or "nenhuma chamada"
 
 
 def translate_items(items, cache: TranslationCache) -> None:
