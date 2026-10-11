@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T20:52:42.467516+00:00
-Total: 2775 manchetes
+Última coleta: 2026-10-11T21:02:43.158212+00:00
+Total: 2778 manchetes
 
-  🇯🇵 Japão          1100
+  🇯🇵 Japão          1103
   🇨🇳 China          770
   🇹🇼 Taiwan         271
   🇰🇷 Coreia do Sul  634
 
 ## O que já está no feed (não repita)
 
+  - [japan] Investors bet on Japan, Australia rental housing as rates, home prices rise
   - [japan] Former iPhone display plant in Japan to start new life in chip supply chain
   - [japan] Japan Week Ahead: BOJ Policymakers to Digest More Q3 Data Before Oct. 29-30 Meeting; Board Widely Expected Hol
   - [korea] Shin Hyun-song’s first National Assembly inspection… ‘A lot of issues’ in the controversy over interest rate h
   - [japan] Preview: Forecasters See Another High Reading for Japanese Producer Price Inflation in September Report
+  - [japan] What the sell off in bonds means for monetary policy
   - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
   - [china] EU plans yearly cap of 350,000 Chinese hybrid cars as trade tensions rise
   - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
@@ -42,6 +44,7 @@ Total: 2775 manchetes
   - [korea] Floating rate loans increase despite consecutive increases in base interest rates... Household debt warning li
   - [japan] The Bank of Japan raises the policy interest rate from 1% to 1.25%, entering an era of interest rates. What wi
   - [japan] Kawasaki Heavy aims at 1 tril. yen in defense sales as Japan ups spending
+  - [japan] Japanese giant expands China chip packaging materials output amid AI boom
   - [taiwan] Changs Ascending September revenue jumps 92% on semiconductor plant buildouts
   - [japan] Semiconductor memory giant Micron's financial results reflect "endless memory shortage" AI servers shipped wit
   - [korea] Concerns about an 'interest bomb' in household loans due to consecutive increases in base interest rates... Th
@@ -54,9 +57,6 @@ Total: 2775 manchetes
   - [japan] Everpure director Mallun Yen sells $1.75m in shares
   - [china] In September, the central bank's various tools provided a net liquidity of 556.4 billion yuan. Experts: There 
   - [taiwan] Insider trades: P&G, Marvell Technology, TSMC among notable names
-  - [china] EU Plans Measures to Cut Imports of Chinese Hybrid Cars by Half
-  - [china] EU Plans Measures to Halve Imports of Chinese Hybrid Cars
-  - [china] China Passenger Vehicle Retail Sales Drop 24% in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2775 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T20:52:42+00:00",
+      "published_utc": "2026-10-11T21:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
