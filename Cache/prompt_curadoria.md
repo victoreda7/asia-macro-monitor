@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T21:52:42.264512+00:00
-Total: 2779 manchetes
+Última coleta: 2026-10-11T22:02:45.362333+00:00
+Total: 2782 manchetes
 
-  🇯🇵 Japão          1105
+  🇯🇵 Japão          1107
   🇨🇳 China          770
   🇹🇼 Taiwan         270
-  🇰🇷 Coreia do Sul  634
+  🇰🇷 Coreia do Sul  635
 
 ## O que já está no feed (não repita)
 
+  - [japan] "A corner of Ota Ward's three major luxury residential areas" "Ikegami Line to be detoured due to residents' o
+  - [japan] ``The company president lives there secretly'' ``It was even called ``Shin Denen Chofu''...The long history of
   - [korea] The Korea Land and Housing Corporation's (LH) debt is expected to continue to increase, exceeding 37..
   - [japan] Takaichi administration's economic policy: ``Pushing into wishful thinking is the same as the last war'' ``For
   - [japan] Investors bet on Japan, Australia rental housing as rates, home prices rise
@@ -24,6 +26,7 @@ Total: 2779 manchetes
   - [japan] Former iPhone display plant in Japan to start new life in chip supply chain
   - [japan] Japan Week Ahead: BOJ Policymakers to Digest More Q3 Data Before Oct. 29-30 Meeting; Board Widely Expected Hol
   - [korea] Shin Hyun-song’s first National Assembly inspection… ‘A lot of issues’ in the controversy over interest rate h
+  - [korea] Price and Fed variables, Bank of Korea worries about additional interest rate hike
   - [japan] Preview: Forecasters See Another High Reading for Japanese Producer Price Inflation in September Report
   - [japan] What the sell off in bonds means for monetary policy
   - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
@@ -54,9 +57,6 @@ Total: 2779 manchetes
   - [japan] Minister Kihara "Carefully discuss with opposition parties to pass tax reduction bill, etc." NHK Sunday debate
   - [korea] South Korean Firms Diverge as Large-Company Exports Surge and Small-Business Output Falls
   - [japan] A 47-year-old single woman gave up her 80 square meter apartment and moved to a 1LDK/custom-built home as her 
-  - [japan] Employment of 50 people with disabilities terminated after 9 months
-  - [taiwan] Huge capital investment in Taiwan's semiconductor back-end process ``Packaging and testing are not supporting 
-  - [japan] Everpure director Mallun Yen sells $1.75m in shares By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2779 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T21:52:42+00:00",
+      "published_utc": "2026-10-11T22:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
