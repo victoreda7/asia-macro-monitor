@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T05:54:04.124533+00:00
-Total: 2831 manchetes
+Última coleta: 2026-10-11T06:04:03.777272+00:00
+Total: 2829 manchetes
 
-  🇯🇵 Japão          1123
-  🇨🇳 China          792
+  🇯🇵 Japão          1121
+  🇨🇳 China          791
   🇹🇼 Taiwan         275
-  🇰🇷 Coreia do Sul  641
+  🇰🇷 Coreia do Sul  642
 
 ## O que já está no feed (não repita)
 
+  - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
   - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
   - [korea] Hacking attempts on BOK, state lenders top 1 million
   - [korea] 기준금리 연속 인상에도 변동금리 대출 증가···가계부채 경고등
@@ -56,7 +57,6 @@ Total: 2831 manchetes
   - [china] Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China
   - [korea] Prices that cannot be determined... Will the Bank of Korea and the US Federal Reserve raise the base interest 
   - [japan] Japan food tax cut gets cabinet approval with key questions unanswered
-  - [china] Super Micro Contractor Pleads Guilty In Scheme To Divert Computer Servers Built With Nvidia AI Chips To China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2831 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T05:54:04+00:00",
+      "published_utc": "2026-10-11T06:04:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
