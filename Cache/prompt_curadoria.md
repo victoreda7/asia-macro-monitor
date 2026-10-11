@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T06:34:20.168978+00:00
-Total: 2829 manchetes
+Última coleta: 2026-10-11T06:44:03.348170+00:00
+Total: 2828 manchetes
 
-  🇯🇵 Japão          1120
+  🇯🇵 Japão          1119
   🇨🇳 China          791
   🇹🇼 Taiwan         275
   🇰🇷 Coreia do Sul  643
 
 ## O que já está no feed (não repita)
 
+  - [korea] Food companies that were sanctioned for fixing food prices, such as sugar and flour, topped the Fair..
   - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
   - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
   - [korea] 기준금리 연속 인상에 가계대출 '이자 폭탄' 우려…변동금리 비중 57% 돌파
@@ -56,7 +57,6 @@ Total: 2829 manchetes
   - [japan] Why are bankruptcies at record high due to high prices?
   - [korea] The execution rate of the information protection budget of 20 financial companies with many computer..
   - [japan] Did the Bank of Japan achieve its price target? (Hiroyuki Kubota) - Expert
-  - [japan] Nakayama Kinni-kun conducts a “real” price survey at an American supermarket.Although he is surprised by the 5
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2829 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T06:34:20+00:00",
+      "published_utc": "2026-10-11T06:44:03+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
