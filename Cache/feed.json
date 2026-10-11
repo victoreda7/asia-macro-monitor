@@ -1,18 +1,34 @@
 {
- "generated_at_utc": "2026-10-11T15:32:45.016319+00:00",
- "collected_at_utc": "2026-10-11T15:32:45.016319+00:00",
+ "generated_at_utc": "2026-10-11T15:42:43.359786+00:00",
+ "collected_at_utc": "2026-10-11T15:42:43.359786+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 39,
  "sources_total": 41,
  "count": 2778,
  "by_region": {
   "japan": 1102,
-  "china": 770,
-  "taiwan": 272,
+  "china": 771,
+  "taiwan": 271,
   "korea": 634
  },
- "elapsed_s": 31.5,
+ "elapsed_s": 29.6,
  "sources": [
+  {
+   "source_id": "gn_kr_herald",
+   "name": "Korea Herald",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-11T15:01:18+00:00"
+   "newest": "2026-10-11T15:30:36+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +99,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-11T14:44:22+00:00"
+   "newest": "2026-10-11T15:30:36+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -124,14 +140,6 @@
    "count": 24,
    "error": "",
    "newest": "2026-10-09T18:00:00+09:00"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "name": "Korea Herald",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-11T04:43:22+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -267,7 +275,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-11T15:30:46+00:00"
+   "newest": "2026-10-11T15:39:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -300,14 +308,6 @@
    "count": 8,
    "error": "",
    "newest": "2026-10-11T13:42:08+00:00"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-11T02:26:48+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "EU plans yearly cap of 350,000 Chinese hybrid cars as trade tensions rise",
+   "url": "https://www.tradingview.com/news/seekingalpha:4a5c9f1b3094b:0-eu-plans-yearly-cap-of-350-000-chinese-hybrid-cars-as-trade-tensions-rise/",
+   "published_utc": "2026-10-11T15:39:32+00:00",
+   "title_original": "EU plans yearly cap of 350,000 Chinese hybrid cars as trade tensions rise",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3507d191720382cc"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Solidigm IPO sparks debate over SK hynix shareholder value",
@@ -364,7 +381,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "국민일보",
    "title_en": "The Bank of Korea predicts a ‘hawkish freeze’ in its benchmark interest rate in October… Additional tightening variables in the US",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1BFWTV0eXlETWFVc2NkUTg1eVJFMDFQdUMwaF9ITDRVTmMzVXhpQzZXOWtzMWJmQmotRGFuRGJaYTNRVXppMGRjUEtZSVZHbkVKUUQtRC1DX1M0ZU8zQXJ4UGhfXzk1LTBjZXdNbUxSNXdLd2c4a2hvUXJTcGFuLUxtcVNBRmh2amfSAWxBVV95cUxPcGZVRGhmbjFlWnF1U0NJenYxZVJSSTVlMEpwM0RxaUFId1pLQUtDZWNQRC1iMFFMQVZBXzA4MUJYTkk1Q3VHc1BuRTdnZ2czZEw5OXFheC1ld3VsajZYOWxHT21lREtlTS1nOUM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOelpiaGhPd3loaG9YTDVuYkx2NUVMYzNGZUFsTzlGam55N2ZVVUo0LWpReXRoZFl0MjlzMXlPSzN3TGpnSmV4eE5VbGhuQ25teG5JT3c5SkR1V1ZZWHNZTkZYUnVMX2FFbVlPT1NDUHBLYmdoOTBLSHpYWXBIWmhoQWd1REU3TGPSAWxBVV95cUxPcGZVRGhmbjFlWnF1U0NJenYxZVJSSTVlMEpwM0RxaUFId1pLQUtDZWNQRC1iMFFMQVZBXzA4MUJYTkk1Q3VHc1BuRTdnZ2czZEw5OXFheC1ld3VsajZYOWxHT21lREtlTS1nOUM?oc=5",
    "published_utc": "2026-10-11T15:21:00+00:00",
    "title_original": "한은 10월 기준금리 ‘매파적 동결’ 전망… 美 추가 긴축 변수",
    "region": "korea",
@@ -375,7 +392,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e389b48c7ea2db9"
+   "id": "2faaa1f9322a7f5c"
   },
   {
    "source_id": "korea_herald_biz",
@@ -48076,23 +48093,6 @@
    "live_wire": false,
    "manual": false,
    "id": "605ff658181a33a1"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Explainer: Why is the Bab el-Mandeb Strait so important?",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDdhUHRWTzdDb3pHSHlPa3phYjNsWVc4V1FaUmprbUZIeFZsN1M5SEE1bGRUbHhCU0xYcDdtVWdvOGd6bE9xVE05ek5FbzQ2RDAyUzBCdWV4VHNsUVllWWpMOW84WmYyc0g1UUVQNVJPSXZTeHcxNlNzSzFheVRlV29qX1hYUTkxYkNzYnhiNTFFeGFHc3FMam5R?oc=5",
-   "published_utc": "2026-09-11T15:41:08+00:00",
-   "title_original": "Explainer: Why is the Bab el-Mandeb Strait so important?",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "82ccf8f54f61e040"
   },
   {
    "source_id": "manual_ia",

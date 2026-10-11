@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-11T15:32:45.016319+00:00
+Última coleta: 2026-10-11T15:42:43.359786+00:00
 Total: 2778 manchetes
 
   🇯🇵 Japão          1102
-  🇨🇳 China          770
-  🇹🇼 Taiwan         272
+  🇨🇳 China          771
+  🇹🇼 Taiwan         271
   🇰🇷 Coreia do Sul  634
 
 ## O que já está no feed (não repita)
 
+  - [china] EU plans yearly cap of 350,000 Chinese hybrid cars as trade tensions rise
   - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
   - [korea] The Bank of Korea predicts a ‘hawkish freeze’ in its benchmark interest rate in October… Additional tightening
   - [korea] Hacking attempts on BOK, state lenders top 1 million
@@ -56,7 +57,6 @@ Total: 2778 manchetes
   - [china] EU Says China Accord Could Cut Hybrid Car Exports by Half
   - [china] EU Says China Will Cut Hybrid Car Exports by Millions
   - [china] Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's
-  - [japan] Japan turns academic success into an export industry
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2778 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-11T15:32:45+00:00",
+      "published_utc": "2026-10-11T15:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
