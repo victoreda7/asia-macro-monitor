@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-12T09:22:43.590212+00:00",
- "collected_at_utc": "2026-10-12T09:22:43.590212+00:00",
+ "generated_at_utc": "2026-10-12T09:32:50.434642+00:00",
+ "collected_at_utc": "2026-10-12T09:32:50.434642+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
- "count": 2898,
+ "count": 2897,
  "by_region": {
   "japan": 1107,
   "china": 803,
   "taiwan": 278,
-  "korea": 710
+  "korea": 709
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 34.7,
  "sources": [
+  {
+   "source_id": "gn_asia_ft",
+   "name": "FT Asia",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -46,14 +54,6 @@
    "newest": "2026-10-12T07:18:34+00:00"
   },
   {
-   "source_id": "gn_asia_ft",
-   "name": "FT Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T06:56:47+00:00"
-  },
-  {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T09:05:15+00:00"
+   "newest": "2026-10-12T09:24:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T09:00:27+00:00"
+   "newest": "2026-10-12T09:24:20+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T09:00:00+00:00"
+   "newest": "2026-10-12T09:01:32+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-12T18:19:28+09:00"
+   "newest": "2026-10-12T18:23:44+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T09:20:42+00:00"
+   "newest": "2026-10-12T09:31:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -1124,6 +1124,24 @@
    "live_wire": true,
    "manual": false,
    "id": "e03340bf995597ec"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "조선일보",
+   "title_en": "Shin Hyun-song, “Buying time by preemptively raising interest rates… We will raise our voices more on financial issues.”",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXhscHBGZGJfR1MyNC01UVIxVkpaTElOYWZJQVpTd2otYlBBRGNYamNUYkVGNGNCd1o5cnVPdS13LUJiX2Z3NmU2NG1KSUlCcXhUZXhPbFpyemZPTlJ0ZXNRMzhJR2gxb25lSkdfNEFrYk1MOFNKZTlWRGdxaWlXN0JMdkNPSXo2RC1hLU5B?oc=5",
+   "published_utc": "2026-10-12T06:31:19+00:00",
+   "title_original": "신현송 \"선제적 금리 인상으로 시간 벌어…재정 문제, 목소리 더 낼 것\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c425e44aa4dd5e9f"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2062,23 +2080,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0e216fa575500a81"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한스경제",
-   "title_en": "[Issue Inspection] Bank of Korea raises base interest rate to 3.0%...maintains ‘austerity stance’",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwZWVuSEZsaVg5MTN0djM1eXlMSXVvVmRZWU1hTGRjM3BDdElPSVVZLU53UDd3ejhTMWNSV2llUlBCNXAxOENLN1A3NnI0VXAzWDRienE5dWsyOHk3MUVsdEtGano0NWRoQTRyQndWVdIBb0FVX3lxTFBwZWVuSEZsaVg5MTN0djM1eXlMSXVvVmRZWU1hTGRjM3BDdElPSVVZLU53UDd3ejhTMWNSV2llUlBCNXAxOENLN1A3NnI0VXAzWDRienE5dWsyOHk3MUVsdEtGano0NWRoQTRyQndWVQ?oc=5",
-   "published_utc": "2026-10-12T01:48:26+00:00",
-   "title_original": "[이슈국감] 한은, 기준금리 3.0%로 인상...'긴축 기조' 유지",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "dc2344017b6420b9"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3138,8 +3139,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -3152,7 +3153,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -4100,8 +4101,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -4115,7 +4116,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -4306,8 +4307,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -4321,7 +4322,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -5124,8 +5125,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -5139,7 +5140,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -50166,23 +50167,6 @@
    "live_wire": false,
    "manual": false,
    "id": "658917358beac9c4"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "South Korean government adds 90 billion won to Chuseok price measures...to supply 22,000 tons of marine products (KOREA WAVE)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PdXZaRnRmVTh4eGRvWHRoUWw4TjJscFJ5dklGdlRtN21DbXl0ZjJpOGdlcDZYS2RrN0hlYi1ZM1ZCa25lMVFUYlpCQW9nMTJwbXJhQTBJOEt0N0Fzb1Nta2psT2NUZGZEbE05b3o1TmRYQllSak9aRW1LaTNkWk0?oc=5",
-   "published_utc": "2026-09-12T09:24:16+00:00",
-   "title_original": "韓国政府、秋夕の物価対策に900億ウォン追加…水産物2万2000トン供給へ（KOREA WAVE）",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6f55b3fd75c848d4"
   },
   {
    "source_id": "manual_ia",
