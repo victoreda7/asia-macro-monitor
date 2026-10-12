@@ -7,18 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T09:12:44.101403+00:00
-Total: 2895 manchetes
+Última coleta: 2026-10-12T09:22:43.590212+00:00
+Total: 2898 manchetes
 
-  🇯🇵 Japão          1108
-  🇨🇳 China          800
+  🇯🇵 Japão          1107
+  🇨🇳 China          803
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  709
+  🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares open lower on inflation, Mideast woes
+  - [china] China's new car exports increased by 60% in September; high gasoline prices may also boost EV demand
+  - [china] China to lower VAT export rebate on new energy vehicles
+  - [china] China-EU car deal eases trade tensions for now at least
   - [korea] Exports double in first 10 days of Oct. on chip boom
   - [china] Micron Stock Slips as China Memory Chip Threat Ramps Up — Barrons.com
+  - [china] IMF Urges China to Shift Growth Model Toward Consumption, Services
+  - [korea] Korean budget carriers shift to cargo to ease passenger, fuel pressures amid chip boom
   - [china] Table: Yuan Ding Investment Corp. Sep Rev NT$2.37B Vs NT$1.77B
   - [korea] [2026 National Assembly Audit] Shin Hyun-song “Buying time by preemptively raising interest rates”… Austerity 
   - [china] China’s CXMT makes ‘key progress’ on new chip structure: SCMP
@@ -51,12 +57,6 @@ Total: 2895 manchetes
   - [korea] Shin Hyun-song’s first appearance as National Assembly inspector… “Further interest rate increases and inflati
   - [korea] [Today Who] Bank of Korea Shin Hyun-song's debut as National Assembly inspector, re-emphasizes 'necessity of i
   - [korea] (LEAD) Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
-  - [korea] Asia stocks mixed as Korean chipmakers slide on CXMT threat
-  - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
-  - [korea] Bank of Korea Governor Shin Hyun-song “When deciding on interest rates, price trends are the top priority… Red
-  - [china] Drone firm executives detained over alleged use of China-made chips
-  - [korea] Kospi Falls for Fourth Straight Session; Chip Stocks Retreat
-  - [korea] Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, price trends are the most important”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2895 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T09:12:44+00:00",
+      "published_utc": "2026-10-12T09:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
