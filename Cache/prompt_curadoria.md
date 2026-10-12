@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T00:52:43.993958+00:00
-Total: 2790 manchetes
+Última coleta: 2026-10-12T01:02:45.820162+00:00
+Total: 2793 manchetes
 
-  🇯🇵 Japão          1107
-  🇨🇳 China          769
+  🇯🇵 Japão          1108
+  🇨🇳 China          770
   🇹🇼 Taiwan         270
-  🇰🇷 Coreia do Sul  644
+  🇰🇷 Coreia do Sul  645
 
 ## O que já está no feed (não repita)
 
+  - [korea] The Bank of Korea repeatedly indicates its intention to “further increase the base interest rate”
+  - [china] Tencent proposes dollar, offshore yuan note offering
+  - [china] The central bank's 302 billion yuan reverse repo expires this week, and the 500 billion yuan buyout expires on
   - [korea] Exports double in first 10 days of Oct. on chip boom
+  - [japan] Nikkei average growth is sluggish, focus on TSMC performance and price index (TV Asahi (ANN))
   - [korea] Seoul shares open lower on inflation, Mideast woes
   - [korea] (LEAD) Seoul shares open lower on inflation, Mideast woes
   - [korea] (LEAD) Exports double in first 10 days of October on chips
@@ -53,10 +57,6 @@ Total: 2790 manchetes
   - [korea] Korea-US base interest rates expected to freeze in October... 'The austerity trend will continue'
   - [korea] As investment in industrial facilities such as semiconductor fabs and data centers has emerged as a
   - [korea] Food companies that were sanctioned for fixing food prices, such as sugar and flour, topped the Fair..
-  - [korea] “Interest rates are soaring, what happens to interest?” 57.3% of household loans have variable interest rates
-  - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Summit
-  - [taiwan] Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks
-  - [korea] Floating rate loans increase despite consecutive increases in base interest rates... Household debt warning li
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2790 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T00:52:44+00:00",
+      "published_utc": "2026-10-12T01:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
