@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T03:42:44.760437+00:00
-Total: 2830 manchetes
+Última coleta: 2026-10-12T03:52:42.693908+00:00
+Total: 2832 manchetes
 
   🇯🇵 Japão          1109
-  🇨🇳 China          778
+  🇨🇳 China          780
   🇹🇼 Taiwan         273
   🇰🇷 Coreia do Sul  670
 
 ## O que já está no feed (não repita)
 
+  - [china] PBOC Expected to Tolerate Further Gradual Yuan Appreciation — Market Talk
   - [korea] South Korean Won Hits 24-month High
   - [japan] Yen Holds Steady in Thin Holiday Trade
   - [korea] Bank of Korea Governor Shin Hyun-song attends G20/IMF annual general meeting... Global economic and monetary p
   - [korea] South Korean Won's Gains Underpinned by Robust Exports, Current Account Surplus — Market Talk
+  - [china] China sanctions Paraguay, Belize ministers over Taiwan ties
   - [korea] Governor of the Bank of Korea: “Reduces ultimate costs by raising base interest rates in consecutive months in
   - [korea] Governor of the Bank of Korea: “Buying time by preemptively raising interest rates… ultimately reducing costs.
   - [korea] The role of the Bank of Korea in expansionary finances is highlighted... Shin Hyun-song “I will protect my ind
@@ -33,6 +35,7 @@ Total: 2830 manchetes
   - [korea] Governor of the Bank of Korea: “Carry out independent monetary policy without hesitation”
   - [china] China-EU Deal Likely Averts Trade War, But Impact Limited — Market Talk
   - [korea] Finance minister urges preemptive action for supply chain stability
+  - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
   - [taiwan] MediaTek flagship AP share to surpass Samsung as TSMC boosts Dimensity
   - [korea] After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..
   - [korea] [Issue Inspection] Bank of Korea raises base interest rate to 3.0%...maintains ‘austerity stance’
@@ -41,7 +44,6 @@ Total: 2830 manchetes
   - [korea] [2026 National Assembly Audit] Bank of Korea Governor's inflation rate exceeds target for a considerable perio
   - [china] CHINA PBOC CONDUCTS CNY50 BLN VIA 7-DAY REVERSE REPO MON
   - [korea] S. Korea likely to continue solid growth driven by robust chip exports
-  - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
   - [korea] President Shin Hyun-song “Solid growth continues…inflation has exceeded target for a considerable period of ti
   - [china] On October 12, the central bank launched a 50 billion yuan 7-day reverse repurchase operation.
   - [korea] The Bank of Korea raised interest rates for the second time in a row... Shin Hyun-song “Possibility of insolve
@@ -55,8 +57,6 @@ Total: 2830 manchetes
   - [korea] Samsung and SK Hynix Tackle HBM4E Cooling as AI Interposers May Grow 40-Fold
   - [korea] The Bank of Korea repeatedly indicates its intention to “further increase the base interest rate”
   - [china] CX Daily: Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say
-  - [china] Tencent proposes dollar, offshore yuan note offering
-  - [china] The central bank's 302 billion yuan reverse repo expires this week, and the 500 billion yuan buyout expires on
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2830 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T03:42:44+00:00",
+      "published_utc": "2026-10-12T03:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

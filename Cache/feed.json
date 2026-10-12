@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T03:42:44.760437+00:00",
- "collected_at_utc": "2026-10-12T03:42:44.760437+00:00",
+ "generated_at_utc": "2026-10-12T03:52:42.693908+00:00",
+ "collected_at_utc": "2026-10-12T03:52:42.693908+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2830,
+ "count": 2832,
  "by_region": {
   "japan": 1109,
-  "china": 778,
+  "china": 780,
   "taiwan": 273,
   "korea": 670
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-11T23:29:29+00:00"
+   "newest": "2026-10-12T00:34:02+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T03:00:15+00:00"
+   "newest": "2026-10-12T03:30:06+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-11T18:12:20+00:00"
+   "newest": "2026-10-12T00:56:15+00:00"
   },
   {
    "source_id": "ked_global",
@@ -121,7 +121,7 @@
    "source_id": "kantei_jnews",
    "name": "Kantei 首相官邸",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
    "newest": "2026-10-12T09:00:00+09:00"
   },
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T01:36:03+00:00"
+   "newest": "2026-10-12T01:56:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T00:42:00+00:00"
+   "newest": "2026-10-12T00:49:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T01:24:00+00:00"
+   "newest": "2026-10-12T02:54:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T03:41:00+00:00"
+   "newest": "2026-10-12T03:51:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T02:28:44+00:00"
+   "newest": "2026-10-08T00:19:02+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "PBOC Expected to Tolerate Further Gradual Yuan Appreciation — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261011000706:0-pboc-expected-to-tolerate-further-gradual-yuan-appreciation-market-talk/",
+   "published_utc": "2026-10-12T03:46:00+00:00",
+   "title_original": "PBOC Expected to Tolerate Further Gradual Yuan Appreciation — Market Talk",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6ce8595c36f614d5"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
@@ -412,6 +430,23 @@
    "live_wire": true,
    "manual": false,
    "id": "2620c3e282eab02f"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
+   "published_utc": "2026-10-12T02:54:00+00:00",
+   "title_original": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ef4629187a233822"
   },
   {
    "source_id": "gn_kr_bok",
@@ -570,9 +605,9 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "연합뉴스 한민족센터",
+   "source_name": "연합뉴스",
    "title_en": "Governor of the Bank of Korea: “Carry out independent monetary policy without hesitation”",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Kc1ZKZ2dKLWRGYzNtRXg5dU9CUlBVRkVQdkozWWFJUHNOb2JsMUNzd1RZSEFER1RYTE8yRkxtZVZvdFV6c1JsX3VXQmdxV3lBQV94TU1GeTlINE4wNTRNZVRmVTg1WnRzWnNTYndITTFDWWg0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92SUl4UlV6Vnd2M05ZQzVLQkJFVDlGWm5qR0dGcmRRVmxLZTZ4UUljUGIyVDUwQ19ickFFRXNxWHRFa3lvNWRyOWdCRHN5a1Z4bkUtUk5ma3ZiRVJOUmk0NtIBYEFVX3lxTE92SUl4UlV6Vnd2M05ZQzVLQkJFVDlGWm5qR0dGcmRRVmxLZTZ4UUljUGIyVDUwQ19ickFFRXNxWHRFa3lvNWRyOWdCRHN5a1Z4bkUtUk5ma3ZiRVJOUmk0Ng?oc=5",
    "published_utc": "2026-10-12T02:11:34+00:00",
    "title_original": "한은 총재 \"독립적 통화정책 흔들림 없이 수행\"",
    "region": "korea",
@@ -584,7 +619,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "49d30752e91754e2"
+   "id": "c9b8dba19166694c"
   },
   {
    "source_id": "tradingview_live",
@@ -620,6 +655,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d73f408aefb63376"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launched a 50 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWUxjSnpTSWZNYUkwa1l2NnVhNzdFcjBRdGl0MXEtMkJEaFZXSERnZzR0by03RTdQSXVOUlR2ajNMUEVaZDBBZlMwYU52bllaTFZOaVYyQVRyRms0dWJhNVByM0hnWUNEcnBtOFEwVDJxUmlpTEZNTXNwOFJoc09lb1hHVXJaZGpaZlRucDN3?oc=5",
+   "published_utc": "2026-10-12T01:56:00+00:00",
+   "title_original": "央行今日开展500亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc06c301b692fc60"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -761,24 +814,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2103ea551d9441fb"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "资鲸",
-   "title_en": "The central bank launched a 50 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXg5anFCbUdjc3VsSGRCN1VyRDVfLWM0Z0pQQkwtTFVJTHV0SnRMeGZMeHBtQjZvTEd2cUlMZFBlMUhRQkV1TWV6V0dQMFh6Vkk3bEd5UHJJSkI3SzdEVDhqb2pmNk1xQjBVdTBfNm9mNXlFYmpWZHZ3ZEhpdExmRUxkYUVIZXpnU3V1bHhvbXhXQQ?oc=5",
-   "published_utc": "2026-10-12T01:36:03+00:00",
-   "title_original": "央行今日开展500亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "17e8b6d3ed9410ea"
   },
   {
    "source_id": "gn_kr_bok",
