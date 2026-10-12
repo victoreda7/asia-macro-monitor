@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T02:12:41.587555+00:00
-Total: 2812 manchetes
+Última coleta: 2026-10-12T02:17:49.632460+00:00
+Total: 2813 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          776
   🇹🇼 Taiwan         271
-  🇰🇷 Coreia do Sul  657
+  🇰🇷 Coreia do Sul  658
 
 ## O que já está no feed (não repita)
 
-  - [china] China-EU Deal Likely Averts Trade War, But Impact Limited — Market Talk
+  - [korea] Most Asian currencies muted; South Korean won hits two-year high
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
+  - [china] China-EU Deal Likely Averts Trade War, But Impact Limited — Market Talk
   - [korea] Finance minister urges preemptive action for supply chain stability
   - [taiwan] MediaTek flagship AP share to surpass Samsung as TSMC boosts Dimensity
   - [korea] After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..
@@ -56,7 +57,6 @@ Total: 2812 manchetes
   - [korea] The Korea Land and Housing Corporation's (LH) debt is expected to continue to increase, exceeding 37..
   - [japan] Takaichi administration's economic policy: ``Pushing into wishful thinking is the same as the last war'' ``For
   - [japan] Investors bet on Japan, Australia rental housing as rates, home prices rise
-  - [japan] "European Debt Crisis 2.0" becomes a reality with the explosion in France...Can the ECB put out the fire as in
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2812 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T02:12:41+00:00",
+      "published_utc": "2026-10-12T02:17:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
