@@ -7,22 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T04:22:42.759268+00:00
-Total: 2836 manchetes
+Última coleta: 2026-10-12T04:32:44.161443+00:00
+Total: 2840 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          782
+  🇨🇳 China          783
   🇹🇼 Taiwan         276
-  🇰🇷 Coreia do Sul  670
+  🇰🇷 Coreia do Sul  673
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why is Samsung Electronics stock sliding today?
+  - [korea] Why is SK Hynix stock sliding today?
   - [china] Yuan holds near 3-1/2-year high against dollar as rate bets ease
+  - [japan] Nikkei average growth is sluggish, focus on TSMC performance and price index (TV Asahi (ANN))
   - [taiwan] Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas
   - [china] EU-China Deal Could Halve Chinese Hybrid Car Exports
   - [china] China Moves to Stave Off Wider EU Trade War With Hybrid Deal
   - [china] PBOC Expected to Tolerate Further Gradual Yuan Appreciation — Market Talk
   - [korea] South Korean Won Hits 2-Year High
+  - [korea] Bank of Korea Governor Shin Hyun-song: “Monetary policy independence is firm”… Leveraged ETF admits lack of ri
   - [korea] South Korean Won Hits 24-month High
   - [taiwan] Gold gains on weaker oil, dollar; US inflation data in focus
   - [japan] Yen Holds Steady in Thin Holiday Trade
@@ -53,10 +57,6 @@ Total: 2836 manchetes
   - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
   - [korea] President Shin Hyun-song “Solid growth continues…inflation has exceeded target for a considerable period of ti
   - [china] On October 12, the central bank launched a 50 billion yuan 7-day reverse repurchase operation.
-  - [korea] The Bank of Korea raised interest rates for the second time in a row... Shin Hyun-song “Possibility of insolve
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7313 MON VS 6.7330
-  - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il announced on the 12th that he..
-  - [china] Tencent plans dollar, offshore yuan bond sale under note programme
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2836 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T04:22:42+00:00",
+      "published_utc": "2026-10-12T04:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

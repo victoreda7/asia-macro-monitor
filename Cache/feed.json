@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T04:22:42.759268+00:00",
- "collected_at_utc": "2026-10-12T04:22:42.759268+00:00",
+ "generated_at_utc": "2026-10-12T04:32:44.161443+00:00",
+ "collected_at_utc": "2026-10-12T04:32:44.161443+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2836,
+ "count": 2840,
  "by_region": {
   "japan": 1108,
-  "china": 782,
+  "china": 783,
   "taiwan": 276,
-  "korea": 670
+  "korea": 673
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T04:03:26+00:00"
+   "newest": "2026-10-12T04:18:04+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T03:34:23+00:00"
+   "newest": "2026-10-12T03:33:45+00:00"
   },
   {
    "source_id": "ked_global",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-10-12T01:36:03+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T04:22:04+00:00"
+   "newest": "2026-10-12T04:30:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T03:01:22+00:00"
+   "newest": "2026-10-12T04:12:30+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T03:00:00+00:00"
+   "newest": "2026-10-12T03:45:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is Samsung Electronics stock sliding today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-sliding-today-93CH-4943063",
+   "published_utc": "2026-10-12T04:18:04+00:00",
+   "title_original": "Why is Samsung Electronics stock sliding today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3a8dcdfcd2f26f34"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is SK Hynix stock sliding today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4943062",
+   "published_utc": "2026-10-12T04:18:01+00:00",
+   "title_original": "Why is SK Hynix stock sliding today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e53220cd62a9e5c6"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -359,6 +393,24 @@
    "live_wire": true,
    "manual": false,
    "id": "4b0988b5a7dc2b97"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Nikkei average growth is sluggish, focus on TSMC performance and price index (TV Asahi (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wSEJla01pVklNVEJMM05XemdiSjFNNFZ3ZnlnUGhaRTR6Tm5vVC1Ock1HeWt1MWdxMWVPS3pEWHJCZU85OVZtVFNIdFpidkJqTXRraTBRQnZrbjRzTThJYlZjVUZMS3dTYTFBZWhQWmgxZHhhOGx3SmcxbjNveE0?oc=5",
+   "published_utc": "2026-10-12T04:12:30+00:00",
+   "title_original": "日経平均伸び悩み TSMC業績と物価指数に注目（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f613dfe81e4fcd77"
   },
   {
    "source_id": "tradingview_live",
@@ -445,6 +497,24 @@
    "live_wire": true,
    "manual": false,
    "id": "058173e8b68839ca"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "서울뉴스통신",
+   "title_en": "Bank of Korea Governor Shin Hyun-song: “Monetary policy independence is firm”… Leveraged ETF admits lack of risk warning",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tdGlQOWRyZkxHaXFPRzhtcS1lV21LMVptVXNaejVXVEhDNW9CbHFPTm13M0lraVJHdVB0U1UwUWthYjNuZFV1OUdHdmJWeTVYOHEtUXN3VHJSbE9OT0d0Zm0wTTZLWDY1Z0Fn?oc=5",
+   "published_utc": "2026-10-12T03:45:00+00:00",
+   "title_original": "신현송 한은 총재 \"통화정책 독립성 확고\"…레버리지 ETF 위험 경고 부족 인정",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2b307e9f91c4cc78"
   },
   {
    "source_id": "tradingview_live",
@@ -1021,6 +1091,24 @@
    "id": "7e02b18181046857"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "手机新浪网",
+   "title_en": "The People's Bank of China's reverse repurchase operation achieved a net withdrawal of 250 billion yuan on the same day_7x24 News_Sina Finance",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44dE52RkxBdG5YX1VHSG9uVWR1OVNLbWxPQ08yUjlfcWVLSTJOSjd3R2I5SzU5VUNjdlJ6WWZkVV90ZFVzLVVUOGNJOA?oc=5",
+   "published_utc": "2026-10-12T01:20:40+00:00",
+   "title_original": "中国央行逆回购操作当日实现净回笼2500亿元_7x24快讯_新浪财经",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "30091860704224f7"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Tencent plans dollar, offshore yuan bond sale under note programme",
@@ -1208,24 +1296,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0b5b5def0e9961de"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Nikkei average growth is sluggish, focus on TSMC performance and price index (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wSEJla01pVklNVEJMM05XemdiSjFNNFZ3ZnlnUGhaRTR6Tm5vVC1Ock1HeWt1MWdxMWVPS3pEWHJCZU85OVZtVFNIdFpidkJqTXRraTBRQnZrbjRzTThJYlZjVUZMS3dTYTFBZWhQWmgxZHhhOGx3SmcxbjNveE0?oc=5",
-   "published_utc": "2026-10-12T00:38:31+00:00",
-   "title_original": "日経平均伸び悩み TSMC業績と物価指数に注目（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f613dfe81e4fcd77"
   },
   {
    "source_id": "korea_herald_biz",
