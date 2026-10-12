@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-12T23:42:43.169136+00:00",
- "collected_at_utc": "2026-10-12T23:42:43.169136+00:00",
+ "generated_at_utc": "2026-10-12T23:52:43.937517+00:00",
+ "collected_at_utc": "2026-10-12T23:52:43.937517+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2915,
+ "count": 2916,
  "by_region": {
-  "japan": 1108,
+  "japan": 1109,
   "china": 812,
   "taiwan": 284,
   "korea": 711
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 47,
+   "count": 48,
    "error": "",
-   "newest": "2026-10-09T18:00:00+09:00"
+   "newest": "2026-10-13T08:50:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T23:31:12+00:00"
+   "newest": "2026-10-12T23:50:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T22:56:26+00:00"
+   "newest": "2026-10-12T23:44:03+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Corporate Goods Price Index (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
+   "published_utc": "2026-10-12T23:50:00+00:00",
+   "title_original": "Corporate Goods Price Index (Sept.)",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a6981feb23bc2f0f"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "한겨레",
@@ -1330,7 +1347,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Governor of the Bank of Korea: “A 0.5% point increase in the base interest rate has the effect of reducing the inflation rate by 0.08% points” (comprehensive)",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xWWZ6dmFieWdrMl9NTzd6QjNUNEQ3Y2RWdGxQN2JncUZ1ZXZka2ExYmVCQTdPRl9zNTRxM3p5cnl2MHc4TkEzR1NHRmlwUGZISm1feUpyQVFHc0nSAWBBVV95cUxOZkdYYVd3cm1jSHNuZTFHUEptOUtnOHBkX3JLaGdpSEx2U3JrWXhPc0pBWkt1dEs3a2lSSVliSWFsanFwZXZBalJYWktfemNRci1LcThvMGlGd2NQVGlMNDM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mR1hhV3dybWNIc25lMUdQSm05S2c4cGRfcktoZ2lITHZTcmtZeE9zSkFaS3V0SzdraVJJWWJJYWxqcXBldkFqUlhaS196Y1FyLUtxOG8waUZ3Y1BUaUw0M9IBYEFVX3lxTE5mR1hhV3dybWNIc25lMUdQSm05S2c4cGRfcktoZ2lITHZTcmtZeE9zSkFaS3V0SzdraVJJWWJJYWxqcXBldkFqUlhaS196Y1FyLUtxOG8waUZ3Y1BUaUw0Mw?oc=5",
    "published_utc": "2026-10-12T08:30:37+00:00",
    "title_original": "한은 총재 \"기준금리 0.5%p 인상, 물가상승률 0.08%p 하락 효과\"(종합)",
    "region": "korea",
@@ -1342,7 +1359,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b03423ea7e67b829"
+   "id": "700794882ce7e8e4"
   },
   {
    "source_id": "focus_taiwan",

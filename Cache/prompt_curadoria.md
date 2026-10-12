@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T23:42:43.169136+00:00
-Total: 2915 manchetes
+Última coleta: 2026-10-12T23:52:43.937517+00:00
+Total: 2916 manchetes
 
-  🇯🇵 Japão          1108
+  🇯🇵 Japão          1109
   🇨🇳 China          812
   🇹🇼 Taiwan         284
   🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [japan] Corporate Goods Price Index (Sept.)
   - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [taiwan] Weekly Recap: Moody's affirms A2, outlook positive and TSMC tie-up boosts chips
   - [japan] Weekly Recap: TSE:8604 Macquarie-unit buy and JGB global marketing
@@ -56,7 +57,6 @@ Total: 2915 manchetes
   - [korea] Bank of Korea Expects 2027 Budget to Have Marginal Impact on Inflation
   - [korea] Suggesting further increase in base interest rate... Shin Hyun-song “Deciding the timing considering prices et
   - [korea] Seoul shares open lower on inflation, Mideast woes
-  - [korea] Will the base interest rate be further increased due to rising prices?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2915 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T23:42:43+00:00",
+      "published_utc": "2026-10-12T23:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
