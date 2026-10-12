@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T01:32:42.144416+00:00
-Total: 2800 manchetes
+Última coleta: 2026-10-12T01:42:44.020177+00:00
+Total: 2804 manchetes
 
   🇯🇵 Japão          1109
-  🇨🇳 China          773
+  🇨🇳 China          775
   🇹🇼 Taiwan         270
-  🇰🇷 Coreia do Sul  648
+  🇰🇷 Coreia do Sul  650
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY50 BLN VIA 7-DAY REVERSE REPO MON
+  - [korea] S. Korea likely to continue solid growth driven by robust chip exports
+  - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7313 MON VS 6.7330
   - [china] Tencent plans dollar, offshore yuan bond sale under note programme
+  - [china] Chinese Yuan Hits 4-year High
   - [china] This Chinese memory chip maker has global potential and is poised to outperform
   - [korea] South Korean bond rally seen faltering as traders brace for rate hikes
   - [korea] SK Hynix oversold near support after 15% slide: Live levels
@@ -36,6 +41,7 @@ Total: 2800 manchetes
   - [korea] Spread of interest rate hikes by central banks around the world... Bank of Korea also forecasts 3.5%
   - [korea] South Korea to deploy market stabilising measures if needed, finance minister says
   - [korea] Last year, the amount of counterfeit and falsified bills that the Bank of Korea took over from the i..
+  - [korea] The base interest rate rose twice... 57% of bank household loans have variable interest rates
   - [japan] "A corner of Ota Ward's three major luxury residential areas" "Ikegami Line to be detoured due to residents' o
   - [japan] ``The company president lives there secretly'' ``It was even called ``Shin Denen Chofu''...The long history of
   - [korea] The Korea Land and Housing Corporation's (LH) debt is expected to continue to increase, exceeding 37..
@@ -51,12 +57,6 @@ Total: 2800 manchetes
   - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
   - [china] EU plans yearly cap of 350,000 Chinese hybrid cars as trade tensions rise
   - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
-  - [korea] The Bank of Korea predicts a ‘hawkish freeze’ in its benchmark interest rate in October… Additional tightening
-  - [korea] Hacking attempts on BOK, state lenders top 1 million
-  - [china] China Moves to Stave Off Wider EU Trade War With Hybrid Deal
-  - [japan] Japan weighs railway upgrades as part of defense spending push
-  - [korea] Samsung to expand chip capacity in Vietnam, boost high-end production in Korea
-  - [china] Renault CEO calls EU-China hybrid import deal a ’major milestone’ - Bloomberg
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2800 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T01:32:42+00:00",
+      "published_utc": "2026-10-12T01:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

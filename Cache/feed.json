@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T01:32:42.144416+00:00",
- "collected_at_utc": "2026-10-12T01:32:42.144416+00:00",
+ "generated_at_utc": "2026-10-12T01:42:44.020177+00:00",
+ "collected_at_utc": "2026-10-12T01:42:44.020177+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2800,
+ "count": 2804,
  "by_region": {
   "japan": 1109,
-  "china": 773,
+  "china": 775,
   "taiwan": 270,
-  "korea": 648
+  "korea": 650
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T01:11:02+00:00"
+   "newest": "2026-10-12T01:32:13+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T00:51:47+00:00"
+   "newest": "2026-10-12T01:36:03+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T01:18:26+00:00"
+   "newest": "2026-10-12T01:39:18+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T00:27:18+00:00"
+   "newest": "2026-10-12T01:37:24+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,80 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T01:00:00+00:00"
+   "newest": "2026-10-12T01:34:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY50 BLN VIA 7-DAY REVERSE REPO MON",
+   "url": "https://www.tradingview.com/news/dpa_afx:a52fcce5ad62e:0-china-pboc-conducts-cny50-bln-via-7-day-reverse-repo-mon/",
+   "published_utc": "2026-10-12T01:39:03+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY50 BLN VIA 7-DAY REVERSE REPO MON",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c398a04526cdbc36"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "S. Korea likely to continue solid growth driven by robust chip exports",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzNCY2EzSnh6YWh2S2RFaTRlNTllaDhkS2Y0SGNUXzVMdl9HZGxRM0tkclZCYWtOZ3NFQURsdENidy1EUmd6OTVtVGplUDJPbmVSVko2U0RQQ045cjNTYWJzS2oxY1hPajNvZXpNUHd3aXdfWnd1NmZGMnJTSGlTc2NQLS0?oc=5",
+   "published_utc": "2026-10-12T01:37:24+00:00",
+   "title_original": "S. Korea likely to continue solid growth driven by robust chip exports",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2103ea551d9441fb"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "资鲸",
+   "title_en": "The central bank launched a 50 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXg5anFCbUdjc3VsSGRCN1VyRDVfLWM0Z0pQQkwtTFVJTHV0SnRMeGZMeHBtQjZvTEd2cUlMZFBlMUhRQkV1TWV6V0dQMFh6Vkk3bEd5UHJJSkI3SzdEVDhqb2pmNk1xQjBVdTBfNm9mNXlFYmpWZHZ3ZEhpdExmRUxkYUVIZXpnU3V1bHhvbXhXQQ?oc=5",
+   "published_utc": "2026-10-12T01:36:03+00:00",
+   "title_original": "央行今日开展500亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "17e8b6d3ed9410ea"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7313 MON VS 6.7330",
+   "url": "https://www.tradingview.com/news/dpa_afx:2e158f3e3bdfd:0-china-sets-yuan-central-parity-at-6-7313-mon-vs-6-7330/",
+   "published_utc": "2026-10-12T01:33:50+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7313 MON VS 6.7330",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fe25e1d83ffffc28"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -359,6 +429,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4632f353919718d7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Chinese Yuan Hits 4-year High",
+   "url": "https://www.tradingview.com/news/te_news:591001:0-chinese-yuan-hits-4-year-high/",
+   "published_utc": "2026-10-12T01:15:02+00:00",
+   "title_original": "Chinese Yuan Hits 4-year High",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "61f0ba8f273a43d5"
   },
   {
    "source_id": "tradingview_live",
@@ -670,6 +757,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f67237dcfaf9d57b"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "미래경제",
+   "title_en": "The base interest rate rose twice... 57% of bank household loans have variable interest rates",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1MTZkS3NEbVRjLWtpMk12NWdCbnRCUUowSm9menU1VUhwRk8zSDdscUVXakpCWGlwZWR1clY5UHJ2OG1iLXpya0toS1FCSlBSTU5sT3ZEbnhUVUh0bHIwMHowS1BZRU1Kcll3SQ?oc=5",
+   "published_utc": "2026-10-11T23:00:00+00:00",
+   "title_original": "기준금리 두 번 올랐는데…은행 가계대출 57%가 변동금리",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "689877dc101b1602"
   },
   {
    "source_id": "toyo_keizai",
@@ -21601,23 +21705,6 @@
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) Seoul stocks fall for 2nd day on inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cald3d3pKTFV1T09pQUV6dEh6cVdjOUk3eUUyckFET29QTEl2Q1VzYXNpWUcxWXhueTlYY3pCOFFTYlpwN1h6eGFIcWlBZy1kdy1MS3VrMThSUQ?oc=5",
-   "published_utc": "2026-09-29T07:00:00+00:00",
-   "title_original": "(LEAD) Seoul stocks fall for 2nd day on inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1ba25ff538db17be"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
    "title_en": "Biz sentiment falls in September on rising costs: BOK",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxUXdBdjJ2ZGQ1MDRJakxyWkRxSnhCN2g5aFU2dk9fWGdGUGIyb3dYUzFfbWlWMC0yWTlHX096OWRWcVlwRWlJbk1NOEt4WkdaU2c1a0V6VWRyZw?oc=5",
    "published_utc": "2026-09-29T07:00:00+00:00",
@@ -21736,6 +21823,23 @@
    "live_wire": true,
    "manual": false,
    "id": "aadb81dea2433be8"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) Seoul stocks fall for 2nd day on inflation woes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cald3d3pKTFV1T09pQUV6dEh6cVdjOUk3eUUyckFET29QTEl2Q1VzYXNpWUcxWXhueTlYY3pCOFFTYlpwN1h6eGFIcWlBZy1kdy1MS3VrMThSUQ?oc=5",
+   "published_utc": "2026-09-29T06:43:27+00:00",
+   "title_original": "(LEAD) Seoul stocks fall for 2nd day on inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1ba25ff538db17be"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -38463,23 +38567,6 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Chinese Yuan Hits 4-year High",
-   "url": "https://www.tradingview.com/news/te_news:584858:0-chinese-yuan-hits-4-year-high/",
-   "published_utc": "2026-09-18T04:43:40+00:00",
-   "title_original": "Chinese Yuan Hits 4-year High",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fba9be12b5820064"
-  },
-  {
-   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "BOJ Likely to Slow Pace of Rate Increases Next Year — Market Talk",
    "url": "https://www.tradingview.com/news/DJN_DN20260918000061:0/",
@@ -48459,23 +48546,6 @@
    "live_wire": false,
    "manual": false,
    "id": "adb6ce981ec151a8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Trump says he would not oppose China manufacturing cars in the US",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45400X:0/",
-   "published_utc": "2026-09-12T01:40:21+00:00",
-   "title_original": "Trump afirma que não se oporia à fabricação de carros pela China nos EUA",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "a858cc1db0cfa449"
   },
   {
    "source_id": "manual_ia",
