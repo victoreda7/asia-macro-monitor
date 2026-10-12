@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-12T12:42:43.846566+00:00",
- "collected_at_utc": "2026-10-12T12:42:43.846566+00:00",
+ "generated_at_utc": "2026-10-12T12:52:43.306377+00:00",
+ "collected_at_utc": "2026-10-12T12:52:43.306377+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 280,
   "korea": 710
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T14:52:00+00:00"
+   "newest": "2026-10-12T10:10:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T12:10:14+00:00"
+   "newest": "2026-10-12T12:50:16+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-12T21:19:27+09:00"
+   "newest": "2026-10-12T21:19:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T12:41:00+00:00"
+   "newest": "2026-10-12T12:52:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "ASML to raise prices of chipmaking parts for Samsung, SK Hynix by 10%: report",
+   "url": "https://www.tradingview.com/news/seekingalpha:b0e240c21094b:0-asml-to-raise-prices-of-chipmaking-parts-for-samsung-sk-hynix-by-10-report/",
+   "published_utc": "2026-10-12T12:44:40+00:00",
+   "title_original": "ASML to raise prices of chipmaking parts for Samsung, SK Hynix by 10%: report",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e219206864ea8467"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -2086,23 +2103,6 @@
    "id": "5a05aa4080e04551"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korean Won Hits 24-month High",
-   "url": "https://www.tradingview.com/news/te_news:591045:0-south-korean-won-hits-24-month-high/",
-   "published_utc": "2026-10-12T03:25:25+00:00",
-   "title_original": "South Korean Won Hits 24-month High",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ed67b023339c475f"
-  },
-  {
    "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Gold gains on weaker oil, dollar; US inflation data in focus",
@@ -3313,8 +3313,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -3327,7 +3327,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -4275,8 +4275,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -4290,7 +4290,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -4481,8 +4481,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -4496,7 +4496,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "tradingview_live",
@@ -5299,8 +5299,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -5314,7 +5314,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",

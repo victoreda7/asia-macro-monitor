@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T12:42:43.846566+00:00
+Última coleta: 2026-10-12T12:52:43.306377+00:00
 Total: 2906 manchetes
 
   🇯🇵 Japão          1107
@@ -17,6 +17,7 @@ Total: 2906 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] ASML to raise prices of chipmaking parts for Samsung, SK Hynix by 10%: report
   - [china] EU eyes December trade initiatives after China car import deal
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [taiwan] Taiwan condemns China over sanctions on ministers of diplomatic allies
@@ -56,7 +57,6 @@ Total: 2906 manchetes
   - [korea] Jungheung Construction Group will donate 10 billion won for the success of the "Honam Semiconductor
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Repurchase Results
   - [korea] European Chip Stocks Mixed After Korean Tech Selloff — Market Talk
-  - [korea] During the audit of government affairs, the Bank of Korea governor said, “Inflation will exceed the target for
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2906 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T12:42:44+00:00",
+      "published_utc": "2026-10-12T12:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
