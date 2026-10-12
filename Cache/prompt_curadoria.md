@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T00:32:41.976212+00:00
+Última coleta: 2026-10-12T00:42:42.691798+00:00
 Total: 2790 manchetes
 
   🇯🇵 Japão          1107
@@ -17,11 +17,11 @@ Total: 2790 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Exports double in first 10 days of Oct. on chip boom
   - [korea] Seoul shares open lower on inflation, Mideast woes
   - [korea] (LEAD) Seoul shares open lower on inflation, Mideast woes
   - [korea] (LEAD) Exports double in first 10 days of October on chips
   - [korea] BOK forms 11-member advisory committee on digital currency
-  - [korea] Exports double in first 10 days of October
   - [korea] (URGENT) Seoul shares open lower on inflation, Midest woes
   - [korea] Spread of interest rate hikes by central banks around the world... Bank of Korea also forecasts 3.5%
   - [korea] South Korea to deploy market stabilising measures if needed, finance minister says
@@ -116,7 +116,7 @@ Total: 2790 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T00:32:42+00:00",
+      "published_utc": "2026-10-12T00:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
