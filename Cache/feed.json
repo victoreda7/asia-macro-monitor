@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T08:12:47.296110+00:00",
- "collected_at_utc": "2026-10-12T08:12:47.296110+00:00",
+ "generated_at_utc": "2026-10-12T08:22:45.072228+00:00",
+ "collected_at_utc": "2026-10-12T08:22:45.072228+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2885,
+ "count": 2888,
  "by_region": {
   "japan": 1108,
   "china": 795,
   "taiwan": 278,
-  "korea": 704
+  "korea": 707
  },
- "elapsed_s": 31.8,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T07:54:00+00:00"
+   "newest": "2026-10-12T08:12:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T07:51:15+00:00"
+   "newest": "2026-10-12T08:14:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-12T16:45:00+09:00"
+   "newest": "2026-10-12T17:15:22+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T08:11:53+00:00"
+   "newest": "2026-10-12T08:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T07:47:20+00:00"
+   "newest": "2026-10-12T08:09:12+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,80 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T08:03:27+00:00"
+   "newest": "2026-10-12T08:13:20+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "London Stock Exchange",
+   "title_en": "REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Repurchase Results",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-10-12:newsml_RSL5549Ya:0-reg-samsung-electronics-samsung-elec-smsd-report-on-share-repurchase-results/",
+   "published_utc": "2026-10-12T08:19:27+00:00",
+   "title_original": "REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Repurchase Results",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e8d808d49ed105d1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "European Chip Stocks Mixed After Korean Tech Selloff — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012001226:0-european-chip-stocks-mixed-after-korean-tech-selloff-market-talk/",
+   "published_utc": "2026-10-12T08:17:00+00:00",
+   "title_original": "European Chip Stocks Mixed After Korean Tech Selloff — Market Talk",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2c63d2457ae9c2c2"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "서울뉴스통신",
+   "title_en": "Bank of Korea Governor Shin Hyun-song: “Monetary policy, policy stance is more important than interest rate hikes.”",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tellyVVAwWTR2aUduVi1wV05NTHg0V2VISDB2ZVpWaFNXclUxdU5OWnl1TFlPU0tVZ0dEdFl2M2lLNFVONG84ckdTX1Jtd2djM3dUdFRPU0VuSnY1U09mc0VOaDFnQmhjcGVZ?oc=5",
+   "published_utc": "2026-10-12T08:13:20+00:00",
+   "title_original": "신현송 한은 총재 \"통화정책, 금리 인상 행위보다 정책 기조가 중요\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "trade",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f523962140274c25"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The semiconductor boom, which has been outlined since the first quarter of this year, was a boon to",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yWEpOamZvbjhQdVhFN1FuVmJ2dzhiZ3dtNzV4blpxaWRtZG9pV1o3OGxtS084bFJ3YmxELTlDaFhGcXUzNWxqOFZ5ejhJTUk1V3JKRkl3?oc=5",
+   "published_utc": "2026-10-12T08:09:12+00:00",
+   "title_original": "The semiconductor boom, which has been outlined since the first quarter of this year, was a boon to",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6944fcd604bd72f7"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -1927,23 +1997,6 @@
    "id": "d18b5d580a030947"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "한겨레",
-   "title_en": "The Bank of Korea repeatedly indicates its intention to “further increase the base interest rate”",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JQ2xXb2xzM0VVZ0dLVkU5LVJxMzg4WnY3QWUwZkZJNF9KRWd3c3lZVlgzc01oTXpDLVEyZW1DSUg1TjM5enl2X2xFRkN5blNtdnk5b2RKOF9YMWZkd2x5WXRDRWZteHI0TmF3OHVzYzRBQQ?oc=5",
-   "published_utc": "2026-10-12T01:00:00+00:00",
-   "title_original": "한은 “기준금리 추가 인상” 뜻 거듭 내비쳐",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "798154c1c20c0f59"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "CX Daily: Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say",
@@ -2877,8 +2930,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -2891,7 +2944,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -3822,8 +3875,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -3837,7 +3890,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -4028,8 +4081,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -4043,7 +4096,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -4863,8 +4916,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -4878,7 +4931,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
