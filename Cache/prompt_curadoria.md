@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T14:22:42.539381+00:00
-Total: 2907 manchetes
+Última coleta: 2026-10-12T14:33:12.081641+00:00
+Total: 2908 manchetes
 
   🇯🇵 Japão          1106
   🇨🇳 China          812
-  🇹🇼 Taiwan         280
+  🇹🇼 Taiwan         281
   🇰🇷 Coreia do Sul  709
 
 ## O que já está no feed (não repita)
@@ -23,6 +23,7 @@ Total: 2907 manchetes
   - [china] Copper climbs on China stimulus hopes, Chile mine supply risks
   - [china] BYD sees tariff pressure linked to EU-China deal as short term
   - [taiwan] Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300
+  - [taiwan] Nanya Technology expects DRAM prices, margins to rise in Q4
   - [korea] ASML to raise prices of chipmaking parts for Samsung, SK Hynix by 10%: report
   - [china] EU eyes December trade initiatives after China car import deal
   - [taiwan] Taiwan condemns China over sanctions on ministers of diplomatic allies
@@ -56,7 +57,6 @@ Total: 2907 manchetes
   - [korea] As the won continued to strengthen, foreign currency tech groups, aiming to buy low foreign currency..
   - [korea] The value of the Korean won is on a high march. The won per dollar rose to its highest level in two
   - [korea] The government's tax reform is expected to significantly increase the burden of comprehensive real e..
-  - [china] Copper Rises on China Stimulus Hopes, Mining Supply Risks — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2907 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T14:22:42+00:00",
+      "published_utc": "2026-10-12T14:33:12+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
