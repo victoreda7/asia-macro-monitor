@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T06:22:44.169531+00:00
+Última coleta: 2026-10-12T06:32:40.808878+00:00
 Total: 2862 manchetes
 
   🇯🇵 Japão          1108
@@ -25,8 +25,8 @@ Total: 2862 manchetes
   - [korea] In response to the question, “Will the base interest rate be raised again in October?” The answer given by the
   - [korea] Shin Hyun-song "Monetary policy is having an effect... Policy stance is more important than interest rate hike
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
-  - [korea] The annual income standard for young people who can sign up for the Youth Housing Dream subscription..
   - [japan] Dollar steady near 18-month high as Mideast conflict, US inflation in focus By Reuters
+  - [korea] The annual income standard for young people who can sign up for the Youth Housing Dream subscription..
   - [korea] SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live
   - [taiwan] Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next Home Play
   - [china] China sanctions Paraguay, Belize ministers over Taiwan ties
@@ -116,7 +116,7 @@ Total: 2862 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T06:22:44+00:00",
+      "published_utc": "2026-10-12T06:32:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
