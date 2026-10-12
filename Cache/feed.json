@@ -1,82 +1,18 @@
 {
- "generated_at_utc": "2026-10-12T10:32:47.441242+00:00",
- "collected_at_utc": "2026-10-12T10:32:47.441242+00:00",
+ "generated_at_utc": "2026-10-12T10:42:45.010406+00:00",
+ "collected_at_utc": "2026-10-12T10:42:45.010406+00:00",
  "degraded": false,
- "sources_ok": 33,
+ "sources_ok": 41,
  "sources_total": 41,
- "count": 2900,
+ "count": 2903,
  "by_region": {
   "japan": 1108,
-  "china": 803,
+  "china": 806,
   "taiwan": 278,
   "korea": 711
  },
- "elapsed_s": 34.0,
+ "elapsed_s": 30.9,
  "sources": [
-  {
-   "source_id": "gn_cn_caixin",
-   "name": "Caixin",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "name": "FT Asia",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "name": "NBS 国家统计局",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -94,12 +30,28 @@
    "newest": "2026-10-12T07:41:06+00:00"
   },
   {
+   "source_id": "gn_cn_caixin",
+   "name": "Caixin",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-12T09:57:00+00:00"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "name": "DIGITIMES",
    "ok": true,
    "count": 30,
    "error": "",
    "newest": "2026-10-12T07:18:34+00:00"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "name": "FT Asia",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-12T09:15:04+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -123,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T10:14:00+00:00"
+   "newest": "2026-10-12T10:33:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -131,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T10:07:58+00:00"
+   "newest": "2026-10-12T10:18:39+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -163,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T09:41:00+00:00"
+   "newest": "2026-10-12T10:29:57+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -206,6 +158,22 @@
    "newest": "2026-09-28T07:00:00+00:00"
   },
   {
+   "source_id": "gn_cn_nbs",
+   "name": "NBS 国家统计局",
+   "ok": true,
+   "count": 10,
+   "error": "",
+   "newest": "2026-10-09T07:00:00+00:00"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-09T08:43:54+00:00"
+  },
+  {
    "source_id": "nhk_politics",
    "name": "NHK 政治",
    "ok": true,
@@ -219,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-12T19:17:59+09:00"
+   "newest": "2026-10-12T19:40:22+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -246,6 +214,14 @@
    "newest": "2026-10-12T08:51:48+00:00"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-12T00:49:00+00:00"
+  },
+  {
    "source_id": "gn_kr_reuters",
    "name": "Reuters Korea",
    "ok": true,
@@ -267,7 +243,15 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-12T10:05:56+00:00"
+   "newest": "2026-10-12T10:33:47+00:00"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-12T08:23:47+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -283,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T10:32:05+00:00"
+   "newest": "2026-10-12T10:41:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -318,6 +302,14 @@
    "newest": "2026-10-12T07:42:52+00:00"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-12T07:28:47+00:00"
+  },
+  {
    "source_id": "gn_tw_cna",
    "name": "中央社 CNA",
    "ok": true,
@@ -334,6 +326,14 @@
    "newest": "2026-10-12T12:00:00+09:00"
   },
   {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-12T08:38:16+00:00"
+  },
+  {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Finance minister urges preemptive action for supply chain stability",
+   "url": "https://www.koreaherald.com/article/10899334",
+   "published_utc": "2026-10-12T10:55:48+00:00",
+   "title_original": "Finance minister urges preemptive action for supply chain stability",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d73f408aefb63376"
+  },
+  {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "How China and the EU pressed pause on trade war – and what it took to get there",
+   "url": "https://www.scmp.com/economy/global-economy/article/3370613/how-china-and-eu-pressed-pause-trade-war-and-what-it-took-get-there?utm_source=rss_feed",
+   "published_utc": "2026-10-12T10:33:47+00:00",
+   "title_original": "How China and the EU pressed pause on trade war – and what it took to get there",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5e9b5bfe891dc71"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9id1k0b0ZFY0JFbzEtNXloQ2JCeGZzbEZzQng3ekFsU2lfNUFxWnpjcXVWT2hadm9PQkk3ZkJ2aTc2SlVyTWpnOHpfdW1vMU1fR3RSSjhWWFhTQU1hYUFNVHhGbEduNHdYQ1U3MXhWWllKSmZUc0lOOGN3?oc=5",
+   "published_utc": "2026-10-12T10:29:57+00:00",
+   "title_original": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1fcf3599b86119a2"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -881,23 +933,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6944fcd604bd72f7"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9id1k0b0ZFY0JFbzEtNXloQ2JCeGZzbEZzQng3ekFsU2lfNUFxWnpjcXVWT2hadm9PQkk3ZkJ2aTc2SlVyTWpnOHpfdW1vMU1fR3RSSjhWWFhTQU1hYUFNVHhGbEduNHdYQ1U3MXhWWllKSmZUc0lOOGN3?oc=5",
-   "published_utc": "2026-10-12T08:04:49+00:00",
-   "title_original": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1fcf3599b86119a2"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2018,6 +2053,23 @@
   {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
+   "title_en": "China imposes sanctions on 'pawn' Paraguay, Belize ministers over Taiwan ties",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
+   "published_utc": "2026-10-12T02:54:00+00:00",
+   "title_original": "China imposes sanctions on 'pawn' Paraguay, Belize ministers over Taiwan ties",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5cbe027ddd637764"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
    "title_en": "China sanctions 'pawn' Paraguay, Belize ministers over Taiwan ties",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
    "published_utc": "2026-10-12T02:54:00+00:00",
@@ -2116,24 +2168,6 @@
    "live_wire": true,
    "manual": false,
    "id": "722b82af99d1da9c"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Finance minister urges preemptive action for supply chain stability",
-   "url": "https://www.koreaherald.com/article/10899334",
-   "published_utc": "2026-10-12T02:02:41.039417+00:00",
-   "title_original": "Finance minister urges preemptive action for supply chain stability",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d73f408aefb63376"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2637,6 +2671,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0de7b15488fea39c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "TradingView",
+   "title_en": "China’s money market: Funds continue to be abundant, and the central bank’s reverse repurchase operations exceed expectations, boosting optimism",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JbDY1X0pfOU1JNDBMSVdFR2FzUFZJSHJWeG42eTFOaFNYc3hHM2ZJYVY3bjkwWnBxZzhrUzV1SVRBZEc1aDVNeDZRN1pNZS0ta1daaVoyZmlVZlFxTlZFQ0lpazUxSVBKbHM3X2xZU1FoSmxOSmdj?oc=5",
+   "published_utc": "2026-10-11T21:11:00+00:00",
+   "title_original": "中国货币市场：资金持续充沛，央行逆回购操作量超预期推升乐观情绪",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ad78d2dbb42fa448"
   },
   {
    "source_id": "nikkei_asia",
@@ -3209,8 +3260,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -3223,7 +3274,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -4171,8 +4222,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -4186,7 +4237,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -4377,8 +4428,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -4392,7 +4443,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -5195,8 +5246,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -5210,7 +5261,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",

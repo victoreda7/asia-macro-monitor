@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T10:32:47.441242+00:00
-Total: 2900 manchetes
+Última coleta: 2026-10-12T10:42:45.010406+00:00
+Total: 2903 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          803
+  🇨🇳 China          806
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [korea] Finance minister urges preemptive action for supply chain stability
+  - [china] How China and the EU pressed pause on trade war – and what it took to get there
+  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [korea] Sandisk, IREN, SK Hynix, Amazon, and More Stocks That Explain Today's Market — Barrons.com
   - [china] EU to Cap Chinese Hybrid-Vehicle Imports at 350,000 Units Annually, Official Says
   - [korea] FX at one-month high led by Indian rupee, Korean won; earnings, IMF in focus
@@ -48,15 +51,12 @@ Total: 2900 manchetes
   - [korea] During the audit of government affairs, the Bank of Korea governor said, “Inflation will exceed the target for
   - [korea] Bank of Korea Governor Shin Hyun-song: “Monetary policy, policy stance is more important than interest rate hi
   - [korea] The semiconductor boom, which has been outlined since the first quarter of this year, was a boon to
-  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [korea] Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, inflation are the most important variable
   - [korea] Reserve Rights: Upbit opens RSR spot trading in KRW and USDT markets - 12 Oct 2026
   - [korea] Shin Hyun-song responds to criticism that 'the government is releasing money and the Bank of Korea is raising 
   - [china] Stellantis, Renault gain as EU, China agree to curb Chinese hybrid car exports
   - [korea] Hwacheon-gun County returns the increase in local currency instead of raising the entrance fee to th..
   - [china] China Says Hybrid-Car Deal With Europe to Ensure ‘Export Space’
-  - [korea] Governor of the Bank of Korea: “Next year’s government budget plan will increase growth rate by 0.5%p and infl
-  - [korea] [National Audit Issue] Bank of Korea Governor Shin Hyun-song “Monetary policy stance is more important than th
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2900 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T10:32:47+00:00",
+      "published_utc": "2026-10-12T10:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
