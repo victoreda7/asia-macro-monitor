@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T02:42:42.375347+00:00
-Total: 2820 manchetes
+Última coleta: 2026-10-12T02:52:44.099469+00:00
+Total: 2822 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          776
-  🇹🇼 Taiwan         273
-  🇰🇷 Coreia do Sul  663
+  🇹🇼 Taiwan         272
+  🇰🇷 Coreia do Sul  666
 
 ## O que já está no feed (não repita)
 
+  - [korea] Governor of the Bank of Korea: “Reduces ultimate costs by raising base interest rates in consecutive months in
   - [korea] The role of the Bank of Korea in expansionary finances is highlighted... Shin Hyun-song “I will protect my ind
   - [korea] [Photo] National Assembly Finance and Economy Committee conducts audit of the Bank of Korea’s government affai
   - [korea] [2026 National Assembly Audit] Shin Hyun-song “We will carry out independent monetary policy without hesitatio
@@ -31,6 +32,7 @@ Total: 2820 manchetes
   - [korea] After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..
   - [korea] [Issue Inspection] Bank of Korea raises base interest rate to 3.0%...maintains ‘austerity stance’
   - [korea] Governor of the Bank of Korea: “Inflation is expected to remain above the target level for a considerable peri
+  - [korea] [2026 National Assembly Audit] Bank of Korea Governor's inflation rate exceeds target for a considerable perio
   - [china] CHINA PBOC CONDUCTS CNY50 BLN VIA 7-DAY REVERSE REPO MON
   - [korea] S. Korea likely to continue solid growth driven by robust chip exports
   - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
@@ -55,8 +57,6 @@ Total: 2820 manchetes
   - [korea] BOK forms 11-member advisory committee on digital currency
   - [korea] 57.3% of bank household loans have variable interest rates... Will the interest burden increase due to further
   - [korea] (URGENT) Seoul shares open lower on inflation, Midest woes
-  - [korea] Spread of interest rate hikes by central banks around the world... Bank of Korea also forecasts 3.5%
-  - [korea] South Korea to deploy market stabilising measures if needed, finance minister says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2820 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T02:42:42+00:00",
+      "published_utc": "2026-10-12T02:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
