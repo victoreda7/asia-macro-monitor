@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T15:42:44.113653+00:00
-Total: 2911 manchetes
+Última coleta: 2026-10-12T15:52:42.260319+00:00
+Total: 2912 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          813
+  🇨🇳 China          814
   🇹🇼 Taiwan         280
   🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
+  - [china] Micron Stock Falls on China Chip Threat
+  - [china] China to Cut Export Tax Rebate for New-Energy Vehicles
   - [japan] Finance Minister Katayama becomes the next chairman of the World Bank/IMF Joint Development Committee Prime Mi
   - [china] EU limits Chinese hybrid shipments at 350,000 annually
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
@@ -54,9 +57,6 @@ Total: 2911 manchetes
   - [korea] Governor of the Bank of Korea: “Next year’s budget will also stimulate prices”… Interest rate hike hints
   - [korea] Korean budget carriers shift to cargo to ease passenger, fuel pressures amid chip boom
   - [china] Table: Yuan Ding Investment Corp. Sep Rev NT$2.37B Vs NT$1.77B
-  - [korea] [2026 National Assembly Audit] Shin Hyun-song “Buying time by preemptively raising interest rates”… Austerity 
-  - [china] China’s CXMT makes ‘key progress’ on new chip structure: SCMP
-  - [korea] As the won continued to strengthen, foreign currency tech groups, aiming to buy low foreign currency..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2911 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T15:42:44+00:00",
+      "published_utc": "2026-10-12T15:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
