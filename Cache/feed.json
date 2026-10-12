@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T02:22:43.781861+00:00",
- "collected_at_utc": "2026-10-12T02:22:43.781861+00:00",
+ "generated_at_utc": "2026-10-12T02:32:43.097725+00:00",
+ "collected_at_utc": "2026-10-12T02:32:43.097725+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2814,
+ "count": 2817,
  "by_region": {
   "japan": 1108,
   "china": 776,
-  "taiwan": 272,
-  "korea": 658
+  "taiwan": 273,
+  "korea": 660
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T02:02:45+00:00"
+   "newest": "2026-10-12T02:19:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-12T11:20:45+00:00"
+   "newest": "2026-10-12T11:27:25+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-10T20:57:46+00:00"
+   "newest": "2026-10-11T13:43:15+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T02:15:19+00:00"
+   "newest": "2026-10-12T02:31:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-11T23:19:31+00:00"
+   "newest": "2026-10-11T20:16:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T02:20:22+00:00"
+   "newest": "2026-10-12T02:21:13+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "시장경제신문",
+   "title_en": "[Photo] National Assembly Finance and Economy Committee conducts audit of the Bank of Korea’s government affairs",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5UktlemNXbE5UMTBKblVCZ1VUcjlQSEd0VjZZQzBwcmE3TXBEdjNWUTR1VmNjQThfOHItbjhoRzZ5WWlQR3BqZGNwNVRVVzZjS3Bwa1JpcnhvbzFLYlpGZHM3VVc1MUhOb3VpQ1k2NHA?oc=5",
+   "published_utc": "2026-10-12T02:21:13+00:00",
+   "title_original": "[포토] 국회 재경위, 한국은행 국정감사 실시",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5f77eab3fee37301"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "아이뉴스24",
@@ -394,6 +411,40 @@
    "live_wire": false,
    "manual": false,
    "id": "1fcf3599b86119a2"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+   "url": "https://www.investing.com/news/stock-market-news/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom-4943004",
+   "published_utc": "2026-10-12T02:12:23+00:00",
+   "title_original": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "91eb6bb9b91f5ea7"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한겨레",
+   "title_en": "The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “within the year”",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JQ2xXb2xzM0VVZ0dLVkU5LVJxMzg4WnY3QWUwZkZJNF9KRWd3c3lZVlgzc01oTXpDLVEyZW1DSUg1TjM5enl2X2xFRkN5blNtdnk5b2RKOF9YMWZkd2x5WXRDRWZteHI0TmF3OHVzYzRBQQ?oc=5",
+   "published_utc": "2026-10-12T02:12:00+00:00",
+   "title_original": "한은, ‘금리 추가 인상’ 가능성 거듭 시사…시장선 “연내” 전망",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "048c58c53474a1bc"
   },
   {
    "source_id": "tradingview_live",
@@ -6201,7 +6252,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "搜狐",
    "title_en": "We’ve already known about the financial news丨The central bank’s 1.2 trillion reverse repurchase is launched today, Hengke’s constituent stocks are expanded to 50, and their “subject content” is improved",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmJWd0ZpbDFOTGdTdXk1dEtMQTBDQWxDbm5ndktOTlZSM20tV2FLR2JPTmx0aUdSdU9ESUUxOFpsWXFLU2xwZU5sSVM0Vm9lb3hVclNrZGpnUW8wbmM2aEhheGltRHlqNzhBT1NkLTFhbm5pdnp2aGVBR3lfdkkydDM4Q2M0R2hFNm90VQ?oc=5",
    "published_utc": "2026-10-08T00:11:00+00:00",
@@ -21266,7 +21317,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHUnRnQTVQZkREcjlKY3VoWWJhaUxUb29pVnFXaGYxX1U5N3dSSTBILVVWdHNQbHY5Z1FTSjYwckc4WnhhdHNNWHJ4ZmFJN2JiLVpubUgwb21BTlNBWUlrb0htTElxX25TQi1vaENGTVBMVmJobk9pLXZfRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmpwQVpRZG8yTVdkRXlTcW5xS3ZZb3EtSjVPN2dPc1g3YXFTZ09vUlVNR3k5eEVBQk9mZWZhUzlXdE1GSWFOS1c3bWJPSGpubDU3bEJULTFvU05PcGpkMjVENVpsQlk0cjNPZGxob1RpVWotb3gwa091ZURrWTJqVkVvbG5JZw?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
    "title_original": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
    "region": "china",
@@ -21277,7 +21328,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "32aeac54145f756e"
+   "id": "9725d40adaeb9145"
   },
   {
    "source_id": "gn_cn_pboc",
