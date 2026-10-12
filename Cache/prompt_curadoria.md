@@ -7,20 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T06:12:43.185777+00:00
-Total: 2860 manchetes
+Última coleta: 2026-10-12T06:22:44.169531+00:00
+Total: 2862 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          789
+  🇨🇳 China          790
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  685
+  🇰🇷 Coreia do Sul  686
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, price trends are the most important”
+  - [china] China home car sales downturn continues, exports retain momentum
   - [china] China Says EU Must Ensure Non-Discriminatory Treatment of Hybrid-Car Exports
   - [korea] Shin Hyun-song “Always check the adaptability of economic entities when carrying out monetary policy” (compreh
   - [korea] [Planning] Amid expectations of October freeze, there are still calls for further interest rate hikes
-  - [china] China home car sales downturn continues, exports retain momentum
   - [korea] In response to the question, “Will the base interest rate be raised again in October?” The answer given by the
   - [korea] Shin Hyun-song "Monetary policy is having an effect... Policy stance is more important than interest rate hike
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
@@ -56,7 +57,6 @@ Total: 2860 manchetes
   - [korea] Governor of the Bank of Korea: “Reduces ultimate costs by raising base interest rates in consecutive months in
   - [korea] Governor of the Bank of Korea: “Buying time by preemptively raising interest rates… ultimately reducing costs.
   - [korea] Bank of Korea Governor Shin Hyun-song: “We will conduct monetary policy independently.”
-  - [korea] The role of the Bank of Korea in expansionary finances is highlighted... Shin Hyun-song “I will protect my ind
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2860 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T06:12:43+00:00",
+      "published_utc": "2026-10-12T06:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
