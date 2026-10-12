@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T05:32:43.833265+00:00
+Última coleta: 2026-10-12T05:42:41.982169+00:00
 Total: 2850 manchetes
 
   🇯🇵 Japão          1108
@@ -17,6 +17,7 @@ Total: 2850 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [china] China home car sales downturn continues, exports retain momentum
   - [korea] SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live
   - [taiwan] Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next Home Play
@@ -33,7 +34,6 @@ Total: 2850 manchetes
   - [japan] Nikkei average growth is sluggish, focus on TSMC performance and price index (TV Asahi (ANN))
   - [taiwan] Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas
   - [china] EU-China Deal Could Halve Chinese Hybrid Car Exports
-  - [china] China Moves to Stave Off Wider EU Trade War With Hybrid Deal
   - [china] PBOC Expected to Tolerate Further Gradual Yuan Appreciation — Market Talk
   - [korea] South Korean Won Hits 2-Year High
   - [korea] Bank of Korea Governor Shin Hyun-song: “Monetary policy independence is firm”… Leveraged ETF admits lack of ri
@@ -50,13 +50,13 @@ Total: 2850 manchetes
   - [korea] [Photo] National Assembly Finance and Economy Committee conducts audit of the Bank of Korea’s government affai
   - [korea] [2026 National Assembly Audit] Shin Hyun-song “We will carry out independent monetary policy without hesitatio
   - [korea] Most Asian currencies muted; South Korean won hits two-year high
-  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
   - [korea] Governor of the Bank of Korea: “Carry out independent monetary policy without hesitation”
   - [china] China-EU Deal Likely Averts Trade War, But Impact Limited — Market Talk
   - [korea] Finance minister urges preemptive action for supply chain stability
   - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
   - [taiwan] MediaTek flagship AP share to surpass Samsung as TSMC boosts Dimensity
+  - [korea] After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2850 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T05:32:44+00:00",
+      "published_utc": "2026-10-12T05:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
