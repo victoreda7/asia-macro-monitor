@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T02:02:42.948924+00:00",
- "collected_at_utc": "2026-10-12T02:02:42.948924+00:00",
+ "generated_at_utc": "2026-10-12T02:12:41.587555+00:00",
+ "collected_at_utc": "2026-10-12T02:12:41.587555+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2809,
+ "count": 2812,
  "by_region": {
   "japan": 1108,
-  "china": 775,
-  "taiwan": 270,
-  "korea": 656
+  "china": 776,
+  "taiwan": 271,
+  "korea": 657
  },
- "elapsed_s": 31.1,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-11T23:45:08+00:00"
+   "newest": "2026-10-12T01:56:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T01:44:02+00:00"
+   "newest": "2026-10-12T02:02:45+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T01:06:38+00:00"
+   "newest": "2026-10-12T02:00:42+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T01:59:47+00:00"
+   "newest": "2026-10-12T02:04:49+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-12T10:55:48+00:00"
+   "newest": "2026-10-12T11:10:03+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T02:00:00+00:00"
+   "newest": "2026-10-12T02:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-12T10:00:00+09:00"
+   "newest": "2026-10-12T11:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,40 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China-EU Deal Likely Averts Trade War, But Impact Limited — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261011000648:0-china-eu-deal-likely-averts-trade-war-but-impact-limited-market-talk/",
+   "published_utc": "2026-10-12T02:09:00+00:00",
+   "title_original": "China-EU Deal Likely Averts Trade War, But Impact Limited — Market Talk",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "722b82af99d1da9c"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9id1k0b0ZFY0JFbzEtNXloQ2JCeGZzbEZzQng3ekFsU2lfNUFxWnpjcXVWT2hadm9PQkk3ZkJ2aTc2SlVyTWpnOHpfdW1vMU1fR3RSSjhWWFhTQU1hYUFNVHhGbEduNHdYQ1U3MXhWWllKSmZUc0lOOGN3?oc=5",
+   "published_utc": "2026-10-12T02:04:49+00:00",
+   "title_original": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1fcf3599b86119a2"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Finance minister urges preemptive action for supply chain stability",
@@ -360,6 +394,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d73f408aefb63376"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "MediaTek flagship AP share to surpass Samsung as TSMC boosts Dimensity",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTTc2MnBkQ3RoZnEwWlhvZk1BaXBXV2NVTXIyRnE3QXNVU1ZYNVVLMzhnT0IwbnBTcElKQURzcDFwSzZYS1Z4cUxuM2MwNnEyVUhZaUE5bGdsbkdpa0RaVFozaml6eWF4N3pRZDhzTF9UNHRlWkJOZWxQUXVlTk4tbjZXV2V0dXFINTk1SEdhc3N2andyUGdOREVlaw?oc=5",
+   "published_utc": "2026-10-12T01:56:00+00:00",
+   "title_original": "MediaTek flagship AP share to surpass Samsung as TSMC boosts Dimensity",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cd92f7ddcc2ccf5e"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5732,7 +5783,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "搜狐",
    "title_en": "Central Bank: Launching 606 billion overnight reverse repos on October 8",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjFBR1N6Sm5QQXRUbWs2b3dQaWZadUtLaG14QTlzZ21ESjc0dkk2TVhSRzhkRmwtN2hNSlN5YTgxV2puenB6U0RYcWpEYWI2Ymx2Nk4ycDd3SERUQzloVlZNMXdXQmpCZjlNOGM1cnFLVXZCanNBZUhOWjhEVTVmV2tFanRxdnZIVDZNZg?oc=5",
    "published_utc": "2026-10-08T01:31:00+00:00",
@@ -21180,7 +21231,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmpwQVpRZG8yTVdkRXlTcW5xS3ZZb3EtSjVPN2dPc1g3YXFTZ09vUlVNR3k5eEVBQk9mZWZhUzlXdE1GSWFOS1c3bWJPSGpubDU3bEJULTFvU05PcGpkMjVENVpsQlk0cjNPZGxob1RpVWotb3gwa091ZURrWTJqVkVvbG5JZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHUnRnQTVQZkREcjlKY3VoWWJhaUxUb29pVnFXaGYxX1U5N3dSSTBILVVWdHNQbHY5Z1FTSjYwckc4WnhhdHNNWHJ4ZmFJN2JiLVpubUgwb21BTlNBWUlrb0htTElxX25TQi1vaENGTVBMVmJobk9pLXZfRQ?oc=5",
    "published_utc": "2026-09-29T13:14:15+00:00",
    "title_original": "Libya's High State Council rejects changes to presidential election law as \"unconstitutional\"",
    "region": "china",
@@ -21191,7 +21242,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9725d40adaeb9145"
+   "id": "32aeac54145f756e"
   },
   {
    "source_id": "gn_cn_pboc",
