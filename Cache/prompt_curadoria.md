@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T07:02:41.845403+00:00
-Total: 2866 manchetes
+Última coleta: 2026-10-12T07:12:43.895672+00:00
+Total: 2870 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          790
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  690
+  🇰🇷 Coreia do Sul  694
 
 ## O que já está no feed (não repita)
 
   - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
+  - [korea] Micron, SK Hynix Stocks Slip Overnight: China’s CXMT Advances Next-Gen DRAM Technology
+  - [korea] (LEAD) Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [korea] Asia stocks mixed as Korean chipmakers slide on CXMT threat
   - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [korea] Bank of Korea Governor Shin Hyun-song “When deciding on interest rates, price trends are the top priority… Red
@@ -32,6 +34,7 @@ Total: 2866 manchetes
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [japan] Dollar steady near 18-month high as Mideast conflict, US inflation in focus By Reuters
   - [korea] The annual income standard for young people who can sign up for the Youth Housing Dream subscription..
+  - [korea] Bank of Korea Governor Shin Hyun-song attends the G20 and IMF general meetings... Monetary policy and internat
   - [korea] SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live
   - [taiwan] Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next Home Play
   - [china] China sanctions Paraguay, Belize ministers over Taiwan ties
@@ -54,9 +57,6 @@ Total: 2866 manchetes
   - [china] China Sanctions Officials of Taiwan’s Allies for the First Time
   - [korea] South Korean Won Hits 24-month High
   - [taiwan] Gold gains on weaker oil, dollar; US inflation data in focus
-  - [japan] Yen Holds Steady in Thin Holiday Trade
-  - [taiwan] TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential
-  - [korea] Bank of Korea Governor Shin Hyun-song attends G20/IMF annual general meeting... Global economic and monetary p
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2866 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T07:02:42+00:00",
+      "published_utc": "2026-10-12T07:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
