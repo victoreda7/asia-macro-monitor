@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T00:12:42.751382+00:00
-Total: 2787 manchetes
+Última coleta: 2026-10-12T00:22:41.989790+00:00
+Total: 2788 manchetes
 
   🇯🇵 Japão          1107
   🇨🇳 China          769
   🇹🇼 Taiwan         270
-  🇰🇷 Coreia do Sul  641
+  🇰🇷 Coreia do Sul  642
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK forms 11-member advisory committee on digital currency
   - [korea] Exports double in first 10 days of October
   - [korea] Seoul shares open lower on inflation, Mideast woes
   - [korea] (URGENT) Seoul shares open lower on inflation, Midest woes
@@ -56,7 +57,6 @@ Total: 2787 manchetes
   - [korea] Floating rate loans increase despite consecutive increases in base interest rates... Household debt warning li
   - [japan] The Bank of Japan raises the policy interest rate from 1% to 1.25%, entering an era of interest rates. What wi
   - [japan] Kawasaki Heavy aims at 1 tril. yen in defense sales as Japan ups spending
-  - [japan] Japanese giant expands China chip packaging materials output amid AI boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2787 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T00:12:42+00:00",
+      "published_utc": "2026-10-12T00:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
