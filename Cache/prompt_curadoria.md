@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T06:42:43.562306+00:00
-Total: 2863 manchetes
+Última coleta: 2026-10-12T06:52:44.647299+00:00
+Total: 2865 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          790
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  687
+  🇰🇷 Coreia do Sul  689
 
 ## O que já está no feed (não repita)
 
+  - [korea] Asia stocks mixed as Korean chipmakers slide on CXMT threat
+  - [korea] Bank of Korea Governor Shin Hyun-song “When deciding on interest rates, price trends are the top priority… Red
   - [korea] Kospi Falls for Fourth Straight Session; Chip Stocks Retreat
   - [korea] Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, price trends are the most important”
   - [china] China home car sales downturn continues, exports retain momentum
@@ -55,8 +57,6 @@ Total: 2863 manchetes
   - [taiwan] TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential
   - [korea] Bank of Korea Governor Shin Hyun-song attends G20/IMF annual general meeting... Global economic and monetary p
   - [korea] South Korean Won's Gains Underpinned by Robust Exports, Current Account Surplus — Market Talk
-  - [korea] Governor of the Bank of Korea: “Reduces ultimate costs by raising base interest rates in consecutive months in
-  - [korea] Governor of the Bank of Korea: “Buying time by preemptively raising interest rates… ultimately reducing costs.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2863 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T06:42:43+00:00",
+      "published_utc": "2026-10-12T06:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
