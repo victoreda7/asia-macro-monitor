@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T17:02:45.287563+00:00
-Total: 2915 manchetes
+Última coleta: 2026-10-12T17:12:42.879870+00:00
+Total: 2916 manchetes
 
   🇯🇵 Japão          1109
   🇨🇳 China          814
-  🇹🇼 Taiwan         281
+  🇹🇼 Taiwan         282
   🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
   - [china] Dow Rises 200 Points, Nasdaq Wavers: China Chip Competition Hits Tech Stocks, Oil Climbs
   - [china] China to Cut Export Tax Rebate for New-Energy Vehicles
+  - [taiwan] Interview: Microsoft's Maia GM on Maia 300, Taiwan and HBM supply
   - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [china] Micron Stock Falls on China Chip Threat
   - [japan] Finance Minister Katayama becomes the next chairman of the World Bank/IMF Joint Development Committee Prime Mi
@@ -56,7 +57,6 @@ Total: 2915 manchetes
   - [china] Micron Stock Slips as China Memory Chip Threat Ramps Up — Barrons.com
   - [china] IMF Urges China to Shift Growth Model Toward Consumption, Services
   - [korea] Governor of the Bank of Korea: “Next year’s budget will also stimulate prices”… Interest rate hike hints
-  - [china] EU-China Deal Could Halve Chinese Hybrid Car Exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2915 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T17:02:45+00:00",
+      "published_utc": "2026-10-12T17:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
