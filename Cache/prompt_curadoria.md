@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T04:32:44.161443+00:00
-Total: 2840 manchetes
+Última coleta: 2026-10-12T04:42:43.247654+00:00
+Total: 2842 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          783
+  🇨🇳 China          785
   🇹🇼 Taiwan         276
   🇰🇷 Coreia do Sul  673
 
 ## O que já está no feed (não repita)
 
+  - [china] China Plays Critical Role in Global AI Supply Chain, Domestic AI Ecosystem — Market Talk
   - [korea] Why is Samsung Electronics stock sliding today?
   - [korea] Why is SK Hynix stock sliding today?
   - [china] Yuan holds near 3-1/2-year high against dollar as rate bets ease
@@ -56,7 +57,6 @@ Total: 2840 manchetes
   - [korea] S. Korea likely to continue solid growth driven by robust chip exports
   - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
   - [korea] President Shin Hyun-song “Solid growth continues…inflation has exceeded target for a considerable period of ti
-  - [china] On October 12, the central bank launched a 50 billion yuan 7-day reverse repurchase operation.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2840 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T04:32:44+00:00",
+      "published_utc": "2026-10-12T04:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
