@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T06:32:40.808878+00:00
-Total: 2862 manchetes
+Última coleta: 2026-10-12T06:42:43.562306+00:00
+Total: 2863 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          790
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  686
+  🇰🇷 Coreia do Sul  687
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi Falls for Fourth Straight Session; Chip Stocks Retreat
   - [korea] Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, price trends are the most important”
   - [china] China home car sales downturn continues, exports retain momentum
   - [china] China Says EU Must Ensure Non-Discriminatory Treatment of Hybrid-Car Exports
@@ -56,7 +57,6 @@ Total: 2862 manchetes
   - [korea] South Korean Won's Gains Underpinned by Robust Exports, Current Account Surplus — Market Talk
   - [korea] Governor of the Bank of Korea: “Reduces ultimate costs by raising base interest rates in consecutive months in
   - [korea] Governor of the Bank of Korea: “Buying time by preemptively raising interest rates… ultimately reducing costs.
-  - [korea] Bank of Korea Governor Shin Hyun-song: “We will conduct monetary policy independently.”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2862 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T06:32:40+00:00",
+      "published_utc": "2026-10-12T06:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
