@@ -7,26 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T02:32:43.097725+00:00
-Total: 2817 manchetes
+Última coleta: 2026-10-12T02:42:42.375347+00:00
+Total: 2820 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          776
   🇹🇼 Taiwan         273
-  🇰🇷 Coreia do Sul  660
+  🇰🇷 Coreia do Sul  663
 
 ## O que já está no feed (não repita)
 
+  - [korea] The role of the Bank of Korea in expansionary finances is highlighted... Shin Hyun-song “I will protect my ind
   - [korea] [Photo] National Assembly Finance and Economy Committee conducts audit of the Bank of Korea’s government affai
   - [korea] [2026 National Assembly Audit] Shin Hyun-song “We will carry out independent monetary policy without hesitatio
   - [korea] Most Asian currencies muted; South Korean won hits two-year high
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
   - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
+  - [korea] Governor of the Bank of Korea: “Carry out independent monetary policy without hesitation”
   - [china] China-EU Deal Likely Averts Trade War, But Impact Limited — Market Talk
   - [korea] Finance minister urges preemptive action for supply chain stability
   - [taiwan] MediaTek flagship AP share to surpass Samsung as TSMC boosts Dimensity
   - [korea] After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..
+  - [korea] [Issue Inspection] Bank of Korea raises base interest rate to 3.0%...maintains ‘austerity stance’
   - [korea] Governor of the Bank of Korea: “Inflation is expected to remain above the target level for a considerable peri
   - [china] CHINA PBOC CONDUCTS CNY50 BLN VIA 7-DAY REVERSE REPO MON
   - [korea] S. Korea likely to continue solid growth driven by robust chip exports
@@ -54,9 +57,6 @@ Total: 2817 manchetes
   - [korea] (URGENT) Seoul shares open lower on inflation, Midest woes
   - [korea] Spread of interest rate hikes by central banks around the world... Bank of Korea also forecasts 3.5%
   - [korea] South Korea to deploy market stabilising measures if needed, finance minister says
-  - [korea] Last year, the amount of counterfeit and falsified bills that the Bank of Korea took over from the i..
-  - [korea] The base interest rate rose twice... 57% of bank household loans have variable interest rates
-  - [japan] "A corner of Ota Ward's three major luxury residential areas" "Ikegami Line to be detoured due to residents' o
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2817 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T02:32:43+00:00",
+      "published_utc": "2026-10-12T02:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
