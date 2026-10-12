@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T11:22:54.770084+00:00
+Última coleta: 2026-10-12T11:32:44.514330+00:00
 Total: 2903 manchetes
 
   🇯🇵 Japão          1108
@@ -36,6 +36,7 @@ Total: 2903 manchetes
   - [korea] Exports double in first 10 days of Oct. on chip boom
   - [china] Micron Stock Slips as China Memory Chip Threat Ramps Up — Barrons.com
   - [china] IMF Urges China to Shift Growth Model Toward Consumption, Services
+  - [korea] Governor of the Bank of Korea: “Next year’s budget will also stimulate prices”… Interest rate hike hints
   - [korea] Korean budget carriers shift to cargo to ease passenger, fuel pressures amid chip boom
   - [china] Table: Yuan Ding Investment Corp. Sep Rev NT$2.37B Vs NT$1.77B
   - [korea] [2026 National Assembly Audit] Shin Hyun-song “Buying time by preemptively raising interest rates”… Austerity 
@@ -56,7 +57,6 @@ Total: 2903 manchetes
   - [korea] Reserve Rights: Upbit opens RSR spot trading in KRW and USDT markets - 12 Oct 2026
   - [korea] Shin Hyun-song responds to criticism that 'the government is releasing money and the Bank of Korea is raising 
   - [china] Stellantis, Renault gain as EU, China agree to curb Chinese hybrid car exports
-  - [korea] Hwacheon-gun County returns the increase in local currency instead of raising the entrance fee to th..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2903 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T11:22:55+00:00",
+      "published_utc": "2026-10-12T11:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
