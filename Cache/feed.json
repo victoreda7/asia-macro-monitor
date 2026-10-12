@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T10:02:48.227922+00:00",
- "collected_at_utc": "2026-10-12T10:02:48.227922+00:00",
+ "generated_at_utc": "2026-10-12T10:12:42.275925+00:00",
+ "collected_at_utc": "2026-10-12T10:12:42.275925+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 2901,
  "by_region": {
   "japan": 1108,
-  "china": 805,
+  "china": 804,
   "taiwan": 278,
-  "korea": 710
+  "korea": 711
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T09:20:54+00:00"
+   "newest": "2026-10-12T09:37:37+00:00"
   },
   {
    "source_id": "ked_global",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-12T18:47:48+09:00"
+   "newest": "2026-10-12T19:04:13+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T07:45:43+00:00"
+   "newest": "2026-10-12T08:51:48+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T01:19:00+00:00"
+   "newest": "2026-10-12T06:00:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-12T09:12:28+00:00"
+   "newest": "2026-10-12T10:05:56+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T10:02:10+00:00"
+   "newest": "2026-10-12T10:12:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T08:21:42+00:00"
+   "newest": "2026-10-12T05:21:22+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "FX at one-month high led by Indian rupee, Korean won; earnings, IMF in focus",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45Y0I7:0-fx-at-one-month-high-led-by-indian-rupee-korean-won-earnings-imf-in-focus/",
+   "published_utc": "2026-10-12T10:06:20+00:00",
+   "title_original": "FX at one-month high led by Indian rupee, Korean won; earnings, IMF in focus",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d6b2bd4379dabd6f"
+  },
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
@@ -2227,23 +2244,6 @@
    "id": "2b3de4a222a8b612"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7313 MON VS 6.7330",
-   "url": "https://www.tradingview.com/news/dpa_afx:2e158f3e3bdfd:0-china-sets-yuan-central-parity-at-6-7313-mon-vs-6-7330/",
-   "published_utc": "2026-10-12T01:33:50+00:00",
-   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7313 MON VS 6.7330",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fe25e1d83ffffc28"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il announced on the 12th that he..",
@@ -3212,8 +3212,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -3226,7 +3226,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -4174,8 +4174,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -4189,7 +4189,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -4380,8 +4380,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -4395,7 +4395,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -5198,8 +5198,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -5213,7 +5213,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
