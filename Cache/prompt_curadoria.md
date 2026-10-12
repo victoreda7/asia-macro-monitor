@@ -7,24 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T06:02:46.335132+00:00
+Última coleta: 2026-10-12T06:12:43.185777+00:00
 Total: 2860 manchetes
 
-  🇯🇵 Japão          1109
-  🇨🇳 China          788
+  🇯🇵 Japão          1108
+  🇨🇳 China          789
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
+  - [china] China Says EU Must Ensure Non-Discriminatory Treatment of Hybrid-Car Exports
   - [korea] Shin Hyun-song “Always check the adaptability of economic entities when carrying out monetary policy” (compreh
   - [korea] [Planning] Amid expectations of October freeze, there are still calls for further interest rate hikes
+  - [china] China home car sales downturn continues, exports retain momentum
   - [korea] In response to the question, “Will the base interest rate be raised again in October?” The answer given by the
   - [korea] Shin Hyun-song "Monetary policy is having an effect... Policy stance is more important than interest rate hike
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [korea] The annual income standard for young people who can sign up for the Youth Housing Dream subscription..
   - [japan] Dollar steady near 18-month high as Mideast conflict, US inflation in focus By Reuters
-  - [china] China home car sales downturn continues, exports retain momentum
   - [korea] SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live
   - [taiwan] Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next Home Play
   - [china] China sanctions Paraguay, Belize ministers over Taiwan ties
@@ -41,6 +42,7 @@ Total: 2860 manchetes
   - [japan] Nikkei average growth is sluggish, focus on TSMC performance and price index (TV Asahi (ANN))
   - [taiwan] Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas
   - [china] EU-China Deal Could Halve Chinese Hybrid Car Exports
+  - [china] China Moves to Stave Off Wider EU Trade War With Hybrid Deal
   - [china] PBOC Expected to Tolerate Further Gradual Yuan Appreciation — Market Talk
   - [korea] South Korean Won Hits 2-Year High
   - [korea] Bank of Korea Governor Shin Hyun-song: “Monetary policy independence is firm”… Leveraged ETF admits lack of ri
@@ -55,8 +57,6 @@ Total: 2860 manchetes
   - [korea] Governor of the Bank of Korea: “Buying time by preemptively raising interest rates… ultimately reducing costs.
   - [korea] Bank of Korea Governor Shin Hyun-song: “We will conduct monetary policy independently.”
   - [korea] The role of the Bank of Korea in expansionary finances is highlighted... Shin Hyun-song “I will protect my ind
-  - [korea] [Photo] National Assembly Finance and Economy Committee conducts audit of the Bank of Korea’s government affai
-  - [korea] [2026 National Assembly Audit] Shin Hyun-song “We will carry out independent monetary policy without hesitatio
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2860 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T06:02:46+00:00",
+      "published_utc": "2026-10-12T06:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
