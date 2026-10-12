@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T16:42:44.407414+00:00
+Última coleta: 2026-10-12T16:52:43.242018+00:00
 Total: 2914 manchetes
 
   🇯🇵 Japão          1109
@@ -17,6 +17,7 @@ Total: 2914 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Dow Rises 200 Points, Nasdaq Wavers: China Chip Competition Hits Tech Stocks, Oil Climbs
   - [china] China to Cut Export Tax Rebate for New-Energy Vehicles
   - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [china] Micron Stock Falls on China Chip Threat
@@ -56,7 +57,6 @@ Total: 2914 manchetes
   - [china] IMF Urges China to Shift Growth Model Toward Consumption, Services
   - [korea] Governor of the Bank of Korea: “Next year’s budget will also stimulate prices”… Interest rate hike hints
   - [china] EU-China Deal Could Halve Chinese Hybrid Car Exports
-  - [korea] Korean budget carriers shift to cargo to ease passenger, fuel pressures amid chip boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2914 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T16:42:44+00:00",
+      "published_utc": "2026-10-12T16:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
