@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T05:52:43.857427+00:00
-Total: 2858 manchetes
+Última coleta: 2026-10-12T06:02:46.335132+00:00
+Total: 2860 manchetes
 
   🇯🇵 Japão          1109
   🇨🇳 China          788
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  683
+  🇰🇷 Coreia do Sul  685
 
 ## O que já está no feed (não repita)
 
+  - [korea] Shin Hyun-song “Always check the adaptability of economic entities when carrying out monetary policy” (compreh
   - [korea] [Planning] Amid expectations of October freeze, there are still calls for further interest rate hikes
   - [korea] In response to the question, “Will the base interest rate be raised again in October?” The answer given by the
   - [korea] Shin Hyun-song "Monetary policy is having an effect... Policy stance is more important than interest rate hike
@@ -56,7 +57,6 @@ Total: 2858 manchetes
   - [korea] The role of the Bank of Korea in expansionary finances is highlighted... Shin Hyun-song “I will protect my ind
   - [korea] [Photo] National Assembly Finance and Economy Committee conducts audit of the Bank of Korea’s government affai
   - [korea] [2026 National Assembly Audit] Shin Hyun-song “We will carry out independent monetary policy without hesitatio
-  - [korea] Most Asian currencies muted; South Korean won hits two-year high
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2858 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T05:52:44+00:00",
+      "published_utc": "2026-10-12T06:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
