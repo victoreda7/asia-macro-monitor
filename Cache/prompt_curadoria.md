@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T09:02:46.741875+00:00
-Total: 2892 manchetes
+Última coleta: 2026-10-12T09:12:44.101403+00:00
+Total: 2895 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          797
+  🇨🇳 China          800
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  709
 
 ## O que já está no feed (não repita)
 
   - [korea] Exports double in first 10 days of Oct. on chip boom
+  - [china] Micron Stock Slips as China Memory Chip Threat Ramps Up — Barrons.com
   - [china] Table: Yuan Ding Investment Corp. Sep Rev NT$2.37B Vs NT$1.77B
   - [korea] [2026 National Assembly Audit] Shin Hyun-song “Buying time by preemptively raising interest rates”… Austerity 
   - [china] China’s CXMT makes ‘key progress’ on new chip structure: SCMP
@@ -26,6 +27,7 @@ Total: 2892 manchetes
   - [korea] The government's tax reform is expected to significantly increase the burden of comprehensive real e..
   - [china] Copper Rises on China Stimulus Hopes, Mining Supply Risks — Market Talk
   - [korea] Governor of the Bank of Korea: “A 0.5% point increase in the base interest rate has the effect of reducing the
+  - [taiwan] Taoyuan's Lala Mountain becomes Taiwan's first Urban Night Sky Place
   - [korea] Jungheung Construction Group will donate 10 billion won for the success of the "Honam Semiconductor
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Repurchase Results
   - [korea] European Chip Stocks Mixed After Korean Tech Selloff — Market Talk
@@ -37,7 +39,9 @@ Total: 2892 manchetes
   - [korea] Reserve Rights: Upbit opens RSR spot trading in KRW and USDT markets - 12 Oct 2026
   - [china] Stellantis, Renault gain as EU, China agree to curb Chinese hybrid car exports
   - [korea] Hwacheon-gun County returns the increase in local currency instead of raising the entrance fee to th..
+  - [china] China Says Hybrid-Car Deal With Europe to Ensure ‘Export Space’
   - [korea] Governor of the Bank of Korea: “Next year’s government budget plan will increase growth rate by 0.5%p and infl
+  - [korea] [National Audit Issue] Bank of Korea Governor Shin Hyun-song “Monetary policy stance is more important than th
   - [korea] (2nd LD) Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [china] Impact of EU Deal to Cut Chinese Hybrid Exports Likely Manageable — Market Talk
   - [korea] South Korean startup Helios targets Taiwan supply chains and Taiwan Strait risk analysis
@@ -50,13 +54,9 @@ Total: 2892 manchetes
   - [korea] Asia stocks mixed as Korean chipmakers slide on CXMT threat
   - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [korea] Bank of Korea Governor Shin Hyun-song “When deciding on interest rates, price trends are the top priority… Red
+  - [china] Drone firm executives detained over alleged use of China-made chips
   - [korea] Kospi Falls for Fourth Straight Session; Chip Stocks Retreat
   - [korea] Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, price trends are the most important”
-  - [china] China home car sales downturn continues, exports retain momentum
-  - [china] China Says EU Must Ensure Non-Discriminatory Treatment of Hybrid-Car Exports
-  - [korea] Shin Hyun-song “Always check the adaptability of economic entities when implementing monetary policy” (compreh
-  - [korea] Shin Hyun-song “Always check the adaptability of economic entities when carrying out monetary policy” (compreh
-  - [korea] [Planning] Amid expectations of October freeze, there are still calls for further interest rate hikes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2892 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T09:02:46+00:00",
+      "published_utc": "2026-10-12T09:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
