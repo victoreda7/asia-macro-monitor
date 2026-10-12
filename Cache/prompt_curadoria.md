@@ -7,19 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T01:52:42.531895+00:00
-Total: 2804 manchetes
+Última coleta: 2026-10-12T02:02:42.948924+00:00
+Total: 2809 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          775
   🇹🇼 Taiwan         270
-  🇰🇷 Coreia do Sul  651
+  🇰🇷 Coreia do Sul  656
 
 ## O que já está no feed (não repita)
 
+  - [korea] Finance minister urges preemptive action for supply chain stability
+  - [korea] After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..
+  - [korea] Governor of the Bank of Korea: “Inflation is expected to remain above the target level for a considerable peri
   - [china] CHINA PBOC CONDUCTS CNY50 BLN VIA 7-DAY REVERSE REPO MON
   - [korea] S. Korea likely to continue solid growth driven by robust chip exports
   - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
+  - [korea] President Shin Hyun-song “Solid growth continues…inflation has exceeded target for a considerable period of ti
+  - [korea] The Bank of Korea raised interest rates for the second time in a row... Shin Hyun-song “Possibility of insolve
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7313 MON VS 6.7330
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il announced on the 12th that he..
   - [china] Tencent plans dollar, offshore yuan bond sale under note programme
@@ -52,11 +57,6 @@ Total: 2804 manchetes
   - [japan] Former iPhone display plant in Japan to start new life in chip supply chain
   - [japan] Japan Week Ahead: BOJ Policymakers to Digest More Q3 Data Before Oct. 29-30 Meeting; Board Widely Expected Hol
   - [korea] Shin Hyun-song’s first National Assembly inspection… ‘A lot of issues’ in the controversy over interest rate h
-  - [korea] Price and Fed variables, Bank of Korea worries about additional interest rate hike
-  - [japan] Preview: Forecasters See Another High Reading for Japanese Producer Price Inflation in September Report
-  - [japan] What the sell off in bonds means for monetary policy
-  - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
-  - [china] EU plans yearly cap of 350,000 Chinese hybrid cars as trade tensions rise
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2804 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T01:52:42+00:00",
+      "published_utc": "2026-10-12T02:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
