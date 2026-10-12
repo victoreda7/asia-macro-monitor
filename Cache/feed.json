@@ -1,29 +1,61 @@
 {
- "generated_at_utc": "2026-10-12T08:52:48.975449+00:00",
- "collected_at_utc": "2026-10-12T08:52:48.975449+00:00",
+ "generated_at_utc": "2026-10-12T09:02:46.741875+00:00",
+ "collected_at_utc": "2026-10-12T09:02:46.741875+00:00",
  "degraded": false,
- "sources_ok": 37,
+ "sources_ok": 29,
  "sources_total": 41,
  "count": 2892,
  "by_region": {
   "japan": 1108,
-  "china": 796,
+  "china": 797,
   "taiwan": 278,
-  "korea": 710
+  "korea": 709
  },
- "elapsed_s": 35.3,
+ "elapsed_s": 32.6,
  "sources": [
+  {
+   "source_id": "gn_asia_bloomberg",
+   "name": "Bloomberg Asia",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "name": "Caixin",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "gn_asia_ft",
    "name": "FT Asia",
    "ok": false,
    "count": 0,
-   "error": "sem resposta",
+   "error": "sem resultados",
    "newest": ""
   },
   {
-   "source_id": "gn_jp_mof",
-   "name": "MOF Japan",
+   "source_id": "gn_tw_focus",
+   "name": "Focus Taiwan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "name": "Investing Japan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "name": "PBoC 中文",
    "ok": false,
    "count": 0,
    "error": "sem resultados",
@@ -38,8 +70,40 @@
    "newest": ""
   },
   {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "name": "中央社 CNA",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
    "ok": false,
    "count": 0,
    "error": "sem resultados",
@@ -54,36 +118,12 @@
    "newest": "2026-10-09T18:00:00+09:00"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "name": "Bloomberg Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T06:58:00+00:00"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "name": "Caixin",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T08:12:00+00:00"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "name": "DIGITIMES",
    "ok": true,
    "count": 30,
    "error": "",
    "newest": "2026-10-12T07:18:34+00:00"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "name": "Focus Taiwan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-11T10:53:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -118,14 +158,6 @@
    "newest": "2026-10-12T08:17:56+00:00"
   },
   {
-   "source_id": "gn_jp_investing",
-   "name": "Investing Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T06:56:15+00:00"
-  },
-  {
    "source_id": "ked_global",
    "name": "KED Global",
    "ok": true,
@@ -139,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T08:23:00+00:00"
+   "newest": "2026-10-12T08:55:02+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -172,6 +204,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-12T05:14:00+00:00"
+  },
+  {
+   "source_id": "gn_jp_mof",
+   "name": "MOF Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -214,20 +254,20 @@
    "newest": ""
   },
   {
-   "source_id": "gn_cn_pboc",
-   "name": "PBoC 中文",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T01:56:00+00:00"
-  },
-  {
    "source_id": "gn_cn_reuters",
    "name": "Reuters China",
    "ok": true,
    "count": 30,
    "error": "",
    "newest": "2026-10-12T06:51:00+00:00"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-12T01:19:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -246,14 +286,6 @@
    "newest": "2026-10-12T04:15:05+00:00"
   },
   {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T06:07:33+00:00"
-  },
-  {
    "source_id": "gn_tw_taipeitimes",
    "name": "Taipei Times",
    "ok": true,
@@ -267,7 +299,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T08:52:03+00:00"
+   "newest": "2026-10-12T09:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -276,14 +308,6 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-12T05:21:22+00:00"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-10T08:48:00+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -302,22 +326,6 @@
    "newest": "2026-10-12T07:42:52+00:00"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T07:28:47+00:00"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "name": "中央社 CNA",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-29T07:00:00+00:00"
-  },
-  {
    "source_id": "toyo_keizai",
    "name": "東洋経済オンライン",
    "ok": true,
@@ -326,23 +334,50 @@
    "newest": "2026-10-12T12:00:00+09:00"
   },
   {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T08:38:16+00:00"
-  },
-  {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T08:48:00+00:00"
+   "newest": "2026-10-12T08:30:37+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Exports double in first 10 days of Oct. on chip boom",
+   "url": "https://www.koreaherald.com/article/10898974",
+   "published_utc": "2026-10-12T09:11:20+00:00",
+   "title_original": "Exports double in first 10 days of Oct. on chip boom",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b5b5def0e9961de"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Table: Yuan Ding Investment Corp. Sep Rev NT$2.37B Vs NT$1.77B",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012001395:0-table-yuan-ding-investment-corp-sep-rev-nt-2-37b-vs-nt-1-77b/",
+   "published_utc": "2026-10-12T08:53:00+00:00",
+   "title_original": "Table: Yuan Ding Investment Corp. Sep Rev NT$2.37B Vs NT$1.77B",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3962cf94370bdde8"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스핌",
@@ -502,7 +537,7 @@
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "European Chip Stocks Mixed After Korean Tech Selloff — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012001226:0-european-chip-stocks-mixed-after-korean-tech-selloff-market-talk/",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012001225:0-european-chip-stocks-mixed-after-korean-tech-selloff-market-talk/",
    "published_utc": "2026-10-12T08:17:00+00:00",
    "title_original": "European Chip Stocks Mixed After Korean Tech Selloff — Market Talk",
    "region": "korea",
@@ -513,7 +548,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "2c63d2457ae9c2c2"
+   "id": "af25f1b490d371fa"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2067,23 +2102,6 @@
    "id": "bb755e55eba5b0a9"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "CNBC TV18",
-   "title_en": "South Korean bond rally seen faltering as traders brace for rate hikes",
-   "url": "https://www.tradingview.com/news/cnbctv:082a4f0e8094b:0/",
-   "published_utc": "2026-10-12T01:06:13+00:00",
-   "title_original": "South Korean bond rally seen faltering as traders brace for rate hikes",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bba8e410593cfbf6"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "CX Daily: Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say",
@@ -2117,24 +2135,6 @@
    "live_wire": false,
    "manual": false,
    "id": "25e47331a55dbf6f"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Exports double in first 10 days of Oct. on chip boom",
-   "url": "https://www.koreaherald.com/article/10898974",
-   "published_utc": "2026-10-12T00:42:42.063483+00:00",
-   "title_original": "Exports double in first 10 days of Oct. on chip boom",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0b5b5def0e9961de"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3000,8 +3000,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -3014,7 +3014,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -3962,8 +3962,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -3977,7 +3977,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -4168,8 +4168,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -4183,7 +4183,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -4986,8 +4986,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -5001,7 +5001,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",

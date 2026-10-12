@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T08:52:48.975449+00:00
+Última coleta: 2026-10-12T09:02:46.741875+00:00
 Total: 2892 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          796
+  🇨🇳 China          797
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  710
+  🇰🇷 Coreia do Sul  709
 
 ## O que já está no feed (não repita)
 
+  - [korea] Exports double in first 10 days of Oct. on chip boom
+  - [china] Table: Yuan Ding Investment Corp. Sep Rev NT$2.37B Vs NT$1.77B
   - [korea] [2026 National Assembly Audit] Shin Hyun-song “Buying time by preemptively raising interest rates”… Austerity 
   - [china] China’s CXMT makes ‘key progress’ on new chip structure: SCMP
   - [korea] As the won continued to strengthen, foreign currency tech groups, aiming to buy low foreign currency..
@@ -55,8 +57,6 @@ Total: 2892 manchetes
   - [korea] Shin Hyun-song “Always check the adaptability of economic entities when implementing monetary policy” (compreh
   - [korea] Shin Hyun-song “Always check the adaptability of economic entities when carrying out monetary policy” (compreh
   - [korea] [Planning] Amid expectations of October freeze, there are still calls for further interest rate hikes
-  - [korea] In response to the question, “Will the base interest rate be raised again in October?” The answer given by the
-  - [korea] Shin Hyun-song "Monetary policy is having an effect... Policy stance is more important than interest rate hike
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2892 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T08:52:49+00:00",
+      "published_utc": "2026-10-12T09:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
