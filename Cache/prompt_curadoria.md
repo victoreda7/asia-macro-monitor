@@ -7,20 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T04:02:41.472714+00:00
-Total: 2831 manchetes
+Última coleta: 2026-10-12T04:12:43.278862+00:00
+Total: 2835 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          780
-  🇹🇼 Taiwan         273
+  🇨🇳 China          781
+  🇹🇼 Taiwan         276
   🇰🇷 Coreia do Sul  670
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas
+  - [china] EU-China Deal Could Halve Chinese Hybrid Car Exports
+  - [china] China Moves to Stave Off Wider EU Trade War With Hybrid Deal
   - [china] PBOC Expected to Tolerate Further Gradual Yuan Appreciation — Market Talk
   - [korea] South Korean Won Hits 2-Year High
   - [korea] South Korean Won Hits 24-month High
+  - [taiwan] Gold gains on weaker oil, dollar; US inflation data in focus
   - [japan] Yen Holds Steady in Thin Holiday Trade
+  - [taiwan] TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential
   - [korea] Bank of Korea Governor Shin Hyun-song attends G20/IMF annual general meeting... Global economic and monetary p
   - [korea] South Korean Won's Gains Underpinned by Robust Exports, Current Account Surplus — Market Talk
   - [china] China sanctions Paraguay, Belize ministers over Taiwan ties
@@ -52,11 +57,6 @@ Total: 2831 manchetes
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il announced on the 12th that he..
   - [china] Tencent plans dollar, offshore yuan bond sale under note programme
   - [china] Chinese Yuan Hits 4-year High
-  - [china] This Chinese memory chip maker has global potential and is poised to outperform
-  - [korea] South Korean bond rally seen faltering as traders brace for rate hikes
-  - [korea] SK Hynix oversold near support after 15% slide: Live levels
-  - [korea] Samsung and SK Hynix Tackle HBM4E Cooling as AI Interposers May Grow 40-Fold
-  - [korea] The Bank of Korea repeatedly indicates its intention to “further increase the base interest rate”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2831 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T04:02:41+00:00",
+      "published_utc": "2026-10-12T04:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
