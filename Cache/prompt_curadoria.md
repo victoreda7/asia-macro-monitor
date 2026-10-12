@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T16:22:44.457686+00:00
+Última coleta: 2026-10-12T16:32:43.224042+00:00
 Total: 2912 manchetes
 
   🇯🇵 Japão          1108
@@ -17,9 +17,9 @@ Total: 2912 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China to Cut Export Tax Rebate for New-Energy Vehicles
   - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [china] Micron Stock Falls on China Chip Threat
-  - [china] China to Cut Export Tax Rebate for New-Energy Vehicles
   - [japan] Finance Minister Katayama becomes the next chairman of the World Bank/IMF Joint Development Committee Prime Mi
   - [china] EU limits Chinese hybrid shipments at 350,000 annually
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
@@ -116,7 +116,7 @@ Total: 2912 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T16:22:44+00:00",
+      "published_utc": "2026-10-12T16:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
