@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T13:22:42.336261+00:00
-Total: 2906 manchetes
+Última coleta: 2026-10-12T13:32:47.567173+00:00
+Total: 2907 manchetes
 
   🇯🇵 Japão          1106
   🇨🇳 China          810
-  🇹🇼 Taiwan         280
+  🇹🇼 Taiwan         281
   🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300
   - [korea] ASML to raise prices of chipmaking parts for Samsung, SK Hynix by 10%: report
   - [china] EU eyes December trade initiatives after China car import deal
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
@@ -56,7 +57,6 @@ Total: 2906 manchetes
   - [taiwan] Taoyuan's Lala Mountain becomes Taiwan's first Urban Night Sky Place
   - [korea] Jungheung Construction Group will donate 10 billion won for the success of the "Honam Semiconductor
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Repurchase Results
-  - [korea] European Chip Stocks Mixed After Korean Tech Selloff — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2906 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T13:22:42+00:00",
+      "published_utc": "2026-10-12T13:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
