@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T06:52:44.647299+00:00
-Total: 2865 manchetes
+Última coleta: 2026-10-12T07:02:41.845403+00:00
+Total: 2866 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          790
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  689
+  🇰🇷 Coreia do Sul  690
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [korea] Asia stocks mixed as Korean chipmakers slide on CXMT threat
+  - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [korea] Bank of Korea Governor Shin Hyun-song “When deciding on interest rates, price trends are the top priority… Red
   - [korea] Kospi Falls for Fourth Straight Session; Chip Stocks Retreat
   - [korea] Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, price trends are the most important”
@@ -39,7 +41,6 @@ Total: 2865 manchetes
   - [china] China Plays Critical Role in Global AI Supply Chain, Domestic AI Ecosystem — Market Talk
   - [taiwan] Taiwan semiconductor industry eyes landmark geothermal power deal exceeding 20MW
   - [korea] CXMT: How big is its market threat to Samsung, SK Hynix and Micron?
-  - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [korea] Why is Samsung Electronics stock sliding today?
   - [korea] Why is SK Hynix stock sliding today?
   - [china] Yuan holds near 3-1/2-year high against dollar as rate bets ease
@@ -56,7 +57,6 @@ Total: 2865 manchetes
   - [japan] Yen Holds Steady in Thin Holiday Trade
   - [taiwan] TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential
   - [korea] Bank of Korea Governor Shin Hyun-song attends G20/IMF annual general meeting... Global economic and monetary p
-  - [korea] South Korean Won's Gains Underpinned by Robust Exports, Current Account Surplus — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2865 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T06:52:44+00:00",
+      "published_utc": "2026-10-12T07:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
