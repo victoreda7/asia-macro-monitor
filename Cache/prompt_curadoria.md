@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T05:12:42.173946+00:00
-Total: 2848 manchetes
+Última coleta: 2026-10-12T05:22:43.085864+00:00
+Total: 2849 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          786
+  🇨🇳 China          787
   🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  677
 
@@ -20,6 +20,7 @@ Total: 2848 manchetes
   - [korea] SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live
   - [taiwan] Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next Home Play
   - [china] China sanctions Paraguay, Belize ministers over Taiwan ties
+  - [china] Offshore Yuan Strongest Since 2022
   - [china] China home car sales downturn continues, exports retain momentum
   - [korea] Will the Bank of Korea raise the base interest rate further within the year? Shin Hyun-song: “Preemptive respo
   - [china] China Plays Critical Role in Global AI Supply Chain, Domestic AI Ecosystem — Market Talk
@@ -56,7 +57,6 @@ Total: 2848 manchetes
   - [taiwan] MediaTek flagship AP share to surpass Samsung as TSMC boosts Dimensity
   - [korea] After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..
   - [korea] [Issue Inspection] Bank of Korea raises base interest rate to 3.0%...maintains ‘austerity stance’
-  - [korea] Governor of the Bank of Korea: “Inflation is expected to remain above the target level for a considerable peri
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2848 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T05:12:42+00:00",
+      "published_utc": "2026-10-12T05:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
