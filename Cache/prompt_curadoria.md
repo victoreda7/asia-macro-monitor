@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T05:42:41.982169+00:00
-Total: 2850 manchetes
+Última coleta: 2026-10-12T05:52:43.857427+00:00
+Total: 2858 manchetes
 
-  🇯🇵 Japão          1108
-  🇨🇳 China          787
-  🇹🇼 Taiwan         277
-  🇰🇷 Coreia do Sul  678
+  🇯🇵 Japão          1109
+  🇨🇳 China          788
+  🇹🇼 Taiwan         278
+  🇰🇷 Coreia do Sul  683
 
 ## O que já está no feed (não repita)
 
+  - [korea] [Planning] Amid expectations of October freeze, there are still calls for further interest rate hikes
+  - [korea] In response to the question, “Will the base interest rate be raised again in October?” The answer given by the
+  - [korea] Shin Hyun-song "Monetary policy is having an effect... Policy stance is more important than interest rate hike
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
+  - [korea] The annual income standard for young people who can sign up for the Youth Housing Dream subscription..
+  - [japan] Dollar steady near 18-month high as Mideast conflict, US inflation in focus By Reuters
   - [china] China home car sales downturn continues, exports retain momentum
   - [korea] SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live
   - [taiwan] Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next Home Play
@@ -26,6 +31,7 @@ Total: 2850 manchetes
   - [korea] Will the Bank of Korea raise the base interest rate further within the year? Shin Hyun-song: “Preemptive respo
   - [korea] [National Assembly Inspection 2026] Shin Hyun-song “We gained time by raising interest rates… We reduced costs
   - [china] China Plays Critical Role in Global AI Supply Chain, Domestic AI Ecosystem — Market Talk
+  - [taiwan] Taiwan semiconductor industry eyes landmark geothermal power deal exceeding 20MW
   - [korea] CXMT: How big is its market threat to Samsung, SK Hynix and Micron?
   - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [korea] Why is Samsung Electronics stock sliding today?
@@ -37,6 +43,7 @@ Total: 2850 manchetes
   - [china] PBOC Expected to Tolerate Further Gradual Yuan Appreciation — Market Talk
   - [korea] South Korean Won Hits 2-Year High
   - [korea] Bank of Korea Governor Shin Hyun-song: “Monetary policy independence is firm”… Leveraged ETF admits lack of ri
+  - [china] China Sanctions Officials of Taiwan’s Allies for the First Time
   - [korea] South Korean Won Hits 24-month High
   - [taiwan] Gold gains on weaker oil, dollar; US inflation data in focus
   - [japan] Yen Holds Steady in Thin Holiday Trade
@@ -50,13 +57,6 @@ Total: 2850 manchetes
   - [korea] [Photo] National Assembly Finance and Economy Committee conducts audit of the Bank of Korea’s government affai
   - [korea] [2026 National Assembly Audit] Shin Hyun-song “We will carry out independent monetary policy without hesitatio
   - [korea] Most Asian currencies muted; South Korean won hits two-year high
-  - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
-  - [korea] Governor of the Bank of Korea: “Carry out independent monetary policy without hesitation”
-  - [china] China-EU Deal Likely Averts Trade War, But Impact Limited — Market Talk
-  - [korea] Finance minister urges preemptive action for supply chain stability
-  - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
-  - [taiwan] MediaTek flagship AP share to surpass Samsung as TSMC boosts Dimensity
-  - [korea] After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2850 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T05:42:42+00:00",
+      "published_utc": "2026-10-12T05:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
