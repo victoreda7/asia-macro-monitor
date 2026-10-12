@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T05:02:43.605398+00:00
-Total: 2846 manchetes
+Última coleta: 2026-10-12T05:12:42.173946+00:00
+Total: 2848 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          785
-  🇹🇼 Taiwan         276
+  🇨🇳 China          786
+  🇹🇼 Taiwan         277
   🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live
+  - [taiwan] Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next Home Play
   - [china] China sanctions Paraguay, Belize ministers over Taiwan ties
+  - [china] China home car sales downturn continues, exports retain momentum
   - [korea] Will the Bank of Korea raise the base interest rate further within the year? Shin Hyun-song: “Preemptive respo
   - [china] China Plays Critical Role in Global AI Supply Chain, Domestic AI Ecosystem — Market Talk
   - [korea] CXMT: How big is its market threat to Samsung, SK Hynix and Micron?
@@ -25,6 +28,7 @@ Total: 2846 manchetes
   - [korea] Why is Samsung Electronics stock sliding today?
   - [korea] Why is SK Hynix stock sliding today?
   - [china] Yuan holds near 3-1/2-year high against dollar as rate bets ease
+  - [japan] Nikkei average growth is sluggish, focus on TSMC performance and price index (TV Asahi (ANN))
   - [taiwan] Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas
   - [china] EU-China Deal Could Halve Chinese Hybrid Car Exports
   - [china] China Moves to Stave Off Wider EU Trade War With Hybrid Deal
@@ -53,10 +57,6 @@ Total: 2846 manchetes
   - [korea] After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..
   - [korea] [Issue Inspection] Bank of Korea raises base interest rate to 3.0%...maintains ‘austerity stance’
   - [korea] Governor of the Bank of Korea: “Inflation is expected to remain above the target level for a considerable peri
-  - [korea] Bank of Korea Governor: Chip Industry Supports Faster Economic Growth
-  - [korea] [2026 National Assembly Audit] Bank of Korea Governor's inflation rate exceeds target for a considerable perio
-  - [china] CHINA PBOC CONDUCTS CNY50 BLN VIA 7-DAY REVERSE REPO MON
-  - [korea] S. Korea likely to continue solid growth driven by robust chip exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2846 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T05:02:43+00:00",
+      "published_utc": "2026-10-12T05:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
