@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T21:32:44.170445+00:00
-Total: 2918 manchetes
+Última coleta: 2026-10-12T21:42:42.997636+00:00
+Total: 2919 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          814
   🇹🇼 Taiwan         283
-  🇰🇷 Coreia do Sul  713
+  🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [korea] Concerns are growing that the impact of a rate hike could have a greater impact on the elderly in th..
   - [japan] [Direct hit] “The era of reflationary policy is over” The core of Sanaenomics as told by Minister of Economy a
   - [korea] “We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October
   - [korea] Onto Innovation wins SK hynix award for HBM defect technology
@@ -56,7 +57,6 @@ Total: 2918 manchetes
   - [japan] Dollar firm near 18-month highs, as Gulf unrest, US inflation keep investors on edge By Reuters
   - [china] China's new car exports increased by 60% in September; high gasoline prices may also boost EV demand
   - [china] China to lower VAT export rebate on new energy vehicles
-  - [china] China-EU car deal eases trade tensions for now at least
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2918 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T21:32:44+00:00",
+      "published_utc": "2026-10-12T21:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
