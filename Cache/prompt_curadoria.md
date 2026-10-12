@@ -7,23 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T04:52:43.883160+00:00
-Total: 2844 manchetes
+Última coleta: 2026-10-12T05:02:43.605398+00:00
+Total: 2846 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          785
   🇹🇼 Taiwan         276
-  🇰🇷 Coreia do Sul  675
+  🇰🇷 Coreia do Sul  677
 
 ## O que já está no feed (não repita)
 
+  - [china] China sanctions Paraguay, Belize ministers over Taiwan ties
+  - [korea] Will the Bank of Korea raise the base interest rate further within the year? Shin Hyun-song: “Preemptive respo
   - [china] China Plays Critical Role in Global AI Supply Chain, Domestic AI Ecosystem — Market Talk
   - [korea] CXMT: How big is its market threat to Samsung, SK Hynix and Micron?
   - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [korea] Why is Samsung Electronics stock sliding today?
   - [korea] Why is SK Hynix stock sliding today?
   - [china] Yuan holds near 3-1/2-year high against dollar as rate bets ease
-  - [japan] Nikkei average growth is sluggish, focus on TSMC performance and price index (TV Asahi (ANN))
   - [taiwan] Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas
   - [china] EU-China Deal Could Halve Chinese Hybrid Car Exports
   - [china] China Moves to Stave Off Wider EU Trade War With Hybrid Deal
@@ -36,9 +37,9 @@ Total: 2844 manchetes
   - [taiwan] TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential
   - [korea] Bank of Korea Governor Shin Hyun-song attends G20/IMF annual general meeting... Global economic and monetary p
   - [korea] South Korean Won's Gains Underpinned by Robust Exports, Current Account Surplus — Market Talk
-  - [china] China sanctions Paraguay, Belize ministers over Taiwan ties
   - [korea] Governor of the Bank of Korea: “Reduces ultimate costs by raising base interest rates in consecutive months in
   - [korea] Governor of the Bank of Korea: “Buying time by preemptively raising interest rates… ultimately reducing costs.
+  - [korea] Bank of Korea Governor Shin Hyun-song: “We will conduct monetary policy independently.”
   - [korea] The role of the Bank of Korea in expansionary finances is highlighted... Shin Hyun-song “I will protect my ind
   - [korea] [Photo] National Assembly Finance and Economy Committee conducts audit of the Bank of Korea’s government affai
   - [korea] [2026 National Assembly Audit] Shin Hyun-song “We will carry out independent monetary policy without hesitatio
@@ -56,7 +57,6 @@ Total: 2844 manchetes
   - [korea] [2026 National Assembly Audit] Bank of Korea Governor's inflation rate exceeds target for a considerable perio
   - [china] CHINA PBOC CONDUCTS CNY50 BLN VIA 7-DAY REVERSE REPO MON
   - [korea] S. Korea likely to continue solid growth driven by robust chip exports
-  - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2844 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T04:52:44+00:00",
+      "published_utc": "2026-10-12T05:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

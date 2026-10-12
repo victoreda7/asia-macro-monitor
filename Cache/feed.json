@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T04:52:43.883160+00:00",
- "collected_at_utc": "2026-10-12T04:52:43.883160+00:00",
+ "generated_at_utc": "2026-10-12T05:02:43.605398+00:00",
+ "collected_at_utc": "2026-10-12T05:02:43.605398+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2844,
+ "count": 2846,
  "by_region": {
   "japan": 1108,
   "china": 785,
   "taiwan": 276,
-  "korea": 675
+  "korea": 677
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T04:51:40+00:00"
+   "newest": "2026-10-12T05:02:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T04:12:30+00:00"
+   "newest": "2026-10-12T03:01:22+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T02:28:44+00:00"
+   "newest": "2026-10-12T04:49:35+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,46 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T04:19:00+00:00"
+   "newest": "2026-10-12T04:52:30+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+   "url": "https://asia.nikkei.com/politics/international-relations/china-sanctions-paraguay-belize-ministers-over-taiwan-ties",
+   "published_utc": "2026-10-12T05:02:42.146351+00:00",
+   "title_original": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "87f714fcb37c77c9"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "이코리아",
+   "title_en": "Will the Bank of Korea raise the base interest rate further within the year? Shin Hyun-song: “Preemptive response to inflation is important”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00R01sMGR0ZDZ1bk0tT2NJN0tIVEJoWGJFNHhqTXpuODViQ1QzN05OdFZ0TTIxamdHdmxjWkstRE9hNmxKdEdnNDI5cmtSUkVfWUo0SHBXcUp6ejltaWZ6cHFVWjhNNmFqNXVpQllTbw?oc=5",
+   "published_utc": "2026-10-12T04:52:30+00:00",
+   "title_original": "한은, 연내 기준금리 추가 인상할까… 신현송 “물가 선제 대응 중요”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f709f05c389876e9"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -444,24 +480,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4b0988b5a7dc2b97"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Nikkei average growth is sluggish, focus on TSMC performance and price index (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wSEJla01pVklNVEJMM05XemdiSjFNNFZ3ZnlnUGhaRTR6Tm5vVC1Ock1HeWt1MWdxMWVPS3pEWHJCZU85OVZtVFNIdFpidkJqTXRraTBRQnZrbjRzTThJYlZjVUZMS3dTYTFBZWhQWmgxZHhhOGx3SmcxbjNveE0?oc=5",
-   "published_utc": "2026-10-12T04:12:30+00:00",
-   "title_original": "日経平均伸び悩み TSMC業績と物価指数に注目（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f613dfe81e4fcd77"
   },
   {
    "source_id": "tradingview_live",
@@ -672,23 +690,6 @@
    "id": "2620c3e282eab02f"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
-   "published_utc": "2026-10-12T02:54:00+00:00",
-   "title_original": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7bfcf63c77409ab0"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "KBS 뉴스",
    "title_en": "Governor of the Bank of Korea: “Reduces ultimate costs by raising base interest rates in consecutive months in July and August”",
@@ -721,6 +722,24 @@
    "live_wire": false,
    "manual": false,
    "id": "864454fed1edd17a"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴시스",
+   "title_en": "Bank of Korea Governor Shin Hyun-song: “We will conduct monetary policy independently.”",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JM1V5c1BYMjBldUw2MFMydlkwS3FUOVA5LTVRTU81aDBiaDlMd3dnTkp1eER4TkpZbjgxY1QtUkp5N0hrQkU4bERsa00wLTJNcXdmcWo3Yi0zdmUzSV9jMWNSMDdCYndyajlwZnI5cTNybTNDUXlYedIBeEFVX3lxTE9JM1V5c1BYMjBldUw2MFMydlkwS3FUOVA5LTVRTU81aDBiaDlMd3dnTkp1eER4TkpZbjgxY1QtUkp5N0hrQkU4bERsa00wLTJNcXdmcWo3Yi0zdmUzSV9jMWNSMDdCYndyajlwZnI5cTNybTNDUXlYeQ?oc=5",
+   "published_utc": "2026-10-12T02:32:51+00:00",
+   "title_original": "신현송 한은 총재 \"독립적으로 통화정책 수행할 것\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "99e8879a9ac29749"
   },
   {
    "source_id": "gn_kr_bok",
@@ -830,7 +849,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Governor of the Bank of Korea: “Carry out independent monetary policy without hesitation”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92SUl4UlV6Vnd2M05ZQzVLQkJFVDlGWm5qR0dGcmRRVmxLZTZ4UUljUGIyVDUwQ19ickFFRXNxWHRFa3lvNWRyOWdCRHN5a1Z4bkUtUk5ma3ZiRVJOUmk0NtIBYEFVX3lxTE92SUl4UlV6Vnd2M05ZQzVLQkJFVDlGWm5qR0dGcmRRVmxLZTZ4UUljUGIyVDUwQ19ickFFRXNxWHRFa3lvNWRyOWdCRHN5a1Z4bkUtUk5ma3ZiRVJOUmk0Ng?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lNVcxdW95TFBSRFFERjJzUGZCMkNiQXVudHc3Z2NtbHdkMFBsTkM5LWFKN1RkdXM5QzJkV2d4clpPSVNRY2U2SlR6bHZIV0RVQzV4LVlQY2dMcUnSAWBBVV95cUxPdklJeFJVelZ3djNOWUM1S0JCRVQ5RlpuakdHRnJkUVZsS2U2eFFJY1BiMlQ1MENfYnJBRUVzcVh0RWt5bzVkcjlnQkRzeWtWeG5FLVJOZmt2YkVSTlJpNDY?oc=5",
    "published_utc": "2026-10-12T02:11:34+00:00",
    "title_original": "한은 총재 \"독립적 통화정책 흔들림 없이 수행\"",
    "region": "korea",
@@ -842,7 +861,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c9b8dba19166694c"
+   "id": "b54018df2958341b"
   },
   {
    "source_id": "tradingview_live",
@@ -1006,7 +1025,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "S. Korea likely to continue solid growth driven by robust chip exports",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzNCY2EzSnh6YWh2S2RFaTRlNTllaDhkS2Y0SGNUXzVMdl9HZGxRM0tkclZCYWtOZ3NFQURsdENidy1EUmd6OTVtVGplUDJPbmVSVko2U0RQQ045cjNTYWJzS2oxY1hPajNvZXpNUHd3aXdfWnd1NmZGMnJTSGlTc2NQLS0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHTF9tV05XUkx5WFZrVTI2Tlo5aFItTDRwZC1aR3YwYnl3REVtdmtraUctMzVYcnNkUF9GMXpqbUhqNkFVOVlWYlAyWnBQZjJSSWhucVRxa1NMMmNJMU1RY0dnWEs?oc=5",
    "published_utc": "2026-10-12T01:37:24+00:00",
    "title_original": "S. Korea likely to continue solid growth driven by robust chip exports",
    "region": "korea",
@@ -1018,7 +1037,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2103ea551d9441fb"
+   "id": "8abff2b872906bf2"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1332,6 +1351,24 @@
    "id": "0b5b5def0e9961de"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Nikkei average growth is sluggish, focus on TSMC performance and price index (TV Asahi (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wSEJla01pVklNVEJMM05XemdiSjFNNFZ3ZnlnUGhaRTR6Tm5vVC1Ock1HeWt1MWdxMWVPS3pEWHJCZU85OVZtVFNIdFpidkJqTXRraTBRQnZrbjRzTThJYlZjVUZMS3dTYTFBZWhQWmgxZHhhOGx3SmcxbjNveE0?oc=5",
+   "published_utc": "2026-10-12T00:38:31+00:00",
+   "title_original": "日経平均伸び悩み TSMC業績と物価指数に注目（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f613dfe81e4fcd77"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Seoul shares open lower on inflation, Mideast woes",
@@ -1437,7 +1474,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "36 Kr",
+   "source_name": "36Kr",
    "title_en": "There are 302 billion yuan of 7-day and 14-day reverse repurchases due in the central bank's open market this week.",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnQ0VzRERrRFhuQV8zLXROSlFOWHE1V3NhSy1HNm5UXzZTVk1Ic3BXUFhZT3lxa2oxTEZjWGFsTGZwNm01M3YtcUdGb1NiNzBGMllFLW04ZUU?oc=5",
    "published_utc": "2026-10-12T00:00:03+00:00",
@@ -2177,8 +2214,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -2191,7 +2228,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -3105,8 +3142,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -3120,7 +3157,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -3311,8 +3348,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -3326,7 +3363,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -4146,8 +4183,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -4161,7 +4198,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
