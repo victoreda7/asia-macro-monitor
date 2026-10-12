@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T04:12:43.278862+00:00
-Total: 2835 manchetes
+Última coleta: 2026-10-12T04:22:42.759268+00:00
+Total: 2836 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          781
+  🇨🇳 China          782
   🇹🇼 Taiwan         276
   🇰🇷 Coreia do Sul  670
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan holds near 3-1/2-year high against dollar as rate bets ease
   - [taiwan] Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas
   - [china] EU-China Deal Could Halve Chinese Hybrid Car Exports
   - [china] China Moves to Stave Off Wider EU Trade War With Hybrid Deal
@@ -56,7 +57,6 @@ Total: 2835 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7313 MON VS 6.7330
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il announced on the 12th that he..
   - [china] Tencent plans dollar, offshore yuan bond sale under note programme
-  - [china] Chinese Yuan Hits 4-year High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2835 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T04:12:43+00:00",
+      "published_utc": "2026-10-12T04:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
