@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T12:22:45.357813+00:00
-Total: 2905 manchetes
+Última coleta: 2026-10-12T12:32:43.028160+00:00
+Total: 2906 manchetes
 
   🇯🇵 Japão          1107
   🇨🇳 China          809
-  🇹🇼 Taiwan         279
+  🇹🇼 Taiwan         280
   🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
   - [china] EU eyes December trade initiatives after China car import deal
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
+  - [taiwan] Taiwan condemns China over sanctions on ministers of diplomatic allies
   - [china] Chinese Policymakers Appear at Ease With Stronger Yuan — Market Talk
   - [taiwan] Hon Hai subsidiary sells stake in Zhen Ding for $3.2bn
   - [china] Leapmotor-Stellantis JV calls EU-China import cap deal 'interesting alternative'
@@ -56,7 +57,6 @@ Total: 2905 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Repurchase Results
   - [korea] European Chip Stocks Mixed After Korean Tech Selloff — Market Talk
   - [korea] During the audit of government affairs, the Bank of Korea governor said, “Inflation will exceed the target for
-  - [korea] Bank of Korea Governor Shin Hyun-song: “Monetary policy, policy stance is more important than interest rate hi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2905 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T12:22:45+00:00",
+      "published_utc": "2026-10-12T12:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
