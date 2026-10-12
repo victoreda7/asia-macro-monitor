@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T10:22:43.063312+00:00
-Total: 2901 manchetes
+Última coleta: 2026-10-12T10:32:47.441242+00:00
+Total: 2900 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          804
+  🇨🇳 China          803
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [korea] Sandisk, IREN, SK Hynix, Amazon, and More Stocks That Explain Today's Market — Barrons.com
   - [china] EU to Cap Chinese Hybrid-Vehicle Imports at 350,000 Units Annually, Official Says
   - [korea] FX at one-month high led by Indian rupee, Korean won; earnings, IMF in focus
   - [china] Commentary: Europe Can’t Tariff Away Its China Trade Deficit
@@ -56,7 +57,6 @@ Total: 2901 manchetes
   - [china] China Says Hybrid-Car Deal With Europe to Ensure ‘Export Space’
   - [korea] Governor of the Bank of Korea: “Next year’s government budget plan will increase growth rate by 0.5%p and infl
   - [korea] [National Audit Issue] Bank of Korea Governor Shin Hyun-song “Monetary policy stance is more important than th
-  - [korea] (2nd LD) Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2901 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T10:22:43+00:00",
+      "published_utc": "2026-10-12T10:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

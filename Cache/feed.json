@@ -1,18 +1,82 @@
 {
- "generated_at_utc": "2026-10-12T10:22:43.063312+00:00",
- "collected_at_utc": "2026-10-12T10:22:43.063312+00:00",
+ "generated_at_utc": "2026-10-12T10:32:47.441242+00:00",
+ "collected_at_utc": "2026-10-12T10:32:47.441242+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 33,
  "sources_total": 41,
- "count": 2901,
+ "count": 2900,
  "by_region": {
   "japan": 1108,
-  "china": 804,
+  "china": 803,
   "taiwan": 278,
   "korea": 711
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 34.0,
  "sources": [
+  {
+   "source_id": "gn_cn_caixin",
+   "name": "Caixin",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "name": "FT Asia",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "name": "NBS 国家统计局",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -30,28 +94,12 @@
    "newest": "2026-10-12T07:41:06+00:00"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "name": "Caixin",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T09:57:00+00:00"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "name": "DIGITIMES",
    "ok": true,
    "count": 30,
    "error": "",
    "newest": "2026-10-12T07:18:34+00:00"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "name": "FT Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T09:15:04+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -158,22 +206,6 @@
    "newest": "2026-09-28T07:00:00+00:00"
   },
   {
-   "source_id": "gn_cn_nbs",
-   "name": "NBS 国家统计局",
-   "ok": true,
-   "count": 10,
-   "error": "",
-   "newest": "2026-10-09T07:00:00+00:00"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-09T08:43:54+00:00"
-  },
-  {
    "source_id": "nhk_politics",
    "name": "NHK 政治",
    "ok": true,
@@ -214,14 +246,6 @@
    "newest": "2026-10-12T08:51:48+00:00"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T00:49:00+00:00"
-  },
-  {
    "source_id": "gn_kr_reuters",
    "name": "Reuters Korea",
    "ok": true,
@@ -246,14 +270,6 @@
    "newest": "2026-10-12T10:05:56+00:00"
   },
   {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T08:23:47+00:00"
-  },
-  {
    "source_id": "gn_tw_taipeitimes",
    "name": "Taipei Times",
    "ok": true,
@@ -267,7 +283,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T10:21:55+00:00"
+   "newest": "2026-10-12T10:32:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -302,14 +318,6 @@
    "newest": "2026-10-12T07:42:52+00:00"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T07:28:47+00:00"
-  },
-  {
    "source_id": "gn_tw_cna",
    "name": "中央社 CNA",
    "ok": true,
@@ -326,14 +334,6 @@
    "newest": "2026-10-12T12:00:00+09:00"
   },
   {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T08:38:16+00:00"
-  },
-  {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Sandisk, IREN, SK Hynix, Amazon, and More Stocks That Explain Today's Market — Barrons.com",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012001929:0-sandisk-iren-sk-hynix-amazon-and-more-stocks-that-explain-today-s-market-barrons-com/",
+   "published_utc": "2026-10-12T10:28:00+00:00",
+   "title_original": "Sandisk, IREN, SK Hynix, Amazon, and More Stocks That Explain Today's Market — Barrons.com",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f92c7f6e54a36814"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1093,6 +1110,23 @@
    "live_wire": false,
    "manual": false,
    "id": "28e53b32bd96993c"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "여성경제신문",
+   "title_en": "Bank of Korea Governor Shin Hyun-song's first National Assembly inspection emphasizes preemptive response to interest rates... apologizes for insufficient ETF warnings",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaRFFpQ1NjbXVNVEh2NzFleFU4M3hpVkpIWW9TWUFLMXRXeDFac3JqSnhVVUZFTFRJS0cybzZIWEVNZGdxbFpmREVZdGtnWEdzX2ZqeFhISHFzdzdBT1FmbjBFa29zYlRYMEpvRGh2djFRVknSAXdBVV95cUxNb2J4LUxsbHZGYS14X1J1bHdKbjR0VG9nQmFadWxyOTZ0blU5WnBQeGF1NzRBaWw2TDNYOUc5enRoSUlYZndrZHc0NW90OTZPLTQ3eEptaE8wOUs0S0hHN2ZmWk5ZdXlUU2Z3M005WDljaUVsdk5ydw?oc=5",
+   "published_utc": "2026-10-12T07:10:42+00:00",
+   "title_original": "신현송 한은 총재 첫 국감, 금리 선제 대응 강조···ETF 경고 미흡엔 사과",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "00f5431c53725ed8"
   },
   {
    "source_id": "korea_herald_biz",
@@ -2033,24 +2067,6 @@
    "id": "b1efa6c3a180a19c"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴시스",
-   "title_en": "Bank of Korea Governor Shin Hyun-song: “We will conduct monetary policy independently.”",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JM1V5c1BYMjBldUw2MFMydlkwS3FUOVA5LTVRTU81aDBiaDlMd3dnTkp1eER4TkpZbjgxY1QtUkp5N0hrQkU4bERsa00wLTJNcXdmcWo3Yi0zdmUzSV9jMWNSMDdCYndyajlwZnI5cTNybTNDUXlYedIBeEFVX3lxTE9JM1V5c1BYMjBldUw2MFMydlkwS3FUOVA5LTVRTU81aDBiaDlMd3dnTkp1eER4TkpZbjgxY1QtUkp5N0hrQkU4bERsa00wLTJNcXdmcWo3Yi0zdmUzSV9jMWNSMDdCYndyajlwZnI5cTNybTNDUXlYeQ?oc=5",
-   "published_utc": "2026-10-12T02:32:51+00:00",
-   "title_original": "신현송 한은 총재 \"독립적으로 통화정책 수행할 것\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "99e8879a9ac29749"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Most Asian currencies muted; South Korean won hits two-year high",
@@ -2187,25 +2203,6 @@
    "live_wire": false,
    "manual": false,
    "id": "72d7acf5d9a833d2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Bank of Korea Governor: Chip Industry Supports Faster Economic Growth",
-   "url": "https://www.tradingview.com/news/binance_news:e12af0b61094b:0-bank-of-korea-governor-chip-industry-supports-faster-economic-growth/",
-   "published_utc": "2026-10-12T01:42:54+00:00",
-   "title_original": "Bank of Korea Governor: Chip Industry Supports Faster Economic Growth",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "743ff4641c8fa66e"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -50225,23 +50222,6 @@
    "live_wire": false,
    "manual": false,
    "id": "81db9433e62c6640"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "央广网",
-   "title_en": "How can the central bank conduct overnight reverse repurchases for four consecutive days to accurately \"clear congestion\"?",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsSkFvbU1HUjhDSFFmZEdmcHBubmFsZkZXcl94RWJ0NkhoWGd0WkxlcjV3T3ZhRjh4Z1FfajBKQVUzMGZITlM0X3E0YWV5cm5TVzN3ampZMVVVYTJMbTV6M1FEVllIcm8zVjZqUmtVRQ?oc=5",
-   "published_utc": "2026-09-12T10:30:24+00:00",
-   "title_original": "连续四天 央行隔夜逆回购如何精准“疏堵”？",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "18900b0af5f6d113"
   },
   {
    "source_id": "manual_ia",
