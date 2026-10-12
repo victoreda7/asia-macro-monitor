@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T01:42:44.020177+00:00
+Última coleta: 2026-10-12T01:52:42.531895+00:00
 Total: 2804 manchetes
 
-  🇯🇵 Japão          1109
+  🇯🇵 Japão          1108
   🇨🇳 China          775
   🇹🇼 Taiwan         270
-  🇰🇷 Coreia do Sul  650
+  🇰🇷 Coreia do Sul  651
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 2804 manchetes
   - [korea] S. Korea likely to continue solid growth driven by robust chip exports
   - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7313 MON VS 6.7330
+  - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il announced on the 12th that he..
   - [china] Tencent plans dollar, offshore yuan bond sale under note programme
   - [china] Chinese Yuan Hits 4-year High
   - [china] This Chinese memory chip maker has global potential and is poised to outperform
@@ -56,7 +57,6 @@ Total: 2804 manchetes
   - [japan] What the sell off in bonds means for monetary policy
   - [korea] Humanoids emerge as new growth engine for Samsung, SK Hynix
   - [china] EU plans yearly cap of 350,000 Chinese hybrid cars as trade tensions rise
-  - [korea] Solidigm IPO sparks debate over SK hynix shareholder value
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2804 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T01:42:44+00:00",
+      "published_utc": "2026-10-12T01:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
