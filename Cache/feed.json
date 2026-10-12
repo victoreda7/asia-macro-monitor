@@ -1,18 +1,50 @@
 {
- "generated_at_utc": "2026-10-12T08:42:42.638929+00:00",
- "collected_at_utc": "2026-10-12T08:42:42.638929+00:00",
+ "generated_at_utc": "2026-10-12T08:52:48.975449+00:00",
+ "collected_at_utc": "2026-10-12T08:52:48.975449+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 37,
  "sources_total": 41,
- "count": 2888,
+ "count": 2892,
  "by_region": {
   "japan": 1108,
   "china": 796,
   "taiwan": 278,
-  "korea": 706
+  "korea": 710
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 35.3,
  "sources": [
+  {
+   "source_id": "gn_asia_ft",
+   "name": "FT Asia",
+   "ok": false,
+   "count": 0,
+   "error": "sem resposta",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_mof",
+   "name": "MOF Japan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -44,14 +76,6 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-12T07:18:34+00:00"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "name": "FT Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T06:56:47+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -150,14 +174,6 @@
    "newest": "2026-10-12T05:14:00+00:00"
   },
   {
-   "source_id": "gn_jp_mof",
-   "name": "MOF Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-09-28T07:00:00+00:00"
-  },
-  {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
@@ -214,22 +230,6 @@
    "newest": "2026-10-12T06:51:00+00:00"
   },
   {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T00:49:00+00:00"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T01:19:00+00:00"
-  },
-  {
    "source_id": "gn_tw_reuters",
    "name": "Reuters Taiwan",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T08:41:34+00:00"
+   "newest": "2026-10-12T08:52:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T07:58:58+00:00"
+   "newest": "2026-10-12T08:43:18+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T08:09:12+00:00"
+   "newest": "2026-10-12T08:38:16+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T08:14:45+00:00"
+   "newest": "2026-10-12T08:48:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스핌",
+   "title_en": "[2026 National Assembly Audit] Shin Hyun-song “Buying time by preemptively raising interest rates”… Austerity costs and expansionary fiscal battle",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuSzVCa0FVWDhnT3laMW1WVkpKbFczcWhSZU02blhzbjFocXd5akxWeXVnT2JXLTBOb2ZoeWpTOExHdVY5Tks4TG51d0JBc1phMEdSQjhET3JkWUhK?oc=5",
+   "published_utc": "2026-10-12T08:48:00+00:00",
+   "title_original": "[2026 국감] 신현송 \"선제 금리인상으로 시간 벌어\"…긴축 비용·확장 재정 공방",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "23f6e5fffef73bc8"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -361,6 +379,57 @@
    "id": "0a4ff51de7dbf347"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "As the won continued to strengthen, foreign currency tech groups, aiming to buy low foreign currency..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tNDZHdk1pRzNyRWhXXzlxMlVTUU0tS0dtQXdBZTZKM21yckdRem5vYnpranFWRktJVFFIWm5nUHBRNnZ6OWo4b3Fxa0hsNklma1E?oc=5",
+   "published_utc": "2026-10-12T08:38:16+00:00",
+   "title_original": "As the won continued to strengthen, foreign currency tech groups, aiming to buy low foreign currency..",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "acfceec2c7d2212e"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The value of the Korean won is on a high march. The won per dollar rose to its highest level in two",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MU2JwNmQ2OXJWUDBxTEZOdGQ5MEVzMElYcC1UTHhEamU0TWV3YktmeVp4emNJaWNYNWdwaTRiUEpBTjJMV1Bjam5uc01kak1uYmc?oc=5",
+   "published_utc": "2026-10-12T08:36:00+00:00",
+   "title_original": "The value of the Korean won is on a high march. The won per dollar rose to its highest level in two",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0ba65420e99d826a"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The government's tax reform is expected to significantly increase the burden of comprehensive real e..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rRDZPMTFnU1NweTdQcXk4cjF3MWlqd1kybEFQc0k4bFdkbXM3T2Exa0tGdFl1R2NOWEs5WFlveVIwX1lQcEZGZnZEcWl2OEttZmc?oc=5",
+   "published_utc": "2026-10-12T08:32:13+00:00",
+   "title_original": "The government's tax reform is expected to significantly increase the burden of comprehensive real e..",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2bd78d024d4c00d3"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Copper Rises on China Stimulus Hopes, Mining Supply Risks — Market Talk",
@@ -376,6 +445,41 @@
    "live_wire": true,
    "manual": false,
    "id": "29e663bacd2ecf25"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스",
+   "title_en": "Governor of the Bank of Korea: “A 0.5% point increase in the base interest rate has the effect of reducing the inflation rate by 0.08% points” (comprehensive)",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xWWZ6dmFieWdrMl9NTzd6QjNUNEQ3Y2RWdGxQN2JncUZ1ZXZka2ExYmVCQTdPRl9zNTRxM3p5cnl2MHc4TkEzR1NHRmlwUGZISm1feUpyQVFHc0nSAWBBVV95cUxOZkdYYVd3cm1jSHNuZTFHUEptOUtnOHBkX3JLaGdpSEx2U3JrWXhPc0pBWkt1dEs3a2lSSVliSWFsanFwZXZBalJYWktfemNRci1LcThvMGlGd2NQVGlMNDM?oc=5",
+   "published_utc": "2026-10-12T08:30:37+00:00",
+   "title_original": "한은 총재 \"기준금리 0.5%p 인상, 물가상승률 0.08%p 하락 효과\"(종합)",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b03423ea7e67b829"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Jungheung Construction Group will donate 10 billion won for the success of the \"Honam Semiconductor",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yUERZUTRnQ3pBU0JFa3EzeV9MV2dSZUdLSllVQnhKRzkzM3pIMHZ1dFRqYU9oRzJiU2ZJbWpGTXJ3NjZjUElJcHRfSDJxQm9aZW1vNE9R?oc=5",
+   "published_utc": "2026-10-12T08:24:03+00:00",
+   "title_original": "Jungheung Construction Group will donate 10 billion won for the success of the \"Honam Semiconductor",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec3f19f718d0b138"
   },
   {
    "source_id": "tradingview_live",
@@ -398,7 +502,7 @@
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "European Chip Stocks Mixed After Korean Tech Selloff — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012001225:0-european-chip-stocks-mixed-after-korean-tech-selloff-market-talk/",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012001226:0-european-chip-stocks-mixed-after-korean-tech-selloff-market-talk/",
    "published_utc": "2026-10-12T08:17:00+00:00",
    "title_original": "European Chip Stocks Mixed After Korean Tech Selloff — Market Talk",
    "region": "korea",
@@ -409,7 +513,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "af25f1b490d371fa"
+   "id": "2c63d2457ae9c2c2"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1789,24 +1893,6 @@
    "id": "743ff4641c8fa66e"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "아주경제",
-   "title_en": "[2026 National Assembly Audit] Bank of Korea Governor's inflation rate exceeds target for a considerable period of time... Determination of timing and speed of additional interest rate increases",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOZkhaYUJNcG9yYy1udzdyUkRsYnBUSktwQk9Lc1Y3WXFqcTRiUldNT2x1eXVmNFNkbWR6U1V6Um5uUW9HYnBiNUdYaXQzemxrcDhhcnBTa1LSAVhBVV95cUxQTmZIWmFCTXBvcmMtbnc3clJEbGJwVEpLcEJPS3NWN1lxanE0YlJXTU9sdXl1ZjRTZG1kelNVelJublFvR2JwYjVHWGl0M3psa3A4YXJwU2tS?oc=5",
-   "published_utc": "2026-10-12T01:39:12+00:00",
-   "title_original": "[2026 국정감사] 한은 총재 물가, 상당기간 목표 상회…추가 금리 인상 시기·속도 결정",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e2ad8dc90958c338"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA PBOC CONDUCTS CNY50 BLN VIA 7-DAY REVERSE REPO MON",
@@ -1840,23 +1926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8abff2b872906bf2"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "마켓인",
-   "title_en": "President Shin Hyun-song “Solid growth continues…inflation has exceeded target for a considerable period of time”",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yenQ5VnNFWGZJRmZ3QVBwZ1hLOFpBdVJ2aGN2MEZRZ1BQSFJCdWY0RnV0LS1yazFkQkk4MUVwOUNlVU0zNkRSemFyb2JCT1dMcUE5ampJaVFYWkRZNnF0aWtfWDRlNE5KQnFDQmxVS1dNLVU?oc=5",
-   "published_utc": "2026-10-12T01:34:21+00:00",
-   "title_original": "신현송 총재 \"견조한 성장세 지속…물가는 상당기간 목표치 상회\"",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6d6db57f3634e800"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2931,8 +3000,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -2945,7 +3014,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -3553,6 +3622,23 @@
    "id": "3d46b61025652684"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank uses multiple tools to protect liquidity, and funding is expected to remain stable in October",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnllMFlqM1l3VEZZSGlhc1loYS1PVFpDQ1R0dnRBVnRiSnZabWtBdUlMdUZXSVhGY0t2cmRhQmFvZ215MzlwRkRSaGprUHRlY2duSW9BUUNWMFcwS2w2Q3BwdjZna1VLOU1Qbi1BYUJrc3lQNVBhUWNaTmstbFFIR1dUOVpxMGY4M3ZObXZNRmpmeERLMWRlQQ?oc=5",
+   "published_utc": "2026-10-09T20:33:01+00:00",
+   "title_original": "央行多工具呵护流动性 10月资金面有望保持平稳",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "36025c6c25752470"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Japan machine tool order backlog hits all-time high on AI demand",
@@ -3876,8 +3962,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -3891,7 +3977,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -4082,8 +4168,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -4097,7 +4183,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "tradingview_live",
@@ -4849,23 +4935,6 @@
    "id": "59b561f4a3341a77"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank uses multiple tools to protect liquidity, and funding is expected to remain stable in October",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVnVIM3N6TTZGX1NQWWxheDFuOWRDNktteXl2eU5PXzgtUHVaVS1ObWdNejFLNWxEemIyOTh3akNfeGsyTVJjeDV3dkVFakx6ZWRHQmxHWGFBS096N1lTVlQzVDRUbTRJSTJsbzV4Zkx5dmQtNkFkNHNPeTFqOFluZWpjMlhhTXQ1NlVMeUxMaw?oc=5",
-   "published_utc": "2026-10-09T04:57:00+00:00",
-   "title_original": "央行多工具呵护流动性 10月资金面有望保持平稳",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "baae89d1f84f6efc"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "Japan’s Takaichi Says Growth Push Will Help Support Trust in Yen: JPY/USD",
@@ -4917,8 +4986,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -4932,7 +5001,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",

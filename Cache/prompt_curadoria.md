@@ -7,18 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T08:42:42.638929+00:00
-Total: 2888 manchetes
+Última coleta: 2026-10-12T08:52:48.975449+00:00
+Total: 2892 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          796
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  706
+  🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [korea] [2026 National Assembly Audit] Shin Hyun-song “Buying time by preemptively raising interest rates”… Austerity 
   - [china] China’s CXMT makes ‘key progress’ on new chip structure: SCMP
+  - [korea] As the won continued to strengthen, foreign currency tech groups, aiming to buy low foreign currency..
+  - [korea] The value of the Korean won is on a high march. The won per dollar rose to its highest level in two
+  - [korea] The government's tax reform is expected to significantly increase the burden of comprehensive real e..
   - [china] Copper Rises on China Stimulus Hopes, Mining Supply Risks — Market Talk
+  - [korea] Governor of the Bank of Korea: “A 0.5% point increase in the base interest rate has the effect of reducing the
+  - [korea] Jungheung Construction Group will donate 10 billion won for the success of the "Honam Semiconductor
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Repurchase Results
   - [korea] European Chip Stocks Mixed After Korean Tech Selloff — Market Talk
   - [korea] During the audit of government affairs, the Bank of Korea governor said, “Inflation will exceed the target for
@@ -51,12 +57,6 @@ Total: 2888 manchetes
   - [korea] [Planning] Amid expectations of October freeze, there are still calls for further interest rate hikes
   - [korea] In response to the question, “Will the base interest rate be raised again in October?” The answer given by the
   - [korea] Shin Hyun-song "Monetary policy is having an effect... Policy stance is more important than interest rate hike
-  - [china] China details outcome of EU trade talks on hybrid, electric vehicles
-  - [japan] Dollar steady near 18-month high as Mideast conflict, US inflation in focus By Reuters
-  - [korea] The annual income standard for young people who can sign up for the Youth Housing Dream subscription..
-  - [korea] Bank of Korea Governor Shin Hyun-song attends the G20 and IMF general meetings... Monetary policy and internat
-  - [korea] SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live
-  - [taiwan] Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next Home Play
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2888 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T08:42:42+00:00",
+      "published_utc": "2026-10-12T08:52:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
