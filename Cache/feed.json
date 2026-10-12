@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T04:42:43.247654+00:00",
- "collected_at_utc": "2026-10-12T04:42:43.247654+00:00",
+ "generated_at_utc": "2026-10-12T04:52:43.883160+00:00",
+ "collected_at_utc": "2026-10-12T04:52:43.883160+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2842,
+ "count": 2844,
  "by_region": {
   "japan": 1108,
   "china": 785,
   "taiwan": 276,
-  "korea": 673
+  "korea": 675
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T04:18:04+00:00"
+   "newest": "2026-10-12T04:42:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T03:54:22+00:00"
+   "newest": "2026-10-12T04:36:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T04:03:26+00:00"
+   "newest": "2026-10-12T04:38:52+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T03:33:45+00:00"
+   "newest": "2026-10-12T04:39:29+00:00"
   },
   {
    "source_id": "ked_global",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T03:13:00+00:00"
+   "newest": "2026-10-12T02:54:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T04:41:11+00:00"
+   "newest": "2026-10-12T04:51:40+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T03:45:00+00:00"
+   "newest": "2026-10-12T04:19:00+00:00"
   }
  ],
  "items": [
@@ -359,6 +359,40 @@
    "live_wire": true,
    "manual": false,
    "id": "0a97412118bd3498"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "CXMT: How big is its market threat to Samsung, SK Hynix and Micron?",
+   "url": "https://www.investing.com/news/stock-market-news/cxmt-how-big-is-its-market-threat-to-samsung-sk-hynix-and-micron-93CH-4943064",
+   "published_utc": "2026-10-12T04:21:49+00:00",
+   "title_original": "CXMT: How big is its market threat to Samsung, SK Hynix and Micron?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c05facc9c538d349"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한겨레",
+   "title_en": "The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “within the year”",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JQ2xXb2xzM0VVZ0dLVkU5LVJxMzg4WnY3QWUwZkZJNF9KRWd3c3lZVlgzc01oTXpDLVEyZW1DSUg1TjM5enl2X2xFRkN5blNtdnk5b2RKOF9YMWZkd2x5WXRDRWZteHI0TmF3OHVzYzRBQQ?oc=5",
+   "published_utc": "2026-10-12T04:19:00+00:00",
+   "title_original": "한은, ‘금리 추가 인상’ 가능성 거듭 시사…시장선 “연내” 전망",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "048c58c53474a1bc"
   },
   {
    "source_id": "investing_live",
@@ -791,23 +825,6 @@
    "live_wire": true,
    "manual": false,
    "id": "91eb6bb9b91f5ea7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한겨레",
-   "title_en": "The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “within the year”",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JQ2xXb2xzM0VVZ0dLVkU5LVJxMzg4WnY3QWUwZkZJNF9KRWd3c3lZVlgzc01oTXpDLVEyZW1DSUg1TjM5enl2X2xFRkN5blNtdnk5b2RKOF9YMWZkd2x5WXRDRWZteHI0TmF3OHVzYzRBQQ?oc=5",
-   "published_utc": "2026-10-12T02:12:00+00:00",
-   "title_original": "한은, ‘금리 추가 인상’ 가능성 거듭 시사…시장선 “연내” 전망",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "048c58c53474a1bc"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1435,6 +1452,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2a8018afc4b07339"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "SK Hynix is expected to resume its share price rally in the third quarter with earnings exceeding ma..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50WDNvek9WZnFwVHlodnQyMmZwNm1rX193b0txOVk0dnpISFdhV0c2bzJtbnB1cmVraHBHdl9PUmExcmZjdEF6QXVCMnQzOFU?oc=5",
+   "published_utc": "2026-10-11T23:56:35+00:00",
+   "title_original": "SK Hynix is expected to resume its share price rally in the third quarter with earnings exceeding ma..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e88530209ac50ab1"
   },
   {
    "source_id": "gn_kr_bok",

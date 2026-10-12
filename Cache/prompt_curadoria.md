@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T04:42:43.247654+00:00
-Total: 2842 manchetes
+Última coleta: 2026-10-12T04:52:43.883160+00:00
+Total: 2844 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          785
   🇹🇼 Taiwan         276
-  🇰🇷 Coreia do Sul  673
+  🇰🇷 Coreia do Sul  675
 
 ## O que já está no feed (não repita)
 
   - [china] China Plays Critical Role in Global AI Supply Chain, Domestic AI Ecosystem — Market Talk
+  - [korea] CXMT: How big is its market threat to Samsung, SK Hynix and Micron?
+  - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [korea] Why is Samsung Electronics stock sliding today?
   - [korea] Why is SK Hynix stock sliding today?
   - [china] Yuan holds near 3-1/2-year high against dollar as rate bets ease
@@ -43,7 +45,6 @@ Total: 2842 manchetes
   - [korea] Most Asian currencies muted; South Korean won hits two-year high
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
-  - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [korea] Governor of the Bank of Korea: “Carry out independent monetary policy without hesitation”
   - [china] China-EU Deal Likely Averts Trade War, But Impact Limited — Market Talk
   - [korea] Finance minister urges preemptive action for supply chain stability
@@ -56,7 +57,6 @@ Total: 2842 manchetes
   - [china] CHINA PBOC CONDUCTS CNY50 BLN VIA 7-DAY REVERSE REPO MON
   - [korea] S. Korea likely to continue solid growth driven by robust chip exports
   - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
-  - [korea] President Shin Hyun-song “Solid growth continues…inflation has exceeded target for a considerable period of ti
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2842 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T04:42:43+00:00",
+      "published_utc": "2026-10-12T04:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
