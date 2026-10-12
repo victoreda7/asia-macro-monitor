@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T11:32:44.514330+00:00
+Última coleta: 2026-10-12T11:42:42.562579+00:00
 Total: 2903 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          806
+  🇨🇳 China          807
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  711
+  🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [china] Leapmotor-Stellantis JV calls EU-China import cap deal 'interesting alternative'
+  - [korea] Asia report: Stocks mixed but Seoul suffers steep chip sell-off
   - [china] Micron Stock Falls as China Memory Chip Threat Gets Serious — Barrons.com
   - [korea] Finance minister urges preemptive action for supply chain stability
   - [china] How China and the EU pressed pause on trade war – and what it took to get there
@@ -55,8 +57,6 @@ Total: 2903 manchetes
   - [korea] The semiconductor boom, which has been outlined since the first quarter of this year, was a boon to
   - [korea] Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, inflation are the most important variable
   - [korea] Reserve Rights: Upbit opens RSR spot trading in KRW and USDT markets - 12 Oct 2026
-  - [korea] Shin Hyun-song responds to criticism that 'the government is releasing money and the Bank of Korea is raising 
-  - [china] Stellantis, Renault gain as EU, China agree to curb Chinese hybrid car exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2903 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T11:32:44+00:00",
+      "published_utc": "2026-10-12T11:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
