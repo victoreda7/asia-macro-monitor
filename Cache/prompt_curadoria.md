@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T07:22:43.189633+00:00
-Total: 2871 manchetes
+Última coleta: 2026-10-12T07:35:17.779075+00:00
+Total: 2872 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          791
+  🇨🇳 China          792
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  694
 
 ## O que já está no feed (não repita)
 
+  - [china] Impact of EU Deal to Cut Chinese Hybrid Exports Likely Manageable — Market Talk
   - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [korea] Micron, SK Hynix Stocks Slip Overnight: China’s CXMT Advances Next-Gen DRAM Technology
   - [korea] (LEAD) Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
@@ -56,7 +57,6 @@ Total: 2871 manchetes
   - [korea] South Korean Won Hits 2-Year High
   - [korea] Bank of Korea Governor Shin Hyun-song: “Monetary policy independence is firm”… Leveraged ETF admits lack of ri
   - [china] China Sanctions Officials of Taiwan’s Allies for the First Time
-  - [korea] South Korean Won Hits 24-month High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2871 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T07:22:43+00:00",
+      "published_utc": "2026-10-12T07:35:18+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
