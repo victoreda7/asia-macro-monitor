@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-12T22:22:42.517589+00:00",
- "collected_at_utc": "2026-10-12T22:22:42.517589+00:00",
+ "generated_at_utc": "2026-10-12T22:32:42.310197+00:00",
+ "collected_at_utc": "2026-10-12T22:32:42.310197+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 2917,
  "by_region": {
-  "japan": 1107,
-  "china": 814,
-  "taiwan": 283,
+  "japan": 1108,
+  "china": 812,
+  "taiwan": 284,
   "korea": 713
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 47,
+   "error": "",
+   "newest": "2026-10-09T18:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-11T23:21:56+00:00"
+   "newest": "2026-10-12T13:21:41+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-12T21:28:11+00:00"
+   "newest": "2026-10-12T22:23:52+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T22:22:16+00:00"
+   "newest": "2026-10-12T22:30:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T17:23:12+00:00"
+   "newest": "2026-10-12T14:22:23+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Weekly Recap: Moody's affirms A2, outlook positive and TSMC tie-up boosts chips",
+   "url": "https://www.tradingview.com/news/tradingview:794bfa7cdba4f:0-weekly-recap-moody-s-affirms-a2-outlook-positive-and-tsmc-tie-up-boosts-chips/",
+   "published_utc": "2026-10-12T22:00:00+00:00",
+   "title_original": "Weekly Recap: Moody's affirms A2, outlook positive and TSMC tie-up boosts chips",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "919d447422b10018"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Weekly Recap: TSE:8604 Macquarie-unit buy and JGB global marketing",
+   "url": "https://www.tradingview.com/news/tradingview:f22f7432c51d7:0-weekly-recap-tse-8604-macquarie-unit-buy-and-jgb-global-marketing/",
+   "published_utc": "2026-10-12T22:00:00+00:00",
+   "title_original": "Weekly Recap: TSE:8604 Macquarie-unit buy and JGB global marketing",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "407ec54362c25fb2"
+  },
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
@@ -1887,40 +1921,6 @@
    "live_wire": false,
    "manual": false,
    "id": "10eaf010ca3c1df7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China home car sales downturn continues, exports retain momentum",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45Y08R:0-china-home-car-sales-downturn-continues-exports-retain-momentum/",
-   "published_utc": "2026-10-12T06:12:41+00:00",
-   "title_original": "China home car sales downturn continues, exports retain momentum",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "52d945301b3ee269"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Says EU Must Ensure Non-Discriminatory Treatment of Hybrid-Car Exports",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012000502:0-china-says-eu-must-ensure-non-discriminatory-treatment-of-hybrid-car-exports/",
-   "published_utc": "2026-10-12T06:11:00+00:00",
-   "title_original": "China Says EU Must Ensure Non-Discriminatory Treatment of Hybrid-Car Exports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6bbce0af4168703e"
   },
   {
    "source_id": "gn_kr_bok",
