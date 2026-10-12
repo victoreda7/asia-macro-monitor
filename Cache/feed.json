@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T14:02:45.237705+00:00",
- "collected_at_utc": "2026-10-12T14:02:45.237705+00:00",
+ "generated_at_utc": "2026-10-12T14:12:43.316202+00:00",
+ "collected_at_utc": "2026-10-12T14:12:43.316202+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 2907,
  "by_region": {
-  "japan": 1105,
+  "japan": 1106,
   "china": 812,
-  "taiwan": 281,
+  "taiwan": 280,
   "korea": 709
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T13:44:04+00:00"
+   "newest": "2026-10-12T14:07:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T13:59:47+00:00"
+   "newest": "2026-10-12T14:04:49+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T14:01:45+00:00"
+   "newest": "2026-10-12T14:11:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012003907:0-eu-aims-to-put-brakes-on-chinese-hybrid-vehicle-market-share-with-import-cap-update/",
+   "published_utc": "2026-10-12T14:11:00+00:00",
+   "title_original": "EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap — Update",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "106fa8330efa801c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japanese Yen Could Trade Sideways Vs Dollar in Near-Term — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012003881:0-japanese-yen-could-trade-sideways-vs-dollar-in-near-term-market-talk/",
+   "published_utc": "2026-10-12T14:08:00+00:00",
+   "title_original": "Japanese Yen Could Trade Sideways Vs Dollar in Near-Term — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2bca96ba026fe199"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9id1k0b0ZFY0JFbzEtNXloQ2JCeGZzbEZzQng3ekFsU2lfNUFxWnpjcXVWT2hadm9PQkk3ZkJ2aTc2SlVyTWpnOHpfdW1vMU1fR3RSSjhWWFhTQU1hYUFNVHhGbEduNHdYQ1U3MXhWWllKSmZUc0lOOGN3?oc=5",
+   "published_utc": "2026-10-12T14:04:49+00:00",
+   "title_original": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1fcf3599b86119a2"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -428,23 +479,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a763833937717771"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9id1k0b0ZFY0JFbzEtNXloQ2JCeGZzbEZzQng3ekFsU2lfNUFxWnpjcXVWT2hadm9PQkk3ZkJ2aTc2SlVyTWpnOHpfdW1vMU1fR3RSSjhWWFhTQU1hYUFNVHhGbEduNHdYQ1U3MXhWWllKSmZUc0lOOGN3?oc=5",
-   "published_utc": "2026-10-12T11:44:32+00:00",
-   "title_original": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1fcf3599b86119a2"
   },
   {
    "source_id": "focus_taiwan",
@@ -2032,23 +2066,6 @@
    "id": "4b0988b5a7dc2b97"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas",
-   "url": "https://www.tradingview.com/news/stocktwits:3cbee1b8c094b:0-elon-musk-wants-tesla-spacex-to-test-10-chip-designs-a-year-at-terafab-as-tsmc-reportedly-eyes-texas/",
-   "published_utc": "2026-10-12T04:07:24+00:00",
-   "title_original": "Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "481b569c6dc13887"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "EU-China Deal Could Halve Chinese Hybrid Car Exports",
@@ -2100,24 +2117,6 @@
    "live_wire": false,
    "manual": false,
    "id": "106fb54722a9e536"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "PBOC Expected to Tolerate Further Gradual Yuan Appreciation — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261011000706:0-pboc-expected-to-tolerate-further-gradual-yuan-appreciation-market-talk/",
-   "published_utc": "2026-10-12T03:46:00+00:00",
-   "title_original": "PBOC Expected to Tolerate Further Gradual Yuan Appreciation — Market Talk",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6ce8595c36f614d5"
   },
   {
    "source_id": "gn_kr_bok",

@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T14:02:45.237705+00:00
+Última coleta: 2026-10-12T14:12:43.316202+00:00
 Total: 2907 manchetes
 
-  🇯🇵 Japão          1105
+  🇯🇵 Japão          1106
   🇨🇳 China          812
-  🇹🇼 Taiwan         281
+  🇹🇼 Taiwan         280
   🇰🇷 Coreia do Sul  709
 
 ## O que já está no feed (não repita)
 
+  - [china] EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap — Update
+  - [japan] Japanese Yen Could Trade Sideways Vs Dollar in Near-Term — Market Talk
+  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [china] Copper climbs on China stimulus hopes, Chile mine supply risks
   - [china] BYD sees tariff pressure linked to EU-China deal as short term
   - [taiwan] Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300
   - [korea] ASML to raise prices of chipmaking parts for Samsung, SK Hynix by 10%: report
   - [china] EU eyes December trade initiatives after China car import deal
-  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [taiwan] Taiwan condemns China over sanctions on ministers of diplomatic allies
   - [china] Chinese Policymakers Appear at Ease With Stronger Yuan — Market Talk
   - [taiwan] Hon Hai subsidiary sells stake in Zhen Ding for $3.2bn
@@ -55,8 +57,6 @@ Total: 2907 manchetes
   - [korea] The value of the Korean won is on a high march. The won per dollar rose to its highest level in two
   - [korea] The government's tax reform is expected to significantly increase the burden of comprehensive real e..
   - [china] Copper Rises on China Stimulus Hopes, Mining Supply Risks — Market Talk
-  - [korea] Governor of the Bank of Korea: “A 0.5% point increase in the base interest rate has the effect of reducing the
-  - [taiwan] Taoyuan's Lala Mountain becomes Taiwan's first Urban Night Sky Place
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2907 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T14:02:45+00:00",
+      "published_utc": "2026-10-12T14:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
