@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T15:22:42.625104+00:00
-Total: 2909 manchetes
+Última coleta: 2026-10-12T15:32:47.775780+00:00
+Total: 2911 manchetes
 
-  🇯🇵 Japão          1106
+  🇯🇵 Japão          1108
   🇨🇳 China          813
-  🇹🇼 Taiwan         281
-  🇰🇷 Coreia do Sul  709
+  🇹🇼 Taiwan         280
+  🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [japan] Finance Minister Katayama becomes the next chairman of the World Bank/IMF Joint Development Committee Prime Mi
+  - [china] EU limits Chinese hybrid shipments at 350,000 annually
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [china] EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap — Update
   - [japan] Japanese Yen Could Trade Sideways Vs Dollar in Near-Term — Market Talk
@@ -55,8 +57,6 @@ Total: 2909 manchetes
   - [korea] [2026 National Assembly Audit] Shin Hyun-song “Buying time by preemptively raising interest rates”… Austerity 
   - [china] China’s CXMT makes ‘key progress’ on new chip structure: SCMP
   - [korea] As the won continued to strengthen, foreign currency tech groups, aiming to buy low foreign currency..
-  - [korea] The value of the Korean won is on a high march. The won per dollar rose to its highest level in two
-  - [korea] The government's tax reform is expected to significantly increase the burden of comprehensive real e..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2909 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T15:22:42+00:00",
+      "published_utc": "2026-10-12T15:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
