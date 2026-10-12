@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T02:17:49.632460+00:00
-Total: 2813 manchetes
+Última coleta: 2026-10-12T02:22:43.781861+00:00
+Total: 2814 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          776
-  🇹🇼 Taiwan         271
+  🇹🇼 Taiwan         272
   🇰🇷 Coreia do Sul  658
 
 ## O que já está no feed (não repita)
 
+  - [korea] [2026 National Assembly Audit] Shin Hyun-song “We will carry out independent monetary policy without hesitatio
   - [korea] Most Asian currencies muted; South Korean won hits two-year high
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [china] China-EU Deal Likely Averts Trade War, But Impact Limited — Market Talk
@@ -56,7 +57,6 @@ Total: 2813 manchetes
   - [japan] ``The company president lives there secretly'' ``It was even called ``Shin Denen Chofu''...The long history of
   - [korea] The Korea Land and Housing Corporation's (LH) debt is expected to continue to increase, exceeding 37..
   - [japan] Takaichi administration's economic policy: ``Pushing into wishful thinking is the same as the last war'' ``For
-  - [japan] Investors bet on Japan, Australia rental housing as rates, home prices rise
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2813 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T02:17:49+00:00",
+      "published_utc": "2026-10-12T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
