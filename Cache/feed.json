@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T09:39:23.875404+00:00",
- "collected_at_utc": "2026-10-12T09:39:23.875404+00:00",
+ "generated_at_utc": "2026-10-12T09:42:43.343701+00:00",
+ "collected_at_utc": "2026-10-12T09:42:43.343701+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2897,
+ "count": 2898,
  "by_region": {
   "japan": 1107,
   "china": 803,
   "taiwan": 278,
-  "korea": 709
+  "korea": 710
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 31.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T09:10:00+00:00"
+   "newest": "2026-10-12T09:36:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T09:37:56+00:00"
+   "newest": "2026-10-12T09:41:31+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T08:38:16+00:00"
+   "newest": "2026-10-12T01:47:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,25 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Bank of Korea Expects 2027 Budget to Have Marginal Impact on Inflation",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012001659:0-bank-of-korea-expects-2027-budget-to-have-marginal-impact-on-inflation/",
+   "published_utc": "2026-10-12T09:39:00+00:00",
+   "title_original": "Bank of Korea Expects 2027 Budget to Have Marginal Impact on Inflation",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "94632d8c565cce53"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -760,7 +779,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "www.thecommoditiesnews.com",
+   "source_name": "CNews",
    "title_en": "Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, inflation are the most important variables.”",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiTms4MUZEanh6S3djNGExc1ZiWFJIdC1OMldYdF9sRFRibzNMclNKMldxU0lTV2NiOGVvTi1YOXFpdF9sOXpIZlhmYUdubDhkQnJ6VFU1WDA2b0xXVExRYUlIc2pKN3ZHeEhaQTZ4VVBLUVAwTEdF?oc=5",
    "published_utc": "2026-10-12T08:03:27+00:00",
@@ -793,6 +812,24 @@
    "live_wire": true,
    "manual": false,
    "id": "e20c17ded327e1a0"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국일보",
+   "title_en": "Shin Hyun-song responds to criticism that 'the government is releasing money and the Bank of Korea is raising interest rates' and that the impact on prices is not significant.",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pXy1GMjI3SndrZ3pOdWxhUzREc1hxTTZRU0FFNHpCcUtGMTFab1NJRVNWdHdXNENRbXVseG9NMWJVZFNoNUFnLTRMcGVzckxOVHo0d1RCN1d2NHZqbHlvUFdvVEFZNTBjYWRrWDhjTUhod03SAXNBVV95cUxOaV8tRjIyN0p3a2d6TnVsYVM0RHNYcU02UVNBRTR6QnFLRjExWm9TSUVTVnR3VzRDUW11bHhvTTFiVWRTaDVBZy00THBlc3JMTlR6NHdUQjdXdjR2amx5b1BXb1RBWTUwY2Fka1g4Y01IaHdN?oc=5",
+   "published_utc": "2026-10-12T08:00:00+00:00",
+   "title_original": "'정부는 돈 풀고 한은은 금리 올리고' 엇박자 지적에 신현송 \"물가 영향 크지 않아\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c0ca5eb4f4b43e31"
   },
   {
    "source_id": "investing_live",
@@ -1977,24 +2014,6 @@
    "id": "91eb6bb9b91f5ea7"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "연합뉴스",
-   "title_en": "Governor of the Bank of Korea: “Carry out independent monetary policy without hesitation”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lNVcxdW95TFBSRFFERjJzUGZCMkNiQXVudHc3Z2NtbHdkMFBsTkM5LWFKN1RkdXM5QzJkV2d4clpPSVNRY2U2SlR6bHZIV0RVQzV4LVlQY2dMcUnSAWBBVV95cUxPdklJeFJVelZ3djNOWUM1S0JCRVQ5RlpuakdHRnJkUVZsS2U2eFFJY1BiMlQ1MENfYnJBRUVzcVh0RWt5bzVkcjlnQkRzeWtWeG5FLVJOZmt2YkVSTlJpNDY?oc=5",
-   "published_utc": "2026-10-12T02:11:34+00:00",
-   "title_original": "한은 총재 \"독립적 통화정책 흔들림 없이 수행\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b54018df2958341b"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "China-EU Deal Likely Averts Trade War, But Impact Limited — Market Talk",
@@ -2239,23 +2258,6 @@
    "live_wire": false,
    "manual": false,
    "id": "14c7c3cd4403c825"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Tencent plans dollar, offshore yuan bond sale under note programme",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45Y01K:0-tencent-plans-dollar-offshore-yuan-bond-sale-under-note-programme/",
-   "published_utc": "2026-10-12T01:17:19+00:00",
-   "title_original": "Tencent plans dollar, offshore yuan bond sale under note programme",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4632f353919718d7"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -4697,7 +4699,7 @@
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "China state funds double down on Hua Hong in legacy chip push",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTW9wdDM5eG9tYl9GNEt6RGxZaE14anlaUFBSNFF6MzdkNEd3X3BzSkhuNldaR2hZUnB6ZHBXc09XYmxvMWVtWk52WEtJNXVueF9OUk9aSHRfODhYLUFIX200V1ViMy1VaFlYT2t6bGd0b3hiR09ldW1WYmNxcWtzN3pCemVUTWRyVmlqYkhvcXpDUVpjOXJXanFhQmd6SDlqbXJGN013dTg3QdIBqgFBVV95cUxOaGw2YUlTR1lWbmlPOU54ZGdGc2dlRl93NUNya1I3Y0Q2YVBza1I3cWxDSDNCTGtVRDU1YU1FSWZROFM5QmlzaVBqNDdSa0lnWHQ4QzJYbDZUNFo5TE5LTlpxemRIYXJDbkFIaFFCM3I3Szh4cmxrd3BvakZOSVBiZUV3Q292U2NsSmJTbDVvMHRMTk5ZSHlxc3JlOUE4YThNVkxMaHB5ZmhLQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTW9wdDM5eG9tYl9GNEt6RGxZaE14anlaUFBSNFF6MzdkNEd3X3BzSkhuNldaR2hZUnB6ZHBXc09XYmxvMWVtWk52WEtJNXVueF9OUk9aSHRfODhYLUFIX200V1ViMy1VaFlYT2t6bGd0b3hiR09ldW1WYmNxcWtzN3pCemVUTWRyVmlqYkhvcXpDUVpjOXJXanFhQmd6SDlqbXJGN013dTg3QQ?oc=5",
    "published_utc": "2026-10-09T08:30:09+00:00",
    "title_original": "China state funds double down on Hua Hong in legacy chip push",
    "region": "china",
@@ -4708,7 +4710,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "14a5c02164c9e5cb"
+   "id": "1b872d7a0f3c5302"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -5699,6 +5701,25 @@
    "live_wire": false,
    "manual": false,
    "id": "4de47c3b08227549"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36kr.com",
+   "title_en": "The central bank’s net investment in open market government bond sales in September was 100 billion yuan -36 Krypton",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZcmRTVDNHQzNkMkk4Z1JabnJkRy1DMkJ1WkdVTzZoRDFDTzZwMUJuaUdudm93Ql9WaEdFNXV4cHNhemhJdWxJSHR3M1gxalBETFVyVzNTZ09JMFFjSjlBVg?oc=5",
+   "published_utc": "2026-10-08T18:20:00+00:00",
+   "title_original": "央行9月公开市场国债买卖净投放1000亿元-36氪",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6a22aed4c8389ca4"
   },
   {
    "source_id": "nikkei_asia",

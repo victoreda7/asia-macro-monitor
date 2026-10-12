@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T09:39:23.875404+00:00
-Total: 2897 manchetes
+Última coleta: 2026-10-12T09:42:43.343701+00:00
+Total: 2898 manchetes
 
   🇯🇵 Japão          1107
   🇨🇳 China          803
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  709
+  🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea Expects 2027 Budget to Have Marginal Impact on Inflation
   - [korea] Seoul shares open lower on inflation, Mideast woes
   - [china] China's new car exports increased by 60% in September; high gasoline prices may also boost EV demand
   - [china] China to lower VAT export rebate on new energy vehicles
@@ -43,6 +44,7 @@ Total: 2897 manchetes
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [korea] Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, inflation are the most important variable
   - [korea] Reserve Rights: Upbit opens RSR spot trading in KRW and USDT markets - 12 Oct 2026
+  - [korea] Shin Hyun-song responds to criticism that 'the government is releasing money and the Bank of Korea is raising 
   - [china] Stellantis, Renault gain as EU, China agree to curb Chinese hybrid car exports
   - [korea] Hwacheon-gun County returns the increase in local currency instead of raising the entrance fee to th..
   - [china] China Says Hybrid-Car Deal With Europe to Ensure ‘Export Space’
@@ -55,8 +57,6 @@ Total: 2897 manchetes
   - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [korea] Micron, SK Hynix Stocks Slip Overnight: China’s CXMT Advances Next-Gen DRAM Technology
   - [korea] Shin Hyun-song’s first appearance as National Assembly inspector… “Further interest rate increases and inflati
-  - [korea] [Today Who] Bank of Korea Shin Hyun-song's debut as National Assembly inspector, re-emphasizes 'necessity of i
-  - [korea] (LEAD) Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2897 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T09:39:24+00:00",
+      "published_utc": "2026-10-12T09:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
