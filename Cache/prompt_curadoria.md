@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T01:12:42.470351+00:00
-Total: 2799 manchetes
+Última coleta: 2026-10-12T01:22:42.705811+00:00
+Total: 2800 manchetes
 
   🇯🇵 Japão          1109
-  🇨🇳 China          772
+  🇨🇳 China          773
   🇹🇼 Taiwan         270
   🇰🇷 Coreia do Sul  648
 
 ## O que já está no feed (não repita)
 
+  - [china] Tencent plans dollar, offshore yuan bond sale under note programme
   - [china] This Chinese memory chip maker has global potential and is poised to outperform
   - [korea] South Korean bond rally seen faltering as traders brace for rate hikes
   - [korea] SK Hynix oversold near support after 15% slide: Live levels
@@ -56,7 +57,6 @@ Total: 2799 manchetes
   - [japan] Japan weighs railway upgrades as part of defense spending push
   - [korea] Samsung to expand chip capacity in Vietnam, boost high-end production in Korea
   - [china] Renault CEO calls EU-China hybrid import deal a ’major milestone’ - Bloomberg
-  - [japan] Cocorico Endo > Family trip to Hawaii - cup noodles due to the weak yen and rising prices (beautiful every day
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2799 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T01:12:42+00:00",
+      "published_utc": "2026-10-12T01:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
