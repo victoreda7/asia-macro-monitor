@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T03:02:42.130313+00:00
-Total: 2821 manchetes
+Última coleta: 2026-10-12T03:12:44.670636+00:00
+Total: 2827 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          776
-  🇹🇼 Taiwan         272
-  🇰🇷 Coreia do Sul  665
+  🇨🇳 China          778
+  🇹🇼 Taiwan         273
+  🇰🇷 Coreia do Sul  668
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea Governor Shin Hyun-song attends G20/IMF annual general meeting... Global economic and monetary p
+  - [korea] South Korean Won's Gains Underpinned by Robust Exports, Current Account Surplus — Market Talk
   - [korea] Governor of the Bank of Korea: “Reduces ultimate costs by raising base interest rates in consecutive months in
   - [korea] The role of the Bank of Korea in expansionary finances is highlighted... Shin Hyun-song “I will protect my ind
   - [korea] [Photo] National Assembly Finance and Economy Committee conducts audit of the Bank of Korea’s government affai
@@ -32,11 +34,13 @@ Total: 2821 manchetes
   - [korea] After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..
   - [korea] [Issue Inspection] Bank of Korea raises base interest rate to 3.0%...maintains ‘austerity stance’
   - [korea] Governor of the Bank of Korea: “Inflation is expected to remain above the target level for a considerable peri
+  - [korea] Bank of Korea Governor: Chip Industry Supports Faster Economic Growth
   - [korea] [2026 National Assembly Audit] Bank of Korea Governor's inflation rate exceeds target for a considerable perio
   - [china] CHINA PBOC CONDUCTS CNY50 BLN VIA 7-DAY REVERSE REPO MON
   - [korea] S. Korea likely to continue solid growth driven by robust chip exports
   - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
   - [korea] President Shin Hyun-song “Solid growth continues…inflation has exceeded target for a considerable period of ti
+  - [china] On October 12, the central bank launched a 50 billion yuan 7-day reverse repurchase operation.
   - [korea] The Bank of Korea raised interest rates for the second time in a row... Shin Hyun-song “Possibility of insolve
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7313 MON VS 6.7330
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il announced on the 12th that he..
@@ -45,6 +49,7 @@ Total: 2821 manchetes
   - [china] This Chinese memory chip maker has global potential and is poised to outperform
   - [korea] South Korean bond rally seen faltering as traders brace for rate hikes
   - [korea] SK Hynix oversold near support after 15% slide: Live levels
+  - [korea] Samsung and SK Hynix Tackle HBM4E Cooling as AI Interposers May Grow 40-Fold
   - [korea] The Bank of Korea repeatedly indicates its intention to “further increase the base interest rate”
   - [china] CX Daily: Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say
   - [china] Tencent proposes dollar, offshore yuan note offering
@@ -52,11 +57,6 @@ Total: 2821 manchetes
   - [korea] Exports double in first 10 days of Oct. on chip boom
   - [japan] Nikkei average growth is sluggish, focus on TSMC performance and price index (TV Asahi (ANN))
   - [korea] Seoul shares open lower on inflation, Mideast woes
-  - [korea] (LEAD) Seoul shares open lower on inflation, Mideast woes
-  - [korea] (LEAD) Exports double in first 10 days of October on chips
-  - [korea] BOK forms 11-member advisory committee on digital currency
-  - [korea] 57.3% of bank household loans have variable interest rates... Will the interest burden increase due to further
-  - [korea] (URGENT) Seoul shares open lower on inflation, Midest woes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2821 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T03:02:42+00:00",
+      "published_utc": "2026-10-12T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
