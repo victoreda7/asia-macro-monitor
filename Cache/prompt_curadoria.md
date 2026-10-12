@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T12:02:42.888304+00:00
+Última coleta: 2026-10-12T12:12:44.697229+00:00
 Total: 2905 manchetes
 
   🇯🇵 Japão          1107
@@ -17,10 +17,10 @@ Total: 2905 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] EU eyes December trade initiatives after China car import deal
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [china] Chinese Policymakers Appear at Ease With Stronger Yuan — Market Talk
   - [taiwan] Hon Hai subsidiary sells stake in Zhen Ding for $3.2bn
-  - [china] EU eyes December trade initiatives after China car import deal
   - [china] Leapmotor-Stellantis JV calls EU-China import cap deal 'interesting alternative'
   - [korea] Asia report: Stocks mixed but Seoul suffers steep chip sell-off
   - [china] Micron Stock Falls as China Memory Chip Threat Gets Serious — Barrons.com
@@ -116,7 +116,7 @@ Total: 2905 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T12:02:43+00:00",
+      "published_utc": "2026-10-12T12:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
