@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T08:02:44.042285+00:00",
- "collected_at_utc": "2026-10-12T08:02:44.042285+00:00",
+ "generated_at_utc": "2026-10-12T08:12:47.296110+00:00",
+ "collected_at_utc": "2026-10-12T08:12:47.296110+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2884,
+ "count": 2885,
  "by_region": {
   "japan": 1108,
   "china": 795,
   "taiwan": 278,
-  "korea": 703
+  "korea": 704
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 31.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T03:06:33+00:00"
+   "newest": "2026-10-12T07:18:34+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T07:59:47+00:00"
+   "newest": "2026-10-12T08:04:49+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T08:02:00+00:00"
+   "newest": "2026-10-12T08:11:53+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,46 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T07:35:00+00:00"
+   "newest": "2026-10-12T08:03:27+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9id1k0b0ZFY0JFbzEtNXloQ2JCeGZzbEZzQng3ekFsU2lfNUFxWnpjcXVWT2hadm9PQkk3ZkJ2aTc2SlVyTWpnOHpfdW1vMU1fR3RSSjhWWFhTQU1hYUFNVHhGbEduNHdYQ1U3MXhWWllKSmZUc0lOOGN3?oc=5",
+   "published_utc": "2026-10-12T08:04:49+00:00",
+   "title_original": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1fcf3599b86119a2"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "www.thecommoditiesnews.com",
+   "title_en": "Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, inflation are the most important variables.”",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiTms4MUZEanh6S3djNGExc1ZiWFJIdC1OMldYdF9sRFRibzNMclNKMldxU0lTV2NiOGVvTi1YOXFpdF9sOXpIZlhmYUdubDhkQnJ6VFU1WDA2b0xXVExRYUlIc2pKN3ZHeEhaQTZ4VVBLUVAwTEdF?oc=5",
+   "published_utc": "2026-10-12T08:03:27+00:00",
+   "title_original": "신현송 한은 총재 \"추가 금리 인상, 인플레가 가장 중요한 변수\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a773499d32ab5809"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "CoinMarketCal",
@@ -447,6 +483,23 @@
    "live_wire": true,
    "manual": false,
    "id": "d72d17fef773a1f6"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "South Korean startup Helios targets Taiwan supply chains and Taiwan Strait risk analysis",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUVlQbkgydWV3Xy1CSl9VLXZTZmRXc0dJYlNURHBJeVY0enQ4LWExVXhkQVZjaDgtZlBzT0VuMjkxTEpQSWlvNHlBTFQ3N0dtd3VlNHBGbzNqQk9YSmpmeDN0ZDZTb2VKdHRvNnJGQU0zWjJtb2RCWUQ0SEFjUXJTcWdkRW44QzBmRFNZQ01GSVl4SURHblE?oc=5",
+   "published_utc": "2026-10-12T07:18:34+00:00",
+   "title_original": "South Korean startup Helios targets Taiwan supply chains and Taiwan Strait risk analysis",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d25c884a9c09a1c3"
   },
   {
    "source_id": "gn_kr_mk",
@@ -779,23 +832,6 @@
    "live_wire": false,
    "manual": false,
    "id": "47f1cdb6687058ff"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9id1k0b0ZFY0JFbzEtNXloQ2JCeGZzbEZzQng3ekFsU2lfNUFxWnpjcXVWT2hadm9PQkk3ZkJ2aTc2SlVyTWpnOHpfdW1vMU1fR3RSSjhWWFhTQU1hYUFNVHhGbEduNHdYQ1U3MXhWWllKSmZUc0lOOGN3?oc=5",
-   "published_utc": "2026-10-12T05:40:21+00:00",
-   "title_original": "S.Korean stocks slide as chip selloff deepens, foreign selling persists",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1fcf3599b86119a2"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2066,23 +2102,6 @@
    "id": "589cbbb03a561417"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "폴리뉴스 Polinews",
-   "title_en": "57.3% of bank household loans have variable interest rates... Will the interest burden increase due to further increases in the base interest rate?",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qSlNKbDZwRE9zaFNybUIzazctb0dEbldGWDJUdmRDM05jQ3J0OHR2RF9zelA5eFJiNDJ4TFBMa2dVWm90aGZneXBWU3g5VkdqLWczYzFGcC1XQkE3SUIzeVlZM0UtMUp3bk5MMFJB?oc=5",
-   "published_utc": "2026-10-12T00:06:09+00:00",
-   "title_original": "은행 가계대출 57.3%가 변동금리…기준금리 추가 인상에 이자 부담 커지나",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "30180b56bf32bfb4"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(URGENT) Seoul shares open lower on inflation, Midest woes",
@@ -2858,8 +2877,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -2872,7 +2891,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -3803,8 +3822,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -3818,7 +3837,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -4009,8 +4028,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -4024,7 +4043,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "tradingview_live",
@@ -4844,8 +4863,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -4859,7 +4878,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",

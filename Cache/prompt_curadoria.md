@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T08:02:44.042285+00:00
-Total: 2884 manchetes
+Última coleta: 2026-10-12T08:12:47.296110+00:00
+Total: 2885 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          795
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  703
+  🇰🇷 Coreia do Sul  704
 
 ## O que já está no feed (não repita)
 
+  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
+  - [korea] Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, inflation are the most important variable
   - [korea] Reserve Rights: Upbit opens RSR spot trading in KRW and USDT markets - 12 Oct 2026
   - [china] Stellantis, Renault gain as EU, China agree to curb Chinese hybrid car exports
   - [korea] Hwacheon-gun County returns the increase in local currency instead of raising the entrance fee to th..
   - [korea] Governor of the Bank of Korea: “Next year’s government budget plan will increase growth rate by 0.5%p and infl
   - [korea] (2nd LD) Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [china] Impact of EU Deal to Cut Chinese Hybrid Exports Likely Manageable — Market Talk
+  - [korea] South Korean startup Helios targets Taiwan supply chains and Taiwan Strait risk analysis
   - [korea] Despite Samsung Electronics' good performance, the domestic stock market remains weak as foreigners
   - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [korea] Micron, SK Hynix Stocks Slip Overnight: China’s CXMT Advances Next-Gen DRAM Technology
@@ -42,7 +45,6 @@ Total: 2884 manchetes
   - [korea] In response to the question, “Will the base interest rate be raised again in October?” The answer given by the
   - [korea] Shin Hyun-song "Monetary policy is having an effect... Policy stance is more important than interest rate hike
   - [china] China details outcome of EU trade talks on hybrid, electric vehicles
-  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [japan] Dollar steady near 18-month high as Mideast conflict, US inflation in focus By Reuters
   - [korea] The annual income standard for young people who can sign up for the Youth Housing Dream subscription..
   - [korea] Bank of Korea Governor Shin Hyun-song attends the G20 and IMF general meetings... Monetary policy and internat
@@ -55,8 +57,6 @@ Total: 2884 manchetes
   - [china] China Plays Critical Role in Global AI Supply Chain, Domestic AI Ecosystem — Market Talk
   - [taiwan] Taiwan semiconductor industry eyes landmark geothermal power deal exceeding 20MW
   - [china] China Sanctions Officials of Taiwan’s Partners for First Time
-  - [korea] CXMT: How big is its market threat to Samsung, SK Hynix and Micron?
-  - [korea] Why is Samsung Electronics stock sliding today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2884 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T08:02:44+00:00",
+      "published_utc": "2026-10-12T08:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
