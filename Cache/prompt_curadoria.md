@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T08:22:45.072228+00:00
+Última coleta: 2026-10-12T08:32:45.325677+00:00
 Total: 2888 manchetes
 
   🇯🇵 Japão          1108
@@ -17,8 +17,10 @@ Total: 2888 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Copper Rises on China Stimulus Hopes, Mining Supply Risks — Market Talk
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Repurchase Results
   - [korea] European Chip Stocks Mixed After Korean Tech Selloff — Market Talk
+  - [korea] During the audit of government affairs, the Bank of Korea governor said, “Inflation will exceed the target for
   - [korea] Bank of Korea Governor Shin Hyun-song: “Monetary policy, policy stance is more important than interest rate hi
   - [korea] The semiconductor boom, which has been outlined since the first quarter of this year, was a boon to
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
@@ -55,8 +57,6 @@ Total: 2888 manchetes
   - [korea] SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live
   - [taiwan] Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next Home Play
   - [china] China sanctions Paraguay, Belize ministers over Taiwan ties
-  - [china] Offshore Yuan Strongest Since 2022
-  - [korea] Will the Bank of Korea raise the base interest rate further within the year? Shin Hyun-song: “Preemptive respo
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2888 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T08:22:45+00:00",
+      "published_utc": "2026-10-12T08:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

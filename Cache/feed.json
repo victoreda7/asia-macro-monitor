@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-12T08:22:45.072228+00:00",
- "collected_at_utc": "2026-10-12T08:22:45.072228+00:00",
+ "generated_at_utc": "2026-10-12T08:32:45.325677+00:00",
+ "collected_at_utc": "2026-10-12T08:32:45.325677+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 2888,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 278,
   "korea": 707
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 31.0,
  "sources": [
+  {
+   "source_id": "gn_cn_pboc",
+   "name": "PBoC 中文",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -27,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T05:13:00+00:00"
+   "newest": "2026-10-12T06:58:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -115,7 +123,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T08:04:49+00:00"
+   "newest": "2026-10-12T08:23:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -198,14 +206,6 @@
    "newest": ""
   },
   {
-   "source_id": "gn_cn_pboc",
-   "name": "PBoC 中文",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T01:56:00+00:00"
-  },
-  {
    "source_id": "gn_cn_reuters",
    "name": "Reuters China",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T08:22:00+00:00"
+   "newest": "2026-10-12T08:31:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T08:13:20+00:00"
+   "newest": "2026-10-12T08:14:45+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Copper Rises on China Stimulus Hopes, Mining Supply Risks — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012001281:0-copper-rises-on-china-stimulus-hopes-mining-supply-risks-market-talk/",
+   "published_utc": "2026-10-12T08:31:00+00:00",
+   "title_original": "Copper Rises on China Stimulus Hopes, Mining Supply Risks — Market Talk",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "29e663bacd2ecf25"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "London Stock Exchange",
@@ -364,7 +381,7 @@
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "European Chip Stocks Mixed After Korean Tech Selloff — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012001226:0-european-chip-stocks-mixed-after-korean-tech-selloff-market-talk/",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012001225:0-european-chip-stocks-mixed-after-korean-tech-selloff-market-talk/",
    "published_utc": "2026-10-12T08:17:00+00:00",
    "title_original": "European Chip Stocks Mixed After Korean Tech Selloff — Market Talk",
    "region": "korea",
@@ -375,7 +392,25 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "2c63d2457ae9c2c2"
+   "id": "af25f1b490d371fa"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "During the audit of government affairs, the Bank of Korea governor said, “Inflation will exceed the target for a considerable period of time.”",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiSEhzZHlQR2FJa2ZmbjVuSXFCMHJHTWYtMzBEU2JMcFp4elAtQzFKX1dIUnl3bGpzb2tSVXJOcGJOTWhEamIyZzBpYlkyY2oxeXc?oc=5",
+   "published_utc": "2026-10-12T08:14:45+00:00",
+   "title_original": "한은 총재 국정감사 중 “물가 상당기간 목표 웃돌 것”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7496f7488ae85db2"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1825,23 +1860,6 @@
    "id": "2b3de4a222a8b612"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "Chosunbiz",
-   "title_en": "The Bank of Korea raised interest rates for the second time in a row... Shin Hyun-song “Possibility of insolvency for those with low credit” - Chosun Biz",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcmxGYldwOXpJc3FydHlGMHFKVXFEd0ctUDdfQkowM20yUVNyRDY4UzJrdnlLeG95YkE4UE5lLTBkYk5NZTJmNEFPMWRQWmZGNmtDcFgzamU4c1BjWjR0Qmk5WVY2bkVQQTlPVWNONjdDWHlhb3hXbnBxS29jTkljTHJobEZkZ9IBmgFBVV95cUxNd3BDdDN2WEFDWnRvdmJlaDFxdzRmVjlmbUJ1Q1p2QUM4eU5aSzM4NUd6ZmFDWGVYNGxCbHVkdVZpRHUtNktyNTFrWXZDalEwMGFWaEhjdVBjVEdxOExkTWtxZmhOVEpxRFBlQTdIczQ5SG1ucHp6WFRQUUlLbWpIZllTRS01MHd5ZDloNGxpbTNWSTlmR1pSYjdn?oc=5",
-   "published_utc": "2026-10-12T01:34:00+00:00",
-   "title_original": "2회 연속 금리 인상한 한은… 신현송 “저신용자 부실 가능성” - 조선비즈",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e300bd8e778e47bc"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7313 MON VS 6.7330",
@@ -2012,23 +2030,6 @@
    "live_wire": false,
    "manual": false,
    "id": "43a4464160d303d9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Tencent proposes dollar, offshore yuan note offering",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45Y019:0-tencent-proposes-dollar-offshore-yuan-note-offering/",
-   "published_utc": "2026-10-12T00:54:18+00:00",
-   "title_original": "Tencent proposes dollar, offshore yuan note offering",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f7067bbad3df6708"
   },
   {
    "source_id": "gn_cn_pboc",
