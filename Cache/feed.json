@@ -1,18 +1,42 @@
 {
- "generated_at_utc": "2026-10-12T09:42:43.343701+00:00",
- "collected_at_utc": "2026-10-12T09:42:43.343701+00:00",
+ "generated_at_utc": "2026-10-12T09:52:46.654253+00:00",
+ "collected_at_utc": "2026-10-12T09:52:46.654253+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 38,
  "sources_total": 41,
- "count": 2898,
+ "count": 2901,
  "by_region": {
-  "japan": 1107,
-  "china": 803,
+  "japan": 1109,
+  "china": 804,
   "taiwan": 278,
   "korea": 710
  },
- "elapsed_s": 31.6,
+ "elapsed_s": 30.7,
  "sources": [
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +99,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T09:24:20+00:00"
+   "newest": "2026-10-12T09:48:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +107,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T09:24:20+00:00"
+   "newest": "2026-10-12T09:48:42+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +115,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T08:40:09+00:00"
+   "newest": "2026-10-12T09:38:23+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +123,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T08:35:47+00:00"
+   "newest": "2026-10-12T09:20:54+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +139,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T09:01:32+00:00"
+   "newest": "2026-10-12T09:41:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -166,14 +190,6 @@
    "newest": "2026-10-09T07:00:00+00:00"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-09T08:43:54+00:00"
-  },
-  {
    "source_id": "nhk_politics",
    "name": "NHK 政治",
    "ok": true,
@@ -187,7 +203,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-12T18:23:44+09:00"
+   "newest": "2026-10-12T18:47:48+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +283,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T09:41:31+00:00"
+   "newest": "2026-10-12T09:51:54+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -286,28 +302,12 @@
    "newest": "2026-10-10T08:48:00+00:00"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T08:43:18+00:00"
-  },
-  {
    "source_id": "yahoo_business",
    "name": "Yahoo! ニュース 経済",
    "ok": true,
    "count": 8,
    "error": "",
    "newest": "2026-10-12T07:42:52+00:00"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T07:28:47+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T01:47:03+00:00"
+   "newest": "2026-10-12T08:38:16+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T08:30:37+00:00"
+   "newest": "2026-10-12T09:38:00+00:00"
   }
  ],
  "items": [
@@ -363,6 +363,24 @@
    "id": "94632d8c565cce53"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스TV",
+   "title_en": "Suggesting further increase in base interest rate... Shin Hyun-song “Deciding the timing considering prices etc.”",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53SWpfMXZNQ1JqMVd0Q19GdHFGMTAwWjA1anNTeWZQb2h5VklXc1B1QnVXZGVYd0R1V2ZDZzhUcFNzLTlqM25pbTFCVnJrZlpRODN0TUdvOWltZ2NzNDFGUjByd3pUWlE?oc=5",
+   "published_utc": "2026-10-12T09:38:00+00:00",
+   "title_original": "기준금리 추가 인상 시사…신현송 \"물가 등 고려해 시기 결정\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f4343edce69e3eaf"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Seoul shares open lower on inflation, Mideast woes",
@@ -378,6 +396,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c5a0030070403fff"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar firm near 18-month highs, as Gulf unrest, US inflation keep investors on edge By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTDFQY0xDdFYybXNJZE9aYklXM0RQcmpaVXAzbGk2c2ZMUHdYOFI1QmdJcUU4ancxMVhTZkYxWFNKQWt1c2N5MTR4U21rVl82cEg1ZlFBNHlQYVFJNjVrZ0JKYVM4YVBlSGV5UDktWkJfQ2JNOFp0UnFON211X1Z4V3lyNW1WZU9MUFdJeTJRaVFRSWx5QzNOTGEtN1A4elNPUnB1cFZXTjJlYWJzUGxuUXA4dzh5MnhVY01RclNkcDJrMGVF?oc=5",
+   "published_utc": "2026-10-12T09:20:54+00:00",
+   "title_original": "Dollar firm near 18-month highs, as Gulf unrest, US inflation keep investors on edge By Reuters",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a9c8a03ec7688a64"
   },
   {
    "source_id": "nhk_economy",
@@ -1650,6 +1685,25 @@
    "id": "77572a6860c57502"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제TV",
+   "title_en": "Bank of Korea governor: “Monetary policy unwavering”… Emphasis on fiscal harmony",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tWW15ME9kbHBzMk9nNWVZZTlUUmY1Y1czNG1zYWk0NnByTGkyUENhalFEYW5zNno1ZmxuQXdYTHhSODNaUTFRX1JiSF9MWXU3ZUNlZ0VSbkk0VlVuZGtER3FIRTFjMkdQ?oc=5",
+   "published_utc": "2026-10-12T04:00:00+00:00",
+   "title_original": "한국은행 총재 \"통화정책 흔들림 없이\"…재정 조화 강조",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "476fc9e5a7daf22e"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Moves to Stave Off Wider EU Trade War With Hybrid Deal",
@@ -1945,41 +1999,6 @@
    "id": "048fae51df45f92e"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "시장경제신문",
-   "title_en": "[Photo] National Assembly Finance and Economy Committee conducts audit of the Bank of Korea’s government affairs",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5UktlemNXbE5UMTBKblVCZ1VUcjlQSEd0VjZZQzBwcmE3TXBEdjNWUTR1VmNjQThfOHItbjhoRzZ5WWlQR3BqZGNwNVRVVzZjS3Bwa1JpcnhvbzFLYlpGZHM3VVc1MUhOb3VpQ1k2NHA?oc=5",
-   "published_utc": "2026-10-12T02:21:13+00:00",
-   "title_original": "[포토] 국회 재경위, 한국은행 국정감사 실시",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5f77eab3fee37301"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "아이뉴스24",
-   "title_en": "[2026 National Assembly Audit] Shin Hyun-song “We will carry out independent monetary policy without hesitation”",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92bllkWE4tekYxYTd1d1lsSmxTTHBCNmVqMFNsWmlQeEt0WFJGb2NxMjBPY1JXNWpnNDhkS3dURUxhTmlXYmRuQ2E5OA?oc=5",
-   "published_utc": "2026-10-12T02:20:22+00:00",
-   "title_original": "[2026 국감] 신현송 \"독립적 통화정책 흔들림 없이 수행할 것\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "468c0f9ec315f839"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Most Asian currencies muted; South Korean won hits two-year high",
@@ -2260,6 +2279,23 @@
    "id": "14c7c3cd4403c825"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Tencent plans dollar, offshore yuan bond sale under note programme",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlB3SUFzTnN6enBNVTRiVXFZdlZsUGRMaFFhR3RENzZQNS1pV2RFMU9HU0x2UFdUZ1ZPNFlFWkZEZzJ2T0g0Wm9JalctMVJaclZkaXk3VHV3Mk1tVnQyMHBnZ1JMb21XZENjV0p0Y1A0aTNzVXRIandNTm4tMnBvb3ByQTVLOHhteXNKUWtTZkZGY0FqQVhzRGxFYUhTZm5sdlBMU3VENXRTak96YjNsaXpHOEtMVUtOdUwzbw?oc=5",
+   "published_utc": "2026-10-12T01:19:00+00:00",
+   "title_original": "Tencent plans dollar, offshore yuan bond sale under note programme",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc0d12bfabe56b5a"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "CX Daily: Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say",
@@ -2293,6 +2329,23 @@
    "live_wire": false,
    "manual": false,
    "id": "25e47331a55dbf6f"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Shares supported as oil retreats; focus turns to US CPI, earnings",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4VndfYlhKMjFvd01KYndaSHVGZ3dlckMtTUtucy1jQjk0aE9JcHRpdEFuSE1SZGFWZzV1TW1MVFFabU9oNEhfajl6MVVIbzFVVF85VUZaWTFMRmx1WDFPRHItbWhuVWpoUzRxcXBPc0V4Tmo1UUU3QjRfbw?oc=5",
+   "published_utc": "2026-10-12T00:42:00+00:00",
+   "title_original": "Shares supported as oil retreats; focus turns to US CPI, earnings",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "84991be585db601c"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3141,8 +3194,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -3155,7 +3208,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -4103,8 +4156,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -4118,7 +4171,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -4309,8 +4362,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -4324,7 +4377,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "tradingview_live",
@@ -5127,8 +5180,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -5142,7 +5195,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",

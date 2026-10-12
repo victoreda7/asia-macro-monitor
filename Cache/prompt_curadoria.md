@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T09:42:43.343701+00:00
-Total: 2898 manchetes
+Última coleta: 2026-10-12T09:52:46.654253+00:00
+Total: 2901 manchetes
 
-  🇯🇵 Japão          1107
-  🇨🇳 China          803
+  🇯🇵 Japão          1109
+  🇨🇳 China          804
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
   - [korea] Bank of Korea Expects 2027 Budget to Have Marginal Impact on Inflation
+  - [korea] Suggesting further increase in base interest rate... Shin Hyun-song “Deciding the timing considering prices et
   - [korea] Seoul shares open lower on inflation, Mideast woes
+  - [japan] Dollar firm near 18-month highs, as Gulf unrest, US inflation keep investors on edge By Reuters
   - [china] China's new car exports increased by 60% in September; high gasoline prices may also boost EV demand
   - [china] China to lower VAT export rebate on new energy vehicles
   - [china] China-EU car deal eases trade tensions for now at least
@@ -55,8 +57,6 @@ Total: 2898 manchetes
   - [korea] South Korean startup Helios targets Taiwan supply chains and Taiwan Strait risk analysis
   - [korea] Despite Samsung Electronics' good performance, the domestic stock market remains weak as foreigners
   - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
-  - [korea] Micron, SK Hynix Stocks Slip Overnight: China’s CXMT Advances Next-Gen DRAM Technology
-  - [korea] Shin Hyun-song’s first appearance as National Assembly inspector… “Further interest rate increases and inflati
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2898 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T09:42:43+00:00",
+      "published_utc": "2026-10-12T09:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
