@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T07:42:44.605113+00:00",
- "collected_at_utc": "2026-10-12T07:42:44.605113+00:00",
+ "generated_at_utc": "2026-10-12T07:52:42.745783+00:00",
+ "collected_at_utc": "2026-10-12T07:52:42.745783+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2876,
+ "count": 2878,
  "by_region": {
   "japan": 1108,
   "china": 794,
   "taiwan": 278,
-  "korea": 696
+  "korea": 698
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T07:31:00+00:00"
+   "newest": "2026-10-12T07:42:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-12T16:23:00+09:00"
+   "newest": "2026-10-12T16:45:19+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T05:06:57+00:00"
+   "newest": "2026-10-12T07:24:20+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T07:41:56+00:00"
+   "newest": "2026-10-12T07:50:38+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-12T05:24:43+00:00"
+   "newest": "2026-10-12T07:42:52+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T06:46:45+00:00"
+   "newest": "2026-10-12T07:15:09+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T06:47:00+00:00"
+   "newest": "2026-10-12T07:00:07+00:00"
   }
  ],
  "items": [
@@ -378,6 +378,23 @@
    "id": "d72d17fef773a1f6"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Despite Samsung Electronics' good performance, the domestic stock market remains weak as foreigners",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96X1NITlhlelBKV3JtaDRkTm5zSVUtRmNYR19hWWxaOEpYVTI1ZmllYlZEaWRjd0o5cFhVSG1qbmVmdWpsdFpuTjJiaGl0R3c?oc=5",
+   "published_utc": "2026-10-12T07:15:09+00:00",
+   "title_original": "Despite Samsung Electronics' good performance, the domestic stock market remains weak as foreigners",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "28e53b32bd96993c"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes",
@@ -410,6 +427,25 @@
    "live_wire": true,
    "manual": false,
    "id": "dc64442b8984d267"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "글로벌이코노믹",
+   "title_en": "Shin Hyun-song’s first appearance as National Assembly inspector… “Further interest rate increases and inflation are the most important variables.”",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkFJVnZrMlVMSXpzYnNEN0VrY0hNaF8zZGtIVlBJazNDeHZxV3lmekxXengtZk85TE9qdDVlVTE5X05mQlh6V0Qwa0R1YVpzaHBNb185cmFfQVF4RVRQMzJydGdIX25YZW8yTkpOVko2SkJHTVczMTd5MDhkWGtrNkNmYV8?oc=5",
+   "published_utc": "2026-10-12T07:00:07+00:00",
+   "title_original": "신현송 국감 첫 등판… \"추가 금리 인상, 인플레가 가장 중요한 변수\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1a85b80d1cfd38e8"
   },
   {
    "source_id": "gn_kr_yonhap",

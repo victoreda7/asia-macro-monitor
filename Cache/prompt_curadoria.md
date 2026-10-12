@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T07:42:44.605113+00:00
-Total: 2876 manchetes
+Última coleta: 2026-10-12T07:52:42.745783+00:00
+Total: 2878 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          794
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  696
+  🇰🇷 Coreia do Sul  698
 
 ## O que já está no feed (não repita)
 
   - [korea] (2nd LD) Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [china] Impact of EU Deal to Cut Chinese Hybrid Exports Likely Manageable — Market Talk
+  - [korea] Despite Samsung Electronics' good performance, the domestic stock market remains weak as foreigners
   - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [korea] Micron, SK Hynix Stocks Slip Overnight: China’s CXMT Advances Next-Gen DRAM Technology
+  - [korea] Shin Hyun-song’s first appearance as National Assembly inspector… “Further interest rate increases and inflati
   - [korea] (LEAD) Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [korea] Asia stocks mixed as Korean chipmakers slide on CXMT threat
   - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
@@ -55,8 +57,6 @@ Total: 2876 manchetes
   - [taiwan] Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas
   - [china] EU-China Deal Could Halve Chinese Hybrid Car Exports
   - [china] China Moves to Stave Off Wider EU Trade War With Hybrid Deal
-  - [china] PBOC Expected to Tolerate Further Gradual Yuan Appreciation — Market Talk
-  - [korea] South Korean Won Hits 2-Year High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2876 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T07:42:44+00:00",
+      "published_utc": "2026-10-12T07:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
