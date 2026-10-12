@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T09:52:46.654253+00:00
+Última coleta: 2026-10-12T10:02:48.227922+00:00
 Total: 2901 manchetes
 
-  🇯🇵 Japão          1109
-  🇨🇳 China          804
+  🇯🇵 Japão          1108
+  🇨🇳 China          805
   🇹🇼 Taiwan         278
   🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [china] Commentary: Europe Can’t Tariff Away Its China Trade Deficit
   - [korea] Bank of Korea Expects 2027 Budget to Have Marginal Impact on Inflation
   - [korea] Suggesting further increase in base interest rate... Shin Hyun-song “Deciding the timing considering prices et
   - [korea] Seoul shares open lower on inflation, Mideast woes
@@ -56,7 +57,6 @@ Total: 2901 manchetes
   - [china] Impact of EU Deal to Cut Chinese Hybrid Exports Likely Manageable — Market Talk
   - [korea] South Korean startup Helios targets Taiwan supply chains and Taiwan Strait risk analysis
   - [korea] Despite Samsung Electronics' good performance, the domestic stock market remains weak as foreigners
-  - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2901 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T09:52:46+00:00",
+      "published_utc": "2026-10-12T10:02:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

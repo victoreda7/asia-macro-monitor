@@ -1,42 +1,18 @@
 {
- "generated_at_utc": "2026-10-12T09:52:46.654253+00:00",
- "collected_at_utc": "2026-10-12T09:52:46.654253+00:00",
+ "generated_at_utc": "2026-10-12T10:02:48.227922+00:00",
+ "collected_at_utc": "2026-10-12T10:02:48.227922+00:00",
  "degraded": false,
- "sources_ok": 38,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 2901,
  "by_region": {
-  "japan": 1109,
-  "china": 804,
+  "japan": 1108,
+  "china": 805,
   "taiwan": 278,
   "korea": 710
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 29.8,
  "sources": [
-  {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -59,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T09:36:00+00:00"
+   "newest": "2026-10-12T09:57:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -190,6 +166,14 @@
    "newest": "2026-10-09T07:00:00+00:00"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-09T08:43:54+00:00"
+  },
+  {
    "source_id": "nhk_politics",
    "name": "NHK 政治",
    "ok": true,
@@ -283,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T09:51:54+00:00"
+   "newest": "2026-10-12T10:02:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T05:21:22+00:00"
+   "newest": "2026-10-12T08:21:42+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -302,12 +286,28 @@
    "newest": "2026-10-10T08:48:00+00:00"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-12T08:43:18+00:00"
+  },
+  {
    "source_id": "yahoo_business",
    "name": "Yahoo! ニュース 経済",
    "ok": true,
    "count": 8,
    "error": "",
    "newest": "2026-10-12T07:42:52+00:00"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-12T07:28:47+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,11 +344,29 @@
  ],
  "items": [
   {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "Commentary: Europe Can’t Tariff Away Its China Trade Deficit",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGZwbmNCMlJmaDBpZ3kzWEhrLUtjRzlJZm40T1dnN0VXSWYtOFZza2RFQmdyUE1YTkV2RWc1djlybGpoZmNBaG9QaS1zUnJvTmdmTUZObG5zLVJ5ZGRGQV9nVzk0UGlrSUQ2NS1NeHdsX19LVTZnUXRVMlppN3J3aFFLS3VXYVdMZUdPRnc0dTcxZ2NnU2w0TThKWlk5N2RVUlVTRVJjWE1RLXRtZjBEM0U0MA?oc=5",
+   "published_utc": "2026-10-12T09:57:00+00:00",
+   "title_original": "Commentary: Europe Can’t Tariff Away Its China Trade Deficit",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3944a8022c2e6941"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Bank of Korea Expects 2027 Budget to Have Marginal Impact on Inflation",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012001659:0-bank-of-korea-expects-2027-budget-to-have-marginal-impact-on-inflation/",
-   "published_utc": "2026-10-12T09:39:00+00:00",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012001721:0-bank-of-korea-expects-2027-budget-to-have-marginal-impact-on-inflation/",
+   "published_utc": "2026-10-12T09:54:00+00:00",
    "title_original": "Bank of Korea Expects 2027 Budget to Have Marginal Impact on Inflation",
    "region": "korea",
    "topics": [
@@ -360,7 +378,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "94632d8c565cce53"
+   "id": "294c2d9de51edd0a"
   },
   {
    "source_id": "gn_kr_bok",
@@ -659,7 +677,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Governor of the Bank of Korea: “A 0.5% point increase in the base interest rate has the effect of reducing the inflation rate by 0.08% points” (comprehensive)",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xWWZ6dmFieWdrMl9NTzd6QjNUNEQ3Y2RWdGxQN2JncUZ1ZXZka2ExYmVCQTdPRl9zNTRxM3p5cnl2MHc4TkEzR1NHRmlwUGZISm1feUpyQVFHc0nSAWBBVV95cUxOZkdYYVd3cm1jSHNuZTFHUEptOUtnOHBkX3JLaGdpSEx2U3JrWXhPc0pBWkt1dEs3a2lSSVliSWFsanFwZXZBalJYWktfemNRci1LcThvMGlGd2NQVGlMNDM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mR1hhV3dybWNIc25lMUdQSm05S2c4cGRfcktoZ2lITHZTcmtZeE9zSkFaS3V0SzdraVJJWWJJYWxqcXBldkFqUlhaS196Y1FyLUtxOG8waUZ3Y1BUaUw0M9IBYEFVX3lxTE5mR1hhV3dybWNIc25lMUdQSm05S2c4cGRfcktoZ2lITHZTcmtZeE9zSkFaS3V0SzdraVJJWWJJYWxqcXBldkFqUlhaS196Y1FyLUtxOG8waUZ3Y1BUaUw0Mw?oc=5",
    "published_utc": "2026-10-12T08:30:37+00:00",
    "title_original": "한은 총재 \"기준금리 0.5%p 인상, 물가상승률 0.08%p 하락 효과\"(종합)",
    "region": "korea",
@@ -671,7 +689,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b03423ea7e67b829"
+   "id": "700794882ce7e8e4"
   },
   {
    "source_id": "focus_taiwan",
@@ -50224,23 +50242,6 @@
    "live_wire": false,
    "manual": false,
    "id": "18900b0af5f6d113"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "[Harajuku sales floor “battle for battle”] Domestic and foreign brands are watching closely / In some cases, “rents are double” in popular plots / Commercial real estate vacancy rate is 0.1% / Chinese and Korean presence / Huge stores are about to open, super high profits, and the uniqueness of HUMAN MADE | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/957887?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-12T10:00:00+00:00",
-   "title_original": "【原宿の売り場“争奪戦”】国内外のブランドが熱視線／人気区画は 「賃料2倍」のケースも／商業用不動産の空室率は0.1％／中韓勢の存在感／巨大店舗がオープン間近、超高収益・HUMAN MADEの異彩 | ビジネス | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "658917358beac9c4"
   },
   {
    "source_id": "manual_ia",
