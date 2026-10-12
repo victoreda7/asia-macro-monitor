@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T14:42:43.881566+00:00
+Última coleta: 2026-10-12T14:52:43.950409+00:00
 Total: 2908 manchetes
 
   🇯🇵 Japão          1106
@@ -17,9 +17,9 @@ Total: 2908 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [china] EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap — Update
   - [japan] Japanese Yen Could Trade Sideways Vs Dollar in Near-Term — Market Talk
-  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [china] Copper climbs on China stimulus hopes, Chile mine supply risks
   - [china] BYD sees tariff pressure linked to EU-China deal as short term
   - [taiwan] Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300
@@ -116,7 +116,7 @@ Total: 2908 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T14:42:44+00:00",
+      "published_utc": "2026-10-12T14:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
