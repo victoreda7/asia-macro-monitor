@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-12T08:32:45.325677+00:00",
- "collected_at_utc": "2026-10-12T08:32:45.325677+00:00",
+ "generated_at_utc": "2026-10-12T08:42:42.638929+00:00",
+ "collected_at_utc": "2026-10-12T08:42:42.638929+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 2888,
  "by_region": {
   "japan": 1108,
-  "china": 795,
+  "china": 796,
   "taiwan": 278,
-  "korea": 707
+  "korea": 706
  },
- "elapsed_s": 31.0,
+ "elapsed_s": 29.6,
  "sources": [
-  {
-   "source_id": "gn_cn_pboc",
-   "name": "PBoC 中文",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T08:14:22+00:00"
+   "newest": "2026-10-12T08:31:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T07:48:56+00:00"
+   "newest": "2026-10-12T08:30:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T07:05:01+00:00"
+   "newest": "2026-10-12T08:17:56+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -206,6 +198,14 @@
    "newest": ""
   },
   {
+   "source_id": "gn_cn_pboc",
+   "name": "PBoC 中文",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-12T01:56:00+00:00"
+  },
+  {
    "source_id": "gn_cn_reuters",
    "name": "Reuters China",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T08:31:00+00:00"
+   "newest": "2026-10-12T08:41:34+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T07:14:30+00:00"
+   "newest": "2026-10-12T07:58:58+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "China’s CXMT makes ‘key progress’ on new chip structure: SCMP",
+   "url": "https://www.tradingview.com/news/seekingalpha:f9133e933094b:0-china-s-cxmt-makes-key-progress-on-new-chip-structure-scmp/",
+   "published_utc": "2026-10-12T08:38:28+00:00",
+   "title_original": "China’s CXMT makes ‘key progress’ on new chip structure: SCMP",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0a4ff51de7dbf347"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1996,23 +2013,6 @@
    "live_wire": true,
    "manual": false,
    "id": "bba8e410593cfbf6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Samsung and SK Hynix Tackle HBM4E Cooling as AI Interposers May Grow 40-Fold",
-   "url": "https://www.tradingview.com/news/binance_news:5239bf31f094b:0-samsung-and-sk-hynix-tackle-hbm4e-cooling-as-ai-interposers-may-grow-40-fold/",
-   "published_utc": "2026-10-12T01:03:57+00:00",
-   "title_original": "Samsung and SK Hynix Tackle HBM4E Cooling as AI Interposers May Grow 40-Fold",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d18b5d580a030947"
   },
   {
    "source_id": "gn_cn_caixin",

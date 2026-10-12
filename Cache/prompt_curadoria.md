@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T08:32:45.325677+00:00
+Última coleta: 2026-10-12T08:42:42.638929+00:00
 Total: 2888 manchetes
 
   🇯🇵 Japão          1108
-  🇨🇳 China          795
+  🇨🇳 China          796
   🇹🇼 Taiwan         278
-  🇰🇷 Coreia do Sul  707
+  🇰🇷 Coreia do Sul  706
 
 ## O que já está no feed (não repita)
 
+  - [china] China’s CXMT makes ‘key progress’ on new chip structure: SCMP
   - [china] Copper Rises on China Stimulus Hopes, Mining Supply Risks — Market Talk
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Report on Share Repurchase Results
   - [korea] European Chip Stocks Mixed After Korean Tech Selloff — Market Talk
@@ -56,7 +57,6 @@ Total: 2888 manchetes
   - [korea] Bank of Korea Governor Shin Hyun-song attends the G20 and IMF general meetings... Monetary policy and internat
   - [korea] SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live
   - [taiwan] Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next Home Play
-  - [china] China sanctions Paraguay, Belize ministers over Taiwan ties
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2888 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T08:32:45+00:00",
+      "published_utc": "2026-10-12T08:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
