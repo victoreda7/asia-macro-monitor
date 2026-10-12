@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T11:12:46.090960+00:00
+Última coleta: 2026-10-12T11:22:54.770084+00:00
 Total: 2903 manchetes
 
   🇯🇵 Japão          1108
@@ -17,6 +17,7 @@ Total: 2903 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Micron Stock Falls as China Memory Chip Threat Gets Serious — Barrons.com
   - [korea] Finance minister urges preemptive action for supply chain stability
   - [china] How China and the EU pressed pause on trade war – and what it took to get there
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
@@ -56,7 +57,6 @@ Total: 2903 manchetes
   - [korea] Shin Hyun-song responds to criticism that 'the government is releasing money and the Bank of Korea is raising 
   - [china] Stellantis, Renault gain as EU, China agree to curb Chinese hybrid car exports
   - [korea] Hwacheon-gun County returns the increase in local currency instead of raising the entrance fee to th..
-  - [china] China Says Hybrid-Car Deal With Europe to Ensure ‘Export Space’
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2903 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T11:12:46+00:00",
+      "published_utc": "2026-10-12T11:22:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
