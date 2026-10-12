@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-12T01:02:45.820162+00:00",
- "collected_at_utc": "2026-10-12T01:02:45.820162+00:00",
+ "generated_at_utc": "2026-10-12T01:12:42.470351+00:00",
+ "collected_at_utc": "2026-10-12T01:12:42.470351+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2793,
+ "count": 2799,
  "by_region": {
-  "japan": 1108,
-  "china": 770,
+  "japan": 1109,
+  "china": 772,
   "taiwan": 270,
-  "korea": 645
+  "korea": 648
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-09T16:10:00+00:00"
+   "newest": "2026-10-12T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-12T00:36:20+00:00"
+   "newest": "2026-10-12T01:04:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-11T17:55:02+00:00"
+   "newest": "2026-10-12T01:11:02+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-11T23:41:21+00:00"
+   "newest": "2026-10-12T01:05:42+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T01:01:12+00:00"
+   "newest": "2026-10-12T01:11:41+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-11T20:16:49+00:00"
+   "newest": "2026-10-11T23:19:31+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-11T23:36:40+00:00"
+   "newest": "2026-10-12T01:03:13+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-12T09:00:00+09:00"
+   "newest": "2026-10-12T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,57 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "This Chinese memory chip maker has global potential and is poised to outperform",
+   "url": "https://www.tradingview.com/news/cnbctv:4e62d66bc094b:0/",
+   "published_utc": "2026-10-12T01:06:26+00:00",
+   "title_original": "This Chinese memory chip maker has global potential and is poised to outperform",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bb755e55eba5b0a9"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "South Korean bond rally seen faltering as traders brace for rate hikes",
+   "url": "https://www.tradingview.com/news/cnbctv:082a4f0e8094b:0/",
+   "published_utc": "2026-10-12T01:06:13+00:00",
+   "title_original": "South Korean bond rally seen faltering as traders brace for rate hikes",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bba8e410593cfbf6"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK Hynix oversold near support after 15% slide: Live levels",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
+   "published_utc": "2026-10-12T01:04:39+00:00",
+   "title_original": "SK Hynix oversold near support after 15% slide: Live levels",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "03b6bfb2981efdfc"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "한겨레",
    "title_en": "The Bank of Korea repeatedly indicates its intention to “further increase the base interest rate”",
@@ -359,6 +410,23 @@
    "live_wire": false,
    "manual": false,
    "id": "798154c1c20c0f59"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "CX Daily: Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd0NNdjZNem01NDRVT0lCbkpVLXBkUFFkOUdmWWM0YjlzdG1FMmdSeXljTVhEa2N0bXFhdnEzTEdaQUhUbzhiSko0c21qTWxZaXZqbUNBdDE4UGFnTnJQaXNaSTYyNUpLMjN3UV9WQWZhQm1Wem1uSEZXbmRjZEhZNkYyYk9EZkdxUDNsdjRfSTVCSkRVSWNicEFoT0lYY3llSkdrLUdQbnowd3JJMnhGT3NmcFNmcnpQOXJOWThucTdjYXlKc3c?oc=5",
+   "published_utc": "2026-10-12T01:00:00+00:00",
+   "title_original": "CX Daily: Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "43a4464160d303d9"
   },
   {
    "source_id": "tradingview_live",
@@ -500,6 +568,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a09a618fefd8cc24"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "폴리뉴스 Polinews",
+   "title_en": "57.3% of bank household loans have variable interest rates... Will the interest burden increase due to further increases in the base interest rate?",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qSlNKbDZwRE9zaFNybUIzazctb0dEbldGWDJUdmRDM05jQ3J0OHR2RF9zelA5eFJiNDJ4TFBMa2dVWm90aGZneXBWU3g5VkdqLWczYzFGcC1XQkE3SUIzeVlZM0UtMUp3bk5MMFJB?oc=5",
+   "published_utc": "2026-10-12T00:06:09+00:00",
+   "title_original": "은행 가계대출 57.3%가 변동금리…기준금리 추가 인상에 이자 부담 커지나",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "30180b56bf32bfb4"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -1448,6 +1533,23 @@
    "id": "6bea37f897d57dd0"
   },
   {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+   "published_utc": "2026-10-10T07:59:36+00:00",
+   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7d0d81b05ec0a14"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "China creates 10.52 million jobs, plans new AI and services employment measures",
@@ -2100,23 +2202,6 @@
    "live_wire": false,
    "manual": false,
    "id": "91431e6663917737"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-   "published_utc": "2026-10-09T14:02:00+00:00",
-   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7d0d81b05ec0a14"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -6492,6 +6577,23 @@
    "id": "7885985131b309dd"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "World shares, euro slide as high oil prices, fiscal worries linger",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZW5YUkkzdjhfTWJXY25aWkVLeExISGkybXo1YmFoS256Qk5DclZaVVc4ODRnejkzYlBYOTBVWWp5YTVHRDVyMmtBUDVZWHlFclVhYUtIU2d0Tm1GWmRzMnhQNlg4aVVfWEZjb21nQ0tTUzc0WjQ5bEhmWVJuNzFwX25Bdw?oc=5",
+   "published_utc": "2026-10-07T16:34:59+00:00",
+   "title_original": "World shares, euro slide as high oil prices, fiscal worries linger",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0594501f245b75be"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Businessworld",
    "title_en": "Japan Pushes Local 5G Manufacturing, Digital Infrastructure In India",
@@ -8787,7 +8889,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEotV2RsS3BuSnU0bkdIVWN0cEUwUC1EdWdqeHFDcFVLVE1pRGt4cEpBLWhYeHVJRUNLZ0V3bUVQbWVPNDBBQmp3VFVaM1JVcjVMd1RyYkh0di0zWXNFeEFRd3BJUlhWSW1pRTI0TlRIa01Wa3BmSEpfc0hTV25CVzNVVExnUldD?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzQ0X04tVGlYcVY4N3B5cWtYWlNZV3ZjR1ZtNG91bUxHZWZpUEhwVXpYSy1kSUpRWVZtd09wU293N2w1RGw2SFFjTTFxM1NjbWoxLW8yM2Y4Q1JxeHBVbVlZdHdEMnZRTDF3a05TRWJaaklXeWIyak9NVFc3SFY5eEJHUmF0MUVESVFIa1R4alpfVVRvMDE2Wk5n?oc=5",
    "published_utc": "2026-10-06T09:18:34+00:00",
    "title_original": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
    "region": "taiwan",
@@ -8798,7 +8900,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "80ec3b16fcf66cc9"
+   "id": "cdf00dc430097832"
   },
   {
    "source_id": "investing_live",
@@ -13493,7 +13595,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnVzZxQmhlcTJFZHA2alpHTXNlSUliN3ZNTG9pMTdub0xqay0xRlNRV1FvZHpCMmZQZGNwbnplN1hfWkVZOXUya0pHcjVlYlk2NGw3eWFoTk14SDhNVVpvbQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFZaRkZzbGVWUGFEV1BMLThSMXVCY1F6V0h5dG9BWm1BWnRjTmpMZ09JY0FvTnVfQjhQMF9zNVZRQ2M5NE1fZG1TelNXYTRxblEtci1HeWNJbEY5eWdWTm4tMXF3OTdwTl9Udk5rRVVGbllnQVM4SkxVSFBvQXhzZXU3MDZMQnZZNjlpUEFHVXllQQ?oc=5",
    "published_utc": "2026-10-02T03:47:33+00:00",
    "title_original": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
    "region": "taiwan",
@@ -13504,7 +13606,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "c5ed8609f8bcc564"
+   "id": "71a3ae2c4c6b855d"
   },
   {
    "source_id": "gn_jp_investing",

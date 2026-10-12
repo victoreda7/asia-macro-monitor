@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T01:02:45.820162+00:00
-Total: 2793 manchetes
+Última coleta: 2026-10-12T01:12:42.470351+00:00
+Total: 2799 manchetes
 
-  🇯🇵 Japão          1108
-  🇨🇳 China          770
+  🇯🇵 Japão          1109
+  🇨🇳 China          772
   🇹🇼 Taiwan         270
-  🇰🇷 Coreia do Sul  645
+  🇰🇷 Coreia do Sul  648
 
 ## O que já está no feed (não repita)
 
+  - [china] This Chinese memory chip maker has global potential and is poised to outperform
+  - [korea] South Korean bond rally seen faltering as traders brace for rate hikes
+  - [korea] SK Hynix oversold near support after 15% slide: Live levels
   - [korea] The Bank of Korea repeatedly indicates its intention to “further increase the base interest rate”
+  - [china] CX Daily: Yuan’s Global Role Is Expanding Beyond Trade, StanChart Execs Say
   - [china] Tencent proposes dollar, offshore yuan note offering
   - [china] The central bank's 302 billion yuan reverse repo expires this week, and the 500 billion yuan buyout expires on
   - [korea] Exports double in first 10 days of Oct. on chip boom
@@ -26,6 +30,7 @@ Total: 2793 manchetes
   - [korea] (LEAD) Seoul shares open lower on inflation, Mideast woes
   - [korea] (LEAD) Exports double in first 10 days of October on chips
   - [korea] BOK forms 11-member advisory committee on digital currency
+  - [korea] 57.3% of bank household loans have variable interest rates... Will the interest burden increase due to further
   - [korea] (URGENT) Seoul shares open lower on inflation, Midest woes
   - [korea] Spread of interest rate hikes by central banks around the world... Bank of Korea also forecasts 3.5%
   - [korea] South Korea to deploy market stabilising measures if needed, finance minister says
@@ -52,11 +57,6 @@ Total: 2793 manchetes
   - [korea] Samsung to expand chip capacity in Vietnam, boost high-end production in Korea
   - [china] Renault CEO calls EU-China hybrid import deal a ’major milestone’ - Bloomberg
   - [japan] Cocorico Endo > Family trip to Hawaii - cup noodles due to the weak yen and rising prices (beautiful every day
-  - [japan] Yen weakness since 2025 has been limited to offshore hours: analysis By Investing.com
-  - [japan] Yen weakness since 2025 has been limited to offshore hours: analysis
-  - [korea] Korea-US base interest rates expected to freeze in October... 'The austerity trend will continue'
-  - [korea] As investment in industrial facilities such as semiconductor fabs and data centers has emerged as a
-  - [korea] Food companies that were sanctioned for fixing food prices, such as sugar and flour, topped the Fair..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2793 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T01:02:46+00:00",
+      "published_utc": "2026-10-12T01:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
