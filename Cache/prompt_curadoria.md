@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T03:22:41.554081+00:00
-Total: 2827 manchetes
+Última coleta: 2026-10-12T03:32:42.339362+00:00
+Total: 2828 manchetes
 
-  🇯🇵 Japão          1108
+  🇯🇵 Japão          1109
   🇨🇳 China          778
   🇹🇼 Taiwan         273
   🇰🇷 Coreia do Sul  668
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Holds Steady in Thin Holiday Trade
   - [korea] Bank of Korea Governor Shin Hyun-song attends G20/IMF annual general meeting... Global economic and monetary p
   - [korea] South Korean Won's Gains Underpinned by Robust Exports, Current Account Surplus — Market Talk
   - [korea] Governor of the Bank of Korea: “Reduces ultimate costs by raising base interest rates in consecutive months in
@@ -56,7 +57,6 @@ Total: 2827 manchetes
   - [china] The central bank's 302 billion yuan reverse repo expires this week, and the 500 billion yuan buyout expires on
   - [korea] Exports double in first 10 days of Oct. on chip boom
   - [japan] Nikkei average growth is sluggish, focus on TSMC performance and price index (TV Asahi (ANN))
-  - [korea] Seoul shares open lower on inflation, Mideast woes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2827 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T03:22:41+00:00",
+      "published_utc": "2026-10-12T03:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
