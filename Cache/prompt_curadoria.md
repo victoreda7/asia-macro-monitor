@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T00:02:43.867678+00:00
-Total: 2784 manchetes
+Última coleta: 2026-10-12T00:12:42.751382+00:00
+Total: 2787 manchetes
 
   🇯🇵 Japão          1107
   🇨🇳 China          769
   🇹🇼 Taiwan         270
-  🇰🇷 Coreia do Sul  638
+  🇰🇷 Coreia do Sul  641
 
 ## O que já está no feed (não repita)
 
+  - [korea] Exports double in first 10 days of October
+  - [korea] Seoul shares open lower on inflation, Mideast woes
+  - [korea] (URGENT) Seoul shares open lower on inflation, Midest woes
   - [korea] Spread of interest rate hikes by central banks around the world... Bank of Korea also forecasts 3.5%
   - [korea] South Korea to deploy market stabilising measures if needed, finance minister says
   - [korea] Last year, the amount of counterfeit and falsified bills that the Bank of Korea took over from the i..
@@ -54,9 +57,6 @@ Total: 2784 manchetes
   - [japan] The Bank of Japan raises the policy interest rate from 1% to 1.25%, entering an era of interest rates. What wi
   - [japan] Kawasaki Heavy aims at 1 tril. yen in defense sales as Japan ups spending
   - [japan] Japanese giant expands China chip packaging materials output amid AI boom
-  - [taiwan] Changs Ascending September revenue jumps 92% on semiconductor plant buildouts
-  - [japan] Semiconductor memory giant Micron's financial results reflect "endless memory shortage" AI servers shipped wit
-  - [korea] Concerns about an 'interest bomb' in household loans due to consecutive increases in base interest rates... Th
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2784 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T00:02:44+00:00",
+      "published_utc": "2026-10-12T00:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
