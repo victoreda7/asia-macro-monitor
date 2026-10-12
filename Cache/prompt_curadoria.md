@@ -7,22 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-12T05:22:43.085864+00:00
-Total: 2849 manchetes
+Última coleta: 2026-10-12T05:32:43.833265+00:00
+Total: 2850 manchetes
 
   🇯🇵 Japão          1108
   🇨🇳 China          787
   🇹🇼 Taiwan         277
-  🇰🇷 Coreia do Sul  677
+  🇰🇷 Coreia do Sul  678
 
 ## O que já está no feed (não repita)
 
+  - [china] China home car sales downturn continues, exports retain momentum
   - [korea] SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live
   - [taiwan] Stocktwits Tech Watch: ASML, TSMC Earnings This Week And Apple’s Next Home Play
   - [china] China sanctions Paraguay, Belize ministers over Taiwan ties
   - [china] Offshore Yuan Strongest Since 2022
-  - [china] China home car sales downturn continues, exports retain momentum
   - [korea] Will the Bank of Korea raise the base interest rate further within the year? Shin Hyun-song: “Preemptive respo
+  - [korea] [National Assembly Inspection 2026] Shin Hyun-song “We gained time by raising interest rates… We reduced costs
   - [china] China Plays Critical Role in Global AI Supply Chain, Domestic AI Ecosystem — Market Talk
   - [korea] CXMT: How big is its market threat to Samsung, SK Hynix and Micron?
   - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
@@ -54,9 +55,8 @@ Total: 2849 manchetes
   - [korea] Governor of the Bank of Korea: “Carry out independent monetary policy without hesitation”
   - [china] China-EU Deal Likely Averts Trade War, But Impact Limited — Market Talk
   - [korea] Finance minister urges preemptive action for supply chain stability
+  - [china] The central bank launched a 50 billion yuan 7-day reverse repurchase operation today
   - [taiwan] MediaTek flagship AP share to surpass Samsung as TSMC boosts Dimensity
-  - [korea] After the tax reform plan, high-priced apartments in Gangnam, Seoul, have turned weak, but the upwar..
-  - [korea] [Issue Inspection] Bank of Korea raises base interest rate to 3.0%...maintains ‘austerity stance’
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2849 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-12T05:22:43+00:00",
+      "published_utc": "2026-10-12T05:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
