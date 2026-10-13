@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T12:42:42.934424+00:00
+Última coleta: 2026-10-13T12:52:45.106501+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1140
   🇨🇳 China          830
-  🇹🇼 Taiwan         299
-  🇰🇷 Coreia do Sul  731
+  🇹🇼 Taiwan         298
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [korea] Roze AI Announces Approximately US$14.8 Million (KRW 19.88 Billion) in New Contracts for AI-Powered Fire Risk 
   - [korea] SK Hynix Stock Crashes 9% as AI Fears Trigger Asian Tech Sell-Off
   - [china] Nvidia Loses Ground in China as AI Chip Shipments Plunge 44%
   - [taiwan] Qnity Bets On Local Production To Win More AI Chip Business From Nvidia, TSMC – CEO Touts ‘Local-For-Local’ St
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan panel makers enter semiconductor fight as structural challenges persist
   - [japan] Inflation expectations remain 86.5% higher in 5 years, highest level in 19 years due to Middle East impact, Ba
   - [japan] Inflation expectations remain 86.5% higher in 5 years; Middle East impact, highest level in 19 years; Bank of 
-  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T12:42:43+00:00",
+      "published_utc": "2026-10-13T12:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

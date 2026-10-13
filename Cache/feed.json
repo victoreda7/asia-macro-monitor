@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-13T12:42:42.934424+00:00",
- "collected_at_utc": "2026-10-13T12:42:42.934424+00:00",
+ "generated_at_utc": "2026-10-13T12:52:45.106501+00:00",
+ "collected_at_utc": "2026-10-13T12:52:45.106501+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1140,
   "china": 830,
-  "taiwan": 299,
-  "korea": 731
+  "taiwan": 298,
+  "korea": 732
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T11:02:00+00:00"
+   "newest": "2026-10-13T03:43:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T12:14:31+00:00"
+   "newest": "2026-10-13T12:46:48+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T12:14:14+00:00"
+   "newest": "2026-10-13T12:30:48+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T12:12:02+00:00"
+   "newest": "2026-10-13T12:40:08+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T09:59:15+00:00"
+   "newest": "2026-10-13T11:35:47+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T12:31:04+00:00"
+   "newest": "2026-10-13T12:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T05:32:28+00:00"
+   "newest": "2026-10-13T08:32:34+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T10:49:30+00:00"
+   "newest": "2026-10-13T11:42:08+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GlobeNewswire",
+   "title_en": "Roze AI Announces Approximately US$14.8 Million (KRW 19.88 Billion) in New Contracts for AI-Powered Fire Risk Forecasting",
+   "url": "https://www.tradingview.com/news/globenewswire:0db9bd48d094b:0-roze-ai-announces-approximately-us-14-8-million-krw-19-88-billion-in-new-contracts-for-ai-powered-fire-risk-forecasting/",
+   "published_utc": "2026-10-13T12:30:00+00:00",
+   "title_original": "Roze AI Announces Approximately US$14.8 Million (KRW 19.88 Billion) in New Contracts for AI-Powered Fire Risk Forecasting",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "828634a6f9a28c71"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -1728,23 +1745,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1f40063b93496153"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "TSMC's Third-Quarter Net Profit Likely Jumped 62% as Revenue Tops Guidance — Earnings Preview",
-   "url": "https://www.tradingview.com/news/DJN_DN20261013000074:0-tsmc-s-third-quarter-net-profit-likely-jumped-62-as-revenue-tops-guidance-earnings-preview/",
-   "published_utc": "2026-10-13T04:18:00+00:00",
-   "title_original": "TSMC's Third-Quarter Net Profit Likely Jumped 62% as Revenue Tops Guidance — Earnings Preview",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1639373d3f5ef1cf"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5946,8 +5946,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5960,7 +5960,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -6891,8 +6891,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6906,7 +6906,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -7097,8 +7097,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -7112,7 +7112,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -7983,8 +7983,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7998,7 +7998,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
