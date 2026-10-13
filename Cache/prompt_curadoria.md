@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T09:12:44.109722+00:00
+Última coleta: 2026-10-13T09:13:23.497380+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1139
+  🇯🇵 Japão          1138
   🇨🇳 China          834
   🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  730
+  🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
@@ -34,6 +34,7 @@ Total: 3000 manchetes
   - [japan] Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung c
   - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
   - [china] China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk
+  - [korea] “We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October
   - [japan] Individuals' inflation expectations remain high: 86.5% that prices will rise in five years' time Bank of Japan
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
   - [japan] Stock prices have fallen significantly due to concerns about intensifying competition in the AI ​​and semicond
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Tencent prepares $4.5B+ dollar and yuan bond offering for AI capex
   - [korea] Korea launches chip policy office to fast-track W800tr investments
   - [china] Nvidia AI chip share in China falls as Huawei catches up- Reuters
-  - [korea] SK Hynix in extreme oversold freefall near KRW 1,439,000: Live
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T09:12:44+00:00",
+      "published_utc": "2026-10-13T09:13:23+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
