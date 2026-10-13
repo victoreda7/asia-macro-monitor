@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T00:52:40.798226+00:00
-Total: 2931 manchetes
+Última coleta: 2026-10-13T01:02:41.916883+00:00
+Total: 2934 manchetes
 
   🇯🇵 Japão          1122
-  🇨🇳 China          811
-  🇹🇼 Taiwan         286
+  🇨🇳 China          812
+  🇹🇼 Taiwan         288
   🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
@@ -36,6 +36,7 @@ Total: 2931 manchetes
   - [japan] JAPAN SEPT PRODUCER PRICES -0.3% M/M (AUG REVISED TO -0.3% FROM -0.2%); 2ND STRAIGHT DROP; MEDIAN FORECAST +0.
   - [japan] Corporate Goods Price Index (Sept.)
   - [japan] Japan finance minister named as next chair of World Bank-IMF joint development committee
+  - [china] Exclusive | China finance minister to deliver opening speech at Apec meeting in Hong Kong
   - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [taiwan] Weekly Recap: Moody's affirms A2, outlook positive and TSMC tie-up boosts chips
   - [japan] Weekly Recap: TSE:8604 Macquarie-unit buy and JGB global marketing
@@ -56,7 +57,6 @@ Total: 2931 manchetes
   - [japan] Japanese Yen Could Trade Sideways Vs Dollar in Near-Term — Market Talk
   - [china] Copper climbs on China stimulus hopes, Chile mine supply risks
   - [china] BYD sees tariff pressure linked to EU-China deal as short term
-  - [taiwan] Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2931 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T00:52:40+00:00",
+      "published_utc": "2026-10-13T01:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
