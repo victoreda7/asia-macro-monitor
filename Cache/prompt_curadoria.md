@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T02:52:42.159101+00:00
-Total: 2960 manchetes
+Última coleta: 2026-10-13T03:02:42.957055+00:00
+Total: 2963 manchetes
 
-  🇯🇵 Japão          1128
+  🇯🇵 Japão          1131
   🇨🇳 China          823
   🇹🇼 Taiwan         289
   🇰🇷 Coreia do Sul  720
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea’s Lee says country cannot avoid raising interest rates
+  - [japan] [Illustration] Corporate prices rise 6.8% in September = growth slows due to fall in rice prices - Bank of Jap
+  - [korea] Samsung, SK Hynix shares plunge on China competition fears
   - [china] Offshore Yuan Steady Vs. Dollar Ahead of Major Chinese Economic Data — Market Talk
-  - [korea] South Korea's Lee says country cannot avoid raising interest rates
+  - [japan] Yen Gains in Post-Holiday Trading
   - [korea] Why is Samsung Electronics stock plunging today?
   - [korea] Why is SK Hynix stock plunging today?
   - [korea] IMF Chief Economist: Outlook for AI Supply Chain Econs Like South Korea, Singapore, Vietnam Raised Significant
@@ -54,9 +57,6 @@ Total: 2960 manchetes
   - [japan] JAPAN SEPT CORP GOODS PRICE INDEX -0.3% M/M; AUG -0.3%
   - [japan] JAPAN SEPT CGPI IMPORT INDEX +24.5% Y/Y IN YEN TERMS FOR 10TH STRAIGHT RISE VS. AUG REVISED UP TO +25.1% FROM+
   - [japan] September corporate price index rises 6.8% to 135.7...Bank of Japan announces (Yomiuri Shimbun Online)
-  - [japan] September corporate price index rose 6.8% to 135.7...Bank of Japan announced (Yomiuri Shimbun Online)
-  - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil
-  - [japan] JAPAN SEPT CGPI: KEY ENERGY PRICES; CRUDE OIL/COAL PRODUCTS +11.5% Y/Y VS. AUG +14.7%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2960 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T02:52:42+00:00",
+      "published_utc": "2026-10-13T03:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

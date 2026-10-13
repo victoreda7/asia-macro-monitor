@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T02:52:42.159101+00:00",
- "collected_at_utc": "2026-10-13T02:52:42.159101+00:00",
+ "generated_at_utc": "2026-10-13T03:02:42.957055+00:00",
+ "collected_at_utc": "2026-10-13T03:02:42.957055+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2960,
+ "count": 2963,
  "by_region": {
-  "japan": 1128,
+  "japan": 1131,
   "china": 823,
   "taiwan": 289,
   "korea": 720
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T02:30:57+00:00"
+   "newest": "2026-10-13T02:54:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T02:24:56+00:00"
+   "newest": "2026-10-13T02:54:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T02:32:01+00:00"
+   "newest": "2026-10-13T02:56:48+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T02:22:41+00:00"
+   "newest": "2026-10-12T01:22:41+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T10:52:51+09:00"
+   "newest": "2026-10-13T12:01:22+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T11:22:06+09:00"
+   "newest": "2026-10-13T12:01:22+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T02:49:00+00:00"
+   "newest": "2026-10-13T02:59:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T02:35:16+00:00"
+   "newest": "2026-10-13T02:50:30+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,62 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T21:00:00+00:00"
+   "newest": "2026-10-12T09:38:37+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "South Korea’s Lee says country cannot avoid raising interest rates",
+   "url": "https://www.investing.com/news/economy-news/south-koreas-lee-says-country-cannot-avoid-raising-interest-rates-4945335",
+   "published_utc": "2026-10-13T02:54:22+00:00",
+   "title_original": "South Korea’s Lee says country cannot avoid raising interest rates",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "20234c3b42f3cce5"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "[Illustration] Corporate prices rise 6.8% in September = growth slows due to fall in rice prices - Bank of Japan (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82dVVOcWJhM2lNaDhwUUdZd3VZcWlYNTlFM0ZDYjhNeGpIeEhSOFM2VDFuSm4zY3Ewc1dRUXNTcklpbUJTYzk2VGFkTEo1Q00ta1pSbzBBUk9RbGNlY2t2djY4c2Q2WjFlZ2xfYnVXbkdrMGh2c0ZuTWs3NUdLcTQ?oc=5",
+   "published_utc": "2026-10-13T02:50:30+00:00",
+   "title_original": "【図解】9月の企業物価、6．8％上昇＝コメ値下がりで伸び縮小―日銀（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8040bc6b378cff51"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Samsung, SK Hynix shares plunge on China competition fears",
+   "url": "https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-plunge-on-china-competition-fears-4945334",
+   "published_utc": "2026-10-13T02:47:42+00:00",
+   "title_original": "Samsung, SK Hynix shares plunge on China competition fears",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0c298a9af3e5b0d6"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -362,20 +414,20 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea's Lee says country cannot avoid raising interest rates",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45Z016:0-south-korea-s-lee-says-country-cannot-avoid-raising-interest-rates/",
-   "published_utc": "2026-10-13T02:45:58+00:00",
-   "title_original": "South Korea's Lee says country cannot avoid raising interest rates",
-   "region": "korea",
+   "source_name": "Trading Economics",
+   "title_en": "Yen Gains in Post-Holiday Trading",
+   "url": "https://www.tradingview.com/news/te_news:591327:0-yen-gains-in-post-holiday-trading/",
+   "published_utc": "2026-10-13T02:36:09+00:00",
+   "title_original": "Yen Gains in Post-Holiday Trading",
+   "region": "japan",
    "topics": [
-    "monetary"
+    "fx"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "99b8726a80faf191"
+   "id": "3c2263b8e668956c"
   },
   {
    "source_id": "investing_live",
@@ -1180,6 +1232,25 @@
    "live_wire": true,
    "manual": false,
    "id": "42ff55f3ab346e2a"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor Ueda will attend the House of Representatives Budget Committee meeting from 1:00 p.m. - Diet source (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kOUlJRzhGRUpxQlFKRUZGNXZwcWRBSTJCSGF6RlM0WlhaVmF1ek1tcTJ4MjRBR00tZFduSkloSmMxeTZvVmxWeXc5R255b3p6cERVQXVPTlVCbDhjaF9rS3JsX3pYd0ZpTHJZeGsta284R21VTHRRdllkZ2p0LTQ?oc=5",
+   "published_utc": "2026-10-12T23:28:45+00:00",
+   "title_original": "植田日銀総裁、午後1時から衆院予算委に出席＝国会筋（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ac54cd026311f069"
   },
   {
    "source_id": "gn_kr_ked",
@@ -2340,25 +2411,6 @@
    "id": "6944fcd604bd72f7"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "CNews",
-   "title_en": "Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, inflation are the most important variables.”",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiTms4MUZEanh6S3djNGExc1ZiWFJIdC1OMldYdF9sRFRibzNMclNKMldxU0lTV2NiOGVvTi1YOXFpdF9sOXpIZlhmYUdubDhkQnJ6VFU1WDA2b0xXVExRYUlIc2pKN3ZHeEhaQTZ4VVBLUVAwTEdF?oc=5",
-   "published_utc": "2026-10-12T08:03:27+00:00",
-   "title_original": "신현송 한은 총재 \"추가 금리 인상, 인플레가 가장 중요한 변수\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "trade"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a773499d32ab5809"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "CoinMarketCal",
    "title_en": "Reserve Rights: Upbit opens RSR spot trading in KRW and USDT markets - 12 Oct 2026",
@@ -2743,6 +2795,25 @@
    "live_wire": false,
    "manual": false,
    "id": "10eaf010ca3c1df7"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "CNews",
+   "title_en": "Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, inflation are the most important variables.”",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qNERfX21aZHdRZi1PLWNBWG9kZHZoRXlmWDB4VDhRZFhLUFlfSWU2dzZGU3B6dlQ3N1I4aDd6Qnc5ZVh2aWN0LWpneUZpeG5fTWItUTkzVVI4aTBJbjdzb1BOTDJTZnJxLTF5RnJKMmh2Zw?oc=5",
+   "published_utc": "2026-10-12T06:00:00+00:00",
+   "title_original": "신현송 한은 총재 \"추가 금리 인상, 인플레가 가장 중요한 변수\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b21a54bf3c2e8057"
   },
   {
    "source_id": "gn_kr_bok",
@@ -4066,7 +4137,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "국민일보",
    "title_en": "The Bank of Korea predicts a ‘hawkish freeze’ in its benchmark interest rate in October… Additional tightening variables in the US",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80d00tSUZfUHlxcG1vWWs2alcxOWtoV2RlTFpMbWNxZWlHaGtCcGlEeDBOazNtamFPcnBaWllBR1pIaHh2V1VzZkl5NlRyZ1pfbjhmVHVzejBHM3pNVVJiZmlkVVFCb03SAWxBVV95cUxPcGZVRGhmbjFlWnF1U0NJenYxZVJSSTVlMEpwM0RxaUFId1pLQUtDZWNQRC1iMFFMQVZBXzA4MUJYTkk1Q3VHc1BuRTdnZ2czZEw5OXFheC1ld3VsajZYOWxHT21lREtlTS1nOUM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wZlVEaGZuMWVacXVTQ0l6djFlUlJJNWUwSnAzRHFpQUh3WktBS0NlY1BELWIwUUxBVkFfMDgxQlhOSTVDdUdzUG5FN2dnZzNkTDk5cWF4LWV3dWxqNlg5bEdPbWVES2VNLWc5Q9IBbEFVX3lxTE9wZlVEaGZuMWVacXVTQ0l6djFlUlJJNWUwSnAzRHFpQUh3WktBS0NlY1BELWIwUUxBVkFfMDgxQlhOSTVDdUdzUG5FN2dnZzNkTDk5cWF4LWV3dWxqNlg5bEdPbWVES2VNLWc5Qw?oc=5",
    "published_utc": "2026-10-11T15:21:00+00:00",
    "title_original": "한은 10월 기준금리 ‘매파적 동결’ 전망… 美 추가 긴축 변수",
    "region": "korea",
@@ -4077,7 +4148,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ab46e0460e9215fc"
+   "id": "82441b8a99e83485"
   },
   {
    "source_id": "korea_herald_biz",
@@ -4250,6 +4321,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a64d9291b255f33b"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3563f6b6fd29b888"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5349,23 +5437,6 @@
    "live_wire": false,
    "manual": false,
    "id": "91431e6663917737"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-   "published_utc": "2026-10-09T14:02:00+00:00",
-   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3563f6b6fd29b888"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51233,23 +51304,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9a85d562a1c0a3bb"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "metroseoul.co.kr",
-   "title_en": "Will it widen with the U.S. or narrow with Japan? Bank of Korea's 'interest rate difference sandwich' test bed",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92eUlTa0p1UnhyYXpMdVd1S3BYaEhReXo5dnhOSVJKdnQ4Y2EteUc5cFdWaWVKSXE5UURmTmxtYmFvb3lfZF9Ra09PdE1UeC0zdTlTN3djX1NmQVpGWm96Nw?oc=5",
-   "published_utc": "2026-09-13T02:58:40+00:00",
-   "title_original": "美와 벌어지고 日과 좁혀지나…한은 '금리차 샌드위치' 시험대",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5f447876e4b2159b"
   },
   {
    "source_id": "manual_ia",
