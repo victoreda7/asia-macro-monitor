@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T14:52:42.973042+00:00
+Última coleta: 2026-10-13T15:02:48.198595+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1138
-  🇨🇳 China          831
+  🇨🇳 China          832
   🇹🇼 Taiwan         298
-  🇰🇷 Coreia do Sul  733
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
   - [korea] Korea launches chip policy office to fast-track W800tr investments
+  - [china] Shares of U.S. chip companies extend decline as China memory report and concerns about AI spending hit the sec
+  - [china] US chip stocks extend slide as China memory report, AI spending jitters hit sector
   - [china] 'If you can't beat them, join them': Uday Kotak backs China investment, manufacturing JVs in India
   - [japan] Yen Rises After BoJ Ueda Comments
   - [japan] Yen Rises Against Majors
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] [Photo] Export-import silver supports independence of isolated youth
   - [korea] Samsung Electronics chairman Lee to receive 2.6 trillion won worth of shares from mother, reports say
   - [japan] More than 80% predict that prices will rise in five years Bank of Japan's lifestyle awareness survey (TV Asahi
-  - [china] Visa Wins Preliminary Approval for Yuan Card Clearing in China
-  - [korea] Repeat & Correct: South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T14:52:43+00:00",
+      "published_utc": "2026-10-13T15:02:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
