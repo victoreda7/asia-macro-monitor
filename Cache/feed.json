@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T06:32:41.886797+00:00",
- "collected_at_utc": "2026-10-13T06:32:41.886797+00:00",
+ "generated_at_utc": "2026-10-13T06:42:42.021768+00:00",
+ "collected_at_utc": "2026-10-13T06:42:42.021768+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2996,
+ "count": 2997,
  "by_region": {
-  "japan": 1138,
-  "china": 834,
+  "japan": 1137,
+  "china": 835,
   "taiwan": 297,
-  "korea": 727
+  "korea": 728
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T05:45:58+00:00"
+   "newest": "2026-10-13T06:32:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T05:24:33+00:00"
+   "newest": "2026-10-13T06:30:37+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T05:37:18+00:00"
+   "newest": "2026-10-13T06:10:45+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T03:53:00+00:00"
+   "newest": "2026-10-13T05:01:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T02:29:00+00:00"
+   "newest": "2026-10-13T05:43:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T06:31:49+00:00"
+   "newest": "2026-10-13T06:41:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T06:00:28+00:00"
+   "newest": "2026-10-13T06:34:07+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Dollar Likely to Trade in 157.50-159.30 Yen Range This Week — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261013000818:0-dollar-likely-to-trade-in-157-50-159-30-yen-range-this-week-market-talk/",
+   "published_utc": "2026-10-13T06:38:00+00:00",
+   "title_original": "Dollar Likely to Trade in 157.50-159.30 Yen Range This Week — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "536d6b140f6cef1f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Kospi Falls for Fifth Consecutive Session on Chip Selloff",
+   "url": "https://www.tradingview.com/news/DJN_DN20261013000804_20261013000812:0-kospi-falls-for-fifth-consecutive-session-on-chip-selloff/",
+   "published_utc": "2026-10-13T06:35:00+00:00",
+   "title_original": "Kospi Falls for Fifth Consecutive Session on Chip Selloff",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a75fce34819dcbd8"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China’s exports seen growing at faster pace in September: Reuters Poll",
+   "url": "https://www.investing.com/news/economy-news/chinas-exports-seen-growing-at-faster-pace-in-september-reuters-poll-4945522",
+   "published_utc": "2026-10-13T06:30:37+00:00",
+   "title_original": "China’s exports seen growing at faster pace in September: Reuters Poll",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "72ffebe2db212b7e"
+  },
   {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
@@ -1542,41 +1593,6 @@
    "live_wire": false,
    "manual": false,
    "id": "79a311e80f970d82"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "JAPAN SEPT CORP GOODS PRICE INDEX -0.3% M/M; AUG -0.3%",
-   "url": "https://www.tradingview.com/news/dpa_afx:39b254b261853:0-japan-sept-corp-goods-price-index-0-3-m-m-aug-0-3/",
-   "published_utc": "2026-10-13T00:12:59+00:00",
-   "title_original": "JAPAN SEPT CORP GOODS PRICE INDEX -0.3% M/M; AUG -0.3%",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5e090ecdb115c5f4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN SEPT CGPI IMPORT INDEX +24.5% Y/Y IN YEN TERMS FOR 10TH STRAIGHT RISE VS. AUG REVISED UP TO +25.1% FROM+24.8%",
-   "url": "https://www.tradingview.com/news/macenews:924986e4c094b:0-japan-sept-cgpi-import-index-24-5-y-y-in-yen-terms-for-10th-straight-rise-vs-aug-revised-up-to-25-1-from-24-8/",
-   "published_utc": "2026-10-13T00:07:00+00:00",
-   "title_original": "JAPAN SEPT CGPI IMPORT INDEX +24.5% Y/Y IN YEN TERMS FOR 10TH STRAIGHT RISE VS. AUG REVISED UP TO +25.1% FROM+24.8%",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3e5fea2ab6174823"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5154,8 +5170,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5168,7 +5184,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -6099,8 +6115,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6114,7 +6130,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -6305,8 +6321,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -6320,7 +6336,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "tradingview_live",
@@ -7174,8 +7190,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7189,7 +7205,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",

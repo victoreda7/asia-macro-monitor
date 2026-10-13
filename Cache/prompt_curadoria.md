@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T06:32:41.886797+00:00
-Total: 2996 manchetes
+Última coleta: 2026-10-13T06:42:42.021768+00:00
+Total: 2997 manchetes
 
-  🇯🇵 Japão          1138
-  🇨🇳 China          834
+  🇯🇵 Japão          1137
+  🇨🇳 China          835
   🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  727
+  🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar Likely to Trade in 157.50-159.30 Yen Range This Week — Market Talk
+  - [korea] Kospi Falls for Fifth Consecutive Session on Chip Selloff
+  - [china] China’s exports seen growing at faster pace in September: Reuters Poll
   - [china] Why are Chinese car exports soaring? Europe is responding
   - [korea] Korean Chip Stocks' Retreat Partly Reflect Skepticism About Earnings Sustainability — Market Talk
   - [china] Tencent prepares $4.5B+ dollar and yuan bond offering for AI capex
@@ -54,9 +57,6 @@ Total: 2996 manchetes
   - [japan] Yen Gains in Post-Holiday Trading
   - [korea] Why is Samsung Electronics stock plunging today?
   - [korea] Why is SK Hynix stock plunging today?
-  - [korea] IMF Chief Economist: Outlook for AI Supply Chain Econs Like South Korea, Singapore, Vietnam Raised Significant
-  - [japan] Gold eases on firm dollar; spotlight on US inflation data
-  - [korea] South Korea shares tumble over 6% as chip selloff triggers trading curb
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2996 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T06:32:42+00:00",
+      "published_utc": "2026-10-13T06:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
