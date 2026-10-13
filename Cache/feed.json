@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T07:42:44.660897+00:00",
- "collected_at_utc": "2026-10-13T07:42:44.660897+00:00",
+ "generated_at_utc": "2026-10-13T07:52:42.211178+00:00",
+ "collected_at_utc": "2026-10-13T07:52:42.211178+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1135,
+  "japan": 1136,
   "china": 831,
   "taiwan": 298,
-  "korea": 736
+  "korea": 735
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T04:01:17+00:00"
+   "newest": "2026-10-13T06:35:27+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T14:58:00+09:00"
+   "newest": "2026-10-13T16:45:56+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T07:31:32+00:00"
+   "newest": "2026-10-13T07:50:54+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T05:32:28+00:00"
+   "newest": "2026-10-13T02:30:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korea's Kospi Slumps on Selloff in Chip Stocks — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261013001079:0-south-korea-s-kospi-slumps-on-selloff-in-chip-stocks-update/",
+   "published_utc": "2026-10-13T07:40:00+00:00",
+   "title_original": "South Korea's Kospi Slumps on Selloff in Chip Stocks — Update",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fadf29d9e78eaf5d"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Stock prices have fallen significantly due to concerns about intensifying competition in the AI ​​and semiconductor industries",
@@ -410,23 +427,6 @@
    "live_wire": false,
    "manual": false,
    "id": "77302f64293ef0f9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea's Kospi Slumps on Selloff in Chip Stocks — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261013001013:0-south-korea-s-kospi-slumps-on-selloff-in-chip-stocks-update/",
-   "published_utc": "2026-10-13T07:25:00+00:00",
-   "title_original": "South Korea's Kospi Slumps on Selloff in Chip Stocks — Update",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f766689fed6ff930"
   },
   {
    "source_id": "korea_herald_biz",
@@ -965,6 +965,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9769a6ee3a193a56"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Asia FX steady as dollar holds near 18-mth high, U.S. CPI awaited",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHpYeC12b3l1bnlOQ2gzZ1hYci04U1RwR1Mya0JEVWJKanZ1NUJHdG1qMUxnSTV5VTlVOHFHUUNjNHlmaFJCTTdNRmhxZm01MWtUTWxtdWVVcXd3SEVES1Z5WFhMbU40Ykg1VXowbkhoRFJpUFJHNHk1TGUzNzlWNVgtX2p0Uk9CbmMwbGZtZU5sNTliam9OSXl2b2NjN0wtNTN3dy02TTRGQ2FIc2pFLQ?oc=5",
+   "published_utc": "2026-10-13T04:07:28+00:00",
+   "title_original": "Asia FX steady as dollar holds near 18-mth high, U.S. CPI awaited",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "efbce6d95328c90f"
   },
   {
    "source_id": "tradingview_live",
@@ -5339,8 +5356,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5353,7 +5370,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -6267,8 +6284,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6282,7 +6299,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -6473,8 +6490,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -6488,7 +6505,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -7342,8 +7359,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7357,7 +7374,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51925,23 +51942,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d6445d39c876c19c"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "“If the base interest rate rises, will you raise the deposit interest rate first?”.. Bank deposit-loan interest rate differential narrows",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00bDlGNDVpdlV0WEFMMmxoOEFBTDV1WG1oT0l3andnMk9DSmZNUVhqMDItRFFWdEdoaGRnRmp6dWhqaWdWVU13dGxCTU40MTN2cUppSlFXRUhUSGM?oc=5",
-   "published_utc": "2026-09-13T08:30:43+00:00",
-   "title_original": "\"기준금리 오르면 예금금리부터 올린다고?\"..은행 예대금리차 축소",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4b6d81d312875686"
   },
   {
    "source_id": "manual_ia",

@@ -7,21 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T07:42:44.660897+00:00
+Última coleta: 2026-10-13T07:52:42.211178+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1135
+  🇯🇵 Japão          1136
   🇨🇳 China          831
   🇹🇼 Taiwan         298
-  🇰🇷 Coreia do Sul  736
+  🇰🇷 Coreia do Sul  735
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
   - [japan] Stock prices have fallen significantly due to concerns about intensifying competition in the AI ​​and semicond
   - [korea] (2nd LD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes
   - [taiwan] TSMC, Intel supplier Qnity bets on local production to win business
   - [korea] Kospi tumbles as chip rout deepens, briefly breaking below 6,000
-  - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
   - [korea] Foreign selloff sends Kospi down 5.5% as chip giants tumble
   - [china] China’s exports seen growing at faster pace in September: Reuters Poll
   - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
@@ -53,10 +53,10 @@ Total: 3000 manchetes
   - [china] China to Cut New Energy Vehicle Export Tax Rebate to 9% From April 2027
   - [taiwan] Taiwan Finance Minister to attend APEC meeting in Hong Kong next week (Reuters)
   - [china] Asian tech shares plunge after Chinese chipmaker reports key advance
+  - [japan] Asia FX steady as dollar holds near 18-mth high, U.S. CPI awaited
   - [china] Xpeng Vice Chairman Welcomes EU-China Hybrid Import Cap Deal
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks
   - [taiwan] IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%
-  - [china] Yuan holds firm near 2023 highs despite dollar strength
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T07:42:44+00:00",
+      "published_utc": "2026-10-13T07:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
