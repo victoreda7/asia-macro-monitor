@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T13:22:44.055375+00:00
+Última coleta: 2026-10-13T13:32:44.426862+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1140
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [korea] Roze AI Announces Approximately US$14.8 Million (KRW 19.88 Billion) in New Contracts for AI-Powered Fire Risk 
   - [korea] SK Hynix Stock Crashes 9% as AI Fears Trigger Asian Tech Sell-Off
   - [china] Nvidia Loses Ground in China as AI Chip Shipments Plunge 44%
+  - [korea] 'Brutal session' for chip stocks shows AI trade is turning
   - [taiwan] Qnity Bets On Local Production To Win More AI Chip Business From Nvidia, TSMC – CEO Touts ‘Local-For-Local’ St
   - [korea] Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility
   - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Former NHK chairman Nobuo Inaba dies at age 75, also serving as director of the Bank of Japan (Mainichi Shimbu
   - [taiwan] Taiwan panel makers enter semiconductor fight as structural challenges persist
   - [japan] Inflation expectations remain 86.5% higher in 5 years, highest level in 19 years due to Middle East impact, Ba
-  - [japan] Inflation expectations remain 86.5% higher in 5 years; Middle East impact, highest level in 19 years; Bank of 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T13:22:44+00:00",
+      "published_utc": "2026-10-13T13:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
