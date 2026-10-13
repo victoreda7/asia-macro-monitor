@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T08:22:41.980093+00:00
+Última coleta: 2026-10-13T08:32:42.984160+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1136
   🇨🇳 China          834
-  🇹🇼 Taiwan         298
-  🇰🇷 Coreia do Sul  732
+  🇹🇼 Taiwan         297
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [korea] Repeat & Correct: South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
   - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
   - [china] China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk
   - [japan] Individuals' inflation expectations remain high: 86.5% that prices will rise in five years' time Bank of Japan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC's Third-Quarter Net Profit Likely Jumped 62% as Revenue Tops Guidance — Earnings Preview
   - [china] China to Cut New Energy Vehicle Export Tax Rebate to 9% From April 2027
   - [taiwan] Taiwan Finance Minister to attend APEC meeting in Hong Kong next week (Reuters)
-  - [china] Asian tech shares plunge after Chinese chipmaker reports key advance
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T08:22:42+00:00",
+      "published_utc": "2026-10-13T08:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
