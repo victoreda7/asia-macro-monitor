@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T22:22:42.498133+00:00",
- "collected_at_utc": "2026-10-13T22:22:42.498133+00:00",
+ "generated_at_utc": "2026-10-13T22:32:42.173735+00:00",
+ "collected_at_utc": "2026-10-13T22:32:42.173735+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1137,
-  "china": 831,
+  "china": 833,
   "taiwan": 298,
-  "korea": 734
+  "korea": 732
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T02:21:00+00:00"
+   "newest": "2026-10-12T05:14:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T22:20:10+00:00"
+   "newest": "2026-10-13T22:31:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-13T21:30:25+00:00"
+   "newest": "2026-10-13T22:23:24+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T08:18:11+00:00"
+   "newest": "2026-10-13T07:48:56+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "China Inflation, Trade Data Due On Wednesday",
+   "url": "https://www.tradingview.com/news/dpa_afx:aa55cbaaadd69:0-china-inflation-trade-data-due-on-wednesday/",
+   "published_utc": "2026-10-13T22:21:59+00:00",
+   "title_original": "China Inflation, Trade Data Due On Wednesday",
+   "region": "china",
+   "topics": [
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f9369614c928d677"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -1601,23 +1619,6 @@
    "id": "72ffebe2db212b7e"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea shares tumble in chip selloff",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45Z04N:0-south-korea-shares-tumble-in-chip-selloff/",
-   "published_utc": "2026-10-13T07:08:06+00:00",
-   "title_original": "South Korea shares tumble in chip selloff",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5d853c10ccdfe3cb"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks",
@@ -1718,6 +1719,23 @@
    "live_wire": false,
    "manual": false,
    "id": "46a5b70568f211c2"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China's exports seen growing at faster pace in September",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2dMX2RhX045ck4teTcxZTRUS2hEN01GZjRMRlJuYmxRWlpOM3N5UnVXYV9wT3UzbHpRQTNtM2J6MG82RE9SNkdtb3JkTmdCQzdmRElsWG5Dd0RVVlcyajBBc21LZWRnU1BCbVhzNG1WTHgyMUFDNTVuSkpXUTY3d3dGLW5xbXNLTXljNXRCb0poYTZ6anh3RVNvbHBYOFRpUTA3QzJaQQ?oc=5",
+   "published_utc": "2026-10-13T06:23:00+00:00",
+   "title_original": "China's exports seen growing at faster pace in September",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "22cbff63a93bdadd"
   },
   {
    "source_id": "investing_live",
@@ -51922,23 +51940,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f253223bbf3c75f2"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "조선일보",
-   "title_en": "[Exclusive] 14 domestic banks, when the base lending rate was lowered by 0.72%p, the actual interest rate was lowered by 0.15%p",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1JMbWhuTDE4cThjblhFcHRKQWZSWTJYRUEzZjg0X3hOMXptdUtqZVZWY2N3SUUxTWpuakd4dUZ2TGRiVVVDN2VMOUtrNV9mdEoxMVBRVFFxT0VLQXVLT2syWTFudVVOQzEwdTlLQ1pBd1FXZFU0Q3ZnS1dKWlcyUWNpWlBHcTRoM1JZ?oc=5",
-   "published_utc": "2026-09-14T05:27:53+00:00",
-   "title_original": "[단독] 국내 은행 14곳, 대출 기준금리 0.72%p 내릴 때 실제 금리는 0.15%p 내려",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7060375a3dc60214"
   },
   {
    "source_id": "manual_ia",

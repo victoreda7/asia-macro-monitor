@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T22:22:42.498133+00:00
+Última coleta: 2026-10-13T22:32:42.173735+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
-  🇨🇳 China          831
+  🇨🇳 China          833
   🇹🇼 Taiwan         298
-  🇰🇷 Coreia do Sul  734
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [china] China Inflation, Trade Data Due On Wednesday
   - [taiwan] TSMC Stocks Slip as Thursday's Earnings Put AI Margins Under Scrutiny
   - [japan] I gave up on curry, the salmon roe bowl was in the red, and I finally opened 30 stores nationwide with "Pork C
   - [japan] 77% feel anxious about leaking personal information NHK poll
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Mapping the Market: 'Death cross' bodes more trouble for peso against resurgent yen
   - [japan] Rupee extends surge; Dollar consolidates near peaks ahead of inflation data
   - [korea] South Korea central bank to keep policy restrictive until inflation hits target, governor says
-  - [china] IMF Cuts China Growth Forecasts for 2026 and 2027
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T22:22:42+00:00",
+      "published_utc": "2026-10-13T22:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
