@@ -7,20 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T02:12:42.040774+00:00
-Total: 2945 manchetes
+Última coleta: 2026-10-13T02:22:43.376011+00:00
+Total: 2952 manchetes
 
-  🇯🇵 Japão          1125
-  🇨🇳 China          818
-  🇹🇼 Taiwan         288
-  🇰🇷 Coreia do Sul  714
+  🇯🇵 Japão          1126
+  🇨🇳 China          821
+  🇹🇼 Taiwan         289
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
+  - [korea] IMF Raises 2026 South Korea Growth Forecast to 3.3% From 2.6%
+  - [japan] IMF Raises 2026 Japan Growth Forecast to 0.7% From 0.6%
+  - [china] IMF Lowers 2027 China Economic Growth Forecast to 4.0% From 4.1%
+  - [china] IMF Lowers 2026 China Economic Growth Forecast to 4.5% From 4.6%
+  - [china] IMF'S WORLD ECONOMIC OUTLOOK: CHINA '26 GROWTH SEEN +4.5%, -0.1; '27 +4.0%,-0.1
+  - [japan] September corporate price index increased by 6.8% compared to the same month last year; rate of increase slows
+  - [taiwan] Taiwan dollar, South Korean won lead Asian currencies lower
   - [china] The central bank launches 65 billion yuan 7-day reverse repurchase operation
   - [korea] Sebo Manufacturing Engineering Construction Wins 97 Billion Won Order
-  - [korea] IMF raises S. Korea's growth forecast to 3.3 pct amid chip supercycle
   - [japan] IMF expects gradual BOJ rate hike towards neutral setting
+  - [korea] IMF raises S. Korea's growth forecast to 3.3 pct amid chip supercycle
   - [japan] Japan bond yields diverge as investors weigh inflation, BOJ outlook
   - [china] CHINA PBOC CONDUCTS CNY65 BLN VIA 7-DAY REVERSE REPO TUES
   - [china] The central bank launched a 65 billion yuan 7-day reverse repurchase operation today
@@ -36,7 +44,6 @@ Total: 2945 manchetes
   - [taiwan] Podcast highlights: Is Elon Musk using TSMC talks as leverage against Intel and Samsung?
   - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com
   - [japan] JAPAN SEPT CORP GOODS PRICE INDEX -0.3% M/M; AUG -0.3%
-  - [japan] September corporate price index increased by 6.8% compared to the same month last year
   - [japan] JAPAN SEPT CGPI IMPORT INDEX +24.5% Y/Y IN YEN TERMS FOR 10TH STRAIGHT RISE VS. AUG REVISED UP TO +25.1% FROM+
   - [japan] September corporate price index rises 6.8% to 135.7...Bank of Japan announces (Yomiuri Shimbun Online)
   - [japan] September corporate price index rose 6.8% to 135.7...Bank of Japan announced (Yomiuri Shimbun Online)
@@ -50,13 +57,6 @@ Total: 2945 manchetes
   - [japan] JAPAN SEPT PRODUCER PRICES -0.3% M/M (AUG REVISED TO -0.3% FROM -0.2%); 2ND STRAIGHT DROP; MEDIAN FORECAST +0.
   - [japan] Corporate Goods Price Index (Sept.)
   - [japan] Japan finance minister named as next chair of World Bank-IMF joint development committee
-  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
-  - [china] Exclusive | China finance minister to deliver opening speech at Apec meeting in Hong Kong
-  - [taiwan] Weekly Recap: Moody's affirms A2, outlook positive and TSMC tie-up boosts chips
-  - [japan] Weekly Recap: TSE:8604 Macquarie-unit buy and JGB global marketing
-  - [korea] Concerns are growing that the impact of a rate hike could have a greater impact on the elderly in th..
-  - [japan] [Direct hit] “The era of reflationary policy is over” The core of Sanaenomics as told by Minister of Economy a
-  - [korea] “We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2945 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T02:12:42+00:00",
+      "published_utc": "2026-10-13T02:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
