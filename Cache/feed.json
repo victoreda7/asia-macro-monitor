@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T07:32:45.602102+00:00",
- "collected_at_utc": "2026-10-13T07:32:45.602102+00:00",
+ "generated_at_utc": "2026-10-13T07:42:44.660897+00:00",
+ "collected_at_utc": "2026-10-13T07:42:44.660897+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2999,
+ "count": 3000,
  "by_region": {
-  "japan": 1134,
-  "china": 833,
+  "japan": 1135,
+  "china": 831,
   "taiwan": 298,
-  "korea": 734
+  "korea": 736
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T07:17:03+00:00"
+   "newest": "2026-10-13T07:36:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T04:04:52+00:00"
+   "newest": "2026-10-13T07:21:48+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T07:00:31+00:00"
+   "newest": "2026-10-13T07:31:21+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T15:45:00+09:00"
+   "newest": "2026-10-13T16:38:07+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T02:30:49+00:00"
+   "newest": "2026-10-13T05:32:28+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T06:56:24+00:00"
+   "newest": "2026-10-13T07:36:07+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,40 @@
  ],
  "items": [
   {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock prices have fallen significantly due to concerns about intensifying competition in the AI ​​and semiconductor industries",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261013de58344",
+   "published_utc": "2026-10-13T07:38:07+00:00",
+   "title_original": "株価 大きく値下がり AI・半導体産業 競争激化の警戒感などで",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "44b3b4815562343d"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(2nd LD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZUVjQ1ZsRmJnUzRaRTZxSWFtb3Bhbm5xc0JobjJkNTFzdG94N1dSTlJ6aHBBLWhLdURoVE5VUHc5UThSaUFocEtsYmJ0ZWZmSlNaLWF4WGNLMEEzZmk2bDVaVUVLcVJEOW1EVEh5V2FiR2sxalppblRuMzlEcWdqci1iVHg?oc=5",
+   "published_utc": "2026-10-13T07:36:07+00:00",
+   "title_original": "(2nd LD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5331a6bd431c6afd"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "TSMC, Intel supplier Qnity bets on local production to win business",
@@ -359,6 +393,23 @@
    "live_wire": false,
    "manual": false,
    "id": "96b6d625c7876bb5"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Kospi tumbles as chip rout deepens, briefly breaking below 6,000",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxamUxSklGeUpVZElLY2hFY1BBd2hMUjh5QlpzeXliV1NvYzg0T1dOa2JRbVliMkl3MEVwVHRFa3diaDZ2c2dqU3Z4RTlremJSQl91anBmNzYxRG9reFRaT3NnMzZfWG10c1hqMWpOci1Xa2s3SlhPYVNB?oc=5",
+   "published_utc": "2026-10-13T07:31:21+00:00",
+   "title_original": "Kospi tumbles as chip rout deepens, briefly breaking below 6,000",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "77302f64293ef0f9"
   },
   {
    "source_id": "tradingview_live",
@@ -483,7 +534,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bae Jun-young: “Bonk Governor needs to ‘reexamine the starting point’ of raising base interest rate this month”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDbUJvbUZaVTM4eXhmWEM3UVVscWJXWEx0cDh4Smd3UGs0MkhpRllpX3BfNXNPRXJxdzFNd3JxYUdhZkFzWURfTWVjNFUyTUJDTjlrSE13SldvS0nSAWBBVV95cUxNY08zVlZDZC1fdG12cnJpNU5uUWhqcGlIekNEQTdrRWhLWnhJdE8xMVNMeVc5SnNjRVB5S3MyU0plaVNNZDVmTlkyYjdfblFvNDVfRk1uRjhYSEF0LWlES1A?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTzNWVkNkLV90bXZycmk1Tm5RaGpwaUh6Q0RBN2tFaEtaeEl0TzExU0x5VzlKc2NFUHlLczJTSmVpU01kNWZOWTJiN19uUW80NV9GTW5GOFhIQXQtaURLUNIBYEFVX3lxTE1jTzNWVkNkLV90bXZycmk1Tm5RaGpwaUh6Q0RBN2tFaEtaeEl0TzExU0x5VzlKc2NFUHlLczJTSmVpU01kNWZOWTJiN19uUW80NV9GTW5GOFhIQXQtaURLUA?oc=5",
    "published_utc": "2026-10-13T06:50:33+00:00",
    "title_original": "野배준영 \"한은총재, 이달 기준금리 인상 '원점 재검토'해야\"",
    "region": "korea",
@@ -494,7 +545,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "850455faec099865"
+   "id": "0e6e41a882544fc0"
   },
   {
    "source_id": "investing_live",
@@ -3736,6 +3787,23 @@
    "id": "0c89c3655ea4ace2"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "메트로신문",
+   "title_en": "[2026 National Assembly Audit] Shin Hyun-song emphasizes the effect of preemptive ‘interest rate increase’",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jdXkwT0ZjTjFYN29XQXlua01tZ2JUaEY0bWdVa2xNN18wVGFtb05SUzF2MG5xSWtSUVFmby1BZVpyUUtHdUViMWk2RXdKeUJ3YW12M2Q3aDhDTFBjYU12Zw?oc=5",
+   "published_utc": "2026-10-12T05:11:21+00:00",
+   "title_original": "[2026 국정감사] 신현송, 선제 '금리인상' 효과 강조",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3cd4477154082167"
+  },
+  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China home car sales downturn continues, exports retain momentum",
@@ -3906,25 +3974,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e53220cd62a9e5c6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제TV",
-   "title_en": "Bank of Korea governor: “Monetary policy unwavering”… Emphasis on fiscal harmony",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tWW15ME9kbHBzMk9nNWVZZTlUUmY1Y1czNG1zYWk0NnByTGkyUENhalFEYW5zNno1ZmxuQXdYTHhSODNaUTFRX1JiSF9MWXU3ZUNlZ0VSbkk0VlVuZGtER3FIRTFjMkdQ?oc=5",
-   "published_utc": "2026-10-12T04:00:00+00:00",
-   "title_original": "한국은행 총재 \"통화정책 흔들림 없이\"…재정 조화 강조",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "476fc9e5a7daf22e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4344,7 +4393,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 302 billion yuan reverse repo expires this week, and the 500 billion yuan buyout expires on Thursday.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zU1kydF8yQWI4djFDWFRFaFdkbVh6eUJxZWhXNTlzS0E3d1h6SFNSMnQwSUt4bmNhN3RoTnF2QXJUWXlzNHhxajVrNzBxQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84NS1JZWNGdTRJVGV0WmdYUS1uN29ac3lMaVM2bE03Tl9qdkppbThaVUowU05yOVl4cUFqdHdncE5yRWRQMjFBa2tsTVpsQ3RMYmdWNUxGdWN4NkphaVFQTzNn?oc=5",
    "published_utc": "2026-10-12T00:51:47+00:00",
    "title_original": "本周央行3020亿元逆回购到期 5000亿元买断式周四到期",
    "region": "china",
@@ -4356,7 +4405,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fde8e61754043213"
+   "id": "25e47331a55dbf6f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5290,8 +5339,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5304,7 +5353,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -6218,8 +6267,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6233,7 +6282,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -6424,8 +6473,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -6439,7 +6488,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "tradingview_live",
@@ -7293,8 +7342,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7308,7 +7357,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51893,41 +51942,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4b6d81d312875686"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
-   "title_en": "Important signal! For four consecutive days, the central bank will launch overnight reverse repurchase operations starting tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdlFJdkdLU3JweGg2emw3c1kwX2JBX0s5WFM4dHl3OEx6anJ2LW55elFlNzZ4UERpQk1FVmpTWklhQWhqTEhBR0NqN3pCZXNpRlh4VzJoS3pOeHRSN1dXRlNXRXU2SVgwbFJIOTlVcDVkMHE1eEstazl1UlZwTDl1U1poam5leFpQ?oc=5",
-   "published_utc": "2026-09-13T08:16:00+00:00",
-   "title_original": "重要信号！连续4天，央行明起开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58b01f9d61bfbcc6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "k.sina.com.cn",
-   "title_en": "The central bank conducts overnight reverse repos for four consecutive days",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRDVScU50NnJQcGFXZVEzRjhYa19wTlBKSGx2Z2ZzeXR5bGZ1aFVDbF9FVzV1cEFOeDZYWVcxRURIS2hGQ3hTOVEyN3doenR5VzJyd1NtZzZ6WFB2RG5hc1dVenp5cEszSlIyQWRCckdyeUdLeW8yTU9IaWlhaWtnNWZEaw?oc=5",
-   "published_utc": "2026-09-13T07:39:54+00:00",
-   "title_original": "央行连续四天开展隔夜逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3800f7f8b2bb3ea6"
   },
   {
    "source_id": "manual_ia",
