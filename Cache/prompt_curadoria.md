@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T19:52:42.893047+00:00
+Última coleta: 2026-10-13T20:02:43.730230+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] 77% feel anxious about leaking personal information NHK poll
   - [china] Micron Stock Is Falling. Elon Musk's Comments on Chinese Chips Aren't Helping. — Barrons.com
   - [china] China’s Growth Seen Edging Up to 4.4% as Exports Offset Weak Demand
   - [china] China’s Magnet Export Crackdown Is Putting Companies Like Evolution Metals in the Spotlight (NASDAQ: EMAT)
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] IMF Cuts China Growth Forecasts for 2026 and 2027
   - [korea] KOSPI Slumps as U.S. AI Chip Panic Spreads — Barrons.com
   - [japan] Intervention Risk Limits Yen Falls Against Dollar — Market Talk
-  - [japan] 88% of people expect prices to rise one year from now, Bank of Japan's September lifestyle awareness survey (K
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T19:52:43+00:00",
+      "published_utc": "2026-10-13T20:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
