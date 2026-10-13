@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T03:02:42.957055+00:00
+Última coleta: 2026-10-13T03:12:43.106612+00:00
 Total: 2963 manchetes
 
-  🇯🇵 Japão          1131
+  🇯🇵 Japão          1130
   🇨🇳 China          823
-  🇹🇼 Taiwan         289
+  🇹🇼 Taiwan         290
   🇰🇷 Coreia do Sul  720
 
 ## O que já está no feed (não repita)
@@ -38,6 +38,7 @@ Total: 2963 manchetes
   - [korea] Sebo Manufacturing Engineering Construction Wins 97 Billion Won Order
   - [japan] Bank of Japan to raise interest rates to neutral level in stages despite forecast of slowing growth = IMF (Reu
   - [japan] IMF expects gradual BOJ rate hike towards neutral setting
+  - [taiwan] Hamada Labs targets Taiwan, Japan manufacturing with AI platform
   - [korea] IMF raises S. Korea's growth forecast to 3.3 pct amid chip supercycle
   - [japan] Japan bond yields diverge as investors weigh inflation, BOJ outlook
   - [china] CHINA PBOC CONDUCTS CNY65 BLN VIA 7-DAY REVERSE REPO TUES
@@ -56,7 +57,6 @@ Total: 2963 manchetes
   - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com
   - [japan] JAPAN SEPT CORP GOODS PRICE INDEX -0.3% M/M; AUG -0.3%
   - [japan] JAPAN SEPT CGPI IMPORT INDEX +24.5% Y/Y IN YEN TERMS FOR 10TH STRAIGHT RISE VS. AUG REVISED UP TO +25.1% FROM+
-  - [japan] September corporate price index rises 6.8% to 135.7...Bank of Japan announces (Yomiuri Shimbun Online)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2963 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T03:02:43+00:00",
+      "published_utc": "2026-10-13T03:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
