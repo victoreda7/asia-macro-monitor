@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T11:52:43.924648+00:00
+Última coleta: 2026-10-13T12:02:44.355603+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1141
   🇨🇳 China          829
-  🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  733
+  🇹🇼 Taiwan         298
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Qnity Bets On Local Production To Win More AI Chip Business From Nvidia, TSMC – CEO Touts ‘Local-For-Local’ St
   - [korea] Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility
   - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
   - [korea] Bank of Korea chief says monetary policy to stay restrictive for now
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung c
   - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
   - [china] China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk
-  - [korea] “We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T11:52:44+00:00",
+      "published_utc": "2026-10-13T12:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
