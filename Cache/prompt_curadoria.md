@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T01:52:46.900269+00:00
-Total: 2936 manchetes
+Última coleta: 2026-10-13T01:56:30.188458+00:00
+Total: 2938 manchetes
 
-  🇯🇵 Japão          1122
-  🇨🇳 China          815
+  🇯🇵 Japão          1123
+  🇨🇳 China          816
   🇹🇼 Taiwan         288
   🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan bond yields diverge as investors weigh inflation, BOJ outlook
+  - [china] CHINA PBOC CONDUCTS CNY65 BLN VIA 7-DAY REVERSE REPO TUES
   - [china] The central bank launched a 65 billion yuan 7-day reverse repurchase operation today
   - [china] SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector
   - [china] On October 13, the central bank launched a 65 billion yuan 7-day reverse repurchase operation.
@@ -55,8 +57,6 @@ Total: 2936 manchetes
   - [china] China to Cut Export Tax Rebate for New-Energy Vehicles
   - [taiwan] Interview: Microsoft's Maia GM on Maia 300, Taiwan and HBM supply
   - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
-  - [china] Micron Stock Falls on China Chip Threat
-  - [japan] Finance Minister Katayama becomes the next chairman of the World Bank/IMF Joint Development Committee Prime Mi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2936 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T01:52:47+00:00",
+      "published_utc": "2026-10-13T01:56:30+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
