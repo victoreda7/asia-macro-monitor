@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-13T10:52:45.959539+00:00",
- "collected_at_utc": "2026-10-13T10:52:45.959539+00:00",
+ "generated_at_utc": "2026-10-13T11:02:43.289856+00:00",
+ "collected_at_utc": "2026-10-13T11:02:43.289856+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1140,
+  "japan": 1142,
   "china": 831,
-  "taiwan": 297,
-  "korea": 732
+  "taiwan": 296,
+  "korea": 731
  },
  "elapsed_s": 29.7,
  "sources": [
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T10:51:22+00:00"
+   "newest": "2026-10-13T10:55:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T09:07:18+00:00"
+   "newest": "2026-10-13T08:53:56+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T05:43:00+00:00"
+   "newest": "2026-10-13T08:21:38+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T03:28:20+00:00"
+   "newest": "2026-10-13T08:18:26+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T10:52:12+00:00"
+   "newest": "2026-10-13T11:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T05:32:28+00:00"
+   "newest": "2026-10-13T08:32:34+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,42 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle",
+   "url": "https://www.koreaherald.com/article/10900802",
+   "published_utc": "2026-10-13T11:13:54+00:00",
+   "title_original": "IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9851f19472c944a3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "ShareCast",
+   "title_en": "Asia report: Nikkei, KOSPI post big losses as chipmakers drop",
+   "url": "https://www.tradingview.com/news/sharecast:576ce6179094b:0-asia-report-nikkei-kospi-post-big-losses-as-chipmakers-drop/",
+   "published_utc": "2026-10-13T10:55:34+00:00",
+   "title_original": "Asia report: Nikkei, KOSPI post big losses as chipmakers drop",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6de17fb22a3ddab0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1745,23 +1781,6 @@
    "id": "29a5714d8719e205"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "TSMC Revenue Growth Upgrade a 'Live Possibility' — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012007691:0-tsmc-revenue-growth-upgrade-a-live-possibility-market-talk/",
-   "published_utc": "2026-10-13T03:32:00+00:00",
-   "title_original": "TSMC Revenue Growth Upgrade a 'Live Possibility' — Market Talk",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6492169f6cfd76ec"
-  },
-  {
    "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Taiwan finance minister to attend APEC meeting in Hong Kong",
@@ -1914,25 +1933,6 @@
    "live_wire": false,
    "manual": false,
    "id": "51792548dcc8733c"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle",
-   "url": "https://www.koreaherald.com/article/10900802",
-   "published_utc": "2026-10-13T02:22:42.261772+00:00",
-   "title_original": "IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "industrial",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9851f19472c944a3"
   },
   {
    "source_id": "nhk_economy",
@@ -2108,6 +2108,23 @@
    "live_wire": false,
    "manual": false,
    "id": "06a6be68d8247966"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "World stocks dip as chips slide, bonds rise",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5",
+   "published_utc": "2026-10-13T01:41:00+00:00",
+   "title_original": "World stocks dip as chips slide, bonds rise",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9abc564b3fbfd4eb"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4459,6 +4476,25 @@
    "id": "e53220cd62a9e5c6"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제TV",
+   "title_en": "Bank of Korea governor: “Monetary policy unwavering”… Emphasis on fiscal harmony",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tWW15ME9kbHBzMk9nNWVZZTlUUmY1Y1czNG1zYWk0NnByTGkyUENhalFEYW5zNno1ZmxuQXdYTHhSODNaUTFRX1JiSF9MWXU3ZUNlZ0VSbkk0VlVuZGtER3FIRTFjMkdQ?oc=5",
+   "published_utc": "2026-10-12T04:00:00+00:00",
+   "title_original": "한국은행 총재 \"통화정책 흔들림 없이\"…재정 조화 강조",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "476fc9e5a7daf22e"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Rapidus targets customers underserved by TSMC, but can it convince them to take the risk?",
@@ -4644,24 +4680,6 @@
    "live_wire": true,
    "manual": false,
    "id": "91eb6bb9b91f5ea7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
-   "title_en": "Governor of the Bank of Korea: “Carry out independent monetary policy without hesitation”",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85X1EycDUyRFl3d2NrWm1VN3lZOFJ6X25LVTJwLUZHekR0WHVNZV9TMTgxemtfb0dRUE9EZ0hPbmFQR2F0T3V2RV8xNThLeG83SHc?oc=5",
-   "published_utc": "2026-10-12T02:11:34+00:00",
-   "title_original": "한은 총재 \"독립적 통화정책 흔들림 없이 수행\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "771ad0e399fe3d00"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4894,7 +4912,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 302 billion yuan reverse repo expires this week, and the 500 billion yuan buyout expires on Thursday.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84NS1JZWNGdTRJVGV0WmdYUS1uN29ac3lMaVM2bE03Tl9qdkppbThaVUowU05yOVl4cUFqdHdncE5yRWRQMjFBa2tsTVpsQ3RMYmdWNUxGdWN4NkphaVFQTzNn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zU1kydF8yQWI4djFDWFRFaFdkbVh6eUJxZWhXNTlzS0E3d1h6SFNSMnQwSUt4bmNhN3RoTnF2QXJUWXlzNHhxajVrNzBxQQ?oc=5",
    "published_utc": "2026-10-12T00:51:47+00:00",
    "title_original": "本周央行3020亿元逆回购到期 5000亿元买断式周四到期",
    "region": "china",
@@ -4906,7 +4924,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "25e47331a55dbf6f"
+   "id": "fde8e61754043213"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5840,8 +5858,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5854,7 +5872,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -6785,8 +6803,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6800,7 +6818,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -6991,8 +7009,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -7006,7 +7024,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -7877,8 +7895,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7892,7 +7910,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51924,23 +51942,6 @@
    "live_wire": false,
    "manual": false,
    "id": "206776d4da92f03b"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "ngetnews.com",
-   "title_en": "KB Kookmin Bank increases term deposit interest rate by up to 0.6%p",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qU0o1UWpCdzdUNUdwRW1PZTFEMkhLU09IUEl0a1JLWDk3aWNQZDgwRjdaQXVWSjNNd3ZFUmpKOUwwSFRueDVSVk5xTW9QWldqWmp4c2RDUFhxMmFGSjdaNFNwZ1N0VU1LUDdn?oc=5",
-   "published_utc": "2026-09-14T01:43:11+00:00",
-   "title_original": "KB국민은행, 정기예금 금리 최대 0.6%p 인상",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "50f0c61616a19a8a"
   },
   {
    "source_id": "manual_ia",
