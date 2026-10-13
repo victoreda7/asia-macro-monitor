@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T22:52:42.667194+00:00
+Última coleta: 2026-10-13T23:02:41.190171+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
   🇨🇳 China          833
-  🇹🇼 Taiwan         298
-  🇰🇷 Coreia do Sul  732
+  🇹🇼 Taiwan         299
+  🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [korea] 'Brutal session' for chip stocks shows AI trade is turning
   - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
   - [japan] Japan looks for off-ramp from Trump's ICC feud before US sanctions kick in
+  - [taiwan] Taiwan’s GDP to reach 10.7%, IMF says
   - [korea] Korea launches chip policy office to fast-track W800tr investments
   - [china] Shares of U.S. chip companies extend decline as China memory report and concerns about AI spending hit the sec
   - [china] US chip stocks extend slide as China memory report, AI spending jitters hit sector
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] High approval rate for the city cabinet: 51%, 32% disapproval, NHK survey
   - [japan] Mapping the Market: 'Death cross' bodes more trouble for peso against resurgent yen
   - [japan] Rupee extends surge; Dollar consolidates near peaks ahead of inflation data
-  - [korea] South Korea central bank to keep policy restrictive until inflation hits target, governor says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T22:52:42+00:00",
+      "published_utc": "2026-10-13T23:02:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

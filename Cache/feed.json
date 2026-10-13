@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-13T22:52:42.667194+00:00",
- "collected_at_utc": "2026-10-13T22:52:42.667194+00:00",
+ "generated_at_utc": "2026-10-13T23:02:41.190171+00:00",
+ "collected_at_utc": "2026-10-13T23:02:41.190171+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1137,
   "china": 833,
-  "taiwan": 298,
-  "korea": 732
+  "taiwan": 299,
+  "korea": 731
  },
  "elapsed_s": 29.4,
  "sources": [
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "name": "Taipei Times",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T22:36:26+00:00"
+   "newest": "2026-10-13T22:48:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -155,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T05:14:00+00:00"
+   "newest": "2026-10-13T02:21:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -262,12 +254,20 @@
    "newest": "2026-10-13T12:00:08+00:00"
   },
   {
+   "source_id": "gn_tw_taipeitimes",
+   "name": "Taipei Times",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-13T16:00:00+00:00"
+  },
+  {
    "source_id": "tradingview_live",
    "name": "TradingView (ao vivo)",
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T22:51:00+00:00"
+   "newest": "2026-10-13T23:02:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T10:49:30+00:00"
+   "newest": "2026-10-13T22:51:07+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T07:48:56+00:00"
+   "newest": "2026-10-13T08:18:11+00:00"
   }
  ],
  "items": [
@@ -531,6 +531,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ba331fa12460c0f4"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "Taiwan’s GDP to reach 10.7%, IMF says",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3ekNjWllXeDJybG15ZGMzcm1pSFNlR0M5SEgxcW5HRnlhLUw1SjJPTnM2aFJWcFlDZkJXU1RlWnpiQXFTMWd2OEJORU5lRXRock9Ha05EZ3c2bWJnOWVfeE05RGVFZm9SQlltN3RHbW4wNXpXX20xbA?oc=5",
+   "published_utc": "2026-10-13T16:00:00+00:00",
+   "title_original": "Taiwan’s GDP to reach 10.7%, IMF says",
+   "region": "taiwan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d04de1ab7b1e077a"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51921,25 +51938,6 @@
    "live_wire": false,
    "manual": false,
    "id": "07ceb675d6e20fc5"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "'Oil prices soar', high inflation and US monetary policy... Will the Bank of Korea extend its tightening pace?",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VV2VHRlNldGNMd3pDUjBhV1NrUEJpalRhU29nRjd1VHc2cFFGaS1vSmdKNWZzeVZ6NW0wZC12MGhpdnZsOHc?oc=5",
-   "published_utc": "2026-09-14T05:47:00+00:00",
-   "title_original": "'유가 급등' 고물가에 미 통화정책까지⋯한은 긴축 보폭 넓히나",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f253223bbf3c75f2"
   },
   {
    "source_id": "manual_ia",
