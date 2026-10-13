@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T10:32:44.237130+00:00
+Última coleta: 2026-10-13T10:42:43.091976+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1140
-  🇨🇳 China          831
+  🇨🇳 China          830
   🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi tumbles as chip rout deepens, briefly breaking below 6,000
   - [korea] Korean Won, New Taiwan Dollar Underperform Amid Chip-Stock Selloff — Market Talk
   - [korea] UnitedHealth, JPMorgan, Six Flags, SK Hynix, and More Stocks That Explain Today's Market — Barrons.com
   - [japan] "Cabinet approval rate" is also one of the indicators of government management
@@ -54,7 +55,6 @@ Total: 3000 manchetes
   - [japan] Stock prices have fallen significantly due to concerns about intensifying competition in the AI ​​and semicond
   - [korea] (2nd LD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes
   - [taiwan] TSMC, Intel supplier Qnity bets on local production to win business
-  - [korea] Kospi tumbles as chip rout deepens, briefly breaking below 6,000
   - [china] South Africa Factories Crater as China Imports Stunt Revival
   - [korea] Foreign selloff sends Kospi down 5.5% as chip giants tumble
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T10:32:44+00:00",
+      "published_utc": "2026-10-13T10:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
