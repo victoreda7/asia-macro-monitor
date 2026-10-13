@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T03:52:43.952638+00:00
-Total: 2973 manchetes
+Última coleta: 2026-10-13T04:02:42.143153+00:00
+Total: 2975 manchetes
 
   🇯🇵 Japão          1131
-  🇨🇳 China          826
+  🇨🇳 China          827
   🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  723
+  🇰🇷 Coreia do Sul  724
 
 ## O que já está no feed (não repita)
 
-  - [taiwan] IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%
+  - [china] China to Cut New Energy Vehicle Export Tax Rebate to 9% From April 2027
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks
+  - [taiwan] IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%
   - [china] Yuan holds firm near 2023 highs despite dollar strength
   - [taiwan] TSMC Revenue Growth Upgrade a 'Live Possibility' — Market Talk
   - [taiwan] TSMC, ASML earnings on tap: Bull and bear cases for tech outlined
@@ -56,7 +57,6 @@ Total: 2973 manchetes
   - [china] Goldman Says Markets Are Underestimating How Far Yuan Can Rise
   - [china] On October 13, the central bank launched a 65 billion yuan 7-day reverse repurchase operation.
   - [japan] Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Oct 20
-  - [china] Exclusive | China’s finance minister to deliver opening speech at Apec meeting in Hong Kong
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2973 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T03:52:44+00:00",
+      "published_utc": "2026-10-13T04:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

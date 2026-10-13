@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-13T03:52:43.952638+00:00",
- "collected_at_utc": "2026-10-13T03:52:43.952638+00:00",
+ "generated_at_utc": "2026-10-13T04:02:42.143153+00:00",
+ "collected_at_utc": "2026-10-13T04:02:42.143153+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2973,
+ "count": 2975,
  "by_region": {
   "japan": 1131,
-  "china": 826,
+  "china": 827,
   "taiwan": 293,
-  "korea": 723
+  "korea": 724
  },
  "elapsed_s": 29.6,
  "sources": [
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T03:31:13+00:00"
+   "newest": "2026-10-13T03:53:32+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T03:24:22+00:00"
+   "newest": "2026-10-13T03:53:32+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T02:23:00+00:00"
+   "newest": "2026-10-13T01:44:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-12T23:25:50+00:00"
+   "newest": "2026-10-13T04:00:14+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T03:43:00+00:00"
+   "newest": "2026-10-13T04:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T03:13:01+00:00"
+   "newest": "2026-10-13T03:45:35+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,40 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China to Cut New Energy Vehicle Export Tax Rebate to 9% From April 2027",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012007814:0-china-to-cut-new-energy-vehicle-export-tax-rebate-to-9-from-april-2027/",
+   "published_utc": "2026-10-13T03:58:00+00:00",
+   "title_original": "China to Cut New Energy Vehicle Export Tax Rebate to 9% From April 2027",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1cb76d35149af69a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korea's Kospi Slumps on Selloff in Chip Stocks",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012007810:0-south-korea-s-kospi-slumps-on-selloff-in-chip-stocks/",
+   "published_utc": "2026-10-13T03:52:00+00:00",
+   "title_original": "South Korea's Kospi Slumps on Selloff in Chip Stocks",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "20b432d37bb60f02"
+  },
+  {
    "source_id": "gn_tw_focus",
    "source_name": "Focus Taiwan",
    "title_en": "IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%",
@@ -360,23 +394,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7b3ca40a22b3650a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea's Kospi Slumps on Selloff in Chip Stocks",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012007727:0-south-korea-s-kospi-slumps-on-selloff-in-chip-stocks/",
-   "published_utc": "2026-10-13T03:37:00+00:00",
-   "title_original": "South Korea's Kospi Slumps on Selloff in Chip Stocks",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2459290685315ab4"
   },
   {
    "source_id": "tradingview_live",
@@ -3457,6 +3474,23 @@
    "id": "5270cc283ed4ea36"
   },
   {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "Gold eases on strong dollar, oil prices; US inflation data eyed",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5",
+   "published_utc": "2026-10-12T03:13:00+00:00",
+   "title_original": "Gold eases on strong dollar, oil prices; US inflation data eyed",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "090059f649f45af0"
+  },
+  {
    "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Gold gains on weaker oil, dollar; US inflation data in focus",
@@ -3789,7 +3823,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 302 billion yuan reverse repo expires this week, and the 500 billion yuan buyout expires on Thursday.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zU1kydF8yQWI4djFDWFRFaFdkbVh6eUJxZWhXNTlzS0E3d1h6SFNSMnQwSUt4bmNhN3RoTnF2QXJUWXlzNHhxajVrNzBxQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84NS1JZWNGdTRJVGV0WmdYUS1uN29ac3lMaVM2bE03Tl9qdkppbThaVUowU05yOVl4cUFqdHdncE5yRWRQMjFBa2tsTVpsQ3RMYmdWNUxGdWN4NkphaVFQTzNn?oc=5",
    "published_utc": "2026-10-12T00:51:47+00:00",
    "title_original": "本周央行3020亿元逆回购到期 5000亿元买断式周四到期",
    "region": "china",
@@ -3801,7 +3835,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fde8e61754043213"
+   "id": "25e47331a55dbf6f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -4718,8 +4752,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -4732,7 +4766,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -5663,8 +5697,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -5678,7 +5712,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -5869,8 +5903,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -5884,7 +5918,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -6738,8 +6772,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -6753,7 +6787,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
