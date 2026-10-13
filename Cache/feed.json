@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-12T23:52:43.937517+00:00",
- "collected_at_utc": "2026-10-12T23:52:43.937517+00:00",
+ "generated_at_utc": "2026-10-13T00:02:43.793681+00:00",
+ "collected_at_utc": "2026-10-13T00:02:43.793681+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 2916,
  "by_region": {
-  "japan": 1109,
+  "japan": 1110,
   "china": 812,
   "taiwan": 284,
-  "korea": 711
+  "korea": 710
  },
  "elapsed_s": 29.6,
  "sources": [
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -166,14 +174,6 @@
    "newest": "2026-10-09T07:00:00+00:00"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-12T13:21:41+00:00"
-  },
-  {
    "source_id": "nhk_politics",
    "name": "NHK 政治",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-12T23:50:04+00:00"
+   "newest": "2026-10-13T00:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN SEPT PRODUCER PRICES -0.3% M/M (AUG REVISED TO -0.3% FROM -0.2%); 2ND STRAIGHT DROP; MEDIAN FORECAST +0.5%",
+   "url": "https://www.tradingview.com/news/macenews:65c97d195094b:0-japan-sept-producer-prices-0-3-m-m-aug-revised-to-0-3-from-0-2-2nd-straight-drop-median-forecast-0-5/",
+   "published_utc": "2026-10-12T23:52:00+00:00",
+   "title_original": "JAPAN SEPT PRODUCER PRICES -0.3% M/M (AUG REVISED TO -0.3% FROM -0.2%); 2ND STRAIGHT DROP; MEDIAN FORECAST +0.5%",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "66f6a5817dc63b06"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -1867,23 +1884,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ea9f5daefe367080"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Kospi Falls for Fourth Straight Session; Chip Stocks Retreat",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012000663_20261012000668:0-kospi-falls-for-fourth-straight-session-chip-stocks-retreat/",
-   "published_utc": "2026-10-12T06:34:00+00:00",
-   "title_original": "Kospi Falls for Fourth Straight Session; Chip Stocks Retreat",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e03340bf995597ec"
   },
   {
    "source_id": "gn_kr_yonhap",
