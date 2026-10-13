@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T09:52:43.764550+00:00
+Última coleta: 2026-10-13T10:02:45.786223+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1134
-  🇨🇳 China          835
+  🇯🇵 Japão          1138
+  🇨🇳 China          832
   🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  734
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [japan] Support rate for each party: “Liberal Democratic Party” 35.3% “No support” 38.5% NHK public opinion poll
+  - [japan] High approval rate for the city cabinet: 51%, 32% disapproval, NHK survey
+  - [japan] Mapping the Market: 'Death cross' bodes more trouble for peso against resurgent yen
   - [korea] South Korea central bank to keep policy restrictive until inflation hits target, governor says
   - [china] IMF Cuts China Growth Forecasts for 2026 and 2027
   - [korea] KOSPI Slumps as U.S. AI Chip Panic Spreads — Barrons.com
@@ -35,6 +38,7 @@ Total: 3000 manchetes
   - [japan] Former NHK chairman Nobuo Inaba dies at age 75, also serving as director of the Bank of Japan (Mainichi Shimbu
   - [taiwan] Taiwan panel makers enter semiconductor fight as structural challenges persist
   - [japan] Inflation expectations remain 86.5% higher in 5 years, highest level in 19 years due to Middle East impact, Ba
+  - [japan] Inflation expectations remain 86.5% higher in 5 years; Middle East impact, highest level in 19 years; Bank of 
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [japan] Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung c
   - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] 'Brutal session' for chip stocks shows AI trade is turning
   - [korea] South Korea shares tumble in chip selloff
   - [korea] Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks
-  - [china] Key facts: NASDAQ:NVDA -1.6% on Microsoft Maia; China GPUs -44%; TSMC
-  - [korea] (LEAD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes
-  - [korea] Bae Jun-young: “Bonk Governor needs to ‘reexamine the starting point’ of raising base interest rate this month
-  - [china] Asia stocks slide as chip rout deepens, Chinese automakers hit by EU trade curbs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T09:52:43+00:00",
+      "published_utc": "2026-10-13T10:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
