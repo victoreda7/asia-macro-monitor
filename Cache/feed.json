@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T12:22:44.118078+00:00",
- "collected_at_utc": "2026-10-13T12:22:44.118078+00:00",
+ "generated_at_utc": "2026-10-13T12:32:43.661090+00:00",
+ "collected_at_utc": "2026-10-13T12:32:43.661090+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1140,
-  "china": 831,
-  "taiwan": 298,
+  "china": 830,
+  "taiwan": 299,
   "korea": 731
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T08:45:39+00:00"
+   "newest": "2026-10-13T10:00:10+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T09:48:07+00:00"
+   "newest": "2026-10-13T11:44:52+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T12:22:00+00:00"
+   "newest": "2026-10-13T12:31:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "SK Hynix Stock Crashes 9% as AI Fears Trigger Asian Tech Sell-Off",
+   "url": "https://www.tradingview.com/news/gurufocus:7be9ea4ee094b:0-sk-hynix-stock-crashes-9-as-ai-fears-trigger-asian-tech-sell-off/",
+   "published_utc": "2026-10-13T12:27:35+00:00",
+   "title_original": "SK Hynix Stock Crashes 9% as AI Fears Trigger Asian Tech Sell-Off",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "50f5b3d88fc0abde"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "Nvidia Loses Ground in China as AI Chip Shipments Plunge 44%",
+   "url": "https://www.tradingview.com/news/gurufocus:2366ef1f2094b:0-nvidia-loses-ground-in-china-as-ai-chip-shipments-plunge-44/",
+   "published_utc": "2026-10-13T12:23:06+00:00",
+   "title_original": "Nvidia Loses Ground in China as AI Chip Shipments Plunge 44%",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "eb43ab25f565e3dd"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
@@ -1729,23 +1764,6 @@
    "id": "5dab876a9cd339ac"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China to Cut New Energy Vehicle Export Tax Rebate to 9% From April 2027",
-   "url": "https://www.tradingview.com/news/DJN_DN20261013000065:0-china-to-cut-new-energy-vehicle-export-tax-rebate-to-9-from-april-2027/",
-   "published_utc": "2026-10-13T04:13:00+00:00",
-   "title_original": "China to Cut New Energy Vehicle Export Tax Rebate to 9% From April 2027",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e6acf45fceb940ba"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Taiwan Finance Minister to attend APEC meeting in Hong Kong next week (Reuters)",
@@ -1796,23 +1814,6 @@
    "live_wire": false,
    "manual": false,
    "id": "efbce6d95328c90f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Xpeng Vice Chairman Welcomes EU-China Hybrid Import Cap Deal",
-   "url": "https://www.tradingview.com/news/binance_news:571fab4d2094b:0-xpeng-vice-chairman-welcomes-eu-china-hybrid-import-cap-deal/",
-   "published_utc": "2026-10-13T04:06:42+00:00",
-   "title_original": "Xpeng Vice Chairman Welcomes EU-China Hybrid Import Cap Deal",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7078e633869804a0"
   },
   {
    "source_id": "focus_taiwan",
@@ -2685,6 +2686,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ba084194e8b000b5"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
+   "published_utc": "2026-10-12T20:22:23+00:00",
+   "title_original": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fd4f4437bfb24677"
   },
   {
    "source_id": "investing_live",
@@ -5723,13 +5741,13 @@
    "id": "a64d9291b255f33b"
   },
   {
-   "source_id": "gn_kr_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
    "published_utc": "2026-10-11T07:00:00+00:00",
    "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "region": "korea",
+   "region": "taiwan",
    "topics": [
     "trade"
    ],
@@ -5737,7 +5755,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d7d0d81b05ec0a14"
+   "id": "718b4c2f74b8df7d"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5928,8 +5946,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5942,7 +5960,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -6873,8 +6891,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6888,7 +6906,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -7079,8 +7097,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -7094,7 +7112,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -7965,8 +7983,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7980,7 +7998,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51924,24 +51942,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8af589d04bbcd136"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "TSMC Accelerates Co-Packaged Optics Push as AI Interconnect Limits Tighten",
-   "url": "https://www.tradingview.com/news/binance_news:6d87bd24d094b:0-tsmc-accelerates-co-packaged-optics-push-as-ai-interconnect-limits-tighten/",
-   "published_utc": "2026-09-14T02:54:15+00:00",
-   "title_original": "TSMC Accelerates Co-Packaged Optics Push as AI Interconnect Limits Tighten",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d9fee0f8b6da5bdf"
   },
   {
    "source_id": "manual_ia",

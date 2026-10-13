@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T12:22:44.118078+00:00
+Última coleta: 2026-10-13T12:32:43.661090+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1140
-  🇨🇳 China          831
-  🇹🇼 Taiwan         298
+  🇨🇳 China          830
+  🇹🇼 Taiwan         299
   🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix Stock Crashes 9% as AI Fears Trigger Asian Tech Sell-Off
+  - [china] Nvidia Loses Ground in China as AI Chip Shipments Plunge 44%
   - [taiwan] Qnity Bets On Local Production To Win More AI Chip Business From Nvidia, TSMC – CEO Touts ‘Local-For-Local’ St
   - [korea] Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility
   - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Inflation expectations remain 86.5% higher in 5 years, highest level in 19 years due to Middle East impact, Ba
   - [japan] Inflation expectations remain 86.5% higher in 5 years; Middle East impact, highest level in 19 years; Bank of 
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
-  - [japan] Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung c
-  - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T12:22:44+00:00",
+      "published_utc": "2026-10-13T12:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
