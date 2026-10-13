@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T05:52:43.721152+00:00
-Total: 2991 manchetes
+Última coleta: 2026-10-13T06:02:45.155598+00:00
+Total: 2993 manchetes
 
   🇯🇵 Japão          1139
-  🇨🇳 China          831
-  🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  724
+  🇨🇳 China          832
+  🇹🇼 Taiwan         296
+  🇰🇷 Coreia do Sul  726
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea launches chip policy office to fast-track W800tr investments
+  - [china] Nvidia AI chip share in China falls as Huawei catches up- Reuters
   - [korea] SK Hynix in extreme oversold freefall near KRW 1,439,000: Live
   - [japan] 88.6% of Japan households expect prices to rise a year from now, BOJ says By Reuters
   - [japan] Asian brands tighten grip on Tokyo's high-end shopping districts
@@ -55,8 +57,6 @@ Total: 2991 manchetes
   - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
   - [korea] IMF Raises 2026 South Korea Growth Forecast to 3.3% From 2.6%
   - [japan] IMF Raises 2026 Japan Growth Forecast to 0.7% From 0.6%
-  - [china] IMF Lowers 2027 China Economic Growth Forecast to 4.0% From 4.1%
-  - [china] IMF Lowers 2026 China Economic Growth Forecast to 4.5% From 4.6%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2991 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T05:52:43+00:00",
+      "published_utc": "2026-10-13T06:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
