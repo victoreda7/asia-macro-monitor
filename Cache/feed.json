@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-13T17:02:42.573335+00:00",
- "collected_at_utc": "2026-10-13T17:02:42.573335+00:00",
+ "generated_at_utc": "2026-10-13T17:05:30.733244+00:00",
+ "collected_at_utc": "2026-10-13T17:05:30.733244+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -13,14 +13,6 @@
  },
  "elapsed_s": 29.7,
  "sources": [
-  {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -254,6 +246,14 @@
    "newest": "2026-10-13T15:02:49+00:00"
   },
   {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-13T11:00:12+00:00"
+  },
+  {
    "source_id": "gn_tw_taipeitimes",
    "name": "Taipei Times",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T17:02:04+00:00"
+   "newest": "2026-10-13T17:05:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
