@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T16:02:45.268792+00:00
+Última coleta: 2026-10-13T16:12:45.333298+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1138
@@ -39,6 +39,7 @@ Total: 3000 manchetes
   - [japan] Asia report: Nikkei, KOSPI post big losses as chipmakers drop
   - [korea] Hong Ra-hee to Gift 11.15 Million Samsung Electronics Shares to Lee Jae-yong
   - [china] E-House (China) Enterprise Says Grand Court Of Cayman Islands Sanctions Cayman Scheme
+  - [china] ‘Easy money is past’: why investors are rethinking the AI memory-chip trade
   - [korea] Korean Won, New Taiwan Dollar Underperform Amid Chip-Stock Selloff — Market Talk
   - [korea] UnitedHealth, JPMorgan, Six Flags, SK Hynix, and More Stocks That Explain Today's Market — Barrons.com
   - [japan] "Cabinet approval rate" is also one of the indicators of government management
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The Ministry of Finance and Economy announced an administrative notice on the 13th to raise the pre
   - [japan] Former NHK Chairman Nobuo Inaba dies at age 75, former Bank of Japan board member (Jiji Press)
   - [japan] More than 80% expect prices to rise in five years' time Bank of Japan survey on lifestyle awareness (TV Asahi 
-  - [korea] Commercial banks are offering non-face-to-face real estate mortgage loans for private businesses. Th..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T16:02:45+00:00",
+      "published_utc": "2026-10-13T16:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
