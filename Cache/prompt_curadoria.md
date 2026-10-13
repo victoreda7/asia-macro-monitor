@@ -7,18 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T03:32:43.428825+00:00
-Total: 2966 manchetes
+Última coleta: 2026-10-13T03:45:17.231151+00:00
+Total: 2971 manchetes
 
   🇯🇵 Japão          1130
-  🇨🇳 China          824
-  🇹🇼 Taiwan         290
-  🇰🇷 Coreia do Sul  722
+  🇨🇳 China          826
+  🇹🇼 Taiwan         292
+  🇰🇷 Coreia do Sul  723
 
 ## O que já está no feed (não repita)
 
-  - [korea] South Korean Won Retreats from 2-Year High
+  - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks
+  - [china] Yuan holds firm near 2023 highs despite dollar strength
+  - [taiwan] TSMC Revenue Growth Upgrade a 'Live Possibility' — Market Talk
+  - [taiwan] TSMC, ASML earnings on tap: Bull and bear cases for tech outlined
   - [korea] South Korea’s Lee says country cannot avoid raising interest rates
+  - [china] Asia stocks slide as China chip threat hits Samsung, SK Hynix; oil retreats
+  - [korea] South Korean Won Retreats from 2-Year High
   - [japan] [Illustration] Corporate prices rise 6.8% in September = growth slows due to fall in rice prices - Bank of Jap
   - [korea] Samsung, SK Hynix shares plunge on China competition fears
   - [china] Offshore Yuan Steady Vs. Dollar Ahead of Major Chinese Economic Data — Market Talk
@@ -52,11 +57,6 @@ Total: 2966 manchetes
   - [china] Exclusive | China’s finance minister to deliver opening speech at Apec meeting in Hong Kong
   - [korea] Foreign selling slams Kospi as China chip fears hit Samsung, SK Hynix
   - [japan] Japan’s wholesale inflation remains elevated, keeps alive BOJ rate-hike view
-  - [korea] Seoul shares open sharply lower on U.S. losses, inflation concerns
-  - [korea] Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks
-  - [korea] (LEAD) Seoul shares open sharply lower on U.S. losses, inflation concerns
-  - [taiwan] Podcast highlights: Is Elon Musk using TSMC talks as leverage against Intel and Samsung?
-  - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2966 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T03:32:43+00:00",
+      "published_utc": "2026-10-13T03:45:17+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
