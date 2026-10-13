@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T10:12:43.968323+00:00
+Última coleta: 2026-10-13T10:22:43.239412+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1140
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korean Won, New Taiwan Dollar Underperform Amid Chip-Stock Selloff — Market Talk
+  - [korea] UnitedHealth, JPMorgan, Six Flags, SK Hynix, and More Stocks That Explain Today's Market — Barrons.com
   - [japan] "Cabinet approval rate" is also one of the indicators of government management
   - [japan] Support rate for each party: “Liberal Democratic Party” 35.3% “No support” 38.5% NHK public opinion poll
   - [japan] High approval rate for the city cabinet: 51%, 32% disapproval, NHK survey
@@ -30,6 +32,7 @@ Total: 3000 manchetes
   - [china] Chip selloff deepens amid AI trade fears, rising Chinese competition
   - [korea] The Ministry of Finance and Economy announced an administrative notice on the 13th to raise the pre
   - [japan] Former NHK Chairman Nobuo Inaba dies at age 75, former Bank of Japan board member (Jiji Press)
+  - [japan] More than 80% expect prices to rise in five years' time Bank of Japan survey on lifestyle awareness (TV Asahi 
   - [korea] Commercial banks are offering non-face-to-face real estate mortgage loans for private businesses. Th..
   - [korea] [Photo] Export-import silver supports independence of isolated youth
   - [korea] Samsung Electronics chairman Lee to receive 2.6 trillion won worth of shares from mother, reports say
@@ -45,6 +48,7 @@ Total: 3000 manchetes
   - [japan] Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung c
   - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
   - [china] China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk
+  - [korea] “We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October
   - [japan] Individuals' inflation expectations remain high: 86.5% that prices will rise in five years' time Bank of Japan
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
   - [japan] Stock prices have fallen significantly due to concerns about intensifying competition in the AI ​​and semicond
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi tumbles as chip rout deepens, briefly breaking below 6,000
   - [china] South Africa Factories Crater as China Imports Stunt Revival
   - [korea] Foreign selloff sends Kospi down 5.5% as chip giants tumble
-  - [china] China’s exports seen growing at faster pace in September: Reuters Poll
-  - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
-  - [korea] 'Brutal session' for chip stocks shows AI trade is turning
-  - [korea] South Korea shares tumble in chip selloff
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T10:12:44+00:00",
+      "published_utc": "2026-10-13T10:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
