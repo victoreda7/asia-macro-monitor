@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T18:12:44.099449+00:00
+Última coleta: 2026-10-13T18:22:50.364424+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1138
-  🇨🇳 China          829
+  🇯🇵 Japão          1137
+  🇨🇳 China          830
   🇹🇼 Taiwan         298
   🇰🇷 Coreia do Sul  735
 
 ## O que já está no feed (não repita)
 
+  - [china] Micron Stock Is Falling. Elon Musk's Comments on Chinese Chips Aren't Helping. — Barrons.com
   - [china] China’s Magnet Export Crackdown Is Putting Companies Like Evolution Metals in the Spotlight (NASDAQ: EMAT)
   - [korea] Chip Stocks Slide as South Korea's KOSPI Plunges, J&J Sinks 6%: Stock Market Today
   - [korea] 'Brutal session' for chip stocks shows AI trade is turning
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] 88% of people expect prices to rise one year from now, Bank of Japan's September lifestyle awareness survey (K
   - [china] Chip selloff deepens amid AI trade fears, rising Chinese competition
   - [korea] Starting next year, state subsidies per hydrogen car will be reduced to 20 million won, 11.1% less t..
-  - [korea] The Ministry of Finance and Economy announced an administrative notice on the 13th to raise the pre
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T18:12:44+00:00",
+      "published_utc": "2026-10-13T18:22:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
