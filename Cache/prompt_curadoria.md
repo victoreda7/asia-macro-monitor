@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T09:22:43.944841+00:00
+Última coleta: 2026-10-13T09:32:45.309978+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1136
-  🇨🇳 China          834
+  🇯🇵 Japão          1134
+  🇨🇳 China          836
   🇹🇼 Taiwan         297
   🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [china] IMF Cuts China Growth Forecasts for 2026 and 2027
   - [korea] KOSPI Slumps as U.S. AI Chip Panic Spreads — Barrons.com
   - [japan] Intervention Risk Limits Yen Falls Against Dollar — Market Talk
   - [japan] 88% of people expect prices to rise one year from now, Bank of Japan's September lifestyle awareness survey (K
@@ -36,12 +37,14 @@ Total: 3000 manchetes
   - [japan] Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung c
   - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
   - [china] China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk
+  - [korea] “We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October
   - [japan] Individuals' inflation expectations remain high: 86.5% that prices will rise in five years' time Bank of Japan
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
   - [japan] Stock prices have fallen significantly due to concerns about intensifying competition in the AI ​​and semicond
   - [korea] (2nd LD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes
   - [taiwan] TSMC, Intel supplier Qnity bets on local production to win business
   - [korea] Kospi tumbles as chip rout deepens, briefly breaking below 6,000
+  - [china] South Africa Factories Crater as China Imports Stunt Revival
   - [korea] Foreign selloff sends Kospi down 5.5% as chip giants tumble
   - [china] China’s exports seen growing at faster pace in September: Reuters Poll
   - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar Likely to Trade in 157.50-159.30 Yen Range This Week — Market Talk
   - [korea] Kospi Falls for Fifth Consecutive Session on Chip Selloff
   - [china] Why are Chinese car exports soaring? Europe is responding
-  - [korea] Korean Chip Stocks' Retreat Partly Reflect Skepticism About Earnings Sustainability — Market Talk
-  - [china] Tencent prepares $4.5B+ dollar and yuan bond offering for AI capex
-  - [korea] Korea launches chip policy office to fast-track W800tr investments
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T09:22:44+00:00",
+      "published_utc": "2026-10-13T09:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
