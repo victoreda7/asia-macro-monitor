@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T07:22:42.704749+00:00
+Última coleta: 2026-10-13T07:32:45.602102+00:00
 Total: 2999 manchetes
 
-  🇯🇵 Japão          1135
-  🇨🇳 China          834
-  🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  733
+  🇯🇵 Japão          1134
+  🇨🇳 China          833
+  🇹🇼 Taiwan         298
+  🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC, Intel supplier Qnity bets on local production to win business
+  - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
   - [korea] Foreign selloff sends Kospi down 5.5% as chip giants tumble
   - [china] China’s exports seen growing at faster pace in September: Reuters Poll
   - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
@@ -55,8 +57,6 @@ Total: 2999 manchetes
   - [taiwan] TSMC Revenue Growth Upgrade a 'Live Possibility' — Market Talk
   - [taiwan] Taiwan finance minister to attend APEC meeting in Hong Kong
   - [taiwan] TSMC, ASML earnings on tap: Bull and bear cases for tech outlined
-  - [korea] South Korea’s Lee says country cannot avoid raising interest rates
-  - [korea] South Korean Won Retreats from 2-Year High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2999 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T07:22:42+00:00",
+      "published_utc": "2026-10-13T07:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
