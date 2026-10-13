@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T00:22:45.773282+00:00
-Total: 2927 manchetes
+Última coleta: 2026-10-13T00:32:42.048175+00:00
+Total: 2930 manchetes
 
   🇯🇵 Japão          1122
   🇨🇳 China          811
-  🇹🇼 Taiwan         284
-  🇰🇷 Coreia do Sul  710
+  🇹🇼 Taiwan         286
+  🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [korea] (LEAD) Seoul shares open sharply lower on U.S. losses, inflation concerns
+  - [taiwan] Podcast highlights: Is Elon Musk using TSMC talks as leverage against Intel and Samsung?
   - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com
   - [japan] JAPAN SEPT CORP GOODS PRICE INDEX -0.3% M/M; AUG -0.3%
   - [japan] September corporate price index increased by 6.8% compared to the same month last year
@@ -26,6 +28,7 @@ Total: 2927 manchetes
   - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil
   - [japan] JAPAN SEPT CGPI: KEY ENERGY PRICES; CRUDE OIL/COAL PRODUCTS +11.5% Y/Y VS. AUG +14.7%
   - [japan] Domestic corporate goods prices rose 6.8% year-on-year in September, growth rate slowed from the previous mont
+  - [taiwan] Geothermal power too costly for chipmakers? Taiwan's semiconductor industry sees value beyond electricity pric
   - [korea] (URGENT) Seoul shares open sharply lower on U.S. losses, inflation concerns
   - [japan] Corporate prices rise 6.8% in September Bank of Japan (Jiji Press)
   - [japan] Japan Producer Prices Rise the Least in 4 Months
@@ -54,9 +57,6 @@ Total: 2927 manchetes
   - [china] BYD sees tariff pressure linked to EU-China deal as short term
   - [taiwan] Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300
   - [taiwan] Nanya Technology expects DRAM prices, margins to rise in Q4
-  - [korea] ASML to raise prices of chipmaking parts for Samsung, SK Hynix by 10%: report
-  - [china] EU eyes December trade initiatives after China car import deal
-  - [taiwan] Taiwan condemns China over sanctions on ministers of diplomatic allies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2927 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T00:22:45+00:00",
+      "published_utc": "2026-10-13T00:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
