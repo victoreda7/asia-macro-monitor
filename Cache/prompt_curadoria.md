@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T02:42:43.930081+00:00
-Total: 2957 manchetes
+Última coleta: 2026-10-13T02:52:42.159101+00:00
+Total: 2960 manchetes
 
   🇯🇵 Japão          1128
-  🇨🇳 China          821
+  🇨🇳 China          823
   🇹🇼 Taiwan         289
-  🇰🇷 Coreia do Sul  719
+  🇰🇷 Coreia do Sul  720
 
 ## O que já está no feed (não repita)
 
+  - [china] Offshore Yuan Steady Vs. Dollar Ahead of Major Chinese Economic Data — Market Talk
+  - [korea] South Korea's Lee says country cannot avoid raising interest rates
   - [korea] Why is Samsung Electronics stock plunging today?
   - [korea] Why is SK Hynix stock plunging today?
   - [korea] IMF Chief Economist: Outlook for AI Supply Chain Econs Like South Korea, Singapore, Vietnam Raised Significant
@@ -38,6 +40,7 @@ Total: 2957 manchetes
   - [china] CHINA PBOC CONDUCTS CNY65 BLN VIA 7-DAY REVERSE REPO TUES
   - [china] The central bank launched a 65 billion yuan 7-day reverse repurchase operation today
   - [china] SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector
+  - [china] Goldman Says Markets Are Underestimating How Far Yuan Can Rise
   - [china] On October 13, the central bank launched a 65 billion yuan 7-day reverse repurchase operation.
   - [japan] Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Oct 20
   - [china] Exclusive | China’s finance minister to deliver opening speech at Apec meeting in Hong Kong
@@ -54,9 +57,6 @@ Total: 2957 manchetes
   - [japan] September corporate price index rose 6.8% to 135.7...Bank of Japan announced (Yomiuri Shimbun Online)
   - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil
   - [japan] JAPAN SEPT CGPI: KEY ENERGY PRICES; CRUDE OIL/COAL PRODUCTS +11.5% Y/Y VS. AUG +14.7%
-  - [japan] Domestic corporate goods prices rose 6.8% year-on-year in September, growth rate slowed from the previous mont
-  - [taiwan] Geothermal power too costly for chipmakers? Taiwan's semiconductor industry sees value beyond electricity pric
-  - [korea] (URGENT) Seoul shares open sharply lower on U.S. losses, inflation concerns
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2957 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T02:42:44+00:00",
+      "published_utc": "2026-10-13T02:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
