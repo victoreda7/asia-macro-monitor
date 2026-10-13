@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T07:12:41.944089+00:00",
- "collected_at_utc": "2026-10-13T07:12:41.944089+00:00",
+ "generated_at_utc": "2026-10-13T07:22:42.704749+00:00",
+ "collected_at_utc": "2026-10-13T07:22:42.704749+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2998,
+ "count": 2999,
  "by_region": {
-  "japan": 1134,
-  "china": 835,
+  "japan": 1135,
+  "china": 834,
   "taiwan": 297,
-  "korea": 732
+  "korea": 733
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T02:32:00+00:00"
+   "newest": "2026-10-12T08:12:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 42,
+   "count": 48,
    "error": "",
-   "newest": "2026-10-13T12:47:55+08:00"
+   "newest": "2026-10-13T14:51:10+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T06:48:20+00:00"
+   "newest": "2026-10-13T07:17:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T06:43:31+00:00"
+   "newest": "2026-10-13T07:13:07+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-13T16:10:03+00:00"
+   "newest": "2026-10-13T16:21:09+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T14:58:21+09:00"
+   "newest": "2026-10-13T14:58:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T03:24:00+00:00"
+   "newest": "2026-10-13T01:55:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-13T04:00:14+00:00"
+   "newest": "2026-10-13T07:20:27+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T07:11:39+00:00"
+   "newest": "2026-10-13T07:21:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Foreign selloff sends Kospi down 5.5% as chip giants tumble",
+   "url": "https://www.koreaherald.com/article/10901317",
+   "published_utc": "2026-10-13T07:22:41.694344+00:00",
+   "title_original": "Foreign selloff sends Kospi down 5.5% as chip giants tumble",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "723d233b0c3737e6"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China’s exports seen growing at faster pace in September: Reuters Poll",
+   "url": "https://www.investing.com/news/economy-news/chinas-exports-seen-growing-at-faster-pace-in-september-reuters-poll-4945522",
+   "published_utc": "2026-10-13T07:13:07+00:00",
+   "title_original": "China’s exports seen growing at faster pace in September: Reuters Poll",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "72ffebe2db212b7e"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -478,23 +512,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a75fce34819dcbd8"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China’s exports seen growing at faster pace in September: Reuters Poll",
-   "url": "https://www.investing.com/news/economy-news/chinas-exports-seen-growing-at-faster-pace-in-september-reuters-poll-4945522",
-   "published_utc": "2026-10-13T06:30:37+00:00",
-   "title_original": "China’s exports seen growing at faster pace in September: Reuters Poll",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "72ffebe2db212b7e"
   },
   {
    "source_id": "yahoo_business",
@@ -651,6 +668,24 @@
    "live_wire": false,
    "manual": false,
    "id": "7053fdc908eeff53"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "86.5% of households expect prices to rise five years from now, the highest level in nine years as prices rise - Bank of Japan (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXpFQmMyV19hUUNtOXdxOHk5MUd3QTlrQW1jZnRRc3NmSEZiWkM3UUVNUWdfdUpKZmRqeGl3dDFYa1FZWGFNMmlEeWVYQmc3RDBvTVE2SHMwaHdlRHMyX294cXF4eF9VLU16UnBBRmN3SlBQeHhsc0tPZms5TWd5c1hmTkxpN1J5ZEswUDBn?oc=5",
+   "published_utc": "2026-10-13T04:57:29+00:00",
+   "title_original": "家計の物価予想、5年後「上がる」86.5％ 値上げ進み9年ぶり高水準＝日銀 (ロイター)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5f6610fd10960be"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5238,8 +5273,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5252,7 +5287,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -6166,8 +6201,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6181,7 +6216,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -6372,8 +6407,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -6387,7 +6422,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "tradingview_live",
@@ -7241,8 +7276,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7256,7 +7291,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51893,24 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d07dffae2157171f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "凤凰网财经",
-   "title_en": "Important signal, for 4 consecutive days, the central bank is about to operate",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zem9vWF93SXVEa2NTQ1hXeTVuTkxFRENvYzhJdDV4eGxQX0lzeC1Qa3F4a19xRUxUX1R2SlN0UGctWTRFdWlRYlR2TExEWENs?oc=5",
-   "published_utc": "2026-09-13T07:14:49+00:00",
-   "title_original": "重要信号，连续4天，央行即将操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ebe0dce9966e7b2c"
   },
   {
    "source_id": "manual_ia",

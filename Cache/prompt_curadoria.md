@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T07:12:41.944089+00:00
-Total: 2998 manchetes
+Última coleta: 2026-10-13T07:22:42.704749+00:00
+Total: 2999 manchetes
 
-  🇯🇵 Japão          1134
-  🇨🇳 China          835
+  🇯🇵 Japão          1135
+  🇨🇳 China          834
   🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [korea] Foreign selloff sends Kospi down 5.5% as chip giants tumble
+  - [china] China’s exports seen growing at faster pace in September: Reuters Poll
   - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
   - [korea] South Korea shares tumble in chip selloff
   - [china] Key facts: NASDAQ:NVDA -1.6% on Microsoft Maia; China GPUs -44%; TSMC
@@ -25,7 +27,6 @@ Total: 2998 manchetes
   - [china] Asia stocks slide as chip rout deepens, Chinese automakers hit by EU trade curbs
   - [japan] Dollar Likely to Trade in 157.50-159.30 Yen Range This Week — Market Talk
   - [korea] Kospi Falls for Fifth Consecutive Session on Chip Selloff
-  - [china] China’s exports seen growing at faster pace in September: Reuters Poll
   - [china] Why are Chinese car exports soaring? Europe is responding
   - [korea] Korean Chip Stocks' Retreat Partly Reflect Skepticism About Earnings Sustainability — Market Talk
   - [china] Tencent prepares $4.5B+ dollar and yuan bond offering for AI capex
@@ -35,6 +36,7 @@ Total: 2998 manchetes
   - [japan] 88.6% of Japan households expect prices to rise a year from now, BOJ says By Reuters
   - [japan] Asian brands tighten grip on Tokyo's high-end shopping districts
   - [japan] 86.5% of households expect prices to rise five years from now; prices continue to rise and remain at high leve
+  - [japan] 86.5% of households expect prices to rise five years from now, the highest level in nine years as prices rise 
   - [japan] It is now important to keep the underlying price level stable at around 2% - Bank of Japan Governor (Reuters)
   - [japan] Gold rebounds as dollar retreats, Middle East tensions sustain inflation concerns
   - [korea] SoftBank, SK Hynix lead Asian tech sell-off amid AI investment concerns
@@ -55,8 +57,6 @@ Total: 2998 manchetes
   - [taiwan] TSMC, ASML earnings on tap: Bull and bear cases for tech outlined
   - [korea] South Korea’s Lee says country cannot avoid raising interest rates
   - [korea] South Korean Won Retreats from 2-Year High
-  - [japan] [Illustration] Corporate prices rise 6.8% in September = growth slows due to fall in rice prices - Bank of Jap
-  - [korea] Samsung, SK Hynix shares plunge on China competition fears
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2998 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T07:12:42+00:00",
+      "published_utc": "2026-10-13T07:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
