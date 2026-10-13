@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T10:42:43.091976+00:00
+Última coleta: 2026-10-13T10:52:45.959539+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1140
-  🇨🇳 China          830
+  🇨🇳 China          831
   🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  733
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [china] E-House (China) Enterprise Says Grand Court Of Cayman Islands Sanctions Cayman Scheme
   - [korea] Kospi tumbles as chip rout deepens, briefly breaking below 6,000
   - [korea] Korean Won, New Taiwan Dollar Underperform Amid Chip-Stock Selloff — Market Talk
   - [korea] UnitedHealth, JPMorgan, Six Flags, SK Hynix, and More Stocks That Explain Today's Market — Barrons.com
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] (2nd LD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes
   - [taiwan] TSMC, Intel supplier Qnity bets on local production to win business
   - [china] South Africa Factories Crater as China Imports Stunt Revival
-  - [korea] Foreign selloff sends Kospi down 5.5% as chip giants tumble
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T10:42:43+00:00",
+      "published_utc": "2026-10-13T10:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
