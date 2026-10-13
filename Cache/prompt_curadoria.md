@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T18:32:42.778689+00:00
+Última coleta: 2026-10-13T18:42:44.851901+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
@@ -17,8 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [china] China’s Growth Seen Edging Up to 4.4% as Exports Offset Weak Demand
   - [china] Micron Stock Is Falling. Elon Musk's Comments on Chinese Chips Aren't Helping. — Barrons.com
+  - [china] China’s Growth Seen Edging Up to 4.4% as Exports Offset Weak Demand
   - [china] China’s Magnet Export Crackdown Is Putting Companies Like Evolution Metals in the Spotlight (NASDAQ: EMAT)
   - [korea] Chip Stocks Slide as South Korea's KOSPI Plunges, J&J Sinks 6%: Stock Market Today
   - [korea] 'Brutal session' for chip stocks shows AI trade is turning
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T18:32:43+00:00",
+      "published_utc": "2026-10-13T18:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
