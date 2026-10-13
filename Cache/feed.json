@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T03:12:43.106612+00:00",
- "collected_at_utc": "2026-10-13T03:12:43.106612+00:00",
+ "generated_at_utc": "2026-10-13T03:22:45.865790+00:00",
+ "collected_at_utc": "2026-10-13T03:22:45.865790+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2963,
+ "count": 2966,
  "by_region": {
-  "japan": 1130,
-  "china": 823,
+  "japan": 1131,
+  "china": 824,
   "taiwan": 290,
-  "korea": 720
+  "korea": 721
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T02:54:22+00:00"
+   "newest": "2026-10-13T03:12:44+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T02:54:22+00:00"
+   "newest": "2026-10-13T03:12:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T12:01:22+09:00"
+   "newest": "2026-10-13T12:13:19+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T01:04:00+00:00"
+   "newest": "2026-10-13T01:41:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T21:44:00+00:00"
+   "newest": "2026-10-13T01:41:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T03:10:27+00:00"
+   "newest": "2026-10-13T03:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T02:50:30+00:00"
+   "newest": "2026-10-13T03:13:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T09:38:37+00:00"
+   "newest": "2026-10-12T21:00:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korean Won Retreats from 2-Year High",
+   "url": "https://www.tradingview.com/news/te_news:591346:0-south-korean-won-retreats-from-2-year-high/",
+   "published_utc": "2026-10-13T02:59:05+00:00",
+   "title_original": "South Korean Won Retreats from 2-Year High",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e947fa75076b1922"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -411,6 +428,23 @@
    "live_wire": true,
    "manual": false,
    "id": "55cbec1801183811"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Mr. Sasaki appointed as Bank of Japan Shizuoka Branch Manager (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GYS1zS2hPSl9ZMVVVTFFXOXF4RWNNaGd4cmdzdi11dTdUNDVPbzhBY2QyUm96bWNQYjZrZXhQSlRQUjlxV0RvYlUtN0ZSbXJ2eVp5YkJwWUlxYnZDdFBidTAtNjRvSkdLeXBncnpJWjAyUloyaXd1bWpERVhXSTA?oc=5",
+   "published_utc": "2026-10-13T02:38:25+00:00",
+   "title_original": "日銀静岡支店長に佐々木氏（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1a63f526bf016caf"
   },
   {
    "source_id": "tradingview_live",
@@ -3527,6 +3561,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "手机网易网",
+   "title_en": "The central bank launched a 50 billion yuan 7-day reverse repurchase operation with an interest rate of 1.40%",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KOTdxd0hhSDlDdXNkXzNhU2pDRmJXczZPbXE0dFRtdXh0MXdnd0RGT3R1MnVWVm5uU1lmUVA0aFV0WTNTbktiVkdxLW1OWWJtUTRnYno3YmpvZWV0djhTMUR3?oc=5",
+   "published_utc": "2026-10-12T01:26:30+00:00",
+   "title_original": "央行开展500亿元7天期逆回购操作，操作利率为1.40%",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5e512d3295e5d8aa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "手机新浪网",
    "title_en": "The People's Bank of China's reverse repurchase operation achieved a net withdrawal of 250 billion yuan on the same day_7x24 News_Sina Finance",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44dE52RkxBdG5YX1VHSG9uVWR1OVNLbWxPQ08yUjlfcWVLSTJOSjd3R2I5SzU5VUNjdlJ6WWZkVV90ZFVzLVVUOGNJOA?oc=5",
@@ -4154,7 +4206,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "국민일보",
    "title_en": "The Bank of Korea predicts a ‘hawkish freeze’ in its benchmark interest rate in October… Additional tightening variables in the US",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wZlVEaGZuMWVacXVTQ0l6djFlUlJJNWUwSnAzRHFpQUh3WktBS0NlY1BELWIwUUxBVkFfMDgxQlhOSTVDdUdzUG5FN2dnZzNkTDk5cWF4LWV3dWxqNlg5bEdPbWVES2VNLWc5Q9IBbEFVX3lxTE9wZlVEaGZuMWVacXVTQ0l6djFlUlJJNWUwSnAzRHFpQUh3WktBS0NlY1BELWIwUUxBVkFfMDgxQlhOSTVDdUdzUG5FN2dnZzNkTDk5cWF4LWV3dWxqNlg5bEdPbWVES2VNLWc5Qw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80d00tSUZfUHlxcG1vWWs2alcxOWtoV2RlTFpMbWNxZWlHaGtCcGlEeDBOazNtamFPcnBaWllBR1pIaHh2V1VzZkl5NlRyZ1pfbjhmVHVzejBHM3pNVVJiZmlkVVFCb03SAWxBVV95cUxPcGZVRGhmbjFlWnF1U0NJenYxZVJSSTVlMEpwM0RxaUFId1pLQUtDZWNQRC1iMFFMQVZBXzA4MUJYTkk1Q3VHc1BuRTdnZ2czZEw5OXFheC1ld3VsajZYOWxHT21lREtlTS1nOUM?oc=5",
    "published_utc": "2026-10-11T15:21:00+00:00",
    "title_original": "한은 10월 기준금리 ‘매파적 동결’ 전망… 美 추가 긴축 변수",
    "region": "korea",
@@ -4165,7 +4217,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "82441b8a99e83485"
+   "id": "ab46e0460e9215fc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -4545,8 +4597,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -4559,7 +4611,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -5473,8 +5525,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -5488,7 +5540,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -5679,8 +5731,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -5694,7 +5746,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "tradingview_live",
@@ -6548,8 +6600,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -6563,7 +6615,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -15226,6 +15278,23 @@
    "id": "d4f69379f6a6f7c2"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
+   "published_utc": "2026-10-03T14:36:49+00:00",
+   "title_original": "Musk confirms talks with TSMC over his Texas chip factory project",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9e3fe8194e680dde"
+  },
+  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "How US-China tech ties are deepening as RISC-V chips go mainstream",
@@ -15344,23 +15413,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e5fed613cf597187"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
-   "published_utc": "2026-10-03T07:00:00+00:00",
-   "title_original": "Musk confirms talks with TSMC over his Texas chip factory project",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e3fe8194e680dde"
   },
   {
    "source_id": "tradingview_live",

@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T03:12:43.106612+00:00
-Total: 2963 manchetes
+Última coleta: 2026-10-13T03:22:45.865790+00:00
+Total: 2966 manchetes
 
-  🇯🇵 Japão          1130
-  🇨🇳 China          823
+  🇯🇵 Japão          1131
+  🇨🇳 China          824
   🇹🇼 Taiwan         290
-  🇰🇷 Coreia do Sul  720
+  🇰🇷 Coreia do Sul  721
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean Won Retreats from 2-Year High
   - [korea] South Korea’s Lee says country cannot avoid raising interest rates
   - [japan] [Illustration] Corporate prices rise 6.8% in September = growth slows due to fall in rice prices - Bank of Jap
   - [korea] Samsung, SK Hynix shares plunge on China competition fears
   - [china] Offshore Yuan Steady Vs. Dollar Ahead of Major Chinese Economic Data — Market Talk
+  - [japan] Mr. Sasaki appointed as Bank of Japan Shizuoka Branch Manager (Kyodo News)
   - [japan] Yen Gains in Post-Holiday Trading
   - [korea] Why is Samsung Electronics stock plunging today?
   - [korea] Why is SK Hynix stock plunging today?
@@ -55,8 +57,6 @@ Total: 2963 manchetes
   - [korea] (LEAD) Seoul shares open sharply lower on U.S. losses, inflation concerns
   - [taiwan] Podcast highlights: Is Elon Musk using TSMC talks as leverage against Intel and Samsung?
   - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com
-  - [japan] JAPAN SEPT CORP GOODS PRICE INDEX -0.3% M/M; AUG -0.3%
-  - [japan] JAPAN SEPT CGPI IMPORT INDEX +24.5% Y/Y IN YEN TERMS FOR 10TH STRAIGHT RISE VS. AUG REVISED UP TO +25.1% FROM+
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2963 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T03:12:43+00:00",
+      "published_utc": "2026-10-13T03:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
