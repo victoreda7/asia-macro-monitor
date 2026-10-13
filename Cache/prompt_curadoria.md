@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T05:02:41.675808+00:00
-Total: 2987 manchetes
+Última coleta: 2026-10-13T05:12:42.722791+00:00
+Total: 2988 manchetes
 
-  🇯🇵 Japão          1136
+  🇯🇵 Japão          1137
   🇨🇳 China          830
   🇹🇼 Taiwan         297
   🇰🇷 Coreia do Sul  724
 
 ## O que já está no feed (não repita)
 
+  - [japan] 88.6% of Japan households expect prices to rise a year from now, BOJ says By Reuters
   - [japan] Asian brands tighten grip on Tokyo's high-end shopping districts
   - [korea] SoftBank, SK Hynix lead Asian tech sell-off amid AI investment concerns
   - [china] China blue chips fall to 14-month low on tech selloff
@@ -56,7 +57,6 @@ Total: 2987 manchetes
   - [japan] September corporate price index increased by 6.8% compared to the same month last year; rate of increase slows
   - [taiwan] Taiwan dollar, South Korean won lead Asian currencies lower
   - [china] The central bank launches 65 billion yuan 7-day reverse repurchase operation
-  - [korea] Sebo Manufacturing Engineering Construction Wins 97 Billion Won Order
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2987 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T05:02:41+00:00",
+      "published_utc": "2026-10-13T05:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
