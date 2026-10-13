@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T02:32:43.708452+00:00
-Total: 2954 manchetes
+Última coleta: 2026-10-13T02:42:43.930081+00:00
+Total: 2957 manchetes
 
-  🇯🇵 Japão          1127
+  🇯🇵 Japão          1128
   🇨🇳 China          821
   🇹🇼 Taiwan         289
-  🇰🇷 Coreia do Sul  717
+  🇰🇷 Coreia do Sul  719
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why is Samsung Electronics stock plunging today?
+  - [korea] Why is SK Hynix stock plunging today?
   - [korea] IMF Chief Economist: Outlook for AI Supply Chain Econs Like South Korea, Singapore, Vietnam Raised Significant
   - [korea] South Korea shares tumble over 6% as chip selloff triggers trading curb
   - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
@@ -29,6 +31,7 @@ Total: 2954 manchetes
   - [taiwan] Taiwan dollar, South Korean won lead Asian currencies lower
   - [china] The central bank launches 65 billion yuan 7-day reverse repurchase operation
   - [korea] Sebo Manufacturing Engineering Construction Wins 97 Billion Won Order
+  - [japan] Bank of Japan to raise interest rates to neutral level in stages despite forecast of slowing growth = IMF (Reu
   - [japan] IMF expects gradual BOJ rate hike towards neutral setting
   - [korea] IMF raises S. Korea's growth forecast to 3.3 pct amid chip supercycle
   - [japan] Japan bond yields diverge as investors weigh inflation, BOJ outlook
@@ -54,9 +57,6 @@ Total: 2954 manchetes
   - [japan] Domestic corporate goods prices rose 6.8% year-on-year in September, growth rate slowed from the previous mont
   - [taiwan] Geothermal power too costly for chipmakers? Taiwan's semiconductor industry sees value beyond electricity pric
   - [korea] (URGENT) Seoul shares open sharply lower on U.S. losses, inflation concerns
-  - [japan] Corporate prices rise 6.8% in September Bank of Japan (Jiji Press)
-  - [japan] Japan Producer Prices Rise the Least in 4 Months
-  - [japan] JAPAN SEPT PRODUCER PRICES -0.3% M/M (AUG REVISED TO -0.3% FROM -0.2%); 2ND STRAIGHT DROP; MEDIAN FORECAST +0.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2954 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T02:32:43+00:00",
+      "published_utc": "2026-10-13T02:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

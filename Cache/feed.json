@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T02:32:43.708452+00:00",
- "collected_at_utc": "2026-10-13T02:32:43.708452+00:00",
+ "generated_at_utc": "2026-10-13T02:42:43.930081+00:00",
+ "collected_at_utc": "2026-10-13T02:42:43.930081+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2954,
+ "count": 2957,
  "by_region": {
-  "japan": 1127,
+  "japan": 1128,
   "china": 821,
   "taiwan": 289,
-  "korea": 717
+  "korea": 719
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T01:00:00+00:00"
+   "newest": "2026-10-13T02:32:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T02:12:47+00:00"
+   "newest": "2026-10-13T02:30:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T02:12:47+00:00"
+   "newest": "2026-10-13T02:24:56+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T01:09:26+00:00"
+   "newest": "2026-10-13T02:32:01+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-13T11:15:50+00:00"
+   "newest": "2026-10-13T11:40:09+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T02:31:00+00:00"
+   "newest": "2026-10-13T02:39:40+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T01:43:17+00:00"
+   "newest": "2026-10-13T02:35:16+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-13T10:00:00+09:00"
+   "newest": "2026-10-13T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T02:22:04+00:00"
+   "newest": "2026-10-13T00:52:55+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T21:00:00+00:00"
+   "newest": "2026-10-12T09:38:37+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is Samsung Electronics stock plunging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-4945331",
+   "published_utc": "2026-10-13T02:30:57+00:00",
+   "title_original": "Why is Samsung Electronics stock plunging today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "334e261758ae3fe7"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is SK Hynix stock plunging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-plunging-today-93CH-4945330",
+   "published_utc": "2026-10-13T02:30:50+00:00",
+   "title_original": "Why is SK Hynix stock plunging today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d492c1119fd99854"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -553,6 +587,23 @@
    "live_wire": true,
    "manual": false,
    "id": "79ec3d6010fad07b"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan to raise interest rates to neutral level in stages despite forecast of slowing growth = IMF (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94SktsNGlUSVpnUVc0SWpaTFJLVW1fZ19vazJBTExUd1JnZWpQejlwVjM5Z2NKaHZzNzhYcWlhZUNKTnY0THJJNktFeDFqQVVueUVhXzdrd1NYMW1sT2RGVmF5VXhjS05rZENUblZLOXdrS0VsOTRRbEhUUG40bzg?oc=5",
+   "published_utc": "2026-10-13T02:07:01+00:00",
+   "title_original": "日銀、中立水準に段階的利上げへ 成長減速見通しでも＝ＩＭＦ（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "06b0cd74d05c8278"
   },
   {
    "source_id": "investing_econ",
@@ -3964,7 +4015,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "국민일보",
    "title_en": "The Bank of Korea predicts a ‘hawkish freeze’ in its benchmark interest rate in October… Additional tightening variables in the US",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80d00tSUZfUHlxcG1vWWs2alcxOWtoV2RlTFpMbWNxZWlHaGtCcGlEeDBOazNtamFPcnBaWllBR1pIaHh2V1VzZkl5NlRyZ1pfbjhmVHVzejBHM3pNVVJiZmlkVVFCb03SAWxBVV95cUxPcGZVRGhmbjFlWnF1U0NJenYxZVJSSTVlMEpwM0RxaUFId1pLQUtDZWNQRC1iMFFMQVZBXzA4MUJYTkk1Q3VHc1BuRTdnZ2czZEw5OXFheC1ld3VsajZYOWxHT21lREtlTS1nOUM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wZlVEaGZuMWVacXVTQ0l6djFlUlJJNWUwSnAzRHFpQUh3WktBS0NlY1BELWIwUUxBVkFfMDgxQlhOSTVDdUdzUG5FN2dnZzNkTDk5cWF4LWV3dWxqNlg5bEdPbWVES2VNLWc5Q9IBbEFVX3lxTE9wZlVEaGZuMWVacXVTQ0l6djFlUlJJNWUwSnAzRHFpQUh3WktBS0NlY1BELWIwUUxBVkFfMDgxQlhOSTVDdUdzUG5FN2dnZzNkTDk5cWF4LWV3dWxqNlg5bEdPbWVES2VNLWc5Qw?oc=5",
    "published_utc": "2026-10-11T15:21:00+00:00",
    "title_original": "한은 10월 기준금리 ‘매파적 동결’ 전망… 美 추가 긴축 변수",
    "region": "korea",
@@ -3975,7 +4026,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ab46e0460e9215fc"
+   "id": "82441b8a99e83485"
   },
   {
    "source_id": "korea_herald_biz",
@@ -15036,23 +15087,6 @@
    "id": "d4f69379f6a6f7c2"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
-   "published_utc": "2026-10-03T14:36:49+00:00",
-   "title_original": "Musk confirms talks with TSMC over his Texas chip factory project",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e3fe8194e680dde"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "How US-China tech ties are deepening as RISC-V chips go mainstream",
@@ -15171,6 +15205,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e5fed613cf597187"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
+   "published_utc": "2026-10-03T07:00:00+00:00",
+   "title_original": "Musk confirms talks with TSMC over his Texas chip factory project",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9e3fe8194e680dde"
   },
   {
    "source_id": "tradingview_live",
