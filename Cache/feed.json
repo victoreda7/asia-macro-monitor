@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T03:22:45.865790+00:00",
- "collected_at_utc": "2026-10-13T03:22:45.865790+00:00",
+ "generated_at_utc": "2026-10-13T03:32:43.428825+00:00",
+ "collected_at_utc": "2026-10-13T03:32:43.428825+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 2966,
  "by_region": {
-  "japan": 1131,
+  "japan": 1130,
   "china": 824,
   "taiwan": 290,
-  "korea": 721
+  "korea": 722
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T13:00:01+00:00"
+   "newest": "2026-10-13T02:58:54+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T00:52:55+00:00"
+   "newest": "2026-10-13T02:41:53+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T21:00:00+00:00"
+   "newest": "2026-10-12T22:24:00+00:00"
   }
  ],
  "items": [
@@ -1201,6 +1201,24 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "Corporate prices rise 6.8% in September, growth slows due to fall in rice prices Bank of Japan (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzY1hxNlgzbjh4VGxjdUZkUW9VU29rNjZYQWotVF82RlFDSXZ0Y3h4d29sQXgyeG92NFpTM3ZKbFlpbFlHdHBXR1pYV3cyeUNBSHFoLUdhN3NEdC0taUVoUUlJWFpXenV6T2lmb2gxcXFwMENjcE5HQlZqYXIwYWc?oc=5",
+   "published_utc": "2026-10-12T23:59:56+00:00",
+   "title_original": "9月の企業物価、6．8％上昇 コメ値下がりで伸び縮小 日銀（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1fc4dd3335348198"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Corporate prices rise 6.8% in September Bank of Japan (Jiji Press)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzY1hxNlgzbjh4VGxjdUZkUW9VU29rNjZYQWotVF82RlFDSXZ0Y3h4d29sQXgyeG92NFpTM3ZKbFlpbFlHdHBXR1pYV3cyeUNBSHFoLUdhN3NEdC0taUVoUUlJWFpXenV6T2lmb2gxcXFwMENjcE5HQlZqYXIwYWc?oc=5",
    "published_utc": "2026-10-12T23:59:56+00:00",
@@ -1338,6 +1356,23 @@
    "id": "bdbf4743c1502a55"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "https://www.citytimes.co.kr/",
+   "title_en": "“We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nRkphTXZzOVFoaF9EU1hGOEYxbVNEb3hHbUZYdjhrN1dvNUNEdkItN0Y2cDd5UU1CbnNtcWdWZHpfc3BNMUpiaXFjWERYOENhZmpGelZFMEVPYmFDaEcwRHoyVEdZSllkYjNta29B?oc=5",
+   "published_utc": "2026-10-12T22:24:00+00:00",
+   "title_original": "\"美보다 먼저 올려 시간 벌었다\"…한은, 10월 기준금리 '동결' 무게",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5fc63cb7edf00757"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
    "title_en": "Weekly Recap: Moody's affirms A2, outlook positive and TSMC tie-up boosts chips",
@@ -1405,23 +1440,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba084194e8b000b5"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스1",
-   "title_en": "“We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qbkFHai0zZk1YVjNrbXBfU2tvX0hHM0NuaUxyakRXa1VMMDZEbkpNOEVtYXZRVGVCRkRrU2dzamJvTDZWTTBzQVVXQXU4MnBWbW5GeA?oc=5",
-   "published_utc": "2026-10-12T21:00:00+00:00",
-   "title_original": "\"美보다 먼저 올려 시간 벌었다\"…한은, 10월 기준금리 '동결' 무게",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "17fe6c10ac891e5e"
   },
   {
    "source_id": "investing_live",
@@ -2462,6 +2480,25 @@
    "id": "6944fcd604bd72f7"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "CNews",
+   "title_en": "Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, inflation are the most important variables.”",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiTms4MUZEanh6S3djNGExc1ZiWFJIdC1OMldYdF9sRFRibzNMclNKMldxU0lTV2NiOGVvTi1YOXFpdF9sOXpIZlhmYUdubDhkQnJ6VFU1WDA2b0xXVExRYUlIc2pKN3ZHeEhaQTZ4VVBLUVAwTEdF?oc=5",
+   "published_utc": "2026-10-12T08:03:27+00:00",
+   "title_original": "신현송 한은 총재 \"추가 금리 인상, 인플레가 가장 중요한 변수\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a773499d32ab5809"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "CoinMarketCal",
    "title_en": "Reserve Rights: Upbit opens RSR spot trading in KRW and USDT markets - 12 Oct 2026",
@@ -2846,25 +2883,6 @@
    "live_wire": false,
    "manual": false,
    "id": "10eaf010ca3c1df7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "CNews",
-   "title_en": "Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, inflation are the most important variables.”",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qNERfX21aZHdRZi1PLWNBWG9kZHZoRXlmWDB4VDhRZFhLUFlfSWU2dzZGU3B6dlQ3N1I4aDd6Qnc5ZVh2aWN0LWpneUZpeG5fTWItUTkzVVI4aTBJbjdzb1BOTDJTZnJxLTF5RnJKMmh2Zw?oc=5",
-   "published_utc": "2026-10-12T06:00:00+00:00",
-   "title_original": "신현송 한은 총재 \"추가 금리 인상, 인플레가 가장 중요한 변수\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "trade"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b21a54bf3c2e8057"
   },
   {
    "source_id": "gn_kr_bok",
@@ -4206,7 +4224,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "국민일보",
    "title_en": "The Bank of Korea predicts a ‘hawkish freeze’ in its benchmark interest rate in October… Additional tightening variables in the US",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80d00tSUZfUHlxcG1vWWs2alcxOWtoV2RlTFpMbWNxZWlHaGtCcGlEeDBOazNtamFPcnBaWllBR1pIaHh2V1VzZkl5NlRyZ1pfbjhmVHVzejBHM3pNVVJiZmlkVVFCb03SAWxBVV95cUxPcGZVRGhmbjFlWnF1U0NJenYxZVJSSTVlMEpwM0RxaUFId1pLQUtDZWNQRC1iMFFMQVZBXzA4MUJYTkk1Q3VHc1BuRTdnZ2czZEw5OXFheC1ld3VsajZYOWxHT21lREtlTS1nOUM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wZlVEaGZuMWVacXVTQ0l6djFlUlJJNWUwSnAzRHFpQUh3WktBS0NlY1BELWIwUUxBVkFfMDgxQlhOSTVDdUdzUG5FN2dnZzNkTDk5cWF4LWV3dWxqNlg5bEdPbWVES2VNLWc5Q9IBbEFVX3lxTE9wZlVEaGZuMWVacXVTQ0l6djFlUlJJNWUwSnAzRHFpQUh3WktBS0NlY1BELWIwUUxBVkFfMDgxQlhOSTVDdUdzUG5FN2dnZzNkTDk5cWF4LWV3dWxqNlg5bEdPbWVES2VNLWc5Qw?oc=5",
    "published_utc": "2026-10-11T15:21:00+00:00",
    "title_original": "한은 10월 기준금리 ‘매파적 동결’ 전망… 美 추가 긴축 변수",
    "region": "korea",
@@ -4217,7 +4235,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ab46e0460e9215fc"
+   "id": "82441b8a99e83485"
   },
   {
    "source_id": "korea_herald_biz",
@@ -4392,13 +4410,13 @@
    "id": "a64d9291b255f33b"
   },
   {
-   "source_id": "gn_jp_reuters",
+   "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
    "published_utc": "2026-10-11T07:00:00+00:00",
    "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "region": "japan",
+   "region": "korea",
    "topics": [
     "trade"
    ],
@@ -4406,7 +4424,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "3563f6b6fd29b888"
+   "id": "d7d0d81b05ec0a14"
   },
   {
    "source_id": "gn_kr_mk",
@@ -15278,23 +15296,6 @@
    "id": "d4f69379f6a6f7c2"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
-   "published_utc": "2026-10-03T14:36:49+00:00",
-   "title_original": "Musk confirms talks with TSMC over his Texas chip factory project",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e3fe8194e680dde"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "How US-China tech ties are deepening as RISC-V chips go mainstream",
@@ -15413,6 +15414,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e5fed613cf597187"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
+   "published_utc": "2026-10-03T07:00:00+00:00",
+   "title_original": "Musk confirms talks with TSMC over his Texas chip factory project",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9e3fe8194e680dde"
   },
   {
    "source_id": "tradingview_live",
@@ -51339,23 +51357,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fa4e92d07dad322f"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Speculators turn net long on yen for first time since February By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlp0bmFVaEFKckFDb1k0SUZUSGpubF9aVU1FcnlZbDA1WVdhX3lJaFBTNnQzeTNwRkJUa0xRWVZGNDlXaGNoTE0wWU56SDVYamRLSFZJZXJnSTlGU2QwWWpuUG9GMkVDQ2MweC1SSHFVcFJUcm96NXd0eGUwNWtXeWtxby1lZTItaHVuR2pBbDlKbkNvQTdZb0NYcG4zdFYwaXcxT1lyTnF5eEt3eEgxVEQxWjM?oc=5",
-   "published_utc": "2026-09-13T03:26:06+00:00",
-   "title_original": "Speculators turn net long on yen for first time since February By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "15a1ef98297d2ea1"
   },
   {
    "source_id": "manual_ia",
