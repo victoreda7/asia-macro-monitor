@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T08:02:43.286552+00:00
+Última coleta: 2026-10-13T08:12:43.729866+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1136
-  🇨🇳 China          833
+  🇨🇳 China          834
   🇹🇼 Taiwan         298
-  🇰🇷 Coreia do Sul  733
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
   - [china] China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk
   - [japan] Individuals' inflation expectations remain high: 86.5% that prices will rise in five years' time Bank of Japan
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
@@ -28,6 +29,7 @@ Total: 3000 manchetes
   - [china] China’s exports seen growing at faster pace in September: Reuters Poll
   - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
   - [korea] South Korea shares tumble in chip selloff
+  - [korea] Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks
   - [china] Key facts: NASDAQ:NVDA -1.6% on Microsoft Maia; China GPUs -44%; TSMC
   - [korea] (LEAD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes
   - [korea] Bae Jun-young: “Bonk Governor needs to ‘reexamine the starting point’ of raising base interest rate this month
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China to Cut New Energy Vehicle Export Tax Rebate to 9% From April 2027
   - [taiwan] Taiwan Finance Minister to attend APEC meeting in Hong Kong next week (Reuters)
   - [china] Asian tech shares plunge after Chinese chipmaker reports key advance
-  - [japan] Asia FX steady as dollar holds near 18-mth high, U.S. CPI awaited
-  - [china] Xpeng Vice Chairman Welcomes EU-China Hybrid Import Cap Deal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T08:02:43+00:00",
+      "published_utc": "2026-10-13T08:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
