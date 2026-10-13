@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T01:32:43.861753+00:00
-Total: 2931 manchetes
+Última coleta: 2026-10-13T01:42:41.849588+00:00
+Total: 2932 manchetes
 
-  🇯🇵 Japão          1121
+  🇯🇵 Japão          1122
   🇨🇳 China          812
   🇹🇼 Taiwan         288
   🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Oct 20
   - [japan] Japan’s wholesale inflation remains elevated, keeps alive BOJ rate-hike view
   - [korea] Seoul shares open sharply lower on U.S. losses, inflation concerns
   - [korea] (LEAD) Seoul shares open sharply lower on U.S. losses, inflation concerns
@@ -56,7 +57,6 @@ Total: 2931 manchetes
   - [china] EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap — Update
   - [japan] Japanese Yen Could Trade Sideways Vs Dollar in Near-Term — Market Talk
   - [china] Copper climbs on China stimulus hopes, Chile mine supply risks
-  - [china] BYD sees tariff pressure linked to EU-China deal as short term
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2931 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T01:32:44+00:00",
+      "published_utc": "2026-10-13T01:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
