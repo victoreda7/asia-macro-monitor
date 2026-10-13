@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T09:32:45.309978+00:00
+Última coleta: 2026-10-13T09:42:44.023087+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1134
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea central bank to keep policy restrictive until inflation hits target, governor says
   - [china] IMF Cuts China Growth Forecasts for 2026 and 2027
   - [korea] KOSPI Slumps as U.S. AI Chip Panic Spreads — Barrons.com
   - [japan] Intervention Risk Limits Yen Falls Against Dollar — Market Talk
@@ -34,6 +35,7 @@ Total: 3000 manchetes
   - [japan] Former NHK chairman Nobuo Inaba dies at age 75, also serving as director of the Bank of Japan (Mainichi Shimbu
   - [taiwan] Taiwan panel makers enter semiconductor fight as structural challenges persist
   - [japan] Inflation expectations remain 86.5% higher in 5 years, highest level in 19 years due to Middle East impact, Ba
+  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [japan] Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung c
   - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
   - [china] China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Bae Jun-young: “Bonk Governor needs to ‘reexamine the starting point’ of raising base interest rate this month
   - [china] Asia stocks slide as chip rout deepens, Chinese automakers hit by EU trade curbs
   - [japan] Dollar Likely to Trade in 157.50-159.30 Yen Range This Week — Market Talk
-  - [korea] Kospi Falls for Fifth Consecutive Session on Chip Selloff
-  - [china] Why are Chinese car exports soaring? Europe is responding
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T09:32:45+00:00",
+      "published_utc": "2026-10-13T09:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

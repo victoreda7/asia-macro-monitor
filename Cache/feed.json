@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-13T09:32:45.309978+00:00",
- "collected_at_utc": "2026-10-13T09:32:45.309978+00:00",
+ "generated_at_utc": "2026-10-13T09:42:44.023087+00:00",
+ "collected_at_utc": "2026-10-13T09:42:44.023087+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 297,
   "korea": 733
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T04:01:17+00:00"
+   "newest": "2026-10-13T08:06:34+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 48,
+   "count": 54,
    "error": "",
-   "newest": "2026-10-13T14:51:10+08:00"
+   "newest": "2026-10-13T16:54:25+08:00"
   },
   {
    "source_id": "investing_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T09:32:02+00:00"
+   "newest": "2026-10-13T09:42:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T08:47:05+00:00"
+   "newest": "2026-10-13T08:44:40+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea central bank to keep policy restrictive until inflation hits target, governor says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_SPN45Z0XT:0-south-korea-central-bank-to-keep-policy-restrictive-until-inflation-hits-target-governor-says/",
+   "published_utc": "2026-10-13T09:26:24+00:00",
+   "title_original": "South Korea central bank to keep policy restrictive until inflation hits target, governor says",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8b8b48ea0d8cef97"
+  },
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
@@ -634,6 +652,23 @@
    "live_wire": false,
    "manual": false,
    "id": "089b0820353e5f66"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "U.S. dollar closes sharply higher on Taipei forex market",
+   "url": "https://focustaiwan.tw/business/202610130016",
+   "published_utc": "2026-10-13T08:11:17+00:00",
+   "title_original": "U.S. dollar closes sharply higher on Taipei forex market",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f02f1256ce39e21a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1759,24 +1794,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9851f19472c944a3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "IMF Raises 2026 South Korea Growth Forecast to 3.3% From 2.6%",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012007471_20261012007513:0-imf-raises-2026-south-korea-growth-forecast-to-3-3-from-2-6/",
-   "published_utc": "2026-10-13T02:20:00+00:00",
-   "title_original": "IMF Raises 2026 South Korea Growth Forecast to 3.3% From 2.6%",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "61fa9d8086d11cf7"
   },
   {
    "source_id": "nhk_economy",
@@ -5685,8 +5702,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5699,7 +5716,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -6630,8 +6647,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6645,7 +6662,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -6836,8 +6853,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -6851,7 +6868,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -7722,8 +7739,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7737,7 +7754,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -49424,23 +49441,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1b79c948b785d16c"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "U.S. dollar closes sharply higher on Taipei forex market",
-   "url": "https://focustaiwan.tw/business/202609150017",
-   "published_utc": "2026-09-15T08:11:44+00:00",
-   "title_original": "U.S. dollar closes sharply higher on Taipei forex market",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "744c9780cb4b0562"
   },
   {
    "source_id": "gn_kr_reuters",
