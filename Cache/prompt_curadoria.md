@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T04:02:42.143153+00:00
-Total: 2975 manchetes
+Última coleta: 2026-10-13T04:12:46.733113+00:00
+Total: 2976 manchetes
 
   🇯🇵 Japão          1131
-  🇨🇳 China          827
-  🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  724
+  🇨🇳 China          828
+  🇹🇼 Taiwan         294
+  🇰🇷 Coreia do Sul  723
 
 ## O que já está no feed (não repita)
 
+  - [china] Asian tech shares plunge after Chinese chipmaker reports key advance
   - [china] China to Cut New Energy Vehicle Export Tax Rebate to 9% From April 2027
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks
   - [taiwan] IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%
@@ -56,7 +57,6 @@ Total: 2975 manchetes
   - [china] SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector
   - [china] Goldman Says Markets Are Underestimating How Far Yuan Can Rise
   - [china] On October 13, the central bank launched a 65 billion yuan 7-day reverse repurchase operation.
-  - [japan] Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Oct 20
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2975 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T04:02:42+00:00",
+      "published_utc": "2026-10-13T04:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
