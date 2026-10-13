@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T23:22:42.728782+00:00
+Última coleta: 2026-10-13T23:32:43.131052+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
-  🇨🇳 China          833
+  🇨🇳 China          834
   🇹🇼 Taiwan         299
-  🇰🇷 Coreia do Sul  731
+  🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [china] Tencent prices $1.8 billion, 26 billion yuan notes under MTN programme
   - [china] China Inflation, Trade Data Due On Wednesday
   - [taiwan] TSMC Stocks Slip as Thursday's Earnings Put AI Margins Under Scrutiny
   - [japan] I gave up on curry, the salmon roe bowl was in the red, and I finally opened 30 stores nationwide with "Pork C
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Support rate for each party: “Liberal Democratic Party” 35.3% “No support” 38.5% NHK public opinion poll
   - [japan] High approval rate for the city cabinet: 51%, 32% disapproval, NHK survey
   - [japan] Mapping the Market: 'Death cross' bodes more trouble for peso against resurgent yen
-  - [japan] Rupee extends surge; Dollar consolidates near peaks ahead of inflation data
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T23:22:42+00:00",
+      "published_utc": "2026-10-13T23:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

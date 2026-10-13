@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T23:22:42.728782+00:00",
- "collected_at_utc": "2026-10-13T23:22:42.728782+00:00",
+ "generated_at_utc": "2026-10-13T23:32:43.131052+00:00",
+ "collected_at_utc": "2026-10-13T23:32:43.131052+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1137,
-  "china": 833,
+  "china": 834,
   "taiwan": 299,
-  "korea": 731
+  "korea": 730
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T05:05:00+09:00"
+   "newest": "2026-10-14T08:26:13+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T23:19:32+00:00"
+   "newest": "2026-10-13T23:31:14+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T07:48:56+00:00"
+   "newest": "2026-10-13T08:18:11+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Tencent prices $1.8 billion, 26 billion yuan notes under MTN programme",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45Z29G:0-tencent-prices-1-8-billion-26-billion-yuan-notes-under-mtn-programme/",
+   "published_utc": "2026-10-13T23:28:15+00:00",
+   "title_original": "Tencent prices $1.8 billion, 26 billion yuan notes under MTN programme",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ce9aab0e99e42956"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -1515,23 +1532,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9628b1f204031a39"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea's Kospi Slumps on Selloff in Chip Stocks — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261013001079:0-south-korea-s-kospi-slumps-on-selloff-in-chip-stocks-update/",
-   "published_utc": "2026-10-13T07:40:00+00:00",
-   "title_original": "South Korea's Kospi Slumps on Selloff in Chip Stocks — Update",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fadf29d9e78eaf5d"
   },
   {
    "source_id": "nhk_economy",
@@ -4457,7 +4457,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "CNews",
    "title_en": "Bank of Korea Governor Shin Hyun-song: “Further interest rate hikes, inflation are the most important variables.”",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiTms4MUZEanh6S3djNGExc1ZiWFJIdC1OMldYdF9sRFRibzNMclNKMldxU0lTV2NiOGVvTi1YOXFpdF9sOXpIZlhmYUdubDhkQnJ6VFU1WDA2b0xXVExRYUlIc2pKN3ZHeEhaQTZ4VVBLUVAwTEdF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qNERfX21aZHdRZi1PLWNBWG9kZHZoRXlmWDB4VDhRZFhLUFlfSWU2dzZGU3B6dlQ3N1I4aDd6Qnc5ZVh2aWN0LWpneUZpeG5fTWItUTkzVVI4aTBJbjdzb1BOTDJTZnJxLTF5RnJKMmh2Zw?oc=5",
    "published_utc": "2026-10-12T06:00:00+00:00",
    "title_original": "신현송 한은 총재 \"추가 금리 인상, 인플레가 가장 중요한 변수\"",
    "region": "korea",
@@ -4470,7 +4470,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a773499d32ab5809"
+   "id": "b21a54bf3c2e8057"
   },
   {
    "source_id": "gn_kr_bok",
@@ -6202,8 +6202,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -6216,7 +6216,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -7164,8 +7164,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -7179,7 +7179,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -7370,8 +7370,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -7385,7 +7385,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -8256,8 +8256,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -8271,7 +8271,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
