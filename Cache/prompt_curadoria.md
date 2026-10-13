@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T12:52:45.106501+00:00
+Última coleta: 2026-10-13T13:02:51.657391+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1140
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi tumbles as chip rout deepens, briefly breaking below 6,000
   - [korea] Roze AI Announces Approximately US$14.8 Million (KRW 19.88 Billion) in New Contracts for AI-Powered Fire Risk 
   - [korea] SK Hynix Stock Crashes 9% as AI Fears Trigger Asian Tech Sell-Off
   - [china] Nvidia Loses Ground in China as AI Chip Shipments Plunge 44%
@@ -29,7 +30,6 @@ Total: 3000 manchetes
   - [japan] Asia report: Nikkei, KOSPI post big losses as chipmakers drop
   - [korea] Hong Ra-hee to Gift 11.15 Million Samsung Electronics Shares to Lee Jae-yong
   - [china] E-House (China) Enterprise Says Grand Court Of Cayman Islands Sanctions Cayman Scheme
-  - [korea] Kospi tumbles as chip rout deepens, briefly breaking below 6,000
   - [korea] Korean Won, New Taiwan Dollar Underperform Amid Chip-Stock Selloff — Market Talk
   - [korea] UnitedHealth, JPMorgan, Six Flags, SK Hynix, and More Stocks That Explain Today's Market — Barrons.com
   - [japan] "Cabinet approval rate" is also one of the indicators of government management
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T12:52:45+00:00",
+      "published_utc": "2026-10-13T13:02:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
