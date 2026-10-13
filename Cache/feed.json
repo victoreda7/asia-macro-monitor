@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T02:02:43.316945+00:00",
- "collected_at_utc": "2026-10-13T02:02:43.316945+00:00",
+ "generated_at_utc": "2026-10-13T02:12:42.040774+00:00",
+ "collected_at_utc": "2026-10-13T02:12:42.040774+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2942,
+ "count": 2945,
  "by_region": {
   "japan": 1125,
   "china": 818,
   "taiwan": 288,
-  "korea": 711
+  "korea": 714
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T18:00:04+00:00"
+   "newest": "2026-10-13T00:28:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T00:14:30+00:00"
+   "newest": "2026-10-13T01:24:21+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-13T09:48:21+00:00"
+   "newest": "2026-10-13T11:09:45+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-11T10:12:00+00:00"
+   "newest": "2026-10-12T05:14:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T01:42:29+00:00"
+   "newest": "2026-10-13T02:11:19+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T02:00:15+00:00"
+   "newest": "2026-10-13T02:09:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T20:28:55+00:00"
+   "newest": "2026-10-12T23:32:03+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T00:21:29+00:00"
+   "newest": "2026-10-13T02:00:07+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,64 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T22:47:00+00:00"
+   "newest": "2026-10-12T21:00:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "The central bank launches 65 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFVnhuTUxtaEstcVZHTWdHMjU4QkZrcGtnNTVENG9la08tdTdEOEZ3ZXl1MHhXazdjcVc4TlcySWRPeGZGY0R4cUhyblMwN0FDODRVc0xuRnI?oc=5",
+   "published_utc": "2026-10-13T02:11:19+00:00",
+   "title_original": "央行开展650亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "932575caedc02778"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sebo Manufacturing Engineering Construction Wins 97 Billion Won Order",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45Y2KX:0-sebo-manufacturing-engineering-construction-wins-97-billion-won-order/",
+   "published_utc": "2026-10-13T02:08:04+00:00",
+   "title_original": "Sebo Manufacturing Engineering Construction Wins 97 Billion Won Order",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "79ec3d6010fad07b"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "IMF raises S. Korea's growth forecast to 3.3 pct amid chip supercycle",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96d3JfSm8yQlJzdjRJd3ByM2Y2LVVfQk9aWk82b3B3RWJiR2otQlNvQ05pemF3a0hOUlFpaDgwRmFkcnZpYkF2UlVGQ1c2ZGF6SUdOcjdpUkJzUQ?oc=5",
+   "published_utc": "2026-10-13T02:00:07+00:00",
+   "title_original": "IMF raises S. Korea's growth forecast to 3.3 pct amid chip supercycle",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "10d52dba68857f96"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -466,24 +520,6 @@
    "id": "1add3f9288581109"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中新经纬",
-   "title_en": "The central bank launches 65 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kcGdMclZUOEZqbjctaGxEdmxhdmtfeExoa1FIYkgxZXNGS2JWSHRrNmFKN1NQSEU0azAxanBWYTh4X0FGWUQ5SjhlQVhZd2RzU3d4Nnh4RXQ2YzUtNFhkRWRTU2w?oc=5",
-   "published_utc": "2026-10-13T01:23:00+00:00",
-   "title_original": "央行开展650亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16efc025bfc13c75"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Exclusive | China’s finance minister to deliver opening speech at Apec meeting in Hong Kong",
@@ -551,6 +587,23 @@
    "live_wire": false,
    "manual": false,
    "id": "698ac097ea2af8fb"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFp4WmRxbkUtWXJISmNZVHZlcTljeWdlQmVfck9SUGdHckpwUDRQY1BjX1p5RW9GVGhqLUIzT1h0WERsTk1YakUtMFJvcjZIRlhRTm9hYlNrb0VYMmtYWThoMTBRd2hEalF4VDBUTWlfXzRzb0dzTTQ2TmMwdmFCbDZpZGxjdDlQMnY1c1p4VUFzZ0M5VnJYOVVlTW1VOXVRbEVCY3NhWm5SQUdtMDFkb2lHTzI?oc=5",
+   "published_utc": "2026-10-13T00:28:00+00:00",
+   "title_original": "Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9ae64dd1031c750c"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -900,23 +953,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bdbf4743c1502a55"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한겨레",
-   "title_en": "The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “within the year”",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JQ2xXb2xzM0VVZ0dLVkU5LVJxMzg4WnY3QWUwZkZJNF9KRWd3c3lZVlgzc01oTXpDLVEyZW1DSUg1TjM5enl2X2xFRkN5blNtdnk5b2RKOF9YMWZkd2x5WXRDRWZteHI0TmF3OHVzYzRBQQ?oc=5",
-   "published_utc": "2026-10-12T22:47:00+00:00",
-   "title_original": "한은, ‘금리 추가 인상’ 가능성 거듭 시사…시장선 “연내” 전망",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "048c58c53474a1bc"
   },
   {
    "source_id": "tradingview_live",
@@ -2340,6 +2376,23 @@
    "live_wire": true,
    "manual": false,
    "id": "ba0206f12d1d2bf9"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한겨레",
+   "title_en": "The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “within the year”",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JQ2xXb2xzM0VVZ0dLVkU5LVJxMzg4WnY3QWUwZkZJNF9KRWd3c3lZVlgzc01oTXpDLVEyZW1DSUg1TjM5enl2X2xFRkN5blNtdnk5b2RKOF9YMWZkd2x5WXRDRWZteHI0TmF3OHVzYzRBQQ?oc=5",
+   "published_utc": "2026-10-12T06:47:00+00:00",
+   "title_original": "한은, ‘금리 추가 인상’ 가능성 거듭 시사…시장선 “연내” 전망",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "048c58c53474a1bc"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3938,23 +3991,6 @@
    "id": "a64d9291b255f33b"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-   "published_utc": "2026-10-11T07:00:00+00:00",
-   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7d0d81b05ec0a14"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Food companies that were sanctioned for fixing food prices, such as sugar and flour, topped the Fair..",
@@ -5052,6 +5088,23 @@
    "live_wire": false,
    "manual": false,
    "id": "91431e6663917737"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+   "published_utc": "2026-10-09T14:02:00+00:00",
+   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7d0d81b05ec0a14"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -14824,23 +14877,6 @@
    "id": "d4f69379f6a6f7c2"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
-   "published_utc": "2026-10-03T14:36:49+00:00",
-   "title_original": "Musk confirms talks with TSMC over his Texas chip factory project",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e3fe8194e680dde"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "How US-China tech ties are deepening as RISC-V chips go mainstream",
@@ -14959,6 +14995,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e5fed613cf597187"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
+   "published_utc": "2026-10-03T07:00:00+00:00",
+   "title_original": "Musk confirms talks with TSMC over his Texas chip factory project",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9e3fe8194e680dde"
   },
   {
    "source_id": "tradingview_live",

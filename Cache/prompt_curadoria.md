@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T02:02:43.316945+00:00
-Total: 2942 manchetes
+Última coleta: 2026-10-13T02:12:42.040774+00:00
+Total: 2945 manchetes
 
   🇯🇵 Japão          1125
   🇨🇳 China          818
   🇹🇼 Taiwan         288
-  🇰🇷 Coreia do Sul  711
+  🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank launches 65 billion yuan 7-day reverse repurchase operation
+  - [korea] Sebo Manufacturing Engineering Construction Wins 97 Billion Won Order
+  - [korea] IMF raises S. Korea's growth forecast to 3.3 pct amid chip supercycle
   - [japan] IMF expects gradual BOJ rate hike towards neutral setting
   - [japan] Japan bond yields diverge as investors weigh inflation, BOJ outlook
   - [china] CHINA PBOC CONDUCTS CNY65 BLN VIA 7-DAY REVERSE REPO TUES
@@ -24,11 +27,11 @@ Total: 2942 manchetes
   - [china] SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector
   - [china] On October 13, the central bank launched a 65 billion yuan 7-day reverse repurchase operation.
   - [japan] Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Oct 20
-  - [china] The central bank launches 65 billion yuan 7-day reverse repurchase operation
   - [china] Exclusive | China’s finance minister to deliver opening speech at Apec meeting in Hong Kong
   - [korea] Foreign selling slams Kospi as China chip fears hit Samsung, SK Hynix
   - [japan] Japan’s wholesale inflation remains elevated, keeps alive BOJ rate-hike view
   - [korea] Seoul shares open sharply lower on U.S. losses, inflation concerns
+  - [korea] Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks
   - [korea] (LEAD) Seoul shares open sharply lower on U.S. losses, inflation concerns
   - [taiwan] Podcast highlights: Is Elon Musk using TSMC talks as leverage against Intel and Samsung?
   - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com
@@ -49,14 +52,11 @@ Total: 2942 manchetes
   - [japan] Japan finance minister named as next chair of World Bank-IMF joint development committee
   - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [china] Exclusive | China finance minister to deliver opening speech at Apec meeting in Hong Kong
-  - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [taiwan] Weekly Recap: Moody's affirms A2, outlook positive and TSMC tie-up boosts chips
   - [japan] Weekly Recap: TSE:8604 Macquarie-unit buy and JGB global marketing
   - [korea] Concerns are growing that the impact of a rate hike could have a greater impact on the elderly in th..
   - [japan] [Direct hit] “The era of reflationary policy is over” The core of Sanaenomics as told by Minister of Economy a
   - [korea] “We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October
-  - [korea] Onto Innovation wins SK hynix award for HBM defect technology
-  - [japan] FX weekly: Greenback climbs, Yen slides for fourth consecutive week
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2942 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T02:02:43+00:00",
+      "published_utc": "2026-10-13T02:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
