@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T18:22:50.364424+00:00
+Última coleta: 2026-10-13T18:32:42.778689+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
-  🇨🇳 China          830
+  🇨🇳 China          832
   🇹🇼 Taiwan         298
-  🇰🇷 Coreia do Sul  735
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [china] China’s Growth Seen Edging Up to 4.4% as Exports Offset Weak Demand
   - [china] Micron Stock Is Falling. Elon Musk's Comments on Chinese Chips Aren't Helping. — Barrons.com
   - [china] China’s Magnet Export Crackdown Is Putting Companies Like Evolution Metals in the Spotlight (NASDAQ: EMAT)
   - [korea] Chip Stocks Slide as South Korea's KOSPI Plunges, J&J Sinks 6%: Stock Market Today
@@ -33,6 +34,7 @@ Total: 3000 manchetes
   - [korea] Roze AI Announces Approximately US$14.8 Million (KRW 19.88 Billion) in New Contracts for AI-Powered Fire Risk 
   - [korea] SK Hynix Stock Crashes 9% as AI Fears Trigger Asian Tech Sell-Off
   - [china] Nvidia Loses Ground in China as AI Chip Shipments Plunge 44%
+  - [china] Long before his Nobel win, Michael Woodford was influencing China’s central bank
   - [taiwan] Qnity Bets On Local Production To Win More AI Chip Business From Nvidia, TSMC – CEO Touts ‘Local-For-Local’ St
   - [korea] Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility
   - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] KOSPI Slumps as U.S. AI Chip Panic Spreads — Barrons.com
   - [japan] Intervention Risk Limits Yen Falls Against Dollar — Market Talk
   - [japan] 88% of people expect prices to rise one year from now, Bank of Japan's September lifestyle awareness survey (K
-  - [china] Chip selloff deepens amid AI trade fears, rising Chinese competition
-  - [korea] Starting next year, state subsidies per hydrogen car will be reduced to 20 million won, 11.1% less t..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T18:22:50+00:00",
+      "published_utc": "2026-10-13T18:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
