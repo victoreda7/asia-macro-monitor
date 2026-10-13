@@ -7,20 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T04:42:43.840665+00:00
-Total: 2979 manchetes
+Última coleta: 2026-10-13T04:52:45.329400+00:00
+Total: 2983 manchetes
 
-  🇯🇵 Japão          1133
-  🇨🇳 China          828
+  🇯🇵 Japão          1134
+  🇨🇳 China          830
   🇹🇼 Taiwan         295
-  🇰🇷 Coreia do Sul  723
+  🇰🇷 Coreia do Sul  724
 
 ## O que já está no feed (não repita)
 
+  - [korea] SoftBank, SK Hynix lead Asian tech sell-off amid AI investment concerns
+  - [china] China blue chips fall to 14-month low on tech selloff
+  - [japan] BOJ Governor Ueda says important to anchor inflation around 2% now
   - [japan] Japan's producer price inflation slows to 6.8% in September, below market expectations
   - [taiwan] TSMC's Third-Quarter Net Profit Likely Jumped 62% as Revenue Tops Guidance — Earnings Preview
   - [china] China to Cut New Energy Vehicle Export Tax Rebate to 9% From April 2027
   - [china] Asian tech shares plunge after Chinese chipmaker reports key advance
+  - [china] Xpeng Vice Chairman Welcomes EU-China Hybrid Import Cap Deal
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks
   - [taiwan] IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%
   - [china] Yuan holds firm near 2023 highs despite dollar strength
@@ -53,10 +57,6 @@ Total: 2979 manchetes
   - [japan] IMF expects gradual BOJ rate hike towards neutral setting
   - [taiwan] Hamada Labs targets Taiwan, Japan manufacturing with AI platform
   - [korea] IMF raises S. Korea's growth forecast to 3.3 pct amid chip supercycle
-  - [japan] Japan bond yields diverge as investors weigh inflation, BOJ outlook
-  - [china] CHINA PBOC CONDUCTS CNY65 BLN VIA 7-DAY REVERSE REPO TUES
-  - [china] The central bank launched a 65 billion yuan 7-day reverse repurchase operation today
-  - [china] SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2979 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T04:42:44+00:00",
+      "published_utc": "2026-10-13T04:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
