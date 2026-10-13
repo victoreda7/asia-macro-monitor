@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T09:42:44.023087+00:00
+Última coleta: 2026-10-13T09:52:43.764550+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1134
-  🇨🇳 China          836
+  🇨🇳 China          835
   🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  733
+  🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
@@ -50,13 +50,13 @@ Total: 3000 manchetes
   - [korea] Foreign selloff sends Kospi down 5.5% as chip giants tumble
   - [china] China’s exports seen growing at faster pace in September: Reuters Poll
   - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
+  - [korea] 'Brutal session' for chip stocks shows AI trade is turning
   - [korea] South Korea shares tumble in chip selloff
   - [korea] Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks
   - [china] Key facts: NASDAQ:NVDA -1.6% on Microsoft Maia; China GPUs -44%; TSMC
   - [korea] (LEAD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes
   - [korea] Bae Jun-young: “Bonk Governor needs to ‘reexamine the starting point’ of raising base interest rate this month
   - [china] Asia stocks slide as chip rout deepens, Chinese automakers hit by EU trade curbs
-  - [japan] Dollar Likely to Trade in 157.50-159.30 Yen Range This Week — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T09:42:44+00:00",
+      "published_utc": "2026-10-13T09:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
