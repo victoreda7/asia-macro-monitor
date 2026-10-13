@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T06:12:43.713610+00:00
-Total: 2994 manchetes
+Última coleta: 2026-10-13T06:22:43.398527+00:00
+Total: 2996 manchetes
 
-  🇯🇵 Japão          1139
-  🇨🇳 China          833
-  🇹🇼 Taiwan         296
-  🇰🇷 Coreia do Sul  726
+  🇯🇵 Japão          1138
+  🇨🇳 China          834
+  🇹🇼 Taiwan         297
+  🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korean Chip Stocks' Retreat Partly Reflect Skepticism About Earnings Sustainability — Market Talk
+  - [china] Tencent prepares $4.5B+ dollar and yuan bond offering for AI capex
   - [korea] Korea launches chip policy office to fast-track W800tr investments
   - [china] Nvidia AI chip share in China falls as Huawei catches up- Reuters
   - [korea] SK Hynix in extreme oversold freefall near KRW 1,439,000: Live
@@ -55,8 +57,6 @@ Total: 2994 manchetes
   - [japan] Gold eases on firm dollar; spotlight on US inflation data
   - [korea] South Korea shares tumble over 6% as chip selloff triggers trading curb
   - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
-  - [korea] IMF Raises 2026 South Korea Growth Forecast to 3.3% From 2.6%
-  - [japan] IMF Raises 2026 Japan Growth Forecast to 0.7% From 0.6%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2994 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T06:12:43+00:00",
+      "published_utc": "2026-10-13T06:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
