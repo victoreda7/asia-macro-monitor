@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T02:22:43.376011+00:00",
- "collected_at_utc": "2026-10-13T02:22:43.376011+00:00",
+ "generated_at_utc": "2026-10-13T02:32:43.708452+00:00",
+ "collected_at_utc": "2026-10-13T02:32:43.708452+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2952,
+ "count": 2954,
  "by_region": {
-  "japan": 1126,
+  "japan": 1127,
   "china": 821,
   "taiwan": 289,
-  "korea": 716
+  "korea": 717
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T11:16:00+09:00"
+   "newest": "2026-10-13T11:22:06+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T17:43:59+00:00"
+   "newest": "2026-10-13T01:04:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T02:22:00+00:00"
+   "newest": "2026-10-13T02:31:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T00:52:55+00:00"
+   "newest": "2026-10-13T02:22:04+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "IMF Chief Economist: Outlook for AI Supply Chain Econs Like South Korea, Singapore, Vietnam Raised Significantly",
+   "url": "https://www.tradingview.com/news/DJN_DN20261012007566_20261012007574:0-imf-chief-economist-outlook-for-ai-supply-chain-econs-like-south-korea-singapore-vietnam-raised-significantly/",
+   "published_utc": "2026-10-13T02:30:00+00:00",
+   "title_original": "IMF Chief Economist: Outlook for AI Supply Chain Econs Like South Korea, Singapore, Vietnam Raised Significantly",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "92554f0147d10e34"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea shares tumble over 6% as chip selloff triggers trading curb",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45Z013:0-south-korea-shares-tumble-over-6-as-chip-selloff-triggers-trading-curb/",
+   "published_utc": "2026-10-13T02:22:56+00:00",
+   "title_original": "South Korea shares tumble over 6% as chip selloff triggers trading curb",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "77909988b762e7cd"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -4116,6 +4150,23 @@
    "id": "a64d9291b255f33b"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3563f6b6fd29b888"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Food companies that were sanctioned for fixing food prices, such as sugar and flour, topped the Fair..",
@@ -5213,23 +5264,6 @@
    "live_wire": false,
    "manual": false,
    "id": "91431e6663917737"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-   "published_utc": "2026-10-09T14:02:00+00:00",
-   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7d0d81b05ec0a14"
   },
   {
    "source_id": "gn_cn_scmp",

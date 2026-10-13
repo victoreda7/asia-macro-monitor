@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T02:22:43.376011+00:00
-Total: 2952 manchetes
+Última coleta: 2026-10-13T02:32:43.708452+00:00
+Total: 2954 manchetes
 
-  🇯🇵 Japão          1126
+  🇯🇵 Japão          1127
   🇨🇳 China          821
   🇹🇼 Taiwan         289
-  🇰🇷 Coreia do Sul  716
+  🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
+  - [korea] IMF Chief Economist: Outlook for AI Supply Chain Econs Like South Korea, Singapore, Vietnam Raised Significant
+  - [korea] South Korea shares tumble over 6% as chip selloff triggers trading curb
   - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
   - [korea] IMF Raises 2026 South Korea Growth Forecast to 3.3% From 2.6%
   - [japan] IMF Raises 2026 Japan Growth Forecast to 0.7% From 0.6%
@@ -55,8 +57,6 @@ Total: 2952 manchetes
   - [japan] Corporate prices rise 6.8% in September Bank of Japan (Jiji Press)
   - [japan] Japan Producer Prices Rise the Least in 4 Months
   - [japan] JAPAN SEPT PRODUCER PRICES -0.3% M/M (AUG REVISED TO -0.3% FROM -0.2%); 2ND STRAIGHT DROP; MEDIAN FORECAST +0.
-  - [japan] Corporate Goods Price Index (Sept.)
-  - [japan] Japan finance minister named as next chair of World Bank-IMF joint development committee
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2952 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T02:22:43+00:00",
+      "published_utc": "2026-10-13T02:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
