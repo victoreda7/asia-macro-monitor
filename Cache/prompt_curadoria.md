@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T03:45:17.231151+00:00
-Total: 2971 manchetes
+Última coleta: 2026-10-13T03:52:43.952638+00:00
+Total: 2973 manchetes
 
-  🇯🇵 Japão          1130
+  🇯🇵 Japão          1131
   🇨🇳 China          826
-  🇹🇼 Taiwan         292
+  🇹🇼 Taiwan         293
   🇰🇷 Coreia do Sul  723
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks
   - [china] Yuan holds firm near 2023 highs despite dollar strength
   - [taiwan] TSMC Revenue Growth Upgrade a 'Live Possibility' — Market Talk
@@ -32,6 +33,7 @@ Total: 2971 manchetes
   - [korea] Why is Samsung Electronics stock plunging today?
   - [korea] Why is SK Hynix stock plunging today?
   - [korea] IMF Chief Economist: Outlook for AI Supply Chain Econs Like South Korea, Singapore, Vietnam Raised Significant
+  - [japan] Gold eases on firm dollar; spotlight on US inflation data
   - [korea] South Korea shares tumble over 6% as chip selloff triggers trading curb
   - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
   - [korea] IMF Raises 2026 South Korea Growth Forecast to 3.3% From 2.6%
@@ -55,8 +57,6 @@ Total: 2971 manchetes
   - [china] On October 13, the central bank launched a 65 billion yuan 7-day reverse repurchase operation.
   - [japan] Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Oct 20
   - [china] Exclusive | China’s finance minister to deliver opening speech at Apec meeting in Hong Kong
-  - [korea] Foreign selling slams Kospi as China chip fears hit Samsung, SK Hynix
-  - [japan] Japan’s wholesale inflation remains elevated, keeps alive BOJ rate-hike view
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2971 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T03:45:17+00:00",
+      "published_utc": "2026-10-13T03:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
