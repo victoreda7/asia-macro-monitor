@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T08:32:42.984160+00:00
+Última coleta: 2026-10-13T08:42:43.995683+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1136
-  🇨🇳 China          834
+  🇯🇵 Japão          1138
+  🇨🇳 China          835
   🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  733
+  🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [china] Visa Wins Preliminary Approval for Yuan Card Clearing in China
   - [korea] Repeat & Correct: South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
+  - [china] Global chip selloff deepens as AI worries, China competition weigh
+  - [japan] Former NHK chairman Nobuo Inaba dies at age 75, also serving as director of the Bank of Japan (Mainichi Shimbu
+  - [japan] Inflation expectations remain 86.5% higher in 5 years, highest level in 19 years due to Middle East impact, Ba
+  - [japan] Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung c
   - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
   - [china] China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk
   - [japan] Individuals' inflation expectations remain high: 86.5% that prices will rise in five years' time Bank of Japan
@@ -47,16 +52,11 @@ Total: 3000 manchetes
   - [japan] Asian brands tighten grip on Tokyo's high-end shopping districts
   - [japan] 86.5% of households expect prices to rise five years from now; prices continue to rise and remain at high leve
   - [japan] 86.5% of households expect prices to rise five years from now, the highest level in nine years as prices rise 
+  - [japan] Underlying inflation rate of 2% is "very close"; stabilization is important - Bank of Japan Governor (Reuters)
   - [japan] It is now important to keep the underlying price level stable at around 2% - Bank of Japan Governor (Reuters)
   - [japan] Gold rebounds as dollar retreats, Middle East tensions sustain inflation concerns
   - [korea] SoftBank, SK Hynix lead Asian tech sell-off amid AI investment concerns
   - [china] China blue chips fall to 14-month low on tech selloff
-  - [japan] BOJ Governor Ueda says important to anchor inflation around 2% now
-  - [japan] 88.6% of Japan households expect prices to rise a year from now, BOJ says
-  - [japan] Japan's producer price inflation slows to 6.8% in September, below market expectations
-  - [taiwan] TSMC's Third-Quarter Net Profit Likely Jumped 62% as Revenue Tops Guidance — Earnings Preview
-  - [china] China to Cut New Energy Vehicle Export Tax Rebate to 9% From April 2027
-  - [taiwan] Taiwan Finance Minister to attend APEC meeting in Hong Kong next week (Reuters)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T08:32:43+00:00",
+      "published_utc": "2026-10-13T08:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

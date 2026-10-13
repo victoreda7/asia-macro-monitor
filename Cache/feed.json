@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T08:32:42.984160+00:00",
- "collected_at_utc": "2026-10-13T08:32:42.984160+00:00",
+ "generated_at_utc": "2026-10-13T08:42:43.995683+00:00",
+ "collected_at_utc": "2026-10-13T08:42:43.995683+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1136,
-  "china": 834,
+  "japan": 1138,
+  "china": 835,
   "taiwan": 297,
-  "korea": 733
+  "korea": 730
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T02:32:00+00:00"
+   "newest": "2026-10-13T08:29:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T08:18:09+00:00"
+   "newest": "2026-10-13T08:36:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T08:00:25+00:00"
+   "newest": "2026-10-13T08:32:01+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T08:31:32+00:00"
+   "newest": "2026-10-13T08:42:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T05:32:28+00:00"
+   "newest": "2026-10-13T02:30:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T08:03:14+00:00"
+   "newest": "2026-10-13T08:22:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T08:24:30+00:00"
+   "newest": "2026-10-13T08:37:38+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "Visa Wins Preliminary Approval for Yuan Card Clearing in China",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV1lLRy1MeHV6cXZGQ0NkdmNFdUV5dmljenhqQy1mVDRCOTZzRU1UU1hGVU00ekJRMVNJUjM3bkp4cldYTlNYV0R5NmUxRmJmWnRFT1Z5c1ZVUW41SUp3NmN3RFYzRFI1ZHN0dmRhMWVSclF4UFJqV0dxdmdKRE85TEZNT0xJS1hRdlNFWjhmWV8xeC1Ma0N5Ui1xU0xudllacVpRbjJUVWE4ak5wLXZSZWdoX21STFhD?oc=5",
+   "published_utc": "2026-10-13T08:29:00+00:00",
+   "title_original": "Visa Wins Preliminary Approval for Yuan Card Clearing in China",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "889e0c1227ff4a8b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -359,6 +376,75 @@
    "live_wire": true,
    "manual": false,
    "id": "3e130bd5df74ddaa"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Global chip selloff deepens as AI worries, China competition weigh",
+   "url": "https://www.investing.com/news/stock-market-news/global-chip-selloff-deepens-as-ai-worries-china-competition-weigh-4945783",
+   "published_utc": "2026-10-13T08:26:57+00:00",
+   "title_original": "Global chip selloff deepens as AI worries, China competition weigh",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dadd26673c5f1502"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Former NHK chairman Nobuo Inaba dies at age 75, also serving as director of the Bank of Japan (Mainichi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZHpiN0E2Yjg1UnRkamExUkN0UFZZV1VEUzRoVXFzYWZuQ0tOTC1TT1cxTXB0OXpKaDJDYmdYTndXcXVMREJ4SEp6V2RraU0tTHhxcjl3bFI1azR3bEIxM2xGaXdwMFdBVG1KMW01UDMyeGR0RlZENFZoZEczWjQ?oc=5",
+   "published_utc": "2026-10-13T08:22:00+00:00",
+   "title_original": "NHK前会長・稲葉延雄さん死去 75歳 日銀理事なども歴任（毎日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "366f985306459318"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Inflation expectations remain 86.5% higher in 5 years, highest level in 19 years due to Middle East impact, Bank of Japan survey (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NbGE2SEo4OEFXMGxhamc5Y1BFMGFXRkxMeVY0X0E0TXJaa0ZaQmloaUdVVlFxcXdWbmFFanRFZkIxZFFIMnZlTjV3WGZnQWl6ZXMwTDU2V1dYWElRa29zOWVRQS00bDc5ZEJZZkduaXA2RmpFczJMUjJVZkdMc0U?oc=5",
+   "published_utc": "2026-10-13T08:13:56+00:00",
+   "title_original": "物価予想、5年後も86．5％が上昇 中東影響、19年ぶり高水準 日銀調査（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "089b0820353e5f66"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung cancer (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbUpzeVVpREgxVXJ1TUVLNkFjcngtb2MtYk96UWt4d2Y4X1hDZnhSOEhxQUVxNDZxamt0YkN3TmdYeEVWWEpBVGt1THduTnJBTHpGZmY4VEoxMHBuWXhaQ2pJTm1WWHh4LS02UnVLR3U0dTFNV1Z1MkxYYmlfRVk?oc=5",
+   "published_utc": "2026-10-13T08:05:00+00:00",
+   "title_original": "NHK前会長・日銀元理事の稲葉延雄さん死去、75歳 肺がん公表（朝日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4f796ea197e86816"
   },
   {
    "source_id": "tradingview_live",
@@ -621,7 +707,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Bae Jun-young: “Bonk Governor needs to ‘reexamine the starting point’ of raising base interest rate this month”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDbUJvbUZaVTM4eXhmWEM3UVVscWJXWEx0cDh4Smd3UGs0MkhpRllpX3BfNXNPRXJxdzFNd3JxYUdhZkFzWURfTWVjNFUyTUJDTjlrSE13SldvS0nSAWBBVV95cUxNY08zVlZDZC1fdG12cnJpNU5uUWhqcGlIekNEQTdrRWhLWnhJdE8xMVNMeVc5SnNjRVB5S3MyU0plaVNNZDVmTlkyYjdfblFvNDVfRk1uRjhYSEF0LWlES1A?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTzNWVkNkLV90bXZycmk1Tm5RaGpwaUh6Q0RBN2tFaEtaeEl0TzExU0x5VzlKc2NFUHlLczJTSmVpU01kNWZOWTJiN19uUW80NV9GTW5GOFhIQXQtaURLUNIBYEFVX3lxTE1jTzNWVkNkLV90bXZycmk1Tm5RaGpwaUh6Q0RBN2tFaEtaeEl0TzExU0x5VzlKc2NFUHlLczJTSmVpU01kNWZOWTJiN19uUW80NV9GTW5GOFhIQXQtaURLUA?oc=5",
    "published_utc": "2026-10-13T06:50:33+00:00",
    "title_original": "野배준영 \"한은총재, 이달 기준금리 인상 '원점 재검토'해야\"",
    "region": "korea",
@@ -632,7 +718,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "850455faec099865"
+   "id": "0e6e41a882544fc0"
   },
   {
    "source_id": "investing_live",
@@ -858,6 +944,26 @@
    "live_wire": false,
    "manual": false,
    "id": "f5f6610fd10960be"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Underlying inflation rate of 2% is \"very close\"; stabilization is important - Bank of Japan Governor (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RVEhtM3VLaHVHVEpMTDRhZVpsSTk1dGdrSl80THhMQVNEMzR3WVN4X3puRkpNY21wVlpsQnNZMUJhcVpUVEdSNDB4TTYzaDdXQzZ2aFlBZGQtcWprelBqRkJIaWExZjBXa1VtT1duRjcxUnBfMGpjWEJDR05fMDA?oc=5",
+   "published_utc": "2026-10-13T04:55:50+00:00",
+   "title_original": "基調物価2％「かなり近づいている」、安定させる観点が重要＝日銀総裁（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "trade",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "311c386b8e7b1430"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4428,7 +4534,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 302 billion yuan reverse repo expires this week, and the 500 billion yuan buyout expires on Thursday.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zU1kydF8yQWI4djFDWFRFaFdkbVh6eUJxZWhXNTlzS0E3d1h6SFNSMnQwSUt4bmNhN3RoTnF2QXJUWXlzNHhxajVrNzBxQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84NS1JZWNGdTRJVGV0WmdYUS1uN29ac3lMaVM2bE03Tl9qdkppbThaVUowU05yOVl4cUFqdHdncE5yRWRQMjFBa2tsTVpsQ3RMYmdWNUxGdWN4NkphaVFQTzNn?oc=5",
    "published_utc": "2026-10-12T00:51:47+00:00",
    "title_original": "本周央行3020亿元逆回购到期 5000亿元买断式周四到期",
    "region": "china",
@@ -4440,7 +4546,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fde8e61754043213"
+   "id": "25e47331a55dbf6f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5374,8 +5480,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5388,7 +5494,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -6319,8 +6425,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6334,7 +6440,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -6525,8 +6631,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -6540,7 +6646,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -7411,8 +7517,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7426,7 +7532,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51839,110 +51945,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1414872c681eb074"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Finance minister nominee says corporate tax cut not under consideration",
-   "url": "https://www.koreaherald.com/article/10871801",
-   "published_utc": "2026-09-13T20:33:27+00:00",
-   "title_original": "Finance minister nominee says corporate tax cut not under consideration",
-   "region": "korea",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1e0a37e39fd9d772"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Forum puts power, talent at center of southwest chip push",
-   "url": "https://www.koreaherald.com/article/10871611",
-   "published_utc": "2026-09-13T13:55:01+00:00",
-   "title_original": "Forum puts power, talent at center of southwest chip push",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9bd23106413ba11e"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "BOJ meeting, Semicon India, Hong Kong's first five-year plan",
-   "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/boj-meeting-semicon-india-hong-kong-s-first-five-year-plan",
-   "published_utc": "2026-09-13T11:54:48.132043+00:00",
-   "title_original": "BOJ meeting, Semicon India, Hong Kong's first five-year plan",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "735839f9352c3ab8"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "Bank of Japan likely to raise interest rates; impact on household finances",
-   "url": "https://news.yahoo.co.jp/pickup/6595177?source=rss",
-   "published_utc": "2026-09-13T11:12:49+00:00",
-   "title_original": "日銀の利上げ公算大 家計への影響",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6ba8e5c4dd0914ea"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "sohu.com",
-   "title_en": "The tax period is superimposed on government debt payment disturbances, and the central bank's overnight reverse repurchase operations are normalized to stabilize the funding situation.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUZORzNOQWpqTlJMRk1RdGRwTDNLdTdYbVJ6SHhCSlQzR2g0M2swN0VNcVJZWGw5Qk1oMFhUVTV3eldMeWV2bUtfNjcxLVQ2d2xFRHZZS05Kd3pMdXEtNk1jek9JUmo0ZTdFY2Rkbkk1Smw5RjBUYWtybW9CeVJtWVJwR1RiV0F2?oc=5",
-   "published_utc": "2026-09-13T10:14:00+00:00",
-   "title_original": "税期叠加政府债缴款扰动，央行隔夜逆回购常态化操作稳定资金面",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "769da2ab064a9be2"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Why Kepco wants five years of chipmakers’ power bills upfront",
-   "url": "https://www.koreaherald.com/article/10870310",
-   "published_utc": "2026-09-13T10:07:05+00:00",
-   "title_original": "Why Kepco wants five years of chipmakers’ power bills upfront",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0ffedf0fadd2f559"
   },
   {
    "source_id": "manual_ia",
