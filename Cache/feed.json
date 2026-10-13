@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T01:56:30.188458+00:00",
- "collected_at_utc": "2026-10-13T01:56:30.188458+00:00",
+ "generated_at_utc": "2026-10-13T02:02:43.316945+00:00",
+ "collected_at_utc": "2026-10-13T02:02:43.316945+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2938,
+ "count": 2942,
  "by_region": {
-  "japan": 1123,
-  "china": 816,
+  "japan": 1125,
+  "china": 818,
   "taiwan": 288,
   "korea": 711
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 36,
+   "count": 37,
    "error": "",
-   "newest": "2026-10-12T20:48:21+08:00"
+   "newest": "2026-10-13T09:08:41+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T01:31:29+00:00"
+   "newest": "2026-10-13T01:48:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T01:00:27+00:00"
+   "newest": "2026-10-13T01:54:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T05:14:00+00:00"
+   "newest": "2026-10-11T10:12:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T23:00:37+00:00"
+   "newest": "2026-10-13T01:14:21+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T01:54:56+00:00"
+   "newest": "2026-10-13T02:00:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T23:32:03+00:00"
+   "newest": "2026-10-12T20:28:55+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "IMF expects gradual BOJ rate hike towards neutral setting",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45V0AS:0-imf-expects-gradual-boj-rate-hike-towards-neutral-setting/",
+   "published_utc": "2026-10-13T02:00:00+00:00",
+   "title_original": "IMF expects gradual BOJ rate hike towards neutral setting",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9007ad181c36e562"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -447,6 +464,41 @@
    "live_wire": true,
    "manual": false,
    "id": "1add3f9288581109"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中新经纬",
+   "title_en": "The central bank launches 65 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kcGdMclZUOEZqbjctaGxEdmxhdmtfeExoa1FIYkgxZXNGS2JWSHRrNmFKN1NQSEU0azAxanBWYTh4X0FGWUQ5SjhlQVhZd2RzU3d4Nnh4RXQ2YzUtNFhkRWRTU2w?oc=5",
+   "published_utc": "2026-10-13T01:23:00+00:00",
+   "title_original": "央行开展650亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16efc025bfc13c75"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Exclusive | China’s finance minister to deliver opening speech at Apec meeting in Hong Kong",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQnBIN3FfZUhvUFl2Y1lLajdVeXhsTGNxcUZHVmFpUzI5TVQwTURENTZQbUVzUXlGQjdZT1VRMHJZMVBqckFqNnU2RXVlVy1MNmdRR0llcl9paU4tMlg2WVhqMTJwNllJODlWMDBiUThwdVQxcGc1YjQ1M1dWRU5hd1BpRnd2SGhBbmZQcWFCTGJDN3RlaVcyWkQza2c5bjBJcy1UYTVPM2gxS2p4OTJOa05vdDRsXzVPM0c0aDNmeU0yZE8zUThleUw2UlR4Nkxsb0J5atIB1AFBVV95cUxPNm8yTUU2MVZ5aUFPT3d3N1AxSkg4aDN2bTFGUXk5OVhpYjVialJiM2FqYzBtb1hRV3lpenRJNTF3MnNxaEl4aDJSUGp2Wk5zYWpUS1Nwc0tsOGV0aGRoYU92S29ERmJlN0hLSFNqMm9HRmE3NzZHdFlRYUNIRzRVdDBVTGdlR2ZPNkIteTAzWFViNmhYSF81OUkxeDlEcTRiZkx3eXFuVlRJbTVpUUJEV1gyMU5qZXY4UlJ0VkxfT2wtVEx0VFB3RXFoblJNcGlpU1A0cw?oc=5",
+   "published_utc": "2026-10-13T01:14:21+00:00",
+   "title_original": "Exclusive | China’s finance minister to deliver opening speech at Apec meeting in Hong Kong",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a67521916e909148"
   },
   {
    "source_id": "gn_kr_ked",
@@ -603,6 +655,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3e5fea2ab6174823"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "September corporate price index rises 6.8% to 135.7...Bank of Japan announces (Yomiuri Shimbun Online)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmVKODFJMVY2TWRTQ1RHWmVRcUloeWVIU1A4VS1iVUdXNzZJejlYdDdaMVFOaGlNSFNPVzA2ZU03LVBZdjVDclhEMnhYemk1RTAtSXlPbm1fVHM2MnRtOWU1Uk43YXUwSnVNX1BBR2ZpS3NYTWhqRUVGOHVFWHNCbjVfNlpYb0w3eERGWmd3?oc=5",
+   "published_utc": "2026-10-13T00:06:04+00:00",
+   "title_original": "９月の企業物価指数、６・８％上昇し１３５・７…日本銀行が発表 (読売新聞オンライン)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4b8cbe4e015cd572"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3682,7 +3752,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "국민일보",
    "title_en": "The Bank of Korea predicts a ‘hawkish freeze’ in its benchmark interest rate in October… Additional tightening variables in the US",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wZlVEaGZuMWVacXVTQ0l6djFlUlJJNWUwSnAzRHFpQUh3WktBS0NlY1BELWIwUUxBVkFfMDgxQlhOSTVDdUdzUG5FN2dnZzNkTDk5cWF4LWV3dWxqNlg5bEdPbWVES2VNLWc5Q9IBbEFVX3lxTE9wZlVEaGZuMWVacXVTQ0l6djFlUlJJNWUwSnAzRHFpQUh3WktBS0NlY1BELWIwUUxBVkFfMDgxQlhOSTVDdUdzUG5FN2dnZzNkTDk5cWF4LWV3dWxqNlg5bEdPbWVES2VNLWc5Qw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80d00tSUZfUHlxcG1vWWs2alcxOWtoV2RlTFpMbWNxZWlHaGtCcGlEeDBOazNtamFPcnBaWllBR1pIaHh2V1VzZkl5NlRyZ1pfbjhmVHVzejBHM3pNVVJiZmlkVVFCb03SAWxBVV95cUxPcGZVRGhmbjFlWnF1U0NJenYxZVJSSTVlMEpwM0RxaUFId1pLQUtDZWNQRC1iMFFMQVZBXzA4MUJYTkk1Q3VHc1BuRTdnZ2czZEw5OXFheC1ld3VsajZYOWxHT21lREtlTS1nOUM?oc=5",
    "published_utc": "2026-10-11T15:21:00+00:00",
    "title_original": "한은 10월 기준금리 ‘매파적 동결’ 전망… 美 추가 긴축 변수",
    "region": "korea",
@@ -3693,7 +3763,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "82441b8a99e83485"
+   "id": "ab46e0460e9215fc"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3866,6 +3936,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a64d9291b255f33b"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7d0d81b05ec0a14"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4056,8 +4143,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -4070,7 +4157,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -4967,23 +5054,6 @@
    "id": "91431e6663917737"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-   "published_utc": "2026-10-09T14:02:00+00:00",
-   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7d0d81b05ec0a14"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Developer of One Stanley pledges 6-year warranty and checks amid steel bar probe",
@@ -5001,8 +5071,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -5016,7 +5086,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -5207,8 +5277,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -5222,7 +5292,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -6076,8 +6146,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -6091,7 +6161,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -14754,6 +14824,23 @@
    "id": "d4f69379f6a6f7c2"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
+   "published_utc": "2026-10-03T14:36:49+00:00",
+   "title_original": "Musk confirms talks with TSMC over his Texas chip factory project",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9e3fe8194e680dde"
+  },
+  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "How US-China tech ties are deepening as RISC-V chips go mainstream",
@@ -14872,23 +14959,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e5fed613cf597187"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Musk confirms talks with TSMC over his Texas chip factory project",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGtjWHVkYVZrd1RyRFJFMk5MT2VDWmVBQ3ZFZTJpUFVZOFVtTjhIc2xuTGJvSTZrTkhhOFR5ekdXQXhuTDJodGx2MGdTTkFsdkZySjY4SFVSQjFrQ2JjMzAzdVlEWDdJcVppTlNleVVBUmpWSkZSMmg2YjZZQXJFVnJZY09ZaFYtNW5Mck9YTzVwdlU?oc=5",
-   "published_utc": "2026-10-03T07:00:00+00:00",
-   "title_original": "Musk confirms talks with TSMC over his Texas chip factory project",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e3fe8194e680dde"
   },
   {
    "source_id": "tradingview_live",
@@ -40458,6 +40528,23 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ to avoid negative impact of rapid interest rate hikes: chief Ueda",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82YThMTkJoX0RTd3AxRU5za1NFMVg0MVVIN2JnODNUa0xvdE1fbkVsMkFldmVVaHN1YVZTUjNMcHhweUlUdkN3QlkwZk56Zml2YTBDd2Fkc3d1QQ?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: BOJ to avoid negative impact of rapid interest rate hikes: chief Ueda",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7ff5b6342c59b78d"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ to watch forex moves, AI-linked demand for future monetary policy",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mSUsxNkhOcFM2TExpcTY3Ymt6TVVPZVRLUm5mVUVKSE4tZG4ycVVCNGhLMXNmdHg3WGFZdEJVb3U4ek1TNXBpM1FtTTFYclhvQUE5aXdSd1pwUQ?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -40473,23 +40560,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ce9d7926a13f3d21"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ to avoid negative impact of rapid interest rate hikes: chief Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82YThMTkJoX0RTd3AxRU5za1NFMVg0MVVIN2JnODNUa0xvdE1fbkVsMkFldmVVaHN1YVZTUjNMcHhweUlUdkN3QlkwZk56Zml2YTBDd2Fkc3d1QQ?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ to avoid negative impact of rapid interest rate hikes: chief Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7ff5b6342c59b78d"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -40566,23 +40636,6 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Higher-than-usual rate hike possible depending on prices: BOJ Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MNmRlaDJ3QXI5bjNoMzlrLTFreWIwUHMxQXRwQWphZ1VQYmxTa1g4eV8ta1IxdnNjQkV3MlRzak44ZXFBZDZfMG1ZUHV0VnBNcWpNVEs2QkRjUQ?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Higher-than-usual rate hike possible depending on prices: BOJ Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1af7557dc6d93615"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: 2 BOJ rate hike dissenters said domestic demand remains weak: Ueda",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Fd1M5MElpcTVTckQ3cEFtdmVPbVFwR2VMTzRYd3FrMDAzaXE2VGlFSDUtOHZTel9Sd1FZNG9WSHdacHJNekRNbndNendoMGpTV1lIdHFRM3pUUQ?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -40596,6 +40649,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0d20705262af38ac"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Higher-than-usual rate hike possible depending on prices: BOJ Ueda",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MNmRlaDJ3QXI5bjNoMzlrLTFreWIwUHMxQXRwQWphZ1VQYmxTa1g4eV8ta1IxdnNjQkV3MlRzak44ZXFBZDZfMG1ZUHV0VnBNcWpNVEs2QkRjUQ?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Higher-than-usual rate hike possible depending on prices: BOJ Ueda",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1af7557dc6d93615"
   },
   {
    "source_id": "gn_jp_kyodo",

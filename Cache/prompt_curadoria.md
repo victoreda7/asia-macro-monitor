@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T01:56:30.188458+00:00
-Total: 2938 manchetes
+Última coleta: 2026-10-13T02:02:43.316945+00:00
+Total: 2942 manchetes
 
-  🇯🇵 Japão          1123
-  🇨🇳 China          816
+  🇯🇵 Japão          1125
+  🇨🇳 China          818
   🇹🇼 Taiwan         288
   🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [japan] IMF expects gradual BOJ rate hike towards neutral setting
   - [japan] Japan bond yields diverge as investors weigh inflation, BOJ outlook
   - [china] CHINA PBOC CONDUCTS CNY65 BLN VIA 7-DAY REVERSE REPO TUES
   - [china] The central bank launched a 65 billion yuan 7-day reverse repurchase operation today
   - [china] SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector
   - [china] On October 13, the central bank launched a 65 billion yuan 7-day reverse repurchase operation.
   - [japan] Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Oct 20
+  - [china] The central bank launches 65 billion yuan 7-day reverse repurchase operation
+  - [china] Exclusive | China’s finance minister to deliver opening speech at Apec meeting in Hong Kong
   - [korea] Foreign selling slams Kospi as China chip fears hit Samsung, SK Hynix
   - [japan] Japan’s wholesale inflation remains elevated, keeps alive BOJ rate-hike view
   - [korea] Seoul shares open sharply lower on U.S. losses, inflation concerns
@@ -32,6 +35,7 @@ Total: 2938 manchetes
   - [japan] JAPAN SEPT CORP GOODS PRICE INDEX -0.3% M/M; AUG -0.3%
   - [japan] September corporate price index increased by 6.8% compared to the same month last year
   - [japan] JAPAN SEPT CGPI IMPORT INDEX +24.5% Y/Y IN YEN TERMS FOR 10TH STRAIGHT RISE VS. AUG REVISED UP TO +25.1% FROM+
+  - [japan] September corporate price index rises 6.8% to 135.7...Bank of Japan announces (Yomiuri Shimbun Online)
   - [japan] September corporate price index rose 6.8% to 135.7...Bank of Japan announced (Yomiuri Shimbun Online)
   - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil
   - [japan] JAPAN SEPT CGPI: KEY ENERGY PRICES; CRUDE OIL/COAL PRODUCTS +11.5% Y/Y VS. AUG +14.7%
@@ -53,10 +57,6 @@ Total: 2938 manchetes
   - [korea] “We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October
   - [korea] Onto Innovation wins SK hynix award for HBM defect technology
   - [japan] FX weekly: Greenback climbs, Yen slides for fourth consecutive week
-  - [china] Dow Rises 200 Points, Nasdaq Wavers: China Chip Competition Hits Tech Stocks, Oil Climbs
-  - [china] China to Cut Export Tax Rebate for New-Energy Vehicles
-  - [taiwan] Interview: Microsoft's Maia GM on Maia 300, Taiwan and HBM supply
-  - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2938 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T01:56:30+00:00",
+      "published_utc": "2026-10-13T02:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
