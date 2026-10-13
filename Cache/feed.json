@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-13T11:02:43.289856+00:00",
- "collected_at_utc": "2026-10-13T11:02:43.289856+00:00",
+ "generated_at_utc": "2026-10-13T11:12:45.791086+00:00",
+ "collected_at_utc": "2026-10-13T11:12:45.791086+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1142,
-  "china": 831,
-  "taiwan": 296,
-  "korea": 731
+  "china": 829,
+  "taiwan": 297,
+  "korea": 732
  },
  "elapsed_s": 29.7,
  "sources": [
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T10:46:17+00:00"
+   "newest": "2026-10-13T11:07:32+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T10:44:58+00:00"
+   "newest": "2026-10-13T11:06:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T19:29:42+09:00"
+   "newest": "2026-10-13T19:29:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T19:50:22+09:00"
+   "newest": "2026-10-13T20:03:05+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T11:02:00+00:00"
+   "newest": "2026-10-13T11:12:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T08:44:40+00:00"
+   "newest": "2026-10-13T10:49:30+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -364,6 +364,58 @@
   },
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Bank of Korea chief says monetary policy to stay restrictive for now",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45Z0BO:0-bank-of-korea-chief-says-monetary-policy-to-stay-restrictive-for-now/",
+   "published_utc": "2026-10-13T11:06:19+00:00",
+   "title_original": "Bank of Korea chief says monetary policy to stay restrictive for now",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "448b946c227c8442"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Taiwan Semiconductor Manufacturing Company Limited expected to post earnings of $4.50 a share - Earnings Preview",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N45Z0ZE:0-taiwan-semiconductor-manufacturing-company-limited-expected-to-post-earnings-of-4-50-a-share-earnings-preview/",
+   "published_utc": "2026-10-13T11:06:07+00:00",
+   "title_original": "Taiwan Semiconductor Manufacturing Company Limited expected to post earnings of $4.50 a share - Earnings Preview",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7478fa67b3cbddb2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility",
+   "url": "https://www.tradingview.com/news/DJN_DN20261013001616:0-bank-of-korea-gov-shin-makes-case-for-forward-guidance-that-preserves-flexibility/",
+   "published_utc": "2026-10-13T11:04:00+00:00",
+   "title_original": "Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "367493ea6fb001bf"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "ShareCast",
    "title_en": "Asia report: Nikkei, KOSPI post big losses as chipmakers drop",
    "url": "https://www.tradingview.com/news/sharecast:576ce6179094b:0-asia-report-nikkei-kospi-post-big-losses-as-chipmakers-drop/",
@@ -378,6 +430,23 @@
    "live_wire": true,
    "manual": false,
    "id": "6de17fb22a3ddab0"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Hong Ra-hee to Gift 11.15 Million Samsung Electronics Shares to Lee Jae-yong",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GMkE5MlFmV2hFNnoyWlFsOV9YQm5fQXozMWF3QkxZeDlDMzBNc3EtVVB5WnpvRUl3c2hTMS1ZVUQ5UVdhNGFMeTYzQVlmX0Z6Yl9v?oc=5",
+   "published_utc": "2026-10-13T10:49:30+00:00",
+   "title_original": "Hong Ra-hee to Gift 11.15 Million Samsung Electronics Shares to Lee Jae-yong",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f7d85f7ff4afdb8c"
   },
   {
    "source_id": "tradingview_live",
@@ -1712,40 +1781,6 @@
    "id": "7078e633869804a0"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea's Kospi Slumps on Selloff in Chip Stocks",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012007810:0-south-korea-s-kospi-slumps-on-selloff-in-chip-stocks/",
-   "published_utc": "2026-10-13T03:52:00+00:00",
-   "title_original": "South Korea's Kospi Slumps on Selloff in Chip Stocks",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "20b432d37bb60f02"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "Samsung, SK Hynix and SoftBank plummet together: what changed overnight?",
-   "url": "https://www.tradingview.com/news/invezz:70b729976bc81:0/",
-   "published_utc": "2026-10-13T03:43:59+00:00",
-   "title_original": "Samsung, SK Hynix e SoftBank despencam juntos: o que mudou da noite para o dia?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "78af0ddad04f631c"
-  },
-  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%",
@@ -1762,23 +1797,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2d0a7d37d6a814a9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Yuan holds firm near 2023 highs despite dollar strength",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45Z07T:0-yuan-holds-firm-near-2023-highs-despite-dollar-strength/",
-   "published_utc": "2026-10-13T03:33:25+00:00",
-   "title_original": "Yuan holds firm near 2023 highs despite dollar strength",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "29a5714d8719e205"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -4912,7 +4930,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 302 billion yuan reverse repo expires this week, and the 500 billion yuan buyout expires on Thursday.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zU1kydF8yQWI4djFDWFRFaFdkbVh6eUJxZWhXNTlzS0E3d1h6SFNSMnQwSUt4bmNhN3RoTnF2QXJUWXlzNHhxajVrNzBxQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84NS1JZWNGdTRJVGV0WmdYUS1uN29ac3lMaVM2bE03Tl9qdkppbThaVUowU05yOVl4cUFqdHdncE5yRWRQMjFBa2tsTVpsQ3RMYmdWNUxGdWN4NkphaVFQTzNn?oc=5",
    "published_utc": "2026-10-12T00:51:47+00:00",
    "title_original": "本周央行3020亿元逆回购到期 5000亿元买断式周四到期",
    "region": "china",
@@ -4924,7 +4942,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fde8e61754043213"
+   "id": "25e47331a55dbf6f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5858,8 +5876,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5872,7 +5890,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -6803,8 +6821,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6818,7 +6836,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -7009,8 +7027,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -7024,7 +7042,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -7895,8 +7913,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7910,7 +7928,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51924,24 +51942,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ed3ada300b497e78"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
-   "title_en": "The central bank launches 504 billion yuan overnight reverse repurchase operation in the open market",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRTVESUJZTjVlVmZwVk5Sc1BFeUlickhoQ040YUEybXZuZllkOUNZMUpUN28ydVdINTNkVW9NUVNzU2VlSGJ3U19lV216a2RkQzlabXdpWVNWcDhCMzNNekczTHdjN0JVN0xkS0NkMk5sRnY2d0xrNFFVV3RTRy10eVBLekJEMnpQ?oc=5",
-   "published_utc": "2026-09-14T01:51:13+00:00",
-   "title_original": "央行公开市场开展5040亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "206776d4da92f03b"
   },
   {
    "source_id": "manual_ia",
