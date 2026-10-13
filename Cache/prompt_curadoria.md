@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T16:12:45.333298+00:00
+Última coleta: 2026-10-13T16:22:44.342019+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1138
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
   - [japan] Japan looks for off-ramp from Trump's ICC feud before US sanctions kick in
   - [korea] Korea launches chip policy office to fast-track W800tr investments
+  - [korea] 'Brutal session' for chip stocks shows AI trade is turning
   - [china] Shares of U.S. chip companies extend decline as China memory report and concerns about AI spending hit the sec
   - [china] US chip stocks extend slide as China memory report, AI spending jitters hit sector
   - [china] 'If you can't beat them, join them': Uday Kotak backs China investment, manufacturing JVs in India
@@ -29,7 +30,6 @@ Total: 3000 manchetes
   - [korea] Roze AI Announces Approximately US$14.8 Million (KRW 19.88 Billion) in New Contracts for AI-Powered Fire Risk 
   - [korea] SK Hynix Stock Crashes 9% as AI Fears Trigger Asian Tech Sell-Off
   - [china] Nvidia Loses Ground in China as AI Chip Shipments Plunge 44%
-  - [korea] 'Brutal session' for chip stocks shows AI trade is turning
   - [taiwan] Qnity Bets On Local Production To Win More AI Chip Business From Nvidia, TSMC – CEO Touts ‘Local-For-Local’ St
   - [korea] Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility
   - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T16:12:45+00:00",
+      "published_utc": "2026-10-13T16:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
