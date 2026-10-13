@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T13:52:45.668260+00:00
+Última coleta: 2026-10-13T14:02:43.731452+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1140
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Rises After BoJ Ueda Comments
   - [japan] Yen Rises Against Majors
   - [korea] Kospi tumbles as chip rout deepens, briefly breaking below 6,000
   - [korea] Roze AI Announces Approximately US$14.8 Million (KRW 19.88 Billion) in New Contracts for AI-Powered Fire Risk 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Repeat & Correct: South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
   - [china] Global chip selloff deepens as AI worries, China competition weigh
   - [japan] Former NHK chairman Nobuo Inaba dies at age 75, also serving as director of the Bank of Japan (Mainichi Shimbu
-  - [taiwan] Taiwan panel makers enter semiconductor fight as structural challenges persist
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T13:52:45+00:00",
+      "published_utc": "2026-10-13T14:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
