@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T08:42:43.995683+00:00
+Última coleta: 2026-10-13T08:52:42.531268+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1138
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] More than 80% predict that prices will rise in five years Bank of Japan's lifestyle awareness survey (TV Asahi
   - [china] Visa Wins Preliminary Approval for Yuan Card Clearing in China
   - [korea] Repeat & Correct: South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
   - [china] Global chip selloff deepens as AI worries, China competition weigh
@@ -25,6 +26,7 @@ Total: 3000 manchetes
   - [japan] Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung c
   - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
   - [china] China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk
+  - [korea] “We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October
   - [japan] Individuals' inflation expectations remain high: 86.5% that prices will rise in five years' time Bank of Japan
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
   - [japan] Stock prices have fallen significantly due to concerns about intensifying competition in the AI ​​and semicond
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Underlying inflation rate of 2% is "very close"; stabilization is important - Bank of Japan Governor (Reuters)
   - [japan] It is now important to keep the underlying price level stable at around 2% - Bank of Japan Governor (Reuters)
   - [japan] Gold rebounds as dollar retreats, Middle East tensions sustain inflation concerns
-  - [korea] SoftBank, SK Hynix lead Asian tech sell-off amid AI investment concerns
-  - [china] China blue chips fall to 14-month low on tech selloff
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T08:42:44+00:00",
+      "published_utc": "2026-10-13T08:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
