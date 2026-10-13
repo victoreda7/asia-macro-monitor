@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T11:12:45.791086+00:00
+Última coleta: 2026-10-13T11:22:44.694633+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1142
@@ -17,10 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility
   - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
   - [korea] Bank of Korea chief says monetary policy to stay restrictive for now
   - [taiwan] Taiwan Semiconductor Manufacturing Company Limited expected to post earnings of $4.50 a share - Earnings Previ
-  - [korea] Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility
   - [japan] Asia report: Nikkei, KOSPI post big losses as chipmakers drop
   - [korea] Hong Ra-hee to Gift 11.15 Million Samsung Electronics Shares to Lee Jae-yong
   - [china] E-House (China) Enterprise Says Grand Court Of Cayman Islands Sanctions Cayman Scheme
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T11:12:46+00:00",
+      "published_utc": "2026-10-13T11:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

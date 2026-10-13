@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-13T11:12:45.791086+00:00",
- "collected_at_utc": "2026-10-13T11:12:45.791086+00:00",
+ "generated_at_utc": "2026-10-13T11:22:44.694633+00:00",
+ "collected_at_utc": "2026-10-13T11:22:44.694633+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 297,
   "korea": 732
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T09:23:00+00:00"
+   "newest": "2026-10-12T08:12:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T03:43:00+00:00"
+   "newest": "2026-10-13T11:02:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T19:29:00+09:00"
+   "newest": "2026-10-13T20:20:19+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T03:52:05+00:00"
+   "newest": "2026-10-13T10:04:33+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T11:12:08+00:00"
+   "newest": "2026-10-13T11:22:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-13T09:51:01+00:00"
+   "newest": "2026-10-13T11:15:18+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility",
+   "url": "https://www.tradingview.com/news/DJN_DN20261013003027:0-bank-of-korea-gov-shin-makes-case-for-forward-guidance-that-preserves-flexibility/",
+   "published_utc": "2026-10-13T11:19:00+00:00",
+   "title_original": "Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "05c586e6080da680"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -396,23 +413,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7478fa67b3cbddb2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility",
-   "url": "https://www.tradingview.com/news/DJN_DN20261013001616:0-bank-of-korea-gov-shin-makes-case-for-forward-guidance-that-preserves-flexibility/",
-   "published_utc": "2026-10-13T11:04:00+00:00",
-   "title_original": "Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "367493ea6fb001bf"
   },
   {
    "source_id": "tradingview_live",
@@ -4494,6 +4494,23 @@
    "id": "e53220cd62a9e5c6"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "TradingView",
+   "title_en": "China’s money market: Funds continue to be abundant, and the central bank’s reverse repurchase operations exceed expectations, boosting optimism",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBQjJwQnVMUV94Y0ZFVUNybVJRZFNoR1FwOTVMV1ZkSzlpWVhJcDZMNEpXSkFRY0VjUjhEZDRYUWpDSlE3N05TRElNM2prVTFiaGdMdXp1bHhRVnhnYlZoU0tsei12NDlib1d1TDg3ZThSR3dPWDZB?oc=5",
+   "published_utc": "2026-10-12T04:11:00+00:00",
+   "title_original": "中国货币市场：资金持续充沛，央行逆回购操作量超预期推升乐观情绪",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "dc79720a6a92466a"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "매일경제TV",
    "title_en": "Bank of Korea governor: “Monetary policy unwavering”… Emphasis on fiscal harmony",
@@ -5272,23 +5289,6 @@
    "id": "0de7b15488fea39c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "TradingView",
-   "title_en": "China’s money market: Funds continue to be abundant, and the central bank’s reverse repurchase operations exceed expectations, boosting optimism",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JbDY1X0pfOU1JNDBMSVdFR2FzUFZJSHJWeG42eTFOaFNYc3hHM2ZJYVY3bjkwWnBxZzhrUzV1SVRBZEc1aDVNeDZRN1pNZS0ta1daaVoyZmlVZlFxTlZFQ0lpazUxSVBKbHM3X2xZU1FoSmxOSmdj?oc=5",
-   "published_utc": "2026-10-11T21:11:00+00:00",
-   "title_original": "中国货币市场：资金持续充沛，央行逆回购操作量超预期推升乐观情绪",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ad78d2dbb42fa448"
-  },
-  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Investors bet on Japan, Australia rental housing as rates, home prices rise",
@@ -5876,8 +5876,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5890,7 +5890,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -6821,8 +6821,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6836,7 +6836,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -7027,8 +7027,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -7042,7 +7042,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -7913,8 +7913,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7928,7 +7928,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
