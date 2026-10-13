@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T09:13:23.497380+00:00
+Última coleta: 2026-10-13T09:22:43.944841+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1138
+  🇯🇵 Japão          1136
   🇨🇳 China          834
   🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  731
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [korea] KOSPI Slumps as U.S. AI Chip Panic Spreads — Barrons.com
   - [japan] Intervention Risk Limits Yen Falls Against Dollar — Market Talk
   - [japan] 88% of people expect prices to rise one year from now, Bank of Japan's September lifestyle awareness survey (K
   - [china] Chip selloff deepens amid AI trade fears, rising Chinese competition
+  - [korea] The Ministry of Finance and Economy announced an administrative notice on the 13th to raise the pre
   - [japan] Former NHK Chairman Nobuo Inaba dies at age 75, former Bank of Japan board member (Jiji Press)
   - [korea] Commercial banks are offering non-face-to-face real estate mortgage loans for private businesses. Th..
   - [korea] [Photo] Export-import silver supports independence of isolated youth
@@ -34,7 +36,6 @@ Total: 3000 manchetes
   - [japan] Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung c
   - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
   - [china] China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk
-  - [korea] “We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October
   - [japan] Individuals' inflation expectations remain high: 86.5% that prices will rise in five years' time Bank of Japan
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
   - [japan] Stock prices have fallen significantly due to concerns about intensifying competition in the AI ​​and semicond
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Korean Chip Stocks' Retreat Partly Reflect Skepticism About Earnings Sustainability — Market Talk
   - [china] Tencent prepares $4.5B+ dollar and yuan bond offering for AI capex
   - [korea] Korea launches chip policy office to fast-track W800tr investments
-  - [china] Nvidia AI chip share in China falls as Huawei catches up- Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T09:13:23+00:00",
+      "published_utc": "2026-10-13T09:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
