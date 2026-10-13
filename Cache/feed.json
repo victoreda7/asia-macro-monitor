@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T14:22:46.666117+00:00",
- "collected_at_utc": "2026-10-13T14:22:46.666117+00:00",
+ "generated_at_utc": "2026-10-13T14:32:47.408473+00:00",
+ "collected_at_utc": "2026-10-13T14:32:47.408473+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1140,
-  "china": 830,
+  "japan": 1138,
+  "china": 831,
   "taiwan": 298,
-  "korea": 732
+  "korea": 733
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 31.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T22:48:35+09:00"
+   "newest": "2026-10-13T23:28:44+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T14:22:05+00:00"
+   "newest": "2026-10-13T14:31:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-13T14:05:13+00:00"
+   "newest": "2026-10-13T14:25:23+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T10:49:30+00:00"
+   "newest": "2026-10-13T11:42:08+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T07:48:56+00:00"
+   "newest": "2026-10-13T08:18:11+00:00"
   }
  ],
  "items": [
@@ -1066,6 +1066,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c38f0179bc9efb17"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "이코노미사이언스",
+   "title_en": "Caution on raising interest rates ahead of decision... Rep. Bae Jun-young “Consider slowing prices and interest burden”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DM29EWDAtUUlDWVdhWGVOQVdoNzVsMkEzTm8xMDFwQWxxeUdIVnJNSDRuN1g4cTNVV2t3RThIN3Yzc0c1TW9FZHhsVXBKaDZYNkg1M2VDMWRGLXdLWjdTOFBrTm9EbDJDV0ZpTTQyZw?oc=5",
+   "published_utc": "2026-10-13T08:18:11+00:00",
+   "title_original": "기준금리 결정 앞두고 인상 신중론…배준영 의원 \"물가 둔화·이자 부담 고려해야\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2da025abbfcd71ba"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -9740,6 +9758,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c16d8bb0d5a22070"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "凤凰网",
+   "title_en": "The central bank launched a 1.2 trillion yuan buyout reverse repo, with a net investment of 200 billion yuan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jWlgxd2Vydm1qYWl2VW5BSF9GYmNwMXJFWC1pWkVjUjZnTzg4ZDN4NkZJWDRjNlJUMHY2QTNITDZhbDd6NWtydzVkcFRhalBQU2c?oc=5",
+   "published_utc": "2026-10-08T06:42:47+00:00",
+   "title_original": "央行开展12000亿元买断式逆回购 净投放2000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "692e2cfaeecf7982"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51906,40 +51942,6 @@
    "live_wire": true,
    "manual": false,
    "id": "34f119b826edea6e"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The Bank of Japan will “dovishly raise interest rates” depending on the FOMC / Minister of Internal Affairs and Communications Yoshimasa Hayashi’s retention and high market risk (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QZUhmcWpIRkpMZjQ2dzk0d1dYT25IdVB4N05iUVhsYXB4SDllanYtZHdHckhoNXByMktHZU1PLWFKMTZDWlp2LWdTWHg5R1lfdmFYdjZXdkwxaTMxWXhqN0VzanVyVWlYSkE4dWh2bGJnV21ES1cyTmdnaHJGbUk?oc=5",
-   "published_utc": "2026-09-14T03:05:25+00:00",
-   "title_original": "日銀はFOMC次第で「ハト派利上げ」へ / 林芳正総務大臣の留任と高市リスク（TBS CROSS DIG with Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8af589d04bbcd136"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Bank of Japan Accounts (September 10)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260910.htm",
-   "published_utc": "2026-09-14T01:00:00+00:00",
-   "title_original": "Bank of Japan Accounts (September 10)",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5b12a096e8439735"
   },
   {
    "source_id": "manual_ia",
