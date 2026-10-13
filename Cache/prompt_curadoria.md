@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T07:52:42.211178+00:00
+Última coleta: 2026-10-13T08:02:43.286552+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1136
-  🇨🇳 China          831
+  🇨🇳 China          833
   🇹🇼 Taiwan         298
-  🇰🇷 Coreia do Sul  735
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk
+  - [japan] Individuals' inflation expectations remain high: 86.5% that prices will rise in five years' time Bank of Japan
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
   - [japan] Stock prices have fallen significantly due to concerns about intensifying competition in the AI ​​and semicond
   - [korea] (2nd LD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Asian tech shares plunge after Chinese chipmaker reports key advance
   - [japan] Asia FX steady as dollar holds near 18-mth high, U.S. CPI awaited
   - [china] Xpeng Vice Chairman Welcomes EU-China Hybrid Import Cap Deal
-  - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks
-  - [taiwan] IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T07:52:42+00:00",
+      "published_utc": "2026-10-13T08:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

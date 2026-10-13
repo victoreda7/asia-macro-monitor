@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T07:52:42.211178+00:00",
- "collected_at_utc": "2026-10-13T07:52:42.211178+00:00",
+ "generated_at_utc": "2026-10-13T08:02:43.286552+00:00",
+ "collected_at_utc": "2026-10-13T08:02:43.286552+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1136,
-  "china": 831,
+  "china": 833,
   "taiwan": 298,
-  "korea": 735
+  "korea": 733
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T07:36:42+00:00"
+   "newest": "2026-10-13T07:59:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T07:31:21+00:00"
+   "newest": "2026-10-13T08:00:25+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-13T16:21:09+00:00"
+   "newest": "2026-10-13T16:10:03+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T05:50:01+00:00"
+   "newest": "2026-10-13T03:52:05+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T07:50:54+00:00"
+   "newest": "2026-10-13T08:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T02:30:49+00:00"
+   "newest": "2026-10-13T05:32:28+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T07:18:01+00:00"
+   "newest": "2026-10-13T07:47:35+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,42 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261013001109:0-china-s-export-rebate-cut-to-cost-nev-makers-4-000-6-000-yuan-per-vehicle-market-talk/",
+   "published_utc": "2026-10-13T07:59:00+00:00",
+   "title_original": "China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "99149ca6c67982a6"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Individuals' inflation expectations remain high: 86.5% that prices will rise in five years' time Bank of Japan survey (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ZWVyRWlQemQ3TVJWYXJrSnlmZHVfcnBxc3AwWnZHbzEtRDZxa0huZVI3ek91Y05WR09GOTZaWFRHcmhHODZsMnZDbnl1eEZxQjJRNG1OdWFvUVZZWU5rcG9SNV9UTUV5NzcxN25SbmJQd2RfdGQzb1F0OU92N3M?oc=5",
+   "published_utc": "2026-10-13T07:47:35+00:00",
+   "title_original": "個人の物価予想高止まり 5年後の物価「上がる」86.5% 日銀調査（TBS NEWS DIG Powered by JNN）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9628b1f204031a39"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1589,24 +1625,6 @@
    "live_wire": false,
    "manual": false,
    "id": "10d52dba68857f96"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan bond yields diverge as investors weigh inflation, BOJ outlook",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45Z046:0-japan-bond-yields-diverge-as-investors-weigh-inflation-boj-outlook/",
-   "published_utc": "2026-10-13T01:54:47+00:00",
-   "title_original": "Japan bond yields diverge as investors weigh inflation, BOJ outlook",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d5e16d96602a9d9f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5356,8 +5374,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5370,7 +5388,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -6012,6 +6030,23 @@
    "id": "b48e9cd9157b3996"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Reactions to US imposing sanctions on International Criminal Court",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHUxbm9jdTRzNzR1d1UteGF1XzZDbW5BSV8tYzY2cGVmODFLR0hlQnpZX2M2LU5rblNhNmw4V3FkV2VyRElZRnhaSzRKRFJHLUdjaklvMTRyZ3NsckNSZGMteHpSRXZXamRDS1hPYTd1WTA1ZVRLYU5DMUhmT1VIUWNlYmE2dUo2RDNCSVRiTFVySUJnX3NSWkllTlFycVFCWkRpSQ?oc=5",
+   "published_utc": "2026-10-09T17:19:32+00:00",
+   "title_original": "Reactions to US imposing sanctions on International Criminal Court",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "190ceeaad80611bc"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "EU Says it Reached Understanding with China to Cut Back Hybrid Vehicle Exports — Update",
@@ -6284,8 +6319,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6299,7 +6334,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -6490,8 +6525,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -6505,7 +6540,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "In Depth: China’s Catering Sector Rethinks Growth After Toxic Subsidy-Fueled Boom",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaEZITWtyOVV6MG5UYzNCYmhlVHFRbUV1V0pPYnZabTFvclFHOXp6Yl9XQWkxc2J0WksxMHY3cWQ0eENVSXMyNVJxWkxad1NSM2IySFAzazZzbDZRcEwwV2k4UmY3cUFKSzRjTzdMLUhoQzNoRy1ESl8xZk1OM3ZJR0FsTmNWN0lTLV9lSGpYTVBMXzA1bjg5WDA2a19TUXp1ZTdXSTJ5QkR2QXk2aXY5V0N4UVg3TVFUWFQ5OWtONDNVakNHQzRaZkJmUVpKSlE?oc=5",
+   "published_utc": "2026-10-09T11:41:00+00:00",
+   "title_original": "In Depth: China’s Catering Sector Rethinks Growth After Toxic Subsidy-Fueled Boom",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4efe5d66e281b016"
   },
   {
    "source_id": "tradingview_live",
@@ -7359,8 +7411,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7374,7 +7426,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51891,57 +51943,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0ffedf0fadd2f559"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "파이낸셜뉴스",
-   "title_en": "When the base interest rate rises, deposit interest rates rise first.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OaFpqTDN4SDdaN2QzOGpmc0xKRGhHb0xGVlJfeWs4WXBEOHhpUldCNUlzeTBjUlJ2MmRqRV80MHh6NFBDRHE0LUNUeWFKUHZCbE5rYVZXSWZZQQ?oc=5",
-   "published_utc": "2026-09-13T09:23:05+00:00",
-   "title_original": "기준금리 오르자 예금금리 먼저 들썩",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2aa94198bb2b79a8"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Deputy Prime Minister and Finance and Economy Minister nominee Lee Hyung-il emphasized that he would..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mMUs5VVBWUF9lOUl6NFVFbE5oWTgwd3BUMjNyVGl5Q2l4QnhaS3dfeURVdG5HQy04UmRvYTdqRW1IZzg0MENROG53QVFaeEdHaUE?oc=5",
-   "published_utc": "2026-09-13T08:50:31+00:00",
-   "title_original": "Deputy Prime Minister and Finance and Economy Minister nominee Lee Hyung-il emphasized that he would..",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b2309044fefd16c8"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "Economic expansion: “lights and darks” for businesses and households",
-   "url": "https://news.yahoo.co.jp/pickup/6595168?source=rss",
-   "published_utc": "2026-09-13T08:41:52+00:00",
-   "title_original": "景気拡大 企業と家計の「明暗」",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d6445d39c876c19c"
   },
   {
    "source_id": "manual_ia",
