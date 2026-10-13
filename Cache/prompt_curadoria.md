@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T06:52:42.643557+00:00
-Total: 2996 manchetes
+Última coleta: 2026-10-13T07:02:41.853935+00:00
+Total: 2997 manchetes
 
-  🇯🇵 Japão          1136
+  🇯🇵 Japão          1135
   🇨🇳 China          835
   🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  728
+  🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [korea] (LEAD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes
+  - [korea] Bae Jun-young: “Bonk Governor needs to ‘reexamine the starting point’ of raising base interest rate this month
+  - [china] Asia stocks slide as chip rout deepens, Chinese automakers hit by EU trade curbs
   - [japan] Dollar Likely to Trade in 157.50-159.30 Yen Range This Week — Market Talk
   - [korea] Kospi Falls for Fifth Consecutive Session on Chip Selloff
   - [china] China’s exports seen growing at faster pace in September: Reuters Poll
@@ -48,15 +51,12 @@ Total: 2996 manchetes
   - [taiwan] Taiwan finance minister to attend APEC meeting in Hong Kong
   - [taiwan] TSMC, ASML earnings on tap: Bull and bear cases for tech outlined
   - [korea] South Korea’s Lee says country cannot avoid raising interest rates
-  - [china] Asia stocks slide as China chip threat hits Samsung, SK Hynix; oil retreats
   - [korea] South Korean Won Retreats from 2-Year High
   - [japan] [Illustration] Corporate prices rise 6.8% in September = growth slows due to fall in rice prices - Bank of Jap
   - [korea] Samsung, SK Hynix shares plunge on China competition fears
   - [china] Offshore Yuan Steady Vs. Dollar Ahead of Major Chinese Economic Data — Market Talk
   - [japan] Mr. Sasaki appointed as Bank of Japan Shizuoka Branch Manager (Kyodo News)
   - [japan] Yen Gains in Post-Holiday Trading
-  - [korea] Why is Samsung Electronics stock plunging today?
-  - [korea] Why is SK Hynix stock plunging today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2996 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T06:52:42+00:00",
+      "published_utc": "2026-10-13T07:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
