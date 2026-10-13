@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T12:12:42.566142+00:00
+Última coleta: 2026-10-13T12:22:44.118078+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1141
-  🇨🇳 China          829
+  🇯🇵 Japão          1140
+  🇨🇳 China          831
   🇹🇼 Taiwan         298
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
   - [korea] Bank of Korea chief says monetary policy to stay restrictive for now
   - [taiwan] Taiwan Semiconductor Manufacturing Company Limited expected to post earnings of $4.50 a share - Earnings Previ
+  - [china] As import curbs loom, Chinese carmakers hard to miss at Paris Motor Show
   - [japan] Asia report: Nikkei, KOSPI post big losses as chipmakers drop
   - [korea] Hong Ra-hee to Gift 11.15 Million Samsung Electronics Shares to Lee Jae-yong
   - [china] E-House (China) Enterprise Says Grand Court Of Cayman Islands Sanctions Cayman Scheme
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [japan] Nobuo Inaba, former chairman of NHK and former director of the Bank of Japan, dies at age 75, announces lung c
   - [china] Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity
-  - [china] China's Export Rebate Cut to Cost NEV Makers 4,000-6,000 Yuan Per Vehicle — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T12:12:42+00:00",
+      "published_utc": "2026-10-13T12:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
