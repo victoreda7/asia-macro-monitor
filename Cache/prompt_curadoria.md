@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T15:52:45.510520+00:00
+Última coleta: 2026-10-13T16:02:45.268792+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1138
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
+  - [japan] Japan looks for off-ramp from Trump's ICC feud before US sanctions kick in
   - [korea] Korea launches chip policy office to fast-track W800tr investments
   - [china] Shares of U.S. chip companies extend decline as China memory report and concerns about AI spending hit the sec
   - [china] US chip stocks extend slide as China memory report, AI spending jitters hit sector
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Former NHK Chairman Nobuo Inaba dies at age 75, former Bank of Japan board member (Jiji Press)
   - [japan] More than 80% expect prices to rise in five years' time Bank of Japan survey on lifestyle awareness (TV Asahi 
   - [korea] Commercial banks are offering non-face-to-face real estate mortgage loans for private businesses. Th..
-  - [korea] [Photo] Export-import silver supports independence of isolated youth
-  - [korea] Samsung Electronics chairman Lee to receive 2.6 trillion won worth of shares from mother, reports say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T15:52:45+00:00",
+      "published_utc": "2026-10-13T16:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
