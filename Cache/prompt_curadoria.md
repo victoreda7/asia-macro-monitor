@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T07:02:41.853935+00:00
-Total: 2997 manchetes
+Última coleta: 2026-10-13T07:12:41.944089+00:00
+Total: 2998 manchetes
 
-  🇯🇵 Japão          1135
+  🇯🇵 Japão          1134
   🇨🇳 China          835
   🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  730
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
+  - [korea] South Korea shares tumble in chip selloff
+  - [china] Key facts: NASDAQ:NVDA -1.6% on Microsoft Maia; China GPUs -44%; TSMC
   - [korea] (LEAD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes
   - [korea] Bae Jun-young: “Bonk Governor needs to ‘reexamine the starting point’ of raising base interest rate this month
   - [china] Asia stocks slide as chip rout deepens, Chinese automakers hit by EU trade curbs
@@ -54,9 +57,6 @@ Total: 2997 manchetes
   - [korea] South Korean Won Retreats from 2-Year High
   - [japan] [Illustration] Corporate prices rise 6.8% in September = growth slows due to fall in rice prices - Bank of Jap
   - [korea] Samsung, SK Hynix shares plunge on China competition fears
-  - [china] Offshore Yuan Steady Vs. Dollar Ahead of Major Chinese Economic Data — Market Talk
-  - [japan] Mr. Sasaki appointed as Bank of Japan Shizuoka Branch Manager (Kyodo News)
-  - [japan] Yen Gains in Post-Holiday Trading
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2997 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T07:02:42+00:00",
+      "published_utc": "2026-10-13T07:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
