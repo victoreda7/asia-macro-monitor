@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T20:42:42.144339+00:00
+Última coleta: 2026-10-13T20:52:43.816180+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] I gave up on curry, the salmon roe bowl was in the red, and I finally opened 30 stores nationwide with "Pork C
   - [japan] 77% feel anxious about leaking personal information NHK poll
   - [china] Micron Stock Is Falling. Elon Musk's Comments on Chinese Chips Aren't Helping. — Barrons.com
   - [china] China’s Growth Seen Edging Up to 4.4% as Exports Offset Weak Demand
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea central bank to keep policy restrictive until inflation hits target, governor says
   - [china] IMF Cuts China Growth Forecasts for 2026 and 2027
   - [korea] KOSPI Slumps as U.S. AI Chip Panic Spreads — Barrons.com
-  - [japan] Intervention Risk Limits Yen Falls Against Dollar — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T20:42:42+00:00",
+      "published_utc": "2026-10-13T20:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
