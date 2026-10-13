@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T01:42:41.849588+00:00
-Total: 2932 manchetes
+Última coleta: 2026-10-13T01:52:46.900269+00:00
+Total: 2936 manchetes
 
   🇯🇵 Japão          1122
-  🇨🇳 China          812
+  🇨🇳 China          815
   🇹🇼 Taiwan         288
-  🇰🇷 Coreia do Sul  710
+  🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank launched a 65 billion yuan 7-day reverse repurchase operation today
+  - [china] SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector
+  - [china] On October 13, the central bank launched a 65 billion yuan 7-day reverse repurchase operation.
   - [japan] Japan MOF To Auction Y700.0B Of 20-Year Govt Bonds Oct 20
+  - [korea] Foreign selling slams Kospi as China chip fears hit Samsung, SK Hynix
   - [japan] Japan’s wholesale inflation remains elevated, keeps alive BOJ rate-hike view
   - [korea] Seoul shares open sharply lower on U.S. losses, inflation concerns
   - [korea] (LEAD) Seoul shares open sharply lower on U.S. losses, inflation concerns
@@ -37,6 +41,7 @@ Total: 2932 manchetes
   - [japan] JAPAN SEPT PRODUCER PRICES -0.3% M/M (AUG REVISED TO -0.3% FROM -0.2%); 2ND STRAIGHT DROP; MEDIAN FORECAST +0.
   - [japan] Corporate Goods Price Index (Sept.)
   - [japan] Japan finance minister named as next chair of World Bank-IMF joint development committee
+  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
   - [china] Exclusive | China finance minister to deliver opening speech at Apec meeting in Hong Kong
   - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [taiwan] Weekly Recap: Moody's affirms A2, outlook positive and TSMC tie-up boosts chips
@@ -52,11 +57,6 @@ Total: 2932 manchetes
   - [korea] Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes
   - [china] Micron Stock Falls on China Chip Threat
   - [japan] Finance Minister Katayama becomes the next chairman of the World Bank/IMF Joint Development Committee Prime Mi
-  - [china] EU limits Chinese hybrid shipments at 350,000 annually
-  - [korea] S.Korean stocks slide as chip selloff deepens, foreign selling persists
-  - [china] EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap — Update
-  - [japan] Japanese Yen Could Trade Sideways Vs Dollar in Near-Term — Market Talk
-  - [china] Copper climbs on China stimulus hopes, Chile mine supply risks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2932 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T01:42:41+00:00",
+      "published_utc": "2026-10-13T01:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
