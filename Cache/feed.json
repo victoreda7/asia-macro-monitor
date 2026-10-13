@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T09:02:44.393907+00:00",
- "collected_at_utc": "2026-10-13T09:02:44.393907+00:00",
+ "generated_at_utc": "2026-10-13T09:12:44.109722+00:00",
+ "collected_at_utc": "2026-10-13T09:12:44.109722+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1138,
-  "china": 835,
-  "taiwan": 296,
-  "korea": 731
+  "japan": 1139,
+  "china": 834,
+  "taiwan": 297,
+  "korea": 730
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T07:35:00+00:00"
+   "newest": "2026-10-13T08:20:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T06:35:27+00:00"
+   "newest": "2026-10-13T08:55:57+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T07:00:00+00:00"
+   "newest": "2026-10-13T08:42:22+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T08:00:25+00:00"
+   "newest": "2026-10-13T09:01:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T17:44:06+09:00"
+   "newest": "2026-10-13T18:08:45+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T09:02:05+00:00"
+   "newest": "2026-10-13T09:09:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T08:45:20+00:00"
+   "newest": "2026-10-13T09:02:36+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,62 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T07:48:56+00:00"
+   "newest": "2026-10-13T06:50:33+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Intervention Risk Limits Yen Falls Against Dollar — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261013001513:0-intervention-risk-limits-yen-falls-against-dollar-market-talk/",
+   "published_utc": "2026-10-13T09:09:00+00:00",
+   "title_original": "Intervention Risk Limits Yen Falls Against Dollar — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e474e1855925fa63"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "88% of people expect prices to rise one year from now, Bank of Japan's September lifestyle awareness survey (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BQzlOUG5Mb0g1emk5T2xqbEJmcHRqdEI4cDBCSjY1MlUzdTVpVVBEUlp0Ty1rSU9NS1hTckpOYlkzRGJjMmtVeHlzODFTdW16QjBOYW5KOF9mcDlGTzVVRDBEVXpvS0ptWXVkc3NkRzhSOVA2dWxNUDZJNTU0TmM?oc=5",
+   "published_utc": "2026-10-13T09:02:36+00:00",
+   "title_original": "1年後の物価「上がる」88％ 日銀、9月の生活意識アンケート（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "63161d2d0d990543"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Chip selloff deepens amid AI trade fears, rising Chinese competition",
+   "url": "https://www.tradingview.com/news/seekingalpha:37cbe9582094b:0-chip-selloff-deepens-amid-ai-trade-fears-rising-chinese-competition/",
+   "published_utc": "2026-10-13T09:01:06+00:00",
+   "title_original": "Chip selloff deepens amid AI trade fears, rising Chinese competition",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2cc27cd2e0d858df"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -498,6 +550,23 @@
    "id": "366f985306459318"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan panel makers enter semiconductor fight as structural challenges persist",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY0pxVnAyclNMRzZVMWlfNGFrTmJ5aWpZTWREUWxOU1VrSWRLNkZoTl9VVS1FZXg3UDRhbHFNN1oySURQUVZhUkFYY0Nhb25WZ0Q4YTd4UlVFeUo5UEJvRUtnZDBzQm1XNEhIX0cwdy1GajUzZDFIZWJCQlBLM3FjSDZ3Z1NNY0owWXdJQTY1Zw?oc=5",
+   "published_utc": "2026-10-13T08:20:00+00:00",
+   "title_original": "Taiwan panel makers enter semiconductor fight as structural challenges persist",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c38f0179bc9efb17"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Inflation expectations remain 86.5% higher in 5 years, highest level in 19 years due to Middle East impact, Bank of Japan survey (Jiji Press)",
@@ -566,23 +635,6 @@
    "live_wire": true,
    "manual": false,
    "id": "99149ca6c67982a6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한국부동산뉴스",
-   "title_en": "“We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsQ01JQ2I3NzcxY0p2TC13UmdzQ2pwOEx2VzFDdy00SWFmeFctV21hZnYtOFZJcVI1czR3U0VncUhpNGVPMmZjcXF0M0pFc0JIYnhjaVZuc1p1UXlhYWs5WVF5b1FpN2hBRURB?oc=5",
-   "published_utc": "2026-10-13T07:48:56+00:00",
-   "title_original": "\"美보다 먼저 올려 시간 벌었다\"…한은, 10월 기준금리 '동결' 무게",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "673a3302800d55a0"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1660,42 +1712,6 @@
    "id": "d5c34bfa0d3e58b0"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "IMF Lowers 2027 China Economic Growth Forecast to 4.0% From 4.1%",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012007471_20261012007506:0-imf-lowers-2027-china-economic-growth-forecast-to-4-0-from-4-1/",
-   "published_utc": "2026-10-13T02:19:00+00:00",
-   "title_original": "IMF Lowers 2027 China Economic Growth Forecast to 4.0% From 4.1%",
-   "region": "china",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4aacc2df906963e5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "IMF Lowers 2026 China Economic Growth Forecast to 4.5% From 4.6%",
-   "url": "https://www.tradingview.com/news/DJN_DN20261012007471_20261012007505:0-imf-lowers-2026-china-economic-growth-forecast-to-4-5-from-4-6/",
-   "published_utc": "2026-10-13T02:18:00+00:00",
-   "title_original": "IMF Lowers 2026 China Economic Growth Forecast to 4.5% From 4.6%",
-   "region": "china",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "48977e558f51d21e"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "September corporate price index increased by 6.8% compared to the same month last year; rate of increase slows but remains at high level",
@@ -2273,6 +2289,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bdbf4743c1502a55"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "https://www.citytimes.co.kr/",
+   "title_en": "“We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nRkphTXZzOVFoaF9EU1hGOEYxbVNEb3hHbUZYdjhrN1dvNUNEdkItN0Y2cDd5UU1CbnNtcWdWZHpfc3BNMUpiaXFjWERYOENhZmpGelZFMEVPYmFDaEcwRHoyVEdZSllkYjNta29B?oc=5",
+   "published_utc": "2026-10-12T22:24:00+00:00",
+   "title_original": "\"美보다 먼저 올려 시간 벌었다\"…한은, 10월 기준금리 '동결' 무게",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5fc63cb7edf00757"
   },
   {
    "source_id": "tradingview_live",
@@ -4203,25 +4236,6 @@
    "id": "e53220cd62a9e5c6"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제TV",
-   "title_en": "Bank of Korea governor: “Monetary policy unwavering”… Emphasis on fiscal harmony",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tWW15ME9kbHBzMk9nNWVZZTlUUmY1Y1czNG1zYWk0NnByTGkyUENhalFEYW5zNno1ZmxuQXdYTHhSODNaUTFRX1JiSF9MWXU3ZUNlZ0VSbkk0VlVuZGtER3FIRTFjMkdQ?oc=5",
-   "published_utc": "2026-10-12T04:00:00+00:00",
-   "title_original": "한국은행 총재 \"통화정책 흔들림 없이\"…재정 조화 강조",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "476fc9e5a7daf22e"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Rapidus targets customers underserved by TSMC, but can it convince them to take the risk?",
@@ -5380,6 +5394,23 @@
    "id": "a64d9291b255f33b"
   },
   {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7d0d81b05ec0a14"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Food companies that were sanctioned for fixing food prices, such as sugar and flour, topped the Fair..",
@@ -5568,8 +5599,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5582,7 +5613,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -6496,23 +6527,6 @@
    "id": "91431e6663917737"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-   "published_utc": "2026-10-09T14:02:00+00:00",
-   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7d0d81b05ec0a14"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Developer of One Stanley pledges 6-year warranty and checks amid steel bar probe",
@@ -6530,8 +6544,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6545,7 +6559,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -6736,8 +6750,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -6751,7 +6765,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -7622,8 +7636,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7637,7 +7651,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51930,23 +51944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b5fad8e668b9884b"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "BOJ and Fed face critical test as market pressure rises on rates",
-   "url": "https://asia.nikkei.com/business/markets/trading-asia/boj-and-fed-face-critical-test-as-market-pressure-rises-on-rates",
-   "published_utc": "2026-09-13T22:38:17.044350+00:00",
-   "title_original": "BOJ and Fed face critical test as market pressure rises on rates",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "503c87f53cf8128c"
   },
   {
    "source_id": "manual_ia",
