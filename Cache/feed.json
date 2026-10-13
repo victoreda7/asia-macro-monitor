@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T05:12:42.722791+00:00",
- "collected_at_utc": "2026-10-13T05:12:42.722791+00:00",
+ "generated_at_utc": "2026-10-13T05:22:44.374490+00:00",
+ "collected_at_utc": "2026-10-13T05:22:44.374490+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2988,
+ "count": 2991,
  "by_region": {
-  "japan": 1137,
+  "japan": 1140,
   "china": 830,
   "taiwan": 297,
   "korea": 724
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 37,
+   "count": 42,
    "error": "",
-   "newest": "2026-10-13T09:08:41+08:00"
+   "newest": "2026-10-13T12:47:55+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T04:51:28+00:00"
+   "newest": "2026-10-13T05:10:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T14:06:55+09:00"
+   "newest": "2026-10-13T14:06:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T05:11:16+00:00"
+   "newest": "2026-10-13T05:20:58+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T23:32:03+00:00"
+   "newest": "2026-10-13T02:30:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T04:33:34+00:00"
+   "newest": "2026-10-13T04:57:29+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,24 @@
  ],
  "items": [
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK Hynix in extreme oversold freefall near KRW 1,439,000: Live",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
+   "published_utc": "2026-10-13T05:08:49+00:00",
+   "title_original": "SK Hynix in extreme oversold freefall near KRW 1,439,000: Live",
+   "region": "korea",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "54a211a52081af5c"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "88.6% of Japan households expect prices to rise a year from now, BOJ says By Reuters",
@@ -376,6 +394,61 @@
    "live_wire": false,
    "manual": false,
    "id": "af5226ade7d0d1da"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "86.5% of households expect prices to rise five years from now; prices continue to rise and remain at high levels; Bank of Japan September survey (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aNlNoVW5LaWg2RzczRnFXaEZtMmp6N1hOWXBjejZESUgwenYtRVBablNmc0FpZ0FQR3ZwZW5iRWJWMXlZLVdSejBkZnEtOUJjTXlBeUwwMDMxS0w2NGlxNFBuSWQ2VGJfV3dpZUdaRmlWNEt0ZF9Ybk1HTnlvUW8?oc=5",
+   "published_utc": "2026-10-13T04:57:29+00:00",
+   "title_original": "家計の物価予想、5年後「上がる」は86.5％ 値上げ進み高水準続く＝日銀9月調査（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7053fdc908eeff53"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "It is now important to keep the underlying price level stable at around 2% - Bank of Japan Governor (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RVEhtM3VLaHVHVEpMTDRhZVpsSTk1dGdrSl80THhMQVNEMzR3WVN4X3puRkpNY21wVlpsQnNZMUJhcVpUVEdSNDB4TTYzaDdXQzZ2aFlBZGQtcWprelBqRkJIaWExZjBXa1VtT1duRjcxUnBfMGpjWEJDR05fMDA?oc=5",
+   "published_utc": "2026-10-13T04:55:50+00:00",
+   "title_original": "基調物価、2％程度の水準で安定させていく観点が重要な局面＝日銀総裁（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "trade",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0ab6754640268397"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Gold rebounds as dollar retreats, Middle East tensions sustain inflation concerns",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZERrWG56TXZKYVIxcUd4eWVIOXpNODBFRlFwTXA5dVhDZThGb0VpQkFvWHUyOHNxYzNydVhwTWIwVnM4dzNMRDJCNnFhTVUwU3c3bEZMT1Joc3FaVWphNmI1VEk3aHVCakc4QWJpTS1lMmRPR3ZkVjJKUlU5WTdiMjhqZ1V6ekhNZGVKOW5lZUF2Wk9Ddk1qWjQ2NVJMWGxOT3VxMFE1NWRjeWxmZVdMNlJUR090S2hHRkxldHl6eDA?oc=5",
+   "published_utc": "2026-10-13T04:52:35+00:00",
+   "title_original": "Gold rebounds as dollar retreats, Middle East tensions sustain inflation concerns",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "098e7f10b18fc095"
   },
   {
    "source_id": "tradingview_live",
@@ -569,11 +642,11 @@
    "id": "20b432d37bb60f02"
   },
   {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
    "title_en": "IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLYktyalVrb29GVXVCeXZaTmpHUllENFA2R0R2emJoQTZVUW9zcWVNd1ZXdlFlWjNSNS1QdG9CeU01VG9GcjNHaDY5TVExN2ZmUkZiUjFFWQ?oc=5",
-   "published_utc": "2026-10-13T03:43:00+00:00",
+   "url": "https://focustaiwan.tw/business/202610130005",
+   "published_utc": "2026-10-13T03:43:50+00:00",
    "title_original": "IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%",
    "region": "taiwan",
    "topics": [
@@ -584,7 +657,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "7b3ca40a22b3650a"
+   "id": "2d0a7d37d6a814a9"
   },
   {
    "source_id": "tradingview_live",
@@ -3437,24 +3510,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ca2b1acf16743aeb"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
-   "published_utc": "2026-10-12T05:04:19+00:00",
-   "title_original": "SK Hynix tests KRW 1,633,000 support after H&S breakdown: Live",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7db1c66cdb4cfe0a"
   },
   {
    "source_id": "nikkei_asia",
@@ -32255,23 +32310,6 @@
    "id": "89a28a3b94819d69"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC locks in 3-6% wafer out price hikes for 2027",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVE4Ty1hREZERmhoSkJWekhXV25RekVMSXpMMHJyNmpJTjV0ZFJQUlF4eHJVTkxsN1ZrZVFoa3RsRnhuZWM2Z1pSUTZOeFg5MWMtLXVuM2VwWEF1eUhsanZuOFVNUmdfb1VLSkxmMERxTWt2cldmcjdOMTFNdWpfTDlzZzNKQQ?oc=5",
-   "published_utc": "2026-09-24T07:00:00+00:00",
-   "title_original": "TSMC locks in 3-6% wafer out price hikes for 2027",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bfd3c21d2e6cc860"
-  },
-  {
    "source_id": "gn_tw_taipeitimes",
    "source_name": "Taipei Times",
    "title_en": "ADB raises GDP growth for Taiwan to 11% this year",
@@ -32287,6 +32325,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c8eb527275d619e4"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC locks in 3-6% wafer out price hikes for 2027",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVE4Ty1hREZERmhoSkJWekhXV25RekVMSXpMMHJyNmpJTjV0ZFJQUlF4eHJVTkxsN1ZrZVFoa3RsRnhuZWM2Z1pSUTZOeFg5MWMtLXVuM2VwWEF1eUhsanZuOFVNUmdfb1VLSkxmMERxTWt2cldmcjdOMTFNdWpfTDlzZzNKQQ?oc=5",
+   "published_utc": "2026-09-24T07:00:00+00:00",
+   "title_original": "TSMC locks in 3-6% wafer out price hikes for 2027",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bfd3c21d2e6cc860"
   },
   {
    "source_id": "gn_jp_nhkworld",
