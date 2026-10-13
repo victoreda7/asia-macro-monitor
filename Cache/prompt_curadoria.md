@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T01:12:41.611694+00:00
-Total: 2933 manchetes
+Última coleta: 2026-10-13T01:22:43.516597+00:00
+Total: 2932 manchetes
 
-  🇯🇵 Japão          1122
+  🇯🇵 Japão          1121
   🇨🇳 China          812
   🇹🇼 Taiwan         288
   🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan’s wholesale inflation remains elevated, keeps alive BOJ rate-hike view
   - [korea] Seoul shares open sharply lower on U.S. losses, inflation concerns
   - [korea] (LEAD) Seoul shares open sharply lower on U.S. losses, inflation concerns
   - [taiwan] Podcast highlights: Is Elon Musk using TSMC talks as leverage against Intel and Samsung?
@@ -24,7 +25,6 @@ Total: 2933 manchetes
   - [japan] JAPAN SEPT CORP GOODS PRICE INDEX -0.3% M/M; AUG -0.3%
   - [japan] September corporate price index increased by 6.8% compared to the same month last year
   - [japan] JAPAN SEPT CGPI IMPORT INDEX +24.5% Y/Y IN YEN TERMS FOR 10TH STRAIGHT RISE VS. AUG REVISED UP TO +25.1% FROM+
-  - [japan] Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view
   - [japan] September corporate price index rose 6.8% to 135.7...Bank of Japan announced (Yomiuri Shimbun Online)
   - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil
   - [japan] JAPAN SEPT CGPI: KEY ENERGY PRICES; CRUDE OIL/COAL PRODUCTS +11.5% Y/Y VS. AUG +14.7%
@@ -116,7 +116,7 @@ Total: 2933 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T01:12:41+00:00",
+      "published_utc": "2026-10-13T01:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
