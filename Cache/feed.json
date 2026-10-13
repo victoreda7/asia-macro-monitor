@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-13T00:02:43.793681+00:00",
- "collected_at_utc": "2026-10-13T00:02:43.793681+00:00",
+ "generated_at_utc": "2026-10-13T00:12:44.727765+00:00",
+ "collected_at_utc": "2026-10-13T00:12:44.727765+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
- "count": 2916,
+ "count": 2922,
  "by_region": {
-  "japan": 1110,
+  "japan": 1116,
   "china": 812,
   "taiwan": 284,
   "korea": 710
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.6,
  "sources": [
-  {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -174,6 +166,14 @@
    "newest": "2026-10-09T07:00:00+00:00"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-12T04:22:41+00:00"
+  },
+  {
    "source_id": "nhk_politics",
    "name": "NHK 政治",
    "ok": true,
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T07:00:19+09:00"
+   "newest": "2026-10-13T09:09:27+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T19:14:14+00:00"
+   "newest": "2026-10-12T23:01:45+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T00:01:00+00:00"
+   "newest": "2026-10-13T00:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T23:44:03+00:00"
+   "newest": "2026-10-12T23:59:56+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-12T22:40:14+00:00"
+   "newest": "2026-10-13T00:05:57+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-12T07:28:47+00:00"
+   "newest": "2026-10-13T00:01:38+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-13T08:00:00+09:00"
+   "newest": "2026-10-13T09:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,111 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "September corporate price index increased by 6.8% compared to the same month last year",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261013de58340",
+   "published_utc": "2026-10-13T00:09:27+00:00",
+   "title_original": "9月の企業物価指数 昨年同月比 6.8%上昇",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "04966730c1564ea1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN SEPT CGPI IMPORT INDEX +24.5% Y/Y IN YEN TERMS FOR 10TH STRAIGHT RISE VS. AUG REVISED UP TO +25.1% FROM+24.8%",
+   "url": "https://www.tradingview.com/news/macenews:924986e4c094b:0-japan-sept-cgpi-import-index-24-5-y-y-in-yen-terms-for-10th-straight-rise-vs-aug-revised-up-to-25-1-from-24-8/",
+   "published_utc": "2026-10-13T00:07:00+00:00",
+   "title_original": "JAPAN SEPT CGPI IMPORT INDEX +24.5% Y/Y IN YEN TERMS FOR 10TH STRAIGHT RISE VS. AUG REVISED UP TO +25.1% FROM+24.8%",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3e5fea2ab6174823"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45Y1EW:0-japan-s-wholesale-inflation-remains-elevated-keeps-alive-boj-rate-hike-view/",
+   "published_utc": "2026-10-13T00:06:39+00:00",
+   "title_original": "Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cb7ef75a0cb44f79"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN SEPT CGPI: KEY ENERGY PRICES; CRUDE OIL/COAL PRODUCTS +11.5% Y/Y VS. AUG +14.7%",
+   "url": "https://www.tradingview.com/news/macenews:fd7053551094b:0-japan-sept-cgpi-key-energy-prices-crude-oil-coal-products-11-5-y-y-vs-aug-14-7/",
+   "published_utc": "2026-10-13T00:04:00+00:00",
+   "title_original": "JAPAN SEPT CGPI: KEY ENERGY PRICES; CRUDE OIL/COAL PRODUCTS +11.5% Y/Y VS. AUG +14.7%",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "878ad9bd64273f1a"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) Seoul shares open sharply lower on U.S. losses, inflation concerns",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VbHhOcmhidkhVQ2libmNvdWhqbDc2WDZXLTQxV3dwSV9hSmZjb0E1TThfd1VTbkZBWnQ4ZnBUamhmdVNiaFFrbzFPZXI5VGIxQnZjMzRyTVZrQQ?oc=5",
+   "published_utc": "2026-10-13T00:01:38+00:00",
+   "title_original": "(URGENT) Seoul shares open sharply lower on U.S. losses, inflation concerns",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9c40093a4907124f"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Corporate prices rise 6.8% in September Bank of Japan (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzY1hxNlgzbjh4VGxjdUZkUW9VU29rNjZYQWotVF82RlFDSXZ0Y3h4d29sQXgyeG92NFpTM3ZKbFlpbFlHdHBXR1pYV3cyeUNBSHFoLUdhN3NEdC0taUVoUUlJWFpXenV6T2lmb2gxcXFwMENjcE5HQlZqYXIwYWc?oc=5",
+   "published_utc": "2026-10-12T23:59:56+00:00",
+   "title_original": "9月の企業物価、6．8％上昇 日銀（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8bf03ad544c68b74"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
@@ -376,6 +481,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a6981feb23bc2f0f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan finance minister named as next chair of World Bank-IMF joint development committee",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N42X01F:0-japan-finance-minister-named-as-next-chair-of-world-bank-imf-joint-development-committee/",
+   "published_utc": "2026-10-12T23:44:49+00:00",
+   "title_original": "Japan finance minister named as next chair of World Bank-IMF joint development committee",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "42ff55f3ab346e2a"
   },
   {
    "source_id": "gn_kr_bok",
@@ -600,8 +722,8 @@
    "id": "ff54f64ecec49dfb"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama becomes the next chairman of the World Bank/IMF Joint Development Committee Prime Minister Takaichi",
    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58295",
    "published_utc": "2026-10-12T15:30:15+00:00",
@@ -614,7 +736,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "aaabc82a2953bc48"
+   "id": "75868646d813b043"
   },
   {
    "source_id": "tradingview_live",
@@ -1745,23 +1867,6 @@
    "live_wire": false,
    "manual": false,
    "id": "00f5431c53725ed8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "Micron, SK Hynix Stocks Slip Overnight: China’s CXMT Advances Next-Gen DRAM Technology",
-   "url": "https://www.tradingview.com/news/stocktwits:4e3306f53094b:0-micron-sk-hynix-stocks-slip-overnight-china-s-cxmt-advances-next-gen-dram-technology/",
-   "published_utc": "2026-10-12T07:01:49+00:00",
-   "title_original": "Micron, SK Hynix Stocks Slip Overnight: China’s CXMT Advances Next-Gen DRAM Technology",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dc64442b8984d267"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3619,8 +3724,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -3633,7 +3738,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -4564,8 +4669,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -4579,7 +4684,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -4770,8 +4875,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -4785,7 +4890,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "tradingview_live",
@@ -5639,8 +5744,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -5654,7 +5759,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",

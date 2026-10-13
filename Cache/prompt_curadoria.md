@@ -7,18 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T00:02:43.793681+00:00
-Total: 2916 manchetes
+Última coleta: 2026-10-13T00:12:44.727765+00:00
+Total: 2922 manchetes
 
-  🇯🇵 Japão          1110
+  🇯🇵 Japão          1116
   🇨🇳 China          812
   🇹🇼 Taiwan         284
   🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [japan] September corporate price index increased by 6.8% compared to the same month last year
+  - [japan] JAPAN SEPT CGPI IMPORT INDEX +24.5% Y/Y IN YEN TERMS FOR 10TH STRAIGHT RISE VS. AUG REVISED UP TO +25.1% FROM+
+  - [japan] Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view
+  - [japan] JAPAN SEPT CGPI: KEY ENERGY PRICES; CRUDE OIL/COAL PRODUCTS +11.5% Y/Y VS. AUG +14.7%
+  - [korea] (URGENT) Seoul shares open sharply lower on U.S. losses, inflation concerns
+  - [japan] Corporate prices rise 6.8% in September Bank of Japan (Jiji Press)
   - [japan] JAPAN SEPT PRODUCER PRICES -0.3% M/M (AUG REVISED TO -0.3% FROM -0.2%); 2ND STRAIGHT DROP; MEDIAN FORECAST +0.
   - [japan] Corporate Goods Price Index (Sept.)
+  - [japan] Japan finance minister named as next chair of World Bank-IMF joint development committee
   - [korea] The Bank of Korea repeatedly hinted at the possibility of further interest rate hikes... Market outlook “withi
   - [taiwan] Weekly Recap: Moody's affirms A2, outlook positive and TSMC tie-up boosts chips
   - [japan] Weekly Recap: TSE:8604 Macquarie-unit buy and JGB global marketing
@@ -50,13 +57,6 @@ Total: 2916 manchetes
   - [korea] Asia report: Stocks mixed but Seoul suffers steep chip sell-off
   - [china] Micron Stock Falls as China Memory Chip Threat Gets Serious — Barrons.com
   - [korea] Finance minister urges preemptive action for supply chain stability
-  - [china] How China and the EU pressed pause on trade war – and what it took to get there
-  - [korea] Sandisk, IREN, SK Hynix, Amazon, and More Stocks That Explain Today's Market — Barrons.com
-  - [china] EU to Cap Chinese Hybrid-Vehicle Imports at 350,000 Units Annually, Official Says
-  - [korea] FX at one-month high led by Indian rupee, Korean won; earnings, IMF in focus
-  - [china] Commentary: Europe Can’t Tariff Away Its China Trade Deficit
-  - [korea] Bank of Korea Expects 2027 Budget to Have Marginal Impact on Inflation
-  - [korea] Suggesting further increase in base interest rate... Shin Hyun-song “Deciding the timing considering prices et
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2916 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T00:02:43+00:00",
+      "published_utc": "2026-10-13T00:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
