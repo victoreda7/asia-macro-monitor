@@ -7,28 +7,32 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T04:52:45.329400+00:00
-Total: 2983 manchetes
+Última coleta: 2026-10-13T05:02:41.675808+00:00
+Total: 2987 manchetes
 
-  🇯🇵 Japão          1134
+  🇯🇵 Japão          1136
   🇨🇳 China          830
-  🇹🇼 Taiwan         295
+  🇹🇼 Taiwan         297
   🇰🇷 Coreia do Sul  724
 
 ## O que já está no feed (não repita)
 
+  - [japan] Asian brands tighten grip on Tokyo's high-end shopping districts
   - [korea] SoftBank, SK Hynix lead Asian tech sell-off amid AI investment concerns
   - [china] China blue chips fall to 14-month low on tech selloff
   - [japan] BOJ Governor Ueda says important to anchor inflation around 2% now
+  - [japan] 88.6% of Japan households expect prices to rise a year from now, BOJ says
   - [japan] Japan's producer price inflation slows to 6.8% in September, below market expectations
   - [taiwan] TSMC's Third-Quarter Net Profit Likely Jumped 62% as Revenue Tops Guidance — Earnings Preview
   - [china] China to Cut New Energy Vehicle Export Tax Rebate to 9% From April 2027
+  - [taiwan] Taiwan Finance Minister to attend APEC meeting in Hong Kong next week (Reuters)
   - [china] Asian tech shares plunge after Chinese chipmaker reports key advance
   - [china] Xpeng Vice Chairman Welcomes EU-China Hybrid Import Cap Deal
   - [korea] South Korea's Kospi Slumps on Selloff in Chip Stocks
   - [taiwan] IMF sharply raises Taiwan's 2026 GDP growth forecast to 10.7%
   - [china] Yuan holds firm near 2023 highs despite dollar strength
   - [taiwan] TSMC Revenue Growth Upgrade a 'Live Possibility' — Market Talk
+  - [taiwan] Taiwan finance minister to attend APEC meeting in Hong Kong
   - [taiwan] TSMC, ASML earnings on tap: Bull and bear cases for tech outlined
   - [korea] South Korea’s Lee says country cannot avoid raising interest rates
   - [china] Asia stocks slide as China chip threat hits Samsung, SK Hynix; oil retreats
@@ -53,10 +57,6 @@ Total: 2983 manchetes
   - [taiwan] Taiwan dollar, South Korean won lead Asian currencies lower
   - [china] The central bank launches 65 billion yuan 7-day reverse repurchase operation
   - [korea] Sebo Manufacturing Engineering Construction Wins 97 Billion Won Order
-  - [japan] Bank of Japan to raise interest rates to neutral level in stages despite forecast of slowing growth = IMF (Reu
-  - [japan] IMF expects gradual BOJ rate hike towards neutral setting
-  - [taiwan] Hamada Labs targets Taiwan, Japan manufacturing with AI platform
-  - [korea] IMF raises S. Korea's growth forecast to 3.3 pct amid chip supercycle
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2983 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T04:52:45+00:00",
+      "published_utc": "2026-10-13T05:02:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
