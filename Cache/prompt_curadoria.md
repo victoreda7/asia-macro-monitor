@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T00:42:41.683116+00:00
-Total: 2930 manchetes
+Última coleta: 2026-10-13T00:52:40.798226+00:00
+Total: 2931 manchetes
 
   🇯🇵 Japão          1122
   🇨🇳 China          811
   🇹🇼 Taiwan         286
-  🇰🇷 Coreia do Sul  711
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares open sharply lower on U.S. losses, inflation concerns
   - [korea] (LEAD) Seoul shares open sharply lower on U.S. losses, inflation concerns
   - [taiwan] Podcast highlights: Is Elon Musk using TSMC talks as leverage against Intel and Samsung?
   - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com
@@ -56,7 +57,6 @@ Total: 2930 manchetes
   - [china] Copper climbs on China stimulus hopes, Chile mine supply risks
   - [china] BYD sees tariff pressure linked to EU-China deal as short term
   - [taiwan] Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300
-  - [taiwan] Nanya Technology expects DRAM prices, margins to rise in Q4
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2930 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T00:42:41+00:00",
+      "published_utc": "2026-10-13T00:52:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

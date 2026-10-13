@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T00:42:41.683116+00:00",
- "collected_at_utc": "2026-10-13T00:42:41.683116+00:00",
+ "generated_at_utc": "2026-10-13T00:52:40.798226+00:00",
+ "collected_at_utc": "2026-10-13T00:52:40.798226+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2930,
+ "count": 2931,
  "by_region": {
   "japan": 1122,
   "china": 811,
   "taiwan": 286,
-  "korea": 711
+  "korea": 712
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-12T15:58:44+00:00"
+   "newest": "2026-10-13T09:48:21+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T00:21:47+00:00"
+   "newest": "2026-10-13T00:26:50+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Seoul shares open sharply lower on U.S. losses, inflation concerns",
+   "url": "https://www.koreaherald.com/article/10900574",
+   "published_utc": "2026-10-13T00:52:40.468745+00:00",
+   "title_original": "Seoul shares open sharply lower on U.S. losses, inflation concerns",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "698ac097ea2af8fb"
+  },
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
@@ -417,7 +434,7 @@
    "source_name": "NHK 経済",
    "title_en": "September corporate price index increased by 6.8% compared to the same month last year",
    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58340",
-   "published_utc": "2026-10-13T00:09:27+00:00",
+   "published_utc": "2026-10-13T00:09:00+00:00",
    "title_original": "9月の企業物価指数 昨年同月比 6.8%上昇",
    "region": "japan",
    "topics": [
@@ -881,8 +898,8 @@
    "id": "ff54f64ecec49dfb"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama becomes the next chairman of the World Bank/IMF Joint Development Committee Prime Minister Takaichi",
    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58295",
    "published_utc": "2026-10-12T15:30:15+00:00",
@@ -895,7 +912,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "75868646d813b043"
+   "id": "aaabc82a2953bc48"
   },
   {
    "source_id": "tradingview_live",
@@ -1645,7 +1662,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Governor of the Bank of Korea: “A 0.5% point increase in the base interest rate has the effect of reducing the inflation rate by 0.08% points” (comprehensive)",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mR1hhV3dybWNIc25lMUdQSm05S2c4cGRfcktoZ2lITHZTcmtZeE9zSkFaS3V0SzdraVJJWWJJYWxqcXBldkFqUlhaS196Y1FyLUtxOG8waUZ3Y1BUaUw0M9IBYEFVX3lxTE5mR1hhV3dybWNIc25lMUdQSm05S2c4cGRfcktoZ2lITHZTcmtZeE9zSkFaS3V0SzdraVJJWWJJYWxqcXBldkFqUlhaS196Y1FyLUtxOG8waUZ3Y1BUaUw0Mw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xWWZ6dmFieWdrMl9NTzd6QjNUNEQ3Y2RWdGxQN2JncUZ1ZXZka2ExYmVCQTdPRl9zNTRxM3p5cnl2MHc4TkEzR1NHRmlwUGZISm1feUpyQVFHc0nSAWBBVV95cUxOZkdYYVd3cm1jSHNuZTFHUEptOUtnOHBkX3JLaGdpSEx2U3JrWXhPc0pBWkt1dEs3a2lSSVliSWFsanFwZXZBalJYWktfemNRci1LcThvMGlGd2NQVGlMNDM?oc=5",
    "published_utc": "2026-10-12T08:30:37+00:00",
    "title_original": "한은 총재 \"기준금리 0.5%p 인상, 물가상승률 0.08%p 하락 효과\"(종합)",
    "region": "korea",
@@ -1657,7 +1674,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "700794882ce7e8e4"
+   "id": "b03423ea7e67b829"
   },
   {
    "source_id": "focus_taiwan",
@@ -3866,8 +3883,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -3880,7 +3897,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -4811,8 +4828,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -4826,7 +4843,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -5017,8 +5034,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -5032,7 +5049,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "tradingview_live",
@@ -5886,8 +5903,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -5901,7 +5918,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
