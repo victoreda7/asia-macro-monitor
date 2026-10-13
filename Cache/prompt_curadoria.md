@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T08:52:42.531268+00:00
+Última coleta: 2026-10-13T09:02:44.393907+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1138
   🇨🇳 China          835
-  🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  730
+  🇹🇼 Taiwan         296
+  🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
+  - [japan] Former NHK Chairman Nobuo Inaba dies at age 75, former Bank of Japan board member (Jiji Press)
+  - [korea] Commercial banks are offering non-face-to-face real estate mortgage loans for private businesses. Th..
+  - [korea] [Photo] Export-import silver supports independence of isolated youth
+  - [korea] Samsung Electronics chairman Lee to receive 2.6 trillion won worth of shares from mother, reports say
   - [japan] More than 80% predict that prices will rise in five years Bank of Japan's lifestyle awareness survey (TV Asahi
   - [china] Visa Wins Preliminary Approval for Yuan Card Clearing in China
   - [korea] Repeat & Correct: South Korea's Kospi Slumps on Selloff in Chip Stocks — Update
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] 88.6% of Japan households expect prices to rise a year from now, BOJ says By Reuters
   - [japan] Asian brands tighten grip on Tokyo's high-end shopping districts
   - [japan] 86.5% of households expect prices to rise five years from now; prices continue to rise and remain at high leve
-  - [japan] 86.5% of households expect prices to rise five years from now, the highest level in nine years as prices rise 
-  - [japan] Underlying inflation rate of 2% is "very close"; stabilization is important - Bank of Japan Governor (Reuters)
-  - [japan] It is now important to keep the underlying price level stable at around 2% - Bank of Japan Governor (Reuters)
-  - [japan] Gold rebounds as dollar retreats, Middle East tensions sustain inflation concerns
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T08:52:42+00:00",
+      "published_utc": "2026-10-13T09:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
