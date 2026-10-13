@@ -7,22 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T00:12:44.727765+00:00
-Total: 2922 manchetes
+Última coleta: 2026-10-13T00:22:45.773282+00:00
+Total: 2927 manchetes
 
-  🇯🇵 Japão          1116
-  🇨🇳 China          812
+  🇯🇵 Japão          1122
+  🇨🇳 China          811
   🇹🇼 Taiwan         284
   🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com
+  - [japan] JAPAN SEPT CORP GOODS PRICE INDEX -0.3% M/M; AUG -0.3%
   - [japan] September corporate price index increased by 6.8% compared to the same month last year
   - [japan] JAPAN SEPT CGPI IMPORT INDEX +24.5% Y/Y IN YEN TERMS FOR 10TH STRAIGHT RISE VS. AUG REVISED UP TO +25.1% FROM+
   - [japan] Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view
+  - [japan] September corporate price index rose 6.8% to 135.7...Bank of Japan announced (Yomiuri Shimbun Online)
+  - [japan] Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil
   - [japan] JAPAN SEPT CGPI: KEY ENERGY PRICES; CRUDE OIL/COAL PRODUCTS +11.5% Y/Y VS. AUG +14.7%
+  - [japan] Domestic corporate goods prices rose 6.8% year-on-year in September, growth rate slowed from the previous mont
   - [korea] (URGENT) Seoul shares open sharply lower on U.S. losses, inflation concerns
   - [japan] Corporate prices rise 6.8% in September Bank of Japan (Jiji Press)
+  - [japan] Japan Producer Prices Rise the Least in 4 Months
   - [japan] JAPAN SEPT PRODUCER PRICES -0.3% M/M (AUG REVISED TO -0.3% FROM -0.2%); 2ND STRAIGHT DROP; MEDIAN FORECAST +0.
   - [japan] Corporate Goods Price Index (Sept.)
   - [japan] Japan finance minister named as next chair of World Bank-IMF joint development committee
@@ -51,12 +57,6 @@ Total: 2922 manchetes
   - [korea] ASML to raise prices of chipmaking parts for Samsung, SK Hynix by 10%: report
   - [china] EU eyes December trade initiatives after China car import deal
   - [taiwan] Taiwan condemns China over sanctions on ministers of diplomatic allies
-  - [china] Chinese Policymakers Appear at Ease With Stronger Yuan — Market Talk
-  - [taiwan] Hon Hai subsidiary sells stake in Zhen Ding for $3.2bn
-  - [china] Leapmotor-Stellantis JV calls EU-China import cap deal 'interesting alternative'
-  - [korea] Asia report: Stocks mixed but Seoul suffers steep chip sell-off
-  - [china] Micron Stock Falls as China Memory Chip Threat Gets Serious — Barrons.com
-  - [korea] Finance minister urges preemptive action for supply chain stability
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2922 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T00:12:44+00:00",
+      "published_utc": "2026-10-13T00:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
