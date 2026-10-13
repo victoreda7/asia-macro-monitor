@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-13T13:32:44.426862+00:00",
- "collected_at_utc": "2026-10-13T13:32:44.426862+00:00",
+ "generated_at_utc": "2026-10-13T13:42:44.874546+00:00",
+ "collected_at_utc": "2026-10-13T13:42:44.874546+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 298,
   "korea": 732
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T13:10:51+00:00"
+   "newest": "2026-10-13T13:37:00+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T12:48:50+00:00"
+   "newest": "2026-10-13T13:30:28+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-13T12:40:08+00:00"
+   "newest": "2026-10-13T13:12:36+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T11:44:52+00:00"
+   "newest": "2026-10-13T13:32:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-13T11:49:37+00:00"
+   "newest": "2026-10-13T13:39:32+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T13:32:24+00:00"
+   "newest": "2026-10-13T13:41:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T13:24:23+00:00"
+   "newest": "2026-10-13T13:00:36+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Yen Rises Against Majors",
+   "url": "https://www.tradingview.com/news/dpa_afx:778f3e85aecc0:0-yen-rises-against-majors/",
+   "published_utc": "2026-10-13T13:32:43+00:00",
+   "title_original": "Yen Rises Against Majors",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cae6ffb0e87d71bf"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -1728,23 +1745,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f738543e0fd79efb"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Japan's producer price inflation slows to 6.8% in September, below market expectations",
-   "url": "https://www.tradingview.com/news/seekingalpha:faf4148c8094b:0-japan-s-producer-price-inflation-slows-to-6-8-in-september-below-market-expectations/",
-   "published_utc": "2026-10-13T04:31:33+00:00",
-   "title_original": "Japan's producer price inflation slows to 6.8% in September, below market expectations",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1f40063b93496153"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -11627,23 +11627,6 @@
    "live_wire": true,
    "manual": false,
    "id": "bf2e8854061a34b3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Yen Rises Against Majors",
-   "url": "https://www.tradingview.com/news/dpa_afx:550931b56d47b:0-yen-rises-against-majors/",
-   "published_utc": "2026-10-07T12:34:30+00:00",
-   "title_original": "Yen Rises Against Majors",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7f52f97735083e61"
   },
   {
    "source_id": "tradingview_live",
@@ -51942,6 +51925,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8af589d04bbcd136"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Bank of Japan Accounts (September 10)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260910.htm",
+   "published_utc": "2026-09-14T01:00:00+00:00",
+   "title_original": "Bank of Japan Accounts (September 10)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5b12a096e8439735"
   },
   {
    "source_id": "manual_ia",
