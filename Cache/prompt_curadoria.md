@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-13T15:02:48.198595+00:00
+Última coleta: 2026-10-13T15:12:43.341764+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1138
-  🇨🇳 China          832
+  🇨🇳 China          831
   🇹🇼 Taiwan         298
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
@@ -50,13 +50,13 @@ Total: 3000 manchetes
   - [japan] Intervention Risk Limits Yen Falls Against Dollar — Market Talk
   - [japan] 88% of people expect prices to rise one year from now, Bank of Japan's September lifestyle awareness survey (K
   - [china] Chip selloff deepens amid AI trade fears, rising Chinese competition
+  - [korea] Starting next year, state subsidies per hydrogen car will be reduced to 20 million won, 11.1% less t..
   - [korea] The Ministry of Finance and Economy announced an administrative notice on the 13th to raise the pre
   - [japan] Former NHK Chairman Nobuo Inaba dies at age 75, former Bank of Japan board member (Jiji Press)
   - [japan] More than 80% expect prices to rise in five years' time Bank of Japan survey on lifestyle awareness (TV Asahi 
   - [korea] Commercial banks are offering non-face-to-face real estate mortgage loans for private businesses. Th..
   - [korea] [Photo] Export-import silver supports independence of isolated youth
   - [korea] Samsung Electronics chairman Lee to receive 2.6 trillion won worth of shares from mother, reports say
-  - [japan] More than 80% predict that prices will rise in five years Bank of Japan's lifestyle awareness survey (TV Asahi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-13T15:02:48+00:00",
+      "published_utc": "2026-10-13T15:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
