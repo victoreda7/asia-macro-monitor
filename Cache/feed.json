@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-13T10:02:45.786223+00:00",
- "collected_at_utc": "2026-10-13T10:02:45.786223+00:00",
+ "generated_at_utc": "2026-10-13T10:12:43.968323+00:00",
+ "collected_at_utc": "2026-10-13T10:12:43.968323+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1138,
-  "china": 832,
+  "japan": 1140,
+  "china": 831,
   "taiwan": 297,
-  "korea": 733
+  "korea": 732
  },
- "elapsed_s": 31.4,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T08:42:22+00:00"
+   "newest": "2026-10-13T09:48:07+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T19:01:13+09:00"
+   "newest": "2026-10-13T19:03:21+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T18:57:04+09:00"
+   "newest": "2026-10-13T19:08:16+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T08:21:43+00:00"
+   "newest": "2026-10-13T08:53:56+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-13T10:02:00+00:00"
+   "newest": "2026-10-13T10:11:48+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T02:30:49+00:00"
+   "newest": "2026-10-13T05:32:28+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T07:48:56+00:00"
+   "newest": "2026-10-13T06:50:33+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "\"Cabinet approval rate\" is also one of the indicators of government management",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56824",
+   "published_utc": "2026-10-13T10:03:21+00:00",
+   "title_original": "「内閣支持率」政権運営の指標の1つにも",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8023b293bd6b6e54"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -393,6 +410,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4e9a79020cc6e791"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Rupee extends surge; Dollar consolidates near peaks ahead of inflation data",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHpYeC12b3l1bnlOQ2gzZ1hYci04U1RwR1Mya0JEVWJKanZ1NUJHdG1qMUxnSTV5VTlVOHFHUUNjNHlmaFJCTTdNRmhxZm01MWtUTWxtdWVVcXd3SEVES1Z5WFhMbU40Ykg1VXowbkhoRFJpUFJHNHk1TGUzNzlWNVgtX2p0Uk9CbmMwbGZtZU5sNTliam9OSXl2b2NjN0wtNTN3dy02TTRGQ2FIc2pFLQ?oc=5",
+   "published_utc": "2026-10-13T09:48:07+00:00",
+   "title_original": "Rupee extends surge; Dollar consolidates near peaks ahead of inflation data",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8d198d55a2a5984f"
   },
   {
    "source_id": "tradingview_live",
@@ -790,23 +824,6 @@
    "live_wire": true,
    "manual": false,
    "id": "99149ca6c67982a6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한국부동산뉴스",
-   "title_en": "“We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsQ01JQ2I3NzcxY0p2TC13UmdzQ2pwOEx2VzFDdy00SWFmeFctV21hZnYtOFZJcVI1czR3U0VncUhpNGVPMmZjcXF0M0pFc0JIYnhjaVZuc1p1UXlhYWs5WVF5b1FpN2hBRURB?oc=5",
-   "published_utc": "2026-10-13T07:48:56+00:00",
-   "title_original": "\"美보다 먼저 올려 시간 벌었다\"…한은, 10월 기준금리 '동결' 무게",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "673a3302800d55a0"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2459,6 +2476,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bdbf4743c1502a55"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "https://www.citytimes.co.kr/",
+   "title_en": "“We bought time by raising it before the US”... Bank of Korea plans to freeze base interest rate in October",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nRkphTXZzOVFoaF9EU1hGOEYxbVNEb3hHbUZYdjhrN1dvNUNEdkItN0Y2cDd5UU1CbnNtcWdWZHpfc3BNMUpiaXFjWERYOENhZmpGelZFMEVPYmFDaEcwRHoyVEdZSllkYjNta29B?oc=5",
+   "published_utc": "2026-10-12T22:24:00+00:00",
+   "title_original": "\"美보다 먼저 올려 시간 벌었다\"…한은, 10월 기준금리 '동결' 무게",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5fc63cb7edf00757"
   },
   {
    "source_id": "tradingview_live",
@@ -4389,25 +4423,6 @@
    "id": "e53220cd62a9e5c6"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제TV",
-   "title_en": "Bank of Korea governor: “Monetary policy unwavering”… Emphasis on fiscal harmony",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tWW15ME9kbHBzMk9nNWVZZTlUUmY1Y1czNG1zYWk0NnByTGkyUENhalFEYW5zNno1ZmxuQXdYTHhSODNaUTFRX1JiSF9MWXU3ZUNlZ0VSbkk0VlVuZGtER3FIRTFjMkdQ?oc=5",
-   "published_utc": "2026-10-12T04:00:00+00:00",
-   "title_original": "한국은행 총재 \"통화정책 흔들림 없이\"…재정 조화 강조",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "476fc9e5a7daf22e"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Rapidus targets customers underserved by TSMC, but can it convince them to take the risk?",
@@ -5771,8 +5786,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -5785,7 +5800,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -6716,8 +6731,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -6731,7 +6746,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -6922,8 +6937,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -6937,7 +6952,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -7808,8 +7823,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -7823,7 +7838,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51923,23 +51938,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ebe5ca76b71f3624"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "10jqka.com.cn",
-   "title_en": "Central Bank: The volume of 7-day reverse repurchase operations on September 14 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tajEzN1ZuNkQyUmdEUm0wZk5XV0ZHMlJ2WkUwM05qQ1o0cE1CYXdpMGhPRTFoUl9xeVplOU1HVC1DXzRjeEhzcHNOUzlJSEhXM2hZb3ZUUmdDZi1XQkE?oc=5",
-   "published_utc": "2026-09-14T01:25:45+00:00",
-   "title_original": "央行：9月14日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cb98696883d0e434"
   },
   {
    "source_id": "manual_ia",
