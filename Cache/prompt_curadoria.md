@@ -7,34 +7,37 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T02:52:42.128605+00:00
+Última coleta: 2026-10-14T03:02:43.719709+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1134
-  🇨🇳 China          846
-  🇹🇼 Taiwan         295
+  🇨🇳 China          848
+  🇹🇼 Taiwan         293
   🇰🇷 Coreia do Sul  725
 
 ## O que já está no feed (não repita)
 
+  - [china] China September rare earth exports rise 6.7% from a year earlier
+  - [china] China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts
+  - [china] China Imports Hit Record High
   - [china] Chinese Exports Accelerate in September
+  - [china] China’s exports surge 36.3% y/y in September, imports up 31%
+  - [china] China’s Export Growth Hits Seven-Month High, Beats Forecasts
+  - [china] China Posts Biggest Trade Surplus in 20 Months
   - [china] China Sep Trade Surplus $133.5B; Expected Surplus $111.4B
   - [china] China Sep Trade Surplus CNY906B
   - [china] China Sep Exports +36.3% on Year; Expected +25.0%
   - [china] China Sep Imports +31.0% on Year; Expected +24.8%
   - [china] CHINA JAN-SEP IMPORTS +22.3% Y/Y IN YUAN TERM: CUSTOMS
-  - [china] China's exports surge 36.3% y/y in September, imports up 31%
   - [japan] Yen Weakens on Cautious BOJ Rate Outlook
   - [china] Tencent to Raise Around $5.7 Billion From Dollar, Yuan Bonds
   - [china] China's Inflation Data Reflect Subdued Demand, Supply Pressures — Market Talk
   - [taiwan] Trump Says Taiwan to Buy Gas From Alaska LNG Export Project
   - [korea] Most Asian currencies on backfoot; South Korean won strengthens
   - [china] Announcement from the Central Bank: Launching a 56 billion yuan 7-day reverse repurchase operation. On October
-  - [china] China producer inflation beats forecasts as commodity costs rise, CPI lags
   - [china] China Sep Exports +29.6% on Year in Yuan Terms
   - [china] China Sep Imports +24.6% on Year in Yuan Terms
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged
-  - [china] China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts
   - [china] China's yuan-denominated September exports rose 29.6%, imports 24.6%
   - [china] CHINA SEP NON-FOOD PRICES +1.5% Y/Y VS +1.2% Y/Y AUG
   - [china] CHINA SEP FOOD PRICES -1.7% Y/Y VS -1.4% Y/Y AUG
@@ -51,12 +54,9 @@ Total: 3000 manchetes
   - [china] China's factory-gate inflation accelerates in September
   - [china] China Inflation Rate Slightly Below Estimates
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7249 WEDS VS 6.7298
+  - [china] China’s Producer Prices Jolted by $100 Oil as Inflation Rebounds
   - [china] China Sep Non-Food Prices +1.5% on Year
-  - [china] China Sep Food Prices -1.7% On Year
-  - [china] China Jan-Sep CPI +0.9% on Year
   - [japan] Hitoshi Sasaki, former Matsuyama branch manager, will be the new manager of the Bank of Japan Shizuoka branch.
-  - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation today
-  - [china] The central bank launches 56 billion yuan 7-day reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T02:52:42+00:00",
+      "published_utc": "2026-10-14T03:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
