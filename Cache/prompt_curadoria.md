@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T01:42:43.425874+00:00
+Última coleta: 2026-10-14T01:52:41.742204+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1136
-  🇨🇳 China          836
-  🇹🇼 Taiwan         299
+  🇨🇳 China          837
+  🇹🇼 Taiwan         298
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
   - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO WEDS
+  - [china] China Producer Inflation Highest Since 2022
   - [china] China's factory-gate inflation accelerates in September
+  - [china] China Inflation Rate Slightly Below Estimates
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7249 WEDS VS 6.7298
   - [china] China Sep Non-Food Prices +1.5% on Year
   - [china] China Sep Food Prices -1.7% On Year
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] US chip stocks extend slide as China memory report, AI spending jitters hit sector
   - [china] 'If you can't beat them, join them': Uday Kotak backs China investment, manufacturing JVs in India
   - [japan] Yen Rises After BoJ Ueda Comments
-  - [japan] Yen Rises Against Majors
-  - [korea] Kospi tumbles as chip rout deepens, briefly breaking below 6,000
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T01:42:43+00:00",
+      "published_utc": "2026-10-14T01:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
