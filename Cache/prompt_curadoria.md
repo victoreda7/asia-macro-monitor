@@ -7,27 +7,31 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T14:02:44.099472+00:00
+Última coleta: 2026-10-14T14:12:43.996686+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1132
   🇨🇳 China          847
-  🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  728
+  🇹🇼 Taiwan         294
+  🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
+  - [japan] US consumer price increase rate 3.7% exceeds market expectations
   - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21 Billion in Funding From U.S.-Japan Initiative
   - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21B in Funding From U.S.-Japan Initiative
   - [japan] GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com
   - [japan] Possibility of Bank of Japan interest rate hike exceeding 2%
   - [china] French cosmetics facing delays clearing China customs, says industry association
+  - [taiwan] Belize PM vows stronger support for Taiwan after China sanctions
   - [japan] Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries
   - [japan] GlobalFoundries selected to operate two new semiconductor fabs in New York under landmark U.S.-Japan initiativ
+  - [taiwan] Musk's Terafab plan poses no short-term threat to TSMC: Analyst
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [china] China Inflation Rises Marginally; PPI Inflation Strongest Since 2022
   - [japan] Yomiuri: Japan Publishes English-Language Booklet on PM Takaichi's Economic Policies
   - [japan] Euro/yen shorts on Japan investors' OAT sales overdone, say UBS
+  - [china] MAC accuses Beijing of election interference over Puma Shen family firm sanctions
   - [taiwan] What analysts are watching with key semiconductor maker TSMC set to report results
   - [china] India’s Russian crude imports fall 29% from July peak as China boosts buying
   - [china] IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank: On October 15, it will launch a 700 billion yuan six-month buyout reverse repurchase operation
   - [china] Central Bank: The increase in social financing in the first three quarters was 27.46 trillion yuan, and the M2
   - [china] Asian stocks slip as China shares fall, oil risks and U.S. CPI weigh
-  - [china] Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15
-  - [china] China willing to import more high-value products, premier says
-  - [china] China producer inflation rises with increase in commodities; CPI falls below forecasts
-  - [korea] South Korean minister rejects claim of W80b wasted on Brazilian egg imports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T14:02:44+00:00",
+      "published_utc": "2026-10-14T14:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

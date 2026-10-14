@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-14T14:02:44.099472+00:00",
- "collected_at_utc": "2026-10-14T14:02:44.099472+00:00",
+ "generated_at_utc": "2026-10-14T14:12:43.996686+00:00",
+ "collected_at_utc": "2026-10-14T14:12:43.996686+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1132,
   "china": 847,
-  "taiwan": 293,
-  "korea": 728
+  "taiwan": 294,
+  "korea": 727
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T04:00:40+00:00"
+   "newest": "2026-10-14T04:00:21+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -67,7 +67,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T19:09:51+08:00"
+   "newest": "2026-10-14T21:21:03+08:00"
   },
   {
    "source_id": "investing_live",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T07:11:28+00:00"
+   "newest": "2026-10-14T01:46:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T22:02:00+09:00"
+   "newest": "2026-10-14T23:11:39+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T22:48:38+09:00"
+   "newest": "2026-10-14T23:11:39+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T10:46:00+00:00"
+   "newest": "2026-10-14T12:08:01+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T04:06:00+00:00"
+   "newest": "2026-10-14T13:35:05+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T08:39:40+00:00"
+   "newest": "2026-10-14T11:42:55+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T13:36:45+00:00"
+   "newest": "2026-10-14T13:54:21+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "US consumer price increase rate 3.7% exceeds market expectations",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261014de59486",
+   "published_utc": "2026-10-14T14:08:38+00:00",
+   "title_original": "米 消費者物価上昇率3.7％ 市場予想上回る",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "18f5511087daeda5"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -429,6 +446,23 @@
    "id": "665c7492acbd997d"
   },
   {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Belize PM vows stronger support for Taiwan after China sanctions",
+   "url": "https://focustaiwan.tw/politics/202610140023",
+   "published_utc": "2026-10-14T13:07:01+00:00",
+   "title_original": "Belize PM vows stronger support for Taiwan after China sanctions",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "31aacaa8a647eacb"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries",
@@ -463,10 +497,27 @@
    "id": "0e07223ddf54e34e"
   },
   {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Musk's Terafab plan poses no short-term threat to TSMC: Analyst",
+   "url": "https://focustaiwan.tw/business/202610140022",
+   "published_utc": "2026-10-14T12:22:58+00:00",
+   "title_original": "Musk's Terafab plan poses no short-term threat to TSMC: Analyst",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "59d92bd559a7bf5d"
+  },
+  {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "搜狐网",
    "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVVjd1VmTGlIOGRRcDIweUpQbVlfVW04d1BEc3IyU3FFa3JkVnJ0X0pmMWEzWTA3VW02bUhVVHJnRkMwUWpZeVl6bHpWbjZZektfSXEyTUdLLWZyd055N1R5OFBpRlJfRXJKM1FUZklsam80V3FPQnFOMC1oa3F0QklON1BDWWtm?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcWg1RUtoc0VRU1EzdWN0TTJSYWdNYWUyN0prb3g5Y2VpWUhBamR2LVphVHBqMm5LUF9EMnpON1hTTFh0TnhkenpwUEMzWWZjTzZXVmw5YlNSNXNVdEpGeks3R1ZFUmF4MkFha1U2NGpsbXhhNUFtNnpqR1lLa2hPdlA2aEx5X3RWWkZB?oc=5",
    "published_utc": "2026-10-14T12:08:01+00:00",
    "title_original": "央行将开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -478,7 +529,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "075d7bf565cf51b5"
+   "id": "f32d64bdd755ecfb"
   },
   {
    "source_id": "tradingview_live",
@@ -530,6 +581,23 @@
    "live_wire": true,
    "manual": false,
    "id": "bedeb68b77cfc3cf"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "MAC accuses Beijing of election interference over Puma Shen family firm sanctions",
+   "url": "https://focustaiwan.tw/politics/202610140020",
+   "published_utc": "2026-10-14T11:42:53+00:00",
+   "title_original": "MAC accuses Beijing of election interference over Puma Shen family firm sanctions",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2580ffde44503b70"
   },
   {
    "source_id": "tradingview_live",
@@ -2089,7 +2157,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged at 1.40%",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Xa1JWejVEall0bTNybXI2V2ZiaVZpUG50X1dON2owNm9NTVAtVE10SE11NHNBNWZSTWpmTk9welpBdFg0ZWpKT3hCNHNZWXdSQ09PNUhrVlk1YnZkM3RNOG53?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKUE5OTlIwUldoSlY3ckxSYzgtTnQ4d21IQjVPNXZ4NTdBZGFCb2Z6Z3Jadm9ib3NDWWVVX1FrbFhTdXE0bkt5NTRjaWl4UQ?oc=5",
    "published_utc": "2026-10-14T02:03:28+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 利率1.40%持平",
    "region": "china",
@@ -2101,7 +2169,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "551d98007892a700"
+   "id": "563552a745d8dbb4"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -16268,7 +16336,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzQ0X04tVGlYcVY4N3B5cWtYWlNZV3ZjR1ZtNG91bUxHZWZpUEhwVXpYSy1kSUpRWVZtd09wU293N2w1RGw2SFFjTTFxM1NjbWoxLW8yM2Y4Q1JxeHBVbVlZdHdEMnZRTDF3a05TRWJaaklXeWIyak9NVFc3SFY5eEJHUmF0MUVESVFIa1R4alpfVVRvMDE2Wk5n?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEotV2RsS3BuSnU0bkdIVWN0cEUwUC1EdWdqeHFDcFVLVE1pRGt4cEpBLWhYeHVJRUNLZ0V3bUVQbWVPNDBBQmp3VFVaM1JVcjVMd1RyYkh0di0zWXNFeEFRd3BJUlhWSW1pRTI0TlRIa01Wa3BmSEpfc0hTV25CVzNVVExnUldD?oc=5",
    "published_utc": "2026-10-06T09:18:34+00:00",
    "title_original": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
    "region": "taiwan",
@@ -16279,7 +16347,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "cdf00dc430097832"
+   "id": "80ec3b16fcf66cc9"
   },
   {
    "source_id": "investing_live",
@@ -51851,76 +51919,6 @@
    "live_wire": true,
    "manual": false,
    "id": "530027363f98fa17"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan approves FY 2027 tax reform, paves way for food tax cut from April",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5c2V2ZmRfaDRhWWxKT2poUm1WTzZpVDljai1MREM0a0ZvVVRBM2NyYzdQS0lGWDRvdVgxVmdOOHBYM0tGbVZwd1I0bFdBenhibXpmaWxFVVl0Zw?oc=5",
-   "published_utc": "2026-09-15T10:49:35+00:00",
-   "title_original": "Japan approves FY 2027 tax reform, paves way for food tax cut from April",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "05b8be5f1c1a11ba"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Business Brief (Sept. 15): China Moves to Boost Smart Home Consumption",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYjE0aXJ0NUJQSndqTG1wckF2OUdFam1xYlVPNUNJNHpZeW5jcm9zdUcxRkR3Wkl0U3h0MnlVOHJIbG5VNzc3eTRFa0tZWmpJc3plbWRmOXl5UDVJQjhXVWxrSmozc0xna2ttVk8tb1ZEWFA0ME1FdXVMckN0SXZRRVR2Y1dJVWtKZXlhNEVZN1QzeFB2SEhvNlFydUR2bnd2MVlPVEduQjZiVXZJMEtiaF96Rk1yYTZWQkdlMVl3?oc=5",
-   "published_utc": "2026-09-15T10:35:00+00:00",
-   "title_original": "Business Brief (Sept. 15): China Moves to Boost Smart Home Consumption",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2ed66ffadb884928"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Most expect housing prices to stabilize in Q4: Survey",
-   "url": "https://focustaiwan.tw/business/202609150022",
-   "published_utc": "2026-09-15T10:34:57+00:00",
-   "title_original": "Most expect housing prices to stabilize in Q4: Survey",
-   "region": "taiwan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ae773a6478821d4b"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "ER 이코노믹리뷰",
-   "title_en": "The Bank of Korea hints at the possibility of further interest rate hikes... Monetary Policy Committee members “preemptively respond to rising price pressures”",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUakctLVdMWjBwOHF2Sk5RQl9rYnZfdEtRVkVNM1BzVHZha1VIU3J3SXVGOW5GM3BxYWhMLXdURmZLRUF0azNrMVEwZ3QyaERPMkp1OFA3YXN4RE82OVBQQW5SWHNjNHNaMWdVMQ?oc=5",
-   "published_utc": "2026-09-15T10:29:58+00:00",
-   "title_original": "한은, 추가 금리인상 가능성 시사…금통위원들 \"물가 상승 압력에 선제 대응\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "62a1be3e8eecf7f1"
   },
   {
    "source_id": "manual_ia",
