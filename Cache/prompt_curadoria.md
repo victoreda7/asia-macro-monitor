@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T07:32:41.893876+00:00
+Última coleta: 2026-10-14T07:42:42.692365+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1135
-  🇨🇳 China          840
+  🇯🇵 Japão          1136
+  🇨🇳 China          838
   🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nikkei gives up early gains as chip-related shares retreat after ASML earnings
+  - [china] China's September exports soar, putting $1 trillion trade surplus in sight
+  - [korea] “After freezing this month, tightening again”...BOK sets base interest rate at 3.5% early next year
   - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
   - [japan] EQT Raises Tender Offer Price For Kakaku.Com Inc By 1 Yen To 3,682 Yen Apiece, Filing Shows
   - [china] China Exports Growth Beats Expectations
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups
   - [china] China September iron ore imports rise on pre-holiday restocking
   - [korea] Shin Hyun-song's first National Assembly inspection, "Monetary policy unwavering"... Base interest rate 3.0%, 
-  - [japan] Japan 10Y Yield Steadies on Cautious BOJ Outlook
-  - [china] China's soybean imports fall 7.7% in September from a year earlier
-  - [china] China's September exports blow past forecasts, imports accelerate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T07:32:42+00:00",
+      "published_utc": "2026-10-14T07:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
