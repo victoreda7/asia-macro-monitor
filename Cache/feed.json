@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T02:12:45.249115+00:00",
- "collected_at_utc": "2026-10-14T02:12:45.249115+00:00",
+ "generated_at_utc": "2026-10-14T02:22:42.206290+00:00",
+ "collected_at_utc": "2026-10-14T02:22:42.206290+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1134,
-  "china": 844,
+  "china": 843,
   "taiwan": 296,
-  "korea": 726
+  "korea": 727
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T01:52:09+00:00"
+   "newest": "2026-10-14T02:09:10+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T01:54:55+00:00"
+   "newest": "2026-10-14T02:06:55+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-14T10:51:43+00:00"
+   "newest": "2026-10-14T11:19:18+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-14T01:33:54+00:00"
+   "newest": "2026-10-14T02:17:22+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T12:00:08+00:00"
+   "newest": "2026-10-14T00:30:07+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T02:11:00+00:00"
+   "newest": "2026-10-14T02:19:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T00:23:07+00:00"
+   "newest": "2026-10-14T02:10:04+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Most Asian currencies on backfoot; South Korean won strengthens",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N460020:0-most-asian-currencies-on-backfoot-south-korean-won-strengthens/",
+   "published_utc": "2026-10-14T02:17:02+00:00",
+   "title_original": "Most Asian currencies on backfoot; South Korean won strengthens",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "999685d3866e3b59"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "搜狐",
@@ -377,6 +394,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a024c90493896fc6"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China producer inflation beats forecasts as commodity costs rise, CPI lags",
+   "url": "https://www.investing.com/news/economy-news/chinas-factorygate-inflation-accelerates-in-september-4947866",
+   "published_utc": "2026-10-14T02:06:25+00:00",
+   "title_original": "China producer inflation beats forecasts as commodity costs rise, CPI lags",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "87a75ebe8429344b"
   },
   {
    "source_id": "tradingview_live",
@@ -435,19 +469,20 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
-   "title_en": "China producer inflation beats forecasts as commodity costs rise, CPI lags",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N460014:0-china-producer-inflation-beats-forecasts-as-commodity-costs-rise-cpi-lags/",
-   "published_utc": "2026-10-14T02:01:23+00:00",
-   "title_original": "China producer inflation beats forecasts as commodity costs rise, CPI lags",
+   "title_en": "China's yuan-denominated September exports rose 29.6%, imports 24.6%",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44H02J:0-china-s-yuan-denominated-september-exports-rose-29-6-imports-24-6/",
+   "published_utc": "2026-10-14T02:00:01+00:00",
+   "title_original": "China's yuan-denominated September exports rose 29.6%, imports 24.6%",
    "region": "china",
    "topics": [
-    "inflation"
+    "fx",
+    "trade"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "260447846c3d949c"
+   "id": "95bdf60434e0e011"
   },
   {
    "source_id": "tradingview_live",
@@ -533,23 +568,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8821ac2a80ae8fbf"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China’s factory-gate inflation accelerates in September",
-   "url": "https://www.investing.com/news/economy-news/chinas-factorygate-inflation-accelerates-in-september-4947866",
-   "published_utc": "2026-10-14T01:54:55+00:00",
-   "title_original": "China’s factory-gate inflation accelerates in September",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bef3cde4c8902cdb"
   },
   {
    "source_id": "tradingview_live",
@@ -51912,24 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7b3642c221a034a2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China recomenda mais hedge cambial conforme iuan forte afeta exportadores, segundo fontes",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4560QJ:0/",
-   "published_utc": "2026-09-14T12:20:49+00:00",
-   "title_original": "China recomenda mais hedge cambial conforme iuan forte afeta exportadores, segundo fontes",
-   "region": "china",
-   "topics": [
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6fa0009bb41202d3"
   },
   {
    "source_id": "manual_ia",

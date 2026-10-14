@@ -7,28 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T02:12:45.249115+00:00
+Última coleta: 2026-10-14T02:22:42.206290+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1134
-  🇨🇳 China          844
+  🇨🇳 China          843
   🇹🇼 Taiwan         296
-  🇰🇷 Coreia do Sul  726
+  🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
+  - [korea] Most Asian currencies on backfoot; South Korean won strengthens
   - [china] Announcement from the Central Bank: Launching a 56 billion yuan 7-day reverse repurchase operation. On October
   - [china] Tencent to Raise Around $5.7 Billion From Dollar, Yuan Bonds
+  - [china] China producer inflation beats forecasts as commodity costs rise, CPI lags
   - [china] China Sep Exports +29.6% on Year in Yuan Terms
   - [china] China Sep Imports +24.6% on Year in Yuan Terms
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged
-  - [china] China producer inflation beats forecasts as commodity costs rise, CPI lags
+  - [china] China's yuan-denominated September exports rose 29.6%, imports 24.6%
   - [china] CHINA SEP NON-FOOD PRICES +1.5% Y/Y VS +1.2% Y/Y AUG
   - [china] CHINA SEP FOOD PRICES -1.7% Y/Y VS -1.4% Y/Y AUG
   - [china] CHINA SEP PPI +1.2% M/M VS +0.4% M/M AUG
   - [china] CHINA SEP CPI +0.2% M/M VS +0.4% M/M AUG
   - [china] China's Consumer, Producer Prices Accelerated in September
-  - [china] China’s factory-gate inflation accelerates in September
   - [china] China Food Prices Fall for 6th Month
   - [china] China CPI inflation grows less than expected in Sept; PPI hits 4-yr high
   - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO WEDS
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Tencent prices $1.8 billion, 26 billion yuan notes under MTN programme
   - [china] China Inflation, Trade Data Due On Wednesday
   - [taiwan] TSMC Stocks Slip as Thursday's Earnings Put AI Margins Under Scrutiny
-  - [japan] I gave up on curry, the salmon roe bowl was in the red, and I finally opened 30 stores nationwide with "Pork C
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T02:12:45+00:00",
+      "published_utc": "2026-10-14T02:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
