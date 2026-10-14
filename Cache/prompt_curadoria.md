@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T03:12:41.895308+00:00
+Última coleta: 2026-10-14T03:22:43.714574+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1134
-  🇨🇳 China          850
-  🇹🇼 Taiwan         295
-  🇰🇷 Coreia do Sul  721
+  🇯🇵 Japão          1133
+  🇨🇳 China          853
+  🇹🇼 Taiwan         294
+  🇰🇷 Coreia do Sul  720
 
 ## O que já está no feed (não repita)
 
+  - [china] China's export engine hits fastest pace since February with 36% growth
+  - [china] China's September coal imports fall 6%
   - [china] China's export engine steams ahead with September shipments up 36%
   - [china] China September rare earth exports rise 6.7% from a year earlier
   - [china] China hold 2027 fertiliser import tariff quota unchanged at 13.65 million tons
+  - [china] China's wholesale prices rise 5%, the highest level in 4 years and 3 months due to high crude oil prices, Sept
   - [china] China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts
   - [china] China Imports Hit Record High
   - [china] Chinese Exports Accelerate in September
@@ -37,6 +40,8 @@ Total: 3000 manchetes
   - [china] China's Inflation Data Reflect Subdued Demand, Supply Pressures — Market Talk
   - [taiwan] Trump Says Taiwan to Buy Gas From Alaska LNG Export Project
   - [korea] Most Asian currencies on backfoot; South Korean won strengthens
+  - [china] The central bank launches 56 billion yuan 7-day reverse repurchase operation
+  - [china] China’s Producer Prices Jolted by Oil as Inflation Rebounds
   - [china] Announcement from the Central Bank: Launching a 56 billion yuan 7-day reverse repurchase operation. On October
   - [japan] NTT mulls building data center for Anthropic in Japan, to cost 1 tril. yen
   - [china] China Sep Exports +29.6% on Year in Yuan Terms
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Asia shares edge up as chip selloff eases; US CPI awaited
   - [china] China Inflation Rebounds as Oil Tops $100 and AI Goods Get Costlier
   - [china] China Food Prices Fall for 6th Month
-  - [china] China CPI inflation grows less than expected in Sept; PPI hits 4-yr high
-  - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO WEDS
-  - [china] China's consumer prices rose 0.9% in September (Kyodo News)
-  - [china] On October 14, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.
-  - [china] China Producer Inflation Highest Since 2022
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T03:12:42+00:00",
+      "published_utc": "2026-10-14T03:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

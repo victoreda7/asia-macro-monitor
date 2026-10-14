@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-14T03:12:41.895308+00:00",
- "collected_at_utc": "2026-10-14T03:12:41.895308+00:00",
+ "generated_at_utc": "2026-10-14T03:22:43.714574+00:00",
+ "collected_at_utc": "2026-10-14T03:22:43.714574+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1134,
-  "china": 850,
-  "taiwan": 295,
-  "korea": 721
+  "japan": 1133,
+  "china": 853,
+  "taiwan": 294,
+  "korea": 720
  },
  "elapsed_s": 29.8,
  "sources": [
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T02:38:00+00:00"
+   "newest": "2026-10-13T09:23:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T02:32:38+00:00"
+   "newest": "2026-10-13T17:37:18+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "error": "",
    "newest": "2026-10-14T01:30:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T11:26:15+09:00"
+   "newest": "2026-10-14T12:17:44+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T02:08:29+00:00"
+   "newest": "2026-10-14T02:14:54+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T17:56:42+00:00"
+   "newest": "2026-10-14T01:42:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T03:07:57+00:00"
+   "newest": "2026-10-14T03:21:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T02:39:00+00:00"
+   "newest": "2026-10-14T03:07:12+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -346,6 +346,40 @@
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
+   "title_en": "China's export engine hits fastest pace since February with 36% growth",
+   "url": "https://asia.nikkei.com/economy/trade/china-s-export-engine-hits-fastest-pace-since-february-with-36-growth",
+   "published_utc": "2026-10-14T03:22:42.793309+00:00",
+   "title_original": "China's export engine hits fastest pace since February with 36% growth",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7708bae770e5aa59"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's September coal imports fall 6%",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46008J:0-china-s-september-coal-imports-fall-6/",
+   "published_utc": "2026-10-14T03:21:48+00:00",
+   "title_original": "China's September coal imports fall 6%",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b465ddbfa26ef072"
+  },
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
    "title_en": "China's export engine steams ahead with September shipments up 36%",
    "url": "https://asia.nikkei.com/economy/trade/china-s-export-engine-steams-ahead-with-september-shipments-up-36",
    "published_utc": "2026-10-14T03:12:41.191065+00:00",
@@ -393,6 +427,23 @@
    "live_wire": true,
    "manual": false,
    "id": "ab2ca987455464b2"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "China's wholesale prices rise 5%, the highest level in 4 years and 3 months due to high crude oil prices, September (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56Y25ITEdEbERtVTlnc0JxYnlMSEhhNUMyZzFYUEl4em1sS3p2VWQ3UHNWQTlNWkZweUFaM3lVakhJb3JGTmFpcGkwU3dfQmFkUlZMakhYYnhVLVo4R2o1RWdUMTZaSnZpS0cwNmo0UTlyaFFhRmxPVVFlU3RIc0k?oc=5",
+   "published_utc": "2026-10-14T02:57:08+00:00",
+   "title_original": "中国卸売物価、5％上昇 原油高で4年3カ月ぶり高水準 9月（時事通信）",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c3f911478060ac82"
   },
   {
    "source_id": "investing_econ",
@@ -684,6 +735,41 @@
    "live_wire": true,
    "manual": false,
    "id": "999685d3866e3b59"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "The central bank launches 56 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2X25JM2dkZDZELTdBUVE4bmZleTJnTHFmb19uMHpETFVnM1Eya3BfZlVTaUp2QjVkenhscERlcXlSV0dTbERULUEweWgzTG1YaUJGNU02X3o?oc=5",
+   "published_utc": "2026-10-14T02:14:54+00:00",
+   "title_original": "央行开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c1ace237a8adfa20"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China’s Producer Prices Jolted by Oil as Inflation Rebounds",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1dERlVieFVVeXBPSzJJVHU0TXJETVlLU1VpUVFaMWV0SzBzWnJXaDVIZHZ1cU9xTnZIdzJYN3lpdG5OMFdOUUIxTTBUOVRnVGsxRmNvcTVqQWtmemtOR010TFh6YzVKeTlsWGQ0WG1BOTJhc25fYmMzUkFpUmRNNUdRMEFUNFZwUEt2SEVrbzl0c3RGU3pXTm5BbHZhNmEyTWY1dEJwRDlHMUJ1RHR3VGxEb2U?oc=5",
+   "published_utc": "2026-10-14T02:12:00+00:00",
+   "title_original": "China’s Producer Prices Jolted by Oil as Inflation Rebounds",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "27868e7fd95c7490"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1068,23 +1154,6 @@
    "id": "3c4d1fd90ce9da08"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7249 WEDS VS 6.7298",
-   "url": "https://www.tradingview.com/news/dpa_afx:fbe26c2a6d581:0-china-sets-yuan-central-parity-at-6-7249-weds-vs-6-7298/",
-   "published_utc": "2026-10-14T01:33:00+00:00",
-   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7249 WEDS VS 6.7298",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a36dee799e61b9f4"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China’s Producer Prices Jolted by $100 Oil as Inflation Rebounds",
@@ -1152,24 +1221,6 @@
    "live_wire": false,
    "manual": false,
    "id": "83618be5321a52a9"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中新经纬",
-   "title_en": "The central bank launches 56 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmZ3MxUDVXRDV6RVhtQ2tnRjNQZS1aV3FxaEVweFR2alJ2NlZsZ2laUUdIZjZzdlFKcmxZaGxZQUs0NE8yVTZfa0J4U0VyM055T0lNRllFaUxNbXRWbWJqbEZtUkU?oc=5",
-   "published_utc": "2026-10-14T01:25:00+00:00",
-   "title_original": "央行开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2f82b0518d4ef4c8"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7012,13 +7063,13 @@
    "id": "a64d9291b255f33b"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
    "published_utc": "2026-10-11T07:00:00+00:00",
    "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "region": "taiwan",
+   "region": "korea",
    "topics": [
     "trade"
    ],
@@ -7026,7 +7077,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "718b4c2f74b8df7d"
+   "id": "d7d0d81b05ec0a14"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51135,6 +51186,23 @@
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
+   "title_en": "China’s August Retail Sales Barely Grow as Auto Slump Deepens",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXA1blZlTkdlTGo5QnUxYWFGU1BVYTROMm5TR0JPMlhHTVhWUUhFRldya0Z1X0RQeE1uSm11el90RmdScVlTcGx2U25fT1ZaMGtOWDZ5OF90SGtza3FZQXB5STg4VlRqUzZsNHdrRnd4TnJNS1RWOV9NT2FxdXRRaWJUNzF3dTY0VldqTnQxb1ZVMUF0VG9fZHgyT09WeUZON2ZvZDhwamI2b05Rd19yTUZQT1c1dw?oc=5",
+   "published_utc": "2026-09-15T07:00:00+00:00",
+   "title_original": "China’s August Retail Sales Barely Grow as Auto Slump Deepens",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "058ff8ca84d584ca"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
    "title_en": "China’s Industrial Output Beats Expectations on Tech, Exports",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZU9nUHE4VkdlRDBMbGJBRjJhODdoekNVZnEtSHpUVWsxMkoyT0IyQ0dwZWZLR3J0ZHk0S1Z5TUJsbzlpdmpBZU5NbDBOQW1COTdWTnllSXN2elJoMWU4VGpKb2l6VTlIV0hMUUN2cTdwcTh3QVdfZU1qVmdHeTRxQ2JmSmpXZ3kzMl9kNnJRY0w1LVlKSHRXQlhZQlg3T3ZQNmRLbVlKRXNzRWh4d0ZSZUZvOWQ?oc=5",
    "published_utc": "2026-09-15T07:00:00+00:00",
@@ -51861,75 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba6537f6839796ce"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Yuan Popularity Boost Likely Focus of Hong Kong’s Five-Year Plan",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0JkbkNCLVpONFB2VnVWNjJJbGNZLVBXRlV4QktkbURaWWNXTFp0QnlOX29pRS1yeU5wSXBSaUh4ZEF3aE9qeC1aa1RPVS0zZnA5dTFDWWRSR19HY1h0V1JNcDU1YTZXek5lRUFYRlZ3QmZ3MzVfZVp1cUZSN2FqZE00a1FYc0M0NEFCMFR1TWVyYVpza1pLS0VlUkhIN1EzUkNSSXpxekVWdjdIWWFzNU9pUTZLUQ?oc=5",
-   "published_utc": "2026-09-14T23:00:00+00:00",
-   "title_original": "Yuan Popularity Boost Likely Focus of Hong Kong’s Five-Year Plan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "00f91f78f32a47d8"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan's monetary policy after September interest rate hike (current events commentary by NRI researchers)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZMmhJRURpNUdmcG5vS1BWN29jVXdReUpsSmFQb3dnU1k3bEU5TVlKUkdSRUNYRWotaHFDd0huMnRtdW15dkJlb0NPcWI4YjBkekhxcXJrMFlGVDNfMlpxMWlIcHlwdWhBWmhuUjhXSWUwUklsbGNuTXVCTW9tekE?oc=5",
-   "published_utc": "2026-09-14T22:55:19+00:00",
-   "title_original": "9月利上げ後の日銀の金融政策（NRI研究員の時事解説）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "19587287663ce1b7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "thedailyeconomy.kr",
-   "title_en": "Oil price, dollar, and US interest rates ‘triple rise’… Pressure has grown on the Bank of Korea to further increase interest rates.",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MOEhDQUlpb1VhUDg0SF9Vd3dZbDRVQndPSkp1RGJ4c3dvZGNlUXJmYUpUWEZIc3VGLVdjQmRfY3NjWGRsOThhYzJIUGtndXJ3Y01MS3p0VnZwVDVLb0pSSmRSc3BQeDk3amVfa1J0NjU?oc=5",
-   "published_utc": "2026-09-14T22:20:00+00:00",
-   "title_original": "유가·달러·美금리 ‘3중 상승’…한은 추가 금리인상 압력 커졌다",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "06323153ff217437"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Weekly Recap: OpenAI LOI SK hynix (000660) and Analyst raises target",
-   "url": "https://www.tradingview.com/news/tradingview:6bb86be324981:0-weekly-recap-openai-loi-sk-hynix-000660-and-analyst-raises-target/",
-   "published_utc": "2026-09-14T22:15:10+00:00",
-   "title_original": "Weekly Recap: OpenAI LOI SK hynix (000660) and Analyst raises target",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ced16402e583dba9"
   },
   {
    "source_id": "manual_ia",
