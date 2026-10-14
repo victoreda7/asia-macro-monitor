@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T12:42:43.810724+00:00
+Última coleta: 2026-10-14T12:52:43.091629+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1131
@@ -17,8 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [japan] GlobalFoundries selected to operate two new semiconductor fabs in New York under landmark U.S.-Japan initiativ
   - [japan] Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries
+  - [japan] GlobalFoundries selected to operate two new semiconductor fabs in New York under landmark U.S.-Japan initiativ
   - [china] French cosmetics facing delays clearing China customs, says industry association
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [china] China Inflation Rises Marginally; PPI Inflation Strongest Since 2022
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T12:42:43+00:00",
+      "published_utc": "2026-10-14T12:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
