@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T11:12:45.858308+00:00
+Última coleta: 2026-10-14T11:22:41.215801+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1131
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] India’s Russian crude imports fall 29% from July peak as China boosts buying
   - [china] China buys 8-10 cargoes of US soybeans after Trump-Xi summit: sources
   - [china] China's soybean imports fall 7.7% in September compared to the previous year
   - [china] The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Surging China Exports Push Trade Surplus Toward Fresh Record
   - [korea] BOK chief stresses need to curb inflation amid AI boom, Mideast crisis
   - [korea] The Bank of Korea's Monetary Policy Committee is about a week away... Will there be a pause in interest rate h
-  - [china] EU-China deal on hybrid cars not addressing rising imports of car parts from China, FIEV says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T11:12:46+00:00",
+      "published_utc": "2026-10-14T11:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
