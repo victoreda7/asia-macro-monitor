@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T05:32:43.861872+00:00
+Última coleta: 2026-10-14T05:42:44.034531+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1133
-  🇨🇳 China          846
+  🇯🇵 Japão          1134
+  🇨🇳 China          845
   🇹🇼 Taiwan         296
   🇰🇷 Coreia do Sul  725
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ May Need to Accelerate Hikes to Reach Neutral Rate — Market Talk
   - [china] Asian equities stabilize following Wall Street tech selloff; oil nears $95, China trade data beats
   - [japan] Japan Bank Lending Remains Robust Despite BOJ Rate Hikes — Market Talk
   - [china] China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese Exports Accelerate in September
   - [china] China’s exports surge 36.3% y/y in September, imports up 31%
   - [china] China’s Trade Surplus Nears $940 Billion as Export Growth Surges
-  - [china] China’s Export Growth Hits Seven-Month High, Beats Forecasts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T05:32:44+00:00",
+      "published_utc": "2026-10-14T05:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
