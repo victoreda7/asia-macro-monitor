@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T18:42:43.825730+00:00
+Última coleta: 2026-10-14T18:52:43.372938+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1134
-  🇨🇳 China          847
+  🇯🇵 Japão          1133
+  🇨🇳 China          848
   🇹🇼 Taiwan         289
   🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [china] Times data said | The central bank will launch a 700 billion yuan buyout reverse repurchase operation
+  - [japan] GlobalFoundries options surge on $21B U.S.-Japan chip deal
   - [china] China’s Sept. Exports Surge 36.3% Amid AI Boom, Auto Export Rush
   - [korea] South Korean minister rejects claim of W80b wasted on Brazilian egg imports
   - [china] Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China buys 8-10 cargoes of US soybeans after Trump-Xi summit: sources
   - [korea] BOK chief meets Chinese, Japanese counterparts in Bangkok for economic talks
   - [china] China's soybean imports fall 7.7% in September compared to the previous year
-  - [china] The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK
-  - [japan] The Bank of Japan's interest rate hike is ``0.5%,'' but the online bank is raising it ``0.6%!'' My husband get
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T18:42:44+00:00",
+      "published_utc": "2026-10-14T18:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
