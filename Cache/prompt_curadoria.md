@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T03:32:44.976467+00:00
+Última coleta: 2026-10-14T03:42:40.819217+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1132
   🇨🇳 China          853
-  🇹🇼 Taiwan         295
-  🇰🇷 Coreia do Sul  720
+  🇹🇼 Taiwan         296
+  🇰🇷 Coreia do Sul  719
 
 ## O que já está no feed (não repita)
 
+  - [china] China September iron ore imports rise on pre-holiday restocking
+  - [china] China's soybean imports fall 7.7% in September from a year earlier
   - [china] China's September exports blow past forecasts, imports accelerate
   - [taiwan] ASML, TSMC Report This Week: What Traders Are Watching After A 6-Day Chip Stock Slide
   - [china] China's export engine hits fastest pace since February with 36% growth
@@ -45,7 +47,6 @@ Total: 3000 manchetes
   - [taiwan] Trump Says Taiwan to Buy Gas From Alaska LNG Export Project
   - [korea] Most Asian currencies on backfoot; South Korean won strengthens
   - [china] The central bank launches 56 billion yuan 7-day reverse repurchase operation
-  - [china] China’s Producer Prices Jolted by Oil as Inflation Rebounds
   - [china] Announcement from the Central Bank: Launching a 56 billion yuan 7-day reverse repurchase operation. On October
   - [japan] NTT mulls building data center for Anthropic in Japan, to cost 1 tril. yen
   - [china] China Sep Exports +29.6% on Year in Yuan Terms
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA SEP FOOD PRICES -1.7% Y/Y VS -1.4% Y/Y AUG
   - [china] CHINA SEP PPI +1.2% M/M VS +0.4% M/M AUG
   - [china] CHINA SEP CPI +0.2% M/M VS +0.4% M/M AUG
-  - [china] China's Consumer, Producer Prices Accelerated in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T03:32:45+00:00",
+      "published_utc": "2026-10-14T03:42:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
