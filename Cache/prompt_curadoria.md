@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T17:05:22.283369+00:00
+Última coleta: 2026-10-14T17:12:44.304259+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1132
-  🇨🇳 China          848
+  🇯🇵 Japão          1133
+  🇨🇳 China          847
   🇹🇼 Taiwan         292
   🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [japan] PRES TRUMP POSTS: 'MASSIVE; $21 BLN INVESTMENT FINANCED BY JAPAN, SKOREA, TAIWAN TO BUILD TWO SEMICONDUCTOR FA
   - [taiwan] TSMC Earnings Will Surge but Terafab and Texas Talks Are in Focus — Barrons.com
   - [taiwan] Thursday preview: TSMC results, UK GDP in focus
   - [china] Micron Takes Another Hit as China Chip Fears Flare
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] EU to Lift Sanction on Chinese Firm to Save an ASML Supplier
   - [china] Commentary: Why Consumption Stimulus Won’t Close China’s Demand Gap
   - [china] IMF calls for deficit reduction in the US and for China to reduce dependence on exports
-  - [china] China resumes U.S. soybean buying with 8-10 cargoes after Trump-Xi summit - report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T17:05:22+00:00",
+      "published_utc": "2026-10-14T17:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
