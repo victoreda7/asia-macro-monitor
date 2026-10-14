@@ -7,22 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T10:02:42.606471+00:00
+Última coleta: 2026-10-14T10:12:43.967073+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1134
-  🇨🇳 China          841
+  🇨🇳 China          842
   🇹🇼 Taiwan         290
-  🇰🇷 Coreia do Sul  735
+  🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
   - [japan] Budget EVs attract attention at Paris Motor Show
+  - [china] Chinese New Yuan Loans Slow as Expected
   - [china] China's New Yuan Loans Surged in September
   - [china] Metallurgical Corporation Of China Says January-September New Contracts Totalled 519.2 Billion Yuan
   - [china] Wuhan Tianyuan Group To Invest Around 500 Million Yuan In Project
-  - [china] FSPG Hi-Tech Sees 9-Month Net Profit 1.2-1.4 Billion Yuan
   - [china] China September new bank loans jump more than expected on stimulus, seasonal boost
+  - [china] FSPG Hi-Tech Sees 9-Month Net Profit 1.2-1.4 Billion Yuan
   - [china] Central Bank: The increase in social financing in the first three quarters was 27.46 trillion yuan, and the M2
   - [china] Asian stocks slip as China shares fall, oil risks and U.S. CPI weigh
   - [china] IMF calls for US to cut deficits amid bond woes, China to shift away from exports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's September exports soar, putting $1 trillion trade surplus in sight
   - [korea] “After freezing this month, tightening again”...BOK sets base interest rate at 3.5% early next year
   - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
-  - [japan] EQT Raises Tender Offer Price For Kakaku.Com Inc By 1 Yen To 3,682 Yen Apiece, Filing Shows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T10:02:42+00:00",
+      "published_utc": "2026-10-14T10:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
