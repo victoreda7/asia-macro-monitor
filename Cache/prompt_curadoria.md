@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T21:02:43.953902+00:00
+Última coleta: 2026-10-14T21:12:44.084438+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1132
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] <Competitors are withdrawing or making losses> A new frontier for Uber Eats, which has been in the black for t
   - [japan] <Future of deficit lines> JR Hokkaido's "Yellow Line Area" fundamental improvement plan is in chaos, financial
   - [japan] "Eel pie" is doing well, but the division is in the red for 400 million yen...The "amazing comeback" of Hamama
   - [taiwan] TSMC options chain shows big call wall at $500 strike ahead of earnings
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Inflation Rises Marginally; PPI Inflation Strongest Since 2022
   - [japan] Yomiuri: Japan Publishes English-Language Booklet on PM Takaichi's Economic Policies
   - [japan] Euro/yen shorts on Japan investors' OAT sales overdone, say UBS
-  - [china] MAC accuses Beijing of election interference over Puma Shen family firm sanctions
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T21:02:44+00:00",
+      "published_utc": "2026-10-14T21:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
