@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T23:12:43.633664+00:00
+Última coleta: 2026-10-14T23:22:41.776841+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1132
+  🇯🇵 Japão          1131
   🇨🇳 China          848
-  🇹🇼 Taiwan         291
+  🇹🇼 Taiwan         292
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
@@ -44,6 +44,7 @@ Total: 3000 manchetes
   - [china] Commentary: Why Gradual Yuan Appreciation Remains the Baseline
   - [japan] US consumer prices rise 3.7% in September; expectations for early interest rate hike rise somewhat
   - [japan] US Consumer Price Index rises 3.7%; growth rate expands for the first time in 4 months; yen weakens due to exp
+  - [taiwan] US cuts Obamacare subsidies for 189,000 with duplicate coverage
   - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
   - [china] IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports
   - [china] On October 15, 2026, the central bank increased the amount of 6-month buyout reverse repurchase with an additi
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Possibility of Bank of Japan interest rate hike exceeding 2%
   - [japan] GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com
   - [china] French cosmetics facing delays clearing China customs, says industry association
-  - [taiwan] Belize PM vows stronger support for Taiwan after China sanctions
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T23:12:43+00:00",
+      "published_utc": "2026-10-14T23:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
