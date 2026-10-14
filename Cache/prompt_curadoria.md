@@ -7,19 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T01:52:41.742204+00:00
+Última coleta: 2026-10-14T02:02:44.436172+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1136
-  🇨🇳 China          837
-  🇹🇼 Taiwan         298
-  🇰🇷 Coreia do Sul  729
+  🇯🇵 Japão          1135
+  🇨🇳 China          841
+  🇹🇼 Taiwan         297
+  🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
+  - [china] China producer inflation beats forecasts as commodity costs rise, CPI lags
+  - [china] CHINA SEP NON-FOOD PRICES +1.5% Y/Y VS +1.2% Y/Y AUG
+  - [china] CHINA SEP FOOD PRICES -1.7% Y/Y VS -1.4% Y/Y AUG
+  - [china] CHINA SEP PPI +1.2% M/M VS +0.4% M/M AUG
+  - [china] CHINA SEP CPI +0.2% M/M VS +0.4% M/M AUG
+  - [china] China's Consumer, Producer Prices Accelerated in September
+  - [china] China’s factory-gate inflation accelerates in September
+  - [china] China CPI inflation grows less than expected in Sept; PPI hits 4-yr high
   - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO WEDS
   - [china] China Producer Inflation Highest Since 2022
-  - [china] China's factory-gate inflation accelerates in September
   - [china] China Inflation Rate Slightly Below Estimates
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7249 WEDS VS 6.7298
   - [china] China Sep Non-Food Prices +1.5% on Year
@@ -28,6 +35,8 @@ Total: 3000 manchetes
   - [china] China Sep CPI +0.2% on Month
   - [china] China Sep CPI +0.9% on Year; Market Expected +1.0%
   - [japan] Hitoshi Sasaki, former Matsuyama branch manager, will be the new manager of the Bank of Japan Shizuoka branch.
+  - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation today
+  - [china] The central bank launches 56 billion yuan 7-day reverse repurchase operation
   - [korea] Rep. Yoon Hu-deok, Bank of Korea's National Audit Office intensively inspects the effects of interest rate hik
   - [korea] SK Hynix bounces in downtrend after support breach: Live levels
   - [japan] Bank of Japan Accounts (October 10)
@@ -48,15 +57,6 @@ Total: 3000 manchetes
   - [korea] Chip Stocks Slide as South Korea's KOSPI Plunges, J&J Sinks 6%: Stock Market Today
   - [korea] Foreign selloff sends Kospi down 5.5% as chip giants tumble
   - [korea] 'Brutal session' for chip stocks shows AI trade is turning
-  - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
-  - [japan] Japan looks for off-ramp from Trump's ICC feud before US sanctions kick in
-  - [china] Paraguay and Belize condemn China sanctions
-  - [taiwan] Taiwan’s GDP to reach 10.7%, IMF says
-  - [korea] Korea launches chip policy office to fast-track W800tr investments
-  - [china] Shares of U.S. chip companies extend decline as China memory report and concerns about AI spending hit the sec
-  - [china] US chip stocks extend slide as China memory report, AI spending jitters hit sector
-  - [china] 'If you can't beat them, join them': Uday Kotak backs China investment, manufacturing JVs in India
-  - [japan] Yen Rises After BoJ Ueda Comments
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T01:52:41+00:00",
+      "published_utc": "2026-10-14T02:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
