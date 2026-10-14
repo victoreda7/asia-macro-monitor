@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T02:22:42.206290+00:00
+Última coleta: 2026-10-14T02:32:44.845277+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1134
-  🇨🇳 China          843
+  🇨🇳 China          844
   🇹🇼 Taiwan         296
-  🇰🇷 Coreia do Sul  727
+  🇰🇷 Coreia do Sul  726
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA JAN-SEP IMPORTS +22.3% Y/Y IN YUAN TERM: CUSTOMS
+  - [china] Tencent to Raise Around $5.7 Billion From Dollar, Yuan Bonds
+  - [china] China's Inflation Data Reflect Subdued Demand, Supply Pressures — Market Talk
+  - [taiwan] Trump Says Taiwan to Buy Gas From Alaska LNG Export Project
   - [korea] Most Asian currencies on backfoot; South Korean won strengthens
   - [china] Announcement from the Central Bank: Launching a 56 billion yuan 7-day reverse repurchase operation. On October
-  - [china] Tencent to Raise Around $5.7 Billion From Dollar, Yuan Bonds
   - [china] China producer inflation beats forecasts as commodity costs rise, CPI lags
   - [china] China Sep Exports +29.6% on Year in Yuan Terms
   - [china] China Sep Imports +24.6% on Year in Yuan Terms
@@ -35,6 +38,7 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO WEDS
   - [china] China's consumer prices rose 0.9% in September (Kyodo News)
   - [china] China Producer Inflation Highest Since 2022
+  - [china] China's factory-gate inflation accelerates in September
   - [china] China Inflation Rate Slightly Below Estimates
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7249 WEDS VS 6.7298
   - [china] China Sep Non-Food Prices +1.5% on Year
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei Rises 0.3% on Possible Position Adjustments Before U.S. CPI Data — Market Talk
   - [china] Nantong Lianya To Sell 133.7 Mln Shares At 7 Yuan apiece in Shenzhen Listing
   - [korea] Key facts: Samsung Electronics (005930) 55% margin; Goldman Buy; fell
-  - [japan] September money stock M2 increased 2.0% year-on-year = Bank of Japan (Reuters)
-  - [china] Tencent prices $1.8 billion, 26 billion yuan notes under MTN programme
-  - [china] China Inflation, Trade Data Due On Wednesday
-  - [taiwan] TSMC Stocks Slip as Thursday's Earnings Put AI Margins Under Scrutiny
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T02:22:42+00:00",
+      "published_utc": "2026-10-14T02:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
