@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T08:32:44.746590+00:00
+Última coleta: 2026-10-14T08:42:42.872603+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Memory breakthrough by China's CXMT puts chip rivals on backfoot
   - [korea] BOK chief stresses need to curb inflation amid AI boom, Mideast crisis
   - [china] EU-China deal on hybrid cars not addressing rising imports of car parts from China, FIEV says
   - [japan] Japanese Government Bonds Held by the Bank of Japan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's September CPI rises 0.9% Y/Y, PPI accelerates to 5.0% above expectations
   - [japan] Five-Year JGB Yield Pares Gains After Five-Year Auction Draws Solid Demand — Market Talk
   - [china] China's September trade surplus widens to $133.53B; exports up 36.3%, imports up 31.0%
-  - [china] Chinese Exports Accelerated in September — Update
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T08:32:44+00:00",
+      "published_utc": "2026-10-14T08:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
