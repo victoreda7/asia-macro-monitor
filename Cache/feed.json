@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T11:02:42.490202+00:00",
- "collected_at_utc": "2026-10-14T11:02:42.490202+00:00",
+ "generated_at_utc": "2026-10-14T11:12:45.858308+00:00",
+ "collected_at_utc": "2026-10-14T11:12:45.858308+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1136,
-  "china": 845,
+  "japan": 1131,
+  "china": 849,
   "taiwan": 290,
-  "korea": 729
+  "korea": 730
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 31.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T19:53:18+09:00"
+   "newest": "2026-10-14T20:04:18+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T09:37:09+00:00"
+   "newest": "2026-10-14T10:46:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T10:52:08+00:00"
+   "newest": "2026-10-14T11:11:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T07:53:28+00:00"
+   "newest": "2026-10-14T08:08:16+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China buys 8-10 cargoes of US soybeans after Trump-Xi summit: sources",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4600QN:0/",
+   "published_utc": "2026-10-14T11:04:47+00:00",
+   "title_original": "China compra de 8 a 10 cargas de soja dos EUA após a cúpula Trump-Xi, dizem fontes",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "64d4e0d096ec4d96"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's soybean imports fall 7.7% in September compared to the previous year",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4600QD:0/",
+   "published_utc": "2026-10-14T11:00:11+00:00",
+   "title_original": "Importações de soja pela China caem 7,7% em setembro em relação ao ano anterior",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "42a6c4c37d3b808d"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -378,6 +412,24 @@
    "live_wire": false,
    "manual": false,
    "id": "39c5677f0c524661"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "Central Bank, latest release! In the first three quarters, the increase in social financing exceeded 27 trillion yuan, and bond and stock financing accelerated",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GTWtRMFNjVlZ1ekN1SmtmQ0F5WFdUZlpzSWhpT251aTJmcWl3aVRZLUx4UDVFX3RkdlpYc3ViM29hSVp6cFJRbS0yY2dxY0JFWFZtVUhlbTg2MF9WUm9nbg?oc=5",
+   "published_utc": "2026-10-14T10:46:00+00:00",
+   "title_original": "央行，最新发布！前三季度社融增量超27万亿元，债券、股票融资加快",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7ae710024db581b0"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -431,6 +483,24 @@
    "live_wire": true,
    "manual": false,
    "id": "1e3c9b7d52f9eaf1"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "京报网",
+   "title_en": "The central bank is about to launch a 700 billion yuan buyout reverse repo",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nal9INFNWdW5sVGF3VU0wdUl2dG5OT1dqYWRZcHpaUHJ2QTVGTXBXMld4Ul83dkdOeE5aNFpJXzdRdVYxYjR2ZW1FTjJIQ1dvanEyRHUtdW5hYnlIcXc?oc=5",
+   "published_utc": "2026-10-14T10:09:12+00:00",
+   "title_original": "央行即将开展7000亿元买断式逆回购",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2d34b905ff2d2f7d"
   },
   {
    "source_id": "toyo_keizai",
@@ -584,6 +654,24 @@
    "live_wire": true,
    "manual": false,
    "id": "bec70bedbc87cea9"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: On October 15, it will launch a 700 billion yuan six-month buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ROFA5TDZkTjBNQzB5c0NfQnE3R1RrMGg2Ti1SZlJ0VWlWSUQzczNEMS1Ja1I0Sl85Wms0Sk1kOGJIMDRTZU5aQWQ2Z3duLUF6UEY0Rkh0Z1ZiU0h2T01IRA?oc=5",
+   "published_utc": "2026-10-14T09:40:00+00:00",
+   "title_original": "央行：10月15日将开展7000亿元6个月期限买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5e57a40bc5f069d7"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -912,6 +1000,24 @@
    "live_wire": false,
    "manual": false,
    "id": "07815af77319708c"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "글로벌경제신문",
+   "title_en": "The Bank of Korea's Monetary Policy Committee is about a week away... Will there be a pause in interest rate hikes this month?",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wRFNqQTNHV0dWYlI1OHVGTkp0VWFiR2VtTWc4c1ZsZ1lBMWtfdTMyRTFnS2Zha2VUNlhVeU43VHB0emt0N0RIUXVDeW0xVDN0Rm45aWRPQzZ6Q2VkdjZqTDE3UDZzLUYzaDVjU9IBcEFVX3lxTE9KM1lwc21lOFllWmdLSUFPclU1NGNGZUdKaFVBRFdRcHltdDZTZGFqbWJKX3JfdThTOHgzdkE3OVBqdmxFT2dMZTI4Yk5ySWNzVWdqVXZScU81WUVXUkZFNXAyeDExNHJSTG5kS0tiaDA?oc=5",
+   "published_utc": "2026-10-14T08:08:16+00:00",
+   "title_original": "일주일여 앞으로 다가온 한은 금통위…이달 금리인상 쉬어가나",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c1bf96b4f7943066"
   },
   {
    "source_id": "tradingview_live",
@@ -1432,23 +1538,6 @@
    "id": "c8f12e3574c7bddd"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan Bank Lending Remains Robust Despite BOJ Rate Hikes — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261014000392:0-japan-bank-lending-remains-robust-despite-boj-rate-hikes-market-talk/",
-   "published_utc": "2026-10-14T05:15:00+00:00",
-   "title_original": "Japan Bank Lending Remains Robust Despite BOJ Rate Hikes — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e63ec30e2b6613ea"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag",
@@ -1481,23 +1570,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ccae6282d871af98"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's crude stocks slump despite slight rise in September import rate",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46008R:0-china-s-crude-stocks-slump-despite-slight-rise-in-september-import-rate/",
-   "published_utc": "2026-10-14T05:00:31+00:00",
-   "title_original": "China's crude stocks slump despite slight rise in September import rate",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6ac6e094b72dadda"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -41883,7 +41955,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "China's State Council appoints, removes officials",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41TzR0djZ2SlhwdVRwU1ROQzUyWXZ0XzRJOFBRM1ZkYVRtTjVGYlRIQXpoaEVGSk1PRUFBU1BPVUVGQ0RNWGptY2RkcFYtZldvWHdka2p3czhMa0NxTWI5ZDUzZ2JLbERuN3pXNWFvR0F2dmJLQTJZWmYtdmU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTmlyOHpLQ0syMGZkV2FEeVp1b0JfOGhQbVR1TURQeFd5Q1ZDejRQNHkzcy1lWkhBb2hoZ1BJd2R0alI3MXpkVWtjTEhhTXloRTZYRV9MVDJVOXlXUWJmOXl4NC0xOXRFLXFkelRWYlZnMUVkNkM0b0x3OXY?oc=5",
    "published_utc": "2026-09-20T07:00:00+00:00",
    "title_original": "China's State Council appoints, removes officials",
    "region": "china",
@@ -41894,7 +41966,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "a9e1d371dc495058"
+   "id": "ef76b618f8a00d28"
   },
   {
    "source_id": "investing_econ",
@@ -45204,7 +45276,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
    "title_original": "Chinese premier chairs State Council executive meeting",
    "region": "china",
@@ -45215,7 +45287,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9e62f309accc3d17"
+   "id": "ac5c93c1746a6f36"
   },
   {
    "source_id": "gn_tw_focus",
@@ -51853,76 +51925,6 @@
    "live_wire": true,
    "manual": false,
    "id": "2be6026e9e6118ad"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan Eyes Defense Spending Worth 3.5% of GDP After US Pressure",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREVJY0hhNXQtdG1OZDZIY3lCUTFUNE9ldWFoa2JUdkJsUUhKOUFqR0REQ0dRY3Z4dkZYdVhBaVJQVUJDTm1nbGVzcEJVaURESXotOWZSLWE0QVhubG5WMzZlQnFqOUd6ZWp6OUdiQ1NBbjR1LVA4Ym1xeUFmeWQ0c0tzWWN5bHlaZW1uWjE2ZnBSaW95ZlRsNUNUTEhmUnNhaHd1OEdiYVB2ODlxeFViM0ZB?oc=5",
-   "published_utc": "2026-09-15T09:31:21+00:00",
-   "title_original": "Japan Eyes Defense Spending Worth 3.5% of GDP After US Pressure",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7031e28cadf7bb2"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Japan Eyes Defense Spending at 3.5% of GDP After US Pressure",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREVJY0hhNXQtdG1OZDZIY3lCUTFUNE9ldWFoa2JUdkJsUUhKOUFqR0REQ0dRY3Z4dkZYdVhBaVJQVUJDTm1nbGVzcEJVaURESXotOWZSLWE0QVhubG5WMzZlQnFqOUd6ZWp6OUdiQ1NBbjR1LVA4Ym1xeUFmeWQ0c0tzWWN5bHlaZW1uWjE2ZnBSaW95ZlRsNUNUTEhmUnNhaHd1OEdiYVB2ODlxeFViM0ZB?oc=5",
-   "published_utc": "2026-09-15T09:31:21+00:00",
-   "title_original": "Japan Eyes Defense Spending at 3.5% of GDP After US Pressure",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b436bee8fe338744"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Dollar charges to over one-week peak as Fed hike bets hit 92% while euro, yen sag",
-   "url": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
-   "published_utc": "2026-09-15T09:19:19+00:00",
-   "title_original": "Dollar charges to over one-week peak as Fed hike bets hit 92% while euro, yen sag",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6ea8ba874748bc6e"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Japan Cabinet approves food tax cut policy",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuS1NUOGxVSWlFQnZsYkN3MmhpWnBxSjlNLW1uakUxc0owZ0c3WFo4WURoenpYU3o0cm9jQWs1aUg0WjhKb3dZa0E2NDdGTFU0aUpZc2JyejhnaDV0MkN0Y3dVcw?oc=5",
-   "published_utc": "2026-09-15T09:04:52+00:00",
-   "title_original": "Japan Cabinet approves food tax cut policy",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3cedec68656fff9f"
   },
   {
    "source_id": "manual_ia",

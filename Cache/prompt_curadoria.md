@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T11:02:42.490202+00:00
+Última coleta: 2026-10-14T11:12:45.858308+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1136
-  🇨🇳 China          845
+  🇯🇵 Japão          1131
+  🇨🇳 China          849
   🇹🇼 Taiwan         290
-  🇰🇷 Coreia do Sul  729
+  🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [china] China buys 8-10 cargoes of US soybeans after Trump-Xi summit: sources
+  - [china] China's soybean imports fall 7.7% in September compared to the previous year
   - [china] The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK
   - [japan] The Bank of Japan's interest rate hike is ``0.5%,'' but the online bank is raising it ``0.6%!'' My husband get
+  - [china] Central Bank, latest release! In the first three quarters, the increase in social financing exceeded 27 trilli
   - [china] Commentary: Why Consumption Stimulus Won’t Close China’s Demand Gap
   - [china] IMF calls for deficit reduction in the US and for China to reduce dependence on exports
   - [china] China resumes U.S. soybean buying with 8-10 cargoes after Trump-Xi summit - report
+  - [china] The central bank is about to launch a 700 billion yuan buyout reverse repo
   - [japan] [Win against inflation! Fun shareholder benefits] My head is full of benefits! Investor Akiyo Fujii / Benefits
   - [japan] Budget EVs attract attention at Paris Motor Show | NHK WORLD-JAPAN News
   - [japan] Budget EVs attract attention at Paris Motor Show
@@ -31,6 +35,7 @@ Total: 3000 manchetes
   - [china] Wuhan Tianyuan Group To Invest Around 500 Million Yuan In Project
   - [china] China September new bank loans jump more than expected on stimulus, seasonal boost
   - [china] FSPG Hi-Tech Sees 9-Month Net Profit 1.2-1.4 Billion Yuan
+  - [china] Central Bank: On October 15, it will launch a 700 billion yuan six-month buyout reverse repurchase operation
   - [china] Central Bank: The increase in social financing in the first three quarters was 27.46 trillion yuan, and the M2
   - [china] Asian stocks slip as China shares fall, oil risks and U.S. CPI weigh
   - [china] IMF calls for US to cut deficits amid bond woes, China to shift away from exports
@@ -50,13 +55,8 @@ Total: 3000 manchetes
   - [korea] Kospi rebound fizzles as foreign selling hits chips again
   - [china] Surging China Exports Push Trade Surplus Toward Fresh Record
   - [korea] BOK chief stresses need to curb inflation amid AI boom, Mideast crisis
+  - [korea] The Bank of Korea's Monetary Policy Committee is about a week away... Will there be a pause in interest rate h
   - [china] EU-China deal on hybrid cars not addressing rising imports of car parts from China, FIEV says
-  - [china] China’s EV makers face ‘do-or-die moment’ as EU places export quota
-  - [japan] Japanese Government Bonds Held by the Bank of Japan
-  - [china] Gemdale's September Contract Sales Down 30.5% Y/Y To 1.6 Billion Yuan
-  - [korea] Samsung, SK Hynix Face Pressure to Boost Shareholder Returns — Market Talk
-  - [korea] Citi and Morgan Stanley "Bank of Korea base interest rate... expected to freeze in October and increase in Nov
-  - [china] BofA Says China’s Economic Data May Open Door to More Stimulus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T11:02:42+00:00",
+      "published_utc": "2026-10-14T11:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
