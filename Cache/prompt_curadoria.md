@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T22:52:42.426799+00:00
+Última coleta: 2026-10-14T23:02:42.565186+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1132
-  🇨🇳 China          849
-  🇹🇼 Taiwan         290
+  🇨🇳 China          848
+  🇹🇼 Taiwan         291
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Set to Post Sixth Consecutive Quarter of Record Profit Thanks to AI Boom
+  - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
+  - [china] The Times said the central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [japan] US-listed semiconductor stocks continue to fall
   - [japan] U.S. semiconductor company plans to build new factory for up to 3 trillion yen based on Japan-U.S. agreement
   - [japan] G20 Finance Ministers and Central Bank Governors Meeting to begin on the 15th
@@ -37,7 +40,6 @@ Total: 3000 manchetes
   - [china] Micron Takes Another Hit as China Chip Fears Flare
   - [korea] ASML's Next Big Chipmaking Cycle Has a Timeline—Intel, Samsung and TSMC Set It
   - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
-  - [china] Germany to Push EU to Impose Caps on More Chinese Imports
   - [japan] Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries By Reuters
   - [china] Commentary: Why Gradual Yuan Appreciation Remains the Baseline
   - [japan] US consumer prices rise 3.7% in September; expectations for early interest rate hike rise somewhat
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com
   - [china] French cosmetics facing delays clearing China customs, says industry association
   - [taiwan] Belize PM vows stronger support for Taiwan after China sanctions
-  - [japan] Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries
-  - [japan] GlobalFoundries selected to operate two new semiconductor fabs in New York under landmark U.S.-Japan initiativ
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T22:52:42+00:00",
+      "published_utc": "2026-10-14T23:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T22:52:42.426799+00:00",
- "collected_at_utc": "2026-10-14T22:52:42.426799+00:00",
+ "generated_at_utc": "2026-10-14T23:02:42.565186+00:00",
+ "collected_at_utc": "2026-10-14T23:02:42.565186+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1132,
-  "china": 849,
-  "taiwan": 290,
+  "china": 848,
+  "taiwan": 291,
   "korea": 729
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T08:00:00+00:00"
+   "newest": "2026-10-14T05:36:41+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T06:43:48+09:00"
+   "newest": "2026-10-15T08:01:04+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T18:49:02+00:00"
+   "newest": "2026-10-14T22:45:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T22:52:00+00:00"
+   "newest": "2026-10-14T23:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T22:19:40+00:00"
+   "newest": "2026-10-14T23:00:48+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T11:01:09+00:00"
+   "newest": "2026-10-14T08:10:33+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC Set to Post Sixth Consecutive Quarter of Record Profit Thanks to AI Boom",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46017N:0/",
+   "published_utc": "2026-10-14T23:01:02+00:00",
+   "title_original": "TSMC deve registrar o sexto trimestre consecutivo de lucro recorde, graças ao boom da IA",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "deb9f8dd65662670"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45Y1DX:0-tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom/",
+   "published_utc": "2026-10-14T23:00:00+00:00",
+   "title_original": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bf29455bcf5df8ea"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券时报网",
+   "title_en": "The Times said the central bank will launch a 700 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MUZ2OWlCbnY3MHpDN0FlTE1sLVpaNkNHSWNOMTkzOVFPX3FmelROTXdxSE84cFJCVGU2end0ZGx5ajBGaW16TV96cHNXQ08zLWtndG5SVGxuTTI3?oc=5",
+   "published_utc": "2026-10-14T22:45:00+00:00",
+   "title_original": "时报数说 央行将开展7000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "43ceb3c0748f8da5"
+  },
   {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
@@ -690,23 +742,6 @@
    "live_wire": false,
    "manual": false,
    "id": "df6c0e0f5fd063d0"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Germany to Push EU to Impose Caps on More Chinese Imports",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbldSTHZveDM2RmhTeFpsOTFGS0ltR1F6RnpnN0FqY3dNYnIwTk93UEg1ODBwb0w1UG12aDNpUWJLa3RYeWpGYVBvaERWSzR0RXNCY3JqNWZfby14U0VlQUFoWWpLQWpFRjRSR1R2bmNrTDlIczZHaGNuaWhHZFFpUGxlV0l1c2FFMUlBZVY1TzFEZERtOUpUZ0FyU1B0aWVBdlE1S2FsbXRrMHZwbEMtS3VzaE0?oc=5",
-   "published_utc": "2026-10-14T16:05:58+00:00",
-   "title_original": "Germany to Push EU to Impose Caps on More Chinese Imports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1409400369849a5d"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1626,23 +1661,6 @@
    "id": "0723d71a6e2d00e9"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China September new bank loans jump to 1.08 trillion yuan, above forecast",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44A03G:0-china-september-new-bank-loans-jump-to-1-08-trillion-yuan-above-forecast/",
-   "published_utc": "2026-10-14T09:02:17+00:00",
-   "title_original": "China September new bank loans jump to 1.08 trillion yuan, above forecast",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8b8bac806cf3663f"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "S. Korean finance minister departs for Bangkok to attend IMF, G20 ministerial meetings",
@@ -1658,23 +1676,6 @@
    "live_wire": false,
    "manual": false,
    "id": "073e50e99c7e7154"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Inner Mongolia BaoTou Steel Union Fined 2 Million Yuan Over Container Explosion Accident",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4600PK:0-inner-mongolia-baotou-steel-union-fined-2-million-yuan-over-container-explosion-accident/",
-   "published_utc": "2026-10-14T08:53:13+00:00",
-   "title_original": "Inner Mongolia BaoTou Steel Union Fined 2 Million Yuan Over Container Explosion Accident",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b903950b7002be29"
   },
   {
    "source_id": "nikkei_asia",
@@ -1952,6 +1953,23 @@
    "live_wire": false,
    "manual": false,
    "id": "127138b2142c9182"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Germany to Push EU to Impose Caps on More Chinese Imports",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbldSTHZveDM2RmhTeFpsOTFGS0ltR1F6RnpnN0FqY3dNYnIwTk93UEg1ODBwb0w1UG12aDNpUWJLa3RYeWpGYVBvaERWSzR0RXNCY3JqNWZfby14U0VlQUFoWWpLQWpFRjRSR1R2bmNrTDlIczZHaGNuaWhHZFFpUGxlV0l1c2FFMUlBZVY1TzFEZERtOUpUZ0FyU1B0aWVBdlE1S2FsbXRrMHZwbEMtS3VzaE0?oc=5",
+   "published_utc": "2026-10-14T07:39:50+00:00",
+   "title_original": "Germany to Push EU to Impose Caps on More Chinese Imports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1409400369849a5d"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -7896,23 +7914,6 @@
    "id": "77fb5ef12e27335a"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
-   "url": "https://www.investing.com/news/stock-market-news/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom-4943004",
-   "published_utc": "2026-10-12T02:12:23+00:00",
-   "title_original": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "91eb6bb9b91f5ea7"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
    "title_en": "The central bank launched a 50 billion yuan 7-day reverse repurchase operation today",
@@ -9072,8 +9073,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -9086,7 +9087,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -10035,8 +10036,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -10050,7 +10051,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -10241,8 +10242,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -10256,7 +10257,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "gn_cn_caixin",
