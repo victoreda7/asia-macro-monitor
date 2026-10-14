@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T02:02:44.436172+00:00
+Última coleta: 2026-10-14T02:12:45.249115+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1135
-  🇨🇳 China          841
-  🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  727
+  🇯🇵 Japão          1134
+  🇨🇳 China          844
+  🇹🇼 Taiwan         296
+  🇰🇷 Coreia do Sul  726
 
 ## O que já está no feed (não repita)
 
+  - [china] Announcement from the Central Bank: Launching a 56 billion yuan 7-day reverse repurchase operation. On October
+  - [china] Tencent to Raise Around $5.7 Billion From Dollar, Yuan Bonds
+  - [china] China Sep Exports +29.6% on Year in Yuan Terms
+  - [china] China Sep Imports +24.6% on Year in Yuan Terms
+  - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged
   - [china] China producer inflation beats forecasts as commodity costs rise, CPI lags
   - [china] CHINA SEP NON-FOOD PRICES +1.5% Y/Y VS +1.2% Y/Y AUG
   - [china] CHINA SEP FOOD PRICES -1.7% Y/Y VS -1.4% Y/Y AUG
@@ -24,8 +29,10 @@ Total: 3000 manchetes
   - [china] CHINA SEP CPI +0.2% M/M VS +0.4% M/M AUG
   - [china] China's Consumer, Producer Prices Accelerated in September
   - [china] China’s factory-gate inflation accelerates in September
+  - [china] China Food Prices Fall for 6th Month
   - [china] China CPI inflation grows less than expected in Sept; PPI hits 4-yr high
   - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO WEDS
+  - [china] China's consumer prices rose 0.9% in September (Kyodo News)
   - [china] China Producer Inflation Highest Since 2022
   - [china] China Inflation Rate Slightly Below Estimates
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7249 WEDS VS 6.7298
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [china] China Inflation, Trade Data Due On Wednesday
   - [taiwan] TSMC Stocks Slip as Thursday's Earnings Put AI Margins Under Scrutiny
   - [japan] I gave up on curry, the salmon roe bowl was in the red, and I finally opened 30 stores nationwide with "Pork C
-  - [japan] 77% feel anxious about leaking personal information NHK poll
-  - [china] Micron Stock Is Falling. Elon Musk's Comments on Chinese Chips Aren't Helping. — Barrons.com
-  - [china] China’s Growth Seen Edging Up to 4.4% as Exports Offset Weak Demand
-  - [china] China’s Magnet Export Crackdown Is Putting Companies Like Evolution Metals in the Spotlight (NASDAQ: EMAT)
-  - [korea] Chip Stocks Slide as South Korea's KOSPI Plunges, J&J Sinks 6%: Stock Market Today
-  - [korea] Foreign selloff sends Kospi down 5.5% as chip giants tumble
-  - [korea] 'Brutal session' for chip stocks shows AI trade is turning
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T02:02:44+00:00",
+      "published_utc": "2026-10-14T02:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
