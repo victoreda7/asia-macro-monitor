@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T00:32:41.923967+00:00
+Última coleta: 2026-10-14T00:42:41.774555+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
@@ -30,6 +30,7 @@ Total: 3000 manchetes
   - [china] China’s Growth Seen Edging Up to 4.4% as Exports Offset Weak Demand
   - [china] China’s Magnet Export Crackdown Is Putting Companies Like Evolution Metals in the Spotlight (NASDAQ: EMAT)
   - [korea] Chip Stocks Slide as South Korea's KOSPI Plunges, J&J Sinks 6%: Stock Market Today
+  - [korea] Foreign selloff sends Kospi down 5.5% as chip giants tumble
   - [korea] 'Brutal session' for chip stocks shows AI trade is turning
   - [korea] Seoul shares dip over 5% on tech sell-off on renewed AI, inflation woes
   - [japan] Japan looks for off-ramp from Trump's ICC feud before US sanctions kick in
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Hong Ra-hee to Gift 11.15 Million Samsung Electronics Shares to Lee Jae-yong
   - [china] E-House (China) Enterprise Says Grand Court Of Cayman Islands Sanctions Cayman Scheme
   - [china] ‘Easy money is past’: why investors are rethinking the AI memory-chip trade
-  - [korea] Korean Won, New Taiwan Dollar Underperform Amid Chip-Stock Selloff — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T00:32:42+00:00",
+      "published_utc": "2026-10-14T00:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
