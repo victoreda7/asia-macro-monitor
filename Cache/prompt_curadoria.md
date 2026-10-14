@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T15:42:47.717647+00:00
+Última coleta: 2026-10-14T15:52:43.677419+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1134
-  🇨🇳 China          845
-  🇹🇼 Taiwan         294
+  🇯🇵 Japão          1133
+  🇨🇳 China          847
+  🇹🇼 Taiwan         293
   🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
+  - [china] Commentary: Why Gradual Yuan Appreciation Remains the Baseline
   - [japan] US consumer prices rise 3.7% in September; expectations for early interest rate hike rise somewhat
   - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
   - [china] IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports
+  - [china] On October 15, 2026, the central bank increased the amount of 6-month buyout reverse repurchase with an additi
   - [china] Central Bank, latest release! The increase in social financing in the first three quarters exceeded 27 trillio
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21 Billion Backing Under U.S.-Japan Deal — Update
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update
@@ -41,10 +43,12 @@ Total: 3000 manchetes
   - [china] India’s Russian crude imports fall 29% from July peak as China boosts buying
   - [taiwan] Lai calls for progress on unsigned Taiwan-Canada trade framework
   - [china] China buys 8-10 cargoes of US soybeans after Trump-Xi summit: sources
+  - [korea] BOK chief meets Chinese, Japanese counterparts in Bangkok for economic talks
   - [china] China's soybean imports fall 7.7% in September compared to the previous year
   - [china] The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK
   - [japan] The Bank of Japan's interest rate hike is ``0.5%,'' but the online bank is raising it ``0.6%!'' My husband get
   - [china] Central Bank, latest release! In the first three quarters, the increase in social financing exceeded 27 trilli
+  - [china] EU to Lift Sanction on Chinese Firm to Save an ASML Supplier
   - [china] Commentary: Why Consumption Stimulus Won’t Close China’s Demand Gap
   - [china] IMF calls for deficit reduction in the US and for China to reduce dependence on exports
   - [china] China resumes U.S. soybean buying with 8-10 cargoes after Trump-Xi summit - report
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Budget EVs attract attention at Paris Motor Show | NHK WORLD-JAPAN News
   - [japan] Budget EVs attract attention at Paris Motor Show
   - [china] Chinese New Yuan Loans Slow as Expected
-  - [china] China's New Yuan Loans Surged in September
-  - [china] Metallurgical Corporation Of China Says January-September New Contracts Totalled 519.2 Billion Yuan
-  - [china] Wuhan Tianyuan Group To Invest Around 500 Million Yuan In Project
-  - [china] China September new bank loans jump more than expected on stimulus, seasonal boost
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T15:42:47+00:00",
+      "published_utc": "2026-10-14T15:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
