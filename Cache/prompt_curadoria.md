@@ -7,16 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T01:22:46.145355+00:00
+Última coleta: 2026-10-14T01:32:42.675633+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1136
-  🇨🇳 China          834
+  🇯🇵 Japão          1135
+  🇨🇳 China          837
   🇹🇼 Taiwan         299
-  🇰🇷 Coreia do Sul  731
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [china] China Sep Non-Food Prices +1.5% on Year
+  - [china] China Sep Food Prices -1.7% On Year
+  - [china] China Jan-Sep CPI +0.9% on Year
+  - [china] China Sep CPI +0.2% on Month
+  - [china] China Sep CPI +0.9% on Year; Market Expected +1.0%
+  - [korea] Rep. Yoon Hu-deok, Bank of Korea's National Audit Office intensively inspects the effects of interest rate hik
   - [korea] SK Hynix bounces in downtrend after support breach: Live levels
   - [japan] Bank of Japan Accounts (October 10)
   - [japan] Nikkei Rises 0.3% on Possible Position Adjustments Before U.S. CPI Data — Market Talk
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [china] Long before his Nobel win, Michael Woodford was influencing China’s central bank
   - [taiwan] Qnity Bets On Local Production To Win More AI Chip Business From Nvidia, TSMC – CEO Touts ‘Local-For-Local’ St
   - [korea] Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility
-  - [korea] IMF raises S. Korea's growth forecast to 3.3% amid chip supercycle
-  - [korea] Bank of Korea chief says monetary policy to stay restrictive for now
-  - [taiwan] Taiwan Semiconductor Manufacturing Company Limited expected to post earnings of $4.50 a share - Earnings Previ
-  - [china] As import curbs loom, Chinese carmakers hard to miss at Paris Motor Show
-  - [japan] Asia report: Nikkei, KOSPI post big losses as chipmakers drop
-  - [korea] Hong Ra-hee to Gift 11.15 Million Samsung Electronics Shares to Lee Jae-yong
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T01:22:46+00:00",
+      "published_utc": "2026-10-14T01:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
