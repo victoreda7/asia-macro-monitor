@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T19:02:43.390524+00:00
+Última coleta: 2026-10-14T19:12:44.068946+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1133
-  🇨🇳 China          848
-  🇹🇼 Taiwan         289
+  🇨🇳 China          847
+  🇹🇼 Taiwan         290
   🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC options chain shows big call wall at $500 strike ahead of earnings
   - [china] Times data said | The central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [japan] GlobalFoundries options surge on $21B U.S.-Japan chip deal
   - [china] China’s Sept. Exports Surge 36.3% Amid AI Boom, Auto Export Rush
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Lai calls for progress on unsigned Taiwan-Canada trade framework
   - [china] China buys 8-10 cargoes of US soybeans after Trump-Xi summit: sources
   - [korea] BOK chief meets Chinese, Japanese counterparts in Bangkok for economic talks
-  - [china] China's soybean imports fall 7.7% in September compared to the previous year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T19:02:43+00:00",
+      "published_utc": "2026-10-14T19:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
