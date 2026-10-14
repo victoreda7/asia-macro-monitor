@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T06:32:43.993578+00:00
+Última coleta: 2026-10-14T06:42:44.479340+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1134
+  🇯🇵 Japão          1135
   🇨🇳 China          844
-  🇹🇼 Taiwan         294
+  🇹🇼 Taiwan         293
   🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [japan] Daito Pharmaceutical Co Ltd - To Buy Back Up To 4.4% Of Own Shares Worth 2 Billion Yen
+  - [korea] Shin Hyun-song, “AI boom and Middle East war both put pressure on prices”... Signs that the interest rate hike
   - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
   - [japan] BOJ Could Shorten Rate-Hike Evaluation to Prevent Inflation Overshoot — Market Talk
   - [japan] BOJ May Need to Accelerate Hikes to Reach Neutral Rate — Market Talk
@@ -33,6 +35,7 @@ Total: 3000 manchetes
   - [japan] Five-Year JGB Yield Pares Gains After Five-Year Auction Draws Solid Demand — Market Talk
   - [china] China's September trade surplus widens to $133.53B; exports up 36.3%, imports up 31.0%
   - [china] Chinese Exports Accelerated in September — Update
+  - [china] China’s exports surge more than 36% in September amid tech demand, holiday rush
   - [china] Imported Inflation to Continue Shaping China's Headline Inflation — Market Talk
   - [china] China Inflation At 0.9%; PPI Inflation Highest Since 2022
   - [china] China's consumer prices rose 0.9% in September, a slight increase from the previous month, affected by persist
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China's export engine steams ahead with September shipments up 36%
   - [korea] Gold prices hold firm ahead of US inflation data
   - [china] China September rare earth exports rise 6.7% from a year earlier
-  - [china] China hold 2027 fertiliser import tariff quota unchanged at 13.65 million tons
-  - [china] China's wholesale prices rise 5%, the highest level in 4 years and 3 months due to high crude oil prices, Sept
-  - [china] China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T06:32:44+00:00",
+      "published_utc": "2026-10-14T06:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
