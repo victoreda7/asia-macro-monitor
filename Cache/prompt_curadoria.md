@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T08:12:45.350893+00:00
+Última coleta: 2026-10-14T08:22:42.464918+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
-  🇨🇳 China          832
+  🇨🇳 China          831
   🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  738
+  🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK chief stresses need to curb inflation amid AI boom, Mideast crisis
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [china] Gemdale's September Contract Sales Down 30.5% Y/Y To 1.6 Billion Yuan
   - [korea] Samsung, SK Hynix Face Pressure to Boost Shareholder Returns — Market Talk
@@ -35,8 +36,8 @@ Total: 3000 manchetes
   - [china] China's Huajin Aramco project receives first Arabian crude shipment
   - [korea] South Korean shares end lower on caution ahead of US inflation data
   - [korea] Real estate project financing (PF) guarantees supported by the government to revitalize the private
-  - [japan] Daito Pharmaceutical Co Ltd - To Buy Back Up To 4.4% Of Own Shares Worth 2 Billion Yen
   - [korea] Shin Hyun-song, “AI boom and Middle East war both put pressure on prices”... Signs that the interest rate hike
+  - [japan] Daito Pharmaceutical Co Ltd - To Buy Back Up To 4.4% Of Own Shares Worth 2 Billion Yen
   - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
   - [japan] BOJ Could Shorten Rate-Hike Evaluation to Prevent Inflation Overshoot — Market Talk
   - [china] China’s Trade Surplus Nears $940 Billion as Export Growth Surges
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese Exports Accelerated in September — Update
   - [china] China’s exports surge more than 36% in September amid tech demand, holiday rush
   - [china] Imported Inflation to Continue Shaping China's Headline Inflation — Market Talk
-  - [china] China Inflation At 0.9%; PPI Inflation Highest Since 2022
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T08:12:45+00:00",
+      "published_utc": "2026-10-14T08:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
