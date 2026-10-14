@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T21:42:42.576477+00:00
+Última coleta: 2026-10-14T21:52:42.613315+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1132
-  🇨🇳 China          849
+  🇯🇵 Japão          1133
+  🇨🇳 China          848
   🇹🇼 Taiwan         290
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [japan] G20 Finance Ministers and Central Bank Governors Meeting to begin on the 15th
   - [japan] Fed economic report “Price growth pace is accelerating in some areas” Focus on timing for additional interest 
   - [japan] <Competitors are withdrawing or making losses> A new frontier for Uber Eats, which has been in the black for t
   - [japan] <Future of deficit lines> JR Hokkaido's "Yellow Line Area" fundamental improvement plan is in chaos, financial
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Musk's Terafab plan poses no short-term threat to TSMC: Analyst
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [china] China Inflation Rises Marginally; PPI Inflation Strongest Since 2022
-  - [japan] Yomiuri: Japan Publishes English-Language Booklet on PM Takaichi's Economic Policies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T21:42:42+00:00",
+      "published_utc": "2026-10-14T21:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
