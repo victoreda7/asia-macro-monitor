@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T17:22:44.524756+00:00
+Última coleta: 2026-10-14T17:32:49.065002+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1133
-  🇨🇳 China          847
+  🇨🇳 China          846
   🇹🇼 Taiwan         292
-  🇰🇷 Coreia do Sul  728
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC Earnings Will Surge but Terafab and Texas Talks Are in Focus — Barrons.com
   - [taiwan] Thursday preview: TSMC results, UK GDP in focus
   - [china] Micron Takes Another Hit as China Chip Fears Flare
+  - [korea] ASML's Next Big Chipmaking Cycle Has a Timeline—Intel, Samsung and TSMC Set It
   - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
   - [china] Commentary: Why Gradual Yuan Appreciation Remains the Baseline
   - [japan] US consumer prices rise 3.7% in September; expectations for early interest rate hike rise somewhat
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank, latest release! In the first three quarters, the increase in social financing exceeded 27 trilli
   - [china] EU to Lift Sanction on Chinese Firm to Save an ASML Supplier
   - [china] Commentary: Why Consumption Stimulus Won’t Close China’s Demand Gap
-  - [china] IMF calls for deficit reduction in the US and for China to reduce dependence on exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T17:22:44+00:00",
+      "published_utc": "2026-10-14T17:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
