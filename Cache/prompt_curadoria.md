@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T20:42:45.511940+00:00
+Última coleta: 2026-10-14T20:52:43.720044+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1133
-  🇨🇳 China          848
+  🇯🇵 Japão          1132
+  🇨🇳 China          849
   🇹🇼 Taiwan         290
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [japan] <Future of deficit lines> JR Hokkaido's "Yellow Line Area" fundamental improvement plan is in chaos, financial
   - [japan] "Eel pie" is doing well, but the division is in the red for 400 million yen...The "amazing comeback" of Hamama
   - [taiwan] TSMC options chain shows big call wall at $500 strike ahead of earnings
   - [japan] Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York
@@ -41,6 +42,7 @@ Total: 3000 manchetes
   - [china] Central Bank, latest release! The increase in social financing in the first three quarters exceeded 27 trillio
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21 Billion Backing Under U.S.-Japan Deal — Update
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update
+  - [china] Zambia Says Some Copper Sales to China to Be Settled in Renminbi
   - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21 Billion in Funding From U.S.-Japan Initiative
   - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21B in Funding From U.S.-Japan Initiative
   - [japan] Possibility of Bank of Japan interest rate hike exceeding 2%
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Yomiuri: Japan Publishes English-Language Booklet on PM Takaichi's Economic Policies
   - [japan] Euro/yen shorts on Japan investors' OAT sales overdone, say UBS
   - [china] MAC accuses Beijing of election interference over Puma Shen family firm sanctions
-  - [taiwan] What analysts are watching with key semiconductor maker TSMC set to report results
-  - [china] India’s Russian crude imports fall 29% from July peak as China boosts buying
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T20:42:45+00:00",
+      "published_utc": "2026-10-14T20:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
