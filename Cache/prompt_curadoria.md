@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T11:35:36.381997+00:00
+Última coleta: 2026-10-14T11:42:47.245008+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1131
+  🇯🇵 Japão          1130
   🇨🇳 China          849
-  🇹🇼 Taiwan         290
+  🇹🇼 Taiwan         291
   🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] What analysts are watching with key semiconductor maker TSMC set to report results
   - [china] India’s Russian crude imports fall 29% from July peak as China boosts buying
+  - [china] IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports
   - [china] China buys 8-10 cargoes of US soybeans after Trump-Xi summit: sources
   - [china] China's soybean imports fall 7.7% in September compared to the previous year
   - [china] The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK
@@ -39,7 +41,6 @@ Total: 3000 manchetes
   - [china] Central Bank: On October 15, it will launch a 700 billion yuan six-month buyout reverse repurchase operation
   - [china] Central Bank: The increase in social financing in the first three quarters was 27.46 trillion yuan, and the M2
   - [china] Asian stocks slip as China shares fall, oil risks and U.S. CPI weigh
-  - [china] IMF calls for US to cut deficits amid bond woes, China to shift away from exports
   - [china] Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15
   - [china] China willing to import more high-value products, premier says
   - [china] China producer inflation rises with increase in commodities; CPI falls below forecasts
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi rebound fizzles as foreign selling hits chips again
   - [china] Surging China Exports Push Trade Surplus Toward Fresh Record
   - [korea] BOK chief stresses need to curb inflation amid AI boom, Mideast crisis
-  - [korea] The Bank of Korea's Monetary Policy Committee is about a week away... Will there be a pause in interest rate h
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T11:35:36+00:00",
+      "published_utc": "2026-10-14T11:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T11:35:36.381997+00:00",
- "collected_at_utc": "2026-10-14T11:35:36.381997+00:00",
+ "generated_at_utc": "2026-10-14T11:42:47.245008+00:00",
+ "collected_at_utc": "2026-10-14T11:42:47.245008+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1131,
+  "japan": 1130,
   "china": 849,
-  "taiwan": 290,
+  "taiwan": 291,
   "korea": 730
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T11:14:48+00:00"
+   "newest": "2026-10-14T11:36:46+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T11:12:34+00:00"
+   "newest": "2026-10-14T11:19:12+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T08:51:00+00:00"
+   "newest": "2026-10-14T11:41:01+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T11:34:17+00:00"
+   "newest": "2026-10-14T11:42:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T07:53:28+00:00"
+   "newest": "2026-10-14T08:08:16+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "MarketWatch",
+   "title_en": "What analysts are watching with key semiconductor maker TSMC set to report results",
+   "url": "https://www.tradingview.com/news/DJN_SN20261014004831:0-what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results/",
+   "published_utc": "2026-10-14T11:36:00+00:00",
+   "title_original": "What analysts are watching with key semiconductor maker TSMC set to report results",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a7c3220a311ef267"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Business Line",
@@ -359,6 +376,24 @@
    "live_wire": true,
    "manual": false,
    "id": "7638a69f42dc88b1"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports",
+   "url": "https://www.investing.com/news/economy-news/imfs-georgieva-says-us-growth-will-not-be-enough-to-shrink-debt-4947973",
+   "published_utc": "2026-10-14T11:19:12+00:00",
+   "title_original": "IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1f8c5e6717416b15"
   },
   {
    "source_id": "tradingview_live",
@@ -724,24 +759,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f35890005f3de410"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "IMF calls for US to cut deficits amid bond woes, China to shift away from exports",
-   "url": "https://www.investing.com/news/economy-news/imfs-georgieva-says-us-growth-will-not-be-enough-to-shrink-debt-4947973",
-   "published_utc": "2026-10-14T09:24:27+00:00",
-   "title_original": "IMF calls for US to cut deficits amid bond woes, China to shift away from exports",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8db3cec6655b7703"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1516,23 +1533,6 @@
    "live_wire": false,
    "manual": false,
    "id": "18f2a2dbc55bb6f0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ May Need to Accelerate Hikes to Reach Neutral Rate — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261014000728:0-boj-may-need-to-accelerate-hikes-to-reach-neutral-rate-market-talk/",
-   "published_utc": "2026-10-14T05:36:00+00:00",
-   "title_original": "BOJ May Need to Accelerate Hikes to Reach Neutral Rate — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3b18d44610464756"
   },
   {
    "source_id": "gn_kr_bok",
