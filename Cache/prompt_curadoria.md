@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T09:12:47.369177+00:00
+Última coleta: 2026-10-14T09:22:41.873490+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1133
@@ -18,12 +18,13 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [china] China producer inflation rises with increase in commodities; CPI falls below forecasts
+  - [china] IMF calls for US to cut deficits amid bond woes, China to shift away from exports
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [korea] South Korean minister rejects claim of W80b wasted on Brazilian egg imports
   - [china] China September new bank loans jump to 1.08 trillion yuan, above forecast
+  - [korea] S. Korean finance minister departs for Bangkok to attend IMF, G20 ministerial meetings
   - [china] Inner Mongolia BaoTou Steel Union Fined 2 Million Yuan Over Container Explosion Accident
   - [china] Memory breakthrough by China's CXMT puts chip rivals on back foot
-  - [china] IMF calls for US to cut deficits amid bond woes, China to shift away from exports
   - [china] Memory breakthrough by China's CXMT puts chip rivals on backfoot
   - [china] China buys 8-10 US soybean cargoes in first deals since Trump-Xi summit, sources say
   - [china] China's exports soar in September, putting a trade surplus of US$1 trillion in sight
@@ -35,6 +36,7 @@ Total: 3000 manchetes
   - [china] Gemdale's September Contract Sales Down 30.5% Y/Y To 1.6 Billion Yuan
   - [korea] Samsung, SK Hynix Face Pressure to Boost Shareholder Returns — Market Talk
   - [korea] Citi and Morgan Stanley "Bank of Korea base interest rate... expected to freeze in October and increase in Nov
+  - [china] BofA Says China’s Economic Data May Open Door to More Stimulus
   - [japan] Consumption tax reduction bill proposed by ruling party to be deliberated on 20th Opposition party to clarify 
   - [korea] Citi: “The Bank of Korea will raise interest rates in November after a hawkish freeze in October… up to 3.5% n
   - [taiwan] TSMC: $80B swing — do margins justify AI premium?
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
   - [japan] BOJ Could Shorten Rate-Hike Evaluation to Prevent Inflation Overshoot — Market Talk
   - [china] China’s Trade Surplus Nears $940 Billion as Export Growth Surges
-  - [japan] BOJ May Need to Accelerate Hikes to Reach Neutral Rate — Market Talk
-  - [korea] Bank of Korea Governor Shin Hyun-song “AI investment and bad news in the Middle East stimulate prices… Respond
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T09:12:47+00:00",
+      "published_utc": "2026-10-14T09:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
