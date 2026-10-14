@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T03:42:40.819217+00:00",
- "collected_at_utc": "2026-10-14T03:42:40.819217+00:00",
+ "generated_at_utc": "2026-10-14T03:52:43.241234+00:00",
+ "collected_at_utc": "2026-10-14T03:52:43.241234+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1132,
-  "china": 853,
+  "china": 851,
   "taiwan": 296,
-  "korea": 719
+  "korea": 721
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T02:54:24+00:00"
+   "newest": "2026-10-14T03:46:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T12:06:16+09:00"
+   "newest": "2026-10-14T12:45:52+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T00:30:07+00:00"
+   "newest": "2026-10-13T12:00:08+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T16:00:00+00:00"
+   "newest": "2026-10-14T03:16:51+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T03:42:02+00:00"
+   "newest": "2026-10-14T03:49:36+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,45 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T01:17:51+00:00"
+   "newest": "2026-10-14T03:38:48+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yuan gains as markets weigh China inflation, await US CPI",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46003O:0-yuan-gains-as-markets-weigh-china-inflation-await-us-cpi/",
+   "published_utc": "2026-10-14T03:47:21+00:00",
+   "title_original": "Yuan gains as markets weigh China inflation, await US CPI",
+   "region": "china",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5746ee3628af2866"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Bank of Korea Likely to Hold Rates Steady This Month — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261013010593:0-bank-of-korea-likely-to-hold-rates-steady-this-month-market-talk/",
+   "published_utc": "2026-10-14T03:47:00+00:00",
+   "title_original": "Bank of Korea Likely to Hold Rates Steady This Month — Market Talk",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cb31a7244ef1673f"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -359,6 +394,24 @@
    "live_wire": true,
    "manual": false,
    "id": "9aaf32bf4f7267dc"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "ISSUE ON (이슈온)",
+   "title_en": "Shin Hyun-song's first National Assembly inspection, \"Monetary policy unwavering\"... Base interest rate 3.0%, timing of further increase is being weighed",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zMDVTdTdOazFRMnZRakE1N1dpWjRVOGE5QTVMSGhVWnNYOGZCcTZiM1IwY2RXNE93NVc0WE00OVNjNElnQVFIczlrVmV6MjJoQ2t4SXYycUdDbXcxd3M1d3VpS2JoTHVKeHZz?oc=5",
+   "published_utc": "2026-10-14T03:38:48+00:00",
+   "title_original": "신현송 첫 국감 \"통화정책 흔들림 없이\"…기준금리 3.0%, 추가 인상 시기 저울질",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "497f93267de4aea9"
   },
   {
    "source_id": "tradingview_live",
@@ -393,6 +446,23 @@
    "live_wire": true,
    "manual": false,
    "id": "4ef5acdda0b05072"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Offshore Yuan Trades Near Multi-Year High",
+   "url": "https://www.tradingview.com/news/te_news:591728:0-offshore-yuan-trades-near-multi-year-high/",
+   "published_utc": "2026-10-14T03:31:38+00:00",
+   "title_original": "Offshore Yuan Trades Near Multi-Year High",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a87983c7ebd86289"
   },
   {
    "source_id": "tradingview_live",
@@ -1033,23 +1103,6 @@
    "id": "284885b47f516261"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Consumer, Producer Prices Accelerated in September",
-   "url": "https://www.tradingview.com/news/DJN_DN20261013010244:0-china-s-consumer-producer-prices-accelerated-in-september/",
-   "published_utc": "2026-10-14T01:55:00+00:00",
-   "title_original": "China's Consumer, Producer Prices Accelerated in September",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8821ac2a80ae8fbf"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "China's September price rise of 0.9%, growth rate slightly expanding (Kyodo News)",
@@ -1084,40 +1137,6 @@
    "live_wire": false,
    "manual": false,
    "id": "421d89a0e82b1eb7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "China Inflation Rebounds as Oil Tops $100 and AI Goods Get Costlier",
-   "url": "https://www.tradingview.com/news/binance_news:3f1efccd9094b:0-china-inflation-rebounds-as-oil-tops-100-and-ai-goods-get-costlier/",
-   "published_utc": "2026-10-14T01:50:45+00:00",
-   "title_original": "China Inflation Rebounds as Oil Tops $100 and AI Goods Get Costlier",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ef84fc7f64655ac3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "China Food Prices Fall for 6th Month",
-   "url": "https://www.tradingview.com/news/te_news:591672:0-china-food-prices-fall-for-6th-month/",
-   "published_utc": "2026-10-14T01:46:52+00:00",
-   "title_original": "China Food Prices Fall for 6th Month",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "17371da8ee95a3ea"
   },
   {
    "source_id": "investing_live",
@@ -51912,23 +51931,6 @@
    "live_wire": true,
    "manual": false,
    "id": "cf6c565e00383556"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Shanghai Electric (SSE:601727) H1 Revenue Up 16.6%, Orders CNY 100.39B",
-   "url": "https://www.tradingview.com/news/tradingview:33e72efb82c6f:0-shanghai-electric-sse-601727-h1-revenue-up-16-6-orders-cny-100-39b/",
-   "published_utc": "2026-09-15T00:10:00+00:00",
-   "title_original": "Shanghai Electric (SSE:601727) H1 Revenue Up 16.6%, Orders CNY 100.39B",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cc017998f014e62e"
   },
   {
    "source_id": "manual_ia",

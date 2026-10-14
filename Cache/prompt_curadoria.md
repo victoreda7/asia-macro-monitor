@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T03:42:40.819217+00:00
+Última coleta: 2026-10-14T03:52:43.241234+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1132
-  🇨🇳 China          853
+  🇨🇳 China          851
   🇹🇼 Taiwan         296
-  🇰🇷 Coreia do Sul  719
+  🇰🇷 Coreia do Sul  721
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan gains as markets weigh China inflation, await US CPI
+  - [korea] Bank of Korea Likely to Hold Rates Steady This Month — Market Talk
   - [china] China September iron ore imports rise on pre-holiday restocking
+  - [korea] Shin Hyun-song's first National Assembly inspection, "Monetary policy unwavering"... Base interest rate 3.0%, 
   - [china] China's soybean imports fall 7.7% in September from a year earlier
   - [china] China's September exports blow past forecasts, imports accelerate
+  - [china] Offshore Yuan Trades Near Multi-Year High
   - [taiwan] ASML, TSMC Report This Week: What Traders Are Watching After A 6-Day Chip Stock Slide
   - [china] China's export engine hits fastest pace since February with 36% growth
   - [china] China's September coal imports fall 6%
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China Sep Imports +24.6% on Year in Yuan Terms
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged
   - [china] China's yuan-denominated September exports rose 29.6%, imports 24.6%
-  - [china] CHINA SEP NON-FOOD PRICES +1.5% Y/Y VS +1.2% Y/Y AUG
-  - [china] CHINA SEP FOOD PRICES -1.7% Y/Y VS -1.4% Y/Y AUG
-  - [china] CHINA SEP PPI +1.2% M/M VS +0.4% M/M AUG
-  - [china] CHINA SEP CPI +0.2% M/M VS +0.4% M/M AUG
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T03:42:40+00:00",
+      "published_utc": "2026-10-14T03:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
