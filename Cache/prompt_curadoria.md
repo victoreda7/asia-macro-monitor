@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T00:12:43.922398+00:00
+Última coleta: 2026-10-14T00:22:44.633002+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1136
-  🇨🇳 China          836
+  🇯🇵 Japão          1137
+  🇨🇳 China          835
   🇹🇼 Taiwan         299
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nikkei Rises 0.3% on Possible Position Adjustments Before U.S. CPI Data — Market Talk
   - [china] Nantong Lianya To Sell 133.7 Mln Shares At 7 Yuan apiece in Shenzhen Listing
   - [korea] Key facts: Samsung Electronics (005930) 55% margin; Goldman Buy; fell
+  - [japan] September money stock M2 increased 2.0% year-on-year = Bank of Japan (Reuters)
   - [china] Tencent prices $1.8 billion, 26 billion yuan notes under MTN programme
   - [china] China Inflation, Trade Data Due On Wednesday
   - [taiwan] TSMC Stocks Slip as Thursday's Earnings Put AI Margins Under Scrutiny
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] E-House (China) Enterprise Says Grand Court Of Cayman Islands Sanctions Cayman Scheme
   - [china] ‘Easy money is past’: why investors are rethinking the AI memory-chip trade
   - [korea] Korean Won, New Taiwan Dollar Underperform Amid Chip-Stock Selloff — Market Talk
-  - [korea] UnitedHealth, JPMorgan, Six Flags, SK Hynix, and More Stocks That Explain Today's Market — Barrons.com
-  - [japan] "Cabinet approval rate" is also one of the indicators of government management
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T00:12:44+00:00",
+      "published_utc": "2026-10-14T00:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
