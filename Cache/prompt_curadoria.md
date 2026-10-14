@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T17:32:49.065002+00:00
+Última coleta: 2026-10-14T17:42:47.601847+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1133
+  🇯🇵 Japão          1134
   🇨🇳 China          846
-  🇹🇼 Taiwan         292
-  🇰🇷 Coreia do Sul  729
+  🇹🇼 Taiwan         290
+  🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean minister rejects claim of W80b wasted on Brazilian egg imports
   - [japan] PRES TRUMP POSTS: 'MASSIVE; $21 BLN INVESTMENT FINANCED BY JAPAN, SKOREA, TAIWAN TO BUILD TWO SEMICONDUCTOR FA
   - [taiwan] TSMC Earnings Will Surge but Terafab and Texas Talks Are in Focus — Barrons.com
   - [taiwan] Thursday preview: TSMC results, UK GDP in focus
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] The Bank of Japan's interest rate hike is ``0.5%,'' but the online bank is raising it ``0.6%!'' My husband get
   - [china] Central Bank, latest release! In the first three quarters, the increase in social financing exceeded 27 trilli
   - [china] EU to Lift Sanction on Chinese Firm to Save an ASML Supplier
-  - [china] Commentary: Why Consumption Stimulus Won’t Close China’s Demand Gap
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T17:32:49+00:00",
+      "published_utc": "2026-10-14T17:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
