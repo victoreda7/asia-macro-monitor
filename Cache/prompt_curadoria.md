@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T09:42:44.237729+00:00
+Última coleta: 2026-10-14T09:57:44.714887+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1133
-  🇨🇳 China          838
+  🇨🇳 China          841
   🇹🇼 Taiwan         291
-  🇰🇷 Coreia do Sul  738
+  🇰🇷 Coreia do Sul  735
 
 ## O que já está no feed (não repita)
 
-  - [china] China September new bank loans jump more than expected on stimulus, seasonal boost
   - [china] China's New Yuan Loans Surged in September
+  - [china] Metallurgical Corporation Of China Says January-September New Contracts Totalled 519.2 Billion Yuan
+  - [china] Wuhan Tianyuan Group To Invest Around 500 Million Yuan In Project
+  - [china] FSPG Hi-Tech Sees 9-Month Net Profit 1.2-1.4 Billion Yuan
+  - [china] China September new bank loans jump more than expected on stimulus, seasonal boost
+  - [china] Central Bank: The increase in social financing in the first three quarters was 27.46 trillion yuan, and the M2
   - [china] Asian stocks slip as China shares fall, oil risks and U.S. CPI weigh
   - [china] IMF calls for US to cut deficits amid bond woes, China to shift away from exports
   - [china] Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] EQT Raises Tender Offer Price For Kakaku.Com Inc By 1 Yen To 3,682 Yen Apiece, Filing Shows
   - [china] China Exports Growth Beats Expectations
   - [china] Dollar edges lower ahead of U.S. CPI; China data, Singapore GDP in focus
-  - [china] China inflation remains subdued as exports, imports beat forecasts
-  - [china] China's Huajin Aramco project receives first Arabian crude shipment
-  - [korea] South Korean shares end lower on caution ahead of US inflation data
-  - [korea] Real estate project financing (PF) guarantees supported by the government to revitalize the private
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T09:42:44+00:00",
+      "published_utc": "2026-10-14T09:57:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
