@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T06:12:44.074034+00:00
+Última coleta: 2026-10-14T06:22:44.504356+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1133
   🇨🇳 China          845
-  🇹🇼 Taiwan         296
-  🇰🇷 Coreia do Sul  726
+  🇹🇼 Taiwan         294
+  🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
   - [japan] BOJ Could Shorten Rate-Hike Evaluation to Prevent Inflation Overshoot — Market Talk
   - [japan] BOJ May Need to Accelerate Hikes to Reach Neutral Rate — Market Talk
   - [korea] Bank of Korea Governor Shin Hyun-song “AI investment and bad news in the Middle East stimulate prices… Respond
@@ -26,6 +27,7 @@ Total: 3000 manchetes
   - [korea] SK hynix looks beyond HBM to tackle AI memory bottlenecks
   - [china] China's crude stocks slump despite slight rise in September import rate
   - [japan] How far will the Bank of Japan's interest rate hike be likely to exceed 2%? #Expert Topi (Koichi Fujishiro) - 
+  - [korea] Governor of the Bank of Korea: “Korea’s economy is clearly shaped like a K… inflation must be lowered through 
   - [korea] South Korean Won Rises Near 2-Year High
   - [china] China's September CPI rises 0.9% Y/Y, PPI accelerates to 5.0% above expectations
   - [japan] Five-Year JGB Yield Pares Gains After Five-Year Auction Draws Solid Demand — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China hold 2027 fertiliser import tariff quota unchanged at 13.65 million tons
   - [china] China's wholesale prices rise 5%, the highest level in 4 years and 3 months due to high crude oil prices, Sept
   - [china] China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts
-  - [china] China Imports Hit Record High
-  - [china] Chinese Exports Accelerate in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T06:12:44+00:00",
+      "published_utc": "2026-10-14T06:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
