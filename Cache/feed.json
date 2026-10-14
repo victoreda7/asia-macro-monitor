@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-14T23:42:41.893572+00:00",
- "collected_at_utc": "2026-10-14T23:42:41.893572+00:00",
+ "generated_at_utc": "2026-10-14T23:52:42.718233+00:00",
+ "collected_at_utc": "2026-10-14T23:52:42.718233+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T23:19:05+00:00"
+   "newest": "2026-10-14T23:36:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T21:55:21+00:00"
+   "newest": "2026-10-14T23:36:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T22:45:00+00:00"
+   "newest": "2026-10-14T23:17:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T16:10:45+00:00"
+   "newest": "2026-10-14T22:14:49+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T23:39:00+00:00"
+   "newest": "2026-10-14T23:50:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,21 +344,22 @@
  ],
  "items": [
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
-   "url": "https://www.investing.com/news/stock-market-news/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom-4950243",
-   "published_utc": "2026-10-14T23:06:22+00:00",
-   "title_original": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
-   "region": "taiwan",
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTkxsc0wwY1gxb2tuY1pZUmFTU2N2X1BqWGZnLXJUeTRZYjJaMmZNeFpGUDV0cGt1UHQ3Q0ctanRJcDk0emEzRnQ4YzV6RG9SZFN1OEtqSzZucVBpWUZhanRFSTVrOV9mczZqQjUwOHNQOVNwSjlodk1sdEctSk85NHoxWFFwZkQ0NGRLOTRfQQ?oc=5",
+   "published_utc": "2026-10-14T23:17:00+00:00",
+   "title_original": "央行将开展7000亿元买断式逆回购操作",
+   "region": "china",
    "topics": [
-    "industrial"
+    "monetary",
+    "fx"
    ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
    "manual": false,
-   "id": "a8d4b166cdfa896c"
+   "id": "c56ae5e86e24acdf"
   },
   {
    "source_id": "tradingview_live",
@@ -376,6 +377,23 @@
    "live_wire": true,
    "manual": false,
    "id": "deb9f8dd65662670"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45Y1DX:0-tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom/",
+   "published_utc": "2026-10-14T23:00:00+00:00",
+   "title_original": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bf29455bcf5df8ea"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1105,24 +1123,6 @@
    "live_wire": false,
    "manual": false,
    "id": "59d92bd559a7bf5d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcWg1RUtoc0VRU1EzdWN0TTJSYWdNYWUyN0prb3g5Y2VpWUhBamR2LVphVHBqMm5LUF9EMnpON1hTTFh0TnhkenpwUEMzWWZjTzZXVmw5YlNSNXNVdEpGeks3R1ZFUmF4MkFha1U2NGpsbXhhNUFtNnpqR1lLa2hPdlA2aEx5X3RWWkZB?oc=5",
-   "published_utc": "2026-10-14T12:08:01+00:00",
-   "title_original": "央行将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f32d64bdd755ecfb"
   },
   {
    "source_id": "tradingview_live",
@@ -8179,7 +8179,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 302 billion yuan reverse repo expires this week, and the 500 billion yuan buyout expires on Thursday.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84NS1JZWNGdTRJVGV0WmdYUS1uN29ac3lMaVM2bE03Tl9qdkppbThaVUowU05yOVl4cUFqdHdncE5yRWRQMjFBa2tsTVpsQ3RMYmdWNUxGdWN4NkphaVFQTzNn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zU1kydF8yQWI4djFDWFRFaFdkbVh6eUJxZWhXNTlzS0E3d1h6SFNSMnQwSUt4bmNhN3RoTnF2QXJUWXlzNHhxajVrNzBxQQ?oc=5",
    "published_utc": "2026-10-12T00:51:47+00:00",
    "title_original": "本周央行3020亿元逆回购到期 5000亿元买断式周四到期",
    "region": "china",
@@ -8191,7 +8191,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "25e47331a55dbf6f"
+   "id": "fde8e61754043213"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -9108,8 +9108,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -9122,7 +9122,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -10071,8 +10071,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -10086,7 +10086,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -10277,8 +10277,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -10292,7 +10292,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
