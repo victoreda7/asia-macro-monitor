@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T09:02:47.735081+00:00
+Última coleta: 2026-10-14T09:12:47.369177+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1133
-  🇨🇳 China          834
+  🇨🇳 China          835
   🇹🇼 Taiwan         292
-  🇰🇷 Coreia do Sul  741
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [china] China producer inflation rises with increase in commodities; CPI falls below forecasts
+  - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [korea] South Korean minister rejects claim of W80b wasted on Brazilian egg imports
+  - [china] China September new bank loans jump to 1.08 trillion yuan, above forecast
   - [china] Inner Mongolia BaoTou Steel Union Fined 2 Million Yuan Over Container Explosion Accident
   - [china] Memory breakthrough by China's CXMT puts chip rivals on back foot
   - [china] IMF calls for US to cut deficits amid bond woes, China to shift away from exports
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Trade Surplus Nears $940 Billion as Export Growth Surges
   - [japan] BOJ May Need to Accelerate Hikes to Reach Neutral Rate — Market Talk
   - [korea] Bank of Korea Governor Shin Hyun-song “AI investment and bad news in the Middle East stimulate prices… Respond
-  - [china] Asian equities stabilize following Wall Street tech selloff; oil nears $95, China trade data beats
-  - [japan] Japan Bank Lending Remains Robust Despite BOJ Rate Hikes — Market Talk
-  - [china] China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T09:02:47+00:00",
+      "published_utc": "2026-10-14T09:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
