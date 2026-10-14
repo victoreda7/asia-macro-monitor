@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T09:57:44.714887+00:00
+Última coleta: 2026-10-14T10:02:42.606471+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1133
+  🇯🇵 Japão          1134
   🇨🇳 China          841
-  🇹🇼 Taiwan         291
+  🇹🇼 Taiwan         290
   🇰🇷 Coreia do Sul  735
 
 ## O que já está no feed (não repita)
 
+  - [japan] Budget EVs attract attention at Paris Motor Show
   - [china] China's New Yuan Loans Surged in September
   - [china] Metallurgical Corporation Of China Says January-September New Contracts Totalled 519.2 Billion Yuan
   - [china] Wuhan Tianyuan Group To Invest Around 500 Million Yuan In Project
@@ -38,6 +39,7 @@ Total: 3000 manchetes
   - [china] China buys 8-10 US soybean cargoes in first deals since Trump-Xi summit, sources say
   - [china] China's exports soar in September, putting a trade surplus of US$1 trillion in sight
   - [korea] The Ministry of Finance and Economy announced a plan to foster the K-beauty industry incorporating a..
+  - [korea] Kospi rebound fizzles as foreign selling hits chips again
   - [china] Surging China Exports Push Trade Surplus Toward Fresh Record
   - [korea] BOK chief stresses need to curb inflation amid AI boom, Mideast crisis
   - [china] EU-China deal on hybrid cars not addressing rising imports of car parts from China, FIEV says
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] “After freezing this month, tightening again”...BOK sets base interest rate at 3.5% early next year
   - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
   - [japan] EQT Raises Tender Offer Price For Kakaku.Com Inc By 1 Yen To 3,682 Yen Apiece, Filing Shows
-  - [china] China Exports Growth Beats Expectations
-  - [china] Dollar edges lower ahead of U.S. CPI; China data, Singapore GDP in focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T09:57:44+00:00",
+      "published_utc": "2026-10-14T10:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
