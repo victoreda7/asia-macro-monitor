@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T08:42:42.872603+00:00
+Última coleta: 2026-10-14T08:52:45.339801+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1137
-  🇨🇳 China          830
-  🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  740
+  🇯🇵 Japão          1136
+  🇨🇳 China          833
+  🇹🇼 Taiwan         292
+  🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [china] Memory breakthrough by China's CXMT puts chip rivals on back foot
   - [china] Memory breakthrough by China's CXMT puts chip rivals on backfoot
+  - [china] China buys 8-10 US soybean cargoes in first deals since Trump-Xi summit, sources say
+  - [china] China's exports soar in September, putting a trade surplus of US$1 trillion in sight
+  - [china] IMF calls for US to cut deficits amid bond woes, China to shift away from exports
   - [korea] BOK chief stresses need to curb inflation amid AI boom, Mideast crisis
   - [china] EU-China deal on hybrid cars not addressing rising imports of car parts from China, FIEV says
   - [japan] Japanese Government Bonds Held by the Bank of Japan
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China's crude stocks slump despite slight rise in September import rate
   - [japan] How far will the Bank of Japan's interest rate hike be likely to exceed 2%? #Expert Topi (Koichi Fujishiro) - 
   - [korea] Governor of the Bank of Korea: “Korea’s economy is clearly shaped like a K… inflation must be lowered through 
-  - [korea] South Korean Won Rises Near 2-Year High
-  - [china] China's September CPI rises 0.9% Y/Y, PPI accelerates to 5.0% above expectations
-  - [japan] Five-Year JGB Yield Pares Gains After Five-Year Auction Draws Solid Demand — Market Talk
-  - [china] China's September trade surplus widens to $133.53B; exports up 36.3%, imports up 31.0%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T08:42:43+00:00",
+      "published_utc": "2026-10-14T08:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
