@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T07:02:42.185989+00:00
+Última coleta: 2026-10-14T07:12:42.760394+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1134
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China Exports Growth Beats Expectations
+  - [china] China inflation remains subdued as exports, imports beat forecasts
   - [china] China's Huajin Aramco project receives first Arabian crude shipment
   - [korea] South Korean shares end lower on caution ahead of US inflation data
   - [korea] Real estate project financing (PF) guarantees supported by the government to revitalize the private
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Offshore Yuan Trades Near Multi-Year High
   - [taiwan] ASML, TSMC Report This Week: What Traders Are Watching After A 6-Day Chip Stock Slide
   - [china] China's export engine hits fastest pace since February with 36% growth
-  - [china] China's September coal imports fall 6%
-  - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase on October 14
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T07:02:42+00:00",
+      "published_utc": "2026-10-14T07:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
