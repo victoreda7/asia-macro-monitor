@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T19:12:44.068946+00:00
+Última coleta: 2026-10-14T19:22:44.422392+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1133
-  🇨🇳 China          847
+  🇨🇳 China          848
   🇹🇼 Taiwan         290
-  🇰🇷 Coreia do Sul  730
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [china] Micron Takes Another Hit as China Chip Fears Flare
   - [korea] ASML's Next Big Chipmaking Cycle Has a Timeline—Intel, Samsung and TSMC Set It
   - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
+  - [japan] Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries By Reuters
   - [china] Commentary: Why Gradual Yuan Appreciation Remains the Baseline
   - [japan] US consumer prices rise 3.7% in September; expectations for early interest rate hike rise somewhat
   - [japan] US Consumer Price Index rises 3.7%; growth rate expands for the first time in 4 months; yen weakens due to exp
@@ -40,8 +41,8 @@ Total: 3000 manchetes
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update
   - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21 Billion in Funding From U.S.-Japan Initiative
   - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21B in Funding From U.S.-Japan Initiative
-  - [japan] GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com
   - [japan] Possibility of Bank of Japan interest rate hike exceeding 2%
+  - [japan] GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com
   - [china] French cosmetics facing delays clearing China customs, says industry association
   - [taiwan] Belize PM vows stronger support for Taiwan after China sanctions
   - [japan] Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] India’s Russian crude imports fall 29% from July peak as China boosts buying
   - [taiwan] Lai calls for progress on unsigned Taiwan-Canada trade framework
   - [china] China buys 8-10 cargoes of US soybeans after Trump-Xi summit: sources
-  - [korea] BOK chief meets Chinese, Japanese counterparts in Bangkok for economic talks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T19:12:44+00:00",
+      "published_utc": "2026-10-14T19:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
