@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T05:52:43.195603+00:00",
- "collected_at_utc": "2026-10-14T05:52:43.195603+00:00",
+ "generated_at_utc": "2026-10-14T05:59:42.175182+00:00",
+ "collected_at_utc": "2026-10-14T05:59:42.175182+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1132,
-  "china": 846,
+  "japan": 1133,
+  "china": 845,
   "taiwan": 296,
   "korea": 726
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T05:48:46+00:00"
+   "newest": "2026-10-14T05:58:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-14T05:26:12+00:00"
+   "newest": "2026-10-14T05:51:34+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T23:49:09+00:00"
+   "newest": "2026-10-13T23:30:22+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T05:28:09+00:00"
+   "newest": "2026-10-14T05:42:07+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Could Shorten Rate-Hike Evaluation to Prevent Inflation Overshoot — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261014000767:0-boj-could-shorten-rate-hike-evaluation-to-prevent-inflation-overshoot-market-talk/",
+   "published_utc": "2026-10-14T05:58:00+00:00",
+   "title_original": "BOJ Could Shorten Rate-Hike Evaluation to Prevent Inflation Overshoot — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3bbd2b6b6f2d1bd9"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1151,23 +1169,6 @@
    "id": "56d5cb6b874baa7c"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Sep Imports +31.0% on Year; Expected +24.8%",
-   "url": "https://www.tradingview.com/news/DJN_DN20261013010309_20261013010375:0-china-sep-imports-31-0-on-year-expected-24-8/",
-   "published_utc": "2026-10-14T02:34:00+00:00",
-   "title_original": "China Sep Imports +31.0% on Year; Expected +24.8%",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dfc53455a6308053"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan's export boom shifts toward AI servers, raising concentration risks",
@@ -1292,7 +1293,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged at 1.40%",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Xa1JWejVEall0bTNybXI2V2ZiaVZpUG50X1dON2owNm9NTVAtVE10SE11NHNBNWZSTWpmTk9welpBdFg0ZWpKT3hCNHNZWXdSQ09PNUhrVlk1YnZkM3RNOG53?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKUE5OTlIwUldoSlY3ckxSYzgtTnQ4d21IQjVPNXZ4NTdBZGFCb2Z6Z3Jadm9ib3NDWWVVX1FrbFhTdXE0bkt5NTRjaWl4UQ?oc=5",
    "published_utc": "2026-10-14T02:03:28+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 利率1.40%持平",
    "region": "china",
@@ -1304,7 +1305,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "551d98007892a700"
+   "id": "563552a745d8dbb4"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -7526,8 +7527,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -7540,7 +7541,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -8489,8 +8490,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -8504,7 +8505,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -8695,8 +8696,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -8710,7 +8711,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -9581,8 +9582,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -9596,7 +9597,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -44403,7 +44404,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
+   "source_name": "Focus Taiwan - CNA English News",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
