@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T05:42:44.034531+00:00",
- "collected_at_utc": "2026-10-14T05:42:44.034531+00:00",
+ "generated_at_utc": "2026-10-14T05:52:43.195603+00:00",
+ "collected_at_utc": "2026-10-14T05:52:43.195603+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1134,
-  "china": 845,
+  "japan": 1132,
+  "china": 846,
   "taiwan": 296,
-  "korea": 725
+  "korea": 726
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T05:17:14+00:00"
+   "newest": "2026-10-14T05:42:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T04:36:25+00:00"
+   "newest": "2026-10-14T05:26:04+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T10:54:53+00:00"
+   "newest": "2026-10-13T05:54:53+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T12:45:52+09:00"
+   "newest": "2026-10-14T14:47:13+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T05:41:58+00:00"
+   "newest": "2026-10-14T05:48:46+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T03:38:48+00:00"
+   "newest": "2026-10-14T05:31:08+00:00"
   }
  ],
  "items": [
@@ -359,6 +359,25 @@
    "live_wire": true,
    "manual": false,
    "id": "3b18d44610464756"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "전자신문",
+   "title_en": "Bank of Korea Governor Shin Hyun-song “AI investment and bad news in the Middle East stimulate prices… Responding to polarization through monetary policy”",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tdUhZZEtNeWdGakdpTlRnUHJieERua1VFZVdSOUFSZWFfVTA5QWc2NXo1VmIxbGNhekp3SFZPWUJkeVp3QmVXN0kwazZFQQ?oc=5",
+   "published_utc": "2026-10-14T05:31:08+00:00",
+   "title_original": "신현송 한은 총재 “AI 투자·중동 악재로 물가 자극…통화정책으로 양극화 대응”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "64d083aff58819da"
   },
   {
    "source_id": "tradingview_live",
@@ -1011,6 +1030,23 @@
    "live_wire": false,
    "manual": false,
    "id": "38ff92ee563aecad"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China's September exports soar, putting $1 trillion trade surplus in sight",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXg0RnM4TVlLaHEwQjBYdU16ZGhJaXpFeVVXYk9FLVg1RFp4cVlvWWNWa2xlRlhacndGbHpYeF9QMWs5Zy0ydnV6Ni1kV2dIUS1Ca0NEYVNpdHlQMk1EdFBOc2hxTVlJLXZXX2RKbVplTG5NY1B2NEl2UXRFaFROckZjUGdVZW1vcWpYUmdJR21JOTJrQkhIT3E5Y25CM1VCMDNwOWcxbVdsZw?oc=5",
+   "published_utc": "2026-10-14T02:41:00+00:00",
+   "title_original": "China's September exports soar, putting $1 trillion trade surplus in sight",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ececfdcf639c8d5d"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -44367,7 +44403,7 @@
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan - CNA English News",
+   "source_name": "Focus Taiwan",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -51893,40 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ca4e7b9af05c922f"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "reuters.com",
-   "title_en": "Japan to sidestep funding in tax cut outline, keep fiscal concerns alive",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUFUQkpRRENaSFlsWkUtRnNMVGp2dE9wLUZzUm8yWUF2eU5nelJ0TF9aNGdtbXFxenhjRnA1VUU0RlhEOVNtdmZiZlVEZlU0a243UVJOX3pra3ZGeW9tbm4wZW02a2RxOHFOa293ZXFRbW5XRjBxQWhsNEFVeEMwbU1CcUxjZ2FrcFVDdzVDYkphTnd6dWZOOFJfVExOYmo1alVMVmJMQm5NQ25hSTJUZUtJM01JRG50UFA4?oc=5",
-   "published_utc": "2026-09-15T02:47:25+00:00",
-   "title_original": "Japan to sidestep funding in tax cut outline, keep fiscal concerns alive",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "35ba2dc7505a91b2"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan to sidestep funding in tax cut outline, keep fiscal concern alive",
-   "url": "https://www.investing.com/news/economy-news/japan-to-sidestep-funding-in-tax-cut-outline-keep-fiscal-concern-alive-4900748",
-   "published_utc": "2026-09-15T02:36:54+00:00",
-   "title_original": "Japan to sidestep funding in tax cut outline, keep fiscal concern alive",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4fc382222e9ab533"
   },
   {
    "source_id": "manual_ia",
