@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-14T10:52:43.809662+00:00",
- "collected_at_utc": "2026-10-14T10:52:43.809662+00:00",
+ "generated_at_utc": "2026-10-14T11:02:42.490202+00:00",
+ "collected_at_utc": "2026-10-14T11:02:42.490202+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1135,
+  "japan": 1136,
   "china": 845,
   "taiwan": 290,
-  "korea": 730
+  "korea": 729
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 51,
+   "count": 52,
    "error": "",
-   "newest": "2026-10-14T17:00:00+09:00"
+   "newest": "2026-10-14T20:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T19:39:11+09:00"
+   "newest": "2026-10-14T19:53:18+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T19:26:33+09:00"
+   "newest": "2026-10-14T20:01:23+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T10:12:53+00:00"
+   "newest": "2026-10-14T10:50:06+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,42 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
+   "url": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
+   "published_utc": "2026-10-14T11:00:00+00:00",
+   "title_original": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2661a76747634fcc"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "The Bank of Japan's interest rate hike is ``0.5%,'' but the online bank is raising it ``0.6%!'' My husband gets angry because he took out a ``mortgage loan'' with a variable interest rate of ``40 million yen'' because it was ``cheap''! Why did the rate increase exceed the Bank of Japan's rate hike? Also check the impact (Financial Field)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMaEVhN0tLWG5MNVFaY1lMZ0ZGVHV3ZGVpZVVCVW01VFc2R3I1cU04cVdEMklpSXpHVFBTejkzNjZNbnNKQmZrVDhsUTJJYVc4Sm9kd2lxWlpYaTd5T1ZGZzE2UTJIV1pnTlhLS0I0eG50ZlZHYXpWWGlIcDlxeGc?oc=5",
+   "published_utc": "2026-10-14T10:50:06+00:00",
+   "title_original": "日銀の利上げは「0.5％」なのに、ネット銀行が「0.6％引き上げ」!?「安いから」と変動金利「4000万円」で“住宅ローン”を借りた夫が怒り！ なぜ「日銀の利上げ幅」を上回ったのか…影響も確認（ファイナンシャルフィールド）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx",
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "39c5677f0c524661"
+  },
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
@@ -1255,6 +1291,24 @@
    "id": "caa754db0929acea"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "조선일보",
+   "title_en": "Shin Hyun-song, “AI boom and Middle East war both put pressure on prices”... Signs that the interest rate hike trend will be maintained",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0tCOTgwNGVrU3QyTm9HZWdzOG5DdFdYZy0yaXJUaXMxQUZ3UUtVWndEQ29VekxDRGR6TkcteG9fWV8xRmI5VlM0TWZpWXA2bENwOFhvdWFBdjdzRUMtTWdEc29mUC1ZR1FYNXFmZmdIUFdEUzhBX3NvN2NQNWV3N3NOWXg3dkVJMmhncnJ3?oc=5",
+   "published_utc": "2026-10-14T06:40:45+00:00",
+   "title_original": "신현송 \"AI 호황, 중동 전쟁 모두 물가 압박\"…금리 인상 기조 유지 시사",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ab7994261b9553bb"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Daito Pharmaceutical Co Ltd - To Buy Back Up To 4.4% Of Own Shares Worth 2 Billion Yen",
@@ -1270,24 +1324,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6825939fd42241ce"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "조선일보",
-   "title_en": "Shin Hyun-song, “AI boom and Middle East war both put pressure on prices”... Signs that the interest rate hike trend will be maintained",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0tCOTgwNGVrU3QyTm9HZWdzOG5DdFdYZy0yaXJUaXMxQUZ3UUtVWndEQ29VekxDRGR6TkcteG9fWV8xRmI5VlM0TWZpWXA2bENwOFhvdWFBdjdzRUMtTWdEc29mUC1ZR1FYNXFmZmdIUFdEUzhBX3NvN2NQNWV3N3NOWXg3dkVJMmhncnJ3?oc=5",
-   "published_utc": "2026-10-14T06:33:00+00:00",
-   "title_original": "신현송 \"AI 호황, 중동 전쟁 모두 물가 압박\"…금리 인상 기조 유지 시사",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ab7994261b9553bb"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1898,7 +1934,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged at 1.40%",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKUE5OTlIwUldoSlY3ckxSYzgtTnQ4d21IQjVPNXZ4NTdBZGFCb2Z6Z3Jadm9ib3NDWWVVX1FrbFhTdXE0bkt5NTRjaWl4UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Xa1JWejVEall0bTNybXI2V2ZiaVZpUG50X1dON2owNm9NTVAtVE10SE11NHNBNWZSTWpmTk9welpBdFg0ZWpKT3hCNHNZWXdSQ09PNUhrVlk1YnZkM3RNOG53?oc=5",
    "published_utc": "2026-10-14T02:03:28+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 利率1.40%持平",
    "region": "china",
@@ -1910,7 +1946,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "563552a745d8dbb4"
+   "id": "551d98007892a700"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -8598,23 +8634,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "经济观察网",
-   "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 10 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SM1JXODlYM04ycnR1YVZCYmQyZ2xpaUMwbHhHSWVlY2M4QXQ4ZGh0dmRNX2hwclp1b1VpX0F2cEp3bTVKRlpyeDYzUFBEWlI1TW1US1pBb18?oc=5",
-   "published_utc": "2026-10-10T04:41:42+00:00",
-   "title_original": "央行10月10日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "526678d7f692aa66"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
    "title_en": "Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's Bank of China | Mortgage supplementary loans | Central Bank | Liquidity | Reverse repurchase",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWFpTR2pmcWtqX2lmc3U0RGxKTU12RW96cERlMnZ2Y29OVEFVcFpsR25RRGExaVo5d0N6WjdpOUJrWk1aT1ZLLUZ5WlZfaHBrbkNxNzNOek9JelJZWUVCMlBXNWw5WVVkUVktVW04Ym5MeE1hWVFIWGlON3JSVjlqMWd6bkU5M0QxS1E?oc=5",
@@ -8684,6 +8703,23 @@
    "live_wire": false,
    "manual": false,
    "id": "63719e4e3204da4b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐",
+   "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 10 was zero",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeURaekNHVXlDSmZGUkg2OHV2UHY2ZFRLWFg1WExmUlppaHcyRzlvY2U2R3NWWWlXYnpQZ1ZzWm5iU05GbC14dzdPbXoxM1pqTUYwU1Fza3M4c1VSeEo5UktOMERtSnM?oc=5",
+   "published_utc": "2026-10-10T01:33:19+00:00",
+   "title_original": "央行10月10日7天期逆回购操作量为零",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "054a34cc81634c4f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51887,42 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3cedec68656fff9f"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Chinese Economic Momentum Stays Weak as Consumption Falters",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSHNkRWxkbWcyZFNnUDFLVDJiNEpxWkQyREYxSi16YmhyR1VDR2tlVTlVNV96N3NkWVlzcHV4VU9jWTkyNmJiRW5ITVNRSGwyaE5LWEs1QmZsdUJvckV4Uy10X1dtQm03Z1Naa0pTS2JuN0pHaFV5Mkd5d0sxOHY4aEUta1NaR2JyUWQ0eUs1dEZ2UFZtR2lRVDZRZllPQmR6aFdhMFR3WXMydDZaenhBQUI5YmFpUQ?oc=5",
-   "published_utc": "2026-09-15T08:59:59+00:00",
-   "title_original": "Chinese Economic Momentum Stays Weak as Consumption Falters",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a8a58e773d4df84"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "포쓰저널",
-   "title_en": "The Monetary Policy Committee hints at the possibility of further raising the base interest rate in October... “Watch prices and household debt”",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WOHJkemRtdDM3TkgzOVRidEdlZGt3eFB6TXlvQ0ZvZTR6OXJ1bjhsT21LUlpPR28wWk1LUVR0SGxqV3R1RjFQamhsSjRITTRfNHV4c0ZOclphaFlZNGVYM21sN2U?oc=5",
-   "published_utc": "2026-09-15T08:54:59+00:00",
-   "title_original": "금통위, 10월 기준금리 추가 인상 가능성 시사…\"물가·가계부채 주시\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "43f2ea9889b1e3d7"
   },
   {
    "source_id": "manual_ia",

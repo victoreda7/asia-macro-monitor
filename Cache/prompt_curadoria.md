@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T10:52:43.809662+00:00
+Última coleta: 2026-10-14T11:02:42.490202+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1135
+  🇯🇵 Japão          1136
   🇨🇳 China          845
   🇹🇼 Taiwan         290
-  🇰🇷 Coreia do Sul  730
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [china] The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK
+  - [japan] The Bank of Japan's interest rate hike is ``0.5%,'' but the online bank is raising it ``0.6%!'' My husband get
   - [china] Commentary: Why Consumption Stimulus Won’t Close China’s Demand Gap
   - [china] IMF calls for deficit reduction in the US and for China to reduce dependence on exports
   - [china] China resumes U.S. soybean buying with 8-10 cargoes after Trump-Xi summit - report
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung, SK Hynix Face Pressure to Boost Shareholder Returns — Market Talk
   - [korea] Citi and Morgan Stanley "Bank of Korea base interest rate... expected to freeze in October and increase in Nov
   - [china] BofA Says China’s Economic Data May Open Door to More Stimulus
-  - [japan] Consumption tax reduction bill proposed by ruling party to be deliberated on 20th Opposition party to clarify 
-  - [korea] Citi: “The Bank of Korea will raise interest rates in November after a hawkish freeze in October… up to 3.5% n
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T10:52:44+00:00",
+      "published_utc": "2026-10-14T11:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
