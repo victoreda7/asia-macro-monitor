@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T09:32:43.759060+00:00",
- "collected_at_utc": "2026-10-14T09:32:43.759060+00:00",
+ "generated_at_utc": "2026-10-14T09:42:44.237729+00:00",
+ "collected_at_utc": "2026-10-14T09:42:44.237729+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1133,
-  "china": 837,
+  "china": 838,
   "taiwan": 291,
-  "korea": 739
+  "korea": 738
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T09:24:00+00:00"
+   "newest": "2026-10-14T09:34:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -67,7 +67,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T13:46:30+08:00"
+   "newest": "2026-10-14T16:16:43+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T09:17:32+00:00"
+   "newest": "2026-10-14T09:38:40+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T09:07:14+00:00"
+   "newest": "2026-10-14T09:30:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T09:12:09+00:00"
+   "newest": "2026-10-14T09:20:27+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T08:00:00+00:00"
+   "newest": "2026-10-13T08:11:14+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T18:21:09+09:00"
+   "newest": "2026-10-14T18:31:46+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T03:24:00+00:00"
+   "newest": "2026-10-14T06:46:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T09:32:10+00:00"
+   "newest": "2026-10-14T09:42:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-14T08:53:13+00:00"
+   "newest": "2026-10-14T09:36:58+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,75 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China September new bank loans jump more than expected on stimulus, seasonal boost",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45M0KC:0-china-september-new-bank-loans-jump-more-than-expected-on-stimulus-seasonal-boost/",
+   "published_utc": "2026-10-14T09:38:24+00:00",
+   "title_original": "China September new bank loans jump more than expected on stimulus, seasonal boost",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7b01accaed9d81c5"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's New Yuan Loans Surged in September",
+   "url": "https://www.tradingview.com/news/DJN_DN20261014002032:0-china-s-new-yuan-loans-surged-in-september/",
+   "published_utc": "2026-10-14T09:38:00+00:00",
+   "title_original": "China's New Yuan Loans Surged in September",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5cf39fd07e72c39e"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Asian stocks slip as China shares fall, oil risks and U.S. CPI weigh",
+   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-edge-higher-as-chipmakers-rebound-china-trade-beats-forecasts-4947949",
+   "published_utc": "2026-10-14T09:35:57+00:00",
+   "title_original": "Asian stocks slip as China shares fall, oil risks and U.S. CPI weigh",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f35890005f3de410"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "IMF calls for US to cut deficits amid bond woes, China to shift away from exports",
+   "url": "https://www.investing.com/news/economy-news/imfs-georgieva-says-us-growth-will-not-be-enough-to-shrink-debt-4947973",
+   "published_utc": "2026-10-14T09:24:27+00:00",
+   "title_original": "IMF calls for US to cut deficits amid bond woes, China to shift away from exports",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8db3cec6655b7703"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
@@ -394,24 +463,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0723d71a6e2d00e9"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "IMF calls for US to cut deficits amid bond woes, China to shift away from exports",
-   "url": "https://www.investing.com/news/economy-news/imfs-georgieva-says-us-growth-will-not-be-enough-to-shrink-debt-4947973",
-   "published_utc": "2026-10-14T09:06:28+00:00",
-   "title_original": "IMF calls for US to cut deficits amid bond woes, China to shift away from exports",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8db3cec6655b7703"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1325,41 +1376,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f67f43dfa4b7ab90"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Imported Inflation to Continue Shaping China's Headline Inflation — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261014000056:0-imported-inflation-to-continue-shaping-china-s-headline-inflation-market-talk/",
-   "published_utc": "2026-10-14T04:26:00+00:00",
-   "title_original": "Imported Inflation to Continue Shaping China's Headline Inflation — Market Talk",
-   "region": "china",
-   "topics": [
-    "inflation",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c6a47d5adfad7e0d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "China Inflation At 0.9%; PPI Inflation Highest Since 2022",
-   "url": "https://www.tradingview.com/news/dpa_afx:3a1912046eed6:0-china-inflation-at-0-9-ppi-inflation-highest-since-2022/",
-   "published_utc": "2026-10-14T04:24:37+00:00",
-   "title_original": "China Inflation At 0.9%; PPI Inflation Highest Since 2022",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "78d42688b73ffe1f"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6837,7 +6853,7 @@
    "id": "5cbe027ddd637764"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "China imposes sanctions on Paraguay, Belize ministers over Taiwan ties",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
@@ -6851,7 +6867,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "72ed6c39dd1c57d8"
+   "id": "d2909c578f738bbe"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -41640,7 +41656,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "China's State Council appoints, removes officials",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41TzR0djZ2SlhwdVRwU1ROQzUyWXZ0XzRJOFBRM1ZkYVRtTjVGYlRIQXpoaEVGSk1PRUFBU1BPVUVGQ0RNWGptY2RkcFYtZldvWHdka2p3czhMa0NxTWI5ZDUzZ2JLbERuN3pXNWFvR0F2dmJLQTJZWmYtdmU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTmlyOHpLQ0syMGZkV2FEeVp1b0JfOGhQbVR1TURQeFd5Q1ZDejRQNHkzcy1lWkhBb2hoZ1BJd2R0alI3MXpkVWtjTEhhTXloRTZYRV9MVDJVOXlXUWJmOXl4NC0xOXRFLXFkelRWYlZnMUVkNkM0b0x3OXY?oc=5",
    "published_utc": "2026-09-20T07:00:00+00:00",
    "title_original": "China's State Council appoints, removes officials",
    "region": "china",
@@ -41651,7 +41667,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "a9e1d371dc495058"
+   "id": "ef76b618f8a00d28"
   },
   {
    "source_id": "investing_econ",
@@ -44961,7 +44977,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
    "title_original": "Chinese premier chairs State Council executive meeting",
    "region": "china",
@@ -44972,7 +44988,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9e62f309accc3d17"
+   "id": "ac5c93c1746a6f36"
   },
   {
    "source_id": "gn_tw_focus",
@@ -51908,23 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ac464a9e781f2c78"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "헤럴드경제",
-   "title_en": "The Bank of Korea has continuously raised interest rates... “Clearly opposed” After hearing the minority opinion, [Money]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MNGRzTUtwdzVMYjhuX3NpNWNfQTkzelJDZ1phdXNUd0lDN0w5SVJyOS1oZEoyVjYwTXVRNjlHb1Q1enF5aU1va2RlckY5NEtPMXRjR0pB?oc=5",
-   "published_utc": "2026-09-15T07:41:36+00:00",
-   "title_original": "금리 연속 올린 한은…“명백히 반대” 소수의견 들어보니 [머니뭐니]",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "295002dd6e4da0d9"
   },
   {
    "source_id": "manual_ia",
