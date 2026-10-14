@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T11:42:47.245008+00:00
+Última coleta: 2026-10-14T11:52:43.201879+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1130
+  🇯🇵 Japão          1129
   🇨🇳 China          849
-  🇹🇼 Taiwan         291
+  🇹🇼 Taiwan         292
   🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [taiwan] What analysts are watching with key semiconductor maker TSMC set to report results
   - [china] India’s Russian crude imports fall 29% from July peak as China boosts buying
   - [china] IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports
+  - [taiwan] Lai calls for progress on unsigned Taiwan-Canada trade framework
   - [china] China buys 8-10 cargoes of US soybeans after Trump-Xi summit: sources
   - [china] China's soybean imports fall 7.7% in September compared to the previous year
   - [china] The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The Ministry of Finance and Economy announced a plan to foster the K-beauty industry incorporating a..
   - [korea] Kospi rebound fizzles as foreign selling hits chips again
   - [china] Surging China Exports Push Trade Surplus Toward Fresh Record
-  - [korea] BOK chief stresses need to curb inflation amid AI boom, Mideast crisis
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T11:42:47+00:00",
+      "published_utc": "2026-10-14T11:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
