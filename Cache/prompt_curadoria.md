@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T09:22:41.873490+00:00
+Última coleta: 2026-10-14T09:32:43.759060+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1133
-  🇨🇳 China          835
-  🇹🇼 Taiwan         292
-  🇰🇷 Coreia do Sul  740
+  🇨🇳 China          837
+  🇹🇼 Taiwan         291
+  🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [china] Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15
+  - [china] China willing to import more high-value products, premier says
   - [china] China producer inflation rises with increase in commodities; CPI falls below forecasts
   - [china] IMF calls for US to cut deficits amid bond woes, China to shift away from exports
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Shin Hyun-song, “AI boom and Middle East war both put pressure on prices”... Signs that the interest rate hike
   - [japan] Daito Pharmaceutical Co Ltd - To Buy Back Up To 4.4% Of Own Shares Worth 2 Billion Yen
   - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
-  - [japan] BOJ Could Shorten Rate-Hike Evaluation to Prevent Inflation Overshoot — Market Talk
-  - [china] China’s Trade Surplus Nears $940 Billion as Export Growth Surges
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T09:22:42+00:00",
+      "published_utc": "2026-10-14T09:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

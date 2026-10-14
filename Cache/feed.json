@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T09:22:41.873490+00:00",
- "collected_at_utc": "2026-10-14T09:22:41.873490+00:00",
+ "generated_at_utc": "2026-10-14T09:32:43.759060+00:00",
+ "collected_at_utc": "2026-10-14T09:32:43.759060+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1133,
-  "china": 835,
-  "taiwan": 292,
-  "korea": 740
+  "china": 837,
+  "taiwan": 291,
+  "korea": 739
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T08:52:00+00:00"
+   "newest": "2026-10-14T09:24:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T09:03:19+00:00"
+   "newest": "2026-10-14T09:21:59+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T06:21:00+00:00"
+   "newest": "2026-10-14T03:24:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T09:21:00+00:00"
+   "newest": "2026-10-14T09:32:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T05:39:28+00:00"
+   "newest": "2026-10-14T02:36:56+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T09:00:02+00:00"
+   "newest": "2026-10-14T08:10:33+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1VGZNSnp5eHRlMHBLRm82bkFwanpfUDgzcU1tYWdkOEVrMWFBRnR5MTBUb1RvUU1URVRTS0phLVNSMU5WRllmcW9yUWlUajIzZ214VURhbTUxc2U2TE5KTA?oc=5",
+   "published_utc": "2026-10-14T09:21:59+00:00",
+   "title_original": "央行：10月15日将开展7000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c413435d61a498d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China willing to import more high-value products, premier says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3ZM04U:0-china-willing-to-import-more-high-value-products-premier-says/",
+   "published_utc": "2026-10-14T09:16:58+00:00",
+   "title_original": "China willing to import more high-value products, premier says",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4ca98bb695b19c54"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -691,7 +726,7 @@
    "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill proposed by ruling party to be deliberated on 20th Opposition party to clarify recipients of support funds",
    "url": "https://news.web.nhk/newsweb/na/nd-20261014de59229",
-   "published_utc": "2026-10-14T07:46:23+00:00",
+   "published_utc": "2026-10-14T07:46:00+00:00",
    "title_original": "消費税減税法案 与党20日審議入り提案 野党 支援金対象明示を",
    "region": "japan",
    "topics": [
@@ -1241,6 +1276,23 @@
    "id": "9b2f1a5991e9ecef"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Hong Kong’s Clearing Bank Gains New Funding Access in Yuan Push",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmxLTC1BaDdXeF80VG83MW80UUpfbkowUzZwa0ItQ2owalZWdVlQMUhVTlJCUzBLYjhKRjlMeVI1N0Jjc0ppMkRfUWZScUk3ckhoQmFFSFhId0ZjeVRta0kyNDh0M19rakpnUnFmZDdsczA2SlE3VFo4b19tekRuRHRRRU45WUVkU2FXQTNUb2o3Rlo2NWgxc1VuT012U0FZMVFOTnNVLVp3bjJkUFkwRW1jZUw?oc=5",
+   "published_utc": "2026-10-14T04:41:00+00:00",
+   "title_original": "Hong Kong’s Clearing Bank Gains New Funding Access in Yuan Push",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "12429c90523fe0bc"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
    "title_en": "China's September trade surplus widens to $133.53B; exports up 36.3%, imports up 31.0%",
@@ -1342,24 +1394,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f5d48f1bced78a75"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Yuan gains as markets weigh China inflation, await US CPI",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46003O:0-yuan-gains-as-markets-weigh-china-inflation-await-us-cpi/",
-   "published_utc": "2026-10-14T03:47:21+00:00",
-   "title_original": "Yuan gains as markets weigh China inflation, await US CPI",
-   "region": "china",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5746ee3628af2866"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1532,6 +1566,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5de57996c72c6b9e"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "China’s exports surge by 36% in September, riding wave of tech demand",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVzZhS3lYdWJOUFZlamFTNGpzeHZaUGd5OVdTU2UxOVFZaExIVE5nMHZmX0pIZGZLQkVEYUdkVHlaV0owRi1Pb1ZzYnpSY2xjRk1ybk13ZUNXNkRpVlhjSHA2a2tDWDVjZXhtQW5kWXZTNVNxNmlCX0RRdVJoZmRIa1lXS2xrU08xakVnbEVNN3VxeWVNRTMyb0lUMGx1RjQzbklycmpKQlVkODNZdThhYW12aHE3d0pReWJsY3VwZTdwTElydGFzdNIByAFBVV95cUxNN0lLaWxJNzJvY25QVjJMMDRVRjdLUEpBWWNjamR5TXZqc3VlMU1kdmtGTGtIclJCZWllMWNZNnVyXzBqUFhfN2pSY0xrdDRMb2xfNVhPOGQ3alZmUHROWk5BT2E0VWhDVW1NRGttNnRUWkZlbE15TF9xWnFZa2M0WU9wV0wyVUJ1eURhZE1VWWZMaTBiZ2JpeDRyZnVsb3VST3VNZlBSdzVVUzhKV19jUWhwVzkzZU5BQ05nQUdaVDdpeHI0VC1FWA?oc=5",
+   "published_utc": "2026-10-14T02:35:08+00:00",
+   "title_original": "China’s exports surge by 36% in September, riding wave of tech demand",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4b7db58dfc64e1cf"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6786,7 +6837,7 @@
    "id": "5cbe027ddd637764"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China imposes sanctions on Paraguay, Belize ministers over Taiwan ties",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
@@ -6800,7 +6851,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d2909c578f738bbe"
+   "id": "72ed6c39dd1c57d8"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51874,58 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "295002dd6e4da0d9"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Indonesian finance minister notified of his firing in mid-meeting call",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcTBQVnI5R0xlVnpDM0VWZHNoNVhFLUVIXzJ6VUFES2dZd0lVaWlQbGplcmpIT0htRDRtMU5SM1Ztc1RuNnp4VXB2dlljM1VYcUZ4NzNQMFUyT01XcDR4S1Q2WTJoN2dsV29fb1d3SDNoQlFNUmFMbkZyVGl4WEc5VnN0TVdjZW1ONHdBNnUxVkVoSjhLczJJcF92ZTFRQWJZNWgxb2hLLTh5cGlZV1FfbzVqOXgzdG9kRjhmYllmWlpVcnQtODUtZUFpTXJNOUV0WGtJdktn0gHWAUFVX3lxTE93UkQxMktwV1BkNUd4UUpUMXpaZFhEaXgtejNYbzlaU1BQZGxQUmRsRW53X1plaU9jVEc5YXNqTGlnRXhsWEFrQ1JOVUlkZ3AxMU5KUzN2TUdqcnZaZW9sejZiMEk2NjdGcjNnWUR0SXB5N1ZvTnVDQlNJelN0TXJPR2NqVUR6SWY2di1mWlRrM3ViQTU0MEo5ZXRfZ1UwbUZrMjR5ZHl0aGxIOVY3MTROOHRJemw2aE9FSkRQbnlmZUgtZTM1WHRiUF9vdkJoWVZmaGE2Nmc?oc=5",
-   "published_utc": "2026-09-15T07:31:11+00:00",
-   "title_original": "Indonesian finance minister notified of his firing in mid-meeting call",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5168262923ed16e9"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "DIGITIMES Insight: AI sends the semiconductor market toward US$1.6T, with memory doing the heavy lifting",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeVB2QUEyMk9FRVdPeXEwbHc5N05JYlRSbENCNEN6SXBCYlFOUGY1dm9ONzVuTzR3VGhxbjg0MW9EQWJpQzdraXlwa1pBaTF6QUJXQWlLaEtWaHA1dENxeUlVUnNTMXhKQzRsTmRSX2gzbkpPZWpZSjBWaEJGZFlWSXVoUHk4eWRaLUMwOGdMTlZVa0Ey?oc=5",
-   "published_utc": "2026-09-15T07:27:00+00:00",
-   "title_original": "DIGITIMES Insight: AI sends the semiconductor market toward US$1.6T, with memory doing the heavy lifting",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b06e3ea069c6464a"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "리드경제",
-   "title_en": "The Bank of Korea continues to raise the base interest rate to 3.00%... “Blocking the spread of prices”",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zWjVZc05HcWI1YWM2SDkteGdzVms2cWhKNWFmLV9ZejNwcF9nb3ZtWDMxa3REbVNVdkg0WjZ1ZzZaajdackpJTjRVYU1yZUNPUWl0eWJqUkt2OUhubUY2ZEp6d2kxazVObzlFc3Rtcw?oc=5",
-   "published_utc": "2026-09-15T07:06:00+00:00",
-   "title_original": "한은, 기준금리 3.00%로 연속 인상…\"물가 확산 차단\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4be8ca3f99564491"
   },
   {
    "source_id": "manual_ia",
