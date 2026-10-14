@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T10:12:43.967073+00:00
+Última coleta: 2026-10-14T10:22:43.474514+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1134
+  🇯🇵 Japão          1135
   🇨🇳 China          842
   🇹🇼 Taiwan         290
-  🇰🇷 Coreia do Sul  734
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [china] China resumes U.S. soybean buying with 8-10 cargoes after Trump-Xi summit - report
+  - [japan] [Win against inflation! Fun shareholder benefits] My head is full of benefits! Investor Akiyo Fujii / Benefits
   - [japan] Budget EVs attract attention at Paris Motor Show
   - [china] Chinese New Yuan Loans Slow as Expected
   - [china] China's New Yuan Loans Surged in September
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei gives up early gains as chip-related shares retreat after ASML earnings
   - [korea] (2nd LD) Seoul shares fall for 6th day on renewed AI concerns ahead of U.S. inflation data
   - [china] China's September exports soar, putting $1 trillion trade surplus in sight
-  - [korea] “After freezing this month, tightening again”...BOK sets base interest rate at 3.5% early next year
-  - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T10:12:44+00:00",
+      "published_utc": "2026-10-14T10:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
