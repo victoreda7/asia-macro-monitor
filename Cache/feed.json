@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T07:12:42.760394+00:00",
- "collected_at_utc": "2026-10-14T07:12:42.760394+00:00",
+ "generated_at_utc": "2026-10-14T07:22:46.000187+00:00",
+ "collected_at_utc": "2026-10-14T07:22:46.000187+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1134,
-  "china": 843,
+  "japan": 1135,
+  "china": 840,
   "taiwan": 293,
-  "korea": 730
+  "korea": 732
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T05:12:00+00:00"
+   "newest": "2026-10-14T05:39:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T06:22:00+00:00"
+   "newest": "2026-10-13T09:23:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 57,
+   "count": 60,
    "error": "",
-   "newest": "2026-10-14T12:00:18+08:00"
+   "newest": "2026-10-14T13:46:30+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T06:55:12+00:00"
+   "newest": "2026-10-14T07:12:18+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T04:10:40+00:00"
+   "newest": "2026-10-14T07:01:42+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-14T15:34:27+00:00"
+   "newest": "2026-10-14T16:13:37+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T07:12:00+00:00"
+   "newest": "2026-10-14T07:21:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T02:36:56+00:00"
+   "newest": "2026-10-14T05:39:28+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-14T05:51:34+00:00"
+   "newest": "2026-10-14T07:15:24+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T07:00:23+00:00"
+   "newest": "2026-10-14T07:03:44+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data",
+   "url": "https://www.koreaherald.com/article/10902641",
+   "published_utc": "2026-10-14T07:22:45.460640+00:00",
+   "title_original": "Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "df6c0e0f5fd063d0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "EQT Raises Tender Offer Price For Kakaku.Com Inc By 1 Yen To 3,682 Yen Apiece, Filing Shows",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45Z1R3:0-eqt-raises-tender-offer-price-for-kakaku-com-inc-by-1-yen-to-3-682-yen-apiece-filing-shows/",
+   "published_utc": "2026-10-14T07:19:07+00:00",
+   "title_original": "EQT Raises Tender Offer Price For Kakaku.Com Inc By 1 Yen To 3,682 Yen Apiece, Filing Shows",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "486673e4ded806a3"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -359,6 +393,24 @@
    "live_wire": true,
    "manual": false,
    "id": "b3acd5705b01bb29"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Dollar edges lower ahead of U.S. CPI; China data, Singapore GDP in focus",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-subdued-ahead-of-us-cpi-china-data-singapore-gdp-in-focus-4947972",
+   "published_utc": "2026-10-14T07:01:42+00:00",
+   "title_original": "Dollar edges lower ahead of U.S. CPI; China data, Singapore GDP in focus",
+   "region": "china",
+   "topics": [
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e0e37b2439ec31bc"
   },
   {
    "source_id": "tradingview_live",
@@ -498,6 +550,23 @@
    "live_wire": true,
    "manual": false,
    "id": "3bbd2b6b6f2d1bd9"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China’s Trade Surplus Nears $940 Billion as Export Growth Surges",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWVSSF96T3R5Ry1QeGlWQmFMV0dyLW9EYjNyek03QkZTOXlheVVvNW0xNVNSZ1F5RW84OERGS0RlLVhvdE9ON3d4eHQ5S3UtWml5Y3pTS0NaX00xSGV0UkVpS3YxY3ZidU80dHIzZVdrcmphYnhNcldOY0VvUlJNWWQ3eFNrb3pnNVdhQV9HY1FYZlVFUmVlb0diVmhZam1GaHVxcUxyRWhQajdnVkhlVk1iTEE?oc=5",
+   "published_utc": "2026-10-14T05:39:00+00:00",
+   "title_original": "China’s Trade Surplus Nears $940 Billion as Export Growth Surges",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "18f2a2dbc55bb6f0"
   },
   {
    "source_id": "tradingview_live",
@@ -810,24 +879,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1ca1aabfba6bf2c2"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Asia FX subdued ahead of U.S. CPI; China data, Singapore GDP in focus",
-   "url": "https://www.investing.com/news/forex-news/asia-fx-subdued-ahead-of-us-cpi-china-data-singapore-gdp-in-focus-4947972",
-   "published_utc": "2026-10-14T04:10:40+00:00",
-   "title_original": "Asia FX subdued ahead of U.S. CPI; China data, Singapore GDP in focus",
-   "region": "china",
-   "topics": [
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "47be6c0e31e99c27"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1190,23 +1241,6 @@
    "id": "0008c4e88a9eea76"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Chinese Exports Accelerate in September",
-   "url": "https://www.tradingview.com/news/DJN_DN20261013010309:0-chinese-exports-accelerate-in-september/",
-   "published_utc": "2026-10-14T02:44:00+00:00",
-   "title_original": "Chinese Exports Accelerate in September",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8ed25dcff7251cd9"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "China’s exports surge 36.3% y/y in September, imports up 31%",
@@ -1222,23 +1256,6 @@
    "live_wire": false,
    "manual": false,
    "id": "38ff92ee563aecad"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China’s Trade Surplus Nears $940 Billion as Export Growth Surges",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWVSSF96T3R5Ry1QeGlWQmFMV0dyLW9EYjNyek03QkZTOXlheVVvNW0xNVNSZ1F5RW84OERGS0RlLVhvdE9ON3d4eHQ5S3UtWml5Y3pTS0NaX00xSGV0UkVpS3YxY3ZidU80dHIzZVdrcmphYnhNcldOY0VvUlJNWWQ3eFNrb3pnNVdhQV9HY1FYZlVFUmVlb0diVmhZam1GaHVxcUxyRWhQajdnVkhlVk1iTEE?oc=5",
-   "published_utc": "2026-10-14T02:41:10+00:00",
-   "title_original": "China’s Trade Surplus Nears $940 Billion as Export Growth Surges",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "18f2a2dbc55bb6f0"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -2948,6 +2965,23 @@
    "live_wire": false,
    "manual": false,
    "id": "96b6d625c7876bb5"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Concerns over a supply-demand gap in the domestic stock market are growing as Samsung Electronics wr..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zWUx3Uk0wUEhXTjJxaEgtSWptTnpad29EV0ZQSGc5LTI1LVZDYllGSHBPSTdmZkZET0JYdWFhaW56NkNhZU9yRU03VXlaT1k?oc=5",
+   "published_utc": "2026-10-13T07:29:45+00:00",
+   "title_original": "Concerns over a supply-demand gap in the domestic stock market are growing as Samsung Electronics wr..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "643197eb866dd358"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -7634,8 +7668,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -7648,7 +7682,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -8597,8 +8631,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -8612,7 +8646,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -8803,8 +8837,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -8818,7 +8852,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -9689,8 +9723,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -9704,7 +9738,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51898,41 +51932,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6562839cf0cae138"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "reuters.com",
-   "title_en": "China tightens travel rules over tech security",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU9BOGpkbUk0UVhJRjlsRVNXdUZtNUw4ZGR4RGxqWW94OEF1T184SWh4bmhCX2hMTmJCa2dNZGpsSWlSOEhwaUtrUlVpUm5Nd3g1blU1UkxOZkU3MDhYQ2MyRUVMR1EyMXdPbzVFLW5SQ2pKcktpMmpLcl9PcDIyXzdhMERQcjd5X3gzUjFPcEdvandGSlg2aXFLZnZEcTBOV3ZWNVNZMA?oc=5",
-   "published_utc": "2026-09-15T04:04:39+00:00",
-   "title_original": "China tightens travel rules over tech security",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "baa2705da6c197b6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank announced that it will carry out a 500 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jUjRqVU95NHRwYUt2dmZjM29VckdqZVFTVFAzU1B1aFE1aTdVOFpXN0J3ZGdHelRCdlhXeXBmZ2pBbkNsamVzSDFXYi1RellaUy1Rem8zUnh4dy1yUEY0MA?oc=5",
-   "published_utc": "2026-09-15T04:02:26+00:00",
-   "title_original": "央行宣布，将开展5000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "73836c198726a914"
   },
   {
    "source_id": "manual_ia",

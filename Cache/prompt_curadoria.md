@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T07:12:42.760394+00:00
+Última coleta: 2026-10-14T07:22:46.000187+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1134
-  🇨🇳 China          843
+  🇯🇵 Japão          1135
+  🇨🇳 China          840
   🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  730
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
+  - [japan] EQT Raises Tender Offer Price For Kakaku.Com Inc By 1 Yen To 3,682 Yen Apiece, Filing Shows
   - [china] China Exports Growth Beats Expectations
+  - [china] Dollar edges lower ahead of U.S. CPI; China data, Singapore GDP in focus
   - [china] China inflation remains subdued as exports, imports beat forecasts
   - [china] China's Huajin Aramco project receives first Arabian crude shipment
   - [korea] South Korean shares end lower on caution ahead of US inflation data
@@ -26,6 +29,7 @@ Total: 3000 manchetes
   - [korea] Shin Hyun-song, “AI boom and Middle East war both put pressure on prices”... Signs that the interest rate hike
   - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
   - [japan] BOJ Could Shorten Rate-Hike Evaluation to Prevent Inflation Overshoot — Market Talk
+  - [china] China’s Trade Surplus Nears $940 Billion as Export Growth Surges
   - [japan] BOJ May Need to Accelerate Hikes to Reach Neutral Rate — Market Talk
   - [korea] Bank of Korea Governor Shin Hyun-song “AI investment and bad news in the Middle East stimulate prices… Respond
   - [china] Asian equities stabilize following Wall Street tech selloff; oil nears $95, China trade data beats
@@ -44,7 +48,6 @@ Total: 3000 manchetes
   - [china] Imported Inflation to Continue Shaping China's Headline Inflation — Market Talk
   - [china] China Inflation At 0.9%; PPI Inflation Highest Since 2022
   - [china] China's consumer prices rose 0.9% in September, a slight increase from the previous month, affected by persist
-  - [china] Asia FX subdued ahead of U.S. CPI; China data, Singapore GDP in focus
   - [china] China Consumer Price Index rose 0.9% in September, positive for 12 consecutive months; transportation fuel and
   - [china] Yuan gains as markets weigh China inflation, await US CPI
   - [korea] Bank of Korea Likely to Hold Rates Steady This Month — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan 10Y Yield Steadies on Cautious BOJ Outlook
   - [china] China's soybean imports fall 7.7% in September from a year earlier
   - [china] China's September exports blow past forecasts, imports accelerate
-  - [china] Offshore Yuan Trades Near Multi-Year High
-  - [taiwan] ASML, TSMC Report This Week: What Traders Are Watching After A 6-Day Chip Stock Slide
-  - [china] China's export engine hits fastest pace since February with 36% growth
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T07:12:43+00:00",
+      "published_utc": "2026-10-14T07:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
