@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T04:12:44.187528+00:00
+Última coleta: 2026-10-14T04:22:41.592666+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1132
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Asia FX subdued ahead of U.S. CPI; China data, Singapore GDP in focus
   - [china] China Consumer Price Index rose 0.9% in September, positive for 12 consecutive months; transportation fuel and
   - [china] Yuan gains as markets weigh China inflation, await US CPI
   - [korea] Bank of Korea Likely to Hold Rates Steady This Month — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launches 56 billion yuan 7-day reverse repurchase operation
   - [china] Announcement from the Central Bank: Launching a 56 billion yuan 7-day reverse repurchase operation. On October
   - [japan] NTT mulls building data center for Anthropic in Japan, to cost 1 tril. yen
-  - [china] China Sep Exports +29.6% on Year in Yuan Terms
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T04:12:44+00:00",
+      "published_utc": "2026-10-14T04:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
