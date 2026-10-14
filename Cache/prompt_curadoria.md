@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T12:12:42.537906+00:00
+Última coleta: 2026-10-14T12:22:45.320190+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1129
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [china] China Inflation Rises Marginally; PPI Inflation Strongest Since 2022
   - [japan] Yomiuri: Japan Publishes English-Language Booklet on PM Takaichi's Economic Policies
   - [japan] Euro/yen shorts on Japan investors' OAT sales overdone, say UBS
@@ -48,7 +49,6 @@ Total: 3000 manchetes
   - [china] Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15
   - [china] China willing to import more high-value products, premier says
   - [china] China producer inflation rises with increase in commodities; CPI falls below forecasts
-  - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [korea] South Korean minister rejects claim of W80b wasted on Brazilian egg imports
   - [china] China September new bank loans jump to 1.08 trillion yuan, above forecast
   - [korea] S. Korean finance minister departs for Bangkok to attend IMF, G20 ministerial meetings
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T12:12:42+00:00",
+      "published_utc": "2026-10-14T12:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
