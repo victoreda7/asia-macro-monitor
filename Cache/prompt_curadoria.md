@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T04:52:41.757223+00:00
+Última coleta: 2026-10-14T05:02:45.221887+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1131
-  🇨🇳 China          850
+  🇯🇵 Japão          1132
+  🇨🇳 China          848
   🇹🇼 Taiwan         296
-  🇰🇷 Coreia do Sul  723
+  🇰🇷 Coreia do Sul  724
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix looks beyond HBM to tackle AI memory bottlenecks
+  - [china] China's crude stocks slump despite slight rise in September import rate
+  - [china] China's September CPI rises 0.9% Y/Y, PPI accelerates to 5.0% above expectations
+  - [japan] Five-Year JGB Yield Pares Gains After Five-Year Auction Draws Solid Demand — Market Talk
   - [china] China's September trade surplus widens to $133.53B; exports up 36.3%, imports up 31.0%
   - [china] Chinese Exports Accelerated in September — Update
   - [china] Imported Inflation to Continue Shaping China's Headline Inflation — Market Talk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China Sep Trade Surplus CNY906B
   - [china] China Sep Exports +36.3% on Year; Expected +25.0%
   - [china] China Sep Imports +31.0% on Year; Expected +24.8%
-  - [china] CHINA JAN-SEP IMPORTS +22.3% Y/Y IN YUAN TERM: CUSTOMS
-  - [japan] Yen Weakens on Cautious BOJ Rate Outlook
-  - [taiwan] Taiwan's export boom shifts toward AI servers, raising concentration risks
-  - [china] Tencent to Raise Around $5.7 Billion From Dollar, Yuan Bonds
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T04:52:41+00:00",
+      "published_utc": "2026-10-14T05:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
