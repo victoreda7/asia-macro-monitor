@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T01:12:42.725929+00:00",
- "collected_at_utc": "2026-10-14T01:12:42.725929+00:00",
+ "generated_at_utc": "2026-10-14T01:22:46.145355+00:00",
+ "collected_at_utc": "2026-10-14T01:22:46.145355+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1137,
+  "japan": 1136,
   "china": 834,
   "taiwan": 299,
-  "korea": 730
+  "korea": 731
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T00:52:09+00:00"
+   "newest": "2026-10-14T01:12:18+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T00:44:00+00:00"
+   "newest": "2026-10-11T10:12:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-13T23:28:44+09:00"
+   "newest": "2026-10-14T10:13:09+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T01:01:56+00:00"
+   "newest": "2026-10-14T01:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK Hynix bounces in downtrend after support breach: Live levels",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
+   "published_utc": "2026-10-14T01:05:18+00:00",
+   "title_original": "SK Hynix bounces in downtrend after support breach: Live levels",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e84fa3ea5d9da284"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -1891,22 +1908,21 @@
    "id": "d34d092da7664bb6"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "SK Hynix in extreme oversold freefall near KRW 1,439,000: Live",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
-   "published_utc": "2026-10-13T05:08:49+00:00",
-   "title_original": "SK Hynix in extreme oversold freefall near KRW 1,439,000: Live",
+   "source_id": "gn_kr_bok",
+   "source_name": "핀포인트뉴스",
+   "title_en": "Due to the increase in the base interest rate, deposit interest rates also fluctuated... Competition among the top five banks heats up",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVTRRRDZRTTg0OE1DYi1VMXEzbTNRRV91aXZReG9wZmlON0J5bnJLUkJLdVk1S1dlbDZwcG1ONURnMVZWVmJtNVlaSzhnU1NRRWdabWtPb0RYQ01ubjZCUVNIUFdCa3p1cVZ6RzY1QlhUdUnSAXdBVV95cUxOdFN5enhOQlF6QWZxenVTcDJuZXdGVUNCQTRrdDV3dHZFTnB5S3B5NXBlWEwtR2V5YjF4b0U4RFUxU2VLUkZYbTFTdjFsbTNEdWlFNFU0UF9MejAxcEV5Yl9LdlljdVAwVUU2bm0tcUlqdzh3MmR6Yw?oc=5",
+   "published_utc": "2026-10-13T05:10:06+00:00",
+   "title_original": "기준금리 인상에 예금금리도 들썩…5대 은행 수신 경쟁 가열",
    "region": "korea",
    "topics": [
-    "fx",
-    "industrial"
+    "monetary"
    ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
    "manual": false,
-   "id": "54a211a52081af5c"
+   "id": "98fbd13ad2525508"
   },
   {
    "source_id": "gn_jp_investing",
@@ -5145,7 +5161,7 @@
    "id": "5cbe027ddd637764"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "China imposes sanctions on Paraguay, Belize ministers over Taiwan ties",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
@@ -5159,7 +5175,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "72ed6c39dd1c57d8"
+   "id": "d2909c578f738bbe"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -6338,8 +6354,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -6352,7 +6368,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -6610,6 +6626,24 @@
    "live_wire": false,
    "manual": false,
    "id": "3153f1118e19dd4d"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "Shin Hyun-song “Further increase in base interest rate, rising prices are the compass”",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EaUN1SERGM0FxRlhoaDl5d2FvTnZZUlBtSmYwQ3F5ejF1MGlKcHh4YjJIZ2U4aXppc2t2eFUtNmlJd0E3ODVBUVBWWHN2T3RsbkNYTXhTbG5tSHF1SjZWUTFPYw?oc=5",
+   "published_utc": "2026-10-10T06:50:02+00:00",
+   "title_original": "신현송 “기준금리 추가 인상, 물가 오름세가 나침반”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "44801d311d285a47"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -7300,8 +7334,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -7315,7 +7349,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -7506,8 +7540,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -7521,7 +7555,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -8392,8 +8426,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -8407,7 +8441,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51902,40 +51936,6 @@
    "live_wire": true,
    "manual": false,
    "id": "672ac94c35b4684c"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "데일리뉴스",
-   "title_en": "Bank of Korea maintains base interest rate at current level (1.50%)",
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOdV9qeURJQWRtX0FSSVRHOWV3NXMtUGtJREFpY3kzaHFGQ21KU3J2dHNrS3gxUktuLUxOdTFjMUFEWkhuRDIzNjJXRkhmMlpzak9XMUs2dm1BdkgtNGhLU3FDNS1aTVpFU2FDamhSdE5kanA1UUY5Nm9DZUhWSWoxcmJIU3AtUUd1UWJXRWdTUTVKQ21QU2ZkUkpWV3dOLXJ6MEpjRmdrQ2tMVW43Z0JYNUpiT2FnVjZkcW1jcVNRb0tfeXVQVWdCa2NKVnJISXAtNkVOTXRncENlRVI3d0g1RW0tR0R0YUJoaF9OY0xyY3dHNFdka04yLWpmSmVXWjhhR1lIWXE5VERWazVmbk5IU2gtdnY5ZVl4Ql9PSzI5U01WenotalAwWnRaZC0xYU5ZeTdF?oc=5",
-   "published_utc": "2026-09-14T07:40:00+00:00",
-   "title_original": "한국은행, 기준금리를 현 수준(1.50%)에서 유지",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "42c41cfb791a7b34"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asian stocks slide as AI slowdown fears deepen, oil surge lifts rate risks",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWXZoXzMtZUFtWDV0eGxZb3BhTW9WUkpIQnNQTlczaWltNjJ6TDd1dHJ3a2g0cGpiZ2F6OHFwOWUzb0ZsTDJoQzZlVVVReG1yWVZKYzhYUmxyN29DUVlIZk5QMWFWV0hPajJ2UlJTYmdmNUdkbXkyZlJqU1BQM3FWUGxzTFduNHNWRm4tdTl6M1k4djAxWVZrX19XclFEU291OF9UVXhxTlBfWWU3X2ltamxGM1BvRUpoTDNUUkNIelYwSE5pTTRYNA?oc=5",
-   "published_utc": "2026-09-14T07:27:10+00:00",
-   "title_original": "Asian stocks slide as AI slowdown fears deepen, oil surge lifts rate risks",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7e65eaaa92a5d74"
   },
   {
    "source_id": "manual_ia",

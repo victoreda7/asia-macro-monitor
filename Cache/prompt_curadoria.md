@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T01:12:42.725929+00:00
+Última coleta: 2026-10-14T01:22:46.145355+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1137
+  🇯🇵 Japão          1136
   🇨🇳 China          834
   🇹🇼 Taiwan         299
-  🇰🇷 Coreia do Sul  730
+  🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix bounces in downtrend after support breach: Live levels
   - [japan] Bank of Japan Accounts (October 10)
   - [japan] Nikkei Rises 0.3% on Possible Position Adjustments Before U.S. CPI Data — Market Talk
   - [china] Nantong Lianya To Sell 133.7 Mln Shares At 7 Yuan apiece in Shenzhen Listing
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] As import curbs loom, Chinese carmakers hard to miss at Paris Motor Show
   - [japan] Asia report: Nikkei, KOSPI post big losses as chipmakers drop
   - [korea] Hong Ra-hee to Gift 11.15 Million Samsung Electronics Shares to Lee Jae-yong
-  - [china] E-House (China) Enterprise Says Grand Court Of Cayman Islands Sanctions Cayman Scheme
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T01:12:42+00:00",
+      "published_utc": "2026-10-14T01:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
