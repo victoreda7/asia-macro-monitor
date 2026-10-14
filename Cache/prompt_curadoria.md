@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T04:32:43.790134+00:00
+Última coleta: 2026-10-14T04:42:44.137056+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1131
   🇨🇳 China          851
-  🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  721
+  🇹🇼 Taiwan         296
+  🇰🇷 Coreia do Sul  722
 
 ## O que já está no feed (não repita)
 
+  - [china] China's September trade surplus widens to $133.53B; exports up 36.3%, imports up 31.0%
   - [china] Chinese Exports Accelerated in September — Update
   - [china] Imported Inflation to Continue Shaping China's Headline Inflation — Market Talk
   - [china] China Inflation At 0.9%; PPI Inflation Highest Since 2022
+  - [china] China's consumer prices rose 0.9% in September, a slight increase from the previous month, affected by persist
   - [china] Asia FX subdued ahead of U.S. CPI; China data, Singapore GDP in focus
   - [china] China Consumer Price Index rose 0.9% in September, positive for 12 consecutive months; transportation fuel and
   - [china] Yuan gains as markets weigh China inflation, await US CPI
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's export boom shifts toward AI servers, raising concentration risks
   - [china] Tencent to Raise Around $5.7 Billion From Dollar, Yuan Bonds
   - [china] China's Inflation Data Reflect Subdued Demand, Supply Pressures — Market Talk
-  - [taiwan] Trump Says Taiwan to Buy Gas From Alaska LNG Export Project
-  - [korea] Most Asian currencies on backfoot; South Korean won strengthens
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T04:32:44+00:00",
+      "published_utc": "2026-10-14T04:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
