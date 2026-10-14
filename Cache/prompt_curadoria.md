@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T23:32:43.541078+00:00
+Última coleta: 2026-10-14T23:42:41.893572+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1130
@@ -33,13 +33,13 @@ Total: 3000 manchetes
   - [japan] GlobalFoundries options surge on $21B U.S.-Japan chip deal
   - [china] China’s Sept. Exports Surge 36.3% Amid AI Boom, Auto Export Rush
   - [korea] South Korean minister rejects claim of W80b wasted on Brazilian egg imports
-  - [china] Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15
   - [japan] PRES TRUMP POSTS: 'MASSIVE; $21 BLN INVESTMENT FINANCED BY JAPAN, SKOREA, TAIWAN TO BUILD TWO SEMICONDUCTOR FA
   - [taiwan] TSMC Earnings Will Surge but Terafab and Texas Talks Are in Focus — Barrons.com
   - [taiwan] Thursday preview: TSMC results, UK GDP in focus
   - [china] Micron Takes Another Hit as China Chip Fears Flare
   - [korea] ASML's Next Big Chipmaking Cycle Has a Timeline—Intel, Samsung and TSMC Set It
   - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
+  - [china] Germany to Push EU to Impose Caps on More Chinese Imports
   - [japan] Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries By Reuters
   - [china] Commentary: Why Gradual Yuan Appreciation Remains the Baseline
   - [japan] US consumer prices rise 3.7% in September; expectations for early interest rate hike rise somewhat
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T23:32:43+00:00",
+      "published_utc": "2026-10-14T23:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
