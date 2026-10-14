@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T05:22:43.658774+00:00
+Última coleta: 2026-10-14T05:32:43.861872+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1133
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [china] Asian equities stabilize following Wall Street tech selloff; oil nears $95, China trade data beats
   - [japan] Japan Bank Lending Remains Robust Despite BOJ Rate Hikes — Market Talk
+  - [china] China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag
   - [korea] SK hynix looks beyond HBM to tackle AI memory bottlenecks
   - [china] China's crude stocks slump despite slight rise in September import rate
   - [japan] How far will the Bank of Japan's interest rate hike be likely to exceed 2%? #Expert Topi (Koichi Fujishiro) - 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s exports surge 36.3% y/y in September, imports up 31%
   - [china] China’s Trade Surplus Nears $940 Billion as Export Growth Surges
   - [china] China’s Export Growth Hits Seven-Month High, Beats Forecasts
-  - [china] China Posts Biggest Trade Surplus in 20 Months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T05:22:43+00:00",
+      "published_utc": "2026-10-14T05:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
