@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T02:32:44.845277+00:00
+Última coleta: 2026-10-14T02:42:42.513689+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1134
@@ -33,6 +33,7 @@ Total: 3000 manchetes
   - [china] CHINA SEP PPI +1.2% M/M VS +0.4% M/M AUG
   - [china] CHINA SEP CPI +0.2% M/M VS +0.4% M/M AUG
   - [china] China's Consumer, Producer Prices Accelerated in September
+  - [china] China's September price rise of 0.9%, growth rate slightly expanding (Kyodo News)
   - [china] China Food Prices Fall for 6th Month
   - [china] China CPI inflation grows less than expected in Sept; PPI hits 4-yr high
   - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO WEDS
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's wafer-scale graphene breakthrough brings quantum rectifiers closer to semiconductor integration
   - [japan] Nikkei Rises 0.3% on Possible Position Adjustments Before U.S. CPI Data — Market Talk
   - [china] Nantong Lianya To Sell 133.7 Mln Shares At 7 Yuan apiece in Shenzhen Listing
-  - [korea] Key facts: Samsung Electronics (005930) 55% margin; Goldman Buy; fell
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T02:32:45+00:00",
+      "published_utc": "2026-10-14T02:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
