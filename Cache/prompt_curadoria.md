@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T05:12:42.354472+00:00
+Última coleta: 2026-10-14T05:22:43.658774+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1132
-  🇨🇳 China          848
+  🇯🇵 Japão          1133
+  🇨🇳 China          846
   🇹🇼 Taiwan         296
-  🇰🇷 Coreia do Sul  724
+  🇰🇷 Coreia do Sul  725
 
 ## O que já está no feed (não repita)
 
+  - [china] Asian equities stabilize following Wall Street tech selloff; oil nears $95, China trade data beats
+  - [japan] Japan Bank Lending Remains Robust Despite BOJ Rate Hikes — Market Talk
   - [korea] SK hynix looks beyond HBM to tackle AI memory bottlenecks
   - [china] China's crude stocks slump despite slight rise in September import rate
+  - [japan] How far will the Bank of Japan's interest rate hike be likely to exceed 2%? #Expert Topi (Koichi Fujishiro) - 
+  - [korea] South Korean Won Rises Near 2-Year High
   - [china] China's September CPI rises 0.9% Y/Y, PPI accelerates to 5.0% above expectations
   - [japan] Five-Year JGB Yield Pares Gains After Five-Year Auction Draws Solid Demand — Market Talk
   - [china] China's September trade surplus widens to $133.53B; exports up 36.3%, imports up 31.0%
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Trade Surplus Nears $940 Billion as Export Growth Surges
   - [china] China’s Export Growth Hits Seven-Month High, Beats Forecasts
   - [china] China Posts Biggest Trade Surplus in 20 Months
-  - [china] China Sep Trade Surplus $133.5B; Expected Surplus $111.4B
-  - [china] China Sep Trade Surplus CNY906B
-  - [china] China Sep Exports +36.3% on Year; Expected +25.0%
-  - [china] China Sep Imports +31.0% on Year; Expected +24.8%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T05:12:42+00:00",
+      "published_utc": "2026-10-14T05:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
