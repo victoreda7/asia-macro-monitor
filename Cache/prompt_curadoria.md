@@ -7,23 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T08:22:42.464918+00:00
+Última coleta: 2026-10-14T08:32:44.746590+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
-  🇨🇳 China          831
+  🇨🇳 China          830
   🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  739
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
   - [korea] BOK chief stresses need to curb inflation amid AI boom, Mideast crisis
+  - [china] EU-China deal on hybrid cars not addressing rising imports of car parts from China, FIEV says
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [china] Gemdale's September Contract Sales Down 30.5% Y/Y To 1.6 Billion Yuan
   - [korea] Samsung, SK Hynix Face Pressure to Boost Shareholder Returns — Market Talk
   - [korea] Citi and Morgan Stanley "Bank of Korea base interest rate... expected to freeze in October and increase in Nov
   - [japan] Consumption tax reduction bill proposed by ruling party to be deliberated on 20th Opposition party to clarify 
   - [korea] Citi: “The Bank of Korea will raise interest rates in November after a hawkish freeze in October… up to 3.5% n
+  - [taiwan] TSMC: $80B swing — do margins justify AI premium?
   - [japan] Nikkei gives up early gains as chip-related shares retreat after ASML earnings
   - [korea] (2nd LD) Seoul shares fall for 6th day on renewed AI concerns ahead of U.S. inflation data
   - [china] China's September exports soar, putting $1 trillion trade surplus in sight
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Five-Year JGB Yield Pares Gains After Five-Year Auction Draws Solid Demand — Market Talk
   - [china] China's September trade surplus widens to $133.53B; exports up 36.3%, imports up 31.0%
   - [china] Chinese Exports Accelerated in September — Update
-  - [china] China’s exports surge more than 36% in September amid tech demand, holiday rush
-  - [china] Imported Inflation to Continue Shaping China's Headline Inflation — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T08:22:42+00:00",
+      "published_utc": "2026-10-14T08:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
