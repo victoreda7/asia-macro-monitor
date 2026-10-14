@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T10:22:43.474514+00:00",
- "collected_at_utc": "2026-10-14T10:22:43.474514+00:00",
+ "generated_at_utc": "2026-10-14T10:32:45.034462+00:00",
+ "collected_at_utc": "2026-10-14T10:32:45.034462+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1135,
-  "china": 842,
+  "china": 843,
   "taiwan": 290,
-  "korea": 733
+  "korea": 732
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T10:04:28+00:00"
+   "newest": "2026-10-14T10:25:35+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T10:06:34+00:00"
+   "newest": "2026-10-14T10:24:59+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T18:53:43+09:00"
+   "newest": "2026-10-14T19:26:33+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T10:22:20+00:00"
+   "newest": "2026-10-14T10:32:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "IMF calls for deficit reduction in the US and for China to reduce dependence on exports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4600OS:0/",
+   "published_utc": "2026-10-14T10:26:25+00:00",
+   "title_original": "FMI pede redução do déficit nos EUA e que China diminua dependência das exportações",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "c21120940a9575ca"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -1447,23 +1465,6 @@
    "id": "98c9796c8615cd1f"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korean Won Rises Near 2-Year High",
-   "url": "https://www.tradingview.com/news/te_news:591752:0-south-korean-won-rises-near-2-year-high/",
-   "published_utc": "2026-10-14T04:57:45+00:00",
-   "title_original": "South Korean Won Rises Near 2-Year High",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "045e3ad9486a590a"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "Hong Kong’s Clearing Bank Gains New Funding Access in Yuan Push",
@@ -1828,7 +1829,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged at 1.40%",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKUE5OTlIwUldoSlY3ckxSYzgtTnQ4d21IQjVPNXZ4NTdBZGFCb2Z6Z3Jadm9ib3NDWWVVX1FrbFhTdXE0bkt5NTRjaWl4UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Xa1JWejVEall0bTNybXI2V2ZiaVZpUG50X1dON2owNm9NTVAtVE10SE11NHNBNWZSTWpmTk9welpBdFg0ZWpKT3hCNHNZWXdSQ09PNUhrVlk1YnZkM3RNOG53?oc=5",
    "published_utc": "2026-10-14T02:03:28+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 利率1.40%持平",
    "region": "china",
@@ -1840,7 +1841,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "563552a745d8dbb4"
+   "id": "551d98007892a700"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -8528,23 +8529,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "经济观察网",
-   "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 10 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SM1JXODlYM04ycnR1YVZCYmQyZ2xpaUMwbHhHSWVlY2M4QXQ4ZGh0dmRNX2hwclp1b1VpX0F2cEp3bTVKRlpyeDYzUFBEWlI1TW1US1pBb18?oc=5",
-   "published_utc": "2026-10-10T04:41:42+00:00",
-   "title_original": "央行10月10日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "526678d7f692aa66"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
    "title_en": "Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's Bank of China | Mortgage supplementary loans | Central Bank | Liquidity | Reverse repurchase",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWFpTR2pmcWtqX2lmc3U0RGxKTU12RW96cERlMnZ2Y29OVEFVcFpsR25RRGExaVo5d0N6WjdpOUJrWk1aT1ZLLUZ5WlZfaHBrbkNxNzNOek9JelJZWUVCMlBXNWw5WVVkUVktVW04Ym5MeE1hWVFIWGlON3JSVjlqMWd6bkU5M0QxS1E?oc=5",
@@ -8614,6 +8598,23 @@
    "live_wire": false,
    "manual": false,
    "id": "63719e4e3204da4b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 10 was zero",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93ZnpxQVJtcjdmMG0zNHcxZVFhbzdJZC0wUXV4R0JJV2YwVEtWLWF0SGlNTmtQRHo2X0pYaXUzWmtwbEhqdFpMeElVeW1qX0FEUFE?oc=5",
+   "published_utc": "2026-10-10T01:33:19+00:00",
+   "title_original": "央行10月10日7天期逆回购操作量为零",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "248cbeb1edc358c9"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -41777,7 +41778,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "China's State Council appoints, removes officials",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41TzR0djZ2SlhwdVRwU1ROQzUyWXZ0XzRJOFBRM1ZkYVRtTjVGYlRIQXpoaEVGSk1PRUFBU1BPVUVGQ0RNWGptY2RkcFYtZldvWHdka2p3czhMa0NxTWI5ZDUzZ2JLbERuN3pXNWFvR0F2dmJLQTJZWmYtdmU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTmlyOHpLQ0syMGZkV2FEeVp1b0JfOGhQbVR1TURQeFd5Q1ZDejRQNHkzcy1lWkhBb2hoZ1BJd2R0alI3MXpkVWtjTEhhTXloRTZYRV9MVDJVOXlXUWJmOXl4NC0xOXRFLXFkelRWYlZnMUVkNkM0b0x3OXY?oc=5",
    "published_utc": "2026-09-20T07:00:00+00:00",
    "title_original": "China's State Council appoints, removes officials",
    "region": "china",
@@ -41788,7 +41789,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "a9e1d371dc495058"
+   "id": "ef76b618f8a00d28"
   },
   {
    "source_id": "investing_econ",
@@ -45098,7 +45099,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
    "title_original": "Chinese premier chairs State Council executive meeting",
    "region": "china",
@@ -45109,7 +45110,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9e62f309accc3d17"
+   "id": "ac5c93c1746a6f36"
   },
   {
    "source_id": "gn_tw_focus",
