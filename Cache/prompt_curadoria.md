@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T07:42:42.692365+00:00
+Última coleta: 2026-10-14T07:52:45.675170+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1136
-  🇨🇳 China          838
-  🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  733
+  🇯🇵 Japão          1137
+  🇨🇳 China          837
+  🇹🇼 Taiwan         292
+  🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill proposed by ruling party to be deliberated on 20th Opposition party to clarify 
   - [japan] Nikkei gives up early gains as chip-related shares retreat after ASML earnings
   - [china] China's September exports soar, putting $1 trillion trade surplus in sight
   - [korea] “After freezing this month, tightening again”...BOK sets base interest rate at 3.5% early next year
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea Likely to Hold Rates Steady This Month — Market Talk
   - [taiwan] TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups
   - [china] China September iron ore imports rise on pre-holiday restocking
-  - [korea] Shin Hyun-song's first National Assembly inspection, "Monetary policy unwavering"... Base interest rate 3.0%, 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T07:42:42+00:00",
+      "published_utc": "2026-10-14T07:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

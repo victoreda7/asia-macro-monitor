@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T07:42:42.692365+00:00",
- "collected_at_utc": "2026-10-14T07:42:42.692365+00:00",
+ "generated_at_utc": "2026-10-14T07:52:45.675170+00:00",
+ "collected_at_utc": "2026-10-14T07:52:45.675170+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1136,
-  "china": 838,
-  "taiwan": 293,
-  "korea": 733
+  "japan": 1137,
+  "china": 837,
+  "taiwan": 292,
+  "korea": 734
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T07:00:00+00:00"
+   "newest": "2026-10-14T07:04:15+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T16:10:47+09:00"
+   "newest": "2026-10-14T16:46:23+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T05:48:00+00:00"
+   "newest": "2026-10-14T06:21:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T05:15:00+00:00"
+   "newest": "2026-10-14T06:31:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T07:41:38+00:00"
+   "newest": "2026-10-14T07:50:47+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T06:45:31+00:00"
+   "newest": "2026-10-14T07:44:19+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-14T07:15:24+00:00"
+   "newest": "2026-10-14T07:50:23+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T07:14:57+00:00"
+   "newest": "2026-10-14T07:32:53+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill proposed by ruling party to be deliberated on 20th Opposition party to clarify recipients of support funds",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261014de59229",
+   "published_utc": "2026-10-14T07:46:23+00:00",
+   "title_original": "消費税減税法案 与党20日審議入り提案 野党 支援金対象明示を",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4ecc968031dd6ded"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1344,6 +1362,23 @@
    "id": "38eda1b1224c1206"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China’s Producer Prices Jolted by Oil as Inflation Rebounds",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1dERlVieFVVeXBPSzJJVHU0TXJETVlLU1VpUVFaMWV0SzBzWnJXaDVIZHZ1cU9xTnZIdzJYN3lpdG5OMFdOUUIxTTBUOVRnVGsxRmNvcTVqQWtmemtOR010TFh6YzVKeTlsWGQ0WG1BOTJhc25fYmMzUkFpUmRNNUdRMEFUNFZwUEt2SEVrbzl0c3RGU3pXTm5BbHZhNmEyTWY1dEJwRDlHMUJ1RHR3VGxEb2U?oc=5",
+   "published_utc": "2026-10-14T02:12:00+00:00",
+   "title_original": "China’s Producer Prices Jolted by Oil as Inflation Rebounds",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "27868e7fd95c7490"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "搜狐",
    "title_en": "Announcement from the Central Bank: Launching a 56 billion yuan 7-day reverse repurchase operation. On October 14, the People's Bank of China launched a 56 billion yuan 7-day reverse repurchase operation using a fixed interest rate and quantity bidding method, fully meeting the needs of primary dealers. #reverserepo #central bank",
@@ -1518,23 +1553,6 @@
    "live_wire": false,
    "manual": false,
    "id": "98b79d54a87081b4"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China’s Producer Prices Jolted by Oil as Inflation Rebounds",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1dERlVieFVVeXBPSzJJVHU0TXJETVlLU1VpUVFaMWV0SzBzWnJXaDVIZHZ1cU9xTnZIdzJYN3lpdG5OMFdOUUIxTTBUOVRnVGsxRmNvcTVqQWtmemtOR010TFh6YzVKeTlsWGQ0WG1BOTJhc25fYmMzUkFpUmRNNUdRMEFUNFZwUEt2SEVrbzl0c3RGU3pXTm5BbHZhNmEyTWY1dEJwRDlHMUJ1RHR3VGxEb2U?oc=5",
-   "published_utc": "2026-10-14T01:32:00+00:00",
-   "title_original": "China’s Producer Prices Jolted by Oil as Inflation Rebounds",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "27868e7fd95c7490"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -2258,6 +2276,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6de17fb22a3ddab0"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "BOK Governor Backs Further Won Gains, Vows to Keep Policy Tight",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYV9ZTldxT3ZMRXR0MWVodjd2UE1wN1RwUFNnZGVheTI2SkRYTVl4elpCVUFJUDluSzNkaVdxRmg2TFhGeUlqN2xleFlvY3hPUzVEcnJVa1pWNWhGdDZLZkh0MVdla09BZDFyRGdTZXg4M0xZY1JxaTZIbHlvb0NrbXQ0YXNiZ0txZDQ2c25ZWk13YXZoZ2t1NUZyc05Xa3VXdGZ4cGFIOHphVmdFRVV0VWdsdw?oc=5",
+   "published_utc": "2026-10-13T10:49:50+00:00",
+   "title_original": "BOK Governor Backs Further Won Gains, Vows to Keep Policy Tight",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a49ee6df2beec0a2"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5761,6 +5797,23 @@
    "live_wire": false,
    "manual": false,
    "id": "60f6c3661c0ed83a"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "South African rand steady as Middle East conflict, US inflation test sentiment",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMGVkYUNocG1SeDF2RUNPMGtnTHBrTG1VM09LMjVhMmNPRmxZY3BXamZqOXJFcVh4T2RjZG8xbkpSS1lFRm16QXlEWkR0ay04SVNYdGs3QVEwQWEzRGhWWExUa3lUNkFReENVX2s5ejdrZTFpM0U3TVZIWV9CS0w3WXBHQTdTSE9QLUZEQ1hlNkExeFlxbmxzTnZ3d3NNMGwtRHJSSG80RlNOdjZPQThlX1REZVZTS3dZTWhZRm1aSV8?oc=5",
+   "published_utc": "2026-10-12T06:51:00+00:00",
+   "title_original": "South African rand steady as Middle East conflict, US inflation test sentiment",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a2d8044dd5b89b51"
   },
   {
    "source_id": "investing_live",
@@ -41209,7 +41262,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "China's State Council appoints, removes officials",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTmlyOHpLQ0syMGZkV2FEeVp1b0JfOGhQbVR1TURQeFd5Q1ZDejRQNHkzcy1lWkhBb2hoZ1BJd2R0alI3MXpkVWtjTEhhTXloRTZYRV9MVDJVOXlXUWJmOXl4NC0xOXRFLXFkelRWYlZnMUVkNkM0b0x3OXY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41TzR0djZ2SlhwdVRwU1ROQzUyWXZ0XzRJOFBRM1ZkYVRtTjVGYlRIQXpoaEVGSk1PRUFBU1BPVUVGQ0RNWGptY2RkcFYtZldvWHdka2p3czhMa0NxTWI5ZDUzZ2JLbERuN3pXNWFvR0F2dmJLQTJZWmYtdmU?oc=5",
    "published_utc": "2026-09-20T07:00:00+00:00",
    "title_original": "China's State Council appoints, removes officials",
    "region": "china",
@@ -41220,7 +41273,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ef76b618f8a00d28"
+   "id": "a9e1d371dc495058"
   },
   {
    "source_id": "investing_econ",
@@ -44530,7 +44583,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
    "title_original": "Chinese premier chairs State Council executive meeting",
    "region": "china",
@@ -44541,11 +44594,11 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ac5c93c1746a6f36"
+   "id": "9e62f309accc3d17"
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
+   "source_name": "Focus Taiwan - CNA English News",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -51880,58 +51933,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0f2ccdcc72f5417a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "KOSPI vs Nikkei: apostas em IA na Ásia se rompem antes do Fed e do BOJ",
-   "url": "https://www.tradingview.com/news/invezz:ca8182f25bc81:0/",
-   "published_utc": "2026-09-15T04:56:35+00:00",
-   "title_original": "KOSPI vs Nikkei: apostas em IA na Ásia se rompem antes do Fed e do BOJ",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2927a35b8caee74f"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "China’s PBOC Strengthens Yuan Fix Ahead of Trump-Xi Summit",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmJDLUNpUWZ4d0t6QWhLdU9tVVhNSzROT2syZ1FiOG1LUmNWaUVxeFpnOThsNzZ2MDRSMEhyQWJWVlFQZXVUZmFKUVdWZmZVQ1A0YWpPNlNaeXl2US1YeDJ0ODNfbDR3eUVTc1FLQnF5REtwM2xMaFM5ZFlBTktvTG1jRmNvaE42XzFGRXE5TmRiaTg4RXRQdzdwV19GUE9RN2t0WUZSam9Fb0FFOVE?oc=5",
-   "published_utc": "2026-09-15T04:31:00+00:00",
-   "title_original": "China’s PBOC Strengthens Yuan Fix Ahead of Trump-Xi Summit",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5b21bf0672874be1"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Construction of TSMC fab in Germany on track: ESMC president",
-   "url": "https://focustaiwan.tw/business/202609150007",
-   "published_utc": "2026-09-15T04:29:20+00:00",
-   "title_original": "Construction of TSMC fab in Germany on track: ESMC president",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6562839cf0cae138"
   },
   {
    "source_id": "manual_ia",
