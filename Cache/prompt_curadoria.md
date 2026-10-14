@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T14:42:44.801493+00:00
+Última coleta: 2026-10-14T14:52:45.342558+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1134
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports
   - [china] Central Bank, latest release! The increase in social financing in the first three quarters exceeded 27 trillio
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21 Billion Backing Under U.S.-Japan Deal — Update
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update
@@ -37,7 +38,6 @@ Total: 3000 manchetes
   - [china] MAC accuses Beijing of election interference over Puma Shen family firm sanctions
   - [taiwan] What analysts are watching with key semiconductor maker TSMC set to report results
   - [china] India’s Russian crude imports fall 29% from July peak as China boosts buying
-  - [china] IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports
   - [taiwan] Lai calls for progress on unsigned Taiwan-Canada trade framework
   - [china] China buys 8-10 cargoes of US soybeans after Trump-Xi summit: sources
   - [china] China's soybean imports fall 7.7% in September compared to the previous year
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T14:42:45+00:00",
+      "published_utc": "2026-10-14T14:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
