@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T06:42:44.479340+00:00
+Última coleta: 2026-10-14T06:52:43.288076+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1135
-  🇨🇳 China          844
+  🇯🇵 Japão          1134
+  🇨🇳 China          843
   🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  728
+  🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean shares end lower on caution ahead of US inflation data
+  - [korea] Real estate project financing (PF) guarantees supported by the government to revitalize the private
   - [japan] Daito Pharmaceutical Co Ltd - To Buy Back Up To 4.4% Of Own Shares Worth 2 Billion Yen
   - [korea] Shin Hyun-song, “AI boom and Middle East war both put pressure on prices”... Signs that the interest rate hike
   - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China's September coal imports fall 6%
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase on October 14
   - [china] China's export engine steams ahead with September shipments up 36%
-  - [korea] Gold prices hold firm ahead of US inflation data
-  - [china] China September rare earth exports rise 6.7% from a year earlier
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T06:42:44+00:00",
+      "published_utc": "2026-10-14T06:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
