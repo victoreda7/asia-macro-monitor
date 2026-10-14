@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-14T07:52:45.675170+00:00",
- "collected_at_utc": "2026-10-14T07:52:45.675170+00:00",
+ "generated_at_utc": "2026-10-14T08:02:44.194771+00:00",
+ "collected_at_utc": "2026-10-14T08:02:44.194771+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1137,
-  "china": 837,
-  "taiwan": 292,
-  "korea": 734
+  "china": 832,
+  "taiwan": 293,
+  "korea": 738
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 50,
+   "count": 51,
    "error": "",
-   "newest": "2026-10-14T10:00:00+09:00"
+   "newest": "2026-10-14T17:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T07:31:17+00:00"
+   "newest": "2026-10-14T07:52:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T07:01:42+00:00"
+   "newest": "2026-10-14T07:48:17+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-14T16:13:37+00:00"
+   "newest": "2026-10-14T17:00:00+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T07:50:47+00:00"
+   "newest": "2026-10-14T08:01:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T23:30:22+00:00"
+   "newest": "2026-10-14T07:36:58+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,78 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T07:31:40+00:00"
+   "newest": "2026-10-14T07:53:28+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Japanese Government Bonds Held by the Bank of Japan",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
+   "published_utc": "2026-10-14T08:00:00+00:00",
+   "title_original": "Japanese Government Bonds Held by the Bank of Japan",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "02bfe7f669b4f3e3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Gemdale's September Contract Sales Down 30.5% Y/Y To 1.6 Billion Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4600L0:0-gemdale-s-september-contract-sales-down-30-5-y-y-to-1-6-billion-yuan/",
+   "published_utc": "2026-10-14T07:57:18+00:00",
+   "title_original": "Gemdale's September Contract Sales Down 30.5% Y/Y To 1.6 Billion Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bbe0f6c5bc7401a8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Samsung, SK Hynix Face Pressure to Boost Shareholder Returns — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261014001551:0-samsung-sk-hynix-face-pressure-to-boost-shareholder-returns-market-talk/",
+   "published_utc": "2026-10-14T07:57:00+00:00",
+   "title_original": "Samsung, SK Hynix Face Pressure to Boost Shareholder Returns — Market Talk",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9e807fe5f6acc388"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "파이낸셜포스트",
+   "title_en": "Citi and Morgan Stanley \"Bank of Korea base interest rate... expected to freeze in October and increase in November\"",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZdW03eDNWMWRxbkNfekhhQVBXOG5mdjBUenB0X01MQUJGVHhTaEpFZ3VkU29rbzRkY1RjZDNVSk9QS0NaOHpNeG9mSzJ1R1RrMWVOSG1HdjVNcGdHdHVFSXdocDVHN25tRml5SXBTVEhjdWYt?oc=5",
+   "published_utc": "2026-10-14T07:53:28+00:00",
+   "title_original": "씨티·모건스탠리 \"한국은행 기준금리...10월은 동결, 11월 인상 전망\"",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b82ba34d8e9ec3d"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -362,6 +430,23 @@
    "id": "4ecc968031dd6ded"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "마켓인",
+   "title_en": "Citi: “The Bank of Korea will raise interest rates in November after a hawkish freeze in October… up to 3.5% next year.”",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GTGw2ZGRvNmRhX1Y5T1FmbXJ0T1FJWUNoR0pfR0s1MGtmUDYzLVQwRTFjZjNXdUNyXzJCWm94NVVidXl6R2xSQlZJeHVuMENteEY0Z1hUZXV1emFyRGNWaGhYZk1BQXJBWl9hOXpVa09iYjA?oc=5",
+   "published_utc": "2026-10-14T07:41:31+00:00",
+   "title_original": "씨티 \"한은, 10월 매파적 동결 후 11월 금리인상…내년 3.5%까지\"",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "127138b2142c9182"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Nikkei gives up early gains as chip-related shares retreat after ASML earnings",
@@ -377,6 +462,23 @@
    "live_wire": true,
    "manual": false,
    "id": "1afd16877ee18733"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(2nd LD) Seoul shares fall for 6th day on renewed AI concerns ahead of U.S. inflation data",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aajJpbHlaNmZjRjI2T1paNHFjQ3RabzZLTl9RNjI1VThWS0kyOXp0cmstZEJlOXF6T3JJUVR6WmVaWmlmTUpjTHVqaE1pNGdDVFk2VkxWZG9sUQ?oc=5",
+   "published_utc": "2026-10-14T07:36:58+00:00",
+   "title_original": "(2nd LD) Seoul shares fall for 6th day on renewed AI concerns ahead of U.S. inflation data",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "172e77c048cae483"
   },
   {
    "source_id": "tradingview_live",
@@ -780,7 +882,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Governor of the Bank of Korea: “Korea’s economy is clearly shaped like a K… inflation must be lowered through monetary policy”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tMzhJMUNlTTRMVDZiNDQydzcwTDhWOHMzbWo1bUNvRWtmYmszc1RYeGh1WEMxYTRNZHlQNU5uZG1lY2xxNHl1ZW12aUZiRjUzS3BFcC1UZ1V0Y2RQQVR5VdIBYEFVX3lxTE9tMzhJMUNlTTRMVDZiNDQydzcwTDhWOHMzbWo1bUNvRWtmYmszc1RYeGh1WEMxYTRNZHlQNU5uZG1lY2xxNHl1ZW12aUZiRjUzS3BFcC1UZ1V0Y2RQQVR5VQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sa29jNm9qbWRhZW9EZWxxdTZBTkhOVWFLQ0s3TENXMldGc0hkUzFLZHh1S2NUeS1uNjJpSnVQRW9iaHFsa1dsTjlFaWVSOGRTczhFam5DVlFjWknSAWBBVV95cUxPbTM4STFDZU00TFQ2YjQ0Mnc3MEw4VjhzM21qNW1Db0VrZmJrM3NUWHhodVhDMWE0TWR5UDVObmRtZWNscTR5dWVtdmlGYkY1M0twRXAtVGdVdGNkUEFUeVU?oc=5",
    "published_utc": "2026-10-14T04:59:16+00:00",
    "title_original": "한은 총재 \"한국 경제 K자형 뚜렷…통화정책으로 물가 낮춰야\"",
    "region": "korea",
@@ -793,7 +895,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fe533b6daf98d588"
+   "id": "95d674e87a56eb8f"
   },
   {
    "source_id": "tradingview_live",
@@ -1156,23 +1258,6 @@
    "id": "7708bae770e5aa59"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's September coal imports fall 6%",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46008J:0-china-s-september-coal-imports-fall-6/",
-   "published_utc": "2026-10-14T03:21:48+00:00",
-   "title_original": "China's September coal imports fall 6%",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b465ddbfa26ef072"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase on October 14",
@@ -1223,23 +1308,6 @@
    "live_wire": false,
    "manual": false,
    "id": "52cc44c8e9df88eb"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China September rare earth exports rise 6.7% from a year earlier",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N460084:0-china-september-rare-earth-exports-rise-6-7-from-a-year-earlier/",
-   "published_utc": "2026-10-14T03:01:23+00:00",
-   "title_original": "China September rare earth exports rise 6.7% from a year earlier",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fa1dbb90adc4656d"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1501,6 +1569,23 @@
    "live_wire": false,
    "manual": false,
    "id": "421d89a0e82b1eb7"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: NTT mulls building data center for Anthropic in Japan, to cost 1 tril. yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NR0FlNnZsRnZGT3dzRDc4cFZLalZ4OVBCRmRWTjNERThEcHJkbUdseS1wakQ2azRrZW1ldllzS2ZJVkd1TmpSTEcxLTRTSGxSWDVJODBMWm90Zw?oc=5",
+   "published_utc": "2026-10-14T01:46:00+00:00",
+   "title_original": "BREAKING NEWS: NTT mulls building data center for Anthropic in Japan, to cost 1 tril. yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b0da8feb70df85ea"
   },
   {
    "source_id": "investing_live",
@@ -1931,6 +2016,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ba331fa12460c0f4"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "Investment deal with Poland on agenda: minister",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyM1hnQ0N3MUI2dTlQV3c0TlJFV1BRZlNQMVdUUGZmQXkyeTZmeTdFZ2c2emh4d1REM2d6dURkMGtzM0YtbmI4UVNxZllwSkpKTWlSVkVXN0plTWtrRldMdmtlLVRXeWNISlQ5ODk5cWpkaGV0OFFXRkln?oc=5",
+   "published_utc": "2026-10-13T16:00:00+00:00",
+   "title_original": "Investment deal with Poland on agenda: minister",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "90e1a0c312e093fd"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -7721,8 +7823,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -7735,7 +7837,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -8684,8 +8786,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -8699,7 +8801,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -8890,8 +8992,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -8905,7 +9007,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -9776,8 +9878,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -9791,7 +9893,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ce3202512391394e"
+   "id": "b32a7abd3b9116e5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -19550,23 +19652,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1c307fe313ac1af2"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260930.xlsx",
-   "published_utc": "2026-10-02T08:00:00+00:00",
-   "title_original": "Japanese Government Bonds Held by the Bank of Japan",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7a4a222d71d5ef90"
   },
   {
    "source_id": "gn_kr_mk",
@@ -41262,7 +41347,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "China's State Council appoints, removes officials",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41TzR0djZ2SlhwdVRwU1ROQzUyWXZ0XzRJOFBRM1ZkYVRtTjVGYlRIQXpoaEVGSk1PRUFBU1BPVUVGQ0RNWGptY2RkcFYtZldvWHdka2p3czhMa0NxTWI5ZDUzZ2JLbERuN3pXNWFvR0F2dmJLQTJZWmYtdmU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTmlyOHpLQ0syMGZkV2FEeVp1b0JfOGhQbVR1TURQeFd5Q1ZDejRQNHkzcy1lWkhBb2hoZ1BJd2R0alI3MXpkVWtjTEhhTXloRTZYRV9MVDJVOXlXUWJmOXl4NC0xOXRFLXFkelRWYlZnMUVkNkM0b0x3OXY?oc=5",
    "published_utc": "2026-09-20T07:00:00+00:00",
    "title_original": "China's State Council appoints, removes officials",
    "region": "china",
@@ -41273,7 +41358,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "a9e1d371dc495058"
+   "id": "ef76b618f8a00d28"
   },
   {
    "source_id": "investing_econ",
@@ -44583,7 +44668,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
    "title_original": "Chinese premier chairs State Council executive meeting",
    "region": "china",
@@ -44594,11 +44679,11 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9e62f309accc3d17"
+   "id": "ac5c93c1746a6f36"
   },
   {
    "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan - CNA English News",
+   "source_name": "Focus Taiwan",
    "title_en": "Taiwan freezes electricity rates to support economy",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
@@ -51847,92 +51932,6 @@
    "live_wire": true,
    "manual": false,
    "id": "044845f32db45d67"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Tech boom powers China’s factories but economic imbalances deepen as consumption slows",
-   "url": "https://www.investing.com/news/economy-news/chinas-factory-output-growth-quickensin-august-retail-sales-slow-4900734",
-   "published_utc": "2026-09-15T06:00:29+00:00",
-   "title_original": "Tech boom powers China’s factories but economic imbalances deepen as consumption slows",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "25e1c116d3aa04f9"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "mrjjxw.com",
-   "title_en": "The central bank launched a 500 billion yuan reverse repurchase operation today. Experts: Macroeconomic policies will make further efforts to stabilize growth.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTTJVVnVZaDdaZzZmQ0tRUFUzZy1rcDBYQnNTYXEwYU1ja25JeXllUl9QY2Q0bnJycklzOURXWkhvSE1EZ2VkLWl4M09SaDEtdVdwLXJUdVNabkxLeWNLNkctWG1CZw?oc=5",
-   "published_utc": "2026-09-15T05:55:06+00:00",
-   "title_original": "央行今日开展买断式逆回购操作5000亿元 专家：宏观政策将向稳增长方向进一步发力",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bd61ec966bdbda74"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Japan releases data on non-residents' real estate | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85enBTbkF1U3oyZENST1VRbFpTLTgwWkFlTVlnVDh1TzJuT2pLUlBYbDhpVzhkUTJlTk9Rc1hCY3p0T1RLM1NMYjdwMWZjdnhJTWtXSDlqLVg1N2x6S1d3TWRaSQ?oc=5",
-   "published_utc": "2026-09-15T05:38:00+00:00",
-   "title_original": "Japan releases data on non-residents' real estate | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9066678460870c99"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
-   "title_en": "The central bank continues to conduct 6-month reverse repurchases in the same amount｜News",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1BQTEMyVUhMQkxzNnNqZUFOTkIzZDZuN2MycFdnYndFR0ZBaDc5YVlGaWVtcnF3OVRXYlhPNUhEWDdKYkJSUHZQS1NfOGJXejJxbVBkWkpIdEpSY3VNci1zUFlFTlJoYkktT3R0UThhTHA4NWgycW9qUE1JbmJJUmNvSC1UOGZOR1ZHMEtVaHc4N1k?oc=5",
-   "published_utc": "2026-09-15T05:37:00+00:00",
-   "title_original": "央行等量续做6个月期买断式逆回购｜快讯",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6147994a2e31a763"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "reuters.com",
-   "title_en": "China's August oil throughput rises as fuel exports rebound amid Iran war",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3JiM0k1cEJ2SDhnVmNCbHJpeWlQWTJyWjVTUDlSX0dhM0I4MHAwOHltcFl6WW5RazFEWE0yYk1ja0hJcnE1cWpJYVZDZFp0cW1XeVpMeXFEc01veFFRRmNZeFhkSXBIeFphV0pYU3NGZjJNbzhfRlFrUk5Gc3puWVo2SllOZm5CM19xZ2dSWGV3aGpzdkdOTFpRVHVMNDRyMTB1WWJRSVFKbVV6YXRJNG9JZU1iMk9XRF9KMlFXUHdNZw?oc=5",
-   "published_utc": "2026-09-15T05:12:00+00:00",
-   "title_original": "China's August oil throughput rises as fuel exports rebound amid Iran war",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0f2ccdcc72f5417a"
   },
   {
    "source_id": "manual_ia",

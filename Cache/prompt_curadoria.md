@@ -7,18 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T07:52:45.675170+00:00
+Última coleta: 2026-10-14T08:02:44.194771+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
-  🇨🇳 China          837
-  🇹🇼 Taiwan         292
-  🇰🇷 Coreia do Sul  734
+  🇨🇳 China          832
+  🇹🇼 Taiwan         293
+  🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japanese Government Bonds Held by the Bank of Japan
+  - [china] Gemdale's September Contract Sales Down 30.5% Y/Y To 1.6 Billion Yuan
+  - [korea] Samsung, SK Hynix Face Pressure to Boost Shareholder Returns — Market Talk
+  - [korea] Citi and Morgan Stanley "Bank of Korea base interest rate... expected to freeze in October and increase in Nov
   - [japan] Consumption tax reduction bill proposed by ruling party to be deliberated on 20th Opposition party to clarify 
+  - [korea] Citi: “The Bank of Korea will raise interest rates in November after a hawkish freeze in October… up to 3.5% n
   - [japan] Nikkei gives up early gains as chip-related shares retreat after ASML earnings
+  - [korea] (2nd LD) Seoul shares fall for 6th day on renewed AI concerns ahead of U.S. inflation data
   - [china] China's September exports soar, putting $1 trillion trade surplus in sight
   - [korea] “After freezing this month, tightening again”...BOK sets base interest rate at 3.5% early next year
   - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [china] China’s exports surge more than 36% in September amid tech demand, holiday rush
   - [china] Imported Inflation to Continue Shaping China's Headline Inflation — Market Talk
   - [china] China Inflation At 0.9%; PPI Inflation Highest Since 2022
-  - [china] China's consumer prices rose 0.9% in September, a slight increase from the previous month, affected by persist
-  - [china] China Consumer Price Index rose 0.9% in September, positive for 12 consecutive months; transportation fuel and
-  - [china] Yuan gains as markets weigh China inflation, await US CPI
-  - [korea] Bank of Korea Likely to Hold Rates Steady This Month — Market Talk
-  - [taiwan] TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups
-  - [china] China September iron ore imports rise on pre-holiday restocking
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T07:52:45+00:00",
+      "published_utc": "2026-10-14T08:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
