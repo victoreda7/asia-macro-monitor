@@ -7,17 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T02:42:42.513689+00:00
+Última coleta: 2026-10-14T02:52:42.128605+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1134
-  🇨🇳 China          844
-  🇹🇼 Taiwan         296
-  🇰🇷 Coreia do Sul  726
+  🇨🇳 China          846
+  🇹🇼 Taiwan         295
+  🇰🇷 Coreia do Sul  725
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese Exports Accelerate in September
+  - [china] China Sep Trade Surplus $133.5B; Expected Surplus $111.4B
+  - [china] China Sep Trade Surplus CNY906B
+  - [china] China Sep Exports +36.3% on Year; Expected +25.0%
+  - [china] China Sep Imports +31.0% on Year; Expected +24.8%
   - [china] CHINA JAN-SEP IMPORTS +22.3% Y/Y IN YUAN TERM: CUSTOMS
+  - [china] China's exports surge 36.3% y/y in September, imports up 31%
+  - [japan] Yen Weakens on Cautious BOJ Rate Outlook
   - [china] Tencent to Raise Around $5.7 Billion From Dollar, Yuan Bonds
   - [china] China's Inflation Data Reflect Subdued Demand, Supply Pressures — Market Talk
   - [taiwan] Trump Says Taiwan to Buy Gas From Alaska LNG Export Project
@@ -27,6 +34,7 @@ Total: 3000 manchetes
   - [china] China Sep Exports +29.6% on Year in Yuan Terms
   - [china] China Sep Imports +24.6% on Year in Yuan Terms
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged
+  - [china] China factory-gate inflation heats up as commodity costs rise, CPI lags forecasts
   - [china] China's yuan-denominated September exports rose 29.6%, imports 24.6%
   - [china] CHINA SEP NON-FOOD PRICES +1.5% Y/Y VS +1.2% Y/Y AUG
   - [china] CHINA SEP FOOD PRICES -1.7% Y/Y VS -1.4% Y/Y AUG
@@ -34,6 +42,7 @@ Total: 3000 manchetes
   - [china] CHINA SEP CPI +0.2% M/M VS +0.4% M/M AUG
   - [china] China's Consumer, Producer Prices Accelerated in September
   - [china] China's September price rise of 0.9%, growth rate slightly expanding (Kyodo News)
+  - [china] China Inflation Rebounds as Oil Tops $100 and AI Goods Get Costlier
   - [china] China Food Prices Fall for 6th Month
   - [china] China CPI inflation grows less than expected in Sept; PPI hits 4-yr high
   - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO WEDS
@@ -45,18 +54,9 @@ Total: 3000 manchetes
   - [china] China Sep Non-Food Prices +1.5% on Year
   - [china] China Sep Food Prices -1.7% On Year
   - [china] China Jan-Sep CPI +0.9% on Year
-  - [china] China Sep CPI +0.2% on Month
-  - [china] China Sep CPI +0.9% on Year; Market Expected +1.0%
   - [japan] Hitoshi Sasaki, former Matsuyama branch manager, will be the new manager of the Bank of Japan Shizuoka branch.
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation today
   - [china] The central bank launches 56 billion yuan 7-day reverse repurchase operation
-  - [korea] Rep. Yoon Hu-deok, Bank of Korea's National Audit Office intensively inspects the effects of interest rate hik
-  - [korea] SK Hynix bounces in downtrend after support breach: Live levels
-  - [japan] Bank of Japan Accounts (October 10)
-  - [taiwan] TSMC-GF interposer deal reshapes US AI supply chain, from CoWoS to HBM
-  - [china] China's wafer-scale graphene breakthrough brings quantum rectifiers closer to semiconductor integration
-  - [japan] Nikkei Rises 0.3% on Possible Position Adjustments Before U.S. CPI Data — Market Talk
-  - [china] Nantong Lianya To Sell 133.7 Mln Shares At 7 Yuan apiece in Shenzhen Listing
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T02:42:42+00:00",
+      "published_utc": "2026-10-14T02:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
