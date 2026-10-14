@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T15:32:43.173245+00:00
+Última coleta: 2026-10-14T15:42:47.717647+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1134
@@ -17,12 +17,12 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] US consumer prices rise 3.7% in September; expectations for early interest rate hike rise somewhat
   - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
   - [china] IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports
   - [china] Central Bank, latest release! The increase in social financing in the first three quarters exceeded 27 trillio
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21 Billion Backing Under U.S.-Japan Deal — Update
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update
-  - [japan] US consumer price increase rate 3.7% exceeds market expectations
   - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21 Billion in Funding From U.S.-Japan Initiative
   - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21B in Funding From U.S.-Japan Initiative
   - [japan] GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T15:32:43+00:00",
+      "published_utc": "2026-10-14T15:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
