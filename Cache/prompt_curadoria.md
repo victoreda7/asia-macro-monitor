@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T10:32:45.034462+00:00
+Última coleta: 2026-10-14T10:42:43.188000+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1135
-  🇨🇳 China          843
+  🇨🇳 China          845
   🇹🇼 Taiwan         290
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [china] Commentary: Why Consumption Stimulus Won’t Close China’s Demand Gap
   - [china] IMF calls for deficit reduction in the US and for China to reduce dependence on exports
   - [china] China resumes U.S. soybean buying with 8-10 cargoes after Trump-Xi summit - report
   - [japan] [Win against inflation! Fun shareholder benefits] My head is full of benefits! Investor Akiyo Fujii / Benefits
+  - [japan] Budget EVs attract attention at Paris Motor Show | NHK WORLD-JAPAN News
   - [japan] Budget EVs attract attention at Paris Motor Show
   - [china] Chinese New Yuan Loans Slow as Expected
   - [china] China's New Yuan Loans Surged in September
@@ -47,6 +49,7 @@ Total: 3000 manchetes
   - [china] Surging China Exports Push Trade Surplus Toward Fresh Record
   - [korea] BOK chief stresses need to curb inflation amid AI boom, Mideast crisis
   - [china] EU-China deal on hybrid cars not addressing rising imports of car parts from China, FIEV says
+  - [china] China’s EV makers face ‘do-or-die moment’ as EU places export quota
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [china] Gemdale's September Contract Sales Down 30.5% Y/Y To 1.6 Billion Yuan
   - [korea] Samsung, SK Hynix Face Pressure to Boost Shareholder Returns — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] BofA Says China’s Economic Data May Open Door to More Stimulus
   - [japan] Consumption tax reduction bill proposed by ruling party to be deliberated on 20th Opposition party to clarify 
   - [korea] Citi: “The Bank of Korea will raise interest rates in November after a hawkish freeze in October… up to 3.5% n
-  - [taiwan] TSMC: $80B swing — do margins justify AI premium?
-  - [japan] Nikkei gives up early gains as chip-related shares retreat after ASML earnings
-  - [korea] (2nd LD) Seoul shares fall for 6th day on renewed AI concerns ahead of U.S. inflation data
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T10:32:45+00:00",
+      "published_utc": "2026-10-14T10:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
