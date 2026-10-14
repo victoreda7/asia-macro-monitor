@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T14:52:45.342558+00:00
+Última coleta: 2026-10-14T15:02:44.715562+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1134
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
   - [china] IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports
   - [china] Central Bank, latest release! The increase in social financing in the first three quarters exceeded 27 trillio
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21 Billion Backing Under U.S.-Japan Deal — Update
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Metallurgical Corporation Of China Says January-September New Contracts Totalled 519.2 Billion Yuan
   - [china] Wuhan Tianyuan Group To Invest Around 500 Million Yuan In Project
   - [china] China September new bank loans jump more than expected on stimulus, seasonal boost
-  - [china] FSPG Hi-Tech Sees 9-Month Net Profit 1.2-1.4 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T14:52:45+00:00",
+      "published_utc": "2026-10-14T15:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
