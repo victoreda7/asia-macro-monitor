@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T14:32:46.687826+00:00
+Última coleta: 2026-10-14T14:42:44.801493+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1133
+  🇯🇵 Japão          1134
   🇨🇳 China          846
   🇹🇼 Taiwan         294
-  🇰🇷 Coreia do Sul  727
+  🇰🇷 Coreia do Sul  726
 
 ## O que já está no feed (não repita)
 
+  - [china] Central Bank, latest release! The increase in social financing in the first three quarters exceeded 27 trillio
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21 Billion Backing Under U.S.-Japan Deal — Update
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update
   - [japan] US consumer price increase rate 3.7% exceeds market expectations
@@ -29,6 +30,7 @@ Total: 3000 manchetes
   - [japan] Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries
   - [japan] GlobalFoundries selected to operate two new semiconductor fabs in New York under landmark U.S.-Japan initiativ
   - [taiwan] Musk's Terafab plan poses no short-term threat to TSMC: Analyst
+  - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [china] China Inflation Rises Marginally; PPI Inflation Strongest Since 2022
   - [japan] Yomiuri: Japan Publishes English-Language Booklet on PM Takaichi's Economic Policies
   - [japan] Euro/yen shorts on Japan investors' OAT sales overdone, say UBS
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Wuhan Tianyuan Group To Invest Around 500 Million Yuan In Project
   - [china] China September new bank loans jump more than expected on stimulus, seasonal boost
   - [china] FSPG Hi-Tech Sees 9-Month Net Profit 1.2-1.4 Billion Yuan
-  - [china] Central Bank: On October 15, it will launch a 700 billion yuan six-month buyout reverse repurchase operation
-  - [china] Central Bank: The increase in social financing in the first three quarters was 27.46 trillion yuan, and the M2
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T14:32:46+00:00",
+      "published_utc": "2026-10-14T14:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
