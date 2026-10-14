@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T03:02:43.719709+00:00",
- "collected_at_utc": "2026-10-14T03:02:43.719709+00:00",
+ "generated_at_utc": "2026-10-14T03:12:41.895308+00:00",
+ "collected_at_utc": "2026-10-14T03:12:41.895308+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1134,
-  "china": 848,
-  "taiwan": 293,
-  "korea": 725
+  "china": 850,
+  "taiwan": 295,
+  "korea": 721
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T05:50:53+00:00"
+   "newest": "2026-10-14T02:23:51+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T00:44:00+00:00"
+   "newest": "2026-10-14T02:07:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 10,
+   "count": 12,
    "error": "",
    "newest": "2026-10-14T01:30:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T11:25:27+09:00"
+   "newest": "2026-10-14T12:06:16+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T23:14:04+00:00"
+   "newest": "2026-10-14T01:53:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T20:31:22+00:00"
+   "newest": "2026-10-14T01:53:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T03:01:23+00:00"
+   "newest": "2026-10-14T03:07:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-14T11:30:00+09:00"
+   "newest": "2026-10-14T12:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T02:12:01+00:00"
+   "newest": "2026-10-14T02:10:04+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "China's export engine steams ahead with September shipments up 36%",
+   "url": "https://asia.nikkei.com/economy/trade/china-s-export-engine-steams-ahead-with-september-shipments-up-36",
+   "published_utc": "2026-10-14T03:12:41.191065+00:00",
+   "title_original": "China's export engine steams ahead with September shipments up 36%",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b852d971e7091653"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -359,6 +376,23 @@
    "live_wire": true,
    "manual": false,
    "id": "fa1dbb90adc4656d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China hold 2027 fertiliser import tariff quota unchanged at 13.65 million tons",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N459007:0-china-hold-2027-fertiliser-import-tariff-quota-unchanged-at-13-65-million-tons/",
+   "published_utc": "2026-10-14T02:58:39+00:00",
+   "title_original": "China hold 2027 fertiliser import tariff quota unchanged at 13.65 million tons",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ab2ca987455464b2"
   },
   {
    "source_id": "investing_econ",
@@ -567,6 +601,23 @@
    "id": "3cf4a21e052955cc"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan's export boom shifts toward AI servers, raising concentration risks",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWU9wUjlHejgxc2NWZVZsNVBEMExWX0hkc2tPeW5xeW05b2ltbDI2T3ZJc1BpaUw3ZTFnOG9DN3hpc2lvdF9mRXVYZUh0cmxTYkF5ZHJ0b3ZjNDExT3NVRGVMdWhUQ1lfbVplMlFoN2ppTmI2QzBhMTY5TVlyOEVYZ25oVW1IdUZCcmQ4?oc=5",
+   "published_utc": "2026-10-14T02:23:51+00:00",
+   "title_original": "Taiwan's export boom shifts toward AI servers, raising concentration risks",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3672f9abd8f95b3d"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Tencent to Raise Around $5.7 Billion From Dollar, Yuan Bonds",
@@ -651,6 +702,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7368ca1bd529804a"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "NTT mulls building data center for Anthropic in Japan, to cost 1 tril. yen",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83Tk5ZdTFUMnpZRlBtMHZ3a3dwTkFHN3BMS2s2WjFWTU9ySU03SVRfMndZZE5VUlJ4T1diZ0RHYkVSV21CZUdCcnJSa1RnWTJ1UkhlMERJc09WUQ?oc=5",
+   "published_utc": "2026-10-14T02:07:00+00:00",
+   "title_original": "NTT mulls building data center for Anthropic in Japan, to cost 1 tril. yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf0cedea7c92a898"
   },
   {
    "source_id": "tradingview_live",
@@ -828,6 +896,24 @@
    "id": "78b5cb2092a2429d"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Asia shares edge up as chip selloff eases; US CPI awaited",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE96RkhyZDBlQ2VWRERNYlZtdm5FaVdQSXF2M3ZtR3JIOU05UExLWnZ3dmFBY1NZcndTRlozR29sdmxWaExXUmIycmZPZGk3UXI1amRxTDR6WHpSQl82ckhxZ016SnZYdGtPdC14TnZVWlpjeHl4SW5pUnJKbjl2M0pzcw?oc=5",
+   "published_utc": "2026-10-14T01:53:00+00:00",
+   "title_original": "Asia shares edge up as chip selloff eases; US CPI awaited",
+   "region": "japan",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "421d89a0e82b1eb7"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Binance News",
    "title_en": "China Inflation Rebounds as Oil Tops $100 and AI Goods Get Costlier",
@@ -911,6 +997,24 @@
    "live_wire": false,
    "manual": false,
    "id": "400a3a3b283098cf"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On October 14, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXcWtiaDhVWWc5Tks5Z0ZlYXRCdl9zZWFtXzV4aEhRUGxoVTU2TGpIVWJKWEQtOElEN3poaW5jX1hjRTlvOXpoUlYtcEJGdHVsc2hKRnQ5R3pNMG82RWprRnZaOWoySVZS?oc=5",
+   "published_utc": "2026-10-14T01:38:40+00:00",
+   "title_original": "10月14日央行开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "98b79d54a87081b4"
   },
   {
    "source_id": "tradingview_live",
@@ -998,21 +1102,21 @@
    "id": "38eda1b1224c1206"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Sep Non-Food Prices +1.5% on Year",
-   "url": "https://www.tradingview.com/news/DJN_DN20261013010244_20261013010254:0-china-sep-non-food-prices-1-5-on-year/",
-   "published_utc": "2026-10-14T01:31:00+00:00",
-   "title_original": "China Sep Non-Food Prices +1.5% on Year",
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Consumer prices in September 2026 increased by 0.9% year-on-year",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BNElXRTk5X29CUW84NHVVbjZCM3cwSmM2NTFnTl9femZNTW40YjEySkhtdXdOLWxmTUhDZXJibTdYTjRQdXI3UVllYzA4NUFCV0xLOFFtOXdzdk5fRlhQUmp4S0FyQ1pfbWpqdHI4Yw?oc=5",
+   "published_utc": "2026-10-14T01:30:00+00:00",
+   "title_original": "2026年9月份居民消费价格同比上涨0.9%",
    "region": "china",
    "topics": [
     "inflation"
    ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
    "manual": false,
-   "id": "840da56144eaf7fe"
+   "id": "26d23ad3ac5b8403"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1035,7 +1139,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "证券之星",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hN3lEZVA5bEpiMWJsaExKamV0Qzl2RUFlRWk3VUN3V0NNTVNZTkFTcmYtY0NBQzZucjVKcTZRTHJ2dFlBQmdLd29qQkpwNUlRcXpsUkZVOGpFM3RZSjBFTA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XUmNDSUpxOWxZdmNoelFtUTZXX3FRdFBkQ1pQSE9QdGRqSF9SQnkxWTg1ZDRyVFVjQ3ItdDVTN25KaVpicWZGdDMwMWI0RFcwX3hkdGUzWmh6eXFXbXBiZnJB?oc=5",
    "published_utc": "2026-10-14T01:26:21+00:00",
    "title_original": "央行今日开展560亿元7天期逆回购操作",
    "region": "china",
@@ -1047,7 +1151,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1578d0bee323790"
+   "id": "83618be5321a52a9"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6908,6 +7012,23 @@
    "id": "a64d9291b255f33b"
   },
   {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+   "published_utc": "2026-10-11T07:00:00+00:00",
+   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "718b4c2f74b8df7d"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Food companies that were sanctioned for fixing food prices, such as sugar and flour, topped the Fair..",
@@ -8040,23 +8161,6 @@
    "live_wire": false,
    "manual": false,
    "id": "91431e6663917737"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-   "published_utc": "2026-10-09T14:02:00+00:00",
-   "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7d0d81b05ec0a14"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51826,111 +51930,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ced16402e583dba9"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
-   "title_en": "Bond market closes | The central bank will continue to issue 500 billion yuan of MLF tomorrow, and the bond market fluctuates within a narrow range",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OWkZBdkJzVThqVmswU3lndzlqN2ZHTzd0VTZtWFk3UmNzVHB1d2NyR2R6ZXFLNUp3Qm55VW1LSFEzMmk1R241Rw?oc=5",
-   "published_utc": "2026-09-14T21:34:02+00:00",
-   "title_original": "债市收盘| 央行明日续作5000亿元MLF，债市窄幅震荡",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c50ab86dfc5b29d9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Import Price Growth Eases",
-   "url": "https://www.tradingview.com/news/te_news:583621:0-south-korea-import-price-growth-eases/",
-   "published_utc": "2026-09-14T21:27:49+00:00",
-   "title_original": "South Korea Import Price Growth Eases",
-   "region": "korea",
-   "topics": [
-    "inflation",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3f7d608ad1c8575d"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "The Takaichi administration urgently needs to reconsider its ``growth story''...Change in strategy to become an economic power as ``inflation onus'' approaches, becoming a country that enriches ``one hour'' | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/958004?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-14T21:20:00+00:00",
-   "title_original": "高市政権は｢成長の物語｣の再考が急務だ…〈インフレオーナス〉が迫る経済大国化戦略の変更､｢1時間｣を豊かにする国へ | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e349dab39e9ef098"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Export Price Growth Eases",
-   "url": "https://www.tradingview.com/news/te_news:583620:0-south-korea-export-price-growth-eases/",
-   "published_utc": "2026-09-14T21:19:07+00:00",
-   "title_original": "South Korea Export Price Growth Eases",
-   "region": "korea",
-   "topics": [
-    "inflation",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4e79e7b53631351c"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Foldable iPhone is 360,000 yen, 18 Pro is 210,000 yen...In the shadow of that, iPhone 17 is ``30,000 yen more expensive in a year'' Product lineup changing from autumn presentation | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/957997?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-14T21:00:00+00:00",
-   "title_original": "折りたたみiPhoneは36万円､18Proは21万円…その陰でiPhone 17は｢1年で3万円高｣ 秋の発表会から変わる製品ラインナップ | ビジネス | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "701a02467a87c801"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Samsung, SK Hynix reject KEPCO’s $17 billion power-bill prepayment plan",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DS1AzbkRlNmV4cTRvaUFHZXdBSGdhVDNudmhvbVE3MnQ3X0tmZHVIWE4zZjBHdVZFblpsdHBiLW1zdFZWVVVMNVlNbU80ay12QXg5bF9vUmh4UWJWM0FsZGEtR01rLXlCdmFZZmtNLV9CWjdCaGFJ?oc=5",
-   "published_utc": "2026-09-14T17:10:25+00:00",
-   "title_original": "Samsung, SK Hynix reject KEPCO’s $17 billion power-bill prepayment plan",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4dcc4a0a8d76b023"
   },
   {
    "source_id": "manual_ia",
