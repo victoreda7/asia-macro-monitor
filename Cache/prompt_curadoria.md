@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T03:52:43.241234+00:00
+Última coleta: 2026-10-14T04:02:43.290569+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1132
-  🇨🇳 China          851
+  🇯🇵 Japão          1133
+  🇨🇳 China          850
   🇹🇼 Taiwan         296
   🇰🇷 Coreia do Sul  721
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [korea] Bank of Korea Likely to Hold Rates Steady This Month — Market Talk
   - [china] China September iron ore imports rise on pre-holiday restocking
   - [korea] Shin Hyun-song's first National Assembly inspection, "Monetary policy unwavering"... Base interest rate 3.0%, 
+  - [japan] Japan 10Y Yield Steadies on Cautious BOJ Outlook
   - [china] China's soybean imports fall 7.7% in September from a year earlier
   - [china] China's September exports blow past forecasts, imports accelerate
   - [china] Offshore Yuan Trades Near Multi-Year High
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Sep Exports +29.6% on Year in Yuan Terms
   - [china] China Sep Imports +24.6% on Year in Yuan Terms
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged
-  - [china] China's yuan-denominated September exports rose 29.6%, imports 24.6%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T03:52:43+00:00",
+      "published_utc": "2026-10-14T04:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
