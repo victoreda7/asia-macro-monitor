@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T22:32:43.568635+00:00
+Última coleta: 2026-10-14T22:42:45.299129+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1132
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] US-listed semiconductor stocks continue to fall
   - [japan] U.S. semiconductor company plans to build new factory for up to 3 trillion yen based on Japan-U.S. agreement
   - [japan] G20 Finance Ministers and Central Bank Governors Meeting to begin on the 15th
   - [japan] Fed economic report “Price growth pace is accelerating in some areas” Focus on timing for additional interest 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Belize PM vows stronger support for Taiwan after China sanctions
   - [japan] Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries
   - [japan] GlobalFoundries selected to operate two new semiconductor fabs in New York under landmark U.S.-Japan initiativ
-  - [taiwan] Musk's Terafab plan poses no short-term threat to TSMC: Analyst
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T22:32:43+00:00",
+      "published_utc": "2026-10-14T22:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
