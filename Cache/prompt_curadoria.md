@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T13:32:44.385291+00:00
+Última coleta: 2026-10-14T13:42:42.876805+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1133
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21 Billion in Funding From U.S.-Japan Initiative
   - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21B in Funding From U.S.-Japan Initiative
   - [japan] GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com
   - [japan] Possibility of Bank of Japan interest rate hike exceeding 2%
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China willing to import more high-value products, premier says
   - [china] China producer inflation rises with increase in commodities; CPI falls below forecasts
   - [korea] South Korean minister rejects claim of W80b wasted on Brazilian egg imports
-  - [china] China September new bank loans jump to 1.08 trillion yuan, above forecast
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T13:32:44+00:00",
+      "published_utc": "2026-10-14T13:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
