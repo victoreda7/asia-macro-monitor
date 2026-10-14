@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T03:22:43.714574+00:00
+Última coleta: 2026-10-14T03:32:44.976467+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1133
+  🇯🇵 Japão          1132
   🇨🇳 China          853
-  🇹🇼 Taiwan         294
+  🇹🇼 Taiwan         295
   🇰🇷 Coreia do Sul  720
 
 ## O que já está no feed (não repita)
 
+  - [china] China's September exports blow past forecasts, imports accelerate
+  - [taiwan] ASML, TSMC Report This Week: What Traders Are Watching After A 6-Day Chip Stock Slide
   - [china] China's export engine hits fastest pace since February with 36% growth
   - [china] China's September coal imports fall 6%
+  - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase on October 14
   - [china] China's export engine steams ahead with September shipments up 36%
   - [china] China September rare earth exports rise 6.7% from a year earlier
   - [china] China hold 2027 fertiliser import tariff quota unchanged at 13.65 million tons
@@ -27,6 +30,7 @@ Total: 3000 manchetes
   - [china] China Imports Hit Record High
   - [china] Chinese Exports Accelerate in September
   - [china] China’s exports surge 36.3% y/y in September, imports up 31%
+  - [china] China’s Trade Surplus Nears $940 Billion as Export Growth Surges
   - [china] China’s Export Growth Hits Seven-Month High, Beats Forecasts
   - [china] China Posts Biggest Trade Surplus in 20 Months
   - [china] China Sep Trade Surplus $133.5B; Expected Surplus $111.4B
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA SEP PPI +1.2% M/M VS +0.4% M/M AUG
   - [china] CHINA SEP CPI +0.2% M/M VS +0.4% M/M AUG
   - [china] China's Consumer, Producer Prices Accelerated in September
-  - [china] China's September price rise of 0.9%, growth rate slightly expanding (Kyodo News)
-  - [japan] Asia shares edge up as chip selloff eases; US CPI awaited
-  - [china] China Inflation Rebounds as Oil Tops $100 and AI Goods Get Costlier
-  - [china] China Food Prices Fall for 6th Month
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T03:22:43+00:00",
+      "published_utc": "2026-10-14T03:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

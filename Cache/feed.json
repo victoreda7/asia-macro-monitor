@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T03:22:43.714574+00:00",
- "collected_at_utc": "2026-10-14T03:22:43.714574+00:00",
+ "generated_at_utc": "2026-10-14T03:32:44.976467+00:00",
+ "collected_at_utc": "2026-10-14T03:32:44.976467+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1133,
+  "japan": 1132,
   "china": 853,
-  "taiwan": 294,
+  "taiwan": 295,
   "korea": 720
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T02:18:00+00:00"
+   "newest": "2026-10-14T02:41:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T09:23:00+00:00"
+   "newest": "2026-10-14T02:38:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T17:37:18+00:00"
+   "newest": "2026-10-14T02:32:38+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-14T12:17:44+09:00"
+   "newest": "2026-10-14T12:21:42+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T02:14:54+00:00"
+   "newest": "2026-10-14T03:17:32+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T12:22:25+00:00"
+   "newest": "2026-10-14T01:04:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T03:21:56+00:00"
+   "newest": "2026-10-14T03:31:38+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,40 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's September exports blow past forecasts, imports accelerate",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46005Q:0-china-s-september-exports-blow-past-forecasts-imports-accelerate/",
+   "published_utc": "2026-10-14T03:31:38+00:00",
+   "title_original": "China's September exports blow past forecasts, imports accelerate",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4ef5acdda0b05072"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "ASML, TSMC Report This Week: What Traders Are Watching After A 6-Day Chip Stock Slide",
+   "url": "https://www.tradingview.com/news/stocktwits:cd8627ce5094b:0-asml-tsmc-report-this-week-what-traders-are-watching-after-a-6-day-chip-stock-slide/",
+   "published_utc": "2026-10-14T03:30:13+00:00",
+   "title_original": "ASML, TSMC Report This Week: What Traders Are Watching After A 6-Day Chip Stock Slide",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d32cb477c5e05536"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "China's export engine hits fastest pace since February with 36% growth",
@@ -376,6 +410,24 @@
    "live_wire": true,
    "manual": false,
    "id": "b465ddbfa26ef072"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase on October 14",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4RDVPNWRKNkp6NVFlS1FIVXd2aVhWWUVQSXp0aElicFl6aGdsc05nQXBJQkxqVXhNTVZqVVQ5RFNBTTl3YmJUdThGTVU4Y3ZRTUpRN1JkUUtpVVQ1cVZtQnp3?oc=5",
+   "published_utc": "2026-10-14T03:17:32+00:00",
+   "title_original": "央行10月14日开展560亿元7天期逆回购",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a1a20660d44d01ab"
   },
   {
    "source_id": "nikkei_asia",
@@ -512,6 +564,23 @@
    "live_wire": false,
    "manual": false,
    "id": "38ff92ee563aecad"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China’s Trade Surplus Nears $940 Billion as Export Growth Surges",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWVSSF96T3R5Ry1QeGlWQmFMV0dyLW9EYjNyek03QkZTOXlheVVvNW0xNVNSZ1F5RW84OERGS0RlLVhvdE9ON3d4eHQ5S3UtWml5Y3pTS0NaX00xSGV0UkVpS3YxY3ZidU80dHIzZVdrcmphYnhNcldOY0VvUlJNWWQ3eFNrb3pnNVdhQV9HY1FYZlVFUmVlb0diVmhZam1GaHVxcUxyRWhQajdnVkhlVk1iTEE?oc=5",
+   "published_utc": "2026-10-14T02:41:00+00:00",
+   "title_original": "China’s Trade Surplus Nears $940 Billion as Export Growth Surges",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "18f2a2dbc55bb6f0"
   },
   {
    "source_id": "tradingview_live",
@@ -1118,40 +1187,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4c5f1193bdc205ff"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's factory-gate inflation accelerates in September",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TOTAU:0-china-s-factory-gate-inflation-accelerates-in-september/",
-   "published_utc": "2026-10-14T01:35:51+00:00",
-   "title_original": "China's factory-gate inflation accelerates in September",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fff8596dc42d2a71"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "China Inflation Rate Slightly Below Estimates",
-   "url": "https://www.tradingview.com/news/te_news:591665:0-china-inflation-rate-slightly-below-estimates/",
-   "published_utc": "2026-10-14T01:35:47+00:00",
-   "title_original": "China Inflation Rate Slightly Below Estimates",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3c4d1fd90ce9da08"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51894,41 +51929,6 @@
    "live_wire": true,
    "manual": false,
    "id": "cc017998f014e62e"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "US long-term interest rates temporarily in the 5% range, concerns about inflation",
-   "url": "https://news.yahoo.co.jp/pickup/6595318?source=rss",
-   "published_utc": "2026-09-14T23:06:29+00:00",
-   "title_original": "米長期金利一時5%台 インフレ懸念",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b21f430ca13258d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经_金融信息服务商",
-   "title_en": "The central bank continues to do 6-month outright reverse repurchases in the same amount",
-   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNUWQxdXNIUml5SnFZZHpWV2p4blBCQ2t1ZEI1TDh1OTNyclRkc2xJUGY5TElwem9aS214TDFqQ3VqT0RQdmx3dVphLXMxQzAybTBYUzl3NzZOX0t2ZVlvTHBnUEdUejJXRVgyNzh1aS1mQmJvY1dRTnMwZXZMUXV3ZUIyM0hVeUpSYlVZMXNSX2NsSHhkYjczQmhfQjFKeUtSZU9oLXVUUXY5d3owZTA1a1VFazZITGkwZzRjNlBtWjhQN1prVE1iWFNvbTdwQTVLN2NIVnl5MDB1eWZkbUFBOV9PcTBEa2tUUWRzS0xKTVFjNU5vLTRHd1FTZlg2SVBCLWRYNnBCSWNzcHhWcHNmbmFST1lMbF9xWGhWakFuaEY1dWZ5SEt4MGJhanFlZUk?oc=5",
-   "published_utc": "2026-09-14T23:05:13+00:00",
-   "title_original": "央行等量续做6个月期买断式逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ba6537f6839796ce"
   },
   {
    "source_id": "manual_ia",
