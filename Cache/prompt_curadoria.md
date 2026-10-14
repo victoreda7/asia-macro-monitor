@@ -7,24 +7,30 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T01:32:42.675633+00:00
+Última coleta: 2026-10-14T01:42:43.425874+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1135
-  🇨🇳 China          837
+  🇯🇵 Japão          1136
+  🇨🇳 China          836
   🇹🇼 Taiwan         299
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO WEDS
+  - [china] China's factory-gate inflation accelerates in September
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7249 WEDS VS 6.7298
   - [china] China Sep Non-Food Prices +1.5% on Year
   - [china] China Sep Food Prices -1.7% On Year
   - [china] China Jan-Sep CPI +0.9% on Year
   - [china] China Sep CPI +0.2% on Month
   - [china] China Sep CPI +0.9% on Year; Market Expected +1.0%
+  - [japan] Hitoshi Sasaki, former Matsuyama branch manager, will be the new manager of the Bank of Japan Shizuoka branch.
   - [korea] Rep. Yoon Hu-deok, Bank of Korea's National Audit Office intensively inspects the effects of interest rate hik
   - [korea] SK Hynix bounces in downtrend after support breach: Live levels
   - [japan] Bank of Japan Accounts (October 10)
+  - [taiwan] TSMC-GF interposer deal reshapes US AI supply chain, from CoWoS to HBM
+  - [china] China's wafer-scale graphene breakthrough brings quantum rectifiers closer to semiconductor integration
   - [japan] Nikkei Rises 0.3% on Possible Position Adjustments Before U.S. CPI Data — Market Talk
   - [china] Nantong Lianya To Sell 133.7 Mln Shares At 7 Yuan apiece in Shenzhen Listing
   - [korea] Key facts: Samsung Electronics (005930) 55% margin; Goldman Buy; fell
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Rises After BoJ Ueda Comments
   - [japan] Yen Rises Against Majors
   - [korea] Kospi tumbles as chip rout deepens, briefly breaking below 6,000
-  - [korea] Roze AI Announces Approximately US$14.8 Million (KRW 19.88 Billion) in New Contracts for AI-Powered Fire Risk 
-  - [korea] SK Hynix Stock Crashes 9% as AI Fears Trigger Asian Tech Sell-Off
-  - [china] Nvidia Loses Ground in China as AI Chip Shipments Plunge 44%
-  - [china] Long before his Nobel win, Michael Woodford was influencing China’s central bank
-  - [taiwan] Qnity Bets On Local Production To Win More AI Chip Business From Nvidia, TSMC – CEO Touts ‘Local-For-Local’ St
-  - [korea] Bank of Korea Gov. Shin Makes Case for Forward Guidance That Preserves Flexibility
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T01:32:42+00:00",
+      "published_utc": "2026-10-14T01:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
