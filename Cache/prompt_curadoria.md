@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T00:52:46.299902+00:00
+Última coleta: 2026-10-14T01:02:43.664169+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1137
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Accounts (October 10)
   - [japan] Nikkei Rises 0.3% on Possible Position Adjustments Before U.S. CPI Data — Market Talk
   - [china] Nantong Lianya To Sell 133.7 Mln Shares At 7 Yuan apiece in Shenzhen Listing
   - [korea] Key facts: Samsung Electronics (005930) 55% margin; Goldman Buy; fell
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Asia report: Nikkei, KOSPI post big losses as chipmakers drop
   - [korea] Hong Ra-hee to Gift 11.15 Million Samsung Electronics Shares to Lee Jae-yong
   - [china] E-House (China) Enterprise Says Grand Court Of Cayman Islands Sanctions Cayman Scheme
-  - [china] ‘Easy money is past’: why investors are rethinking the AI memory-chip trade
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T00:52:46+00:00",
+      "published_utc": "2026-10-14T01:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
