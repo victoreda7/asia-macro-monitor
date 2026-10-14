@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T00:02:43.252023+00:00
+Última coleta: 2026-10-14T00:12:43.922398+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1137
-  🇨🇳 China          835
+  🇯🇵 Japão          1136
+  🇨🇳 China          836
   🇹🇼 Taiwan         299
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [china] Nantong Lianya To Sell 133.7 Mln Shares At 7 Yuan apiece in Shenzhen Listing
   - [korea] Key facts: Samsung Electronics (005930) 55% margin; Goldman Buy; fell
   - [china] Tencent prices $1.8 billion, 26 billion yuan notes under MTN programme
   - [china] China Inflation, Trade Data Due On Wednesday
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Korean Won, New Taiwan Dollar Underperform Amid Chip-Stock Selloff — Market Talk
   - [korea] UnitedHealth, JPMorgan, Six Flags, SK Hynix, and More Stocks That Explain Today's Market — Barrons.com
   - [japan] "Cabinet approval rate" is also one of the indicators of government management
-  - [japan] Support rate for each party: “Liberal Democratic Party” 35.3% “No support” 38.5% NHK public opinion poll
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T00:02:43+00:00",
+      "published_utc": "2026-10-14T00:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
