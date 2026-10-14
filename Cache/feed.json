@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T04:02:43.290569+00:00",
- "collected_at_utc": "2026-10-14T04:02:43.290569+00:00",
+ "generated_at_utc": "2026-10-14T04:12:44.187528+00:00",
+ "collected_at_utc": "2026-10-14T04:12:44.187528+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1133,
+  "japan": 1132,
   "china": 850,
-  "taiwan": 296,
+  "taiwan": 297,
   "korea": 721
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T02:23:51+00:00"
+   "newest": "2026-10-14T03:39:39+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": "",
    "newest": "2026-10-14T01:30:00+00:00"
   },
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T00:30:07+00:00"
+   "newest": "2026-10-13T12:00:08+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T04:01:03+00:00"
+   "newest": "2026-10-14T04:10:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T23:37:49+00:00"
+   "newest": "2026-10-14T02:36:56+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T03:07:12+00:00"
+   "newest": "2026-10-14T04:02:35+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-14T02:47:22+00:00"
+   "newest": "2026-10-14T04:01:42+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T11:10:03+00:00"
+   "newest": "2026-10-13T23:49:09+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-14T12:00:00+09:00"
+   "newest": "2026-10-14T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "China Consumer Price Index rose 0.9% in September, positive for 12 consecutive months; transportation fuel and high-tech equipment pushed up index",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kWWNZbTVueERBMWNsZDUzaU1McXlSYW11X3haRjE0YUsyWjFZcEctWGtKS2xDNDZkckpYU2FRVV9pU2RlTVViMFBiNWR5X0QxbXQ4eXk0RlRySjZFbElScmlEdGFOT0lFZzM0ZWdHVUFlcmNzMk9sYXZOczI2Q0U?oc=5",
+   "published_utc": "2026-10-14T04:02:08+00:00",
+   "title_original": "中国 9月の消費者物価指数0.9％上昇 12か月連続でプラス 交通燃料やハイテク機器が指数押し上げ",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5d48f1bced78a75"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -377,6 +394,23 @@
    "live_wire": true,
    "manual": false,
    "id": "cb31a7244ef1673f"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0FfMERHSnNDdjJHR0FSQVoxX3B0SnI2R3RwaGNjblNVQlgzQ1lFUy1GOHV0Z0RzNzNmb0FoTDJGZmtFMFdaZkJZLVRpQ2FxcUhJTXNmaWtOUXY4TzVMTUNLc3FNRTN0MWtJekVDUl9oU2MyX2RodmdZcTVkT19JUDVwNVFvXzV5dkhudg?oc=5",
+   "published_utc": "2026-10-14T03:39:39+00:00",
+   "title_original": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c4b088009d768a94"
   },
   {
    "source_id": "tradingview_live",
@@ -7322,8 +7356,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -7336,7 +7370,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -8285,8 +8319,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -8300,7 +8334,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -8491,8 +8525,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -8506,7 +8540,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -9377,8 +9411,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -9392,7 +9426,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51897,40 +51931,6 @@
    "live_wire": true,
    "manual": false,
    "id": "33ccdfd4bf80daaf"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "PR Newswire",
-   "title_en": "Shanghai Electric Reports 16.6% Revenue Growth in H1 2026 as New Orders Reach CNY 100.39 Billion",
-   "url": "https://www.tradingview.com/news/prnewswire:7b5fe0c81e8ef:0-shanghai-electric-reports-16-6-revenue-growth-in-h1-2026-as-new-orders-reach-cny-100-39-billion/",
-   "published_utc": "2026-09-15T00:10:00+00:00",
-   "title_original": "Shanghai Electric Reports 16.6% Revenue Growth in H1 2026 as New Orders Reach CNY 100.39 Billion",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c31c82617f780899"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Long-Term JGB Yield Rises Amid Concerns About Higher Energy Prices — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260914008399:0/",
-   "published_utc": "2026-09-15T00:10:00+00:00",
-   "title_original": "Long-Term JGB Yield Rises Amid Concerns About Higher Energy Prices — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cf6c565e00383556"
   },
   {
    "source_id": "manual_ia",

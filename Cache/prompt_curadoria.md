@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T04:02:43.290569+00:00
+Última coleta: 2026-10-14T04:12:44.187528+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1133
+  🇯🇵 Japão          1132
   🇨🇳 China          850
-  🇹🇼 Taiwan         296
+  🇹🇼 Taiwan         297
   🇰🇷 Coreia do Sul  721
 
 ## O que já está no feed (não repita)
 
+  - [china] China Consumer Price Index rose 0.9% in September, positive for 12 consecutive months; transportation fuel and
   - [china] Yuan gains as markets weigh China inflation, await US CPI
   - [korea] Bank of Korea Likely to Hold Rates Steady This Month — Market Talk
+  - [taiwan] TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups
   - [china] China September iron ore imports rise on pre-holiday restocking
   - [korea] Shin Hyun-song's first National Assembly inspection, "Monetary policy unwavering"... Base interest rate 3.0%, 
   - [japan] Japan 10Y Yield Steadies on Cautious BOJ Outlook
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Announcement from the Central Bank: Launching a 56 billion yuan 7-day reverse repurchase operation. On October
   - [japan] NTT mulls building data center for Anthropic in Japan, to cost 1 tril. yen
   - [china] China Sep Exports +29.6% on Year in Yuan Terms
-  - [china] China Sep Imports +24.6% on Year in Yuan Terms
-  - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T04:02:43+00:00",
+      "published_utc": "2026-10-14T04:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
