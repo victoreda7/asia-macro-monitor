@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T15:57:20.994997+00:00
+Última coleta: 2026-10-14T16:02:44.150674+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1133
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
   - [china] Commentary: Why Gradual Yuan Appreciation Remains the Baseline
   - [japan] US consumer prices rise 3.7% in September; expectations for early interest rate hike rise somewhat
   - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
@@ -54,7 +55,6 @@ Total: 3000 manchetes
   - [china] China resumes U.S. soybean buying with 8-10 cargoes after Trump-Xi summit - report
   - [china] The central bank is about to launch a 700 billion yuan buyout reverse repo
   - [japan] [Win against inflation! Fun shareholder benefits] My head is full of benefits! Investor Akiyo Fujii / Benefits
-  - [japan] Budget EVs attract attention at Paris Motor Show | NHK WORLD-JAPAN News
   - [japan] Budget EVs attract attention at Paris Motor Show
   - [china] Chinese New Yuan Loans Slow as Expected
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T15:57:21+00:00",
+      "published_utc": "2026-10-14T16:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
