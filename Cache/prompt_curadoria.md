@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T04:42:44.137056+00:00
+Última coleta: 2026-10-14T04:52:41.757223+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1131
-  🇨🇳 China          851
+  🇨🇳 China          850
   🇹🇼 Taiwan         296
-  🇰🇷 Coreia do Sul  722
+  🇰🇷 Coreia do Sul  723
 
 ## O que já está no feed (não repita)
 
@@ -38,6 +38,7 @@ Total: 3000 manchetes
   - [china] China's September coal imports fall 6%
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase on October 14
   - [china] China's export engine steams ahead with September shipments up 36%
+  - [korea] Gold prices hold firm ahead of US inflation data
   - [china] China September rare earth exports rise 6.7% from a year earlier
   - [china] China hold 2027 fertiliser import tariff quota unchanged at 13.65 million tons
   - [china] China's wholesale prices rise 5%, the highest level in 4 years and 3 months due to high crude oil prices, Sept
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Weakens on Cautious BOJ Rate Outlook
   - [taiwan] Taiwan's export boom shifts toward AI servers, raising concentration risks
   - [china] Tencent to Raise Around $5.7 Billion From Dollar, Yuan Bonds
-  - [china] China's Inflation Data Reflect Subdued Demand, Supply Pressures — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T04:42:44+00:00",
+      "published_utc": "2026-10-14T04:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
