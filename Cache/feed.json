@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-14T14:12:43.996686+00:00",
- "collected_at_utc": "2026-10-14T14:12:43.996686+00:00",
+ "generated_at_utc": "2026-10-14T14:22:46.438952+00:00",
+ "collected_at_utc": "2026-10-14T14:22:46.438952+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1132,
-  "china": 847,
+  "japan": 1133,
+  "china": 846,
   "taiwan": 294,
   "korea": 727
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T13:58:45+00:00"
+   "newest": "2026-10-14T14:20:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T13:42:55+00:00"
+   "newest": "2026-10-14T14:07:34+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-14T13:28:09+00:00"
+   "newest": "2026-10-14T14:05:41+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-14T14:01:00+00:00"
+   "newest": "2026-10-14T14:22:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261014005105:0-globalfoundries-to-build-2-chip-plants-with-21b-backing-under-u-s-japan-deal-update/",
+   "published_utc": "2026-10-14T14:11:00+00:00",
+   "title_original": "GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "85b9a2a94de66ed4"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -1514,23 +1531,6 @@
    "id": "172e77c048cae483"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's September exports soar, putting $1 trillion trade surplus in sight",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4600GE:0-china-s-september-exports-soar-putting-1-trillion-trade-surplus-in-sight/",
-   "published_utc": "2026-10-14T07:34:13+00:00",
-   "title_original": "China's September exports soar, putting $1 trillion trade surplus in sight",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2777f10c3e7a851e"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "에너지경제신문",
    "title_en": "“After freezing this month, tightening again”...BOK sets base interest rate at 3.5% early next year",
@@ -2157,7 +2157,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged at 1.40%",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKUE5OTlIwUldoSlY3ckxSYzgtTnQ4d21IQjVPNXZ4NTdBZGFCb2Z6Z3Jadm9ib3NDWWVVX1FrbFhTdXE0bkt5NTRjaWl4UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Xa1JWejVEall0bTNybXI2V2ZiaVZpUG50X1dON2owNm9NTVAtVE10SE11NHNBNWZSTWpmTk9welpBdFg0ZWpKT3hCNHNZWXdSQ09PNUhrVlk1YnZkM3RNOG53?oc=5",
    "published_utc": "2026-10-14T02:03:28+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 利率1.40%持平",
    "region": "china",
@@ -2169,7 +2169,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "563552a745d8dbb4"
+   "id": "551d98007892a700"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -8530,8 +8530,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -8544,7 +8544,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -9493,8 +9493,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -9508,7 +9508,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -9699,8 +9699,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -9714,7 +9714,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -10585,8 +10585,8 @@
    "id": "3d1590298feb6d03"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Issues with food consumption tax reduction: securing financial resources and impact on consumers",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57014",
    "published_utc": "2026-10-09T03:49:49+00:00",
@@ -10600,7 +10600,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b32a7abd3b9116e5"
+   "id": "ce3202512391394e"
   },
   {
    "source_id": "gn_jp_investing",

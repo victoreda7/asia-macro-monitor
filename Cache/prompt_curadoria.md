@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T14:12:43.996686+00:00
+Última coleta: 2026-10-14T14:22:46.438952+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1132
-  🇨🇳 China          847
+  🇯🇵 Japão          1133
+  🇨🇳 China          846
   🇹🇼 Taiwan         294
   🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
+  - [japan] GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update
   - [japan] US consumer price increase rate 3.7% exceeds market expectations
   - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21 Billion in Funding From U.S.-Japan Initiative
   - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21B in Funding From U.S.-Japan Initiative
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] FSPG Hi-Tech Sees 9-Month Net Profit 1.2-1.4 Billion Yuan
   - [china] Central Bank: On October 15, it will launch a 700 billion yuan six-month buyout reverse repurchase operation
   - [china] Central Bank: The increase in social financing in the first three quarters was 27.46 trillion yuan, and the M2
-  - [china] Asian stocks slip as China shares fall, oil risks and U.S. CPI weigh
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T14:12:44+00:00",
+      "published_utc": "2026-10-14T14:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
