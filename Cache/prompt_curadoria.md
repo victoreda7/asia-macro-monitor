@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T11:52:43.201879+00:00
+Última coleta: 2026-10-14T12:02:45.196182+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1129
-  🇨🇳 China          849
+  🇨🇳 China          850
   🇹🇼 Taiwan         292
-  🇰🇷 Coreia do Sul  730
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [china] China Inflation Rises Marginally; PPI Inflation Strongest Since 2022
+  - [japan] Yomiuri: Japan Publishes English-Language Booklet on PM Takaichi's Economic Policies
+  - [japan] Euro/yen shorts on Japan investors' OAT sales overdone, say UBS
   - [taiwan] What analysts are watching with key semiconductor maker TSMC set to report results
   - [china] India’s Russian crude imports fall 29% from July peak as China boosts buying
   - [china] IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Memory breakthrough by China's CXMT puts chip rivals on backfoot
   - [china] China buys 8-10 US soybean cargoes in first deals since Trump-Xi summit, sources say
   - [china] China's exports soar in September, putting a trade surplus of US$1 trillion in sight
-  - [korea] The Ministry of Finance and Economy announced a plan to foster the K-beauty industry incorporating a..
-  - [korea] Kospi rebound fizzles as foreign selling hits chips again
-  - [china] Surging China Exports Push Trade Surplus Toward Fresh Record
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T11:52:43+00:00",
+      "published_utc": "2026-10-14T12:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
