@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T08:52:45.339801+00:00
+Última coleta: 2026-10-14T09:02:47.735081+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1136
-  🇨🇳 China          833
+  🇯🇵 Japão          1133
+  🇨🇳 China          834
   🇹🇼 Taiwan         292
-  🇰🇷 Coreia do Sul  739
+  🇰🇷 Coreia do Sul  741
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean minister rejects claim of W80b wasted on Brazilian egg imports
+  - [china] Inner Mongolia BaoTou Steel Union Fined 2 Million Yuan Over Container Explosion Accident
   - [china] Memory breakthrough by China's CXMT puts chip rivals on back foot
+  - [china] IMF calls for US to cut deficits amid bond woes, China to shift away from exports
   - [china] Memory breakthrough by China's CXMT puts chip rivals on backfoot
   - [china] China buys 8-10 US soybean cargoes in first deals since Trump-Xi summit, sources say
   - [china] China's exports soar in September, putting a trade surplus of US$1 trillion in sight
-  - [china] IMF calls for US to cut deficits amid bond woes, China to shift away from exports
+  - [korea] The Ministry of Finance and Economy announced a plan to foster the K-beauty industry incorporating a..
+  - [china] Surging China Exports Push Trade Surplus Toward Fresh Record
   - [korea] BOK chief stresses need to curb inflation amid AI boom, Mideast crisis
   - [china] EU-China deal on hybrid cars not addressing rising imports of car parts from China, FIEV says
   - [japan] Japanese Government Bonds Held by the Bank of Japan
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Asian equities stabilize following Wall Street tech selloff; oil nears $95, China trade data beats
   - [japan] Japan Bank Lending Remains Robust Despite BOJ Rate Hikes — Market Talk
   - [china] China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag
-  - [korea] SK hynix looks beyond HBM to tackle AI memory bottlenecks
-  - [china] China's crude stocks slump despite slight rise in September import rate
-  - [japan] How far will the Bank of Japan's interest rate hike be likely to exceed 2%? #Expert Topi (Koichi Fujishiro) - 
-  - [korea] Governor of the Bank of Korea: “Korea’s economy is clearly shaped like a K… inflation must be lowered through 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T08:52:45+00:00",
+      "published_utc": "2026-10-14T09:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
