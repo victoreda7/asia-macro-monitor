@@ -7,18 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-14T23:22:41.776841+00:00
+Última coleta: 2026-10-14T23:32:43.541078+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1131
-  🇨🇳 China          848
+  🇯🇵 Japão          1130
+  🇨🇳 China          849
   🇹🇼 Taiwan         292
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
-  - [taiwan] TSMC Set to Post Sixth Consecutive Quarter of Record Profit Thanks to AI Boom
   - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
+  - [taiwan] TSMC Set to Post Sixth Consecutive Quarter of Record Profit Thanks to AI Boom
   - [china] The Times said the central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [japan] US-listed semiconductor stocks continue to fall
   - [japan] U.S. semiconductor company plans to build new factory for up to 3 trillion yen based on Japan-U.S. agreement
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-14T23:22:41+00:00",
+      "published_utc": "2026-10-14T23:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
