@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T02:52:43.639091+00:00",
- "collected_at_utc": "2026-10-15T02:52:43.639091+00:00",
+ "generated_at_utc": "2026-10-15T03:02:42.443778+00:00",
+ "collected_at_utc": "2026-10-15T03:02:42.443778+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1123,
-  "china": 846,
-  "taiwan": 293,
-  "korea": 738
+  "japan": 1122,
+  "china": 847,
+  "taiwan": 294,
+  "korea": 737
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T10:17:43+09:00"
+   "newest": "2026-10-15T12:01:14+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:02:00+00:00"
+   "newest": "2026-10-14T06:31:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-14T21:30:06+00:00"
+   "newest": "2026-10-15T03:00:08+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T02:51:26+00:00"
+   "newest": "2026-10-15T03:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T20:48:21+00:00"
+   "newest": "2026-10-14T23:50:36+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:33:18+00:00"
+   "newest": "2026-10-15T02:52:58+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-15T01:57:34+00:00"
+   "newest": "2026-10-15T02:53:18+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-15T11:30:00+09:00"
+   "newest": "2026-10-15T11:50:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:47:03+00:00"
+   "newest": "2026-10-15T02:47:25+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T08:08:16+00:00"
+   "newest": "2026-10-14T23:13:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Hong Kong's sole yuan clearing bank plans mainland NCD issuance",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46102J:0-hong-kong-s-sole-yuan-clearing-bank-plans-mainland-ncd-issuance/",
+   "published_utc": "2026-10-15T03:01:00+00:00",
+   "title_original": "Hong Kong's sole yuan clearing bank plans mainland NCD issuance",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e2f976c006316d4e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46106P:0-bytedance-nears-chip-supply-deal-with-mediatek-for-data-centres-bloomberg-news-reports/",
+   "published_utc": "2026-10-15T03:00:19+00:00",
+   "title_original": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ff0b2937a58027ee"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -359,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "43ab7cff17f35b4d"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "What's behind the sudden turnaround and being fired in 4 weeks? Prime Minister Takaichi's \"Chiebukuro\" Minister of Agriculture, Forestry and Fisheries Yan Yan resigns, leading to chaos in the extraordinary Diet and the LDP coalition | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/961294?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-15T02:50:00+00:00",
+   "title_original": "急転直下｢4週間で更迭｣の裏で何が？ 高市首相の\"知恵袋\"簗農水相辞任で風雲急を告げる臨時国会と自維連立の混沌 | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d5d0b3ad031499cd"
   },
   {
    "source_id": "nhk_economy",
@@ -1048,6 +1099,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5f4fc9eccb384b11"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcG04a256NWJGdU9heHRpUjhKblUxNVlhVWUzTXJJQ2pSTGN5b0ZRcmNhZ01wVkVwZ2J2aE5FMXNPT0ktek5jaXJNQ3I4aHZQUGpYU1JQMDFGMTNacFVWN3FsamZuTi1nY2w4Z2lGWGY3aFFSbHJFRDN3cFJyeFRaR3lCS1Q?oc=5",
+   "published_utc": "2026-10-15T00:04:31+00:00",
+   "title_original": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f042fc07523f945c"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6663,6 +6731,23 @@
    "id": "b277839a18aa004f"
   },
   {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "China imposes sanctions on Paraguay, Belize ministers over Taiwan ties",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
+   "published_utc": "2026-10-12T19:21:58+00:00",
+   "title_original": "China imposes sanctions on Paraguay, Belize ministers over Taiwan ties",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d2909c578f738bbe"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China to Cut Export Tax Rebate for New-Energy Vehicles",
@@ -8709,23 +8794,6 @@
    "id": "5cbe027ddd637764"
   },
   {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "China imposes sanctions on Paraguay, Belize ministers over Taiwan ties",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlZjMXA3dXh6Z1ljWUVLdmthRFBsUlN0alB6Y0ZSYmVJMzVJbXJURjM3eGF4bW53S2Npc1lJai1GZjNDb1k1bkNoSTFndDRvOTQtcGVkOFJlczJRYW93NXdrRkU5U1Q1UXBRUktJeWhmSnNVcnEzUlVQajJiTzVRbk5wN2luMUN2R2VuMHYzNnY3UEV3d28xXzZaZUg4alpBRVV2NW9mczFRZw?oc=5",
-   "published_utc": "2026-10-12T02:54:00+00:00",
-   "title_original": "China imposes sanctions on Paraguay, Belize ministers over Taiwan ties",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d2909c578f738bbe"
-  },
-  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China sanctions 'pawn' Paraguay, Belize ministers over Taiwan ties",
@@ -9902,8 +9970,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -9916,7 +9984,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -10865,8 +10933,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -10880,7 +10948,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -11071,8 +11139,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -11086,7 +11154,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51852,77 +51920,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d20244f8e9694542"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴시스",
-   "title_en": "Soaring international oil prices and US government bond interest rates... Will the Bank of Korea raise interest rates next month?",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwR0JfRDNOWS02X295c0duVFdsVVVTQ0pBS1RIbFpfaFVnRkF1ZHljS1J4NHFoUjI5YVVqWWl0MFZNTmdNWDdhNHo5aGVGVmNuNzFMcmJESVRZVmsyTVhfampzMHMzdlI0MFY1OWNGekJyYkJBS09CTtIBeEFVX3lxTFAwR0JfRDNOWS02X295c0duVFdsVVVTQ0pBS1RIbFpfaFVnRkF1ZHljS1J4NHFoUjI5YVVqWWl0MFZNTmdNWDdhNHo5aGVGVmNuNzFMcmJESVRZVmsyTVhfampzMHMzdlI0MFY1OWNGekJyYkJBS09CTg?oc=5",
-   "published_utc": "2026-09-16T06:03:20+00:00",
-   "title_original": "치솟는 국제 유가·美 국채금리…한은, 내달 금리 올릴까",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "026c11668f4727dd"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Finance Minister Katayama: ``We're going to waste the budget.'' There's no way someone from the Ministry of Finance could do that...Hitoshi Mayama was a total waste (J-CAST News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQOWNrdHJnT2tfVW1pUW5PMmp0TjJZRUdTSzZzS1VsMW01UERzVEFqM0RuMHBWVGhYWkZ4ZEhtX3RmSjF2SjJ4d3cyMUl2MkpIX0poNFJpaGJCOTZNWUVSSUs3SkwtZU1wbVE0djNmbFYwRFRHX1o4VTUwYkJaRlk?oc=5",
-   "published_utc": "2026-09-16T05:45:00+00:00",
-   "title_original": "片山財務相「予算の無駄バッサバッサやる」 財務省出身者にできるはずない...真山仁氏はバッサリ（J-CASTニュース）",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a37aba98f0c32562"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Finance Minister Katayama: ``I'm going to waste the budget.'' There's no way a person from the Ministry of Finance could do that...Hitoshi Mayama was a total waste of money.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQOWNrdHJnT2tfVW1pUW5PMmp0TjJZRUdTSzZzS1VsMW01UERzVEFqM0RuMHBWVGhYWkZ4ZEhtX3RmSjF2SjJ4d3cyMUl2MkpIX0poNFJpaGJCOTZNWUVSSUs3SkwtZU1wbVE0djNmbFYwRFRHX1o4VTUwYkJaRlk?oc=5",
-   "published_utc": "2026-09-16T05:45:00+00:00",
-   "title_original": "片山財務相「予算の無駄バッサバッサやる」 財務省出身者にできるはずない...真山仁氏はバッサリ",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "44ff9bc7184e5b09"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "reuters.com",
-   "title_en": "EXCLUSIVE: SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVW1TN09JajVCZlllYVppOUxpX1RKbnVZOEpHNlA5ZkxFaElCd3h2czNacjJ6QlRyM2NPM1A4Y2tUVmNUTzlRSVJhX29oUk9ZTjFnYjFLOE9NWm5jaTVGOWo1Mnc1VHBOMTRKYXR0NURtUlltQV9ZVlgybWNSWmlDbjdVOGxLTTRlWFhGcUNNcjhYZXA2Q3BocGFpUF9sZXhYdXNURk5CVkZ2UVptUlUxOVQ1UmdOY1RUT2FvZDVBQ2EtNWRRbnpaMHlEYl9XQ2Ny?oc=5",
-   "published_utc": "2026-09-16T05:32:00+00:00",
-   "title_original": "EXCLUSIVE: SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "08ff083d405b6bd7"
   },
   {
    "source_id": "manual_ia",

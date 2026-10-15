@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T02:52:43.639091+00:00
+Última coleta: 2026-10-15T03:02:42.443778+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1123
-  🇨🇳 China          846
-  🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  738
+  🇯🇵 Japão          1122
+  🇨🇳 China          847
+  🇹🇼 Taiwan         294
+  🇰🇷 Coreia do Sul  737
 
 ## O que já está no feed (não repita)
 
+  - [china] Hong Kong's sole yuan clearing bank plans mainland NCD issuance
+  - [taiwan] ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports
   - [taiwan] Bytedance In Talks To Secure Mediatek AI Chips For Data Centers - Bloomberg News
+  - [japan] What's behind the sudden turnaround and being fired in 4 weeks? Prime Minister Takaichi's "Chiebukuro" Ministe
   - [japan] G20 Finance Ministers and Central Bank Governors Meeting begins, discussing responses to the global economy an
   - [japan] ``There is a fair amount'' of price rise risk, and there is no need to be overly cautious about raising intere
   - [china] IMF urges China to deploy bigger fiscal stimulus
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Securities Star morning news summary on October 15: The central bank released the latest social financing data
   - [korea] Kospi plunges nearly 6% as foreigners dump chip stocks
   - [japan] Japan's Nikkei tumbles as tech stocks hammered on US rate hike worries
-  - [korea] (LEAD) Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation
-  - [korea] If I get a housing pension of 2 million won per month, I think I'll be able to travel leisurely and..
-  - [japan] How can eel pie companies eliminate departmental deficits?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T02:52:43+00:00",
+      "published_utc": "2026-10-15T03:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
