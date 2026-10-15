@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T11:02:45.787936+00:00
+Última coleta: 2026-10-15T11:12:43.886328+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1119
+  🇯🇵 Japão          1121
   🇨🇳 China          841
-  🇹🇼 Taiwan         320
+  🇹🇼 Taiwan         318
   🇰🇷 Coreia do Sul  720
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan may appreciate further, but weak domestic demand and US yields pose risks: Report
+  - [japan] Japan economy minister stresses BOJ independence, rejects reflationist label
   - [korea] Why a memory chip glut could be Korea's weapon against China
   - [japan] Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction
+  - [korea] South Korea, Japan extend $10 billion currency swap for three years
   - [taiwan] TSMC eyes Texas and Musk Terafab project for US expansion
+  - [japan] Bank of Japan member: ``We won't be overly cautious about raising interest rates.'' Shows stance to maintain i
   - [taiwan] Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] TSMC's net profit hits record in third quarter
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 592032.26, Implies 89% Upside
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea, Japan agree to extend $10 billion currency swap
   - [taiwan] AI demand highlights Taiwan's semiconductor capabilities: Lai
   - [japan] Japan Industrial Output Falls More Than Estimated
-  - [taiwan] TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable
-  - [japan] Dollar slips despite hot U.S. CPI; yen firms on intervention warnings
-  - [korea] Kospi slides over 7% as chip stocks sink
-  - [taiwan] TSMC's Q3 net profit hits new quarterly high
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T11:02:46+00:00",
+      "published_utc": "2026-10-15T11:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T11:02:45.787936+00:00",
- "collected_at_utc": "2026-10-15T11:02:45.787936+00:00",
+ "generated_at_utc": "2026-10-15T11:12:43.886328+00:00",
+ "collected_at_utc": "2026-10-15T11:12:43.886328+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1119,
+  "japan": 1121,
   "china": 841,
-  "taiwan": 320,
+  "taiwan": 318,
   "korea": 720
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T05:30:45+00:00"
+   "newest": "2026-10-15T10:00:09+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T10:43:46+00:00"
+   "newest": "2026-10-15T10:53:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T19:56:51+09:00"
+   "newest": "2026-10-15T19:56:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T19:56:51+09:00"
+   "newest": "2026-10-15T19:56:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:15:34+00:00"
+   "newest": "2026-10-15T03:05:48+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T11:02:00+00:00"
+   "newest": "2026-10-15T11:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T08:51:20+00:00"
+   "newest": "2026-10-15T05:50:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T10:22:14+00:00"
+   "newest": "2026-10-15T10:37:12+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T06:35:14+00:00"
+   "newest": "2026-10-15T08:00:01+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T05:03:08+00:00"
+   "newest": "2026-10-15T08:42:49+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Asian News International",
+   "title_en": "China's yuan may appreciate further, but weak domestic demand and US yields pose risks: Report",
+   "url": "https://www.tradingview.com/news/moodys:f125628c88c6d:0-china-s-yuan-may-appreciate-further-but-weak-domestic-demand-and-us-yields-pose-risks-report/",
+   "published_utc": "2026-10-15T11:08:53+00:00",
+   "title_original": "China's yuan may appreciate further, but weak domestic demand and US yields pose risks: Report",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a58b43a313979324"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan economy minister stresses BOJ independence, rejects reflationist label",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4610UX:0-japan-economy-minister-stresses-boj-independence-rejects-reflationist-label/",
+   "published_utc": "2026-10-15T11:06:10+00:00",
+   "title_original": "Japan economy minister stresses BOJ independence, rejects reflationist label",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d310db3bfaaa2666"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -361,11 +396,11 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
-   "published_utc": "2026-10-15T10:56:51+00:00",
+   "published_utc": "2026-10-15T10:56:00+00:00",
    "title_original": "公明 消費税減税めぐり“1人あたり約8万円給付”提言まとめる",
    "region": "japan",
    "topics": [
@@ -377,7 +412,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ucll6M0tRbXZvV3V1YVdlb3VONlAxbFZlSVFrd00tNklITkU3eEVON2lYRXcxYW44eXNRclR0eF9helZDZVJSd0FnNlhReVRTRzkxaHdFZTVjRWVabFJLaFF1aF8yTWpXLThzZkJ1WTZCNlZwT3c?oc=5",
+   "published_utc": "2026-10-15T10:53:00+00:00",
+   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3fa8d36118a2fe2b"
   },
   {
    "source_id": "nikkei_asia",
@@ -395,6 +447,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6306a90f7dd8aa2a"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan member: ``We won't be overly cautious about raising interest rates.'' Shows stance to maintain interest rate hikes; also concerned about the risk of price rises (TV Asahi (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iQVc2NkRVVXM5UHFCOTBTTGl6SWF4NV92ZE1UY19sQm5QOGp3TEJ1VUVTeElVMW9WcmxTSTY3cjNTbVRuU2xhVmszdWcwejdHRDJZeWlpTHNfWmhpQ0p6bHJZanFLcGI3QWMyWnVobjhQTzMwUWpjY2NuSllOSEk?oc=5",
+   "published_utc": "2026-10-15T10:37:12+00:00",
+   "title_original": "日銀委員「利上げに過度に慎重になることはない」 利上げ維持する姿勢を示す 物価上昇リスクも懸念（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "56cba331d30ff847"
   },
   {
    "source_id": "tradingview_live",
@@ -1262,6 +1332,24 @@
    "id": "8f8a02ef50b51fdc"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) Seoul shares crash over 7 pct on chip rout amid AI, inflation woes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85Q1ZaSHZYWDdXcXh1Ml8wREZUTFh0SjNkcnRMb1dROFlhVXkwazFSYTFPZEhDa3N6VmlXRklOT19HZ1pSUURlRzlDV3pLRkRhS3ZaTS0zVVJodw?oc=5",
+   "published_utc": "2026-10-15T06:33:52+00:00",
+   "title_original": "(URGENT) Seoul shares crash over 7 pct on chip rout amid AI, inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d8e4f74102924c1c"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
    "title_en": "Taiwan Semiconductor Manufacturing in charts: Advanced chips drive 79% of Q3 wafer revenue",
@@ -1435,40 +1523,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d078746b7cdc43ac"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "TSMC Expects 4Q Revenue Between US$52.3B-US$54.3B",
-   "url": "https://www.tradingview.com/news/DJN_DN20261015001009_20261015001009:0-tsmc-expects-4q-revenue-between-us-52-3b-us-54-3b/",
-   "published_utc": "2026-10-15T06:07:00+00:00",
-   "title_original": "TSMC Expects 4Q Revenue Between US$52.3B-US$54.3B",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1f4fc296269b4d6a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "TSMC Expects 4Q Gross Margin Between 65%-67%",
-   "url": "https://www.tradingview.com/news/DJN_DN20261015001009_20261015001013:0-tsmc-expects-4q-gross-margin-between-65-67/",
-   "published_utc": "2026-10-15T06:07:00+00:00",
-   "title_original": "TSMC Expects 4Q Gross Margin Between 65%-67%",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "de611d7f85d98312"
   },
   {
    "source_id": "nhk_economy",
@@ -2583,6 +2637,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1961474e61cbfd6b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财联社",
+   "title_en": "Hong Kong Stock Morning Post｜The central bank launched a 700 billion reverse repurchase on the 15th, and the U.S. Nasdaq fell nearly 2%. Popular Chinese concept stocks generally fell.",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBObkJmeDNLaU5hT0JtQlloZ1ZZYXBWU2dTS0VERzJpQjFGYXVpRGJlUFp6Y043MV9NTUdTUGNOMHhHbWNxQ0FySg?oc=5",
+   "published_utc": "2026-10-15T00:21:00+00:00",
+   "title_original": "港股早报｜央行15日开展7000亿逆回购 美股纳指跌近2%热门中概股普跌",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6d8ac6e216c1a40f"
   },
   {
    "source_id": "gn_kr_mk",
@@ -11658,8 +11729,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -11672,7 +11743,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -51867,74 +51938,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b27723b5dc24ee7c"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "reuters.com",
-   "title_en": "China's Huawei sets 2027 launch for new AI chips as it targets Nvidia",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
-   "published_utc": "2026-09-17T02:40:00+00:00",
-   "title_original": "China's Huawei sets 2027 launch for new AI chips as it targets Nvidia",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fb502b62647d188a"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Adds Currencies to Central Clearing in Yuan’s Global Push",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3JSRGxaUHo3dUNyaFMzTmk5UUVoWWdhdWpTaFVFaGFZUzZLdDEzZGdHcVRPZFZTcXBHdUw5M2t4dDlwdmRSdEhzR25WRk01bGp5NHd3OHRqQW1YZ2lqWS1TY25NdGtlbWRJSm10QkRpOWRpLTliWFg1QjFTVGFVeGI0Zkg3cE4xV29waTdFaXZQeXBrcHVlOEJSMTZnemVNbnZ3QUtMT1F6Q3RqdERJelNZeDc?oc=5",
-   "published_utc": "2026-09-17T02:31:47+00:00",
-   "title_original": "China Adds Currencies to Central Clearing in Yuan’s Global Push",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a3ad1464bb32cc82"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "조선일보",
-   "title_en": "The Bank of Korea holds a market situation review meeting immediately after the U.S. base interest rate increase... Considering whether to increase interest rates further",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQno0bzF5M0R1R2NxUF9wMGdFS1RWT1JWVC1rNWpGQ2Mwc19WOGl0VWhaU2xKTmd2TW92RUFXRzBRWHFjSlVOYmNnRVJxSVpUSGJ0a1piS0FjVXBHcndLWllUSU5LM3laYTZFU2lpSGxhYXE3Z1U5SEdVZkZjdndfQlAxMHpjWW5ybVQ2Qjh3?oc=5",
-   "published_utc": "2026-09-17T02:15:00+00:00",
-   "title_original": "한은, 美 기준금리 인상 직후 시황 점검 회의 개최…추가 금리 인상 여부 고심",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e77da04b4c7facb"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix climb despite Wall Street losses",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04TGRWSG95MFpZWGdiT0JEOVF2NW1jeFRoMFNMUnVKMjRpRFNBd3p3cUg2TFB2SFdKaURxa3FsNkdlQjFybGkzOUpickZ1ekhkYzVhZU1SWQ?oc=5",
-   "published_utc": "2026-09-17T02:11:33+00:00",
-   "title_original": "Samsung Electronics, SK hynix climb despite Wall Street losses",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ddc434e83b97f45a"
   },
   {
    "source_id": "manual_ia",
