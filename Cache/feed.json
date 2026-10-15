@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T02:12:43.495077+00:00",
- "collected_at_utc": "2026-10-15T02:12:43.495077+00:00",
+ "generated_at_utc": "2026-10-15T02:22:44.065652+00:00",
+ "collected_at_utc": "2026-10-15T02:22:44.065652+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1123,
-  "china": 848,
-  "taiwan": 293,
-  "korea": 736
+  "japan": 1124,
+  "china": 846,
+  "taiwan": 292,
+  "korea": 738
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 31.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T23:00:00+00:00"
+   "newest": "2026-10-15T00:53:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T01:49:29+00:00"
+   "newest": "2026-10-14T04:00:21+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T01:58:41+00:00"
+   "newest": "2026-10-15T02:13:54+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T11:02:33+00:00"
+   "newest": "2026-10-15T11:12:20+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T02:01:24+00:00"
+   "newest": "2026-10-15T02:21:26+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T20:48:21+00:00"
+   "newest": "2026-10-14T23:50:36+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T01:50:06+00:00"
+   "newest": "2026-10-15T02:00:43+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T01:33:12+00:00"
+   "newest": "2026-10-15T01:51:19+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T08:08:16+00:00"
+   "newest": "2026-10-14T23:13:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Board Member Indicates Further Room for Rate Hikes",
+   "url": "https://www.tradingview.com/news/DJN_DN20261014009394:0-boj-board-member-indicates-further-room-for-rate-hikes/",
+   "published_utc": "2026-10-15T02:16:00+00:00",
+   "title_original": "BOJ Board Member Indicates Further Room for Rate Hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8105bc5050e15a16"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -394,6 +412,23 @@
    "live_wire": true,
    "manual": false,
    "id": "894a0aaeaa45b553"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ should not be overly cautious in raising rates, board member Koeda says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46101P:0-boj-should-not-be-overly-cautious-in-raising-rates-board-member-koeda-says/",
+   "published_utc": "2026-10-15T02:05:55+00:00",
+   "title_original": "BOJ should not be overly cautious in raising rates, board member Koeda says",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "133c142431bcd297"
   },
   {
    "source_id": "investing_live",
@@ -497,6 +532,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3ee6dc09beb323e8"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The cancellation of land supply contracts by the Korea Land and Housing Corporation (LH) increased a..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YVWJBTXpWdmE2am5WQjJyZDk5T3RNd3loVkJDd1lkWkJ3c005cXoyTk9BX21UV1ZZZEJYc0RKMnVIcHQ1Q2x5RGYzdGhJRDBCNGc?oc=5",
+   "published_utc": "2026-10-15T01:51:19+00:00",
+   "title_original": "The cancellation of land supply contracts by the Korea Land and Housing Corporation (LH) increased a..",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c550eca606dd8ed5"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -686,6 +738,24 @@
    "live_wire": true,
    "manual": false,
    "id": "ed3ac336c43109af"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Japan’s Katayama Renews Warnings on Yen After US CPI Heats Up",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFBHMlJGT29yUlFPTXdnR3FvOFhJQ3VxRFdOZ2QyRFljTlh4cGVoTDgwTmowd0l0cFctalZYWHA5eEdzQy1tSHVrQTUtTVhlNEY3LTBIWmlKYy1nSXZjRjJoZjN5cjNMR01xMEt1MFFLQmRUeWJhUC1CVkthTTdENV8tdXN1aXMwcWFFX2JDX3o2X1cwZXhLOTRUMFU1R1BfODNKa090UlU4bUxkLUU4OTBB?oc=5",
+   "published_utc": "2026-10-15T00:53:00+00:00",
+   "title_original": "Japan’s Katayama Renews Warnings on Yen After US CPI Heats Up",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "324e9949a08f3758"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -893,6 +963,23 @@
    "live_wire": false,
    "manual": false,
    "id": "864d4016cab82a16"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "https://www.2news.co.kr/",
+   "title_en": "Aftermath of interest rate hike… Deposits with high interest rates in the 4% per annum range appear in the banking sector.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oc1F4bW5GRGVvbmNKVTJicjRzajBjLXEwakVPakxZT1k2WUI4blB6eWQxM2RxVHdVaDBDeDVPWjNFRU1mUnRURkg1RWJuSjRqUnVZRm4xLWR6c0N3NzlWUU5IRV9xbE9J?oc=5",
+   "published_utc": "2026-10-14T23:13:00+00:00",
+   "title_original": "기준금리 인상 여파… 은행권 연 4%대 고금리 예금 등장",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4378c0657bb65dbc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -9660,8 +9747,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -9674,7 +9761,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -10623,8 +10710,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -10638,7 +10725,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -10829,8 +10916,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -10844,7 +10931,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51837,93 +51924,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e0e357f43e6e1485"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Hanmi Semiconductor reportedly lands first back-end foothold at Terafab",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVHZTYlQ4NEU2T1AtTWdSVFZPdndvUG9oTjlwam1rT05uc2dyd0JjUTBiVjROUnh5S1JjY2FjZEZLQUF5WGtFVzN4V3lDdUxsQ0hHX3J2OXpUcmxnc19nZkJ0c0ZscXRnWEVod0hjemNkRXZPSWNRTE5wM1hXOTBvTGExOU13WEdLdlhTb2xqTlUzOXdzdFFRaEx2UmV6NHA0czJV?oc=5",
-   "published_utc": "2026-09-16T03:49:52+00:00",
-   "title_original": "Hanmi Semiconductor reportedly lands first back-end foothold at Terafab",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f13021a5157a6a02"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "BOJ set to raise interest rates to 31-year high as inflation risks loom By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzV6WXViUXZabGlodEE2VndXX1BGaFJkc0EtQXZCV3VWS2xscHVzeGZPZ1hRRlQyb1VyVVVHcFJPaW0xbkxHSFdtN3pKeVI1MVhoNXYxNFBna0xhODh6SHVnWlVabkx5U2NDLThsMDNRNnZKY09pZlFYTC1NQ2NEckxIQ0lKYnc3Vi1mVjd6X2llRWZ5WGhXR2llRXh0QUJYX0ZsOWJ3RGozckhiYlN6UjVkcUs2cTRWRHBtSEJDWQ?oc=5",
-   "published_utc": "2026-09-16T02:57:32+00:00",
-   "title_original": "BOJ set to raise interest rates to 31-year high as inflation risks loom By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d0e35172160d004b"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
-   "url": "https://www.investing.com/news/economy-news/boj-set-to-raise-interest-rates-to-31year-high-as-inflation-risks-loom-4902847",
-   "published_utc": "2026-09-16T02:48:26+00:00",
-   "title_original": "BOJ set to raise interest rates to 31-year high as inflation risks loom",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "98836b8c79a6bba4"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Shrinking Chinese Fuel Inventories Raise Chance of Export Curbs",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONFBhdDlXdXFtaUJ0YXdJOFpFeF9nRnI1d2xIMGdvWEhQQ3otN0NqUFNYTU5NYTBRM2lvckhzbWItSmFLNmVkTXpSQWd0ZlI0aHhqZzVIOFFtMXJvd285cEJZSnBPa3VuQlNKRFZoTUh6UlVVNXphNkxPMnVJZEJVOHFXcUUwV3FTbUItNlhDd0lOSGR3SFVtU0U2YzZiVFlfbDRLY1lGSFNpWng4T19UM0pUZlI?oc=5",
-   "published_utc": "2026-09-16T02:38:00+00:00",
-   "title_original": "Shrinking Chinese Fuel Inventories Raise Chance of Export Curbs",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3bf982b5b24c964b"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
-   "url": "https://www.investing.com/news/economy-news/us-treasury-chief-says-rising-bond-yields-due-to-global-issues-4902150",
-   "published_utc": "2026-09-16T02:12:49+00:00",
-   "title_original": "Bessent defends Trump economic policies, reveals plans to meet Chinese official",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c97a98df2dabad1"
   },
   {
    "source_id": "manual_ia",

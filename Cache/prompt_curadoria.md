@@ -7,25 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T02:12:43.495077+00:00
+Última coleta: 2026-10-15T02:22:44.065652+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1123
-  🇨🇳 China          848
-  🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  736
+  🇯🇵 Japão          1124
+  🇨🇳 China          846
+  🇹🇼 Taiwan         292
+  🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Board Member Indicates Further Room for Rate Hikes
   - [korea] Why a memory chip glut could be Korea's weapon against China
   - [korea] Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say
   - [korea] Why is SK Hynix stock plunging today?
+  - [japan] BOJ should not be overly cautious in raising rates, board member Koeda says
   - [korea] Why is Samsung Electronics stock plunging today?
   - [taiwan] TSMC Set to Post Sixth Consecutive Quarter of Record Profit, Thanks to AI Boom
   - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
   - [china] China stocks fall, led by tech, as US inflation stokes Fed fears
   - [china] "Three polarizations" are occurring in the Chinese economy, where domestic demand has fallen sharply...The rea
   - [japan] Stock prices temporarily fell by more than 3,000 yen against the backdrop of expectations for a US interest ra
+  - [korea] The cancellation of land supply contracts by the Korea Land and Housing Corporation (LH) increased a..
   - [japan] Bank of Japan member says there is "no need to be cautious" in raising interest rates (Kyodo News)
   - [japan] BOJ should not be overly cautious raising rates, board member Koeda says
   - [china] CHINA PBOC CONDUCTS CNY45 BLN VIA 7-DAY REVERSE REPO THURS
@@ -37,6 +40,7 @@ Total: 3000 manchetes
   - [korea] Hot US inflation hammers Kospi nearly 6% lower as chips buckle
   - [japan] Summary of the "Meeting on Market Operations" (October 2026)
   - [taiwan] Key facts: TSMC (2330) Q3 revenue NT$1.49T record; 2026 capex $60–64B
+  - [japan] Japan’s Katayama Renews Warnings on Yen After US CPI Heats Up
   - [japan] Asian markets sell off as AI trades crumble after hot US CPI data
   - [japan] Japan’s Nikkei Slumps on Hot US Inflation
   - [korea] Seoul stocks open sharply lower on lingering concerns over AI, US inflation
@@ -49,14 +53,10 @@ Total: 3000 manchetes
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation. In September, imports and
   - [korea] Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
+  - [korea] Aftermath of interest rate hike… Deposits with high interest rates in the 4% per annum range appear in the ban
   - [china] The Times said the central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [japan] US-listed semiconductor stocks continue to fall
   - [japan] U.S. semiconductor company plans to build new factory for up to 3 trillion yen based on Japan-U.S. agreement
-  - [japan] G20 Finance Ministers and Central Bank Governors Meeting to begin on the 15th
-  - [japan] Fed economic report “Price growth pace is accelerating in some areas” Focus on timing for additional interest 
-  - [japan] <Competitors are withdrawing or making losses> A new frontier for Uber Eats, which has been in the black for t
-  - [japan] JR Hokkaido's "Yellow Line Area" fundamental improvement plan is in chaos, financial support of 380 billion ye
-  - [japan] Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York By Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T02:12:43+00:00",
+      "published_utc": "2026-10-15T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
