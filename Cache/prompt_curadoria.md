@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T17:12:44.803116+00:00
+Última coleta: 2026-10-15T17:22:45.579323+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1121
-  🇨🇳 China          843
+  🇯🇵 Japão          1122
+  🇨🇳 China          842
   🇹🇼 Taiwan         324
   🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [japan] Finance Minister Katayama agrees to extend Japan-Korea currency swap
   - [korea] SK Hynix stock: Up big in H1, down 58% from peak in H2 - is the AI boom losing steam?
   - [taiwan] TSMC earnings analysis: questions answered and next catalysts
   - [korea] Kospi slides over 7% as chip stocks sink
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's yuan may appreciate further, but weak domestic demand and US yields pose risks: Report
   - [japan] Japan economy minister stresses BOJ independence, rejects reflationist label
   - [korea] Why a memory chip glut could be Korea's weapon against China
-  - [japan] Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T17:12:45+00:00",
+      "published_utc": "2026-10-15T17:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

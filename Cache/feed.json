@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T17:12:44.803116+00:00",
- "collected_at_utc": "2026-10-15T17:12:44.803116+00:00",
+ "generated_at_utc": "2026-10-15T17:22:45.579323+00:00",
+ "collected_at_utc": "2026-10-15T17:22:45.579323+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1121,
-  "china": 843,
+  "japan": 1122,
+  "china": 842,
   "taiwan": 324,
   "korea": 712
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T16:54:54+00:00"
+   "newest": "2026-10-15T17:16:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T16:54:41+00:00"
+   "newest": "2026-10-15T17:00:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T01:09:49+09:00"
+   "newest": "2026-10-16T02:12:25+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T17:12:08+00:00"
+   "newest": "2026-10-15T17:21:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Finance Minister Katayama agrees to extend Japan-Korea currency swap",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261015de60139",
+   "published_utc": "2026-10-15T17:12:25+00:00",
+   "title_original": "片山財務相 日韓通貨スワップ延長で合意",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cd6105fdfb77cbbe"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Mint",
@@ -446,8 +464,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -461,7 +479,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -1012,8 +1030,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -1028,7 +1046,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_kr_ked",
@@ -1290,24 +1308,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0615fa79a855dd45"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Policymaker: BOJ shouldn't be too cautious raising rates",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zREY2YmRXTkN0UUVkMWRPeVJQQTZBVUhwUWZRT0YzVXBQMmJtYlFBUE5oUkhKMjNXSEJnRkhkX3BrSEJuN1pXNUU0QjctelM3OFdLQWc2OFRnU2p1S09ZdGNwaw?oc=5",
-   "published_utc": "2026-10-15T09:41:57+00:00",
-   "title_original": "Policymaker: BOJ shouldn't be too cautious raising rates",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5bdb98f54dcc2c13"
   },
   {
    "source_id": "investing_live",
@@ -2393,7 +2393,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 45 billion yuan seven-day reverse repurchase operation with an interest rate of 1.40%, the same as last time",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIZTNQLUx0alAyb0paZ1JpQmJxQVlLZnRueHB6VGhiM0VFLTA1MzltMnRjamRrQ0ZxZ2NvX09MNUltNUlfVXBsMFVBUjdyUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBydU9xV3NKMEUteXRjMkFGd2JDRUtxVi1WbDNuM1B1clotbHNjaUl6TnhsZEVnVTNSejQ3cEU0UTREZUZaZm9OUnBHczBoRkxlNjV1UjVpbHViNFM2eUtINi1B?oc=5",
    "published_utc": "2026-10-15T03:05:48+00:00",
    "title_original": "央行开展450亿元七天期逆回购操作 利率1.40%持平上次",
    "region": "china",
@@ -2405,7 +2405,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5cfa930262ea83a4"
+   "id": "fc9a5bdca9ce7c96"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -2493,6 +2493,24 @@
    "live_wire": false,
    "manual": false,
    "id": "3abb671c1c48032a"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Policymaker: BOJ shouldn't be too cautious raising rates",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zREY2YmRXTkN0UUVkMWRPeVJQQTZBVUhwUWZRT0YzVXBQMmJtYlFBUE5oUkhKMjNXSEJnRkhkX3BrSEJuN1pXNUU0QjctelM3OFdLQWc2OFRnU2p1S09ZdGNwaw?oc=5",
+   "published_utc": "2026-10-15T02:42:57+00:00",
+   "title_original": "Policymaker: BOJ shouldn't be too cautious raising rates",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5bdb98f54dcc2c13"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -12537,6 +12555,24 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
+   "title_en": "The central bank uses multiple tools to protect liquidity and funds are expected to remain stable in October | fiscal expenditure | National Day | reverse repurchase | policy | research report",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTy01MnRwMS1xakR0OVZKWkhrNUlBSGozN1ZocTZnUDhCRHJPSWhTX0IxM2p4U3VJdm10X05Sd1hFZWUzQ2FYNGZ2eHViOXBOVFJSclFUX2huOEE3ZWZLWkppQzRtX1ZMVVl2eV9FX3owM2RNdEJEeFdiOXFiUGU5MjltLVdyeEI2RkhENnhPa0k0cHdXSnZvcV8xSHY4TlB1bHFnbS1oVXI1TzltZzBjVUp3NjhMM2I4XzhnUWZLTW1KbjBJdHpWb3lLWVdUWVlyUGNhT05GWFYtLWRTRWh0cEZnZFI5NDktejBIM0xpemFuR29OVjRzLV9wcUo1ejlNRVhvS0lSeVN5UG10cjRWTHdn?oc=5",
+   "published_utc": "2026-10-10T04:30:14+00:00",
+   "title_original": "央行多工具呵护流动性10月资金面有望保持平稳|财政支出|国庆节|逆回购|政策|研报",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "42e113a823ef7b53"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
    "title_en": "Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's Bank of China | Mortgage supplementary loans | Central Bank | Liquidity | Reverse repurchase",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWFpTR2pmcWtqX2lmc3U0RGxKTU12RW96cERlMnZ2Y29OVEFVcFpsR25RRGExaVo5d0N6WjdpOUJrWk1aT1ZLLUZ5WlZfaHBrbkNxNzNOek9JelJZWUVCMlBXNWw5WVVkUVktVW04Ym5MeE1hWVFIWGlON3JSVjlqMWd6bkU5M0QxS1E?oc=5",
    "published_utc": "2026-10-10T04:09:07+00:00",
@@ -12605,24 +12641,6 @@
    "live_wire": false,
    "manual": false,
    "id": "63719e4e3204da4b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank uses multiple tools to protect liquidity and funds are expected to remain stable in October | fiscal expenditure | National Day | reverse repurchase | policy | research report",
-   "url": "https://news.google.com/rss/articles/CBMikgpBVV95cUxPYXJDNHFZM2Y1T1U0bDJrazQzN1VnZFluaXBfZndJNnVuS1ZUaHE4YnR4Rkp6Y0trYm5vT1FsektQSXExNjhOdjBveVQyek43YmVEWmpPNFVWVW9EdVpyN2Y2TTdSLXBrY3ZYbUxKWi02Ung5bnpJUmJmbDF3TVU5LU91RHgyZGN6ZDYxeTdGaVdONlVOUGw0dlQ5alhFUVZqazVUZEVFU3V4a2U3THFJT0VaVWlxYzl1VFdYU3hBSmxFa0VMQ1lyUEpoS3pkVGtBS2JULVBjLWtvV0wxTG04VGRpVHluQXFJTEhleU1DaTAwQjJJRE1TTDZpbG9PVHNMWmZST240NmNuY21od09GM3BnR2pyTUhOcFR1RF94dWZuS24zMkQ5YmF1a3A2U1BmUU1QSzE1amJPb1MxS2xoamhYejlnblg1NDVnNkE1SDVkcWMycmVyVFFXRGFKemRzS01CZmJFY21KMlRmN3V6OVJZbThmSm5JWXdiN3AwdkVfa0J6aFF1UzVNR1FRa3NIa2EyTjdHWndvTUk3OWx0endTSnpuUFZhM2YyLWt1RWVhRmotSzl3RFVxdDdaU1FqSlprYXcyYXRINmhWWWpsN3JoWlphS1ljaEVPbnhTZE5YZTZ3Qkc0TDVnRzkxckg2LVRQNllqMkp3QnZMc2p4QWNNM3pQb193YWV3RXlzdHpibmlHMXh6MlBnVkw2emRWREIwS2dLSVZIbEw5TlhBQW9nY0dIbTNoRWk4ZGw5aG4tZXc5UnItTmRXbEZ4QVVMS05XUFhHcm5aZ3hLWVdac0d4REhmcW5DV2VLZ0tnSkJ4QzE4YU4tdXJUVzVpVDBxLU53MFNuZFNXRHZyYVRUSXcwLUl4ZmZHaVp2R21mQlhwaFlaeUp3VFE1U3RKZldCUGlsRWszMUdfdHQ3RXF3RDJSNFNrcXRHQ2MzZHd3bWpTdHkxLVRzbHkzbEFVTHdLUGo1SXpHSTdSR0lHTlFKLVhBZ0tDcXJRb09BS0VjRVUtMGEyTXdfU1YwOXNWTnh6eGR2SmNWN3F3RmJKbjZZUzZIZFA0NkNfTW1CaVZzeUZkbHhOZWk5ZVFjSzJSQ0VTd3gyOUVwX0k0enZCcXhFZ2ZDNENWZ1R3dkF3elh1MHl1RmEzNXV4azdYWjBVamRzMi0tcU9BRGF2M0M1V2xBeTM2RFJodkdyVHdBcVNoWGQza2VPc1QwSWNFdFp0N1UydFRIU3NhRlB6SlhDcXg3WElMcGduWExUd0EwUzBXSWRiVUNtLWpMSDZCUUp5VmxtY0dIaXlFQ2NaYTR1dlQ1THFXdnhSemlaUTJTNklYN2lXeWJvc211U0l0LXVBSk1Hb0VUcDBiQWdQZEVXS09ZVUJsdjJGUkVxVFBGdWl5RUJrS180Z1c0LWdNS25OVHZ1cGlKdDZRQzZ2Rk4xU1FDdFViNHRDenhWdXNMUXhUNTN1aUJON2puLXJvT2xfeEUtcmdidjdTMW1WSFR4NG8xYVBBSk1Wal9nSi1naG5jbUduWGRZMlVOajkwbG1jUzc2YzRuZkRRSVZuekREWENqZGZVTFZpUUt4cjNuS2tudUprU0lITzUxaG5Bdm5sNmxWV2p5R0dzUV85Tl9rWjFYU3d0QkE3R3NRYWhGOURuOURwZzVrdjVXUmtTVXRiMzROUmJpeWtNak1XbnBwd2RGeGZ6d1k5YVVRejZ3bjdmQ3hpdw?oc=5",
-   "published_utc": "2026-10-10T02:17:58+00:00",
-   "title_original": "央行多工具呵护流动性10月资金面有望保持平稳|财政支出|国庆节|逆回购|政策|研报",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6cac576e6cb92d5f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51912,24 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "564b4ebad766020d"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Commentary: To Revive Consumption, China Must Defend Both the Yuan and Incomes",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNWJjWFVBb2U3WFZWVDZBRmlIb2xoNEhQbGQ2TUxBUE1yMXdqaEtJZm0xRDBOOWhha2o0dkJVVVlQOGg1WmJNZjc2eHlmQ1FhSUhnWmVhYm83WG9aOWwzemRGNnYzS3lRd283UlJVOU9kWmhvQzdHY3NMYjA5dV9hN1pVcW1DTzRDUDVGcWhHUDV0QnluZzhDbTdQRjhLbllKWTg0SlAwZjhhUDBCVWVwTlNSRzZJVzlhNVRBWERGSDJhMVZmTGNHT19oTQ?oc=5",
-   "published_utc": "2026-09-17T07:00:00+00:00",
-   "title_original": "Commentary: To Revive Consumption, China Must Defend Both the Yuan and Incomes",
-   "region": "china",
-   "topics": [
-    "fx",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8fee6a00727c99b3"
   },
   {
    "source_id": "manual_ia",
