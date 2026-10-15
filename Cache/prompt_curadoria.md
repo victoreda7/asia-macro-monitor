@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T15:32:45.365124+00:00
+Última coleta: 2026-10-15T15:42:45.670090+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1122
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] US retail sales show solid growth of +0.8% in September
   - [taiwan] TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short
   - [japan] Mazda brings part of its supply chain back to Japan with help from robots
   - [japan] Further Possible BOJ Tightening Could Lift Japanese Yen — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan economy minister says deflation era is over, urges investor rethink
   - [japan] [Volatility of AI/semiconductor stocks will further increase] Japanese stocks are in turmoil after the US midt
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining fShares
-  - [taiwan] TSMC revenue rises 41% as AI chip demand drives growth
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T15:32:45+00:00",
+      "published_utc": "2026-10-15T15:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
