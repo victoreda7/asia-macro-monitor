@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T02:22:44.065652+00:00
+Última coleta: 2026-10-15T02:32:44.350799+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1124
@@ -19,10 +19,12 @@ Total: 3000 manchetes
 
   - [japan] BOJ Board Member Indicates Further Room for Rate Hikes
   - [korea] Why a memory chip glut could be Korea's weapon against China
+  - [japan] BoJ Koeda Urges Timely Rate Hikes Amid Inflation Risks
   - [korea] Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say
   - [korea] Why is SK Hynix stock plunging today?
   - [japan] BOJ should not be overly cautious in raising rates, board member Koeda says
   - [korea] Why is Samsung Electronics stock plunging today?
+  - [japan] Bank of Japan council member emphasizes continuing interest rate hikes: ``There is no need to be cautious'' (K
   - [taiwan] TSMC Set to Post Sixth Consecutive Quarter of Record Profit, Thanks to AI Boom
   - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
   - [china] China stocks fall, led by tech, as US inflation stokes Fed fears
@@ -44,6 +46,7 @@ Total: 3000 manchetes
   - [japan] Asian markets sell off as AI trades crumble after hot US CPI data
   - [japan] Japan’s Nikkei Slumps on Hot US Inflation
   - [korea] Seoul stocks open sharply lower on lingering concerns over AI, US inflation
+  - [china] Securities Star morning news summary on October 15: The central bank released the latest social financing data
   - [korea] Kospi plunges nearly 6% as foreigners dump chip stocks
   - [japan] Japan's Nikkei tumbles as tech stocks hammered on US rate hike worries
   - [korea] (LEAD) Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [korea] Aftermath of interest rate hike… Deposits with high interest rates in the 4% per annum range appear in the ban
-  - [china] The Times said the central bank will launch a 700 billion yuan buyout reverse repurchase operation
-  - [japan] US-listed semiconductor stocks continue to fall
-  - [japan] U.S. semiconductor company plans to build new factory for up to 3 trillion yen based on Japan-U.S. agreement
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T02:22:44+00:00",
+      "published_utc": "2026-10-15T02:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
