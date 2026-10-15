@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T06:52:43.228748+00:00",
- "collected_at_utc": "2026-10-15T06:52:43.228748+00:00",
+ "generated_at_utc": "2026-10-15T07:02:43.217088+00:00",
+ "collected_at_utc": "2026-10-15T07:02:43.217088+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1118,
+  "japan": 1117,
   "china": 843,
   "taiwan": 307,
-  "korea": 732
+  "korea": 733
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T00:51:00+00:00"
+   "newest": "2026-10-15T04:12:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T06:51:00+00:00"
+   "newest": "2026-10-15T07:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T22:30:00+00:00"
+   "newest": "2026-10-15T06:18:10+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-15T05:43:57+00:00"
+   "newest": "2026-10-15T06:54:08+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "TSE closing price 3318 yen lower, third largest decline",
+   "url": "https://news.yahoo.co.jp/pickup/6598878?source=rss",
+   "published_utc": "2026-10-15T06:54:08+00:00",
+   "title_original": "東証終値3318円安 3番目の下げ幅",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "31a5fdff39d6443b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -4276,7 +4293,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase on October 14",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YY0c1aUtuTVVETTVJcjNrNXFjbXZURGRjdUZfTkI2S0EyNGZGYTJPWlgtdEx5VURnMnFsNlhkVFdDRHR3MzlBWGlkUk91dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4RDVPNWRKNkp6NVFlS1FIVXd2aVhWWUVQSXp0aElicFl6aGdsc05nQXBJQkxqVXhNTVZqVVQ5RFNBTTl3YmJUdThGTVU4Y3ZRTUpRN1JkUUtpVVQ1cVZtQnp3?oc=5",
    "published_utc": "2026-10-14T03:17:32+00:00",
    "title_original": "央行10月14日开展560亿元7天期逆回购",
    "region": "china",
@@ -4288,7 +4305,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6cb881ecd5e2a771"
+   "id": "a1a20660d44d01ab"
   },
   {
    "source_id": "nikkei_asia",
@@ -6046,6 +6063,23 @@
    "live_wire": true,
    "manual": false,
    "id": "dadd26673c5f1502"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "CXMT's server DRAM push raises margin concerns for Samsung, SK Hynix",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmh5TDE3YTVsYlI2LWxfMmZfUWcwbDJ0U3poR0REb1ZQSTRibzdsNlJyUEduQjBabVBJMVFBZVJ2SDJVY1lpYVBocTY2bUJzdkxXanpDZnNMeENXb3JQOW94a0NSLWF0eVhRalpOY2VWSmhRWTdvTURHeUIyalB3VzdPSHVsTm1MVnJ1Z1JYcUprZw?oc=5",
+   "published_utc": "2026-10-13T08:24:49+00:00",
+   "title_original": "CXMT's server DRAM push raises margin concerns for Samsung, SK Hynix",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e2c0da40e161444"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -11303,6 +11337,24 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
+   "title_en": "The central bank uses multiple tools to protect liquidity and funds are expected to remain stable in October | fiscal expenditure | National Day | reverse repurchase | policy | research report",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTy01MnRwMS1xakR0OVZKWkhrNUlBSGozN1ZocTZnUDhCRHJPSWhTX0IxM2p4U3VJdm10X05Sd1hFZWUzQ2FYNGZ2eHViOXBOVFJSclFUX2huOEE3ZWZLWkppQzRtX1ZMVVl2eV9FX3owM2RNdEJEeFdiOXFiUGU5MjltLVdyeEI2RkhENnhPa0k0cHdXSnZvcV8xSHY4TlB1bHFnbS1oVXI1TzltZzBjVUp3NjhMM2I4XzhnUWZLTW1KbjBJdHpWb3lLWVdUWVlyUGNhT05GWFYtLWRTRWh0cEZnZFI5NDktejBIM0xpemFuR29OVjRzLV9wcUo1ejlNRVhvS0lSeVN5UG10cjRWTHdn?oc=5",
+   "published_utc": "2026-10-10T04:30:14+00:00",
+   "title_original": "央行多工具呵护流动性10月资金面有望保持平稳|财政支出|国庆节|逆回购|政策|研报",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "42e113a823ef7b53"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
    "title_en": "Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's Bank of China | Mortgage supplementary loans | Central Bank | Liquidity | Reverse repurchase",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWFpTR2pmcWtqX2lmc3U0RGxKTU12RW96cERlMnZ2Y29OVEFVcFpsR25RRGExaVo5d0N6WjdpOUJrWk1aT1ZLLUZ5WlZfaHBrbkNxNzNOek9JelJZWUVCMlBXNWw5WVVkUVktVW04Ym5MeE1hWVFIWGlON3JSVjlqMWd6bkU5M0QxS1E?oc=5",
    "published_utc": "2026-10-10T04:09:07+00:00",
@@ -11578,24 +11630,6 @@
    "live_wire": false,
    "manual": false,
    "id": "87239d1425fa221e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank uses multiple tools to protect liquidity and funds are expected to remain stable in October | fiscal expenditure | National Day | reverse repurchase | policy | research report",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnllMFlqM1l3VEZZSGlhc1loYS1PVFpDQ1R0dnRBVnRiSnZabWtBdUlMdUZXSVhGY0t2cmRhQmFvZ215MzlwRkRSaGprUHRlY2duSW9BUUNWMFcwS2w2Q3BwdjZna1VLOU1Qbi1BYUJrc3lQNVBhUWNaTmstbFFIR1dUOVpxMGY4M3ZObXZNRmpmeERLMWRlQQ?oc=5",
-   "published_utc": "2026-10-09T20:33:01+00:00",
-   "title_original": "央行多工具呵护流动性10月资金面有望保持平稳|财政支出|国庆节|逆回购|政策|研报",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3d46b61025652684"
   },
   {
    "source_id": "nikkei_asia",
@@ -51892,41 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0133f41d86e5a32c"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "US Federal Reserve decides to raise interest rates for the first time in 3 years and 2 months",
-   "url": "https://news.yahoo.co.jp/pickup/6595533?source=rss",
-   "published_utc": "2026-09-16T21:08:22+00:00",
-   "title_original": "米FRB 3年2カ月ぶり利上げ決定",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3e11dd9d20bc538"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Like stock prices, what moves interest rates is \"future outlook\" rather than \"current finances\"...What is the self-fulfilling negative spiral caused by rising interest rates? | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/958122?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-16T21:00:00+00:00",
-   "title_original": "金利を動かすのは株価と同じく｢足元の財政｣より｢将来の見通し｣である･･･金利上昇が招く自己実現的な負のスパイラルとは | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d64211cea158107"
   },
   {
    "source_id": "manual_ia",
