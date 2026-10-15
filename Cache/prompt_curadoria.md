@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T10:45:20.993113+00:00
+Última coleta: 2026-10-15T10:52:42.199704+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1120
-  🇨🇳 China          839
+  🇨🇳 China          840
   🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  722
+  🇰🇷 Coreia do Sul  721
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why a memory chip glut could be Korea's weapon against China
   - [taiwan] TSMC eyes Texas and Musk Terafab project for US expansion
   - [taiwan] Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] TSMC's net profit hits record in third quarter
@@ -33,6 +34,7 @@ Total: 3000 manchetes
   - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll
   - [taiwan] TSMC Weighs Texas Expansion, Holds Talks on Musk's Terafab as AI Demand Outpaces Supply — Update
   - [taiwan] TSMC bars capacity resale, aims to leave no AI money on the table
+  - [taiwan] TSMC raises 2026 sales growth forecast to 44%, leaves capex unchanged
   - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach
   - [japan] Japan economy minister says nation no longer in deflation, seeks investor rethink
   - [japan] What is the difference between Switzerland and America? “Japan’s price level” and the world’s real world (LIMO
@@ -42,6 +44,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC open to Terafab collaboration but insists on controlling its own plants
   - [japan] Bank of Japan Councilor Koeda: ``We won't be overly cautious about raising interest rates'' (TBS NEWS DIG Powe
   - [taiwan] TSMC is "prudent" for 2027 after recording sixth consecutive quarter of record profits
+  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [china] China stocks close at 14-month low as US inflation stokes Fed fears
   - [japan] Bank of Japan Councilor Koeda says 2% underlying inflation rate is "taking hold": Rate hikes should be done in
   - [taiwan] TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi slides over 7% as chip stocks sink
   - [taiwan] TSMC's Q3 net profit hits new quarterly high
   - [taiwan] Earnings Snapshot: Taiwan Semiconductor Manufacturing tops Q3 estimates, gives Q4 revenue guidance above estim
-  - [japan] Japan futures fall as Tokyo equities slump, China imports weaken
-  - [taiwan] Earnings call transcript: TSMC beats Q3 2026 estimates as stock slips
-  - [korea] Seoul shares crash over 7% on chip rout amid AI, inflation woes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T10:45:21+00:00",
+      "published_utc": "2026-10-15T10:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
