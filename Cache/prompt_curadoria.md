@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T00:12:44.514096+00:00
+Última coleta: 2026-10-15T00:22:43.786321+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1128
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] How can eel pie companies eliminate departmental deficits?
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation. In September, imports and
   - [korea] Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21 Billion Backing Under U.S.-Japan Deal — Update
   - [japan] GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update
   - [china] Zambia Says Some Copper Sales to China to Be Settled in Renminbi
-  - [japan] GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21 Billion in Funding From U.S.-Japan Initiative
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T00:12:44+00:00",
+      "published_utc": "2026-10-15T00:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
