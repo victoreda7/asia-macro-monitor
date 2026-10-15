@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T09:52:43.130444+00:00",
- "collected_at_utc": "2026-10-15T09:52:43.130444+00:00",
+ "generated_at_utc": "2026-10-15T10:02:43.695823+00:00",
+ "collected_at_utc": "2026-10-15T10:02:43.695823+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1119,
+  "japan": 1120,
   "china": 841,
-  "taiwan": 316,
-  "korea": 724
+  "taiwan": 317,
+  "korea": 722
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T18:46:25+09:00"
+   "newest": "2026-10-15T18:46:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T18:44:34+09:00"
+   "newest": "2026-10-15T19:01:02+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T09:51:28+00:00"
+   "newest": "2026-10-15T10:02:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T09:36:04+00:00"
+   "newest": "2026-10-15T09:46:19+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "London Stock Exchange",
+   "title_en": "REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining fShares",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-10-15:newsml_RSO1316Za:0-reg-hon-hai-prec-ind-co-subsidiary-obtaining-fshares/",
+   "published_utc": "2026-10-15T09:59:51+00:00",
+   "title_original": "REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining fShares",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1373fb064209181e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -1379,23 +1396,6 @@
    "id": "0d6fe5173249ebf5"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Lucro da TSMC no terceiro trimestre salta 69%, atingindo um recorde e superando as expectativas",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46105G:0/",
-   "published_utc": "2026-10-15T05:34:34+00:00",
-   "title_original": "Lucro da TSMC no terceiro trimestre salta 69%, atingindo um recorde e superando as expectativas",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7553ae6904b5c71e"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Samsung's top brass converge in Tokyo as Japan chip ties deepen",
@@ -1698,7 +1698,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 45 billion yuan seven-day reverse repurchase operation with an interest rate of 1.40%, the same as last time",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBydU9xV3NKMEUteXRjMkFGd2JDRUtxVi1WbDNuM1B1clotbHNjaUl6TnhsZEVnVTNSejQ3cEU0UTREZUZaZm9OUnBHczBoRkxlNjV1UjVpbHViNFM2eUtINi1B?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIZTNQLUx0alAyb0paZ1JpQmJxQVlLZnRueHB6VGhiM0VFLTA1MzltMnRjamRrQ0ZxZ2NvX09MNUltNUlfVXBsMFVBUjdyUQ?oc=5",
    "published_utc": "2026-10-15T03:05:48+00:00",
    "title_original": "央行开展450亿元七天期逆回购操作 利率1.40%持平上次",
    "region": "china",
@@ -1710,7 +1710,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fc9a5bdca9ce7c96"
+   "id": "5cfa930262ea83a4"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -2268,6 +2268,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6b5811c70c4f04c4"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Tech sell-off gathers pace as chipmakers hammered",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5",
+   "published_utc": "2026-10-15T00:51:00+00:00",
+   "title_original": "Tech sell-off gathers pace as chipmakers hammered",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1c3ddeca61d64950"
   },
   {
    "source_id": "korea_herald_biz",
@@ -2958,6 +2975,23 @@
    "live_wire": false,
    "manual": false,
    "id": "46d32bff16345129"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "ASML struggles with chip tool demand",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TUlVreWhlc2d4S0lkWW83SXdfbXpWa2dqYU1oWlpVWVBQeUhhdl9zR3ZsaFZuOTBTNHhMZmNvTWF6V1VxZXBnaGdKdkZIZElMME84VjRZcjdRSDNJN3ZvUE8tU2Vic1htaFluVTRXRnhZSFdjQUE?oc=5",
+   "published_utc": "2026-10-14T16:00:00+00:00",
+   "title_original": "ASML struggles with chip tool demand",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5505cc57499edbd1"
   },
   {
    "source_id": "gn_jp_investing",
@@ -11411,8 +11445,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -11425,7 +11459,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -51895,41 +51929,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0cf30a02685e65f0"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "부산일보",
-   "title_en": "US interest rate hike for the first time in 3 years... Possibility of further hike by the Bank of Korea",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WMzM4cldaUjlUaUp6SkVXSzBRaFRSWkZySHp0OE5RNWlyMTlVbG5OS1MycExzLVpGa2Rib0ZsSk5YbHQ5OGNueURuYS1aV1NwM21UTVZ5amlJZG93eXhlbnpsT2VEVUNJTnlqbHhwYV9MQk9Q?oc=5",
-   "published_utc": "2026-09-17T01:31:52+00:00",
-   "title_original": "美 3년 만에 기준금리 인상…한은도 추가 인상 가능성",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6ca563eb0203292d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "프라임경제",
-   "title_en": "Bank of Korea: U.S. Federal Reserve's monetary policy tightening stance will continue",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JX2xBUUlGY1JnQ3J0NzI1ZzNuSXRiQmRZeUlPTmpIeTdIc0JBdXdQYjRZZ0tWZG40NDVUVzQ3d0RST2t0TFRIeWQ2QWdhSkR0V0l5aDEwUmJoREZ2a2JwR19FYVpSYUV6SWlQZA?oc=5",
-   "published_utc": "2026-09-17T01:28:06+00:00",
-   "title_original": "한국은행 \"美 연준 통화정책 긴축 기조 이어질 것\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "de56328f85009d97"
   },
   {
    "source_id": "manual_ia",
