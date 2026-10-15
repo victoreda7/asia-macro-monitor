@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T15:12:45.150844+00:00
+Última coleta: 2026-10-15T15:22:46.061090+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1121
-  🇨🇳 China          845
-  🇹🇼 Taiwan         319
+  🇨🇳 China          844
+  🇹🇼 Taiwan         320
   🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short
   - [japan] Mazda brings part of its supply chain back to Japan with help from robots
   - [japan] Further Possible BOJ Tightening Could Lift Japanese Yen — Market Talk
   - [taiwan] TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining fShares
   - [taiwan] TSMC revenue rises 41% as AI chip demand drives growth
   - [japan] Policymaker: BOJ shouldn't be too cautious raising rates
-  - [taiwan] Can TSMC earnings help settle AI jitters?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T15:12:45+00:00",
+      "published_utc": "2026-10-15T15:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

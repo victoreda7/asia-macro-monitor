@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T15:12:45.150844+00:00",
- "collected_at_utc": "2026-10-15T15:12:45.150844+00:00",
+ "generated_at_utc": "2026-10-15T15:22:46.061090+00:00",
+ "collected_at_utc": "2026-10-15T15:22:46.061090+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1121,
-  "china": 845,
-  "taiwan": 319,
+  "china": 844,
+  "taiwan": 320,
   "korea": 715
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -67,7 +67,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T20:39:24+08:00"
+   "newest": "2026-10-15T21:03:30+08:00"
   },
   {
    "source_id": "investing_live",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T13:50:00+00:00"
+   "newest": "2026-10-15T09:46:22+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T15:11:25+00:00"
+   "newest": "2026-10-15T15:21:49+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short",
+   "url": "https://www.tradingview.com/news/stocktwits:4bf5752f8094b:0-tsmc-ceo-hints-company-could-back-up-customers-if-intel-s-advanced-packaging-ramp-up-falls-short/",
+   "published_utc": "2026-10-15T15:19:11+00:00",
+   "title_original": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7b4aa8f6c6645662"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1621,23 +1638,6 @@
    "live_wire": false,
    "manual": false,
    "id": "31a5fdff39d6443b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China long-dated bond yields hit 15-month low as PBOC keeps cash flowing",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4610IW:0-china-long-dated-bond-yields-hit-15-month-low-as-pboc-keeps-cash-flowing/",
-   "published_utc": "2026-10-15T06:49:25+00:00",
-   "title_original": "China long-dated bond yields hit 15-month low as PBOC keeps cash flowing",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "813c20dcbf4bb116"
   },
   {
    "source_id": "gn_kr_yonhap",
