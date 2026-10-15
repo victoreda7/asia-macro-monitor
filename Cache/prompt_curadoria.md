@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T00:22:43.786321+00:00
+Última coleta: 2026-10-15T00:32:44.374331+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1128
-  🇨🇳 China          850
+  🇯🇵 Japão          1126
+  🇨🇳 China          851
   🇹🇼 Taiwan         292
-  🇰🇷 Coreia do Sul  730
+  🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
+  - [korea] (LEAD) Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation
   - [japan] How can eel pie companies eliminate departmental deficits?
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation. In September, imports and
   - [korea] Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI
@@ -44,7 +45,6 @@ Total: 3000 manchetes
   - [china] Micron Takes Another Hit as China Chip Fears Flare
   - [korea] ASML's Next Big Chipmaking Cycle Has a Timeline—Intel, Samsung and TSMC Set It
   - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
-  - [china] Germany to Push EU to Impose Caps on More Chinese Imports
   - [japan] Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries By Reuters
   - [china] Commentary: Why Gradual Yuan Appreciation Remains the Baseline
   - [japan] US consumer prices rise 3.7% in September; expectations for early interest rate hike rise somewhat
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T00:22:44+00:00",
+      "published_utc": "2026-10-15T00:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
