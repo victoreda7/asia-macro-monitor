@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T12:52:48.017506+00:00
+Última coleta: 2026-10-15T13:02:44.000950+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1121
@@ -20,7 +20,9 @@ Total: 3000 manchetes
   - [japan] Japan tells G20 authorities must watch FX moves with high sense of urgency, finance minister says
   - [taiwan] Taiwan Semiconductor Manufacturing Company Limited reports results for the quarter ended September 30 - Earnin
   - [china] China’s central bank chief urges ’comprehensive’ view on global imbalances
+  - [taiwan] TSMC evaluating Texas production, cooperation with Terafab
   - [taiwan] Needham maintains Buy rating on Taiwan Semiconductor, $560 price target
+  - [japan] Nikkei marks 3rd largest single-day point drop on AI, chip concerns
   - [china] China's yuan may appreciate further, but weak domestic demand and US yields pose risks: Report
   - [japan] Japan economy minister stresses BOJ independence, rejects reflationist label
   - [korea] Why a memory chip glut could be Korea's weapon against China
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC CEO sees no sign of a slowdown as chip foundry reports record profit
   - [taiwan] TSMC open to Terafab collaboration but insists on controlling its own plants
   - [japan] Bank of Japan Councilor Koeda: ``We won't be overly cautious about raising interest rates'' (TBS NEWS DIG Powe
-  - [taiwan] TSMC is "prudent" for 2027 after recording sixth consecutive quarter of record profits
-  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T12:52:48+00:00",
+      "published_utc": "2026-10-15T13:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
