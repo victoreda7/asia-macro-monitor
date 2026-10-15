@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T16:12:44.842294+00:00
+Última coleta: 2026-10-15T16:22:44.078657+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1122
   🇨🇳 China          843
-  🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  713
+  🇹🇼 Taiwan         323
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
   - [korea] Kospi slides over 7% as chip stocks sink
+  - [japan] Japan's Kioxia sheds two-thirds of peak market value as China chip rivals emerge
+  - [taiwan] Taiwan Semiconductor Manufacturing Ltd. Stock 12‑Month Price Target Raised to $552.42, Implies 28% Upside
+  - [taiwan] 2330 Stock 12‑Month Price Target Raised to TWD 3354.48, Implies 35% Upside
   - [japan] Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax ded
+  - [japan] Global policymakers see no imminent risk of financial instability, Japan official says
   - [korea] Seoul shares crash over 7% on chip rout amid AI, inflation woes
   - [taiwan] TSMC Stock Falls as CFO Warns of Margin Pressure
   - [japan] US retail sales show solid growth of +0.8% in September
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea, Japan extend $10 billion currency swap for three years
   - [japan] Tech sell-off gathers pace as chipmakers hammered By Reuters
   - [taiwan] TSMC eyes Texas and Musk Terafab project for US expansion
-  - [japan] Bank of Japan member: ``We won't be overly cautious about raising interest rates,'' indicating a stance of mai
-  - [japan] Bank of Japan member: ``We won't be overly cautious about raising interest rates.'' Indicates stance to mainta
-  - [japan] Bank of Japan member: ``We won't be overly cautious about raising interest rates.'' Shows stance to maintain i
-  - [taiwan] Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today's Market — Barrons.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T16:12:45+00:00",
+      "published_utc": "2026-10-15T16:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
