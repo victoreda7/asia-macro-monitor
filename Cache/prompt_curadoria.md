@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T13:02:44.000950+00:00
+Última coleta: 2026-10-15T13:12:45.510660+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1121
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [japan] Tech sell-off gathers pace as chipmakers hammered By Reuters
   - [taiwan] TSMC eyes Texas and Musk Terafab project for US expansion
   - [japan] Bank of Japan member: ``We won't be overly cautious about raising interest rates,'' indicating a stance of mai
+  - [japan] Bank of Japan member: ``We won't be overly cautious about raising interest rates.'' Indicates stance to mainta
   - [japan] Bank of Japan member: ``We won't be overly cautious about raising interest rates.'' Shows stance to maintain i
   - [taiwan] Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] TSMC's net profit hits record in third quarter
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com
   - [taiwan] TSMC CEO sees no sign of a slowdown as chip foundry reports record profit
   - [taiwan] TSMC open to Terafab collaboration but insists on controlling its own plants
-  - [japan] Bank of Japan Councilor Koeda: ``We won't be overly cautious about raising interest rates'' (TBS NEWS DIG Powe
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T13:02:44+00:00",
+      "published_utc": "2026-10-15T13:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
