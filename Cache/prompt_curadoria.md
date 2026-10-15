@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T09:12:44.941191+00:00
+Última coleta: 2026-10-15T09:22:45.813469+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1116
-  🇨🇳 China          840
-  🇹🇼 Taiwan         316
-  🇰🇷 Coreia do Sul  728
+  🇯🇵 Japão          1117
+  🇨🇳 China          841
+  🇹🇼 Taiwan         315
+  🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
+  - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach
   - [taiwan] TSMC Weighs Texas Expansion, Holds Talks on Musk's Terafab as AI Demand Outpaces Supply — Update
+  - [japan] Japan economy minister says nation no longer in deflation, seeks investor rethink
+  - [japan] What is the difference between Switzerland and America? “Japan’s price level” and the world’s real world (LIMO
   - [taiwan] After Elon Musk’s Invitation, TSMC CEO Reportedly Says Open To Working On Terafab But Must Run It
   - [taiwan] TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com
   - [taiwan] TSMC CEO sees no sign of a slowdown as chip foundry reports record profit
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor ADR earnings beat by $0.18, revenue topped estimates
   - [taiwan] TSMC Raises 2026 Revenue Growth Forecast to Around 44%
   - [taiwan] TSMC profit soars 69% in another record quarter fueled by AI boom
-  - [taiwan] Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment
-  - [taiwan] TSMC Reiterates 2026 Capex Between US$60B-US$64B
-  - [taiwan] TSMC Expects 4Q Revenue Between US$52.3B-US$54.3B
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T09:12:45+00:00",
+      "published_utc": "2026-10-15T09:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

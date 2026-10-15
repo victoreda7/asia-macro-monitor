@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T09:12:44.941191+00:00",
- "collected_at_utc": "2026-10-15T09:12:44.941191+00:00",
+ "generated_at_utc": "2026-10-15T09:22:45.813469+00:00",
+ "collected_at_utc": "2026-10-15T09:22:45.813469+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1116,
-  "china": 840,
-  "taiwan": 316,
-  "korea": 728
+  "japan": 1117,
+  "china": 841,
+  "taiwan": 315,
+  "korea": 727
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T07:28:08+00:00"
+   "newest": "2026-10-15T05:30:09+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T08:56:16+00:00"
+   "newest": "2026-10-15T09:16:54+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T08:30:30+00:00"
+   "newest": "2026-10-15T09:10:42+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T07:45:37+00:00"
+   "newest": "2026-10-15T09:00:31+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T17:53:01+09:00"
+   "newest": "2026-10-15T18:18:56+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T09:12:04+00:00"
+   "newest": "2026-10-15T09:21:38+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:47:18+00:00"
+   "newest": "2026-10-15T09:05:44+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -345,6 +345,23 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4600PL:0-china-q3-growth-set-to-pick-up-on-stimulus-keeping-2026-goal-within-reach/",
+   "published_utc": "2026-10-15T09:14:00+00:00",
+   "title_original": "China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fc48d96d9d84873a"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "TSMC Weighs Texas Expansion, Holds Talks on Musk's Terafab as AI Demand Outpaces Supply — Update",
    "url": "https://www.tradingview.com/news/DJN_DN20261015001971:0-tsmc-weighs-texas-expansion-holds-talks-on-musk-s-terafab-as-ai-demand-outpaces-supply-update/",
@@ -359,6 +376,41 @@
    "live_wire": true,
    "manual": false,
    "id": "7550d096cff00a2c"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan economy minister says nation no longer in deflation, seeks investor rethink",
+   "url": "https://www.investing.com/news/economy-news/japan-economy-minister-says-nation-no-longer-in-deflation-seeks-investor-rethink-4950850",
+   "published_utc": "2026-10-15T09:06:20+00:00",
+   "title_original": "Japan economy minister says nation no longer in deflation, seeks investor rethink",
+   "region": "japan",
+   "topics": [
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bb8c8c5509b1ea12"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "What is the difference between Switzerland and America? “Japan’s price level” and the world’s real world (LIMO)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NXzBoV1BjNC1Ld1pSWGNaLUFVeXliYldrQWFPcmlTVGlmenUxNHpqa240Tmxpa3FZQ2ViVTBZLXc2MWYzUUdnZVM1UTlwYTRKQm4yY2JTa0pRT0YxOVVzaWlhdzNuZzM4UUMtYUVlbjlsR2lKZHlfdEZBSHpidlU?oc=5",
+   "published_utc": "2026-10-15T09:05:44+00:00",
+   "title_original": "スイスやアメリカとの差はどれほど？「日本の物価水準」と世界のリアル（LIMO）",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e6522c1e638ce5db"
   },
   {
    "source_id": "tradingview_live",
@@ -985,7 +1037,7 @@
    "source_name": "Bloomberg.com",
    "title_en": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTU5yU2ZpaEZUd2lKZWZvWU5RdEdRTFRMaUM2NXplMnN3ak9CSTMwWTFTWXp1bnZla2VFTzlfeUxhNzNuTVV1Qmx6a1A0elpNekVGMndFUUl2Z2E4R2UtN3BDNU5JZVMzWWI3b1NURlEzQ0lsMVIwQ1NZT1JBRzh2U3ZqeGk4ZFdVVEE2UmNKUXhsRl9sU1ZGOTVOZzFHUU9fdFgwVEtuUTNpOTRGaWo2dUJB?oc=5",
-   "published_utc": "2026-10-15T06:12:40+00:00",
+   "published_utc": "2026-10-15T06:12:00+00:00",
    "title_original": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
    "region": "taiwan",
    "topics": [
@@ -1271,23 +1323,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ec64b1ae7a32ad63"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "TSMC 3Q Revenue From High Performance Computing Up 22% on Quarter >2330.TW",
-   "url": "https://www.tradingview.com/news/DJN_DN20261015000770_20261015000777:0-tsmc-3q-revenue-from-high-performance-computing-up-22-on-quarter-2330-tw/",
-   "published_utc": "2026-10-15T05:32:00+00:00",
-   "title_original": "TSMC 3Q Revenue From High Performance Computing Up 22% on Quarter >2330.TW",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "780ceeb84b9ac370"
   },
   {
    "source_id": "investing_live",
@@ -2613,24 +2648,6 @@
    "id": "15190cc9686915d5"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vdEM2ZG5jUnVKQUw0bV95RVEtejZKaDJ6emhCeU1yQWtveXJlV29ONEdpSGpSQWNCbXAyenF2TVpEblZRUEVYQmhmbnRJa0F0NmNxMXJfajlPSzZqaFJDT25vUQ?oc=5",
-   "published_utc": "2026-10-14T18:05:45+00:00",
-   "title_original": "央行：10月15日将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "74aea4bbf244e2a0"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Sept. Exports Surge 36.3% Amid AI Boom, Auto Export Rush",
@@ -3371,6 +3388,24 @@
    "live_wire": true,
    "manual": false,
    "id": "a7c3220a311ef267"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hQkoteHY1TmJDZkdVSy1qSFRzZ2tKZ0xETFVnNG9TaHVCb1hNUi1aV0FaenJCQmd4UkJ3SDZnM1BuRF9RWkt3ejFUS3BBT19MZDdJSUZoLXc?oc=5",
+   "published_utc": "2026-10-14T11:34:03+00:00",
+   "title_original": "央行：10月15日将开展7000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "01e196bac469036d"
   },
   {
    "source_id": "tradingview_live",
@@ -51894,41 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6f2091069d9fe153"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Long-Term JGB Yields Largely Steady as BOJ Starts Two-Day Meeting — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260916008823:0/",
-   "published_utc": "2026-09-17T00:52:00+00:00",
-   "title_original": "Long-Term JGB Yields Largely Steady as BOJ Starts Two-Day Meeting — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d37fb58648636015"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Singapore's August exports surge by 46.2% yr/yr as AI boom powers demand",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaTRZRTdMdjAtc1lSYXpKdmNoaW90SlVvZERZdnVwSnVSTHNCY2dfQjVHRVFQUUNNVXl2TU5LZkhjWnVHaGVXUXpkRUdvMmZwTVk1OWVhRm45UEEzZURwaXk0SzJTS0pYd3dYU3FVc0xDLThGUjBMYm9XSjVqT3hWcU9aSjhwYl9vWmVDYWZLdS1rQW1Ga0FYUzY2UTJnbDREcFhySGFVRXpfUnZnT3VLcjh6TFo1ZUtoVFM1Yg?oc=5",
-   "published_utc": "2026-09-17T00:33:00+00:00",
-   "title_original": "Singapore's August exports surge by 46.2% yr/yr as AI boom powers demand",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "002aa43d599581c7"
   },
   {
    "source_id": "manual_ia",
