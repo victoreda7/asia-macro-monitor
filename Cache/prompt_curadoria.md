@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T06:02:42.066830+00:00
+Última coleta: 2026-10-15T06:12:42.450440+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1123
+  🇯🇵 Japão          1121
   🇨🇳 China          844
-  🇹🇼 Taiwan         297
-  🇰🇷 Coreia do Sul  736
+  🇹🇼 Taiwan         300
+  🇰🇷 Coreia do Sul  735
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC profit soars 69% in another record quarter fueled by AI boom
+  - [taiwan] TSMC Reiterates 2026 Capex Between US$60B-US$64B
+  - [taiwan] TSMC Expects 4Q Revenue Between US$52.3B-US$54.3B
+  - [taiwan] TSMC Expects 4Q Gross Margin Between 65%-67%
   - [taiwan] AI Demand Extends TSMC's Record Earnings Streak
   - [japan] Today's Oha Biz October 15th (Thursday) U.S. Consumer Price Index continues to grow rapidly
   - [japan] Japan August industrial production revised down to -2.4% M/M; core machine orders rise 5.2%
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China's Export Surge Creates Winners as Well as Losers in Asia — Market Talk
   - [korea] Won-Yen Divergence May Likely Be Due to Chip Demand Boom — Market Talk
   - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com
-  - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan
-  - [taiwan] Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem
-  - [china] IMF urges China to deploy bigger fiscal stimulus
-  - [korea] Bank of Korea maintains austerity stance… Attention to further increase in base interest rate on the 22nd amid
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T06:02:42+00:00",
+      "published_utc": "2026-10-15T06:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

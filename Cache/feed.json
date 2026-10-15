@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T06:02:42.066830+00:00",
- "collected_at_utc": "2026-10-15T06:02:42.066830+00:00",
+ "generated_at_utc": "2026-10-15T06:12:42.450440+00:00",
+ "collected_at_utc": "2026-10-15T06:12:42.450440+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1123,
+  "japan": 1121,
   "china": 844,
-  "taiwan": 297,
-  "korea": 736
+  "taiwan": 300,
+  "korea": 735
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 54,
+   "count": 55,
    "error": "",
-   "newest": "2026-10-15T12:12:33+08:00"
+   "newest": "2026-10-15T13:47:36+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T05:40:34+00:00"
+   "newest": "2026-10-15T06:01:59+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T05:37:06+00:00"
+   "newest": "2026-10-15T06:01:16+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T14:34:54+09:00"
+   "newest": "2026-10-15T15:02:49+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T14:54:04+09:00"
+   "newest": "2026-10-15T15:07:43+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T06:02:00+00:00"
+   "newest": "2026-10-15T06:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,74 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "TSMC profit soars 69% in another record quarter fueled by AI boom",
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-profit-soars-69-in-another-record-quarter-fueled-by-ai-boom",
+   "published_utc": "2026-10-15T06:12:41.980262+00:00",
+   "title_original": "TSMC profit soars 69% in another record quarter fueled by AI boom",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9c82c79ba9c73525"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Reiterates 2026 Capex Between US$60B-US$64B",
+   "url": "https://www.tradingview.com/news/DJN_DN20261015001009_20261015001035:0-tsmc-reiterates-2026-capex-between-us-60b-us-64b/",
+   "published_utc": "2026-10-15T06:10:00+00:00",
+   "title_original": "TSMC Reiterates 2026 Capex Between US$60B-US$64B",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d078746b7cdc43ac"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Expects 4Q Revenue Between US$52.3B-US$54.3B",
+   "url": "https://www.tradingview.com/news/DJN_DN20261015001009_20261015001009:0-tsmc-expects-4q-revenue-between-us-52-3b-us-54-3b/",
+   "published_utc": "2026-10-15T06:07:00+00:00",
+   "title_original": "TSMC Expects 4Q Revenue Between US$52.3B-US$54.3B",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1f4fc296269b4d6a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Expects 4Q Gross Margin Between 65%-67%",
+   "url": "https://www.tradingview.com/news/DJN_DN20261015001009_20261015001013:0-tsmc-expects-4q-gross-margin-between-65-67/",
+   "published_utc": "2026-10-15T06:07:00+00:00",
+   "title_original": "TSMC Expects 4Q Gross Margin Between 65%-67%",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "de611d7f85d98312"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1260,23 +1328,6 @@
    "id": "1282577e59f30aa0"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Bytedance In Talks To Secure Mediatek AI Chips For Data Centers - Bloomberg News",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4601DX:0-bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers-bloomberg-news/",
-   "published_utc": "2026-10-15T02:51:26+00:00",
-   "title_original": "Bytedance In Talks To Secure Mediatek AI Chips For Data Centers - Bloomberg News",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "43ab7cff17f35b4d"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "What's behind the sudden turnaround and being fired in 4 weeks? Prime Minister Takaichi's \"Chiebukuro\" Minister of Agriculture, Forestry and Fisheries Yan Yan resigns, leading to chaos in the extraordinary Diet and the LDP coalition | Politics, Economy, Investment | Toyo Keizai Online",
@@ -1348,24 +1399,6 @@
    "id": "565acd6f5352d329"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ Board Member Indicates Further Room for Rate Hikes",
-   "url": "https://www.tradingview.com/news/DJN_DN20261014009394:0-boj-board-member-indicates-further-room-for-rate-hikes/",
-   "published_utc": "2026-10-15T02:16:00+00:00",
-   "title_original": "BOJ Board Member Indicates Further Room for Rate Hikes",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8105bc5050e15a16"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Why a memory chip glut could be Korea's weapon against China",
@@ -1381,24 +1414,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e85a41893a7ea599"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "BoJ Koeda Urges Timely Rate Hikes Amid Inflation Risks",
-   "url": "https://www.tradingview.com/news/te_news:592118:0-boj-koeda-urges-timely-rate-hikes-amid-inflation-risks/",
-   "published_utc": "2026-10-15T02:12:32+00:00",
-   "title_original": "BoJ Koeda Urges Timely Rate Hikes Amid Inflation Risks",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b846ce223d11eb81"
   },
   {
    "source_id": "investing_live",
@@ -4358,24 +4373,6 @@
    "id": "7c9eea2db919b009"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "经济观察网",
-   "title_en": "The central bank launches 56 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2X25JM2dkZDZELTdBUVE4bmZleTJnTHFmb19uMHpETFVnM1Eya3BfZlVTaUp2QjVkenhscERlcXlSV0dTbERULUEweWgzTG1YaUJGNU02X3o?oc=5",
-   "published_utc": "2026-10-14T02:14:54+00:00",
-   "title_original": "央行开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c1ace237a8adfa20"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China’s Producer Prices Jolted by $100 Oil as Inflation Rebounds",
@@ -4705,6 +4702,24 @@
    "live_wire": false,
    "manual": false,
    "id": "83618be5321a52a9"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中新经纬",
+   "title_en": "The central bank launches 56 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmZ3MxUDVXRDV6RVhtQ2tnRjNQZS1aV3FxaEVweFR2alJ2NlZsZ2laUUdIZjZzdlFKcmxZaGxZQUs0NE8yVTZfa0J4U0VyM055T0lNRllFaUxNbXRWbWJqbEZtUkU?oc=5",
+   "published_utc": "2026-10-14T01:25:00+00:00",
+   "title_original": "央行开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2f82b0518d4ef4c8"
   },
   {
    "source_id": "gn_kr_bok",
@@ -10855,8 +10870,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -10869,7 +10884,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -11818,8 +11833,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -11833,7 +11848,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -51909,23 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6080cb3263296fdf"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Korea inks $14m export contract with Central Asia",
-   "url": "https://www.koreaherald.com/article/10876041",
-   "published_utc": "2026-09-16T20:05:34+00:00",
-   "title_original": "Korea inks $14m export contract with Central Asia",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "abc371c9a1109f22"
   },
   {
    "source_id": "manual_ia",
