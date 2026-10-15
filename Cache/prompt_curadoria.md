@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T03:52:46.463910+00:00
+Última coleta: 2026-10-15T04:02:45.404667+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1122
-  🇨🇳 China          847
+  🇨🇳 China          846
   🇹🇼 Taiwan         291
-  🇰🇷 Coreia do Sul  740
+  🇰🇷 Coreia do Sul  741
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea maintains austerity stance… Attention to further increase in base interest rate on the 22nd amid
   - [china] IMF urges China to deploy bigger fiscal stimulus
   - [korea] SKHY Tracks Worst Month Since Nasdaq Debut: SK Hynix Reportedly Wants To Ship More Chip Tools To China Before 
   - [korea] SK Hynix seeks U.S. chip equipment exports to China tied to new factory - Reuters
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7253 THURS VS 6.7249
   - [korea] Samsung Electronics Co. was counted as the largest net purchase by high-yield investors of Mirae Ass..
   - [japan] Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)
-  - [japan] Japan futures fall as Tokyo equities slump, China imports weaken
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T03:52:46+00:00",
+      "published_utc": "2026-10-15T04:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

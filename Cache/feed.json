@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T03:52:46.463910+00:00",
- "collected_at_utc": "2026-10-15T03:52:46.463910+00:00",
+ "generated_at_utc": "2026-10-15T04:02:45.404667+00:00",
+ "collected_at_utc": "2026-10-15T04:02:45.404667+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1122,
-  "china": 847,
+  "china": 846,
   "taiwan": 291,
-  "korea": 740
+  "korea": 741
  },
- "elapsed_s": 31.1,
+ "elapsed_s": 31.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T01:11:00+00:00"
+   "newest": "2026-10-15T00:53:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T12:17:37+00:00"
+   "newest": "2026-10-15T13:00:38+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:24:00+00:00"
+   "newest": "2026-10-15T02:43:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:04:00+00:00"
+   "newest": "2026-10-15T02:43:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T03:00:08+00:00"
+   "newest": "2026-10-15T03:53:38+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T03:51:00+00:00"
+   "newest": "2026-10-15T04:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T23:50:36+00:00"
+   "newest": "2026-10-14T20:48:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:12:40+00:00"
+   "newest": "2026-10-15T03:48:40+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T23:13:00+00:00"
+   "newest": "2026-10-15T03:48:05+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "www.ppss.kr",
+   "title_en": "Bank of Korea maintains austerity stance… Attention to further increase in base interest rate on the 22nd amid price instability",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSRWdXc1dtaFlKUlplN3JXVTd1NEZva1IyN1FCc2ZERV95MHhXWDhIemR0anFDTHMxekx0Ui16eS1FbFFvcW8waml4Y19JREhTY1U2MjJCd3ppTkFWN0NJOGNTZHE?oc=5",
+   "published_utc": "2026-10-15T03:48:05+00:00",
+   "title_original": "한국은행 긴축 기조 유지…물가 불안 속 22일 기준금리 추가 인상 주목",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "aab74f255a04adb0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1055,23 +1073,6 @@
    "id": "9aec304ab96d2821"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFBHMlJGT29yUlFPTXdnR3FvOFhJQ3VxRFdOZ2QyRFljTlh4cGVoTDgwTmowd0l0cFctalZYWHA5eEdzQy1tSHVrQTUtTVhlNEY3LTBIWmlKYy1nSXZjRjJoZjN5cjNMR01xMEt1MFFLQmRUeWJhUC1CVkthTTdENV8tdXN1aXMwcWFFX2JDX3o2X1cwZXhLOTRUMFU1R1BfODNKa090UlU4bUxkLUU4OTBB?oc=5",
-   "published_utc": "2026-10-15T01:11:00+00:00",
-   "title_original": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f4919285abe22a94"
-  },
-  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Summary of the \"Meeting on Market Operations\" (October 2026)",
@@ -1122,6 +1123,23 @@
    "live_wire": false,
    "manual": false,
    "id": "324e9949a08f3758"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFBHMlJGT29yUlFPTXdnR3FvOFhJQ3VxRFdOZ2QyRFljTlh4cGVoTDgwTmowd0l0cFctalZYWHA5eEdzQy1tSHVrQTUtTVhlNEY3LTBIWmlKYy1nSXZjRjJoZjN5cjNMR01xMEt1MFFLQmRUeWJhUC1CVkthTTdENV8tdXN1aXMwcWFFX2JDX3o2X1cwZXhLOTRUMFU1R1BfODNKa090UlU4bUxkLUU4OTBB?oc=5",
+   "published_utc": "2026-10-15T00:53:00+00:00",
+   "title_original": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f4919285abe22a94"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2938,6 +2956,23 @@
    "live_wire": false,
    "manual": false,
    "id": "07815af77319708c"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "위클리서울",
+   "title_en": "Citi: “The Bank of Korea expects to maintain interest rates at the current level this month and then raise them in November”",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfek9tb0taQ3hpYmludjBuM1B2Sjl3V1VCUWZubVhSMlY2OTlNZy1ITDc1NGlhcExoLWV4REhwYkRObGptUzNOVzNoMkQwdlR0MzFlUUJaUGtCT0dyYms5VEZWQkg2MW9YRGU5SGN3?oc=5",
+   "published_utc": "2026-10-14T08:09:54+00:00",
+   "title_original": "씨티 “한은, 이달 금리 현 수준 유지 후 11월 인상 예상”",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7865eac9bd425d0d"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51887,41 +51922,6 @@
    "live_wire": false,
    "manual": false,
    "id": "23adf36484d751b6"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Ministry of Finance and Economy △Park Hong-ki, Head of the National Economic Advisory Council ■ Min..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SRFZmV0dkNHBLOUNSVE50NHc3QmZfUnd2YXkyMGZqTTJlbS1HZllEdVc5Ml9pRy15d0pVTjlvdUlfb3M1dzI2QTJYMENtVXA0aGc?oc=5",
-   "published_utc": "2026-09-16T07:47:00+00:00",
-   "title_original": "Ministry of Finance and Economy △Park Hong-ki, Head of the National Economic Advisory Council ■ Min..",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "15b377b6d74f0a8a"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "EU will use all tools to cut China trade deficit, von der Leyen says",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVldpSXhsdm5HUlJwTEZ5ZDc2Ykwwak9rUG1jaW9XTk9XSmlwb0p4VGlvUEw1ZDEzWVRvTm9zRENEb3BrdkF3YkU2LWQtbzFzYUhGUkR1cXhmcmJoX0FwSHpOcXpFZHRTeW9EZm5uVUhVelc0WnRJRE1Tb3plbUZaaVNnWTEwODdIZzBHWTdIZXMtd2ZHUzk2TUtxV3ZqRmpZRW9QMGszUk1NU01hVXVyVldB?oc=5",
-   "published_utc": "2026-09-16T07:35:28+00:00",
-   "title_original": "EU will use all tools to cut China trade deficit, von der Leyen says",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6e14272cdefb4a1b"
   },
   {
    "source_id": "manual_ia",
