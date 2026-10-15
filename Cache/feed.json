@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T01:32:43.003663+00:00",
- "collected_at_utc": "2026-10-15T01:32:43.003663+00:00",
+ "generated_at_utc": "2026-10-15T01:42:42.833243+00:00",
+ "collected_at_utc": "2026-10-15T01:42:42.833243+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1123,
-  "china": 850,
+  "japan": 1121,
+  "china": 852,
   "taiwan": 294,
   "korea": 733
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T21:37:35+00:00"
+   "newest": "2026-10-15T01:11:43+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 15/09/2026",
-   "newest": "2026-09-15T03:21:47+00:00"
+   "error": "",
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T19:03:43+00:00"
+   "newest": "2026-10-15T00:51:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T01:31:00+00:00"
+   "newest": "2026-10-15T01:39:44+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T23:50:36+00:00"
+   "newest": "2026-10-14T17:46:02+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-15T10:00:00+09:00"
+   "newest": "2026-10-15T10:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T23:55:59+00:00"
+   "newest": "2026-10-15T00:18:36+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY45 BLN VIA 7-DAY REVERSE REPO THURS",
+   "url": "https://www.tradingview.com/news/dpa_afx:6c644edb7f238:0-china-pboc-conducts-cny45-bln-via-7-day-reverse-repo-thurs/",
+   "published_utc": "2026-10-15T01:39:44+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY45 BLN VIA 7-DAY REVERSE REPO THURS",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ec57b5ab5367d95c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7253 THURS VS 6.7249",
+   "url": "https://www.tradingview.com/news/dpa_afx:02bdf0ec2f6f0:0-china-sets-yuan-central-parity-at-6-7253-thurs-vs-6-7249/",
+   "published_utc": "2026-10-15T01:33:24+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7253 THURS VS 6.7249",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5c046d102e81cc85"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -379,6 +413,24 @@
    "id": "1de5dfab69277a1c"
   },
   {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Hot US inflation hammers Kospi nearly 6% lower as chips buckle",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80TkZWSHRpX0VoVGplMkJNdmF0ZHhpSW1RTEJ3Q2x6MkJTdjAwYzBRTEctMVRjQURIWFk2aWJ0d2lkbVN3NG5WOV9HREpvWGtieW1iRkRjMHcwUERLWUJMVXdvdHlRd3N0cUhlUWd2ekV1bjl0RkQxMWx3?oc=5",
+   "published_utc": "2026-10-15T01:11:43+00:00",
+   "title_original": "Hot US inflation hammers Kospi nearly 6% lower as chips buckle",
+   "region": "korea",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9aec304ab96d2821"
+  },
+  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Summary of the \"Meeting on Market Operations\" (October 2026)",
@@ -411,6 +463,23 @@
    "live_wire": true,
    "manual": false,
    "id": "ed3ac336c43109af"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Asian markets sell off as AI trades crumble after hot US CPI data",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5",
+   "published_utc": "2026-10-15T00:51:00+00:00",
+   "title_original": "Asian markets sell off as AI trades crumble after hot US CPI data",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b5811c70c4f04c4"
   },
   {
    "source_id": "tradingview_live",
@@ -496,6 +565,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1961474e61cbfd6b"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "If I get a housing pension of 2 million won per month, I think I'll be able to travel leisurely and..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1od3ZocDUwU040XzZacm4zMWtQckc0Ml9xaHlhNzJ4ZXhRUTM0VzVXOV95dk8tV25rM3R3SW5WSVg2SEJ4TlJoTVAtLWxwbDRaSkE?oc=5",
+   "published_utc": "2026-10-15T00:18:36+00:00",
+   "title_original": "If I get a housing pension of 2 million won per month, I think I'll be able to travel leisurely and..",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bae4722adc635004"
   },
   {
    "source_id": "yahoo_business",
@@ -659,7 +745,7 @@
    "source_name": "NHK 政治",
    "title_en": "U.S. semiconductor company plans to build new factory for up to 3 trillion yen based on Japan-U.S. agreement",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de59529",
-   "published_utc": "2026-10-14T22:18:04+00:00",
+   "published_utc": "2026-10-14T22:18:00+00:00",
    "title_original": "米半導体企業 最大3兆円規模で新工場建設へ 日米合意に基づき",
    "region": "japan",
    "topics": [
@@ -1347,6 +1433,25 @@
    "live_wire": true,
    "manual": false,
    "id": "47f3b6f8da6321f9"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财联社",
+   "title_en": "The central bank will carry out a 700 billion yuan buyout reverse repurchase operation, and additional government bond issuance in the fourth quarter will require liquidity support",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxT3NubkxuRi1SY19VcnNuSXVWbGNhMi1FdDlzTHpTdUlIUjJONDM0X0J0cmNxWDkzS251bHYzZ3dySUw4N0FFWg?oc=5",
+   "published_utc": "2026-10-14T12:39:00+00:00",
+   "title_original": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "666386c864597bbe"
   },
   {
    "source_id": "tradingview_live",
@@ -9383,8 +9488,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -9397,7 +9502,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -10346,8 +10451,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -10361,7 +10466,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -10552,8 +10657,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -10567,7 +10672,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51820,110 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "68115d3f49c12750"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Export Growth Stays Solid as Shipments of Chips Jump",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWUxGSzRQd19HaUpfbmg5UEltVDVNSGNTckJQcUtudUV4ZGp6dGpwNEh5ZzVaTnJlaWVBZTVqRXAxeUQteHAwai1MQno0UEhvbFNKOHRwbUEzOFVGaFZNMWk2M0EyMFdDVklvVC1CRWVqMnRZWDRUQ3BNS3lsWEk5bWRqVjYwR0N6NnVUZFZYZGdGWmdIRkZaeUVZRFlYdDNaVjROMWpwSmpUTjBkR0h3SFV4ek9hUQ?oc=5",
-   "published_utc": "2026-09-16T00:37:00+00:00",
-   "title_original": "Japan’s Export Growth Stays Solid as Shipments of Chips Jump",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b51fee2de7323cfe"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "헤럴드경제",
-   "title_en": "The Bank of Korea also predicts an interest rate hike in the U.S.... Domestic austerity stance becomes more entrenched",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YT29sc2NMSUlRellBTkp1eHBsM0dVM2F0cUtBcnFHM2htVW4ybEs4X3VmeFdqcDhIR2pIVTBKLWhPMW9kYmd2TUxhZDNYSTFNVXNjVW5n?oc=5",
-   "published_utc": "2026-09-16T00:34:00+00:00",
-   "title_original": "한은도 미국 금리 인상 전망…국내 긴축기조 더 굳어진다",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da2a570691567dfb"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan logged 4th straight monthly trade deficit in August",
-   "url": "https://asia.nikkei.com/economy/trade/japan-logged-4th-straight-monthly-trade-deficit-in-august",
-   "published_utc": "2026-09-16T00:33:40.211207+00:00",
-   "title_original": "Japan logged 4th straight monthly trade deficit in August",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0e87202e0466f3cb"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
-   "title_en": "Exclusive | Hong Kong policy address to unveil bold youth housing and mediation initiatives",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSXc5T1BYQmlYSVBOOW1tb1JWMGt4dTFuVWlfajZrNzZLV3htaWFkbFFDd1BDN3pBbl90cHc3TFRaMUVPcjAwRzBad2xXVHMtdEZjRUJiMmZFNXJtZjdEZ0FGZGs1MGVIaVdmMkNkdFBOcDVNVWVfMVlDbFQzZEhSZVF6NF9sRk9hMGxObXJ4YmRzRUllRVkzN1FUZ0cyckpLTkNnUUVvRkRfR3dLeVdwbHZid1ZPU1FhUkJsMGh1SVEzOE1qd1R1b25yb2FaRWVKMUg3amY3NDFzU05wRDd30gHfAUFVX3lxTE40bGtVUVBtcTVfamtQTmY3cVgxNVJORWVoX01yWU5NTXhTVy1QV0pHdWE2ZWVmbTc4clNiUXdNOER5VGZpTFZQQUlkQVEyUnlxdDV5VHMxQWZoREQ1MGphY1ZxVFFKV1hXNXpUZU5LZ2Z0R3N6bG90Qnpiei1DM1daVFBjTlpLcVJlRFYyNjRxWERnNjFGVDZrUkc0dW56aFM1a3RTYW9LeWJueEVYSEpzNWI3T2FkeTJwa1BFX2UwWU9MTklDc1JJVFpOVmVCMm50MHZDczBVRFlZVTdwZDA?oc=5",
-   "published_utc": "2026-09-16T00:30:05+00:00",
-   "title_original": "Exclusive | Hong Kong policy address to unveil bold youth housing and mediation initiatives",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9503ce9dd1e9df74"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan bond yields extend gains on inflation concerns ahead of Fed decision",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4571OF:0-japan-bond-yields-extend-gains-on-inflation-concerns-ahead-of-fed-decision/",
-   "published_utc": "2026-09-16T00:29:40+00:00",
-   "title_original": "Japan bond yields extend gains on inflation concerns ahead of Fed decision",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bcbd7372305b7ce9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "SK Hynix union approves tentative wage deal with management, Yonhap says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N43V01B:0-sk-hynix-union-approves-tentative-wage-deal-with-management-yonhap-says/",
-   "published_utc": "2026-09-16T00:23:39+00:00",
-   "title_original": "SK Hynix union approves tentative wage deal with management, Yonhap says",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f543dc437ce16d93"
   },
   {
    "source_id": "manual_ia",

@@ -7,25 +7,30 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T01:32:43.003663+00:00
+Última coleta: 2026-10-15T01:42:42.833243+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1123
-  🇨🇳 China          850
+  🇯🇵 Japão          1121
+  🇨🇳 China          852
   🇹🇼 Taiwan         294
   🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY45 BLN VIA 7-DAY REVERSE REPO THURS
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7253 THURS VS 6.7249
   - [japan] Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)
   - [japan] Japan futures fall as Tokyo equities slump, China imports weaken
+  - [korea] Hot US inflation hammers Kospi nearly 6% lower as chips buckle
   - [japan] Summary of the "Meeting on Market Operations" (October 2026)
   - [taiwan] Key facts: TSMC (2330) Q3 revenue NT$1.49T record; 2026 capex $60–64B
+  - [japan] Asian markets sell off as AI trades crumble after hot US CPI data
   - [japan] Japan’s Nikkei Slumps on Hot US Inflation
   - [korea] Seoul stocks open sharply lower on lingering concerns over AI, US inflation
   - [korea] Kospi plunges nearly 6% as foreigners dump chip stocks
   - [japan] Japan's Nikkei tumbles as tech stocks hammered on US rate hike worries
   - [korea] (LEAD) Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation
+  - [korea] If I get a housing pension of 2 million won per month, I think I'll be able to travel leisurely and..
   - [japan] How can eel pie companies eliminate departmental deficits?
   - [taiwan] Fujifilm to expand Arizona semiconductor materials output
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation. In September, imports and
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] PRES TRUMP POSTS: 'MASSIVE; $21 BLN INVESTMENT FINANCED BY JAPAN, SKOREA, TAIWAN TO BUILD TWO SEMICONDUCTOR FA
   - [taiwan] TSMC Earnings Will Surge but Terafab and Texas Talks Are in Focus — Barrons.com
   - [taiwan] Thursday preview: TSMC results, UK GDP in focus
-  - [china] Micron Takes Another Hit as China Chip Fears Flare
-  - [korea] ASML's Next Big Chipmaking Cycle Has a Timeline—Intel, Samsung and TSMC Set It
-  - [korea] Seoul shares fall for 6th day on renewed AI concerns ahead of US inflation data
-  - [japan] Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries By Reuters
-  - [china] Commentary: Why Gradual Yuan Appreciation Remains the Baseline
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T01:32:43+00:00",
+      "published_utc": "2026-10-15T01:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
