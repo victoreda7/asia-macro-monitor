@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-15T10:22:43.467192+00:00",
- "collected_at_utc": "2026-10-15T10:22:43.467192+00:00",
+ "generated_at_utc": "2026-10-15T10:32:43.669302+00:00",
+ "collected_at_utc": "2026-10-15T10:32:43.669302+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 318,
   "korea": 722
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T10:04:36+00:00"
+   "newest": "2026-10-15T10:26:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T10:01:36+00:00"
+   "newest": "2026-10-15T10:25:42+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T08:32:00+00:00"
+   "newest": "2026-10-15T08:54:25+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T19:15:35+09:00"
+   "newest": "2026-10-15T19:30:48+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T10:22:07+00:00"
+   "newest": "2026-10-15T10:32:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T05:50:49+00:00"
+   "newest": "2026-10-15T08:51:20+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-15T14:30:00+09:00"
+   "newest": "2026-10-15T19:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -378,6 +378,25 @@
    "id": "1efdcde8c4ec4c5c"
   },
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "EU leaders to tackle China exports, energy prices, budget at summit",
+   "url": "https://www.investing.com/news/economic-indicators/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit-4950477",
+   "published_utc": "2026-10-15T10:19:44+00:00",
+   "title_original": "EU leaders to tackle China exports, energy prices, budget at summit",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "49b7e811cdb4eaeb"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China Resources Power Logs 9M Net Generation Of Subsidiary Power Plants Up 9.7%",
@@ -411,6 +430,24 @@
    "live_wire": true,
    "manual": false,
    "id": "95be753631585473"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "[Volatility of AI/semiconductor stocks will further increase] Japanese stocks are in turmoil after the US midterm elections / Nvidia's \"alchemy\" is beginning to fray / The Nikkei average is within reach of its \"highest price\" towards the end of the year / The impact of high interest rates and high crude oil prices | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/961386?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-15T10:00:00+00:00",
+   "title_original": "【AI・半導体株のボラティリティはさらに高まる】日本株はアメリカ中間選挙後に波乱拡大／エヌビディア“錬金術”に見え始めたほころび／年末に向け日経平均「最高値」も射程だが／金利高・原油高の影響は | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b907addcc1740643"
   },
   {
    "source_id": "tradingview_live",
@@ -1463,25 +1500,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ec64b1ae7a32ad63"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "EU leaders to tackle China exports, energy prices, budget at summit",
-   "url": "https://www.investing.com/news/economic-indicators/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit-4950477",
-   "published_utc": "2026-10-15T05:24:44+00:00",
-   "title_original": "EU leaders to tackle China exports, energy prices, budget at summit",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "inflation",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "49b7e811cdb4eaeb"
   },
   {
    "source_id": "investing_live",
@@ -11497,8 +11515,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -11511,7 +11529,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -51912,24 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9fc746d8d03fd075"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "자본시장뉴스",
-   "title_en": "Han said, “US austerity will continue”… Japan-UK monetary policy boundaries",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBobTlGR1BaOUZKR3dodHVHMzI2SG5NYnFsSXp2My0wNTZ4X19pYXRUU0pGYzlfUFdQeFN3VVRvYmYzdDNiVHFHZnltTXNwQkNjWHVjSzFhU3p5Y2h2VWl1RnVieXZ1dmM?oc=5",
-   "published_utc": "2026-09-17T01:40:00+00:00",
-   "title_original": "한은 \"미 긴축 이어질 것\"…일본·영국 통화정책 경계",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "57d7c6c499f9ef51"
   },
   {
    "source_id": "manual_ia",

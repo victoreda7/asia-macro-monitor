@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T10:22:43.467192+00:00
+Última coleta: 2026-10-15T10:32:43.669302+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1120
@@ -19,8 +19,10 @@ Total: 3000 manchetes
 
   - [taiwan] TSMC's net profit hits record in third quarter
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 592032.26, Implies 89% Upside
+  - [china] EU leaders to tackle China exports, energy prices, budget at summit
   - [china] China Resources Power Logs 9M Net Generation Of Subsidiary Power Plants Up 9.7%
   - [japan] Japan economy minister says deflation era is over, urges investor rethink
+  - [japan] [Volatility of AI/semiconductor stocks will further increase] Japanese stocks are in turmoil after the US midt
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining fShares
   - [taiwan] TSMC revenue rises 41% as AI chip demand drives growth
   - [japan] Policymaker: BOJ shouldn't be too cautious raising rates
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Seoul shares crash over 7% on chip rout amid AI, inflation woes
   - [japan] ``Don't be overly cautious about raising interest rates'', Bank of Japan's Councilor Koeda gives speech (Asahi
   - [taiwan] Wall St futures drop as hot CPI revives Fed hike concerns; TSMC results in focus
-  - [japan] TSE closing price 3318 yen lower, third largest decline
-  - [china] China long-dated bond yields hit 15-month low as PBOC keeps cash flowing
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T10:22:43+00:00",
+      "published_utc": "2026-10-15T10:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
