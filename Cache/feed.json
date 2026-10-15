@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-15T14:32:45.593509+00:00",
- "collected_at_utc": "2026-10-15T14:32:45.593509+00:00",
+ "generated_at_utc": "2026-10-15T14:42:44.475965+00:00",
+ "collected_at_utc": "2026-10-15T14:42:44.475965+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 319,
   "korea": 715
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.9,
  "sources": [
-  {
-   "source_id": "nikkei_asia",
-   "name": "Nikkei Asia",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -35,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T11:30:00+00:00"
+   "newest": "2026-10-15T13:41:38+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -107,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T11:10:00+00:00"
+   "newest": "2026-10-15T13:50:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T05:42:57+00:00"
+   "newest": "2026-10-15T09:41:57+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -196,6 +188,14 @@
    "count": 60,
    "error": "",
    "newest": "2026-10-15T21:48:35+09:00"
+  },
+  {
+   "source_id": "nikkei_asia",
+   "name": "Nikkei Asia",
+   "ok": true,
+   "count": 50,
+   "error": "",
+   "newest": ""
   },
   {
    "source_id": "gn_cn_pboc",
@@ -410,6 +410,23 @@
    "live_wire": false,
    "manual": false,
    "id": "40f7811756168cf9"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFBHMlJGT29yUlFPTXdnR3FvOFhJQ3VxRFdOZ2QyRFljTlh4cGVoTDgwTmowd0l0cFctalZYWHA5eEdzQy1tSHVrQTUtTVhlNEY3LTBIWmlKYy1nSXZjRjJoZjN5cjNMR01xMEt1MFFLQmRUeWJhUC1CVkthTTdENV8tdXN1aXMwcWFFX2JDX3o2X1cwZXhLOTRUMFU1R1BfODNKa090UlU4bUxkLUU4OTBB?oc=5",
+   "published_utc": "2026-10-15T13:41:38+00:00",
+   "title_original": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f4919285abe22a94"
   },
   {
    "source_id": "tradingview_live",
@@ -652,8 +669,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -668,7 +685,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -930,6 +947,24 @@
    "live_wire": true,
    "manual": false,
    "id": "0615fa79a855dd45"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Policymaker: BOJ shouldn't be too cautious raising rates",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zREY2YmRXTkN0UUVkMWRPeVJQQTZBVUhwUWZRT0YzVXBQMmJtYlFBUE5oUkhKMjNXSEJnRkhkX3BrSEJuN1pXNUU0QjctelM3OFdLQWc2OFRnU2p1S09ZdGNwaw?oc=5",
+   "published_utc": "2026-10-15T09:41:57+00:00",
+   "title_original": "Policymaker: BOJ shouldn't be too cautious raising rates",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5bdb98f54dcc2c13"
   },
   {
    "source_id": "investing_live",
@@ -1762,24 +1797,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7830dd74a47254b5"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Policymaker: BOJ shouldn't be too cautious raising rates",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zREY2YmRXTkN0UUVkMWRPeVJQQTZBVUhwUWZRT0YzVXBQMmJtYlFBUE5oUkhKMjNXSEJnRkhkX3BrSEJuN1pXNUU0QjctelM3OFdLQWc2OFRnU2p1S09ZdGNwaw?oc=5",
-   "published_utc": "2026-10-15T05:42:57+00:00",
-   "title_original": "Policymaker: BOJ shouldn't be too cautious raising rates",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5bdb98f54dcc2c13"
   },
   {
    "source_id": "investing_live",
@@ -2672,23 +2689,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9e1435b3eac44694"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFBHMlJGT29yUlFPTXdnR3FvOFhJQ3VxRFdOZ2QyRFljTlh4cGVoTDgwTmowd0l0cFctalZYWHA5eEdzQy1tSHVrQTUtTVhlNEY3LTBIWmlKYy1nSXZjRjJoZjN5cjNMR01xMEt1MFFLQmRUeWJhUC1CVkthTTdENV8tdXN1aXMwcWFFX2JDX3o2X1cwZXhLOTRUMFU1R1BfODNKa090UlU4bUxkLUU4OTBB?oc=5",
-   "published_utc": "2026-10-15T01:11:00+00:00",
-   "title_original": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f4919285abe22a94"
   },
   {
    "source_id": "boj_whatsnew",
@@ -4733,7 +4733,7 @@
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "China’s EV makers face ‘do-or-die moment’ as EU places export quota",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2JSeTBFd1M3WWNBOE9vSkZpR0lpZ0tQb2NZZXlSWFRRSFNaN0xHTTZyTndJU25YZ3RnVjR0S0tiTGttQ3ljbW9taGhEVVBGNzVOdmY4T1dtMHhWTFZwS1RZTG5URk56SW1CRm9tdUljd2lNbXpzMndDLTZaUjNpNl9Bb0pBeUMyb25Db3hISDBCTUtqTTNEZmtWX1pFc2xBUVJSTzRRSnFuSjJOUFVEOFQ1bXgwZjBBWWluUEhIZS1CWU1VZDNZ0gHHAUFVX3lxTFA0SFJqb1FtTXhVR0paMFd6ZHg2UGFYRjljWmxlTUJMZXN3aHRDVE51WnZVU19VZHdSbGlrelRnUW4wTlN3YlBVYVJZMmN3VHJqTnRnMS1uT2tnVkVfMG9fZ3BtSnhHVUdrUFNFUmc5eVZaTTJZUDJGblg3RWNmNnp6TWEwUlRaNHZkQnhlSzV4QjFKaFg2U3g4eDlhekxQc0trNDdHeTVuRTFvejFvNDlZZWdTVTZZYXo3c2ktUVBtYVJSbFBOVlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2JSeTBFd1M3WWNBOE9vSkZpR0lpZ0tQb2NZZXlSWFRRSFNaN0xHTTZyTndJU25YZ3RnVjR0S0tiTGttQ3ljbW9taGhEVVBGNzVOdmY4T1dtMHhWTFZwS1RZTG5URk56SW1CRm9tdUljd2lNbXpzMndDLTZaUjNpNl9Bb0pBeUMyb25Db3hISDBCTUtqTTNEZmtWX1pFc2xBUVJSTzRRSnFuSjJOUFVEOFQ1bXgwZjBBWWluUEhIZS1CWU1VZDNZ?oc=5",
    "published_utc": "2026-10-14T08:00:07+00:00",
    "title_original": "China’s EV makers face ‘do-or-die moment’ as EU places export quota",
    "region": "china",
@@ -4744,7 +4744,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "32f0426207e17f1b"
+   "id": "5fe3092a419c9a60"
   },
   {
    "source_id": "boj_whatsnew",
@@ -11986,8 +11986,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -12000,7 +12000,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
