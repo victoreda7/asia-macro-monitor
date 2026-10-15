@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T05:02:45.022823+00:00
+Última coleta: 2026-10-15T05:12:43.649015+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1120
-  🇨🇳 China          847
+  🇯🇵 Japão          1122
+  🇨🇳 China          846
   🇹🇼 Taiwan         292
-  🇰🇷 Coreia do Sul  741
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Member Koeda's Speech Reinforces Scope for Further Rate Hikes — Market Talk
+  - [japan] Asian stocks sell off as AI trades crumble after hot US inflation data By Reuters
   - [china] This Chinese export boom really has legs – and wings
   - [taiwan] ByteDance taps MediaTek for custom data center chips - report
   - [korea] South Korean Won Falls Further on Tech Rout
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] ``There is a fair amount'' of price rise risk, and there is no need to be overly cautious about raising intere
   - [japan] BOJ Board Member Indicates Further Room for Rate Hikes
   - [korea] Why a memory chip glut could be Korea's weapon against China
-  - [japan] BoJ Koeda Urges Timely Rate Hikes Amid Inflation Risks
-  - [korea] Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T05:02:45+00:00",
+      "published_utc": "2026-10-15T05:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
