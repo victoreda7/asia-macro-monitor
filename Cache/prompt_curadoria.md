@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T04:52:42.808983+00:00
+Última coleta: 2026-10-15T05:02:45.022823+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1121
-  🇨🇳 China          846
+  🇯🇵 Japão          1120
+  🇨🇳 China          847
   🇹🇼 Taiwan         292
   🇰🇷 Coreia do Sul  741
 
 ## O que já está no feed (não repita)
 
+  - [china] This Chinese export boom really has legs – and wings
   - [taiwan] ByteDance taps MediaTek for custom data center chips - report
+  - [korea] South Korean Won Falls Further on Tech Rout
+  - [japan] Japan Industrial Output Falls More than Initially Anticipated
   - [korea] Kospi crashes 8% as Samsung, SK hynix sink over 10%
   - [korea] Stock Crash: SK Hynix plunges 57% from peak in four months, loses nearly $700 billion in value
   - [china] China's yuan gains as Fed rate caution knocks dollar from 18-month high
@@ -48,15 +51,12 @@ Total: 3000 manchetes
   - [taiwan] Bytedance In Talks To Secure Mediatek AI Chips For Data Centers - Bloomberg News
   - [japan] What's behind the sudden turnaround and being fired in 4 weeks? Prime Minister Takaichi's "Chiebukuro" Ministe
   - [japan] G20 Finance Ministers and Central Bank Governors Meeting begins, discussing responses to the global economy an
+  - [japan] Bank of Japan member Koeda says there is ``reasonable'' risk of price rises, and there is no need to be overly
   - [japan] ``There is a fair amount'' of price rise risk, and there is no need to be overly cautious about raising intere
   - [japan] BOJ Board Member Indicates Further Room for Rate Hikes
   - [korea] Why a memory chip glut could be Korea's weapon against China
   - [japan] BoJ Koeda Urges Timely Rate Hikes Amid Inflation Risks
   - [korea] Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say
-  - [korea] Why is SK Hynix stock plunging today?
-  - [japan] BOJ should not be overly cautious in raising rates, board member Koeda says
-  - [japan] BOJ policymaker warns against being overly cautious on rate hikes
-  - [korea] Why is Samsung Electronics stock plunging today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T04:52:42+00:00",
+      "published_utc": "2026-10-15T05:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

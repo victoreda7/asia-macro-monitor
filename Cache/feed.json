@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T04:52:42.808983+00:00",
- "collected_at_utc": "2026-10-15T04:52:42.808983+00:00",
+ "generated_at_utc": "2026-10-15T05:02:45.022823+00:00",
+ "collected_at_utc": "2026-10-15T05:02:45.022823+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1121,
-  "china": 846,
+  "japan": 1120,
+  "china": 847,
   "taiwan": 292,
   "korea": 741
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 53,
+   "count": 54,
    "error": "",
-   "newest": "2026-10-15T11:22:30+08:00"
+   "newest": "2026-10-15T12:12:33+08:00"
   },
   {
    "source_id": "investing_live",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T08:46:11+00:00"
+   "newest": "2026-10-15T00:36:47+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": "",
-   "newest": "2026-10-15T01:04:00+00:00"
+   "newest": "2026-10-15T01:43:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:11:00+00:00"
+   "newest": "2026-10-15T03:05:48+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T04:51:01+00:00"
+   "newest": "2026-10-15T05:01:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T23:50:36+00:00"
+   "newest": "2026-10-14T20:48:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:01:30+00:00"
+   "newest": "2026-10-15T00:28:47+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -345,6 +345,23 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "This Chinese export boom really has legs – and wings",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45Y0AP:0-this-chinese-export-boom-really-has-legs-and-wings/",
+   "published_utc": "2026-10-15T05:00:00+00:00",
+   "title_original": "This Chinese export boom really has legs – and wings",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c901ff8d25f7a136"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
    "title_en": "ByteDance taps MediaTek for custom data center chips - report",
    "url": "https://www.tradingview.com/news/seekingalpha:47d5f456b094b:0-bytedance-taps-mediatek-for-custom-data-center-chips-report/",
@@ -359,6 +376,40 @@
    "live_wire": true,
    "manual": false,
    "id": "5512fec210d60cb0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korean Won Falls Further on Tech Rout",
+   "url": "https://www.tradingview.com/news/te_news:592182:0-south-korean-won-falls-further-on-tech-rout/",
+   "published_utc": "2026-10-15T04:43:54+00:00",
+   "title_original": "South Korean Won Falls Further on Tech Rout",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "767117973ffb6143"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Japan Industrial Output Falls More than Initially Anticipated",
+   "url": "https://www.tradingview.com/news/te_news:592180:0-japan-industrial-output-falls-more-than-initially-anticipated/",
+   "published_utc": "2026-10-15T04:41:07+00:00",
+   "title_original": "Japan Industrial Output Falls More than Initially Anticipated",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f4e140040a29c1d9"
   },
   {
    "source_id": "korea_herald_biz",
@@ -883,6 +934,24 @@
    "live_wire": false,
    "manual": false,
    "id": "3abb671c1c48032a"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan member Koeda says there is ``reasonable'' risk of price rises, and there is no need to be overly cautious about raising interest rates (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbm15QzNPeE9WYmZnZmwyYjdsWGNIWlFNUUw4clpxTEM2RG5VQ3kwWTZvX2JncXFBSWZkMUdGYVFDel9uZ1dHNDRWeW1SVUJTSU5taHZpQjJidVc1MkozbGQwRVNkQlpRSmNLUmpySV9hcXZGdzRZYWlpajB6Mk9TUFdieGkwcW9MV2RLN3Nn?oc=5",
+   "published_utc": "2026-10-15T02:26:38+00:00",
+   "title_original": "物価上昇リスク「相応にある」、利上げに過度に慎重になることない＝小枝日銀委員 (ロイター)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "59090f3616fd5703"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4033,24 +4102,6 @@
    "id": "7c9eea2db919b009"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "经济观察网",
-   "title_en": "The central bank launches 56 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2X25JM2dkZDZELTdBUVE4bmZleTJnTHFmb19uMHpETFVnM1Eya3BfZlVTaUp2QjVkenhscERlcXlSV0dTbERULUEweWgzTG1YaUJGNU02X3o?oc=5",
-   "published_utc": "2026-10-14T02:14:54+00:00",
-   "title_original": "央行开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c1ace237a8adfa20"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China’s Producer Prices Jolted by $100 Oil as Inflation Rebounds",
@@ -4380,6 +4431,24 @@
    "live_wire": false,
    "manual": false,
    "id": "83618be5321a52a9"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中新经纬",
+   "title_en": "The central bank launches 56 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmZ3MxUDVXRDV6RVhtQ2tnRjNQZS1aV3FxaEVweFR2alJ2NlZsZ2laUUdIZjZzdlFKcmxZaGxZQUs0NE8yVTZfa0J4U0VyM055T0lNRllFaUxNbXRWbWJqbEZtUkU?oc=5",
+   "published_utc": "2026-10-14T01:25:00+00:00",
+   "title_original": "央行开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2f82b0518d4ef4c8"
   },
   {
    "source_id": "gn_kr_bok",
@@ -6789,7 +6858,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Seoul shares open sharply lower on U.S. losses, inflation concerns",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SNnJRR2QxbE5jLTJXVTNIaFVmYy1ueEF1eTNSQ28wOG12bUdOLUl6R1J0SjF0RVk5TjFtZWpUTndQZXZwSC1SNUE1NHItczQzY2ZUeWEwRjZoUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWHc5bGxya1RxVV9tYlN4VkZINHRveE41SE5UemRLbmN1YzNoLThTVVRsbmNtek83VUFraDRHQ2dYNFpLLUJIOHhoOFpnTFY5bkZrR05wSEQ1R3pSS1o2TzJXLUtGbDFjTmdWWGpuLXdfa1E2eWdtTTdxQ1J6d19aMGtnNi0?oc=5",
    "published_utc": "2026-10-13T00:21:29+00:00",
    "title_original": "(LEAD) Seoul shares open sharply lower on U.S. losses, inflation concerns",
    "region": "korea",
@@ -6800,7 +6869,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2bba2ce52a36f5ab"
+   "id": "49b12f800c2d0c85"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51857,76 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "03988bc67dc53ece"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Is consumption tax reduction a bad idea? What should Japan's economic policy be? (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aYmRIZU1lVlF3QXpzeS1xRkItSUk3QW5oS3JYLUViZ052WUlsWXFrQml4S1JkYnZCdDRsNTJBTllXSGprMWU2NXhvWmNSQXJfcmtNSHdicWdnYlY3TnFPZVBBYmhQczlKVzVSUm5heHQxdGtmMzVnZ3BJeUZkQWc?oc=5",
-   "published_utc": "2026-09-16T13:13:50+00:00",
-   "title_original": "消費税減税は悪手？日本の経済政策はどうあるべき？（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bf6b1f484df424ae"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "Interest rate hike every 3 months? Somewhat expected",
-   "url": "https://news.yahoo.co.jp/pickup/6595525?source=rss",
-   "published_utc": "2026-09-16T12:58:09+00:00",
-   "title_original": "3カ月ごと利上げ? やや期待先行",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2d120ad971654995"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Interest rate hike every 3 months? Expert: ``A little ahead of expectations'' Future pace analysis Bank of Japan decision meeting from 17th (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2U0FCVk1wRm42ZUtmdGVhMVZxRUJLeFlveUwzUm5JM014VTBwMC02bDZubTZLWWFmS25TYVo1TnViTE05N0tqYklmTWRELWhZbTBnV3dnVF9qVEpGWV9KZDdXbjdjOHdjWVVFTFV2MWRSVDBYajA4OXdHek9SLU0?oc=5",
-   "published_utc": "2026-09-16T12:40:32+00:00",
-   "title_original": "3カ月ごとに利上げ？専門家「やや期待先行」今後のペース分析 17日から日銀決定会合（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f7c2675ed55f6473"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Record bonuses keep Korea’s chip engineers at home; talent hunt between Samsung, SK Hynix intensifies",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByRlNoRVNUZXNCRDg2OUloa0xjQXM4blEtNG5uaUIyc0FLNmMzZ2NtOS1OWHRBVlMzaFlRWWxLajhXb0VXQkdmR3BXUm85aGxLbURPTU9yaE9PT0NLd1ZMRVVqYWxaVUhJUjVYUklyMkpzajRqYXd3?oc=5",
-   "published_utc": "2026-09-16T12:33:00+00:00",
-   "title_original": "Record bonuses keep Korea’s chip engineers at home; talent hunt between Samsung, SK Hynix intensifies",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "33a6cbe103065e39"
   },
   {
    "source_id": "manual_ia",
