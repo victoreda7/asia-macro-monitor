@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T02:32:44.350799+00:00
+Última coleta: 2026-10-15T02:42:45.096613+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1124
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] IMF urges China to deploy bigger fiscal stimulus
   - [japan] BOJ Board Member Indicates Further Room for Rate Hikes
   - [korea] Why a memory chip glut could be Korea's weapon against China
   - [japan] BoJ Koeda Urges Timely Rate Hikes Amid Inflation Risks
@@ -40,6 +41,7 @@ Total: 3000 manchetes
   - [japan] Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)
   - [japan] Japan futures fall as Tokyo equities slump, China imports weaken
   - [korea] Hot US inflation hammers Kospi nearly 6% lower as chips buckle
+  - [japan] Japan’s Katayama Renews FX Warnings After US CPI Heats Up
   - [japan] Summary of the "Meeting on Market Operations" (October 2026)
   - [taiwan] Key facts: TSMC (2330) Q3 revenue NT$1.49T record; 2026 capex $60–64B
   - [japan] Japan’s Katayama Renews Warnings on Yen After US CPI Heats Up
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Fujifilm to expand Arizona semiconductor materials output
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation. In September, imports and
   - [korea] Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI
-  - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
-  - [korea] Aftermath of interest rate hike… Deposits with high interest rates in the 4% per annum range appear in the ban
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T02:32:44+00:00",
+      "published_utc": "2026-10-15T02:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
