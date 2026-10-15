@@ -1,14 +1,14 @@
 {
- "generated_at_utc": "2026-10-15T00:52:44.736812+00:00",
- "collected_at_utc": "2026-10-15T00:52:44.736812+00:00",
+ "generated_at_utc": "2026-10-15T01:02:44.968979+00:00",
+ "collected_at_utc": "2026-10-15T01:02:44.968979+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1123,
+  "japan": 1122,
   "china": 851,
-  "taiwan": 293,
+  "taiwan": 294,
   "korea": 733
  },
  "elapsed_s": 29.6,
@@ -17,9 +17,9 @@
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 52,
+   "count": 53,
    "error": "",
-   "newest": "2026-10-14T20:00:00+09:00"
+   "newest": "2026-10-15T10:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T08:30:18+00:00"
+   "newest": "2026-10-14T04:00:21+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T09:42:45+09:00"
+   "newest": "2026-10-15T10:00:46+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T00:52:02+00:00"
+   "newest": "2026-10-15T01:00:18+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T17:46:02+00:00"
+   "newest": "2026-10-14T20:48:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Summary of the \"Meeting on Market Operations\" (October 2026)",
+   "url": "http://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
+   "published_utc": "2026-10-15T01:00:00+00:00",
+   "title_original": "Summary of the \"Meeting on Market Operations\" (October 2026)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d082cbec90b9340a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Key facts: TSMC (2330) Q3 revenue NT$1.49T record; 2026 capex $60–64B",
+   "url": "https://www.tradingview.com/news/tradingview:b9aeff60d735d:0-key-facts-tsmc-2330-q3-revenue-nt-1-49t-record-2026-capex-60-64b/",
+   "published_utc": "2026-10-15T01:00:00+00:00",
+   "title_original": "Key facts: TSMC (2330) Q3 revenue NT$1.49T record; 2026 capex $60–64B",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ed3ac336c43109af"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -9297,8 +9331,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -9311,7 +9345,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -10260,8 +10294,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -10275,7 +10309,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -10466,8 +10500,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -10481,7 +10515,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51891,42 +51925,6 @@
    "live_wire": true,
    "manual": false,
    "id": "eb1e78bb6fb791eb"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG EXPORTS TO EU +11.0%, 13TH STRAIGHT RISE (JULY +19.1%), LED BY AUTOS, CHIP-MAKING EQUIPMENT, MINERAL FUELS",
-   "url": "https://www.tradingview.com/news/macenews:50bc42e84094b:0-japan-aug-exports-to-eu-11-0-13th-straight-rise-july-19-1-led-by-autos-chip-making-equipment-mineral-fuels/",
-   "published_utc": "2026-09-16T00:16:00+00:00",
-   "title_original": "JAPAN AUG EXPORTS TO EU +11.0%, 13TH STRAIGHT RISE (JULY +19.1%), LED BY AUTOS, CHIP-MAKING EQUIPMENT, MINERAL FUELS",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1580482f561da450"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG EXPORTS TO US +24.9% Y/Y, 6TH STRAIGHT RISE (JULY +22.0%), LED BY AUTOS, CHIP-MAKING EQUIPMENT, CONSTRUCTION/MINGIN MACHINES",
-   "url": "https://www.tradingview.com/news/macenews:b315f4a89094b:0-japan-aug-exports-to-us-24-9-y-y-6th-straight-rise-july-22-0-led-by-autos-chip-making-equipment-construction-mingin-machines/",
-   "published_utc": "2026-09-16T00:15:00+00:00",
-   "title_original": "JAPAN AUG EXPORTS TO US +24.9% Y/Y, 6TH STRAIGHT RISE (JULY +22.0%), LED BY AUTOS, CHIP-MAKING EQUIPMENT, CONSTRUCTION/MINGIN MACHINES",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "18907400e34a02cb"
   },
   {
    "source_id": "manual_ia",
