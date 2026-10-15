@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-15T20:52:45.595763+00:00",
- "collected_at_utc": "2026-10-15T20:52:45.595763+00:00",
+ "generated_at_utc": "2026-10-15T21:02:43.252252+00:00",
+ "collected_at_utc": "2026-10-15T21:02:43.252252+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 325,
   "korea": 712
  },
- "elapsed_s": 31.7,
+ "elapsed_s": 29.2,
  "sources": [
-  {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T20:31:28+00:00"
+   "newest": "2026-10-15T20:52:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T20:22:10+00:00"
+   "newest": "2026-10-15T20:48:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T20:20:09+00:00"
+   "newest": "2026-10-15T20:47:27+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T20:51:00+00:00"
+   "newest": "2026-10-15T21:02:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -292,6 +284,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-10T08:48:00+00:00"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-15T12:59:16+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -549,8 +549,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -564,7 +564,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -1133,8 +1133,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -1149,7 +1149,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_kr_ked",
@@ -2445,7 +2445,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 45 billion yuan seven-day reverse repurchase operation with an interest rate of 1.40%, the same as last time",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIZTNQLUx0alAyb0paZ1JpQmJxQVlLZnRueHB6VGhiM0VFLTA1MzltMnRjamRrQ0ZxZ2NvX09MNUltNUlfVXBsMFVBUjdyUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBydU9xV3NKMEUteXRjMkFGd2JDRUtxVi1WbDNuM1B1clotbHNjaUl6TnhsZEVnVTNSejQ3cEU0UTREZUZaZm9OUnBHczBoRkxlNjV1UjVpbHViNFM2eUtINi1B?oc=5",
    "published_utc": "2026-10-15T03:05:48+00:00",
    "title_original": "央行开展450亿元七天期逆回购操作 利率1.40%持平上次",
    "region": "china",
@@ -2457,7 +2457,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5cfa930262ea83a4"
+   "id": "fc9a5bdca9ce7c96"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -23848,6 +23848,23 @@
    "id": "bc9cd7012ff5e719"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
+   "published_utc": "2026-10-02T11:04:36+00:00",
+   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "623202d19857e66d"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
@@ -24317,23 +24334,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c40d4b61783a66e6"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
-   "published_utc": "2026-10-02T07:00:00+00:00",
-   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "623202d19857e66d"
   },
   {
    "source_id": "gn_tw_digitimes",
