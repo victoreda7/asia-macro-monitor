@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T01:52:42.627825+00:00
+Última coleta: 2026-10-15T02:02:46.700564+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1122
-  🇨🇳 China          852
+  🇯🇵 Japão          1124
+  🇨🇳 China          851
   🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  733
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Set to Post Sixth Consecutive Quarter of Record Profit, Thanks to AI Boom
+  - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
+  - [china] China stocks fall, led by tech, as US inflation stokes Fed fears
+  - [japan] Stock prices temporarily fell by more than 3,000 yen against the backdrop of expectations for a US interest ra
+  - [japan] Bank of Japan member says there is "no need to be cautious" in raising interest rates (Kyodo News)
   - [china] CHINA PBOC CONDUCTS CNY45 BLN VIA 7-DAY REVERSE REPO THURS
   - [japan] BOJ should not be overly cautious raising rates, board member Koeda says
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7253 THURS VS 6.7249
@@ -38,8 +43,6 @@ Total: 3000 manchetes
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation. In September, imports and
   - [korea] Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
-  - [taiwan] TSMC Set to Post Sixth Consecutive Quarter of Record Profit Thanks to AI Boom
-  - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
   - [china] The Times said the central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [japan] US-listed semiconductor stocks continue to fall
   - [japan] U.S. semiconductor company plans to build new factory for up to 3 trillion yen based on Japan-U.S. agreement
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Times data said | The central bank will launch a 700 billion yuan buyout reverse repurchase operation
   - [japan] GlobalFoundries options surge on $21B U.S.-Japan chip deal
   - [china] China’s Sept. Exports Surge 36.3% Amid AI Boom, Auto Export Rush
-  - [china] China’s Sept. Exports Surge 36% Amid AI Boom, Auto Export Rush
-  - [korea] South Korean minister rejects claim of W80b wasted on Brazilian egg imports
-  - [japan] PRES TRUMP POSTS: 'MASSIVE; $21 BLN INVESTMENT FINANCED BY JAPAN, SKOREA, TAIWAN TO BUILD TWO SEMICONDUCTOR FA
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T01:52:42+00:00",
+      "published_utc": "2026-10-15T02:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
