@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T10:52:42.199704+00:00
+Última coleta: 2026-10-15T11:02:45.787936+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1120
-  🇨🇳 China          840
-  🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  721
+  🇯🇵 Japão          1119
+  🇨🇳 China          841
+  🇹🇼 Taiwan         320
+  🇰🇷 Coreia do Sul  720
 
 ## O que já está no feed (não repita)
 
   - [korea] Why a memory chip glut could be Korea's weapon against China
+  - [japan] Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction
   - [taiwan] TSMC eyes Texas and Musk Terafab project for US expansion
   - [taiwan] Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] TSMC's net profit hits record in third quarter
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar slips despite hot U.S. CPI; yen firms on intervention warnings
   - [korea] Kospi slides over 7% as chip stocks sink
   - [taiwan] TSMC's Q3 net profit hits new quarterly high
-  - [taiwan] Earnings Snapshot: Taiwan Semiconductor Manufacturing tops Q3 estimates, gives Q4 revenue guidance above estim
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T10:52:42+00:00",
+      "published_utc": "2026-10-15T11:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
