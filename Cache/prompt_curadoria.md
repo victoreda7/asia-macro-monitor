@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T21:02:43.252252+00:00
+Última coleta: 2026-10-15T21:11:47.311107+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1120
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] First-class Shine Muscat is sold for "only 300 yen"...A "super diversified company in Okayama" that has been i
   - [japan] US year-end sales forecast for 4% increase as inflation drives people to save money
   - [taiwan] 2330 Stock 12‑Month Price Target Raised to TWD 3359.94, Implies 35% Upside
   - [china] China central bank chief urges broader view on global imbalances
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan tells G20 authorities must watch FX moves with high sense of urgency, finance minister says
   - [china] The central bank launched a 700 billion yuan buyout reverse repo to increase liquidity support in the fourth q
   - [taiwan] Taiwan Semiconductor Manufacturing Company Limited reports results for the quarter ended September 30 - Earnin
-  - [china] China’s central bank chief urges ’comprehensive’ view on global imbalances
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T21:02:43+00:00",
+      "published_utc": "2026-10-15T21:11:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
