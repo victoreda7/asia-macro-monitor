@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T05:52:42.882850+00:00
+Última coleta: 2026-10-15T06:02:42.066830+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1122
-  🇨🇳 China          843
-  🇹🇼 Taiwan         298
-  🇰🇷 Coreia do Sul  737
+  🇯🇵 Japão          1123
+  🇨🇳 China          844
+  🇹🇼 Taiwan         297
+  🇰🇷 Coreia do Sul  736
 
 ## O que já está no feed (não repita)
 
   - [taiwan] AI Demand Extends TSMC's Record Earnings Streak
+  - [japan] Today's Oha Biz October 15th (Thursday) U.S. Consumer Price Index continues to grow rapidly
+  - [japan] Japan August industrial production revised down to -2.4% M/M; core machine orders rise 5.2%
   - [japan] IMF: Japan to fall to 6th in 2027 global GDP rankings
   - [taiwan] TSMC Q3 profit surges more than expected to record high on AI-fueled demand
   - [korea] Asia markets in red: South Korea and Japan lead deep tech selloff; Japan industrial output revised down
@@ -47,16 +49,14 @@ Total: 3000 manchetes
   - [japan] Asia FX mixed, dollar slips after hot U.S. CPI; yen firms on intervention warnings
   - [korea] Hot US inflation hammers Kospi nearly 6% lower as chips buckle
   - [china] China stocks fall, led by tech, as US inflation stokes Fed fears
-  - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 592032.26, Implies 89% Upside
   - [china] China's Export Surge Creates Winners as Well as Losers in Asia — Market Talk
   - [korea] Won-Yen Divergence May Likely Be Due to Chip Demand Boom — Market Talk
+  - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com
   - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan
   - [taiwan] Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem
   - [china] IMF urges China to deploy bigger fiscal stimulus
   - [korea] Bank of Korea maintains austerity stance… Attention to further increase in base interest rate on the 22nd amid
-  - [korea] SKHY Tracks Worst Month Since Nasdaq Debut: SK Hynix Reportedly Wants To Ship More Chip Tools To China Before 
-  - [korea] SK Hynix seeks U.S. chip equipment exports to China tied to new factory - Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T05:52:43+00:00",
+      "published_utc": "2026-10-15T06:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
