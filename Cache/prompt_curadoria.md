@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T09:42:43.259858+00:00
+Última coleta: 2026-10-15T09:52:43.130444+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1118
-  🇨🇳 China          842
+  🇯🇵 Japão          1119
+  🇨🇳 China          841
   🇹🇼 Taiwan         316
   🇰🇷 Coreia do Sul  724
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC revenue rises 41% as AI chip demand drives growth
+  - [japan] Policymaker: BOJ shouldn't be too cautious raising rates
   - [taiwan] Can TSMC earnings help settle AI jitters?
   - [japan] Yen price rises due to comments from Bank of Japan committee members
   - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi Falls for Seventh Straight Session as Chip Stocks Slump
   - [taiwan] Taiwan Semiconductor Manufacturing in charts: Advanced chips drive 79% of Q3 wafer revenue
   - [korea] SK hynix ties U.S. NAND factory to approval for more equipment at China fab - report
-  - [taiwan] TSMC Chairman: No Ceiling for TSMC Profitability, But Dramatic Improvement Won't Happen Overnight
-  - [china] China launches large-scale economic stimulus package, despite sluggish domestic demand, fiscal support is "lim
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T09:42:43+00:00",
+      "published_utc": "2026-10-15T09:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
