@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T04:22:43.855669+00:00
+Última coleta: 2026-10-15T04:32:40.581196+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1122
+  🇯🇵 Japão          1121
   🇨🇳 China          848
   🇹🇼 Taiwan         291
-  🇰🇷 Coreia do Sul  739
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi crashes 8% as Samsung, SK hynix sink over 10%
+  - [china] China's yuan gains as Fed rate caution knocks dollar from 18-month high
+  - [korea] Hot US inflation hammers Kospi nearly 6% lower as chips buckle
+  - [china] China stocks fall, led by tech, as US inflation stokes Fed fears
+  - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 592032.26, Implies 89% Upside
   - [china] China's Export Surge Creates Winners as Well as Losers in Asia — Market Talk
-  - [korea] Won-Yen Divergence May Likely Be Due to Chip Demand Boom — Market Talk
   - [china] EU leaders to tackle China exports, energy prices, budget at summit
-  - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com
+  - [korea] Won-Yen Divergence May Likely Be Due to Chip Demand Boom — Market Talk
   - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan
   - [taiwan] Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem
   - [china] IMF urges China to deploy bigger fiscal stimulus
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Asian markets sell off as AI trades crumble after hot US CPI data By Reuters
   - [japan] Bank of Japan council member emphasizes continuing interest rate hikes: ``There is no need to be cautious'' (K
   - [taiwan] TSMC Set to Post Sixth Consecutive Quarter of Record Profit, Thanks to AI Boom
-  - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
-  - [china] China stocks fall, led by tech, as US inflation stokes Fed fears
-  - [china] "Three polarizations" are occurring in the Chinese economy, where domestic demand has fallen sharply...The rea
-  - [japan] Stock prices temporarily fell by more than 3,000 yen against the backdrop of expectations for a US interest ra
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T04:22:44+00:00",
+      "published_utc": "2026-10-15T04:32:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

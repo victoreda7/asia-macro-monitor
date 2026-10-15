@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T04:22:43.855669+00:00",
- "collected_at_utc": "2026-10-15T04:22:43.855669+00:00",
+ "generated_at_utc": "2026-10-15T04:32:40.581196+00:00",
+ "collected_at_utc": "2026-10-15T04:32:40.581196+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1122,
+  "japan": 1121,
   "china": 848,
   "taiwan": 291,
-  "korea": 739
+  "korea": 740
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T04:06:53+00:00"
+   "newest": "2026-10-15T04:23:36+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T04:06:53+00:00"
+   "newest": "2026-10-15T04:18:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T04:06:00+00:00"
+   "newest": "2026-10-15T04:20:28+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:13:54+00:00"
+   "newest": "2026-10-15T04:27:28+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T13:00:38+00:00"
+   "newest": "2026-10-15T13:27:56+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": "",
-   "newest": "2026-10-15T01:43:00+00:00"
+   "newest": "2026-10-14T01:30:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T04:21:01+00:00"
+   "newest": "2026-10-15T04:30:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T20:48:21+00:00"
+   "newest": "2026-10-14T23:50:36+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-15T02:53:18+00:00"
+   "newest": "2026-10-15T04:30:12+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:54:20+00:00"
+   "newest": "2026-10-14T05:03:08+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,93 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Kospi crashes 8% as Samsung, SK hynix sink over 10%",
+   "url": "https://www.koreaherald.com/article/10903746",
+   "published_utc": "2026-10-15T04:32:40.004158+00:00",
+   "title_original": "Kospi crashes 8% as Samsung, SK hynix sink over 10%",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "aee9e2625313f7e6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's yuan gains as Fed rate caution knocks dollar from 18-month high",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46109Q:0-china-s-yuan-gains-as-fed-rate-caution-knocks-dollar-from-18-month-high/",
+   "published_utc": "2026-10-15T04:28:41+00:00",
+   "title_original": "China's yuan gains as Fed rate caution knocks dollar from 18-month high",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8c539f72e217ac98"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Hot US inflation hammers Kospi nearly 6% lower as chips buckle",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80TkZWSHRpX0VoVGplMkJNdmF0ZHhpSW1RTEJ3Q2x6MkJTdjAwYzBRTEctMVRjQURIWFk2aWJ0d2lkbVN3NG5WOV9HREpvWGtieW1iRkRjMHcwUERLWUJMVXdvdHlRd3N0cUhlUWd2ekV1bjl0RkQxMWx3?oc=5",
+   "published_utc": "2026-10-15T04:27:28+00:00",
+   "title_original": "Hot US inflation hammers Kospi nearly 6% lower as chips buckle",
+   "region": "korea",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9aec304ab96d2821"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China stocks fall, led by tech, as US inflation stokes Fed fears",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46103S:0-china-stocks-fall-led-by-tech-as-us-inflation-stokes-fed-fears/",
+   "published_utc": "2026-10-15T04:22:13+00:00",
+   "title_original": "China stocks fall, led by tech, as US inflation stokes Fed fears",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5c61ac1a08f4d147"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0dpcXNnYnNnbWtWakd2R3VrNnpxUHFsRWJyN1pLZ3BacTkyb0FfVUtUM3dvRlZqckZ4aXRlVGZvdHY2S09nWDlzVk1POWstNmRwRlNvSTlGbkYybjAxTnF0akg4ZmI3UWh1RFlJaWp4cnV2MEJCWGhKM2ZnN3doRXpUNmZKaEk2YlhhNWNjSXFkMWFVME5xRFVHTUF4ZFpFUjg1QXVmZmE1Y2hjWU1oOXd1SXdzbno3bVB6RW1B?oc=5",
+   "published_utc": "2026-10-15T04:20:28+00:00",
+   "title_original": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2b3965436e525ef4"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -378,6 +465,25 @@
    "id": "6b53f7bba24d278f"
   },
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "EU leaders to tackle China exports, energy prices, budget at summit",
+   "url": "https://www.investing.com/news/economic-indicators/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit-4950477",
+   "published_utc": "2026-10-15T04:12:33+00:00",
+   "title_original": "EU leaders to tackle China exports, energy prices, budget at summit",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "49b7e811cdb4eaeb"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Won-Yen Divergence May Likely Be Due to Chip Demand Boom — Market Talk",
@@ -394,43 +500,6 @@
    "live_wire": true,
    "manual": false,
    "id": "363da4701b3b1397"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "EU leaders to tackle China exports, energy prices, budget at summit",
-   "url": "https://www.investing.com/news/economic-indicators/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit-4950477",
-   "published_utc": "2026-10-15T04:06:25+00:00",
-   "title_original": "EU leaders to tackle China exports, energy prices, budget at summit",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "inflation",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "49b7e811cdb4eaeb"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXM4RzlvNjh2NUgyeFQtMWlxT2gza0VvZU5JVDVBVzVXRS1kZVZEc2QzT1RMazNJWThlaWRWckFOd0JNRTdmQmp4UmlHWmUwTlJ3VDhyanZVaU9WVFJlTzYzUUVaeVBrRkdxaWFzUkJfd0tXdTNfSlVCUy1sOXdVdEs1cktiZFJpbW9QbHBsNjFXazljTFhaVGJ5RWN6RVpMQVRQRExYWVljcjZkbU5LbDZSU1JVYUdENzBiQjBn?oc=5",
-   "published_utc": "2026-10-15T04:06:00+00:00",
-   "title_original": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dfae25f1e6df382f"
   },
   {
    "source_id": "investing_live",
@@ -990,23 +1059,6 @@
    "id": "f0ed3876a36182b2"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China stocks fall, led by tech, as US inflation stokes Fed fears",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46101R:0-china-stocks-fall-led-by-tech-as-us-inflation-stokes-fed-fears/",
-   "published_utc": "2026-10-15T02:00:07+00:00",
-   "title_original": "China stocks fall, led by tech, as US inflation stokes Fed fears",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3c619f39c9ab646d"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "\"Three polarizations\" are occurring in the Chinese economy, where domestic demand has fallen sharply...The reason why the government is cautious about boosting the economy even though the situation is getting more serious | Politics, Economy, Investment | Toyo Keizai Online",
@@ -1229,24 +1281,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1de5dfab69277a1c"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Hot US inflation hammers Kospi nearly 6% lower as chips buckle",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80TkZWSHRpX0VoVGplMkJNdmF0ZHhpSW1RTEJ3Q2x6MkJTdjAwYzBRTEctMVRjQURIWFk2aWJ0d2lkbVN3NG5WOV9HREpvWGtieW1iRkRjMHcwUERLWUJMVXdvdHlRd3N0cUhlUWd2ekV1bjl0RkQxMWx3?oc=5",
-   "published_utc": "2026-10-15T01:11:43+00:00",
-   "title_original": "Hot US inflation hammers Kospi nearly 6% lower as chips buckle",
-   "region": "korea",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9aec304ab96d2821"
   },
   {
    "source_id": "boj_whatsnew",
@@ -3911,6 +3945,24 @@
    "id": "7c9eea2db919b009"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "The central bank launches 56 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2X25JM2dkZDZELTdBUVE4bmZleTJnTHFmb19uMHpETFVnM1Eya3BfZlVTaUp2QjVkenhscERlcXlSV0dTbERULUEweWgzTG1YaUJGNU02X3o?oc=5",
+   "published_utc": "2026-10-14T02:14:54+00:00",
+   "title_original": "央行开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c1ace237a8adfa20"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China’s Producer Prices Jolted by $100 Oil as Inflation Rebounds",
@@ -4240,24 +4292,6 @@
    "live_wire": false,
    "manual": false,
    "id": "83618be5321a52a9"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中新经纬",
-   "title_en": "The central bank launches 56 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmZ3MxUDVXRDV6RVhtQ2tnRjNQZS1aV3FxaEVweFR2alJ2NlZsZ2laUUdIZjZzdlFKcmxZaGxZQUs0NE8yVTZfa0J4U0VyM055T0lNRllFaUxNbXRWbWJqbEZtUkU?oc=5",
-   "published_utc": "2026-10-14T01:25:00+00:00",
-   "title_original": "央行开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2f82b0518d4ef4c8"
   },
   {
    "source_id": "gn_kr_bok",
@@ -10391,8 +10425,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -10405,7 +10439,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -11354,8 +11388,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -11369,7 +11403,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -11560,8 +11594,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -11575,7 +11609,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -18197,7 +18231,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzQ0X04tVGlYcVY4N3B5cWtYWlNZV3ZjR1ZtNG91bUxHZWZpUEhwVXpYSy1kSUpRWVZtd09wU293N2w1RGw2SFFjTTFxM1NjbWoxLW8yM2Y4Q1JxeHBVbVlZdHdEMnZRTDF3a05TRWJaaklXeWIyak9NVFc3SFY5eEJHUmF0MUVESVFIa1R4alpfVVRvMDE2Wk5n?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEotV2RsS3BuSnU0bkdIVWN0cEUwUC1EdWdqeHFDcFVLVE1pRGt4cEpBLWhYeHVJRUNLZ0V3bUVQbWVPNDBBQmp3VFVaM1JVcjVMd1RyYkh0di0zWXNFeEFRd3BJUlhWSW1pRTI0TlRIa01Wa3BmSEpfc0hTV25CVzNVVExnUldD?oc=5",
    "published_utc": "2026-10-06T09:18:34+00:00",
    "title_original": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
    "region": "taiwan",
@@ -18208,7 +18242,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "cdf00dc430097832"
+   "id": "80ec3b16fcf66cc9"
   },
   {
    "source_id": "investing_live",
@@ -51891,40 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2ae9762b8c6cbba2"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "[Explaining the latest quarterly report! ] Is there something wrong with the “headline” of achievements? / The future of KIOXIA, which is making huge profits / Expecting better performance due to its “high market policy” / Sectors receiving a tailwind from rising interest rates / Improving “operating profit margin” that cannot be overlooked / Which companies will “increase” based on their own forecasts? | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/958378?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-16T10:00:00+00:00",
-   "title_original": "【最新の四季報を解説！】業績の「見出し」に異変？／「爆益」キオクシアの先行き／“高市政策”で業績の上振れ期待／金利上昇で追い風が吹くセクター／見逃せない「営業利益率」の改善／独自予想で「増額」企業は？ | ビジネス | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5f05a71cf726bbc4"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Nissan Says UK May Need to Impose China Car Tariffs for EU Deal",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTgyN2p1OXNlUVBFNlV6OW9XMDVSNFZCMnJDSEYyM3NDRks5NDNHeFMwbzdFbW9ORDM4LXY0aVp1MG0yVk9jMVNTR1h2S2Ftal9VQlJ5NXBJcjFldHdJd200Y0dGVnp2SWdlX3JkQjlucXhISWpMVUVaajFWNlRBOXI1Y3hCczZXMF9PNmtjQ1FwMkxsR0I1YUhVdTAwYkRNRzU0cmJqdm9XQzBWMVJXM3VWYjI?oc=5",
-   "published_utc": "2026-09-16T09:53:56+00:00",
-   "title_original": "Nissan Says UK May Need to Impose China Car Tariffs for EU Deal",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "07d8527f65688999"
   },
   {
    "source_id": "manual_ia",
