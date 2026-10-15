@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-15T08:12:43.899681+00:00",
- "collected_at_utc": "2026-10-15T08:12:43.899681+00:00",
+ "generated_at_utc": "2026-10-15T08:23:42.332105+00:00",
+ "collected_at_utc": "2026-10-15T08:23:42.332105+00:00",
  "degraded": false,
  "sources_ok": 40,
  "sources_total": 41,
@@ -11,14 +11,14 @@
   "taiwan": 311,
   "korea": 731
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 87.4,
  "sources": [
   {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
+   "source_id": "nikkei_asia",
+   "name": "Nikkei Asia",
    "ok": false,
    "count": 0,
-   "error": "sem resultados",
+   "error": "The read operation timed out",
    "newest": ""
   },
   {
@@ -107,7 +107,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T07:52:30+00:00"
+   "newest": "2026-10-15T07:52:46+00:00"
   },
   {
    "source_id": "ked_global",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T07:58:41+00:00"
+   "newest": "2026-10-15T08:13:54+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -160,10 +160,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 05/09/2026",
-   "newest": "2026-09-05T12:06:24+00:00"
+   "error": "",
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -196,14 +196,6 @@
    "count": 60,
    "error": "",
    "newest": "2026-10-15T17:10:24+09:00"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "name": "Nikkei Asia",
-   "ok": true,
-   "count": 50,
-   "error": "",
-   "newest": ""
   },
   {
    "source_id": "gn_cn_pboc",
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T08:11:38+00:00"
+   "newest": "2026-10-15T08:21:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -284,6 +276,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-15T02:52:06+00:00"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-10T08:48:00+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T05:03:08+00:00"
+   "newest": "2026-10-15T08:18:34+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2768,6 +2768,23 @@
    "id": "1f8c5e6717416b15"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
+   "published_utc": "2026-10-14T14:36:43+00:00",
+   "title_original": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "733165bf16408942"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "虎嗅网",
    "title_en": "On October 15, 2026, the central bank increased the amount of 6-month buyout reverse repurchase with an additional amount of 700 billion yuan, with an additional amount of 200 billion yuan.",
@@ -3336,23 +3353,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7ae710024db581b0"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
-   "published_utc": "2026-10-14T10:44:14+00:00",
-   "title_original": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "733165bf16408942"
   },
   {
    "source_id": "gn_cn_caixin",
