@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T19:52:43.645278+00:00
+Última coleta: 2026-10-15T20:02:44.416129+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1120
@@ -20,7 +20,7 @@ Total: 3000 manchetes
   - [taiwan] 2330 Stock 12‑Month Price Target Raised to TWD 3359.94, Implies 35% Upside
   - [china] China central bank chief urges broader view on global imbalances
   - [taiwan] TSMC's net profit hits record in third quarter
-  - [china] China bought half of Brazil's oil exports as Iran war shut Hormuz, driving sales to record
+  - [china] China bought half of Brazil’s oil exports as Iran war shut Hormuz, driving sales to record
   - [japan] Finance Minister Katayama agrees to extend Japan-Korea currency swap
   - [korea] SK Hynix stock: Up big in H1, down 58% from peak in H2 - is the AI boom losing steam?
   - [taiwan] TSMC earnings analysis: questions answered and next catalysts
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T19:52:43+00:00",
+      "published_utc": "2026-10-15T20:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
