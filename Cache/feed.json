@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-15T08:43:43.306168+00:00",
- "collected_at_utc": "2026-10-15T08:43:43.306168+00:00",
+ "generated_at_utc": "2026-10-15T08:53:42.406253+00:00",
+ "collected_at_utc": "2026-10-15T08:53:42.406253+00:00",
  "degraded": false,
  "sources_ok": 40,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 316,
   "korea": 728
  },
- "elapsed_s": 89.6,
+ "elapsed_s": 87.8,
  "sources": [
   {
    "source_id": "nikkei_asia",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T16:23:57+00:00"
+   "newest": "2026-10-15T17:45:19+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -160,10 +160,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T06:54:00+00:00"
+   "newest": "2026-10-15T07:47:25+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T08:42:20+00:00"
+   "newest": "2026-10-15T08:50:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T05:03:08+00:00"
+   "newest": "2026-10-15T08:26:53+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com",
+   "url": "https://www.tradingview.com/news/DJN_DN20261014006477:0-tsmc-stock-falls-after-blowout-earnings-musk-talks-could-offset-ai-chip-fears-barrons-com/",
+   "published_utc": "2026-10-15T08:47:00+00:00",
+   "title_original": "TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "84439b4637c4876d"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "MarketWatch",
@@ -1218,23 +1235,6 @@
    "live_wire": true,
    "manual": false,
    "id": "baa9f158776e6497"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Taiwan Semiconductor Manufacturing Co. 3Q Rev TWD1.494T Vs. TWD989.92B >2330.TW",
-   "url": "https://www.tradingview.com/news/DJN_DN20261015000770_20261015000774:0-taiwan-semiconductor-manufacturing-co-3q-rev-twd1-494t-vs-twd989-92b-2330-tw/",
-   "published_utc": "2026-10-15T05:31:00+00:00",
-   "title_original": "Taiwan Semiconductor Manufacturing Co. 3Q Rev TWD1.494T Vs. TWD989.92B >2330.TW",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a2a47d35f19dd2e2"
   },
   {
    "source_id": "investing_live",
@@ -2578,24 +2578,6 @@
    "id": "15190cc9686915d5"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vdEM2ZG5jUnVKQUw0bV95RVEtejZKaDJ6emhCeU1yQWtveXJlV29ONEdpSGpSQWNCbXAyenF2TVpEblZRUEVYQmhmbnRJa0F0NmNxMXJfajlPSzZqaFJDT25vUQ?oc=5",
-   "published_utc": "2026-10-14T18:05:45+00:00",
-   "title_original": "央行：10月15日将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "74aea4bbf244e2a0"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Sept. Exports Surge 36.3% Amid AI Boom, Auto Export Rush",
@@ -3336,6 +3318,24 @@
    "live_wire": true,
    "manual": false,
    "id": "a7c3220a311ef267"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hQkoteHY1TmJDZkdVSy1qSFRzZ2tKZ0xETFVnNG9TaHVCb1hNUi1aV0FaenJCQmd4UkJ3SDZnM1BuRF9RWkt3ejFUS3BBT19MZDdJSUZoLXc?oc=5",
+   "published_utc": "2026-10-14T11:34:03+00:00",
+   "title_original": "央行：10月15日将开展7000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "01e196bac469036d"
   },
   {
    "source_id": "tradingview_live",
@@ -10148,7 +10148,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "S. Korea likely to continue solid growth driven by robust chip exports",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHTF9tV05XUkx5WFZrVTI2Tlo5aFItTDRwZC1aR3YwYnl3REVtdmtraUctMzVYcnNkUF9GMXpqbUhqNkFVOVlWYlAyWnBQZjJSSWhucVRxa1NMMmNJMU1RY0dnWEs?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hM3JsX0hHcU9CUGJ6eDdqbGJnQVpIMXg2NlB5Q3BXLWNIZHhVREJLZFNkbFJENWFlVnhfUnhBMmtPZUZaZ3pzSWpXaVN1clEweW9zMng4aFFwdw?oc=5",
    "published_utc": "2026-10-12T01:37:24+00:00",
    "title_original": "S. Korea likely to continue solid growth driven by robust chip exports",
    "region": "korea",
@@ -10160,7 +10160,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "8abff2b872906bf2"
+   "id": "eb490152b0bc542e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -11235,8 +11235,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -11249,7 +11249,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",

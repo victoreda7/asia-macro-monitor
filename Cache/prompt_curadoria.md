@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T08:43:43.306168+00:00
+Última coleta: 2026-10-15T08:53:42.406253+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1115
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com
   - [taiwan] TSMC CEO sees no sign of a slowdown as chip foundry reports record profit
   - [taiwan] TSMC open to Terafab collaboration but insists on controlling its own plants
   - [taiwan] TSMC is "prudent" for 2027 after recording sixth consecutive quarter of record profits
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] AI Demand Extends TSMC's Record Earnings Streak
   - [taiwan] TSMC profit beats estimates with 69% rise, but stock faces big test
   - [japan] Today's Oha Biz October 15th (Thursday) U.S. Consumer Price Index continues to grow rapidly
-  - [japan] Japan August industrial production revised down to -2.4% M/M; core machine orders rise 5.2%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T08:43:43+00:00",
+      "published_utc": "2026-10-15T08:53:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
