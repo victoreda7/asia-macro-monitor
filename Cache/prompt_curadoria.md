@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T08:23:42.332105+00:00
+Última coleta: 2026-10-15T08:33:41.256999+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1118
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China stocks close at 14-month low as US inflation stokes Fed fears
+  - [taiwan] TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030
   - [taiwan] TSMC beats forecasts as quarterly sales, profits soar
   - [korea] South Korea, Japan agree to extend $10 billion currency swap
   - [japan] Japan Industrial Output Falls More Than Estimated
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Q3 profit jumps 69% to record, beating expectations
   - [japan] U.S. semiconductor company plans to build new factory for up to 3 trillion yen based on Japan-U.S. agreement
   - [taiwan] Lucro da TSMC no terceiro trimestre salta 69%, atingindo um recorde e superando as expectativas
-  - [taiwan] TSMC 3Q Revenue From Internet of Things Rose 5% on Quarter >2330.TW
-  - [korea] Samsung's top brass converge in Tokyo as Japan chip ties deepen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T08:23:42+00:00",
+      "published_utc": "2026-10-15T08:33:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
