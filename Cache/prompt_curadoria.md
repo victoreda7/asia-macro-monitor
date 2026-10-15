@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T02:42:45.096613+00:00
+Última coleta: 2026-10-15T02:52:43.639091+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1124
+  🇯🇵 Japão          1123
   🇨🇳 China          846
-  🇹🇼 Taiwan         292
+  🇹🇼 Taiwan         293
   🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Bytedance In Talks To Secure Mediatek AI Chips For Data Centers - Bloomberg News
+  - [japan] G20 Finance Ministers and Central Bank Governors Meeting begins, discussing responses to the global economy an
+  - [japan] ``There is a fair amount'' of price rise risk, and there is no need to be overly cautious about raising intere
   - [china] IMF urges China to deploy bigger fiscal stimulus
   - [japan] BOJ Board Member Indicates Further Room for Rate Hikes
   - [korea] Why a memory chip glut could be Korea's weapon against China
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] (LEAD) Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation
   - [korea] If I get a housing pension of 2 million won per month, I think I'll be able to travel leisurely and..
   - [japan] How can eel pie companies eliminate departmental deficits?
-  - [taiwan] Fujifilm to expand Arizona semiconductor materials output
-  - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation. In September, imports and
-  - [korea] Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T02:42:45+00:00",
+      "published_utc": "2026-10-15T02:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
