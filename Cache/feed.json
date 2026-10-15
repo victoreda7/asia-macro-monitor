@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-15T01:22:43.285061+00:00",
- "collected_at_utc": "2026-10-15T01:22:43.285061+00:00",
+ "generated_at_utc": "2026-10-15T01:32:43.003663+00:00",
+ "collected_at_utc": "2026-10-15T01:32:43.003663+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1122,
-  "china": 851,
+  "japan": 1123,
+  "china": 850,
   "taiwan": 294,
   "korea": 733
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 53,
+   "count": 54,
    "error": "",
-   "newest": "2026-10-15T10:00:00+09:00"
+   "newest": "2026-10-15T10:30:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T01:01:59+00:00"
+   "newest": "2026-10-15T01:25:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T01:00:30+00:00"
+   "newest": "2026-10-15T01:24:26+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "parada desde 15/09/2026",
+   "newest": "2026-09-15T03:21:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T19:54:39+00:00"
+   "newest": "2026-10-14T06:31:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T01:07:44+00:00"
+   "newest": "2026-10-15T01:31:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T17:46:02+00:00"
+   "newest": "2026-10-14T23:50:36+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
+   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261015a.htm",
+   "published_utc": "2026-10-15T01:30:00+00:00",
+   "title_original": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4396acd5a6e1b40f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan futures fall as Tokyo equities slump, China imports weaken",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46102U:0-japan-futures-fall-as-tokyo-equities-slump-china-imports-weaken/",
+   "published_utc": "2026-10-15T01:12:16+00:00",
+   "title_original": "Japan futures fall as Tokyo equities slump, China imports weaken",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1de5dfab69277a1c"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -9348,8 +9383,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -9362,7 +9397,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -10311,8 +10346,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -10326,7 +10361,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -10517,8 +10552,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -10532,7 +10567,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51889,41 +51924,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f543dc437ce16d93"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG EXPORTS TO CHINA +20.6% Y/Y, 6TH STRAIGHT RISE (JULY +25.8%) LED BY COMPUTER CHIPS, CHIP-MAKING EQUIPMENT, NON-FERROUS METALS, AS IN JULY",
-   "url": "https://www.tradingview.com/news/macenews:65c7ef190094b:0-japan-aug-exports-to-china-20-6-y-y-6th-straight-rise-july-25-8-led-by-computer-chips-chip-making-equipment-non-ferrous-metals-as-in-july/",
-   "published_utc": "2026-09-16T00:18:00+00:00",
-   "title_original": "JAPAN AUG EXPORTS TO CHINA +20.6% Y/Y, 6TH STRAIGHT RISE (JULY +25.8%) LED BY COMPUTER CHIPS, CHIP-MAKING EQUIPMENT, NON-FERROUS METALS, AS IN JULY",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e0836c5d4e7d1605"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "S.F. Holding to Raise Nearly $1.50 Billion Through Yuan Bonds",
-   "url": "https://www.tradingview.com/news/DJN_DN20260915008087:0-s-f-holding-to-raise-nearly-1-50-billion-through-yuan-bonds/",
-   "published_utc": "2026-09-16T00:18:00+00:00",
-   "title_original": "S.F. Holding to Raise Nearly $1.50 Billion Through Yuan Bonds",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "57b3a0dbb178cc50"
   },
   {
    "source_id": "manual_ia",
