@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T04:12:42.885657+00:00
+Última coleta: 2026-10-15T04:22:43.855669+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1123
-  🇨🇳 China          847
+  🇯🇵 Japão          1122
+  🇨🇳 China          848
   🇹🇼 Taiwan         291
   🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 592032.26, Implies 89% Upside
+  - [china] China's Export Surge Creates Winners as Well as Losers in Asia — Market Talk
+  - [korea] Won-Yen Divergence May Likely Be Due to Chip Demand Boom — Market Talk
   - [china] EU leaders to tackle China exports, energy prices, budget at summit
   - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com
   - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan
@@ -47,16 +50,13 @@ Total: 3000 manchetes
   - [japan] BOJ policymaker warns against being overly cautious on rate hikes
   - [korea] Why is Samsung Electronics stock plunging today?
   - [china] On October 15, the central bank launched a 45 billion yuan 7-day reverse repurchase operation.
+  - [japan] Asian markets sell off as AI trades crumble after hot US CPI data By Reuters
   - [japan] Bank of Japan council member emphasizes continuing interest rate hikes: ``There is no need to be cautious'' (K
   - [taiwan] TSMC Set to Post Sixth Consecutive Quarter of Record Profit, Thanks to AI Boom
   - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
   - [china] China stocks fall, led by tech, as US inflation stokes Fed fears
   - [china] "Three polarizations" are occurring in the Chinese economy, where domestic demand has fallen sharply...The rea
   - [japan] Stock prices temporarily fell by more than 3,000 yen against the backdrop of expectations for a US interest ra
-  - [korea] The cancellation of land supply contracts by the Korea Land and Housing Corporation (LH) increased a..
-  - [japan] Bank of Japan member says there is "no need to be cautious" in raising interest rates (Kyodo News)
-  - [japan] BOJ should not be overly cautious raising rates, board member Koeda says
-  - [china] CHINA PBOC CONDUCTS CNY45 BLN VIA 7-DAY REVERSE REPO THURS
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T04:12:43+00:00",
+      "published_utc": "2026-10-15T04:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
