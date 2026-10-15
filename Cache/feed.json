@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-15T16:52:43.207222+00:00",
- "collected_at_utc": "2026-10-15T16:52:43.207222+00:00",
+ "generated_at_utc": "2026-10-15T17:02:44.653776+00:00",
+ "collected_at_utc": "2026-10-15T17:02:44.653776+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 325,
   "korea": 712
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T16:34:07+00:00"
+   "newest": "2026-10-15T16:54:54+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T16:30:27+00:00"
+   "newest": "2026-10-15T16:54:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T16:42:18+00:00"
+   "newest": "2026-10-15T17:01:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -429,8 +429,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -444,7 +444,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -978,8 +978,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -994,7 +994,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_kr_ked",
@@ -48965,6 +48965,24 @@
    "id": "34dd03f0ab544001"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Japan CPI steady in August, core inflation eases ahead of BOJ rate hike",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOW5EWmhSNi10ZWlCZ21WSVVDeDJjOFd2U0E2eXptcHg4MUxjRWFRWlJtUE1OSmhLVER5M0sxTWlacXp5dTFvVW9xb2g4V0ViTHhlbkt4RXFSX213NldSMmc1RWdlRld5SzIwMzJNd1RaNnE5NzdoT0NzbWRxOGpQcGZsb3RncEtPMGRCTDdpRDZyNnp6X2pLc1ppbGkxMmxtdUNoZmwyLW8wMlktTElsTzJPR2JLNC1vYUtVWm01ZEVEald2SklV?oc=5",
+   "published_utc": "2026-09-18T07:00:00+00:00",
+   "title_original": "Japan CPI steady in August, core inflation eases ahead of BOJ rate hike",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "256d3e0fd5274bf6"
+  },
+  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ sees risk of inflation overshooting its 2% target",
@@ -50233,24 +50251,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ca359e354d8f81a8"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Japan CPI steady in August, core inflation eases ahead of BOJ rate hike",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOW5EWmhSNi10ZWlCZ21WSVVDeDJjOFd2U0E2eXptcHg4MUxjRWFRWlJtUE1OSmhLVER5M0sxTWlacXp5dTFvVW9xb2g4V0ViTHhlbkt4RXFSX213NldSMmc1RWdlRld5SzIwMzJNd1RaNnE5NzdoT0NzbWRxOGpQcGZsb3RncEtPMGRCTDdpRDZyNnp6X2pLc1ppbGkxMmxtdUNoZmwyLW8wMlktTElsTzJPR2JLNC1vYUtVWm01ZEVEald2SklV?oc=5",
-   "published_utc": "2026-09-17T23:48:00+00:00",
-   "title_original": "Japan CPI steady in August, core inflation eases ahead of BOJ rate hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "256d3e0fd5274bf6"
   },
   {
    "source_id": "tradingview_live",
