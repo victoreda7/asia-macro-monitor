@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T05:42:41.782636+00:00
+Última coleta: 2026-10-15T05:52:42.882850+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1121
-  🇨🇳 China          844
-  🇹🇼 Taiwan         295
-  🇰🇷 Coreia do Sul  740
+  🇯🇵 Japão          1122
+  🇨🇳 China          843
+  🇹🇼 Taiwan         298
+  🇰🇷 Coreia do Sul  737
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] AI Demand Extends TSMC's Record Earnings Streak
+  - [japan] IMF: Japan to fall to 6th in 2027 global GDP rankings
+  - [taiwan] TSMC Q3 profit surges more than expected to record high on AI-fueled demand
   - [korea] Asia markets in red: South Korea and Japan lead deep tech selloff; Japan industrial output revised down
+  - [taiwan] TSMC Q3 profit jumps 69% to record, beating expectations
   - [japan] U.S. semiconductor company plans to build new factory for up to 3 trillion yen based on Japan-U.S. agreement
   - [taiwan] Lucro da TSMC no terceiro trimestre salta 69%, atingindo um recorde e superando as expectativas
   - [taiwan] TSMC 3Q Revenue From Internet of Things Rose 5% on Quarter >2330.TW
@@ -26,8 +30,8 @@ Total: 3000 manchetes
   - [taiwan] TSMC 3Q Gross Margin 66.4%, Up 6.9 Pct Pt on Year >2330.TW
   - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Net Profit Beat TWD731.77B Expected in a FactSet Poll >2330.TW
   - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Rev TWD1.494T Vs. TWD989.92B >2330.TW
-  - [taiwan] TSMC Q3 profit jumps 69% to record, beating expectations
   - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Net TWD763.1B >2330.TW
+  - [china] EU leaders to tackle China exports, energy prices, budget at summit
   - [china] This Chinese export boom really has legs – and wings
   - [japan] Bank of Japan member Koeda: ``We won't be overly cautious about raising interest rates.''
   - [japan] Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York By Reuters
@@ -46,7 +50,6 @@ Total: 3000 manchetes
   - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 592032.26, Implies 89% Upside
   - [china] China's Export Surge Creates Winners as Well as Losers in Asia — Market Talk
-  - [china] EU leaders to tackle China exports, energy prices, budget at summit
   - [korea] Won-Yen Divergence May Likely Be Due to Chip Demand Boom — Market Talk
   - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan
   - [taiwan] Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea maintains austerity stance… Attention to further increase in base interest rate on the 22nd amid
   - [korea] SKHY Tracks Worst Month Since Nasdaq Debut: SK Hynix Reportedly Wants To Ship More Chip Tools To China Before 
   - [korea] SK Hynix seeks U.S. chip equipment exports to China tied to new factory - Reuters
-  - [japan] Japan's Nikkei plunges as tech stocks hammered by AI, rate hike worries
-  - [japan] Don't be overly cautious about interest rate hikes: ``The risk of price rises is commensurate with the risks.'
-  - [china] Offshore Yuan Lingers Near 2022 High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T05:42:41+00:00",
+      "published_utc": "2026-10-15T05:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
