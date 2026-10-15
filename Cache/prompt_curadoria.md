@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T09:02:45.011172+00:00
+Última coleta: 2026-10-15T09:12:44.941191+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1116
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Weighs Texas Expansion, Holds Talks on Musk's Terafab as AI Demand Outpaces Supply — Update
+  - [taiwan] After Elon Musk’s Invitation, TSMC CEO Reportedly Says Open To Working On Terafab But Must Run It
   - [taiwan] TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com
   - [taiwan] TSMC CEO sees no sign of a slowdown as chip foundry reports record profit
   - [taiwan] TSMC open to Terafab collaboration but insists on controlling its own plants
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment
   - [taiwan] TSMC Reiterates 2026 Capex Between US$60B-US$64B
   - [taiwan] TSMC Expects 4Q Revenue Between US$52.3B-US$54.3B
-  - [taiwan] TSMC Expects 4Q Gross Margin Between 65%-67%
-  - [taiwan] AI Demand Extends TSMC's Record Earnings Streak
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T09:02:45+00:00",
+      "published_utc": "2026-10-15T09:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
