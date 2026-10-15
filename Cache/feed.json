@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-15T11:52:43.350681+00:00",
- "collected_at_utc": "2026-10-15T11:52:43.350681+00:00",
+ "generated_at_utc": "2026-10-15T12:03:40.546409+00:00",
+ "collected_at_utc": "2026-10-15T12:03:40.546409+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 319,
   "korea": 719
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 87.7,
  "sources": [
+  {
+   "source_id": "nikkei_asia",
+   "name": "Nikkei Asia",
+   "ok": false,
+   "count": 0,
+   "error": "The read operation timed out",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T11:33:16+00:00"
+   "newest": "2026-10-15T11:53:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T11:32:38+00:00"
+   "newest": "2026-10-15T11:49:11+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -190,20 +198,12 @@
    "newest": "2026-10-15T19:56:00+09:00"
   },
   {
-   "source_id": "nikkei_asia",
-   "name": "Nikkei Asia",
-   "ok": true,
-   "count": 50,
-   "error": "",
-   "newest": ""
-  },
-  {
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:05:48+00:00"
+   "newest": "2026-10-15T03:15:34+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T11:42:00+00:00"
+   "newest": "2026-10-15T12:01:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T05:50:49+00:00"
+   "newest": "2026-10-15T08:51:20+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T08:42:49+00:00"
+   "newest": "2026-10-14T05:03:08+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Needham maintains Buy rating on Taiwan Semiconductor, $560 price target",
+   "url": "https://www.tradingview.com/news/tradingview:5bf73fa45e5b6:0-needham-maintains-buy-rating-on-taiwan-semiconductor-560-price-target/",
+   "published_utc": "2026-10-15T11:49:19+00:00",
+   "title_original": "Needham maintains Buy rating on Taiwan Semiconductor, $560 price target",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cbafaad9f9f08cad"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Asian News International",
@@ -396,8 +413,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -412,7 +429,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_kr_ked",
@@ -1540,23 +1557,6 @@
    "live_wire": false,
    "manual": false,
    "id": "26934ca56083e2e1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "TSMC Reiterates 2026 Capex Between US$60B-US$64B",
-   "url": "https://www.tradingview.com/news/DJN_DN20261015001009_20261015001035:0-tsmc-reiterates-2026-capex-between-us-60b-us-64b/",
-   "published_utc": "2026-10-15T06:10:00+00:00",
-   "title_original": "TSMC Reiterates 2026 Capex Between US$60B-US$64B",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d078746b7cdc43ac"
   },
   {
    "source_id": "nhk_economy",
@@ -11797,8 +11797,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -11811,7 +11811,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",

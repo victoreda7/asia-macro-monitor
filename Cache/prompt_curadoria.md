@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T11:52:43.350681+00:00
+Última coleta: 2026-10-15T12:03:40.546409+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1120
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Needham maintains Buy rating on Taiwan Semiconductor, $560 price target
   - [china] China's yuan may appreciate further, but weak domestic demand and US yields pose risks: Report
   - [japan] Japan economy minister stresses BOJ independence, rejects reflationist label
   - [korea] Why a memory chip glut could be Korea's weapon against China
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Councilor Koeda says 2% underlying inflation rate is "taking hold": Rate hikes should be done in
   - [taiwan] TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030
   - [taiwan] TSMC beats forecasts as quarterly sales, profits soar
-  - [korea] South Korea, Japan agree to extend $10 billion currency swap
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T11:52:43+00:00",
+      "published_utc": "2026-10-15T12:03:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
