@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T14:02:46.076835+00:00
+Última coleta: 2026-10-15T14:12:44.030782+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1122
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [korea] Kospi crashes 8% as Samsung, SK hynix sink over 10%
   - [taiwan] TSMC's Q3 results, outlook pave path for 'banner year' in 2027: analysts
   - [japan] Japan tells G20 authorities must watch FX moves with high sense of urgency, finance minister says
+  - [china] The central bank launched a 700 billion yuan buyout reverse repo to increase liquidity support in the fourth q
   - [taiwan] Taiwan Semiconductor Manufacturing Company Limited reports results for the quarter ended September 30 - Earnin
   - [china] China’s central bank chief urges ’comprehensive’ view on global imbalances
   - [taiwan] TSMC evaluating Texas production, cooperation with Terafab
@@ -47,7 +48,6 @@ Total: 3000 manchetes
   - [japan] [Volatility of AI/semiconductor stocks will further increase] Japanese stocks are in turmoil after the US midt
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining fShares
   - [taiwan] TSMC revenue rises 41% as AI chip demand drives growth
-  - [japan] Policymaker: BOJ shouldn't be too cautious raising rates
   - [taiwan] Can TSMC earnings help settle AI jitters?
   - [japan] Yen price rises due to comments from Bank of Japan committee members
   - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T14:02:46+00:00",
+      "published_utc": "2026-10-15T14:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
