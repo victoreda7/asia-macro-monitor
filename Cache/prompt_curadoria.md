@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T16:32:43.923257+00:00
+Última coleta: 2026-10-15T16:42:49.243292+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1121
+  🇯🇵 Japão          1120
   🇨🇳 China          843
-  🇹🇼 Taiwan         324
+  🇹🇼 Taiwan         325
   🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC earnings analysis: questions answered and next catalysts
   - [korea] Kospi slides over 7% as chip stocks sink
   - [japan] Japan's Kioxia sheds two-thirds of peak market value as China chip rivals emerge
   - [taiwan] Taiwan Semiconductor Manufacturing Ltd. Stock 12‑Month Price Target Raised to $552.42, Implies 28% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction
   - [korea] South Korea, Japan extend $10 billion currency swap for three years
   - [japan] Tech sell-off gathers pace as chipmakers hammered By Reuters
-  - [taiwan] TSMC eyes Texas and Musk Terafab project for US expansion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T16:32:44+00:00",
+      "published_utc": "2026-10-15T16:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
