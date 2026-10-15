@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T19:22:43.116664+00:00
+Última coleta: 2026-10-15T19:32:44.092100+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1121
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] 2330 Stock 12‑Month Price Target Raised to TWD 3359.94, Implies 35% Upside
   - [taiwan] TSMC's net profit hits record in third quarter
   - [china] China bought half of Brazil's oil exports as Iran war shut Hormuz, driving sales to record
   - [japan] Finance Minister Katayama agrees to extend Japan-Korea currency swap
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s central bank chief urges ’comprehensive’ view on global imbalances
   - [taiwan] TSMC evaluating Texas production, cooperation with Terafab
   - [taiwan] Needham maintains Buy rating on Taiwan Semiconductor, $560 price target
-  - [japan] Nikkei marks 3rd largest single-day point drop on AI, chip concerns
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T19:22:43+00:00",
+      "published_utc": "2026-10-15T19:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
