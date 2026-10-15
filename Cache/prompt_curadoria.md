@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T01:02:44.968979+00:00
+Última coleta: 2026-10-15T01:12:44.734119+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1122
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [japan] Summary of the "Meeting on Market Operations" (October 2026)
   - [taiwan] Key facts: TSMC (2330) Q3 revenue NT$1.49T record; 2026 capex $60–64B
+  - [japan] Japan’s Nikkei Slumps on Hot US Inflation
   - [korea] Seoul stocks open sharply lower on lingering concerns over AI, US inflation
   - [korea] Kospi plunges nearly 6% as foreigners dump chip stocks
   - [japan] Japan's Nikkei tumbles as tech stocks hammered on US rate hike worries
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Commentary: Why Gradual Yuan Appreciation Remains the Baseline
   - [japan] US consumer prices rise 3.7% in September; expectations for early interest rate hike rise somewhat
   - [japan] US Consumer Price Index rises 3.7%; growth rate expands for the first time in 4 months; yen weakens due to exp
-  - [taiwan] US cuts Obamacare subsidies for 189,000 with duplicate coverage
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T01:02:45+00:00",
+      "published_utc": "2026-10-15T01:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
