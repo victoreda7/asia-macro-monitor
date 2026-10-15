@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T13:42:43.535166+00:00",
- "collected_at_utc": "2026-10-15T13:42:43.535166+00:00",
+ "generated_at_utc": "2026-10-15T13:52:45.802064+00:00",
+ "collected_at_utc": "2026-10-15T13:52:45.802064+00:00",
  "degraded": false,
  "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1122,
-  "china": 842,
+  "china": 843,
   "taiwan": 318,
-  "korea": 718
+  "korea": 717
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "nikkei_asia",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T07:12:45+00:00"
+   "newest": "2026-10-15T11:30:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -160,10 +160,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "parada desde 05/09/2026",
+   "newest": "2026-09-05T12:06:24+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T06:48:21+00:00"
+   "newest": "2026-10-15T08:02:36+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T13:42:06+00:00"
+   "newest": "2026-10-15T13:51:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T11:53:05+00:00"
+   "newest": "2026-10-15T08:51:20+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -566,8 +566,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -582,7 +582,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -1225,6 +1225,23 @@
    "live_wire": true,
    "manual": false,
    "id": "75c6e4c29aa6757f"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Notable demographer calls for 18-fold increase to China’s childcare subsidies",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHdPSDl3YzNNWkNrdjd1ZXBaaktIa2pvaDNWcko4MWxLVjRXOHpPVmU3bE41dHBZa1hvcGVFM0pzRW9RUXdHU3dITXNPRjJrWDRWcmlndHZ2WHpiSkQ0T3JmTTdtTlNWQks1eEh0TVpUREdNajBRU2E4T2VXVlBpRUVPN1FIZ19RM2R2VE5oSi1GTndCOWxxYnhmbzg1WUNtQmpkNWxOd0FHN2N0THVPelNRTVMyZC1ndHFYNDlnX1BjdXN4NVc5bDVST2FmMGJDd29N0gHTAUFVX3lxTE8tS21EYlN2N2NWM0lZQ3RNVWd4djRjZG9jMUlzM2dkRWJyV3o3eGtlVjhuZ3RERW5yQXZkYW9IMDJvdWpoc25ueGg4NGlRQ2NKUmdlVGh2Y3VtMFRVRzZ2cEczdTBzMkVOREhVWURvbDZlNWNnMXJVRlFzQkV3SVhvTGNOdU5mLTk4X2tPdEpLaUdIb1ppcnVFZkwxY0NnODVxOWt1dU5GcDV1a0ZIT1JrQ3JTTlpjTmgzMVpRdUo2bHZOLU1lM0RKU1hvaTFBTnk5Sjg?oc=5",
+   "published_utc": "2026-10-15T08:02:36+00:00",
+   "title_original": "Notable demographer calls for 18-fold increase to China’s childcare subsidies",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6911f7ac653179f6"
   },
   {
    "source_id": "tradingview_live",
@@ -6355,7 +6372,7 @@
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Long before his Nobel win, Michael Woodford was influencing China’s central bank",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHRyYUJydW45SUg1eDBYeWJBSDlYRkxqaktuelBoVjdpdHM5N09IemFrbVZRdFVQLWVEckllT0lnWVk3SkItRlZ6X1VsSDFCXzNDSi1YbTBzemZFTGcxQ1J0aDY4OW45X19xcnFudUFUWHNfR19NV1RfckZHaWIzQW5RZUNGZnJaV3paS2t5Q3A0azRHaVZWc2lRR3ZDeG1lS09TTnFEV19OT1ZJS0x0aVg2dVZraC1FVEtOV3VZc3NrOF8zaFpUT1BLd9IBywFBVV95cUxQSVFuWklPUjlPV2lRVWZON0NfSGJaZm5rSjB4V2d6ZlJFTU5lYkEtU01oYzAtYzZzWF8yTno1UEFreFhfa0VuWWt4ZWtEcFNiSFB5ZTFiSjIxVl9ZaWlHbTVaR1Byek8zUTR3d2ViZzdDMmlaSHJZQW9XdVBBTkt3RkYtZHNKVlh5SXRIaDBFNDhIU05nMEZJZDJKbHRITmZ6QkNLcHlkRWVoT2RZbWtoQS1DZFlKOVcxUVRSU2h2dEg4YV9Bci1HT3h5cw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHRyYUJydW45SUg1eDBYeWJBSDlYRkxqaktuelBoVjdpdHM5N09IemFrbVZRdFVQLWVEckllT0lnWVk3SkItRlZ6X1VsSDFCXzNDSi1YbTBzemZFTGcxQ1J0aDY4OW45X19xcnFudUFUWHNfR19NV1RfckZHaWIzQW5RZUNGZnJaV3paS2t5Q3A0azRHaVZWc2lRR3ZDeG1lS09TTnFEV19OT1ZJS0x0aVg2dVZraC1FVEtOV3VZc3NrOF8zaFpUT1BLdw?oc=5",
    "published_utc": "2026-10-13T12:00:08+00:00",
    "title_original": "Long before his Nobel win, Michael Woodford was influencing China’s central bank",
    "region": "china",
@@ -6366,7 +6383,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "1880bd4f35b6ce23"
+   "id": "e2b852554682b6c7"
   },
   {
    "source_id": "tradingview_live",
@@ -11917,8 +11934,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -11931,7 +11948,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -51912,23 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b6f7565d387e2569"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "주간한국",
-   "title_en": "U.S. interest rate hike for the first time in 3 years and 2 months... Interest rate difference between Korea and the US is 1%p, the Bank of Korea is weighing additional hikes",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OeGl2b2NYVUFScG42Qm1zNTNoNVhQeTY5Ym9HV2Fkdk9qMlYzQ2hQRHUzWTlwMzJTOWh4U3lVLTlydjhQS2RPLTkyMzVNR1J0XzRCRXo3R0xGUm9mbGlCQjBDaFVLSXJ1UU9FNjRfeVFKM0ls0gF0QVVfeXFMT054aXZvY1hVQVJwbjZCbXM1M2g1WFB5Njlib0dXYWR2T2oyVjNDaFBEdTNZOXAzMlM5aHhTeVUtOXJ2OFBLZE8tOTIzNU1HUnRfNEJFejdHTEZSb2ZsaUJCMENoVUtJcnVRT0U2NF95UUozSWw?oc=5",
-   "published_utc": "2026-09-17T04:47:28+00:00",
-   "title_original": "美 3년2개월 만에 금리 인상…한미 금리차 1%p, 한은 추가 인상 ‘저울질’",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "00c4e9db03233f03"
   },
   {
    "source_id": "manual_ia",
