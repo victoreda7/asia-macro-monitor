@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T23:32:45.551280+00:00",
- "collected_at_utc": "2026-10-15T23:32:45.551280+00:00",
+ "generated_at_utc": "2026-10-15T23:42:45.528034+00:00",
+ "collected_at_utc": "2026-10-15T23:42:45.528034+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1118,
+  "japan": 1119,
   "china": 846,
-  "taiwan": 322,
-  "korea": 714
+  "taiwan": 320,
+  "korea": 715
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T18:47:00+00:00"
+   "newest": "2026-10-15T20:12:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T22:54:28+00:00"
+   "newest": "2026-10-15T23:30:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T23:31:10+00:00"
+   "newest": "2026-10-15T23:37:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-16T08:15:00+09:00"
+   "newest": "2026-10-16T08:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T22:58:38+00:00"
+   "newest": "2026-10-14T05:03:08+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan to sidestep 3.5% defence spending target despite US pressure, Asahi reports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46117W:0-japan-to-sidestep-3-5-defence-spending-target-despite-us-pressure-asahi-reports/",
+   "published_utc": "2026-10-15T23:36:54+00:00",
+   "title_original": "Japan to sidestep 3.5% defence spending target despite US pressure, Asahi reports",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6c34660721698cd3"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -359,6 +376,23 @@
    "live_wire": true,
    "manual": false,
    "id": "1b89badf80949625"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea Jobless Rate Falls to 2-Year Low",
+   "url": "https://www.tradingview.com/news/te_news:592533:0-south-korea-jobless-rate-falls-to-2-year-low/",
+   "published_utc": "2026-10-15T23:17:38+00:00",
+   "title_original": "South Korea Jobless Rate Falls to 2-Year Low",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2694782d82988721"
   },
   {
    "source_id": "gn_kr_bok",
@@ -721,8 +755,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -736,7 +770,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -1305,8 +1339,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -1321,7 +1355,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -1532,40 +1566,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b907addcc1740643"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "London Stock Exchange",
-   "title_en": "REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining fShares",
-   "url": "https://www.tradingview.com/news/reuters.com,2026-10-15:newsml_RSO1316Za:0-reg-hon-hai-prec-ind-co-subsidiary-obtaining-fshares/",
-   "published_utc": "2026-10-15T09:59:51+00:00",
-   "title_original": "REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining fShares",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1373fb064209181e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "TSMC revenue rises 41% as AI chip demand drives growth",
-   "url": "https://www.tradingview.com/news/seekingalpha:d902d8140094b:0-tsmc-revenue-rises-41-as-ai-chip-demand-drives-growth/",
-   "published_utc": "2026-10-15T09:48:04+00:00",
-   "title_original": "TSMC revenue rises 41% as AI chip demand drives growth",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0615fa79a855dd45"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -2549,9 +2549,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Don't be overly cautious about interest rate hikes: ``The risk of price rises is commensurate with the risks.'' Bank of Japan Council Member Koeda (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RN0I4TThxQWlUTXBGVXZPQnA4bEJKUmE4dmRKcXc0WXVsdFdfZEJtSVdkYWwzanVhc3dyV2hyNUVrYUE2aFZzRlJVaTlhVzNmc19HZ0NFSkJQc0U2QllKY3dPMllfUEhlY2pCRm1sQnVDTmZJUHJEQ1lpNWYzek0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbi0tZUpnSzRqekZhV05TdU9qcDd2bkV5ckN6N2g2RktsN1V5WEhJRDR2R251aDVSQm1DbU9rNHlTWlc1R09hMklPU1VTTGFCbldQaFI1eXNRSHFhWkpGdUpteWhrRUJuVjVtbEpYUFRCWjBab1VWTW1pZm5IbHFfY1YtY0JZT0hNZE1BeW5B?oc=5",
    "published_utc": "2026-10-15T03:12:40+00:00",
-   "title_original": "利上げ、過度に慎重にならず 「物価上昇リスク相応にある」 小枝日銀審議委員（時事通信）",
+   "title_original": "利上げ、過度に慎重にならず 「物価上昇リスク相応にある」 小枝日銀審議委員 (時事通信)",
    "region": "japan",
    "topics": [
     "monetary",
@@ -2561,7 +2561,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a70b255c95195e13"
+   "id": "831e3948ef6ccbac"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2585,7 +2585,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 45 billion yuan seven-day reverse repurchase operation with an interest rate of 1.40%, the same as last time",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIZTNQLUx0alAyb0paZ1JpQmJxQVlLZnRueHB6VGhiM0VFLTA1MzltMnRjamRrQ0ZxZ2NvX09MNUltNUlfVXBsMFVBUjdyUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBydU9xV3NKMEUteXRjMkFGd2JDRUtxVi1WbDNuM1B1clotbHNjaUl6TnhsZEVnVTNSejQ3cEU0UTREZUZaZm9OUnBHczBoRkxlNjV1UjVpbHViNFM2eUtINi1B?oc=5",
    "published_utc": "2026-10-15T03:05:48+00:00",
    "title_original": "央行开展450亿元七天期逆回购操作 利率1.40%持平上次",
    "region": "china",
@@ -2597,7 +2597,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5cfa930262ea83a4"
+   "id": "fc9a5bdca9ce7c96"
   },
   {
    "source_id": "gn_tw_reuters",

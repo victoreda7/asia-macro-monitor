@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T23:32:45.551280+00:00
+Última coleta: 2026-10-15T23:42:45.528034+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1118
+  🇯🇵 Japão          1119
   🇨🇳 China          846
-  🇹🇼 Taiwan         322
-  🇰🇷 Coreia do Sul  714
+  🇹🇼 Taiwan         320
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan to sidestep 3.5% defence spending target despite US pressure, Asahi reports
   - [japan] Japan Medical Dynamic Marketing Inc - Notice Regarding Workforce Reduction And Other Rationalization Measures 
+  - [korea] South Korea Jobless Rate Falls to 2-Year Low
   - [korea] Soaring term deposit interest rates...a signal for a base interest rate increase?
   - [taiwan] Taiwan Semiconductor Is Maintained at Buy by Needham
   - [taiwan] Taiwan Semiconductor Manufacturing Ltd. Stock 12‑Month Price Target Raised to $552.84, Implies 29% Upside
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] France and Germany to allow UK in EU car policy if it aligns on China tariffs
   - [taiwan] US chip stocks set to wipe out $2 trillion after latest selloff
   - [taiwan] CoreWeave, TSMC, FMC, Rocket Lab, Schwab, and More Stocks That Explain Today's Market — Barrons.com
-  - [china] Blast simulation, university probes, robotics fine, AI spies: 7 US-China relations reads
-  - [japan] Japan’s Katayama Renews FX Warnings After US CPI Heats Up
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T23:32:45+00:00",
+      "published_utc": "2026-10-15T23:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
