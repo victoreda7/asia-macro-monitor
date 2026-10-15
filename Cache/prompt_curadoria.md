@@ -7,19 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T05:32:42.735635+00:00
+Última coleta: 2026-10-15T05:42:41.782636+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1123
-  🇨🇳 China          846
-  🇹🇼 Taiwan         292
-  🇰🇷 Coreia do Sul  739
+  🇯🇵 Japão          1121
+  🇨🇳 China          844
+  🇹🇼 Taiwan         295
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [korea] Asia markets in red: South Korea and Japan lead deep tech selloff; Japan industrial output revised down
+  - [japan] U.S. semiconductor company plans to build new factory for up to 3 trillion yen based on Japan-U.S. agreement
+  - [taiwan] Lucro da TSMC no terceiro trimestre salta 69%, atingindo um recorde e superando as expectativas
+  - [taiwan] TSMC 3Q Revenue From Internet of Things Rose 5% on Quarter >2330.TW
   - [korea] Samsung's top brass converge in Tokyo as Japan chip ties deepen
+  - [taiwan] TSMC 3Q Revenue From High Performance Computing Up 22% on Quarter >2330.TW
+  - [taiwan] TSMC 3Q Gross Margin 66.4%, Up 6.9 Pct Pt on Year >2330.TW
   - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Net Profit Beat TWD731.77B Expected in a FactSet Poll >2330.TW
   - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Rev TWD1.494T Vs. TWD989.92B >2330.TW
+  - [taiwan] TSMC Q3 profit jumps 69% to record, beating expectations
   - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Net TWD763.1B >2330.TW
   - [china] This Chinese export boom really has legs – and wings
   - [japan] Bank of Japan member Koeda: ``We won't be overly cautious about raising interest rates.''
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Nikkei plunges as tech stocks hammered by AI, rate hike worries
   - [japan] Don't be overly cautious about interest rate hikes: ``The risk of price rises is commensurate with the risks.'
   - [china] Offshore Yuan Lingers Near 2022 High
-  - [china] The central bank launches 45 billion yuan 7-day reverse repurchase operation
-  - [china] The central bank launched a 45 billion yuan seven-day reverse repurchase operation with an interest rate of 1.
-  - [china] Hong Kong's sole yuan clearing bank plans mainland NCD issuance
-  - [taiwan] ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports
-  - [japan] Yen Gains Amid Fresh Verbal Warning
-  - [japan] Asia stocks slump as chip rout deepens after hotter U.S. inflation
-  - [taiwan] Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T05:32:42+00:00",
+      "published_utc": "2026-10-15T05:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
