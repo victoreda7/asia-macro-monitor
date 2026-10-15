@@ -7,20 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T05:22:42.973877+00:00
+Última coleta: 2026-10-15T05:32:42.735635+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1123
   🇨🇳 China          846
-  🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  738
+  🇹🇼 Taiwan         292
+  🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung's top brass converge in Tokyo as Japan chip ties deepen
+  - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Net Profit Beat TWD731.77B Expected in a FactSet Poll >2330.TW
+  - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Rev TWD1.494T Vs. TWD989.92B >2330.TW
+  - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Net TWD763.1B >2330.TW
+  - [china] This Chinese export boom really has legs – and wings
   - [japan] Bank of Japan member Koeda: ``We won't be overly cautious about raising interest rates.''
+  - [japan] Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York By Reuters
+  - [korea] SK Hynix, Samsung fall as market fears higher rates could curb AI expansion
   - [japan] BOJ Member Koeda's Speech Reinforces Scope for Further Rate Hikes — Market Talk
   - [japan] Asian stocks sell off as AI trades crumble after hot US inflation data By Reuters
-  - [china] This Chinese export boom really has legs – and wings
   - [taiwan] ByteDance taps MediaTek for custom data center chips - report
   - [korea] South Korean Won Falls Further on Tech Rout
   - [japan] Japan Industrial Output Falls More than Initially Anticipated
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Gains Amid Fresh Verbal Warning
   - [japan] Asia stocks slump as chip rout deepens after hotter U.S. inflation
   - [taiwan] Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment
-  - [korea] Asia stocks tumble, S.Korea’s KOSPI slumps 7% on chip rout, Fed rate fears
-  - [taiwan] Bytedance In Talks To Secure Mediatek AI Chips For Data Centers - Bloomberg News
-  - [japan] What's behind the sudden turnaround and being fired in 4 weeks? Prime Minister Takaichi's "Chiebukuro" Ministe
-  - [japan] G20 Finance Ministers and Central Bank Governors Meeting begins, discussing responses to the global economy an
-  - [japan] Bank of Japan member Koeda says there is ``reasonable'' risk of price rises, and there is no need to be overly
-  - [japan] ``There is a fair amount'' of price rise risk, and there is no need to be overly cautious about raising intere
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T05:22:43+00:00",
+      "published_utc": "2026-10-15T05:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
