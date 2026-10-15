@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T11:33:42.638871+00:00
+Última coleta: 2026-10-15T11:42:45.219095+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1120
-  🇨🇳 China          841
+  🇨🇳 China          842
   🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  720
+  🇰🇷 Coreia do Sul  719
 
 ## O que já está no feed (não repita)
 
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [korea] South Korea, Japan extend $10 billion currency swap for three years
   - [japan] Tech sell-off gathers pace as chipmakers hammered By Reuters
   - [taiwan] TSMC eyes Texas and Musk Terafab project for US expansion
+  - [japan] Bank of Japan member: ``We won't be overly cautious about raising interest rates,'' indicating a stance of mai
   - [japan] Bank of Japan member: ``We won't be overly cautious about raising interest rates.'' Shows stance to maintain i
   - [taiwan] Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] TSMC's net profit hits record in third quarter
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030
   - [taiwan] TSMC beats forecasts as quarterly sales, profits soar
   - [korea] South Korea, Japan agree to extend $10 billion currency swap
-  - [taiwan] AI demand highlights Taiwan's semiconductor capabilities: Lai
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T11:33:42+00:00",
+      "published_utc": "2026-10-15T11:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

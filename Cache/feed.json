@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-15T11:33:42.638871+00:00",
- "collected_at_utc": "2026-10-15T11:33:42.638871+00:00",
+ "generated_at_utc": "2026-10-15T11:42:45.219095+00:00",
+ "collected_at_utc": "2026-10-15T11:42:45.219095+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1120,
-  "china": 841,
+  "china": 842,
   "taiwan": 319,
-  "korea": 720
+  "korea": 719
  },
- "elapsed_s": 88.0,
+ "elapsed_s": 30.1,
  "sources": [
-  {
-   "source_id": "nikkei_asia",
-   "name": "Nikkei Asia",
-   "ok": false,
-   "count": 0,
-   "error": "The read operation timed out",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T11:12:27+00:00"
+   "newest": "2026-10-15T11:33:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T11:12:38+00:00"
+   "newest": "2026-10-15T11:32:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -198,12 +190,20 @@
    "newest": "2026-10-15T19:56:00+09:00"
   },
   {
+   "source_id": "nikkei_asia",
+   "name": "Nikkei Asia",
+   "ok": true,
+   "count": 50,
+   "error": "",
+   "newest": ""
+  },
+  {
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:15:34+00:00"
+   "newest": "2026-10-15T03:05:48+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T11:32:17+00:00"
+   "newest": "2026-10-15T11:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T08:51:20+00:00"
+   "newest": "2026-10-15T05:50:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T10:37:12+00:00"
+   "newest": "2026-10-15T11:17:12+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -396,8 +396,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -412,7 +412,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -464,6 +464,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6306a90f7dd8aa2a"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan member: ``We won't be overly cautious about raising interest rates,'' indicating a stance of maintaining interest rate hikes (TV Asahi (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRS3pxZTZCTUMyWDd2MnF6TVhuT29OOGt4dXVXN2lHTm9qZGt6YjFWQ2UxVzVidkpEeWhDTmszUWF1MEV0SkNDdEFMN2trMWY0MzJLRkpMdHBlWnZJbnd1N2h4bmo1MGQ2TkFYUHlTU3dZTzVFQ3h3d3ctckduMXc?oc=5",
+   "published_utc": "2026-10-15T10:39:02+00:00",
+   "title_original": "日銀委員「利上げに過度に慎重になることはない」 利上げ維持する姿勢を示す（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e8376698cf91906"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3451,6 +3468,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1f8c5e6717416b15"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "EU to Remove Sanctions on Chinese Firm to Save ASML Supplier",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
+   "published_utc": "2026-10-14T14:36:43+00:00",
+   "title_original": "EU to Remove Sanctions on Chinese Firm to Save ASML Supplier",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0e0eb60b62a1f7ab"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -11763,8 +11797,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -11777,7 +11811,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -51899,42 +51933,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3514fd86bbe7d270"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan to “accelerate” interest rate hike, “unprecedented” decision due to persistent risk of price rise (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50ZjBnblcxQWkxMUlQN18zNEdJSHVIT1JEektqTC1PeVdPd1UxVFJFVzVLVE1id29ZVnFaTml2WXJCSGRXLUhUdjZfcXk5c1BGd2ltUW5WQmljOFhZREpiZjZBbTgxOWZxSGdLVmhfQnZKc3lzdndWTmdyV1FBQVE?oc=5",
-   "published_utc": "2026-09-17T03:15:06+00:00",
-   "title_original": "日銀 利上げ“加速”へ 物価上昇リスク根強く「異例」の決断（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "283877c9c4128d0a"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
-   "title_en": "S. Korea continues to suffer deficit in cultural, knowledge services trade in H1: BOK",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JZ1VmZGZGUzN2R3pEVVNRb1p3bXNNOHRRV3NPSFFsbWhUd3ZrRDV3N283Q3FRYnM3dkprbkE2MkRTT0tYTTJhSjBTZVRGYlRvNFdNc0RiNVZNZw?oc=5",
-   "published_utc": "2026-09-17T03:00:13+00:00",
-   "title_original": "S. Korea continues to suffer deficit in cultural, knowledge services trade in H1: BOK",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e15ff7b830d9ff0"
   },
   {
    "source_id": "manual_ia",
