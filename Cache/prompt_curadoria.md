@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T00:32:44.374331+00:00
+Última coleta: 2026-10-15T00:42:41.624836+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1126
+  🇯🇵 Japão          1124
   🇨🇳 China          851
-  🇹🇼 Taiwan         292
-  🇰🇷 Coreia do Sul  731
+  🇹🇼 Taiwan         293
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul stocks open sharply lower on lingering concerns over AI, US inflation
+  - [japan] Japan's Nikkei tumbles as tech stocks hammered on US rate hike worries
   - [korea] (LEAD) Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation
   - [japan] How can eel pie companies eliminate departmental deficits?
+  - [taiwan] Fujifilm to expand Arizona semiconductor materials output
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation. In September, imports and
   - [korea] Samsung Semiconductor Highlights 400+ Layer Flash Powering Agentic AI
   - [china] The central bank will launch a 700 billion yuan buyout reverse repurchase operation
@@ -30,7 +33,8 @@ Total: 3000 manchetes
   - [japan] G20 Finance Ministers and Central Bank Governors Meeting to begin on the 15th
   - [japan] Fed economic report “Price growth pace is accelerating in some areas” Focus on timing for additional interest 
   - [japan] <Competitors are withdrawing or making losses> A new frontier for Uber Eats, which has been in the black for t
-  - [japan] <Future of deficit lines> JR Hokkaido's "Yellow Line Area" fundamental improvement plan is in chaos, financial
+  - [japan] JR Hokkaido's "Yellow Line Area" fundamental improvement plan is in chaos, financial support of 380 billion ye
+  - [japan] Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York By Reuters
   - [japan] "Eel pie" is doing well, but the division is in the red for 400 million yen...The "amazing comeback" of Hamama
   - [taiwan] TSMC options chain shows big call wall at $500 strike ahead of earnings
   - [japan] Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
   - [china] IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports
   - [china] On October 15, 2026, the central bank increased the amount of 6-month buyout reverse repurchase with an additi
-  - [china] Central Bank, latest release! The increase in social financing in the first three quarters exceeded 27 trillio
-  - [japan] GlobalFoundries to Build 2 Chip Plants With $21 Billion Backing Under U.S.-Japan Deal — Update
-  - [japan] GlobalFoundries to Build 2 Chip Plants With $21B Backing Under U.S.-Japan Deal — Update
-  - [china] Zambia Says Some Copper Sales to China to Be Settled in Renminbi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T00:32:44+00:00",
+      "published_utc": "2026-10-15T00:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

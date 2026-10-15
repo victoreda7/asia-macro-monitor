@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T00:32:44.374331+00:00",
- "collected_at_utc": "2026-10-15T00:32:44.374331+00:00",
+ "generated_at_utc": "2026-10-15T00:42:41.624836+00:00",
+ "collected_at_utc": "2026-10-15T00:42:41.624836+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1126,
+  "japan": 1124,
   "china": 851,
-  "taiwan": 292,
-  "korea": 731
+  "taiwan": 293,
+  "korea": 732
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T00:07:27+00:00"
+   "newest": "2026-10-15T00:12:59+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-14T21:52:49+00:00"
+   "newest": "2026-10-15T09:36:47+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T00:31:59+00:00"
+   "newest": "2026-10-15T00:41:44+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T20:48:21+00:00"
+   "newest": "2026-10-14T17:46:02+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-15T09:00:00+09:00"
+   "newest": "2026-10-15T09:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Seoul stocks open sharply lower on lingering concerns over AI, US inflation",
+   "url": "https://www.koreaherald.com/article/10903265",
+   "published_utc": "2026-10-15T00:42:41.033196+00:00",
+   "title_original": "Seoul stocks open sharply lower on lingering concerns over AI, US inflation",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "75bc2f4301db04d7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's Nikkei tumbles as tech stocks hammered on US rate hike worries",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46100E:0-japan-s-nikkei-tumbles-as-tech-stocks-hammered-on-us-rate-hike-worries/",
+   "published_utc": "2026-10-15T00:35:45+00:00",
+   "title_original": "Japan's Nikkei tumbles as tech stocks hammered on US rate hike worries",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d05e07219b73a955"
+  },
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
@@ -376,6 +410,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5fb6a31fdd8d28b7"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Fujifilm to expand Arizona semiconductor materials output",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUW9QeHp1QThMTGNJZXVHbGRabjFYUVFvUzBBQU92bkxKMDFwQWZncF9FdFNZLWVSVVZjYWpNQnF3aUNjbkxmdmt4TTNHZXZmUHNmRVc3b045N09WWnMyN0poWXl3dWR3eHduLUJpTFpLQkZacDJKcXMyQVJsX2Jma3hlOW5GZ0NNTkZNVUJiQjdSdlRldlowc0Y5SE0zZnBBREEtMA?oc=5",
+   "published_utc": "2026-10-15T00:12:59+00:00",
+   "title_original": "Fujifilm to expand Arizona semiconductor materials output",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5f4fc9eccb384b11"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -574,7 +625,7 @@
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
-   "title_en": "<Future of deficit lines> JR Hokkaido's \"Yellow Line Area\" fundamental improvement plan is in chaos, financial support of 380 billion yen over 10 years is far away from management independence | Business | Toyo Keizai Online",
+   "title_en": "JR Hokkaido's \"Yellow Line Area\" fundamental improvement plan is in chaos, financial support of 380 billion yen over 10 years is far away from management independence | Business | Toyo Keizai Online",
    "url": "https://toyokeizai.net/articles/-/960957?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "published_utc": "2026-10-14T20:45:00+00:00",
    "title_original": "〈赤字路線の未来〉JR北海道の｢黄色線区｣抜本改善策めぐり混沌､10年間で3800億円の財政支援も遠のく経営自立 | ビジネス | 東洋経済オンライン",
@@ -588,6 +639,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3ce3ff4f8a6fd9b7"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXlLZFc5bFAtdUY0WnNIMEdrVnZRTW9VYTB5WHg3Qy1NbkFwMGszNXlhUWdpUF9WcGlDUElPaExJRVc2TlBHUmFUVnVMUlZCWlhQaWhjTTAzT3N5Vi11UTdRSXdDMG9RRVBrM1lFa1ZSaTFzVXl3cy0zZGdxZVVHcHdTbVdXNnZ2ZEpRWHFxdmFUbFE2a0t6RndBZEZZWkl5R3Iwa09yeUtPZ2ZRQkJDY0loMk9DU1ptSDJMS1VNU3doUzlHZVVLby13VXBRWVNaZGF1bHM3OW5PLWc?oc=5",
+   "published_utc": "2026-10-14T20:39:35+00:00",
+   "title_original": "Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York By Reuters",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6cd45ed2bf803af0"
   },
   {
    "source_id": "toyo_keizai",
@@ -2805,7 +2873,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged at 1.40%",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKUE5OTlIwUldoSlY3ckxSYzgtTnQ4d21IQjVPNXZ4NTdBZGFCb2Z6Z3Jadm9ib3NDWWVVX1FrbFhTdXE0bkt5NTRjaWl4UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Xa1JWejVEall0bTNybXI2V2ZiaVZpUG50X1dON2owNm9NTVAtVE10SE11NHNBNWZSTWpmTk9welpBdFg0ZWpKT3hCNHNZWXdSQ09PNUhrVlk1YnZkM3RNOG53?oc=5",
    "published_utc": "2026-10-14T02:03:28+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 利率1.40%持平",
    "region": "china",
@@ -2817,7 +2885,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "563552a745d8dbb4"
+   "id": "551d98007892a700"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51859,77 +51927,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b497bcafc17e8f99"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG IMPORT Y/Y RISE LED BY CRUDE OIL, MEMORY CHIPS, COMPUTERS, AS LARGELY SEEN IN RECENT MONTHS",
-   "url": "https://www.tradingview.com/news/macenews:cd4fc2cec094b:0-japan-aug-import-y-y-rise-led-by-crude-oil-memory-chips-computers-as-largely-seen-in-recent-months/",
-   "published_utc": "2026-09-16T00:11:00+00:00",
-   "title_original": "JAPAN AUG IMPORT Y/Y RISE LED BY CRUDE OIL, MEMORY CHIPS, COMPUTERS, AS LARGELY SEEN IN RECENT MONTHS",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "34555eb30dd593a1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG EXPORT Y/Y RISE LED BY COMPUTER CHIPS, AUTOS, SEMICONDUCTOR-MAKING EQUIPMENT, AS SEEN IN JULY",
-   "url": "https://www.tradingview.com/news/macenews:2cbb94e3e094b:0-japan-aug-export-y-y-rise-led-by-computer-chips-autos-semiconductor-making-equipment-as-seen-in-july/",
-   "published_utc": "2026-09-16T00:09:00+00:00",
-   "title_original": "JAPAN AUG EXPORT Y/Y RISE LED BY COMPUTER CHIPS, AUTOS, SEMICONDUCTOR-MAKING EQUIPMENT, AS SEEN IN JULY",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "52406735bdceec7e"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Japan trade deficit widens in August as soaring imports offset export strength",
-   "url": "https://www.investing.com/news/economic-indicators/japan-trade-deficit-widens-in-august-as-soaring-imports-offset-export-strength-4902785",
-   "published_utc": "2026-09-16T00:06:22+00:00",
-   "title_original": "Japan trade deficit widens in August as soaring imports offset export strength",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e009523bb399025c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Import Growth at Near 4-Year High",
-   "url": "https://www.tradingview.com/news/te_news:584004:0-japan-import-growth-at-near-4-year-high/",
-   "published_utc": "2026-09-16T00:05:39+00:00",
-   "title_original": "Japan Import Growth at Near 4-Year High",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c5a06b7dd449e325"
   },
   {
    "source_id": "manual_ia",
