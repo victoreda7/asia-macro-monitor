@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T03:42:42.550547+00:00
+Última coleta: 2026-10-15T03:52:46.463910+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1123
+  🇯🇵 Japão          1122
   🇨🇳 China          847
   🇹🇼 Taiwan         291
-  🇰🇷 Coreia do Sul  739
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [china] IMF urges China to deploy bigger fiscal stimulus
   - [korea] SKHY Tracks Worst Month Since Nasdaq Debut: SK Hynix Reportedly Wants To Ship More Chip Tools To China Before 
+  - [korea] SK Hynix seeks U.S. chip equipment exports to China tied to new factory - Reuters
   - [japan] Japan's Nikkei plunges as tech stocks hammered by AI, rate hike worries
   - [japan] Don't be overly cautious about interest rate hikes: ``The risk of price rises is commensurate with the risks.'
   - [china] Offshore Yuan Lingers Near 2022 High
@@ -31,7 +33,6 @@ Total: 3000 manchetes
   - [japan] What's behind the sudden turnaround and being fired in 4 weeks? Prime Minister Takaichi's "Chiebukuro" Ministe
   - [japan] G20 Finance Ministers and Central Bank Governors Meeting begins, discussing responses to the global economy an
   - [japan] ``There is a fair amount'' of price rise risk, and there is no need to be overly cautious about raising intere
-  - [china] IMF urges China to deploy bigger fiscal stimulus
   - [japan] BOJ Board Member Indicates Further Room for Rate Hikes
   - [korea] Why a memory chip glut could be Korea's weapon against China
   - [japan] BoJ Koeda Urges Timely Rate Hikes Amid Inflation Risks
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Co. was counted as the largest net purchase by high-yield investors of Mirae Ass..
   - [japan] Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)
   - [japan] Japan futures fall as Tokyo equities slump, China imports weaken
-  - [korea] Hot US inflation hammers Kospi nearly 6% lower as chips buckle
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T03:42:42+00:00",
+      "published_utc": "2026-10-15T03:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
