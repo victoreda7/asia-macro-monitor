@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T08:33:41.256999+00:00",
- "collected_at_utc": "2026-10-15T08:33:41.256999+00:00",
+ "generated_at_utc": "2026-10-15T08:43:43.306168+00:00",
+ "collected_at_utc": "2026-10-15T08:43:43.306168+00:00",
  "degraded": false,
  "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1118,
-  "china": 840,
-  "taiwan": 311,
-  "korea": 731
+  "japan": 1115,
+  "china": 841,
+  "taiwan": 316,
+  "korea": 728
  },
- "elapsed_s": 88.6,
+ "elapsed_s": 89.6,
  "sources": [
   {
    "source_id": "nikkei_asia",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T06:12:40+00:00"
+   "newest": "2026-10-15T07:12:45+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -73,9 +73,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 55,
+   "count": 60,
    "error": "",
-   "newest": "2026-10-15T13:47:36+08:00"
+   "newest": "2026-10-15T16:14:54+08:00"
   },
   {
    "source_id": "investing_live",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T07:24:29+00:00"
+   "newest": "2026-10-15T08:30:30+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T08:13:54+00:00"
+   "newest": "2026-10-15T08:32:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T08:31:22+00:00"
+   "newest": "2026-10-15T08:42:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T08:20:01+00:00"
+   "newest": "2026-10-15T08:30:49+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T08:18:34+00:00"
+   "newest": "2026-10-14T05:03:08+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "MarketWatch",
+   "title_en": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
+   "url": "https://www.tradingview.com/news/DJN_SN20261015003994:0-tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit/",
+   "published_utc": "2026-10-15T08:42:00+00:00",
+   "title_original": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8e876ccd3947d901"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "TSMC open to Terafab collaboration but insists on controlling its own plants",
+   "url": "https://www.tradingview.com/news/seekingalpha:5a3d8db68094b:0-tsmc-open-to-terafab-collaboration-but-insists-on-controlling-its-own-plants/",
+   "published_utc": "2026-10-15T08:39:39+00:00",
+   "title_original": "TSMC open to Terafab collaboration but insists on controlling its own plants",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a3b2ad31d16778ee"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC is \"prudent\" for 2027 after recording sixth consecutive quarter of record profits",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4610LS:0/",
+   "published_utc": "2026-10-15T08:36:27+00:00",
+   "title_original": "TSMC se mostra \"prudente\" para 2027 após registrar sexto trimestre consecutivo de lucro recorde",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "3b44419ecebd33db"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -359,6 +410,24 @@
    "live_wire": true,
    "manual": false,
    "id": "77cad243010b265f"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Councilor Koeda says 2% underlying inflation rate is \"taking hold\": Rate hikes should be done in a timely and appropriate manner (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xN2xjYmxTVmkweGlKTkEzTEJWaWdPNnFqYjFkeE1tbGVGa1phNUxyTWwyY2ctblJsZkZoUC1UWVkzenk3Sl8xSU1nc0wxV0xaeWp1TXRxaDJkZ0dyVVNVdWVvRUV2U2NCaWp1bjdJdmpLSHpPdURaRnBhbk4xRnM?oc=5",
+   "published_utc": "2026-10-15T08:30:49+00:00",
+   "title_original": "小枝日銀審議委員、基調物価2％「定着しつつある」 利上げ、適時適切に（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1e3bf8495890fee5"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -412,6 +481,23 @@
    "id": "08bbf99c3dd11bd3"
   },
   {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "AI demand highlights Taiwan's semiconductor capabilities: Lai",
+   "url": "https://focustaiwan.tw/politics/202610150012",
+   "published_utc": "2026-10-15T08:00:49+00:00",
+   "title_original": "AI demand highlights Taiwan's semiconductor capabilities: Lai",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "326add6ad82d7f7c"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Japan Industrial Output Falls More Than Estimated",
@@ -461,6 +547,23 @@
    "live_wire": false,
    "manual": false,
    "id": "92ee8c3365eda75f"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "TSMC's Q3 net profit hits new quarterly high",
+   "url": "https://focustaiwan.tw/business/202610150009",
+   "published_utc": "2026-10-15T07:27:42+00:00",
+   "title_original": "TSMC's Q3 net profit hits new quarterly high",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0fb9762eb7b3ee96"
   },
   {
    "source_id": "tradingview_live",
@@ -1134,23 +1237,6 @@
    "id": "a2a47d35f19dd2e2"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Taiwan Semiconductor Manufacturing Co. 3Q Net TWD763.1B >2330.TW",
-   "url": "https://www.tradingview.com/news/DJN_DN20261015000770_20261015000770:0-taiwan-semiconductor-manufacturing-co-3q-net-twd763-1b-2330-tw/",
-   "published_utc": "2026-10-15T05:30:00+00:00",
-   "title_original": "Taiwan Semiconductor Manufacturing Co. 3Q Net TWD763.1B >2330.TW",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c803d581667c611f"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "EU leaders to tackle China exports, energy prices, budget at summit",
@@ -1219,40 +1305,6 @@
    "live_wire": false,
    "manual": false,
    "id": "82433112e0407a2f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "SK Hynix, Samsung fall as market fears higher rates could curb AI expansion",
-   "url": "https://www.tradingview.com/news/seekingalpha:fbdb36fbb094b:0-sk-hynix-samsung-fall-as-market-fears-higher-rates-could-curb-ai-expansion/",
-   "published_utc": "2026-10-15T05:13:59+00:00",
-   "title_original": "SK Hynix, Samsung fall as market fears higher rates could curb AI expansion",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cc347c582ec58ff6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ Member Koeda's Speech Reinforces Scope for Further Rate Hikes — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261015000253:0-boj-member-koeda-s-speech-reinforces-scope-for-further-rate-hikes-market-talk/",
-   "published_utc": "2026-10-15T05:09:00+00:00",
-   "title_original": "BOJ Member Koeda's Speech Reinforces Scope for Further Rate Hikes — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ba541b93c9213fec"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1572,6 +1624,24 @@
    "id": "3abb671c1c48032a"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中华网",
+   "title_en": "The central bank carries out 700 billion yuan of 182-day buyout reverse repurchase, increasing the amount and continuing to stabilize liquidity",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZakVjWkV5RWg5a1hjSzdESVJJcXNhbjBtWlYza0pWcWZXcUlmbG1hcHZQeGw0WHpxbVZKMVRGTGZwbzRPbnRNVDB4eEZ1R3M5b3NUNVl1aHRzeWlFb3BNbmgxcFJWdE1nREl2VFZVUGM?oc=5",
+   "published_utc": "2026-10-15T02:35:52+00:00",
+   "title_original": "央行开展7000亿元182天买断式逆回购 加量续作稳流动性",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "591d5eff4649aedc"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan member Koeda says there is ``reasonable'' risk of price rises, and there is no need to be overly cautious about raising interest rates (Reuters)",
@@ -1675,6 +1745,24 @@
    "live_wire": true,
    "manual": false,
    "id": "eded1ea9c118fc5d"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Mainland China, Hong Kong stocks fall as US inflation spurs Fed tightening fears",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY2Yxc1RtaGFzOWpwbTQxU3ZkLUFha0xucllIYmFRZ19CdV9CRl9ENmdRd1JZZXRvaWJOcm1oYlRzTTN3NjNLbUNNbEc4UHlZUy1JMlgxWjNLQ3F4aU9zcWFOU3VHMGZVc1BhWE1vXzB2MFpyUWlOY3lXdFI2djMwa2RWZ3F3dC1SOVNNaTBubUNpUXgwVndxMzMtY3NCN01DaTVyTTg5dmJDUHRKd1dwSmRfcWJjYUVpYUhCeXlQb28wM3Btc0pnemxLdklYM2VQWTVfd1dqSdIB1wFBVV95cUxQeDAxbjVwOWlDSklGOU1yMnQwclN2NjlqTmtDVXExLUFVcHZXekNpaFJkU3B3dHF5aWRhbS1aRUd4RFcyQlgwYmJsLXl0dllVYWZ1OGctbHNrWHlzWGRVSk0xZGU1b2tQdVh3VDRUNFMzUFJnZzFMeFZ0YUh3aWVBNGlRaDRiSDJVREhDTW9MdFZjUm8wX1hYN2tiYzJPajlSVF9Dd19SVERzV1d1eGNVazVVZnplVU81T0lWbGVPbXhaTnkxZnFhTU9CNjYwaTVfa0JWU1V1RQ?oc=5",
+   "published_utc": "2026-10-15T02:04:32+00:00",
+   "title_original": "Mainland China, Hong Kong stocks fall as US inflation spurs Fed tightening fears",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1798777b7b61d2d0"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2245,6 +2333,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d32070122e8f9124"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "TSMC 'prudent' going into 2027 after posting sixth straight quarter of record profit",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWE9HY3JEZl96LXVuQmdXM1I4VVBoUUI4d09uNk9qYUdDSXpBTE8zYnJsNUwxUEljLXJ2aTYxYW5rcnFza0duNVNVRnFCWVAzd19MSXVzUTc2cnhnZkxfaVNXS3I2b25JNlJHZnlpMmpiTkQ1NXF5cWNVTG5sRTk3TE9fZExqRExHcjRUa3EybXEzZ1JRNjJPYlZUTWVaMk5hdWJta0g0UWtHZ251dE5BLTk5bk9nYm5vTDh5alo5c05QT054QVE?oc=5",
+   "published_utc": "2026-10-14T23:02:00+00:00",
+   "title_original": "TSMC 'prudent' going into 2027 after posting sixth straight quarter of record profit",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "37e538277195bcfb"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -51823,109 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "992de52e9bb137f5"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Experts say ``a little ahead of expectations'' regarding Bank of Japan interest rate hike every three months (ABEMA TIMES)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sQzNhWUFpWnZPRnRCWDgyRTV6UVJoemEzYmJlT2dtSmdBSXNpdXN4VW1Ta0xlU2kxbzV5c2puRjkzRll0TnhfRTVXVF9seGZhZzNoVjFzOFNJdDhublpYMHdNSEt2dG84b0o2R3JWdXRMTWo3b2dvNDJQTkI2QUE?oc=5",
-   "published_utc": "2026-09-17T00:06:18+00:00",
-   "title_original": "日銀 利上げ3カ月ごとの見方に専門家「やや期待先行」（ABEMA TIMES）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f97f59b25fd08182"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes.com",
-   "title_en": "Column: China tightens rare earth controls, exposing hidden vulnerabilities in Taiwan's supply chain",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS2dkY2NuSlpNbm01SXRlMmswVkV2Wms3NDVnbjhzRVJpaHBRS28xcTFFSFVWbXVBUkhLUjIxMFl2dUJjTjVOZWx1eGxLUDhzQjJHRXc2b1NDWkdQM1BHenZ0Szg0M2F5R2tPQmRHUE1Fb210V2lCNGlXMkhfSHdHMV9OckNMeTBmWnVFMkNuZlJ4dm1IbllfbHlQVUV5bUlZN3lrbw?oc=5",
-   "published_utc": "2026-09-17T00:05:21+00:00",
-   "title_original": "Column: China tightens rare earth controls, exposing hidden vulnerabilities in Taiwan's supply chain",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1b7eb0afc7a5e94b"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan PM retains economy minister in cabinet reshuffle, vows to speed up spending plans",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjlhdW9jeklWSFREWFpnck8zenZfUWVBYjBGeW5acHdZWmwtcXNVckVWWFhlYVdoMXExVmNGdDFYM0JteXhLUWtDQVNZRXhCYS1yMFNUYnBYUFktZHI4TW55S0s4b2hMcTh6S3JIMGprSVVXMWtLTmhNOWN1UlFvd0pGMktheWZOQWFVeGJZWG9kNWw5eEYwcjFjdkVhMUxTRms4cnJYRUhkOEM2OWxTeDBQU0ltRDds?oc=5",
-   "published_utc": "2026-09-17T00:02:02+00:00",
-   "title_original": "Japan PM retains economy minister in cabinet reshuffle, vows to speed up spending plans",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7ad7c889f06d5707"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "chosun.com",
-   "title_en": "US interest rates were raised... The Bank of Korea, which raised the issue twice first, is considering additional hikes.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQno0bzF5M0R1R2NxUF9wMGdFS1RWT1JWVC1rNWpGQ2Mwc19WOGl0VWhaU2xKTmd2TW92RUFXRzBRWHFjSlVOYmNnRVJxSVpUSGJ0a1piS0FjVXBHcndLWllUSU5LM3laYTZFU2lpSGxhYXE3Z1U5SEdVZkZjdndfQlAxMHpjWW5ybVQ2Qjh3?oc=5",
-   "published_utc": "2026-09-16T23:41:00+00:00",
-   "title_original": "美 금리 올렸지만…두 차례 먼저 올린 한은, 추가 인상 고심",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ecfaeb71c6339ee3"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan meeting highlights: Interest rate hike to 1.25%, governor's press conference explores future pace and room (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OZ2N0VGlXamhQNmFUbVJ6bmlTMDJ6RjZvZ1BxVGhsOEFTVklOUmRPa2tTb0dOLUVoOTd1LXk3b0lhQ0dPcU9UdFdVYWhCQ0FsbGtCZ1VLV3pNdlNrbzRKWWVhMVJCYmZndjEtU1pzU1RwOHdSWFA5S1V3UzJCN3M?oc=5",
-   "published_utc": "2026-09-16T23:30:04+00:00",
-   "title_original": "日銀会合注目点:1.25%に利上げへ、総裁会見で今後のペースと余地探る（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "308370ff38fdf00f"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "시사저널",
-   "title_en": "US interest rate hike confirmed... Bank of Korea also weighs ‘additional hike in November’",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82TWdFU1Y1RlJtTVZfZklPMU5Hc0gxU2NBcHozSFU0TnZLY1gwODNBcEZOZTJEYkViVnYxSDJIUDdsT1lxcHdFSmF2V0pGaW1xR05JTDJZSFJ6N2dpYWFzQmFZclIyTTY1NURicG1RMNIBc0FVX3lxTE9OaDYwSWZzaElLNmxUeTA2U1V1WDhLdXpUUTFpcFVxZ3NoNDE4Nk9QWE0yRmlXWVdZZjdDUHloYmNnS2xqTFV2Zkh0V2g3c0RiamhTeURyREVRSkRBMjJmUXF1TjZqZ1Vudmt2OFF5Q01SQkE?oc=5",
-   "published_utc": "2026-09-16T23:06:09+00:00",
-   "title_original": "美금리 인상 확정…한은도 ‘11월 추가 인상’에 무게",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b0c3fdcd569afd7c"
   },
   {
    "source_id": "manual_ia",

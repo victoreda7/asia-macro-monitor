@@ -7,23 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T08:33:41.256999+00:00
+Última coleta: 2026-10-15T08:43:43.306168+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1118
-  🇨🇳 China          840
-  🇹🇼 Taiwan         311
-  🇰🇷 Coreia do Sul  731
+  🇯🇵 Japão          1115
+  🇨🇳 China          841
+  🇹🇼 Taiwan         316
+  🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC CEO sees no sign of a slowdown as chip foundry reports record profit
+  - [taiwan] TSMC open to Terafab collaboration but insists on controlling its own plants
+  - [taiwan] TSMC is "prudent" for 2027 after recording sixth consecutive quarter of record profits
   - [china] China stocks close at 14-month low as US inflation stokes Fed fears
+  - [japan] Bank of Japan Councilor Koeda says 2% underlying inflation rate is "taking hold": Rate hikes should be done in
   - [taiwan] TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030
   - [taiwan] TSMC beats forecasts as quarterly sales, profits soar
   - [korea] South Korea, Japan agree to extend $10 billion currency swap
+  - [taiwan] AI demand highlights Taiwan's semiconductor capabilities: Lai
   - [japan] Japan Industrial Output Falls More Than Estimated
   - [taiwan] TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable
   - [korea] Kospi slides over 7% as chip stocks sink
+  - [taiwan] TSMC's Q3 net profit hits new quarterly high
   - [taiwan] Earnings Snapshot: Taiwan Semiconductor Manufacturing tops Q3 estimates, gives Q4 revenue guidance above estim
   - [japan] Japan futures fall as Tokyo equities slump, China imports weaken
   - [taiwan] Earnings call transcript: TSMC beats Q3 2026 estimates as stock slips
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC profit beats estimates with 69% rise, but stock faces big test
   - [japan] Today's Oha Biz October 15th (Thursday) U.S. Consumer Price Index continues to grow rapidly
   - [japan] Japan August industrial production revised down to -2.4% M/M; core machine orders rise 5.2%
-  - [japan] IMF: Japan to fall to 6th in 2027 global GDP rankings
-  - [taiwan] TSMC Q3 profit surges more than expected to record high on AI-fueled demand
-  - [korea] Asia markets in red: South Korea and Japan lead deep tech selloff; Japan industrial output revised down
-  - [taiwan] TSMC Q3 profit jumps 69% to record, beating expectations
-  - [japan] U.S. semiconductor company plans to build new factory for up to 3 trillion yen based on Japan-U.S. agreement
-  - [taiwan] Lucro da TSMC no terceiro trimestre salta 69%, atingindo um recorde e superando as expectativas
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T08:33:41+00:00",
+      "published_utc": "2026-10-15T08:43:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
