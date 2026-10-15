@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T03:22:43.242028+00:00
+Última coleta: 2026-10-15T03:32:43.585037+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1121
-  🇨🇳 China          848
-  🇹🇼 Taiwan         293
+  🇯🇵 Japão          1123
+  🇨🇳 China          847
+  🇹🇼 Taiwan         292
   🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Nikkei plunges as tech stocks hammered by AI, rate hike worries
+  - [japan] Don't be overly cautious about interest rate hikes: ``The risk of price rises is commensurate with the risks.'
+  - [china] Offshore Yuan Lingers Near 2022 High
+  - [taiwan] ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports
   - [china] The central bank launched a 45 billion yuan seven-day reverse repurchase operation with an interest rate of 1.
   - [china] Hong Kong's sole yuan clearing bank plans mainland NCD issuance
-  - [taiwan] ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports
   - [japan] Yen Gains Amid Fresh Verbal Warning
   - [japan] Asia stocks slump as chip rout deepens after hotter U.S. inflation
   - [korea] Asia stocks tumble, S.Korea’s KOSPI slumps 7% on chip rout, Fed rate fears
@@ -34,6 +37,7 @@ Total: 3000 manchetes
   - [korea] Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say
   - [korea] Why is SK Hynix stock plunging today?
   - [japan] BOJ should not be overly cautious in raising rates, board member Koeda says
+  - [japan] BOJ policymaker warns against being overly cautious on rate hikes
   - [korea] Why is Samsung Electronics stock plunging today?
   - [china] On October 15, the central bank launched a 45 billion yuan 7-day reverse repurchase operation.
   - [japan] Bank of Japan council member emphasizes continuing interest rate hikes: ``There is no need to be cautious'' (K
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan futures fall as Tokyo equities slump, China imports weaken
   - [korea] Hot US inflation hammers Kospi nearly 6% lower as chips buckle
   - [japan] Japan’s Katayama Renews FX Warnings After US CPI Heats Up
-  - [japan] Summary of the "Meeting on Market Operations" (October 2026)
-  - [taiwan] Key facts: TSMC (2330) Q3 revenue NT$1.49T record; 2026 capex $60–64B
-  - [japan] Japan’s Katayama Renews Warnings on Yen After US CPI Heats Up
-  - [japan] Asian markets sell off as AI trades crumble after hot US CPI data
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T03:22:43+00:00",
+      "published_utc": "2026-10-15T03:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

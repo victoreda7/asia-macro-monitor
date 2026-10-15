@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T03:22:43.242028+00:00",
- "collected_at_utc": "2026-10-15T03:22:43.242028+00:00",
+ "generated_at_utc": "2026-10-15T03:32:43.585037+00:00",
+ "collected_at_utc": "2026-10-15T03:32:43.585037+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1121,
-  "china": 848,
-  "taiwan": 293,
+  "japan": 1123,
+  "china": 847,
+  "taiwan": 292,
   "korea": 738
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T03:02:56+00:00"
+   "newest": "2026-10-15T03:15:58+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T12:14:19+09:00"
+   "newest": "2026-10-15T12:26:28+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T03:21:28+00:00"
+   "newest": "2026-10-15T03:29:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T23:50:36+00:00"
+   "newest": "2026-10-14T20:48:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:52:58+00:00"
+   "newest": "2026-10-15T03:12:40+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,75 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's Nikkei plunges as tech stocks hammered by AI, rate hike worries",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46100Q:0-japan-s-nikkei-plunges-as-tech-stocks-hammered-by-ai-rate-hike-worries/",
+   "published_utc": "2026-10-15T03:22:45+00:00",
+   "title_original": "Japan's Nikkei plunges as tech stocks hammered by AI, rate hike worries",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fb27fb90e6dd549a"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Don't be overly cautious about interest rate hikes: ``The risk of price rises is commensurate with the risks.'' Bank of Japan Council Member Koeda (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RN0I4TThxQWlUTXBGVXZPQnA4bEJKUmE4dmRKcXc0WXVsdFdfZEJtSVdkYWwzanVhc3dyV2hyNUVrYUE2aFZzRlJVaTlhVzNmc19HZ0NFSkJQc0U2QllKY3dPMllfUEhlY2pCRm1sQnVDTmZJUHJEQ1lpNWYzek0?oc=5",
+   "published_utc": "2026-10-15T03:12:40+00:00",
+   "title_original": "利上げ、過度に慎重にならず 「物価上昇リスク相応にある」 小枝日銀審議委員（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a70b255c95195e13"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Offshore Yuan Lingers Near 2022 High",
+   "url": "https://www.tradingview.com/news/te_news:592152:0-offshore-yuan-lingers-near-2022-high/",
+   "published_utc": "2026-10-15T03:12:15+00:00",
+   "title_original": "Offshore Yuan Lingers Near 2022 High",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "09fbda5e33778f63"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
+   "url": "https://www.investing.com/news/stock-market-news/bytedance-nears-chip-supply-deal-with-mediatek-for-data-centres-bloomberg-news-reports-4950432",
+   "published_utc": "2026-10-15T03:06:44+00:00",
+   "title_original": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cb0fbf74ddbbb420"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 45 billion yuan seven-day reverse repurchase operation with an interest rate of 1.40%, the same as last time",
@@ -377,23 +446,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e2f976c006316d4e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46106P:0-bytedance-nears-chip-supply-deal-with-mediatek-for-data-centres-bloomberg-news-reports/",
-   "published_utc": "2026-10-15T03:00:19+00:00",
-   "title_original": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ff0b2937a58027ee"
   },
   {
    "source_id": "tradingview_live",
@@ -638,6 +690,24 @@
    "live_wire": true,
    "manual": false,
    "id": "133c142431bcd297"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ policymaker warns against being overly cautious on rate hikes",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46101P:0-boj-policymaker-warns-against-being-overly-cautious-on-rate-hikes/",
+   "published_utc": "2026-10-15T02:05:55+00:00",
+   "title_original": "BOJ policymaker warns against being overly cautious on rate hikes",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bac11c28386837ed"
   },
   {
    "source_id": "investing_live",
@@ -10075,8 +10145,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -10089,7 +10159,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -11038,8 +11108,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -11053,7 +11123,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "755074815d973cdc"
+   "id": "8833621c05226f22"
   },
   {
    "source_id": "tradingview_live",
@@ -11244,8 +11314,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -11259,7 +11329,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f30dbb53ad88d07d"
+   "id": "2e01c2e1325539c9"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51851,75 +51921,6 @@
    "live_wire": false,
    "manual": false,
    "id": "40ff95f92d694ce6"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "TSMC returns to prior ex-dividend level within 27 minutes after opening",
-   "url": "https://focustaiwan.tw/business/202609160013",
-   "published_utc": "2026-09-16T07:08:59+00:00",
-   "title_original": "TSMC returns to prior ex-dividend level within 27 minutes after opening",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "08859d96f0cc1e27"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Hong Kong Sets Out Gold Hub as Driver for Commodities and Yuan",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYW9VV081WXBxWVpIMUhlaG00MGVycWM4TzZ6TU1ReGNvYUx4TFgteElJUDFRcEg3RXFVUUx1cFFHQ0FhTGQwazd5aFd0MVU0T21jNHd2M0hDZGRmUlZ5NXB3RHc4LV9LeUI4V3M2YmxzT1V3OWNDOXNmS2MxMEJMeVYyV2dSXzBLQ2E0RmdvWVZRYkZwREQwcUFHWW9NMUp6N0tOQU5oUFZ4bHFCSWo2RXBCNA?oc=5",
-   "published_utc": "2026-09-16T07:08:45+00:00",
-   "title_original": "Hong Kong Sets Out Gold Hub as Driver for Commodities and Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1368ac7a785bf0a8"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Hong Kong Vows to Deepen Role as Premier Offshore Yuan Hub",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeVlNRnVJMWRNQmV5Z3N2T1R0bDRHdDFpVEFEN2dKQ0N5bU5iMWJ5MFI4ZVV2Sk00OTZGWFhVTkVNUFJVOWlRV3JjV0RyVklBM0RabWpTbGFWbWV1Zm1aWl9USzhzTC1jV1VOZG52YjRlMmhYNnFlaTg3dmxwOGRBck5UMXdhb2xvQVg3VDlydnZSdDlod0t2NUZXVWM2UGEyLUkxTEg4S1Z3S3RfVkE?oc=5",
-   "published_utc": "2026-09-16T07:01:26+00:00",
-   "title_original": "Hong Kong Vows to Deepen Role as Premier Offshore Yuan Hub",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "97ae6bea3259189a"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan trade deficit widens in August as soaring imports offset export strength By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZU1lOVNZVWV5VUpzekhBOWc0ajdYUFZpSU5YVWYzZ2x5dDJxMlhRS05GaUo3T0FIa0ZBVUJFdXczWmZSRjZuRlhsdE4yWDJWSFpQODlpOWhMWGdPSnY5TTN1ZFlqTmpuUUh4czhsSW52SGxRQ1ZoNzZ2YU96VU1wSGNic1RSS0w3bGxfOEl3NWhBeDBFMWV5T0Y0aU9rSG1ZTmxNQTB0WEVKYnJBQXJUaExwczR2bXM4UHpUQ3JPOTRpNjI2ZkxyLVk2NkFlSlZzaWc?oc=5",
-   "published_utc": "2026-09-16T07:00:00+00:00",
-   "title_original": "Japan trade deficit widens in August as soaring imports offset export strength By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "69c5c9d40bcad132"
   },
   {
    "source_id": "manual_ia",
