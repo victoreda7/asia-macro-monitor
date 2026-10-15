@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T06:32:43.492055+00:00",
- "collected_at_utc": "2026-10-15T06:32:43.492055+00:00",
+ "generated_at_utc": "2026-10-15T06:42:42.950850+00:00",
+ "collected_at_utc": "2026-10-15T06:42:42.950850+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1117,
+  "japan": 1118,
   "china": 843,
   "taiwan": 306,
-  "korea": 734
+  "korea": 733
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T17:59:00+00:00"
+   "newest": "2026-10-15T04:42:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T06:20:36+00:00"
+   "newest": "2026-10-15T06:40:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T06:32:08+00:00"
+   "newest": "2026-10-15T06:39:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T05:59:26+00:00"
+   "newest": "2026-10-15T05:45:27+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Japan finance minister: G20 concerned over yields, FX volatility",
+   "url": "https://asia.nikkei.com/business/markets/japan-finance-minister-g20-concerned-over-yields-fx-volatility",
+   "published_utc": "2026-10-15T06:42:42.349375+00:00",
+   "title_original": "Japan finance minister: G20 concerned over yields, FX volatility",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "102ce3b187fc5001"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Kospi Falls for Seventh Straight Session as Chip Stocks Slump",
+   "url": "https://www.tradingview.com/news/DJN_DN20261015001212_20261015001217:0-kospi-falls-for-seventh-straight-session-as-chip-stocks-slump/",
+   "published_utc": "2026-10-15T06:35:00+00:00",
+   "title_original": "Kospi Falls for Seventh Straight Session as Chip Stocks Slump",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8f8a02ef50b51fdc"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -1133,24 +1167,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6b53f7bba24d278f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Won-Yen Divergence May Likely Be Due to Chip Demand Boom — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261015000034:0-won-yen-divergence-may-likely-be-due-to-chip-demand-boom-market-talk/",
-   "published_utc": "2026-10-15T04:12:00+00:00",
-   "title_original": "Won-Yen Divergence May Likely Be Due to Chip Demand Boom — Market Talk",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "363da4701b3b1397"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1974,7 +1990,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05UXRMcUtabktsdmY0bk5ROE13VTZudXR4T2tZUzFVMURjYVJfcFpsaXczaHRpY3dJeS1kMDV1dXE1b3JTQW1FbVNxdkd5NGRKRnU5VmEyd0ZtQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcG04a256NWJGdU9heHRpUjhKblUxNVlhVWUzTXJJQ2pSTGN5b0ZRcmNhZ01wVkVwZ2J2aE5FMXNPT0ktek5jaXJNQ3I4aHZQUGpYU1JQMDFGMTNacFVWN3FsamZuTi1nY2w4Z2lGWGY3aFFSbHJFRDN3cFJyeFRaR3lCS1Q?oc=5",
    "published_utc": "2026-10-15T00:04:31+00:00",
    "title_original": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
    "region": "korea",
@@ -1985,7 +2001,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "c64b263d1e33962a"
+   "id": "f042fc07523f945c"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -8553,7 +8569,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Governor of the Bank of Korea: “A 0.5% point increase in the base interest rate has the effect of reducing the inflation rate by 0.08% points” (comprehensive)",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mR1hhV3dybWNIc25lMUdQSm05S2c4cGRfcktoZ2lITHZTcmtZeE9zSkFaS3V0SzdraVJJWWJJYWxqcXBldkFqUlhaS196Y1FyLUtxOG8waUZ3Y1BUaUw0M9IBYEFVX3lxTE5mR1hhV3dybWNIc25lMUdQSm05S2c4cGRfcktoZ2lITHZTcmtZeE9zSkFaS3V0SzdraVJJWWJJYWxqcXBldkFqUlhaS196Y1FyLUtxOG8waUZ3Y1BUaUw0Mw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xWWZ6dmFieWdrMl9NTzd6QjNUNEQ3Y2RWdGxQN2JncUZ1ZXZka2ExYmVCQTdPRl9zNTRxM3p5cnl2MHc4TkEzR1NHRmlwUGZISm1feUpyQVFHc0nSAWBBVV95cUxOZkdYYVd3cm1jSHNuZTFHUEptOUtnOHBkX3JLaGdpSEx2U3JrWXhPc0pBWkt1dEs3a2lSSVliSWFsanFwZXZBalJYWktfemNRci1LcThvMGlGd2NQVGlMNDM?oc=5",
    "published_utc": "2026-10-12T08:30:37+00:00",
    "title_original": "한은 총재 \"기준금리 0.5%p 인상, 물가상승률 0.08%p 하락 효과\"(종합)",
    "region": "korea",
@@ -8565,7 +8581,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "700794882ce7e8e4"
+   "id": "b03423ea7e67b829"
   },
   {
    "source_id": "focus_taiwan",
@@ -10925,8 +10941,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -10939,7 +10955,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -11888,8 +11904,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -11903,7 +11919,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -51911,23 +51927,6 @@
    "live_wire": false,
    "manual": false,
    "id": "585c049d320f2296"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Samsung Electronics chairman, Japanese lawmakers discuss AI, chip partnership",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XSTgzay1DSV9Gekl2UEZmTG5SMHJ0OVNtX1B1WXdGTjJGOFNnOGY4UmZvSzAxX1hYT2xsMHNGSlFVNkFxWXZNamFzSmN4bTN1cmxyZzFjSUs5WmxKbGJrZ0VNa0tZcUpJQUV2RjE2SmdLMkk4Nnhn?oc=5",
-   "published_utc": "2026-09-16T20:40:34+00:00",
-   "title_original": "Samsung Electronics chairman, Japanese lawmakers discuss AI, chip partnership",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f4a46d84c2511d88"
   },
   {
    "source_id": "manual_ia",

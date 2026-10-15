@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T06:32:43.492055+00:00
+Última coleta: 2026-10-15T06:42:42.950850+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1117
+  🇯🇵 Japão          1118
   🇨🇳 China          843
   🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  734
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan finance minister: G20 concerned over yields, FX volatility
+  - [korea] Kospi Falls for Seventh Straight Session as Chip Stocks Slump
   - [taiwan] Taiwan Semiconductor Manufacturing in charts: Advanced chips drive 79% of Q3 wafer revenue
   - [korea] SK hynix ties U.S. NAND factory to approval for more equipment at China fab - report
   - [taiwan] TSMC Chairman: No Ceiling for TSMC Profitability, But Dramatic Improvement Won't Happen Overnight
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] ByteDance taps MediaTek for custom data center chips - report
   - [korea] South Korean Won Falls Further on Tech Rout
   - [japan] Japan Industrial Output Falls More than Initially Anticipated
-  - [korea] Kospi crashes 8% as Samsung, SK hynix sink over 10%
-  - [korea] Stock Crash: SK Hynix plunges 57% from peak in four months, loses nearly $700 billion in value
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T06:32:43+00:00",
+      "published_utc": "2026-10-15T06:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
