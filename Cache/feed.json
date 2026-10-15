@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T09:32:44.463012+00:00",
- "collected_at_utc": "2026-10-15T09:32:44.463012+00:00",
+ "generated_at_utc": "2026-10-15T09:42:43.259858+00:00",
+ "collected_at_utc": "2026-10-15T09:42:43.259858+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1117,
+  "japan": 1118,
   "china": 842,
-  "taiwan": 315,
-  "korea": 726
+  "taiwan": 316,
+  "korea": 724
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T08:32:59+00:00"
+   "newest": "2026-10-14T03:39:39+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T09:16:54+00:00"
+   "newest": "2026-10-15T09:37:45+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T09:10:42+00:00"
+   "newest": "2026-10-15T09:37:11+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T09:00:31+00:00"
+   "newest": "2026-10-15T09:36:42+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T18:18:00+09:00"
+   "newest": "2026-10-15T18:38:02+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T08:08:11+00:00"
+   "newest": "2026-10-15T09:35:56+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T09:31:37+00:00"
+   "newest": "2026-10-15T09:41:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T05:50:49+00:00"
+   "newest": "2026-10-15T02:52:06+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T09:05:44+00:00"
+   "newest": "2026-10-15T09:36:04+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T08:42:49+00:00"
+   "newest": "2026-10-15T09:05:46+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Can TSMC earnings help settle AI jitters?",
+   "url": "https://www.investing.com/news/stock-market-news/can-tsmc-earnings-help-settle-ai-jitters-4950915",
+   "published_utc": "2026-10-15T09:37:45+00:00",
+   "title_original": "Can TSMC earnings help settle AI jitters?",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c476229240398946"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Yen price rises due to comments from Bank of Japan committee members",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261015de59986",
+   "published_utc": "2026-10-15T09:36:42+00:00",
+   "title_original": "円相場 値上がり 日銀委員の発言など受け",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "52b3a325b6a0ad92"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll",
+   "url": "https://www.investing.com/news/economy-news/china-q3-growth-set-to-pick-up-on-stimulus-keeping-2026-goal-within-reach-reuters-poll-4950895",
+   "published_utc": "2026-10-15T09:30:30+00:00",
+   "title_original": "China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0035373a3462c232"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -650,6 +702,24 @@
    "live_wire": false,
    "manual": false,
    "id": "dfc393bc45321e3c"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "Dollar slips despite hot U.S. CPI; yen firms on intervention warnings",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjJSSzZ3NU5ZYUk0S2NfTVc5TS05cDk1SXR0M1MtbWRPR2JTYVBLcnNZT0R4MmtvM2dlS29WM0hmX3dpSXBBSTlDODFtM0U5UGgwb3M4X1FiYVpaZ3JqQUdlVXRpbzJmTnpOMUtZMUJmWEdrNlBURWJUZ2p4Mnk4VnRIaHo4S092RUx3d0t3ZDYwdThkS1lqdUkxM2duRm80MUVMcUJtTnk5ZVFNakdWVVJpTmU?oc=5",
+   "published_utc": "2026-10-15T07:35:47+00:00",
+   "title_original": "Dollar slips despite hot U.S. CPI; yen firms on intervention warnings",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "447ad23b516bde94"
   },
   {
    "source_id": "korea_herald_biz",
@@ -2666,6 +2736,24 @@
    "id": "15190cc9686915d5"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vdEM2ZG5jUnVKQUw0bV95RVEtejZKaDJ6emhCeU1yQWtveXJlV29ONEdpSGpSQWNCbXAyenF2TVpEblZRUEVYQmhmbnRJa0F0NmNxMXJfajlPSzZqaFJDT25vUQ?oc=5",
+   "published_utc": "2026-10-14T18:05:45+00:00",
+   "title_original": "央行：10月15日将开展7000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "74aea4bbf244e2a0"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Sept. Exports Surge 36.3% Amid AI Boom, Auto Export Rush",
@@ -3406,24 +3494,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a7c3220a311ef267"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "经济观察网",
-   "title_en": "Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hQkoteHY1TmJDZkdVSy1qSFRzZ2tKZ0xETFVnNG9TaHVCb1hNUi1aV0FaenJCQmd4UkJ3SDZnM1BuRF9RWkt3ejFUS3BBT19MZDdJSUZoLXc?oc=5",
-   "published_utc": "2026-10-14T11:34:03+00:00",
-   "title_original": "央行：10月15日将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "01e196bac469036d"
   },
   {
    "source_id": "tradingview_live",
@@ -11323,8 +11393,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -11337,7 +11407,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b2b06943f64f97b"
+   "id": "eaba0bd888ebf1e3"
   },
   {
    "source_id": "tradingview_live",
@@ -23397,6 +23467,23 @@
    "id": "c40d4b61783a66e6"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFZaRkZzbGVWUGFEV1BMLThSMXVCY1F6V0h5dG9BWm1BWnRjTmpMZ09JY0FvTnVfQjhQMF9zNVZRQ2M5NE1fZG1TelNXYTRxblEtci1HeWNJbEY5eWdWTm4tMXF3OTdwTl9Udk5rRVVGbllnQVM4SkxVSFBvQXhzZXU3MDZMQnZZNjlpUEFHVXllQQ?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "title_original": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "71a3ae2c4c6b855d"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Minister of Administrative Reform Nakajima Autumn Review “Keeping in mind the creation of financial resources for consumption tax cuts”",
@@ -23813,23 +23900,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4559de3c933a2b7c"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFZaRkZzbGVWUGFEV1BMLThSMXVCY1F6V0h5dG9BWm1BWnRjTmpMZ09JY0FvTnVfQjhQMF9zNVZRQ2M5NE1fZG1TelNXYTRxblEtci1HeWNJbEY5eWdWTm4tMXF3OTdwTl9Udk5rRVVGbllnQVM4SkxVSFBvQXhzZXU3MDZMQnZZNjlpUEFHVXllQQ?oc=5",
-   "published_utc": "2026-10-02T03:47:33+00:00",
-   "title_original": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "71a3ae2c4c6b855d"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51860,76 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8463622c20bfa1f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Fed Rate Hike Heightens Pressure on BOJ to Be More Hawkish — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260916008898:0/",
-   "published_utc": "2026-09-17T01:21:00+00:00",
-   "title_original": "Fed Rate Hike Heightens Pressure on BOJ to Be More Hawkish — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0fccf1e6c520b403"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Hong Kong Leans Into Yuan Bond Boom as Debt Hub Rivalry Builds",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGptSE4tQnl4cmtfYWZmRGNRcFgxblZQSmlZSmxpOFVDUDhfVng2V1R5a29EOUhNNkdQazl5WTRHa2dSVENvbnVrelA0ZWl6SDZOTHRRbnl5UEpRS3Jfc3ViZ0NVdGZTMV85YmF3ems5cXlTT3BOcEJYLWZWS1FUUmhleUpzNTNVV3FPUTN4WF9uaVhFV0hzal9zcVpzSm5UWE5JdjB2Z3ZzVDBGR2hWeFFETQ?oc=5",
-   "published_utc": "2026-09-17T01:18:00+00:00",
-   "title_original": "Hong Kong Leans Into Yuan Bond Boom as Debt Hub Rivalry Builds",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b872e5b52da63b8f"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "SK Hynix stuck in ₩1,670K-₩1,888K range: Live levels",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-ichimoku-cloud-near-vwap-live-levels-93CH-4898785",
-   "published_utc": "2026-09-17T01:06:16+00:00",
-   "title_original": "SK Hynix stuck in ₩1,670K-₩1,888K range: Live levels",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "796460be6c1fa628"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "머니투데이",
-   "title_en": "Bank of Korea says, “Fed monetary policy will be tight… Close inspection of financial and foreign exchange markets” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaanVmNC13Z3JKNGdVWlB6aEM5X0Y1ZE5hbFdHQklWZmh0Vk13QTlTZTZtVnBBWUpPS2dTQWo5N2ZHLThxRFVjd0ZIbDlVREkzU1UxZU4wS0tzTUFCQjgyWmRZMzhGUDY1YUdN0gFwQVVfeXFMT0FsWm9SenNoY08wTGpNR3J4QjNuX3Z0QU1nMFJhb25iV0ozOThHVE1pQ3RtcDVXUVBxckp4VFJWei1SN21oXzZzU3Fha1o5aWs3TUFQR0lQaDFvZG95XzcwdUFXWl9Ya2RhQmxwYzk5dQ?oc=5",
-   "published_utc": "2026-09-17T01:05:36+00:00",
-   "title_original": "한은 \"연준 통화정책 긴축적일 것…금융·외환시장 면밀히 점검\" - 머니투데이",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f00eb6f141606ee9"
   },
   {
    "source_id": "manual_ia",

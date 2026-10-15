@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T09:32:44.463012+00:00
+Última coleta: 2026-10-15T09:42:43.259858+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1117
+  🇯🇵 Japão          1118
   🇨🇳 China          842
-  🇹🇼 Taiwan         315
-  🇰🇷 Coreia do Sul  726
+  🇹🇼 Taiwan         316
+  🇰🇷 Coreia do Sul  724
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Can TSMC earnings help settle AI jitters?
+  - [japan] Yen price rises due to comments from Bank of Japan committee members
+  - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll
   - [taiwan] TSMC Weighs Texas Expansion, Holds Talks on Musk's Terafab as AI Demand Outpaces Supply — Update
   - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach
   - [japan] Japan economy minister says nation no longer in deflation, seeks investor rethink
@@ -35,6 +38,7 @@ Total: 3000 manchetes
   - [taiwan] AI demand highlights Taiwan's semiconductor capabilities: Lai
   - [japan] Japan Industrial Output Falls More Than Estimated
   - [taiwan] TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable
+  - [japan] Dollar slips despite hot U.S. CPI; yen firms on intervention warnings
   - [korea] Kospi slides over 7% as chip stocks sink
   - [taiwan] TSMC's Q3 net profit hits new quarterly high
   - [taiwan] Earnings Snapshot: Taiwan Semiconductor Manufacturing tops Q3 estimates, gives Q4 revenue guidance above estim
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix ties U.S. NAND factory to approval for more equipment at China fab - report
   - [taiwan] TSMC Chairman: No Ceiling for TSMC Profitability, But Dramatic Improvement Won't Happen Overnight
   - [china] China launches large-scale economic stimulus package, despite sluggish domestic demand, fiscal support is "lim
-  - [taiwan] QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips
-  - [taiwan] Taiwan Semiconductor ADR earnings beat by $0.18, revenue topped estimates
-  - [taiwan] TSMC Raises 2026 Revenue Growth Forecast to Around 44%
-  - [taiwan] TSMC profit soars 69% in another record quarter fueled by AI boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T09:32:44+00:00",
+      "published_utc": "2026-10-15T09:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
