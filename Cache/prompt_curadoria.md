@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T13:32:44.209587+00:00
+Última coleta: 2026-10-15T13:42:43.535166+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1121
+  🇯🇵 Japão          1122
   🇨🇳 China          842
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  719
+  🇰🇷 Coreia do Sul  718
 
 ## O que já está no feed (não repita)
 
+  - [japan] India to overtake Japan as 4th-largest economy in 2027 with $4.52 trillion GDP: IMF
+  - [taiwan] Taiwan Semiconductor Posts Record Profit
   - [korea] Kospi crashes 8% as Samsung, SK hynix sink over 10%
   - [taiwan] TSMC's Q3 results, outlook pave path for 'banner year' in 2027: analysts
   - [japan] Japan tells G20 authorities must watch FX moves with high sense of urgency, finance minister says
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach
   - [japan] Japan economy minister says nation no longer in deflation, seeks investor rethink
   - [japan] What is the difference between Switzerland and America? “Japan’s price level” and the world’s real world (LIMO
-  - [taiwan] After Elon Musk’s Invitation, TSMC CEO Reportedly Says Open To Working On Terafab But Must Run It
-  - [taiwan] TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T13:32:44+00:00",
+      "published_utc": "2026-10-15T13:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
