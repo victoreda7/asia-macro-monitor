@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-15T08:02:42.500926+00:00",
- "collected_at_utc": "2026-10-15T08:02:42.500926+00:00",
+ "generated_at_utc": "2026-10-15T08:12:43.899681+00:00",
+ "collected_at_utc": "2026-10-15T08:12:43.899681+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1119,
-  "china": 841,
-  "taiwan": 309,
+  "japan": 1118,
+  "china": 840,
+  "taiwan": 311,
   "korea": 731
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.5,
  "sources": [
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -43,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T04:00:19+00:00"
+   "newest": "2026-10-15T07:50:31+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +160,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "parada desde 05/09/2026",
+   "newest": "2026-09-05T12:06:24+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +195,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T16:49:09+09:00"
+   "newest": "2026-10-15T17:10:24+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +251,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T05:24:01+00:00"
+   "newest": "2026-10-15T08:08:11+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +275,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T08:01:51+00:00"
+   "newest": "2026-10-15T08:11:38+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -276,14 +284,6 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-15T02:52:06+00:00"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-10T08:48:00+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T07:30:47+00:00"
+   "newest": "2026-10-14T05:03:08+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "ShareCast",
+   "title_en": "TSMC beats forecasts as quarterly sales, profits soar",
+   "url": "https://www.tradingview.com/news/sharecast:a993a3ae2094b:0-tsmc-beats-forecasts-as-quarterly-sales-profits-soar/",
+   "published_utc": "2026-10-15T08:06:53+00:00",
+   "title_original": "TSMC beats forecasts as quarterly sales, profits soar",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "75c6e4c29aa6757f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea, Japan agree to extend $10 billion currency swap",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44S02H:0-south-korea-japan-agree-to-extend-10-billion-currency-swap/",
+   "published_utc": "2026-10-15T08:02:08+00:00",
+   "title_original": "South Korea, Japan agree to extend $10 billion currency swap",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "08bbf99c3dd11bd3"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -359,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "bf3e25a67a14774c"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlNsUG41RWRYNzFCcG1SZnBOblhubjhhb1pGazQzcnE2T2hjVTk3bFZjbmRBLWEtVjBvR2tvRGJtbTBQbFc3eUcwcjhsVWJhakZiUG94a3FmMlZ3NjRGN0pPQVI1Tmppb3ZhRk0yc2RoV19va1Z3SWpHSFEwcm56TVJzXzd0TUlVZnVmaWthckdzNjByUi1R?oc=5",
+   "published_utc": "2026-10-15T07:50:31+00:00",
+   "title_original": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dfc393bc45321e3c"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1202,40 +1253,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5512fec210d60cb0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korean Won Falls Further on Tech Rout",
-   "url": "https://www.tradingview.com/news/te_news:592182:0-south-korean-won-falls-further-on-tech-rout/",
-   "published_utc": "2026-10-15T04:43:54+00:00",
-   "title_original": "South Korean Won Falls Further on Tech Rout",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "767117973ffb6143"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Industrial Output Falls More than Initially Anticipated",
-   "url": "https://www.tradingview.com/news/te_news:592180:0-japan-industrial-output-falls-more-than-initially-anticipated/",
-   "published_utc": "2026-10-15T04:41:07+00:00",
-   "title_original": "Japan Industrial Output Falls More than Initially Anticipated",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f4e140040a29c1d9"
   },
   {
    "source_id": "korea_herald_biz",
@@ -10009,7 +10026,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "S. Korea likely to continue solid growth driven by robust chip exports",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHTF9tV05XUkx5WFZrVTI2Tlo5aFItTDRwZC1aR3YwYnl3REVtdmtraUctMzVYcnNkUF9GMXpqbUhqNkFVOVlWYlAyWnBQZjJSSWhucVRxa1NMMmNJMU1RY0dnWEs?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hM3JsX0hHcU9CUGJ6eDdqbGJnQVpIMXg2NlB5Q3BXLWNIZHhVREJLZFNkbFJENWFlVnhfUnhBMmtPZUZaZ3pzSWpXaVN1clEweW9zMng4aFFwdw?oc=5",
    "published_utc": "2026-10-12T01:37:24+00:00",
    "title_original": "S. Korea likely to continue solid growth driven by robust chip exports",
    "region": "korea",
@@ -10021,7 +10038,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "8abff2b872906bf2"
+   "id": "eb490152b0bc542e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -11096,8 +11113,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -11110,7 +11127,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -51909,23 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "eec08c608fb4d4b7"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "China pushes back against US sanctions bill targeting Russia’s top energy buyers",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV0xaZ3d0ajUyQUY0OFNpTFZmV1IxVjJSZ0ZxMFItS2Q1SnhuTGNPOTFQS2s0Qmx4eGZETk9YaU5xaTBnejBTUHFMbDlBekU5S29HQ2pJQ0xtTkZ4ZEdFb1RTblUzclJjRGFURTFLdGJFNnVpTHNMOW9mUkdrZ3FZdTBudGlpWW95NGZCeGtJbC1NQlhKTThZTU90TW9uZlU2SmFHZm53V21qQnVMbWU1cm5LT29DSkNldF90WkNBYW5HWldFTE81bDVTbzhhZUVLb1FRM1FkVm9RaUtEZ3RuTtIB4AFBVV95cUxQcHZGbDJZdWNhYjdvaVVNMTc5MTNRdG1hUlJzRFBSaFlPZDVkVGNjUTd3ZUtZbkRfOGRwbExsc2s0SnREZGZqV1gxbzEwRkZrbm8teHlpVTBnbnFWYUxiNDU2ekxKTGdjOFJsU0E3SFpwUlZsYkVoanA0UUpqZ1RWUmRSWFMzNURUNjBqT0ZFZFZxMkp2VFAwal9KN19MLXhUdWJMOUVBb2hWMldxMXVXNmpLZWlZODNIMzY5c0FmVzFtN09tMy1sV212N2hfcWhVUnRvbU5uT0lyZktOMU4xWA?oc=5",
-   "published_utc": "2026-09-16T22:50:16+00:00",
-   "title_original": "China pushes back against US sanctions bill targeting Russia’s top energy buyers",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "71bf5f0f77770c19"
   },
   {
    "source_id": "manual_ia",

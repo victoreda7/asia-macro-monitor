@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T08:02:42.500926+00:00
+Última coleta: 2026-10-15T08:12:43.899681+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1119
-  🇨🇳 China          841
-  🇹🇼 Taiwan         309
+  🇯🇵 Japão          1118
+  🇨🇳 China          840
+  🇹🇼 Taiwan         311
   🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC beats forecasts as quarterly sales, profits soar
+  - [korea] South Korea, Japan agree to extend $10 billion currency swap
   - [japan] Japan Industrial Output Falls More Than Estimated
+  - [taiwan] TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable
   - [korea] Kospi slides over 7% as chip stocks sink
   - [taiwan] Earnings Snapshot: Taiwan Semiconductor Manufacturing tops Q3 estimates, gives Q4 revenue guidance above estim
   - [japan] Japan futures fall as Tokyo equities slump, China imports weaken
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Lucro da TSMC no terceiro trimestre salta 69%, atingindo um recorde e superando as expectativas
   - [taiwan] TSMC 3Q Revenue From Internet of Things Rose 5% on Quarter >2330.TW
   - [korea] Samsung's top brass converge in Tokyo as Japan chip ties deepen
-  - [taiwan] TSMC 3Q Revenue From High Performance Computing Up 22% on Quarter >2330.TW
-  - [taiwan] TSMC 3Q Gross Margin 66.4%, Up 6.9 Pct Pt on Year >2330.TW
-  - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Net Profit Beat TWD731.77B Expected in a FactSet Poll >2330.TW
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T08:02:42+00:00",
+      "published_utc": "2026-10-15T08:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
