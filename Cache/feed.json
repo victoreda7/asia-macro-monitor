@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T07:02:43.217088+00:00",
- "collected_at_utc": "2026-10-15T07:02:43.217088+00:00",
+ "generated_at_utc": "2026-10-15T07:12:42.799640+00:00",
+ "collected_at_utc": "2026-10-15T07:12:42.799640+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1117,
+  "japan": 1118,
   "china": 843,
   "taiwan": 307,
-  "korea": 733
+  "korea": 732
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T06:40:09+00:00"
+   "newest": "2026-10-15T07:06:26+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T04:27:53+00:00"
+   "newest": "2026-10-15T07:06:26+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T14:17:31+00:00"
+   "newest": "2026-10-15T16:08:39+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T15:07:43+09:00"
+   "newest": "2026-10-15T16:01:23+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:43:00+00:00"
+   "newest": "2026-10-15T04:04:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T21:30:06+00:00"
+   "newest": "2026-10-15T06:48:21+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T07:01:00+00:00"
+   "newest": "2026-10-15T07:10:58+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,42 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Seoul shares crash over 7% on chip rout amid AI, inflation woes",
+   "url": "https://www.koreaherald.com/article/10904056",
+   "published_utc": "2026-10-15T07:12:41.253790+00:00",
+   "title_original": "Seoul shares crash over 7% on chip rout amid AI, inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6265e435e7d8e490"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Wall St futures drop as hot CPI revives Fed hike concerns; TSMC results in focus",
+   "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
+   "published_utc": "2026-10-15T07:00:33+00:00",
+   "title_original": "Wall St futures drop as hot CPI revives Fed hike concerns; TSMC results in focus",
+   "region": "taiwan",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "02096fe335677394"
+  },
   {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
@@ -1799,6 +1835,23 @@
    "id": "4396acd5a6e1b40f"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFBHMlJGT29yUlFPTXdnR3FvOFhJQ3VxRFdOZ2QyRFljTlh4cGVoTDgwTmowd0l0cFctalZYWHA5eEdzQy1tSHVrQTUtTVhlNEY3LTBIWmlKYy1nSXZjRjJoZjN5cjNMR01xMEt1MFFLQmRUeWJhUC1CVkthTTdENV8tdXN1aXMwcWFFX2JDX3o2X1cwZXhLOTRUMFU1R1BfODNKa090UlU4bUxkLUU4OTBB?oc=5",
+   "published_utc": "2026-10-15T01:11:00+00:00",
+   "title_original": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f4919285abe22a94"
+  },
+  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Summary of the \"Meeting on Market Operations\" (October 2026)",
@@ -1832,23 +1885,6 @@
    "live_wire": false,
    "manual": false,
    "id": "324e9949a08f3758"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFBHMlJGT29yUlFPTXdnR3FvOFhJQ3VxRFdOZ2QyRFljTlh4cGVoTDgwTmowd0l0cFctalZYWHA5eEdzQy1tSHVrQTUtTVhlNEY3LTBIWmlKYy1nSXZjRjJoZjN5cjNMR01xMEt1MFFLQmRUeWJhUC1CVkthTTdENV8tdXN1aXMwcWFFX2JDX3o2X1cwZXhLOTRUMFU1R1BfODNKa090UlU4bUxkLUU4OTBB?oc=5",
-   "published_utc": "2026-10-15T00:53:00+00:00",
-   "title_original": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f4919285abe22a94"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2956,6 +2992,23 @@
    "live_wire": true,
    "manual": false,
    "id": "0e07223ddf54e34e"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZjM3SC1iaHFNLTdkS2N5U3JVS3lMR0p4Q1ZTclVOa2RDbFpzR2E3R2I5UlFlYWlsWHJfeGlKSEpockRseEpCTGpsNFAzanBPUkVVa3FiUFNVeVZ3S0daZ2JRWGc3Zy04RmFSbFRHeU5kRy1HaGJ2ZmViUHlfYk5CN0xYMEhXb250eE41clpvVHF1RDhIRWF4Z1p0NS1rQmVtbjFNc2FjMzVTaTlvM24weWtzS1V4M1RVdHpXWVNCU2REdDVkd2FwZWQ1V1kxZUZU?oc=5",
+   "published_utc": "2026-10-14T12:30:00+00:00",
+   "title_original": "Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b074e4d60034750e"
   },
   {
    "source_id": "focus_taiwan",
@@ -11955,8 +12008,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -11970,7 +12023,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -51875,57 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a76c01fe3025b7c8"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVBYUDM0azJaTVZjVHAzbUtkOVBWLWpZYnptZFZ4S0x0dHpkS1lXVFM2SnJtX0F0Ull5OXdJUkdiNXdUZTNQamM0S3NoeFRxdTdFVmFWWi00cVJ6YXQxTDFTQlBmc0FsS3l5SHJ5VnZpOVplcllLVk04dy1YS2cwUDdMWEY5RzZWN3JTU2luOXJ4NUt3NzkyREJSUVlMSFJBcFpMcHprUjVsM2J3WGg1NUI5NjZrZDBHUGZiNnJGZUtvZThlTk9jWmRSaVZpUQ?oc=5",
-   "published_utc": "2026-09-16T22:02:53+00:00",
-   "title_original": "Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ca3c37faa07d1ec8"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "조선일보",
-   "title_en": "US raises interest rates for the first time in 3 years... 5 things Koreans need to know",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX19hUk9LSUdFUFZxd1QxNVFVNXJOa3pzZ1F0WXkxQWlFc09IM25Pd1lPcE1DSk5RcnFRZ25WeUlycW1IWDdUYjF5TUFRREpLRUlJNlB5cEhVUjZ6amMzR0ZaOFhPQjk1ZDRVS1A5dm5BMVdfbm9wYU80ODE0bXAydHdZTGJEMVdy?oc=5",
-   "published_utc": "2026-09-16T21:43:00+00:00",
-   "title_original": "美, 3년만에 기준금리 인상... 한국인이 알아야 할 5가지",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "010670705cedab8f"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "마켓인",
-   "title_en": "Participating in the US interest rate hike process... The Bank of Korea's tightening watch was posted first.",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDWmFQSVo2RVdJWkRSOG1yOHFRdlRlUnluM1pnM2VCV2lwTVdScEJtT3Ryb3M1WHU4R0lkQ25yUEo1Mjg4M3BMMFhQMWFXaHpMcDlyd3pjQTdNVms4aDMtbXhXSV90aVJCT2dXaWlsZDAzbHM?oc=5",
-   "published_utc": "2026-09-16T21:32:55+00:00",
-   "title_original": "美 금리인상 행렬 동참…먼저 올린 한은의 긴축 시계는",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0133f41d86e5a32c"
   },
   {
    "source_id": "manual_ia",
