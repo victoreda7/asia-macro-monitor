@@ -7,26 +7,30 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T04:02:45.404667+00:00
+Última coleta: 2026-10-15T04:12:42.885657+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1122
-  🇨🇳 China          846
+  🇯🇵 Japão          1123
+  🇨🇳 China          847
   🇹🇼 Taiwan         291
-  🇰🇷 Coreia do Sul  741
+  🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
-  - [korea] Bank of Korea maintains austerity stance… Attention to further increase in base interest rate on the 22nd amid
+  - [china] EU leaders to tackle China exports, energy prices, budget at summit
+  - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com
+  - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan
+  - [taiwan] Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem
   - [china] IMF urges China to deploy bigger fiscal stimulus
+  - [korea] Bank of Korea maintains austerity stance… Attention to further increase in base interest rate on the 22nd amid
   - [korea] SKHY Tracks Worst Month Since Nasdaq Debut: SK Hynix Reportedly Wants To Ship More Chip Tools To China Before 
   - [korea] SK Hynix seeks U.S. chip equipment exports to China tied to new factory - Reuters
   - [japan] Japan's Nikkei plunges as tech stocks hammered by AI, rate hike worries
   - [japan] Don't be overly cautious about interest rate hikes: ``The risk of price rises is commensurate with the risks.'
   - [china] Offshore Yuan Lingers Near 2022 High
-  - [taiwan] ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports
   - [china] The central bank launched a 45 billion yuan seven-day reverse repurchase operation with an interest rate of 1.
   - [china] Hong Kong's sole yuan clearing bank plans mainland NCD issuance
+  - [taiwan] ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports
   - [japan] Yen Gains Amid Fresh Verbal Warning
   - [japan] Asia stocks slump as chip rout deepens after hotter U.S. inflation
   - [korea] Asia stocks tumble, S.Korea’s KOSPI slumps 7% on chip rout, Fed rate fears
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan member says there is "no need to be cautious" in raising interest rates (Kyodo News)
   - [japan] BOJ should not be overly cautious raising rates, board member Koeda says
   - [china] CHINA PBOC CONDUCTS CNY45 BLN VIA 7-DAY REVERSE REPO THURS
-  - [korea] Korean memory makers accept ASML parts price hike, leaving TSMC as the open question
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7253 THURS VS 6.7249
-  - [korea] Samsung Electronics Co. was counted as the largest net purchase by high-yield investors of Mirae Ass..
-  - [japan] Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T04:02:45+00:00",
+      "published_utc": "2026-10-15T04:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
