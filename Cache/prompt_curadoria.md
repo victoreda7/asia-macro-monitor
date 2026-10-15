@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T01:43:45.715821+00:00
+Última coleta: 2026-10-15T01:52:42.627825+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1121
+  🇯🇵 Japão          1122
   🇨🇳 China          852
-  🇹🇼 Taiwan         294
+  🇹🇼 Taiwan         293
   🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
   - [china] CHINA PBOC CONDUCTS CNY45 BLN VIA 7-DAY REVERSE REPO THURS
+  - [japan] BOJ should not be overly cautious raising rates, board member Koeda says
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7253 THURS VS 6.7249
+  - [korea] Samsung Electronics Co. was counted as the largest net purchase by high-yield investors of Mirae Ass..
   - [japan] Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)
   - [japan] Japan futures fall as Tokyo equities slump, China imports weaken
   - [korea] Hot US inflation hammers Kospi nearly 6% lower as chips buckle
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Sept. Exports Surge 36% Amid AI Boom, Auto Export Rush
   - [korea] South Korean minister rejects claim of W80b wasted on Brazilian egg imports
   - [japan] PRES TRUMP POSTS: 'MASSIVE; $21 BLN INVESTMENT FINANCED BY JAPAN, SKOREA, TAIWAN TO BUILD TWO SEMICONDUCTOR FA
-  - [taiwan] TSMC Earnings Will Surge but Terafab and Texas Talks Are in Focus — Barrons.com
-  - [taiwan] Thursday preview: TSMC results, UK GDP in focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T01:43:45+00:00",
+      "published_utc": "2026-10-15T01:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
