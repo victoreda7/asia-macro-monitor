@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T14:42:44.475965+00:00",
- "collected_at_utc": "2026-10-15T14:42:44.475965+00:00",
+ "generated_at_utc": "2026-10-15T14:52:47.966764+00:00",
+ "collected_at_utc": "2026-10-15T14:52:47.966764+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1122,
-  "china": 844,
+  "japan": 1121,
+  "china": 845,
   "taiwan": 319,
   "korea": 715
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T10:00:09+00:00"
+   "newest": "2026-10-15T14:10:35+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T14:17:49+00:00"
+   "newest": "2026-10-15T14:40:34+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T14:10:25+00:00"
+   "newest": "2026-10-15T14:40:34+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T14:00:05+00:00"
+   "newest": "2026-10-15T14:50:07+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T14:31:25+00:00"
+   "newest": "2026-10-15T14:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T12:59:16+00:00"
+   "newest": "2026-10-15T03:47:18+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,41 @@
  ],
  "items": [
   {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Mazda brings part of its supply chain back to Japan with help from robots",
+   "url": "https://asia.nikkei.com/business/automobiles/mazda-brings-part-of-its-supply-chain-back-to-japan-with-help-from-robots",
+   "published_utc": "2026-10-15T14:52:47.615684+00:00",
+   "title_original": "Mazda brings part of its supply chain back to Japan with help from robots",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d6d18be7dac50d29"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Further Possible BOJ Tightening Could Lift Japanese Yen — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261015005508:0-further-possible-boj-tightening-could-lift-japanese-yen-market-talk/",
+   "published_utc": "2026-10-15T14:47:00+00:00",
+   "title_original": "Further Possible BOJ Tightening Could Lift Japanese Yen — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9e18bcfc79640748"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com",
@@ -376,6 +411,23 @@
    "live_wire": true,
    "manual": false,
    "id": "8e321f8fc398b0c9"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "France and Germany to allow UK in EU car policy if it aligns on China tariffs",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM3FCN0doMkY2S3lmdm1WWWI5aUZ4emIyZzBCYTlsdW54VkVjQWozNWtJQmdRWkYxd1EyM2lweFU5clZaamdDZURaQjk5YUZiamFSMXVJNTI3aGN4a3RPRGItdDRIdDlqa3Y2TTlkRUhabUEtYl9Vam1IeDFCN1gwM2pPYlY?oc=5",
+   "published_utc": "2026-10-15T14:10:35+00:00",
+   "title_original": "France and Germany to allow UK in EU car policy if it aligns on China tariffs",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "86092c9e86c82673"
   },
   {
    "source_id": "tradingview_live",
@@ -1604,23 +1656,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4be73cd566ce766b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's Nikkei slumps 5% as tech stocks hammered by AI, rate hike worries",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46106M:0-japan-s-nikkei-slumps-5-as-tech-stocks-hammered-by-ai-rate-hike-worries/",
-   "published_utc": "2026-10-15T06:48:13+00:00",
-   "title_original": "Japan's Nikkei slumps 5% as tech stocks hammered by AI, rate hike worries",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d44abe54912de5c5"
   },
   {
    "source_id": "nikkei_asia",
@@ -51896,40 +51931,6 @@
    "live_wire": false,
    "manual": false,
    "id": "165db8d7c4c68f37"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan vows effort to maintain orderly yen moves",
-   "url": "https://www.investing.com/news/economy-news/japan-vows-effort-to-maintain-orderly-yen-moves-4904825",
-   "published_utc": "2026-09-17T06:18:52+00:00",
-   "title_original": "Japan vows effort to maintain orderly yen moves",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "229c1825c34ffa0d"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Hawkish Fed lifts dollar to seven-week high; markets brace for BOE, BOJ",
-   "url": "https://www.investing.com/news/economy-news/hawkish-fed-lifts-dollar-to-sevenweek-high-as-focus-turn-to-boj-4904757",
-   "published_utc": "2026-09-17T06:00:31+00:00",
-   "title_original": "Hawkish Fed lifts dollar to seven-week high; markets brace for BOE, BOJ",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2617012eb1f27c1b"
   },
   {
    "source_id": "manual_ia",

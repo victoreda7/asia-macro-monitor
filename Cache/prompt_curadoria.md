@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T14:42:44.475965+00:00
+Última coleta: 2026-10-15T14:52:47.966764+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1122
-  🇨🇳 China          844
+  🇯🇵 Japão          1121
+  🇨🇳 China          845
   🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
+  - [japan] Mazda brings part of its supply chain back to Japan with help from robots
+  - [japan] Further Possible BOJ Tightening Could Lift Japanese Yen — Market Talk
   - [taiwan] TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com
   - [korea] Why is SK hynix ADR stock sliding today?
+  - [china] France and Germany to allow UK in EU car policy if it aligns on China tariffs
   - [taiwan] CoreWeave, TSMC, FMC, Rocket Lab, Schwab, and More Stocks That Explain Today's Market — Barrons.com
   - [china] Blast simulation, university probes, robotics fine, AI spies: 7 US-China relations reads
   - [japan] Japan’s Katayama Renews FX Warnings After US CPI Heats Up
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC revenue rises 41% as AI chip demand drives growth
   - [japan] Policymaker: BOJ shouldn't be too cautious raising rates
   - [taiwan] Can TSMC earnings help settle AI jitters?
-  - [japan] Yen price rises due to comments from Bank of Japan committee members
-  - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll
-  - [china] Central Bank: Will launch 700 billion yuan buyout reverse repurchase operation on October 15 | People's Bank o
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T14:42:44+00:00",
+      "published_utc": "2026-10-15T14:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
