@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T06:12:42.450440+00:00
+Última coleta: 2026-10-15T06:22:48.223891+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1121
+  🇯🇵 Japão          1120
   🇨🇳 China          844
-  🇹🇼 Taiwan         300
+  🇹🇼 Taiwan         301
   🇰🇷 Coreia do Sul  735
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips
+  - [taiwan] TSMC Raises 2026 Revenue Growth Forecast to Around 44%
   - [taiwan] TSMC profit soars 69% in another record quarter fueled by AI boom
   - [taiwan] TSMC Reiterates 2026 Capex Between US$60B-US$64B
   - [taiwan] TSMC Expects 4Q Revenue Between US$52.3B-US$54.3B
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China stocks fall, led by tech, as US inflation stokes Fed fears
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 592032.26, Implies 89% Upside
   - [china] China's Export Surge Creates Winners as Well as Losers in Asia — Market Talk
-  - [korea] Won-Yen Divergence May Likely Be Due to Chip Demand Boom — Market Talk
-  - [japan] Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T06:12:42+00:00",
+      "published_utc": "2026-10-15T06:22:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

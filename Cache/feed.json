@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-15T06:12:42.450440+00:00",
- "collected_at_utc": "2026-10-15T06:12:42.450440+00:00",
+ "generated_at_utc": "2026-10-15T06:22:48.223891+00:00",
+ "collected_at_utc": "2026-10-15T06:22:48.223891+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1121,
+  "japan": 1120,
   "china": 844,
-  "taiwan": 300,
+  "taiwan": 301,
   "korea": 735
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.8,
  "sources": [
+  {
+   "source_id": "gn_kr_bok",
+   "name": "한국은행",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -51,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T05:03:45+00:00"
+   "newest": "2026-10-15T01:44:46+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -139,7 +147,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T14:49:21+00:00"
+   "newest": "2026-10-15T15:21:05+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -203,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:05:48+00:00"
+   "newest": "2026-10-15T03:11:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +275,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T06:12:00+00:00"
+   "newest": "2026-10-15T06:22:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +299,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T05:57:02+00:00"
+   "newest": "2026-10-15T06:16:45+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T00:28:47+00:00"
+   "newest": "2026-10-15T03:01:30+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -332,17 +340,45 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-15T05:45:27+00:00"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "name": "한국은행",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-15T03:48:05+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
+   "url": "https://www.tradingview.com/news/stocktwits:53655825c094b:0-qcom-avgo-nvda-stocks-in-focus-as-bytedance-reportedly-closes-in-on-a-mediatek-pact-for-ai-data-center-chips/",
+   "published_utc": "2026-10-15T06:16:06+00:00",
+   "title_original": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "522e47a78ca2035f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Raises 2026 Revenue Growth Forecast to Around 44%",
+   "url": "https://www.tradingview.com/news/DJN_DN20261015001009_20261015001052:0-tsmc-raises-2026-revenue-growth-forecast-to-around-44/",
+   "published_utc": "2026-10-15T06:13:00+00:00",
+   "title_original": "TSMC Raises 2026 Revenue Growth Forecast to Around 44%",
+   "region": "taiwan",
+   "topics": [
+    "activity",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "427cf398e97af01c"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1239,40 +1275,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e2f976c006316d4e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46106P:0-bytedance-nears-chip-supply-deal-with-mediatek-for-data-centres-bloomberg-news-reports/",
-   "published_utc": "2026-10-15T03:00:19+00:00",
-   "title_original": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ff0b2937a58027ee"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Yen Gains Amid Fresh Verbal Warning",
-   "url": "https://www.tradingview.com/news/te_news:592143:0-yen-gains-amid-fresh-verbal-warning/",
-   "published_utc": "2026-10-15T02:57:40+00:00",
-   "title_original": "Yen Gains Amid Fresh Verbal Warning",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a458ead13f08f07d"
   },
   {
    "source_id": "gn_jp_investing",
@@ -7129,7 +7131,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Seoul shares open sharply lower on U.S. losses, inflation concerns",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWHc5bGxya1RxVV9tYlN4VkZINHRveE41SE5UemRLbmN1YzNoLThTVVRsbmNtek83VUFraDRHQ2dYNFpLLUJIOHhoOFpnTFY5bkZrR05wSEQ1R3pSS1o2TzJXLUtGbDFjTmdWWGpuLXdfa1E2eWdtTTdxQ1J6d19aMGtnNi0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SNnJRR2QxbE5jLTJXVTNIaFVmYy1ueEF1eTNSQ28wOG12bUdOLUl6R1J0SjF0RVk5TjFtZWpUTndQZXZwSC1SNUE1NHItczQzY2ZUeWEwRjZoUQ?oc=5",
    "published_utc": "2026-10-13T00:21:29+00:00",
    "title_original": "(LEAD) Seoul shares open sharply lower on U.S. losses, inflation concerns",
    "region": "korea",
@@ -7140,7 +7142,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "49b12f800c2d0c85"
+   "id": "2bba2ce52a36f5ab"
   },
   {
    "source_id": "gn_tw_digitimes",
