@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T21:12:44.617534+00:00
+Última coleta: 2026-10-15T21:22:42.937607+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1120
-  🇨🇳 China          843
+  🇯🇵 Japão          1119
+  🇨🇳 China          844
   🇹🇼 Taiwan         325
   🇰🇷 Coreia do Sul  712
 
@@ -19,10 +19,12 @@ Total: 3000 manchetes
 
   - [japan] First-class Shine Muscat is sold for "only 300 yen"...A "super diversified company in Okayama" that has been i
   - [japan] US year-end sales forecast for 4% increase as inflation drives people to save money
+  - [korea] [Editorial] Chip vulnerability
   - [taiwan] 2330 Stock 12‑Month Price Target Raised to TWD 3359.94, Implies 35% Upside
   - [china] China central bank chief urges broader view on global imbalances
   - [taiwan] TSMC's net profit hits record in third quarter
   - [china] China bought half of Brazil’s oil exports as Iran war shut Hormuz, driving sales to record
+  - [china] EU Beefs Up Trade Arsenal With Powers to Block China Imports
   - [japan] Finance Minister Katayama agrees to extend Japan-Korea currency swap
   - [korea] SK Hynix stock: Up big in H1, down 58% from peak in H2 - is the AI boom losing steam?
   - [taiwan] TSMC earnings analysis: questions answered and next catalysts
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar retreats from 18-month peaks despite hotter U.S. producer prices
   - [japan] EQT agrees to buy US real estate manager Stockbridge for $375 million
   - [japan] Japan tells G20 authorities must watch FX moves with high sense of urgency, finance minister says
-  - [china] The central bank launched a 700 billion yuan buyout reverse repo to increase liquidity support in the fourth q
-  - [taiwan] Taiwan Semiconductor Manufacturing Company Limited reports results for the quarter ended September 30 - Earnin
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T21:12:44+00:00",
+      "published_utc": "2026-10-15T21:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
