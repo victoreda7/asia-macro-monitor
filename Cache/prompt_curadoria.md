@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T07:12:42.799640+00:00
+Última coleta: 2026-10-15T07:14:40.152784+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1118
+  🇯🇵 Japão          1119
   🇨🇳 China          843
   🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
   - [korea] Seoul shares crash over 7% on chip rout amid AI, inflation woes
+  - [japan] ``Don't be overly cautious about raising interest rates'', Bank of Japan's Councilor Koeda gives speech (Asahi
   - [taiwan] Wall St futures drop as hot CPI revives Fed hike concerns; TSMC results in focus
   - [japan] TSE closing price 3318 yen lower, third largest decline
   - [china] China long-dated bond yields hit 15-month low as PBOC keeps cash flowing
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] This Chinese export boom really has legs – and wings
   - [japan] Bank of Japan member Koeda: ``We won't be overly cautious about raising interest rates.''
   - [japan] Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York By Reuters
-  - [korea] SK Hynix, Samsung fall as market fears higher rates could curb AI expansion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T07:12:43+00:00",
+      "published_utc": "2026-10-15T07:14:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
