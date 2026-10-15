@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T07:22:47.598720+00:00
+Última coleta: 2026-10-15T07:32:44.333480+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1119
-  🇨🇳 China          843
-  🇹🇼 Taiwan         307
-  🇰🇷 Coreia do Sul  731
+  🇯🇵 Japão          1118
+  🇨🇳 China          841
+  🇹🇼 Taiwan         309
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi slides over 7% as chip stocks sink
+  - [taiwan] Earnings Snapshot: Taiwan Semiconductor Manufacturing tops Q3 estimates, gives Q4 revenue guidance above estim
+  - [japan] Japan futures fall as Tokyo equities slump, China imports weaken
+  - [taiwan] Earnings call transcript: TSMC beats Q3 2026 estimates as stock slips
   - [korea] Seoul shares crash over 7% on chip rout amid AI, inflation woes
   - [japan] ``Don't be overly cautious about raising interest rates'', Bank of Japan's Councilor Koeda gives speech (Asahi
   - [taiwan] Wall St futures drop as hot CPI revives Fed hike concerns; TSMC results in focus
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Net Profit Beat TWD731.77B Expected in a FactSet Poll >2330.TW
   - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Rev TWD1.494T Vs. TWD989.92B >2330.TW
   - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Net TWD763.1B >2330.TW
-  - [china] EU leaders to tackle China exports, energy prices, budget at summit
-  - [china] This Chinese export boom really has legs – and wings
-  - [japan] Bank of Japan member Koeda: ``We won't be overly cautious about raising interest rates.''
-  - [japan] Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York By Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T07:22:47+00:00",
+      "published_utc": "2026-10-15T07:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
