@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T13:52:45.802064+00:00
+Última coleta: 2026-10-15T14:02:46.076835+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1122
-  🇨🇳 China          843
+  🇨🇳 China          844
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  717
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [china] Blast simulation, university probes, robotics fine, AI spies: 7 US-China relations reads
   - [japan] India to overtake Japan as 4th-largest economy in 2027 with $4.52 trillion GDP: IMF
   - [taiwan] Taiwan Semiconductor Posts Record Profit
   - [korea] Kospi crashes 8% as Samsung, SK hynix sink over 10%
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC raises 2026 sales growth forecast to 44%, leaves capex unchanged
   - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach
   - [japan] Japan economy minister says nation no longer in deflation, seeks investor rethink
-  - [japan] What is the difference between Switzerland and America? “Japan’s price level” and the world’s real world (LIMO
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T13:52:46+00:00",
+      "published_utc": "2026-10-15T14:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

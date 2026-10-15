@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T13:52:45.802064+00:00",
- "collected_at_utc": "2026-10-15T13:52:45.802064+00:00",
+ "generated_at_utc": "2026-10-15T14:02:46.076835+00:00",
+ "collected_at_utc": "2026-10-15T14:02:46.076835+00:00",
  "degraded": false,
  "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1122,
-  "china": 843,
+  "china": 844,
   "taiwan": 318,
-  "korea": 717
+  "korea": 716
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "nikkei_asia",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T13:26:54+00:00"
+   "newest": "2026-10-15T13:50:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T13:24:33+00:00"
+   "newest": "2026-10-15T13:48:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -107,7 +107,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T11:10:00+00:00"
+   "newest": "2026-10-15T13:50:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T13:23:55+00:00"
+   "newest": "2026-10-15T13:58:41+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -160,10 +160,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 05/09/2026",
-   "newest": "2026-09-05T12:06:24+00:00"
+   "error": "",
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T22:23:00+09:00"
+   "newest": "2026-10-15T22:53:05+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:05:48+00:00"
+   "newest": "2026-10-15T09:26:44+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T10:00:02+00:00"
+   "newest": "2026-10-15T10:52:58+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T12:30:13+00:00"
+   "newest": "2026-10-15T14:00:05+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T13:51:51+00:00"
+   "newest": "2026-10-15T14:01:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T08:00:01+00:00"
+   "newest": "2026-10-15T06:48:34+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "Blast simulation, university probes, robotics fine, AI spies: 7 US-China relations reads",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3370921/blast-simulation-university-probes-robotics-fine-ai-spies-7-us-china-relations-reads?utm_source=rss_feed",
+   "published_utc": "2026-10-15T14:00:05+00:00",
+   "title_original": "Blast simulation, university probes, robotics fine, AI spies: 7 US-China relations reads",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "40f7811756168cf9"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Mint",
@@ -2082,9 +2099,9 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Don't be overly cautious about interest rate hikes: ``The risk of price rises is commensurate with the risks.'' Bank of Japan Council Member Koeda (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RN0I4TThxQWlUTXBGVXZPQnA4bEJKUmE4dmRKcXc0WXVsdFdfZEJtSVdkYWwzanVhc3dyV2hyNUVrYUE2aFZzRlJVaTlhVzNmc19HZ0NFSkJQc0U2QllKY3dPMllfUEhlY2pCRm1sQnVDTmZJUHJEQ1lpNWYzek0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbi0tZUpnSzRqekZhV05TdU9qcDd2bkV5ckN6N2g2RktsN1V5WEhJRDR2R251aDVSQm1DbU9rNHlTWlc1R09hMklPU1VTTGFCbldQaFI1eXNRSHFhWkpGdUpteWhrRUJuVjVtbEpYUFRCWjBab1VWTW1pZm5IbHFfY1YtY0JZT0hNZE1BeW5B?oc=5",
    "published_utc": "2026-10-15T03:12:40+00:00",
-   "title_original": "利上げ、過度に慎重にならず 「物価上昇リスク相応にある」 小枝日銀審議委員（時事通信）",
+   "title_original": "利上げ、過度に慎重にならず 「物価上昇リスク相応にある」 小枝日銀審議委員 (時事通信)",
    "region": "japan",
    "topics": [
     "monetary",
@@ -2094,7 +2111,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a70b255c95195e13"
+   "id": "831e3948ef6ccbac"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3226,24 +3243,6 @@
    "id": "15190cc9686915d5"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vdEM2ZG5jUnVKQUw0bV95RVEtejZKaDJ6emhCeU1yQWtveXJlV29ONEdpSGpSQWNCbXAyenF2TVpEblZRUEVYQmhmbnRJa0F0NmNxMXJfajlPSzZqaFJDT25vUQ?oc=5",
-   "published_utc": "2026-10-14T18:05:45+00:00",
-   "title_original": "央行：10月15日将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "74aea4bbf244e2a0"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Sept. Exports Surge 36.3% Amid AI Boom, Auto Export Rush",
@@ -4035,6 +4034,24 @@
    "live_wire": true,
    "manual": false,
    "id": "a7c3220a311ef267"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hQkoteHY1TmJDZkdVSy1qSFRzZ2tKZ0xETFVnNG9TaHVCb1hNUi1aV0FaenJCQmd4UkJ3SDZnM1BuRF9RWkt3ejFUS3BBT19MZDdJSUZoLXc?oc=5",
+   "published_utc": "2026-10-14T11:34:03+00:00",
+   "title_original": "央行：10月15日将开展7000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "01e196bac469036d"
   },
   {
    "source_id": "tradingview_live",
@@ -12279,6 +12296,24 @@
   {
    "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
+   "title_en": "The central bank uses multiple tools to protect liquidity and funds are expected to remain stable in October | fiscal expenditure | National Day | reverse repurchase | policy | research report",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTy01MnRwMS1xakR0OVZKWkhrNUlBSGozN1ZocTZnUDhCRHJPSWhTX0IxM2p4U3VJdm10X05Sd1hFZWUzQ2FYNGZ2eHViOXBOVFJSclFUX2huOEE3ZWZLWkppQzRtX1ZMVVl2eV9FX3owM2RNdEJEeFdiOXFiUGU5MjltLVdyeEI2RkhENnhPa0k0cHdXSnZvcV8xSHY4TlB1bHFnbS1oVXI1TzltZzBjVUp3NjhMM2I4XzhnUWZLTW1KbjBJdHpWb3lLWVdUWVlyUGNhT05GWFYtLWRTRWh0cEZnZFI5NDktejBIM0xpemFuR29OVjRzLV9wcUo1ejlNRVhvS0lSeVN5UG10cjRWTHdn?oc=5",
+   "published_utc": "2026-10-10T04:30:14+00:00",
+   "title_original": "央行多工具呵护流动性10月资金面有望保持平稳|财政支出|国庆节|逆回购|政策|研报",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "42e113a823ef7b53"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
    "title_en": "Central Bank: Net investment in open market government bond sales in September was 100 billion yuan | People's Bank of China | Mortgage supplementary loans | Central Bank | Liquidity | Reverse repurchase",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWFpTR2pmcWtqX2lmc3U0RGxKTU12RW96cERlMnZ2Y29OVEFVcFpsR25RRGExaVo5d0N6WjdpOUJrWk1aT1ZLLUZ5WlZfaHBrbkNxNzNOek9JelJZWUVCMlBXNWw5WVVkUVktVW04Ym5MeE1hWVFIWGlON3JSVjlqMWd6bkU5M0QxS1E?oc=5",
    "published_utc": "2026-10-10T04:09:07+00:00",
@@ -12347,24 +12382,6 @@
    "live_wire": false,
    "manual": false,
    "id": "63719e4e3204da4b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank uses multiple tools to protect liquidity and funds are expected to remain stable in October | fiscal expenditure | National Day | reverse repurchase | policy | research report",
-   "url": "https://news.google.com/rss/articles/CBMikgpBVV95cUxPYXJDNHFZM2Y1T1U0bDJrazQzN1VnZFluaXBfZndJNnVuS1ZUaHE4YnR4Rkp6Y0trYm5vT1FsektQSXExNjhOdjBveVQyek43YmVEWmpPNFVWVW9EdVpyN2Y2TTdSLXBrY3ZYbUxKWi02Ung5bnpJUmJmbDF3TVU5LU91RHgyZGN6ZDYxeTdGaVdONlVOUGw0dlQ5alhFUVZqazVUZEVFU3V4a2U3THFJT0VaVWlxYzl1VFdYU3hBSmxFa0VMQ1lyUEpoS3pkVGtBS2JULVBjLWtvV0wxTG04VGRpVHluQXFJTEhleU1DaTAwQjJJRE1TTDZpbG9PVHNMWmZST240NmNuY21od09GM3BnR2pyTUhOcFR1RF94dWZuS24zMkQ5YmF1a3A2U1BmUU1QSzE1amJPb1MxS2xoamhYejlnblg1NDVnNkE1SDVkcWMycmVyVFFXRGFKemRzS01CZmJFY21KMlRmN3V6OVJZbThmSm5JWXdiN3AwdkVfa0J6aFF1UzVNR1FRa3NIa2EyTjdHWndvTUk3OWx0endTSnpuUFZhM2YyLWt1RWVhRmotSzl3RFVxdDdaU1FqSlprYXcyYXRINmhWWWpsN3JoWlphS1ljaEVPbnhTZE5YZTZ3Qkc0TDVnRzkxckg2LVRQNllqMkp3QnZMc2p4QWNNM3pQb193YWV3RXlzdHpibmlHMXh6MlBnVkw2emRWREIwS2dLSVZIbEw5TlhBQW9nY0dIbTNoRWk4ZGw5aG4tZXc5UnItTmRXbEZ4QVVMS05XUFhHcm5aZ3hLWVdac0d4REhmcW5DV2VLZ0tnSkJ4QzE4YU4tdXJUVzVpVDBxLU53MFNuZFNXRHZyYVRUSXcwLUl4ZmZHaVp2R21mQlhwaFlaeUp3VFE1U3RKZldCUGlsRWszMUdfdHQ3RXF3RDJSNFNrcXRHQ2MzZHd3bWpTdHkxLVRzbHkzbEFVTHdLUGo1SXpHSTdSR0lHTlFKLVhBZ0tDcXJRb09BS0VjRVUtMGEyTXdfU1YwOXNWTnh6eGR2SmNWN3F3RmJKbjZZUzZIZFA0NkNfTW1CaVZzeUZkbHhOZWk5ZVFjSzJSQ0VTd3gyOUVwX0k0enZCcXhFZ2ZDNENWZ1R3dkF3elh1MHl1RmEzNXV4azdYWjBVamRzMi0tcU9BRGF2M0M1V2xBeTM2RFJodkdyVHdBcVNoWGQza2VPc1QwSWNFdFp0N1UydFRIU3NhRlB6SlhDcXg3WElMcGduWExUd0EwUzBXSWRiVUNtLWpMSDZCUUp5VmxtY0dIaXlFQ2NaYTR1dlQ1THFXdnhSemlaUTJTNklYN2lXeWJvc211U0l0LXVBSk1Hb0VUcDBiQWdQZEVXS09ZVUJsdjJGUkVxVFBGdWl5RUJrS180Z1c0LWdNS25OVHZ1cGlKdDZRQzZ2Rk4xU1FDdFViNHRDenhWdXNMUXhUNTN1aUJON2puLXJvT2xfeEUtcmdidjdTMW1WSFR4NG8xYVBBSk1Wal9nSi1naG5jbUduWGRZMlVOajkwbG1jUzc2YzRuZkRRSVZuekREWENqZGZVTFZpUUt4cjNuS2tudUprU0lITzUxaG5Bdm5sNmxWV2p5R0dzUV85Tl9rWjFYU3d0QkE3R3NRYWhGOURuOURwZzVrdjVXUmtTVXRiMzROUmJpeWtNak1XbnBwd2RGeGZ6d1k5YVVRejZ3bjdmQ3hpdw?oc=5",
-   "published_utc": "2026-10-10T02:17:58+00:00",
-   "title_original": "央行多工具呵护流动性10月资金面有望保持平稳|财政支出|国庆节|逆回购|政策|研报",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6cac576e6cb92d5f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51912,23 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b5bcc2dabac6f99a"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "시사저널",
-   "title_en": "If the United States raised it, Korea too... What happens if the base interest rate rises again [QnA]",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qckEwSXVPUEdsM3FFc2lHUE1UQzE1UzN3MHhmY3JNVldOSkhlOHJWckNINHQ0U1lGYmJJSG9lNUstOGh4eFMyZ01EbnYwTjVVYWozWmszZ2dIelFOMWpoUlVCRmd1dmhLVHl1UHJLONIBc0FVX3lxTE93U1RaaDVVbzkybVY0WHk4NWpERy1FVjBEMGNWOHhHTWp4d3lWaGtZMWZlS3R3M3JjUWxOY1pENWFZZG12TUVxMXdPODhlTmwxNkJrc19qakZfLXBPeDlWZ0RfZ2ozWmxBUTloSEpDbEFyQ28?oc=5",
-   "published_utc": "2026-09-17T05:03:17+00:00",
-   "title_original": "미국이 올렸다면 한국도…기준금리 또 올라가면 벌어지는 일 [QnA]",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b6f7565d387e2569"
   },
   {
    "source_id": "manual_ia",
