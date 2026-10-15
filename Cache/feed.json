@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T07:52:42.096410+00:00",
- "collected_at_utc": "2026-10-15T07:52:42.096410+00:00",
+ "generated_at_utc": "2026-10-15T08:02:42.500926+00:00",
+ "collected_at_utc": "2026-10-15T08:02:42.500926+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1118,
+  "japan": 1119,
   "china": 841,
   "taiwan": 309,
-  "korea": 732
+  "korea": 731
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T05:26:00+00:00"
+   "newest": "2026-10-15T06:12:40+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T07:18:45+00:00"
+   "newest": "2026-10-15T07:52:30+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T07:31:21+00:00"
+   "newest": "2026-10-15T07:58:41+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:43:00+00:00"
+   "newest": "2026-10-15T04:54:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T07:51:25+00:00"
+   "newest": "2026-10-15T08:01:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Japan Industrial Output Falls More Than Estimated",
+   "url": "https://www.tradingview.com/news/dpa_afx:2fa3868ddefba:0-japan-industrial-output-falls-more-than-estimated/",
+   "published_utc": "2026-10-15T07:52:28+00:00",
+   "title_original": "Japan Industrial Output Falls More Than Estimated",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bf3e25a67a14774c"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -688,6 +705,24 @@
    "live_wire": false,
    "manual": false,
    "id": "9c82c79ba9c73525"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTU5yU2ZpaEZUd2lKZWZvWU5RdEdRTFRMaUM2NXplMnN3ak9CSTMwWTFTWXp1bnZla2VFTzlfeUxhNzNuTVV1Qmx6a1A0elpNekVGMndFUUl2Z2E4R2UtN3BDNU5JZVMzWWI3b1NURlEzQ0lsMVIwQ1NZT1JBRzh2U3ZqeGk4ZFdVVEE2UmNKUXhsRl9sU1ZGOTVOZzFHUU9fdFgwVEtuUTNpOTRGaWo2dUJB?oc=5",
+   "published_utc": "2026-10-15T06:12:40+00:00",
+   "title_original": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
+   "region": "taiwan",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "26934ca56083e2e1"
   },
   {
    "source_id": "tradingview_live",
@@ -1220,23 +1255,6 @@
    "id": "aee9e2625313f7e6"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "CNBC TV18",
-   "title_en": "Stock Crash: SK Hynix plunges 57% from peak in four months, loses nearly $700 billion in value",
-   "url": "https://www.tradingview.com/news/cnbctv:ee9428523094b:0/",
-   "published_utc": "2026-10-15T04:31:12+00:00",
-   "title_original": "Stock Crash: SK Hynix plunges 57% from peak in four months, loses nearly $700 billion in value",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ffce63f57ff5616e"
-  },
-  {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
    "title_en": "Asia FX mixed, dollar slips after hot U.S. CPI; yen firms on intervention warnings",
@@ -1466,24 +1484,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c084f7da4411ed42"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTU5yU2ZpaEZUd2lKZWZvWU5RdEdRTFRMaUM2NXplMnN3ak9CSTMwWTFTWXp1bnZla2VFTzlfeUxhNzNuTVV1Qmx6a1A0elpNekVGMndFUUl2Z2E4R2UtN3BDNU5JZVMzWWI3b1NURlEzQ0lsMVIwQ1NZT1JBRzh2U3ZqeGk4ZFdVVEE2UmNKUXhsRl9sU1ZGOTVOZzFHUU9fdFgwVEtuUTNpOTRGaWo2dUJB?oc=5",
-   "published_utc": "2026-10-15T02:57:00+00:00",
-   "title_original": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
-   "region": "taiwan",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "26934ca56083e2e1"
   },
   {
    "source_id": "investing_live",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T07:52:42.096410+00:00
+Última coleta: 2026-10-15T08:02:42.500926+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1118
+  🇯🇵 Japão          1119
   🇨🇳 China          841
   🇹🇼 Taiwan         309
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Industrial Output Falls More Than Estimated
   - [korea] Kospi slides over 7% as chip stocks sink
   - [taiwan] Earnings Snapshot: Taiwan Semiconductor Manufacturing tops Q3 estimates, gives Q4 revenue guidance above estim
   - [japan] Japan futures fall as Tokyo equities slump, China imports weaken
@@ -37,6 +38,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor ADR earnings beat by $0.18, revenue topped estimates
   - [taiwan] TSMC Raises 2026 Revenue Growth Forecast to Around 44%
   - [taiwan] TSMC profit soars 69% in another record quarter fueled by AI boom
+  - [taiwan] Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment
   - [taiwan] TSMC Reiterates 2026 Capex Between US$60B-US$64B
   - [taiwan] TSMC Expects 4Q Revenue Between US$52.3B-US$54.3B
   - [taiwan] TSMC Expects 4Q Gross Margin Between 65%-67%
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC 3Q Revenue From High Performance Computing Up 22% on Quarter >2330.TW
   - [taiwan] TSMC 3Q Gross Margin 66.4%, Up 6.9 Pct Pt on Year >2330.TW
   - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Net Profit Beat TWD731.77B Expected in a FactSet Poll >2330.TW
-  - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Rev TWD1.494T Vs. TWD989.92B >2330.TW
-  - [taiwan] Taiwan Semiconductor Manufacturing Co. 3Q Net TWD763.1B >2330.TW
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T07:52:42+00:00",
+      "published_utc": "2026-10-15T08:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
