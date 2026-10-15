@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T23:02:43.750313+00:00
+Última coleta: 2026-10-15T23:12:47.335769+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1119
+  🇯🇵 Japão          1118
   🇨🇳 China          845
   🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  713
+  🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [korea] Soaring term deposit interest rates...a signal for a base interest rate increase?
   - [taiwan] Taiwan Semiconductor Is Maintained at Buy by Needham
   - [taiwan] Taiwan Semiconductor Manufacturing Ltd. Stock 12‑Month Price Target Raised to $552.84, Implies 29% Upside
   - [china] The China decoupling paradox: why the world still needs its manufacturing machine
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Blast simulation, university probes, robotics fine, AI spies: 7 US-China relations reads
   - [japan] Japan’s Katayama Renews FX Warnings After US CPI Heats Up
   - [japan] India to overtake Japan as 4th-largest economy in 2027 with $4.52 trillion GDP: IMF
-  - [taiwan] Taiwan Semiconductor Posts Record Profit
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T23:02:43+00:00",
+      "published_utc": "2026-10-15T23:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
