@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T06:42:42.950850+00:00
+Última coleta: 2026-10-15T06:52:43.228748+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1118
   🇨🇳 China          843
-  🇹🇼 Taiwan         306
-  🇰🇷 Coreia do Sul  733
+  🇹🇼 Taiwan         307
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [china] China long-dated bond yields hit 15-month low as PBOC keeps cash flowing
+  - [japan] Japan's Nikkei slumps 5% as tech stocks hammered by AI, rate hike worries
   - [japan] Japan finance minister: G20 concerned over yields, FX volatility
   - [korea] Kospi Falls for Seventh Straight Session as Chip Stocks Slump
   - [taiwan] Taiwan Semiconductor Manufacturing in charts: Advanced chips drive 79% of Q3 wafer revenue
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ Member Koeda's Speech Reinforces Scope for Further Rate Hikes — Market Talk
   - [japan] Asian stocks sell off as AI trades crumble after hot US inflation data By Reuters
   - [taiwan] ByteDance taps MediaTek for custom data center chips - report
-  - [korea] South Korean Won Falls Further on Tech Rout
-  - [japan] Japan Industrial Output Falls More than Initially Anticipated
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T06:42:43+00:00",
+      "published_utc": "2026-10-15T06:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
