@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T04:32:40.581196+00:00",
- "collected_at_utc": "2026-10-15T04:32:40.581196+00:00",
+ "generated_at_utc": "2026-10-15T04:42:43.949648+00:00",
+ "collected_at_utc": "2026-10-15T04:42:43.949648+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1121,
-  "china": 848,
+  "china": 847,
   "taiwan": 291,
-  "korea": 740
+  "korea": 741
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": "",
-   "newest": "2026-10-14T01:30:00+00:00"
+   "newest": "2026-10-15T01:30:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:05:48+00:00"
+   "newest": "2026-10-15T03:11:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:43:00+00:00"
+   "newest": "2026-10-15T03:19:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T04:30:00+00:00"
+   "newest": "2026-10-15T04:41:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:48:40+00:00"
+   "newest": "2026-10-15T04:15:52+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T05:03:08+00:00"
+   "newest": "2026-10-15T03:54:20+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -359,6 +359,23 @@
    "live_wire": false,
    "manual": false,
    "id": "aee9e2625313f7e6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "Stock Crash: SK Hynix plunges 57% from peak in four months, loses nearly $700 billion in value",
+   "url": "https://www.tradingview.com/news/cnbctv:ee9428523094b:0/",
+   "published_utc": "2026-10-15T04:31:12+00:00",
+   "title_original": "Stock Crash: SK Hynix plunges 57% from peak in four months, loses nearly $700 billion in value",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ffce63f57ff5616e"
   },
   {
    "source_id": "tradingview_live",
@@ -657,6 +674,24 @@
    "live_wire": true,
    "manual": false,
    "id": "09fbda5e33778f63"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济观察网",
+   "title_en": "The central bank launches 45 billion yuan 7-day reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfbDJhVHpXc2g0Z2FqVXFPaDlqTVR6STBaUkZnLXBuakxfZHJ0aU9CYXJvcTNtU2s4ekNBWXVNT3Q4cWYxaEVsdzVoMEd0azh4dnBMc1V3dGU?oc=5",
+   "published_utc": "2026-10-15T03:11:00+00:00",
+   "title_original": "央行开展450亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2c10b0ca08c8eed9"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2268,6 +2303,24 @@
    "live_wire": true,
    "manual": false,
    "id": "6f4598c244355d82"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "济南新闻",
+   "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation - News",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGRXJIVDRqYndJNFdNSWFKdnJxY1lEQTNyTXlXbXRNbHpwZmZ5VXpYSkswVjFvTlJNU1MyZDQ4aXl6OHpOeXI3UVdfNEMwX3Vta3JDeUFTSm9HY0FnQnNUMVZfX2o?oc=5",
+   "published_utc": "2026-10-14T13:21:24+00:00",
+   "title_original": "央行将开展7000亿元买断式逆回购操作- 要闻",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "329a2a71b8d17596"
   },
   {
    "source_id": "tradingview_live",
@@ -51873,58 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1499177308576dce"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Iron ore closes slightly higher with expectations of stimulus in China",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4580OQ:0/",
-   "published_utc": "2026-09-16T11:51:50+00:00",
-   "title_original": "Minério de ferro fecha em ligeira alta com expectativa de estímulos na China",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "911c4e410ede030a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "EU will use all means to reduce trade deficit with China, says Von der Leyen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4580NI:0/",
-   "published_utc": "2026-09-16T11:40:22+00:00",
-   "title_original": "UE usará todos os meios para reduzir déficit comercial com a China, diz Von der Leyen",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "f02f1d0ff2ee2f40"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "The central bank may implement interest rate cuts and reserve requirement ratio cuts around the end of the third quarter | Macro 6 p.m.",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjVko1S0x3SUxfSTVyMFdWajlMcXFQejVqRjJYVTZOY2Q4QXlLSWxjQkNINzQxSXhqeVE3SWpTTjJDd0dvd1l1ZVh4eEFNTjhfWWZsMUpCUFQ?oc=5",
-   "published_utc": "2026-09-16T10:10:54+00:00",
-   "title_original": "央行或将在三季度末前后实施降息降准｜宏观晚6点",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2ae9762b8c6cbba2"
   },
   {
    "source_id": "manual_ia",

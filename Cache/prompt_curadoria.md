@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T04:32:40.581196+00:00
+Última coleta: 2026-10-15T04:42:43.949648+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1121
-  🇨🇳 China          848
+  🇨🇳 China          847
   🇹🇼 Taiwan         291
-  🇰🇷 Coreia do Sul  740
+  🇰🇷 Coreia do Sul  741
 
 ## O que já está no feed (não repita)
 
   - [korea] Kospi crashes 8% as Samsung, SK hynix sink over 10%
+  - [korea] Stock Crash: SK Hynix plunges 57% from peak in four months, loses nearly $700 billion in value
   - [china] China's yuan gains as Fed rate caution knocks dollar from 18-month high
   - [korea] Hot US inflation hammers Kospi nearly 6% lower as chips buckle
   - [china] China stocks fall, led by tech, as US inflation stokes Fed fears
@@ -35,6 +36,7 @@ Total: 3000 manchetes
   - [japan] Japan's Nikkei plunges as tech stocks hammered by AI, rate hike worries
   - [japan] Don't be overly cautious about interest rate hikes: ``The risk of price rises is commensurate with the risks.'
   - [china] Offshore Yuan Lingers Near 2022 High
+  - [china] The central bank launches 45 billion yuan 7-day reverse repurchase operation
   - [china] The central bank launched a 45 billion yuan seven-day reverse repurchase operation with an interest rate of 1.
   - [china] Hong Kong's sole yuan clearing bank plans mainland NCD issuance
   - [taiwan] ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Why is Samsung Electronics stock plunging today?
   - [china] On October 15, the central bank launched a 45 billion yuan 7-day reverse repurchase operation.
   - [japan] Asian markets sell off as AI trades crumble after hot US CPI data By Reuters
-  - [japan] Bank of Japan council member emphasizes continuing interest rate hikes: ``There is no need to be cautious'' (K
-  - [taiwan] TSMC Set to Post Sixth Consecutive Quarter of Record Profit, Thanks to AI Boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T04:32:40+00:00",
+      "published_utc": "2026-10-15T04:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
