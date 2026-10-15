@@ -7,23 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T02:02:46.700564+00:00
+Última coleta: 2026-10-15T02:12:43.495077+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1124
-  🇨🇳 China          851
+  🇯🇵 Japão          1123
+  🇨🇳 China          848
   🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  736
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why a memory chip glut could be Korea's weapon against China
+  - [korea] Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say
+  - [korea] Why is SK Hynix stock plunging today?
+  - [korea] Why is Samsung Electronics stock plunging today?
   - [taiwan] TSMC Set to Post Sixth Consecutive Quarter of Record Profit, Thanks to AI Boom
   - [taiwan] TSMC expected to report sixth straight quarter of record profit thanks to AI boom
   - [china] China stocks fall, led by tech, as US inflation stokes Fed fears
+  - [china] "Three polarizations" are occurring in the Chinese economy, where domestic demand has fallen sharply...The rea
   - [japan] Stock prices temporarily fell by more than 3,000 yen against the backdrop of expectations for a US interest ra
   - [japan] Bank of Japan member says there is "no need to be cautious" in raising interest rates (Kyodo News)
-  - [china] CHINA PBOC CONDUCTS CNY45 BLN VIA 7-DAY REVERSE REPO THURS
   - [japan] BOJ should not be overly cautious raising rates, board member Koeda says
+  - [china] CHINA PBOC CONDUCTS CNY45 BLN VIA 7-DAY REVERSE REPO THURS
+  - [korea] Korean memory makers accept ASML parts price hike, leaving TSMC as the open question
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7253 THURS VS 6.7249
   - [korea] Samsung Electronics Co. was counted as the largest net purchase by high-yield investors of Mirae Ass..
   - [japan] Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] <Competitors are withdrawing or making losses> A new frontier for Uber Eats, which has been in the black for t
   - [japan] JR Hokkaido's "Yellow Line Area" fundamental improvement plan is in chaos, financial support of 380 billion ye
   - [japan] Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York By Reuters
-  - [japan] "Eel pie" is doing well, but the division is in the red for 400 million yen...The "amazing comeback" of Hamama
-  - [taiwan] TSMC options chain shows big call wall at $500 strike ahead of earnings
-  - [japan] Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York
-  - [china] Times data said | The central bank will launch a 700 billion yuan buyout reverse repurchase operation
-  - [japan] GlobalFoundries options surge on $21B U.S.-Japan chip deal
-  - [china] China’s Sept. Exports Surge 36.3% Amid AI Boom, Auto Export Rush
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T02:02:46+00:00",
+      "published_utc": "2026-10-15T02:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
