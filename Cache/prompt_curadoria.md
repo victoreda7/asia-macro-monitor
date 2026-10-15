@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T22:22:42.599727+00:00
+Última coleta: 2026-10-15T22:32:43.569082+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1119
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Semiconductor Manufacturing Ltd. Stock 12‑Month Price Target Raised to $552.84, Implies 29% Upside
   - [china] The China decoupling paradox: why the world still needs its manufacturing machine
   - [korea] South Korea Import Prices Rise in September
   - [korea] South Korea Export Price Growth Eases in September
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] India to overtake Japan as 4th-largest economy in 2027 with $4.52 trillion GDP: IMF
   - [taiwan] Taiwan Semiconductor Posts Record Profit
   - [korea] Kospi crashes 8% as Samsung, SK hynix sink over 10%
-  - [taiwan] TSMC's Q3 results, outlook pave path for 'banner year' in 2027: analysts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T22:22:42+00:00",
+      "published_utc": "2026-10-15T22:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
