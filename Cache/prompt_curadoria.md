@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T15:42:45.670090+00:00
+Última coleta: 2026-10-15T15:52:44.271152+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1122
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [japan] Further Possible BOJ Tightening Could Lift Japanese Yen — Market Talk
   - [taiwan] TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com
   - [korea] Why is SK hynix ADR stock sliding today?
+  - [china] France and Germany to allow UK to join EU car policy if it aligns on China tariffs
   - [china] France and Germany to allow UK in EU car policy if it aligns on China tariffs
   - [taiwan] CoreWeave, TSMC, FMC, Rocket Lab, Schwab, and More Stocks That Explain Today's Market — Barrons.com
   - [china] Blast simulation, university probes, robotics fine, AI spies: 7 US-China relations reads
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Resources Power Logs 9M Net Generation Of Subsidiary Power Plants Up 9.7%
   - [japan] Japan economy minister says deflation era is over, urges investor rethink
   - [japan] [Volatility of AI/semiconductor stocks will further increase] Japanese stocks are in turmoil after the US midt
-  - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining fShares
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T15:42:45+00:00",
+      "published_utc": "2026-10-15T15:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
