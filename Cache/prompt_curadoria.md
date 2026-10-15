@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T12:13:41.421096+00:00
+Última coleta: 2026-10-15T12:22:45.332127+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1121
-  🇨🇳 China          841
+  🇯🇵 Japão          1120
+  🇨🇳 China          842
   🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  719
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Taiwan Semiconductor Manufacturing Company Limited reports results for the quarter ended September 30 - Earnin
+  - [china] China’s central bank chief urges ’comprehensive’ view on global imbalances
   - [taiwan] Needham maintains Buy rating on Taiwan Semiconductor, $560 price target
   - [china] China's yuan may appreciate further, but weak domestic demand and US yields pose risks: Report
   - [japan] Japan economy minister stresses BOJ independence, rejects reflationist label
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC is "prudent" for 2027 after recording sixth consecutive quarter of record profits
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [china] China stocks close at 14-month low as US inflation stokes Fed fears
-  - [japan] Bank of Japan Councilor Koeda says 2% underlying inflation rate is "taking hold": Rate hikes should be done in
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T12:13:41+00:00",
+      "published_utc": "2026-10-15T12:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
