@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T09:22:45.813469+00:00",
- "collected_at_utc": "2026-10-15T09:22:45.813469+00:00",
+ "generated_at_utc": "2026-10-15T09:32:44.463012+00:00",
+ "collected_at_utc": "2026-10-15T09:32:44.463012+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1117,
-  "china": 841,
+  "china": 842,
   "taiwan": 315,
-  "korea": 727
+  "korea": 726
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T04:42:00+00:00"
+   "newest": "2026-10-15T09:22:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-10-14T21:00:00+09:00"
+   "newest": "2026-10-15T14:50:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T18:18:56+09:00"
+   "newest": "2026-10-15T18:18:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T07:47:25+00:00"
+   "newest": "2026-10-15T06:54:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T09:21:38+00:00"
+   "newest": "2026-10-15T09:31:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:52:06+00:00"
+   "newest": "2026-10-15T05:50:49+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-15T08:27:48+00:00"
+   "newest": "2026-10-15T09:23:02+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -345,6 +345,23 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Weighs Texas Expansion, Holds Talks on Musk's Terafab as AI Demand Outpaces Supply — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261015002055:0-tsmc-weighs-texas-expansion-holds-talks-on-musk-s-terafab-as-ai-demand-outpaces-supply-update/",
+   "published_utc": "2026-10-15T09:26:00+00:00",
+   "title_original": "TSMC Weighs Texas Expansion, Holds Talks on Musk's Terafab as AI Demand Outpaces Supply — Update",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6206cb749b5491ee"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4600PL:0-china-q3-growth-set-to-pick-up-on-stimulus-keeping-2026-goal-within-reach/",
@@ -359,23 +376,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fc48d96d9d84873a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "TSMC Weighs Texas Expansion, Holds Talks on Musk's Terafab as AI Demand Outpaces Supply — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261015001971:0-tsmc-weighs-texas-expansion-holds-talks-on-musk-s-terafab-as-ai-demand-outpaces-supply-update/",
-   "published_utc": "2026-10-15T09:11:00+00:00",
-   "title_original": "TSMC Weighs Texas Expansion, Holds Talks on Musk's Terafab as AI Demand Outpaces Supply — Update",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7550d096cff00a2c"
   },
   {
    "source_id": "investing_econ",
@@ -2076,6 +2076,24 @@
    "live_wire": false,
    "manual": false,
    "id": "4396acd5a6e1b40f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank launched a 45 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LZHhDd05oblp3VmFLUVJBVGJHUkpHOUs1eHotcHJmSFpQZ2ZMakNENGxNRVVlcmVwYjdnRHRxd3dRT2tOUXdlbTFqOHdDWllKejZENzYxRl9lQ2JwRi1PZw?oc=5",
+   "published_utc": "2026-10-15T01:27:25+00:00",
+   "title_original": "央行今日开展450亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9e1435b3eac44694"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51912,23 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f00eb6f141606ee9"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
-   "title_en": "“What should I do with the interest burden?” Yeongkkeuls ‘get excited’… Will the U.S. raise interest rates for the first time in 3 years and 2 months, and will the Bank of Korea also raise it?",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RYkJlS3QwX092Uk5pQjFLVWRBLUFVeVBfNGpDMVBzYWNsbGVGenl3YzRvRnkwa044ZWE2UGl5eDdja0RYcnVCUEE5RFd4Ny1PLVE?oc=5",
-   "published_utc": "2026-09-17T00:52:07+00:00",
-   "title_original": "“이자부담 어쩌죠” 영끌족들 ‘발동동’…미 3년2개월 만에 금리인상, 한은도 올리나",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6f2091069d9fe153"
   },
   {
    "source_id": "manual_ia",
