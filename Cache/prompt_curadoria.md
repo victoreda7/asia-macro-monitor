@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T16:02:50.299593+00:00
+Última coleta: 2026-10-15T16:12:44.842294+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1122
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi slides over 7% as chip stocks sink
+  - [japan] Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax ded
   - [korea] Seoul shares crash over 7% on chip rout amid AI, inflation woes
   - [taiwan] TSMC Stock Falls as CFO Warns of Margin Pressure
   - [japan] US retail sales show solid growth of +0.8% in September
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan member: ``We won't be overly cautious about raising interest rates.'' Indicates stance to mainta
   - [japan] Bank of Japan member: ``We won't be overly cautious about raising interest rates.'' Shows stance to maintain i
   - [taiwan] Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today's Market — Barrons.com
-  - [taiwan] TSMC's net profit hits record in third quarter
-  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 592032.26, Implies 89% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T16:02:50+00:00",
+      "published_utc": "2026-10-15T16:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
