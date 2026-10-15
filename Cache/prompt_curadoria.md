@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T10:02:43.695823+00:00
+Última coleta: 2026-10-15T10:12:43.305727+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1120
   🇨🇳 China          841
-  🇹🇼 Taiwan         317
-  🇰🇷 Coreia do Sul  722
+  🇹🇼 Taiwan         318
+  🇰🇷 Coreia do Sul  721
 
 ## O que já está no feed (não repita)
 
+  - [china] China Resources Power Logs 9M Net Generation Of Subsidiary Power Plants Up 9.7%
+  - [japan] Japan economy minister says deflation era is over, urges investor rethink
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining fShares
   - [taiwan] TSMC revenue rises 41% as AI chip demand drives growth
   - [japan] Policymaker: BOJ shouldn't be too cautious raising rates
@@ -24,6 +26,7 @@ Total: 3000 manchetes
   - [japan] Yen price rises due to comments from Bank of Japan committee members
   - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll
   - [taiwan] TSMC Weighs Texas Expansion, Holds Talks on Musk's Terafab as AI Demand Outpaces Supply — Update
+  - [taiwan] TSMC bars capacity resale, aims to leave no AI money on the table
   - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach
   - [japan] Japan economy minister says nation no longer in deflation, seeks investor rethink
   - [japan] What is the difference between Switzerland and America? “Japan’s price level” and the world’s real world (LIMO
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China long-dated bond yields hit 15-month low as PBOC keeps cash flowing
   - [korea] (LEAD) Seoul shares crash over 7 pct on chip rout amid AI, inflation woes
   - [japan] Japan's Nikkei slumps 5% as tech stocks hammered by AI, rate hike worries
-  - [japan] Japan finance minister: G20 concerned over yields, FX volatility
-  - [korea] Kospi Falls for Seventh Straight Session as Chip Stocks Slump
-  - [taiwan] Taiwan Semiconductor Manufacturing in charts: Advanced chips drive 79% of Q3 wafer revenue
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T10:02:43+00:00",
+      "published_utc": "2026-10-15T10:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
