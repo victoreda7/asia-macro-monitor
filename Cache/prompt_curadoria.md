@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T19:02:43.800831+00:00
+Última coleta: 2026-10-15T19:12:46.266486+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1121
-  🇨🇳 China          843
-  🇹🇼 Taiwan         324
+  🇨🇳 China          842
+  🇹🇼 Taiwan         325
   🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC's net profit hits record in third quarter
   - [china] China bought half of Brazil's oil exports as Iran war shut Hormuz, driving sales to record
   - [japan] Finance Minister Katayama agrees to extend Japan-Korea currency swap
   - [korea] SK Hynix stock: Up big in H1, down 58% from peak in H2 - is the AI boom losing steam?
@@ -28,6 +29,7 @@ Total: 3000 manchetes
   - [japan] Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax ded
   - [japan] Global policymakers see no imminent risk of financial instability, Japan official says
   - [korea] Seoul shares crash over 7% on chip rout amid AI, inflation woes
+  - [taiwan] Why TSMC's $64 billion spending plan shouldn't scare away investors
   - [taiwan] TSMC Stock Falls as CFO Warns of Margin Pressure
   - [japan] US retail sales show solid growth of +0.8% in September
   - [taiwan] TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC evaluating Texas production, cooperation with Terafab
   - [taiwan] Needham maintains Buy rating on Taiwan Semiconductor, $560 price target
   - [japan] Nikkei marks 3rd largest single-day point drop on AI, chip concerns
-  - [china] China's yuan may appreciate further, but weak domestic demand and US yields pose risks: Report
-  - [japan] Japan economy minister stresses BOJ independence, rejects reflationist label
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T19:02:43+00:00",
+      "published_utc": "2026-10-15T19:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
