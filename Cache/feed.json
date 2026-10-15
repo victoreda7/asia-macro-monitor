@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-15T08:53:42.406253+00:00",
- "collected_at_utc": "2026-10-15T08:53:42.406253+00:00",
+ "generated_at_utc": "2026-10-15T09:02:45.011172+00:00",
+ "collected_at_utc": "2026-10-15T09:02:45.011172+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1115,
-  "china": 841,
+  "japan": 1116,
+  "china": 840,
   "taiwan": 316,
   "korea": 728
  },
- "elapsed_s": 87.8,
+ "elapsed_s": 31.1,
  "sources": [
-  {
-   "source_id": "nikkei_asia",
-   "name": "Nikkei Asia",
-   "ok": false,
-   "count": 0,
-   "error": "The read operation timed out",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T08:28:32+00:00"
+   "newest": "2026-10-15T08:56:16+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T17:45:19+00:00"
+   "newest": "2026-10-15T17:58:06+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -160,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -195,7 +187,15 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T17:10:24+09:00"
+   "newest": "2026-10-15T17:53:01+09:00"
+  },
+  {
+   "source_id": "nikkei_asia",
+   "name": "Nikkei Asia",
+   "ok": true,
+   "count": 50,
+   "error": "",
+   "newest": ""
   },
   {
    "source_id": "gn_cn_pboc",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T05:13:00+00:00"
+   "newest": "2026-10-15T05:11:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T08:50:15+00:00"
+   "newest": "2026-10-15T09:00:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T08:30:49+00:00"
+   "newest": "2026-10-15T08:36:45+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T00:28:47+00:00"
+   "newest": "2026-10-15T06:48:34+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T08:26:53+00:00"
+   "newest": "2026-10-15T08:42:49+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -393,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a3b2ad31d16778ee"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Councilor Koeda: ``We won't be overly cautious about raising interest rates'' (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTeF9vcnlRM0JNdXF2ek1ONFRybGZuMHVURWo3WjdjN0pLdC1acGZCQXhJVnhCYWdMaUh0XzdOc293R3R5ejEwZ2xCbTZjM0Y0eDdQYUQzbktJYW1sOHdhWF9DY24tbFUxeEZfOVNwbTl6M3RnWERGNWIzMjd3QTQ?oc=5",
+   "published_utc": "2026-10-15T08:36:45+00:00",
+   "title_original": "日銀 小枝審議委員「利上げに過度に慎重になることはない」（TBS NEWS DIG Powered by JNN）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "603f585f900ba0e9"
   },
   {
    "source_id": "tradingview_live",
@@ -721,6 +738,24 @@
    "id": "813c20dcbf4bb116"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) Seoul shares crash over 7 pct on chip rout amid AI, inflation woes",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSaEVqNWZ4dnRWUnlfTk1YNmptRFhZLTA0dkVQNXlCNExUbVN4a2w2cjMyeWI3WFpOeTY2OWthclF0WUdZZnktQWMyd3o3NzlXM0Y2S1JXQmt3UQ?oc=5",
+   "published_utc": "2026-10-15T06:48:34+00:00",
+   "title_original": "(LEAD) Seoul shares crash over 7 pct on chip rout amid AI, inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4be73cd566ce766b"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Japan's Nikkei slumps 5% as tech stocks hammered by AI, rate hike worries",
@@ -1047,6 +1082,24 @@
    "live_wire": true,
    "manual": false,
    "id": "758cfdacc6b0b871"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "IMF Warns China Stimulus Lacks Ambition, Leaves Yuan Undervalued",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEdBR0h6X3YxTzAtMWtnYzdrT1Q0eGllTUI3WVlSdE9XX1pYU1lXMFAtZUlyRTNOazBndS1uZkRsakpCU1dyMXBDUk5OWUdOdjFTMGxUOXVpWGZHWVRFVF9uWFFfUzVsa0UwaHBtaHItMmxCYjhKVDdseUVKa1RaUU5FOVJzeDN6ZktsSktoU1doQkNmc3l1RlVPSXJRbFVGTnhhNE9PaXY3eGpsaVlBdE40em4?oc=5",
+   "published_utc": "2026-10-15T05:44:00+00:00",
+   "title_original": "IMF Warns China Stimulus Lacks Ambition, Leaves Yuan Undervalued",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb0d76460a148fa8"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -1834,24 +1887,6 @@
    "id": "b42461fcae973db2"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "IMF Warns China Stimulus Lacks Ambition, Leaves Yuan Undervalued",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEdBR0h6X3YxTzAtMWtnYzdrT1Q0eGllTUI3WVlSdE9XX1pYU1lXMFAtZUlyRTNOazBndS1uZkRsakpCU1dyMXBDUk5OWUdOdjFTMGxUOXVpWGZHWVRFVF9uWFFfUzVsa0UwaHBtaHItMmxCYjhKVDdseUVKa1RaUU5FOVJzeDN6ZktsSktoU1doQkNmc3l1RlVPSXJRbFVGTnhhNE9PaXY3eGpsaVlBdE40em4?oc=5",
-   "published_utc": "2026-10-15T02:00:00+00:00",
-   "title_original": "IMF Warns China Stimulus Lacks Ambition, Leaves Yuan Undervalued",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "eb0d76460a148fa8"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Stock prices temporarily fell by more than 3,000 yen against the backdrop of expectations for a US interest rate hike",
@@ -2576,6 +2611,24 @@
    "live_wire": true,
    "manual": false,
    "id": "15190cc9686915d5"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vdEM2ZG5jUnVKQUw0bV95RVEtejZKaDJ6emhCeU1yQWtveXJlV29ONEdpSGpSQWNCbXAyenF2TVpEblZRUEVYQmhmbnRJa0F0NmNxMXJfajlPSzZqaFJDT25vUQ?oc=5",
+   "published_utc": "2026-10-14T18:05:45+00:00",
+   "title_original": "央行：10月15日将开展7000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "74aea4bbf244e2a0"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -3318,24 +3371,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a7c3220a311ef267"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "经济观察网",
-   "title_en": "Central Bank: It will launch a 700 billion yuan buyout reverse repurchase operation on October 15",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hQkoteHY1TmJDZkdVSy1qSFRzZ2tKZ0xETFVnNG9TaHVCb1hNUi1aV0FaenJCQmd4UkJ3SDZnM1BuRF9RWkt3ejFUS3BBT19MZDdJSUZoLXc?oc=5",
-   "published_utc": "2026-10-14T11:34:03+00:00",
-   "title_original": "央行：10月15日将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "01e196bac469036d"
   },
   {
    "source_id": "tradingview_live",
@@ -51894,40 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "002aa43d599581c7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "CATL Says Co Repurchases 3.1 Mln A Shares on Sept 16 For 947 Mln Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45901L:0-catl-says-co-repurchases-3-1-mln-a-shares-on-sept-16-for-947-mln-yuan/",
-   "published_utc": "2026-09-17T00:28:31+00:00",
-   "title_original": "CATL Says Co Repurchases 3.1 Mln A Shares on Sept 16 For 947 Mln Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cc84e31aaa585d21"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "en.yna.co.kr",
-   "title_en": "(LEAD) BOK pressed to further raise key rate to track Fed's latest hike",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByM2M4TVBvNXVoSzJlTmxBekJuSU13Y000UUFpbzZid0VpUUNCZ2VpQWhlSWs1T2hBaGE2Vm9OaXRTcGdvVXdycmVmYjdNTVVSLUt1UWhZYlRMdw?oc=5",
-   "published_utc": "2026-09-17T00:20:12+00:00",
-   "title_original": "(LEAD) BOK pressed to further raise key rate to track Fed's latest hike",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "992de52e9bb137f5"
   },
   {
    "source_id": "manual_ia",

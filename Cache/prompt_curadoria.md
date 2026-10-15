@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T08:53:42.406253+00:00
+Última coleta: 2026-10-15T09:02:45.011172+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1115
-  🇨🇳 China          841
+  🇯🇵 Japão          1116
+  🇨🇳 China          840
   🇹🇼 Taiwan         316
   🇰🇷 Coreia do Sul  728
 
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com
   - [taiwan] TSMC CEO sees no sign of a slowdown as chip foundry reports record profit
   - [taiwan] TSMC open to Terafab collaboration but insists on controlling its own plants
+  - [japan] Bank of Japan Councilor Koeda: ``We won't be overly cautious about raising interest rates'' (TBS NEWS DIG Powe
   - [taiwan] TSMC is "prudent" for 2027 after recording sixth consecutive quarter of record profits
   - [china] China stocks close at 14-month low as US inflation stokes Fed fears
   - [japan] Bank of Japan Councilor Koeda says 2% underlying inflation rate is "taking hold": Rate hikes should be done in
@@ -39,6 +40,7 @@ Total: 3000 manchetes
   - [taiwan] Wall St futures drop as hot CPI revives Fed hike concerns; TSMC results in focus
   - [japan] TSE closing price 3318 yen lower, third largest decline
   - [china] China long-dated bond yields hit 15-month low as PBOC keeps cash flowing
+  - [korea] (LEAD) Seoul shares crash over 7 pct on chip rout amid AI, inflation woes
   - [japan] Japan's Nikkei slumps 5% as tech stocks hammered by AI, rate hike worries
   - [japan] Japan finance minister: G20 concerned over yields, FX volatility
   - [korea] Kospi Falls for Seventh Straight Session as Chip Stocks Slump
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Expects 4Q Revenue Between US$52.3B-US$54.3B
   - [taiwan] TSMC Expects 4Q Gross Margin Between 65%-67%
   - [taiwan] AI Demand Extends TSMC's Record Earnings Streak
-  - [taiwan] TSMC profit beats estimates with 69% rise, but stock faces big test
-  - [japan] Today's Oha Biz October 15th (Thursday) U.S. Consumer Price Index continues to grow rapidly
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T08:53:42+00:00",
+      "published_utc": "2026-10-15T09:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
