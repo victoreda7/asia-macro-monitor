@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T10:12:43.305727+00:00
+Última coleta: 2026-10-15T10:22:43.467192+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1120
-  🇨🇳 China          841
+  🇨🇳 China          840
   🇹🇼 Taiwan         318
-  🇰🇷 Coreia do Sul  721
+  🇰🇷 Coreia do Sul  722
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC's net profit hits record in third quarter
+  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 592032.26, Implies 89% Upside
   - [china] China Resources Power Logs 9M Net Generation Of Subsidiary Power Plants Up 9.7%
   - [japan] Japan economy minister says deflation era is over, urges investor rethink
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining fShares
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Wall St futures drop as hot CPI revives Fed hike concerns; TSMC results in focus
   - [japan] TSE closing price 3318 yen lower, third largest decline
   - [china] China long-dated bond yields hit 15-month low as PBOC keeps cash flowing
-  - [korea] (LEAD) Seoul shares crash over 7 pct on chip rout amid AI, inflation woes
-  - [japan] Japan's Nikkei slumps 5% as tech stocks hammered by AI, rate hike worries
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T10:12:43+00:00",
+      "published_utc": "2026-10-15T10:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
