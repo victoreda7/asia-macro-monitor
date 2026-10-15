@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T12:03:40.546409+00:00
+Última coleta: 2026-10-15T12:13:41.421096+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1120
-  🇨🇳 China          842
+  🇯🇵 Japão          1121
+  🇨🇳 China          841
   🇹🇼 Taiwan         319
   🇰🇷 Coreia do Sul  719
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Semiconductor Manufacturing Company Limited reports results for the quarter ended September 30 - Earnin
   - [taiwan] Needham maintains Buy rating on Taiwan Semiconductor, $560 price target
   - [china] China's yuan may appreciate further, but weak domestic demand and US yields pose risks: Report
   - [japan] Japan economy minister stresses BOJ independence, rejects reflationist label
@@ -40,6 +41,7 @@ Total: 3000 manchetes
   - [taiwan] Can TSMC earnings help settle AI jitters?
   - [japan] Yen price rises due to comments from Bank of Japan committee members
   - [china] China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll
+  - [china] Central Bank: Will launch 700 billion yuan buyout reverse repurchase operation on October 15 | People's Bank o
   - [taiwan] TSMC Weighs Texas Expansion, Holds Talks on Musk's Terafab as AI Demand Outpaces Supply — Update
   - [taiwan] TSMC bars capacity resale, aims to leave no AI money on the table
   - [taiwan] TSMC raises 2026 sales growth forecast to 44%, leaves capex unchanged
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [china] China stocks close at 14-month low as US inflation stokes Fed fears
   - [japan] Bank of Japan Councilor Koeda says 2% underlying inflation rate is "taking hold": Rate hikes should be done in
-  - [taiwan] TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030
-  - [taiwan] TSMC beats forecasts as quarterly sales, profits soar
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T12:03:40+00:00",
+      "published_utc": "2026-10-15T12:13:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
