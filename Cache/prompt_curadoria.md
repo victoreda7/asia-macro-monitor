@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T00:42:41.624836+00:00
+Última coleta: 2026-10-15T00:52:44.736812+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1124
+  🇯🇵 Japão          1123
   🇨🇳 China          851
   🇹🇼 Taiwan         293
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
   - [korea] Seoul stocks open sharply lower on lingering concerns over AI, US inflation
+  - [korea] Kospi plunges nearly 6% as foreigners dump chip stocks
   - [japan] Japan's Nikkei tumbles as tech stocks hammered on US rate hike worries
   - [korea] (LEAD) Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation
   - [japan] How can eel pie companies eliminate departmental deficits?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] US cuts Obamacare subsidies for 189,000 with duplicate coverage
   - [korea] Korea's GDP per capita to top $40,000 this year, IMF says
   - [china] IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports
-  - [china] On October 15, 2026, the central bank increased the amount of 6-month buyout reverse repurchase with an additi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T00:42:41+00:00",
+      "published_utc": "2026-10-15T00:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
