@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T13:12:45.510660+00:00
+Última coleta: 2026-10-15T13:22:43.894960+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1121
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi crashes 8% as Samsung, SK hynix sink over 10%
+  - [taiwan] TSMC's Q3 results, outlook pave path for 'banner year' in 2027: analysts
   - [japan] Japan tells G20 authorities must watch FX moves with high sense of urgency, finance minister says
   - [taiwan] Taiwan Semiconductor Manufacturing Company Limited reports results for the quarter ended September 30 - Earnin
   - [china] China’s central bank chief urges ’comprehensive’ view on global imbalances
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] What is the difference between Switzerland and America? “Japan’s price level” and the world’s real world (LIMO
   - [taiwan] After Elon Musk’s Invitation, TSMC CEO Reportedly Says Open To Working On Terafab But Must Run It
   - [taiwan] TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com
-  - [taiwan] TSMC CEO sees no sign of a slowdown as chip foundry reports record profit
-  - [taiwan] TSMC open to Terafab collaboration but insists on controlling its own plants
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T13:12:45+00:00",
+      "published_utc": "2026-10-15T13:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
