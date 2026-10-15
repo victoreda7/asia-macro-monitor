@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T21:52:43.117258+00:00
+Última coleta: 2026-10-15T22:02:45.143802+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1119
-  🇨🇳 China          844
-  🇹🇼 Taiwan         323
+  🇨🇳 China          845
+  🇹🇼 Taiwan         322
   🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [china] The China decoupling paradox: why the world still needs its manufacturing machine
   - [korea] South Korea Import Prices Rise in September
   - [korea] South Korea Export Price Growth Eases in September
   - [japan] First-class Shine Muscat is sold for "only 300 yen"...A "super diversified company in Okayama" that has been i
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor Posts Record Profit
   - [korea] Kospi crashes 8% as Samsung, SK hynix sink over 10%
   - [taiwan] TSMC's Q3 results, outlook pave path for 'banner year' in 2027: analysts
-  - [japan] Dollar retreats from 18-month peaks despite hotter U.S. producer prices
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T21:52:43+00:00",
+      "published_utc": "2026-10-15T22:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
