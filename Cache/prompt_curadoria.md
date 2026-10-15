@@ -7,23 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T06:22:48.223891+00:00
+Última coleta: 2026-10-15T06:32:43.492055+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1120
-  🇨🇳 China          844
-  🇹🇼 Taiwan         301
-  🇰🇷 Coreia do Sul  735
+  🇯🇵 Japão          1117
+  🇨🇳 China          843
+  🇹🇼 Taiwan         306
+  🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Semiconductor Manufacturing in charts: Advanced chips drive 79% of Q3 wafer revenue
+  - [korea] SK hynix ties U.S. NAND factory to approval for more equipment at China fab - report
+  - [taiwan] TSMC Chairman: No Ceiling for TSMC Profitability, But Dramatic Improvement Won't Happen Overnight
+  - [china] China launches large-scale economic stimulus package, despite sluggish domestic demand, fiscal support is "lim
   - [taiwan] QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips
+  - [taiwan] Taiwan Semiconductor ADR earnings beat by $0.18, revenue topped estimates
   - [taiwan] TSMC Raises 2026 Revenue Growth Forecast to Around 44%
   - [taiwan] TSMC profit soars 69% in another record quarter fueled by AI boom
   - [taiwan] TSMC Reiterates 2026 Capex Between US$60B-US$64B
   - [taiwan] TSMC Expects 4Q Revenue Between US$52.3B-US$54.3B
   - [taiwan] TSMC Expects 4Q Gross Margin Between 65%-67%
   - [taiwan] AI Demand Extends TSMC's Record Earnings Streak
+  - [taiwan] TSMC profit beats estimates with 69% rise, but stock faces big test
   - [japan] Today's Oha Biz October 15th (Thursday) U.S. Consumer Price Index continues to grow rapidly
   - [japan] Japan August industrial production revised down to -2.4% M/M; core machine orders rise 5.2%
   - [japan] IMF: Japan to fall to 6th in 2027 global GDP rankings
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Industrial Output Falls More than Initially Anticipated
   - [korea] Kospi crashes 8% as Samsung, SK hynix sink over 10%
   - [korea] Stock Crash: SK Hynix plunges 57% from peak in four months, loses nearly $700 billion in value
-  - [china] China's yuan gains as Fed rate caution knocks dollar from 18-month high
-  - [japan] Asia FX mixed, dollar slips after hot U.S. CPI; yen firms on intervention warnings
-  - [korea] Hot US inflation hammers Kospi nearly 6% lower as chips buckle
-  - [china] China stocks fall, led by tech, as US inflation stokes Fed fears
-  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 592032.26, Implies 89% Upside
-  - [china] China's Export Surge Creates Winners as Well as Losers in Asia — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T06:22:48+00:00",
+      "published_utc": "2026-10-15T06:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
