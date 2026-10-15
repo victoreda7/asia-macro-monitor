@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T05:12:43.649015+00:00",
- "collected_at_utc": "2026-10-15T05:12:43.649015+00:00",
+ "generated_at_utc": "2026-10-15T05:22:42.973877+00:00",
+ "collected_at_utc": "2026-10-15T05:22:42.973877+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1122,
+  "japan": 1123,
   "china": 846,
-  "taiwan": 292,
-  "korea": 740
+  "taiwan": 293,
+  "korea": 738
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:40:00+00:00"
+   "newest": "2026-10-15T02:57:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T13:27:56+00:00"
+   "newest": "2026-10-15T14:17:31+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T13:11:56+09:00"
+   "newest": "2026-10-15T14:18:57+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T03:05:48+00:00"
+   "newest": "2026-10-15T03:11:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T23:50:36+00:00"
+   "newest": "2026-10-15T02:52:06+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T22:30:00+00:00"
+   "newest": "2026-10-15T04:42:38+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-15T14:00:00+09:00"
+   "newest": "2026-10-15T14:10:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Bank of Japan member Koeda: ``We won't be overly cautious about raising interest rates.''",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261015de59735",
+   "published_utc": "2026-10-15T05:18:57+00:00",
+   "title_original": "日銀小枝委員「利上げに過度に慎重になることはない」",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a0074557f65b0a74"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -899,6 +916,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c084f7da4411ed42"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTU5yU2ZpaEZUd2lKZWZvWU5RdEdRTFRMaUM2NXplMnN3ak9CSTMwWTFTWXp1bnZla2VFTzlfeUxhNzNuTVV1Qmx6a1A0elpNekVGMndFUUl2Z2E4R2UtN3BDNU5JZVMzWWI3b1NURlEzQ0lsMVIwQ1NZT1JBRzh2U3ZqeGk4ZFdVVEE2UmNKUXhsRl9sU1ZGOTVOZzFHUU9fdFgwVEtuUTNpOTRGaWo2dUJB?oc=5",
+   "published_utc": "2026-10-15T02:57:00+00:00",
+   "title_original": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
+   "region": "taiwan",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "26934ca56083e2e1"
   },
   {
    "source_id": "investing_live",
@@ -10616,8 +10651,8 @@
    "id": "335dfc677a3bc17f"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Minister Kihara \"Carefully discuss with opposition parties to pass tax reduction bill, etc.\" NHK Sunday debate",
    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836",
    "published_utc": "2026-10-11T02:21:41+00:00",
@@ -10630,7 +10665,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "eaba0bd888ebf1e3"
+   "id": "8b2b06943f64f97b"
   },
   {
    "source_id": "tradingview_live",
@@ -11579,8 +11614,8 @@
    "id": "934efab823cba446"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill submitted to the Diet, Agriculture Minister Yan says, investigation continues",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57493",
    "published_utc": "2026-10-09T13:17:23+00:00",
@@ -11594,7 +11629,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8833621c05226f22"
+   "id": "755074815d973cdc"
   },
   {
    "source_id": "tradingview_live",
@@ -11785,8 +11820,8 @@
    "id": "869867c1ebdc0f11"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi's economic growth rate and fiscal management targets \"concrete inspection and verification system\"",
    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57477",
    "published_utc": "2026-10-09T11:46:29+00:00",
@@ -11800,7 +11835,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2e01c2e1325539c9"
+   "id": "f30dbb53ad88d07d"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51892,40 +51927,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1611b316acb63596"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "Intel Stock Jumps on Report of Potential SK Hynix Ohio Chip Deal",
-   "url": "https://www.tradingview.com/news/gurufocus:a46a310ab094b:0-intel-stock-jumps-on-report-of-potential-sk-hynix-ohio-chip-deal/",
-   "published_utc": "2026-09-16T14:12:51+00:00",
-   "title_original": "Intel Stock Jumps on Report of Potential SK Hynix Ohio Chip Deal",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "86e45e540078f6e4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Intel Stock Jumps on Talk of SK Hynix Deal. It Could Be the Next Hot Memory-Chip Play. — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20260916002070:0/",
-   "published_utc": "2026-09-16T14:11:00+00:00",
-   "title_original": "Intel Stock Jumps on Talk of SK Hynix Deal. It Could Be the Next Hot Memory-Chip Play. — Barrons.com",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b7fd1a13d8e9f39f"
   },
   {
    "source_id": "manual_ia",

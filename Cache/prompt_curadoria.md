@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T05:12:43.649015+00:00
+Última coleta: 2026-10-15T05:22:42.973877+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1122
+  🇯🇵 Japão          1123
   🇨🇳 China          846
-  🇹🇼 Taiwan         292
-  🇰🇷 Coreia do Sul  740
+  🇹🇼 Taiwan         293
+  🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan member Koeda: ``We won't be overly cautious about raising interest rates.''
   - [japan] BOJ Member Koeda's Speech Reinforces Scope for Further Rate Hikes — Market Talk
   - [japan] Asian stocks sell off as AI trades crumble after hot US inflation data By Reuters
   - [china] This Chinese export boom really has legs – and wings
@@ -49,14 +50,13 @@ Total: 3000 manchetes
   - [taiwan] ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports
   - [japan] Yen Gains Amid Fresh Verbal Warning
   - [japan] Asia stocks slump as chip rout deepens after hotter U.S. inflation
+  - [taiwan] Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment
   - [korea] Asia stocks tumble, S.Korea’s KOSPI slumps 7% on chip rout, Fed rate fears
   - [taiwan] Bytedance In Talks To Secure Mediatek AI Chips For Data Centers - Bloomberg News
   - [japan] What's behind the sudden turnaround and being fired in 4 weeks? Prime Minister Takaichi's "Chiebukuro" Ministe
   - [japan] G20 Finance Ministers and Central Bank Governors Meeting begins, discussing responses to the global economy an
   - [japan] Bank of Japan member Koeda says there is ``reasonable'' risk of price rises, and there is no need to be overly
   - [japan] ``There is a fair amount'' of price rise risk, and there is no need to be overly cautious about raising intere
-  - [japan] BOJ Board Member Indicates Further Room for Rate Hikes
-  - [korea] Why a memory chip glut could be Korea's weapon against China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T05:12:43+00:00",
+      "published_utc": "2026-10-15T05:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
