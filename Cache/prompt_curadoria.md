@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T15:52:44.271152+00:00
+Última coleta: 2026-10-15T16:02:50.299593+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1122
-  🇨🇳 China          844
-  🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  714
+  🇨🇳 China          843
+  🇹🇼 Taiwan         322
+  🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares crash over 7% on chip rout amid AI, inflation woes
+  - [taiwan] TSMC Stock Falls as CFO Warns of Margin Pressure
   - [japan] US retail sales show solid growth of +0.8% in September
   - [taiwan] TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short
   - [japan] Mazda brings part of its supply chain back to Japan with help from robots
@@ -25,6 +27,7 @@ Total: 3000 manchetes
   - [korea] Why is SK hynix ADR stock sliding today?
   - [china] France and Germany to allow UK to join EU car policy if it aligns on China tariffs
   - [china] France and Germany to allow UK in EU car policy if it aligns on China tariffs
+  - [taiwan] US chip stocks set to wipe out $2 trillion after latest selloff
   - [taiwan] CoreWeave, TSMC, FMC, Rocket Lab, Schwab, and More Stocks That Explain Today's Market — Barrons.com
   - [china] Blast simulation, university probes, robotics fine, AI spies: 7 US-China relations reads
   - [japan] Japan’s Katayama Renews FX Warnings After US CPI Heats Up
@@ -32,6 +35,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor Posts Record Profit
   - [korea] Kospi crashes 8% as Samsung, SK hynix sink over 10%
   - [taiwan] TSMC's Q3 results, outlook pave path for 'banner year' in 2027: analysts
+  - [japan] Dollar retreats from 18-month peaks despite hotter U.S. producer prices
   - [japan] EQT agrees to buy US real estate manager Stockbridge for $375 million
   - [japan] Japan tells G20 authorities must watch FX moves with high sense of urgency, finance minister says
   - [china] The central bank launched a 700 billion yuan buyout reverse repo to increase liquidity support in the fourth q
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today's Market — Barrons.com
   - [taiwan] TSMC's net profit hits record in third quarter
   - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 592032.26, Implies 89% Upside
-  - [china] EU leaders to tackle China exports, energy prices, budget at summit
-  - [china] China Resources Power Logs 9M Net Generation Of Subsidiary Power Plants Up 9.7%
-  - [japan] Japan economy minister says deflation era is over, urges investor rethink
-  - [japan] [Volatility of AI/semiconductor stocks will further increase] Japanese stocks are in turmoil after the US midt
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T15:52:44+00:00",
+      "published_utc": "2026-10-15T16:02:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

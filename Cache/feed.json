@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T15:52:44.271152+00:00",
- "collected_at_utc": "2026-10-15T15:52:44.271152+00:00",
+ "generated_at_utc": "2026-10-15T16:02:50.299593+00:00",
+ "collected_at_utc": "2026-10-15T16:02:50.299593+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1122,
-  "china": 844,
-  "taiwan": 320,
-  "korea": 714
+  "china": 843,
+  "taiwan": 322,
+  "korea": 713
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 34.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -171,13 +171,13 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T05:43:51+00:00"
+   "newest": "2026-10-15T15:46:44+00:00"
   },
   {
    "source_id": "nhk_politics",
    "name": "NHK 政治",
    "ok": true,
-   "count": 60,
+   "count": 48,
    "error": "",
    "newest": "2026-10-15T22:53:00+09:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T00:33:29+09:00"
+   "newest": "2026-10-16T00:54:12+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T11:15:07+00:00"
+   "newest": "2026-10-15T14:02:41+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T14:50:07+00:00"
+   "newest": "2026-10-15T14:00:05+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T15:52:00+00:00"
+   "newest": "2026-10-15T16:02:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Seoul shares crash over 7% on chip rout amid AI, inflation woes",
+   "url": "https://www.koreaherald.com/article/10904056",
+   "published_utc": "2026-10-15T16:08:39+00:00",
+   "title_original": "Seoul shares crash over 7% on chip rout amid AI, inflation woes",
+   "region": "korea",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6265e435e7d8e490"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "TSMC Stock Falls as CFO Warns of Margin Pressure",
+   "url": "https://www.tradingview.com/news/gurufocus:4b7084f01094b:0-tsmc-stock-falls-as-cfo-warns-of-margin-pressure/",
+   "published_utc": "2026-10-15T15:53:05+00:00",
+   "title_original": "TSMC Stock Falls as CFO Warns of Margin Pressure",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f5591870e9e93f02"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -481,6 +516,23 @@
    "id": "86092c9e86c82673"
   },
   {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "US chip stocks set to wipe out $2 trillion after latest selloff",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZEYU5ySFdLYUlmY29XeGxBbzZ1Nk92dHprTE44dzd5V19Yd09NdmUxUFpXMHhxdzYwenJiUjJQRFhPOXhBcHptTW9rY2J2Y01kM1loR3VQMVBXRG9mR2hQbkdWVnNGQVpCN01KelozT1h4aGx0RjRYeUZHRVRCYnlLWlpXWmpwbFRmRG4tSFR1RkNpRHNTb0lueU1VdWlpSjVFVGljZw?oc=5",
+   "published_utc": "2026-10-15T14:02:41+00:00",
+   "title_original": "US chip stocks set to wipe out $2 trillion after latest selloff",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "aad75cc603ad3f32"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "CoreWeave, TSMC, FMC, Rocket Lab, Schwab, and More Stocks That Explain Today's Market — Barrons.com",
@@ -598,6 +650,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b33d2fedc50006fe"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar retreats from 18-month peaks despite hotter U.S. producer prices",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY2JlN3BFbUhBSFhoekhHRXpLcFdudk5tczd2ZkQ2eF9mcm9WRnppRU9WalBKTmFORF9tTG9zZGpyUjVwYXR5MHRnNkdnNUM5RnlZemxlTGFnSHdiUl9NVFQtaTQzQ2J4ZmNzSTNOQjZWSXc1d3c2NWI2U2luMXpncFVQbEJGelJKX1lCSFI5dTFYV2J6dmhqdDJia2FtamhUdVRjME9XcjdNaVdHaDFWamNGN3JiNXhDN21NLWI0Y21TaDRXYUE?oc=5",
+   "published_utc": "2026-10-15T13:18:04+00:00",
+   "title_original": "Dollar retreats from 18-month peaks despite hotter U.S. producer prices",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1f70805bec5a87b2"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -1067,6 +1136,24 @@
    "live_wire": true,
    "manual": false,
    "id": "0615fa79a855dd45"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Policymaker: BOJ shouldn't be too cautious raising rates",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zREY2YmRXTkN0UUVkMWRPeVJQQTZBVUhwUWZRT0YzVXBQMmJtYlFBUE5oUkhKMjNXSEJnRkhkX3BrSEJuN1pXNUU0QjctelM3OFdLQWc2OFRnU2p1S09ZdGNwaw?oc=5",
+   "published_utc": "2026-10-15T09:41:57+00:00",
+   "title_original": "Policymaker: BOJ shouldn't be too cautious raising rates",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5bdb98f54dcc2c13"
   },
   {
    "source_id": "investing_live",
@@ -1569,23 +1656,6 @@
    "id": "b6764a0394f7f872"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan futures fall as Tokyo equities slump, China imports weaken",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46107V:0-japan-futures-fall-as-tokyo-equities-slump-china-imports-weaken/",
-   "published_utc": "2026-10-15T07:22:10+00:00",
-   "title_original": "Japan futures fall as Tokyo equities slump, China imports weaken",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3e59f4f145d46632"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Earnings call transcript: TSMC beats Q3 2026 estimates as stock slips",
@@ -1601,24 +1671,6 @@
    "live_wire": true,
    "manual": false,
    "id": "2767cb41d96c38d1"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Seoul shares crash over 7% on chip rout amid AI, inflation woes",
-   "url": "https://www.koreaherald.com/article/10904056",
-   "published_utc": "2026-10-15T07:12:41.253790+00:00",
-   "title_original": "Seoul shares crash over 7% on chip rout amid AI, inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6265e435e7d8e490"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2037,24 +2089,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Policymaker: BOJ shouldn't be too cautious raising rates",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zREY2YmRXTkN0UUVkMWRPeVJQQTZBVUhwUWZRT0YzVXBQMmJtYlFBUE5oUkhKMjNXSEJnRkhkX3BrSEJuN1pXNUU0QjctelM3OFdLQWc2OFRnU2p1S09ZdGNwaw?oc=5",
-   "published_utc": "2026-10-15T04:42:57+00:00",
-   "title_original": "Policymaker: BOJ shouldn't be too cautious raising rates",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5bdb98f54dcc2c13"
   },
   {
    "source_id": "investing_fx",
@@ -51897,40 +51931,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6e6e85f27e952317"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "The U.S. turns to tightening for the first time in three years, putting upward pressure on the Bank of Korea's benchmark interest rate and bank lending rates.",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE01LXBfTUJGcnU4NllKdFk4Z1RaUUFJVXA1ajh6emZrZkhtaE5Va0Z5ME10MDNzcFl0akp6eDZQTGxVMUtMRkE?oc=5",
-   "published_utc": "2026-09-17T06:40:42+00:00",
-   "title_original": "美 3년여 만에 긴축 전환, 한은 기준금리·은행 대출금리 상방 압력",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6a532cec1310d57b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "From quarantine boxes to luxury cabins, China's prefab home factories pivot to exports",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N451143:0-from-quarantine-boxes-to-luxury-cabins-china-s-prefab-home-factories-pivot-to-exports/",
-   "published_utc": "2026-09-17T06:30:00+00:00",
-   "title_original": "From quarantine boxes to luxury cabins, China's prefab home factories pivot to exports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b4aeef5f1a919b89"
   },
   {
    "source_id": "manual_ia",
