@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-15T03:12:42.328755+00:00",
- "collected_at_utc": "2026-10-15T03:12:42.328755+00:00",
+ "generated_at_utc": "2026-10-15T03:22:43.242028+00:00",
+ "collected_at_utc": "2026-10-15T03:22:43.242028+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1120,
-  "china": 847,
-  "taiwan": 294,
-  "korea": 739
+  "japan": 1121,
+  "china": 848,
+  "taiwan": 293,
+  "korea": 738
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T21:28:33+00:00"
+   "newest": "2026-10-15T02:57:36+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-15T11:35:07+00:00"
+   "newest": "2026-10-15T12:17:37+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-11T10:12:00+00:00"
+   "newest": "2026-10-14T01:46:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T12:04:58+09:00"
+   "newest": "2026-10-15T12:14:19+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-15T11:49:27+09:00"
+   "newest": "2026-10-15T12:16:08+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T02:04:14+00:00"
+   "newest": "2026-10-15T03:05:48+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T03:11:25+00:00"
+   "newest": "2026-10-15T03:21:28+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-14T21:53:24+00:00"
+   "newest": "2026-10-15T03:01:30+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,24 @@
  ],
  "items": [
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launched a 45 billion yuan seven-day reverse repurchase operation with an interest rate of 1.40%, the same as last time",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBydU9xV3NKMEUteXRjMkFGd2JDRUtxVi1WbDNuM1B1clotbHNjaUl6TnhsZEVnVTNSejQ3cEU0UTREZUZaZm9OUnBHczBoRkxlNjV1UjVpbHViNFM2eUtINi1B?oc=5",
+   "published_utc": "2026-10-15T03:05:48+00:00",
+   "title_original": "央行开展450亿元七天期逆回购操作 利率1.40%持平上次",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fc9a5bdca9ce7c96"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Hong Kong's sole yuan clearing bank plans mainland NCD issuance",
@@ -376,6 +394,41 @@
    "live_wire": true,
    "manual": false,
    "id": "ff0b2937a58027ee"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Yen Gains Amid Fresh Verbal Warning",
+   "url": "https://www.tradingview.com/news/te_news:592143:0-yen-gains-amid-fresh-verbal-warning/",
+   "published_utc": "2026-10-15T02:57:40+00:00",
+   "title_original": "Yen Gains Amid Fresh Verbal Warning",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a458ead13f08f07d"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Asia stocks slump as chip rout deepens after hotter U.S. inflation",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWRlamRtNkFhdlVQY2gydENvZm9xYjU1MGxDT09MTGh5YkhISzFYYko1NTBQMENtMmxfU3BHWmlScWRkOGxsbEp4WDhlajEzQmxld3o1Q2pjUldoM0MtLXBmd2p0OTNjdExxVDZyTER3YzEyLTdxZVRiMGRRMTdDaWFvWi1KdW5fV1Yybk9Hem1VZ0FXS0pHemZFMU04c01mSUlUVG9Yd2k0ck94S2hRMmN6T1F5R0pkTEtjMzln?oc=5",
+   "published_utc": "2026-10-15T02:57:36+00:00",
+   "title_original": "Asia stocks slump as chip rout deepens after hotter U.S. inflation",
+   "region": "japan",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c084f7da4411ed42"
   },
   {
    "source_id": "investing_live",
@@ -51867,59 +51920,6 @@
    "live_wire": false,
    "manual": false,
    "id": "69c5c9d40bcad132"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix edge higher despite continued headwinds",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CQmRPeFFadkVjdTFZZ2RyUy1Ea1NUN0F5bUtvMUtRVi1Kb0pTbnB5eXByNUJRWWNreldqRGtCOVdxTTBkempZS3hfYXpJWWppYnZEZmVUQQ?oc=5",
-   "published_utc": "2026-09-16T07:00:00+00:00",
-   "title_original": "Samsung Electronics, SK hynix edge higher despite continued headwinds",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9ec25fe0e25c7b44"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan logs 1.1 trillion yen trade deficit in August",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRaF83WGExUWlqb2R0YUxSU09GYlQyNWNlVzhfNHk5ekJBckJUdmFrU2doX2NDOEpPaE10Q0FXSTBkcnF5NHVHcWtrRUszZENqS3A5WUdUMWlSdw?oc=5",
-   "published_utc": "2026-09-16T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Japan logs 1.1 trillion yen trade deficit in August",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a71932c4d3b1ae70"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Advanced processes have no ready-made answers, says TSMC's COO",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSHo1SVYzTVo3YmdtNC1TY1RQTGtCb2N0TWkxcndKVVVFQ2xRQ1BhaU1CODhBNE4zT3VtZ3FmbW1hY0VtTmJ5WWtMSjRsX2hLWGpvME45VWhQZEx6dE5mRWVVRVdOdU5nbnhuU0pnZVVVWlVwZzZUeklBeTZKMWpaV2hNMjNzQS1mVWc?oc=5",
-   "published_utc": "2026-09-16T07:00:00+00:00",
-   "title_original": "Advanced processes have no ready-made answers, says TSMC's COO",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "404c2502505b2893"
   },
   {
    "source_id": "manual_ia",

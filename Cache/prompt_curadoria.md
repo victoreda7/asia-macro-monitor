@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-15T03:12:42.328755+00:00
+Última coleta: 2026-10-15T03:22:43.242028+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1120
-  🇨🇳 China          847
-  🇹🇼 Taiwan         294
-  🇰🇷 Coreia do Sul  739
+  🇯🇵 Japão          1121
+  🇨🇳 China          848
+  🇹🇼 Taiwan         293
+  🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank launched a 45 billion yuan seven-day reverse repurchase operation with an interest rate of 1.
   - [china] Hong Kong's sole yuan clearing bank plans mainland NCD issuance
   - [taiwan] ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports
+  - [japan] Yen Gains Amid Fresh Verbal Warning
+  - [japan] Asia stocks slump as chip rout deepens after hotter U.S. inflation
   - [korea] Asia stocks tumble, S.Korea’s KOSPI slumps 7% on chip rout, Fed rate fears
   - [taiwan] Bytedance In Talks To Secure Mediatek AI Chips For Data Centers - Bloomberg News
   - [japan] What's behind the sudden turnaround and being fired in 4 weeks? Prime Minister Takaichi's "Chiebukuro" Ministe
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Key facts: TSMC (2330) Q3 revenue NT$1.49T record; 2026 capex $60–64B
   - [japan] Japan’s Katayama Renews Warnings on Yen After US CPI Heats Up
   - [japan] Asian markets sell off as AI trades crumble after hot US CPI data
-  - [japan] Japan’s Nikkei Slumps on Hot US Inflation
-  - [korea] Seoul stocks open sharply lower on lingering concerns over AI, US inflation
-  - [china] Securities Star morning news summary on October 15: The central bank released the latest social financing data
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-15T03:12:42+00:00",
+      "published_utc": "2026-10-15T03:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
