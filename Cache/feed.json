@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-15T21:22:42.937607+00:00",
- "collected_at_utc": "2026-10-15T21:22:42.937607+00:00",
+ "generated_at_utc": "2026-10-15T21:32:43.100328+00:00",
+ "collected_at_utc": "2026-10-15T21:32:43.100328+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1119,
   "china": 844,
-  "taiwan": 325,
-  "korea": 712
+  "taiwan": 324,
+  "korea": 713
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-15T21:21:01+00:00"
+   "newest": "2026-10-15T21:32:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korea Export Price Growth Eases in September",
+   "url": "https://www.tradingview.com/news/te_news:592516:0-south-korea-export-price-growth-eases-in-september/",
+   "published_utc": "2026-10-15T21:11:34+00:00",
+   "title_original": "South Korea Export Price Growth Eases in September",
+   "region": "korea",
+   "topics": [
+    "inflation",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "be8b77a38e0cdb61"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -1655,23 +1673,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8e876ccd3947d901"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "TSMC open to Terafab collaboration but insists on controlling its own plants",
-   "url": "https://www.tradingview.com/news/seekingalpha:5a3d8db68094b:0-tsmc-open-to-terafab-collaboration-but-insists-on-controlling-its-own-plants/",
-   "published_utc": "2026-10-15T08:39:39+00:00",
-   "title_original": "TSMC open to Terafab collaboration but insists on controlling its own plants",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a3b2ad31d16778ee"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5403,23 +5404,6 @@
    "id": "64d083aff58819da"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China's September exports soar, putting $1 trillion trade surplus in sight",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXg0RnM4TVlLaHEwQjBYdU16ZGhJaXpFeVVXYk9FLVg1RFp4cVlvWWNWa2xlRlhacndGbHpYeF9QMWs5Zy0ydnV6Ni1kV2dIUS1Ca0NEYVNpdHlQMk1EdFBOc2hxTVlJLXZXX2RKbVplTG5NY1B2NEl2UXRFaFROckZjUGdVZW1vcWpYUmdJR21JOTJrQkhIT3E5Y25CM1VCMDNwOWcxbVdsZw?oc=5",
-   "published_utc": "2026-10-14T05:21:08+00:00",
-   "title_original": "China's September exports soar, putting $1 trillion trade surplus in sight",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ececfdcf639c8d5d"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "Morgan Stanley: “The Bank of Korea will raise prices in November after freezing in October…inflation pressure”",
@@ -5730,6 +5714,23 @@
    "live_wire": false,
    "manual": false,
    "id": "38ff92ee563aecad"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China's September exports soar, putting $1 trillion trade surplus in sight",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXg0RnM4TVlLaHEwQjBYdU16ZGhJaXpFeVVXYk9FLVg1RFp4cVlvWWNWa2xlRlhacndGbHpYeF9QMWs5Zy0ydnV6Ni1kV2dIUS1Ca0NEYVNpdHlQMk1EdFBOc2hxTVlJLXZXX2RKbVplTG5NY1B2NEl2UXRFaFROckZjUGdVZW1vcWpYUmdJR21JOTJrQkhIT3E5Y25CM1VCMDNwOWcxbVdsZw?oc=5",
+   "published_utc": "2026-10-14T02:41:00+00:00",
+   "title_original": "China's September exports soar, putting $1 trillion trade surplus in sight",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ececfdcf639c8d5d"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -7600,7 +7601,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(2nd LD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WS0YwclFPN0czNEVnQWlLX0pocDRKaGZFWlk0YkxlU3lYQi1vT2RnalI2cXRoRFpJYmhzQWsyWlZDWWlxdFJfSDZOWFV1RUh1LTJrT05uZmFBdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZUVjQ1ZsRmJnUzRaRTZxSWFtb3Bhbm5xc0JobjJkNTFzdG94N1dSTlJ6aHBBLWhLdURoVE5VUHc5UThSaUFocEtsYmJ0ZWZmSlNaLWF4WGNLMEEzZmk2bDVaVUVLcVJEOW1EVEh5V2FiR2sxalppblRuMzlEcWdqci1iVHg?oc=5",
    "published_utc": "2026-10-13T07:36:07+00:00",
    "title_original": "(2nd LD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes",
    "region": "korea",
@@ -7611,7 +7612,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "3c63aebd7e0420e7"
+   "id": "5331a6bd431c6afd"
   },
   {
    "source_id": "nikkei_asia",
@@ -23900,23 +23901,6 @@
    "id": "bc9cd7012ff5e719"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
-   "published_utc": "2026-10-02T11:04:36+00:00",
-   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "623202d19857e66d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
@@ -24386,6 +24370,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c40d4b61783a66e6"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "623202d19857e66d"
   },
   {
    "source_id": "gn_tw_digitimes",
