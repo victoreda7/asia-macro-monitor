@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T06:12:45.112591+00:00
+Última coleta: 2026-10-16T06:22:43.033471+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1114
-  🇨🇳 China          850
-  🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  713
+  🇯🇵 Japão          1112
+  🇨🇳 China          852
+  🇹🇼 Taiwan         324
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
   - [china] Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch
   - [japan] Japanese Government Bond (JGB) Yields Recover as Risk Aversion Mood Eases
   - [japan] JGB yields rebound as risk-off mode eases
+  - [taiwan] Taiwan to curb AI chip sales to China for more U.S. alignment- Bloomberg
   - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
   - [china] China's Piecemeal Stimulus Still Insufficient to Boost Domestic Demand — Market Talk
   - [taiwan] Taiwan economic growth in 2026 to be highest in 39 years: CIER
@@ -38,6 +39,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC's Capex Likely to Surge to US$83 Billion in 2027 — Market Talk
   - [taiwan] TSMC eyes adding facilities in Texas
   - [japan] Japan core inflation likely exceeded BOJ target for first time since December
+  - [china] PBOC’s Pan Touts Yuan Assets to Investors at Deutsche Bank Event
   - [japan] Japan 10-Year Yield Rises as BOJ Outlook Mulled
   - [taiwan] TSMC Still Best-Placed in AI Boom — Market Talk
   - [china] The central bank launched a 700 billion yuan buyout reverse repo on October 15, with an additional 6-month ext
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] [Next week's economic schedule] Pay attention to the Bank of Korea's base interest rate decision... China's th
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7220 FRI VS 6.7253
   - [china] The central bank launched a 60 billion yuan 7-day reverse repurchase operation today
-  - [korea] S.Korean shares rebound as Samsung, SK Hynix rise; foreigners extend selling spree
-  - [korea] Samsung Cuts Fourth-Quarter Low-End Phone Production as PCB Material Supply Tightens
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T06:12:45+00:00",
+      "published_utc": "2026-10-16T06:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
