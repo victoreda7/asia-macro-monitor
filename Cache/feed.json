@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T02:42:43.494695+00:00",
- "collected_at_utc": "2026-10-16T02:42:43.494695+00:00",
+ "generated_at_utc": "2026-10-16T02:52:46.764078+00:00",
+ "collected_at_utc": "2026-10-16T02:52:46.764078+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1113,
+  "japan": 1111,
   "china": 853,
-  "taiwan": 320,
-  "korea": 714
+  "taiwan": 321,
+  "korea": 715
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T16:07:36+00:00"
+   "newest": "2026-10-15T20:07:57+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-16T09:58:05+00:00"
+   "newest": "2026-10-16T11:51:28+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -177,9 +177,9 @@
    "source_id": "nhk_politics",
    "name": "NHK 政治",
    "ok": true,
-   "count": 56,
+   "count": 57,
    "error": "",
-   "newest": "2026-10-16T11:31:34+09:00"
+   "newest": "2026-10-16T11:41:58+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T12:21:11+00:00"
+   "newest": "2026-10-16T02:46:10+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T02:41:00+00:00"
+   "newest": "2026-10-16T02:51:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-16T02:37:32+00:00"
+   "newest": "2026-10-16T02:45:12+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -339,10 +339,45 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T00:19:48+00:00"
+   "newest": "2026-10-16T01:37:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "TSMC Still Best-Placed in AI Boom — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261015010470:0-tsmc-still-best-placed-in-ai-boom-market-talk/",
+   "published_utc": "2026-10-16T02:48:00+00:00",
+   "title_original": "TSMC Still Best-Placed in AI Boom — Market Talk",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2a57be6e48bceba1"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank launched a 700 billion yuan buyout reverse repo on October 15, with an additional 6-month extension of 200 billion yuan.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWWUtSVnRSb1pwV2ROXzZfYXo0czVoUUhWZFlteEJCWWNwaFdqdFJXV1pINnFrN2s5MF85bUFWY21YMGtCOENMTkFSR1F0ZGZzcnIyVkljSWJkTGR2dnV6T0Nn?oc=5",
+   "published_utc": "2026-10-16T02:46:10+00:00",
+   "title_original": "央行10月15日开展7000亿元买断式逆回购 6个月期加量续作2000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "075bfa4529087fe8"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
@@ -427,6 +462,24 @@
    "live_wire": true,
    "manual": false,
    "id": "07fa00f789265968"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "SBS Biz",
+   "title_en": "[Next week's economic schedule] Pay attention to the Bank of Korea's base interest rate decision... China's third quarter growth rate is also of interest.",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfM2x4X0tHTzRpOU9TcTIzbS1WalRqV1VUOF9rTGdaUndSTS1BRHNTb0R1TzFmN3dXcUFrZHg2THhxMk9GSGhudWxMaFNpWWJ2bFZB0gFYQVVfeXFMTjhTcVBPTS1tV0tLd0dUbDVENVhoaWNBUk9YWnd3WEh0TTdhaml3dFZfUGpkX0FzeXhGaHZMVk9ERkd4WTRuOFUwZGcxSjROa2RDd2J2MDRMdw?oc=5",
+   "published_utc": "2026-10-16T01:37:00+00:00",
+   "title_original": "[다음 주 경제일정] 한국은행 기준금리 결정 주목…中 3분기 성장률도 관심",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "09d67c7edcf8d3ad"
   },
   {
    "source_id": "tradingview_live",
@@ -858,6 +911,23 @@
    "id": "1b363c709db86ae4"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "IEA to complete release of 100M barrels from March intervention",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZVRSRTVmbW1Eam9Gb3AzU3hEQUY1T0FqNXpMcHFBVXp1UUk4NVk4LVlpeEt2SmdtY1RPVHFhWGEyZWlQSnVZQk5RdVdHMUJwcmowZmhkcEEwYlo0Q1RwMXNBc19XLXVFUGlhNzdmVEU5QlRCX0xwOUZ4YTBsTkRJSTVPZzduSV9ZNU81QTdUUkRrYU4xRHRwci0teS1JODRKYnhyRk01Z0NXWWw5cmszcUhCcy1Zdw?oc=5",
+   "published_utc": "2026-10-15T20:07:57+00:00",
+   "title_original": "IEA to complete release of 100M barrels from March intervention",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "70f8b61822d913ea"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
    "title_en": "2330 Stock 12‑Month Price Target Raised to TWD 3359.94, Implies 35% Upside",
@@ -1234,23 +1304,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d6d18be7dac50d29"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "IEA to complete release of 100M barrels from March intervention",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZVRSRTVmbW1Eam9Gb3AzU3hEQUY1T0FqNXpMcHFBVXp1UUk4NVk4LVlpeEt2SmdtY1RPVHFhWGEyZWlQSnVZQk5RdVdHMUJwcmowZmhkcEEwYlo0Q1RwMXNBc19XLXVFUGlhNzdmVEU5QlRCX0xwOUZ4YTBsTkRJSTVPZzduSV9ZNU81QTdUUkRrYU4xRHRwci0teS1JODRKYnhyRk01Z0NXWWw5cmszcUhCcy1Zdw?oc=5",
-   "published_utc": "2026-10-15T14:47:57+00:00",
-   "title_original": "IEA to complete release of 100M barrels from March intervention",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "70f8b61822d913ea"
   },
   {
    "source_id": "tradingview_live",
@@ -24345,23 +24398,6 @@
    "id": "bc9cd7012ff5e719"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
-   "published_utc": "2026-10-02T11:04:36+00:00",
-   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "623202d19857e66d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
@@ -24831,6 +24867,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c40d4b61783a66e6"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "623202d19857e66d"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51869,59 +51922,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cd3da8b6c80c166e"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "We expect the Bank of Japan to work with the government to implement appropriate monetary policy (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnRXB4MUVaQzV6LU52dzlDWHRQQlBoTTlkUHJDRWE5Zm1fb08tS3FMZnloaVRaVVlMdmZzT2xacFpuMmNCSjRIM3kyOFd3aHg1Q0JWb2NjbE5fdXJVOVBqWFNydThyVEl6eFZRbHlHNTRLLUtqTXYwdkwxNzNTVFU?oc=5",
-   "published_utc": "2026-09-17T10:14:38+00:00",
-   "title_original": "日銀には政府と連携し適切な金融政策を期待（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7082fbc195df33e"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Monetary policy up to BOJ, gov't should not comment: PM Takaichi",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtZFhqQnk4R2ROeUxNcl9mSGdpd2FReUp2OWVLbFRVREg3Sl9mRVFSdWhSaE81NXdUUWhvWTUzeGw2XzlDRklWZC01TlZFUFU0RFVqQV9NMTRMQQ?oc=5",
-   "published_utc": "2026-09-17T10:02:00+00:00",
-   "title_original": "BREAKING NEWS: Monetary policy up to BOJ, gov't should not comment: PM Takaichi",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b20a1b1d95dad25e"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Record graduate influx pushes China’s youth unemployment rate to 18.9%",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdkctUEJ1YWNPWDJ0YmdJdGJSNUc4VHNmYmx2Zk5UNk5zWE1lLUp5RnVETmE2T0NXOXFJN3hxdlRlR1Z2RExBeEJoaHRIU2duaTlsVGNvS3BWb09MbDNScWVaQndXVjhPaDZjbjBtV0NoUFZpUGVEdXJiZFlTMnZIX3hOdDFPQ2pBU2N0WlRHUDA2R3J6ZE1tclRoakszckttdmFYdmY5YnFvbERoLUY5NmlmOUZ5Yzd4RGxBNFVOSkdRZGlDY294d0dSaXNkUm9ya3VkU0dUSDnSAdgBQVVfeXFMTk4xUDRYdjUyOXlKT3M2NHZ1ejdzSkRXeWQ0OGV2bzAzbXBwMmZmNlNfclhWVHpfZmR1TWxsS0taQl9jci0wWDRfakR3R1Vud3FHdy1IX0lSVGNZRzVjejN1aW1ZTF9nU0J5RmFtamRNV0Z6cTkyWGdSWWNJemNsbGdoQkw1MnR5V2ZYdS1Dd0xpd21LblF2ZHlHS21iZDZBN1B3bnhRaXBpR2t2MzVCZFNfNGZvVEtaV1lVY0xvY2t4Tmpqd3JRVjV1VV9rNHcxU3ZoNzY5bmJS?oc=5",
-   "published_utc": "2026-09-17T09:57:38+00:00",
-   "title_original": "Record graduate influx pushes China’s youth unemployment rate to 18.9%",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e9cd87bebb4c688b"
   },
   {
    "source_id": "manual_ia",
