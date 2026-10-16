@@ -7,23 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T12:32:43.242970+00:00
+Última coleta: 2026-10-16T12:42:41.927653+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1087
-  🇨🇳 China          865
-  🇹🇼 Taiwan         333
-  🇰🇷 Coreia do Sul  715
+  🇯🇵 Japão          1085
+  🇨🇳 China          867
+  🇹🇼 Taiwan         332
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
-  - [taiwan] Taiwan Eyes $4 Billion Texas Hub to Supercharge Nvidia's AI Supply Chain
   - [japan] BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says
+  - [china] Shenzhen Techwinsemi Sees 9-Month Net Profit At 8.7 Billion Yuan-9.0 Billion Yuan
+  - [taiwan] Taiwan Eyes $4 Billion Texas Hub to Supercharge Nvidia's AI Supply Chain
   - [japan] BREAKING NEWS: Stabilizing underlying inflation around 2% is key goal for BOJ: Ueda
   - [china] Li Auto raises 1.6B Yuan for chip business expansion
   - [taiwan] Taiwan Plans $4 Billion Texas AI Hub for Nvidia Supply Chain
   - [japan] BREAKING NEWS: Japan data broadly in line with BOJ outlook since Sept. policy meet: Ueda
+  - [china] China mulls new tech export bans covering AI, biotechnology and solar power
   - [japan] BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda
+  - [china] Beijing seeks tighter grip on AI exports amid US rivalry
   - [japan] Japan's economy is progressing as expected, says Bank of Japan president (Kyodo News)
   - [japan] BOJ chief vows to keep raising rates, anchor inflation around target
   - [japan] Bank of Japan Governor says underlying inflation is approaching 2% (Kyodo News)
@@ -31,8 +34,8 @@ Total: 3000 manchetes
   - [taiwan] TSMC’s ‘Leave No Food On The Table’ Pledge Signals More AI Chip Investment, Morningstar Says
   - [taiwan] Taiwan lawmakers pass health insurance premium subsidies for seniors
   - [china] Shanghai Bright Power Semiconductor Says Lock-Up Period For 23.6 Million Shares To End
+  - [china] China Plans AI Tech Export Curbs to Manage Security Risks
   - [taiwan] Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industr
-  - [china] Beijing seeks tighter grip on AI exports amid US rivalry
   - [taiwan] Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility
   - [korea] South Korea warns of 200-times leveraged bets on Samsung, SK Hynix
   - [china] Central China Real Estate Posts September Contracted Sales Of RMB438 MLN
@@ -46,17 +49,14 @@ Total: 3000 manchetes
   - [korea] USD/KRW: Goldman Sachs sees Korean won strengthening
   - [japan] Bank of Japan Governor Ueda emphasizes in his greeting that he will “continue to raise policy interest rates” 
   - [china] China Petroleum Engineering Says January-September New Contracts Totalled 105.9 Billion Yuan
+  - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il met with senior officials fro..
   - [china] China Moves to Restrict Exports of Some Solar Technologies
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [korea] Kospi rebound after 20% drop as foreigners buy; AI doubts trim Samsung, SK Hynix gains
   - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
   - [china] China Proposes Export Controls on AI Models, Chips and Agents
-  - [china] China Plans AI Tech Export Curbs to Manage Security Risks
   - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
   - [korea] The Export-Import Bank of Korea has set out to establish a system to evaluate and select candidate p..
-  - [korea] Entering a rate hike phase, the upper end of mortgage fluctuation rates of major commercial banks ha..
-  - [china] Developing | China mulls new tech export bans covering AI, biotech and solar power
-  - [china] Jinko Solar Sees 9-Month Net Loss At 3.0 Billion Yuan - 3.6 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T12:32:43+00:00",
+      "published_utc": "2026-10-16T12:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

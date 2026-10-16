@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-16T12:32:43.242970+00:00",
- "collected_at_utc": "2026-10-16T12:32:43.242970+00:00",
+ "generated_at_utc": "2026-10-16T12:42:41.927653+00:00",
+ "collected_at_utc": "2026-10-16T12:42:41.927653+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1087,
-  "china": 865,
-  "taiwan": 333,
-  "korea": 715
+  "japan": 1085,
+  "china": 867,
+  "taiwan": 332,
+  "korea": 716
  },
  "elapsed_s": 29.4,
  "sources": [
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T10:13:56+00:00"
+   "newest": "2026-10-16T11:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T12:16:50+00:00"
+   "newest": "2026-10-16T12:37:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T12:12:42+00:00"
+   "newest": "2026-10-16T12:31:05+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T10:39:31+00:00"
+   "newest": "2026-10-16T12:05:53+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T08:31:39+00:00"
+   "newest": "2026-10-16T12:11:08+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T12:32:07+00:00"
+   "newest": "2026-10-16T12:41:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T12:04:50+00:00"
+   "newest": "2026-10-16T12:02:50+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -345,6 +345,41 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says",
+   "url": "https://www.tradingview.com/news/DJN_DN20261016003277:0-boj-must-ensure-underlying-inflation-doesn-t-go-above-2-ueda-says/",
+   "published_utc": "2026-10-16T12:41:00+00:00",
+   "title_original": "BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4b3243daa8a04a2a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Shenzhen Techwinsemi Sees 9-Month Net Profit At 8.7 Billion Yuan-9.0 Billion Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N462140:0-shenzhen-techwinsemi-sees-9-month-net-profit-at-8-7-billion-yuan-9-0-billion-yuan/",
+   "published_utc": "2026-10-16T12:40:21+00:00",
+   "title_original": "Shenzhen Techwinsemi Sees 9-Month Net Profit At 8.7 Billion Yuan-9.0 Billion Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "483438229e197a51"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "Taiwan Eyes $4 Billion Texas Hub to Supercharge Nvidia's AI Supply Chain",
    "url": "https://www.tradingview.com/news/gurufocus:8df96432f094b:0-taiwan-eyes-4-billion-texas-hub-to-supercharge-nvidia-s-ai-supply-chain/",
@@ -359,24 +394,6 @@
    "live_wire": true,
    "manual": false,
    "id": "616ebb68639a29cf"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says",
-   "url": "https://www.tradingview.com/news/DJN_DN20261016002853:0-boj-must-ensure-underlying-inflation-doesn-t-go-above-2-ueda-says/",
-   "published_utc": "2026-10-16T12:26:00+00:00",
-   "title_original": "BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3151d57de3da415b"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -449,6 +466,23 @@
    "id": "893c04f0fc4e799b"
   },
   {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "China mulls new tech export bans covering AI, biotechnology and solar power",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckdYaXhCT3FoMFl5SHhSbEhvNDRPWjFtcDlUUzV4U2h4NmFnaF9yc2xQbk9Ea2dUcHRFWmdkbjhOWDFfcjB1Q25yeVBFdDhKb1NneHg4WWFGcUhaVGtTWjJFMEVwOHJZdmt1bjdDanV5SG9URTR3UmpLY0RiRmxVZGlRbU5xcEt3MHVsNGVtSmxhZ0l0U1dQSmFwZk5BOHNSdnlyeW9BSFVUcTJkUmdobEhOMm5WYjhmMFN0TXBUelBuN0EyLWfSAcYBQVVfeXFMUElacGlzTVRseUtzSEZCSk5FSW5FaXVBbDRVQkVncHRqUXVmcDloY0ZCb0hiRjlxbkU0RDliRG5zUm1VUDd4N2tPNmd5TU4wWUI1eURILXZRS2ZQczR6YVdaQXJUSjh2VnZHbG1CUGFkdkFMbklBZHFJT0gtOFlaS1hhZlo3ZnQ3RWNLZ3djR0lhYm1tanlqMkVoaXNsUFUwblJ5Q1NQcDZzN0MyM3FYUEpnMGRPWDN1QXpZSnNpbHpESmZ4Qkt3?oc=5",
+   "published_utc": "2026-10-16T12:11:08+00:00",
+   "title_original": "China mulls new tech export bans covering AI, biotechnology and solar power",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3f8806f2cd18c4c2"
+  },
+  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
@@ -464,6 +498,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5ed3d10817c389f2"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "Beijing seeks tighter grip on AI exports amid US rivalry",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
+   "published_utc": "2026-10-16T12:05:53+00:00",
+   "title_original": "Beijing seeks tighter grip on AI exports amid US rivalry",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "924c3de6f6f8a6c7"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -589,6 +640,23 @@
    "id": "c70c616ea788df0d"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Plans AI Tech Export Curbs to Manage Security Risks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTERMaGFSLU1xOHRlNmoxUlZrbU9rTm5iXzlhaDdMb1F4c29kc1QyYjRKUzNFenh3QUo2REd5SlVRMm1NMUdCZWVTWndhdHdKWGxUZmY3Y1c2Z3dfektYZ1dodDhmOHlYVkc1NWI3TzZXTnFINGxNY0dGSy02cEVyZldCcFJLNllrU2hhazdvR014YjVKeU5PWFlVZWdfWDZVSFpOUUt3NGJfV1BmS09sQQ?oc=5",
+   "published_utc": "2026-10-16T10:48:18+00:00",
+   "title_original": "China Plans AI Tech Export Curbs to Manage Security Risks",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "87077f60d95f7008"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industry's Investment Management Firm For 115 Billion Yen",
@@ -605,23 +673,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b4ac0f2f6c5abab8"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Beijing seeks tighter grip on AI exports amid US rivalry",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
-   "published_utc": "2026-10-16T10:39:31+00:00",
-   "title_original": "Beijing seeks tighter grip on AI exports amid US rivalry",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "924c3de6f6f8a6c7"
   },
   {
    "source_id": "investing_live",
@@ -847,6 +898,23 @@
    "id": "5c5832c3f41277f5"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il met with senior officials fro..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UMXpMRjM0S1pYaXdqX1B2cFQ1dTVfNkludEs4bWpKal85LUFyaUJjZkVET1FOSEs1VEhxRGFCQWxyT0FOQTRER3lnaGtuUnJReGc?oc=5",
+   "published_utc": "2026-10-16T09:21:12+00:00",
+   "title_original": "Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il met with senior officials fro..",
+   "region": "korea",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "987750ec43fc8a40"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Moves to Restrict Exports of Some Solar Technologies",
@@ -932,23 +1000,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3cd878d6022164ed"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Plans AI Tech Export Curbs to Manage Security Risks",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTERMaGFSLU1xOHRlNmoxUlZrbU9rTm5iXzlhaDdMb1F4c29kc1QyYjRKUzNFenh3QUo2REd5SlVRMm1NMUdCZWVTWndhdHdKWGxUZmY3Y1c2Z3dfektYZ1dodDhmOHlYVkc1NWI3TzZXTnFINGxNY0dGSy02cEVyZldCcFJLNllrU2hhazdvR014YjVKeU5PWFlVZWdfWDZVSFpOUUt3NGJfV1BmS09sQQ?oc=5",
-   "published_utc": "2026-10-16T08:46:44+00:00",
-   "title_original": "China Plans AI Tech Export Curbs to Manage Security Risks",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "87077f60d95f7008"
   },
   {
    "source_id": "nhk_politics",
@@ -1492,23 +1543,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6e34225d0a1e1292"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japanese Government Bond (JGB) Yields Recover as Risk Aversion Mood Eases",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46206L:0/",
-   "published_utc": "2026-10-16T06:07:52+00:00",
-   "title_original": "Rendimentos dos títulos do governo japonês (JGB) se recuperam à medida que o clima de aversão ao risco diminui",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "92fd078452609b11"
   },
   {
    "source_id": "investing_live",
@@ -51905,41 +51939,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1150db79827784ea"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Chip equipment makers face waits of up to 40 months for critical parts",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGFMM2Z6bENUNVoyaGF3NUJVM1ZVblVEZl8xaWw3cl9panFPZGR1X1VtMHFuNy1DNmRHQUhPcFlRN2RqMkNTWWx2V3pjQ1lucDgwbmJMWVFkZDFoOWhvajQ4Vk5vZmNVcE9FOXNrMWNMRXJHZ0g0SlFyRFJnNENfalZDVFZBcE1QUjE3bWlCVDZ5WVpJVldaXzZWM2tydUZtY3c?oc=5",
-   "published_utc": "2026-09-18T03:56:42+00:00",
-   "title_original": "Chip equipment makers face waits of up to 40 months for critical parts",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "079885980e66d8f3"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected",
-   "url": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
-   "published_utc": "2026-09-18T03:36:35+00:00",
-   "title_original": "Stocks rise as oil dips, yen weakens after BOJ hikes as expected",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9ca9e6429c0bccac"
   },
   {
    "source_id": "manual_ia",
