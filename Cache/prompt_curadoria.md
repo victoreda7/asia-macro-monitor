@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T01:52:43.259942+00:00
+Última coleta: 2026-10-16T02:02:43.243891+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1116
-  🇨🇳 China          852
+  🇨🇳 China          853
   🇹🇼 Taiwan         319
-  🇰🇷 Coreia do Sul  713
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [china] China sets 2027 import tariff-rate quotas for wheat, rice, corn and cotton
   - [china] CHINA PBOC CONDUCTS CNY60 BLN VIA 7-DAY REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7220 FRI VS 6.7253
   - [japan] G20 finance chiefs share global inflation concerns from Middle East crisis
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax ded
   - [japan] Global policymakers see no imminent risk of financial instability, Japan official says
   - [korea] Seoul shares crash over 7% on chip rout amid AI, inflation woes
-  - [taiwan] Why TSMC's $64 billion spending plan shouldn't scare away investors
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T01:52:43+00:00",
+      "published_utc": "2026-10-16T02:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
