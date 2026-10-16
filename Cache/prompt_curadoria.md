@@ -7,16 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T12:12:43.441174+00:00
+Última coleta: 2026-10-16T12:22:42.909002+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1085
+  🇯🇵 Japão          1086
   🇨🇳 China          867
   🇹🇼 Taiwan         332
-  🇰🇷 Coreia do Sul  716
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
+  - [china] Li Auto raises 1.6B Yuan for chip business expansion
+  - [taiwan] Taiwan Plans $4 Billion Texas AI Hub for Nvidia Supply Chain
+  - [japan] BREAKING NEWS: Japan data broadly in line with BOJ outlook since Sept. policy meet: Ueda
+  - [japan] BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda
+  - [japan] Japan's economy is progressing as expected, says Bank of Japan president (Kyodo News)
+  - [japan] BOJ chief vows to keep raising rates, anchor inflation around target
+  - [japan] Bank of Japan Governor says underlying inflation is approaching 2% (Kyodo News)
   - [china] Zenta Group Subsidiary ZentoAI Signs Binding MOU for Strategic Acquisition in China
   - [taiwan] TSMC’s ‘Leave No Food On The Table’ Pledge Signals More AI Chip Investment, Morningstar Says
   - [taiwan] Taiwan lawmakers pass health insurance premium subsidies for seniors
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [china] China proposes adding 40 AI, biotech, solar technologies to export control list
   - [china] Poly Developments September Contract Sales Down 21.1% Y/Y To 16.2 Billion Yuan
   - [china] Tardy China Stimulus Sets Up Second Quarter of Sub-Target Growth
-  - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
-  - [japan] BOJ Current Account Balances by Sector (Sept.)
-  - [korea] South Korean Won Strengthens Near 2-Year High
-  - [taiwan] AI server tracker: semiconductor testing and design services rally on compute demand
-  - [taiwan] Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China
-  - [china] Chinese finance minister eager for dialogue with EU, calls for cooperation on macroeconomic policies (Reuters)
-  - [china] China's finance minister eager for dialogue with EU, calls for cooperation on macroeconomic policies (Reuters)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T12:12:43+00:00",
+      "published_utc": "2026-10-16T12:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
