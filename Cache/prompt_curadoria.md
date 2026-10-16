@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T14:12:43.166220+00:00
+Última coleta: 2026-10-16T14:22:44.891823+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1086
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] ``We will raise the policy interest rate,'' says the Bank of Japan Governor (Kyodo News)
   - [japan] BOJ's Ueda says inflation can't be allowed to rise further
   - [japan] Bank of Japan Governor maintains interest rate hike stance, keeping a close eye on energy prices and AI demand
   - [japan] BOJ chief vows to keep raising rates, anchor inflation around target
@@ -36,7 +37,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda
   - [china] Beijing seeks tighter grip on AI exports amid US rivalry
   - [japan] Japan's economy is progressing as expected, says Bank of Japan president (Kyodo News)
-  - [japan] ``We will raise the policy interest rate,'' says the Bank of Japan Governor (Kyodo News)
   - [japan] Bank of Japan Governor says underlying inflation is approaching 2% (Kyodo News)
   - [china] Zenta Group Subsidiary ZentoAI Signs Binding MOU for Strategic Acquisition in China
   - [taiwan] TSMC’s ‘Leave No Food On The Table’ Pledge Signals More AI Chip Investment, Morningstar Says
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T14:12:43+00:00",
+      "published_utc": "2026-10-16T14:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
