@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-16T18:42:42.873380+00:00",
- "collected_at_utc": "2026-10-16T18:42:42.873380+00:00",
+ "generated_at_utc": "2026-10-16T18:52:42.598516+00:00",
+ "collected_at_utc": "2026-10-16T18:52:42.598516+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1086,
+  "japan": 1085,
   "china": 869,
   "taiwan": 333,
-  "korea": 712
+  "korea": 713
  },
  "elapsed_s": 29.8,
  "sources": [
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T18:19:48+00:00"
+   "newest": "2026-10-16T18:45:53+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T08:37:18+00:00"
+   "newest": "2026-10-16T08:37:48+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T03:59:00+00:00"
+   "newest": "2026-10-16T09:56:55+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T18:41:12+00:00"
+   "newest": "2026-10-16T18:51:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -568,8 +568,8 @@
    "id": "18b0552f95e580ac"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -583,7 +583,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -3096,8 +3096,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -3111,7 +3111,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -3714,8 +3714,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -3730,7 +3730,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -13364,6 +13364,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0c89c3655ea4ace2"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) BOK chief says back-to-back rate hikes bought time to respond to financial risks",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uNnZuTmdJX3VkNmZORmhIaG9lT0x2SVhRdXUycHpFdDR4WWxQM01ySnpEa1VHUmpJcnJWeW8td3NWWjBSZ01nQ1A0OElUdV9rYUM0UUczNjQ3QQ?oc=5",
+   "published_utc": "2026-10-12T05:20:29+00:00",
+   "title_original": "(LEAD) BOK chief says back-to-back rate hikes bought time to respond to financial risks",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9580bba275c40aac"
   },
   {
    "source_id": "gn_kr_bok",
@@ -36646,23 +36663,6 @@
    "id": "fa61bb739cd55af6"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05R2NPV1hnbEV2T0dHX0dDblR1bTNoM2FNVnVXZ1RwYnJVXzBKd0NLMUVvS0hCQzR5bU43T09kcmNHSmRpQXFZWU0zSEl6YVhueV9Ua2hrRkVyNGp3WDJCSFV4bk40aUZYZjNsOXE1WERVQkcyZG5lSVUtZjM?oc=5",
-   "published_utc": "2026-09-28T15:32:15+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting on macro policies, investment",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ef47d1af02c209a8"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "Preview: Forecasters See Japan September Tankan Showing Large Manufacturers’ Sentiment at +25, Highest Since 2017",
@@ -37514,6 +37514,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8c823c8ac703f0a0"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rVmZqeDhPX2dVYTNhNGhncnI1RUs0NXhFMDNlQkFCZ3MyYkJsdkNPcUl0WDdTQmpYSElFcHFYRVhhSmROVnpfQWQ5SUJxTE5PblFxNE1SN0k4SjFkWkJaV0RhSk90YjN3QlM5YVFrTFdvU3lRY1FZdjZ0LXI?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting on macro policies, investment",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c40b44ff5f4696ec"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51934,23 +51951,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6a7cc74661b6ce89"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "S&P 500 Rebounds as Markets Brace for a Hawkish BOJ",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb1JSU0FHX3FDOUtNVzlJUEF3M2NITHJZS0FyTTJuRFhvdldsajJoZ0Y1akNIZXBqazdLTEp6M09kbkVySU96N25MTG5WaVhTb1AyWWZzS3pJd29iWG5XeVVvQzlPaTNfUkRyaWpILVQ2VHBRYWNCVVhla04zbGJVTndKZ3dTdTFDbmRlRXlHeHNhQ090eTRYbXVB?oc=5",
-   "published_utc": "2026-09-18T06:43:00+00:00",
-   "title_original": "S&P 500 Rebounds as Markets Brace for a Hawkish BOJ",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "be08eb479106638b"
   },
   {
    "source_id": "manual_ia",
