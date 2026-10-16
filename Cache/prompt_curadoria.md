@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T07:32:41.446249+00:00
+Última coleta: 2026-10-16T07:42:44.348190+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1108
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
   - [japan] Stock price rise Repurchase movement centered on AI/semiconductor related products
   - [china] China expected to swing to net alumina exports in 2027, Antaike says
+  - [japan] Policy to continue raising interest rates, financial environment is accommodative as underlying inflation appr
   - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
   - [japan] BOJ's Ueda says anchoring inflation around 2% target becoming more important
   - [japan] Brokerages see next BOJ rate hike in December
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] PBOC’s Pan Touts Yuan Assets to Investors at Deutsche Bank Event
   - [japan] Japan 10-Year Yield Rises as BOJ Outlook Mulled
   - [taiwan] TSMC Still Best-Placed in AI Boom — Market Talk
-  - [china] The central bank launched a 700 billion yuan buyout reverse repo on October 15, with an additional 6-month ext
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T07:32:41+00:00",
+      "published_utc": "2026-10-16T07:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
