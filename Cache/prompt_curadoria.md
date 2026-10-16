@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T21:42:42.861289+00:00
+Última coleta: 2026-10-16T21:52:41.927448+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1086
-  🇨🇳 China          870
+  🇨🇳 China          871
   🇹🇼 Taiwan         332
-  🇰🇷 Coreia do Sul  712
+  🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [china] Paraguay’s tech minister defies Beijing sanctions, says Taiwan ties ‘not up for negotiation’
   - [japan] Consumption tax reduction bill to be debated next week, ruling party aims to establish, opposition party clear
   - [japan] Consumption tax cut: consideration of benefits of around 5% of sales to farmers, etc.
   - [japan] US has full confidence in Takaichi's fiscal discipline: Treasury official
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda
   - [japan] Japan's economy is progressing as expected, says Bank of Japan president (Kyodo News)
   - [japan] ``We will raise the policy interest rate,'' says the Bank of Japan Governor (Kyodo News)
-  - [japan] Bank of Japan Governor says underlying inflation is approaching 2% (Kyodo News)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T21:42:43+00:00",
+      "published_utc": "2026-10-16T21:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
