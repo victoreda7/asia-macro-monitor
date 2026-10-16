@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T04:22:44.271449+00:00
+Última coleta: 2026-10-16T04:32:44.263073+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1111
@@ -44,7 +44,6 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7220 FRI VS 6.7253
   - [china] The central bank launched a 60 billion yuan 7-day reverse repurchase operation today
   - [korea] S.Korean shares rebound as Samsung, SK Hynix rise; foreigners extend selling spree
-  - [japan] G20 finance chiefs share global inflation concerns from Middle East crisis
   - [korea] Samsung Cuts Fourth-Quarter Low-End Phone Production as PCB Material Supply Tightens
   - [korea] Hana Securities: “The Bank of Korea expects a unanimous freeze on the base interest rate in October, maintaini
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [korea] South Korea Jobless Rate Falls to 2-Year Low
   - [korea] Soaring term deposit interest rates...a signal for a base interest rate increase?
   - [china] China’s Plan to Make Yuan a Global Currency Enters Faster Phase
+  - [taiwan] Taiwan Semiconductor Is Maintained at Buy by Needham
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T04:22:44+00:00",
+      "published_utc": "2026-10-16T04:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
