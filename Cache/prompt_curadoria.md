@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T09:32:45.536339+00:00
+Última coleta: 2026-10-16T09:42:43.974663+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1092
-  🇨🇳 China          863
+  🇯🇵 Japão          1091
+  🇨🇳 China          864
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  715
 
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [china] China Petroleum Engineering Says January-September New Contracts Totalled 105.9 Billion Yuan
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
+  - [china] China Proposes Export Controls on AI Models, Chips and Agents
   - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
   - [korea] Entering a rate hike phase, the upper end of mortgage fluctuation rates of major commercial banks ha..
   - [china] Jinko Solar Sees 9-Month Net Loss At 3.0 Billion Yuan - 3.6 Billion Yuan
@@ -34,6 +35,7 @@ Total: 3000 manchetes
   - [china] Chinese finance minister eager for dialogue with EU, calls for cooperation on macroeconomic policies (Reuters)
   - [china] China's finance minister eager for dialogue with EU, calls for cooperation on macroeconomic policies (Reuters)
   - [japan] BOJ chief flags inflation overshoot risk, stresses importance of 2% anchor
+  - [japan] Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027 By Reuters
   - [japan] Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027
   - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
   - [japan] Stock price rise Repurchase movement centered on AI/semiconductor related products
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal
   - [korea] Materials, parts providers most vulnerable to monetary tightening: BOK chief
   - [taiwan] Taiwan economic growth in 2026 to be highest in 39 years: CIER
-  - [korea] South Korean Won Extends Losses on Capital Outflows
-  - [korea] Korea's manufacturing jobs rise for first time in 27 months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T09:32:45+00:00",
+      "published_utc": "2026-10-16T09:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
