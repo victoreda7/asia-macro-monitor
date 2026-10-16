@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T15:12:45.221272+00:00
+Última coleta: 2026-10-16T15:22:45.557752+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1088
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] EU urges safeguards against Chinese chemicals, machinery imports
   - [china] Chinese premier chairs State Council executive meeting
   - [japan] Fiscal System Council proposes use of imported rice for stockpiled rice
   - [japan] BOJ's Ueda says inflation can't be allowed to rise further
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China to add AI, biopharma and solar tech to export control list
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary Announces Cash Dividend Distribution
   - [korea] USD/KRW: Goldman Sachs sees Korean won strengthening
-  - [japan] Bank of Japan Governor Ueda emphasizes in his greeting that he will “continue to raise policy interest rates” 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T15:12:45+00:00",
+      "published_utc": "2026-10-16T15:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
