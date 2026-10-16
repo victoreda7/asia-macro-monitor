@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T10:52:45.505621+00:00
+Última coleta: 2026-10-16T11:02:43.181462+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1089
   🇨🇳 China          865
-  🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  715
+  🇹🇼 Taiwan         330
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [china] Shanghai Bright Power Semiconductor Says Lock-Up Period For 23.6 Million Shares To End
   - [taiwan] Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industr
   - [taiwan] Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility
   - [china] Central China Real Estate Posts September Contracted Sales Of RMB438 MLN
@@ -36,6 +37,7 @@ Total: 3000 manchetes
   - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
   - [china] China Proposes Export Controls on AI Models, Chips and Agents
   - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
+  - [korea] The Export-Import Bank of Korea has set out to establish a system to evaluate and select candidate p..
   - [korea] Entering a rate hike phase, the upper end of mortgage fluctuation rates of major commercial banks ha..
   - [china] Developing | China mulls new tech export bans covering AI, biotech and solar power
   - [china] Jinko Solar Sees 9-Month Net Loss At 3.0 Billion Yuan - 3.6 Billion Yuan
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
   - [japan] Stock price rise Repurchase movement centered on AI/semiconductor related products
   - [china] China expected to swing to net alumina exports in 2027, Antaike says
-  - [japan] Policy to continue raising interest rates, financial environment is accommodative as underlying inflation appr
-  - [japan] BOJ's Ueda says anchoring inflation around 2% target becoming more important
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T10:52:45+00:00",
+      "published_utc": "2026-10-16T11:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

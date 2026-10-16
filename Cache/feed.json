@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-16T10:52:45.505621+00:00",
- "collected_at_utc": "2026-10-16T10:52:45.505621+00:00",
+ "generated_at_utc": "2026-10-16T11:02:43.181462+00:00",
+ "collected_at_utc": "2026-10-16T11:02:43.181462+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1089,
   "china": 865,
-  "taiwan": 331,
-  "korea": 715
+  "taiwan": 330,
+  "korea": 716
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T19:16:14+09:00"
+   "newest": "2026-10-16T19:58:46+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T10:51:51+00:00"
+   "newest": "2026-10-16T11:01:29+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Shanghai Bright Power Semiconductor Says Lock-Up Period For 23.6 Million Shares To End",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4620XN:0-shanghai-bright-power-semiconductor-says-lock-up-period-for-23-6-million-shares-to-end/",
+   "published_utc": "2026-10-16T10:58:32+00:00",
+   "title_original": "Shanghai Bright Power Semiconductor Says Lock-Up Period For 23.6 Million Shares To End",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c70c616ea788df0d"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -671,6 +688,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f080d03628efbe99"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The Export-Import Bank of Korea has set out to establish a system to evaluate and select candidate p..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83aXdsOXZwSmt4b2xHNWYzSzdkc0YxaWRQQkd1M3RfYjAxMUEzT080LVhuQTY1bFN6eFJubkxWMnVtenFXaW1hckhSYWhmaHpBZ0E?oc=5",
+   "published_utc": "2026-10-16T08:41:24+00:00",
+   "title_original": "The Export-Import Bank of Korea has set out to establish a system to evaluate and select candidate p..",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7f0a869c1428a831"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1597,23 +1632,6 @@
    "id": "68be8f33932f2b20"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "TSMC Still Best-Placed in AI Boom — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261015010470:0-tsmc-still-best-placed-in-ai-boom-market-talk/",
-   "published_utc": "2026-10-16T02:48:00+00:00",
-   "title_original": "TSMC Still Best-Placed in AI Boom — Market Talk",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2a57be6e48bceba1"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 700 billion yuan buyout reverse repo on October 15, with an additional 6-month extension of 200 billion yuan.",
@@ -2461,8 +2479,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -2476,7 +2494,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -3079,8 +3097,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -3095,7 +3113,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -24845,6 +24863,23 @@
    "id": "f1e884ea0e920475"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
+   "published_utc": "2026-10-04T08:16:47+00:00",
+   "title_original": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "35a94b1b574169cd"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Liberal Democratic Party Policy Research Council Chairman Kobayashi strengthens his approach to opposition parties for passage of consumption tax reduction bill",
@@ -24861,23 +24896,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7b827cb1b5b1e5ca"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
-   "published_utc": "2026-10-04T07:00:00+00:00",
-   "title_original": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "35a94b1b574169cd"
   },
   {
    "source_id": "nikkei_asia",
@@ -51919,24 +51937,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c391a12cbbda1069"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 463.3 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlZMVW0xaDNFek81aWtLeXRDb1dfb1JwdS1Ud05lZDlzZTVEZUxyanpPSzY4T2tnVHItZU1aYTA1djZnUnBMOXg2eTFtQ3lkam84Q3hqMEVoRWo3dnZ6MjBxaXNnNGw0V0N0RmYtYUZCN3N1OXdOa0FXOXpFVjQyNDVoaFJlLVBJUzBuLU9QZw?oc=5",
-   "published_utc": "2026-09-18T02:12:44+00:00",
-   "title_original": "央行今日开展4633亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "652957a7448ce19e"
   },
   {
    "source_id": "manual_ia",
