@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-16T13:42:44.756176+00:00",
- "collected_at_utc": "2026-10-16T13:42:44.756176+00:00",
+ "generated_at_utc": "2026-10-16T13:52:43.359929+00:00",
+ "collected_at_utc": "2026-10-16T13:52:43.359929+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 331,
   "korea": 716
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T13:20:33+00:00"
+   "newest": "2026-10-16T13:38:07+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T13:13:08+00:00"
+   "newest": "2026-10-16T13:37:02+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T10:07:38+00:00"
+   "newest": "2026-10-16T13:36:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,16 +152,16 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "error": "",
    "newest": "2026-10-16T09:53:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T13:41:14+00:00"
+   "newest": "2026-10-16T13:51:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,11 +344,29 @@
  ],
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "BOJ's Ueda says inflation can't be allowed to rise further",
+   "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-s-ueda-says-inflation-can-t-be-allowed-to-rise-further",
+   "published_utc": "2026-10-16T13:52:42.942119+00:00",
+   "title_original": "BOJ's Ueda says inflation can't be allowed to rise further",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fe270ab56efd8ea2"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "BOJ chief vows to keep raising rates, anchor inflation around target",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4620G5:0-boj-chief-vows-to-keep-raising-rates-anchor-inflation-around-target/",
-   "published_utc": "2026-10-16T13:27:04+00:00",
+   "url": "https://www.investing.com/news/economy-news/global-inflation-debate-puts-boj-ratehike-pace-in-spotlight-4953375",
+   "published_utc": "2026-10-16T13:31:19+00:00",
    "title_original": "BOJ chief vows to keep raising rates, anchor inflation around target",
    "region": "japan",
    "topics": [
@@ -357,9 +375,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "4d4b893983df3272"
+   "id": "d6003ed3c60307fe"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1058,24 +1076,6 @@
    "id": "3f861cf0645e2a0f"
   },
   {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Global inflation debate puts BOJ rate-hike pace in spotlight",
-   "url": "https://www.investing.com/news/economy-news/global-inflation-debate-puts-boj-ratehike-pace-in-spotlight-4953375",
-   "published_utc": "2026-10-16T08:48:47+00:00",
-   "title_original": "Global inflation debate puts BOJ rate-hike pace in spotlight",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "758c266147ac7b1f"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Proposes Export Controls on AI Models, Chips and Agents",
@@ -1616,6 +1616,23 @@
    "live_wire": false,
    "manual": false,
    "id": "4b28c11d98eb7158"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japanese Government Bond (JGB) Yields Recover as Risk Aversion Mood Eases",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46206L:0/",
+   "published_utc": "2026-10-16T06:07:52+00:00",
+   "title_original": "Rendimentos dos títulos do governo japonês (JGB) se recuperam à medida que o clima de aversão ao risco diminui",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "92fd078452609b11"
   },
   {
    "source_id": "investing_live",
@@ -2762,8 +2779,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -2777,7 +2794,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -3380,8 +3397,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -3396,7 +3413,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_kr_ked",
@@ -6153,23 +6170,6 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
-   "published_utc": "2026-10-14T14:36:43+00:00",
-   "title_original": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "733165bf16408942"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "EU to Remove Sanctions on Chinese Firm to Save ASML Supplier",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
@@ -6184,6 +6184,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0e0eb60b62a1f7ab"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
+   "published_utc": "2026-10-14T14:36:43+00:00",
+   "title_original": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "733165bf16408942"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -20981,6 +20998,23 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VndiRU9pMHYwNzlnbC1ROHQwVGFoQTNjSzNOT0xNMVhYSjJLS09PbnhwNjFYdm5mZThyYlhRQkVLeU5vbGJlcFlrQV9jZmRzQlg3b1hMVURSQQ?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "afe932cae17a5fd7"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veUVQTXNGcnhNQWVXZFVPV01JT1V4dGdFYVpuakI1ZGlPMFhqM1IzZjVUX1hQN2ZSTDVURjFaUzdvbWg3QWN3QlI2OXBGc2JTaUNNTmhESGE2UQ?oc=5",
    "published_utc": "2026-10-07T07:00:00+00:00",
@@ -21045,23 +21079,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ff21c922adebefbc"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VndiRU9pMHYwNzlnbC1ROHQwVGFoQTNjSzNOT0xNMVhYSjJLS09PbnhwNjFYdm5mZThyYlhRQkVLeU5vbGJlcFlrQV9jZmRzQlg3b1hMVURSQQ?oc=5",
-   "published_utc": "2026-10-07T06:16:00+00:00",
-   "title_original": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "afe932cae17a5fd7"
   },
   {
    "source_id": "investing_live",
@@ -51927,23 +51944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d3ead495e4e2b134"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ struggling to keep pace with hiking partners",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45A0BY:0-boj-struggling-to-keep-pace-with-hiking-partners/",
-   "published_utc": "2026-09-18T04:30:00+00:00",
-   "title_original": "BOJ struggling to keep pace with hiking partners",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5e7388cadb153ab4"
   },
   {
    "source_id": "manual_ia",
