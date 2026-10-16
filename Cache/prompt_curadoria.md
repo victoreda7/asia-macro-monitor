@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T10:02:43.386720+00:00
+Última coleta: 2026-10-16T10:15:19.717320+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1090
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China Proposes Export Controls on AI Technologies
   - [china] China to add AI, biopharma and solar tech to export control list
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary Announces Cash Dividend Distribution
   - [korea] USD/KRW: Goldman Sachs sees Korean won strengthening
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch
   - [japan] Japanese Government Bond (JGB) Yields Recover as Risk Aversion Mood Eases
   - [japan] JGB yields rebound as risk-off mode eases
-  - [taiwan] Taiwan to curb AI chip sales to China for more U.S. alignment- Bloomberg
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T10:02:43+00:00",
+      "published_utc": "2026-10-16T10:15:19+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
