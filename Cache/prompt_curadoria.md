@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T13:32:44.724261+00:00
+Última coleta: 2026-10-16T13:42:44.756176+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1087
+  🇯🇵 Japão          1088
   🇨🇳 China          865
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  717
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
   - [japan] BOJ chief vows to keep raising rates, anchor inflation around target
   - [japan] Bank of Japan Governor Ueda emphasizes stance on continuing interest rate hikes: ``We cannot accept any furthe
+  - [japan] Bank of Japan Governor Ueda calls upward movement in prices ``unacceptable'', approaches 2% target, continues 
+  - [japan] Decision on 2% underlying inflation rate will be thoroughly discussed at October meeting; economy is in line w
   - [japan] BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says
   - [china] Shenzhen Techwinsemi Sees 9-Month Net Profit At 8.7 Billion Yuan-9.0 Billion Yuan
   - [japan] Instinct Bio Returns to Profit and Grows Revenue Nearly 10% in Yen Terms in First Half of Fiscal 2026
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il met with senior officials fro..
   - [china] China Moves to Restrict Exports of Some Solar Technologies
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
-  - [korea] Kospi rebound after 20% drop as foreigners buy; AI doubts trim Samsung, SK Hynix gains
-  - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T13:32:44+00:00",
+      "published_utc": "2026-10-16T13:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T13:32:44.724261+00:00",
- "collected_at_utc": "2026-10-16T13:32:44.724261+00:00",
+ "generated_at_utc": "2026-10-16T13:42:44.756176+00:00",
+ "collected_at_utc": "2026-10-16T13:42:44.756176+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1087,
+  "japan": 1088,
   "china": 865,
   "taiwan": 331,
-  "korea": 717
+  "korea": 716
  },
- "elapsed_s": 31.6,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,16 +152,16 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "error": "",
    "newest": "2026-10-16T09:53:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T13:32:15+00:00"
+   "newest": "2026-10-16T13:41:14+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -378,6 +378,44 @@
    "live_wire": false,
    "manual": false,
    "id": "448693894920a1e7"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor Ueda calls upward movement in prices ``unacceptable'', approaches 2% target, continues rate hike (Jiji Press)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Zd2l1NElhSkVPSVd0bUxCeXd2eUVJeXdBQ2JaVTcwMEpUOVlxZWVSRGpGS256R05EQ0F5YUdYRWVjSDNCSDVfMFhQWXdkbGtTT19YMGxoSllOSm5zRFZVN251cmo4bWFCX2ZzeDQ5X1A3VXZmLXAxMkY1ZVRGaXM?oc=5",
+   "published_utc": "2026-10-16T13:04:52+00:00",
+   "title_original": "植田日銀総裁、物価上振れ「容認できず」 2％目標に接近、利上げ継続（時事通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1b4ed3274c3aa445"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Decision on 2% underlying inflation rate will be thoroughly discussed at October meeting; economy is in line with forecast - Bank of Japan Governor (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50X3dvVkxxUkpiYUVZcm55elRJUXd5YVFVc1o5cXZTel94MjBpNlNWOXVKbVFwMkhCYmE4NEFmWDdvV3hiTlotSUpNZ3c5ejdhNlhYUVBGNXY3UUVRRUlOMHhtSXZBMlRfdmowb1Z4QWxrb1kzVy1BNUtlN00zWTg?oc=5",
+   "published_utc": "2026-10-16T12:50:32+00:00",
+   "title_original": "基調物価2％の判断、10月会合でしっかり議論 経済は見通し通り＝日銀総裁（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "da75dc82edf1eb2c"
   },
   {
    "source_id": "tradingview_live",
@@ -51906,40 +51944,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5e7388cadb153ab4"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Why is SK Hynix stock surging today?",
-   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4906667",
-   "published_utc": "2026-09-18T04:28:01+00:00",
-   "title_original": "Why is SK Hynix stock surging today?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d284d20f0002d012"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Investors react to BOJ raising interest rates to 31-year high",
-   "url": "https://www.investing.com/news/economy-news/investors-react-to-boj-raising-interest-rates-to-31year-high-4906646",
-   "published_utc": "2026-09-18T04:25:12+00:00",
-   "title_original": "Investors react to BOJ raising interest rates to 31-year high",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4db54a8175e24b23"
   },
   {
    "source_id": "manual_ia",
