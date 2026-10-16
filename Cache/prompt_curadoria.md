@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T02:02:43.243891+00:00
+Última coleta: 2026-10-16T02:12:41.963540+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1116
+  🇯🇵 Japão          1115
   🇨🇳 China          853
-  🇹🇼 Taiwan         319
+  🇹🇼 Taiwan         320
   🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY60 BLN VIA 7-DAY REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7220 FRI VS 6.7253
   - [japan] G20 finance chiefs share global inflation concerns from Middle East crisis
+  - [korea] Samsung Cuts Fourth-Quarter Low-End Phone Production as PCB Material Supply Tightens
   - [korea] Hana Securities: “The Bank of Korea expects a unanimous freeze on the base interest rate in October, maintaini
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [japan] There is no evidence that he considered requesting a postponement of the vote on the June interest rate hike a
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] 2330 Stock 12‑Month Price Target Raised to TWD 3354.48, Implies 35% Upside
   - [japan] Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax ded
   - [japan] Global policymakers see no imminent risk of financial instability, Japan official says
-  - [korea] Seoul shares crash over 7% on chip rout amid AI, inflation woes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T02:02:43+00:00",
+      "published_utc": "2026-10-16T02:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
