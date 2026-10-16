@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T04:52:43.264010+00:00
+Última coleta: 2026-10-16T05:02:43.319336+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1110
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
   - [korea] Korea's manufacturing jobs rise for first time in 27 months
   - [korea] People's Power selected candidate Yoon Jae-bok without a second vote in the race for chairman of the..
   - [japan] US Treasury says Japan no longer faces deflationary environment, yen level must change
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Katayama says she can't comment on whether extra budget needed or not
   - [japan] Japan Medical Dynamic Marketing Inc - Notice Regarding Workforce Reduction And Other Rationalization Measures 
   - [korea] South Korea Jobless Rate Falls to 2-Year Low
-  - [korea] Soaring term deposit interest rates...a signal for a base interest rate increase?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T04:52:43+00:00",
+      "published_utc": "2026-10-16T05:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
