@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T05:02:43.319336+00:00",
- "collected_at_utc": "2026-10-16T05:02:43.319336+00:00",
+ "generated_at_utc": "2026-10-16T05:12:44.787723+00:00",
+ "collected_at_utc": "2026-10-16T05:12:44.787723+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1110,
-  "china": 851,
+  "japan": 1111,
+  "china": 850,
   "taiwan": 325,
   "korea": 714
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -177,9 +177,9 @@
    "source_id": "nhk_politics",
    "name": "NHK 政治",
    "ok": true,
-   "count": 59,
+   "count": 60,
    "error": "",
-   "newest": "2026-10-16T12:07:00+09:00"
+   "newest": "2026-10-16T14:05:52+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T05:01:17+00:00"
+   "newest": "2026-10-16T05:11:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T04:46:09+00:00"
+   "newest": "2026-10-16T05:00:14+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-16T02:45:12+00:00"
+   "newest": "2026-10-16T05:01:53+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-16T13:00:00+09:00"
+   "newest": "2026-10-16T14:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T01:37:00+00:00"
+   "newest": "2026-10-16T04:42:32+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party of Japan Committee Chairman meeting",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60357",
+   "published_utc": "2026-10-16T05:02:46+00:00",
+   "title_original": "消費税減税法案 20日審議入り合意 自民・民改国対委員長会談",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f080d03628efbe99"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -361,6 +379,23 @@
    "id": "5344c29af0470e2a"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korean Won Extends Losses on Capital Outflows",
+   "url": "https://www.tradingview.com/news/te_news:592633:0-south-korean-won-extends-losses-on-capital-outflows/",
+   "published_utc": "2026-10-16T04:56:45+00:00",
+   "title_original": "South Korean Won Extends Losses on Capital Outflows",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "260c488ded011a56"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Korea's manufacturing jobs rise for first time in 27 months",
@@ -376,6 +411,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d6868beeb8ac0421"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "IT조선",
+   "title_en": "Interest rates raised twice, will they stop in October? Bank of Korea considers ‘additional hike’",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WmFkVVctc29kQkhkODU0ZkJ6bW5lRUZiVkFDMHhwQkZfaThFeDhUZHh4ZzJBWXpxSW95REE3bTY1N2x5OHdyTnB4SUI5MmdTV3Roa0VMR0NCVl9qYVpFVS0zUFJMMlY0eHlyeTFJZDLSAXRBVV95cUxQb3ZkcTZaaXh1LVhuNXlUWGU3NE8xZkN5czh6QmwtVjEza0Jrd1hTaVh4Ym9UNk9GLWJTTU9UbERGMXdnc3dMWGJCcUxjLW9LRDdNcjhSdHNSMF9rNVd6MFB4aVpGbWZoUFJUa0lsT09CaXpqOA?oc=5",
+   "published_utc": "2026-10-16T04:42:32+00:00",
+   "title_original": "두 번 올린 금리, 10월엔 멈추나… 한은 ‘추가 인상’ 고심",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1cfd02f3c04e17f4"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1482,8 +1534,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -1497,7 +1549,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -2083,8 +2135,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -2099,7 +2151,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_kr_ked",
@@ -3131,10 +3183,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
+   "source_name": "Investing.com UK",
    "title_en": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0dpcXNnYnNnbWtWakd2R3VrNnpxUHFsRWJyN1pLZ3BacTkyb0FfVUtUM3dvRlZqckZ4aXRlVGZvdHY2S09nWDlzVk1POWstNmRwRlNvSTlGbkYybjAxTnF0akg4ZmI3UWh1RFlJaWp4cnV2MEJCWGhKM2ZnN3doRXpUNmZKaEk2YlhhNWNjSXFkMWFVME5xRFVHTUF4ZFpFUjg1QXVmZmE1Y2hjWU1oOXd1SXdzbno3bVB6RW1B?oc=5",
-   "published_utc": "2026-10-15T04:25:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXM4RzlvNjh2NUgyeFQtMWlxT2gza0VvZU5JVDVBVzVXRS1kZVZEc2QzT1RMazNJWThlaWRWckFOd0JNRTdmQmp4UmlHWmUwTlJ3VDhyanZVaU9WVFJlTzYzUUVaeVBrRkdxaWFzUkJfd0tXdTNfSlVCUy1sOXdVdEs1cktiZFJpbW9QbHBsNjFXazljTFhaVGJ5RWN6RVpMQVRQRExYWVljcjZkbU5LbDZSU1JVYUdENzBiQjBn?oc=5",
+   "published_utc": "2026-10-15T04:06:00+00:00",
    "title_original": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
    "region": "japan",
    "topics": [
@@ -3145,7 +3197,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2b3965436e525ef4"
+   "id": "dfae25f1e6df382f"
   },
   {
    "source_id": "investing_live",
@@ -23758,23 +23810,6 @@
    "id": "f1e884ea0e920475"
   },
   {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
-   "published_utc": "2026-10-04T08:16:47+00:00",
-   "title_original": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "35a94b1b574169cd"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Liberal Democratic Party Policy Research Council Chairman Kobayashi strengthens his approach to opposition parties for passage of consumption tax reduction bill",
@@ -23791,6 +23826,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7b827cb1b5b1e5ca"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
+   "published_utc": "2026-10-04T07:00:00+00:00",
+   "title_original": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "35a94b1b574169cd"
   },
   {
    "source_id": "nikkei_asia",
@@ -50093,7 +50145,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
    "title_original": "Chinese premier chairs State Council executive meeting",
    "region": "china",
@@ -50104,7 +50156,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ac5c93c1746a6f36"
+   "id": "9e62f309accc3d17"
   },
   {
    "source_id": "gn_tw_focus",
@@ -51874,57 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7c73e7ee0dfea941"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한겨레",
-   "title_en": "Interest rate gap between Korea and the US widens to 1%p... There is a high possibility of additional increases by the Bank of Korea within the year.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WTUVCdjZ3OFA3eW92Q3NEcGVsOGZzS0RTMjNkZnZwZWJWYkEta3Bkb1hxaUlBVThEbVdUNXpnR2lYS0ViQnE4MFh0N1pTLXZYYjd2Q0NWNXl0R0NIRmhyRnlyVTNmSkEwTnUxNFVGQmtjdw?oc=5",
-   "published_utc": "2026-09-17T15:55:00+00:00",
-   "title_original": "한미 금리차 1%p로 확대…한은 연내 추가인상 가능성 커져",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "764b2bab2782af38"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "After fallout with Chinese parent, chipmaker Nexperia partners with India's Tata",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0pQZVByS1Fyd0FDVUI3MVV3c2R5LTRQb21ZUVg4OUFmVFd3LU1Vbnp4eUtsUGtwSzczUjZLWm43bkhpTVVkNWNuM1VJQnBLa3k3Zks4eTE3a2oxb0hXNDRLaThCOXZ6ak5RQ0tNMFRpdEhNMUhrSldRczJhaEMzMTZOS2hiWTV1am16UVozRk10bVJRdWxIUTZxUW1CVkxjSThJcmtXZ2hNV2F0UE9rQ1pDekh4d1VMejlz?oc=5",
-   "published_utc": "2026-09-17T15:20:24+00:00",
-   "title_original": "After fallout with Chinese parent, chipmaker Nexperia partners with India's Tata",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a95f82aa825540f3"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "AI boom gives Samsung pricing power as MLCC supply tightens",
-   "url": "https://www.koreaherald.com/article/10877230",
-   "published_utc": "2026-09-17T14:55:42+00:00",
-   "title_original": "AI boom gives Samsung pricing power as MLCC supply tightens",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4bccae701cdc602c"
   },
   {
    "source_id": "manual_ia",
