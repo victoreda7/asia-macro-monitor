@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T15:52:43.078410+00:00
+Última coleta: 2026-10-16T16:05:25.726423+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1087
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
   - [japan] The underlying price increase rate is “approaching 2%”; Bank of Japan Governor Ueda says, “We cannot tolerate 
   - [china] China seeks tighter controls on AI-related exports amid rivalry with US
   - [china] EU urges safeguards against Chinese chemicals, machinery imports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Proposes Export Controls on AI Technologies
   - [china] PBOC’s Pan Touts Yuan Assets to Investors at Deutsche Bank Event
   - [china] China's Xi stresses importance of national computing power network
-  - [china] China to add AI, biopharma and solar tech to export control list
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T15:52:43+00:00",
+      "published_utc": "2026-10-16T16:05:25+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
