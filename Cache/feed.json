@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T10:42:44.280428+00:00",
- "collected_at_utc": "2026-10-16T10:42:44.280428+00:00",
+ "generated_at_utc": "2026-10-16T10:52:45.505621+00:00",
+ "collected_at_utc": "2026-10-16T10:52:45.505621+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1089,
-  "china": 866,
-  "taiwan": 329,
-  "korea": 716
+  "china": 865,
+  "taiwan": 331,
+  "korea": 715
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T09:21:20+00:00"
+   "newest": "2026-10-16T10:13:56+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T10:20:58+00:00"
+   "newest": "2026-10-16T10:44:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T10:18:23+00:00"
+   "newest": "2026-10-16T10:43:31+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T10:41:40+00:00"
+   "newest": "2026-10-16T10:51:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industry's Investment Management Firm For 115 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4620XA:0-mitsubishi-electric-to-sell-50-stake-in-subsidiary-mitsubishi-electric-mobility-to-hon-hai-precision-industry-s-investment-management-firm-for-115-billion-yen/",
+   "published_utc": "2026-10-16T10:45:00+00:00",
+   "title_original": "Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industry's Investment Management Firm For 115 Billion Yen",
+   "region": "taiwan",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b4ac0f2f6c5abab8"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility",
+   "url": "https://www.investing.com/news/company-news/hon-hai-subsidiary-acquires-50-stake-in-mitsubishi-electric-mobility-93CH-4953655",
+   "published_utc": "2026-10-16T10:36:44+00:00",
+   "title_original": "Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "697c5abe91efb9ad"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -427,6 +462,24 @@
    "live_wire": true,
    "manual": false,
    "id": "e639909e6d23b321"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "PBOC’s Pan Touts Yuan Assets to Investors at Deutsche Bank Event",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmlKVkZGT1ZmRG1PWk5XTkdpNFNwcThER1ZfNGFrZ0dpVzFXWmpFaTZEZVJMaHFDNFF6aGtEV2xDWGRVVUpBQ29sVjRqd2lfRjRwMng1TUJUaVV2VVJjaUt3MmJGa1FYbjJlTktibEc3bEIxZzJZVmtlLTJBRDEwTnhhdlpQUllrMXRQYlZYQUo4eUdwX0Z6YTFkOHJwS1RLdmtSVWFQdnRrSjhsWndPdmRvQmpHZw?oc=5",
+   "published_utc": "2026-10-16T10:13:56+00:00",
+   "title_original": "PBOC’s Pan Touts Yuan Assets to Investors at Deutsche Bank Event",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a535a3cd582a279b"
   },
   {
    "source_id": "tradingview_live",
@@ -1527,24 +1580,6 @@
    "id": "eb23040fcdb786a5"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "PBOC’s Pan Touts Yuan Assets to Investors at Deutsche Bank Event",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmlKVkZGT1ZmRG1PWk5XTkdpNFNwcThER1ZfNGFrZ0dpVzFXWmpFaTZEZVJMaHFDNFF6aGtEV2xDWGRVVUpBQ29sVjRqd2lfRjRwMng1TUJUaVV2VVJjaUt3MmJGa1FYbjJlTktibEc3bEIxZzJZVmtlLTJBRDEwTnhhdlpQUllrMXRQYlZYQUo4eUdwX0Z6YTFkOHJwS1RLdmtSVWFQdnRrSjhsWndPdmRvQmpHZw?oc=5",
-   "published_utc": "2026-10-16T03:05:00+00:00",
-   "title_original": "PBOC’s Pan Touts Yuan Assets to Investors at Deutsche Bank Event",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a535a3cd582a279b"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "Japan 10-Year Yield Rises as BOJ Outlook Mulled",
@@ -1665,23 +1700,6 @@
    "live_wire": false,
    "manual": false,
    "id": "912c3fdcf5b7083e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Offshore Yuan Holds at Strongest Since 2022",
-   "url": "https://www.tradingview.com/news/te_news:592584:0-offshore-yuan-holds-at-strongest-since-2022/",
-   "published_utc": "2026-10-16T02:16:18+00:00",
-   "title_original": "Offshore Yuan Holds at Strongest Since 2022",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bb88550558c891d0"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2443,8 +2461,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -2458,7 +2476,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -3061,8 +3079,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -3077,7 +3095,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_kr_ked",
@@ -20662,23 +20680,6 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VndiRU9pMHYwNzlnbC1ROHQwVGFoQTNjSzNOT0xNMVhYSjJLS09PbnhwNjFYdm5mZThyYlhRQkVLeU5vbGJlcFlrQV9jZmRzQlg3b1hMVURSQQ?oc=5",
-   "published_utc": "2026-10-07T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "afe932cae17a5fd7"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veUVQTXNGcnhNQWVXZFVPV01JT1V4dGdFYVpuakI1ZGlPMFhqM1IzZjVUX1hQN2ZSTDVURjFaUzdvbWg3QWN3QlI2OXBGc2JTaUNNTmhESGE2UQ?oc=5",
    "published_utc": "2026-10-07T07:00:00+00:00",
@@ -20743,6 +20744,23 @@
    "live_wire": true,
    "manual": false,
    "id": "ff21c922adebefbc"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VndiRU9pMHYwNzlnbC1ROHQwVGFoQTNjSzNOT0xNMVhYSjJLS09PbnhwNjFYdm5mZThyYlhRQkVLeU5vbGJlcFlrQV9jZmRzQlg3b1hMVURSQQ?oc=5",
+   "published_utc": "2026-10-07T06:16:00+00:00",
+   "title_original": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "afe932cae17a5fd7"
   },
   {
    "source_id": "investing_live",
@@ -51919,23 +51937,6 @@
    "live_wire": false,
    "manual": false,
    "id": "652957a7448ce19e"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix surge as U.S. tech stocks rally",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55T0VWYmJHT1k0U1U3bldzSXpxTFNoNUVobHNVSHpjVmFhTGQzQUR3b0VDWkpvYlpHR0tFOWM2WXREa2U5NzQwbzE5TVFYT1BrSERZRjFhQQ?oc=5",
-   "published_utc": "2026-09-18T01:47:02+00:00",
-   "title_original": "Samsung Electronics, SK hynix surge as U.S. tech stocks rally",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4675b5da79c8a428"
   },
   {
    "source_id": "manual_ia",

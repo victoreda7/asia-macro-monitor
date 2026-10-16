@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T10:42:44.280428+00:00
+Última coleta: 2026-10-16T10:52:45.505621+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1089
-  🇨🇳 China          866
-  🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  716
+  🇨🇳 China          865
+  🇹🇼 Taiwan         331
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industr
+  - [taiwan] Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility
   - [china] Central China Real Estate Posts September Contracted Sales Of RMB438 MLN
   - [china] Shoucheng Holdings Says Fund Managed By Unit Invested In Shanghai Yuanhuan Intelligent Technology
   - [china] Shenzhen hongfuhan Technology's Unit To Invest 1.0 Billion Yuan In Project
   - [korea] South Korea warns of 200-times leveraged bets on Samsung, SK Hynix
   - [china] China Proposes Export Controls on AI Technologies
+  - [china] PBOC’s Pan Touts Yuan Assets to Investors at Deutsche Bank Event
   - [china] China's Xi stresses importance of national computing power network
   - [china] China to add AI, biopharma and solar tech to export control list
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary Announces Cash Dividend Distribution
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China expected to swing to net alumina exports in 2027, Antaike says
   - [japan] Policy to continue raising interest rates, financial environment is accommodative as underlying inflation appr
   - [japan] BOJ's Ueda says anchoring inflation around 2% target becoming more important
-  - [japan] Brokerages see next BOJ rate hike in December
-  - [japan] Tokyo Century Corporation - Consolidated Subsidiary Aviation Capital Group To Order 75 Airbus Aircraft
-  - [korea] Kospi Snaps Seven-Session Losing Streak; Chip, Auto Stocks Advance
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T10:42:44+00:00",
+      "published_utc": "2026-10-16T10:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
