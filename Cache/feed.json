@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-16T04:32:44.263073+00:00",
- "collected_at_utc": "2026-10-16T04:32:44.263073+00:00",
+ "generated_at_utc": "2026-10-16T04:42:42.394440+00:00",
+ "collected_at_utc": "2026-10-16T04:42:42.394440+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,15 +11,15 @@
   "taiwan": 325,
   "korea": 713
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 53,
+   "error": "",
+   "newest": "2026-10-15T10:30:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T04:14:05+00:00"
+   "newest": "2026-10-16T04:30:53+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-15T20:47:27+00:00"
+   "newest": "2026-10-16T04:20:50+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T09:42:28+00:00"
+   "newest": "2026-10-15T10:09:04+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T02:40:00+00:00"
+   "newest": "2026-10-15T18:09:04+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T04:30:00+00:00"
+   "newest": "2026-10-16T04:42:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T03:14:54+00:00"
+   "newest": "2026-10-15T22:00:39+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1431,8 +1431,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -1446,7 +1446,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -2032,8 +2032,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -2048,7 +2048,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_kr_ked",
@@ -19540,6 +19540,23 @@
    "id": "78b8e61f9d91bb0d"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veUVQTXNGcnhNQWVXZFVPV01JT1V4dGdFYVpuakI1ZGlPMFhqM1IzZjVUX1hQN2ZSTDVURjFaUzdvbWg3QWN3QlI2OXBGc2JTaUNNTmhESGE2UQ?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "title_original": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4ec0cf34a3b73caf"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Asia stocks slip as rising oil, yields weigh; RBI hikes rates as expected",
@@ -19572,23 +19589,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3d6da692790f8455"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veUVQTXNGcnhNQWVXZFVPV01JT1V4dGdFYVpuakI1ZGlPMFhqM1IzZjVUX1hQN2ZSTDVURjFaUzdvbWg3QWN3QlI2OXBGc2JTaUNNTmhESGE2UQ?oc=5",
-   "published_utc": "2026-10-07T06:38:00+00:00",
-   "title_original": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4ec0cf34a3b73caf"
   },
   {
    "source_id": "investing_live",
@@ -24679,23 +24679,6 @@
    "id": "bc9cd7012ff5e719"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
-   "published_utc": "2026-10-02T11:04:36+00:00",
-   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "623202d19857e66d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
@@ -25165,6 +25148,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c40d4b61783a66e6"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "623202d19857e66d"
   },
   {
    "source_id": "gn_tw_digitimes",
