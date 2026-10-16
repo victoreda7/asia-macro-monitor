@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T15:22:45.557752+00:00",
- "collected_at_utc": "2026-10-16T15:22:45.557752+00:00",
+ "generated_at_utc": "2026-10-16T15:32:43.624318+00:00",
+ "collected_at_utc": "2026-10-16T15:32:43.624318+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1088,
-  "china": 865,
+  "japan": 1087,
+  "china": 866,
   "taiwan": 331,
   "korea": 716
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T12:40:50+00:00"
+   "newest": "2026-10-16T12:18:03+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
    "newest": "2026-10-16T09:53:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T15:22:00+00:00"
+   "newest": "2026-10-16T15:31:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T13:49:26+00:00"
+   "newest": "2026-10-16T15:27:58+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T01:47:55+00:00"
+   "newest": "2026-10-15T22:00:39+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,41 @@
  ],
  "items": [
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "The underlying price increase rate is “approaching 2%”; Bank of Japan Governor Ueda says, “We cannot tolerate any more” stance on continuing interest rate hikes (NTV NEWS NNN)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84VEV5M3lJdjIwOTlaaWpBUzFpMWxKZjByZ00yMFYxRXdRUnhqYlhlcVNUdXFUdnZHeUE1dDk2WXphSW1hMWhxUGZPcUk0S2dzMF9WTTl0eklKd05fY2lwbTJ0Mk5SUlZNVFJiUjd2N0lsTEtySmwzNEEzcTdYM1E?oc=5",
+   "published_utc": "2026-10-16T15:27:58+00:00",
+   "title_original": "基調的な物価上昇率“2％に近づく” 日銀・植田総裁「これ以上は容認できない」利上げ継続の姿勢（日テレNEWS NNN）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f0f97d79a27831f2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China seeks tighter controls on AI-related exports amid rivalry with US",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4620T0:0/",
+   "published_utc": "2026-10-16T15:24:33+00:00",
+   "title_original": "China busca controle mais rígido de exportações relacionadas à IA em meio à rivalidade com EUA",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "4bd1ad372053a62b"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "EU urges safeguards against Chinese chemicals, machinery imports",
@@ -378,8 +413,8 @@
    "id": "18b0552f95e580ac"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -393,7 +428,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -1743,23 +1778,6 @@
    "id": "4b28c11d98eb7158"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japanese Government Bond (JGB) Yields Recover as Risk Aversion Mood Eases",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46206L:0/",
-   "published_utc": "2026-10-16T06:07:52+00:00",
-   "title_original": "Rendimentos dos títulos do governo japonês (JGB) se recuperam à medida que o clima de aversão ao risco diminui",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "92fd078452609b11"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Taiwan to curb AI chip sales to China for more U.S. alignment- Bloomberg",
@@ -2975,8 +2993,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -2990,7 +3008,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -3593,8 +3611,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -3609,7 +3627,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_kr_ked",
@@ -5640,7 +5658,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcG04a256NWJGdU9heHRpUjhKblUxNVlhVWUzTXJJQ2pSTGN5b0ZRcmNhZ01wVkVwZ2J2aE5FMXNPT0ktek5jaXJNQ3I4aHZQUGpYU1JQMDFGMTNacFVWN3FsamZuTi1nY2w4Z2lGWGY3aFFSbHJFRDN3cFJyeFRaR3lCS1Q?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05UXRMcUtabktsdmY0bk5ROE13VTZudXR4T2tZUzFVMURjYVJfcFpsaXczaHRpY3dJeS1kMDV1dXE1b3JTQW1FbVNxdkd5NGRKRnU5VmEyd0ZtQQ?oc=5",
    "published_utc": "2026-10-15T00:04:31+00:00",
    "title_original": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
    "region": "korea",
@@ -5651,7 +5669,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "f042fc07523f945c"
+   "id": "c64b263d1e33962a"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51935,23 +51953,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b625531b393438fd"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제TV",
-   "title_en": "Bank of Japan raises base interest rate... Stock market rises despite global tightening",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tYTl6SmZYR1BZR29DMFNXbW5jN3dwWUJfS2tzWXB6QnVkdnk0WU9KYU0wN1J3dG1CWEhGTlg4NWh0VjZOYW9mTTkyOExNbmNSZ1RxblNQMHlWejVtVUZtTGd3dFdRR1B5?oc=5",
-   "published_utc": "2026-09-18T05:57:00+00:00",
-   "title_original": "일본은행, 기준금리 인상…글로벌 긴축에도 증시는 '상승'",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "00a782127b712b7c"
   },
   {
    "source_id": "manual_ia",

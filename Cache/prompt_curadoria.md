@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T15:22:45.557752+00:00
+Última coleta: 2026-10-16T15:32:43.624318+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1088
-  🇨🇳 China          865
+  🇯🇵 Japão          1087
+  🇨🇳 China          866
   🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [japan] The underlying price increase rate is “approaching 2%”; Bank of Japan Governor Ueda says, “We cannot tolerate 
+  - [china] China seeks tighter controls on AI-related exports amid rivalry with US
   - [china] EU urges safeguards against Chinese chemicals, machinery imports
   - [china] Chinese premier chairs State Council executive meeting
   - [japan] Fiscal System Council proposes use of imported rice for stockpiled rice
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] PBOC’s Pan Touts Yuan Assets to Investors at Deutsche Bank Event
   - [china] China's Xi stresses importance of national computing power network
   - [china] China to add AI, biopharma and solar tech to export control list
-  - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary Announces Cash Dividend Distribution
-  - [korea] USD/KRW: Goldman Sachs sees Korean won strengthening
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T15:22:45+00:00",
+      "published_utc": "2026-10-16T15:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
