@@ -7,19 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T09:02:44.613997+00:00
+Última coleta: 2026-10-16T09:12:44.082191+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1093
-  🇨🇳 China          861
-  🇹🇼 Taiwan         331
+  🇨🇳 China          862
+  🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
-  - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
   - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
+  - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
   - [korea] Entering a rate hike phase, the upper end of mortgage fluctuation rates of major commercial banks ha..
   - [china] Jinko Solar Sees 9-Month Net Loss At 3.0 Billion Yuan - 3.6 Billion Yuan
   - [china] China proposes adding 40 AI, biotech, solar technologies to export control list
@@ -42,6 +42,7 @@ Total: 3000 manchetes
   - [japan] Tokyo Century Corporation - Consolidated Subsidiary Aviation Capital Group To Order 75 Airbus Aircraft
   - [korea] Kospi Snaps Seven-Session Losing Streak; Chip, Auto Stocks Advance
   - [china] China central bank chief touted yuan assets to investors, Bloomberg News reports
+  - [china] China says joint action, not exchange rates alone, can fix global imbalances
   - [korea] High interest rates expected due to US price shock... October interest rates remain 'hawkish'
   - [taiwan] Taiwan reportedly plans $4B Texas complex for Nvidia AI supply chain; tightens China AI chip exports
   - [china] Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea's manufacturing jobs rise for first time in 27 months
   - [korea] Raising interest rates is necessary to keep prices down, but South Korea and the US central banks are in deep 
   - [korea] Interest rates raised twice, will they stop in October? Bank of Korea considers ‘additional hike’
-  - [korea] People's Power selected candidate Yoon Jae-bok without a second vote in the race for chairman of the..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T09:02:44+00:00",
+      "published_utc": "2026-10-16T09:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

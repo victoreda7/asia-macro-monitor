@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T09:02:44.613997+00:00",
- "collected_at_utc": "2026-10-16T09:02:44.613997+00:00",
+ "generated_at_utc": "2026-10-16T09:12:44.082191+00:00",
+ "collected_at_utc": "2026-10-16T09:12:44.082191+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1093,
-  "china": 861,
-  "taiwan": 331,
+  "china": 862,
+  "taiwan": 330,
   "korea": 715
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T08:46:17+00:00"
+   "newest": "2026-10-16T09:08:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T08:24:24+00:00"
+   "newest": "2026-10-16T09:06:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T07:42:46+00:00"
+   "newest": "2026-10-16T09:02:02+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T17:56:43+09:00"
+   "newest": "2026-10-16T18:09:49+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T07:33:04+00:00"
+   "newest": "2026-10-16T08:19:55+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T02:45:44+00:00"
+   "newest": "2026-10-16T06:13:13+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T08:57:57+00:00"
+   "newest": "2026-10-16T09:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T08:41:56+00:00"
+   "newest": "2026-10-15T09:05:46+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -361,6 +361,24 @@
    "id": "2da780e6dcdb5d5c"
   },
   {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Global inflation debate puts BOJ rate-hike pace in spotlight",
+   "url": "https://www.investing.com/news/economy-news/global-inflation-debate-puts-boj-ratehike-pace-in-spotlight-4953375",
+   "published_utc": "2026-10-16T08:48:47+00:00",
+   "title_original": "Global inflation debate puts BOJ rate-hike pace in spotlight",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "758c266147ac7b1f"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party of Japan Committee Chairman meeting",
@@ -377,24 +395,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f080d03628efbe99"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Global inflation debate puts BOJ rate-hike pace in spotlight",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4620IA:0-global-inflation-debate-puts-boj-rate-hike-pace-in-spotlight/",
-   "published_utc": "2026-10-16T08:42:15+00:00",
-   "title_original": "Global inflation debate puts BOJ rate-hike pace in spotlight",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fa0c275885a3b60d"
   },
   {
    "source_id": "gn_kr_mk",
@@ -779,6 +779,23 @@
    "live_wire": true,
    "manual": false,
    "id": "8a30d2a5327e0615"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "China says joint action, not exchange rates alone, can fix global imbalances",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGxlX0FpbU9yWEZrb2NfdHBhQXFPNGRpMTFQNnU5MXpWRHBDRDdWMXQzMVhmdlcxNEZmbmRxdFJNT3M4RndLNkh4WjQ4dlRNSEdaV2VlbTJ0OW43V0VnYTVKSDNla1JDTTBnU3h5U2xvYW5lZS1WUHZYeldHWnV1cHNPdE12djAwejBzTDNPX2pkeXc3eXdmOTNBNXZOeXRPck92RUZTeTMtTFdOZlE3NmMweTFSNlBFU3lWSGdJOHhmZkFORmV2eXlBVUhzWjNkZTRCS0dHdG82NlHSAdsBQVVfeXFMTndhRGYzaXNJcURzUzhaaWlyUWc0SDJUR3lla0oxRXdrbzZjYndETnVEMTdTQmVTS1psSnJYaUpqa0VydlVsNEZJY0RIRlI2S2twN2JNM3IzY0FFd2c2Z1lKVXg0RXVWZjVVT2RaVjNCeEw0QVp3MHRUS2JGcHQyOGFWSzdqUVoyMnAzUXFMeS1VYmtxdW9FUUlqNW9DOFdoYmRiUV82UkxNQ0xpVFZCa29mX0xKUFZwVUpUSEJfM2Uza21fMXlzVHc5RFJxQ2kxdlg3RUJ6TmM4SUtB?oc=5",
+   "published_utc": "2026-10-16T06:13:13+00:00",
+   "title_original": "China says joint action, not exchange rates alone, can fix global imbalances",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "934ef08b6e33fbf0"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2201,8 +2218,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -2216,7 +2233,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -2819,8 +2836,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -2835,7 +2852,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -24602,6 +24619,23 @@
    "id": "f1e884ea0e920475"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
+   "published_utc": "2026-10-04T08:16:47+00:00",
+   "title_original": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "35a94b1b574169cd"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Liberal Democratic Party Policy Research Council Chairman Kobayashi strengthens his approach to opposition parties for passage of consumption tax reduction bill",
@@ -24618,23 +24652,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7b827cb1b5b1e5ca"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
-   "published_utc": "2026-10-04T07:00:00+00:00",
-   "title_original": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "35a94b1b574169cd"
   },
   {
    "source_id": "nikkei_asia",
@@ -25574,23 +25591,6 @@
    "id": "bc9cd7012ff5e719"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
-   "published_utc": "2026-10-02T11:04:36+00:00",
-   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "623202d19857e66d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
@@ -26060,6 +26060,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c40d4b61783a66e6"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "623202d19857e66d"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51924,23 +51941,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cfc5dbf1246c89b7"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "FIT hedges its AI optics bets with Corning EBO, TSMC co-packaging talks",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZTE1czFnUERuZDJOeHgxcjRVbVpRVmhGZnYxTTFVdHRTenZJbjNnaFZVQXJWV2xIWEV3OFdGeU01M0Q5NzBYMDFieTVkeWZUeDkxNGxmQjhMMURBTzZKSWVvanFXeUsxTURlVk9UTmtHNTZLRjNEOXVldU91R1lpRmQxLUVMVVl5OG5F?oc=5",
-   "published_utc": "2026-09-18T00:22:00+00:00",
-   "title_original": "FIT hedges its AI optics bets with Corning EBO, TSMC co-packaging talks",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d3694691846463b5"
   },
   {
    "source_id": "manual_ia",
