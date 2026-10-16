@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T00:52:44.763788+00:00
+Última coleta: 2026-10-16T01:02:43.434973+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1116
-  🇨🇳 China          849
+  🇨🇳 China          850
   🇹🇼 Taiwan         321
-  🇰🇷 Coreia do Sul  714
+  🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor Is Maintained at Buy by Needham
   - [taiwan] Taiwan Semiconductor Manufacturing Ltd. Stock 12‑Month Price Target Raised to $552.84, Implies 29% Upside
   - [china] The China decoupling paradox: why the world still needs its manufacturing machine
+  - [china] The China decoupling paradox: why the world needs its manufacturing machine
   - [china] Visa’s China approval a ‘direct outcome’ of Trump-Xi summit, Beijing says
   - [korea] South Korea Import Prices Rise in September
   - [korea] South Korea Export Price Growth Eases in September
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Stock Falls as CFO Warns of Margin Pressure
   - [japan] US retail sales show solid growth of +0.8% in September
   - [taiwan] TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short
-  - [japan] Mazda brings part of its supply chain back to Japan with help from robots
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T00:52:44+00:00",
+      "published_utc": "2026-10-16T01:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
