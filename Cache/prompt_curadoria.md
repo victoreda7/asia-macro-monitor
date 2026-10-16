@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T08:42:42.534946+00:00
+Última coleta: 2026-10-16T08:52:43.265621+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1098
+  🇯🇵 Japão          1094
   🇨🇳 China          861
-  🇹🇼 Taiwan         328
-  🇰🇷 Coreia do Sul  713
+  🇹🇼 Taiwan         331
+  🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
+  - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
   - [china] Jinko Solar Sees 9-Month Net Loss At 3.0 Billion Yuan - 3.6 Billion Yuan
   - [china] China proposes adding 40 AI, biotech, solar technologies to export control list
   - [china] Poly Developments September Contract Sales Down 21.1% Y/Y To 16.2 Billion Yuan
@@ -48,7 +50,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal
   - [korea] Materials, parts providers most vulnerable to monetary tightening: BOK chief
   - [taiwan] Taiwan economic growth in 2026 to be highest in 39 years: CIER
-  - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
   - [korea] South Korean Won Extends Losses on Capital Outflows
   - [korea] Korea's manufacturing jobs rise for first time in 27 months
   - [korea] Raising interest rates is necessary to keep prices down, but South Korea and the US central banks are in deep 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] People's Power selected candidate Yoon Jae-bok without a second vote in the race for chairman of the..
   - [japan] US Treasury says Japan no longer faces deflationary environment, yen level must change
   - [japan] 95.5% of people feel that prices have “increased”, 88.6% predict one year from now, Bank of Japan announced on
-  - [japan] Economic and Fiscal Affairs Minister Jonai denies some reports saying there was no mention of requesting a pos
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T08:42:42+00:00",
+      "published_utc": "2026-10-16T08:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

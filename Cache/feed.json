@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T08:42:42.534946+00:00",
- "collected_at_utc": "2026-10-16T08:42:42.534946+00:00",
+ "generated_at_utc": "2026-10-16T08:52:43.265621+00:00",
+ "collected_at_utc": "2026-10-16T08:52:43.265621+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1098,
+  "japan": 1094,
   "china": 861,
-  "taiwan": 328,
-  "korea": 713
+  "taiwan": 331,
+  "korea": 714
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T07:52:03+00:00"
+   "newest": "2026-10-15T23:52:51+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T08:27:38+00:00"
+   "newest": "2026-10-16T08:46:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T16:58:45+09:00"
+   "newest": "2026-10-16T17:50:05+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T17:38:06+09:00"
+   "newest": "2026-10-16T17:48:06+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T02:40:00+00:00"
+   "newest": "2026-10-16T00:41:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T02:40:00+00:00"
+   "newest": "2026-10-16T00:32:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T08:33:00+00:00"
+   "newest": "2026-10-16T08:49:14+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T06:02:12+00:00"
+   "newest": "2026-10-16T03:02:42+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T07:56:46+00:00"
+   "newest": "2026-10-15T09:05:46+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,42 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party of Japan Committee Chairman meeting",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60357",
+   "published_utc": "2026-10-16T08:45:27+00:00",
+   "title_original": "消費税減税法案 20日審議入り合意 自民・民改国対委員長会談",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f080d03628efbe99"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Global inflation debate puts BOJ rate-hike pace in spotlight",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4620IA:0-global-inflation-debate-puts-boj-rate-hike-pace-in-spotlight/",
+   "published_utc": "2026-10-16T08:42:15+00:00",
+   "title_original": "Global inflation debate puts BOJ rate-hike pace in spotlight",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fa0c275885a3b60d"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -884,24 +920,6 @@
    "id": "465d338fa5853f6b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party of Japan Committee Chairman meeting",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60357",
-   "published_utc": "2026-10-16T05:02:46+00:00",
-   "title_original": "消費税減税法案 20日審議入り合意 自民・民改国対委員長会談",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f080d03628efbe99"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "South Korean Won Extends Losses on Capital Outflows",
@@ -1009,7 +1027,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "95.5% of people feel that prices have “increased”, 88.6% predict one year from now, Bank of Japan announced on October 13th (LIMO)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmVsVE5iVWNqOG51R0tudFBTdFpxbVdaaWFFeFFjTWNaajFweWVXNERYaHlGYXNnQU5idXRrRnhTWGVIem5icUNYdDh2LW8yNGVOY0ZCcUw0eWdlRjdBVjAtOUJ2ZnpIMzFsQ3NrWkFKcWl3aGVlT2tLWmh5dk50RkluczNVMk9m?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wUV9GcVBpZjFhNFZyUEd4cFRPV3RzaWJWRkxlMFo3UTIzZWJQM2I4QjBrRUlyRXZhMDFkYTVaRVBFZGNfLTBSYjFkVEp4NGZXU3FNMENySlJzWVBIeFgteThkcUJRU0lnTHFzNkJfMWpyWmhYZUF6WVJBeHhGX0U?oc=5",
    "published_utc": "2026-10-16T04:10:51+00:00",
    "title_original": "物価が「上がった」と感じる人95.5％、1年後予想は88.6％ 日銀10月13日公表（LIMO）",
    "region": "japan",
@@ -1021,7 +1039,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "64ac5cda07018fb3"
+   "id": "1b6e15394579a22b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1128,6 +1146,23 @@
    "live_wire": true,
    "manual": false,
    "id": "f10ffb6322a9c2ad"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Invezz",
+   "title_en": "Samsung and SK Hynix rise more than 2%: AI boom-bust cycle starting?",
+   "url": "https://www.tradingview.com/news/invezz:bc8497dccbc81:0/",
+   "published_utc": "2026-10-16T03:30:56+00:00",
+   "title_original": "Samsung e SK Hynix sobem mais de 2%: ciclo boom-bust da IA está começando?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "996920e469fa08d6"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -1597,6 +1632,25 @@
    "live_wire": false,
    "manual": false,
    "id": "7a5e1a12224bddb8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC excludes CPUs from AI accelerator growth forecast",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSjE4a2Q3X3lhTV96TnJiR2d5RHJNa1RoMTFxcmh1ZTBDNFZnUHF6SXVZckYwOTVnYjVWdEhmM3VBbjJQM1BpYmU1b19CVDV0T0FYOW1DemFJeUF4cXVXWDMwV1pWNDA3b3VKVzZvUVZQOWhLWUhSR2JXUUlCWlNCMzR2YUlHd2g0YnVWQk1ld3Jsdw?oc=5",
+   "published_utc": "2026-10-15T23:52:51+00:00",
+   "title_original": "TSMC excludes CPUs from AI accelerator growth forecast",
+   "region": "taiwan",
+   "topics": [
+    "activity",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c3ea6e246bf63214"
   },
   {
    "source_id": "tradingview_live",
@@ -3134,6 +3188,25 @@
    "id": "9af5e463950444b3"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSG1NM2QxX2xaeVg4UzJ0Z3BaVl9tVThkRUdOMTlaRnBQdlVQdDBSdnNzZy1JblJHWXI1d3NvOFBtSGczZjlQQ25acWY2aWZKZTFPLXRNZGNRbmZWN2tDeDRjelY3TUxkRnE2RGFKQTVRbTM1bDNNZno4d3p2ZUZMdw?oc=5",
+   "published_utc": "2026-10-15T09:15:13+00:00",
+   "title_original": "TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab",
+   "region": "taiwan",
+   "topics": [
+    "activity",
+    "industrial",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "54334bed6dd9bd73"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Japan economy minister says nation no longer in deflation, seeks investor rethink",
@@ -4287,6 +4360,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bc290ecab1b87606"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Semiconductors to consume 30% of Taiwan's power by 2035",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUJqLVBISXpYR3ZvbUluaFcyeHdRRHBkNHRLNUc2ZUp1enZ6YzJISXRSdXFQOFZxa1FycG1zRTlYWWJteDZ5cU5QX1BHQ2tSQ3VFX1poM0ZvYURXTVUzTWczNmJodU4tdE9NVFdiQTd2U1ZlcW51RUNNc0FjSUlCSU5wMmMtQWlua1Y1ZHExcWF1LU1tQ3JfUGJvdFA?oc=5",
+   "published_utc": "2026-10-15T02:03:40+00:00",
+   "title_original": "Semiconductors to consume 30% of Taiwan's power by 2035",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6ee38a149163ebf2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -24494,23 +24584,6 @@
    "id": "f1e884ea0e920475"
   },
   {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
-   "published_utc": "2026-10-04T08:16:47+00:00",
-   "title_original": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "35a94b1b574169cd"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Liberal Democratic Party Policy Research Council Chairman Kobayashi strengthens his approach to opposition parties for passage of consumption tax reduction bill",
@@ -24527,6 +24600,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7b827cb1b5b1e5ca"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
+   "published_utc": "2026-10-04T07:00:00+00:00",
+   "title_original": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "35a94b1b574169cd"
   },
   {
    "source_id": "nikkei_asia",
@@ -25466,23 +25556,6 @@
    "id": "bc9cd7012ff5e719"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
-   "published_utc": "2026-10-02T11:04:36+00:00",
-   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "623202d19857e66d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
@@ -25952,6 +26025,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c40d4b61783a66e6"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "623202d19857e66d"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -41246,23 +41336,6 @@
    "id": "89a28a3b94819d69"
   },
   {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "ADB raises GDP growth for Taiwan to 11% this year",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94dF9SWTZpM1NYSlI4RjlweW5xWTFOLW1NZkxJZWF1QlV2OXpaMHMyT2JIQXZJUlpONjVZeF93LWpKMHgzcEZDMUVnMER0SURoVjdtV2ZPME1UcVpQWW8tcGU4RFROeFVFbnVUR25Zb3NYTjcyaEE?oc=5",
-   "published_utc": "2026-09-24T07:00:00+00:00",
-   "title_original": "ADB raises GDP growth for Taiwan to 11% this year",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c8eb527275d619e4"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC locks in 3-6% wafer out price hikes for 2027",
@@ -41278,6 +41351,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bfd3c21d2e6cc860"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "ADB raises GDP growth for Taiwan to 11% this year",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94dF9SWTZpM1NYSlI4RjlweW5xWTFOLW1NZkxJZWF1QlV2OXpaMHMyT2JIQXZJUlpONjVZeF93LWpKMHgzcEZDMUVnMER0SURoVjdtV2ZPME1UcVpQWW8tcGU4RFROeFVFbnVUR25Zb3NYTjcyaEE?oc=5",
+   "published_utc": "2026-09-24T07:00:00+00:00",
+   "title_original": "ADB raises GDP growth for Taiwan to 11% this year",
+   "region": "taiwan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c8eb527275d619e4"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51850,95 +51940,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f5c40a11e071eb1f"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "BOJ raises key interest rate to 1.25%",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EclVBNUJvUk5neHFaMzY4WnhhNjhnOWluNGY4ajNHVTlPN09kVUpnYTViamdxWWVMOHpub20yTUhrbUtYcUdqRC1yY1diMlppZzlPdVBMNVZQUTlNWGowbFN0MA?oc=5",
-   "published_utc": "2026-09-18T00:19:30+00:00",
-   "title_original": "BOJ raises key interest rate to 1.25%",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f8b487cc425b3768"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Japan’s core inflation holds near BOJ’s target",
-   "url": "https://www.investing.com/news/economic-indicators/japans-august-core-consumer-prices-rise-17-yryr-4906565",
-   "published_utc": "2026-09-18T00:06:53+00:00",
-   "title_original": "Japan’s core inflation holds near BOJ’s target",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a0389ccc81a65031"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan Inflation Slows a Tad Ahead of Expected BOJ Rate Hike",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVNweGNqaDFDNVpUeUpJQnRSbHNWeXRrenNXaVR1cEhsMXJYS0V3TDgzdnluVTZuLTZmVF9lNTRzSFV1dVktU1hLYWV3SnRxVDRyb3diVkthSS1ZcDlPQUlIdl9obURINFVXUklaNUNiVnRlVURCNW1XMzJXMkhIWDZJbU1HWm96cGZKR1EwdFJNc1FncFpaa2UzbVFUaS01MkpxZk9hQTdzSXZEbWpj?oc=5",
-   "published_utc": "2026-09-18T00:06:00+00:00",
-   "title_original": "Japan Inflation Slows a Tad Ahead of Expected BOJ Rate Hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3d86f08ff1f52a0"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "National consumer price growth slows down in August, below expectations - Bank of Japan remains on course to raise interest rates (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lb003NXR2N0FRUGRYZFBDN0NGS1ZvV1AwYkM4YUVfdDBRSHloZERTcWRlYWQzT1g4eHBtVW9OV3ZqMXRmR1ptdml5QUU5cDFZcU5VUTAtN1FoYjRwZ1JhSWl0cXdqYVdpYVRTb29HRWtaOVFMYXg1bGhENUpuNFU?oc=5",
-   "published_utc": "2026-09-17T23:58:17+00:00",
-   "title_original": "8月全国消費者物価は伸び縮小、予想下回る－日銀利上げ路線変わらず（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3508b4cf31b11035"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan's Consumer Inflation Near 2% as BOJ Rate Increase Expected",
-   "url": "https://www.tradingview.com/news/DJN_DN20260917008576:0/",
-   "published_utc": "2026-09-17T23:49:00+00:00",
-   "title_original": "Japan's Consumer Inflation Near 2% as BOJ Rate Increase Expected",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dfcd7ab8f109bd52"
   },
   {
    "source_id": "manual_ia",
