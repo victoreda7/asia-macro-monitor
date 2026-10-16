@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-16T00:42:43.973345+00:00",
- "collected_at_utc": "2026-10-16T00:42:43.973345+00:00",
+ "generated_at_utc": "2026-10-16T00:52:44.763788+00:00",
+ "collected_at_utc": "2026-10-16T00:52:44.763788+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1116,
   "china": 849,
-  "taiwan": 319,
-  "korea": 716
+  "taiwan": 321,
+  "korea": 714
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 53,
    "error": "",
-   "newest": "2026-10-16T09:26:53+09:00"
+   "newest": "2026-10-16T09:26:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T23:33:29+00:00"
+   "newest": "2026-10-15T23:24:51+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T00:41:00+00:00"
+   "newest": "2026-10-16T00:49:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T22:20:43+00:00"
+   "newest": "2026-10-16T00:00:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -376,6 +376,24 @@
    "live_wire": false,
    "manual": false,
    "id": "2da780e6dcdb5d5c"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "There is no evidence that he considered requesting a postponement of the vote on the June interest rate hike at the Bank of Japan - Minister of Economy, Trade and Finance Jouchi (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sd1lhTkNEV3pPeEhYUzdGN2tCN182WW9GZWRmSHNyc3YxM3ljSjl3WVAxZFl2d0Q0b2paUTdXMXE0OGtOTGx0YjFKQWNOQ2VrMEVpdWM1S0pRQ05wTUQ2YWdxX2xtV2IwcVF2RXNlX1d3YVhwQlRkVWZYQVQzUHM?oc=5",
+   "published_utc": "2026-10-16T00:00:01+00:00",
+   "title_original": "6月日銀利上げに議決延期請求検討した事実ない＝城内経財相（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "38fc28fe9794e49e"
   },
   {
    "source_id": "tradingview_live",
@@ -857,8 +875,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -872,7 +890,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -926,6 +944,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c7a1dcb69737524b"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "TSMC eyes adding facilities in Texas",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OX05PVlNqeGh1UUtMdUdZcU9HQnZTak5VeExvOUNhUWZYd0FBXzNmU1JSUFVybjNSQURKX0dCSkR5YllURjZFMDNOZDBaZkk2RkRWZmhaYXZEbzZGT2lsQ3VhSmw0cndDRGd1dVllZHdHZ1JBSmVFVA?oc=5",
+   "published_utc": "2026-10-15T16:00:00+00:00",
+   "title_original": "TSMC eyes adding facilities in Texas",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5a4de4e666db7738"
   },
   {
    "source_id": "tradingview_live",
@@ -1269,6 +1304,23 @@
    "id": "92bd67944dae6336"
   },
   {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "AI financing fears send chip-heavy Korean stocks into panic",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qWDlQUWo3bGItTG84TG52NGczMFYtQm9SVHBVOW1CeTVqbkwxeGpZU25vV1FMLTNyTWdSNnRqMDE3b3BhV3FBMEszdlVESHVmcDRqeEtRV3dZY2RURHVMRFkzM1J1SGxQeHVBSVpRTTM4bFFmMlJQdWRB?oc=5",
+   "published_utc": "2026-10-15T12:54:00+00:00",
+   "title_original": "AI financing fears send chip-heavy Korean stocks into panic",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d76c28823ad237ad"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Japan tells G20 authorities must watch FX moves with high sense of urgency, finance minister says",
@@ -1441,8 +1493,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -1457,7 +1509,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -12176,13 +12228,13 @@
    "id": "978eebd8bacd5c60"
   },
   {
-   "source_id": "gn_kr_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
    "published_utc": "2026-10-11T12:59:45+00:00",
    "title_original": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-   "region": "korea",
+   "region": "taiwan",
    "topics": [
     "trade"
    ],
@@ -12190,7 +12242,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d7d0d81b05ec0a14"
+   "id": "718b4c2f74b8df7d"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51876,58 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e403cef70f419ad0"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "BOJ Faces Higher Bar to Support Yen After Fed’s Hawkish Hike",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkxBVXBMdWJCOEdVeXl2cHIwTF9aeU1QcjkwbHI2dUdUc3FmV2ZINWloRW4yTWxKNVpOd3gxczhwVDkzT1YxeHRlTHdNeGJrTWE3ZlJZY2l0M184ODAtLU9Sd3k2U2c4aHlfWEhCc2t5ckhmempZR1BYcTJwRy00N0RpZ2RRUWZ3dldQeDh6T3BGWFl2ZU1uNFViOWhJMnQzcmZmeFEwUkZmeE1EdTRhdg?oc=5",
-   "published_utc": "2026-09-17T08:52:28+00:00",
-   "title_original": "BOJ Faces Higher Bar to Support Yen After Fed’s Hawkish Hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a3e061975fa05dd1"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Counterfeit Wegovy, Mounjaro seizures surge in S.Korea as illegal imports quadruple",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTMXdRLUM2X3R0eFBEVFh1NmwxQXFiUGdGVVVGdTkxRkozVFN6YzZOdDVfQnNaeHJoSlM0TEdqZ1o0cUhxUUtzb3JTdXhyMnVJMG5ZSnVnMDhRSk1xZnp2YjMxRkM5S0pybFNzOFhR?oc=5",
-   "published_utc": "2026-09-17T08:51:00+00:00",
-   "title_original": "Counterfeit Wegovy, Mounjaro seizures surge in S.Korea as illegal imports quadruple",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1affa1b16b888229"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "L-SAM Gets Green Light for First Export",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MNWxWR1J4ZlVTRlBpV0tTNmZ2ckJaOUE0aWJ3RVBtZ3lsMXd2UHJxTE90NEJacnY1b1BlZm42YU1JUmN2MHlodjUyZEZnd21OQkFV?oc=5",
-   "published_utc": "2026-09-17T08:49:10+00:00",
-   "title_original": "L-SAM Gets Green Light for First Export",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3ae0fe1e406f100a"
   },
   {
    "source_id": "manual_ia",
