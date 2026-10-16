@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T20:02:42.562260+00:00",
- "collected_at_utc": "2026-10-16T20:02:42.562260+00:00",
+ "generated_at_utc": "2026-10-16T20:12:44.308085+00:00",
+ "collected_at_utc": "2026-10-16T20:12:44.308085+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1085,
+  "japan": 1086,
   "china": 869,
-  "taiwan": 333,
+  "taiwan": 332,
   "korea": 713
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T19:42:18+00:00"
+   "newest": "2026-10-16T20:04:34+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "error": "",
    "newest": "2026-10-16T09:53:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T23:27:21+09:00"
+   "newest": "2026-10-17T05:08:25+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-17T05:01:00+09:00"
+   "newest": "2026-10-17T05:01:59+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T20:02:11+00:00"
+   "newest": "2026-10-16T20:12:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-17T04:30:00+09:00"
+   "newest": "2026-10-17T05:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,42 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill to be debated next week, ruling party aims to establish, opposition party clears support funds",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60791",
+   "published_utc": "2026-10-16T20:08:25+00:00",
+   "title_original": "消費税減税法案来週審議入り 与党 成立図る 野党 支援金明示を",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7ac7c016df26c92a"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax cut: consideration of benefits of around 5% of sales to farmers, etc.",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261016de60762",
+   "published_utc": "2026-10-16T20:05:46+00:00",
+   "title_original": "消費減税 農家などに売り上げ5％程度の給付金検討",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d0f7faaf2c377a92"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -21439,6 +21475,23 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VndiRU9pMHYwNzlnbC1ROHQwVGFoQTNjSzNOT0xNMVhYSjJLS09PbnhwNjFYdm5mZThyYlhRQkVLeU5vbGJlcFlrQV9jZmRzQlg3b1hMVURSQQ?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "afe932cae17a5fd7"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veUVQTXNGcnhNQWVXZFVPV01JT1V4dGdFYVpuakI1ZGlPMFhqM1IzZjVUX1hQN2ZSTDVURjFaUzdvbWg3QWN3QlI2OXBGc2JTaUNNTmhESGE2UQ?oc=5",
    "published_utc": "2026-10-07T07:00:00+00:00",
@@ -21503,23 +21556,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ff21c922adebefbc"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VndiRU9pMHYwNzlnbC1ROHQwVGFoQTNjSzNOT0xNMVhYSjJLS09PbnhwNjFYdm5mZThyYlhRQkVLeU5vbGJlcFlrQV9jZmRzQlg3b1hMVURSQQ?oc=5",
-   "published_utc": "2026-10-07T06:16:00+00:00",
-   "title_original": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "afe932cae17a5fd7"
   },
   {
    "source_id": "investing_live",
@@ -22533,23 +22569,6 @@
    "id": "c4ee62787ab42ef6"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yTmxfQjBlMlNoSUg0bXZUcnJFUkNybGRnWk9HRldBVjVHQUJjUy1SdmpNelhWT01VVzBWYWtZeFdjc0xsWnRaa01hRUFNOF9HQl9PUGI2SzhxQQ?oc=5",
-   "published_utc": "2026-10-06T13:40:00+00:00",
-   "title_original": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4dd4c730ff2feee"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: ``This is not an election campaign'' according to some reports",
@@ -23296,6 +23315,23 @@
    "live_wire": true,
    "manual": false,
    "id": "f1a134505efb5f0e"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yTmxfQjBlMlNoSUg0bXZUcnJFUkNybGRnWk9HRldBVjVHQUJjUy1SdmpNelhWT01VVzBWYWtZeFdjc0xsWnRaa01hRUFNOF9HQl9PUGI2SzhxQQ?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "title_original": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a4dd4c730ff2feee"
   },
   {
    "source_id": "focus_taiwan",
@@ -36716,23 +36752,6 @@
    "id": "fa61bb739cd55af6"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05R2NPV1hnbEV2T0dHX0dDblR1bTNoM2FNVnVXZ1RwYnJVXzBKd0NLMUVvS0hCQzR5bU43T09kcmNHSmRpQXFZWU0zSEl6YVhueV9Ua2hrRkVyNGp3WDJCSFV4bk40aUZYZjNsOXE1WERVQkcyZG5lSVUtZjM?oc=5",
-   "published_utc": "2026-09-28T15:32:15+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting on macro policies, investment",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ef47d1af02c209a8"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "Preview: Forecasters See Japan September Tankan Showing Large Manufacturers’ Sentiment at +25, Highest Since 2017",
@@ -37584,6 +37603,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8c823c8ac703f0a0"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rVmZqeDhPX2dVYTNhNGhncnI1RUs0NXhFMDNlQkFCZ3MyYkJsdkNPcUl0WDdTQmpYSElFcHFYRVhhSmROVnpfQWQ5SUJxTE5PblFxNE1SN0k4SjFkWkJaV0RhSk90YjN3QlM5YVFrTFdvU3lRY1FZdjZ0LXI?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting on macro policies, investment",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c40b44ff5f4696ec"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51917,40 +51953,6 @@
    "live_wire": false,
    "manual": false,
    "id": "98ca70aec6dd4786"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "BOJ Watch: Faster rate hikes a risk for Japan’s economy",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OR3pXem5mTG0yM3M5ZktLZTlKU1hzdUVCZXVVSmU1c3g0amgxajBMYTNQb056b3R4RUNCanpQaEpsWURaQnlUY1FfNTRaLWpVU3VqTmZHM0ZZRzlIVHpzMUItZ0E5ajJ3UkNFMjlB?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "BOJ Watch: Faster rate hikes a risk for Japan’s economy",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9ecd05a7ccdfd25e"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "Taiwan freezes electricity rates to support economy",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNGt4SF9FRHIwOWNfbUQtVkZuazlaXy1VNHVZV2w3VzBYdlJfbi1ZOExRU1lXWjlNNXNMVER0TjJXaEJ4S0Q2RGtNRVhhX3NHUHVKTlhCaw?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "Taiwan freezes electricity rates to support economy",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a00b4baeb4330729"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T20:02:42.562260+00:00
+Última coleta: 2026-10-16T20:12:44.308085+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1085
+  🇯🇵 Japão          1086
   🇨🇳 China          869
-  🇹🇼 Taiwan         333
+  🇹🇼 Taiwan         332
   🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill to be debated next week, ruling party aims to establish, opposition party clear
+  - [japan] Consumption tax cut: consideration of benefits of around 5% of sales to farmers, etc.
   - [japan] US has full confidence in Takaichi's fiscal discipline: Treasury official
   - [japan] Bank of Japan Governor Ueda “will not tolerate price increases exceeding 2%” and will continue to raise intere
   - [china] Beijing seeks tighter grip on AI exports amid US rivalry
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] ``We will raise the policy interest rate,'' says the Bank of Japan Governor (Kyodo News)
   - [japan] Bank of Japan Governor says underlying inflation is approaching 2% (Kyodo News)
   - [china] Zenta Group Subsidiary ZentoAI Signs Binding MOU for Strategic Acquisition in China
-  - [taiwan] TSMC’s ‘Leave No Food On The Table’ Pledge Signals More AI Chip Investment, Morningstar Says
-  - [taiwan] Taiwan lawmakers pass health insurance premium subsidies for seniors
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T20:02:42+00:00",
+      "published_utc": "2026-10-16T20:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
