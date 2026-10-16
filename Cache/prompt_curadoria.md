@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T02:12:41.963540+00:00
+Última coleta: 2026-10-16T02:22:41.953533+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1115
-  🇨🇳 China          853
+  🇯🇵 Japão          1113
+  🇨🇳 China          852
   🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  712
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
+  - [korea] SOXX Extends Selloff After 8-Day Decline, KOSPI Rebounds: Jim Cramer Calls SK Hynix ‘Epicenter Of Fear’
+  - [korea] Despite Nonghyup Economic Holdings' operating profit deficit for the third consecutive year, the CEO..
   - [china] China sets 2027 import tariff-rate quotas for wheat, rice, corn and cotton
   - [china] CHINA PBOC CONDUCTS CNY60 BLN VIA 7-DAY REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7220 FRI VS 6.7253
+  - [korea] S.Korean shares rebound as Samsung, SK Hynix rise; foreigners extend selling spree
   - [japan] G20 finance chiefs share global inflation concerns from Middle East crisis
   - [korea] Samsung Cuts Fourth-Quarter Low-End Phone Production as PCB Material Supply Tightens
   - [korea] Hana Securities: “The Bank of Korea expects a unanimous freeze on the base interest rate in October, maintaini
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi slides over 7% as chip stocks sink
   - [japan] Japan's Kioxia sheds two-thirds of peak market value as China chip rivals emerge
   - [taiwan] Taiwan Semiconductor Manufacturing Ltd. Stock 12‑Month Price Target Raised to $552.42, Implies 28% Upside
-  - [taiwan] 2330 Stock 12‑Month Price Target Raised to TWD 3354.48, Implies 35% Upside
-  - [japan] Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax ded
-  - [japan] Global policymakers see no imminent risk of financial instability, Japan official says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T02:12:42+00:00",
+      "published_utc": "2026-10-16T02:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

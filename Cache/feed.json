@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-16T02:12:41.963540+00:00",
- "collected_at_utc": "2026-10-16T02:12:41.963540+00:00",
+ "generated_at_utc": "2026-10-16T02:22:41.953533+00:00",
+ "collected_at_utc": "2026-10-16T02:22:41.953533+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1115,
-  "china": 853,
+  "japan": 1113,
+  "china": 852,
   "taiwan": 320,
-  "korea": 712
+  "korea": 715
  },
  "elapsed_s": 29.7,
  "sources": [
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T01:54:03+00:00"
+   "newest": "2026-10-16T02:13:01+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T01:24:21+00:00"
+   "newest": "2026-10-16T02:12:47+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T00:01:01+00:00"
+   "newest": "2026-10-16T01:12:12+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T02:10:00+00:00"
+   "newest": "2026-10-16T02:20:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T01:53:54+00:00"
+   "newest": "2026-10-16T02:10:54+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "SOXX Extends Selloff After 8-Day Decline, KOSPI Rebounds: Jim Cramer Calls SK Hynix ‘Epicenter Of Fear’",
+   "url": "https://www.tradingview.com/news/stocktwits:4ef1dde2f094b:0-soxx-extends-selloff-after-8-day-decline-kospi-rebounds-jim-cramer-calls-sk-hynix-epicenter-of-fear/",
+   "published_utc": "2026-10-16T02:13:38+00:00",
+   "title_original": "SOXX Extends Selloff After 8-Day Decline, KOSPI Rebounds: Jim Cramer Calls SK Hynix ‘Epicenter Of Fear’",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "aa588614236e7157"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Despite Nonghyup Economic Holdings' operating profit deficit for the third consecutive year, the CEO..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16V2FzWHczN3NQYndjU1ZiZ25ZLXUxZDRaMXRYbC1LYjNxTDBJUFRVaDJIMU1PRUJ4SW55WUJrdjJ4cTI4bHdYT2gxQzN1eDU1V1E?oc=5",
+   "published_utc": "2026-10-16T02:10:54+00:00",
+   "title_original": "Despite Nonghyup Economic Holdings' operating profit deficit for the third consecutive year, the CEO..",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e7a8ca786d1a7767"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -393,6 +427,23 @@
    "live_wire": true,
    "manual": false,
    "id": "d00e241b22a81418"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korean shares rebound as Samsung, SK Hynix rise; foreigners extend selling spree",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSnBNbEp5MEVxLVlZOU9VRXRIRE02UC12eG1YaHNlWXpnOG5ZSWdYMXZaSGpRSTQ4bFByUFdING56bFdNek53NUxMZjU1TmZMSHhVMmtJRngyZjBQeE5IdkxRTDVKajNHUmV0Vm5OX2c0TFVFak1jdndB?oc=5",
+   "published_utc": "2026-10-16T01:12:12+00:00",
+   "title_original": "S.Korean shares rebound as Samsung, SK Hynix rise; foreigners extend selling spree",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8bdfe1568cc427c7"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -19120,23 +19171,6 @@
    "id": "78b8e61f9d91bb0d"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veUVQTXNGcnhNQWVXZFVPV01JT1V4dGdFYVpuakI1ZGlPMFhqM1IzZjVUX1hQN2ZSTDVURjFaUzdvbWg3QWN3QlI2OXBGc2JTaUNNTmhESGE2UQ?oc=5",
-   "published_utc": "2026-10-07T07:00:00+00:00",
-   "title_original": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4ec0cf34a3b73caf"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Asia stocks slip as rising oil, yields weigh; RBI hikes rates as expected",
@@ -19169,6 +19203,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3d6da692790f8455"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veUVQTXNGcnhNQWVXZFVPV01JT1V4dGdFYVpuakI1ZGlPMFhqM1IzZjVUX1hQN2ZSTDVURjFaUzdvbWg3QWN3QlI2OXBGc2JTaUNNTmhESGE2UQ?oc=5",
+   "published_utc": "2026-10-07T06:38:00+00:00",
+   "title_original": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4ec0cf34a3b73caf"
   },
   {
    "source_id": "investing_live",
@@ -49622,7 +49673,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
    "title_original": "Chinese premier chairs State Council executive meeting",
    "region": "china",
@@ -49633,7 +49684,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ac5c93c1746a6f36"
+   "id": "9e62f309accc3d17"
   },
   {
    "source_id": "gn_tw_focus",
@@ -51871,59 +51922,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6f145c6bec34ae82"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "nhk.or.jp",
-   "title_en": "Market investors await outcome of BOJ meeting",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzNTBZN09ONzRmSFJkLU0wOXRtakdKZTVyOEZCUnZ5SlcyRWFQVnhFWlZMcWNzT1ZiSk9mc3hvNV96VzlnUVAyUklwSExnSmpQWE5PTzQ0QTA0ZnZGYnlweTJPTQ?oc=5",
-   "published_utc": "2026-09-17T09:46:53+00:00",
-   "title_original": "Market investors await outcome of BOJ meeting",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0656a372e099e7e2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China and Hong Kong stocks fall after US interest rate rise",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4590KC:0/",
-   "published_utc": "2026-09-17T09:43:15+00:00",
-   "title_original": "Ações da China e de Hong Kong recuam após aumento das taxas de juros nos EUA",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "2057a0209915b8f3"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Yen rise as markets price BOJ rate hike while dollar pauses post-Fed By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFdjeHJyWDZMZVlSN2xTNFVhQkdwTUJMWnZDM2VMSkEtY3pjLVk0RFh0Z2RNZlJOYWdUaUJIYkFzbzJXcHBIcW1yQ3FaQW5mV1RhMGdVZHNTSUV1MTVfY0FFSlFoOVE2RHlsS2FnelRVWV82bHBBemppSUJMYWNkek9EWnl5OGJtaTJjVG02UGFSMzdyLVZGLXNnU3BMalplcnZnSHpBQUV6MkxzNy1udEUxY3daQQ?oc=5",
-   "published_utc": "2026-09-17T09:40:15+00:00",
-   "title_original": "Yen rise as markets price BOJ rate hike while dollar pauses post-Fed By Investing.com",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6a45b3d9e7f8750e"
   },
   {
    "source_id": "manual_ia",
