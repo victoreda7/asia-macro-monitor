@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T12:22:42.909002+00:00",
- "collected_at_utc": "2026-10-16T12:22:42.909002+00:00",
+ "generated_at_utc": "2026-10-16T12:32:43.242970+00:00",
+ "collected_at_utc": "2026-10-16T12:32:43.242970+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1086,
-  "china": 867,
-  "taiwan": 332,
+  "japan": 1087,
+  "china": 865,
+  "taiwan": 333,
   "korea": 715
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -67,7 +67,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T19:27:29+08:00"
+   "newest": "2026-10-16T20:22:34+08:00"
   },
   {
    "source_id": "investing_live",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T12:13:22+00:00"
+   "newest": "2026-10-16T12:18:03+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T20:04:12+09:00"
+   "newest": "2026-10-16T21:29:50+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-16T10:14:29+00:00"
+   "newest": "2026-10-16T12:30:07+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T12:22:11+00:00"
+   "newest": "2026-10-16T12:32:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-16T11:03:51+00:00"
+   "newest": "2026-10-16T12:27:10+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,59 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "Taiwan Eyes $4 Billion Texas Hub to Supercharge Nvidia's AI Supply Chain",
+   "url": "https://www.tradingview.com/news/gurufocus:8df96432f094b:0-taiwan-eyes-4-billion-texas-hub-to-supercharge-nvidia-s-ai-supply-chain/",
+   "published_utc": "2026-10-16T12:29:53+00:00",
+   "title_original": "Taiwan Eyes $4 Billion Texas Hub to Supercharge Nvidia's AI Supply Chain",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "616ebb68639a29cf"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says",
+   "url": "https://www.tradingview.com/news/DJN_DN20261016002853:0-boj-must-ensure-underlying-inflation-doesn-t-go-above-2-ueda-says/",
+   "published_utc": "2026-10-16T12:26:00+00:00",
+   "title_original": "BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3151d57de3da415b"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Stabilizing underlying inflation around 2% is key goal for BOJ: Ueda",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5maDNZZ19OalJLTXAza1RiT2FfVlZlcDhuR0ZZMmdXS2VQQkdNS29nRWM4b2lCaUhpZDUxZWVmZ3Z0RFd1QkNUaFlJdGpIVDZRRzQwTVI2QnRmQQ?oc=5",
+   "published_utc": "2026-10-16T12:18:03+00:00",
+   "title_original": "BREAKING NEWS: Stabilizing underlying inflation around 2% is key goal for BOJ: Ueda",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5550786906e36fe3"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -1458,23 +1511,6 @@
    "id": "92fd078452609b11"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "JGB yields rebound as risk-off mode eases",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4620GI:0-jgb-yields-rebound-as-risk-off-mode-eases/",
-   "published_utc": "2026-10-16T06:07:20+00:00",
-   "title_original": "JGB yields rebound as risk-off mode eases",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0221cb4088946940"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Taiwan to curb AI chip sales to China for more U.S. alignment- Bloomberg",
@@ -1490,23 +1526,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b330356c385136f4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Piecemeal Stimulus Still Insufficient to Boost Domestic Demand — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261016000753:0-china-s-piecemeal-stimulus-still-insufficient-to-boost-domestic-demand-market-talk/",
-   "published_utc": "2026-10-16T05:58:00+00:00",
-   "title_original": "China's Piecemeal Stimulus Still Insufficient to Boost Domestic Demand — Market Talk",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cdd2583254b71fa3"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -5280,6 +5299,24 @@
    "id": "5f4fc9eccb384b11"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "人民网",
+   "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSFJQVWhTUVFQRFIwUDl4TUxBUnB4T29Eejg0VWVDR3E1bGg3el9FZDhXRXpZZGdkd1pncUVrbmh4THJuYXNwMVprU2U1NlhDbFBUTG9EdzNYQ3cxaTBhdjVkTmJmQWlaa19HS253?oc=5",
+   "published_utc": "2026-10-15T00:10:00+00:00",
+   "title_original": "央行将开展7000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "86164b4746f3df9f"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
@@ -5348,24 +5385,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bd7f935ff99055ac"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GVklKSjZJZnY2WVY3X3NZSmhFdk0xOS1VSHplUkc3QXgycXpRQ0hrYy10V1JRTGdoYmlweThaaHFNejJrb2JJREtjWkZ1MkVkZy1vWDVFcDUxUU90QkdpZFNMUHlLdXhT?oc=5",
-   "published_utc": "2026-10-14T23:28:03+00:00",
-   "title_original": "央行将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "864d4016cab82a16"
   },
   {
    "source_id": "gn_kr_bok",
@@ -21932,6 +21951,23 @@
    "id": "c4ee62787ab42ef6"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yTmxfQjBlMlNoSUg0bXZUcnJFUkNybGRnWk9HRldBVjVHQUJjUy1SdmpNelhWT01VVzBWYWtZeFdjc0xsWnRaa01hRUFNOF9HQl9PUGI2SzhxQQ?oc=5",
+   "published_utc": "2026-10-06T13:40:00+00:00",
+   "title_original": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a4dd4c730ff2feee"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: ``This is not an election campaign'' according to some reports",
@@ -22678,23 +22714,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f1a134505efb5f0e"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yTmxfQjBlMlNoSUg0bXZUcnJFUkNybGRnWk9HRldBVjVHQUJjUy1SdmpNelhWT01VVzBWYWtZeFdjc0xsWnRaa01hRUFNOF9HQl9PUGI2SzhxQQ?oc=5",
-   "published_utc": "2026-10-06T07:00:00+00:00",
-   "title_original": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4dd4c730ff2feee"
   },
   {
    "source_id": "focus_taiwan",
@@ -51921,24 +51940,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9ca9e6429c0bccac"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank today launched a 463.3 billion yuan 7-day reverse repurchase operation using a fixed interest rate and quantity bidding method.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96WThJc0MxZmJYWlRIVjlNOGdfWkFNYTlSQVY2a1JMWjgwYUlwOTRYekhQanN6Q0F3NlRYb3BLakEtN1pKSTlJMEZuaDBaXzhIM3FXTndBQ00xTkw5N3hmMg?oc=5",
-   "published_utc": "2026-09-18T03:34:23+00:00",
-   "title_original": "央行今日以固定利率、数量招标方式开展了4633亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ad5e3a823e592d42"
   },
   {
    "source_id": "manual_ia",

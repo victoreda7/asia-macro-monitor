@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T12:22:42.909002+00:00
+Última coleta: 2026-10-16T12:32:43.242970+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1086
-  🇨🇳 China          867
-  🇹🇼 Taiwan         332
+  🇯🇵 Japão          1087
+  🇨🇳 China          865
+  🇹🇼 Taiwan         333
   🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Eyes $4 Billion Texas Hub to Supercharge Nvidia's AI Supply Chain
+  - [japan] BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says
+  - [japan] BREAKING NEWS: Stabilizing underlying inflation around 2% is key goal for BOJ: Ueda
   - [china] Li Auto raises 1.6B Yuan for chip business expansion
   - [taiwan] Taiwan Plans $4 Billion Texas AI Hub for Nvidia Supply Chain
   - [japan] BREAKING NEWS: Japan data broadly in line with BOJ outlook since Sept. policy meet: Ueda
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Entering a rate hike phase, the upper end of mortgage fluctuation rates of major commercial banks ha..
   - [china] Developing | China mulls new tech export bans covering AI, biotech and solar power
   - [china] Jinko Solar Sees 9-Month Net Loss At 3.0 Billion Yuan - 3.6 Billion Yuan
-  - [china] China proposes adding 40 AI, biotech, solar technologies to export control list
-  - [china] Poly Developments September Contract Sales Down 21.1% Y/Y To 16.2 Billion Yuan
-  - [china] Tardy China Stimulus Sets Up Second Quarter of Sub-Target Growth
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T12:22:43+00:00",
+      "published_utc": "2026-10-16T12:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
