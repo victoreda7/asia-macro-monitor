@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T05:52:43.387665+00:00
+Última coleta: 2026-10-16T06:02:44.481828+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1112
-  🇨🇳 China          849
-  🇹🇼 Taiwan         325
+  🇨🇳 China          850
+  🇹🇼 Taiwan         324
   🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Piecemeal Stimulus Still Insufficient to Boost Domestic Demand — Market Talk
   - [taiwan] Taiwan economic growth in 2026 to be highest in 39 years: CIER
   - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
   - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Hana Securities: “The Bank of Korea expects a unanimous freeze on the base interest rate in October, maintaini
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [japan] There is no evidence that he considered requesting a postponement of the vote on the June interest rate hike a
-  - [japan] There is no evidence that he considered requesting a postponement of the vote on the June Bank of Japan intere
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T05:52:43+00:00",
+      "published_utc": "2026-10-16T06:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
