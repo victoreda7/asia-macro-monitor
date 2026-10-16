@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T03:42:42.368615+00:00
+Última coleta: 2026-10-16T03:52:43.908698+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1110
@@ -19,10 +19,12 @@ Total: 3000 manchetes
 
   - [china] China's yuan poised to strengthen for a third week in a row on strong exports
   - [taiwan] TSMC's Capex Likely to Surge to US$83 Billion in 2027 — Market Talk
+  - [taiwan] TSMC eyes adding facilities in Texas
   - [japan] Japan core inflation likely exceeded BOJ target for first time since December
   - [japan] Japan 10-Year Yield Rises as BOJ Outlook Mulled
   - [taiwan] TSMC Still Best-Placed in AI Boom — Market Talk
   - [china] The central bank launched a 700 billion yuan buyout reverse repo on October 15, with an additional 6-month ext
+  - [japan] [Latest Saizeriya financial results] Prices of Milanese-style Doria increased for the first time in 6 years! 3
   - [taiwan] Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg
   - [japan] Economics and Finance Minister Jouchi requests postponement of the Bank of Japan's resolution, ``There are no 
   - [taiwan] TSMC deal could slow Musk's Terafab, but US suppliers still see upside
@@ -30,6 +32,7 @@ Total: 3000 manchetes
   - [korea] SOXX Extends Selloff After 8-Day Decline, KOSPI Rebounds: Jim Cramer Calls SK Hynix ‘Epicenter Of Fear’
   - [korea] Despite Nonghyup Economic Holdings' operating profit deficit for the third consecutive year, the CEO..
   - [taiwan] TSMC details pricing, confirms agentic AI boosts CPU demand
+  - [china] Tardy China Stimulus Sets Up Second Quarter of Sub-Target Growth
   - [china] China sets 2027 import tariff-rate quotas for wheat, rice, corn and cotton
   - [china] CHINA PBOC CONDUCTS CNY60 BLN VIA 7-DAY REVERSE REPO FRI
   - [korea] [Next week's economic schedule] Pay attention to the Bank of Korea's base interest rate decision... China's th
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] The China decoupling paradox: why the world still needs its manufacturing machine
   - [china] The China decoupling paradox: why the world needs its manufacturing machine
   - [china] Visa’s China approval a ‘direct outcome’ of Trump-Xi summit, Beijing says
-  - [korea] South Korea Import Prices Rise in September
-  - [korea] South Korea Export Price Growth Eases in September
-  - [japan] First-class Shine Muscat is sold for "only 300 yen"...A "super diversified company in Okayama" that has been i
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T03:42:42+00:00",
+      "published_utc": "2026-10-16T03:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
