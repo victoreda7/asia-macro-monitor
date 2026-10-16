@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T00:22:43.003113+00:00
+Última coleta: 2026-10-16T00:32:43.878269+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1118
-  🇨🇳 China          847
+  🇯🇵 Japão          1117
+  🇨🇳 China          848
   🇹🇼 Taiwan         320
   🇰🇷 Coreia do Sul  715
 
@@ -36,6 +36,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC's net profit hits record in third quarter
   - [china] China bought half of Brazil’s oil exports as Iran war shut Hormuz, driving sales to record
   - [china] EU Beefs Up Trade Arsenal With Powers to Block China Imports
+  - [china] China Is Too Defensive Over the Yuan
   - [japan] Finance Minister Katayama agrees to extend Japan-Korea currency swap
   - [korea] SK Hynix stock: Up big in H1, down 58% from peak in H2 - is the AI boom losing steam?
   - [taiwan] TSMC earnings analysis: questions answered and next catalysts
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com
   - [korea] Why is SK hynix ADR stock sliding today?
   - [china] France and Germany to allow UK to join EU car policy if it aligns on China tariffs
-  - [china] France and Germany to allow UK in EU car policy if it aligns on China tariffs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T00:22:43+00:00",
+      "published_utc": "2026-10-16T00:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
