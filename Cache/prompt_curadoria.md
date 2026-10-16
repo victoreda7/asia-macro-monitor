@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T17:22:42.950121+00:00
+Última coleta: 2026-10-16T17:32:42.383368+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1088
-  🇨🇳 China          867
-  🇹🇼 Taiwan         331
+  🇯🇵 Japão          1086
+  🇨🇳 China          868
+  🇹🇼 Taiwan         332
   🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [china] European Commission to propose additional China import curbs
   - [china] China Moves to Control AI Tech Exports While Taiwan Cracks Down on Smuggling — Barrons.com
   - [japan] Bank of Japan Governor Ueda will continue to raise interest rates, 2% price stability is more important
   - [japan] TSMC's 3-nanometer semiconductor production plan in Kumamoto approved by the government
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility
   - [korea] South Korea warns of 200-times leveraged bets on Samsung, SK Hynix
   - [china] Central China Real Estate Posts September Contracted Sales Of RMB438 MLN
-  - [china] Shoucheng Holdings Says Fund Managed By Unit Invested In Shanghai Yuanhuan Intelligent Technology
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T17:22:43+00:00",
+      "published_utc": "2026-10-16T17:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
