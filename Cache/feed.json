@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T02:22:41.953533+00:00",
- "collected_at_utc": "2026-10-16T02:22:41.953533+00:00",
+ "generated_at_utc": "2026-10-16T02:32:44.835148+00:00",
+ "collected_at_utc": "2026-10-16T02:32:44.835148+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1113,
-  "china": 852,
+  "china": 853,
   "taiwan": 320,
-  "korea": 715
+  "korea": 714
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -177,9 +177,9 @@
    "source_id": "nhk_politics",
    "name": "NHK 政治",
    "ok": true,
-   "count": 55,
+   "count": 56,
    "error": "",
-   "newest": "2026-10-16T10:25:02+09:00"
+   "newest": "2026-10-16T11:31:34+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T22:00:15+00:00"
+   "newest": "2026-10-16T02:12:23+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T02:20:00+00:00"
+   "newest": "2026-10-16T02:31:33+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-16T11:00:00+09:00"
+   "newest": "2026-10-16T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Offshore Yuan Holds at Strongest Since 2022",
+   "url": "https://www.tradingview.com/news/te_news:592584:0-offshore-yuan-holds-at-strongest-since-2022/",
+   "published_utc": "2026-10-16T02:16:18+00:00",
+   "title_original": "Offshore Yuan Holds at Strongest Since 2022",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bb88550558c891d0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
@@ -530,6 +547,24 @@
    "live_wire": false,
    "manual": false,
    "id": "38fc28fe9794e49e"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "There is no evidence that he considered requesting a postponement of the vote on the June Bank of Japan interest rate hike: Finance Minister Jouchi (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQVJQTjJaWUFPQjdmOEhJVm1ZSHUtMTUxM0lORng4TUl1YVBhZHV3SXNIVHNkZnozODQtQlM1LUU5R013ZDhiekd2WWtPWWsxZU9iT1pCcmRBZW0tQU93bU5XUU9WWWJ1cWl2elJIUUl4d0hVWmVFZ25IWnZLbTFPamZIMnoteVVudWVzSjlB?oc=5",
+   "published_utc": "2026-10-16T00:00:01+00:00",
+   "title_original": "6月日銀利上げに議決延期請求検討した事実ない＝城内経財相 (ロイター)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3bbb75c1f41e9382"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1045,8 +1080,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -1060,7 +1095,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -1663,8 +1698,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -1679,7 +1714,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_kr_ked",
@@ -49673,7 +49708,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
    "title_original": "Chinese premier chairs State Council executive meeting",
    "region": "china",
@@ -49684,7 +49719,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9e62f309accc3d17"
+   "id": "ac5c93c1746a6f36"
   },
   {
    "source_id": "gn_tw_focus",
@@ -51887,41 +51922,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e9cd87bebb4c688b"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Seoul stocks open higher despite first Fed rate hike in over 3 yrs",
-   "url": "https://www.koreaherald.com/article/10876612",
-   "published_utc": "2026-09-17T09:57:28+00:00",
-   "title_original": "Seoul stocks open higher despite first Fed rate hike in over 3 yrs",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "98eb8de2a187c248"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan to “accelerate” interest rate hike; risk of price rise persists (ABEMA TIMES)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01QjR0aU1KV19YcEZhVGhxSXJ2cVl1YXlsTFdLV3BHQkk3blNHRS1iZzhlMW53MUNwazhVYkt6TUpGX0h0dTdxeE85V3RpVldEZjE1ejZXMk1oZXpxU2FHajRFcXBBYUg1amFBVWlaaThsWHFrTXItVmFCWXNFOTA?oc=5",
-   "published_utc": "2026-09-17T09:54:15+00:00",
-   "title_original": "日銀 利上げ“加速”へ 物価上昇リスク根強く（ABEMA TIMES）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6f145c6bec34ae82"
   },
   {
    "source_id": "manual_ia",
