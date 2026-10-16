@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-16T14:02:44.041157+00:00",
- "collected_at_utc": "2026-10-16T14:02:44.041157+00:00",
+ "generated_at_utc": "2026-10-16T14:10:36.726643+00:00",
+ "collected_at_utc": "2026-10-16T14:10:36.726643+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 331,
   "korea": 717
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.2,
  "sources": [
+  {
+   "source_id": "investing_live",
+   "name": "Investing (ao vivo)",
+   "ok": false,
+   "count": 0,
+   "error": "403 ou layout mudou",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -43,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T07:52:03+00:00"
+   "newest": "2026-10-16T03:53:56+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -70,14 +78,6 @@
    "newest": "2026-10-16T20:22:34+08:00"
   },
   {
-   "source_id": "investing_live",
-   "name": "Investing (ao vivo)",
-   "ok": true,
-   "count": 10,
-   "error": "",
-   "newest": "2026-10-16T13:38:07+00:00"
-  },
-  {
    "source_id": "investing_econ",
    "name": "Investing Economy",
    "ok": true,
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T13:36:00+00:00"
+   "newest": "2026-10-16T10:07:38+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T14:02:07+00:00"
+   "newest": "2026-10-16T14:09:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T06:02:12+00:00"
+   "newest": "2026-10-16T12:04:19+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T13:16:03+00:00"
+   "newest": "2026-10-16T13:49:26+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -360,6 +360,25 @@
    "live_wire": false,
    "manual": false,
    "id": "fe270ab56efd8ea2"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor maintains interest rate hike stance, keeping a close eye on energy prices and AI demand (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2JvTEhYOUliQk5kX0RrZ1o1ZENhZGdoSkVrZlY2b09oczBqVGtxQUxUMDh6bHFyUmZHNEU2YjEyaHB4Qmd3VkhtS0ZBcU5ZNmxKa1BRY0IzR0ZhaEFXR3Z4ZjZaNTZSOVlVRVlBM1p4aHZhdjhOcFBzcEY5S1JTT18yb3NNamo4UWdNcG13?oc=5",
+   "published_utc": "2026-10-16T13:49:26+00:00",
+   "title_original": "日銀総裁、利上げ姿勢維持 エネルギー価格、AI需要を注視（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc6290b24f4f3f32"
   },
   {
    "source_id": "investing_econ",
@@ -51933,23 +51952,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1dc8dc7ff4d596df"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "BOJ raises rates to 1.25% in split vote with 2 members opposing hike",
-   "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-raises-rates-to-1.25-in-split-vote-with-2-members-opposing-hike",
-   "published_utc": "2026-09-18T05:08:18.688394+00:00",
-   "title_original": "BOJ raises rates to 1.25% in split vote with 2 members opposing hike",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8a870fbbe5c116a3"
   },
   {
    "source_id": "manual_ia",

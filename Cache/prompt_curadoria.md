@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T14:02:44.041157+00:00
+Última coleta: 2026-10-16T14:10:36.726643+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1086
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] BOJ's Ueda says inflation can't be allowed to rise further
+  - [japan] Bank of Japan Governor maintains interest rate hike stance, keeping a close eye on energy prices and AI demand
   - [japan] BOJ chief vows to keep raising rates, anchor inflation around target
   - [japan] Bank of Japan Governor Ueda emphasizes stance on continuing interest rate hikes: ``We cannot accept any furthe
   - [japan] Bank of Japan Governor Ueda calls upward movement in prices ``unacceptable'', approaches 2% target, continues 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda emphasizes in his greeting that he will “continue to raise policy interest rates” 
   - [china] China Petroleum Engineering Says January-September New Contracts Totalled 105.9 Billion Yuan
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il met with senior officials fro..
-  - [china] China Moves to Restrict Exports of Some Solar Technologies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T14:02:44+00:00",
+      "published_utc": "2026-10-16T14:10:36+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
