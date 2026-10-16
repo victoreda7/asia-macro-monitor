@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T00:02:43.328074+00:00
+Última coleta: 2026-10-16T00:12:43.560622+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1118
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [japan] Japan to sidestep 3.5% defence spending target despite US pressure, Asahi reports
   - [japan] Japan's Katayama says she can't comment on whether extra budget needed or not
   - [japan] Japan Medical Dynamic Marketing Inc - Notice Regarding Workforce Reduction And Other Rationalization Measures 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Why is SK hynix ADR stock sliding today?
   - [china] France and Germany to allow UK to join EU car policy if it aligns on China tariffs
   - [china] France and Germany to allow UK in EU car policy if it aligns on China tariffs
-  - [taiwan] US chip stocks set to wipe out $2 trillion after latest selloff
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T00:02:43+00:00",
+      "published_utc": "2026-10-16T00:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
