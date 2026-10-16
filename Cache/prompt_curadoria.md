@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T13:02:43.607792+00:00
+Última coleta: 2026-10-16T13:12:45.351844+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1087
@@ -30,6 +30,7 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda
   - [china] Beijing seeks tighter grip on AI exports amid US rivalry
   - [japan] Japan's economy is progressing as expected, says Bank of Japan president (Kyodo News)
+  - [japan] ``We will raise the policy interest rate,'' says the Bank of Japan Governor (Kyodo News)
   - [japan] BOJ chief vows to keep raising rates, anchor inflation around target
   - [japan] Bank of Japan Governor says underlying inflation is approaching 2% (Kyodo News)
   - [china] Zenta Group Subsidiary ZentoAI Signs Binding MOU for Strategic Acquisition in China
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [korea] Kospi rebound after 20% drop as foreigners buy; AI doubts trim Samsung, SK Hynix gains
   - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
-  - [china] China Proposes Export Controls on AI Models, Chips and Agents
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T13:02:43+00:00",
+      "published_utc": "2026-10-16T13:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
