@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T23:24:24.134748+00:00
+Última coleta: 2026-10-16T23:32:41.450887+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1084
-  🇨🇳 China          872
+  🇯🇵 Japão          1085
+  🇨🇳 China          871
   🇹🇼 Taiwan         332
   🇰🇷 Coreia do Sul  712
 
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [china] China Proposes Export Controls On 23 AI Technologies Amid U.S. Tech Rivalry
   - [china] Paraguay’s tech minister defies Beijing sanctions, says Taiwan ties ‘not up for negotiation’
+  - [japan] USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk
   - [japan] Consumption tax reduction bill to be debated next week, ruling party aims to establish, opposition party clear
   - [japan] Consumption tax cut: consideration of benefits of around 5% of sales to farmers, etc.
   - [japan] US has full confidence in Takaichi's fiscal discipline: Treasury official
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Plans $4 Billion Texas AI Hub for Nvidia Supply Chain
   - [japan] BREAKING NEWS: Japan data broadly in line with BOJ outlook since Sept. policy meet: Ueda
   - [japan] BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda
-  - [japan] Japan's economy is progressing as expected, says Bank of Japan president (Kyodo News)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T23:24:24+00:00",
+      "published_utc": "2026-10-16T23:32:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
