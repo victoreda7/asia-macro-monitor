@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T03:22:42.085116+00:00
+Última coleta: 2026-10-16T03:32:44.137742+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1110
   🇨🇳 China          852
-  🇹🇼 Taiwan         323
-  🇰🇷 Coreia do Sul  715
+  🇹🇼 Taiwan         324
+  🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC's Capex Likely to Surge to US$83 Billion in 2027 — Market Talk
   - [japan] Japan 10-Year Yield Rises as BOJ Outlook Mulled
   - [taiwan] TSMC Still Best-Placed in AI Boom — Market Talk
   - [china] The central bank launched a 700 billion yuan buyout reverse repo on October 15, with an additional 6-month ext
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] First-class Shine Muscat is sold for "only 300 yen"...A "super diversified company in Okayama" that has been i
   - [japan] US year-end sales forecast for 4% increase as inflation drives people to save money
   - [korea] [Editorial] Chip vulnerability
-  - [japan] IEA to complete release of 100M barrels from March intervention
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T03:22:42+00:00",
+      "published_utc": "2026-10-16T03:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
