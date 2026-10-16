@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T06:32:43.192119+00:00
+Última coleta: 2026-10-16T06:42:44.631505+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1112
-  🇨🇳 China          852
+  🇯🇵 Japão          1111
+  🇨🇳 China          853
   🇹🇼 Taiwan         324
   🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [japan] Brokerages see next BOJ rate hike in December
+  - [japan] Tokyo Century Corporation - Consolidated Subsidiary Aviation Capital Group To Order 75 Airbus Aircraft
+  - [korea] Kospi Snaps Seven-Session Losing Streak; Chip, Auto Stocks Advance
+  - [china] China central bank chief touted yuan assets to investors, Bloomberg News reports
   - [japan] Stock price rise Repurchase movement centered on AI/semiconductor related products
+  - [korea] High interest rates expected due to US price shock... October interest rates remain 'hawkish'
   - [china] Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch
   - [japan] Japanese Government Bond (JGB) Yields Recover as Risk Aversion Mood Eases
   - [japan] JGB yields rebound as risk-off mode eases
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] SOXX Extends Selloff After 8-Day Decline, KOSPI Rebounds: Jim Cramer Calls SK Hynix ‘Epicenter Of Fear’
   - [korea] Despite Nonghyup Economic Holdings' operating profit deficit for the third consecutive year, the CEO..
   - [taiwan] TSMC details pricing, confirms agentic AI boosts CPU demand
-  - [china] Tardy China Stimulus Sets Up Second Quarter of Sub-Target Growth
-  - [china] China sets 2027 import tariff-rate quotas for wheat, rice, corn and cotton
-  - [china] CHINA PBOC CONDUCTS CNY60 BLN VIA 7-DAY REVERSE REPO FRI
-  - [korea] [Next week's economic schedule] Pay attention to the Bank of Korea's base interest rate decision... China's th
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7220 FRI VS 6.7253
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T06:32:43+00:00",
+      "published_utc": "2026-10-16T06:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
