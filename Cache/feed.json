@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T09:52:42.800381+00:00",
- "collected_at_utc": "2026-10-16T09:52:42.800381+00:00",
+ "generated_at_utc": "2026-10-16T10:02:43.386720+00:00",
+ "collected_at_utc": "2026-10-16T10:02:43.386720+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1091,
+  "japan": 1090,
   "china": 865,
   "taiwan": 329,
-  "korea": 715
+  "korea": 716
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T09:33:12+00:00"
+   "newest": "2026-10-16T09:56:25+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T09:24:37+00:00"
+   "newest": "2026-10-16T09:36:31+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T09:02:02+00:00"
+   "newest": "2026-10-16T09:54:01+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 15,
+   "count": 16,
    "error": "",
-   "newest": "2026-10-16T09:20:00+00:00"
+   "newest": "2026-10-16T09:40:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T14:52:42+00:00"
+   "newest": "2026-10-15T10:09:04+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T09:41:37+00:00"
+   "newest": "2026-10-16T10:01:48+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T03:02:42+00:00"
+   "newest": "2026-10-16T06:02:12+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "China to add AI, biopharma and solar tech to export control list",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list",
+   "published_utc": "2026-10-16T10:02:42.798873+00:00",
+   "title_original": "China to add AI, biopharma and solar tech to export control list",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2390d13fb73d36fc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "London Stock Exchange",
+   "title_en": "REG - Hon Hai Prec.Ind.Co - Subsidiary Announces Cash Dividend Distribution",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-10-16:newsml_RSP3236Za:0-reg-hon-hai-prec-ind-co-subsidiary-announces-cash-dividend-distribution/",
+   "published_utc": "2026-10-16T09:59:49+00:00",
+   "title_original": "REG - Hon Hai Prec.Ind.Co - Subsidiary Announces Cash Dividend Distribution",
+   "region": "taiwan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "86a6d052812be352"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "USD/KRW: Goldman Sachs sees Korean won strengthening",
+   "url": "https://www.investing.com/news/forex-news/usdkrw-goldman-sachs-sees-korean-won-strengthening-93CH-4953507",
+   "published_utc": "2026-10-16T09:50:55+00:00",
+   "title_original": "USD/KRW: Goldman Sachs sees Korean won strengthening",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c6488a190b166246"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -2323,8 +2374,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -2338,7 +2389,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -2941,8 +2992,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -2957,7 +3008,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -3173,7 +3224,7 @@
    "source_name": "NHKニュース",
    "title_en": "Policymaker: BOJ shouldn't be too cautious raising rates",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zREY2YmRXTkN0UUVkMWRPeVJQQTZBVUhwUWZRT0YzVXBQMmJtYlFBUE5oUkhKMjNXSEJnRkhkX3BrSEJuN1pXNUU0QjctelM3OFdLQWc2OFRnU2p1S09ZdGNwaw?oc=5",
-   "published_utc": "2026-10-15T09:42:28+00:00",
+   "published_utc": "2026-10-15T09:41:57+00:00",
    "title_original": "Policymaker: BOJ shouldn't be too cautious raising rates",
    "region": "japan",
    "topics": [
@@ -51887,60 +51938,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c94cc3ca2a5d38b8"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Stocks and bonds dip as central banks jack up rates to tame inflation",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95V1cyTmJPMlg0ZTkwR1hnMEJBdGZYOGEwRnBqRS1pU0RMNFpJX3NFTjZ1eTRydDZDMGthN2NZdXZYREtKMnI4MHVPNFByOGlqbXFaX09scG5mNXdrX3MzUUtXVXFBaXk5M2tDS0lQQTZSa1hmOXctY1h4OA?oc=5",
-   "published_utc": "2026-09-18T01:32:00+00:00",
-   "title_original": "Stocks and bonds dip as central banks jack up rates to tame inflation",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4b8f6f7a6dfa0bf"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank conducted a 100 billion yuan 14-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2p6bWJzQW8xVzZzY1BaV3E2dXh0LWxnX3NCVEdneTJxTFZDMEc1aVUxWjUyVVV3bEVzNFV4aHBGWWVKVVJ1OHNVaXNnaDNHaEJZeXoyVGVhaUxRbWx1cklJMFhVR0JTTkZHTFIwLXN2ZEtSLTYxcmRyVm1UTi1Obm5KWHk?oc=5",
-   "published_utc": "2026-09-18T01:22:28+00:00",
-   "title_original": "央行进行 1,000 亿元 14 天期逆回购操作。",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "512544de697a1777"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan central bank keeps rates unchanged as inflation stays contained",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVBUN2NJSUZXTVhXelZOcWxwam4zSTgxZnVTSC1aUXkzY18wbXZrMVZhanJoSzJjcDBfTkRaRmhybU1IbnhOSzdTbjRTWTFwQVlLdUNWLWxCVmRjQjYtMXduQ1ptM1k1UUZIWlNoY3puWWJHV1ZHcWJSZWcxSmFHWHljTFdQcENWR0ZSLXdn?oc=5",
-   "published_utc": "2026-09-18T01:19:49+00:00",
-   "title_original": "Taiwan central bank keeps rates unchanged as inflation stays contained",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "57077964107fe269"
   },
   {
    "source_id": "manual_ia",

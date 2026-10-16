@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T09:52:42.800381+00:00
+Última coleta: 2026-10-16T10:02:43.386720+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1091
+  🇯🇵 Japão          1090
   🇨🇳 China          865
   🇹🇼 Taiwan         329
-  🇰🇷 Coreia do Sul  715
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [china] China to add AI, biopharma and solar tech to export control list
+  - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary Announces Cash Dividend Distribution
+  - [korea] USD/KRW: Goldman Sachs sees Korean won strengthening
   - [china] China Petroleum Engineering Says January-September New Contracts Totalled 105.9 Billion Yuan
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Government Bond (JGB) Yields Recover as Risk Aversion Mood Eases
   - [japan] JGB yields rebound as risk-off mode eases
   - [taiwan] Taiwan to curb AI chip sales to China for more U.S. alignment- Bloomberg
-  - [china] China's Piecemeal Stimulus Still Insufficient to Boost Domestic Demand — Market Talk
-  - [taiwan] Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal
-  - [korea] Materials, parts providers most vulnerable to monetary tightening: BOK chief
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T09:52:43+00:00",
+      "published_utc": "2026-10-16T10:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
