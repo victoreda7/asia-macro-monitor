@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T11:02:43.181462+00:00
+Última coleta: 2026-10-16T11:12:43.506430+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1089
+  🇯🇵 Japão          1088
   🇨🇳 China          865
   🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  716
+  🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
@@ -33,7 +33,9 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda emphasizes in his greeting that he will “continue to raise policy interest rates” 
   - [china] China Petroleum Engineering Says January-September New Contracts Totalled 105.9 Billion Yuan
   - [china] China Plans AI Tech Export Curbs to Manage Security Risks
+  - [china] China Moves to Restrict Exports of Some Solar Technologies
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
+  - [korea] Kospi rebound after 20% drop as foreigners buy; AI doubts trim Samsung, SK Hynix gains
   - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
   - [china] China Proposes Export Controls on AI Models, Chips and Agents
   - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027 By Reuters
   - [japan] Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027
   - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
-  - [japan] Stock price rise Repurchase movement centered on AI/semiconductor related products
-  - [china] China expected to swing to net alumina exports in 2027, Antaike says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T11:02:43+00:00",
+      "published_utc": "2026-10-16T11:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
