@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T07:42:44.348190+00:00
+Última coleta: 2026-10-16T07:52:43.474392+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1108
-  🇨🇳 China          855
-  🇹🇼 Taiwan         326
+  🇯🇵 Japão          1105
+  🇨🇳 China          857
+  🇹🇼 Taiwan         327
   🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China
+  - [china] Chinese finance minister eager for dialogue with EU, calls for cooperation on macroeconomic policies (Reuters)
   - [japan] BOJ chief flags inflation overshoot risk, stresses importance of 2% anchor
   - [japan] Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027
   - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC eyes adding facilities in Texas
   - [japan] Japan core inflation likely exceeded BOJ target for first time since December
   - [china] PBOC’s Pan Touts Yuan Assets to Investors at Deutsche Bank Event
-  - [japan] Japan 10-Year Yield Rises as BOJ Outlook Mulled
-  - [taiwan] TSMC Still Best-Placed in AI Boom — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T07:42:44+00:00",
+      "published_utc": "2026-10-16T07:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
