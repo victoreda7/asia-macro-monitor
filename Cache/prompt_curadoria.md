@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T01:02:43.434973+00:00
+Última coleta: 2026-10-16T01:12:43.016027+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1116
+  🇯🇵 Japão          1117
   🇨🇳 China          850
-  🇹🇼 Taiwan         321
+  🇹🇼 Taiwan         320
   🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
+  - [japan] G20 finance chiefs share global inflation concerns from Middle East crisis
   - [korea] Hana Securities: “The Bank of Korea expects a unanimous freeze on the base interest rate in October, maintaini
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [japan] There is no evidence that he considered requesting a postponement of the vote on the June interest rate hike a
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC eyes adding facilities in Texas
   - [taiwan] TSMC Stock Falls as CFO Warns of Margin Pressure
   - [japan] US retail sales show solid growth of +0.8% in September
-  - [taiwan] TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T01:02:43+00:00",
+      "published_utc": "2026-10-16T01:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
