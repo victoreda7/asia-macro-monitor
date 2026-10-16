@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T21:52:41.927448+00:00
+Última coleta: 2026-10-16T22:02:47.405950+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1086
@@ -32,8 +32,8 @@ Total: 3000 manchetes
   - [japan] TSMC's 3-nanometer semiconductor production plan in Kumamoto approved by the government
   - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
   - [china] China's central bank to further open its financial markets to foreigners, chief says
-  - [japan] The underlying price increase rate is “approaching 2%”; Bank of Japan Governor Ueda says, “We cannot tolerate 
   - [china] China seeks tighter controls on AI-related exports amid rivalry with US
+  - [japan] The underlying price increase rate is “approaching 2%”; Bank of Japan Governor Ueda says, “We cannot tolerate 
   - [china] EU urges safeguards against Chinese chemicals, machinery imports
   - [china] China’s CXMT Swings to Profit After Memory Chip Prices Surge
   - [china] Chinese premier chairs State Council executive meeting
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T21:52:42+00:00",
+      "published_utc": "2026-10-16T22:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
