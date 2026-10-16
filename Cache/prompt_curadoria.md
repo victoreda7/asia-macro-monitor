@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T11:52:45.895021+00:00
+Última coleta: 2026-10-16T12:02:42.842305+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1085
@@ -36,12 +36,12 @@ Total: 3000 manchetes
   - [korea] USD/KRW: Goldman Sachs sees Korean won strengthening
   - [japan] Bank of Japan Governor Ueda emphasizes in his greeting that he will “continue to raise policy interest rates” 
   - [china] China Petroleum Engineering Says January-September New Contracts Totalled 105.9 Billion Yuan
-  - [china] China Plans AI Tech Export Curbs to Manage Security Risks
   - [china] China Moves to Restrict Exports of Some Solar Technologies
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [korea] Kospi rebound after 20% drop as foreigners buy; AI doubts trim Samsung, SK Hynix gains
   - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
   - [china] China Proposes Export Controls on AI Models, Chips and Agents
+  - [china] China Plans AI Tech Export Curbs to Manage Security Risks
   - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
   - [korea] The Export-Import Bank of Korea has set out to establish a system to evaluate and select candidate p..
   - [korea] Entering a rate hike phase, the upper end of mortgage fluctuation rates of major commercial banks ha..
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T11:52:46+00:00",
+      "published_utc": "2026-10-16T12:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
