@@ -7,25 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T00:32:43.878269+00:00
+Última coleta: 2026-10-16T00:42:43.973345+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1117
-  🇨🇳 China          848
-  🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  715
+  🇯🇵 Japão          1116
+  🇨🇳 China          849
+  🇹🇼 Taiwan         319
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hana Securities: “The Bank of Korea expects a unanimous freeze on the base interest rate in October, maintaini
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [japan] Japan to sidestep 3.5% defence spending target despite US pressure, Asahi reports
   - [japan] Japan's Katayama says she can't comment on whether extra budget needed or not
   - [japan] Japan Medical Dynamic Marketing Inc - Notice Regarding Workforce Reduction And Other Rationalization Measures 
   - [korea] South Korea Jobless Rate Falls to 2-Year Low
   - [korea] Soaring term deposit interest rates...a signal for a base interest rate increase?
+  - [china] China’s Plan to Make Yuan a Global Currency Enters Faster Phase
   - [taiwan] Taiwan Semiconductor Is Maintained at Buy by Needham
   - [taiwan] Taiwan Semiconductor Manufacturing Ltd. Stock 12‑Month Price Target Raised to $552.84, Implies 29% Upside
   - [china] The China decoupling paradox: why the world still needs its manufacturing machine
+  - [china] Visa’s China approval a ‘direct outcome’ of Trump-Xi summit, Beijing says
   - [korea] South Korea Import Prices Rise in September
   - [korea] South Korea Export Price Growth Eases in September
   - [japan] First-class Shine Muscat is sold for "only 300 yen"...A "super diversified company in Okayama" that has been i
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Mazda brings part of its supply chain back to Japan with help from robots
   - [japan] IEA to complete release of 100M barrels from March intervention
   - [japan] Further Possible BOJ Tightening Could Lift Japanese Yen — Market Talk
-  - [taiwan] TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears. — Barrons.com
-  - [korea] Why is SK hynix ADR stock sliding today?
-  - [china] France and Germany to allow UK to join EU car policy if it aligns on China tariffs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T00:32:44+00:00",
+      "published_utc": "2026-10-16T00:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
