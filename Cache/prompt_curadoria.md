@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T08:02:44.572411+00:00
+Última coleta: 2026-10-16T08:12:43.440892+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1105
-  🇨🇳 China          857
-  🇹🇼 Taiwan         327
+  🇯🇵 Japão          1103
+  🇨🇳 China          858
+  🇹🇼 Taiwan         328
   🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
   - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
   - [japan] BOJ Current Account Balances by Sector (Sept.)
+  - [taiwan] AI server tracker: semiconductor testing and design services rally on compute demand
+  - [china] China proposes adding 40 AI, biotech, solar technologies to export control list
   - [taiwan] Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China
   - [china] Chinese finance minister eager for dialogue with EU, calls for cooperation on macroeconomic policies (Reuters)
   - [japan] BOJ chief flags inflation overshoot risk, stresses importance of 2% anchor
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan core inflation likely exceeded BOJ target for first time since December By Reuters
   - [china] China's yuan poised to strengthen for a third week in a row on strong exports
   - [taiwan] Taiwan's Chun Yuan Steel sees 4Q26 auto surge, expands into AI robotics
-  - [taiwan] TSMC's Capex Likely to Surge to US$83 Billion in 2027 — Market Talk
-  - [taiwan] TSMC eyes adding facilities in Texas
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T08:02:44+00:00",
+      "published_utc": "2026-10-16T08:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
