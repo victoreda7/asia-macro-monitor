@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T08:52:43.265621+00:00
+Última coleta: 2026-10-16T08:58:47.844514+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1094
+  🇯🇵 Japão          1093
   🇨🇳 China          861
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  714
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
   - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
+  - [korea] Entering a rate hike phase, the upper end of mortgage fluctuation rates of major commercial banks ha..
   - [china] Jinko Solar Sees 9-Month Net Loss At 3.0 Billion Yuan - 3.6 Billion Yuan
   - [china] China proposes adding 40 AI, biotech, solar technologies to export control list
   - [china] Poly Developments September Contract Sales Down 21.1% Y/Y To 16.2 Billion Yuan
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Raising interest rates is necessary to keep prices down, but South Korea and the US central banks are in deep 
   - [korea] Interest rates raised twice, will they stop in October? Bank of Korea considers ‘additional hike’
   - [korea] People's Power selected candidate Yoon Jae-bok without a second vote in the race for chairman of the..
-  - [japan] US Treasury says Japan no longer faces deflationary environment, yen level must change
-  - [japan] 95.5% of people feel that prices have “increased”, 88.6% predict one year from now, Bank of Japan announced on
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T08:52:43+00:00",
+      "published_utc": "2026-10-16T08:58:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
