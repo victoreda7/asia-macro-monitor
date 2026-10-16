@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T12:42:41.927653+00:00
+Última coleta: 2026-10-16T12:52:43.360929+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1085
-  🇨🇳 China          867
-  🇹🇼 Taiwan         332
+  🇯🇵 Japão          1087
+  🇨🇳 China          866
+  🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
   - [japan] BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says
   - [china] Shenzhen Techwinsemi Sees 9-Month Net Profit At 8.7 Billion Yuan-9.0 Billion Yuan
+  - [japan] Instinct Bio Returns to Profit and Grows Revenue Nearly 10% in Yen Terms in First Half of Fiscal 2026
+  - [japan] Instinct Bio Technical Company Holdings Inc. (BIOT) Returns To Profit; Revenue Up ~10% YoY in Yen
   - [taiwan] Taiwan Eyes $4 Billion Texas Hub to Supercharge Nvidia's AI Supply Chain
   - [japan] BREAKING NEWS: Stabilizing underlying inflation around 2% is key goal for BOJ: Ueda
   - [china] Li Auto raises 1.6B Yuan for chip business expansion
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi rebound after 20% drop as foreigners buy; AI doubts trim Samsung, SK Hynix gains
   - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
   - [china] China Proposes Export Controls on AI Models, Chips and Agents
-  - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
-  - [korea] The Export-Import Bank of Korea has set out to establish a system to evaluate and select candidate p..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T12:42:42+00:00",
+      "published_utc": "2026-10-16T12:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
