@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T09:42:43.974663+00:00
+Última coleta: 2026-10-16T09:52:42.800381+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1091
-  🇨🇳 China          864
-  🇹🇼 Taiwan         330
+  🇨🇳 China          865
+  🇹🇼 Taiwan         329
   🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [china] China Proposes Export Controls on AI Models, Chips and Agents
   - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
   - [korea] Entering a rate hike phase, the upper end of mortgage fluctuation rates of major commercial banks ha..
+  - [china] Developing | China mulls new tech export bans covering AI, biotech and solar power
   - [china] Jinko Solar Sees 9-Month Net Loss At 3.0 Billion Yuan - 3.6 Billion Yuan
   - [china] China proposes adding 40 AI, biotech, solar technologies to export control list
   - [china] Poly Developments September Contract Sales Down 21.1% Y/Y To 16.2 Billion Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's Piecemeal Stimulus Still Insufficient to Boost Domestic Demand — Market Talk
   - [taiwan] Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal
   - [korea] Materials, parts providers most vulnerable to monetary tightening: BOK chief
-  - [taiwan] Taiwan economic growth in 2026 to be highest in 39 years: CIER
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T09:42:44+00:00",
+      "published_utc": "2026-10-16T09:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
