@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-16T07:02:45.742420+00:00",
- "collected_at_utc": "2026-10-16T07:02:45.742420+00:00",
+ "generated_at_utc": "2026-10-16T07:12:43.197942+00:00",
+ "collected_at_utc": "2026-10-16T07:12:43.197942+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1110,
   "china": 854,
-  "taiwan": 325,
-  "korea": 711
+  "taiwan": 326,
+  "korea": 710
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T05:25:00+00:00"
+   "newest": "2026-10-16T05:49:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T06:02:03+00:00"
+   "newest": "2026-10-16T07:08:59+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T15:48:48+09:00"
+   "newest": "2026-10-16T16:07:19+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T07:02:16+00:00"
+   "newest": "2026-10-16T07:12:18+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-16T06:31:21+00:00"
+   "newest": "2026-10-16T07:10:03+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSnBNbEp5MEVxLVlZOU9VRXRIRE02UC12eG1YaHNlWXpnOG5ZSWdYMXZaSGpRSTQ4bFByUFdING56bFdNek53NUxMZjU1TmZMSHhVMmtJRngyZjBQeE5IdkxRTDVKajNHUmV0Vm5OX2c0TFVFak1jdndB?oc=5",
+   "published_utc": "2026-10-16T07:08:59+00:00",
+   "title_original": "Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5344c29af0470e2a"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -554,23 +571,6 @@
    "id": "b330356c385136f4"
   },
   {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSnBNbEp5MEVxLVlZOU9VRXRIRE02UC12eG1YaHNlWXpnOG5ZSWdYMXZaSGpRSTQ4bFByUFdING56bFdNek53NUxMZjU1TmZMSHhVMmtJRngyZjBQeE5IdkxRTDVKajNHUmV0Vm5OX2c0TFVFak1jdndB?oc=5",
-   "published_utc": "2026-10-16T06:02:03+00:00",
-   "title_original": "Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5344c29af0470e2a"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "China's Piecemeal Stimulus Still Insufficient to Boost Domestic Demand — Market Talk",
@@ -586,6 +586,24 @@
    "live_wire": true,
    "manual": false,
    "id": "cdd2583254b71fa3"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU1LakZhV2xQNHBFM0lFWU9pT1JCdGMyTXY4Q01TSjZYd3dNbWZ4Rk50ME1UQnUzVkgta3U0RFpFY0VNZGNaeXZfV25jZm9lMjBDdjVONUhlMmJKLTNwT2xwM1I0Mkl5N2N2c25IQWZwbWtORDRYbUJMMC1hZXhWbzllSFZ2bDJzNThDSFRYYmVyYXJnSVc4V0QzVjFMWHBQWVc4NTlRb1E0WEJsYVl1OV9yZEFBQQ?oc=5",
+   "published_utc": "2026-10-16T05:49:00+00:00",
+   "title_original": "Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal",
+   "region": "taiwan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f7065d4585f12151"
   },
   {
    "source_id": "focus_taiwan",
@@ -690,6 +708,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1cfd02f3c04e17f4"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg",
+   "title_en": "Tardy China Stimulus Sets Up Second Quarter of Sub-Target Growth",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakV4aDBPUjZLZXZQa2VySFVsVXE3bmR4OTZ4YVdzb3VCeHF5V2JxZkhMazk5LXpVN19FMHlkUnlCYnh3UEJpcktSOUljOV9tNHJlQXU2ZVJJQ2dLbHVUeFNsUm5zNHoyRmVuSVUwdmxVZ0FGemZsT2VLYndGZ1NReFZuOE5KNnZYZDJzSFNTY0MwMHh6UnJySko4aUJwSUwtM2t2TndQWVZPTkdudGFlQk5vSzJ5Zw?oc=5",
+   "published_utc": "2026-10-16T04:41:00+00:00",
+   "title_original": "Tardy China Stimulus Sets Up Second Quarter of Sub-Target Growth",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b8a1a196ed001b8a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1074,23 +1109,6 @@
    "live_wire": false,
    "manual": false,
    "id": "07d3cbedfebbd34a"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Tardy China Stimulus Sets Up Second Quarter of Sub-Target Growth",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakV4aDBPUjZLZXZQa2VySFVsVXE3bmR4OTZ4YVdzb3VCeHF5V2JxZkhMazk5LXpVN19FMHlkUnlCYnh3UEJpcktSOUljOV9tNHJlQXU2ZVJJQ2dLbHVUeFNsUm5zNHoyRmVuSVUwdmxVZ0FGemZsT2VLYndGZ1NReFZuOE5KNnZYZDJzSFNTY0MwMHh6UnJySko4aUJwSUwtM2t2TndQWVZPTkdudGFlQk5vSzJ5Zw?oc=5",
-   "published_utc": "2026-10-16T02:01:00+00:00",
-   "title_original": "Tardy China Stimulus Sets Up Second Quarter of Sub-Target Growth",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b8a1a196ed001b8a"
   },
   {
    "source_id": "tradingview_live",
@@ -25134,6 +25152,23 @@
    "id": "bc9cd7012ff5e719"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
+   "published_utc": "2026-10-02T11:04:36+00:00",
+   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "623202d19857e66d"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
@@ -25603,23 +25638,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c40d4b61783a66e6"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
-   "published_utc": "2026-10-02T07:00:00+00:00",
-   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "623202d19857e66d"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51917,23 +51935,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f0339f568499d622"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "세상을 바꾸는 시민언론 민들레",
-   "title_en": "The US Federal Reserve raises interest rates for the first time in three years... Will the Bank of Korea raise interest rates again?",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16NDFSSmdHaUxPVmlmZ2tLTUFzVUkyX0lTLS1DTlVaa0R1V1ZDV3NhSXA5aWMwNjEtanJ2TUVWZm1IZ2dIUFU3T01BUi1PU0RVTC1mdkJ1c05nNVJfb0cwUi1wWnRHMnVmaEppNA?oc=5",
-   "published_utc": "2026-09-17T22:17:00+00:00",
-   "title_original": "3년만에 기준금리 올린 미 연준…한은 금리 또 올릴까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "573586a9711d7d23"
   },
   {
    "source_id": "manual_ia",

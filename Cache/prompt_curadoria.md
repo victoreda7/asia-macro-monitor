@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T07:02:45.742420+00:00
+Última coleta: 2026-10-16T07:12:43.197942+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1110
   🇨🇳 China          854
-  🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  711
+  🇹🇼 Taiwan         326
+  🇰🇷 Coreia do Sul  710
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
   - [japan] BOJ's Ueda says anchoring inflation around 2% target becoming more important
   - [japan] Brokerages see next BOJ rate hike in December
   - [japan] Tokyo Century Corporation - Consolidated Subsidiary Aviation Capital Group To Order 75 Airbus Aircraft
@@ -29,14 +30,15 @@ Total: 3000 manchetes
   - [japan] Japanese Government Bond (JGB) Yields Recover as Risk Aversion Mood Eases
   - [japan] JGB yields rebound as risk-off mode eases
   - [taiwan] Taiwan to curb AI chip sales to China for more U.S. alignment- Bloomberg
-  - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
   - [china] China's Piecemeal Stimulus Still Insufficient to Boost Domestic Demand — Market Talk
+  - [taiwan] Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal
   - [taiwan] Taiwan economic growth in 2026 to be highest in 39 years: CIER
   - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
   - [korea] South Korean Won Extends Losses on Capital Outflows
   - [korea] Korea's manufacturing jobs rise for first time in 27 months
   - [korea] Raising interest rates is necessary to keep prices down, but South Korea and the US central banks are in deep 
   - [korea] Interest rates raised twice, will they stop in October? Bank of Korea considers ‘additional hike’
+  - [china] Tardy China Stimulus Sets Up Second Quarter of Sub-Target Growth
   - [korea] People's Power selected candidate Yoon Jae-bok without a second vote in the race for chairman of the..
   - [japan] US Treasury says Japan no longer faces deflationary environment, yen level must change
   - [japan] 95.5% of people feel that prices have “increased”, 88.6% predict one year from now, Bank of Japan announced on
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg
   - [japan] Economics and Finance Minister Jouchi requests postponement of the Bank of Japan's resolution, ``There are no 
   - [taiwan] TSMC deal could slow Musk's Terafab, but US suppliers still see upside
-  - [china] Offshore Yuan Holds at Strongest Since 2022
-  - [korea] SOXX Extends Selloff After 8-Day Decline, KOSPI Rebounds: Jim Cramer Calls SK Hynix ‘Epicenter Of Fear’
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T07:02:45+00:00",
+      "published_utc": "2026-10-16T07:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
