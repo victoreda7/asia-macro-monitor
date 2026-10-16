@@ -1,226 +1,18 @@
 {
- "generated_at_utc": "2026-10-16T05:45:17.112471+00:00",
- "collected_at_utc": "2026-10-16T05:45:17.112471+00:00",
+ "generated_at_utc": "2026-10-16T05:52:43.387665+00:00",
+ "collected_at_utc": "2026-10-16T05:52:43.387665+00:00",
  "degraded": false,
- "sources_ok": 15,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1110,
-  "china": 850,
+  "japan": 1112,
+  "china": 849,
   "taiwan": 325,
-  "korea": 715
+  "korea": 714
  },
- "elapsed_s": 183.5,
+ "elapsed_s": 30.6,
  "sources": [
-  {
-   "source_id": "gn_asia_bloomberg",
-   "name": "Bloomberg Asia",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "name": "Caixin",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "name": "DIGITIMES",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "name": "FT Asia",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "name": "Focus Taiwan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "name": "Investing Japan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "name": "KED Global",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "name": "Korea Herald",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "name": "Kyodo News EN",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_mof",
-   "name": "MOF Japan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "name": "NBS 国家统计局",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "name": "NHK World EN",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "name": "PBoC 中文",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "name": "Reuters Japan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "name": "Reuters Taiwan",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "name": "SCMP Economy",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "name": "Taipei Times",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_udn",
-   "name": "UDN / 經濟日報",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "name": "Yahoo! JP News",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "name": "Yonhap",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "name": "中央社 CNA",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "name": "한국은행",
-   "ok": false,
-   "count": 0,
-   "error": "sem resposta",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -228,6 +20,46 @@
    "count": 53,
    "error": "",
    "newest": "2026-10-15T10:30:00+09:00"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "name": "Bloomberg Asia",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T03:32:00+00:00"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "name": "Caixin",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T02:00:00+00:00"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "name": "DIGITIMES",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T03:53:56+00:00"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "name": "FT Asia",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-15T20:20:36+00:00"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "name": "Focus Taiwan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-13T03:43:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -251,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T05:30:41+00:00"
+   "newest": "2026-10-16T05:42:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -262,12 +94,28 @@
    "newest": "2026-10-16T04:20:50+00:00"
   },
   {
+   "source_id": "gn_jp_investing",
+   "name": "Investing Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T03:15:43+00:00"
+  },
+  {
    "source_id": "ked_global",
    "name": "KED Global",
    "ok": true,
    "count": 20,
    "error": "",
    "newest": ""
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "name": "KED Global",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T04:58:19+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -278,12 +126,52 @@
    "newest": "2026-10-16T12:41:00+09:00"
   },
   {
+   "source_id": "gn_kr_herald",
+   "name": "Korea Herald",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-15T20:30:00+00:00"
+  },
+  {
    "source_id": "korea_herald_biz",
    "name": "Korea Herald Business",
    "ok": true,
    "count": 50,
    "error": "",
    "newest": "2026-10-16T13:42:37+00:00"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "name": "Kyodo News EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-15T15:07:19+00:00"
+  },
+  {
+   "source_id": "gn_jp_mof",
+   "name": "MOF Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-09-28T07:00:00+00:00"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "name": "NBS 国家统计局",
+   "ok": true,
+   "count": 14,
+   "error": "",
+   "newest": "2026-10-16T01:30:00+00:00"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "name": "NHK World EN",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-15T10:09:04+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -299,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T11:07:40+09:00"
+   "newest": "2026-10-16T14:45:05+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -310,6 +198,46 @@
    "newest": ""
   },
   {
+   "source_id": "gn_cn_pboc",
+   "name": "PBoC 中文",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T02:46:10+00:00"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T03:14:00+00:00"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "name": "Reuters Japan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-15T18:09:04+00:00"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T00:41:00+00:00"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "name": "Reuters Taiwan",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T02:40:00+00:00"
+  },
+  {
    "source_id": "scmp_business",
    "name": "SCMP Business",
    "ok": true,
@@ -318,12 +246,52 @@
    "newest": "2026-10-16T04:56:59+00:00"
   },
   {
+   "source_id": "gn_cn_scmp",
+   "name": "SCMP Economy",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-15T22:00:15+00:00"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "name": "Taipei Times",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T03:25:35+00:00"
+  },
+  {
    "source_id": "tradingview_live",
    "name": "TradingView (ao vivo)",
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T05:43:31+00:00"
+   "newest": "2026-10-16T05:51:26+00:00"
+  },
+  {
+   "source_id": "gn_tw_udn",
+   "name": "UDN / 經濟日報",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T00:00:11+00:00"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-10T08:48:00+00:00"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "name": "Yahoo! JP News",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T05:00:14+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -334,12 +302,44 @@
    "newest": "2026-10-16T05:40:39+00:00"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "name": "Yonhap",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T03:14:54+00:00"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "name": "中央社 CNA",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-15T10:26:35+00:00"
+  },
+  {
    "source_id": "toyo_keizai",
    "name": "東洋経済オンライン",
    "ok": true,
    "count": 20,
    "error": "",
    "newest": "2026-10-16T14:00:00+09:00"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T05:43:47+00:00"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "name": "한국은행",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-16T04:42:32+00:00"
   }
  ],
  "items": [
@@ -2485,6 +2485,24 @@
    "id": "af1ec46c4c5bff3d"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Monetary operations should be left to the Bank of Japan; we are not in a position to adopt a reflationary policy - Finance Minister Jouchi (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NzZ6NTJxVktxMzRmSmZXcmNXclI2YmhsY1JqY0VwMDl4d3lXS2VHVGtlWXVTVmZDU2FOXy1rbTYybGV5TjVIOXlhemFIYVNDZlpDSlBoNUFkMlc5aDg0WEhhb2Y1SDJWRDdKYXpuS1A1WjV0X3JYQnM5NkRtX0E?oc=5",
+   "published_utc": "2026-10-15T09:27:56+00:00",
+   "title_original": "金融調節は日銀に委ねるべき、リフレ政策採る状況ではない＝城内経財相（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9f50973d1534c8a3"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "Central Bank: Will launch 700 billion yuan buyout reverse repurchase operation on October 15 | People's Bank of China | Bidding | Winning Bid | Banking System | Price",
@@ -2940,7 +2958,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTU5yU2ZpaEZUd2lKZWZvWU5RdEdRTFRMaUM2NXplMnN3ak9CSTMwWTFTWXp1bnZla2VFTzlfeUxhNzNuTVV1Qmx6a1A0elpNekVGMndFUUl2Z2E4R2UtN3BDNU5JZVMzWWI3b1NURlEzQ0lsMVIwQ1NZT1JBRzh2U3ZqeGk4ZFdVVEE2UmNKUXhsRl9sU1ZGOTVOZzFHUU9fdFgwVEtuUTNpOTRGaWo2dUJB?oc=5",
    "published_utc": "2026-10-15T06:12:00+00:00",
@@ -3795,6 +3813,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ca248214d157525b"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Dollar recedes from 18-month high as bond rally tempers impact of hot inflation data",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5",
+   "published_utc": "2026-10-15T01:49:00+00:00",
+   "title_original": "Dollar recedes from 18-month high as bond rally tempers impact of hot inflation data",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dc04cd83edd1bf81"
   },
   {
    "source_id": "investing_econ",
@@ -24817,6 +24852,23 @@
    "id": "bc9cd7012ff5e719"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
+   "published_utc": "2026-10-02T11:04:36+00:00",
+   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "623202d19857e66d"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
@@ -25286,23 +25338,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c40d4b61783a66e6"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
-   "published_utc": "2026-10-02T07:00:00+00:00",
-   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "623202d19857e66d"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51893,40 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6fcceb9fddac0647"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Seoul stocks end almost flat as investors weigh Fed's first rate hike in 3 yrs",
-   "url": "https://www.koreaherald.com/article/10877452",
-   "published_utc": "2026-09-17T16:47:24+00:00",
-   "title_original": "Seoul stocks end almost flat as investors weigh Fed's first rate hike in 3 yrs",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c3de80b634960340"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Huawei Speeds Up AI Chip Roadmap, Unveils Optical ‘Super Node’",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3hOcjJ6N0Fia2NUMkJmUnNPdTdIbVE3R1pYWkQ0T0ZZTlI0Uk11djJBTjRGZng2ZjdqVHZDTjU2bVBYWkprVUhCZ1hIRmlsMFBLZW1EcFI2V3hibVpxeWlWTWhIazlQcHRyZHEwWG11STM0WW5YYzQtN1JQR0ZZcUNfcjdqWDZnQlVueUtCamlMNFlMTVRQajVRLV9XcWsxS3VUYTItcWZqMWhITC04SWhBN2E?oc=5",
-   "published_utc": "2026-09-17T16:43:00+00:00",
-   "title_original": "Huawei Speeds Up AI Chip Roadmap, Unveils Optical ‘Super Node’",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2bc29a6039b61a9d"
   },
   {
    "source_id": "manual_ia",
