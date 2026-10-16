@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-16T07:52:43.474392+00:00",
- "collected_at_utc": "2026-10-16T07:52:43.474392+00:00",
+ "generated_at_utc": "2026-10-16T08:02:44.572411+00:00",
+ "collected_at_utc": "2026-10-16T08:02:44.572411+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,15 +11,15 @@
   "taiwan": 327,
   "korea": 711
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 53,
+   "count": 52,
    "error": "",
-   "newest": "2026-10-15T10:30:00+09:00"
+   "newest": "2026-10-16T17:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 57,
+   "count": 58,
    "error": "",
-   "newest": "2026-10-16T13:06:05+08:00"
+   "newest": "2026-10-16T13:40:08+08:00"
   },
   {
    "source_id": "investing_live",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T03:15:43+00:00"
+   "newest": "2026-10-16T03:48:32+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T07:08:59+00:00"
+   "newest": "2026-10-16T08:00:31+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T16:29:00+09:00"
+   "newest": "2026-10-16T16:58:45+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T16:28:20+09:00"
+   "newest": "2026-10-16T16:54:48+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T07:50:00+00:00"
+   "newest": "2026-10-16T08:01:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T07:43:13+00:00"
+   "newest": "2026-10-16T07:45:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSnBNbEp5MEVxLVlZOU9VRXRIRE02UC12eG1YaHNlWXpnOG5ZSWdYMXZaSGpRSTQ4bFByUFdING56bFdNek53NUxMZjU1TmZMSHhVMmtJRngyZjBQeE5IdkxRTDVKajNHUmV0Vm5OX2c0TFVFak1jdndB?oc=5",
+   "published_utc": "2026-10-16T08:00:31+00:00",
+   "title_original": "Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5344c29af0470e2a"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "BOJ Current Account Balances by Sector (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
+   "published_utc": "2026-10-16T08:00:00+00:00",
+   "title_original": "BOJ Current Account Balances by Sector (Sept.)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4fa0bf559afdc7a1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
@@ -483,23 +518,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c8c187e913c151ef"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSnBNbEp5MEVxLVlZOU9VRXRIRE02UC12eG1YaHNlWXpnOG5ZSWdYMXZaSGpRSTQ4bFByUFdING56bFdNek53NUxMZjU1TmZMSHhVMmtJRngyZjBQeE5IdkxRTDVKajNHUmV0Vm5OX2c0TFVFak1jdndB?oc=5",
-   "published_utc": "2026-10-16T07:08:59+00:00",
-   "title_original": "Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5344c29af0470e2a"
   },
   {
    "source_id": "tradingview_live",
@@ -889,7 +907,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "95.5% of people feel that prices have “increased”, 88.6% predict one year from now, Bank of Japan announced on October 13th (LIMO)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wUV9GcVBpZjFhNFZyUEd4cFRPV3RzaWJWRkxlMFo3UTIzZWJQM2I4QjBrRUlyRXZhMDFkYTVaRVBFZGNfLTBSYjFkVEp4NGZXU3FNMENySlJzWVBIeFgteThkcUJRU0lnTHFzNkJfMWpyWmhYZUF6WVJBeHhGX0U?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmVsVE5iVWNqOG51R0tudFBTdFpxbVdaaWFFeFFjTWNaajFweWVXNERYaHlGYXNnQU5idXRrRnhTWGVIem5icUNYdDh2LW8yNGVOY0ZCcUw0eWdlRjdBVjAtOUJ2ZnpIMzFsQ3NrWkFKcWl3aGVlT2tLWmh5dk50RkluczNVMk9m?oc=5",
    "published_utc": "2026-10-16T04:10:51+00:00",
    "title_original": "物価が「上がった」と感じる人95.5％、1年後予想は88.6％ 日銀10月13日公表（LIMO）",
    "region": "japan",
@@ -901,7 +919,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1b6e15394579a22b"
+   "id": "64ac5cda07018fb3"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -938,6 +956,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ab23c1582d4d3233"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Japan core inflation likely exceeded BOJ target for first time since December By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQWRRY3NmeWhqY3ExOTExMDhaS0NEdno2M0o1NlpaRi1EQlR0bXVjUzcwNW5EMjljb2Y1REkxUTc2Yng4U3JLbDFrZWJxWDJKTmdPZmtRNXpVclpCaTZxTmpNYVlkZ1VzN3JuNGRUbjRyZzJPdUlXTTctZFBIRGtWeGlmbGFWZ2xyUlBlbnlxZUg5YTFYOUFwaVM2Y2RXVXVnNFY3cmJ0YUtUWUFnaGY5Ym9nd1kwVmRsUFBhaWdEdHoyeWdqY1kxVw?oc=5",
+   "published_utc": "2026-10-16T03:48:32+00:00",
+   "title_original": "Japan core inflation likely exceeded BOJ target for first time since December By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6fd1e1a29654c5ad"
   },
   {
    "source_id": "tradingview_live",
@@ -4967,7 +5003,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "Times data said | The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEWDVFS2lYSU80UFYyZ0p2OFJZb290cDNoYlB6RGhaWkNyZGNoSGxUNzZoX2xyQUpCVFI5QUNuZHZUeGNCVEJnUE01Zkl5NUM2allZRjdTZW5CNEZ2YzlGYlRCMTJzdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jN3FFZDBiUjJsd0RTQ1QzMWZWd3kzV3lFZ3JXVzB6UFFqNjZnM1VEbkZtWnJvOVM4RDF3TEdfVnJYajBYTjhMOURkTS05S1lVcEI1b3FBYmhnMlM5SDZQRlNHSjY?oc=5",
    "published_utc": "2026-10-14T18:49:02+00:00",
    "title_original": "时报数说 | 央行将开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -4979,7 +5015,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a94a6f706c5528a4"
+   "id": "892165ae71585367"
   },
   {
    "source_id": "investing_live",
@@ -6416,7 +6452,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "Surging China Exports Push Trade Surplus Toward Fresh Record",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWVSSF96T3R5Ry1QeGlWQmFMV0dyLW9EYjNyek03QkZTOXlheVVvNW0xNVNSZ1F5RW84OERGS0RlLVhvdE9ON3d4eHQ5S3UtWml5Y3pTS0NaX00xSGV0UkVpS3YxY3ZidU80dHIzZVdrcmphYnhNcldOY0VvUlJNWWQ3eFNrb3pnNVdhQV9HY1FYZlVFUmVlb0diVmhZam1GaHVxcUxyRWhQajdnVkhlVk1iTEE?oc=5",
    "published_utc": "2026-10-14T08:28:12+00:00",
@@ -24339,6 +24375,23 @@
    "id": "f1e884ea0e920475"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
+   "published_utc": "2026-10-04T08:16:47+00:00",
+   "title_original": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "35a94b1b574169cd"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Liberal Democratic Party Policy Research Council Chairman Kobayashi strengthens his approach to opposition parties for passage of consumption tax reduction bill",
@@ -24355,23 +24408,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7b827cb1b5b1e5ca"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
-   "published_utc": "2026-10-04T07:00:00+00:00",
-   "title_original": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "35a94b1b574169cd"
   },
   {
    "source_id": "nikkei_asia",
@@ -25311,23 +25347,6 @@
    "id": "bc9cd7012ff5e719"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
-   "published_utc": "2026-10-02T11:04:36+00:00",
-   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "623202d19857e66d"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com Nigeria",
    "title_en": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
@@ -25797,6 +25816,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c40d4b61783a66e6"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "623202d19857e66d"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51905,40 +51941,6 @@
    "live_wire": true,
    "manual": false,
    "id": "89aeaa117526cf33"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG CPI: ENERGY PRICES -0.7% Y/Y (-0.05 POINT) VS. +0.6% (+0.05 PT) IN JULY",
-   "url": "https://www.tradingview.com/news/macenews:63dcd4ad3094b:0-japan-aug-cpi-energy-prices-0-7-y-y-0-05-point-vs-0-6-0-05-pt-in-july/",
-   "published_utc": "2026-09-17T23:36:00+00:00",
-   "title_original": "JAPAN AUG CPI: ENERGY PRICES -0.7% Y/Y (-0.05 POINT) VS. +0.6% (+0.05 PT) IN JULY",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "79a84bb481928d27"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG CPI: PROCESSED FOOD +2.7% (+0.64 POINT) VS. +3.0% (+0.72 PT) IN JULY",
-   "url": "https://www.tradingview.com/news/macenews:3fe54b38b094b:0-japan-aug-cpi-processed-food-2-7-0-64-point-vs-3-0-0-72-pt-in-july/",
-   "published_utc": "2026-09-17T23:36:00+00:00",
-   "title_original": "JAPAN AUG CPI: PROCESSED FOOD +2.7% (+0.64 POINT) VS. +3.0% (+0.72 PT) IN JULY",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "de7c5df25b457054"
   },
   {
    "source_id": "manual_ia",

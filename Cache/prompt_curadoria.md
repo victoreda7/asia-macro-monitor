@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T07:52:43.474392+00:00
+Última coleta: 2026-10-16T08:02:44.572411+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1105
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
+  - [japan] BOJ Current Account Balances by Sector (Sept.)
   - [taiwan] Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China
   - [china] Chinese finance minister eager for dialogue with EU, calls for cooperation on macroeconomic policies (Reuters)
   - [japan] BOJ chief flags inflation overshoot risk, stresses importance of 2% anchor
@@ -25,7 +27,6 @@ Total: 3000 manchetes
   - [japan] Stock price rise Repurchase movement centered on AI/semiconductor related products
   - [china] China expected to swing to net alumina exports in 2027, Antaike says
   - [japan] Policy to continue raising interest rates, financial environment is accommodative as underlying inflation appr
-  - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
   - [japan] BOJ's Ueda says anchoring inflation around 2% target becoming more important
   - [japan] Brokerages see next BOJ rate hike in December
   - [japan] Tokyo Century Corporation - Consolidated Subsidiary Aviation Capital Group To Order 75 Airbus Aircraft
@@ -51,12 +52,11 @@ Total: 3000 manchetes
   - [japan] 95.5% of people feel that prices have “increased”, 88.6% predict one year from now, Bank of Japan announced on
   - [japan] Economic and Fiscal Affairs Minister Jonai denies some reports saying there was no mention of requesting a pos
   - [taiwan] Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
+  - [japan] Japan core inflation likely exceeded BOJ target for first time since December By Reuters
   - [china] China's yuan poised to strengthen for a third week in a row on strong exports
   - [taiwan] Taiwan's Chun Yuan Steel sees 4Q26 auto surge, expands into AI robotics
   - [taiwan] TSMC's Capex Likely to Surge to US$83 Billion in 2027 — Market Talk
   - [taiwan] TSMC eyes adding facilities in Texas
-  - [japan] Japan core inflation likely exceeded BOJ target for first time since December
-  - [china] PBOC’s Pan Touts Yuan Assets to Investors at Deutsche Bank Event
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T07:52:43+00:00",
+      "published_utc": "2026-10-16T08:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
