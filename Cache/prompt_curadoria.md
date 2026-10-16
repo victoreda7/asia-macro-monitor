@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T09:22:44.743495+00:00
+Última coleta: 2026-10-16T09:32:45.536339+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1093
-  🇨🇳 China          862
+  🇯🇵 Japão          1092
+  🇨🇳 China          863
   🇹🇼 Taiwan         330
   🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
+  - [china] China Petroleum Engineering Says January-September New Contracts Totalled 105.9 Billion Yuan
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [japan] Global inflation debate puts BOJ rate-hike pace in spotlight
   - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan economic growth in 2026 to be highest in 39 years: CIER
   - [korea] South Korean Won Extends Losses on Capital Outflows
   - [korea] Korea's manufacturing jobs rise for first time in 27 months
-  - [korea] Raising interest rates is necessary to keep prices down, but South Korea and the US central banks are in deep 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T09:22:44+00:00",
+      "published_utc": "2026-10-16T09:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
