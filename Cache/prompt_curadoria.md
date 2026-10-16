@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T05:12:44.787723+00:00
+Última coleta: 2026-10-16T05:22:43.365474+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1111
   🇨🇳 China          850
-  🇹🇼 Taiwan         325
-  🇰🇷 Coreia do Sul  714
+  🇹🇼 Taiwan         324
+  🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
   - [korea] South Korean Won Extends Losses on Capital Outflows
   - [korea] Korea's manufacturing jobs rise for first time in 27 months
+  - [korea] Raising interest rates is necessary to keep prices down, but South Korea and the US central banks are in deep 
   - [korea] Interest rates raised twice, will they stop in October? Bank of Korea considers ‘additional hike’
   - [korea] People's Power selected candidate Yoon Jae-bok without a second vote in the race for chairman of the..
   - [japan] US Treasury says Japan no longer faces deflationary environment, yen level must change
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] There is no evidence that he considered requesting a postponement of the vote on the June interest rate hike a
   - [japan] There is no evidence that he considered requesting a postponement of the vote on the June Bank of Japan intere
   - [korea] Hyosung Heavy Industries completes new export-only ultra-high-voltage circuit breaker plant; Chairman Cho Hyun
-  - [japan] Japan to sidestep 3.5% defence spending target despite US pressure, Asahi reports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T05:12:45+00:00",
+      "published_utc": "2026-10-16T05:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
