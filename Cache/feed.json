@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T11:22:42.290083+00:00",
- "collected_at_utc": "2026-10-16T11:22:42.290083+00:00",
+ "generated_at_utc": "2026-10-16T11:32:43.287362+00:00",
+ "collected_at_utc": "2026-10-16T11:32:43.287362+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1088,
-  "china": 865,
-  "taiwan": 330,
-  "korea": 717
+  "japan": 1087,
+  "china": 866,
+  "taiwan": 331,
+  "korea": 716
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T11:05:38+00:00"
+   "newest": "2026-10-16T11:24:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T10:51:00+00:00"
+   "newest": "2026-10-16T11:06:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 17,
+   "count": 18,
    "error": "",
    "newest": "2026-10-16T09:53:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T11:11:24+00:00"
+   "newest": "2026-10-16T11:32:14+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T09:41:09+00:00"
+   "newest": "2026-10-16T11:27:23+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Zenta Group Subsidiary ZentoAI Signs Binding MOU for Strategic Acquisition in China",
+   "url": "https://www.tradingview.com/news/DJN_DN20261016002696_20261016002711:0-zenta-group-subsidiary-zentoai-signs-binding-mou-for-strategic-acquisition-in-china/",
+   "published_utc": "2026-10-16T11:30:00+00:00",
+   "title_original": "Zenta Group Subsidiary ZentoAI Signs Binding MOU for Strategic Acquisition in China",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6597bf445625b1d1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "TSMC’s ‘Leave No Food On The Table’ Pledge Signals More AI Chip Investment, Morningstar Says",
+   "url": "https://www.tradingview.com/news/stocktwits:f2a81056c094b:0-tsmc-s-leave-no-food-on-the-table-pledge-signals-more-ai-chip-investment-morningstar-says/",
+   "published_utc": "2026-10-16T11:26:05+00:00",
+   "title_original": "TSMC’s ‘Leave No Food On The Table’ Pledge Signals More AI Chip Investment, Morningstar Says",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "be1c284be17ac6ec"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1597,23 +1631,6 @@
    "id": "f10ffb6322a9c2ad"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "Samsung and SK Hynix rise more than 2%: AI boom-bust cycle starting?",
-   "url": "https://www.tradingview.com/news/invezz:bc8497dccbc81:0/",
-   "published_utc": "2026-10-16T03:30:56+00:00",
-   "title_original": "Samsung e SK Hynix sobem mais de 2%: ciclo boom-bust da IA está começando?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "996920e469fa08d6"
-  },
-  {
    "source_id": "gn_tw_taipeitimes",
    "source_name": "Taipei Times",
    "title_en": "TSMC eyes adding facilities in Texas",
@@ -1647,23 +1664,6 @@
    "live_wire": false,
    "manual": false,
    "id": "eb23040fcdb786a5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan 10-Year Yield Rises as BOJ Outlook Mulled",
-   "url": "https://www.tradingview.com/news/te_news:592599:0-japan-10-year-yield-rises-as-boj-outlook-mulled/",
-   "published_utc": "2026-10-16T03:00:03+00:00",
-   "title_original": "Japan 10-Year Yield Rises as BOJ Outlook Mulled",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "68be8f33932f2b20"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5174,24 +5174,6 @@
    "id": "5f4fc9eccb384b11"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "人民网",
-   "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSFJQVWhTUVFQRFIwUDl4TUxBUnB4T29Eejg0VWVDR3E1bGg3el9FZDhXRXpZZGdkd1pncUVrbmh4THJuYXNwMVprU2U1NlhDbFBUTG9EdzNYQ3cxaTBhdjVkTmJmQWlaa19HS253?oc=5",
-   "published_utc": "2026-10-15T00:10:00+00:00",
-   "title_original": "央行将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "86164b4746f3df9f"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
@@ -5260,6 +5242,24 @@
    "live_wire": false,
    "manual": false,
    "id": "bd7f935ff99055ac"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GVklKSjZJZnY2WVY3X3NZSmhFdk0xOS1VSHplUkc3QXgycXpRQ0hrYy10V1JRTGdoYmlweThaaHFNejJrb2JJREtjWkZ1MkVkZy1vWDVFcDUxUU90QkdpZFNMUHlLdXhT?oc=5",
+   "published_utc": "2026-10-14T23:28:03+00:00",
+   "title_original": "央行将开展7000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "864d4016cab82a16"
   },
   {
    "source_id": "gn_kr_bok",

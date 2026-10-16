@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T11:22:42.290083+00:00
+Última coleta: 2026-10-16T11:32:43.287362+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1088
-  🇨🇳 China          865
-  🇹🇼 Taiwan         330
-  🇰🇷 Coreia do Sul  717
+  🇯🇵 Japão          1087
+  🇨🇳 China          866
+  🇹🇼 Taiwan         331
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [china] Zenta Group Subsidiary ZentoAI Signs Binding MOU for Strategic Acquisition in China
+  - [taiwan] TSMC’s ‘Leave No Food On The Table’ Pledge Signals More AI Chip Investment, Morningstar Says
   - [china] Shanghai Bright Power Semiconductor Says Lock-Up Period For 23.6 Million Shares To End
   - [taiwan] Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industr
   - [taiwan] Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China's finance minister eager for dialogue with EU, calls for cooperation on macroeconomic policies (Reuters)
   - [japan] BOJ chief flags inflation overshoot risk, stresses importance of 2% anchor
   - [japan] Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027 By Reuters
-  - [japan] Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027
-  - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T11:22:42+00:00",
+      "published_utc": "2026-10-16T11:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
