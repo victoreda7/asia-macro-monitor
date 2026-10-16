@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T06:42:44.631505+00:00
+Última coleta: 2026-10-16T06:52:42.990659+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1111
   🇨🇳 China          853
-  🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  712
+  🇹🇼 Taiwan         325
+  🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ's Ueda says anchoring inflation around 2% target becoming more important
   - [japan] Brokerages see next BOJ rate hike in December
   - [japan] Tokyo Century Corporation - Consolidated Subsidiary Aviation Capital Group To Order 75 Airbus Aircraft
   - [korea] Kospi Snaps Seven-Session Losing Streak; Chip, Auto Stocks Advance
   - [china] China central bank chief touted yuan assets to investors, Bloomberg News reports
   - [japan] Stock price rise Repurchase movement centered on AI/semiconductor related products
   - [korea] High interest rates expected due to US price shock... October interest rates remain 'hawkish'
+  - [taiwan] Taiwan reportedly plans $4B Texas complex for Nvidia AI supply chain; tightens China AI chip exports
   - [china] Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch
   - [japan] Japanese Government Bond (JGB) Yields Recover as Risk Aversion Mood Eases
   - [japan] JGB yields rebound as risk-off mode eases
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC deal could slow Musk's Terafab, but US suppliers still see upside
   - [china] Offshore Yuan Holds at Strongest Since 2022
   - [korea] SOXX Extends Selloff After 8-Day Decline, KOSPI Rebounds: Jim Cramer Calls SK Hynix ‘Epicenter Of Fear’
-  - [korea] Despite Nonghyup Economic Holdings' operating profit deficit for the third consecutive year, the CEO..
-  - [taiwan] TSMC details pricing, confirms agentic AI boosts CPU demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T06:42:44+00:00",
+      "published_utc": "2026-10-16T06:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
