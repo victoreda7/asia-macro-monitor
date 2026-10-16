@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T08:25:25.995583+00:00",
- "collected_at_utc": "2026-10-16T08:25:25.995583+00:00",
+ "generated_at_utc": "2026-10-16T08:35:27.277839+00:00",
+ "collected_at_utc": "2026-10-16T08:35:27.277839+00:00",
  "degraded": false,
  "sources_ok": 15,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1102,
-  "china": 858,
+  "japan": 1100,
+  "china": 860,
   "taiwan": 328,
   "korea": 712
  },
- "elapsed_s": 190.9,
+ "elapsed_s": 194.0,
  "sources": [
   {
    "source_id": "gn_asia_bloomberg",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T07:58:28+00:00"
+   "newest": "2026-10-16T08:27:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T07:58:28+00:00"
+   "newest": "2026-10-16T08:24:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-16T16:54:48+09:00"
+   "newest": "2026-10-16T16:54:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T08:22:00+00:00"
+   "newest": "2026-10-16T08:33:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Jinko Solar Sees 9-Month Net Loss At 3.0 Billion Yuan - 3.6 Billion Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4620OH:0-jinko-solar-sees-9-month-net-loss-at-3-0-billion-yuan-3-6-billion-yuan/",
+   "published_utc": "2026-10-16T08:29:20+00:00",
+   "title_original": "Jinko Solar Sees 9-Month Net Loss At 3.0 Billion Yuan - 3.6 Billion Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "38cc803d09ccc474"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China proposes adding 40 AI, biotech, solar technologies to export control list",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46209C:0-china-proposes-adding-40-ai-biotech-solar-technologies-to-export-control-list/",
+   "published_utc": "2026-10-16T08:29:03+00:00",
+   "title_original": "China proposes adding 40 AI, biotech, solar technologies to export control list",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "90e8e75aa11187cb"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Poly Developments September Contract Sales Down 21.1% Y/Y To 16.2 Billion Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4620OG:0-poly-developments-september-contract-sales-down-21-1-y-y-to-16-2-billion-yuan/",
+   "published_utc": "2026-10-16T08:26:32+00:00",
+   "title_original": "Poly Developments September Contract Sales Down 21.1% Y/Y To 16.2 Billion Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "af9c4c5243cc1b1f"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -411,23 +462,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ff4b94f11151b63d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China proposes adding 40 AI, biotech, solar technologies to export control list",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44A04L:0-china-proposes-adding-40-ai-biotech-solar-technologies-to-export-control-list/",
-   "published_utc": "2026-10-16T07:51:39+00:00",
-   "title_original": "China proposes adding 40 AI, biotech, solar technologies to export control list",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1420c5581f7cc36d"
   },
   {
    "source_id": "tradingview_live",
@@ -2078,8 +2112,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -2093,7 +2127,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -2696,8 +2730,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -2712,7 +2746,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51905,41 +51939,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c4dbb88e452c64d5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Inflation Rate Stays at 7-Month High",
-   "url": "https://www.tradingview.com/news/te_news:584747:0-japan-inflation-rate-stays-at-7-month-high/",
-   "published_utc": "2026-09-17T23:39:32+00:00",
-   "title_original": "Japan Inflation Rate Stays at 7-Month High",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3c5790e68e78abb7"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Strategists See Yen Weakening as BOJ Risks Disappointing Markets",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFBRVm8tRllGM1dsbzhiOVdvSlItMUsxUU5KLW5KWWJkZ2s0dUJzbHdlaE1tQ0dzdllaMkw1UGszem5JOGN6aEc3T0M5a0EteUtQWE85WEg0aHQxQ2Fua2FBR0ttWTMyQWFxN1BJb2FuekdrUWh2QW92YTc5eC1ZTlF0ZThObFAzY1dlYkJ3Z1kxU29OWEk2M05JWVhjOTZQb2Z5RGhzUlFhbFlvXzBpY09sNkVLdw?oc=5",
-   "published_utc": "2026-09-17T23:39:20+00:00",
-   "title_original": "Strategists See Yen Weakening as BOJ Risks Disappointing Markets",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "02c8ce13e9658eb1"
   },
   {
    "source_id": "manual_ia",

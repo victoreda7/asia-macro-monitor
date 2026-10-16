@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T08:25:25.995583+00:00
+Última coleta: 2026-10-16T08:35:27.277839+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1102
-  🇨🇳 China          858
+  🇯🇵 Japão          1100
+  🇨🇳 China          860
   🇹🇼 Taiwan         328
   🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [china] Jinko Solar Sees 9-Month Net Loss At 3.0 Billion Yuan - 3.6 Billion Yuan
+  - [china] China proposes adding 40 AI, biotech, solar technologies to export control list
+  - [china] Poly Developments September Contract Sales Down 21.1% Y/Y To 16.2 Billion Yuan
   - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
   - [japan] BOJ Current Account Balances by Sector (Sept.)
   - [korea] South Korean Won Strengthens Near 2-Year High
   - [taiwan] AI server tracker: semiconductor testing and design services rally on compute demand
-  - [china] China proposes adding 40 AI, biotech, solar technologies to export control list
   - [taiwan] Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China
   - [china] Chinese finance minister eager for dialogue with EU, calls for cooperation on macroeconomic policies (Reuters)
   - [japan] BOJ chief flags inflation overshoot risk, stresses importance of 2% anchor
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] 95.5% of people feel that prices have “increased”, 88.6% predict one year from now, Bank of Japan announced on
   - [japan] Economic and Fiscal Affairs Minister Jonai denies some reports saying there was no mention of requesting a pos
   - [taiwan] Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
-  - [japan] Japan core inflation likely exceeded BOJ target for first time since December By Reuters
-  - [china] China's yuan poised to strengthen for a third week in a row on strong exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T08:25:26+00:00",
+      "published_utc": "2026-10-16T08:35:27+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
