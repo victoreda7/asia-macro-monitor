@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T01:22:43.114174+00:00
+Última coleta: 2026-10-16T01:32:41.961032+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1117
   🇨🇳 China          850
-  🇹🇼 Taiwan         320
-  🇰🇷 Coreia do Sul  713
+  🇹🇼 Taiwan         319
+  🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [korea] Hana Securities: “The Bank of Korea expects a unanimous freeze on the base interest rate in October, maintaini
   - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
   - [japan] There is no evidence that he considered requesting a postponement of the vote on the June interest rate hike a
+  - [korea] Hyosung Heavy Industries completes new export-only ultra-high-voltage circuit breaker plant; Chairman Cho Hyun
   - [japan] Japan to sidestep 3.5% defence spending target despite US pressure, Asahi reports
   - [japan] Japan's Katayama says she can't comment on whether extra budget needed or not
   - [japan] Japan Medical Dynamic Marketing Inc - Notice Regarding Workforce Reduction And Other Rationalization Measures 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Why TSMC's $64 billion spending plan shouldn't scare away investors
   - [taiwan] TSMC eyes adding facilities in Texas
   - [taiwan] TSMC Stock Falls as CFO Warns of Margin Pressure
-  - [japan] US retail sales show solid growth of +0.8% in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T01:22:43+00:00",
+      "published_utc": "2026-10-16T01:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
