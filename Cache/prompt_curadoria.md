@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T04:02:43.076871+00:00
+Última coleta: 2026-10-16T04:07:32.639119+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1111
-  🇨🇳 China          852
-  🇹🇼 Taiwan         323
+  🇯🇵 Japão          1110
+  🇨🇳 China          851
+  🇹🇼 Taiwan         325
   🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
   - [china] China's yuan poised to strengthen for a third week in a row on strong exports
+  - [taiwan] Taiwan's Chun Yuan Steel sees 4Q26 auto surge, expands into AI robotics
   - [japan] US Treasury says Japan no longer faces deflationary environment, yen level must change
   - [taiwan] TSMC's Capex Likely to Surge to US$83 Billion in 2027 — Market Talk
   - [taiwan] TSMC eyes adding facilities in Texas
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Plan to Make Yuan a Global Currency Enters Faster Phase
   - [taiwan] Taiwan Semiconductor Is Maintained at Buy by Needham
   - [taiwan] Taiwan Semiconductor Manufacturing Ltd. Stock 12‑Month Price Target Raised to $552.84, Implies 29% Upside
-  - [china] The China decoupling paradox: why the world still needs its manufacturing machine
-  - [china] The China decoupling paradox: why the world needs its manufacturing machine
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T04:02:43+00:00",
+      "published_utc": "2026-10-16T04:07:32+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

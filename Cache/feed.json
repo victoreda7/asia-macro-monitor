@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T04:02:43.076871+00:00",
- "collected_at_utc": "2026-10-16T04:02:43.076871+00:00",
+ "generated_at_utc": "2026-10-16T04:07:32.639119+00:00",
+ "collected_at_utc": "2026-10-16T04:07:32.639119+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1111,
-  "china": 852,
-  "taiwan": 323,
+  "japan": 1110,
+  "china": 851,
+  "taiwan": 325,
   "korea": 714
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T02:34:03+00:00"
+   "newest": "2026-10-16T03:53:56+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T09:42:28+00:00"
+   "newest": "2026-10-15T10:09:04+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T02:40:00+00:00"
+   "newest": "2026-10-16T00:32:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3NuRnc2NlpiWFp2X0dmak9WY3VOT05yZ1JsV0R2RWJvcFVNckF1bDlBODlsVTBwZFR3R0tWYTdMejM3Ui02N3lCci1pcjhUdGFHTU55bFVkVWZ6TjF4VzZyajZsZmNPWVZSS3EzVzR3NTB1VU5fQkxRSS1LbWdiNnBzQ3V4bjA3MFhaaEgyUUZvSHVKaVpKS0kwM3JubnozLTBEVnRQVQ?oc=5",
+   "published_utc": "2026-10-16T03:53:56+00:00",
+   "title_original": "Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ab23c1582d4d3233"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China's yuan poised to strengthen for a third week in a row on strong exports",
@@ -360,6 +377,23 @@
    "live_wire": true,
    "manual": false,
    "id": "8aecc966737eea19"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan's Chun Yuan Steel sees 4Q26 auto surge, expands into AI robotics",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjBNbTh0M0p0TGtDb3NDd1VmVEs4NE4tbENXZ3BDR2hZOEE0RG5xbHlmb0ZJNTRmQnJVRUZ2XzU2bVRxQ2gyU0lPOVZBdnpsS0VBQlp0VGY3VUdoR3hBTm44ZUxvV1BUeFdGY0lBSkJlOTUxMDBkMUpWMkwwUERKOU9WTTFsZkM2ajlReVNOYw?oc=5",
+   "published_utc": "2026-10-16T03:36:33+00:00",
+   "title_original": "Taiwan's Chun Yuan Steel sees 4Q26 auto surge, expands into AI robotics",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "353e3327ebc430ce"
   },
   {
    "source_id": "tradingview_live",
@@ -1377,8 +1411,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -1392,7 +1426,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -1961,8 +1995,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -1977,7 +2011,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51890,41 +51924,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b2af374c2f1a1882"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan, US in talks to build chip factory as part of tariff deal",
-   "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/japan-us-in-talks-to-build-chip-factory-as-part-of-tariff-deal2",
-   "published_utc": "2026-09-17T12:07:50.728732+00:00",
-   "title_original": "Japan, US in talks to build chip factory as part of tariff deal",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "55ac009d99c9d9d2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's president defends “bigger and stronger” advanced manufacturing sector",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4590OJ:0/",
-   "published_utc": "2026-09-17T11:43:43+00:00",
-   "title_original": "Presidente da China defende setor de manufatura avançada “maior e mais forte”",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "53ecf684053aa02d"
   },
   {
    "source_id": "manual_ia",
