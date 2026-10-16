@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T04:12:43.655467+00:00",
- "collected_at_utc": "2026-10-16T04:12:43.655467+00:00",
+ "generated_at_utc": "2026-10-16T04:22:44.271449+00:00",
+ "collected_at_utc": "2026-10-16T04:22:44.271449+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1110,
+  "japan": 1111,
   "china": 851,
   "taiwan": 325,
-  "korea": 714
+  "korea": 713
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T03:48:16+00:00"
+   "newest": "2026-10-16T04:14:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T03:18:19+00:00"
+   "newest": "2026-10-16T04:13:00+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T01:04:00+00:00"
+   "newest": "2026-10-16T03:14:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T18:09:04+00:00"
+   "newest": "2026-10-16T02:40:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T00:32:00+00:00"
+   "newest": "2026-10-16T02:40:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-16T04:00:40+00:00"
+   "newest": "2026-10-16T04:15:11+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T04:10:00+00:00"
+   "newest": "2026-10-16T04:21:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T03:02:42+00:00"
+   "newest": "2026-10-16T00:00:11+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T03:10:23+00:00"
+   "newest": "2026-10-16T04:10:51+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,61 @@
  ],
  "items": [
   {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "US Treasury says Japan no longer faces deflationary environment, yen level must change",
+   "url": "https://www.investing.com/news/economy-news/us-treasury-says-japan-no-longer-faces-deflationary-environment-yen-level-must-change-4953054",
+   "published_utc": "2026-10-16T04:12:22+00:00",
+   "title_original": "US Treasury says Japan no longer faces deflationary environment, yen level must change",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "857272d425ad44ee"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "95.5% of people feel that prices have “increased”, 88.6% predict one year from now, Bank of Japan announced on October 13th (LIMO)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wUV9GcVBpZjFhNFZyUEd4cFRPV3RzaWJWRkxlMFo3UTIzZWJQM2I4QjBrRUlyRXZhMDFkYTVaRVBFZGNfLTBSYjFkVEp4NGZXU3FNMENySlJzWVBIeFgteThkcUJRU0lnTHFzNkJfMWpyWmhYZUF6WVJBeHhGX0U?oc=5",
+   "published_utc": "2026-10-16T04:10:51+00:00",
+   "title_original": "物価が「上がった」と感じる人95.5％、1年後予想は88.6％ 日銀10月13日公表（LIMO）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1b6e15394579a22b"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Economic and Fiscal Affairs Minister Jonai denies some reports saying there was no mention of requesting a postponement of the vote to stop the Bank of Japan's interest rate hike in June",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TmNBR1pkQS1KcXhKeER0dVBER1hUb3NwYllBbmQ5bTl2Qnp6Z2Q0clExZE9IS1FkVmlLS3l2TU0tRzlDNkE5LWJfajNRN2NhalJHazdZUGhfeGllMUFicElERTRNM3lGZklLY1F3bG44dXktQlMxemNNU01oRGs?oc=5",
+   "published_utc": "2026-10-16T04:07:26+00:00",
+   "title_original": "城内経済財政担当大臣 6月の日銀利上げ「止めるために議決延期請求に言及した事実は一切ない」一部報道を否定",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b41136f4e29c50d6"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China",
@@ -394,24 +449,6 @@
    "live_wire": false,
    "manual": false,
    "id": "353e3327ebc430ce"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "US Treasury says Japan no longer faces deflationary environment, yen level must change",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3W600D:0-us-treasury-says-japan-no-longer-faces-deflationary-environment-yen-level-must-change/",
-   "published_utc": "2026-10-16T03:32:20+00:00",
-   "title_original": "US Treasury says Japan no longer faces deflationary environment, yen level must change",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c79b79580911405d"
   },
   {
    "source_id": "tradingview_live",
@@ -1411,8 +1448,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -1426,7 +1463,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -1995,8 +2032,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -2011,7 +2048,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -50005,7 +50042,7 @@
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycWo2TEhrTFQxekRJUlR4dUlkczVsMDdmckplVGpXMDlZVDJVRTZfcC1NM3QxdmhUM2JUa2JWbzZiT1RUV2R5aXJNS3BGRWpoXzdxU1hnV29NTUkyaTNqQ0ZGLUVtQk5kelp4a1h4bWxLVTZUMl9HSzZBTWo?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMzA1aXh2WE1uS2pJSGZGOF9FN2xTM2VpRWZUdkZpSm94a2V2Q2ZJZ2JjTzhXNE5DUkowM0JSRjZuUFBEcjZuZ2dvZC1xMVE1X3paMG13aHE4aEZZWDNwb05Rb0kzcXlDZWQ1OWNhaU9YYk9hZ3N2UWYxaUc?oc=5",
    "published_utc": "2026-09-18T07:00:00+00:00",
    "title_original": "Chinese premier chairs State Council executive meeting",
    "region": "china",
@@ -50016,7 +50053,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ac5c93c1746a6f36"
+   "id": "9e62f309accc3d17"
   },
   {
    "source_id": "gn_tw_focus",
@@ -51890,40 +51927,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f7ed6861ddbeaf21"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "khan.co.kr",
-   "title_en": "‘The era of austerity’ again… U.S. Federal Reserve base interest rate 0.25%P lower for the first time in 3 years, Bank of Korea expected to increase further in November",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qZEJmdXcycEdwV2FiSDlWRWxUdTBLdURyeExNOXVSa19seXdaRXUzZEtaS0VfMk5XMEk5VGJodzhHTzg5bFVObVYydE83eGxfVDBlLVJpcUluQdIBX0FVX3lxTE9FaDBKOTkyUG1JV19kSHRQZGpyemZMcE9zLUVHeENseXhPeWpSSE5veS1FOUF1LVhHd0JPWnVCdUswZkZFUjNsY1NjdEVIT2JBeHhaMHVzRGNvWHZOcXFr?oc=5",
-   "published_utc": "2026-09-17T12:23:00+00:00",
-   "title_original": "다시 ‘긴축의 시대’…미 연준 3년 만에 기준금리 0.25%P ↑, 한은도 11월 추가 인상 전망",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0a3804a32712504d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "Global yields fall after Fed hike; BOJ decision tests market",
-   "url": "https://www.tradingview.com/news/invezz:dbc080b8bbc81:0/",
-   "published_utc": "2026-09-17T12:10:06+00:00",
-   "title_original": "Rendimentos globais recuam após alta do Fed; decisão do BOJ testa mercado",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "b2af374c2f1a1882"
   },
   {
    "source_id": "manual_ia",
