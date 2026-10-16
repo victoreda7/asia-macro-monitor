@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T11:42:43.187676+00:00
+Última coleta: 2026-10-16T11:52:45.895021+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1087
-  🇨🇳 China          866
-  🇹🇼 Taiwan         331
+  🇯🇵 Japão          1085
+  🇨🇳 China          867
+  🇹🇼 Taiwan         332
   🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
   - [china] Zenta Group Subsidiary ZentoAI Signs Binding MOU for Strategic Acquisition in China
   - [taiwan] TSMC’s ‘Leave No Food On The Table’ Pledge Signals More AI Chip Investment, Morningstar Says
+  - [taiwan] Taiwan lawmakers pass health insurance premium subsidies for seniors
   - [china] Shanghai Bright Power Semiconductor Says Lock-Up Period For 23.6 Million Shares To End
   - [taiwan] Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industr
+  - [china] Beijing seeks tighter grip on AI exports amid US rivalry
   - [taiwan] Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility
   - [china] Central China Real Estate Posts September Contracted Sales Of RMB438 MLN
   - [china] Shoucheng Holdings Says Fund Managed By Unit Invested In Shanghai Yuanhuan Intelligent Technology
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China
   - [china] Chinese finance minister eager for dialogue with EU, calls for cooperation on macroeconomic policies (Reuters)
   - [china] China's finance minister eager for dialogue with EU, calls for cooperation on macroeconomic policies (Reuters)
-  - [japan] BOJ chief flags inflation overshoot risk, stresses importance of 2% anchor
-  - [japan] Factbox-Brokerages expect next BOJ rate hike in Dec, further tightening in 2027 By Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T11:42:43+00:00",
+      "published_utc": "2026-10-16T11:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
