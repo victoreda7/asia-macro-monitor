@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T03:12:44.271592+00:00
+Última coleta: 2026-10-16T03:22:42.085116+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1110
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan 10-Year Yield Rises as BOJ Outlook Mulled
   - [taiwan] TSMC Still Best-Placed in AI Boom — Market Talk
   - [china] The central bank launched a 700 billion yuan buyout reverse repo on October 15, with an additional 6-month ext
   - [taiwan] Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] US year-end sales forecast for 4% increase as inflation drives people to save money
   - [korea] [Editorial] Chip vulnerability
   - [japan] IEA to complete release of 100M barrels from March intervention
-  - [taiwan] 2330 Stock 12‑Month Price Target Raised to TWD 3359.94, Implies 35% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T03:12:44+00:00",
+      "published_utc": "2026-10-16T03:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
