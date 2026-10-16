@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T03:52:43.908698+00:00
+Última coleta: 2026-10-16T04:02:43.076871+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1110
+  🇯🇵 Japão          1111
   🇨🇳 China          852
-  🇹🇼 Taiwan         324
+  🇹🇼 Taiwan         323
   🇰🇷 Coreia do Sul  714
 
 ## O que já está no feed (não repita)
 
   - [china] China's yuan poised to strengthen for a third week in a row on strong exports
+  - [japan] US Treasury says Japan no longer faces deflationary environment, yen level must change
   - [taiwan] TSMC's Capex Likely to Surge to US$83 Billion in 2027 — Market Talk
   - [taiwan] TSMC eyes adding facilities in Texas
   - [japan] Japan core inflation likely exceeded BOJ target for first time since December
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor Manufacturing Ltd. Stock 12‑Month Price Target Raised to $552.84, Implies 29% Upside
   - [china] The China decoupling paradox: why the world still needs its manufacturing machine
   - [china] The China decoupling paradox: why the world needs its manufacturing machine
-  - [china] Visa’s China approval a ‘direct outcome’ of Trump-Xi summit, Beijing says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T03:52:44+00:00",
+      "published_utc": "2026-10-16T04:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
