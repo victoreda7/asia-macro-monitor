@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T18:02:43.353699+00:00
+Última coleta: 2026-10-16T18:12:43.277002+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1086
-  🇨🇳 China          868
+  🇨🇳 China          869
   🇹🇼 Taiwan         333
-  🇰🇷 Coreia do Sul  713
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
+  - [china] EU to propose import curbs on other Chinese sectors, says EU chief
   - [taiwan] DA Davidson maintains Buy rating on Taiwan Semiconductor, $500 price target
   - [china] European Commission to propose additional China import curbs
   - [china] China Moves to Control AI Tech Exports While Taiwan Cracks Down on Smuggling — Barrons.com
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Shanghai Bright Power Semiconductor Says Lock-Up Period For 23.6 Million Shares To End
   - [china] China Plans AI Tech Export Curbs to Manage Security Risks
   - [taiwan] Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industr
-  - [taiwan] Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T18:02:43+00:00",
+      "published_utc": "2026-10-16T18:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
