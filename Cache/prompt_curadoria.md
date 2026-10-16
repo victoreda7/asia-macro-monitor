@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T12:02:42.842305+00:00
+Última coleta: 2026-10-16T12:12:43.441174+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1085
@@ -24,10 +24,10 @@ Total: 3000 manchetes
   - [taiwan] Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industr
   - [china] Beijing seeks tighter grip on AI exports amid US rivalry
   - [taiwan] Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility
+  - [korea] South Korea warns of 200-times leveraged bets on Samsung, SK Hynix
   - [china] Central China Real Estate Posts September Contracted Sales Of RMB438 MLN
   - [china] Shoucheng Holdings Says Fund Managed By Unit Invested In Shanghai Yuanhuan Intelligent Technology
   - [china] Shenzhen hongfuhan Technology's Unit To Invest 1.0 Billion Yuan In Project
-  - [korea] South Korea warns of 200-times leveraged bets on Samsung, SK Hynix
   - [china] China Proposes Export Controls on AI Technologies
   - [china] PBOC’s Pan Touts Yuan Assets to Investors at Deutsche Bank Event
   - [china] China's Xi stresses importance of national computing power network
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T12:02:43+00:00",
+      "published_utc": "2026-10-16T12:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
