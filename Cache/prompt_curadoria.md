@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T03:02:42.293780+00:00
+Última coleta: 2026-10-16T03:12:44.271592+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1110
-  🇨🇳 China          853
-  🇹🇼 Taiwan         322
+  🇨🇳 China          852
+  🇹🇼 Taiwan         323
   🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
@@ -21,13 +21,16 @@ Total: 3000 manchetes
   - [china] The central bank launched a 700 billion yuan buyout reverse repo on October 15, with an additional 6-month ext
   - [taiwan] Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg
   - [japan] Economics and Finance Minister Jouchi requests postponement of the Bank of Japan's resolution, ``There are no 
+  - [taiwan] TSMC deal could slow Musk's Terafab, but US suppliers still see upside
   - [china] Offshore Yuan Holds at Strongest Since 2022
   - [korea] SOXX Extends Selloff After 8-Day Decline, KOSPI Rebounds: Jim Cramer Calls SK Hynix ‘Epicenter Of Fear’
   - [korea] Despite Nonghyup Economic Holdings' operating profit deficit for the third consecutive year, the CEO..
+  - [taiwan] TSMC details pricing, confirms agentic AI boosts CPU demand
   - [china] China sets 2027 import tariff-rate quotas for wheat, rice, corn and cotton
   - [china] CHINA PBOC CONDUCTS CNY60 BLN VIA 7-DAY REVERSE REPO FRI
   - [korea] [Next week's economic schedule] Pay attention to the Bank of Korea's base interest rate decision... China's th
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7220 FRI VS 6.7253
+  - [china] The central bank launched a 60 billion yuan 7-day reverse repurchase operation today
   - [korea] S.Korean shares rebound as Samsung, SK Hynix rise; foreigners extend selling spree
   - [japan] G20 finance chiefs share global inflation concerns from Middle East crisis
   - [korea] Samsung Cuts Fourth-Quarter Low-End Phone Production as PCB Material Supply Tightens
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] [Editorial] Chip vulnerability
   - [japan] IEA to complete release of 100M barrels from March intervention
   - [taiwan] 2330 Stock 12‑Month Price Target Raised to TWD 3359.94, Implies 35% Upside
-  - [china] China central bank chief urges broader view on global imbalances
-  - [taiwan] TSMC's net profit hits record in third quarter
-  - [china] China bought half of Brazil’s oil exports as Iran war shut Hormuz, driving sales to record
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T03:02:42+00:00",
+      "published_utc": "2026-10-16T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
