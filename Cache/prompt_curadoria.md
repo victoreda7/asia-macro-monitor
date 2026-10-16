@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T13:22:43.409256+00:00
+Última coleta: 2026-10-16T13:32:44.724261+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1087
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ chief vows to keep raising rates, anchor inflation around target
+  - [japan] Bank of Japan Governor Ueda emphasizes stance on continuing interest rate hikes: ``We cannot accept any furthe
   - [japan] BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says
   - [china] Shenzhen Techwinsemi Sees 9-Month Net Profit At 8.7 Billion Yuan-9.0 Billion Yuan
   - [japan] Instinct Bio Returns to Profit and Grows Revenue Nearly 10% in Yen Terms in First Half of Fiscal 2026
@@ -31,13 +33,11 @@ Total: 3000 manchetes
   - [china] Beijing seeks tighter grip on AI exports amid US rivalry
   - [japan] Japan's economy is progressing as expected, says Bank of Japan president (Kyodo News)
   - [japan] ``We will raise the policy interest rate,'' says the Bank of Japan Governor (Kyodo News)
-  - [japan] BOJ chief vows to keep raising rates, anchor inflation around target
   - [japan] Bank of Japan Governor says underlying inflation is approaching 2% (Kyodo News)
   - [china] Zenta Group Subsidiary ZentoAI Signs Binding MOU for Strategic Acquisition in China
   - [taiwan] TSMC’s ‘Leave No Food On The Table’ Pledge Signals More AI Chip Investment, Morningstar Says
   - [taiwan] Taiwan lawmakers pass health insurance premium subsidies for seniors
   - [china] Shanghai Bright Power Semiconductor Says Lock-Up Period For 23.6 Million Shares To End
-  - [china] China Plans AI Tech Export Curbs to Manage Security Risks
   - [taiwan] Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industr
   - [taiwan] Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility
   - [korea] South Korea warns of 200-times leveraged bets on Samsung, SK Hynix
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T13:22:43+00:00",
+      "published_utc": "2026-10-16T13:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
