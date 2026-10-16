@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T02:52:46.764078+00:00
+Última coleta: 2026-10-16T03:02:42.293780+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1111
+  🇯🇵 Japão          1110
   🇨🇳 China          853
-  🇹🇼 Taiwan         321
+  🇹🇼 Taiwan         322
   🇰🇷 Coreia do Sul  715
 
 ## O que já está no feed (não repita)
 
   - [taiwan] TSMC Still Best-Placed in AI Boom — Market Talk
   - [china] The central bank launched a 700 billion yuan buyout reverse repo on October 15, with an additional 6-month ext
+  - [taiwan] Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg
+  - [japan] Economics and Finance Minister Jouchi requests postponement of the Bank of Japan's resolution, ``There are no 
   - [china] Offshore Yuan Holds at Strongest Since 2022
   - [korea] SOXX Extends Selloff After 8-Day Decline, KOSPI Rebounds: Jim Cramer Calls SK Hynix ‘Epicenter Of Fear’
   - [korea] Despite Nonghyup Economic Holdings' operating profit deficit for the third consecutive year, the CEO..
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China central bank chief urges broader view on global imbalances
   - [taiwan] TSMC's net profit hits record in third quarter
   - [china] China bought half of Brazil’s oil exports as Iran war shut Hormuz, driving sales to record
-  - [china] EU Beefs Up Trade Arsenal With Powers to Block China Imports
-  - [china] China Is Too Defensive Over the Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T02:52:47+00:00",
+      "published_utc": "2026-10-16T03:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

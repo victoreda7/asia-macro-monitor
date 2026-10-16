@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T02:52:46.764078+00:00",
- "collected_at_utc": "2026-10-16T02:52:46.764078+00:00",
+ "generated_at_utc": "2026-10-16T03:02:42.293780+00:00",
+ "collected_at_utc": "2026-10-16T03:02:42.293780+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1111,
+  "japan": 1110,
   "china": 853,
-  "taiwan": 321,
+  "taiwan": 322,
   "korea": 715
  },
- "elapsed_s": 31.9,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T23:00:00+00:00"
+   "newest": "2026-10-16T00:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T02:31:02+00:00"
+   "newest": "2026-10-16T02:54:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-16T02:18:21+00:00"
+   "newest": "2026-10-16T02:54:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-16T11:51:28+00:00"
+   "newest": "2026-10-16T11:59:04+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -177,9 +177,9 @@
    "source_id": "nhk_politics",
    "name": "NHK 政治",
    "ok": true,
-   "count": 57,
+   "count": 58,
    "error": "",
-   "newest": "2026-10-16T11:41:58+09:00"
+   "newest": "2026-10-16T12:00:09+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T02:12:23+00:00"
+   "newest": "2026-10-15T21:53:21+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T01:02:35+00:00"
+   "newest": "2026-10-16T02:31:38+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -377,6 +377,41 @@
    "live_wire": false,
    "manual": false,
    "id": "075bfa4529087fe8"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg",
+   "url": "https://www.investing.com/news/stock-market-news/taiwan-plans-4-bln-texas-park-to-support-nvidias-ai-supply-chain--bloomberg-4952979",
+   "published_utc": "2026-10-16T02:37:02+00:00",
+   "title_original": "Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "03b0fb53934360a8"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Economics and Finance Minister Jouchi requests postponement of the Bank of Japan's resolution, ``There are no facts mentioned at all'' (Mainichi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdmNPYTc1WHl4Z1lLQkpzaHVJOFd6UGNfTEpUNDJtcWJta0NmZ01QTEhnV2FGQlZVRkNUWU03cUFRMVdhQUpwcE1tam9Dd0kyczBNdEY5d0tvU19PZ1dkdjBaRkpwNXc3aEtLT1lJeWo1RG1KVzJ6RXU0MjYybUE?oc=5",
+   "published_utc": "2026-10-16T02:31:38+00:00",
+   "title_original": "城内経財相、日銀の議決延期請求 「言及した事実は一切ない」（毎日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "34f05e6f7c64e4c0"
   },
   {
    "source_id": "tradingview_live",
@@ -1150,8 +1185,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -1165,7 +1200,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -1751,8 +1786,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -1767,7 +1802,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51886,42 +51921,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0027c0dae1b0948a"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Prime Minister Takaichi leaves specific monetary policy methods to the Bank of Japan - amid growing expectations for interest rate hikes (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Pcy1pTW1FUVVFWXFaZkQxQmZCOHI0RERrblNVUjRNTHVnMGVZOURPeXFtZkszVHFVYVliRGlDZVRnVFNLM1FheW1rOVlkbTVmN2wtc0xGdW1VR1dDRVEySDR6Qms2ZXR4Rld4a1RURGEyTlZ2UmNZbHBwcVVLTHc?oc=5",
-   "published_utc": "2026-09-17T10:18:34+00:00",
-   "title_original": "高市首相、金融政策の具体的手法は日銀に委ねる－利上げ観測強まる中（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "22e03f5493b39faa"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Prime Minister Takaichi says specific monetary policy methods should be left to the Bank of Japan (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Pcy1pTW1FUVVFWXFaZkQxQmZCOHI0RERrblNVUjRNTHVnMGVZOURPeXFtZkszVHFVYVliRGlDZVRnVFNLM1FheW1rOVlkbTVmN2wtc0xGdW1VR1dDRVEySDR6Qms2ZXR4Rld4a1RURGEyTlZ2UmNZbHBwcVVLTHc?oc=5",
-   "published_utc": "2026-09-17T10:18:34+00:00",
-   "title_original": "高市首相、金融政策の具体的手法は日銀に委ねられるべきだ（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cd3da8b6c80c166e"
   },
   {
    "source_id": "manual_ia",
