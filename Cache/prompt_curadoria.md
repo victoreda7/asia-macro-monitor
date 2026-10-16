@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T08:35:27.277839+00:00
+Última coleta: 2026-10-16T08:42:42.534946+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1100
-  🇨🇳 China          860
+  🇯🇵 Japão          1098
+  🇨🇳 China          861
   🇹🇼 Taiwan         328
-  🇰🇷 Coreia do Sul  712
+  🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
   - [china] Jinko Solar Sees 9-Month Net Loss At 3.0 Billion Yuan - 3.6 Billion Yuan
   - [china] China proposes adding 40 AI, biotech, solar technologies to export control list
   - [china] Poly Developments September Contract Sales Down 21.1% Y/Y To 16.2 Billion Yuan
+  - [china] Tardy China Stimulus Sets Up Second Quarter of Sub-Target Growth
   - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
   - [japan] BOJ Current Account Balances by Sector (Sept.)
   - [korea] South Korean Won Strengthens Near 2-Year High
@@ -45,18 +46,17 @@ Total: 3000 manchetes
   - [taiwan] Taiwan to curb AI chip sales to China for more U.S. alignment- Bloomberg
   - [china] China's Piecemeal Stimulus Still Insufficient to Boost Domestic Demand — Market Talk
   - [taiwan] Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal
+  - [korea] Materials, parts providers most vulnerable to monetary tightening: BOK chief
   - [taiwan] Taiwan economic growth in 2026 to be highest in 39 years: CIER
   - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
   - [korea] South Korean Won Extends Losses on Capital Outflows
   - [korea] Korea's manufacturing jobs rise for first time in 27 months
   - [korea] Raising interest rates is necessary to keep prices down, but South Korea and the US central banks are in deep 
   - [korea] Interest rates raised twice, will they stop in October? Bank of Korea considers ‘additional hike’
-  - [china] Tardy China Stimulus Sets Up Second Quarter of Sub-Target Growth
   - [korea] People's Power selected candidate Yoon Jae-bok without a second vote in the race for chairman of the..
   - [japan] US Treasury says Japan no longer faces deflationary environment, yen level must change
   - [japan] 95.5% of people feel that prices have “increased”, 88.6% predict one year from now, Bank of Japan announced on
   - [japan] Economic and Fiscal Affairs Minister Jonai denies some reports saying there was no mention of requesting a pos
-  - [taiwan] Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T08:35:27+00:00",
+      "published_utc": "2026-10-16T08:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
