@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T14:52:44.798875+00:00
+Última coleta: 2026-10-16T15:02:45.310803+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1087
+  🇯🇵 Japão          1088
   🇨🇳 China          865
   🇹🇼 Taiwan         331
-  🇰🇷 Coreia do Sul  717
+  🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [japan] BOJ chief vows to keep raising rates, anchor inflation around target
   - [japan] Bank of Japan Governor Ueda emphasizes stance on continuing interest rate hikes: ``We cannot accept any furthe
   - [japan] Bank of Japan Governor Ueda calls upward movement in prices ``unacceptable'', approaches 2% target, continues 
+  - [japan] Bank of Japan Governor Ueda calls upward price hike ``unacceptable'', approaches 2% target, continues rate hik
   - [japan] Decision on 2% underlying inflation rate will be thoroughly discussed at October meeting; economy is in line w
   - [japan] BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says
   - [china] Shenzhen Techwinsemi Sees 9-Month Net Profit At 8.7 Billion Yuan-9.0 Billion Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China to add AI, biopharma and solar tech to export control list
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Subsidiary Announces Cash Dividend Distribution
   - [korea] USD/KRW: Goldman Sachs sees Korean won strengthening
-  - [japan] Bank of Japan Governor Ueda emphasizes in his greeting that he will “continue to raise policy interest rates” 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T14:52:44+00:00",
+      "published_utc": "2026-10-16T15:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
