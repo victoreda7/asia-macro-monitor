@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T19:52:42.428838+00:00
+Última coleta: 2026-10-16T20:02:42.562260+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1084
-  🇨🇳 China          870
+  🇯🇵 Japão          1085
+  🇨🇳 China          869
   🇹🇼 Taiwan         333
   🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
+  - [japan] US has full confidence in Takaichi's fiscal discipline: Treasury official
+  - [japan] Bank of Japan Governor Ueda “will not tolerate price increases exceeding 2%” and will continue to raise intere
   - [china] Beijing seeks tighter grip on AI exports amid US rivalry
   - [china] EU to propose import curbs on other Chinese sectors, says EU chief
   - [taiwan] DA Davidson maintains Buy rating on Taiwan Semiconductor, $500 price target
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Zenta Group Subsidiary ZentoAI Signs Binding MOU for Strategic Acquisition in China
   - [taiwan] TSMC’s ‘Leave No Food On The Table’ Pledge Signals More AI Chip Investment, Morningstar Says
   - [taiwan] Taiwan lawmakers pass health insurance premium subsidies for seniors
-  - [china] Shanghai Bright Power Semiconductor Says Lock-Up Period For 23.6 Million Shares To End
-  - [taiwan] Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industr
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T19:52:42+00:00",
+      "published_utc": "2026-10-16T20:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

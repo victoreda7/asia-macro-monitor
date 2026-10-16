@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-16T19:52:42.428838+00:00",
- "collected_at_utc": "2026-10-16T19:52:42.428838+00:00",
+ "generated_at_utc": "2026-10-16T20:02:42.562260+00:00",
+ "collected_at_utc": "2026-10-16T20:02:42.562260+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1084,
-  "china": 870,
+  "japan": 1085,
+  "china": 869,
   "taiwan": 333,
   "korea": 713
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "newest": "2026-10-16T09:53:00+00:00"
   },
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-17T01:30:39+09:00"
+   "newest": "2026-10-17T05:01:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-16T19:50:02+00:00"
+   "newest": "2026-10-16T20:02:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "US has full confidence in Takaichi's fiscal discipline: Treasury official",
+   "url": "https://asia.nikkei.com/editor-s-picks/interview/us-has-full-confidence-in-takaichi-s-fiscal-discipline-treasury-official",
+   "published_utc": "2026-10-16T20:02:41.811614+00:00",
+   "title_original": "US has full confidence in Takaichi's fiscal discipline: Treasury official",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a106111f087452f6"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Bank of Japan Governor Ueda “will not tolerate price increases exceeding 2%” and will continue to raise interest rates",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261017de60794",
+   "published_utc": "2026-10-16T20:01:00+00:00",
+   "title_original": "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "deb5a0d6dbe3827e"
+  },
   {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
@@ -2077,7 +2112,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3NuRnc2NlpiWFp2X0dmak9WY3VOT05yZ1JsV0R2RWJvcFVNckF1bDlBODlsVTBwZFR3R0tWYTdMejM3Ui02N3lCci1pcjhUdGFHTU55bFVkVWZ6TjF4VzZyajZsZmNPWVZSS3EzVzR3NTB1VU5fQkxRSS1LbWdiNnBzQ3V4bjA3MFhaaEgyUUZvSHVKaVpKS0kwM3JubnozLTBEVnRQVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSk5yOFVRWFl5ZHhvOUMxTkFHaEVyOUt5U2ZyRXpfWUF3NnA0S3ZNZ0VrblR1SXhiUVlmY3d3a3JpM1ZxRHkxcFh0czh2UGZNZnVueVk0N1d4a0lYa1FqR2tzTkJlNV9XalJpMjBjYkhnV3duY1htV3ptalZtNEMyU3ZTcGR0Y2tWckJfSjJsd1NTc0drekZEOFctbXh0Qlo1UlE?oc=5",
    "published_utc": "2026-10-16T03:53:56+00:00",
    "title_original": "Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China",
    "region": "taiwan",
@@ -2088,7 +2123,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ab23c1582d4d3233"
+   "id": "b9cb1a5d5635214d"
   },
   {
    "source_id": "gn_jp_investing",
@@ -21404,23 +21439,6 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VndiRU9pMHYwNzlnbC1ROHQwVGFoQTNjSzNOT0xNMVhYSjJLS09PbnhwNjFYdm5mZThyYlhRQkVLeU5vbGJlcFlrQV9jZmRzQlg3b1hMVURSQQ?oc=5",
-   "published_utc": "2026-10-07T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "afe932cae17a5fd7"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veUVQTXNGcnhNQWVXZFVPV01JT1V4dGdFYVpuakI1ZGlPMFhqM1IzZjVUX1hQN2ZSTDVURjFaUzdvbWg3QWN3QlI2OXBGc2JTaUNNTmhESGE2UQ?oc=5",
    "published_utc": "2026-10-07T07:00:00+00:00",
@@ -21485,6 +21503,23 @@
    "live_wire": true,
    "manual": false,
    "id": "ff21c922adebefbc"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VndiRU9pMHYwNzlnbC1ROHQwVGFoQTNjSzNOT0xNMVhYSjJLS09PbnhwNjFYdm5mZThyYlhRQkVLeU5vbGJlcFlrQV9jZmRzQlg3b1hMVURSQQ?oc=5",
+   "published_utc": "2026-10-07T06:16:00+00:00",
+   "title_original": "BREAKING NEWS: Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "afe932cae17a5fd7"
   },
   {
    "source_id": "investing_live",
@@ -22498,6 +22533,23 @@
    "id": "c4ee62787ab42ef6"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yTmxfQjBlMlNoSUg0bXZUcnJFUkNybGRnWk9HRldBVjVHQUJjUy1SdmpNelhWT01VVzBWYWtZeFdjc0xsWnRaa01hRUFNOF9HQl9PUGI2SzhxQQ?oc=5",
+   "published_utc": "2026-10-06T13:40:00+00:00",
+   "title_original": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a4dd4c730ff2feee"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: ``This is not an election campaign'' according to some reports",
@@ -23244,23 +23296,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f1a134505efb5f0e"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yTmxfQjBlMlNoSUg0bXZUcnJFUkNybGRnWk9HRldBVjVHQUJjUy1SdmpNelhWT01VVzBWYWtZeFdjc0xsWnRaa01hRUFNOF9HQl9PUGI2SzhxQQ?oc=5",
-   "published_utc": "2026-10-06T07:00:00+00:00",
-   "title_original": "Kawasaki Heavy to launch dog-shaped social robot by fiscal 2028",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4dd4c730ff2feee"
   },
   {
    "source_id": "focus_taiwan",
@@ -25569,6 +25604,23 @@
    "id": "f1e884ea0e920475"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
+   "published_utc": "2026-10-04T08:16:47+00:00",
+   "title_original": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "35a94b1b574169cd"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Liberal Democratic Party Policy Research Council Chairman Kobayashi strengthens his approach to opposition parties for passage of consumption tax reduction bill",
@@ -25585,23 +25637,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7b827cb1b5b1e5ca"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlE0NWZUOU1MMWZQaWxmM3kxU2F2Y1NKcndJMGl4bFdhZXlPV291MWpFSTZZcUVZTXl5N2NwTGlsbFVMXzVPWHhZcmItMjg?oc=5",
-   "published_utc": "2026-10-04T07:00:00+00:00",
-   "title_original": "K consumer goods stocks, which had been spotlighted as \"export stocks\" due to the foreign consumptio..",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "35a94b1b574169cd"
   },
   {
    "source_id": "nikkei_asia",
@@ -36681,6 +36716,23 @@
    "id": "fa61bb739cd55af6"
   },
   {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05R2NPV1hnbEV2T0dHX0dDblR1bTNoM2FNVnVXZ1RwYnJVXzBKd0NLMUVvS0hCQzR5bU43T09kcmNHSmRpQXFZWU0zSEl6YVhueV9Ua2hrRkVyNGp3WDJCSFV4bk40aUZYZjNsOXE1WERVQkcyZG5lSVUtZjM?oc=5",
+   "published_utc": "2026-09-28T15:32:15+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting on macro policies, investment",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ef47d1af02c209a8"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "Preview: Forecasters See Japan September Tankan Showing Large Manufacturers’ Sentiment at +25, Highest Since 2017",
@@ -37532,23 +37584,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8c823c8ac703f0a0"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting on macro policies, investment",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rVmZqeDhPX2dVYTNhNGhncnI1RUs0NXhFMDNlQkFCZ3MyYkJsdkNPcUl0WDdTQmpYSElFcHFYRVhhSmROVnpfQWQ5SUJxTE5PblFxNE1SN0k4SjFkWkJaV0RhSk90YjN3QlM5YVFrTFdvU3lRY1FZdjZ0LXI?oc=5",
-   "published_utc": "2026-09-28T07:00:00+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting on macro policies, investment",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c40b44ff5f4696ec"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51916,41 +51951,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a00b4baeb4330729"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China’s Youth Unemployment Hits Record High",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHE5RFJkanY2eDV3LVBTUzhKaUpZUjI0cHRXZlUzdDZiVjNsR1ZRUmVZUW94eE15d1RELV8tUEtuN1hkbngzYzRFMk5ZUzFPdUhYMzJydzNKV3lvbm90Y0I3Q2pBOGdnTXdrb2ZvSEk3OU0xZHhiWFRfcHlreFZiUDZHdi1ZTzVjaGVhVzdreFh3clpKT2hLeHdIYmdsZw?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "China’s Youth Unemployment Hits Record High",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2710b5966efa75ae"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "``The phase is changing'' of monetary policy, says the Bank of Japan Governor (Kyodo News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjRWZzQU5KUTZJZTFGUEM2MXkycnlITE1tZ05SR2hXUFBfNjBXZUJYWG5PWm9CWENOODJzckhOUTBLWmdFbk9EQl94N3lweGRaZ2E4VnA4ZlpZWWtSV1JTbWYzNjBvN0Qzb0stZmRPbkp1MFVFMWZEOHJsRDEtOU0?oc=5",
-   "published_utc": "2026-09-18T06:55:06+00:00",
-   "title_original": "金融政策の「局面が変化」と日銀総裁（共同通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0d2ae86a0ad52bbf"
   },
   {
    "source_id": "manual_ia",
