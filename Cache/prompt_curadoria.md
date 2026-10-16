@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T06:22:43.033471+00:00
+Última coleta: 2026-10-16T06:32:43.192119+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1112
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock price rise Repurchase movement centered on AI/semiconductor related products
   - [china] Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch
   - [japan] Japanese Government Bond (JGB) Yields Recover as Risk Aversion Mood Eases
   - [japan] JGB yields rebound as risk-off mode eases
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY60 BLN VIA 7-DAY REVERSE REPO FRI
   - [korea] [Next week's economic schedule] Pay attention to the Bank of Korea's base interest rate decision... China's th
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7220 FRI VS 6.7253
-  - [china] The central bank launched a 60 billion yuan 7-day reverse repurchase operation today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T06:22:43+00:00",
+      "published_utc": "2026-10-16T06:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
