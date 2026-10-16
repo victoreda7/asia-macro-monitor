@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T17:55:33.940064+00:00
+Última coleta: 2026-10-16T18:02:43.353699+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1086
@@ -54,9 +54,9 @@ Total: 3000 manchetes
   - [taiwan] TSMC’s ‘Leave No Food On The Table’ Pledge Signals More AI Chip Investment, Morningstar Says
   - [taiwan] Taiwan lawmakers pass health insurance premium subsidies for seniors
   - [china] Shanghai Bright Power Semiconductor Says Lock-Up Period For 23.6 Million Shares To End
+  - [china] China Plans AI Tech Export Curbs to Manage Security Risks
   - [taiwan] Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industr
   - [taiwan] Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility
-  - [korea] South Korea warns of 200-times leveraged bets on Samsung, SK Hynix
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T17:55:34+00:00",
+      "published_utc": "2026-10-16T18:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
