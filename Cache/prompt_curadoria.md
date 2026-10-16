@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T20:52:43.107973+00:00
+Última coleta: 2026-10-16T21:02:43.777870+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1086
-  🇨🇳 China          869
+  🇨🇳 China          870
   🇹🇼 Taiwan         332
-  🇰🇷 Coreia do Sul  713
+  🇰🇷 Coreia do Sul  712
 
 ## O que já está no feed (não repita)
 
@@ -30,6 +30,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda will continue to raise interest rates, 2% price stability is more important
   - [japan] TSMC's 3-nanometer semiconductor production plan in Kumamoto approved by the government
   - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
+  - [china] China's central bank to further open its financial markets to foreigners, chief says
   - [japan] The underlying price increase rate is “approaching 2%”; Bank of Japan Governor Ueda says, “We cannot tolerate 
   - [china] China seeks tighter controls on AI-related exports amid rivalry with US
   - [china] EU urges safeguards against Chinese chemicals, machinery imports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's economy is progressing as expected, says Bank of Japan president (Kyodo News)
   - [japan] ``We will raise the policy interest rate,'' says the Bank of Japan Governor (Kyodo News)
   - [japan] Bank of Japan Governor says underlying inflation is approaching 2% (Kyodo News)
-  - [china] Zenta Group Subsidiary ZentoAI Signs Binding MOU for Strategic Acquisition in China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T20:52:43+00:00",
+      "published_utc": "2026-10-16T21:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
