@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T14:22:44.891823+00:00
+Última coleta: 2026-10-16T14:32:45.745625+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1086
-  🇨🇳 China          866
+  🇯🇵 Japão          1087
+  🇨🇳 China          865
   🇹🇼 Taiwan         331
   🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
+  - [japan] Fiscal System Council proposes use of imported rice for stockpiled rice
   - [japan] ``We will raise the policy interest rate,'' says the Bank of Japan Governor (Kyodo News)
   - [japan] BOJ's Ueda says inflation can't be allowed to rise further
   - [japan] Bank of Japan Governor maintains interest rate hike stance, keeping a close eye on energy prices and AI demand
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] USD/KRW: Goldman Sachs sees Korean won strengthening
   - [japan] Bank of Japan Governor Ueda emphasizes in his greeting that he will “continue to raise policy interest rates” 
   - [china] China Petroleum Engineering Says January-September New Contracts Totalled 105.9 Billion Yuan
-  - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il met with senior officials fro..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T14:22:45+00:00",
+      "published_utc": "2026-10-16T14:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
