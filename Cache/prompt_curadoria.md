@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-16T06:02:44.481828+00:00
+Última coleta: 2026-10-16T06:12:45.112591+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1112
+  🇯🇵 Japão          1114
   🇨🇳 China          850
-  🇹🇼 Taiwan         324
-  🇰🇷 Coreia do Sul  714
+  🇹🇼 Taiwan         323
+  🇰🇷 Coreia do Sul  713
 
 ## O que já está no feed (não repita)
 
+  - [china] Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch
+  - [japan] Japanese Government Bond (JGB) Yields Recover as Risk Aversion Mood Eases
+  - [japan] JGB yields rebound as risk-off mode eases
+  - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
   - [china] China's Piecemeal Stimulus Still Insufficient to Boost Domestic Demand — Market Talk
   - [taiwan] Taiwan economic growth in 2026 to be highest in 39 years: CIER
   - [japan] Consumption tax reduction bill agreed to be discussed on 20th; Liberal Democratic Party and Democratic Party o
-  - [korea] Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling
   - [korea] South Korean Won Extends Losses on Capital Outflows
   - [korea] Korea's manufacturing jobs rise for first time in 27 months
   - [korea] Raising interest rates is necessary to keep prices down, but South Korea and the US central banks are in deep 
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched a 60 billion yuan 7-day reverse repurchase operation today
   - [korea] S.Korean shares rebound as Samsung, SK Hynix rise; foreigners extend selling spree
   - [korea] Samsung Cuts Fourth-Quarter Low-End Phone Production as PCB Material Supply Tightens
-  - [korea] Hana Securities: “The Bank of Korea expects a unanimous freeze on the base interest rate in October, maintaini
-  - [korea] SK hynix tops list of most sought-after firms among S. Korean job seekers: survey
-  - [japan] There is no evidence that he considered requesting a postponement of the vote on the June interest rate hike a
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-16T06:02:44+00:00",
+      "published_utc": "2026-10-16T06:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
