@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T04:22:41.930989+00:00
+Última coleta: 2026-10-17T04:32:41.908915+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1078
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3243355.6, Implies 155% Upside
   - [japan] BREAKING NEWS: Economic, fiscal policy minister Kiuchi visits war-linked Yasukuni shrine
   - [korea] Trump touts Hyundai's US$560-mln Georgia investment pledge at campaign rally
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ chief vows to keep raising rates, anchor inflation around target
   - [japan] Bank of Japan Governor Ueda emphasizes stance on continuing interest rate hikes: ``We cannot accept any furthe
   - [japan] Bank of Japan Governor Ueda calls upward movement in prices ``unacceptable'', approaches 2% target, continues 
-  - [japan] Bank of Japan Governor Ueda calls upward price hike ``unacceptable'', approaches 2% target, continues rate hik
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T04:22:42+00:00",
+      "published_utc": "2026-10-17T04:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
