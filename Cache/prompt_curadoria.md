@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T19:52:41.507897+00:00
+Última coleta: 2026-10-17T20:02:42.013931+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1066
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan to prohibit untraced gold exports, clamping down on tax evasion
   - [taiwan] Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains
   - [taiwan] Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus
   - [taiwan] Fees proposed for new Qilai Mountain Cabin, Paiyun Lodge rate hike
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda will continue to raise interest rates, 2% price stability is more important
   - [japan] TSMC's 3-nanometer semiconductor production plan in Kumamoto approved by the government
   - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
-  - [taiwan] Economic growth to be highest in 39 years: CIER
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T19:52:41+00:00",
+      "published_utc": "2026-10-17T20:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
