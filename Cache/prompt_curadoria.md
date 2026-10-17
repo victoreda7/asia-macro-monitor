@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T14:32:43.140385+00:00
+Última coleta: 2026-10-17T14:42:42.934660+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1069
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [taiwan] Fees proposed for new Qilai Mountain Cabin, Paiyun Lodge rate hike
   - [japan] The Bank of Japan's Kochi branch maintained its judgment from the previous month that the prefecture's economy
   - [japan] Liberal Democratic Party Policy Research Chairman Kobayashi urges many opposition parties to pass consumption 
+  - [japan] What’s the likelihood of Yen carry trade reversing? By Investing.com
   - [japan] What’s the likelihood of Yen carry trade reversing?
   - [japan] IMF senior official evaluation: Japan's consumption tax reduction bill
   - [japan] What you can do now about rising mortgage rates
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
   - [taiwan] Legislature passes NHI senior subsidies
   - [china] China's central bank to further open its financial markets to foreigners, chief says
-  - [china] China seeks tighter controls on AI-related exports amid rivalry with US
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T14:32:43+00:00",
+      "published_utc": "2026-10-17T14:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
