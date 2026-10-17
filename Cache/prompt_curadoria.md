@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T00:32:42.549812+00:00
+Última coleta: 2026-10-17T00:42:42.206713+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1086
+  🇯🇵 Japão          1085
   🇨🇳 China          871
-  🇹🇼 Taiwan         332
+  🇹🇼 Taiwan         333
   🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [china] Chinese premier chairs State Council executive meeting
   - [korea] [Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices an
   - [japan] The US budget deficit is 314 trillion yen, the third highest on record due to increased interest payments, etc
+  - [taiwan] Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?
   - [china] China Proposes Export Controls On 23 AI Technologies Amid U.S. Tech Rivalry
   - [china] Paraguay’s tech minister defies Beijing sanctions, says Taiwan ties ‘not up for negotiation’
   - [japan] USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Eyes $4 Billion Texas Hub to Supercharge Nvidia's AI Supply Chain
   - [japan] BREAKING NEWS: Stabilizing underlying inflation around 2% is key goal for BOJ: Ueda
   - [china] Li Auto raises 1.6B Yuan for chip business expansion
-  - [taiwan] Taiwan Plans $4 Billion Texas AI Hub for Nvidia Supply Chain
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T00:32:42+00:00",
+      "published_utc": "2026-10-17T00:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
