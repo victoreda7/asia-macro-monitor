@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-17T04:52:41.309907+00:00",
- "collected_at_utc": "2026-10-17T04:52:41.309907+00:00",
+ "generated_at_utc": "2026-10-17T05:02:45.250703+00:00",
+ "collected_at_utc": "2026-10-17T05:02:45.250703+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 335,
   "korea": 713
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-17T04:31:09+00:00"
+   "newest": "2026-10-17T04:48:35+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-17T02:24:39+00:00"
+   "newest": "2026-10-17T04:48:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T13:00:12+00:00"
+   "newest": "2026-10-17T02:00:10+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-17T04:36:58+00:00"
+   "newest": "2026-10-17T05:00:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-17T04:22:46+00:00"
+   "newest": "2026-10-17T04:52:59+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T04:29:34+00:00"
+   "newest": "2026-10-17T04:43:27+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,11 +344,29 @@
  ],
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "What you can do now about rising mortgage rates",
+   "url": "https://news.yahoo.co.jp/pickup/6599104?source=rss",
+   "published_utc": "2026-10-17T04:52:59+00:00",
+   "title_original": "住宅ローン金利上昇 今できること",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c5c155dcdec65072"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N463007:0-boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says/",
-   "published_utc": "2026-10-17T04:30:45+00:00",
+   "url": "https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4955234",
+   "published_utc": "2026-10-17T04:48:23+00:00",
    "title_original": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
    "region": "japan",
    "topics": [
@@ -357,9 +375,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "06d7b290c086efef"
+   "id": "c838339d1af1c5f2"
   },
   {
    "source_id": "tradingview_live",
@@ -934,8 +952,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -949,7 +967,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -3445,8 +3463,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -3460,7 +3478,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -4063,8 +4081,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -4079,7 +4097,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51932,23 +51950,6 @@
    "live_wire": false,
    "manual": false,
    "id": "83afac64abaabe81"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Higher-than-usual rate hike possible depending on prices: BOJ Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MNmRlaDJ3QXI5bjNoMzlrLTFreWIwUHMxQXRwQWphZ1VQYmxTa1g4eV8ta1IxdnNjQkV3MlRzak44ZXFBZDZfMG1ZUHV0VnBNcWpNVEs2QkRjUQ?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Higher-than-usual rate hike possible depending on prices: BOJ Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1af7557dc6d93615"
   },
   {
    "source_id": "manual_ia",
