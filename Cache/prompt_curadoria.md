@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T12:02:41.709696+00:00
+Última coleta: 2026-10-17T12:12:43.047276+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1071
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T12:02:41+00:00",
+      "published_utc": "2026-10-17T12:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
