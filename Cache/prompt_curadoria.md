@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T14:02:42.287076+00:00
+Última coleta: 2026-10-17T14:12:42.776348+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1070
+  🇯🇵 Japão          1069
   🇨🇳 China          877
-  🇹🇼 Taiwan         336
+  🇹🇼 Taiwan         337
   🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus
   - [taiwan] Fees proposed for new Qilai Mountain Cabin, Paiyun Lodge rate hike
   - [japan] The Bank of Japan's Kochi branch maintained its judgment from the previous month that the prefecture's economy
   - [japan] Liberal Democratic Party Policy Research Chairman Kobayashi urges many opposition parties to pass consumption 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Legislature passes NHI senior subsidies
   - [china] China's central bank to further open its financial markets to foreigners, chief says
   - [china] China seeks tighter controls on AI-related exports amid rivalry with US
-  - [japan] The underlying price increase rate is “approaching 2%”; Bank of Japan Governor Ueda says, “We cannot tolerate 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T14:02:42+00:00",
+      "published_utc": "2026-10-17T14:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
