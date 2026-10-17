@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T21:22:42.520538+00:00
+Última coleta: 2026-10-17T21:32:41.724170+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1064
@@ -39,6 +39,7 @@ Total: 3000 manchetes
   - [china] Europe-China Trade Truce Helps Auto Makers — Barron's
   - [japan] The Russo-Japanese War that Ryotaro Shiba did not depict in ``Clouds on the Slope''...Tax increase, Hibiya bur
   - [taiwan] Key facts: TSMC (2330) Q3 record profit; $98B capex to 2028
+  - [china] Chinese premier chairs State Council executive meeting
   - [korea] [Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices an
   - [japan] The US budget deficit is 314 trillion yen, the third highest on record due to increased interest payments, etc
   - [japan] Anthropic proposes AI safety bill with strict intervention thresholds - Politico By Investing.com
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] US import prices increase; post largest annual gain in more than four years By Reuters
   - [china] European Commission to propose additional China import curbs
   - [china] China Moves to Control AI Tech Exports While Taiwan Cracks Down on Smuggling — Barrons.com
-  - [japan] Bank of Japan Governor Ueda will continue to raise interest rates, 2% price stability is more important
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T21:22:42+00:00",
+      "published_utc": "2026-10-17T21:32:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
