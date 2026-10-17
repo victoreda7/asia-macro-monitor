@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T07:42:43.618316+00:00
+Última coleta: 2026-10-17T07:52:41.803149+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1074
@@ -30,6 +30,7 @@ Total: 3000 manchetes
   - [china] Chinese premier chairs State Council executive meeting
   - [korea] [Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices an
   - [japan] The US budget deficit is 314 trillion yen, the third highest on record due to increased interest payments, etc
+  - [japan] Anthropic proposes AI safety bill with strict intervention thresholds - Politico By Investing.com
   - [taiwan] Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?
   - [china] China Proposes Export Controls On 23 AI Technologies Amid U.S. Tech Rivalry
   - [china] Paraguay’s tech minister defies Beijing sanctions, says Taiwan ties ‘not up for negotiation’
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Fiscal System Council proposes use of imported rice for stockpiled rice
   - [japan] BOJ's Ueda says inflation can't be allowed to rise further
   - [japan] Bank of Japan Governor maintains interest rate hike stance, keeping a close eye on energy prices and AI demand
-  - [japan] BOJ chief vows to keep raising rates, anchor inflation around target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T07:42:43+00:00",
+      "published_utc": "2026-10-17T07:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
