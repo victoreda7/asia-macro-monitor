@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T16:12:43.469464+00:00
+Última coleta: 2026-10-17T16:22:44.743619+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1069
+  🇯🇵 Japão          1068
   🇨🇳 China          877
-  🇹🇼 Taiwan         337
+  🇹🇼 Taiwan         338
   🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
@@ -55,8 +55,8 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda will continue to raise interest rates, 2% price stability is more important
   - [japan] TSMC's 3-nanometer semiconductor production plan in Kumamoto approved by the government
   - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
+  - [taiwan] Economic growth to be highest in 39 years: CIER
   - [taiwan] Legislature passes NHI senior subsidies
-  - [china] China's central bank to further open its financial markets to foreigners, chief says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T16:12:43+00:00",
+      "published_utc": "2026-10-17T16:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
