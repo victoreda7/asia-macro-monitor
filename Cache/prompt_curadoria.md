@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T20:52:41.780498+00:00
+Última coleta: 2026-10-17T21:02:42.966241+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1066
-  🇨🇳 China          876
+  🇯🇵 Japão          1065
+  🇨🇳 China          877
   🇹🇼 Taiwan         341
   🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
+  - [china] In 2027, China's economy will be in a state of "4% growth and defense"...US City predicts, headwinds of export
   - [japan] Japan to prohibit untraced gold exports, clamping down on tax evasion
   - [taiwan] Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains
   - [taiwan] Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Moves to Control AI Tech Exports While Taiwan Cracks Down on Smuggling — Barrons.com
   - [japan] Bank of Japan Governor Ueda will continue to raise interest rates, 2% price stability is more important
   - [japan] TSMC's 3-nanometer semiconductor production plan in Kumamoto approved by the government
-  - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T20:52:42+00:00",
+      "published_utc": "2026-10-17T21:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
