@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-17T21:02:42.966241+00:00",
- "collected_at_utc": "2026-10-17T21:02:42.966241+00:00",
+ "generated_at_utc": "2026-10-17T21:12:44.140073+00:00",
+ "collected_at_utc": "2026-10-17T21:12:44.140073+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1065,
+  "japan": 1064,
   "china": 877,
   "taiwan": 341,
-  "korea": 717
+  "korea": 718
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T03:20:00+00:00"
+   "newest": "2026-10-16T05:18:19+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-17T20:34:52+00:00"
+   "newest": "2026-10-17T21:11:35+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T15:14:47+00:00"
+   "newest": "2026-10-17T18:19:15+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T00:07:32+00:00"
+   "newest": "2026-10-17T21:00:04+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "마켓인",
+   "title_en": "The base interest rate has been raised continuously, will it take a break this time? October Monetary Policy Committee attention",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40WjdsVG01N3hxZnJjTTR3YWctT1JKa21lcUxSUGxoVlQ2LTJnN0pyT0RQNFRHRnlzUTE4TUZQNXRJeXg5R0t4S181Mi1uR0l0cy1tT0xDQm9IRER5SWxSTmdjWjY3TXVpdHZ4dUdDVVBSWlE?oc=5",
+   "published_utc": "2026-10-17T21:00:04+00:00",
+   "title_original": "연속 인상한 기준금리, 이번엔 쉬어가나…10월 금통위 주목",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6625a2607682cc74"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -1179,8 +1197,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -1194,7 +1212,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -1864,6 +1882,24 @@
    "id": "c6488a190b166246"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Entering a rate hike phase, the upper end of mortgage fluctuation rates of major commercial banks ha..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jUGc4RlBQWGZwc0ZJZzBiZmFQMTlTdEh3S0kzS2RQWFdCLWYwQ1p3ZHBqWE1VRVk1c0lRV21OMzFNOFpNZ0NFY05CT3VCUjNuUnc?oc=5",
+   "published_utc": "2026-10-16T09:46:26+00:00",
+   "title_original": "Entering a rate hike phase, the upper end of mortgage fluctuation rates of major commercial banks ha..",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "284f22a96fad9511"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Governor Ueda emphasizes in his greeting that he will “continue to raise policy interest rates” (Asahi Shimbun)",
@@ -2071,24 +2107,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7f0a869c1428a831"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Entering a rate hike phase, the upper end of mortgage fluctuation rates of major commercial banks ha..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OR1pwNU5hSlZGamQtODBqeWVmU0RLOUl3NmZDWFVMazdFYVoyRVk4anZOMXNmVDdqbml1SVdWdWFTV0ZaMlNvNDlweUUyS2t2aFE?oc=5",
-   "published_utc": "2026-10-16T08:41:23+00:00",
-   "title_original": "Entering a rate hike phase, the upper end of mortgage fluctuation rates of major commercial banks ha..",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "37948d25279c141a"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -3776,8 +3794,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -3791,7 +3809,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -4394,8 +4412,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -4410,7 +4428,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51927,24 +51945,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6f0d3e023d634726"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Yen sinks, sending Japan stocks surging after BOJ hike draws two dissents",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45A089:0-yen-sinks-sending-japan-stocks-surging-after-boj-hike-draws-two-dissents/",
-   "published_utc": "2026-09-18T08:26:55+00:00",
-   "title_original": "Yen sinks, sending Japan stocks surging after BOJ hike draws two dissents",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fe2344bfbaa098de"
   },
   {
    "source_id": "manual_ia",
