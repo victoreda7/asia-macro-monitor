@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T19:02:43.855488+00:00
+Última coleta: 2026-10-17T19:10:36.222768+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1067
-  🇨🇳 China          877
-  🇹🇼 Taiwan         339
+  🇨🇳 China          876
+  🇹🇼 Taiwan         340
   🇰🇷 Coreia do Sul  717
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains
   - [taiwan] Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus
   - [taiwan] Fees proposed for new Qilai Mountain Cabin, Paiyun Lodge rate hike
   - [japan] The Bank of Japan's Kochi branch maintained its judgment from the previous month that the prefecture's economy
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] TSMC's 3-nanometer semiconductor production plan in Kumamoto approved by the government
   - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
   - [taiwan] Economic growth to be highest in 39 years: CIER
-  - [taiwan] Legislature passes NHI senior subsidies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T19:02:44+00:00",
+      "published_utc": "2026-10-17T19:10:36+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
