@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T22:42:41.946805+00:00
+Última coleta: 2026-10-17T22:52:41.685985+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1062
+  🇯🇵 Japão          1061
   🇨🇳 China          876
-  🇹🇼 Taiwan         341
+  🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  721
 
 ## O que já está no feed (não repita)
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [china] China central bank chief supports closer IMF surveillance of fiscal, spillover risks
   - [taiwan] Fees proposed for new Qilai Mountain Cabin, Paiyun Lodge rate hike
   - [japan] The Bank of Japan's Kochi branch maintained its judgment from the previous month that the prefecture's economy
+  - [taiwan] TSMC’s 3nm Kumamoto plan wins Japan’s approval, qualifying for up to $4.1 billion in aid
   - [japan] Liberal Democratic Party Policy Research Chairman Kobayashi urges many opposition parties to pass consumption 
   - [japan] What’s the likelihood of Yen carry trade reversing? By Investing.com
   - [japan] What’s the likelihood of Yen carry trade reversing?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda “will not tolerate price increases exceeding 2%” and will continue to raise intere
   - [china] Beijing seeks tighter grip on AI exports amid US rivalry
   - [china] EU to propose import curbs on other Chinese sectors, says EU chief
-  - [taiwan] DA Davidson maintains Buy rating on Taiwan Semiconductor, $500 price target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T22:42:42+00:00",
+      "published_utc": "2026-10-17T22:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
