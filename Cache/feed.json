@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-17T06:52:46.842786+00:00",
- "collected_at_utc": "2026-10-17T06:52:46.842786+00:00",
+ "generated_at_utc": "2026-10-17T07:02:42.991090+00:00",
+ "collected_at_utc": "2026-10-17T07:02:42.991090+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1077,
+  "japan": 1075,
   "china": 875,
   "taiwan": 335,
-  "korea": 713
+  "korea": 715
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T04:01:16+00:00"
+   "newest": "2026-10-17T04:00:21+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 50,
+   "count": 51,
    "error": "",
-   "newest": "2026-10-17T12:22:07+08:00"
+   "newest": "2026-10-17T13:32:10+08:00"
   },
   {
    "source_id": "investing_live",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-17T12:54:37+09:00"
+   "newest": "2026-10-17T15:51:37+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T23:05:57+00:00"
+   "newest": "2026-10-17T04:47:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T03:04:47+00:00"
+   "newest": "2026-10-17T05:32:34+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T06:35:14+00:00"
+   "newest": "2026-10-16T18:47:00+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -952,8 +952,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -967,7 +967,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -1983,6 +1983,24 @@
    "id": "5344c29af0470e2a"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "S. Korea, U.S. hold first 2+2 meeting of finance, monetary policymakers",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBodmZQcGdhdTcyMWsyVURwR2NVWnpDMXlYS09uRHFGVUJnel9hSG9TallnUWc5TWdEMG9uS1B3SzlrMktUNkQ4LWRxSWZaWlpYcW5FQXNxdjR2dw?oc=5",
+   "published_utc": "2026-10-16T08:00:02+00:00",
+   "title_original": "S. Korea, U.S. hold first 2+2 meeting of finance, monetary policymakers",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "789f03315b4be09f"
+  },
+  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "BOJ Current Account Balances by Sector (Sept.)",
@@ -2211,6 +2229,23 @@
    "live_wire": true,
    "manual": false,
    "id": "0c1564383209f8c9"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Seoul stocks rebound over 2 pct on eased chip rout, Fed bets",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GNEotWHl0TG9lZVo0UWxyT2ZVYTVRTHZDSzJyQWY4RTV5aU1vNlNpZngybUcwTjF5aFBfTS1NenFJVnhOZnRfQTlzdnQ2dnZiOG91dFl1WXF1QQ?oc=5",
+   "published_utc": "2026-10-16T06:36:48+00:00",
+   "title_original": "Seoul stocks rebound over 2 pct on eased chip rout, Fed bets",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9fee90626628fde7"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -3463,8 +3498,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -3478,7 +3513,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -4081,8 +4116,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -4097,7 +4132,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51912,42 +51947,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f2edd6a4675e1ef2"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcmVudElxT21NQUxjV0JCVGlqSVZSaU9tOHRCa2pNdzk5MHJSM3pGX01JYlBHYlhvX204OG1fRnFCTEZZSzFzSEd4aWJhWEV5X2R2MnZXZ2I0QQ?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "Dollar jumps around 1 yen to above 157 yen, Nikkei index climbs after BOJ rate hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6fccd22b421df798"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: U.S. dollar briefly surges to upper 156 yen zone after BOJ decision",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtbzBObXF2TUhvQTIteWxRdVVKQXVjZVRBTGNBNWpQRTVmNDZhQ2t3QjJrZlhlU28xdEFKcjRkOXZFd3ZOQXFzSVpISE1ycmxtZUdKMUxlZnhaZw?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: U.S. dollar briefly surges to upper 156 yen zone after BOJ decision",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d8c8f812f8cdf73b"
   },
   {
    "source_id": "manual_ia",
