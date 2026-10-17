@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-17T18:42:46.064752+00:00",
- "collected_at_utc": "2026-10-17T18:42:46.064752+00:00",
+ "generated_at_utc": "2026-10-17T18:52:45.479428+00:00",
+ "collected_at_utc": "2026-10-17T18:52:45.479428+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 339,
   "korea": 717
  },
- "elapsed_s": 31.9,
+ "elapsed_s": 29.5,
  "sources": [
-  {
-   "source_id": "gn_asia_bloomberg",
-   "name": "Bloomberg Asia",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -28,6 +20,14 @@
    "count": 51,
    "error": "",
    "newest": "2026-10-16T17:00:00+09:00"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "name": "Bloomberg Asia",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-17T10:00:24+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-17T18:16:00+00:00"
+   "newest": "2026-10-17T18:51:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -19427,6 +19427,23 @@
    "id": "98289b781f0cfe56"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Seoul shares extend losses late Thurs. morning amid inflation worries",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BUnU3SW5sWUt1b3VrU0NCaWZNMnRBNDAzcmJnSHh2VGtWZm9mTFhVV0FwMHlocUdPZHVscXZQOWhQaldaTlpBZ0RHRGRvd2FCMm1CSDZhWm5Xdw?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "title_original": "Seoul shares extend losses late Thurs. morning amid inflation worries",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e0a2c88a2dd98f79"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "원주투데이",
    "title_en": "If the loan interest rate rises, house prices fall after 6 months.",
@@ -19932,23 +19949,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fa8ad272a1e64f54"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Seoul shares extend losses late Thurs. morning amid inflation worries",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BUnU3SW5sWUt1b3VrU0NCaWZNMnRBNDAzcmJnSHh2VGtWZm9mTFhVV0FwMHlocUdPZHVscXZQOWhQaldaTlpBZ0RHRGRvd2FCMm1CSDZhWm5Xdw?oc=5",
-   "published_utc": "2026-10-08T02:37:08+00:00",
-   "title_original": "Seoul shares extend losses late Thurs. morning amid inflation worries",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e0a2c88a2dd98f79"
   },
   {
    "source_id": "toyo_keizai",
