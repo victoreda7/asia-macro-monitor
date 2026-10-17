@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-17T00:42:42.206713+00:00",
- "collected_at_utc": "2026-10-17T00:42:42.206713+00:00",
+ "generated_at_utc": "2026-10-17T00:52:43.002951+00:00",
+ "collected_at_utc": "2026-10-17T00:52:43.002951+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 333,
   "korea": 711
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.3,
  "sources": [
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -35,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T12:01:25+00:00"
+   "newest": "2026-10-16T10:20:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-17T00:16:35+00:00"
+   "newest": "2026-10-17T00:39:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +275,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-17T00:40:43+00:00"
+   "newest": "2026-10-17T00:45:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -276,14 +284,6 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-16T18:07:57+00:00"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-17T00:14:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
