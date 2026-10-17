@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-17T07:12:43.434924+00:00",
- "collected_at_utc": "2026-10-17T07:12:43.434924+00:00",
+ "generated_at_utc": "2026-10-17T07:22:43.796197+00:00",
+ "collected_at_utc": "2026-10-17T07:22:43.796197+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1075,
+  "japan": 1074,
   "china": 875,
   "taiwan": 335,
-  "korea": 715
+  "korea": 716
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-17T06:31:06+00:00"
+   "newest": "2026-10-17T07:02:26+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-17T07:00:00+00:00"
+   "newest": "2026-10-17T07:18:46+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T03:11:22+00:00"
+   "newest": "2026-10-17T06:11:19+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-17T04:52:59+00:00"
+   "newest": "2026-10-17T07:20:56+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T08:41:24+00:00"
+   "newest": "2026-10-17T04:43:27+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "IMF senior official evaluation: Japan's consumption tax reduction bill",
+   "url": "https://news.yahoo.co.jp/pickup/6599121?source=rss",
+   "published_utc": "2026-10-17T07:20:56+00:00",
+   "title_original": "IMF高官評価 日本の消費減税法案",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "84cc618fe4cacddd"
+  },
   {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
@@ -1414,6 +1432,23 @@
    "id": "c70c616ea788df0d"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Plans AI Tech Export Curbs to Manage Security Risks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTERMaGFSLU1xOHRlNmoxUlZrbU9rTm5iXzlhaDdMb1F4c29kc1QyYjRKUzNFenh3QUo2REd5SlVRMm1NMUdCZWVTWndhdHdKWGxUZmY3Y1c2Z3dfektYZ1dodDhmOHlYVkc1NWI3TzZXTnFINGxNY0dGSy02cEVyZldCcFJLNllrU2hhazdvR014YjVKeU5PWFlVZWdfWDZVSFpOUUt3NGJfV1BmS09sQQ?oc=5",
+   "published_utc": "2026-10-16T10:48:18+00:00",
+   "title_original": "China Plans AI Tech Export Curbs to Manage Security Risks",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "87077f60d95f7008"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Mitsubishi Electric: To Sell 50% Stake In Subsidiary Mitsubishi Electric Mobility To Hon Hai Precision Industry's Investment Management Firm For 115 Billion Yen",
@@ -1773,23 +1808,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3cd878d6022164ed"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Plans AI Tech Export Curbs to Manage Security Risks",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTERMaGFSLU1xOHRlNmoxUlZrbU9rTm5iXzlhaDdMb1F4c29kc1QyYjRKUzNFenh3QUo2REd5SlVRMm1NMUdCZWVTWndhdHdKWGxUZmY3Y1c2Z3dfektYZ1dodDhmOHlYVkc1NWI3TzZXTnFINGxNY0dGSy02cEVyZldCcFJLNllrU2hhazdvR014YjVKeU5PWFlVZWdfWDZVSFpOUUt3NGJfV1BmS09sQQ?oc=5",
-   "published_utc": "2026-10-16T08:46:44+00:00",
-   "title_original": "China Plans AI Tech Export Curbs to Manage Security Risks",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "87077f60d95f7008"
   },
   {
    "source_id": "nhk_politics",
@@ -2174,6 +2192,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5a9e86ee2e6e9024"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) Seoul stocks rebound over 2 pct on eased chip rout, Fed bets",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tdkl2dXNQMXpTRE53aE82VW94U013ZTBWZlZIeHVrcEEtUDBNaURTcDFNTTlURV9wLVJ3TDI4aGV0dFlmWHkwbW52MXlHaGtQNldlcy1mR0hGZw?oc=5",
+   "published_utc": "2026-10-16T07:16:20+00:00",
+   "title_original": "(LEAD) Seoul stocks rebound over 2 pct on eased chip rout, Fed bets",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "76aa0498beb046f2"
   },
   {
    "source_id": "tradingview_live",
@@ -4135,23 +4170,6 @@
    "id": "bc95c5f9de95e7c9"
   },
   {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ucll6M0tRbXZvV3V1YVdlb3VONlAxbFZlSVFrd00tNklITkU3eEVON2lYRXcxYW44eXNRclR0eF9helZDZVJSd0FnNlhReVRTRzkxaHdFZTVjRWVabFJLaFF1aF8yTWpXLThzZkJ1WTZCNlZwT3c?oc=5",
-   "published_utc": "2026-10-15T10:53:00+00:00",
-   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3fa8d36118a2fe2b"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Tech sell-off gathers pace as chipmakers hammered By Reuters",
@@ -4782,6 +4800,23 @@
    "id": "02096fe335677394"
   },
   {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YbDdCM0dWdWNvamRaZ2ZWNENRV1ZXNFFFSnIxMEhyejRTVmRtVVVUOHE0a29qbi1ObWNaMFdoZDZuTUJ2MndKZkFyVlA1NmpKemNjX0FUUGFuS0F2RlE?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dd8f23c892dc681"
+  },
+  {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
    "title_en": "TSE closing price 3318 yen lower, third largest decline",
@@ -5185,10 +5220,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
+   "source_name": "Investing.com UK",
    "title_en": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0dpcXNnYnNnbWtWakd2R3VrNnpxUHFsRWJyN1pLZ3BacTkyb0FfVUtUM3dvRlZqckZ4aXRlVGZvdHY2S09nWDlzVk1POWstNmRwRlNvSTlGbkYybjAxTnF0akg4ZmI3UWh1RFlJaWp4cnV2MEJCWGhKM2ZnN3doRXpUNmZKaEk2YlhhNWNjSXFkMWFVME5xRFVHTUF4ZFpFUjg1QXVmZmE1Y2hjWU1oOXd1SXdzbno3bVB6RW1B?oc=5",
-   "published_utc": "2026-10-15T04:25:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXM4RzlvNjh2NUgyeFQtMWlxT2gza0VvZU5JVDVBVzVXRS1kZVZEc2QzT1RMazNJWThlaWRWckFOd0JNRTdmQmp4UmlHWmUwTlJ3VDhyanZVaU9WVFJlTzYzUUVaeVBrRkdxaWFzUkJfd0tXdTNfSlVCUy1sOXdVdEs1cktiZFJpbW9QbHBsNjFXazljTFhaVGJ5RWN6RVpMQVRQRExYWVljcjZkbU5LbDZSU1JVYUdENzBiQjBn?oc=5",
+   "published_utc": "2026-10-15T04:06:00+00:00",
    "title_original": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
    "region": "japan",
    "topics": [
@@ -5199,7 +5234,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2b3965436e525ef4"
+   "id": "dfae25f1e6df382f"
   },
   {
    "source_id": "investing_live",
@@ -14477,7 +14512,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 302 billion yuan reverse repo expires this week, and the 500 billion yuan buyout expires on Thursday.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zU1kydF8yQWI4djFDWFRFaFdkbVh6eUJxZWhXNTlzS0E3d1h6SFNSMnQwSUt4bmNhN3RoTnF2QXJUWXlzNHhxajVrNzBxQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84NS1JZWNGdTRJVGV0WmdYUS1uN29ac3lMaVM2bE03Tl9qdkppbThaVUowU05yOVl4cUFqdHdncE5yRWRQMjFBa2tsTVpsQ3RMYmdWNUxGdWN4NkphaVFQTzNn?oc=5",
    "published_utc": "2026-10-12T00:51:47+00:00",
    "title_original": "本周央行3020亿元逆回购到期 5000亿元买断式周四到期",
    "region": "china",
@@ -14489,7 +14524,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fde8e61754043213"
+   "id": "25e47331a55dbf6f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -51911,42 +51946,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7ff5b6342c59b78d"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ to watch forex moves, AI-linked demand for future monetary policy",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mSUsxNkhOcFM2TExpcTY3Ymt6TVVPZVRLUm5mVUVKSE4tZG4ycVVCNGhLMXNmdHg3WGFZdEJVb3U4ek1TNXBpM1FtTTFYclhvQUE5aXdSd1pwUQ?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ to watch forex moves, AI-linked demand for future monetary policy",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ce9d7926a13f3d21"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Bank of Japan’s Ueda Delivers Hike But Dissenters Undercut Scott ‘the House’ Bessent",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLTlGVHpscnl1blJhZ09STmZEZGNSMnVTbjhLY0lLa0UwTXVycjAxV2gwUUZEZXZQT3lsTVdyNVZIU2R2MHA5UWJiaXBmMm9BN2tEOExjUDNmQXp2bUlhdFZnSWRBWmJrSG8yUmxza2pCRlJtT2l6R1hSV09zNG1NS01fSFdNU21NTmNmYkNWWXJIV1BSZXVQbTN5LURmNzFVa2ZwUUU2dl83bU03V2k0WTNBWEExVlAzaW15UDFn?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "Bank of Japan’s Ueda Delivers Hike But Dissenters Undercut Scott ‘the House’ Bessent",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f2edd6a4675e1ef2"
   },
   {
    "source_id": "manual_ia",
