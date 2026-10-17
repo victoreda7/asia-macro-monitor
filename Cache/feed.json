@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-17T11:22:42.403189+00:00",
- "collected_at_utc": "2026-10-17T11:22:42.403189+00:00",
+ "generated_at_utc": "2026-10-17T11:32:43.820538+00:00",
+ "collected_at_utc": "2026-10-17T11:32:43.820538+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 335,
   "korea": 717
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T15:19:50+00:00"
+   "newest": "2026-10-17T10:00:24+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T04:01:16+00:00"
+   "newest": "2026-10-17T04:00:21+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 56,
+   "count": 57,
    "error": "",
-   "newest": "2026-10-17T17:46:24+08:00"
+   "newest": "2026-10-17T18:15:27+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-17T11:01:44+00:00"
+   "newest": "2026-10-17T11:21:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T08:20:49+00:00"
+   "newest": "2026-10-16T20:49:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-17T11:21:27+00:00"
+   "newest": "2026-10-17T11:31:54+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T06:11:19+00:00"
+   "newest": "2026-10-17T09:13:08+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T08:01:36+00:00"
+   "newest": "2026-10-17T11:06:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "The Bank of Japan's Kochi branch maintained its judgment from the previous month that the prefecture's economy was \"slowly recovering\" [Kochi] (RKC Kochi Broadcasting)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91dTMxajI4ZTZlVmw5REREekJBaC00VWlVSW5zVk5XTGw1NTI2aERUYnEzRUVTc25Ja2x6V1dfT0ZMRFY2bUFjRmxJdFUzOFgwVU1ZU1ZsUTBGeFFFRGUxR0FwY180UzJmYWZ1TmtFYXJIMkZuU2lkLTdTWDV2VUE?oc=5",
+   "published_utc": "2026-10-17T11:06:00+00:00",
+   "title_original": "日銀高知支店は県内の景気について「緩やかに持ち直している」と前の月からの判断を据え置いた【高知】（RKC高知放送）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9c156fc1646353f8"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -1039,8 +1057,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -1054,7 +1072,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -3619,8 +3637,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -3634,7 +3652,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -4237,8 +4255,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -4253,7 +4271,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ucll6M0tRbXZvV3V1YVdlb3VONlAxbFZlSVFrd00tNklITkU3eEVON2lYRXcxYW44eXNRclR0eF9helZDZVJSd0FnNlhReVRTRzkxaHdFZTVjRWVabFJLaFF1aF8yTWpXLThzZkJ1WTZCNlZwT3c?oc=5",
+   "published_utc": "2026-10-15T10:53:00+00:00",
+   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3fa8d36118a2fe2b"
   },
   {
    "source_id": "gn_jp_investing",
@@ -4884,23 +4919,6 @@
    "live_wire": true,
    "manual": false,
    "id": "02096fe335677394"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YbDdCM0dWdWNvamRaZ2ZWNENRV1ZXNFFFSnIxMEhyejRTVmRtVVVUOHE0a29qbi1ObWNaMFdoZDZuTUJ2MndKZkFyVlA1NmpKemNjX0FUUGFuS0F2RlE?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dd8f23c892dc681"
   },
   {
    "source_id": "yahoo_business",
@@ -51928,23 +51946,6 @@
    "live_wire": false,
    "manual": false,
    "id": "26cc8aa3df915d44"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ keeps watching downside risks of Middle East situation on economy: Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sT3lTUFdCcGhxQVZRdnVxdERhbkNVLW54SG5pQnNMVTNFTkMzTHN3Z1RZanJSeEUzTVZZZU1yd0R5UzFwSnVNR1NGUFc0dVJUOE5ZUmtOQ0ZqZw?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ keeps watching downside risks of Middle East situation on economy: Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4b7f912dd96673b4"
   },
   {
    "source_id": "manual_ia",
