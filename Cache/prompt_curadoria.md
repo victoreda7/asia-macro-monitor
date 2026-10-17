@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T08:12:43.385054+00:00
+Última coleta: 2026-10-17T08:22:41.605252+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1074
-  🇨🇳 China          875
+  🇯🇵 Japão          1073
+  🇨🇳 China          876
   🇹🇼 Taiwan         335
   🇰🇷 Coreia do Sul  716
 
 ## O que já está no feed (não repita)
 
+  - [japan] What’s the likelihood of Yen carry trade reversing?
   - [japan] IMF senior official evaluation: Japan's consumption tax reduction bill
   - [japan] What you can do now about rising mortgage rates
   - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
@@ -24,6 +25,7 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Economic, fiscal policy minister Kiuchi visits war-linked Yasukuni shrine
   - [korea] Trump touts Hyundai's US$560-mln Georgia investment pledge at campaign rally
   - [china] Philippines’ ‘China-free’ manufacturing strategy is a high-risk bet
+  - [china] Opinion | Philippines’ ‘China-free’ manufacturing strategy is a high-risk bet
   - [china] Europe-China Trade Truce Helps Auto Makers — Barron's
   - [japan] The Russo-Japanese War that Ryotaro Shiba did not depict in ``Clouds on the Slope''...Tax increase, Hibiya bur
   - [taiwan] Key facts: TSMC (2330) Q3 record profit; $98B capex to 2028
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] EU urges safeguards against Chinese chemicals, machinery imports
   - [china] China’s CXMT Swings to Profit After Memory Chip Prices Surge
   - [japan] Fiscal System Council proposes use of imported rice for stockpiled rice
-  - [japan] BOJ's Ueda says inflation can't be allowed to rise further
-  - [japan] Bank of Japan Governor maintains interest rate hike stance, keeping a close eye on energy prices and AI demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T08:12:43+00:00",
+      "published_utc": "2026-10-17T08:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
