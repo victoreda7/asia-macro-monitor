@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T08:22:41.605252+00:00
+Última coleta: 2026-10-17T08:32:42.949484+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1073
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Liberal Democratic Party Policy Research Chairman Kobayashi urges many opposition parties to pass consumption 
   - [japan] What’s the likelihood of Yen carry trade reversing?
   - [japan] IMF senior official evaluation: Japan's consumption tax reduction bill
   - [japan] What you can do now about rising mortgage rates
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] The underlying price increase rate is “approaching 2%”; Bank of Japan Governor Ueda says, “We cannot tolerate 
   - [china] EU urges safeguards against Chinese chemicals, machinery imports
   - [china] China’s CXMT Swings to Profit After Memory Chip Prices Surge
-  - [japan] Fiscal System Council proposes use of imported rice for stockpiled rice
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T08:22:41+00:00",
+      "published_utc": "2026-10-17T08:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
