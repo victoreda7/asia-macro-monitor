@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T22:02:42.266904+00:00
+Última coleta: 2026-10-17T22:12:46.208774+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1063
-  🇨🇳 China          877
+  🇨🇳 China          876
   🇹🇼 Taiwan         341
-  🇰🇷 Coreia do Sul  719
+  🇰🇷 Coreia do Sul  720
 
 ## O que já está no feed (não repita)
 
   - [korea] [Base interest rate decision] “Should I raise it three times in a row or hide?”… The Bank of Korea determines 
   - [korea] The base interest rate has been raised continuously, will it take a break this time? October Monetary Policy C
   - [china] In 2027, China's economy will be in a state of "4% growth and defense"...US City predicts, headwinds of export
+  - [korea] “In October and November” … Experts predict interest rate hike to 'hide and hold'
   - [japan] Japan to prohibit untraced gold exports, clamping down on tax evasion
   - [taiwan] Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains
   - [taiwan] Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] EU to propose import curbs on other Chinese sectors, says EU chief
   - [taiwan] DA Davidson maintains Buy rating on Taiwan Semiconductor, $500 price target
   - [japan] US import prices increase; post largest annual gain in more than four years By Reuters
-  - [china] European Commission to propose additional China import curbs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T22:02:42+00:00",
+      "published_utc": "2026-10-17T22:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
