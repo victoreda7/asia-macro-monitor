@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-17T00:52:43.002951+00:00",
- "collected_at_utc": "2026-10-17T00:52:43.002951+00:00",
+ "generated_at_utc": "2026-10-17T01:02:42.334696+00:00",
+ "collected_at_utc": "2026-10-17T01:02:42.334696+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1085,
+  "japan": 1084,
   "china": 871,
-  "taiwan": 333,
+  "taiwan": 334,
   "korea": 711
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.5,
  "sources": [
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -35,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T20:24:41+00:00"
+   "newest": "2026-10-16T15:19:50+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -107,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T20:49:00+00:00"
+   "newest": "2026-10-16T17:38:04+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-15T09:41:57+00:00"
+   "newest": "2026-10-14T11:44:51+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -251,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-16T22:30:02+00:00"
+   "newest": "2026-10-17T00:58:46+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-17T00:45:16+00:00"
+   "newest": "2026-10-17T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -284,6 +276,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-16T18:07:57+00:00"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-17T00:14:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-16T15:17:22+00:00"
+   "newest": "2026-10-17T00:53:22+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Key facts: TSMC (2330) Q3 record profit; $98B capex to 2028",
+   "url": "https://www.tradingview.com/news/tradingview:754985c1c6814:0-key-facts-tsmc-2330-q3-record-profit-98b-capex-to-2028/",
+   "published_utc": "2026-10-17T01:00:00+00:00",
+   "title_original": "Key facts: TSMC (2330) Q3 record profit; $98B capex to 2028",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ac28e75ae96df905"
+  },
   {
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
@@ -51937,24 +51954,6 @@
    "live_wire": false,
    "manual": false,
    "id": "256d3e0fd5274bf6"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ sees risk of inflation overshooting its 2% target",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iVUliQlZYczY4SHVVbGpJQzdTR3JXOEk0UVpYM3N5cFBLOUgzZjZLSkZoaWltTWRYSEp6SVR6QTRhOFB1bDV4RFpMOWh3TFU1RDFBSEk1enpzQQ?oc=5",
-   "published_utc": "2026-09-18T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ sees risk of inflation overshooting its 2% target",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "23b1625d8b3e7a19"
   },
   {
    "source_id": "manual_ia",

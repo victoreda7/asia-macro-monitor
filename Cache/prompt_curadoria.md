@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T00:52:43.002951+00:00
+Última coleta: 2026-10-17T01:02:42.334696+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1085
+  🇯🇵 Japão          1084
   🇨🇳 China          871
-  🇹🇼 Taiwan         333
+  🇹🇼 Taiwan         334
   🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Key facts: TSMC (2330) Q3 record profit; $98B capex to 2028
   - [china] Chinese premier chairs State Council executive meeting
   - [korea] [Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices an
   - [japan] The US budget deficit is 314 trillion yen, the third highest on record due to increased interest payments, etc
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Instinct Bio Technical Company Holdings Inc. (BIOT) Returns To Profit; Revenue Up ~10% YoY in Yen
   - [taiwan] Taiwan Eyes $4 Billion Texas Hub to Supercharge Nvidia's AI Supply Chain
   - [japan] BREAKING NEWS: Stabilizing underlying inflation around 2% is key goal for BOJ: Ueda
-  - [china] Li Auto raises 1.6B Yuan for chip business expansion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T00:52:43+00:00",
+      "published_utc": "2026-10-17T01:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
