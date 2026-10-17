@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-17T01:42:41.792904+00:00
+Última coleta: 2026-10-17T01:52:43.086070+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1081
+  🇯🇵 Japão          1080
   🇨🇳 China          874
   🇹🇼 Taiwan         335
-  🇰🇷 Coreia do Sul  710
+  🇰🇷 Coreia do Sul  711
 
 ## O que já está no feed (não repita)
 
+  - [korea] Trump touts Hyundai's US$560-mln Georgia investment pledge at campaign rally
   - [china] Philippines’ ‘China-free’ manufacturing strategy is a high-risk bet
   - [china] Europe-China Trade Truce Helps Auto Makers — Barron's
   - [japan] The Russo-Japanese War that Ryotaro Shiba did not depict in ``Clouds on the Slope''...Tax increase, Hibiya bur
@@ -41,6 +42,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda will continue to raise interest rates, 2% price stability is more important
   - [japan] TSMC's 3-nanometer semiconductor production plan in Kumamoto approved by the government
   - [korea] Seoul stocks rebound over 2% on eased chip rout, Fed bets
+  - [taiwan] Legislature passes NHI senior subsidies
   - [china] China's central bank to further open its financial markets to foreigners, chief says
   - [china] China seeks tighter controls on AI-related exports amid rivalry with US
   - [japan] The underlying price increase rate is “approaching 2%”; Bank of Japan Governor Ueda says, “We cannot tolerate 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda calls upward price hike ``unacceptable'', approaches 2% target, continues rate hik
   - [japan] Decision on 2% underlying inflation rate will be thoroughly discussed at October meeting; economy is in line w
   - [japan] BOJ Must Ensure Underlying Inflation Doesn't Go Above 2%, Ueda Says
-  - [china] Shenzhen Techwinsemi Sees 9-Month Net Profit At 8.7 Billion Yuan-9.0 Billion Yuan
-  - [japan] Instinct Bio Returns to Profit and Grows Revenue Nearly 10% in Yen Terms in First Half of Fiscal 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-17T01:42:42+00:00",
+      "published_utc": "2026-10-17T01:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
