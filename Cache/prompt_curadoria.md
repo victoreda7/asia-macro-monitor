@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T20:22:42.055885+00:00
-Total: 2991 manchetes
+Última coleta: 2026-10-18T20:32:44.664802+00:00
+Total: 2992 manchetes
 
-  🇯🇵 Japão          1019
+  🇯🇵 Japão          1020
   🇨🇳 China          886
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction related bill to be debated tomorrow, debate between ruling and opposition parties in
   - [japan] NRI's Rs.3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT 
   - [china] China’s proposed solar curbs raise stakes for overseas manufacturers
   - [korea] Samsung, SK hynix suffer worst weekly stock rout since 2008
@@ -56,7 +57,6 @@ Total: 2991 manchetes
   - [korea] Samsung invests $22.8m in Texas workforce as TSMC eyes entry
   - [korea] The Bank of Korea forecasts to freeze the base interest rate by 3% on the 22nd... Possibility of further incre
   - [china] PBOC Deputy Urges Private Role in Sovereign Debt Restructuring
-  - [china] China's September refined fuel exports surge amid Iran war, diesel exports more than triple
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2991 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T20:22:42+00:00",
+      "published_utc": "2026-10-18T20:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
