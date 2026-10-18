@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T14:12:43.062015+00:00
+Última coleta: 2026-10-18T14:22:41.491112+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1033
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung, SK hynix suffer worst weekly stock rout since 2008
   - [korea] “The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”
   - [korea] Bank of Korea decides base interest rate this week...market expected to freeze
   - [korea] Samsung will use TSMC technology for Nvidia's next-generation memory chips, according to Seoul newspaper
@@ -46,7 +47,6 @@ Total: 3000 manchetes
   - [japan] This is the V-shaped recovery! The last trump card "Night Ticket Strategy" is the savior of Jangria Okinawa, w
   - [china] China proposes export controls on solar-manufacturing technologies
   - [korea] The base interest rate has risen repeatedly... Expected to take a breather in October
-  - [korea] Samsung, SK hynix suffer worst weekly stock rout since 2008
   - [china] PBOC Deputy Calls for Greater Private Involvement in Sovereign Debt Restructuring
   - [korea] Samsung invests $22.8m in Texas workforce as TSMC eyes entry
   - [korea] The Bank of Korea forecasts to freeze the base interest rate by 3% on the 22nd... Possibility of further incre
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T14:12:43+00:00",
+      "published_utc": "2026-10-18T14:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

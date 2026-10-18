@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-18T14:12:43.062015+00:00",
- "collected_at_utc": "2026-10-18T14:12:43.062015+00:00",
+ "generated_at_utc": "2026-10-18T14:22:41.491112+00:00",
+ "collected_at_utc": "2026-10-18T14:22:41.491112+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 342,
   "korea": 740
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
+  {
+   "source_id": "gn_cn_xinhua",
+   "name": "Xinhua / 新华",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-18T13:36:36+00:00"
+   "newest": "2026-10-18T14:00:30+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +275,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-18T14:00:00+00:00"
+   "newest": "2026-10-18T14:20:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,15 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T09:21:47+00:00"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "name": "Xinhua / 新华",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-17T00:14:15+00:00"
+   "newest": "2026-10-18T12:23:06+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Samsung, SK hynix suffer worst weekly stock rout since 2008",
+   "url": "https://www.koreaherald.com/article/10906189",
+   "published_utc": "2026-10-18T14:34:58+00:00",
+   "title_original": "Samsung, SK hynix suffer worst weekly stock rout since 2008",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8bf969005584c024"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "한국경제",
@@ -841,23 +858,6 @@
    "live_wire": false,
    "manual": false,
    "id": "865c39aabeabd2ab"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Samsung, SK hynix suffer worst weekly stock rout since 2008",
-   "url": "https://www.koreaherald.com/article/10906189",
-   "published_utc": "2026-10-18T05:42:40.306419+00:00",
-   "title_original": "Samsung, SK hynix suffer worst weekly stock rout since 2008",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8bf969005584c024"
   },
   {
    "source_id": "tradingview_live",
