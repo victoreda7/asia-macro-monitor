@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-18T08:52:42.108249+00:00",
- "collected_at_utc": "2026-10-18T08:52:42.108249+00:00",
+ "generated_at_utc": "2026-10-18T09:02:42.245013+00:00",
+ "collected_at_utc": "2026-10-18T09:02:42.245013+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1044,
+  "japan": 1043,
   "china": 882,
   "taiwan": 340,
-  "korea": 734
+  "korea": 735
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.8,
  "sources": [
-  {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -83,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-18T08:16:06+00:00"
+   "newest": "2026-10-18T08:44:37+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-18T08:06:30+00:00"
+   "newest": "2026-10-18T08:44:37+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-18T08:51:41+00:00"
+   "newest": "2026-10-18T08:56:49+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T06:20:49+00:00"
+   "newest": "2026-10-18T03:19:43+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -334,6 +326,14 @@
    "newest": "2026-10-18T16:00:00+09:00"
   },
   {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-18T08:44:55+00:00"
+  },
+  {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Explosive Says Units' Jan-Sept New Blasting Services Contracts At 12 Bln Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46400V:0-explosive-says-units-jan-sept-new-blasting-services-contracts-at-12-bln-yuan/",
+   "published_utc": "2026-10-18T08:56:49+00:00",
+   "title_original": "Explosive Says Units' Jan-Sept New Blasting Services Contracts At 12 Bln Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cd4eb1f60b325a4b"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -359,6 +376,24 @@
    "live_wire": false,
    "manual": false,
    "id": "2009b25a64d4d611"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Controversy over the semiconductor supercycle \"peakout\" is heating up ahead of the Bank of Korea's M..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acUJ0LS1meHdubUxabGNxSmF5TXlPM3I1YUhFN1JWUjhwUUtSUS04bjFQRnZ0RW9OcDBENFg1ZmFrMVNBU1FGV0ZIRkF1VXNTSXc?oc=5",
+   "published_utc": "2026-10-18T08:44:48+00:00",
+   "title_original": "Controversy over the semiconductor supercycle \"peakout\" is heating up ahead of the Bank of Korea's M..",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e2fe32c82c1b64e1"
   },
   {
    "source_id": "tradingview_live",
@@ -7602,7 +7637,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "Times data said | The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEWDVFS2lYSU80UFYyZ0p2OFJZb290cDNoYlB6RGhaWkNyZGNoSGxUNzZoX2xyQUpCVFI5QUNuZHZUeGNCVEJnUE01Zkl5NUM2allZRjdTZW5CNEZ2YzlGYlRCMTJzdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jN3FFZDBiUjJsd0RTQ1QzMWZWd3kzV3lFZ3JXVzB6UFFqNjZnM1VEbkZtWnJvOVM4RDF3TEdfVnJYajBYTjhMOURkTS05S1lVcEI1b3FBYmhnMlM5SDZQRlNHSjY?oc=5",
    "published_utc": "2026-10-14T18:49:02+00:00",
    "title_original": "时报数说 | 央行将开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -7614,7 +7649,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a94a6f706c5528a4"
+   "id": "892165ae71585367"
   },
   {
    "source_id": "investing_live",
@@ -38505,6 +38540,23 @@
    "id": "73c4c3502085914c"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0ZUakhzWWJoellmNEswN0xTNGxwMVMzRl9RNlN5SXVrbzJ2TVV2RkxEWk5VX1dnT3JxRS1BV3FXSVY4SHNzZ2d6eTFBQmR6T2xBV05ld2JlcVR3UFA0eXdHV3ExRlBORDJPTFdpZ21pOUJhamhkdUdnZWFvWVRRd25tZC1BZWs4QjRrZEx6WXpqeG9ocUNHUmNyX0E4T3ItVmQ3NXFkYy1ReURjXzA2aG5yUWVLdFh5eDFJaA?oc=5",
+   "published_utc": "2026-09-28T10:20:00+00:00",
+   "title_original": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "92d721f54bcd14ff"
+  },
+  {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
    "title_en": "Citi sees Japan yen intervention likely near 160 per dollar",
@@ -39095,23 +39147,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dec6c74f8aaf24a0"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0ZUakhzWWJoellmNEswN0xTNGxwMVMzRl9RNlN5SXVrbzJ2TVV2RkxEWk5VX1dnT3JxRS1BV3FXSVY4SHNzZ2d6eTFBQmR6T2xBV05ld2JlcVR3UFA0eXdHV3ExRlBORDJPTFdpZ21pOUJhamhkdUdnZWFvWVRRd25tZC1BZWs4QjRrZEx6WXpqeG9ocUNHUmNyX0E4T3ItVmQ3NXFkYy1ReURjXzA2aG5yUWVLdFh5eDFJaA?oc=5",
-   "published_utc": "2026-09-28T07:00:00+00:00",
-   "title_original": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "92d721f54bcd14ff"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51910,41 +51945,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3ce8d0f8cc79450c"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The Bank of Japan raises the policy interest rate to 1.25%, and the yen temporarily depreciates to 158 yen after Governor Ueda's press conference (FNN Prime Online (Fuji TV))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Md24wdlFWU3phbFVCUlJJNThjRW5jejM5a3dUQTFCWTc2V013NXU1alNsRG1IVlFKX3ZCUlp4ZVZDRlYwNVBzV203WjFpUjhPYXNhUnNnWFVIMHltYnFqTjU3S3N0aURrOXJDNTlNN0FiV000WmVXVDJzSzgwZ1E?oc=5",
-   "published_utc": "2026-09-18T15:15:38+00:00",
-   "title_original": "日銀が政策金利を1.25％に引き上げ 植田総裁会見後には一時158円まで円安進む（FNNプライムオンライン（フジテレビ系））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5217c8f139ac8e31"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China says it will monitor EU moves on Chinese hybrid cars, opposes 'voluntary limit' on exports",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT09Jd0tFOEZkOFllMmVadUwtWDY0RDctRzU2VXNiYUszaHRydVhSNEUwUXBpRFp6OERaOTR2dk5SY3lsNExxUnMyYWZNdHc5bG1YcjJrVWVCWmpIZFhXYk9QcXh4NllJN1pOdlFiUk11cllCWFdWMVkwS3dwR1NYeHluOERMbUFWbzI0ZmpBVF9Lb1Yya1FwYl9zd3RSZklOTkphM0w5RklEa1VPUUFNajlRSEFDZFFyNGxxTS15Vk5KQnVIU0E?oc=5",
-   "published_utc": "2026-09-18T15:09:43+00:00",
-   "title_original": "China says it will monitor EU moves on Chinese hybrid cars, opposes 'voluntary limit' on exports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3accde661f2ddd35"
   },
   {
    "source_id": "manual_ia",
