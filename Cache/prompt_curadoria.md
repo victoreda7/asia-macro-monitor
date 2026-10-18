@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T07:42:41.224570+00:00
+Última coleta: 2026-10-18T07:52:41.409496+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1049
-  🇨🇳 China          878
+  🇯🇵 Japão          1048
+  🇨🇳 China          879
   🇹🇼 Taiwan         341
   🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [china] Galaxycore Plans To Buy Back Shares For 150-300 Mln Yuan
   - [china] China's solar panel exports extend slump in September
   - [japan] This is the V-shaped recovery! The last trump card "Night Ticket Strategy" is the savior of Jangria Okinawa, w
   - [china] China proposes export controls on solar-manufacturing technologies
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] What’s the likelihood of Yen carry trade reversing?
   - [japan] IMF senior official evaluation: Japan's consumption tax reduction bill
   - [japan] What you can do now about rising mortgage rates
-  - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T07:42:41+00:00",
+      "published_utc": "2026-10-18T07:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
