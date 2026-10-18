@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T08:22:43.006897+00:00
+Última coleta: 2026-10-18T08:32:41.851411+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1047
+  🇯🇵 Japão          1046
   🇨🇳 China          881
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [korea] The balance of group loans increased while jeonse loans decreased amid the government's tightening o..
   - [china] Wuxi Hyatech To Issue Convertible Bond Raising 600 Mln Yuan For Projects
   - [china] China proposes export curbs on 12 key solar manufacturing technologies
   - [japan] BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus
   - [china] China central bank chief supports closer IMF surveillance of fiscal, spillover risks
   - [taiwan] Fees proposed for new Qilai Mountain Cabin, Paiyun Lodge rate hike
-  - [japan] The Bank of Japan's Kochi branch maintained its judgment from the previous month that the prefecture's economy
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T08:22:43+00:00",
+      "published_utc": "2026-10-18T08:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
