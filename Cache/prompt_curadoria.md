@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T23:25:34.594579+00:00
+Última coleta: 2026-10-18T23:32:42.428390+00:00
 Total: 2983 manchetes
 
   🇯🇵 Japão          1009
-  🇨🇳 China          886
-  🇹🇼 Taiwan         342
+  🇨🇳 China          885
+  🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  746
 
 ## O que já está no feed (não repita)
 
-  - [china] China's Q3 GDP growth set to pick up as exports power ahead
+  - [china] China’s Q3 GDP growth set to pick up as exports power ahead
+  - [taiwan] Weekly Recap: Q3 revenue surge at TSMC and Arizona fab mass production in Q3 2027
   - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
   - [korea] Chey Tae-won: “If I went back to my 20s, I wouldn’t have gone into semiconductors” ... What would his startup 
   - [china] How China made climate resilience part of its economic growth strategy
@@ -37,6 +38,7 @@ Total: 2983 manchetes
   - [japan] Yokohama mayoral election exit poll results
   - [china] TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports
   - [japan] Yokohama mayoral election vote counting and exit poll election information is here [Breaking news]
+  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [china] Huizhou China Eagle To Issue 47.01 Mln Shares At 14.89 Yuan Apiece In Share Placement
   - [korea] Samsung Electronics to Use TSMC 3nm Process for NVHBM Base Dies at Nvidia's Request
   - [china] Explosive Says Units' Jan-Sept New Blasting Services Contracts At 12 Bln Yuan
@@ -55,8 +57,6 @@ Total: 2983 manchetes
   - [china] Montage Technology Plans To Buy Back Shares For Up To 500 Mln Yuan
   - [china] Galaxycore Plans To Buy Back Shares For 150-300 Mln Yuan
   - [korea] The Bank of Korea decides on the base interest rate on the 22nd... Take a breather
-  - [korea] Foreign exchange prices are displayed at a currency exchange in Myeong-dong, Jung-gu, Seoul on the 1..
-  - [china] China's solar panel exports extend slump in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2983 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T23:25:34+00:00",
+      "published_utc": "2026-10-18T23:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
