@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T09:12:41.614902+00:00
+Última coleta: 2026-10-18T09:22:43.316686+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1042
-  🇨🇳 China          882
-  🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  736
+  🇯🇵 Japão          1039
+  🇨🇳 China          883
+  🇹🇼 Taiwan         341
+  🇰🇷 Coreia do Sul  737
 
 ## O que já está no feed (não repita)
 
@@ -39,11 +39,13 @@ Total: 3000 manchetes
   - [korea] Samsung, SK hynix suffer worst weekly stock rout since 2008
   - [china] PBOC Deputy Calls for Greater Private Involvement in Sovereign Debt Restructuring
   - [korea] Samsung invests $22.8m in Texas workforce as TSMC eyes entry
+  - [china] PBOC Deputy Urges Private Role in Sovereign Debt Restructuring
   - [china] China's September refined fuel exports surge amid Iran war, diesel exports more than triple
   - [korea] The Monetary Policy Committee has raised the base interest rate in succession, with a freeze expected this mon
   - [china] China's September grain, sugar and pork imports
   - [japan] Ruling and opposition party leaders discuss consumption tax reduction bill NHK Sunday debate
   - [korea] What To Expect From BOK Financial’s (BOKF) Q3 Earnings
+  - [korea] [Preview of the Monetary Policy Committee] Bank of Korea freezes this month... November's raise card remains
   - [korea] [Preview] Bank of Korea freezes this month... November's raise card remains
   - [china] China's CXMT pushes into next-gen DRAM, but can it compete on cost?
   - [korea] The base interest rate has been raised repeatedly... A decision by the Monetary Policy Committee is expected t
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] [Base interest rate decision] “Should I raise it three times in a row or hide?”… The Bank of Korea determines 
   - [korea] The base interest rate has been raised continuously, will it take a break this time? October Monetary Policy C
   - [china] In 2027, China's economy will be in a state of "4% growth and defense"...US City predicts, headwinds of export
-  - [korea] The Bank of Korea has repeatedly raised interest rates... The outlook for this week's Monetary Policy Committe
-  - [korea] Will the Bank of Korea be open to raising interest rates? Treasury bond rebound alert
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T09:12:41+00:00",
+      "published_utc": "2026-10-18T09:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
