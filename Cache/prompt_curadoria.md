@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T09:42:42.252537+00:00
+Última coleta: 2026-10-18T09:52:44.117223+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1039
+  🇯🇵 Japão          1038
   🇨🇳 China          883
-  🇹🇼 Taiwan         341
-  🇰🇷 Coreia do Sul  737
+  🇹🇼 Taiwan         340
+  🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea decides base interest rate this week...market expected to freeze
   - [china] Huizhou China Eagle To Issue 47.01 Mln Shares At 14.89 Yuan Apiece In Share Placement
   - [korea] Samsung Electronics to Use TSMC 3nm Process for NVHBM Base Dies at Nvidia's Request
   - [china] Explosive Says Units' Jan-Sept New Blasting Services Contracts At 12 Bln Yuan
   - [korea] BOK to pause before November hike, rates to peak at 3.50%, survey shows
   - [korea] Controversy over the semiconductor supercycle "peakout" is heating up ahead of the Bank of Korea's M..
+  - [korea] “The Bank of Korea will freeze the base interest rate in October…likely to raise it in November.”
   - [china] Hygon Information Plans To Buy Back Shares For Up To 800 Mln Yuan
   - [korea] The balance of group loans increased while jeonse loans decreased amid the government's tightening o..
   - [korea] [Photo] Strengthening global financial supply chains
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] The US budget deficit approaches $2 trillion...the largest since the coronavirus pandemic (JoongAng Ilbo Japan
   - [korea] As the NPU market, a low-power artificial intelligence (AI) semiconductor, grows, leading Korean con..
   - [korea] [Base interest rate decision] “Should I raise it three times in a row or hide?”… The Bank of Korea determines 
-  - [korea] The base interest rate has been raised continuously, will it take a break this time? October Monetary Policy C
-  - [china] In 2027, China's economy will be in a state of "4% growth and defense"...US City predicts, headwinds of export
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T09:42:42+00:00",
+      "published_utc": "2026-10-18T09:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
