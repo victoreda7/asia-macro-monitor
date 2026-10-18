@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-18T22:42:41.700780+00:00",
- "collected_at_utc": "2026-10-18T22:42:41.700780+00:00",
+ "generated_at_utc": "2026-10-18T22:52:42.201583+00:00",
+ "collected_at_utc": "2026-10-18T22:52:42.201583+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2986,
+ "count": 2983,
  "by_region": {
-  "japan": 1010,
-  "china": 887,
+  "japan": 1009,
+  "china": 885,
   "taiwan": 343,
   "korea": 746
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-18T22:04:39+00:00"
+   "newest": "2026-10-18T22:24:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-18T18:16:24+00:00"
+   "newest": "2026-10-18T22:24:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T05:37:47+09:00"
+   "newest": "2026-10-19T07:48:16+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-18T22:35:29+00:00"
+   "newest": "2026-10-18T22:46:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
+   "url": "https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4956113",
+   "published_utc": "2026-10-18T22:24:38+00:00",
+   "title_original": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e2212c486e9d03a5"
+  },
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
@@ -1716,24 +1734,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c5c155dcdec65072"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-   "url": "https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4955234",
-   "published_utc": "2026-10-17T04:48:23+00:00",
-   "title_original": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c838339d1af1c5f2"
   },
   {
    "source_id": "tradingview_live",
@@ -51640,57 +51640,6 @@
    "live_wire": false,
    "manual": false,
    "id": "407a2eec56d04f86"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "US, China discuss cutting tariffs on US LNG ahead of Xi visit",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHd3M3c3TzBSSEFYVUtqd1dwYVE2MHNkYzh2NlBzZkZCTzkyM0FaMTFobVo4Q19HSldIeGREU3BWSmNlTFJfLVNObVdYbFN3bFZrd2o0cl95WkZFM25lY1otSVB5Zl9YcVRCMDdaeE8zbUoxTWVrTU9pVnlZTWR3b1czakd1ZUFqM0RscUxta1ZrbkwwY0FUYUg4NFluNEtzclRBbzdITE15dw?oc=5",
-   "published_utc": "2026-09-18T22:51:03+00:00",
-   "title_original": "US, China discuss cutting tariffs on US LNG ahead of Xi visit",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "53818e385f5fdb94"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Trump signs bill targeting China’s Russia energy imports days before Xi’s US visit",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzJKUGVCTW9DdGh0dURkZnMxYlY1dGNnX0wtMzZxd3RBbFFkT1dhSXhPckJQaEIyMjl3R0tqdndma2pUcmNzeXd5ZUpQc20tck9USlBRT1VtUGhjemhqblF2RXU5eGFaVGdWLUE0SXpRR2lsUGtUMDR3SkI1bF9mX2xiNmNQMnJ5OUZDYmI0LVRJY2Q3c3h6OGxNTGMtd2E3TVl1SHhpTjRORVFSRlFvNXB4T3BrN09xenpxTng3dTBYOFAyNVcwUmpnckF4TG1zY092WkxEeVHSAdgBQVVfeXFMTUxVOC1KRnhheTR2WlE4TjJva0VuX3JqMjY5aVFHSEV0cGd6M3ZhdDJZVzF5RU5XTzBOaVJQZEVFZXJ2NEQ1RHp0RW5vWHdKblIyQWFXQzMzbEthOGwtY0NESmc1LWN3NHNHckdaSUpkMFFHWTNLdUcxVEktUjhsSUVRQ3hDX2p6LUZQb0dneVh6eHdVT293N3pqN1lNY3JtblZXTGpEbTc3ZzFNaHdfeWEzYlhONDU1NnZNNzg4ZjhjTUtnNEJLRUZTSVpwcWp6WHFKSGZLc0R0?oc=5",
-   "published_utc": "2026-09-18T22:50:05+00:00",
-   "title_original": "Trump signs bill targeting China’s Russia energy imports days before Xi’s US visit",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5da79bb9c528f9b"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "Mortgage loans: Presence among major banks and regional banks",
-   "url": "https://news.yahoo.co.jp/pickup/6595762?source=rss",
-   "published_utc": "2026-09-18T22:45:54+00:00",
-   "title_original": "住宅ローン 大手行・地銀に存在感",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "51feb1d906b25be5"
   },
   {
    "source_id": "manual_ia",

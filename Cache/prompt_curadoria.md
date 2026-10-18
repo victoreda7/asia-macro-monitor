@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T22:42:41.700780+00:00
-Total: 2986 manchetes
+Última coleta: 2026-10-18T22:52:42.201583+00:00
+Total: 2983 manchetes
 
-  🇯🇵 Japão          1010
-  🇨🇳 China          887
+  🇯🇵 Japão          1009
+  🇨🇳 China          885
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  746
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
   - [korea] Chey Tae-won: “If I went back to my 20s, I wouldn’t have gone into semiconductors” ... What would his startup 
   - [china] How China made climate resilience part of its economic growth strategy
   - [japan] An uneasy government and riots in France, etc. = Bank of Japan's uneasy jinx (Hirotoshi Kubozono) - Expert
@@ -56,7 +57,6 @@ Total: 2986 manchetes
   - [korea] Foreign exchange prices are displayed at a currency exchange in Myeong-dong, Jung-gu, Seoul on the 1..
   - [china] China's solar panel exports extend slump in September
   - [japan] This is the V-shaped recovery! The last trump card "Night Ticket Strategy" is the savior of Jangria Okinawa, w
-  - [china] China proposes export controls on solar-manufacturing technologies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2986 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T22:42:42+00:00",
+      "published_utc": "2026-10-18T22:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
