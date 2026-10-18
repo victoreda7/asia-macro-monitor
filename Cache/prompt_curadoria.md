@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T06:42:43.491134+00:00
+Última coleta: 2026-10-18T06:52:42.317003+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1052
-  🇨🇳 China          876
+  🇯🇵 Japão          1051
+  🇨🇳 China          877
   🇹🇼 Taiwan         341
   🇰🇷 Coreia do Sul  731
 
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [china] China proposes export controls on solar-manufacturing technologies
   - [korea] Samsung, SK hynix suffer worst weekly stock rout since 2008
+  - [china] PBOC Deputy Calls for Greater Private Involvement in Sovereign Debt Restructuring
   - [korea] Samsung invests $22.8m in Texas workforce as TSMC eyes entry
   - [china] China's September refined fuel exports surge amid Iran war, diesel exports more than triple
   - [korea] The Monetary Policy Committee has raised the base interest rate in succession, with a freeze expected this mon
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3243355.6, Implies 155% Upside
   - [japan] BREAKING NEWS: Economic, fiscal policy minister Kiuchi visits war-linked Yasukuni shrine
   - [korea] Trump touts Hyundai's US$560-mln Georgia investment pledge at campaign rally
-  - [china] Philippines’ ‘China-free’ manufacturing strategy is a high-risk bet
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T06:42:43+00:00",
+      "published_utc": "2026-10-18T06:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

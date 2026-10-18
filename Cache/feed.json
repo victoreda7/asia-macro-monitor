@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-18T06:42:43.491134+00:00",
- "collected_at_utc": "2026-10-18T06:42:43.491134+00:00",
+ "generated_at_utc": "2026-10-18T06:52:42.317003+00:00",
+ "collected_at_utc": "2026-10-18T06:52:42.317003+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1052,
-  "china": 876,
+  "japan": 1051,
+  "china": 877,
   "taiwan": 341,
   "korea": 731
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T01:00:06+00:00"
+   "newest": "2026-10-18T03:00:07+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-18T06:33:26+00:00"
+   "newest": "2026-10-18T06:51:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -377,6 +377,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8bf969005584c024"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "PBOC Deputy Calls for Greater Private Involvement in Sovereign Debt Restructuring",
+   "url": "https://www.tradingview.com/news/binance_news:40d60264a094b:0-pboc-deputy-calls-for-greater-private-involvement-in-sovereign-debt-restructuring/",
+   "published_utc": "2026-10-18T05:16:06+00:00",
+   "title_original": "PBOC Deputy Calls for Greater Private Involvement in Sovereign Debt Restructuring",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b5b2915ab4f11603"
   },
   {
    "source_id": "korea_herald_biz",
@@ -520,7 +538,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "The base interest rate has been raised repeatedly... A decision by the Monetary Policy Committee is expected this week.",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PU2FIcjhlR2cxeWkweTY1aE1BRUs4ZGhyV3VsMkdVRy1pWkZHQ3oxeUxIUVVKODcxQ3VKM1ZsMkJlb3hXanpfaTNwazRlbnc2QVl4cHRxVF96OUowS3c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYUTVYd3dqR3JWYUw0alhobVdrWGF3MW8wSnFNQU1HOHF1eDVTTzcyc0FWdnRnZ0FQNzFqa2pXWG85WGRSMVkyZ3ByOGN2d3VPNzdvUDg4RjU3eWZpQkdiTGVYU25qWGF4NXIwTUM5QUFEcmJSUXc?oc=5",
    "published_utc": "2026-10-18T02:11:00+00:00",
    "title_original": "연거푸 인상한 기준금리...이번 주 금통위 결정 촉각",
    "region": "korea",
@@ -532,7 +550,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f6fc73f61ae158"
+   "id": "7e1914c6f7b4c73c"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51932,23 +51950,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ea8ae6a8b90f788f"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Angle: Bank of Japan is wary of continued accommodative financial environment; “flexible response” phase continues (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WaEhLc18xODJ2Wlc4M2NneDNWbXZDWnlVeG1xWnNqYURBZE52cTI4bTRDN2gzYXFwVV9xcmp1c1E4U1E1YTVtR0pNQVlwQ09aaE15YXFvcnZCck9adURVRHRvcWNZMnZEZFkybW9abzJSY2dyVjE5b3pWQTVjVEk?oc=5",
-   "published_utc": "2026-09-18T10:44:49+00:00",
-   "title_original": "アングル：日銀、緩和的な金融環境継続に警戒 「機動対応」の局面続く（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f351aefa9c047091"
   },
   {
    "source_id": "manual_ia",
