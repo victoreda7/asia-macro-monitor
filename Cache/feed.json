@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-18T04:12:40.480866+00:00",
- "collected_at_utc": "2026-10-18T04:12:40.480866+00:00",
+ "generated_at_utc": "2026-10-18T04:22:45.267269+00:00",
+ "collected_at_utc": "2026-10-18T04:22:45.267269+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1055,
   "china": 876,
-  "taiwan": 342,
-  "korea": 727
+  "taiwan": 341,
+  "korea": 728
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-18T03:42:23+00:00"
+   "newest": "2026-10-18T04:10:56+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T21:39:44+00:00"
+   "newest": "2026-10-17T17:39:44+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-18T13:02:09+09:00"
+   "newest": "2026-10-18T13:02:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-18T04:00:27+00:00"
+   "newest": "2026-10-18T04:15:29+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T00:18:47+00:00"
+   "newest": "2026-10-17T21:16:56+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,45 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T03:00:00+00:00"
+   "newest": "2026-10-18T04:05:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's September refined fuel exports surge amid Iran war, diesel exports more than triple",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N464005:0-china-s-september-refined-fuel-exports-surge-amid-iran-war-diesel-exports-more-than-triple/",
+   "published_utc": "2026-10-18T04:14:11+00:00",
+   "title_original": "China's September refined fuel exports surge amid Iran war, diesel exports more than triple",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c2473185f687ec32"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "YTN",
+   "title_en": "The Monetary Policy Committee has raised the base interest rate in succession, with a freeze expected this month.",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84M2x5TWc4NXlISVVlNXNEc29lRWEzSUV4NTVpckF0aXRMbzNjWjExTEVlUllJdmpadmFkdXAxOU5MZEtMZXJnVDYyNVFUX0k2WFhtbTg0UkxVM0dFN3c?oc=5",
+   "published_utc": "2026-10-18T04:05:00+00:00",
+   "title_original": "기준금리 연속 인상한 금통위...이번 달 동결 전망도",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "13aace50261eb596"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -23890,6 +23925,23 @@
    "id": "752f6640b89d00e3"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEotV2RsS3BuSnU0bkdIVWN0cEUwUC1EdWdqeHFDcFVLVE1pRGt4cEpBLWhYeHVJRUNLZ0V3bUVQbWVPNDBBQmp3VFVaM1JVcjVMd1RyYkh0di0zWXNFeEFRd3BJUlhWSW1pRTI0TlRIa01Wa3BmSEpfc0hTV25CVzNVVExnUldD?oc=5",
+   "published_utc": "2026-10-06T09:18:34+00:00",
+   "title_original": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "80ec3b16fcf66cc9"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "TSMC evaluates potential Texas investment, sources say",
@@ -24411,23 +24463,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a4dd4c730ff2feee"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEotV2RsS3BuSnU0bkdIVWN0cEUwUC1EdWdqeHFDcFVLVE1pRGt4cEpBLWhYeHVJRUNLZ0V3bUVQbWVPNDBBQmp3VFVaM1JVcjVMd1RyYkh0di0zWXNFeEFRd3BJUlhWSW1pRTI0TlRIa01Wa3BmSEpfc0hTV25CVzNVVExnUldD?oc=5",
-   "published_utc": "2026-10-06T07:00:00+00:00",
-   "title_original": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "80ec3b16fcf66cc9"
   },
   {
    "source_id": "focus_taiwan",
@@ -51913,40 +51948,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f2bc006309794e09"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "US chip toolmaker Forge Nano bets on Taiwan for production: CEO",
-   "url": "https://asia.nikkei.com/editor-s-picks/interview/us-chip-toolmaker-forge-nano-bets-on-taiwan-for-production-ceo",
-   "published_utc": "2026-09-18T09:42:24.245585+00:00",
-   "title_original": "US chip toolmaker Forge Nano bets on Taiwan for production: CEO",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "83fc6a6d1d6c4a38"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Tech Brief (Sept. 18): Huawei Speeds Up AI Chip Roadmap",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUd1MHBzUGlQbUVlYTlSVGdyQ0o0TWhFVVNtVEYtMHlqS2ZscGN6RkswY21nNEc3V3JRNnFnS1ZQdERnaTFnVUg4NGIzTlQwakFJUER5aG9maDZkR1pPeTRsaGNzRWl3X1A2MTZhSnJZbDJlcW90Uko2QWtNcnFjVkdYbUwxanJ0akc2aE93b1JRMFNLbFJqLTZyUEVFSEFhdy1sbUpNVFdzdw?oc=5",
-   "published_utc": "2026-09-18T09:42:00+00:00",
-   "title_original": "Tech Brief (Sept. 18): Huawei Speeds Up AI Chip Roadmap",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5c8b2ec952c0f957"
   },
   {
    "source_id": "manual_ia",
