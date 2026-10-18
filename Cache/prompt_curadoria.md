@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T11:02:42.599863+00:00
+Última coleta: 2026-10-18T11:12:42.130427+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yokohama mayoral election exit poll results
   - [china] TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports
   - [japan] Yokohama mayoral election vote counting and exit poll election information is here [Breaking news]
   - [korea] Bank of Korea decides base interest rate this week...market expected to freeze
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Analysts forecast BOK to hold benchmark rate unchanged at upcoming meeting: poll
   - [korea] "We will expand the export volume of Jeju Samdasoo to 100,000 tons within three years."Kim Do-young
   - [korea] [This week's economy] Will the Bank of Korea continue to raise its base interest rate? Pay attention to produc
-  - [japan] The US budget deficit approaches $2 trillion...the largest since the coronavirus pandemic (JoongAng Ilbo Japan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T11:02:42+00:00",
+      "published_utc": "2026-10-18T11:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
