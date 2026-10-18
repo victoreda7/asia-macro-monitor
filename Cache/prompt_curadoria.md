@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T02:22:42.604527+00:00
+Última coleta: 2026-10-18T02:32:44.292291+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1057
-  🇨🇳 China          876
+  🇨🇳 China          875
   🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  724
+  🇰🇷 Coreia do Sul  725
 
 ## O que já está no feed (não repita)
 
   - [china] China's CXMT pushes into next-gen DRAM, but can it compete on cost?
+  - [korea] The base interest rate has been raised repeatedly... A decision by the Monetary Policy Committee is expected t
   - [korea] Analysts forecast BOK to hold benchmark rate unchanged at upcoming meeting: poll
   - [korea] "We will expand the export volume of Jeju Samdasoo to 100,000 tons within three years."Kim Do-young
   - [korea] [This week's economy] Will the Bank of Korea continue to raise its base interest rate? Pay attention to produc
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Anthropic proposes AI safety bill with strict intervention thresholds - Politico By Investing.com
   - [taiwan] Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?
   - [china] China Proposes Export Controls On 23 AI Technologies Amid U.S. Tech Rivalry
-  - [china] Paraguay’s tech minister defies Beijing sanctions, says Taiwan ties ‘not up for negotiation’
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T02:22:42+00:00",
+      "published_utc": "2026-10-18T02:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
