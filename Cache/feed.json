@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-18T03:22:43.751722+00:00",
- "collected_at_utc": "2026-10-18T03:22:43.751722+00:00",
+ "generated_at_utc": "2026-10-18T03:32:42.008786+00:00",
+ "collected_at_utc": "2026-10-18T03:32:42.008786+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1056,
-  "china": 875,
+  "japan": 1055,
+  "china": 876,
   "taiwan": 342,
   "korea": 727
  },
- "elapsed_s": 31.0,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T12:17:47+00:00"
+   "newest": "2026-10-17T21:39:44+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-18T03:03:49+00:00"
+   "newest": "2026-10-18T03:23:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's September grain, sugar and pork imports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4620GS:0-china-s-september-grain-sugar-and-pork-imports/",
+   "published_utc": "2026-10-18T03:23:11+00:00",
+   "title_original": "China's September grain, sugar and pork imports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e4bc0c76458cab0d"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -51930,24 +51947,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5c8b2ec952c0f957"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Yen Swings as Markets Digest Bank of Japan's Rate Path — 2nd Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20260918002027:0-yen-swings-as-markets-digest-bank-of-japan-s-rate-path-2nd-update/",
-   "published_utc": "2026-09-18T09:37:00+00:00",
-   "title_original": "Yen Swings as Markets Digest Bank of Japan's Rate Path — 2nd Update",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "30a32bf5ad196201"
   },
   {
    "source_id": "manual_ia",

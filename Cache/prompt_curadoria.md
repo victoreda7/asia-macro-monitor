@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T03:22:43.751722+00:00
+Última coleta: 2026-10-18T03:32:42.008786+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1056
-  🇨🇳 China          875
+  🇯🇵 Japão          1055
+  🇨🇳 China          876
   🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
+  - [china] China's September grain, sugar and pork imports
   - [japan] Ruling and opposition party leaders discuss consumption tax reduction bill NHK Sunday debate
   - [korea] What To Expect From BOK Financial’s (BOKF) Q3 Earnings
   - [korea] [Preview] Bank of Korea freezes this month... November's raise card remains
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] The Russo-Japanese War that Ryotaro Shiba did not depict in ``Clouds on the Slope''...Tax increase, Hibiya bur
   - [taiwan] Key facts: TSMC (2330) Q3 record profit; $98B capex to 2028
   - [china] Chinese premier chairs State Council executive meeting
-  - [korea] [Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices an
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T03:22:43+00:00",
+      "published_utc": "2026-10-18T03:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
