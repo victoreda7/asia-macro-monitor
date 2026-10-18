@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T21:02:41.985178+00:00
-Total: 2989 manchetes
+Última coleta: 2026-10-18T21:12:43.488419+00:00
+Total: 2992 manchetes
 
-  🇯🇵 Japão          1015
+  🇯🇵 Japão          1018
   🇨🇳 China          886
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  745
 
 ## O que já está no feed (não repita)
 
+  - [japan] An uneasy government and riots in France, etc. = Bank of Japan's uneasy jinx (Hirotoshi Kubozono) - Expert
+  - [japan] <Challenging the two powerhouses TOTO and LIXIL> The "two changes" that have enabled Takara Standard to make s
+  - [japan] Three traps that prevent you from assuming that the Bank of Japan will continue to raise interest rates becaus
   - [japan] Consumption tax reduction related bill to be debated tomorrow, debate between ruling and opposition parties in
   - [japan] NRI's Rs.3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT 
   - [china] China’s proposed solar curbs raise stakes for overseas manufacturers
@@ -54,9 +57,6 @@ Total: 2989 manchetes
   - [china] China proposes export controls on solar-manufacturing technologies
   - [korea] The base interest rate has risen repeatedly... Expected to take a breather in October
   - [china] PBOC Deputy Calls for Greater Private Involvement in Sovereign Debt Restructuring
-  - [korea] Samsung invests $22.8m in Texas workforce as TSMC eyes entry
-  - [korea] The Bank of Korea forecasts to freeze the base interest rate by 3% on the 22nd... Possibility of further incre
-  - [china] PBOC Deputy Urges Private Role in Sovereign Debt Restructuring
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2989 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T21:02:42+00:00",
+      "published_utc": "2026-10-18T21:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
