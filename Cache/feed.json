@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-18T04:22:45.267269+00:00",
- "collected_at_utc": "2026-10-18T04:22:45.267269+00:00",
+ "generated_at_utc": "2026-10-18T04:32:42.246215+00:00",
+ "collected_at_utc": "2026-10-18T04:32:42.246215+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,15 +11,15 @@
   "taiwan": 341,
   "korea": 728
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 51,
-   "error": "",
-   "newest": "2026-10-16T17:00:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T17:39:44+00:00"
+   "newest": "2026-10-17T21:39:44+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -1562,8 +1562,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -1577,7 +1577,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -4177,8 +4177,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -4192,7 +4192,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -4812,8 +4812,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -4828,7 +4828,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_jp_investing",
@@ -23925,23 +23925,6 @@
    "id": "752f6640b89d00e3"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEotV2RsS3BuSnU0bkdIVWN0cEUwUC1EdWdqeHFDcFVLVE1pRGt4cEpBLWhYeHVJRUNLZ0V3bUVQbWVPNDBBQmp3VFVaM1JVcjVMd1RyYkh0di0zWXNFeEFRd3BJUlhWSW1pRTI0TlRIa01Wa3BmSEpfc0hTV25CVzNVVExnUldD?oc=5",
-   "published_utc": "2026-10-06T09:18:34+00:00",
-   "title_original": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "80ec3b16fcf66cc9"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "TSMC evaluates potential Texas investment, sources say",
@@ -24463,6 +24446,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a4dd4c730ff2feee"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEotV2RsS3BuSnU0bkdIVWN0cEUwUC1EdWdqeHFDcFVLVE1pRGt4cEpBLWhYeHVJRUNLZ0V3bUVQbWVPNDBBQmp3VFVaM1JVcjVMd1RyYkh0di0zWXNFeEFRd3BJUlhWSW1pRTI0TlRIa01Wa3BmSEpfc0hTV25CVzNVVExnUldD?oc=5",
+   "published_utc": "2026-10-06T07:00:00+00:00",
+   "title_original": "TSMC Texas-Terafab buzz drives Taiwan contractors to move fast",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "80ec3b16fcf66cc9"
   },
   {
    "source_id": "focus_taiwan",
