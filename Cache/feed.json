@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-18T00:52:41.084777+00:00",
- "collected_at_utc": "2026-10-18T00:52:41.084777+00:00",
+ "generated_at_utc": "2026-10-18T01:02:43.792260+00:00",
+ "collected_at_utc": "2026-10-18T01:02:43.792260+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1060,
+  "japan": 1059,
   "china": 876,
   "taiwan": 342,
-  "korea": 722
+  "korea": 723
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-18T00:17:34+00:00"
+   "newest": "2026-10-18T00:39:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-18T09:00:00+09:00"
+   "newest": "2026-10-18T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,29 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T21:08:00+00:00"
+   "newest": "2026-10-18T00:46:47+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스1",
+   "title_en": "[This week's economy] Will the Bank of Korea continue to raise its base interest rate? Pay attention to producer prices",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FeEV4bmlGeWtNUWl5dGswVTkzV1pKa3h2NXRhcGl2ZEplMDNiTmpibHJ4Wi1wc0RJczc0VmF0MkQ3akFxRTl5cHRRZGdFMUdDLU1IRQ?oc=5",
+   "published_utc": "2026-10-18T00:46:47+00:00",
+   "title_original": "[이번주 경제] 한은, 기준금리 인상 이어갈까…생산자물가도 주목",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "activity"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "451e8ac1d1c8d7e9"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -51929,24 +51948,6 @@
    "live_wire": true,
    "manual": false,
    "id": "70c0af1212997dcb"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Governor press conference pointing out changes in policy status: Is he cautious about significant or continuous interest rate hikes? (NRI researcher's commentary on current events)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93aFJZeEs3Wkdrc1o5YXFOUlp0YlctUzJZZ2ZxS0VSelA1RGdDYm13ZzA3a3NrRF9KZ3ZxNC02Z0pnc1d4X2tmUVRjR01tZjE0UWlXejlsZjRiTmlBZy1sNlNYdzZNN3lFVjh1R3FtV1EwZWRiTkZTWDJHSU40STA?oc=5",
-   "published_utc": "2026-09-18T09:05:21+00:00",
-   "title_original": "政策の局面変化を指摘した日銀総裁記者会見：大幅利上げ・連続利上げには慎重か（NRI研究員の時事解説）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "be9f915c7f24951b"
   },
   {
    "source_id": "manual_ia",

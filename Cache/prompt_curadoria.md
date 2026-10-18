@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T00:52:41.084777+00:00
+Última coleta: 2026-10-18T01:02:43.792260+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1060
+  🇯🇵 Japão          1059
   🇨🇳 China          876
   🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  722
+  🇰🇷 Coreia do Sul  723
 
 ## O que já está no feed (não repita)
 
+  - [korea] [This week's economy] Will the Bank of Korea continue to raise its base interest rate? Pay attention to produc
   - [japan] The US budget deficit approaches $2 trillion...the largest since the coronavirus pandemic (JoongAng Ilbo Japan
   - [korea] As the NPU market, a low-power artificial intelligence (AI) semiconductor, grows, leading Korean con..
   - [korea] [Base interest rate decision] “Should I raise it three times in a row or hide?”… The Bank of Korea determines 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill to be debated next week, ruling party aims to establish, opposition party clear
   - [japan] Consumption tax cut: consideration of benefits of around 5% of sales to farmers, etc.
   - [japan] US has full confidence in Takaichi's fiscal discipline: Treasury official
-  - [japan] Bank of Japan Governor Ueda “will not tolerate price increases exceeding 2%” and will continue to raise intere
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T00:52:41+00:00",
+      "published_utc": "2026-10-18T01:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
