@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T09:02:42.245013+00:00
+Última coleta: 2026-10-18T09:12:41.614902+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1043
+  🇯🇵 Japão          1042
   🇨🇳 China          882
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  735
+  🇰🇷 Coreia do Sul  736
 
 ## O que já está no feed (não repita)
 
+  - [china] Huizhou China Eagle To Issue 47.01 Mln Shares At 14.89 Yuan Apiece In Share Placement
+  - [korea] Samsung Electronics to Use TSMC 3nm Process for NVHBM Base Dies at Nvidia's Request
   - [china] Explosive Says Units' Jan-Sept New Blasting Services Contracts At 12 Bln Yuan
   - [korea] BOK to pause before November hike, rates to peak at 3.50%, survey shows
   - [korea] Controversy over the semiconductor supercycle "peakout" is heating up ahead of the Bank of Korea's M..
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] In 2027, China's economy will be in a state of "4% growth and defense"...US City predicts, headwinds of export
   - [korea] The Bank of Korea has repeatedly raised interest rates... The outlook for this week's Monetary Policy Committe
   - [korea] Will the Bank of Korea be open to raising interest rates? Treasury bond rebound alert
-  - [korea] “In October and November” … Experts predict interest rate hike to 'hide and hold'
-  - [japan] Japan to prohibit untraced gold exports, clamping down on tax evasion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T09:02:42+00:00",
+      "published_utc": "2026-10-18T09:12:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
