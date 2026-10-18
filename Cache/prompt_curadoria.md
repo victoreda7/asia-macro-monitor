@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T14:22:41.491112+00:00
+Última coleta: 2026-10-18T14:32:41.898442+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1033
@@ -18,7 +18,6 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] Samsung, SK hynix suffer worst weekly stock rout since 2008
-  - [korea] “The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”
   - [korea] Bank of Korea decides base interest rate this week...market expected to freeze
   - [korea] Samsung will use TSMC technology for Nvidia's next-generation memory chips, according to Seoul newspaper
   - [korea] Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports
@@ -32,6 +31,7 @@ Total: 3000 manchetes
   - [china] This Week’s Key Economic and Crypto Events: US Initial Jobless Claims, China GDP
   - [korea] BOK to pause before November hike, rates to peak at 3.50%, survey shows
   - [korea] Controversy over the semiconductor supercycle "peakout" is heating up ahead of the Bank of Korea's M..
+  - [korea] “The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”
   - [korea] “The Bank of Korea will freeze the base interest rate in October…likely to raise it in November.”
   - [china] Hygon Information Plans To Buy Back Shares For Up To 800 Mln Yuan
   - [korea] The balance of group loans increased while jeonse loans decreased amid the government's tightening o..
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T14:22:41+00:00",
+      "published_utc": "2026-10-18T14:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
