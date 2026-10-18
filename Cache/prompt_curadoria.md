@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T15:22:42.962171+00:00
+Última coleta: 2026-10-18T15:32:43.764767+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1031
-  🇨🇳 China          885
+  🇯🇵 Japão          1030
+  🇨🇳 China          886
   🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
   - [korea] Samsung, SK hynix suffer worst weekly stock rout since 2008
+  - [china] Weekly bond market highlights | The central bank invested a net 100 billion yuan in open market government bon
   - [korea] Bank of Korea decides base interest rate this week...market expected to freeze
   - [korea] BOK to pause before November hike; rates to peak at 3.50%: survey
   - [korea] Samsung will use TSMC technology for Nvidia's next-generation memory chips, according to Seoul newspaper
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's September refined fuel exports surge amid Iran war, diesel exports more than triple
   - [korea] The Monetary Policy Committee has raised the base interest rate in succession, with a freeze expected this mon
   - [china] China's September grain, sugar and pork imports
-  - [japan] Ruling and opposition party leaders discuss consumption tax reduction bill NHK Sunday debate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T15:22:43+00:00",
+      "published_utc": "2026-10-18T15:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
