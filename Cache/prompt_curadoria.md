@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T21:22:43.587647+00:00
+Última coleta: 2026-10-18T21:32:41.469562+00:00
 Total: 2990 manchetes
 
-  🇯🇵 Japão          1016
-  🇨🇳 China          886
+  🇯🇵 Japão          1015
+  🇨🇳 China          887
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  745
 
 ## O que já está no feed (não repita)
 
+  - [china] How China made climate resilience part of its economic growth strategy
   - [japan] An uneasy government and riots in France, etc. = Bank of Japan's uneasy jinx (Hirotoshi Kubozono) - Expert
   - [japan] <Challenging the two powerhouses TOTO and LIXIL> The "two changes" that have enabled Takara Standard to make s
   - [japan] Three traps that prevent you from assuming that the Bank of Japan will continue to raise interest rates becaus
@@ -56,7 +57,6 @@ Total: 2990 manchetes
   - [japan] This is the V-shaped recovery! The last trump card "Night Ticket Strategy" is the savior of Jangria Okinawa, w
   - [china] China proposes export controls on solar-manufacturing technologies
   - [korea] The base interest rate has risen repeatedly... Expected to take a breather in October
-  - [china] PBOC Deputy Calls for Greater Private Involvement in Sovereign Debt Restructuring
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2990 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T21:22:43+00:00",
+      "published_utc": "2026-10-18T21:32:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
