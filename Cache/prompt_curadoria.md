@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T14:32:41.898442+00:00
+Última coleta: 2026-10-18T14:42:42.953529+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
+  🇯🇵 Japão          1032
   🇨🇳 China          885
   🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  740
+  🇰🇷 Coreia do Sul  741
 
 ## O que já está no feed (não repita)
 
@@ -42,6 +42,7 @@ Total: 3000 manchetes
   - [china] Shengyi Technology Plans To Buy Back Shares For Up To 300 Mln Yuan
   - [china] Montage Technology Plans To Buy Back Shares For Up To 500 Mln Yuan
   - [china] Galaxycore Plans To Buy Back Shares For 150-300 Mln Yuan
+  - [korea] The Bank of Korea decides on the base interest rate on the 22nd... Take a breather
   - [korea] Foreign exchange prices are displayed at a currency exchange in Myeong-dong, Jung-gu, Seoul on the 1..
   - [china] China's solar panel exports extend slump in September
   - [japan] This is the V-shaped recovery! The last trump card "Night Ticket Strategy" is the savior of Jangria Okinawa, w
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's September grain, sugar and pork imports
   - [japan] Ruling and opposition party leaders discuss consumption tax reduction bill NHK Sunday debate
   - [korea] What To Expect From BOK Financial’s (BOKF) Q3 Earnings
-  - [korea] [Preview of the Monetary Policy Committee] Bank of Korea freezes this month... November's raise card remains
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T14:32:42+00:00",
+      "published_utc": "2026-10-18T14:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
