@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T11:42:42.254772+00:00
+Última coleta: 2026-10-18T11:52:43.416496+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung will use TSMC technology for Nvidia's next-generation memory chips, according to Seoul newspaper
+  - [korea] Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports
   - [japan] Yokohama mayoral election exit poll results
   - [china] TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports
   - [japan] Yokohama mayoral election vote counting and exit poll election information is here [Breaking news]
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] [Preview] Bank of Korea freezes this month... November's raise card remains
   - [china] China's CXMT pushes into next-gen DRAM, but can it compete on cost?
   - [korea] The base interest rate has been raised repeatedly... A decision by the Monetary Policy Committee is expected t
-  - [korea] Analysts forecast BOK to hold benchmark rate unchanged at upcoming meeting: poll
-  - [korea] "We will expand the export volume of Jeju Samdasoo to 100,000 tons within three years."Kim Do-young
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T11:42:42+00:00",
+      "published_utc": "2026-10-18T11:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
