@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T10:02:44.121546+00:00
+Última coleta: 2026-10-18T10:12:44.060829+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1038
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yokohama mayoral election vote counting and exit poll election information is here [Breaking news]
   - [korea] Bank of Korea decides base interest rate this week...market expected to freeze
   - [china] Huizhou China Eagle To Issue 47.01 Mln Shares At 14.89 Yuan Apiece In Share Placement
   - [korea] Samsung Electronics to Use TSMC 3nm Process for NVHBM Base Dies at Nvidia's Request
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] [This week's economy] Will the Bank of Korea continue to raise its base interest rate? Pay attention to produc
   - [japan] The US budget deficit approaches $2 trillion...the largest since the coronavirus pandemic (JoongAng Ilbo Japan
   - [korea] As the NPU market, a low-power artificial intelligence (AI) semiconductor, grows, leading Korean con..
-  - [korea] [Base interest rate decision] “Should I raise it three times in a row or hide?”… The Bank of Korea determines 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T10:02:44+00:00",
+      "published_utc": "2026-10-18T10:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
