@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-18T00:22:40.735498+00:00",
- "collected_at_utc": "2026-10-18T00:22:40.735498+00:00",
+ "generated_at_utc": "2026-10-18T00:32:44.046209+00:00",
+ "collected_at_utc": "2026-10-18T00:32:44.046209+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 342,
   "korea": 722
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T08:20:49+00:00"
+   "newest": "2026-10-17T08:23:46+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,16 +152,16 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "newest": "2026-10-16T09:53:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-18T00:00:00+00:00"
+   "newest": "2026-10-18T00:17:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T03:04:47+00:00"
+   "newest": "2026-10-18T00:26:08+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T23:35:38+00:00"
+   "newest": "2026-10-18T00:20:15+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "The US budget deficit approaches $2 trillion...the largest since the coronavirus pandemic (JoongAng Ilbo Japanese version)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZmJCSzFOX0FiaklVdzltd1JRRGVmeEMyYTJZendCcjBwZ1NlYksyZE9PMU1oSVZvdnUzdXV5VDdZalJJenpTVUFlZ1Q4WEw3TlJqR1lVMHNhRUcxLXhCUTUwblcwOTM2bXBwN002OUtDVW5GXzdhRnpLXzh1YkU?oc=5",
+   "published_utc": "2026-10-18T00:26:08+00:00",
+   "title_original": "米国の財政赤字2兆ドルに迫る…コロナ禍以降で最大規模（中央日報日本語版）",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a4c17b1268a0f20a"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "As the NPU market, a low-power artificial intelligence (AI) semiconductor, grows, leading Korean con..",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPTmNuS1E5aDBMaUpzckFJaXp5Z2EyWXZFS0t6QTQteHcwVTlLQmQtczUyU2F6RkZBOUlGMWQ4emxRMXJBd1VvTTBLTmJTWG5NZ21r?oc=5",
+   "published_utc": "2026-10-18T00:20:15+00:00",
+   "title_original": "As the NPU market, a low-power artificial intelligence (AI) semiconductor, grows, leading Korean con..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "07546ec1996cd7f3"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "CBC뉴스",
@@ -51913,40 +51947,6 @@
    "live_wire": false,
    "manual": false,
    "id": "be9f915c7f24951b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Sojitz To Enter India's Logistics Business For Chip Industry, Nikkei Reports",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44O00E:0-sojitz-to-enter-india-s-logistics-business-for-chip-industry-nikkei-reports/",
-   "published_utc": "2026-09-18T09:02:50+00:00",
-   "title_original": "Sojitz To Enter India's Logistics Business For Chip Industry, Nikkei Reports",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "72b77c2a7466aa27"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Producer prices rebounded in August for the first time in a month due to rising food prices caused b..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBweWx3UjJ2TWh4bEFtRmh6S212Wm55czlJMUplYk8yaGlOQVMwTDlXNXBpZzRHVkRLRTR2eks2YktvVDduMFJjV3ZNb1JlWUU2aFE?oc=5",
-   "published_utc": "2026-09-18T09:00:00+00:00",
-   "title_original": "Producer prices rebounded in August for the first time in a month due to rising food prices caused b..",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "82639df1bc98ff80"
   },
   {
    "source_id": "manual_ia",

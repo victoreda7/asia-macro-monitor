@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T00:22:40.735498+00:00
+Última coleta: 2026-10-18T00:32:44.046209+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1060
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] The US budget deficit approaches $2 trillion...the largest since the coronavirus pandemic (JoongAng Ilbo Japan
+  - [korea] As the NPU market, a low-power artificial intelligence (AI) semiconductor, grows, leading Korean con..
   - [korea] [Base interest rate decision] “Should I raise it three times in a row or hide?”… The Bank of Korea determines 
   - [korea] The base interest rate has been raised continuously, will it take a break this time? October Monetary Policy C
   - [china] In 2027, China's economy will be in a state of "4% growth and defense"...US City predicts, headwinds of export
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax cut: consideration of benefits of around 5% of sales to farmers, etc.
   - [japan] US has full confidence in Takaichi's fiscal discipline: Treasury official
   - [japan] Bank of Japan Governor Ueda “will not tolerate price increases exceeding 2%” and will continue to raise intere
-  - [china] Beijing seeks tighter grip on AI exports amid US rivalry
-  - [china] EU to propose import curbs on other Chinese sectors, says EU chief
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T00:22:40+00:00",
+      "published_utc": "2026-10-18T00:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
