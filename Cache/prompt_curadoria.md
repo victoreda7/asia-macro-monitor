@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T07:52:41.409496+00:00
+Última coleta: 2026-10-18T08:02:42.380872+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1048
-  🇨🇳 China          879
-  🇹🇼 Taiwan         341
-  🇰🇷 Coreia do Sul  732
+  🇯🇵 Japão          1047
+  🇨🇳 China          880
+  🇹🇼 Taiwan         340
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [china] Shengyi Technology Plans To Buy Back Shares For Up To 300 Mln Yuan
+  - [china] Montage Technology Plans To Buy Back Shares For Up To 500 Mln Yuan
   - [china] Galaxycore Plans To Buy Back Shares For 150-300 Mln Yuan
+  - [korea] Foreign exchange prices are displayed at a currency exchange in Myeong-dong, Jung-gu, Seoul on the 1..
   - [china] China's solar panel exports extend slump in September
   - [japan] This is the V-shaped recovery! The last trump card "Night Ticket Strategy" is the savior of Jangria Okinawa, w
   - [china] China proposes export controls on solar-manufacturing technologies
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC’s 3nm Kumamoto plan wins Japan’s approval, qualifying for up to $4.1 billion in aid
   - [japan] Liberal Democratic Party Policy Research Chairman Kobayashi urges many opposition parties to pass consumption 
   - [japan] What’s the likelihood of Yen carry trade reversing? By Investing.com
-  - [japan] What’s the likelihood of Yen carry trade reversing?
-  - [japan] IMF senior official evaluation: Japan's consumption tax reduction bill
-  - [japan] What you can do now about rising mortgage rates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T07:52:41+00:00",
+      "published_utc": "2026-10-18T08:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
