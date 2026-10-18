@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T08:47:33.042688+00:00
+Última coleta: 2026-10-18T08:52:42.108249+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1045
+  🇯🇵 Japão          1044
   🇨🇳 China          882
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  733
+  🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK to pause before November hike, rates to peak at 3.50%, survey shows
   - [china] Hygon Information Plans To Buy Back Shares For Up To 800 Mln Yuan
   - [korea] The balance of group loans increased while jeonse loans decreased amid the government's tightening o..
   - [korea] [Photo] Strengthening global financial supply chains
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan to prohibit untraced gold exports, clamping down on tax evasion
   - [taiwan] Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains
   - [taiwan] Mortgage numbers for seniors surge to historic peak
-  - [taiwan] Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T08:47:33+00:00",
+      "published_utc": "2026-10-18T08:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
