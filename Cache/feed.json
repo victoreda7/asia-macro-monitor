@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-18T20:02:43.579396+00:00",
- "collected_at_utc": "2026-10-18T20:02:43.579396+00:00",
+ "generated_at_utc": "2026-10-18T20:12:43.466388+00:00",
+ "collected_at_utc": "2026-10-18T20:12:43.466388+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 2992,
  "by_region": {
-  "japan": 1020,
+  "japan": 1019,
   "china": 887,
   "taiwan": 343,
-  "korea": 742
+  "korea": 743
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T19:00:01+00:00"
+   "newest": "2026-10-18T04:02:01+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T05:06:00+00:00"
+   "newest": "2026-10-13T03:43:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -161,7 +161,7 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "error": "",
    "newest": "2026-10-16T09:53:00+00:00"
   },
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T00:14:15+00:00"
+   "newest": "2026-10-16T14:38:45+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-19T04:30:00+09:00"
+   "newest": "2026-10-19T05:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -396,7 +396,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "Weekly bond market highlights | The central bank invested a net 100 billion yuan in open market government bond sales in September, and the Shenzhen Stock Exchange terminated the review of 5 bond projects",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUV9yYmU4RU1sMGRfblUxcHNRNS0wVkZzSjVQRlZyYWZfMXZqWGhqdDZHNXZsbHFPZEpxeFk3LXpMWGJnamUtM25rekJtWTQ2MlREQjE4UmNRLVFOTkdkd0ExdVdOZ3o4YkpPbHNSSQ?oc=5",
    "published_utc": "2026-10-18T14:13:00+00:00",
@@ -1769,23 +1769,6 @@
    "id": "ac28e75ae96df905"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YcU11QXhkMW82ZV9tTS1ZMVRwQWJHZ2xONnJFWTZhb2c2MzRoeUw2X0FmQUFVVGhHdHpta3BmTk5YaUd4a2dKbU1iNlhFRXc5c2k1MXh4VzBGeWJGNkRscXFWaVZGSXFrNFJ4b05DOUh0c1paSm4wU0l1blI?oc=5",
-   "published_utc": "2026-10-17T00:14:15+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0d54b1faf146765e"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "[Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices announced",
@@ -2288,8 +2271,25 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWjQyRWVYQTZ4UE1uQ2tYRVpiZC1kbW9IUnJTSHVzQWdlcGpZYkExd3g4cFVFZnVjclVVWHhNc3U0aE1remZ3QTB5V3VfdFRYMnExSGZaQjdXLW5DSUxkcjE3VFRqUVRHMmJlS1VjUjNBVHVIRG5lSEo0ZzE?oc=5",
+   "published_utc": "2026-10-16T14:38:45+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "18b0552f95e580ac"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -2303,7 +2303,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -4955,8 +4955,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -4970,7 +4970,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -5607,8 +5607,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -5623,7 +5623,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -21337,6 +21337,23 @@
    "id": "c493e57a0828bd29"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics Q3 OP tops $80bn",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52X1R0OVlnTHVZMFpsVDdNVktFVC1tbzdnOTB5QXNYcTFsenV5R3NYMWNSTXQyWk9JTVZVLXVsVWg0SVBwSUZ6QVBJLTF6THBlS3ZpTzBxbw?oc=5",
+   "published_utc": "2026-10-08T01:35:16+00:00",
+   "title_original": "Samsung Electronics Q3 OP tops $80bn",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5827fe3deb3012ed"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "津云",
    "title_en": "The central bank will launch a 1.2 trillion yuan buyout reverse repurchase operation-News Center",
@@ -26330,23 +26347,6 @@
    "id": "51d154391bec380c"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan service sector growth slows in September, PMI shows By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2twS3NjQmZiQy1jcDI5c1ZHa0VLWENRVWZySFZuYlluMUtyUkxmbDBCM25BTFlvc3NBTVpkM0JYS1ZpZ19QRTNLWER1cV9lOEFhb2EyTWNIaENScktPY21LRjEtbHZ5cDlEMEc4TWROZWtpd1VvUUNnWDVsQTNGbUJOb0FZQjJIQldqeDRyRi1fbmFzbWk4UHZGSW04MFMxQXBQaElWNDBnVUhINjhobXhQQTVWMUNO?oc=5",
-   "published_utc": "2026-10-05T08:34:14+00:00",
-   "title_original": "Japan service sector growth slows in September, PMI shows By Investing.com",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3bda50f15be15663"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "Taiwan Forex Reserves Edge Lower",
@@ -26515,6 +26515,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8ce1cfa2778c4591"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan service sector growth slows in September, PMI shows By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2twS3NjQmZiQy1jcDI5c1ZHa0VLWENRVWZySFZuYlluMUtyUkxmbDBCM25BTFlvc3NBTVpkM0JYS1ZpZ19QRTNLWER1cV9lOEFhb2EyTWNIaENScktPY21LRjEtbHZ5cDlEMEc4TWROZWtpd1VvUUNnWDVsQTNGbUJOb0FZQjJIQldqeDRyRi1fbmFzbWk4UHZGSW04MFMxQXBQaElWNDBnVUhINjhobXhQQTVWMUNO?oc=5",
+   "published_utc": "2026-10-05T07:00:00+00:00",
+   "title_original": "Japan service sector growth slows in September, PMI shows By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3bda50f15be15663"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -38955,23 +38972,6 @@
    "id": "73c4c3502085914c"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0ZUakhzWWJoellmNEswN0xTNGxwMVMzRl9RNlN5SXVrbzJ2TVV2RkxEWk5VX1dnT3JxRS1BV3FXSVY4SHNzZ2d6eTFBQmR6T2xBV05ld2JlcVR3UFA0eXdHV3ExRlBORDJPTFdpZ21pOUJhamhkdUdnZWFvWVRRd25tZC1BZWs4QjRrZEx6WXpqeG9ocUNHUmNyX0E4T3ItVmQ3NXFkYy1ReURjXzA2aG5yUWVLdFh5eDFJaA?oc=5",
-   "published_utc": "2026-09-28T10:20:00+00:00",
-   "title_original": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "92d721f54bcd14ff"
-  },
-  {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
    "title_en": "Citi sees Japan yen intervention likely near 160 per dollar",
@@ -39562,6 +39562,23 @@
    "live_wire": false,
    "manual": false,
    "id": "dec6c74f8aaf24a0"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0ZUakhzWWJoellmNEswN0xTNGxwMVMzRl9RNlN5SXVrbzJ2TVV2RkxEWk5VX1dnT3JxRS1BV3FXSVY4SHNzZ2d6eTFBQmR6T2xBV05ld2JlcVR3UFA0eXdHV3ExRlBORDJPTFdpZ21pOUJhamhkdUdnZWFvWVRRd25tZC1BZWs4QjRrZEx6WXpqeG9ocUNHUmNyX0E4T3ItVmQ3NXFkYy1ReURjXzA2aG5yUWVLdFh5eDFJaA?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "title_original": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "92d721f54bcd14ff"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51783,24 +51800,6 @@
    "live_wire": true,
    "manual": false,
    "id": "443223d5240bd3af"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Yen set for worst week since Oct 2025 as BoJ’s hike seen as not aggressive enough",
-   "url": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
-   "published_utc": "2026-09-18T20:05:38+00:00",
-   "title_original": "Yen set for worst week since Oct 2025 as BoJ’s hike seen as not aggressive enough",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a1e0683643714ab5"
   },
   {
    "source_id": "manual_ia",
