@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T01:02:43.792260+00:00
+Última coleta: 2026-10-18T01:12:40.382027+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1059
-  🇨🇳 China          876
+  🇯🇵 Japão          1058
+  🇨🇳 China          875
   🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  723
+  🇰🇷 Coreia do Sul  725
 
 ## O que já está no feed (não repita)
 
+  - [korea] Analysts forecast BOK to hold benchmark rate unchanged at upcoming meeting: poll
+  - [korea] "We will expand the export volume of Jeju Samdasoo to 100,000 tons within three years."Kim Do-young
   - [korea] [This week's economy] Will the Bank of Korea continue to raise its base interest rate? Pay attention to produc
   - [japan] The US budget deficit approaches $2 trillion...the largest since the coronavirus pandemic (JoongAng Ilbo Japan
   - [korea] As the NPU market, a low-power artificial intelligence (AI) semiconductor, grows, leading Korean con..
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Paraguay’s tech minister defies Beijing sanctions, says Taiwan ties ‘not up for negotiation’
   - [japan] USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk
   - [japan] Consumption tax reduction bill to be debated next week, ruling party aims to establish, opposition party clear
-  - [japan] Consumption tax cut: consideration of benefits of around 5% of sales to farmers, etc.
-  - [japan] US has full confidence in Takaichi's fiscal discipline: Treasury official
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T01:02:44+00:00",
+      "published_utc": "2026-10-18T01:12:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
