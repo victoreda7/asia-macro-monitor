@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T02:02:44.885992+00:00
+Última coleta: 2026-10-18T02:12:43.144275+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1057
-  🇨🇳 China          875
+  🇨🇳 China          876
   🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  725
+  🇰🇷 Coreia do Sul  724
 
 ## O que já está no feed (não repita)
 
+  - [china] China's CXMT pushes into next-gen DRAM, but can it compete on cost?
   - [korea] Analysts forecast BOK to hold benchmark rate unchanged at upcoming meeting: poll
   - [korea] "We will expand the export volume of Jeju Samdasoo to 100,000 tons within three years."Kim Do-young
   - [korea] [This week's economy] Will the Bank of Korea continue to raise its base interest rate? Pay attention to produc
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?
   - [china] China Proposes Export Controls On 23 AI Technologies Amid U.S. Tech Rivalry
   - [china] Paraguay’s tech minister defies Beijing sanctions, says Taiwan ties ‘not up for negotiation’
-  - [japan] USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T02:02:45+00:00",
+      "published_utc": "2026-10-18T02:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
