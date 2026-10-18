@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T02:42:42.286935+00:00
+Última coleta: 2026-10-18T02:52:43.446168+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1057
+  🇯🇵 Japão          1056
   🇨🇳 China          875
   🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  725
+  🇰🇷 Coreia do Sul  726
 
 ## O que já está no feed (não repita)
 
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [korea] The base interest rate has been raised continuously, will it take a break this time? October Monetary Policy C
   - [china] In 2027, China's economy will be in a state of "4% growth and defense"...US City predicts, headwinds of export
   - [korea] The Bank of Korea has repeatedly raised interest rates... The outlook for this week's Monetary Policy Committe
+  - [korea] Will the Bank of Korea be open to raising interest rates? Treasury bond rebound alert
   - [korea] “In October and November” … Experts predict interest rate hike to 'hide and hold'
   - [japan] Japan to prohibit untraced gold exports, clamping down on tax evasion
   - [taiwan] Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains
@@ -54,9 +55,8 @@ Total: 3000 manchetes
   - [china] Chinese premier chairs State Council executive meeting
   - [korea] [Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices an
   - [japan] The US budget deficit is 314 trillion yen, the third highest on record due to increased interest payments, etc
+  - [korea] [N Week] Will the base interest rate be raised for the third consecutive time? What are the 3rd quarter perfor
   - [japan] Anthropic proposes AI safety bill with strict intervention thresholds - Politico By Investing.com
-  - [taiwan] Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?
-  - [china] China Proposes Export Controls On 23 AI Technologies Amid U.S. Tech Rivalry
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T02:42:42+00:00",
+      "published_utc": "2026-10-18T02:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
