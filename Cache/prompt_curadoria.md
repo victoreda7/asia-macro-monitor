@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T19:12:41.948421+00:00
+Última coleta: 2026-10-18T19:21:40.620908+00:00
 Total: 2997 manchetes
 
   🇯🇵 Japão          1025
@@ -17,6 +17,7 @@ Total: 2997 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] NRI's Rs.3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT 
   - [china] China’s proposed solar curbs raise stakes for overseas manufacturers
   - [korea] Samsung, SK hynix suffer worst weekly stock rout since 2008
   - [china] Weekly bond market highlights | The central bank invested a net 100 billion yuan in open market government bon
@@ -56,7 +57,6 @@ Total: 2997 manchetes
   - [korea] The Bank of Korea forecasts to freeze the base interest rate by 3% on the 22nd... Possibility of further incre
   - [china] PBOC Deputy Urges Private Role in Sovereign Debt Restructuring
   - [china] China's September refined fuel exports surge amid Iran war, diesel exports more than triple
-  - [korea] The Monetary Policy Committee has raised the base interest rate in succession, with a freeze expected this mon
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2997 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T19:12:42+00:00",
+      "published_utc": "2026-10-18T19:21:40+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
