@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T01:22:44.298162+00:00
+Última coleta: 2026-10-18T01:32:42.280639+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1058
+  🇯🇵 Japão          1057
   🇨🇳 China          875
-  🇹🇼 Taiwan         342
+  🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  725
 
 ## O que já está no feed (não repita)
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [korea] “In October and November” … Experts predict interest rate hike to 'hide and hold'
   - [japan] Japan to prohibit untraced gold exports, clamping down on tax evasion
   - [taiwan] Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains
+  - [taiwan] Mortgage numbers for seniors surge to historic peak
   - [taiwan] Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus
   - [china] China central bank chief supports closer IMF surveillance of fiscal, spillover risks
   - [taiwan] Fees proposed for new Qilai Mountain Cabin, Paiyun Lodge rate hike
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Proposes Export Controls On 23 AI Technologies Amid U.S. Tech Rivalry
   - [china] Paraguay’s tech minister defies Beijing sanctions, says Taiwan ties ‘not up for negotiation’
   - [japan] USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk
-  - [japan] Consumption tax reduction bill to be debated next week, ruling party aims to establish, opposition party clear
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T01:22:44+00:00",
+      "published_utc": "2026-10-18T01:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
