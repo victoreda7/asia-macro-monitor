@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T12:52:42.731087+00:00
+Última coleta: 2026-10-18T13:02:43.155192+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
-  🇨🇳 China          884
-  🇹🇼 Taiwan         341
+  🇯🇵 Japão          1033
+  🇨🇳 China          885
+  🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
   - [korea] Samsung will use TSMC technology for Nvidia's next-generation memory chips, according to Seoul newspaper
   - [korea] Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports
+  - [taiwan] Health minister decries bill subsidizing NHI premiums for most seniors
   - [japan] Yokohama mayoral election exit poll results
   - [china] TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports
   - [japan] Yokohama mayoral election vote counting and exit poll election information is here [Breaking news]
@@ -26,6 +27,7 @@ Total: 3000 manchetes
   - [china] Huizhou China Eagle To Issue 47.01 Mln Shares At 14.89 Yuan Apiece In Share Placement
   - [korea] Samsung Electronics to Use TSMC 3nm Process for NVHBM Base Dies at Nvidia's Request
   - [china] Explosive Says Units' Jan-Sept New Blasting Services Contracts At 12 Bln Yuan
+  - [china] This Week’s Key Economic and Crypto Events: US Initial Jobless Claims, China GDP
   - [korea] BOK to pause before November hike, rates to peak at 3.50%, survey shows
   - [korea] Controversy over the semiconductor supercycle "peakout" is heating up ahead of the Bank of Korea's M..
   - [korea] “The Bank of Korea will freeze the base interest rate in October…likely to raise it in November.”
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] What To Expect From BOK Financial’s (BOKF) Q3 Earnings
   - [korea] [Preview of the Monetary Policy Committee] Bank of Korea freezes this month... November's raise card remains
   - [korea] [Preview] Bank of Korea freezes this month... November's raise card remains
-  - [china] China's CXMT pushes into next-gen DRAM, but can it compete on cost?
-  - [korea] The base interest rate has been raised repeatedly... A decision by the Monetary Policy Committee is expected t
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T12:52:42+00:00",
+      "published_utc": "2026-10-18T13:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
