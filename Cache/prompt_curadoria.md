@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T11:12:42.130427+00:00
+Última coleta: 2026-10-18T11:22:43.239588+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1037
+  🇯🇵 Japão          1036
   🇨🇳 China          884
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  739
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
@@ -44,6 +44,7 @@ Total: 3000 manchetes
   - [korea] Samsung, SK hynix suffer worst weekly stock rout since 2008
   - [china] PBOC Deputy Calls for Greater Private Involvement in Sovereign Debt Restructuring
   - [korea] Samsung invests $22.8m in Texas workforce as TSMC eyes entry
+  - [korea] The Bank of Korea forecasts to freeze the base interest rate by 3% on the 22nd... Possibility of further incre
   - [china] PBOC Deputy Urges Private Role in Sovereign Debt Restructuring
   - [china] China's September refined fuel exports surge amid Iran war, diesel exports more than triple
   - [korea] The Monetary Policy Committee has raised the base interest rate in succession, with a freeze expected this mon
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] The base interest rate has been raised repeatedly... A decision by the Monetary Policy Committee is expected t
   - [korea] Analysts forecast BOK to hold benchmark rate unchanged at upcoming meeting: poll
   - [korea] "We will expand the export volume of Jeju Samdasoo to 100,000 tons within three years."Kim Do-young
-  - [korea] [This week's economy] Will the Bank of Korea continue to raise its base interest rate? Pay attention to produc
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T11:12:42+00:00",
+      "published_utc": "2026-10-18T11:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
