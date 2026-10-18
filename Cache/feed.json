@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-18T08:02:42.380872+00:00",
- "collected_at_utc": "2026-10-18T08:02:42.380872+00:00",
+ "generated_at_utc": "2026-10-18T08:12:42.653020+00:00",
+ "collected_at_utc": "2026-10-18T08:12:42.653020+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1047,
-  "china": 880,
+  "china": 881,
   "taiwan": 340,
-  "korea": 733
+  "korea": 732
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T04:00:09+00:00"
+   "newest": "2026-10-18T04:02:01+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-18T07:40:53+00:00"
+   "newest": "2026-10-18T08:06:30+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-18T07:19:35+00:00"
+   "newest": "2026-10-18T08:06:30+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T03:20:00+00:00"
+   "newest": "2026-10-18T07:57:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T03:00:07+00:00"
+   "newest": "2026-10-18T05:00:09+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-18T07:54:59+00:00"
+   "newest": "2026-10-18T08:08:34+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T05:07:13+00:00"
+   "newest": "2026-10-18T07:47:16+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,59 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Wuxi Hyatech To Issue Convertible Bond Raising 600 Mln Yuan For Projects",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46400L:0-wuxi-hyatech-to-issue-convertible-bond-raising-600-mln-yuan-for-projects/",
+   "published_utc": "2026-10-18T08:08:34+00:00",
+   "title_original": "Wuxi Hyatech To Issue Convertible Bond Raising 600 Mln Yuan For Projects",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5b143298f56cc38b"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China proposes export curbs on 12 key solar manufacturing technologies",
+   "url": "https://www.investing.com/news/economy-news/china-proposes-export-curbs-on-12-key-solar-manufacturing-technologies-4955825",
+   "published_utc": "2026-10-18T08:06:30+00:00",
+   "title_original": "China proposes export curbs on 12 key solar manufacturing technologies",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "189d45ef6105b165"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qNkdfZVh6TjltcFpvMXpROGZyQWJ0N3lfMVV0YUlMaDZ1T0FLbFdqUXppY2JBWTZaeTZzLVE1RE94cHE3LUhhLVB4cndPUXZYZTNFc2w3NWxSZw?oc=5",
+   "published_utc": "2026-10-18T07:57:00+00:00",
+   "title_original": "BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "103d1d164eaf3df1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -51894,58 +51947,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a832f4f00390e67e"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Even with the Bank of Japan's interest rate hike, the trend of ``selling the yen'' continues, with the Japan-U.S. interest rate differential not narrowing, and the yen's depreciation and long-term interest rates remaining high (Sankei Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wdXc2VkZXOTFRSFBjZTctd3A5S1RlczR4eVFyY2MxcWhzU2d4aXhrTmd5NmctNUFEN0hPS2lEd192Ukk0T2tFMUw0a3lOZ1dncXpHVWdRRUpLMVJUNmlLbkZ6R0hlNXh1bHZVX3pPN05pbGxKTXhtOFFMcW93Umc?oc=5",
-   "published_utc": "2026-09-18T13:03:05+00:00",
-   "title_original": "日銀の利上げでも「円売り」基調続く 日米金利差縮まらず 円安と長期金利高止まり続く（産経新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fcfb406b0c3215cc"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "mk.co.kr",
-   "title_en": "Producer prices rebounded in August for the first time in a month in the aftermath of rising food pr..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4MG4yejZJTHNkbmNjZVFOZVF2cXJWUGFJdm04RHZFdmh5dGJPcjBzeWpCUnV6U2VBcDZIWUg3T1JMMHROM2xneldKMTNsMV92VGc?oc=5",
-   "published_utc": "2026-09-18T13:00:47+00:00",
-   "title_original": "Producer prices rebounded in August for the first time in a month in the aftermath of rising food pr..",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1c38220a4cfb6eea"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Abiove reduces soybean export forecast from Brazil, while China buys from the USA",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45A0GT:0/",
-   "published_utc": "2026-09-18T13:00:00+00:00",
-   "title_original": "Abiove reduz previsão de exportação de soja do Brasil, enquanto China compra nos EUA",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "cf9eeb5283a440d9"
   },
   {
    "source_id": "manual_ia",

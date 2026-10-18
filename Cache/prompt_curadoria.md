@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T08:02:42.380872+00:00
+Última coleta: 2026-10-18T08:12:42.653020+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1047
-  🇨🇳 China          880
+  🇨🇳 China          881
   🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  733
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [china] Wuxi Hyatech To Issue Convertible Bond Raising 600 Mln Yuan For Projects
+  - [china] China proposes export curbs on 12 key solar manufacturing technologies
+  - [japan] BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll
   - [china] Shengyi Technology Plans To Buy Back Shares For Up To 300 Mln Yuan
   - [china] Montage Technology Plans To Buy Back Shares For Up To 500 Mln Yuan
   - [china] Galaxycore Plans To Buy Back Shares For 150-300 Mln Yuan
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China central bank chief supports closer IMF surveillance of fiscal, spillover risks
   - [taiwan] Fees proposed for new Qilai Mountain Cabin, Paiyun Lodge rate hike
   - [japan] The Bank of Japan's Kochi branch maintained its judgment from the previous month that the prefecture's economy
-  - [taiwan] TSMC’s 3nm Kumamoto plan wins Japan’s approval, qualifying for up to $4.1 billion in aid
-  - [japan] Liberal Democratic Party Policy Research Chairman Kobayashi urges many opposition parties to pass consumption 
-  - [japan] What’s the likelihood of Yen carry trade reversing? By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T08:02:42+00:00",
+      "published_utc": "2026-10-18T08:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
