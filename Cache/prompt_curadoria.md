@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-18T13:42:43.422343+00:00
+Última coleta: 2026-10-18T13:52:42.994066+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1033
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] “The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”
   - [korea] Bank of Korea decides base interest rate this week...market expected to freeze
   - [korea] Samsung will use TSMC technology for Nvidia's next-generation memory chips, according to Seoul newspaper
   - [korea] Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Ruling and opposition party leaders discuss consumption tax reduction bill NHK Sunday debate
   - [korea] What To Expect From BOK Financial’s (BOKF) Q3 Earnings
   - [korea] [Preview of the Monetary Policy Committee] Bank of Korea freezes this month... November's raise card remains
-  - [korea] [Preview] Bank of Korea freezes this month... November's raise card remains
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-18T13:42:43+00:00",
+      "published_utc": "2026-10-18T13:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
