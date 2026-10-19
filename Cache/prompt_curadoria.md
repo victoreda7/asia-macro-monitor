@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T12:52:44.522379+00:00
+Última coleta: 2026-10-19T13:02:42.810452+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          994
+  🇯🇵 Japão          995
   🇨🇳 China          900
   🇹🇼 Taiwan         346
-  🇰🇷 Coreia do Sul  760
+  🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [japan] Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the fu
   - [china] Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com
   - [korea] Samsung Is Turning to Rival TSMC for Nvidia's Next AI Memory
   - [korea] Kr Motors To Divest Real Estate Worth 47.5 Billion Won
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
   - [taiwan] MiTAC Computing to invest NT$12.62B in Taiwan server manufacturing
   - [japan] Japan PM says won’t rule out debt issuance to fund tax cut
-  - [japan] Japan futures rise as tyre manufacturing resumes in China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T12:52:44+00:00",
+      "published_utc": "2026-10-19T13:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
