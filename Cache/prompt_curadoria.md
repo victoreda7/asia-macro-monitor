@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T05:42:41.980376+00:00
+Última coleta: 2026-10-19T05:52:41.853571+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
-  🇨🇳 China          910
-  🇹🇼 Taiwan         342
+  🇯🇵 Japão          998
+  🇨🇳 China          908
+  🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  751
 
 ## O que já está no feed (não repita)
 
+  - [japan] Rice Prices Key to Japan Inflation Expectations — Market Talk
   - [japan] House of Councilors, Liberal Democratic Party, Ritsumeikan Committee on National Affairs meeting, discussion o
   - [korea] South Korean Won Extends Gains Near 2-Year High
   - [korea] SK Hynix bounces from extreme oversold-bear risk stays: Live levels
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's 3Q GDP Growth Tops Expectations
   - [china] China's economic growth picks up as exports boom, consumers balk
   - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-AUG +5.3% Y/Y
-  - [china] CHINA YTD RETAIL SALES +1.1% Y/Y VS JAN-AUG +1.1% Y/Y
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T05:42:42+00:00",
+      "published_utc": "2026-10-19T05:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
