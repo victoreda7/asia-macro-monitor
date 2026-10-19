@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T07:22:42.999608+00:00
+Última coleta: 2026-10-19T07:32:43.631073+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          999
@@ -17,9 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan PM says won’t rule out debt issuance to fund tax cut
+  - [japan] Japan futures rise as tyre manufacturing resumes in China
   - [china] China stocks end higher as strong GDP outweighs AI jitters
   - [korea] SK Hynix’s potential Solidigm IPO reignites debate over multiple listings
-  - [japan] Japan PM says won't rule out debt issuance to fund tax cut
   - [china] China commerce ministry announces new export control measures for drone-related items, dredgers
   - [korea] Key facts: Samsung accepts NVDA HBM terms; Banco Santander AI pact
   - [japan] Liberal Democratic Party Ishin leadership seeks cooperation from opposition parties to pass consumption tax re
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan central bank says currency depreciation reflects global stock market 'turmoil'
   - [china] China GDP growth picks up to 4.5% from 3-year low
   - [china] CITIC Securities: Funding is expected to be relatively loose and the central bank has room to cut interest rat
-  - [japan] Japan futures rise as tyre manufacturing resumes; equity selloff weighs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T07:22:43+00:00",
+      "published_utc": "2026-10-19T07:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
