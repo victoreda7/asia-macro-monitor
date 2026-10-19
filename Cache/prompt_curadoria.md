@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T21:52:45.049980+00:00
+Última coleta: 2026-10-19T22:02:43.643018+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          997
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK Financial (NASDAQ:BOKF) Reports Sales Below Analyst Estimates In Q3 2026 Earnings
   - [china] China and the EU agree to halve exports of hybrid cars to Europe, set annual quota of 350,000 units after intr
   - [korea] BOK Financial beats Q3 earnings estimates as net interest income increases
   - [japan] The 1.2L mild hybrid is lighter than the numerical value... Why Jeep's new "Compass", the first redesign in 9 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's Export Boom Masks Deep Economic Problems at Home — WSJ
   - [china] China’s Industrial Output Growth Picks Up
   - [japan] Yen price falls slightly against the dollar against the backdrop of rising crude oil futures prices
-  - [china] LME owner HKEX eyes more yuan-denominated commodities contracts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T21:52:45+00:00",
+      "published_utc": "2026-10-19T22:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
