@@ -7,22 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T02:32:44.778456+00:00
+Última coleta: 2026-10-19T02:42:43.355104+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          997
-  🇨🇳 China          914
-  🇹🇼 Taiwan         341
-  🇰🇷 Coreia do Sul  748
+  🇨🇳 China          916
+  🇹🇼 Taiwan         340
+  🇰🇷 Coreia do Sul  747
 
 ## O que já está no feed (não repita)
 
+  - [china] China's new home prices fall again in September as recovery stays elusive
+  - [japan] Japan Week Ahead: BOJ Policymakers Set for More Rate Hikes While Prime Minister Takaichi in Rough Seas Seeking
+  - [china] China industrial output, retail sales beat forecasts in September
+  - [japan] Pickles HD, the top company in the pickle industry, has left its full-year forecast unchanged despite the high
   - [china] China's Economy Expanded 4.5% in Third Quarter, Powered by Exports — WSJ
   - [china] China's daily crude steel output jumps in September on robust exports
+  - [china] China’s economic growth picks up in third quarter, beating expectations
   - [china] China's 3Q GDP Growth Tops Expectations
   - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-AUG +5.3% Y/Y
   - [china] CHINA YTD RETAIL SALES +1.1% Y/Y VS JAN-AUG +1.1% Y/Y
-  - [china] China's economic growth picks up in third quarter, beating expectations
+  - [china] China Q3 GDP grows 4.5%, slightly more than expected
   - [china] China's Q3 GDP narrowly beats forecasts as strong exports buoy growth
   - [china] China’s Q3 GDP growth accelerates to 4.5%, beating forecast
   - [china] China Retail Sales Strongest in 6 Months
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY80 BLN VIA 7-DAY REVERSE REPO MON
   - [japan] Japan's 10-year yield falls on risk aversion, debt issuance pledge
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7208 MON VS 6.7220
-  - [china] China New Home Prices Drop the Least in 9 Months
-  - [china] Yang Caifang, senior statistician of the Urban Department of the National Bureau of Statistics, interprets the
-  - [china] Changes in sales prices of commercial housing in 70 large and medium-sized cities in September 2026
-  - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
-  - [china] The central bank launches 80 billion yuan 7-day reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T02:32:45+00:00",
+      "published_utc": "2026-10-19T02:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

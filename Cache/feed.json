@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T02:32:44.778456+00:00",
- "collected_at_utc": "2026-10-19T02:32:44.778456+00:00",
+ "generated_at_utc": "2026-10-19T02:42:43.355104+00:00",
+ "collected_at_utc": "2026-10-19T02:42:43.355104+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 997,
-  "china": 914,
-  "taiwan": 341,
-  "korea": 748
+  "china": 916,
+  "taiwan": 340,
+  "korea": 747
  },
- "elapsed_s": 31.0,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T18:39:00+00:00"
+   "newest": "2026-10-19T00:12:39+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-18T21:08:29+08:00"
+   "newest": "2026-10-19T10:15:54+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T02:12:23+00:00"
+   "newest": "2026-10-19T02:34:59+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T02:12:23+00:00"
+   "newest": "2026-10-19T02:24:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T01:21:00+00:00"
+   "newest": "2026-10-18T14:13:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T02:31:24+00:00"
+   "newest": "2026-10-19T02:40:46+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T01:55:44+00:00"
+   "newest": "2026-10-19T02:25:43+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-19T10:00:00+09:00"
+   "newest": "2026-10-19T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T01:49:31+00:00"
+   "newest": "2026-10-19T02:24:33+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,76 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's new home prices fall again in September as recovery stays elusive",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46501D:0-china-s-new-home-prices-fall-again-in-september-as-recovery-stays-elusive/",
+   "published_utc": "2026-10-19T02:39:47+00:00",
+   "title_original": "China's new home prices fall again in September as recovery stays elusive",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fa601067cc2cf1b0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "Japan Week Ahead: BOJ Policymakers Set for More Rate Hikes While Prime Minister Takaichi in Rough Seas Seeking Temporary Sales Tax Cut on Food",
+   "url": "https://www.tradingview.com/news/macenews:dcdaadba7094b:0-japan-week-ahead-boj-policymakers-set-for-more-rate-hikes-while-prime-minister-takaichi-in-rough-seas-seeking-temporary-sales-tax-cut-on-food/",
+   "published_utc": "2026-10-19T02:39:00+00:00",
+   "title_original": "Japan Week Ahead: BOJ Policymakers Set for More Rate Hikes While Prime Minister Takaichi in Rough Seas Seeking Temporary Sales Tax Cut on Food",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f674ecc578f766d6"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China industrial output, retail sales beat forecasts in September",
+   "url": "https://www.investing.com/news/economic-indicators/china-industrial-output-retail-sales-beat-forecasts-in-september-4956219",
+   "published_utc": "2026-10-19T02:34:59+00:00",
+   "title_original": "China industrial output, retail sales beat forecasts in September",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "00404f1a45fdc07b"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Pickles HD, the top company in the pickle industry, has left its full-year forecast unchanged despite the high rate of progress in its performance. President Naoji Kageyama ``aims to recover in the second half of the year.'' | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/961102?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-19T02:30:00+00:00",
+   "title_original": "漬物業界トップのピックルスHD､業績の進捗率が高くても通期予想据え置きの背景 影山直司社長｢下期の挽回目指す｣ | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1086409452f52fa0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -377,6 +447,23 @@
    "live_wire": true,
    "manual": false,
    "id": "47c6b3a94d110d89"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China’s economic growth picks up in third quarter, beating expectations",
+   "url": "https://www.investing.com/news/economy-news/chinas-economic-growth-picks-up-in-third-quarter-beating-expectations-4956218",
+   "published_utc": "2026-10-19T02:24:21+00:00",
+   "title_original": "China’s economic growth picks up in third quarter, beating expectations",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9ecab08771b3d7ab"
   },
   {
    "source_id": "tradingview_live",
@@ -430,12 +517,12 @@
    "id": "49750f59ef127727"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's economic growth picks up in third quarter, beating expectations",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46501H:0-china-s-economic-growth-picks-up-in-third-quarter-beating-expectations/",
-   "published_utc": "2026-10-19T02:19:55+00:00",
-   "title_original": "China's economic growth picks up in third quarter, beating expectations",
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China Q3 GDP grows 4.5%, slightly more than expected",
+   "url": "https://www.investing.com/news/economic-indicators/china-q3-gdp-grows-45-slightly-more-than-expected-4956217",
+   "published_utc": "2026-10-19T02:18:18+00:00",
+   "title_original": "China Q3 GDP grows 4.5%, slightly more than expected",
    "region": "china",
    "topics": [
     "activity"
@@ -444,7 +531,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "ba2438175d9dc558"
+   "id": "abe092c93c629f42"
   },
   {
    "source_id": "nikkei_asia",
@@ -1188,24 +1275,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f69c75a90c5ff954"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ chief says underlying inflation 'quite close' to price goal",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N465004:0-boj-chief-says-underlying-inflation-quite-close-to-price-goal/",
-   "published_utc": "2026-10-19T00:37:17+00:00",
-   "title_original": "BOJ chief says underlying inflation 'quite close' to price goal",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ec9d4fa0315bc3ee"
   },
   {
    "source_id": "investing_econ",
@@ -51856,78 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ed557669b8b5edbb"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "Central Bank: Launching 32 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnhqU2l3OFdZb3R4cWlMak03b1oyR2NBUkpuME1qZmgyalZDeDI0N1dhdXZhZUVab1A1a2gzaHNEODlPMHRZd0s0YVZrOF9tSTg1SUN4X0hnN1JMOVVyVnRSRWM4M3hnOVprbzZyVlRIekx5eG04M0VLSGl6LTJLWXhGaEFGY2tBMGRlbg?oc=5",
-   "published_utc": "2026-09-20T01:31:00+00:00",
-   "title_original": "央行：今日开展320亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a2ccbd95b2179fa2"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Takako Zenba: ``If the yen's depreciation doesn't stop, prices will rise further...'' Concerns about the yen's depreciation as the Bank of Japan decides to raise interest rates (Nikkan Sports)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91N3lKTy1id2Q1T1NGVTU5Y0QtQWtTbFBrcTdjRk9CUktrdDZialViMVlyMVIyampNbWdmcHd2ampDcHZCTWduUjY3OTBQRHZtVjNrc0pOb290c01DYzloZGsya3ZVRmVnWFh5SFh1bTk2Y0kxTzhrekVGbmd6QUE?oc=5",
-   "published_utc": "2026-09-20T01:02:11+00:00",
-   "title_original": "膳場貴子「円安が止まらなければさらに物価高が…」日銀利上げ決定も進む円安に懸念（日刊スポーツ）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "42d7992ff635ef3d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일일보",
-   "title_en": "[Planning] Pressure on the Bank of Korea to further increase interest rates as high inflation continues",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12QmJ1d0prdEFZSzlyejNFRXhDREVFVGI1TU9RY2lxRlFvR01PbVo2Mi05UzNubDY5TlRCUFdFeXM3cXloR2w2ZlYxcmw5amZTVTUwc21TQUNSRDJZLUNfUFV0Ym7SAWhBVV95cUxQalYzZDYzMUZ5TXp1ZXVycHptMFV3R3FpV3FUZng5SnJEb01iVjRLT3hKYlVCaHJvNVFINlpnUF9xNXhuakR3SWtPTFNLLXlQTDYxWGRqcU15aGZRNVNUSXI2STZ2eWpWMQ?oc=5",
-   "published_utc": "2026-09-20T01:00:00+00:00",
-   "title_original": "[기획] 고물가 지속에 한은의 금리 추가 인상 압박",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc9080e02743d7be"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "apps.digitimes.com",
-   "title_en": "Charts: Two-thirds of Taiwan's chip equipment growth comes from testing AI chips",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTzJEbU1zMmRkc1hBX2dyMEE5Rk92a1dkTE5XT1BZdWh6MHVKZjFMdXFLUTZSSUZic2owc0oyY3dWaWQyOXhIRkZkWEtaQ0JjQzlTYVljQ0daU013MDVsUi1udmZsUzZoQzNBOEVCaXFSaVYwYTJFenJtbmdzUG4xSmpuVFlvYmV1UUlEbk1vWllSeklQMEpObEF0YjdpdVFBRy10WQ?oc=5",
-   "published_utc": "2026-09-20T00:28:17+00:00",
-   "title_original": "Charts: Two-thirds of Taiwan's chip equipment growth comes from testing AI chips",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0c4bbe4e387404d6"
   },
   {
    "source_id": "manual_ia",
