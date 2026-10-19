@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T15:32:44.301943+00:00",
- "collected_at_utc": "2026-10-19T15:32:44.301943+00:00",
+ "generated_at_utc": "2026-10-19T15:42:48.169873+00:00",
+ "collected_at_utc": "2026-10-19T15:42:48.169873+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 994,
+  "japan": 993,
   "china": 901,
   "taiwan": 351,
-  "korea": 754
+  "korea": 755
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -154,8 +154,8 @@
    "name": "MOF Japan",
    "ok": false,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "parada desde 28/09/2026",
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T01:37:47+00:00"
+   "newest": "2026-10-19T03:00:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T14:22:35+00:00"
+   "newest": "2026-10-19T15:02:08+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T14:17:11+00:00"
+   "newest": "2026-10-19T15:02:08+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T15:20:00+00:00"
+   "newest": "2026-10-19T15:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T12:29:23+00:00"
+   "newest": "2026-10-19T09:28:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T01:47:55+00:00"
+   "newest": "2026-10-18T01:05:19+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T09:01:31+00:00"
+   "newest": "2026-10-19T08:44:31+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "Samsung Makes Unusual Move for Nvidia Chips",
+   "url": "https://www.tradingview.com/news/gurufocus:a029699f1094b:0-samsung-makes-unusual-move-for-nvidia-chips/",
+   "published_utc": "2026-10-19T15:34:13+00:00",
+   "title_original": "Samsung Makes Unusual Move for Nvidia Chips",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "27e1a89e6407c1a3"
+  },
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
@@ -1389,23 +1406,6 @@
    "live_wire": false,
    "manual": false,
    "id": "af0175e21c871d4e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Rice Prices Key to Japan Inflation Expectations — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261019000357:0-rice-prices-key-to-japan-inflation-expectations-market-talk/",
-   "published_utc": "2026-10-19T05:43:00+00:00",
-   "title_original": "Rice Prices Key to Japan Inflation Expectations — Market Talk",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "632ccdbb26083caf"
   },
   {
    "source_id": "nhk_politics",

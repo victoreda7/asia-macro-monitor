@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T15:32:44.301943+00:00
+Última coleta: 2026-10-19T15:42:48.169873+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          994
+  🇯🇵 Japão          993
   🇨🇳 China          901
   🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  754
+  🇰🇷 Coreia do Sul  755
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Makes Unusual Move for Nvidia Chips
   - [china] Yuan Ranks Third in Global Payments Under Broader Measure, PBOC Chief Says
   - [korea] SK hynix launches W2tr financing program to bolster chip suppliers
   - [japan] Preview: Forecasters See Japanese Exports, Imports Continuing to Surge in September Report as Tech Spending Ri
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il predicted that Korea's econom..
   - [china] Opinion | Southeast Asia need not be a pressure valve for China’s exports
   - [korea] The Bank of Korea is likely to freeze its benchmark interest rate in October... Expert: “This is not the end o
-  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T15:32:44+00:00",
+      "published_utc": "2026-10-19T15:42:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
