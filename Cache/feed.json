@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T00:52:43.895183+00:00",
- "collected_at_utc": "2026-10-19T00:52:43.895183+00:00",
+ "generated_at_utc": "2026-10-19T01:02:42.681739+00:00",
+ "collected_at_utc": "2026-10-19T01:02:42.681739+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2983,
+ "count": 2984,
  "by_region": {
   "japan": 1009,
   "china": 885,
   "taiwan": 343,
-  "korea": 746
+  "korea": 747
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T00:30:56+00:00"
+   "newest": "2026-10-19T00:48:51+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T08:50:00+09:00"
+   "newest": "2026-10-19T09:58:20+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T02:46:10+00:00"
+   "newest": "2026-10-18T14:13:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-18T23:44:37+00:00"
+   "newest": "2026-10-19T00:58:29+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T00:24:09+00:00"
+   "newest": "2026-10-19T00:45:04+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T00:19:00+00:00"
+   "newest": "2026-10-18T13:10:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The won per dollar reached its highest level in two years and one month due to strong exports center..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tYW5aQm05cWxsTDlESVAtNFlEVXZrTTV3YlhVX0pXUlZ6OEZkZ19yZFRiTXVHYnMxdXV6TGEzZzhJa3lrRDFsUlBFVnREX2FxcXc?oc=5",
+   "published_utc": "2026-10-19T00:40:13+00:00",
+   "title_original": "The won per dollar reached its highest level in two years and one month due to strong exports center..",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f69c75a90c5ff954"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -360,23 +377,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ec9d4fa0315bc3ee"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한국경제",
-   "title_en": "“The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xRlBleVVMN3Jra3J0RlBsUWYwQ19xUXRzZWYwSXRrUjY5ckw1Rjc5aDJwNlpkV3FVcnotVzA2VkRlNGhNcWtwYmE1WEJlV3pnak5ua2NDbFhDUQ?oc=5",
-   "published_utc": "2026-10-19T00:19:00+00:00",
-   "title_original": "\"한은, 기준금리 10월 동결, 11월엔 인상 유력\"",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "35dfd829a20ae0a3"
   },
   {
    "source_id": "investing_econ",
@@ -902,6 +902,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e2fe32c82c1b64e1"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국경제",
+   "title_en": "“The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xRlBleVVMN3Jra3J0RlBsUWYwQ19xUXRzZWYwSXRrUjY5ckw1Rjc5aDJwNlpkV3FVcnotVzA2VkRlNGhNcWtwYmE1WEJlV3pnak5ua2NDbFhDUQ?oc=5",
+   "published_utc": "2026-10-18T08:27:09+00:00",
+   "title_original": "\"한은, 기준금리 10월 동결, 11월엔 인상 유력\"",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "35dfd829a20ae0a3"
   },
   {
    "source_id": "gn_kr_bok",

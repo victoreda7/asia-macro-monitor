@@ -7,18 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T00:52:43.895183+00:00
-Total: 2983 manchetes
+Última coleta: 2026-10-19T01:02:42.681739+00:00
+Total: 2984 manchetes
 
   🇯🇵 Japão          1009
   🇨🇳 China          885
   🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  746
+  🇰🇷 Coreia do Sul  747
 
 ## O que já está no feed (não repita)
 
+  - [korea] The won per dollar reached its highest level in two years and one month due to strong exports center..
   - [japan] BOJ chief says underlying inflation 'quite close' to price goal
-  - [korea] “The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”
   - [japan] BOJ Governor Ueda says underlying inflation ’quite close’ to 2% target
   - [japan] Bank of Japan Governor Ueda will attend the House of Councilors Budget Committee meeting from 9 a.m. - Diet so
   - [china] China’s Q3 GDP growth set to pick up as exports power ahead
@@ -49,6 +49,7 @@ Total: 2983 manchetes
   - [china] This Week’s Key Economic and Crypto Events: US Initial Jobless Claims, China GDP
   - [korea] BOK to pause before November hike, rates to peak at 3.50%, survey shows
   - [korea] Controversy over the semiconductor supercycle "peakout" is heating up ahead of the Bank of Korea's M..
+  - [korea] “The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”
   - [korea] “The Bank of Korea will freeze the base interest rate in October…likely to raise it in November.”
   - [china] Hygon Information Plans To Buy Back Shares For Up To 800 Mln Yuan
   - [korea] The balance of group loans increased while jeonse loans decreased amid the government's tightening o..
@@ -56,7 +57,6 @@ Total: 2983 manchetes
   - [china] Wuxi Hyatech To Issue Convertible Bond Raising 600 Mln Yuan For Projects
   - [china] China proposes export curbs on 12 key solar manufacturing technologies
   - [japan] BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll
-  - [china] Shengyi Technology Plans To Buy Back Shares For Up To 300 Mln Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2983 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T00:52:44+00:00",
+      "published_utc": "2026-10-19T01:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
