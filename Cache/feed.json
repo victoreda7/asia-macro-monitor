@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T05:22:42.885127+00:00",
- "collected_at_utc": "2026-10-19T05:22:42.885127+00:00",
+ "generated_at_utc": "2026-10-19T05:32:42.390303+00:00",
+ "collected_at_utc": "2026-10-19T05:32:42.390303+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 996,
-  "china": 913,
+  "japan": 997,
+  "china": 910,
   "taiwan": 342,
-  "korea": 749
+  "korea": 751
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T03:10:00+00:00"
+   "newest": "2026-10-19T03:45:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-19T13:42:51+00:00"
+   "newest": "2026-10-19T14:22:00+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -154,8 +154,8 @@
    "name": "MOF Japan",
    "ok": false,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "parada desde 28/09/2026",
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T12:15:00+09:00"
+   "newest": "2026-10-19T14:22:39+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T05:22:00+00:00"
+   "newest": "2026-10-19T05:30:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T03:27:46+00:00"
+   "newest": "2026-10-19T00:26:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "House of Councilors, Liberal Democratic Party, Ritsumeikan Committee on National Affairs meeting, discussion on consumption tax reduction bill",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61538",
+   "published_utc": "2026-10-19T05:22:39+00:00",
+   "title_original": "参院自民 立民 国対委員長会談 消費税減税法案審議めぐり協議",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0cb61360477a8af0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korean Won Extends Gains Near 2-Year High",
+   "url": "https://www.tradingview.com/news/te_news:593021:0-south-korean-won-extends-gains-near-2-year-high/",
+   "published_utc": "2026-10-19T05:09:39+00:00",
+   "title_original": "South Korean Won Extends Gains Near 2-Year High",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a0da9846b6565bb4"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -550,6 +585,23 @@
    "live_wire": true,
    "manual": false,
    "id": "1acb7da8bdcf55c2"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0VhbHBHM1Q5cDl4a2ZwZXBDaGNtM2M3UF96ZVFmYl80UGNSQUM5YzQtWTNieUh0R2JYQmprZWtGUk90U2QxNU8zT1lYbkxidEV5LVJicC0wbVNoWU44cVN5bjl3TXQ5N2dnRUJpbEZiR3ZxUXhCRzFGWUJGdzhMYTVFbndUZXNRcFNGVUZ6dEJyOTk3QXZhdU11T1RtZGZMZ2w5SGNCSzB2ZEZIaHZUT09XZw?oc=5",
+   "published_utc": "2026-10-19T03:45:00+00:00",
+   "title_original": "Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "445d44e9729625d5"
   },
   {
    "source_id": "tradingview_live",
@@ -936,6 +988,24 @@
    "id": "314f2ebd8dd1b5c7"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China's economic growth picks up as exports boom, consumers balk",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI?oc=5",
+   "published_utc": "2026-10-19T02:22:00+00:00",
+   "title_original": "China's economic growth picks up as exports boom, consumers balk",
+   "region": "china",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f50dbd1d5aa70e31"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-AUG +5.3% Y/Y",
@@ -1244,23 +1314,6 @@
    "id": "3e5a0ada5eae24fd"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's Q3 GDP growth accelerates to 4.5%, beating f'cast",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45900M:0-china-s-q3-gdp-growth-accelerates-to-4-5-beating-f-cast/",
-   "published_utc": "2026-10-19T02:00:00+00:00",
-   "title_original": "China's Q3 GDP growth accelerates to 4.5%, beating f'cast",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "88caac7501b1d5f5"
-  },
-  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "In the third quarter of 2026, the national industrial capacity utilization rate above designated size was 73.1%",
@@ -1282,7 +1335,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "The added value of industrial enterprises above designated size increased by 5.5% in September 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hRU92ZF9HeWxKbFc3c2Q3SmxnSmRiWEsxVDRLUG1tcnhLYmU3UzJLaDlOTkhPQm1NWnhhUUJPYmNwS21lN1pzSUZZQkZOR0Z1VjNQUUdadlhzZXM3NE9qbmVsSXJnT004OE9xRWt5UHNIcDQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80ZlRuLThhbVM2UmtuRy13REs2bnpIeVZxTlQ0VWZqYkVXNFlDS1F0LThkUFlVZVZuOXNXbFY3ZW9mLWNaSXRPVlJwVmt0cjlLdnZaT1g1aV9pVmlUb0NmQU4tUjhCNmlfYXN2RUJiMA?oc=5",
    "published_utc": "2026-10-19T02:00:00+00:00",
    "title_original": "2026年9月份规模以上工业增加值增长5.5%",
    "region": "china",
@@ -1293,7 +1346,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c2d56bdb42a864b7"
+   "id": "655119343804ae4a"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -1315,6 +1368,23 @@
   {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
+   "title_en": "Basic situation of national fixed asset investment from January to September 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhcGhyODdyQlU0SkNHQmhqQ3VRSElXMGRQZEN0R29ZdzhSLVJ4dExTSTJ4RUZFaFR6ajJqWkJyVjRlTERuSEVhRnh2RzgyVnhxbXFESDIxNWNwNEd3eFhjVWFyemVQeHRvenVvQmV6SQ?oc=5",
+   "published_utc": "2026-10-19T02:00:00+00:00",
+   "title_original": "2026年1—9月份全国固定资产投资基本情况",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "151278eb530e1b8a"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
    "title_en": "Basic situation of the national real estate market from January to September 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuSVVlanRWY19fOXkycWtaaGFhRnJWcU5WdjhRNjc2TkdqbDF5X2ZhYTVFZG1meGFPUXIwdGoxSWJuaEVvcDE4U3dlLWtTa3M5NjZWd01LT2tEWEdyWXV6TzZGazBBWVhNVkU4UjJTRQ?oc=5",
    "published_utc": "2026-10-19T02:00:00+00:00",
@@ -1328,23 +1398,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ebb2c7b6d0f517e8"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Basic situation of national fixed asset investment from January to September 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5odVVyQ196X2NYOW53VGpVc0ZZMGh4NzJkeHlXTXBmaUcxTmJCNkdDNzBNVjRDY3U0cDNDTUw3ckZ1bkVTLV9mZ3ZfRFk1RW5LWnlhU0hCLUNHUTF0eGlua0NOTWFFQVdpTTlQM1FreUVOS0k?oc=5",
-   "published_utc": "2026-10-19T02:00:00+00:00",
-   "title_original": "2026年1—9月份全国固定资产投资基本情况",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff7af19597176f64"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -27860,6 +27913,23 @@
    "id": "51d154391bec380c"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan service sector growth slows in September, PMI shows By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2twS3NjQmZiQy1jcDI5c1ZHa0VLWENRVWZySFZuYlluMUtyUkxmbDBCM25BTFlvc3NBTVpkM0JYS1ZpZ19QRTNLWER1cV9lOEFhb2EyTWNIaENScktPY21LRjEtbHZ5cDlEMEc4TWROZWtpd1VvUUNnWDVsQTNGbUJOb0FZQjJIQldqeDRyRi1fbmFzbWk4UHZGSW04MFMxQXBQaElWNDBnVUhINjhobXhQQTVWMUNO?oc=5",
+   "published_utc": "2026-10-05T08:34:14+00:00",
+   "title_original": "Japan service sector growth slows in September, PMI shows By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3bda50f15be15663"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "Taiwan Forex Reserves Edge Lower",
@@ -28028,23 +28098,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8ce1cfa2778c4591"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan service sector growth slows in September, PMI shows By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2twS3NjQmZiQy1jcDI5c1ZHa0VLWENRVWZySFZuYlluMUtyUkxmbDBCM25BTFlvc3NBTVpkM0JYS1ZpZ19QRTNLWER1cV9lOEFhb2EyTWNIaENScktPY21LRjEtbHZ5cDlEMEc4TWROZWtpd1VvUUNnWDVsQTNGbUJOb0FZQjJIQldqeDRyRi1fbmFzbWk4UHZGSW04MFMxQXBQaElWNDBnVUhINjhobXhQQTVWMUNO?oc=5",
-   "published_utc": "2026-10-05T07:00:00+00:00",
-   "title_original": "Japan service sector growth slows in September, PMI shows By Investing.com",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3bda50f15be15663"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51878,58 +51931,6 @@
    "live_wire": true,
    "manual": false,
    "id": "cca52a7f93d7e1ae"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
-   "title_en": "China’s trade limits continue to bite into Japan’s rare earth imports",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2lNdzNOMzJtOUhFQ3I1YzRYTEdVenJuOVg1RXpoV0RFZUU5bmhJRG9qMENHdUJOWVhCQ1pVSm51OUNWWWlrZ3g5b0hWcWQ5SWFNVTRPcGxacXRfUElHenlnVm01UGVaaExjQXRLMGpKMnJPcTFWNkZ2dUQ2Z0pXSkJuQXNBeEZ3NXpad3htbkdtUXJQc1hrZFRVQVJMSlEwT0wyUGdZWHJvTlJDa21teGFFSlRLak1lNzFxedIBvAFBVV95cUxNNzNQOUVxZXowak5RaEViRGZKTzA3QWM4YXA0TWoxTlRhRU9QUW1CVm5HSFhtZjVsUkdwQVh2aEJOekhjSHRyNzVudVM1a1p4YzJBVUNyblJNNVZpT2tweDNZZEd3dkNBdEJ5RUV3N01XZWVZRnZvcHdBdHFLWVNzLTNmYXFvQXlTX0JYVXJQNWFYenNLZHNUYVJYMGVuY3NuMU90YXoxeDJPRDl3VTRudlZhTUtuaE9wTlRDbw?oc=5",
-   "published_utc": "2026-09-20T09:30:25+00:00",
-   "title_original": "China’s trade limits continue to bite into Japan’s rare earth imports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4c895da2af32235"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank's 272 billion yuan reverse repurchase and 180 billion yuan treasury cash deposits will expire next week",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84N0pBai1ScGVodE1uMVdRUE9haERKbC04ZXlMcG5waFBmYUpGTE5RbDh0NnFHSnR2b3J5a1Rsam9oZk0zQVZXN0RhTU53UQ?oc=5",
-   "published_utc": "2026-09-20T09:16:39+00:00",
-   "title_original": "央行下周2720亿元逆回购到期及1800亿元国库现金定存到期",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9dbc90660beb6f96"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's soybean imports from the US fall 12% in August",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45A0ZT:0-china-s-soybean-imports-from-the-us-fall-12-in-august/",
-   "published_utc": "2026-09-20T09:05:28+00:00",
-   "title_original": "China's soybean imports from the US fall 12% in August",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d0d618a386c30ec0"
   },
   {
    "source_id": "manual_ia",

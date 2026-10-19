@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T05:22:42.885127+00:00
+Última coleta: 2026-10-19T05:32:42.390303+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          996
-  🇨🇳 China          913
+  🇯🇵 Japão          997
+  🇨🇳 China          910
   🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  749
+  🇰🇷 Coreia do Sul  751
 
 ## O que já está no feed (não repita)
 
+  - [japan] House of Councilors, Liberal Democratic Party, Ritsumeikan Committee on National Affairs meeting, discussion o
+  - [korea] South Korean Won Extends Gains Near 2-Year High
   - [korea] SK Hynix bounces from extreme oversold-bear risk stays: Live levels
   - [japan] Nikkei 225 in strong downtrend at JPY 65,000: Live levels
   - [china] China’s CXMT shares slide despite ninefold revenue growth forecast
@@ -29,6 +31,7 @@ Total: 3000 manchetes
   - [china] China's Economy Expanded 4.5% in Third Quarter, Powered by Exports — WSJ
   - [korea] Samsung Electronics, SK Hynix Slide as Korea Pension Fund Takes $137 Billion Hit
   - [korea] Samsung and SK Hynix stocks slide; is there a reversal in sight?
+  - [korea] Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension
   - [korea] Bitcoin, Korea’s Kospi and Nasdaq Futures Rally as China GDP Beats Estimates
   - [taiwan] Finance minister leads Taiwan delegation to APEC meeting in Hong Kong
   - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
@@ -51,12 +54,9 @@ Total: 3000 manchetes
   - [japan] Takaichi Rejects Blame for Weak Yen and High Interest Rates
   - [china] China’s economic growth picks up in third quarter, beating expectations
   - [china] China's 3Q GDP Growth Tops Expectations
+  - [china] China's economic growth picks up as exports boom, consumers balk
   - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-AUG +5.3% Y/Y
   - [china] CHINA YTD RETAIL SALES +1.1% Y/Y VS JAN-AUG +1.1% Y/Y
-  - [china] China's economy picks up pace in Q3 as exports power uneven recovery
-  - [japan] Japan's Takaichi Turns to English Outreach on Fiscal Concerns
-  - [china] China Q3 GDP grows 4.5%, slightly more than expected
-  - [china] China Home Price Slump Eases, Fueling Hopes for Market Recovery
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T05:22:43+00:00",
+      "published_utc": "2026-10-19T05:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
