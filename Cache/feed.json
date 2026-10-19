@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-19T23:02:45.181461+00:00",
- "collected_at_utc": "2026-10-19T23:02:45.181461+00:00",
+ "generated_at_utc": "2026-10-19T23:22:43.430586+00:00",
+ "collected_at_utc": "2026-10-19T23:22:43.430586+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 997,
-  "china": 898,
+  "china": 897,
   "taiwan": 351,
-  "korea": 754
+  "korea": 755
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T22:53:45+00:00"
+   "newest": "2026-10-19T23:06:40+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +107,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T13:40:00+00:00"
+   "newest": "2026-10-19T10:21:11+00:00"
   },
   {
    "source_id": "ked_global",
@@ -243,7 +251,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-19T22:17:55+00:00"
+   "newest": "2026-10-19T23:03:17+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +275,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T22:52:00+00:00"
+   "newest": "2026-10-19T23:20:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -326,14 +334,6 @@
    "newest": "2026-10-20T08:00:00+09:00"
   },
   {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-19T21:15:29+00:00"
-  },
-  {
    "source_id": "gn_kr_bok",
    "name": "한국은행",
    "ok": true,
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Samsung Electro-Mechanics to Supply Chip-Packaging Substrates to Major Global Customer in 2027",
+   "url": "https://www.tradingview.com/news/DJN_DN20261019008418_20261019008419:0-samsung-electro-mechanics-to-supply-chip-packaging-substrates-to-major-global-customer-in-2027/",
+   "published_utc": "2026-10-19T23:15:00+00:00",
+   "title_original": "Samsung Electro-Mechanics to Supply Chip-Packaging Substrates to Major Global Customer in 2027",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c6c66c0bb42efd23"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -1120,7 +1137,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China Slaps Export Curbs on More Drones and Industrial Machinery",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUJwVW1IR0ExWmUzSXV6YTBrYUw0WXJVUTFtenFRYXQ0QmZBaWdXYWFmNEVDMm92SWxPNlRYc19ubkFVRVhBbUc5aERhNVJRUUJzUWpNWHJFcTR5OHozUGNZWWEyLU9kdU95R3BaZXF4T19zeTBrZkU1ZzI2aXdlNkJXaE02Q01fSlV5eFBsVEdqLUM0Z0w1WFI5SjVnY2NmdFd0VDRQZ3UzODhyaURpNzhkVTVzUQ?oc=5",
    "published_utc": "2026-10-19T08:54:59+00:00",
@@ -1391,23 +1408,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7790b1f527a771d8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Iron ore rises as China's economic growth accelerates, steel output climbs",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N465075:0-iron-ore-rises-as-china-s-economic-growth-accelerates-steel-output-climbs/",
-   "published_utc": "2026-10-19T07:42:13+00:00",
-   "title_original": "Iron ore rises as China's economic growth accelerates, steel output climbs",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "491ebe8ffa0b881f"
   },
   {
    "source_id": "focus_taiwan",
@@ -2030,7 +2030,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China Home Price Slump Eases, Fueling Hopes for Recovery",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGxtUUFxSk9HMDNBNXhNYnVqVWV3NnRMYU9XaGFnUVRVN0FRLUZqQVZkTWlqdWNYbTVKc2RvZG5YNlNtTUh2bmRjTDhaNFRtRUJlRlBCX1ZhWmJhQ2wzN1pYM3JYb0JJN1NVbVN6Wnl1TmUzVk5QM2FTaW82X1NpQUgyVXNUZDlpSGdUbnRvVHMwanlqZ1cyY0FucGVxTDlIejQxR09PT05raklYSy1pT1pKYw?oc=5",
    "published_utc": "2026-10-19T02:18:00+00:00",
@@ -4366,10 +4366,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
+   "source_name": "Investing.com Nigeria",
    "title_en": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHFSWnhza0FRTjRPUHJCN3RkQ2g0SkkyS01GVUhmTW51aVZmWEFtd3QzdnhNR2V1cmZHYmdMWlVzZDM1NkFHVXB5RGJ2MUg4XzJXVGMyXzd0dWdJaW9sUG1NcEtuVUV6cmZ4YjdlQ2pxa1NyNUEzZUdjMTRGQ2VlYlhMVV9VbkE4aVAwYWRzTjY4Rks2WXQ1bVFWSVd1Z3N4ekp2cTF0a3hNV3htc0xrTXBYMHZGUzdCNkZr?oc=5",
-   "published_utc": "2026-10-16T20:49:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzhpNk02NUd0cThLZGtubEhyQjk3ZWF1SjJpVWp2ZUVPQWw1Z0tmUk5RNmM0cWJudTh4WmtTU2pTajNDNko4VmsxQ0p4d3h0UGNHcTRhS3NfdjR6OEI1OGJCcHpNbEU4Q2t5UnRmeUc0cVBDUzZOckFydk1DRkwtZV9NamJqdjF6R3FfUUxZa0hDVDd3djl4NDlzcUpVbG9QdWQ1T1UzaS1PWG1odGVkRzk0QS1aVEE?oc=5",
+   "published_utc": "2026-10-16T21:21:43+00:00",
    "title_original": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
    "region": "japan",
    "topics": [
@@ -4379,7 +4379,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "0b4180c2c98b1e85"
+   "id": "d89a3510b7970b73"
   },
   {
    "source_id": "nhk_politics",
@@ -6637,7 +6637,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "SBS Biz",
    "title_en": "[Next week's economic schedule] Pay attention to the Bank of Korea's base interest rate decision... China's third quarter growth rate is also of interest.",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfM2x4X0tHTzRpOU9TcTIzbS1WalRqV1VUOF9rTGdaUndSTS1BRHNTb0R1TzFmN3dXcUFrZHg2THhxMk9GSGhudWxMaFNpWWJ2bFZB0gFYQVVfeXFMTjhTcVBPTS1tV0tLd0dUbDVENVhoaWNBUk9YWnd3WEh0TTdhaml3dFZfUGpkX0FzeXhGaHZMVk9ERkd4WTRuOFUwZGcxSjROa2RDd2J2MDRMdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44U3FQT00tbVdLS3dHVGw1RDVYaGljQVJPWFp3d1hIdE03YWppd3RWX1BqZF9Bc3l4Rmh2TFZPREZHeFk0bjhVMGRnMUo0TmtkQ3didjA0THfSAVhBVV95cUxOOFNxUE9NLW1XS0t3R1RsNUQ1WGhpY0FST1had3dYSHRNN2FqaXd0Vl9QamRfQXN5eEZodkxWT0RGR3hZNG44VTBkZzFKNE5rZEN3YnYwNEx3?oc=5",
    "published_utc": "2026-10-16T01:37:00+00:00",
    "title_original": "[다음 주 경제일정] 한국은행 기준금리 결정 주목…中 3분기 성장률도 관심",
    "region": "korea",
@@ -6649,7 +6649,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "09d67c7edcf8d3ad"
+   "id": "86c3da9150a0ab07"
   },
   {
    "source_id": "gn_cn_pboc",
