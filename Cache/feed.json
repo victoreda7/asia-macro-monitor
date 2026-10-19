@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T10:32:43.438031+00:00",
- "collected_at_utc": "2026-10-19T10:32:43.438031+00:00",
+ "generated_at_utc": "2026-10-19T10:42:43.117102+00:00",
+ "collected_at_utc": "2026-10-19T10:42:43.117102+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 993,
+  "japan": 994,
   "china": 902,
   "taiwan": 346,
-  "korea": 759
+  "korea": 758
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T19:06:05+09:00"
+   "newest": "2026-10-19T19:40:29+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T19:23:30+09:00"
+   "newest": "2026-10-19T19:33:39+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T10:31:51+00:00"
+   "newest": "2026-10-19T10:42:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,62 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T08:26:01+00:00"
+   "newest": "2026-10-19T08:51:51+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Micronesian President visits Japan and holds summit meeting with Prime Minister Takaichi",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61789",
+   "published_utc": "2026-10-19T10:40:29+00:00",
+   "title_original": "ミクロネシア大統領が来日へ 高市首相と首脳会談も",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5b3179676cb7691f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Shenzhen Investment Says In Q3, Real Estate Dev Business Unaudited Contracted Sales Of Rmb1.814 Bln",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4630LP:0-shenzhen-investment-says-in-q3-real-estate-dev-business-unaudited-contracted-sales-of-rmb1-814-bln/",
+   "published_utc": "2026-10-19T10:32:17+00:00",
+   "title_original": "Shenzhen Investment Says In Q3, Real Estate Dev Business Unaudited Contracted Sales Of Rmb1.814 Bln",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f2a5b6591cf88c9b"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Liberal Democratic Party Ishin leadership seeks cooperation from opposition parties to pass consumption tax reduction bill in current Diet session",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61585",
+   "published_utc": "2026-10-19T10:32:14+00:00",
+   "title_original": "自民 維新幹部 消費税減税法案 今国会成立へ 野党の協力求める",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3d1a7eed61eb83a3"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -962,24 +1014,6 @@
    "id": "d6e741fef37bc9c3"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Liberal Democratic Party Ishin leadership seeks cooperation from opposition parties to pass consumption tax reduction bill in current Diet session",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61585",
-   "published_utc": "2026-10-19T06:35:45+00:00",
-   "title_original": "自民 維新幹部 消費税減税法案 今国会成立へ 野党の協力求める",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3d1a7eed61eb83a3"
-  },
-  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "China GDP growth ticks up to 4.5% in Jul.-Sep. period",
@@ -1460,23 +1494,6 @@
    "live_wire": false,
    "manual": false,
    "id": "af81379d04a36c92"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Bitcoin, Korea’s Kospi and Nasdaq Futures Rally as China GDP Beats Estimates",
-   "url": "https://www.tradingview.com/news/binance_news:bab20693b094b:0-bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates/",
-   "published_utc": "2026-10-19T03:41:16+00:00",
-   "title_original": "Bitcoin, Korea’s Kospi and Nasdaq Futures Rally as China GDP Beats Estimates",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0d33195497f78241"
   },
   {
    "source_id": "focus_taiwan",
@@ -4347,8 +4364,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -4362,7 +4379,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -7014,8 +7031,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -7029,7 +7046,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -51904,24 +51921,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c42a186dae629933"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 165 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IaGxRREVSSEJtb3A5NVZVbTQwamxfYnZ1VEZObUJBZVNyaXVXZjZ3X01xMkIxRUh4dGI4SWZwVTZxMjBuMXpEUklJRUc2VHlGb1RSQ2IwVXN2X1BvMl9QUQ?oc=5",
-   "published_utc": "2026-09-21T01:26:34+00:00",
-   "title_original": "央行今日开展1650亿元7天逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a800ab2311223981"
   },
   {
    "source_id": "manual_ia",

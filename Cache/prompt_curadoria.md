@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T10:32:43.438031+00:00
+Última coleta: 2026-10-19T10:42:43.117102+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          993
+  🇯🇵 Japão          994
   🇨🇳 China          902
   🇹🇼 Taiwan         346
-  🇰🇷 Coreia do Sul  759
+  🇰🇷 Coreia do Sul  758
 
 ## O que já está no feed (não repita)
 
+  - [japan] Micronesian President visits Japan and holds summit meeting with Prime Minister Takaichi
+  - [china] Shenzhen Investment Says In Q3, Real Estate Dev Business Unaudited Contracted Sales Of Rmb1.814 Bln
+  - [japan] Liberal Democratic Party Ishin leadership seeks cooperation from opposition parties to pass consumption tax re
   - [china] China's economic growth gains strength with export boom
   - [china] China’s Retail Sales Growth Accelerates to 1.1%
   - [japan] Prime Minister Takaichi secures financial resources for consumption tax reduction “Proceed with review of expe
@@ -53,10 +56,7 @@ Total: 3000 manchetes
   - [korea] SK Hynix’s potential Solidigm IPO reignites debate over multiple listings
   - [china] China commerce ministry announces new export control measures for drone-related items, dredgers
   - [korea] Key facts: Samsung accepts NVDA HBM terms; Banco Santander AI pact
-  - [japan] Liberal Democratic Party Ishin leadership seeks cooperation from opposition parties to pass consumption tax re
   - [china] China GDP growth ticks up to 4.5% in Jul.-Sep. period
-  - [korea] SK hynix launches W2tr financing program to bolster chip suppliers
-  - [japan] Fiscal Concerns May Weigh on 20-Year JGB Auction Demand — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T10:32:43+00:00",
+      "published_utc": "2026-10-19T10:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
