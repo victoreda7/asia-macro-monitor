@@ -7,21 +7,31 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T01:52:45.861683+00:00
-Total: 2996 manchetes
+Última coleta: 2026-10-19T02:02:43.476621+00:00
+Total: 3000 manchetes
 
-  🇯🇵 Japão          1012
-  🇨🇳 China          891
+  🇯🇵 Japão          1008
+  🇨🇳 China          899
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  750
 
 ## O que já está no feed (não repita)
 
+  - [china] China Sep Industrial Output +5.5% On Year; Market Expected +5.5%
+  - [china] China's Q3 GDP growth accelerates to 4.5%, beating f'cast
+  - [china] China 3Q GDP +4.5% on Year; Market Expected +4.4%
+  - [china] China Sep Industrial Output +0.61% On Month
+  - [china] China Jan-Sep GDP +4.6% on Year
+  - [china] China 3Q GDP +1.2% on Quarter
+  - [china] The central bank launches 80 billion yuan 7-day reverse repurchase operation today
+  - [china] China's Home Price Decline Eased Slightly in September
+  - [china] China’s EV Exports Double in September Ahead of Tax Rebate Cut
   - [china] Yuan Steady Ahead of Major Chinese Economic Data — Market Talk
   - [china] China's new home prices fall in September as recovery remains elusive
   - [china] CHINA PBOC CONDUCTS CNY80 BLN VIA 7-DAY REVERSE REPO MON
   - [japan] Japan's 10-year yield falls on risk aversion, debt issuance pledge
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7208 MON VS 6.7220
+  - [china] China New Home Prices Drop the Least in 9 Months
   - [china] Yang Caifang, senior statistician of the Urban Department of the National Bureau of Statistics, interprets the
   - [china] Changes in sales prices of commercial housing in 70 large and medium-sized cities in September 2026
   - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
@@ -47,16 +57,6 @@ Total: 2996 manchetes
   - [japan] Consumption tax reduction related bill to be debated tomorrow, debate between ruling and opposition parties in
   - [japan] NRI's Rs.3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT 
   - [china] China’s proposed solar curbs raise stakes for overseas manufacturers
-  - [korea] Samsung, SK hynix suffer worst weekly stock rout since 2008
-  - [china] Weekly bond market highlights | The central bank invested a net 100 billion yuan in open market government bon
-  - [korea] Bank of Korea decides base interest rate this week...market expected to freeze
-  - [korea] BOK to pause before November hike; rates to peak at 3.50%: survey
-  - [korea] Samsung will use TSMC technology for Nvidia's next-generation memory chips, according to Seoul newspaper
-  - [korea] Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports
-  - [taiwan] Health minister decries bill subsidizing NHI premiums for most seniors
-  - [japan] Yokohama mayoral election exit poll results
-  - [china] TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports
-  - [japan] Yokohama mayoral election vote counting and exit poll election information is here [Breaking news]
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2996 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T01:52:46+00:00",
+      "published_utc": "2026-10-19T02:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
