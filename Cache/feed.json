@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T02:02:43.476621+00:00",
- "collected_at_utc": "2026-10-19T02:02:43.476621+00:00",
+ "generated_at_utc": "2026-10-19T02:12:43.586847+00:00",
+ "collected_at_utc": "2026-10-19T02:12:43.586847+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1008,
-  "china": 899,
+  "japan": 1004,
+  "china": 903,
   "taiwan": 343,
   "korea": 750
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 31.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T05:11:00+00:00"
+   "newest": "2026-10-18T23:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T12:52:11+00:00"
+   "newest": "2026-10-19T02:01:59+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -161,9 +161,9 @@
    "source_id": "gn_cn_nbs",
    "name": "NBS 国家统计局",
    "ok": true,
-   "count": 24,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-19T01:30:00+00:00"
+   "newest": "2026-10-19T02:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T01:56:46+00:00"
+   "newest": "2026-10-18T14:13:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T22:00:12+00:00"
+   "newest": "2026-10-19T02:03:41+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T21:25:13+00:00"
+   "newest": "2026-10-19T00:26:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "China's Q3 GDP narrowly beats forecasts as strong exports buoy growth",
+   "url": "https://asia.nikkei.com/economy/china-s-q3-gdp-narrowly-beats-forecasts-as-strong-exports-buoy-growth",
+   "published_utc": "2026-10-19T02:12:40.873797+00:00",
+   "title_original": "China's Q3 GDP narrowly beats forecasts as strong exports buoy growth",
+   "region": "china",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f9056e0c7884d588"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: China's GDP grows 4.5% in 3rd qtr, accelerating from 2nd qtr",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSUhra29wNWZTb2haeFhnN1p6dlU0WDZDbXZpNG1LaWk3X1dUaVVfRC1ZNGlicENjQlBVemRBcW82OVFKeTN5c1RSR0g4OXpyTGZweHRSSWEtUQ?oc=5",
+   "published_utc": "2026-10-19T02:01:59+00:00",
+   "title_original": "BREAKING NEWS: China's GDP grows 4.5% in 3rd qtr, accelerating from 2nd qtr",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a6afcef16cf07b63"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -444,6 +479,92 @@
    "live_wire": true,
    "manual": false,
    "id": "6fdce3d81d0a82b8"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "In the third quarter of 2026, the national industrial capacity utilization rate above designated size was 73.1%",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85VzFNODFIRlctQXU1Q1l6eWVFXzFTVWxSdU9UMDdscDVQQV9wWkZhYmVTaEtpYXc3WW9JQkp0UTJNd3M2endLN2hKMjRNZzRwN1FCdndJX3VpbzJjeV9SMlQxa0pZdHF5Q1hMLWFKTEk1NGs?oc=5",
+   "published_utc": "2026-10-19T02:00:00+00:00",
+   "title_original": "2026年三季度全国规模以上工业产能利用率为73.1%",
+   "region": "china",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ddd00438d77a549c"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "The added value of industrial enterprises above designated size increased by 5.5% in September 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hRU92ZF9HeWxKbFc3c2Q3SmxnSmRiWEsxVDRLUG1tcnhLYmU3UzJLaDlOTkhPQm1NWnhhUUJPYmNwS21lN1pzSUZZQkZOR0Z1VjNQUUdadlhzZXM3NE9qbmVsSXJnT004OE9xRWt5UHNIcDQ?oc=5",
+   "published_utc": "2026-10-19T02:00:00+00:00",
+   "title_original": "2026年9月份规模以上工业增加值增长5.5%",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c2d56bdb42a864b7"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Total retail sales of consumer goods increased by 1.1% from January to September 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TcmRUc2h5Q3JmX2RLeVZBVmdzSlN4dHBrWDF0V0tVMUVGNUVvaElxd01aQllDVjhIZEVDN0FNNTVsdXcyS0FmdXBpYmlkOW5ld0dwRUh3dzJiZmN0aEpXa3ZrSXdEUHRabVI1ZzZoSGFOME0?oc=5",
+   "published_utc": "2026-10-19T02:00:00+00:00",
+   "title_original": "2026年1—9月份社会消费品零售总额增长1.1%",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "87584bf52a16e0cd"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Basic situation of the national real estate market from January to September 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xS3VGdmJ0c1hvMzE4d3NCd01vNm1fa05LQTB3NmJad2N2ZGNHRVJ2amtFOVcyeTdjSEJmbHZqSkpTUUlCLVFBajF1RXo0a0s5R3hHeVFrRVZ3WXI0WWcxaGlKUHlwUW5RU3pZOTRuOEdoQkE?oc=5",
+   "published_utc": "2026-10-19T02:00:00+00:00",
+   "title_original": "2026年1—9月份全国房地产市场基本情况",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb0d8e1fff78dd03"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Basic situation of national fixed asset investment from January to September 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5odVVyQ196X2NYOW53VGpVc0ZZMGh4NzJkeHlXTXBmaUcxTmJCNkdDNzBNVjRDY3U0cDNDTUw3ckZ1bkVTLV9mZ3ZfRFk1RW5LWnlhU0hCLUNHUTF0eGlua0NOTWFFQVdpTTlQM1FreUVOS0k?oc=5",
+   "published_utc": "2026-10-19T02:00:00+00:00",
+   "title_original": "2026年1—9月份全国固定资产投资基本情况",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff7af19597176f64"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -900,6 +1021,23 @@
    "live_wire": true,
    "manual": false,
    "id": "301e1d77d7fbbda5"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdllCaHBIdzY1OVhGakdCR1BtUFV1alFEb2pWZU14TUxpTE1zcHFqR2tvUXMyVzFRR1F0eUgta2Y0LS1sdFI1M1dsdWpJY3pKY0N4TndyTXNqNHhFb2tzSDdyRzE5dHVpaTROWW9LSm9RWnY3bWF6V0ljNVhHMm5OOVNraVowUnhQaEYwVHRVc2hCN2FjVjRZMUpaTFZLOWJ0bWtyOUhnbGJ3NHJIekRzeDFzcw?oc=5",
+   "published_utc": "2026-10-18T23:00:00+00:00",
+   "title_original": "Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "36fdb469d14ba7bb"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51795,144 +51933,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c74dac3023b96b6d"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Anduril founder urges Taiwan to expand defense production, exports",
-   "url": "https://focustaiwan.tw/politics/202609190010",
-   "published_utc": "2026-09-19T09:41:36+00:00",
-   "title_original": "Anduril founder urges Taiwan to expand defense production, exports",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2cf1aa2527b8db03"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China central bank advisor says AI could deepen supply-demand imbalance",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45B01R:0-china-central-bank-advisor-says-ai-could-deepen-supply-demand-imbalance/",
-   "published_utc": "2026-09-19T07:49:33+00:00",
-   "title_original": "China central bank advisor says AI could deepen supply-demand imbalance",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "88dc1c475266efea"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Key facts: TSLA $16.8B chips; Giga Shanghai >50% output; Sept.30 reply",
-   "url": "https://www.tradingview.com/news/tradingview:9bddb2c090cdd:0-key-facts-tsla-16-8b-chips-giga-shanghai-50-output-sept-30-reply/",
-   "published_utc": "2026-09-19T07:14:36+00:00",
-   "title_original": "Key facts: TSLA $16.8B chips; Giga Shanghai >50% output; Sept.30 reply",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b3a8c08e2ee8e5c5"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "FOCUS: BOJ quickens interest rate hikes, tightening course remains unclear",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pSGdvTmdBcWhGSWs1bl94QUNxRnpmcW9GbHhTdGU5VUFiYkZXSDh6SF9qQmFnTEM2MkotM1NfMGRTRjI3UDFuNGNWTFNKTnVhMk1XMlB0TklNUQ?oc=5",
-   "published_utc": "2026-09-19T07:00:00+00:00",
-   "title_original": "FOCUS: BOJ quickens interest rate hikes, tightening course remains unclear",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d5446bf8ce110f7"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Yen gains vs. dollar amid speculation of BOJ \"rate check\"",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yaXBZY0dmcEtkYXJ6ZnN5M3ZRMzc1WUhmUkZvX0llVy14eTNZc2RjVFNsc21yQWk1NzM0WXZWUVRlaDNNSmtBWGxyMkpYMl9OWXlJMUFuckJRZw?oc=5",
-   "published_utc": "2026-09-19T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Yen gains vs. dollar amid speculation of BOJ \"rate check\"",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b5db8287f19818c1"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China Fiscal Revenue Growth Slows as Government Spending Contracts",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajVnYVFTVWxPRW02QmZSZzVnb2xBWl9qaVc0Z1RrbWpzdTFZQ0xCY2VXSml3S3Q0cDM2ZU1KN3JGaVpKQm04b1k4eFpDM2JZSHR1R1FKeUdHay1sVFNHQ0p3TS1SYzhOSGRtV1RlM3E2M3VtRnV4bU81Z3luT0JOb056YkU2RkVISjhVT2d2Z3dfS19BdU1peENFNUJrSlE1MDVMNHhBUDlOQW9WNkZvVzBKZlBEUVZ4UVN3djJ3?oc=5",
-   "published_utc": "2026-09-19T07:00:00+00:00",
-   "title_original": "China Fiscal Revenue Growth Slows as Government Spending Contracts",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0a1bc5a04b9aa0ab"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The yen price rebounds sharply, temporarily reaching the low 156 yen level, with the Bank of Japan's ``Rate Check'' observation heightening concerns about ``Yen-buying intervention''",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sbk1OVDhVQlN3Y0Z4WERMclZYbFlIZ1RxWnQtQTFueGVleFMzdkg1bXMzTTlzdlUyUl9JZGFhaUcxMmt2RlgtZXZhbVhfWjNlSnV3cENIYXRZakxCWVQ3LWZHR05naGRXdVNBY0xzdm5EN09kRWMtNXhackMzaWs?oc=5",
-   "published_utc": "2026-09-19T06:16:19+00:00",
-   "title_original": "円相場が急反発 一時156円台後半に 日銀「レートチェック」観測で“円買い介入”への警戒強まる",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d988f2504dadfd4"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan raises interest rate on megabank deposits (ABEMA TIMES)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1faWtPZUZCMjRaREN5ZUlDWUV3b1VrWWZFeWt4NXp4X2tOVEZvR1U5QVRaaUxhMWZRMEN1cFFsMVRNNERDdXVWSjhNTGdfZW9vZnVHdWlVSzcwZTNDdWVSdmNwQXd6NVBtOF92cW5rNzlWSHE5dU40cFN6QjlxVEk?oc=5",
-   "published_utc": "2026-09-19T05:36:18+00:00",
-   "title_original": "日銀金利上げうけ メガバンク預金金利を引き上げ（ABEMA TIMES）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "95b111b3f74c167c"
   },
   {
    "source_id": "manual_ia",

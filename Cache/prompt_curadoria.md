@@ -7,22 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T02:02:43.476621+00:00
+Última coleta: 2026-10-19T02:12:43.586847+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1008
-  🇨🇳 China          899
+  🇯🇵 Japão          1004
+  🇨🇳 China          903
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  750
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Q3 GDP narrowly beats forecasts as strong exports buoy growth
+  - [china] BREAKING NEWS: China's GDP grows 4.5% in 3rd qtr, accelerating from 2nd qtr
   - [china] China Sep Industrial Output +5.5% On Year; Market Expected +5.5%
   - [china] China's Q3 GDP growth accelerates to 4.5%, beating f'cast
   - [china] China 3Q GDP +4.5% on Year; Market Expected +4.4%
   - [china] China Sep Industrial Output +0.61% On Month
   - [china] China Jan-Sep GDP +4.6% on Year
   - [china] China 3Q GDP +1.2% on Quarter
+  - [china] In the third quarter of 2026, the national industrial capacity utilization rate above designated size was 73.1
+  - [china] The added value of industrial enterprises above designated size increased by 5.5% in September 2026
+  - [china] Total retail sales of consumer goods increased by 1.1% from January to September 2026
+  - [china] Basic situation of the national real estate market from January to September 2026
+  - [china] Basic situation of national fixed asset investment from January to September 2026
   - [china] The central bank launches 80 billion yuan 7-day reverse repurchase operation today
   - [china] China's Home Price Decline Eased Slightly in September
   - [china] China’s EV Exports Double in September Ahead of Tax Rebate Cut
@@ -49,14 +56,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan Governor Ueda will attend the House of Councilors Budget Committee meeting from 9 a.m. - Diet so
   - [china] China’s Q3 GDP growth set to pick up as exports power ahead
   - [taiwan] Weekly Recap: Q3 revenue surge at TSMC and Arizona fab mass production in Q3 2027
-  - [korea] Chey Tae-won: “If I went back to my 20s, I wouldn’t have gone into semiconductors” ... What would his startup 
-  - [china] How China made climate resilience part of its economic growth strategy
-  - [japan] An uneasy government and riots in France, etc. = Bank of Japan's uneasy jinx (Hirotoshi Kubozono) - Expert
-  - [japan] <Challenging the two powerhouses TOTO and LIXIL> The "two changes" that have enabled Takara Standard to make s
-  - [japan] Three traps that prevent you from assuming that the Bank of Japan will continue to raise interest rates becaus
-  - [japan] Consumption tax reduction related bill to be debated tomorrow, debate between ruling and opposition parties in
-  - [japan] NRI's Rs.3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT 
-  - [china] China’s proposed solar curbs raise stakes for overseas manufacturers
+  - [taiwan] Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T02:02:43+00:00",
+      "published_utc": "2026-10-19T02:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
