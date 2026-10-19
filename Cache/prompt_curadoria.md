@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T17:32:43.864428+00:00
+Última coleta: 2026-10-19T17:42:44.129973+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Agriculture Ministry eyes legal action over egg import, farmland claims
   - [china] Goldman Sachs raises copper forecast as US-China competition tightens supply
   - [japan] Advantage Partners Readies Japan's First Big Forestry Investment Fund, Nikkei Reports
   - [japan] Advantage Partners readies Japan's first big forestry investment fund
@@ -50,7 +51,6 @@ Total: 3000 manchetes
   - [china] China's Export Boom Masks Deep Economic Problems at Home — WSJ
   - [china] China’s Industrial Output Growth Picks Up
   - [japan] Yen price falls slightly against the dollar against the backdrop of rising crude oil futures prices
-  - [korea] Agriculture Ministry eyes legal action over egg import, farmland claims
   - [china] LME owner HKEX eyes more yuan-denominated commodities contracts
   - [korea] Samsung said to use TSMC tech for Nvidia's next-generation memory chips
   - [china] China Slaps Export Curbs on More Drones and Industrial Machinery
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T17:32:44+00:00",
+      "published_utc": "2026-10-19T17:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
