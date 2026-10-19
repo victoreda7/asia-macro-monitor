@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T04:42:45.366862+00:00
+Última coleta: 2026-10-19T04:52:41.346042+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          996
-  🇨🇳 China          912
+  🇯🇵 Japão          997
+  🇨🇳 China          911
   🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  750
 
 ## O que já está no feed (não repita)
 
+  - [japan] USD/JPY Seen Range-Bound Ahead of Central Bank Meetings — Market Talk
   - [china] China Fangda Unit's IKK Fangda JV Signs 2.05 Bln Yuan Curtain Wall Works For Stadium In Saudi Arabia
   - [korea] The Bank of Korea is expected to freeze its base interest rate on the 22nd... Weighted at maintaining 3.00% pe
   - [china] China's GDP Growth Accelerates, but Underlying Momentum Remains Weak — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates: JPY/USD
   - [china] China's Q3 GDP narrowly beats forecasts as strong exports buoy growth
   - [china] China’s Q3 GDP growth accelerates to 4.5%, beating forecast
-  - [china] China Retail Sales Strongest in 6 Months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T04:42:45+00:00",
+      "published_utc": "2026-10-19T04:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
