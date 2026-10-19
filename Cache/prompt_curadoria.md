@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T11:12:43.487095+00:00
+Última coleta: 2026-10-19T11:22:43.251210+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          995
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] XiAn Eswin Material Technology Q3 Net Profit At 440.7 Million Yuan
   - [korea] AM Markets Need to Know: Musk plans SpaceX gift, Samsung taps TSMC, and more
   - [japan] Micronesian President visits Japan and holds summit meeting with Prime Minister Takaichi
   - [china] Shenzhen Investment Says In Q3, Real Estate Dev Business Unaudited Contracted Sales Of Rmb1.814 Bln
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan futures rise as tyre manufacturing resumes in China
   - [china] China stocks end higher as strong GDP outweighs AI jitters
   - [korea] SK Hynix’s potential Solidigm IPO reignites debate over multiple listings
-  - [china] China commerce ministry announces new export control measures for drone-related items, dredgers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T11:12:43+00:00",
+      "published_utc": "2026-10-19T11:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
