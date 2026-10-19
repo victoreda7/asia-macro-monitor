@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T04:02:42.920658+00:00
+Última coleta: 2026-10-19T04:12:43.341023+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          996
-  🇨🇳 China          916
+  🇯🇵 Japão          997
+  🇨🇳 China          913
   🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  746
+  🇰🇷 Coreia do Sul  748
 
 ## O que já está no feed (não repita)
 
+  - [china] China stocks inch higher as strong GDP offsets weak AI mood
+  - [china] China's Economy Expanded 4.5% in Third Quarter, Powered by Exports — WSJ
+  - [korea] Samsung Electronics, SK Hynix Slide as Korea Pension Fund Takes $137 Billion Hit
+  - [korea] Bitcoin, Korea’s Kospi and Nasdaq Futures Rally as China GDP Beats Estimates
   - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
   - [china] Yuan hits 4-year high as strong GDP data tempers need for stimulus
   - [japan] Prime Minister Takaichi secures financial resources for consumption tax reduction “Proceed with review of expe
   - [japan] Yen Steady as Ueda Signals Inflation Near Target
-  - [china] China's Economy Expanded 4.5% in Third Quarter, Powered by Exports — WSJ
   - [taiwan] Taiwan central bank says currency depreciation reflects global stock market 'turmoil'
   - [china] China GDP growth picks up to 4.5% from 3-year low
   - [japan] Japan futures rise as tyre manufacturing resumes; equity selloff weighs
@@ -33,13 +36,17 @@ Total: 3000 manchetes
   - [china] China industrial output, retail sales beat forecasts in September
   - [japan] Pickles HD, the top company in the pickle industry, has left its full-year forecast unchanged despite the high
   - [china] China's daily crude steel output jumps in September on robust exports
+  - [japan] Takaichi Rejects Blame for Weak Yen and High Interest Rates
   - [china] China’s economic growth picks up in third quarter, beating expectations
   - [china] China's 3Q GDP Growth Tops Expectations
   - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-AUG +5.3% Y/Y
   - [china] CHINA YTD RETAIL SALES +1.1% Y/Y VS JAN-AUG +1.1% Y/Y
   - [china] China's economy picks up pace in Q3 as exports power uneven recovery
+  - [japan] Japan's Takaichi Turns to English Outreach on Fiscal Concerns
   - [china] China Q3 GDP grows 4.5%, slightly more than expected
   - [china] China Home Price Slump Eases, Fueling Hopes for Market Recovery
+  - [china] China Home Price Slump Eases, Fueling Hopes for Recovery
+  - [japan] Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates: JPY/USD
   - [china] China's Q3 GDP narrowly beats forecasts as strong exports buoy growth
   - [china] China’s Q3 GDP growth accelerates to 4.5%, beating forecast
   - [china] China Retail Sales Strongest in 6 Months
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [china] BREAKING NEWS: China's GDP grows 4.5% in 3rd qtr, accelerating from 2nd qtr
   - [china] China's factory output growth picks up pace in September, retail sales also
   - [china] China Sep Industrial Output +5.5% On Year; Market Expected +5.5%
-  - [china] China's Q3 GDP growth accelerates to 4.5%, beating f'cast
-  - [china] China 3Q GDP +4.5% on Year; Market Expected +4.4%
-  - [china] China Sep Industrial Output +0.61% On Month
-  - [china] China Jan-Sep GDP +4.6% on Year
-  - [china] China 3Q GDP +1.2% on Quarter
-  - [china] In the third quarter of 2026, the national industrial capacity utilization rate above designated size was 73.1
-  - [china] The added value of industrial enterprises above designated size increased by 5.5% in September 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T04:02:43+00:00",
+      "published_utc": "2026-10-19T04:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
