@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T03:12:43.115769+00:00
+Última coleta: 2026-10-19T03:22:43.578624+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          997
-  🇨🇳 China          916
-  🇹🇼 Taiwan         341
+  🇨🇳 China          915
+  🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  746
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister Takaichi secures financial resources for consumption tax reduction “Proceed with review of expe
   - [china] China's Economy Expanded 4.5% in Third Quarter, Powered by Exports — WSJ
+  - [taiwan] Taiwan central bank says currency depreciation reflects global stock market 'turmoil'
   - [china] China GDP growth picks up to 4.5% from 3-year low
   - [japan] Japan futures rise as tyre manufacturing resumes; equity selloff weighs
   - [china] China’s new home prices fall again in September as recovery stays elusive
@@ -50,13 +52,11 @@ Total: 3000 manchetes
   - [china] In the third quarter of 2026, the national industrial capacity utilization rate above designated size was 73.1
   - [china] The added value of industrial enterprises above designated size increased by 5.5% in September 2026
   - [china] Total retail sales of consumer goods increased by 1.1% from January to September 2026
-  - [china] Basic situation of national fixed asset investment from January to September 2026
   - [china] Basic situation of the national real estate market from January to September 2026
+  - [china] Basic situation of national fixed asset investment from January to September 2026
   - [china] The central bank launches 80 billion yuan 7-day reverse repurchase operation today
   - [china] China’s EV Exports Double in September Ahead of Tax Rebate Cut
   - [korea] NPS’s stock holdings lose $136bn in Q3 amid Samsung, SK hynix slump
-  - [japan] Japan PM Pledges to Rein in Debt Issuance
-  - [china] Yuan Steady Ahead of Major Chinese Economic Data — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T03:12:43+00:00",
+      "published_utc": "2026-10-19T03:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
