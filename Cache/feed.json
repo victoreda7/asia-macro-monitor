@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-19T06:52:41.972133+00:00",
- "collected_at_utc": "2026-10-19T06:52:41.972133+00:00",
+ "generated_at_utc": "2026-10-19T07:02:42.602356+00:00",
+ "collected_at_utc": "2026-10-19T07:02:42.602356+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 998,
+  "japan": 999,
   "china": 904,
   "taiwan": 344,
-  "korea": 754
+  "korea": 753
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 49,
+   "error": "",
+   "newest": "2026-10-16T17:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 36,
+   "count": 39,
    "error": "",
-   "newest": "2026-10-19T13:07:09+08:00"
+   "newest": "2026-10-19T14:19:17+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T06:33:04+00:00"
+   "newest": "2026-10-19T06:56:12+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T05:48:41+00:00"
+   "newest": "2026-10-19T06:39:34+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T15:00:37+09:00"
+   "newest": "2026-10-19T15:56:12+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T06:42:21+00:00"
+   "newest": "2026-10-19T07:01:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -774,23 +774,6 @@
    "live_wire": false,
    "manual": false,
    "id": "445d44e9729625d5"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdllCaHBIdzY1OVhGakdCR1BtUFV1alFEb2pWZU14TUxpTE1zcHFqR2tvUXMyVzFRR1F0eUgta2Y0LS1sdFI1M1dsdWpJY3pKY0N4TndyTXNqNHhFb2tzSDdyRzE5dHVpaTROWW9LSm9RWnY3bWF6V0ljNVhHMm5OOVNraVowUnhQaEYwVHRVc2hCN2FjVjRZMUpaTFZLOWJ0bWtyOUhnbGJ3NHJIekRzeDFzcw?oc=5",
-   "published_utc": "2026-10-19T03:45:00+00:00",
-   "title_original": "Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "36fdb469d14ba7bb"
   },
   {
    "source_id": "tradingview_live",
@@ -1821,6 +1804,24 @@
    "id": "e3ef09685da7e607"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "BOJ chief says underlying inflation 'quite close' to price goal",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUlPaThzNFplTl9JQ0oxQjlBY1VFT0N4ZnBGY09mTXZRaG9yeko1M1pzXzNfZ0Zla1RpZlNrVUd1dHRDMzY2cGNmUU13VzNmY2RFTW1VTW5kdDI1NEJsZTBxZ2Y0MHcxTTQweThkSUpZbmRyV1pLMEtpcXc3VWxmd3FqWmhmbzYya1lvSnEwa0J3QXQtMllSTjlfMWlIWVlpQV9KZnFBcDVaRkMtM2R1M1hVb2VJejdUYWRR?oc=5",
+   "published_utc": "2026-10-19T00:17:00+00:00",
+   "title_original": "BOJ chief says underlying inflation 'quite close' to price goal",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4fafc2f52116b5a0"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan Governor Ueda will attend the House of Councilors Budget Committee meeting from 9 a.m. - Diet source (Reuters)",
@@ -1891,6 +1892,23 @@
    "live_wire": true,
    "manual": false,
    "id": "301e1d77d7fbbda5"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdllCaHBIdzY1OVhGakdCR1BtUFV1alFEb2pWZU14TUxpTE1zcHFqR2tvUXMyVzFRR1F0eUgta2Y0LS1sdFI1M1dsdWpJY3pKY0N4TndyTXNqNHhFb2tzSDdyRzE5dHVpaTROWW9LSm9RWnY3bWF6V0ljNVhHMm5OOVNraVowUnhQaEYwVHRVc2hCN2FjVjRZMUpaTFZLOWJ0bWtyOUhnbGJ3NHJIekRzeDFzcw?oc=5",
+   "published_utc": "2026-10-18T23:00:00+00:00",
+   "title_original": "Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "36fdb469d14ba7bb"
   },
   {
    "source_id": "gn_kr_mk",
@@ -8521,7 +8539,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "The central bank released financial statistics for the first three quarters: the increase in social financing exceeded 27 trillion yuan, and the proportion of direct financing increased | People's Bank of China | Bonds | Credit | Loans | Experts",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkRLc2RidWtMdWdnY0hQcDQ0TUdLZE03MTVPUE9UWWVrU0NScVVUYjZyS1pPR3RYV0lSbGtBRkxIeUNyYzR2bWItMXZ5UkJONGNCYXVBZUlqUXI5a3k2VUJGbUJ5Sld6UFFwcVR2NkM2VV9lY2JWbm52N1daXzMybjQyZUpEdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVNMNFI3N0ZKQkxaV1VTWkV2LUhrQ25rQmVDNERMOWJPdWZNWGlfMWU4ZXdudHlCMDBrUFhHdlQ5SlVPN29zMWprV0FIN3pHdDlMZmVOOVhld1NEVFJWQ0pZaXMtQzZUQ2k2UmdybnkzNmFDUDljMmk0X19qbWZrdU5SSGQ2MFViUW80RzJnUXAyV2lmTGkzQU9PeGxER25XVURWbkZB?oc=5",
    "published_utc": "2026-10-15T03:16:51+00:00",
    "title_original": "央行发布前三季度金融统计数据：社融增量超27万亿元，直接融资占比上升|中国人民银行|债券|信贷|贷款|专家",
    "region": "china",
@@ -8533,7 +8551,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "06325222e42c1155"
+   "id": "6e5c9b8f48236ae7"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51911,24 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c53b4ae2b5adebd6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "마켓인",
-   "title_en": "‘Bank of Korea’ very interested in real estate in Seoul",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nbklySUR3RlRaMGpFNDVzTC02WENMam9ncDZ5S1hXTXpDeTd5OWtxNXBvWGhMSlJOVFRzTEgzVWNXY3pLQVpMYlhaNVZBRTFnTE80T1M5bmdmR0F6U0xCbWNYZXpqYlluaTk2bGU4S3VkQXc?oc=5",
-   "published_utc": "2026-09-20T20:00:04+00:00",
-   "title_original": "서울 부동산에 관심 많은 '한국은행'",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0df3e7c7170fb545"
   },
   {
    "source_id": "manual_ia",
