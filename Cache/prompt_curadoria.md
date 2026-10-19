@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T01:22:43.777886+00:00
-Total: 2987 manchetes
+Última coleta: 2026-10-19T01:32:44.359187+00:00
+Total: 2988 manchetes
 
-  🇯🇵 Japão          1010
+  🇯🇵 Japão          1011
   🇨🇳 China          885
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  749
 
 ## O que já está no feed (não repita)
 
+  - [japan] Now is the time when it is more important to stabilize the underlying price index at around 2% - Bank of Japan
   - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
   - [korea] SK Hynix crashes -20.6% below 20-period MA: Live levels
   - [japan] Yen Consolidates, But May Be Supported by Risk-Off Mood — Market Talk
@@ -56,7 +57,6 @@ Total: 2987 manchetes
   - [korea] Controversy over the semiconductor supercycle "peakout" is heating up ahead of the Bank of Korea's M..
   - [korea] “The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”
   - [korea] “The Bank of Korea will freeze the base interest rate in October…likely to raise it in November.”
-  - [china] Hygon Information Plans To Buy Back Shares For Up To 800 Mln Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2987 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T01:22:43+00:00",
+      "published_utc": "2026-10-19T01:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
