@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T00:12:42.998856+00:00
-Total: 2981 manchetes
+Última coleta: 2026-10-19T00:22:41.692336+00:00
+Total: 2982 manchetes
 
-  🇯🇵 Japão          1007
+  🇯🇵 Japão          1008
   🇨🇳 China          885
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  746
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Governor Ueda says underlying inflation 'quite close' to 2% target
   - [china] China’s Q3 GDP growth set to pick up as exports power ahead
   - [taiwan] Weekly Recap: Q3 revenue surge at TSMC and Arizona fab mass production in Q3 2027
   - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
@@ -56,7 +57,6 @@ Total: 2981 manchetes
   - [china] Shengyi Technology Plans To Buy Back Shares For Up To 300 Mln Yuan
   - [china] Montage Technology Plans To Buy Back Shares For Up To 500 Mln Yuan
   - [china] Galaxycore Plans To Buy Back Shares For 150-300 Mln Yuan
-  - [korea] The Bank of Korea decides on the base interest rate on the 22nd... Take a breather
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2981 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T00:12:43+00:00",
+      "published_utc": "2026-10-19T00:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
