@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T04:52:41.346042+00:00
+Última coleta: 2026-10-19T05:02:42.420320+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
-  🇨🇳 China          911
+  🇯🇵 Japão          996
+  🇨🇳 China          912
   🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  750
 
@@ -40,6 +40,7 @@ Total: 3000 manchetes
   - [china] China’s new home prices fall again in September as recovery stays elusive
   - [china] China’s economic growth accelerates to 4.5% in third quarter
   - [china] Offshore Yuan Hits Fresh 4-Year High
+  - [china] VIEW China's economic growth accelerates to 4.5% in third quarter
   - [japan] Japan Week Ahead: BOJ Policymakers Set for More Rate Hikes While Prime Minister Takaichi in Rough Seas Seeking
   - [china] China industrial output, retail sales beat forecasts in September
   - [japan] Pickles HD, the top company in the pickle industry, has left its full-year forecast unchanged despite the high
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Home Price Slump Eases, Fueling Hopes for Recovery
   - [japan] Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates: JPY/USD
   - [china] China's Q3 GDP narrowly beats forecasts as strong exports buoy growth
-  - [china] China’s Q3 GDP growth accelerates to 4.5%, beating forecast
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T04:52:41+00:00",
+      "published_utc": "2026-10-19T05:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
