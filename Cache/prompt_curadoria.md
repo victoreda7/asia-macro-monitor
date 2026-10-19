@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T09:22:43.380439+00:00
+Última coleta: 2026-10-19T09:32:44.184326+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          994
-  🇨🇳 China          900
+  🇯🇵 Japão          995
+  🇨🇳 China          899
   🇹🇼 Taiwan         345
   🇰🇷 Coreia do Sul  761
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Export Boom Masks Deep Economic Problems at Home — WSJ
+  - [japan] Yen price falls slightly against the dollar against the backdrop of rising crude oil futures prices
   - [korea] Agriculture Ministry eyes legal action over egg import, farmland claims
   - [china] LME owner HKEX eyes more yuan-denominated commodities contracts
   - [korea] Samsung said to use TSMC tech for Nvidia's next-generation memory chips
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix bounces from extreme oversold-bear risk stays: Live levels
   - [japan] Nikkei 225 in strong downtrend at JPY 65,000: Live levels
   - [china] China’s CXMT shares slide despite ninefold revenue growth forecast
-  - [japan] USD/JPY Seen Range-Bound Ahead of Central Bank Meetings — Market Talk
-  - [japan] Japan Power Price at Four-Year High With Rising Coal, LNG Costs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T09:22:43+00:00",
+      "published_utc": "2026-10-19T09:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
