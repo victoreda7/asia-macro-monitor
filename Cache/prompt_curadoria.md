@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T03:52:43.299493+00:00
+Última coleta: 2026-10-19T04:02:42.920658+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          996
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan central bank says currency depreciation reflects global stock market 'turmoil'
   - [china] China GDP growth picks up to 4.5% from 3-year low
   - [japan] Japan futures rise as tyre manufacturing resumes; equity selloff weighs
+  - [china] Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says
   - [china] China’s new home prices fall again in September as recovery stays elusive
   - [china] China’s economic growth accelerates to 4.5% in third quarter
   - [china] Offshore Yuan Hits Fresh 4-Year High
@@ -38,6 +39,7 @@ Total: 3000 manchetes
   - [china] CHINA YTD RETAIL SALES +1.1% Y/Y VS JAN-AUG +1.1% Y/Y
   - [china] China's economy picks up pace in Q3 as exports power uneven recovery
   - [china] China Q3 GDP grows 4.5%, slightly more than expected
+  - [china] China Home Price Slump Eases, Fueling Hopes for Market Recovery
   - [china] China's Q3 GDP narrowly beats forecasts as strong exports buoy growth
   - [china] China’s Q3 GDP growth accelerates to 4.5%, beating forecast
   - [china] China Retail Sales Strongest in 6 Months
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China 3Q GDP +1.2% on Quarter
   - [china] In the third quarter of 2026, the national industrial capacity utilization rate above designated size was 73.1
   - [china] The added value of industrial enterprises above designated size increased by 5.5% in September 2026
-  - [china] Total retail sales of consumer goods increased by 1.1% from January to September 2026
-  - [china] Basic situation of the national real estate market from January to September 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T03:52:43+00:00",
+      "published_utc": "2026-10-19T04:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
