@@ -7,18 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T02:12:43.586847+00:00
+Última coleta: 2026-10-19T02:22:41.511813+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1004
-  🇨🇳 China          903
-  🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  750
+  🇯🇵 Japão          1002
+  🇨🇳 China          908
+  🇹🇼 Taiwan         341
+  🇰🇷 Coreia do Sul  749
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-AUG +5.3% Y/Y
+  - [china] CHINA YTD RETAIL SALES +1.1% Y/Y VS JAN-AUG +1.1% Y/Y
+  - [china] China's economic growth picks up in third quarter, beating expectations
   - [china] China's Q3 GDP narrowly beats forecasts as strong exports buoy growth
+  - [china] China’s Q3 GDP growth accelerates to 4.5%, beating forecast
+  - [china] China's Home Price Decline Eased Slightly in September
+  - [china] China Industrial Output Growth Hits 6-Month High
+  - [china] China Q3 GDP Growth Beats Estimates
   - [china] BREAKING NEWS: China's GDP grows 4.5% in 3rd qtr, accelerating from 2nd qtr
+  - [china] China's factory output growth picks up pace in September, retail sales also
   - [china] China Sep Industrial Output +5.5% On Year; Market Expected +5.5%
   - [china] China's Q3 GDP growth accelerates to 4.5%, beating f'cast
   - [china] China 3Q GDP +4.5% on Year; Market Expected +4.4%
@@ -31,8 +39,8 @@ Total: 3000 manchetes
   - [china] Basic situation of the national real estate market from January to September 2026
   - [china] Basic situation of national fixed asset investment from January to September 2026
   - [china] The central bank launches 80 billion yuan 7-day reverse repurchase operation today
-  - [china] China's Home Price Decline Eased Slightly in September
   - [china] China’s EV Exports Double in September Ahead of Tax Rebate Cut
+  - [japan] Japan PM Pledges to Rein in Debt Issuance
   - [china] Yuan Steady Ahead of Major Chinese Economic Data — Market Talk
   - [china] China's new home prices fall in September as recovery remains elusive
   - [china] CHINA PBOC CONDUCTS CNY80 BLN VIA 7-DAY REVERSE REPO MON
@@ -49,14 +57,6 @@ Total: 3000 manchetes
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il predicted a growth rate of 3...
   - [korea] South Korea finmin: 3.4%-3.6% economic growth possible for 2026, Yonhap says
   - [china] China proposes export controls on solar-manufacturing technologies
-  - [japan] Japan PM vows to control size of debt issuance
-  - [korea] The won per dollar reached its highest level in two years and one month due to strong exports center..
-  - [japan] BOJ chief says underlying inflation 'quite close' to price goal
-  - [japan] BOJ Governor Ueda says underlying inflation ’quite close’ to 2% target
-  - [japan] Bank of Japan Governor Ueda will attend the House of Councilors Budget Committee meeting from 9 a.m. - Diet so
-  - [china] China’s Q3 GDP growth set to pick up as exports power ahead
-  - [taiwan] Weekly Recap: Q3 revenue surge at TSMC and Arizona fab mass production in Q3 2027
-  - [taiwan] Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T02:12:43+00:00",
+      "published_utc": "2026-10-19T02:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
