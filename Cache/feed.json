@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T04:32:43.920217+00:00",
- "collected_at_utc": "2026-10-19T04:32:43.920217+00:00",
+ "generated_at_utc": "2026-10-19T04:42:45.366862+00:00",
+ "collected_at_utc": "2026-10-19T04:42:45.366862+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 997,
+  "japan": 996,
   "china": 912,
   "taiwan": 342,
-  "korea": 749
+  "korea": 750
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 30,
+   "count": 32,
    "error": "",
-   "newest": "2026-10-19T10:15:54+08:00"
+   "newest": "2026-10-19T11:38:59+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T04:12:15+00:00"
+   "newest": "2026-10-19T04:30:56+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T01:43:00+00:00"
+   "newest": "2026-10-19T04:17:35+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T04:31:53+00:00"
+   "newest": "2026-10-19T04:39:46+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-19T03:41:52+00:00"
+   "newest": "2026-10-19T04:39:42+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T13:10:00+00:00"
+   "newest": "2026-10-19T04:33:40+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China Fangda Unit's IKK Fangda JV Signs 2.05 Bln Yuan Curtain Wall Works For Stadium In Saudi Arabia",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4650A6:0-china-fangda-unit-s-ikk-fangda-jv-signs-2-05-bln-yuan-curtain-wall-works-for-stadium-in-saudi-arabia/",
+   "published_utc": "2026-10-19T04:33:45+00:00",
+   "title_original": "China Fangda Unit's IKK Fangda JV Signs 2.05 Bln Yuan Curtain Wall Works For Stadium In Saudi Arabia",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b3d36636514d0e8b"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "PRESS9",
+   "title_en": "The Bank of Korea is expected to freeze its base interest rate on the 22nd... Weighted at maintaining 3.00% per annum",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tdTVIcEpzTHYwd3RNREw3eVVOSHhWTmtJSmNmYUF0TDhXOGRJaUszV3dTY2xHR0NqT3hTN2dLeGNrUnQ5dTZWSXh2UWZOY0ZDN1djbzBkZ25ieExuQ0JrVS03V1A?oc=5",
+   "published_utc": "2026-10-19T04:33:40+00:00",
+   "title_original": "한은, 22일 기준금리 동결 전망…연 3.00% 유지에 무게",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b4f20dc339591eca"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -359,6 +393,24 @@
    "live_wire": true,
    "manual": false,
    "id": "1368202f535331d0"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-ticks-higher-yuan-hits-4yr-high-after-china-q3-gdp-beat-4956302",
+   "published_utc": "2026-10-19T04:17:35+00:00",
+   "title_original": "Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat",
+   "region": "china",
+   "topics": [
+    "fx",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "16e121d36709a18c"
   },
   {
    "source_id": "tradingview_live",
@@ -445,6 +497,23 @@
    "live_wire": true,
    "manual": false,
    "id": "0d33195497f78241"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Finance minister leads Taiwan delegation to APEC meeting in Hong Kong",
+   "url": "https://focustaiwan.tw/business/202610190006",
+   "published_utc": "2026-10-19T03:38:59+00:00",
+   "title_original": "Finance minister leads Taiwan delegation to APEC meeting in Hong Kong",
+   "region": "taiwan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "03778d564ee59637"
   },
   {
    "source_id": "tradingview_live",
@@ -1120,23 +1189,6 @@
    "live_wire": true,
    "manual": false,
    "id": "673a81628f70259e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Sep Industrial Output +0.61% On Month",
-   "url": "https://www.tradingview.com/news/DJN_DN20261018001424_20261018001425:0-china-sep-industrial-output-0-61-on-month/",
-   "published_utc": "2026-10-19T02:00:00+00:00",
-   "title_original": "China Sep Industrial Output +0.61% On Month",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "83ae423c0ea3281e"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -3610,8 +3662,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -3625,7 +3677,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -6277,8 +6329,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -6292,7 +6344,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -6946,8 +6998,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -6962,7 +7014,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51877,57 +51929,6 @@
    "live_wire": true,
    "manual": false,
    "id": "337a4e1755ea93b2"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan to give up to 430 mil. yen in grants for Solomon Islands elections",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42ZjVHRzNrSS02V2J5aTVHS1Jyd2xCZ1oyMjBHcGRSMzRYdF9jRjljMW9EV1phb1pyY3QwcFo5RGRFblpDVU5wSFRYTm5lUWFvV2gya1NrOUtnQQ?oc=5",
-   "published_utc": "2026-09-20T07:00:00+00:00",
-   "title_original": "Japan to give up to 430 mil. yen in grants for Solomon Islands elections",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d5de69920a3add4e"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "Scott Bessent hails US-China AI dialogue ahead of Trump-Xi meeting",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDYzWGZJakVxQzJXLU5iczZOeFZjeW9BSE90ZU1rbl8xMlpyUFY3SllzdEhLNFVMNFlpWlNYblRUUFZEMHIzQUJJZ1FPNENJMGctVUZzYUsySjJBM0FWOEVnTjM3VFI4REFZSUxGZ09TRXYxZUgzeVc2V1hyNUJyenQzZEk?oc=5",
-   "published_utc": "2026-09-20T07:00:00+00:00",
-   "title_original": "Scott Bessent hails US-China AI dialogue ahead of Trump-Xi meeting",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1c5286ff9f5dce8e"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Taiwan breaks ground on advanced packaging park anchored by TSMC",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGV6cVJvQlJmWmV0dDdLM0Vka0hFMy03UlZlQzAxTkFZYVdncmZHNER0Sld3U2tWcGdweDdYRmJXMmg1cmVkSmxKaE1WLWM2TFhYVEw2azFIV1ozSzV4S1FOSTh5aUl3eHYydzV0T25uTDFKX0NDTk05X05VclhHTE5HdDYwSHRBcFgxX3F2ZTdORTV6bWVmbk42X2JXcUpkcEgtaWFveG1LNTg4YjNLd0VYV3hPRk0?oc=5",
-   "published_utc": "2026-09-20T07:00:00+00:00",
-   "title_original": "Taiwan breaks ground on advanced packaging park anchored by TSMC",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7bc1090119c4f93b"
   },
   {
    "source_id": "manual_ia",

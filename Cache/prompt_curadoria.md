@@ -7,22 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T04:32:43.920217+00:00
+Última coleta: 2026-10-19T04:42:45.366862+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
+  🇯🇵 Japão          996
   🇨🇳 China          912
   🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  749
+  🇰🇷 Coreia do Sul  750
 
 ## O que já está no feed (não repita)
 
+  - [china] China Fangda Unit's IKK Fangda JV Signs 2.05 Bln Yuan Curtain Wall Works For Stadium In Saudi Arabia
+  - [korea] The Bank of Korea is expected to freeze its base interest rate on the 22nd... Weighted at maintaining 3.00% pe
   - [china] China's GDP Growth Accelerates, but Underlying Momentum Remains Weak — Market Talk
+  - [china] Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat
   - [china] China stocks inch higher as strong GDP offsets weak AI mood
   - [china] China's Economy Expanded 4.5% in Third Quarter, Powered by Exports — WSJ
   - [korea] Samsung Electronics, SK Hynix Slide as Korea Pension Fund Takes $137 Billion Hit
   - [korea] Samsung and SK Hynix stocks slide; is there a reversal in sight?
   - [korea] Bitcoin, Korea’s Kospi and Nasdaq Futures Rally as China GDP Beats Estimates
+  - [taiwan] Finance minister leads Taiwan delegation to APEC meeting in Hong Kong
   - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
   - [china] Yuan hits 4-year high as strong GDP data tempers need for stimulus
   - [japan] Prime Minister Takaichi secures financial resources for consumption tax reduction “Proceed with review of expe
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China's Q3 GDP narrowly beats forecasts as strong exports buoy growth
   - [china] China’s Q3 GDP growth accelerates to 4.5%, beating forecast
   - [china] China Retail Sales Strongest in 6 Months
-  - [china] China's Home Price Decline Eased Slightly in September
-  - [china] China Jobless Rate Edges Lower
-  - [china] China Industrial Output Growth Hits 6-Month High
-  - [china] China Q3 GDP Growth Beats Estimates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T04:32:44+00:00",
+      "published_utc": "2026-10-19T04:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
