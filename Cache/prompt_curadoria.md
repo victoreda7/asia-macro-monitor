@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T06:42:42.982868+00:00
+Última coleta: 2026-10-19T06:52:41.972133+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          998
@@ -42,6 +42,7 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics, SK Hynix Slide as Korea Pension Fund Takes $137 Billion Hit
   - [korea] Samsung and SK Hynix stocks slide; is there a reversal in sight?
   - [korea] Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension
+  - [taiwan] Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally
   - [korea] Bitcoin, Korea’s Kospi and Nasdaq Futures Rally as China GDP Beats Estimates
   - [taiwan] Finance minister leads Taiwan delegation to APEC meeting in Hong Kong
   - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s new home prices fall again in September as recovery stays elusive
   - [china] China's new home prices fall again as recovery remains elusive
   - [china] China’s economic growth accelerates to 4.5% in third quarter
-  - [china] Offshore Yuan Hits Fresh 4-Year High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T06:42:43+00:00",
+      "published_utc": "2026-10-19T06:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

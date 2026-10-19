@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-19T06:42:42.982868+00:00",
- "collected_at_utc": "2026-10-19T06:42:42.982868+00:00",
+ "generated_at_utc": "2026-10-19T06:52:41.972133+00:00",
+ "collected_at_utc": "2026-10-19T06:52:41.972133+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,15 +11,15 @@
   "taiwan": 344,
   "korea": 754
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 50,
-   "error": "",
-   "newest": "2026-10-16T17:00:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T01:31:58+00:00"
+   "newest": "2026-10-19T05:35:20+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T01:35:00+00:00"
+   "newest": "2026-10-19T02:12:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -774,6 +774,23 @@
    "live_wire": false,
    "manual": false,
    "id": "445d44e9729625d5"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdllCaHBIdzY1OVhGakdCR1BtUFV1alFEb2pWZU14TUxpTE1zcHFqR2tvUXMyVzFRR1F0eUgta2Y0LS1sdFI1M1dsdWpJY3pKY0N4TndyTXNqNHhFb2tzSDdyRzE5dHVpaTROWW9LSm9RWnY3bWF6V0ljNVhHMm5OOVNraVowUnhQaEYwVHRVc2hCN2FjVjRZMUpaTFZLOWJ0bWtyOUhnbGJ3NHJIekRzeDFzcw?oc=5",
+   "published_utc": "2026-10-19T03:45:00+00:00",
+   "title_original": "Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "36fdb469d14ba7bb"
   },
   {
    "source_id": "tradingview_live",
@@ -1874,23 +1891,6 @@
    "live_wire": true,
    "manual": false,
    "id": "301e1d77d7fbbda5"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdllCaHBIdzY1OVhGakdCR1BtUFV1alFEb2pWZU14TUxpTE1zcHFqR2tvUXMyVzFRR1F0eUgta2Y0LS1sdFI1M1dsdWpJY3pKY0N4TndyTXNqNHhFb2tzSDdyRzE5dHVpaTROWW9LSm9RWnY3bWF6V0ljNVhHMm5OOVNraVowUnhQaEYwVHRVc2hCN2FjVjRZMUpaTFZLOWJ0bWtyOUhnbGJ3NHJIekRzeDFzcw?oc=5",
-   "published_utc": "2026-10-18T23:00:00+00:00",
-   "title_original": "Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "36fdb469d14ba7bb"
   },
   {
    "source_id": "gn_kr_mk",
@@ -8521,7 +8521,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "The central bank released financial statistics for the first three quarters: the increase in social financing exceeded 27 trillion yuan, and the proportion of direct financing increased | People's Bank of China | Bonds | Credit | Loans | Experts",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVNMNFI3N0ZKQkxaV1VTWkV2LUhrQ25rQmVDNERMOWJPdWZNWGlfMWU4ZXdudHlCMDBrUFhHdlQ5SlVPN29zMWprV0FIN3pHdDlMZmVOOVhld1NEVFJWQ0pZaXMtQzZUQ2k2UmdybnkzNmFDUDljMmk0X19qbWZrdU5SSGQ2MFViUW80RzJnUXAyV2lmTGkzQU9PeGxER25XVURWbkZB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkRLc2RidWtMdWdnY0hQcDQ0TUdLZE03MTVPUE9UWWVrU0NScVVUYjZyS1pPR3RYV0lSbGtBRkxIeUNyYzR2bWItMXZ5UkJONGNCYXVBZUlqUXI5a3k2VUJGbUJ5Sld6UFFwcVR2NkM2VV9lY2JWbm52N1daXzMybjQyZUpEdw?oc=5",
    "published_utc": "2026-10-15T03:16:51+00:00",
    "title_original": "央行发布前三季度金融统计数据：社融增量超27万亿元，直接融资占比上升|中国人民银行|债券|信贷|贷款|专家",
    "region": "china",
@@ -8533,7 +8533,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6e5c9b8f48236ae7"
+   "id": "06325222e42c1155"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -10882,7 +10882,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
    "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation on October 15",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3ZjU0NJS0taWklwTWVhNlpkbC0tX0RXblNZb3YwZ3BBSzQzY2NjYWd2MGpsT29RQjF6ZW13ckpJeXFYaGt2QldEMmJqd2RILXlNQ1pRMWZKa0tkUndtbFNuaFN4LW5ZV0kzWlFCX1k3LXJvdFNCc3IwbUx3QTYyV1o1VQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81eGdvSEpKbGhSNjR1ZTZDb2t5dE9CVkNPU3JKRjFnZURvMjFha29ERGY4ckd3dExpUUppTFJJZGMyY09xVWNwR0haaDhtLXU4aWJ5c0lfZ0FJV3VtS1hJT19JZXdLam9yU2xSSHp3?oc=5",
    "published_utc": "2026-10-14T10:05:00+00:00",
    "title_original": "央行10月15日开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -10894,7 +10894,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d67217a3832d0d66"
+   "id": "0af304f401f6df11"
   },
   {
    "source_id": "toyo_keizai",
