@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T10:12:42.825644+00:00
+Última coleta: 2026-10-19T10:22:43.546663+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          993
-  🇨🇳 China          902
-  🇹🇼 Taiwan         345
+  🇨🇳 China          901
+  🇹🇼 Taiwan         346
   🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [china] LME owner HKEX eyes more yuan-denominated commodities contracts
   - [korea] Samsung said to use TSMC tech for Nvidia's next-generation memory chips
   - [korea] Stocks are jumping around the earnings announcement... Why the impact of base interest rate changes is minimal
+  - [taiwan] BREAKING NEWS: Mitsubishi Electric, Hon Hai subsidiary aim for FY 2030 1 tril. yen sales
   - [korea] Chip boom to continue through 2027, South Korea minister tells CNBC
   - [china] China central bank to widen access to standing lending facility, create liquidity tool for non-banks
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il predicted that Korea's econom..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Fiscal Concerns May Weigh on 20-Year JGB Auction Demand — Market Talk
   - [korea] S.Korea says SK Hynix’s Solidigm listing could violate rules- reports
   - [china] China Q3 GDP Growth Improves
-  - [korea] Although Korea Western Power Co. has invested more than 630 billion won in safety-related budgets an..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T10:12:43+00:00",
+      "published_utc": "2026-10-19T10:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
