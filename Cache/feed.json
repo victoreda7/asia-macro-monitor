@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T08:12:44.998125+00:00",
- "collected_at_utc": "2026-10-19T08:12:44.998125+00:00",
+ "generated_at_utc": "2026-10-19T08:22:43.250520+00:00",
+ "collected_at_utc": "2026-10-19T08:22:43.250520+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 998,
+  "japan": 997,
   "china": 900,
   "taiwan": 345,
-  "korea": 757
+  "korea": 758
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T07:06:46+00:00"
+   "newest": "2026-10-19T08:03:24+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T07:49:00+00:00"
+   "newest": "2026-10-19T08:11:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T15:40:20+09:00"
+   "newest": "2026-10-19T17:17:42+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T02:52:00+00:00"
+   "newest": "2026-10-19T07:01:30+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T04:31:00+00:00"
+   "newest": "2026-10-19T07:25:49+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T02:00:16+00:00"
+   "newest": "2026-10-19T07:26:37+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T08:11:03+00:00"
+   "newest": "2026-10-19T08:21:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-19T07:58:25+00:00"
+   "newest": "2026-10-19T08:16:01+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T07:39:16+00:00"
+   "newest": "2026-10-19T08:16:26+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "ShareCast",
+   "title_en": "Economic growth picks up in China on robust export demand",
+   "url": "https://www.tradingview.com/news/sharecast:4de6833f9094b:0-economic-growth-picks-up-in-china-on-robust-export-demand/",
+   "published_utc": "2026-10-19T08:10:18+00:00",
+   "title_original": "Economic growth picks up in China on robust export demand",
+   "region": "china",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d8fd00344ff08d79"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0VhbHBHM1Q5cDl4a2ZwZXBDaGNtM2M3UF96ZVFmYl80UGNSQUM5YzQtWTNieUh0R2JYQmprZWtGUk90U2QxNU8zT1lYbkxidEV5LVJicC0wbVNoWU44cVN5bjl3TXQ5N2dnRUJpbEZiR3ZxUXhCRzFGWUJGdzhMYTVFbndUZXNRcFNGVUZ6dEJyOTk3QXZhdU11T1RtZGZMZ2w5SGNCSzB2ZEZIaHZUT09XZw?oc=5",
+   "published_utc": "2026-10-19T08:03:24+00:00",
+   "title_original": "Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "445d44e9729625d5"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -410,6 +445,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e0824ee22b1f637d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "Volcano Engine Launches Seedance AI Drama Incentive Program, Offering Up to 200,000 Yuan per Series",
+   "url": "https://www.tradingview.com/news/binance_news:73d3f3e94094b:0-volcano-engine-launches-seedance-ai-drama-incentive-program-offering-up-to-200-000-yuan-per-series/",
+   "published_utc": "2026-10-19T07:45:23+00:00",
+   "title_original": "Volcano Engine Launches Seedance AI Drama Incentive Program, Offering Up to 200,000 Yuan per Series",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7790b1f527a771d8"
   },
   {
    "source_id": "tradingview_live",
@@ -963,23 +1015,6 @@
    "id": "1acb7da8bdcf55c2"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0VhbHBHM1Q5cDl4a2ZwZXBDaGNtM2M3UF96ZVFmYl80UGNSQUM5YzQtWTNieUh0R2JYQmprZWtGUk90U2QxNU8zT1lYbkxidEV5LVJicC0wbVNoWU44cVN5bjl3TXQ5N2dnRUJpbEZiR3ZxUXhCRzFGWUJGdzhMYTVFbndUZXNRcFNGVUZ6dEJyOTk3QXZhdU11T1RtZGZMZ2w5SGNCSzB2ZEZIaHZUT09XZw?oc=5",
-   "published_utc": "2026-10-19T03:45:00+00:00",
-   "title_original": "Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "445d44e9729625d5"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Binance News",
    "title_en": "Bitcoin, Korea’s Kospi and Nasdaq Futures Rally as China GDP Beats Estimates",
@@ -1347,23 +1382,6 @@
    "id": "9ecab08771b3d7ab"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's 3Q GDP Growth Tops Expectations",
-   "url": "https://www.tradingview.com/news/DJN_DN20261018001419:0-china-s-3q-gdp-growth-tops-expectations/",
-   "published_utc": "2026-10-19T02:22:00+00:00",
-   "title_original": "China's 3Q GDP Growth Tops Expectations",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "314f2ebd8dd1b5c7"
-  },
-  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China's economic growth picks up as exports boom, consumers balk",
@@ -1380,23 +1398,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f50dbd1d5aa70e31"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-AUG +5.3% Y/Y",
-   "url": "https://www.tradingview.com/news/dpa_afx:06740ba5366d3:0-china-ytd-industrial-output-5-3-y-y-vs-jan-aug-5-3-y-y/",
-   "published_utc": "2026-10-19T02:20:16+00:00",
-   "title_original": "CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-AUG +5.3% Y/Y",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "56e83119f3e54576"
   },
   {
    "source_id": "investing_live",
@@ -1816,6 +1817,23 @@
    "live_wire": true,
    "manual": false,
    "id": "0ba022f19c072ee3"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Hana Bank achieved the highest cumulative growth rate among domestic banks this year, with retiremen..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ISmdvbjRyczdtUkwxNVNFRUpnWFVyNmVjMWZpWUs3cHdDWEtxdEhhOUNkREJvUTdzWERCMGl3Yzc0UkhGMDROc3FnS2ppMlVSTGc?oc=5",
+   "published_utc": "2026-10-19T00:49:02+00:00",
+   "title_original": "Hana Bank achieved the highest cumulative growth rate among domestic banks this year, with retiremen..",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "531c44de46845e07"
   },
   {
    "source_id": "gn_kr_mk",
@@ -12263,7 +12281,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation with an interest rate unchanged at 1.40%",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKUE5OTlIwUldoSlY3ckxSYzgtTnQ4d21IQjVPNXZ4NTdBZGFCb2Z6Z3Jadm9ib3NDWWVVX1FrbFhTdXE0bkt5NTRjaWl4UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Xa1JWejVEall0bTNybXI2V2ZiaVZpUG50X1dON2owNm9NTVAtVE10SE11NHNBNWZSTWpmTk9welpBdFg0ZWpKT3hCNHNZWXdSQ09PNUhrVlk1YnZkM3RNOG53?oc=5",
    "published_utc": "2026-10-14T02:03:28+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 利率1.40%持平",
    "region": "china",
@@ -12275,7 +12293,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "563552a745d8dbb4"
+   "id": "551d98007892a700"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51908,24 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "083053e06ac02390"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Yen Is Vulnerable With Japan on Holiday After BOJ Disappoints",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVVhQ09jQk1xT0hWOEZXWUVSdnFSRmJWNjk5eUJGTHBKMEI3ajNybGNGU296OUNBcGk0ZUk2YU5MOXZ0QWZZc0VfSU1CVG1xT2pKVTBpSGJ2eWd6c3dQMC1WUkk5RHR3MVJEWVNzWmo3djFjNDhGc3RmTzNYRndBNVR4VHIzc1NiSzF1QmJNTVp1dE9rczhHXzdkWVlVQlRfalJKeWxIZUNmSW5hTEdieTd3?oc=5",
-   "published_utc": "2026-09-20T22:24:09+00:00",
-   "title_original": "Yen Is Vulnerable With Japan on Holiday After BOJ Disappoints",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "81d7937cfc26ac8a"
   },
   {
    "source_id": "manual_ia",
