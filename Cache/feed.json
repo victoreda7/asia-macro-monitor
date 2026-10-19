@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T05:12:42.389425+00:00",
- "collected_at_utc": "2026-10-19T05:12:42.389425+00:00",
+ "generated_at_utc": "2026-10-19T05:22:42.885127+00:00",
+ "collected_at_utc": "2026-10-19T05:22:42.885127+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 996,
-  "china": 912,
+  "china": 913,
   "taiwan": 342,
-  "korea": 750
+  "korea": 749
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T04:52:57+00:00"
+   "newest": "2026-10-19T05:06:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T04:43:37+00:00"
+   "newest": "2026-10-19T05:13:46+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T02:01:00+00:00"
+   "newest": "2026-10-19T04:03:40+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
    "ok": false,
    "count": 30,
-   "error": "parada desde 28/09/2026",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T05:12:05+00:00"
+   "newest": "2026-10-19T05:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T00:26:27+00:00"
+   "newest": "2026-10-19T03:27:46+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,58 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK Hynix bounces from extreme oversold-bear risk stays: Live levels",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
+   "published_utc": "2026-10-19T05:06:49+00:00",
+   "title_original": "SK Hynix bounces from extreme oversold-bear risk stays: Live levels",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "58d2998336af82ad"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Nikkei 225 in strong downtrend at JPY 65,000: Live levels",
+   "url": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
+   "published_utc": "2026-10-19T05:06:10+00:00",
+   "title_original": "Nikkei 225 in strong downtrend at JPY 65,000: Live levels",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "69603940d8b4a82f"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China’s CXMT shares slide despite ninefold revenue growth forecast",
+   "url": "https://www.investing.com/news/earnings/chinas-cxmt-shares-slide-despite-ninefold-revenue-growth-forecast-4956339",
+   "published_utc": "2026-10-19T05:02:53+00:00",
+   "title_original": "China’s CXMT shares slide despite ninefold revenue growth forecast",
+   "region": "china",
+   "topics": [
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b137195b25c273f7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1247,7 +1299,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Total retail sales of consumer goods increased by 1.1% from January to September 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TcmRUc2h5Q3JmX2RLeVZBVmdzSlN4dHBrWDF0V0tVMUVGNUVvaElxd01aQllDVjhIZEVDN0FNNTVsdXcyS0FmdXBpYmlkOW5ld0dwRUh3dzJiZmN0aEpXa3ZrSXdEUHRabVI1ZzZoSGFOME0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KVVlUSDdhc0VlcEo3OVVBSGxJRHNHMllqdzVPNmpKbXRxNy1aR0paYlBfUU5wWU9Pa3B0dnVtS0YtOGt4UHlIZV9FSjdrN21CUmF2RTU5U1FRQndvT3NCQ25vTHRuNGppd3Znc05COA?oc=5",
    "published_utc": "2026-10-19T02:00:00+00:00",
    "title_original": "2026年1—9月份社会消费品零售总额增长1.1%",
    "region": "china",
@@ -1258,7 +1310,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "87584bf52a16e0cd"
+   "id": "3df267849337c57c"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -1399,6 +1451,24 @@
    "id": "83d7c302f160c8e0"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "파이낸셜신문",
+   "title_en": "BNP Paribas: “The Bank of Korea will unanimously freeze the base interest rate at the Monetary Policy Committee in October.”",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVc3hwT3dPVVRRaUpmcFd5X2NzeEtwLWFWbEFoc3JLVFM3NWo4S3RQWFhacEdVWmt4UC1aTUhtUnk2aG9CUHJXb2tFM0RlbXBBajhhZ0NsQ284a1RlaHZiZ0h2bmgxa3RubTI0?oc=5",
+   "published_utc": "2026-10-19T01:27:00+00:00",
+   "title_original": "BNP파리바 \"한은 10월 금통위, 기준금리 만장일치 동결할 것\"",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "761a3d6e1a278261"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
@@ -1453,23 +1523,6 @@
    "live_wire": false,
    "manual": false,
    "id": "534a4d9f388c4e57"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "SK Hynix crashes -20.6% below 20-period MA: Live levels",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
-   "published_utc": "2026-10-19T01:06:34+00:00",
-   "title_original": "SK Hynix crashes -20.6% below 20-period MA: Live levels",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "224a7aa11afdd5e4"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2082,6 +2135,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e2fe32c82c1b64e1"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국일보",
+   "title_en": "The Bank of Korea, urgently putting out fires, forecasts to freeze base interest rates in October... Tight reins until next year",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EX3U2ZjBySHI5NTJZWDlBc04xUTVDcU5rMmZOeXRKdHpwbUZNZ1dmUVNFdWF6NjQ1bVdXOEp2X3ZROVdXRkdhbVdEX0ZfTkdNQ184bDJfSmY3eEJvY2o2VllLMjE2c1Iya0l1R2dR0gFzQVVfeXFMUElpdHl0WVpGRmFrRmJ5T3hnZkpIYmlkU3lqT2tid0hpX1NiQWVvdTNQMzJNN3FOUjdTVWo0NFZYemhTRExibWF4cW5IbnVGNXVrcGhIZWhxYmhWazVHRDd4TGRtSXF0SldXOU9xbzJfZW0tWQ?oc=5",
+   "published_utc": "2026-10-18T08:30:00+00:00",
+   "title_original": "급한 불 끈 한은, 10월 기준금리 동결 전망… 긴축 고삐는 내년까지",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7065e7269c3bc557"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51860,75 +51930,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d0d618a386c30ec0"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics' 3rd quarter dividend base date of 30 trillion won is close to the end of this m..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MLTdja3phQzUteTFUTFpTVjUyS3VXdXZsRzI3U3ZGN0NxSldJVHN6T1AzM3hFWGx3c09YaEhURkNEckFXTzNPclFtUVViZUk?oc=5",
-   "published_utc": "2026-09-20T08:49:55+00:00",
-   "title_original": "Samsung Electronics' 3rd quarter dividend base date of 30 trillion won is close to the end of this m..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3f0ce5ba494f2fef"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "As corporate tax revenues surge on the back of the semiconductor boom, the share of corporate tax in..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yb0hlWlFQdG83N19Yc0RGRkFuUkFrQ3VNbHJSSEV1R0hHWlZobllCa0ViNXI3M1RlXzNORzZ4cHNyaHFlb2F2WXJkMEpQZ25Ta2c?oc=5",
-   "published_utc": "2026-09-20T08:17:41+00:00",
-   "title_original": "As corporate tax revenues surge on the back of the semiconductor boom, the share of corporate tax in..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "86ab0198eead462c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Samsung Electronics Plans to Double HBM4 and HBM4E Output Next Year, Analyst Says",
-   "url": "https://www.tradingview.com/news/binance_news:b8788ef1e094b:0-samsung-electronics-plans-to-double-hbm4-and-hbm4e-output-next-year-analyst-says/",
-   "published_utc": "2026-09-20T08:14:41+00:00",
-   "title_original": "Samsung Electronics Plans to Double HBM4 and HBM4E Output Next Year, Analyst Says",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c78aa283a9dee297"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Risk of further depreciation in the yen market, disappointment with the Bank of Japan's interest rate hike stance - liquidity declines due to holidays (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUDZ5dHV4d2llb3daY3o1b2w4MGRLSUY1RFdUWTNpN1Zyc3hjaThZY3VHY1hGbHIzN3ZrT25tR3RzUHJlT0JZMnFvSm83YXp1ZkdTdmw5a0xZcnF6MU5mZlBTQlVkS2pnaUJ6WnRhOTZpaVZJOXA5Z3U3V0FHUlk?oc=5",
-   "published_utc": "2026-09-20T08:09:33+00:00",
-   "title_original": "円相場に一段安リスク、日銀の利上げ姿勢に失望感－連休で流動性低下（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "844967924f45c714"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T05:12:42.389425+00:00
+Última coleta: 2026-10-19T05:22:42.885127+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          996
-  🇨🇳 China          912
+  🇨🇳 China          913
   🇹🇼 Taiwan         342
-  🇰🇷 Coreia do Sul  750
+  🇰🇷 Coreia do Sul  749
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix bounces from extreme oversold-bear risk stays: Live levels
+  - [japan] Nikkei 225 in strong downtrend at JPY 65,000: Live levels
+  - [china] China’s CXMT shares slide despite ninefold revenue growth forecast
   - [japan] USD/JPY Seen Range-Bound Ahead of Central Bank Meetings — Market Talk
   - [china] China Fangda Unit's IKK Fangda JV Signs 2.05 Bln Yuan Curtain Wall Works For Stadium In Saudi Arabia
   - [korea] The Bank of Korea is expected to freeze its base interest rate on the 22nd... Weighted at maintaining 3.00% pe
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Takaichi Turns to English Outreach on Fiscal Concerns
   - [china] China Q3 GDP grows 4.5%, slightly more than expected
   - [china] China Home Price Slump Eases, Fueling Hopes for Market Recovery
-  - [china] China Home Price Slump Eases, Fueling Hopes for Recovery
-  - [japan] Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates: JPY/USD
-  - [china] China's Q3 GDP narrowly beats forecasts as strong exports buoy growth
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T05:12:42+00:00",
+      "published_utc": "2026-10-19T05:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
