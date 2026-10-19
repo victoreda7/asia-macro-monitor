@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T20:12:44.641281+00:00
+Última coleta: 2026-10-19T20:22:45.909837+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
-  🇨🇳 China          898
+  🇯🇵 Japão          998
+  🇨🇳 China          897
   🇹🇼 Taiwan         350
   🇰🇷 Coreia do Sul  755
 
 ## O que já está no feed (não repita)
 
+  - [japan] The 1.2L mild hybrid is lighter than the numerical value... Why Jeep's new "Compass", the first redesign in 9 
   - [japan] Food consumption tax reduction bill to be debated in the House of Representatives today
   - [china] Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com
   - [japan] BOJ spies a chance to pivot to sustaining inflation as 2% goal nears
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] LME owner HKEX eyes more yuan-denominated commodities contracts
   - [korea] Samsung said to use TSMC tech for Nvidia's next-generation memory chips
   - [china] China Slaps Export Curbs on More Drones and Industrial Machinery
-  - [korea] Stocks are jumping around the earnings announcement... Why the impact of base interest rate changes is minimal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T20:12:44+00:00",
+      "published_utc": "2026-10-19T20:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
