@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T14:22:44.768065+00:00",
- "collected_at_utc": "2026-10-19T14:22:44.768065+00:00",
+ "generated_at_utc": "2026-10-19T14:32:45.532751+00:00",
+ "collected_at_utc": "2026-10-19T14:32:45.532751+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 994,
-  "china": 900,
+  "japan": 993,
+  "china": 901,
   "taiwan": 348,
   "korea": 758
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T12:35:17+00:00"
+   "newest": "2026-10-19T14:22:35+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T11:43:19+00:00"
+   "newest": "2026-10-19T14:17:11+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T14:22:15+00:00"
+   "newest": "2026-10-19T14:32:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,23 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Euro falls amid turmoil in France, Australian dollar appreciates as China grows",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4650YF:0/",
+   "published_utc": "2026-10-19T14:32:13+00:00",
+   "title_original": "Euro cai em meio à turbulência na França, dólar australiano se valoriza com crescimento da China",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "9cc0019e0e867964"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com",
    "url": "https://www.tradingview.com/news/DJN_DN20261019001391:0-micron-stock-rallies-as-china-memory-chip-rival-forecasts-revenue-boom-barrons-com/",
@@ -413,8 +430,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -428,7 +445,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "tradingview_live",
@@ -1425,24 +1442,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b137195b25c273f7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "USD/JPY Seen Range-Bound Ahead of Central Bank Meetings — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261019000084:0-usd-jpy-seen-range-bound-ahead-of-central-bank-meetings-market-talk/",
-   "published_utc": "2026-10-19T04:50:00+00:00",
-   "title_original": "USD/JPY Seen Range-Bound Ahead of Central Bank Meetings — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d5e949cfa0c42b35"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -4485,8 +4484,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -4500,7 +4499,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -8924,10 +8923,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
+   "source_name": "Investing.com UK",
    "title_en": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0dpcXNnYnNnbWtWakd2R3VrNnpxUHFsRWJyN1pLZ3BacTkyb0FfVUtUM3dvRlZqckZ4aXRlVGZvdHY2S09nWDlzVk1POWstNmRwRlNvSTlGbkYybjAxTnF0akg4ZmI3UWh1RFlJaWp4cnV2MEJCWGhKM2ZnN3doRXpUNmZKaEk2YlhhNWNjSXFkMWFVME5xRFVHTUF4ZFpFUjg1QXVmZmE1Y2hjWU1oOXd1SXdzbno3bVB6RW1B?oc=5",
-   "published_utc": "2026-10-15T04:25:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXM4RzlvNjh2NUgyeFQtMWlxT2gza0VvZU5JVDVBVzVXRS1kZVZEc2QzT1RMazNJWThlaWRWckFOd0JNRTdmQmp4UmlHWmUwTlJ3VDhyanZVaU9WVFJlTzYzUUVaeVBrRkdxaWFzUkJfd0tXdTNfSlVCUy1sOXdVdEs1cktiZFJpbW9QbHBsNjFXazljTFhaVGJ5RWN6RVpMQVRQRExYWVljcjZkbU5LbDZSU1JVYUdENzBiQjBn?oc=5",
+   "published_utc": "2026-10-15T04:06:00+00:00",
    "title_original": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
    "region": "japan",
    "topics": [
@@ -8938,7 +8937,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2b3965436e525ef4"
+   "id": "dfae25f1e6df382f"
   },
   {
    "source_id": "investing_live",
@@ -41867,9 +41866,9 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
+   "source_name": "Investing.com South Africa",
    "title_en": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0ZUakhzWWJoellmNEswN0xTNGxwMVMzRl9RNlN5SXVrbzJ2TVV2RkxEWk5VX1dnT3JxRS1BV3FXSVY4SHNzZ2d6eTFBQmR6T2xBV05ld2JlcVR3UFA0eXdHV3ExRlBORDJPTFdpZ21pOUJhamhkdUdnZWFvWVRRd25tZC1BZWs4QjRrZEx6WXpqeG9ocUNHUmNyX0E4T3ItVmQ3NXFkYy1ReURjXzA2aG5yUWVLdFh5eDFJaA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGRUOGNZbG1jNmxUSGZQSDdWVHMtaV94Y2pWX28zUE1Tb3JGSGE5dDRqUTJGSXZhQzVYX0R6RUtoanVMdERyWHVqaFJFM1Nza1lkSGhfV21JNGZtUnBja09ZZEJhTmQzRTNYRVpQdlhCekR2TFJaZXBYMy1xNmJFVVd0bnQ5bm9XVFZkZVJiUzRfaEJVTi12dnZzRUd0UVRoU3JNdzhSTHZWelUtZjZSZ0dLUElMdEdWMGVLcQ?oc=5",
    "published_utc": "2026-09-28T07:00:00+00:00",
    "title_original": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
    "region": "japan",
@@ -41880,7 +41879,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "92d721f54bcd14ff"
+   "id": "c26bda4186e2416f"
   },
   {
    "source_id": "gn_kr_yonhap",
