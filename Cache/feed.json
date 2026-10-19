@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T20:02:44.863261+00:00",
- "collected_at_utc": "2026-10-19T20:02:44.863261+00:00",
+ "generated_at_utc": "2026-10-19T20:12:44.641281+00:00",
+ "collected_at_utc": "2026-10-19T20:12:44.641281+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 996,
+  "japan": 997,
   "china": 898,
   "taiwan": 350,
-  "korea": 756
+  "korea": 755
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T19:33:42+00:00"
+   "newest": "2026-10-19T06:32:42+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T22:06:43+09:00"
+   "newest": "2026-10-20T05:10:35+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T05:01:02+09:00"
+   "newest": "2026-10-20T05:03:42+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T02:12:00+00:00"
+   "newest": "2026-10-19T19:41:44+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T20:02:09+00:00"
+   "newest": "2026-10-19T20:12:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-20T04:30:00+09:00"
+   "newest": "2026-10-20T05:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T08:26:01+00:00"
+   "newest": "2026-10-19T08:51:51+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives today",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61870",
+   "published_utc": "2026-10-19T20:10:35+00:00",
+   "title_original": "食料品の消費税減税関連法案 きょう衆議院で審議入り",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16ea9d6ca0ced6c2"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -983,7 +1001,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
+   "source_name": "Bloomberg",
    "title_en": "China Slaps Export Curbs on More Drones and Industrial Machinery",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUJwVW1IR0ExWmUzSXV6YTBrYUw0WXJVUTFtenFRYXQ0QmZBaWdXYWFmNEVDMm92SWxPNlRYc19ubkFVRVhBbUc5aERhNVJRUUJzUWpNWHJFcTR5OHozUGNZWWEyLU9kdU95R3BaZXF4T19zeTBrZkU1ZzI2aXdlNkJXaE02Q01fSlV5eFBsVEdqLUM0Z0w1WFI5SjVnY2NmdFd0VDRQZ3UzODhyaURpNzhkVTVzUQ?oc=5",
    "published_utc": "2026-10-19T08:54:59+00:00",
@@ -1390,6 +1408,23 @@
    "live_wire": true,
    "manual": false,
    "id": "d6e741fef37bc9c3"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "China GDP growth ticks up to 4.5% in Jul.-Sep. period",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14SGdmV2pVckd5OUMySk9pc2ZxLUthY0FnWVNfbTZ3T3NBY1RqbmRiSS1oMGZRdHJBR1lJUzItTnVScXp1Y1hKR3VwU2g2a2N2Y2dyakhpSlhLeWcxZTNjWW00UQ?oc=5",
+   "published_utc": "2026-10-19T06:32:42+00:00",
+   "title_original": "China GDP growth ticks up to 4.5% in Jul.-Sep. period",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3f3b7ee7ac594176"
   },
   {
    "source_id": "investing_live",
@@ -2629,23 +2664,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f280bdc6198f54b6"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "China GDP growth ticks up to 4.5% in Jul.-Sep. period",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14SGdmV2pVckd5OUMySk9pc2ZxLUthY0FnWVNfbTZ3T3NBY1RqbmRiSS1oMGZRdHJBR1lJUzItTnVScXp1Y1hKR3VwU2g2a2N2Y2dyakhpSlhLeWcxZTNjWW00UQ?oc=5",
-   "published_utc": "2026-10-18T19:33:42+00:00",
-   "title_original": "China GDP growth ticks up to 4.5% in Jul.-Sep. period",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3f3b7ee7ac594176"
   },
   {
    "source_id": "tradingview_live",
@@ -23290,23 +23308,6 @@
    "id": "0aec8ec5361ac961"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Seoul stocks down for 3rd day amid inflation worries",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RVHZTWlJQSVE5YWNIb3RYb2JraDQzRnB2Y0pvUFFZdVFqTWhGNmR3T0ZJemY2aW9MeE5Lc2JxbU9CX3oycnVBazcxNkdHZm5HZmVRSkxmTUdKQQ?oc=5",
-   "published_utc": "2026-10-08T07:00:00+00:00",
-   "title_original": "Seoul stocks down for 3rd day amid inflation worries",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7b298670465a9b8"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "\"With the weak yen and rising prices...\" Family trip to Hawaii → Save money on food Cocorico Endo's wife confesses \"Airfare was also expensive\" (ENCOUNT)",
@@ -23377,6 +23378,23 @@
    "live_wire": false,
    "manual": false,
    "id": "692e2cfaeecf7982"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Seoul stocks down for 3rd day amid inflation worries",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RVHZTWlJQSVE5YWNIb3RYb2JraDQzRnB2Y0pvUFFZdVFqTWhGNmR3T0ZJemY2aW9MeE5Lc2JxbU9CX3oycnVBazcxNkdHZm5HZmVRSkxmTUdKQQ?oc=5",
+   "published_utc": "2026-10-08T06:40:09+00:00",
+   "title_original": "Seoul stocks down for 3rd day amid inflation worries",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7b298670465a9b8"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51906,23 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "39b2f7702da05094"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "J&TC, a semiconductor parts company, will invest 347 billion won in Gyeongsan, North Gyeongsang",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXUTlqYS1GR1hXcGRKT2xfdTcwWmpucVRZdUl6RzU5MFg2ZmRmZ2tFZGVfNmJCbDZOSWhIZjVoSW5LSmU0RFNnc0lVc2dhRjN1YlE?oc=5",
-   "published_utc": "2026-09-21T05:14:22+00:00",
-   "title_original": "J&TC, a semiconductor parts company, will invest 347 billion won in Gyeongsan, North Gyeongsang",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "81ad869c7a9c9ac8"
   },
   {
    "source_id": "manual_ia",
