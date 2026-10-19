@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T06:32:42.500051+00:00",
- "collected_at_utc": "2026-10-19T06:32:42.500051+00:00",
+ "generated_at_utc": "2026-10-19T06:42:42.982868+00:00",
+ "collected_at_utc": "2026-10-19T06:42:42.982868+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 996,
-  "china": 906,
+  "japan": 998,
+  "china": 904,
   "taiwan": 344,
   "korea": 754
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T03:45:00+00:00"
+   "newest": "2026-10-19T04:42:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T06:14:39+00:00"
+   "newest": "2026-10-19T06:33:04+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T05:15:00+00:00"
+   "newest": "2026-10-19T06:32:42+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T15:23:32+09:00"
+   "newest": "2026-10-19T15:40:20+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T12:09:43+00:00"
+   "newest": "2026-10-19T00:38:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T06:32:25+00:00"
+   "newest": "2026-10-19T06:42:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Liberal Democratic Party Ishin leadership seeks cooperation from opposition parties to pass consumption tax reduction bill in current Diet session",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61585",
+   "published_utc": "2026-10-19T06:35:45+00:00",
+   "title_original": "自民 維新幹部 消費税減税法案 今国会成立へ 野党の協力求める",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3d1a7eed61eb83a3"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "China GDP growth ticks up to 4.5% in Jul.-Sep. period",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14SGdmV2pVckd5OUMySk9pc2ZxLUthY0FnWVNfbTZ3T3NBY1RqbmRiSS1oMGZRdHJBR1lJUzItTnVScXp1Y1hKR3VwU2g2a2N2Y2dyakhpSlhLeWcxZTNjWW00UQ?oc=5",
+   "published_utc": "2026-10-19T06:32:42+00:00",
+   "title_original": "China GDP growth ticks up to 4.5% in Jul.-Sep. period",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3f3b7ee7ac594176"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -567,6 +602,23 @@
    "live_wire": true,
    "manual": false,
    "id": "d5e949cfa0c42b35"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Japan Power Price at Four-Year High With Rising Coal, LNG Costs",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzI1b1hnZVVZUTV1al9lbDh0NzNIZjNxVmhhTDNpZ1ZXcC1QZnNweHI3NWQ5N1BCOE1MdER0WVUzR3BscWdQbm9Ld1Zub0VUTFRodzZqUGxnZ1UxcXBDZzRUNy0yd0t5RmhlajA3ZmlpeU1oX1lVMGlramtZdUR2dl9hNWxPVFZEZW5qOEtDalJKR2FsWXlhV0RDRTVQbzg0RVl0TExjV0tiVERmV0ljdGNwNA?oc=5",
+   "published_utc": "2026-10-19T04:42:00+00:00",
+   "title_original": "Japan Power Price at Four-Year High With Rising Coal, LNG Costs",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4f9dcc9955ef83bc"
   },
   {
    "source_id": "tradingview_live",
@@ -2135,6 +2187,23 @@
    "id": "4f4425a65734e560"
   },
   {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "China's CXMT pushes into next-gen DRAM, but can it compete on cost?",
+   "url": "https://www.koreaherald.com/article/10906058",
+   "published_utc": "2026-10-18T11:02:21+00:00",
+   "title_original": "China's CXMT pushes into next-gen DRAM, but can it compete on cost?",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d9cbe4c762f01fc8"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
    "title_en": "TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports",
@@ -2758,23 +2827,6 @@
    "id": "79f067f8a0b85ff8"
   },
   {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "China's CXMT pushes into next-gen DRAM, but can it compete on cost?",
-   "url": "https://www.koreaherald.com/article/10906058",
-   "published_utc": "2026-10-18T02:12:42.672411+00:00",
-   "title_original": "China's CXMT pushes into next-gen DRAM, but can it compete on cost?",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d9cbe4c762f01fc8"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "The base interest rate has been raised repeatedly... A decision by the Monetary Policy Committee is expected this week.",
@@ -3143,23 +3195,6 @@
    "id": "68dfaa22fd128f0e"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "What’s the likelihood of Yen carry trade reversing? By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWEVJZzhCMG8tYWN4M2w5eUcxYUNXNTlSNkpxM1FDV1NYR0tGdFhOU2xwdnpJUTBuNGEtWjgtMUE4YmphSWRQY1hNMENrU0lXcEM0Y1hna2RJRDNHU0VfWlhiMGNuRE9rMXRHOUFkRUh6akZIRmw4Y0tydk9FRnVSZG5MdmJHV3FUa2QwQUIydlpDcXoyRWFwbVRpY1hMcFU?oc=5",
-   "published_utc": "2026-10-17T08:45:35+00:00",
-   "title_original": "What’s the likelihood of Yen carry trade reversing? By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ee328c38a1450626"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Liberal Democratic Party Policy Research Chairman Kobayashi urges many opposition parties to pass consumption tax reduction bill",
@@ -3176,6 +3211,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2e414f58d2cec80f"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "What’s the likelihood of Yen carry trade reversing? By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzBlVzRlN1hiNzI2SlZQR3F5UWNORHhHcWZONTZJdkdxR3NCelBnekIzcUt3WUt6alBEc1d3aFVKaDhGLTRSWUk5LUVzbEFublJpYWEzTzVjdExURmVqbVVRaDlPYnlnM0ZVZkItQVJmZk5BcGYxdHpodUg4d0NSc3dTMG9ZaGJ6ZXJaWU5FTk41UTEtMjlHZTJpZ0pLYk0?oc=5",
+   "published_utc": "2026-10-17T08:23:46+00:00",
+   "title_original": "What’s the likelihood of Yen carry trade reversing? By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a9a9bde80cf380aa"
   },
   {
    "source_id": "investing_fx",
@@ -3905,8 +3957,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -3920,7 +3972,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -6572,8 +6624,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -6587,7 +6639,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -7241,8 +7293,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -7257,7 +7309,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -8344,10 +8396,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
+   "source_name": "Investing.com Nigeria",
    "title_en": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXM4RzlvNjh2NUgyeFQtMWlxT2gza0VvZU5JVDVBVzVXRS1kZVZEc2QzT1RMazNJWThlaWRWckFOd0JNRTdmQmp4UmlHWmUwTlJ3VDhyanZVaU9WVFJlTzYzUUVaeVBrRkdxaWFzUkJfd0tXdTNfSlVCUy1sOXdVdEs1cktiZFJpbW9QbHBsNjFXazljTFhaVGJ5RWN6RVpMQVRQRExYWVljcjZkbU5LbDZSU1JVYUdENzBiQjBn?oc=5",
-   "published_utc": "2026-10-15T04:06:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0dpcXNnYnNnbWtWakd2R3VrNnpxUHFsRWJyN1pLZ3BacTkyb0FfVUtUM3dvRlZqckZ4aXRlVGZvdHY2S09nWDlzVk1POWstNmRwRlNvSTlGbkYybjAxTnF0akg4ZmI3UWh1RFlJaWp4cnV2MEJCWGhKM2ZnN3doRXpUNmZKaEk2YlhhNWNjSXFkMWFVME5xRFVHTUF4ZFpFUjg1QXVmZmE1Y2hjWU1oOXd1SXdzbno3bVB6RW1B?oc=5",
+   "published_utc": "2026-10-15T04:25:28+00:00",
    "title_original": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
    "region": "japan",
    "topics": [
@@ -8358,7 +8410,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "dfae25f1e6df382f"
+   "id": "2b3965436e525ef4"
   },
   {
    "source_id": "investing_live",
@@ -41251,9 +41303,9 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
+   "source_name": "Investing.com UK",
    "title_en": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGRUOGNZbG1jNmxUSGZQSDdWVHMtaV94Y2pWX28zUE1Tb3JGSGE5dDRqUTJGSXZhQzVYX0R6RUtoanVMdERyWHVqaFJFM1Nza1lkSGhfV21JNGZtUnBja09ZZEJhTmQzRTNYRVpQdlhCekR2TFJaZXBYMy1xNmJFVVd0bnQ5bm9XVFZkZVJiUzRfaEJVTi12dnZzRUd0UVRoU3JNdzhSTHZWelUtZjZSZ0dLUElMdEdWMGVLcQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0ZUakhzWWJoellmNEswN0xTNGxwMVMzRl9RNlN5SXVrbzJ2TVV2RkxEWk5VX1dnT3JxRS1BV3FXSVY4SHNzZ2d6eTFBQmR6T2xBV05ld2JlcVR3UFA0eXdHV3ExRlBORDJPTFdpZ21pOUJhamhkdUdnZWFvWVRRd25tZC1BZWs4QjRrZEx6WXpqeG9ocUNHUmNyX0E4T3ItVmQ3NXFkYy1ReURjXzA2aG5yUWVLdFh5eDFJaA?oc=5",
    "published_utc": "2026-09-28T07:00:00+00:00",
    "title_original": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
    "region": "japan",
@@ -41264,7 +41316,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "c26bda4186e2416f"
+   "id": "92d721f54bcd14ff"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51877,58 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0df3e7c7170fb545"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "经济频道",
-   "title_en": "100 billion yuan of 14-day reverse repurchase is implemented, and the central bank hedges against the double festival capital disturbance in advance",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41RzFPRExnTkZRM0FPSzBtcGxocF9WRmYzVFRIazBwdTh0QzVneGZGX3YxQ3ZXdE1DYUp3dERVeUxYVVlLV0UxRkNJdGlCc2k4SFphdlE2ajNYU3I1SDkzYndxaUsxSngtX1V1d2kxTWNMbmcyeV9CbnhXOA?oc=5",
-   "published_utc": "2026-09-20T17:48:00+00:00",
-   "title_original": "1000亿元14天逆回购落地，央行提前对冲双节资金扰动",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7eb3331eafa72ce"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "US, China Begin Trade Talks in New York Ahead of Trump-Xi Summit",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWVmRU80NEg0T0lDVEtveTZ6SkN6cXlFdHgzWVB0RkszbzZibklldWRLMFhrV2o4T3YwNW5rQ001bFJRbG9CdkZ2LWVQRmFoS3Mwb3MwYl9jOXBlcWpBQlY5ODRhWWdOeDZIcHl1cm15czBuQ2dZdUdoNHBoZjM5WmJoVklULTQyREhxdE5pSFE0bVVpbFZqbUU3MUxpNldqakhZdlFqRG0yS0QwVEptb1FPMXE?oc=5",
-   "published_utc": "2026-09-20T14:49:39+00:00",
-   "title_original": "US, China Begin Trade Talks in New York Ahead of Trump-Xi Summit",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4e04be807f9f3da4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Guangdong Sinoplast Issues 8.73 Mln A Shares At 55.28 Yuan Apiece In Shenzhen Listing",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45C038:0-guangdong-sinoplast-issues-8-73-mln-a-shares-at-55-28-yuan-apiece-in-shenzhen-listing/",
-   "published_utc": "2026-09-20T13:01:08+00:00",
-   "title_original": "Guangdong Sinoplast Issues 8.73 Mln A Shares At 55.28 Yuan Apiece In Shenzhen Listing",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f8444af0af85fb1e"
   },
   {
    "source_id": "manual_ia",
