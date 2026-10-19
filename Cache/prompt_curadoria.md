@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T07:02:42.602356+00:00
+Última coleta: 2026-10-19T07:12:43.268066+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          999
-  🇨🇳 China          904
+  🇨🇳 China          902
   🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  753
+  🇰🇷 Coreia do Sul  755
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix’s potential Solidigm IPO reignites debate over multiple listings
+  - [japan] Japan PM says won't rule out debt issuance to fund tax cut
+  - [korea] Key facts: Samsung accepts NVDA HBM terms; Banco Santander AI pact
   - [japan] Liberal Democratic Party Ishin leadership seeks cooperation from opposition parties to pass consumption tax re
   - [china] China GDP growth ticks up to 4.5% in Jul.-Sep. period
   - [korea] SK hynix launches W2tr financing program to bolster chip suppliers
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan futures rise as tyre manufacturing resumes; equity selloff weighs
   - [china] Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says
   - [china] China’s new home prices fall again in September as recovery stays elusive
-  - [china] China's new home prices fall again as recovery remains elusive
-  - [china] China’s economic growth accelerates to 4.5% in third quarter
-  - [china] Offshore Yuan Hits Fresh 4-Year High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T07:02:42+00:00",
+      "published_utc": "2026-10-19T07:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

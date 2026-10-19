@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T07:02:42.602356+00:00",
- "collected_at_utc": "2026-10-19T07:02:42.602356+00:00",
+ "generated_at_utc": "2026-10-19T07:12:43.268066+00:00",
+ "collected_at_utc": "2026-10-19T07:12:43.268066+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 999,
-  "china": 904,
+  "china": 902,
   "taiwan": 344,
-  "korea": 753
+  "korea": 755
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T05:35:20+00:00"
+   "newest": "2026-10-19T05:34:22+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T06:09:29+00:00"
+   "newest": "2026-10-19T07:08:49+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-19T15:29:11+00:00"
+   "newest": "2026-10-19T16:10:55+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T07:01:51+00:00"
+   "newest": "2026-10-19T07:10:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-19T14:40:00+09:00"
+   "newest": "2026-10-19T16:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "SK Hynix’s potential Solidigm IPO reignites debate over multiple listings",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6OWZwMlpYTmNUUjIxUXlKWGxlN0Uwa3JLZFVqU2NkWGRJeDR2YlhtdVJrdlZWUXdqcTVlUlQtOXRjRnhkVUpZQW92OHhLM3N3cWxvSTVfQlR3c3hrbi0wdXktZ0JZQQ?oc=5",
+   "published_utc": "2026-10-19T07:08:49+00:00",
+   "title_original": "SK Hynix’s potential Solidigm IPO reignites debate over multiple listings",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b474010cf2072a9c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan PM says won't rule out debt issuance to fund tax cut",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46506A:0-japan-pm-says-won-t-rule-out-debt-issuance-to-fund-tax-cut/",
+   "published_utc": "2026-10-19T07:07:10+00:00",
+   "title_original": "Japan PM says won't rule out debt issuance to fund tax cut",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "02cfcdba9e6a20f7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Key facts: Samsung accepts NVDA HBM terms; Banco Santander AI pact",
+   "url": "https://www.tradingview.com/news/tradingview:100a45d76c69b:0-key-facts-samsung-accepts-nvda-hbm-terms-banco-santander-ai-pact/",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "Key facts: Samsung accepts NVDA HBM terms; Banco Santander AI pact",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d6e741fef37bc9c3"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -1398,40 +1449,6 @@
    "live_wire": true,
    "manual": false,
    "id": "39ef5416180d3862"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "China Jobless Rate Edges Lower",
-   "url": "https://www.tradingview.com/news/te_news:592943:0-china-jobless-rate-edges-lower/",
-   "published_utc": "2026-10-19T02:08:43+00:00",
-   "title_original": "China Jobless Rate Edges Lower",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "43975290bfd72eab"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "China Industrial Output Growth Hits 6-Month High",
-   "url": "https://www.tradingview.com/news/te_news:592941:0-china-industrial-output-growth-hits-6-month-high/",
-   "published_utc": "2026-10-19T02:06:10+00:00",
-   "title_original": "China Industrial Output Growth Hits 6-Month High",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7a8ffac0e6235d45"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51911,24 +51928,6 @@
    "live_wire": true,
    "manual": false,
    "id": "bcab7269babe7274"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The yen soared in the New York market last weekend, and the Bank of Japan may be checking the rate...While there is a sense of wariness of intervention, there are also voices that say, ``To be honest, I'm disappointed.''",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnMWdrOGdmYzN0Q0xRQ0xZVkdfVklCVFU2WWI3aUNweVlMRXBmRkY1YVlLYmZtOUhoT1JrV0RBVXhwQV91VW44Mzhza1VBUklLdHpLckVEWm52MVNjcDhzdms5X3Y1ODRDYkVXczYtR1pXaFU2TEVSX2JtUTdSbmc?oc=5",
-   "published_utc": "2026-09-20T20:30:23+00:00",
-   "title_original": "先週末のＮＹ市場で円急騰、日銀がレートチェックか…介入警戒感の一方で「正直なところ焼け石に水」の声も",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c53b4ae2b5adebd6"
   },
   {
    "source_id": "manual_ia",
