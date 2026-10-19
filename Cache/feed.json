@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T06:02:44.852837+00:00",
- "collected_at_utc": "2026-10-19T06:02:44.852837+00:00",
+ "generated_at_utc": "2026-10-19T06:12:43.478146+00:00",
+ "collected_at_utc": "2026-10-19T06:12:43.478146+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 996,
-  "china": 908,
+  "china": 907,
   "taiwan": 344,
-  "korea": 752
+  "korea": 753
  },
- "elapsed_s": 31.7,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T21:56:53+00:00"
+   "newest": "2026-10-19T06:09:29+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-19T14:48:10+00:00"
+   "newest": "2026-10-19T15:03:28+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T14:55:19+09:00"
+   "newest": "2026-10-19T15:08:58+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T23:44:01+00:00"
+   "newest": "2026-10-19T01:35:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T06:02:00+00:00"
+   "newest": "2026-10-19T06:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T00:26:27+00:00"
+   "newest": "2026-10-19T03:27:46+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "SK hynix launches W2tr financing program to bolster chip suppliers",
+   "url": "https://www.koreaherald.com/article/10907390",
+   "published_utc": "2026-10-19T06:12:42.891769+00:00",
+   "title_original": "SK hynix launches W2tr financing program to bolster chip suppliers",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b30e7397996aae31"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Fiscal Concerns May Weigh on 20-Year JGB Auction Demand — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261019000465:0-fiscal-concerns-may-weigh-on-20-year-jgb-auction-demand-market-talk/",
+   "published_utc": "2026-10-19T06:05:00+00:00",
+   "title_original": "Fiscal Concerns May Weigh on 20-Year JGB Auction Demand — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "92269d76393e536b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -884,6 +918,23 @@
    "id": "fd036183e1a31faa"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China's new home prices fall again as recovery remains elusive",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndWUGt0d00tOWNGS2lsS3c3WmZTcWFaeVZwNUJVZC0tNkpaR295ZkJpc3FiWGgyeEVUYkgwUi1OUXpiUUo3WG5xeDN3WnpXNlIzc3hSdWxPdkpPcVd4QjI0eTNtR19KX25FcmNRYjlBX2h1R2twRzlPeW1wb0t5QnJ6Q091bnpSMVpLa3cycXAxS2JlTU13YWw5TGhqREx2NGJ3bG5GTi16d0dNVmpzSkVfR3RqclJFd0J0MzdB?oc=5",
+   "published_utc": "2026-10-19T02:46:00+00:00",
+   "title_original": "China's new home prices fall again as recovery remains elusive",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "398cc36db2c31844"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "China’s economic growth accelerates to 4.5% in third quarter",
@@ -1312,23 +1363,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7a8ffac0e6235d45"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "China Q3 GDP Growth Beats Estimates",
-   "url": "https://www.tradingview.com/news/te_news:592939:0-china-q3-gdp-growth-beats-estimates/",
-   "published_utc": "2026-10-19T02:03:41+00:00",
-   "title_original": "China Q3 GDP Growth Beats Estimates",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "13c36e8b3c3fde34"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -3854,8 +3888,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -3869,7 +3903,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -6521,8 +6555,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -6536,7 +6570,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -7190,8 +7224,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -7206,7 +7240,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51895,41 +51929,6 @@
    "live_wire": true,
    "manual": false,
    "id": "760bdb394fc28c7e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's August coal imports from Indonesia fall, Russian shipments rise",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45C02N:0-china-s-august-coal-imports-from-indonesia-fall-russian-shipments-rise/",
-   "published_utc": "2026-09-20T12:01:45+00:00",
-   "title_original": "China's August coal imports from Indonesia fall, Russian shipments rise",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f78cfa0888dd4f09"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Disappointment spreads over the Bank of Japan's stance on raising interest rates...The yen exchange rate heads into an eventful week with the risk of \"further depreciation\" | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/958784?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-20T11:00:00+00:00",
-   "title_original": "日銀の利上げ姿勢に失望感広がる…円相場は｢一段安｣のリスクを抱えながら波乱必至の1週間へ | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "980a71cbca3a5b0f"
   },
   {
    "source_id": "manual_ia",
