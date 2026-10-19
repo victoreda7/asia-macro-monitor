@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-19T23:32:43.592873+00:00",
- "collected_at_utc": "2026-10-19T23:32:43.592873+00:00",
+ "generated_at_utc": "2026-10-19T23:42:43.163395+00:00",
+ "collected_at_utc": "2026-10-19T23:42:43.163395+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 351,
   "korea": 755
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.4,
  "sources": [
+  {
+   "source_id": "gn_cn_nbs",
+   "name": "NBS 国家统计局",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -27,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T20:01:04+00:00"
+   "newest": "2026-10-19T20:11:43+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T23:06:40+00:00"
+   "newest": "2026-10-19T23:31:15+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -156,14 +164,6 @@
    "count": 30,
    "error": "parada desde 28/09/2026",
    "newest": "2026-09-28T07:00:00+00:00"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "name": "NBS 国家统计局",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-19T09:12:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T23:31:12+00:00"
+   "newest": "2026-10-19T23:40:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T08:51:51+00:00"
+   "newest": "2026-10-19T23:34:28+00:00"
   }
  ],
  "items": [
@@ -774,8 +774,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -789,7 +789,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "tradingview_live",
@@ -4762,8 +4762,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -4777,7 +4777,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
