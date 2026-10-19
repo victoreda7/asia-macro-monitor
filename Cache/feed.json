@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T09:32:44.184326+00:00",
- "collected_at_utc": "2026-10-19T09:32:44.184326+00:00",
+ "generated_at_utc": "2026-10-19T09:42:43.956961+00:00",
+ "collected_at_utc": "2026-10-19T09:42:43.956961+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 995,
-  "china": 899,
-  "taiwan": 345,
+  "china": 900,
+  "taiwan": 344,
   "korea": 761
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T09:04:01+00:00"
+   "newest": "2026-10-19T09:36:32+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T07:56:28+00:00"
+   "newest": "2026-10-19T09:24:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T02:00:00+00:00"
+   "newest": "2026-10-19T09:12:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T18:30:35+09:00"
+   "newest": "2026-10-19T18:39:11+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T09:32:04+00:00"
+   "newest": "2026-10-19T09:42:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-19T08:16:01+00:00"
+   "newest": "2026-10-19T09:36:29+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "China GDP Growth Beats Expectations",
+   "url": "https://www.tradingview.com/news/dpa_afx:92ba4b0281bc5:0-china-gdp-growth-beats-expectations/",
+   "published_utc": "2026-10-19T09:40:44+00:00",
+   "title_original": "China GDP Growth Beats Expectations",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "330bc5a9ba127da6"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1344,24 +1361,6 @@
    "id": "8764577f5563ba51"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Taiwan central bank says currency depreciation reflects global stock market 'turmoil'",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3ZT0AN:0-taiwan-central-bank-says-currency-depreciation-reflects-global-stock-market-turmoil/",
-   "published_utc": "2026-10-19T03:09:40+00:00",
-   "title_original": "Taiwan central bank says currency depreciation reflects global stock market 'turmoil'",
-   "region": "taiwan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6876aab4151987b6"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "CITIC Securities: Funding is expected to be relatively loose and the central bank has room to cut interest rates and reserve requirements | USD and RMB | Trade surplus | Liquidity | Deposits | RMB",
@@ -2272,9 +2271,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "Weekly bond market highlights | The central bank invested a net 100 billion yuan in open market government bond sales in September, and the Shenzhen Stock Exchange terminated the review of 5 bond projects",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUV9yYmU4RU1sMGRfblUxcHNRNS0wVkZzSjVQRlZyYWZfMXZqWGhqdDZHNXZsbHFPZEpxeFk3LXpMWGJnamUtM25rekJtWTQ2MlREQjE4UmNRLVFOTkdkd0ExdVdOZ3o4YkpPbHNSSQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGejJCY2FHYzN0NmJ0RjBreGRubUNIMV9KMU5xdHg3TmdOQ0p4Q0VkNk4zOHM1cFdoaDFvUTZ6TEVVOE1Bdk9IQkE4enBGMEQzRFVfdmpadE1DSHRORmdJbkNVRUVOQTRoTHBGR2F6SWVJQ3U3Q1pLZQ?oc=5",
    "published_utc": "2026-10-18T14:13:00+00:00",
    "title_original": "每周债市看点|央行9月公开市场国债买卖净投放1000亿元，深交所终止审核5笔债券项目",
    "region": "china",
@@ -2287,7 +2286,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e25613d171f3a30e"
+   "id": "7411b2a4b068c8ab"
   },
   {
    "source_id": "korea_herald_biz",
