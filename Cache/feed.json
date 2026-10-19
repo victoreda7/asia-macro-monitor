@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-19T23:22:43.430586+00:00",
- "collected_at_utc": "2026-10-19T23:22:43.430586+00:00",
+ "generated_at_utc": "2026-10-19T23:32:43.592873+00:00",
+ "collected_at_utc": "2026-10-19T23:32:43.592873+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 351,
   "korea": 755
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.7,
  "sources": [
-  {
-   "source_id": "gn_kr_mk",
-   "name": "매일경제",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -107,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T10:21:11+00:00"
+   "newest": "2026-10-19T13:40:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -187,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T07:54:42+09:00"
+   "newest": "2026-10-20T07:54:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -275,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T23:20:00+00:00"
+   "newest": "2026-10-19T23:31:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +323,15 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-20T08:00:00+09:00"
+   "newest": "2026-10-20T08:30:00+09:00"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "name": "매일경제",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-19T21:28:01+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -774,8 +774,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -789,7 +789,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "tradingview_live",
@@ -2047,7 +2047,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates: JPY/USD",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaV92VVR5SUNFUy1TdGlCR1lpN2pUcDVyX0VMWDBjdVk5bFBKTXZQLVhVZlhUU2lWWlZKWmRDSUJsWHVORE5kMWUxM2ZKOUd4TXBwYVhxLUFBaFBtMmFkMThTRlhwOGJMVXVuMjhhOWhya2Zyanc2cFZHdjF5V2t4Q1EwSzJRTTNGa1VLWnJkUE91dVVkOG9zZ0dfbEkzT1NFUl83eER4SnUxbjVqZ3c?oc=5",
    "published_utc": "2026-10-19T02:15:00+00:00",
@@ -2359,7 +2359,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "New Zealand’s Trade Deficit With China Widens on EV Imports",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUDRtTTRpN0QwMGstbG05Y3RObW44UFFRY2ZiclhKOUctbmlPcDhMNUVKbUNjSURoQjY5alpsNHJDWEd2ajZiX1M4MG8wYTdyYjRsSUZBSWtSMnZOaFBWeWZZMFYxVjlRc1lPZ24yejZIV2VfVThSdUczcEZaZHRqbmVWWlV2OTNzUDFBc1BReFk5NnR2MFEwd2l6NnVncnZmOTE0T1lTYkpGWXFhZW9r?oc=5",
    "published_utc": "2026-10-19T01:14:00+00:00",
@@ -4366,10 +4366,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
+   "source_name": "Investing.com UK",
    "title_en": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzhpNk02NUd0cThLZGtubEhyQjk3ZWF1SjJpVWp2ZUVPQWw1Z0tmUk5RNmM0cWJudTh4WmtTU2pTajNDNko4VmsxQ0p4d3h0UGNHcTRhS3NfdjR6OEI1OGJCcHpNbEU4Q2t5UnRmeUc0cVBDUzZOckFydk1DRkwtZV9NamJqdjF6R3FfUUxZa0hDVDd3djl4NDlzcUpVbG9QdWQ1T1UzaS1PWG1odGVkRzk0QS1aVEE?oc=5",
-   "published_utc": "2026-10-16T21:21:43+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHFSWnhza0FRTjRPUHJCN3RkQ2g0SkkyS01GVUhmTW51aVZmWEFtd3QzdnhNR2V1cmZHYmdMWlVzZDM1NkFHVXB5RGJ2MUg4XzJXVGMyXzd0dWdJaW9sUG1NcEtuVUV6cmZ4YjdlQ2pxa1NyNUEzZUdjMTRGQ2VlYlhMVV9VbkE4aVAwYWRzTjY4Rks2WXQ1bVFWSVd1Z3N4ekp2cTF0a3hNV3htc0xrTXBYMHZGUzdCNkZr?oc=5",
+   "published_utc": "2026-10-16T20:49:00+00:00",
    "title_original": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
    "region": "japan",
    "topics": [
@@ -4379,7 +4379,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d89a3510b7970b73"
+   "id": "0b4180c2c98b1e85"
   },
   {
    "source_id": "nhk_politics",
@@ -4762,8 +4762,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -4777,7 +4777,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
