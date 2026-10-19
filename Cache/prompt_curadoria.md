@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T00:32:42.282199+00:00
-Total: 2982 manchetes
+Última coleta: 2026-10-19T00:42:44.089781+00:00
+Total: 2984 manchetes
 
-  🇯🇵 Japão          1008
+  🇯🇵 Japão          1010
   🇨🇳 China          885
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  746
 
 ## O que já está no feed (não repita)
 
-  - [japan] BOJ Governor Ueda says underlying inflation 'quite close' to 2% target
+  - [japan] BOJ chief says underlying inflation 'quite close' to price goal
+  - [korea] “The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”
+  - [japan] BOJ Governor Ueda says underlying inflation ’quite close’ to 2% target
+  - [japan] Bank of Japan Governor Ueda will attend the House of Councilors Budget Committee meeting from 9 a.m. - Diet so
   - [china] China’s Q3 GDP growth set to pick up as exports power ahead
   - [taiwan] Weekly Recap: Q3 revenue surge at TSMC and Arizona fab mass production in Q3 2027
   - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
@@ -46,7 +49,6 @@ Total: 2982 manchetes
   - [china] This Week’s Key Economic and Crypto Events: US Initial Jobless Claims, China GDP
   - [korea] BOK to pause before November hike, rates to peak at 3.50%, survey shows
   - [korea] Controversy over the semiconductor supercycle "peakout" is heating up ahead of the Bank of Korea's M..
-  - [korea] “The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”
   - [korea] “The Bank of Korea will freeze the base interest rate in October…likely to raise it in November.”
   - [china] Hygon Information Plans To Buy Back Shares For Up To 800 Mln Yuan
   - [korea] The balance of group loans increased while jeonse loans decreased amid the government's tightening o..
@@ -55,8 +57,6 @@ Total: 2982 manchetes
   - [china] China proposes export curbs on 12 key solar manufacturing technologies
   - [japan] BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll
   - [china] Shengyi Technology Plans To Buy Back Shares For Up To 300 Mln Yuan
-  - [china] Montage Technology Plans To Buy Back Shares For Up To 500 Mln Yuan
-  - [china] Galaxycore Plans To Buy Back Shares For 150-300 Mln Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2982 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T00:32:43+00:00",
+      "published_utc": "2026-10-19T00:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
