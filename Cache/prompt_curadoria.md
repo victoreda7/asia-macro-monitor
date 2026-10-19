@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T15:02:47.207243+00:00
+Última coleta: 2026-10-19T15:12:44.931430+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          993
-  🇨🇳 China          901
+  🇯🇵 Japão          994
+  🇨🇳 China          902
   🇹🇼 Taiwan         348
-  🇰🇷 Coreia do Sul  758
+  🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
   - [korea] SK hynix launches W2tr financing program to bolster chip suppliers
+  - [japan] Preview: Forecasters See Japanese Exports, Imports Continuing to Surge in September Report as Tech Spending Ri
   - [china] Euro falls amid turmoil in France, Australian dollar appreciates as China grows
   - [china] China’s Second-Tier New-Home Prices Flatten as Property Slump Persists
   - [china] Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com
@@ -29,6 +30,7 @@ Total: 3000 manchetes
   - [korea] Kr Motors To Divest Real Estate Worth 47.5 Billion Won
   - [taiwan] AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round
   - [china] XiAn Eswin Material Technology Q3 Net Profit At 440.7 Million Yuan
+  - [china] The Chinese government announced on the 19th a plan to adjust export controls on drone-related produ..
   - [korea] AM Markets Need to Know: Musk plans SpaceX gift, Samsung taps TSMC, and more
   - [japan] Micronesian President visits Japan and holds summit meeting with Prime Minister Takaichi
   - [china] Shenzhen Investment Says In Q3, Real Estate Dev Business Unaudited Contracted Sales Of Rmb1.814 Bln
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea is likely to freeze its benchmark interest rate in October... Expert: “This is not the end o
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [china] Economic growth picks up in China on robust export demand
-  - [korea] Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension
-  - [japan] Sell orders centered on semiconductor-related stocks with a decline in the Nikkei Stock Average
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T15:02:47+00:00",
+      "published_utc": "2026-10-19T15:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
