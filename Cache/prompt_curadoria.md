@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T14:42:44.897780+00:00
+Última coleta: 2026-10-19T14:52:44.311316+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          993
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix launches W2tr financing program to bolster chip suppliers
   - [china] Euro falls amid turmoil in France, Australian dollar appreciates as China grows
   - [china] China’s Second-Tier New-Home Prices Flatten as Property Slump Persists
   - [china] Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Economic growth picks up in China on robust export demand
   - [korea] Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension
   - [japan] Sell orders centered on semiconductor-related stocks with a decline in the Nikkei Stock Average
-  - [taiwan] Foxconn To Acquire 50% Stake In Mitsubishi Electric Mobility For 115 Bln Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T14:42:45+00:00",
+      "published_utc": "2026-10-19T14:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

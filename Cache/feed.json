@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-19T14:42:44.897780+00:00",
- "collected_at_utc": "2026-10-19T14:42:44.897780+00:00",
+ "generated_at_utc": "2026-10-19T14:52:44.311316+00:00",
+ "collected_at_utc": "2026-10-19T14:52:44.311316+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 348,
   "korea": 758
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T12:10:02+00:00"
+   "newest": "2026-10-19T14:00:28+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T14:42:00+00:00"
+   "newest": "2026-10-19T14:50:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T11:34:47+00:00"
+   "newest": "2026-10-19T11:00:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-19T13:41:25+00:00"
+   "newest": "2026-10-19T14:42:59+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "SK hynix launches W2tr financing program to bolster chip suppliers",
+   "url": "https://www.koreaherald.com/article/10907390",
+   "published_utc": "2026-10-19T15:02:27+00:00",
+   "title_original": "SK hynix launches W2tr financing program to bolster chip suppliers",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b30e7397996aae31"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -447,8 +464,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -462,7 +479,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "tradingview_live",
@@ -1235,23 +1252,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d6e741fef37bc9c3"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "SK hynix launches W2tr financing program to bolster chip suppliers",
-   "url": "https://www.koreaherald.com/article/10907390",
-   "published_utc": "2026-10-19T06:12:42.891769+00:00",
-   "title_original": "SK hynix launches W2tr financing program to bolster chip suppliers",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b30e7397996aae31"
   },
   {
    "source_id": "tradingview_live",
@@ -4501,8 +4501,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -4516,7 +4516,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -9065,7 +9065,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "The central bank released financial statistics for the first three quarters: the increase in social financing exceeded 27 trillion yuan, and the proportion of direct financing increased | People's Bank of China | Bonds | Credit | Loans | Experts",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkRLc2RidWtMdWdnY0hQcDQ0TUdLZE03MTVPUE9UWWVrU0NScVVUYjZyS1pPR3RYV0lSbGtBRkxIeUNyYzR2bWItMXZ5UkJONGNCYXVBZUlqUXI5a3k2VUJGbUJ5Sld6UFFwcVR2NkM2VV9lY2JWbm52N1daXzMybjQyZUpEdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVNMNFI3N0ZKQkxaV1VTWkV2LUhrQ25rQmVDNERMOWJPdWZNWGlfMWU4ZXdudHlCMDBrUFhHdlQ5SlVPN29zMWprV0FIN3pHdDlMZmVOOVhld1NEVFJWQ0pZaXMtQzZUQ2k2UmdybnkzNmFDUDljMmk0X19qbWZrdU5SSGQ2MFViUW80RzJnUXAyV2lmTGkzQU9PeGxER25XVURWbkZB?oc=5",
    "published_utc": "2026-10-15T03:16:51+00:00",
    "title_original": "央行发布前三季度金融统计数据：社融增量超27万亿元，直接融资占比上升|中国人民银行|债券|信贷|贷款|专家",
    "region": "china",
@@ -9077,7 +9077,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "06325222e42c1155"
+   "id": "6e5c9b8f48236ae7"
   },
   {
    "source_id": "gn_cn_pboc",
