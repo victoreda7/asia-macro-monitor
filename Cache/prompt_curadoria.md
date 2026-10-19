@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T07:32:43.631073+00:00
+Última coleta: 2026-10-19T07:45:22.898743+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          999
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
   - [japan] Japan PM says won’t rule out debt issuance to fund tax cut
   - [japan] Japan futures rise as tyre manufacturing resumes in China
   - [china] China stocks end higher as strong GDP outweighs AI jitters
@@ -50,7 +51,6 @@ Total: 3000 manchetes
   - [korea] Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension
   - [korea] Bitcoin, Korea’s Kospi and Nasdaq Futures Rally as China GDP Beats Estimates
   - [taiwan] Finance minister leads Taiwan delegation to APEC meeting in Hong Kong
-  - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
   - [china] Yuan hits 4-year high as strong GDP data tempers need for stimulus
   - [japan] Prime Minister Takaichi secures financial resources for consumption tax reduction “Proceed with review of expe
   - [japan] Yen Steady as Ueda Signals Inflation Near Target
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T07:32:43+00:00",
+      "published_utc": "2026-10-19T07:45:23+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
