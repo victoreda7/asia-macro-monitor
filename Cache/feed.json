@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T05:52:41.853571+00:00",
- "collected_at_utc": "2026-10-19T05:52:41.853571+00:00",
+ "generated_at_utc": "2026-10-19T06:02:44.852837+00:00",
+ "collected_at_utc": "2026-10-19T06:02:44.852837+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 998,
+  "japan": 996,
   "china": 908,
-  "taiwan": 343,
-  "korea": 751
+  "taiwan": 344,
+  "korea": 752
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 31.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 32,
+   "count": 36,
    "error": "",
-   "newest": "2026-10-19T11:38:59+08:00"
+   "newest": "2026-10-19T13:07:09+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T05:34:35+00:00"
+   "newest": "2026-10-19T05:50:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T04:17:35+00:00"
+   "newest": "2026-10-19T05:48:41+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T14:22:39+09:00"
+   "newest": "2026-10-19T14:55:19+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T12:58:48+09:00"
+   "newest": "2026-10-19T15:00:37+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T05:51:26+00:00"
+   "newest": "2026-10-19T06:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T04:49:57+00:00"
+   "newest": "2026-10-19T05:53:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "China Q3 GDP Growth Improves",
+   "url": "https://www.tradingview.com/news/dpa_afx:51f84238784fe:0-china-q3-gdp-growth-improves/",
+   "published_utc": "2026-10-19T05:53:38+00:00",
+   "title_original": "China Q3 GDP Growth Improves",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c179d62a5d89f893"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Although Korea Western Power Co. has invested more than 630 billion won in safety-related budgets an..",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UTi1yQUp4VmJyS0NvX3RCcWhfSlB1N3hZLVRXLVV1YXh0aGVhdE14bXVhZ0RHN25RZkhWTHNRbmVtcy04MUExanJaaFRJbnU1OGxz?oc=5",
+   "published_utc": "2026-10-19T05:53:03+00:00",
+   "title_original": "Although Korea Western Power Co. has invested more than 630 billion won in safety-related budgets an..",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "af0175e21c871d4e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -394,6 +428,24 @@
    "live_wire": true,
    "manual": false,
    "id": "a0da9846b6565bb4"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Central bank mulls forex intervention after Taiwan dollar losses",
+   "url": "https://focustaiwan.tw/business/202610190010",
+   "published_utc": "2026-10-19T05:07:09+00:00",
+   "title_original": "Central bank mulls forex intervention after Taiwan dollar losses",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ca0772a605307682"
   },
   {
    "source_id": "investing_live",
@@ -1294,24 +1346,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a6afcef16cf07b63"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's factory output growth picks up pace in September, retail sales also",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45900N:0-china-s-factory-output-growth-picks-up-pace-in-september-retail-sales-also/",
-   "published_utc": "2026-10-19T02:00:07+00:00",
-   "title_original": "China's factory output growth picks up pace in September, retail sales also",
-   "region": "china",
-   "topics": [
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "33373eeef057afe3"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -8384,7 +8418,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "The central bank released financial statistics for the first three quarters: the increase in social financing exceeded 27 trillion yuan, and the proportion of direct financing increased | People's Bank of China | Bonds | Credit | Loans | Experts",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkRLc2RidWtMdWdnY0hQcDQ0TUdLZE03MTVPUE9UWWVrU0NScVVUYjZyS1pPR3RYV0lSbGtBRkxIeUNyYzR2bWItMXZ5UkJONGNCYXVBZUlqUXI5a3k2VUJGbUJ5Sld6UFFwcVR2NkM2VV9lY2JWbm52N1daXzMybjQyZUpEdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVNMNFI3N0ZKQkxaV1VTWkV2LUhrQ25rQmVDNERMOWJPdWZNWGlfMWU4ZXdudHlCMDBrUFhHdlQ5SlVPN29zMWprV0FIN3pHdDlMZmVOOVhld1NEVFJWQ0pZaXMtQzZUQ2k2UmdybnkzNmFDUDljMmk0X19qbWZrdU5SSGQ2MFViUW80RzJnUXAyV2lmTGkzQU9PeGxER25XVURWbkZB?oc=5",
    "published_utc": "2026-10-15T03:16:51+00:00",
    "title_original": "央行发布前三季度金融统计数据：社融增量超27万亿元，直接融资占比上升|中国人民银行|债券|信贷|贷款|专家",
    "region": "china",
@@ -8396,7 +8430,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "06325222e42c1155"
+   "id": "6e5c9b8f48236ae7"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -10740,6 +10774,24 @@
    "live_wire": false,
    "manual": false,
    "id": "2d34b905ff2d2f7d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation on October 15",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3ZjU0NJS0taWklwTWVhNlpkbC0tX0RXblNZb3YwZ3BBSzQzY2NjYWd2MGpsT29RQjF6ZW13ckpJeXFYaGt2QldEMmJqd2RILXlNQ1pRMWZKa0tkUndtbFNuaFN4LW5ZV0kzWlFCX1k3LXJvdFNCc3IwbUx3QTYyV1o1VQ?oc=5",
+   "published_utc": "2026-10-14T10:05:00+00:00",
+   "title_original": "央行10月15日开展7000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d67217a3832d0d66"
   },
   {
    "source_id": "toyo_keizai",
@@ -51878,59 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "980a71cbca3a5b0f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's marine fuel exports fall to 22-month low",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45A0J8:0-china-s-marine-fuel-exports-fall-to-22-month-low/",
-   "published_utc": "2026-09-20T10:24:16+00:00",
-   "title_original": "China's marine fuel exports fall to 22-month low",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ce76741b6bed0ea5"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Yen depreciates despite Bank of Japan interest rate hike Will live ammunition intervene during Silver Week? Increased vigilance over “rate check”",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qOWcwNGF1RmdGektXN0t3ZW13TGNlOGJDQWhfMVBsNmxNM1U0VEJpVlZKc015NWF1V3FSTC0xeWJ5VWdVb3o2STdldXprS2tCNEJ3WFkxcENfZmx4QXZSNkQxbmFQaVU4QkNLd3NvUjNHNVJDQ3RCeURYcHpuUEk?oc=5",
-   "published_utc": "2026-09-20T10:00:42+00:00",
-   "title_original": "日銀利上げでも円安に シルバーウィーク中の実弾介入は?「レートチェック」めぐり増す警戒",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "165f32752f5f30d9"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "What is the aim of the Bank of Japan's \"unprecedented interest rate hike\"? At around 1.25%, the highest level in 31 years Mortgage burden increases How to protect your household finances by “saving without trying”",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSV9ZVVFpR2xVOER3OFowdGFiZ3ZGN2FYQWpwM2ZjQl9hbERzZTEyOFNvbXBlblBHdDZ6azRXVWk2amgxQ2twelpZV1RFdkVQc1Zma09ub1lnUTJzSW01Q213SU82eTcwUFBVTGt2dXVURWlMUFluY3VlRy0wLTZfaEhDZTk4cDhid2NQdEF3?oc=5",
-   "published_utc": "2026-09-20T10:00:00+00:00",
-   "title_original": "日銀“異例の利上げ”の狙いは？ 1.25％程度で31年ぶりの水準 住宅ローン負担は増加 “頑張らない節約”で家計を守る方法とは",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d052377a69ae2bab"
   },
   {
    "source_id": "manual_ia",

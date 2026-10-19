@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T05:52:41.853571+00:00
+Última coleta: 2026-10-19T06:02:44.852837+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          998
+  🇯🇵 Japão          996
   🇨🇳 China          908
-  🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  751
+  🇹🇼 Taiwan         344
+  🇰🇷 Coreia do Sul  752
 
 ## O que já está no feed (não repita)
 
+  - [china] China Q3 GDP Growth Improves
+  - [korea] Although Korea Western Power Co. has invested more than 630 billion won in safety-related budgets an..
   - [japan] Rice Prices Key to Japan Inflation Expectations — Market Talk
   - [japan] House of Councilors, Liberal Democratic Party, Ritsumeikan Committee on National Affairs meeting, discussion o
   - [korea] South Korean Won Extends Gains Near 2-Year High
+  - [taiwan] Central bank mulls forex intervention after Taiwan dollar losses
   - [korea] SK Hynix bounces from extreme oversold-bear risk stays: Live levels
   - [japan] Nikkei 225 in strong downtrend at JPY 65,000: Live levels
   - [china] China’s CXMT shares slide despite ninefold revenue growth forecast
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China's daily crude steel output jumps in September on robust exports
   - [japan] Takaichi Rejects Blame for Weak Yen and High Interest Rates
   - [china] China’s economic growth picks up in third quarter, beating expectations
-  - [china] China's 3Q GDP Growth Tops Expectations
-  - [china] China's economic growth picks up as exports boom, consumers balk
-  - [china] CHINA YTD INDUSTRIAL OUTPUT +5.3% Y/Y VS JAN-AUG +5.3% Y/Y
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T05:52:42+00:00",
+      "published_utc": "2026-10-19T06:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
