@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T01:02:42.681739+00:00
-Total: 2984 manchetes
+Última coleta: 2026-10-19T01:12:42.515502+00:00
+Total: 2986 manchetes
 
-  🇯🇵 Japão          1009
+  🇯🇵 Japão          1011
   🇨🇳 China          885
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  747
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Consolidates, But May Be Supported by Risk-Off Mood — Market Talk
+  - [japan] Japan PM vows to control size of debt issuance
   - [korea] The won per dollar reached its highest level in two years and one month due to strong exports center..
   - [japan] BOJ chief says underlying inflation 'quite close' to price goal
   - [japan] BOJ Governor Ueda says underlying inflation ’quite close’ to 2% target
@@ -55,8 +57,6 @@ Total: 2984 manchetes
   - [korea] The balance of group loans increased while jeonse loans decreased amid the government's tightening o..
   - [korea] [Photo] Strengthening global financial supply chains
   - [china] Wuxi Hyatech To Issue Convertible Bond Raising 600 Mln Yuan For Projects
-  - [china] China proposes export curbs on 12 key solar manufacturing technologies
-  - [japan] BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2984 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T01:02:42+00:00",
+      "published_utc": "2026-10-19T01:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
