@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T07:52:42.244490+00:00",
- "collected_at_utc": "2026-10-19T07:52:42.244490+00:00",
+ "generated_at_utc": "2026-10-19T08:02:45.985637+00:00",
+ "collected_at_utc": "2026-10-19T08:02:45.985637+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 997,
-  "china": 903,
-  "taiwan": 344,
-  "korea": 756
+  "japan": 998,
+  "china": 900,
+  "taiwan": 345,
+  "korea": 757
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 31.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T07:45:00+00:00"
+   "newest": "2026-10-19T07:49:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T06:26:00+00:00"
+   "newest": "2026-10-19T05:13:46+00:00"
   },
   {
    "source_id": "ked_global",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T15:56:00+09:00"
+   "newest": "2026-10-19T16:55:32+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T00:38:00+00:00"
+   "newest": "2026-10-19T04:31:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T07:51:00+00:00"
+   "newest": "2026-10-19T08:01:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T03:27:46+00:00"
+   "newest": "2026-10-19T06:27:19+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-19T07:24:55+00:00"
+   "newest": "2026-10-19T07:58:25+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -339,10 +339,61 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T04:33:40+00:00"
+   "newest": "2026-10-19T07:48:13+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Sell orders centered on semiconductor-related stocks with a decline in the Nikkei Stock Average",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261019de61495",
+   "published_utc": "2026-10-19T07:55:32+00:00",
+   "title_original": "日経平均株価 値下がり 半導体関連銘柄を中心に売り注文",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "03f5cc1661fb06b4"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Foxconn To Acquire 50% Stake In Mitsubishi Electric Mobility For 115 Bln Yen",
+   "url": "https://www.tradingview.com/news/dpa_afx:868942981e3a8:0-foxconn-to-acquire-50-stake-in-mitsubishi-electric-mobility-for-115-bln-yen/",
+   "published_utc": "2026-10-19T07:54:09+00:00",
+   "title_original": "Foxconn To Acquire 50% Stake In Mitsubishi Electric Mobility For 115 Bln Yen",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "79f659afb38fc37b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "Chip Investors, Watch Out: China’s CXMT Plunges Despite Record Forecast After Samsung’s Post-Outlook Slide",
+   "url": "https://www.tradingview.com/news/stocktwits:4c8f1d9b9094b:0-chip-investors-watch-out-china-s-cxmt-plunges-despite-record-forecast-after-samsung-s-post-outlook-slide/",
+   "published_utc": "2026-10-19T07:52:18+00:00",
+   "title_original": "Chip Investors, Watch Out: China’s CXMT Plunges Despite Record Forecast After Samsung’s Post-Outlook Slide",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3be847af91469958"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -789,6 +840,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b4f20dc339591eca"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "Morning Bid: Markets left to figure out sanctions",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Zk9kSXZkOVBJMWZjbXNlSmI2a2F6VG5EUFFfcHlMUjhaX25qaW1qWGNCVFpRaUlMN042UHdTNEh1eHY0MUFmS2RLZTJOd2VLRTlkX082UFNjTHdSZjBlQTB4b0hpeXlzY2UzZXlTNWoyX1pOVi1RTVV6UEhtOG8?oc=5",
+   "published_utc": "2026-10-19T04:31:00+00:00",
+   "title_original": "Morning Bid: Markets left to figure out sanctions",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4f220eedc360c92e"
   },
   {
    "source_id": "tradingview_live",
@@ -1331,40 +1399,6 @@
    "id": "56e83119f3e54576"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA YTD RETAIL SALES +1.1% Y/Y VS JAN-AUG +1.1% Y/Y",
-   "url": "https://www.tradingview.com/news/dpa_afx:ba224ff3a60ac:0-china-ytd-retail-sales-1-1-y-y-vs-jan-aug-1-1-y-y/",
-   "published_utc": "2026-10-19T02:20:16+00:00",
-   "title_original": "CHINA YTD RETAIL SALES +1.1% Y/Y VS JAN-AUG +1.1% Y/Y",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "49750f59ef127727"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's economy picks up pace in Q3 as exports power uneven recovery",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46501H:0-china-s-economy-picks-up-pace-in-q3-as-exports-power-uneven-recovery/",
-   "published_utc": "2026-10-19T02:19:55+00:00",
-   "title_original": "China's economy picks up pace in Q3 as exports power uneven recovery",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "28a48d94018ee786"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "China Q3 GDP grows 4.5%, slightly more than expected",
@@ -1569,24 +1603,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ebb2c7b6d0f517e8"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launches 80 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVSTBQVkRCbkkxeWx1TUs3Wmk3Zk9IdmE2bkVZS3VWV2hBZmtRbUdPcUhGRFlYTjJZQnZfakNNZ1RwcDE3M20wdU9UbGtaeDR3a2FSZm5CcGg?oc=5",
-   "published_utc": "2026-10-19T01:56:46+00:00",
-   "title_original": "央行今日开展800亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1609133c01d21822"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -2254,6 +2270,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d9cbe4c762f01fc8"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launches 80 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVSTBQVkRCbkkxeWx1TUs3Wmk3Zk9IdmE2bkVZS3VWV2hBZmtRbUdPcUhGRFlYTjJZQnZfakNNZ1RwcDE3M20wdU9UbGtaeDR3a2FSZm5CcGg?oc=5",
+   "published_utc": "2026-10-18T10:30:00+00:00",
+   "title_original": "央行今日开展800亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1609133c01d21822"
   },
   {
    "source_id": "tradingview_live",
@@ -4026,8 +4060,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -4041,7 +4075,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -6693,8 +6727,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -6708,7 +6742,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -7362,8 +7396,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -7378,7 +7412,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -8465,10 +8499,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
+   "source_name": "Investing.com Nigeria",
    "title_en": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXM4RzlvNjh2NUgyeFQtMWlxT2gza0VvZU5JVDVBVzVXRS1kZVZEc2QzT1RMazNJWThlaWRWckFOd0JNRTdmQmp4UmlHWmUwTlJ3VDhyanZVaU9WVFJlTzYzUUVaeVBrRkdxaWFzUkJfd0tXdTNfSlVCUy1sOXdVdEs1cktiZFJpbW9QbHBsNjFXazljTFhaVGJ5RWN6RVpMQVRQRExYWVljcjZkbU5LbDZSU1JVYUdENzBiQjBn?oc=5",
-   "published_utc": "2026-10-15T04:06:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0dpcXNnYnNnbWtWakd2R3VrNnpxUHFsRWJyN1pLZ3BacTkyb0FfVUtUM3dvRlZqckZ4aXRlVGZvdHY2S09nWDlzVk1POWstNmRwRlNvSTlGbkYybjAxTnF0akg4ZmI3UWh1RFlJaWp4cnV2MEJCWGhKM2ZnN3doRXpUNmZKaEk2YlhhNWNjSXFkMWFVME5xRFVHTUF4ZFpFUjg1QXVmZmE1Y2hjWU1oOXd1SXdzbno3bVB6RW1B?oc=5",
+   "published_utc": "2026-10-15T04:25:28+00:00",
    "title_original": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
    "region": "japan",
    "topics": [
@@ -8479,7 +8513,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "dfae25f1e6df382f"
+   "id": "2b3965436e525ef4"
   },
   {
    "source_id": "investing_live",
@@ -41372,9 +41406,9 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
+   "source_name": "Investing.com UK",
    "title_en": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGRUOGNZbG1jNmxUSGZQSDdWVHMtaV94Y2pWX28zUE1Tb3JGSGE5dDRqUTJGSXZhQzVYX0R6RUtoanVMdERyWHVqaFJFM1Nza1lkSGhfV21JNGZtUnBja09ZZEJhTmQzRTNYRVpQdlhCekR2TFJaZXBYMy1xNmJFVVd0bnQ5bm9XVFZkZVJiUzRfaEJVTi12dnZzRUd0UVRoU3JNdzhSTHZWelUtZjZSZ0dLUElMdEdWMGVLcQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0ZUakhzWWJoellmNEswN0xTNGxwMVMzRl9RNlN5SXVrbzJ2TVV2RkxEWk5VX1dnT3JxRS1BV3FXSVY4SHNzZ2d6eTFBQmR6T2xBV05ld2JlcVR3UFA0eXdHV3ExRlBORDJPTFdpZ21pOUJhamhkdUdnZWFvWVRRd25tZC1BZWs4QjRrZEx6WXpqeG9ocUNHUmNyX0E4T3ItVmQ3NXFkYy1ReURjXzA2aG5yUWVLdFh5eDFJaA?oc=5",
    "published_utc": "2026-09-28T07:00:00+00:00",
    "title_original": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
    "region": "japan",
@@ -41385,7 +41419,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "c26bda4186e2416f"
+   "id": "92d721f54bcd14ff"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51892,40 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "81d7937cfc26ac8a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "China Keeps LPR Rates at Record Lows for 16th Month",
-   "url": "https://www.tradingview.com/news/te_news:585137:0-china-keeps-lpr-rates-at-record-lows-for-16th-month/",
-   "published_utc": "2026-09-20T22:09:52+00:00",
-   "title_original": "China Keeps LPR Rates at Record Lows for 16th Month",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e489ec59901bec98"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "China slow-walks yuan appreciation as US, Europe demand trade rebalancing",
-   "url": "https://asia.nikkei.com/business/markets/trading-asia/china-slow-walks-yuan-appreciation-as-us-europe-demand-trade-rebalancing",
-   "published_utc": "2026-09-20T21:51:22.501842+00:00",
-   "title_original": "China slow-walks yuan appreciation as US, Europe demand trade rebalancing",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4cf0faca70a9ec05"
   },
   {
    "source_id": "manual_ia",

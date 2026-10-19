@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T07:52:42.244490+00:00
+Última coleta: 2026-10-19T08:02:45.985637+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
-  🇨🇳 China          903
-  🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  756
+  🇯🇵 Japão          998
+  🇨🇳 China          900
+  🇹🇼 Taiwan         345
+  🇰🇷 Coreia do Sul  757
 
 ## O que já está no feed (não repita)
 
+  - [japan] Sell orders centered on semiconductor-related stocks with a decline in the Nikkei Stock Average
+  - [taiwan] Foxconn To Acquire 50% Stake In Mitsubishi Electric Mobility For 115 Bln Yen
+  - [china] Chip Investors, Watch Out: China’s CXMT Plunges Despite Record Forecast After Samsung’s Post-Outlook Slide
   - [china] China commerce ministry announces export controls for tunnel boring machines
   - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
   - [japan] Japan PM says won’t rule out debt issuance to fund tax cut
@@ -43,6 +46,7 @@ Total: 3000 manchetes
   - [japan] Japan Power Price at Four-Year High With Rising Coal, LNG Costs
   - [china] China Fangda Unit's IKK Fangda JV Signs 2.05 Bln Yuan Curtain Wall Works For Stadium In Saudi Arabia
   - [korea] The Bank of Korea is expected to freeze its base interest rate on the 22nd... Weighted at maintaining 3.00% pe
+  - [korea] Morning Bid: Markets left to figure out sanctions
   - [china] China's GDP Growth Accelerates, but Underlying Momentum Remains Weak — Market Talk
   - [china] Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat
   - [china] China stocks inch higher as strong GDP offsets weak AI mood
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Bitcoin, Korea’s Kospi and Nasdaq Futures Rally as China GDP Beats Estimates
   - [taiwan] Finance minister leads Taiwan delegation to APEC meeting in Hong Kong
   - [china] Yuan hits 4-year high as strong GDP data tempers need for stimulus
-  - [japan] Prime Minister Takaichi secures financial resources for consumption tax reduction “Proceed with review of expe
-  - [japan] Yen Steady as Ueda Signals Inflation Near Target
-  - [taiwan] Taiwan central bank says currency depreciation reflects global stock market 'turmoil'
-  - [china] China GDP growth picks up to 4.5% from 3-year low
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T07:52:42+00:00",
+      "published_utc": "2026-10-19T08:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
