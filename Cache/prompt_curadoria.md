@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T18:12:44.406954+00:00
+Última coleta: 2026-10-19T18:22:45.168638+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          995
-  🇨🇳 China          899
+  🇯🇵 Japão          996
+  🇨🇳 China          898
   🇹🇼 Taiwan         350
   🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
+  - [china] Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com
   - [japan] BOJ spies a chance to pivot to sustaining inflation as 2% goal nears
   - [korea] Agriculture Ministry eyes legal action over egg import, farmland claims
   - [china] Goldman Sachs raises copper forecast as US-China competition tightens supply
@@ -29,7 +30,6 @@ Total: 3000 manchetes
   - [japan] Preview: Forecasters See Japanese Exports, Imports Continuing to Surge in September Report as Tech Spending Ri
   - [china] Euro falls amid turmoil in France, Australian dollar appreciates as China grows
   - [china] China’s Second-Tier New-Home Prices Flatten as Property Slump Persists
-  - [china] Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com
   - [china] Pace of Chinese Yuan's Gains Vs Dollar Likely to Remain Gradual — Market Talk
   - [taiwan] Business groups back Taipower, CPC subsidies; scholars dissent
   - [japan] Consumption tax reduction bill: Ruling party: “Committee deliberation begins on 21st” Opposition: “Enhancement
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T18:12:44+00:00",
+      "published_utc": "2026-10-19T18:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
