@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T08:52:43.939844+00:00
+Última coleta: 2026-10-19T09:02:43.776406+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          996
-  🇨🇳 China          899
+  🇯🇵 Japão          995
+  🇨🇳 China          900
   🇹🇼 Taiwan         345
   🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
+  - [korea] Agriculture Ministry eyes legal action over egg import, farmland claims
+  - [china] LME owner HKEX eyes more yuan-denominated commodities contracts
   - [korea] Chip boom to continue through 2027, South Korea minister tells CNBC
   - [china] China central bank to widen access to standing lending facility, create liquidity tool for non-banks
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il predicted that Korea's econom..
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] USD/JPY Seen Range-Bound Ahead of Central Bank Meetings — Market Talk
   - [japan] Japan Power Price at Four-Year High With Rising Coal, LNG Costs
   - [china] China Fangda Unit's IKK Fangda JV Signs 2.05 Bln Yuan Curtain Wall Works For Stadium In Saudi Arabia
-  - [korea] The Bank of Korea is expected to freeze its base interest rate on the 22nd... Weighted at maintaining 3.00% pe
-  - [korea] Morning Bid: Markets left to figure out sanctions
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T08:52:44+00:00",
+      "published_utc": "2026-10-19T09:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

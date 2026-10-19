@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T08:52:43.939844+00:00",
- "collected_at_utc": "2026-10-19T08:52:43.939844+00:00",
+ "generated_at_utc": "2026-10-19T09:02:43.776406+00:00",
+ "collected_at_utc": "2026-10-19T09:02:43.776406+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 996,
-  "china": 899,
+  "japan": 995,
+  "china": 900,
   "taiwan": 345,
   "korea": 760
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-19T16:34:48+00:00"
+   "newest": "2026-10-19T18:01:53+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T17:26:49+09:00"
+   "newest": "2026-10-19T17:53:10+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T17:37:54+09:00"
+   "newest": "2026-10-19T17:37:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T08:51:43+00:00"
+   "newest": "2026-10-19T09:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Agriculture Ministry eyes legal action over egg import, farmland claims",
+   "url": "https://www.koreaherald.com/article/10907694",
+   "published_utc": "2026-10-19T09:02:43.437362+00:00",
+   "title_original": "Agriculture Ministry eyes legal action over egg import, farmland claims",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc1b89acb27d4434"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "LME owner HKEX eyes more yuan-denominated commodities contracts",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46508X:0-lme-owner-hkex-eyes-more-yuan-denominated-commodities-contracts/",
+   "published_utc": "2026-10-19T09:00:34+00:00",
+   "title_original": "LME owner HKEX eyes more yuan-denominated commodities contracts",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2a4a5aca2154dffa"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Seeking Alpha",
@@ -1412,25 +1446,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4b860eed53ee4724"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "Japan Week Ahead: BOJ Policymakers Set for More Rate Hikes While Prime Minister Takaichi in Rough Seas Seeking Temporary Sales Tax Cut on Food",
-   "url": "https://www.tradingview.com/news/macenews:dcdaadba7094b:0-japan-week-ahead-boj-policymakers-set-for-more-rate-hikes-while-prime-minister-takaichi-in-rough-seas-seeking-temporary-sales-tax-cut-on-food/",
-   "published_utc": "2026-10-19T02:39:00+00:00",
-   "title_original": "Japan Week Ahead: BOJ Policymakers Set for More Rate Hikes While Prime Minister Takaichi in Rough Seas Seeking Temporary Sales Tax Cut on Food",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f674ecc578f766d6"
   },
   {
    "source_id": "investing_live",
@@ -4145,8 +4160,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -4160,7 +4175,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -6812,8 +6827,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -6827,7 +6842,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -7481,8 +7496,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -7497,7 +7512,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51908,23 +51923,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fff282e784aea733"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Europe faces Q4 jet fuel supply deficit even as South Korea becomes latest big supplier",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4570XK:0-europe-faces-q4-jet-fuel-supply-deficit-even-as-south-korea-becomes-latest-big-supplier/",
-   "published_utc": "2026-09-21T00:00:00+00:00",
-   "title_original": "Europe faces Q4 jet fuel supply deficit even as South Korea becomes latest big supplier",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "432145600a8d2cba"
   },
   {
    "source_id": "manual_ia",
