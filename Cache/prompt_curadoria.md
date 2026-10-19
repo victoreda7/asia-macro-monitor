@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T08:42:43.452275+00:00
+Última coleta: 2026-10-19T08:52:43.939844+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
+  🇯🇵 Japão          996
   🇨🇳 China          899
-  🇹🇼 Taiwan         346
-  🇰🇷 Coreia do Sul  758
+  🇹🇼 Taiwan         345
+  🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
+  - [korea] Chip boom to continue through 2027, South Korea minister tells CNBC
+  - [china] China central bank to widen access to standing lending facility, create liquidity tool for non-banks
+  - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il predicted that Korea's econom..
   - [korea] The Bank of Korea is likely to freeze its benchmark interest rate in October... Expert: “This is not the end o
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [china] Economic growth picks up in China on robust export demand
@@ -24,6 +27,7 @@ Total: 3000 manchetes
   - [japan] Sell orders centered on semiconductor-related stocks with a decline in the Nikkei Stock Average
   - [taiwan] Foxconn To Acquire 50% Stake In Mitsubishi Electric Mobility For 115 Bln Yen
   - [china] Chip Investors, Watch Out: China’s CXMT Plunges Despite Record Forecast After Samsung’s Post-Outlook Slide
+  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [china] China commerce ministry announces export controls for tunnel boring machines
   - [china] Volcano Engine Launches Seedance AI Drama Incentive Program, Offering Up to 200,000 Yuan per Series
   - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China Fangda Unit's IKK Fangda JV Signs 2.05 Bln Yuan Curtain Wall Works For Stadium In Saudi Arabia
   - [korea] The Bank of Korea is expected to freeze its base interest rate on the 22nd... Weighted at maintaining 3.00% pe
   - [korea] Morning Bid: Markets left to figure out sanctions
-  - [china] China's GDP Growth Accelerates, but Underlying Momentum Remains Weak — Market Talk
-  - [china] Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat
-  - [china] China stocks inch higher as strong GDP offsets weak AI mood
-  - [china] China's Economy Expanded 4.5% in Third Quarter, Powered by Exports — WSJ
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T08:42:43+00:00",
+      "published_utc": "2026-10-19T08:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
