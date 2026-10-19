@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T03:32:42.327463+00:00",
- "collected_at_utc": "2026-10-19T03:32:42.327463+00:00",
+ "generated_at_utc": "2026-10-19T03:42:45.222300+00:00",
+ "collected_at_utc": "2026-10-19T03:42:45.222300+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 997,
-  "china": 915,
+  "japan": 996,
+  "china": 916,
   "taiwan": 342,
   "korea": 746
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T02:00:00+00:00"
+   "newest": "2026-10-18T23:28:10+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T03:14:12+00:00"
+   "newest": "2026-10-19T03:26:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T12:15:03+09:00"
+   "newest": "2026-10-19T12:15:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T11:49:00+09:00"
+   "newest": "2026-10-19T12:32:45+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T12:09:43+00:00"
+   "newest": "2026-10-19T00:38:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T03:04:13+00:00"
+   "newest": "2026-10-18T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T03:32:00+00:00"
+   "newest": "2026-10-19T03:41:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,11 +344,47 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Iron ore rises as China's economic growth accelerates, steel output climbs",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N465081:0-iron-ore-rises-as-china-s-economic-growth-accelerates-steel-output-climbs/",
+   "published_utc": "2026-10-19T03:35:58+00:00",
+   "title_original": "Iron ore rises as China's economic growth accelerates, steel output climbs",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7a3b956806cacc5e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yuan hits 4-year high as strong GDP data tempers need for stimulus",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46502K:0-yuan-hits-4-year-high-as-strong-gdp-data-tempers-need-for-stimulus/",
+   "published_utc": "2026-10-19T03:34:27+00:00",
+   "title_original": "Yuan hits 4-year high as strong GDP data tempers need for stimulus",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "fx",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "993ebf571132c7ff"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Prime Minister Takaichi secures financial resources for consumption tax reduction “Proceed with review of expenditures and revenue”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61375",
-   "published_utc": "2026-10-19T03:15:03+00:00",
+   "published_utc": "2026-10-19T03:15:00+00:00",
    "title_original": "高市首相 消費税減税の財源確保 “歳出歳入の見直し進める”",
    "region": "japan",
    "topics": [
@@ -1134,40 +1170,6 @@
    "live_wire": true,
    "manual": false,
    "id": "78e4bd2587d74e5e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's 10-year yield falls on risk aversion, debt issuance pledge",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46502M:0-japan-s-10-year-yield-falls-on-risk-aversion-debt-issuance-pledge/",
-   "published_utc": "2026-10-19T01:41:27+00:00",
-   "title_original": "Japan's 10-year yield falls on risk aversion, debt issuance pledge",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "25a69b83cd22dfec"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7208 MON VS 6.7220",
-   "url": "https://www.tradingview.com/news/dpa_afx:e1fdf7d0a7e75:0-china-sets-yuan-central-parity-at-6-7208-mon-vs-6-7220/",
-   "published_utc": "2026-10-19T01:39:18+00:00",
-   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7208 MON VS 6.7220",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "20d923128624cec4"
   },
   {
    "source_id": "gn_cn_pboc",

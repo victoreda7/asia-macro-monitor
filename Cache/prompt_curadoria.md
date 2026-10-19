@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T03:32:42.327463+00:00
+Última coleta: 2026-10-19T03:42:45.222300+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
-  🇨🇳 China          915
+  🇯🇵 Japão          996
+  🇨🇳 China          916
   🇹🇼 Taiwan         342
   🇰🇷 Coreia do Sul  746
 
 ## O que já está no feed (não repita)
 
+  - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
+  - [china] Yuan hits 4-year high as strong GDP data tempers need for stimulus
   - [japan] Prime Minister Takaichi secures financial resources for consumption tax reduction “Proceed with review of expe
   - [japan] Yen Steady as Ueda Signals Inflation Near Target
   - [china] China's Economy Expanded 4.5% in Third Quarter, Powered by Exports — WSJ
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The added value of industrial enterprises above designated size increased by 5.5% in September 2026
   - [china] Total retail sales of consumer goods increased by 1.1% from January to September 2026
   - [china] Basic situation of the national real estate market from January to September 2026
-  - [china] Basic situation of national fixed asset investment from January to September 2026
-  - [china] The central bank launches 80 billion yuan 7-day reverse repurchase operation today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T03:32:42+00:00",
+      "published_utc": "2026-10-19T03:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
