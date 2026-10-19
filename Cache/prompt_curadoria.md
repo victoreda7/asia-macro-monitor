@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T13:42:46.027010+00:00
+Última coleta: 2026-10-19T13:52:44.048954+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
-  🇨🇳 China          901
-  🇹🇼 Taiwan         346
+  🇨🇳 China          900
+  🇹🇼 Taiwan         347
   🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [china] Pace of Chinese Yuan's Gains Vs Dollar Likely to Remain Gradual — Market Talk
   - [japan] Consumption tax reduction bill: Ruling party: “Committee deliberation begins on 21st” Opposition: “Enhancement
   - [japan] Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the fu
   - [china] Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com
   - [korea] Samsung Is Turning to Rival TSMC for Nvidia's Next AI Memory
   - [korea] Kr Motors To Divest Real Estate Worth 47.5 Billion Won
+  - [taiwan] AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round
   - [china] XiAn Eswin Material Technology Q3 Net Profit At 440.7 Million Yuan
   - [korea] AM Markets Need to Know: Musk plans SpaceX gift, Samsung taps TSMC, and more
   - [japan] Micronesian President visits Japan and holds summit meeting with Prime Minister Takaichi
@@ -45,6 +47,7 @@ Total: 3000 manchetes
   - [korea] Chip boom to continue through 2027, South Korea minister tells CNBC
   - [china] China central bank to widen access to standing lending facility, create liquidity tool for non-banks
   - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il predicted that Korea's econom..
+  - [china] Opinion | Southeast Asia need not be a pressure valve for China’s exports
   - [korea] The Bank of Korea is likely to freeze its benchmark interest rate in October... Expert: “This is not the end o
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [china] Economic growth picks up in China on robust export demand
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Chip Investors, Watch Out: China’s CXMT Plunges Despite Record Forecast After Samsung’s Post-Outlook Slide
   - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [china] China commerce ministry announces export controls for tunnel boring machines
-  - [china] Volcano Engine Launches Seedance AI Drama Incentive Program, Offering Up to 200,000 Yuan per Series
-  - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
-  - [taiwan] MiTAC Computing to invest NT$12.62B in Taiwan server manufacturing
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T13:42:46+00:00",
+      "published_utc": "2026-10-19T13:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
