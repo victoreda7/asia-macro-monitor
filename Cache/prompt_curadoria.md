@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T04:22:42.165807+00:00
+Última coleta: 2026-10-19T04:27:00.857442+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          997
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China's GDP Growth Accelerates, but Underlying Momentum Remains Weak — Market Talk
   - [china] China stocks inch higher as strong GDP offsets weak AI mood
   - [china] China's Economy Expanded 4.5% in Third Quarter, Powered by Exports — WSJ
   - [korea] Samsung Electronics, SK Hynix Slide as Korea Pension Fund Takes $137 Billion Hit
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Industrial Output Growth Hits 6-Month High
   - [china] China Q3 GDP Growth Beats Estimates
   - [china] BREAKING NEWS: China's GDP grows 4.5% in 3rd qtr, accelerating from 2nd qtr
-  - [china] China's factory output growth picks up pace in September, retail sales also
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T04:22:42+00:00",
+      "published_utc": "2026-10-19T04:27:01+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
