@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T01:42:43.792769+00:00
-Total: 2993 manchetes
+Última coleta: 2026-10-19T01:52:45.861683+00:00
+Total: 2996 manchetes
 
   🇯🇵 Japão          1012
-  🇨🇳 China          888
+  🇨🇳 China          891
   🇹🇼 Taiwan         343
   🇰🇷 Coreia do Sul  750
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan Steady Ahead of Major Chinese Economic Data — Market Talk
+  - [china] China's new home prices fall in September as recovery remains elusive
+  - [china] CHINA PBOC CONDUCTS CNY80 BLN VIA 7-DAY REVERSE REPO MON
   - [japan] Japan's 10-year yield falls on risk aversion, debt issuance pledge
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7208 MON VS 6.7220
   - [china] Yang Caifang, senior statistician of the Urban Department of the National Bureau of Statistics, interprets the
@@ -54,9 +57,6 @@ Total: 2993 manchetes
   - [japan] Yokohama mayoral election exit poll results
   - [china] TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports
   - [japan] Yokohama mayoral election vote counting and exit poll election information is here [Breaking news]
-  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
-  - [china] Huizhou China Eagle To Issue 47.01 Mln Shares At 14.89 Yuan Apiece In Share Placement
-  - [korea] Samsung Electronics to Use TSMC 3nm Process for NVHBM Base Dies at Nvidia's Request
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2993 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T01:42:44+00:00",
+      "published_utc": "2026-10-19T01:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
