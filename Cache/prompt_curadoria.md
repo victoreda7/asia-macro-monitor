@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T07:45:22.898743+00:00
+Última coleta: 2026-10-19T07:52:42.244490+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          999
-  🇨🇳 China          902
+  🇯🇵 Japão          997
+  🇨🇳 China          903
   🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  755
+  🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
+  - [china] China commerce ministry announces export controls for tunnel boring machines
   - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
   - [japan] Japan PM says won’t rule out debt issuance to fund tax cut
   - [japan] Japan futures rise as tyre manufacturing resumes in China
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Steady as Ueda Signals Inflation Near Target
   - [taiwan] Taiwan central bank says currency depreciation reflects global stock market 'turmoil'
   - [china] China GDP growth picks up to 4.5% from 3-year low
-  - [china] CITIC Securities: Funding is expected to be relatively loose and the central bank has room to cut interest rat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T07:45:23+00:00",
+      "published_utc": "2026-10-19T07:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
