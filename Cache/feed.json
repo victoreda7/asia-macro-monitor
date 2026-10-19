@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T10:42:43.117102+00:00",
- "collected_at_utc": "2026-10-19T10:42:43.117102+00:00",
+ "generated_at_utc": "2026-10-19T10:52:43.856806+00:00",
+ "collected_at_utc": "2026-10-19T10:52:43.856806+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 994,
+  "japan": 995,
   "china": 902,
   "taiwan": 346,
-  "korea": 758
+  "korea": 757
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T10:19:32+00:00"
+   "newest": "2026-10-19T10:47:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T10:19:48+00:00"
+   "newest": "2026-10-19T10:45:13+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T19:40:29+09:00"
+   "newest": "2026-10-19T19:40:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T10:42:01+00:00"
+   "newest": "2026-10-19T10:51:30+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,16 +339,33 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T08:51:51+00:00"
+   "newest": "2026-10-19T08:26:01+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "AM Markets Need to Know: Musk plans SpaceX gift, Samsung taps TSMC, and more",
+   "url": "https://www.tradingview.com/news/seekingalpha:0d97b219a094b:0-am-markets-need-to-know-musk-plans-spacex-gift-samsung-taps-tsmc-and-more/",
+   "published_utc": "2026-10-19T10:46:07+00:00",
+   "title_original": "AM Markets Need to Know: Musk plans SpaceX gift, Samsung taps TSMC, and more",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d6444b54e1509de4"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Micronesian President visits Japan and holds summit meeting with Prime Minister Takaichi",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61789",
-   "published_utc": "2026-10-19T10:40:29+00:00",
+   "published_utc": "2026-10-19T10:40:00+00:00",
    "title_original": "ミクロネシア大統領が来日へ 高市首相と首脳会談も",
    "region": "japan",
    "topics": [
@@ -1411,23 +1428,6 @@
    "id": "52b642797356cc07"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "Samsung Electronics, SK Hynix Slide as Korea Pension Fund Takes $137 Billion Hit",
-   "url": "https://www.tradingview.com/news/binance_news:bc1848a99094b:0-samsung-electronics-sk-hynix-slide-as-korea-pension-fund-takes-137-billion-hit/",
-   "published_utc": "2026-10-19T03:52:24+00:00",
-   "title_original": "Samsung Electronics, SK Hynix Slide as Korea Pension Fund Takes $137 Billion Hit",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "35c6c0e113651de5"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -2065,6 +2065,24 @@
    "live_wire": false,
    "manual": false,
    "id": "4a223cbd1ed649f3"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Agile response to interest rates, comprehensive judgment including speed of increase and market function - Bank of Japan Governor (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rVUFZTU1SekFFaDBCM21TV1ZQcjEyVGE3N0NQSXJjenprQ0NaTjJkTWl5bEpZSmJrenBkVktUN0FNZGtRQ3kyVHp6a0kxM0dTWDFlNEx4aU85SzBCbkNKUmtYbnJDaXRpcm5PZnBLVkxsSWlOaEllNHJCeHFNM2c?oc=5",
+   "published_utc": "2026-10-19T01:13:14+00:00",
+   "title_original": "金利への機動対応、上昇スピードや市場機能など総合判断＝日銀総裁（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f77a1bb4c75f51ca"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4364,8 +4382,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -4379,7 +4397,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -7031,8 +7049,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -7046,7 +7064,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -8911,7 +8929,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "The central bank released financial statistics for the first three quarters: the increase in social financing exceeded 27 trillion yuan, and the proportion of direct financing increased | People's Bank of China | Bonds | Credit | Loans | Experts",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVNMNFI3N0ZKQkxaV1VTWkV2LUhrQ25rQmVDNERMOWJPdWZNWGlfMWU4ZXdudHlCMDBrUFhHdlQ5SlVPN29zMWprV0FIN3pHdDlMZmVOOVhld1NEVFJWQ0pZaXMtQzZUQ2k2UmdybnkzNmFDUDljMmk0X19qbWZrdU5SSGQ2MFViUW80RzJnUXAyV2lmTGkzQU9PeGxER25XVURWbkZB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkRLc2RidWtMdWdnY0hQcDQ0TUdLZE03MTVPUE9UWWVrU0NScVVUYjZyS1pPR3RYV0lSbGtBRkxIeUNyYzR2bWItMXZ5UkJONGNCYXVBZUlqUXI5a3k2VUJGbUJ5Sld6UFFwcVR2NkM2VV9lY2JWbm52N1daXzMybjQyZUpEdw?oc=5",
    "published_utc": "2026-10-15T03:16:51+00:00",
    "title_original": "央行发布前三季度金融统计数据：社融增量超27万亿元，直接融资占比上升|中国人民银行|债券|信贷|贷款|专家",
    "region": "china",
@@ -8923,7 +8941,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6e5c9b8f48236ae7"
+   "id": "06325222e42c1155"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -9795,6 +9813,24 @@
    "id": "5f4fc9eccb384b11"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "人民网",
+   "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGSFJQVWhTUVFQRFIwUDl4TUxBUnB4T29Eejg0VWVDR3E1bGg3el9FZDhXRXpZZGdkd1pncUVrbmh4THJuYXNwMVprU2U1NlhDbFBUTG9EdzNYQ3cxaTBhdjVkTmJmQWlaa19HS253?oc=5",
+   "published_utc": "2026-10-15T00:10:00+00:00",
+   "title_original": "央行将开展7000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "86164b4746f3df9f"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
@@ -9863,24 +9899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bd7f935ff99055ac"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GVklKSjZJZnY2WVY3X3NZSmhFdk0xOS1VSHplUkc3QXgycXpRQ0hrYy10V1JRTGdoYmlweThaaHFNejJrb2JJREtjWkZ1MkVkZy1vWDVFcDUxUU90QkdpZFNMUHlLdXhT?oc=5",
-   "published_utc": "2026-10-14T23:28:03+00:00",
-   "title_original": "央行将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "864d4016cab82a16"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51904,23 +51922,6 @@
    "live_wire": true,
    "manual": false,
    "id": "56827a49640a1e5c"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "중앙일보",
-   "title_en": "JP Morgan: “The Bank of Korea will raise its benchmark interest rate to 3.75%… it may go higher than that” | Global Money Club",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wYVlpNlRKR1NIVnFwdi0yeGtWN3ZOak1wcXhhZkhpTGtOdTR3dC1DY0t3N1JERFNUYU1fWkFKQ2pTZ3NpUV9CUk5PYlhOcnM2RktISGtTQVdBRGc?oc=5",
-   "published_utc": "2026-09-21T01:29:04+00:00",
-   "title_original": "JP모간 “한은 기준금리 3.75%까지 인상…그보다 높아질 수도”｜Global Money Club",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c42a186dae629933"
   },
   {
    "source_id": "manual_ia",
