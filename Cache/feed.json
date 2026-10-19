@@ -1,14 +1,14 @@
 {
- "generated_at_utc": "2026-10-19T22:22:43.431101+00:00",
- "collected_at_utc": "2026-10-19T22:22:43.431101+00:00",
+ "generated_at_utc": "2026-10-19T22:32:49.124462+00:00",
+ "collected_at_utc": "2026-10-19T22:32:49.124462+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 997,
-  "china": 898,
-  "taiwan": 351,
+  "china": 897,
+  "taiwan": 352,
   "korea": 754
  },
  "elapsed_s": 29.6,
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T14:00:28+00:00"
+   "newest": "2026-10-19T20:01:04+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T10:21:11+00:00"
+   "newest": "2026-10-19T13:40:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T22:20:08+00:00"
+   "newest": "2026-10-19T22:30:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-20T07:15:00+09:00"
+   "newest": "2026-10-20T07:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T09:01:31+00:00"
+   "newest": "2026-10-19T08:44:31+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "PBoC Loan Rate Due On Tuesday",
+   "url": "https://www.tradingview.com/news/dpa_afx:583ab5b609ee3:0-pboc-loan-rate-due-on-tuesday/",
+   "published_utc": "2026-10-19T22:21:59+00:00",
+   "title_original": "PBoC Loan Rate Due On Tuesday",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "25985f49ae15232d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Weekly Recap: TSMC 3nm NVHBM sourcing and Goldman Sachs Buy on NAND strength",
+   "url": "https://www.tradingview.com/news/tradingview:31e40bcab6c3e:0-weekly-recap-tsmc-3nm-nvhbm-sourcing-and-goldman-sachs-buy-on-nand-strength/",
+   "published_utc": "2026-10-19T22:00:00+00:00",
+   "title_original": "Weekly Recap: TSMC 3nm NVHBM sourcing and Goldman Sachs Buy on NAND strength",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4046641a2c28fe68"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Weekly Recap: 20% stake in Shriram Finance and yen stablecoin pilot",
+   "url": "https://www.tradingview.com/news/tradingview:1969de7c7fe8d:0-weekly-recap-20-stake-in-shriram-finance-and-yen-stablecoin-pilot/",
+   "published_utc": "2026-10-19T22:00:00+00:00",
+   "title_original": "Weekly Recap: 20% stake in Shriram Finance and yen stablecoin pilot",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "92dcb435639c890c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Stock Story",
@@ -706,8 +757,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -721,7 +772,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "tradingview_live",
@@ -1410,40 +1461,6 @@
    "id": "a65757b4dce9112d"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan futures rise as tyre manufacturing resumes in China",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46506Z:0-japan-futures-rise-as-tyre-manufacturing-resumes-in-china/",
-   "published_utc": "2026-10-19T07:22:41+00:00",
-   "title_original": "Japan futures rise as tyre manufacturing resumes in China",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "477cd3aaa2f184c0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China stocks end higher as strong GDP outweighs AI jitters",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N465060:0-china-stocks-end-higher-as-strong-gdp-outweighs-ai-jitters/",
-   "published_utc": "2026-10-19T07:15:26+00:00",
-   "title_original": "China stocks end higher as strong GDP outweighs AI jitters",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8be317b12ed88ea5"
-  },
-  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "SK Hynix’s potential Solidigm IPO reignites debate over multiple listings",
@@ -1459,23 +1476,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b474010cf2072a9c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China commerce ministry announces new export control measures for drone-related items, dredgers",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45900A:0-china-commerce-ministry-announces-new-export-control-measures-for-drone-related-items-dredgers/",
-   "published_utc": "2026-10-19T07:04:48+00:00",
-   "title_original": "China commerce ministry announces new export control measures for drone-related items, dredgers",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3d7e9a7b63e9b960"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -4349,10 +4349,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
+   "source_name": "Investing.com UK",
    "title_en": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzhpNk02NUd0cThLZGtubEhyQjk3ZWF1SjJpVWp2ZUVPQWw1Z0tmUk5RNmM0cWJudTh4WmtTU2pTajNDNko4VmsxQ0p4d3h0UGNHcTRhS3NfdjR6OEI1OGJCcHpNbEU4Q2t5UnRmeUc0cVBDUzZOckFydk1DRkwtZV9NamJqdjF6R3FfUUxZa0hDVDd3djl4NDlzcUpVbG9QdWQ1T1UzaS1PWG1odGVkRzk0QS1aVEE?oc=5",
-   "published_utc": "2026-10-16T21:21:43+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHFSWnhza0FRTjRPUHJCN3RkQ2g0SkkyS01GVUhmTW51aVZmWEFtd3QzdnhNR2V1cmZHYmdMWlVzZDM1NkFHVXB5RGJ2MUg4XzJXVGMyXzd0dWdJaW9sUG1NcEtuVUV6cmZ4YjdlQ2pxa1NyNUEzZUdjMTRGQ2VlYlhMVV9VbkE4aVAwYWRzTjY4Rks2WXQ1bVFWSVd1Z3N4ekp2cTF0a3hNV3htc0xrTXBYMHZGUzdCNkZr?oc=5",
+   "published_utc": "2026-10-16T20:49:00+00:00",
    "title_original": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
    "region": "japan",
    "topics": [
@@ -4362,7 +4362,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d89a3510b7970b73"
+   "id": "0b4180c2c98b1e85"
   },
   {
    "source_id": "nhk_politics",
@@ -4745,8 +4745,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -4760,7 +4760,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -11961,9 +11961,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation on the 15th",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tajBlbVZhaDdEMlVRRFlNQTFPN1Q5VEJyU01vVlM1VXVMOW9LY1R4eTQyam9sbFpUY0p2Qlk0OXA5a0c0YUZ5WFRBY3hBbzZvbmF5ajFzeFNZNzRPbjAzVVM1SjVoYXZMNW54QUhNSQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aWWQ3YlUxaU5oR2dpTmgyQXZSZGwyYXhiaFpoTy1Jb0ZJWUFiSEdpSlNvT19XYmhRMFRmMjA4cHZTTjBURUdQSjU1TjdFX1FQS2Mwc3dXbmpRRnVid3hOYUM0cWpKSGFCcHphR1hCRUZwVXR5UVc0djY5UFdPdw?oc=5",
    "published_utc": "2026-10-14T09:05:42+00:00",
    "title_original": "央行15日开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -11975,7 +11975,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "775752e5fabf0061"
+   "id": "403d8567ea938dde"
   },
   {
    "source_id": "gn_cn_pboc",
