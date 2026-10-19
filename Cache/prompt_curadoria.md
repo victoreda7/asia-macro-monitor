@@ -7,20 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T01:32:44.359187+00:00
-Total: 2988 manchetes
+Última coleta: 2026-10-19T01:42:43.792769+00:00
+Total: 2993 manchetes
 
-  🇯🇵 Japão          1011
-  🇨🇳 China          885
+  🇯🇵 Japão          1012
+  🇨🇳 China          888
   🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  749
+  🇰🇷 Coreia do Sul  750
 
 ## O que já está no feed (não repita)
 
-  - [japan] Now is the time when it is more important to stabilize the underlying price index at around 2% - Bank of Japan
+  - [japan] Japan's 10-year yield falls on risk aversion, debt issuance pledge
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7208 MON VS 6.7220
+  - [china] Yang Caifang, senior statistician of the Urban Department of the National Bureau of Statistics, interprets the
+  - [china] Changes in sales prices of commercial housing in 70 large and medium-sized cities in September 2026
   - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
+  - [japan] Inflation Near 2% as AI Demand Adds Pressure: BoJ Gov Ueda
+  - [japan] Now is the time when it is more important to stabilize the underlying price index at around 2% - Bank of Japan
   - [korea] SK Hynix crashes -20.6% below 20-period MA: Live levels
   - [japan] Yen Consolidates, But May Be Supported by Risk-Off Mood — Market Talk
+  - [korea] Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il predicted a growth rate of 3...
   - [korea] South Korea finmin: 3.4%-3.6% economic growth possible for 2026, Yonhap says
   - [china] China proposes export controls on solar-manufacturing technologies
   - [japan] Japan PM vows to control size of debt issuance
@@ -51,12 +57,6 @@ Total: 2988 manchetes
   - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [china] Huizhou China Eagle To Issue 47.01 Mln Shares At 14.89 Yuan Apiece In Share Placement
   - [korea] Samsung Electronics to Use TSMC 3nm Process for NVHBM Base Dies at Nvidia's Request
-  - [china] Explosive Says Units' Jan-Sept New Blasting Services Contracts At 12 Bln Yuan
-  - [china] This Week’s Key Economic and Crypto Events: US Initial Jobless Claims, China GDP
-  - [korea] BOK to pause before November hike, rates to peak at 3.50%, survey shows
-  - [korea] Controversy over the semiconductor supercycle "peakout" is heating up ahead of the Bank of Korea's M..
-  - [korea] “The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”
-  - [korea] “The Bank of Korea will freeze the base interest rate in October…likely to raise it in November.”
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2988 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T01:32:44+00:00",
+      "published_utc": "2026-10-19T01:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
