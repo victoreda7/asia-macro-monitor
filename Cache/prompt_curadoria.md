@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T11:02:45.279168+00:00
+Última coleta: 2026-10-19T11:12:43.487095+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          995
@@ -34,6 +34,7 @@ Total: 3000 manchetes
   - [korea] Agriculture Ministry eyes legal action over egg import, farmland claims
   - [china] LME owner HKEX eyes more yuan-denominated commodities contracts
   - [korea] Samsung said to use TSMC tech for Nvidia's next-generation memory chips
+  - [china] China Slaps Export Curbs on More Drones and Industrial Machinery
   - [korea] Stocks are jumping around the earnings announcement... Why the impact of base interest rate changes is minimal
   - [taiwan] BREAKING NEWS: Mitsubishi Electric, Hon Hai subsidiary aim for FY 2030 1 tril. yen sales
   - [korea] Chip boom to continue through 2027, South Korea minister tells CNBC
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China stocks end higher as strong GDP outweighs AI jitters
   - [korea] SK Hynix’s potential Solidigm IPO reignites debate over multiple listings
   - [china] China commerce ministry announces new export control measures for drone-related items, dredgers
-  - [korea] Key facts: Samsung accepts NVDA HBM terms; Banco Santander AI pact
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T11:02:45+00:00",
+      "published_utc": "2026-10-19T11:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
