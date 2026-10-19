@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T03:02:41.349664+00:00
+Última coleta: 2026-10-19T03:12:43.115769+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          997
   🇨🇳 China          916
-  🇹🇼 Taiwan         340
-  🇰🇷 Coreia do Sul  747
+  🇹🇼 Taiwan         341
+  🇰🇷 Coreia do Sul  746
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Economy Expanded 4.5% in Third Quarter, Powered by Exports — WSJ
+  - [china] China GDP growth picks up to 4.5% from 3-year low
   - [japan] Japan futures rise as tyre manufacturing resumes; equity selloff weighs
   - [china] China’s new home prices fall again in September as recovery stays elusive
   - [china] China’s economic growth accelerates to 4.5% in third quarter
@@ -24,7 +26,6 @@ Total: 3000 manchetes
   - [japan] Japan Week Ahead: BOJ Policymakers Set for More Rate Hikes While Prime Minister Takaichi in Rough Seas Seeking
   - [china] China industrial output, retail sales beat forecasts in September
   - [japan] Pickles HD, the top company in the pickle industry, has left its full-year forecast unchanged despite the high
-  - [china] China's Economy Expanded 4.5% in Third Quarter, Powered by Exports — WSJ
   - [china] China's daily crude steel output jumps in September on robust exports
   - [china] China’s economic growth picks up in third quarter, beating expectations
   - [china] China's 3Q GDP Growth Tops Expectations
@@ -49,14 +50,13 @@ Total: 3000 manchetes
   - [china] In the third quarter of 2026, the national industrial capacity utilization rate above designated size was 73.1
   - [china] The added value of industrial enterprises above designated size increased by 5.5% in September 2026
   - [china] Total retail sales of consumer goods increased by 1.1% from January to September 2026
-  - [china] Basic situation of the national real estate market from January to September 2026
   - [china] Basic situation of national fixed asset investment from January to September 2026
+  - [china] Basic situation of the national real estate market from January to September 2026
   - [china] The central bank launches 80 billion yuan 7-day reverse repurchase operation today
   - [china] China’s EV Exports Double in September Ahead of Tax Rebate Cut
   - [korea] NPS’s stock holdings lose $136bn in Q3 amid Samsung, SK hynix slump
   - [japan] Japan PM Pledges to Rein in Debt Issuance
   - [china] Yuan Steady Ahead of Major Chinese Economic Data — Market Talk
-  - [china] China's new home prices fall in September as recovery remains elusive
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T03:02:41+00:00",
+      "published_utc": "2026-10-19T03:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
