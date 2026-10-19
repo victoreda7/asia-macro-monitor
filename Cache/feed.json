@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T08:32:42.889573+00:00",
- "collected_at_utc": "2026-10-19T08:32:42.889573+00:00",
+ "generated_at_utc": "2026-10-19T08:42:43.452275+00:00",
+ "collected_at_utc": "2026-10-19T08:42:43.452275+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 997,
-  "china": 900,
-  "taiwan": 345,
+  "china": 899,
+  "taiwan": 346,
   "korea": 758
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 39,
+   "count": 42,
    "error": "",
-   "newest": "2026-10-19T14:19:17+08:00"
+   "newest": "2026-10-19T16:21:26+08:00"
   },
   {
    "source_id": "investing_live",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T07:47:54+00:00"
+   "newest": "2026-10-19T08:32:09+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-19T16:55:32+09:00"
+   "newest": "2026-10-19T17:37:54+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T07:01:30+00:00"
+   "newest": "2026-10-19T08:09:04+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T07:26:37+00:00"
+   "newest": "2026-10-19T02:00:16+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T08:31:39+00:00"
+   "newest": "2026-10-19T08:40:48+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T07:51:12+00:00"
+   "newest": "2026-10-19T08:26:01+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한양경제",
+   "title_en": "The Bank of Korea is likely to freeze its benchmark interest rate in October... Expert: “This is not the end of the hike”",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtZk41UXdmcDBiNjJUM1BIYUdOcmx2T3ZGenpqbGpfbWF2dWkwTmVSVHh0dUhpSTUxclVBd2o2S3hnQWgxdTdfWWFlR1N3WjA4VW95eEprZHB3VWJpZml4NjcwQW41Zzk3bmd0cGpPdUhLQQ?oc=5",
+   "published_utc": "2026-10-19T08:26:01+00:00",
+   "title_original": "한은 10월 기준금리 ’동결‘ 전망 우세... 전문가 “인상 종료는 아냐”",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e0700d04f6ec5adb"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "U.S. dollar closes sharply higher on Taipei forex market",
+   "url": "https://focustaiwan.tw/business/202610190015",
+   "published_utc": "2026-10-19T08:10:23+00:00",
+   "title_original": "U.S. dollar closes sharply higher on Taipei forex market",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "448acc679f71fbff"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "ShareCast",
@@ -430,24 +464,6 @@
    "id": "3be847af91469958"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
-   "published_utc": "2026-10-19T07:51:12+00:00",
-   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dbbecc69c06d83e"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China commerce ministry announces export controls for tunnel boring machines",
@@ -497,6 +513,23 @@
    "live_wire": true,
    "manual": false,
    "id": "491ebe8ffa0b881f"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "MiTAC Computing to invest NT$12.62B in Taiwan server manufacturing",
+   "url": "https://focustaiwan.tw/business/202610190014",
+   "published_utc": "2026-10-19T07:30:21+00:00",
+   "title_original": "MiTAC Computing to invest NT$12.62B in Taiwan server manufacturing",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dc70523c79b40159"
   },
   {
    "source_id": "investing_econ",
@@ -2362,6 +2395,24 @@
    "id": "fe00a26371f94934"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
+   "published_utc": "2026-10-18T09:52:13+00:00",
+   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dbbecc69c06d83e"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Huizhou China Eagle To Issue 47.01 Mln Shares At 14.89 Yuan Apiece In Share Placement",
@@ -4078,8 +4129,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -4093,7 +4144,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -6745,8 +6796,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -6760,7 +6811,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "588cdbebe2db065e"
+   "id": "5fb2db658db5bfe9"
   },
   {
    "source_id": "tradingview_live",
@@ -7414,8 +7465,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -7430,7 +7481,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "bc95c5f9de95e7c9"
+   "id": "000c8448e8e48eab"
   },
   {
    "source_id": "gn_jp_investing",
@@ -7853,23 +7904,6 @@
    "live_wire": false,
    "manual": false,
    "id": "603f585f900ba0e9"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "U.S. dollar closes sharply higher on Taipei forex market",
-   "url": "https://focustaiwan.tw/business/202610150016",
-   "published_utc": "2026-10-15T08:34:58+00:00",
-   "title_original": "U.S. dollar closes sharply higher on Taipei forex market",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "de1f565c06bdfc6e"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -14177,6 +14211,24 @@
    "id": "9ae64dd1031c750c"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스 한민족센터",
+   "title_en": "Governor of the Bank of Korea: “A 0.5% point increase in the base interest rate has the effect of reducing the inflation rate by 0.08% points” (comprehensive)",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nRXg2WjcyZDRweFZkdThHSXVPaXVzWjNXcWlTak5XeWVEbUVjZGZrNWZQeGo4aW9QZklqNkNCSW1ta2ZuV3A5d3VNNHIzS3FZY0pSQnJTSXVLVzV5NVFtOUVBYTdaNmZEWDJ5LWgxRmRraFBG?oc=5",
+   "published_utc": "2026-10-13T07:00:00+00:00",
+   "title_original": "한은 총재 \"기준금리 0.5%p 인상, 물가상승률 0.08%p 하락 효과\"(종합)",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eb72c4933775de03"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes",
@@ -16396,24 +16448,6 @@
    "live_wire": true,
    "manual": false,
    "id": "29e663bacd2ecf25"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "연합뉴스",
-   "title_en": "Governor of the Bank of Korea: “A 0.5% point increase in the base interest rate has the effect of reducing the inflation rate by 0.08% points” (comprehensive)",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xWWZ6dmFieWdrMl9NTzd6QjNUNEQ3Y2RWdGxQN2JncUZ1ZXZka2ExYmVCQTdPRl9zNTRxM3p5cnl2MHc4TkEzR1NHRmlwUGZISm1feUpyQVFHc0nSAWBBVV95cUxOZkdYYVd3cm1jSHNuZTFHUEptOUtnOHBkX3JLaGdpSEx2U3JrWXhPc0pBWkt1dEs3a2lSSVliSWFsanFwZXZBalJYWktfemNRci1LcThvMGlGd2NQVGlMNDM?oc=5",
-   "published_utc": "2026-10-12T08:30:37+00:00",
-   "title_original": "한은 총재 \"기준금리 0.5%p 인상, 물가상승률 0.08%p 하락 효과\"(종합)",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b03423ea7e67b829"
   },
   {
    "source_id": "focus_taiwan",
@@ -51892,40 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1f9a1038c003ed45"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "Watch USTR Greer on China Trade, Diesel Exports, Canada",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORHRzdTREVGZ5Yk50dTc1WkRRQXhyX2IyZ1B0TVVjSHpldVR2RW1wRFotdGp2WmZJTlVienVVU0RmZXRPd2JKMlI5cTFkYWhubzhzYlZ0VHZfMHBnNWJ3clVmeW5xcmhKUVdHSDdTaHdrMTR6QTQ0dEVkaXc2WTZVUXVFcHVfRmpUN3NGbWZwaXhBS1dzX2loY2hZclMza3RaakctbA?oc=5",
-   "published_utc": "2026-09-21T00:00:00+00:00",
-   "title_original": "Watch USTR Greer on China Trade, Diesel Exports, Canada",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "20ef76a349c90401"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "Far-left party wins Berlin election, pledging to nationalise housing",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnUydHFrMktYV0ZDSnVnVEppMjhMT1hVVnE3Zjl1ZldPMEVQT0JKVlloVTZZSDVGR0lwd01tOWxGMGlOQzR6SjMySTdXZEt3WGNPbTVWbmZSc2dKTU5IeGVaRE1DSFIzR0swQ3hnbF9ERU1IWloxRHNvX3pEeVAyU3ZhMDl3aG9Ga2tVeVdPUmtmSGhmZTA2Q2owbkpPSzBseFVFQlNzUmFVdw?oc=5",
-   "published_utc": "2026-09-20T23:19:39+00:00",
-   "title_original": "Far-left party wins Berlin election, pledging to nationalise housing",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "083053e06ac02390"
   },
   {
    "source_id": "manual_ia",
