@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T08:22:43.250520+00:00
+Última coleta: 2026-10-19T08:32:42.889573+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          997
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [japan] Sell orders centered on semiconductor-related stocks with a decline in the Nikkei Stock Average
   - [taiwan] Foxconn To Acquire 50% Stake In Mitsubishi Electric Mobility For 115 Bln Yen
   - [china] Chip Investors, Watch Out: China’s CXMT Plunges Despite Record Forecast After Samsung’s Post-Outlook Slide
+  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [china] China commerce ministry announces export controls for tunnel boring machines
   - [china] Volcano Engine Launches Seedance AI Drama Incentive Program, Offering Up to 200,000 Yuan per Series
   - [china] Iron ore rises as China's economic growth accelerates, steel output climbs
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's Economy Expanded 4.5% in Third Quarter, Powered by Exports — WSJ
   - [korea] Samsung Electronics, SK Hynix Slide as Korea Pension Fund Takes $137 Billion Hit
   - [korea] Samsung and SK Hynix stocks slide; is there a reversal in sight?
-  - [korea] Bitcoin, Korea’s Kospi and Nasdaq Futures Rally as China GDP Beats Estimates
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T08:22:43+00:00",
+      "published_utc": "2026-10-19T08:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
