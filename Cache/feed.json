@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T01:12:42.515502+00:00",
- "collected_at_utc": "2026-10-19T01:12:42.515502+00:00",
+ "generated_at_utc": "2026-10-19T01:22:43.777886+00:00",
+ "collected_at_utc": "2026-10-19T01:22:43.777886+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
- "count": 2986,
+ "count": 2987,
  "by_region": {
-  "japan": 1011,
+  "japan": 1010,
   "china": 885,
   "taiwan": 343,
-  "korea": 747
+  "korea": 749
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T00:48:51+00:00"
+   "newest": "2026-10-19T01:12:43+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T00:18:18+00:00"
+   "newest": "2026-10-19T01:12:43+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T21:52:52+00:00"
+   "newest": "2026-10-18T21:45:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-18T22:36:30+00:00"
+   "newest": "2026-10-18T16:13:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-19T01:11:21+00:00"
+   "newest": "2026-10-19T01:20:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,41 @@
  ],
  "items": [
   {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
+   "url": "https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4956113",
+   "published_utc": "2026-10-19T01:12:43+00:00",
+   "title_original": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e2212c486e9d03a5"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK Hynix crashes -20.6% below 20-period MA: Live levels",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
+   "published_utc": "2026-10-19T01:06:34+00:00",
+   "title_original": "SK Hynix crashes -20.6% below 20-period MA: Live levels",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "224a7aa11afdd5e4"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Yen Consolidates, But May Be Supported by Risk-Off Mood — Market Talk",
@@ -359,6 +394,41 @@
    "live_wire": true,
    "manual": false,
    "id": "a4ccb6b6e8701b89"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea finmin: 3.4%-3.6% economic growth possible for 2026, Yonhap says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44E047:0-south-korea-finmin-3-4-3-6-economic-growth-possible-for-2026-yonhap-says/",
+   "published_utc": "2026-10-19T01:04:12+00:00",
+   "title_original": "South Korea finmin: 3.4%-3.6% economic growth possible for 2026, Yonhap says",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "655fe8e6a1660eec"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China proposes export controls on solar-manufacturing technologies",
+   "url": "https://www.investing.com/news/stock-market-news/china-proposes-export-controls-on-solarmanufacturing-technologies-4955803",
+   "published_utc": "2026-10-19T00:54:29+00:00",
+   "title_original": "China proposes export controls on solar-manufacturing technologies",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0ba022f19c072ee3"
   },
   {
    "source_id": "tradingview_live",
@@ -484,24 +554,6 @@
    "live_wire": true,
    "manual": false,
    "id": "301e1d77d7fbbda5"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-   "url": "https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4956113",
-   "published_utc": "2026-10-18T22:24:38+00:00",
-   "title_original": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e2212c486e9d03a5"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1193,24 +1245,6 @@
    "live_wire": false,
    "manual": false,
    "id": "137e90d2f3fb2ade"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China proposes export controls on solar-manufacturing technologies",
-   "url": "https://www.investing.com/news/stock-market-news/china-proposes-export-controls-on-solarmanufacturing-technologies-4955803",
-   "published_utc": "2026-10-18T06:24:20+00:00",
-   "title_original": "China proposes export controls on solar-manufacturing technologies",
-   "region": "china",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0ba022f19c072ee3"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2552,8 +2586,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -2567,7 +2601,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -5219,8 +5253,8 @@
    "id": "6c400d3429e6ed5e"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Counterproposal for citizens: consumption tax reduction; burden reduction through increase in resident tax deduction and benefits",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60145",
    "published_utc": "2026-10-15T16:09:49+00:00",
@@ -5234,7 +5268,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5fb2db658db5bfe9"
+   "id": "588cdbebe2db065e"
   },
   {
    "source_id": "tradingview_live",
@@ -5888,8 +5922,8 @@
    "id": "e85a41893a7ea599"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Komei compiles a proposal to provide approximately 80,000 yen per person for consumption tax reduction",
    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60066",
    "published_utc": "2026-10-15T10:56:00+00:00",
@@ -5904,7 +5938,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "000c8448e8e48eab"
+   "id": "bc95c5f9de95e7c9"
   },
   {
    "source_id": "gn_jp_investing",
@@ -6207,7 +6241,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "Central Bank: Will launch 700 billion yuan buyout reverse repurchase operation on October 15 | People's Bank of China | Bidding | Winning Bid | Banking System | Price",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMy1aOUdKQ3pEajJqZ2tzSy1nQ1hhcnJ3RkFKOXVtVUVmVWtVT3pwaXlvRVpXM284NGVObWxTZFlXUXlwdHVBeHRTNmIxeWlrdEVDdkV3bm92SlMtcTNEREFQUkFmUzg5ZHdxMjhWTE1ZbnhCYUpXcXFVenA5MzNWdTZ3NWVFZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUR0NTNVclRSd3ZEUlVmNGJNS2N1aV83bDc0UG05Rzh0bGE4aXZmRE5BUDROeG1EZHg3N3Q3d1R4UVE0M3ZPcEFDaF9kYzdaYjRvbURkdXF5M3FUVHVISFR6TmpkOUVoZHBuWWJITmQ5ZHgwTzRweFdmcUNKRUR5ck15RkJsOEg1QmdROTNDNktzRkxuUFluOGxaVWtlN1ptUHVNYXpR?oc=5",
    "published_utc": "2026-10-15T09:26:44+00:00",
    "title_original": "央行：10月15日将开展7000亿元买断式逆回购操作|中国人民银行|招标|中标|银行体系|价位",
    "region": "china",
@@ -6219,7 +6253,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d5ab94ec21e4ce32"
+   "id": "5b5ceb44afdb6f61"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51678,23 +51712,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9d847028eb4477f0"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Governor Ueda ``The policy phase has changed'' (ABEMA TIMES)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UN0VxQ2FpVjN6V1NPeDQxeXZtRG5ZaW5TbU0wWTV0bHVJU1c5U2F4dFhBSVRKeXExbEplVVlibXRtWWdBSHJibDF5STVLdW1YZGY5UW1tMUhzLWhhT2tXbnY1MHViV2pwZVB1MldhRUV6MjBuaGlDaTNiM3hBdlE?oc=5",
-   "published_utc": "2026-09-19T01:15:33+00:00",
-   "title_original": "日銀 植田総裁「政策の局面が変化した」（ABEMA TIMES）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "56c8fc89266b237d"
   },
   {
    "source_id": "manual_ia",

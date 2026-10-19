@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T01:12:42.515502+00:00
-Total: 2986 manchetes
+Última coleta: 2026-10-19T01:22:43.777886+00:00
+Total: 2987 manchetes
 
-  🇯🇵 Japão          1011
+  🇯🇵 Japão          1010
   🇨🇳 China          885
   🇹🇼 Taiwan         343
-  🇰🇷 Coreia do Sul  747
+  🇰🇷 Coreia do Sul  749
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
+  - [korea] SK Hynix crashes -20.6% below 20-period MA: Live levels
   - [japan] Yen Consolidates, But May Be Supported by Risk-Off Mood — Market Talk
+  - [korea] South Korea finmin: 3.4%-3.6% economic growth possible for 2026, Yonhap says
+  - [china] China proposes export controls on solar-manufacturing technologies
   - [japan] Japan PM vows to control size of debt issuance
   - [korea] The won per dollar reached its highest level in two years and one month due to strong exports center..
   - [japan] BOJ chief says underlying inflation 'quite close' to price goal
@@ -25,7 +29,6 @@ Total: 2986 manchetes
   - [japan] Bank of Japan Governor Ueda will attend the House of Councilors Budget Committee meeting from 9 a.m. - Diet so
   - [china] China’s Q3 GDP growth set to pick up as exports power ahead
   - [taiwan] Weekly Recap: Q3 revenue surge at TSMC and Arizona fab mass production in Q3 2027
-  - [japan] BOJ may need to tighten faster if inflation beats forecast, IMF says
   - [korea] Chey Tae-won: “If I went back to my 20s, I wouldn’t have gone into semiconductors” ... What would his startup 
   - [china] How China made climate resilience part of its economic growth strategy
   - [japan] An uneasy government and riots in France, etc. = Bank of Japan's uneasy jinx (Hirotoshi Kubozono) - Expert
@@ -54,9 +57,6 @@ Total: 2986 manchetes
   - [korea] “The Bank of Korea will freeze the base interest rate in October and is likely to raise it in November.”
   - [korea] “The Bank of Korea will freeze the base interest rate in October…likely to raise it in November.”
   - [china] Hygon Information Plans To Buy Back Shares For Up To 800 Mln Yuan
-  - [korea] The balance of group loans increased while jeonse loans decreased amid the government's tightening o..
-  - [korea] [Photo] Strengthening global financial supply chains
-  - [china] Wuxi Hyatech To Issue Convertible Bond Raising 600 Mln Yuan For Projects
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 2986 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T01:12:42+00:00",
+      "published_utc": "2026-10-19T01:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
