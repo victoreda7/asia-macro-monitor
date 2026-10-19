@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T06:12:43.478146+00:00
+Última coleta: 2026-10-19T06:22:43.788376+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          996
-  🇨🇳 China          907
+  🇨🇳 China          906
   🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  753
+  🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
   - [korea] SK hynix launches W2tr financing program to bolster chip suppliers
   - [japan] Fiscal Concerns May Weigh on 20-Year JGB Auction Demand — Market Talk
+  - [korea] S.Korea says SK Hynix’s Solidigm listing could violate rules- reports
   - [china] China Q3 GDP Growth Improves
   - [korea] Although Korea Western Power Co. has invested more than 630 billion won in safety-related budgets an..
   - [japan] Rice Prices Key to Japan Inflation Expectations — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] VIEW China's economic growth accelerates to 4.5% in third quarter
   - [japan] Japan Week Ahead: BOJ Policymakers Set for More Rate Hikes While Prime Minister Takaichi in Rough Seas Seeking
   - [china] China industrial output, retail sales beat forecasts in September
-  - [japan] Pickles HD, the top company in the pickle industry, has left its full-year forecast unchanged despite the high
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T06:12:43+00:00",
+      "published_utc": "2026-10-19T06:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
