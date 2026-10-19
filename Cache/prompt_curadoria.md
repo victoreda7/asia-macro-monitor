@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T09:52:43.340695+00:00
+Última coleta: 2026-10-19T10:02:43.328014+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          993
-  🇨🇳 China          901
-  🇹🇼 Taiwan         344
-  🇰🇷 Coreia do Sul  762
+  🇨🇳 China          902
+  🇹🇼 Taiwan         345
+  🇰🇷 Coreia do Sul  760
 
 ## O que já está no feed (não repita)
 
-  - [china] China's central bank studies making overnight rate its main policy rate
+  - [japan] Prime Minister Takaichi secures financial resources for consumption tax reduction “Proceed with review of expe
+  - [china] China’s central bank studies making overnight rate its main policy rate
+  - [china] Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com
+  - [china] United Nova Technology Q3 Net Profit At 411.7 Million Yuan
   - [china] China GDP Growth Beats Expectations
   - [china] China's Export Boom Masks Deep Economic Problems at Home — WSJ
+  - [china] China’s Industrial Output Growth Picks Up
   - [japan] Yen price falls slightly against the dollar against the backdrop of rising crude oil futures prices
   - [korea] Agriculture Ministry eyes legal action over egg import, farmland claims
   - [china] LME owner HKEX eyes more yuan-denominated commodities contracts
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] S.Korea says SK Hynix’s Solidigm listing could violate rules- reports
   - [china] China Q3 GDP Growth Improves
   - [korea] Although Korea Western Power Co. has invested more than 630 billion won in safety-related budgets an..
-  - [japan] Rice Prices Key to Japan Inflation Expectations — Market Talk
-  - [japan] House of Councilors, Liberal Democratic Party, Ritsumeikan Committee on National Affairs meeting, discussion o
-  - [korea] South Korean Won Extends Gains Near 2-Year High
-  - [taiwan] Central bank mulls forex intervention after Taiwan dollar losses
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T09:52:43+00:00",
+      "published_utc": "2026-10-19T10:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
