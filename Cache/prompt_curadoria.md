@@ -7,20 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T13:52:44.048954+00:00
+Última coleta: 2026-10-19T14:02:50.344545+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
   🇨🇳 China          900
-  🇹🇼 Taiwan         347
-  🇰🇷 Coreia do Sul  759
+  🇹🇼 Taiwan         348
+  🇰🇷 Coreia do Sul  758
 
 ## O que já está no feed (não repita)
 
+  - [china] Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com
   - [china] Pace of Chinese Yuan's Gains Vs Dollar Likely to Remain Gradual — Market Talk
+  - [taiwan] Business groups back Taipower, CPC subsidies; scholars dissent
   - [japan] Consumption tax reduction bill: Ruling party: “Committee deliberation begins on 21st” Opposition: “Enhancement
   - [japan] Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the fu
-  - [china] Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com
   - [korea] Samsung Is Turning to Rival TSMC for Nvidia's Next AI Memory
   - [korea] Kr Motors To Divest Real Estate Worth 47.5 Billion Won
   - [taiwan] AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Foxconn To Acquire 50% Stake In Mitsubishi Electric Mobility For 115 Bln Yen
   - [china] Chip Investors, Watch Out: China’s CXMT Plunges Despite Record Forecast After Samsung’s Post-Outlook Slide
   - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
-  - [china] China commerce ministry announces export controls for tunnel boring machines
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T13:52:44+00:00",
+      "published_utc": "2026-10-19T14:02:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
