@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T11:52:41.653066+00:00
+Última coleta: 2026-10-19T12:02:44.093298+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
-  🇨🇳 China          902
+  🇨🇳 China          901
   🇹🇼 Taiwan         346
-  🇰🇷 Coreia do Sul  758
+  🇰🇷 Coreia do Sul  759
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kr Motors To Divest Real Estate Worth 47.5 Billion Won
   - [china] XiAn Eswin Material Technology Q3 Net Profit At 440.7 Million Yuan
   - [korea] AM Markets Need to Know: Musk plans SpaceX gift, Samsung taps TSMC, and more
   - [japan] Micronesian President visits Japan and holds summit meeting with Prime Minister Takaichi
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan PM says won’t rule out debt issuance to fund tax cut
   - [japan] Japan futures rise as tyre manufacturing resumes in China
   - [china] China stocks end higher as strong GDP outweighs AI jitters
-  - [korea] SK Hynix’s potential Solidigm IPO reignites debate over multiple listings
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T11:52:41+00:00",
+      "published_utc": "2026-10-19T12:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
