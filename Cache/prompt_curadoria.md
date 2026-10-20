@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T00:02:44.194644+00:00
+Última coleta: 2026-10-20T00:12:44.669734+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
+  🇯🇵 Japão          998
   🇨🇳 China          897
-  🇹🇼 Taiwan         350
-  🇰🇷 Coreia do Sul  756
+  🇹🇼 Taiwan         351
+  🇰🇷 Coreia do Sul  754
 
 ## O que já está no feed (não repita)
 
+  - [korea] Key facts: Samsung (005930) to use TSMC 3nm for NVHBM; retains HBM fabs
   - [korea] Samsung Electro-Mechanics to Supply Chip-Packaging Substrates to Major Global Customer in 2027
   - [korea] Research: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progres
   - [china] PBoC Loan Rate Due On Tuesday
+  - [japan] Weak yen and long-term interest rates at historic levels, pressure to revise the signature policy of ``active 
   - [taiwan] Weekly Recap: TSMC 3nm NVHBM sourcing and Goldman Sachs Buy on NAND strength
   - [japan] Weekly Recap: 20% stake in Shriram Finance and yen stablecoin pilot
   - [korea] BOK Financial (NASDAQ:BOKF) Reports Sales Below Analyst Estimates In Q3 2026 Earnings
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Liberal Democratic Party Ishin leadership seeks cooperation from opposition parties to pass consumption tax re
   - [china] China's economic growth gains strength with export boom
   - [china] China’s Retail Sales Growth Accelerates to 1.1%
-  - [japan] Prime Minister Takaichi secures financial resources for consumption tax reduction “Proceed with review of expe
-  - [china] China’s central bank studies making overnight rate its main policy rate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T00:02:44+00:00",
+      "published_utc": "2026-10-20T00:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
