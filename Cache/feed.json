@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T13:22:44.993467+00:00",
- "collected_at_utc": "2026-10-20T13:22:44.993467+00:00",
+ "generated_at_utc": "2026-10-20T13:32:42.885074+00:00",
+ "collected_at_utc": "2026-10-20T13:32:42.885074+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1003,
-  "china": 901,
-  "taiwan": 358,
+  "china": 902,
+  "taiwan": 357,
   "korea": 738
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T13:05:50+00:00"
+   "newest": "2026-10-20T13:27:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 28/09/2026",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-20T13:00:10+00:00"
+   "newest": "2026-10-20T13:31:45+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T11:28:36+00:00"
+   "newest": "2026-10-20T13:00:10+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T13:21:37+00:00"
+   "newest": "2026-10-20T13:32:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T06:36:52+00:00"
+   "newest": "2026-10-20T09:38:01+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "BofA Prefers These Semicap Top Picks on Mix, Pricing, NAND, China Upside",
+   "url": "https://www.investing.com/news/stock-market-news/bofa-securities-prefers-semicaps-top-picks-on-mix-pricing-nand-china-upside-4960030",
+   "published_utc": "2026-10-20T13:27:11+00:00",
+   "title_original": "BofA Prefers These Semicap Top Picks on Mix, Pricing, NAND, China Upside",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5a3aa92931facdf2"
+  },
   {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
@@ -1256,7 +1273,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "오피니언뉴스",
    "title_en": "Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual freeze on the 22nd",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zWjFfcEhGbmd4ZUdPSHF6VjlEb0JWdXU1VkczUUZYdDVlMjZrNmhXS1hSd3czeW1BajFMWFVPX3U2eTRnWEhEbk45WVRyRlZJT2VFdnNYendzeHhKd0lfbGt0X0p1dURlMXNXUmt6d2Yxdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jVGNEbjFWbmN6QWN4SmtzTklKVW9WeklaamN6LVJWSTdKN1Y1NWdJVlFXVWJDNUhrSS16NkxxOWpVS0FneVJRdXI1c1QyVTdXZXVyQ1RFV0JJbXg1aUdIZlB1MmFHNXlHY2o1ei1UdVg?oc=5",
    "published_utc": "2026-10-20T07:06:46+00:00",
    "title_original": "기준금리 인상 10월엔 쉬어가나…금통위, 오는 22일 연 3% 동결 전망 우세",
    "region": "korea",
@@ -1268,7 +1285,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6fc48f3b53992467"
+   "id": "d15c690164b3a613"
   },
   {
    "source_id": "tradingview_live",
@@ -51923,23 +51940,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0d2613902adb2cbf"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Taiwan jobless rate edges up as graduates enter labor market",
-   "url": "https://focustaiwan.tw/business/202609220021",
-   "published_utc": "2026-09-22T11:03:12+00:00",
-   "title_original": "Taiwan jobless rate edges up as graduates enter labor market",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a32ac0e2b26f95db"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T13:22:44.993467+00:00
+Última coleta: 2026-10-20T13:32:42.885074+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1003
-  🇨🇳 China          901
-  🇹🇼 Taiwan         358
+  🇨🇳 China          902
+  🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [china] BofA Prefers These Semicap Top Picks on Mix, Pricing, NAND, China Upside
   - [china] China’s hybrid car exports to EU surge by more than 200% as import cap looms
   - [japan] Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and
   - [china] Micron Invests In US Indium Processing Amid China Export Restrictions – MU Stock Still Dips
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The People's Bank of China will carry out overnight reverse repurchase operations for 9 consecutive working da
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 23
   - [taiwan] Taiwan Export Orders Hit New Record High
-  - [china] China keeps yttrium exports to Japan restricted in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T13:22:45+00:00",
+      "published_utc": "2026-10-20T13:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
