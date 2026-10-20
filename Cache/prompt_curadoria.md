@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T05:42:43.290867+00:00
+Última coleta: 2026-10-20T05:49:36.299901+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          994
-  🇨🇳 China          902
+  🇯🇵 Japão          992
+  🇨🇳 China          903
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  748
+  🇰🇷 Coreia do Sul  749
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix Shares Appear Undervalued Amid AI Financing Concerns — Market Talk
   - [korea] 93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rat
   - [korea] BYD surges to No. 4 in Korea's imported car market
   - [japan] Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s
   - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
+  - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
   - [china] The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a
   - [china] The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow
   - [china] Chinese Consumption Likely Still Faces Challenges — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan yet to decide on defence budget funding, finance minister says
   - [china] China's Key Lending Rates Kept Unchanged as PBOC Weighs Reforms
   - [china] PBOC Signals Potential Shift in Key Policy Rate — Market Talk
-  - [china] CHINA PBOC CONDUCTS CNY0 BLN VIA 7-DAY REVERSE REPO TUES
-  - [china] [Authoritative Interpretation] Tian Zhifeng: Guangdong consumer prices have reached a low level and recovered 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T05:42:43+00:00",
+      "published_utc": "2026-10-20T05:49:36+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
