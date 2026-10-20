@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T08:42:42.434650+00:00
+Última coleta: 2026-10-20T08:52:43.218255+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          999
-  🇨🇳 China          899
+  🇯🇵 Japão          1000
+  🇨🇳 China          900
   🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  742
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [japan] Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible
+  - [taiwan] BASF Signs Semiconductor Agreement With Taiwan to Expand Materials Site
   - [taiwan] Taiwan September export orders hit record value on solid AI demand
   - [china] China, Hong Kong shares weaken as stable growth eases stimulus bets
-  - [taiwan] BASF Signs Semiconductor Agreement With Taiwan to Expand Materials Site
+  - [korea] [Photo] Deputy Finance Minister Hearing On-Site Opinion on 'Coin Taxation'
   - [china] The People's Bank of China will carry out overnight reverse repurchase operations for 9 consecutive working da
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 23
   - [taiwan] Taiwan Export Orders Hit New Record High
@@ -33,6 +35,7 @@ Total: 3000 manchetes
   - [china] The People's Bank of China will withdraw a net 65 billion yuan on October 20 and will carry out overnight reve
   - [china] China's Australian coal imports surge to six-year high
   - [japan] Stock price temporarily fell by more than 1,100 yen due to rise in crude oil futures prices
+  - [china] US Sanctions China’s Y Combinator in Google AI Secrets Case
   - [taiwan] Taiwan anchors US chip revival, SEMICON West spotlights trusted partners
   - [korea] Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual fre
   - [japan] Japan's Nikkei ends lower as higher yields, inflation fears weigh
@@ -40,6 +43,7 @@ Total: 3000 manchetes
   - [taiwan] Key facts: NVIDIA Sees $108B Q3 Sales; 104‑Qubit Sim; TSMC 3nm NVHBM
   - [japan] The prefecture's economy is on a "moderate recovery trend", Bank of Japan's Councilor Koeda gives a speech in 
   - [korea] South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns
+  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [china] China resumes sulphuric acid exports to copper king Chile after three-month halt
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief By Reuters
   - [korea] Kospi Snaps Two-Session Winning Streak; Chip, Defense Stocks Retreat
@@ -47,16 +51,12 @@ Total: 3000 manchetes
   - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters
   - [china] The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consec
   - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
+  - [japan] Japan consumption tax cut bill on food goes to Lower House
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions report
   - [china] Central Bank: Will carry out overnight reverse repurchase operations from October 21 to November 2
   - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say
   - [china] APEC role is important for a challenged global economy, China minister says
-  - [japan] Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s
-  - [japan] Bank of Japan may raise inflation outlook for FY2027, policy interest rate likely to remain unchanged = source
-  - [japan] Bank of Japan may raise price outlook for FY2027, policy interest rate likely to remain unchanged = source (Re
-  - [korea] The Bank of Korea is taking a breather, the stock market is at a crossroads... The decision on the base intere
-  - [korea] Hyundai Motor Group unites defense arms in global export push
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T08:42:42+00:00",
+      "published_utc": "2026-10-20T08:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-20T08:42:42.434650+00:00",
- "collected_at_utc": "2026-10-20T08:42:42.434650+00:00",
+ "generated_at_utc": "2026-10-20T08:52:43.218255+00:00",
+ "collected_at_utc": "2026-10-20T08:52:43.218255+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 999,
-  "china": 899,
+  "japan": 1000,
+  "china": 900,
   "taiwan": 360,
-  "korea": 742
+  "korea": 740
  },
  "elapsed_s": 29.8,
  "sources": [
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T06:55:00+00:00"
+   "newest": "2026-10-20T07:11:11+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T07:46:59+00:00"
+   "newest": "2026-10-20T08:13:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T00:51:11+00:00"
+   "newest": "2026-10-20T06:25:22+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T17:20:00+09:00"
+   "newest": "2026-10-20T17:49:59+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T16:44:00+09:00"
+   "newest": "2026-10-20T17:50:19+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T22:36:07+00:00"
+   "newest": "2026-10-20T06:00:05+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:43:24+00:00"
+   "newest": "2026-10-20T04:35:14+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T08:42:01+00:00"
+   "newest": "2026-10-20T08:51:54+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T08:30:37+00:00"
+   "newest": "2026-10-20T08:45:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,41 @@
  ],
  "items": [
   {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
+   "published_utc": "2026-10-20T08:49:59+00:00",
+   "title_original": "食料品の消費税減税関連法案 首相“法案の早期成立目指す”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a8840d46489bc5a3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BASF Signs Semiconductor Agreement With Taiwan to Expand Materials Site",
+   "url": "https://www.tradingview.com/news/DJN_DN20261020001605:0-basf-signs-semiconductor-agreement-with-taiwan-to-expand-materials-site/",
+   "published_utc": "2026-10-20T08:46:00+00:00",
+   "title_original": "BASF Signs Semiconductor Agreement With Taiwan to Expand Materials Site",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5c88e313810ff711"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Taiwan September export orders hit record value on solid AI demand",
@@ -378,21 +413,21 @@
    "id": "80fd1db88b8ac1a7"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BASF Signs Semiconductor Agreement With Taiwan to Expand Materials Site",
-   "url": "https://www.tradingview.com/news/DJN_DN20261020001126:0-basf-signs-semiconductor-agreement-with-taiwan-to-expand-materials-site/",
-   "published_utc": "2026-10-20T08:31:00+00:00",
-   "title_original": "BASF Signs Semiconductor Agreement With Taiwan to Expand Materials Site",
-   "region": "taiwan",
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "[Photo] Deputy Finance Minister Hearing On-Site Opinion on 'Coin Taxation'",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54czg2b0I3OFA0VXA3OWhsSmE4eEFId1doajY0MGpnM2hJbkZwRHlRa0xhNGtnWlFEbWF2MmZqUlRjbXZabEUyWmozcE5VMC1vbUE?oc=5",
+   "published_utc": "2026-10-20T08:29:17+00:00",
+   "title_original": "[Photo] Deputy Finance Minister Hearing On-Site Opinion on 'Coin Taxation'",
+   "region": "korea",
    "topics": [
-    "industrial"
+    "signaling"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "05cb97c12b1b0779"
+   "id": "6da4eda348131f80"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -619,6 +654,23 @@
    "id": "04353fa7282ba0f1"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWpoclBQZGh5ZzFZX25ESkYzTy1JV1dTQXhFUkhsODdZZ1VUOUlFaDFjaDBkYlRIeUZEQzJoOXZyTmFkeFNxNkxKQ1l3QmFRRlhkQWM0WnlLOXdySUlwX0t5UHNXZjFzUHhfOWZoam1CWmNjdXNnQ1pMUnZFYUxCenVfd3l4SjNsM1lfTG1jdXkzRkFfdnpSdjVpSk51UnFsQmZMM0xCZmJIcWlPMjMw?oc=5",
+   "published_utc": "2026-10-20T07:11:11+00:00",
+   "title_original": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d76f0c85953e42e8"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan anchors US chip revival, SEMICON West spotlights trusted partners",
@@ -737,6 +789,24 @@
    "live_wire": true,
    "manual": false,
    "id": "e7891732b57664bb"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
+   "published_utc": "2026-10-20T06:49:27+00:00",
+   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dbbecc69c06d83e"
   },
   {
    "source_id": "tradingview_live",
@@ -860,6 +930,24 @@
    "live_wire": false,
    "manual": false,
    "id": "3211521711175586"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan consumption tax cut bill on food goes to Lower House",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
+   "published_utc": "2026-10-20T06:25:22+00:00",
+   "title_original": "Japan consumption tax cut bill on food goes to Lower House",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "70e124fbcd6d9970"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1008,7 +1096,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "대한데일리",
    "title_en": "The Bank of Korea is taking a breather, the stock market is at a crossroads... The decision on the base interest rate is",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhMnlTOFVlYTl5ZU8ySE94ekJOSXpwTG5pczBnbHdvTUZhMjNpT3N4SlNmOEgwT1NLcl9IUkNwUnlJTmVqVUhLbzBRYUpyMV9uNVZmQl9uQTJnalY0NGFsWF9mWm8wS0tKQmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tWUcxcllGdjB6STltTWZlejFGSURVYWpNakNFendnVVh6QXZSel92NjNtUW5CWmxjT1QtQ0FrWnN6MVRGczV6S2szeEhQeVF5QmhwdHFXSzVuTHBfdEtqdy1rS1hLUUJsTURZ?oc=5",
    "published_utc": "2026-10-20T05:53:57+00:00",
    "title_original": "숨 고르는 한은, 갈림길 선 증시…기준금리 결정은",
    "region": "korea",
@@ -1019,7 +1107,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "80934092bf2d3c30"
+   "id": "39f13cec614c29c6"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1594,6 +1682,23 @@
    "id": "d6788aa568c83c92"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China's September US soybean imports rebound from zero a year earlier, data shows",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3Z1Y0FYWF9KYnBhb3VJazV4NTlFRGVvX010YzJYVnlPSE96a25GT0ZWLXVIZWQwbDZ0VHJWc2l3bllMR0ptRUlKOVhLODJyRVBsX01XTG16S0J4RXZnczlzS3hRX29VUGdjakh3TWUyR3lpNldYNDVmcXJBYlpLSFQyU21qR0ZEYmpjZTdQREtNb2kwNHc3T0t2OFlTOWhBQ3hZTXVPYzdxSVJSQ1dPSDJjLU1SblA1cmJZMg?oc=5",
+   "published_utc": "2026-10-20T02:04:00+00:00",
+   "title_original": "China's September US soybean imports rebound from zero a year earlier, data shows",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9fe834ed8fd2d24e"
+  },
+  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
@@ -1729,24 +1834,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c372e8f99366b546"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "JAPAN consumption tax cut bill on food goes to Lower House",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
-   "published_utc": "2026-10-20T00:51:11+00:00",
-   "title_original": "JAPAN consumption tax cut bill on food goes to Lower House",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a8ed6db95fd49b94"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4367,24 +4454,6 @@
    "id": "f280bdc6198f54b6"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
-   "published_utc": "2026-10-18T19:50:44+00:00",
-   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dbbecc69c06d83e"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Mint",
    "title_en": "NRI's Rs.3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT gives relief",
@@ -5859,23 +5928,6 @@
    "id": "8ca1bcfeb8b9587c"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YcU11QXhkMW82ZV9tTS1ZMVRwQWJHZ2xONnJFWTZhb2c2MzRoeUw2X0FmQUFVVGhHdHpta3BmTk5YaUd4a2dKbU1iNlhFRXc5c2k1MXh4VzBGeWJGNkRscXFWaVZGSXFrNFJ4b05DOUh0c1paSm4wU0l1blI?oc=5",
-   "published_utc": "2026-10-17T00:14:15+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0d54b1faf146765e"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "[Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices announced",
@@ -6393,6 +6445,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e1a10142513813b1"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWjQyRWVYQTZ4UE1uQ2tYRVpiZC1kbW9IUnJTSHVzQWdlcGpZYkExd3g4cFVFZnVjclVVWHhNc3U0aE1remZ3QTB5V3VfdFRYMnExSGZaQjdXLW5DSUxkcjE3VFRqUVRHMmJlS1VjUjNBVHVIRG5lSEo0ZzE?oc=5",
+   "published_utc": "2026-10-16T14:38:45+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "18b0552f95e580ac"
   },
   {
    "source_id": "nhk_economy",
@@ -11897,7 +11966,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation. In September, imports and exports exceeded 5 trillion yuan for the first time.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ONjhvTExCeEhxSGFCOU84bmNiVDl6X1JpbWZ4RDNJS2VMNkdVWEpicFNhRHpkeGVmR0h3ZTdDanM3Wm8tMFNIMDBUVGRRQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6M0hwd09Ea2tGa2Q5cFVWSXZpUFExV1hJQVltX1JEaHBKa1htN3ZrN295Q0xlcU5ZbDV0WEhxR2VNN3BFY1Jsdm8xMzZCWjZBMlhRS3R5VVJiR3RhcW9IeF9R?oc=5",
    "published_utc": "2026-10-15T00:01:00+00:00",
    "title_original": "央行将开展7000亿元买断式逆回购操作 9月进出口首破5万亿元",
    "region": "china",
@@ -11910,7 +11979,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "08aeb5a63d012b39"
+   "id": "eb5bff777bcabda9"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51864,74 +51933,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d5c0dd29a186054e"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "서울뉴스통신",
-   "title_en": "Bank of Korea \"Two base rate hikes have the effect of mitigating the risk of accumulating financial imbalances\"",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ya2ZhMEFMaFhTcWVEVWwyS0M4cGZ3azQ0eVRMcldXcXV6VTMzWVRfNTRZcU5pNU5BTzBjaFRQM2JFRzFIVGh5eG9wckV6cWk2Qy1kaTQwandnRHh2MFV6dDZ2UTAzX2xudklN?oc=5",
-   "published_utc": "2026-09-22T05:17:22+00:00",
-   "title_original": "한국은행 \"두 차례 기준금리 인상, 금융불균형 축적 위험 완화 효과\"",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "29c28c75ccd8f46b"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The Ministry of Trade, Industry and Energy will launch a new R&D project that will invest about",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1YUdQT2ZkRWtsazEwdnk4TktVbUIzX2xOTk5WTlVTa19wTU56RWVHUzZuM1dvR29kSjhDU0ZYTlAyQnZJeWh5S2NCWjU1YzZXV3c?oc=5",
-   "published_utc": "2026-09-22T05:13:41+00:00",
-   "title_original": "The Ministry of Trade, Industry and Energy will launch a new R&D project that will invest about",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4babe67903b4dbc"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Alibaba’s Zhenwu V900 chip and what it means for China’s foundry ecosystem",
-   "url": "https://www.investing.com/news/stock-market-news/alibabas-zhenwu-v900-chip-and-what-it-means-for-chinas-foundry-ecosystem-93CH-4909867",
-   "published_utc": "2026-09-22T05:07:50+00:00",
-   "title_original": "Alibaba’s Zhenwu V900 chip and what it means for China’s foundry ecosystem",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bb0a0759c7c73c7f"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "SK Hynix wedged at ₩1,873,000 near key resistance: Live levels",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-squeezed-below-1911000-resistance-live-levels-93CH-4908215",
-   "published_utc": "2026-09-22T05:05:02+00:00",
-   "title_original": "SK Hynix wedged at ₩1,873,000 near key resistance: Live levels",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2f4b1006ec93a72d"
   },
   {
    "source_id": "manual_ia",
