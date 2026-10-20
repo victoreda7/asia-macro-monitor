@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T01:02:41.657686+00:00
+Última coleta: 2026-10-20T01:12:43.049550+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          998
+  🇯🇵 Japão          999
   🇨🇳 China          898
   🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  753
+  🇰🇷 Coreia do Sul  752
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar and euro drift, yen slips as markets seek direction
+  - [japan] Japan's economy minister says he respects central bank independence
   - [korea] Key facts: Samsung (005930) to use TSMC 3nm for NVHBM; retains HBM fabs
   - [korea] Samsung Electro-Mechanics to Supply Chip-Packaging Substrates to Major Global Customer in 2027
   - [korea] Research: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progres
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The Chinese government announced on the 19th a plan to adjust export controls on drone-related produ..
   - [korea] AM Markets Need to Know: Musk plans SpaceX gift, Samsung taps TSMC, and more
   - [japan] Micronesian President visits Japan and holds summit meeting with Prime Minister Takaichi
-  - [china] Shenzhen Investment Says In Q3, Real Estate Dev Business Unaudited Contracted Sales Of Rmb1.814 Bln
-  - [japan] Liberal Democratic Party Ishin leadership seeks cooperation from opposition parties to pass consumption tax re
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T01:02:41+00:00",
+      "published_utc": "2026-10-20T01:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

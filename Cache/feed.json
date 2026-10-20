@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T01:02:41.657686+00:00",
- "collected_at_utc": "2026-10-20T01:02:41.657686+00:00",
+ "generated_at_utc": "2026-10-20T01:12:43.049550+00:00",
+ "collected_at_utc": "2026-10-20T01:12:43.049550+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 998,
+  "japan": 999,
   "china": 898,
   "taiwan": 351,
-  "korea": 753
+  "korea": 752
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T17:04:00+00:00"
+   "newest": "2026-10-20T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T23:20:16+00:00"
+   "newest": "2026-10-19T07:33:11+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-13T03:43:00+00:00"
+   "newest": "2026-10-16T05:06:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T00:59:00+00:00"
+   "newest": "2026-10-20T01:11:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T21:35:14+00:00"
+   "newest": "2026-10-19T18:33:14+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Dollar and euro drift, yen slips as markets seek direction",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46600Z:0-dollar-and-euro-drift-yen-slips-as-markets-seek-direction/",
+   "published_utc": "2026-10-20T01:11:52+00:00",
+   "title_original": "Dollar and euro drift, yen slips as markets seek direction",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1888806cf5b68e35"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's economy minister says he respects central bank independence",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44Z00Q:0-japan-s-economy-minister-says-he-respects-central-bank-independence/",
+   "published_utc": "2026-10-20T00:57:22+00:00",
+   "title_original": "Japan's economy minister says he respects central bank independence",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9ad2e007004925dc"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -9467,7 +9502,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 45 billion yuan seven-day reverse repurchase operation with an interest rate of 1.40%, the same as last time",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBydU9xV3NKMEUteXRjMkFGd2JDRUtxVi1WbDNuM1B1clotbHNjaUl6TnhsZEVnVTNSejQ3cEU0UTREZUZaZm9OUnBHczBoRkxlNjV1UjVpbHViNFM2eUtINi1B?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIZTNQLUx0alAyb0paZ1JpQmJxQVlLZnRueHB6VGhiM0VFLTA1MzltMnRjamRrQ0ZxZ2NvX09MNUltNUlfVXBsMFVBUjdyUQ?oc=5",
    "published_utc": "2026-10-15T03:05:48+00:00",
    "title_original": "央行开展450亿元七天期逆回购操作 利率1.40%持平上次",
    "region": "china",
@@ -9479,7 +9514,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fc9a5bdca9ce7c96"
+   "id": "5cfa930262ea83a4"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -51892,40 +51927,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ca614d691b2bda43"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "US stresses backing for Japan, Korea and Taiwan ahead of Trump-Xi summit",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM3kxaTQ5UmlqZnlsTkdFQUc1bS1TMlJST0gxUFhWZmFNendlU3pUY3pyZHh4ZW9vaHBQbjZWOURPTHppTWVQQTRxa1FJN1RyYlkwbGFoR0dyYTF2VWh1MEFTY2ViSTgxdXBkNWw4Y3BpZk9GQ3ZuZm92SWVuN0xpeUZITFRMcl9QSU5zWEkycUNDR21JQlJ4V1RtVjJkNkwwbDAzWU1nd0Q4QlU?oc=5",
-   "published_utc": "2026-09-21T07:00:00+00:00",
-   "title_original": "US stresses backing for Japan, Korea and Taiwan ahead of Trump-Xi summit",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "829f4bfb9e526069"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "BOK launches pilot program for 24-hour offshore won settlement",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JLUNYM0tYSjg3VHdRY0RDVVNOUWstVk5OOXQ1SlBKU0ZoUnNZRlVOSHhaYWhZLTBGcF9UOE9tM3JtdUNIMTBUVjl6NU0zMy1Wd2xlSHpvaTRpdw?oc=5",
-   "published_utc": "2026-09-21T07:00:00+00:00",
-   "title_original": "BOK launches pilot program for 24-hour offshore won settlement",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c13406545ac61ebc"
   },
   {
    "source_id": "manual_ia",
