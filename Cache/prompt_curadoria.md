@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T19:42:43.540610+00:00
+Última coleta: 2026-10-20T19:52:46.871190+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1007
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
   - [japan] Japan budget hotels ramp up overseas push with public baths, free breakfast
   - [japan] Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs data
   - [korea] BOK Financial Q3 2026 slides: margin expansion offsets fee pressure
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese Hybrid Import Cap Offers Relief to European Carmakers — Market Talk
   - [china] Cssc Offshore & Marine Engineering Says 9-Month New Orders Totalled 35.8 Billion Yuan
   - [china] China's Strong 3Q Growth Rules out Additional Stimulus — Market Talk
-  - [china] China solar exports to Middle East, Southeast Asia surge in September but Europe, Asia weigh on total
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T19:42:43+00:00",
+      "published_utc": "2026-10-20T19:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
