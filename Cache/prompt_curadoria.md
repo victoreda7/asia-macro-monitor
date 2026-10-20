@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T08:52:43.218255+00:00
+Última coleta: 2026-10-20T09:02:44.386735+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1000
-  🇨🇳 China          900
+  🇨🇳 China          899
   🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  740
+  🇰🇷 Coreia do Sul  741
 
 ## O que já está no feed (não repita)
 
@@ -21,7 +21,9 @@ Total: 3000 manchetes
   - [taiwan] BASF Signs Semiconductor Agreement With Taiwan to Expand Materials Site
   - [taiwan] Taiwan September export orders hit record value on solid AI demand
   - [china] China, Hong Kong shares weaken as stable growth eases stimulus bets
+  - [korea] The import concentration is intensifying from the single-person media industry such as YouTubers to
   - [korea] [Photo] Deputy Finance Minister Hearing On-Site Opinion on 'Coin Taxation'
+  - [korea] New bank accounts created following preferential interest rates and stock accounts increased along w..
   - [china] The People's Bank of China will carry out overnight reverse repurchase operations for 9 consecutive working da
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 23
   - [taiwan] Taiwan Export Orders Hit New Record High
@@ -43,7 +45,6 @@ Total: 3000 manchetes
   - [taiwan] Key facts: NVIDIA Sees $108B Q3 Sales; 104‑Qubit Sim; TSMC 3nm NVHBM
   - [japan] The prefecture's economy is on a "moderate recovery trend", Bank of Japan's Councilor Koeda gives a speech in 
   - [korea] South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns
-  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [china] China resumes sulphuric acid exports to copper king Chile after three-month halt
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief By Reuters
   - [korea] Kospi Snaps Two-Session Winning Streak; Chip, Defense Stocks Retreat
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions report
   - [china] Central Bank: Will carry out overnight reverse repurchase operations from October 21 to November 2
   - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say
-  - [china] APEC role is important for a challenged global economy, China minister says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T08:52:43+00:00",
+      "published_utc": "2026-10-20T09:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
