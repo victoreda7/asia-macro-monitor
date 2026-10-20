@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-20T00:32:45.305367+00:00",
- "collected_at_utc": "2026-10-20T00:32:45.305367+00:00",
+ "generated_at_utc": "2026-10-20T00:42:43.796553+00:00",
+ "collected_at_utc": "2026-10-20T00:42:43.796553+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 351,
   "korea": 754
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.8,
  "sources": [
+  {
+   "source_id": "gn_kr_reuters",
+   "name": "Reuters Korea",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T00:12:29+00:00"
+   "newest": "2026-10-20T00:31:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -171,7 +179,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-17T05:15:00+00:00"
+   "newest": "2026-10-19T06:32:42+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -222,14 +230,6 @@
    "newest": "2026-10-19T19:41:44+00:00"
   },
   {
-   "source_id": "gn_kr_reuters",
-   "name": "Reuters Korea",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-19T23:30:20+00:00"
-  },
-  {
    "source_id": "gn_tw_reuters",
    "name": "Reuters Taiwan",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T00:22:00+00:00"
+   "newest": "2026-10-20T00:41:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -415,8 +415,8 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Weak yen and long-term interest rates at historic levels, pressure to revise the signature policy of ``active fiscal policy'' 1st anniversary of Takaichi administration (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90VnoxYnloUl9SVzJtMEJGVGtGZWxDTmlJM1J4RHZlV2RjVDdUN2l2eGxRSTR5cHk3N3U0Q1VYdnRzaEtUQjMxT2F3UEFOeGpLd2FNQnNJZHllYnh5RWtueUFXelBBLUQ0ZUlNVUd0bW9TN1ZYYnFLdDBKSjc1S28?oc=5",
-   "published_utc": "2026-10-19T22:17:20+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWYtWHB0MDdaZU9KejRJOTZvLXNhZUhkMjk1V3NJWWhhWUU3NGl5QXlvWmZ6R3RPcGV6NF9ZM19EcEhzSExjZDBGdVFiQlFDcVV2clFGOXdNS1pQYnpCS3lBWUtxTTEydzdqLWE1U19sbUtpa3pTTWxqMUdGM25SU0Z5T2VnVU5TdllCaV9Mb0tzUkpCQ2tvR0RBSWxvVVBnOUtRMDU3SlVKbkh5UnhiOGpTM3g4c0t6YU9aY3ZyR1V5WWFkVVpodkV3RTQ?oc=5",
+   "published_utc": "2026-10-19T22:06:35+00:00",
    "title_original": "円安・長期金利、歴史的水準に 看板政策「積極財政」に修正圧力 高市政権発足1年（時事通信）",
    "region": "japan",
    "topics": [
@@ -429,7 +429,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a5731657b5f4bb89"
+   "id": "1a0a9e48bc8672a0"
   },
   {
    "source_id": "tradingview_live",
@@ -845,8 +845,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -860,7 +860,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "tradingview_live",
@@ -4833,8 +4833,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -4848,7 +4848,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -12049,9 +12049,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation on the 15th",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aWWQ3YlUxaU5oR2dpTmgyQXZSZGwyYXhiaFpoTy1Jb0ZJWUFiSEdpSlNvT19XYmhRMFRmMjA4cHZTTjBURUdQSjU1TjdFX1FQS2Mwc3dXbmpRRnVid3hOYUM0cWpKSGFCcHphR1hCRUZwVXR5UVc0djY5UFdPdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tajBlbVZhaDdEMlVRRFlNQTFPN1Q5VEJyU01vVlM1VXVMOW9LY1R4eTQyam9sbFpUY0p2Qlk0OXA5a0c0YUZ5WFRBY3hBbzZvbmF5ajFzeFNZNzRPbjAzVVM1SjVoYXZMNW54QUhNSQ?oc=5",
    "published_utc": "2026-10-14T09:05:42+00:00",
    "title_original": "央行15日开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -12063,7 +12063,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "403d8567ea938dde"
+   "id": "775752e5fabf0061"
   },
   {
    "source_id": "gn_cn_pboc",
