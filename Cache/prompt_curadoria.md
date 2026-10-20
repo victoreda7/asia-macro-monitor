@@ -7,23 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T02:22:43.899660+00:00
+Última coleta: 2026-10-20T02:32:44.571628+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1001
-  🇨🇳 China          900
-  🇹🇼 Taiwan         350
-  🇰🇷 Coreia do Sul  749
+  🇯🇵 Japão          1000
+  🇨🇳 China          901
+  🇹🇼 Taiwan         352
+  🇰🇷 Coreia do Sul  747
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Nikkei falls as higher yields, inflation fears weigh
+  - [china] China Likely on Track to Hit Annual Growth Target — Market Talk
+  - [japan] Japan futures rise as rains squeeze Thai supply, yen slips
+  - [taiwan] Taiwan dollar weakens most among muted Asian currencies
   - [japan] Citizens Submit a counterproposal to the consumption tax reduction bill, aiming to reduce the burden through r
-  - [china] China's September US soybean imports rebound from zero a year earlier, data shows
+  - [china] China’s September US soybean imports rebound from zero a year earlier, data shows
   - [japan] Japan yet to decide on defence budget funding, finance minister says
   - [china] China's Key Lending Rates Kept Unchanged as PBOC Weighs Reforms
   - [china] PBOC Signals Potential Shift in Key Policy Rate — Market Talk
   - [china] CHINA PBOC CONDUCTS CNY0 BLN VIA 7-DAY REVERSE REPO TUES
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7200 TUES VS 6.7208
+  - [china] The central bank’s 7-day reverse repurchase operation volume on October 20 was zero
   - [japan] Economics and Finance Minister Jouchi ``attends this month's Bank of Japan meeting if it suits him'', once aga
   - [china] Preliminary calculation results of GDP in the third quarter of 2026
   - [japan] Dollar and euro drift, yen slips as markets seek direction
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] Goldman Sachs raises copper forecast as US-China competition tightens supply
   - [japan] Advantage Partners Readies Japan's First Big Forestry Investment Fund, Nikkei Reports
   - [japan] Advantage Partners readies Japan's first big forestry investment fund
-  - [china] China Tightens Export Controls on Drone Parts, Eases Curbs on Farm Models
-  - [korea] Samsung Makes Unusual Move for Nvidia Chips
-  - [china] Yuan Ranks Third in Global Payments Under Broader Measure, PBOC Chief Says
-  - [korea] SK hynix launches W2tr financing program to bolster chip suppliers
-  - [japan] Preview: Forecasters See Japanese Exports, Imports Continuing to Surge in September Report as Tech Spending Ri
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T02:22:44+00:00",
+      "published_utc": "2026-10-20T02:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

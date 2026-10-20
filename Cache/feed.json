@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T02:22:43.899660+00:00",
- "collected_at_utc": "2026-10-20T02:22:43.899660+00:00",
+ "generated_at_utc": "2026-10-20T02:32:44.571628+00:00",
+ "collected_at_utc": "2026-10-20T02:32:44.571628+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1001,
-  "china": 900,
-  "taiwan": 350,
-  "korea": 749
+  "japan": 1000,
+  "china": 901,
+  "taiwan": 352,
+  "korea": 747
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T02:01:07+00:00"
+   "newest": "2026-10-20T02:18:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T01:36:58+00:00"
+   "newest": "2026-10-20T02:18:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -154,8 +154,8 @@
    "name": "MOF Japan",
    "ok": false,
    "count": 30,
-   "error": "parada desde 28/09/2026",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T11:14:47+09:00"
+   "newest": "2026-10-20T11:25:10+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T01:37:47+00:00"
+   "newest": "2026-10-20T01:37:44+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T23:30:20+00:00"
+   "newest": "2026-10-20T00:17:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T02:22:00+00:00"
+   "newest": "2026-10-20T02:29:28+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-20T10:00:00+09:00"
+   "newest": "2026-10-20T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,75 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's Nikkei falls as higher yields, inflation fears weigh",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46604P:0-japan-s-nikkei-falls-as-higher-yields-inflation-fears-weigh/",
+   "published_utc": "2026-10-20T02:29:28+00:00",
+   "title_original": "Japan's Nikkei falls as higher yields, inflation fears weigh",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "16691ee6d1eb290d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China Likely on Track to Hit Annual Growth Target — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261019008755:0-china-likely-on-track-to-hit-annual-growth-target-market-talk/",
+   "published_utc": "2026-10-20T02:29:00+00:00",
+   "title_original": "China Likely on Track to Hit Annual Growth Target — Market Talk",
+   "region": "china",
+   "topics": [
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2deacc24cc05908a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan futures rise as rains squeeze Thai supply, yen slips",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46604W:0-japan-futures-rise-as-rains-squeeze-thai-supply-yen-slips/",
+   "published_utc": "2026-10-20T02:26:38+00:00",
+   "title_original": "Japan futures rise as rains squeeze Thai supply, yen slips",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0a971abada2c8ef7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Taiwan dollar weakens most among muted Asian currencies",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46601Q:0-taiwan-dollar-weakens-most-among-muted-asian-currencies/",
+   "published_utc": "2026-10-20T02:25:21+00:00",
+   "title_original": "Taiwan dollar weakens most among muted Asian currencies",
+   "region": "taiwan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fbd05f513d7d73e9"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Citizens Submit a counterproposal to the consumption tax reduction bill, aiming to reduce the burden through resident tax reductions, etc.",
@@ -362,12 +431,12 @@
    "id": "241a268c8b532b7a"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's September US soybean imports rebound from zero a year earlier, data shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46601A:0-china-s-september-us-soybean-imports-rebound-from-zero-a-year-earlier-data-shows/",
-   "published_utc": "2026-10-20T02:00:47+00:00",
-   "title_original": "China's September US soybean imports rebound from zero a year earlier, data shows",
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China’s September US soybean imports rebound from zero a year earlier, data shows",
+   "url": "https://www.investing.com/news/economic-indicators/chinas-september-us-soybean-imports-rebound-from-zero-a-year-earlier-data-shows-4958675",
+   "published_utc": "2026-10-20T02:06:29+00:00",
+   "title_original": "China’s September US soybean imports rebound from zero a year earlier, data shows",
    "region": "china",
    "topics": [
     "trade"
@@ -376,7 +445,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "7e5d9de700f23041"
+   "id": "a7a1ef79afe78d8b"
   },
   {
    "source_id": "tradingview_live",
@@ -463,6 +532,23 @@
    "live_wire": true,
    "manual": false,
    "id": "2493079b039e1cc4"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 20 was zero",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHUHZNamdoRzhkMFpnWWYtMXdqbzlCa185SVhIcUhyQ29jcFVkcW1GUF92NG5CSXF2Q2FJSHc0ZUdwRHI5ZnQ3c0FzNFBSWU9yS1h0NTJkZUR0cnZnNmx5bzhfWTI3TEJ2?oc=5",
+   "published_utc": "2026-10-20T01:37:44+00:00",
+   "title_original": "央行10月20日7天期逆回购操作量为零",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf349ca078bc67ef"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -967,6 +1053,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8eabbda4e0b9aa88"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Hungary to cut deficit below 5% of GDP in Magyar's first budget plan",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0ZpQjBRVUpOMXVEcXoya2N5UnNMRjVzQ24yY2xnMmtQOWVIRHJGOGhVZVRRcEhaS1NzNFI5ZjhZc3NhSkt6LVkteXJWVXRTZHZUM0ZER2xULVYzamFVS3RHZ0NUQ0lodE1SUmt2NjlXSE5Xb1R0MkE0MktFekdzeG1NTXNBbE96c2U0blBvdVBJWXpMcUZaOGFQR3FYQ1ZxYlFRdw?oc=5",
+   "published_utc": "2026-10-19T15:39:27+00:00",
+   "title_original": "Hungary to cut deficit below 5% of GDP in Magyar's first budget plan",
+   "region": "taiwan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7f019dab0c2654ff"
   },
   {
    "source_id": "tradingview_live",
@@ -4574,6 +4678,23 @@
    "live_wire": true,
    "manual": false,
    "id": "ac28e75ae96df905"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5",
+   "published_utc": "2026-10-17T00:57:00+00:00",
+   "title_original": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8ca1bcfeb8b9587c"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -12328,9 +12449,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation on the 15th",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aWWQ3YlUxaU5oR2dpTmgyQXZSZGwyYXhiaFpoTy1Jb0ZJWUFiSEdpSlNvT19XYmhRMFRmMjA4cHZTTjBURUdQSjU1TjdFX1FQS2Mwc3dXbmpRRnVid3hOYUM0cWpKSGFCcHphR1hCRUZwVXR5UVc0djY5UFdPdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tajBlbVZhaDdEMlVRRFlNQTFPN1Q5VEJyU01vVlM1VXVMOW9LY1R4eTQyam9sbFpUY0p2Qlk0OXA5a0c0YUZ5WFRBY3hBbzZvbmF5ajFzeFNZNzRPbjAzVVM1SjVoYXZMNW54QUhNSQ?oc=5",
    "published_utc": "2026-10-14T09:05:42+00:00",
    "title_original": "央行15日开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -12342,7 +12463,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "403d8567ea938dde"
+   "id": "775752e5fabf0061"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51808,127 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "70352a1333a23848"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
-   "title_en": "Bank of Japan conducts “rate check” before holidays, preparing to intervene in yen buying (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uWk9ZbWlTQkM5LWV3X0tJd2RuYlRJLUlBYy1yQkVpLWN6U1ZDZ1FhYlZVY09GM3J1Ri13RTkwWUdmRF9CYW9EZnFma3pPRjZlNXJNckdDU2lqQko1UWVSNEFpSExibUdLMEE3cTd2QzcxVTlBaXRYNG1wcXpZQUU?oc=5",
-   "published_utc": "2026-09-21T10:25:41+00:00",
-   "title_original": "連休前に「レートチェック」実施 日銀、円買い介入準備か（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "494ec8099acccfc7"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China's Xi chairs Politburo; Central Committee plenum set for October 26-29",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOF9pcllELUZ5ZUd4b3BRRE9DaEVKeW5SbHdZRUxmelZnaEIzRzItYmhPcXQ3NDFrR3VfdFlKd2d4dnc3OWR3TjBobXFBSjd0Um95c05oaE12OTA0ZUFjUzJBSWJGcVBzWVFleXJHRDhaZll3ZEo0VkZHVlczUWM0OURVb3NQMkdaMXgwSzlvVHpLZmxqZkhMTG9JNkVjb2phTDJSZTdfRzNWWjdfVURKeXJxV0pFNGs3QzNyQWQ5X19yQQ?oc=5",
-   "published_utc": "2026-09-21T09:49:08+00:00",
-   "title_original": "China's Xi chairs Politburo; Central Committee plenum set for October 26-29",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "77075a7c4bfaee17"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Yen steadies amid rate-check warnings as euro absorbs German political shock",
-   "url": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
-   "published_utc": "2026-09-21T09:21:56+00:00",
-   "title_original": "Yen steadies amid rate-check warnings as euro absorbs German political shock",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "989036bb56baed3c"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Exports up 78% in first 20 days of Sept.",
-   "url": "https://www.koreaherald.com/article/10880060",
-   "published_utc": "2026-09-21T09:19:49+00:00",
-   "title_original": "Exports up 78% in first 20 days of Sept.",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1e3da37644871f92"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "New Kaohsiung industrial park to bolster semiconductor sector: Lai",
-   "url": "https://focustaiwan.tw/business/202609210018",
-   "published_utc": "2026-09-21T09:17:47+00:00",
-   "title_original": "New Kaohsiung industrial park to bolster semiconductor sector: Lai",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ca015d78fee307d5"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics-related stocks surged all at once, and the KOSPI regained the 7,000-point mark i..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wczd3dmZnOTNBVjU5ZFA4NDYzVzRVWkdOVjc4WEtrMzNrUXFScFdBck1aQXVuNHNSQktpYjFDVmF1ak12Mlh4UGtueUZuVXc?oc=5",
-   "published_utc": "2026-09-21T08:54:47+00:00",
-   "title_original": "Samsung Electronics-related stocks surged all at once, and the KOSPI regained the 7,000-point mark i..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ab90fae91daf5014"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "UBS sees limited yen gains despite Bank of Japan rate hike",
-   "url": "https://www.investing.com/news/forex-news/ubs-sees-limited-yen-gains-despite-bank-of-japan-rate-hike-93CH-4908446",
-   "published_utc": "2026-09-21T08:48:42+00:00",
-   "title_original": "UBS sees limited yen gains despite Bank of Japan rate hike",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "725cd79856f4bbba"
   },
   {
    "source_id": "manual_ia",
