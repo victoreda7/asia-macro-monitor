@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T04:42:42.985676+00:00
+Última coleta: 2026-10-20T04:52:42.820873+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          998
-  🇨🇳 China          900
-  🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  748
+  🇨🇳 China          899
+  🇹🇼 Taiwan         356
+  🇰🇷 Coreia do Sul  747
 
 ## O que já está no feed (não repita)
 
+  - [japan] As Japan pursues a chip-industry reboot, it's being pressed to build America's
+  - [taiwan] TSMC plans 3nm semiconductor manufacturing at second Japan factory, investment to exceed USD 23 billion
   - [china] China and Hong Kong shares weaken as stable growth eases stimulus bets
   - [japan] Bill related to consumption tax reduction on food items to be debated in the House of Representatives this aft
   - [korea] Samgi America, the North American subsidiary of Samgi Energy Solutions, has won a contract to supply..
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Prime Minister Sanae Takaichi Has Not Ruled Out Issuing Bonds to Finance Budget
   - [korea] Samsung Electro-Mechanics to Supply Chip-Packaging Substrates to Major Global Customer in 2027
   - [korea] Research: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progres
-  - [china] US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft
-  - [china] PBoC Loan Rate Due On Tuesday
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T04:42:43+00:00",
+      "published_utc": "2026-10-20T04:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
