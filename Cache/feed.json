@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-20T16:52:43.529868+00:00",
- "collected_at_utc": "2026-10-20T16:52:43.529868+00:00",
+ "generated_at_utc": "2026-10-20T17:02:44.622841+00:00",
+ "collected_at_utc": "2026-10-20T17:02:44.622841+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1007,
+  "japan": 1006,
   "china": 902,
-  "taiwan": 355,
-  "korea": 736
+  "taiwan": 354,
+  "korea": 738
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.6,
  "sources": [
+  {
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -147,7 +155,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T08:35:00+00:00"
+   "newest": "2026-10-20T06:56:15+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -206,14 +214,6 @@
    "newest": "2026-10-20T13:27:00+00:00"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-20T15:51:20+00:00"
-  },
-  {
    "source_id": "gn_jp_reuters",
    "name": "Reuters Japan",
    "ok": true,
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T16:41:09+00:00"
+   "newest": "2026-10-20T17:02:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T12:39:45+00:00"
+   "newest": "2026-10-20T15:41:22+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "BOK Financial Q3 2026 Earnings Call Is Live",
+   "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:710477:0-bok-financial-q3-2026-earnings-call-is-live/",
+   "published_utc": "2026-10-20T16:57:04+00:00",
+   "title_original": "BOK Financial Q3 2026 Earnings Call Is Live",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fef3cacd9f59b2cf"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Cointelegraph",
+   "title_en": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+   "url": "https://www.tradingview.com/news/cointelegraph:3d43220e0094b:0-injective-bdacs-plan-korean-won-stablecoin-settlement-for-tokenized-assets/",
+   "published_utc": "2026-10-20T16:47:48+00:00",
+   "title_original": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "44aa0087b4216437"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -532,8 +566,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -547,7 +581,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -961,8 +995,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -976,7 +1010,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -1476,40 +1510,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5aa8fdba097a496d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Yomiuri: Japan Eyes 250 Billion Yen in Additional Funding for Rapidus",
-   "url": "https://www.tradingview.com/news/DJN_DN20261020000884:0-yomiuri-japan-eyes-250-billion-yen-in-additional-funding-for-rapidus/",
-   "published_utc": "2026-10-20T07:00:00+00:00",
-   "title_original": "Yomiuri: Japan Eyes 250 Billion Yen in Additional Funding for Rapidus",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "16887494be9b915b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Key facts: NVIDIA Sees $108B Q3 Sales; 104‑Qubit Sim; TSMC 3nm NVHBM",
-   "url": "https://www.tradingview.com/news/tradingview:dbe34a8da7526:0-key-facts-nvidia-sees-108b-q3-sales-104-qubit-sim-tsmc-3nm-nvhbm/",
-   "published_utc": "2026-10-20T07:00:00+00:00",
-   "title_original": "Key facts: NVIDIA Sees $108B Q3 Sales; 104‑Qubit Sim; TSMC 3nm NVHBM",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2236fe42f626caa0"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3014,8 +3014,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -3029,7 +3029,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -7108,8 +7108,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -7123,7 +7123,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
