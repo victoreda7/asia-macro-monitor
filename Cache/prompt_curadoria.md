@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T07:42:44.208315+00:00
+Última coleta: 2026-10-20T07:52:43.321242+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          998
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Indonesian shares recover after hitting six-year low; Taiwan dollar depreciates
+  - [china] China's Australian coal imports surge to six-year high
   - [japan] Stock price temporarily fell by more than 1,100 yen due to rise in crude oil futures prices
   - [korea] Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual fre
   - [japan] Japan's Nikkei ends lower as higher yields, inflation fears weigh
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samgi America, the North American subsidiary of Samgi Energy Solutions, has won a contract to supply..
   - [china] Yuan hits fresh high since 2022 on export growth, stronger guidance
   - [china] The central bank has pushed a daily cap of 1 trillion yuan for overnight reverse repos and plans to gradually 
-  - [china] The central bank has pushed a daily cap of 1 trillion yuan for overnight reverse repurchases and plans to grad
-  - [korea] Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T07:42:44+00:00",
+      "published_utc": "2026-10-20T07:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
