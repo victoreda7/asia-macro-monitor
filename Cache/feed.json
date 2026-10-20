@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T11:52:43.220648+00:00",
- "collected_at_utc": "2026-10-20T11:52:43.220648+00:00",
+ "generated_at_utc": "2026-10-20T12:02:44.130823+00:00",
+ "collected_at_utc": "2026-10-20T12:02:44.130823+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1001,
+  "japan": 1002,
   "china": 903,
   "taiwan": 356,
-  "korea": 740
+  "korea": 739
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T11:20:09+00:00"
+   "newest": "2026-10-20T07:46:59+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 28/09/2026",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T11:51:57+00:00"
+   "newest": "2026-10-20T12:01:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T08:38:17+00:00"
+   "newest": "2026-10-20T11:17:20+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -721,8 +721,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -736,7 +736,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -1321,6 +1321,24 @@
    "live_wire": false,
    "manual": false,
    "id": "644145a686a56bd7"
+  },
+  {
+   "source_id": "gn_jp_mof",
+   "source_name": "財務省",
+   "title_en": "Balance of the Fiscal Loan Fund (End of September 2026) : Ministry of Finance",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlpTbHZNbkNXS3RlajVlTHdoVlZ0YjJEZHcyNlVFNkR5d3NIN1A1Sjd5MEg1NVB0cEtNVWQ3aUxjbi12OHJ0YTU4ODVCZVNXMUdWc2x5TWU0MXVLelU5NU15dEJoS2JjOWhtUUltSkYzVHJhaE9ESDkya2RVakEzYWJ3?oc=5",
+   "published_utc": "2026-10-20T06:30:40+00:00",
+   "title_original": "Balance of the Fiscal Loan Fund (End of September 2026) : Ministry of Finance",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5ebd99922c8fcea2"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2719,8 +2737,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -2734,7 +2752,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -6777,8 +6795,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -6792,7 +6810,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -51920,24 +51938,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2b694e92a4ccef6e"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "세이프머니",
-   "title_en": "Bank of Korea: If interest rates rise, the burden on households and businesses will increase by over KRW 3 trillion.",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4bVdHTHI0Z0ZkZUtMSlJkMzFMcmtCREQ0MFZKV0tyZUpJOC1WTk1Gbmlkbi1vSGZVNnczeUhyZWlIQUZnOXUtdmYwSDJ3WS1RcVpXRzA1Q0RkUFlhcXVBaE1sNDRyTW1nYXp0Wi1R?oc=5",
-   "published_utc": "2026-09-22T08:29:42+00:00",
-   "title_original": "한은, 금리 인상되면 가계·기업 부담 3조 넘게 증가",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b137dc8906a06fb1"
   },
   {
    "source_id": "manual_ia",
