@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-19T23:52:44.938605+00:00
+Última coleta: 2026-10-20T00:02:44.194644+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          997
   🇨🇳 China          897
-  🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  755
+  🇹🇼 Taiwan         350
+  🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
   - [korea] Samsung Electro-Mechanics to Supply Chip-Packaging Substrates to Major Global Customer in 2027
+  - [korea] Research: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progres
   - [china] PBoC Loan Rate Due On Tuesday
   - [taiwan] Weekly Recap: TSMC 3nm NVHBM sourcing and Goldman Sachs Buy on NAND strength
   - [japan] Weekly Recap: 20% stake in Shriram Finance and yen stablecoin pilot
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Retail Sales Growth Accelerates to 1.1%
   - [japan] Prime Minister Takaichi secures financial resources for consumption tax reduction “Proceed with review of expe
   - [china] China’s central bank studies making overnight rate its main policy rate
-  - [china] United Nova Technology Q3 Net Profit At 411.7 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-19T23:52:45+00:00",
+      "published_utc": "2026-10-20T00:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
