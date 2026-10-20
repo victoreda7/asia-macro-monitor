@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T05:49:36.299901+00:00
+Última coleta: 2026-10-20T05:52:45.126319+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          992
-  🇨🇳 China          903
+  🇯🇵 Japão          993
+  🇨🇳 China          902
   🇹🇼 Taiwan         356
   🇰🇷 Coreia do Sul  749
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hyundai Motor Group unites defense arms in global export push
+  - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say
+  - [japan] ABB To Acquire 51% Stake In Mitsubishi Electric Joint Venture For JPY 82.4 Bln
   - [korea] SK Hynix Shares Appear Undervalued Amid AI Financing Concerns — Market Talk
   - [korea] 93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rat
   - [korea] BYD surges to No. 4 in Korea's imported car market
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics and SK Hynix, which had risen by recovering some of the recent declines the prev..
   - [china] China's September US soybean imports rebound from zero a year earlier, data shows
   - [china] In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.
-  - [japan] Japan yet to decide on defence budget funding, finance minister says
-  - [china] China's Key Lending Rates Kept Unchanged as PBOC Weighs Reforms
-  - [china] PBOC Signals Potential Shift in Key Policy Rate — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T05:49:36+00:00",
+      "published_utc": "2026-10-20T05:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

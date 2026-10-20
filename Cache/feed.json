@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T05:49:36.299901+00:00",
- "collected_at_utc": "2026-10-20T05:49:36.299901+00:00",
+ "generated_at_utc": "2026-10-20T05:52:45.126319+00:00",
+ "collected_at_utc": "2026-10-20T05:52:45.126319+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 992,
-  "china": 903,
+  "japan": 993,
+  "china": 902,
   "taiwan": 356,
   "korea": 749
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-20T14:32:52+00:00"
+   "newest": "2026-10-20T14:49:11+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -154,8 +154,8 @@
    "name": "MOF Japan",
    "ok": false,
    "count": 30,
-   "error": "parada desde 28/09/2026",
-   "newest": "2026-09-28T07:00:00+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T04:35:14+00:00"
+   "newest": "2026-10-20T05:43:24+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T05:48:36+00:00"
+   "newest": "2026-10-20T05:51:50+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,59 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Hyundai Motor Group unites defense arms in global export push",
+   "url": "https://www.koreaherald.com/article/10908752",
+   "published_utc": "2026-10-20T05:52:44.508829+00:00",
+   "title_original": "Hyundai Motor Group unites defense arms in global export push",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a7ccb31bb2554d6a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4650KC:0-bank-of-japan-may-raise-inflation-forecast-stand-pat-on-rates-sources-say/",
+   "published_utc": "2026-10-20T05:50:07+00:00",
+   "title_original": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e94f4450dd3c350d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "ABB To Acquire 51% Stake In Mitsubishi Electric Joint Venture For JPY 82.4 Bln",
+   "url": "https://www.tradingview.com/news/dpa_afx:3ef7d534047e8:0-abb-to-acquire-51-stake-in-mitsubishi-electric-joint-venture-for-jpy-82-4-bln/",
+   "published_utc": "2026-10-20T05:49:27+00:00",
+   "title_original": "ABB To Acquire 51% Stake In Mitsubishi Electric Joint Venture For JPY 82.4 Bln",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0cae48f5fcbfa397"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -51878,59 +51931,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4b76c447fd855c41"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "Central Bank: Launches 35 billion yuan 7-day reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUNXVXhxVF9yTk9lWmxHdTdwOHNlYVNFY2lINldHcV9sYWxEcXNaYW4tOTdrYUJ0eUlLclBCaW9IQ1FLMHpZdWExdnN4LUZIc0pWd3FKMU9RREZCdVRHUmFnWEI0Uy1hS1F2YVY3czl4clR5TmlYTzZ2ZXJPdTJkcXdiTVF1Ty02T25OSA?oc=5",
-   "published_utc": "2026-09-22T01:30:00+00:00",
-   "title_original": "央行：开展350亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c054b053cf5c12e3"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Yen squeezed as hawkish turn grips central banks By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMG53MVA0TFI2VmtGeEtrSTdycXVpS0YzQTZwVW13b0RGSEIzY1pZcWpiWkNXMUFrdnA4OUNuVUpOUUhBYjZNVzZoZ0l1VWs5amVCbU94RmxVZ1FGajdTLV9ubmNaRWNuNEdRXzlnMWVnaTEzR3Z5MkRObVZhdkQ1aWF1ZGxBSHd0OUpJUjFqeTZubzZKcUhzMTh0WEozang0b3c?oc=5",
-   "published_utc": "2026-09-22T01:06:46+00:00",
-   "title_original": "Yen squeezed as hawkish turn grips central banks By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6107708335e00ef3"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Seoul 'Central Park' plan faces pressure from housing supply crunch",
-   "url": "https://asia.nikkei.com/spotlight/society/seoul-central-park-plan-faces-pressure-from-housing-supply-crunch",
-   "published_utc": "2026-09-22T00:57:02.661940+00:00",
-   "title_original": "Seoul 'Central Park' plan faces pressure from housing supply crunch",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ab0595772b5afaaf"
   },
   {
    "source_id": "manual_ia",
