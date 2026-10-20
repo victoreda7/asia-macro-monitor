@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T14:32:46.308226+00:00
+Última coleta: 2026-10-20T14:42:44.394478+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1003
+  🇯🇵 Japão          1004
   🇨🇳 China          902
-  🇹🇼 Taiwan         357
+  🇹🇼 Taiwan         356
   🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [japan] More than 23,000 cases of information may be leaked in the country's energy-saving housing project
   - [korea] BYD surges to No. 4 in Korea's imported car market
   - [korea] What's the future of AI stock? SK Hynix shares crash to lowest level since Apr as sell-off deepens; down 31% i
   - [china] Nvidia secures $35B in orders for new export-compliant GPU from Chinese tech giants: report
   - [china] BofA Prefers These Semicap Top Picks on Mix, Pricing, NAND, China Upside
+  - [china] The central bank will carry out overnight reverse repurchase operations
   - [china] China’s hybrid car exports to EU surge by more than 200% as import cap looms
   - [japan] Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and
   - [china] Micron Invests In US Indium Processing Amid China Export Restrictions – MU Stock Still Dips
@@ -34,7 +36,6 @@ Total: 3000 manchetes
   - [china] China's US soybean imports rebounded in September, data shows
   - [japan] Prime Minister Takaichi “works to minimize burden on local governments” in consumption tax reduction bill
   - [taiwan] Micron Taoyuan union announces Oct. 22 solidarity strike
-  - [china] The central bank will carry out overnight reverse repurchase operations
   - [china] London Metal Exchange CEO affirms support for use of yuan
   - [china] Soybeans open Tuesday higher in Chicago with new import data from China on radar
   - [korea] BOK Financial Corporation Stock 12‑Month Price Target Cut to $145.56, Implies 18% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China, Hong Kong shares weaken as stable growth eases stimulus bets
   - [korea] The import concentration is intensifying from the single-person media industry such as YouTubers to
   - [korea] [Photo] Deputy Finance Minister Hearing On-Site Opinion on 'Coin Taxation'
-  - [korea] New bank accounts created following preferential interest rates and stock accounts increased along w..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T14:32:46+00:00",
+      "published_utc": "2026-10-20T14:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

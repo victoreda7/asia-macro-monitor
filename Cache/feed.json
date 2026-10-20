@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T14:32:46.308226+00:00",
- "collected_at_utc": "2026-10-20T14:32:46.308226+00:00",
+ "generated_at_utc": "2026-10-20T14:42:44.394478+00:00",
+ "collected_at_utc": "2026-10-20T14:42:44.394478+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1003,
+  "japan": 1004,
   "china": 902,
-  "taiwan": 357,
+  "taiwan": 356,
   "korea": 738
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T21:57:53+09:00"
+   "newest": "2026-10-20T23:39:19+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T08:27:54+00:00"
+   "newest": "2026-10-20T13:27:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T14:22:00+00:00"
+   "newest": "2026-10-20T14:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T11:17:20+00:00"
+   "newest": "2026-10-19T01:49:31+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "More than 23,000 cases of information may be leaked in the country's energy-saving housing project",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261020de62509",
+   "published_utc": "2026-10-20T14:39:19+00:00",
+   "title_original": "国の省エネ住宅事業で2万3000件超の情報漏えいのおそれ",
+   "region": "japan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fa6dfa05909cd8cb"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -410,6 +427,23 @@
    "live_wire": true,
    "manual": false,
    "id": "5a3aa92931facdf2"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济频道",
+   "title_en": "The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzOWFpMWhWeUx4QVphbmZSejQzMjd0NVZJMi1tNld1R3FNd01KNFMzSTBkU0pCU25DOTdrcTdGV196dmlRcnRnWVExWThYOHUxanotcVNtLWlDWm95RUhWRjVKVjdUUGt5N3ZGZ2RRYmhPX3JlVE04ODZ6Yw?oc=5",
+   "published_utc": "2026-10-20T13:27:00+00:00",
+   "title_original": "央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b681d22144b0848c"
   },
   {
    "source_id": "scmp_business",
@@ -635,23 +669,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7d9f45dfeb6b88e6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wN2FUbERHZFY3dnFNUzFTdWYxM0VqVXdQZ0pDRWpoSzh2YU4yN2pLcjRkMXpkcHRpTklfc3BGbTB3dEtrdlpBRl9FZ1p0ZWwyQ1BWaEp4S2RvZkxGSXdGQw?oc=5",
-   "published_utc": "2026-10-20T10:40:00+00:00",
-   "title_original": "央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "00549b75772284b5"
   },
   {
    "source_id": "tradingview_live",
@@ -3561,6 +3578,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e0824ee22b1f637d"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWhfNUhYYTVPQUJZQmw4azJVMnpCV0F1OV9wWWduNE1LQjNTcXRsTGpmLTduV3FhZnFISE5zcDhfRTdYVUVvZ1A1a0lGZUs1a25oOTg3QjFhUFRINkw4bHpSZGJ6Tk5XczZUcUtjcnVjZ01sc0Y4QU0tRFlOZENpdmh5MmdZaWRUa2x2cQ?oc=5",
+   "published_utc": "2026-10-19T07:43:43+00:00",
+   "title_original": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc1e7cc7a89672d8"
   },
   {
    "source_id": "focus_taiwan",
@@ -51906,40 +51940,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e279f11b216fa12d"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China's industrial rise hits German manufacturers hard, ECB finds",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVkY2a3hKZkdQTS15OFBlTFlFUTJKcWJuTldQeVBOc2ltLTZ3WkN1MTRrWUhLMEtoMWt3ZnROQk50MW9xczVUTVFXTEdPZGNZM2VsX01Pc2xmeXVKb1FzbTJIQmI0RFM5MHh4dlRKT1NTSXpiejR0MTR3WVVJRUo3RFFRX1lsRmNCeU5pVFFITEFZcXliNTFYVFU5WUhac29aNFptOUQ3dmZONXdzZXZ2ag?oc=5",
-   "published_utc": "2026-09-22T12:10:47+00:00",
-   "title_original": "China's industrial rise hits German manufacturers hard, ECB finds",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "010cf731a7bf26db"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Why is Taiwan such an important issue for China?",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT09MRkhtMm9UTjgyUVRWUmFSeVNuLS1ONmtUX2RTU2N3c1A1OTM4R1RiRXhVUGI4VWNCSlNVaG0yVzBuYU5sellDMV9MODRPV3phd0x3blhPYlZwMEdlaXVLb0hQNXZLVzVHdWdhQURiZFR3ZFpDVEUtOWltZEdBZnJrN1dudTVpeHR5dTRUeFprQjNnTGc?oc=5",
-   "published_utc": "2026-09-22T11:31:45+00:00",
-   "title_original": "Why is Taiwan such an important issue for China?",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0d2613902adb2cbf"
   },
   {
    "source_id": "manual_ia",
