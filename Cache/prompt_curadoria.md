@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T04:02:43.663299+00:00
+Última coleta: 2026-10-20T04:12:43.678058+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          999
   🇨🇳 China          899
-  🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  746
+  🇹🇼 Taiwan         355
+  🇰🇷 Coreia do Sul  747
 
 ## O que já está no feed (não repita)
 
+  - [japan] JAPAN consumption tax cut bill on food goes to Lower House
   - [japan] Bill related to consumption tax reduction on food items to be debated in the House of Representatives this aft
+  - [korea] Samgi America, the North American subsidiary of Samgi Energy Solutions, has won a contract to supply..
   - [china] Yuan hits fresh high since 2022 on export growth, stronger guidance
   - [china] The central bank has pushed a daily cap of 1 trillion yuan for overnight reverse repos and plans to gradually 
   - [korea] Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings
@@ -34,6 +36,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan dollar weakens most among muted Asian currencies
   - [korea] Samsung Electronics and SK Hynix, which had risen by recovering some of the recent declines the prev..
   - [china] China's September US soybean imports rebound from zero a year earlier, data shows
+  - [china] In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.
   - [japan] Japan yet to decide on defence budget funding, finance minister says
   - [china] China's Key Lending Rates Kept Unchanged as PBOC Weighs Reforms
   - [china] PBOC Signals Potential Shift in Key Policy Rate — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] PBoC Loan Rate Due On Tuesday
   - [japan] Weak yen and long-term interest rates at historic levels, pressure to revise the signature policy of ``active 
   - [taiwan] Weekly Recap: TSMC 3nm NVHBM sourcing and Goldman Sachs Buy on NAND strength
-  - [japan] Weekly Recap: 20% stake in Shriram Finance and yen stablecoin pilot
-  - [korea] The Korea Land and Housing Corporation (LH) reported a valuation loss of 75.8 billion won last year
-  - [korea] BOK Financial (NASDAQ:BOKF) Reports Sales Below Analyst Estimates In Q3 2026 Earnings
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T04:02:43+00:00",
+      "published_utc": "2026-10-20T04:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
