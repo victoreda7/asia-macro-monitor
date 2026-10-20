@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T12:52:42.943350+00:00",
- "collected_at_utc": "2026-10-20T12:52:42.943350+00:00",
+ "generated_at_utc": "2026-10-20T13:02:44.821302+00:00",
+ "collected_at_utc": "2026-10-20T13:02:44.821302+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1002,
-  "china": 903,
-  "taiwan": 356,
-  "korea": 739
+  "japan": 1003,
+  "china": 901,
+  "taiwan": 358,
+  "korea": 738
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 31.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:30:09+00:00"
+   "newest": "2026-10-20T08:13:59+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 58,
+   "count": 60,
    "error": "",
-   "newest": "2026-10-20T18:56:02+08:00"
+   "newest": "2026-10-20T20:47:15+08:00"
   },
   {
    "source_id": "investing_live",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T10:30:00+00:00"
+   "newest": "2026-10-20T09:47:21+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T20:16:44+09:00"
+   "newest": "2026-10-20T21:57:53+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T20:18:53+09:00"
+   "newest": "2026-10-20T21:57:53+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:13:00+00:00"
+   "newest": "2026-10-20T12:03:43+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-20T12:04:05+00:00"
+   "newest": "2026-10-20T13:00:10+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T11:28:36+00:00"
+   "newest": "2026-10-20T07:00:08+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T12:52:07+00:00"
+   "newest": "2026-10-20T13:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-20T12:28:51+00:00"
+   "newest": "2026-10-20T12:57:14+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,6 +344,92 @@
  ],
  "items": [
   {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "China’s hybrid car exports to EU surge by more than 200% as import cap looms",
+   "url": "https://www.scmp.com/economy/global-economy/article/3371541/chinas-hybrid-car-exports-eu-surge-more-200-import-cap-looms",
+   "published_utc": "2026-10-20T13:00:10+00:00",
+   "title_original": "China’s hybrid car exports to EU surge by more than 200% as import cap looms",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bc573d6f88cf6cb5"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
+   "published_utc": "2026-10-20T12:57:53+00:00",
+   "title_original": "食料品の消費税減税法案 衆院で審議入り どうなる財源・支援金",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "260bb7b52d56117c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "Micron Invests In US Indium Processing Amid China Export Restrictions – MU Stock Still Dips",
+   "url": "https://www.tradingview.com/news/stocktwits:6fa3edd00094b:0-micron-invests-in-us-indium-processing-amid-china-export-restrictions-mu-stock-still-dips/",
+   "published_utc": "2026-10-20T12:51:38+00:00",
+   "title_original": "Micron Invests In US Indium Processing Amid China Export Restrictions – MU Stock Still Dips",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c61a647b6ba63235"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Starlux expands routes amid AI, chip industry demand",
+   "url": "https://focustaiwan.tw/business/202610200025",
+   "published_utc": "2026-10-20T12:41:13+00:00",
+   "title_original": "Starlux expands routes amid AI, chip industry demand",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a9e85fad8a05bda5"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "2 workers found without vital signs at Kaohsiung TSMC fab site",
+   "url": "https://focustaiwan.tw/society/202610200024",
+   "published_utc": "2026-10-20T12:36:11+00:00",
+   "title_original": "2 workers found without vital signs at Kaohsiung TSMC fab site",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf914a93d98ec847"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Axcelis To Begin Construction Of New Manufacturing Facility In Pyeongtaek, Korea",
@@ -359,6 +445,23 @@
    "live_wire": true,
    "manual": false,
    "id": "67ee3de7f08798d9"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Apple commits up to $100 million for US titanium in domestic manufacturing push",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbDM5WVpJZWxMa0taUVhrM0I4OEc2SmtweUZGLWVBcHNTTmlDX0FOTmdLRFE2MUV5RDJpU01kMGhjclAtS19SU3pwVm5kLWN6TWRnTlhIX3RyUGdXZk9GQ1JNQmJub1N0Y2lVZ1hpOUJqYTRtbnBKY3NqMjRtUHQ4MXRmcVc5ZWpId3VwV21ZOTF3WkJSc1dYMXpzb0lic29menJKSmtkRHZ1NnNlOEVmR2RHRTZUd0x1ZEYzT2ZmZHhMVGU0NmxTag?oc=5",
+   "published_utc": "2026-10-20T12:03:43+00:00",
+   "title_original": "Apple commits up to $100 million for US titanium in domestic manufacturing push",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4e50ce617082735f"
   },
   {
    "source_id": "tradingview_live",
@@ -1153,7 +1256,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "오피니언뉴스",
    "title_en": "Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual freeze on the 22nd",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jVGNEbjFWbmN6QWN4SmtzTklKVW9WeklaamN6LVJWSTdKN1Y1NWdJVlFXVWJDNUhrSS16NkxxOWpVS0FneVJRdXI1c1QyVTdXZXVyQ1RFV0JJbXg1aUdIZlB1MmFHNXlHY2o1ei1UdVg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zWjFfcEhGbmd4ZUdPSHF6VjlEb0JWdXU1VkczUUZYdDVlMjZrNmhXS1hSd3czeW1BajFMWFVPX3U2eTRnWEhEbk45WVRyRlZJT2VFdnNYendzeHhKd0lfbGt0X0p1dURlMXNXUmt6d2Yxdw?oc=5",
    "published_utc": "2026-10-20T07:06:46+00:00",
    "title_original": "기준금리 인상 10월엔 쉬어가나…금통위, 오는 22일 연 3% 동결 전망 우세",
    "region": "korea",
@@ -1165,7 +1268,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d15c690164b3a613"
+   "id": "6fc48f3b53992467"
   },
   {
    "source_id": "tradingview_live",
@@ -1466,23 +1569,6 @@
    "id": "c036fe0a33d51286"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "APEC role is important for a challenged global economy, China minister says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45900I:0-apec-role-is-important-for-a-challenged-global-economy-china-minister-says/",
-   "published_utc": "2026-10-20T06:03:20+00:00",
-   "title_original": "APEC role is important for a challenged global economy, China minister says",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "83e2d88c2b630223"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s",
@@ -1691,6 +1777,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6b8b7943e562e9e1"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "브릿지경제",
+   "title_en": "93% of bond experts say, “The Monetary Policy Committee will freeze the base interest rate in October”… Increasing outlook for interest rate decline",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ncFZRVDRHTFZHRHNReFkwMkxZR3JxRnhRdG50QUttcEVtTkRvOGRHUjZBUnZDWHh0UHZKbXlBeXZ4ZVRBVXBCVEJxV1VtaGdqRG05ZTcxcnJnQQ?oc=5",
+   "published_utc": "2026-10-20T04:36:00+00:00",
+   "title_original": "채권전문가 93% “10월 금통위 기준금리 동결”…금리 하락 전망 확대",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "94948b0310f08f53"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51836,108 +51940,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a32ac0e2b26f95db"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "The 10-Point: Trump's U.N. Speech and China Talks Put Tariffs, AI and Energy in Focus — WSJ Newsletter",
-   "url": "https://www.tradingview.com/news/DJN_DN20260922001604:0/",
-   "published_utc": "2026-09-22T09:59:00+00:00",
-   "title_original": "The 10-Point: Trump's U.N. Speech and China Talks Put Tariffs, AI and Energy in Focus — WSJ Newsletter",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "081dcce1285da27c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Curbs Drug-Precursor Exports Ahead of Xi-Trump Summit",
-   "url": "https://www.tradingview.com/news/DJN_DN20260922001599:0-china-curbs-drug-precursor-exports-ahead-of-xi-trump-summit/",
-   "published_utc": "2026-09-22T09:56:00+00:00",
-   "title_original": "China Curbs Drug-Precursor Exports Ahead of Xi-Trump Summit",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ddd4c098dbe28770"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "reuters.com",
-   "title_en": "South Korea's Lee urges US to ease North Korea sanctions to freeze nuclear programs, NYT says",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWnQtNV93S3VlR0QyOWR2akZfM3o3OVVxaFdkSEdYMzFGMnZHYXQtRWNsLWNoY0x6c2cxOVdkdC00cElETGRNSUhUNmNRbGVVMENsS2pwUk42UGpWYmxFaHNic3RxVENNaFRScFlqNF9KT3lmU0tKdXZfSUhhemtFUHdDb01Mc3ZDcDBGeTFRQ0E2MlppSU82QXRWREtLUTJBanlPeERVcGhGeUU4MEJiNVVHLURSS25WTTFDaDBSakJsZkZDa0VScWhNOERsRm8y?oc=5",
-   "published_utc": "2026-09-22T09:55:34+00:00",
-   "title_original": "South Korea's Lee urges US to ease North Korea sanctions to freeze nuclear programs, NYT says",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9a12c4b58ec00d99"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China adds drug precursor chemicals to export control list ahead of Trump-Xi summit",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUW01Z2w5SlFzQ3VXT3g1cGUzbWlMU2FNM25rVEJFZkZQTzFHampOdUI3NU56aUxVem5oM3dhVXdPN1JxRFpOWmZublhkaEVrUmc5UTNVU3E2cVVVbE1uV3pTWFEzX1R6bmZ2Yjlyc1ZiUEQ2YlZFZHpTQWR3aFBWcUgtWGdNYXRqNmY2UzBkRkdOY2tmWGQyWVJQMEl6WjhWb0dJeGUwbTdvNURreElseVJjZUxBdXdjY2VON2QxU3dSQU5URlFjcy0zbWJWS0xtTlpJdmJ0TW54VFVaTEpGaUFyUHFlVWc?oc=5",
-   "published_utc": "2026-09-22T09:32:05+00:00",
-   "title_original": "China adds drug precursor chemicals to export control list ahead of Trump-Xi summit",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "34e69a64ede12d96"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Seoul catches 18-fold surge in exports falsely labeled 'Made in Korea'",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lSUpDdlZvNzlSel9jekM3eWpyRWUwYjQ0OXlpWFo1U1B0LWRlTnZOREl3c1RCS3dwVVR2ckNrUlk0VVlhR2F5U3NBVlliVG5FeVl3VVNoc3NXTFJTQzc1Mnp2WmpHQkx0T1E?oc=5",
-   "published_utc": "2026-09-22T08:59:00+00:00",
-   "title_original": "Seoul catches 18-fold surge in exports falsely labeled 'Made in Korea'",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3d2c3b2d9c53d088"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Taiwan August export orders hit record high value, strong AI demand leads",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWUzRVFWekh3dTVoUFFZNHQxNmhnRXpHVzU5SUV5a1gzVVRyUGkwMnNyQVRvMUNtYTRjcllEVkNKbW1vQnkwVDhOaUdEaGppZThvdXpMTllPT21lbXZwSVBnQXQ0NEQ0eWFMLUd0bERRRl95Y3JwZmJ6TTdBa2VZWlZtVE96QzNmQ1hOLWFiRTk3cEF5THFCbUtWSkJZYlhUZVNmdzkwQ1pBVnBhSUxpSXNKS1FsRHNsbkpqSnlWYjZ0QWJKVEE?oc=5",
-   "published_utc": "2026-09-22T08:47:44+00:00",
-   "title_original": "Taiwan August export orders hit record high value, strong AI demand leads",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "30bd39fe7d45d4fe"
   },
   {
    "source_id": "manual_ia",

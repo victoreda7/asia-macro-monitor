@@ -7,17 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T12:52:42.943350+00:00
+Última coleta: 2026-10-20T13:02:44.821302+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1002
-  🇨🇳 China          903
-  🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  739
+  🇯🇵 Japão          1003
+  🇨🇳 China          901
+  🇹🇼 Taiwan         358
+  🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [china] China’s hybrid car exports to EU surge by more than 200% as import cap looms
+  - [japan] Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and
+  - [china] Micron Invests In US Indium Processing Amid China Export Restrictions – MU Stock Still Dips
+  - [taiwan] Starlux expands routes amid AI, chip industry demand
+  - [taiwan] 2 workers found without vital signs at Kaohsiung TSMC fab site
   - [korea] Axcelis To Begin Construction Of New Manufacturing Facility In Pyeongtaek, Korea
+  - [taiwan] Apple commits up to $100 million for US titanium in domestic manufacturing push
   - [china] Hormuz Disruption, Chinese Export Curbs Keep Fertilizer Supplies Tight, S&P Says — Market Talk
   - [korea] Finance minister pledges support for global 'AI basic society'
   - [japan] Civil Reform Concerning consumption tax reduction related bill “40,000 yen per person benefit”
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 23
   - [taiwan] Taiwan Export Orders Hit New Record High
   - [china] China keeps yttrium exports to Japan restricted in September
-  - [korea] South Korea to consider cutting bond issuance if needed to stabilise market
-  - [taiwan] BASF Signs Letter Of Intent With Taiwan To Advance Semiconductor Manufacturing
-  - [korea] Government R&D budget at 40 trillion won ... 80% of equipment is foreign-made
-  - [china] The People's Bank of China will withdraw a net 65 billion yuan from the market on October 20 and will carry ou
-  - [taiwan] Indonesian shares recover after hitting six-year low; Taiwan dollar depreciates
-  - [china] The People's Bank of China will withdraw a net 65 billion yuan on October 20 and will carry out overnight reve
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T12:52:43+00:00",
+      "published_utc": "2026-10-20T13:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
