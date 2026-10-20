@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T09:32:46.858881+00:00
+Última coleta: 2026-10-20T09:42:42.574073+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          998
-  🇨🇳 China          901
+  🇨🇳 China          902
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  745
+  🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
@@ -42,6 +42,7 @@ Total: 3000 manchetes
   - [taiwan] Indonesian shares recover after hitting six-year low; Taiwan dollar depreciates
   - [china] The People's Bank of China will withdraw a net 65 billion yuan on October 20 and will carry out overnight reve
   - [china] China's Australian coal imports surge to six-year high
+  - [china] PBOC Faces Multi-Month Road to New Rate Anchor, Analysts Say
   - [japan] Stock price temporarily fell by more than 1,100 yen due to rise in crude oil futures prices
   - [china] US Sanctions China’s Y Combinator in Google AI Secrets Case
   - [taiwan] Taiwan anchors US chip revival, SEMICON West spotlights trusted partners
@@ -51,7 +52,6 @@ Total: 3000 manchetes
   - [taiwan] Key facts: NVIDIA Sees $108B Q3 Sales; 104‑Qubit Sim; TSMC 3nm NVHBM
   - [japan] The prefecture's economy is on a "moderate recovery trend", Bank of Japan's Councilor Koeda gives a speech in 
   - [korea] South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns
-  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [china] China resumes sulphuric acid exports to copper king Chile after three-month halt
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief By Reuters
   - [korea] Kospi Snaps Two-Session Winning Streak; Chip, Defense Stocks Retreat
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T09:32:47+00:00",
+      "published_utc": "2026-10-20T09:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
