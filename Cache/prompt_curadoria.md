@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T11:22:42.163583+00:00
+Última coleta: 2026-10-20T11:32:43.947796+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1001
@@ -17,10 +17,12 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Finance minister pledges support for global 'AI basic society'
   - [japan] Civil Reform Concerning consumption tax reduction related bill “40,000 yen per person benefit”
   - [china] China's US soybean imports rebounded in September, data shows
   - [japan] Prime Minister Takaichi “works to minimize burden on local governments” in consumption tax reduction bill
   - [taiwan] Micron Taoyuan union announces Oct. 22 solidarity strike
+  - [china] The central bank will carry out overnight reverse repurchase operations
   - [china] London Metal Exchange CEO affirms support for use of yuan
   - [china] Soybeans open Tuesday higher in Chicago with new import data from China on radar
   - [korea] BOK Financial Corporation Stock 12‑Month Price Target Cut to $145.56, Implies 18% Upside
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The People's Bank of China will withdraw a net 65 billion yuan on October 20 and will carry out overnight reve
   - [china] China's Australian coal imports surge to six-year high
   - [china] PBOC Faces Multi-Month Road to New Rate Anchor, Analysts Say
-  - [japan] Stock price temporarily fell by more than 1,100 yen due to rise in crude oil futures prices
-  - [japan] Japan consumption tax cut bill on food goes to Lower House
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T11:22:42+00:00",
+      "published_utc": "2026-10-20T11:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
