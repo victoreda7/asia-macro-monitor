@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T03:42:44.377681+00:00",
- "collected_at_utc": "2026-10-20T03:42:44.377681+00:00",
+ "generated_at_utc": "2026-10-20T03:52:42.877606+00:00",
+ "collected_at_utc": "2026-10-20T03:52:42.877606+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 999,
-  "china": 900,
-  "taiwan": 355,
+  "china": 899,
+  "taiwan": 356,
   "korea": 746
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T15:10:13+00:00"
+   "newest": "2026-10-20T02:26:44+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T03:01:11+00:00"
+   "newest": "2026-10-20T03:39:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T02:18:38+00:00"
+   "newest": "2026-10-20T03:36:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T01:37:44+00:00"
+   "newest": "2026-10-20T03:42:45+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T02:06:00+00:00"
+   "newest": "2026-10-20T02:13:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T16:00:00+00:00"
+   "newest": "2026-10-20T03:26:39+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T03:40:00+00:00"
+   "newest": "2026-10-20T03:48:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T03:09:50+00:00"
+   "newest": "2026-10-20T03:36:54+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,59 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yuan hits fresh high since 2022 on export growth, stronger guidance",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N466077:0-yuan-hits-fresh-high-since-2022-on-export-growth-stronger-guidance/",
+   "published_utc": "2026-10-20T03:48:04+00:00",
+   "title_original": "Yuan hits fresh high since 2022 on export growth, stronger guidance",
+   "region": "china",
+   "topics": [
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b51439f29b1289de"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank has pushed a daily cap of 1 trillion yuan for overnight reverse repos and plans to gradually replace the main policy interest rate on the 7th.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HaVhxTHZ0U3hqX2NhUGFvc1Zsc1ZMRkVqb1JqV0NYZ2xBYi1oNXJ5SjJzc2k2VmpxVXNKWjlKakRRaGRNTTdMMG1SRVJubmlpYjZGb3FwYXhURzV0Qk5EVk5R?oc=5",
+   "published_utc": "2026-10-20T03:42:45+00:00",
+   "title_original": "央行推隔夜逆回购每日上限1万亿元 拟逐步取代7日期成主要政策利率",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "082b7fd4ac05fd8e"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings",
+   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slump-as-ai-jitters-hammer-korean-chipmakers-ahead-of-tech-earnings-4958731",
+   "published_utc": "2026-10-20T03:39:03+00:00",
+   "title_original": "Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "05280fdf996be8e6"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -550,6 +603,23 @@
    "live_wire": true,
    "manual": false,
    "id": "fbd05f513d7d73e9"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics and SK Hynix, which had risen by recovering some of the recent declines the prev..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzT3RGa0JZclk5TE9LNG5mQXVJdGhsemdOc0NxNjEzMDV5Uml4anVGbXdQODByM0pDREluVkZjRzZhcTZ3ZjU5M3lNb2N1QUE?oc=5",
+   "published_utc": "2026-10-20T02:11:29+00:00",
+   "title_original": "Samsung Electronics and SK Hynix, which had risen by recovering some of the recent declines the prev..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d6788aa568c83c92"
   },
   {
    "source_id": "tradingview_live",
@@ -2225,13 +2295,13 @@
    "id": "b4f20dc339591eca"
   },
   {
-   "source_id": "gn_kr_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Morning Bid: Markets left to figure out sanctions",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Zk9kSXZkOVBJMWZjbXNlSmI2a2F6VG5EUFFfcHlMUjhaX25qaW1qWGNCVFpRaUlMN042UHdTNEh1eHY0MUFmS2RLZTJOd2VLRTlkX082UFNjTHdSZjBlQTB4b0hpeXlzY2UzZXlTNWoyX1pOVi1RTVV6UEhtOG8?oc=5",
    "published_utc": "2026-10-19T04:31:00+00:00",
    "title_original": "Morning Bid: Markets left to figure out sanctions",
-   "region": "korea",
+   "region": "taiwan",
    "topics": [
     "trade"
    ],
@@ -2239,7 +2309,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "4f220eedc360c92e"
+   "id": "e3858fb40d6c4f64"
   },
   {
    "source_id": "investing_fx",
@@ -12586,9 +12656,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation on the 15th",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tajBlbVZhaDdEMlVRRFlNQTFPN1Q5VEJyU01vVlM1VXVMOW9LY1R4eTQyam9sbFpUY0p2Qlk0OXA5a0c0YUZ5WFRBY3hBbzZvbmF5ajFzeFNZNzRPbjAzVVM1SjVoYXZMNW54QUhNSQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aWWQ3YlUxaU5oR2dpTmgyQXZSZGwyYXhiaFpoTy1Jb0ZJWUFiSEdpSlNvT19XYmhRMFRmMjA4cHZTTjBURUdQSjU1TjdFX1FQS2Mwc3dXbmpRRnVid3hOYUM0cWpKSGFCcHphR1hCRUZwVXR5UVc0djY5UFdPdw?oc=5",
    "published_utc": "2026-10-14T09:05:42+00:00",
    "title_original": "央行15日开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -12600,7 +12670,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "775752e5fabf0061"
+   "id": "403d8567ea938dde"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51860,74 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "55af513ce28ed339"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Won weakens sharply to near 1,400 again",
-   "url": "https://www.koreaherald.com/article/10880875",
-   "published_utc": "2026-09-21T15:20:15+00:00",
-   "title_original": "Won weakens sharply to near 1,400 again",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "53290665f5adf781"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Rare-Earth Magnet Exports to US Drop Before Xi-Trump Meet",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkpucFZfS21mcFB4VXlkbkNfYzJlUWh5V3dZclBNNERGVlpRZjVvZXo3ZVBnSU1FYXZ1UklPcWdJYjhyOEhfYjJuZ1FGR2padXhIQVp3NDU0c3pjZk5yM054ckFJSkNWV2JpOVV1QU5FaWJPMmJpSFRNYVlxYXVLZUJhRU1wX1FScUVtcW53elBwX09TRlBFcDg1QVNLeDRPeGprVmQ1SjgwRDRVNkNFZlhWd0g?oc=5",
-   "published_utc": "2026-09-21T15:09:21+00:00",
-   "title_original": "China Rare-Earth Magnet Exports to US Drop Before Xi-Trump Meet",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "124e6aa9cd35c363"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Rare-Earth Exports to US Drop Before Xi-Trump Meet",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkpucFZfS21mcFB4VXlkbkNfYzJlUWh5V3dZclBNNERGVlpRZjVvZXo3ZVBnSU1FYXZ1UklPcWdJYjhyOEhfYjJuZ1FGR2padXhIQVp3NDU0c3pjZk5yM054ckFJSkNWV2JpOVV1QU5FaWJPMmJpSFRNYVlxYXVLZUJhRU1wX1FScUVtcW53elBwX09TRlBFcDg1QVNLeDRPeGprVmQ1SjgwRDRVNkNFZlhWd0g?oc=5",
-   "published_utc": "2026-09-21T15:09:21+00:00",
-   "title_original": "China Rare-Earth Exports to US Drop Before Xi-Trump Meet",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6a555419984c6a1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Chinese Yuan Could Rise Further if Trump-Xi Summit Successful — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260921003639:0/",
-   "published_utc": "2026-09-21T13:36:00+00:00",
-   "title_original": "Chinese Yuan Could Rise Further if Trump-Xi Summit Successful — Market Talk",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "af617474e1662084"
   },
   {
    "source_id": "manual_ia",

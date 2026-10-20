@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T03:42:44.377681+00:00
+Última coleta: 2026-10-20T03:52:42.877606+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          999
-  🇨🇳 China          900
-  🇹🇼 Taiwan         355
+  🇨🇳 China          899
+  🇹🇼 Taiwan         356
   🇰🇷 Coreia do Sul  746
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan hits fresh high since 2022 on export growth, stronger guidance
+  - [china] The central bank has pushed a daily cap of 1 trillion yuan for overnight reverse repos and plans to gradually 
+  - [korea] Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings
   - [china] China's fuel oil exports for bunkering rebound in September while imports ease
   - [japan] Is the sudden rise in interest rates in France only due to special factors? The sudden sell-off of government 
   - [japan] Bill related to consumption tax reduction on food items to be debated in the House of Representatives this aft
@@ -29,6 +32,7 @@ Total: 3000 manchetes
   - [china] China Likely on Track to Hit Annual Growth Target — Market Talk
   - [japan] Japan futures rise as rains squeeze Thai supply, yen slips
   - [taiwan] Taiwan dollar weakens most among muted Asian currencies
+  - [korea] Samsung Electronics and SK Hynix, which had risen by recovering some of the recent declines the prev..
   - [china] China's September US soybean imports rebound from zero a year earlier, data shows
   - [japan] Japan yet to decide on defence budget funding, finance minister says
   - [china] China's Key Lending Rates Kept Unchanged as PBOC Weighs Reforms
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Weekly Recap: 20% stake in Shriram Finance and yen stablecoin pilot
   - [korea] The Korea Land and Housing Corporation (LH) reported a valuation loss of 75.8 billion won last year
   - [korea] BOK Financial (NASDAQ:BOKF) Reports Sales Below Analyst Estimates In Q3 2026 Earnings
-  - [korea] Korea’s $1 Trillion Chip Bet to Revive Left-Behind Region Risks Trump’s Ire
-  - [china] China and the EU agree to halve exports of hybrid cars to Europe, set annual quota of 350,000 units after intr
-  - [korea] BOK Financial beats Q3 earnings estimates as net interest income increases
-  - [japan] The 1.2L mild hybrid is lighter than the numerical value... Why Jeep's new "Compass", the first redesign in 9 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T03:42:44+00:00",
+      "published_utc": "2026-10-20T03:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
