@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T09:42:42.574073+00:00
+Última coleta: 2026-10-20T09:52:43.761396+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          998
+  🇯🇵 Japão          999
   🇨🇳 China          902
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  744
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar surrenders gains as record Japanese bond auction sparks Yen rally
+  - [china] China and Hong Kong stocks fall; stable growth dampens stimulus expectations
+  - [china] Chinese Hybrid Import Cap Offers Relief to European Carmakers — Market Talk
   - [china] Cssc Offshore & Marine Engineering Says 9-Month New Orders Totalled 35.8 Billion Yuan
+  - [china] EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders
   - [china] China's Strong 3Q Growth Rules out Additional Stimulus — Market Talk
   - [china] China solar exports to Middle East, Southeast Asia surge in September but Europe, Asia weigh on total
   - [china] China's Central Bank Likely to Hold Policy Rate Steady for Rest of 2026 — Market Talk
@@ -26,6 +30,7 @@ Total: 3000 manchetes
   - [japan] Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible
   - [taiwan] BASF Signs Semiconductor Agreement With Taiwan to Expand Materials Site
   - [taiwan] Taiwan September export orders hit record value on solid AI demand
+  - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [china] China, Hong Kong shares weaken as stable growth eases stimulus bets
   - [korea] The import concentration is intensifying from the single-person media industry such as YouTubers to
   - [korea] [Photo] Deputy Finance Minister Hearing On-Site Opinion on 'Coin Taxation'
@@ -33,7 +38,6 @@ Total: 3000 manchetes
   - [china] The People's Bank of China will carry out overnight reverse repurchase operations for 9 consecutive working da
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 23
   - [taiwan] Taiwan Export Orders Hit New Record High
-  - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
   - [china] China keeps yttrium exports to Japan restricted in September
   - [korea] South Korea to consider cutting bond issuance if needed to stabilise market
   - [taiwan] BASF Signs Letter Of Intent With Taiwan To Advance Semiconductor Manufacturing
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] The prefecture's economy is on a "moderate recovery trend", Bank of Japan's Councilor Koeda gives a speech in 
   - [korea] South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns
   - [china] China resumes sulphuric acid exports to copper king Chile after three-month halt
-  - [japan] Yen jumps after JGB auction draws big demand, euro finds relief By Reuters
-  - [korea] Kospi Snaps Two-Session Winning Streak; Chip, Defense Stocks Retreat
-  - [japan] Yen jumps after JGB auction draws big demand, euro finds relief
-  - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T09:42:42+00:00",
+      "published_utc": "2026-10-20T09:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
