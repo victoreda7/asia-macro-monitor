@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T07:12:43.209630+00:00
+Última coleta: 2026-10-20T07:22:43.728086+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          996
+  🇯🇵 Japão          997
   🇨🇳 China          903
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  745
+  🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock price temporarily fell by more than 1,100 yen due to rise in crude oil futures prices
   - [korea] Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual fre
   - [japan] Japan's Nikkei ends lower as higher yields, inflation fears weigh
   - [japan] Yomiuri: Japan Eyes 250 Billion Yen in Additional Funding for Rapidus
   - [taiwan] Key facts: NVIDIA Sees $108B Q3 Sales; 104‑Qubit Sim; TSMC 3nm NVHBM
   - [korea] South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns
   - [china] China resumes sulphuric acid exports to copper king Chile after three-month halt
+  - [japan] Yen jumps after JGB auction draws big demand, euro finds relief By Reuters
   - [korea] Kospi Snaps Two-Session Winning Streak; Chip, Defense Stocks Retreat
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings
   - [china] China's fuel oil exports for bunkering rebound in September while imports ease
   - [china] The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repur
-  - [japan] Is the sudden rise in interest rates in France only due to special factors? The sudden sell-off of government 
-  - [japan] Citizens Submit a counterproposal to the consumption tax reduction bill, aiming to reduce the burden through r
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T07:12:43+00:00",
+      "published_utc": "2026-10-20T07:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

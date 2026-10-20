@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T07:12:43.209630+00:00",
- "collected_at_utc": "2026-10-20T07:12:43.209630+00:00",
+ "generated_at_utc": "2026-10-20T07:22:43.728086+00:00",
+ "collected_at_utc": "2026-10-20T07:22:43.728086+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 996,
+  "japan": 997,
   "china": 903,
   "taiwan": 356,
-  "korea": 745
+  "korea": 744
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T04:42:00+00:00"
+   "newest": "2026-10-20T06:55:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T07:00:00+00:00"
+   "newest": "2026-10-20T06:33:40+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:11:19+00:00"
+   "newest": "2026-10-20T05:48:24+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T13:12:00+09:00"
+   "newest": "2026-10-20T16:14:12+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T07:11:32+00:00"
+   "newest": "2026-10-20T07:21:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock price temporarily fell by more than 1,100 yen due to rise in crude oil futures prices",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261020de62200",
+   "published_utc": "2026-10-20T07:14:12+00:00",
+   "title_original": "株価 一時1100円超値下がり 原油先物価格の上昇で",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "04353fa7282ba0f1"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "오피니언뉴스",
@@ -445,6 +463,24 @@
    "live_wire": true,
    "manual": false,
    "id": "44b3c6ed22d3bf16"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Yen jumps after JGB auction draws big demand, euro finds relief By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWhCNHhoellXelFpX3RpVnR1a2VjLXR2d1VzaE9VOG05WnZ6RWhoOXA4UVZGbVZqcGtPb29UVVFJZ3AxTHdRdUVwZzZYMWxUR285WV9oQmxBVnRLeFNhUWZzT3N6SlFvTC1mOFFVR3pURU9vamx1YkswdTdqdzBpTjJVWk9sZ2lIZU1JOXh5QWtEXzl3eFJrSzdBSkN1ek5rMElwTTVnRFNsQlRtR1E?oc=5",
+   "published_utc": "2026-10-20T06:33:40+00:00",
+   "title_original": "Yen jumps after JGB auction draws big demand, euro finds relief By Reuters",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6dfa519be039276c"
   },
   {
    "source_id": "tradingview_live",
@@ -1418,6 +1454,23 @@
    "id": "a9e11255a6720f0e"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Dollar and euro drift, yen slips as markets seek direction By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWd2Z2Zud2ZabVhHSWNHSjl5LU11OU80dGNmME5UeExpNklCcUEtbDFaNENLd01NR0gtRWpXUWlhSU1XbXlHTi1mWWpxQUdGWmZFSGREMEtzd2RwbFAxVV9Nc1BWV3VKTy02bC1EOE04WXBCMGtheUNOX3d2UTFNVmQtZEZsclVFVUk1TTdXSWs4dGM4LWpYZm1pZ2RtWlc4cUd4akU2V1o0aFhy?oc=5",
+   "published_utc": "2026-10-20T01:29:16+00:00",
+   "title_original": "Dollar and euro drift, yen slips as markets seek direction By Reuters",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9cba557c7a682b8a"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Dollar and euro drift, yen slips as markets seek direction",
@@ -2077,8 +2130,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -2092,7 +2145,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "tradingview_live",
@@ -5563,23 +5616,6 @@
    "id": "8ca1bcfeb8b9587c"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YcU11QXhkMW82ZV9tTS1ZMVRwQWJHZ2xONnJFWTZhb2c2MzRoeUw2X0FmQUFVVGhHdHpta3BmTk5YaUd4a2dKbU1iNlhFRXc5c2k1MXh4VzBGeWJGNkRscXFWaVZGSXFrNFJ4b05DOUh0c1paSm4wU0l1blI?oc=5",
-   "published_utc": "2026-10-17T00:14:15+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0d54b1faf146765e"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "[Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices announced",
@@ -5703,10 +5739,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
+   "source_name": "Investing.com Nigeria",
    "title_en": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHFSWnhza0FRTjRPUHJCN3RkQ2g0SkkyS01GVUhmTW51aVZmWEFtd3QzdnhNR2V1cmZHYmdMWlVzZDM1NkFHVXB5RGJ2MUg4XzJXVGMyXzd0dWdJaW9sUG1NcEtuVUV6cmZ4YjdlQ2pxa1NyNUEzZUdjMTRGQ2VlYlhMVV9VbkE4aVAwYWRzTjY4Rks2WXQ1bVFWSVd1Z3N4ekp2cTF0a3hNV3htc0xrTXBYMHZGUzdCNkZr?oc=5",
-   "published_utc": "2026-10-16T20:49:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzhpNk02NUd0cThLZGtubEhyQjk3ZWF1SjJpVWp2ZUVPQWw1Z0tmUk5RNmM0cWJudTh4WmtTU2pTajNDNko4VmsxQ0p4d3h0UGNHcTRhS3NfdjR6OEI1OGJCcHpNbEU4Q2t5UnRmeUc0cVBDUzZOckFydk1DRkwtZV9NamJqdjF6R3FfUUxZa0hDVDd3djl4NDlzcUpVbG9QdWQ1T1UzaS1PWG1odGVkRzk0QS1aVEE?oc=5",
+   "published_utc": "2026-10-16T21:21:43+00:00",
    "title_original": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
    "region": "japan",
    "topics": [
@@ -5716,7 +5752,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "0b4180c2c98b1e85"
+   "id": "d89a3510b7970b73"
   },
   {
    "source_id": "nhk_politics",
@@ -6099,8 +6135,25 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWjQyRWVYQTZ4UE1uQ2tYRVpiZC1kbW9IUnJTSHVzQWdlcGpZYkExd3g4cFVFZnVjclVVWHhNc3U0aE1remZ3QTB5V3VfdFRYMnExSGZaQjdXLW5DSUxkcjE3VFRqUVRHMmJlS1VjUjNBVHVIRG5lSEo0ZzE?oc=5",
+   "published_utc": "2026-10-16T14:38:45+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "18b0552f95e580ac"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -6114,7 +6167,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -13350,9 +13403,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation on the 15th",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aWWQ3YlUxaU5oR2dpTmgyQXZSZGwyYXhiaFpoTy1Jb0ZJWUFiSEdpSlNvT19XYmhRMFRmMjA4cHZTTjBURUdQSjU1TjdFX1FQS2Mwc3dXbmpRRnVid3hOYUM0cWpKSGFCcHphR1hCRUZwVXR5UVc0djY5UFdPdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tajBlbVZhaDdEMlVRRFlNQTFPN1Q5VEJyU01vVlM1VXVMOW9LY1R4eTQyam9sbFpUY0p2Qlk0OXA5a0c0YUZ5WFRBY3hBbzZvbmF5ajFzeFNZNzRPbjAzVVM1SjVoYXZMNW54QUhNSQ?oc=5",
    "published_utc": "2026-10-14T09:05:42+00:00",
    "title_original": "央行15日开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -13364,7 +13417,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "403d8567ea938dde"
+   "id": "775752e5fabf0061"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51877,60 +51930,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c99a5e6aaba66f23"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "What will happen to mortgage interest rates if the Bank of Japan raises interest rates? The basis for the “2% policy rate, 2.5%” predicted by experts (Minkabu Magazine)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CQ1VkUDliWmhvdTFKcU9PUnlJeWNJWHF1RDZKU0JibVZRUG5PQVJBc2wxYV9GdkpCOG1DREFNMWtacjA0dTBTc0JZNTdmLWo2Zm9aV3NaLVJYTHp0YUo0cGFmNTJRenMxMTBxSDlGWGF3OVBSRUxQR3ZsVEgtN0k?oc=5",
-   "published_utc": "2026-09-22T03:11:14+00:00",
-   "title_original": "日銀利上げで住宅ローン金利はどうなる？ 専門家が予測する「政策金利2％、行っても2.5％」の根拠（みんかぶマガジン）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c5ebe51ea59954a1"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "What will happen to mortgage interest rates if the Bank of Japan raises interest rates? Experts predict ``2% policy rate, 2.5%'' (Minkabu Magazine)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNnFCQVdMYjBieUE1YU4zeDBFQlk1dmJ5TFJBdzdUamY0ckJIYU1ZMUVoMnh2MVJPc3hETmZxcmxXZG5SSjFRRFdlV0xMbEtFUXBjUnlneHpaaVh5dG1HTWgzWnpPbGJEZkNyQ0ptOHczam1GTlB1Y2FKcUFsemw1LWpHVS1fVnhzR3pmYWtR?oc=5",
-   "published_utc": "2026-09-22T03:11:14+00:00",
-   "title_original": "日銀利上げで住宅ローン金利はどうなる？ 専門家が予測する「政策金利2％、行っても2.5％」の根拠 (みんかぶマガジン)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "91a61ec261b51a84"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "에너지경제신문",
-   "title_en": "“Base interest rate hike starts with house prices”...Borrower’s interest burden begins now",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPR1BoM203Q2Z3Wld6RkFXTXFSNVZEU01yTUt6VVpOblZlS05sMXVDdXF2RGxDQXB5NXJmdU1mUFhYWTc1ZHRTS05JVml0cFJhbFZwTnZUWmFWOFE?oc=5",
-   "published_utc": "2026-09-22T02:58:21+00:00",
-   "title_original": "“기준금리 인상 약발, 집값부터”...차주 이자부담은 이제 시작",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bd304d2c7079b980"
   },
   {
    "source_id": "manual_ia",
