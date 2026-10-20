@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T22:12:46.058046+00:00
+Última coleta: 2026-10-20T22:22:44.397255+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1007
+  🇯🇵 Japão          1008
   🇨🇳 China          900
   🇹🇼 Taiwan         353
-  🇰🇷 Coreia do Sul  740
+  🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll
   - [japan] BOJ to raise rates to 1.50% in December, sticking to quarterly pace
   - [korea] South Korea Producer Inflation Eases Slightly
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi “works to minimize burden on local governments” in consumption tax reduction bill
   - [taiwan] Micron Taoyuan union announces Oct. 22 solidarity strike
   - [china] London Metal Exchange CEO affirms support for use of yuan
-  - [china] Soybeans open Tuesday higher in Chicago with new import data from China on radar
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T22:12:46+00:00",
+      "published_utc": "2026-10-20T22:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
