@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T03:02:41.509487+00:00",
- "collected_at_utc": "2026-10-20T03:02:41.509487+00:00",
+ "generated_at_utc": "2026-10-20T03:12:43.813585+00:00",
+ "collected_at_utc": "2026-10-20T03:12:43.813585+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 999,
-  "china": 901,
-  "taiwan": 352,
+  "japan": 1000,
+  "china": 899,
+  "taiwan": 353,
   "korea": 748
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T07:33:11+00:00"
+   "newest": "2026-10-20T02:33:34+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T02:32:09+00:00"
+   "newest": "2026-10-20T03:01:11+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T12:00:20+09:00"
+   "newest": "2026-10-20T12:11:36+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T21:36:00+00:00"
+   "newest": "2026-10-20T01:31:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T03:01:51+00:00"
+   "newest": "2026-10-20T03:11:45+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-20T12:00:00+09:00"
+   "newest": "2026-10-20T12:10:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Is the sudden rise in interest rates in France only due to special factors? The sudden sell-off of government bonds...Three warnings that Japan should heed | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/961471?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-20T03:10:00+00:00",
+   "title_original": "フランスの〈金利急上昇〉は特殊要因だけなのか？国債売りトレードは突然に…日本が汲み取るべき3つの警告 | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff88125366e2a452"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -412,6 +430,23 @@
    "live_wire": true,
    "manual": false,
    "id": "86aa8550225990a6"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan industry seeks nuclear restart and utility relief amid energy costs boom",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemRId21BN2lIMFRsN1k5R0RUNk9GT0c0LU1aYXNhNXFmMzhkdi0yVjBuZ19GZl9UNlotNjJKTEdXUzlkWklDbk9OX0d1T0pjc3ZXVFNmeDBsLTZSY0RNd1BMWUoxXzhnQ2I4OWRkMVY5RFB3LUdhV3VBUlMwTlZ1RlN2MFdsdmdieVVDWlMtbFFUbjNacVpjeDlWcV90TTRjbU13Z1hrQ2NkQQ?oc=5",
+   "published_utc": "2026-10-20T02:33:34+00:00",
+   "title_original": "Taiwan industry seeks nuclear restart and utility relief amid energy costs boom",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "528b190d812d7f72"
   },
   {
    "source_id": "tradingview_live",
@@ -1262,8 +1297,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -1277,7 +1312,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "tradingview_live",
@@ -5267,8 +5302,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -5282,7 +5317,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -9813,7 +9848,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "finance.sina.com.cn",
    "title_en": "The central bank released financial statistics for the first three quarters: the increase in social financing exceeded 27 trillion yuan, and the proportion of direct financing increased | People's Bank of China | Bonds | Credit | Loans | Experts",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVNMNFI3N0ZKQkxaV1VTWkV2LUhrQ25rQmVDNERMOWJPdWZNWGlfMWU4ZXdudHlCMDBrUFhHdlQ5SlVPN29zMWprV0FIN3pHdDlMZmVOOVhld1NEVFJWQ0pZaXMtQzZUQ2k2UmdybnkzNmFDUDljMmk0X19qbWZrdU5SSGQ2MFViUW80RzJnUXAyV2lmTGkzQU9PeGxER25XVURWbkZB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkRLc2RidWtMdWdnY0hQcDQ0TUdLZE03MTVPUE9UWWVrU0NScVVUYjZyS1pPR3RYV0lSbGtBRkxIeUNyYzR2bWItMXZ5UkJONGNCYXVBZUlqUXI5a3k2VUJGbUJ5Sld6UFFwcVR2NkM2VV9lY2JWbm52N1daXzMybjQyZUpEdw?oc=5",
    "published_utc": "2026-10-15T03:16:51+00:00",
    "title_original": "央行发布前三季度金融统计数据：社融增量超27万亿元，直接融资占比上升|中国人民银行|债券|信贷|贷款|专家",
    "region": "china",
@@ -9825,7 +9860,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6e5c9b8f48236ae7"
+   "id": "06325222e42c1155"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -23915,6 +23950,23 @@
    "id": "0aec8ec5361ac961"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Seoul stocks down for 3rd day amid inflation worries",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RVHZTWlJQSVE5YWNIb3RYb2JraDQzRnB2Y0pvUFFZdVFqTWhGNmR3T0ZJemY2aW9MeE5Lc2JxbU9CX3oycnVBazcxNkdHZm5HZmVRSkxmTUdKQQ?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "title_original": "Seoul stocks down for 3rd day amid inflation worries",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7b298670465a9b8"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "\"With the weak yen and rising prices...\" Family trip to Hawaii → Save money on food Cocorico Endo's wife confesses \"Airfare was also expensive\" (ENCOUNT)",
@@ -23985,23 +24037,6 @@
    "live_wire": false,
    "manual": false,
    "id": "692e2cfaeecf7982"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Seoul stocks down for 3rd day amid inflation worries",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RVHZTWlJQSVE5YWNIb3RYb2JraDQzRnB2Y0pvUFFZdVFqTWhGNmR3T0ZJemY2aW9MeE5Lc2JxbU9CX3oycnVBazcxNkdHZm5HZmVRSkxmTUdKQQ?oc=5",
-   "published_utc": "2026-10-08T06:40:09+00:00",
-   "title_original": "Seoul stocks down for 3rd day amid inflation worries",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7b298670465a9b8"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51893,41 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2ec9bd0a50fc2e7b"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China’s central bank pledges to expand financial market opening",
-   "url": "https://www.investing.com/news/economy-news/chinas-central-bank-pledges-to-expand-financial-market-opening-93CH-4908889",
-   "published_utc": "2026-09-21T11:46:14+00:00",
-   "title_original": "China’s central bank pledges to expand financial market opening",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a101a468f1584ca1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's central bank governor meets with foreign financial institutions",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45D0CN:0/",
-   "published_utc": "2026-09-21T11:34:14+00:00",
-   "title_original": "O presidente do banco central da China se reúne com instituições financeiras estrangeiras",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "03920aa637f2a111"
   },
   {
    "source_id": "manual_ia",

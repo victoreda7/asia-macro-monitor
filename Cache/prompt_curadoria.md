@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T03:02:41.509487+00:00
+Última coleta: 2026-10-20T03:12:43.813585+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          999
-  🇨🇳 China          901
-  🇹🇼 Taiwan         352
+  🇯🇵 Japão          1000
+  🇨🇳 China          899
+  🇹🇼 Taiwan         353
   🇰🇷 Coreia do Sul  748
 
 ## O que já está no feed (não repita)
 
+  - [japan] Is the sudden rise in interest rates in France only due to special factors? The sudden sell-off of government 
   - [japan] Bill related to consumption tax reduction on food items to be debated in the House of Representatives this aft
   - [japan] Citizens Submit a counterproposal to the consumption tax reduction bill, aiming to reduce the burden through r
   - [korea] Finance minister pledges support for global 'AI basic society'
   - [china] Offshore Yuan Extends Gains to Over 4-Year High
+  - [taiwan] Taiwan industry seeks nuclear restart and utility relief amid energy costs boom
   - [japan] Japan's Nikkei falls as higher yields, inflation fears weigh
   - [china] China Likely on Track to Hit Annual Growth Target — Market Talk
   - [japan] Japan futures rise as rains squeeze Thai supply, yen slips
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] The 1.2L mild hybrid is lighter than the numerical value... Why Jeep's new "Compass", the first redesign in 9 
   - [china] Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com
   - [japan] BOJ spies a chance to pivot to sustaining inflation as 2% goal nears
-  - [korea] Agriculture Ministry eyes legal action over egg import, farmland claims
-  - [china] Goldman Sachs raises copper forecast as US-China competition tightens supply
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T03:02:41+00:00",
+      "published_utc": "2026-10-20T03:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
