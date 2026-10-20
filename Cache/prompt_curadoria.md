@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T19:57:04.625635+00:00
+Última coleta: 2026-10-20T20:02:42.293277+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1007
@@ -56,7 +56,7 @@ Total: 3000 manchetes
   - [japan] Dollar surrenders gains as record Japanese bond auction sparks Yen rally
   - [china] Chinese Hybrid Import Cap Offers Relief to European Carmakers — Market Talk
   - [china] Cssc Offshore & Marine Engineering Says 9-Month New Orders Totalled 35.8 Billion Yuan
-  - [china] China's Strong 3Q Growth Rules out Additional Stimulus — Market Talk
+  - [china] PBOC Faces Multi-Month Road to New Rate Anchor, Analysts Say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T19:57:04+00:00",
+      "published_utc": "2026-10-20T20:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
