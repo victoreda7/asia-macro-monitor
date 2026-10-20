@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T09:02:44.386735+00:00",
- "collected_at_utc": "2026-10-20T09:02:44.386735+00:00",
+ "generated_at_utc": "2026-10-20T09:12:44.997987+00:00",
+ "collected_at_utc": "2026-10-20T09:12:44.997987+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1000,
-  "china": 899,
-  "taiwan": 360,
+  "china": 900,
+  "taiwan": 359,
   "korea": 741
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T06:48:00+00:00"
+   "newest": "2026-10-20T06:11:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T04:00:30+00:00"
+   "newest": "2026-10-20T08:13:59+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T09:41:38+00:00"
+   "newest": "2026-10-20T08:35:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T17:49:59+09:00"
+   "newest": "2026-10-20T18:11:29+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T17:50:19+09:00"
+   "newest": "2026-10-20T18:04:57+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T09:02:05+00:00"
+   "newest": "2026-10-20T09:11:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-20T15:33:00+09:00"
+   "newest": "2026-10-20T18:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,8 +344,25 @@
  ],
  "items": [
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Central Bank Likely to Hold Policy Rate Steady for Rest of 2026 — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261020001665:0-china-s-central-bank-likely-to-hold-policy-rate-steady-for-rest-of-2026-market-talk/",
+   "published_utc": "2026-10-20T09:03:00+00:00",
+   "title_original": "China's Central Bank Likely to Hold Policy Rate Steady for Rest of 2026 — Market Talk",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5870c4840f7e2120"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:59+00:00",
@@ -359,7 +376,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -823,6 +840,24 @@
    "live_wire": true,
    "manual": false,
    "id": "e7891732b57664bb"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
+   "published_utc": "2026-10-20T06:49:27+00:00",
+   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dbbecc69c06d83e"
   },
   {
    "source_id": "tradingview_live",
@@ -1664,23 +1699,6 @@
    "id": "0a971abada2c8ef7"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Taiwan dollar weakens most among muted Asian currencies",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46601Q:0-taiwan-dollar-weakens-most-among-muted-asian-currencies/",
-   "published_utc": "2026-10-20T02:25:21+00:00",
-   "title_original": "Taiwan dollar weakens most among muted Asian currencies",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fbd05f513d7d73e9"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Samsung Electronics and SK Hynix, which had risen by recovering some of the recent declines the prev..",
@@ -1753,7 +1771,7 @@
    "source_name": "Bloomberg.com",
    "title_en": "Japan’s Katayama Vows Fiscal Prudence on Defense Funding",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUEzMnZfWGpaOVV6TUFuMi1TVFJObEFhN3hFYnRDaFU2dnJLbENVT0d3bmtHeVpGUEdXaWNiVHcxZjdVT2R0MmozRzJ2WkFRSXNyMjJuUEhOVno3LUlaa0pweEdOeWg4eC1YelJTUk5naTNNbmRzTWlPSU1GNDl1VF9USlRISUp3b252OWlUMk91V1M0NjI1VXdGNHotTER5LVdnM21TVmc1dUU?oc=5",
-   "published_utc": "2026-10-20T01:43:00+00:00",
+   "published_utc": "2026-10-20T01:43:07+00:00",
    "title_original": "Japan’s Katayama Vows Fiscal Prudence on Defense Funding",
    "region": "japan",
    "topics": [
@@ -2441,8 +2459,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -2456,7 +2474,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -2559,6 +2577,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c480d192b0a95eb3"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China's economic growth picks up as exports boom, consumers balk",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI?oc=5",
+   "published_utc": "2026-10-19T10:50:37+00:00",
+   "title_original": "China's economic growth picks up as exports boom, consumers balk",
+   "region": "china",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f50dbd1d5aa70e31"
   },
   {
    "source_id": "tradingview_live",
@@ -3679,24 +3715,6 @@
    "id": "9ecab08771b3d7ab"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China's economic growth picks up as exports boom, consumers balk",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI?oc=5",
-   "published_utc": "2026-10-19T02:22:00+00:00",
-   "title_original": "China's economic growth picks up as exports boom, consumers balk",
-   "region": "china",
-   "topics": [
-    "activity",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f50dbd1d5aa70e31"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "China Q3 GDP grows 4.5%, slightly more than expected",
@@ -4468,24 +4486,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f280bdc6198f54b6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
-   "published_utc": "2026-10-18T19:50:44+00:00",
-   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dbbecc69c06d83e"
   },
   {
    "source_id": "tradingview_live",
@@ -6498,8 +6498,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -6513,7 +6513,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",

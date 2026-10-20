@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T09:02:44.386735+00:00
+Última coleta: 2026-10-20T09:12:44.997987+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1000
-  🇨🇳 China          899
-  🇹🇼 Taiwan         360
+  🇨🇳 China          900
+  🇹🇼 Taiwan         359
   🇰🇷 Coreia do Sul  741
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Central Bank Likely to Hold Policy Rate Steady for Rest of 2026 — Market Talk
   - [japan] Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible
   - [taiwan] BASF Signs Semiconductor Agreement With Taiwan to Expand Materials Site
   - [taiwan] Taiwan September export orders hit record value on solid AI demand
@@ -45,6 +46,7 @@ Total: 3000 manchetes
   - [taiwan] Key facts: NVIDIA Sees $108B Q3 Sales; 104‑Qubit Sim; TSMC 3nm NVHBM
   - [japan] The prefecture's economy is on a "moderate recovery trend", Bank of Japan's Councilor Koeda gives a speech in 
   - [korea] South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns
+  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [china] China resumes sulphuric acid exports to copper king Chile after three-month halt
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief By Reuters
   - [korea] Kospi Snaps Two-Session Winning Streak; Chip, Defense Stocks Retreat
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan consumption tax cut bill on food goes to Lower House
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions report
-  - [china] Central Bank: Will carry out overnight reverse repurchase operations from October 21 to November 2
-  - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T09:02:44+00:00",
+      "published_utc": "2026-10-20T09:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
