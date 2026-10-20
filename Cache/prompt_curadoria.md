@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T09:12:44.997987+00:00
+Última coleta: 2026-10-20T09:22:43.822738+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1000
-  🇨🇳 China          900
-  🇹🇼 Taiwan         359
-  🇰🇷 Coreia do Sul  741
+  🇯🇵 Japão          999
+  🇨🇳 China          901
+  🇹🇼 Taiwan         358
+  🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Strong 3Q Growth Rules out Additional Stimulus — Market Talk
+  - [china] China solar exports to Middle East, Southeast Asia surge in September but Europe, Asia weigh on total
   - [china] China's Central Bank Likely to Hold Policy Rate Steady for Rest of 2026 — Market Talk
+  - [china] Foreign holdings of China's onshore yuan bonds unchanged at end-September
+  - [korea] Bank of Korea raises interest rates twice in a row... Focus on “Will we upload it again” vs. “Will we freeze i
   - [japan] Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible
   - [taiwan] BASF Signs Semiconductor Agreement With Taiwan to Expand Materials Site
   - [taiwan] Taiwan September export orders hit record value on solid AI demand
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief
   - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters
   - [china] The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consec
-  - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
-  - [japan] Japan consumption tax cut bill on food goes to Lower House
-  - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend
-  - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T09:12:45+00:00",
+      "published_utc": "2026-10-20T09:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

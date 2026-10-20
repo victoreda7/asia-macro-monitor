@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T09:12:44.997987+00:00",
- "collected_at_utc": "2026-10-20T09:12:44.997987+00:00",
+ "generated_at_utc": "2026-10-20T09:22:43.822738+00:00",
+ "collected_at_utc": "2026-10-20T09:22:43.822738+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1000,
-  "china": 900,
-  "taiwan": 359,
-  "korea": 741
+  "japan": 999,
+  "china": 901,
+  "taiwan": 358,
+  "korea": 742
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T07:11:11+00:00"
+   "newest": "2026-10-20T07:16:29+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T08:35:00+00:00"
+   "newest": "2026-10-19T09:41:38+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T09:11:37+00:00"
+   "newest": "2026-10-20T09:20:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T07:06:46+00:00"
+   "newest": "2026-10-20T08:52:12+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's Strong 3Q Growth Rules out Additional Stimulus — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261020001720:0-china-s-strong-3q-growth-rules-out-additional-stimulus-market-talk/",
+   "published_utc": "2026-10-20T09:14:00+00:00",
+   "title_original": "China's Strong 3Q Growth Rules out Additional Stimulus — Market Talk",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "951f4aeebad59665"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China solar exports to Middle East, Southeast Asia surge in September but Europe, Asia weigh on total",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4660GU:0-china-solar-exports-to-middle-east-southeast-asia-surge-in-september-but-europe-asia-weigh-on-total/",
+   "published_utc": "2026-10-20T09:12:53+00:00",
+   "title_original": "China solar exports to Middle East, Southeast Asia surge in September but Europe, Asia weigh on total",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ed523d6f33daa2b4"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -359,6 +393,40 @@
    "live_wire": true,
    "manual": false,
    "id": "5870c4840f7e2120"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Foreign holdings of China's onshore yuan bonds unchanged at end-September",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45A068:0-foreign-holdings-of-china-s-onshore-yuan-bonds-unchanged-at-end-september/",
+   "published_utc": "2026-10-20T09:00:17+00:00",
+   "title_original": "Foreign holdings of China's onshore yuan bonds unchanged at end-September",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d66e7d320efde76e"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제",
+   "title_en": "Bank of Korea raises interest rates twice in a row... Focus on “Will we upload it again” vs. “Will we freeze it?”",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1meHNaNjNRMXVXbUFFMTh2U0R5azhIcTJsc2U5Y01XMHB4WUI1SUg5eXQ3NV95Mm50XzhaNUo1TEd6NnFteG5Rek9CVkdVREl0cGRyWg?oc=5",
+   "published_utc": "2026-10-20T08:52:12+00:00",
+   "title_original": "2번 연속 금리 올린 한국은행…“또 올리나” vs “동결하나” 관심 집중",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ce287f83317cfd9d"
   },
   {
    "source_id": "nhk_economy",
@@ -1368,6 +1436,23 @@
    "id": "15be55a65b6531ba"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Invezz",
+   "title_en": "Samsung e SK Hynix caem apesar da alta dos chips dos EUA — por que a Coreia ainda vende?",
+   "url": "https://www.tradingview.com/news/invezz:234c7931ebc81:0/",
+   "published_utc": "2026-10-20T04:11:53+00:00",
+   "title_original": "Samsung e SK Hynix caem apesar da alta dos chips dos EUA — por que a Coreia ainda vende?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "33d315f781a9e619"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Bill related to consumption tax reduction on food items to be debated in the House of Representatives this afternoon",
@@ -1613,23 +1698,6 @@
    "id": "897b5ebe8924070e"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Offshore Yuan Extends Gains to Over 4-Year High",
-   "url": "https://www.tradingview.com/news/te_news:593272:0-offshore-yuan-extends-gains-to-over-4-year-high/",
-   "published_utc": "2026-10-20T02:37:00+00:00",
-   "title_original": "Offshore Yuan Extends Gains to Over 4-Year High",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "86aa8550225990a6"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan industry seeks nuclear restart and utility relief amid energy costs boom",
@@ -1645,58 +1713,6 @@
    "live_wire": false,
    "manual": false,
    "id": "528b190d812d7f72"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's Nikkei falls as higher yields, inflation fears weigh",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46604P:0-japan-s-nikkei-falls-as-higher-yields-inflation-fears-weigh/",
-   "published_utc": "2026-10-20T02:29:28+00:00",
-   "title_original": "Japan's Nikkei falls as higher yields, inflation fears weigh",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "16691ee6d1eb290d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China Likely on Track to Hit Annual Growth Target — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261019008755:0-china-likely-on-track-to-hit-annual-growth-target-market-talk/",
-   "published_utc": "2026-10-20T02:29:00+00:00",
-   "title_original": "China Likely on Track to Hit Annual Growth Target — Market Talk",
-   "region": "china",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2deacc24cc05908a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan futures rise as rains squeeze Thai supply, yen slips",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46604W:0-japan-futures-rise-as-rains-squeeze-thai-supply-yen-slips/",
-   "published_utc": "2026-10-20T02:26:38+00:00",
-   "title_original": "Japan futures rise as rains squeeze Thai supply, yen slips",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0a971abada2c8ef7"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1771,7 +1787,7 @@
    "source_name": "Bloomberg.com",
    "title_en": "Japan’s Katayama Vows Fiscal Prudence on Defense Funding",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUEzMnZfWGpaOVV6TUFuMi1TVFJObEFhN3hFYnRDaFU2dnJLbENVT0d3bmtHeVpGUEdXaWNiVHcxZjdVT2R0MmozRzJ2WkFRSXNyMjJuUEhOVno3LUlaa0pweEdOeWg4eC1YelJTUk5naTNNbmRzTWlPSU1GNDl1VF9USlRISUp3b252OWlUMk91V1M0NjI1VXdGNHotTER5LVdnM21TVmc1dUU?oc=5",
-   "published_utc": "2026-10-20T01:43:07+00:00",
+   "published_utc": "2026-10-20T01:43:00+00:00",
    "title_original": "Japan’s Katayama Vows Fiscal Prudence on Defense Funding",
    "region": "japan",
    "topics": [
@@ -1868,6 +1884,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c372e8f99366b546"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Takaichi Reaffirms No Deficit Bonds to Fund Food Sales Tax Cut",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWFLYk5WcWNBMU5RS0hyeWdQcWVwSWJfYWI5TWVjRGFLNzViVGNzNll5YUQtYl8xenBoTDBtZlZqOEJqNkZHRnBjR2FQckRHMy1YTlM2OHdPV0xsT2Q3VElSSDhDU3FkM3dtOGprc3NuczFoTGJJb3NFdkh1Y1ZkTEI5OFlaN0lUcnh0VzQ1QW9xel9sNEtBV25JOExDaXhBSGI3SUlyNm1YbWpUNXZiSks0UQ?oc=5",
+   "published_utc": "2026-10-20T01:04:00+00:00",
+   "title_original": "Takaichi Reaffirms No Deficit Bonds to Fund Food Sales Tax Cut",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d6cdf4f7ad1c9df3"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -24731,23 +24764,6 @@
    "id": "977646305c281811"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ upgrades economic view of 2 regions on strong AI demand",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hTEItZmtMUGRHNmFESnIzcDQxQ0JLbTVyWEtqRzJJdFQzTXg4VGtFZXJQODE0bGtldFFNbXhuS3hMRTBsbzhsd1BRUU1BeW51UExXRFpVeldOQQ?oc=5",
-   "published_utc": "2026-10-08T09:15:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ upgrades economic view of 2 regions on strong AI demand",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "af9d5f6a6aa6b6e1"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "Yen market price falls slightly; yen sells due to inflation concerns",
@@ -25109,6 +25125,23 @@
    "live_wire": false,
    "manual": false,
    "id": "43284e5f300c83cb"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ upgrades economic view of 2 regions on strong AI demand",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hTEItZmtMUGRHNmFESnIzcDQxQ0JLbTVyWEtqRzJJdFQzTXg4VGtFZXJQODE0bGtldFFNbXhuS3hMRTBsbzhsd1BRUU1BeW51UExXRFpVeldOQQ?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: BOJ upgrades economic view of 2 regions on strong AI demand",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "af9d5f6a6aa6b6e1"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -46935,23 +46968,6 @@
    "id": "d947bafecb95c188"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Dollar briefly falls below 157 yen after Japan-U.S. financial chief talks",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNkNaaUs1bVFZc3gwY1NlZUV4RllnVV9pVzA3VXFtdTNtcVlta1NGazg4S3J6MGlFVTlIZkNRdGxPN3FtNTUzUTlaa2pEMWZpV1N1a24tY1pZQQ?oc=5",
-   "published_utc": "2026-09-25T13:49:00+00:00",
-   "title_original": "BREAKING NEWS: Dollar briefly falls below 157 yen after Japan-U.S. financial chief talks",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bf2ca8fde690801c"
-  },
-  {
    "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Details on US, China trade talks to come on Monday, says Greer",
@@ -47366,6 +47382,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1f40ec1d9255e8d6"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Dollar briefly falls below 157 yen after Japan-U.S. financial chief talks",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNkNaaUs1bVFZc3gwY1NlZUV4RllnVV9pVzA3VXFtdTNtcVlta1NGazg4S3J6MGlFVTlIZkNRdGxPN3FtNTUzUTlaa2pEMWZpV1N1a24tY1pZQQ?oc=5",
+   "published_utc": "2026-09-25T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Dollar briefly falls below 157 yen after Japan-U.S. financial chief talks",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf2ca8fde690801c"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51898,40 +51931,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e9ff1c4de125f306"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "서울뉴스통신",
-   "title_en": "If the base interest rate rises by 0.25%p, the interest burden increases by 7 trillion won... Beware of vulnerable borrowers as financial imbalance eases",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GelZtSmJOSDFTS3RkOXdXVnJwbXlRSmpQU0s2ajl2ckFFOFFsVVg1ektzSXBGR0RXajNma080WElueGpBc2NQTTJsWEprZUotRTl2MjlUd2dkMWJkMUY5T0Q5Ynk1YzRjM2ZN?oc=5",
-   "published_utc": "2026-09-22T06:42:22+00:00",
-   "title_original": "기준금리 0.25%p 오르면 이자 부담 7조원 증가…금융불균형 완화 속 취약차주 경계",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "75f3525a03a43e53"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan virtual asset law to help lower supply chain transaction costs",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYzBUamE0ZXNVblZ1ejJwTThYOGhTckNsMHJGV0t6aUNFaHd2dDg2TDZkSmMwM0Z4RFZ2ZjZjQVFjTG4ySjNNa0JrVkthaWh0aF9LaE1ESXVxeEN0alJTMFFkdVI5RlZNVEw4TjYzQm9TU0t6WS1JZjVwajVuZjdDV0J6Y250Q3FXU3Fr?oc=5",
-   "published_utc": "2026-09-22T06:41:16+00:00",
-   "title_original": "Taiwan virtual asset law to help lower supply chain transaction costs",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7f098762ef11c6cd"
   },
   {
    "source_id": "manual_ia",
