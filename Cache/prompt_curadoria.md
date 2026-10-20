@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T15:32:43.013928+00:00
+Última coleta: 2026-10-20T15:42:50.964088+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1005
-  🇨🇳 China          902
+  🇯🇵 Japão          1006
+  🇨🇳 China          901
   🇹🇼 Taiwan         355
   🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [korea] Interest rates likely to rise further after being frozen tomorrow
+  - [japan] Preview: Forecasters See Japanese Inflation Picking Up Steam amid Rising Energy Costs, Weak Yen
   - [japan] More than 23,000 cases of information may be leaked in the country's energy-saving housing project
   - [korea] BYD surges to No. 4 in Korea's imported car market
   - [korea] What's the future of AI stock? SK Hynix shares crash to lowest level since Apr as sell-off deepens; down 31% i
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan September export orders hit record value on solid AI demand
   - [taiwan] U.S. dollar closes sharply higher on Taipei forex market
   - [china] China, Hong Kong shares weaken as stable growth eases stimulus bets
-  - [korea] The import concentration is intensifying from the single-person media industry such as YouTubers to
-  - [korea] [Photo] Deputy Finance Minister Hearing On-Site Opinion on 'Coin Taxation'
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T15:32:43+00:00",
+      "published_utc": "2026-10-20T15:42:51+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T15:32:43.013928+00:00",
- "collected_at_utc": "2026-10-20T15:32:43.013928+00:00",
+ "generated_at_utc": "2026-10-20T15:42:50.964088+00:00",
+ "collected_at_utc": "2026-10-20T15:42:50.964088+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1005,
-  "china": 902,
+  "japan": 1006,
+  "china": 901,
   "taiwan": 355,
   "korea": 738
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T09:47:21+00:00"
+   "newest": "2026-10-20T12:38:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T15:32:01+00:00"
+   "newest": "2026-10-20T15:42:18+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,45 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T08:52:12+00:00"
+   "newest": "2026-10-20T15:32:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "조선일보",
+   "title_en": "Interest rates likely to rise further after being frozen tomorrow",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUR6RU9KdlZ5YjdkVU00RHp2TmdNVE9tb3JRaGhXSlpwZm9mRVpBYVh6MTZCU0E1TGhQUzR4cDJCdnVlQVhWdHlCVnBKWEhCMzNXUVRJMmVFM3V5NllPUHlWRXNxZjQ4TC05MllLYjhwUmtLNWdEbjdFdzBIeHFsaWJ3Wm8yOUhXa0VTTERn?oc=5",
+   "published_utc": "2026-10-20T15:32:00+00:00",
+   "title_original": "내일 금리 동결 후 추가 인상 나설 듯",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "28f4d13f3c82b69d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "Preview: Forecasters See Japanese Inflation Picking Up Steam amid Rising Energy Costs, Weak Yen",
+   "url": "https://www.tradingview.com/news/macenews:e91352fe2094b:0-preview-forecasters-see-japanese-inflation-picking-up-steam-amid-rising-energy-costs-weak-yen/",
+   "published_utc": "2026-10-20T15:26:00+00:00",
+   "title_original": "Preview: Forecasters See Japanese Inflation Picking Up Steam amid Rising Energy Costs, Weak Yen",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "41775c95c34c96e7"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -463,8 +498,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -478,7 +513,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -909,8 +944,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -924,7 +959,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -1439,23 +1474,6 @@
    "live_wire": false,
    "manual": false,
    "id": "76c60f3b5838b477"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46606Y:0-south-korean-shares-post-more-than-6-month-closing-low-as-chipmakers-fall-on-ai-concerns/",
-   "published_utc": "2026-10-20T06:56:59+00:00",
-   "title_original": "South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e7891732b57664bb"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2943,8 +2961,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -2958,7 +2976,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -7037,8 +7055,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -7052,7 +7070,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -11474,10 +11492,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
+   "source_name": "Investing.com UK",
    "title_en": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0dpcXNnYnNnbWtWakd2R3VrNnpxUHFsRWJyN1pLZ3BacTkyb0FfVUtUM3dvRlZqckZ4aXRlVGZvdHY2S09nWDlzVk1POWstNmRwRlNvSTlGbkYybjAxTnF0akg4ZmI3UWh1RFlJaWp4cnV2MEJCWGhKM2ZnN3doRXpUNmZKaEk2YlhhNWNjSXFkMWFVME5xRFVHTUF4ZFpFUjg1QXVmZmE1Y2hjWU1oOXd1SXdzbno3bVB6RW1B?oc=5",
-   "published_utc": "2026-10-15T04:25:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXM4RzlvNjh2NUgyeFQtMWlxT2gza0VvZU5JVDVBVzVXRS1kZVZEc2QzT1RMazNJWThlaWRWckFOd0JNRTdmQmp4UmlHWmUwTlJ3VDhyanZVaU9WVFJlTzYzUUVaeVBrRkdxaWFzUkJfd0tXdTNfSlVCUy1sOXdVdEs1cktiZFJpbW9QbHBsNjFXazljTFhaVGJ5RWN6RVpMQVRQRExYWVljcjZkbU5LbDZSU1JVYUdENzBiQjBn?oc=5",
+   "published_utc": "2026-10-15T04:06:00+00:00",
    "title_original": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
    "region": "japan",
    "topics": [
@@ -11488,7 +11506,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2b3965436e525ef4"
+   "id": "dfae25f1e6df382f"
   },
   {
    "source_id": "investing_live",
@@ -13524,23 +13542,6 @@
    "id": "6c198cd4ab73c060"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0tDR2tWdzFlcUZCRHJUYU4ySVl5OXE5aTZCV09pM1Q2OXM2NXB3UU1INUtHdExQRV9RTlEtU2NFZUtST1d0bUQzXzZLNW8wS1RjQjZTZ044WEhWVDAwbjllaFFodU9EbjNpeTlERTZ1NThLb21RMkhhWjQtRUFsNzN6RWMzLUhTMmRFczVtLXRPYzRPVVQ5Z3RPV0NVVVRWeURXdTFuYmlBdk1JYlVtTE9uZw?oc=5",
-   "published_utc": "2026-10-14T13:17:26+00:00",
-   "title_original": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "721a8861261fd171"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "French cosmetics facing delays clearing China customs, says industry association",
@@ -13590,6 +13591,23 @@
    "live_wire": false,
    "manual": false,
    "id": "31aacaa8a647eacb"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONjRnNHRJRUJSa1Y4STVJWEdkVS11OEZPQU1FWElYbXBPTnhjalRHNHVGVGtoQjdjbEZGQ2E3SFJUXzFWcl9YMDlnZVpoMVN3YzRzWlR4cURrZ2ZDby1aaU0xeUZ4N29GZXVRRVQ1Z1JGVGJtSjZScDhuYVhvbVNLWXp4NFFNYTZhZ2FUS0tpUUgyWmxpZWMzaW8wUkZNUlYzQVJ2dnRpWjJ5by1ZUGVyalYxMA?oc=5",
+   "published_utc": "2026-10-14T13:06:00+00:00",
+   "title_original": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9fd738760c73e3d7"
   },
   {
    "source_id": "investing_live",
@@ -44503,9 +44521,9 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
+   "source_name": "Investing.com Nigeria",
    "title_en": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0ZUakhzWWJoellmNEswN0xTNGxwMVMzRl9RNlN5SXVrbzJ2TVV2RkxEWk5VX1dnT3JxRS1BV3FXSVY4SHNzZ2d6eTFBQmR6T2xBV05ld2JlcVR3UFA0eXdHV3ExRlBORDJPTFdpZ21pOUJhamhkdUdnZWFvWVRRd25tZC1BZWs4QjRrZEx6WXpqeG9ocUNHUmNyX0E4T3ItVmQ3NXFkYy1ReURjXzA2aG5yUWVLdFh5eDFJaA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeWRDYW1UTzZhTnJsNE02bDFKcDVIZmtvT19HU1VPRHBRM1c2MktwdnI1a1MyNndFWFVvc1BKTkpzZTNlUmRvSFBjaEh0LTRCQzlyYW9vV0NtaFdLdlBnQUhRamM5bEhVc2swXzJma0dCTFdhdTdNOGhVczhMZV82WXBFMnMtODNYYzBIaDRsQkhsTHFrdW5vR0FKZ1lFUzRZTVBjZ2Y3S21nazVZWHRmV1NneDBTeDJZTXdWbw?oc=5",
    "published_utc": "2026-09-28T07:00:00+00:00",
    "title_original": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
    "region": "japan",
@@ -44516,7 +44534,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "92d721f54bcd14ff"
+   "id": "7fa221f9b078cd75"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51923,23 +51941,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2ededfe840294561"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Ascensão industrial da China atinge duramente manufatura alemã, constata BCE",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45E0KQ:0/",
-   "published_utc": "2026-09-22T12:28:29+00:00",
-   "title_original": "Ascensão industrial da China atinge duramente manufatura alemã, constata BCE",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "458c295b14dc9b51"
   },
   {
    "source_id": "manual_ia",
