@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T01:32:43.459054+00:00
+Última coleta: 2026-10-20T01:42:42.496722+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1000
-  🇨🇳 China          898
+  🇯🇵 Japão          1001
+  🇨🇳 China          897
   🇹🇼 Taiwan         351
   🇰🇷 Coreia do Sul  751
 
 ## O que já está no feed (não repita)
 
+  - [japan] Economics and Finance Minister Jouchi ``attends this month's Bank of Japan meeting if it suits him'', once aga
   - [china] Preliminary calculation results of GDP in the third quarter of 2026
   - [japan] Dollar and euro drift, yen slips as markets seek direction
   - [china] China Holds LPR Rates at Record Lows for 17th Month
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the fu
   - [korea] Samsung Is Turning to Rival TSMC for Nvidia's Next AI Memory
   - [korea] Kr Motors To Divest Real Estate Worth 47.5 Billion Won
-  - [taiwan] AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T01:32:43+00:00",
+      "published_utc": "2026-10-20T01:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
