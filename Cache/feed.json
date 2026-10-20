@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T04:32:42.890202+00:00",
- "collected_at_utc": "2026-10-20T04:32:42.890202+00:00",
+ "generated_at_utc": "2026-10-20T04:42:42.985676+00:00",
+ "collected_at_utc": "2026-10-20T04:42:42.985676+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 999,
-  "china": 899,
+  "japan": 998,
+  "china": 900,
   "taiwan": 354,
   "korea": 748
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-16T05:06:00+00:00"
+   "newest": "2026-10-20T04:32:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-20T13:27:54+00:00"
+   "newest": "2026-10-20T13:40:01+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T04:07:08+00:00"
+   "newest": "2026-10-20T00:51:11+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T04:30:00+00:00"
+   "newest": "2026-10-20T04:42:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,22 +344,21 @@
  ],
  "items": [
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "JAPAN consumption tax cut bill on food goes to Lower House",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
-   "published_utc": "2026-10-20T04:07:08+00:00",
-   "title_original": "JAPAN consumption tax cut bill on food goes to Lower House",
-   "region": "japan",
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China and Hong Kong shares weaken as stable growth eases stimulus bets",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N466081:0-china-and-hong-kong-shares-weaken-as-stable-growth-eases-stimulus-bets/",
+   "published_utc": "2026-10-20T04:40:18+00:00",
+   "title_original": "China and Hong Kong shares weaken as stable growth eases stimulus bets",
+   "region": "china",
    "topics": [
-    "fiscal",
-    "activity"
+    "fiscal"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": false,
+   "live_wire": true,
    "manual": false,
-   "id": "a8ed6db95fd49b94"
+   "id": "15be55a65b6531ba"
   },
   {
    "source_id": "nhk_politics",
@@ -897,6 +896,24 @@
    "live_wire": true,
    "manual": false,
    "id": "9ad2e007004925dc"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "JAPAN consumption tax cut bill on food goes to Lower House",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
+   "published_utc": "2026-10-20T00:51:11+00:00",
+   "title_original": "JAPAN consumption tax cut bill on food goes to Lower House",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a8ed6db95fd49b94"
   },
   {
    "source_id": "tradingview_live",
@@ -1471,8 +1488,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -1486,7 +1503,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "tradingview_live",
@@ -5493,8 +5510,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -5508,7 +5525,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -51914,24 +51931,6 @@
    "live_wire": false,
    "manual": false,
    "id": "877893f8fb582a03"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "If Japan intervenes to buy yen again, it will be a good opportunity to sell yen, but some are skeptical about the Bank of Japan becoming hawkish - UBS (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmZsMmZtbU54cUNkVW1xdnlDWG9sS1dGTWtidWhpWjVoRlJPR0pGc09ucElMLTV6R2h2Sk1BVy1MSnRPTXdqcXN6ZjhHX0lxZ2E3N1E0alZha2ZoS2NSdEpFeXE2LURmNGg2bVRWTmlqUkhTT2dOVVpwRmRXU1JDMFNndUt3a2Y2?oc=5",
-   "published_utc": "2026-09-21T17:09:56+00:00",
-   "title_original": "日本が再び円買い介入なら円売りの好機、日銀タカ派化に懐疑的－UBS（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c341393dd4756f1e"
   },
   {
    "source_id": "manual_ia",
