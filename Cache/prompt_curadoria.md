@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T02:52:43.259180+00:00
+Última coleta: 2026-10-20T03:02:41.509487+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          999
@@ -18,13 +18,13 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] Bill related to consumption tax reduction on food items to be debated in the House of Representatives this aft
+  - [japan] Citizens Submit a counterproposal to the consumption tax reduction bill, aiming to reduce the burden through r
   - [korea] Finance minister pledges support for global 'AI basic society'
   - [china] Offshore Yuan Extends Gains to Over 4-Year High
   - [japan] Japan's Nikkei falls as higher yields, inflation fears weigh
   - [china] China Likely on Track to Hit Annual Growth Target — Market Talk
   - [japan] Japan futures rise as rains squeeze Thai supply, yen slips
   - [taiwan] Taiwan dollar weakens most among muted Asian currencies
-  - [japan] Citizens Submit a counterproposal to the consumption tax reduction bill, aiming to reduce the burden through r
   - [china] China's September US soybean imports rebound from zero a year earlier, data shows
   - [japan] Japan yet to decide on defence budget funding, finance minister says
   - [china] China's Key Lending Rates Kept Unchanged as PBOC Weighs Reforms
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T02:52:43+00:00",
+      "published_utc": "2026-10-20T03:02:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
