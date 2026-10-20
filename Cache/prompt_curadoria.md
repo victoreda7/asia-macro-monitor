@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T02:12:47.330540+00:00
+Última coleta: 2026-10-20T02:22:43.899660+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1000
+  🇯🇵 Japão          1001
   🇨🇳 China          900
   🇹🇼 Taiwan         350
-  🇰🇷 Coreia do Sul  750
+  🇰🇷 Coreia do Sul  749
 
 ## O que já está no feed (não repita)
 
+  - [japan] Citizens Submit a counterproposal to the consumption tax reduction bill, aiming to reduce the burden through r
   - [china] China's September US soybean imports rebound from zero a year earlier, data shows
   - [japan] Japan yet to decide on defence budget funding, finance minister says
   - [china] China's Key Lending Rates Kept Unchanged as PBOC Weighs Reforms
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Yuan Ranks Third in Global Payments Under Broader Measure, PBOC Chief Says
   - [korea] SK hynix launches W2tr financing program to bolster chip suppliers
   - [japan] Preview: Forecasters See Japanese Exports, Imports Continuing to Surge in September Report as Tech Spending Ri
-  - [china] Euro falls amid turmoil in France, Australian dollar appreciates as China grows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T02:12:47+00:00",
+      "published_utc": "2026-10-20T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
