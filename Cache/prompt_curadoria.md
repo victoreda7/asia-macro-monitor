@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T02:32:44.571628+00:00
+Última coleta: 2026-10-20T02:42:44.353864+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1000
+  🇯🇵 Japão          999
   🇨🇳 China          901
   🇹🇼 Taiwan         352
-  🇰🇷 Coreia do Sul  747
+  🇰🇷 Coreia do Sul  748
 
 ## O que já está no feed (não repita)
 
+  - [korea] Finance minister pledges support for global 'AI basic society'
   - [japan] Japan's Nikkei falls as higher yields, inflation fears weigh
   - [china] China Likely on Track to Hit Annual Growth Target — Market Talk
   - [japan] Japan futures rise as rains squeeze Thai supply, yen slips
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Agriculture Ministry eyes legal action over egg import, farmland claims
   - [china] Goldman Sachs raises copper forecast as US-China competition tightens supply
   - [japan] Advantage Partners Readies Japan's First Big Forestry Investment Fund, Nikkei Reports
-  - [japan] Advantage Partners readies Japan's first big forestry investment fund
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T02:32:44+00:00",
+      "published_utc": "2026-10-20T02:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
