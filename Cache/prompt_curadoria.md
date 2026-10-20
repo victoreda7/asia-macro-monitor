@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T07:52:43.321242+00:00
+Última coleta: 2026-10-20T08:02:43.372411+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          998
   🇨🇳 China          903
-  🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  743
+  🇹🇼 Taiwan         355
+  🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
+  - [korea] Government R&D budget at 40 trillion won ... 80% of equipment is foreign-made
   - [taiwan] Indonesian shares recover after hitting six-year low; Taiwan dollar depreciates
+  - [china] The People's Bank of China will withdraw a net 65 billion yuan on October 20 and will carry out overnight reve
   - [china] China's Australian coal imports surge to six-year high
   - [japan] Stock price temporarily fell by more than 1,100 yen due to rise in crude oil futures prices
   - [korea] Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual fre
@@ -29,7 +31,7 @@ Total: 3000 manchetes
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief By Reuters
   - [korea] Kospi Snaps Two-Session Winning Streak; Chip, Defense Stocks Retreat
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief
-  - [china] The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consec
+  - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions report
   - [china] Central Bank: Will carry out overnight reverse repurchase operations from October 21 to November 2
@@ -44,7 +46,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Shares Appear Undervalued Amid AI Financing Concerns — Market Talk
   - [korea] 93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rat
   - [korea] BYD surges to No. 4 in Korea's imported car market
-  - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
   - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
   - [china] The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a
   - [china] Chinese Consumption Likely Still Faces Challenges — Market Talk
@@ -53,10 +54,9 @@ Total: 3000 manchetes
   - [taiwan] TSMC plans 3nm semiconductor manufacturing at second Japan factory, investment to exceed USD 23 billion
   - [china] For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day
   - [china] China and Hong Kong shares weaken as stable growth eases stimulus bets
+  - [china] The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consec
   - [japan] Bill related to consumption tax reduction on food items to be debated in the House of Representatives this aft
   - [korea] Samgi America, the North American subsidiary of Samgi Energy Solutions, has won a contract to supply..
-  - [china] Yuan hits fresh high since 2022 on export growth, stronger guidance
-  - [china] The central bank has pushed a daily cap of 1 trillion yuan for overnight reverse repos and plans to gradually 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T07:52:43+00:00",
+      "published_utc": "2026-10-20T08:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
