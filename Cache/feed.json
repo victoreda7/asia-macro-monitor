@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T10:52:42.431428+00:00",
- "collected_at_utc": "2026-10-20T10:52:42.431428+00:00",
+ "generated_at_utc": "2026-10-20T11:02:43.761443+00:00",
+ "collected_at_utc": "2026-10-20T11:02:43.761443+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 999,
+  "japan": 1000,
   "china": 901,
   "taiwan": 356,
-  "korea": 744
+  "korea": 743
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T07:33:42+00:00"
+   "newest": "2026-10-20T09:54:51+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T06:32:42+00:00"
+   "newest": "2026-10-20T07:12:22+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T18:52:50+09:00"
+   "newest": "2026-10-20T19:59:50+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T06:00:05+00:00"
+   "newest": "2026-10-20T07:00:08+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T10:42:23+00:00"
+   "newest": "2026-10-20T11:01:46+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T06:36:52+00:00"
+   "newest": "2026-10-20T09:38:01+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T10:20:01+00:00"
+   "newest": "2026-10-20T10:53:12+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Prime Minister Takaichi “works to minimize burden on local governments” in consumption tax reduction bill",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261020de62451",
+   "published_utc": "2026-10-20T10:59:50+00:00",
+   "title_original": "高市首相“自治体の負担最小化に取り組む”消費税減税法案で",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "adc2a3ad3d162ed7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1028,6 +1046,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a8d3a734f1011e05"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "China warns UK of ‘firm countermeasures’ if it joins EU import curbs on EVs",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX3lSUjBWY1BZZ1oyTGxleXVIbWU4eXRaY1AxZzhPZ3VqWkphR0RyTmh0Y1RMRkZOU1RvS2NodDhQanVUNzhVd0ZzRUV2STdaZERSbjRRM0FYdVg5N0F2T3M2UG9VQ3ZtOEJfdlpNRy1xX3NYdDlzVjgyNDh3d1pDVDJDV0xRd2gxS0pmaHB0V3AxdktjUkFkZEdHcWNTM3FlQzdmVDBKTC0zRGFIZjJjMlA3NFhsTEZ5cG5sOWhUcFJxSXFaNUQzRkNrR184Z9IBzgFBVV95cUxNR1ZCWk40Z3ZZSE9mOXZYY0tZbkFqSUdBYlZtckdHZGpGaUswTVI1N0hYVS1TNno4elZucEM2U1loR0tEbHJiektvMjZVUi1ORXZVUkNHYnJmWXNDNjdXdUhDS3NmZktOTTllZGhDb1hsYzlWUm5vMzhIbS1xd2xmYnNsbHZwbGZyNFVVVGNKTDgtTXZSZlhha3hIMmltMWticEVoMnpqUEJ4UEpiOTVjYm54TUN1dlZITWlUbHJCVVlMV3F1QmNzem10SkJqdw?oc=5",
+   "published_utc": "2026-10-20T07:00:08+00:00",
+   "title_original": "China warns UK of ‘firm countermeasures’ if it joins EU import curbs on EVs",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5aa8fdba097a496d"
   },
   {
    "source_id": "tradingview_live",
@@ -51901,40 +51936,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2bc4e5cc78f84b88"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
-   "title_en": "Bank of Korea: “Raising the base interest rate contributes to alleviating financial vulnerability”",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFbXFCWUtZSGhkZ2hMTFpEUlRQRVo5QXd4QmpYTEt2eDVuU2RfY2tobDZ4NUdkamN0V2wwREFzRndQZERYbGxRYnlvNlBRVUFOLXc?oc=5",
-   "published_utc": "2026-09-22T07:52:10+00:00",
-   "title_original": "한은 \"기준금리 인상, 금융취약성 완화 기여\"",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58b0fb24471dc85f"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Alibaba Unveils New AI Chip, Calls It China’s Most Powerful",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzN4WHlXSmNOUWI0eURvTzVLYVlIb3otWEZCSmUxb0N4YzMzTlJnM2dCWVh3UXNrQlN6TW1JU3MxZnRjT3NLdG5HYVFSbFZGUFRER2FwSjZoVTd4Smh2cnlwSjhVdTJwVy1jaWplU2FaaUIwT1UtRVppUmJlWFlFNnlhbE5OY0tma0RYOVc0QTVGeWxmMkoxbkRRamxPbV8zLUtEcm1Ca3hiMEdVcnNYOGFn?oc=5",
-   "published_utc": "2026-09-22T07:51:21+00:00",
-   "title_original": "Alibaba Unveils New AI Chip, Calls It China’s Most Powerful",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4788f1419e6dd6cd"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T10:52:42.431428+00:00
+Última coleta: 2026-10-20T11:02:43.761443+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          999
+  🇯🇵 Japão          1000
   🇨🇳 China          901
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  744
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister Takaichi “works to minimize burden on local governments” in consumption tax reduction bill
   - [china] London Metal Exchange CEO affirms support for use of yuan
   - [korea] BOK Financial Corporation Stock 12‑Month Price Target Cut to $145.56, Implies 18% Upside
   - [taiwan] September exports smash previous monthly records, up over 60%
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea freezes base interest rate... Possibility of further increase within the year
   - [taiwan] Taiwan anchors US chip revival, SEMICON West spotlights trusted partners
   - [korea] Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual fre
-  - [japan] Japan's Nikkei ends lower as higher yields, inflation fears weigh
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T10:52:42+00:00",
+      "published_utc": "2026-10-20T11:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
