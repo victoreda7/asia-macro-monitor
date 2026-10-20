@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T08:12:44.559284+00:00
+Última coleta: 2026-10-20T08:22:43.745000+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          998
-  🇨🇳 China          902
+  🇯🇵 Japão          999
+  🇨🇳 China          901
   🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
   - [china] China keeps yttrium exports to Japan restricted in September
   - [korea] South Korea to consider cutting bond issuance if needed to stabilise market
   - [taiwan] BASF Signs Letter Of Intent With Taiwan To Advance Semiconductor Manufacturing
@@ -33,12 +34,13 @@ Total: 3000 manchetes
   - [taiwan] Key facts: NVIDIA Sees $108B Q3 Sales; 104‑Qubit Sim; TSMC 3nm NVHBM
   - [japan] The prefecture's economy is on a "moderate recovery trend", Bank of Japan's Councilor Koeda gives a speech in 
   - [korea] South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns
+  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [china] China resumes sulphuric acid exports to copper king Chile after three-month halt
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief By Reuters
   - [korea] Kospi Snaps Two-Session Winning Streak; Chip, Defense Stocks Retreat
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief
+  - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters
   - [china] The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consec
-  - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions report
   - [china] Central Bank: Will carry out overnight reverse repurchase operations from October 21 to November 2
@@ -53,10 +55,8 @@ Total: 3000 manchetes
   - [korea] SK Hynix Shares Appear Undervalued Amid AI Financing Concerns — Market Talk
   - [korea] 93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rat
   - [korea] BYD surges to No. 4 in Korea's imported car market
-  - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
+  - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
   - [china] The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a
-  - [china] Chinese Consumption Likely Still Faces Challenges — Market Talk
-  - [china] The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T08:12:44+00:00",
+      "published_utc": "2026-10-20T08:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
