@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T08:02:43.372411+00:00",
- "collected_at_utc": "2026-10-20T08:02:43.372411+00:00",
+ "generated_at_utc": "2026-10-20T08:12:44.559284+00:00",
+ "collected_at_utc": "2026-10-20T08:12:44.559284+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 998,
-  "china": 903,
-  "taiwan": 355,
-  "korea": 744
+  "china": 902,
+  "taiwan": 357,
+  "korea": 743
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T03:09:01+00:00"
+   "newest": "2026-10-20T07:08:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-10-20T11:00:00+09:00"
+   "newest": "2026-10-20T16:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T07:44:00+00:00"
+   "newest": "2026-10-20T07:44:15+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:52:00+00:00"
+   "newest": "2026-10-20T07:09:44+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:47:00+00:00"
+   "newest": "2026-10-20T07:09:44+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T08:02:01+00:00"
+   "newest": "2026-10-20T08:10:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:54:36+00:00"
+   "newest": "2026-10-20T07:35:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-20T13:00:00+09:00"
+   "newest": "2026-10-20T15:33:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,57 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China keeps yttrium exports to Japan restricted in September",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4660FG:0-china-keeps-yttrium-exports-to-japan-restricted-in-september/",
+   "published_utc": "2026-10-20T08:06:40+00:00",
+   "title_original": "China keeps yttrium exports to Japan restricted in September",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "053b22a534ba1e5a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea to consider cutting bond issuance if needed to stabilise market",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44004Q:0-south-korea-to-consider-cutting-bond-issuance-if-needed-to-stabilise-market/",
+   "published_utc": "2026-10-20T08:05:32+00:00",
+   "title_original": "South Korea to consider cutting bond issuance if needed to stabilise market",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "306cc4d826edac67"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BASF Signs Letter Of Intent With Taiwan To Advance Semiconductor Manufacturing",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46615R:0-basf-signs-letter-of-intent-with-taiwan-to-advance-semiconductor-manufacturing/",
+   "published_utc": "2026-10-20T08:03:46+00:00",
+   "title_original": "BASF Signs Letter Of Intent With Taiwan To Advance Semiconductor Manufacturing",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a810a4ff4e9b6e5d"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Government R&D budget at 40 trillion won ... 80% of equipment is foreign-made",
@@ -359,6 +410,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f6912fee090391f3"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The People's Bank of China will withdraw a net 65 billion yuan from the market on October 20 and will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wWHQza19xNFo3SFlnMnBtaW5wbUFWcjBGdlFlVWxGdHZoekhEQUhDTTZFLVp3UDZIVWo4bGl1SDB1S3FYVTRjQ1RBTFRRd2FsX0NXMTlUdDMtX1pKV2ItSGZR?oc=5",
+   "published_utc": "2026-10-20T07:44:15+00:00",
+   "title_original": "中国央行10月20日净回笼650亿元 将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b597e532930a00a4"
   },
   {
    "source_id": "tradingview_live",
@@ -431,6 +500,23 @@
    "id": "04353fa7282ba0f1"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan anchors US chip revival, SEMICON West spotlights trusted partners",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNXzE3WTMyNzZfUzJnb0c4SmVxQlB0ZlI3dkh4LXEtc1d4T2hvQkx5SnM3YWxON3h4Y1c0ZlFfNnRSQjRkaUNteEVsSEx0X3c3U0NkWVVyOXRmaS1JYVFqUV9PZ2RpSUJEVUUweWRWRHBmYVFScFNLcG5kaFh6LTRxb0ZGQ1dDTVY5dzlteXlPb2o3TmJVa1RLWnl2SEE?oc=5",
+   "published_utc": "2026-10-20T07:08:00+00:00",
+   "title_original": "Taiwan anchors US chip revival, SEMICON West spotlights trusted partners",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c224d58709d418b"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "오피니언뉴스",
    "title_en": "Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual freeze on the 22nd",
@@ -498,6 +584,23 @@
    "live_wire": true,
    "manual": false,
    "id": "2236fe42f626caa0"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "The prefecture's economy is on a \"moderate recovery trend\", Bank of Japan's Councilor Koeda gives a speech in Kumamoto City (Kumamoto Nichinichi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTeTZvdHJwZEhjUXlycWF1a2lIR2VOTFdCdFk2RnROSGx2Ym5Xc1FsN0ZBVWtlZE10Yk9iRldYWFFKTk9oU3c4NGZGbHFrVGJtSjUyLThtN1BTdDd0cGs1eTNnTkw5VkZvZFlWVVNzSTN6Ujk4aGRYV1dyeUI1RUk?oc=5",
+   "published_utc": "2026-10-20T06:59:28+00:00",
+   "title_original": "県内経済は「緩やかな回復基調に」 日銀・小枝審議委員が熊本市で講演（熊本日日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "76c60f3b5838b477"
   },
   {
    "source_id": "tradingview_live",
@@ -585,6 +688,23 @@
    "live_wire": false,
    "manual": false,
    "id": "644145a686a56bd7"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "同花顺",
+   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kR0FIVmczN2RpcjV0MHdObWZCQU9DVThDekt0ampvNXR5ejAyUVE0Zm5hVWtPa1lkLTZzM2djay1QM3FmUmphejhKZktsVXhnSnJhbFI2bG9vODExa0E?oc=5",
+   "published_utc": "2026-10-20T06:27:38+00:00",
+   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b9fbd044006af956"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -750,7 +870,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "대한데일리",
    "title_en": "The Bank of Korea is taking a breather, the stock market is at a crossroads... The decision on the base interest rate is",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhMnlTOFVlYTl5ZU8ySE94ekJOSXpwTG5pczBnbHdvTUZhMjNpT3N4SlNmOEgwT1NLcl9IUkNwUnlJTmVqVUhLbzBRYUpyMV9uNVZmQl9uQTJnalY0NGFsWF9mWm8wS0tKQmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tWUcxcllGdjB6STltTWZlejFGSURVYWpNakNFendnVVh6QXZSel92NjNtUW5CWmxjT1QtQ0FrWnN6MVRGczV6S2szeEhQeVF5QmhwdHFXSzVuTHBfdEtqdy1rS1hLUUJsTURZ?oc=5",
    "published_utc": "2026-10-20T05:53:57+00:00",
    "title_original": "숨 고르는 한은, 갈림길 선 증시…기준금리 결정은",
    "region": "korea",
@@ -761,7 +881,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "80934092bf2d3c30"
+   "id": "39f13cec614c29c6"
   },
   {
    "source_id": "korea_herald_biz",
@@ -986,23 +1106,6 @@
    "live_wire": true,
    "manual": false,
    "id": "15be55a65b6531ba"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vZDB1N2tzLWE0SW1aRHFzejRiOGZNMUQyQ3Y0QjY0Q01HTUtDT3J4aU10c0JVb3BaYWRvOWg4Y1JrMG9hMTZMN2M2MU16Rzh6NnhCVnROQ21fSmxWWVRzdg?oc=5",
-   "published_utc": "2026-10-20T04:35:40+00:00",
-   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c0255988d518ffc"
   },
   {
    "source_id": "nhk_politics",
@@ -1507,23 +1610,6 @@
    "id": "da84e0d020db20d3"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7200 TUES VS 6.7208",
-   "url": "https://www.tradingview.com/news/dpa_afx:074bd0ffac4c8:0-china-sets-yuan-central-parity-at-6-7200-tues-vs-6-7208/",
-   "published_utc": "2026-10-20T01:38:30+00:00",
-   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7200 TUES VS 6.7208",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2493079b039e1cc4"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "中国新闻网",
    "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 20 was zero",
@@ -1608,41 +1694,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c372e8f99366b546"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "China Holds LPR Rates at Record Lows for 17th Month",
-   "url": "https://www.tradingview.com/news/te_news:593249:0-china-holds-lpr-rates-at-record-lows-for-17th-month/",
-   "published_utc": "2026-10-20T01:06:50+00:00",
-   "title_original": "China Holds LPR Rates at Record Lows for 17th Month",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "195870ea10e470c4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's economy minister says he respects central bank independence",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44Z00Q:0-japan-s-economy-minister-says-he-respects-central-bank-independence/",
-   "published_utc": "2026-10-20T00:57:22+00:00",
-   "title_original": "Japan's economy minister says he respects central bank independence",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9ad2e007004925dc"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51881,57 +51932,6 @@
    "live_wire": false,
    "manual": false,
    "id": "27263791a6a1bd1c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "BABA Stock Spikes Overnight: Alibaba Takes On Nvidia With China's Most Powerful AI Chip Yet",
-   "url": "https://www.tradingview.com/news/stocktwits:84f5ef63b094b:0-baba-stock-spikes-overnight-alibaba-takes-on-nvidia-with-china-s-most-powerful-ai-chip-yet/",
-   "published_utc": "2026-09-22T04:49:51+00:00",
-   "title_original": "BABA Stock Spikes Overnight: Alibaba Takes On Nvidia With China's Most Powerful AI Chip Yet",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "341650818a420ca6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "시사저널e",
-   "title_en": "The Bank of Korea, which raised the rate twice and took a breather, speeds up the clock for the third increase due to U.S. tightening.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDcWk2OVFsZU43RjFvVl9nTW1wbWZiZUM1aGNJZmdWZms5NXM3ZWZ6Z3FtdjBfRkNCYndIMVhxbEJSNVNYMV91VDhYWjdDWkl2ZlVFRVZ2alJWZWlZX3NUSUtNTUpIUjZtRm9IcG5lQkswd9IBdkFVX3lxTE9LWWJGcnpBTmNQVzdfckF3ckZxZDgyVGlmYmx0Snp3WEQ2ZHBPMi1PbEg3RjFGeWRWWExxZVZjajIwUHNKdmJ0QzJsX19iQnY3TTZzcnY4WGFWc2tudFNxNGxBdFByay1RcWlld0h1MlVuUmJVMnc?oc=5",
-   "published_utc": "2026-09-22T04:39:37+00:00",
-   "title_original": "두 번 올리고 숨 고르던 한국은행···美 긴축에 '세 번째 인상' 시계 빨라진다",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "89d6869f3858af6d"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics and SK Hynix are also showing strong performance in the afternoon market followi..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Sc0h3eFpUX3lnbnFIcElfNzcwNmlfSG9sVXIxUjFuTWJxa2VwUHVjWFd5b0ZsLTFuODNQaFBpUTJGZkE1LVJmUkRibGZtbkU?oc=5",
-   "published_utc": "2026-09-22T04:37:47+00:00",
-   "title_original": "Samsung Electronics and SK Hynix are also showing strong performance in the afternoon market followi..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec43965f976e9e36"
   },
   {
    "source_id": "manual_ia",

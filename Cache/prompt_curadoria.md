@@ -7,30 +7,37 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T08:02:43.372411+00:00
+Última coleta: 2026-10-20T08:12:44.559284+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          998
-  🇨🇳 China          903
-  🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  744
+  🇨🇳 China          902
+  🇹🇼 Taiwan         357
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [china] China keeps yttrium exports to Japan restricted in September
+  - [korea] South Korea to consider cutting bond issuance if needed to stabilise market
+  - [taiwan] BASF Signs Letter Of Intent With Taiwan To Advance Semiconductor Manufacturing
   - [korea] Government R&D budget at 40 trillion won ... 80% of equipment is foreign-made
+  - [china] The People's Bank of China will withdraw a net 65 billion yuan from the market on October 20 and will carry ou
   - [taiwan] Indonesian shares recover after hitting six-year low; Taiwan dollar depreciates
   - [china] The People's Bank of China will withdraw a net 65 billion yuan on October 20 and will carry out overnight reve
   - [china] China's Australian coal imports surge to six-year high
   - [japan] Stock price temporarily fell by more than 1,100 yen due to rise in crude oil futures prices
+  - [taiwan] Taiwan anchors US chip revival, SEMICON West spotlights trusted partners
   - [korea] Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual fre
   - [japan] Japan's Nikkei ends lower as higher yields, inflation fears weigh
   - [japan] Yomiuri: Japan Eyes 250 Billion Yen in Additional Funding for Rapidus
   - [taiwan] Key facts: NVIDIA Sees $108B Q3 Sales; 104‑Qubit Sim; TSMC 3nm NVHBM
+  - [japan] The prefecture's economy is on a "moderate recovery trend", Bank of Japan's Councilor Koeda gives a speech in 
   - [korea] South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns
   - [china] China resumes sulphuric acid exports to copper king Chile after three-month halt
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief By Reuters
   - [korea] Kospi Snaps Two-Session Winning Streak; Chip, Defense Stocks Retreat
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief
+  - [china] The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consec
   - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions report
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a
   - [china] Chinese Consumption Likely Still Faces Challenges — Market Talk
   - [china] The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow
-  - [korea] The Jeonnam Gwangju Semiconductor Forum held its first board meeting and launched activities to crea..
-  - [taiwan] TSMC plans 3nm semiconductor manufacturing at second Japan factory, investment to exceed USD 23 billion
-  - [china] For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day
-  - [china] China and Hong Kong shares weaken as stable growth eases stimulus bets
-  - [china] The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consec
-  - [japan] Bill related to consumption tax reduction on food items to be debated in the House of Representatives this aft
-  - [korea] Samgi America, the North American subsidiary of Samgi Energy Solutions, has won a contract to supply..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T08:02:43+00:00",
+      "published_utc": "2026-10-20T08:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
