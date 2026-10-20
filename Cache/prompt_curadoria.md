@@ -7,25 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T06:02:43.195419+00:00
+Última coleta: 2026-10-20T06:12:43.376779+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          993
-  🇨🇳 China          902
+  🇯🇵 Japão          994
+  🇨🇳 China          901
   🇹🇼 Taiwan         356
   🇰🇷 Coreia do Sul  749
 
 ## O que já está no feed (não repita)
 
-  - [korea] Hyundai Motor Group unites defense arms in global export push
+  - [japan] Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s
   - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say
+  - [japan] Bank of Japan may raise price outlook for FY2027, policy interest rate likely to remain unchanged = source (Re
+  - [korea] Hyundai Motor Group unites defense arms in global export push
   - [japan] ABB To Acquire 51% Stake In Mitsubishi Electric Joint Venture For JPY 82.4 Bln
   - [korea] SK Hynix Shares Appear Undervalued Amid AI Financing Concerns — Market Talk
   - [korea] 93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rat
   - [korea] BYD surges to No. 4 in Korea's imported car market
-  - [japan] Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s
-  - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
   - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
+  - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
   - [china] The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a
   - [china] The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow
   - [china] Chinese Consumption Likely Still Faces Challenges — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan dollar weakens most among muted Asian currencies
   - [korea] Samsung Electronics and SK Hynix, which had risen by recovering some of the recent declines the prev..
   - [china] China's September US soybean imports rebound from zero a year earlier, data shows
-  - [china] In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T06:02:43+00:00",
+      "published_utc": "2026-10-20T06:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
