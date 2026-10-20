@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T01:42:42.496722+00:00
+Última coleta: 2026-10-20T01:55:25.539149+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1001
-  🇨🇳 China          897
-  🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  751
+  🇯🇵 Japão          1000
+  🇨🇳 China          900
+  🇹🇼 Taiwan         350
+  🇰🇷 Coreia do Sul  750
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan yet to decide on defence budget funding, finance minister says
+  - [china] China's Key Lending Rates Kept Unchanged as PBOC Weighs Reforms
+  - [china] PBOC Signals Potential Shift in Key Policy Rate — Market Talk
+  - [china] CHINA PBOC CONDUCTS CNY0 BLN VIA 7-DAY REVERSE REPO TUES
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7200 TUES VS 6.7208
   - [japan] Economics and Finance Minister Jouchi ``attends this month's Bank of Japan meeting if it suits him'', once aga
   - [china] Preliminary calculation results of GDP in the third quarter of 2026
   - [japan] Dollar and euro drift, yen slips as markets seek direction
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] Euro falls amid turmoil in France, Australian dollar appreciates as China grows
   - [china] China’s Second-Tier New-Home Prices Flatten as Property Slump Persists
   - [china] Pace of Chinese Yuan's Gains Vs Dollar Likely to Remain Gradual — Market Talk
-  - [taiwan] Business groups back Taipower, CPC subsidies; scholars dissent
-  - [japan] Consumption tax reduction bill: Ruling party: “Committee deliberation begins on 21st” Opposition: “Enhancement
-  - [japan] Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the fu
-  - [korea] Samsung Is Turning to Rival TSMC for Nvidia's Next AI Memory
-  - [korea] Kr Motors To Divest Real Estate Worth 47.5 Billion Won
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T01:42:42+00:00",
+      "published_utc": "2026-10-20T01:55:25+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
