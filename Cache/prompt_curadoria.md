@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T05:12:42.378654+00:00
+Última coleta: 2026-10-20T05:22:47.088777+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          997
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Chinese Consumption Likely Still Faces Challenges — Market Talk
   - [japan] Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s
   - [korea] The Jeonnam Gwangju Semiconductor Forum held its first board meeting and launched activities to crea..
   - [taiwan] TSMC plans 3nm semiconductor manufacturing at second Japan factory, investment to exceed USD 23 billion
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Key facts: Samsung (005930) to use TSMC 3nm for NVHBM; retains HBM fabs
   - [japan] Yen depreciation and long-term interest rates at historic levels, pressure to revise the signature policy of `
   - [japan] Japanese Prime Minister Sanae Takaichi Has Not Ruled Out Issuing Bonds to Finance Budget
-  - [korea] Samsung Electro-Mechanics to Supply Chip-Packaging Substrates to Major Global Customer in 2027
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T05:12:42+00:00",
+      "published_utc": "2026-10-20T05:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
