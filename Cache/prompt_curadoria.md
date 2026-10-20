@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T07:22:43.728086+00:00
+Última coleta: 2026-10-20T07:32:45.502829+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
+  🇯🇵 Japão          998
   🇨🇳 China          903
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  744
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
@@ -33,7 +33,9 @@ Total: 3000 manchetes
   - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say
   - [china] APEC role is important for a challenged global economy, China minister says
   - [japan] Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s
+  - [japan] Bank of Japan may raise inflation outlook for FY2027, policy interest rate likely to remain unchanged = source
   - [japan] Bank of Japan may raise price outlook for FY2027, policy interest rate likely to remain unchanged = source (Re
+  - [korea] The Bank of Korea is taking a breather, the stock market is at a crossroads... The decision on the base intere
   - [korea] Hyundai Motor Group unites defense arms in global export push
   - [japan] ABB To Acquire 51% Stake In Mitsubishi Electric Joint Venture For JPY 82.4 Bln
   - [korea] SK Hynix Shares Appear Undervalued Amid AI Financing Concerns — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank has pushed a daily cap of 1 trillion yuan for overnight reverse repos and plans to gradually 
   - [china] The central bank has pushed a daily cap of 1 trillion yuan for overnight reverse repurchases and plans to grad
   - [korea] Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings
-  - [china] China's fuel oil exports for bunkering rebound in September while imports ease
-  - [china] The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repur
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T07:22:43+00:00",
+      "published_utc": "2026-10-20T07:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
