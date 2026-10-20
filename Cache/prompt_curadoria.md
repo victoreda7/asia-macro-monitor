@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T17:22:42.518038+00:00
+Última coleta: 2026-10-20T17:32:58.960403+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1006
+  🇯🇵 Japão          1005
   🇨🇳 China          902
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  738
+  🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK Financial Corp reports results for the quarter ended September 30 - Earnings Summary
   - [korea] BOK Financial Q3 2026 Earnings Call Is Live
   - [korea] Injective, BDACS plan Korean won stablecoin settlement for tokenized assets
   - [japan] Japan PM's party pushes to fast-track debate on food tax cut
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Foreign holdings of China's onshore yuan bonds unchanged at end-September
   - [korea] Bank of Korea raises interest rates twice in a row... Focus on “Will we upload it again” vs. “Will we freeze i
   - [japan] Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible
-  - [taiwan] BASF Signs Semiconductor Agreement With Taiwan to Expand Materials Site
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T17:22:42+00:00",
+      "published_utc": "2026-10-20T17:32:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
