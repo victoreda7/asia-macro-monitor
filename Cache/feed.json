@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-20T11:02:43.761443+00:00",
- "collected_at_utc": "2026-10-20T11:02:43.761443+00:00",
+ "generated_at_utc": "2026-10-20T11:12:49.909361+00:00",
+ "collected_at_utc": "2026-10-20T11:12:49.909361+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1000,
-  "china": 901,
-  "taiwan": 356,
+  "china": 902,
+  "taiwan": 355,
   "korea": 743
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 46,
-   "error": "",
-   "newest": "2026-10-16T17:00:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T10:36:55+00:00"
+   "newest": "2026-10-20T11:00:13+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T10:37:46+00:00"
+   "newest": "2026-10-20T10:43:03+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T11:01:46+00:00"
+   "newest": "2026-10-20T11:11:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T09:38:01+00:00"
+   "newest": "2026-10-20T06:36:52+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-20T09:24:43+00:00"
+   "newest": "2026-10-20T11:10:58+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T08:38:17+00:00"
+   "newest": "2026-10-20T09:06:42+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's US soybean imports rebounded in September, data shows",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4660QD:0/",
+   "published_utc": "2026-10-20T11:04:12+00:00",
+   "title_original": "Importações de soja dos EUA pela China se recuperaram em setembro, mostram dados",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "d02d31feb428b7d1"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -377,6 +394,23 @@
    "live_wire": true,
    "manual": false,
    "id": "7a0c9cbdd59c63c0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Notícias Agrícolas",
+   "title_en": "Soybeans open Tuesday higher in Chicago with new import data from China on radar",
+   "url": "https://www.tradingview.com/news/noticiasagricolas:61790649abc81:0/",
+   "published_utc": "2026-10-20T10:28:01+00:00",
+   "title_original": "Soja abre terça-feira em alta em Chicago com novos dados de importação da China no radar",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "b19249ef1d8717f2"
   },
   {
    "source_id": "tradingview_live",
@@ -1520,23 +1554,6 @@
    "id": "2e0f290e3e73bd70"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Chinese Consumption Likely Still Faces Challenges — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261020000224:0-chinese-consumption-likely-still-faces-challenges-market-talk/",
-   "published_utc": "2026-10-20T05:07:00+00:00",
-   "title_original": "Chinese Consumption Likely Still Faces Challenges — Market Talk",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e24cd3a3317e5621"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "观察者网",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
@@ -1569,23 +1586,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ac3b027527f7ebd3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Asian News International",
-   "title_en": "TSMC plans 3nm semiconductor manufacturing at second Japan factory, investment to exceed USD 23 billion",
-   "url": "https://www.tradingview.com/news/moodys:44e9da2e05a6d:0-tsmc-plans-3nm-semiconductor-manufacturing-at-second-japan-factory-investment-to-exceed-usd-23-billion/",
-   "published_utc": "2026-10-20T04:48:53+00:00",
-   "title_original": "TSMC plans 3nm semiconductor manufacturing at second Japan factory, investment to exceed USD 23 billion",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7e3cc7689bdd9cce"
   },
   {
    "source_id": "gn_cn_pboc",

@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T11:02:43.761443+00:00
+Última coleta: 2026-10-20T11:12:49.909361+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1000
-  🇨🇳 China          901
-  🇹🇼 Taiwan         356
+  🇨🇳 China          902
+  🇹🇼 Taiwan         355
   🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [china] China's US soybean imports rebounded in September, data shows
   - [japan] Prime Minister Takaichi “works to minimize burden on local governments” in consumption tax reduction bill
   - [china] London Metal Exchange CEO affirms support for use of yuan
+  - [china] Soybeans open Tuesday higher in Chicago with new import data from China on radar
   - [korea] BOK Financial Corporation Stock 12‑Month Price Target Cut to $145.56, Implies 18% Upside
   - [taiwan] September exports smash previous monthly records, up over 60%
   - [japan] Dollar surrenders gains as record Japanese bond auction sparks Yen rally
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan consumption tax cut bill on food goes to Lower House
   - [china] US Sanctions China’s Y Combinator in Google AI Secrets Case
   - [korea] Bank of Korea freezes base interest rate... Possibility of further increase within the year
-  - [taiwan] Taiwan anchors US chip revival, SEMICON West spotlights trusted partners
-  - [korea] Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual fre
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T11:02:44+00:00",
+      "published_utc": "2026-10-20T11:12:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
