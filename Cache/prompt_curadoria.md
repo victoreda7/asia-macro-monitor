@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T01:22:43.168606+00:00
+Última coleta: 2026-10-20T01:32:43.459054+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1000
-  🇨🇳 China          897
+  🇨🇳 China          898
   🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  752
+  🇰🇷 Coreia do Sul  751
 
 ## O que já está no feed (não repita)
 
+  - [china] Preliminary calculation results of GDP in the third quarter of 2026
   - [japan] Dollar and euro drift, yen slips as markets seek direction
   - [china] China Holds LPR Rates at Record Lows for 17th Month
   - [japan] Japan's economy minister says he respects central bank independence
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Is Turning to Rival TSMC for Nvidia's Next AI Memory
   - [korea] Kr Motors To Divest Real Estate Worth 47.5 Billion Won
   - [taiwan] AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round
-  - [china] XiAn Eswin Material Technology Q3 Net Profit At 440.7 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T01:22:43+00:00",
+      "published_utc": "2026-10-20T01:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

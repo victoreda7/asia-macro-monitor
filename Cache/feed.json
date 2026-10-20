@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T01:22:43.168606+00:00",
- "collected_at_utc": "2026-10-20T01:22:43.168606+00:00",
+ "generated_at_utc": "2026-10-20T01:32:43.459054+00:00",
+ "collected_at_utc": "2026-10-20T01:32:43.459054+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1000,
-  "china": 897,
+  "china": 898,
   "taiwan": 351,
-  "korea": 752
+  "korea": 751
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T00:31:22+00:00"
+   "newest": "2026-10-20T01:18:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T23:36:43+00:00"
+   "newest": "2026-10-20T01:18:39+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T09:12:00+00:00"
+   "newest": "2026-10-20T01:30:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T06:32:42+00:00"
+   "newest": "2026-10-17T05:15:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T22:36:07+00:00"
+   "newest": "2026-10-19T08:30:05+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T01:20:56+00:00"
+   "newest": "2026-10-20T01:31:38+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,11 +344,28 @@
  ],
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Preliminary calculation results of GDP in the third quarter of 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PQTFLa0ZFa3Z2N1RXengxUlZ6MnhqbWlDSE92NjhKNlVvc2ZPZ1NTZjAyUHJqRTdxZW9NWjkyT3BYOTFBSVI3WTVkOGpObGxRU1dsMzVXRE1CVWR6QjNGREZyQ1VTMVhOR3hoMlo4RVF4YlE?oc=5",
+   "published_utc": "2026-10-20T01:30:00+00:00",
+   "title_original": "2026年三季度国内生产总值初步核算结果",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3ef97823cb4ecb6e"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "Dollar and euro drift, yen slips as markets seek direction",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46600Z:0-dollar-and-euro-drift-yen-slips-as-markets-seek-direction/",
-   "published_utc": "2026-10-20T01:11:52+00:00",
+   "url": "https://www.investing.com/news/economy-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction-4958627",
+   "published_utc": "2026-10-20T01:18:39+00:00",
    "title_original": "Dollar and euro drift, yen slips as markets seek direction",
    "region": "japan",
    "topics": [
@@ -356,9 +373,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "1888806cf5b68e35"
+   "id": "4ed5b91244980d25"
   },
   {
    "source_id": "tradingview_live",
@@ -951,8 +968,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -966,7 +983,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "tradingview_live",
@@ -4939,8 +4956,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -4954,7 +4971,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -51911,23 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "51e5a6f8185bc1e0"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Korea freezes Q4 electricity rates despite rising fuel costs eroding KEPCO’s profit, debt profile",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UaFdTU2FpNVg1bGYzZUU3YWR0eDlDWnFtTGgxaVV0T2RmZ2FTTXRfczAwbXpSS1RIcEFERFo4NUhqbkFzNHFmVS04UXVpdXdDNXZwbzloN3owU2VUa2hnXzJmREZGZ3RX?oc=5",
-   "published_utc": "2026-09-21T07:00:00+00:00",
-   "title_original": "Korea freezes Q4 electricity rates despite rising fuel costs eroding KEPCO’s profit, debt profile",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "71328311811028f8"
   },
   {
    "source_id": "manual_ia",
