@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T14:12:42.123618+00:00
+Última coleta: 2026-10-20T14:22:48.214656+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1003
@@ -17,6 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] BYD surges to No. 4 in Korea's imported car market
+  - [korea] What's the future of AI stock? SK Hynix shares crash to lowest level since Apr as sell-off deepens; down 31% i
+  - [china] Nvidia secures $35B in orders for new export-compliant GPU from Chinese tech giants: report
   - [china] BofA Prefers These Semicap Top Picks on Mix, Pricing, NAND, China Upside
   - [china] China’s hybrid car exports to EU surge by more than 200% as import cap looms
   - [japan] Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] The import concentration is intensifying from the single-person media industry such as YouTubers to
   - [korea] [Photo] Deputy Finance Minister Hearing On-Site Opinion on 'Coin Taxation'
   - [korea] New bank accounts created following preferential interest rates and stock accounts increased along w..
-  - [china] The People's Bank of China will carry out overnight reverse repurchase operations for 9 consecutive working da
-  - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 23
-  - [taiwan] Taiwan Export Orders Hit New Record High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T14:12:42+00:00",
+      "published_utc": "2026-10-20T14:22:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
