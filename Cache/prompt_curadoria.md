@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T02:42:44.353864+00:00
+Última coleta: 2026-10-20T02:52:43.259180+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          999
@@ -17,13 +17,15 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bill related to consumption tax reduction on food items to be debated in the House of Representatives this aft
   - [korea] Finance minister pledges support for global 'AI basic society'
+  - [china] Offshore Yuan Extends Gains to Over 4-Year High
   - [japan] Japan's Nikkei falls as higher yields, inflation fears weigh
   - [china] China Likely on Track to Hit Annual Growth Target — Market Talk
   - [japan] Japan futures rise as rains squeeze Thai supply, yen slips
   - [taiwan] Taiwan dollar weakens most among muted Asian currencies
   - [japan] Citizens Submit a counterproposal to the consumption tax reduction bill, aiming to reduce the burden through r
-  - [china] China’s September US soybean imports rebound from zero a year earlier, data shows
+  - [china] China's September US soybean imports rebound from zero a year earlier, data shows
   - [japan] Japan yet to decide on defence budget funding, finance minister says
   - [china] China's Key Lending Rates Kept Unchanged as PBOC Weighs Reforms
   - [china] PBOC Signals Potential Shift in Key Policy Rate — Market Talk
@@ -51,12 +53,10 @@ Total: 3000 manchetes
   - [china] China and the EU agree to halve exports of hybrid cars to Europe, set annual quota of 350,000 units after intr
   - [korea] BOK Financial beats Q3 earnings estimates as net interest income increases
   - [japan] The 1.2L mild hybrid is lighter than the numerical value... Why Jeep's new "Compass", the first redesign in 9 
-  - [japan] Food consumption tax reduction bill to be debated in the House of Representatives today
   - [china] Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom — Barrons.com
   - [japan] BOJ spies a chance to pivot to sustaining inflation as 2% goal nears
   - [korea] Agriculture Ministry eyes legal action over egg import, farmland claims
   - [china] Goldman Sachs raises copper forecast as US-China competition tightens supply
-  - [japan] Advantage Partners Readies Japan's First Big Forestry Investment Fund, Nikkei Reports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T02:42:44+00:00",
+      "published_utc": "2026-10-20T02:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
