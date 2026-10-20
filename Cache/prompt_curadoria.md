@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T10:02:44.047676+00:00
+Última coleta: 2026-10-20T10:12:42.947167+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          999
-  🇨🇳 China          902
+  🇨🇳 China          901
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  743
+  🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] September exports smash previous monthly records, up over 60%
   - [japan] Dollar surrenders gains as record Japanese bond auction sparks Yen rally
   - [china] China and Hong Kong stocks fall; stable growth dampens stimulus expectations
   - [china] Chinese Hybrid Import Cap Offers Relief to European Carmakers — Market Talk
@@ -49,14 +50,13 @@ Total: 3000 manchetes
   - [china] PBOC Faces Multi-Month Road to New Rate Anchor, Analysts Say
   - [japan] Stock price temporarily fell by more than 1,100 yen due to rise in crude oil futures prices
   - [china] US Sanctions China’s Y Combinator in Google AI Secrets Case
+  - [korea] Bank of Korea freezes base interest rate... Possibility of further increase within the year
   - [taiwan] Taiwan anchors US chip revival, SEMICON West spotlights trusted partners
   - [korea] Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual fre
   - [japan] Japan's Nikkei ends lower as higher yields, inflation fears weigh
   - [japan] Yomiuri: Japan Eyes 250 Billion Yen in Additional Funding for Rapidus
   - [taiwan] Key facts: NVIDIA Sees $108B Q3 Sales; 104‑Qubit Sim; TSMC 3nm NVHBM
   - [japan] The prefecture's economy is on a "moderate recovery trend", Bank of Japan's Councilor Koeda gives a speech in 
-  - [korea] South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns
-  - [china] China resumes sulphuric acid exports to copper king Chile after three-month halt
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T10:02:44+00:00",
+      "published_utc": "2026-10-20T10:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

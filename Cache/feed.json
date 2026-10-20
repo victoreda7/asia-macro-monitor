@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T10:02:44.047676+00:00",
- "collected_at_utc": "2026-10-20T10:02:44.047676+00:00",
+ "generated_at_utc": "2026-10-20T10:12:42.947167+00:00",
+ "collected_at_utc": "2026-10-20T10:12:42.947167+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 999,
-  "china": 902,
+  "china": 901,
   "taiwan": 356,
-  "korea": 743
+  "korea": 744
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T04:32:00+00:00"
+   "newest": "2026-10-20T10:01:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T06:25:22+00:00"
+   "newest": "2026-10-20T05:13:22+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T18:35:18+09:00"
+   "newest": "2026-10-20T19:07:26+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T06:00:05+00:00"
+   "newest": "2026-10-19T22:36:07+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "September exports smash previous monthly records, up over 60%",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xTy1pa3Y5cERtMVV1NDlpTmczS3ZzVmdCN3RfdlNzSDZ4RDJ4SXcxM25nRl9VS1V4RURxb0U1NmxtWFNkSW90Qi10X3pXYkM5SFFtNTlTTQ?oc=5",
+   "published_utc": "2026-10-20T10:01:00+00:00",
+   "title_original": "September exports smash previous monthly records, up over 60%",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6ee4738d2684bd4b"
+  },
   {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
@@ -892,6 +909,23 @@
    "id": "d76f0c85953e42e8"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스TV",
+   "title_en": "Bank of Korea freezes base interest rate... Possibility of further increase within the year",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qdTE2cEJIN0M1VHpncXRkSnBvNjBISmVBX3g4ZWw3QVhyUE5aLU5LZjdxSWRUMW1MZVRPQ2RObUhzWTNPOUNhWHpoRnE3SVVjT0FaOEFJbFdDUjNwSGUteFRTOFFQZzA?oc=5",
+   "published_utc": "2026-10-20T07:11:00+00:00",
+   "title_original": "한은, 기준금리 동결 무게…연내 추가 인상 가능성",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e6d1c7ea76445882"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan anchors US chip revival, SEMICON West spotlights trusted partners",
@@ -1133,24 +1167,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3211521711175586"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan consumption tax cut bill on food goes to Lower House",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
-   "published_utc": "2026-10-20T06:25:22+00:00",
-   "title_original": "Japan consumption tax cut bill on food goes to Lower House",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "70e124fbcd6d9970"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1397,6 +1413,24 @@
    "live_wire": false,
    "manual": false,
    "id": "aec81a3387efe297"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan consumption tax cut bill on food goes to Lower House",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
+   "published_utc": "2026-10-20T05:13:22+00:00",
+   "title_original": "Japan consumption tax cut bill on food goes to Lower House",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "70e124fbcd6d9970"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7622,7 +7656,7 @@
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "China mulls new tech export bans covering AI, biotechnology and solar power",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckdYaXhCT3FoMFl5SHhSbEhvNDRPWjFtcDlUUzV4U2h4NmFnaF9yc2xQbk9Ea2dUcHRFWmdkbjhOWDFfcjB1Q25yeVBFdDhKb1NneHg4WWFGcUhaVGtTWjJFMEVwOHJZdmt1bjdDanV5SG9URTR3UmpLY0RiRmxVZGlRbU5xcEt3MHVsNGVtSmxhZ0l0U1dQSmFwZk5BOHNSdnlyeW9BSFVUcTJkUmdobEhOMm5WYjhmMFN0TXBUelBuN0EyLWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckdYaXhCT3FoMFl5SHhSbEhvNDRPWjFtcDlUUzV4U2h4NmFnaF9yc2xQbk9Ea2dUcHRFWmdkbjhOWDFfcjB1Q25yeVBFdDhKb1NneHg4WWFGcUhaVGtTWjJFMEVwOHJZdmt1bjdDanV5SG9URTR3UmpLY0RiRmxVZGlRbU5xcEt3MHVsNGVtSmxhZ0l0U1dQSmFwZk5BOHNSdnlyeW9BSFVUcTJkUmdobEhOMm5WYjhmMFN0TXBUelBuN0EyLWfSAcYBQVVfeXFMUElacGlzTVRseUtzSEZCSk5FSW5FaXVBbDRVQkVncHRqUXVmcDloY0ZCb0hiRjlxbkU0RDliRG5zUm1VUDd4N2tPNmd5TU4wWUI1eURILXZRS2ZQczR6YVdaQXJUSjh2VnZHbG1CUGFkdkFMbklBZHFJT0gtOFlaS1hhZlo3ZnQ3RWNLZ3djR0lhYm1tanlqMkVoaXNsUFUwblJ5Q1NQcDZzN0MyM3FYUEpnMGRPWDN1QXpZSnNpbHpESmZ4Qkt3?oc=5",
    "published_utc": "2026-10-16T08:31:39+00:00",
    "title_original": "China mulls new tech export bans covering AI, biotechnology and solar power",
    "region": "china",
@@ -7633,7 +7667,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "7ed615a639d48436"
+   "id": "3f8806f2cd18c4c2"
   },
   {
    "source_id": "tradingview_live",
@@ -51901,40 +51935,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4788f1419e6dd6cd"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan's automakers gear up for year-end sales, as exports emerge as new growth engine",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeHl0V0theUtSWkRObE00RzhLbmYzUFVQSVA4Mjd5cjg2SGR1Smw0TFJxMUNsRXFaYmNSY3A2ZDFjc0ppcnk1NjJBVW5jLWttRm05R3QtY3FXN3B2SHFnR3J6N1JBUVp1WVZScjBhVUo5ZlZLbDlBNUV4WW5TRDVDUFdLdXZKNURCRzR4QjZLUWoySzQ?oc=5",
-   "published_utc": "2026-09-22T07:50:00+00:00",
-   "title_original": "Taiwan's automakers gear up for year-end sales, as exports emerge as new growth engine",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c35d494cbb40d3b0"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China expands export control list for drug precursor chemicals ahead of Trump-Xi summit",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUW01Z2w5SlFzQ3VXT3g1cGUzbWlMU2FNM25rVEJFZkZQTzFHampOdUI3NU56aUxVem5oM3dhVXdPN1JxRFpOWmZublhkaEVrUmc5UTNVU3E2cVVVbE1uV3pTWFEzX1R6bmZ2Yjlyc1ZiUEQ2YlZFZHpTQWR3aFBWcUgtWGdNYXRqNmY2UzBkRkdOY2tmWGQyWVJQMEl6WjhWb0dJeGUwbTdvNURreElseVJjZUxBdXdjY2VON2QxU3dSQU5URlFjcy0zbWJWS0xtTlpJdmJ0TW54VFVaTEpGaUFyUHFlVWc?oc=5",
-   "published_utc": "2026-09-22T07:43:43+00:00",
-   "title_original": "China expands export control list for drug precursor chemicals ahead of Trump-Xi summit",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "11f3c29edfd5c2ec"
   },
   {
    "source_id": "manual_ia",
