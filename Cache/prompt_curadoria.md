@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T18:32:42.776540+00:00
+Última coleta: 2026-10-20T18:42:45.254617+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1005
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK Financial Q3 2026 slides: margin expansion offsets fee pressure
   - [korea] BOK Financial Corp reports results for the quarter ended September 30 - Earnings Summary
   - [korea] BOK Financial Q3 2026 Earnings Call Is Live
   - [korea] Injective, BDACS plan Korean won stablecoin settlement for tokenized assets
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China solar exports to Middle East, Southeast Asia surge in September but Europe, Asia weigh on total
   - [china] China's Central Bank Likely to Hold Policy Rate Steady for Rest of 2026 — Market Talk
   - [china] Foreign holdings of China's onshore yuan bonds unchanged at end-September
-  - [korea] Bank of Korea raises interest rates twice in a row... Focus on “Will we upload it again” vs. “Will we freeze i
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T18:32:43+00:00",
+      "published_utc": "2026-10-20T18:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

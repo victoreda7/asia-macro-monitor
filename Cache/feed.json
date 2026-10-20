@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-20T18:32:42.776540+00:00",
- "collected_at_utc": "2026-10-20T18:32:42.776540+00:00",
+ "generated_at_utc": "2026-10-20T18:42:45.254617+00:00",
+ "collected_at_utc": "2026-10-20T18:42:45.254617+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 354,
   "korea": 739
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T08:13:59+00:00"
+   "newest": "2026-10-20T17:57:37+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T17:50:06+00:00"
+   "newest": "2026-10-20T18:29:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T06:56:15+00:00"
+   "newest": "2026-10-20T08:35:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 28/09/2026",
+   "newest": "2026-09-28T07:00:00+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T18:31:00+00:00"
+   "newest": "2026-10-20T18:41:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "BOK Financial Q3 2026 slides: margin expansion offsets fee pressure",
+   "url": "https://www.investing.com/news/company-news/bok-financial-q3-2026-slides-margin-expansion-offsets-fee-pressure-93CH-4960851",
+   "published_utc": "2026-10-20T18:15:40+00:00",
+   "title_original": "BOK Financial Q3 2026 slides: margin expansion offsets fee pressure",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e6e51ca07570bf2a"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -28459,23 +28476,6 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
-   "title_en": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfVnFEeVdQOWI1dktYbHN2bDF0ZlRLUTluVGJIZFVOUWJFd3A4R1VHTHVDS1ZHdVJ5a2ppdk5sUm5QME40TlJ2b0lCbUFvRFJPWVh1TzJJNXhGUQ?oc=5",
-   "published_utc": "2026-10-07T07:00:00+00:00",
-   "title_original": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "92e09e9abc281cc5"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veUVQTXNGcnhNQWVXZFVPV01JT1V4dGdFYVpuakI1ZGlPMFhqM1IzZjVUX1hQN2ZSTDVURjFaUzdvbWg3QWN3QlI2OXBGc2JTaUNNTmhESGE2UQ?oc=5",
    "published_utc": "2026-10-07T07:00:00+00:00",
@@ -28676,6 +28676,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1ae8d8b7f796e3ec"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfVnFEeVdQOWI1dktYbHN2bDF0ZlRLUTluVGJIZFVOUWJFd3A4R1VHTHVDS1ZHdVJ5a2ppdk5sUm5QME40TlJ2b0lCbUFvRFJPWVh1TzJJNXhGUQ?oc=5",
+   "published_utc": "2026-10-07T04:15:00+00:00",
+   "title_original": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "92e09e9abc281cc5"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51926,23 +51943,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fb2e9ea3893c0ef6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "Why are Micron, SK Hynix and SanDisk shares rising today?",
-   "url": "https://www.tradingview.com/news/invezz:fe117f3c5bc81:0/",
-   "published_utc": "2026-09-22T15:34:15+00:00",
-   "title_original": "Por que as ações da Micron, SK Hynix e SanDisk estão subindo hoje?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "9e543e9be7801712"
   },
   {
    "source_id": "manual_ia",
