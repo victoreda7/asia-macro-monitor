@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T06:52:43.156638+00:00
+Última coleta: 2026-10-20T07:02:43.523009+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          994
+  🇯🇵 Japão          995
   🇨🇳 China          903
-  🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  747
+  🇹🇼 Taiwan         357
+  🇰🇷 Coreia do Sul  745
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yomiuri: Japan Eyes 250 Billion Yen in Additional Funding for Rapidus
+  - [taiwan] Key facts: NVIDIA Sees $108B Q3 Sales; 104‑Qubit Sim; TSMC 3nm NVHBM
+  - [korea] South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns
   - [china] China resumes sulphuric acid exports to copper king Chile after three-month halt
   - [korea] Kospi Snaps Two-Session Winning Streak; Chip, Defense Stocks Retreat
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief
@@ -32,11 +35,11 @@ Total: 3000 manchetes
   - [korea] SK Hynix Shares Appear Undervalued Amid AI Financing Concerns — Market Talk
   - [korea] 93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rat
   - [korea] BYD surges to No. 4 in Korea's imported car market
-  - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
   - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
+  - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
   - [china] The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a
-  - [china] The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow
   - [china] Chinese Consumption Likely Still Faces Challenges — Market Talk
+  - [china] The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow
   - [korea] The Jeonnam Gwangju Semiconductor Forum held its first board meeting and launched activities to crea..
   - [taiwan] TSMC plans 3nm semiconductor manufacturing at second Japan factory, investment to exceed USD 23 billion
   - [china] For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Citizens Submit a counterproposal to the consumption tax reduction bill, aiming to reduce the burden through r
   - [japan] Yen Weakens Despite Hawkish Ueda Remarks
   - [china] Central Bank: Conduct overnight reverse repurchase operations from October 21 to November 2, with a daily limi
-  - [korea] Finance minister pledges support for global 'AI basic society'
-  - [china] Offshore Yuan Extends Gains to Over 4-Year High
-  - [taiwan] Taiwan industry seeks nuclear restart and utility relief amid energy costs boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T06:52:43+00:00",
+      "published_utc": "2026-10-20T07:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
