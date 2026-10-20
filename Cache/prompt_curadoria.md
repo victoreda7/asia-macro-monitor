@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T19:02:43.824860+00:00
+Última coleta: 2026-10-20T19:12:44.330809+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1006
+  🇯🇵 Japão          1007
   🇨🇳 China          901
-  🇹🇼 Taiwan         354
+  🇹🇼 Taiwan         353
   🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
@@ -52,11 +52,11 @@ Total: 3000 manchetes
   - [korea] BOK Financial Corporation Stock 12‑Month Price Target Cut to $145.56, Implies 18% Upside
   - [taiwan] September exports smash previous monthly records, up over 60%
   - [china] China and Hong Kong stocks fall; stable growth dampens stimulus expectations
+  - [japan] Dollar surrenders gains as record Japanese bond auction sparks Yen rally
   - [china] Chinese Hybrid Import Cap Offers Relief to European Carmakers — Market Talk
   - [china] Cssc Offshore & Marine Engineering Says 9-Month New Orders Totalled 35.8 Billion Yuan
   - [china] China's Strong 3Q Growth Rules out Additional Stimulus — Market Talk
   - [china] China solar exports to Middle East, Southeast Asia surge in September but Europe, Asia weigh on total
-  - [china] China's Central Bank Likely to Hold Policy Rate Steady for Rest of 2026 — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T19:02:43+00:00",
+      "published_utc": "2026-10-20T19:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
