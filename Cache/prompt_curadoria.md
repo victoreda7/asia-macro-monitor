@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T17:32:58.960403+00:00
+Última coleta: 2026-10-20T17:42:44.512639+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1005
@@ -37,6 +37,7 @@ Total: 3000 manchetes
   - [taiwan] 2 workers found without vital signs at Kaohsiung TSMC fab site
   - [korea] Axcelis To Begin Construction Of New Manufacturing Facility In Pyeongtaek, Korea
   - [taiwan] Apple commits up to $100 million for US titanium in domestic manufacturing push
+  - [china] China’s rare earth magnet exports to EU and US rebound in September
   - [china] Hormuz Disruption, Chinese Export Curbs Keep Fertilizer Supplies Tight, S&P Says — Market Talk
   - [korea] Finance minister pledges support for global 'AI basic society'
   - [japan] Civil Reform Concerning consumption tax reduction related bill “40,000 yen per person benefit”
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's Central Bank Likely to Hold Policy Rate Steady for Rest of 2026 — Market Talk
   - [china] Foreign holdings of China's onshore yuan bonds unchanged at end-September
   - [korea] Bank of Korea raises interest rates twice in a row... Focus on “Will we upload it again” vs. “Will we freeze i
-  - [japan] Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T17:32:59+00:00",
+      "published_utc": "2026-10-20T17:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
