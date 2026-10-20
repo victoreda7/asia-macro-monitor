@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T05:02:43.601687+00:00
+Última coleta: 2026-10-20T05:12:42.378654+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          998
+  🇯🇵 Japão          997
   🇨🇳 China          899
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  747
+  🇰🇷 Coreia do Sul  748
 
 ## O que já está no feed (não repita)
 
-  - [japan] As Japan pursues a chip-industry reboot, it's being pressed to build America's
+  - [japan] Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s
+  - [korea] The Jeonnam Gwangju Semiconductor Forum held its first board meeting and launched activities to crea..
   - [taiwan] TSMC plans 3nm semiconductor manufacturing at second Japan factory, investment to exceed USD 23 billion
   - [china] China and Hong Kong shares weaken as stable growth eases stimulus bets
   - [japan] Bill related to consumption tax reduction on food items to be debated in the House of Representatives this aft
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen depreciation and long-term interest rates at historic levels, pressure to revise the signature policy of `
   - [japan] Japanese Prime Minister Sanae Takaichi Has Not Ruled Out Issuing Bonds to Finance Budget
   - [korea] Samsung Electro-Mechanics to Supply Chip-Packaging Substrates to Major Global Customer in 2027
-  - [korea] Research: Renewable energy bottlenecks in South Korea, Taiwan, Singapore slow memory chipmakers' RE100 progres
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T05:02:43+00:00",
+      "published_utc": "2026-10-20T05:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
