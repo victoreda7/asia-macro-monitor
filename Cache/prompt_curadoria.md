@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T06:22:43.206726+00:00
+Última coleta: 2026-10-20T06:32:41.543160+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          994
+  🇯🇵 Japão          995
   🇨🇳 China          902
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  748
+  🇰🇷 Coreia do Sul  747
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen jumps after JGB auction draws big demand, euro finds relief
+  - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend
+  - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions report
   - [china] APEC role is important for a challenged global economy, China minister says
   - [japan] Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s
   - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan industry seeks nuclear restart and utility relief amid energy costs boom
   - [japan] Japan's Nikkei falls as higher yields, inflation fears weigh
   - [china] China Likely on Track to Hit Annual Growth Target — Market Talk
-  - [japan] Japan futures rise as rains squeeze Thai supply, yen slips
-  - [taiwan] Taiwan dollar weakens most among muted Asian currencies
-  - [korea] Samsung Electronics and SK Hynix, which had risen by recovering some of the recent declines the prev..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T06:22:43+00:00",
+      "published_utc": "2026-10-20T06:32:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
