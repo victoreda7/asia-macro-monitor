@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T04:22:43.800020+00:00",
- "collected_at_utc": "2026-10-20T04:22:43.800020+00:00",
+ "generated_at_utc": "2026-10-20T04:32:42.890202+00:00",
+ "collected_at_utc": "2026-10-20T04:32:42.890202+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 998,
-  "china": 900,
+  "japan": 999,
+  "china": 899,
   "taiwan": 354,
   "korea": 748
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T04:13:00+00:00"
+   "newest": "2026-10-19T23:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T04:02:00+00:00"
+   "newest": "2026-10-20T04:18:26+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-19T13:40:00+00:00"
+   "newest": "2026-10-20T03:45:29+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-20T13:12:18+00:00"
+   "newest": "2026-10-20T13:27:54+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T13:03:53+09:00"
+   "newest": "2026-10-20T13:03:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T13:12:51+09:00"
+   "newest": "2026-10-20T13:12:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T03:42:00+00:00"
+   "newest": "2026-10-20T03:42:45+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T04:20:13+00:00"
+   "newest": "2026-10-20T04:30:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T03:58:32+00:00"
+   "newest": "2026-10-20T03:36:54+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1471,8 +1471,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -1486,7 +1486,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "tradingview_live",
@@ -5493,8 +5493,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -5508,7 +5508,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -9492,6 +9492,24 @@
    "live_wire": true,
    "manual": false,
    "id": "02096fe335677394"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Economics and Finance Minister Jouchi ``attends this month's Bank of Japan meeting if it suits him'', again denying policy on interest rate hikes (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHRQMjA0dDhMN0JNR2Z6YjJnbmF3QzU5dnc5Vm96ME9NWFVqSlFORWVOb2JVbTdTbF93TWNLVzVQLW1DQkJtM2drOXdKdU5EcEs4MjhVWEFXZHpCMU9jQnFoX3Awcll1bXM2NVUyOFZPMnB2YnU1RGotTkFKY2hfYzhEZDg0RDFmODdJLW5n?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "城内経財相、今月の日銀会合も「都合つけば出席」 利上げけん制改めて否定 (ロイター)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "858b64fc398f2573"
   },
   {
    "source_id": "gn_kr_ked",
@@ -24158,6 +24176,23 @@
    "id": "0aec8ec5361ac961"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Seoul stocks down for 3rd day amid inflation worries",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RVHZTWlJQSVE5YWNIb3RYb2JraDQzRnB2Y0pvUFFZdVFqTWhGNmR3T0ZJemY2aW9MeE5Lc2JxbU9CX3oycnVBazcxNkdHZm5HZmVRSkxmTUdKQQ?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "title_original": "Seoul stocks down for 3rd day amid inflation worries",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d7b298670465a9b8"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "\"With the weak yen and rising prices...\" Family trip to Hawaii → Save money on food Cocorico Endo's wife confesses \"Airfare was also expensive\" (ENCOUNT)",
@@ -24228,23 +24263,6 @@
    "live_wire": false,
    "manual": false,
    "id": "692e2cfaeecf7982"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Seoul stocks down for 3rd day amid inflation worries",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RVHZTWlJQSVE5YWNIb3RYb2JraDQzRnB2Y0pvUFFZdVFqTWhGNmR3T0ZJemY2aW9MeE5Lc2JxbU9CX3oycnVBazcxNkdHZm5HZmVRSkxmTUdKQQ?oc=5",
-   "published_utc": "2026-10-08T06:40:09+00:00",
-   "title_original": "Seoul stocks down for 3rd day amid inflation worries",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7b298670465a9b8"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51914,23 +51932,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c341393dd4756f1e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Lula says that Uruguay gave Brazil part of its beef export quota to China",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45D0N6:0/",
-   "published_utc": "2026-09-21T16:26:33+00:00",
-   "title_original": "Lula diz que Uruguai cedeu ao Brasil parte da cota de exportação de carne bovina à China",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "4c52a69d3805d724"
   },
   {
    "source_id": "manual_ia",
