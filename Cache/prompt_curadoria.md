@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T11:42:42.370509+00:00
+Última coleta: 2026-10-20T11:52:43.220648+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1001
-  🇨🇳 China          902
+  🇨🇳 China          903
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  741
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [japan] Euro steadies as French protests ease; pound and yen firm
+  - [china] Hormuz Disruption, Chinese Export Curbs Keep Fertilizer Supplies Tight, S&P Says — Market Talk
   - [korea] Finance minister pledges support for global 'AI basic society'
   - [japan] Civil Reform Concerning consumption tax reduction related bill “40,000 yen per person benefit”
   - [china] China's US soybean imports rebounded in September, data shows
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The People's Bank of China will withdraw a net 65 billion yuan from the market on October 20 and will carry ou
   - [taiwan] Indonesian shares recover after hitting six-year low; Taiwan dollar depreciates
   - [china] The People's Bank of China will withdraw a net 65 billion yuan on October 20 and will carry out overnight reve
-  - [china] China's Australian coal imports surge to six-year high
-  - [china] PBOC Faces Multi-Month Road to New Rate Anchor, Analysts Say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T11:42:42+00:00",
+      "published_utc": "2026-10-20T11:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T11:42:42.370509+00:00",
- "collected_at_utc": "2026-10-20T11:42:42.370509+00:00",
+ "generated_at_utc": "2026-10-20T11:52:43.220648+00:00",
+ "collected_at_utc": "2026-10-20T11:52:43.220648+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1001,
-  "china": 902,
+  "china": 903,
   "taiwan": 356,
-  "korea": 741
+  "korea": 740
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T11:22:57+00:00"
+   "newest": "2026-10-20T11:44:47+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T11:12:35+00:00"
+   "newest": "2026-10-20T11:42:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:49:11+00:00"
+   "newest": "2026-10-20T06:24:59+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T02:59:00+00:00"
+   "newest": "2026-10-20T02:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T07:12:22+00:00"
+   "newest": "2026-10-20T04:13:22+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T11:41:53+00:00"
+   "newest": "2026-10-20T11:51:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Euro steadies as French protests ease; pound and yen firm",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4660QN:0-euro-steadies-as-french-protests-ease-pound-and-yen-firm/",
+   "published_utc": "2026-10-20T11:47:35+00:00",
+   "title_original": "Euro steadies as French protests ease; pound and yen firm",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ff73fbb7bdb41483"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Hormuz Disruption, Chinese Export Curbs Keep Fertilizer Supplies Tight, S&P Says — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261020003635:0-hormuz-disruption-chinese-export-curbs-keep-fertilizer-supplies-tight-s-p-says-market-talk/",
+   "published_utc": "2026-10-20T11:43:00+00:00",
+   "title_original": "Hormuz Disruption, Chinese Export Curbs Keep Fertilizer Supplies Tight, S&P Says — Market Talk",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "65a03ad5a3c88bb3"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -1048,24 +1082,6 @@
    "id": "04353fa7282ba0f1"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan consumption tax cut bill on food goes to Lower House",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
-   "published_utc": "2026-10-20T07:12:22+00:00",
-   "title_original": "Japan consumption tax cut bill on food goes to Lower House",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "70e124fbcd6d9970"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
@@ -1520,40 +1536,6 @@
    "id": "a7ccb31bb2554d6a"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "ABB To Acquire 51% Stake In Mitsubishi Electric Joint Venture For JPY 82.4 Bln",
-   "url": "https://www.tradingview.com/news/dpa_afx:3ef7d534047e8:0-abb-to-acquire-51-stake-in-mitsubishi-electric-joint-venture-for-jpy-82-4-bln/",
-   "published_utc": "2026-10-20T05:49:27+00:00",
-   "title_original": "ABB To Acquire 51% Stake In Mitsubishi Electric Joint Venture For JPY 82.4 Bln",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0cae48f5fcbfa397"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "SK Hynix Shares Appear Undervalued Amid AI Financing Concerns — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261020000389:0-sk-hynix-shares-appear-undervalued-amid-ai-financing-concerns-market-talk/",
-   "published_utc": "2026-10-20T05:45:00+00:00",
-   "title_original": "SK Hynix Shares Appear Undervalued Amid AI Financing Concerns — Market Talk",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1bb35e37317838ec"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rate in October” - Money Today",
@@ -1674,6 +1656,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6b8b7943e562e9e1"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan consumption tax cut bill on food goes to Lower House",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
+   "published_utc": "2026-10-20T04:13:22+00:00",
+   "title_original": "Japan consumption tax cut bill on food goes to Lower House",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "70e124fbcd6d9970"
   },
   {
    "source_id": "nhk_politics",
