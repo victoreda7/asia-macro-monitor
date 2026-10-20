@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T23:22:44.116074+00:00",
- "collected_at_utc": "2026-10-20T23:22:44.116074+00:00",
+ "generated_at_utc": "2026-10-20T23:32:44.042179+00:00",
+ "collected_at_utc": "2026-10-20T23:32:44.042179+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1008,
+  "japan": 1011,
   "china": 900,
   "taiwan": 354,
-  "korea": 738
+  "korea": 735
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T20:06:36+00:00"
+   "newest": "2026-10-20T16:57:12+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T08:13:59+00:00"
+   "newest": "2026-10-20T05:30:09+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T19:04:05+00:00"
+   "newest": "2026-10-20T22:39:55+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T23:20:09+00:00"
+   "newest": "2026-10-20T23:32:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T22:02:48+00:00"
+   "newest": "2026-10-20T23:26:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-20T12:57:14+00:00"
+   "newest": "2026-10-20T23:22:38+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,6 +344,24 @@
  ],
  "items": [
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor Ueda will attend the House of Representatives Finance and Financial Services Committee meeting from 1:00 p.m. (Source)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfLVJtTkRfa0dMZGRBTnEtUGoxTFNMc2lTODRyRklLX1RpaDNJUjdFMXNzTXE5ekd5YmZsdGVaY1dTRWUxMzJMZjNZcXJJRzQ1YWdxNDlSUmxSWHhObndIcjNlU1JLMzBvVk5vTWVuZGJiUmtkT2R1eXQzSGM4Tmc?oc=5",
+   "published_utc": "2026-10-20T23:26:00+00:00",
+   "title_original": "植田日銀総裁が午後1時から衆院財務金融委員会に出席＝関係筋（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "68715106ae8fed22"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll",
@@ -359,6 +377,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a4bac5444c29c91f"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLVdQanAyRElrcV81SGxheDYtTHNuRTJqQS1EbUFYUExaUURhZUJGaXJnbFNqZHFvd2NVSVdnWFFPZFZJQVpIYnRQRUVleERFZTdtY09zMWdBbmtDenpVbG5NSExHeTNFZVJGbmt6dUFzVnBNWHFEZnNWUEcwQmctUzdWMGRIYm1qdlhVS3FjRFc4ZW5KdnA0MHNobzJMcGNqNE5BZXM1eUp0VjJSamhUU2RFU0x3VmF5NmhSRVdwQkVnOUJmUE5jMQ?oc=5",
+   "published_utc": "2026-10-20T22:39:55+00:00",
+   "title_original": "BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5ee6fa0a1e6b7fe2"
   },
   {
    "source_id": "tradingview_live",
@@ -791,8 +826,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -806,7 +841,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -1237,8 +1272,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -1252,7 +1287,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -1774,25 +1809,6 @@
    "id": "5ebd99922c8fcea2"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGg2LWNvU0NRd2ZxWVlnS0tZN3R0QUFzVEtyTGNWSUdjN2pPR041cktnam4xNlI4SUo0T19nWk5lNWZwODNDRVVtNWJVcFdKUU5Xb243dTFrYjBsMS1kejE2Rkd3akg2SnlQM1J2cTB5RDZNT3lDNTc5MmljeEtpV0trNGdJZkZaVF9HUFprQW5Pd1ZUSmpXbVRCXy14UjlkX1VKVl9fSFk0YW1SZ1dmU1ZENVh2NUNUMGNpbGR2dDVGdw?oc=5",
-   "published_utc": "2026-10-20T06:28:27+00:00",
-   "title_original": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "55ab5d52d5e4ba42"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "同花顺",
    "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
@@ -1844,6 +1860,25 @@
    "live_wire": false,
    "manual": false,
    "id": "71404ed3289b6b41"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2VPQUZyX1RweDE2QU8wYVBxaTRUczJ3VUZtS05qQkc0azVsbTZaZmpRODRaM0k0dE1vRXR3YkkyS1dFWUwzajl5X09Ga2oxRnZPTFJHM19rTXFtN3Q2NlVPQ0FGcTNkVXRwU3ZLSFRPaXh0WUptY25mcFgzTGRqanZaNmd1eGJqLTFuS0Y4M28wc0d3OEN2WnVmNm1ySWE3XzFLVkl3LTJrS0I1R1hER3lzWl9VMFpSZ3QxTVphdW9TZjQ?oc=5",
+   "published_utc": "2026-10-20T06:15:39+00:00",
+   "title_original": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1bef12aa9d18fe46"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2056,6 +2091,23 @@
    "live_wire": false,
    "manual": false,
    "id": "50e1092b7ea2ed64"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEtCeTJxR1V6MFJVX0hYZlFoNmswaGMzVjE4WFVjczhqWjRoUHhBU1I2bm5sbXliS1gtLXByNGxmOTBDbWx0S3pjMGk3QXZMdXlTY05tR05LLWhhU3k5Y2R5T3pEdEtEc083MTZMd1NFZEM2Z0g4VTVVbmZCcW9yYzdvLWlZZWVtWXZ4V25NYzQ5NzdKalVycWlHRGc0a1ZuVlJqS1NfUUQ2bU9jc1VkcHRWX05MNWtyVDlZSXp1a2tIb3NlQnd4Y0xCdE9Rcm8zOV9mSkd5aE4?oc=5",
+   "published_utc": "2026-10-20T04:58:26+00:00",
+   "title_original": "Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s By Reuters",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "77972d145585bebb"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3205,8 +3257,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -3220,7 +3272,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -6538,6 +6590,23 @@
    "id": "68dfaa22fd128f0e"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "What’s the likelihood of Yen carry trade reversing? By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWEVJZzhCMG8tYWN4M2w5eUcxYUNXNTlSNkpxM1FDV1NYR0tGdFhOU2xwdnpJUTBuNGEtWjgtMUE4YmphSWRQY1hNMENrU0lXcEM0Y1hna2RJRDNHU0VfWlhiMGNuRE9rMXRHOUFkRUh6akZIRmw4Y0tydk9FRnVSZG5MdmJHV3FUa2QwQUIydlpDcXoyRWFwbVRpY1hMcFU?oc=5",
+   "published_utc": "2026-10-17T08:45:35+00:00",
+   "title_original": "What’s the likelihood of Yen carry trade reversing? By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ee328c38a1450626"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Liberal Democratic Party Policy Research Chairman Kobayashi urges many opposition parties to pass consumption tax reduction bill",
@@ -6554,23 +6623,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2e414f58d2cec80f"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "What’s the likelihood of Yen carry trade reversing? By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzBlVzRlN1hiNzI2SlZQR3F5UWNORHhHcWZONTZJdkdxR3NCelBnekIzcUt3WUt6alBEc1d3aFVKaDhGLTRSWUk5LUVzbEFublJpYWEzTzVjdExURmVqbVVRaDlPYnlnM0ZVZkItQVJmZk5BcGYxdHpodUg4d0NSc3dTMG9ZaGJ6ZXJaWU5FTk41UTEtMjlHZTJpZ0pLYk0?oc=5",
-   "published_utc": "2026-10-17T08:23:46+00:00",
-   "title_original": "What’s the likelihood of Yen carry trade reversing? By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9a9bde80cf380aa"
   },
   {
    "source_id": "investing_fx",
@@ -7299,8 +7351,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -7314,7 +7366,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -51892,58 +51944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4d46fc919047c5f0"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Attention is drawn to changes in Samsung Electronics' stock prices as the stock market's report, whi..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jb3VETmRxV0lsLXhkNXowdlpSZDRFaXFkTVFxTFFXRndRejVob0dpU1czREUyWHVJZlB4bjFaUDlQSzBUMWxodk9KY2M1bG8?oc=5",
-   "published_utc": "2026-09-23T01:04:52+00:00",
-   "title_original": "Attention is drawn to changes in Samsung Electronics' stock prices as the stock market's report, whi..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3b0bc1276893403d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "ADB Raises South Korea's 2026 GDP Growth Forecast to 3.2%",
-   "url": "https://www.tradingview.com/news/te_news:585841:0-adb-raises-south-korea-s-2026-gdp-growth-forecast-to-3-2/",
-   "published_utc": "2026-09-23T00:55:22+00:00",
-   "title_original": "ADB Raises South Korea's 2026 GDP Growth Forecast to 3.2%",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1ba7dae9cdc8ceeb"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "mk.co.kr",
-   "title_en": "With the government setting next year's budget at a record 821 trillion won, interest inside and out..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JOU1pSnItYnFVdU81TVNuS0VfZVEzSkZ1TzJQTFNCWkM0aDU3U1d3UDRlNGpEWFB2VWNJS1ppSGgtV1dDaEFoaWVzOXBxWHRORUE?oc=5",
-   "published_utc": "2026-09-23T00:36:46+00:00",
-   "title_original": "With the government setting next year's budget at a record 821 trillion won, interest inside and out..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3246a53522016a26"
   },
   {
    "source_id": "manual_ia",
