@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T00:12:44.669734+00:00
+Última coleta: 2026-10-20T00:22:43.313990+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          998
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [taiwan] Weekly Recap: TSMC 3nm NVHBM sourcing and Goldman Sachs Buy on NAND strength
   - [japan] Weekly Recap: 20% stake in Shriram Finance and yen stablecoin pilot
   - [korea] BOK Financial (NASDAQ:BOKF) Reports Sales Below Analyst Estimates In Q3 2026 Earnings
+  - [korea] Korea’s $1 Trillion Chip Bet to Revive Left-Behind Region Risks Trump’s Ire
   - [china] China and the EU agree to halve exports of hybrid cars to Europe, set annual quota of 350,000 units after intr
   - [korea] BOK Financial beats Q3 earnings estimates as net interest income increases
   - [japan] The 1.2L mild hybrid is lighter than the numerical value... Why Jeep's new "Compass", the first redesign in 9 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Shenzhen Investment Says In Q3, Real Estate Dev Business Unaudited Contracted Sales Of Rmb1.814 Bln
   - [japan] Liberal Democratic Party Ishin leadership seeks cooperation from opposition parties to pass consumption tax re
   - [china] China's economic growth gains strength with export boom
-  - [china] China’s Retail Sales Growth Accelerates to 1.1%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T00:12:44+00:00",
+      "published_utc": "2026-10-20T00:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
