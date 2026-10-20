@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T05:32:48.210235+00:00
+Última coleta: 2026-10-20T05:42:43.290867+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] 93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rat
   - [korea] BYD surges to No. 4 in Korea's imported car market
   - [japan] Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s
   - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] PBOC Signals Potential Shift in Key Policy Rate — Market Talk
   - [china] CHINA PBOC CONDUCTS CNY0 BLN VIA 7-DAY REVERSE REPO TUES
   - [china] [Authoritative Interpretation] Tian Zhifeng: Guangdong consumer prices have reached a low level and recovered 
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7200 TUES VS 6.7208
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T05:32:48+00:00",
+      "published_utc": "2026-10-20T05:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
