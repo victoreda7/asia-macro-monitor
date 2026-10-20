@@ -7,17 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T12:02:44.130823+00:00
+Última coleta: 2026-10-20T12:12:43.084859+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1002
+  🇯🇵 Japão          1001
   🇨🇳 China          903
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  739
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
-  - [japan] Euro steadies as French protests ease; pound and yen firm
+  - [korea] Axcelis to Begin Construction of New Manufacturing Facility in Pyeongtaek, Korea
   - [china] Hormuz Disruption, Chinese Export Curbs Keep Fertilizer Supplies Tight, S&P Says — Market Talk
   - [korea] Finance minister pledges support for global 'AI basic society'
   - [japan] Civil Reform Concerning consumption tax reduction related bill “40,000 yen per person benefit”
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T12:02:44+00:00",
+      "published_utc": "2026-10-20T12:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
