@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T06:12:43.376779+00:00
+Última coleta: 2026-10-20T06:22:43.206726+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          994
-  🇨🇳 China          901
+  🇨🇳 China          902
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  749
+  🇰🇷 Coreia do Sul  748
 
 ## O que já está no feed (não repita)
 
+  - [china] APEC role is important for a challenged global economy, China minister says
   - [japan] Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s
   - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say
   - [japan] Bank of Japan may raise price outlook for FY2027, policy interest rate likely to remain unchanged = source (Re
@@ -25,8 +26,8 @@ Total: 3000 manchetes
   - [korea] SK Hynix Shares Appear Undervalued Amid AI Financing Concerns — Market Talk
   - [korea] 93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rat
   - [korea] BYD surges to No. 4 in Korea's imported car market
-  - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
   - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
+  - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
   - [china] The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a
   - [china] The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow
   - [china] Chinese Consumption Likely Still Faces Challenges — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan futures rise as rains squeeze Thai supply, yen slips
   - [taiwan] Taiwan dollar weakens most among muted Asian currencies
   - [korea] Samsung Electronics and SK Hynix, which had risen by recovering some of the recent declines the prev..
-  - [china] China's September US soybean imports rebound from zero a year earlier, data shows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T06:12:43+00:00",
+      "published_utc": "2026-10-20T06:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

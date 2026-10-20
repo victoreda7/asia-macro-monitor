@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T06:12:43.376779+00:00",
- "collected_at_utc": "2026-10-20T06:12:43.376779+00:00",
+ "generated_at_utc": "2026-10-20T06:22:43.206726+00:00",
+ "collected_at_utc": "2026-10-20T06:22:43.206726+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 994,
-  "china": 901,
+  "china": 902,
   "taiwan": 356,
-  "korea": 749
+  "korea": 748
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T01:00:00+00:00"
+   "newest": "2026-10-20T06:11:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:18:44+00:00"
+   "newest": "2026-10-20T05:14:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T06:12:00+00:00"
+   "newest": "2026-10-20T06:22:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:54:36+00:00"
+   "newest": "2026-10-20T05:54:22+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "APEC role is important for a challenged global economy, China minister says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45900I:0-apec-role-is-important-for-a-challenged-global-economy-china-minister-says/",
+   "published_utc": "2026-10-20T06:03:20+00:00",
+   "title_original": "APEC role is important for a challenged global economy, China minister says",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "83e2d88c2b630223"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -452,7 +469,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rate in October” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DelR0Q0VYLV9HcGJjb21nV2VaSEtyZkVCVzRIaEstc1FjQTAxQTgweDYySXdwLTJmX0l5N0ZwYk4tUWppd29SaFRoNmQxT1hRQ2RtN09FbjNwc3lwanY5M1FpdlV1eXNNd1JXQUNR0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeHFCMzN0Q0lIb0JIWkRBWTRad0FSTmZtSnJrVkYxQ3lFWHZJcmk2VjhfaUJ0SzRWS3RuUUt5NDZQbzhod1BweEhEQWt2ZmNacW1FLS1MQ2x6NWQ5MHlSX1N3OS1uNm1a0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
    "published_utc": "2026-10-20T05:34:46+00:00",
    "title_original": "채권시장 종사자 93% \"10월 한은 금통위, 기준금리 동결할 것\" - 머니투데이",
    "region": "korea",
@@ -464,7 +481,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a635a4e49fd3df7b"
+   "id": "f458f88af40eac09"
   },
   {
    "source_id": "korea_herald_biz",
@@ -484,23 +501,6 @@
    "id": "aec81a3387efe297"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrNWowR1N3bVB6UVhIejF2MzI5LW9BbENpZVVfb1hMUXZhWHJGS3lWR2hyd1FkYVZXZ3BxRW9Gd3NxRTFWdWEwY0VnWjJNaFYwWlhvU19saEtKSUNlU0thSw?oc=5",
-   "published_utc": "2026-10-20T05:18:44+00:00",
-   "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c5947fbecfc0585f"
-  },
-  {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
    "title_en": "Asian currencies firm as dollar retreats; yuan hits four-year high",
@@ -516,6 +516,23 @@
    "live_wire": false,
    "manual": false,
    "id": "94a3c2e3a70f481b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEJxeWs2dEotVk5yQ1JIZHp6SVFrb2RrZFFFS0M2a05DVzNHN1RhVHFhSXVSQVpjV3Q5b2dpa2wyM2hLWWR0TnJHV2o3TjhnenN3ZzBLWTlfR3FiVTEyZnNmcjY1djAzc1FUWG9FbzZwVDYxV2VmQWlqWXM2Nnh3by1yMDRMN3ZSOWRCQmdNZw?oc=5",
+   "published_utc": "2026-10-20T05:14:00+00:00",
+   "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "698649e477d3ce6f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1042,9 +1059,9 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNXY4d0E5eEF5aUw0UlpGTGhjRnJzUENrZ010cUVzMVRZVmVnSDJOSW9yNEswWm9jdEN0UnhRNFNzMmV4VVp5ZktLWlJFRVpXWThpNTJSSEJ5Wm5adEpwSFpxMWhhZXp4ME45SHBtOEVRZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UOEd5TVhYdldxVjFRUFJkWVJDaXJaNmItUVh3UkVCRDRSdzBTYWEwQUVsQ3gzRThSbU1yLXkzZDBHVnluYi1aSXl3M2trV1JyS1lGdFFQcHU2SHZmeFR2SXhQZFc3amloMEpwSGdBczJ5ZloxMUE?oc=5",
    "published_utc": "2026-10-20T02:00:00+00:00",
-   "title_original": "2026年前三季度广东居民消费价格 同比上涨0.9%",
+   "title_original": "2026年前三季度广东居民消费价格同比上涨0.9%",
    "region": "china",
    "topics": [
     "inflation"
@@ -1053,7 +1070,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0bee112acf295ae1"
+   "id": "83d5a510f10ebe66"
   },
   {
    "source_id": "tradingview_live",
@@ -13108,9 +13125,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation on the 15th",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aWWQ3YlUxaU5oR2dpTmgyQXZSZGwyYXhiaFpoTy1Jb0ZJWUFiSEdpSlNvT19XYmhRMFRmMjA4cHZTTjBURUdQSjU1TjdFX1FQS2Mwc3dXbmpRRnVid3hOYUM0cWpKSGFCcHphR1hCRUZwVXR5UVc0djY5UFdPdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tajBlbVZhaDdEMlVRRFlNQTFPN1Q5VEJyU01vVlM1VXVMOW9LY1R4eTQyam9sbFpUY0p2Qlk0OXA5a0c0YUZ5WFRBY3hBbzZvbmF5ajFzeFNZNzRPbjAzVVM1SjVoYXZMNW54QUhNSQ?oc=5",
    "published_utc": "2026-10-14T09:05:42+00:00",
    "title_original": "央行15日开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -13122,7 +13139,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "403d8567ea938dde"
+   "id": "775752e5fabf0061"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51914,23 +51931,6 @@
    "live_wire": false,
    "manual": false,
    "id": "82f29314d687bd17"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "Chosunbiz",
-   "title_en": "Bank of Korea: “Raising the base interest rate will lead to a rise in loan delinquency rates for vulnerable groups after 9 months” - Chosun Biz",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTlWQ3hoN05GZUNBNkplTHJJazZKWXZEXzBNWURHNjFvVnBIS0Zfa1hTUlQ3VFpXeVVuVGg1ZjdNc2JxVTcxZmV5Y2MzY0tyenlZRXh2eXBRUURERHQ5SnNCVERkel9ZYS1IYUttVTZfU3QyczZTUGZFWGRRNFVrZW43ZnVRd9IBmgFBVV95cUxOMjk3bFNpUnJaNUViRlJMc1ZrdnB3M2xIWWZyTkdUWU9tVEphOVFWVWVtamlBTlVZMW1mTmhfcUdNVzZGVm1qMlJPTWNSRHNRV1JpcGR5cGdVN0hIQ2Qzek56MU0xc2JXWDFqaTRmQlJpd2VNQjJDVFpKcmNqOVV0eGdzeG5xS2VKSWgxbXVfNkxiV3N2VUhkRUVR?oc=5",
-   "published_utc": "2026-09-22T02:00:00+00:00",
-   "title_original": "한은 “기준금리 인상, 9개월 뒤 취약계층 대출 연체율 상승으로 이어진다” - 조선비즈",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7b5b0989f0759f6a"
   },
   {
    "source_id": "manual_ia",
