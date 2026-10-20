@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T07:02:43.523009+00:00",
- "collected_at_utc": "2026-10-20T07:02:43.523009+00:00",
+ "generated_at_utc": "2026-10-20T07:12:43.209630+00:00",
+ "collected_at_utc": "2026-10-20T07:12:43.209630+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 995,
+  "japan": 996,
   "china": 903,
-  "taiwan": 357,
+  "taiwan": 356,
   "korea": 745
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T06:39:41+00:00"
+   "newest": "2026-10-20T07:04:36+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:23:56+00:00"
+   "newest": "2026-10-20T07:00:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:48:24+00:00"
+   "newest": "2026-10-20T05:11:19+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-20T15:24:59+00:00"
+   "newest": "2026-10-20T16:08:29+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T14:45:00+09:00"
+   "newest": "2026-10-20T16:02:12+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T07:01:02+00:00"
+   "newest": "2026-10-20T07:11:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-20T15:33:00+09:00"
+   "newest": "2026-10-20T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,45 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:34:46+00:00"
+   "newest": "2026-10-20T07:06:46+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "오피니언뉴스",
+   "title_en": "Will the base interest rate increase take a break in October? Monetary Policy Committee predicts 3% annual freeze on the 22nd",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jVGNEbjFWbmN6QWN4SmtzTklKVW9WeklaamN6LVJWSTdKN1Y1NWdJVlFXVWJDNUhrSS16NkxxOWpVS0FneVJRdXI1c1QyVTdXZXVyQ1RFV0JJbXg1aUdIZlB1MmFHNXlHY2o1ei1UdVg?oc=5",
+   "published_utc": "2026-10-20T07:06:46+00:00",
+   "title_original": "기준금리 인상 10월엔 쉬어가나…금통위, 오는 22일 연 3% 동결 전망 우세",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d15c690164b3a613"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's Nikkei ends lower as higher yields, inflation fears weigh",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46606S:0-japan-s-nikkei-ends-lower-as-higher-yields-inflation-fears-weigh/",
+   "published_utc": "2026-10-20T07:01:36+00:00",
+   "title_original": "Japan's Nikkei ends lower as higher yields, inflation fears weigh",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a8d3a734f1011e05"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -625,7 +660,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rate in October” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeHFCMzN0Q0lIb0JIWkRBWTRad0FSTmZtSnJrVkYxQ3lFWHZJcmk2VjhfaUJ0SzRWS3RuUUt5NDZQbzhod1BweEhEQWt2ZmNacW1FLS1MQ2x6NWQ5MHlSX1N3OS1uNm1a0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DelR0Q0VYLV9HcGJjb21nV2VaSEtyZkVCVzRIaEstc1FjQTAxQTgweDYySXdwLTJmX0l5N0ZwYk4tUWppd29SaFRoNmQxT1hRQ2RtN09FbjNwc3lwanY5M1FpdlV1eXNNd1JXQUNR0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
    "published_utc": "2026-10-20T05:34:46+00:00",
    "title_original": "채권시장 종사자 93% \"10월 한은 금통위, 기준금리 동결할 것\" - 머니투데이",
    "region": "korea",
@@ -637,7 +672,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f458f88af40eac09"
+   "id": "a635a4e49fd3df7b"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1295,6 +1330,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ccb8e2135cb2fd00"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Japan’s Katayama Vows Fiscal Prudence on Defense Funding",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUEzMnZfWGpaOVV6TUFuMi1TVFJObEFhN3hFYnRDaFU2dnJLbENVT0d3bmtHeVpGUEdXaWNiVHcxZjdVT2R0MmozRzJ2WkFRSXNyMjJuUEhOVno3LUlaa0pweEdOeWg4eC1YelJTUk5naTNNbmRzTWlPSU1GNDl1VF9USlRISUp3b252OWlUMk91V1M0NjI1VXdGNHotTER5LVdnM21TVmc1dUU?oc=5",
+   "published_utc": "2026-10-20T01:43:00+00:00",
+   "title_original": "Japan’s Katayama Vows Fiscal Prudence on Defense Funding",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "da84e0d020db20d3"
   },
   {
    "source_id": "tradingview_live",
@@ -2025,8 +2077,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -2040,7 +2092,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "tradingview_live",
@@ -6047,8 +6099,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -6062,7 +6114,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -13298,9 +13350,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation on the 15th",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tajBlbVZhaDdEMlVRRFlNQTFPN1Q5VEJyU01vVlM1VXVMOW9LY1R4eTQyam9sbFpUY0p2Qlk0OXA5a0c0YUZ5WFRBY3hBbzZvbmF5ajFzeFNZNzRPbjAzVVM1SjVoYXZMNW54QUhNSQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aWWQ3YlUxaU5oR2dpTmgyQXZSZGwyYXhiaFpoTy1Jb0ZJWUFiSEdpSlNvT19XYmhRMFRmMjA4cHZTTjBURUdQSjU1TjdFX1FQS2Mwc3dXbmpRRnVid3hOYUM0cWpKSGFCcHphR1hCRUZwVXR5UVc0djY5UFdPdw?oc=5",
    "published_utc": "2026-10-14T09:05:42+00:00",
    "title_original": "央行15日开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -13312,7 +13364,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "775752e5fabf0061"
+   "id": "403d8567ea938dde"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51879,57 +51931,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bd304d2c7079b980"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "US and China to hold energy talks; impact on Japan's gasoline and prices could lead to renewed shortage of petroleum products (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KLU4zWkE3RHMxaGZEUXlkdnM0X2t1OFp0VEQ1T3F6TGN0Q194N2VGdWE1YWxUb215VVE1Um92d1lpLTVsVDRtS242MjdoblpkRmp5bFktVXJEMUNrSTVDVVVZRnZpZFp5MXZFZUZnWU01Tm1URlpfUlRqZkc5Q0k?oc=5",
-   "published_utc": "2026-09-22T02:54:16+00:00",
-   "title_original": "米中がエネルギー巡り協議へ 日本のガソリン・物価影響は 石油製品不足再燃の恐れも（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8566d9ec79b230a0"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan advances major science park expansion to support AI, semiconductor growth",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeVlWRFRaOUhvUUNsb1pVNzdtVkRCRExYb1hjMEtHdDI1TklWS3hCdGVpVFJtMVVXbmFkQ0l6dFVoM1VsdFRHRGVjdGFhUWpFZlNyUTZja2ZaZHJmRUVtekVVQ2lWcFB2X210dlhCVVNCcWptb19UcVVWWG5IQ2VTYUpfdlFBNjR0bHNNc1ptUDd1dGlFOEgzTmVaRGlWQ0dJ?oc=5",
-   "published_utc": "2026-09-22T02:54:12+00:00",
-   "title_original": "Taiwan advances major science park expansion to support AI, semiconductor growth",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc5c2bd4612f0704"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "문화일보",
-   "title_en": "Bank of Korea’s warning… Interest rate hike cold wave hits vulnerable households and small and medium-sized businesses next spring",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wVlFtNnQtWUlJbVE3emRhNGdnWVpOelFSdUo2b1J6eU9RZWxhaGIwUlg3d3pveWVaNHBmRGw4WTFhN0xRSXp3eHI4YnZ0aXE0?oc=5",
-   "published_utc": "2026-09-22T02:53:19+00:00",
-   "title_original": "한국은행의 경고… 금리인상 한파, 내년 봄 취약가계·중소기업 덮친다",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "038e742ea3027bdd"
   },
   {
    "source_id": "manual_ia",
