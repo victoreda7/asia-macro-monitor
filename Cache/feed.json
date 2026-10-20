@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T05:22:47.088777+00:00",
- "collected_at_utc": "2026-10-20T05:22:47.088777+00:00",
+ "generated_at_utc": "2026-10-20T05:32:48.210235+00:00",
+ "collected_at_utc": "2026-10-20T05:32:48.210235+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 997,
-  "china": 899,
+  "japan": 994,
+  "china": 902,
   "taiwan": 356,
   "korea": 748
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 35.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T04:13:00+00:00"
+   "newest": "2026-10-20T02:33:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T05:06:29+00:00"
+   "newest": "2026-10-20T05:24:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T04:54:24+00:00"
+   "newest": "2026-10-20T05:06:49+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-19T20:51:26+00:00"
+   "newest": "2026-10-20T05:14:34+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-20T13:50:25+00:00"
+   "newest": "2026-10-20T14:29:23+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T00:51:11+00:00"
+   "newest": "2026-10-20T04:07:08+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 22,
    "error": "",
-   "newest": "2026-10-20T03:42:00+00:00"
+   "newest": "2026-10-20T05:08:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T05:22:01+00:00"
+   "newest": "2026-10-20T05:32:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,92 @@
  ],
  "items": [
   {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "BYD surges to No. 4 in Korea's imported car market",
+   "url": "https://www.koreaherald.com/article/10908721",
+   "published_utc": "2026-10-20T05:32:41.790153+00:00",
+   "title_original": "BYD surges to No. 4 in Korea's imported car market",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "aec81a3387efe297"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s",
+   "url": "https://www.investing.com/news/economic-indicators/analysisas-japan-pursues-a-chipindustry-reboot-its-being-pressed-to-build-americas-4958769",
+   "published_utc": "2026-10-20T05:18:37+00:00",
+   "title_original": "Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fa54b0fb1f82aae6"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Asian currencies firm as dollar retreats; yuan hits four-year high",
+   "url": "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
+   "published_utc": "2026-10-20T05:14:34+00:00",
+   "title_original": "Asian currencies firm as dollar retreats; yuan hits four-year high",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "94a3c2e3a70f481b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐",
+   "title_en": "The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a daily limit of no more than 1 trillion yuan｜News",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ05JekFBZk84STBXbC1OTUk3Z2thaU9kQkxnZFNPNDFlUk5XNEVvYmd4Y2luOFVrQ3kyVHBtbUxKNmU0bHNod21yZkg3d2Rwa3hobExHMDBlNllKWVlKcFo4dHVTT3c4YngtWVNHc05pQ21hN3UyVWpUOTZhSThVM01ZUm9DZWFx?oc=5",
+   "published_utc": "2026-10-20T05:08:00+00:00",
+   "title_original": "央行将连续9个工作日开展隔夜逆回购操作，每日不超1万亿元｜快讯",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2e0f290e3e73bd70"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐网",
+   "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFd1WDlURjRRNVRMenAyU1hkTGhjYlM1bEZJUW0wT2NpbDVMVzhzLXE5alJ2allYUVVJS2tnUUxOdWlSLTNLS2hmQ3dHSDNNOGtWVTFWejFKMTR0SDVzeVB3VjE5a3FCc2tEb3NZd2txSEpjOEw5YXVJXzlqeC1reWU0QV9oUUhWQlA4?oc=5",
+   "published_utc": "2026-10-20T05:07:29+00:00",
+   "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "94e53c32e7d82fda"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Chinese Consumption Likely Still Faces Challenges — Market Talk",
@@ -359,23 +445,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e24cd3a3317e5621"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s",
-   "url": "https://www.investing.com/news/economic-indicators/analysisas-japan-pursues-a-chipindustry-reboot-its-being-pressed-to-build-americas-4958769",
-   "published_utc": "2026-10-20T05:00:31+00:00",
-   "title_original": "Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fa54b0fb1f82aae6"
   },
   {
    "source_id": "gn_kr_mk",
@@ -412,6 +481,24 @@
    "id": "7e3cc7689bdd9cce"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐",
+   "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
+   "published_utc": "2026-10-20T04:46:00+00:00",
+   "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b8b7943e562e9e1"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China and Hong Kong shares weaken as stable growth eases stimulus bets",
@@ -427,6 +514,41 @@
    "live_wire": true,
    "manual": false,
    "id": "15be55a65b6531ba"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vZDB1N2tzLWE0SW1aRHFzejRiOGZNMUQyQ3Y0QjY0Q01HTUtDT3J4aU10c0JVb3BaYWRvOWg4Y1JrMG9hMTZMN2M2MU16Rzh6NnhCVnROQ21fSmxWWVRzdg?oc=5",
+   "published_utc": "2026-10-20T04:35:40+00:00",
+   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8c0255988d518ffc"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "JAPAN consumption tax cut bill on food goes to Lower House",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
+   "published_utc": "2026-10-20T04:07:08+00:00",
+   "title_original": "JAPAN consumption tax cut bill on food goes to Lower House",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a8ed6db95fd49b94"
   },
   {
    "source_id": "nhk_politics",
@@ -552,6 +674,23 @@
    "id": "df523cd6d226f691"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByR1RCUXRvdzJXdko3eDhTNzJoTkk3dU9yczRUTTRVaFl0ZFRnNF9mZHBtQkp6d3BNMXQ3TDRyTlFCcGxkWUxNbXF1X1VQWEdNX1JHbmdPbURVWFhoVENCNUp5SVJBRm80UVpzRzRhNA?oc=5",
+   "published_utc": "2026-10-20T03:18:00+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e4ac9994d10111b"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Is the sudden rise in interest rates in France only due to special factors? The sudden sell-off of government bonds...Three warnings that Japan should heed | Politics, Economy, Investment | Toyo Keizai Online",
@@ -603,6 +742,24 @@
    "live_wire": true,
    "manual": false,
    "id": "173917f46ebc2bcd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "Central Bank: Conduct overnight reverse repurchase operations from October 21 to November 2, with a daily limit of no more than 1 trillion yuan",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TTk1GRUxfQUNRQ29RdG9jbEQydWE2NHg3YzV1aGtCVDhJUWhpYmprOTdmMU9DVlpVbVRRak9NRXRRUHU2QlI1QzdoNWhtVFpvMWJRczQtMWk5RG5VelRrOQ?oc=5",
+   "published_utc": "2026-10-20T02:56:00+00:00",
+   "title_original": "央行：10月21日至11月2日开展隔夜逆回购操作，每日不超过10000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7c89ef184659e23"
   },
   {
    "source_id": "korea_herald_biz",
@@ -845,6 +1002,23 @@
    "id": "260303f4ae3a7f14"
   },
   {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局广东调查总队",
+   "title_en": "[Authoritative Interpretation] Tian Zhifeng: Guangdong consumer prices have reached a low level and recovered moderately in the first three quarters of 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1Z3ZZdkRrb0RHOGcxSmdOTV9teHNWM3k1M2xTcFlCRmRTSS1xX0liRWgybzJuSEZ5NW9xdGpnbmYyMWJzend4ZU84amVROWlNT3k2NDFIdXR2dlB0ZFV0X1RuUlNkWi11MUVVNHkzZ3FPRFU?oc=5",
+   "published_utc": "2026-10-20T01:46:00+00:00",
+   "title_original": "【权威解读】田志峰：2026年前三季度广东居民消费价格实现低位温和回升",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ccb8e2135cb2fd00"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7200 TUES VS 6.7208",
@@ -964,24 +1138,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9ad2e007004925dc"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "JAPAN consumption tax cut bill on food goes to Lower House",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
-   "published_utc": "2026-10-20T00:51:11+00:00",
-   "title_original": "JAPAN consumption tax cut bill on food goes to Lower House",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a8ed6db95fd49b94"
   },
   {
    "source_id": "tradingview_live",
@@ -3775,7 +3931,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
+   "source_name": "36氪",
    "title_en": "The central bank launches 80 billion yuan 7-day reverse repurchase operation today",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVSTBQVkRCbkkxeWx1TUs3Wmk3Zk9IdmE2bkVZS3VWV2hBZmtRbUdPcUhGRFlYTjJZQnZfakNNZ1RwcDE3M20wdU9UbGtaeDR3a2FSZm5CcGg?oc=5",
    "published_utc": "2026-10-18T10:30:00+00:00",
@@ -11961,6 +12117,24 @@
    "id": "66fc5a1202af3a7a"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank announced that it will carry out a 700 billion yuan buyout reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzSGV2NVYyTjZRYV9PN3pCT0V5VkVBMDU0M19ZMHJzaEpTbU96azhEb24wUkZUZ3gxNXZ0NFd5M1VURkdCUEtRWU9HQVNtdTVnSGVIbjktMktFODV5V0VCdjJDMm0zdw?oc=5",
+   "published_utc": "2026-10-14T13:41:10+00:00",
+   "title_original": "央行预告，将开展7000亿元买断式逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "140b3c5415589b30"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "GlobalFoundries to Build 2 Chip Fabs in NY With Up to $21 Billion in Funding From U.S.-Japan Initiative",
@@ -11995,24 +12169,6 @@
    "live_wire": false,
    "manual": false,
    "id": "666386c864597bbe"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank announced that it will carry out a 700 billion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1meTZsR0NvSDZmZE02WW43TDhTbi1mLXRUeERfSFI0Y2k4QXdsXzBBQmZGNm9MT25xMXNoeXR4cHdDbHI2TUZrcW9NcDBJRFpxOXFpbThLUHF2dHp4ZGpLOGtWUEhvSk9Rc2pMTE42NA?oc=5",
-   "published_utc": "2026-10-14T13:26:29+00:00",
-   "title_original": "央行预告，将开展7000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "efd5b05364d0963e"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51776,161 +51932,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e2467d7a1e2886e8"
-  },
-  {
-   "source_id": "yahoo_business",
-   "source_name": "Yahoo! ニュース 経済",
-   "title_en": "If you grow it, it will be in the red.Farmers are in dire straits due to falling rice prices.",
-   "url": "https://news.yahoo.co.jp/pickup/6596106?source=rss",
-   "published_utc": "2026-09-22T00:28:43+00:00",
-   "title_original": "作れば赤字 米価下落で農家窮地",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ce68995cdf357486"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "China and US Discuss AI, Investment on Second Day of Trade Talks",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3NpQ0JSSEJ6YURVSUJZX1hIVElLaXpsSFVVWGZmeTRyQkJUNXNVSk9qU1ljQkV4aFpyOUxLcGdRSG5oYmRYQmtQZ2lfMG9BQ2pmQ0FpVkE2d3lDRmRNc1JNQWpIaTM5dDNfM0g0Qm5ISHBwZXdHNkxQQlYtQ3Rab1FOdDFLVGZCNDBzMFF3TmxJMUJpTEdKRjJUa3BNZ1FoM2tTYVllY3lzQUxBZWEw?oc=5",
-   "published_utc": "2026-09-22T00:07:00+00:00",
-   "title_original": "China and US Discuss AI, Investment on Second Day of Trade Talks",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "08d43d310b7dd161"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "scmp.com",
-   "title_en": "Why mainland Chinese students pay more for purpose-built housing in Hong Kong",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWmpnR0lmb09VcTdiQzlLSEdkNk80TGNFeVdnR2J5YU1xY3lJMXM2dm9KQTVTdU9GX0dwR09UV2I5VXJPRE5CZklfUWt2aDU1YjlQUWVEakhrVEVQMVBVWU5hdTRVTFhQZDZVMlZwM0VlbjZ4YThIQm91UDFnWnJzV1hBeGhzUG9meFJ6Um1oa3dZRnRwOFBBcmhOVXlpSmVodHd6ak5EcWlyN1hYUGpPMjdiOS1Jbkw2V3F1UU1yN2o5YjlidDRoWtIByAFBVV95cUxOTFltdGtTRTZTSDRVdVluS0ptTzNtTzJZX2hCcG9qXzFEZFFPMkRMa0pkai0wSHIwYm1Da1dsLWpITGh3SkJWU0xObnVNa2xyb041d1B3UjdVa2J6Ukg5bHhfNExoNG53LW1veXhuem1GUklSTjMxMm95d3lUTWRKdnlQdEdkdEY0UFBmd0NGVGh2eW1aTV9RYlhsd1QwUDYzNVpmYmt3RUtsTDBmU1JyV1dSTk9QUnp3eWlRdDF4bGU5b01VVVpwNg?oc=5",
-   "published_utc": "2026-09-22T00:00:29+00:00",
-   "title_original": "Why mainland Chinese students pay more for purpose-built housing in Hong Kong",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c1acc5e316e005c"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Corporate prices] High level of 7.6% in August, AI demand offsets the effect of strong yen and high crude oil prices (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JbDRLY2dtS1ZqVWNFdzBDQVBVUHRfX054cHd6cnFNYlc4dC1kVE9zeTBzcWtXbXB1bi1nZUlGTVZuS2twaHg3ZG9TNmRNWndVU19DclBEQ0MwSDFIS2N6cXBuSFgtcm1SRkI5SnJabkpCVTZ2aHRkaWxoS1RkUlU?oc=5",
-   "published_utc": "2026-09-21T23:00:34+00:00",
-   "title_original": "【企業物価】8月も7.6％の高水準 円高効果を相殺するAI需要と原油高（TBS CROSS DIG with Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "89d7cd995792490c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "封面新闻",
-   "title_en": "The central bank launches trillions of buyout reverse repurchases｜Wealth Weekly Calendar Dynamic Forecast",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYU0VpZ1VqTFVOTlhfU0VLb0lZQ1ZfNzhpcW5yUVBJVG4wOXp2LXhMZ05VTDhydEJGU2RjdEhKM1lHbURId3dZdjVpZUtGaG9OVTNvMlpBSTRRZVdZYjUzRDhYbHp3QkhUQm4xcXNoVUJYRFJKMmtv?oc=5",
-   "published_utc": "2026-09-21T22:13:52+00:00",
-   "title_original": "央行开展万亿买断式逆回购｜财富周历 动态前瞻",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9413a55749ca9fb"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "What will happen? Japan's finances...Can consumption tax be reduced? 5 articles you should read at least once (Wedge)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRVVKWGV3VlF6UmtHdjBvOGRfSlFHOEtaNkRCRTJDOUxPR2ozY2duTXJTeHhTQWs4UC1rbUR1Z2lCeTNnWlpRdndBVHZNZndYTmZ1bE5HSTRKbjBTNndkMXdWdHNoY25SN0hsaUN2NGs4dkJXNGR0SVlIVEtXZ1BNeW1reUFQdVlf?oc=5",
-   "published_utc": "2026-09-21T21:00:36+00:00",
-   "title_original": "どうなる？日本の財政…消費税減税はできるのか？今一度読んでおきたい記事５選（Wedge（ウェッジ））",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "87056f29c223e46c"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "China is exporting the \"Trump phenomenon\" to the world...Extremist politics is accelerating due to the hollowing out of industry, and there is no countermeasure other than protection policies | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/958432?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-21T21:00:00+00:00",
-   "title_original": "中国こそが世界に｢トランプ現象｣を輸出している…産業空洞化で過激政治が加速､もはや保護政策以外に対策はない | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9cc235e99afad97f"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "bloomberg.com",
-   "title_en": "KKR Bets on Korea AI Supply Chain After Record $3 Billion Deals",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXdweTVtcHc0TDFVZUMxN2I0NS1xRXFhQUFoNFNSVXpPUFRPWkdMMjJrcnlpYUR3NnVVT3pvc3FRMGZBb1hDZ1RmazBsbXVpYW9DeHdyTUVTTThXMjgxM3YtQVJPOEZiMkFMbTVXZDdJWHc5Nm9IUnZUc1o5QVdTdGY1YTl3b1ZwUVNTRHdtajZOSUJnSE03cG1WWGdhNExnYkJGT0VwZmpIX1ZzY0U4Um5TMA?oc=5",
-   "published_utc": "2026-09-21T21:00:00+00:00",
-   "title_original": "KKR Bets on Korea AI Supply Chain After Record $3 Billion Deals",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0f65679f6fcaf9ba"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Auto industry presses Trump to bar Chinese car manufacturing in US ahead of Xi visit",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pSVlkcng0V09IR29xbkFuUVRLNS03OG9RTFVLeHh1UTk4UmlpOUpRWW5rWVVURkR3M2NVVkFrdkZDVHAyRUpaWWJPY1hhQktjckM2d1I0cE5wUmlpWDJTcDBtWG1EOWJtZTgyejR5S1lvZU9GdkhF?oc=5",
-   "published_utc": "2026-09-21T20:55:35+00:00",
-   "title_original": "Auto industry presses Trump to bar Chinese car manufacturing in US ahead of Xi visit",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f99e7a44fa01c7d6"
   },
   {
    "source_id": "manual_ia",

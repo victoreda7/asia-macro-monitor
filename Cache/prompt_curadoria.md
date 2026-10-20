@@ -7,21 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T05:22:47.088777+00:00
+Última coleta: 2026-10-20T05:32:48.210235+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          997
-  🇨🇳 China          899
+  🇯🇵 Japão          994
+  🇨🇳 China          902
   🇹🇼 Taiwan         356
   🇰🇷 Coreia do Sul  748
 
 ## O que já está no feed (não repita)
 
-  - [china] Chinese Consumption Likely Still Faces Challenges — Market Talk
+  - [korea] BYD surges to No. 4 in Korea's imported car market
   - [japan] Analysis-As Japan pursues a chip-industry reboot, it’s being pressed to build America’s
+  - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
+  - [china] The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a
+  - [china] The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow
+  - [china] Chinese Consumption Likely Still Faces Challenges — Market Talk
   - [korea] The Jeonnam Gwangju Semiconductor Forum held its first board meeting and launched activities to crea..
   - [taiwan] TSMC plans 3nm semiconductor manufacturing at second Japan factory, investment to exceed USD 23 billion
+  - [china] For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day
   - [china] China and Hong Kong shares weaken as stable growth eases stimulus bets
+  - [china] The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consec
+  - [japan] JAPAN consumption tax cut bill on food goes to Lower House
   - [japan] Bill related to consumption tax reduction on food items to be debated in the House of Representatives this aft
   - [korea] Samgi America, the North American subsidiary of Samgi Energy Solutions, has won a contract to supply..
   - [china] Yuan hits fresh high since 2022 on export growth, stronger guidance
@@ -29,9 +36,11 @@ Total: 3000 manchetes
   - [china] The central bank has pushed a daily cap of 1 trillion yuan for overnight reverse repurchases and plans to grad
   - [korea] Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings
   - [china] China's fuel oil exports for bunkering rebound in September while imports ease
+  - [china] The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repur
   - [japan] Is the sudden rise in interest rates in France only due to special factors? The sudden sell-off of government 
   - [japan] Citizens Submit a counterproposal to the consumption tax reduction bill, aiming to reduce the burden through r
   - [japan] Yen Weakens Despite Hawkish Ueda Remarks
+  - [china] Central Bank: Conduct overnight reverse repurchase operations from October 21 to November 2, with a daily limi
   - [korea] Finance minister pledges support for global 'AI basic society'
   - [china] Offshore Yuan Extends Gains to Over 4-Year High
   - [taiwan] Taiwan industry seeks nuclear restart and utility relief amid energy costs boom
@@ -46,17 +55,8 @@ Total: 3000 manchetes
   - [china] China's Key Lending Rates Kept Unchanged as PBOC Weighs Reforms
   - [china] PBOC Signals Potential Shift in Key Policy Rate — Market Talk
   - [china] CHINA PBOC CONDUCTS CNY0 BLN VIA 7-DAY REVERSE REPO TUES
+  - [china] [Authoritative Interpretation] Tian Zhifeng: Guangdong consumer prices have reached a low level and recovered 
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7200 TUES VS 6.7208
-  - [china] The central bank’s 7-day reverse repurchase operation volume on October 20 was zero
-  - [japan] Economics and Finance Minister Jouchi ``attends this month's Bank of Japan meeting if it suits him'', once aga
-  - [china] Preliminary calculation results of GDP in the third quarter of 2026
-  - [japan] Dollar and euro drift, yen slips as markets seek direction
-  - [china] China Holds LPR Rates at Record Lows for 17th Month
-  - [japan] Japan's economy minister says he respects central bank independence
-  - [japan] JAPAN consumption tax cut bill on food goes to Lower House
-  - [korea] Key facts: Samsung (005930) to use TSMC 3nm for NVHBM; retains HBM fabs
-  - [japan] Yen depreciation and long-term interest rates at historic levels, pressure to revise the signature policy of `
-  - [japan] Japanese Prime Minister Sanae Takaichi Has Not Ruled Out Issuing Bonds to Finance Budget
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T05:22:47+00:00",
+      "published_utc": "2026-10-20T05:32:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
