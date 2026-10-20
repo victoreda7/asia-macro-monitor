@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T20:42:42.976299+00:00",
- "collected_at_utc": "2026-10-20T20:42:42.976299+00:00",
+ "generated_at_utc": "2026-10-20T20:52:44.228651+00:00",
+ "collected_at_utc": "2026-10-20T20:52:44.228651+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1007,
+  "japan": 1008,
   "china": 900,
   "taiwan": 354,
-  "korea": 739
+  "korea": 738
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:30:09+00:00"
+   "newest": "2026-10-20T17:57:37+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T06:56:15+00:00"
+   "newest": "2026-10-20T08:35:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T04:48:00+09:00"
+   "newest": "2026-10-21T05:48:57+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T07:09:44+00:00"
+   "newest": "2026-10-20T11:44:56+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T20:42:00+00:00"
+   "newest": "2026-10-20T20:52:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-21T05:30:00+09:00"
+   "newest": "2026-10-21T05:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill: Opposition parties offer counterproposals, ruling party seeks compromise to enact legislation",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261020de62512",
+   "published_utc": "2026-10-20T20:48:57+00:00",
+   "title_original": "消費税減税法案 野党からは対案も 与党は成立へ歩み寄り模索",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ae7e59ada5d2fcd1"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Will AI really push up long-term interest rates? The key is the difficult issue of determining whether productivity increases are permanent or temporary | Politics, Economy, and Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/961885?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-20T20:45:00+00:00",
+   "title_original": "AIは本当に長期金利を押し上げるのか。カギを握るのは､生産性上昇が恒久的か一時的かという見極めにくい論点だ | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8cef661b5aefce74"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1988,10 +2023,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "京报网",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
-   "published_utc": "2026-10-20T04:46:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
+   "published_utc": "2026-10-20T04:37:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -2002,7 +2037,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b8b7943e562e9e1"
+   "id": "113a63c4f4301728"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51910,41 +51945,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2034d0e89a105f12"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Excessive intervention by the Japanese and US authorities, who ignore fundamentals, will not stop the rise in long-term interest rates; there is a huge cost in distorting market signals | Politics, Economics, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/958486?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-22T21:00:00+00:00",
-   "title_original": "ファンダメンタルズに目を背ける日米当局の過度な介入では長期金利上昇は止まらない､市場シグナルを歪める大きな代償 | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "016ff2710dd5602b"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "South Korea Keeps Fuel Cheap for Holidays as Fiscal Cost Mounts",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemZIZGZJY25DbXQ4cEo0eTdiWlJYU1cxQy16Nk5ib1FITEZXaUFxaHV0SVpOQXpxRjBYczBjQXREU1hFc21wc2hQSXB6U3J2MWlnakI5bnUwMUFKUE5MRWptR2YwZjFIb0lBWkVieXpOVzlvcnJ2ZGlhZU9OZW5NU0JBdWZ3SWRMVHlHUUZQSTB2UWtjbjFFSFg1RGZSRnY2WVM3T2ZhdlVrQVhpUmdWTjZvRmY?oc=5",
-   "published_utc": "2026-09-22T21:00:00+00:00",
-   "title_original": "South Korea Keeps Fuel Cheap for Holidays as Fiscal Cost Mounts",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "81e7aae52dabd6a0"
   },
   {
    "source_id": "manual_ia",
