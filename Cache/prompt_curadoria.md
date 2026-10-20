@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T07:32:45.502829+00:00
+Última coleta: 2026-10-20T07:42:44.208315+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          998
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief By Reuters
   - [korea] Kospi Snaps Two-Session Winning Streak; Chip, Defense Stocks Retreat
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief
+  - [china] The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consec
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions report
   - [china] Central Bank: Will carry out overnight reverse repurchase operations from October 21 to November 2
@@ -50,7 +51,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC plans 3nm semiconductor manufacturing at second Japan factory, investment to exceed USD 23 billion
   - [china] For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day
   - [china] China and Hong Kong shares weaken as stable growth eases stimulus bets
-  - [china] The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consec
   - [japan] Bill related to consumption tax reduction on food items to be debated in the House of Representatives this aft
   - [korea] Samgi America, the North American subsidiary of Samgi Energy Solutions, has won a contract to supply..
   - [china] Yuan hits fresh high since 2022 on export growth, stronger guidance
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T07:32:45+00:00",
+      "published_utc": "2026-10-20T07:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

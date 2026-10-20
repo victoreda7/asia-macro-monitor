@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-20T07:32:45.502829+00:00",
- "collected_at_utc": "2026-10-20T07:32:45.502829+00:00",
+ "generated_at_utc": "2026-10-20T07:42:44.208315+00:00",
+ "collected_at_utc": "2026-10-20T07:42:44.208315+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 356,
   "korea": 743
  },
- "elapsed_s": 31.0,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:48:24+00:00"
+   "newest": "2026-10-20T07:38:19+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T05:18:44+00:00"
+   "newest": "2026-10-20T06:27:38+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T04:51:00+00:00"
+   "newest": "2026-10-20T05:52:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T07:31:31+00:00"
+   "newest": "2026-10-20T07:38:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-20T15:33:00+09:00"
+   "newest": "2026-10-20T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -516,6 +516,23 @@
    "live_wire": false,
    "manual": false,
    "id": "644145a686a56bd7"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "同花顺",
+   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kR0FIVmczN2RpcjV0MHdObWZCQU9DVThDekt0ampvNXR5ejAyUVE0Zm5hVWtPa1lkLTZzM2djay1QM3FmUmphejhKZktsVXhnSnJhbFI2bG9vODExa0E?oc=5",
+   "published_utc": "2026-10-20T06:27:38+00:00",
+   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b9fbd044006af956"
   },
   {
    "source_id": "gn_kr_mk",
@@ -917,23 +934,6 @@
    "live_wire": true,
    "manual": false,
    "id": "15be55a65b6531ba"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vZDB1N2tzLWE0SW1aRHFzejRiOGZNMUQyQ3Y0QjY0Q01HTUtDT3J4aU10c0JVb3BaYWRvOWg4Y1JrMG9hMTZMN2M2MU16Rzh6NnhCVnROQ21fSmxWWVRzdg?oc=5",
-   "published_utc": "2026-10-20T04:35:40+00:00",
-   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c0255988d518ffc"
   },
   {
    "source_id": "nhk_politics",
@@ -2166,8 +2166,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -2181,7 +2181,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -4058,7 +4058,7 @@
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
    "title_en": "How China made climate resilience part of its economic growth strategy",
-   "url": "https://www.scmp.com/opinion/china-opinion/article/3371034/how-china-made-climate-resilience-part-its-economic-growth-strategy?utm_source=rss_feed",
+   "url": "https://www.scmp.com/opinion/china-opinion/article/3371034/how-china-made-climate-resilience-part-its-economic-growth-strategy",
    "published_utc": "2026-10-18T21:30:06+00:00",
    "title_original": "How China made climate resilience part of its economic growth strategy",
    "region": "china",
@@ -4069,7 +4069,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "c5fac29aa25e6fdb"
+   "id": "518c82991f792168"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -6188,8 +6188,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -6203,7 +6203,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
