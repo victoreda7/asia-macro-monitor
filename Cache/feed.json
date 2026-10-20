@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T06:42:43.020123+00:00",
- "collected_at_utc": "2026-10-20T06:42:43.020123+00:00",
+ "generated_at_utc": "2026-10-20T06:52:43.156638+00:00",
+ "collected_at_utc": "2026-10-20T06:52:43.156638+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 995,
-  "china": 902,
+  "japan": 994,
+  "china": 903,
   "taiwan": 356,
   "korea": 747
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T06:05:36+00:00"
+   "newest": "2026-10-20T06:39:41+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T05:54:44+00:00"
+   "newest": "2026-10-20T06:30:45+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 22,
    "error": "",
-   "newest": "2026-10-20T05:14:00+00:00"
+   "newest": "2026-10-20T06:14:47+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T06:40:23+00:00"
+   "newest": "2026-10-20T06:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -378,11 +378,11 @@
    "id": "6b19c4e95291099f"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
    "title_en": "Yen jumps after JGB auction draws big demand, euro finds relief",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46609C:0-yen-jumps-after-jgb-auction-draws-big-demand-euro-finds-relief/",
-   "published_utc": "2026-10-20T06:24:13+00:00",
+   "url": "https://www.investing.com/news/economy-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction-4958627",
+   "published_utc": "2026-10-20T06:30:45+00:00",
    "title_original": "Yen jumps after JGB auction draws big demand, euro finds relief",
    "region": "japan",
    "topics": [
@@ -391,9 +391,9 @@
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "d372adf84e5a5bcd"
+   "id": "644145a686a56bd7"
   },
   {
    "source_id": "gn_kr_mk",
@@ -432,6 +432,42 @@
    "id": "71404ed3289b6b41"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "手机网易网",
+   "title_en": "Central Bank: Will carry out overnight reverse repurchase operations from October 21 to November 2",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xdDNzRE50b3RwRDAwNkhIMVF5Mjl3M3Znd3ZFVDA5VUgxQUFfOFM2QW5TTjhxQUI4ZFYtMzR4c2hIcHZmR29FUUlyLVN1WXpWRGZqblFxNW1nSUdZTHhXMHhB?oc=5",
+   "published_utc": "2026-10-20T06:14:47+00:00",
+   "title_original": "央行：将在10月21日至11月2日开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "dfe23531a3f29f7a"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say",
+   "url": "https://www.investing.com/news/economy-news/bank-of-japan-may-raise-inflation-forecast-stand-pat-on-rates-sources-say-4958806",
+   "published_utc": "2026-10-20T06:12:43+00:00",
+   "title_original": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c036fe0a33d51286"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "APEC role is important for a challenged global economy, China minister says",
@@ -464,25 +500,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fa54b0fb1f82aae6"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say",
-   "url": "https://www.investing.com/news/economy-news/bank-of-japan-may-raise-inflation-forecast-stand-pat-on-rates-sources-say-4958806",
-   "published_utc": "2026-10-20T05:54:44+00:00",
-   "title_original": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c036fe0a33d51286"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -885,7 +902,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByR1RCUXRvdzJXdko3eDhTNzJoTkk3dU9yczRUTTRVaFl0ZFRnNF9mZHBtQkp6d3BNMXQ3TDRyTlFCcGxkWUxNbXF1X1VQWEdNX1JHbmdPbURVWFhoVENCNUp5SVJBRm80UVpzRzRhNA?oc=5",
    "published_utc": "2026-10-20T03:18:00+00:00",
@@ -1298,23 +1315,6 @@
    "id": "a9e11255a6720f0e"
   },
   {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Dollar and euro drift, yen slips as markets seek direction",
-   "url": "https://www.investing.com/news/economy-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction-4958627",
-   "published_utc": "2026-10-20T01:18:39+00:00",
-   "title_original": "Dollar and euro drift, yen slips as markets seek direction",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4ed5b91244980d25"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "China Holds LPR Rates at Record Lows for 17th Month",
@@ -1366,6 +1366,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a8ed6db95fd49b94"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "联合早报",
+   "title_en": "The People's Bank of China plans to change the overnight repurchase rate as the policy benchmark. Analysis: A disguised interest rate cut may occur.",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BVEs5Unl1NEJzMFJXbV90eVhtam1QcTdLY3FKT0pmVzNhSXRwV0JJdlNqeTBoLW93U3VLZ0hQdDRTTjU5RUpzbWR1ek8zc3pxWVJXN2R3T2h4ZWxiTkVvRTNGNi1lZVEwNEE?oc=5",
+   "published_utc": "2026-10-20T00:30:39+00:00",
+   "title_original": "中国央行拟改以隔夜回购利率为政策基准 分析：或形成变相降息",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "77e7c99a37ef14c4"
   },
   {
    "source_id": "tradingview_live",
@@ -1940,8 +1957,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -1955,7 +1972,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "tradingview_live",
@@ -5962,8 +5979,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -5977,7 +5994,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -51914,24 +51931,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6d31ff969692a2cb"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank launched a 35 billion yuan 7-day reverse repurchase operation on September 22",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4WW8yZ280SkZGZjlRV2stQXlwRzMyaFZaRnh2WWI4R2NYbkRuWmNOTmNNcTF2d1pwbXhHZ282WjdQMFF2X0d0UVVVNm1QT2R2dFlCbWt2d1k1OHU5VloyQ2xR?oc=5",
-   "published_utc": "2026-09-22T02:09:01+00:00",
-   "title_original": "央行9月22日开展350亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5211bd20cf3a5669"
   },
   {
    "source_id": "manual_ia",
