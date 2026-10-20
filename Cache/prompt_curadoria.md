@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T21:32:43.630470+00:00
+Última coleta: 2026-10-20T21:42:43.989375+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1006
-  🇨🇳 China          901
+  🇨🇳 China          900
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  739
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea Producer Inflation Eases Slightly
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [china] Even the legendary man who transformed Shanghai and Chongqing was taken away... The shadow of China's economy,
   - [japan] Consumption tax reduction bill: Opposition parties offer counterproposals, ruling party seeks compromise to en
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] London Metal Exchange CEO affirms support for use of yuan
   - [china] Soybeans open Tuesday higher in Chicago with new import data from China on radar
   - [korea] BOK Financial Corporation Stock 12‑Month Price Target Cut to $145.56, Implies 18% Upside
-  - [taiwan] September exports smash previous monthly records, up over 60%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T21:32:43+00:00",
+      "published_utc": "2026-10-20T21:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
