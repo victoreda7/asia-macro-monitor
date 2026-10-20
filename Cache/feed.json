@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-20T08:32:43.704635+00:00",
- "collected_at_utc": "2026-10-20T08:32:43.704635+00:00",
+ "generated_at_utc": "2026-10-20T08:42:42.434650+00:00",
+ "collected_at_utc": "2026-10-20T08:42:42.434650+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1000,
+  "japan": 999,
   "china": 899,
-  "taiwan": 358,
-  "korea": 743
+  "taiwan": 360,
+  "korea": 742
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T08:25:21+00:00"
+   "newest": "2026-10-20T08:37:13+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-20T07:57:20+00:00"
+   "newest": "2026-10-20T08:30:26+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T17:20:05+09:00"
+   "newest": "2026-10-20T17:20:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-20T16:44:34+09:00"
+   "newest": "2026-10-20T16:44:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T07:44:15+00:00"
+   "newest": "2026-10-20T08:27:54+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T04:51:00+00:00"
+   "newest": "2026-10-20T05:13:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-20T08:32:00+00:00"
+   "newest": "2026-10-20T08:42:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T07:35:01+00:00"
+   "newest": "2026-10-20T08:30:37+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T08:03:34+00:00"
+   "newest": "2026-10-20T08:33:33+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Taiwan September export orders hit record value on solid AI demand",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N466089:0-taiwan-september-export-orders-hit-record-value-on-solid-ai-demand/",
+   "published_utc": "2026-10-20T08:42:01+00:00",
+   "title_original": "Taiwan September export orders hit record value on solid AI demand",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b4799a4395e4a495"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -378,6 +395,23 @@
    "id": "05cb97c12b1b0779"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The People's Bank of China will carry out overnight reverse repurchase operations for 9 consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9faHBVbU5Ec0xUTGw1eC1VY0ktMWZXa21qMkptVTNtcGRYck9ZZW81dVJxRzRHOTZoQTJ2QXJFZWRzcnM3QVlWV3JJSlFjTmxQOWMtdTllUm13ZDhDTElsU3FiUkNPeFZ0?oc=5",
+   "published_utc": "2026-10-20T08:27:54+00:00",
+   "title_original": "中国央行将连续9个工作日开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d8b92739fda5bb2d"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Japan MOF To Auction Y3.3T Of TD-Bills Oct 23",
@@ -393,6 +427,23 @@
    "live_wire": true,
    "manual": false,
    "id": "1fea26812a4772d2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Taiwan Export Orders Hit New Record High",
+   "url": "https://www.tradingview.com/news/te_news:593411:0-taiwan-export-orders-hit-new-record-high/",
+   "published_utc": "2026-10-20T08:20:48+00:00",
+   "title_original": "Taiwan Export Orders Hit New Record High",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "80e4960a6969369d"
   },
   {
    "source_id": "investing_fx",
@@ -688,24 +739,6 @@
    "id": "e7891732b57664bb"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "쿠키뉴스",
-   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
-   "published_utc": "2026-10-20T06:49:27+00:00",
-   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dbbecc69c06d83e"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China resumes sulphuric acid exports to copper king Chile after three-month halt",
@@ -793,6 +826,23 @@
    "live_wire": false,
    "manual": false,
    "id": "55ab5d52d5e4ba42"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "同花顺",
+   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kR0FIVmczN2RpcjV0MHdObWZCQU9DVThDekt0ampvNXR5ejAyUVE0Zm5hVWtPa1lkLTZzM2djay1QM3FmUmphejhKZktsVXhnSnJhbFI2bG9vODExa0E?oc=5",
+   "published_utc": "2026-10-20T06:27:38+00:00",
+   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b9fbd044006af956"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -958,7 +1008,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "대한데일리",
    "title_en": "The Bank of Korea is taking a breather, the stock market is at a crossroads... The decision on the base interest rate is",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tWUcxcllGdjB6STltTWZlejFGSURVYWpNakNFendnVVh6QXZSel92NjNtUW5CWmxjT1QtQ0FrWnN6MVRGczV6S2szeEhQeVF5QmhwdHFXSzVuTHBfdEtqdy1rS1hLUUJsTURZ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhMnlTOFVlYTl5ZU8ySE94ekJOSXpwTG5pczBnbHdvTUZhMjNpT3N4SlNmOEgwT1NLcl9IUkNwUnlJTmVqVUhLbzBRYUpyMV9uNVZmQl9uQTJnalY0NGFsWF9mWm8wS0tKQmc?oc=5",
    "published_utc": "2026-10-20T05:53:57+00:00",
    "title_original": "숨 고르는 한은, 갈림길 선 증시…기준금리 결정은",
    "region": "korea",
@@ -969,7 +1019,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "39f13cec614c29c6"
+   "id": "80934092bf2d3c30"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1177,23 +1227,6 @@
    "live_wire": true,
    "manual": false,
    "id": "15be55a65b6531ba"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vZDB1N2tzLWE0SW1aRHFzejRiOGZNMUQyQ3Y0QjY0Q01HTUtDT3J4aU10c0JVb3BaYWRvOWg4Y1JrMG9hMTZMN2M2MU16Rzh6NnhCVnROQ21fSmxWWVRzdg?oc=5",
-   "published_utc": "2026-10-20T04:35:40+00:00",
-   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c0255988d518ffc"
   },
   {
    "source_id": "nhk_politics",
@@ -1561,23 +1594,6 @@
    "id": "d6788aa568c83c92"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's September US soybean imports rebound from zero a year earlier, data shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46601A:0-china-s-september-us-soybean-imports-rebound-from-zero-a-year-earlier-data-shows/",
-   "published_utc": "2026-10-20T02:00:47+00:00",
-   "title_original": "China's September US soybean imports rebound from zero a year earlier, data shows",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7e5d9de700f23041"
-  },
-  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
@@ -1593,24 +1609,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0bee112acf295ae1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan yet to decide on defence budget funding, finance minister says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N466015:0-japan-yet-to-decide-on-defence-budget-funding-finance-minister-says/",
-   "published_utc": "2026-10-20T01:53:03+00:00",
-   "title_original": "Japan yet to decide on defence budget funding, finance minister says",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "512c1cbaba829ac4"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -2340,8 +2338,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -2355,7 +2353,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -4369,6 +4367,24 @@
    "id": "f280bdc6198f54b6"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "쿠키뉴스",
+   "title_en": "As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY0F4VGlWc2RscWFpUmZEbzNTQjg5c1dRSTN1RFZyZlAySXF3NVdkcGNrVy0zRzREVHdwQ1oya3NRUWpIbk12NU9Ia0R6cm1zVzFTLWRmR2J4b2ZXZHcteWtLcw?oc=5",
+   "published_utc": "2026-10-18T19:50:44+00:00",
+   "title_original": "시간 번 한은…10월 금통위, 기준금리 ‘동결’ 무게",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dbbecc69c06d83e"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Mint",
    "title_en": "NRI's Rs.3.41 crore FCNR deposits flagged as unexplained money after tax officer mistook yen for rupees, ITAT gives relief",
@@ -6379,8 +6395,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -6394,7 +6410,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -13630,9 +13646,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation on the 15th",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tajBlbVZhaDdEMlVRRFlNQTFPN1Q5VEJyU01vVlM1VXVMOW9LY1R4eTQyam9sbFpUY0p2Qlk0OXA5a0c0YUZ5WFRBY3hBbzZvbmF5ajFzeFNZNzRPbjAzVVM1SjVoYXZMNW54QUhNSQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aWWQ3YlUxaU5oR2dpTmgyQXZSZGwyYXhiaFpoTy1Jb0ZJWUFiSEdpSlNvT19XYmhRMFRmMjA4cHZTTjBURUdQSjU1TjdFX1FQS2Mwc3dXbmpRRnVid3hOYUM0cWpKSGFCcHphR1hCRUZwVXR5UVc0djY5UFdPdw?oc=5",
    "published_utc": "2026-10-14T09:05:42+00:00",
    "title_original": "央行15日开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -13644,7 +13660,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "775752e5fabf0061"
+   "id": "403d8567ea938dde"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51916,23 +51932,6 @@
    "live_wire": true,
    "manual": false,
    "id": "2f4b1006ec93a72d"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "beyondpost.co.kr",
-   "title_en": "“If the base interest rate is increased by 0.25% point, the interest burden will increase by 3.3 trillion won for households and 3.7 trillion won for businesses”... Bank of Korea",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tTTlXa2RKbWxJT3M1RjlodHZPNWVud3dvQm12VFBUemhBaVpQZzdSejRPSjdiUW1ObHc0OHk0djFUbXpDNC0tb3lQeUlZMFoxUVRQTFZHYzBfbVVuMVBqSld3S3BRN3l2QTlKMGRtbWFYM2Y0dUpuTm4zdHc?oc=5",
-   "published_utc": "2026-09-22T04:57:21+00:00",
-   "title_original": "\"기준금리 0.25%포인트 인상시 가계 3.3조원, 기업 3.7조원 이자부담 늘어\"...한국은행",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "24d64ab485d2e71f"
   },
   {
    "source_id": "manual_ia",

@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T08:32:43.704635+00:00
+Última coleta: 2026-10-20T08:42:42.434650+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1000
+  🇯🇵 Japão          999
   🇨🇳 China          899
-  🇹🇼 Taiwan         358
-  🇰🇷 Coreia do Sul  743
+  🇹🇼 Taiwan         360
+  🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan September export orders hit record value on solid AI demand
   - [china] China, Hong Kong shares weaken as stable growth eases stimulus bets
   - [taiwan] BASF Signs Semiconductor Agreement With Taiwan to Expand Materials Site
+  - [china] The People's Bank of China will carry out overnight reverse repurchase operations for 9 consecutive working da
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 23
+  - [taiwan] Taiwan Export Orders Hit New Record High
   - [china] Asian currencies firm as dollar retreats; yuan hits four-year high
   - [china] China keeps yttrium exports to Japan restricted in September
   - [korea] South Korea to consider cutting bond issuance if needed to stabilise market
@@ -37,12 +40,12 @@ Total: 3000 manchetes
   - [taiwan] Key facts: NVIDIA Sees $108B Q3 Sales; 104‑Qubit Sim; TSMC 3nm NVHBM
   - [japan] The prefecture's economy is on a "moderate recovery trend", Bank of Japan's Councilor Koeda gives a speech in 
   - [korea] South Korean shares post more than 6-month closing low as chipmakers fall on AI concerns
-  - [korea] As long as I have time... In October, the Monetary Policy Committee decided to ‘freeze’ the base interest rate
   - [china] China resumes sulphuric acid exports to copper king Chile after three-month halt
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief By Reuters
   - [korea] Kospi Snaps Two-Session Winning Streak; Chip, Defense Stocks Retreat
   - [japan] Yen jumps after JGB auction draws big demand, euro finds relief
   - [japan] Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters
+  - [china] The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consec
   - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend
   - [korea] Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions report
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan may raise price outlook for FY2027, policy interest rate likely to remain unchanged = source (Re
   - [korea] The Bank of Korea is taking a breather, the stock market is at a crossroads... The decision on the base intere
   - [korea] Hyundai Motor Group unites defense arms in global export push
-  - [japan] ABB To Acquire 51% Stake In Mitsubishi Electric Joint Venture For JPY 82.4 Bln
-  - [korea] SK Hynix Shares Appear Undervalued Amid AI Financing Concerns — Market Talk
-  - [korea] 93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T08:32:43+00:00",
+      "published_utc": "2026-10-20T08:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
