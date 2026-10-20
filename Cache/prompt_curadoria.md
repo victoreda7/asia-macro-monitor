@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T02:02:43.931564+00:00
+Última coleta: 2026-10-20T02:12:47.330540+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1000
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China's September US soybean imports rebound from zero a year earlier, data shows
   - [japan] Japan yet to decide on defence budget funding, finance minister says
   - [china] China's Key Lending Rates Kept Unchanged as PBOC Weighs Reforms
   - [china] PBOC Signals Potential Shift in Key Policy Rate — Market Talk
@@ -37,6 +38,7 @@ Total: 3000 manchetes
   - [japan] Weak yen and long-term interest rates at historic levels, pressure to revise the signature policy of ``active 
   - [taiwan] Weekly Recap: TSMC 3nm NVHBM sourcing and Goldman Sachs Buy on NAND strength
   - [japan] Weekly Recap: 20% stake in Shriram Finance and yen stablecoin pilot
+  - [korea] The Korea Land and Housing Corporation (LH) reported a valuation loss of 75.8 billion won last year
   - [korea] BOK Financial (NASDAQ:BOKF) Reports Sales Below Analyst Estimates In Q3 2026 Earnings
   - [korea] Korea’s $1 Trillion Chip Bet to Revive Left-Behind Region Risks Trump’s Ire
   - [china] China and the EU agree to halve exports of hybrid cars to Europe, set annual quota of 350,000 units after intr
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix launches W2tr financing program to bolster chip suppliers
   - [japan] Preview: Forecasters See Japanese Exports, Imports Continuing to Surge in September Report as Tech Spending Ri
   - [china] Euro falls amid turmoil in France, Australian dollar appreciates as China grows
-  - [china] China’s Second-Tier New-Home Prices Flatten as Property Slump Persists
-  - [china] Pace of Chinese Yuan's Gains Vs Dollar Likely to Remain Gradual — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T02:02:44+00:00",
+      "published_utc": "2026-10-20T02:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
