@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T18:52:45.278500+00:00
+Última coleta: 2026-10-20T19:02:43.824860+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1006
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] Japan budget hotels ramp up overseas push with public baths, free breakfast
+  - [japan] Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs data
   - [korea] BOK Financial Q3 2026 slides: margin expansion offsets fee pressure
   - [korea] BOK Financial Corp reports results for the quarter ended September 30 - Earnings Summary
   - [korea] BOK Financial Q3 2026 Earnings Call Is Live
@@ -50,7 +51,6 @@ Total: 3000 manchetes
   - [china] Soybeans open Tuesday higher in Chicago with new import data from China on radar
   - [korea] BOK Financial Corporation Stock 12‑Month Price Target Cut to $145.56, Implies 18% Upside
   - [taiwan] September exports smash previous monthly records, up over 60%
-  - [japan] Dollar surrenders gains as record Japanese bond auction sparks Yen rally
   - [china] China and Hong Kong stocks fall; stable growth dampens stimulus expectations
   - [china] Chinese Hybrid Import Cap Offers Relief to European Carmakers — Market Talk
   - [china] Cssc Offshore & Marine Engineering Says 9-Month New Orders Totalled 35.8 Billion Yuan
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T18:52:45+00:00",
+      "published_utc": "2026-10-20T19:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
