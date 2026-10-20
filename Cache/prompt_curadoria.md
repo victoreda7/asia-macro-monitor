@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T20:12:45.297982+00:00
+Última coleta: 2026-10-20T20:22:42.502936+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1007
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan oil refiner Idemitsu to import non-Mideast LNG
   - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
   - [japan] Japan budget hotels ramp up overseas push with public baths, free breakfast
   - [japan] Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs data
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar surrenders gains as record Japanese bond auction sparks Yen rally
   - [china] Chinese Hybrid Import Cap Offers Relief to European Carmakers — Market Talk
   - [china] Cssc Offshore & Marine Engineering Says 9-Month New Orders Totalled 35.8 Billion Yuan
-  - [china] PBOC Faces Multi-Month Road to New Rate Anchor, Analysts Say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T20:12:45+00:00",
+      "published_utc": "2026-10-20T20:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
