@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T04:12:43.678058+00:00
+Última coleta: 2026-10-20T04:22:43.800020+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          999
-  🇨🇳 China          899
-  🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  747
+  🇯🇵 Japão          998
+  🇨🇳 China          900
+  🇹🇼 Taiwan         354
+  🇰🇷 Coreia do Sul  748
 
 ## O que já está no feed (não repita)
 
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [korea] Samgi America, the North American subsidiary of Samgi Energy Solutions, has won a contract to supply..
   - [china] Yuan hits fresh high since 2022 on export growth, stronger guidance
   - [china] The central bank has pushed a daily cap of 1 trillion yuan for overnight reverse repos and plans to gradually 
+  - [china] The central bank has pushed a daily cap of 1 trillion yuan for overnight reverse repurchases and plans to grad
   - [korea] Asia stocks slump as AI jitters hammer Korean chipmakers ahead of tech earnings
   - [china] China's fuel oil exports for bunkering rebound in September while imports ease
   - [japan] Is the sudden rise in interest rates in France only due to special factors? The sudden sell-off of government 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft
   - [china] PBoC Loan Rate Due On Tuesday
   - [japan] Weak yen and long-term interest rates at historic levels, pressure to revise the signature policy of ``active 
-  - [taiwan] Weekly Recap: TSMC 3nm NVHBM sourcing and Goldman Sachs Buy on NAND strength
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T04:12:43+00:00",
+      "published_utc": "2026-10-20T04:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
