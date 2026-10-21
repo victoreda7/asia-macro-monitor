@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T11:12:42.960811+00:00
+Última coleta: 2026-10-21T11:22:46.616732+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1030
+  🇯🇵 Japão          1029
   🇨🇳 China          868
-  🇹🇼 Taiwan         358
+  🇹🇼 Taiwan         359
   🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
@@ -40,6 +40,7 @@ Total: 3000 manchetes
   - [japan] Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.
   - [china] Indonesia's central bank kept its benchmark interest rate unchanged at 5.75% and announced it would lower bank
   - [korea] The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..
+  - [taiwan] Sony keeps chip unit as imaging sensors, TSMC partnership drive strategy
   - [china] Indonesia's central bank keeps its benchmark interest rate unchanged and lowers bank deposit reserve ratios
   - [taiwan] Rising Risk of Taiwan Central Bank Rate Hike — Market Talk
   - [japan] BOJ to decide at next week's meeting whether 2% inflation target reached: sources
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi Regains Ground as Chip Stocks Recoup Most of Prior Session's Losses
   - [japan] Don't you feel safe even if you keep the approval rating at 50%? Yokohama, Chiyoda... The footsteps of "distur
   - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
-  - [korea] Nomura, JPMorgan bullish on Korean chips despite Kospi swings
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T11:12:43+00:00",
+      "published_utc": "2026-10-21T11:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
