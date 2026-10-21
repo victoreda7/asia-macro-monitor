@@ -7,26 +7,31 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T03:02:44.240465+00:00
+Última coleta: 2026-10-21T03:12:44.198297+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
-  🇨🇳 China          884
-  🇹🇼 Taiwan         352
+  🇨🇳 China          885
+  🇹🇼 Taiwan         351
   🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan touches new high since 2022 on weaker dollar, export resilience
+  - [china] China September Power Consumption Up 1.2% Y/Y - National Energy Administration
   - [taiwan] TSMC says four construction workers killed at Taiwan site, halting work
   - [china] Yuan Mixed but Resilient Chinese Data Could Offer Support — Market Talk
   - [korea] Vietnam security ministry seeks Samsung's help on AI and chips
   - [china] Shipments of foreign-branded phones in China fall 14.8% y/y in September, data shows
   - [japan] Japan futures slip as yen jumps, cost support seen easing
   - [korea] FTC chief acknowledges role of conglomerates in economic growth
+  - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 21 was zero
+  - [china] The central bank’s 7-day reverse repurchase operation volume on October 21 was zero
   - [china] China Youth Jobless Rate Eases to 18%
   - [korea] South Korean Shares Rebound on Chip Rally
   - [korea] South Korean shares rebound from 6-month closing low on strong export data
   - [china] CHINA PBOC CONDUCTS CNY80 BLN VIA O/N REVERSE REPO WEDS
+  - [china] The central bank launches 80 billion yuan overnight reverse repurchase operation
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7192 WEDS VS 6.7200
   - [korea] Spillovers From South Korea's Strong Chip Exports Remain Limited — Market Talk
   - [taiwan] AI customers seek 3-year partnerships as Unimicron calls for Taiwan PCB supply chain collab
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN SEPT EXPORTS TO CHINA +8.6% Y/Y, 7TH STRAIGHT RISE (AUG REVISED +20.5%) LED BY CHIP-MAKING EQUIPMENT, RA
   - [japan] MNI: JAPAN SEPT EXPORTS +16.7% Y/Y; AUG +19.3%
   - [japan] Japan September exports rise 16.7% y/y, slower than forecast By Reuters
-  - [japan] JAPAN SEPT EXPORTS TO EU +10.5%, 14TH STRAIGHT RISE (AUG +11.0%) , LED BY AUTO, SHIPS, DRUGS
-  - [japan] Trade statistics for the first half of this fiscal year: 2.8 trillion yen deficit, 98.8% larger than last year
-  - [japan] JAPAN SEPT EXPORTS TO US +22.9% Y/Y, 7TH STRAIGHT RISE (AUG +24.9%), LED BY AUTOS, DRUGS, CHIP-MAKING EQUIPMEN
-  - [japan] Japan September exports rise 16.7% y/y, slower than forecast
-  - [korea] South Korea October 1-20 exports rise 105.4% year/year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T03:02:44+00:00",
+      "published_utc": "2026-10-21T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
