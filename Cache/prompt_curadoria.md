@@ -7,23 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T05:02:43.347843+00:00
+Última coleta: 2026-10-21T05:12:44.173075+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1037
+  🇯🇵 Japão          1035
   🇨🇳 China          875
   🇹🇼 Taiwan         350
-  🇰🇷 Coreia do Sul  738
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
-  - [japan] BOJ's Himino signals readiness to raise borrowing costs
+  - [china] From now on, the central bank continues to "strengthen"
+  - [korea] Capybobo: PYBOBO begins KRW trading on Bithumb - 21 Oct 2026
+  - [korea] Exclusive-Samsung, SK Hynix upgrading China plants to make more advanced chips, people say
+  - [japan] BOJ’s Himino signals readiness to raise borrowing costs
   - [japan] Japan’s trade gap widens despite 13-month export growth streak
   - [japan] Japan to consider fuel subsidies during winter, Kyodo reports
   - [japan] Bank of Japan decides to reach 2% price increase rate at October meeting, will it take 14 years to reach 2% (K
   - [japan] Japan's financial conditions loose even after rate hike, BOJ's Himino says
   - [japan] Meiji Yasuda may buy as much as 1 trillion yen worth of yen bonds this year
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside
+  - [japan] BREAKING NEWS: BOJ to decide in next meeting whether 2% inflation rate reached
   - [korea] Korea's Core Inflation Acceleration Unlikely to Prompt Aggressive Rate Hike — Market Talk
   - [japan] Bank of Japan decides to reach 2% price level (Kyodo News)
   - [korea] Why is SK Hynix stock surging today?
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 21 was zero
   - [china] China Youth Jobless Rate Eases to 18%
   - [korea] South Korean Shares Rebound on Chip Rally
-  - [korea] South Korean shares rebound from 6-month closing low on strong export data
-  - [china] CHINA PBOC CONDUCTS CNY80 BLN VIA O/N REVERSE REPO WEDS
-  - [china] The central bank launches 80 billion yuan overnight reverse repurchase operation
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7192 WEDS VS 6.7200
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T05:02:43+00:00",
+      "published_utc": "2026-10-21T05:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
