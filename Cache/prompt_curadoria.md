@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T10:22:44.673682+00:00
+Última coleta: 2026-10-21T10:32:46.559673+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1032
-  🇨🇳 China          869
+  🇯🇵 Japão          1033
+  🇨🇳 China          868
   🇹🇼 Taiwan         355
   🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
+  - [japan] Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins
   - [china] Esteve More Than $80 Million Invested To Expand And Strengthen Esteve Cdmo's Manufacturing Capabilities In Chi
   - [china] PBOC's Potential Shift to Overnight Policy Rate Appears Supportive for China Bonds — Market Talk
   - [china] Wens Foodstuff Says Q3 Net Loss At 595.5 Million Yuan
+  - [japan] Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [china] China’s Youth Unemployment Rate Eases to 18%
   - [china] China's blue-chip index hits 14-month low as CATL tumbles, stimulus hopes fade
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Achieving the price target through appropriate monetary policy and contributing to sustainable growth - Bank o
   - [china] From now on, the central bank continues to "strengthen"
   - [korea] Capybobo: PYBOBO begins KRW trading on Bithumb - 21 Oct 2026
-  - [china] China signals intent to push back against cleantech tariffs at COP31
-  - [japan] BOJ’s Himino signals readiness to raise borrowing costs
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T10:22:44+00:00",
+      "published_utc": "2026-10-21T10:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

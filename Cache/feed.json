@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T10:22:44.673682+00:00",
- "collected_at_utc": "2026-10-21T10:22:44.673682+00:00",
+ "generated_at_utc": "2026-10-21T10:32:46.559673+00:00",
+ "collected_at_utc": "2026-10-21T10:32:46.559673+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1032,
-  "china": 869,
+  "japan": 1033,
+  "china": 868,
   "taiwan": 355,
   "korea": 744
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T06:27:42+00:00"
+   "newest": "2026-10-21T06:29:48+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T09:45:32+00:00"
+   "newest": "2026-10-21T10:21:15+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T09:36:41+00:00"
+   "newest": "2026-10-21T10:21:15+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T09:09:49+00:00"
+   "newest": "2026-10-21T09:50:17+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T19:06:25+09:00"
+   "newest": "2026-10-21T19:28:24+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T10:21:46+00:00"
+   "newest": "2026-10-21T10:32:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -345,6 +345,23 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Cointelegraph",
+   "title_en": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
+   "url": "https://www.tradingview.com/news/cointelegraph:ed2dcdd48094b:0-shinhan-sbi-make-japan-korea-tourist-spending-a-test-case-for-yen-stablecoins/",
+   "published_utc": "2026-10-21T10:22:44+00:00",
+   "title_original": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6ac190ff8b2bc7e8"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Esteve More Than $80 Million Invested To Expand And Strengthen Esteve Cdmo's Manufacturing Capabilities In China",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46713R:0-esteve-more-than-80-million-invested-to-expand-and-strengthen-esteve-cdmo-s-manufacturing-capabilities-in-china/",
@@ -393,6 +410,23 @@
    "live_wire": true,
    "manual": false,
    "id": "ee83c333ce987cd1"
+  },
+  {
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-hovers-near-3week-low-rupee-extends-rally-4961573",
+   "published_utc": "2026-10-21T09:50:17+00:00",
+   "title_original": "Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "851945d47e0a2b66"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1140,7 +1174,7 @@
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ to decide in next meeting whether 2% inflation rate reached",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QdHZNREFqRGt4aVhEaWhpUEh4djVFZThpdzRVcFFlamxVNFpZX2JxZHpaSjgtbFRkQXRTbC00cmh1clU4bE56R2dsc3Z0VDJwVDA4OGhhemdGdw?oc=5",
-   "published_utc": "2026-10-21T04:19:33+00:00",
+   "published_utc": "2026-10-21T04:19:00+00:00",
    "title_original": "BREAKING NEWS: BOJ to decide in next meeting whether 2% inflation rate reached",
    "region": "japan",
    "topics": [
@@ -1499,23 +1533,6 @@
    "live_wire": true,
    "manual": false,
    "id": "11d472163fcb6524"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Yuan Mixed but Resilient Chinese Data Could Offer Support — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261020010938:0-yuan-mixed-but-resilient-chinese-data-could-offer-support-market-talk/",
-   "published_utc": "2026-10-21T02:37:00+00:00",
-   "title_original": "Yuan Mixed but Resilient Chinese Data Could Offer Support — Market Talk",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "81e8f75fef9cbb4f"
   },
   {
    "source_id": "nikkei_asia",
@@ -51925,23 +51942,6 @@
    "live_wire": false,
    "manual": false,
    "id": "37e86afe57aebd5e"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japanese 10-yr bond yields soar to 30-yr high amid bets on more rate hikes",
-   "url": "https://www.investing.com/news/economy-news/japanese-10yr-bond-yields-soar-to-30yr-high-amid-bets-on-more-rate-hikes-4914392",
-   "published_utc": "2026-09-24T03:30:00+00:00",
-   "title_original": "Japanese 10-yr bond yields soar to 30-yr high amid bets on more rate hikes",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "40c8034e1c802692"
   },
   {
    "source_id": "manual_ia",
