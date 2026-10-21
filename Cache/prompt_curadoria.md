@@ -7,20 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T01:32:42.875196+00:00
+Última coleta: 2026-10-21T01:42:43.608216+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1031
-  🇨🇳 China          891
+  🇯🇵 Japão          1032
+  🇨🇳 China          890
   🇹🇼 Taiwan         349
   🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean shares rebound from 6-month closing low on strong export data
+  - [china] CHINA PBOC CONDUCTS CNY80 BLN VIA O/N REVERSE REPO WEDS
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7192 WEDS VS 6.7200
+  - [korea] Spillovers From South Korea's Strong Chip Exports Remain Limited — Market Talk
+  - [china] China September youth jobless rate at 18%
+  - [japan] Japan shifting to wage-driven inflation phase, finance minister says
   - [korea] Nomura Raises Its Korea 3Q GDP Growth Forecast to 4.0% on Year — Market Talk
   - [taiwan] Taiwan's September export orders jump 62.4% on AI demand
   - [korea] [Issue Check] Interest rates likely to be frozen, is an increase only a matter of time?... On the 22nd, the Ba
-  - [japan] Japan shifting to wage-driven inflation phase, finance minister says
   - [japan] Japan’s export growth stays solid, AI-chip trade and cars aid rise
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [japan] Japan’s September exports rise 16.7%, helped by chip demand By Reuters
@@ -36,6 +41,7 @@ Total: 3000 manchetes
   - [japan] Japan September exports rise 16.7% y/y, slower than forecast By Reuters
   - [japan] JAPAN SEPT EXPORTS TO EU +10.5%, 14TH STRAIGHT RISE (AUG +11.0%) , LED BY AUTO, SHIPS, DRUGS
   - [japan] Trade statistics for the first half of this fiscal year: 2.8 trillion yen deficit, 98.8% larger than last year
+  - [japan] Japan’s Export Growth Stays Solid, Supported by Chips, Cars
   - [japan] JAPAN SEPT EXPORTS TO US +22.9% Y/Y, 7TH STRAIGHT RISE (AUG +24.9%), LED BY AUTOS, DRUGS, CHIP-MAKING EQUIPMEN
   - [japan] Japan September exports rise 16.7% y/y, slower than forecast
   - [korea] South Korea October 1-20 exports rise 105.4% year/year
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] From wars to El Niño...World food prices become scary at the end of the year (JoongAng Ilbo Japanese version)
   - [japan] Bank of Japan Governor Ueda will attend the House of Representatives Finance and Financial Services Committee 
   - [japan] BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll
-  - [japan] BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll By Reuters
-  - [china] Why more Chinese firms are eyeing Thailand over Vietnam after trade war 2.0
-  - [japan] BOJ to raise rates to 1.50% in December, sticking to quarterly pace
-  - [china] Commerzbank: The central bank’s policy interest rate shifts to overnight reverse repurchase, and the RMB will 
-  - [korea] South Korea Producer Inflation Eases Slightly
-  - [china] Even the legendary man who transformed Shanghai and Chongqing was taken away... The shadow of China's economy,
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T01:32:43+00:00",
+      "published_utc": "2026-10-21T01:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
