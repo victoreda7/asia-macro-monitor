@@ -7,20 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T05:42:43.346253+00:00
+Última coleta: 2026-10-21T05:52:42.819378+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1036
+  🇯🇵 Japão          1035
   🇨🇳 China          874
   🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  739
+  🇰🇷 Coreia do Sul  740
 
 ## O que já está no feed (não repita)
 
+  - [korea] Exclusive-Samsung, SK Hynix upgrading China plants to make more advanced chips, people say
   - [japan] Achieving the price target through appropriate monetary policy and contributing to sustainable growth - Bank o
   - [china] From now on, the central bank continues to "strengthen"
   - [korea] Capybobo: PYBOBO begins KRW trading on Bithumb - 21 Oct 2026
-  - [korea] Exclusive-Samsung, SK Hynix upgrading China plants to make more advanced chips, people say
   - [japan] BOJ’s Himino signals readiness to raise borrowing costs
   - [japan] Japan’s trade gap widens despite 13-month export growth streak
   - [japan] Japan to consider fuel subsidies during winter, Kyodo reports
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T05:42:43+00:00",
+      "published_utc": "2026-10-21T05:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
