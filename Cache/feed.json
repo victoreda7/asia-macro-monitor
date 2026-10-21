@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T01:52:45.254013+00:00",
- "collected_at_utc": "2026-10-21T01:52:45.254013+00:00",
+ "generated_at_utc": "2026-10-21T02:02:43.241245+00:00",
+ "collected_at_utc": "2026-10-21T02:02:43.241245+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1033,
-  "china": 889,
+  "china": 888,
   "taiwan": 349,
-  "korea": 729
+  "korea": 730
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T01:00:00+00:00"
+   "newest": "2026-10-20T17:07:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T01:36:16+00:00"
+   "newest": "2026-10-21T01:55:26+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T01:30:42+00:00"
+   "newest": "2026-10-21T01:42:34+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 29/06/2026",
-   "newest": "2026-06-29T04:00:16+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T11:44:56+00:00"
+   "newest": "2026-10-20T21:04:23+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-21T01:30:05+00:00"
+   "newest": "2026-10-21T01:59:53+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T01:51:00+00:00"
+   "newest": "2026-10-21T02:02:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korean Shares Rebound on Chip Rally",
+   "url": "https://www.tradingview.com/news/te_news:593600:0-south-korean-shares-rebound-on-chip-rally/",
+   "published_utc": "2026-10-21T01:46:57+00:00",
+   "title_original": "South Korean Shares Rebound on Chip Rally",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "eb657f67cf5d01b8"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -5271,7 +5288,7 @@
    "source_name": "Bloomberg.com",
    "title_en": "Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates: JPY/USD",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaV92VVR5SUNFUy1TdGlCR1lpN2pUcDVyX0VMWDBjdVk5bFBKTXZQLVhVZlhUU2lWWlZKWmRDSUJsWHVORE5kMWUxM2ZKOUd4TXBwYVhxLUFBaFBtMmFkMThTRlhwOGJMVXVuMjhhOWhya2Zyanc2cFZHdjF5V2t4Q1EwSzJRTTNGa1VLWnJkUE91dVVkOG9zZ0dfbEkzT1NFUl83eER4SnUxbjVqZ3c?oc=5",
-   "published_utc": "2026-10-19T02:15:30+00:00",
+   "published_utc": "2026-10-19T02:15:00+00:00",
    "title_original": "Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates: JPY/USD",
    "region": "japan",
    "topics": [
@@ -51936,24 +51953,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9e2f6e8918556b2f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
-   "title_en": "17:26:55 [Central Bank: An 800 billion yuan MLF operation will be carried out on September 24 with a term of 1 year]",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxa0dvMlA1c1dSQ3Q2U2tBS0FMYXhGa1Nyd1lacjZQb2pvX0dyM3FlRnl4UzVCVnliMGtrdEdRZ05BN29PV1hpYQ?oc=5",
-   "published_utc": "2026-09-23T09:26:55+00:00",
-   "title_original": "17:26:55【央行：9月24日将开展8000亿元MLF操作 期限为1年期】",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9da5fa495b5c2be8"
   },
   {
    "source_id": "manual_ia",

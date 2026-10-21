@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T01:52:45.254013+00:00
+Última coleta: 2026-10-21T02:02:43.241245+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1033
-  🇨🇳 China          889
+  🇨🇳 China          888
   🇹🇼 Taiwan         349
-  🇰🇷 Coreia do Sul  729
+  🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean Shares Rebound on Chip Rally
   - [korea] South Korean shares rebound from 6-month closing low on strong export data
   - [china] CHINA PBOC CONDUCTS CNY80 BLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7192 WEDS VS 6.7200
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Japan logs 536.5 billion yen trade deficit in Sept.
   - [japan] JAPAN SEPT EXPORTS +16.7% Y/Y (AUG +19.3%), 13TH STRAIGHT RISE; MEDIAN FORECAST +21.7%
   - [japan] From wars to El Niño...World food prices become scary at the end of the year (JoongAng Ilbo Japanese version)
-  - [japan] Bank of Japan Governor Ueda will attend the House of Representatives Finance and Financial Services Committee 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T01:52:45+00:00",
+      "published_utc": "2026-10-21T02:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
