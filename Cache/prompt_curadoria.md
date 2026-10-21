@@ -7,25 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T00:12:43.210046+00:00
+Última coleta: 2026-10-21T00:22:43.037743+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1025
-  🇨🇳 China          891
-  🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  733
+  🇯🇵 Japão          1028
+  🇨🇳 China          890
+  🇹🇼 Taiwan         350
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Exports Continued to Rise in September Amid AI Boom
   - [japan] JAPAN SEPT EXPORTS POST 13TH STRAIGHT Y/Y RISE
   - [japan] Japan's September exports rise 16.7%, helped by chip demand
+  - [japan] JAPAN SEPT EXPORTS TO CHINA +8.6% Y/Y, 7TH STRAIGHT RISE (AUG REVISED +20.5%) LED BY CHIP-MAKING EQUIPMENT, RA
   - [japan] MNI: JAPAN SEPT EXPORTS +16.7% Y/Y; AUG +19.3%
   - [japan] JAPAN SEPT EXPORTS TO EU +10.5%, 14TH STRAIGHT RISE (AUG +11.0%) , LED BY AUTO, SHIPS, DRUGS
   - [japan] Trade statistics for the first half of this fiscal year: 2.8 trillion yen deficit, 98.8% larger than last year
   - [japan] JAPAN SEPT EXPORTS TO US +22.9% Y/Y, 7TH STRAIGHT RISE (AUG +24.9%), LED BY AUTOS, DRUGS, CHIP-MAKING EQUIPMEN
-  - [japan] JAPAN SEPT IMPORT Y/Y RISE LED BY CRUDE OIL, CHIPMAKING EQUIPMENT, LNG
-  - [japan] JAPAN SEPT EXPORT Y/Y RISE LED BY COMPUTER CHIPS, AUTO, CHIPMAKING EQUIPMENT
   - [japan] Japan September exports rise 16.7% y/y, slower than forecast
+  - [korea] South Korea October 1-20 exports rise 105.4% year/year
+  - [japan] JAPAN SEPT IMPORT Y/Y RISE LED BY CRUDE OIL, CHIPMAKING EQUIPMENT, LNG
+  - [japan] Japan Import Growth Slows to 5-Month Low
+  - [japan] JAPAN SEPT EXPORT Y/Y RISE LED BY COMPUTER CHIPS, AUTO, CHIPMAKING EQUIPMENT
   - [japan] Japan Export Growth Slows to 4-Month Low
   - [japan] JAPAN SEPT TRADE DEFICIT ¥536.5 BLN (AUG REVISED ¥1,112 BLN DEFICIT); 5TH STRAIGHT DEFICIT; MEDIAN FORECAST ¥7
   - [china] Kazakh borrowers issue billions of yuan debt as China ties tighten
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Injective, BDACS plan Korean won stablecoin settlement for tokenized assets
   - [japan] Japan PM's party pushes to fast-track debate on food tax cut
   - [china] EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders
-  - [korea] Interest rates likely to rise further after being frozen tomorrow
-  - [japan] Preview: Forecasters See Japanese Inflation Picking Up Steam amid Rising Energy Costs, Weak Yen
-  - [japan] More than 23,000 cases of information may be leaked in the country's energy-saving housing project
-  - [korea] BYD surges to No. 4 in Korea's imported car market
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T00:12:43+00:00",
+      "published_utc": "2026-10-21T00:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
