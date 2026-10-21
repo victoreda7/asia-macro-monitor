@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T01:12:42.712639+00:00
+Última coleta: 2026-10-21T01:22:44.568334+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1032
+  🇯🇵 Japão          1031
   🇨🇳 China          891
   🇹🇼 Taiwan         349
-  🇰🇷 Coreia do Sul  728
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
-  - [japan] Japan shifting to wage-driven inflation phase, finance minister says
   - [korea] Nomura Raises Its Korea 3Q GDP Growth Forecast to 4.0% on Year — Market Talk
+  - [taiwan] Taiwan's September export orders jump 62.4% on AI demand
+  - [korea] [Issue Check] Interest rates likely to be frozen, is an increase only a matter of time?... On the 22nd, the Ba
+  - [japan] Japan shifting to wage-driven inflation phase, finance minister says
   - [japan] Japan’s export growth stays solid, AI-chip trade and cars aid rise
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [japan] Japan’s September exports rise 16.7%, helped by chip demand By Reuters
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Commerzbank: The central bank’s policy interest rate shifts to overnight reverse repurchase, and the RMB will 
   - [korea] South Korea Producer Inflation Eases Slightly
   - [china] Even the legendary man who transformed Shanghai and Chongqing was taken away... The shadow of China's economy,
-  - [japan] Consumption tax reduction bill: Opposition parties offer counterproposals, ruling party seeks compromise to en
-  - [japan] Will AI really push up long-term interest rates? The key is the difficult issue of determining whether product
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T01:12:42+00:00",
+      "published_utc": "2026-10-21T01:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
