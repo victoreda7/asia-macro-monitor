@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-20T23:53:06.047335+00:00
+Última coleta: 2026-10-21T00:02:45.904169+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1011
+  🇯🇵 Japão          1013
   🇨🇳 China          900
-  🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  735
+  🇹🇼 Taiwan         353
+  🇰🇷 Coreia do Sul  734
 
 ## O que já está no feed (não repita)
 
   - [china] Kazakh borrowers issue billions of yuan debt as China ties tighten
+  - [japan] BREAKING NEWS: Japan logs 536.5 billion yen trade deficit in Sept.
+  - [japan] From wars to El Niño...World food prices become scary at the end of the year (JoongAng Ilbo Japanese version)
   - [japan] Bank of Japan Governor Ueda will attend the House of Representatives Finance and Financial Services Committee 
   - [japan] BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll
   - [japan] BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll By Reuters
+  - [china] Why more Chinese firms are eyeing Thailand over Vietnam after trade war 2.0
   - [japan] BOJ to raise rates to 1.50% in December, sticking to quarterly pace
   - [korea] South Korea Producer Inflation Eases Slightly
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Apple commits up to $100 million for US titanium in domestic manufacturing push
   - [china] China’s rare earth magnet exports to EU and US rebound in September
   - [china] Hormuz Disruption, Chinese Export Curbs Keep Fertilizer Supplies Tight, S&P Says — Market Talk
-  - [korea] Finance minister pledges support for global 'AI basic society'
-  - [japan] Civil Reform Concerning consumption tax reduction related bill “40,000 yen per person benefit”
-  - [china] China's US soybean imports rebounded in September, data shows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-20T23:53:06+00:00",
+      "published_utc": "2026-10-21T00:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
