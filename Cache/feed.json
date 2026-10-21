@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T06:02:46.107507+00:00",
- "collected_at_utc": "2026-10-21T06:02:46.107507+00:00",
+ "generated_at_utc": "2026-10-21T06:12:42.721158+00:00",
+ "collected_at_utc": "2026-10-21T06:12:42.721158+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1034,
-  "china": 873,
+  "china": 872,
   "taiwan": 351,
-  "korea": 742
+  "korea": 743
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T03:00:04+00:00"
+   "newest": "2026-10-21T03:01:36+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T05:37:00+00:00"
+   "newest": "2026-10-21T06:04:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T05:25:29+00:00"
+   "newest": "2026-10-21T06:06:17+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T14:32:15+09:00"
+   "newest": "2026-10-21T15:09:01+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T03:43:00+00:00"
+   "newest": "2026-10-21T04:17:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T16:00:00+00:00"
+   "newest": "2026-10-21T06:01:55+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T06:01:00+00:00"
+   "newest": "2026-10-21T06:12:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T00:44:32+00:00"
+   "newest": "2026-10-21T03:46:34+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-21T14:30:00+09:00"
+   "newest": "2026-10-21T15:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumption tax reduction bill, working on the three security documents",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261020de62511",
+   "published_utc": "2026-10-21T06:09:01+00:00",
+   "title_original": "高市内閣発足1年 消費税減税法案成立に全力 安保3文書取り組む",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e5cc372c63162978"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -376,6 +394,23 @@
    "live_wire": true,
    "manual": false,
    "id": "314af146e6fac7c8"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Samsung, SK Hynix upgrade China plants to make advanced memory chips - Reuters",
+   "url": "https://www.investing.com/news/stock-market-news/samsung-sk-hynix-upgrade-china-plants-to-make-advanced-memory-chips--reuters-4961621",
+   "published_utc": "2026-10-21T05:58:23+00:00",
+   "title_original": "Samsung, SK Hynix upgrade China plants to make advanced memory chips - Reuters",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "662ce1e58861049e"
   },
   {
    "source_id": "investing_live",
@@ -672,24 +707,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fcc35415ea3abcf4"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumption tax reduction bill, working on the three security documents",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261020de62511",
-   "published_utc": "2026-10-21T03:56:03+00:00",
-   "title_original": "高市内閣発足1年 消費税減税法案成立に全力 安保3文書取り組む",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e5cc372c63162978"
   },
   {
    "source_id": "gn_jp_investing",
@@ -4822,7 +4839,7 @@
    "id": "c480d192b0a95eb3"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "China's economic growth picks up as exports boom, consumers balk",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI?oc=5",
@@ -4837,7 +4854,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "f50dbd1d5aa70e31"
+   "id": "a317f6021539bdf1"
   },
   {
    "source_id": "tradingview_live",
@@ -51929,23 +51946,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a7cda790172c23df"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Yamada Holdings - Notice Regarding Transfer Of Specified Subsidiary In China",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45F0YY:0-yamada-holdings-notice-regarding-transfer-of-specified-subsidiary-in-china/",
-   "published_utc": "2026-09-23T23:34:13+00:00",
-   "title_original": "Yamada Holdings - Notice Regarding Transfer Of Specified Subsidiary In China",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "358d474bc9179935"
   },
   {
    "source_id": "manual_ia",

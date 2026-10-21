@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T06:02:46.107507+00:00
+Última coleta: 2026-10-21T06:12:42.721158+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
-  🇨🇳 China          873
+  🇨🇳 China          872
   🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  742
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
   - [korea] Nomura, JPMorgan bullish on Korean chips despite Kospi swings
   - [china] America, China Remain 'Fundamental' for European Spirits, Despite Tariff Turmoil — Interview
+  - [korea] Samsung, SK Hynix upgrade China plants to make advanced memory chips - Reuters
   - [korea] Exclusive-Samsung, SK Hynix upgrading China plants to make more advanced chips, people say
   - [japan] Achieving the price target through appropriate monetary policy and contributing to sustainable growth - Bank o
   - [china] From now on, the central bank continues to "strengthen"
@@ -36,7 +38,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan decides to reach 2% price level (Kyodo News)
   - [korea] Why is SK Hynix stock surging today?
   - [japan] Yomiuri: Japan's Carbon Fiber Manufacturers Expand to Robotaxis, Space
-  - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
   - [japan] Asia stocks rebound as SpaceX, Super Micro results lift chipmakers
   - [taiwan] TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
   - [china] Trump Open to Summit With Xi and Putin in China to Discuss Ukraine
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Yuan Mixed but Resilient Chinese Data Could Offer Support — Market Talk
   - [korea] Vietnam security ministry seeks Samsung's help on AI and chips
   - [china] Shipments of foreign-branded phones in China fall 14.8% y/y in September, data shows
-  - [japan] Japan futures slip as yen jumps, cost support seen easing
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T06:02:46+00:00",
+      "published_utc": "2026-10-21T06:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
