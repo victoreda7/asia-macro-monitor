@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T00:22:43.037743+00:00",
- "collected_at_utc": "2026-10-21T00:22:43.037743+00:00",
+ "generated_at_utc": "2026-10-21T00:32:42.782869+00:00",
+ "collected_at_utc": "2026-10-21T00:32:42.782869+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1028,
+  "japan": 1029,
   "china": 890,
   "taiwan": 350,
-  "korea": 732
+  "korea": 731
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T19:04:05+00:00"
+   "newest": "2026-10-21T00:28:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T20:46:10+00:00"
+   "newest": "2026-10-20T22:40:56+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T00:17:00+00:00"
+   "newest": "2026-10-21T00:30:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T21:44:10+00:00"
+   "newest": "2026-10-20T18:40:09+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-20T23:44:29+00:00"
+   "newest": "2026-10-21T00:26:51+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,41 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China uses crude stockpiles, but rising oil imports may curtail draws: Russell",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N467006:0-china-uses-crude-stockpiles-but-rising-oil-imports-may-curtail-draws-russell/",
+   "published_utc": "2026-10-21T00:30:51+00:00",
+   "title_original": "China uses crude stockpiles, but rising oil imports may curtail draws: Russell",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7aa9d03d4b93a196"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Japan posts bigger-than-expected trade deficit in Sept as export growth slows",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLU5NekZRdU9KS2xWc3hzcVEzMlA1QWpWS2JiN29mTE9jYmZCVDhKNDgzbUlSaVBGOWpVSWttTjBLVG5qSlNHdkdOQ0tWQzJWLTN0bWlHdGc3eE5GcEtsbGVWd0dQaU1aRnhST3ZvT0szb1JTXzlGSHlOUTM2Y2VRNFdENElYb3BTb2RVcjkwRER1SGVtYWE2VmFabnNUOGFCakduU0l3UDVnRV9zV2E4M2YtN0N3dGtRX2p1eWJQUkoxSF94a0pHWTg2ZlZLZw?oc=5",
+   "published_utc": "2026-10-21T00:28:00+00:00",
+   "title_original": "Japan posts bigger-than-expected trade deficit in Sept as export growth slows",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3a2b9fe91784cecc"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1193,8 +1228,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -1208,7 +1243,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -1639,8 +1674,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -1654,7 +1689,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -3522,8 +3557,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -3537,7 +3572,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -7616,8 +7651,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -7631,7 +7666,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "1336f7d1a8c06ead"
+   "id": "dc8687caadfa705a"
   },
   {
    "source_id": "nikkei_asia",
@@ -51916,40 +51951,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e7d4c1789421ac22"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "CanSemi Tech Joins China Chip IPO Wave With $919 Million Deal",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT21RUzZ6S0tvU2E0RUZJWjg1alFfWmFUQmIzVEloaGhrRUdQNC1fTkxKaVRSSXAwOVotelZCSkpoY2dadlIzRjlfdEpvUlhXUUxuUU96TDMzT0REOXN1ODJ0Q2ZmQUV1QUd1c3RDc29YdTFvS2Z0bkJjNGc1ajVYNkh5bGhCWVZEUXdhck44dWxqOWxGWWZhRGRoaFZLNWhVOXk1cjdTS0pibUN6ZE1Mdg?oc=5",
-   "published_utc": "2026-09-23T04:27:00+00:00",
-   "title_original": "CanSemi Tech Joins China Chip IPO Wave With $919 Million Deal",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "341c478306e185ab"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "비건뉴스",
-   "title_en": "The base interest rate and deposit interest rate are different from the decision maker.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hTVhMaUZLaGpxZmFoaFNjZkdqRVNWX2pPMDFxT001bkxzcWdzdDN6d3lsZ1VqV0xGNkozbjZ4UDFJUV9PaUgzRFM5akhrMVQ1S0Q5cXd0c28xN0p6XzZia0lRUFctdw?oc=5",
-   "published_utc": "2026-09-23T04:10:42+00:00",
-   "title_original": "기준금리와 예금금리, 결정 주체부터 다르다",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d2a1f883080d2cc"
   },
   {
    "source_id": "manual_ia",

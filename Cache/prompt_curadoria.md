@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T00:22:43.037743+00:00
+Última coleta: 2026-10-21T00:32:42.782869+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1028
+  🇯🇵 Japão          1029
   🇨🇳 China          890
   🇹🇼 Taiwan         350
-  🇰🇷 Coreia do Sul  732
+  🇰🇷 Coreia do Sul  731
 
 ## O que já está no feed (não repita)
 
+  - [china] China uses crude stockpiles, but rising oil imports may curtail draws: Russell
+  - [japan] Japan posts bigger-than-expected trade deficit in Sept as export growth slows
   - [japan] Japan's Exports Continued to Rise in September Amid AI Boom
   - [japan] JAPAN SEPT EXPORTS POST 13TH STRAIGHT Y/Y RISE
   - [japan] Japan's September exports rise 16.7%, helped by chip demand
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK Financial Corp reports results for the quarter ended September 30 - Earnings Summary
   - [korea] BOK Financial Q3 2026 Earnings Call Is Live
   - [korea] Injective, BDACS plan Korean won stablecoin settlement for tokenized assets
-  - [japan] Japan PM's party pushes to fast-track debate on food tax cut
-  - [china] EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T00:22:43+00:00",
+      "published_utc": "2026-10-21T00:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
