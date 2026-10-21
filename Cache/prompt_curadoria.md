@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T04:42:43.734384+00:00
+Última coleta: 2026-10-21T04:52:42.431204+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
@@ -17,6 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ's Himino signals readiness to raise borrowing costs
+  - [japan] Japan’s trade gap widens despite 13-month export growth streak
+  - [japan] Japan to consider fuel subsidies during winter, Kyodo reports
+  - [japan] Bank of Japan decides to reach 2% price increase rate at October meeting, will it take 14 years to reach 2% (K
   - [japan] Japan's financial conditions loose even after rate hike, BOJ's Himino says
   - [japan] Meiji Yasuda may buy as much as 1 trillion yen worth of yen bonds this year
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY80 BLN VIA O/N REVERSE REPO WEDS
   - [china] The central bank launches 80 billion yuan overnight reverse repurchase operation
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7192 WEDS VS 6.7200
-  - [korea] Spillovers From South Korea's Strong Chip Exports Remain Limited — Market Talk
-  - [taiwan] AI customers seek 3-year partnerships as Unimicron calls for Taiwan PCB supply chain collab
-  - [china] China September youth jobless rate at 18%
-  - [japan] Satsuki Katayama: Japan Nears Shift to Sustained, Wage-Driven Inflation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T04:42:43+00:00",
+      "published_utc": "2026-10-21T04:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-21T04:42:43.734384+00:00",
- "collected_at_utc": "2026-10-21T04:42:43.734384+00:00",
+ "generated_at_utc": "2026-10-21T04:52:42.431204+00:00",
+ "collected_at_utc": "2026-10-21T04:52:42.431204+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 350,
   "korea": 738
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T04:18:20+00:00"
+   "newest": "2026-10-21T04:42:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T04:18:20+00:00"
+   "newest": "2026-10-21T04:42:20+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T04:41:47+00:00"
+   "newest": "2026-10-21T04:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T04:13:22+00:00"
+   "newest": "2026-10-21T04:34:13+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,75 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ's Himino signals readiness to raise borrowing costs",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46703F:0-boj-s-himino-signals-readiness-to-raise-borrowing-costs/",
+   "published_utc": "2026-10-21T04:49:53+00:00",
+   "title_original": "BOJ's Himino signals readiness to raise borrowing costs",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cd86ae7c41f120e8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Japan’s trade gap widens despite 13-month export growth streak",
+   "url": "https://www.tradingview.com/news/seekingalpha:a39ebd3c5094b:0-japan-s-trade-gap-widens-despite-13-month-export-growth-streak/",
+   "published_utc": "2026-10-21T04:37:54+00:00",
+   "title_original": "Japan’s trade gap widens despite 13-month export growth streak",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "22a9ac6f332ad252"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan to consider fuel subsidies during winter, Kyodo reports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45H03U:0-japan-to-consider-fuel-subsidies-during-winter-kyodo-reports/",
+   "published_utc": "2026-10-21T04:35:15+00:00",
+   "title_original": "Japan to consider fuel subsidies during winter, Kyodo reports",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "90b9cf9a0e7db913"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan decides to reach 2% price increase rate at October meeting, will it take 14 years to reach 2% (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9razN6R1R5enRScjNZR3JIeEZHSXJCbG5la2ZCMi1ZaU8xTnZvalc1cWFvYlZqdE1aRmNYUjRnR0ZESlBMWGlxS3dFYXZNWEhqWnRIREpTXzh4d1N5Z1Jwd2FiLTJNRnNpd0hVY3AyaFB3M1lJLTh5Wk5qZjFyMVk?oc=5",
+   "published_utc": "2026-10-21T04:34:13+00:00",
+   "title_original": "日銀、物価上昇率2％到達判断へ 10月会合、14年かけ実現か（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e46d80f755a93950"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -535,8 +604,8 @@
    "id": "a6d11e11f8af1f46"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to feel the effects early.”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de62724",
    "published_utc": "2026-10-21T03:37:08+00:00",
@@ -552,7 +621,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7ac408a189c300e3"
+   "id": "14cdd23a48cbfd5c"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1299,59 +1368,6 @@
    "id": "3edf140a463ce101"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "JAPAN SEPT EXPORTS POST 13TH STRAIGHT Y/Y RISE",
-   "url": "https://www.tradingview.com/news/dpa_afx:72c3cbb181355:0-japan-sept-exports-post-13th-straight-y-y-rise/",
-   "published_utc": "2026-10-21T00:11:33+00:00",
-   "title_original": "JAPAN SEPT EXPORTS POST 13TH STRAIGHT Y/Y RISE",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dd68bf2f80b716cd"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan exports rise 16.7% in September as AI chip demand powers trade",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N467001:0-japan-exports-rise-16-7-in-september-as-ai-chip-demand-powers-trade/",
-   "published_utc": "2026-10-21T00:10:03+00:00",
-   "title_original": "Japan exports rise 16.7% in September as AI chip demand powers trade",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9c9c5084d0171914"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN SEPT EXPORTS TO CHINA +8.6% Y/Y, 7TH STRAIGHT RISE (AUG REVISED +20.5%) LED BY CHIP-MAKING EQUIPMENT, RAW MATERIALS, COMPUTER CHIPS",
-   "url": "https://www.tradingview.com/news/macenews:8db735ebf094b:0-japan-sept-exports-to-china-8-6-y-y-7th-straight-rise-aug-revised-20-5-led-by-chip-making-equipment-raw-materials-computer-chips/",
-   "published_utc": "2026-10-21T00:07:00+00:00",
-   "title_original": "JAPAN SEPT EXPORTS TO CHINA +8.6% Y/Y, 7TH STRAIGHT RISE (AUG REVISED +20.5%) LED BY CHIP-MAKING EQUIPMENT, RAW MATERIALS, COMPUTER CHIPS",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a2b450c7f12c0721"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Japan September exports rise 16.7% y/y, slower than forecast By Reuters",
@@ -1583,24 +1599,6 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Governor Ueda will attend the House of Representatives Finance and Financial Services Committee meeting from 1:00 p.m. (Source)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfLVJtTkRfa0dMZGRBTnEtUGoxTFNMc2lTODRyRklLX1RpaDNJUjdFMXNzTXE5ekd5YmZsdGVaY1dTRWUxMzJMZjNZcXJJRzQ1YWdxNDlSUmxSWHhObndIcjNlU1JLMzBvVk5vTWVuZGJiUmtkT2R1eXQzSGM4Tmc?oc=5",
-   "published_utc": "2026-10-20T23:26:00+00:00",
-   "title_original": "植田日銀総裁が午後1時から衆院財務金融委員会に出席＝関係筋（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "68715106ae8fed22"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
    "title_en": "Correction - Bank of Japan Deputy Governor Himino will attend the House of Representatives Finance and Financial Services Committee meeting from 1:00 p.m. = Source (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfLVJtTkRfa0dMZGRBTnEtUGoxTFNMc2lTODRyRklLX1RpaDNJUjdFMXNzTXE5ekd5YmZsdGVaY1dTRWUxMzJMZjNZcXJJRzQ1YWdxNDlSUmxSWHhObndIcjNlU1JLMzBvVk5vTWVuZGJiUmtkT2R1eXQzSGM4Tmc?oc=5",
    "published_utc": "2026-10-20T23:22:02+00:00",
@@ -1614,6 +1612,24 @@
    "live_wire": false,
    "manual": false,
    "id": "e33184c8ade9981f"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor Ueda will attend the House of Representatives Finance and Financial Services Committee meeting from 1:00 p.m. (Source)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfLVJtTkRfa0dMZGRBTnEtUGoxTFNMc2lTODRyRklLX1RpaDNJUjdFMXNzTXE5ekd5YmZsdGVaY1dTRWUxMzJMZjNZcXJJRzQ1YWdxNDlSUmxSWHhObndIcjNlU1JLMzBvVk5vTWVuZGJiUmtkT2R1eXQzSGM4Tmc?oc=5",
+   "published_utc": "2026-10-20T23:22:02+00:00",
+   "title_original": "植田日銀総裁が午後1時から衆院財務金融委員会に出席＝関係筋（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "68715106ae8fed22"
   },
   {
    "source_id": "investing_econ",
@@ -2114,8 +2130,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -2129,7 +2145,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -2594,8 +2610,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -2609,7 +2625,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -2746,6 +2762,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d8b92739fda5bb2d"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Chinese carmakers gear up European production to sidestep tariffs, import quota",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTndHNXJRLTZzQkdJM0pGTUdVMkxLaGlsRC1OUjRoWG9HY1Z2Q1F0VzcwckNKc1o5X21aZkgyNTcydEVoS3U4N0I3azV5WnhXWWFjMmZyUTZySmgtRGItRTE1cHVKVmhWbU90RElHdEYzOVNsSTNBLV8wUFB4Y3hxTEFaX1pTWFBReUtWdmtSZXl6U2ZHTTJyZDB3ekowang1Y0lreWZzVU5MNE5JSWo2MXkwUEpkcC15aVhvV1MzX3JDblowci000gHHAUFVX3lxTE9vazhEWEswcGtZS3RRZzFXenl3VFpLTGtfVHc5VG15eE9hRHBDVndnYlQtUWpUVW5lWnVsX3owV2ZPVjBrNUlfbHZJZlFXV3B5eDFLRURCdGpWQmNzZlo1ZzF2cFFjUFVqU0NaU1RxQWt4ODMwZzkzUUJXS1JyZlJDdEpjaXNaS0RvUEZMRm1PMG52ZmIxN3d0d0VWTE1pTnRrRDJINUFCN3g2R2R2Z1pZYW9laVZUMTUwWmwybEhTT1Q1dXljNWc?oc=5",
+   "published_utc": "2026-10-20T08:00:06+00:00",
+   "title_original": "Chinese carmakers gear up European production to sidestep tariffs, import quota",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "64eaa7c85615cd81"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3229,7 +3262,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rate in October” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DelR0Q0VYLV9HcGJjb21nV2VaSEtyZkVCVzRIaEstc1FjQTAxQTgweDYySXdwLTJmX0l5N0ZwYk4tUWppd29SaFRoNmQxT1hRQ2RtN09FbjNwc3lwanY5M1FpdlV1eXNNd1JXQUNR0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeHFCMzN0Q0lIb0JIWkRBWTRad0FSTmZtSnJrVkYxQ3lFWHZJcmk2VjhfaUJ0SzRWS3RuUUt5NDZQbzhod1BweEhEQWt2ZmNacW1FLS1MQ2x6NWQ5MHlSX1N3OS1uNm1a0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
    "published_utc": "2026-10-20T05:34:46+00:00",
    "title_original": "채권시장 종사자 93% \"10월 한은 금통위, 기준금리 동결할 것\" - 머니투데이",
    "region": "korea",
@@ -3241,7 +3274,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a635a4e49fd3df7b"
+   "id": "f458f88af40eac09"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4495,8 +4528,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -4510,7 +4543,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -15906,9 +15939,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪网",
    "title_en": "The central bank launched a 700 billion yuan buyout reverse repurchase operation on the 15th",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aWWQ3YlUxaU5oR2dpTmgyQXZSZGwyYXhiaFpoTy1Jb0ZJWUFiSEdpSlNvT19XYmhRMFRmMjA4cHZTTjBURUdQSjU1TjdFX1FQS2Mwc3dXbmpRRnVid3hOYUM0cWpKSGFCcHphR1hCRUZwVXR5UVc0djY5UFdPdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tajBlbVZhaDdEMlVRRFlNQTFPN1Q5VEJyU01vVlM1VXVMOW9LY1R4eTQyam9sbFpUY0p2Qlk0OXA5a0c0YUZ5WFRBY3hBbzZvbmF5ajFzeFNZNzRPbjAzVVM1SjVoYXZMNW54QUhNSQ?oc=5",
    "published_utc": "2026-10-14T09:05:42+00:00",
    "title_original": "央行15日开展7000亿元买断式逆回购操作",
    "region": "china",
@@ -15920,7 +15953,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "403d8567ea938dde"
+   "id": "775752e5fabf0061"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51913,41 +51946,6 @@
    "live_wire": false,
    "manual": false,
    "id": "79ed151e13c9e009"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "The healthier you are and the longer you live, the more likely you are to fail 99% of the time. \"The truth about dying\" revealed by a home palliative care doctor who cared for 2,000 people | Life | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/958783?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-23T20:30:00+00:00",
-   "title_original": "健康で長生きするほど《｢ピンピンコロリ｣は99％失敗する》？ 2000人を看取った在宅緩和ケア医が明かす\"死に際の真実\" | ライフ | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8fcdb17e040af0ec"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "Spain’s Sánchez Says China Talks Can Help EU Cut Trade Deficit",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEJxRGw1Z2JIYktfY0tFQzV2WlBOM1pxeW0zNDdsUUlrTy12d0JTVlJ0Z182ek45d3BhNW9tZmZITmIteGI4WXVvRGhLc3UteklCMlZXaVF3cWdJMW1RZkY1LVdHTEFUQWVYeHZOM3lXVVJZa1I2MFpIRFVDYzgzU2tWSmd2Z2dKczhreHZpMzlxNTNxdUZRbnJPNEZDX2Q0SVJMSVlFUXlFNmFoMnZNYklDWQ?oc=5",
-   "published_utc": "2026-09-23T20:20:11+00:00",
-   "title_original": "Spain’s Sánchez Says China Talks Can Help EU Cut Trade Deficit",
-   "region": "china",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "074352256f044bef"
   },
   {
    "source_id": "manual_ia",
