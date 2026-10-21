@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T22:02:43.696104+00:00",
- "collected_at_utc": "2026-10-21T22:02:43.696104+00:00",
+ "generated_at_utc": "2026-10-21T22:12:42.691096+00:00",
+ "collected_at_utc": "2026-10-21T22:12:42.691096+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1026,
-  "china": 868,
+  "china": 867,
   "taiwan": 356,
-  "korea": 750
+  "korea": 751
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T09:08:00+00:00"
+   "newest": "2026-10-20T02:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T19:47:47+00:00"
+   "newest": "2026-10-21T21:19:07+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-21T21:30:06+00:00"
+   "newest": "2026-10-21T22:10:59+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T21:51:46+00:00"
+   "newest": "2026-10-21T22:11:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T12:48:50+00:00"
+   "newest": "2026-10-21T18:50:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T12:21:07+00:00"
+   "newest": "2026-10-21T22:09:28+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-22T06:45:00+09:00"
+   "newest": "2026-10-22T07:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T21:00:00+00:00"
+   "newest": "2026-10-21T21:59:09+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "한국경제",
+   "title_en": "The Bank of Korea is likely to freeze its base interest rate... Pay attention to the possibility of additional hikes in November",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUXVUM2c2WFlwOWp5enRJaW1BVC0tZl96UlVuOVpLLTRiMV9MSmt4aTR0bmFPdGZKdWFfUElxWUdMVW1MeXplcThmenNaVkYteTktcW52VkhkZw?oc=5",
+   "published_utc": "2026-10-21T21:59:09+00:00",
+   "title_original": "한은, 기준금리 동결 유력 전망…11월 추가 인상 가능성 주목",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d9e2e415d439ced8"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -9657,6 +9674,25 @@
    "id": "1404ac3368ba75ed"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财联社电报",
+   "title_en": "The central bank will carry out a 700 billion yuan buyout reverse repurchase operation, and additional government bond issuance in the fourth quarter will require liquidity support",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wYzRRWmc3emsyZGFSMlUwSEVMZG9LRVA5STkzZGxTdUIwbXh6cGltX0tjOExnWGExR3JNLWhONE1JV2ZHOHc?oc=5",
+   "published_utc": "2026-10-16T17:08:49+00:00",
+   "title_original": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5b6cb3968cc447d6"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Hangzhou and Shenzhen Flesh Out Rules for Housing Sales Overhaul",
@@ -15673,25 +15709,6 @@
    "live_wire": false,
    "manual": false,
    "id": "63a699cf52e73e63"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out a 700 billion yuan buyout reverse repurchase operation, and additional government bond issuance in the fourth quarter will require liquidity support",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94SXNkMXpHTzlfWmVPRld5djlTN2ZVeVVkVFQ0UGpqbnV5VVJ4cTNxQ1ZOaDREaTBHUjhmM3dGLXQ5S1VoZC1KSF9ham94cEhmQjdveWxsdjVRRFR4WHVPWmVEcmREdw?oc=5",
-   "published_utc": "2026-10-14T22:10:31+00:00",
-   "title_original": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e5da80a7c50e6f70"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51922,23 +51939,6 @@
    "live_wire": false,
    "manual": false,
    "id": "338e6b63f95d850a"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "How Chinese first lady Peng Liyuan is a symbol of China’s fashion soft power",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS1lYVnpNRTUyZXRVOU1QZ1VvRjA0Tl9mcEpscHotOXNpdl8xMWQ4UjltdVNhRmVINmFaOE9fYTFBVDNIOTU5aE5jZTFTNVZTbi13QldvYVozU1JzY2p3M3JNZnFpQ3p2Unc0dUQzWi1RMWwtWF92NWRhbkotZ0tCQ0JPcGh1SWhLdXpHN0VmeEdmMUd3UGRYOUlQbVJDVDdlbFdTRE85N3V0WGZiYmpFZTRKRkdZZVRWRmdyMnRmSHNwNVlVUVlXX9IByAFBVV95cUxNOGRLRElDSDJsTlN4WVNCQTVvcmNnMzFyOF9ER2o5clhTVEVsanhMVzNkd2J0QnVWSnNIblFrSXZVa0ZXSzBxcl9PcXEwX1pRYnVuY0JWcXhaTDBCenhES3pIak1DY2FFeGxqRkxXOWRPQURJZmRwWVFnSHlsSlB6T1YwT1RRZllZbExqYnV1OWJvMWRIZTJNc3diOTA5RlZaRWpqTTlXZTB1YXlreXNrQkxPU2xHdW1TVnlBNXNId2QzZS13ZjNZSg?oc=5",
-   "published_utc": "2026-09-24T11:23:08+00:00",
-   "title_original": "How Chinese first lady Peng Liyuan is a symbol of China’s fashion soft power",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3994ef184bbc8420"
   },
   {
    "source_id": "manual_ia",

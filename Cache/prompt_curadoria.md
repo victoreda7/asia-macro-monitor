@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T22:02:43.696104+00:00
+Última coleta: 2026-10-21T22:12:42.691096+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
-  🇨🇳 China          868
+  🇨🇳 China          867
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  750
+  🇰🇷 Coreia do Sul  751
 
 ## O que já está no feed (não repita)
 
+  - [korea] The Bank of Korea is likely to freeze its base interest rate... Pay attention to the possibility of additional
   - [japan] Japan growth strategy to focus on chips in short term, AI in medium term
   - [japan] U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such
   - [japan] Consumption tax reduction bill: Ruling party “passes the bill after repeated deliberations” Opposition party “
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Nvidia Expects Total Semiconductor Testing Capacity to Double From 2026 to 2027, Supported by Buildouts in U.S
   - [china] Nvidia: King Yuan Electronics to Build New Facilities in U.S., Supported by a $1.1 Billion Capacity Reservatio
   - [china] Husqvarna looks east as Chinese rivals chip away at robot lawnmower lead
-  - [japan] Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T22:02:43+00:00",
+      "published_utc": "2026-10-21T22:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
