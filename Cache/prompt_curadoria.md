@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T05:52:42.819378+00:00
+Última coleta: 2026-10-21T06:02:46.107507+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
-  🇨🇳 China          874
+  🇯🇵 Japão          1034
+  🇨🇳 China          873
   🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  740
+  🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
+  - [korea] Nomura, JPMorgan bullish on Korean chips despite Kospi swings
+  - [china] America, China Remain 'Fundamental' for European Spirits, Despite Tariff Turmoil — Interview
   - [korea] Exclusive-Samsung, SK Hynix upgrading China plants to make more advanced chips, people say
   - [japan] Achieving the price target through appropriate monetary policy and contributing to sustainable growth - Bank o
   - [china] From now on, the central bank continues to "strengthen"
@@ -38,6 +40,7 @@ Total: 3000 manchetes
   - [japan] Asia stocks rebound as SpaceX, Super Micro results lift chipmakers
   - [taiwan] TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
   - [china] Trump Open to Summit With Xi and Putin in China to Discuss Ukraine
+  - [korea] Samsung, SK Hynix Shares Soar 7%: Korea Chip Recovery Driven by 222% Surprise
   - [japan] Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to fe
   - [korea] Axcelis plans US$35 million semiconductor facility in South Korea
   - [korea] South Korea to ease fuel supply rules, let refiners boost exports, Lee says
@@ -48,15 +51,12 @@ Total: 3000 manchetes
   - [china] China September Power Consumption Up 1.2% Y/Y - National Energy Administration
   - [japan] Yen Holds Steady Amid Sluggish Export Growth
   - [korea] Corporate profits, debts improve in 2025: BOK
+  - [korea] Kospi Analysis: Samsung and SK Hynix Soar Despite Ken Griffin Warning
   - [taiwan] TSMC says four construction workers killed at Taiwan site, halting work
   - [china] Yuan Mixed but Resilient Chinese Data Could Offer Support — Market Talk
   - [korea] Vietnam security ministry seeks Samsung's help on AI and chips
   - [china] Shipments of foreign-branded phones in China fall 14.8% y/y in September, data shows
   - [japan] Japan futures slip as yen jumps, cost support seen easing
-  - [taiwan] AI chip scaling shifts into 3D, with performance per watt the new benchmark, says former TSMC VP
-  - [korea] FTC chief acknowledges role of conglomerates in economic growth
-  - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 21 was zero
-  - [china] The central bank’s 7-day reverse repurchase operation volume on October 21 was zero
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T05:52:43+00:00",
+      "published_utc": "2026-10-21T06:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
