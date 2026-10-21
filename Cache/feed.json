@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T02:32:44.205709+00:00",
- "collected_at_utc": "2026-10-21T02:32:44.205709+00:00",
+ "generated_at_utc": "2026-10-21T02:42:44.030658+00:00",
+ "collected_at_utc": "2026-10-21T02:42:44.030658+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1035,
+  "japan": 1034,
   "china": 884,
-  "taiwan": 351,
+  "taiwan": 352,
   "korea": 730
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T01:30:00+00:00"
+   "newest": "2026-10-21T01:15:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T20:43:44+00:00"
+   "newest": "2026-10-21T02:02:43+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 54,
+   "count": 56,
    "error": "",
-   "newest": "2026-10-20T22:15:23+08:00"
+   "newest": "2026-10-21T10:09:43+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T02:12:58+00:00"
+   "newest": "2026-10-21T02:31:00+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T02:12:22+00:00"
+   "newest": "2026-10-21T02:18:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 29/06/2026",
-   "newest": "2026-06-29T04:00:16+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T02:31:00+00:00"
+   "newest": "2026-10-21T02:41:38+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-21T10:00:00+09:00"
+   "newest": "2026-10-21T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC says four construction workers killed at Taiwan site, halting work",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46701W:0-tsmc-says-four-construction-workers-killed-at-taiwan-site-halting-work/",
+   "published_utc": "2026-10-21T02:38:05+00:00",
+   "title_original": "TSMC says four construction workers killed at Taiwan site, halting work",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "11d472163fcb6524"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yuan Mixed but Resilient Chinese Data Could Offer Support — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261020010938:0-yuan-mixed-but-resilient-chinese-data-could-offer-support-market-talk/",
+   "published_utc": "2026-10-21T02:37:00+00:00",
+   "title_original": "Yuan Mixed but Resilient Chinese Data Could Offer Support — Market Talk",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "81e8f75fef9cbb4f"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -2455,23 +2489,6 @@
    "id": "70e124fbcd6d9970"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "연합뉴스",
-   "title_en": "Bank of Korea freezes base interest rate... Possibility of further increase within the year",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oQkozQk9taG9KQW1Jb2ZJZnFFWDd5d0F6ZzNqZVdYaXZVc0FzVWRtWV9wcTFpWDVkQXR5TG5mbVRuX08tc0VTTUJqT2Vkd3RYUVk5Y2RyVFlKdUtkZng2b9IBYEFVX3lxTE9oQkozQk9taG9KQW1Jb2ZJZnFFWDd5d0F6ZzNqZVdYaXZVc0FzVWRtWV9wcTFpWDVkQXR5TG5mbVRuX08tc0VTTUJqT2Vkd3RYUVk5Y2RyVFlKdUtkZng2bw?oc=5",
-   "published_utc": "2026-10-20T07:11:21+00:00",
-   "title_original": "한은, 기준금리 동결 무게…연내 추가 인상 가능성",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a3d9333e0d776adf"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
@@ -2487,6 +2504,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d76f0c85953e42e8"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스TV",
+   "title_en": "Bank of Korea freezes base interest rate... Possibility of further increase within the year",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qdTE2cEJIN0M1VHpncXRkSnBvNjBISmVBX3g4ZWw3QVhyUE5aLU5LZjdxSWRUMW1MZVRPQ2RObUhzWTNPOUNhWHpoRnE3SVVjT0FaOEFJbFdDUjNwSGUteFRTOFFQZzA?oc=5",
+   "published_utc": "2026-10-20T07:11:00+00:00",
+   "title_original": "한은, 기준금리 동결 무게…연내 추가 인상 가능성",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e6d1c7ea76445882"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2632,7 +2666,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺",
+   "source_name": "同花顺财经",
    "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kR0FIVmczN2RpcjV0MHdObWZCQU9DVThDekt0ampvNXR5ejAyUVE0Zm5hVWtPa1lkLTZzM2djay1QM3FmUmphejhKZktsVXhnSnJhbFI2bG9vODExa0E?oc=5",
    "published_utc": "2026-10-20T06:27:38+00:00",
@@ -2845,10 +2879,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
+   "source_name": "东方财富",
    "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEJxeWs2dEotVk5yQ1JIZHp6SVFrb2RrZFFFS0M2a05DVzNHN1RhVHFhSXVSQVpjV3Q5b2dpa2wyM2hLWWR0TnJHV2o3TjhnenN3ZzBLWTlfR3FiVTEyZnNmcjY1djAzc1FUWG9FbzZwVDYxV2VmQWlqWXM2Nnh3by1yMDRMN3ZSOWRCQmdNZw?oc=5",
-   "published_utc": "2026-10-20T05:14:17+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrNWowR1N3bVB6UVhIejF2MzI5LW9BbENpZVVfb1hMUXZhWHJGS3lWR2hyd1FkYVZXZ3BxRW9Gd3NxRTFWdWEwY0VnWjJNaFYwWlhvU19saEtKSUNlU0thSw?oc=5",
+   "published_utc": "2026-10-20T05:18:49+00:00",
    "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
    "region": "china",
    "topics": [
@@ -2858,7 +2892,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "698649e477d3ce6f"
+   "id": "c5947fbecfc0585f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -12625,10 +12659,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
+   "source_name": "Investing.com UK",
    "title_en": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0dpcXNnYnNnbWtWakd2R3VrNnpxUHFsRWJyN1pLZ3BacTkyb0FfVUtUM3dvRlZqckZ4aXRlVGZvdHY2S09nWDlzVk1POWstNmRwRlNvSTlGbkYybjAxTnF0akg4ZmI3UWh1RFlJaWp4cnV2MEJCWGhKM2ZnN3doRXpUNmZKaEk2YlhhNWNjSXFkMWFVME5xRFVHTUF4ZFpFUjg1QXVmZmE1Y2hjWU1oOXd1SXdzbno3bVB6RW1B?oc=5",
-   "published_utc": "2026-10-15T04:25:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXM4RzlvNjh2NUgyeFQtMWlxT2gza0VvZU5JVDVBVzVXRS1kZVZEc2QzT1RMazNJWThlaWRWckFOd0JNRTdmQmp4UmlHWmUwTlJ3VDhyanZVaU9WVFJlTzYzUUVaeVBrRkdxaWFzUkJfd0tXdTNfSlVCUy1sOXdVdEs1cktiZFJpbW9QbHBsNjFXazljTFhaVGJ5RWN6RVpMQVRQRExYWVljcjZkbU5LbDZSU1JVYUdENzBiQjBn?oc=5",
+   "published_utc": "2026-10-15T04:06:00+00:00",
    "title_original": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
    "region": "japan",
    "topics": [
@@ -12639,7 +12673,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2b3965436e525ef4"
+   "id": "dfae25f1e6df382f"
   },
   {
    "source_id": "investing_live",
@@ -51916,40 +51950,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c8d1a11af1cd331f"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan Breaks the ‘Debt Causes Inflation’ Narrative",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkhneHVCRE5VLUZSREQ4SUpHdUJmbm1Jakx2YUlodkRSQ1B5aXBlNVpjaTV5SlA4TWlKN1lOd1JfTHRSNFhIdFRKLTJsU2xnbXRrNElNN1BlZHhyWW1jZVBndVBGd0o2a0V5NGFqZmxtc0t2UHBQYW84eU5iMFlYNUFSZHc2NUVQNVJDeHkxdDVTSDFJanlv?oc=5",
-   "published_utc": "2026-09-23T11:23:46+00:00",
-   "title_original": "Japan Breaks the ‘Debt Causes Inflation’ Narrative",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dce7f981c7242efe"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China central bank to inject more liquidity as Golden Week nears",
-   "url": "https://www.investing.com/news/economy-news/china-central-bank-to-inject-more-liquidity-as-golden-week-nears-4912735",
-   "published_utc": "2026-09-23T11:19:21+00:00",
-   "title_original": "China central bank to inject more liquidity as Golden Week nears",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fbabf662fdc052a0"
   },
   {
    "source_id": "manual_ia",
