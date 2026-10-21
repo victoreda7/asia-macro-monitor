@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-21T10:32:46.559673+00:00",
- "collected_at_utc": "2026-10-21T10:32:46.559673+00:00",
+ "generated_at_utc": "2026-10-21T10:42:43.537028+00:00",
+ "collected_at_utc": "2026-10-21T10:42:43.537028+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 355,
   "korea": 744
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 28,
    "error": "",
-   "newest": "2026-10-21T05:02:00+00:00"
+   "newest": "2026-10-21T08:16:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T06:48:35+00:00"
+   "newest": "2026-10-21T03:46:34+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -1604,24 +1604,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
-   "published_utc": "2026-10-21T01:56:00+00:00",
-   "title_original": "央行开展800亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9f93275ff9d2dcbf"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "搜狐",
    "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 21 was zero",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2JVLWVqR3c3SnJSUGR3THNJQWUtdjZZWGxLdThZajBLU3BkZUc0TFJRMlUwaFBPT1AzTWRBaFBMdlFHVXM0eXJKRHp2anVDeWhsaXk1Y1RFOHRHSHJoaS05Wm40ZWFnN2FGbXdpVnpkQWo5NUl5TnVZYmVfdE1yTlNRQUh3N0tP?oc=5",
@@ -1636,6 +1618,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1e6c1409fbd7c475"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "资鲸",
+   "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkVCVDByQ1F5dzluUG5NcW1jUlBlRUl4MFlrSnhXbXo0VDJUaHI4MF94Z3VtVjh1MkZQZUJuZ0dCWTdVd0twdkx4Y0l5XzlJdVFLVnRMTXM4UTB1ODJXOVBIblpKYnIzSWE5cGlKbExoQ0ZxY3lHNXJSdmlITHVKNGUwbEV3WmRydXFtTkpWN3RjQQ?oc=5",
+   "published_utc": "2026-10-21T01:35:08+00:00",
+   "title_original": "央行开展800亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0882e83320a9bcab"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3847,10 +3847,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观察者网",
+   "source_name": "搜狐",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
-   "published_utc": "2026-10-20T05:07:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9Rc1BnRlhGM1d4c092aXBsdWVCUXE1NWpsTTZMSVA5X3E2MW0tOUt4dFdGY2o2OVNJNEZhTkdYMlN0Mi1EazBaUGxrTnhZUTI3dklRNjd6a0ZybFpLRElwVC01YWJCZ3JqYm9nVDVad1BFb1pkTUVVUkhnb0p6ejBURktuX1pu?oc=5",
+   "published_utc": "2026-10-20T05:07:29+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -3860,7 +3860,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50e1092b7ea2ed64"
+   "id": "8b5a5b685c5ae149"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3898,10 +3898,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "搜狐",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
-   "published_utc": "2026-10-20T04:37:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
+   "published_utc": "2026-10-20T04:46:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -3912,7 +3912,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "113a63c4f4301728"
+   "id": "6b8b7943e562e9e1"
   },
   {
    "source_id": "gn_kr_bok",
