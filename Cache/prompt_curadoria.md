@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T10:42:43.537028+00:00
+Última coleta: 2026-10-21T10:52:43.110908+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
+  🇯🇵 Japão          1030
   🇨🇳 China          868
-  🇹🇼 Taiwan         355
+  🇹🇼 Taiwan         358
   🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Nvidia, Siliconware Precision Industries to Expand Manufacturing Capacity in Taiwan for Optical Engines Used i
+  - [taiwan] Nvidia Expects Total Semiconductor Testing Capacity to Double From 2026 to 2027, Supported by Buildouts in U.S
+  - [china] Nvidia: King Yuan Electronics to Build New Facilities in U.S., Supported by a $1.1 Billion Capacity Reservatio
+  - [china] Husqvarna looks east as Chinese rivals chip away at robot lawnmower lead
   - [japan] Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins
   - [china] Esteve More Than $80 Million Invested To Expand And Strengthen Esteve Cdmo's Manufacturing Capabilities In Chi
   - [china] PBOC's Potential Shift to Overnight Policy Rate Appears Supportive for China Bonds — Market Talk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Nomura, JPMorgan bullish on Korean chips despite Kospi swings
   - [china] America, China Remain 'Fundamental' for European Spirits, Despite Tariff Turmoil — Interview
   - [korea] Samsung, SK Hynix upgrade China plants to make advanced memory chips - Reuters
-  - [korea] Exclusive-Samsung, SK Hynix upgrading China plants to make more advanced chips, people say
-  - [japan] Achieving the price target through appropriate monetary policy and contributing to sustainable growth - Bank o
-  - [china] From now on, the central bank continues to "strengthen"
-  - [korea] Capybobo: PYBOBO begins KRW trading on Bithumb - 21 Oct 2026
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T10:42:44+00:00",
+      "published_utc": "2026-10-21T10:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
