@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T05:32:44.659410+00:00",
- "collected_at_utc": "2026-10-21T05:32:44.659410+00:00",
+ "generated_at_utc": "2026-10-21T05:42:43.346253+00:00",
+ "collected_at_utc": "2026-10-21T05:42:43.346253+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1035,
-  "china": 875,
+  "japan": 1036,
+  "china": 874,
   "taiwan": 351,
   "korea": 739
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-21T14:27:33+00:00"
+   "newest": "2026-10-21T14:41:20+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T12:58:05+09:00"
+   "newest": "2026-10-21T14:32:15+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
    "newest": "2026-10-21T05:02:00+00:00"
   },
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T22:00:05+00:00"
+   "newest": "2026-10-20T13:00:10+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T05:31:46+00:00"
+   "newest": "2026-10-21T05:42:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T04:44:39+00:00"
+   "newest": "2026-10-21T05:24:04+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T03:00:11+00:00"
+   "newest": "2026-10-20T21:00:13+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-21T14:00:00+09:00"
+   "newest": "2026-10-21T14:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,25 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Achieving the price target through appropriate monetary policy and contributing to sustainable growth - Bank of Japan Deputy Governor Himino (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DUzlYd0daYjFzYTZsbG5TYWRiLW8wUVFPazdzUE1CYVl1dFJKcmhKUE91NEZ0RVFwcXN6YkNpdEltUXU1Uy12U0YzN3d3b0UxQ3c1anFBeHl4a1lrTnh4Y0I4N2txNHNPMXJNdG81ZUdtMUQwS3lINFFLZU82X0E?oc=5",
+   "published_utc": "2026-10-21T05:24:04+00:00",
+   "title_original": "適切な金融政策による物価目標実現、持続的な成長に資する＝氷見野日銀副総裁（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4932d8c9ad5c811e"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "新浪网",
@@ -690,8 +709,8 @@
    "id": "a6d11e11f8af1f46"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to feel the effects early.”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de62724",
    "published_utc": "2026-10-21T03:37:08+00:00",
@@ -707,7 +726,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "14cdd23a48cbfd5c"
+   "id": "7ac408a189c300e3"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1702,24 +1721,6 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Governor Ueda will attend the House of Representatives Finance and Financial Services Committee meeting from 1:00 p.m. (Source)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfLVJtTkRfa0dMZGRBTnEtUGoxTFNMc2lTODRyRklLX1RpaDNJUjdFMXNzTXE5ekd5YmZsdGVaY1dTRWUxMzJMZjNZcXJJRzQ1YWdxNDlSUmxSWHhObndIcjNlU1JLMzBvVk5vTWVuZGJiUmtkT2R1eXQzSGM4Tmc?oc=5",
-   "published_utc": "2026-10-20T23:26:00+00:00",
-   "title_original": "植田日銀総裁が午後1時から衆院財務金融委員会に出席＝関係筋（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "68715106ae8fed22"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
    "title_en": "Correction - Bank of Japan Deputy Governor Himino will attend the House of Representatives Finance and Financial Services Committee meeting from 1:00 p.m. = Source (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfLVJtTkRfa0dMZGRBTnEtUGoxTFNMc2lTODRyRklLX1RpaDNJUjdFMXNzTXE5ekd5YmZsdGVaY1dTRWUxMzJMZjNZcXJJRzQ1YWdxNDlSUmxSWHhObndIcjNlU1JLMzBvVk5vTWVuZGJiUmtkT2R1eXQzSGM4Tmc?oc=5",
    "published_utc": "2026-10-20T23:22:02+00:00",
@@ -1733,6 +1734,24 @@
    "live_wire": false,
    "manual": false,
    "id": "e33184c8ade9981f"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor Ueda will attend the House of Representatives Finance and Financial Services Committee meeting from 1:00 p.m. (Source)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfLVJtTkRfa0dMZGRBTnEtUGoxTFNMc2lTODRyRklLX1RpaDNJUjdFMXNzTXE5ekd5YmZsdGVaY1dTRWUxMzJMZjNZcXJJRzQ1YWdxNDlSUmxSWHhObndIcjNlU1JLMzBvVk5vTWVuZGJiUmtkT2R1eXQzSGM4Tmc?oc=5",
+   "published_utc": "2026-10-20T23:22:02+00:00",
+   "title_original": "植田日銀総裁が午後1時から衆院財務金融委員会に出席＝関係筋（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "68715106ae8fed22"
   },
   {
    "source_id": "investing_econ",
@@ -2250,8 +2269,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -2265,7 +2284,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -2730,8 +2749,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -2745,7 +2764,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -3382,7 +3401,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rate in October” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeHFCMzN0Q0lIb0JIWkRBWTRad0FSTmZtSnJrVkYxQ3lFWHZJcmk2VjhfaUJ0SzRWS3RuUUt5NDZQbzhod1BweEhEQWt2ZmNacW1FLS1MQ2x6NWQ5MHlSX1N3OS1uNm1a0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DelR0Q0VYLV9HcGJjb21nV2VaSEtyZkVCVzRIaEstc1FjQTAxQTgweDYySXdwLTJmX0l5N0ZwYk4tUWppd29SaFRoNmQxT1hRQ2RtN09FbjNwc3lwanY5M1FpdlV1eXNNd1JXQUNR0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
    "published_utc": "2026-10-20T05:34:46+00:00",
    "title_original": "채권시장 종사자 93% \"10월 한은 금통위, 기준금리 동결할 것\" - 머니투데이",
    "region": "korea",
@@ -3394,7 +3413,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f458f88af40eac09"
+   "id": "a635a4e49fd3df7b"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3433,10 +3452,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观察者网",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFd1WDlURjRRNVRMenAyU1hkTGhjYlM1bEZJUW0wT2NpbDVMVzhzLXE5alJ2allYUVVJS2tnUUxOdWlSLTNLS2hmQ3dHSDNNOGtWVTFWejFKMTR0SDVzeVB3VjE5a3FCc2tEb3NZd2txSEpjOEw5YXVJXzlqeC1reWU0QV9oUUhWQlA4?oc=5",
-   "published_utc": "2026-10-20T05:07:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
+   "published_utc": "2026-10-20T05:07:00+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -3446,7 +3465,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "94e53c32e7d82fda"
+   "id": "50e1092b7ea2ed64"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3484,10 +3503,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "京报网",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
-   "published_utc": "2026-10-20T04:46:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
+   "published_utc": "2026-10-20T04:37:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -3498,7 +3517,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b8b7943e562e9e1"
+   "id": "113a63c4f4301728"
   },
   {
    "source_id": "gn_kr_bok",
@@ -4648,8 +4667,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -4663,7 +4682,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -12162,6 +12181,23 @@
    "id": "bc95c5f9de95e7c9"
   },
   {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ucll6M0tRbXZvV3V1YVdlb3VONlAxbFZlSVFrd00tNklITkU3eEVON2lYRXcxYW44eXNRclR0eF9helZDZVJSd0FnNlhReVRTRzkxaHdFZTVjRWVabFJLaFF1aF8yTWpXLThzZkJ1WTZCNlZwT3c?oc=5",
+   "published_utc": "2026-10-15T10:53:00+00:00",
+   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3fa8d36118a2fe2b"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Tech sell-off gathers pace as chipmakers hammered By Reuters",
@@ -12807,23 +12843,6 @@
    "live_wire": false,
    "manual": false,
    "id": "858b64fc398f2573"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YbDdCM0dWdWNvamRaZ2ZWNENRV1ZXNFFFSnIxMEhyejRTVmRtVVVUOHE0a29qbi1ObWNaMFdoZDZuTUJ2MndKZkFyVlA1NmpKemNjX0FUUGFuS0F2RlE?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dd8f23c892dc681"
   },
   {
    "source_id": "yahoo_business",
@@ -30144,6 +30163,23 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
+   "title_en": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfVnFEeVdQOWI1dktYbHN2bDF0ZlRLUTluVGJIZFVOUWJFd3A4R1VHTHVDS1ZHdVJ5a2ppdk5sUm5QME40TlJ2b0lCbUFvRFJPWVh1TzJJNXhGUQ?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "title_original": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "92e09e9abc281cc5"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veUVQTXNGcnhNQWVXZFVPV01JT1V4dGdFYVpuakI1ZGlPMFhqM1IzZjVUX1hQN2ZSTDVURjFaUzdvbWg3QWN3QlI2OXBGc2JTaUNNTmhESGE2UQ?oc=5",
    "published_utc": "2026-10-07T07:00:00+00:00",
@@ -30344,23 +30380,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1ae8d8b7f796e3ec"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfVnFEeVdQOWI1dktYbHN2bDF0ZlRLUTluVGJIZFVOUWJFd3A4R1VHTHVDS1ZHdVJ5a2ppdk5sUm5QME40TlJ2b0lCbUFvRFJPWVh1TzJJNXhGUQ?oc=5",
-   "published_utc": "2026-10-07T04:15:00+00:00",
-   "title_original": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "92e09e9abc281cc5"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51928,23 +51947,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8244b90ac5705aab"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "How 'affordability' makes Gen Z Americans open to Chinese EVs, chips",
-   "url": "https://asia.nikkei.com/spotlight/comment/how-affordability-makes-gen-z-americans-open-to-chinese-evs-chips",
-   "published_utc": "2026-09-23T22:39:39.663504+00:00",
-   "title_original": "How 'affordability' makes Gen Z Americans open to Chinese EVs, chips",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "45981e4954cfa874"
   },
   {
    "source_id": "manual_ia",

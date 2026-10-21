@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T05:32:44.659410+00:00
+Última coleta: 2026-10-21T05:42:43.346253+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
-  🇨🇳 China          875
+  🇯🇵 Japão          1036
+  🇨🇳 China          874
   🇹🇼 Taiwan         351
   🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
 
+  - [japan] Achieving the price target through appropriate monetary policy and contributing to sustainable growth - Bank o
   - [china] From now on, the central bank continues to "strengthen"
   - [korea] Capybobo: PYBOBO begins KRW trading on Bithumb - 21 Oct 2026
   - [korea] Exclusive-Samsung, SK Hynix upgrading China plants to make more advanced chips, people say
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] FTC chief acknowledges role of conglomerates in economic growth
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 21 was zero
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 21 was zero
-  - [china] China Youth Jobless Rate Eases to 18%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T05:32:44+00:00",
+      "published_utc": "2026-10-21T05:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
