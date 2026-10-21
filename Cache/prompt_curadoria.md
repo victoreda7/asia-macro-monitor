@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T12:14:39.026586+00:00
+Última coleta: 2026-10-21T12:22:43.325694+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1027
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung and SK Hynix Just Made a Big China Chip Move
   - [china] The EU will ‘pull its punches’ on China despite growing trade war talk: analysts
   - [korea] Hyundai Mobis Accelerates Full-Cycle Collaboration as a "K-Automotive Semiconductor Korea One Team"
   - [china] China uses crude stockpiles, but rising oil imports may curtail draws: Russell
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.
   - [japan] Japan futures slip as yen jumps, cost support seen easing
   - [taiwan] Taiwan semiconductor electricity use hits record high in Sept.
-  - [japan] The Takaichi administration should present a "Plan B" for fiscal policy...A plan that says "achieving high gro
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T12:14:39+00:00",
+      "published_utc": "2026-10-21T12:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
