@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-21T18:32:42.130405+00:00",
- "collected_at_utc": "2026-10-21T18:32:42.130405+00:00",
+ "generated_at_utc": "2026-10-21T18:42:42.748999+00:00",
+ "collected_at_utc": "2026-10-21T18:42:42.748999+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 358,
   "korea": 746
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T18:09:04+00:00"
+   "newest": "2026-10-21T18:34:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T16:12:50+00:00"
+   "newest": "2026-10-21T17:25:55+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T18:21:01+00:00"
+   "newest": "2026-10-21T18:41:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -19426,6 +19426,23 @@
    "id": "8b8b48ea0d8cef97"
   },
   {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "IMF Cuts China Growth Forecasts for 2026 and 2027",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWpBcHFFOFRrSUxWNzNhWHFOMXh6UmdyeFBrNDM2blJDTEdzSzRYT0NvMEwtN1NES2Z6Q3V3ZG52SjViSU11VVRfb3VkUU56SHZ5N21Bb284M1R5UE1RRHFVQ0ZOT3EtdHkwOUYxZkNOTF9rbnQwSExadzFMY1pFRnZwN0o3MjUzYk5Ka1dJTF9jN0NtakdvQ0U3aHJXNVlJdXBaRkVUNA?oc=5",
+   "published_utc": "2026-10-13T09:23:00+00:00",
+   "title_original": "IMF Cuts China Growth Forecasts for 2026 and 2027",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "40619c2fdd617367"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "KOSPI Slumps as U.S. AI Chip Panic Spreads — Barrons.com",
@@ -20064,23 +20081,6 @@
    "live_wire": false,
    "manual": false,
    "id": "eb72c4933775de03"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "IMF Cuts China Growth Forecasts for 2026 and 2027",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWpBcHFFOFRrSUxWNzNhWHFOMXh6UmdyeFBrNDM2blJDTEdzSzRYT0NvMEwtN1NES2Z6Q3V3ZG52SjViSU11VVRfb3VkUU56SHZ5N21Bb284M1R5UE1RRHFVQ0ZOT3EtdHkwOUYxZkNOTF9rbnQwSExadzFMY1pFRnZwN0o3MjUzYk5Ka1dJTF9jN0NtakdvQ0U3aHJXNVlJdXBaRkVUNA?oc=5",
-   "published_utc": "2026-10-13T07:00:00+00:00",
-   "title_original": "IMF Cuts China Growth Forecasts for 2026 and 2027",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "40619c2fdd617367"
   },
   {
    "source_id": "gn_kr_yonhap",
