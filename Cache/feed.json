@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T06:32:42.369014+00:00",
- "collected_at_utc": "2026-10-21T06:32:42.369014+00:00",
+ "generated_at_utc": "2026-10-21T06:42:42.892714+00:00",
+ "collected_at_utc": "2026-10-21T06:42:42.892714+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1035,
+  "japan": 1036,
   "china": 872,
   "taiwan": 351,
-  "korea": 742
+  "korea": 741
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T04:19:00+00:00"
+   "newest": "2026-10-21T05:13:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T03:39:00+00:00"
+   "newest": "2026-10-21T05:31:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T16:00:00+00:00"
+   "newest": "2026-10-21T06:35:48+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T06:22:26+00:00"
+   "newest": "2026-10-21T06:41:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-21T15:00:00+09:00"
+   "newest": "2026-10-21T15:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T05:54:13+00:00"
+   "newest": "2026-10-21T06:38:25+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Kospi Regains Ground as Chip Stocks Recoup Most of Prior Session's Losses",
+   "url": "https://www.tradingview.com/news/DJN_DN20261021001391_20261021001408:0-kospi-regains-ground-as-chip-stocks-recoup-most-of-prior-session-s-losses/",
+   "published_utc": "2026-10-21T06:37:00+00:00",
+   "title_original": "Kospi Regains Ground as Chip Stocks Recoup Most of Prior Session's Losses",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3622bfef938021d3"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Don't you feel safe even if you keep the approval rating at 50%? Yokohama, Chiyoda... The footsteps of \"disturbing changes\" threatening Prime Minister Takaichi that have begun to emerge in the \"local elections\" | Politics, Economy, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/962041?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-21T06:30:00+00:00",
+   "title_original": "支持率50％キープでも安心できない？ 横浜､千代田… ｢地方選｣で顕在化し始めた高市首相を脅かす\"不穏な変化\"の足音 | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "562599b22a24fc4c"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -777,8 +811,8 @@
    "id": "7ae67dba9ed2a58a"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to feel the effects early.”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de62724",
    "published_utc": "2026-10-21T03:37:08+00:00",
@@ -794,7 +828,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "14cdd23a48cbfd5c"
+   "id": "7ac408a189c300e3"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1433,24 +1467,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8c918b5047fbbf36"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea October 1-20 exports surge 105% on record chip sales",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46700B:0-south-korea-october-1-20-exports-surge-105-on-record-chip-sales/",
-   "published_utc": "2026-10-21T00:33:09+00:00",
-   "title_original": "South Korea October 1-20 exports surge 105% on record chip sales",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fe7d79d20769fb6e"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2321,8 +2337,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -2336,7 +2352,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -2801,8 +2817,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -2816,7 +2832,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -4737,8 +4753,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -4752,7 +4768,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51930,23 +51946,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b8e6755614e5de04"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "fetv.co.kr",
-   "title_en": "The Bank of Korea's 'calculation method' becomes complicated due to the Fed's 'interest rate' hike... Eyes focused on November",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RdEIzT0xkbDBVQkdUZDZnVVo0cmNrbGgtaUlsQ0VHelZkSUtwR2lnX1c5WE5KMlJpVkdqb29GOEwzc3hYQ2lPVVpkUjlxeC1rZkVMZGJycDJLeTJMOWZGcWxSd2pfUDZf?oc=5",
-   "published_utc": "2026-09-24T00:00:00+00:00",
-   "title_original": "연준 '금리' 인상에 복잡해진 한은 '셈법'…11월에 쏠린 시선",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a346689037ca1e9"
   },
   {
    "source_id": "manual_ia",

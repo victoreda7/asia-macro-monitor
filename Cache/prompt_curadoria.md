@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T06:32:42.369014+00:00
+Última coleta: 2026-10-21T06:42:42.892714+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
+  🇯🇵 Japão          1036
   🇨🇳 China          872
   🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  742
+  🇰🇷 Coreia do Sul  741
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi Regains Ground as Chip Stocks Recoup Most of Prior Session's Losses
+  - [japan] Don't you feel safe even if you keep the approval rating at 50%? Yokohama, Chiyoda... The footsteps of "distur
   - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
   - [korea] Nomura, JPMorgan bullish on Korean chips despite Kospi swings
   - [china] America, China Remain 'Fundamental' for European Spirits, Despite Tariff Turmoil — Interview
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi Analysis: Samsung and SK Hynix Soar Despite Ken Griffin Warning
   - [taiwan] TSMC says four construction workers killed at Taiwan site, halting work
   - [china] Yuan Mixed but Resilient Chinese Data Could Offer Support — Market Talk
-  - [korea] Vietnam security ministry seeks Samsung's help on AI and chips
-  - [china] Shipments of foreign-branded phones in China fall 14.8% y/y in September, data shows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T06:32:42+00:00",
+      "published_utc": "2026-10-21T06:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
