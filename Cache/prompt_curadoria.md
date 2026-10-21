@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T19:02:43.476289+00:00
+Última coleta: 2026-10-21T19:12:42.953925+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1024
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [taiwan] Moody’s upgrades TSMC rating to Aa2 on booming AI demand and market dominance
   - [china] Kremlin Says China Preparing for Possible Putin-Trump-Xi Meeting
   - [japan] France's 10-year government bond yield reaches 5%, highest level in 24 years
+  - [china] Germany wants to avoid China trade war despite EU ‘kill switch’: Merz
   - [japan] INPEX: Abadi anchors a projected 60% business expansion, backed by JPY 1.95tn of near-term growth investment
   - [china] Fujiyama Power Systems Comments On Reports Of China's Proposed Restrictions On Export Of Tech Used In Solar Ce
   - [japan] Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] PBOC's Potential Shift to Overnight Policy Rate Appears Supportive for China Bonds — Market Talk
   - [china] Wens Foodstuff Says Q3 Net Loss At 595.5 Million Yuan
   - [japan] Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war
-  - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T19:02:43+00:00",
+      "published_utc": "2026-10-21T19:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
