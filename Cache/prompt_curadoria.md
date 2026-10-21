@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T16:22:44.165393+00:00
+Última coleta: 2026-10-21T16:32:43.622484+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan beef imports shift to Australia as droughts hit US herds
+  - [korea] BOK Financial Is Maintained at Neutral by DA Davidson
   - [korea] BOK Financial Price Target Cut to $141.00/Share From $148.00 by Stephens & Co.
   - [taiwan] Moody’s upgrades TSMC rating to Aa2 on booming AI demand and market dominance
   - [japan] France's 10-year government bond yield reaches 5%, highest level in 24 years
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Youth Unemployment Rate Eases to 18%
   - [taiwan] Budget agency yet to discuss funding for CPC's Alaska LNG investment
   - [china] China's blue-chip index hits 14-month low as CATL tumbles, stimulus hopes fade
-  - [china] China's solar curbs may accelerate India's push for domestic wafer and cell manufacturing: Report
-  - [korea] Samsung, SK Hynix upgrading China fabs to make advanced NAND chips - report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T16:22:44+00:00",
+      "published_utc": "2026-10-21T16:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
