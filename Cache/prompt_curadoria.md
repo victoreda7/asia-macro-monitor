@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T09:22:43.715929+00:00
+Última coleta: 2026-10-21T09:32:43.837960+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1032
-  🇨🇳 China          870
+  🇯🇵 Japão          1033
+  🇨🇳 China          869
   🇹🇼 Taiwan         355
   🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
+  - [china] China's blue-chip index hits 14-month low as CATL tumbles, stimulus hopes fade
+  - [china] China's solar curbs may accelerate India's push for domestic wafer and cell manufacturing: Report
+  - [korea] Samsung, SK Hynix upgrading China fabs to make advanced NAND chips - report
+  - [japan] Goldman Sachs bets on these 8 Japanese chip stocks as earnings upgrades loom
   - [taiwan] Cloud AI to drive chip growth in 2027 as Taiwan suppliers seek opportunities beyond weak consumer edge AI
   - [japan] Japan open to winter fuel subsidies to soften heating bill blow
   - [japan] Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.
@@ -42,6 +47,7 @@ Total: 3000 manchetes
   - [japan] Achieving the price target through appropriate monetary policy and contributing to sustainable growth - Bank o
   - [china] From now on, the central bank continues to "strengthen"
   - [korea] Capybobo: PYBOBO begins KRW trading on Bithumb - 21 Oct 2026
+  - [china] China signals intent to push back against cleantech tariffs at COP31
   - [japan] BOJ’s Himino signals readiness to raise borrowing costs
   - [japan] Japan’s trade gap widens despite 13-month export growth streak
   - [japan] Japan to consider fuel subsidies during winter, Kyodo reports
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside
   - [japan] BREAKING NEWS: BOJ to decide in next meeting whether 2% inflation rate reached
   - [taiwan] TSMC Pauses Some Taiwan Construction After Mishap Kills Four
-  - [korea] Korea's Core Inflation Acceleration Unlikely to Prompt Aggressive Rate Hike — Market Talk
-  - [japan] Bank of Japan decides to reach 2% price level (Kyodo News)
-  - [korea] Why is SK Hynix stock surging today?
-  - [japan] Yomiuri: Japan's Carbon Fiber Manufacturers Expand to Robotaxis, Space
-  - [japan] Asia stocks rebound as SpaceX, Super Micro results lift chipmakers
-  - [taiwan] TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T09:22:43+00:00",
+      "published_utc": "2026-10-21T09:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
