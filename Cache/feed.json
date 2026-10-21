@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T21:22:45.696265+00:00",
- "collected_at_utc": "2026-10-21T21:22:45.696265+00:00",
+ "generated_at_utc": "2026-10-21T21:32:45.269147+00:00",
+ "collected_at_utc": "2026-10-21T21:32:45.269147+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1024,
+  "japan": 1025,
   "china": 869,
-  "taiwan": 358,
+  "taiwan": 357,
   "korea": 749
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T08:56:07+00:00"
+   "newest": "2026-10-21T11:24:45+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T14:17:37+00:00"
+   "newest": "2026-10-21T03:33:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-21T02:48:04+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T06:08:43+09:00"
+   "newest": "2026-10-22T06:08:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T00:55:50+09:00"
+   "newest": "2026-10-22T06:27:57+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-21T20:23:51+00:00"
+   "newest": "2026-10-21T21:30:06+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T21:21:20+00:00"
+   "newest": "2026-10-21T21:31:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T12:48:50+00:00"
+   "newest": "2026-10-21T18:50:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,11 +344,28 @@
  ],
  "items": [
   {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such as AI",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261022de63277",
+   "published_utc": "2026-10-21T21:27:57+00:00",
+   "title_original": "アメリカ メタ大幅増益 AIなど巨額の設備投資続ける見通し",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f8348f75e7d24588"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill: Ruling party “passes the bill after repeated deliberations” Opposition party “pleases thorough deliberation”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63246",
-   "published_utc": "2026-10-21T21:08:43+00:00",
+   "published_utc": "2026-10-21T21:08:00+00:00",
    "title_original": "消費税減税法案 与党“審議重ね法案通過”野党“充実審議を”",
    "region": "japan",
    "topics": [
@@ -31286,6 +31303,23 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
+   "title_en": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfVnFEeVdQOWI1dktYbHN2bDF0ZlRLUTluVGJIZFVOUWJFd3A4R1VHTHVDS1ZHdVJ5a2ppdk5sUm5QME40TlJ2b0lCbUFvRFJPWVh1TzJJNXhGUQ?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "title_original": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "92e09e9abc281cc5"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan Aug. real wages rise for 8th month on pay growth, slower inflation",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jLUpRTi1sck84a2Vlei14MlVLOEVTdGhxUmdjdVJxTkxVc3pBa2xIVV9Cem44dXFrOVltU09ucWwzbTRTZ0xYVUdjR3g5aFdNRW1YM1RPbGZxUQ?oc=5",
    "published_utc": "2026-10-07T07:00:00+00:00",
@@ -31503,23 +31537,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1ae8d8b7f796e3ec"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfVnFEeVdQOWI1dktYbHN2bDF0ZlRLUTluVGJIZFVOUWJFd3A4R1VHTHVDS1ZHdVJ5a2ppdk5sUm5QME40TlJ2b0lCbUFvRFJPWVh1TzJJNXhGUQ?oc=5",
-   "published_utc": "2026-10-07T04:15:00+00:00",
-   "title_original": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "92e09e9abc281cc5"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51922,23 +51939,6 @@
    "live_wire": true,
    "manual": false,
    "id": "75cfeafca0daf013"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Anduril's Taiwan supply chain to grow 15-fold in 2026",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcml4bUZhWjUxTU11WVlxWTdoaEpieW1QTUdnS3pWbTZuX0VFY2hhNmNJSzQxU1dGb3pseVNnX0tseENfRmZIUllLYTlvUXgtbnRlSndSQmRlV2lwZXBSdm5FaFRJVWpMUDFURzdZRnBtelZXaFpXbi1vc19zWHE1MEFOYVc5b0NmNVNHNjJ3cFdLRHJScTkta3ZTZEpkcUdnME9xNXB2WlJoUkltX21z?oc=5",
-   "published_utc": "2026-09-24T10:05:32+00:00",
-   "title_original": "Anduril's Taiwan supply chain to grow 15-fold in 2026",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e6aa59566dcb60ca"
   },
   {
    "source_id": "manual_ia",

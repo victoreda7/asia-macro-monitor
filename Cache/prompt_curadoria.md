@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T21:22:45.696265+00:00
+Última coleta: 2026-10-21T21:32:45.269147+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1024
+  🇯🇵 Japão          1025
   🇨🇳 China          869
-  🇹🇼 Taiwan         358
+  🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  749
 
 ## O que já está no feed (não repita)
 
+  - [japan] U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such
   - [japan] Consumption tax reduction bill: Ruling party “passes the bill after repeated deliberations” Opposition party “
   - [china] <Special Demand for AI Semiconductors in China> The reality of the "sluggish profit margin" faced by Citizen M
   - [korea] Today (22nd) October Bank of Korea Monetary Policy Committee meeting... The outlook for a base interest rate f
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins
   - [japan] Haruhiro Takahashi appointed as Bank of Japan Matsuyama Branch Manager, ``I want to contribute to the revitali
   - [china] Esteve More Than $80 Million Invested To Expand And Strengthen Esteve Cdmo's Manufacturing Capabilities In Chi
-  - [china] Former IMF executive says China and world need internationalised yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T21:22:45+00:00",
+      "published_utc": "2026-10-21T21:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
