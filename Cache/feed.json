@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T00:42:42.938757+00:00",
- "collected_at_utc": "2026-10-21T00:42:42.938757+00:00",
+ "generated_at_utc": "2026-10-21T00:52:43.127077+00:00",
+ "collected_at_utc": "2026-10-21T00:52:43.127077+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1029,
-  "china": 892,
+  "japan": 1030,
+  "china": 891,
   "taiwan": 350,
   "korea": 729
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T23:43:44+00:00"
+   "newest": "2026-10-20T12:13:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-21T09:40:51+00:00"
+   "newest": "2026-10-21T09:43:00+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 24,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-20T21:28:00+00:00"
+   "newest": "2026-10-20T13:27:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T00:39:00+00:00"
+   "newest": "2026-10-21T00:50:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T21:44:10+00:00"
+   "newest": "2026-10-20T18:40:09+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -394,6 +394,24 @@
    "live_wire": true,
    "manual": false,
    "id": "25967b51bf83b802"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan shifting to wage-driven inflation phase, finance minister says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44Z00S:0-japan-shifting-to-wage-driven-inflation-phase-finance-minister-says/",
+   "published_utc": "2026-10-21T00:31:27+00:00",
+   "title_original": "Japan shifting to wage-driven inflation phase, finance minister says",
+   "region": "japan",
+   "topics": [
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7172d6497bdf2333"
   },
   {
    "source_id": "tradingview_live",
@@ -1281,8 +1299,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -1296,7 +1314,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -1744,8 +1762,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -1759,7 +1777,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -2215,6 +2233,23 @@
    "id": "55ab5d52d5e4ba42"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "同花顺",
+   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kR0FIVmczN2RpcjV0MHdObWZCQU9DVThDekt0ampvNXR5ejAyUVE0Zm5hVWtPa1lkLTZzM2djay1QM3FmUmphejhKZktsVXhnSnJhbFI2bG9vODExa0E?oc=5",
+   "published_utc": "2026-10-20T06:27:38+00:00",
+   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b9fbd044006af956"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend",
@@ -2447,10 +2482,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观察者网",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFd1WDlURjRRNVRMenAyU1hkTGhjYlM1bEZJUW0wT2NpbDVMVzhzLXE5alJ2allYUVVJS2tnUUxOdWlSLTNLS2hmQ3dHSDNNOGtWVTFWejFKMTR0SDVzeVB3VjE5a3FCc2tEb3NZd2txSEpjOEw5YXVJXzlqeC1reWU0QV9oUUhWQlA4?oc=5",
-   "published_utc": "2026-10-20T05:07:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
+   "published_utc": "2026-10-20T05:07:00+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -2460,7 +2495,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "94e53c32e7d82fda"
+   "id": "50e1092b7ea2ed64"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2531,23 +2566,6 @@
    "live_wire": false,
    "manual": false,
    "id": "94948b0310f08f53"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vZDB1N2tzLWE0SW1aRHFzejRiOGZNMUQyQ3Y0QjY0Q01HTUtDT3J4aU10c0JVb3BaYWRvOWg4Y1JrMG9hMTZMN2M2MU16Rzh6NnhCVnROQ21fSmxWWVRzdg?oc=5",
-   "published_utc": "2026-10-20T04:35:40+00:00",
-   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c0255988d518ffc"
   },
   {
    "source_id": "nhk_politics",
@@ -3662,8 +3680,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -3677,7 +3695,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -7237,23 +7255,6 @@
    "id": "8ca1bcfeb8b9587c"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YcU11QXhkMW82ZV9tTS1ZMVRwQWJHZ2xONnJFWTZhb2c2MzRoeUw2X0FmQUFVVGhHdHpta3BmTk5YaUd4a2dKbU1iNlhFRXc5c2k1MXh4VzBGeWJGNkRscXFWaVZGSXFrNFJ4b05DOUh0c1paSm4wU0l1blI?oc=5",
-   "published_utc": "2026-10-17T00:14:15+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0d54b1faf146765e"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "[Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices announced",
@@ -7755,8 +7756,25 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWjQyRWVYQTZ4UE1uQ2tYRVpiZC1kbW9IUnJTSHVzQWdlcGpZYkExd3g4cFVFZnVjclVVWHhNc3U0aE1remZ3QTB5V3VfdFRYMnExSGZaQjdXLW5DSUxkcjE3VFRqUVRHMmJlS1VjUjNBVHVIRG5lSEo0ZzE?oc=5",
+   "published_utc": "2026-10-16T14:38:45+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "18b0552f95e580ac"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -7770,7 +7788,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -51934,23 +51952,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6a3768dd2158db59"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "US says China trade truce extended as Trump welcomes Xi",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5",
-   "published_utc": "2026-09-23T07:00:00+00:00",
-   "title_original": "US says China trade truce extended as Trump welcomes Xi",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "173572d249bb696b"
   },
   {
    "source_id": "manual_ia",
