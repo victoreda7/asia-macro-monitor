@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T17:12:43.805355+00:00
+Última coleta: 2026-10-21T17:22:43.267498+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] YMTC overtakes Samsung in China’s NAND flash market
   - [japan] Japan beef imports shift to Australia as droughts hit US herds
   - [korea] BOK Financial Is Maintained at Neutral by DA Davidson
   - [korea] BOK Financial Price Target Cut to $141.00/Share From $148.00 by Stephens & Co.
@@ -27,7 +28,6 @@ Total: 3000 manchetes
   - [china] Fujiyama Power Systems Comments On Reports Of China's Proposed Restrictions On Export Of Tech Used In Solar Ce
   - [japan] Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.
   - [korea] The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..
-  - [korea] YMTC overtakes Samsung in China’s NAND flash market
   - [china] ProBio Successfully Completes NMPA Pre-Approval Inspection for Biologics Manufacturing Facility in Nanjing, Ch
   - [china] Huhutech International Group - Subsidiary Joins Consortium Bidding On Semiconductor Fab Gas Delivery System Pr
   - [japan] One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Ad
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T17:12:44+00:00",
+      "published_utc": "2026-10-21T17:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
