@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T16:42:43.972317+00:00
+Última coleta: 2026-10-21T16:52:43.320290+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
@@ -38,7 +38,6 @@ Total: 3000 manchetes
   - [korea] Hyundai Mobis Accelerates Full-Cycle Collaboration as a "K-Automotive Semiconductor Korea One Team"
   - [china] China uses crude stockpiles, but rising oil imports may curtail draws: Russell
   - [japan] IMF official says currency intervention offers limited benefits By Investing.com
-  - [china] No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive 
   - [korea] FTC chief acknowledges role of conglomerates in economic growth
   - [japan] Haruhiro Takahashi appointed as new branch manager of Bank of Japan Matsuyama Branch [Ehime] (eat Ehime Asahi 
   - [japan] Bank of Japan decides to reach 2% price increase rate, shifts from deflationary measures, leaves policy intere
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [china] China’s Youth Unemployment Rate Eases to 18%
   - [taiwan] Budget agency yet to discuss funding for CPC's Alaska LNG investment
+  - [china] China's blue-chip index hits 14-month low as CATL tumbles, stimulus hopes fade
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T16:42:44+00:00",
+      "published_utc": "2026-10-21T16:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
