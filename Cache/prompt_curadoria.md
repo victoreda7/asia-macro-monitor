@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T11:22:46.616732+00:00
+Última coleta: 2026-10-21T11:32:43.416043+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1029
+  🇯🇵 Japão          1028
   🇨🇳 China          868
-  🇹🇼 Taiwan         359
+  🇹🇼 Taiwan         360
   🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
   - [korea] FTC chief acknowledges role of conglomerates in economic growth
+  - [japan] Haruhiro Takahashi appointed as new branch manager of Bank of Japan Matsuyama Branch [Ehime] (eat Ehime Asahi 
   - [japan] Bank of Japan decides to reach 2% price increase rate, shifts from deflationary measures, leaves policy intere
   - [taiwan] Nvidia, Siliconware Precision Industries to Expand Manufacturing Capacity in Taiwan for Optical Engines Used i
   - [taiwan] Nvidia Expects Total Semiconductor Testing Capacity to Double From 2026 to 2027, Supported by Buildouts in U.S
@@ -30,6 +31,7 @@ Total: 3000 manchetes
   - [japan] Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [china] China’s Youth Unemployment Rate Eases to 18%
+  - [taiwan] Budget agency yet to discuss funding for CPC's Alaska LNG investment
   - [china] China's blue-chip index hits 14-month low as CATL tumbles, stimulus hopes fade
   - [china] China's solar curbs may accelerate India's push for domestic wafer and cell manufacturing: Report
   - [korea] Samsung, SK Hynix upgrading China fabs to make advanced NAND chips - report
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Will the Bank of Japan decide to reach the 2% price level? (NRI researcher's commentary on current events)
   - [korea] Ryukil C&S To Acquire Real Estate Worth 25 Billion Won
   - [korea] Kospi Regains Ground as Chip Stocks Recoup Most of Prior Session's Losses
-  - [japan] Don't you feel safe even if you keep the approval rating at 50%? Yokohama, Chiyoda... The footsteps of "distur
-  - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T11:22:46+00:00",
+      "published_utc": "2026-10-21T11:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
