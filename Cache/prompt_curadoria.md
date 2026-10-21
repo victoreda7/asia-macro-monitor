@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T02:22:43.242722+00:00
+Última coleta: 2026-10-21T02:32:44.205709+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
-  🇨🇳 China          886
+  🇯🇵 Japão          1035
+  🇨🇳 China          884
   🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  729
+  🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [korea] Vietnam security ministry seeks Samsung's help on AI and chips
+  - [china] Shipments of foreign-branded phones in China fall 14.8% y/y in September, data shows
+  - [japan] Japan futures slip as yen jumps, cost support seen easing
   - [korea] FTC chief acknowledges role of conglomerates in economic growth
   - [china] China Youth Jobless Rate Eases to 18%
   - [korea] South Korean Shares Rebound on Chip Rally
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea October 1-20 exports rise 105.4% year/year
   - [japan] JAPAN SEPT IMPORT Y/Y RISE LED BY CRUDE OIL, CHIPMAKING EQUIPMENT, LNG
   - [japan] Japan Import Growth Slows to 5-Month Low
-  - [japan] JAPAN SEPT EXPORT Y/Y RISE LED BY COMPUTER CHIPS, AUTO, CHIPMAKING EQUIPMENT
-  - [japan] Japan Export Growth Slows to 4-Month Low
-  - [japan] JAPAN SEPT TRADE DEFICIT ¥536.5 BLN (AUG REVISED ¥1,112 BLN DEFICIT); 5TH STRAIGHT DEFICIT; MEDIAN FORECAST ¥7
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T02:22:43+00:00",
+      "published_utc": "2026-10-21T02:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
