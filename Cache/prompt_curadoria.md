@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T07:22:43.916920+00:00
+Última coleta: 2026-10-21T07:32:44.241209+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
@@ -17,9 +17,11 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan futures slip as yen jumps, cost support seen easing
   - [japan] The Takaichi administration should present a "Plan B" for fiscal policy...A plan that says "achieving high gro
   - [korea] Samsung Biologics Co., Ltd. Q3 Rev KRW 1.49T; Lifts 2026 Growth Guide to 20%
   - [korea] South Korean shares post biggest gain in 6 weeks as chipmakers rebound
+  - [japan] Will the Bank of Japan decide to reach the 2% price level? (NRI researcher's commentary on current events)
   - [korea] Ryukil C&S To Acquire Real Estate Worth 25 Billion Won
   - [korea] Kospi Regains Ground as Chip Stocks Recoup Most of Prior Session's Losses
   - [japan] Don't you feel safe even if you keep the approval rating at 50%? Yokohama, Chiyoda... The footsteps of "distur
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Stock prices rise due to fall in crude oil futures prices
   - [korea] Why is Samsung Electronics stock surging today?
   - [china] China's yuan touches new high since 2022 on weaker dollar, export resilience
-  - [china] China September Power Consumption Up 1.2% Y/Y - National Energy Administration
-  - [japan] Yen Holds Steady Amid Sluggish Export Growth
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T07:22:44+00:00",
+      "published_utc": "2026-10-21T07:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

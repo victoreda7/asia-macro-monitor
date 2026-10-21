@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-21T07:22:43.916920+00:00",
- "collected_at_utc": "2026-10-21T07:22:43.916920+00:00",
+ "generated_at_utc": "2026-10-21T07:32:44.241209+00:00",
+ "collected_at_utc": "2026-10-21T07:32:44.241209+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,15 +11,15 @@
   "taiwan": 351,
   "korea": 744
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 46,
-   "error": "",
-   "newest": "2026-10-16T17:00:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T07:02:56+00:00"
+   "newest": "2026-10-21T07:22:58+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T06:31:05+00:00"
+   "newest": "2026-10-21T07:18:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T05:18:41+00:00"
+   "newest": "2026-10-21T07:07:37+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T03:50:51+00:00"
+   "newest": "2026-10-21T07:07:30+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T06:56:15+00:00"
+   "newest": "2026-10-20T23:52:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T01:56:00+00:00"
+   "newest": "2026-10-21T05:02:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T06:11:00+00:00"
+   "newest": "2026-10-21T06:34:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T03:43:00+00:00"
+   "newest": "2026-10-21T06:34:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T07:21:15+00:00"
+   "newest": "2026-10-21T07:31:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T07:00:12+00:00"
+   "newest": "2026-10-21T06:50:06+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan futures slip as yen jumps, cost support seen easing",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46707U:0-japan-futures-slip-as-yen-jumps-cost-support-seen-easing/",
+   "published_utc": "2026-10-21T07:26:10+00:00",
+   "title_original": "Japan futures slip as yen jumps, cost support seen easing",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e025fa569c90258a"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "The Takaichi administration should present a \"Plan B\" for fiscal policy...A plan that says \"achieving high growth and achieving fiscal sustainability is OK\" is too optimistic | Politics, Economy, Investment | Toyo Keizai Online",
@@ -394,6 +411,24 @@
    "live_wire": true,
    "manual": false,
    "id": "886c445ac01fc4df"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Will the Bank of Japan decide to reach the 2% price level? (NRI researcher's commentary on current events)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tZVk5NjdmYmtieTlvbi1IdkxWRU5aamdmM1NlbTJCNkEwQlY3SXQwclF1QjljMTdXSktlWm5iVlZhdHlEdXExdU5CTkRjZ3RGQldqOHJ1b0ZFTjhPN01VajlGOFpuMmE5My1zbE13OXVPNnJaWGRDM0xoQjRoZmc?oc=5",
+   "published_utc": "2026-10-21T06:50:06+00:00",
+   "title_original": "日本銀行は2％の物価目水準に到達の判断を示すか（NRI研究員の時事解説）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e9790fe6d322697e"
   },
   {
    "source_id": "tradingview_live",
@@ -1138,23 +1173,6 @@
    "live_wire": true,
    "manual": false,
    "id": "11d2eee8774ab88b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan futures slip as yen jumps, cost support seen easing",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46703V:0-japan-futures-slip-as-yen-jumps-cost-support-seen-easing/",
-   "published_utc": "2026-10-21T02:23:19+00:00",
-   "title_original": "Japan futures slip as yen jumps, cost support seen easing",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1b71eba24a54e7ad"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3554,10 +3572,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "21财经",
    "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrNWowR1N3bVB6UVhIejF2MzI5LW9BbENpZVVfb1hMUXZhWHJGS3lWR2hyd1FkYVZXZ3BxRW9Gd3NxRTFWdWEwY0VnWjJNaFYwWlhvU19saEtKSUNlU0thSw?oc=5",
-   "published_utc": "2026-10-20T05:18:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEJxeWs2dEotVk5yQ1JIZHp6SVFrb2RrZFFFS0M2a05DVzNHN1RhVHFhSXVSQVpjV3Q5b2dpa2wyM2hLWWR0TnJHV2o3TjhnenN3ZzBLWTlfR3FiVTEyZnNmcjY1djAzc1FUWG9FbzZwVDYxV2VmQWlqWXM2Nnh3by1yMDRMN3ZSOWRCQmdNZw?oc=5",
+   "published_utc": "2026-10-20T05:14:17+00:00",
    "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
    "region": "china",
    "topics": [
@@ -3567,7 +3585,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c5947fbecfc0585f"
+   "id": "698649e477d3ce6f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -14586,7 +14604,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "证券时报网",
+   "source_name": "证券时报",
    "title_en": "The Times said the central bank will launch a 700 billion yuan buyout reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MUZ2OWlCbnY3MHpDN0FlTE1sLVpaNkNHSWNOMTkzOVFPX3FmelROTXdxSE84cFJCVGU2end0ZGx5ajBGaW16TV96cHNXQ08zLWtndG5SVGxuTTI3?oc=5",
    "published_utc": "2026-10-14T22:45:00+00:00",
@@ -51929,23 +51947,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d09d61430225ec8e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Composite PMI Slips to 4-Month Low",
-   "url": "https://www.tradingview.com/news/te_news:586270:0-japan-composite-pmi-slips-to-4-month-low/",
-   "published_utc": "2026-09-24T00:33:25+00:00",
-   "title_original": "Japan Composite PMI Slips to 4-Month Low",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "722fe7b4928ad896"
   },
   {
    "source_id": "manual_ia",
