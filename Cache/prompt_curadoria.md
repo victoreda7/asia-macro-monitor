@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T04:32:43.173806+00:00
+Última coleta: 2026-10-21T04:42:43.734384+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1037
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's financial conditions loose even after rate hike, BOJ's Himino says
   - [japan] Meiji Yasuda may buy as much as 1 trillion yen worth of yen bonds this year
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside
   - [korea] Korea's Core Inflation Acceleration Unlikely to Prompt Aggressive Rate Hike — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] AI customers seek 3-year partnerships as Unimicron calls for Taiwan PCB supply chain collab
   - [china] China September youth jobless rate at 18%
   - [japan] Satsuki Katayama: Japan Nears Shift to Sustained, Wage-Driven Inflation
-  - [taiwan] Breaking AI's memory wall: former TSMC VP charts a path with HBM, optical links and 3D stacking
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T04:32:43+00:00",
+      "published_utc": "2026-10-21T04:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
