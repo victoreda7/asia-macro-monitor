@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T09:02:47.885399+00:00
+Última coleta: 2026-10-21T09:12:43.096027+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
+  🇯🇵 Japão          1032
   🇨🇳 China          870
-  🇹🇼 Taiwan         354
+  🇹🇼 Taiwan         355
   🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Cloud AI to drive chip growth in 2027 as Taiwan suppliers seek opportunities beyond weak consumer edge AI
   - [japan] Japan open to winter fuel subsidies to soften heating bill blow
   - [japan] Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.
   - [china] Indonesia's central bank keeps its benchmark interest rate unchanged and lowers bank deposit reserve ratios
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yomiuri: Japan's Carbon Fiber Manufacturers Expand to Robotaxis, Space
   - [japan] Asia stocks rebound as SpaceX, Super Micro results lift chipmakers
   - [taiwan] TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
-  - [china] Trump Open to Summit With Xi and Putin in China to Discuss Ukraine
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T09:02:48+00:00",
+      "published_utc": "2026-10-21T09:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
