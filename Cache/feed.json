@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T15:32:44.233987+00:00",
- "collected_at_utc": "2026-10-21T15:32:44.233987+00:00",
+ "generated_at_utc": "2026-10-21T15:42:44.928912+00:00",
+ "collected_at_utc": "2026-10-21T15:42:44.928912+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1024,
-  "china": 873,
-  "taiwan": 359,
+  "china": 874,
+  "taiwan": 358,
   "korea": 744
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T15:10:03+00:00"
+   "newest": "2026-10-21T15:35:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T14:54:59+00:00"
+   "newest": "2026-10-21T15:31:10+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T11:32:29+00:00"
+   "newest": "2026-10-21T10:34:06+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T05:27:54+00:00"
+   "newest": "2026-10-21T06:28:41+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T00:04:29+09:00"
+   "newest": "2026-10-22T00:32:37+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T14:32:47+00:00"
+   "newest": "2026-10-21T14:54:46+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T15:31:49+00:00"
+   "newest": "2026-10-21T15:42:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -482,8 +482,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -497,7 +497,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -2736,23 +2736,6 @@
    "id": "dc13a2a24cbbc3a1"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrNWowR1N3bVB6UVhIejF2MzI5LW9BbENpZVVfb1hMUXZhWHJGS3lWR2hyd1FkYVZXZ3BxRW9Gd3NxRTFWdWEwY0VnWjJNaFYwWlhvU19saEtKSUNlU0thSw?oc=5",
-   "published_utc": "2026-10-20T18:29:02+00:00",
-   "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c5947fbecfc0585f"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "BOK Financial Q3 2026 slides: margin expansion offsets fee pressure",
@@ -3026,8 +3009,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -3041,7 +3024,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -3523,8 +3506,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -3538,7 +3521,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -4189,6 +4172,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a635a4e49fd3df7b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEJxeWs2dEotVk5yQ1JIZHp6SVFrb2RrZFFFS0M2a05DVzNHN1RhVHFhSXVSQVpjV3Q5b2dpa2wyM2hLWWR0TnJHV2o3TjhnenN3ZzBLWTlfR3FiVTEyZnNmcjY1djAzc1FUWG9FbzZwVDYxV2VmQWlqWXM2Nnh3by1yMDRMN3ZSOWRCQmdNZw?oc=5",
+   "published_utc": "2026-10-20T05:14:17+00:00",
+   "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "698649e477d3ce6f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5425,8 +5425,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -5440,7 +5440,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -7401,6 +7401,23 @@
    "live_wire": false,
    "manual": false,
    "id": "97c832f658362042"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "界面新闻",
+   "title_en": "The central bank’s policy interest rate changes its anchor: why, how, and what are the impacts?",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrcVpGRl9WS1ZiVkxFR3lOeWZBZEdxUC1ZcWNKeUlTNXhZSDF1Z0tVdmxHZ2laLURWdkd2NU13SWp2eXQyLTNJZFgwSjE2aG5tZmI4dDhR?oc=5",
+   "published_utc": "2026-10-18T21:37:00+00:00",
+   "title_original": "央行政策利率换锚：为什么，怎么换，有何影响？",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "00dd8d6fe9c74efc"
   },
   {
    "source_id": "scmp_business",
@@ -12974,6 +12991,23 @@
    "id": "bc95c5f9de95e7c9"
   },
   {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ucll6M0tRbXZvV3V1YVdlb3VONlAxbFZlSVFrd00tNklITkU3eEVON2lYRXcxYW44eXNRclR0eF9helZDZVJSd0FnNlhReVRTRzkxaHdFZTVjRWVabFJLaFF1aF8yTWpXLThzZkJ1WTZCNlZwT3c?oc=5",
+   "published_utc": "2026-10-15T10:53:00+00:00",
+   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3fa8d36118a2fe2b"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Tech sell-off gathers pace as chipmakers hammered By Reuters",
@@ -13619,23 +13653,6 @@
    "live_wire": false,
    "manual": false,
    "id": "858b64fc398f2573"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YbDdCM0dWdWNvamRaZ2ZWNENRV1ZXNFFFSnIxMEhyejRTVmRtVVVUOHE0a29qbi1ObWNaMFdoZDZuTUJ2MndKZkFyVlA1NmpKemNjX0FUUGFuS0F2RlE?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dd8f23c892dc681"
   },
   {
    "source_id": "yahoo_business",
@@ -51922,23 +51939,6 @@
    "live_wire": false,
    "manual": false,
    "id": "89a28a3b94819d69"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC locks in 3-6% wafer out price hikes for 2027",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVE4Ty1hREZERmhoSkJWekhXV25RekVMSXpMMHJyNmpJTjV0ZFJQUlF4eHJVTkxsN1ZrZVFoa3RsRnhuZWM2Z1pSUTZOeFg5MWMtLXVuM2VwWEF1eUhsanZuOFVNUmdfb1VLSkxmMERxTWt2cldmcjdOMTFNdWpfTDlzZzNKQQ?oc=5",
-   "published_utc": "2026-09-24T07:00:00+00:00",
-   "title_original": "TSMC locks in 3-6% wafer out price hikes for 2027",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bfd3c21d2e6cc860"
   },
   {
    "source_id": "manual_ia",
