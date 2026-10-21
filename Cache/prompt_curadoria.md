@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T11:42:42.787045+00:00
+Última coleta: 2026-10-21T11:52:42.587275+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1029
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] IMF official says currency intervention offers limited benefits By Investing.com
   - [korea] FTC chief acknowledges role of conglomerates in economic growth
   - [japan] Haruhiro Takahashi appointed as new branch manager of Bank of Japan Matsuyama Branch [Ehime] (eat Ehime Asahi 
   - [japan] Bank of Japan decides to reach 2% price increase rate, shifts from deflationary measures, leaves policy intere
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Death toll in TSMC Kaohsiung construction accident rises to 4
   - [korea] South Korean shares post biggest gain in 6 weeks as chipmakers rebound
   - [japan] Will the Bank of Japan decide to reach the 2% price level? (NRI researcher's commentary on current events)
-  - [korea] Ryukil C&S To Acquire Real Estate Worth 25 Billion Won
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T11:42:42+00:00",
+      "published_utc": "2026-10-21T11:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
