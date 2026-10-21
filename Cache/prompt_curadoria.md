@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T14:43:00.383666+00:00
+Última coleta: 2026-10-21T14:52:45.125986+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1025
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] INPEX: Abadi anchors a projected 60% business expansion, backed by JPY 1.95tn of near-term growth investment
   - [china] Fujiyama Power Systems Comments On Reports Of China's Proposed Restrictions On Export Of Tech Used In Solar Ce
   - [japan] Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.
   - [korea] The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Cloud AI to drive chip growth in 2027 as Taiwan suppliers seek opportunities beyond weak consumer edge AI
   - [korea] Semiconductor stocks in South Korea and the United States are fluctuating, reacting sensitively to s..
   - [china] Merz Says EU to Avoid China Trade War as It Defends Itself
-  - [korea] Samsung Biologics raises full-year revenue growth forecast after record-high Q3 sales, profit
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T14:43:00+00:00",
+      "published_utc": "2026-10-21T14:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
