@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T09:52:42.752600+00:00
+Última coleta: 2026-10-21T10:02:44.625575+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
-  🇨🇳 China          868
+  🇨🇳 China          869
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  745
+  🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
+  - [china] PBOC's Potential Shift to Overnight Policy Rate Appears Supportive for China Bonds — Market Talk
+  - [china] Wens Foodstuff Says Q3 Net Loss At 595.5 Million Yuan
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [china] China’s Youth Unemployment Rate Eases to 18%
   - [china] China's blue-chip index hits 14-month low as CATL tumbles, stimulus hopes fade
@@ -32,6 +34,7 @@ Total: 3000 manchetes
   - [china] Indonesia's central bank keeps its benchmark interest rate unchanged and lowers bank deposit reserve ratios
   - [taiwan] Rising Risk of Taiwan Central Bank Rate Hike — Market Talk
   - [japan] BOJ to decide at next week's meeting whether 2% inflation target reached: sources
+  - [taiwan] TSMC Pauses Some Taiwan Construction After Mishap Kills Four
   - [japan] BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.
   - [japan] Japan futures slip as yen jumps, cost support seen easing
   - [taiwan] Taiwan semiconductor electricity use hits record high in Sept.
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China signals intent to push back against cleantech tariffs at COP31
   - [japan] BOJ’s Himino signals readiness to raise borrowing costs
   - [japan] Japan’s trade gap widens despite 13-month export growth streak
-  - [japan] Japan to consider fuel subsidies during winter, Kyodo reports
-  - [japan] Bank of Japan decides to reach 2% price increase rate at October meeting, will it take 14 years to reach 2% (K
-  - [japan] Japan's financial conditions loose even after rate hike, BOJ's Himino says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T09:52:42+00:00",
+      "published_utc": "2026-10-21T10:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
