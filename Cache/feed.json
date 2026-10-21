@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-21T03:52:44.852866+00:00",
- "collected_at_utc": "2026-10-21T03:52:44.852866+00:00",
+ "generated_at_utc": "2026-10-21T04:02:43.382108+00:00",
+ "collected_at_utc": "2026-10-21T04:02:43.382108+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 1036,
   "china": 880,
-  "taiwan": 351,
-  "korea": 733
+  "taiwan": 349,
+  "korea": 735
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T02:43:44+00:00"
+   "newest": "2026-10-21T03:01:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 56,
+   "count": 58,
    "error": "",
-   "newest": "2026-10-21T10:09:43+08:00"
+   "newest": "2026-10-21T10:47:48+08:00"
   },
   {
    "source_id": "investing_live",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T00:28:00+00:00"
+   "newest": "2026-10-21T00:56:58+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T12:37:08+09:00"
+   "newest": "2026-10-21T12:58:05+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T03:49:47+00:00"
+   "newest": "2026-10-21T04:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T02:30:50+00:00"
+   "newest": "2026-10-21T03:00:00+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumption tax reduction bill, working on the three security documents",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261020de62511",
+   "published_utc": "2026-10-21T03:56:03+00:00",
+   "title_original": "高市内閣発足1年 消費税減税法案成立に全力 安保3文書取り組む",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e5cc372c63162978"
+  },
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
@@ -361,8 +379,8 @@
    "id": "a6d11e11f8af1f46"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to feel the effects early.”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de62724",
    "published_utc": "2026-10-21T03:37:08+00:00",
@@ -378,7 +396,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "14cdd23a48cbfd5c"
+   "id": "7ac408a189c300e3"
   },
   {
    "source_id": "tradingview_live",
@@ -1266,6 +1284,24 @@
    "id": "aefb118a78acc067"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "South Korea’s Export Boom Stays Strong Ahead of BOK Rate Decision",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlZhcXZiOHFtY0hSWWF5Mks0bDlCLXFDR3lKZFBjYzg2enVwV184RU52UWpJb1o2VGNUYng4YXBYUldkMkExS1laeU5VbWdsTHNRU0FzSkdibFVRZzN3ckVqQ2l6eEpOd1BVdDNjZXpiNXMxOUZFNFlfcDdFbGppcF8wb2pWVjk3U3NvdE56Nnd6ZGtOWTk1T29Ed3lWYndEREVQM3Q1eWJCaUFnanBkLUtR?oc=5",
+   "published_utc": "2026-10-21T00:00:00+00:00",
+   "title_original": "South Korea’s Export Boom Stays Strong Ahead of BOK Rate Decision",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8f482a71b0408c6e"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "Japan Import Growth Slows to 5-Month Low",
@@ -1633,24 +1669,6 @@
    "id": "9f04c5ef8dea5743"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumption tax reduction bill, working on the three security documents",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261020de62511",
-   "published_utc": "2026-10-20T19:48:00+00:00",
-   "title_original": "高市内閣発足1年 消費税減税法案成立に全力 安保3文書取り組む",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e5cc372c63162978"
-  },
-  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Caixin Explains: What China’s Proposed Shift to an Overnight Policy Rate Would Mean",
@@ -1958,8 +1976,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -1973,7 +1991,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -2302,6 +2320,23 @@
    "id": "cfa3f492dc10d4f8"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "[Issue & People] What is the real meaning of the rebound in potential growth rate after 40 years?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Oak5SZWUxQXZaRkQ5YjZSR0x0WE5ZNFJwSzlVRWxsN1E5c3V2akwwY1V3RFJDYUQzSnN4ZS1LS1hSUk96eXNXbTgwOVVZeXljR2c?oc=5",
+   "published_utc": "2026-10-20T09:38:37+00:00",
+   "title_original": "[이슈앤피플] 잠재성장률 40년 만에 반등의 진짜 의미는?",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3ee518bf4f083070"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Chinese Hybrid Import Cap Offers Relief to European Carmakers — Market Talk",
@@ -2421,8 +2456,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -2436,7 +2471,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -2873,25 +2908,6 @@
    "id": "5ebd99922c8fcea2"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGg2LWNvU0NRd2ZxWVlnS0tZN3R0QUFzVEtyTGNWSUdjN2pPR041cktnam4xNlI4SUo0T19nWk5lNWZwODNDRVVtNWJVcFdKUU5Xb243dTFrYjBsMS1kejE2Rkd3akg2SnlQM1J2cTB5RDZNT3lDNTc5MmljeEtpV0trNGdJZkZaVF9HUFprQW5Pd1ZUSmpXbVRCXy14UjlkX1VKVl9fSFk0YW1SZ1dmU1ZENVh2NUNUMGNpbGR2dDVGdw?oc=5",
-   "published_utc": "2026-10-20T06:28:27+00:00",
-   "title_original": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "55ab5d52d5e4ba42"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend",
@@ -2926,6 +2942,25 @@
    "live_wire": false,
    "manual": false,
    "id": "71404ed3289b6b41"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2VPQUZyX1RweDE2QU8wYVBxaTRUczJ3VUZtS05qQkc0azVsbTZaZmpRODRaM0k0dE1vRXR3YkkyS1dFWUwzajl5X09Ga2oxRnZPTFJHM19rTXFtN3Q2NlVPQ0FGcTNkVXRwU3ZLSFRPaXh0WUptY25mcFgzTGRqanZaNmd1eGJqLTFuS0Y4M28wc0d3OEN2WnVmNm1ySWE3XzFLVkl3LTJrS0I1R1hER3lzWl9VMFpSZ3QxTVphdW9TZjQ?oc=5",
+   "published_utc": "2026-10-20T06:15:39+00:00",
+   "title_original": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1bef12aa9d18fe46"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4339,8 +4374,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -4354,7 +4389,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -8175,7 +8210,7 @@
    "id": "deb5a0d6dbe3827e"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Beijing seeks tighter grip on AI exports amid US rivalry",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
@@ -8189,7 +8224,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "924c3de6f6f8a6c7"
+   "id": "8576f60b67f5a715"
   },
   {
    "source_id": "investing_live",
@@ -29833,23 +29868,6 @@
    "id": "afe932cae17a5fd7"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AI supercycle, pricing, and Terafab top the agenda ahead of TSMC's earnings call",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN012NHpQRjFOZFhUMGRXUE1JMWpEaXhsTmlzcFl1LXRrYUZoVjhCOTh6QTYwQjhtUEdDOFdoZy1vZktaUHZyOTVXUE1pZ1QwU1J5WFZGODVMTS1IRnVGcktiRzl1VllYb1dkWXlZQ3BneUZyM1EwNDA4LTR0ZXdPVE5KeVY1b203S1B2aS1B?oc=5",
-   "published_utc": "2026-10-07T07:00:00+00:00",
-   "title_original": "AI supercycle, pricing, and Terafab top the agenda ahead of TSMC's earnings call",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e6ccedacd7572a6f"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
@@ -30171,6 +30189,23 @@
    "live_wire": false,
    "manual": false,
    "id": "232fa1adc738f1b5"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI supercycle, pricing, and Terafab top the agenda ahead of TSMC's earnings call",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN012NHpQRjFOZFhUMGRXUE1JMWpEaXhsTmlzcFl1LXRrYUZoVjhCOTh6QTYwQjhtUEdDOFdoZy1vZktaUHZyOTVXUE1pZ1QwU1J5WFZGODVMTS1IRnVGcktiRzl1VllYb1dkWXlZQ3BneUZyM1EwNDA4LTR0ZXdPVE5KeVY1b203S1B2aS1B?oc=5",
+   "published_utc": "2026-10-07T01:57:24+00:00",
+   "title_original": "AI supercycle, pricing, and Terafab top the agenda ahead of TSMC's earnings call",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e6ccedacd7572a6f"
   },
   {
    "source_id": "nikkei_asia",
@@ -51911,40 +51946,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f6eafe9f49c1b0d0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Synopsys, Inc. (SNPS) Expands TSMC Collaboration Across A14, AI EDA, Multi-Die and IP",
-   "url": "https://www.tradingview.com/news/tradingview:c461a0f63697a:0-synopsys-inc-snps-expands-tsmc-collaboration-across-a14-ai-eda-multi-die-and-ip/",
-   "published_utc": "2026-09-23T19:01:00+00:00",
-   "title_original": "Synopsys, Inc. (SNPS) Expands TSMC Collaboration Across A14, AI EDA, Multi-Die and IP",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "763f65cfbd8fe977"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "BusinessWire",
-   "title_en": "Cadence Collaborates With TSMC to Deliver Certified Tool Solutions and Industry-Leading, Silicon-Proven UALink IP on TSMC Advanced Processes",
-   "url": "https://www.tradingview.com/news/business_wire:c8753f006d714:0-cadence-collaborates-with-tsmc-to-deliver-certified-tool-solutions-and-industry-leading-silicon-proven-ualink-ip-on-tsmc-advanced-processes/",
-   "published_utc": "2026-09-23T19:00:00+00:00",
-   "title_original": "Cadence Collaborates With TSMC to Deliver Certified Tool Solutions and Industry-Leading, Silicon-Proven UALink IP on TSMC Advanced Processes",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2751dd9234761a8b"
   },
   {
    "source_id": "manual_ia",
