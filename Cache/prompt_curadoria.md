@@ -7,18 +7,31 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T00:02:45.904169+00:00
+Última coleta: 2026-10-21T00:12:43.210046+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1013
-  🇨🇳 China          900
-  🇹🇼 Taiwan         353
-  🇰🇷 Coreia do Sul  734
+  🇯🇵 Japão          1025
+  🇨🇳 China          891
+  🇹🇼 Taiwan         351
+  🇰🇷 Coreia do Sul  733
 
 ## O que já está no feed (não repita)
 
+  - [japan] JAPAN SEPT EXPORTS POST 13TH STRAIGHT Y/Y RISE
+  - [japan] Japan's September exports rise 16.7%, helped by chip demand
+  - [japan] MNI: JAPAN SEPT EXPORTS +16.7% Y/Y; AUG +19.3%
+  - [japan] JAPAN SEPT EXPORTS TO EU +10.5%, 14TH STRAIGHT RISE (AUG +11.0%) , LED BY AUTO, SHIPS, DRUGS
+  - [japan] Trade statistics for the first half of this fiscal year: 2.8 trillion yen deficit, 98.8% larger than last year
+  - [japan] JAPAN SEPT EXPORTS TO US +22.9% Y/Y, 7TH STRAIGHT RISE (AUG +24.9%), LED BY AUTOS, DRUGS, CHIP-MAKING EQUIPMEN
+  - [japan] JAPAN SEPT IMPORT Y/Y RISE LED BY CRUDE OIL, CHIPMAKING EQUIPMENT, LNG
+  - [japan] JAPAN SEPT EXPORT Y/Y RISE LED BY COMPUTER CHIPS, AUTO, CHIPMAKING EQUIPMENT
+  - [japan] Japan September exports rise 16.7% y/y, slower than forecast
+  - [japan] Japan Export Growth Slows to 4-Month Low
+  - [japan] JAPAN SEPT TRADE DEFICIT ¥536.5 BLN (AUG REVISED ¥1,112 BLN DEFICIT); 5TH STRAIGHT DEFICIT; MEDIAN FORECAST ¥7
   - [china] Kazakh borrowers issue billions of yuan debt as China ties tighten
+  - [japan] JAPAN SEPT IMPORTS +18.9% Y/Y (AUG +28.0%), 8TH STRAIGHT RISE; MEDIAN FORECAST +19.9%
   - [japan] BREAKING NEWS: Japan logs 536.5 billion yen trade deficit in Sept.
+  - [japan] JAPAN SEPT EXPORTS +16.7% Y/Y (AUG +19.3%), 13TH STRAIGHT RISE; MEDIAN FORECAST +21.7%
   - [japan] From wars to El Niño...World food prices become scary at the end of the year (JoongAng Ilbo Japanese version)
   - [japan] Bank of Japan Governor Ueda will attend the House of Representatives Finance and Financial Services Committee 
   - [japan] BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll
@@ -44,19 +57,6 @@ Total: 3000 manchetes
   - [japan] Preview: Forecasters See Japanese Inflation Picking Up Steam amid Rising Energy Costs, Weak Yen
   - [japan] More than 23,000 cases of information may be leaked in the country's energy-saving housing project
   - [korea] BYD surges to No. 4 in Korea's imported car market
-  - [korea] What's the future of AI stock? SK Hynix shares crash to lowest level since Apr as sell-off deepens; down 31% i
-  - [china] Nvidia secures $35B in orders for new export-compliant GPU from Chinese tech giants: report
-  - [china] BofA Prefers These Semicap Top Picks on Mix, Pricing, NAND, China Upside
-  - [china] The central bank will carry out overnight reverse repurchase operations
-  - [china] China’s hybrid car exports to EU surge by more than 200% as import cap looms
-  - [japan] Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and
-  - [china] Micron Invests In US Indium Processing Amid China Export Restrictions – MU Stock Still Dips
-  - [taiwan] Starlux expands routes amid AI, chip industry demand
-  - [taiwan] 2 workers found without vital signs at Kaohsiung TSMC fab site
-  - [korea] Axcelis To Begin Construction Of New Manufacturing Facility In Pyeongtaek, Korea
-  - [taiwan] Apple commits up to $100 million for US titanium in domestic manufacturing push
-  - [china] China’s rare earth magnet exports to EU and US rebound in September
-  - [china] Hormuz Disruption, Chinese Export Curbs Keep Fertilizer Supplies Tight, S&P Says — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T00:02:46+00:00",
+      "published_utc": "2026-10-21T00:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
