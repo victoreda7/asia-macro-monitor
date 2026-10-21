@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T10:52:43.110908+00:00
+Última coleta: 2026-10-21T11:02:45.258300+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1030
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] FTC chief acknowledges role of conglomerates in economic growth
+  - [japan] Bank of Japan decides to reach 2% price increase rate, shifts from deflationary measures, leaves policy intere
   - [taiwan] Nvidia, Siliconware Precision Industries to Expand Manufacturing Capacity in Taiwan for Optical Engines Used i
   - [taiwan] Nvidia Expects Total Semiconductor Testing Capacity to Double From 2026 to 2027, Supported by Buildouts in U.S
   - [china] Nvidia: King Yuan Electronics to Build New Facilities in U.S., Supported by a $1.1 Billion Capacity Reservatio
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Don't you feel safe even if you keep the approval rating at 50%? Yokohama, Chiyoda... The footsteps of "distur
   - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
   - [korea] Nomura, JPMorgan bullish on Korean chips despite Kospi swings
-  - [china] America, China Remain 'Fundamental' for European Spirits, Despite Tariff Turmoil — Interview
-  - [korea] Samsung, SK Hynix upgrade China plants to make advanced memory chips - Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T10:52:43+00:00",
+      "published_utc": "2026-10-21T11:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
