@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T11:32:43.416043+00:00
+Última coleta: 2026-10-21T11:42:42.787045+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1028
+  🇯🇵 Japão          1029
   🇨🇳 China          868
-  🇹🇼 Taiwan         360
+  🇹🇼 Taiwan         359
   🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [korea] FTC chief acknowledges role of conglomerates in economic growth
   - [japan] Haruhiro Takahashi appointed as new branch manager of Bank of Japan Matsuyama Branch [Ehime] (eat Ehime Asahi 
   - [japan] Bank of Japan decides to reach 2% price increase rate, shifts from deflationary measures, leaves policy intere
+  - [japan] Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war By Investing.com
   - [taiwan] Nvidia, Siliconware Precision Industries to Expand Manufacturing Capacity in Taiwan for Optical Engines Used i
   - [taiwan] Nvidia Expects Total Semiconductor Testing Capacity to Double From 2026 to 2027, Supported by Buildouts in U.S
   - [china] Nvidia: King Yuan Electronics to Build New Facilities in U.S., Supported by a $1.1 Billion Capacity Reservatio
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean shares post biggest gain in 6 weeks as chipmakers rebound
   - [japan] Will the Bank of Japan decide to reach the 2% price level? (NRI researcher's commentary on current events)
   - [korea] Ryukil C&S To Acquire Real Estate Worth 25 Billion Won
-  - [korea] Kospi Regains Ground as Chip Stocks Recoup Most of Prior Session's Losses
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T11:32:43+00:00",
+      "published_utc": "2026-10-21T11:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
