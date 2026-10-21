@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T01:42:43.608216+00:00",
- "collected_at_utc": "2026-10-21T01:42:43.608216+00:00",
+ "generated_at_utc": "2026-10-21T01:52:45.254013+00:00",
+ "collected_at_utc": "2026-10-21T01:52:45.254013+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1032,
-  "china": 890,
+  "japan": 1033,
+  "china": 889,
   "taiwan": 349,
   "korea": 729
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T00:02:00+00:00"
+   "newest": "2026-10-21T00:30:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 29/06/2026",
+   "newest": "2026-06-29T04:00:16+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T01:41:40+00:00"
+   "newest": "2026-10-21T01:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T21:44:10+00:00"
+   "newest": "2026-10-20T18:40:09+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T23:44:49+00:00"
+   "newest": "2026-10-21T01:38:11+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -606,6 +606,24 @@
    "id": "7aa9d03d4b93a196"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Japan’s Export Growth Stays Solid, Supported by Chips, Cars",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMEMtdzhOcVdjbVppQUFwd0thZXJJbVJKY21odklITFZRckRoX1F1NkNHUGFXRXNzU05kbXpfbXZNODdDcGJFY3ctSWh1VHpGaFJta1ZIYzVUWS1DX0FkdE5PTFpPeXkzVUlpOXZUV0FDXy10bzFHRDRwRVBJa2NaaFpwZzF6Zjd0RGpGY3JLcWpFb2N4MEJXSGREQWU5dGM1SzR6UGc1TDhmanZB?oc=5",
+   "published_utc": "2026-10-21T00:30:00+00:00",
+   "title_original": "Japan’s Export Growth Stays Solid, Supported by Chips, Cars",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d40d5ea764b9e2a6"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Japan posts bigger-than-expected trade deficit in Sept as export growth slows",
@@ -674,6 +692,24 @@
    "live_wire": true,
    "manual": false,
    "id": "dd68bf2f80b716cd"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan exports rise 16.7% in September as AI chip demand powers trade",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N467001:0-japan-exports-rise-16-7-in-september-as-ai-chip-demand-powers-trade/",
+   "published_utc": "2026-10-21T00:10:03+00:00",
+   "title_original": "Japan exports rise 16.7% in September as AI chip demand powers trade",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9c9c5084d0171914"
   },
   {
    "source_id": "tradingview_live",
@@ -762,24 +798,6 @@
    "live_wire": false,
    "manual": false,
    "id": "46faad7c3aa6caf8"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Export Growth Stays Solid, Supported by Chips, Cars",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMEMtdzhOcVdjbVppQUFwd0thZXJJbVJKY21odklITFZRckRoX1F1NkNHUGFXRXNzU05kbXpfbXZNODdDcGJFY3ctSWh1VHpGaFJta1ZIYzVUWS1DX0FkdE5PTFpPeXkzVUlpOXZUV0FDXy10bzFHRDRwRVBJa2NaaFpwZzF6Zjd0RGpGY3JLcWpFb2N4MEJXSGREQWU5dGM1SzR6UGc1TDhmanZB?oc=5",
-   "published_utc": "2026-10-21T00:02:00+00:00",
-   "title_original": "Japan’s Export Growth Stays Solid, Supported by Chips, Cars",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d40d5ea764b9e2a6"
   },
   {
    "source_id": "tradingview_live",
@@ -1025,6 +1043,23 @@
    "live_wire": false,
    "manual": false,
    "id": "68715106ae8fed22"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Correction: Bank of Japan Deputy Governor Himino will attend the House of Representatives Finance and Financial Services Committee meeting from 1:00 p.m. = Source (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNzR4UUFZRHdKZURxSWY4SlFkVVJkbHhwTmRrNUhjV3JET2hCWHFlV1JCMDRWbVBwMG9ubEJMRVN1dWlJTTc0UEYwVzdtVXQ3OUlNdEM3V1UwczJmT3hEbmVHclI0VW9RalhWRnUtanl5RTZQRktVVjRSWkF5REpjTUtPdUNFd0lRRmR3QnlB?oc=5",
+   "published_utc": "2026-10-20T23:22:02+00:00",
+   "title_original": "訂正-氷見野日銀副総裁が午後1時から衆院財務金融委員会に出席＝関係筋 (ロイター)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e17820ab3c5adf39"
   },
   {
    "source_id": "investing_econ",
@@ -51919,42 +51954,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9da5fa495b5c2be8"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "thepaper.cn",
-   "title_en": "Central Bank: Conduct overnight reverse repurchase operations from September 28 to October 8, with a daily limit of no more than 1 trillion yuan",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EdTBXMkRELW1OVkg4cmstS0UyeTVMamEwdHRrSWV2YWlyYWRiMTRoTmtxNFFVa2JmLWJLMzAxOXhUYzRTdUZqNzByZldiOTU0VVIzOV9CVkFhWUQxa1E?oc=5",
-   "published_utc": "2026-09-23T09:22:00+00:00",
-   "title_original": "央行：9月28日至10月8日开展隔夜逆回购操作，每日不超过10000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "92ef3f1073d67ded"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Bank of Japan interest rate hike] A world with interest rates is in full swing for the first time in 30 years. Rising deposit interest rates will benefit household finances. Mortgage households are wary of increased burden (Yomiuri TV)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8taU9EQWdLaDktUWgyZG11cFl5VmN5TGFCN1B5cmhjUDJKZk9ZaVlEaWoyWGhQWlVjako1Q3BTQ09renFDZnpuVFZiT0lVLTBHejU4cXJwVWQxaEYyXzhXdl9BWnF0cTRaVUxvT3Ywa3BxYU5xOUZpZE9CTXVnUnc?oc=5",
-   "published_utc": "2026-09-23T09:15:00+00:00",
-   "title_original": "【日銀利上げ】30年ぶりの“金利ある世界”本格化 預金金利上昇で家計に恩恵も 住宅ローン世帯は負担増に警戒（読売テレビ）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d614a7a384427542"
   },
   {
    "source_id": "manual_ia",

@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T01:42:43.608216+00:00
+Última coleta: 2026-10-21T01:52:45.254013+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1032
-  🇨🇳 China          890
+  🇯🇵 Japão          1033
+  🇨🇳 China          889
   🇹🇼 Taiwan         349
   🇰🇷 Coreia do Sul  729
 
@@ -32,16 +32,17 @@ Total: 3000 manchetes
   - [korea] South Korea October 1-20 exports surge 105% on record chip sales
   - [korea] Bank of Korea Expected to Stand Pat Thursday, Poll Shows — Market Talk
   - [china] China uses crude stockpiles, but rising oil imports may curtail draws: Russell
+  - [japan] Japan’s Export Growth Stays Solid, Supported by Chips, Cars
   - [japan] Japan posts bigger-than-expected trade deficit in Sept as export growth slows
   - [japan] Japan’s September exports rise 16.7%, helped by chip demand
   - [japan] Japan's Exports Continued to Rise in September Amid AI Boom
   - [japan] JAPAN SEPT EXPORTS POST 13TH STRAIGHT Y/Y RISE
+  - [japan] Japan exports rise 16.7% in September as AI chip demand powers trade
   - [japan] JAPAN SEPT EXPORTS TO CHINA +8.6% Y/Y, 7TH STRAIGHT RISE (AUG REVISED +20.5%) LED BY CHIP-MAKING EQUIPMENT, RA
   - [japan] MNI: JAPAN SEPT EXPORTS +16.7% Y/Y; AUG +19.3%
   - [japan] Japan September exports rise 16.7% y/y, slower than forecast By Reuters
   - [japan] JAPAN SEPT EXPORTS TO EU +10.5%, 14TH STRAIGHT RISE (AUG +11.0%) , LED BY AUTO, SHIPS, DRUGS
   - [japan] Trade statistics for the first half of this fiscal year: 2.8 trillion yen deficit, 98.8% larger than last year
-  - [japan] Japan’s Export Growth Stays Solid, Supported by Chips, Cars
   - [japan] JAPAN SEPT EXPORTS TO US +22.9% Y/Y, 7TH STRAIGHT RISE (AUG +24.9%), LED BY AUTOS, DRUGS, CHIP-MAKING EQUIPMEN
   - [japan] Japan September exports rise 16.7% y/y, slower than forecast
   - [korea] South Korea October 1-20 exports rise 105.4% year/year
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN SEPT EXPORTS +16.7% Y/Y (AUG +19.3%), 13TH STRAIGHT RISE; MEDIAN FORECAST +21.7%
   - [japan] From wars to El Niño...World food prices become scary at the end of the year (JoongAng Ilbo Japanese version)
   - [japan] Bank of Japan Governor Ueda will attend the House of Representatives Finance and Financial Services Committee 
-  - [japan] BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T01:42:43+00:00",
+      "published_utc": "2026-10-21T01:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
