@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T14:12:45.366682+00:00
+Última coleta: 2026-10-21T14:22:44.339935+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Fujiyama Power Systems Comments On Reports Of China's Proposed Restrictions On Export Of Tech Used In Solar Ce
   - [korea] The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..
   - [china] ProBio Successfully Completes NMPA Pre-Approval Inspection for Biologics Manufacturing Facility in Nanjing, Ch
   - [china] Huhutech International Group - Subsidiary Joins Consortium Bidding On Semiconductor Fab Gas Delivery System Pr
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan open to winter fuel subsidies to soften heating bill blow
   - [japan] Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.
   - [china] Indonesia's central bank kept its benchmark interest rate unchanged at 5.75% and announced it would lower bank
-  - [taiwan] Sony keeps chip unit as imaging sensors, TSMC partnership drive strategy
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T14:12:45+00:00",
+      "published_utc": "2026-10-21T14:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
