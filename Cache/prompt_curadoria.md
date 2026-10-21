@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T08:12:42.605572+00:00
+Última coleta: 2026-10-21T08:22:43.360834+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1031
+  🇯🇵 Japão          1032
   🇨🇳 China          871
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  744
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan open to winter fuel subsidies to soften heating bill blow
   - [china] Indonesia's central bank keeps its benchmark interest rate unchanged and lowers bank deposit reserve ratios
   - [taiwan] Rising Risk of Taiwan Central Bank Rate Hike — Market Talk
   - [japan] BOJ to decide at next week's meeting whether 2% inflation target reached: sources
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
   - [china] Trump Open to Summit With Xi and Putin in China to Discuss Ukraine
   - [korea] Samsung, SK Hynix Shares Soar 7%: Korea Chip Recovery Driven by 222% Surprise
-  - [japan] Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to fe
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T08:12:42+00:00",
+      "published_utc": "2026-10-21T08:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
