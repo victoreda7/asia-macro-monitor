@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T09:32:43.837960+00:00
+Última coleta: 2026-10-21T09:42:44.688363+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
-  🇨🇳 China          869
+  🇯🇵 Japão          1034
+  🇨🇳 China          867
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  743
+  🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
@@ -23,8 +23,10 @@ Total: 3000 manchetes
   - [korea] Samsung, SK Hynix upgrading China fabs to make advanced NAND chips - report
   - [japan] Goldman Sachs bets on these 8 Japanese chip stocks as earnings upgrades loom
   - [taiwan] Cloud AI to drive chip growth in 2027 as Taiwan suppliers seek opportunities beyond weak consumer edge AI
+  - [korea] Semiconductor stocks in South Korea and the United States are fluctuating, reacting sensitively to s..
   - [japan] Japan open to winter fuel subsidies to soften heating bill blow
   - [japan] Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.
+  - [china] Indonesia's central bank kept its benchmark interest rate unchanged at 5.75% and announced it would lower bank
   - [china] Indonesia's central bank keeps its benchmark interest rate unchanged and lowers bank deposit reserve ratios
   - [taiwan] Rising Risk of Taiwan Central Bank Rate Hike — Market Talk
   - [japan] BOJ to decide at next week's meeting whether 2% inflation target reached: sources
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's financial conditions loose even after rate hike, BOJ's Himino says
   - [japan] Meiji Yasuda may buy as much as 1 trillion yen worth of yen bonds this year
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside
-  - [japan] BREAKING NEWS: BOJ to decide in next meeting whether 2% inflation rate reached
-  - [taiwan] TSMC Pauses Some Taiwan Construction After Mishap Kills Four
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T09:32:44+00:00",
+      "published_utc": "2026-10-21T09:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
