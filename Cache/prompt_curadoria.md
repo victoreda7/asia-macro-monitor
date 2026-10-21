@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T19:32:45.068514+00:00
+Última coleta: 2026-10-21T19:42:43.963757+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1024
@@ -17,8 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [japan] INPEX: Abadi-led growth and Asian supply security underpin a JPY 1.95tn investment plan
   - [korea] YMTC overtakes Samsung in China’s NAND flash market
+  - [japan] INPEX: Abadi-led growth and Asian supply security underpin a JPY 1.95tn investment plan
   - [japan] Japan beef imports shift to Australia as droughts hit US herds
   - [korea] BOK Financial Is Maintained at Neutral by DA Davidson
   - [korea] BOK Financial Price Target Cut to $141.00/Share From $148.00 by Stephens & Co.
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T19:32:45+00:00",
+      "published_utc": "2026-10-21T19:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
