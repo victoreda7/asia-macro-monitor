@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T06:52:42.433137+00:00
+Última coleta: 2026-10-21T07:02:44.588497+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
+  🇯🇵 Japão          1034
   🇨🇳 China          871
   🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  743
+  🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Biologics Co., Ltd. Q3 Rev KRW 1.49T; Lifts 2026 Growth Guide to 20%
   - [korea] South Korean shares post biggest gain in 6 weeks as chipmakers rebound
   - [korea] Ryukil C&S To Acquire Real Estate Worth 25 Billion Won
   - [korea] Kospi Regains Ground as Chip Stocks Recoup Most of Prior Session's Losses
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China September Power Consumption Up 1.2% Y/Y - National Energy Administration
   - [japan] Yen Holds Steady Amid Sluggish Export Growth
   - [korea] Corporate profits, debts improve in 2025: BOK
-  - [korea] Kospi Analysis: Samsung and SK Hynix Soar Despite Ken Griffin Warning
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T06:52:42+00:00",
+      "published_utc": "2026-10-21T07:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
