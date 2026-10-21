@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-21T16:12:44.075083+00:00",
- "collected_at_utc": "2026-10-21T16:12:44.075083+00:00",
+ "generated_at_utc": "2026-10-21T16:22:44.165393+00:00",
+ "collected_at_utc": "2026-10-21T16:22:44.165393+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T15:54:35+00:00"
+   "newest": "2026-10-21T16:14:38+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T15:31:10+00:00"
+   "newest": "2026-10-21T16:07:15+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T16:12:04+00:00"
+   "newest": "2026-10-21T16:21:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T09:46:45+00:00"
+   "newest": "2026-10-21T12:48:50+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -4192,23 +4192,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYRENCTElBUWY0VlJyYmlCZlJtRXZwZGJyVHhrLVp2bGVTNE1jNHhmSk1lZkJLbUkzdHc5UzdSVzEtQ2RCUDNEcDNSMWVmVTlhMGhCRzNoQnFZQTg1QlNaTURXTGZpQQ?oc=5",
-   "published_utc": "2026-10-20T05:18:49+00:00",
-   "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "64993bffd548374b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "搜狐",
    "title_en": "The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a daily limit of no more than 1 trillion yuan｜News",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ05JekFBZk84STBXbC1OTUk3Z2thaU9kQkxnZFNPNDFlUk5XNEVvYmd4Y2luOFVrQ3kyVHBtbUxKNmU0bHNod21yZkg3d2Rwa3hobExHMDBlNllKWVlKcFo4dHVTT3c4YngtWVNHc05pQ21hN3UyVWpUOTZhSThVM01ZUm9DZWFx?oc=5",
@@ -4747,6 +4730,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2065248003ee4d2f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYRENCTElBUWY0VlJyYmlCZlJtRXZwZGJyVHhrLVp2bGVTNE1jNHhmSk1lZkJLbUkzdHc5UzdSVzEtQ2RCUDNEcDNSMWVmVTlhMGhCRzNoQnFZQTg1QlNaTURXTGZpQQ?oc=5",
+   "published_utc": "2026-10-20T01:18:51+00:00",
+   "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "64993bffd548374b"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -13008,6 +13008,23 @@
    "id": "bc95c5f9de95e7c9"
   },
   {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ucll6M0tRbXZvV3V1YVdlb3VONlAxbFZlSVFrd00tNklITkU3eEVON2lYRXcxYW44eXNRclR0eF9helZDZVJSd0FnNlhReVRTRzkxaHdFZTVjRWVabFJLaFF1aF8yTWpXLThzZkJ1WTZCNlZwT3c?oc=5",
+   "published_utc": "2026-10-15T10:53:00+00:00",
+   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3fa8d36118a2fe2b"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Tech sell-off gathers pace as chipmakers hammered By Reuters",
@@ -13653,23 +13670,6 @@
    "live_wire": false,
    "manual": false,
    "id": "858b64fc398f2573"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YbDdCM0dWdWNvamRaZ2ZWNENRV1ZXNFFFSnIxMEhyejRTVmRtVVVUOHE0a29qbi1ObWNaMFdoZDZuTUJ2MndKZkFyVlA1NmpKemNjX0FUUGFuS0F2RlE?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dd8f23c892dc681"
   },
   {
    "source_id": "yahoo_business",
