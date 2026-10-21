@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T05:22:43.437722+00:00
+Última coleta: 2026-10-21T05:32:44.659410+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1036
+  🇯🇵 Japão          1035
   🇨🇳 China          875
-  🇹🇼 Taiwan         350
+  🇹🇼 Taiwan         351
   🇰🇷 Coreia do Sul  739
 
 ## O que já está no feed (não repita)
@@ -28,6 +28,7 @@ Total: 3000 manchetes
   - [japan] Meiji Yasuda may buy as much as 1 trillion yen worth of yen bonds this year
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside
   - [japan] BREAKING NEWS: BOJ to decide in next meeting whether 2% inflation rate reached
+  - [taiwan] TSMC Pauses Some Taiwan Construction After Mishap Kills Four
   - [korea] Korea's Core Inflation Acceleration Unlikely to Prompt Aggressive Rate Hike — Market Talk
   - [japan] Bank of Japan decides to reach 2% price level (Kyodo News)
   - [korea] Why is SK Hynix stock surging today?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 21 was zero
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 21 was zero
   - [china] China Youth Jobless Rate Eases to 18%
-  - [korea] South Korean Shares Rebound on Chip Rally
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T05:22:43+00:00",
+      "published_utc": "2026-10-21T05:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
