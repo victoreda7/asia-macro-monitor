@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T13:12:44.585787+00:00",
- "collected_at_utc": "2026-10-21T13:12:44.585787+00:00",
+ "generated_at_utc": "2026-10-21T13:22:44.065181+00:00",
+ "collected_at_utc": "2026-10-21T13:22:44.065181+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1028,
-  "china": 869,
+  "japan": 1027,
+  "china": 871,
   "taiwan": 360,
-  "korea": 743
+  "korea": 742
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T12:54:52+00:00"
+   "newest": "2026-10-21T13:14:35+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T12:54:21+00:00"
+   "newest": "2026-10-21T13:12:31+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-21T08:16:00+00:00"
+   "newest": "2026-10-21T05:02:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T13:12:13+00:00"
+   "newest": "2026-10-21T13:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,8 +344,43 @@
  ],
  "items": [
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "tradingview_live",
+   "source_name": "PR Newswire",
+   "title_en": "ProBio Successfully Completes NMPA Pre-Approval Inspection for Biologics Manufacturing Facility in Nanjing, China",
+   "url": "https://www.tradingview.com/news/prnewswire:c98b4410b1fa3:0-probio-successfully-completes-nmpa-pre-approval-inspection-for-biologics-manufacturing-facility-in-nanjing-china/",
+   "published_utc": "2026-10-21T13:17:00+00:00",
+   "title_original": "ProBio Successfully Completes NMPA Pre-Approval Inspection for Biologics Manufacturing Facility in Nanjing, China",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a424be03fddd287e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Huhutech International Group - Subsidiary Joins Consortium Bidding On Semiconductor Fab Gas Delivery System Project In China",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4671KW:0-huhutech-international-group-subsidiary-joins-consortium-bidding-on-semiconductor-fab-gas-delivery-system-project-in-china/",
+   "published_utc": "2026-10-21T13:12:27+00:00",
+   "title_original": "Huhutech International Group - Subsidiary Joins Consortium Bidding On Semiconductor Fab Gas Delivery System Project In China",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5043654c1ca7f440"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -359,7 +394,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -1479,41 +1514,6 @@
    "id": "5954a82310281d51"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Meiji Yasuda may buy as much as 1 trillion yen worth of yen bonds this year",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4660EL:0-meiji-yasuda-may-buy-as-much-as-1-trillion-yen-worth-of-yen-bonds-this-year/",
-   "published_utc": "2026-10-21T04:24:09+00:00",
-   "title_original": "Meiji Yasuda may buy as much as 1 trillion yen worth of yen bonds this year",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d2e6c200279adc0a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:0ca4016c76789:0-sk-hynix-inc-stock-12-month-price-target-cut-to-krw-3203919-5-implies-162-upside/",
-   "published_utc": "2026-10-21T04:20:00+00:00",
-   "title_original": "SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ee2e4035c58bdc61"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ to decide in next meeting whether 2% inflation rate reached",
@@ -1793,6 +1793,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
+   "published_utc": "2026-10-21T01:56:00+00:00",
+   "title_original": "央行开展800亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9f93275ff9d2dcbf"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "中国新闻网",
    "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 21 was zero",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xOGxCNE1ka3lhbVVOZlRoZ2ZhUVpSVlpBTWMwRnc1LWdjaG02WG1QVHFuNUo3djhNT005bFRhNnBJZEJlMUJCOXp4T3pLYnJlVzRudnVtV2FpMmNYOFRGblhsc3ZOWlI1?oc=5",
@@ -1807,24 +1825,6 @@
    "live_wire": false,
    "manual": false,
    "id": "749b5435c8f4841a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "资鲸",
-   "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkVCVDByQ1F5dzluUG5NcW1jUlBlRUl4MFlrSnhXbXo0VDJUaHI4MF94Z3VtVjh1MkZQZUJuZ0dCWTdVd0twdkx4Y0l5XzlJdVFLVnRMTXM4UTB1ODJXOVBIblpKYnIzSWE5cGlKbExoQ0ZxY3lHNXJSdmlITHVKNGUwbEV3WmRydXFtTkpWN3RjQQ?oc=5",
-   "published_utc": "2026-10-21T01:35:08+00:00",
-   "title_original": "央行开展800亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0882e83320a9bcab"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2853,8 +2853,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -2868,7 +2868,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -3350,8 +3350,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -3365,7 +3365,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -4054,10 +4054,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "观察者网",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9Rc1BnRlhGM1d4c092aXBsdWVCUXE1NWpsTTZMSVA5X3E2MW0tOUt4dFdGY2o2OVNJNEZhTkdYMlN0Mi1EazBaUGxrTnhZUTI3dklRNjd6a0ZybFpLRElwVC01YWJCZ3JqYm9nVDVad1BFb1pkTUVVUkhnb0p6ejBURktuX1pu?oc=5",
-   "published_utc": "2026-10-20T05:07:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
+   "published_utc": "2026-10-20T05:07:00+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -4067,7 +4067,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b5a5b685c5ae149"
+   "id": "50e1092b7ea2ed64"
   },
   {
    "source_id": "gn_jp_investing",
@@ -4105,10 +4105,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "京报网",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
-   "published_utc": "2026-10-20T04:46:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
+   "published_utc": "2026-10-20T04:37:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -4119,7 +4119,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b8b7943e562e9e1"
+   "id": "113a63c4f4301728"
   },
   {
    "source_id": "gn_kr_bok",
@@ -5269,8 +5269,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -5284,7 +5284,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -28079,6 +28079,23 @@
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
+   "title_en": "S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sNTMwZGREc0JpcHo2a3AzUmgyemdFRTdvU1hwQ3N3V0JQcmozeGN2cU9sM3VqTUxLRGg4RVZzaEpkSnJfWWluRmF1X0NSdGI2Vm1vNXVBbC0xUQ?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "title_original": "S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "42bb2603bbe3b990"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
    "title_en": "(2nd LD) S. Korea extends current account surplus in Aug. amid solid exports",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTU4yb2tOTC1zdGxLTElfcjlsWEFXY1lyN1FBMGs4U1lhZE90Z1BmNDdJMkl3bkpUbzhWcVhHckZWdWZscjZxcWtlYlFNQTVfcW5vMXZReFRSZw?oc=5",
    "published_utc": "2026-10-08T07:00:00+00:00",
@@ -28599,23 +28616,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a98985b898a44a93"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sNTMwZGREc0JpcHo2a3AzUmgyemdFRTdvU1hwQ3N3V0JQcmozeGN2cU9sM3VqTUxLRGg4RVZzaEpkSnJfWWluRmF1X0NSdGI2Vm1vNXVBbC0xUQ?oc=5",
-   "published_utc": "2026-10-08T03:01:49+00:00",
-   "title_original": "S. Korea says no confirmed fuel exports to Russia, vows strict enforcement of export controls",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "42bb2603bbe3b990"
   },
   {
    "source_id": "nhk_economy",

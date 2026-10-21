@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T13:12:44.585787+00:00
+Última coleta: 2026-10-21T13:22:44.065181+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1028
-  🇨🇳 China          869
+  🇯🇵 Japão          1027
+  🇨🇳 China          871
   🇹🇼 Taiwan         360
-  🇰🇷 Coreia do Sul  743
+  🇰🇷 Coreia do Sul  742
 
 ## O que já está no feed (não repita)
 
+  - [china] ProBio Successfully Completes NMPA Pre-Approval Inspection for Biologics Manufacturing Facility in Nanjing, Ch
+  - [china] Huhutech International Group - Subsidiary Joins Consortium Bidding On Semiconductor Fab Gas Delivery System Pr
   - [japan] One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Ad
   - [china] HUHUTECH Subsidiary Joins Consortium Bidding on Semiconductor Fab Gas Delivery System Project in China Valued 
   - [japan] Japan to lower maximum subsidy for newly registered EVs by 40% to 750,000 yen from 2027, industry ministry say
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..
   - [taiwan] Sony keeps chip unit as imaging sensors, TSMC partnership drive strategy
   - [china] Indonesia's central bank keeps its benchmark interest rate unchanged and lowers bank deposit reserve ratios
-  - [taiwan] Rising Risk of Taiwan Central Bank Rate Hike — Market Talk
-  - [japan] BOJ to decide at next week's meeting whether 2% inflation target reached: sources
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T13:12:44+00:00",
+      "published_utc": "2026-10-21T13:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
