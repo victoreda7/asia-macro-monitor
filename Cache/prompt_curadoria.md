@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T04:02:43.382108+00:00
+Última coleta: 2026-10-21T04:12:43.062163+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
-  🇨🇳 China          880
+  🇨🇳 China          879
   🇹🇼 Taiwan         349
-  🇰🇷 Coreia do Sul  735
+  🇰🇷 Coreia do Sul  736
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yomiuri: Japan's Carbon Fiber Manufacturers Expand to Robotaxis, Space
   - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
+  - [taiwan] TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
   - [china] Trump Open to Summit With Xi and Putin in China to Discuss Ukraine
   - [japan] Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to fe
+  - [korea] Axcelis plans US$35 million semiconductor facility in South Korea
   - [korea] South Korea to ease fuel supply rules, let refiners boost exports, Lee says
   - [japan] Stock prices rise due to fall in crude oil futures prices
   - [korea] Why is Samsung Electronics stock surging today?
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan’s September exports rise 16.7%, helped by chip demand By Reuters
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [korea] South Korea October 1-20 exports surge 105% on record chip sales
-  - [korea] Bank of Korea Expected to Stand Pat Thursday, Poll Shows — Market Talk
-  - [china] China uses crude stockpiles, but rising oil imports may curtail draws: Russell
-  - [japan] Japan’s Export Growth Stays Solid, Supported by Chips, Cars
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T04:02:43+00:00",
+      "published_utc": "2026-10-21T04:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

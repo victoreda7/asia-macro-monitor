@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T04:02:43.382108+00:00",
- "collected_at_utc": "2026-10-21T04:02:43.382108+00:00",
+ "generated_at_utc": "2026-10-21T04:12:43.062163+00:00",
+ "collected_at_utc": "2026-10-21T04:12:43.062163+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1036,
-  "china": 880,
+  "china": 879,
   "taiwan": 349,
-  "korea": 735
+  "korea": 736
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T01:15:00+00:00"
+   "newest": "2026-10-21T03:45:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T00:56:58+00:00"
+   "newest": "2026-10-21T00:28:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T03:19:45+00:00"
+   "newest": "2026-10-20T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T04:01:00+00:00"
+   "newest": "2026-10-21T04:11:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-21T12:00:00+09:00"
+   "newest": "2026-10-21T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T03:00:00+00:00"
+   "newest": "2026-10-21T02:30:50+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yomiuri: Japan's Carbon Fiber Manufacturers Expand to Robotaxis, Space",
+   "url": "https://www.tradingview.com/news/DJN_DN20261021000014:0-yomiuri-japan-s-carbon-fiber-manufacturers-expand-to-robotaxis-space/",
+   "published_utc": "2026-10-21T04:10:00+00:00",
+   "title_original": "Yomiuri: Japan's Carbon Fiber Manufacturers Expand to Robotaxis, Space",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fcc35415ea3abcf4"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -362,6 +379,23 @@
    "id": "e5cc372c63162978"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTJWTDBIVzBrOHFiVG1FNzhHNmZ2b013MTRuU05Kb194R3dhbXBXdVFtSG1qWUNkMjdQSUJpTGhHS200eV8wTS1OaXBKMFVPaXhsMTg4WVlCRVh3dXh1Mk5FdUxZNGZiMEdESGZKbEpvZTQ0RnhRM09aOGxsT2ZOZ2g0SHg2NlgxNDVwOTY2N0IxWjA?oc=5",
+   "published_utc": "2026-10-21T03:45:00+00:00",
+   "title_original": "TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1cadf4969f0fa604"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Trump Open to Summit With Xi and Putin in China to Discuss Ukraine",
@@ -379,8 +413,8 @@
    "id": "a6d11e11f8af1f46"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to feel the effects early.”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de62724",
    "published_utc": "2026-10-21T03:37:08+00:00",
@@ -396,7 +430,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7ac408a189c300e3"
+   "id": "14cdd23a48cbfd5c"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Axcelis plans US$35 million semiconductor facility in South Korea",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjZRVlpITWRKcWxSY3pMeVlKamZNX0FIRFM5Z0MtTWpJZ1dmVzRkY2NBN2U2aTdGOFdTVllwa1NheDUyMDVNQlpLeC1lNkdseUM5NVNNZXllRGpvTG9ZTGVPZXpFNTJrVUxGR0o0Q3Q3bG1HcGQzczROckpEd3kyaUlJdTlzUDl3SzZ4SkdEWV8xTG1BVGN5M3FESEsxSDJ0XzdMdWJMNlA?oc=5",
+   "published_utc": "2026-10-21T03:34:07+00:00",
+   "title_original": "Axcelis plans US$35 million semiconductor facility in South Korea",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "07dfef43fec29ccc"
   },
   {
    "source_id": "tradingview_live",
@@ -1267,23 +1318,6 @@
    "id": "eca847f15db73e2f"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN SEPT IMPORT Y/Y RISE LED BY CRUDE OIL, CHIPMAKING EQUIPMENT, LNG",
-   "url": "https://www.tradingview.com/news/macenews:3d002f899094b:0-japan-sept-import-y-y-rise-led-by-crude-oil-chipmaking-equipment-lng/",
-   "published_utc": "2026-10-21T00:00:00+00:00",
-   "title_original": "JAPAN SEPT IMPORT Y/Y RISE LED BY CRUDE OIL, CHIPMAKING EQUIPMENT, LNG",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "aefb118a78acc067"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "South Korea’s Export Boom Stays Strong Ahead of BOK Rate Decision",
@@ -1976,8 +2010,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -1991,7 +2025,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -2456,8 +2490,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -2471,7 +2505,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -2908,6 +2942,25 @@
    "id": "5ebd99922c8fcea2"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGg2LWNvU0NRd2ZxWVlnS0tZN3R0QUFzVEtyTGNWSUdjN2pPR041cktnam4xNlI4SUo0T19nWk5lNWZwODNDRVVtNWJVcFdKUU5Xb243dTFrYjBsMS1kejE2Rkd3akg2SnlQM1J2cTB5RDZNT3lDNTc5MmljeEtpV0trNGdJZkZaVF9HUFprQW5Pd1ZUSmpXbVRCXy14UjlkX1VKVl9fSFk0YW1SZ1dmU1ZENVh2NUNUMGNpbGR2dDVGdw?oc=5",
+   "published_utc": "2026-10-20T06:28:27+00:00",
+   "title_original": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "55ab5d52d5e4ba42"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend",
@@ -2942,25 +2995,6 @@
    "live_wire": false,
    "manual": false,
    "id": "71404ed3289b6b41"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2VPQUZyX1RweDE2QU8wYVBxaTRUczJ3VUZtS05qQkc0azVsbTZaZmpRODRaM0k0dE1vRXR3YkkyS1dFWUwzajl5X09Ga2oxRnZPTFJHM19rTXFtN3Q2NlVPQ0FGcTNkVXRwU3ZLSFRPaXh0WUptY25mcFgzTGRqanZaNmd1eGJqLTFuS0Y4M28wc0d3OEN2WnVmNm1ySWE3XzFLVkl3LTJrS0I1R1hER3lzWl9VMFpSZ3QxTVphdW9TZjQ?oc=5",
-   "published_utc": "2026-10-20T06:15:39+00:00",
-   "title_original": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1bef12aa9d18fe46"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4374,8 +4408,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -4389,7 +4423,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51912,40 +51946,6 @@
    "live_wire": true,
    "manual": false,
    "id": "19f261d76a2bd04c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "CBOT soybeans sag as traders watch for US trade deal with China",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45F0TJ:0-cbot-soybeans-sag-as-traders-watch-for-us-trade-deal-with-china/",
-   "published_utc": "2026-09-23T19:18:14+00:00",
-   "title_original": "CBOT soybeans sag as traders watch for US trade deal with China",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6e9cbe3c3d98c8d2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "PR Newswire",
-   "title_en": "Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design",
-   "url": "https://www.tradingview.com/news/prnewswire:f336bf23077c2:0-synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/",
-   "published_utc": "2026-09-23T19:01:00+00:00",
-   "title_original": "Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f6eafe9f49c1b0d0"
   },
   {
    "source_id": "manual_ia",
