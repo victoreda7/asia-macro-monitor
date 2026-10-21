@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T23:32:42.163872+00:00
+Última coleta: 2026-10-21T23:42:42.664665+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
@@ -44,7 +44,6 @@ Total: 3000 manchetes
   - [japan] One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Ad
   - [china] HUHUTECH Subsidiary Joins Consortium Bidding on Semiconductor Fab Gas Delivery System Project in China Valued 
   - [japan] Japan to lower maximum subsidy for newly registered EVs by 40% to 750,000 yen from 2027, industry ministry say
-  - [china] COMMENTARY: China uses crude stockpiles, but rising oil imports may curtail draws
   - [korea] Samsung and SK Hynix Just Made a Big China Chip Move
   - [china] The EU will ‘pull its punches’ on China despite growing trade war talk: analysts
   - [korea] Hyundai Mobis Accelerates Full-Cycle Collaboration as a "K-Automotive Semiconductor Korea One Team"
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [japan] Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war By Investing.com
   - [taiwan] Nvidia, Siliconware Precision Industries to Expand Manufacturing Capacity in Taiwan for Optical Engines Used i
   - [taiwan] Nvidia Expects Total Semiconductor Testing Capacity to Double From 2026 to 2027, Supported by Buildouts in U.S
+  - [china] Nvidia: King Yuan Electronics to Build New Facilities in U.S., Supported by a $1.1 Billion Capacity Reservatio
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T23:32:42+00:00",
+      "published_utc": "2026-10-21T23:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
