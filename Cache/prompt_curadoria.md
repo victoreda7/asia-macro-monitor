@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T21:52:45.729019+00:00
+Última coleta: 2026-10-21T22:02:43.696104+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1026
-  🇨🇳 China          869
+  🇨🇳 China          868
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  749
+  🇰🇷 Coreia do Sul  750
 
 ## O que já está no feed (não repita)
 
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [korea] Today (22nd) October Bank of Korea Monetary Policy Committee meeting... The outlook for a base interest rate f
   - [korea] YMTC overtakes Samsung in China’s NAND flash market
   - [japan] INPEX: Abadi-led growth and Asian supply security underpin a JPY 1.95tn investment plan
+  - [korea] Ukraine's anti-corruption police search central bank, governor says no link to bank activity
   - [japan] Japan beef imports shift to Australia as droughts hit US herds
   - [korea] BOK Financial Is Maintained at Neutral by DA Davidson
   - [korea] BOK Financial Price Target Cut to $141.00/Share From $148.00 by Stephens & Co.
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Nvidia: King Yuan Electronics to Build New Facilities in U.S., Supported by a $1.1 Billion Capacity Reservatio
   - [china] Husqvarna looks east as Chinese rivals chip away at robot lawnmower lead
   - [japan] Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins
-  - [japan] Haruhiro Takahashi appointed as Bank of Japan Matsuyama Branch Manager, ``I want to contribute to the revitali
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T21:52:45+00:00",
+      "published_utc": "2026-10-21T22:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
