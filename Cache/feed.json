@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-21T12:32:43.308420+00:00",
- "collected_at_utc": "2026-10-21T12:32:43.308420+00:00",
+ "generated_at_utc": "2026-10-21T12:42:44.015406+00:00",
+ "collected_at_utc": "2026-10-21T12:42:44.015406+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 360,
   "korea": 744
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.9,
  "sources": [
-  {
-   "source_id": "investing_fx",
-   "name": "Investing Forex",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -92,6 +84,14 @@
    "count": 10,
    "error": "",
    "newest": "2026-10-21T12:00:59+00:00"
+  },
+  {
+   "source_id": "investing_fx",
+   "name": "Investing Forex",
+   "ok": true,
+   "count": 10,
+   "error": "",
+   "newest": "2026-10-21T12:12:00+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T11:04:32+00:00"
+   "newest": "2026-10-21T06:34:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T12:31:52+00:00"
+   "newest": "2026-10-21T12:41:48+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T11:08:00+00:00"
+   "newest": "2026-10-21T12:21:07+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T08:39:56+00:00"
+   "newest": "2026-10-21T11:10:35+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan to lower maximum subsidy for newly registered EVs by 40% to 750,000 yen from 2027, industry ministry says",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46715Y:0-japan-to-lower-maximum-subsidy-for-newly-registered-evs-by-40-to-750-000-yen-from-2027-industry-ministry-says/",
+   "published_utc": "2026-10-21T12:38:08+00:00",
+   "title_original": "Japan to lower maximum subsidy for newly registered EVs by 40% to 750,000 yen from 2027, industry ministry says",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7419e13ec8724561"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -1529,23 +1547,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9ddf5246ae172db2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Yomiuri: Japan's Carbon Fiber Manufacturers Expand to Robotaxis, Space",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021000014:0-yomiuri-japan-s-carbon-fiber-manufacturers-expand-to-robotaxis-space/",
-   "published_utc": "2026-10-21T04:10:00+00:00",
-   "title_original": "Yomiuri: Japan's Carbon Fiber Manufacturers Expand to Robotaxis, Space",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fcc35415ea3abcf4"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3984,7 +3985,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rate in October” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeHFCMzN0Q0lIb0JIWkRBWTRad0FSTmZtSnJrVkYxQ3lFWHZJcmk2VjhfaUJ0SzRWS3RuUUt5NDZQbzhod1BweEhEQWt2ZmNacW1FLS1MQ2x6NWQ5MHlSX1N3OS1uNm1a0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DelR0Q0VYLV9HcGJjb21nV2VaSEtyZkVCVzRIaEstc1FjQTAxQTgweDYySXdwLTJmX0l5N0ZwYk4tUWppd29SaFRoNmQxT1hRQ2RtN09FbjNwc3lwanY5M1FpdlV1eXNNd1JXQUNR0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
    "published_utc": "2026-10-20T05:34:46+00:00",
    "title_original": "채권시장 종사자 93% \"10월 한은 금통위, 기준금리 동결할 것\" - 머니투데이",
    "region": "korea",
@@ -3996,7 +3997,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f458f88af40eac09"
+   "id": "a635a4e49fd3df7b"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8841,23 +8842,6 @@
    "id": "8ca1bcfeb8b9587c"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YcU11QXhkMW82ZV9tTS1ZMVRwQWJHZ2xONnJFWTZhb2c2MzRoeUw2X0FmQUFVVGhHdHpta3BmTk5YaUd4a2dKbU1iNlhFRXc5c2k1MXh4VzBGeWJGNkRscXFWaVZGSXFrNFJ4b05DOUh0c1paSm4wU0l1blI?oc=5",
-   "published_utc": "2026-10-17T00:14:15+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0d54b1faf146765e"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "[Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices announced",
@@ -9375,6 +9359,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e1a10142513813b1"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWjQyRWVYQTZ4UE1uQ2tYRVpiZC1kbW9IUnJTSHVzQWdlcGpZYkExd3g4cFVFZnVjclVVWHhNc3U0aE1remZ3QTB5V3VfdFRYMnExSGZaQjdXLW5DSUxkcjE3VFRqUVRHMmJlS1VjUjNBVHVIRG5lSEo0ZzE?oc=5",
+   "published_utc": "2026-10-16T14:38:45+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "18b0552f95e580ac"
   },
   {
    "source_id": "nhk_economy",
@@ -15119,7 +15120,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "证券时报",
+   "source_name": "证券时报网",
    "title_en": "The Times said the central bank will launch a 700 billion yuan buyout reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MUZ2OWlCbnY3MHpDN0FlTE1sLVpaNkNHSWNOMTkzOVFPX3FmelROTXdxSE84cFJCVGU2end0ZGx5ajBGaW16TV96cHNXQ08zLWtndG5SVGxuTTI3?oc=5",
    "published_utc": "2026-10-14T22:45:00+00:00",

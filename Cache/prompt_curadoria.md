@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T12:32:43.308420+00:00
+Última coleta: 2026-10-21T12:42:44.015406+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1027
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan to lower maximum subsidy for newly registered EVs by 40% to 750,000 yen from 2027, industry ministry say
   - [korea] Samsung and SK Hynix Just Made a Big China Chip Move
   - [china] The EU will ‘pull its punches’ on China despite growing trade war talk: analysts
   - [korea] Hyundai Mobis Accelerates Full-Cycle Collaboration as a "K-Automotive Semiconductor Korea One Team"
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ to decide at next week's meeting whether 2% inflation target reached: sources
   - [taiwan] TSMC Pauses Some Taiwan Construction After Mishap Kills Four
   - [japan] BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.
-  - [japan] Japan futures slip as yen jumps, cost support seen easing
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T12:32:43+00:00",
+      "published_utc": "2026-10-21T12:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
