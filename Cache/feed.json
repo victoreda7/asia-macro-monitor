@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T13:02:43.580222+00:00",
- "collected_at_utc": "2026-10-21T13:02:43.580222+00:00",
+ "generated_at_utc": "2026-10-21T13:12:44.585787+00:00",
+ "collected_at_utc": "2026-10-21T13:12:44.585787+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1027,
+  "japan": 1028,
   "china": 869,
   "taiwan": 360,
-  "korea": 744
+  "korea": 743
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T17:07:00+00:00"
+   "newest": "2026-10-21T12:58:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T12:02:00+00:00"
+   "newest": "2026-10-21T13:05:14+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T20:39:00+09:00"
+   "newest": "2026-10-21T22:09:44+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T20:43:22+09:00"
+   "newest": "2026-10-21T22:09:44+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 28,
    "error": "",
-   "newest": "2026-10-21T05:02:00+00:00"
+   "newest": "2026-10-21T08:16:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T13:01:11+00:00"
+   "newest": "2026-10-21T13:12:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,42 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
+   "published_utc": "2026-10-21T13:09:44+00:00",
+   "title_original": "高市政権1年 与野党キーパーソンに聞く 政権運営・消費税減税",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f1e35c84352fe79d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GlobeNewswire",
+   "title_en": "HUHUTECH Subsidiary Joins Consortium Bidding on Semiconductor Fab Gas Delivery System Project in China Valued at More Than RMB 60 Million",
+   "url": "https://www.tradingview.com/news/globenewswire:4d4dfd4ae094b:0-huhutech-subsidiary-joins-consortium-bidding-on-semiconductor-fab-gas-delivery-system-project-in-china-valued-at-more-than-rmb-60-million/",
+   "published_utc": "2026-10-21T13:00:00+00:00",
+   "title_original": "HUHUTECH Subsidiary Joins Consortium Bidding on Semiconductor Fab Gas Delivery System Project in China Valued at More Than RMB 60 Million",
+   "region": "china",
+   "topics": [
+    "fiscal",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "161f0e18806bbd10"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1496,24 +1532,6 @@
    "id": "7f4a0e9448428010"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Korea's Core Inflation Acceleration Unlikely to Prompt Aggressive Rate Hike — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021000032:0-korea-s-core-inflation-acceleration-unlikely-to-prompt-aggressive-rate-hike-market-talk/",
-   "published_utc": "2026-10-21T04:18:00+00:00",
-   "title_original": "Korea's Core Inflation Acceleration Unlikely to Prompt Aggressive Rate Hike — Market Talk",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f60568f766163728"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan decides to reach 2% price level (Kyodo News)",
@@ -1775,24 +1793,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
-   "published_utc": "2026-10-21T01:56:00+00:00",
-   "title_original": "央行开展800亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9f93275ff9d2dcbf"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "中国新闻网",
    "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 21 was zero",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xOGxCNE1ka3lhbVVOZlRoZ2ZhUVpSVlpBTWMwRnc1LWdjaG02WG1QVHFuNUo3djhNT005bFRhNnBJZEJlMUJCOXp4T3pLYnJlVzRudnVtV2FpMmNYOFRGblhsc3ZOWlI1?oc=5",
@@ -1807,6 +1807,24 @@
    "live_wire": false,
    "manual": false,
    "id": "749b5435c8f4841a"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "资鲸",
+   "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkVCVDByQ1F5dzluUG5NcW1jUlBlRUl4MFlrSnhXbXo0VDJUaHI4MF94Z3VtVjh1MkZQZUJuZ0dCWTdVd0twdkx4Y0l5XzlJdVFLVnRMTXM4UTB1ODJXOVBIblpKYnIzSWE5cGlKbExoQ0ZxY3lHNXJSdmlITHVKNGUwbEV3WmRydXFtTkpWN3RjQQ?oc=5",
+   "published_utc": "2026-10-21T01:35:08+00:00",
+   "title_original": "央行开展800亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0882e83320a9bcab"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4036,10 +4054,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观察者网",
+   "source_name": "搜狐",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
-   "published_utc": "2026-10-20T05:07:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9Rc1BnRlhGM1d4c092aXBsdWVCUXE1NWpsTTZMSVA5X3E2MW0tOUt4dFdGY2o2OVNJNEZhTkdYMlN0Mi1EazBaUGxrTnhZUTI3dklRNjd6a0ZybFpLRElwVC01YWJCZ3JqYm9nVDVad1BFb1pkTUVVUkhnb0p6ejBURktuX1pu?oc=5",
+   "published_utc": "2026-10-20T05:07:29+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -4049,7 +4067,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50e1092b7ea2ed64"
+   "id": "8b5a5b685c5ae149"
   },
   {
    "source_id": "gn_jp_investing",
@@ -4087,10 +4105,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "搜狐",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
-   "published_utc": "2026-10-20T04:37:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
+   "published_utc": "2026-10-20T04:46:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -4101,7 +4119,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "113a63c4f4301728"
+   "id": "6b8b7943e562e9e1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -46946,6 +46964,23 @@
    "id": "c40b44ff5f4696ec"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Minutes: BOJ discussed faster rate hikes at July meeting | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2Qm1Jcmo0b1ZwRV96TFE2d2NEUUx5NC1kM05oWnZHQXlPMEx5bF9GYzNMTWlLNkNVc2p2SnVmTjE4UEo4b3BjWmw1cWJMMnFtdU8xenROQXdUN3oxVTV0OUY2VQ?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "title_original": "Minutes: BOJ discussed faster rate hikes at July meeting | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f01a3b4e9eb373a5"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Finance minister, BOK chief stress coordination to address uncertainties",
@@ -46962,23 +46997,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dec6c74f8aaf24a0"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Minutes: BOJ discussed faster rate hikes at July meeting | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2Qm1Jcmo0b1ZwRV96TFE2d2NEUUx5NC1kM05oWnZHQXlPMEx5bF9GYzNMTWlLNkNVc2p2SnVmTjE4UEo4b3BjWmw1cWJMMnFtdU8xenROQXdUN3oxVTV0OUY2VQ?oc=5",
-   "published_utc": "2026-09-28T07:00:00+00:00",
-   "title_original": "Minutes: BOJ discussed faster rate hikes at July meeting | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f01a3b4e9eb373a5"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51919,24 +51937,6 @@
    "live_wire": false,
    "manual": false,
    "id": "12f9c94f6d5095f0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 51.5 billion yuan 7-day reverse repurchase operation in the open market",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zRDhROVUwTTJEMVFkSlUwYnBqTWZna3BxZTZMa3FRRXl4dUVJS3RlOU9mZmxYUVRmRGU2WnpEM19BaXhSZDlldEtwZXNtREoxY0drTlFHa04xVXlRWGIxYQ?oc=5",
-   "published_utc": "2026-09-24T06:22:53+00:00",
-   "title_original": "央行公开市场开展515亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b4d3db97cc147e4a"
   },
   {
    "source_id": "manual_ia",
