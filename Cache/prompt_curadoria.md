@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T23:12:43.372008+00:00
+Última coleta: 2026-10-21T23:22:44.352822+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1025
-  🇨🇳 China          867
+  🇯🇵 Japão          1026
+  🇨🇳 China          866
   🇹🇼 Taiwan         356
   🇰🇷 Coreia do Sul  752
 
 ## O que já está no feed (não repita)
 
+  - [japan] Now that we have entered the ``age of interest rates,'' should you really buy or rent a house? Hiroyuki's ``ex
   - [korea] The Bank of Korea is likely to freeze its base interest rate... Pay attention to the possibility of additional
   - [japan] Japan growth strategy to focus on chips in short term, AI in medium term
   - [korea] Today, the Bank of Korea's Monetary Policy Committee is expected to freeze the base interest rate at 3.00%.
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war By Investing.com
   - [taiwan] Nvidia, Siliconware Precision Industries to Expand Manufacturing Capacity in Taiwan for Optical Engines Used i
   - [taiwan] Nvidia Expects Total Semiconductor Testing Capacity to Double From 2026 to 2027, Supported by Buildouts in U.S
-  - [china] Nvidia: King Yuan Electronics to Build New Facilities in U.S., Supported by a $1.1 Billion Capacity Reservatio
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T23:12:43+00:00",
+      "published_utc": "2026-10-21T23:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

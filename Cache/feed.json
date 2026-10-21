@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T23:12:43.372008+00:00",
- "collected_at_utc": "2026-10-21T23:12:43.372008+00:00",
+ "generated_at_utc": "2026-10-21T23:22:44.352822+00:00",
+ "collected_at_utc": "2026-10-21T23:22:44.352822+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1025,
-  "china": 867,
+  "japan": 1026,
+  "china": 866,
   "taiwan": 356,
   "korea": 752
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T08:56:07+00:00"
+   "newest": "2026-10-21T11:24:45+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T13:07:00+00:00"
+   "newest": "2026-10-20T10:01:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T22:54:38+00:00"
+   "newest": "2026-10-21T23:12:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T22:48:58+00:00"
+   "newest": "2026-10-21T23:12:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T02:00:00+00:00"
+   "newest": "2026-10-21T09:08:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T23:11:11+00:00"
+   "newest": "2026-10-21T23:21:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-22T08:00:00+09:00"
+   "newest": "2026-10-22T08:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Now that we have entered the ``age of interest rates,'' should you really buy or rent a house? Hiroyuki's ``extremely common sense'' answer | Life | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/961101?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-21T23:15:00+00:00",
+   "title_original": "｢金利のある時代｣に突入した今､果たして《家は買うべきか､借りるべきか》…ひろゆきの出した\"極めて常識的\"なアンサー | ライフ | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3d007b4908406842"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "한국경제",
@@ -2331,24 +2348,6 @@
    "id": "b80898a886afd510"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan’s September exports rise 16.7%, helped by chip demand By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVE5HSVlRb3RyVVdmSkt1SksxVWl3WVhsYW5QWWVEVlJKbXNELXdqazNUN2o2aXBZUkFBZGJvNUZiRlhBLWZQVTVTS0dPY1lmd3JOTGZfcHZsRG95RHNDdnJpcFZOVjJFTll1WmJVYXFjVEJLSXJEdHQtcVB5TnhFaVVMOVRsOGVkR0FiMVIwNFFKVlNzZ3ZSTkdZNWlxbDR3bE82N3RGV1V6QQ?oc=5",
-   "published_utc": "2026-10-21T00:56:58+00:00",
-   "title_original": "Japan’s September exports rise 16.7%, helped by chip demand By Reuters",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "085c2118d62243e8"
-  },
-  {
    "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "South Korea October 1-20 exports surge 105% on record chip sales",
@@ -2365,6 +2364,24 @@
    "live_wire": false,
    "manual": false,
    "id": "710c966fccd7086f"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Japan’s September exports rise 16.7%, helped by chip demand By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHc3TVptR25hRXRBdXlxcld4ejlQR2V4azNhR19LLUFCYW0yRkpNbG5pdHFlWmZCSU10S3lpcmlhQ2VYZmZLcW1FUm9tRW9wMUJHVUFRZEpoTGdQMEFXS0pUN2NNSDhqNjZVWFJlV2s1eUJSLW1TYUVReFg2UTkxQXpJSkZSaV9TOWFVVFNHOE5YQTNlcWRmWHlleGRwc0hrbFVaTEsxZkFrX3c?oc=5",
+   "published_utc": "2026-10-21T00:33:22+00:00",
+   "title_original": "Japan’s September exports rise 16.7%, helped by chip demand By Reuters",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "58671585e7b20f5b"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -51922,23 +51939,6 @@
    "live_wire": true,
    "manual": false,
    "id": "cccd7ecc7e040491"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The Double Festival is approaching and the central bank will take action! Overnight reverse repurchase reaches a daily maximum of 1 trillion, with new tools taking the lead",
-   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQakVWWEM4bzVjUDFmSGZjelNsZF9uc0hpMXpsaWRySURkSnREMTdMQUQxS2xwRlN4c2NSTjBPVFlPelFIZUhvbG0xQ1R4LUQ4S25vWm54SWt3eXBKa3BjSUpTX2E1VVQzc2l2SVJuQ0c2RHJWMEFpd3RDTU5obnd3ZU1uZkdnNkpfZGRxSWd4X1Z4Vld3ZXFxWkloaGIyZTFCZmJCdGFsUE9FVUFhVE9faXhpdjZ4UEFBWllvZGg4V0wxNmVxT0RLVmxDX2lZLUFxY3R2Nm5Oc05rcXJjbWJzSVJNeEhMaDU0QTlfY1pMaFYycHZrLVg3Zk5jVE0xSmRfMTkyc0sxZUIzaFJ6bDlWX1NPTWVmSmVjbFNUbWtabVQ5TVVNV1FJM0J6N1ZmRlBkTTJiY3RBc0NLQjlfd3c?oc=5",
-   "published_utc": "2026-09-24T11:45:50+00:00",
-   "title_original": "双节将至央行出手！隔夜逆回购每日最高1万亿，新工具挑大梁",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e9ee87ede64369dc"
   },
   {
    "source_id": "manual_ia",
