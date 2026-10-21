@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-21T21:12:45.738384+00:00",
- "collected_at_utc": "2026-10-21T21:12:45.738384+00:00",
+ "generated_at_utc": "2026-10-21T21:22:45.696265+00:00",
+ "collected_at_utc": "2026-10-21T21:22:45.696265+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 358,
   "korea": 749
  },
- "elapsed_s": 31.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T11:24:45+00:00"
+   "newest": "2026-10-21T08:56:07+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T20:54:54+00:00"
+   "newest": "2026-10-21T21:16:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T20:43:23+00:00"
+   "newest": "2026-10-21T21:12:44+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T12:12:00+00:00"
+   "newest": "2026-10-21T21:14:10+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T21:04:23+00:00"
+   "newest": "2026-10-21T21:21:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-22T06:05:00+09:00"
+   "newest": "2026-10-22T06:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -655,8 +655,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -670,7 +670,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -3200,8 +3200,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -3215,7 +3215,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -3697,8 +3697,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -3712,7 +3712,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -4331,6 +4331,23 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYRENCTElBUWY0VlJyYmlCZlJtRXZwZGJyVHhrLVp2bGVTNE1jNHhmSk1lZkJLbUkzdHc5UzdSVzEtQ2RCUDNEcDNSMWVmVTlhMGhCRzNoQnFZQTg1QlNaTURXTGZpQQ?oc=5",
+   "published_utc": "2026-10-20T05:16:51+00:00",
+   "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "64993bffd548374b"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "搜狐",
    "title_en": "The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a daily limit of no more than 1 trillion yuan｜News",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ05JekFBZk84STBXbC1OTUk3Z2thaU9kQkxnZFNPNDFlUk5XNEVvYmd4Y2luOFVrQ3kyVHBtbUxKNmU0bHNod21yZkg3d2Rwa3hobExHMDBlNllKWVlKcFo4dHVTT3c4YngtWVNHc05pQ21hN3UyVWpUOTZhSThVM01ZUm9DZWFx?oc=5",
@@ -4887,23 +4904,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2065248003ee4d2f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYRENCTElBUWY0VlJyYmlCZlJtRXZwZGJyVHhrLVp2bGVTNE1jNHhmSk1lZkJLbUkzdHc5UzdSVzEtQ2RCUDNEcDNSMWVmVTlhMGhCRzNoQnFZQTg1QlNaTURXTGZpQQ?oc=5",
-   "published_utc": "2026-10-20T01:18:51+00:00",
-   "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "64993bffd548374b"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5634,8 +5634,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -5649,7 +5649,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -22830,6 +22830,40 @@
    "id": "1a85b80d1cfd38e8"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan semiconductor industry eyes landmark geothermal power deal exceeding 20MW",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV0U2eHBMSlBPdGw5NlNUdVUtclNCY0JMeUpOdXp5bVRnOGpTVlIwMWhJRWJWV01kTUNDeEZzVXhfU292QURmczlyT0RYM3lWQkxaZlVZMEtqaEhUVTFhd1dLUW5ySV9RVU5PTDh0eURjVmdqbGVIV1RoRWZiV09kZGw1R1pIcV9BYmtJdm1XLW4xSm82UWxzODViYVR2aWto?oc=5",
+   "published_utc": "2026-10-12T07:00:00+00:00",
+   "title_original": "Taiwan semiconductor industry eyes landmark geothermal power deal exceeding 20MW",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a65eec8391014380"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVFiWldRUlJSYnlMNGxzWmUzVWlnczJOLW5NTEtNWVoyOVZLOUxSNEtMLVNDUTBQZ18zYTkzcVR2UFdoRFgzenl0VDd0aFZFSEVBV1FtbFVGYktKZWFTanNMSTFNWWZJbUs3b2ZpekNfd2trODBFeC1vMEgySlpUWFViV0M1WDU0QVd3TjJzS1hEbU1aLUpFWmRn?oc=5",
+   "published_utc": "2026-10-12T07:00:00+00:00",
+   "title_original": "TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c892082072393cd7"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "BOK forms 11-member advisory committee on digital currency",
@@ -23337,23 +23371,6 @@
    "id": "e714223e73b780a5"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan semiconductor industry eyes landmark geothermal power deal exceeding 20MW",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV0U2eHBMSlBPdGw5NlNUdVUtclNCY0JMeUpOdXp5bVRnOGpTVlIwMWhJRWJWV01kTUNDeEZzVXhfU292QURmczlyT0RYM3lWQkxaZlVZMEtqaEhUVTFhd1dLUW5ySV9RVU5PTDh0eURjVmdqbGVIV1RoRWZiV09kZGw1R1pIcV9BYmtJdm1XLW4xSm82UWxzODViYVR2aWto?oc=5",
-   "published_utc": "2026-10-12T04:26:02+00:00",
-   "title_original": "Taiwan semiconductor industry eyes landmark geothermal power deal exceeding 20MW",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a65eec8391014380"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "China Sanctions Officials of Taiwan’s Partners for First Time",
@@ -23556,23 +23573,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c4682a7c1aeb6a1f"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVFiWldRUlJSYnlMNGxzWmUzVWlnczJOLW5NTEtNWVoyOVZLOUxSNEtMLVNDUTBQZ18zYTkzcVR2UFdoRFgzenl0VDd0aFZFSEVBV1FtbFVGYktKZWFTanNMSTFNWWZJbUs3b2ZpekNfd2trODBFeC1vMEgySlpUWFViV0M1WDU0QVd3TjJzS1hEbU1aLUpFWmRn?oc=5",
-   "published_utc": "2026-10-12T03:06:33+00:00",
-   "title_original": "TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c892082072393cd7"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -47399,6 +47399,23 @@
    "id": "c40b44ff5f4696ec"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Minutes: BOJ discussed faster rate hikes at July meeting | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2Qm1Jcmo0b1ZwRV96TFE2d2NEUUx5NC1kM05oWnZHQXlPMEx5bF9GYzNMTWlLNkNVc2p2SnVmTjE4UEo4b3BjWmw1cWJMMnFtdU8xenROQXdUN3oxVTV0OUY2VQ?oc=5",
+   "published_utc": "2026-09-28T07:00:00+00:00",
+   "title_original": "Minutes: BOJ discussed faster rate hikes at July meeting | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f01a3b4e9eb373a5"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Finance minister, BOK chief stress coordination to address uncertainties",
@@ -47415,23 +47432,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dec6c74f8aaf24a0"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Minutes: BOJ discussed faster rate hikes at July meeting | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2Qm1Jcmo0b1ZwRV96TFE2d2NEUUx5NC1kM05oWnZHQXlPMEx5bF9GYzNMTWlLNkNVc2p2SnVmTjE4UEo4b3BjWmw1cWJMMnFtdU8xenROQXdUN3oxVTV0OUY2VQ?oc=5",
-   "published_utc": "2026-09-28T07:00:00+00:00",
-   "title_original": "Minutes: BOJ discussed faster rate hikes at July meeting | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f01a3b4e9eb373a5"
   },
   {
    "source_id": "gn_jp_investing",
