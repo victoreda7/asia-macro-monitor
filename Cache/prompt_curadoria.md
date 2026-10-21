@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T11:52:42.587275+00:00
+Última coleta: 2026-10-21T12:02:42.714088+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1029
-  🇨🇳 China          868
+  🇯🇵 Japão          1028
+  🇨🇳 China          869
   🇹🇼 Taiwan         359
   🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
+  - [china] The EU will ‘pull its punches’ on China despite growing trade war talk: analysts
+  - [korea] Hyundai Mobis Accelerates Full-Cycle Collaboration as a "K-Automotive Semiconductor Korea One Team"
+  - [china] China uses crude stockpiles, but rising oil imports may curtail draws: Russell
   - [japan] IMF official says currency intervention offers limited benefits By Investing.com
   - [korea] FTC chief acknowledges role of conglomerates in economic growth
   - [japan] Haruhiro Takahashi appointed as new branch manager of Bank of Japan Matsuyama Branch [Ehime] (eat Ehime Asahi 
@@ -40,6 +43,7 @@ Total: 3000 manchetes
   - [japan] Goldman Sachs bets on these 8 Japanese chip stocks as earnings upgrades loom
   - [taiwan] Cloud AI to drive chip growth in 2027 as Taiwan suppliers seek opportunities beyond weak consumer edge AI
   - [korea] Semiconductor stocks in South Korea and the United States are fluctuating, reacting sensitively to s..
+  - [china] Merz Says EU to Avoid China Trade War as It Defends Itself
   - [japan] Japan open to winter fuel subsidies to soften heating bill blow
   - [japan] Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.
   - [china] Indonesia's central bank kept its benchmark interest rate unchanged at 5.75% and announced it would lower bank
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan futures slip as yen jumps, cost support seen easing
   - [taiwan] Taiwan semiconductor electricity use hits record high in Sept.
   - [japan] The Takaichi administration should present a "Plan B" for fiscal policy...A plan that says "achieving high gro
-  - [korea] Samsung Biologics Co., Ltd. Q3 Rev KRW 1.49T; Lifts 2026 Growth Guide to 20%
-  - [taiwan] Death toll in TSMC Kaohsiung construction accident rises to 4
-  - [korea] South Korean shares post biggest gain in 6 weeks as chipmakers rebound
-  - [japan] Will the Bank of Japan decide to reach the 2% price level? (NRI researcher's commentary on current events)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T11:52:42+00:00",
+      "published_utc": "2026-10-21T12:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
