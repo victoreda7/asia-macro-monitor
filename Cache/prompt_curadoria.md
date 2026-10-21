@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T03:12:44.198297+00:00
+Última coleta: 2026-10-21T03:22:42.019892+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
-  🇨🇳 China          885
+  🇯🇵 Japão          1035
+  🇨🇳 China          882
   🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  730
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock prices rise due to fall in crude oil futures prices
+  - [korea] Why is Samsung Electronics stock surging today?
   - [china] China's yuan touches new high since 2022 on weaker dollar, export resilience
   - [china] China September Power Consumption Up 1.2% Y/Y - National Energy Administration
+  - [korea] Corporate profits, debts improve in 2025: BOK
   - [taiwan] TSMC says four construction workers killed at Taiwan site, halting work
   - [china] Yuan Mixed but Resilient Chinese Data Could Offer Support — Market Talk
   - [korea] Vietnam security ministry seeks Samsung's help on AI and chips
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Exports Continued to Rise in September Amid AI Boom
   - [japan] JAPAN SEPT EXPORTS POST 13TH STRAIGHT Y/Y RISE
   - [japan] Japan exports rise 16.7% in September as AI chip demand powers trade
-  - [japan] JAPAN SEPT EXPORTS TO CHINA +8.6% Y/Y, 7TH STRAIGHT RISE (AUG REVISED +20.5%) LED BY CHIP-MAKING EQUIPMENT, RA
-  - [japan] MNI: JAPAN SEPT EXPORTS +16.7% Y/Y; AUG +19.3%
-  - [japan] Japan September exports rise 16.7% y/y, slower than forecast By Reuters
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T03:12:44+00:00",
+      "published_utc": "2026-10-21T03:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

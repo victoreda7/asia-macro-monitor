@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T03:12:44.198297+00:00",
- "collected_at_utc": "2026-10-21T03:12:44.198297+00:00",
+ "generated_at_utc": "2026-10-21T03:22:42.019892+00:00",
+ "collected_at_utc": "2026-10-21T03:22:42.019892+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1034,
-  "china": 885,
+  "japan": 1035,
+  "china": 882,
   "taiwan": 351,
-  "korea": 730
+  "korea": 732
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T02:51:05+00:00"
+   "newest": "2026-10-21T03:09:41+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T02:00:00+00:00"
+   "newest": "2026-10-20T03:04:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T12:04:34+09:00"
+   "newest": "2026-10-21T12:12:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-21T02:00:18+00:00"
+   "newest": "2026-10-20T13:27:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T21:00:13+00:00"
+   "newest": "2026-10-21T03:00:11+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,40 @@
  ],
  "items": [
   {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock prices rise due to fall in crude oil futures prices",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261021de62714",
+   "published_utc": "2026-10-21T03:12:00+00:00",
+   "title_original": "株価 値上がり 原油先物価格の下落を受け",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0e755b1743aecb1c"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is Samsung Electronics stock surging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-surging-today-93CH-4961515",
+   "published_utc": "2026-10-21T03:09:16+00:00",
+   "title_original": "Why is Samsung Electronics stock surging today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "74cf1bcf36caf7fd"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China's yuan touches new high since 2022 on weaker dollar, export resilience",
@@ -377,6 +411,23 @@
    "live_wire": true,
    "manual": false,
    "id": "38f0a12c844c71ea"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Corporate profits, debts improve in 2025: BOK",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxZ0prZlV0RzRpa0NqWnFDZnhwY1NZSTV0ZnNCMnhZTHdINFYyZ2NGLU82UUtTRUxaaGhfS1A5ajRBVTZXNDR5dlRXUnVYSE9TRk9nQjVfemdjdw?oc=5",
+   "published_utc": "2026-10-21T03:00:11+00:00",
+   "title_original": "Corporate profits, debts improve in 2025: BOK",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3c6fc93597b1641a"
   },
   {
    "source_id": "tradingview_live",
@@ -1835,8 +1886,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -1850,7 +1901,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -2298,8 +2349,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -2313,7 +2364,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -2769,6 +2820,23 @@
    "id": "55ab5d52d5e4ba42"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "同花顺财经",
+   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kR0FIVmczN2RpcjV0MHdObWZCQU9DVThDekt0ampvNXR5ejAyUVE0Zm5hVWtPa1lkLTZzM2djay1QM3FmUmphejhKZktsVXhnSnJhbFI2bG9vODExa0E?oc=5",
+   "published_utc": "2026-10-20T06:27:38+00:00",
+   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b9fbd044006af956"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Hwang Ki-yeon, president of the Export-Import Bank of Korea, and other heads of institutions attend",
@@ -3001,10 +3069,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观察者网",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFd1WDlURjRRNVRMenAyU1hkTGhjYlM1bEZJUW0wT2NpbDVMVzhzLXE5alJ2allYUVVJS2tnUUxOdWlSLTNLS2hmQ3dHSDNNOGtWVTFWejFKMTR0SDVzeVB3VjE5a3FCc2tEb3NZd2txSEpjOEw5YXVJXzlqeC1reWU0QV9oUUhWQlA4?oc=5",
-   "published_utc": "2026-10-20T05:07:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
+   "published_utc": "2026-10-20T05:07:00+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -3014,7 +3082,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "94e53c32e7d82fda"
+   "id": "50e1092b7ea2ed64"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3052,10 +3120,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "京报网",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
-   "published_utc": "2026-10-20T04:46:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
+   "published_utc": "2026-10-20T04:37:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -3066,7 +3134,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b8b7943e562e9e1"
+   "id": "113a63c4f4301728"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3085,23 +3153,6 @@
    "live_wire": false,
    "manual": false,
    "id": "94948b0310f08f53"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vZDB1N2tzLWE0SW1aRHFzejRiOGZNMUQyQ3Y0QjY0Q01HTUtDT3J4aU10c0JVb3BaYWRvOWg4Y1JrMG9hMTZMN2M2MU16Rzh6NnhCVnROQ21fSmxWWVRzdg?oc=5",
-   "published_utc": "2026-10-20T04:35:40+00:00",
-   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c0255988d518ffc"
   },
   {
    "source_id": "nhk_politics",
@@ -4216,8 +4267,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -4231,7 +4282,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -8309,8 +8360,8 @@
    "id": "e1a10142513813b1"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Fiscal System Council proposes use of imported rice for stockpiled rice",
    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
    "published_utc": "2026-10-16T14:27:21+00:00",
@@ -8324,7 +8375,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dc8687caadfa705a"
+   "id": "1336f7d1a8c06ead"
   },
   {
    "source_id": "nikkei_asia",
@@ -51893,60 +51944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1b2c4789d76abb60"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Central Bank: An 800 billion yuan MLF operation will be carried out on September 24 with a term of one year",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83dVY4ODE4dEEzanVQWTFMQjJEc0NSX1dIS3ZmbUFPZzBfVmJMWml1d29SWTE1cjhpMFFmWDhKckdfTUxFcTA1NW5CUjF1MjgtcmdmMVp0MHlPZjA5cUZWVw?oc=5",
-   "published_utc": "2026-09-23T13:42:36+00:00",
-   "title_original": "央行：9月24日将开展8000亿元MLF操作 期限为1年期",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9734e1884f006d7"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launches 800 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fOTEzRkN4TjJNYmRscWhwWXlxMGNVbjRfOERtUFBDcVk1cmtUZ0FyMHdsUXliN0loODM3U1BBOHN4VzhKelllMVpmU2Vjb0dkMVFsZ2w0MFl6SDRfRF9XcVdhT3UtQQ?oc=5",
-   "published_utc": "2026-09-23T13:40:46+00:00",
-   "title_original": "央行开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a4a79cc06bd48e9e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out 800 billion yuan MLF operations in the form of fixed quantity, interest rate bidding, and multiple price winning bids.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jUkJSUHVPMGthWkRlOXR6UlJpdHVkS3RfV1ZDcmhtV2Z1bk9hRFVCUWFPdTFVRG5TTjJPRVJWVFl2TlFoS3A0STVnb24yczJrOG4tT3QxcGl3NTF6U0FzamFSOEtpdw?oc=5",
-   "published_utc": "2026-09-23T13:26:02+00:00",
-   "title_original": "央行将以固定数量、利率招标、多重价位中标方式开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "258b0a768121870c"
   },
   {
    "source_id": "manual_ia",
