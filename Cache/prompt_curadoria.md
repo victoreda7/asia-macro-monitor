@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T00:52:43.127077+00:00
+Última coleta: 2026-10-21T01:02:42.154732+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1030
+  🇯🇵 Japão          1032
   🇨🇳 China          891
   🇹🇼 Taiwan         350
-  🇰🇷 Coreia do Sul  729
+  🇰🇷 Coreia do Sul  727
 
 ## O que já está no feed (não repita)
 
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
+  - [japan] Japan’s September exports rise 16.7%, helped by chip demand By Reuters
   - [korea] South Korea October 1-20 exports surge 105% on record chip sales
   - [korea] Bank of Korea Expected to Stand Pat Thursday, Poll Shows — Market Talk
   - [japan] Japan shifting to wage-driven inflation phase, finance minister says
@@ -28,6 +29,7 @@ Total: 3000 manchetes
   - [japan] JAPAN SEPT EXPORTS POST 13TH STRAIGHT Y/Y RISE
   - [japan] JAPAN SEPT EXPORTS TO CHINA +8.6% Y/Y, 7TH STRAIGHT RISE (AUG REVISED +20.5%) LED BY CHIP-MAKING EQUIPMENT, RA
   - [japan] MNI: JAPAN SEPT EXPORTS +16.7% Y/Y; AUG +19.3%
+  - [japan] Japan September exports rise 16.7% y/y, slower than forecast By Reuters
   - [japan] JAPAN SEPT EXPORTS TO EU +10.5%, 14TH STRAIGHT RISE (AUG +11.0%) , LED BY AUTO, SHIPS, DRUGS
   - [japan] Trade statistics for the first half of this fiscal year: 2.8 trillion yen deficit, 98.8% larger than last year
   - [japan] JAPAN SEPT EXPORTS TO US +22.9% Y/Y, 7TH STRAIGHT RISE (AUG +24.9%), LED BY AUTOS, DRUGS, CHIP-MAKING EQUIPMEN
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Will AI really push up long-term interest rates? The key is the difficult issue of determining whether product
   - [japan] Japan oil refiner Idemitsu to import non-Mideast LNG
   - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
-  - [japan] Japan budget hotels ramp up overseas push with public baths, free breakfast
-  - [japan] Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs data
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T00:52:43+00:00",
+      "published_utc": "2026-10-21T01:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
