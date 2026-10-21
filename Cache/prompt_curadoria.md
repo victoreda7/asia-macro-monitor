@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T02:02:43.241245+00:00
+Última coleta: 2026-10-21T02:12:42.813608+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1033
-  🇨🇳 China          888
-  🇹🇼 Taiwan         349
+  🇨🇳 China          887
+  🇹🇼 Taiwan         350
   🇰🇷 Coreia do Sul  730
 
 ## O que já está no feed (não repita)
 
+  - [korea] FTC chief acknowledges role of conglomerates in economic growth
   - [korea] South Korean Shares Rebound on Chip Rally
   - [korea] South Korean shares rebound from 6-month closing low on strong export data
   - [china] CHINA PBOC CONDUCTS CNY80 BLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7192 WEDS VS 6.7200
   - [korea] Spillovers From South Korea's Strong Chip Exports Remain Limited — Market Talk
   - [china] China September youth jobless rate at 18%
+  - [taiwan] Breaking AI's memory wall: former TSMC VP charts a path with HBM, optical links and 3D stacking
   - [japan] Japan shifting to wage-driven inflation phase, finance minister says
   - [korea] Nomura Raises Its Korea 3Q GDP Growth Forecast to 4.0% on Year — Market Talk
   - [taiwan] Taiwan's September export orders jump 62.4% on AI demand
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Kazakh borrowers issue billions of yuan debt as China ties tighten
   - [japan] JAPAN SEPT IMPORTS +18.9% Y/Y (AUG +28.0%), 8TH STRAIGHT RISE; MEDIAN FORECAST +19.9%
   - [japan] BREAKING NEWS: Japan logs 536.5 billion yen trade deficit in Sept.
-  - [japan] JAPAN SEPT EXPORTS +16.7% Y/Y (AUG +19.3%), 13TH STRAIGHT RISE; MEDIAN FORECAST +21.7%
-  - [japan] From wars to El Niño...World food prices become scary at the end of the year (JoongAng Ilbo Japanese version)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T02:02:43+00:00",
+      "published_utc": "2026-10-21T02:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
