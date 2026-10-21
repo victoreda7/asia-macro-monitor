@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T04:12:43.062163+00:00",
- "collected_at_utc": "2026-10-21T04:12:43.062163+00:00",
+ "generated_at_utc": "2026-10-21T04:22:43.311443+00:00",
+ "collected_at_utc": "2026-10-21T04:22:43.311443+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1036,
-  "china": 879,
-  "taiwan": 349,
-  "korea": 736
+  "china": 876,
+  "taiwan": 350,
+  "korea": 738
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T02:02:45+00:00"
+   "newest": "2026-10-21T03:01:36+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T03:09:41+00:00"
+   "newest": "2026-10-21T04:18:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-21T11:45:00+00:00"
+   "newest": "2026-10-21T13:12:07+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T04:11:12+00:00"
+   "newest": "2026-10-21T04:20:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T00:32:05+00:00"
+   "newest": "2026-10-21T04:13:22+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,77 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside",
+   "url": "https://www.tradingview.com/news/tradingview:0ca4016c76789:0-sk-hynix-inc-stock-12-month-price-target-cut-to-krw-3203919-5-implies-162-upside/",
+   "published_utc": "2026-10-21T04:20:00+00:00",
+   "title_original": "SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside",
+   "region": "korea",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ee2e4035c58bdc61"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Korea's Core Inflation Acceleration Unlikely to Prompt Aggressive Rate Hike — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261021000032:0-korea-s-core-inflation-acceleration-unlikely-to-prompt-aggressive-rate-hike-market-talk/",
+   "published_utc": "2026-10-21T04:18:00+00:00",
+   "title_original": "Korea's Core Inflation Acceleration Unlikely to Prompt Aggressive Rate Hike — Market Talk",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f60568f766163728"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan decides to reach 2% price level (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBONzBhbGFWZFNxemNNbFM5eUFrMmVGUlpZeEdWY0JMUEhpT3lISWhYUGduc0IzYUNRWlVxR2NCMHBQYkh3UDl6ak40aUIyV2lHUzZrbjZ2SVRBbmdBLWtmZzdXY2RhRnhhR25hMTRPUWkxQ0FkcExuY3dGLWtXY0k?oc=5",
+   "published_utc": "2026-10-21T04:13:22+00:00",
+   "title_original": "日銀、物価2％到達判断へ（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3f3a89c09005b8cf"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is SK Hynix stock surging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4961533",
+   "published_utc": "2026-10-21T04:12:16+00:00",
+   "title_original": "Why is SK Hynix stock surging today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9ddf5246ae172db2"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -465,6 +536,23 @@
    "live_wire": true,
    "manual": false,
    "id": "1df42ee63403cf2f"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Micron faces potential Taiwan strike, union cites Samsung, SK Hynix profit-sharing benchmark",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkd3ekc0QV9UdlhVWGk5cFo0TnlnWkx4OElHT2FKNnRxSUJ2YUkwVWRVR1k2eXBvQmc3OVZUU3MtTkFHVVpvakJWU0ZwbWNtSGdzeHVOSEN2OUY5Sml6T2QtOUF3MnhoakZ1WUcyX3BWRXNreDNBR1ZSU0VMSVdqcnV0a25od2ROT2tWeDJFQVVGQQ?oc=5",
+   "published_utc": "2026-10-21T03:17:57+00:00",
+   "title_original": "Micron faces potential Taiwan strike, union cites Samsung, SK Hynix profit-sharing benchmark",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "48d9de13979eb958"
   },
   {
    "source_id": "nhk_economy",
@@ -654,6 +742,23 @@
    "live_wire": true,
    "manual": false,
    "id": "1b71eba24a54e7ad"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI chip scaling shifts into 3D, with performance per watt the new benchmark, says former TSMC VP",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVl9aM3hSZFBTZVg2T25MaGI0Nno3azlmN0V3ME5mMEpFTVAwVDJZUVktbkNBN0NGcDJadmRGb01ETDB0eWFIR3RfYkg0MEU4SGd0cl8takZ6NGdWUjRXdUpSMGlyb3VfTjI3OWtHNkZjMi1IZlVFTjVhOF9haTFtTlJrZXhnWU56UkhQVw?oc=5",
+   "published_utc": "2026-10-21T02:17:39+00:00",
+   "title_original": "AI chip scaling shifts into 3D, with performance per watt the new benchmark, says former TSMC VP",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e9d696c2dc2e4a8f"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1266,24 +1371,6 @@
    "id": "46faad7c3aa6caf8"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN SEPT EXPORTS TO US +22.9% Y/Y, 7TH STRAIGHT RISE (AUG +24.9%), LED BY AUTOS, DRUGS, CHIP-MAKING EQUIPMENT",
-   "url": "https://www.tradingview.com/news/macenews:2f8de5c60094b:0-japan-sept-exports-to-us-22-9-y-y-7th-straight-rise-aug-24-9-led-by-autos-drugs-chip-making-equipment/",
-   "published_utc": "2026-10-21T00:01:00+00:00",
-   "title_original": "JAPAN SEPT EXPORTS TO US +22.9% Y/Y, 7TH STRAIGHT RISE (AUG +24.9%), LED BY AUTOS, DRUGS, CHIP-MAKING EQUIPMENT",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e13c136ab82ef3b8"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Japan September exports rise 16.7% y/y, slower than forecast",
@@ -1299,23 +1386,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4f7d805e663855d7"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea October 1-20 exports rise 105.4% year/year",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44004S:0-south-korea-october-1-20-exports-rise-105-4-year-year/",
-   "published_utc": "2026-10-21T00:00:04+00:00",
-   "title_original": "South Korea October 1-20 exports rise 105.4% year/year",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "eca847f15db73e2f"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1496,24 +1566,6 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Governor Ueda will attend the House of Representatives Finance and Financial Services Committee meeting from 1:00 p.m. (Source)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfLVJtTkRfa0dMZGRBTnEtUGoxTFNMc2lTODRyRklLX1RpaDNJUjdFMXNzTXE5ekd5YmZsdGVaY1dTRWUxMzJMZjNZcXJJRzQ1YWdxNDlSUmxSWHhObndIcjNlU1JLMzBvVk5vTWVuZGJiUmtkT2R1eXQzSGM4Tmc?oc=5",
-   "published_utc": "2026-10-20T23:26:00+00:00",
-   "title_original": "植田日銀総裁が午後1時から衆院財務金融委員会に出席＝関係筋（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "68715106ae8fed22"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
    "title_en": "Correction - Bank of Japan Deputy Governor Himino will attend the House of Representatives Finance and Financial Services Committee meeting from 1:00 p.m. = Source (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfLVJtTkRfa0dMZGRBTnEtUGoxTFNMc2lTODRyRklLX1RpaDNJUjdFMXNzTXE5ekd5YmZsdGVaY1dTRWUxMzJMZjNZcXJJRzQ1YWdxNDlSUmxSWHhObndIcjNlU1JLMzBvVk5vTWVuZGJiUmtkT2R1eXQzSGM4Tmc?oc=5",
    "published_utc": "2026-10-20T23:22:02+00:00",
@@ -1527,6 +1579,24 @@
    "live_wire": false,
    "manual": false,
    "id": "e33184c8ade9981f"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan Governor Ueda will attend the House of Representatives Finance and Financial Services Committee meeting from 1:00 p.m. (Source)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfLVJtTkRfa0dMZGRBTnEtUGoxTFNMc2lTODRyRklLX1RpaDNJUjdFMXNzTXE5ekd5YmZsdGVaY1dTRWUxMzJMZjNZcXJJRzQ1YWdxNDlSUmxSWHhObndIcjNlU1JLMzBvVk5vTWVuZGJiUmtkT2R1eXQzSGM4Tmc?oc=5",
+   "published_utc": "2026-10-20T23:22:02+00:00",
+   "title_original": "植田日銀総裁が午後1時から衆院財務金融委員会に出席＝関係筋（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "68715106ae8fed22"
   },
   {
    "source_id": "investing_econ",
@@ -3142,7 +3212,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rate in October” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeHFCMzN0Q0lIb0JIWkRBWTRad0FSTmZtSnJrVkYxQ3lFWHZJcmk2VjhfaUJ0SzRWS3RuUUt5NDZQbzhod1BweEhEQWt2ZmNacW1FLS1MQ2x6NWQ5MHlSX1N3OS1uNm1a0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DelR0Q0VYLV9HcGJjb21nV2VaSEtyZkVCVzRIaEstc1FjQTAxQTgweDYySXdwLTJmX0l5N0ZwYk4tUWppd29SaFRoNmQxT1hRQ2RtN09FbjNwc3lwanY5M1FpdlV1eXNNd1JXQUNR0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
    "published_utc": "2026-10-20T05:34:46+00:00",
    "title_original": "채권시장 종사자 93% \"10월 한은 금통위, 기준금리 동결할 것\" - 머니투데이",
    "region": "korea",
@@ -3154,7 +3224,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f458f88af40eac09"
+   "id": "a635a4e49fd3df7b"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -29904,6 +29974,23 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
+   "title_en": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfVnFEeVdQOWI1dktYbHN2bDF0ZlRLUTluVGJIZFVOUWJFd3A4R1VHTHVDS1ZHdVJ5a2ppdk5sUm5QME40TlJ2b0lCbUFvRFJPWVh1TzJJNXhGUQ?oc=5",
+   "published_utc": "2026-10-07T07:00:00+00:00",
+   "title_original": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "92e09e9abc281cc5"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan gov't mulling FY 2026 extra budget for disaster reconstruction",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veUVQTXNGcnhNQWVXZFVPV01JT1V4dGdFYVpuakI1ZGlPMFhqM1IzZjVUX1hQN2ZSTDVURjFaUzdvbWg3QWN3QlI2OXBGc2JTaUNNTmhESGE2UQ?oc=5",
    "published_utc": "2026-10-07T07:00:00+00:00",
@@ -30104,23 +30191,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1ae8d8b7f796e3ec"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfVnFEeVdQOWI1dktYbHN2bDF0ZlRLUTluVGJIZFVOUWJFd3A4R1VHTHVDS1ZHdVJ5a2ppdk5sUm5QME40TlJ2b0lCbUFvRFJPWVh1TzJJNXhGUQ?oc=5",
-   "published_utc": "2026-10-07T04:15:00+00:00",
-   "title_original": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "92e09e9abc281cc5"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51878,74 +51948,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5649a7ef421eaf57"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Investment frenzy, chip wars and robot dreams: Inside China's AI boom",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45F0VB:0/",
-   "published_utc": "2026-09-23T20:00:17+00:00",
-   "title_original": "Frenesi de investimentos, guerras de chips e sonhos com robôs: por dentro do boom da IA na China",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "087aadb5b689b0d3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Funding frenzy, chip wars, and robot dreams: Inside China‘s AI boom",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45F14W:0-funding-frenzy-chip-wars-and-robot-dreams-inside-china-s-ai-boom/",
-   "published_utc": "2026-09-23T19:58:52+00:00",
-   "title_original": "Funding frenzy, chip wars, and robot dreams: Inside China‘s AI boom",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "856aa49214014138"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "From Chips to Laptops: Alibaba Accelerates Full-Stack AI Ambitions",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbE9ydUZHc1NUYUg2X1lZa2Q3VUFaTTJzd0hJQUU3VmJ0cmNNWnI5Y1hSOVREdzFUdHJMVXV0RkhwZmlUdk9ocFdmN1pydTN4c2ZRazhIQ05kX19kU1hlWjJyRTdhMng2bm1vbUtJNHFWXzJEdFU0SElZcUN4Mk9UaTRSMnBIU1JyZFR5WWtEUFRYX3k5c2ZYeEpkdXh3bGdVMVhqdUFkbmxyQXE3SjZzczhvZms3ZGVLc193ZA?oc=5",
-   "published_utc": "2026-09-23T19:56:00+00:00",
-   "title_original": "From Chips to Laptops: Alibaba Accelerates Full-Stack AI Ambitions",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4ccf5d94a80916c2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Cadence expands TSMC partnership to power next-gen AI chips",
-   "url": "https://www.tradingview.com/news/seekingalpha:757e48ad5094b:0-cadence-expands-tsmc-partnership-to-power-next-gen-ai-chips/",
-   "published_utc": "2026-09-23T19:40:57+00:00",
-   "title_original": "Cadence expands TSMC partnership to power next-gen AI chips",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "19f261d76a2bd04c"
   },
   {
    "source_id": "manual_ia",

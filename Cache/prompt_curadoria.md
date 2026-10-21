@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T04:12:43.062163+00:00
+Última coleta: 2026-10-21T04:22:43.311443+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1036
-  🇨🇳 China          879
-  🇹🇼 Taiwan         349
-  🇰🇷 Coreia do Sul  736
+  🇨🇳 China          876
+  🇹🇼 Taiwan         350
+  🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside
+  - [korea] Korea's Core Inflation Acceleration Unlikely to Prompt Aggressive Rate Hike — Market Talk
+  - [japan] Bank of Japan decides to reach 2% price level (Kyodo News)
+  - [korea] Why is SK Hynix stock surging today?
   - [japan] Yomiuri: Japan's Carbon Fiber Manufacturers Expand to Robotaxis, Space
   - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
   - [taiwan] TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
@@ -24,6 +28,7 @@ Total: 3000 manchetes
   - [japan] Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to fe
   - [korea] Axcelis plans US$35 million semiconductor facility in South Korea
   - [korea] South Korea to ease fuel supply rules, let refiners boost exports, Lee says
+  - [taiwan] Micron faces potential Taiwan strike, union cites Samsung, SK Hynix profit-sharing benchmark
   - [japan] Stock prices rise due to fall in crude oil futures prices
   - [korea] Why is Samsung Electronics stock surging today?
   - [china] China's yuan touches new high since 2022 on weaker dollar, export resilience
@@ -35,6 +40,7 @@ Total: 3000 manchetes
   - [korea] Vietnam security ministry seeks Samsung's help on AI and chips
   - [china] Shipments of foreign-branded phones in China fall 14.8% y/y in September, data shows
   - [japan] Japan futures slip as yen jumps, cost support seen easing
+  - [taiwan] AI chip scaling shifts into 3D, with performance per watt the new benchmark, says former TSMC VP
   - [korea] FTC chief acknowledges role of conglomerates in economic growth
   - [china] Central Bank: The volume of 7-day reverse repurchase operations on October 21 was zero
   - [china] The central bank’s 7-day reverse repurchase operation volume on October 21 was zero
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Breaking AI's memory wall: former TSMC VP charts a path with HBM, optical links and 3D stacking
   - [japan] Japan shifting to wage-driven inflation phase, finance minister says
   - [korea] Nomura Raises Its Korea 3Q GDP Growth Forecast to 4.0% on Year — Market Talk
-  - [taiwan] Taiwan's September export orders jump 62.4% on AI demand
-  - [korea] [Issue Check] Interest rates likely to be frozen, is an increase only a matter of time?... On the 22nd, the Ba
-  - [japan] Japan’s export growth stays solid, AI-chip trade and cars aid rise
-  - [japan] Japan’s September exports rise 16.7%, helped by chip demand By Reuters
-  - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
-  - [korea] South Korea October 1-20 exports surge 105% on record chip sales
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T04:12:43+00:00",
+      "published_utc": "2026-10-21T04:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
