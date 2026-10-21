@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T13:42:45.190649+00:00",
- "collected_at_utc": "2026-10-21T13:42:45.190649+00:00",
+ "generated_at_utc": "2026-10-21T13:52:44.155585+00:00",
+ "collected_at_utc": "2026-10-21T13:52:44.155585+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1027,
-  "china": 872,
+  "japan": 1026,
+  "china": 873,
   "taiwan": 359,
   "korea": 742
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T11:32:29+00:00"
+   "newest": "2026-10-21T10:40:46+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T11:23:14+00:00"
+   "newest": "2026-10-21T13:05:14+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T06:34:00+00:00"
+   "newest": "2026-10-21T12:06:01+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-21T12:00:10+00:00"
+   "newest": "2026-10-21T13:42:22+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T07:00:12+00:00"
+   "newest": "2026-10-21T12:21:07+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T08:39:56+00:00"
+   "newest": "2026-10-21T13:45:59+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NTWx4LUw5TjAxY2UtbDZWS2FUZUVqSFNNVUsyWVIzcDhSNXdDUEViMDhFVEQtaXhBWWY1ckZNaHJYVTgyZHNfVV94ZjFkSjV1MWc?oc=5",
+   "published_utc": "2026-10-21T13:45:59+00:00",
+   "title_original": "The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c87008ddb2034fc4"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "PR Newswire",
@@ -379,8 +396,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -394,7 +411,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -568,6 +585,24 @@
    "live_wire": false,
    "manual": false,
    "id": "b25a715fa8b3781e"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan decides to reach 2% price increase rate, shifts from deflationary response, leaves policy interest rate unchanged, October meeting (Sankei Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0JvZHQxc0ZIbGwxbUlQMVByU21mOFVBNEZYLURVN0hxWVgtekpjSHlMd0Y4Mm0yQ1Nkb2xGZnNndi1zeFZLOWZFVFZuVFFDRGU1N3JrVlJlbmhmQk1vMGI4eXpFOGUxZWFhMXFkcENsZTZpTlRtMlZZNk1QdHluV0xwMTFpMmFiRjBHZ2l3?oc=5",
+   "published_utc": "2026-10-21T10:47:35+00:00",
+   "title_original": "日銀が物価上昇率2％到達判断へ、デフレ対応から転換 政策金利は据え置きか、10月会合 (産経新聞)",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9a8a45316d5492e3"
   },
   {
    "source_id": "gn_jp_investing",
@@ -977,23 +1012,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9ea2de6737e72683"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hbzVJWmdtZjA0LTZtOTFndHpJZk9jaXdJTkJxSG11MDJhdEU1TTU4TE9TOGNGelhsb01MLTNxRU9NMjR5ajh4MG9ZWXpEWllmc0E?oc=5",
-   "published_utc": "2026-10-21T08:13:43+00:00",
-   "title_original": "The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "52891e9a388fc248"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1967,6 +1985,23 @@
    "id": "085c2118d62243e8"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "COMMENTARY: China uses crude stockpiles, but rising oil imports may curtail draws",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMXlFU3FvdEtaU3AxTmhWTm5iUHV1R1pLeWhhM3JFR0FUSm9ua3pod2x4WUdUWHZXMW5Mc1FaY0RMakFzNkN3akV5OE0tODVVRHp4QWlMS0ZiUTg3NkhuODdNVkdkR3RHRGh0Mkhaa2QzNl9aUEl0bVlvSWRoTjJfTnhxeEVpU0pzbE5lcjFUS0R5b2xTSTB2ZkdGX1VtcUxyOTRhejdLWmxVUmRFTElxV01JZXUtaUZWb2s1cTNlM1hyZ1ltUF82NkxVV3RZdw?oc=5",
+   "published_utc": "2026-10-21T00:37:57+00:00",
+   "title_original": "COMMENTARY: China uses crude stockpiles, but rising oil imports may curtail draws",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "36457313463330e2"
+  },
+  {
    "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "South Korea October 1-20 exports surge 105% on record chip sales",
@@ -2870,8 +2905,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -2885,7 +2920,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -3367,8 +3402,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -3382,7 +3417,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -5286,8 +5321,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -5301,7 +5336,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -13919,10 +13954,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
+   "source_name": "Investing.com UK",
    "title_en": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0dpcXNnYnNnbWtWakd2R3VrNnpxUHFsRWJyN1pLZ3BacTkyb0FfVUtUM3dvRlZqckZ4aXRlVGZvdHY2S09nWDlzVk1POWstNmRwRlNvSTlGbkYybjAxTnF0akg4ZmI3UWh1RFlJaWp4cnV2MEJCWGhKM2ZnN3doRXpUNmZKaEk2YlhhNWNjSXFkMWFVME5xRFVHTUF4ZFpFUjg1QXVmZmE1Y2hjWU1oOXd1SXdzbno3bVB6RW1B?oc=5",
-   "published_utc": "2026-10-15T04:25:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXM4RzlvNjh2NUgyeFQtMWlxT2gza0VvZU5JVDVBVzVXRS1kZVZEc2QzT1RMazNJWThlaWRWckFOd0JNRTdmQmp4UmlHWmUwTlJ3VDhyanZVaU9WVFJlTzYzUUVaeVBrRkdxaWFzUkJfd0tXdTNfSlVCUy1sOXdVdEs1cktiZFJpbW9QbHBsNjFXazljTFhaVGJ5RWN6RVpMQVRQRExYWVljcjZkbU5LbDZSU1JVYUdENzBiQjBn?oc=5",
+   "published_utc": "2026-10-15T04:06:00+00:00",
    "title_original": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
    "region": "japan",
    "topics": [
@@ -13933,7 +13968,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2b3965436e525ef4"
+   "id": "dfae25f1e6df382f"
   },
   {
    "source_id": "investing_live",
@@ -47017,9 +47052,9 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
+   "source_name": "Investing.com South Africa",
    "title_en": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0ZUakhzWWJoellmNEswN0xTNGxwMVMzRl9RNlN5SXVrbzJ2TVV2RkxEWk5VX1dnT3JxRS1BV3FXSVY4SHNzZ2d6eTFBQmR6T2xBV05ld2JlcVR3UFA0eXdHV3ExRlBORDJPTFdpZ21pOUJhamhkdUdnZWFvWVRRd25tZC1BZWs4QjRrZEx6WXpqeG9ocUNHUmNyX0E4T3ItVmQ3NXFkYy1ReURjXzA2aG5yUWVLdFh5eDFJaA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGRUOGNZbG1jNmxUSGZQSDdWVHMtaV94Y2pWX28zUE1Tb3JGSGE5dDRqUTJGSXZhQzVYX0R6RUtoanVMdERyWHVqaFJFM1Nza1lkSGhfV21JNGZtUnBja09ZZEJhTmQzRTNYRVpQdlhCekR2TFJaZXBYMy1xNmJFVVd0bnQ5bm9XVFZkZVJiUzRfaEJVTi12dnZzRUd0UVRoU3JNdzhSTHZWelUtZjZSZ0dLUElMdEdWMGVLcQ?oc=5",
    "published_utc": "2026-09-28T07:00:00+00:00",
    "title_original": "Citi sees Japan yen intervention likely near 160 per dollar By Investing.com",
    "region": "japan",
@@ -47030,7 +47065,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "92d721f54bcd14ff"
+   "id": "c26bda4186e2416f"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51903,40 +51938,6 @@
    "live_wire": false,
    "manual": false,
    "id": "33ce93d5e60872b3"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Outlook: Hawkish Fed Recalibration Pressures the Yen",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUFmS2c5ci05djI0X0Jtd25sMy02NlhDSWtfLUt2cXk0Tkl3UVZySlJEQm5MRWRxOWZ1YWc0UEVHQjR0aTNRc1l2T2JBUTZPYTdWY3BqVGlCclBKdDlpUHNKTEhadUlMLUk4TklRTWsyS1JTRU4yTVh5a2MyUWpkckgtZTdGWF8wTDYtN0pUR0YtXzlJeUt5Nk13S2h5N0F0dGd5UQ?oc=5",
-   "published_utc": "2026-09-24T06:37:00+00:00",
-   "title_original": "USD/JPY Outlook: Hawkish Fed Recalibration Pressures the Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9a415019fcf6c281"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Interview: Bank of Japan will raise interest rates every three months, policy rate will be set at 2% next June - Former Bank of Japan member Sakurai (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZGF0aXBtOW1RLXVxelBmRkhyZ0tPMUJGcGo0SWtmeTIzTkFoUmFHb0J5Y2VKeVA1ZGRieVJ5UG04VnBMTUx2ZlBGZDh4T081a013S3NhbnM3RGkzRFcza29ibU9OTEZ5cmI0U3ZLeGV1eXJ6YlZFNmtTWTF4OTA?oc=5",
-   "published_utc": "2026-09-24T06:30:08+00:00",
-   "title_original": "インタビュー：日銀は3カ月ごと利上げ、政策金利は来年6月に2％へ＝桜井元日銀委員（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "76954f3b843fcd76"
   },
   {
    "source_id": "manual_ia",
