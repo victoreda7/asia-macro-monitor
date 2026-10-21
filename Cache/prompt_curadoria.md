@@ -7,22 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T04:22:43.311443+00:00
+Última coleta: 2026-10-21T04:32:43.173806+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1036
-  🇨🇳 China          876
+  🇯🇵 Japão          1037
+  🇨🇳 China          875
   🇹🇼 Taiwan         350
   🇰🇷 Coreia do Sul  738
 
 ## O que já está no feed (não repita)
 
+  - [japan] Meiji Yasuda may buy as much as 1 trillion yen worth of yen bonds this year
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside
   - [korea] Korea's Core Inflation Acceleration Unlikely to Prompt Aggressive Rate Hike — Market Talk
   - [japan] Bank of Japan decides to reach 2% price level (Kyodo News)
   - [korea] Why is SK Hynix stock surging today?
   - [japan] Yomiuri: Japan's Carbon Fiber Manufacturers Expand to Robotaxis, Space
   - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
+  - [japan] Asia stocks rebound as SpaceX, Super Micro results lift chipmakers
   - [taiwan] TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
   - [china] Trump Open to Summit With Xi and Putin in China to Discuss Ukraine
   - [japan] Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to fe
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China September youth jobless rate at 18%
   - [japan] Satsuki Katayama: Japan Nears Shift to Sustained, Wage-Driven Inflation
   - [taiwan] Breaking AI's memory wall: former TSMC VP charts a path with HBM, optical links and 3D stacking
-  - [japan] Japan shifting to wage-driven inflation phase, finance minister says
-  - [korea] Nomura Raises Its Korea 3Q GDP Growth Forecast to 4.0% on Year — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T04:22:43+00:00",
+      "published_utc": "2026-10-21T04:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
