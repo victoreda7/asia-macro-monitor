@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T10:12:42.100740+00:00
+Última coleta: 2026-10-21T10:22:44.673682+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Esteve More Than $80 Million Invested To Expand And Strengthen Esteve Cdmo's Manufacturing Capabilities In Chi
   - [china] PBOC's Potential Shift to Overnight Policy Rate Appears Supportive for China Bonds — Market Talk
   - [china] Wens Foodstuff Says Q3 Net Loss At 595.5 Million Yuan
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Capybobo: PYBOBO begins KRW trading on Bithumb - 21 Oct 2026
   - [china] China signals intent to push back against cleantech tariffs at COP31
   - [japan] BOJ’s Himino signals readiness to raise borrowing costs
-  - [japan] Japan’s trade gap widens despite 13-month export growth streak
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T10:12:42+00:00",
+      "published_utc": "2026-10-21T10:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
