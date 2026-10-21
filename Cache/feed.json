@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-21T07:32:44.241209+00:00",
- "collected_at_utc": "2026-10-21T07:32:44.241209+00:00",
+ "generated_at_utc": "2026-10-21T07:42:43.038494+00:00",
+ "collected_at_utc": "2026-10-21T07:42:43.038494+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,15 +11,15 @@
   "taiwan": 351,
   "korea": 744
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 46,
+   "error": "",
+   "newest": "2026-10-16T17:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T06:05:00+00:00"
+   "newest": "2026-10-21T06:17:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T03:00:04+00:00"
+   "newest": "2026-10-21T03:01:36+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T07:07:30+00:00"
+   "newest": "2026-10-21T03:50:51+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-21T16:09:17+00:00"
+   "newest": "2026-10-21T16:32:55+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T23:52:00+00:00"
+   "newest": "2026-10-21T07:34:11+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T15:59:51+09:00"
+   "newest": "2026-10-21T16:35:58+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T05:16:00+00:00"
+   "newest": "2026-10-21T04:49:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T07:31:19+00:00"
+   "newest": "2026-10-21T07:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T06:50:06+00:00"
+   "newest": "2026-10-21T07:00:12+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZU5HSVRwcUU5bUYyaFNBTzNpUVZsZm5ROFE0VngyMEZyZmdpT0xFaFN0ODItanhJWHAxdlhXUFZpeXFaUU0yLXVYbzZQODRPSXJaYXFWbk5KUQ?oc=5",
+   "published_utc": "2026-10-21T07:34:11+00:00",
+   "title_original": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7556bcad4f5f915"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -760,6 +777,23 @@
    "id": "7f4a0e9448428010"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "TSMC Pauses Some Taiwan Construction After Mishap Kills Four",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkVlcDRmU3BNa0pDOVpNeXlGdGRFTWNxTWx0MXJzbXV6ZDRZZXp0YnNZeXp1eXNobkNtbndQYWcybjRrWlA5NkowN2p4dzdYWDZzVFZDQWZTM2NScUdyQ3VIbWx0UjRXTWsyelY3WkFiQ0JEbDJ2MW9FRUtUODBtdzRwWUVPdlR1NFRYeFlDc29DVmZERE5KVUctVTYtWXRROGx5ci1wR3FCR3pib1lUdUZfRE9Udw?oc=5",
+   "published_utc": "2026-10-21T04:19:00+00:00",
+   "title_original": "TSMC Pauses Some Taiwan Construction After Mishap Kills Four",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0bef40b94092862b"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Korea's Core Inflation Acceleration Unlikely to Prompt Aggressive Rate Hike — Market Talk",
@@ -828,23 +862,6 @@
    "live_wire": true,
    "manual": false,
    "id": "fcc35415ea3abcf4"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "TSMC Pauses Some Taiwan Construction After Mishap Kills Four",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkVlcDRmU3BNa0pDOVpNeXlGdGRFTWNxTWx0MXJzbXV6ZDRZZXp0YnNZeXp1eXNobkNtbndQYWcybjRrWlA5NkowN2p4dzdYWDZzVFZDQWZTM2NScUdyQ3VIbWx0UjRXTWsyelY3WkFiQ0JEbDJ2MW9FRUtUODBtdzRwWUVPdlR1NFRYeFlDc29DVmZERE5KVUctVTYtWXRROGx5ci1wR3FCR3pib1lUdUZfRE9Udw?oc=5",
-   "published_utc": "2026-10-21T03:51:00+00:00",
-   "title_original": "TSMC Pauses Some Taiwan Construction After Mishap Kills Four",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0bef40b94092862b"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3556,7 +3573,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rate in October” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeHFCMzN0Q0lIb0JIWkRBWTRad0FSTmZtSnJrVkYxQ3lFWHZJcmk2VjhfaUJ0SzRWS3RuUUt5NDZQbzhod1BweEhEQWt2ZmNacW1FLS1MQ2x6NWQ5MHlSX1N3OS1uNm1a0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DelR0Q0VYLV9HcGJjb21nV2VaSEtyZkVCVzRIaEstc1FjQTAxQTgweDYySXdwLTJmX0l5N0ZwYk4tUWppd29SaFRoNmQxT1hRQ2RtN09FbjNwc3lwanY5M1FpdlV1eXNNd1JXQUNR0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
    "published_utc": "2026-10-20T05:34:46+00:00",
    "title_original": "채권시장 종사자 93% \"10월 한은 금통위, 기준금리 동결할 것\" - 머니투데이",
    "region": "korea",
@@ -3568,14 +3585,14 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f458f88af40eac09"
+   "id": "a635a4e49fd3df7b"
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
+   "source_name": "东方财富",
    "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEJxeWs2dEotVk5yQ1JIZHp6SVFrb2RrZFFFS0M2a05DVzNHN1RhVHFhSXVSQVpjV3Q5b2dpa2wyM2hLWWR0TnJHV2o3TjhnenN3ZzBLWTlfR3FiVTEyZnNmcjY1djAzc1FUWG9FbzZwVDYxV2VmQWlqWXM2Nnh3by1yMDRMN3ZSOWRCQmdNZw?oc=5",
-   "published_utc": "2026-10-20T05:14:17+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrNWowR1N3bVB6UVhIejF2MzI5LW9BbENpZVVfb1hMUXZhWHJGS3lWR2hyd1FkYVZXZ3BxRW9Gd3NxRTFWdWEwY0VnWjJNaFYwWlhvU19saEtKSUNlU0thSw?oc=5",
+   "published_utc": "2026-10-20T05:18:49+00:00",
    "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
    "region": "china",
    "topics": [
@@ -3585,7 +3602,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "698649e477d3ce6f"
+   "id": "c5947fbecfc0585f"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4942,7 +4959,7 @@
    "id": "c480d192b0a95eb3"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China's economic growth picks up as exports boom, consumers balk",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI?oc=5",
@@ -4957,7 +4974,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "a317f6021539bdf1"
+   "id": "f50dbd1d5aa70e31"
   },
   {
    "source_id": "tradingview_live",
@@ -6991,6 +7008,23 @@
    "id": "1fa3cbe4c58142f8"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "YTN",
+   "title_en": "Bank of Korea decides base interest rate this week...market expected to freeze",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FYUpMVGRZWThuTFNlR2ZnR0loRFRMUTNWbmF2OFFFbHZvQVpRbC1kSzZxdVc0YUhNc292SG9qQ2pYNHBOdDlpWk5PTGkzUU9KQ3g4T2xlUWExWnNPLUE?oc=5",
+   "published_utc": "2026-10-18T13:10:00+00:00",
+   "title_original": "한은, 이번 주 기준금리 결정...시장은 동결 전망",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0630db66fbbc193c"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "BOK to pause before November hike; rates to peak at 3.50%: survey",
@@ -7145,23 +7179,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fe00a26371f94934"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "YTN",
-   "title_en": "Bank of Korea decides base interest rate this week...market expected to freeze",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xaWZsMHFMa1ozMy1oelFFZDhDV3FjZzRYTnJUak0zMmduOHg1Uk96MDNVbmR2SUVfNTBtdmwxNW1TcTJNRVdKZzljdGNWTVFoUkxWMG9hTnA2bWpGMWxZV1Z3SXNkVWhzR2dORkVLUkZNMk1pZGc?oc=5",
-   "published_utc": "2026-10-18T09:17:00+00:00",
-   "title_original": "한은, 이번 주 기준금리 결정...시장은 동결 전망",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e2d338b61587629e"
   },
   {
    "source_id": "tradingview_live",
@@ -51930,23 +51947,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8c2dc659bb9f76eb"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Manufacturing Growth at 7-Month Low",
-   "url": "https://www.tradingview.com/news/te_news:586271:0-japan-manufacturing-growth-at-7-month-low/",
-   "published_utc": "2026-09-24T00:35:04+00:00",
-   "title_original": "Japan Manufacturing Growth at 7-Month Low",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d09d61430225ec8e"
   },
   {
    "source_id": "manual_ia",
