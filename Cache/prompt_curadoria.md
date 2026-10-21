@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T01:02:42.154732+00:00
+Última coleta: 2026-10-21T01:12:42.712639+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1032
   🇨🇳 China          891
-  🇹🇼 Taiwan         350
-  🇰🇷 Coreia do Sul  727
+  🇹🇼 Taiwan         349
+  🇰🇷 Coreia do Sul  728
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan shifting to wage-driven inflation phase, finance minister says
+  - [korea] Nomura Raises Its Korea 3Q GDP Growth Forecast to 4.0% on Year — Market Talk
+  - [japan] Japan’s export growth stays solid, AI-chip trade and cars aid rise
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [japan] Japan’s September exports rise 16.7%, helped by chip demand By Reuters
   - [korea] South Korea October 1-20 exports surge 105% on record chip sales
   - [korea] Bank of Korea Expected to Stand Pat Thursday, Poll Shows — Market Talk
-  - [japan] Japan shifting to wage-driven inflation phase, finance minister says
   - [china] China uses crude stockpiles, but rising oil imports may curtail draws: Russell
   - [japan] Japan posts bigger-than-expected trade deficit in Sept as export growth slows
   - [japan] Japan’s September exports rise 16.7%, helped by chip demand
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Even the legendary man who transformed Shanghai and Chongqing was taken away... The shadow of China's economy,
   - [japan] Consumption tax reduction bill: Opposition parties offer counterproposals, ruling party seeks compromise to en
   - [japan] Will AI really push up long-term interest rates? The key is the difficult issue of determining whether product
-  - [japan] Japan oil refiner Idemitsu to import non-Mideast LNG
-  - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T01:02:42+00:00",
+      "published_utc": "2026-10-21T01:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
