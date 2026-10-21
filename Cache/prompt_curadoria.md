@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T07:02:44.588497+00:00
+Última coleta: 2026-10-21T07:12:45.340085+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1034
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] The Takaichi administration should present a "Plan B" for fiscal policy...A plan that says "achieving high gro
   - [korea] Samsung Biologics Co., Ltd. Q3 Rev KRW 1.49T; Lifts 2026 Growth Guide to 20%
   - [korea] South Korean shares post biggest gain in 6 weeks as chipmakers rebound
   - [korea] Ryukil C&S To Acquire Real Estate Worth 25 Billion Won
@@ -38,11 +39,11 @@ Total: 3000 manchetes
   - [japan] Meiji Yasuda may buy as much as 1 trillion yen worth of yen bonds this year
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Cut to KRW 3203919.5, Implies 162% Upside
   - [japan] BREAKING NEWS: BOJ to decide in next meeting whether 2% inflation rate reached
-  - [taiwan] TSMC Pauses Some Taiwan Construction After Mishap Kills Four
   - [korea] Korea's Core Inflation Acceleration Unlikely to Prompt Aggressive Rate Hike — Market Talk
   - [japan] Bank of Japan decides to reach 2% price level (Kyodo News)
   - [korea] Why is SK Hynix stock surging today?
   - [japan] Yomiuri: Japan's Carbon Fiber Manufacturers Expand to Robotaxis, Space
+  - [taiwan] TSMC Pauses Some Taiwan Construction After Mishap Kills Four
   - [japan] Asia stocks rebound as SpaceX, Super Micro results lift chipmakers
   - [taiwan] TSMC and others turn LCD plants into AI assets as LG Innotek weighs acquisition
   - [china] Trump Open to Summit With Xi and Putin in China to Discuss Ukraine
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's yuan touches new high since 2022 on weaker dollar, export resilience
   - [china] China September Power Consumption Up 1.2% Y/Y - National Energy Administration
   - [japan] Yen Holds Steady Amid Sluggish Export Growth
-  - [korea] Corporate profits, debts improve in 2025: BOK
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T07:02:44+00:00",
+      "published_utc": "2026-10-21T07:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
