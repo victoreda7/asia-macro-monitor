@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T00:32:42.782869+00:00
+Última coleta: 2026-10-21T00:42:42.938757+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1029
-  🇨🇳 China          890
+  🇨🇳 China          892
   🇹🇼 Taiwan         350
-  🇰🇷 Coreia do Sul  731
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
+  - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
+  - [korea] South Korea October 1-20 exports surge 105% on record chip sales
+  - [korea] Bank of Korea Expected to Stand Pat Thursday, Poll Shows — Market Talk
   - [china] China uses crude stockpiles, but rising oil imports may curtail draws: Russell
   - [japan] Japan posts bigger-than-expected trade deficit in Sept as export growth slows
+  - [japan] Japan’s September exports rise 16.7%, helped by chip demand
   - [japan] Japan's Exports Continued to Rise in September Amid AI Boom
   - [japan] JAPAN SEPT EXPORTS POST 13TH STRAIGHT Y/Y RISE
-  - [japan] Japan's September exports rise 16.7%, helped by chip demand
   - [japan] JAPAN SEPT EXPORTS TO CHINA +8.6% Y/Y, 7TH STRAIGHT RISE (AUG REVISED +20.5%) LED BY CHIP-MAKING EQUIPMENT, RA
   - [japan] MNI: JAPAN SEPT EXPORTS +16.7% Y/Y; AUG +19.3%
   - [japan] JAPAN SEPT EXPORTS TO EU +10.5%, 14TH STRAIGHT RISE (AUG +11.0%) , LED BY AUTO, SHIPS, DRUGS
@@ -44,8 +47,8 @@ Total: 3000 manchetes
   - [japan] BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll By Reuters
   - [china] Why more Chinese firms are eyeing Thailand over Vietnam after trade war 2.0
   - [japan] BOJ to raise rates to 1.50% in December, sticking to quarterly pace
+  - [china] Commerzbank: The central bank’s policy interest rate shifts to overnight reverse repurchase, and the RMB will 
   - [korea] South Korea Producer Inflation Eases Slightly
-  - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [china] Even the legendary man who transformed Shanghai and Chongqing was taken away... The shadow of China's economy,
   - [japan] Consumption tax reduction bill: Opposition parties offer counterproposals, ruling party seeks compromise to en
   - [japan] Will AI really push up long-term interest rates? The key is the difficult issue of determining whether product
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan budget hotels ramp up overseas push with public baths, free breakfast
   - [japan] Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs data
   - [korea] BOK Financial Q3 2026 slides: margin expansion offsets fee pressure
-  - [korea] BOK Financial Corp reports results for the quarter ended September 30 - Earnings Summary
-  - [korea] BOK Financial Q3 2026 Earnings Call Is Live
-  - [korea] Injective, BDACS plan Korean won stablecoin settlement for tokenized assets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T00:32:43+00:00",
+      "published_utc": "2026-10-21T00:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

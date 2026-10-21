@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T00:32:42.782869+00:00",
- "collected_at_utc": "2026-10-21T00:32:42.782869+00:00",
+ "generated_at_utc": "2026-10-21T00:42:42.938757+00:00",
+ "collected_at_utc": "2026-10-21T00:42:42.938757+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1029,
-  "china": 890,
+  "china": 892,
   "taiwan": 350,
-  "korea": 731
+  "korea": 729
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T00:11:08+00:00"
+   "newest": "2026-10-21T00:32:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T00:00:22+00:00"
+   "newest": "2026-10-21T00:18:22+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-20T19:28:52+00:00"
+   "newest": "2026-10-21T09:40:51+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 24,
    "error": "",
-   "newest": "2026-10-20T13:27:00+00:00"
+   "newest": "2026-10-20T21:28:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T00:30:51+00:00"
+   "newest": "2026-10-21T00:39:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T18:40:09+00:00"
+   "newest": "2026-10-20T21:44:10+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T23:51:23+00:00"
+   "newest": "2026-10-21T00:32:05+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,58 @@
  ],
  "items": [
   {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Producer prices up for 2nd month in Sept. on higher prices of agricultural goods",
+   "url": "https://www.koreaherald.com/article/10909510",
+   "published_utc": "2026-10-21T00:42:41.972348+00:00",
+   "title_original": "Producer prices up for 2nd month in Sept. on higher prices of agricultural goods",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8c918b5047fbbf36"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea October 1-20 exports surge 105% on record chip sales",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46700B:0-south-korea-october-1-20-exports-surge-105-on-record-chip-sales/",
+   "published_utc": "2026-10-21T00:33:09+00:00",
+   "title_original": "South Korea October 1-20 exports surge 105% on record chip sales",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fe7d79d20769fb6e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Bank of Korea Expected to Stand Pat Thursday, Poll Shows — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261020010719:0-bank-of-korea-expected-to-stand-pat-thursday-poll-shows-market-talk/",
+   "published_utc": "2026-10-21T00:33:00+00:00",
+   "title_original": "Bank of Korea Expected to Stand Pat Thursday, Poll Shows — Market Talk",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "25967b51bf83b802"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China uses crude stockpiles, but rising oil imports may curtail draws: Russell",
@@ -361,11 +413,11 @@
    "id": "7aa9d03d4b93a196"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
    "title_en": "Japan posts bigger-than-expected trade deficit in Sept as export growth slows",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLU5NekZRdU9KS2xWc3hzcVEzMlA1QWpWS2JiN29mTE9jYmZCVDhKNDgzbUlSaVBGOWpVSWttTjBLVG5qSlNHdkdOQ0tWQzJWLTN0bWlHdGc3eE5GcEtsbGVWd0dQaU1aRnhST3ZvT0szb1JTXzlGSHlOUTM2Y2VRNFdENElYb3BTb2RVcjkwRER1SGVtYWE2VmFabnNUOGFCakduU0l3UDVnRV9zV2E4M2YtN0N3dGtRX2p1eWJQUkoxSF94a0pHWTg2ZlZLZw?oc=5",
-   "published_utc": "2026-10-21T00:28:00+00:00",
+   "url": "https://www.investing.com/news/economic-indicators/japan-posts-biggerthanexpected-trade-deficit-in-sept-as-export-growth-slows-4961413",
+   "published_utc": "2026-10-21T00:26:59+00:00",
    "title_original": "Japan posts bigger-than-expected trade deficit in Sept as export growth slows",
    "region": "japan",
    "topics": [
@@ -374,9 +426,27 @@
    ],
    "lang_original": "en",
    "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1c369d0d6031e817"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan’s September exports rise 16.7%, helped by chip demand",
+   "url": "https://www.investing.com/news/economy-news/japans-september-exports-rise-167-helped-by-chip-demand-4961405",
+   "published_utc": "2026-10-21T00:18:22+00:00",
+   "title_original": "Japan’s September exports rise 16.7%, helped by chip demand",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "3a2b9fe91784cecc"
+   "id": "f42922c80489cc86"
   },
   {
    "source_id": "tradingview_live",
@@ -411,24 +481,6 @@
    "live_wire": true,
    "manual": false,
    "id": "dd68bf2f80b716cd"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's September exports rise 16.7%, helped by chip demand",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N467001:0-japan-s-september-exports-rise-16-7-helped-by-chip-demand/",
-   "published_utc": "2026-10-21T00:10:03+00:00",
-   "title_original": "Japan's September exports rise 16.7%, helped by chip demand",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "28adefb8323a4269"
   },
   {
    "source_id": "tradingview_live",
@@ -815,6 +867,24 @@
    "id": "38754b0cf8454bbc"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "Commerzbank: The central bank’s policy interest rate shifts to overnight reverse repurchase, and the RMB will still appreciate gradually_Hot Spot Tracking",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mMzlHTzFoRlIyNnRUSmlLLW5sVWxrbGpvZW1qTnFYckRXV3NSNWZJeHREZWxiZDlPYXBiU1B5RThzSmpFVnJaT2k3WTJYaFliVGdiOHE0LUlmaXltY3p5cXV3?oc=5",
+   "published_utc": "2026-10-20T21:28:00+00:00",
+   "title_original": "德商银行：央行政策利率转向隔夜逆回购人民币仍将渐进升值_热点追踪",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "82742cd16b6d1943"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "South Korea Producer Inflation Eases Slightly",
@@ -830,23 +900,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4a1dd3137456dd1e"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Producer prices up for 2nd month in Sept. on higher prices of agricultural goods",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ELXEwbUNWQ0dCeGJmd0NLRDBpODJ3WV84aVFZS3QxRW1zUnlPNlZVaE5SWDRMZVFSU0RqLVMtU0ZQRUxwQjRTYXkyZTh5OFN3OTI5d21sRGhtdw?oc=5",
-   "published_utc": "2026-10-20T21:00:13+00:00",
-   "title_original": "Producer prices up for 2nd month in Sept. on higher prices of agricultural goods",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7ded74758824a8b4"
   },
   {
    "source_id": "toyo_keizai",
@@ -1453,6 +1506,23 @@
    "id": "7d9f45dfeb6b88e6"
   },
   {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China Steps Up AI Investment With $9 Billion Fund Backing Model Developers",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS0c1OWJ5Vi1SRFR2aUxOV05SN0hjTG5YTUUxcnc1UXR4MnFpMmtvYWNlaV9sSlZWS2hMQW9TcGVRNGtxVF9tcmZoYjdjZzJWbjNtZTA5SDV5WV81WmFaeUNvQ182RUZqd29XT1lhajJmTnFiNk9uc2xtaFduMzFwUWJGUWhVZ1NEY1RkOUFidmZLVmhOU0hycTNjclVoN3hKT2NlNmZGR1d0ZTFxTTVzM1JDQTIzM3dzSVo0TmQ3VTM5c1cyS2JR?oc=5",
+   "published_utc": "2026-10-20T10:37:00+00:00",
+   "title_original": "China Steps Up AI Investment With $9 Billion Fund Backing Model Developers",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "84fbeedad52082d4"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "London Metal Exchange CEO affirms support for use of yuan",
@@ -1743,6 +1813,23 @@
    "id": "4b18ba052300649f"
   },
   {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s Central Bank Plans Shift to Overnight Rate as Key Policy Benchmark",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcGQyVnB2eFhvcG16MFRBRDM4Z0JzQU1seGEwQmE4Nm1UUmxBZE9HS1hlSDVORWZ1Q3dnYW5vRkFmbVROWTllbjJrdkFtLU1MTk80dmNlZU5iVndZck10M1RQRzhRTExidEpaMkNUbldzZGFEWHVmdE9zSXNyYW1tbTUtQlJUa083V2dYZklHbXJidzd6ZGVtQ3JfT2s5eDJnTXhTZXk2NXFTNUJ2MXByLXYzbGcwYS1ZVkplN1hud3RQWlVsSVFz?oc=5",
+   "published_utc": "2026-10-20T08:32:00+00:00",
+   "title_original": "China’s Central Bank Plans Shift to Overnight Rate as Key Policy Benchmark",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f6d57d8ff96a7de0"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "The import concentration is intensifying from the single-person media industry such as YouTubers to",
@@ -1952,6 +2039,23 @@
    "id": "70e124fbcd6d9970"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스",
+   "title_en": "Bank of Korea freezes base interest rate... Possibility of further increase within the year",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oQkozQk9taG9KQW1Jb2ZJZnFFWDd5d0F6ZzNqZVdYaXZVc0FzVWRtWV9wcTFpWDVkQXR5TG5mbVRuX08tc0VTTUJqT2Vkd3RYUVk5Y2RyVFlKdUtkZng2b9IBYEFVX3lxTE9oQkozQk9taG9KQW1Jb2ZJZnFFWDd5d0F6ZzNqZVdYaXZVc0FzVWRtWV9wcTFpWDVkQXR5TG5mbVRuX08tc0VTTUJqT2Vkd3RYUVk5Y2RyVFlKdUtkZng2bw?oc=5",
+   "published_utc": "2026-10-20T07:11:21+00:00",
+   "title_original": "한은, 기준금리 동결 무게…연내 추가 인상 가능성",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a3d9333e0d776adf"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
@@ -1967,23 +2071,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d76f0c85953e42e8"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "연합뉴스TV",
-   "title_en": "Bank of Korea freezes base interest rate... Possibility of further increase within the year",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qdTE2cEJIN0M1VHpncXRkSnBvNjBISmVBX3g4ZWw3QVhyUE5aLU5LZjdxSWRUMW1MZVRPQ2RObUhzWTNPOUNhWHpoRnE3SVVjT0FaOEFJbFdDUjNwSGUteFRTOFFQZzA?oc=5",
-   "published_utc": "2026-10-20T07:11:00+00:00",
-   "title_original": "한은, 기준금리 동결 무게…연내 추가 인상 가능성",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e6d1c7ea76445882"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2126,23 +2213,6 @@
    "live_wire": false,
    "manual": false,
    "id": "55ab5d52d5e4ba42"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "同花顺",
-   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kR0FIVmczN2RpcjV0MHdObWZCQU9DVThDekt0ampvNXR5ejAyUVE0Zm5hVWtPa1lkLTZzM2djay1QM3FmUmphejhKZktsVXhnSnJhbFI2bG9vODExa0E?oc=5",
-   "published_utc": "2026-10-20T06:27:38+00:00",
-   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b9fbd044006af956"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2377,10 +2447,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观察者网",
+   "source_name": "搜狐网",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
-   "published_utc": "2026-10-20T05:07:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFd1WDlURjRRNVRMenAyU1hkTGhjYlM1bEZJUW0wT2NpbDVMVzhzLXE5alJ2allYUVVJS2tnUUxOdWlSLTNLS2hmQ3dHSDNNOGtWVTFWejFKMTR0SDVzeVB3VjE5a3FCc2tEb3NZd2txSEpjOEw5YXVJXzlqeC1reWU0QV9oUUhWQlA4?oc=5",
+   "published_utc": "2026-10-20T05:07:29+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -2390,7 +2460,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50e1092b7ea2ed64"
+   "id": "94e53c32e7d82fda"
   },
   {
    "source_id": "gn_jp_investing",
@@ -2428,10 +2498,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "搜狐",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
-   "published_utc": "2026-10-20T04:37:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
+   "published_utc": "2026-10-20T04:46:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -2442,7 +2512,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "113a63c4f4301728"
+   "id": "6b8b7943e562e9e1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2461,6 +2531,23 @@
    "live_wire": false,
    "manual": false,
    "id": "94948b0310f08f53"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vZDB1N2tzLWE0SW1aRHFzejRiOGZNMUQyQ3Y0QjY0Q01HTUtDT3J4aU10c0JVb3BaYWRvOWg4Y1JrMG9hMTZMN2M2MU16Rzh6NnhCVnROQ21fSmxWWVRzdg?oc=5",
+   "published_utc": "2026-10-20T04:35:40+00:00",
+   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8c0255988d518ffc"
   },
   {
    "source_id": "nhk_politics",
@@ -3244,6 +3331,24 @@
    "live_wire": false,
    "manual": false,
    "id": "07559769ddfc8910"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "자본시장뉴스",
+   "title_en": "[Preview of the Monetary Policy Committee] Bank of Korea freezes this month... November's raise card remains",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3azRpYWxCOGZJbkVXaW9QZWV3emx3NFF0cC1EZ0FyOEVLa3k3TkxtM0RvV1BudEhSTUFzWkhWSF9GTjhfTmx1amlFbEpxLWNsblVBSENnY04zTGRQVXJCWTExNENsWmc?oc=5",
+   "published_utc": "2026-10-19T18:47:43+00:00",
+   "title_original": "[미리보는 금통위] 한국은행 이달 동결 무게…11월 인상 카드는 남았다",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d609174fc55c119b"
   },
   {
    "source_id": "tradingview_live",
@@ -4244,6 +4349,23 @@
    "live_wire": false,
    "manual": false,
    "id": "cc1e7cc7a89672d8"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s Third-Quarter GDP Growth Edges Up to 4.5%",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa2ZiekUtOE9CZlY1Ym1zUHh4ZDRCTm9ZdkI2aGVTdHRWYmlXdkEyLVFPRm4xQ1hqWjF6SGZ1Tko0SHhMQlpwYW1GLTdJVFZCdFhHMHAzeTFJVjRfdElEd3p2TFdxUlNZcXVCcndaVWxuTGJRLXF2elhlSG9PbTdrRW1ZcFFaVzEyakt6c1FLcXBNbEQ5WXVoTHA2TzRxQXFpUTNz?oc=5",
+   "published_utc": "2026-10-19T07:43:00+00:00",
+   "title_original": "China’s Third-Quarter GDP Growth Edges Up to 4.5%",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "35ef5f7e8e2f411c"
   },
   {
    "source_id": "focus_taiwan",
@@ -6449,24 +6571,6 @@
    "live_wire": true,
    "manual": false,
    "id": "857c78e9595747ae"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "자본시장뉴스",
-   "title_en": "[Preview of the Monetary Policy Committee] Bank of Korea freezes this month... November's raise card remains",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3azRpYWxCOGZJbkVXaW9QZWV3emx3NFF0cC1EZ0FyOEVLa3k3TkxtM0RvV1BudEhSTUFzWkhWSF9GTjhfTmx1amlFbEpxLWNsblVBSENnY04zTGRQVXJCWTExNENsWmc?oc=5",
-   "published_utc": "2026-10-18T03:00:00+00:00",
-   "title_original": "[미리보는 금통위] 한국은행 이달 동결 무게…11월 인상 카드는 남았다",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d609174fc55c119b"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51847,110 +51951,6 @@
    "live_wire": false,
    "manual": false,
    "id": "173572d249bb696b"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "OECD raises S. Korea's 2026 growth forecast to 3.7 pct",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JaE1JSE1CQTU4VUJoSHZIeUdxOE9DX25hcElPYkNXX2VBclgzUVFzRWNPTjdGV2p2ZXNrV01yYlhhLWVHaTcxeTdqQ0FuWFNmcGZBcDZyS0pSQQ?oc=5",
-   "published_utc": "2026-09-23T07:00:00+00:00",
-   "title_original": "OECD raises S. Korea's 2026 growth forecast to 3.7 pct",
-   "region": "korea",
-   "topics": [
-    "activity",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c163b50cd5e06fba"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix jump on U.S. tech gains",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wRFVFbEpmMF8yVUhMdG5KMXJyVGtKaktEV1N1dEpBWVNZTUxBX3JrNDZ6R0wyRG9tYVZGU3lyMVp2YVVtVVVEYVhNeWtOREJ6X0Fyb2Nwaw?oc=5",
-   "published_utc": "2026-09-23T07:00:00+00:00",
-   "title_original": "Samsung Electronics, SK hynix jump on U.S. tech gains",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "637a337dddb81d08"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "U.S. President Donald Trump has been supporting a ban on exports of diesel from the U.S. As public s..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwVVVNY3pWOE1YX09mR0ZBSWN2WmZINk1ZdWFvaExoVWM2VzZDOTg5Qk5PendIUDFLLUxQWHRMRUU5U3JCTl9JbkxYUkJxazg?oc=5",
-   "published_utc": "2026-09-23T06:44:00+00:00",
-   "title_original": "U.S. President Donald Trump has been supporting a ban on exports of diesel from the U.S. As public s..",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "518bff13fc303f08"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Kospi Rises for Fourth Consecutive Session; Chip Stocks Advance",
-   "url": "https://www.tradingview.com/news/DJN_DN20260923000864_20260923000894:0/",
-   "published_utc": "2026-09-23T06:33:00+00:00",
-   "title_original": "Kospi Rises for Fourth Consecutive Session; Chip Stocks Advance",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9d19c6b294ce0dd1"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Digital yuan push quickens as Ant International spurs instant cross-border flows",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU29pV0N1OGVQcHlkT1dqYVpMaU5hc1JpYTYyWFo0TGd1X3VVNnF6dkpBUHhXWHJ5Y1ZsY1NuVU9peGM0a2Y1akw3R1VITXJDSXB6aGtocGd4YUJwNUI0NFZLSFplUnZCaHRTcGkwZnRiMDA5aFpCRE8xaWRfdktnOFMzZmVkT1JNY1pGQkluTW9MRnJsdWNJV0k1VkhnYU1CQ2xNbEM3NVJnM01TTE5xVldCb2tJcjAwM25ndl9DMHBzQVZGcm9hUWNaVTQ4bnVGTlpHTW1zc9IB1wFBVV95cUxQT0hsWjBHSW42clJoMElfSm5ZN1Uxak1KclVWaUJWWk1GQzNtaUxManVxc0VYT3AyLUtwVEhrVUZXcjBBc01LdXAyeC1ncGpCX2lsWUlNZXF5VmpGcHF3aktrb0VIeS1tdFl6UExERFhsYTNyMDZtTlc4aFlLR0thbEIyc2xjakhVQl9fbllKVGdMZHlDZjdFOHNkMTJkbnRCdUpRWURQb0o4YWdYcUQ4X3lhSnBXZmV4bjFzZUJRNEV0aERKUnFYdnlPUm5YOGVNNFVySnlKRQ?oc=5",
-   "published_utc": "2026-09-23T06:11:18+00:00",
-   "title_original": "Digital yuan push quickens as Ant International spurs instant cross-border flows",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "75057dae6d4653c1"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "Central Bank: 800 billion yuan MLF operation will be carried out on September 24",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vVTJKLXNkdE1MeE9VZ2JRRTNFQ1lTMXdhSEplYUJkbDhkck1lWnBObFMyZDhGRjRWa2x5Mnl2SHgzbzlhM2dvUXhFeWZ4ejJyM0JhYnduTmE2WC1BbWp2aUsyVmFnQQ?oc=5",
-   "published_utc": "2026-09-23T05:41:50+00:00",
-   "title_original": "央行：9月24日将开展8000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e7d4c1789421ac22"
   },
   {
    "source_id": "manual_ia",
