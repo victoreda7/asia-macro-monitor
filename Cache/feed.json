@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T16:02:43.772975+00:00",
- "collected_at_utc": "2026-10-21T16:02:43.772975+00:00",
+ "generated_at_utc": "2026-10-21T16:12:44.075083+00:00",
+ "collected_at_utc": "2026-10-21T16:12:44.075083+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1024,
+  "japan": 1023,
   "china": 874,
   "taiwan": 358,
-  "korea": 744
+  "korea": 745
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T09:18:53+00:00"
+   "newest": "2026-10-21T14:39:12+00:00"
   },
   {
    "source_id": "ked_global",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T16:00:40+00:00"
+   "newest": "2026-10-21T16:12:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOK Financial Price Target Cut to $141.00/Share From $148.00 by Stephens & Co.",
+   "url": "https://www.tradingview.com/news/DJN_DN20261021006844:0-bok-financial-price-target-cut-to-141-00-share-from-148-00-by-stephens-co/",
+   "published_utc": "2026-10-21T15:59:00+00:00",
+   "title_original": "BOK Financial Price Target Cut to $141.00/Share From $148.00 by Stephens & Co.",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3fc50b66fd9a91d2"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -1599,23 +1616,6 @@
    "live_wire": false,
    "manual": false,
    "id": "64dc13c2cc1b7769"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Japan’s trade gap widens despite 13-month export growth streak",
-   "url": "https://www.tradingview.com/news/seekingalpha:a39ebd3c5094b:0-japan-s-trade-gap-widens-despite-13-month-export-growth-streak/",
-   "published_utc": "2026-10-21T04:37:54+00:00",
-   "title_original": "Japan’s trade gap widens despite 13-month export growth streak",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "22a9ac6f332ad252"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -13008,23 +13008,6 @@
    "id": "bc95c5f9de95e7c9"
   },
   {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ucll6M0tRbXZvV3V1YVdlb3VONlAxbFZlSVFrd00tNklITkU3eEVON2lYRXcxYW44eXNRclR0eF9helZDZVJSd0FnNlhReVRTRzkxaHdFZTVjRWVabFJLaFF1aF8yTWpXLThzZkJ1WTZCNlZwT3c?oc=5",
-   "published_utc": "2026-10-15T10:53:00+00:00",
-   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3fa8d36118a2fe2b"
-  },
-  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Tech sell-off gathers pace as chipmakers hammered By Reuters",
@@ -13670,6 +13653,23 @@
    "live_wire": false,
    "manual": false,
    "id": "858b64fc398f2573"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "South Korea, Japan extend $10 billion currency swap for three years",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YbDdCM0dWdWNvamRaZ2ZWNENRV1ZXNFFFSnIxMEhyejRTVmRtVVVUOHE0a29qbi1ObWNaMFdoZDZuTUJ2MndKZkFyVlA1NmpKemNjX0FUUGFuS0F2RlE?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "South Korea, Japan extend $10 billion currency swap for three years",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5dd8f23c892dc681"
   },
   {
    "source_id": "yahoo_business",
