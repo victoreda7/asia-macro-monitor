@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T08:02:43.913547+00:00
+Última coleta: 2026-10-21T08:12:42.605572+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
+  🇯🇵 Japão          1031
   🇨🇳 China          871
-  🇹🇼 Taiwan         352
+  🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
   - [china] Indonesia's central bank keeps its benchmark interest rate unchanged and lowers bank deposit reserve ratios
   - [taiwan] Rising Risk of Taiwan Central Bank Rate Hike — Market Talk
+  - [japan] BOJ to decide at next week's meeting whether 2% inflation target reached: sources
   - [japan] BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.
   - [japan] Japan futures slip as yen jumps, cost support seen easing
+  - [taiwan] Taiwan semiconductor electricity use hits record high in Sept.
   - [japan] The Takaichi administration should present a "Plan B" for fiscal policy...A plan that says "achieving high gro
   - [korea] Samsung Biologics Co., Ltd. Q3 Rev KRW 1.49T; Lifts 2026 Growth Guide to 20%
+  - [taiwan] Death toll in TSMC Kaohsiung construction accident rises to 4
   - [korea] South Korean shares post biggest gain in 6 weeks as chipmakers rebound
   - [japan] Will the Bank of Japan decide to reach the 2% price level? (NRI researcher's commentary on current events)
   - [korea] Ryukil C&S To Acquire Real Estate Worth 25 Billion Won
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Trump Open to Summit With Xi and Putin in China to Discuss Ukraine
   - [korea] Samsung, SK Hynix Shares Soar 7%: Korea Chip Recovery Driven by 222% Surprise
   - [japan] Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to fe
-  - [korea] Axcelis plans US$35 million semiconductor facility in South Korea
-  - [korea] South Korea to ease fuel supply rules, let refiners boost exports, Lee says
-  - [taiwan] Micron faces potential Taiwan strike, union cites Samsung, SK Hynix profit-sharing benchmark
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T08:02:44+00:00",
+      "published_utc": "2026-10-21T08:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

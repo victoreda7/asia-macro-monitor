@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T08:02:43.913547+00:00",
- "collected_at_utc": "2026-10-21T08:02:43.913547+00:00",
+ "generated_at_utc": "2026-10-21T08:12:42.605572+00:00",
+ "collected_at_utc": "2026-10-21T08:12:42.605572+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1033,
+  "japan": 1031,
   "china": 871,
-  "taiwan": 352,
+  "taiwan": 354,
   "korea": 744
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -67,7 +67,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T14:20:58+08:00"
+   "newest": "2026-10-21T15:59:07+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T07:41:51+00:00"
+   "newest": "2026-10-21T08:03:43+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T07:30:24+00:00"
+   "newest": "2026-10-21T07:55:52+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T07:07:37+00:00"
+   "newest": "2026-10-21T07:50:55+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T07:34:11+00:00"
+   "newest": "2026-10-21T07:48:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 29/06/2026",
-   "newest": "2026-06-29T04:00:16+00:00"
+   "error": "",
+   "newest": "2026-10-20T06:30:40+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T16:55:20+09:00"
+   "newest": "2026-10-21T17:06:57+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T16:46:36+09:00"
+   "newest": "2026-10-21T17:06:57+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": "",
    "newest": "2026-10-21T08:01:17+00:00"
   },
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T06:34:00+00:00"
+   "newest": "2026-10-21T06:23:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T07:00:27+00:00"
+   "newest": "2026-10-21T07:40:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -380,6 +380,25 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BOJ to decide at next week's meeting whether 2% inflation target reached: sources",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ULWRUUFgxTlVtMkI3UHE3SWZ3ZGMyUXBrdGVHeHNzZXpDMGUxU3lPSU5JVlNaQ0JDbXloVURmRXNMRXh5LW5iR2RjeW1MSXpyVFM1MTd4Wll3Zw?oc=5",
+   "published_utc": "2026-10-21T07:48:00+00:00",
+   "title_original": "BOJ to decide at next week's meeting whether 2% inflation target reached: sources",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fe2aa6488984d19c"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZU5HSVRwcUU5bUYyaFNBTzNpUVZsZm5ROFE0VngyMEZyZmdpT0xFaFN0ODItanhJWHAxdlhXUFZpeXFaUU0yLXVYbzZQODRPSXJaYXFWbk5KUQ?oc=5",
    "published_utc": "2026-10-21T07:34:11+00:00",
@@ -410,6 +429,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e025fa569c90258a"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiwan semiconductor electricity use hits record high in Sept.",
+   "url": "https://focustaiwan.tw/business/202610210010",
+   "published_utc": "2026-10-21T07:15:04+00:00",
+   "title_original": "Taiwan semiconductor electricity use hits record high in Sept.",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b1e5ee066a237aaf"
   },
   {
    "source_id": "toyo_keizai",
@@ -445,6 +481,23 @@
    "live_wire": true,
    "manual": false,
    "id": "f99aeac9c88e9a98"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Death toll in TSMC Kaohsiung construction accident rises to 4",
+   "url": "https://focustaiwan.tw/society/202610210009",
+   "published_utc": "2026-10-21T06:58:01+00:00",
+   "title_original": "Death toll in TSMC Kaohsiung construction accident rises to 4",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "02eea22793401638"
   },
   {
    "source_id": "tradingview_live",
@@ -2099,6 +2152,23 @@
    "id": "61db73999ded5604"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWpoclBQZGh5ZzFZX25ESkYzTy1JV1dTQXhFUkhsODdZZ1VUOUlFaDFjaDBkYlRIeUZEQzJoOXZyTmFkeFNxNkxKQ1l3QmFRRlhkQWM0WnlLOXdySUlwX0t5UHNXZjFzUHhfOWZoam1CWmNjdXNnQ1pMUnZFYUxCenVfd3l4SjNsM1lfTG1jdXkzRkFfdnpSdjVpSk51UnFsQmZMM0xCZmJIcWlPMjMw?oc=5",
+   "published_utc": "2026-10-20T19:35:17+00:00",
+   "title_original": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d76f0c85953e42e8"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Breakingviews - COMMENTARY: Nvidia emerges as the central bank of AI",
@@ -2423,8 +2493,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -2438,7 +2508,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -2920,8 +2990,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -2935,7 +3005,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -3230,23 +3300,6 @@
    "live_wire": false,
    "manual": false,
    "id": "70e124fbcd6d9970"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWpoclBQZGh5ZzFZX25ESkYzTy1JV1dTQXhFUkhsODdZZ1VUOUlFaDFjaDBkYlRIeUZEQzJoOXZyTmFkeFNxNkxKQ1l3QmFRRlhkQWM0WnlLOXdySUlwX0t5UHNXZjFzUHhfOWZoam1CWmNjdXNnQ1pMUnZFYUxCenVfd3l4SjNsM1lfTG1jdXkzRkFfdnpSdjVpSk51UnFsQmZMM0xCZmJIcWlPMjMw?oc=5",
-   "published_utc": "2026-10-20T07:11:11+00:00",
-   "title_original": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d76f0c85953e42e8"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3590,7 +3643,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rate in October” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DelR0Q0VYLV9HcGJjb21nV2VaSEtyZkVCVzRIaEstc1FjQTAxQTgweDYySXdwLTJmX0l5N0ZwYk4tUWppd29SaFRoNmQxT1hRQ2RtN09FbjNwc3lwanY5M1FpdlV1eXNNd1JXQUNR0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeHFCMzN0Q0lIb0JIWkRBWTRad0FSTmZtSnJrVkYxQ3lFWHZJcmk2VjhfaUJ0SzRWS3RuUUt5NDZQbzhod1BweEhEQWt2ZmNacW1FLS1MQ2x6NWQ5MHlSX1N3OS1uNm1a0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
    "published_utc": "2026-10-20T05:34:46+00:00",
    "title_original": "채권시장 종사자 93% \"10월 한은 금통위, 기준금리 동결할 것\" - 머니투데이",
    "region": "korea",
@@ -3602,7 +3655,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a635a4e49fd3df7b"
+   "id": "f458f88af40eac09"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4856,8 +4909,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -4871,7 +4924,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51895,58 +51948,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9f1a5f6787644e99"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "JGB yields jump as inflation worries resurface",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQXBZNDBQTW02eEF0MFZoT0dHRnp3d3Q2bU1YTmFMQWxpdEFWM0FTSDRpV2FnSjdmOGVzT0dTaWFqT1cwS0s3SEUwdnV1cS02UlVBRGkzb1NBcThtZjBTT2Zsd2NUWTB1ejMxUHlxTWVrMmFkUktDbFZYbHJZbDAwMXJWX040YzA3WjRiZjhWNWQyMlQ3cmRNSWhySjQxaVl0S0Q4YXc5bGFNRDU1S3dqMHVnWVVnTFdaVW5TcXlCeVdOdw?oc=5",
-   "published_utc": "2026-09-24T00:58:00+00:00",
-   "title_original": "JGB yields jump as inflation worries resurface",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9fabbbab8f135864"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan private-sector growth slows in September as PMI cools to four-month low- S&P",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHd0Qy1sWGVLNkprcWJRal9WYmVQWUIwRlo4cXZWRGRZQ3RRbTFuT0xobTJwNDNpY0o4clNXdUwtblZlb1I0d3NuNTI1WnlWcXhXbkIzN3oxN0c4RkZtc0dwWGREME41QXFLS24xeVRLR0FzQjZCT3d6TUtJa3BaOGxqQ1V0MmcxSndQTmtDODlILUhkM0xCQ1pZZW9ha1kwRmVrVUxqeWY2Y1FkVnZsQ0prOWlpb2FBYWZOUTUwYXVmdkJvNjdrY3ZHMkRGRFV4ZkE?oc=5",
-   "published_utc": "2026-09-24T00:57:02+00:00",
-   "title_original": "Japan private-sector growth slows in September as PMI cools to four-month low- S&P",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "753a52da2dc6128d"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan's EdgeCortix looks to work with SpaceX on space data center chips",
-   "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-edgecortix-looks-to-work-with-spacex-on-space-data-center-chips",
-   "published_utc": "2026-09-24T00:52:11.375735+00:00",
-   "title_original": "Japan's EdgeCortix looks to work with SpaceX on space data center chips",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5204723829d3fd29"
   },
   {
    "source_id": "manual_ia",
