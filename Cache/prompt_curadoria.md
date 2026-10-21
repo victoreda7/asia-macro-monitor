@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T15:52:44.265878+00:00
+Última coleta: 2026-10-21T16:02:43.772975+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1024
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Moody’s upgrades TSMC rating to Aa2 on booming AI demand and market dominance
   - [japan] France's 10-year government bond yield reaches 5%, highest level in 24 years
   - [japan] INPEX: Abadi anchors a projected 60% business expansion, backed by JPY 1.95tn of near-term growth investment
   - [china] Fujiyama Power Systems Comments On Reports Of China's Proposed Restrictions On Export Of Tech Used In Solar Ce
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's solar curbs may accelerate India's push for domestic wafer and cell manufacturing: Report
   - [korea] Samsung, SK Hynix upgrading China fabs to make advanced NAND chips - report
   - [japan] Goldman Sachs bets on these 8 Japanese chip stocks as earnings upgrades loom
-  - [taiwan] Cloud AI to drive chip growth in 2027 as Taiwan suppliers seek opportunities beyond weak consumer edge AI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T15:52:44+00:00",
+      "published_utc": "2026-10-21T16:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
