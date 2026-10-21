@@ -7,31 +7,34 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T02:12:42.813608+00:00
+Última coleta: 2026-10-21T02:22:43.242722+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1033
-  🇨🇳 China          887
-  🇹🇼 Taiwan         350
-  🇰🇷 Coreia do Sul  730
+  🇯🇵 Japão          1034
+  🇨🇳 China          886
+  🇹🇼 Taiwan         351
+  🇰🇷 Coreia do Sul  729
 
 ## O que já está no feed (não repita)
 
   - [korea] FTC chief acknowledges role of conglomerates in economic growth
+  - [china] China Youth Jobless Rate Eases to 18%
   - [korea] South Korean Shares Rebound on Chip Rally
   - [korea] South Korean shares rebound from 6-month closing low on strong export data
   - [china] CHINA PBOC CONDUCTS CNY80 BLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7192 WEDS VS 6.7200
   - [korea] Spillovers From South Korea's Strong Chip Exports Remain Limited — Market Talk
+  - [taiwan] AI customers seek 3-year partnerships as Unimicron calls for Taiwan PCB supply chain collab
   - [china] China September youth jobless rate at 18%
+  - [japan] Satsuki Katayama: Japan Nears Shift to Sustained, Wage-Driven Inflation
   - [taiwan] Breaking AI's memory wall: former TSMC VP charts a path with HBM, optical links and 3D stacking
   - [japan] Japan shifting to wage-driven inflation phase, finance minister says
   - [korea] Nomura Raises Its Korea 3Q GDP Growth Forecast to 4.0% on Year — Market Talk
   - [taiwan] Taiwan's September export orders jump 62.4% on AI demand
   - [korea] [Issue Check] Interest rates likely to be frozen, is an increase only a matter of time?... On the 22nd, the Ba
   - [japan] Japan’s export growth stays solid, AI-chip trade and cars aid rise
-  - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [japan] Japan’s September exports rise 16.7%, helped by chip demand By Reuters
+  - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [korea] South Korea October 1-20 exports surge 105% on record chip sales
   - [korea] Bank of Korea Expected to Stand Pat Thursday, Poll Shows — Market Talk
   - [china] China uses crude stockpiles, but rising oil imports may curtail draws: Russell
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN SEPT EXPORT Y/Y RISE LED BY COMPUTER CHIPS, AUTO, CHIPMAKING EQUIPMENT
   - [japan] Japan Export Growth Slows to 4-Month Low
   - [japan] JAPAN SEPT TRADE DEFICIT ¥536.5 BLN (AUG REVISED ¥1,112 BLN DEFICIT); 5TH STRAIGHT DEFICIT; MEDIAN FORECAST ¥7
-  - [china] Kazakh borrowers issue billions of yuan debt as China ties tighten
-  - [japan] JAPAN SEPT IMPORTS +18.9% Y/Y (AUG +28.0%), 8TH STRAIGHT RISE; MEDIAN FORECAST +19.9%
-  - [japan] BREAKING NEWS: Japan logs 536.5 billion yen trade deficit in Sept.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T02:12:43+00:00",
+      "published_utc": "2026-10-21T02:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
