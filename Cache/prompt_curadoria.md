@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T18:02:42.444363+00:00
+Última coleta: 2026-10-21T18:12:43.767389+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          1023
-  🇨🇳 China          872
-  🇹🇼 Taiwan         359
+  🇨🇳 China          873
+  🇹🇼 Taiwan         358
   🇰🇷 Coreia do Sul  746
 
 ## O que já está no feed (não repita)
@@ -51,12 +51,12 @@ Total: 3000 manchetes
   - [japan] Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins
   - [japan] Haruhiro Takahashi appointed as Bank of Japan Matsuyama Branch Manager, ``I want to contribute to the revitali
   - [china] Esteve More Than $80 Million Invested To Expand And Strengthen Esteve Cdmo's Manufacturing Capabilities In Chi
+  - [china] Former IMF executive says China and world need internationalised yuan
   - [china] PBOC's Potential Shift to Overnight Policy Rate Appears Supportive for China Bonds — Market Talk
   - [china] Wens Foodstuff Says Q3 Net Loss At 595.5 Million Yuan
   - [japan] Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
   - [china] China’s Youth Unemployment Rate Eases to 18%
-  - [taiwan] Budget agency yet to discuss funding for CPC's Alaska LNG investment
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T18:02:42+00:00",
+      "published_utc": "2026-10-21T18:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
