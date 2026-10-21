@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T18:42:42.748999+00:00
+Última coleta: 2026-10-21T18:52:43.359745+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
-  🇨🇳 China          873
+  🇯🇵 Japão          1024
+  🇨🇳 China          872
   🇹🇼 Taiwan         358
   🇰🇷 Coreia do Sul  746
 
 ## O que já está no feed (não repita)
 
+  - [japan] INPEX: Abadi-led growth and Asian supply security underpin a JPY 1.95tn investment plan
   - [korea] YMTC overtakes Samsung in China’s NAND flash market
   - [japan] Japan beef imports shift to Australia as droughts hit US herds
   - [korea] BOK Financial Is Maintained at Neutral by DA Davidson
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Wens Foodstuff Says Q3 Net Loss At 595.5 Million Yuan
   - [japan] Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war
   - [korea] Producer prices up for 2nd month in Sept. on higher prices of agricultural goods
-  - [china] China’s Youth Unemployment Rate Eases to 18%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T18:42:42+00:00",
+      "published_utc": "2026-10-21T18:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
