@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T06:42:42.892714+00:00
+Última coleta: 2026-10-21T06:52:42.433137+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1036
-  🇨🇳 China          872
+  🇯🇵 Japão          1035
+  🇨🇳 China          871
   🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  741
+  🇰🇷 Coreia do Sul  743
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean shares post biggest gain in 6 weeks as chipmakers rebound
+  - [korea] Ryukil C&S To Acquire Real Estate Worth 25 Billion Won
   - [korea] Kospi Regains Ground as Chip Stocks Recoup Most of Prior Session's Losses
   - [japan] Don't you feel safe even if you keep the approval rating at 50%? Yokohama, Chiyoda... The footsteps of "distur
   - [japan] One year since the Takauchi Cabinet was established, it is putting all its effort into enacting the consumptio
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Holds Steady Amid Sluggish Export Growth
   - [korea] Corporate profits, debts improve in 2025: BOK
   - [korea] Kospi Analysis: Samsung and SK Hynix Soar Despite Ken Griffin Warning
-  - [taiwan] TSMC says four construction workers killed at Taiwan site, halting work
-  - [china] Yuan Mixed but Resilient Chinese Data Could Offer Support — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T06:42:43+00:00",
+      "published_utc": "2026-10-21T06:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
