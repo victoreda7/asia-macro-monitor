@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T07:52:44.658856+00:00
+Última coleta: 2026-10-21T08:02:43.913547+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1034
+  🇯🇵 Japão          1033
   🇨🇳 China          871
-  🇹🇼 Taiwan         351
+  🇹🇼 Taiwan         352
   🇰🇷 Coreia do Sul  744
 
 ## O que já está no feed (não repita)
 
+  - [china] Indonesia's central bank keeps its benchmark interest rate unchanged and lowers bank deposit reserve ratios
+  - [taiwan] Rising Risk of Taiwan Central Bank Rate Hike — Market Talk
   - [japan] BREAKING NEWS: Foreign spending in Japan hits record 7 tril. yen in Jan.-Sept.
   - [japan] Japan futures slip as yen jumps, cost support seen easing
   - [japan] The Takaichi administration should present a "Plan B" for fiscal policy...A plan that says "achieving high gro
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Axcelis plans US$35 million semiconductor facility in South Korea
   - [korea] South Korea to ease fuel supply rules, let refiners boost exports, Lee says
   - [taiwan] Micron faces potential Taiwan strike, union cites Samsung, SK Hynix profit-sharing benchmark
-  - [japan] Stock prices rise due to fall in crude oil futures prices
-  - [korea] Why is Samsung Electronics stock surging today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T07:52:44+00:00",
+      "published_utc": "2026-10-21T08:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

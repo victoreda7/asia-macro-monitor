@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T07:52:44.658856+00:00",
- "collected_at_utc": "2026-10-21T07:52:44.658856+00:00",
+ "generated_at_utc": "2026-10-21T08:02:43.913547+00:00",
+ "collected_at_utc": "2026-10-21T08:02:43.913547+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1034,
+  "japan": 1033,
   "china": 871,
-  "taiwan": 351,
+  "taiwan": 352,
   "korea": 744
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T03:01:36+00:00"
+   "newest": "2026-10-21T06:12:46+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T03:50:51+00:00"
+   "newest": "2026-10-21T07:50:10+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-20T06:30:40+00:00"
+   "error": "parada desde 29/06/2026",
+   "newest": "2026-06-29T04:00:16+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T16:35:00+09:00"
+   "newest": "2026-10-21T16:55:20+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 28,
    "error": "",
-   "newest": "2026-10-21T05:02:00+00:00"
+   "newest": "2026-10-21T08:01:17+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-21T06:16:28+00:00"
+   "newest": "2026-10-21T07:55:25+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T07:51:46+00:00"
+   "newest": "2026-10-21T08:02:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "Indonesia's central bank keeps its benchmark interest rate unchanged and lowers bank deposit reserve ratios",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6NkM2M0FlczJPTF9WQ09HWVVuUkEtc1k3N0dnanNYWXRTWEVqQkZtY2pDUjdyWUp3QndHZHFrU21jTVJnMjRZajFoTU1rOFNucUR3a3RBR1k?oc=5",
+   "published_utc": "2026-10-21T08:01:17+00:00",
+   "title_original": "印尼央行维持基准利率不变，下调银行存款准备金率",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "13682de66b8d7a55"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Rising Risk of Taiwan Central Bank Rate Hike — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261021001757:0-rising-risk-of-taiwan-central-bank-rate-hike-market-talk/",
+   "published_utc": "2026-10-21T07:54:00+00:00",
+   "title_original": "Rising Risk of Taiwan Central Bank Rate Hike — Market Talk",
+   "region": "taiwan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "70ec2221d1ca1e35"
+  },
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
@@ -1244,41 +1278,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "Central Bank: The volume of 7-day reverse repurchase operations on October 21 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QNkEzT0FIc21yVlgwMV9DTkt0eWJURzlRQjdWbC1EelFsc2N5UmdyRmxRd0VfR05GV2N4ckVXcklieGhmdENOaE9ZeDAzYnlITGwzNFduaGs?oc=5",
-   "published_utc": "2026-10-21T02:00:18+00:00",
-   "title_original": "央行：10月21日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "71b10711180154da"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
-   "published_utc": "2026-10-21T01:56:00+00:00",
-   "title_original": "央行开展800亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9f93275ff9d2dcbf"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "搜狐",
    "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 21 was zero",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2JVLWVqR3c3SnJSUGR3THNJQWUtdjZZWGxLdThZajBLU3BkZUc0TFJRMlUwaFBPT1AzTWRBaFBMdlFHVXM0eXJKRHp2anVDeWhsaXk1Y1RFOHRHSHJoaS05Wm40ZWFnN2FGbXdpVnpkQWo5NUl5TnVZYmVfdE1yTlNRQUh3N0tP?oc=5",
@@ -1363,6 +1362,24 @@
    "id": "1383f1d73bc31bd1"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "资鲸",
+   "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkVCVDByQ1F5dzluUG5NcW1jUlBlRUl4MFlrSnhXbXo0VDJUaHI4MF94Z3VtVjh1MkZQZUJuZ0dCWTdVd0twdkx4Y0l5XzlJdVFLVnRMTXM4UTB1ODJXOVBIblpKYnIzSWE5cGlKbExoQ0ZxY3lHNXJSdmlITHVKNGUwbEV3WmRydXFtTkpWN3RjQQ?oc=5",
+   "published_utc": "2026-10-21T01:35:08+00:00",
+   "title_original": "央行开展800亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0882e83320a9bcab"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7192 WEDS VS 6.7200",
@@ -1413,23 +1430,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8bfd8345cb6de2c6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China September youth jobless rate at 18%",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45900T:0-china-september-youth-jobless-rate-at-18/",
-   "published_utc": "2026-10-21T01:23:34+00:00",
-   "title_original": "China September youth jobless rate at 18%",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ca5eb7aa4c903a36"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2682,6 +2682,23 @@
    "id": "7a0c9cbdd59c63c0"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "Central Bank: The volume of 7-day reverse repurchase operations on October 21 was zero",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QNkEzT0FIc21yVlgwMV9DTkt0eWJURzlRQjdWbC1EelFsc2N5UmdyRmxRd0VfR05GV2N4ckVXcklieGhmdENOaE9ZeDAzYnlITGwzNFduaGs?oc=5",
+   "published_utc": "2026-10-20T10:29:00+00:00",
+   "title_original": "央行：10月21日7天期逆回购操作量为零",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "71b10711180154da"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Notícias Agrícolas",
    "title_en": "Soybeans open Tuesday higher in Chicago with new import data from China on radar",
@@ -3624,10 +3641,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观察者网",
+   "source_name": "搜狐",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
-   "published_utc": "2026-10-20T05:07:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9Rc1BnRlhGM1d4c092aXBsdWVCUXE1NWpsTTZMSVA5X3E2MW0tOUt4dFdGY2o2OVNJNEZhTkdYMlN0Mi1EazBaUGxrTnhZUTI3dklRNjd6a0ZybFpLRElwVC01YWJCZ3JqYm9nVDVad1BFb1pkTUVVUkhnb0p6ejBURktuX1pu?oc=5",
+   "published_utc": "2026-10-20T05:07:29+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -3637,7 +3654,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50e1092b7ea2ed64"
+   "id": "8b5a5b685c5ae149"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3675,10 +3692,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "搜狐",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
-   "published_utc": "2026-10-20T04:37:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
+   "published_utc": "2026-10-20T04:46:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -3689,7 +3706,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "113a63c4f4301728"
+   "id": "6b8b7943e562e9e1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7008,23 +7025,6 @@
    "id": "1fa3cbe4c58142f8"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "YTN",
-   "title_en": "Bank of Korea decides base interest rate this week...market expected to freeze",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FYUpMVGRZWThuTFNlR2ZnR0loRFRMUTNWbmF2OFFFbHZvQVpRbC1kSzZxdVc0YUhNc292SG9qQ2pYNHBOdDlpWk5PTGkzUU9KQ3g4T2xlUWExWnNPLUE?oc=5",
-   "published_utc": "2026-10-18T13:10:00+00:00",
-   "title_original": "한은, 이번 주 기준금리 결정...시장은 동결 전망",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0630db66fbbc193c"
-  },
-  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "BOK to pause before November hike; rates to peak at 3.50%: survey",
@@ -7179,6 +7179,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fe00a26371f94934"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "YTN",
+   "title_en": "Bank of Korea decides base interest rate this week...market expected to freeze",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xaWZsMHFMa1ozMy1oelFFZDhDV3FjZzRYTnJUak0zMmduOHg1Uk96MDNVbmR2SUVfNTBtdmwxNW1TcTJNRVdKZzljdGNWTVFoUkxWMG9hTnA2bWpGMWxZV1Z3SXNkVWhzR2dORkVLUkZNMk1pZGc?oc=5",
+   "published_utc": "2026-10-18T09:17:00+00:00",
+   "title_original": "한은, 이번 주 기준금리 결정...시장은 동결 전망",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e2d338b61587629e"
   },
   {
    "source_id": "tradingview_live",
@@ -51930,23 +51947,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5204723829d3fd29"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's factory activity growth slows in September, PMI shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45G01Q:0-japan-s-factory-activity-growth-slows-in-september-pmi-shows/",
-   "published_utc": "2026-09-24T00:35:38+00:00",
-   "title_original": "Japan's factory activity growth slows in September, PMI shows",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8c2dc659bb9f76eb"
   },
   {
    "source_id": "manual_ia",
