@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-21T03:32:43.486142+00:00
+Última coleta: 2026-10-21T03:42:45.852512+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1035
+  🇯🇵 Japão          1036
   🇨🇳 China          881
   🇹🇼 Taiwan         351
-  🇰🇷 Coreia do Sul  733
+  🇰🇷 Coreia do Sul  732
 
 ## O que já está no feed (não repita)
 
+  - [china] Trump Open to Summit With Xi and Putin in China to Discuss Ukraine
+  - [japan] Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to fe
   - [korea] South Korea to ease fuel supply rules, let refiners boost exports, Lee says
   - [japan] Stock prices rise due to fall in crude oil futures prices
   - [korea] Why is Samsung Electronics stock surging today?
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China uses crude stockpiles, but rising oil imports may curtail draws: Russell
   - [japan] Japan’s Export Growth Stays Solid, Supported by Chips, Cars
   - [japan] Japan posts bigger-than-expected trade deficit in Sept as export growth slows
-  - [japan] Japan’s September exports rise 16.7%, helped by chip demand
-  - [japan] Japan's Exports Continued to Rise in September Amid AI Boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-21T03:32:43+00:00",
+      "published_utc": "2026-10-21T03:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

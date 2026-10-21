@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T03:32:43.486142+00:00",
- "collected_at_utc": "2026-10-21T03:32:43.486142+00:00",
+ "generated_at_utc": "2026-10-21T03:42:45.852512+00:00",
+ "collected_at_utc": "2026-10-21T03:42:45.852512+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1035,
+  "japan": 1036,
   "china": 881,
   "taiwan": 351,
-  "korea": 733
+  "korea": 732
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T01:00:00+00:00"
+   "newest": "2026-10-21T03:39:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T12:23:09+09:00"
+   "newest": "2026-10-21T12:37:08+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-21T12:12:00+09:00"
+   "newest": "2026-10-21T12:37:08+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T22:40:56+00:00"
+   "newest": "2026-10-21T02:47:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T16:00:00+00:00"
+   "newest": "2026-10-21T03:19:45+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T03:31:53+00:00"
+   "newest": "2026-10-21T03:41:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T02:30:50+00:00"
+   "newest": "2026-10-21T03:00:00+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,43 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "Trump Open to Summit With Xi and Putin in China to Discuss Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUF4R2NScTltRjhUS1Y2X0NKeWdLa01QM0RZb3FrOGlDTGswTnNQeHFMeUd4ZEdidjdZbEpmOU5wSk9BWklfQ29wMFhHQWJuSXVFdlc5WXhmb3QxTk9xNWZ3NHVuWWFFblZtV0psUnhnN2lsY0twY3JiZWVEQ0Q0MHcwNlFQVUVfR2s3TE83ZjJHVk9oTlNMN1VjSGU0dUU1OFFmREFqUkpXSVV6TVFoZ29FVEVzZUlhNkczS0JB?oc=5",
+   "published_utc": "2026-10-21T03:39:00+00:00",
+   "title_original": "Trump Open to Summit With Xi and Putin in China to Discuss Ukraine",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a6d11e11f8af1f46"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Finance Minister Katayama: “The consumption tax cut is a measure against high prices that will allow you to feel the effects early.”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261021de62724",
+   "published_utc": "2026-10-21T03:37:08+00:00",
+   "title_original": "片山財務相“消費税減税は早期に効果実感できる物価高対策”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "inflation",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "14cdd23a48cbfd5c"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -7335,6 +7372,23 @@
    "id": "07546ec1996cd7f3"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "머니투데이",
+   "title_en": "All 11 experts said, “Interest rates will be frozen in October”… 9 people “Final interest rate is 3.5%” - Money Today",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEb1FENTRSRW5vcDNWclYydTVBQV9HeHB4N3hFV09iRC1za1hjT09NdkxKYlZUQ3NJMl9ZaTZhRlRwT2V0emNjUjlYSlJtODAtV2ZUVWkxb19oQmpwNXNPVW9HRUlBQlJHLUp30gFwQVVfeXFMT1g0M3dWVGJJbG54SnRSZjhiMjFWLUlLcnpiYlpTQjFCd0JDel80TEJtMjhwa0JyRUdVVk5sUWZMX0Q2bXNZRFNxVFkyak1rOE9EbTRDX2sxSWNRaV9mcUlwYWZUaUhGSmRGekdFQzYxeA?oc=5",
+   "published_utc": "2026-10-18T00:00:00+00:00",
+   "title_original": "전문가 11명 전원 \"10월 금리 동결\"…9명 \"최종금리 3.5%\" - 머니투데이",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3609ce296c337ff7"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "Jiemian.com",
    "title_en": "Weekly bond market highlights | The central bank invested a net 100 billion yuan in open market government bond sales in September, and the Shenzhen Stock Exchange terminated the review of 5 bond projects",
@@ -12849,10 +12903,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
+   "source_name": "Investing.com UK",
    "title_en": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0dpcXNnYnNnbWtWakd2R3VrNnpxUHFsRWJyN1pLZ3BacTkyb0FfVUtUM3dvRlZqckZ4aXRlVGZvdHY2S09nWDlzVk1POWstNmRwRlNvSTlGbkYybjAxTnF0akg4ZmI3UWh1RFlJaWp4cnV2MEJCWGhKM2ZnN3doRXpUNmZKaEk2YlhhNWNjSXFkMWFVME5xRFVHTUF4ZFpFUjg1QXVmZmE1Y2hjWU1oOXd1SXdzbno3bVB6RW1B?oc=5",
-   "published_utc": "2026-10-15T04:25:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXM4RzlvNjh2NUgyeFQtMWlxT2gza0VvZU5JVDVBVzVXRS1kZVZEc2QzT1RMazNJWThlaWRWckFOd0JNRTdmQmp4UmlHWmUwTlJ3VDhyanZVaU9WVFJlTzYzUUVaeVBrRkdxaWFzUkJfd0tXdTNfSlVCUy1sOXdVdEs1cktiZFJpbW9QbHBsNjFXazljTFhaVGJ5RWN6RVpMQVRQRExYWVljcjZkbU5LbDZSU1JVYUdENzBiQjBn?oc=5",
+   "published_utc": "2026-10-15T04:06:00+00:00",
    "title_original": "Japan, U.S. reach first chip deal under $550 bln investment plan By Investing.com",
    "region": "japan",
    "topics": [
@@ -12863,7 +12917,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2b3965436e525ef4"
+   "id": "dfae25f1e6df382f"
   },
   {
    "source_id": "investing_live",
@@ -51891,59 +51945,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ba40a4dedac883aa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will carry out MLF operations worth 800 billion yuan for a period of one year",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNy04aFlsTWZscC1sRl9udjlPclllcmVXa1hnTHZJV0F0UF9PU3laaHNiY2ltTkxOaFZPOG85bklOUXNVZGpEcTlrNC1CMEVYWklQdWtPNjBDYXc4SGxMZ0xuY1hVQQ?oc=5",
-   "published_utc": "2026-09-23T16:31:27+00:00",
-   "title_original": "央行将开展8000亿元MLF操作，期限1年",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3344bbb30ef21a5"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "South Korea sets 15-year CEO imprisonment guidelines as labor rules tighten",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94THU2TkxHOUhLa2R2NVk0YVNfNUpYSmVFb0YzaTBpUXh0Q2tDOFR2blhaRy1FUkVFUmdqRzBScy1ZeDBlcHcycUVqN2h0dUYwMWRjZGpaaVBEXzN1dTFsaXRUam5YZVRm?oc=5",
-   "published_utc": "2026-09-23T15:55:14+00:00",
-   "title_original": "South Korea sets 15-year CEO imprisonment guidelines as labor rules tighten",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "02f2929cdd74dd53"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) Lee pledges to double chip production in 5 yrs, build AI supply chains free of disruption",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUGZ1UkVuWEV3ZDZ4RWZ6NnY2REdLcHZGWUhnSU5nZ2VFdE1HWVB4UWFrd0hheUV2NXpkaVV5VmViSDkyLUFXX0dKTG9JcjU0RUtfRDRVV2w2UQ?oc=5",
-   "published_utc": "2026-09-23T15:22:24+00:00",
-   "title_original": "(LEAD) Lee pledges to double chip production in 5 yrs, build AI supply chains free of disruption",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9ef1de5519be2ff6"
   },
   {
    "source_id": "manual_ia",
