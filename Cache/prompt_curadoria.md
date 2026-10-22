@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T13:32:44.191411+00:00
+Última coleta: 2026-10-22T13:42:42.920143+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          973
-  🇨🇳 China          850
+  🇨🇳 China          851
   🇹🇼 Taiwan         364
-  🇰🇷 Coreia do Sul  813
+  🇰🇷 Coreia do Sul  812
 
 ## O que já está no feed (não repita)
 
@@ -38,6 +38,7 @@ Total: 3000 manchetes
   - [japan] Lower House committee to debate consumption tax cut
   - [taiwan] The Trade Department updated the management list of entities exporting strategic high-tech goods, adding 343 n
   - [china] China blue-chip index confirms bear market as AI stocks slump
+  - [china] China’s Gulf oil imports forecast to near pre-Iran war high as shipments rebound
   - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
   - [korea] Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won i
   - [korea] After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] S. Korean won strengthens against U.S. dollar after BOK holds key rate
   - [japan] Yen Rises Against Majors
   - [korea] Samsung Electro-Mechanics receives investment of US$2.8 billion for the production of chips from Tesla and Nvi
-  - [japan] Proposing the establishment of a new common platform for Japanese manga, aiming for further overseas expansion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T13:32:44+00:00",
+      "published_utc": "2026-10-22T13:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
