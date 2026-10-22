@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T22:15:45.290729+00:00
+Última coleta: 2026-10-22T22:22:43.633136+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          967
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Inflation Data Due On Friday
   - [korea] SK Hynix drops Solidigm US IPO plan, according to newspaper report
   - [korea] SK Hynix drops US IPO plan for Solidigm, newspaper reports
   - [japan] Yen on track to gain from US midterm elections and France unrest
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26
   - [korea] Even with earnings this strong, Samsung at ₩70,000 and SK hynix at ₩200,000?... We recalculated the KOSPI’s fa
   - [taiwan] Taiwan's first-ever chip workers strike hits Micron plant
-  - [japan] Lower House committee to debate consumption tax cut | NHK WORLD-JAPAN News
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T22:15:45+00:00",
+      "published_utc": "2026-10-22T22:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
