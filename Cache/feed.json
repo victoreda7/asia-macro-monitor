@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T05:42:42.874521+00:00",
- "collected_at_utc": "2026-10-22T05:42:42.874521+00:00",
+ "generated_at_utc": "2026-10-22T05:52:44.759740+00:00",
+ "collected_at_utc": "2026-10-22T05:52:44.759740+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 965,
+  "japan": 963,
   "china": 862,
   "taiwan": 355,
-  "korea": 818
+  "korea": 820
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T10:01:00+00:00"
+   "newest": "2026-10-20T13:07:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-22T14:41:09+00:00"
+   "newest": "2026-10-22T14:49:01+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T02:00:00+00:00"
+   "newest": "2026-10-22T01:01:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T03:27:17+00:00"
+   "newest": "2026-10-22T05:31:01+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T13:07:16+09:00"
+   "newest": "2026-10-22T13:07:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T04:04:08+00:00"
+   "newest": "2026-10-22T03:01:14+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T05:42:15+00:00"
+   "newest": "2026-10-22T05:51:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T00:55:41+00:00"
+   "newest": "2026-10-22T03:57:29+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T04:08:01+00:00"
+   "newest": "2026-10-22T05:46:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,62 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T03:21:12+00:00"
+   "newest": "2026-10-22T05:27:46+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "K-beauty stocks stumble as strong won squeezes profits",
+   "url": "https://www.koreaherald.com/article/10911515",
+   "published_utc": "2026-10-22T05:52:43.714818+00:00",
+   "title_original": "K-beauty stocks stumble as strong won squeezes profits",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2ea187d83a2de943"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "K-beauty firms to seek export deals at Cheongju expo",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93ZjZQV2VPTDZEdVBWU1YyUnRwMEFmM3h2YmRLT0tIdjE2Rk8tSkIxMElOZEhqRXpUME5rWnVkcVBodTNGRWhsMXpUVlh5ZmdxRTA2MUNTaDhjdw?oc=5",
+   "published_utc": "2026-10-22T05:46:10+00:00",
+   "title_original": "K-beauty firms to seek export deals at Cheongju expo",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "95a73a535b93ece1"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan's trade deficit nearly doubles in Apr.-Sep.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iTkpSWjhXcWxDeGZUYXVWeUJuZ2JTdFlfdXJPSkM5UFk2TV96RzJaYlRjS3A4dDlQR25iRVFnTG93a2p0LVhOc2pQbUZJeFJzUUYtaHo5YVVTLXNjOWkxN2I3QQ?oc=5",
+   "published_utc": "2026-10-22T05:31:01+00:00",
+   "title_original": "Japan's trade deficit nearly doubles in Apr.-Sep.",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1633ec5dca1f0608"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -359,6 +411,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a59d6ed6e8cb43d1"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "머니투데이",
+   "title_en": "The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Money Today",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GTFR2ZDZLY0FIMkZmNGJiSy1yR3NrdER2OW5ocldvajU0MGJyUUktT0pvV1lxVTUwMTd0LVNXM1pkbDA5VkdLaW10LVZGWGdSVl8xTXF2amdUWDJabWJKRDBOOHFwU3JCNGg00gFwQVVfeXFMT2pPdEtXeTluUVZJendLUEpOT3RkV2pXdW8tR2ROSGx4Qi1PV25tcEVsWTZDdnpiTlo2T0lDemdpM1ZTbm9DVC01QmdSUHhETVE4ZG9zcUhZazZqbWJrT0ZzR2F5YkQ4N3hWM2d6X08xTA?oc=5",
+   "published_utc": "2026-10-22T05:27:46+00:00",
+   "title_original": "금리 인상 일단 멈춘 한국은행…기준금리 3% 동결(종합) - 머니투데이",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e27a96a309bddc4"
   },
   {
    "source_id": "tradingview_live",
@@ -1026,23 +1095,6 @@
    "live_wire": true,
    "manual": false,
    "id": "41399a22008c37b7"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "머니투데이",
-   "title_en": "The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GTFR2ZDZLY0FIMkZmNGJiSy1yR3NrdER2OW5ocldvajU0MGJyUUktT0pvV1lxVTUwMTd0LVNXM1pkbDA5VkdLaW10LVZGWGdSVl8xTXF2amdUWDJabWJKRDBOOHFwU3JCNGg00gFwQVVfeXFMT2pPdEtXeTluUVZJendLUEpOT3RkV2pXdW8tR2ROSGx4Qi1PV25tcEVsWTZDdnpiTlo2T0lDemdpM1ZTbm9DVC01QmdSUHhETVE4ZG9zcUhZazZqbWJrT0ZzR2F5YkQ4N3hWM2d6X08xTA?oc=5",
-   "published_utc": "2026-10-22T01:59:10+00:00",
-   "title_original": "금리 인상 일단 멈춘 한국은행…기준금리 3% 동결(종합) - 머니투데이",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e27a96a309bddc4"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2403,23 +2455,6 @@
    "id": "ec85aea956112af3"
   },
   {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NTWx4LUw5TjAxY2UtbDZWS2FUZUVqSFNNVUsyWVIzcDhSNXdDUEViMDhFVEQtaXhBWWY1ckZNaHJYVTgyZHNfVV94ZjFkSjV1MWc?oc=5",
-   "published_utc": "2026-10-21T13:45:59+00:00",
-   "title_original": "The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c87008ddb2034fc4"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "PR Newswire",
    "title_en": "ProBio Successfully Completes NMPA Pre-Approval Inspection for Biologics Manufacturing Facility in Nanjing, China",
@@ -2455,8 +2490,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -2470,7 +2505,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -3124,6 +3159,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9ea2de6737e72683"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hbzVJWmdtZjA0LTZtOTFndHpJZk9jaXdJTkJxSG11MDJhdEU1TTU4TE9TOGNGelhsb01MLTNxRU9NMjR5ajh4MG9ZWXpEWllmc0E?oc=5",
+   "published_utc": "2026-10-21T08:13:43+00:00",
+   "title_original": "The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "52891e9a388fc248"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5034,8 +5086,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -5049,7 +5101,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -5531,8 +5583,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -5546,7 +5598,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -6390,6 +6442,23 @@
    "live_wire": true,
    "manual": false,
    "id": "05280fdf996be8e6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByR1RCUXRvdzJXdko3eDhTNzJoTkk3dU9yczRUTTRVaFl0ZFRnNF9mZHBtQkp6d3BNMXQ3TDRyTlFCcGxkWUxNbXF1X1VQWEdNX1JHbmdPbURVWFhoVENCNUp5SVJBRm80UVpzRzRhNA?oc=5",
+   "published_utc": "2026-10-20T03:18:00+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e4ac9994d10111b"
   },
   {
    "source_id": "toyo_keizai",
@@ -7451,8 +7520,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -7466,7 +7535,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -7484,23 +7553,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b474010cf2072a9c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "界面新闻",
-   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
-   "published_utc": "2026-10-19T12:18:00+00:00",
-   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16528f1711d07747"
   },
   {
    "source_id": "tradingview_live",
@@ -51888,59 +51940,6 @@
    "live_wire": true,
    "manual": false,
    "id": "418ac26a52aa7024"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Trump remarks on weak yen to Takaichi raise speculation on policy impact",
-   "url": "https://asia.nikkei.com/business/markets/currencies/trump-remarks-on-weak-yen-to-takaichi-raise-speculation-on-policy-impact",
-   "published_utc": "2026-09-25T22:26:23.360559+00:00",
-   "title_original": "Trump remarks on weak yen to Takaichi raise speculation on policy impact",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fe94314986d35d6a"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan herbal remedy makers seek to reduce China from supply chain",
-   "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-herbal-remedy-makers-seek-to-reduce-china-from-supply-chain",
-   "published_utc": "2026-09-25T22:26:23.360559+00:00",
-   "title_original": "Japan herbal remedy makers seek to reduce China from supply chain",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1960b0bed97dc2ea"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Pressure on the yen to depreciate continues despite the Bank of Japan's \"surprise\" rate check just before the long holiday The level of the \"Bank of Japan Tankan assumed exchange rate\" that is attracting attention at a time when the stock market is greatly influenced by exchange rate trends (Money Post WEB)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lQUZzQkMtR3N0czJRbmUtVHJUSVVpMGF0S0Q4VkhiMV9fWlhqcWFvcHVsck05LXQ5WHNTZ295bjVYVUt0cTdXc29YV2tCcmZkRFZBbU05NGxTc2pfTkVITVR3ZDlvSjNKVFNVMVc4RG5xSEpDLVMyeTh5MGNnZE0?oc=5",
-   "published_utc": "2026-09-25T22:15:00+00:00",
-   "title_original": "大型連休直前の日銀“不意打ち”レートチェックでも止まらぬ円安圧力 為替動向に株式市場が大きく左右される局面で注目される「日銀短観の想定為替レート」の水準（マネーポストWEB）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3c641de75169a146"
   },
   {
    "source_id": "manual_ia",

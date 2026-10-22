@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T05:42:42.874521+00:00
+Última coleta: 2026-10-22T05:52:44.759740+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          965
+  🇯🇵 Japão          963
   🇨🇳 China          862
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  818
+  🇰🇷 Coreia do Sul  820
 
 ## O que já está no feed (não repita)
 
+  - [korea] K-beauty stocks stumble as strong won squeezes profits
+  - [korea] K-beauty firms to seek export deals at Cheongju expo
+  - [japan] Japan's trade deficit nearly doubles in Apr.-Sep.
   - [korea] Kbi Dongkook Ind To Acquire Real Estate Worth 27.5 Billion Won
+  - [korea] The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Mone
   - [korea] BOK's Hawkish Hold Leaves Door Open to Rate Hikes — Market Talk
   - [japan] October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui
   - [korea] Nvidia taps Korean component makers for AI chips, robots
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea freezes base interest rate at 3.0% per annum... Will it be raised in November after taking a bre
   - [korea] South Korean won strengthens most among Asian currencies
   - [korea] BOK holds rate at 3%, leaves door open to November hike
-  - [korea] [Full text] Bank of Korea Monetary Policy Committee October monetary policy direction
-  - [korea] [Full text] Bank of Korea Monetary Policy Committee October monetary policy direction decision statement
-  - [japan] Japan's strong-armed $21 bln chip bet is low risk
-  - [korea] The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Mone
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T05:42:43+00:00",
+      "published_utc": "2026-10-22T05:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
