@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-22T09:12:44.276739+00:00",
- "collected_at_utc": "2026-10-22T09:12:44.276739+00:00",
+ "generated_at_utc": "2026-10-22T09:22:43.154439+00:00",
+ "collected_at_utc": "2026-10-22T09:22:43.154439+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 356,
   "korea": 822
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T08:54:01+00:00"
+   "newest": "2026-10-22T09:15:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T08:42:00+00:00"
+   "newest": "2026-10-22T09:06:40+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-21T02:48:04+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T18:00:35+09:00"
+   "newest": "2026-10-22T18:18:40+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T05:33:00+00:00"
+   "newest": "2026-10-22T07:47:42+00:00"
   }
  ],
  "items": [
@@ -512,6 +512,23 @@
    "live_wire": false,
    "manual": false,
    "id": "478c709f7e76b225"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaVlGcjZfUlBESnYxelFndUgybDRWQkpQeW40eHBwNTlYMHh4TnJUY1J2S19kZElIeGd1ajlQcWQ5VHhROXJvX1NXdWFEa1l4Qmc?oc=5",
+   "published_utc": "2026-10-22T07:47:42+00:00",
+   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e77a77dfde09eac"
   },
   {
    "source_id": "tradingview_live",
@@ -2403,23 +2420,6 @@
    "live_wire": false,
    "manual": false,
    "id": "79b4ec5fb3881054"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "PRESS9",
-   "title_en": "Bank of Korea freezes base interest rate by 3%... Continuous impressions stopped",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWLXJ6S0xZa2haZ1Y3OWJIRF80VGU2Wl91RjMzRF8wUkwwTFNDempqbmNZd0l5aEo1MzFKR3pCOVB0YjBOZktBcmNpRlA1Qk8tUWRDQXkwZHMtcXNoanp1VFFFUEM3QQ?oc=5",
-   "published_utc": "2026-10-22T00:58:50+00:00",
-   "title_original": "한국은행, 기준금리 3% 동결…연속 인상 멈췄다",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2348e0fece95f988"
   },
   {
    "source_id": "gn_jp_nhkworld",

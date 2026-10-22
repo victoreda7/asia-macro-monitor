@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T09:12:44.276739+00:00
+Última coleta: 2026-10-22T09:22:43.154439+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          969
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [japan] Japan's 2027 Wage Talks Could Shape BOJ Rate Hikes — Market Talk
   - [korea] Financial Services Commission Chairman Lee Eok-won said on the 22nd that SK Hynix's push to list its..
+  - [korea] [Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s re
   - [japan] Japan's Daiichi Life keeps focus on yen bond swaps, expects cuts in overseas debt
   - [korea] Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says
   - [japan] Japan's Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Kbi Dongkook Ind To Acquire Real Estate Worth 27.5 Billion Won
   - [korea] The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Mone
   - [korea] BOK's Hawkish Hold Leaves Door Open to Rate Hikes — Market Talk
-  - [japan] Asia FX mixed, dollar slips near 3-wk low as traders eye central bank meetings
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T09:12:44+00:00",
+      "published_utc": "2026-10-22T09:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
