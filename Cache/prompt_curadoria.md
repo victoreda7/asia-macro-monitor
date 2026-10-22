@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T16:22:43.988777+00:00
+Última coleta: 2026-10-22T16:32:44.429415+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          973
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China copper import premium hits highest since 2014
   - [china] China's blue chips slump to 15-month lows as AI stocks slide
   - [china] Vietnam surpasses China as Brazil's main source of steel imports
   - [japan] Nippon Steel to invest $3 billion in modernizing U.S. Steel factory equipment, says Nikkei
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Financial Services Commission Chairman Lee Eok-won said on the 22nd that SK Hynix's push to list its..
   - [korea] [Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s re
   - [japan] Japan's Daiichi Life keeps focus on yen bond swaps, expects cuts in overseas debt
-  - [korea] Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T16:22:44+00:00",
+      "published_utc": "2026-10-22T16:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
