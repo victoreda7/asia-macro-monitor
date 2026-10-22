@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T08:32:45.142301+00:00
+Última coleta: 2026-10-22T08:42:44.450908+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          967
   🇨🇳 China          860
-  🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  819
+  🇹🇼 Taiwan         355
+  🇰🇷 Coreia do Sul  818
 
 ## O que já está no feed (não repita)
 
@@ -38,7 +38,6 @@ Total: 3000 manchetes
   - [korea] South Korean shares log 6-month closing low as chipmakers fall on profit-taking
   - [japan] Yen rallies as dollar wobbles toward Fed meeting By Reuters
   - [china] Receivers to sell Shimao’s 2 Hong Kong hotels to Malaysian developer
-  - [japan] Yen rallies as dollar wobbles toward Fed meeting
   - [korea] [Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip subst
   - [korea] BOK pauses rate hikes, but signals more may come
   - [japan] Six opposition parties in the House of Councilors consumption tax reduction bill “call for establishment of a 
@@ -54,6 +53,7 @@ Total: 3000 manchetes
   - [korea] Kbi Dongkook Ind To Acquire Real Estate Worth 27.5 Billion Won
   - [korea] The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Mone
   - [korea] BOK's Hawkish Hold Leaves Door Open to Rate Hikes — Market Talk
+  - [japan] Asia FX mixed, dollar slips near 3-wk low as traders eye central bank meetings
   - [japan] October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui
   - [korea] Nvidia taps Korean component makers for AI chips, robots
   - [korea] The Bank of Korea's Monetary Policy Committee freezes the base interest rate at 3%... Take a breath after 2 co
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T08:32:45+00:00",
+      "published_utc": "2026-10-22T08:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
