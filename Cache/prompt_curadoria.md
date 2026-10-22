@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T03:52:45.523057+00:00
+Última coleta: 2026-10-22T04:02:42.800326+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          973
-  🇨🇳 China          859
-  🇹🇼 Taiwan         357
+  🇯🇵 Japão          974
+  🇨🇳 China          860
+  🇹🇼 Taiwan         355
   🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB yields touch multi-week lows as traders weigh geopolitics, BOJ policy outlook
+  - [china] China bets on manufactured water, and wants to sell it to the world
   - [japan] U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such
   - [korea] BOK Gov: Stronger Won Helps Curb Import Prices, Boost Household Purchasing Power
   - [korea] BOK Gov: Core Inflation Could Near 2% Target in 2028
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched continuous overnight reverse repurchase operations, with an operation volume of 80 b
   - [korea] Bank of Korea freezes base interest rate at ‘3.00%’
   - [korea] Merck opens Korean chip materials plant to meet advanced memory demand
-  - [taiwan] Taiwan's first-ever chip workers strike begins at Micron plant
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7195 THURS VS 6.7192
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T03:52:45+00:00",
+      "published_utc": "2026-10-22T04:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
