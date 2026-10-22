@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T06:02:43.066907+00:00
+Última coleta: 2026-10-22T06:12:44.423442+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          963
-  🇨🇳 China          862
+  🇨🇳 China          863
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  820
+  🇰🇷 Coreia do Sul  819
 
 ## O que já está no feed (não repita)
 
   - [korea] K-beauty stocks stumble as strong won squeezes profits
   - [korea] K-beauty firms to seek export deals at Cheongju expo
+  - [china] The central bank launched a 173 billion yuan overnight reverse repurchase operation today, and the latest net 
   - [japan] Japan's trade deficit nearly doubles in Apr.-Sep.
   - [korea] Kbi Dongkook Ind To Acquire Real Estate Worth 27.5 Billion Won
   - [korea] The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Mone
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea’s corporate recovery leaves SMEs behind: BOK data
   - [korea] Bank of Korea freezes base interest rate at 3.0% per annum... Will it be raised in November after taking a bre
   - [korea] South Korean won strengthens most among Asian currencies
-  - [korea] BOK holds rate at 3%, leaves door open to November hike
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T06:02:43+00:00",
+      "published_utc": "2026-10-22T06:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
