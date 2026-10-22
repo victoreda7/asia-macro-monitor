@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T08:52:43.557128+00:00",
- "collected_at_utc": "2026-10-22T08:52:43.557128+00:00",
+ "generated_at_utc": "2026-10-22T09:02:43.994619+00:00",
+ "collected_at_utc": "2026-10-22T09:02:43.994619+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 968,
-  "china": 859,
-  "taiwan": 355,
-  "korea": 818
+  "japan": 969,
+  "china": 854,
+  "taiwan": 356,
+  "korea": 821
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T08:34:56+00:00"
+   "newest": "2026-10-22T08:54:01+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T08:30:38+00:00"
+   "newest": "2026-10-22T08:42:00+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T07:02:38+00:00"
+   "newest": "2026-10-22T08:52:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T02:00:00+00:00"
+   "newest": "2026-10-22T01:01:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T17:42:48+09:00"
+   "newest": "2026-10-22T18:00:35+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T04:11:00+00:00"
+   "newest": "2026-10-22T08:24:23+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T08:42:04+00:00"
+   "newest": "2026-10-22T09:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T08:39:43+00:00"
+   "newest": "2026-10-22T08:43:48+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4680CB:0-tsmc-seeks-factory-equipment-alternatives-to-thwart-china-s-rare-earths-grip-sources-say/",
+   "published_utc": "2026-10-22T08:58:19+00:00",
+   "title_original": "TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cc855fd82f2795b8"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won in losses”",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTDIxcWFGYVhDQUpVeS0yYkpiT0tsMmJ4YUhCNFk1RlJhUUE2TXNxQ2lmN3RvZ1lUWFFYY0hyVGRTcnlxUF9rY2k3dnVCZ1lvaHVn?oc=5",
+   "published_utc": "2026-10-22T08:43:48+00:00",
+   "title_original": "Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won in losses”",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ce8ee7cfb21ef1fc"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -380,19 +414,19 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
-   "title_en": "TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N467144:0-tsmc-seeks-factory-equipment-alternatives-to-thwart-china-s-rare-earths-grip-sources-say/",
-   "published_utc": "2026-10-22T08:12:59+00:00",
-   "title_original": "TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
-   "region": "taiwan",
+   "title_en": "Zhejiang Wazam New Materials Q3 Net Profit At 627.0 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4680NR:0-zhejiang-wazam-new-materials-q3-net-profit-at-627-0-million-yuan/",
+   "published_utc": "2026-10-22T08:20:19+00:00",
+   "title_original": "Zhejiang Wazam New Materials Q3 Net Profit At 627.0 Million Yuan",
+   "region": "china",
    "topics": [
-    "industrial"
+    "fx"
    ],
    "lang_original": "en",
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "8278b48765f54b22"
+   "id": "7929178edf260057"
   },
   {
    "source_id": "tradingview_live",
@@ -547,6 +581,24 @@
    "live_wire": false,
    "manual": false,
    "id": "e2f05a2500165473"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "S. Korean won strengthens against U.S. dollar after BOK holds key rate",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wWUZaSHJtcVVnUkJJQ3MxSnJNS3YxTmJYRXJPaENCdEhzUEtsNlc3TDZNVk1ySkhha2hMZnF2RUlwMUktYmtBQ3RqdlFUX1pvX3BQNm9ieVpUdw?oc=5",
+   "published_utc": "2026-10-22T07:25:18+00:00",
+   "title_original": "S. Korean won strengthens against U.S. dollar after BOK holds key rate",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8000ad7fa9f2232b"
   },
   {
    "source_id": "tradingview_live",
@@ -1338,6 +1390,24 @@
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) Recent stock market correction weighs on consumption: BOK Gov. Shin",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rOVVocEpZRk40N1E3b21oRVFDS211MEhqQTJjREswX0RXeVZqU2FGZ3B4OENmOU5KU19VWlpqVGZkbVZOZngxaXl2YXFGQl9BN2RKZWdUd0tNQQ?oc=5",
+   "published_utc": "2026-10-22T02:56:46+00:00",
+   "title_original": "(URGENT) Recent stock market correction weighs on consumption: BOK Gov. Shin",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba34137dc612ebef"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
    "title_en": "(URGENT) Investment-focused fiscal spending compatible with monetary tightening: BOK Gov. Shin",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zdmMzd3BHbDREWlhnVDVrUTE3bHgyNjBMVzdhSEh1ODFkMnRiZHZDZVZEOU5NSTRvc0t5aWxsNFdXZHlCNWtveHJ3ZzJJX2lzamNEVDdjOTNqUQ?oc=5",
    "published_utc": "2026-10-22T02:51:53+00:00",
@@ -1716,6 +1786,23 @@
    "live_wire": true,
    "manual": false,
    "id": "41399a22008c37b7"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Breakingviews - COMMENTARY: Japan's strong-armed $21 bln chip bet is low risk",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFBYZ1dqLXJ5X3BsNjR4dFlsY2VrX0VPN1AxZ0VEaE96UlhKSjVOUEtFa2NWUGEyN0VDRnNfODdhaFdJdjl5LUctbDkwaWNPRWJwRldrU0h4d3dXOTZEaVpqcjI1QW5YSldxVllQc2Mxc25kLUlOclFaWXY5S2hNVUdYY0Z6ekhHUnItWjFudlpmLUxQOGc3SzJ4N0lFb0VFdlVVV1JCY2Y5dy1Q?oc=5",
+   "published_utc": "2026-10-22T02:01:00+00:00",
+   "title_original": "Breakingviews - COMMENTARY: Japan's strong-armed $21 bln chip bet is low risk",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ee5be7be07b30af5"
   },
   {
    "source_id": "gn_kr_ked",
@@ -2869,8 +2956,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -2884,7 +2971,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -4424,6 +4511,23 @@
    "id": "73ac8ca9e46aec02"
   },
   {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Lutnick announces investment to boost semiconductor production in North Carolina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU193TGxnbzVMbkRsVTJCOXcwbTBZcTJQdzAzSmdCQ1IzbFhLaHYwc1pCR25TTFY0Yi1BTmJreDJHR010NW1fT3NSX2N5UXpCRjlqM2VhNmRsTk1ycG5FcUg4ZUxXUDl6NTJLVmMwR2thMmdMQnFjVjA5N2txZFI0ZHptaXNFRjQxb3lsWk5JYURrdzFtclROVl9rX0lNU3g0cld4QURkYVRfMWxhSzBUd2RrZjhOZFd6V05HLVhB?oc=5",
+   "published_utc": "2026-10-21T01:01:00+00:00",
+   "title_original": "Lutnick announces investment to boost semiconductor production in North Carolina",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cfc70fa998273ad4"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "Japan exports rise 16.7% in September as AI chip demand powers trade By Reuters",
@@ -5431,8 +5535,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -5446,7 +5550,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -5928,8 +6032,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -5943,7 +6047,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -6932,9 +7036,9 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNXY4d0E5eEF5aUw0UlpGTGhjRnJzUENrZ010cUVzMVRZVmVnSDJOSW9yNEswWm9jdEN0UnhRNFNzMmV4VVp5ZktLWlJFRVpXWThpNTJSSEJ5Wm5adEpwSFpxMWhhZXp4ME45SHBtOEVRZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UOEd5TVhYdldxVjFRUFJkWVJDaXJaNmItUVh3UkVCRDRSdzBTYWEwQUVsQ3gzRThSbU1yLXkzZDBHVnluYi1aSXl3M2trV1JyS1lGdFFQcHU2SHZmeFR2SXhQZFc3amloMEpwSGdBczJ5ZloxMUE?oc=5",
    "published_utc": "2026-10-20T02:00:00+00:00",
-   "title_original": "2026年前三季度广东居民消费价格 同比上涨0.9%",
+   "title_original": "2026年前三季度广东居民消费价格同比上涨0.9%",
    "region": "china",
    "topics": [
     "inflation"
@@ -6943,7 +7047,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0bee112acf295ae1"
+   "id": "83d5a510f10ebe66"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -7848,8 +7952,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -7863,7 +7967,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -10635,6 +10739,24 @@
    "id": "22d59c856d00aac7"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "The underlying price increase rate is “approaching 2%”; Bank of Japan Governor Ueda says, “We cannot tolerate any more” stance on continuing interest rate hikes (NTV NEWS NNN)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84VEV5M3lJdjIwOTlaaWpBUzFpMWxKZjByZ00yMFYxRXdRUnhqYlhlcVNUdXFUdnZHeUE1dDk2WXphSW1hMWhxUGZPcUk0S2dzMF9WTTl0eklKd05fY2lwbTJ0Mk5SUlZNVFJiUjd2N0lsTEtySmwzNEEzcTdYM1E?oc=5",
+   "published_utc": "2026-10-18T06:30:00+00:00",
+   "title_original": "基調的な物価上昇率“2％に近づく” 日銀・植田総裁「これ以上は容認できない」利上げ継続の姿勢（日テレNEWS NNN）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f0f97d79a27831f2"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "The base interest rate has risen repeatedly... Expected to take a breather in October",
@@ -12009,24 +12131,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4bd1ad372053a62b"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The underlying price increase rate is “approaching 2%”; Bank of Japan Governor Ueda says, “We cannot tolerate any more” stance on continuing interest rate hikes (NTV NEWS NNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84VEV5M3lJdjIwOTlaaWpBUzFpMWxKZjByZ00yMFYxRXdRUnhqYlhlcVNUdXFUdnZHeUE1dDk2WXphSW1hMWhxUGZPcUk0S2dzMF9WTTl0eklKd05fY2lwbTJ0Mk5SUlZNVFJiUjd2N0lsTEtySmwzNEEzcTdYM1E?oc=5",
-   "published_utc": "2026-10-16T15:24:01+00:00",
-   "title_original": "基調的な物価上昇率“2％に近づく” 日銀・植田総裁「これ以上は容認できない」利上げ継続の姿勢（日テレNEWS NNN）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f0f97d79a27831f2"
   },
   {
    "source_id": "nikkei_asia",
@@ -51838,108 +51942,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c329f9f13c484c21"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Stocktwits",
-   "title_en": "US, China Agree To A $30B Reciprocal Tariff Cut Deal And Launch A Dialogue On AI As Xi Reiterates Two Countries Can Overcome ‘Thucydides Trap’",
-   "url": "https://www.tradingview.com/news/stocktwits:71e01b3a9094b:0-us-china-agree-to-a-30b-reciprocal-tariff-cut-deal-and-launch-a-dialogue-on-ai-as-xi-reiterates-two-countries-can-overcome-thucydides-trap/",
-   "published_utc": "2026-09-26T10:19:59+00:00",
-   "title_original": "US, China Agree To A $30B Reciprocal Tariff Cut Deal And Launch A Dialogue On AI As Xi Reiterates Two Countries Can Overcome ‘Thucydides Trap’",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2f411c0018c3674e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "U.S., China Agree to Reduce Tariffs on $30 Billion of Trade — WSJ",
-   "url": "https://www.tradingview.com/news/DJN_DN20260926000566:0/",
-   "published_utc": "2026-09-26T10:13:00+00:00",
-   "title_original": "U.S., China Agree to Reduce Tariffs on $30 Billion of Trade — WSJ",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7ba0db2d7d614cba"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "US and China agree on tariff relief for $30bn of nonsensitive goods each",
-   "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-and-china-agree-on-tariff-relief-for-30bn-of-nonsensitive-goods-each",
-   "published_utc": "2026-09-26T10:11:03.085664+00:00",
-   "title_original": "US and China agree on tariff relief for $30bn of nonsensitive goods each",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b544ff276dad0121"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "U.S., China Activate Board of Trade, Lowering Tariffs on Less-Sensitive Goods — White House",
-   "url": "https://www.tradingview.com/news/DJN_DN20260926000566_20260926000566:0/",
-   "published_utc": "2026-09-26T10:03:00+00:00",
-   "title_original": "U.S., China Activate Board of Trade, Lowering Tariffs on Less-Sensitive Goods — White House",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "60e17e3de3036e6e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Covered Chinese Imports Include Small Appliances, Children's Car Seats — White House",
-   "url": "https://www.tradingview.com/news/DJN_DN20260926000566_20260926000569:0/",
-   "published_utc": "2026-09-26T10:03:00+00:00",
-   "title_original": "Covered Chinese Imports Include Small Appliances, Children's Car Seats — White House",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "52bba897743ef38e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "U.S., China Activate Board of Trade, Lowering Tariffs on Less-Sensitive Goods — WSJ",
-   "url": "https://www.tradingview.com/news/DJN_DN20260926000566_20260926000570:0/",
-   "published_utc": "2026-09-26T10:03:00+00:00",
-   "title_original": "U.S., China Activate Board of Trade, Lowering Tariffs on Less-Sensitive Goods — WSJ",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2d192d68527b55f9"
   },
   {
    "source_id": "manual_ia",

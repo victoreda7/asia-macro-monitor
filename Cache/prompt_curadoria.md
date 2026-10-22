@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T08:52:43.557128+00:00
+Última coleta: 2026-10-22T09:02:43.994619+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          968
-  🇨🇳 China          859
-  🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  818
+  🇯🇵 Japão          969
+  🇨🇳 China          854
+  🇹🇼 Taiwan         356
+  🇰🇷 Coreia do Sul  821
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
+  - [korea] Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won i
   - [japan] Yen set for biggest rally in a month; risk-averse investors shun dollar
   - [korea] After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk
-  - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
+  - [china] Zhejiang Wazam New Materials Q3 Net Profit At 627.0 Million Yuan
   - [japan] Japan to consider re-introducing gas and electricity subsidies, sources say
   - [japan] BOJ to hold rate at 1.25% at meeting next week
   - [japan] Japanese Government Bonds Held by the Bank of Japan
@@ -29,6 +31,7 @@ Total: 3000 manchetes
   - [korea] Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says
   - [japan] Japan's Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims
   - [japan] Yen rallies as dollar slips to 3-wk low; traders eye central bank meetings
+  - [korea] S. Korean won strengthens against U.S. dollar after BOK holds key rate
   - [japan] Yen Rises Against Majors
   - [korea] Samsung Electro-Mechanics receives investment of US$2.8 billion for the production of chips from Tesla and Nvi
   - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Mone
   - [korea] BOK's Hawkish Hold Leaves Door Open to Rate Hikes — Market Talk
   - [japan] Asia FX mixed, dollar slips near 3-wk low as traders eye central bank meetings
-  - [japan] October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui
-  - [korea] Nvidia taps Korean component makers for AI chips, robots
-  - [korea] The Bank of Korea's Monetary Policy Committee freezes the base interest rate at 3%... Take a breath after 2 co
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T08:52:43+00:00",
+      "published_utc": "2026-10-22T09:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
