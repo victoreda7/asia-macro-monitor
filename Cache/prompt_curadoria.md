@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T10:42:44.294312+00:00
+Última coleta: 2026-10-22T10:52:44.754206+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          966
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea Expected to Gradually Hike Twice More in Cycle — Market Talk
   - [china] Shanghai Bright Power Semiconductor Q3 Net Profit Up 2077.1% Y/Y
   - [korea] Merck opens Korean chip materials plant to meet advanced memory demand
   - [taiwan] Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] [Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip subst
   - [korea] BOK pauses rate hikes, but signals more may come
   - [japan] Six opposition parties in the House of Councilors consumption tax reduction bill “call for establishment of a 
-  - [korea] Strong chip exports expected to spill over into private consumption from next year: BOK report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T10:42:44+00:00",
+      "published_utc": "2026-10-22T10:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
