@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-22T10:52:44.754206+00:00",
- "collected_at_utc": "2026-10-22T10:52:44.754206+00:00",
+ "generated_at_utc": "2026-10-22T11:02:45.663368+00:00",
+ "collected_at_utc": "2026-10-22T11:02:45.663368+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 357,
   "korea": 825
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T09:44:28+00:00"
+   "newest": "2026-10-22T10:21:16+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T10:34:27+00:00"
+   "newest": "2026-10-22T10:53:02+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T10:30:58+00:00"
+   "newest": "2026-10-22T10:49:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T14:17:37+00:00"
+   "newest": "2026-10-22T08:08:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-21T02:48:04+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T19:41:00+09:00"
+   "newest": "2026-10-22T20:00:41+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T10:51:44+00:00"
+   "newest": "2026-10-22T11:02:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -2506,23 +2506,6 @@
    "id": "abc2e020893167aa"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Cuts announced to Japan's eco-friendly car subsidies",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QWmUxbklNazNMQWJfdTB6eVotUl9GQ2tFTkhrdFFqbkdPMC1uNy1lWEtldHJUVlJiY3RRdllOdzJwYTZlT1NnV3FYTmc1cWpJTC1MWTRmaHZSMUpwSzZEc0psSQ?oc=5",
-   "published_utc": "2026-10-22T00:57:58+00:00",
-   "title_original": "Cuts announced to Japan's eco-friendly car subsidies",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1797372bb8aa058"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Japan funding conditions still loose despite interest rate hikes, survey shows",
@@ -2606,6 +2589,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3d007b4908406842"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Cuts announced to Japan's eco-friendly car subsidies",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QWmUxbklNazNMQWJfdTB6eVotUl9GQ2tFTkhrdFFqbkdPMC1uNy1lWEtldHJUVlJiY3RRdllOdzJwYTZlT1NnV3FYTmc1cWpJTC1MWTRmaHZSMUpwSzZEc0psSQ?oc=5",
+   "published_utc": "2026-10-21T22:46:00+00:00",
+   "title_original": "Cuts announced to Japan's eco-friendly car subsidies",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1797372bb8aa058"
   },
   {
    "source_id": "gn_jp_investing",
@@ -3057,8 +3057,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -3072,7 +3072,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -5670,8 +5670,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -5685,7 +5685,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -6167,8 +6167,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -6182,7 +6182,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -6584,6 +6584,25 @@
    "id": "5ebd99922c8fcea2"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGg2LWNvU0NRd2ZxWVlnS0tZN3R0QUFzVEtyTGNWSUdjN2pPR041cktnam4xNlI4SUo0T19nWk5lNWZwODNDRVVtNWJVcFdKUU5Xb243dTFrYjBsMS1kejE2Rkd3akg2SnlQM1J2cTB5RDZNT3lDNTc5MmljeEtpV0trNGdJZkZaVF9HUFprQW5Pd1ZUSmpXbVRCXy14UjlkX1VKVl9fSFk0YW1SZ1dmU1ZENVh2NUNUMGNpbGR2dDVGdw?oc=5",
+   "published_utc": "2026-10-20T06:28:27+00:00",
+   "title_original": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "55ab5d52d5e4ba42"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Hwang Ki-yeon, president of the Export-Import Bank of Korea, said on the 20th, \"There are currently",
@@ -6636,25 +6655,6 @@
    "live_wire": false,
    "manual": false,
    "id": "71404ed3289b6b41"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2VPQUZyX1RweDE2QU8wYVBxaTRUczJ3VUZtS05qQkc0azVsbTZaZmpRODRaM0k0dE1vRXR3YkkyS1dFWUwzajl5X09Ga2oxRnZPTFJHM19rTXFtN3Q2NlVPQ0FGcTNkVXRwU3ZLSFRPaXh0WUptY25mcFgzTGRqanZaNmd1eGJqLTFuS0Y4M28wc0d3OEN2WnVmNm1ySWE3XzFLVkl3LTJrS0I1R1hER3lzWl9VMFpSZ3QxTVphdW9TZjQ?oc=5",
-   "published_utc": "2026-10-20T06:15:39+00:00",
-   "title_original": "Bank of Japan may raise inflation forecast, stand pat on rates, sources say By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1bef12aa9d18fe46"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8087,8 +8087,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -8102,7 +8102,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
