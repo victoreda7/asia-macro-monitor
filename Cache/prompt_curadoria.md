@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T09:34:29.321218+00:00
+Última coleta: 2026-10-22T09:42:42.925878+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          968
-  🇨🇳 China          852
+  🇯🇵 Japão          969
+  🇨🇳 China          851
   🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  823
 
 ## O que já está no feed (não repita)
 
   - [taiwan] Taiwan's first-ever chip workers strike hits Micron plant
+  - [japan] Lower House committee to debate consumption tax cut
   - [china] China blue-chip index confirms bear market as AI stocks slump
   - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
   - [korea] Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won i
@@ -43,7 +44,6 @@ Total: 3000 manchetes
   - [japan] Japan's Nikkei slides as AI capex caution weighs on chip shares
   - [korea] South Korean shares log 6-month closing low as chipmakers fall on profit-taking
   - [japan] Yen rallies as dollar wobbles toward Fed meeting By Reuters
-  - [china] Receivers to sell Shimao’s 2 Hong Kong hotels to Malaysian developer
   - [korea] [Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip subst
   - [korea] BOK pauses rate hikes, but signals more may come
   - [japan] Six opposition parties in the House of Councilors consumption tax reduction bill “call for establishment of a 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T09:34:29+00:00",
+      "published_utc": "2026-10-22T09:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
