@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-22T20:42:45.950471+00:00",
- "collected_at_utc": "2026-10-22T20:42:45.950471+00:00",
+ "generated_at_utc": "2026-10-22T20:52:44.796341+00:00",
+ "collected_at_utc": "2026-10-22T20:52:44.796341+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,16 +11,8 @@
   "taiwan": 365,
   "korea": 810
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 29.9,
  "sources": [
-  {
-   "source_id": "gn_asia_ft",
-   "name": "FT Asia",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -52,6 +44,14 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-22T12:59:37+00:00"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "name": "FT Asia",
+   "ok": true,
+   "count": 30,
+   "error": "",
+   "newest": "2026-10-22T04:29:24+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T20:42:07+00:00"
+   "newest": "2026-10-22T20:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T07:46:59+00:00"
+   "newest": "2026-10-22T05:46:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T12:09:00+00:00"
+   "newest": "2026-10-22T14:02:00+00:00"
   }
  ],
  "items": [
@@ -2936,7 +2936,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(URGENT) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVTVNN0lFUExwUlZOcHFQbW5zendvM0pYMnNsWWItT2d4NktEZTVRU3J1Ri0zSWRob0NSaU1pam5BMF9WMGg5dk0xYzFMM0tTYXd4RVNNbElnZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xZUVaVTFpOU5Qa3F6bWthbDYwbEktUUlBd28tQVdWNE50QmpKdkRKZ2tHOE5sQTRzVWluUnJycThLVjgxb19rc0xVSU1YVmYxZFZBb3E5bzJGTFRR?oc=5",
    "published_utc": "2026-10-22T00:50:50+00:00",
    "title_original": "(URGENT) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
    "region": "korea",
@@ -2947,7 +2947,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e3ee9efac5225c42"
+   "id": "0c1d5c9c4fb9d1f0"
   },
   {
    "source_id": "gn_tw_digitimes",
