@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-22T15:32:45.502624+00:00",
- "collected_at_utc": "2026-10-22T15:32:45.502624+00:00",
+ "generated_at_utc": "2026-10-22T15:42:44.732086+00:00",
+ "collected_at_utc": "2026-10-22T15:42:44.732086+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 364,
   "korea": 812
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T06:35:45+00:00"
+   "newest": "2026-10-22T04:28:04+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T15:16:26+00:00"
+   "newest": "2026-10-22T15:35:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T15:12:52+00:00"
+   "newest": "2026-10-22T15:31:20+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T09:31:52+00:00"
+   "newest": "2026-10-22T08:45:00+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T09:30:59+00:00"
+   "newest": "2026-10-22T15:13:26+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T09:56:42+00:00"
+   "newest": "2026-10-22T12:58:13+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T08:03:00+00:00"
+   "newest": "2026-10-22T14:02:00+00:00"
   }
  ],
  "items": [
@@ -359,6 +359,25 @@
    "live_wire": true,
    "manual": false,
    "id": "c187b158d73facca"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "YTN",
+   "title_en": "Base interest rate frozen at 3%... Governor of the Bank of Korea criticizes fiscal policy",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EVWdWY052UVhuM3M0TTl0b1RZOWxXVXFsaW8tZXVydU00OGJ6UWRGNFBSNHduOGNaREJ4TzRrdkpRVlZncDVFREtvWXJwbkp0VjktXzViRTdaLXFvUmc?oc=5",
+   "published_utc": "2026-10-22T14:02:00+00:00",
+   "title_original": "기준금리 3% 동결...한은 총재, 재정 정책에 쓴소리",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f36a5b6c7b5629c6"
   },
   {
    "source_id": "tradingview_live",
@@ -665,24 +684,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d4d7ec0495b7dcee"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Lower House committee to debate consumption tax cut | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kWDVLb1N2YzR4N3IwNmJJMHU0VE44bGozUHU3RjRSZFN2RUV5OEJuSmlaTnFCT2VjNXo3R2RXaU1EQTdBZEVEN3ZIaWQyYmFwTzFBMHB1ZmtiNnBfVHZQWHc2OA?oc=5",
-   "published_utc": "2026-10-22T09:31:52+00:00",
-   "title_original": "Lower House committee to debate consumption tax cut | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "560ea52588d99017"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -1496,6 +1497,24 @@
    "id": "f1034c71bbfb07fa"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Lower House committee to debate consumption tax cut | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kWDVLb1N2YzR4N3IwNmJJMHU0VE44bGozUHU3RjRSZFN2RUV5OEJuSmlaTnFCT2VjNXo3R2RXaU1EQTdBZEVEN3ZIaWQyYmFwTzFBMHB1ZmtiNnBfVHZQWHc2OA?oc=5",
+   "published_utc": "2026-10-22T04:32:52+00:00",
+   "title_original": "Lower House committee to debate consumption tax cut | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "560ea52588d99017"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "조선일보",
    "title_en": "The Bank of Korea's Monetary Policy Committee freezes the base interest rate at 3%... Take a breath after 2 consecutive raises",
@@ -1848,7 +1867,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -1860,7 +1879,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c5865e4da1f5c503"
+   "id": "6181c2f60b87f6c6"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2637,23 +2656,6 @@
    "live_wire": false,
    "manual": false,
    "id": "db6ee1cad1e3c648"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "BBS불교방송",
-   "title_en": "[Step 1] Bank of Korea freezes base interest rate at 3.0%",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByU2VPR0hISHJDU3JDaExEaEJUajUyN0lVZ052OGRELV9zQ2FyU1FhLWxYOVNPQjFWMWFYTkczNmxYSjJmdWdRVVB5eVltZkZPajhpRl94bF9pcGZmYlMtcnBwZEc2bW5JSDA0?oc=5",
-   "published_utc": "2026-10-22T01:14:23+00:00",
-   "title_original": "[1보]한국은행, 기준금리 3.0%로 동결",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4853bf9697195533"
   },
   {
    "source_id": "korea_herald_biz",
@@ -4850,7 +4852,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
-   "published_utc": "2026-10-21T01:56:00+00:00",
+   "published_utc": "2026-10-21T01:56:01+00:00",
    "title_original": "央行开展800亿元隔夜逆回购操作",
    "region": "china",
    "topics": [

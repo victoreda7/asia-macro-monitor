@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T15:32:45.502624+00:00
+Última coleta: 2026-10-22T15:42:44.732086+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          973
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] Nippon Steel to invest $3 billion in modernizing U.S. Steel factory equipment, says Nikkei
+  - [korea] Base interest rate frozen at 3%... Governor of the Bank of Korea criticizes fiscal policy
   - [china] Alibaba Drops as China Tightens E-Commerce Standards
   - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [korea] SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman
@@ -36,7 +37,6 @@ Total: 3000 manchetes
   - [korea] Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26
   - [korea] Even with earnings this strong, Samsung at ₩70,000 and SK hynix at ₩200,000?... We recalculated the KOSPI’s fa
   - [taiwan] Taiwan's first-ever chip workers strike hits Micron plant
-  - [japan] Lower House committee to debate consumption tax cut | NHK WORLD-JAPAN News
   - [japan] Lower House committee to debate consumption tax cut
   - [taiwan] The Trade Department updated the management list of entities exporting strategic high-tech goods, adding 343 n
   - [china] China blue-chip index confirms bear market as AI stocks slump
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T15:32:45+00:00",
+      "published_utc": "2026-10-22T15:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
