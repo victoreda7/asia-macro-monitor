@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-21T23:57:09.975252+00:00",
- "collected_at_utc": "2026-10-21T23:57:09.975252+00:00",
+ "generated_at_utc": "2026-10-22T00:02:44.475141+00:00",
+ "collected_at_utc": "2026-10-22T00:02:44.475141+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 1026,
-  "china": 866,
+  "china": 865,
   "taiwan": 356,
-  "korea": 752
+  "korea": 753
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T15:10:44+00:00"
+   "newest": "2026-10-21T21:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T23:36:31+00:00"
+   "newest": "2026-10-21T23:55:14+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T06:08:00+09:00"
+   "newest": "2026-10-22T08:56:12+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T21:59:09+00:00"
+   "newest": "2026-10-21T22:01:00+00:00"
   }
  ],
  "items": [
@@ -359,6 +359,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3d007b4908406842"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "SBS Biz",
+   "title_en": "Bank of Korea decides base interest rate today... Weight on ‘Maintain’",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41YXZHLUtDRW9BV21DQ3dvZlZVZmtJbmxsSU9ITG9Ed1Z2UmRQMEhCSGNlUC1neXdjMlZWbVJlbUdsMXdDT0staFFVa1Z0TW1scTI40gFYQVVfeXFMT0xNazc4VnJNTzFkOFN5a1lUN291UFlFX0I1blZKT2NTWXJOTG9hRFc5Wi1KaVdmTEN1NUd5Tm1oaElPTDJqSVRyWXVodHVIM2VaT2dXZ2lBTQ?oc=5",
+   "published_utc": "2026-10-21T22:01:00+00:00",
+   "title_original": "한국은행, 오늘 기준금리 결정…'유지'에 무게",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "fd03af457b704f9e"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51921,24 +51938,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3ebc87e08c831607"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BC da China continuará a implementar política monetária “adequadamente frouxa”",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45G0TL:0/",
-   "published_utc": "2026-09-24T13:05:50+00:00",
-   "title_original": "BC da China continuará a implementar política monetária “adequadamente frouxa”",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cccd7ecc7e040491"
   },
   {
    "source_id": "manual_ia",
