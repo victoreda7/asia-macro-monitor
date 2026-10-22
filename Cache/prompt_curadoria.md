@@ -7,21 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T07:32:43.738899+00:00
+Última coleta: 2026-10-22T07:42:44.266965+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          964
+  🇯🇵 Japão          965
   🇨🇳 China          861
-  🇹🇼 Taiwan         355
+  🇹🇼 Taiwan         354
   🇰🇷 Coreia do Sul  820
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Daiichi Life keeps focus on yen bond swaps, expects cuts in overseas debt
+  - [korea] Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says
   - [japan] Japan's Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims
-  - [japan] Strength in Japanese loan demand expected to leave scope for more BOJ hikes
+  - [japan] Yen rallies as dollar slips to 3-wk low; traders eye central bank meetings
   - [japan] Yen Rises Against Majors
   - [korea] Samsung Electro-Mechanics receives investment of US$2.8 billion for the production of chips from Tesla and Nvi
-  - [korea] Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says
   - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [japan] Developments in Real Exports and Real Imports
   - [japan] In absence of sovereign buyers, Indian chip firms find clients in Japan, EU
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank plans to switch to overnight reverse repos! Dividend low-volatility ETF Huatai-PineBridge (51
   - [japan] JGB yields touch multi-week lows as traders weigh geopolitics, BOJ policy outlook
   - [china] China bets on manufactured water, and wants to sell it to the world
-  - [korea] Asia stocks slide as AI jitters hit Korean chipmakers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T07:32:43+00:00",
+      "published_utc": "2026-10-22T07:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

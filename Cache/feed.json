@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T07:32:43.738899+00:00",
- "collected_at_utc": "2026-10-22T07:32:43.738899+00:00",
+ "generated_at_utc": "2026-10-22T07:42:44.266965+00:00",
+ "collected_at_utc": "2026-10-22T07:42:44.266965+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 964,
+  "japan": 965,
   "china": 861,
-  "taiwan": 355,
+  "taiwan": 354,
   "korea": 820
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T06:38:27+00:00"
+   "newest": "2026-10-21T17:09:38+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T13:07:00+00:00"
+   "newest": "2026-10-20T10:01:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T07:15:09+00:00"
+   "newest": "2026-10-22T07:36:10+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T06:43:15+00:00"
+   "newest": "2026-10-22T07:31:50+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T05:11:54+00:00"
+   "newest": "2026-10-22T07:25:23+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T01:01:00+00:00"
+   "newest": "2026-10-20T02:00:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T07:32:07+00:00"
+   "newest": "2026-10-22T07:41:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-22T03:09:01+00:00"
+   "newest": "2026-10-22T07:36:27+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -345,6 +345,40 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's Daiichi Life keeps focus on yen bond swaps, expects cuts in overseas debt",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4680CK:0-japan-s-daiichi-life-keeps-focus-on-yen-bond-swaps-expects-cuts-in-overseas-debt/",
+   "published_utc": "2026-10-22T07:33:48+00:00",
+   "title_original": "Japan's Daiichi Life keeps focus on yen bond swaps, expects cuts in overseas debt",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fec4513a2d716b2c"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
+   "url": "https://www.investing.com/news/economy-news/samsung-electromechanics-gets-28-billion-chip-investment-from-tesla-nvidia-report-says-4964838",
+   "published_utc": "2026-10-22T07:31:50+00:00",
+   "title_original": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dbed6b67f81300ac"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Japan's Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims",
    "url": "https://www.tradingview.com/news/DJN_DN20261022002432:0-japan-s-top-labor-union-targets-big-pay-bump-in-line-with-boj-aims/",
@@ -361,21 +395,22 @@
    "id": "dc180d2a18c4ab91"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Strength in Japanese loan demand expected to leave scope for more BOJ hikes",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N468046:0-strength-in-japanese-loan-demand-expected-to-leave-scope-for-more-boj-hikes/",
-   "published_utc": "2026-10-22T07:26:23+00:00",
-   "title_original": "Strength in Japanese loan demand expected to leave scope for more BOJ hikes",
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
+   "title_en": "Yen rallies as dollar slips to 3-wk low; traders eye central bank meetings",
+   "url": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-near-3wk-low-as-traders-eye-central-bank-meetings-4964617",
+   "published_utc": "2026-10-22T07:25:23+00:00",
+   "title_original": "Yen rallies as dollar slips to 3-wk low; traders eye central bank meetings",
    "region": "japan",
    "topics": [
-    "monetary"
+    "monetary",
+    "fx"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "eda5303e2ce4e653"
+   "id": "e2f05a2500165473"
   },
   {
    "source_id": "tradingview_live",
@@ -410,23 +445,6 @@
    "live_wire": true,
    "manual": false,
    "id": "dbe43fa32eebd08b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44E04E:0-samsung-electro-mechanics-gets-2-8-billion-chip-investment-from-tesla-nvidia-report-says/",
-   "published_utc": "2026-10-22T07:08:38+00:00",
-   "title_original": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "51e83dcfb0df2445"
   },
   {
    "source_id": "gn_kr_ked",
@@ -2718,8 +2736,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -2733,7 +2751,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -5280,8 +5298,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -5295,7 +5313,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -5777,8 +5795,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -5792,7 +5810,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -7697,8 +7715,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -7712,7 +7730,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51926,23 +51944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5e65c444f85aa77e"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "Taiwan-bred breeding pigs, pig semen approved for export to Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzTXFQR0dKVW5uOEN1Z3pxZ1lWWU9OdkFxVmc5Ny1qM19Temh6U0VTUk9XQnBJMW45amFkWWo2WnV6ajVLeXowVzMwQVAtdzllNE8yVGlOMA?oc=5",
-   "published_utc": "2026-09-25T07:00:00+00:00",
-   "title_original": "Taiwan-bred breeding pigs, pig semen approved for export to Malaysia",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8667c96b5b8f124f"
   },
   {
    "source_id": "manual_ia",
