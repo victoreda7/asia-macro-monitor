@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T23:32:43.159733+00:00
+Última coleta: 2026-10-22T23:42:43.285661+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          964
+  🇯🇵 Japão          965
   🇨🇳 China          855
   🇹🇼 Taiwan         369
-  🇰🇷 Coreia do Sul  812
+  🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike
   - [korea] SK Hynix Shelves Plans for U.S. Listing of Memory-Chip Unit Solidigm
+  - [japan] JAPAN SEPT CORE CPI (EXCLUDING FRESH FOOD) +2.1% Y/Y, 61ST STRAIGHT RISE (AUG +1.7%); MEDIAN FORECAST +2.1%
+  - [japan] Japan Sept core CPI rises 2.1% yr/yr
   - [korea] SK Hynix says Solidigm drops plan for US IPO amid market volatility
   - [japan] Japan Inflation Data Due On Friday
   - [korea] SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Micron Taoyuan union reps begin symbolic 'strike' after Taichung deal
   - [japan] Yen Rises Amid Risk-off Mood
   - [korea] Bank of Korea Expected to Gradually Hike Twice More in Cycle — Market Talk
-  - [japan] Yen surges to 3-week high as dollar wobbles ahead of c.bank meetings
-  - [china] Shanghai Bright Power Semiconductor Q3 Net Profit Up 2077.1% Y/Y
-  - [taiwan] Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T23:32:43+00:00",
+      "published_utc": "2026-10-22T23:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
