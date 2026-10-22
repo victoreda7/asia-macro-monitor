@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T20:32:43.985991+00:00
+Última coleta: 2026-10-22T20:42:45.950471+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          968
-  🇨🇳 China          856
+  🇨🇳 China          857
   🇹🇼 Taiwan         365
-  🇰🇷 Coreia do Sul  811
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [china] EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia
+  - [japan] Unexpected combination and convincing reason (2026 Nobel Prize in Economics): Hall, Woodford contributed to ef
   - [korea] BOK Financial Price Target Cut to $140.00/Share From $146.00 by Citigroup
   - [taiwan] TSMC Looks Beyond China for Critical Chip Equipment Materials
   - [china] US blocks two devices with Chinese-made surveillance chips
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won i
   - [korea] After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk
   - [china] Zhejiang Wazam New Materials Q3 Net Profit At 627.0 Million Yuan
-  - [japan] Japan to consider re-introducing gas and electricity subsidies, sources say
-  - [korea] Bank of Korea base interest rate frozen at 3.00%... opens possibility of further increase due to price instabi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T20:32:44+00:00",
+      "published_utc": "2026-10-22T20:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

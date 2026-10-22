@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-22T20:32:43.985991+00:00",
- "collected_at_utc": "2026-10-22T20:32:43.985991+00:00",
+ "generated_at_utc": "2026-10-22T20:42:45.950471+00:00",
+ "collected_at_utc": "2026-10-22T20:42:45.950471+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 968,
-  "china": 856,
+  "china": 857,
   "taiwan": 365,
-  "korea": 811
+  "korea": 810
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.9,
  "sources": [
+  {
+   "source_id": "gn_asia_ft",
+   "name": "FT Asia",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -46,14 +54,6 @@
    "newest": "2026-10-22T12:59:37+00:00"
   },
   {
-   "source_id": "gn_asia_ft",
-   "name": "FT Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-22T04:29:24+00:00"
-  },
-  {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T20:15:00+00:00"
+   "newest": "2026-10-22T20:31:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T20:12:38+00:00"
+   "newest": "2026-10-22T20:31:12+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-22T17:47:29+00:00"
+   "newest": "2026-10-22T20:38:11+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T20:32:12+00:00"
+   "newest": "2026-10-22T20:42:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-23T05:15:00+09:00"
+   "newest": "2026-10-23T05:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,46 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T14:02:00+00:00"
+   "newest": "2026-10-22T12:09:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "scmp_business",
+   "source_name": "SCMP Business",
+   "title_en": "EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia",
+   "url": "https://www.scmp.com/news/china/article/3371832/eu-mulls-sanctions-reprieve-chinese-fabric-maker-accused-aiding-russia",
+   "published_utc": "2026-10-22T20:32:36+00:00",
+   "title_original": "EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e9934dd07a5053c7"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Unexpected combination and convincing reason (2026 Nobel Prize in Economics): Hall, Woodford contributed to effective implementation of fiscal and monetary policies | Politics, Economics, Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/962193?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-22T20:30:00+00:00",
+   "title_original": "意外な組み合わせと納得の理由〈26年ノーベル経済学賞〉はホール､ウッドフォード氏､財政･金融政策の効果的実行に貢献 | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7663f7a301e51c9a"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1969,7 +2005,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -1981,7 +2017,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4936,7 +4972,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
-   "published_utc": "2026-10-21T01:56:00+00:00",
+   "published_utc": "2026-10-21T01:56:01+00:00",
    "title_original": "央行开展800亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -51904,40 +51940,6 @@
    "live_wire": true,
    "manual": false,
    "id": "301c9fc2333c7b02"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
-   "title_en": "Bank of Japan July meeting: Need to speed up adjustment of monetary easing level - 1 member (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jU0x6bjZ4VE1EQ0VNUkNNQmpvSDV0MzVqTFJNZ09EZklmU3lmUTE0V0lPMm0wTzM2anJlTEtlVkRCc0VsLVc4MjEySExRQURNMGxzY0hTa3gwdTlUZXJxcVZldllmblZ4Ml81OUFhRHFldElvTFNMWm5OLS1mWXc?oc=5",
-   "published_utc": "2026-09-28T00:04:05+00:00",
-   "title_original": "日銀7月会合、金融緩和度合いの調整ペースアップが必要－1委員（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fb9dbe0d3516384c"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Shinhan Bank's sales of will trust exceeded 1 trillion won per year. The growth rate is steep, more",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVVzA3TXcwczJMTVNyTlBYOGtyWTJGZi1BSEttM0ZnWGF4NFNEZ0tGVXNWcXhOR3BfV3FHQ1ItWGFkZnJldjQ4VnFJbkUyZ1RSaGc?oc=5",
-   "published_utc": "2026-09-28T00:03:57+00:00",
-   "title_original": "Shinhan Bank's sales of will trust exceeded 1 trillion won per year. The growth rate is steep, more",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e7375e3e189f13c3"
   },
   {
    "source_id": "manual_ia",
