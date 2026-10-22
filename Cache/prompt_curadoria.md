@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T01:42:44.088356+00:00
+Última coleta: 2026-10-22T01:52:44.318455+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          996
+  🇯🇵 Japão          989
   🇨🇳 China          855
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  792
+  🇰🇷 Coreia do Sul  799
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK: Headline, Core Inflation Expected to Exceed August Forecasts Next Year
+  - [korea] BOK: Headline, Core Inflation Expected to Match August Forecasts This Year
+  - [korea] South Korean shares fall on profit taking; BOK in focus
+  - [korea] BOK: 2026, 2027 Economic Growth Expected to Be Well Above August Forecasts
+  - [korea] Bank of Korea: Decision to Hold Rates Steady Was Unanimous
   - [china] CHINA PBOC CONDUCTS CNY173 BLN VIA O/N REVERSE REPO THURS
   - [korea] Merck opens Korean chip materials plant to meet advanced memory demand
   - [taiwan] Taiwan's first-ever chip workers strike begins at Micron plant
@@ -24,6 +29,7 @@ Total: 3000 manchetes
   - [japan] Japan MOF To Auction Y2.8T Of 2-Year Govt Bonds Oct 29
   - [korea] The Bank of Korea freezes the base interest rate at 3% per annum... ‘Taking a breather’ after two consecutive 
   - [korea] Bank of Korea holds rates at 3% after back-to-back hikes
+  - [korea] (LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum... Take a breath after two consecutive raises
   - [japan] Singapore Dollar Gains Appeal as Carry-Trade Funding Currency Relative to Yen
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 29
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea freezes base interest rate at 3.00%... ‘Speed ​​adjustment’ after continuous impression
   - [korea] Bank of Korea Monetary Policy Committee freezes base interest rate at 3.00%
   - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.0%... Taking a breath after two impressions
-  - [korea] Bank of Korea freezes base interest rate at 3.00% per annum (Breaking News)
-  - [japan] Japan funding conditions still loose despite interest rate hikes, survey shows
-  - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.00% per annum
-  - [korea] [Breaking News] Bank of Korea freezes base interest rate... 3.00% per annum
-  - [korea] [Breaking News] Bank of Korea, ‘taking a breather’ in base interest rate… Freeze 3.00% per annum
-  - [japan] JGB Yield Curve Flattens Amid Continued AI-Related Credit Concerns — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T01:42:44+00:00",
+      "published_utc": "2026-10-22T01:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
