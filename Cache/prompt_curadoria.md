@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T02:12:45.205446+00:00
+Última coleta: 2026-10-22T02:22:45.067394+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          985
-  🇨🇳 China          857
+  🇯🇵 Japão          984
+  🇨🇳 China          858
   🇹🇼 Taiwan         356
   🇰🇷 Coreia do Sul  802
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Nikkei slips as chip stocks come under pressure due to wariness over AI investment
+  - [japan] Japan's Nikkei slips as chip shares pressured by AI capex caution
+  - [korea] Bank of Korea holds rates, upbeat outlook points to future hikes
+  - [korea] Bank of Korea freezes base interest rate at 3.0% per annum... Will it be raised in November after taking a bre
   - [korea] South Korean won strengthens most among Asian currencies
+  - [korea] [Full text] Bank of Korea Monetary Policy Committee October monetary policy direction
   - [japan] Japan's strong-armed $21 bln chip bet is low risk
   - [korea] The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Mone
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum [Newsis Pic]
@@ -29,6 +34,7 @@ Total: 3000 manchetes
   - [korea] Bank of Korea: Decision to Hold Rates Steady Was Unanimous
   - [china] The central bank launched a 173 billion yuan overnight reverse repurchase operation
   - [china] CHINA PBOC CONDUCTS CNY173 BLN VIA O/N REVERSE REPO THURS
+  - [korea] Full text of BOK statement on monetary policy decision in Oct.
   - [china] The central bank launched continuous overnight reverse repurchase operations, with an operation volume of 80 b
   - [korea] Bank of Korea freezes base interest rate at ‘3.00%’
   - [korea] Merck opens Korean chip materials plant to meet advanced memory demand
@@ -38,11 +44,11 @@ Total: 3000 manchetes
   - [japan] Japan MOF To Auction Y2.8T Of 2-Year Govt Bonds Oct 29
   - [korea] The Bank of Korea freezes the base interest rate at 3% per annum... ‘Taking a breather’ after two consecutive 
   - [korea] Bank of Korea holds rates at 3% after back-to-back hikes
+  - [china] The central bank launched a 173 billion yuan overnight reverse repurchase operation on October 22
   - [korea] (LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum... Take a breath after two consecutive raises
   - [japan] Singapore Dollar Gains Appeal as Carry-Trade Funding Currency Relative to Yen
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 29
-  - [korea] Bank of Korea holds rates after back-to-back hikes
   - [korea] Vice budget minister calls Future Fund 'fiscal innovation' for future growth
   - [korea] BOK holds key rate steady at 3% after 2 consecutive rate hikes
   - [korea] BOK pauses rate hikes as inflation, debt concerns linger
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea freezes the base interest rate by 3%... Avoid three consecutive raises
   - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.00% per annum... ‘Taking a breather’ after conse
   - [korea] [Breaking News] Bank of Korea base interest rate maintained at 3.00%… U.S. Federal Reserve action is also a va
-  - [korea] BOK stands pat in October following back-to-back policy rate hikes
-  - [korea] The Bank of Korea freezes the base interest rate at 3.00% per annum... Take a breath after two impressions
-  - [korea] Bank of Korea holds rates, upbeat outlook points to future hikes
-  - [korea] Bank of Korea freezes base interest rate at 3.00% per annum... ‘Taking a breath’ personality (step 1)
-  - [korea] The Bank of Korea paused its interest rate hike... Base interest rate frozen at 3%
-  - [korea] [Breaking News] Bank of Korea freezes base interest rate... Maintain 3% per year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T02:12:45+00:00",
+      "published_utc": "2026-10-22T02:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
