@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-22T02:22:45.067394+00:00",
- "collected_at_utc": "2026-10-22T02:22:45.067394+00:00",
+ "generated_at_utc": "2026-10-22T02:32:45.324517+00:00",
+ "collected_at_utc": "2026-10-22T02:32:45.324517+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 356,
   "korea": 802
  },
- "elapsed_s": 31.6,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-21T02:48:04+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T10:55:20+09:00"
+   "newest": "2026-10-22T11:26:16+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T02:21:55+00:00"
+   "newest": "2026-10-22T02:31:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T21:55:10+00:00"
+   "newest": "2026-10-22T00:55:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-22T11:00:00+09:00"
+   "newest": "2026-10-22T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T02:12:30+00:00"
+   "newest": "2026-10-22T02:26:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "더나은미래",
+   "title_en": "Bank of Korea base interest rate frozen at 3.00% per annum... Speed ​​adjustment after 2 consecutive raises",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCYjgtVEZ4MzY4TXRQMGtvTTNwNFFfekJkUUd2aFN2eGpNYTNWc3laM1ItZGpudzhZY2o0YU9ZMVlCN2NxdHd6UFg3TUt1QmozZFE?oc=5",
+   "published_utc": "2026-10-22T02:26:00+00:00",
+   "title_original": "한국은행 기준금리 연 3.00% 동결…2연속 인상 후 속도 조절",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5b891749f7445218"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -445,6 +462,24 @@
    "live_wire": false,
    "manual": false,
    "id": "e70fbc5e8de0f1e3"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스1",
+   "title_en": "[Full text] Bank of Korea Monetary Policy Committee October monetary policy direction decision statement",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jTjZzdTdISlpsWE5DeVhnRGFQZUM0SnpxeEF0SWVjZzNzVHpyaW9hQmt4V1M5ZkFBcjFPX2tLMzYxLTE0WThTZlNyYUs3b3YwNlRsaQ?oc=5",
+   "published_utc": "2026-10-22T02:01:58+00:00",
+   "title_original": "[전문] 한국은행 금융통화위원회 10월 통화정책방향 결정문",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "60640b9ef9484981"
   },
   {
    "source_id": "tradingview_live",
@@ -1425,40 +1460,6 @@
    "id": "06f960b06f989990"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "서울파이낸스",
-   "title_en": "[Breaking News] Bank of Korea freezes base interest rate at 3.0% per annum",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByZk1MMldDU0Q3Z1BOS2dGRkd6S1ZuUWhUeEw2d2IxTzNQUEFNbTJCSWt2eWlSZnVYMkl5YWZ3LXgzUlJTQS15elZvRVBEelA5YnQ5SEpRMFIxUEFUSVRwamU2cXVFX3hqblE?oc=5",
-   "published_utc": "2026-10-22T00:50:35+00:00",
-   "title_original": "[속보] 한국은행, 기준금리 연 3.0%로 동결",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "27f24048eff99b40"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "글로벌이코노믹",
-   "title_en": "[Breaking News] Bank of Korea decides to take a breather and freezes base interest rate... 3.00% per annum",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTZkaE9wSDVVbVZzaVlwcFFJVDFzLXNqWVFrblZMN0xfdmluak5NMGRwamFsaDdObmdMbHZkbmpMdTRNYjlRTGZDZUp6WTBOMkoyZmQ4TjZPdnhxMUdqMmx3eGtiUmJPay1vbnUtUUVBTFR5WHFaOXNfZGhsWUphM2JrNW8?oc=5",
-   "published_utc": "2026-10-22T00:50:31+00:00",
-   "title_original": "[속보] 한국은행, 숨고르기 결정 기준금리 동결...연 3.00%",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9f6c115ee526146e"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan tech supply chain eyes Texas for first US industrial cluster",
@@ -1491,6 +1492,24 @@
    "live_wire": false,
    "manual": false,
    "id": "3d007b4908406842"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar up slightly, other currencies see small moves ahead of central bank deluge",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQlo1MHlydnUxdmNIYkxWcWU5RTdlUE1fTzBfZ0JSNzFNNG1TOEVrUzU5S19zaGRyaC1PVzVUZ3VFcXo4b3J4bUlrM1B4Z0VLb2gyTjNkT2xYYk9xOXVsb3NvR3Zpd2VISEFoR1dkOFNTaVBjZG9odHo2bHlGWHdTWG5NSkJ0Z2I2RlAzcWlHQlNtTHVBYTRDb05SVGF3cXZxSU5rc01hR3pvYWdZUE9rR3l4cHBsZG83?oc=5",
+   "published_utc": "2026-10-21T22:24:12+00:00",
+   "title_original": "Dollar up slightly, other currencies see small moves ahead of central bank deluge",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "27fe6e525f026ed0"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51913,23 +51932,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1594d8368ccaad01"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Citi sees yen strengthening on reduced foreign investment",
-   "url": "https://www.investing.com/news/forex-news/citi-sees-yen-strengthening-on-reduced-foreign-investment-93CH-4916952",
-   "published_utc": "2026-09-25T09:06:41+00:00",
-   "title_original": "Citi sees yen strengthening on reduced foreign investment",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc12ce40262bf5ef"
   },
   {
    "source_id": "manual_ia",

@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T02:22:45.067394+00:00
+Última coleta: 2026-10-22T02:32:45.324517+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          984
@@ -17,12 +17,14 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea base interest rate frozen at 3.00% per annum... Speed ​​adjustment after 2 consecutive raises
   - [japan] Japan's Nikkei slips as chip stocks come under pressure due to wariness over AI investment
   - [japan] Japan's Nikkei slips as chip shares pressured by AI capex caution
   - [korea] Bank of Korea holds rates, upbeat outlook points to future hikes
   - [korea] Bank of Korea freezes base interest rate at 3.0% per annum... Will it be raised in November after taking a bre
   - [korea] South Korean won strengthens most among Asian currencies
   - [korea] [Full text] Bank of Korea Monetary Policy Committee October monetary policy direction
+  - [korea] [Full text] Bank of Korea Monetary Policy Committee October monetary policy direction decision statement
   - [japan] Japan's strong-armed $21 bln chip bet is low risk
   - [korea] The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Mone
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum [Newsis Pic]
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK holds key rate steady at 3 pct
   - [korea] Bank of Korea Holds Rate Steady After Back-to-Back Hikes
   - [korea] The Bank of Korea freezes the base interest rate by 3%... Avoid three consecutive raises
-  - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.00% per annum... ‘Taking a breather’ after conse
-  - [korea] [Breaking News] Bank of Korea base interest rate maintained at 3.00%… U.S. Federal Reserve action is also a va
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T02:22:45+00:00",
+      "published_utc": "2026-10-22T02:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
