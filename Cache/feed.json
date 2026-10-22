@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-22T18:42:44.639928+00:00",
- "collected_at_utc": "2026-10-22T18:42:44.639928+00:00",
+ "generated_at_utc": "2026-10-22T18:52:45.051803+00:00",
+ "collected_at_utc": "2026-10-22T18:52:45.051803+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 364,
   "korea": 810
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 13,
+   "count": 12,
    "error": "",
    "newest": "2026-10-22T01:23:00+00:00"
   },
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T14:16:35+00:00"
+   "newest": "2026-10-22T13:23:35+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T06:56:15+00:00"
+   "newest": "2026-10-21T14:17:37+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T18:40:00+00:00"
+   "newest": "2026-10-22T18:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yen jumps as oil, AI and France worries rattle markets",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4680ZP:0-yen-jumps-as-oil-ai-and-france-worries-rattle-markets/",
+   "published_utc": "2026-10-22T18:42:43+00:00",
+   "title_original": "Yen jumps as oil, AI and France worries rattle markets",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "358f5031fbd162ed"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -1566,6 +1583,25 @@
    "id": "5b7b7452089c49c2"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "중기이코노미",
+   "title_en": "Bank of Korea freezes base interest rate at 3.00%... Growth rate rises due to strong semiconductor industry",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WZm9wRE9mZWNVVUxTM08wbllyd2tJblNuc3BvdUZMc3BzaFlzSmFVdmUtN0dVRWpUSWZaSmV0SEdpWjRjWFpzVFFKM2VjSUtobEUwVzdFaGU4NHRZTXhBa0hxVmlEa2hFS3c?oc=5",
+   "published_utc": "2026-10-22T05:16:58+00:00",
+   "title_original": "한국은행, 기준금리 3.00% 동결…반도체 호조에 성장률 상향",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b8bc7b2274a1f91f"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Asia FX mixed, dollar slips near 3-wk low as traders eye central bank meetings",
@@ -1809,25 +1845,6 @@
    "id": "db67ef6a0214c746"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "JGB yields touch multi-week lows as traders weigh geopolitics, BOJ policy outlook",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N468039:0-jgb-yields-touch-multi-week-lows-as-traders-weigh-geopolitics-boj-policy-outlook/",
-   "published_utc": "2026-10-22T04:00:17+00:00",
-   "title_original": "JGB yields touch multi-week lows as traders weigh geopolitics, BOJ policy outlook",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8042bf7138d8a4ea"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Asia stocks slide as AI jitters hit Korean chipmakers",
@@ -1935,7 +1952,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -1947,7 +1964,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2241,23 +2258,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0f879414b83b5ced"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Yen jumps as oil, AI and France worries rattle markets",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw?oc=5",
-   "published_utc": "2026-10-22T02:10:00+00:00",
-   "title_original": "Yen jumps as oil, AI and France worries rattle markets",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "037aae0546679269"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2707,23 +2707,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cccc5f5129844176"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "BBS불교방송",
-   "title_en": "Bank of Korea base interest rate frozen at 3.00% per annum",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WVjJlLTRGY0pDSV85TlNiRlBiVEplMkRnbzBYcnJNMERLcDNDVW95NjhUTlFzVFdyYXpJekp5MEx2cVV1LXBQQmdncTQ3enBEUVQxUEVGcG5XRUxFMUpsNkF6ai03NUZGcENN?oc=5",
-   "published_utc": "2026-10-22T01:20:56+00:00",
-   "title_original": "한국은행 기준금리 연 3.00% 동결",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a3cca8d1e3e833e9"
   },
   {
    "source_id": "korea_herald_biz",
@@ -4362,23 +4345,6 @@
    "id": "e5cc372c63162978"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHNraGVxZVpzdVZzUjFvQlpfcXJRU2ZYdlJxdU5KY1k5ZVJCTGQtallhSmVkbjZFbDdmVE5NRTN1ODRMd3ltTUpkQWNTdy13NmQxZkhNZDVyOXFUU1o3OXlhQ3Nrc2RSRE05TmJQTkVTNnlseXdtd1NOMVdLdEo1cVU4OWlxMmk3S0Zvdg?oc=5",
-   "published_utc": "2026-10-21T06:08:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e277f33f899b7cc"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Samsung, SK Hynix upgrade China plants to make advanced memory chips - Reuters",
@@ -4464,6 +4430,23 @@
    "live_wire": false,
    "manual": false,
    "id": "4932d8c9ad5c811e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
+   "published_utc": "2026-10-21T05:02:00+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7b59d3d09f8c8605"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -7296,10 +7279,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "观察者网",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9Rc1BnRlhGM1d4c092aXBsdWVCUXE1NWpsTTZMSVA5X3E2MW0tOUt4dFdGY2o2OVNJNEZhTkdYMlN0Mi1EazBaUGxrTnhZUTI3dklRNjd6a0ZybFpLRElwVC01YWJCZ3JqYm9nVDVad1BFb1pkTUVVUkhnb0p6ejBURktuX1pu?oc=5",
-   "published_utc": "2026-10-20T05:07:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
+   "published_utc": "2026-10-20T05:07:00+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -7309,7 +7292,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b5a5b685c5ae149"
+   "id": "50e1092b7ea2ed64"
   },
   {
    "source_id": "gn_jp_investing",
@@ -7364,10 +7347,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "京报网",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
-   "published_utc": "2026-10-20T04:46:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
+   "published_utc": "2026-10-20T04:37:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -7378,7 +7361,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b8b7943e562e9e1"
+   "id": "113a63c4f4301728"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7520,23 +7503,6 @@
    "live_wire": true,
    "manual": false,
    "id": "05280fdf996be8e6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByR1RCUXRvdzJXdko3eDhTNzJoTkk3dU9yczRUTTRVaFl0ZFRnNF9mZHBtQkp6d3BNMXQ3TDRyTlFCcGxkWUxNbXF1X1VQWEdNX1JHbmdPbURVWFhoVENCNUp5SVJBRm80UVpzRzRhNA?oc=5",
-   "published_utc": "2026-10-20T03:18:00+00:00",
-   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e4ac9994d10111b"
   },
   {
    "source_id": "toyo_keizai",
@@ -8649,6 +8615,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b474010cf2072a9c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "界面新闻",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
+   "published_utc": "2026-10-19T12:18:00+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16528f1711d07747"
   },
   {
    "source_id": "tradingview_live",
@@ -51938,6 +51921,23 @@
    "live_wire": false,
    "manual": false,
    "id": "379fb25cbc04238e"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Services Producer Price Index (Aug.)",
+   "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2608.pdf",
+   "published_utc": "2026-09-27T23:50:00+00:00",
+   "title_original": "Services Producer Price Index (Aug.)",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "441c65dd0170cfc6"
   },
   {
    "source_id": "manual_ia",
