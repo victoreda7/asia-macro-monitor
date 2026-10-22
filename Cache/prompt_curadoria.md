@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T23:12:45.304616+00:00
+Última coleta: 2026-10-22T23:22:44.753551+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          967
-  🇨🇳 China          856
-  🇹🇼 Taiwan         366
+  🇯🇵 Japão          965
+  🇨🇳 China          855
+  🇹🇼 Taiwan         369
   🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix Shelves Plans for U.S. Listing of Memory-Chip Unit Solidigm
   - [japan] Japan Inflation Data Due On Friday
-  - [korea] SK Hynix drops Solidigm US IPO plan, according to newspaper report
+  - [korea] SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility
   - [korea] SK Hynix drops US IPO plan for Solidigm, newspaper reports
+  - [korea] SK Hynix drops Solidigm US IPO plan, according to newspaper report
   - [japan] Yen on track to gain from US midterm elections and France unrest
   - [china] China’s Bank Wealth Management Market Reaches 35.4 Trillion Yuan
   - [china] China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group
   - [china] Chow Tai Fook Jewellery Logs Q2 Chinese Mainland Retail Sales Value Down 5.3%
   - [korea] Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26
-  - [korea] Even with earnings this strong, Samsung at ₩70,000 and SK hynix at ₩200,000?... We recalculated the KOSPI’s fa
-  - [taiwan] Taiwan's first-ever chip workers strike hits Micron plant
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T23:12:45+00:00",
+      "published_utc": "2026-10-22T23:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
