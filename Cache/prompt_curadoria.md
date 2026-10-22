@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T11:12:43.350357+00:00
+Última coleta: 2026-10-22T11:22:43.777694+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          965
   🇨🇳 China          853
-  🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  825
+  🇹🇼 Taiwan         358
+  🇰🇷 Coreia do Sul  824
 
 ## O que já está no feed (não repita)
 
   - [china] Shenzhen’s Existing-Home Prices Fall in October
+  - [taiwan] Micron Taoyuan union reps begin symbolic 'strike' after Taichung deal
   - [japan] Yen Rises Amid Risk-off Mood
   - [korea] Bank of Korea Expected to Gradually Hike Twice More in Cycle — Market Talk
   - [china] Shanghai Bright Power Semiconductor Q3 Net Profit Up 2077.1% Y/Y
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean shares log 6-month closing low as chipmakers fall on profit-taking
   - [japan] Yen rallies as dollar wobbles toward Fed meeting By Reuters
   - [korea] [Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip subst
-  - [korea] BOK pauses rate hikes, but signals more may come
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T11:12:43+00:00",
+      "published_utc": "2026-10-22T11:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
