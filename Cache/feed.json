@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T05:12:42.790967+00:00",
- "collected_at_utc": "2026-10-22T05:12:42.790967+00:00",
+ "generated_at_utc": "2026-10-22T05:22:44.307915+00:00",
+ "collected_at_utc": "2026-10-22T05:22:44.307915+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 970,
+  "japan": 969,
   "china": 861,
   "taiwan": 355,
-  "korea": 814
+  "korea": 815
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T21:42:48+00:00"
+   "newest": "2026-10-21T11:32:56+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T04:44:01+00:00"
+   "newest": "2026-10-22T05:18:18+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-21T21:14:10+00:00"
+   "newest": "2026-10-22T05:11:54+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T23:07:57+00:00"
+   "newest": "2026-10-22T03:50:24+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T09:08:00+00:00"
+   "newest": "2026-10-22T01:01:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T14:10:59+09:00"
+   "newest": "2026-10-22T14:10:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T05:12:03+00:00"
+   "newest": "2026-10-22T05:22:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T03:50:01+00:00"
+   "newest": "2026-10-22T05:12:15+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui DS Asset Management Chief Market Strategist] (THE GOLD ONLINE)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MNUFnUWlkZUc3cElyWFFaV2ptNmNiOFJvQm85SkNHQzltZjBTOV9Ra09JVGRnTmVTLTdramVjdmlOejFqNlpveW5pQU5rQS1ON0JfZmMwMHNKQ0llQ3JHX1o0MkVpenpERGx1NktaRVNVUUdJZ085dE5DTk9Rdms?oc=5",
+   "published_utc": "2026-10-22T05:12:15+00:00",
+   "title_original": "2026年10月日銀政策会合プレビュー～今回の注目点を整理する【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】（THE GOLD ONLINE（ゴールドオンライン））",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f1034c71bbfb07fa"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -515,6 +533,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f8348f75e7d24588"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) BOK expects inflation to approach target level in 2028: Gov. Shin",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42SmJzWnVOb1h2UUxPVm43V3lsME5vSzk4ZmRGMlhpMDlSX2FCWUtmbTlPYUFkYU9CSDN6eXQyby1KanJfbmxFeXFudFRSWHlCRDFYMjlOQnY5dw?oc=5",
+   "published_utc": "2026-10-22T03:09:43+00:00",
+   "title_original": "(URGENT) BOK expects inflation to approach target level in 2028: Gov. Shin",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c8a37e047d11aac2"
   },
   {
    "source_id": "tradingview_live",
@@ -6303,6 +6339,23 @@
    "id": "05280fdf996be8e6"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByR1RCUXRvdzJXdko3eDhTNzJoTkk3dU9yczRUTTRVaFl0ZFRnNF9mZHBtQkp6d3BNMXQ3TDRyTlFCcGxkWUxNbXF1X1VQWEdNX1JHbmdPbURVWFhoVENCNUp5SVJBRm80UVpzRzRhNA?oc=5",
+   "published_utc": "2026-10-20T03:18:00+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e4ac9994d10111b"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Is the sudden rise in interest rates in France only due to special factors? The sudden sell-off of government bonds...Three warnings that Japan should heed | Politics, Economy, Investment | Toyo Keizai Online",
@@ -7395,23 +7448,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b474010cf2072a9c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "界面新闻",
-   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
-   "published_utc": "2026-10-19T12:18:00+00:00",
-   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16528f1711d07747"
   },
   {
    "source_id": "tradingview_live",
@@ -51907,41 +51943,6 @@
    "live_wire": false,
    "manual": false,
    "id": "34b8ab9d5b6d3857"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "The Japanese government will explain the content of the US-China summit and also hold a Japan-US summit telephone talk.",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260926de52519",
-   "published_utc": "2026-09-25T20:33:22+00:00",
-   "title_original": "米中首脳会談の内容説明を 日米首脳電話会談も 日本政府",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b46e37789dd4be5f"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Yen jumps as Trump shows concern over its weakness, dollar halts daily win streak",
-   "url": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
-   "published_utc": "2026-09-25T20:03:29+00:00",
-   "title_original": "Yen jumps as Trump shows concern over its weakness, dollar halts daily win streak",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0287924ef88f8a18"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T05:12:42.790967+00:00
+Última coleta: 2026-10-22T05:22:44.307915+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          970
+  🇯🇵 Japão          969
   🇨🇳 China          861
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  814
+  🇰🇷 Coreia do Sul  815
 
 ## O que já está no feed (não repita)
 
+  - [japan] October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui
   - [korea] Nvidia taps Korean component makers for AI chips, robots
   - [china] China's yuan climbs to fresh 4-year high, global central bank meetings in focus
   - [korea] Bank of Korea Holds Steady After Back-to-Back Hikes — Update
@@ -27,6 +28,7 @@ Total: 3000 manchetes
   - [china] China bets on manufactured water, and wants to sell it to the world
   - [korea] Asia stocks slide as AI jitters hit Korean chipmakers
   - [japan] U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such
+  - [korea] (URGENT) BOK expects inflation to approach target level in 2028: Gov. Shin
   - [korea] BOK Gov: Stronger Won Helps Curb Import Prices, Boost Household Purchasing Power
   - [korea] BOK Gov: Core Inflation Could Near 2% Target in 2028
   - [china] The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 bi
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] (2nd LD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes
   - [korea] BOK: Headline, Core Inflation Expected to Exceed August Forecasts Next Year
   - [korea] BOK: Headline, Core Inflation Expected to Match August Forecasts This Year
-  - [korea] South Korean shares fall on profit taking; BOK in focus
-  - [korea] BOK: 2026, 2027 Economic Growth Expected to Be Well Above August Forecasts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T05:12:43+00:00",
+      "published_utc": "2026-10-22T05:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
