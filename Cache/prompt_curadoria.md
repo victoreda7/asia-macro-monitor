@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T08:02:42.778871+00:00
+Última coleta: 2026-10-22T08:12:45.734029+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          964
+  🇯🇵 Japão          965
   🇨🇳 China          860
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  822
+  🇰🇷 Coreia do Sul  821
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan to consider re-introducing gas and electricity subsidies, sources say
   - [japan] BOJ to hold rate at 1.25% at meeting next week
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [japan] Japan's 2027 Wage Talks Could Shape BOJ Rate Hikes — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea Holds Steady After Back-to-Back Hikes — Update
   - [korea] Bank of Korea holds rates, upbeat outlook points to future hikes
   - [korea] Bank of Korea stops raising interest rates... Tightening speed control
-  - [korea] (3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T08:02:42+00:00",
+      "published_utc": "2026-10-22T08:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

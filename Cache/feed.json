@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T08:02:42.778871+00:00",
- "collected_at_utc": "2026-10-22T08:02:42.778871+00:00",
+ "generated_at_utc": "2026-10-22T08:12:45.734029+00:00",
+ "collected_at_utc": "2026-10-22T08:12:45.734029+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 964,
+  "japan": 965,
   "china": 860,
   "taiwan": 354,
-  "korea": 822
+  "korea": 821
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T06:38:27+00:00"
+   "newest": "2026-10-22T04:28:04+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 57,
+   "count": 58,
    "error": "",
-   "newest": "2026-10-22T13:53:11+08:00"
+   "newest": "2026-10-22T14:53:14+08:00"
   },
   {
    "source_id": "investing_live",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-22T16:56:55+00:00"
+   "newest": "2026-10-22T17:01:55+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T02:00:00+00:00"
+   "newest": "2026-10-22T01:01:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T16:49:28+09:00"
+   "newest": "2026-10-22T16:49:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T00:54:00+00:00"
+   "newest": "2026-10-22T07:37:51+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T08:01:33+00:00"
+   "newest": "2026-10-22T08:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T03:57:29+00:00"
+   "newest": "2026-10-22T00:55:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T06:17:39+00:00"
+   "newest": "2026-10-22T07:46:59+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan to consider re-introducing gas and electricity subsidies, sources say",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4680IF:0-japan-to-consider-re-introducing-gas-and-electricity-subsidies-sources-say/",
+   "published_utc": "2026-10-22T08:11:23+00:00",
+   "title_original": "Japan to consider re-introducing gas and electricity subsidies, sources say",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8156a129f40df6c8"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1737,24 +1754,6 @@
    "id": "41d8fed066357aab"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOK: 2026, 2027 Economic Growth Expected to Be Well Above August Forecasts",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021012307_20261021012313:0-bok-2026-2027-economic-growth-expected-to-be-well-above-august-forecasts/",
-   "published_utc": "2026-10-22T01:50:00+00:00",
-   "title_original": "BOK: 2026, 2027 Economic Growth Expected to Be Well Above August Forecasts",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "450aaf18773684e1"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "资鲸",
    "title_en": "The central bank launched a 173 billion yuan overnight reverse repurchase operation",
@@ -2821,8 +2820,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -2836,7 +2835,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -5383,8 +5382,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -5398,7 +5397,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -5880,8 +5879,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -5895,7 +5894,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -7800,8 +7799,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -7815,7 +7814,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
