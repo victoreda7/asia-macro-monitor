@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T04:16:13.773343+00:00
+Última coleta: 2026-10-22T04:22:46.261464+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          973
+  🇯🇵 Japão          972
   🇨🇳 China          861
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  811
+  🇰🇷 Coreia do Sul  812
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan climbs to fresh 4-year high, global central bank meetings in focus
+  - [korea] Bank of Korea Holds Steady After Back-to-Back Hikes — Update
   - [korea] (3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening
   - [china] China snaps up Australian canola as improved ties, lower tariffs fuel demand
-  - [korea] Bank of Korea Holds Steady After Back-to-Back Hikes — Update
   - [japan] JGB yields touch multi-week lows as traders weigh geopolitics, BOJ policy outlook
   - [china] China bets on manufactured water, and wants to sell it to the world
   - [korea] Asia stocks slide as AI jitters hit Korean chipmakers
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK: 2026, 2027 Economic Growth Expected to Be Well Above August Forecasts
   - [korea] Bank of Korea: Decision to Hold Rates Steady Was Unanimous
   - [china] The central bank launched a 173 billion yuan overnight reverse repurchase operation
-  - [china] CHINA PBOC CONDUCTS CNY173 BLN VIA O/N REVERSE REPO THURS
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T04:16:14+00:00",
+      "published_utc": "2026-10-22T04:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
