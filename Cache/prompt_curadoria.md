@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T21:12:46.634724+00:00
+Última coleta: 2026-10-22T21:22:44.796772+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          967
-  🇨🇳 China          858
-  🇹🇼 Taiwan         365
+  🇯🇵 Japão          968
+  🇨🇳 China          856
+  🇹🇼 Taiwan         366
   🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
-  - [japan] USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen
   - [china] China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering
+  - [japan] USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen
+  - [japan] Dollar slips while yen jumps to five-week high as traders flock to safe havens
   - [china] EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia
   - [japan] Unexpected combination and convincing reason (2026 Nobel Prize in Economics): Hall, Woodford contributed to ef
   - [korea] BOK Financial Price Target Cut to $140.00/Share From $146.00 by Citigroup
@@ -44,6 +45,7 @@ Total: 3000 manchetes
   - [taiwan] Micron Taoyuan union reps begin symbolic 'strike' after Taichung deal
   - [japan] Yen Rises Amid Risk-off Mood
   - [korea] Bank of Korea Expected to Gradually Hike Twice More in Cycle — Market Talk
+  - [japan] Yen surges to 3-week high as dollar wobbles ahead of c.bank meetings
   - [china] Shanghai Bright Power Semiconductor Q3 Net Profit Up 2077.1% Y/Y
   - [taiwan] Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group
   - [china] Chow Tai Fook Jewellery Logs Q2 Chinese Mainland Retail Sales Value Down 5.3%
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] The Trade Department updated the management list of entities exporting strategic high-tech goods, adding 343 n
   - [china] China blue-chip index confirms bear market as AI stocks slump
   - [china] China’s Gulf oil imports forecast to near pre-Iran war high as shipments rebound
-  - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
-  - [korea] Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won i
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T21:12:46+00:00",
+      "published_utc": "2026-10-22T21:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
