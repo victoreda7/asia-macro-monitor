@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T14:37:49.556311+00:00
+Última coleta: 2026-10-22T14:42:46.668739+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          973
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] Alibaba Drops as China Tightens E-Commerce Standards
   - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [korea] SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman
+  - [korea] The Bank of Korea freezes the base interest rate at 3%... “We will continue the austerity stance.”
   - [korea] Samsung Bioepis Releases Fourth Quarter 2026 Biosimilar Market Report Highlighting Importance of Supply Contin
   - [japan] Japan's strong-armed $21 bln chip bet is low risk
   - [japan] Yen set for biggest rally in a month; risk-averse investors shun dollar
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says
   - [japan] Japan's Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims
   - [japan] Yen rallies as dollar slips to 3-wk low; traders eye central bank meetings
-  - [korea] S. Korean won strengthens against U.S. dollar after BOK holds key rate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T14:37:49+00:00",
+      "published_utc": "2026-10-22T14:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
