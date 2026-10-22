@@ -7,20 +7,44 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T00:52:45.592273+00:00
+Última coleta: 2026-10-22T01:12:48.006525+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1022
-  🇨🇳 China          863
-  🇹🇼 Taiwan         359
-  🇰🇷 Coreia do Sul  756
+  🇯🇵 Japão          1008
+  🇨🇳 China          855
+  🇹🇼 Taiwan         358
+  🇰🇷 Coreia do Sul  779
 
 ## O que já está no feed (não repita)
 
+  - [korea] Vice budget minister calls Future Fund 'fiscal innovation' for future growth
+  - [korea] BOK holds key rate steady at 3% after 2 consecutive rate hikes
+  - [korea] BOK pauses rate hikes as inflation, debt concerns linger
+  - [korea] Bank of Korea Holds Rate Steady After Back-to-Back Hikes
+  - [korea] The Bank of Korea freezes the base interest rate by 3%... Avoid three consecutive raises
+  - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.00% per annum... ‘Taking a breather’ after conse
+  - [korea] [Breaking News] Bank of Korea base interest rate maintained at 3.00%… U.S. Federal Reserve action is also a va
+  - [korea] BOK stands pat in October following back-to-back policy rate hikes
+  - [korea] The Bank of Korea freezes the base interest rate at 3.00% per annum... Take a breath after two impressions
+  - [korea] Bank of Korea holds rates after back-to-back hikes
+  - [korea] [Breaking News] Bank of Korea freezes base interest rate... Maintain 3% per year
+  - [japan] Bank of Japan Accounts (October 20)
+  - [korea] Bank of Korea freezes base interest rate at 3.00% per annum, paying attention to whether further increase in N
+  - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.00%
+  - [korea] Bank of Korea freezes base interest rate at 3.00%... ‘Speed ​​adjustment’ after continuous impression
+  - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.0%... Taking a breath after two impressions
+  - [korea] Bank of Korea freezes base interest rate at 3.00% per annum (Breaking News)
+  - [korea] [Breaking News] Bank of Korea freezes base interest rate... 3.00% per annum
+  - [korea] [Breaking News] Bank of Korea, ‘taking a breather’ in base interest rate… Freeze 3.00% per annum
   - [japan] JGB Yield Curve Flattens Amid Continued AI-Related Credit Concerns — Market Talk
+  - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.0% per annum
+  - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.00% per annum
   - [korea] [Breaking News] Bank of Korea decides to take a breather and freezes base interest rate... 3.00% per annum
+  - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.0% per annum - Money Today
   - [korea] [Breaking News] Bank of Korea freezes base interest rate... 3.0% per annum
   - [korea] [Breaking News] Bank of Korea base interest rate frozen at 3.00% per annum
+  - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.0% per annum... ‘taking a breather’ after two hi
+  - [korea] [Breaking News] Bank of Korea maintains base interest rate at 3% - Chosun Biz
   - [japan] Japan funding conditions still loose despite interest rate hikes, survey shows
   - [taiwan] Taiwan tech supply chain eyes Texas for first US industrial cluster
   - [japan] Now that we have entered the ``age of interest rates,'' should you really buy or rent a house? Hiroyuki's ``ex
@@ -33,30 +57,6 @@ Total: 3000 manchetes
   - [china] <Special Demand for AI Semiconductors in China> The reality of the "sluggish profit margin" faced by Citizen M
   - [korea] Today (22nd) October Bank of Korea Monetary Policy Committee meeting... The outlook for a base interest rate f
   - [korea] YMTC overtakes Samsung in China’s NAND flash market
-  - [japan] INPEX: Abadi-led growth and Asian supply security underpin a JPY 1.95tn investment plan
-  - [korea] Ukraine's anti-corruption police search central bank, governor says no link to bank activity
-  - [japan] Japan beef imports shift to Australia as droughts hit US herds
-  - [korea] BOK Financial Is Maintained at Neutral by DA Davidson
-  - [korea] BOK Financial Price Target Cut to $141.00/Share From $148.00 by Stephens & Co.
-  - [china] China’s Export Boom May Ease in 2027 as Front-Loading Fades, Economists Say
-  - [taiwan] Moody’s upgrades TSMC rating to Aa2 on booming AI demand and market dominance
-  - [china] Kremlin Says China Preparing for Possible Putin-Trump-Xi Meeting
-  - [japan] France's 10-year government bond yield reaches 5%, highest level in 24 years
-  - [china] Germany wants to avoid China trade war despite EU ‘kill switch’: Merz
-  - [japan] INPEX: Abadi anchors a projected 60% business expansion, backed by JPY 1.95tn of near-term growth investment
-  - [china] Fujiyama Power Systems Comments On Reports Of China's Proposed Restrictions On Export Of Tech Used In Solar Ce
-  - [japan] Foreign visitors' spending in Japan hits record 7 tril. yen in Jan.-Sept.
-  - [korea] The average annual interest rate of illegal loan contracts issued by the Financial Supervisory Servi..
-  - [china] ProBio Successfully Completes NMPA Pre-Approval Inspection for Biologics Manufacturing Facility in Nanjing, Ch
-  - [china] Huhutech International Group - Subsidiary Joins Consortium Bidding On Semiconductor Fab Gas Delivery System Pr
-  - [japan] One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Ad
-  - [china] HUHUTECH Subsidiary Joins Consortium Bidding on Semiconductor Fab Gas Delivery System Project in China Valued 
-  - [japan] Japan to lower maximum subsidy for newly registered EVs by 40% to 750,000 yen from 2027, industry ministry say
-  - [korea] Samsung and SK Hynix Just Made a Big China Chip Move
-  - [china] The EU will ‘pull its punches’ on China despite growing trade war talk: analysts
-  - [korea] Hyundai Mobis Accelerates Full-Cycle Collaboration as a "K-Automotive Semiconductor Korea One Team"
-  - [china] China uses crude stockpiles, but rising oil imports may curtail draws: Russell
-  - [japan] IMF official says currency intervention offers limited benefits By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T00:52:45+00:00",
+      "published_utc": "2026-10-22T01:12:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
