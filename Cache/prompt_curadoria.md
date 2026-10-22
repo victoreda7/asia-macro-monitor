@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T17:02:43.101057+00:00
+Última coleta: 2026-10-22T17:12:45.442135+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          973
-  🇨🇳 China          853
+  🇯🇵 Japão          972
+  🇨🇳 China          854
   🇹🇼 Taiwan         364
   🇰🇷 Coreia do Sul  810
 
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [china] China copper import premium hits highest since 2014
   - [china] China's blue chips slump to 15-month lows as AI stocks slide
   - [china] Vietnam surpasses China as Brazil's main source of steel imports
+  - [china] PBOC Details Yuan Access as Cross-Border Use Grows
   - [japan] Nippon Steel to invest $3 billion in modernizing U.S. Steel factory equipment, says Nikkei
   - [korea] Base interest rate frozen at 3%... Governor of the Bank of Korea criticizes fiscal policy
   - [china] Alibaba Drops as China Tightens E-Commerce Standards
@@ -46,7 +47,6 @@ Total: 3000 manchetes
   - [china] China blue-chip index confirms bear market as AI stocks slump
   - [china] China’s Gulf oil imports forecast to near pre-Iran war high as shipments rebound
   - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
-  - [japan] Cuts announced to Japan's eco-friendly car subsidies
   - [korea] Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won i
   - [korea] After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk
   - [china] Zhejiang Wazam New Materials Q3 Net Profit At 627.0 Million Yuan
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T17:02:43+00:00",
+      "published_utc": "2026-10-22T17:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
