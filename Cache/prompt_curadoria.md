@@ -7,56 +7,56 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T01:12:48.006525+00:00
+Última coleta: 2026-10-22T01:22:46.126221+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1008
-  🇨🇳 China          855
+  🇯🇵 Japão          1005
+  🇨🇳 China          853
   🇹🇼 Taiwan         358
-  🇰🇷 Coreia do Sul  779
+  🇰🇷 Coreia do Sul  784
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 29
+  - [korea] Bank of Korea holds rates after back-to-back hikes
   - [korea] Vice budget minister calls Future Fund 'fiscal innovation' for future growth
   - [korea] BOK holds key rate steady at 3% after 2 consecutive rate hikes
   - [korea] BOK pauses rate hikes as inflation, debt concerns linger
+  - [korea] BOK holds key rate steady at 3 pct
   - [korea] Bank of Korea Holds Rate Steady After Back-to-Back Hikes
   - [korea] The Bank of Korea freezes the base interest rate by 3%... Avoid three consecutive raises
   - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.00% per annum... ‘Taking a breather’ after conse
   - [korea] [Breaking News] Bank of Korea base interest rate maintained at 3.00%… U.S. Federal Reserve action is also a va
   - [korea] BOK stands pat in October following back-to-back policy rate hikes
   - [korea] The Bank of Korea freezes the base interest rate at 3.00% per annum... Take a breath after two impressions
-  - [korea] Bank of Korea holds rates after back-to-back hikes
+  - [korea] Bank of Korea freezes base interest rate at 3.00% per annum... ‘Taking a breath’ personality (step 1)
   - [korea] [Breaking News] Bank of Korea freezes base interest rate... Maintain 3% per year
+  - [korea] Bank of Korea holds rates as expected after back-to-back hikes
   - [japan] Bank of Japan Accounts (October 20)
+  - [korea] Bank of Korea Holds Rates as Expected
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum, paying attention to whether further increase in N
+  - [japan] Cuts announced to Japan's eco-friendly car subsidies
   - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.00%
   - [korea] Bank of Korea freezes base interest rate at 3.00%... ‘Speed ​​adjustment’ after continuous impression
   - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.0%... Taking a breath after two impressions
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum (Breaking News)
+  - [japan] Japan funding conditions still loose despite interest rate hikes, survey shows
+  - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.00% per annum
   - [korea] [Breaking News] Bank of Korea freezes base interest rate... 3.00% per annum
   - [korea] [Breaking News] Bank of Korea, ‘taking a breather’ in base interest rate… Freeze 3.00% per annum
   - [japan] JGB Yield Curve Flattens Amid Continued AI-Related Credit Concerns — Market Talk
   - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.0% per annum
-  - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.00% per annum
   - [korea] [Breaking News] Bank of Korea decides to take a breather and freezes base interest rate... 3.00% per annum
   - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.0% per annum - Money Today
   - [korea] [Breaking News] Bank of Korea freezes base interest rate... 3.0% per annum
   - [korea] [Breaking News] Bank of Korea base interest rate frozen at 3.00% per annum
+  - [korea] [Breaking News] Bank of Korea base interest rate maintained at 3.00% per annum... Take a breath after two impr
   - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.0% per annum... ‘taking a breather’ after two hi
   - [korea] [Breaking News] Bank of Korea maintains base interest rate at 3% - Chosun Biz
-  - [japan] Japan funding conditions still loose despite interest rate hikes, survey shows
   - [taiwan] Taiwan tech supply chain eyes Texas for first US industrial cluster
   - [japan] Now that we have entered the ``age of interest rates,'' should you really buy or rent a house? Hiroyuki's ``ex
   - [korea] Bank of Korea decides base interest rate today... Weight on ‘Maintain’
   - [korea] The Bank of Korea is likely to freeze its base interest rate... Pay attention to the possibility of additional
-  - [japan] Japan growth strategy to focus on chips in short term, AI in medium term
-  - [korea] Today, the Bank of Korea's Monetary Policy Committee is expected to freeze the base interest rate at 3.00%.
-  - [japan] U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such
-  - [japan] Consumption tax reduction bill: Ruling party “passes the bill after repeated deliberations” Opposition party “
-  - [china] <Special Demand for AI Semiconductors in China> The reality of the "sluggish profit margin" faced by Citizen M
-  - [korea] Today (22nd) October Bank of Korea Monetary Policy Committee meeting... The outlook for a base interest rate f
-  - [korea] YMTC overtakes Samsung in China’s NAND flash market
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T01:12:48+00:00",
+      "published_utc": "2026-10-22T01:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

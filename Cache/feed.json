@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T01:12:48.006525+00:00",
- "collected_at_utc": "2026-10-22T01:12:48.006525+00:00",
+ "generated_at_utc": "2026-10-22T01:22:46.126221+00:00",
+ "collected_at_utc": "2026-10-22T01:22:46.126221+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1008,
-  "china": 855,
+  "japan": 1005,
+  "china": 853,
   "taiwan": 358,
-  "korea": 779
+  "korea": 784
  },
- "elapsed_s": 36.2,
+ "elapsed_s": 31.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T23:00:00+00:00"
+   "newest": "2026-10-22T00:15:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 49,
+   "count": 50,
    "error": "",
-   "newest": "2026-10-21T23:17:38+08:00"
+   "newest": "2026-10-22T09:00:51+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T00:51:01+00:00"
+   "newest": "2026-10-22T01:14:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T00:20:24+00:00"
+   "newest": "2026-10-22T01:13:05+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T01:04:23+00:00"
+   "newest": "2026-10-21T09:50:21+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T04:34:17+00:00"
+   "newest": "2026-10-22T00:57:58+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T21:08:05+00:00"
+   "newest": "2026-10-21T22:26:19+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T01:12:15+00:00"
+   "newest": "2026-10-22T01:21:59+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T21:46:57+00:00"
+   "newest": "2026-10-22T01:08:48+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan MOF To Auction Y3.3T Of TD-Bills Oct 29",
+   "url": "https://www.tradingview.com/news/DJN_DN20261021012259:0-japan-mof-to-auction-y3-3t-of-td-bills-oct-29/",
+   "published_utc": "2026-10-22T01:20:00+00:00",
+   "title_original": "Japan MOF To Auction Y3.3T Of TD-Bills Oct 29",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dde3e2cb73ad88e3"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Bank of Korea holds rates after back-to-back hikes",
+   "url": "https://www.investing.com/news/economy-news/bank-of-korea-holds-rates-after-backtoback-hikes-4964499",
+   "published_utc": "2026-10-22T01:13:05+00:00",
+   "title_original": "Bank of Korea holds rates after back-to-back hikes",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ad4bfb75ac716f83"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -394,6 +428,23 @@
    "live_wire": false,
    "manual": false,
    "id": "db4ad33d97df592d"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "BOK holds key rate steady at 3 pct",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3YmFRcWxJQUlUdUZpVy1meThnLVZrMlFVbE45akVhblJSNXRDZTZlS0JQVlA4TEI1UEJySGVCU1JCS3kzeUc2OFN2WjdaYktidFBQVWwwUlFhcjdYNUFYSGJWS09YRFduRkN5aWliOXBlTFN2b0xR?oc=5",
+   "published_utc": "2026-10-22T01:08:48+00:00",
+   "title_original": "BOK holds key rate steady at 3 pct",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f85d5d19c124f2d5"
   },
   {
    "source_id": "tradingview_live",
@@ -498,21 +549,21 @@
    "id": "73d5ca935d798186"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Bank of Korea holds rates after back-to-back hikes",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N467041:0-bank-of-korea-holds-rates-after-back-to-back-hikes/",
-   "published_utc": "2026-10-22T01:02:20+00:00",
-   "title_original": "Bank of Korea holds rates after back-to-back hikes",
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스투데이",
+   "title_en": "Bank of Korea freezes base interest rate at 3.00% per annum... ‘Taking a breath’ personality (step 1)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKaXpHcGpPRElacjhQVWpydUE1N2xMTUpTcVdhUmN5cXFvbjNOaHFObzZYUVoyQ3BpdGFmQ2hNazY2REs1cFR0U0RHMnlUOEJWVGFzRGRJdjRKYW9odHc?oc=5",
+   "published_utc": "2026-10-22T01:02:00+00:00",
+   "title_original": "한국은행, 기준금리 연 3.00%로 동결…'숨고르기' 성격(1보)",
    "region": "korea",
    "topics": [
     "monetary"
    ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
    "manual": false,
-   "id": "49a39c053fe4b7f4"
+   "id": "1153256b8ca3e366"
   },
   {
    "source_id": "gn_kr_bok",
@@ -532,6 +583,23 @@
    "id": "3370d42a73def6f8"
   },
   {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Bank of Korea holds rates as expected after back-to-back hikes",
+   "url": "https://www.investing.com/news/economy-news/bank-of-korea-holds-rates-as-expected-after-backtoback-hikes-4964494",
+   "published_utc": "2026-10-22T01:00:36+00:00",
+   "title_original": "Bank of Korea holds rates as expected after back-to-back hikes",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "116bf4cb2e3c8393"
+  },
+  {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (October 20)",
@@ -549,6 +617,23 @@
    "id": "ec0f42a760b9874d"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Bank of Korea Holds Rates as Expected",
+   "url": "https://www.tradingview.com/news/te_news:593988:0-bank-of-korea-holds-rates-as-expected/",
+   "published_utc": "2026-10-22T00:59:55+00:00",
+   "title_original": "Bank of Korea Holds Rates as Expected",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9603db4212c478a3"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "스마트비즈",
    "title_en": "Bank of Korea freezes base interest rate at 3.00% per annum, paying attention to whether further increase in November",
@@ -564,6 +649,23 @@
    "live_wire": false,
    "manual": false,
    "id": "79b4ec5fb3881054"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Cuts announced to Japan's eco-friendly car subsidies",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QWmUxbklNazNMQWJfdTB6eVotUl9GQ2tFTkhrdFFqbkdPMC1uNy1lWEtldHJUVlJiY3RRdllOdzJwYTZlT1NnV3FYTmc1cWpJTC1MWTRmaHZSMUpwSzZEc0psSQ?oc=5",
+   "published_utc": "2026-10-22T00:57:58+00:00",
+   "title_original": "Cuts announced to Japan's eco-friendly car subsidies",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1797372bb8aa058"
   },
   {
    "source_id": "gn_kr_bok",
@@ -632,6 +734,40 @@
    "live_wire": false,
    "manual": false,
    "id": "d0e381cfd6eb12a1"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan funding conditions still loose despite interest rate hikes, survey shows",
+   "url": "https://www.investing.com/news/economy-news/japan-funding-conditions-still-loose-despite-interest-rate-hikes-survey-shows-4964487",
+   "published_utc": "2026-10-22T00:54:23+00:00",
+   "title_original": "Japan funding conditions still loose despite interest rate hikes, survey shows",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5435aa1db7b9628d"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "YTN",
+   "title_en": "[Breaking News] Bank of Korea freezes base interest rate at 3.00% per annum",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XS0FicHlTZzE4elpSQ1hfN2h5cWgwWmRWQkh4NE9Va3hMOXhEcHgxMGlaWlpzYW9hTDRWbi1ZZWVjYnF3S1BRX3ZqWE80cXBVMURvbTRNbDh1dl84OGViOGFJTDVLbW9MeHE4OVlNWQ?oc=5",
+   "published_utc": "2026-10-22T00:53:00+00:00",
+   "title_original": "[속보] 한국은행, 기준금리 연 3.00%로 동결",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d9e6461d2e34e02d"
   },
   {
    "source_id": "gn_kr_bok",
@@ -703,23 +839,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "아주경제",
-   "title_en": "[Breaking News] Bank of Korea freezes base interest rate at 3.00% per annum",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmZWNQNFEwRWliWjEwTVV0YjhOZWV1ckIySE5HQmwxZkhXa2dyN2huX0ZubHh0b24wNWlXdlRsbFFTckUyUUtBTDlhRTN5d3N1aTJhUEN3elQ2d9IBWEFVX3lxTFBOZEthVEhabTJXUzNuaFVjUzdKQTBfd3c5N1Y2SnBqemhSa0ZrOGxzelpGQWFtaUhidllWRU5aZFNQd1M3TjJTckEybnYwQjhoY21Td1dsTUE?oc=5",
-   "published_utc": "2026-10-22T00:50:34+00:00",
-   "title_original": "[속보] 한국은행, 기준금리 연 3.00% 동결",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8d2db22b06d9f2e4"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "글로벌이코노믹",
    "title_en": "[Breaking News] Bank of Korea decides to take a breather and freezes base interest rate... 3.00% per annum",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTZkaE9wSDVVbVZzaVlwcFFJVDFzLXNqWVFrblZMN0xfdmluak5NMGRwamFsaDdObmdMbHZkbmpMdTRNYjlRTGZDZUp6WTBOMkoyZmQ4TjZPdnhxMUdqMmx3eGtiUmJPay1vbnUtUUVBTFR5WHFaOXNfZGhsWUphM2JrNW8?oc=5",
@@ -788,6 +907,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "www.ebn.co.kr",
+   "title_en": "[Breaking News] Bank of Korea base interest rate maintained at 3.00% per annum... Take a breath after two impressions",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM1kwR1hnOWh6djJwWFA2djVIUE1SYUlhcml4U2lCQVJlaklVVHZwR2dyeE5TZUdHTEJ2SzBZcVhidnkxb0FpX1pjM3ZBR1lKcl9mN2hxZGl0UTROS3VKMmFITnkxbllY?oc=5",
+   "published_utc": "2026-10-22T00:50:06+00:00",
+   "title_original": "[속보] 한국은행 기준금리 연 3.00% 유지…두 차례 인상 후 숨고르기",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc3e82b542b33dcc"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "경향신문",
    "title_en": "[Breaking News] Bank of Korea freezes base interest rate at 3.0% per annum... ‘taking a breather’ after two hikes",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEVms0bGs2R3l4X1RVd3JIU2szT3Vkc0J3YnR5c2I0MjhNUFQ5Q2ZveW9SOWloQmREYTMyZkRWcVFBTkZuMlhWSjBPb3FJckIxeGp6OXFMN0ZjZ9IBX0FVX3lxTE9ra2lNX1RSMEtpMDBSa1NJU05uX2ZiNGgwOU9ROFd6QzJwRFRMbjFndVRKb2pwaV90N3Z6TXE4NGFZUUJ5RExMVzJiSUIwNUNqaWJ1SUt2WlJvMkJvbVdj?oc=5",
@@ -819,23 +955,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cbeb85518a86969d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan funding conditions still loose despite interest rate hikes, survey shows",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46800H:0-japan-funding-conditions-still-loose-despite-interest-rate-hikes-survey-shows/",
-   "published_utc": "2026-10-22T00:45:57+00:00",
-   "title_original": "Japan funding conditions still loose despite interest rate hikes, survey shows",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5d1419ea36fa68e2"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4979,23 +5098,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYRENCTElBUWY0VlJyYmlCZlJtRXZwZGJyVHhrLVp2bGVTNE1jNHhmSk1lZkJLbUkzdHc5UzdSVzEtQ2RCUDNEcDNSMWVmVTlhMGhCRzNoQnFZQTg1QlNaTURXTGZpQQ?oc=5",
-   "published_utc": "2026-10-20T05:16:51+00:00",
-   "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "64993bffd548374b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "搜狐",
    "title_en": "The central bank will carry out overnight reverse repurchase operations for 9 consecutive working days, with a daily limit of no more than 1 trillion yuan｜News",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ05JekFBZk84STBXbC1OTUk3Z2thaU9kQkxnZFNPNDFlUk5XNEVvYmd4Y2luOFVrQ3kyVHBtbUxKNmU0bHNod21yZkg3d2Rwa3hobExHMDBlNllKWVlKcFo4dHVTT3c4YngtWVNHc05pQ21hN3UyVWpUOTZhSThVM01ZUm9DZWFx?oc=5",
@@ -5552,6 +5654,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2065248003ee4d2f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYRENCTElBUWY0VlJyYmlCZlJtRXZwZGJyVHhrLVp2bGVTNE1jNHhmSk1lZkJLbUkzdHc5UzdSVzEtQ2RCUDNEcDNSMWVmVTlhMGhCRzNoQnFZQTg1QlNaTURXTGZpQQ?oc=5",
+   "published_utc": "2026-10-20T01:18:51+00:00",
+   "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "64993bffd548374b"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -51808,130 +51927,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1bb1c11efd0e5379"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan estimates that consumer prices will rise by 2.6%, supporting expectations for interest rate hikes within this year - excluding special factors (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13V0VLMFllUUNWWXFyV3BmUHIxMXc0cEVoc1VUNTF4cGdTb0VYQWdBY3pGZjQzbEpwc1Q3eV9Ja1VMT29fZ2ljRExibXNabmtGLUJ3Z1E0MkFMUE5kemo5cUxFZjFqcE5NWS1nMFZxcXdiREFlV3JWYzkzc3pOclU?oc=5",
-   "published_utc": "2026-09-25T05:19:02+00:00",
-   "title_original": "日銀試算の消費者物価2.6%上昇､年内利上げ観測サポート-特殊要因除く（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f38f42f9b855b9d0"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan estimates consumer prices to rise 2.6%, supporting interest rate hike expectations within this year - excluding special factors (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZDZQbUUzeFItb09FMjZTUjFfa0g2NmgyMVM4Zl9ZQ2FHbTg5cjNzM3E3cHhUUFVKaFpoampuQ25XR0JvcmZqazlhanQ0OVNWVEFyUEhOZnhQZXRiNE53cmtJWXd5N01tWnFMN29YbWVxa2JXSFdHX3lqY0oxenF5ZG5IYlNVeTJKaEFhUWhR?oc=5",
-   "published_utc": "2026-09-25T05:19:02+00:00",
-   "title_original": "日銀試算の消費者物価2.6%上昇､年内利上げ観測サポート-特殊要因除く (Bloomberg)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d14115b1dc7b9192"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan estimates that consumer prices continue to exceed 2% target, supporting expectations for interest rate hike within this year (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13V0VLMFllUUNWWXFyV3BmUHIxMXc0cEVoc1VUNTF4cGdTb0VYQWdBY3pGZjQzbEpwc1Q3eV9Ja1VMT29fZ2ljRExibXNabmtGLUJ3Z1E0MkFMUE5kemo5cUxFZjFqcE5NWS1nMFZxcXdiREFlV3JWYzkzc3pOclU?oc=5",
-   "published_utc": "2026-09-25T05:19:02+00:00",
-   "title_original": "日銀試算の消費者物価は2%目標超え続く､年内利上げ観測をサポート（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b9a6857c324a23b1"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21jingji.com",
-   "title_en": "The central bank launched an 800 billion yuan MLF operation today; domestic refined oil will open a new round of price adjustment window | 21st Morning News - 21st Century Business Herald",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3gtOVg2alcyelZnMlBfUXpfNVNCZkw0c2oxMVh1U1VDWHNNZGtXSkVHeFBOeEZtQmFDNkpoSnFtbG85bGcwNFI1T1Zob09DWHNIXzRuUkJaQ3FUODgwd1VVRmUxQ2VFZnFvQnVjNzFaMXFSOTJJcWo0VzhDRGlZalhQU0dQV3lZM2NQaUpvQTBMMUQ1?oc=5",
-   "published_utc": "2026-09-25T05:11:25+00:00",
-   "title_original": "央行今日开展8000亿元MLF操作；国内成品油将开启新一轮调价窗口｜21早新闻- 21世纪经济报道",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9d4b84929a01eaec"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "EU urges Britain to raise tariffs on Chinese cars, FT says",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRk5yTGFvdlVQVXJQdVJPVlpOR01fWnlDb2VzbzNlbG14ME9MY3c5R1FuN3QxZFd3OVZyT2x3MFNDVVFocHFXSEdLLXJhQWF0RGl0ZlFaaTNBZXlhYTZzUmw0VklNUUhaMFR0N0JsdHRZR3o2Q1NfbGZzU0t2bUVMWjFkVURydUViWnFKNUpmSWFsdWxlUXJSMWlHbzBXYk9l?oc=5",
-   "published_utc": "2026-09-25T05:03:00+00:00",
-   "title_original": "EU urges Britain to raise tariffs on Chinese cars, FT says",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bb8254a2ea2d5e20"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "(BOJ Review) Granular Insights into Depositor Dynamics and Deposit Spreads in Japanese G-SIBs' Foreign Currency Deposits",
-   "url": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e12.htm",
-   "published_utc": "2026-09-25T05:00:00+00:00",
-   "title_original": "(BOJ Review) Granular Insights into Depositor Dynamics and Deposit Spreads in Japanese G-SIBs' Foreign Currency Deposits",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "28e769c406eb7eda"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "(BOJ Review)The Expansion and Diversification of Private Credit Funds",
-   "url": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e13.htm",
-   "published_utc": "2026-09-25T05:00:00+00:00",
-   "title_original": "(BOJ Review)The Expansion and Diversification of Private Credit Funds",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "81d393fc4047156d"
   },
   {
    "source_id": "manual_ia",
