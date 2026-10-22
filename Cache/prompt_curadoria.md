@@ -7,17 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T23:42:43.285661+00:00
+Última coleta: 2026-10-22T23:52:46.853896+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          965
-  🇨🇳 China          855
-  🇹🇼 Taiwan         369
-  🇰🇷 Coreia do Sul  811
+  🇯🇵 Japão          969
+  🇨🇳 China          853
+  🇹🇼 Taiwan         368
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [japan] September consumer price index excluding fresh food +2.1% compared to the same month last year
+  - [japan] MNI JAPAN SEPT CORE CPI +2.1% Y/Y; AUG +1.7%
+  - [japan] Japan core inflation exceeds BOJ target, cements near-term rate hike chance
+  - [japan] JAPAN SEPT CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +2.0% VS. +1.5% IN AUG; GOODS (EX-FRESH FOOD) +2.8% VS. +
+  - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
+  - [japan] JAPAN SEPT CPI: ENERGY PRICES -0.6% Y/Y (-0.04 POINT) VS. -0.7% (-0.05 PT) IN AUG
   - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike
+  - [korea] SK Hynix scraps Solidigm IPO plans, citing market conditions
+  - [japan] JAPAN SEPT CPI: PROCESSED FOOD +2.9% (+0.69 POINT CONTRIBUTION) VS. +2.7% (+0.64 PT) IN AUG
+  - [japan] JAPAN SEPT CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.4% Y/Y, 54TH STRAIGHT RISE (AUG +1.9%); MEDIAN FORECAST +2
+  - [japan] JAPAN SEPT TOTAL CPI +2.1% Y/Y, 61ST STRAIGHT RISE (AUG +1.9%); MEDIAN FORECAST +2.1%
+  - [japan] JAPAN SEPT INFLATION PICKS UP AS TOKYO’S SUMMER FREE BASE WATER CHARGE PROGRAM ENDS FOR SOME USERS, BASE YEAR 
   - [korea] SK Hynix Shelves Plans for U.S. Listing of Memory-Chip Unit Solidigm
   - [japan] JAPAN SEPT CORE CPI (EXCLUDING FRESH FOOD) +2.1% Y/Y, 61ST STRAIGHT RISE (AUG +1.7%); MEDIAN FORECAST +2.1%
   - [japan] Japan Sept core CPI rises 2.1% yr/yr
@@ -28,8 +39,8 @@ Total: 3000 manchetes
   - [korea] SK Hynix drops Solidigm US IPO plan, according to newspaper report
   - [japan] Yen on track to gain from US midterm elections and France unrest
   - [china] China’s Bank Wealth Management Market Reaches 35.4 Trillion Yuan
-  - [china] China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering
   - [japan] USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen
+  - [china] China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering
   - [japan] Dollar slips while yen jumps to five-week high as traders flock to safe havens
   - [china] EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia
   - [japan] Unexpected combination and convincing reason (2026 Nobel Prize in Economics): Hall, Woodford contributed to ef
@@ -46,17 +57,6 @@ Total: 3000 manchetes
   - [korea] Base interest rate frozen at 3%... Governor of the Bank of Korea criticizes fiscal policy
   - [china] Alibaba Drops as China Tightens E-Commerce Standards
   - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
-  - [korea] SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman
-  - [korea] Bank of Korea unanimously decides to ‘maintain the base interest rate at 3%’… “Need to check the effect of 2nd
-  - [korea] The Bank of Korea freezes the base interest rate at 3%... “We will continue the austerity stance.”
-  - [korea] Samsung Bioepis Releases Fourth Quarter 2026 Biosimilar Market Report Highlighting Importance of Supply Contin
-  - [japan] Japan's strong-armed $21 bln chip bet is low risk
-  - [japan] Yen set for biggest rally in a month; risk-averse investors shun dollar
-  - [taiwan] 343 new entities were added to the export control list of strategic high-tech goods | Sankei
-  - [china] Shenzhen’s Existing-Home Prices Fall in October
-  - [taiwan] Micron Taoyuan union reps begin symbolic 'strike' after Taichung deal
-  - [japan] Yen Rises Amid Risk-off Mood
-  - [korea] Bank of Korea Expected to Gradually Hike Twice More in Cycle — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T23:42:43+00:00",
+      "published_utc": "2026-10-22T23:52:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

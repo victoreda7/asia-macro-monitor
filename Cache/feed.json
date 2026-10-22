@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T23:42:43.285661+00:00",
- "collected_at_utc": "2026-10-22T23:42:43.285661+00:00",
+ "generated_at_utc": "2026-10-22T23:52:46.853896+00:00",
+ "collected_at_utc": "2026-10-22T23:52:46.853896+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 965,
-  "china": 855,
-  "taiwan": 369,
-  "korea": 811
+  "japan": 969,
+  "china": 853,
+  "taiwan": 368,
+  "korea": 810
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T04:28:04+00:00"
+   "newest": "2026-10-22T04:29:24+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T23:24:20+00:00"
+   "newest": "2026-10-22T23:39:12+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T23:18:27+00:00"
+   "newest": "2026-10-22T23:36:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T20:54:00+00:00"
+   "newest": "2026-10-22T21:09:57+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T14:34:36+00:00"
+   "newest": "2026-10-21T14:17:37+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T02:00:00+00:00"
+   "newest": "2026-10-22T01:01:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T07:58:34+09:00"
+   "newest": "2026-10-23T08:51:40+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T23:41:00+00:00"
+   "newest": "2026-10-22T23:50:35+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T07:46:59+00:00"
+   "newest": "2026-10-22T05:46:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,109 @@
  ],
  "items": [
   {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "September consumer price index excluding fresh food +2.1% compared to the same month last year",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261023de63991",
+   "published_utc": "2026-10-22T23:51:40+00:00",
+   "title_original": "9月消費者物価 生鮮食品除く指数 前年同月比＋2.1％",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "da04e3285315bd30"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "MNI JAPAN SEPT CORE CPI +2.1% Y/Y; AUG +1.7%",
+   "url": "https://www.tradingview.com/news/dpa_afx:84ca2ccafc259:0-mni-japan-sept-core-cpi-2-1-y-y-aug-1-7/",
+   "published_utc": "2026-10-22T23:49:07+00:00",
+   "title_original": "MNI JAPAN SEPT CORE CPI +2.1% Y/Y; AUG +1.7%",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0d58c51b72fa420d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan core inflation exceeds BOJ target, cements near-term rate hike chance",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46724Q:0-japan-core-inflation-exceeds-boj-target-cements-near-term-rate-hike-chance/",
+   "published_utc": "2026-10-22T23:43:53+00:00",
+   "title_original": "Japan core inflation exceeds BOJ target, cements near-term rate hike chance",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e57d77dd284f4284"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN SEPT CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +2.0% VS. +1.5% IN AUG; GOODS (EX-FRESH FOOD) +2.8% VS. +2.4% IN AUG",
+   "url": "https://www.tradingview.com/news/macenews:853757408094b:0-japan-sept-cpi-services-ex-owners-equivalent-rent-2-0-vs-1-5-in-aug-goods-ex-fresh-food-2-8-vs-2-4-in-aug/",
+   "published_utc": "2026-10-22T23:43:00+00:00",
+   "title_original": "JAPAN SEPT CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +2.0% VS. +1.5% IN AUG; GOODS (EX-FRESH FOOD) +2.8% VS. +2.4% IN AUG",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0492d7fc81425a8a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Nikkei May Decline Amid Concerns About Energy Costs — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261022014036:0-nikkei-may-decline-amid-concerns-about-energy-costs-market-talk/",
+   "published_utc": "2026-10-22T23:42:00+00:00",
+   "title_original": "Nikkei May Decline Amid Concerns About Energy Costs — Market Talk",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f95cce9c0a158e0d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN SEPT CPI: ENERGY PRICES -0.6% Y/Y (-0.04 POINT) VS. -0.7% (-0.05 PT) IN AUG",
+   "url": "https://www.tradingview.com/news/macenews:0fd475973094b:0-japan-sept-cpi-energy-prices-0-6-y-y-0-04-point-vs-0-7-0-05-pt-in-aug/",
+   "published_utc": "2026-10-22T23:41:00+00:00",
+   "title_original": "JAPAN SEPT CPI: ENERGY PRICES -0.6% Y/Y (-0.04 POINT) VS. -0.7% (-0.05 PT) IN AUG",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e6258ebd725fee7c"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike",
@@ -360,6 +463,91 @@
    "live_wire": true,
    "manual": false,
    "id": "606a9d018cc853e9"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK Hynix scraps Solidigm IPO plans, citing market conditions",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
+   "published_utc": "2026-10-22T23:39:12+00:00",
+   "title_original": "SK Hynix scraps Solidigm IPO plans, citing market conditions",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6aa2dd033efcab33"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN SEPT CPI: PROCESSED FOOD +2.9% (+0.69 POINT CONTRIBUTION) VS. +2.7% (+0.64 PT) IN AUG",
+   "url": "https://www.tradingview.com/news/macenews:1b74801d9094b:0-japan-sept-cpi-processed-food-2-9-0-69-point-contribution-vs-2-7-0-64-pt-in-aug/",
+   "published_utc": "2026-10-22T23:39:00+00:00",
+   "title_original": "JAPAN SEPT CPI: PROCESSED FOOD +2.9% (+0.69 POINT CONTRIBUTION) VS. +2.7% (+0.64 PT) IN AUG",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7e6c7cf5fac63de2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN SEPT CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.4% Y/Y, 54TH STRAIGHT RISE (AUG +1.9%); MEDIAN FORECAST +2.3%",
+   "url": "https://www.tradingview.com/news/macenews:f7731ef1b094b:0-japan-sept-core-core-cpi-ex-fresh-food-energy-2-4-y-y-54th-straight-rise-aug-1-9-median-forecast-2-3/",
+   "published_utc": "2026-10-22T23:38:00+00:00",
+   "title_original": "JAPAN SEPT CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.4% Y/Y, 54TH STRAIGHT RISE (AUG +1.9%); MEDIAN FORECAST +2.3%",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d7e66184202fc14c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN SEPT TOTAL CPI +2.1% Y/Y, 61ST STRAIGHT RISE (AUG +1.9%); MEDIAN FORECAST +2.1%",
+   "url": "https://www.tradingview.com/news/macenews:4565f80dc094b:0-japan-sept-total-cpi-2-1-y-y-61st-straight-rise-aug-1-9-median-forecast-2-1/",
+   "published_utc": "2026-10-22T23:37:00+00:00",
+   "title_original": "JAPAN SEPT TOTAL CPI +2.1% Y/Y, 61ST STRAIGHT RISE (AUG +1.9%); MEDIAN FORECAST +2.1%",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "70ba78d41d2e6e43"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN SEPT INFLATION PICKS UP AS TOKYO’S SUMMER FREE BASE WATER CHARGE PROGRAM ENDS FOR SOME USERS, BASE YEAR EFFECT OF FREE DAY CARE SERVICES WANES",
+   "url": "https://www.tradingview.com/news/macenews:162a63075094b:0-japan-sept-inflation-picks-up-as-tokyo-s-summer-free-base-water-charge-program-ends-for-some-users-base-year-effect-of-free-day-care-services-wanes/",
+   "published_utc": "2026-10-22T23:36:00+00:00",
+   "title_original": "JAPAN SEPT INFLATION PICKS UP AS TOKYO’S SUMMER FREE BASE WATER CHARGE PROGRAM ENDS FOR SOME USERS, BASE YEAR EFFECT OF FREE DAY CARE SERVICES WANES",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "43c48e4061397976"
   },
   {
    "source_id": "tradingview_live",
@@ -532,6 +720,23 @@
    "id": "6c4c3afc2afea619"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3czTU9vU0R1MUs1S2U5UmdQX2s5THdMSnppZVpzbkMxQzJfX0JyY1o2MHVpX1h3b2ZzREhWZ0VEeEw0YTVIOFp4X19oWjlFYWJpaFhYMmItTUpFYU83bllCWjZDSXd2RlR6U3hoOHVxOFNJbGJybkNUVHFPTEZrRWVvNm02Z0E0c09oY3V2c3VHejJ1UEFRX3BxRUZtMDRUdnNGbTFB?oc=5",
+   "published_utc": "2026-10-22T21:09:57+00:00",
+   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "099657ed920ba39c"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering trade friction with Europe and the US | Business | Toyo Keizai Online",
@@ -547,23 +752,6 @@
    "live_wire": false,
    "manual": false,
    "id": "abda22d11ccbdbdf"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmhJMkZNNjM5TkpjNnVnME9DWHc1Wkhoa0NqX1A5bWR3bHh3aURpTGRDbjVia3V1QXlBSG5mNFpONmdUbXBoT0huYUFlXzdHX2RsXzVMakw4aE5ZMXRiblB2UWdnb3d4WUN5aDkxLVdMMHdPREctRG85MkdhUFJKbTRlUk83WHdCaE0zU0VKaEVma3N6QXh4ZlA2MU5iUUpFYVp5TkRBM0hrQQ?oc=5",
-   "published_utc": "2026-10-22T20:54:00+00:00",
-   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b95392a85fcfbe5"
   },
   {
    "source_id": "investing_fx",
@@ -1202,23 +1390,6 @@
    "id": "7ac1ddbbd4aa0525"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China blue-chip index confirms bear market as AI stocks slump",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4680AP:0-china-blue-chip-index-confirms-bear-market-as-ai-stocks-slump/",
-   "published_utc": "2026-10-22T09:18:56+00:00",
-   "title_original": "China blue-chip index confirms bear market as AI stocks slump",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ad8b9c03a35d10b9"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "China’s Gulf oil imports forecast to near pre-Iran war high as shipments rebound",
@@ -1236,23 +1407,6 @@
    "id": "b9b0c129d0d38dbe"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4680CB:0-tsmc-seeks-factory-equipment-alternatives-to-thwart-china-s-rare-earths-grip-sources-say/",
-   "published_utc": "2026-10-22T08:58:19+00:00",
-   "title_original": "TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cc855fd82f2795b8"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won in losses”",
@@ -1268,57 +1422,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ce8ee7cfb21ef1fc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261022002642:0-after-pause-end-of-bok-tightening-cycle-now-in-sight-market-talk/",
-   "published_utc": "2026-10-22T08:23:00+00:00",
-   "title_original": "After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "09b56e8b006d676a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Zhejiang Wazam New Materials Q3 Net Profit At 627.0 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4680NR:0-zhejiang-wazam-new-materials-q3-net-profit-at-627-0-million-yuan/",
-   "published_utc": "2026-10-22T08:20:19+00:00",
-   "title_original": "Zhejiang Wazam New Materials Q3 Net Profit At 627.0 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7929178edf260057"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan to consider re-introducing gas and electricity subsidies, sources say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4680IF:0-japan-to-consider-re-introducing-gas-and-electricity-subsidies-sources-say/",
-   "published_utc": "2026-10-22T08:11:23+00:00",
-   "title_original": "Japan to consider re-introducing gas and electricity subsidies, sources say",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8156a129f40df6c8"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1373,23 +1476,6 @@
    "id": "be5e3fa3018b8dab"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan's 2027 Wage Talks Could Shape BOJ Rate Hikes — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261022002484:0-japan-s-2027-wage-talks-could-shape-boj-rate-hikes-market-talk/",
-   "published_utc": "2026-10-22T07:53:00+00:00",
-   "title_original": "Japan's 2027 Wage Talks Could Shape BOJ Rate Hikes — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5d1f46220fa473c5"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Financial Services Commission Chairman Lee Eok-won said on the 22nd that SK Hynix's push to list its..",
@@ -1424,23 +1510,6 @@
    "id": "8e77a77dfde09eac"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's Daiichi Life keeps focus on yen bond swaps, expects cuts in overseas debt",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4680CK:0-japan-s-daiichi-life-keeps-focus-on-yen-bond-swaps-expects-cuts-in-overseas-debt/",
-   "published_utc": "2026-10-22T07:33:48+00:00",
-   "title_original": "Japan's Daiichi Life keeps focus on yen bond swaps, expects cuts in overseas debt",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fec4513a2d716b2c"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
@@ -1456,23 +1525,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dbed6b67f81300ac"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan's Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims",
-   "url": "https://www.tradingview.com/news/DJN_DN20261022002432:0-japan-s-top-labor-union-targets-big-pay-bump-in-line-with-boj-aims/",
-   "published_utc": "2026-10-22T07:31:00+00:00",
-   "title_original": "Japan's Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dc180d2a18c4ab91"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -1491,23 +1543,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8000ad7fa9f2232b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Yen Rises Against Majors",
-   "url": "https://www.tradingview.com/news/dpa_afx:fd638f850a104:0-yen-rises-against-majors/",
-   "published_utc": "2026-10-22T07:23:45+00:00",
-   "title_original": "Yen Rises Against Majors",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "eca973e5a0ff44b7"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5090,7 +5125,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
-   "published_utc": "2026-10-21T01:56:00+00:00",
+   "published_utc": "2026-10-21T01:56:01+00:00",
    "title_original": "央行开展800亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -7887,9 +7922,9 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UOEd5TVhYdldxVjFRUFJkWVJDaXJaNmItUVh3UkVCRDRSdzBTYWEwQUVsQ3gzRThSbU1yLXkzZDBHVnluYi1aSXl3M2trV1JyS1lGdFFQcHU2SHZmeFR2SXhQZFc3amloMEpwSGdBczJ5ZloxMUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNXY4d0E5eEF5aUw0UlpGTGhjRnJzUENrZ010cUVzMVRZVmVnSDJOSW9yNEswWm9jdEN0UnhRNFNzMmV4VVp5ZktLWlJFRVpXWThpNTJSSEJ5Wm5adEpwSFpxMWhhZXp4ME45SHBtOEVRZw?oc=5",
    "published_utc": "2026-10-20T02:00:00+00:00",
-   "title_original": "2026年前三季度广东居民消费价格同比上涨0.9%",
+   "title_original": "2026年前三季度广东居民消费价格 同比上涨0.9%",
    "region": "china",
    "topics": [
     "inflation"
@@ -7898,7 +7933,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "83d5a510f10ebe66"
+   "id": "0bee112acf295ae1"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -30643,23 +30678,6 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Nikkei May Decline Amid Concerns About Energy Costs — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261008009684:0-nikkei-may-decline-amid-concerns-about-energy-costs-market-talk/",
-   "published_utc": "2026-10-08T23:46:00+00:00",
-   "title_original": "Nikkei May Decline Amid Concerns About Energy Costs — Market Talk",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "757d8014b546e680"
-  },
-  {
-   "source_id": "tradingview_live",
    "source_name": "Mace News",
    "title_en": "JAPAN AUG HOUSEHOLD SPENDING Y/Y FALL LED BY LOWER PRIVATE UNIVERSITY TUITION, DOMESTIC PACKAGE TOUR COST, SUBSIDIZED ELECTRICITY",
    "url": "https://www.tradingview.com/news/macenews:5dd6045b7094b:0-japan-aug-household-spending-y-y-fall-led-by-lower-private-university-tuition-domestic-package-tour-cost-subsidized-electricity/",
@@ -51918,24 +51936,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3972487290c76e9d"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "South Korea's HBM-linked exports surge as Taiwan, Malaysia emerge as high-value destinations",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUh3YzRSS2NlTWNMT014QWpMNzlIZEFHVHMzbERCN3NKWl9ubzAxZEhBR3pCVEx1WjFlSHdUcmtZT2NHc2NESlN2V05zZi1xYlBfSDFtVTNjOW9DNi1UZlBuc0tSZnd4OUZPNWJUdVRkMWNOM1l2VXVITmlYa2x3RnRyX3VLNzFyNFhkQQ?oc=5",
-   "published_utc": "2026-09-28T01:12:02+00:00",
-   "title_original": "South Korea's HBM-linked exports surge as Taiwan, Malaysia emerge as high-value destinations",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "38a8cf546aa4d726"
   },
   {
    "source_id": "manual_ia",
