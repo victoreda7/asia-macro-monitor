@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T02:02:45.548320+00:00",
- "collected_at_utc": "2026-10-22T02:02:45.548320+00:00",
+ "generated_at_utc": "2026-10-22T02:12:45.205446+00:00",
+ "collected_at_utc": "2026-10-22T02:12:45.205446+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 988,
-  "china": 855,
-  "taiwan": 357,
-  "korea": 800
+  "japan": 985,
+  "china": 857,
+  "taiwan": 356,
+  "korea": 802
  },
- "elapsed_s": 31.6,
+ "elapsed_s": 32.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T00:15:00+00:00"
+   "newest": "2026-10-22T01:45:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 27,
    "error": "",
-   "newest": "2026-10-21T05:02:00+00:00"
+   "newest": "2026-10-22T01:42:13+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T02:02:01+00:00"
+   "newest": "2026-10-22T02:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T18:50:41+00:00"
+   "newest": "2026-10-21T21:55:10+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-22T10:35:00+09:00"
+   "newest": "2026-10-22T11:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T01:55:28+00:00"
+   "newest": "2026-10-22T01:59:10+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean won strengthens most among Asian currencies",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46801E:0-south-korean-won-strengthens-most-among-asian-currencies/",
+   "published_utc": "2026-10-22T02:10:47+00:00",
+   "title_original": "South Korean won strengthens most among Asian currencies",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f771d29fe58a2459"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -362,6 +379,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "머니투데이",
+   "title_en": "The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Money Today",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GTFR2ZDZLY0FIMkZmNGJiSy1yR3NrdER2OW5ocldvajU0MGJyUUktT0pvV1lxVTUwMTd0LVNXM1pkbDA5VkdLaW10LVZGWGdSVl8xTXF2amdUWDJabWJKRDBOOHFwU3JCNGg00gFwQVVfeXFMT2pPdEtXeTluUVZJendLUEpOT3RkV2pXdW8tR2ROSGx4Qi1PV25tcEVsWTZDdnpiTlo2T0lDemdpM1ZTbm9DVC01QmdSUHhETVE4ZG9zcUhZazZqbWJrT0ZzR2F5YkQ4N3hWM2d6X08xTA?oc=5",
+   "published_utc": "2026-10-22T01:59:10+00:00",
+   "title_original": "금리 인상 일단 멈춘 한국은행…기준금리 3% 동결(종합) - 머니투데이",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e27a96a309bddc4"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "Bank of Korea freezes base interest rate at 3.00% per annum [Newsis Pic]",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xUGY3WnAteUMtUGlxbHBXREszT0kxbFZ3RlBxbTBEdTRFUjNwRkZXN0NGRWh2TUh6Y1BsWFNSX3dPSzRZZXBaVWZnTHJSWHNKWEFicVB5azI3aUF2M3FpdtIBeEFVX3lxTE9pOGxtbk1jMlJBcDZaWGV1LWY3V21ta29xNzh4c1phLTVLVGhhYk5FQmVabVA2WGhxS0lCaHVNUDAyenFDZkJfbW5sbGJiQlM2VUVjQk5iV1JDY0NpNnRhZlFYLUFaUGFOVDJrVmdYdFhZUWdtRXBJNA?oc=5",
@@ -376,6 +410,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1d29b14b60d69785"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "충남일보",
+   "title_en": "‘Stop continuous increases and check the effect of austerity’... Bank of Korea freezes base interest rate at 3.00% per annum",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BajczUGkybWF2WnNjazNNdVJPQ05IdzBudFNINERIdVdUQ2g2Mm13NkhieEpUZ3Q0Y0ZkZi12ZE5TOXpBbERvcXJDOTJmU1lhUUV5bTg5QzQtdm9Xb3dPZ0JVMlljaWs3dnMzOWtlVVY0dVk?oc=5",
+   "published_utc": "2026-10-22T01:55:01+00:00",
+   "title_original": "‘연속 인상 멈추고 긴축 효과 점검한다’... 한국은행, 기준금리 연 3.00% 동결",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1866bbfa4366e8cd"
   },
   {
    "source_id": "tradingview_live",
@@ -466,6 +517,24 @@
    "id": "5f2963118ceed0bc"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "资鲸",
+   "title_en": "The central bank launched a 173 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXhNZTV6aXpoejFQdGNoYUJSQ19WNXZjQWRUQ1lncEo5TVhWUDJtNjVxS1YzcmlNakk2eVltZHp2b18taFFBSWFKaExJYUstNVJvMVFubXJhLUVuZXdwcDhGWThqNHZyNGJfWTBQaHRCZkRxN1V1aUR5SHhtYm1fSkFIbnZQZWFteGNrSzlKbldUQQ?oc=5",
+   "published_utc": "2026-10-22T01:42:13+00:00",
+   "title_original": "央行开展1730亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e40474a2b45a06d9"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "CHINA PBOC CONDUCTS CNY173 BLN VIA O/N REVERSE REPO THURS",
@@ -481,6 +550,24 @@
    "live_wire": true,
    "manual": false,
    "id": "25e2f8f5fe879e83"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "红网",
+   "title_en": "The central bank launched continuous overnight reverse repurchase operations, with an operation volume of 80 billion yuan on the first day",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zelFpUGU1d0JnWFVsMnBFa3hhNHBjNWRDSlJYYzBBd2FWSHhFRkVDb2RfaFBPZFQ3R0NSbWNuYlhGRjA5N0REbnpUbmRaTUFma3BSYjBRM3ZqVjdZV1RvcVZUdVV3UQ?oc=5",
+   "published_utc": "2026-10-22T01:36:07+00:00",
+   "title_original": "央行启动连续隔夜逆回购 首日操作量800亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b5d0e9771c4b8025"
   },
   {
    "source_id": "gn_kr_bok",
@@ -875,6 +962,23 @@
    "id": "73d5ca935d798186"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Bank of Korea holds rates, upbeat outlook points to future hikes",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N467041:0-bank-of-korea-holds-rates-upbeat-outlook-points-to-future-hikes/",
+   "published_utc": "2026-10-22T01:02:20+00:00",
+   "title_original": "Bank of Korea holds rates, upbeat outlook points to future hikes",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "da6fc860d444a3e8"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "뉴스투데이",
    "title_en": "Bank of Korea freezes base interest rate at 3.00% per annum... ‘Taking a breath’ personality (step 1)",
@@ -1149,23 +1253,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "YTN",
-   "title_en": "[Breaking News] Bank of Korea freezes base interest rate at 3.00% per annum",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XS0FicHlTZzE4elpSQ1hfN2h5cWgwWmRWQkh4NE9Va3hMOXhEcHgxMGlaWlpzYW9hTDRWbi1ZZWVjYnF3S1BRX3ZqWE80cXBVMURvbTRNbDh1dl84OGViOGFJTDVLbW9MeHE4OVlNWQ?oc=5",
-   "published_utc": "2026-10-22T00:53:00+00:00",
-   "title_original": "[속보] 한국은행, 기준금리 연 3.00%로 동결",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d9e6461d2e34e02d"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "파이낸셜뉴스",
    "title_en": "[Breaking News] Bank of Korea freezes base interest rate... 3.00% per annum",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RFh3dVZ5T3paNU11aDJHQndkYUZlMTJtemRodnFrMlRHcFRJb0ZqVW5VaE5RenZoRXd5aU9FSndfLUJoMHBhM2hZamRpTmxab2JVMjZMMFFUZw?oc=5",
@@ -1217,6 +1304,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "조세일보",
+   "title_en": "[Breaking News] Bank of Korea ‘freezes’ base interest rate at 3.00% per annum",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZN3kyTmdEajdTZkxmb2JOREsxN29mRmJ4NXdvWUZBT0JwbDZkUmRvTFZrdi1RbnR2RXNhR0lmaVdJcFhSUm52NnZfeVdRR2w2NFB5X21zZWhUOEFRMG9Z?oc=5",
+   "published_utc": "2026-10-22T00:50:35+00:00",
+   "title_original": "[속보] 한국은행, 기준금리 연 3.00%로 ‘동결’",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "06f960b06f989990"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "서울파이낸스",
    "title_en": "[Breaking News] Bank of Korea freezes base interest rate at 3.0% per annum",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByZk1MMldDU0Q3Z1BOS2dGRkd6S1ZuUWhUeEw2d2IxTzNQUEFNbTJCSWt2eWlSZnVYMkl5YWZ3LXgzUlJTQS15elZvRVBEelA5YnQ5SEpRMFIxUEFUSVRwamU2cXVFX3hqblE?oc=5",
@@ -1251,6 +1355,24 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "중앙일보",
+   "title_en": "[Breaking News] Bank of Korea Monetary Policy Committee freezes base interest rate... Take a breath after 2 consecutive impressions",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjZtd0p6bHVGNndIRkVRYkNheVl3eEdfUmlKNEw1bkFjMlNfcDB3cW1jdHZzaUVZMFR4REF0WW0yRkNsS1RwbFA1a25KamlZMldQaXN3?oc=5",
+   "published_utc": "2026-10-22T00:50:24+00:00",
+   "title_original": "[속보] 한은 금통위, 기준금리 동결…2연속 인상 뒤 숨고르기",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "94525a2994421678"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "[Breaking News] Bank of Korea freezes base interest rate at 3.0% per annum - Money Today",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEQjRnVm5PcUtjLVdodE5DNHZvNmtUYnBZQlZlWWlDSUEtc0NZbmFyTm9TNV9oTUc5Wldmd1RiVXBIMkFVSlhSa0U1TGZxaXgzSGdVUVFEeklQWlJacWIyeHZMZFVfR2MxdGlJ0gFwQVVfeXFMTUVpQkJoc1RUeGc5c25POGd4VTNEZzIyWWROeDJLRGUydW5qSm5fcmlaRjJHRWN2LUdGSkN1YkplUVpvdm4tdW52akVUbVliZF9UeHdGUXRxRFdma3RSaGZKdWptZ0lFdldzUHdCMk5BNQ?oc=5",
@@ -1282,57 +1404,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5652ae92b9bb34e5"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "지디넷코리아",
-   "title_en": "[Breaking News] Bank of Korea base interest rate frozen at 3.00% per annum",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wX0k1RjFKV0g4ako4THlCblJ0OVBqSmdrQ0NIbkFPTkJaUFl5d2k3TmxFRGpZVlYyZnF0MTNnYXY3UTIzbm5QaTY4Q3VnTjhCOFVUckRn?oc=5",
-   "published_utc": "2026-10-22T00:50:10+00:00",
-   "title_original": "[속보] 한국은행 기준금리 연 3.00% 동결",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "296484ef93dbfb29"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "www.ebn.co.kr",
-   "title_en": "[Breaking News] Bank of Korea base interest rate maintained at 3.00% per annum... Take a breath after two impressions",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BM1kwR1hnOWh6djJwWFA2djVIUE1SYUlhcml4U2lCQVJlaklVVHZwR2dyeE5TZUdHTEJ2SzBZcVhidnkxb0FpX1pjM3ZBR1lKcl9mN2hxZGl0UTROS3VKMmFITnkxbllY?oc=5",
-   "published_utc": "2026-10-22T00:50:06+00:00",
-   "title_original": "[속보] 한국은행 기준금리 연 3.00% 유지…두 차례 인상 후 숨고르기",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cc3e82b542b33dcc"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "Chosunbiz",
-   "title_en": "Bank of Korea maintains base interest rate at 3%... ‘Taking a breather’ after two consecutive increases - Chosun Biz",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGNhbmM2Wm5Ycm5yY25EajBrQzd5VGxySHVLd1p5ZmxIRVlhNHJia212d0VvU1FvQWd4SDkwU09iV1FVamhybjhObFFfcGl6RVFJd3Ewa1E4TWJuYXdSeHRnbS02RTZ2cDJtZ1JLVG83WWpJd0NoWFRvMnlxWGhxSTd3dXROZ9IBmgFBVV95cUxNT090ZjdPOEVleGdqd3dNZnFfT0tBLUxsMHRTQ0VGSk4yMWtmbktIYmh2dmJiRkxBTjZzMkxwd1pWN3NlQkxZWm00V3RWbTd1Q213OEZab0I5UlhHOHBMUTY4X1BWRmpZNm9IT2VjVTVxM0tlM0FhVEliMmN2c3cxUGhneHNwNk1JQkZka2dibU5YdjVWYUUzbm1B?oc=5",
-   "published_utc": "2026-10-22T00:50:00+00:00",
-   "title_original": "한국은행, 기준금리 3%로 유지… 2회 연속 인상 후 ‘숨고르기’ - 조선비즈",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d6d22c47923fea24"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2077,6 +2148,23 @@
    "id": "904a95cc327acbc7"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Merz Says EU to Avoid China Trade War as It Defends Itself",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjBsd0hYU1ViWFp6RkkyNmNtQ2JIc0tuTW9BUVpMUEhucHN1NzQzWVE2WThZd3VsOGxib2dXMHJRMWZjQ2lVM2xLTEdObU5lcm1CYWRXeVQzMXFnQzZlcllXZXRJQzBrRG51MFozZzR5NndtdFYyX3FGQ0FhZjJzVkpxcFBUb2pOUlhPZk1FVXlsNnFoSmFEUVhGZFhwb2hzMXo3UktkZFV0bHFMbEtYbA?oc=5",
+   "published_utc": "2026-10-21T10:33:25+00:00",
+   "title_original": "Merz Says EU to Avoid China Trade War as It Defends Itself",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c9a16b39a6653601"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Husqvarna looks east as Chinese rivals chip away at robot lawnmower lead",
@@ -2400,23 +2488,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cf2ebbb052f995d0"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Merz Says EU to Avoid China Trade War as It Defends Itself",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjBsd0hYU1ViWFp6RkkyNmNtQ2JIc0tuTW9BUVpMUEhucHN1NzQzWVE2WThZd3VsOGxib2dXMHJRMWZjQ2lVM2xLTEdObU5lcm1CYWRXeVQzMXFnQzZlcllXZXRJQzBrRG51MFozZzR5NndtdFYyX3FGQ0FhZjJzVkpxcFBUb2pOUlhPZk1FVXlsNnFoSmFEUVhGZFhwb2hzMXo3UktkZFV0bHFMbEtYbA?oc=5",
-   "published_utc": "2026-10-21T08:33:46+00:00",
-   "title_original": "Merz Says EU to Avoid China Trade War as It Defends Itself",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c9a16b39a6653601"
   },
   {
    "source_id": "gn_kr_ked",
@@ -2748,6 +2819,23 @@
    "id": "e5cc372c63162978"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHNraGVxZVpzdVZzUjFvQlpfcXJRU2ZYdlJxdU5KY1k5ZVJCTGQtallhSmVkbjZFbDdmVE5NRTN1ODRMd3ltTUpkQWNTdy13NmQxZkhNZDVyOXFUU1o3OXlhQ3Nrc2RSRE05TmJQTkVTNnlseXdtd1NOMVdLdEo1cVU4OWlxMmk3S0Zvdg?oc=5",
+   "published_utc": "2026-10-21T06:08:00+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e277f33f899b7cc"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Nomura, JPMorgan bullish on Korean chips despite Kospi swings",
@@ -2833,23 +2921,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4932d8c9ad5c811e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
-   "published_utc": "2026-10-21T05:02:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7b59d3d09f8c8605"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -5494,10 +5565,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观察者网",
+   "source_name": "搜狐",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
-   "published_utc": "2026-10-20T05:07:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9Rc1BnRlhGM1d4c092aXBsdWVCUXE1NWpsTTZMSVA5X3E2MW0tOUt4dFdGY2o2OVNJNEZhTkdYMlN0Mi1EazBaUGxrTnhZUTI3dklRNjd6a0ZybFpLRElwVC01YWJCZ3JqYm9nVDVad1BFb1pkTUVVUkhnb0p6ejBURktuX1pu?oc=5",
+   "published_utc": "2026-10-20T05:07:29+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -5507,7 +5578,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50e1092b7ea2ed64"
+   "id": "8b5a5b685c5ae149"
   },
   {
    "source_id": "gn_jp_investing",
@@ -5545,10 +5616,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "搜狐",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
-   "published_utc": "2026-10-20T04:37:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
+   "published_utc": "2026-10-20T04:46:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -5559,7 +5630,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "113a63c4f4301728"
+   "id": "6b8b7943e562e9e1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51860,74 +51931,6 @@
    "live_wire": false,
    "manual": false,
    "id": "aa067c169e6fd1fc"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Trump voiced concern about yen weakness in talks with PM Takaichi: Japan",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TmhLNXZ4T1pmNG5fZ3RqbDFsbE5WN2NpNjYzbzF6bGRpU3llR0pFS1ZMYlp2eEtpVjlKTFJKVE1ZM0l4SXRjUXAyMkhETWZURHJwTFluS2Nndw?oc=5",
-   "published_utc": "2026-09-25T08:15:00+00:00",
-   "title_original": "Trump voiced concern about yen weakness in talks with PM Takaichi: Japan",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "070e4d2718c2a02e"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "\"Cancer gene panel test\" reduces mortality risk by 38%...Can it overcome the financial problems that stand in its way? | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/958957?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-25T08:01:00+00:00",
-   "title_original": "死亡リスクを38％減らす｢がん遺伝子パネル検査｣…立ちはだかる財政問題を突破できるか | ビジネス | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66b28b7e73e6755f"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Taiwan Backs Early Plan to Restart Nuclear Power in Policy Shift",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakE4WGg0SHI0RnpyNGs0dGRfTzZxVVBnZ2d4eTZWT1Rqd2Ryd3N1MkdCYjNvLVptU0gxTWE1bDBnUWVpLVQ5Z2p2c2NIZmdlVzVHVzZwZjIyY3dxOFF3M2dhMVg5VlRaNGxQTTF5aXNCMEhQUGhtU2MyVzFWUFoxWDFrR2F6X0xweHA1WnFKcXRTUzdRWFA2VWdILWdxcFdVME15VkVDOHZhZ0c1QVhaczM1UlhOQQ?oc=5",
-   "published_utc": "2026-09-25T08:00:37+00:00",
-   "title_original": "Taiwan Backs Early Plan to Restart Nuclear Power in Policy Shift",
-   "region": "taiwan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ddd85647aad6210a"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Japan says Trump voiced concern over weak yen in summit with PM Takaichi",
-   "url": "https://www.investing.com/news/economy-news/japan-says-trump-voiced-concern-over-weak-yen-in-summit-with-pm-takaichi-4916765",
-   "published_utc": "2026-09-25T07:30:34+00:00",
-   "title_original": "Japan says Trump voiced concern over weak yen in summit with PM Takaichi",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e60a8a12a302e5b"
   },
   {
    "source_id": "manual_ia",
