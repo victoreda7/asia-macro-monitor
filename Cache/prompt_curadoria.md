@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T10:02:44.940689+00:00
+Última coleta: 2026-10-22T10:12:43.125945+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          969
@@ -20,12 +20,12 @@ Total: 3000 manchetes
   - [korea] BOK pauses rate hikes as inflation, debt concerns linger
   - [korea] Vice budget minister calls Future Fund 'fiscal innovation' for future growth
   - [korea] BOK holds key rate steady at 3% after 2 consecutive rate hikes
+  - [japan] Yen Rises Amid Risk-off Mood
   - [korea] Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26
   - [taiwan] Taiwan's first-ever chip workers strike hits Micron plant
   - [japan] Lower House committee to debate consumption tax cut
   - [china] China blue-chip index confirms bear market as AI stocks slump
   - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
-  - [china] Hong Kong stocks fall most in 7 months as chance of strong stimulus shrinks
   - [korea] Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won i
   - [japan] Yen set for biggest rally in a month; risk-averse investors shun dollar
   - [korea] After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T10:02:45+00:00",
+      "published_utc": "2026-10-22T10:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
