@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T07:52:42.965090+00:00
+Última coleta: 2026-10-22T08:02:42.778871+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          965
-  🇨🇳 China          861
+  🇯🇵 Japão          964
+  🇨🇳 China          860
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  820
+  🇰🇷 Coreia do Sul  822
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ to hold rate at 1.25% at meeting next week
+  - [japan] Japanese Government Bonds Held by the Bank of Japan
+  - [japan] Japan's 2027 Wage Talks Could Shape BOJ Rate Hikes — Market Talk
+  - [korea] Financial Services Commission Chairman Lee Eok-won said on the 22nd that SK Hynix's push to list its..
   - [japan] Japan's Daiichi Life keeps focus on yen bond swaps, expects cuts in overseas debt
   - [korea] Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says
   - [japan] Japan's Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea holds rates, upbeat outlook points to future hikes
   - [korea] Bank of Korea stops raising interest rates... Tightening speed control
   - [korea] (3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening
-  - [china] China snaps up Australian canola as improved ties, lower tariffs fuel demand
-  - [china] The central bank plans to switch to overnight reverse repos! Dividend low-volatility ETF Huatai-PineBridge (51
-  - [japan] JGB yields touch multi-week lows as traders weigh geopolitics, BOJ policy outlook
-  - [china] China bets on manufactured water, and wants to sell it to the world
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T07:52:43+00:00",
+      "published_utc": "2026-10-22T08:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
