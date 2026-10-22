@@ -7,23 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T10:22:44.947619+00:00
+Última coleta: 2026-10-22T10:32:47.583279+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          967
+  🇯🇵 Japão          966
   🇨🇳 China          852
-  🇹🇼 Taiwan         356
+  🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  825
 
 ## O que já está no feed (não repita)
 
+  - [china] Shanghai Bright Power Semiconductor Q3 Net Profit Up 2077.1% Y/Y
   - [korea] Merck opens Korean chip materials plant to meet advanced memory demand
+  - [taiwan] Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group
   - [china] Chow Tai Fook Jewellery Logs Q2 Chinese Mainland Retail Sales Value Down 5.3%
   - [korea] BOK pauses rate hikes as inflation, debt concerns linger
   - [korea] Vice budget minister calls Future Fund 'fiscal innovation' for future growth
   - [korea] BOK holds key rate steady at 3% after 2 consecutive rate hikes
   - [japan] Yen Rises Amid Risk-off Mood
   - [korea] Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26
+  - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [taiwan] Taiwan's first-ever chip workers strike hits Micron plant
   - [japan] Lower House committee to debate consumption tax cut
   - [china] China blue-chip index confirms bear market as AI stocks slump
@@ -45,7 +48,6 @@ Total: 3000 manchetes
   - [korea] S. Korean won strengthens against U.S. dollar after BOK holds key rate
   - [japan] Yen Rises Against Majors
   - [korea] Samsung Electro-Mechanics receives investment of US$2.8 billion for the production of chips from Tesla and Nvi
-  - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [japan] Developments in Real Exports and Real Imports
   - [japan] In absence of sovereign buyers, Indian chip firms find clients in Japan, EU
   - [japan] Japan's Nikkei slides as AI capex caution weighs on chip shares
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK pauses rate hikes, but signals more may come
   - [japan] Six opposition parties in the House of Councilors consumption tax reduction bill “call for establishment of a 
   - [korea] Strong chip exports expected to spill over into private consumption from next year: BOK report
-  - [japan] Singapore Dollar Gains on Yen as Carry Funder, Analysts Say
-  - [china] COMMENTARY: China uses crude stockpiles, but rising oil imports may curtail draws
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T10:22:45+00:00",
+      "published_utc": "2026-10-22T10:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

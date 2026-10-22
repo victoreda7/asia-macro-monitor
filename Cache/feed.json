@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T10:22:44.947619+00:00",
- "collected_at_utc": "2026-10-22T10:22:44.947619+00:00",
+ "generated_at_utc": "2026-10-22T10:32:47.583279+00:00",
+ "collected_at_utc": "2026-10-22T10:32:47.583279+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 967,
+  "japan": 966,
   "china": 852,
-  "taiwan": 356,
+  "taiwan": 357,
   "korea": 825
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T08:03:00+00:00"
+   "newest": "2026-10-22T10:28:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T08:20:00+00:00"
+   "newest": "2026-10-22T10:26:35+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T08:52:00+00:00"
+   "newest": "2026-10-22T09:42:57+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T10:22:25+00:00"
+   "newest": "2026-10-22T10:32:35+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Shanghai Bright Power Semiconductor Q3 Net Profit Up 2077.1% Y/Y",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4680Y9:0-shanghai-bright-power-semiconductor-q3-net-profit-up-2077-1-y-y/",
+   "published_utc": "2026-10-22T10:30:00+00:00",
+   "title_original": "Shanghai Bright Power Semiconductor Q3 Net Profit Up 2077.1% Y/Y",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a8f14b4c90c7177d"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Merck opens Korean chip materials plant to meet advanced memory demand",
@@ -359,6 +376,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7cde3c579a7730f8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcERxTU9OX3hUOXF6eWRyM3JnWEE5cmhDczVxY3VscWw0YnRMYjFFTHB0cUpWdnJhZDJaUDJLal95QWJPbElfanhBUGV5ZjhwaHI1VjVjLWhNZmIzUUwxZ1NFV051anVyMzBzTFFBNTktMFJWNkE5NTZ1R0pYT3pBSDdjSW9CalB2MlE4eXROeWpwQUhIeXVkRnJBNjI?oc=5",
+   "published_utc": "2026-10-22T10:26:35+00:00",
+   "title_original": "Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3a9046bd81cff007"
   },
   {
    "source_id": "tradingview_live",
@@ -462,6 +496,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b0bd7a36478960b3"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SN3duY2xxSERHUFhnYWpXbGg5QmlBRjd3Wmdib3ZKRldTRGJScllURER4emg4WGVCN2NhVXJ0c3dhQW5UWXlkRVlMSEhpTDMzTU9kQmptTU9pd3JGR2ZnOURPQWM?oc=5",
+   "published_utc": "2026-10-22T09:42:57+00:00",
+   "title_original": "BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "359ae2072afe4cc8"
   },
   {
    "source_id": "nikkei_asia",
@@ -822,23 +873,6 @@
    "live_wire": true,
    "manual": false,
    "id": "dbe43fa32eebd08b"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SN3duY2xxSERHUFhnYWpXbGg5QmlBRjd3Wmdib3ZKRldTRGJScllURER4emg4WGVCN2NhVXJ0c3dhQW5UWXlkRVlMSEhpTDMzTU9kQmptTU9pd3JGR2ZnOURPQWM?oc=5",
-   "published_utc": "2026-10-22T07:02:38+00:00",
-   "title_original": "BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "359ae2072afe4cc8"
   },
   {
    "source_id": "boj_whatsnew",
@@ -1803,23 +1837,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c4493712b1a3e5a5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China buys nearly 1 million tons of Australian canola for 2027 shipment, traders say",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N42O0AY:0-china-buys-nearly-1-million-tons-of-australian-canola-for-2027-shipment-traders-say/",
-   "published_utc": "2026-10-22T02:26:37+00:00",
-   "title_original": "China buys nearly 1 million tons of Australian canola for 2027 shipment, traders say",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d8b6f424d9c1c2c4"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51926,23 +51943,6 @@
    "live_wire": false,
    "manual": false,
    "id": "00793ac93745a342"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "``There are no tall tower houses like Nicotama'' ``However, there are many mansions''...The reality of the city is actually a ``hidden high-class residential area'' even within Setagaya Ward | Life | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/959085?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-26T21:45:00+00:00",
-   "title_original": "｢ニコタマみたいなタワマンは皆無｣｢しかし邸宅が多数存在｣…世田谷区内でも実は｢隠れた高級住宅地｣の街の実態 | ライフ | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ef06ec0f9772ad3f"
   },
   {
    "source_id": "manual_ia",
