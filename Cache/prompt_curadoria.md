@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T04:02:42.800326+00:00
+Última coleta: 2026-10-22T04:12:44.765224+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          974
-  🇨🇳 China          860
+  🇯🇵 Japão          973
+  🇨🇳 China          861
   🇹🇼 Taiwan         355
   🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [korea] (3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening
+  - [china] China snaps up Australian canola as improved ties, lower tariffs fuel demand
+  - [korea] Bank of Korea Holds Steady After Back-to-Back Hikes — Update
   - [japan] JGB yields touch multi-week lows as traders weigh geopolitics, BOJ policy outlook
   - [china] China bets on manufactured water, and wants to sell it to the world
+  - [korea] Asia stocks slide as AI jitters hit Korean chipmakers
   - [japan] U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such
   - [korea] BOK Gov: Stronger Won Helps Curb Import Prices, Boost Household Purchasing Power
   - [korea] BOK Gov: Core Inflation Could Near 2% Target in 2028
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea: Decision to Hold Rates Steady Was Unanimous
   - [china] The central bank launched a 173 billion yuan overnight reverse repurchase operation
   - [china] CHINA PBOC CONDUCTS CNY173 BLN VIA O/N REVERSE REPO THURS
-  - [korea] Full text of BOK statement on monetary policy decision in Oct.
-  - [china] The central bank launched continuous overnight reverse repurchase operations, with an operation volume of 80 b
-  - [korea] Bank of Korea freezes base interest rate at ‘3.00%’
-  - [korea] Merck opens Korean chip materials plant to meet advanced memory demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T04:02:42+00:00",
+      "published_utc": "2026-10-22T04:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
