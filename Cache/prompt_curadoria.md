@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T13:52:46.856894+00:00
+Última coleta: 2026-10-22T14:02:45.303154+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          972
+  🇯🇵 Japão          973
   🇨🇳 China          851
   🇹🇼 Taiwan         364
-  🇰🇷 Coreia do Sul  813
+  🇰🇷 Coreia do Sul  812
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen jumps as oil, AI and France worries rattle markets
   - [china] Alibaba Drops as China Tightens E-Commerce Standards
   - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [korea] SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen rallies as dollar slips to 3-wk low; traders eye central bank meetings
   - [korea] S. Korean won strengthens against U.S. dollar after BOK holds key rate
   - [japan] Yen Rises Against Majors
-  - [korea] Samsung Electro-Mechanics receives investment of US$2.8 billion for the production of chips from Tesla and Nvi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T13:52:47+00:00",
+      "published_utc": "2026-10-22T14:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
