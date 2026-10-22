@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T08:22:45.309147+00:00
+Última coleta: 2026-10-22T08:32:45.142301+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          965
+  🇯🇵 Japão          967
   🇨🇳 China          860
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  821
+  🇰🇷 Coreia do Sul  819
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen set for biggest rally in a month; risk-averse investors shun dollar
+  - [korea] After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk
+  - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
   - [japan] Japan to consider re-introducing gas and electricity subsidies, sources say
   - [japan] BOJ to hold rate at 1.25% at meeting next week
   - [japan] Japanese Government Bonds Held by the Bank of Japan
@@ -33,6 +36,7 @@ Total: 3000 manchetes
   - [japan] In absence of sovereign buyers, Indian chip firms find clients in Japan, EU
   - [japan] Japan's Nikkei slides as AI capex caution weighs on chip shares
   - [korea] South Korean shares log 6-month closing low as chipmakers fall on profit-taking
+  - [japan] Yen rallies as dollar wobbles toward Fed meeting By Reuters
   - [china] Receivers to sell Shimao’s 2 Hong Kong hotels to Malaysian developer
   - [japan] Yen rallies as dollar wobbles toward Fed meeting
   - [korea] [Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip subst
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui
   - [korea] Nvidia taps Korean component makers for AI chips, robots
   - [korea] The Bank of Korea's Monetary Policy Committee freezes the base interest rate at 3%... Take a breath after 2 co
-  - [china] China's yuan climbs to fresh 4-year high, global central bank meetings in focus
-  - [korea] Bank of Korea Holds Steady After Back-to-Back Hikes — Update
-  - [korea] Bank of Korea holds rates, upbeat outlook points to future hikes
-  - [korea] Bank of Korea stops raising interest rates... Tightening speed control
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T08:22:45+00:00",
+      "published_utc": "2026-10-22T08:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

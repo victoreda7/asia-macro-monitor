@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T08:22:45.309147+00:00",
- "collected_at_utc": "2026-10-22T08:22:45.309147+00:00",
+ "generated_at_utc": "2026-10-22T08:32:45.142301+00:00",
+ "collected_at_utc": "2026-10-22T08:32:45.142301+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 965,
+  "japan": 967,
   "china": 860,
   "taiwan": 354,
-  "korea": 821
+  "korea": 819
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T06:56:15+00:00"
+   "newest": "2026-10-22T07:01:48+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T16:59:27+09:00"
+   "newest": "2026-10-22T17:28:10+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T04:36:00+00:00"
+   "newest": "2026-10-22T04:11:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T08:12:00+00:00"
+   "newest": "2026-10-22T08:31:46+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yen set for biggest rally in a month; risk-averse investors shun dollar",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4680H3:0-yen-set-for-biggest-rally-in-a-month-risk-averse-investors-shun-dollar/",
+   "published_utc": "2026-10-22T08:27:27+00:00",
+   "title_original": "Yen set for biggest rally in a month; risk-averse investors shun dollar",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e177d26716b57bbf"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261022002642:0-after-pause-end-of-bok-tightening-cycle-now-in-sight-market-talk/",
+   "published_utc": "2026-10-22T08:23:00+00:00",
+   "title_original": "After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "09b56e8b006d676a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N467144:0-tsmc-seeks-factory-equipment-alternatives-to-thwart-china-s-rare-earths-grip-sources-say/",
+   "published_utc": "2026-10-22T08:12:59+00:00",
+   "title_original": "TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8278b48765f54b22"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -615,6 +666,23 @@
    "live_wire": true,
    "manual": false,
    "id": "3c6c90f95a7dde6b"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Yen rallies as dollar wobbles toward Fed meeting By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXJlUjhBbEQzV0R4OWZfOTMwNUNTRTVRZ2VibUxjN1RFOVp0QXJDbDIxZkpTaHpoWk04dXJHdWZNSmk2Tk4tYkFGUlQyTk5aSW5VcW9aVlZsMG5zX05PVjlLbXJ0TVNtZHJlcWpQMFpFbG01dHprZ2Rfb09XVEZvUjBic28waGJ4NE1LQThEem0yekNGak5xM2I1Z1ozams1WTNaQ1daMA?oc=5",
+   "published_utc": "2026-10-22T06:45:00+00:00",
+   "title_original": "Yen rallies as dollar wobbles toward Fed meeting By Reuters",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a7bee90c535cbbd0"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -1682,59 +1750,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9aae3b86f2a0cb31"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOK: Headline, Core Inflation Expected to Exceed August Forecasts Next Year",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021012307_20261021012319:0-bok-headline-core-inflation-expected-to-exceed-august-forecasts-next-year/",
-   "published_utc": "2026-10-22T01:51:00+00:00",
-   "title_original": "BOK: Headline, Core Inflation Expected to Exceed August Forecasts Next Year",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "523668244da16ac6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOK: Headline, Core Inflation Expected to Match August Forecasts This Year",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021012307_20261021012318:0-bok-headline-core-inflation-expected-to-match-august-forecasts-this-year/",
-   "published_utc": "2026-10-22T01:51:00+00:00",
-   "title_original": "BOK: Headline, Core Inflation Expected to Match August Forecasts This Year",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "996af4c61faf93b9"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korean shares fall on profit taking; BOK in focus",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46800V:0-south-korean-shares-fall-on-profit-taking-bok-in-focus/",
-   "published_utc": "2026-10-22T01:50:55+00:00",
-   "title_original": "South Korean shares fall on profit taking; BOK in focus",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0b3774ab649f3ecf"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51925,23 +51940,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e9f3cf8a199f85d0"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Economics Ministry approves US$44B in TSMC U.S. investments since 2020",
-   "url": "https://focustaiwan.tw/business/202609260007",
-   "published_utc": "2026-09-26T07:44:22+00:00",
-   "title_original": "Economics Ministry approves US$44B in TSMC U.S. investments since 2020",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2bbabfd3d85b1408"
   },
   {
    "source_id": "manual_ia",
