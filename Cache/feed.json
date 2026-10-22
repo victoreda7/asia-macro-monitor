@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-22T13:02:46.704649+00:00",
- "collected_at_utc": "2026-10-22T13:02:46.704649+00:00",
+ "generated_at_utc": "2026-10-22T13:12:43.170703+00:00",
+ "collected_at_utc": "2026-10-22T13:12:43.170703+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 364,
   "korea": 813
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T08:20:00+00:00"
+   "newest": "2026-10-22T12:59:37+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T12:15:00+00:00"
+   "newest": "2026-10-22T13:02:39+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T14:17:37+00:00"
+   "newest": "2026-10-21T12:49:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-21T02:48:04+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-10-22T05:40:32+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T13:02:00+00:00"
+   "newest": "2026-10-22T13:11:54+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T06:48:27+00:00"
+   "newest": "2026-10-22T09:30:25+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "Alibaba Drops as China Tightens E-Commerce Standards",
+   "url": "https://www.tradingview.com/news/gurufocus:f1cb88649094b:0-alibaba-drops-as-china-tightens-e-commerce-standards/",
+   "published_utc": "2026-10-22T13:03:15+00:00",
+   "title_original": "Alibaba Drops as China Tightens E-Commerce Standards",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b956c5e157b4ed5d"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SN3duY2xxSERHUFhnYWpXbGg5QmlBRjd3Wmdib3ZKRldTRGJScllURER4emg4WGVCN2NhVXJ0c3dhQW5UWXlkRVlMSEhpTDMzTU9kQmptTU9pd3JGR2ZnOURPQWM?oc=5",
+   "published_utc": "2026-10-22T13:02:39+00:00",
+   "title_original": "BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "359ae2072afe4cc8"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -563,23 +597,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b0bd7a36478960b3"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SN3duY2xxSERHUFhnYWpXbGg5QmlBRjd3Wmdib3ZKRldTRGJScllURER4emg4WGVCN2NhVXJ0c3dhQW5UWXlkRVlMSEhpTDMzTU9kQmptTU9pd3JGR2ZnOURPQWM?oc=5",
-   "published_utc": "2026-10-22T09:42:57+00:00",
-   "title_original": "BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "359ae2072afe4cc8"
   },
   {
    "source_id": "gn_kr_mk",
@@ -993,6 +1010,23 @@
    "live_wire": true,
    "manual": false,
    "id": "dbe43fa32eebd08b"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Proposing the establishment of a new common platform for Japanese manga, aiming for further overseas expansion... Fiscal Council (TV Asahi (ANN))",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pamJVTWtnZ0ttOEpnckJDNG1VN0MzQlBDNUdkQ19BVzZvWW8xSXhaRG1HdE9YT0lrMGlLbkpnZk5aT0w5blZsTy1NcF85dWhwd05temIyRlFDM3VaSkhpMkltOVJ3S0Z3OEV2QmwyMTlhTmdfTUFPcWxzVVJMTTA?oc=5",
+   "published_utc": "2026-10-22T07:21:17+00:00",
+   "title_original": "日本の漫画 共通プラットフォーム新設を提案 さらなる海外展開に向け…財政審（テレビ朝日系（ANN））",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9fdbb1c69f277137"
   },
   {
    "source_id": "boj_whatsnew",
@@ -1747,7 +1781,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -1759,26 +1793,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Yen Edges Up Ahead of BOJ Policy Meeting",
-   "url": "https://www.tradingview.com/news/te_news:594021:0-yen-edges-up-ahead-of-boj-policy-meeting/",
-   "published_utc": "2026-10-22T02:59:51+00:00",
-   "title_original": "Yen Edges Up Ahead of BOJ Policy Meeting",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c8720fdb42695d70"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2866,6 +2881,23 @@
    "id": "8037becf536ac78c"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Cuts announced to Japan's eco-friendly car subsidies",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QWmUxbklNazNMQWJfdTB6eVotUl9GQ2tFTkhrdFFqbkdPMC1uNy1lWEtldHJUVlJiY3RRdllOdzJwYTZlT1NnV3FYTmc1cWpJTC1MWTRmaHZSMUpwSzZEc0psSQ?oc=5",
+   "published_utc": "2026-10-21T21:26:17+00:00",
+   "title_original": "Cuts announced to Japan's eco-friendly car subsidies",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1797372bb8aa058"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Consumption tax reduction bill: Ruling party “passes the bill after repeated deliberations” Opposition party “pleases thorough deliberation”",
@@ -2917,23 +2949,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7af20670ab2adc4e"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Cuts announced to Japan's eco-friendly car subsidies",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QWmUxbklNazNMQWJfdTB6eVotUl9GQ2tFTkhrdFFqbkdPMC1uNy1lWEtldHJUVlJiY3RRdllOdzJwYTZlT1NnV3FYTmc1cWpJTC1MWTRmaHZSMUpwSzZEc0psSQ?oc=5",
-   "published_utc": "2026-10-21T20:46:00+00:00",
-   "title_original": "Cuts announced to Japan's eco-friendly car subsidies",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1797372bb8aa058"
   },
   {
    "source_id": "gn_kr_ked",
@@ -4193,23 +4208,6 @@
    "id": "e5cc372c63162978"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHNraGVxZVpzdVZzUjFvQlpfcXJRU2ZYdlJxdU5KY1k5ZVJCTGQtallhSmVkbjZFbDdmVE5NRTN1ODRMd3ltTUpkQWNTdy13NmQxZkhNZDVyOXFUU1o3OXlhQ3Nrc2RSRE05TmJQTkVTNnlseXdtd1NOMVdLdEo1cVU4OWlxMmk3S0Zvdg?oc=5",
-   "published_utc": "2026-10-21T06:08:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e277f33f899b7cc"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Samsung, SK Hynix upgrade China plants to make advanced memory chips - Reuters",
@@ -4295,6 +4293,23 @@
    "live_wire": false,
    "manual": false,
    "id": "4932d8c9ad5c811e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
+   "published_utc": "2026-10-21T05:02:00+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7b59d3d09f8c8605"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -7127,10 +7142,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "观察者网",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9Rc1BnRlhGM1d4c092aXBsdWVCUXE1NWpsTTZMSVA5X3E2MW0tOUt4dFdGY2o2OVNJNEZhTkdYMlN0Mi1EazBaUGxrTnhZUTI3dklRNjd6a0ZybFpLRElwVC01YWJCZ3JqYm9nVDVad1BFb1pkTUVVUkhnb0p6ejBURktuX1pu?oc=5",
-   "published_utc": "2026-10-20T05:07:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
+   "published_utc": "2026-10-20T05:07:00+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -7140,7 +7155,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b5a5b685c5ae149"
+   "id": "50e1092b7ea2ed64"
   },
   {
    "source_id": "gn_jp_investing",
@@ -7195,10 +7210,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "京报网",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
-   "published_utc": "2026-10-20T04:46:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
+   "published_utc": "2026-10-20T04:37:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -7209,7 +7224,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b8b7943e562e9e1"
+   "id": "113a63c4f4301728"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7351,23 +7366,6 @@
    "live_wire": true,
    "manual": false,
    "id": "05280fdf996be8e6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByR1RCUXRvdzJXdko3eDhTNzJoTkk3dU9yczRUTTRVaFl0ZFRnNF9mZHBtQkp6d3BNMXQ3TDRyTlFCcGxkWUxNbXF1X1VQWEdNX1JHbmdPbURVWFhoVENCNUp5SVJBRm80UVpzRzRhNA?oc=5",
-   "published_utc": "2026-10-20T03:18:00+00:00",
-   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e4ac9994d10111b"
   },
   {
    "source_id": "toyo_keizai",
@@ -8482,6 +8480,23 @@
    "id": "b474010cf2072a9c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "界面新闻",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
+   "published_utc": "2026-10-19T12:18:00+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16528f1711d07747"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "Samsung Is Turning to Rival TSMC for Nvidia's Next AI Memory",
@@ -9481,6 +9496,25 @@
    "id": "16e121d36709a18c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "CITIC Securities: Funding is expected to be relatively loose and the central bank has room to cut interest rates and reserve requirements | USD and RMB | Trade surplus | Liquidity | Deposits | RMB",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMzN5MGpraGdEU2F3UE5fSFlaZWxiV1Y1emk1LVF3OWk5NzJiUDBZWXpJUDBzTHhRVlIwUUhVVXNCdGU5UUJJeE52YVBzS0w5Q0lyLU5nN0lpN3ZUNVZHT21PZ3dFSVA2WUtrWHZKaXJUbU1MYnl4cVdBZzhjR3J5MndYMEZrYmk2dFRwSm45YkxjeThSN0UyWnVWcTg3akp3T090RndjelNpeXoxM0NKRjU5OWEtVzNCU0RoNk54WklZVjZRaEdrSTBGZW1qMHZQRG9YNlJwTEZWbklSNDZqYVhnU2pDTVZmZVlxeHoyTkVaQzBSQWUycTEyQVluMWlpZ0Z2eFo2VXhoQ0JId2ZoMDBSOFdPclFySHYtcWlZaENGQlFEZ0NpalhQZw?oc=5",
+   "published_utc": "2026-10-19T04:07:30+00:00",
+   "title_original": "中信证券：预计资金面将相对宽松央行存在降息降准空间|美元人民币|贸易顺差|流动性|存款|人民币",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx",
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "def30c2c7f0f3bb0"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Terafab exposes Tesla's growing tensions with Samsung and TSMC",
@@ -9564,25 +9598,6 @@
    "live_wire": false,
    "manual": false,
    "id": "03778d564ee59637"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "CITIC Securities: Funding is expected to be relatively loose and the central bank has room to cut interest rates and reserve requirements | USD and RMB | Trade surplus | Liquidity | Deposits | RMB",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNempub1F1SzhibUIzSE9BOHBJYzFoNm5FYl9wdjIzRjhBakhpWTJuMmQzMmlCQnhHUFBNbEFoWmkzTklVTkhMZC1fbDJVU0VlTy1UODJ0dUp1S2xVYXNIZjZMQTVLTDVyZmhMd2tTUW5BNUhHdldBbHZnQ3FEQzdLUFduSXhmNGtSMUVGcF81T1F6bmVxTFFwYzRqMm8?oc=5",
-   "published_utc": "2026-10-19T03:00:00+00:00",
-   "title_original": "中信证券：预计资金面将相对宽松央行存在降息降准空间|美元人民币|贸易顺差|流动性|存款|人民币",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx",
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2c5fa1146e9289cd"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -51926,23 +51941,6 @@
    "live_wire": false,
    "manual": false,
    "id": "41332f96033c5137"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "China may allow Alibaba, ByteDance to buy Nvidia’s new RTX Pro 5500 chips",
-   "url": "https://www.tradingview.com/news/seekingalpha:94e0b946a094b:0-china-may-allow-alibaba-bytedance-to-buy-nvidia-s-new-rtx-pro-5500-chips/",
-   "published_utc": "2026-09-27T17:39:26+00:00",
-   "title_original": "China may allow Alibaba, ByteDance to buy Nvidia’s new RTX Pro 5500 chips",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7df972ba3983d8e0"
   },
   {
    "source_id": "manual_ia",

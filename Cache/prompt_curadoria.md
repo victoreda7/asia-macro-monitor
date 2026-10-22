@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T13:02:46.704649+00:00
+Última coleta: 2026-10-22T13:12:43.170703+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          973
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Alibaba Drops as China Tightens E-Commerce Standards
+  - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [korea] SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman
   - [korea] Samsung Bioepis Releases Fourth Quarter 2026 Biosimilar Market Report Highlighting Importance of Supply Contin
   - [japan] Japan's strong-armed $21 bln chip bet is low risk
@@ -30,7 +32,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group
   - [china] Chow Tai Fook Jewellery Logs Q2 Chinese Mainland Retail Sales Value Down 5.3%
   - [korea] Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26
-  - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [korea] Even with earnings this strong, Samsung at ₩70,000 and SK hynix at ₩200,000?... We recalculated the KOSPI’s fa
   - [taiwan] Taiwan's first-ever chip workers strike hits Micron plant
   - [japan] Lower House committee to debate consumption tax cut | NHK WORLD-JAPAN News
@@ -55,8 +56,7 @@ Total: 3000 manchetes
   - [korea] S. Korean won strengthens against U.S. dollar after BOK holds key rate
   - [japan] Yen Rises Against Majors
   - [korea] Samsung Electro-Mechanics receives investment of US$2.8 billion for the production of chips from Tesla and Nvi
-  - [japan] Developments in Real Exports and Real Imports
-  - [japan] In absence of sovereign buyers, Indian chip firms find clients in Japan, EU
+  - [japan] Proposing the establishment of a new common platform for Japanese manga, aiming for further overseas expansion
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T13:02:46+00:00",
+      "published_utc": "2026-10-22T13:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
