@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T07:12:44.251012+00:00
+Última coleta: 2026-10-22T07:22:49.339010+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          964
@@ -17,20 +17,24 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims
   - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [japan] Developments in Real Exports and Real Imports
   - [japan] In absence of sovereign buyers, Indian chip firms find clients in Japan, EU
   - [japan] Japan's Nikkei slides as AI capex caution weighs on chip shares
   - [korea] South Korean shares log 6-month closing low as chipmakers fall on profit-taking
+  - [china] Receivers to sell Shimao’s 2 Hong Kong hotels to Malaysian developer
   - [japan] Yen rallies as dollar wobbles toward Fed meeting
   - [korea] [Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip subst
   - [korea] BOK pauses rate hikes, but signals more may come
   - [japan] Six opposition parties in the House of Councilors consumption tax reduction bill “call for establishment of a 
   - [korea] Strong chip exports expected to spill over into private consumption from next year: BOK report
+  - [japan] Singapore Dollar Gains on Yen as Carry Funder, Analysts Say
   - [china] COMMENTARY: China uses crude stockpiles, but rising oil imports may curtail draws
   - [korea] K-beauty stocks stumble as strong won squeezes profits
   - [korea] K-beauty firms to seek export deals at Cheongju expo
   - [china] The central bank launched a 173 billion yuan overnight reverse repurchase operation today, and the latest net 
+  - [korea] Base interest rate frozen at 3%... Bank of Korea governor raises concerns about fiscal sustainability
   - [japan] Japan's trade deficit nearly doubles in Apr.-Sep.
   - [korea] Bank of Korea freezes base interest rate at 3.00%... Will interest rates rise again in November?
   - [korea] Kbi Dongkook Ind To Acquire Real Estate Worth 27.5 Billion Won
@@ -38,6 +42,7 @@ Total: 3000 manchetes
   - [korea] BOK's Hawkish Hold Leaves Door Open to Rate Hikes — Market Talk
   - [japan] October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui
   - [korea] Nvidia taps Korean component makers for AI chips, robots
+  - [korea] The Bank of Korea's Monetary Policy Committee freezes the base interest rate at 3%... Take a breath after 2 co
   - [china] China's yuan climbs to fresh 4-year high, global central bank meetings in focus
   - [korea] Bank of Korea Holds Steady After Back-to-Back Hikes — Update
   - [korea] Bank of Korea holds rates, upbeat outlook points to future hikes
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such
   - [korea] (URGENT) BOK expects inflation to approach target level in 2028: Gov. Shin
   - [korea] BOK Gov: Stronger Won Helps Curb Import Prices, Boost Household Purchasing Power
-  - [korea] BOK Gov: Core Inflation Could Near 2% Target in 2028
-  - [china] The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 bi
-  - [japan] Yen Edges Up Ahead of BOJ Policy Meeting
-  - [korea] (URGENT) Investment-focused fiscal spending compatible with monetary tightening: BOK Gov. Shin
-  - [korea] BOK Gov: Preemptive Move in August Gives Policymakers More Room to Maneuver
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T07:12:44+00:00",
+      "published_utc": "2026-10-22T07:22:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
