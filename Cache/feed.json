@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T04:22:46.261464+00:00",
- "collected_at_utc": "2026-10-22T04:22:46.261464+00:00",
+ "generated_at_utc": "2026-10-22T04:32:45.506553+00:00",
+ "collected_at_utc": "2026-10-22T04:32:45.506553+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 972,
+  "japan": 971,
   "china": 861,
   "taiwan": 355,
-  "korea": 812
+  "korea": 813
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T02:51:00+00:00"
+   "newest": "2026-10-22T02:29:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T10:01:00+00:00"
+   "newest": "2026-10-20T13:07:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T04:04:42+00:00"
+   "newest": "2026-10-22T04:24:46+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T02:48:20+00:00"
+   "newest": "2026-10-22T04:18:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T23:07:57+00:00"
+   "newest": "2026-10-22T04:01:43+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-22T11:51:04+00:00"
+   "newest": "2026-10-22T13:26:05+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T02:00:00+00:00"
+   "newest": "2026-10-22T01:01:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T13:15:27+09:00"
+   "newest": "2026-10-22T13:26:43+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T02:32:00+00:00"
+   "newest": "2026-10-22T02:46:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T04:08:01+00:00"
+   "newest": "2026-10-22T01:38:25+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Nvidia taps Korean component makers for AI chips, robots",
+   "url": "https://www.koreaherald.com/article/10911360",
+   "published_utc": "2026-10-22T04:32:44.035573+00:00",
+   "title_original": "Nvidia taps Korean component makers for AI chips, robots",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "48431fe77fdd5302"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China's yuan climbs to fresh 4-year high, global central bank meetings in focus",
@@ -377,6 +394,23 @@
    "live_wire": true,
    "manual": false,
    "id": "b67867e1a20cdf10"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Bank of Korea holds rates, upbeat outlook points to future hikes",
+   "url": "https://www.investing.com/news/economy-news/bank-of-korea-holds-rates-after-backtoback-hikes-4964499",
+   "published_utc": "2026-10-22T04:18:25+00:00",
+   "title_original": "Bank of Korea holds rates, upbeat outlook points to future hikes",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e841288bedeb8aa8"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -765,23 +799,6 @@
    "live_wire": true,
    "manual": false,
    "id": "32b06f87fd24dcf2"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Bank of Korea holds rates, upbeat outlook points to future hikes",
-   "url": "https://www.investing.com/news/economy-news/bank-of-korea-holds-rates-after-backtoback-hikes-4964499",
-   "published_utc": "2026-10-22T02:12:54+00:00",
-   "title_original": "Bank of Korea holds rates, upbeat outlook points to future hikes",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e841288bedeb8aa8"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1255,7 +1272,7 @@
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeklHamV5S1hqWHdHOFd3TXJraU1WX0t4Z280YlJYaGJYUTF0Nm5xQTk4bEFQblFiRWI2WEVXcnAwWllCQTJDT3hKc3FyQzdfaERjVmxVZFlvcFNzdXR6WE1YVTFrSk52dURqTXlfMmxkcl9oSlM4SWlGNElFVVRua2VFRzRnSGM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KLTR1b3ZXS1Q5bnhCd2FTNWRWMXFoMzc3a3M2bTc3SXdEZFZRc2ZVZHZCbEpqWXVCUG5lYW4xSXNuZVNRWmZoTmNHVjNINjVqYjZPd3Q2N0ZDdw?oc=5",
    "published_utc": "2026-10-22T01:21:26+00:00",
    "title_original": "(LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
    "region": "korea",
@@ -1266,7 +1283,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "10f6b5867cafa77b"
+   "id": "cccc5f5129844176"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2332,8 +2349,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -2347,7 +2364,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -4911,8 +4928,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -4926,7 +4943,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -5408,8 +5425,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -5423,7 +5440,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -7345,8 +7362,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -7360,7 +7377,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -11109,23 +11126,6 @@
    "id": "e1a9db155a097ffe"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzhpNk02NUd0cThLZGtubEhyQjk3ZWF1SjJpVWp2ZUVPQWw1Z0tmUk5RNmM0cWJudTh4WmtTU2pTajNDNko4VmsxQ0p4d3h0UGNHcTRhS3NfdjR6OEI1OGJCcHpNbEU4Q2t5UnRmeUc0cVBDUzZOckFydk1DRkwtZV9NamJqdjF6R3FfUUxZa0hDVDd3djl4NDlzcUpVbG9QdWQ1T1UzaS1PWG1odGVkRzk0QS1aVEE?oc=5",
-   "published_utc": "2026-10-16T21:21:43+00:00",
-   "title_original": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d89a3510b7970b73"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) S. Korea, U.S. hold first 2+2 meeting of finance, monetary policymakers",
@@ -11142,6 +11142,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ebc443accb19e2b1"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHFSWnhza0FRTjRPUHJCN3RkQ2g0SkkyS01GVUhmTW51aVZmWEFtd3QzdnhNR2V1cmZHYmdMWlVzZDM1NkFHVXB5RGJ2MUg4XzJXVGMyXzd0dWdJaW9sUG1NcEtuVUV6cmZ4YjdlQ2pxa1NyNUEzZUdjMTRGQ2VlYlhMVV9VbkE4aVAwYWRzTjY4Rks2WXQ1bVFWSVd1Z3N4ekp2cTF0a3hNV3htc0xrTXBYMHZGUzdCNkZr?oc=5",
+   "published_utc": "2026-10-16T20:49:00+00:00",
+   "title_original": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b4180c2c98b1e85"
   },
   {
    "source_id": "nhk_politics",
@@ -13394,6 +13411,23 @@
    "live_wire": false,
    "manual": false,
    "id": "07d3cbedfebbd34a"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics, SK hynix rebound after sell-off",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TYU5xcTVfSFZ5dEdqTUYxTkNOU01mRmhEQ1c4SGg1ZnNkV0UyV28tSXV0UGpPakVIaWhzRkZYaDZWeUVxc0dpaU9TLWh2MUxDeGlkV29uaw?oc=5",
+   "published_utc": "2026-10-16T02:02:11+00:00",
+   "title_original": "Samsung Electronics, SK hynix rebound after sell-off",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1800223d8796e355"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51909,40 +51943,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9fae5e3f9d42dede"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "글로벌경제신문",
-   "title_en": "The era of 4% bank deposit interest rates is just around the corner... Where should I leave my ‘Chuseok bonus and pocket money’?",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zbmNmcGZ0OW56LWZ1Z2xRNHJHdWZmU25qQ19QMURjZWdQNlowRVFadkVJTk9sbDhUVUZORHI5eWRmWlhfaW5fT19mRE9jWW1FVWIwalBjb19nMThSMTVxMUlTRUdkWHVDT1o5atIBcEFVX3lxTE1VMmR3Q2NETjBYMDNMMWl4MDZ0WGNMUEE4LVo2c1RKUTVvczZnUGhUSlY3WkxGbVBPNXU3NExOTWtUbm1MZXcyRFg2UXYwX2NMVzJ6bkZFcy1VcldXa2h5bUxULTBPOVpXWUZFcDFrNkE?oc=5",
-   "published_utc": "2026-09-25T20:00:00+00:00",
-   "title_original": "코앞에 온 은행 예금금리 4% 시대…'추석 상여금·용돈' 어디에 맡길까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ffce2b92c896c215"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Yen Rises as Takaichi Says Undervalued Currency Is a Problem",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTE40cXRCR2RYM3AwdnF1RDFROUtvR3k0eHd6LVdNN2gwTGtTYW1JSERmM2RtcnNteDNJRko2Yi1jcUJ6ZkR4dkpVRWQwRmdnczljMUF1RXh2RTBpamt1S2ljb04tVWxKSUZVM09MNlhiTTlScnV4eGN0MHdKNlRWN1Foc29ZSlRsZHZJNGNqWUs5RTJibU5fTTB1aUlfdEc5dEE4U1pVQ0IyZ19UY2lnXw?oc=5",
-   "published_utc": "2026-09-25T19:50:40+00:00",
-   "title_original": "Yen Rises as Takaichi Says Undervalued Currency Is a Problem",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "72f5a9e8275c46b6"
   },
   {
    "source_id": "manual_ia",
