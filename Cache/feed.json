@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T05:22:44.307915+00:00",
- "collected_at_utc": "2026-10-22T05:22:44.307915+00:00",
+ "generated_at_utc": "2026-10-22T05:32:45.194301+00:00",
+ "collected_at_utc": "2026-10-22T05:32:45.194301+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 969,
+  "japan": 966,
   "china": 861,
   "taiwan": 355,
-  "korea": 815
+  "korea": 818
  },
- "elapsed_s": 30.7,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T04:24:00+00:00"
+   "newest": "2026-10-20T17:07:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 54,
+   "count": 55,
    "error": "",
-   "newest": "2026-10-22T11:11:02+08:00"
+   "newest": "2026-10-22T11:57:05+08:00"
   },
   {
    "source_id": "investing_live",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-21T02:48:04+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T05:22:07+00:00"
+   "newest": "2026-10-22T05:32:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Kbi Dongkook Ind To Acquire Real Estate Worth 27.5 Billion Won",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46724Q:0-kbi-dongkook-ind-to-acquire-real-estate-worth-27-5-billion-won/",
+   "published_utc": "2026-10-22T05:29:46+00:00",
+   "title_original": "Kbi Dongkook Ind To Acquire Real Estate Worth 27.5 Billion Won",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a59d6ed6e8cb43d1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOK's Hawkish Hold Leaves Door Open to Rate Hikes — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261022001045:0-bok-s-hawkish-hold-leaves-door-open-to-rate-hikes-market-talk/",
+   "published_utc": "2026-10-22T05:25:00+00:00",
+   "title_original": "BOK's Hawkish Hold Leaves Door Open to Rate Hikes — Market Talk",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5b7b7452089c49c2"
+  },
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
@@ -835,6 +869,23 @@
    "live_wire": true,
    "manual": false,
    "id": "32b06f87fd24dcf2"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Korea’s corporate recovery leaves SMEs behind: BOK data",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SHpjcW9ub2ZGUENqZGNOTm54RG9XSHJ5Uk1xbGRvN0E1R1dabzMzOTlDSFdtNXRKU1dpYXJqU0dONFEwWG82bjBLRnpWZmhVNWlpR1YzUQ?oc=5",
+   "published_utc": "2026-10-22T02:15:22+00:00",
+   "title_original": "Korea’s corporate recovery leaves SMEs behind: BOK data",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "319bd5fb3aaf4d60"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1883,23 +1934,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7160784b293aeb47"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "JGB Yield Curve Flattens Amid Continued AI-Related Credit Concerns — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021012184:0-jgb-yield-curve-flattens-amid-continued-ai-related-credit-concerns-market-talk/",
-   "published_utc": "2026-10-22T00:51:00+00:00",
-   "title_original": "JGB Yield Curve Flattens Amid Continued AI-Related Credit Concerns — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4478efb8311e210f"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51907,42 +51941,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d9c98d61a7cdb31e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "Japan Week Ahead: Tokyo CPI Data Expected to See Signs of Growing Upside Risks to Inflation, AI Projects Boon for Factory Output",
-   "url": "https://www.tradingview.com/news/macenews:2ba2172fa094b:0-japan-week-ahead-tokyo-cpi-data-expected-to-see-signs-of-growing-upside-risks-to-inflation-ai-projects-boon-for-factory-output/",
-   "published_utc": "2026-09-25T22:06:00+00:00",
-   "title_original": "Japan Week Ahead: Tokyo CPI Data Expected to See Signs of Growing Upside Risks to Inflation, AI Projects Boon for Factory Output",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "95bf3792ee36f1eb"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Government to support preparations for consumption tax reduction on food products, including contingency funds",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52513",
-   "published_utc": "2026-09-25T20:39:00+00:00",
-   "title_original": "政府 食料品の消費税減税の準備を支援へ 予備費支出も",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "34b8ab9d5b6d3857"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T05:22:44.307915+00:00
+Última coleta: 2026-10-22T05:32:45.194301+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          969
+  🇯🇵 Japão          966
   🇨🇳 China          861
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  815
+  🇰🇷 Coreia do Sul  818
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kbi Dongkook Ind To Acquire Real Estate Worth 27.5 Billion Won
+  - [korea] BOK's Hawkish Hold Leaves Door Open to Rate Hikes — Market Talk
   - [japan] October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui
   - [korea] Nvidia taps Korean component makers for AI chips, robots
   - [china] China's yuan climbs to fresh 4-year high, global central bank meetings in focus
@@ -45,6 +47,7 @@ Total: 3000 manchetes
   - [korea] Bank of Korea base interest rate frozen at 3.00% per annum... Speed ​​adjustment after 2 consecutive raises
   - [japan] Japan's Nikkei slips as chip stocks come under pressure due to wariness over AI investment
   - [japan] Japan's Nikkei slips as chip shares pressured by AI capex caution
+  - [korea] Korea’s corporate recovery leaves SMEs behind: BOK data
   - [korea] Bank of Korea freezes base interest rate at 3.0% per annum... Will it be raised in November after taking a bre
   - [korea] South Korean won strengthens most among Asian currencies
   - [korea] BOK holds rate at 3%, leaves door open to November hike
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Mone
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum [Newsis Pic]
   - [korea] ‘Stop continuous increases and check the effect of austerity’... Bank of Korea freezes base interest rate at 3
-  - [korea] (2nd LD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes
-  - [korea] BOK: Headline, Core Inflation Expected to Exceed August Forecasts Next Year
-  - [korea] BOK: Headline, Core Inflation Expected to Match August Forecasts This Year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T05:22:44+00:00",
+      "published_utc": "2026-10-22T05:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
