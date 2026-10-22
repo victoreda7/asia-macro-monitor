@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T00:02:44.475141+00:00",
- "collected_at_utc": "2026-10-22T00:02:44.475141+00:00",
+ "generated_at_utc": "2026-10-22T00:12:42.251856+00:00",
+ "collected_at_utc": "2026-10-22T00:12:42.251856+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1026,
-  "china": 865,
-  "taiwan": 356,
+  "japan": 1024,
+  "china": 866,
+  "taiwan": 357,
   "korea": 753
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T12:58:00+00:00"
+   "newest": "2026-10-21T15:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T11:24:45+00:00"
+   "newest": "2026-10-21T23:55:27+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T14:17:37+00:00"
+   "newest": "2026-10-21T12:49:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-21T02:48:04+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T06:30:06+00:00"
+   "newest": "2026-10-21T06:28:41+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T23:52:56+00:00"
+   "newest": "2026-10-21T21:08:05+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-21T23:55:00+00:00"
+   "newest": "2026-10-22T00:11:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T22:01:00+00:00"
+   "newest": "2026-10-21T21:59:09+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan tech supply chain eyes Texas for first US industrial cluster",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTRYZlhpcFhWd3JRNmp1dGxmaG9QcGlneHRCdEZkN0N0Ul9TUkZrZzhHcGc5UHdkQjNtSDJtZ0lWWjRhNWlCQzU4aTBIU29GUDJ6c1Y1b3FrdWIzZzVhM3Y1Qlk3eHgtbHZPMi1kYjZyUjh5QzZoTkU4QlJFeGZQNVc3VGlmb2p0TmZacDRsWHA5anpuVUlZSkREQlB3aUhGMWc?oc=5",
+   "published_utc": "2026-10-21T23:52:03+00:00",
+   "title_original": "Taiwan tech supply chain eyes Texas for first US industrial cluster",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "16c36bdd8a0dd658"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -603,6 +620,23 @@
    "id": "3fc50b66fd9a91d2"
   },
   {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s Export Boom May Ease in 2027 as Front-Loading Fades, Economists Say",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWVFSMElSYnNJM1IxT18weUgzeTFXNG9sV0Fvd3E2cmNhQVQxenluUXlHdERfVWV2QVNqTVJ1Y25DNHI0dkRnVkpkaWV4ckpSR1VGdmY2U2JhdTdUNG1xekh0TW5kWGtjWl8xTWNGZ002OExIMHdXeFNDUlBwVDNiV2pFXzR4Y2hScFU3TjQwWUV4R2VZcGtLQzVZM3N3X3NXRnFxUHMyTjhJaGZDcDNtbGlMbV8teUowTG1tek1LMDZ5RWRISUVv?oc=5",
+   "published_utc": "2026-10-21T15:47:00+00:00",
+   "title_original": "China’s Export Boom May Ease in 2027 as Front-Loading Fades, Economists Say",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dee54476c980b140"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Moody’s upgrades TSMC rating to Aa2 on booming AI demand and market dominance",
@@ -775,8 +809,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -790,7 +824,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -3354,8 +3388,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -3369,7 +3403,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -3851,8 +3885,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -3866,7 +3900,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -4452,7 +4486,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "머니투데이",
    "title_en": "93% of bond market workers say, “The Bank of Korea Monetary Policy Committee will freeze the base interest rate in October” - Money Today",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DelR0Q0VYLV9HcGJjb21nV2VaSEtyZkVCVzRIaEstc1FjQTAxQTgweDYySXdwLTJmX0l5N0ZwYk4tUWppd29SaFRoNmQxT1hRQ2RtN09FbjNwc3lwanY5M1FpdlV1eXNNd1JXQUNR0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeHFCMzN0Q0lIb0JIWkRBWTRad0FSTmZtSnJrVkYxQ3lFWHZJcmk2VjhfaUJ0SzRWS3RuUUt5NDZQbzhod1BweEhEQWt2ZmNacW1FLS1MQ2x6NWQ5MHlSX1N3OS1uNm1a0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
    "published_utc": "2026-10-20T05:34:46+00:00",
    "title_original": "채권시장 종사자 93% \"10월 한은 금통위, 기준금리 동결할 것\" - 머니투데이",
    "region": "korea",
@@ -4464,7 +4498,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a635a4e49fd3df7b"
+   "id": "f458f88af40eac09"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5754,8 +5788,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -5769,7 +5803,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -31406,23 +31440,6 @@
   {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
-   "title_en": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfVnFEeVdQOWI1dktYbHN2bDF0ZlRLUTluVGJIZFVOUWJFd3A4R1VHTHVDS1ZHdVJ5a2ppdk5sUm5QME40TlJ2b0lCbUFvRFJPWVh1TzJJNXhGUQ?oc=5",
-   "published_utc": "2026-10-07T07:00:00+00:00",
-   "title_original": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "92e09e9abc281cc5"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
    "title_en": "Japan Aug. real wages rise for 8th month on pay growth, slower inflation",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jLUpRTi1sck84a2Vlei14MlVLOEVTdGhxUmdjdVJxTkxVc3pBa2xIVV9Cem44dXFrOVltU09ucWwzbTRTZ0xYVUdjR3g5aFdNRW1YM1RPbGZxUQ?oc=5",
    "published_utc": "2026-10-07T07:00:00+00:00",
@@ -31640,6 +31657,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1ae8d8b7f796e3ec"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfVnFEeVdQOWI1dktYbHN2bDF0ZlRLUTluVGJIZFVOUWJFd3A4R1VHTHVDS1ZHdVJ5a2ppdk5sUm5QME40TlJ2b0lCbUFvRFJPWVh1TzJJNXhGUQ?oc=5",
+   "published_utc": "2026-10-07T04:15:00+00:00",
+   "title_original": "INTERVIEW: BOJ's Sato backs gradual rate hikes despite opposing Sept. increase",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "92e09e9abc281cc5"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51904,40 +51938,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5c391fd5a847e871"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "JPY/USD: Japanese Yen Intervention Risk Re-Emerges as 160 Per Dollar Level Nears",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZzU5RlZUczkxZUtLOFZVcXJrdHhiZkNVTDB3cWsxRi1TRklCclBhTFpDWk04NFdCelRQczNfOXpKQlhndWljcWVncUtEalZFdmFyLVc4NWNBa0thV2l4M1NQWXkyOVg3bE8wWUNqUmxtTjhnMFZQQ1hMbjR4cmh3ZG5LM0paT3NtRmgydmxCZHpNZnFnRXB0MERxcl9zRDhJTUhDNW9qbFg5N1A5Qjl0Q2Ytbw?oc=5",
-   "published_utc": "2026-09-24T16:00:22+00:00",
-   "title_original": "JPY/USD: Japanese Yen Intervention Risk Re-Emerges as 160 Per Dollar Level Nears",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0bc1519de7608b55"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "SoftBank's growing bets on AI and semiconductor assets",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmlyVEJYazh1M1Z2NnUzQlA5VWVobHFDb1pRMkZQbUx6WDhBTk5razVad1RvQkdrTmNYeFV1VzZsU1ZCT1NBSGFYRGZWUVJEX0dMUUQ1MmpQVmlxVzM5U3R6VEZTRHBvUVl1X3lFNlgyeU9Ga0lPNzRGU2ZpdkFXai1MWXV5ZGpmQ3JBYzZZaFNZd2ZKTzBEQ3JFUUNKbXZMRTFfSg?oc=5",
-   "published_utc": "2026-09-24T15:19:45+00:00",
-   "title_original": "SoftBank's growing bets on AI and semiconductor assets",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3ebc87e08c831607"
   },
   {
    "source_id": "manual_ia",

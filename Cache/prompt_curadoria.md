@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T00:02:44.475141+00:00
+Última coleta: 2026-10-22T00:12:42.251856+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1026
-  🇨🇳 China          865
-  🇹🇼 Taiwan         356
+  🇯🇵 Japão          1024
+  🇨🇳 China          866
+  🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  753
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan tech supply chain eyes Texas for first US industrial cluster
   - [japan] Now that we have entered the ``age of interest rates,'' should you really buy or rent a house? Hiroyuki's ``ex
   - [korea] Bank of Korea decides base interest rate today... Weight on ‘Maintain’
   - [korea] The Bank of Korea is likely to freeze its base interest rate... Pay attention to the possibility of additional
@@ -32,6 +33,7 @@ Total: 3000 manchetes
   - [japan] Japan beef imports shift to Australia as droughts hit US herds
   - [korea] BOK Financial Is Maintained at Neutral by DA Davidson
   - [korea] BOK Financial Price Target Cut to $141.00/Share From $148.00 by Stephens & Co.
+  - [china] China’s Export Boom May Ease in 2027 as Front-Loading Fades, Economists Say
   - [taiwan] Moody’s upgrades TSMC rating to Aa2 on booming AI demand and market dominance
   - [china] Kremlin Says China Preparing for Possible Putin-Trump-Xi Meeting
   - [japan] France's 10-year government bond yield reaches 5%, highest level in 24 years
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan decides to reach 2% price increase rate, shifts from deflationary measures, leaves policy intere
   - [japan] Bank of Japan decides to reach 2% price increase rate, shifts from deflationary response, leaves policy intere
   - [japan] Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war By Investing.com
-  - [taiwan] Nvidia, Siliconware Precision Industries to Expand Manufacturing Capacity in Taiwan for Optical Engines Used i
-  - [taiwan] Nvidia Expects Total Semiconductor Testing Capacity to Double From 2026 to 2027, Supported by Buildouts in U.S
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T00:02:44+00:00",
+      "published_utc": "2026-10-22T00:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
