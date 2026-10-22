@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T07:02:43.519531+00:00
+Última coleta: 2026-10-22T07:12:44.251012+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          965
+  🇯🇵 Japão          964
   🇨🇳 China          863
   🇹🇼 Taiwan         354
-  🇰🇷 Coreia do Sul  818
+  🇰🇷 Coreia do Sul  819
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [japan] Developments in Real Exports and Real Imports
   - [japan] In absence of sovereign buyers, Indian chip firms find clients in Japan, EU
   - [japan] Japan's Nikkei slides as AI capex caution weighs on chip shares
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Edges Up Ahead of BOJ Policy Meeting
   - [korea] (URGENT) Investment-focused fiscal spending compatible with monetary tightening: BOK Gov. Shin
   - [korea] BOK Gov: Preemptive Move in August Gives Policymakers More Room to Maneuver
-  - [korea] BOK Gov: Timing of Further Rate Increases Will Depend on Assessment of Incoming Data
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T07:02:43+00:00",
+      "published_utc": "2026-10-22T07:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
