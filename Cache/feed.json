@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-22T06:52:43.384126+00:00",
- "collected_at_utc": "2026-10-22T06:52:43.384126+00:00",
+ "generated_at_utc": "2026-10-22T07:02:43.519531+00:00",
+ "collected_at_utc": "2026-10-22T07:02:43.519531+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,18 +8,18 @@
  "by_region": {
   "japan": 965,
   "china": 863,
-  "taiwan": 355,
-  "korea": 817
+  "taiwan": 354,
+  "korea": 818
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 48,
+   "count": 49,
    "error": "",
-   "newest": "2026-10-22T10:00:00+09:00"
+   "newest": "2026-10-22T16:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 55,
+   "count": 57,
    "error": "",
-   "newest": "2026-10-22T11:57:05+08:00"
+   "newest": "2026-10-22T13:53:11+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T06:33:13+00:00"
+   "newest": "2026-10-22T06:55:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T06:18:18+00:00"
+   "newest": "2026-10-22T06:43:15+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-22T15:26:35+00:00"
+   "newest": "2026-10-22T15:57:09+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T06:51:52+00:00"
+   "newest": "2026-10-22T07:01:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T06:17:39+00:00"
+   "newest": "2026-10-22T05:46:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,61 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T05:30:00+00:00"
+   "newest": "2026-10-22T05:27:46+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Developments in Real Exports and Real Imports",
+   "url": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+   "published_utc": "2026-10-22T07:00:00+00:00",
+   "title_original": "Developments in Real Exports and Real Imports",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "660ca9ffa7c57e97"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mint",
+   "title_en": "In absence of sovereign buyers, Indian chip firms find clients in Japan, EU",
+   "url": "https://www.tradingview.com/news/moodys:806c400427cc8:0-in-absence-of-sovereign-buyers-indian-chip-firms-find-clients-in-japan-eu/",
+   "published_utc": "2026-10-22T06:58:09+00:00",
+   "title_original": "In absence of sovereign buyers, Indian chip firms find clients in Japan, EU",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fcad12d3b24b2923"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's Nikkei slides as AI capex caution weighs on chip shares",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46809A:0-japan-s-nikkei-slides-as-ai-capex-caution-weighs-on-chip-shares/",
+   "published_utc": "2026-10-22T06:57:01+00:00",
+   "title_original": "Japan's Nikkei slides as AI capex caution weighs on chip shares",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4c4608c839a01fc0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -361,6 +412,23 @@
    "id": "3c6c90f95a7dde6b"
   },
   {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Yen rallies as dollar wobbles toward Fed meeting",
+   "url": "https://www.investing.com/news/economy-news/dip-in-the-dollar-takes-a-breather-with-fed-in-focus-4964546",
+   "published_utc": "2026-10-22T06:43:15+00:00",
+   "title_original": "Yen rallies as dollar wobbles toward Fed meeting",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "07a0a6eac1d07abe"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "[Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip substrate production line",
@@ -376,23 +444,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4eaa76ab6ca3cd14"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Yen rallies as dollar wobbles toward Fed meeting",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46806J:0-yen-rallies-as-dollar-wobbles-toward-fed-meeting/",
-   "published_utc": "2026-10-22T06:34:04+00:00",
-   "title_original": "Yen rallies as dollar wobbles toward Fed meeting",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "ed7474e77ab8a569"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1084,6 +1135,23 @@
    "id": "67047fbd1f32ba36"
   },
   {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(URGENT) BOK Gov. Shin Hyun-song stresses need for monetary tightening",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBWTZ2MEIyS2hITGRVRjBXTDg1aXZxTXZfUW53RzhXRXZDYWNYSGFSZ1VMSDRRSUNES2lhMXBSWHZ4MWtxYTRCOEdYZFR4cmdGVHNxdTFndHNOcGlFa2FiS0g0Sk1DTXVIWHBiRHJn?oc=5",
+   "published_utc": "2026-10-22T02:27:10+00:00",
+   "title_original": "(URGENT) BOK Gov. Shin Hyun-song stresses need for monetary tightening",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c4493712b1a3e5a5"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China buys nearly 1 million tons of Australian canola for 2027 shipment, traders say",
@@ -1271,6 +1339,23 @@
    "live_wire": true,
    "manual": false,
    "id": "41399a22008c37b7"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Samsung Electro-Mechanics wins Nvidia AI chip substrate deal",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3UHRzTWpDcDVOeVdINk9JVEVsSl9ETjBNNEs3SEIwQUQtQkxNeVhYX1ZWdTlDejlMdVVNNzdXZktBMklXc1NHenhKSjRhVU4tdUhMSTg0NlVxUWk3WVczaGllSW5LdnZWUnlQQ3ZSWQ?oc=5",
+   "published_utc": "2026-10-22T01:58:49+00:00",
+   "title_original": "Samsung Electro-Mechanics wins Nvidia AI chip substrate deal",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "04c192aa529f8a7d"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1688,21 +1773,21 @@
    "id": "e16609396a895da2"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan MOF To Auction Y3.3T Of TD-Bills Oct 29",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021012259:0-japan-mof-to-auction-y3-3t-of-td-bills-oct-29/",
-   "published_utc": "2026-10-22T01:20:00+00:00",
-   "title_original": "Japan MOF To Auction Y3.3T Of TD-Bills Oct 29",
-   "region": "japan",
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스TV",
+   "title_en": "Bank of Korea freezes base interest rate... Maintain 3.0% per annum",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5icFg5NTNQd3ItMS1BOG5KODNtaEF4cmlqcnFnM0x4am9uaTgyZk90X2JLSmJiQkU5VUR4eVA1azMtakx2S29CSUcxdVpFNTVhMUlCYXpQMDdFdDlxRVh3cUFBSUpOX0k?oc=5",
+   "published_utc": "2026-10-22T01:13:00+00:00",
+   "title_original": "한국은행, 기준금리 동결…연 3.0% 유지",
+   "region": "korea",
    "topics": [
-    "signaling"
+    "monetary"
    ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
    "manual": false,
-   "id": "dde3e2cb73ad88e3"
+   "id": "e2423a4f4109e57a"
   },
   {
    "source_id": "korea_herald_biz",
@@ -2029,23 +2114,6 @@
    "id": "180b51bfd1db6a1b"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Cuts announced to Japan's eco-friendly car subsidies",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QWmUxbklNazNMQWJfdTB6eVotUl9GQ2tFTkhrdFFqbkdPMC1uNy1lWEtldHJUVlJiY3RRdllOdzJwYTZlT1NnV3FYTmc1cWpJTC1MWTRmaHZSMUpwSzZEc0psSQ?oc=5",
-   "published_utc": "2026-10-22T00:57:58+00:00",
-   "title_original": "Cuts announced to Japan's eco-friendly car subsidies",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1797372bb8aa058"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "팝콘뉴스",
    "title_en": "[Breaking News] Bank of Korea freezes base interest rate at 3.00%",
@@ -2078,24 +2146,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7b948cdb573658f3"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
-   "title_en": "Bank of Korea Monetary Policy Committee freezes base interest rate at 3.00%",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zd2NpYkNkODYxMUQtMHVLRVlncjBMQ09OUUNWa1NWTmRBRWozSGFVa0ZBb3laY2poYW5zOEJvQ25rQ3B6UVE3N1BHeUhLMTI4RXYwdndtMXdDVkFf?oc=5",
-   "published_utc": "2026-10-22T00:57:00+00:00",
-   "title_original": "한국은행 금통위, 기준금리 3.00% 동결",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ac3d3d320d29ad47"
   },
   {
    "source_id": "investing_econ",
@@ -2338,6 +2388,23 @@
    "live_wire": false,
    "manual": false,
    "id": "65b91fef2d56eb5b"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Cuts announced to Japan's eco-friendly car subsidies",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QWmUxbklNazNMQWJfdTB6eVotUl9GQ2tFTkhrdFFqbkdPMC1uNy1lWEtldHJUVlJiY3RRdllOdzJwYTZlT1NnV3FYTmc1cWpJTC1MWTRmaHZSMUpwSzZEc0psSQ?oc=5",
+   "published_utc": "2026-10-21T18:58:58+00:00",
+   "title_original": "Cuts announced to Japan's eco-friendly car subsidies",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1797372bb8aa058"
   },
   {
    "source_id": "tradingview_live",
@@ -3563,6 +3630,23 @@
    "id": "e5cc372c63162978"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHNraGVxZVpzdVZzUjFvQlpfcXJRU2ZYdlJxdU5KY1k5ZVJCTGQtallhSmVkbjZFbDdmVE5NRTN1ODRMd3ltTUpkQWNTdy13NmQxZkhNZDVyOXFUU1o3OXlhQ3Nrc2RSRE05TmJQTkVTNnlseXdtd1NOMVdLdEo1cVU4OWlxMmk3S0Zvdg?oc=5",
+   "published_utc": "2026-10-21T06:08:00+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e277f33f899b7cc"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Nomura, JPMorgan bullish on Korean chips despite Kospi swings",
@@ -3648,23 +3732,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4932d8c9ad5c811e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
-   "published_utc": "2026-10-21T05:02:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7b59d3d09f8c8605"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -6326,10 +6393,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观察者网",
+   "source_name": "搜狐",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
-   "published_utc": "2026-10-20T05:07:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9Rc1BnRlhGM1d4c092aXBsdWVCUXE1NWpsTTZMSVA5X3E2MW0tOUt4dFdGY2o2OVNJNEZhTkdYMlN0Mi1EazBaUGxrTnhZUTI3dklRNjd6a0ZybFpLRElwVC01YWJCZ3JqYm9nVDVad1BFb1pkTUVVUkhnb0p6ejBURktuX1pu?oc=5",
+   "published_utc": "2026-10-20T05:07:29+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -6339,7 +6406,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50e1092b7ea2ed64"
+   "id": "8b5a5b685c5ae149"
   },
   {
    "source_id": "gn_jp_investing",
@@ -6377,10 +6444,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "搜狐",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
-   "published_utc": "2026-10-20T04:37:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
+   "published_utc": "2026-10-20T04:46:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -6391,7 +6458,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "113a63c4f4301728"
+   "id": "6b8b7943e562e9e1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -6533,6 +6600,23 @@
    "live_wire": true,
    "manual": false,
    "id": "05280fdf996be8e6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByR1RCUXRvdzJXdko3eDhTNzJoTkk3dU9yczRUTTRVaFl0ZFRnNF9mZHBtQkp6d3BNMXQ3TDRyTlFCcGxkWUxNbXF1X1VQWEdNX1JHbmdPbURVWFhoVENCNUp5SVJBRm80UVpzRzRhNA?oc=5",
+   "published_utc": "2026-10-20T03:18:00+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e4ac9994d10111b"
   },
   {
    "source_id": "toyo_keizai",
@@ -7627,23 +7711,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b474010cf2072a9c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "界面新闻",
-   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
-   "published_utc": "2026-10-19T12:18:00+00:00",
-   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16528f1711d07747"
   },
   {
    "source_id": "tradingview_live",
@@ -51874,77 +51941,6 @@
    "live_wire": false,
    "manual": false,
    "id": "36e0431a73c69b53"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "2news.co.kr",
-   "title_en": "The increase in commercial bank deposit interest rates accelerates in the aftermath of the base interest rate increase.",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BcFd0UllYNjJUSFluMVBqbW1iN1lKN21Vd1lyclFnTnV6d0U2blBONnVrUzA5eDBhY0pVNk50TW9OOXVWdUxRMFNTRmFjbkFLYS1JUUNHZm1tR1IyTm94WWhsS2EwX0RV?oc=5",
-   "published_utc": "2026-09-26T03:29:00+00:00",
-   "title_original": "기준금리 인상 여파로 시중은행 예금 금리 인상 가속화",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "da4d7bce3efb3a59"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan raises policy interest rate to 1.25%. Why is the yen depreciating even at the highest level in 31 years? Understanding the impact of mortgage loans, deposits, etc. on daily life",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LbTFTOXJxbjZLLTdhQWVxYUlFQXEtaU4tT0JLWlJEVmx2VUJEaWpoMHlfaUxkeVZ2NVVBQWdlTXUwSnBBdVFMc0ZvVTNwY2pfY242ZGNNMkg3MEVjS3VRZk9mWU10MUNuWGhUeUJFNk5fdktfVXpwN2YwUUlzeUk?oc=5",
-   "published_utc": "2026-09-26T03:01:39+00:00",
-   "title_original": "日銀、政策金利1.25%に引き上げ。31年ぶり高水準でもなぜ円安が進むのか？住宅ローン・預金など暮らしへの影響を読み解く",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f68624276df41e96"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Arming Taiwan an important US interest, Taipei official says after Trump-Xi summit",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmxPT01ncFNMX1E2V2FuRWpFUk0tXzR6WWJVYUl6TlRHM3QxYndiMTAyWlN0bV9qRlJMdmxiem9OQzJUZHBlMnJuZzBTUjFxbVZpN1QtOThvRTZTMEZrRHJSNG4zbnNJRU9lVWdpQmdveV84NHo1R1R0WHJSRmhUdWdYWVJka2t4RWtSVld5TDV2SVpScE80UnJXdkdsOFQ2dlFxeHJMdEFvODlHdnVPVGMyMnhVWWl3cHZWRDN6Yw?oc=5",
-   "published_utc": "2026-09-26T02:08:00+00:00",
-   "title_original": "Arming Taiwan an important US interest, Taipei official says after Trump-Xi summit",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "54e440d0e7d23533"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Monetary Policy Meeting (September 2026) - An additional 0.25% interest rate hike was decided as expected to accelerate the pace of interest rate hikes [Commentary: Tokio Marine Asset Management] (THE GOLD ONLINE)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jYVBFN0g0NWN2MWRzaWdETUJ3ZWVZRXpRZTl6eS00ZTV5ZGt4S25QNnpmSURNYThFVURILUdtLWdFOVRHeXhRUTllSkVnNGF2c1VDemFLNVFhMlpXT09hcUtTdVlKMEc5S0xpVGNzLTYyeUt4cWhjc01UeF9TcTg?oc=5",
-   "published_utc": "2026-09-26T01:00:35+00:00",
-   "title_original": "日銀金融政策決定会合（2026年9月）――利上げペース加速へ、予想通り0.25％の追加利上げを決定【解説：東京海上アセットマネジメント】（THE GOLD ONLINE（ゴールドオンライン））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5502232805d326f9"
   },
   {
    "source_id": "manual_ia",

@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T06:52:43.384126+00:00
+Última coleta: 2026-10-22T07:02:43.519531+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          965
   🇨🇳 China          863
-  🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  817
+  🇹🇼 Taiwan         354
+  🇰🇷 Coreia do Sul  818
 
 ## O que já está no feed (não repita)
 
+  - [japan] Developments in Real Exports and Real Imports
+  - [japan] In absence of sovereign buyers, Indian chip firms find clients in Japan, EU
+  - [japan] Japan's Nikkei slides as AI capex caution weighs on chip shares
   - [korea] South Korean shares log 6-month closing low as chipmakers fall on profit-taking
-  - [korea] [Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip subst
   - [japan] Yen rallies as dollar wobbles toward Fed meeting
+  - [korea] [Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip subst
   - [korea] BOK pauses rate hikes, but signals more may come
   - [japan] Six opposition parties in the House of Councilors consumption tax reduction bill “call for establishment of a 
   - [korea] Strong chip exports expected to spill over into private consumption from next year: BOK report
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] (URGENT) Investment-focused fiscal spending compatible with monetary tightening: BOK Gov. Shin
   - [korea] BOK Gov: Preemptive Move in August Gives Policymakers More Room to Maneuver
   - [korea] BOK Gov: Timing of Further Rate Increases Will Depend on Assessment of Incoming Data
-  - [korea] The Bank of Korea freezes the base interest rate at 3% per annum... "Check the effect of the existing increase
-  - [korea] Samsung E&A recorded an operating profit of KRW 5006 billion in the third quarter of this year.
-  - [korea] Bank of Korea Gov: Will Maintain Tight Policy Stance Until Inflation Converges Toward Target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T06:52:43+00:00",
+      "published_utc": "2026-10-22T07:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
