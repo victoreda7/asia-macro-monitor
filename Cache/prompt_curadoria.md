@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T11:02:45.663368+00:00
+Última coleta: 2026-10-22T11:12:43.350357+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          966
-  🇨🇳 China          852
+  🇯🇵 Japão          965
+  🇨🇳 China          853
   🇹🇼 Taiwan         357
   🇰🇷 Coreia do Sul  825
 
 ## O que já está no feed (não repita)
 
+  - [china] Shenzhen’s Existing-Home Prices Fall in October
+  - [japan] Yen Rises Amid Risk-off Mood
   - [korea] Bank of Korea Expected to Gradually Hike Twice More in Cycle — Market Talk
   - [china] Shanghai Bright Power Semiconductor Q3 Net Profit Up 2077.1% Y/Y
   - [korea] Merck opens Korean chip materials plant to meet advanced memory demand
@@ -25,7 +27,6 @@ Total: 3000 manchetes
   - [korea] BOK pauses rate hikes as inflation, debt concerns linger
   - [korea] Vice budget minister calls Future Fund 'fiscal innovation' for future growth
   - [korea] BOK holds key rate steady at 3% after 2 consecutive rate hikes
-  - [japan] Yen Rises Amid Risk-off Mood
   - [korea] Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26
   - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [taiwan] Taiwan's first-ever chip workers strike hits Micron plant
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen rallies as dollar wobbles toward Fed meeting By Reuters
   - [korea] [Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip subst
   - [korea] BOK pauses rate hikes, but signals more may come
-  - [japan] Six opposition parties in the House of Councilors consumption tax reduction bill “call for establishment of a 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T11:02:45+00:00",
+      "published_utc": "2026-10-22T11:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
