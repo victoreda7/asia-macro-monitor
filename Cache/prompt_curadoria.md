@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T03:32:44.706063+00:00
+Última coleta: 2026-10-22T03:42:42.626683+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          973
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [korea] Samsung E&A recorded an operating profit of KRW 5006 billion in the third quarter of this year.
   - [korea] Bank of Korea Gov: Will Maintain Tight Policy Stance Until Inflation Converges Toward Target
   - [korea] (URGENT) Strengthening won likely helps boost consumption in S. Korea: BOK Gov. Shin
+  - [korea] The Bank of Korea freezes the base interest rate by 3%... “Watch prices and financial stability”
   - [china] China buys nearly 1 million tons of Australian canola for 2027 shipment, traders say
   - [korea] Bank of Korea base interest rate frozen at 3.00% per annum... Speed ​​adjustment after 2 consecutive raises
   - [japan] Japan's Nikkei slips as chip stocks come under pressure due to wariness over AI investment
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Merck opens Korean chip materials plant to meet advanced memory demand
   - [taiwan] Taiwan's first-ever chip workers strike begins at Micron plant
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7195 THURS VS 6.7192
-  - [korea] Bank of Korea freezes base interest rate at 3.00% per annum...adjusts pace of tightening
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T03:32:44+00:00",
+      "published_utc": "2026-10-22T03:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
