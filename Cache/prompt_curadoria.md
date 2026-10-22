@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T04:42:42.558619+00:00
+Última coleta: 2026-10-22T04:52:42.412852+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          971
+  🇯🇵 Japão          970
   🇨🇳 China          861
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  813
+  🇰🇷 Coreia do Sul  814
 
 ## O que já está no feed (não repita)
 
@@ -52,11 +52,11 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Mone
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum [Newsis Pic]
   - [korea] ‘Stop continuous increases and check the effect of austerity’... Bank of Korea freezes base interest rate at 3
+  - [korea] (2nd LD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes
   - [korea] BOK: Headline, Core Inflation Expected to Exceed August Forecasts Next Year
   - [korea] BOK: Headline, Core Inflation Expected to Match August Forecasts This Year
   - [korea] South Korean shares fall on profit taking; BOK in focus
   - [korea] BOK: 2026, 2027 Economic Growth Expected to Be Well Above August Forecasts
-  - [korea] Bank of Korea: Decision to Hold Rates Steady Was Unanimous
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T04:42:42+00:00",
+      "published_utc": "2026-10-22T04:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
