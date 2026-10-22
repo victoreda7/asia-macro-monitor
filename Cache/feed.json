@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T03:12:44.472464+00:00",
- "collected_at_utc": "2026-10-22T03:12:44.472464+00:00",
+ "generated_at_utc": "2026-10-22T03:22:41.836552+00:00",
+ "collected_at_utc": "2026-10-22T03:22:41.836552+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 974,
-  "china": 858,
-  "taiwan": 357,
+  "china": 857,
+  "taiwan": 358,
   "korea": 811
  },
- "elapsed_s": 32.3,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T00:57:58+00:00"
+   "newest": "2026-10-21T04:34:17+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T12:02:50+09:00"
+   "newest": "2026-10-22T12:17:36+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T03:12:00+00:00"
+   "newest": "2026-10-22T03:19:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T02:26:00+00:00"
+   "newest": "2026-10-22T02:40:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such as AI",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261022de63277",
+   "published_utc": "2026-10-22T03:17:36+00:00",
+   "title_original": "アメリカ メタ大幅増益 AIなど巨額の設備投資続ける見通し",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f8348f75e7d24588"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -399,6 +416,25 @@
    "id": "6181c2f60b87f6c6"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Yen Edges Up Ahead of BOJ Policy Meeting",
+   "url": "https://www.tradingview.com/news/te_news:594021:0-yen-edges-up-ahead-of-boj-policy-meeting/",
+   "published_utc": "2026-10-22T02:59:51+00:00",
+   "title_original": "Yen Edges Up Ahead of BOJ Policy Meeting",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c8720fdb42695d70"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(URGENT) Investment-focused fiscal spending compatible with monetary tightening: BOK Gov. Shin",
@@ -450,6 +486,23 @@
    "live_wire": true,
    "manual": false,
    "id": "737cfa392c9e41a1"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "YTN",
+   "title_en": "The Bank of Korea freezes the base interest rate at 3% per annum... \"Check the effect of the existing increase\"",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwUkJKaVduaGF4QkhfcVRkZlhzZ3VXY3p1UVp5ZUw1MW10ZnFvRzdnZUJ0T0Y5cl9FZmJQZFYtam03bzc3Rk10djYxNEFrNW9fN1FzVnlVVXJJaDVCSnV3amJrV2E0QWNhUnhOUFNXOA?oc=5",
+   "published_utc": "2026-10-22T02:40:00+00:00",
+   "title_original": "한은, 기준금리 연 3%로 동결...\"기존 인상 효과 점검\"",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "13276876f3077a83"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1622,23 +1675,6 @@
    "id": "1ad5192305c186c8"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "이코노미스트",
-   "title_en": "[Breaking News] Bank of Korea, ‘taking a breather’ in base interest rate… Freeze 3.00% per annum",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05dTBJNU5UX3paTWtLNGg2NmFpX2xBaktWS3pKbnR5UlJKa0x3bGxaYmJFaGNjcEI4UV8zTDdub0pGNS1sNW5ILTBTbTVlVlFLY2IwMG9NdnBvZUxicnRKYzBR?oc=5",
-   "published_utc": "2026-10-22T00:52:00+00:00",
-   "title_original": "[속보] 한국은행, 기준금리 ‘숨 고르기’…연 3.00% 동결",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "483a432787dc52eb"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "JGB Yield Curve Flattens Amid Continued AI-Related Credit Concerns — Market Talk",
@@ -1775,23 +1811,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8037becf536ac78c"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such as AI",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261022de63277",
-   "published_utc": "2026-10-21T21:27:57+00:00",
-   "title_original": "アメリカ メタ大幅増益 AIなど巨額の設備投資続ける見通し",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f8348f75e7d24588"
   },
   {
    "source_id": "nhk_politics",
@@ -8239,13 +8258,13 @@
    "id": "2c5fa1146e9289cd"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUFsbUxmVHc1WjQ5eHNRVFVNV3ZLdzdyRGV6MHNSMEZPRVJrejdESVc2Q204R2hKdi1EbVY3UVBHd0N6c0dMLTBDdVhoSkhFRWN2aWZLc1hmYTJrQjd2M3pXVUl5VDF2aktUMW9TQTNRN0lBZ0ZDcE1adjhlNzZ5NDZkNXNxSWdlS0ozREVlNlRDUkU1ZjVhdExxUDF3Zk5FY2tnSUNvNXdFYV9rTzJwTnlXSQ?oc=5",
    "published_utc": "2026-10-19T02:52:00+00:00",
    "title_original": "Putin proposes summit with Trump and Xi to discuss Ukraine deal, WSJ says",
-   "region": "china",
+   "region": "taiwan",
    "topics": [
     "signaling"
    ],
@@ -8253,7 +8272,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "73fed07a8948fe9b"
+   "id": "107fbacdc77b6eb4"
   },
   {
    "source_id": "investing_econ",
@@ -9321,6 +9340,23 @@
    "id": "1fa3cbe4c58142f8"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "YTN",
+   "title_en": "Bank of Korea decides base interest rate this week...market expected to freeze",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FYUpMVGRZWThuTFNlR2ZnR0loRFRMUTNWbmF2OFFFbHZvQVpRbC1kSzZxdVc0YUhNc292SG9qQ2pYNHBOdDlpWk5PTGkzUU9KQ3g4T2xlUWExWnNPLUE?oc=5",
+   "published_utc": "2026-10-18T13:10:00+00:00",
+   "title_original": "한은, 이번 주 기준금리 결정...시장은 동결 전망",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0630db66fbbc193c"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "BOK to pause before November hike; rates to peak at 3.50%: survey",
@@ -9475,23 +9511,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fe00a26371f94934"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "YTN",
-   "title_en": "Bank of Korea decides base interest rate this week...market expected to freeze",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xaWZsMHFMa1ozMy1oelFFZDhDV3FjZzRYTnJUak0zMmduOHg1Uk96MDNVbmR2SUVfNTBtdmwxNW1TcTJNRVdKZzljdGNWTVFoUkxWMG9hTnA2bWpGMWxZV1Z3SXNkVWhzR2dORkVLUkZNMk1pZGc?oc=5",
-   "published_utc": "2026-10-18T09:17:00+00:00",
-   "title_original": "한은, 이번 주 기준금리 결정...시장은 동결 전망",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e2d338b61587629e"
   },
   {
    "source_id": "tradingview_live",
@@ -10099,7 +10118,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "The base interest rate has been raised repeatedly... A decision by the Monetary Policy Committee is expected this week.",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PU2FIcjhlR2cxeWkweTY1aE1BRUs4ZGhyV3VsMkdVRy1pWkZHQ3oxeUxIUVVKODcxQ3VKM1ZsMkJlb3hXanpfaTNwazRlbnc2QVl4cHRxVF96OUowS3c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iaVl4SmYwUmtwQnVPRXFfR3lnaGl2UjZaSG1XX2tKamdkN0tmZGNGamdkTkVkMHoyZjdqeUNoWXlRYjVFcHpYZWp2c0FPZV9ZRndpQWlqYTRQTVFjWXZTbTA4X1RJR3Vhd25qVDdRUQ?oc=5",
    "published_utc": "2026-10-18T02:11:00+00:00",
    "title_original": "연거푸 인상한 기준금리...이번 주 금통위 결정 촉각",
    "region": "korea",
@@ -10111,7 +10130,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f6fc73f61ae158"
+   "id": "e9a548bf6bd60c0e"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51920,23 +51939,6 @@
    "live_wire": false,
    "manual": false,
    "id": "46706e36903b63bb"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Dollar falls as oil eases, yen rallies on Japan remarks",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45H0ON:0-dollar-falls-as-oil-eases-yen-rallies-on-japan-remarks/",
-   "published_utc": "2026-09-25T15:08:35+00:00",
-   "title_original": "Dollar falls as oil eases, yen rallies on Japan remarks",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "76a152eef7d0ebaf"
   },
   {
    "source_id": "manual_ia",

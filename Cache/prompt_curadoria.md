@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T03:12:44.472464+00:00
+Última coleta: 2026-10-22T03:22:41.836552+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          974
-  🇨🇳 China          858
-  🇹🇼 Taiwan         357
+  🇨🇳 China          857
+  🇹🇼 Taiwan         358
   🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [japan] U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such
   - [korea] BOK Gov: Stronger Won Helps Curb Import Prices, Boost Household Purchasing Power
   - [korea] BOK Gov: Core Inflation Could Near 2% Target in 2028
   - [china] The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 bi
+  - [japan] Yen Edges Up Ahead of BOJ Policy Meeting
   - [korea] (URGENT) Investment-focused fiscal spending compatible with monetary tightening: BOK Gov. Shin
   - [korea] BOK Gov: Preemptive Move in August Gives Policymakers More Room to Maneuver
   - [korea] BOK Gov: Timing of Further Rate Increases Will Depend on Assessment of Incoming Data
+  - [korea] The Bank of Korea freezes the base interest rate at 3% per annum... "Check the effect of the existing increase
   - [korea] Samsung E&A recorded an operating profit of KRW 5006 billion in the third quarter of this year.
   - [korea] Bank of Korea Gov: Will Maintain Tight Policy Stance Until Inflation Converges Toward Target
   - [korea] (URGENT) Strengthening won likely helps boost consumption in S. Korea: BOK Gov. Shin
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's first-ever chip workers strike begins at Micron plant
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7195 THURS VS 6.7192
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum...adjusts pace of tightening
-  - [japan] Japan MOF To Auction Y2.8T Of 2-Year Govt Bonds Oct 29
-  - [korea] The Bank of Korea freezes the base interest rate at 3% per annum... ‘Taking a breather’ after two consecutive 
-  - [korea] Bank of Korea holds rates at 3% after back-to-back hikes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T03:12:44+00:00",
+      "published_utc": "2026-10-22T03:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
