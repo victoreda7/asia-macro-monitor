@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-22T21:42:44.602261+00:00",
- "collected_at_utc": "2026-10-22T21:42:44.602261+00:00",
+ "generated_at_utc": "2026-10-22T21:52:42.555604+00:00",
+ "collected_at_utc": "2026-10-22T21:52:42.555604+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 967,
-  "china": 857,
+  "china": 856,
   "taiwan": 366,
-  "korea": 810
+  "korea": 811
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.1,
  "sources": [
+  {
+   "source_id": "gn_tw_cna",
+   "name": "中央社 CNA",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -99,7 +107,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T20:54:00+00:00"
+   "newest": "2026-10-22T13:23:35+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +160,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -259,7 +267,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T16:00:00+00:00"
+   "newest": "2026-10-21T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +275,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T21:42:07+00:00"
+   "newest": "2026-10-22T21:51:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T18:59:06+00:00"
+   "newest": "2026-10-22T15:58:33+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,15 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T07:46:59+00:00"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "name": "中央社 CNA",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-22T15:37:00+00:00"
+   "newest": "2026-10-22T05:46:10+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SK Hynix drops Solidigm US IPO plan, according to newspaper report",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4681ES:0/",
+   "published_utc": "2026-10-22T21:51:57+00:00",
+   "title_original": "SK Hynix desiste do plano de IPO da Solidigm nos EUA, segundo reportagem de jornal",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "04c1460042883273"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SK Hynix drops US IPO plan for Solidigm, newspaper reports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N43V005:0-sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/",
+   "published_utc": "2026-10-22T21:44:39+00:00",
+   "title_original": "SK Hynix drops US IPO plan for Solidigm, newspaper reports",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cfc4d0218ab32015"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1842,41 +1876,6 @@
    "live_wire": false,
    "manual": false,
    "id": "48431fe77fdd5302"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's yuan climbs to fresh 4-year high, global central bank meetings in focus",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46806I:0-china-s-yuan-climbs-to-fresh-4-year-high-global-central-bank-meetings-in-focus/",
-   "published_utc": "2026-10-22T04:21:29+00:00",
-   "title_original": "China's yuan climbs to fresh 4-year high, global central bank meetings in focus",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "42d25ccaca08d7c2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Bank of Korea Holds Steady After Back-to-Back Hikes — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261022000081:0-bank-of-korea-holds-steady-after-back-to-back-hikes-update/",
-   "published_utc": "2026-10-22T04:20:00+00:00",
-   "title_original": "Bank of Korea Holds Steady After Back-to-Back Hikes — Update",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b67867e1a20cdf10"
   },
   {
    "source_id": "investing_econ",
@@ -3517,8 +3516,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -3532,7 +3531,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -5056,7 +5055,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
-   "published_utc": "2026-10-21T01:56:00+00:00",
+   "published_utc": "2026-10-21T01:56:01+00:00",
    "title_original": "央行开展800亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -6215,8 +6214,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -6230,7 +6229,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -6747,8 +6746,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -6762,7 +6761,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -8753,8 +8752,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -8768,7 +8767,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",

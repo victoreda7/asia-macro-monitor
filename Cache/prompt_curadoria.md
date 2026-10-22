@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T21:42:44.602261+00:00
+Última coleta: 2026-10-22T21:52:42.555604+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          967
-  🇨🇳 China          857
+  🇨🇳 China          856
   🇹🇼 Taiwan         366
-  🇰🇷 Coreia do Sul  810
+  🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix drops Solidigm US IPO plan, according to newspaper report
+  - [korea] SK Hynix drops US IPO plan for Solidigm, newspaper reports
   - [japan] Yen on track to gain from US midterm elections and France unrest
   - [china] China’s Bank Wealth Management Market Reaches 35.4 Trillion Yuan
   - [china] China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Even with earnings this strong, Samsung at ₩70,000 and SK hynix at ₩200,000?... We recalculated the KOSPI’s fa
   - [taiwan] Taiwan's first-ever chip workers strike hits Micron plant
   - [japan] Lower House committee to debate consumption tax cut | NHK WORLD-JAPAN News
-  - [japan] Lower House committee to debate consumption tax cut
-  - [taiwan] The Trade Department updated the management list of entities exporting strategic high-tech goods, adding 343 n
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T21:42:44+00:00",
+      "published_utc": "2026-10-22T21:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
