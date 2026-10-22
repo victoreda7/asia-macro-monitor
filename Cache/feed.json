@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T00:42:42.560106+00:00",
- "collected_at_utc": "2026-10-22T00:42:42.560106+00:00",
+ "generated_at_utc": "2026-10-22T00:52:45.592273+00:00",
+ "collected_at_utc": "2026-10-22T00:52:45.592273+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1023,
-  "china": 865,
+  "japan": 1022,
+  "china": 863,
   "taiwan": 359,
-  "korea": 753
+  "korea": 756
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 31.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T00:41:43+00:00"
+   "newest": "2026-10-22T00:51:17+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T21:55:10+00:00"
+   "newest": "2026-10-21T18:50:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-22T00:28:29+00:00"
+   "newest": "2026-10-22T00:48:59+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -339,10 +339,95 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T21:59:09+00:00"
+   "newest": "2026-10-22T00:50:31+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "JGB Yield Curve Flattens Amid Continued AI-Related Credit Concerns — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261021012184:0-jgb-yield-curve-flattens-amid-continued-ai-related-credit-concerns-market-talk/",
+   "published_utc": "2026-10-22T00:51:00+00:00",
+   "title_original": "JGB Yield Curve Flattens Amid Continued AI-Related Credit Concerns — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4478efb8311e210f"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "글로벌이코노믹",
+   "title_en": "[Breaking News] Bank of Korea decides to take a breather and freezes base interest rate... 3.00% per annum",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTZkaE9wSDVVbVZzaVlwcFFJVDFzLXNqWVFrblZMN0xfdmluak5NMGRwamFsaDdObmdMbHZkbmpMdTRNYjlRTGZDZUp6WTBOMkoyZmQ4TjZPdnhxMUdqMmx3eGtiUmJPay1vbnUtUUVBTFR5WHFaOXNfZGhsWUphM2JrNW8?oc=5",
+   "published_utc": "2026-10-22T00:50:31+00:00",
+   "title_original": "[속보] 한국은행, 숨고르기 결정 기준금리 동결...연 3.00%",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9f6c115ee526146e"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "아시아경제",
+   "title_en": "[Breaking News] Bank of Korea freezes base interest rate... 3.0% per annum",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SbDZVNV9pRFRQX0huWmFzb2dsYkV5bjE2dktoRl9QY2Q3M1YzcW11RkVaMkFTc1RwR2ZZaHRzRC1tVFktaFFVSGFkaGNaVnh6VGZiWkhkdjhBUUFtbGt4Wg?oc=5",
+   "published_utc": "2026-10-22T00:50:13+00:00",
+   "title_original": "[속보]한국은행, 기준금리 동결…연 3.0%",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5652ae92b9bb34e5"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "지디넷코리아",
+   "title_en": "[Breaking News] Bank of Korea base interest rate frozen at 3.00% per annum",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wX0k1RjFKV0g4ako4THlCblJ0OVBqSmdrQ0NIbkFPTkJaUFl5d2k3TmxFRGpZVlYyZnF0MTNnYXY3UTIzbm5QaTY4Q3VnTjhCOFVUckRn?oc=5",
+   "published_utc": "2026-10-22T00:50:10+00:00",
+   "title_original": "[속보] 한국은행 기준금리 연 3.00% 동결",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "296484ef93dbfb29"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan funding conditions still loose despite interest rate hikes, survey shows",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46800H:0-japan-funding-conditions-still-loose-despite-interest-rate-hikes-survey-shows/",
+   "published_utc": "2026-10-22T00:45:57+00:00",
+   "title_original": "Japan funding conditions still loose despite interest rate hikes, survey shows",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5d1419ea36fa68e2"
+  },
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
@@ -809,8 +894,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -824,7 +909,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -3371,8 +3456,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -3386,7 +3471,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -3868,8 +3953,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -3883,7 +3968,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -5788,8 +5873,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -5803,7 +5888,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51851,92 +51936,6 @@
    "live_wire": false,
    "manual": false,
    "id": "364b2ea6cf8c4e35"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "One in four people have a repayment period of ``more than 35 years''...The reason why a 44-year-old with a mortgage that doesn't end until he is 80 lives by ``shoveling snow and mowing grass'' | Life | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/957588?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-24T20:30:00+00:00",
-   "title_original": "返済期間｢35年超｣が4人に1人に…80歳まで終わらない住宅ローンを抱えた44歳が\"雪かきと草刈り\"で生きる理由 | ライフ | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "105f7da8f6949cf7"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Yamaha Motor, the core of its earning power...A \"counterattack scenario\" drawn by Indian motorcycles that are doing well and Marine, which has been hit directly by US tariffs | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/958764?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-24T20:30:00+00:00",
-   "title_original": "〈明暗分かれる陸と海〉ヤマハ発動機､稼ぐ力の中核…絶好調のインド2輪と米関税直撃のマリンが描く｢逆襲シナリオ｣ | ビジネス | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8be5613d4135df2d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank makes big moves before the holiday! The upper limit of overnight reverse repurchase soared to 1 trillion, and MLF made a net investment of 200 billion. What signal?",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSS16OVFKMUlQNXpPd3JGMTB4dnJLNFdKX1NIVUpRQnQwel9hNVNhY0Z0N1VYNFhHeE9JNTRzeDBFNzlBN3g2RzFUUFhFSTJ0cDF3YURpVkZaOE5LYzVYcERLeDB1T3hOUHpMODdMSXF6WWFzWGxTUG5Qc21mdlZnNlFkZUxZd3p3MWZjR2FoazZBTUhXY3hCcTJTcHdWaXltY1RKU2dMZUc5RXZXUDB4NGdDRW50bU5pcHozeDRRQUM?oc=5",
-   "published_utc": "2026-09-24T19:43:08+00:00",
-   "title_original": "央行节前放大招！隔夜逆回购上限飙至1万亿，MLF净投放2000亿，什么信号？",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "588891e9892ad540"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan struggles to find way to fund Takaichi budget with no new deficit bonds",
-   "url": "https://asia.nikkei.com/business/markets/bonds/japan-struggles-to-find-way-to-fund-takaichi-budget-with-no-new-deficit-bonds",
-   "published_utc": "2026-09-24T19:20:11.260702+00:00",
-   "title_original": "Japan struggles to find way to fund Takaichi budget with no new deficit bonds",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bbe0c260cc0e791f"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "PBOC Cautions Against ‘Herd Effect’ as Yuan Extends Rally",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHJXZXdiUzJDWGFfTk04QzhINEN4bXMtdTFYdllWa1ZsUGlJSFVfV3F3SjNVYmpxN0pPa2daVy1VMzNnb29TbFhKaFk5X0pocUxkZWNsX3EwUUZCM21hNTBWWmZnRXlNV3d2azFIUm1NUm1nLXp0TG1ULXpuYVJoSkQzcHE4YXMxTWVGMG9fbk0tU1Q2UnN6U3FYRkZGX3BJSVlVbllZWXl4WXJZUTJJ?oc=5",
-   "published_utc": "2026-09-24T18:27:00+00:00",
-   "title_original": "PBOC Cautions Against ‘Herd Effect’ as Yuan Extends Rally",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4ede537e56d7b344"
   },
   {
    "source_id": "manual_ia",

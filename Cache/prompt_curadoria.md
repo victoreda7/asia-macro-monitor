@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T00:42:42.560106+00:00
+Última coleta: 2026-10-22T00:52:45.592273+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1023
-  🇨🇳 China          865
+  🇯🇵 Japão          1022
+  🇨🇳 China          863
   🇹🇼 Taiwan         359
-  🇰🇷 Coreia do Sul  753
+  🇰🇷 Coreia do Sul  756
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB Yield Curve Flattens Amid Continued AI-Related Credit Concerns — Market Talk
+  - [korea] [Breaking News] Bank of Korea decides to take a breather and freezes base interest rate... 3.00% per annum
+  - [korea] [Breaking News] Bank of Korea freezes base interest rate... 3.0% per annum
+  - [korea] [Breaking News] Bank of Korea base interest rate frozen at 3.00% per annum
+  - [japan] Japan funding conditions still loose despite interest rate hikes, survey shows
   - [taiwan] Taiwan tech supply chain eyes Texas for first US industrial cluster
   - [japan] Now that we have entered the ``age of interest rates,'' should you really buy or rent a house? Hiroyuki's ``ex
   - [korea] Bank of Korea decides base interest rate today... Weight on ‘Maintain’
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] Hyundai Mobis Accelerates Full-Cycle Collaboration as a "K-Automotive Semiconductor Korea One Team"
   - [china] China uses crude stockpiles, but rising oil imports may curtail draws: Russell
   - [japan] IMF official says currency intervention offers limited benefits By Investing.com
-  - [korea] FTC chief acknowledges role of conglomerates in economic growth
-  - [japan] Haruhiro Takahashi appointed as new branch manager of Bank of Japan Matsuyama Branch [Ehime] (eat Ehime Asahi 
-  - [japan] Bank of Japan decides to reach 2% price increase rate, shifts from deflationary measures, leaves policy intere
-  - [japan] Bank of Japan decides to reach 2% price increase rate, shifts from deflationary response, leaves policy intere
-  - [japan] Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T00:42:42+00:00",
+      "published_utc": "2026-10-22T00:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
