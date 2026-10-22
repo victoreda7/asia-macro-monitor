@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T12:12:53.286784+00:00
+Última coleta: 2026-10-22T12:22:43.596702+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          967
-  🇨🇳 China          853
+  🇨🇳 China          852
   🇹🇼 Taiwan         358
-  🇰🇷 Coreia do Sul  822
+  🇰🇷 Coreia do Sul  823
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman
   - [korea] Samsung Bioepis Releases Fourth Quarter 2026 Biosimilar Market Report Highlighting Importance of Supply Contin
   - [japan] Japan's strong-armed $21 bln chip bet is low risk
   - [japan] Yen set for biggest rally in a month; risk-averse investors shun dollar
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Rises Against Majors
   - [korea] Samsung Electro-Mechanics receives investment of US$2.8 billion for the production of chips from Tesla and Nvi
   - [japan] Developments in Real Exports and Real Imports
-  - [japan] In absence of sovereign buyers, Indian chip firms find clients in Japan, EU
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T12:12:53+00:00",
+      "published_utc": "2026-10-22T12:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
