@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T03:02:42.789707+00:00",
- "collected_at_utc": "2026-10-22T03:02:42.789707+00:00",
+ "generated_at_utc": "2026-10-22T03:12:44.472464+00:00",
+ "collected_at_utc": "2026-10-22T03:12:44.472464+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 976,
+  "japan": 974,
   "china": 858,
   "taiwan": 357,
-  "korea": 809
+  "korea": 811
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 32.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T01:00:00+00:00"
+   "newest": "2026-10-21T12:58:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T02:42:34+00:00"
+   "newest": "2026-10-22T03:00:29+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T02:30:44+00:00"
+   "newest": "2026-10-22T02:48:20+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T11:51:21+09:00"
+   "newest": "2026-10-22T12:02:50+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T01:36:07+00:00"
+   "newest": "2026-10-22T03:01:14+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T03:01:19+00:00"
+   "newest": "2026-10-22T03:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T02:30:46+00:00"
+   "newest": "2026-10-22T03:02:53+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-22T02:33:05+00:00"
+   "newest": "2026-10-22T03:09:01+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-22T11:30:00+09:00"
+   "newest": "2026-10-22T12:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,61 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOK Gov: Stronger Won Helps Curb Import Prices, Boost Household Purchasing Power",
+   "url": "https://www.tradingview.com/news/DJN_DN20261021012418_20261021012476:0-bok-gov-stronger-won-helps-curb-import-prices-boost-household-purchasing-power/",
+   "published_utc": "2026-10-22T03:09:00+00:00",
+   "title_original": "BOK Gov: Stronger Won Helps Curb Import Prices, Boost Household Purchasing Power",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fx",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "aff88367444e0065"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOK Gov: Core Inflation Could Near 2% Target in 2028",
+   "url": "https://www.tradingview.com/news/DJN_DN20261021012418_20261021012477:0-bok-gov-core-inflation-could-near-2-target-in-2028/",
+   "published_utc": "2026-10-22T03:09:00+00:00",
+   "title_original": "BOK Gov: Core Inflation Could Near 2% Target in 2028",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "db3eb660c9f926d6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观点网",
+   "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "published_utc": "2026-10-22T03:01:14+00:00",
+   "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6181c2f60b87f6c6"
+  },
   {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
@@ -590,7 +645,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴시스",
    "title_en": "[Full text] Bank of Korea Monetary Policy Committee October monetary policy direction",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lblI1SU9jQkNEZzVWQ1gxNXlFUWZyc1VabmtsRnJfUkZmc2V3Y1lmczlPbHNfU09zd1dnX0hvWEIzaE1UOU5WM2RFMktMRzROUTltb3g3T0xleW1GQ240X9IBeEFVX3lxTE5pNzFCV2prczUxUlk1b1h5TVVpMzRXWTBTdV9rTEFSYUJwUTVZQ0N5ckxJODRBUEd2Z0h4eVNaREE0UEEzSUtFdXlDdFM3MHp3SXdOZnAycXd2T2xvdEV5b2ROcTFMRnJIN0hiYm9Uc1pka1NERm13Sw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lblI1SU9jQkNEZzVWQ1gxNXlFUWZyc1VabmtsRnJfUkZmc2V3Y1lmczlPbHNfU09zd1dnX0hvWEIzaE1UOU5WM2RFMktMRzROUTltb3g3T0xleW1GQ240Xw?oc=5",
    "published_utc": "2026-10-22T02:09:09+00:00",
    "title_original": "[전문]한국은행 금융통화위원회 10월 통화정책방향",
    "region": "korea",
@@ -602,7 +657,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e70fbc5e8de0f1e3"
+   "id": "6febbf7bf48a9f38"
   },
   {
    "source_id": "gn_kr_bok",
@@ -9266,23 +9321,6 @@
    "id": "1fa3cbe4c58142f8"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "YTN",
-   "title_en": "Bank of Korea decides base interest rate this week...market expected to freeze",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FYUpMVGRZWThuTFNlR2ZnR0loRFRMUTNWbmF2OFFFbHZvQVpRbC1kSzZxdVc0YUhNc292SG9qQ2pYNHBOdDlpWk5PTGkzUU9KQ3g4T2xlUWExWnNPLUE?oc=5",
-   "published_utc": "2026-10-18T13:10:00+00:00",
-   "title_original": "한은, 이번 주 기준금리 결정...시장은 동결 전망",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0630db66fbbc193c"
-  },
-  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "BOK to pause before November hike; rates to peak at 3.50%: survey",
@@ -9437,6 +9475,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fe00a26371f94934"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "YTN",
+   "title_en": "Bank of Korea decides base interest rate this week...market expected to freeze",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xaWZsMHFMa1ozMy1oelFFZDhDV3FjZzRYTnJUak0zMmduOHg1Uk96MDNVbmR2SUVfNTBtdmwxNW1TcTJNRVdKZzljdGNWTVFoUkxWMG9hTnA2bWpGMWxZV1Z3SXNkVWhzR2dORkVLUkZNMk1pZGc?oc=5",
+   "published_utc": "2026-10-18T09:17:00+00:00",
+   "title_original": "한은, 이번 주 기준금리 결정...시장은 동결 전망",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e2d338b61587629e"
   },
   {
    "source_id": "tradingview_live",
@@ -10044,7 +10099,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "The base interest rate has been raised repeatedly... A decision by the Monetary Policy Committee is expected this week.",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iaVl4SmYwUmtwQnVPRXFfR3lnaGl2UjZaSG1XX2tKamdkN0tmZGNGamdkTkVkMHoyZjdqeUNoWXlRYjVFcHpYZWp2c0FPZV9ZRndpQWlqYTRQTVFjWXZTbTA4X1RJR3Vhd25qVDdRUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PU2FIcjhlR2cxeWkweTY1aE1BRUs4ZGhyV3VsMkdVRy1pWkZHQ3oxeUxIUVVKODcxQ3VKM1ZsMkJlb3hXanpfaTNwazRlbnc2QVl4cHRxVF96OUowS3c?oc=5",
    "published_utc": "2026-10-18T02:11:00+00:00",
    "title_original": "연거푸 인상한 기준금리...이번 주 금통위 결정 촉각",
    "region": "korea",
@@ -10056,7 +10111,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e9a548bf6bd60c0e"
+   "id": "a4f6fc73f61ae158"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51882,58 +51937,6 @@
    "live_wire": true,
    "manual": false,
    "id": "76a152eef7d0ebaf"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Finance Minister Katayama speaks by phone with Secretary Bessent and confirms strengthening of Japan-U.S. cooperation",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52509",
-   "published_utc": "2026-09-25T14:51:00+00:00",
-   "title_original": "片山財務相がベッセント長官と電話会談 日米協力強化を確認",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d947bafecb95c188"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Details on US, China trade talks to come on Monday, says Greer",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcHJmSWhBWkgzQk9MZUMzQmhOZ0pRWVdzb1dtU2ZsTVVlTVlWelh0R2ZQcFZfN0NTXzE4WTEtSTZxdU1tbzlodi12RWVrSENGTDlMYTRkS0JnT0g2WktvTXZETmk5Um9mSnVPUTBfNXN4Q0JNaGs2Y29GT2xXZkxHOGhxZWNCQWY3bEd5Zy14RmNlSlFDZHBXampMcXhvWHJW?oc=5",
-   "published_utc": "2026-09-25T13:46:19+00:00",
-   "title_original": "Details on US, China trade talks to come on Monday, says Greer",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a214050b23d595c3"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "The US-China summit attracted the attention of the world. What is its impact on Japan and the world?",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52482",
-   "published_utc": "2026-09-25T13:18:55+00:00",
-   "title_original": "世界が注目した米中首脳会談 日本や世界への影響は",
-   "region": "japan",
-   "topics": [
-    "trade",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6d1d587ed27b4142"
   },
   {
    "source_id": "manual_ia",

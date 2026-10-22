@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T03:02:42.789707+00:00
+Última coleta: 2026-10-22T03:12:44.472464+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          976
+  🇯🇵 Japão          974
   🇨🇳 China          858
   🇹🇼 Taiwan         357
-  🇰🇷 Coreia do Sul  809
+  🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK Gov: Stronger Won Helps Curb Import Prices, Boost Household Purchasing Power
+  - [korea] BOK Gov: Core Inflation Could Near 2% Target in 2028
+  - [china] The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 bi
   - [korea] (URGENT) Investment-focused fiscal spending compatible with monetary tightening: BOK Gov. Shin
   - [korea] BOK Gov: Preemptive Move in August Gives Policymakers More Room to Maneuver
   - [korea] BOK Gov: Timing of Further Rate Increases Will Depend on Assessment of Incoming Data
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan MOF To Auction Y2.8T Of 2-Year Govt Bonds Oct 29
   - [korea] The Bank of Korea freezes the base interest rate at 3% per annum... ‘Taking a breather’ after two consecutive 
   - [korea] Bank of Korea holds rates at 3% after back-to-back hikes
-  - [china] The central bank launched a 173 billion yuan overnight reverse repurchase operation on October 22
-  - [korea] (LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes
-  - [korea] Bank of Korea freezes base interest rate at 3.00% per annum... Take a breath after two consecutive raises
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T03:02:43+00:00",
+      "published_utc": "2026-10-22T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
