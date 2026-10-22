@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T23:22:44.753551+00:00
+Última coleta: 2026-10-22T23:32:43.159733+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          965
+  🇯🇵 Japão          964
   🇨🇳 China          855
   🇹🇼 Taiwan         369
-  🇰🇷 Coreia do Sul  811
+  🇰🇷 Coreia do Sul  812
 
 ## O que já está no feed (não repita)
 
   - [korea] SK Hynix Shelves Plans for U.S. Listing of Memory-Chip Unit Solidigm
+  - [korea] SK Hynix says Solidigm drops plan for US IPO amid market volatility
   - [japan] Japan Inflation Data Due On Friday
   - [korea] SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility
   - [korea] SK Hynix drops US IPO plan for Solidigm, newspaper reports
@@ -29,6 +30,7 @@ Total: 3000 manchetes
   - [japan] Dollar slips while yen jumps to five-week high as traders flock to safe havens
   - [china] EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia
   - [japan] Unexpected combination and convincing reason (2026 Nobel Prize in Economics): Hall, Woodford contributed to ef
+  - [japan] Yen Jumps as Traders Seek Safety Amid Global Risk Averse Pivot
   - [korea] BOK Financial Price Target Cut to $140.00/Share From $146.00 by Citigroup
   - [taiwan] TSMC Looks Beyond China for Critical Chip Equipment Materials
   - [china] US blocks two devices with Chinese-made surveillance chips
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen surges to 3-week high as dollar wobbles ahead of c.bank meetings
   - [china] Shanghai Bright Power Semiconductor Q3 Net Profit Up 2077.1% Y/Y
   - [taiwan] Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group
-  - [china] Chow Tai Fook Jewellery Logs Q2 Chinese Mainland Retail Sales Value Down 5.3%
-  - [korea] Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T23:22:44+00:00",
+      "published_utc": "2026-10-22T23:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
