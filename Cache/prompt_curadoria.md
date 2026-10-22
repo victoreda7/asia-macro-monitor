@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T12:42:43.665903+00:00
+Última coleta: 2026-10-22T12:44:08.018229+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          967
-  🇨🇳 China          852
-  🇹🇼 Taiwan         358
-  🇰🇷 Coreia do Sul  823
+  🇯🇵 Japão          972
+  🇨🇳 China          851
+  🇹🇼 Taiwan         364
+  🇰🇷 Coreia do Sul  813
 
 ## O que já está no feed (não repita)
 
@@ -21,22 +21,20 @@ Total: 3000 manchetes
   - [korea] Samsung Bioepis Releases Fourth Quarter 2026 Biosimilar Market Report Highlighting Importance of Supply Contin
   - [japan] Japan's strong-armed $21 bln chip bet is low risk
   - [japan] Yen set for biggest rally in a month; risk-averse investors shun dollar
+  - [taiwan] 343 new entities were added to the export control list of strategic high-tech goods | Sankei
   - [china] Shenzhen’s Existing-Home Prices Fall in October
   - [taiwan] Micron Taoyuan union reps begin symbolic 'strike' after Taichung deal
   - [japan] Yen Rises Amid Risk-off Mood
   - [korea] Bank of Korea Expected to Gradually Hike Twice More in Cycle — Market Talk
   - [china] Shanghai Bright Power Semiconductor Q3 Net Profit Up 2077.1% Y/Y
-  - [korea] Merck opens Korean chip materials plant to meet advanced memory demand
   - [taiwan] Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group
   - [china] Chow Tai Fook Jewellery Logs Q2 Chinese Mainland Retail Sales Value Down 5.3%
-  - [korea] BOK pauses rate hikes as inflation, debt concerns linger
-  - [korea] Vice budget minister calls Future Fund 'fiscal innovation' for future growth
-  - [korea] BOK holds key rate steady at 3% after 2 consecutive rate hikes
   - [korea] Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26
   - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [korea] Even with earnings this strong, Samsung at ₩70,000 and SK hynix at ₩200,000?... We recalculated the KOSPI’s fa
   - [taiwan] Taiwan's first-ever chip workers strike hits Micron plant
   - [japan] Lower House committee to debate consumption tax cut
+  - [taiwan] The Trade Department updated the management list of entities exporting strategic high-tech goods, adding 343 n
   - [china] China blue-chip index confirms bear market as AI stocks slump
   - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
   - [korea] Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won i
@@ -57,6 +55,8 @@ Total: 3000 manchetes
   - [japan] Yen Rises Against Majors
   - [korea] Samsung Electro-Mechanics receives investment of US$2.8 billion for the production of chips from Tesla and Nvi
   - [japan] Developments in Real Exports and Real Imports
+  - [japan] In absence of sovereign buyers, Indian chip firms find clients in Japan, EU
+  - [japan] Japan's Nikkei slides as AI capex caution weighs on chip shares
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T12:42:43+00:00",
+      "published_utc": "2026-10-22T12:44:08+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
