@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T02:32:45.324517+00:00
+Última coleta: 2026-10-22T02:42:43.278097+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          984
+  🇯🇵 Japão          983
   🇨🇳 China          858
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  802
+  🇰🇷 Coreia do Sul  803
 
 ## O que já está no feed (não repita)
 
+  - [korea] (URGENT) Strengthening won likely helps boost consumption in S. Korea: BOK Gov. Shin
   - [korea] Bank of Korea base interest rate frozen at 3.00% per annum... Speed ​​adjustment after 2 consecutive raises
   - [japan] Japan's Nikkei slips as chip stocks come under pressure due to wariness over AI investment
   - [japan] Japan's Nikkei slips as chip shares pressured by AI capex caution
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK pauses rate hikes as inflation, debt concerns linger
   - [korea] BOK holds key rate steady at 3 pct
   - [korea] Bank of Korea Holds Rate Steady After Back-to-Back Hikes
-  - [korea] The Bank of Korea freezes the base interest rate by 3%... Avoid three consecutive raises
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T02:32:45+00:00",
+      "published_utc": "2026-10-22T02:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
