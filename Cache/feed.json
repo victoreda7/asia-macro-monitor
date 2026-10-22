@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T00:32:42.579828+00:00",
- "collected_at_utc": "2026-10-22T00:32:42.579828+00:00",
+ "generated_at_utc": "2026-10-22T00:42:42.560106+00:00",
+ "collected_at_utc": "2026-10-22T00:42:42.560106+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1024,
-  "china": 866,
-  "taiwan": 357,
+  "japan": 1023,
+  "china": 865,
+  "taiwan": 359,
   "korea": 753
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-21T16:09:17+00:00"
+   "newest": "2026-10-22T09:33:18+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-21T08:16:00+00:00"
+   "newest": "2026-10-21T05:02:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T00:30:00+00:00"
+   "newest": "2026-10-22T00:41:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T18:50:41+00:00"
+   "newest": "2026-10-21T21:55:10+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T22:01:00+00:00"
+   "newest": "2026-10-21T21:59:09+00:00"
   }
  ],
  "items": [
@@ -1757,23 +1757,6 @@
    "id": "e5cc372c63162978"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHNraGVxZVpzdVZzUjFvQlpfcXJRU2ZYdlJxdU5KY1k5ZVJCTGQtallhSmVkbjZFbDdmVE5NRTN1ODRMd3ltTUpkQWNTdy13NmQxZkhNZDVyOXFUU1o3OXlhQ3Nrc2RSRE05TmJQTkVTNnlseXdtd1NOMVdLdEo1cVU4OWlxMmk3S0Zvdg?oc=5",
-   "published_utc": "2026-10-21T06:08:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e277f33f899b7cc"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Nomura, JPMorgan bullish on Korean chips despite Kospi swings",
@@ -1859,6 +1842,23 @@
    "live_wire": false,
    "manual": false,
    "id": "4932d8c9ad5c811e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
+   "published_utc": "2026-10-21T05:02:00+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7b59d3d09f8c8605"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -2243,6 +2243,24 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
+   "published_utc": "2026-10-21T01:56:00+00:00",
+   "title_original": "央行开展800亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9f93275ff9d2dcbf"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "中国新闻网",
    "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 21 was zero",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xOGxCNE1ka3lhbVVOZlRoZ2ZhUVpSVlpBTWMwRnc1LWdjaG02WG1QVHFuNUo3djhNT005bFRhNnBJZEJlMUJCOXp4T3pLYnJlVzRudnVtV2FpMmNYOFRGblhsc3ZOWlI1?oc=5",
@@ -2274,24 +2292,6 @@
    "live_wire": false,
    "manual": false,
    "id": "36457313463330e2"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "资鲸",
-   "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkVCVDByQ1F5dzluUG5NcW1jUlBlRUl4MFlrSnhXbXo0VDJUaHI4MF94Z3VtVjh1MkZQZUJuZ0dCWTdVd0twdkx4Y0l5XzlJdVFLVnRMTXM4UTB1ODJXOVBIblpKYnIzSWE5cGlKbExoQ0ZxY3lHNXJSdmlITHVKNGUwbEV3WmRydXFtTkpWN3RjQQ?oc=5",
-   "published_utc": "2026-10-21T01:35:08+00:00",
-   "title_original": "央行开展800亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0882e83320a9bcab"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4520,10 +4520,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "观察者网",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9Rc1BnRlhGM1d4c092aXBsdWVCUXE1NWpsTTZMSVA5X3E2MW0tOUt4dFdGY2o2OVNJNEZhTkdYMlN0Mi1EazBaUGxrTnhZUTI3dklRNjd6a0ZybFpLRElwVC01YWJCZ3JqYm9nVDVad1BFb1pkTUVVUkhnb0p6ejBURktuX1pu?oc=5",
-   "published_utc": "2026-10-20T05:07:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
+   "published_utc": "2026-10-20T05:07:00+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -4533,7 +4533,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8b5a5b685c5ae149"
+   "id": "50e1092b7ea2ed64"
   },
   {
    "source_id": "gn_jp_investing",
@@ -4571,10 +4571,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "京报网",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
-   "published_utc": "2026-10-20T04:46:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
+   "published_utc": "2026-10-20T04:37:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -4585,7 +4585,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b8b7943e562e9e1"
+   "id": "113a63c4f4301728"
   },
   {
    "source_id": "gn_kr_bok",
@@ -4889,9 +4889,9 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNXY4d0E5eEF5aUw0UlpGTGhjRnJzUENrZ010cUVzMVRZVmVnSDJOSW9yNEswWm9jdEN0UnhRNFNzMmV4VVp5ZktLWlJFRVpXWThpNTJSSEJ5Wm5adEpwSFpxMWhhZXp4ME45SHBtOEVRZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UOEd5TVhYdldxVjFRUFJkWVJDaXJaNmItUVh3UkVCRDRSdzBTYWEwQUVsQ3gzRThSbU1yLXkzZDBHVnluYi1aSXl3M2trV1JyS1lGdFFQcHU2SHZmeFR2SXhQZFc3amloMEpwSGdBczJ5ZloxMUE?oc=5",
    "published_utc": "2026-10-20T02:00:00+00:00",
-   "title_original": "2026年前三季度广东居民消费价格 同比上涨0.9%",
+   "title_original": "2026年前三季度广东居民消费价格同比上涨0.9%",
    "region": "china",
    "topics": [
     "inflation"
@@ -4900,7 +4900,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0bee112acf295ae1"
+   "id": "83d5a510f10ebe66"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -11892,6 +11892,23 @@
    "id": "09d67c7edcf8d3ad"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Analysis: TSMC's chipmaking edge strengthens C.C. Wei's hand — from advanced-node capacity to Musk's Terafab",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYS1SR1drOHZQZmlqNTRkdmJVUXZQNDJWZFVRMmdUeXBmTVlXZktJc2t3WW1ySl9JVXJQak52MEhKWWgtRk1uX1FhOGhfcWthR0d2aWlISUhHY2t4MUdkZXFXTGhEdHY5UXA4aUFKRHJBSDZLajA5Z1pwQnZERUUzM0pjRU5Mb1ZlR0pxM3hHU3pvc3ZYRUJFRGVvbVBSYTQ?oc=5",
+   "published_utc": "2026-10-16T01:36:20+00:00",
+   "title_original": "Analysis: TSMC's chipmaking edge strengthens C.C. Wei's hand — from advanced-node capacity to Musk's Terafab",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7fcd212afecef29a"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "21财经",
    "title_en": "The central bank launched a 60 billion yuan 7-day reverse repurchase operation today",
@@ -15552,6 +15569,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5fb6a31fdd8d28b7"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Applied Materials targets AI-driven semiconductor equipment growth through 2030",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnJnbWRJVXZVdWppSzFfYVNGSElDWERLZVVLVXVDd2xHNGRCYk9yXzJJV1VtMndwdmZsVXJ5NUd5eTFyMTdSX240X1RCZm5hcGNmWjJLeXZBX19VaXgyVFJHcXFnVC11c2F5N3ViX1NKcFY0aTBObkJQMEllTEJpYzVMRjljQWdPWHJPT1cyXzhsdFNodERHTDJHY3RiY0UwdlltTFlhNA?oc=5",
+   "published_utc": "2026-10-15T00:13:28+00:00",
+   "title_original": "Applied Materials targets AI-driven semiconductor equipment growth through 2030",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "acdf63eb116952b3"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51903,41 +51937,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4ede537e56d7b344"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launched an 800 billion yuan MLF operation. Dividend low-volatility ETF Huatai-Berry (512890) bucked the trend and rose in half-day turnover of 267 million yuan, leading its peers.",
-   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxORzg5OURPOVhjME5mSmxydjZGcWZFREtqem5sa3paY1g4a19JMmFabGQ5TUV0TVFSRkdKUzE1NTdaS1cwcDM3YlVGN3RZRzJOZlZRX2VZUnpXUFAwYk1sV3ZxRHZDOWstSnZ6a0cxT25Cb3licE9BMEJWaGNWMFRRc3JWVnVCbjdYY09sOGM1cjBzQmdwQkxFcUdjM2FkSmFjZ29COUQyRzl0clYwUnBZWVVjVERud3Q5U3FWLUNZYUdlck1kRy1qdV9vc2tIYU8wS2Z3eXFhRzI1cUU4Y1c1bC00TE1LVjVuLXZDTmNCb1FmTW40VFNhVzRCZ1hoeXZTakoyN2tlSFVOeGlUOVM1SlJSakZDZnpDNXptbG5JU1pFQmJ2VnhrQTctdXBMNVpI?oc=5",
-   "published_utc": "2026-09-24T17:16:46+00:00",
-   "title_original": "央行开展8000亿元MLF操作 红利低波ETF华泰柏瑞（512890）逆势上涨半日成交2.67亿领跑同类",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8a5640e8180b04ab"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Honda plans to invest $2.5 billion to build a hybrid vehicle factory in Ohio, according to Nikkei",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45G0SX:0/",
-   "published_utc": "2026-09-24T16:26:32+00:00",
-   "title_original": "Honda planeja investir US$ 2,5 bilhões para construir uma fábrica de veículos híbridos em Ohio, segundo o Nikkei",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "5c391fd5a847e871"
   },
   {
    "source_id": "manual_ia",
