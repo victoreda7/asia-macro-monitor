@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T10:12:43.125945+00:00
+Última coleta: 2026-10-22T10:22:44.947619+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          969
-  🇨🇳 China          851
+  🇯🇵 Japão          967
+  🇨🇳 China          852
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  824
+  🇰🇷 Coreia do Sul  825
 
 ## O que já está no feed (não repita)
 
+  - [korea] Merck opens Korean chip materials plant to meet advanced memory demand
+  - [china] Chow Tai Fook Jewellery Logs Q2 Chinese Mainland Retail Sales Value Down 5.3%
   - [korea] BOK pauses rate hikes as inflation, debt concerns linger
   - [korea] Vice budget minister calls Future Fund 'fiscal innovation' for future growth
   - [korea] BOK holds key rate steady at 3% after 2 consecutive rate hikes
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Strong chip exports expected to spill over into private consumption from next year: BOK report
   - [japan] Singapore Dollar Gains on Yen as Carry Funder, Analysts Say
   - [china] COMMENTARY: China uses crude stockpiles, but rising oil imports may curtail draws
-  - [korea] K-beauty stocks stumble as strong won squeezes profits
-  - [korea] K-beauty firms to seek export deals at Cheongju expo
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T10:12:43+00:00",
+      "published_utc": "2026-10-22T10:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
