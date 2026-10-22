@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T12:44:08.018229+00:00
+Última coleta: 2026-10-22T12:52:47.810853+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          972
-  🇨🇳 China          851
+  🇯🇵 Japão          973
+  🇨🇳 China          850
   🇹🇼 Taiwan         364
   🇰🇷 Coreia do Sul  813
 
@@ -33,6 +33,7 @@ Total: 3000 manchetes
   - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
   - [korea] Even with earnings this strong, Samsung at ₩70,000 and SK hynix at ₩200,000?... We recalculated the KOSPI’s fa
   - [taiwan] Taiwan's first-ever chip workers strike hits Micron plant
+  - [japan] Lower House committee to debate consumption tax cut | NHK WORLD-JAPAN News
   - [japan] Lower House committee to debate consumption tax cut
   - [taiwan] The Trade Department updated the management list of entities exporting strategic high-tech goods, adding 343 n
   - [china] China blue-chip index confirms bear market as AI stocks slump
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electro-Mechanics receives investment of US$2.8 billion for the production of chips from Tesla and Nvi
   - [japan] Developments in Real Exports and Real Imports
   - [japan] In absence of sovereign buyers, Indian chip firms find clients in Japan, EU
-  - [japan] Japan's Nikkei slides as AI capex caution weighs on chip shares
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T12:44:08+00:00",
+      "published_utc": "2026-10-22T12:52:48+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
