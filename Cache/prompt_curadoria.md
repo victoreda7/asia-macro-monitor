@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T01:22:46.126221+00:00
+Última coleta: 2026-10-22T01:32:44.416837+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          1005
+  🇯🇵 Japão          1000
   🇨🇳 China          853
-  🇹🇼 Taiwan         358
-  🇰🇷 Coreia do Sul  784
+  🇹🇼 Taiwan         357
+  🇰🇷 Coreia do Sul  790
 
 ## O que já está no feed (não repita)
 
+  - [korea] Merck opens Korean chip materials plant to meet advanced memory demand
+  - [taiwan] Taiwan's first-ever chip workers strike begins at Micron plant
+  - [japan] Japan MOF To Auction Y2.8T Of 2-Year Govt Bonds Oct 29
+  - [korea] Bank of Korea freezes base interest rate at 3.00% per annum... Take a breath after two consecutive raises
+  - [japan] Singapore Dollar Gains Appeal as Carry-Trade Funding Currency Relative to Yen
   - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 29
   - [korea] Bank of Korea holds rates after back-to-back hikes
   - [korea] Vice budget minister calls Future Fund 'fiscal innovation' for future growth
@@ -30,14 +35,17 @@ Total: 3000 manchetes
   - [korea] BOK stands pat in October following back-to-back policy rate hikes
   - [korea] The Bank of Korea freezes the base interest rate at 3.00% per annum... Take a breath after two impressions
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum... ‘Taking a breath’ personality (step 1)
+  - [korea] The Bank of Korea paused its interest rate hike... Base interest rate frozen at 3%
   - [korea] [Breaking News] Bank of Korea freezes base interest rate... Maintain 3% per year
   - [korea] Bank of Korea holds rates as expected after back-to-back hikes
   - [japan] Bank of Japan Accounts (October 20)
   - [korea] Bank of Korea Holds Rates as Expected
+  - [korea] Bank of Korea freezes base interest rate at 3.00%... Additional increase possible next month
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum, paying attention to whether further increase in N
   - [japan] Cuts announced to Japan's eco-friendly car subsidies
   - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.00%
   - [korea] Bank of Korea freezes base interest rate at 3.00%... ‘Speed ​​adjustment’ after continuous impression
+  - [korea] Bank of Korea Monetary Policy Committee freezes base interest rate at 3.00%
   - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.0%... Taking a breath after two impressions
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum (Breaking News)
   - [japan] Japan funding conditions still loose despite interest rate hikes, survey shows
@@ -49,14 +57,6 @@ Total: 3000 manchetes
   - [korea] [Breaking News] Bank of Korea decides to take a breather and freezes base interest rate... 3.00% per annum
   - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.0% per annum - Money Today
   - [korea] [Breaking News] Bank of Korea freezes base interest rate... 3.0% per annum
-  - [korea] [Breaking News] Bank of Korea base interest rate frozen at 3.00% per annum
-  - [korea] [Breaking News] Bank of Korea base interest rate maintained at 3.00% per annum... Take a breath after two impr
-  - [korea] [Breaking News] Bank of Korea freezes base interest rate at 3.0% per annum... ‘taking a breather’ after two hi
-  - [korea] [Breaking News] Bank of Korea maintains base interest rate at 3% - Chosun Biz
-  - [taiwan] Taiwan tech supply chain eyes Texas for first US industrial cluster
-  - [japan] Now that we have entered the ``age of interest rates,'' should you really buy or rent a house? Hiroyuki's ``ex
-  - [korea] Bank of Korea decides base interest rate today... Weight on ‘Maintain’
-  - [korea] The Bank of Korea is likely to freeze its base interest rate... Pay attention to the possibility of additional
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T01:22:46+00:00",
+      "published_utc": "2026-10-22T01:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

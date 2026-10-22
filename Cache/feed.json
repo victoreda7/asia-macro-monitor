@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T01:22:46.126221+00:00",
- "collected_at_utc": "2026-10-22T01:22:46.126221+00:00",
+ "generated_at_utc": "2026-10-22T01:32:44.416837+00:00",
+ "collected_at_utc": "2026-10-22T01:32:44.416837+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 1005,
+  "japan": 1000,
   "china": 853,
-  "taiwan": 358,
-  "korea": 784
+  "taiwan": 357,
+  "korea": 790
  },
- "elapsed_s": 31.7,
+ "elapsed_s": 31.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T00:15:00+00:00"
+   "newest": "2026-10-21T23:00:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-22T10:07:42+00:00"
+   "newest": "2026-10-22T10:27:43+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T01:21:59+00:00"
+   "newest": "2026-10-22T01:32:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T00:52:13+00:00"
+   "newest": "2026-10-22T01:20:10+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,95 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T01:06:00+00:00"
+   "newest": "2026-10-22T01:20:17+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Merck opens Korean chip materials plant to meet advanced memory demand",
+   "url": "https://www.koreaherald.com/article/10911036",
+   "published_utc": "2026-10-22T01:32:42.098119+00:00",
+   "title_original": "Merck opens Korean chip materials plant to meet advanced memory demand",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7cde3c579a7730f8"
+  },
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Taiwan's first-ever chip workers strike begins at Micron plant",
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-begins-at-micron-plant",
+   "published_utc": "2026-10-22T01:32:42.098119+00:00",
+   "title_original": "Taiwan's first-ever chip workers strike begins at Micron plant",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "108f1699760a0cf2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan MOF To Auction Y2.8T Of 2-Year Govt Bonds Oct 29",
+   "url": "https://www.tradingview.com/news/DJN_DN20261021012274:0-japan-mof-to-auction-y2-8t-of-2-year-govt-bonds-oct-29/",
+   "published_utc": "2026-10-22T01:30:00+00:00",
+   "title_original": "Japan MOF To Auction Y2.8T Of 2-Year Govt Bonds Oct 29",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "57aab3e887eaa398"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "비욘드포스트",
+   "title_en": "Bank of Korea freezes base interest rate at 3.00% per annum... Take a breath after two consecutive raises",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4RFFQdTR2NVNqbGdYYTcwQjRUdjN0cE9YZHB4eXpBQ2VEUkQzRDYxTlNJeElCV3NzbUdGSDdRbkpZdmZrZTdGNk1VZnllZVRJLTN2NFFtN3hFTU9OM2R2WVBTTm9xZ29ONDg1YjN1MXhSY0JKZjJLcGRtMA?oc=5",
+   "published_utc": "2026-10-22T01:20:17+00:00",
+   "title_original": "한국은행, 기준금리 연 3.00% 동결…두 번 연속 인상 후 숨 고르기",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "db6ee1cad1e3c648"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "Singapore Dollar Gains Appeal as Carry-Trade Funding Currency Relative to Yen",
+   "url": "https://www.tradingview.com/news/binance_news:027f6aab5094b:0-singapore-dollar-gains-appeal-as-carry-trade-funding-currency-relative-to-yen/",
+   "published_utc": "2026-10-22T01:20:09+00:00",
+   "title_original": "Singapore Dollar Gains Appeal as Carry-Trade Funding Currency Relative to Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e16609396a895da2"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -567,6 +652,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "The Bank of Korea paused its interest rate hike... Base interest rate frozen at 3%",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uT25MMWhjb0R6NUVHekVYRTJ0bnowSWE0MnZRWGxRTEdZTmtmV3FpZXN5RktKeUxGZVhFUE9kMkswbnFVSnl3RlJid0xrTlNPblE?oc=5",
+   "published_utc": "2026-10-22T01:01:02+00:00",
+   "title_original": "금리 인상 잠시 멈춘 한은…기준금리 3%로 동결",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4e5d5e511fa902b5"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "뉴스퀘스트",
    "title_en": "[Breaking News] Bank of Korea freezes base interest rate... Maintain 3% per year",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tNVZOUEpJUVMzVDZwcnFvemw5cE16YmR2OTNVOVRZRzlBeUs4cGdReDUyNHhDM2tob0lkRWxwMjFLY0xJT0piLU5GUTZoWngwMldGT205RG4xZjB2aUdFWGNYSE5CbGFSYmRGXy1XOA?oc=5",
@@ -635,6 +737,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "한국경제",
+   "title_en": "Bank of Korea freezes base interest rate at 3.00%... Additional increase possible next month",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQVY2T01rMUN2bHZnMTNWU0JleDRSYXhvWVptWndMNU5DcERDR2hXbHlIbnMtd3REU2pIWTYyeXVMbEJiWTdZUDV4M3l4U19jZ2N1aDE3Y096QQ?oc=5",
+   "published_utc": "2026-10-22T00:59:25+00:00",
+   "title_original": "한국은행, 기준금리 3.00% 동결…다음달 추가 인상 가능성",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "abc2e020893167aa"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "스마트비즈",
    "title_en": "Bank of Korea freezes base interest rate at 3.00% per annum, paying attention to whether further increase in November",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CX3Y4S1RTRnBZNWJZb1VhS3l3T01wN0tSMlR3bmF4VjZfZWFFSkpmUklRV2cwVHUyQXFnX1p5VmJWN1FyRlFVMk05Ml9uU0g3V3F1SUFJUXpvWkdKVmNOWWpiYS14MnhReGlhdQ?oc=5",
@@ -700,6 +819,24 @@
    "live_wire": false,
    "manual": false,
    "id": "7b948cdb573658f3"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스핌",
+   "title_en": "Bank of Korea Monetary Policy Committee freezes base interest rate at 3.00%",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zd2NpYkNkODYxMUQtMHVLRVlncjBMQ09OUUNWa1NWTmRBRWozSGFVa0ZBb3laY2poYW5zOEJvQ25rQ3B6UVE3N1BHeUhLMTI4RXYwdndtMXdDVkFf?oc=5",
+   "published_utc": "2026-10-22T00:57:00+00:00",
+   "title_original": "한국은행 금통위, 기준금리 3.00% 동결",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ac3d3d320d29ad47"
   },
   {
    "source_id": "gn_kr_bok",
@@ -921,6 +1058,23 @@
    "live_wire": false,
    "manual": false,
    "id": "cc3e82b542b33dcc"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "Chosunbiz",
+   "title_en": "Bank of Korea maintains base interest rate at 3%... ‘Taking a breather’ after two consecutive increases - Chosun Biz",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGNhbmM2Wm5Ycm5yY25EajBrQzd5VGxySHVLd1p5ZmxIRVlhNHJia212d0VvU1FvQWd4SDkwU09iV1FVamhybjhObFFfcGl6RVFJd3Ewa1E4TWJuYXdSeHRnbS02RTZ2cDJtZ1JLVG83WWpJd0NoWFRvMnlxWGhxSTd3dXROZ9IBmgFBVV95cUxNT090ZjdPOEVleGdqd3dNZnFfT0tBLUxsMHRTQ0VGSk4yMWtmbktIYmh2dmJiRkxBTjZzMkxwd1pWN3NlQkxZWm00V3RWbTd1Q213OEZab0I5UlhHOHBMUTY4X1BWRmpZNm9IT2VjVTVxM0tlM0FhVEliMmN2c3cxUGhneHNwNk1JQkZka2dibU5YdjVWYUUzbm1B?oc=5",
+   "published_utc": "2026-10-22T00:50:00+00:00",
+   "title_original": "한국은행, 기준금리 3%로 유지… 2회 연속 인상 후 ‘숨고르기’ - 조선비즈",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d6d22c47923fea24"
   },
   {
    "source_id": "gn_kr_bok",
@@ -14475,6 +14629,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3cac07352375f867"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Zambia Says Some Copper Sales to China to Be Settled in Yuan",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRm1ZZTZ3emlBa3lSOFNJSE5mYWxvSFFXUlpXZW9pYkItbTEyNXZiRzlkSXo1aU1TY1NBVTRGVnA0b2tJVjVNaDZxelNmdzBlUjFhMy1vbmRlX3UtQXdBOTY4VHVkVlJuandxNTRYRFZfTzFBelQwb2dxV05nT1BkRzB0bFFiTmZ0MUhBaXoxbGJheDA2RnZqa3oxaFJ0bjNJQ29ZQUdEUDloQVhOU19lNUVWVThCQQ?oc=5",
+   "published_utc": "2026-10-15T08:34:08+00:00",
+   "title_original": "Zambia Says Some Copper Sales to China to Be Settled in Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fcb35601bad5a485"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51755,178 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d385339e13d2d994"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "USD/JPY: The Yen Tide Is Turning, but the Beach Is Already Crowded",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORlZJLTZoYnpQWTBSY0lhWllKZTlrcVZsSnJTX2hjTmY3ZkZuZXVVeTZpZXBIcmo3SW5EakUzN0FGMkdMRUtxNE1OWkJlMHJXcmtuc1BncGZOel9LZmU5dzNZTC1mWGE0OG0yd2w4S09pVm1MQzFyRkw1VTQ1UEYtcmVfS3ExTEI1OHNrU1E3NTR5TVNic3FjWTRjODhTZjV0Skt2cXVYTkVjY2FD?oc=5",
-   "published_utc": "2026-09-25T07:00:00+00:00",
-   "title_original": "USD/JPY: The Yen Tide Is Turning, but the Beach Is Already Crowded",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "af07acc443a12171"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar dips as oil eases, yen jumps on Japan remarks By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0JlRDdqbXowSUxjS0xuOEZsY0d6S281MWdzNzhMdWMtTG9PaDd1NXlEaWlpNWtpLVd6NmJEYlhlYmdFXzNHck1tQTMzUl8wZW8yQS1KbnRFWWpqUlB6RWpnUUdQTFRUbEFXenlIZGJMa1pYOWpEVGhZMnRoSUZwbnpxbGg0WEVyUmNvbjBvWXVWbFNzeFVTVGVWYXpwaFU1ZGM1UnNBMDRDR0h4eURFa1JORQ?oc=5",
-   "published_utc": "2026-09-25T07:00:00+00:00",
-   "title_original": "Dollar dips as oil eases, yen jumps on Japan remarks By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3b4c455dbce601f3"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China's first lady Peng Liyuan turns soft power on US audience",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWR5YUI1enNxN01RbG4wZ0lRMFJkNWh1ZGxWa0ZLVDg4SjVzRmdzNU9yeU9nV3FEeDcwSEpQbTEzdWhnc1prcnZZNEE4dGt4Mnp5SGJaMGdOUzhienl0UXF4U0U5VjdhVjZuYWp3LXNtWVpEbzl5clVQUTVhcUVxaW9YM21sTE1OdWFJcVd0S0xaaUJyN21YeFl2dW1uTkRtZmtVa2NGRUxCbzAxaU5EZ1ktd0ZwaTlh?oc=5",
-   "published_utc": "2026-09-25T07:00:00+00:00",
-   "title_original": "China's first lady Peng Liyuan turns soft power on US audience",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9ff8dd43c9a98e5f"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Katayama: Trump voiced concern over weak yen to Takaichi",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83ZUQxWHlueDFtUXFVS1BDcEQ1OFJlSlNMR0tYenhXaWJKQlY4V3RXZTlFT1Rxd1JOMExkd01CLTVXeHVDZ1BuUVhpY3pmaFNIMUdsRGRPaHVMNDVseGk1OHJoTQ?oc=5",
-   "published_utc": "2026-09-25T07:00:00+00:00",
-   "title_original": "Katayama: Trump voiced concern over weak yen to Takaichi",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3f263d6b3d7c8048"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "Business confidence weakens: TIER",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VTTlseDBkOGlUckN4UU9XRVlzSGI3c0NrTjZxZExsVFpVdDBMV3ItOGtvYXhSSkE2MmRwWFNndDViTzFqRkkzODFnTmY3eUczMU9qZllJZmFKb0NvRzhsbFNKeXBHQW0tdVQwc09FOHlHSXUwLUE?oc=5",
-   "published_utc": "2026-09-25T07:00:00+00:00",
-   "title_original": "Business confidence weakens: TIER",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0905b945603f2a83"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "Taiwan-bred breeding pigs, pig semen approved for export to Malaysia",
-   "url": "https://focustaiwan.tw/business/202609250007",
-   "published_utc": "2026-09-25T06:55:23+00:00",
-   "title_original": "Taiwan-bred breeding pigs, pig semen approved for export to Malaysia",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5e7e8068cd141f45"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Q4 Outlook: Hawkish Fed Pricing Clashes With Intervention Risk",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEFHLWwyNTNBZVZaRXZ3Q3hjdDVkNTBybTQ1aGs1NDZ0ZmpNaXBBazQ4cjVvbEVUQWc5NHNnOTI2RmdMY0QxOFJDdjVJTmZtVzhGVnluaG9GaUJuOGFqdEczQXdpNVNCaXJTVFNFT2dMNGJnUHhVOTc5X2NDY3lGcFFqWWpzNkVCWVo1eHlRUmVCeHdJMU5qLWRKYldJU2RSME1Ob0xHSU4zeVVwRmRuLWZB?oc=5",
-   "published_utc": "2026-09-25T06:34:00+00:00",
-   "title_original": "USD/JPY Q4 Outlook: Hawkish Fed Pricing Clashes With Intervention Risk",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "992be72622c010dc"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "Donald Trump raised weak yen with Sanae Takaichi, Japan finance minister says",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNHNueHE3WldVU08xREJoeGhHUzVYNTR4SGRWa09SZTNaWTZ5b0JLRExrZUJ5ek95Y1pXMmVUa2t2aHpKbjlWNlFLSG8xRlFzZzdwWnd3UzM4ZF9udDRRWG1xLUoxalptc29tNnZTSFhDb1B5TWJpOHlIZkZHbU9rVWFmd0Q?oc=5",
-   "published_utc": "2026-09-25T06:29:10+00:00",
-   "title_original": "Donald Trump raised weak yen with Sanae Takaichi, Japan finance minister says",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c3dbfa31d5b862d4"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan estimates consumer prices continue to exceed 2% target, supporting expectations for interest rate hike by the end of this year (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZDZQbUUzeFItb09FMjZTUjFfa0g2NmgyMVM4Zl9ZQ2FHbTg5cjNzM3E3cHhUUFVKaFpoampuQ25XR0JvcmZqazlhanQ0OVNWVEFyUEhOZnhQZXRiNE53cmtJWXd5N01tWnFMN29YbWVxa2JXSFdHX3lqY0oxenF5ZG5IYlNVeTJKaEFhUWhR?oc=5",
-   "published_utc": "2026-09-25T06:25:11+00:00",
-   "title_original": "日銀試算の消費者物価は2%目標超え続く､年内利上げ観測をサポート (Bloomberg)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6c97de7314b7ab50"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Prime Minister of Mongolia to visit Japan next week for summit meeting with Prime Minister Takaichi",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260925de52363",
-   "published_utc": "2026-09-25T05:44:00+00:00",
-   "title_original": "モンゴル首相来週来日 高市首相と首脳会談へ",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1bb1c11efd0e5379"
   },
   {
    "source_id": "manual_ia",
