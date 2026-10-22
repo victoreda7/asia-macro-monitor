@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T02:52:43.755335+00:00
+Última coleta: 2026-10-22T03:02:42.789707+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          978
+  🇯🇵 Japão          976
   🇨🇳 China          858
-  🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  808
+  🇹🇼 Taiwan         357
+  🇰🇷 Coreia do Sul  809
 
 ## O que já está no feed (não repita)
 
+  - [korea] (URGENT) Investment-focused fiscal spending compatible with monetary tightening: BOK Gov. Shin
   - [korea] BOK Gov: Preemptive Move in August Gives Policymakers More Room to Maneuver
   - [korea] BOK Gov: Timing of Further Rate Increases Will Depend on Assessment of Incoming Data
   - [korea] Samsung E&A recorded an operating profit of KRW 5006 billion in the third quarter of this year.
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched a 173 billion yuan overnight reverse repurchase operation on October 22
   - [korea] (LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum... Take a breath after two consecutive raises
-  - [japan] Singapore Dollar Gains Appeal as Carry-Trade Funding Currency Relative to Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T02:52:44+00:00",
+      "published_utc": "2026-10-22T03:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
