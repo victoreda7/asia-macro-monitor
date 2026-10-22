@@ -7,19 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T22:42:45.406988+00:00
+Última coleta: 2026-10-22T22:52:43.903179+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          966
+  🇯🇵 Japão          967
   🇨🇳 China          856
   🇹🇼 Taiwan         366
-  🇰🇷 Coreia do Sul  812
+  🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
   - [japan] Japan Inflation Data Due On Friday
-  - [korea] SK Hynix drops US IPO plan for Solidigm, newspaper reports
   - [korea] SK Hynix drops Solidigm US IPO plan, according to newspaper report
+  - [korea] SK Hynix drops US IPO plan for Solidigm, newspaper reports
   - [japan] Yen on track to gain from US midterm elections and France unrest
   - [china] China’s Bank Wealth Management Market Reaches 35.4 Trillion Yuan
   - [china] China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T22:42:45+00:00",
+      "published_utc": "2026-10-22T22:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

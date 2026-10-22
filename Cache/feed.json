@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T22:42:45.406988+00:00",
- "collected_at_utc": "2026-10-22T22:42:45.406988+00:00",
+ "generated_at_utc": "2026-10-22T22:52:43.903179+00:00",
+ "collected_at_utc": "2026-10-22T22:52:43.903179+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 966,
+  "japan": 967,
   "china": 856,
   "taiwan": 366,
-  "korea": 812
+  "korea": 811
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T22:24:23+00:00"
+   "newest": "2026-10-22T22:42:26+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T22:18:27+00:00"
+   "newest": "2026-10-22T22:30:49+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T22:42:00+00:00"
+   "newest": "2026-10-22T22:51:18+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -361,23 +361,6 @@
    "id": "abfe0c2edffabbef"
   },
   {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "SK Hynix drops US IPO plan for Solidigm, newspaper reports",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
-   "published_utc": "2026-10-22T22:18:39+00:00",
-   "title_original": "SK Hynix drops US IPO plan for Solidigm, newspaper reports",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4ad7f942e68a3b6f"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix drops Solidigm US IPO plan, according to newspaper report",
@@ -393,6 +376,23 @@
    "live_wire": true,
    "manual": false,
    "id": "2c6aa077937ddc25"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SK Hynix drops US IPO plan for Solidigm, newspaper reports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4681EY:0-sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/",
+   "published_utc": "2026-10-22T22:03:12+00:00",
+   "title_original": "SK Hynix drops US IPO plan for Solidigm, newspaper reports",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9ab29f13201d61a1"
   },
   {
    "source_id": "nikkei_asia",
@@ -1806,23 +1806,6 @@
    "id": "a59d6ed6e8cb43d1"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOK's Hawkish Hold Leaves Door Open to Rate Hikes — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261022001045:0-bok-s-hawkish-hold-leaves-door-open-to-rate-hikes-market-talk/",
-   "published_utc": "2026-10-22T05:25:00+00:00",
-   "title_original": "BOK's Hawkish Hold Leaves Door Open to Rate Hikes — Market Talk",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5b7b7452089c49c2"
-  },
-  {
    "source_id": "gn_kr_bok",
    "source_name": "중기이코노미",
    "title_en": "Bank of Korea freezes base interest rate at 3.00%... Growth rate rises due to strong semiconductor industry",
@@ -2620,6 +2603,23 @@
    "id": "cbb74a813d65ab30"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "YTN",
+   "title_en": "Bank of Korea freezes base interest rate at 3% per year...adjusts pace of tightening",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KRldyZEFvY1VjSHR4SWNiM2U3Snd5U21NNU4yNEtETlY3QmJJUXJraUlySGM1RHhDSEJIa1hnVERMOEZ1QXVXUm1Xc2k2emRJOFNlSVU1azBSaU93aEE?oc=5",
+   "published_utc": "2026-10-22T01:53:00+00:00",
+   "title_original": "한국은행, 기준금리 연 3%로 동결...긴축 속도 조절",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2e82dacdb61aeeab"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(2nd LD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
@@ -2791,23 +2791,6 @@
    "live_wire": false,
    "manual": false,
    "id": "108f1699760a0cf2"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "YTN",
-   "title_en": "Bank of Korea freezes base interest rate at 3.00% per annum...adjusts pace of tightening",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tTDIxcHBFQ2g3Q1dvbUQwazdQVUp0MVBWUURvZWlHSldvVmZqZm1aUGpKc3pEcFhqNXNCYmJnTENla2hHR1pYWGNlbDFkaDFJdk5ielRGQU50TDdHS3c?oc=5",
-   "published_utc": "2026-10-22T01:31:00+00:00",
-   "title_original": "한국은행, 기준금리 연 3.00%로 동결...긴축 속도 조절",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cdd63a5dc0772c7b"
   },
   {
    "source_id": "korea_herald_biz",
@@ -3533,8 +3516,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -3548,7 +3531,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -5072,7 +5055,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
-   "published_utc": "2026-10-21T01:56:01+00:00",
+   "published_utc": "2026-10-21T01:56:00+00:00",
    "title_original": "央行开展800亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -6231,8 +6214,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -6246,7 +6229,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -6763,8 +6746,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -6778,7 +6761,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -8786,8 +8769,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -8801,7 +8784,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -12532,6 +12515,23 @@
    "id": "8ca1bcfeb8b9587c"
   },
   {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Chinese premier chairs State Council executive meeting",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YcU11QXhkMW82ZV9tTS1ZMVRwQWJHZ2xONnJFWTZhb2c2MzRoeUw2X0FmQUFVVGhHdHpta3BmTk5YaUd4a2dKbU1iNlhFRXc5c2k1MXh4VzBGeWJGNkRscXFWaVZGSXFrNFJ4b05DOUh0c1paSm4wU0l1blI?oc=5",
+   "published_utc": "2026-10-17T00:14:15+00:00",
+   "title_original": "Chinese premier chairs State Council executive meeting",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0d54b1faf146765e"
+  },
+  {
    "source_id": "gn_kr_bok",
    "source_name": "연합뉴스",
    "title_en": "[Next week's economy] Will the base interest rate be raised for the third consecutive time? Producer prices announced",
@@ -13051,23 +13051,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e1a10142513813b1"
-  },
-  {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "Chinese premier chairs State Council executive meeting",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWjQyRWVYQTZ4UE1uQ2tYRVpiZC1kbW9IUnJTSHVzQWdlcGpZYkExd3g4cFVFZnVjclVVWHhNc3U0aE1remZ3QTB5V3VfdFRYMnExSGZaQjdXLW5DSUxkcjE3VFRqUVRHMmJlS1VjUjNBVHVIRG5lSEo0ZzE?oc=5",
-   "published_utc": "2026-10-16T14:38:45+00:00",
-   "title_original": "Chinese premier chairs State Council executive meeting",
-   "region": "china",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "18b0552f95e580ac"
   },
   {
    "source_id": "nhk_economy",
@@ -51936,6 +51919,24 @@
    "live_wire": true,
    "manual": false,
    "id": "151b2b5bb48df7a6"
+  },
+  {
+   "source_id": "boj_whatsnew",
+   "source_name": "BOJ What's New (EN)",
+   "title_en": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
+   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260731.pdf",
+   "published_utc": "2026-09-27T23:50:00+00:00",
+   "title_original": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "379fb25cbc04238e"
   },
   {
    "source_id": "manual_ia",
