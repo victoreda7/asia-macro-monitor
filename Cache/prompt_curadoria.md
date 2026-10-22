@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T19:12:43.460234+00:00
+Última coleta: 2026-10-22T19:22:43.802685+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          971
+  🇯🇵 Japão          970
   🇨🇳 China          855
-  🇹🇼 Taiwan         364
+  🇹🇼 Taiwan         365
   🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] TSMC Looks Beyond China for Critical Chip Equipment Materials
   - [china] US blocks two devices with Chinese-made surveillance chips
   - [china] China copper import premium hits highest since 2014
   - [china] China's blue chips slump to 15-month lows as AI stocks slide
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ to hold rate at 1.25% at meeting next week
   - [japan] Japanese Government Bonds Held by the Bank of Japan
   - [japan] Japan's 2027 Wage Talks Could Shape BOJ Rate Hikes — Market Talk
-  - [korea] Financial Services Commission Chairman Lee Eok-won said on the 22nd that SK Hynix's push to list its..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T19:12:43+00:00",
+      "published_utc": "2026-10-22T19:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
