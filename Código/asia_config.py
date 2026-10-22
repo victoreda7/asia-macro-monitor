@@ -157,7 +157,10 @@ RSS_SOURCES = [
     # ---- Coreia ----
     # yonhap_en (en.yna.co.kr/rss/industry.xml) está morto — devolve HTML, não
     # XML. Substituído pelo Korea Herald Business, confirmado ativo.
-    {"id": "korea_herald_biz", "name": "Korea Herald Business", "url": "https://www.koreaherald.com/rss/kh_Business",     "scope": "korea"},
+    # pub_shift_hours: o RSS do Korea Herald carimba a hora de Seul como se
+    # fosse UTC — tudo sai 9 h adiantado (o "BOK holds key rate steady" de
+    # 22/10 saiu 10:04 UTC; a Yonhap deu às 00:51). Mesmo bug do Kantei.
+    {"id": "korea_herald_biz", "name": "Korea Herald Business", "url": "https://www.koreaherald.com/rss/kh_Business",     "scope": "korea", "pub_shift_hours": -9},
     # KED Global: a URL certa é /rss, não /newsRss (que devolve um feed quase
     # vazio, 756 bytes). Substitui a query gn_kr_hankyung, que ficou morta.
     {"id": "ked_global",    "name": "KED Global",         "url": "https://www.kedglobal.com/rss",                        "scope": "korea"},
@@ -210,7 +213,9 @@ GOOGLE_NEWS_QUERIES = [
           "存款准备金率 OR 国债买卖 OR 社融 OR 国常会) when:7d",
      "locale": ("zh-CN", "CN", "CN:zh-Hans")},
     {"id": "gn_cn_xinhua",  "name": "Xinhua / 新华",    "region": "china",
-     "q": "site:news.cn OR site:xinhuanet.com (economy OR Politburo OR State Council)"},
+     # when:7d: sem janela o Google devolvia páginas de 2021 por relevância
+     # e a fonte ficava dias sem nada novo (parada desde 19/10/2026).
+     "q": "site:news.cn (economy OR Politburo OR State Council OR GDP OR PBOC) when:7d"},
     # Parada desde 15/09/2026 com a query antiga (inglês, en-US, termos com
     # OR): o Google News ordena por relevância e o índice em inglês do
     # stats.gov.cn é pobre, então os 30 itens vinham cheios de páginas de
@@ -224,9 +229,12 @@ GOOGLE_NEWS_QUERIES = [
 
     # ---- Taiwan ----
     {"id": "gn_tw_focus",   "name": "Focus Taiwan",    "region": "taiwan",
-     "q": "site:focustaiwan.tw (economy OR CBC OR GDP OR export OR inflation)"},
+     "q": "site:focustaiwan.tw (economy OR CBC OR GDP OR export OR inflation) when:7d"},
     {"id": "gn_tw_cna",     "name": "中央社 CNA",       "region": "taiwan",
-     "q": "site:cna.com.tw (economy OR 央行 OR 出口 OR 通膨 OR GDP)"},
+     # Query antiga (en-US) trazia press release de 2021–2023 e nada novo
+     # desde 15/10/2026. Em zh-TW com janela de 7 dias vem o noticiário do dia.
+     "q": "site:cna.com.tw (經濟 OR 央行 OR 出口 OR 通膨 OR GDP OR 股市) when:7d",
+     "locale": ("zh-TW", "TW", "TW:zh-Hant")},
     {"id": "gn_tw_udn",     "name": "UDN / 經濟日報",   "region": "taiwan",
      "q": "site:udn.com OR site:money.udn.com (Taiwan OR 台灣 OR 央行 OR 出口)"},
     {"id": "gn_tw_reuters", "name": "Reuters Taiwan",  "region": "taiwan",
@@ -477,6 +485,11 @@ TOPIC_PATTERNS = {
         # do premiê (que costuma anteceder mudança de política econômica)
         # caía como "sem-topico".
         r"|支持率|世論調査|連立"
+        # Kantei: coletiva do premiê, troca de ministro, reunião com governos
+        # locais. Antes 23 de 24 itens do feed caíam como "sem-topico",
+        # inclusive a coletiva de 1 ano da Takaichi (21/10/2026).
+        r"|(総理|首相)[^、。]{0,25}会見|閣僚人事|内閣改造|大臣の交代|大臣[がを]?辞任|国と地方の協議"
+        r"|租税特別措置|税制改正"
         # Cúpulas de chefe de governo com os EUA/China (首脳会談 = cúpula).
         r"|\b(summit|talks) with (trump|xi)\b|\b(takaichi|lee jae[- ]myung|lai ching[- ]te) and trump\b"
         r"|首脳会談|元首会晤|정상회담"
