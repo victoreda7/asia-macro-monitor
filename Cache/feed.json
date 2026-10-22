@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T11:32:43.114134+00:00",
- "collected_at_utc": "2026-10-22T11:32:43.114134+00:00",
+ "generated_at_utc": "2026-10-22T11:42:44.011753+00:00",
+ "collected_at_utc": "2026-10-22T11:42:44.011753+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 965,
+  "japan": 966,
   "china": 853,
   "taiwan": 358,
-  "korea": 824
+  "korea": 823
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T11:14:12+00:00"
+   "newest": "2026-10-22T11:35:12+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T11:08:10+00:00"
+   "newest": "2026-10-22T11:31:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T09:48:32+00:00"
+   "newest": "2026-10-22T11:30:36+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T11:28:33+00:00"
+   "newest": "2026-10-22T11:34:49+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "newest": "2026-10-22T05:40:32+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T11:31:08+00:00"
+   "newest": "2026-10-22T11:41:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yen set for biggest rally in a month as investors seek safe havens",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4680UP:0-yen-set-for-biggest-rally-in-a-month-as-investors-seek-safe-havens/",
+   "published_utc": "2026-10-22T11:41:57+00:00",
+   "title_original": "Yen set for biggest rally in a month as investors seek safe havens",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5c55b8efd512b8a5"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Yen set for biggest rally in a month; risk-averse investors shun dollar",
+   "url": "https://www.investing.com/news/economy-news/dip-in-the-dollar-takes-a-breather-with-fed-in-focus-4964546",
+   "published_utc": "2026-10-22T11:31:04+00:00",
+   "title_original": "Yen set for biggest rally in a month; risk-averse investors shun dollar",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a81ee2a66a6c79c9"
+  },
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
@@ -650,23 +684,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ce8ee7cfb21ef1fc"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Yen set for biggest rally in a month; risk-averse investors shun dollar",
-   "url": "https://www.investing.com/news/economy-news/dip-in-the-dollar-takes-a-breather-with-fed-in-focus-4964546",
-   "published_utc": "2026-10-22T08:30:38+00:00",
-   "title_original": "Yen set for biggest rally in a month; risk-averse investors shun dollar",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a81ee2a66a6c79c9"
   },
   {
    "source_id": "tradingview_live",
@@ -994,6 +1011,23 @@
    "id": "3c6c90f95a7dde6b"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Retail investors lose $4.8bn on Samsung, SK hynix leveraged ETFs in 80 days",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6RGdGNW1UbEpCcUExT0xrOHkzM0VhaXJQd2NWT3pkZlp5Yk1JNlhyd3FhckowY0Mtd3l6WGR5NWhUN0wxSE43R1NtWFg2aUhKRGc?oc=5",
+   "published_utc": "2026-10-22T06:48:27+00:00",
+   "title_original": "Retail investors lose $4.8bn on Samsung, SK hynix leveraged ETFs in 80 days",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c1e87c9b540a4c20"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Yen rallies as dollar wobbles toward Fed meeting By Reuters",
@@ -1186,24 +1220,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e5807e6e3a9c6f80"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan's trade deficit nearly doubles in Apr.-Sep.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iTkpSWjhXcWxDeGZUYXVWeUJuZ2JTdFlfdXJPSkM5UFk2TV96RzJaYlRjS3A4dDlQR25iRVFnTG93a2p0LVhOc2pQbUZJeFJzUUYtaHo5YVVTLXNjOWkxN2I3QQ?oc=5",
-   "published_utc": "2026-10-22T05:31:01+00:00",
-   "title_original": "Japan's trade deficit nearly doubles in Apr.-Sep.",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1633ec5dca1f0608"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1765,23 +1781,6 @@
    "live_wire": true,
    "manual": false,
    "id": "687f421a49d2c2ea"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOK Gov: Timing of Further Rate Increases Will Depend on Assessment of Incoming Data",
-   "url": "https://www.tradingview.com/news/DJN_DN20261021012418_20261021012420:0-bok-gov-timing-of-further-rate-increases-will-depend-on-assessment-of-incoming-data/",
-   "published_utc": "2026-10-22T02:40:00+00:00",
-   "title_original": "BOK Gov: Timing of Further Rate Increases Will Depend on Assessment of Incoming Data",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "737cfa392c9e41a1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2591,6 +2590,24 @@
    "id": "e3ee9efac5225c42"
   },
   {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan's trade deficit nearly doubles in Apr.-Sep.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iTkpSWjhXcWxDeGZUYXVWeUJuZ2JTdFlfdXJPSkM5UFk2TV96RzJaYlRjS3A4dDlQR25iRVFnTG93a2p0LVhOc2pQbUZJeFJzUUYtaHo5YVVTLXNjOWkxN2I3QQ?oc=5",
+   "published_utc": "2026-10-22T00:32:01+00:00",
+   "title_original": "Japan's trade deficit nearly doubles in Apr.-Sep.",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1633ec5dca1f0608"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan tech supply chain eyes Texas for first US industrial cluster",
@@ -3091,8 +3108,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -3106,7 +3123,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -4073,6 +4090,23 @@
    "id": "e5cc372c63162978"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHNraGVxZVpzdVZzUjFvQlpfcXJRU2ZYdlJxdU5KY1k5ZVJCTGQtallhSmVkbjZFbDdmVE5NRTN1ODRMd3ltTUpkQWNTdy13NmQxZkhNZDVyOXFUU1o3OXlhQ3Nrc2RSRE05TmJQTkVTNnlseXdtd1NOMVdLdEo1cVU4OWlxMmk3S0Zvdg?oc=5",
+   "published_utc": "2026-10-21T06:08:00+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e277f33f899b7cc"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Samsung, SK Hynix upgrade China plants to make advanced memory chips - Reuters",
@@ -4141,23 +4175,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4932d8c9ad5c811e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
-   "published_utc": "2026-10-21T05:02:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7b59d3d09f8c8605"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -5704,8 +5721,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -5719,7 +5736,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -6201,8 +6218,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -6216,7 +6233,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -6853,10 +6870,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观察者网",
+   "source_name": "搜狐",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
-   "published_utc": "2026-10-20T05:07:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9Rc1BnRlhGM1d4c092aXBsdWVCUXE1NWpsTTZMSVA5X3E2MW0tOUt4dFdGY2o2OVNJNEZhTkdYMlN0Mi1EazBaUGxrTnhZUTI3dklRNjd6a0ZybFpLRElwVC01YWJCZ3JqYm9nVDVad1BFb1pkTUVVUkhnb0p6ejBURktuX1pu?oc=5",
+   "published_utc": "2026-10-20T05:07:29+00:00",
    "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
    "region": "china",
    "topics": [
@@ -6866,7 +6883,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50e1092b7ea2ed64"
+   "id": "8b5a5b685c5ae149"
   },
   {
    "source_id": "gn_jp_investing",
@@ -6904,10 +6921,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "搜狐",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
-   "published_utc": "2026-10-20T04:37:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
+   "published_utc": "2026-10-20T04:46:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -6918,7 +6935,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "113a63c4f4301728"
+   "id": "6b8b7943e562e9e1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -7060,6 +7077,23 @@
    "live_wire": true,
    "manual": false,
    "id": "05280fdf996be8e6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByR1RCUXRvdzJXdko3eDhTNzJoTkk3dU9yczRUTTRVaFl0ZFRnNF9mZHBtQkp6d3BNMXQ3TDRyTlFCcGxkWUxNbXF1X1VQWEdNX1JHbmdPbURVWFhoVENCNUp5SVJBRm80UVpzRzRhNA?oc=5",
+   "published_utc": "2026-10-20T03:18:00+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e4ac9994d10111b"
   },
   {
    "source_id": "toyo_keizai",
@@ -8121,8 +8155,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -8136,7 +8170,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -8154,23 +8188,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b474010cf2072a9c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "界面新闻",
-   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
-   "published_utc": "2026-10-19T12:18:00+00:00",
-   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16528f1711d07747"
   },
   {
    "source_id": "tradingview_live",
@@ -18908,23 +18925,6 @@
    "id": "ccae6282d871af98"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "IMF: Japan to fall to 6th in 2027 global GDP rankings | NHK WORLD-JAPAN News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1td204RjZjVnBuOEZkbFpwc1BRZ1lwQXVNdF9wR0QxRlZxbjBWZFNraHRGREJYNWxLNURpTzItVmloMi1MR1NkNkgzNFo3Q3Etemh5TzFCclN0U0F2UmsxMXFTRQ?oc=5",
-   "published_utc": "2026-10-14T13:44:00+00:00",
-   "title_original": "IMF: Japan to fall to 6th in 2027 global GDP rankings | NHK WORLD-JAPAN News",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "66fc5a1202af3a7a"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "The central bank announced that it will carry out a 700 billion yuan buyout reverse repurchase operation",
@@ -20186,6 +20186,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e0e37b2439ec31bc"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "IMF: Japan to fall to 6th in 2027 global GDP rankings | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1td204RjZjVnBuOEZkbFpwc1BRZ1lwQXVNdF9wR0QxRlZxbjBWZFNraHRGREJYNWxLNURpTzItVmloMi1MR1NkNkgzNFo3Q3Etemh5TzFCclN0U0F2UmsxMXFTRQ?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "title_original": "IMF: Japan to fall to 6th in 2027 global GDP rankings | NHK WORLD-JAPAN News",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "66fc5a1202af3a7a"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51924,23 +51941,6 @@
    "live_wire": false,
    "manual": false,
    "id": "07be0da4e972d685"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "Even if the base interest rate rises, the deposit interest rate falls... Savings bank’s ‘Chuseok special offer’ also disappeared",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EVlhSRDNpU25IWVRiYXBCLXJUZTVUUkl5OGpXMzdJZDNWMWtwOGY1R3ZXc3ZkT0gtUW9FS1pIbE1qS0RHa0hwQ2ZlU3hWVjBBenRDZQ?oc=5",
-   "published_utc": "2026-09-27T00:02:54+00:00",
-   "title_original": "기준 금리 올라도 예금금리는 뚝…저축은행 '추석 특판'도 실종",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4718a23b9823408e"
   },
   {
    "source_id": "manual_ia",

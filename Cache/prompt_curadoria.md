@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T11:32:43.114134+00:00
+Última coleta: 2026-10-22T11:42:44.011753+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          965
+  🇯🇵 Japão          966
   🇨🇳 China          853
   🇹🇼 Taiwan         358
-  🇰🇷 Coreia do Sul  824
+  🇰🇷 Coreia do Sul  823
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen set for biggest rally in a month as investors seek safe havens
+  - [japan] Yen set for biggest rally in a month; risk-averse investors shun dollar
   - [china] Shenzhen’s Existing-Home Prices Fall in October
   - [taiwan] Micron Taoyuan union reps begin symbolic 'strike' after Taichung deal
   - [japan] Yen Rises Amid Risk-off Mood
@@ -35,7 +37,6 @@ Total: 3000 manchetes
   - [china] China blue-chip index confirms bear market as AI stocks slump
   - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
   - [korea] Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won i
-  - [japan] Yen set for biggest rally in a month; risk-averse investors shun dollar
   - [korea] After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk
   - [china] Zhejiang Wazam New Materials Q3 Net Profit At 627.0 Million Yuan
   - [japan] Japan to consider re-introducing gas and electricity subsidies, sources say
@@ -55,8 +56,7 @@ Total: 3000 manchetes
   - [japan] In absence of sovereign buyers, Indian chip firms find clients in Japan, EU
   - [japan] Japan's Nikkei slides as AI capex caution weighs on chip shares
   - [korea] South Korean shares log 6-month closing low as chipmakers fall on profit-taking
-  - [japan] Yen rallies as dollar wobbles toward Fed meeting By Reuters
-  - [korea] [Exclusive] Samsung Electro-Mechanics to receive 3.7 trillion won from Tesla and NVIDIA to build AI chip subst
+  - [korea] Retail investors lose $4.8bn on Samsung, SK hynix leveraged ETFs in 80 days
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T11:32:43+00:00",
+      "published_utc": "2026-10-22T11:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
