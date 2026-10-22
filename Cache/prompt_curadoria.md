@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T09:22:43.154439+00:00
+Última coleta: 2026-10-22T09:32:43.748265+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          969
-  🇨🇳 China          853
-  🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  822
+  🇯🇵 Japão          968
+  🇨🇳 China          852
+  🇹🇼 Taiwan         357
+  🇰🇷 Coreia do Sul  823
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan's first-ever chip workers strike hits Micron plant
+  - [china] China blue-chip index confirms bear market as AI stocks slump
   - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
   - [korea] Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won i
   - [japan] Yen set for biggest rally in a month; risk-averse investors shun dollar
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's trade deficit nearly doubles in Apr.-Sep.
   - [korea] Bank of Korea freezes base interest rate at 3.00%... Will interest rates rise again in November?
   - [korea] Kbi Dongkook Ind To Acquire Real Estate Worth 27.5 Billion Won
-  - [korea] The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Mone
-  - [korea] BOK's Hawkish Hold Leaves Door Open to Rate Hikes — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T09:22:43+00:00",
+      "published_utc": "2026-10-22T09:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

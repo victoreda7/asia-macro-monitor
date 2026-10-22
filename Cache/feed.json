@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T09:22:43.154439+00:00",
- "collected_at_utc": "2026-10-22T09:22:43.154439+00:00",
+ "generated_at_utc": "2026-10-22T09:32:43.748265+00:00",
+ "collected_at_utc": "2026-10-22T09:32:43.748265+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 969,
-  "china": 853,
-  "taiwan": 356,
-  "korea": 822
+  "japan": 968,
+  "china": 852,
+  "taiwan": 357,
+  "korea": 823
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T07:22:44+00:00"
+   "newest": "2026-10-22T07:47:37+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T04:24:00+00:00"
+   "newest": "2026-10-22T08:03:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T16:49:00+09:00"
+   "newest": "2026-10-22T18:25:49+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T18:18:40+09:00"
+   "newest": "2026-10-22T18:27:18+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T09:12:07+00:00"
+   "newest": "2026-10-22T09:31:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Taiwan's first-ever chip workers strike hits Micron plant",
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-hits-micron-plant",
+   "published_utc": "2026-10-22T09:32:43.335327+00:00",
+   "title_original": "Taiwan's first-ever chip workers strike hits Micron plant",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d4d7ec0495b7dcee"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China blue-chip index confirms bear market as AI stocks slump",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4680AP:0-china-blue-chip-index-confirms-bear-market-as-ai-stocks-slump/",
+   "published_utc": "2026-10-22T09:18:56+00:00",
+   "title_original": "China blue-chip index confirms bear market as AI stocks slump",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ad8b9c03a35d10b9"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1788,23 +1822,6 @@
    "id": "60640b9ef9484981"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's strong-armed $21 bln chip bet is low risk",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4610GS:0-japan-s-strong-armed-21-bln-chip-bet-is-low-risk/",
-   "published_utc": "2026-10-22T02:01:08+00:00",
-   "title_original": "Japan's strong-armed $21 bln chip bet is low risk",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "41399a22008c37b7"
-  },
-  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Breakingviews - COMMENTARY: Japan's strong-armed $21 bln chip bet is low risk",
@@ -2956,8 +2973,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -2971,7 +2988,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -3556,6 +3573,23 @@
    "live_wire": false,
    "manual": false,
    "id": "dafe0821cd9d3d19"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Hyundai to debut car powered by proprietary automotive chips in 2029",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxRnJEd1hBb0FBUFVvYWEwT3JBaEVuRV9RRGduX2FUSXFjM21Gdk9TSDJubGk4VEhtQ2hzMjhCNkFMVENrYU9ma1VTWnJndkFIUF96TXlvU2dPVUotNzdyOGZCOVMwdnV1MTI2OUx3Zw?oc=5",
+   "published_utc": "2026-10-21T08:50:00+00:00",
+   "title_original": "Hyundai to debut car powered by proprietary automotive chips in 2029",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b18852717e361d8"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5552,8 +5586,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -5567,7 +5601,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -6049,8 +6083,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -6064,7 +6098,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -7969,8 +8003,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -7984,7 +8018,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51908,40 +51942,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c729de7dbf2a54b6"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
-   "url": "https://www.investing.com/news/economy-news/china-us-agree-to-30-billion-tariff-cut-launch-ai-dialogue-4918542",
-   "published_utc": "2026-09-26T13:41:08+00:00",
-   "title_original": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d78c5c4c0efdd9b7"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "Trade truce aside, was AI the real Xi-Trump summit breakthrough?",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR29DbHRpckN6TkVPdy1CbjNQUFIteVR3eGJnRzdTM293M2pLWEx1bnlfVDNfcHZuN2hhU283R3FGM2dLXzFLQUNCamNiRVctUTV4d1lWUndYY1lJSDBkN2xNNFNKbmFkbG9RSXgzOWFHdVdNSXRzMFNWNzdwMVhEQ1JLNVl6X1pYdU5FcVBjWFFCSUZtUy1qUVY4VkRqbms4Ujh5Q0dtcVQ0TUVXajBPUXY5Q3hNRXdWY1BpQVNrRlNqNzhwbjVB0gHHAUFVX3lxTE5yYlF0MGY1dDNsNDlTamxBaFYxand6OTNMRGZxVS1Ba3pCckx3MVFnRzlxSkxqQW9pYXY1azRmdDBXQzZZSDNDZVc1UkVMY1M0OTRZNllQaS1RVUh2aXlIUUVDMlN0eXVLSmotV1dUN0FXZjQ1YmxSdFJDYmxJTkJncmc3R2F1a1VkdXI1b2EzQXpoZW1HYmVOTl9ycnFiVmczbW9jZUdOaFY5d0N1YTZ2N1RiQWFSU2RMbzE5SUFOS1lEWnRxcjA?oc=5",
-   "published_utc": "2026-09-26T12:39:03+00:00",
-   "title_original": "Trade truce aside, was AI the real Xi-Trump summit breakthrough?",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d49a80b6ce09fc9b"
   },
   {
    "source_id": "manual_ia",
