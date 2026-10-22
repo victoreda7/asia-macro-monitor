@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T21:32:44.437063+00:00
+Última coleta: 2026-10-22T21:42:44.602261+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          968
-  🇨🇳 China          856
+  🇯🇵 Japão          967
+  🇨🇳 China          857
   🇹🇼 Taiwan         366
   🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen on track to gain from US midterm elections and France unrest
+  - [china] China’s Bank Wealth Management Market Reaches 35.4 Trillion Yuan
   - [china] China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering
   - [japan] USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen
   - [japan] Dollar slips while yen jumps to five-week high as traders flock to safe havens
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Lower House committee to debate consumption tax cut | NHK WORLD-JAPAN News
   - [japan] Lower House committee to debate consumption tax cut
   - [taiwan] The Trade Department updated the management list of entities exporting strategic high-tech goods, adding 343 n
-  - [china] China blue-chip index confirms bear market as AI stocks slump
-  - [china] China’s Gulf oil imports forecast to near pre-Iran war high as shipments rebound
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T21:32:44+00:00",
+      "published_utc": "2026-10-22T21:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
