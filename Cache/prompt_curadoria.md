@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T05:32:45.194301+00:00
+Última coleta: 2026-10-22T05:42:42.874521+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          966
-  🇨🇳 China          861
+  🇯🇵 Japão          965
+  🇨🇳 China          862
   🇹🇼 Taiwan         355
   🇰🇷 Coreia do Sul  818
 
@@ -26,9 +26,11 @@ Total: 3000 manchetes
   - [korea] Bank of Korea holds rates, upbeat outlook points to future hikes
   - [korea] (3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening
   - [china] China snaps up Australian canola as improved ties, lower tariffs fuel demand
+  - [china] The central bank plans to switch to overnight reverse repos! Dividend low-volatility ETF Huatai-PineBridge (51
   - [japan] JGB yields touch multi-week lows as traders weigh geopolitics, BOJ policy outlook
   - [china] China bets on manufactured water, and wants to sell it to the world
   - [korea] Asia stocks slide as AI jitters hit Korean chipmakers
+  - [korea] [Photo] Bank of Korea monetary policy direction meeting... base interest rate maintained at 3.00% per annum
   - [japan] U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such
   - [korea] (URGENT) BOK expects inflation to approach target level in 2028: Gov. Shin
   - [korea] BOK Gov: Stronger Won Helps Curb Import Prices, Boost Household Purchasing Power
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] [Full text] Bank of Korea Monetary Policy Committee October monetary policy direction decision statement
   - [japan] Japan's strong-armed $21 bln chip bet is low risk
   - [korea] The Bank of Korea has stopped raising interest rates... Base interest rate frozen at 3% (comprehensive) - Mone
-  - [korea] Bank of Korea freezes base interest rate at 3.00% per annum [Newsis Pic]
-  - [korea] ‘Stop continuous increases and check the effect of austerity’... Bank of Korea freezes base interest rate at 3
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T05:32:45+00:00",
+      "published_utc": "2026-10-22T05:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
