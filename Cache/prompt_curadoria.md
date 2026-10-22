@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T14:02:45.303154+00:00
+Última coleta: 2026-10-22T14:12:44.700025+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          973
@@ -41,6 +41,7 @@ Total: 3000 manchetes
   - [china] China blue-chip index confirms bear market as AI stocks slump
   - [china] China’s Gulf oil imports forecast to near pre-Iran war high as shipments rebound
   - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
+  - [japan] Cuts announced to Japan's eco-friendly car subsidies
   - [korea] Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won i
   - [korea] After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk
   - [china] Zhejiang Wazam New Materials Q3 Net Profit At 627.0 Million Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan's Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims
   - [japan] Yen rallies as dollar slips to 3-wk low; traders eye central bank meetings
   - [korea] S. Korean won strengthens against U.S. dollar after BOK holds key rate
-  - [japan] Yen Rises Against Majors
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T14:02:45+00:00",
+      "published_utc": "2026-10-22T14:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
