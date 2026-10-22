@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T06:32:43.873111+00:00
+Última coleta: 2026-10-22T06:42:42.963764+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          964
+  🇯🇵 Japão          965
   🇨🇳 China          863
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  818
+  🇰🇷 Coreia do Sul  817
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen rallies as dollar wobbles toward Fed meeting
   - [korea] BOK pauses rate hikes, but signals more may come
   - [japan] Six opposition parties in the House of Councilors consumption tax reduction bill “call for establishment of a 
+  - [china] COMMENTARY: China uses crude stockpiles, but rising oil imports may curtail draws
   - [korea] K-beauty stocks stumble as strong won squeezes profits
   - [korea] K-beauty firms to seek export deals at Cheongju expo
   - [china] The central bank launched a 173 billion yuan overnight reverse repurchase operation today, and the latest net 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea freezes the base interest rate by 3%... “Watch prices and financial stability”
   - [china] China buys nearly 1 million tons of Australian canola for 2027 shipment, traders say
   - [korea] Bank of Korea base interest rate frozen at 3.00% per annum... Speed ​​adjustment after 2 consecutive raises
-  - [japan] Japan's Nikkei slips as chip stocks come under pressure due to wariness over AI investment
-  - [japan] Japan's Nikkei slips as chip shares pressured by AI capex caution
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T06:32:44+00:00",
+      "published_utc": "2026-10-22T06:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
