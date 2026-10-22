@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-22T06:22:43.808857+00:00",
- "collected_at_utc": "2026-10-22T06:22:43.808857+00:00",
+ "generated_at_utc": "2026-10-22T06:32:43.873111+00:00",
+ "collected_at_utc": "2026-10-22T06:32:43.873111+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 963,
+  "japan": 964,
   "china": 863,
   "taiwan": 355,
-  "korea": 819
+  "korea": 818
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-22T15:14:02+00:00"
+   "newest": "2026-10-22T15:26:35+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-22T13:07:00+09:00"
+   "newest": "2026-10-22T15:21:48+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T05:10:57+00:00"
+   "newest": "2026-10-22T05:12:12+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-22T06:21:50+00:00"
+   "newest": "2026-10-22T06:31:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T03:57:29+00:00"
+   "newest": "2026-10-22T00:55:41+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -359,6 +359,24 @@
    "live_wire": false,
    "manual": false,
    "id": "27347a4a372c4b12"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Six opposition parties in the House of Councilors consumption tax reduction bill “call for establishment of a special committee”",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261022de63494",
+   "published_utc": "2026-10-22T06:21:48+00:00",
+   "title_original": "参院 野党6党 消費税減税法案“特別委員会の新設求める”",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1889682c9bf176d6"
   },
   {
    "source_id": "korea_herald_biz",
@@ -568,6 +586,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e841288bedeb8aa8"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "세상을 바꾸는 시민언론 민들레",
+   "title_en": "Bank of Korea stops raising interest rates... Tightening speed control",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Ylk3ZnZlc19UMUc1U09DN2Q5WFdGZk5wT1R6Vnp4eGk1b1Q5WjlEbFhyaWtOWTBaMnVDZXM3UGREcmIzWWVBM3hfY1lOU09kV1AyMVlTX1RTMFhjbTF2MzJSMTY2RGdCaHhwTw?oc=5",
+   "published_utc": "2026-10-22T04:10:00+00:00",
+   "title_original": "기준금리 인상 멈춘 한국은행…긴축 속도 조절",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9c4829ceb49aac68"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -2009,23 +2044,6 @@
    "id": "620cccd0b57be60f"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스투데이",
-   "title_en": "Bank of Korea freezes base interest rate at 3.00% per annum (Breaking News)",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53RU9uaDFxM1JPZlEwaW9EWkNLZndidjZxUmJaOFFGU2VjUWlmZzZXaGxjS0pUY1JhcXZXdUVDc2Z3Z3pDRWV0MkNCUXNHam1LZHpYZ1ZOeEw2Q2dGRUE?oc=5",
-   "published_utc": "2026-10-22T00:56:00+00:00",
-   "title_original": "한국은행, 기준금리 연 3.00%로 동결(속보)",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d0e381cfd6eb12a1"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Japan funding conditions still loose despite interest rate hikes, survey shows",
@@ -2526,8 +2544,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -2541,7 +2559,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -5122,8 +5140,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -5137,7 +5155,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -5619,8 +5637,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -5634,7 +5652,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -6623,9 +6641,9 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNXY4d0E5eEF5aUw0UlpGTGhjRnJzUENrZ010cUVzMVRZVmVnSDJOSW9yNEswWm9jdEN0UnhRNFNzMmV4VVp5ZktLWlJFRVpXWThpNTJSSEJ5Wm5adEpwSFpxMWhhZXp4ME45SHBtOEVRZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UOEd5TVhYdldxVjFRUFJkWVJDaXJaNmItUVh3UkVCRDRSdzBTYWEwQUVsQ3gzRThSbU1yLXkzZDBHVnluYi1aSXl3M2trV1JyS1lGdFFQcHU2SHZmeFR2SXhQZFc3amloMEpwSGdBczJ5ZloxMUE?oc=5",
    "published_utc": "2026-10-20T02:00:00+00:00",
-   "title_original": "2026年前三季度广东居民消费价格 同比上涨0.9%",
+   "title_original": "2026年前三季度广东居民消费价格同比上涨0.9%",
    "region": "china",
    "topics": [
     "inflation"
@@ -6634,7 +6652,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0bee112acf295ae1"
+   "id": "83d5a510f10ebe66"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -7539,8 +7557,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -7554,7 +7572,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51924,24 +51942,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8a8b2d34117a55f5"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "미래경제",
-   "title_en": "The Bank of Korea raises interest rates to control housing prices and debt... The problem is '15 months later'",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PWVBaZklITERKd3prMkxkci1HVnZicnltN3FrSmlSMkN0aUdLNTdURkc4M1NVakFwYlVfQzJQaFZZRER1TEQyWUh1MzR4VFp1bVM4MzVqbVlTampNZWRMMEt4LVJ2MjVLSEpEZw?oc=5",
-   "published_utc": "2026-09-26T00:30:00+00:00",
-   "title_original": "한은, 금리 올려 집값·빚 잡는다…문제는 '15개월 뒤'",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1592ebec6f734146"
   },
   {
    "source_id": "manual_ia",

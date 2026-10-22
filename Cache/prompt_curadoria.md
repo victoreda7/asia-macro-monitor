@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T06:22:43.808857+00:00
+Última coleta: 2026-10-22T06:32:43.873111+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          963
+  🇯🇵 Japão          964
   🇨🇳 China          863
   🇹🇼 Taiwan         355
-  🇰🇷 Coreia do Sul  819
+  🇰🇷 Coreia do Sul  818
 
 ## O que já está no feed (não repita)
 
   - [korea] BOK pauses rate hikes, but signals more may come
+  - [japan] Six opposition parties in the House of Councilors consumption tax reduction bill “call for establishment of a 
   - [korea] K-beauty stocks stumble as strong won squeezes profits
   - [korea] K-beauty firms to seek export deals at Cheongju expo
   - [china] The central bank launched a 173 billion yuan overnight reverse repurchase operation today, and the latest net 
@@ -30,6 +31,7 @@ Total: 3000 manchetes
   - [china] China's yuan climbs to fresh 4-year high, global central bank meetings in focus
   - [korea] Bank of Korea Holds Steady After Back-to-Back Hikes — Update
   - [korea] Bank of Korea holds rates, upbeat outlook points to future hikes
+  - [korea] Bank of Korea stops raising interest rates... Tightening speed control
   - [korea] (3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening
   - [china] China snaps up Australian canola as improved ties, lower tariffs fuel demand
   - [china] The central bank plans to switch to overnight reverse repos! Dividend low-volatility ETF Huatai-PineBridge (51
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea base interest rate frozen at 3.00% per annum... Speed ​​adjustment after 2 consecutive raises
   - [japan] Japan's Nikkei slips as chip stocks come under pressure due to wariness over AI investment
   - [japan] Japan's Nikkei slips as chip shares pressured by AI capex caution
-  - [korea] Korea’s corporate recovery leaves SMEs behind: BOK data
-  - [korea] Bank of Korea freezes base interest rate at 3.0% per annum... Will it be raised in November after taking a bre
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T06:22:44+00:00",
+      "published_utc": "2026-10-22T06:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
