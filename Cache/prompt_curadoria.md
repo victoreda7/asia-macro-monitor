@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T20:12:46.569154+00:00
+Última coleta: 2026-10-22T20:22:42.665053+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          968
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [taiwan] TSMC Looks Beyond China for Critical Chip Equipment Materials
   - [china] US blocks two devices with Chinese-made surveillance chips
   - [china] China copper import premium hits highest since 2014
+  - [japan] Equity Rebound Stutters as Oil Spikes Again, Yen Gains From AI Jitters
   - [china] China's blue chips slump to 15-month lows as AI stocks slide
   - [china] Vietnam surpasses China as Brazil's main source of steel imports
   - [china] PBOC Details Yuan Access as Cross-Border Use Grows
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Zhejiang Wazam New Materials Q3 Net Profit At 627.0 Million Yuan
   - [japan] Japan to consider re-introducing gas and electricity subsidies, sources say
   - [korea] Bank of Korea base interest rate frozen at 3.00%... opens possibility of further increase due to price instabi
-  - [japan] BOJ to hold rate at 1.25% at meeting next week
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T20:12:46+00:00",
+      "published_utc": "2026-10-22T20:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
