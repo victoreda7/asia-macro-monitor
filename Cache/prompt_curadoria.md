@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T21:02:43.743846+00:00
+Última coleta: 2026-10-22T21:12:46.634724+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          968
-  🇨🇳 China          857
+  🇯🇵 Japão          967
+  🇨🇳 China          858
   🇹🇼 Taiwan         365
   🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [japan] USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen
+  - [china] China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering
   - [china] EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia
   - [japan] Unexpected combination and convincing reason (2026 Nobel Prize in Economics): Hall, Woodford contributed to ef
   - [korea] BOK Financial Price Target Cut to $140.00/Share From $146.00 by Citigroup
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China’s Gulf oil imports forecast to near pre-Iran war high as shipments rebound
   - [taiwan] TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say
   - [korea] Power generators fume over push to cut regional electricity rates: “We’re being saddled with 650 billion won i
-  - [korea] After Pause, End of BOK Tightening Cycle Now in Sight — Market Talk
-  - [china] Zhejiang Wazam New Materials Q3 Net Profit At 627.0 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T21:02:43+00:00",
+      "published_utc": "2026-10-22T21:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
