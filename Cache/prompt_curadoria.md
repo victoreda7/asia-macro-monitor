@@ -7,23 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T02:42:43.278097+00:00
+Última coleta: 2026-10-22T02:52:43.755335+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          983
+  🇯🇵 Japão          978
   🇨🇳 China          858
   🇹🇼 Taiwan         356
-  🇰🇷 Coreia do Sul  803
+  🇰🇷 Coreia do Sul  808
 
 ## O que já está no feed (não repita)
 
+  - [korea] BOK Gov: Preemptive Move in August Gives Policymakers More Room to Maneuver
+  - [korea] BOK Gov: Timing of Further Rate Increases Will Depend on Assessment of Incoming Data
+  - [korea] Samsung E&A recorded an operating profit of KRW 5006 billion in the third quarter of this year.
+  - [korea] Bank of Korea Gov: Will Maintain Tight Policy Stance Until Inflation Converges Toward Target
   - [korea] (URGENT) Strengthening won likely helps boost consumption in S. Korea: BOK Gov. Shin
+  - [china] China buys nearly 1 million tons of Australian canola for 2027 shipment, traders say
   - [korea] Bank of Korea base interest rate frozen at 3.00% per annum... Speed ​​adjustment after 2 consecutive raises
   - [japan] Japan's Nikkei slips as chip stocks come under pressure due to wariness over AI investment
   - [japan] Japan's Nikkei slips as chip shares pressured by AI capex caution
   - [korea] Bank of Korea holds rates, upbeat outlook points to future hikes
   - [korea] Bank of Korea freezes base interest rate at 3.0% per annum... Will it be raised in November after taking a bre
   - [korea] South Korean won strengthens most among Asian currencies
+  - [korea] BOK holds rate at 3%, leaves door open to November hike
   - [korea] [Full text] Bank of Korea Monetary Policy Committee October monetary policy direction
   - [korea] [Full text] Bank of Korea Monetary Policy Committee October monetary policy direction decision statement
   - [japan] Japan's strong-armed $21 bln chip bet is low risk
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] (LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes
   - [korea] Bank of Korea freezes base interest rate at 3.00% per annum... Take a breath after two consecutive raises
   - [japan] Singapore Dollar Gains Appeal as Carry-Trade Funding Currency Relative to Yen
-  - [japan] Japan MOF To Auction Y3.3T Of TD-Bills Oct 29
-  - [korea] Vice budget minister calls Future Fund 'fiscal innovation' for future growth
-  - [korea] BOK holds key rate steady at 3% after 2 consecutive rate hikes
-  - [korea] BOK pauses rate hikes as inflation, debt concerns linger
-  - [korea] BOK holds key rate steady at 3 pct
-  - [korea] Bank of Korea Holds Rate Steady After Back-to-Back Hikes
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T02:42:43+00:00",
+      "published_utc": "2026-10-22T02:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
