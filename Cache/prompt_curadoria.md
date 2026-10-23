@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T08:02:44.747252+00:00
+Última coleta: 2026-10-23T08:12:44.652200+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          993
@@ -18,9 +18,9 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [japan] Japan's Nippon Life plans cuts to JGB holdings for 2nd straight year, will hang on to OATs
+  - [japan] Euro set for weekly drop, yen eyes biggest gain since early September
   - [japan] Rising Wages Help Japanese Households Absorb Higher Rates, BOJ Says — Market Talk
   - [china] China Likely Exception to Hawkish Asian Central Banks View — Market Talk
-  - [japan] Euro set for weekly drop, yen eyes biggest gain since early September
   - [japan] BoJ Likely to Keep Policy Rate Unchanged Next Week — Market Talk
   - [japan] BOJ Sees Limited Risk to Japanese Companies From Oil Shock — Market Talk
   - [japan] Bank of Japan decides to reach 2% inflation target, postpones interest rate hike after 14 years, October meeti
@@ -43,7 +43,6 @@ Total: 3000 manchetes
   - [korea] South Korean economy’s growth likely picked up in Q3 on chip exports: Reuters poll
   - [japan] USD/JPY: Yen Hits 5-Week High at ¥156.10 as US Yields Slide, Japan Inflation Hits 2026 Peak
   - [korea] South Korean economy's growth likely picked up in Q3 on chip exports
-  - [japan] Yen set for weekly gain as AI jitters spur safe-haven rush
   - [japan] BOJ chief Ueda to speak at IMF lecture on November 6
   - [taiwan] Executive Yuan approves draft tax incentives for TISAs
   - [china] China Politburo calls for stronger leadership teams, deeper reforms
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [china] China's yuan holds steady, set for fourth weekly rise
   - [korea] SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns
   - [japan] Asia FX steadies as oil surge weighs on risk appetite, yen holds gains
+  - [japan] September consumer prices +2.1% compared to the same month last year, the first time in nine months that the i
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T08:02:44+00:00",
+      "published_utc": "2026-10-23T08:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
