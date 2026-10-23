@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T10:02:42.744754+00:00
+Última coleta: 2026-10-23T10:12:43.965329+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
-  🇨🇳 China          839
+  🇨🇳 China          840
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  795
+  🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision
   - [taiwan] Taiwan industrial production up for 31st straight month in September
   - [china] The central bank will carry out 700 billion yuan MLF operation!
+  - [china] Central Bank: 700 billion yuan MLF operation will be carried out on October 26
   - [china] China's Hisense Home Appliances nine-month revenue falls on forex impact
   - [korea] SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount— WSJ
   - [japan] Bank of Japan warns of risks from AI market shock, cyberattacks
@@ -43,6 +44,7 @@ Total: 3000 manchetes
   - [japan] BoJ Likely to Keep Policy Rate Unchanged Next Week — Market Talk
   - [japan] BOJ Sees Limited Risk to Japanese Companies From Oil Shock — Market Talk
   - [japan] Bank of Japan decides to reach 2% inflation target, postpones interest rate hike after 14 years, October meeti
+  - [china] China Barely Eased Austerity Just Before Shift to Stimulus Mode
   - [japan] Consumption tax reduction bill begins substantive deliberation in the House of Representatives Finance and Fin
   - [japan] Japan futures slide as yen strengthens, logs weekly gain
   - [korea] BOK chief signals hawkish stance amid outlook for higher growth, rates
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China's Chery expects overseas-manufactured vehicles to top 50% of exports, exec says
   - [japan] Foreign Minister Motegi holds U.S.-China-Russia summit meeting, communicates closely with U.S.
   - [japan] Fanuc Corp Says It Will Buy Back Up To 1.08% Of Own Shares Worth 500 Billion Yen
-  - [korea] Hanwha takes Korean defense, manufacturing ETFs to Abu Dhabi
-  - [japan] Medipal Holdings Corp Says It Will Buy Back Up To 2% Of Own Shares Worth 10 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T10:02:42+00:00",
+      "published_utc": "2026-10-23T10:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
