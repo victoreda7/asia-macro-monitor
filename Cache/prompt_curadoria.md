@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T12:42:42.126825+00:00
+Última coleta: 2026-10-23T12:52:42.333147+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          987
+  🇯🇵 Japão          986
   🇨🇳 China          844
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  794
+  🇰🇷 Coreia do Sul  795
 
 ## O que já está no feed (não repita)
 
+  - [korea] Micron pivots from 4F² to 3D DRAM, differing from rivals Samsung, SK Hynix: Wedbush
+  - [china] The People's Bank of China will launch a 700 billion yuan MLF operation
   - [korea] What's Going On With SK Hynix Stock Friday
   - [korea] SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com
   - [korea] SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China's fiscal revenue slows to 5.1% growth in January-September period; land sales revenue falls 27.9% (Reute
   - [taiwan] Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer
   - [china] China’s January-September fiscal revenue up 5.1% y/y
-  - [taiwan] Taiwan Jobless Rate at 3.33% in September
-  - [korea] Chip-Price Inflation Serves as Growth Driver for South Korea, Taiwan — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T12:42:42+00:00",
+      "published_utc": "2026-10-23T12:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
