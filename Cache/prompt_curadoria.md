@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T05:53:22.152387+00:00
+Última coleta: 2026-10-23T06:02:43.903305+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          993
-  🇨🇳 China          837
+  🇯🇵 Japão          991
+  🇨🇳 China          836
   🇹🇼 Taiwan         368
-  🇰🇷 Coreia do Sul  802
+  🇰🇷 Coreia do Sul  805
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why SK hynix shelved Solidigm's $150b US IPO plan
+  - [korea] South Korea central bank governor says stronger won is appropriate
+  - [korea] South Korean economy’s growth likely picked up in Q3 on chip exports: Reuters poll
   - [japan] USD/JPY: Yen Hits 5-Week High at ¥156.10 as US Yields Slide, Japan Inflation Hits 2026 Peak
   - [korea] South Korean economy's growth likely picked up in Q3 on chip exports
   - [japan] Consumption tax reduction bill begins substantive deliberation in the House of Representatives Finance and Fin
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launches 258 billion yuan overnight reverse repurchase operation
   - [japan] Bitcoin Faces 2 December Rate Hikes as Japan’s Inflation Clears the BOJ’s Target
   - [japan] The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly revie
-  - [japan] Asian shares wobble as tech rout boosts bonds, dents rate hike bets By Reuters
-  - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike — Update
-  - [korea] SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO On Market Jitters —Update
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T05:53:22+00:00",
+      "published_utc": "2026-10-23T06:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
