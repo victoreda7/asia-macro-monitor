@@ -7,23 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T01:02:44.508200+00:00
+Última coleta: 2026-10-23T01:12:43.943213+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          977
-  🇨🇳 China          846
+  🇯🇵 Japão          979
+  🇨🇳 China          845
   🇹🇼 Taiwan         369
-  🇰🇷 Coreia do Sul  808
+  🇰🇷 Coreia do Sul  807
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix abandons plan for US unit's IPO, citing market volatility
+  - [korea] Kospi drops on AI funding worries, oil-driven inflation fears
+  - [korea] Why is SK Hynix stock sliding today?
+  - [korea] Why is Samsung Electronics stock declining today?
   - [japan] Benchmark JGB yields hit 2-month lows as tech selloff spurs safe-haven demand
+  - [japan] Japan factory activity slows in Oct, services improve, PMI shows
   - [japan] JGB Yields Drop as Stocks Decline; French Debt Woes in Focus — Market Talk
-  - [japan] Japan manufacturing growth slows to 7-month low in October, PMI shows
   - [korea] SK Hynix says Solidigm suspends review of US IPO, citing market volatility
   - [japan] Japan Manufacturing Growth Eases to 7-Month Low
   - [japan] Japan Composite PMI Stays at 4-Month Low
   - [japan] ``Will not answer hypothetical questions'' on whether there will be any changes to the joint statement regardi
+  - [japan] Japan manufacturing growth slows to 7-month low in October, PMI shows
   - [korea] SK hynix halts review of Solidigm US IPO
   - [japan] Japan is not yet officially out of deflation, economy minister says
   - [japan] Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target By Investing.com
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Jumps as Traders Seek Safety Amid Global Risk Averse Pivot
   - [japan] JAPAN SEPT CORE CPI (EXCLUDING FRESH FOOD) +2.1% Y/Y, 61ST STRAIGHT RISE (AUG +1.7%); MEDIAN FORECAST +2.1%
   - [japan] Japan Sept core CPI rises 2.1% yr/yr
-  - [korea] SK Hynix says Solidigm drops plan for US IPO amid market volatility
-  - [japan] Japan Inflation Data Due On Friday
-  - [japan] USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen
-  - [korea] SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility
-  - [korea] SK Hynix drops US IPO plan for Solidigm, newspaper reports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T01:02:44+00:00",
+      "published_utc": "2026-10-23T01:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
