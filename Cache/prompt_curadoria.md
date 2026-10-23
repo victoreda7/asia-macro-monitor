@@ -7,25 +7,35 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T00:02:42.877267+00:00
+Última coleta: 2026-10-23T00:12:44.101310+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          970
-  🇨🇳 China          851
+  🇯🇵 Japão          975
+  🇨🇳 China          846
   🇹🇼 Taiwan         369
   🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
-  - [japan] September consumer price index excluding fresh food +2.1% compared to the same month last year
-  - [japan] MNI JAPAN SEPT CORE CPI +2.1% Y/Y; AUG +1.7%
+  - [japan] Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target By Investing.com
+  - [korea] Key facts: SK hynix (000660) heavy foreign net selling; Q3 HBM focus
+  - [japan] Japan is not yet officially out of deflation, economy minister says
+  - [korea] SK Hynix Pulls the Plug On Solidigm’s US IPO Amid Regulatory Pushback
   - [japan] Japan core inflation exceeds BOJ target, cements near-term rate hike chance
+  - [japan] JAPAN SEPT CORE-CORE CPI +2.4% Y/Y; AUG +1.9%
+  - [japan] September consumer price index excluding fresh food +2.1% compared to the same month last year
+  - [japan] JAPAN SEPT CPI: HOTEL FEES +4.6% (+0.05 POINT CONTRIBUTION), UP SHARPLY FROM -1.4% (-0.02 POINT) IN AUG DUE TO
+  - [japan] Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target
+  - [japan] Japan Food Prices Rise the Least Since 2022
+  - [japan] MNI JAPAN SEPT CORE CPI +2.1% Y/Y; AUG +1.7%
   - [japan] JAPAN SEPT CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +2.0% VS. +1.5% IN AUG; GOODS (EX-FRESH FOOD) +2.8% VS. +
   - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
   - [japan] JAPAN SEPT CPI: ENERGY PRICES -0.6% Y/Y (-0.04 POINT) VS. -0.7% (-0.05 PT) IN AUG
   - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike
+  - [japan] Japan Inflation Rate Hits 9-Month High
   - [korea] SK Hynix scraps Solidigm IPO plans, citing market conditions
   - [japan] JAPAN SEPT CPI: PROCESSED FOOD +2.9% (+0.69 POINT CONTRIBUTION) VS. +2.7% (+0.64 PT) IN AUG
+  - [japan] Japan Core Inflation Rises Above BoJ Target
   - [japan] JAPAN SEPT CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.4% Y/Y, 54TH STRAIGHT RISE (AUG +1.9%); MEDIAN FORECAST +2
   - [japan] JAPAN SEPT TOTAL CPI +2.1% Y/Y, 61ST STRAIGHT RISE (AUG +1.9%); MEDIAN FORECAST +2.1%
   - [japan] JAPAN SEPT INFLATION PICKS UP AS TOKYO’S SUMMER FREE BASE WATER CHARGE PROGRAM ENDS FOR SOME USERS, BASE YEAR 
@@ -47,16 +57,6 @@ Total: 3000 manchetes
   - [japan] Unexpected combination and convincing reason (2026 Nobel Prize in Economics): Hall, Woodford contributed to ef
   - [korea] BOK Financial Price Target Cut to $140.00/Share From $146.00 by Citigroup
   - [taiwan] TSMC Looks Beyond China for Critical Chip Equipment Materials
-  - [china] US blocks two devices with Chinese-made surveillance chips
-  - [china] China copper import premium hits highest since 2014
-  - [japan] Equity Rebound Stutters as Oil Spikes Again, Yen Gains From AI Jitters
-  - [china] China's blue chips slump to 15-month lows as AI stocks slide
-  - [china] Vietnam surpasses China as Brazil's main source of steel imports
-  - [china] PBOC Details Yuan Access as Cross-Border Use Grows
-  - [japan] Nippon Steel to invest $3 billion in modernizing U.S. Steel factory equipment, says Nikkei
-  - [korea] Base interest rate frozen at 3%... Governor of the Bank of Korea criticizes fiscal policy
-  - [china] Alibaba Drops as China Tightens E-Commerce Standards
-  - [korea] BOK pauses in its tightening campaign with policy rates at 3%; November hike on the table
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T00:02:43+00:00",
+      "published_utc": "2026-10-23T00:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
