@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T00:22:42.213737+00:00
+Última coleta: 2026-10-23T00:32:42.956474+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          976
+  🇯🇵 Japão          975
   🇨🇳 China          846
   🇹🇼 Taiwan         369
-  🇰🇷 Coreia do Sul  809
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan manufacturing growth slows to 7-month low in October, PMI shows
+  - [korea] SK hynix halts review of Solidigm US IPO
+  - [japan] Japan is not yet officially out of deflation, economy minister says
   - [japan] Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target By Investing.com
   - [japan] Japanese Yen Hits 5-week High
   - [korea] Key facts: SK hynix (000660) heavy foreign net selling; Q3 HBM focus
-  - [japan] Japan is not yet officially out of deflation, economy minister says
   - [korea] SK Hynix Pulls the Plug On Solidigm’s US IPO Amid Regulatory Pushback
   - [japan] Japan core inflation exceeds BOJ target, cements near-term rate hike chance
   - [japan] JAPAN SEPT CORE-CORE CPI +2.4% Y/Y; AUG +1.9%
@@ -46,17 +48,15 @@ Total: 3000 manchetes
   - [japan] Japan Sept core CPI rises 2.1% yr/yr
   - [korea] SK Hynix says Solidigm drops plan for US IPO amid market volatility
   - [japan] Japan Inflation Data Due On Friday
-  - [japan] USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen
   - [korea] SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility
   - [korea] SK Hynix drops US IPO plan for Solidigm, newspaper reports
   - [korea] SK Hynix drops Solidigm US IPO plan, according to newspaper report
   - [japan] Yen on track to gain from US midterm elections and France unrest
   - [china] China’s Bank Wealth Management Market Reaches 35.4 Trillion Yuan
+  - [japan] USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen
   - [china] China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering
   - [japan] Dollar slips while yen jumps to five-week high as traders flock to safe havens
   - [china] EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia
-  - [japan] Unexpected combination and convincing reason (2026 Nobel Prize in Economics): Hall, Woodford contributed to ef
-  - [korea] BOK Financial Price Target Cut to $140.00/Share From $146.00 by Citigroup
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T00:22:42+00:00",
+      "published_utc": "2026-10-23T00:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

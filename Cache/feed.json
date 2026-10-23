@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T00:22:42.213737+00:00",
- "collected_at_utc": "2026-10-23T00:22:42.213737+00:00",
+ "generated_at_utc": "2026-10-23T00:32:42.956474+00:00",
+ "collected_at_utc": "2026-10-23T00:32:42.956474+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 976,
+  "japan": 975,
   "china": 846,
   "taiwan": 369,
-  "korea": 809
+  "korea": 810
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T00:00:46+00:00"
+   "newest": "2026-10-23T00:23:50+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-22T23:54:17+00:00"
+   "newest": "2026-10-23T00:12:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-22T08:47:38+00:00"
+   "newest": "2026-10-23T00:28:53+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T00:21:24+00:00"
+   "newest": "2026-10-23T00:31:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T23:55:13+00:00"
+   "newest": "2026-10-23T00:01:04+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -344,6 +344,59 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan manufacturing growth slows to 7-month low in October, PMI shows",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_ZRN00EPCO:0-japan-manufacturing-growth-slows-to-7-month-low-in-october-pmi-shows/",
+   "published_utc": "2026-10-23T00:30:31+00:00",
+   "title_original": "Japan manufacturing growth slows to 7-month low in October, PMI shows",
+   "region": "japan",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "87aef591c0d6dafe"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "SK hynix halts review of Solidigm US IPO",
+   "url": "https://www.koreaherald.com/article/10912278",
+   "published_utc": "2026-10-23T00:28:53+00:00",
+   "title_original": "SK hynix halts review of Solidigm US IPO",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0a5ed9f48df9ffbc"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Japan is not yet officially out of deflation, economy minister says",
+   "url": "https://www.investing.com/news/economy-news/japan-is-not-yet-officially-out-of-deflation-economy-minister-says-4967852",
+   "published_utc": "2026-10-23T00:12:19+00:00",
+   "title_original": "Japan is not yet officially out of deflation, economy minister says",
+   "region": "japan",
+   "topics": [
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ea387714250f51fc"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com South Africa",
    "title_en": "Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target By Investing.com",
@@ -394,24 +447,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3d88dae488d7333f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan is not yet officially out of deflation, economy minister says",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45S02B:0-japan-is-not-yet-officially-out-of-deflation-economy-minister-says/",
-   "published_utc": "2026-10-22T23:56:22+00:00",
-   "title_original": "Japan is not yet officially out of deflation, economy minister says",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "182f372db7dabf04"
   },
   {
    "source_id": "tradingview_live",
@@ -843,23 +878,6 @@
    "id": "abfe0c2edffabbef"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjBuQkcwQ29IaENVRWE4cjU3bzFxRGtSSU5sUTBhQ3pxOV8zOWFDRE5ZUHJleTZyN04yYXhYZ0pYVk1OQTgxS2F4a2sxU284aEc1SFZ2TG1rUGZudk9RNFZFRFlEb3VsVVFpcVRxMlhzMW9feGZwSFZ2bjBNckJYZFNhd0w1STNMZEtJdFgwbllhVlp5d3lrWUZveDV2Yk5jajE5b0NzRGs5UQ?oc=5",
-   "published_utc": "2026-10-22T22:14:23+00:00",
-   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "75b25107071fc789"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility",
@@ -943,6 +961,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6c4c3afc2afea619"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3czTU9vU0R1MUs1S2U5UmdQX2s5THdMSnppZVpzbkMxQzJfX0JyY1o2MHVpX1h3b2ZzREhWZ0VEeEw0YTVIOFp4X19oWjlFYWJpaFhYMmItTUpFYU83bllCWjZDSXd2RlR6U3hoOHVxOFNJbGJybkNUVHFPTEZrRWVvNm02Z0E0c09oY3V2c3VHejJ1UEFRX3BxRUZtMDRUdnNGbTFB?oc=5",
+   "published_utc": "2026-10-22T21:09:57+00:00",
+   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "099657ed920ba39c"
   },
   {
    "source_id": "toyo_keizai",
@@ -3726,8 +3761,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -3741,7 +3776,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -5265,7 +5300,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
-   "published_utc": "2026-10-21T01:56:01+00:00",
+   "published_utc": "2026-10-21T01:56:00+00:00",
    "title_original": "央行开展800亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -6424,8 +6459,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -6439,7 +6474,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -6956,8 +6991,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -6971,7 +7006,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -8979,8 +9014,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -8994,7 +9029,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51898,41 +51933,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0c19e84c4a8adf14"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "Bank of Japan debated need for faster rate hikes, July minutes show",
-   "url": "https://www.investing.com/news/economy-news/bank-of-japan-debated-need-for-faster-rate-hikes-july-minutes-show-4919225",
-   "published_utc": "2026-09-28T01:55:15+00:00",
-   "title_original": "Bank of Japan debated need for faster rate hikes, July minutes show",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e2252864130ee455"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Opinions on accelerating the pace of interest rate hikes emerge, wary of upward movement in prices; Bank of Japan July meeting (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PaFE4a3BRaFZrNld2QzhJcHhyTWZENkN6RnB0OFA4ZHJ2RTR0X0RpdkJiSGMtbnJGdndacWQ0UU5UbzRMMmE2eF9sSkRmcEVMQ1loVURVOHBIcWhadGx1X21NYWlKT0RWNU5uVVVTeEhEakY1SUxRejRybWJ4VG8?oc=5",
-   "published_utc": "2026-09-28T01:49:59+00:00",
-   "title_original": "利上げペース加速の意見相次ぐ 物価上振れに警戒 日銀7月会合（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1802778ce5e1097e"
   },
   {
    "source_id": "manual_ia",
