@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T14:02:44.958473+00:00
+Última coleta: 2026-10-23T14:12:47.232679+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          986
+  🇯🇵 Japão          985
   🇨🇳 China          846
   🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  794
+  🇰🇷 Coreia do Sul  795
 
 ## O que já está no feed (não repita)
 
+  - [korea] Apro: AT begins KRW spot trading on Bithumb - 23 Oct 2026
   - [korea] SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com
   - [china] BGI Genomics Q3 Net Profit At 2.9 Million Yuan
   - [japan] German Chancellor Merz will visit Japan next week to hold a summit meeting with Prime Minister Takaichi
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan industrial production up for 31st straight month in September
   - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision
   - [china] The central bank will carry out 700 billion yuan MLF operation!
-  - [china] Central Bank: 700 billion yuan MLF operation will be carried out on October 26
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T14:02:45+00:00",
+      "published_utc": "2026-10-23T14:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
