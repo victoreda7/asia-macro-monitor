@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T15:52:44.850456+00:00
+Última coleta: 2026-10-23T16:02:42.501824+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          984
@@ -31,7 +31,6 @@ Total: 3000 manchetes
   - [china] Hang Zhou Iron & Steel Q3 Net Loss At 108.7 Million Yuan
   - [japan] Japan-Micronesia summit meeting confirms further strengthening of bilateral relations
   - [china] The central bank launched a 700 billion yuan medium-term lending facility (MLF) operation on October 26_Compan
-  - [china] The central bank will launch an MLF operation of 700 billion yuan on October 26, with a reduction of 200 billi
   - [korea] Micron pivots from 4F² to 3D DRAM, differing from rivals Samsung, SK Hynix: Wedbush
   - [china] The central bank takes action! The 700 billion yuan MLF operation is coming
   - [korea] What's Going On With SK Hynix Stock Friday
@@ -47,6 +46,7 @@ Total: 3000 manchetes
   - [china] Wingtech Says Q3 Net Loss At 216.6 Million Yuan
   - [korea] SK Hynix Scraps U.S. IPO of Memory-Chip Unit. Why the Stock Is Jumping. — Barrons.com
   - [china] Ziyuanyuan Holdings' Unit Enters Cooperation Framework Agreement With Shenzhen Shenshu
+  - [china] The central bank will launch an MLF operation of 700 billion yuan on October 26, with a reduction of 200 billi
   - [korea] SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns
   - [china] HKEX launches AI and semiconductor indexes, licenses AI index in China
   - [korea] South Korea to amend forex law to regulate stablecoins as payment instruments: report
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T15:52:45+00:00",
+      "published_utc": "2026-10-23T16:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
