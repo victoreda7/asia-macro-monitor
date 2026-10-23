@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T08:22:45.502517+00:00
+Última coleta: 2026-10-23T08:32:44.177984+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          993
-  🇨🇳 China          837
+  🇯🇵 Japão          992
+  🇨🇳 China          838
   🇹🇼 Taiwan         373
   🇰🇷 Coreia do Sul  797
 
 ## O que já está no feed (não repita)
 
+  - [korea] Chip-Price Inflation Serves as Growth Driver for South Korea, Taiwan — Market Talk
+  - [japan] Japan weighs phasing out gasoline subsidies from December as costs mount, officials say
+  - [china] Hong Kong Monetary Authority designates 12 banks as primary liquidity providers for offshore yuan market
   - [china] China's January-September fiscal revenue up 5.1% y/y
   - [japan] Japan's Nippon Life plans cuts to JGB holdings for 2nd straight year, will hang on to OATs
   - [japan] Euro set for weekly drop, yen eyes biggest gain since early September
@@ -31,6 +34,7 @@ Total: 3000 manchetes
   - [japan] Japan's Nikkei Falls, JGBs Soar as AI Jitters Spur Demand for Safe Assets
   - [korea] Kospi drops on AI funding worries, oil-driven inflation fears
   - [taiwan] Taiwan manufacturers' business sentiment hits 54-month high
+  - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate
   - [china] China's Chery expects overseas-manufactured vehicles to top 50% of exports, exec says
   - [japan] Foreign Minister Motegi holds U.S.-China-Russia summit meeting, communicates closely with U.S.
   - [japan] Fanuc Corp Says It Will Buy Back Up To 1.08% Of Own Shares Worth 500 Billion Yen
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] China stocks slide as blue chips head for longest weekly losing streak
   - [japan] BOJ Likely to Hike Three More Times, Taking Policy Rate to 2% — Market Talk
   - [china] When Typhoon Qiangbi hit, the central bank continued to provide foreign currency funds of US$585 million | San
-  - [china] China's yuan holds steady, set for fourth weekly rise
-  - [korea] SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns
-  - [japan] Asia FX steadies as oil surge weighs on risk appetite, yen holds gains
-  - [japan] September consumer prices +2.1% compared to the same month last year, the first time in nine months that the i
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T08:22:45+00:00",
+      "published_utc": "2026-10-23T08:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
