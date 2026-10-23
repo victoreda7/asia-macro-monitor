@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-22T23:52:46.853896+00:00
+Última coleta: 2026-10-23T00:02:42.877267+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          969
-  🇨🇳 China          853
-  🇹🇼 Taiwan         368
+  🇯🇵 Japão          970
+  🇨🇳 China          851
+  🇹🇼 Taiwan         369
   🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
@@ -30,21 +30,21 @@ Total: 3000 manchetes
   - [japan] JAPAN SEPT TOTAL CPI +2.1% Y/Y, 61ST STRAIGHT RISE (AUG +1.9%); MEDIAN FORECAST +2.1%
   - [japan] JAPAN SEPT INFLATION PICKS UP AS TOKYO’S SUMMER FREE BASE WATER CHARGE PROGRAM ENDS FOR SOME USERS, BASE YEAR 
   - [korea] SK Hynix Shelves Plans for U.S. Listing of Memory-Chip Unit Solidigm
+  - [japan] Yen Jumps as Traders Seek Safety Amid Global Risk Averse Pivot
   - [japan] JAPAN SEPT CORE CPI (EXCLUDING FRESH FOOD) +2.1% Y/Y, 61ST STRAIGHT RISE (AUG +1.7%); MEDIAN FORECAST +2.1%
   - [japan] Japan Sept core CPI rises 2.1% yr/yr
   - [korea] SK Hynix says Solidigm drops plan for US IPO amid market volatility
   - [japan] Japan Inflation Data Due On Friday
+  - [japan] USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen
   - [korea] SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility
   - [korea] SK Hynix drops US IPO plan for Solidigm, newspaper reports
   - [korea] SK Hynix drops Solidigm US IPO plan, according to newspaper report
   - [japan] Yen on track to gain from US midterm elections and France unrest
   - [china] China’s Bank Wealth Management Market Reaches 35.4 Trillion Yuan
-  - [japan] USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen
   - [china] China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering
   - [japan] Dollar slips while yen jumps to five-week high as traders flock to safe havens
   - [china] EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia
   - [japan] Unexpected combination and convincing reason (2026 Nobel Prize in Economics): Hall, Woodford contributed to ef
-  - [japan] Yen Jumps as Traders Seek Safety Amid Global Risk Averse Pivot
   - [korea] BOK Financial Price Target Cut to $140.00/Share From $146.00 by Citigroup
   - [taiwan] TSMC Looks Beyond China for Critical Chip Equipment Materials
   - [china] US blocks two devices with Chinese-made surveillance chips
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-22T23:52:47+00:00",
+      "published_utc": "2026-10-23T00:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
