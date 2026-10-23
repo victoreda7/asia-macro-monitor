@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T11:32:44.850402+00:00
+Última coleta: 2026-10-23T11:42:45.169230+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          989
-  🇨🇳 China          843
+  🇯🇵 Japão          988
+  🇨🇳 China          844
   🇹🇼 Taiwan         375
   🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [china] Wuhan Tianyuan Group's Consortium Wins 3.6 Billion Yuan Bid For Project
   - [japan] Euro set for weekly drop against dollar, yen as France concerns resurface
   - [china] China issues guidelines to promote employment amid AI advances
   - [china] Could Europe’s cost-of-living protests sharpen EU-China trade tensions?
@@ -31,6 +32,7 @@ Total: 3000 manchetes
   - [china] HKEX launches AI and semiconductor indexes, licenses AI index in China
   - [korea] South Korea to amend forex law to regulate stablecoins as payment instruments: report
   - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate
+  - [china] Charts of the Day: Solar Exports Surge in September
   - [china] China sells offshore yuan bonds in Hong Kong at record-low yields
   - [japan] Bank of Japan: Inflation likely to reach 2% inflation
   - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%; further interest rate hikes may be pos
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Rising Wages Help Japanese Households Absorb Higher Rates, BOJ Says — Market Talk
   - [china] China Likely Exception to Hawkish Asian Central Banks View — Market Talk
   - [japan] BoJ Likely to Keep Policy Rate Unchanged Next Week — Market Talk
-  - [japan] BOJ Sees Limited Risk to Japanese Companies From Oil Shock — Market Talk
-  - [japan] Bank of Japan decides to reach 2% inflation target, postpones interest rate hike after 14 years, October meeti
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T11:32:45+00:00",
+      "published_utc": "2026-10-23T11:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
