@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T08:52:43.405051+00:00",
- "collected_at_utc": "2026-10-23T08:52:43.405051+00:00",
+ "generated_at_utc": "2026-10-23T09:02:43.071816+00:00",
+ "collected_at_utc": "2026-10-23T09:02:43.071816+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 992,
-  "china": 838,
+  "japan": 990,
+  "china": 839,
   "taiwan": 374,
-  "korea": 796
+  "korea": 797
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-23T08:51:52+00:00"
+   "newest": "2026-10-23T08:55:15+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T16:59:52+09:00"
+   "newest": "2026-10-23T17:51:54+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T17:41:31+09:00"
+   "newest": "2026-10-23T17:53:50+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 30,
    "error": "",
    "newest": "2026-10-23T01:26:44+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T08:51:56+00:00"
+   "newest": "2026-10-23T09:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's Hisense Home Appliances nine-month revenue falls on forex impact",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4690CF:0-china-s-hisense-home-appliances-nine-month-revenue-falls-on-forex-impact/",
+   "published_utc": "2026-10-23T08:56:31+00:00",
+   "title_original": "China's Hisense Home Appliances nine-month revenue falls on forex impact",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c2756417e97cd174"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount— WSJ",
+   "url": "https://www.tradingview.com/news/DJN_DN20261023002408:0-sk-hynix-pauses-ipo-of-memory-chip-unit-as-ai-valuation-fears-mount-wsj/",
+   "published_utc": "2026-10-23T08:55:00+00:00",
+   "title_original": "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount— WSJ",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "84ae503040733c2a"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -1142,25 +1176,6 @@
    "id": "9036d477ab48e0d7"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ Likely to Declare It Achieved 2% Inflation Target in Upcoming Meeting — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261022014450:0-boj-likely-to-declare-it-achieved-2-inflation-target-in-upcoming-meeting-market-talk/",
-   "published_utc": "2026-10-23T03:48:00+00:00",
-   "title_original": "BOJ Likely to Declare It Achieved 2% Inflation Target in Upcoming Meeting — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b35e13396177497d"
-  },
-  {
    "source_id": "gn_asia_ft",
    "source_name": "Financial Times",
    "title_en": "Yen rallies as global tech rout sparks flight to safety",
@@ -1176,23 +1191,6 @@
    "live_wire": false,
    "manual": false,
    "id": "521753a0a7cbef3d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro",
-   "url": "https://www.tradingview.com/news/DJN_DN20261022014442:0-yen-strengthens-on-french-debt-woes-hits-one-year-high-against-euro/",
-   "published_utc": "2026-10-23T03:41:00+00:00",
-   "title_original": "Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "53fcbe3922a209ce"
   },
   {
    "source_id": "investing_live",
@@ -1336,8 +1334,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -1351,7 +1349,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1406,8 +1404,8 @@
    "id": "ab339f10ce551a59"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -1420,7 +1418,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -3361,7 +3359,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui DS Asset Management Chief Market Strategist] (THE GOLD ONLINE)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnZOVVJxcjhXaGF0bS1YdDFwbVRnWEEwYlh2NTdwVVJydFVpeVpINWFXNm1BbGxQRHRwV3NTVkN3bURrZGZybFhYVlFZRG1PTXc0QjYyMlVMcEtBVXphcnNXWEM3djV4OTc0djM0QjZ1eHo1SlhTNkZ2Z1dFa3pGVjJWbnJ1ZFZz?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MNUFnUWlkZUc3cElyWFFaV2ptNmNiOFJvQm85SkNHQzltZjBTOV9Ra09JVGRnTmVTLTdramVjdmlOejFqNlpveW5pQU5rQS1ON0JfZmMwMHNKQ0llQ3JHX1o0MkVpenpERGx1NktaRVNVUUdJZ085dE5DTk9Rdms?oc=5",
    "published_utc": "2026-10-22T05:12:15+00:00",
    "title_original": "2026年10月日銀政策会合プレビュー～今回の注目点を整理する【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】（THE GOLD ONLINE（ゴールドオンライン））",
    "region": "japan",
@@ -3373,7 +3371,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9faf0910794f29d5"
+   "id": "f1034c71bbfb07fa"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3655,7 +3653,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -3667,7 +3665,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -5015,8 +5013,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -5030,7 +5028,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -5997,23 +5995,6 @@
    "id": "e5cc372c63162978"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHNraGVxZVpzdVZzUjFvQlpfcXJRU2ZYdlJxdU5KY1k5ZVJCTGQtallhSmVkbjZFbDdmVE5NRTN1ODRMd3ltTUpkQWNTdy13NmQxZkhNZDVyOXFUU1o3OXlhQ3Nrc2RSRE05TmJQTkVTNnlseXdtd1NOMVdLdEo1cVU4OWlxMmk3S0Zvdg?oc=5",
-   "published_utc": "2026-10-21T06:08:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e277f33f899b7cc"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Samsung, SK Hynix upgrade China plants to make advanced memory chips - Reuters",
@@ -6099,6 +6080,23 @@
    "live_wire": false,
    "manual": false,
    "id": "4932d8c9ad5c811e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
+   "published_utc": "2026-10-21T05:02:00+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7b59d3d09f8c8605"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -7696,8 +7694,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -7711,7 +7709,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -8228,8 +8226,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -8243,7 +8241,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -9033,10 +9031,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "京报网",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
-   "published_utc": "2026-10-20T04:46:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
+   "published_utc": "2026-10-20T04:37:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -9047,7 +9045,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b8b7943e562e9e1"
+   "id": "113a63c4f4301728"
   },
   {
    "source_id": "gn_kr_bok",
@@ -9189,23 +9187,6 @@
    "live_wire": true,
    "manual": false,
    "id": "05280fdf996be8e6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByR1RCUXRvdzJXdko3eDhTNzJoTkk3dU9yczRUTTRVaFl0ZFRnNF9mZHBtQkp6d3BNMXQ3TDRyTlFCcGxkWUxNbXF1X1VQWEdNX1JHbmdPbURVWFhoVENCNUp5SVJBRm80UVpzRzRhNA?oc=5",
-   "published_utc": "2026-10-20T03:18:00+00:00",
-   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e4ac9994d10111b"
   },
   {
    "source_id": "toyo_keizai",
@@ -10318,6 +10299,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b474010cf2072a9c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "界面新闻",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
+   "published_utc": "2026-10-19T12:18:00+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16528f1711d07747"
   },
   {
    "source_id": "tradingview_live",
@@ -22526,6 +22524,23 @@
    "id": "66fc5a1202af3a7a"
   },
   {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Consumer prices in September 2026 increased by 0.9% year-on-year",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BNElXRTk5X29CUW84NHVVbjZCM3cwSmM2NTFnTl9femZNTW40YjEySkhtdXdOLWxmTUhDZXJibTdYTjRQdXI3UVllYzA4NUFCV0xLOFFtOXdzdk5fRlhQUmp4S0FyQ1pfbWpqdHI4Yw?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "title_original": "2026年9月份居民消费价格同比上涨0.9%",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "26d23ad3ac5b8403"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Seoul shares fall for 6th day on renewed AI concerns ahead of U.S. inflation data",
@@ -23408,23 +23423,6 @@
    "live_wire": false,
    "manual": false,
    "id": "98b79d54a87081b4"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Consumer prices in September 2026 increased by 0.9% year-on-year",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BNElXRTk5X29CUW84NHVVbjZCM3cwSmM2NTFnTl9femZNTW40YjEySkhtdXdOLWxmTUhDZXJibTdYTjRQdXI3UVllYzA4NUFCV0xLOFFtOXdzdk5fRlhQUmp4S0FyQ1pfbWpqdHI4Yw?oc=5",
-   "published_utc": "2026-10-14T01:30:00+00:00",
-   "title_original": "2026年9月份居民消费价格同比上涨0.9%",
-   "region": "china",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "26d23ad3ac5b8403"
   },
   {
    "source_id": "gn_jp_yahoo",

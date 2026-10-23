@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T08:52:43.405051+00:00
+Última coleta: 2026-10-23T09:02:43.071816+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          992
-  🇨🇳 China          838
+  🇯🇵 Japão          990
+  🇨🇳 China          839
   🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  796
+  🇰🇷 Coreia do Sul  797
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Hisense Home Appliances nine-month revenue falls on forex impact
+  - [korea] SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount— WSJ
   - [china] China’s January-September fiscal revenue up 5.1% y/y
   - [taiwan] Taiwan Jobless Rate at 3.33% in September
   - [korea] Chip-Price Inflation Serves as Growth Driver for South Korea, Taiwan — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung begins investing in additional capacity at Texas chip plant- report
   - [korea] SK Hynix trims losses after suspending chip unit Solidigm's IPO plans
   - [japan] Japan Flash PMI Signals Softening Demand as Inflation Risks Linger — Market Talk
-  - [japan] Japan inflation reaches highest level since December 2025
-  - [china] China stocks slide as blue chips head for longest weekly losing streak
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T08:52:43+00:00",
+      "published_utc": "2026-10-23T09:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
