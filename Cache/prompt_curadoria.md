@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T15:51:27.866333+00:00
+Última coleta: 2026-10-23T15:52:44.850456+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          984
@@ -33,6 +33,7 @@ Total: 3000 manchetes
   - [china] The central bank launched a 700 billion yuan medium-term lending facility (MLF) operation on October 26_Compan
   - [china] The central bank will launch an MLF operation of 700 billion yuan on October 26, with a reduction of 200 billi
   - [korea] Micron pivots from 4F² to 3D DRAM, differing from rivals Samsung, SK Hynix: Wedbush
+  - [china] The central bank takes action! The 700 billion yuan MLF operation is coming
   - [korea] What's Going On With SK Hynix Stock Friday
   - [china] The People's Bank of China will launch a 700 billion yuan MLF operation
   - [korea] SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares
@@ -41,7 +42,6 @@ Total: 3000 manchetes
   - [china] The central bank announced that it will carry out 700 billion yuan MLF operations
   - [japan] Euro set for weekly drop against dollar, yen as France concerns resurface
   - [china] Could Europe’s cost-of-living protests sharpen EU-China trade tensions?
-  - [china] The central bank takes action! The 700 billion yuan MLF operation is coming
   - [japan] September consumer prices +2.1% compared to the same month last year, the first time in nine months that the i
   - [taiwan] Taiwan's September jobless rate drops to 3.36%, lowest in 26 years
   - [china] Wingtech Says Q3 Net Loss At 216.6 Million Yuan
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T15:51:28+00:00",
+      "published_utc": "2026-10-23T15:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
