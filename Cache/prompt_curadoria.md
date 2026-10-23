@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T02:52:45.300408+00:00
+Última coleta: 2026-10-23T03:02:42.968576+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          985
-  🇨🇳 China          844
+  🇯🇵 Japão          986
+  🇨🇳 China          842
   🇹🇼 Taiwan         368
-  🇰🇷 Coreia do Sul  803
+  🇰🇷 Coreia do Sul  804
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Could Be in Tough Spot If Costs Curb Consumption — Market Talk
+  - [japan] Japan government, BOJ gap on inflation laid bare ahead of key policy meeting
+  - [korea] Krafton Target Price Cut to KRW210,000 From KRW 300,000 by Nomura>259960.SE
+  - [korea] Chainlink partners with LG CNS to drive Korean won stablecoin expansion
   - [korea] SK Hynix says Solidigm suspends review of US IPO, citing market volatility
   - [japan] Yen's Latest Rise Likely Driven by Safe-Haven Demand — Market Talk
   - [korea] South Korean won, Philippine peso rises the most among Asian FX
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Japanese Yen Hits 5-week High
   - [korea] Key facts: SK hynix (000660) heavy foreign net selling; Q3 HBM focus
   - [korea] SK Hynix Pulls the Plug On Solidigm’s US IPO Amid Regulatory Pushback
-  - [japan] Japan core inflation exceeds BOJ target, cements near-term rate hike chance
-  - [japan] JAPAN SEPT CORE-CORE CPI +2.4% Y/Y; AUG +1.9%
-  - [japan] September consumer price index excluding fresh food +2.1% compared to the same month last year
-  - [japan] JAPAN SEPT CPI: HOTEL FEES +4.6% (+0.05 POINT CONTRIBUTION), UP SHARPLY FROM -1.4% (-0.02 POINT) IN AUG DUE TO
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T02:52:45+00:00",
+      "published_utc": "2026-10-23T03:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
