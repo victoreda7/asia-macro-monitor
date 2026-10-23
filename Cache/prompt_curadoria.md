@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T16:45:24.366343+00:00
+Última coleta: 2026-10-23T16:52:44.744650+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          984
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan banks prepared to weather AI crash, global rate spike: BOJ stress test
   - [korea] Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says
   - [japan] Japan weighs rebranding energy, AI as defense spending under Trump pressure
   - [korea] SK Hynix and Samsung likely to boost shareholder returns as demand stays strong: BofA
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] EU Looks Beyond Cars for Next Round of China Trade Talks
   - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com
   - [japan] Bank of Japan: Inflation likely to reach 2% inflation
-  - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%; further interest rate hikes may be pos
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T16:45:24+00:00",
+      "published_utc": "2026-10-23T16:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
