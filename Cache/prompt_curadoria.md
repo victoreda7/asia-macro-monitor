@@ -7,20 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T08:42:45.592312+00:00
+Última coleta: 2026-10-23T08:52:43.405051+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          992
   🇨🇳 China          838
-  🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  797
+  🇹🇼 Taiwan         374
+  🇰🇷 Coreia do Sul  796
 
 ## O que já está no feed (não repita)
 
+  - [china] China’s January-September fiscal revenue up 5.1% y/y
+  - [taiwan] Taiwan Jobless Rate at 3.33% in September
   - [korea] Chip-Price Inflation Serves as Growth Driver for South Korea, Taiwan — Market Talk
   - [japan] Japan weighs phasing out gasoline subsidies from December as costs mount, officials say
   - [china] Hong Kong Monetary Authority designates 12 banks as primary liquidity providers for offshore yuan market
-  - [china] China's January-September fiscal revenue up 5.1% y/y
   - [japan] Japan's Nippon Life plans cuts to JGB holdings for 2nd straight year, will hang on to OATs
   - [japan] Euro set for weekly drop, yen eyes biggest gain since early September
   - [japan] Rising Wages Help Japanese Households Absorb Higher Rates, BOJ Says — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Flash PMI Signals Softening Demand as Inflation Risks Linger — Market Talk
   - [japan] Japan inflation reaches highest level since December 2025
   - [china] China stocks slide as blue chips head for longest weekly losing streak
-  - [japan] BOJ Likely to Hike Three More Times, Taking Policy Rate to 2% — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T08:42:45+00:00",
+      "published_utc": "2026-10-23T08:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
