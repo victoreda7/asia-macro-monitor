@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T14:42:43.145260+00:00
+Última coleta: 2026-10-23T14:52:43.978165+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          987
-  🇨🇳 China          846
+  🇨🇳 China          845
   🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  793
+  🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
+  - [korea] Woori Financial Group : Earnings topped KRW 1 trillion as stronger fees and lower credit costs supported retur
   - [china] China issues guidelines to promote employment amid AI advances
   - [korea] Apro: AT begins KRW spot trading on Bithumb - 23 Oct 2026
   - [korea] SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com
   - [taiwan] Taiwan industrial production up for 31st straight month in September
   - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision
-  - [china] The central bank will carry out 700 billion yuan MLF operation!
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T14:42:43+00:00",
+      "published_utc": "2026-10-23T14:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
