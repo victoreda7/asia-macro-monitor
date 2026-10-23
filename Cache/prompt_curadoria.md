@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T02:42:43.278094+00:00
+Última coleta: 2026-10-23T02:52:45.300408+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          984
+  🇯🇵 Japão          985
   🇨🇳 China          844
   🇹🇼 Taiwan         368
-  🇰🇷 Coreia do Sul  804
+  🇰🇷 Coreia do Sul  803
 
 ## O que já está no feed (não repita)
 
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [japan] Japan futures slide as yen strengthens, on track for second weekly loss
   - [china] The central bank launches 258 billion yuan overnight reverse repurchase operation
   - [japan] Yen shines as AI jitters spur safe-haven rush
+  - [japan] Bitcoin Faces 2 December Rate Hikes as Japan’s Inflation Clears the BOJ’s Target
   - [japan] The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly revie
   - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike — Update
   - [korea] SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO On Market Jitters —Update
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN SEPT CORE-CORE CPI +2.4% Y/Y; AUG +1.9%
   - [japan] September consumer price index excluding fresh food +2.1% compared to the same month last year
   - [japan] JAPAN SEPT CPI: HOTEL FEES +4.6% (+0.05 POINT CONTRIBUTION), UP SHARPLY FROM -1.4% (-0.02 POINT) IN AUG DUE TO
-  - [japan] Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T02:42:43+00:00",
+      "published_utc": "2026-10-23T02:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
