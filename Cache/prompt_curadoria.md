@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T10:42:43.804324+00:00
+Última coleta: 2026-10-23T10:52:41.727122+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          988
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] September consumer prices +2.1% compared to the same month last year, the first time in nine months that the i
   - [china] Wingtech Says Q3 Net Loss At 216.6 Million Yuan
   - [korea] SK Hynix Scraps U.S. IPO of Memory-Chip Unit. Why the Stock Is Jumping. — Barrons.com
   - [china] Ziyuanyuan Holdings' Unit Enters Cooperation Framework Agreement With Shenzhen Shenshu
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan futures slide as yen strengthens, logs weekly gain
   - [korea] BOK chief signals hawkish stance amid outlook for higher growth, rates
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Obtaining Shares in Subsidiaries
-  - [korea] SK Hynix shares soar 4.4% after Solidigm IPO cancellation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T10:42:44+00:00",
+      "published_utc": "2026-10-23T10:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
