@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T00:51:55.068182+00:00
+Última coleta: 2026-10-23T00:52:43.754054+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          975
+  🇯🇵 Japão          977
   🇨🇳 China          846
   🇹🇼 Taiwan         369
-  🇰🇷 Coreia do Sul  810
+  🇰🇷 Coreia do Sul  808
 
 ## O que já está no feed (não repita)
 
+  - [japan] Benchmark JGB yields hit 2-month lows as tech selloff spurs safe-haven demand
+  - [japan] JGB Yields Drop as Stocks Decline; French Debt Woes in Focus — Market Talk
   - [japan] Japan manufacturing growth slows to 7-month low in October, PMI shows
   - [korea] SK Hynix says Solidigm suspends review of US IPO, citing market volatility
+  - [japan] Japan Manufacturing Growth Eases to 7-Month Low
+  - [japan] Japan Composite PMI Stays at 4-Month Low
   - [japan] ``Will not answer hypothetical questions'' on whether there will be any changes to the joint statement regardi
   - [korea] SK hynix halts review of Solidigm US IPO
   - [japan] Japan is not yet officially out of deflation, economy minister says
@@ -48,15 +52,11 @@ Total: 3000 manchetes
   - [japan] Yen Jumps as Traders Seek Safety Amid Global Risk Averse Pivot
   - [japan] JAPAN SEPT CORE CPI (EXCLUDING FRESH FOOD) +2.1% Y/Y, 61ST STRAIGHT RISE (AUG +1.7%); MEDIAN FORECAST +2.1%
   - [japan] Japan Sept core CPI rises 2.1% yr/yr
+  - [korea] SK Hynix says Solidigm drops plan for US IPO amid market volatility
   - [japan] Japan Inflation Data Due On Friday
   - [japan] USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen
   - [korea] SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility
   - [korea] SK Hynix drops US IPO plan for Solidigm, newspaper reports
-  - [korea] SK Hynix drops Solidigm US IPO plan, according to newspaper report
-  - [japan] Yen on track to gain from US midterm elections and France unrest
-  - [china] China’s Bank Wealth Management Market Reaches 35.4 Trillion Yuan
-  - [china] China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering
-  - [japan] Dollar slips while yen jumps to five-week high as traders flock to safe havens
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T00:51:55+00:00",
+      "published_utc": "2026-10-23T00:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
