@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T03:02:42.968576+00:00
+Última coleta: 2026-10-23T03:12:47.524723+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          986
-  🇨🇳 China          842
+  🇯🇵 Japão          987
+  🇨🇳 China          841
   🇹🇼 Taiwan         368
   🇰🇷 Coreia do Sul  804
 
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [japan] Japan government, BOJ gap on inflation laid bare ahead of key policy meeting
   - [korea] Krafton Target Price Cut to KRW210,000 From KRW 300,000 by Nomura>259960.SE
   - [korea] Chainlink partners with LG CNS to drive Korean won stablecoin expansion
+  - [korea] Bank of Korea issues unprecedented warning against fiscal expansion: “If spending continues to increase, it wi
   - [korea] SK Hynix says Solidigm suspends review of US IPO, citing market volatility
   - [japan] Yen's Latest Rise Likely Driven by Safe-Haven Demand — Market Talk
   - [korea] South Korean won, Philippine peso rises the most among Asian FX
@@ -31,9 +32,11 @@ Total: 3000 manchetes
   - [japan] The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly revie
   - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike — Update
   - [korea] SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO On Market Jitters —Update
+  - [japan] Asian shares wobble as tech rout boosts bonds, dents rate hike bets
   - [china] CHINA PBOC CONDUCTS CNY258 BLN VIA O/N REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7180 FRI VS 6.7195
   - [japan] Japan weighs phasing out gasoline subsidies from December as costs mount, officials say
+  - [korea] South Korean Government and Central Bank Push to Regulate Stablecoins Through Foreign Exchange Law Revision
   - [china] The central bank launched a 258 billion yuan overnight reverse repurchase operation on October 23
   - [japan] Dollar Likely to Remain in 155-160 Yen Range in Near Term — Market Talk
   - [japan] Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix halts review of Solidigm US IPO
   - [japan] Japan is not yet officially out of deflation, economy minister says
   - [japan] Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target By Investing.com
-  - [japan] Japanese Yen Hits 5-week High
-  - [korea] Key facts: SK hynix (000660) heavy foreign net selling; Q3 HBM focus
-  - [korea] SK Hynix Pulls the Plug On Solidigm’s US IPO Amid Regulatory Pushback
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T03:02:43+00:00",
+      "published_utc": "2026-10-23T03:12:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

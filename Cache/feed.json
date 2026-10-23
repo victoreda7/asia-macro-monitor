@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T03:02:42.968576+00:00",
- "collected_at_utc": "2026-10-23T03:02:42.968576+00:00",
+ "generated_at_utc": "2026-10-23T03:12:47.524723+00:00",
+ "collected_at_utc": "2026-10-23T03:12:47.524723+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 986,
-  "china": 842,
+  "japan": 987,
+  "china": 841,
   "taiwan": 368,
   "korea": 804
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T02:35:00+00:00"
+   "newest": "2026-10-23T02:36:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T02:00:00+00:00"
+   "newest": "2026-10-22T16:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T11:26:34+09:00"
+   "newest": "2026-10-23T12:03:43+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T23:48:00+00:00"
+   "newest": "2026-10-23T01:50:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T03:00:00+00:00"
+   "newest": "2026-10-23T03:10:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T02:37:12+00:00"
+   "newest": "2026-10-23T03:00:39+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-23T11:30:00+09:00"
+   "newest": "2026-10-23T12:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -413,6 +413,24 @@
    "live_wire": true,
    "manual": false,
    "id": "45146950d6a5b50b"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Korea issues unprecedented warning against fiscal expansion: “If spending continues to increase, it will be difficult to restore the original state” (Chosun Ilbo Japanese version)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wcmpZdV9NNkpwYTFKOWVfUFh3QUwwZXlsVDBMUTl5djFlLWhzMndIMVQxQ1Q3X1lnYm1Eb29zYnlmbFp6ZnAtVm90ZGJIZmZ1a2Jqb1Q4R1lsa2ZYcDZGbGVXRmRncTBmUHNpdHd2ZFF1STlfeVhwWnc2OUFlSU0?oc=5",
+   "published_utc": "2026-10-23T02:35:00+00:00",
+   "title_original": "韓国銀行、拡張的財政に異例の警告「支出増が続けば元に戻すのは困難」（朝鮮日報日本語版）",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9b90f9e0d1cf983a"
   },
   {
    "source_id": "tradingview_live",
@@ -536,8 +554,8 @@
    "id": "a5ef7945b0e9a587"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -551,7 +569,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a1aa424a8381650f"
+   "id": "9f7d07c9dd0602ca"
   },
   {
    "source_id": "tradingview_live",
@@ -587,6 +605,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a19d91fa9ca55186"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMG5uTk9BQ2lzbUtHT1k4Nlp4RlRCcXFvVXR5YUhCamhubGQ1SlB0c2FYczVLdl9ESzJBRzdkNmVuYU1ISVc2MndXWnBZTzBDNFdzeHBEQTNPTGU2SGhBTmtKM3Z1SWUxR2szN20yYWIySGIzUXlZcXVhdGNtTlJNMGN1WQ?oc=5",
+   "published_utc": "2026-10-23T01:50:00+00:00",
+   "title_original": "Asian shares wobble as tech rout boosts bonds, dents rate hike bets",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1032bd0dfd89b6ed"
   },
   {
    "source_id": "tradingview_live",
@@ -640,6 +675,23 @@
    "id": "a77245cc70e0a72a"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "South Korean Government and Central Bank Push to Regulate Stablecoins Through Foreign Exchange Law Revision",
+   "url": "https://www.tradingview.com/news/binance_news:4ea4d0aa6094b:0-south-korean-government-and-central-bank-push-to-regulate-stablecoins-through-foreign-exchange-law-revision/",
+   "published_utc": "2026-10-23T01:34:43+00:00",
+   "title_original": "South Korean Government and Central Bank Push to Regulate Stablecoins Through Foreign Exchange Law Revision",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7f43ab40f6ba7372"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "证券之星",
    "title_en": "The central bank launched a 258 billion yuan overnight reverse repurchase operation on October 23",
@@ -675,8 +727,8 @@
    "id": "3d3f836abdd9aa63"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -689,7 +741,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -4387,8 +4439,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -4402,7 +4454,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -5926,7 +5978,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
-   "published_utc": "2026-10-21T01:56:01+00:00",
+   "published_utc": "2026-10-21T01:56:00+00:00",
    "title_original": "央行开展800亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -7085,8 +7137,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -7100,7 +7152,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -7617,8 +7669,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -7632,7 +7684,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -9640,8 +9692,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -9655,7 +9707,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -38602,23 +38654,6 @@
    "id": "0aa4a7623ecdced1"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scGlpUWM1bURSRTFhN055U1E4WF90eXVQQndOX3NtaDFNekxpcmZXYzBVbkJhb0FsTGJVSHllUXRRMVUyMDM0dXlLTmZUbXROVndVTmhLS0h6QQ?oc=5",
-   "published_utc": "2026-10-05T07:07:00+00:00",
-   "title_original": "BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "94afc5ed0e9cfaeb"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Bank of Japan New Building Blocks \"Shogun's Road\", Great Proposal from Tanzan to Pope...Road Replacement Operation, Land Exchange with Toyo Keizai The Disappeared Nikko Onarido | Politics, Economy, Investment | Toyo Keizai Online",
@@ -38634,6 +38669,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8ce1cfa2778c4591"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scGlpUWM1bURSRTFhN055U1E4WF90eXVQQndOX3NtaDFNekxpcmZXYzBVbkJhb0FsTGJVSHllUXRRMVUyMDM0dXlLTmZUbXROVndVTmhLS0h6QQ?oc=5",
+   "published_utc": "2026-10-05T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "94afc5ed0e9cfaeb"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51873,57 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "99153004151bdba1"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "“Sailing smoothly despite a stronger won”: Samsung Electro-Mechanics on track for record third-quarter earnings as AI components drive growth",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GeEI2YjFaZTJnNF9uZVlubjF2dFViTE9IWVRWTkRNVDlxZzZreG5OOXJqeU4zNDlsTTItS1RCNEhhdVg5dkRkWGxfaW9FZ0FnM3VB?oc=5",
-   "published_utc": "2026-09-28T06:24:13+00:00",
-   "title_original": "“Sailing smoothly despite a stronger won”: Samsung Electro-Mechanics on track for record third-quarter earnings as AI components drive growth",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ec7799686ea09bbd"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "As banks have raised deposit rates one after another due to the Bank of Korea's hike in the benchmar..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VQzZBQUtsT3JPcGl2eTlhd0dUQjJfNnFvdkxGWEFnZVFFeWRJR3hhWXA3OXdVcC1PbjNwWVU0TXBJSGNJNVVSY2RRQ3JEZXNyUUE?oc=5",
-   "published_utc": "2026-09-28T06:06:05+00:00",
-   "title_original": "As banks have raised deposit rates one after another due to the Bank of Korea's hike in the benchmar..",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e970ef1c06a99799"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "China tightens humanoid patent grip with 60% share",
-   "url": "https://www.koreaherald.com/article/10886376",
-   "published_utc": "2026-09-28T05:48:37+00:00",
-   "title_original": "China tightens humanoid patent grip with 60% share",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d00a56c4c7836ba9"
   },
   {
    "source_id": "manual_ia",
