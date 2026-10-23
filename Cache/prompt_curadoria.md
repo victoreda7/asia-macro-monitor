@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T08:32:44.177984+00:00
+Última coleta: 2026-10-23T08:42:45.592312+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          992
@@ -30,6 +30,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan decides to reach 2% inflation target, postpones interest rate hike after 14 years, October meeti
   - [japan] Consumption tax reduction bill begins substantive deliberation in the House of Representatives Finance and Fin
   - [japan] Japan futures slide as yen strengthens, logs weekly gain
+  - [korea] BOK chief signals hawkish stance amid outlook for higher growth, rates
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Obtaining Shares in Subsidiaries
   - [japan] Japan's Nikkei Falls, JGBs Soar as AI Jitters Spur Demand for Safe Assets
   - [korea] Kospi drops on AI funding worries, oil-driven inflation fears
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan inflation reaches highest level since December 2025
   - [china] China stocks slide as blue chips head for longest weekly losing streak
   - [japan] BOJ Likely to Hike Three More Times, Taking Policy Rate to 2% — Market Talk
-  - [china] When Typhoon Qiangbi hit, the central bank continued to provide foreign currency funds of US$585 million | San
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T08:32:44+00:00",
+      "published_utc": "2026-10-23T08:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
