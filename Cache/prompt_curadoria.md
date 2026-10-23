@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T04:22:42.624997+00:00
+Última coleta: 2026-10-23T04:32:43.331264+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          990
+  🇯🇵 Japão          991
   🇨🇳 China          840
-  🇹🇼 Taiwan         368
+  🇹🇼 Taiwan         367
   🇰🇷 Coreia do Sul  802
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Likely to Hike Three More Times, Taking Policy Rate to 2% — Market Talk
+  - [china] When Typhoon Qiangbi hit, the central bank continued to provide foreign currency funds of US$585 million | San
   - [china] China's yuan holds steady, set for fourth weekly rise
   - [korea] SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns
   - [japan] Asia FX steadies as oil surge weighs on risk appetite, yen holds gains
   - [japan] September consumer prices +2.1% compared to the same month last year, the first time in nine months that the i
   - [japan] BOJ Likely to Declare It Achieved 2% Inflation Target in Upcoming Meeting — Market Talk
+  - [japan] Yen rallies as global tech rout sparks flight to safety
   - [japan] Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro
   - [japan] Japan considers ending gasoline subsidies in December- Reuters
   - [korea] Asia stocks fall as AI rout batters S.Korea; Japan spooked by strong CPI
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Inflation Rises Above BOJ Target Level, Backing Rate Hikes
   - [japan] Japan Inflation Rises Above BOJ Target, Backing Rate Hikes
   - [korea] Why is SK Hynix stock sliding today?
-  - [korea] Why is Samsung Electronics stock declining today?
-  - [japan] Benchmark JGB yields hit 2-month lows as tech selloff spurs safe-haven demand
-  - [japan] Japan factory activity slows in Oct, services improve, PMI shows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T04:22:42+00:00",
+      "published_utc": "2026-10-23T04:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
