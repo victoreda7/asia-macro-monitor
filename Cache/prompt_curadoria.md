@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T04:42:43.779826+00:00
+Última coleta: 2026-10-23T04:52:44.580872+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
-  🇨🇳 China          840
-  🇹🇼 Taiwan         367
-  🇰🇷 Coreia do Sul  802
+  🇨🇳 China          841
+  🇹🇼 Taiwan         368
+  🇰🇷 Coreia do Sul  800
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Flash PMI Signals Softening Demand as Inflation Risks Linger — Market Talk
+  - [japan] Japan inflation reaches highest level since December 2025
+  - [china] China stocks slide as blue chips head for longest weekly losing streak
   - [japan] BOJ Likely to Hike Three More Times, Taking Policy Rate to 2% — Market Talk
   - [china] When Typhoon Qiangbi hit, the central bank continued to provide foreign currency funds of US$585 million | San
   - [china] China's yuan holds steady, set for fourth weekly rise
@@ -37,6 +40,7 @@ Total: 3000 manchetes
   - [japan] Yen's Latest Rise Likely Driven by Safe-Haven Demand — Market Talk
   - [korea] South Korean won, Philippine peso rises the most among Asian FX
   - [japan] Japan futures slide as yen strengthens, on track for second weekly loss
+  - [china] China Is Said to Tighten Scrutiny of Listed Company Spinoffs
   - [china] The central bank launches 258 billion yuan overnight reverse repurchase operation
   - [japan] Yen shines as AI jitters spur safe-haven rush
   - [japan] Bitcoin Faces 2 December Rate Hikes as Japan’s Inflation Clears the BOJ’s Target
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures
   - [korea] SK Hynix abandons plan for US unit's IPO, citing market volatility
   - [korea] Kospi drops on AI funding worries, oil-driven inflation fears
-  - [japan] Yen Rallies on Haven Buying, Strong Inflation
-  - [japan] Japan Inflation Rises Above BOJ Target Level, Backing Rate Hikes
-  - [japan] Japan Inflation Rises Above BOJ Target, Backing Rate Hikes
-  - [korea] Why is SK Hynix stock sliding today?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T04:42:44+00:00",
+      "published_utc": "2026-10-23T04:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
