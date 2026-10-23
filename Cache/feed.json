@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-23T17:22:42.969528+00:00",
- "collected_at_utc": "2026-10-23T17:22:42.969528+00:00",
+ "generated_at_utc": "2026-10-23T17:32:42.330426+00:00",
+ "collected_at_utc": "2026-10-23T17:32:42.330426+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T15:43:07+00:00"
+   "newest": "2026-10-23T16:03:49+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -65,7 +65,7 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 60,
+   "count": 40,
    "error": "",
    "newest": "2026-10-23T21:29:56+08:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T17:07:08+00:00"
+   "newest": "2026-10-23T17:22:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T15:44:26+00:00"
+   "newest": "2026-10-23T17:25:53+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-23T06:11:23+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T17:22:00+00:00"
+   "newest": "2026-10-23T17:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -412,6 +412,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5475dbf6f1e51267"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "EU Looks Beyond Cars for Next Round of China Trade Talks",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnVTWDNmNUtCbEZ5aW05UDVwN0Y0UDRjZk9LMWlUYjZWMDFmS2d3YTlXZFpqdkk5RTJXYnREU1V5R282d1NvcV9uaVNlTVRLaVh2dkNyRHZFYU1uZG51Z3hrMzhlUWhqZjVlSVpuUHJYZkxEVGw0T3p6R3pBM1JEWThzb1RkSXVmY2JvZjNRc0Qtbk94LUxZaVV6dkMyZHVIWXYtT01EUmlYTUE?oc=5",
+   "published_utc": "2026-10-23T16:03:49+00:00",
+   "title_original": "EU Looks Beyond Cars for Next Round of China Trade Talks",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c3c362223c41f1db"
   },
   {
    "source_id": "investing_live",
@@ -1032,23 +1049,6 @@
    "live_wire": true,
    "manual": false,
    "id": "13635ffb988762a2"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "EU Looks Beyond Cars for Next Round of China Trade Talks",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnVTWDNmNUtCbEZ5aW05UDVwN0Y0UDRjZk9LMWlUYjZWMDFmS2d3YTlXZFpqdkk5RTJXYnREU1V5R282d1NvcV9uaVNlTVRLaVh2dkNyRHZFYU1uZG51Z3hrMzhlUWhqZjVlSVpuUHJYZkxEVGw0T3p6R3pBM1JEWThzb1RkSXVmY2JvZjNRc0Qtbk94LUxZaVV6dkMyZHVIWXYtT01EUmlYTUE?oc=5",
-   "published_utc": "2026-10-23T09:40:48+00:00",
-   "title_original": "EU Looks Beyond Cars for Next Round of China Trade Talks",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c3c362223c41f1db"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1713,6 +1713,23 @@
    "id": "bca300980840ca06"
   },
   {
+   "source_id": "gn_jp_mof",
+   "source_name": "財務省",
+   "title_en": "What's New October, 2026 : Ministry of Finance",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaGVTdkpkMGtWc1pmZ0FOOEFXNnd0ejBiYXZmTDJRVGpDREM0bEp5V0VvWVYzb2JzR194V0dzV3JrMTBTalJSWnJwUWhMZXozUlJYTFFxdkRwODRDelhMaFFXZGRTemFMVUlWQ0F2M04zSkd3cFBB?oc=5",
+   "published_utc": "2026-10-23T06:11:23+00:00",
+   "title_original": "What's New October, 2026 : Ministry of Finance",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "816a8b781a3d4bd5"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Why SK hynix shelved Solidigm's $150b US IPO plan",
@@ -2008,6 +2025,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7e1a7601885139f9"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Euro sinks on French debt worries; yen gains on AI rout By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHlOUlhldm15UUtobGhtYXloSVowemtZQVg0dElWSk91c2ZsX0tjYXhQN0RLc1RNZEhScHBmcVlLOHBuY3Y4NDlMQkJKYUpFcG01aUlQaVAxc0RYVFN2Umc2RzFjRzRmZERsWU1nWjliMG5nbURtTGxRNVVQYWVzaENqLVc3RTRmd2ZHMThuZWQ4TnRSb2R3TmMxZ0Q?oc=5",
+   "published_utc": "2026-10-23T02:18:57+00:00",
+   "title_original": "Euro sinks on French debt worries; yen gains on AI rout By Reuters",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7ba0dd03d3f46118"
   },
   {
    "source_id": "gn_jp_investing",
@@ -7136,23 +7170,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3c6fc93597b1641a"
-  },
-  {
-   "source_id": "gn_jp_mof",
-   "source_name": "財務省",
-   "title_en": "What's New October, 2026 : Ministry of Finance",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaGVTdkpkMGtWc1pmZ0FOOEFXNnd0ejBiYXZmTDJRVGpDREM0bEp5V0VvWVYzb2JzR194V0dzV3JrMTBTalJSWnJwUWhMZXozUlJYTFFxdkRwODRDelhMaFFXZGRTemFMVUlWQ0F2M04zSkd3cFBB?oc=5",
-   "published_utc": "2026-10-21T02:48:04+00:00",
-   "title_original": "What's New October, 2026 : Ministry of Finance",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "816a8b781a3d4bd5"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -51908,23 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "95a6aa32a41c7cbc"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "Japan's Resonac develops large wafers that can yield 4 times as many chips",
-   "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-resonac-develops-large-wafers-that-can-yield-4-times-as-many-chips",
-   "published_utc": "2026-09-28T21:21:22.580478+00:00",
-   "title_original": "Japan's Resonac develops large wafers that can yield 4 times as many chips",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0d78e2c959b49602"
   },
   {
    "source_id": "manual_ia",

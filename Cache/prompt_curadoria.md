@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T17:22:42.969528+00:00
+Última coleta: 2026-10-23T17:32:42.330426+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          984
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [japan] Japan banks prepared to weather AI crash, global rate spike: BOJ stress test
   - [china] China’s Fiscal Revenue Slips as Land-Sale Slump Deepens
   - [china] The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion y
+  - [china] EU Looks Beyond Cars for Next Round of China Trade Talks
   - [korea] Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says
   - [japan] Japan weighs rebranding energy, AI as defense spending under Trump pressure
   - [korea] SK Hynix and Samsung likely to boost shareholder returns as demand stays strong: BofA
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] HKEX launches AI and semiconductor indexes, licenses AI index in China
   - [korea] South Korea to amend forex law to regulate stablecoins as payment instruments: report
   - [china] Charts of the Day: Solar Exports Surge in September
-  - [china] China sells offshore yuan bonds in Hong Kong at record-low yields
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T17:22:43+00:00",
+      "published_utc": "2026-10-23T17:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
