@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T02:12:44.538455+00:00",
- "collected_at_utc": "2026-10-23T02:12:44.538455+00:00",
+ "generated_at_utc": "2026-10-23T02:22:45.280987+00:00",
+ "collected_at_utc": "2026-10-23T02:22:45.280987+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 985,
-  "china": 842,
+  "china": 843,
   "taiwan": 368,
-  "korea": 805
+  "korea": 804
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T06:35:45+00:00"
+   "newest": "2026-10-22T04:28:04+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T11:08:17+09:00"
+   "newest": "2026-10-23T11:20:05+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T11:08:17+09:00"
+   "newest": "2026-10-23T11:20:05+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T02:11:00+00:00"
+   "newest": "2026-10-23T02:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,8 +344,59 @@
  ],
  "items": [
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Yen's Latest Rise Likely Driven by Safe-Haven Demand — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261022014318:0-yen-s-latest-rise-likely-driven-by-safe-haven-demand-market-talk/",
+   "published_utc": "2026-10-23T02:21:00+00:00",
+   "title_original": "Yen's Latest Rise Likely Driven by Safe-Haven Demand — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "31e2396a243a5461"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean won, Philippine peso rises the most among Asian FX",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46901Z:0-south-korean-won-philippine-peso-rises-the-most-among-asian-fx/",
+   "published_utc": "2026-10-23T02:20:02+00:00",
+   "title_original": "South Korean won, Philippine peso rises the most among Asian FX",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d50c80de86e0d41d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan futures slide as yen strengthens, on track for second weekly loss",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46904W:0-japan-futures-slide-as-yen-strengthens-on-track-for-second-weekly-loss/",
+   "published_utc": "2026-10-23T02:19:32+00:00",
+   "title_original": "Japan futures slide as yen strengthens, on track for second weekly loss",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ebb6151b53436867"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -359,7 +410,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "tradingview_live",
@@ -500,8 +551,8 @@
    "id": "3d3f836abdd9aa63"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -514,7 +565,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -3541,6 +3592,23 @@
    "id": "9b16583c9be845e2"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中新经纬",
+   "title_en": "The central bank’s 7-day reverse repurchase operation volume on October 22 was zero",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14bEJHQldPbXd1M1hOdU5qWGlFVlRoN2FHM3FsVlMwZF96a29kUk5UbWpUUnBpV2JJOWdRY1BrTUJldTNyZjR5MnBuNzhENzduUkN5Z0pOQm1kTzF5dG5UX0dRWTQ?oc=5",
+   "published_utc": "2026-10-22T01:27:00+00:00",
+   "title_original": "央行10月22日7天期逆回购操作量为零",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "29253648dc19c904"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
@@ -4212,8 +4280,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -4227,7 +4295,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -6910,8 +6978,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -6925,7 +6993,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -7442,8 +7510,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -7457,7 +7525,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -9465,8 +9533,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -9480,7 +9548,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "3a01396d94bae9e6"
+   "id": "910cb411494c5e46"
   },
   {
    "source_id": "gn_kr_ked",
@@ -38427,23 +38495,6 @@
    "id": "0aa4a7623ecdced1"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scGlpUWM1bURSRTFhN055U1E4WF90eXVQQndOX3NtaDFNekxpcmZXYzBVbkJhb0FsTGJVSHllUXRRMVUyMDM0dXlLTmZUbXROVndVTmhLS0h6QQ?oc=5",
-   "published_utc": "2026-10-05T07:07:00+00:00",
-   "title_original": "BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "94afc5ed0e9cfaeb"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Bank of Japan New Building Blocks \"Shogun's Road\", Great Proposal from Tanzan to Pope...Road Replacement Operation, Land Exchange with Toyo Keizai The Disappeared Nikko Onarido | Politics, Economy, Investment | Toyo Keizai Online",
@@ -38459,6 +38510,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8ce1cfa2778c4591"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scGlpUWM1bURSRTFhN055U1E4WF90eXVQQndOX3NtaDFNekxpcmZXYzBVbkJhb0FsTGJVSHllUXRRMVUyMDM0dXlLTmZUbXROVndVTmhLS0h6QQ?oc=5",
+   "published_utc": "2026-10-05T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "94afc5ed0e9cfaeb"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51854,76 +51922,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a09570cbd0664680"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "At the July meeting where the Bank of Japan left interest rates unchanged, multiple policy committee members pointed out that ``we should proceed with raising interest rates''... Minutes of the meeting released (Yomiuri Shimbun Online)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBzTmtmdUkycVRnUHEyRVVnSEhqLW1CaThGSjhoSGZJbTlfamJVRU92aTRBSDZwZk1jcDRwY2MyQnNhemp6S1I0TGdNNWpFaDZjY0FTcTVqRHNxaVVJZTZHMFF5bU53V0hiYndndE9RVnU2U0ZHaTk4UlE4OFhxQklUal81Zkg2UTVzNnRR?oc=5",
-   "published_utc": "2026-09-28T05:07:37+00:00",
-   "title_original": "日銀、金利を据え置いた７月会合で複数の政策委員が「利上げ進めるべきだ」と指摘…議事要旨公表 (読売新聞オンライン)",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a3cca50dde10b8cd"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "At the July meeting where the Bank of Japan left interest rates unchanged, several policy committee members pointed out that ``we should proceed with raising interest rates''... Minutes of the meeting released (Yomiuri Shimbun Online)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5bDdYejk5LUlQWlRSRDNHZ1dlanI4QmNfVDJNSGdWQ0ppNWd2c1hTMk92dmgzQ3I1a2VPQUtTdTVtSHNxNTRWT1UtSlkxZjZlZ1BaLXZtaVhDVlc4cENyQVM1VVNLc2Z3VnBJMS1ycDI4cUU4RVFoRG5yQzZVMkE?oc=5",
-   "published_utc": "2026-09-28T05:07:37+00:00",
-   "title_original": "日銀、金利を据え置いた７月会合で複数の政策委員が「利上げ進めるべきだ」と指摘…議事要旨公表（読売新聞オンライン）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "83f98b993e1b05b6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "홈두부",
-   "title_en": "Interest rates have risen twice, but housing price expectations remain the same... What will the real impact be after 6 months?",
-   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBkYjQ1VlM2dVBEZE9UZUY3dWtYMXd0ank2UUVycFJPWENOT0tSZlNGaGduNUV3UF9BWWZGaWtWc0Y?oc=5",
-   "published_utc": "2026-09-28T05:01:30+00:00",
-   "title_original": "금리 두 번 올랐는데 집값 기대는 그대로…진짜 영향은 6개월 뒤?",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9251e8a1c4af5b52"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴시안",
-   "title_en": "Deputy Prime Minister Lee Hyung-il and Bank of Korea Governor Shin Hyun-song first meeting... Strengthening economic and monetary policy cooperation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSFkzTTk1UHFrR28tSnFPTkVaSE9pX0hqOWNEcFg2MUxTYjZNR0tnNDdoc0MxTzJoYmlkbENKenYyeHA1MWhOZGlPTGU3ZlFaQzJ3U3EtdU5nVXpNdXRoa1hTeDdDVU9jNkHSAW5BVV95cUxQeGNUYUNGQzBlcEV6VjZkSlIwLXN2Qkp0Q3A5VjVrdThNaUdSUTZXa3ZZaEc1NDJQUVVjWW02WXE0RTNETVR0eTZlaTNpSjBrWUV3M1AtVU8xQ2RTLUduV2hzSmUtMFFsN3hySWVndw?oc=5",
-   "published_utc": "2026-09-28T05:00:26+00:00",
-   "title_original": "이형일 부총리-신현송 한은 총재 첫 회동…경제·통화정책 공조 강화",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc60ce548b669a1c"
   },
   {
    "source_id": "manual_ia",

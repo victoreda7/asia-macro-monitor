@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T02:12:44.538455+00:00
+Última coleta: 2026-10-23T02:22:45.280987+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          985
-  🇨🇳 China          842
+  🇨🇳 China          843
   🇹🇼 Taiwan         368
-  🇰🇷 Coreia do Sul  805
+  🇰🇷 Coreia do Sul  804
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen's Latest Rise Likely Driven by Safe-Haven Demand — Market Talk
+  - [korea] South Korean won, Philippine peso rises the most among Asian FX
+  - [japan] Japan futures slide as yen strengthens, on track for second weekly loss
   - [japan] The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly revie
   - [japan] Yen shines as AI jitters spur safe-haven rush
   - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike — Update
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN SEPT CPI: HOTEL FEES +4.6% (+0.05 POINT CONTRIBUTION), UP SHARPLY FROM -1.4% (-0.02 POINT) IN AUG DUE TO
   - [japan] Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target
   - [japan] Japan Food Prices Rise the Least Since 2022
-  - [japan] MNI JAPAN SEPT CORE CPI +2.1% Y/Y; AUG +1.7%
-  - [japan] Japan's core inflation exceeds BOJ target, cements near-term rate hike chance
-  - [japan] JAPAN SEPT CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +2.0% VS. +1.5% IN AUG; GOODS (EX-FRESH FOOD) +2.8% VS. +
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T02:12:44+00:00",
+      "published_utc": "2026-10-23T02:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
