@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T05:32:45.855654+00:00
+Última coleta: 2026-10-23T05:42:42.849472+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          994
-  🇨🇳 China          836
+  🇯🇵 Japão          993
+  🇨🇳 China          837
   🇹🇼 Taiwan         368
   🇰🇷 Coreia do Sul  802
 
 ## O que já está no feed (não repita)
 
+  - [japan] USD/JPY: Yen Hits 5-Week High at ¥156.10 as US Yields Slide, Japan Inflation Hits 2026 Peak
   - [korea] South Korean economy's growth likely picked up in Q3 on chip exports
   - [japan] Consumption tax reduction bill begins substantive deliberation in the House of Representatives Finance and Fin
-  - [japan] BOJ chief Ueda to speak at IMF lecture on November 6
   - [japan] Yen set for weekly gain as AI jitters spur safe-haven rush
+  - [japan] BOJ chief Ueda to speak at IMF lecture on November 6
   - [taiwan] Executive Yuan approves draft tax incentives for TISAs
+  - [china] China Politburo calls for stronger leadership teams, deeper reforms
   - [japan] Foreign Minister Motegi holds U.S.-China-Russia summit meeting, communicates closely with U.S.
   - [korea] Samsung begins investing in additional capacity at Texas chip plant- report
   - [korea] SK Hynix trims losses after suspending chip unit Solidigm's IPO plans
@@ -50,13 +52,11 @@ Total: 3000 manchetes
   - [japan] Japan futures slide as yen strengthens, on track for second weekly loss
   - [china] China Is Said to Tighten Scrutiny of Listed Company Spinoffs
   - [china] The central bank launches 258 billion yuan overnight reverse repurchase operation
-  - [japan] Yen shines as AI jitters spur safe-haven rush
   - [japan] Bitcoin Faces 2 December Rate Hikes as Japan’s Inflation Clears the BOJ’s Target
   - [japan] The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly revie
   - [japan] Asian shares wobble as tech rout boosts bonds, dents rate hike bets By Reuters
   - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike — Update
   - [korea] SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO On Market Jitters —Update
-  - [japan] Asian shares wobble as tech rout boosts bonds, dents rate hike bets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T05:32:46+00:00",
+      "published_utc": "2026-10-23T05:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
