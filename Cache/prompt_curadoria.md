@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T11:23:21.816053+00:00
+Última coleta: 2026-10-23T11:32:44.850402+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          989
@@ -52,11 +52,11 @@ Total: 3000 manchetes
   - [japan] Japan weighs phasing out gasoline subsidies from December as costs mount, officials say
   - [china] Hong Kong Monetary Authority designates 12 banks as primary liquidity providers for offshore yuan market
   - [japan] Japan's Nippon Life plans cuts to JGB holdings for 2nd straight year, will hang on to OATs
-  - [japan] Euro set for weekly drop, yen eyes biggest gain since early September
   - [japan] Rising Wages Help Japanese Households Absorb Higher Rates, BOJ Says — Market Talk
   - [china] China Likely Exception to Hawkish Asian Central Banks View — Market Talk
   - [japan] BoJ Likely to Keep Policy Rate Unchanged Next Week — Market Talk
   - [japan] BOJ Sees Limited Risk to Japanese Companies From Oil Shock — Market Talk
+  - [japan] Bank of Japan decides to reach 2% inflation target, postpones interest rate hike after 14 years, October meeti
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T11:23:22+00:00",
+      "published_utc": "2026-10-23T11:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
