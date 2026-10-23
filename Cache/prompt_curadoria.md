@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T01:22:43.867327+00:00
+Última coleta: 2026-10-23T01:32:41.576470+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          981
-  🇨🇳 China          845
+  🇯🇵 Japão          984
+  🇨🇳 China          842
   🇹🇼 Taiwan         368
   🇰🇷 Coreia do Sul  806
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar Likely to Remain in 155-160 Yen Range in Near Term — Market Talk
   - [japan] Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures
   - [korea] SK Hynix abandons plan for US unit's IPO, citing market volatility
   - [korea] Kospi drops on AI funding worries, oil-driven inflation fears
+  - [japan] Yen Rallies on Haven Buying, Strong Inflation
   - [japan] Japan Inflation Rises Above BOJ Target, Backing Rate Hikes
   - [korea] Why is SK Hynix stock sliding today?
   - [korea] Why is Samsung Electronics stock declining today?
@@ -44,6 +46,7 @@ Total: 3000 manchetes
   - [japan] Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target
   - [japan] Japan Food Prices Rise the Least Since 2022
   - [japan] MNI JAPAN SEPT CORE CPI +2.1% Y/Y; AUG +1.7%
+  - [japan] Japan's core inflation exceeds BOJ target, cements near-term rate hike chance
   - [japan] JAPAN SEPT CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +2.0% VS. +1.5% IN AUG; GOODS (EX-FRESH FOOD) +2.8% VS. +
   - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
   - [japan] JAPAN SEPT CPI: ENERGY PRICES -0.6% Y/Y (-0.04 POINT) VS. -0.7% (-0.05 PT) IN AUG
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Core Inflation Rises Above BoJ Target
   - [japan] JAPAN SEPT CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.4% Y/Y, 54TH STRAIGHT RISE (AUG +1.9%); MEDIAN FORECAST +2
   - [japan] JAPAN SEPT TOTAL CPI +2.1% Y/Y, 61ST STRAIGHT RISE (AUG +1.9%); MEDIAN FORECAST +2.1%
-  - [japan] JAPAN SEPT INFLATION PICKS UP AS TOKYO’S SUMMER FREE BASE WATER CHARGE PROGRAM ENDS FOR SOME USERS, BASE YEAR 
-  - [korea] SK Hynix Shelves Plans for U.S. Listing of Memory-Chip Unit Solidigm
-  - [japan] Yen Jumps as Traders Seek Safety Amid Global Risk Averse Pivot
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T01:22:44+00:00",
+      "published_utc": "2026-10-23T01:32:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
