@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-23T13:12:44.801398+00:00",
- "collected_at_utc": "2026-10-23T13:12:44.801398+00:00",
+ "generated_at_utc": "2026-10-23T13:22:43.778337+00:00",
+ "collected_at_utc": "2026-10-23T13:22:43.778337+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 374,
   "korea": 794
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 56,
+   "count": 60,
    "error": "",
-   "newest": "2026-10-23T18:37:42+08:00"
+   "newest": "2026-10-23T21:08:54+08:00"
   },
   {
    "source_id": "investing_live",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T21:51:19+09:00"
+   "newest": "2026-10-23T22:11:31+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T22:01:18+09:00"
+   "newest": "2026-10-23T22:13:49+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T05:52:00+00:00"
+   "newest": "2026-10-23T12:58:10+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T13:11:43+00:00"
+   "newest": "2026-10-23T13:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Japan-Micronesia summit meeting confirms further strengthening of bilateral relations",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261023de64592",
+   "published_utc": "2026-10-23T13:11:31+00:00",
+   "title_original": "日本・ミクロネシア首脳会談 二国間関係いっそうの強化を確認",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0e94de32eb378b99"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "证券之星",
@@ -920,7 +937,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "金融界",
    "title_en": "The central bank will carry out 700 billion yuan MLF operation!",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RZnN1VXBDckJCQnlqUGFWa2VhN0xldUl4M1YzTkdkWWFoa2pvVjNuM01NOTVZOXRFWHRnejlNdFJBczVTX3hVTzlTREM4N25yUDMwUEoxMmZibktQcllOQnlaMDVQdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwZjlqRW5hOGNxS3pXMGxvN1J1NWVwNG5SdGpvTXdYNjNVRGZJMjZxRHpoMTRCNlFZc2E5QWQ0dXNlb2lLLXJUVGtDcllBRmh2eHdvajhnbjI3MkNZU2x6NXdsSE9vY2lDS08ydU5mck5qMEZs?oc=5",
    "published_utc": "2026-10-23T09:28:57+00:00",
    "title_original": "央行将开展7000亿元MLF操作！",
    "region": "china",
@@ -932,7 +949,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "77864f5f0a1391f1"
+   "id": "a28d8404fa28eebc"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1786,8 +1803,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -1801,7 +1818,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1856,8 +1873,8 @@
    "id": "ab339f10ce551a59"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -1870,7 +1887,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -4122,7 +4139,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -4134,7 +4151,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c5865e4da1f5c503"
+   "id": "6181c2f60b87f6c6"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -5483,8 +5500,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -5498,7 +5515,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -8164,8 +8181,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -8179,7 +8196,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -9660,10 +9677,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "界面新闻",
+   "source_name": "Jiemian.com",
    "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
-   "published_utc": "2026-10-20T03:23:09+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUVW9zRTJBaDUxanZMRGhBSDFqaEtSb20zMXJNcUtEUWFtMnBRNzJNRlJLZ1BoX01vbjVSeFhUNlVtRnBkTzhqaWNpei1sTHptS0lnU1RSdTA?oc=5",
+   "published_utc": "2026-10-20T03:26:05+00:00",
    "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -9673,7 +9690,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "16528f1711d07747"
+   "id": "0ecd4262e4547fcf"
   },
   {
    "source_id": "toyo_keizai",
@@ -51907,24 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fa61bb739cd55af6"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "Preview: Forecasters See Japan September Tankan Showing Large Manufacturers’ Sentiment at +25, Highest Since 2017",
-   "url": "https://www.tradingview.com/news/macenews:fedeae484094b:0-preview-forecasters-see-japan-september-tankan-showing-large-manufacturers-sentiment-at-25-highest-since-2017/",
-   "published_utc": "2026-09-28T15:29:00+00:00",
-   "title_original": "Preview: Forecasters See Japan September Tankan Showing Large Manufacturers’ Sentiment at +25, Highest Since 2017",
-   "region": "japan",
-   "topics": [
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c3c74619057857bc"
   },
   {
    "source_id": "manual_ia",
