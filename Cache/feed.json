@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-23T09:02:43.071816+00:00",
- "collected_at_utc": "2026-10-23T09:02:43.071816+00:00",
+ "generated_at_utc": "2026-10-23T09:12:43.712379+00:00",
+ "collected_at_utc": "2026-10-23T09:12:43.712379+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 990,
+  "japan": 991,
   "china": 839,
   "taiwan": 374,
-  "korea": 797
+  "korea": 796
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
+  {
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -75,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T08:44:49+00:00"
+   "newest": "2026-10-23T09:05:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T08:36:45+00:00"
+   "newest": "2026-10-23T08:54:23+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +123,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T08:23:00+00:00"
+   "newest": "2026-10-23T09:07:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,15 +155,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T14:17:37+00:00"
+   "newest": "2026-10-22T14:34:36+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +195,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T17:53:50+09:00"
+   "newest": "2026-10-23T18:08:44+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -204,14 +212,6 @@
    "count": 30,
    "error": "",
    "newest": "2026-10-23T01:26:44+00:00"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-23T06:59:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T01:00:09+00:00"
+   "newest": "2026-10-23T05:00:20+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T09:02:05+00:00"
+   "newest": "2026-10-23T09:11:58+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-23T17:10:00+09:00"
+   "newest": "2026-10-23T18:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -376,6 +376,23 @@
    "live_wire": true,
    "manual": false,
    "id": "84ae503040733c2a"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Bank of Japan warns of risks from AI market shock, cyberattacks",
+   "url": "https://www.investing.com/news/economy-news/bank-of-japan-warns-of-risks-from-ai-market-shock-cyberattacks-4968442",
+   "published_utc": "2026-10-23T08:48:26+00:00",
+   "title_original": "Bank of Japan warns of risks from AI market shock, cyberattacks",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f17691285e45d81c"
   },
   {
    "source_id": "investing_econ",
@@ -1019,6 +1036,23 @@
    "live_wire": true,
    "manual": false,
    "id": "335a634e84f36cf7"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Beijing tightens rules on outbound capital to better shield Chinese assets",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWkwZU1pRkt0TUthY295VENFMlh1NDRUTktvMkFJUldwU2VKRGFJanFZMDEyc25qNXNwcnkydzNLWTRlV0pyLVEyei1JUnRBa1BLOWdlNFE3M1JydHBmUnBQam9rSjBINU4zdjZTUUxQMk5VV3JFV3AzREUtREVaWHdpVS1tdHluMDdQZ0lVeG1KTTZ2Tm9UMjl4anFLQ29OQTFYelpybnpEaTR3NVJTaFlEWGc0R3dOSzVwaEdLVlduWDJUNWfSAcYBQVVfeXFMTVNTWkNkb1lUa3pEOTNmVVZxZS1ySlQ5ZmxNMVBkRks1WFhzQjJXQVdnNkFQRkxyRFJoR3VETE1ueHg4enpqS0hvbE8zRktZV2NHSWhEWnkxTzJfeG15U2xWTzg2dTFiMG1GMFZMYjBkYlpiWUc5YU5ZMjhoMmVXZkUyTk5SMUpieDdXX3RJcnpwLU5PbWhPWmo0aU9vdmh5RkJEM21QZDNPYko5QjhHNkFMb3dkR1IwRDdOM21SbmdvX01vM21n?oc=5",
+   "published_utc": "2026-10-23T05:00:20+00:00",
+   "title_original": "Beijing tightens rules on outbound capital to better shield Chinese assets",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5abf1f301a8a9ea8"
   },
   {
    "source_id": "tradingview_live",
@@ -2749,7 +2783,7 @@
    "id": "7ac1ddbbd4aa0525"
   },
   {
-   "source_id": "gn_cn_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "EXCLUSIVE: TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDZiLXZ3MjNBLVhJa0g3VzJ0SU9MalBLSjFrMWlJUVhXd21CY0x2OVo3SUVLV25tNnBDZVBKYnN4b1E2ZHd4Rm9FTzVGMDYySmtfU1lBRkxYUFl2eGlOWjllZEptTVZ6V3BVVFVtQVBaODVqWmp1V3dTckg2WUZVQVRYNTFIZU9yLU81bVJTNEhzZG8xR0xVNnFUcTRXSkg0cFVLOHBxSjVXSzdtdS13cFF4RkpscWdLeXdPb3Q4Sk9GQ1dybDZn?oc=5",
@@ -2763,7 +2797,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "20b2a202fe543c4f"
+   "id": "2f8e1d6ff4eb0a1d"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3359,7 +3393,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui DS Asset Management Chief Market Strategist] (THE GOLD ONLINE)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MNUFnUWlkZUc3cElyWFFaV2ptNmNiOFJvQm85SkNHQzltZjBTOV9Ra09JVGRnTmVTLTdramVjdmlOejFqNlpveW5pQU5rQS1ON0JfZmMwMHNKQ0llQ3JHX1o0MkVpenpERGx1NktaRVNVUUdJZ085dE5DTk9Rdms?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnZOVVJxcjhXaGF0bS1YdDFwbVRnWEEwYlh2NTdwVVJydFVpeVpINWFXNm1BbGxQRHRwV3NTVkN3bURrZGZybFhYVlFZRG1PTXc0QjYyMlVMcEtBVXphcnNXWEM3djV4OTc0djM0QjZ1eHo1SlhTNkZ2Z1dFa3pGVjJWbnJ1ZFZz?oc=5",
    "published_utc": "2026-10-22T05:12:15+00:00",
    "title_original": "2026年10月日銀政策会合プレビュー～今回の注目点を整理する【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】（THE GOLD ONLINE（ゴールドオンライン））",
    "region": "japan",
@@ -3371,7 +3405,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1034c71bbfb07fa"
+   "id": "9faf0910794f29d5"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3653,7 +3687,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -3665,7 +3699,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c5865e4da1f5c503"
+   "id": "6181c2f60b87f6c6"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51890,41 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ac0d94a7054f13b1"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "This week, a window manufacturing company with annual sales of 20 billion won was registered as a sa..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zUDJMSmtNb2tqS3BjQjBfbXNJdXlMaHE2bTUzN1FhcDlBVHJyVnRobzR5RzhTbFJPSVVXZWMtMjdOZ1hISENfVmQzODJwMlk?oc=5",
-   "published_utc": "2026-09-28T08:44:37+00:00",
-   "title_original": "This week, a window manufacturing company with annual sales of 20 billion won was registered as a sa..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "74a9143a2a5ab9c7"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
-   "title_en": "The central bank launched \"three arrows\" today, with a net investment of 439.7 billion yuan in open market operations.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50X0RibUl3NXFPbjJLVXM1WmlRZmg2b1dxZG1iRzlmY1lLUG8tY0hpSzFlYjdkTml6Q2w0TFpvSF9ldy1jMXJMRFR0UlFBVjNfOEd0cGVmOFgyeG1fYmZJVXlMWUpQWm1DVGNvOU9kTG53dw?oc=5",
-   "published_utc": "2026-09-28T08:42:00+00:00",
-   "title_original": "央行今日“三箭齐发”，公开市场操作净投放4397亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7253297b8c7988ff"
   },
   {
    "source_id": "manual_ia",
