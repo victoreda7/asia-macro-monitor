@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T21:02:44.430738+00:00
+Última coleta: 2026-10-23T21:12:45.482992+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          982
+  🇯🇵 Japão          984
   🇨🇳 China          851
-  🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  793
+  🇹🇼 Taiwan         373
+  🇰🇷 Coreia do Sul  792
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan Monetary Policy Meeting from the 29th It is likely that the underlying inflation rate will reach
+  - [japan] <Deepening division> Demonstrations in France reflect the "spark of Europe", which country will sell governmen
   - [korea] SK Hynix Stocks Gain 4.42% as Solidigm Ends IPO Review
   - [china] The central bank will carry out 700 billion yuan of MLF operations to maintain sufficient liquidity in the ban
   - [japan] Consumption tax reduction bill enters substantive deliberation; debate continues over support payments, etc.
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Scraps U.S. IPO of Memory-Chip Unit. Why the Stock Is Jumping. — Barrons.com
   - [china] Ziyuanyuan Holdings' Unit Enters Cooperation Framework Agreement With Shenzhen Shenshu
   - [china] The central bank will launch an MLF operation of 700 billion yuan on October 26, with a reduction of 200 billi
-  - [korea] SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns
-  - [china] HKEX launches AI and semiconductor indexes, licenses AI index in China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T21:02:44+00:00",
+      "published_utc": "2026-10-23T21:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
