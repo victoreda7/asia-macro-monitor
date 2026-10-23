@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T18:22:43.066945+00:00",
- "collected_at_utc": "2026-10-23T18:22:43.066945+00:00",
+ "generated_at_utc": "2026-10-23T18:32:43.118870+00:00",
+ "collected_at_utc": "2026-10-23T18:32:43.118870+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 982,
-  "china": 850,
+  "japan": 981,
+  "china": 851,
   "taiwan": 375,
   "korea": 793
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T16:47:00+00:00"
+   "newest": "2026-10-22T16:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T18:00:58+00:00"
+   "newest": "2026-10-23T18:24:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-23T06:11:23+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T16:37:25+00:00"
+   "newest": "2026-10-23T18:05:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T18:21:00+00:00"
+   "newest": "2026-10-23T18:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "m.zqrb.cn",
+   "title_en": "The central bank will carry out 700 billion yuan of MLF operations to maintain sufficient liquidity in the banking system",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ad0w2c0M3OUFUdGQ4bm5YRmRveVRUOTJHMzFHWXNGSllKS1kxUkZpd3JGdThEa1oyaGQxdlQ1NkVNWlFCMUcxWms2VFJHWGRhdlZjaWZGQXRBRzZEZnVQMmw0TFVONGtFNExQVHFhMlp2Vzl6U0kwR1JB?oc=5",
+   "published_utc": "2026-10-23T18:05:00+00:00",
+   "title_original": "央行将开展7000亿元MLF操作 保持银行体系流动性充裕",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1ac0b734239039a2"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -51906,25 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e22ced1cd2f28544"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Business confidence improves due to AI demand, but rising prices are a headwind for personal consumption (September BOJ Tankan outlook) (NRI researcher's commentary on current events)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2pQWDNJNkpYMndiY1ZLa0tJTG93STdBYVcyY2wwZF9GUklNZ181T2dfVzg0WTVROW5xUFgwZWhwUGRrNUZYLUs5UVRDMWJhWlFuQVh4YTkyU2E3WV9hY2pUblNoSHZGTFJFd29NX2lXMWFnWVNreTJIQmJqaHFMNEk2UFVqOWo3?oc=5",
-   "published_utc": "2026-09-28T22:52:59+00:00",
-   "title_original": "AI需要で企業景況感は改善も、物価上昇が個人消費の逆風に（9月日銀短観見通し）（NRI研究員の時事解説）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9afeca2fc5b31d81"
   },
   {
    "source_id": "manual_ia",
