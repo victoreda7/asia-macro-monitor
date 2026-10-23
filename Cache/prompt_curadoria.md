@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T05:12:42.230339+00:00
+Última coleta: 2026-10-23T05:22:45.361721+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          991
-  🇨🇳 China          841
+  🇯🇵 Japão          993
+  🇨🇳 China          838
   🇹🇼 Taiwan         368
-  🇰🇷 Coreia do Sul  800
+  🇰🇷 Coreia do Sul  801
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ chief Ueda to speak at IMF lecture on November 6
+  - [japan] Yen set for weekly gain as AI jitters spur safe-haven rush
+  - [japan] Foreign Minister Motegi holds U.S.-China-Russia summit meeting, communicates closely with U.S.
+  - [korea] Samsung begins investing in additional capacity at Texas chip plant- report
+  - [korea] SK Hynix trims losses after suspending chip unit Solidigm's IPO plans
   - [japan] Japan Flash PMI Signals Softening Demand as Inflation Risks Linger — Market Talk
   - [japan] Japan inflation reaches highest level since December 2025
   - [china] China stocks slide as blue chips head for longest weekly losing streak
@@ -45,18 +50,13 @@ Total: 3000 manchetes
   - [japan] Yen shines as AI jitters spur safe-haven rush
   - [japan] Bitcoin Faces 2 December Rate Hikes as Japan’s Inflation Clears the BOJ’s Target
   - [japan] The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly revie
+  - [japan] Asian shares wobble as tech rout boosts bonds, dents rate hike bets By Reuters
   - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike — Update
   - [korea] SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO On Market Jitters —Update
   - [japan] Asian shares wobble as tech rout boosts bonds, dents rate hike bets
   - [china] CHINA PBOC CONDUCTS CNY258 BLN VIA O/N REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7180 FRI VS 6.7195
   - [japan] Japan weighs phasing out gasoline subsidies from December as costs mount, officials say
-  - [korea] South Korean Government and Central Bank Push to Regulate Stablecoins Through Foreign Exchange Law Revision
-  - [china] The central bank launched a 258 billion yuan overnight reverse repurchase operation on October 23
-  - [japan] Dollar Likely to Remain in 155-160 Yen Range in Near Term — Market Talk
-  - [japan] Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures
-  - [korea] SK Hynix abandons plan for US unit's IPO, citing market volatility
-  - [korea] Kospi drops on AI funding worries, oil-driven inflation fears
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T05:12:42+00:00",
+      "published_utc": "2026-10-23T05:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
