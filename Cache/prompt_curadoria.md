@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T16:22:43.389842+00:00
+Última coleta: 2026-10-23T16:32:42.801904+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          984
@@ -48,6 +48,7 @@ Total: 3000 manchetes
   - [china] Ziyuanyuan Holdings' Unit Enters Cooperation Framework Agreement With Shenzhen Shenshu
   - [china] The central bank will launch an MLF operation of 700 billion yuan on October 26, with a reduction of 200 billi
   - [korea] SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns
+  - [japan] Yen rallies, euro sags, dollar shrugs as AI worries drive haven bid
   - [china] HKEX launches AI and semiconductor indexes, licenses AI index in China
   - [korea] South Korea to amend forex law to regulate stablecoins as payment instruments: report
   - [china] Charts of the Day: Solar Exports Surge in September
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com
   - [japan] Bank of Japan: Inflation likely to reach 2% inflation
   - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%; further interest rate hikes may be pos
-  - [china] China Barely Eased Austerity Just Before Shift to Stimulus Mode
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T16:22:43+00:00",
+      "published_utc": "2026-10-23T16:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
