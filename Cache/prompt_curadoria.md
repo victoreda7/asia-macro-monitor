@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T08:12:44.652200+00:00
+Última coleta: 2026-10-23T08:22:45.502517+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          993
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] China's January-September fiscal revenue up 5.1% y/y
   - [japan] Japan's Nippon Life plans cuts to JGB holdings for 2nd straight year, will hang on to OATs
   - [japan] Euro set for weekly drop, yen eyes biggest gain since early September
   - [japan] Rising Wages Help Japanese Households Absorb Higher Rates, BOJ Says — Market Talk
@@ -28,7 +29,6 @@ Total: 3000 manchetes
   - [japan] Japan futures slide as yen strengthens, logs weekly gain
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Obtaining Shares in Subsidiaries
   - [japan] Japan's Nikkei Falls, JGBs Soar as AI Jitters Spur Demand for Safe Assets
-  - [china] China's January-September fiscal revenue up 5.1% y/y
   - [korea] Kospi drops on AI funding worries, oil-driven inflation fears
   - [taiwan] Taiwan manufacturers' business sentiment hits 54-month high
   - [china] China's Chery expects overseas-manufactured vehicles to top 50% of exports, exec says
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T08:12:44+00:00",
+      "published_utc": "2026-10-23T08:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

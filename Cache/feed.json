@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-23T08:12:44.652200+00:00",
- "collected_at_utc": "2026-10-23T08:12:44.652200+00:00",
+ "generated_at_utc": "2026-10-23T08:22:45.502517+00:00",
+ "collected_at_utc": "2026-10-23T08:22:45.502517+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 373,
   "korea": 797
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T04:00:18+00:00"
+   "newest": "2026-10-23T08:03:45+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T07:06:59+00:00"
+   "newest": "2026-10-23T07:00:50+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T07:25:34+00:00"
+   "newest": "2026-10-23T08:17:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T08:10:42+00:00"
+   "newest": "2026-10-23T08:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T04:02:27+00:00"
+   "newest": "2026-10-23T01:00:56+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T07:36:18+00:00"
+   "newest": "2026-10-23T07:57:03+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-23T17:06:00+09:00"
+   "newest": "2026-10-23T17:10:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's January-September fiscal revenue up 5.1% y/y",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4690A9:0-china-s-january-september-fiscal-revenue-up-5-1-y-y/",
+   "published_utc": "2026-10-23T08:20:42+00:00",
+   "title_original": "China's January-September fiscal revenue up 5.1% y/y",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "75a8a8389f22fd26"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -532,23 +549,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5bc5417fa9cf2bcf"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's January-September fiscal revenue up 5.1% y/y",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45A06S:0-china-s-january-september-fiscal-revenue-up-5-1-y-y/",
-   "published_utc": "2026-10-23T07:04:48+00:00",
-   "title_original": "China's January-September fiscal revenue up 5.1% y/y",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "891f13859739718e"
   },
   {
    "source_id": "gn_kr_ked",
@@ -1250,8 +1250,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -1265,7 +1265,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1337,8 +1337,8 @@
    "id": "ab339f10ce551a59"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -1351,7 +1351,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -2028,6 +2028,23 @@
    "id": "abfe0c2edffabbef"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjBuQkcwQ29IaENVRWE4cjU3bzFxRGtSSU5sUTBhQ3pxOV8zOWFDRE5ZUHJleTZyN04yYXhYZ0pYVk1OQTgxS2F4a2sxU284aEc1SFZ2TG1rUGZudk9RNFZFRFlEb3VsVVFpcVRxMlhzMW9feGZwSFZ2bjBNckJYZFNhd0w1STNMZEtJdFgwbllhVlp5d3lrWUZveDV2Yk5jajE5b0NzRGs5UQ?oc=5",
+   "published_utc": "2026-10-22T22:14:23+00:00",
+   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "75b25107071fc789"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility",
@@ -2111,23 +2128,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6c4c3afc2afea619"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3czTU9vU0R1MUs1S2U5UmdQX2s5THdMSnppZVpzbkMxQzJfX0JyY1o2MHVpX1h3b2ZzREhWZ0VEeEw0YTVIOFp4X19oWjlFYWJpaFhYMmItTUpFYU83bllCWjZDSXd2RlR6U3hoOHVxOFNJbGJybkNUVHFPTEZrRWVvNm02Z0E0c09oY3V2c3VHejJ1UEFRX3BxRUZtMDRUdnNGbTFB?oc=5",
-   "published_utc": "2026-10-22T21:09:57+00:00",
-   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "099657ed920ba39c"
   },
   {
    "source_id": "toyo_keizai",
@@ -3568,7 +3568,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -3580,7 +3580,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4928,8 +4928,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -4943,7 +4943,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -7609,8 +7609,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -7624,7 +7624,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -8141,8 +8141,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -8156,7 +8156,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e4f160096f8226b8"
+   "id": "a8840d46489bc5a3"
   },
   {
    "source_id": "tradingview_live",
@@ -27600,23 +27600,6 @@
    "id": "0da91e6db5f6dced"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) BOK chief says back-to-back rate hikes bought time to respond to financial risks",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uNnZuTmdJX3VkNmZORmhIaG9lT0x2SVhRdXUycHpFdDR4WWxQM01ySnpEa1VHUmpJcnJWeW8td3NWWjBSZ01nQ1A0OElUdV9rYUM0UUczNjQ3QQ?oc=5",
-   "published_utc": "2026-10-12T07:00:00+00:00",
-   "title_original": "(LEAD) BOK chief says back-to-back rate hikes bought time to respond to financial risks",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9580bba275c40aac"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan semiconductor industry eyes landmark geothermal power deal exceeding 20MW",
@@ -28069,6 +28052,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0c89c3655ea4ace2"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) BOK chief says back-to-back rate hikes bought time to respond to financial risks",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uNnZuTmdJX3VkNmZORmhIaG9lT0x2SVhRdXUycHpFdDR4WWxQM01ySnpEa1VHUmpJcnJWeW8td3NWWjBSZ01nQ1A0OElUdV9rYUM0UUczNjQ3QQ?oc=5",
+   "published_utc": "2026-10-12T05:20:29+00:00",
+   "title_original": "(LEAD) BOK chief says back-to-back rate hikes bought time to respond to financial risks",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9580bba275c40aac"
   },
   {
    "source_id": "gn_kr_bok",
