@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T03:32:44.541937+00:00
+Última coleta: 2026-10-23T03:42:42.199830+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          987
-  🇨🇳 China          841
+  🇯🇵 Japão          988
+  🇨🇳 China          840
   🇹🇼 Taiwan         368
   🇰🇷 Coreia do Sul  804
 
 ## O que já está no feed (não repita)
 
   - [japan] Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro
+  - [japan] Japan considers ending gasoline subsidies in December- Reuters
+  - [korea] Asia stocks fall as AI rout batters S.Korea; Japan spooked by strong CPI
   - [japan] Japan government, BOJ gap on inflation laid bare ahead of key policy meeting
   - [japan] BOJ Could Be in Tough Spot If Costs Curb Consumption — Market Talk
   - [korea] Krafton Target Price Cut to KRW210,000 From KRW 300,000 by Nomura>259960.SE
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Composite PMI Stays at 4-Month Low
   - [japan] ``Will not answer hypothetical questions'' on whether there will be any changes to the joint statement regardi
   - [japan] Japan manufacturing growth slows to 7-month low in October, PMI shows
-  - [korea] SK hynix halts review of Solidigm US IPO
-  - [japan] Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target By Investing.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T03:32:44+00:00",
+      "published_utc": "2026-10-23T03:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
