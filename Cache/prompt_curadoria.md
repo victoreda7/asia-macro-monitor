@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T11:12:43.352051+00:00
+Última coleta: 2026-10-23T11:22:42.615214+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          988
+  🇯🇵 Japão          989
   🇨🇳 China          843
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  794
+  🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [japan] Euro set for weekly drop against dollar, yen as France concerns resurface
   - [china] China issues guidelines to promote employment amid AI advances
   - [china] Could Europe’s cost-of-living protests sharpen EU-China trade tensions?
   - [china] The central bank takes action! The 700 billion yuan MLF operation is coming
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China Likely Exception to Hawkish Asian Central Banks View — Market Talk
   - [japan] BoJ Likely to Keep Policy Rate Unchanged Next Week — Market Talk
   - [japan] BOJ Sees Limited Risk to Japanese Companies From Oil Shock — Market Talk
-  - [japan] Bank of Japan decides to reach 2% inflation target, postpones interest rate hike after 14 years, October meeti
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T11:12:43+00:00",
+      "published_utc": "2026-10-23T11:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
