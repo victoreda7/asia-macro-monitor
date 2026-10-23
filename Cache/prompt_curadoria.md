@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T12:02:43.386544+00:00
+Última coleta: 2026-10-23T12:12:46.345331+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          989
-  🇨🇳 China          843
+  🇯🇵 Japão          988
+  🇨🇳 China          844
   🇹🇼 Taiwan         375
   🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares
   - [japan] Bank of Japan's monetary policy meeting next week: Underlying inflation expected to reach 2%; interest rate hi
+  - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate
   - [china] Wuhan Tianyuan Group's Consortium Wins 3.6 Billion Yuan Bid For Project
+  - [china] The central bank announced that it will carry out 700 billion yuan MLF operations
   - [japan] Euro set for weekly drop against dollar, yen as France concerns resurface
   - [china] China issues guidelines to promote employment amid AI advances
   - [china] Could Europe’s cost-of-living protests sharpen EU-China trade tensions?
@@ -32,7 +35,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns
   - [china] HKEX launches AI and semiconductor indexes, licenses AI index in China
   - [korea] South Korea to amend forex law to regulate stablecoins as payment instruments: report
-  - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate
   - [china] Charts of the Day: Solar Exports Surge in September
   - [china] China sells offshore yuan bonds in Hong Kong at record-low yields
   - [japan] Bank of Japan: Inflation likely to reach 2% inflation
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan weighs phasing out gasoline subsidies from December as costs mount, officials say
   - [china] Hong Kong Monetary Authority designates 12 banks as primary liquidity providers for offshore yuan market
   - [japan] Japan's Nippon Life plans cuts to JGB holdings for 2nd straight year, will hang on to OATs
-  - [japan] Rising Wages Help Japanese Households Absorb Higher Rates, BOJ Says — Market Talk
-  - [china] China Likely Exception to Hawkish Asian Central Banks View — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T12:02:43+00:00",
+      "published_utc": "2026-10-23T12:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T12:02:43.386544+00:00",
- "collected_at_utc": "2026-10-23T12:02:43.386544+00:00",
+ "generated_at_utc": "2026-10-23T12:12:46.345331+00:00",
+ "collected_at_utc": "2026-10-23T12:12:46.345331+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 989,
-  "china": 843,
+  "japan": 988,
+  "china": 844,
   "taiwan": 375,
   "korea": 793
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 32.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T09:52:00+00:00"
+   "newest": "2026-10-23T04:32:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T09:39:29+00:00"
+   "newest": "2026-10-23T09:33:58+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T11:25:52+00:00"
+   "newest": "2026-10-23T12:03:52+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T14:17:37+00:00"
+   "newest": "2026-10-22T14:34:36+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T01:30:00+00:00"
+   "newest": "2026-10-23T06:31:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T10:56:21+00:00"
+   "newest": "2026-10-23T11:20:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T12:02:00+00:00"
+   "newest": "2026-10-23T12:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T10:02:21+00:00"
+   "newest": "2026-10-23T07:01:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares rebound",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UcjBMdjdJak5oWGREYW9MLW1UVXI5aXJYTW1GbW4ybTJ3YmI5NEcyclQwdEFhNlFpRGtpeHVfOWhibHNlY3lhVHliOWdKMWJKVkJiOXFxMzRxZy1KWWtmd18wSFJuQQ?oc=5",
+   "published_utc": "2026-10-23T12:03:52+00:00",
+   "title_original": "SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares rebound",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "246094d344e3e8f5"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Bank of Japan's monetary policy meeting next week: Underlying inflation expected to reach 2%; interest rate hike likely to be postponed (TBS NEWS DIG Powered by JNN)",
@@ -363,6 +380,24 @@
    "id": "f164c07d7464b620"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate hikes (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93cnpxdEl6YWNCWmpTcTFwWS1jZVJMX3VFM1NEYmttcEt0dGxUX2Q0OGZBazdyUGpjMlYyRm9RbEFGTENaZjlGYWNuUS04MWNvZ1Y4ZEFZZWxmeHNranNySWVvTmV1Zkh0dzdLQXN1dkdPcUg1M1ktSjJWNFdGNFE?oc=5",
+   "published_utc": "2026-10-23T11:33:04+00:00",
+   "title_original": "日銀、物価上昇率「2%到達」と判断の公算大 追加利上げは見送りも（朝日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5da8d178abbabd10"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Wuhan Tianyuan Group's Consortium Wins 3.6 Billion Yuan Bid For Project",
@@ -378,6 +413,24 @@
    "live_wire": true,
    "manual": false,
    "id": "9a4c219e4624d6fa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐",
+   "title_en": "The central bank announced that it will carry out 700 billion yuan MLF operations",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU05SMjM4cldTNnhPRkpNT1M4bVpUSGhDTlY1RzBSTEk3VDk3MkZ2SW1XVzlkWHBTSG43OWo0LXMtTERTX00zeWlBRk9GQ093RjdyMndUdi15TWVQNWp2X0ZzZEJrRm1MbEdyLVd0cjh2ZHFnWUNHOGJjd1ZlTXFOU2FVZWNtY2pu?oc=5",
+   "published_utc": "2026-10-23T11:20:00+00:00",
+   "title_original": "央行公告，将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "83629596afa4571b"
   },
   {
    "source_id": "investing_econ",
@@ -601,24 +654,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6cc8a4a3bd360341"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate hikes (Asahi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93cnpxdEl6YWNCWmpTcTFwWS1jZVJMX3VFM1NEYmttcEt0dGxUX2Q0OGZBazdyUGpjMlYyRm9RbEFGTENaZjlGYWNuUS04MWNvZ1Y4ZEFZZWxmeHNranNySWVvTmV1Zkh0dzdLQXN1dkdPcUg1M1ktSjJWNFdGNFE?oc=5",
-   "published_utc": "2026-10-23T09:52:41+00:00",
-   "title_original": "日銀、物価上昇率「2%到達」と判断の公算大 追加利上げは見送りも（朝日新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5da8d178abbabd10"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -1330,23 +1365,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1d2901b0cc1e9101"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares rebound",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UcjBMdjdJak5oWGREYW9MLW1UVXI5aXJYTW1GbW4ybTJ3YmI5NEcyclQwdEFhNlFpRGtpeHVfOWhibHNlY3lhVHliOWdKMWJKVkJiOXFxMzRxZy1KWWtmd18wSFJuQQ?oc=5",
-   "published_utc": "2026-10-23T06:03:51+00:00",
-   "title_original": "SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares rebound",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "246094d344e3e8f5"
   },
   {
    "source_id": "tradingview_live",
@@ -2462,6 +2480,23 @@
    "id": "abfe0c2edffabbef"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjBuQkcwQ29IaENVRWE4cjU3bzFxRGtSSU5sUTBhQ3pxOV8zOWFDRE5ZUHJleTZyN04yYXhYZ0pYVk1OQTgxS2F4a2sxU284aEc1SFZ2TG1rUGZudk9RNFZFRFlEb3VsVVFpcVRxMlhzMW9feGZwSFZ2bjBNckJYZFNhd0w1STNMZEtJdFgwbllhVlp5d3lrWUZveDV2Yk5jajE5b0NzRGs5UQ?oc=5",
+   "published_utc": "2026-10-22T22:14:23+00:00",
+   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "75b25107071fc789"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility",
@@ -2545,23 +2580,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6c4c3afc2afea619"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3czTU9vU0R1MUs1S2U5UmdQX2s5THdMSnppZVpzbkMxQzJfX0JyY1o2MHVpX1h3b2ZzREhWZ0VEeEw0YTVIOFp4X19oWjlFYWJpaFhYMmItTUpFYU83bllCWjZDSXd2RlR6U3hoOHVxOFNJbGJybkNUVHFPTEZrRWVvNm02Z0E0c09oY3V2c3VHejJ1UEFRX3BxRUZtMDRUdnNGbTFB?oc=5",
-   "published_utc": "2026-10-22T21:09:57+00:00",
-   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "099657ed920ba39c"
   },
   {
    "source_id": "toyo_keizai",
@@ -4037,7 +4055,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -4049,7 +4067,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c5865e4da1f5c503"
+   "id": "6181c2f60b87f6c6"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6466,23 +6484,6 @@
    "id": "4932d8c9ad5c811e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
-   "published_utc": "2026-10-21T05:02:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7b59d3d09f8c8605"
-  },
-  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China signals intent to push back against cleantech tariffs at COP31",
@@ -6515,6 +6516,23 @@
    "live_wire": false,
    "manual": false,
    "id": "64dc13c2cc1b7769"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZFdpckZuNDhHUnBxUmhvRUF3NDRqRUpHcHNDTy1hVUZzczVkd0N4SWQ4NUpWQTU2VzkzQ1ZkVVRiUUJ1blVDSHU4YzI2R3ZDUVl1RHdQUkQ1OHVzbXVjUGdURFpMUENib3RQZDVVMjN6c1FJaUwzZHRmVkdHdTNzM2tybWdRR2Fq?oc=5",
+   "published_utc": "2026-10-21T04:40:58+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a423d18b3fc196b8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -9574,10 +9592,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "界面新闻",
+   "source_name": "Jiemian.com",
    "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
-   "published_utc": "2026-10-20T03:23:09+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUVW9zRTJBaDUxanZMRGhBSDFqaEtSb20zMXJNcUtEUWFtMnBRNzJNRlJLZ1BoX01vbjVSeFhUNlVtRnBkTzhqaWNpei1sTHptS0lnU1RSdTA?oc=5",
+   "published_utc": "2026-10-20T03:26:05+00:00",
    "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -9587,7 +9605,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "16528f1711d07747"
+   "id": "0ecd4262e4547fcf"
   },
   {
    "source_id": "toyo_keizai",
@@ -51908,23 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e5f55073dd458ecb"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "U.S. debt sell-off extends on $106 crude oil and hawkish central bank outlooks",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlVucTJCU1JmUWhqTkZGT05abEVZVkI2N0RzWXBPNVVWMHlyUXRlMDZicTlmUmlWeEtpa24yYWtfYVc5VnRra2ZUUEI5QURnbnVwVFM4QlZUenRWb1duZmJPTkdrNkRRWTc4TzRlVzk1Mm9hTjhDUTB3VE1UQjY0NlFncjFZWTVtM2RFQzZRZHc2UXRaZHl5RjVRMEE2b3U2eTZTYWVUa2pPaXFWXzNlcFVGNFBvV3hhSEc2VTBzMG55aDJzekE?oc=5",
-   "published_utc": "2026-09-28T12:55:58+00:00",
-   "title_original": "U.S. debt sell-off extends on $106 crude oil and hawkish central bank outlooks",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a847b507aadb3845"
   },
   {
    "source_id": "manual_ia",
