@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T05:22:45.361721+00:00
+Última coleta: 2026-10-23T05:32:45.855654+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          993
-  🇨🇳 China          838
+  🇯🇵 Japão          994
+  🇨🇳 China          836
   🇹🇼 Taiwan         368
-  🇰🇷 Coreia do Sul  801
+  🇰🇷 Coreia do Sul  802
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean economy's growth likely picked up in Q3 on chip exports
+  - [japan] Consumption tax reduction bill begins substantive deliberation in the House of Representatives Finance and Fin
   - [japan] BOJ chief Ueda to speak at IMF lecture on November 6
   - [japan] Yen set for weekly gain as AI jitters spur safe-haven rush
+  - [taiwan] Executive Yuan approves draft tax incentives for TISAs
   - [japan] Foreign Minister Motegi holds U.S.-China-Russia summit meeting, communicates closely with U.S.
   - [korea] Samsung begins investing in additional capacity at Texas chip plant- report
   - [korea] SK Hynix trims losses after suspending chip unit Solidigm's IPO plans
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike — Update
   - [korea] SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO On Market Jitters —Update
   - [japan] Asian shares wobble as tech rout boosts bonds, dents rate hike bets
-  - [china] CHINA PBOC CONDUCTS CNY258 BLN VIA O/N REVERSE REPO FRI
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7180 FRI VS 6.7195
-  - [japan] Japan weighs phasing out gasoline subsidies from December as costs mount, officials say
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T05:22:45+00:00",
+      "published_utc": "2026-10-23T05:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T05:22:45.361721+00:00",
- "collected_at_utc": "2026-10-23T05:22:45.361721+00:00",
+ "generated_at_utc": "2026-10-23T05:32:45.855654+00:00",
+ "collected_at_utc": "2026-10-23T05:32:45.855654+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 993,
-  "china": 838,
+  "japan": 994,
+  "china": 836,
   "taiwan": 368,
-  "korea": 801
+  "korea": 802
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T03:44:24+00:00"
+   "newest": "2026-10-23T05:25:51+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-23T01:41:48+00:00"
+   "newest": "2026-10-23T05:23:37+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T14:17:37+00:00"
+   "newest": "2026-10-22T14:34:36+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T14:18:29+09:00"
+   "newest": "2026-10-23T14:24:31+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-23T02:01:59+00:00"
+   "newest": "2026-10-23T01:26:44+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T01:50:00+00:00"
+   "newest": "2026-10-22T21:57:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-23T04:15:11+00:00"
+   "newest": "2026-10-23T05:30:41+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T16:00:00+00:00"
+   "newest": "2026-10-23T05:19:14+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T05:21:14+00:00"
+   "newest": "2026-10-23T05:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T03:46:38+00:00"
+   "newest": "2026-10-23T05:12:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -346,6 +346,42 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
+   "title_en": "South Korean economy's growth likely picked up in Q3 on chip exports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46900E:0-south-korean-economy-s-growth-likely-picked-up-in-q3-on-chip-exports/",
+   "published_utc": "2026-10-23T05:30:00+00:00",
+   "title_original": "South Korean economy's growth likely picked up in Q3 on chip exports",
+   "region": "korea",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0380bbd87e7057ac"
+  },
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Consumption tax reduction bill begins substantive deliberation in the House of Representatives Finance and Finance Committee",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261023de64171",
+   "published_utc": "2026-10-23T05:24:31+00:00",
+   "title_original": "消費税減税法案 衆院財務金融委員会で実質的な審議入り",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0c1261b944685189"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
    "title_en": "BOJ chief Ueda to speak at IMF lecture on November 6",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4690CB:0-boj-chief-ueda-to-speak-at-imf-lecture-on-november-6/",
    "published_utc": "2026-10-23T05:20:16+00:00",
@@ -376,6 +412,24 @@
    "live_wire": true,
    "manual": false,
    "id": "2d26173ff13bc281"
+  },
+  {
+   "source_id": "gn_tw_taipeitimes",
+   "source_name": "Taipei Times",
+   "title_en": "Executive Yuan approves draft tax incentives for TISAs",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IdHdnS2NzSUFHd3l6V3QwVC15MVpMcVU4MnFjOVpmZHNkdlZKUUhnZmxYYy1VaTZtWkJ6ZTVibkc5ekFDYlktNEEwbVg0RWt3cC1VN3FFLWlIanRLRW5EUF9JdlcyakhXb1ozUU4wU2MyY3VGaVRuVQ?oc=5",
+   "published_utc": "2026-10-23T05:19:14+00:00",
+   "title_original": "Executive Yuan approves draft tax incentives for TISAs",
+   "region": "taiwan",
+   "topics": [
+    "fx",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c2bb6b5d8a5c26cd"
   },
   {
    "source_id": "nhk_politics",
@@ -898,8 +952,8 @@
    "id": "a5ef7945b0e9a587"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -913,7 +967,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a1aa424a8381650f"
+   "id": "9f7d07c9dd0602ca"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1088,8 +1142,8 @@
    "id": "3d3f836abdd9aa63"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -1102,7 +1156,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -1295,21 +1349,22 @@
    "id": "77cd5d57049166e2"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Composite PMI Stays at 4-Month Low",
-   "url": "https://www.tradingview.com/news/te_news:594394:0-japan-composite-pmi-stays-at-4-month-low/",
-   "published_utc": "2026-10-23T00:32:36+00:00",
-   "title_original": "Japan Composite PMI Stays at 4-Month Low",
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Japan manufacturing growth slows to 7-month low in October, PMI shows",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYmZ6NHNId1hXcVpMa3I2djI2Zjk1RTYtMTdpMkhYN1Q5eUlTQ3dOQ3BTeUJsVG1uRWhEbG5qLWRqc0NqQmU5SzRUWGZQM0xOaHRvZXZFWTlqTmdjSUhyQXUyZ1RRM2lYTU1jSVV2OEQ0LXdiX3ZTQ0llU2VMOXJhNVktMkdJUTlVZUxhNHAxSHNRWDktanhGdXhkMkVQbGJnMzlndnV0VHI2Z3dOczJjUnZ3bHEyZl8z?oc=5",
+   "published_utc": "2026-10-23T00:33:00+00:00",
+   "title_original": "Japan manufacturing growth slows to 7-month low in October, PMI shows",
    "region": "japan",
    "topics": [
-    "activity"
+    "activity",
+    "industrial"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "a305f61446ec9438"
+   "id": "115fbfbc98bccbde"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -2068,24 +2123,6 @@
    "live_wire": false,
    "manual": false,
    "id": "bb79a3652a45dee3"
-  },
-  {
-   "source_id": "gn_tw_taipeitimes",
-   "source_name": "Taipei Times",
-   "title_en": "Executive Yuan approves draft tax incentives for TISAs",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IdHdnS2NzSUFHd3l6V3QwVC15MVpMcVU4MnFjOVpmZHNkdlZKUUhnZmxYYy1VaTZtWkJ6ZTVibkc5ekFDYlktNEEwbVg0RWt3cC1VN3FFLWlIanRLRW5EUF9JdlcyakhXb1ozUU4wU2MyY3VGaVRuVQ?oc=5",
-   "published_utc": "2026-10-22T16:00:00+00:00",
-   "title_original": "Executive Yuan approves draft tax incentives for TISAs",
-   "region": "taiwan",
-   "topics": [
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c2bb6b5d8a5c26cd"
   },
   {
    "source_id": "tradingview_live",
@@ -3268,7 +3305,7 @@
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Hong Kong stocks fall most in 7 months as chance of strong stimulus shrinks",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSjd4bzZJdTNZb3FyaENKbERoTjl4X1pkbWJha2dyZWpnYmdYNDIwTUZTYTcycWlMeTBTcXVIbHZud3paZnF2LTdoS0tHRHVRblN6N0tLTGtFZWV4UGEtamVTNXlHN1V1cTByZlExdHRRNnZkOV9UTmlZUlV2TUhYcndhdU1KeWVOVlp5Q01CMlRDcFhMb29fLXFPQTBKZThHcUwtT3luTWMySjhsZGFVX1VfcnJkbGFNaDQzVGQtNWFvUm5xVVBXM25GWDRldw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSjd4bzZJdTNZb3FyaENKbERoTjl4X1pkbWJha2dyZWpnYmdYNDIwTUZTYTcycWlMeTBTcXVIbHZud3paZnF2LTdoS0tHRHVRblN6N0tLTGtFZWV4UGEtamVTNXlHN1V1cTByZlExdHRRNnZkOV9UTmlZUlV2TUhYcndhdU1KeWVOVlp5Q01CMlRDcFhMb29fLXFPQTBKZThHcUwtT3luTWMySjhsZGFVX1VfcnJkbGFNaDQzVGQtNWFvUm5xVVBXM25GWDRld9IBzgFBVV95cUxQdlZRVWNGLVZZdGFZUURFdktjTlZNY1ZieVNIS0VDSU5FSDYyOFE1d1B4dVZjbUh1OC1QT2ZjbUMteFhid1gxeTc5QXpiajFsYkU5ZlFFNjdnQmRON3N5Q3JEOERrODJNNHo4b1dmOFc3bmRXTWo2NDlZdUMzd0tfemlwWldBSW5EUnpoYnY2U2FySm1GZE9NNjZqUXR1ZTlfWUZNMldPMlJxQW8xNHE3d1JuNE8yRE9NVXhTT2plVzRSX005eFN4SzlEU0tsUQ?oc=5",
    "published_utc": "2026-10-22T03:16:00+00:00",
    "title_original": "Hong Kong stocks fall most in 7 months as chance of strong stimulus shrinks",
    "region": "china",
@@ -3279,7 +3316,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "e6fb043b0100b7b5"
+   "id": "f70bb4d0d61dc0b8"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -3320,7 +3357,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -3332,7 +3369,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4731,8 +4768,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -4746,7 +4783,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -5713,23 +5750,6 @@
    "id": "e5cc372c63162978"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHNraGVxZVpzdVZzUjFvQlpfcXJRU2ZYdlJxdU5KY1k5ZVJCTGQtallhSmVkbjZFbDdmVE5NRTN1ODRMd3ltTUpkQWNTdy13NmQxZkhNZDVyOXFUU1o3OXlhQ3Nrc2RSRE05TmJQTkVTNnlseXdtd1NOMVdLdEo1cVU4OWlxMmk3S0Zvdg?oc=5",
-   "published_utc": "2026-10-21T06:08:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e277f33f899b7cc"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Samsung, SK Hynix upgrade China plants to make advanced memory chips - Reuters",
@@ -5815,6 +5835,23 @@
    "live_wire": false,
    "manual": false,
    "id": "4932d8c9ad5c811e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
+   "published_utc": "2026-10-21T05:02:00+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7b59d3d09f8c8605"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -7412,8 +7449,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -7427,7 +7464,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -7944,8 +7981,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -7959,7 +7996,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -8749,10 +8786,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "京报网",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
-   "published_utc": "2026-10-20T04:46:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
+   "published_utc": "2026-10-20T04:37:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -8763,7 +8800,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b8b7943e562e9e1"
+   "id": "113a63c4f4301728"
   },
   {
    "source_id": "gn_kr_bok",
@@ -8905,23 +8942,6 @@
    "live_wire": true,
    "manual": false,
    "id": "05280fdf996be8e6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByR1RCUXRvdzJXdko3eDhTNzJoTkk3dU9yczRUTTRVaFl0ZFRnNF9mZHBtQkp6d3BNMXQ3TDRyTlFCcGxkWUxNbXF1X1VQWEdNX1JHbmdPbURVWFhoVENCNUp5SVJBRm80UVpzRzRhNA?oc=5",
-   "published_utc": "2026-10-20T03:18:00+00:00",
-   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e4ac9994d10111b"
   },
   {
    "source_id": "toyo_keizai",
@@ -10034,6 +10054,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b474010cf2072a9c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "界面新闻",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
+   "published_utc": "2026-10-19T12:18:00+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16528f1711d07747"
   },
   {
    "source_id": "tradingview_live",
@@ -51887,40 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1c6e2b8c465847ad"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets the profit data of industrial enterprises from January to August 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ESzhfaXBGLU1CRi1ETFcyWmt0QU1WdzR0YU5PTE1ISDNsRTVaMDNtNjlHZVE4MWNPRFMteEFQRTN0RE9mYlFKQXFiTjZZUzBsSG5KV2N6VGVrZTZ3ZmZqNWt0Yll4LVFaTW9GU0V6TQ?oc=5",
-   "published_utc": "2026-09-28T07:00:00+00:00",
-   "title_original": "国家统计局工业司首席统计师于卫宁解读2026年1—8月份工业企业利润数据",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "12bb79aed54144d9"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "RMB 661 billion was invested in overnight reverse repurchases in a single day, and the central bank provided clear signals of cross-season and cross-holiday protection.",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDJSeVg2UlJVQXdWZ1ctXzk5S1JXcnJKb2IySUQxXzJQUWxYb2VoQ0hwb2I4eTVRTUtSYmNrMjduWDlZZnAzQXZrOWQ2RDVsQnhrNE1adHBVNGNmODd0Z293SlhvRU1GRGhPelZnWDFQVTE1NzVvLU9GcmktRHJiQmZra21Za1VUb0lQVmRLdTE4UFow?oc=5",
-   "published_utc": "2026-09-28T07:00:00+00:00",
-   "title_original": "单日投放6610亿元隔夜逆回购 央行跨季、跨节呵护信号显著",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "75b026670585c8ca"
   },
   {
    "source_id": "manual_ia",
