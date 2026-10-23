@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-23T12:22:42.818352+00:00",
- "collected_at_utc": "2026-10-23T12:22:42.818352+00:00",
+ "generated_at_utc": "2026-10-23T12:32:43.663693+00:00",
+ "collected_at_utc": "2026-10-23T12:32:43.663693+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 988,
+  "japan": 987,
   "china": 844,
   "taiwan": 375,
-  "korea": 793
+  "korea": 794
  },
  "elapsed_s": 29.6,
  "sources": [
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T11:44:33+00:00"
+   "newest": "2026-10-23T12:20:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T11:38:35+00:00"
+   "newest": "2026-10-23T12:13:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-21T02:48:04+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T20:30:28+09:00"
+   "newest": "2026-10-23T21:26:57+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T10:56:21+00:00"
+   "newest": "2026-10-23T12:19:01+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T10:02:25+00:00"
+   "newest": "2026-10-23T11:27:43+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-23T11:00:10+00:00"
+   "newest": "2026-10-23T12:30:15+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T12:12:00+00:00"
+   "newest": "2026-10-23T12:32:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T10:02:21+00:00"
+   "newest": "2026-10-23T07:01:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T11:40:53+00:00"
+   "newest": "2026-10-23T12:14:02+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T14:02:00+00:00"
+   "newest": "2026-10-22T12:09:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com",
+   "url": "https://www.tradingview.com/news/DJN_DN20261023003087:0-sk-hynix-just-sent-another-warning-signal-to-the-ai-trade-barrons-com/",
+   "published_utc": "2026-10-23T12:18:00+00:00",
+   "title_original": "SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f30600f33040faad"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -1439,24 +1456,6 @@
    "id": "d33e8bd8bf1f3b44"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "USD/JPY: Yen Hits 5-Week High at ¥156.10 as US Yields Slide, Japan Inflation Hits 2026 Peak",
-   "url": "https://www.tradingview.com/news/tradingview:3c0b70dc1094b:0-usd-jpy-yen-hits-5-week-high-at-156-10-as-us-yields-slide-japan-inflation-hits-2026-peak/",
-   "published_utc": "2026-10-23T05:30:17+00:00",
-   "title_original": "USD/JPY: Yen Hits 5-Week High at ¥156.10 as US Yields Slide, Japan Inflation Hits 2026 Peak",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6d695aef82ec0f40"
-  },
-  {
    "source_id": "gn_tw_taipeitimes",
    "source_name": "Taipei Times",
    "title_en": "Executive Yuan approves draft tax incentives for TISAs",
@@ -1719,8 +1718,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -1734,7 +1733,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1789,8 +1788,8 @@
    "id": "ab339f10ce551a59"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -1803,7 +1802,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -4553,21 +4552,22 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "뉴스인",
-   "title_en": "Bank of Korea freezes base interest rate at 3.00% per annum... 7 members of the Monetary Policy Committee unanimously",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fc3lBS3lhZjl2U2pMR1FuYXcxV1FMR2RPQmRlZE5TVHN1TXN0bmQwYUZKb01zcXNjakQwUWdwRm9QRm1rUnZiNWNfbTJ3RGhaVWRBeGpGLU4wYmNmWlRCT1pxYkViVUJQRWx3?oc=5",
+   "source_name": "연합뉴스",
+   "title_en": "The Bank of Korea freezes interest rates amid inflation and housing prices... “Inspection of the impact of the increase” (Comprehensive 2nd report)",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NeDdYbDZBTXNZRXNfUkdIV2ZybDQwYTVZN01ZMXMwbGprbTlUR0I2NWtJejg4SkRiZ3Z1MVQwbnhPWDZzM05rT2NubU11akI5Y3JBcXlfZTF5MnfSAWBBVV95cUxNSWVISFU0dWVobnE0cXFOT2VsRE12X194MnRNY2pQNnpYT2lDaUg0bVR3V3hlUmNpc3JHNUpUZE5PN2h3VGF2TWNvVXYwV0RFc1dNRnBaREVYOXo1SENRY0U?oc=5",
    "published_utc": "2026-10-22T01:54:06+00:00",
-   "title_original": "한국은행, 기준금리 연 3.00% 동결…금통위원 7명 만장일치",
+   "title_original": "한은, 물가·집값 경계 속 금리 동결…\"인상 영향 점검\"(종합2보)",
    "region": "korea",
    "topics": [
     "monetary",
-    "signaling"
+    "inflation",
+    "property"
    ],
    "lang_original": "ko",
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "cbb74a813d65ab30"
+   "id": "b60ba9830df5863b"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -5415,8 +5415,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -5430,7 +5430,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -8096,8 +8096,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -8111,7 +8111,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
