@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T13:02:44.687038+00:00
+Última coleta: 2026-10-23T13:12:44.801398+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          987
-  🇨🇳 China          844
-  🇹🇼 Taiwan         375
+  🇨🇳 China          845
+  🇹🇼 Taiwan         374
   🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank launched a 700 billion yuan medium-term lending facility (MLF) operation on October 26_Compan
   - [korea] Micron pivots from 4F² to 3D DRAM, differing from rivals Samsung, SK Hynix: Wedbush
   - [china] The People's Bank of China will launch a 700 billion yuan MLF operation
   - [korea] What's Going On With SK Hynix Stock Friday
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan warns of risks from AI market shock, cyberattacks
   - [china] China's fiscal revenue slows to 5.1% growth in January-September period; land sales revenue falls 27.9% (Reute
   - [taiwan] Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer
-  - [china] China’s January-September fiscal revenue up 5.1% y/y
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T13:02:44+00:00",
+      "published_utc": "2026-10-23T13:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
