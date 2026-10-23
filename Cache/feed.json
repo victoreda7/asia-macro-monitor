@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T15:32:43.728241+00:00",
- "collected_at_utc": "2026-10-23T15:32:43.728241+00:00",
+ "generated_at_utc": "2026-10-23T15:42:52.233891+00:00",
+ "collected_at_utc": "2026-10-23T15:42:52.233891+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 984,
+  "japan": 985,
   "china": 848,
   "taiwan": 375,
-  "korea": 793
+  "korea": 792
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 36.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 13,
+   "count": 12,
    "error": "",
    "newest": "2026-10-23T09:30:00+00:00"
   },
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T10:26:26+00:00"
+   "newest": "2026-10-23T09:39:29+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-21T02:48:04+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T01:30:00+00:00"
+   "newest": "2026-10-23T06:31:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T05:55:44+00:00"
+   "newest": "2026-10-23T05:52:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T06:30:00+00:00"
+   "newest": "2026-10-23T06:38:09+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T15:30:06+00:00"
+   "newest": "2026-10-23T15:42:11+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Japan weighs rebranding energy, AI as defense spending under Trump pressure",
+   "url": "https://asia.nikkei.com/politics/defense/japan-weighs-rebranding-energy-ai-as-defense-spending-under-trump-pressure",
+   "published_utc": "2026-10-23T15:42:51.905647+00:00",
+   "title_original": "Japan weighs rebranding energy, AI as defense spending under Trump pressure",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6db83dc4fda6cc56"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "SK Hynix and Samsung likely to boost shareholder returns as demand stays strong: BofA",
+   "url": "https://www.tradingview.com/news/seekingalpha:dd780fa69094b:0-sk-hynix-and-samsung-likely-to-boost-shareholder-returns-as-demand-stays-strong-bofa/",
+   "published_utc": "2026-10-23T15:34:34+00:00",
+   "title_original": "SK Hynix and Samsung likely to boost shareholder returns as demand stays strong: BofA",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f5ed7135d2d799b9"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -657,24 +691,6 @@
    "id": "f164c07d7464b620"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate hikes (Asahi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93cnpxdEl6YWNCWmpTcTFwWS1jZVJMX3VFM1NEYmttcEt0dGxUX2Q0OGZBazdyUGpjMlYyRm9RbEFGTENaZjlGYWNuUS04MWNvZ1Y4ZEFZZWxmeHNranNySWVvTmV1Zkh0dzdLQXN1dkdPcUg1M1ktSjJWNFdGNFE?oc=5",
-   "published_utc": "2026-10-23T11:33:04+00:00",
-   "title_original": "日銀、物価上昇率「2%到達」と判断の公算大 追加利上げは見送りも（朝日新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5da8d178abbabd10"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Wuhan Tianyuan Group's Consortium Wins 3.6 Billion Yuan Bid For Project",
@@ -931,6 +947,24 @@
    "id": "c3c362223c41f1db"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQkU3bjBYajBmanRSaC1HYTc3REZVbVd1ZUl3SHpOaUNpODdpdmg2V3dUaDdsUVN5a1lWd3NHTG1CT3BxcC1BQXVYcFc0VDZST3FaRTV2UUh4NXVXSTJzOWdZTFNTN0o3VkE4bmRGMER1X2xpSGttUktaRks0eTZiVzJlTlk4OGF5YWVkZC1fODN1blRsZFZMd3hCRDh1QndwdkJGbVF3VUd4NlEyNWRZUkpENy1rTzFvenVmTnBXN214U28?oc=5",
+   "published_utc": "2026-10-23T09:39:29+00:00",
+   "title_original": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b6d46e389e747c9"
+  },
+  {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
    "title_en": "Bank of Japan: Inflation likely to reach 2% inflation",
@@ -999,24 +1033,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6c46ed66e8d60ad2"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQkU3bjBYajBmanRSaC1HYTc3REZVbVd1ZUl3SHpOaUNpODdpdmg2V3dUaDdsUVN5a1lWd3NHTG1CT3BxcC1BQXVYcFc0VDZST3FaRTV2UUh4NXVXSTJzOWdZTFNTN0o3VkE4bmRGMER1X2xpSGttUktaRks0eTZiVzJlTlk4OGF5YWVkZC1fODN1blRsZFZMd3hCRDh1QndwdkJGbVF3VUd4NlEyNWRZUkpENy1rTzFvenVmTnBXN214U28?oc=5",
-   "published_utc": "2026-10-23T09:33:58+00:00",
-   "title_original": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b6d46e389e747c9"
   },
   {
    "source_id": "focus_taiwan",
@@ -1488,23 +1504,6 @@
    "id": "eb75df77a9d5c57e"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "SK Hynix shares soar 4.4% after Solidigm IPO cancellation",
-   "url": "https://www.tradingview.com/news/invezz:61ba31078bc81:0/",
-   "published_utc": "2026-10-23T07:19:04+00:00",
-   "title_original": "Ações da SK Hynix disparam 4,4% após cancelamento do IPO da Solidigm",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "d62e3e781e2a755e"
-  },
-  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Kospi drops on AI funding worries, oil-driven inflation fears",
@@ -1555,6 +1554,24 @@
    "live_wire": false,
    "manual": false,
    "id": "5427e2031e7546a5"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate hikes (Asahi Shimbun)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93cnpxdEl6YWNCWmpTcTFwWS1jZVJMX3VFM1NEYmttcEt0dGxUX2Q0OGZBazdyUGpjMlYyRm9RbEFGTENaZjlGYWNuUS04MWNvZ1Y4ZEFZZWxmeHNranNySWVvTmV1Zkh0dzdLQXN1dkdPcUg1M1ktSjJWNFdGNFE?oc=5",
+   "published_utc": "2026-10-23T06:50:17+00:00",
+   "title_original": "日銀、物価上昇率「2%到達」と判断の公算大 追加利上げは見送りも（朝日新聞）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5da8d178abbabd10"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51906,23 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b65d05d1d22e7998"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "SK Hynix Stock Falls 5.1% as Rubin Memory Moves Into View",
-   "url": "https://www.tradingview.com/news/gurufocus:f996397b6094b:0-sk-hynix-stock-falls-5-1-as-rubin-memory-moves-into-view/",
-   "published_utc": "2026-09-28T20:42:23+00:00",
-   "title_original": "SK Hynix Stock Falls 5.1% as Rubin Memory Moves Into View",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3fd6788d915b479c"
   },
   {
    "source_id": "manual_ia",

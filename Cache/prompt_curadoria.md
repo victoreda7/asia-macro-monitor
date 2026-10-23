@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T15:32:43.728241+00:00
+Última coleta: 2026-10-23T15:42:52.233891+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          984
+  🇯🇵 Japão          985
   🇨🇳 China          848
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  793
+  🇰🇷 Coreia do Sul  792
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan weighs rebranding energy, AI as defense spending under Trump pressure
+  - [korea] SK Hynix and Samsung likely to boost shareholder returns as demand stays strong: BofA
   - [china] China's MiniMax completes export registration for open-source, overseas AI model licensing
   - [korea] Woori Financial Group : Earnings topped KRW 1 trillion as stronger fees and lower credit costs supported retur
   - [china] China issues guidelines to promote employment amid AI advances
@@ -35,7 +37,6 @@ Total: 3000 manchetes
   - [china] The People's Bank of China will launch a 700 billion yuan MLF operation
   - [korea] SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares
   - [japan] Bank of Japan's monetary policy meeting next week: Underlying inflation expected to reach 2%; interest rate hi
-  - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate
   - [china] Wuhan Tianyuan Group's Consortium Wins 3.6 Billion Yuan Bid For Project
   - [china] The central bank announced that it will carry out 700 billion yuan MLF operations
   - [japan] Euro set for weekly drop against dollar, yen as France concerns resurface
@@ -51,12 +52,11 @@ Total: 3000 manchetes
   - [china] Charts of the Day: Solar Exports Surge in September
   - [china] China sells offshore yuan bonds in Hong Kong at record-low yields
   - [china] EU Looks Beyond Cars for Next Round of China Trade Talks
+  - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com
   - [japan] Bank of Japan: Inflation likely to reach 2% inflation
   - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%; further interest rate hikes may be pos
   - [china] China Barely Eased Austerity Just Before Shift to Stimulus Mode
   - [china] HKMA names Deutsche Bank offshore yuan primary liquidity provider
-  - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com
-  - [taiwan] Taiwan industrial production up for 31st straight month in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T15:32:43+00:00",
+      "published_utc": "2026-10-23T15:42:52+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
