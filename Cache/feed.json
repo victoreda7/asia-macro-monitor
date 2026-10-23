@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T07:02:43.080148+00:00",
- "collected_at_utc": "2026-10-23T07:02:43.080148+00:00",
+ "generated_at_utc": "2026-10-23T07:12:43.792384+00:00",
+ "collected_at_utc": "2026-10-23T07:12:43.792384+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 991,
-  "china": 837,
-  "taiwan": 369,
+  "china": 836,
+  "taiwan": 370,
   "korea": 803
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T03:37:36+00:00"
+   "newest": "2026-10-21T23:44:22+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -57,9 +57,9 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "error": "",
-   "newest": "2026-10-23T02:03:00+00:00"
+   "newest": "2026-10-23T06:55:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T06:34:11+00:00"
+   "newest": "2026-10-23T07:01:51+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T06:31:21+00:00"
+   "newest": "2026-10-23T06:36:39+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T04:41:05+00:00"
+   "newest": "2026-10-23T07:00:50+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T05:25:51+00:00"
+   "newest": "2026-10-23T07:03:57+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-23T06:34:38+00:00"
+   "newest": "2026-10-23T07:03:36+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-23T02:01:59+00:00"
+   "newest": "2026-10-23T01:26:44+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T06:52:00+00:00"
+   "newest": "2026-10-23T07:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T04:02:27+00:00"
+   "newest": "2026-10-23T01:00:56+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T06:41:02+00:00"
+   "newest": "2026-10-23T01:03:17+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,75 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's Nikkei Falls, JGBs Soar as AI Jitters Spur Demand for Safe Assets",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46909N:0/",
+   "published_utc": "2026-10-23T07:07:25+00:00",
+   "title_original": "Nikkei do Japão cai, JGBs disparam à medida que o nervosismo com a IA estimula a demanda por ativos seguros",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "5bc5417fa9cf2bcf"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's January-September fiscal revenue up 5.1% y/y",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45A06S:0-china-s-january-september-fiscal-revenue-up-5-1-y-y/",
+   "published_utc": "2026-10-23T07:04:48+00:00",
+   "title_original": "China's January-September fiscal revenue up 5.1% y/y",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "891f13859739718e"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Kospi drops on AI funding worries, oil-driven inflation fears",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tOVRnOUd2cTR2UVp6Q3pMZGtCVjBCeEVXU1J2MEVCQmVmREpvNkpOS184RzhGdnJPbUpzbGtrMHhSemNnWlRTRHRpN2Rsa2d4UUM2b1ZQQ0dvVjcwdkZGTjdiQ3ZoWDliWVA0X1dJRmFUdjlPZDJRdlNB?oc=5",
+   "published_utc": "2026-10-23T07:03:57+00:00",
+   "title_original": "Kospi drops on AI funding worries, oil-driven inflation fears",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "24caeb1ad92da690"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Taiwan manufacturers' business sentiment hits 54-month high",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QVVZsejVMVTY0N1VtOXRlUDhfRFI4Qm41c2JPTHJ1WTduUW1TSmNXZ2ktcEdQS0dLeDEzc3VJRDgzcGdjbkhEb1VqM3F5dk1OMndUSEh0QQ?oc=5",
+   "published_utc": "2026-10-23T06:55:00+00:00",
+   "title_original": "Taiwan manufacturers' business sentiment hits 54-month high",
+   "region": "taiwan",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a16c3918be86c23e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1128,8 +1197,8 @@
    "id": "a5ef7945b0e9a587"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -1143,7 +1212,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a1aa424a8381650f"
+   "id": "9f7d07c9dd0602ca"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1215,23 +1284,6 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY258 BLN VIA O/N REVERSE REPO FRI",
-   "url": "https://www.tradingview.com/news/dpa_afx:ef167bd3d0010:0-china-pboc-conducts-cny258-bln-via-o-n-reverse-repo-fri/",
-   "published_utc": "2026-10-23T01:39:43+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY258 BLN VIA O/N REVERSE REPO FRI",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "da904a4907c0f0e6"
-  },
-  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "EXCLUSIVE: Japan weighs phasing out gasoline subsidies from December as costs mount, officials say",
@@ -1247,23 +1299,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5f134dcf7baa2aac"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7180 FRI VS 6.7195",
-   "url": "https://www.tradingview.com/news/dpa_afx:568f03f42d01c:0-china-sets-yuan-central-parity-at-6-7180-fri-vs-6-7195/",
-   "published_utc": "2026-10-23T01:35:44+00:00",
-   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7180 FRI VS 6.7195",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "192553dc25e811fe"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1284,8 +1319,8 @@
    "id": "ab339f10ce551a59"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -1298,7 +1333,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -1316,23 +1351,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1ad87ba4fc2ddea9"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "Kospi drops on AI funding worries, oil-driven inflation fears",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tOVRnOUd2cTR2UVp6Q3pMZGtCVjBCeEVXU1J2MEVCQmVmREpvNkpOS184RzhGdnJPbUpzbGtrMHhSemNnWlRTRHRpN2Rsa2d4UUM2b1ZQQ0dvVjcwdkZGTjdiQ3ZoWDliWVA0X1dJRmFUdjlPZDJRdlNB?oc=5",
-   "published_utc": "2026-10-23T01:03:56+00:00",
-   "title_original": "Kospi drops on AI funding worries, oil-driven inflation fears",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "24caeb1ad92da690"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -3204,7 +3222,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui DS Asset Management Chief Market Strategist] (THE GOLD ONLINE)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnZOVVJxcjhXaGF0bS1YdDFwbVRnWEEwYlh2NTdwVVJydFVpeVpINWFXNm1BbGxQRHRwV3NTVkN3bURrZGZybFhYVlFZRG1PTXc0QjYyMlVMcEtBVXphcnNXWEM3djV4OTc0djM0QjZ1eHo1SlhTNkZ2Z1dFa3pGVjJWbnJ1ZFZz?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MNUFnUWlkZUc3cElyWFFaV2ptNmNiOFJvQm85SkNHQzltZjBTOV9Ra09JVGRnTmVTLTdramVjdmlOejFqNlpveW5pQU5rQS1ON0JfZmMwMHNKQ0llQ3JHX1o0MkVpenpERGx1NktaRVNVUUdJZ085dE5DTk9Rdms?oc=5",
    "published_utc": "2026-10-22T05:12:15+00:00",
    "title_original": "2026年10月日銀政策会合プレビュー～今回の注目点を整理する【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】（THE GOLD ONLINE（ゴールドオンライン））",
    "region": "japan",
@@ -3216,7 +3234,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9faf0910794f29d5"
+   "id": "f1034c71bbfb07fa"
   },
   {
    "source_id": "gn_kr_bok",
@@ -3481,7 +3499,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -3493,7 +3511,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4858,8 +4876,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -4873,7 +4891,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -5840,23 +5858,6 @@
    "id": "e5cc372c63162978"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHNraGVxZVpzdVZzUjFvQlpfcXJRU2ZYdlJxdU5KY1k5ZVJCTGQtallhSmVkbjZFbDdmVE5NRTN1ODRMd3ltTUpkQWNTdy13NmQxZkhNZDVyOXFUU1o3OXlhQ3Nrc2RSRE05TmJQTkVTNnlseXdtd1NOMVdLdEo1cVU4OWlxMmk3S0Zvdg?oc=5",
-   "published_utc": "2026-10-21T06:08:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7e277f33f899b7cc"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Samsung, SK Hynix upgrade China plants to make advanced memory chips - Reuters",
@@ -5942,6 +5943,23 @@
    "live_wire": false,
    "manual": false,
    "id": "4932d8c9ad5c811e"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
+   "published_utc": "2026-10-21T05:02:00+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7b59d3d09f8c8605"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -7539,8 +7557,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -7554,7 +7572,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -8071,8 +8089,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -8086,7 +8104,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -8876,10 +8894,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
+   "source_name": "京报网",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
-   "published_utc": "2026-10-20T04:46:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
+   "published_utc": "2026-10-20T04:37:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -8890,7 +8908,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6b8b7943e562e9e1"
+   "id": "113a63c4f4301728"
   },
   {
    "source_id": "gn_kr_bok",
@@ -9032,23 +9050,6 @@
    "live_wire": true,
    "manual": false,
    "id": "05280fdf996be8e6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByR1RCUXRvdzJXdko3eDhTNzJoTkk3dU9yczRUTTRVaFl0ZFRnNF9mZHBtQkp6d3BNMXQ3TDRyTlFCcGxkWUxNbXF1X1VQWEdNX1JHbmdPbURVWFhoVENCNUp5SVJBRm80UVpzRzRhNA?oc=5",
-   "published_utc": "2026-10-20T03:18:00+00:00",
-   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e4ac9994d10111b"
   },
   {
    "source_id": "toyo_keizai",
@@ -10161,6 +10162,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b474010cf2072a9c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "界面新闻",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
+   "published_utc": "2026-10-19T12:18:00+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16528f1711d07747"
   },
   {
    "source_id": "tradingview_live",
@@ -18415,7 +18433,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlNsUG41RWRYNzFCcG1SZnBOblhubjhhb1pGazQzcnE2T2hjVTk3bFZjbmRBLWEtVjBvR2tvRGJtbTBQbFc3eUcwcjhsVWJhakZiUG94a3FmMlZ3NjRGN0pPQVI1Tmppb3ZhRk0yc2RoV19va1Z3SWpHSFEwcm56TVJzXzd0TUlVZnVmaWthckdzNjByUi1R?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV0wzeG5xZkFxWTNKWjJSQ25SckhoS0tuaXhaQkNlTW1IeU5DTW9XMGk0SkRYUHd1TmJzNDdZVXg0R3VFZ1JMRUFKX09GR00xcDBaRzIzb3lhVll4bUNVWjRHRmc1UUdGaEdQakpYVTR2ZUpJMExlVXdRS19TSk1QbTdqV2xzaE12UFBoZ0NYaWhOaG1Ua1h4Y0ZtX2FxRWVyMWVfZHhwZGc?oc=5",
    "published_utc": "2026-10-15T07:50:31+00:00",
    "title_original": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
    "region": "taiwan",
@@ -18426,7 +18444,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "dfc393bc45321e3c"
+   "id": "142595bf1a5461fb"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -24871,6 +24889,24 @@
    "id": "eb72c4933775de03"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Geothermal power too costly for chipmakers? Taiwan's semiconductor industry sees value beyond electricity prices",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2tBTm5HbW0xMTRSSHZKc1B0RTA5WjJMcHAtZ3JRcnlRUjJmRzA3T01kQ2RQOXgxbXJBa243NHc0Nm9fY2k0WjA2RG40OVdrTkN3cHJPNnZab2dCai1fQ1N0MWFZS2ZUWkl1azAyQUlLVXlpTzhrbFJKVmptZno2cDEzY3owejRKclFkSUZUaFJ1R2ZEaVFzS3BYQmlSWU0?oc=5",
+   "published_utc": "2026-10-13T07:00:00+00:00",
+   "title_original": "Geothermal power too costly for chipmakers? Taiwan's semiconductor industry sees value beyond electricity prices",
+   "region": "taiwan",
+   "topics": [
+    "inflation",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8ddfc296c6d0d1af"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "IMF Cuts China Growth Forecasts for 2026 and 2027",
@@ -25917,24 +25953,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cb1ae85f46387b51"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Geothermal power too costly for chipmakers? Taiwan's semiconductor industry sees value beyond electricity prices",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2tBTm5HbW0xMTRSSHZKc1B0RTA5WjJMcHAtZ3JRcnlRUjJmRzA3T01kQ2RQOXgxbXJBa243NHc0Nm9fY2k0WjA2RG40OVdrTkN3cHJPNnZab2dCai1fQ1N0MWFZS2ZUWkl1azAyQUlLVXlpTzhrbFJKVmptZno2cDEzY3owejRKclFkSUZUaFJ1R2ZEaVFzS3BYQmlSWU0?oc=5",
-   "published_utc": "2026-10-13T00:02:18+00:00",
-   "title_original": "Geothermal power too costly for chipmakers? Taiwan's semiconductor industry sees value beyond electricity prices",
-   "region": "taiwan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8ddfc296c6d0d1af"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51910,23 +51928,6 @@
    "live_wire": false,
    "manual": false,
    "id": "40b3d95ed2d54271"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Bank of Japan debated need for faster rate hikes, July minutes show By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcUpBSDI2QzFSQlQyNFRfajlMR1Q1WHcxZ3kyNVlGYXExdE82VWZseFJjd0pJZm1lUFNFM0hxWWxaSFRwdnc3LUc2emNpbldXOTM0QndDSFBmY2FpSkFxQkZialdLMnl4VjJ2YXd3eHdNRTRCbDU0VEMxcWNwcXhsbzBIdG1QNEpwYkdZS1Qya2drbGVqZ3YzMnNkSHBDSEYyeFgySmdJVndiYWlkVGM2THVEQVIxY1cxX2c?oc=5",
-   "published_utc": "2026-09-28T07:26:45+00:00",
-   "title_original": "Bank of Japan debated need for faster rate hikes, July minutes show By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "741ab2315d1fe38b"
   },
   {
    "source_id": "manual_ia",
