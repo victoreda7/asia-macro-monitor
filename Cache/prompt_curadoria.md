@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T07:32:45.252952+00:00
+Última coleta: 2026-10-23T07:42:42.809662+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Sees Limited Risk to Japanese Companies From Oil Shock — Market Talk
   - [japan] Consumption tax reduction bill begins substantive deliberation in the House of Representatives Finance and Fin
   - [japan] Japan futures slide as yen strengthens, logs weekly gain
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Obtaining Shares in Subsidiaries
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro
   - [japan] Japan considers ending gasoline subsidies in December- Reuters
   - [korea] Asia stocks fall as AI rout batters S.Korea; Japan spooked by strong CPI
-  - [japan] Japan government, BOJ gap on inflation laid bare ahead of key policy meeting
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T07:32:45+00:00",
+      "published_utc": "2026-10-23T07:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
