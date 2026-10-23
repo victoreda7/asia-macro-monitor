@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T14:52:43.978165+00:00",
- "collected_at_utc": "2026-10-23T14:52:43.978165+00:00",
+ "generated_at_utc": "2026-10-23T15:02:48.613249+00:00",
+ "collected_at_utc": "2026-10-23T15:02:48.613249+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 987,
-  "china": 845,
+  "japan": 986,
+  "china": 847,
   "taiwan": 374,
-  "korea": 794
+  "korea": 793
  },
- "elapsed_s": 30.9,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T22:53:14+09:00"
+   "newest": "2026-10-23T23:54:38+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T14:51:00+00:00"
+   "newest": "2026-10-23T15:01:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T10:02:21+00:00"
+   "newest": "2026-10-23T13:06:14+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Euro sinks on French debt worries; yen gains on AI rout",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4690M1:0-euro-sinks-on-french-debt-worries-yen-gains-on-ai-rout/",
+   "published_utc": "2026-10-23T14:53:34+00:00",
+   "title_original": "Euro sinks on French debt worries; yen gains on AI rout",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e4c836f3ab9800bd"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -1488,23 +1505,6 @@
    "id": "d62e3e781e2a755e"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's Nikkei Falls, JGBs Soar as AI Jitters Spur Demand for Safe Assets",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46909N:0/",
-   "published_utc": "2026-10-23T07:07:25+00:00",
-   "title_original": "Nikkei do Japão cai, JGBs disparam à medida que o nervosismo com a IA estimula a demanda por ativos seguros",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "5bc5417fa9cf2bcf"
-  },
-  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Kospi drops on AI funding worries, oil-driven inflation fears",
@@ -1520,6 +1520,23 @@
    "live_wire": false,
    "manual": false,
    "id": "24caeb1ad92da690"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Offshore Yuan Bonds Priced at Record Lows Amid Rally",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2I4ZUFVUWY3U2VjVXlyV1dTdUduT3JmRkN5THJiem5lSkVVTklUVXVoNjU0X2lCcmk5RW8zLW9fR21FazhINWR6SnBnMThFRThXTFZsajcxUUhYR0dWN3dveVFIVmUtR3VzMFpTOGh5N2ZtajBLNzQzeFpkNVFUZWJEWmcwMHhwSkgxM1Q4RjJwQmZPdV9KcHkzcGM1cWRsVmpoY1lReGs4U25fV1E?oc=5",
+   "published_utc": "2026-10-23T07:01:59+00:00",
+   "title_original": "China Offshore Yuan Bonds Priced at Record Lows Amid Rally",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3ac990465bc04646"
   },
   {
    "source_id": "focus_taiwan",
@@ -1538,6 +1555,24 @@
    "live_wire": false,
    "manual": false,
    "id": "5427e2031e7546a5"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China's Chery expects overseas-manufactured vehicles to top 50% of exports, exec says",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZHk5ZHpHczUxaXlFNzU2WEpmd0RwZWlmcUlPSlIzTTMtZElTcV9OR3U1OUYyblNndl9DZzFSekswOE85SS1Qb2VIeng4WkVXN1hRX3VpMlI3TC1SZ1BzMUpOY05kR2VmUWFLdU5TTHFKQ0Q5NjZPZkNuek9STzR1TEJyZC10dUF1eW5qeU5CanFlb3lnRUl2cVJreWdPQ2hadTRPOVNNazU1T0tZa0haTmtrX212OUVLVTNQQUxSSUwyalVmNk14NllPUzRoSHhfR3ZNdDBDX01GUQ?oc=5",
+   "published_utc": "2026-10-23T06:41:00+00:00",
+   "title_original": "China's Chery expects overseas-manufactured vehicles to top 50% of exports, exec says",
+   "region": "china",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "64b186fc404b7481"
   },
   {
    "source_id": "nhk_politics",
@@ -1659,6 +1694,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5abf1f301a8a9ea8"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHB5MEE0cmR1Y205c1BfamIzclJFY05ia3F1NmVsaUZCV01uY3lyQzRyay1wNjd6eGdwMldHdERWcmRNQ3dab2dvRHhEem9YWDlCNVRxUThjME9iOENjdEREam5uRlZFUzVMTHlXMTZQWnZrYU9Qa3hUUWtrc0prcVpvNXlLSlB4NjdpWlAycUtKMDV4endEWk5idTI4UVVtMWJZSDZjWjdVU2x3UUoycHpfRS0zVnJoZmEtbw?oc=5",
+   "published_utc": "2026-10-23T04:17:36+00:00",
+   "title_original": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "240723b44d97f05a"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1871,8 +1923,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -1886,7 +1938,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1941,8 +1993,8 @@
    "id": "ab339f10ce551a59"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -1955,7 +2007,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -1973,23 +2025,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1ad87ba4fc2ddea9"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHB5MEE0cmR1Y205c1BfamIzclJFY05ia3F1NmVsaUZCV01uY3lyQzRyay1wNjd6eGdwMldHdERWcmRNQ3dab2dvRHhEem9YWDlCNVRxUThjME9iOENjdEREam5uRlZFUzVMTHlXMTZQWnZrYU9Qa3hUUWtrc0prcVpvNXlLSlB4NjdpWlAycUtKMDV4endEWk5idTI4UVVtMWJZSDZjWjdVU2x3UUoycHpfRS0zVnJoZmEtbw?oc=5",
-   "published_utc": "2026-10-23T00:59:13+00:00",
-   "title_original": "Japan factory activity slows in Oct, services improve, PMI shows By Investing.com",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "240723b44d97f05a"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2632,23 +2667,6 @@
    "id": "abfe0c2edffabbef"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjBuQkcwQ29IaENVRWE4cjU3bzFxRGtSSU5sUTBhQ3pxOV8zOWFDRE5ZUHJleTZyN04yYXhYZ0pYVk1OQTgxS2F4a2sxU284aEc1SFZ2TG1rUGZudk9RNFZFRFlEb3VsVVFpcVRxMlhzMW9feGZwSFZ2bjBNckJYZFNhd0w1STNMZEtJdFgwbllhVlp5d3lrWUZveDV2Yk5jajE5b0NzRGs5UQ?oc=5",
-   "published_utc": "2026-10-22T22:14:23+00:00",
-   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "75b25107071fc789"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility",
@@ -2732,6 +2750,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6c4c3afc2afea619"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3czTU9vU0R1MUs1S2U5UmdQX2s5THdMSnppZVpzbkMxQzJfX0JyY1o2MHVpX1h3b2ZzREhWZ0VEeEw0YTVIOFp4X19oWjlFYWJpaFhYMmItTUpFYU83bllCWjZDSXd2RlR6U3hoOHVxOFNJbGJybkNUVHFPTEZrRWVvNm02Z0E0c09oY3V2c3VHejJ1UEFRX3BxRUZtMDRUdnNGbTFB?oc=5",
+   "published_utc": "2026-10-22T21:09:57+00:00",
+   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "099657ed920ba39c"
   },
   {
    "source_id": "toyo_keizai",
@@ -4207,7 +4242,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -4219,7 +4254,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -5583,8 +5618,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -5598,7 +5633,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -8264,8 +8299,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -8279,7 +8314,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
@@ -9954,9 +9989,9 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UOEd5TVhYdldxVjFRUFJkWVJDaXJaNmItUVh3UkVCRDRSdzBTYWEwQUVsQ3gzRThSbU1yLXkzZDBHVnluYi1aSXl3M2trV1JyS1lGdFFQcHU2SHZmeFR2SXhQZFc3amloMEpwSGdBczJ5ZloxMUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNXY4d0E5eEF5aUw0UlpGTGhjRnJzUENrZ010cUVzMVRZVmVnSDJOSW9yNEswWm9jdEN0UnhRNFNzMmV4VVp5ZktLWlJFRVpXWThpNTJSSEJ5Wm5adEpwSFpxMWhhZXp4ME45SHBtOEVRZw?oc=5",
    "published_utc": "2026-10-20T02:00:00+00:00",
-   "title_original": "2026年前三季度广东居民消费价格同比上涨0.9%",
+   "title_original": "2026年前三季度广东居民消费价格 同比上涨0.9%",
    "region": "china",
    "topics": [
     "inflation"
@@ -9965,7 +10000,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "83d5a510f10ebe66"
+   "id": "0bee112acf295ae1"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -51887,40 +51922,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9b663b0d2c6735e3"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "EXCLUSIVE: Colombia holds IMF financing talks as fiscal strain mounts, sources say",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVnQ3NTluR19RaEgzejl2OU1obXI5alZxMk8wTHFNWGJhTDczbE5yalFPbXlPdTdobXdDbG93eHJJWHFUNlUwSFJLVlpIR1NvZGFNc1dJTE42cGZYNXhIS3B4c3J6VmZpTUdlckl5Q2RFTGF1VC1OQ0tBZXhvWmowb3B0NnJGZXY5LWtCZy1yZlBiSW04WXdMc2xXbzViYUgxb2tjYXlkM2V2dkczTm1lOVRPb0F2UjdhV1hEVktxY1dqaFdV?oc=5",
-   "published_utc": "2026-09-28T18:26:00+00:00",
-   "title_original": "EXCLUSIVE: Colombia holds IMF financing talks as fiscal strain mounts, sources say",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e29e1f3844fbb87f"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Rising Interest Rates Are Starting to Trouble the Global Markets",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDk2Qmg0WnFHVTd1Nm9BbUdKZVRtRjMtTzJBZXlaemZid2hiQkNWbnZCRVpjVmR1Rmwybnd6bDEyM0JMenduWkl2bmxWOThoZ3VYWDBmQmVvT2ZoR3gxSnNLdGtBVjJObmEycVBSdGdJNGRNdmVva1ItM2twVEU3emQxQ1YwVFNWZldBTnFZV2ZhaTNOS0toMg?oc=5",
-   "published_utc": "2026-09-28T18:24:51+00:00",
-   "title_original": "Rising Interest Rates Are Starting to Trouble the Global Markets",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7cac974b160b2111"
   },
   {
    "source_id": "manual_ia",
