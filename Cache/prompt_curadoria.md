@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T04:02:43.486392+00:00
+Última coleta: 2026-10-23T04:12:44.127220+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          989
-  🇨🇳 China          840
+  🇨🇳 China          841
   🇹🇼 Taiwan         368
-  🇰🇷 Coreia do Sul  803
+  🇰🇷 Coreia do Sul  802
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan holds steady, set for fourth weekly rise
   - [japan] September consumer prices +2.1% compared to the same month last year, the first time in nine months that the i
   - [korea] SK Hynix says Solidigm suspends review of US IPO, citing market volatility
   - [japan] BOJ Likely to Declare It Achieved 2% Inflation Target in Upcoming Meeting — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan factory activity slows in Oct, services improve, PMI shows
   - [japan] JGB Yields Drop as Stocks Decline; French Debt Woes in Focus — Market Talk
   - [japan] Japan Manufacturing Growth Eases to 7-Month Low
-  - [japan] Japan Composite PMI Stays at 4-Month Low
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T04:02:43+00:00",
+      "published_utc": "2026-10-23T04:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

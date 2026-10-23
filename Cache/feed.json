@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T04:02:43.486392+00:00",
- "collected_at_utc": "2026-10-23T04:02:43.486392+00:00",
+ "generated_at_utc": "2026-10-23T04:12:44.127220+00:00",
+ "collected_at_utc": "2026-10-23T04:12:44.127220+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 989,
-  "china": 840,
+  "china": 841,
   "taiwan": 368,
-  "korea": 803
+  "korea": 802
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T12:59:37+00:00"
+   "newest": "2026-10-23T03:37:36+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 44,
+   "count": 46,
    "error": "",
-   "newest": "2026-10-23T10:03:08+08:00"
+   "newest": "2026-10-23T11:14:14+08:00"
   },
   {
    "source_id": "investing_live",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T03:29:31+00:00"
+   "newest": "2026-10-23T04:09:15+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T13:01:47+09:00"
+   "newest": "2026-10-23T13:04:54+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T03:51:09+00:00"
+   "newest": "2026-10-23T04:10:33+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T22:00:40+00:00"
+   "newest": "2026-10-23T01:00:56+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T00:01:36+00:00"
+   "newest": "2026-10-22T04:08:01+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-23T12:30:00+09:00"
+   "newest": "2026-10-23T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's yuan holds steady, set for fourth weekly rise",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46907D:0-china-s-yuan-holds-steady-set-for-fourth-weekly-rise/",
+   "published_utc": "2026-10-23T04:02:41+00:00",
+   "title_original": "China's yuan holds steady, set for fourth weekly rise",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "93f6e07025737693"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -641,8 +658,8 @@
    "id": "a5ef7945b0e9a587"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -656,7 +673,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a1aa424a8381650f"
+   "id": "9f7d07c9dd0602ca"
   },
   {
    "source_id": "tradingview_live",
@@ -814,8 +831,8 @@
    "id": "3d3f836abdd9aa63"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -828,7 +845,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -4491,8 +4508,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -4506,7 +4523,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -7189,8 +7206,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -7204,7 +7221,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -7721,8 +7738,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -7736,7 +7753,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -38706,23 +38723,6 @@
    "id": "0aa4a7623ecdced1"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scGlpUWM1bURSRTFhN055U1E4WF90eXVQQndOX3NtaDFNekxpcmZXYzBVbkJhb0FsTGJVSHllUXRRMVUyMDM0dXlLTmZUbXROVndVTmhLS0h6QQ?oc=5",
-   "published_utc": "2026-10-05T07:07:00+00:00",
-   "title_original": "BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "94afc5ed0e9cfaeb"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Bank of Japan New Building Blocks \"Shogun's Road\", Great Proposal from Tanzan to Pope...Road Replacement Operation, Land Exchange with Toyo Keizai The Disappeared Nikko Onarido | Politics, Economy, Investment | Toyo Keizai Online",
@@ -38738,6 +38738,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8ce1cfa2778c4591"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scGlpUWM1bURSRTFhN055U1E4WF90eXVQQndOX3NtaDFNekxpcmZXYzBVbkJhb0FsTGJVSHllUXRRMVUyMDM0dXlLTmZUbXROVndVTmhLS0h6QQ?oc=5",
+   "published_utc": "2026-10-05T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Japan farm minister retracts controversial budget remarks, makes apology",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "94afc5ed0e9cfaeb"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51906,25 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4994c0b53a9b1135"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "대한데일리",
-   "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... Are fiscal-monetary policies in sync?",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmSDhSUXZrSXRKd2tGNlJJWjRaRGQxTG5LWHNMZGYzZVpIQ3NwbHZuUE9GeHkzb1FsUDhVRTJtX01QOXJqUjdUakV5ZHdkeE13Wk5PZGhQVE5OS0hJWVNVajBOaFIyNFh5WkI4?oc=5",
-   "published_utc": "2026-09-28T06:34:43+00:00",
-   "title_original": "이형일-신현송 첫 만남…재정-통화정책 박자 맞추나",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "04e52791d95c9482"
   },
   {
    "source_id": "manual_ia",
