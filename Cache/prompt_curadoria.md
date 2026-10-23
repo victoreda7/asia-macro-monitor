@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T03:42:42.199830+00:00
+Última coleta: 2026-10-23T03:52:44.051291+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          988
+  🇯🇵 Japão          989
   🇨🇳 China          840
   🇹🇼 Taiwan         368
-  🇰🇷 Coreia do Sul  804
+  🇰🇷 Coreia do Sul  803
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Likely to Declare It Achieved 2% Inflation Target in Upcoming Meeting — Market Talk
   - [japan] Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro
   - [japan] Japan considers ending gasoline subsidies in December- Reuters
   - [korea] Asia stocks fall as AI rout batters S.Korea; Japan spooked by strong CPI
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Manufacturing Growth Eases to 7-Month Low
   - [japan] Japan Composite PMI Stays at 4-Month Low
   - [japan] ``Will not answer hypothetical questions'' on whether there will be any changes to the joint statement regardi
-  - [japan] Japan manufacturing growth slows to 7-month low in October, PMI shows
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T03:42:42+00:00",
+      "published_utc": "2026-10-23T03:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

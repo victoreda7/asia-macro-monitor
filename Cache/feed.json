@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T03:42:42.199830+00:00",
- "collected_at_utc": "2026-10-23T03:42:42.199830+00:00",
+ "generated_at_utc": "2026-10-23T03:52:44.051291+00:00",
+ "collected_at_utc": "2026-10-23T03:52:44.051291+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 988,
+  "japan": 989,
   "china": 840,
   "taiwan": 368,
-  "korea": 804
+  "korea": 803
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T01:03:56+00:00"
+   "newest": "2026-10-23T03:44:24+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T12:03:43+09:00"
+   "newest": "2026-10-23T12:44:13+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T02:08:00+00:00"
+   "newest": "2026-10-23T01:50:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-23T03:00:31+00:00"
+   "newest": "2026-10-23T03:44:01+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T01:46:26+00:00"
+   "newest": "2026-10-22T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T03:41:00+00:00"
+   "newest": "2026-10-23T03:51:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T01:03:17+00:00"
+   "newest": "2026-10-23T03:00:39+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,25 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "BOJ Likely to Declare It Achieved 2% Inflation Target in Upcoming Meeting — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261022014450:0-boj-likely-to-declare-it-achieved-2-inflation-target-in-upcoming-meeting-market-talk/",
+   "published_utc": "2026-10-23T03:48:00+00:00",
+   "title_original": "BOJ Likely to Declare It Achieved 2% Inflation Target in Upcoming Meeting — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b35e13396177497d"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -51906,23 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "04e52791d95c9482"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Kospi Snaps Four-Session Winning Streak; Semiconductor Stocks Retreat",
-   "url": "https://www.tradingview.com/news/DJN_DN20260928000665_20260928000666:0/",
-   "published_utc": "2026-09-28T06:34:00+00:00",
-   "title_original": "Kospi Snaps Four-Session Winning Streak; Semiconductor Stocks Retreat",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6bcf3202def784c8"
   },
   {
    "source_id": "manual_ia",
