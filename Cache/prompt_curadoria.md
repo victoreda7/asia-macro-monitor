@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T13:42:44.710897+00:00
+Última coleta: 2026-10-23T13:52:45.705136+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com
   - [china] BGI Genomics Q3 Net Profit At 2.9 Million Yuan
   - [japan] German Chancellor Merz will visit Japan next week to hold a summit meeting with Prime Minister Takaichi
   - [china] Hang Zhou Iron & Steel Q3 Net Loss At 108.7 Million Yuan
@@ -26,7 +27,6 @@ Total: 3000 manchetes
   - [korea] Micron pivots from 4F² to 3D DRAM, differing from rivals Samsung, SK Hynix: Wedbush
   - [korea] What's Going On With SK Hynix Stock Friday
   - [china] The People's Bank of China will launch a 700 billion yuan MLF operation
-  - [korea] SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com
   - [korea] SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares
   - [japan] Bank of Japan's monetary policy meeting next week: Underlying inflation expected to reach 2%; interest rate hi
   - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T13:42:44+00:00",
+      "published_utc": "2026-10-23T13:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
