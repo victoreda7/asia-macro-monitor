@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T09:42:45.950263+00:00
+Última coleta: 2026-10-23T09:52:46.459451+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          995
+  🇯🇵 Japão          993
   🇨🇳 China          837
-  🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  793
+  🇹🇼 Taiwan         376
+  🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
+  - [china] China sells offshore yuan bonds in Hong Kong at record-low yields
   - [japan] Bank of Japan: Inflation likely to reach 2% inflation
   - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%; further interest rate hikes may be pos
   - [china] HKMA names Deutsche Bank offshore yuan primary liquidity provider
@@ -27,6 +28,7 @@ Total: 3000 manchetes
   - [china] China's Hisense Home Appliances nine-month revenue falls on forex impact
   - [korea] SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount— WSJ
   - [japan] Bank of Japan warns of risks from AI market shock, cyberattacks
+  - [taiwan] Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer
   - [china] China’s January-September fiscal revenue up 5.1% y/y
   - [taiwan] Taiwan Jobless Rate at 3.33% in September
   - [korea] Chip-Price Inflation Serves as Growth Driver for South Korea, Taiwan — Market Talk
@@ -43,6 +45,7 @@ Total: 3000 manchetes
   - [japan] Japan futures slide as yen strengthens, logs weekly gain
   - [korea] BOK chief signals hawkish stance amid outlook for higher growth, rates
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Obtaining Shares in Subsidiaries
+  - [korea] SK Hynix shares soar 4.4% after Solidigm IPO cancellation
   - [japan] Japan's Nikkei Falls, JGBs Soar as AI Jitters Spur Demand for Safe Assets
   - [korea] Kospi drops on AI funding worries, oil-driven inflation fears
   - [taiwan] Taiwan manufacturers' business sentiment hits 54-month high
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Medipal Holdings Corp Says It Will Buy Back Up To 2% Of Own Shares Worth 10 Billion Yen
   - [japan] BOJ says Japan financial system stable, flags Middle East, AI financing risks
   - [korea] SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares
-  - [japan] Yen Focus Shifts to Central Bank Decisions, AI Tech Volatility — Market Talk
-  - [korea] Why SK hynix shelved Solidigm's $150b US IPO plan
-  - [korea] South Korea central bank governor says stronger won is appropriate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T09:42:46+00:00",
+      "published_utc": "2026-10-23T09:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

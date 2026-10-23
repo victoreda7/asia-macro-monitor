@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T09:42:45.950263+00:00",
- "collected_at_utc": "2026-10-23T09:42:45.950263+00:00",
+ "generated_at_utc": "2026-10-23T09:52:46.459451+00:00",
+ "collected_at_utc": "2026-10-23T09:52:46.459451+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 995,
+  "japan": 993,
   "china": 837,
-  "taiwan": 375,
-  "korea": 793
+  "taiwan": 376,
+  "korea": 794
  },
- "elapsed_s": 31.0,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T07:34:28+00:00"
+   "newest": "2026-10-23T08:26:42+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T06:55:00+00:00"
+   "newest": "2026-10-23T08:43:34+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T09:24:25+00:00"
+   "newest": "2026-10-23T09:45:17+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T09:18:21+00:00"
+   "newest": "2026-10-23T09:42:26+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T09:11:24+00:00"
+   "newest": "2026-10-23T09:30:35+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T09:07:00+00:00"
+   "newest": "2026-10-23T09:44:25+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T18:38:28+09:00"
+   "newest": "2026-10-23T18:43:39+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 24,
    "error": "",
    "newest": "2026-10-23T09:28:57+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T06:59:00+00:00"
+   "newest": "2026-10-23T07:49:48+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T09:42:10+00:00"
+   "newest": "2026-10-23T09:51:46+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T04:02:27+00:00"
+   "newest": "2026-10-23T07:01:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-23T09:37:44+00:00"
+   "newest": "2026-10-23T09:48:57+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T00:24:21+00:00"
+   "newest": "2026-10-23T07:26:11+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T14:02:00+00:00"
+   "newest": "2026-10-22T12:09:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China sells offshore yuan bonds in Hong Kong at record-low yields",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4690QU:0-china-sells-offshore-yuan-bonds-in-hong-kong-at-record-low-yields/",
+   "published_utc": "2026-10-23T09:43:28+00:00",
+   "title_original": "China sells offshore yuan bonds in Hong Kong at record-low yields",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "13635ffb988762a2"
+  },
   {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
@@ -415,11 +432,11 @@
    "id": "6b6d46e389e747c9"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
+   "source_id": "investing_fx",
+   "source_name": "Investing Forex",
    "title_en": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1hQZllZYmU1R3daeHIzU0VKcmUwTlZycVhUbHcyRmM3SVF0ODlReXdxREZ4Q2ZzbEFySkw4R05kNGJVX3lTWEltUkhLVU9QREp5bmFTTUJkSkRYLTNhMEJLcGJMYWdIN1ZYMUs3bHZpdUdxODJXc3l3OWw2UXJwaG12Z1RKT2thNjFGSWo5bm91WUQzX2ctaW5USmdGeFhOWkpuWi1ka3IxWnpmel9lYm9lNEV1NGdEcHNkQ2ppN3ZkeXM?oc=5",
-   "published_utc": "2026-10-23T09:32:00+00:00",
+   "url": "https://www.investing.com/news/forex-news/citi-expects-usdjpy-to-remain-rangebound-amid-bojs-rate-decision-93CH-4968564",
+   "published_utc": "2026-10-23T09:30:35+00:00",
    "title_original": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision",
    "region": "japan",
    "topics": [
@@ -430,7 +447,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d1d4bc96b540da32"
+   "id": "e736502ca4ce3d15"
   },
   {
    "source_id": "gn_tw_focus",
@@ -453,7 +470,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "金融界",
    "title_en": "The central bank will carry out 700 billion yuan MLF operation!",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RZnN1VXBDckJCQnlqUGFWa2VhN0xldUl4M1YzTkdkWWFoa2pvVjNuM01NOTVZOXRFWHRnejlNdFJBczVTX3hVTzlTREM4N25yUDMwUEoxMmZibktQcllOQnlaMDVQdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwZjlqRW5hOGNxS3pXMGxvN1J1NWVwNG5SdGpvTXdYNjNVRGZJMjZxRHpoMTRCNlFZc2E5QWQ0dXNlb2lLLXJUVGtDcllBRmh2eHdvajhnbjI3MkNZU2x6NXdsSE9vY2lDS08ydU5mck5qMEZs?oc=5",
    "published_utc": "2026-10-23T09:28:57+00:00",
    "title_original": "央行将开展7000亿元MLF操作！",
    "region": "china",
@@ -465,7 +482,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "77864f5f0a1391f1"
+   "id": "a28d8404fa28eebc"
   },
   {
    "source_id": "tradingview_live",
@@ -517,6 +534,24 @@
    "live_wire": false,
    "manual": false,
    "id": "f17691285e45d81c"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNy1DMUMtTHNUMnJOY3cwczhpUlRuNTRyTWhYak9mNGY5bGtFb2ZVSUN6Vk82S1lvZEdWMVU3MGt3UVA1aHhqbkpLRGszOGJOcGUzekZ2Vm9SRDhabHFVMUxQT3V6eWFHemJ2aHZtTXRDLVljNmRvZmswSVpLRGEyc3ZjZzc0OW1fZlc1V0g2YTY?oc=5",
+   "published_utc": "2026-10-23T08:43:34+00:00",
+   "title_original": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer",
+   "region": "taiwan",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "488d507f6c702bfd"
   },
   {
    "source_id": "investing_econ",
@@ -793,6 +828,23 @@
    "live_wire": true,
    "manual": false,
    "id": "eb75df77a9d5c57e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Invezz",
+   "title_en": "SK Hynix shares soar 4.4% after Solidigm IPO cancellation",
+   "url": "https://www.tradingview.com/news/invezz:61ba31078bc81:0/",
+   "published_utc": "2026-10-23T07:19:04+00:00",
+   "title_original": "Ações da SK Hynix disparam 4,4% após cancelamento do IPO da Solidigm",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "d62e3e781e2a755e"
   },
   {
    "source_id": "tradingview_live",
@@ -1229,40 +1281,6 @@
    "live_wire": true,
    "manual": false,
    "id": "19ac669b26f6deb4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China stocks slide as blue chips head for longest weekly losing streak",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N469039:0-china-stocks-slide-as-blue-chips-head-for-longest-weekly-losing-streak/",
-   "published_utc": "2026-10-23T04:43:41+00:00",
-   "title_original": "China stocks slide as blue chips head for longest weekly losing streak",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3f71315bbb833297"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "BOJ Likely to Hike Three More Times, Taking Policy Rate to 2% — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261023000059:0-boj-likely-to-hike-three-more-times-taking-policy-rate-to-2-market-talk/",
-   "published_utc": "2026-10-23T04:22:00+00:00",
-   "title_original": "BOJ Likely to Hike Three More Times, Taking Policy Rate to 2% — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0bd4e475b0fea911"
   },
   {
    "source_id": "gn_tw_cna",
@@ -3811,7 +3829,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -3823,7 +3841,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c5865e4da1f5c503"
+   "id": "6181c2f60b87f6c6"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6240,23 +6258,6 @@
    "id": "4932d8c9ad5c811e"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
-   "published_utc": "2026-10-21T05:02:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7b59d3d09f8c8605"
-  },
-  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China signals intent to push back against cleantech tariffs at COP31",
@@ -6289,6 +6290,23 @@
    "live_wire": false,
    "manual": false,
    "id": "64dc13c2cc1b7769"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVldhQU5xN0tMLTRxRDJsUUZRdVdsQjVNbHMwUmtEMm1VQzZ1NkpYdHYtYlc0aFJCYmVCQ05vbF9SOHpnVlZwMDFaX1NvQjRoQnhkMjkzRFJyVldIM1ktbHJua0lCWmo5LU5yRlMwQklRZ2tuZ1hIRTM5eEdpSHlKQ1BZeGtoVGFKV1ZlbQ?oc=5",
+   "published_utc": "2026-10-21T04:49:47+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "70bb31ada22a6249"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51908,23 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dc905dd71142c7fa"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Exclusive-Japan’s currency diplomat Mimura urges markets to heed ’very clear’ warning on yen By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbVR6Z2pIREY3ZHFKZWV6VUx2U2hrUmloSk9hcE5HXzN6QnMwZ3lVb1BxZzhCeFphOGRSODF4T0g3ZkVtdFcxcVlkdG95cGFMRjNaWHNlNTBqbVNtZFZaZEdjc2xTeV9NZm5FalRZcEROU0EzOHM4bmlDRUJUSnVwWVpPVkdVQXVFa3ZfV0FEUXF4ZmNQY3VZQWczSnNJa1h3cXYwWG5peG5sRjlVN0xFMWp5NXQtQWxfeHZBWGhqMkNaNGIwOEhFdVBR?oc=5",
-   "published_utc": "2026-09-28T09:24:46+00:00",
-   "title_original": "Exclusive-Japan’s currency diplomat Mimura urges markets to heed ’very clear’ warning on yen By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8de9b53478eb2ddb"
   },
   {
    "source_id": "manual_ia",
