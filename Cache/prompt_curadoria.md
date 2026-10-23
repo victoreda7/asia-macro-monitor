@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T00:12:44.101310+00:00
+Última coleta: 2026-10-23T00:22:42.213737+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          975
+  🇯🇵 Japão          976
   🇨🇳 China          846
   🇹🇼 Taiwan         369
-  🇰🇷 Coreia do Sul  810
+  🇰🇷 Coreia do Sul  809
 
 ## O que já está no feed (não repita)
 
   - [japan] Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target By Investing.com
+  - [japan] Japanese Yen Hits 5-week High
   - [korea] Key facts: SK hynix (000660) heavy foreign net selling; Q3 HBM focus
   - [japan] Japan is not yet officially out of deflation, economy minister says
   - [korea] SK Hynix Pulls the Plug On Solidigm’s US IPO Amid Regulatory Pushback
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia
   - [japan] Unexpected combination and convincing reason (2026 Nobel Prize in Economics): Hall, Woodford contributed to ef
   - [korea] BOK Financial Price Target Cut to $140.00/Share From $146.00 by Citigroup
-  - [taiwan] TSMC Looks Beyond China for Critical Chip Equipment Materials
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T00:12:44+00:00",
+      "published_utc": "2026-10-23T00:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
