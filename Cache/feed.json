@@ -1,26 +1,18 @@
 {
- "generated_at_utc": "2026-10-23T09:12:43.712379+00:00",
- "collected_at_utc": "2026-10-23T09:12:43.712379+00:00",
+ "generated_at_utc": "2026-10-23T09:22:44.709664+00:00",
+ "collected_at_utc": "2026-10-23T09:22:44.709664+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 991,
-  "china": 839,
+  "china": 840,
   "taiwan": 374,
-  "korea": 796
+  "korea": 795
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.3,
  "sources": [
-  {
-   "source_id": "gn_cn_reuters",
-   "name": "Reuters China",
-   "ok": false,
-   "count": 0,
-   "error": "sem resultados",
-   "newest": ""
-  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -155,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T14:34:36+00:00"
+   "newest": "2026-10-21T14:17:37+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-21T02:48:04+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T17:51:54+09:00"
+   "newest": "2026-10-23T18:18:13+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -195,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T18:08:44+09:00"
+   "newest": "2026-10-23T18:18:13+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -209,9 +201,17 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
+   "count": 27,
+   "error": "",
+   "newest": "2026-10-23T09:18:45+00:00"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "name": "Reuters China",
+   "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T01:26:44+00:00"
+   "newest": "2026-10-23T06:59:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T05:15:00+00:00"
+   "newest": "2026-10-23T09:01:10+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T09:11:58+00:00"
+   "newest": "2026-10-23T09:21:33+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T07:01:27+00:00"
+   "newest": "2026-10-23T04:02:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-23T07:59:33+00:00"
+   "newest": "2026-10-23T09:15:45+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "大河财立方",
+   "title_en": "The central bank will carry out 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxZTdNdTU2ZS1HODVReW1ES0RZRFZpSy1hWC1QZ21nME5IZTB1dkdEWnpHa1NaeHIwMVhBOUlKQWpWeDNGTW03MUwyM0ozNGh2V3kzeUNrVXVlUUxmRHF4a2V4bnY5N0ZoVHc?oc=5",
+   "published_utc": "2026-10-23T09:18:45+00:00",
+   "title_original": "央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d5a49498edc46b9"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -842,6 +860,23 @@
    "live_wire": true,
    "manual": false,
    "id": "1d2901b0cc1e9101"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares rebound",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UcjBMdjdJak5oWGREYW9MLW1UVXI5aXJYTW1GbW4ybTJ3YmI5NEcyclQwdEFhNlFpRGtpeHVfOWhibHNlY3lhVHliOWdKMWJKVkJiOXFxMzRxZy1KWWtmd18wSFJuQQ?oc=5",
+   "published_utc": "2026-10-23T06:03:51+00:00",
+   "title_original": "SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares rebound",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "246094d344e3e8f5"
   },
   {
    "source_id": "tradingview_live",
@@ -2783,7 +2818,7 @@
    "id": "7ac1ddbbd4aa0525"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "EXCLUSIVE: TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDZiLXZ3MjNBLVhJa0g3VzJ0SU9MalBLSjFrMWlJUVhXd21CY0x2OVo3SUVLV25tNnBDZVBKYnN4b1E2ZHd4Rm9FTzVGMDYySmtfU1lBRkxYUFl2eGlOWjllZEptTVZ6V3BVVFVtQVBaODVqWmp1V3dTckg2WUZVQVRYNTFIZU9yLU81bVJTNEhzZG8xR0xVNnFUcTRXSkg0cFVLOHBxSjVXSzdtdS13cFF4RkpscWdLeXdPb3Q4Sk9GQ1dybDZn?oc=5",
@@ -2797,7 +2832,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2f8e1d6ff4eb0a1d"
+   "id": "20b2a202fe543c4f"
   },
   {
    "source_id": "gn_kr_bok",
@@ -6029,6 +6064,23 @@
    "id": "e5cc372c63162978"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "搜狐",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHNraGVxZVpzdVZzUjFvQlpfcXJRU2ZYdlJxdU5KY1k5ZVJCTGQtallhSmVkbjZFbDdmVE5NRTN1ODRMd3ltTUpkQWNTdy13NmQxZkhNZDVyOXFUU1o3OXlhQ3Nrc2RSRE05TmJQTkVTNnlseXdtd1NOMVdLdEo1cVU4OWlxMmk3S0Zvdg?oc=5",
+   "published_utc": "2026-10-21T06:08:00+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7e277f33f899b7cc"
+  },
+  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Samsung, SK Hynix upgrade China plants to make advanced memory chips - Reuters",
@@ -6114,23 +6166,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4932d8c9ad5c811e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪网",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
-   "published_utc": "2026-10-21T05:02:00+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7b59d3d09f8c8605"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -9065,10 +9100,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "京报网",
+   "source_name": "搜狐",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
-   "published_utc": "2026-10-20T04:37:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUlmN0FjMlFOVFdrRE1wN2l3U0pGY0k1STI0ZVRaU1Z3c2IxNmNlY1ZiQzJHSGlabjJwS095Sl9rR3BfemhvMTBOLVMxNF9lTUl2dDZtQy16b0F6NDRBaFhsbE5sc1RScFhqUEFmRDJUX0J1MTVVWFF6NmFqc0RiVEMwT2I5NUlU?oc=5",
+   "published_utc": "2026-10-20T04:46:00+00:00",
    "title_original": "连续9个工作日，央行重磅动作！每日不超过10000亿元",
    "region": "china",
    "topics": [
@@ -9079,7 +9114,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "113a63c4f4301728"
+   "id": "6b8b7943e562e9e1"
   },
   {
    "source_id": "gn_kr_bok",
@@ -9221,6 +9256,23 @@
    "live_wire": true,
    "manual": false,
    "id": "05280fdf996be8e6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByR1RCUXRvdzJXdko3eDhTNzJoTkk3dU9yczRUTTRVaFl0ZFRnNF9mZHBtQkp6d3BNMXQ3TDRyTlFCcGxkWUxNbXF1X1VQWEdNX1JHbmdPbURVWFhoVENCNUp5SVJBRm80UVpzRzRhNA?oc=5",
+   "published_utc": "2026-10-20T03:18:00+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e4ac9994d10111b"
   },
   {
    "source_id": "toyo_keizai",
@@ -10333,23 +10385,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b474010cf2072a9c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "界面新闻",
-   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
-   "published_utc": "2026-10-19T12:18:00+00:00",
-   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16528f1711d07747"
   },
   {
    "source_id": "tradingview_live",
@@ -51889,41 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7df11b01737de49b"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "SBS Biz",
-   "title_en": "What is the base interest rate in October?... Shin Hyeon-song Beware of price pressure",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PSHRmMkxDT3JsdnZOUXFlSEtLbVFNbWRERjQyakFKd2lnSkJWV1p4a0RLdTVORk1BUGwzckE0ODRNYXdPaFEwTWNnX3BacXgwWlZzdXRMN1HSAVhBVV95cUxNT0h0ZjJMQ09ybHZ2TlFxZUhLS21RTW1kREY0MmpBSndpZ0pCVldaeGtES3U1TkZNQVBsM3JBNDg0TWF3T2hRME1jZ19wWnF4MFpWc3V0TDdR?oc=5",
-   "published_utc": "2026-09-28T08:54:00+00:00",
-   "title_original": "10월 기준금리 어떻게?…신현송 물가 압력 유의",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9cacacc9111fda1b"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "It was confirmed that the Ministry of Employment and Labor's \"Collective Bargaining Judgment Support..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QcUk4WVlsX19jTzJaN2hZbGczY1ZlYzA5LVY1MGxiYzYza3dTaV80SVBWalR5OGFEU2NZVG1nOVdJT1BIeVVFOHFCcWxFQ2FnYWc?oc=5",
-   "published_utc": "2026-09-28T08:45:35+00:00",
-   "title_original": "It was confirmed that the Ministry of Employment and Labor's \"Collective Bargaining Judgment Support..",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ac0d94a7054f13b1"
   },
   {
    "source_id": "manual_ia",

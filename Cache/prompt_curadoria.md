@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T09:12:43.712379+00:00
+Última coleta: 2026-10-23T09:22:44.709664+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
-  🇨🇳 China          839
+  🇨🇳 China          840
   🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  796
+  🇰🇷 Coreia do Sul  795
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank will carry out 700 billion yuan MLF operation
   - [china] China's Hisense Home Appliances nine-month revenue falls on forex impact
   - [korea] SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount— WSJ
   - [japan] Bank of Japan warns of risks from AI market shock, cyberattacks
@@ -46,6 +47,7 @@ Total: 3000 manchetes
   - [korea] Hanwha takes Korean defense, manufacturing ETFs to Abu Dhabi
   - [japan] Medipal Holdings Corp Says It Will Buy Back Up To 2% Of Own Shares Worth 10 Billion Yen
   - [japan] BOJ says Japan financial system stable, flags Middle East, AI financing risks
+  - [korea] SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares
   - [japan] Yen Focus Shifts to Central Bank Decisions, AI Tech Volatility — Market Talk
   - [korea] Why SK hynix shelved Solidigm's $150b US IPO plan
   - [korea] South Korea central bank governor says stronger won is appropriate
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] BOJ chief Ueda to speak at IMF lecture on November 6
   - [taiwan] Executive Yuan approves draft tax incentives for TISAs
   - [china] China Politburo calls for stronger leadership teams, deeper reforms
-  - [korea] Samsung begins investing in additional capacity at Texas chip plant- report
-  - [korea] SK Hynix trims losses after suspending chip unit Solidigm's IPO plans
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T09:12:43+00:00",
+      "published_utc": "2026-10-23T09:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
