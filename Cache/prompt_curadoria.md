@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T01:12:43.943213+00:00
+Última coleta: 2026-10-23T01:22:43.867327+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          979
+  🇯🇵 Japão          981
   🇨🇳 China          845
-  🇹🇼 Taiwan         369
-  🇰🇷 Coreia do Sul  807
+  🇹🇼 Taiwan         368
+  🇰🇷 Coreia do Sul  806
 
 ## O que já está no feed (não repita)
 
+  - [japan] Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures
   - [korea] SK Hynix abandons plan for US unit's IPO, citing market volatility
   - [korea] Kospi drops on AI funding worries, oil-driven inflation fears
+  - [japan] Japan Inflation Rises Above BOJ Target, Backing Rate Hikes
   - [korea] Why is SK Hynix stock sliding today?
   - [korea] Why is Samsung Electronics stock declining today?
   - [japan] Benchmark JGB yields hit 2-month lows as tech selloff spurs safe-haven demand
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] JAPAN SEPT INFLATION PICKS UP AS TOKYO’S SUMMER FREE BASE WATER CHARGE PROGRAM ENDS FOR SOME USERS, BASE YEAR 
   - [korea] SK Hynix Shelves Plans for U.S. Listing of Memory-Chip Unit Solidigm
   - [japan] Yen Jumps as Traders Seek Safety Amid Global Risk Averse Pivot
-  - [japan] JAPAN SEPT CORE CPI (EXCLUDING FRESH FOOD) +2.1% Y/Y, 61ST STRAIGHT RISE (AUG +1.7%); MEDIAN FORECAST +2.1%
-  - [japan] Japan Sept core CPI rises 2.1% yr/yr
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T01:12:44+00:00",
+      "published_utc": "2026-10-23T01:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
