@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T09:32:43.698810+00:00",
- "collected_at_utc": "2026-10-23T09:32:43.698810+00:00",
+ "generated_at_utc": "2026-10-23T09:42:45.950263+00:00",
+ "collected_at_utc": "2026-10-23T09:42:45.950263+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 991,
-  "china": 840,
-  "taiwan": 374,
-  "korea": 795
+  "japan": 995,
+  "china": 837,
+  "taiwan": 375,
+  "korea": 793
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,15 +51,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T08:03:45+00:00"
+   "newest": "2026-10-23T04:01:05+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": "",
-   "newest": "2026-10-23T06:55:00+00:00"
+   "newest": "2026-10-23T09:30:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T09:22:30+00:00"
+   "newest": "2026-10-23T09:33:58+00:00"
   },
   {
    "source_id": "ked_global",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T18:31:40+09:00"
+   "newest": "2026-10-23T18:38:28+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -203,7 +203,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T09:18:45+00:00"
+   "newest": "2026-10-23T09:28:57+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T04:54:00+00:00"
+   "newest": "2026-10-23T05:52:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T06:30:00+00:00"
+   "newest": "2026-10-23T06:38:09+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T09:31:06+00:00"
+   "newest": "2026-10-23T09:42:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T07:57:03+00:00"
+   "newest": "2026-10-23T09:37:44+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-23T09:15:45+00:00"
+   "newest": "2026-10-23T09:37:44+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -344,12 +344,118 @@
  ],
  "items": [
   {
+   "source_id": "yahoo_business",
+   "source_name": "Yahoo! ニュース 経済",
+   "title_en": "Bank of Japan: Inflation likely to reach 2% inflation",
+   "url": "https://news.yahoo.co.jp/pickup/6599845?source=rss",
+   "published_utc": "2026-10-23T09:37:44+00:00",
+   "title_original": "物価上昇2%到達判断の公算大 日銀",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9dff2c64167012de"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan is likely to judge that the inflation rate will reach 2%; further interest rate hikes may be postponed",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iYnVCUkZ6NFhNWW5aUlBvME5JNE9XcVNjS3NWNTJGdVdXM1dmd0hrU2ZmbFc0VmtJTmphQ1VrMzZ1bFhjaXY4V1lHeThTU285?oc=5",
+   "published_utc": "2026-10-23T09:37:44+00:00",
+   "title_original": "日銀、物価上昇率「2%到達」と判断の公算大 追加利上げは見送りも",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d3b757d7123a85b7"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "HKMA names Deutsche Bank offshore yuan primary liquidity provider",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4690C4:0-hkma-names-deutsche-bank-offshore-yuan-primary-liquidity-provider/",
+   "published_utc": "2026-10-23T09:35:04+00:00",
+   "title_original": "HKMA names Deutsche Bank offshore yuan primary liquidity provider",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6c46ed66e8d60ad2"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQkU3bjBYajBmanRSaC1HYTc3REZVbVd1ZUl3SHpOaUNpODdpdmg2V3dUaDdsUVN5a1lWd3NHTG1CT3BxcC1BQXVYcFc0VDZST3FaRTV2UUh4NXVXSTJzOWdZTFNTN0o3VkE4bmRGMER1X2xpSGttUktaRks0eTZiVzJlTlk4OGF5YWVkZC1fODN1blRsZFZMd3hCRDh1QndwdkJGbVF3VUd4NlEyNWRZUkpENy1rTzFvenVmTnBXN214U28?oc=5",
+   "published_utc": "2026-10-23T09:33:58+00:00",
+   "title_original": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6b6d46e389e747c9"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1hQZllZYmU1R3daeHIzU0VKcmUwTlZycVhUbHcyRmM3SVF0ODlReXdxREZ4Q2ZzbEFySkw4R05kNGJVX3lTWEltUkhLVU9QREp5bmFTTUJkSkRYLTNhMEJLcGJMYWdIN1ZYMUs3bHZpdUdxODJXc3l3OWw2UXJwaG12Z1RKT2thNjFGSWo5bm91WUQzX2ctaW5USmdGeFhOWkpuWi1ka3IxWnpmel9lYm9lNEV1NGdEcHNkQ2ppN3ZkeXM?oc=5",
+   "published_utc": "2026-10-23T09:32:00+00:00",
+   "title_original": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d1d4bc96b540da32"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Taiwan industrial production up for 31st straight month in September",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYV0VpZkZTbnE5VFZ4Ti1PdEFIMVFJTld6TVZzMzQ5X2lOclU3VlFJS1VVSWVLeVozRzhrVzVWQnFiYUsyR3RNcDJFekxjQVI5S1ozQV9oYw?oc=5",
+   "published_utc": "2026-10-23T09:30:00+00:00",
+   "title_original": "Taiwan industrial production up for 31st straight month in September",
+   "region": "taiwan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c8b4d5430b5c669"
+  },
+  {
    "source_id": "gn_cn_pboc",
-   "source_name": "大河财立方",
-   "title_en": "The central bank will carry out 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxZTdNdTU2ZS1HODVReW1ES0RZRFZpSy1hWC1QZ21nME5IZTB1dkdEWnpHa1NaeHIwMVhBOUlKQWpWeDNGTW03MUwyM0ozNGh2V3kzeUNrVXVlUUxmRHF4a2V4bnY5N0ZoVHc?oc=5",
-   "published_utc": "2026-10-23T09:18:45+00:00",
-   "title_original": "央行将开展7000亿元MLF操作",
+   "source_name": "金融界",
+   "title_en": "The central bank will carry out 700 billion yuan MLF operation!",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RZnN1VXBDckJCQnlqUGFWa2VhN0xldUl4M1YzTkdkWWFoa2pvVjNuM01NOTVZOXRFWHRnejlNdFJBczVTX3hVTzlTREM4N25yUDMwUEoxMmZibktQcllOQnlaMDVQdw?oc=5",
+   "published_utc": "2026-10-23T09:28:57+00:00",
+   "title_original": "央行将开展7000亿元MLF操作！",
    "region": "china",
    "topics": [
     "monetary",
@@ -359,7 +465,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "7d5a49498edc46b9"
+   "id": "77864f5f0a1391f1"
   },
   {
    "source_id": "tradingview_live",
@@ -1175,23 +1281,6 @@
    "live_wire": false,
    "manual": false,
    "id": "058b2e0c340bbe1e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's yuan holds steady, set for fourth weekly rise",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N46907D:0-china-s-yuan-holds-steady-set-for-fourth-weekly-rise/",
-   "published_utc": "2026-10-23T04:02:41+00:00",
-   "title_original": "China's yuan holds steady, set for fourth weekly rise",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "93f6e07025737693"
   },
   {
    "source_id": "investing_live",
@@ -51836,94 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8de9b53478eb2ddb"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "What is the base interest rate in October?... Shin Hyun-song \"Beware of price pressure\"",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YaE1rVDJBXzRQQms2dHdsUGNlUEJjQ0MyMEhGczFLZjN5VS0wVGpXMFdIbVJUbnZkVVRZNDF0YVFybEhCc1hlWTFoMFBpdkRlaXFMNg?oc=5",
-   "published_utc": "2026-09-28T09:15:04+00:00",
-   "title_original": "10월 기준금리 어떻게?…신현송 \"물가 압력 유의\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b705e0243fa516e3"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "[Preview of National Assembly Inspection] Bank of Korea Governor Shin Hyun-song’s first National Assembly inspection… Additional increase in '3% annual base interest rate', issue of household burden",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ub3NZT0tZWWZlZVlpMVNBRHJScldOVzBtaUJUODBrZ2pzbVFkRFhkeXoyT0pFVGtRb3RJWVVRYlpKQkgzYUE?oc=5",
-   "published_utc": "2026-09-28T09:01:21+00:00",
-   "title_original": "[미리 보는 국감] 신현송 한은 총재 첫 국감…'기준금리 연3%' 추가 인상·가계 부담 쟁점",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a1608bb7afbfe48"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank launched three-term reverse repos on September 28, with a net investment of 439.7 billion yuan.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5NEQ4c29NZWpTSTNUamxVOGsxRGJnN1BrTVhycks0cHRJdkdFQTlvdEVSTVI4enZweVpMYm5jQjd5MWhrTEJMYjBUWm1VZw?oc=5",
-   "published_utc": "2026-09-28T09:00:37+00:00",
-   "title_original": "央行9月28日开展三种期限逆回购 净投放4397亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fc7a39ae0de37dbc"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China to cut tariffs on US farm goods, but list excludes soybeans",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcS1oNDFMWG5pMzdiVDYzYlpoWmx2dXh2Z3FDbUJ5T09CbEFBV251Rkc2cFZTcnlPTDZ6N2hJbThrNTRrc255d0NZUWJhendkbXBNc3M4cWRWV1RaVkg3ZXg5Q2ZQVEZxWW1hX1V3UjJUOEJMZGlCRXJEdUpvZzUtQzdreVY5azNfSGxwakVfZFJOa0F0Y1NDWVllMHhaZEQybjRTdg?oc=5",
-   "published_utc": "2026-09-28T09:00:27+00:00",
-   "title_original": "China to cut tariffs on US farm goods, but list excludes soybeans",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "40c6326f9617087d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "stockstar.com",
-   "title_en": "The central bank launched three-term reverse repos on September 28, with a net investment of 439.7 billion yuan_Company News_Finance",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1TUl6U0tfWUoyZ18weUFjZDlwaWhoaEgxSlgyX2xidUhXLUI0RHZEbTBrRW1PLXE1b01pVVhFMW5NRWlhSW0yTHdodjlZMndjZHlQY0t6cG5oTDlsaUM5ZA?oc=5",
-   "published_utc": "2026-09-28T09:00:00+00:00",
-   "title_original": "央行9月28日开展三种期限逆回购净投放4397亿元_公司新闻_财经",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7df11b01737de49b"
   },
   {
    "source_id": "manual_ia",

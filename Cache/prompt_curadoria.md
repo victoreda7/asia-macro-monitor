@@ -7,17 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T09:32:43.698810+00:00
+Última coleta: 2026-10-23T09:42:45.950263+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          991
-  🇨🇳 China          840
-  🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  795
+  🇯🇵 Japão          995
+  🇨🇳 China          837
+  🇹🇼 Taiwan         375
+  🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
-  - [china] The central bank will carry out 700 billion yuan MLF operation
+  - [japan] Bank of Japan: Inflation likely to reach 2% inflation
+  - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%; further interest rate hikes may be pos
+  - [china] HKMA names Deutsche Bank offshore yuan primary liquidity provider
+  - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com
+  - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision
+  - [taiwan] Taiwan industrial production up for 31st straight month in September
+  - [china] The central bank will carry out 700 billion yuan MLF operation!
   - [china] China's Hisense Home Appliances nine-month revenue falls on forex impact
   - [korea] SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount— WSJ
   - [japan] Bank of Japan warns of risks from AI market shock, cyberattacks
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Focus Shifts to Central Bank Decisions, AI Tech Volatility — Market Talk
   - [korea] Why SK hynix shelved Solidigm's $150b US IPO plan
   - [korea] South Korea central bank governor says stronger won is appropriate
-  - [korea] South Korean economy’s growth likely picked up in Q3 on chip exports: Reuters poll
-  - [japan] USD/JPY: Yen Hits 5-Week High at ¥156.10 as US Yields Slide, Japan Inflation Hits 2026 Peak
-  - [korea] South Korean economy's growth likely picked up in Q3 on chip exports
-  - [japan] BOJ chief Ueda to speak at IMF lecture on November 6
-  - [taiwan] Executive Yuan approves draft tax incentives for TISAs
-  - [china] China Politburo calls for stronger leadership teams, deeper reforms
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T09:32:43+00:00",
+      "published_utc": "2026-10-23T09:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
