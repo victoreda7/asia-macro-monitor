@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T02:02:42.664006+00:00
+Última coleta: 2026-10-23T02:12:44.538455+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          983
-  🇨🇳 China          843
+  🇯🇵 Japão          985
+  🇨🇳 China          842
   🇹🇼 Taiwan         368
-  🇰🇷 Coreia do Sul  806
+  🇰🇷 Coreia do Sul  805
 
 ## O que já está no feed (não repita)
 
+  - [japan] The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly revie
+  - [japan] Yen shines as AI jitters spur safe-haven rush
+  - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike — Update
   - [korea] SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO On Market Jitters —Update
   - [china] CHINA PBOC CONDUCTS CNY258 BLN VIA O/N REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7180 FRI VS 6.7195
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] MNI JAPAN SEPT CORE CPI +2.1% Y/Y; AUG +1.7%
   - [japan] Japan's core inflation exceeds BOJ target, cements near-term rate hike chance
   - [japan] JAPAN SEPT CPI SERVICES (EX-OWNERS’ EQUIVALENT RENT) +2.0% VS. +1.5% IN AUG; GOODS (EX-FRESH FOOD) +2.8% VS. +
-  - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
-  - [japan] JAPAN SEPT CPI: ENERGY PRICES -0.6% Y/Y (-0.04 POINT) VS. -0.7% (-0.05 PT) IN AUG
-  - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T02:02:42+00:00",
+      "published_utc": "2026-10-23T02:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

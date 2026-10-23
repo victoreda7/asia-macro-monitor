@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T02:02:42.664006+00:00",
- "collected_at_utc": "2026-10-23T02:02:42.664006+00:00",
+ "generated_at_utc": "2026-10-23T02:12:44.538455+00:00",
+ "collected_at_utc": "2026-10-23T02:12:44.538455+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 983,
-  "china": 843,
+  "japan": 985,
+  "china": 842,
   "taiwan": 368,
-  "korea": 806
+  "korea": 805
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T01:00:00+00:00"
+   "newest": "2026-10-23T02:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,15 +51,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T04:28:04+00:00"
+   "newest": "2026-10-22T06:35:45+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "error": "",
-   "newest": "2026-10-22T01:23:00+00:00"
+   "newest": "2026-10-23T02:03:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T01:42:52+00:00"
+   "newest": "2026-10-23T02:02:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T00:12:19+00:00"
+   "newest": "2026-10-23T02:00:36+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T10:20:33+09:00"
+   "newest": "2026-10-23T11:08:17+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T10:20:33+09:00"
+   "newest": "2026-10-23T11:08:17+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T16:00:00+00:00"
+   "newest": "2026-10-23T01:46:26+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T01:50:51+00:00"
+   "newest": "2026-10-23T02:11:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T18:59:06+00:00"
+   "newest": "2026-10-22T22:00:40+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T01:19:27+00:00"
+   "newest": "2026-10-23T02:00:36+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-23T08:00:00+09:00"
+   "newest": "2026-10-23T11:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,11 +344,64 @@
  ],
  "items": [
   {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
+   "published_utc": "2026-10-23T02:08:17+00:00",
+   "title_original": "消費税減税法案 衆院財金委 27日参考人質疑 28日連合審査 合意",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9f7d07c9dd0602ca"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Yen shines as AI jitters spur safe-haven rush",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N469010:0-yen-shines-as-ai-jitters-spur-safe-haven-rush/",
+   "published_utc": "2026-10-23T02:05:55+00:00",
+   "title_original": "Yen shines as AI jitters spur safe-haven rush",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3c9a3d2c89a49a49"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261022014285:0-japan-consumer-inflation-uptick-offers-tailwind-for-boj-rate-hike-update/",
+   "published_utc": "2026-10-23T01:56:00+00:00",
+   "title_original": "Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike — Update",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "eb9e6a0a4382a88d"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO On Market Jitters —Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261022014277:0-sk-hynix-pulls-plug-on-memory-chip-unit-u-s-ipo-on-market-jitters-update/",
-   "published_utc": "2026-10-23T01:40:00+00:00",
+   "url": "https://www.tradingview.com/news/DJN_DN20261022014284:0-sk-hynix-pulls-plug-on-memory-chip-unit-u-s-ipo-on-market-jitters-update/",
+   "published_utc": "2026-10-23T01:55:00+00:00",
    "title_original": "SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO On Market Jitters —Update",
    "region": "korea",
    "topics": [
@@ -358,7 +411,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "d1f36e66e2190130"
+   "id": "a19d91fa9ca55186"
   },
   {
    "source_id": "tradingview_live",
@@ -447,8 +500,8 @@
    "id": "3d3f836abdd9aa63"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -461,7 +514,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -4159,8 +4212,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -4174,7 +4227,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -5698,7 +5751,7 @@
    "source_name": "21财经",
    "title_en": "The central bank launches 80 billion yuan overnight reverse repurchase operation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2kyMW9yak5TVnVkZWtveUtxT0E0UjM5aGZQNFllTVVvdHZhdnZFbXJ1NWNnbGdqeWxYa2ZxZ1JldE9XNVp6Q2VsTmJWQUZ3MVZ2VWxTTk9ranNjVXVfLXBINFFtMlNjWUl5dHNaelJYRzVjYktaVE0xLUJxZ3FSVkFzUGJNLVE1YWxCTEZ4dw?oc=5",
-   "published_utc": "2026-10-21T01:56:01+00:00",
+   "published_utc": "2026-10-21T01:56:00+00:00",
    "title_original": "央行开展800亿元隔夜逆回购操作",
    "region": "china",
    "topics": [
@@ -6857,8 +6910,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -6872,7 +6925,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -7389,8 +7442,8 @@
    "id": "ce287f83317cfd9d"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill: Prime Minister aims to enact the bill as soon as possible",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
    "published_utc": "2026-10-20T08:49:00+00:00",
@@ -7404,7 +7457,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a8840d46489bc5a3"
+   "id": "e4f160096f8226b8"
   },
   {
    "source_id": "tradingview_live",
@@ -9412,8 +9465,8 @@
    "id": "16284c1d20c36ac9"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Agriculture Minister Yan and Minister of Education, Culture, Sports, Science and Technology Seki pursue the funding source for consumption tax reduction on foodstuffs",
    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
    "published_utc": "2026-10-19T12:56:24+00:00",
@@ -9427,7 +9480,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "910cb411494c5e46"
+   "id": "3a01396d94bae9e6"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51871,59 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fc60ce548b669a1c"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Asian currencies weaken as dollar holds near two-month high, yen slips",
-   "url": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
-   "published_utc": "2026-09-28T04:49:36+00:00",
-   "title_original": "Asian currencies weaken as dollar holds near two-month high, yen slips",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a7a363126f692d54"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Beijing Gives Developers Breathing Room as Home Pre-Sale Rules Tighten",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ3FaTkhKSUdhNnRvRk9UTXdULWNxX2NzaUJDaUhYQmlGTlVLcWhJY3FKZEcwV2hmYmU0NF9kdXJndi1SMUxoYVcyblF3SEtmZDJYQUVQS1NmeG56b28xOUk4OFNLREhQT1VzVjY4MG1adnp4Q0Vic0xEcnZiSVlTNTlBeF8wLUxjSTIwRGVjdzRHcEExem9FWnpCMmV3Si12dTJIa0xLUXB5OWFtYk5lR3lNR21pN2FFa3NTSE1NWTRYT1E?oc=5",
-   "published_utc": "2026-09-28T04:37:00+00:00",
-   "title_original": "Beijing Gives Developers Breathing Room as Home Pre-Sale Rules Tighten",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ccfc54abe4f11130"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "더팩트",
-   "title_en": "Hyung-il Lee and Hyun-song Shin first meeting... “Seeking harmony between economic and monetary policies”",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96T0R3SWdnS3p2cEozekVCTW9VOGtLX0VJMHFBWm9OaFZtYnluWGJzX3JtbmtCVVQ1VnRTVVp5bEpRWTloZzItekhwTTVQS2lYU3Q3czltZ1A5UdIBVEFVX3lxTE93TU5DMHU4RC0xdXFVbWJEamc1VGxUbFJ2RUQwTW11dXY2V2YxSEp3QnR5OVlmRWpEM2o4X0g0dHZiYUJsTl9kY2ZTc1EzZm8wVlhZQQ?oc=5",
-   "published_utc": "2026-09-28T04:18:59+00:00",
-   "title_original": "이형일·신현송 첫 회동…\"경제·통화정책 조화 모색\"",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "50e76ba6f1d270a8"
   },
   {
    "source_id": "manual_ia",
