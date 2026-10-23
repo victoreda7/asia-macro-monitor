@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T13:32:43.229837+00:00
+Última coleta: 2026-10-23T13:42:44.710897+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          987
-  🇨🇳 China          845
+  🇯🇵 Japão          986
+  🇨🇳 China          846
   🇹🇼 Taiwan         374
   🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
+  - [china] BGI Genomics Q3 Net Profit At 2.9 Million Yuan
+  - [japan] German Chancellor Merz will visit Japan next week to hold a summit meeting with Prime Minister Takaichi
+  - [china] Hang Zhou Iron & Steel Q3 Net Loss At 108.7 Million Yuan
+  - [china] The central bank launches 700 billion yuan 1-year MLF operation
   - [japan] Japan-Micronesia summit meeting confirms further strengthening of bilateral relations
   - [china] The central bank launched a 700 billion yuan medium-term lending facility (MLF) operation on October 26_Compan
   - [korea] Micron pivots from 4F² to 3D DRAM, differing from rivals Samsung, SK Hynix: Wedbush
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision
   - [china] The central bank will carry out 700 billion yuan MLF operation!
   - [china] Central Bank: 700 billion yuan MLF operation will be carried out on October 26
-  - [china] China's Hisense Home Appliances nine-month revenue falls on forex impact
-  - [korea] SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount— WSJ
-  - [japan] Bank of Japan warns of risks from AI market shock, cyberattacks
-  - [china] China's fiscal revenue slows to 5.1% growth in January-September period; land sales revenue falls 27.9% (Reute
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T13:32:43+00:00",
+      "published_utc": "2026-10-23T13:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
