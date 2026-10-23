@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T19:45:23.153969+00:00
+Última coleta: 2026-10-23T19:52:43.471896+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          982
@@ -22,19 +22,19 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill enters substantive deliberation; debate continues over support payments, etc.
   - [japan] Japan banks prepared to weather AI crash, global rate spike: BOJ stress test
   - [china] China’s Fiscal Revenue Slips as Land-Sale Slump Deepens
-  - [china] The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion y
   - [china] EU Looks Beyond Cars for Next Round of China Trade Talks
   - [korea] Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says
   - [japan] Japan weighs rebranding energy, AI as defense spending under Trump pressure
   - [korea] SK Hynix and Samsung likely to boost shareholder returns as demand stays strong: BofA
   - [china] China's MiniMax completes export registration for open-source, overseas AI model licensing
+  - [china] The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion y
   - [korea] Woori Financial Group : Earnings topped KRW 1 trillion as stronger fees and lower credit costs supported retur
   - [china] China issues guidelines to promote employment amid AI advances
   - [korea] Apro: AT begins KRW spot trading on Bithumb - 23 Oct 2026
+  - [china] The central bank launches 700 billion yuan 1-year MLF operation
   - [korea] SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com
   - [china] BGI Genomics Q3 Net Profit At 2.9 Million Yuan
   - [japan] German Chancellor Merz will visit Japan next week to hold a summit meeting with Prime Minister Takaichi
-  - [china] The central bank launches 700 billion yuan 1-year MLF operation
   - [china] Hang Zhou Iron & Steel Q3 Net Loss At 108.7 Million Yuan
   - [japan] Japan-Micronesia summit meeting confirms further strengthening of bilateral relations
   - [china] The central bank launched a 700 billion yuan medium-term lending facility (MLF) operation on October 26_Compan
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T19:45:23+00:00",
+      "published_utc": "2026-10-23T19:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
