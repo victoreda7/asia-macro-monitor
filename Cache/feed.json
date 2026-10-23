@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T15:02:48.613249+00:00",
- "collected_at_utc": "2026-10-23T15:02:48.613249+00:00",
+ "generated_at_utc": "2026-10-23T15:12:48.461754+00:00",
+ "collected_at_utc": "2026-10-23T15:12:48.461754+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 986,
+  "japan": 985,
   "china": 847,
-  "taiwan": 374,
+  "taiwan": 375,
   "korea": 793
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T06:55:00+00:00"
+   "newest": "2026-10-23T03:24:14+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T14:45:49+00:00"
+   "newest": "2026-10-23T15:06:07+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T14:24:41+00:00"
+   "newest": "2026-10-23T14:55:00+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T11:27:43+00:00"
+   "newest": "2026-10-23T14:38:51+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T14:10:51+00:00"
+   "newest": "2026-10-23T05:55:44+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T15:01:00+00:00"
+   "newest": "2026-10-23T15:12:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T13:06:14+00:00"
+   "newest": "2026-10-23T10:02:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,23 +343,6 @@
   }
  ],
  "items": [
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Euro sinks on French debt worries; yen gains on AI rout",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4690M1:0-euro-sinks-on-french-debt-worries-yen-gains-on-ai-rout/",
-   "published_utc": "2026-10-23T14:53:34+00:00",
-   "title_original": "Euro sinks on French debt worries; yen gains on AI rout",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e4c836f3ab9800bd"
-  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -568,6 +551,24 @@
    "id": "c0606821eacd5484"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "界面新闻",
+   "title_en": "The central bank takes action! The 700 billion yuan MLF operation is coming",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxak9DNGVGYmJ0OEV3d2xVc1lHRElteUpFaXd5ME96Y01VZDZFZmE4aDhybWc3TGJlcWZzSzlSTGJiWDNRZzhfcFQ0cVo5Ri1rTlpwVlhwaXg?oc=5",
+   "published_utc": "2026-10-23T12:35:01+00:00",
+   "title_original": "央行出手！7000亿元MLF操作来了",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "32784aaf3dab8a64"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -724,24 +725,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ff6513742872dfea"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "界面新闻",
-   "title_en": "The central bank takes action! The 700 billion yuan MLF operation is coming",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxak9DNGVGYmJ0OEV3d2xVc1lHRElteUpFaXd5ME96Y01VZDZFZmE4aDhybWc3TGJlcWZzSzlSTGJiWDNRZzhfcFQ0cVo5Ri1rTlpwVlhwaXg?oc=5",
-   "published_utc": "2026-10-23T10:56:21+00:00",
-   "title_original": "央行出手！7000亿元MLF操作来了",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "32784aaf3dab8a64"
   },
   {
    "source_id": "nhk_economy",
@@ -1505,6 +1488,23 @@
    "id": "d62e3e781e2a755e"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan's Nikkei Falls, JGBs Soar as AI Jitters Spur Demand for Safe Assets",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N46909N:0/",
+   "published_utc": "2026-10-23T07:07:25+00:00",
+   "title_original": "Nikkei do Japão cai, JGBs disparam à medida que o nervosismo com a IA estimula a demanda por ativos seguros",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "5bc5417fa9cf2bcf"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "Kospi drops on AI funding worries, oil-driven inflation fears",
@@ -1797,6 +1797,24 @@
    "live_wire": true,
    "manual": false,
    "id": "f1e9cefcbfef2574"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC reportedly surveys suppliers on rare-earth-free motors as China's export-control pause nears legal expiry",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iX2VaT2hxLW50c2d4Y3FsODNTcVkzY0lRT2VvR0NJOE5BckdvZUVIcTFrZWhCWFRzTEQwam81WlBtOVl2MFVQQWdTeEtFUkF2VlJfOU5CeGtVaHdJQkJaeGdhT1JHN20yZkMxMlZuSlNQUFlzQ1dXWUtXMA?oc=5",
+   "published_utc": "2026-10-23T03:24:14+00:00",
+   "title_original": "TSMC reportedly surveys suppliers on rare-earth-free motors as China's export-control pause nears legal expiry",
+   "region": "taiwan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b7e2c6011927edbc"
   },
   {
    "source_id": "investing_econ",
@@ -2667,6 +2685,23 @@
    "id": "abfe0c2edffabbef"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjBuQkcwQ29IaENVRWE4cjU3bzFxRGtSSU5sUTBhQ3pxOV8zOWFDRE5ZUHJleTZyN04yYXhYZ0pYVk1OQTgxS2F4a2sxU284aEc1SFZ2TG1rUGZudk9RNFZFRFlEb3VsVVFpcVRxMlhzMW9feGZwSFZ2bjBNckJYZFNhd0w1STNMZEtJdFgwbllhVlp5d3lrWUZveDV2Yk5jajE5b0NzRGs5UQ?oc=5",
+   "published_utc": "2026-10-22T22:14:23+00:00",
+   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "75b25107071fc789"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility",
@@ -2750,23 +2785,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6c4c3afc2afea619"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3czTU9vU0R1MUs1S2U5UmdQX2s5THdMSnppZVpzbkMxQzJfX0JyY1o2MHVpX1h3b2ZzREhWZ0VEeEw0YTVIOFp4X19oWjlFYWJpaFhYMmItTUpFYU83bllCWjZDSXd2RlR6U3hoOHVxOFNJbGJybkNUVHFPTEZrRWVvNm02Z0E0c09oY3V2c3VHejJ1UEFRX3BxRUZtMDRUdnNGbTFB?oc=5",
-   "published_utc": "2026-10-22T21:09:57+00:00",
-   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "099657ed920ba39c"
   },
   {
    "source_id": "toyo_keizai",
@@ -3203,7 +3221,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcERxTU9OX3hUOXF6eWRyM3JnWEE5cmhDczVxY3VscWw0YnRMYjFFTHB0cUpWdnJhZDJaUDJLal95QWJPbElfanhBUGV5ZjhwaHI1VjVjLWhNZmIzUUwxZ1NFV051anVyMzBzTFFBNTktMFJWNkE5NTZ1R0pYT3pBSDdjSW9CalB2MlE4eXROeWpwQUhIeXVkRnJBNjI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX25KRUp2V1RrTDQxQU5IMTB6a01sb09rQ2xWeVIzaExPdGpkMUNzS2EyOXZFYUQ2R2NfSE1CaXljSE9hNmpUMWs4OHhHX1oyMm5nOThCZkM0UkdBbER1MlF4SnRLY20tMF9YWTVBNnFYZk1pX1dfRjlkS2hRVk5fNEdvRUFOZ1Z4dnRGU3pHMHF4QQ?oc=5",
    "published_utc": "2026-10-22T10:26:35+00:00",
    "title_original": "Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group",
    "region": "taiwan",
@@ -3214,7 +3232,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "3a9046bd81cff007"
+   "id": "805a5e3e2f3a4eab"
   },
   {
    "source_id": "investing_live",
@@ -4066,6 +4084,23 @@
    "id": "9c4829ceb49aac68"
   },
   {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China bets on manufactured water, and wants to sell it to the world",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNlRzeXJnMmVqekhrX0hhd08zVlRHbFFNSVp4cnNVdzRRdFg3WHNDbjU4LWdCbWt0Nmc2bmFQWGxNME1uWVVLMlMyUjdNaWlwbElJUTJKTG1KcXBfZlNDMm5NN2liZDhYRXdQUnNxN3dzTVJ1eFBHY0QzRFRVc2s2VHZwbC05VktuR0tEYVhCRDB2cjJIdTlHekJWRlFuT2Uwd1BPMFcxN004QQ?oc=5",
+   "published_utc": "2026-10-22T04:09:35+00:00",
+   "title_original": "China bets on manufactured water, and wants to sell it to the world",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ce6c4f6f445d3ff3"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening",
@@ -4099,23 +4134,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f91944309a47288a"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China bets on manufactured water, and wants to sell it to the world",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNlRzeXJnMmVqekhrX0hhd08zVlRHbFFNSVp4cnNVdzRRdFg3WHNDbjU4LWdCbWt0Nmc2bmFQWGxNME1uWVVLMlMyUjdNaWlwbElJUTJKTG1KcXBfZlNDMm5NN2liZDhYRXdQUnNxN3dzTVJ1eFBHY0QzRFRVc2s2VHZwbC05VktuR0tEYVhCRDB2cjJIdTlHekJWRlFuT2Uwd1BPMFcxN004QQ?oc=5",
-   "published_utc": "2026-10-22T04:03:00+00:00",
-   "title_original": "China bets on manufactured water, and wants to sell it to the world",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ce6c4f6f445d3ff3"
   },
   {
    "source_id": "gn_jp_investing",
@@ -9989,9 +10007,9 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNXY4d0E5eEF5aUw0UlpGTGhjRnJzUENrZ010cUVzMVRZVmVnSDJOSW9yNEswWm9jdEN0UnhRNFNzMmV4VVp5ZktLWlJFRVpXWThpNTJSSEJ5Wm5adEpwSFpxMWhhZXp4ME45SHBtOEVRZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UOEd5TVhYdldxVjFRUFJkWVJDaXJaNmItUVh3UkVCRDRSdzBTYWEwQUVsQ3gzRThSbU1yLXkzZDBHVnluYi1aSXl3M2trV1JyS1lGdFFQcHU2SHZmeFR2SXhQZFc3amloMEpwSGdBczJ5ZloxMUE?oc=5",
    "published_utc": "2026-10-20T02:00:00+00:00",
-   "title_original": "2026年前三季度广东居民消费价格 同比上涨0.9%",
+   "title_original": "2026年前三季度广东居民消费价格同比上涨0.9%",
    "region": "china",
    "topics": [
     "inflation"
@@ -10000,7 +10018,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0bee112acf295ae1"
+   "id": "83d5a510f10ebe66"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -34080,23 +34098,6 @@
    "id": "0a587661a2419676"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(2nd LD) Seoul shares down for 3rd day amid inflation worries",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5seDRvT2xqaUZpaVdMTDJLOFlTZDRMY3d2bWJ5YU96SnQtSHBSbHBOdUxPM01Nem9lX2otdjQ3M3pZUFFfUEszbTc5MjJ5Wko1V1Rpei1xdk14dw?oc=5",
-   "published_utc": "2026-10-08T07:00:00+00:00",
-   "title_original": "(2nd LD) Seoul shares down for 3rd day amid inflation worries",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ca8437f0ee955450"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan bans imports of China-made fiberglass silicone sleeves",
@@ -34112,6 +34113,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a6b8fc3bb7eacb06"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(2nd LD) Seoul shares down for 3rd day amid inflation worries",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5seDRvT2xqaUZpaVdMTDJLOFlTZDRMY3d2bWJ5YU96SnQtSHBSbHBOdUxPM01Nem9lX2otdjQ3M3pZUFFfUEszbTc5MjJ5Wko1V1Rpei1xdk14dw?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "title_original": "(2nd LD) Seoul shares down for 3rd day amid inflation worries",
+   "region": "korea",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ca8437f0ee955450"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -42377,6 +42395,23 @@
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
+   "title_en": "TSMC mulls multi-fab Texas campus beyond Arizona, with Singapore also in talks",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3BmeDJzNy13UzRFeEx3dTF1MlA3MUdha3kwZlNDdC0wcDMzUnNBZ0E4blBIcFlUWEtlMXROaEVDWXVyU0g5VHVMemxLYm1lS3BKaldzVVBVZEl6OGVrSmZQZUlNMTBqRDlIb1NTUWtqVFQ5OVhHWjNKaTZfZ0xJU2duVlJSWnhST3NtQlJhbGdZdzl1eFhvSQ?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "title_original": "TSMC mulls multi-fab Texas campus beyond Arizona, with Singapore also in talks",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3258a411378d8acc"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
    "title_en": "Taiwan pledges to help TSMC expand domestic investment amid Singapore rumors",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMkVvSkpSTVljV2d6RnMzMy02dlFSMzJDdVVpcHBzaFdkWXFQRDR6d2dhbkVVeUM2TzZmRHF0WnV3Y0VmTlM2c3pEMmtFT2xWXzZWRmc0eEpmWTgwaXZzNWxmanFpTHh4VnVyRDFOeU5WTWE1U09lcWVkVnVJbG1LSndRRUEtcEVzdzBWSWpnQjA3bTQ?oc=5",
    "published_utc": "2026-10-02T07:00:00+00:00",
@@ -42825,23 +42860,6 @@
    "live_wire": false,
    "manual": false,
    "id": "169b99ace4d9a43c"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC mulls multi-fab Texas campus beyond Arizona, with Singapore also in talks",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KaTdiVHZncjJydTRkVW92Q3hjNWxfOTFpbmhPTG1jVHBRWHdqZnhhakdoWURxdTIxMC0zNDhvUnBYcUJwSklQLWlzc1c4bEF4bjF5amlTTHRqZVU3QzhZ?oc=5",
-   "published_utc": "2026-10-02T03:47:47+00:00",
-   "title_original": "TSMC mulls multi-fab Texas campus beyond Arizona, with Singapore also in talks",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "4559de3c933a2b7c"
   },
   {
    "source_id": "gn_jp_investing",
@@ -50800,6 +50818,23 @@
    "id": "d7e346d3125265bc"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "GlobalFoundries eyes GaN expansion to challenge TSMC in AI",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1Z2cGVtc251TWphQnhBS2NzZmo3b3hnS3VpLVVUdzMwRE1IMmhPcGYyTG5XSlp0bi02Ui0yYlUzaUpiOHI3clVoRC1ITjdqSmx2T1ZlMnFUOVFaT0UzWHk2NFU3Y1R6S3B3S05rZUl4dlN5dFZvLUNxQ3oyVXR5NWhwMFVYcEszbDlRbGJNNEF2VXdnMGh4NXVJWU5fMG1kcEpNM2hVaw?oc=5",
+   "published_utc": "2026-09-29T07:00:00+00:00",
+   "title_original": "GlobalFoundries eyes GaN expansion to challenge TSMC in AI",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b95380d11edc33f2"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) Seoul stocks fall for 2nd day on inflation woes",
@@ -51109,23 +51144,6 @@
    "live_wire": false,
    "manual": false,
    "id": "38eb6ced08c6f719"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "GlobalFoundries eyes GaN expansion to challenge TSMC in AI",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1Z2cGVtc251TWphQnhBS2NzZmo3b3hnS3VpLVVUdzMwRE1IMmhPcGYyTG5XSlp0bi02Ui0yYlUzaUpiOHI3clVoRC1ITjdqSmx2T1ZlMnFUOVFaT0UzWHk2NFU3Y1R6S3B3S05rZUl4dlN5dFZvLUNxQ3oyVXR5NWhwMFVYcEszbDlRbGJNNEF2VXdnMGh4NXVJWU5fMG1kcEpNM2hVaw?oc=5",
-   "published_utc": "2026-09-29T03:31:47+00:00",
-   "title_original": "GlobalFoundries eyes GaN expansion to challenge TSMC in AI",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b95380d11edc33f2"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51905,23 +51923,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3fd6788d915b479c"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Yen Gains After Japan’s Currency Czar Warns Against Weakness",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOakpoa3l1cXNZY05NdVNnU085c1VjTDhhWHRIQXFFUU1vVl9UWFk5aDRfWGJpaG9DTEwzWTRWS3RSejdDLTVEWUUzZk5jbmtvei1vbEtMcExiY2czWVJDOC1TUVdRRkd5cnJ6dm9uMk1rOVZWZHRYZnFkZTZNNE14Z0VZRUh2VnRHRHJ5ZTRhX2EybVVBU294UVA1VWcxdzl5YThvVEUwRlprYXRObk1FNA?oc=5",
-   "published_utc": "2026-09-28T20:29:43+00:00",
-   "title_original": "Yen Gains After Japan’s Currency Czar Warns Against Weakness",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b663b0d2c6735e3"
   },
   {
    "source_id": "manual_ia",
