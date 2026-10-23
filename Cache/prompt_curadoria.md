@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T07:22:45.164698+00:00
+Última coleta: 2026-10-23T07:32:45.252952+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
   🇨🇳 China          836
-  🇹🇼 Taiwan         370
-  🇰🇷 Coreia do Sul  803
+  🇹🇼 Taiwan         371
+  🇰🇷 Coreia do Sul  802
 
 ## O que já está no feed (não repita)
 
+  - [japan] Consumption tax reduction bill begins substantive deliberation in the House of Representatives Finance and Fin
+  - [japan] Japan futures slide as yen strengthens, logs weekly gain
+  - [taiwan] REG - Hon Hai Prec.Ind.Co - Obtaining Shares in Subsidiaries
   - [japan] Japan's Nikkei Falls, JGBs Soar as AI Jitters Spur Demand for Safe Assets
   - [china] China's January-September fiscal revenue up 5.1% y/y
   - [korea] Kospi drops on AI funding worries, oil-driven inflation fears
@@ -33,7 +36,6 @@ Total: 3000 manchetes
   - [korea] South Korean economy’s growth likely picked up in Q3 on chip exports: Reuters poll
   - [japan] USD/JPY: Yen Hits 5-Week High at ¥156.10 as US Yields Slide, Japan Inflation Hits 2026 Peak
   - [korea] South Korean economy's growth likely picked up in Q3 on chip exports
-  - [japan] Consumption tax reduction bill begins substantive deliberation in the House of Representatives Finance and Fin
   - [japan] Yen set for weekly gain as AI jitters spur safe-haven rush
   - [japan] BOJ chief Ueda to speak at IMF lecture on November 6
   - [taiwan] Executive Yuan approves draft tax incentives for TISAs
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan considers ending gasoline subsidies in December- Reuters
   - [korea] Asia stocks fall as AI rout batters S.Korea; Japan spooked by strong CPI
   - [japan] Japan government, BOJ gap on inflation laid bare ahead of key policy meeting
-  - [japan] BOJ Could Be in Tough Spot If Costs Curb Consumption — Market Talk
-  - [korea] Krafton Target Price Cut to KRW210,000 From KRW 300,000 by Nomura>259960.SE
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T07:22:45+00:00",
+      "published_utc": "2026-10-23T07:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
