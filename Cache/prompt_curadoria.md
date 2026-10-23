@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T06:32:44.130183+00:00
+Última coleta: 2026-10-23T06:42:43.972400+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          991
-  🇨🇳 China          836
-  🇹🇼 Taiwan         368
-  🇰🇷 Coreia do Sul  805
+  🇯🇵 Japão          990
+  🇨🇳 China          837
+  🇹🇼 Taiwan         369
+  🇰🇷 Coreia do Sul  804
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Chery expects overseas-manufactured vehicles to top 50% of exports, exec says
+  - [japan] Foreign Minister Motegi holds U.S.-China-Russia summit meeting, communicates closely with U.S.
+  - [japan] Fanuc Corp Says It Will Buy Back Up To 1.08% Of Own Shares Worth 500 Billion Yen
+  - [korea] Hanwha takes Korean defense, manufacturing ETFs to Abu Dhabi
+  - [japan] Medipal Holdings Corp Says It Will Buy Back Up To 2% Of Own Shares Worth 10 Billion Yen
   - [japan] BOJ says Japan financial system stable, flags Middle East, AI financing risks
   - [japan] Yen Focus Shifts to Central Bank Decisions, AI Tech Volatility — Market Talk
   - [korea] Why SK hynix shelved Solidigm's $150b US IPO plan
@@ -29,7 +34,6 @@ Total: 3000 manchetes
   - [japan] BOJ chief Ueda to speak at IMF lecture on November 6
   - [taiwan] Executive Yuan approves draft tax incentives for TISAs
   - [china] China Politburo calls for stronger leadership teams, deeper reforms
-  - [japan] Foreign Minister Motegi holds U.S.-China-Russia summit meeting, communicates closely with U.S.
   - [korea] Samsung begins investing in additional capacity at Texas chip plant- report
   - [korea] SK Hynix trims losses after suspending chip unit Solidigm's IPO plans
   - [japan] Japan Flash PMI Signals Softening Demand as Inflation Risks Linger — Market Talk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea issues unprecedented warning against fiscal expansion: “If spending continues to increase, it wi
   - [korea] SK Hynix says Solidigm suspends review of US IPO, citing market volatility
   - [japan] Yen's Latest Rise Likely Driven by Safe-Haven Demand — Market Talk
-  - [korea] South Korean won, Philippine peso rises the most among Asian FX
-  - [japan] Japan futures slide as yen strengthens, on track for second weekly loss
-  - [china] China Is Said to Tighten Scrutiny of Listed Company Spinoffs
-  - [china] The central bank launches 258 billion yuan overnight reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T06:32:44+00:00",
+      "published_utc": "2026-10-23T06:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
