@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T06:22:42.384584+00:00
+Última coleta: 2026-10-23T06:32:44.130183+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          991
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ says Japan financial system stable, flags Middle East, AI financing risks
   - [japan] Yen Focus Shifts to Central Bank Decisions, AI Tech Volatility — Market Talk
   - [korea] Why SK hynix shelved Solidigm's $150b US IPO plan
   - [korea] South Korea central bank governor says stronger won is appropriate
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan futures slide as yen strengthens, on track for second weekly loss
   - [china] China Is Said to Tighten Scrutiny of Listed Company Spinoffs
   - [china] The central bank launches 258 billion yuan overnight reverse repurchase operation
-  - [japan] Bitcoin Faces 2 December Rate Hikes as Japan’s Inflation Clears the BOJ’s Target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T06:22:42+00:00",
+      "published_utc": "2026-10-23T06:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

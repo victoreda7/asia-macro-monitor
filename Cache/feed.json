@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-23T06:22:42.384584+00:00",
- "collected_at_utc": "2026-10-23T06:22:42.384584+00:00",
+ "generated_at_utc": "2026-10-23T06:32:44.130183+00:00",
+ "collected_at_utc": "2026-10-23T06:32:44.130183+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 368,
   "korea": 805
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 46,
+   "count": 49,
    "error": "",
-   "newest": "2026-10-23T11:14:14+08:00"
+   "newest": "2026-10-23T13:52:23+08:00"
   },
   {
    "source_id": "investing_live",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T04:01:44+00:00"
+   "newest": "2026-10-23T04:41:05+00:00"
   },
   {
    "source_id": "ked_global",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T14:24:31+09:00"
+   "newest": "2026-10-23T15:27:20+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T06:22:11+00:00"
+   "newest": "2026-10-23T06:31:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T01:00:56+00:00"
+   "newest": "2026-10-23T04:02:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "BOJ says Japan financial system stable, flags Middle East, AI financing risks",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44O011:0-boj-says-japan-financial-system-stable-flags-middle-east-ai-financing-risks/",
+   "published_utc": "2026-10-23T06:07:49+00:00",
+   "title_original": "BOJ says Japan financial system stable, flags Middle East, AI financing risks",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1d2901b0cc1e9101"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -1281,24 +1298,6 @@
    "live_wire": false,
    "manual": false,
    "id": "24caeb1ad92da690"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Yen Rallies on Haven Buying, Strong Inflation",
-   "url": "https://www.tradingview.com/news/te_news:594410:0-yen-rallies-on-haven-buying-strong-inflation/",
-   "published_utc": "2026-10-23T01:03:45+00:00",
-   "title_original": "Yen Rallies on Haven Buying, Strong Inflation",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9aadac1c1c7403e6"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2560,6 +2559,23 @@
    "id": "20b2a202fe543c4f"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "부산일보",
+   "title_en": "Bank of Korea base interest rate unanimously ‘frozen’",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RNU4tV1Y3eVJaRG9MMG96NEUtdzBmMVR4dTRNYS1aMEhXSzFoMEU4YzFmMndLRnpHRFFtN192NFAxT3FleElsdnZ2bDh5bm93bGgwamRqR0ZyWGw5SlJld2FyUDNqeEdGdHZkbkI2STJIY1ZK?oc=5",
+   "published_utc": "2026-10-22T09:05:41+00:00",
+   "title_original": "한국은행 기준금리 만장일치 ‘동결’",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e08d80a328df73a3"
+  },
+  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "China’s Gulf oil imports forecast to near pre-Iran war high as shipments rebound",
@@ -2575,6 +2591,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b9b0c129d0d38dbe"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Cuts announced to Japan's eco-friendly car subsidies",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QWmUxbklNazNMQWJfdTB6eVotUl9GQ2tFTkhrdFFqbkdPMC1uNy1lWEtldHJUVlJiY3RRdllOdzJwYTZlT1NnV3FYTmc1cWpJTC1MWTRmaHZSMUpwSzZEc0psSQ?oc=5",
+   "published_utc": "2026-10-22T08:45:00+00:00",
+   "title_original": "Cuts announced to Japan's eco-friendly car subsidies",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e1797372bb8aa058"
   },
   {
    "source_id": "gn_kr_mk",
@@ -3945,23 +3978,6 @@
    "id": "9aae3b86f2a0cb31"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "프라임경제",
-   "title_en": "Bank of Korea freezes base interest rate at 3.00% per annum... Impression effect check",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxV2JTaUtGRUU4cGN3Rl9pcEUtQWlBcDRNWGFKRWg4V1ZOYWxTTW8tanJHdERqdnlkNzhiQ0ttaU81OFJJRVRuZzVLSzdWRnRNRmJncWYxSS03aEwzWUEzTVBCTTdHZGZfM0ZCcDhIelRzUQ?oc=5",
-   "published_utc": "2026-10-22T01:50:01+00:00",
-   "title_original": "한국은행, 기준금리 연 3.00% 동결…인상 효과 점검",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "41d8fed066357aab"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "https://m.capwhale.com/",
    "title_en": "The central bank launched a 173 billion yuan overnight reverse repurchase operation",
@@ -4565,23 +4581,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2c7edac4e5615b18"
-  },
-  {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Cuts announced to Japan's eco-friendly car subsidies",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QWmUxbklNazNMQWJfdTB6eVotUl9GQ2tFTkhrdFFqbkdPMC1uNy1lWEtldHJUVlJiY3RRdllOdzJwYTZlT1NnV3FYTmc1cWpJTC1MWTRmaHZSMUpwSzZEc0psSQ?oc=5",
-   "published_utc": "2026-10-21T16:46:00+00:00",
-   "title_original": "Cuts announced to Japan's eco-friendly car subsidies",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e1797372bb8aa058"
   },
   {
    "source_id": "nikkei_asia",
