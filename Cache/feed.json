@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T21:12:45.482992+00:00",
- "collected_at_utc": "2026-10-23T21:12:45.482992+00:00",
+ "generated_at_utc": "2026-10-23T21:22:42.164575+00:00",
+ "collected_at_utc": "2026-10-23T21:22:42.164575+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 984,
+  "japan": 983,
   "china": 851,
-  "taiwan": 373,
+  "taiwan": 374,
   "korea": 792
  },
- "elapsed_s": 30.4,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T06:55:00+00:00"
+   "newest": "2026-10-23T08:43:34+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T14:34:36+00:00"
+   "newest": "2026-10-21T14:17:37+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-23T20:04:15+00:00"
+   "newest": "2026-10-23T21:19:15+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T21:12:06+00:00"
+   "newest": "2026-10-23T21:21:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T21:02:33+00:00"
+   "newest": "2026-10-23T21:17:21+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-24T06:05:00+09:00"
+   "newest": "2026-10-24T06:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T05:49:01+00:00"
+   "newest": "2026-10-22T02:15:22+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T12:09:00+00:00"
+   "newest": "2026-10-23T10:19:18+00:00"
   }
  ],
  "items": [
@@ -467,6 +467,24 @@
    "id": "1d0a14923f2a3dae"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWXlZaGMwdE8tUUU4VVExX0FmWXJqTjlTWUQyeDU2V0JaVW02c09iVEhSUkVCTngwdDBJaml6ZXVVT3pMek14T0ljQmZhczBhMjhIS01BaGp0TVhHV19ldWh5UDVRZw?oc=5",
+   "published_utc": "2026-10-23T16:37:25+00:00",
+   "title_original": "央行10月26日将开展7000亿元MLF操作 缩量续作2000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5475dbf6f1e51267"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg",
    "title_en": "EU Looks Beyond Cars for Next Round of China Trade Talks",
@@ -550,24 +568,6 @@
    "live_wire": true,
    "manual": false,
    "id": "e52b14fd69092591"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWXlZaGMwdE8tUUU4VVExX0FmWXJqTjlTWUQyeDU2V0JaVW02c09iVEhSUkVCTngwdDBJaml6ZXVVT3pMek14T0ljQmZhczBhMjhIS01BaGp0TVhHV19ldWh5UDVRZw?oc=5",
-   "published_utc": "2026-10-23T14:49:10+00:00",
-   "title_original": "央行10月26日将开展7000亿元MLF操作 缩量续作2000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5475dbf6f1e51267"
   },
   {
    "source_id": "tradingview_live",
@@ -759,24 +759,6 @@
    "id": "c0606821eacd5484"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "界面新闻",
-   "title_en": "The central bank takes action! The 700 billion yuan MLF operation is coming",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxak9DNGVGYmJ0OEV3d2xVc1lHRElteUpFaXd5ME96Y01VZDZFZmE4aDhybWc3TGJlcWZzSzlSTGJiWDNRZzhfcFQ0cVo5Ri1rTlpwVlhwaXg?oc=5",
-   "published_utc": "2026-10-23T12:35:01+00:00",
-   "title_original": "央行出手！7000亿元MLF操作来了",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "32784aaf3dab8a64"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -935,6 +917,24 @@
    "id": "ff6513742872dfea"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "界面新闻",
+   "title_en": "The central bank takes action! The 700 billion yuan MLF operation is coming",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxak9DNGVGYmJ0OEV3d2xVc1lHRElteUpFaXd5ME96Y01VZDZFZmE4aDhybWc3TGJlcWZzSzlSTGJiWDNRZzhfcFQ0cVo5Ri1rTlpwVlhwaXg?oc=5",
+   "published_utc": "2026-10-23T10:56:22+00:00",
+   "title_original": "央行出手！7000亿元MLF操作来了",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "32784aaf3dab8a64"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "September consumer prices +2.1% compared to the same month last year, the first time in nine months that the increase exceeded 2%",
@@ -1053,6 +1053,23 @@
    "live_wire": true,
    "manual": false,
    "id": "76e2f73596dd02d7"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "경인투데이뉴스",
+   "title_en": "(Breaking News) Bank of Korea freezes base interest rate at 3.0%: Gyeongin Today News",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kUjVrSFFTNS1BYVdGRU1fWk9rVVpkVk0tQUpURXlWOEhNSDNoM0dIY2JpVlhUT2FDdUlyeExxNG1rZ2tVY2l2bHNOLWszUlVhNzRMdG1zLW5tM0h2WVhz0gFfQVVfeXFMT2RSNWtIUVM1LUFhV0ZFTV9aT2tVWmRWTS1BSlRFeVY4SE1IM2gzR0hjYmlWWFRPYUN1SXJ4THE0bWtna1VjaXZsc04tazNSVWE3NEx0bXMtbm0zSHZZWHM?oc=5",
+   "published_utc": "2026-10-23T10:19:18+00:00",
+   "title_original": "(속보) 한국은행,기준금리 3.0% 동결:경인투데이뉴스",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2a922b0ae1a17cb8"
   },
   {
    "source_id": "tradingview_live",
@@ -1766,6 +1783,24 @@
    "live_wire": false,
    "manual": false,
    "id": "bca300980840ca06"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1RzcGc5ekpZM0h0SER4alRGU19YNE9idVpaWDQtc2JKWnp0YnVUVmNkTlQ5S1JFYUFoRnBRRW9UTnUtTXlwQ2RNNGZzdmxrbzBqRHVQUWtyT2xaSlhlVVVRRjRvaTVHQmtKWVYzOTdScEJxd2NyT25oVi1kRW5Lc0lzeWpBN0lVRlZqQ1JhMzM5NGxwdlg0UWNrajVjX1MwT082N0EyTWZoZDRfejB0Z1JTQl9zOTB5UTkxUU1BX090a3NBUWRjYnF5RG8?oc=5",
+   "published_utc": "2026-10-23T06:30:52+00:00",
+   "title_original": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
+   "region": "taiwan",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "6a6d33d7a8754e6c"
   },
   {
    "source_id": "gn_jp_mof",
@@ -2929,23 +2964,6 @@
    "id": "abfe0c2edffabbef"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjBuQkcwQ29IaENVRWE4cjU3bzFxRGtSSU5sUTBhQ3pxOV8zOWFDRE5ZUHJleTZyN04yYXhYZ0pYVk1OQTgxS2F4a2sxU284aEc1SFZ2TG1rUGZudk9RNFZFRFlEb3VsVVFpcVRxMlhzMW9feGZwSFZ2bjBNckJYZFNhd0w1STNMZEtJdFgwbllhVlp5d3lrWUZveDV2Yk5jajE5b0NzRGs5UQ?oc=5",
-   "published_utc": "2026-10-22T22:14:23+00:00",
-   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "75b25107071fc789"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "SK Hynix Says Solidigm Dropped Plan to Go Public in US Amid Market Volatility",
@@ -3029,6 +3047,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6c4c3afc2afea619"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3czTU9vU0R1MUs1S2U5UmdQX2s5THdMSnppZVpzbkMxQzJfX0JyY1o2MHVpX1h3b2ZzREhWZ0VEeEw0YTVIOFp4X19oWjlFYWJpaFhYMmItTUpFYU83bllCWjZDSXd2RlR6U3hoOHVxOFNJbGJybkNUVHFPTEZrRWVvNm02Z0E0c09oY3V2c3VHejJ1UEFRX3BxRUZtMDRUdnNGbTFB?oc=5",
+   "published_utc": "2026-10-22T21:09:57+00:00",
+   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "099657ed920ba39c"
   },
   {
    "source_id": "toyo_keizai",
@@ -4521,7 +4556,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -4533,7 +4568,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c5865e4da1f5c503"
+   "id": "6181c2f60b87f6c6"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -19472,7 +19507,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV0wzeG5xZkFxWTNKWjJSQ25SckhoS0tuaXhaQkNlTW1IeU5DTW9XMGk0SkRYUHd1TmJzNDdZVXg0R3VFZ1JMRUFKX09GR00xcDBaRzIzb3lhVll4bUNVWjRHRmc1UUdGaEdQakpYVTR2ZUpJMExlVXdRS19TSk1QbTdqV2xzaE12UFBoZ0NYaWhOaG1Ua1h4Y0ZtX2FxRWVyMWVfZHhwZGc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlNsUG41RWRYNzFCcG1SZnBOblhubjhhb1pGazQzcnE2T2hjVTk3bFZjbmRBLWEtVjBvR2tvRGJtbTBQbFc3eUcwcjhsVWJhakZiUG94a3FmMlZ3NjRGN0pPQVI1Tmppb3ZhRk0yc2RoV19va1Z3SWpHSFEwcm56TVJzXzd0TUlVZnVmaWthckdzNjByUi1R?oc=5",
    "published_utc": "2026-10-15T07:50:31+00:00",
    "title_original": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
    "region": "taiwan",
@@ -19483,7 +19518,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "142595bf1a5461fb"
+   "id": "dfc393bc45321e3c"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -51892,40 +51927,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2641faf95b6dfe04"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45K19B:0-japan-s-currency-diplomat-mimura-urges-markets-to-heed-very-clear-warning-on-yen/",
-   "published_utc": "2026-09-28T23:43:35+00:00",
-   "title_original": "Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2c72b060464af02b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Samsung Electro-Mechanics' Vietnam Affiliate to Spend KRW2.510T to Expand Chip-Substrate Production",
-   "url": "https://www.tradingview.com/news/DJN_DN20260928008400_20260928008406:0/",
-   "published_utc": "2026-09-28T23:40:00+00:00",
-   "title_original": "Samsung Electro-Mechanics' Vietnam Affiliate to Spend KRW2.510T to Expand Chip-Substrate Production",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1b8d46adb0838d4a"
   },
   {
    "source_id": "manual_ia",
