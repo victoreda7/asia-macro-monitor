@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T02:22:45.280987+00:00
+Última coleta: 2026-10-23T02:32:42.222265+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          985
-  🇨🇳 China          843
+  🇯🇵 Japão          984
+  🇨🇳 China          844
   🇹🇼 Taiwan         368
   🇰🇷 Coreia do Sul  804
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix says Solidigm suspends review of US IPO, citing market volatility
   - [japan] Yen's Latest Rise Likely Driven by Safe-Haven Demand — Market Talk
   - [korea] South Korean won, Philippine peso rises the most among Asian FX
   - [japan] Japan futures slide as yen strengthens, on track for second weekly loss
-  - [japan] The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly revie
+  - [china] The central bank launches 258 billion yuan overnight reverse repurchase operation
   - [japan] Yen shines as AI jitters spur safe-haven rush
+  - [japan] The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly revie
   - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike — Update
   - [korea] SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO On Market Jitters —Update
   - [china] CHINA PBOC CONDUCTS CNY258 BLN VIA O/N REVERSE REPO FRI
@@ -40,7 +42,6 @@ Total: 3000 manchetes
   - [japan] Benchmark JGB yields hit 2-month lows as tech selloff spurs safe-haven demand
   - [japan] Japan factory activity slows in Oct, services improve, PMI shows
   - [japan] JGB Yields Drop as Stocks Decline; French Debt Woes in Focus — Market Talk
-  - [korea] SK Hynix says Solidigm suspends review of US IPO, citing market volatility
   - [japan] Japan Manufacturing Growth Eases to 7-Month Low
   - [japan] Japan Composite PMI Stays at 4-Month Low
   - [japan] ``Will not answer hypothetical questions'' on whether there will be any changes to the joint statement regardi
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] September consumer price index excluding fresh food +2.1% compared to the same month last year
   - [japan] JAPAN SEPT CPI: HOTEL FEES +4.6% (+0.05 POINT CONTRIBUTION), UP SHARPLY FROM -1.4% (-0.02 POINT) IN AUG DUE TO
   - [japan] Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target
-  - [japan] Japan Food Prices Rise the Least Since 2022
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T02:22:45+00:00",
+      "published_utc": "2026-10-23T02:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
