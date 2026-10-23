@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T11:42:45.169230+00:00",
- "collected_at_utc": "2026-10-23T11:42:45.169230+00:00",
+ "generated_at_utc": "2026-10-23T11:52:43.695752+00:00",
+ "collected_at_utc": "2026-10-23T11:52:43.695752+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 988,
-  "china": 844,
+  "japan": 989,
+  "china": 843,
   "taiwan": 375,
   "korea": 793
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T09:52:00+00:00"
+   "newest": "2026-10-23T04:32:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": "",
    "newest": "2026-10-23T09:30:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T11:25:12+00:00"
+   "newest": "2026-10-23T11:44:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T11:19:14+00:00"
+   "newest": "2026-10-23T11:38:35+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T11:42:08+00:00"
+   "newest": "2026-10-23T11:51:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T10:06:02+00:00"
+   "newest": "2026-10-23T11:40:53+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,25 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan's monetary policy meeting next week: Underlying inflation expected to reach 2%; interest rate hike likely to be postponed (TBS NEWS DIG Powered by JNN)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlRE93VkVGZWlCcWlyYjVHZzJFUHBaYWRHMDV1VFo5cVVnUDlyRHVZYTZjZnJ1RWxPWE8wMGNHMnZMUTVKSks3bHhTamFHUmQwR1l4VHhWMEFuTmV2UGpzNG5iWFdCd2FOLVNLazk5N1dHMXZYejBqSXJSSXlYZU0?oc=5",
+   "published_utc": "2026-10-23T11:40:53+00:00",
+   "title_original": "日銀 来週の金融政策決定会合 基調物価は2％到達判断へ 利上げは見送りの公算大（TBS NEWS DIG Powered by JNN）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f164c07d7464b620"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -4018,7 +4037,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -4030,7 +4049,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c5865e4da1f5c503"
+   "id": "6181c2f60b87f6c6"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51906,23 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a847b507aadb3845"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Brazil signs an agreement with China to export pork offal; ABPA sees more than US$100 million in revenue",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45K0CR:0/",
-   "published_utc": "2026-09-28T12:03:30+00:00",
-   "title_original": "Brasil assina com China acordo para exportar miúdos suínos; ABPA vê mais de US$100 mi em receitas",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "937f196b0893ea51"
   },
   {
    "source_id": "manual_ia",
