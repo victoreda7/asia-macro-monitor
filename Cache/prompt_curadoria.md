@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T10:52:41.727122+00:00
+Última coleta: 2026-10-23T11:02:44.121700+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          988
-  🇨🇳 China          843
-  🇹🇼 Taiwan         375
+  🇨🇳 China          844
+  🇹🇼 Taiwan         374
   🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
+  - [china] Could Europe’s cost-of-living protests sharpen EU-China trade tensions?
+  - [china] The central bank takes action! The 700 billion yuan MLF operation is coming
   - [japan] September consumer prices +2.1% compared to the same month last year, the first time in nine months that the i
   - [china] Wingtech Says Q3 Net Loss At 216.6 Million Yuan
   - [korea] SK Hynix Scraps U.S. IPO of Memory-Chip Unit. Why the Stock Is Jumping. — Barrons.com
@@ -29,6 +31,7 @@ Total: 3000 manchetes
   - [china] China sells offshore yuan bonds in Hong Kong at record-low yields
   - [japan] Bank of Japan: Inflation likely to reach 2% inflation
   - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%; further interest rate hikes may be pos
+  - [china] China Barely Eased Austerity Just Before Shift to Stimulus Mode
   - [china] HKMA names Deutsche Bank offshore yuan primary liquidity provider
   - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com
   - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision
@@ -52,11 +55,8 @@ Total: 3000 manchetes
   - [japan] BoJ Likely to Keep Policy Rate Unchanged Next Week — Market Talk
   - [japan] BOJ Sees Limited Risk to Japanese Companies From Oil Shock — Market Talk
   - [japan] Bank of Japan decides to reach 2% inflation target, postpones interest rate hike after 14 years, October meeti
-  - [china] China Barely Eased Austerity Just Before Shift to Stimulus Mode
   - [japan] Consumption tax reduction bill begins substantive deliberation in the House of Representatives Finance and Fin
   - [japan] Japan futures slide as yen strengthens, logs weekly gain
-  - [korea] BOK chief signals hawkish stance amid outlook for higher growth, rates
-  - [taiwan] REG - Hon Hai Prec.Ind.Co - Obtaining Shares in Subsidiaries
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T10:52:41+00:00",
+      "published_utc": "2026-10-23T11:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
