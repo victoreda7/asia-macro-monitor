@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T09:52:46.459451+00:00
+Última coleta: 2026-10-23T10:02:42.744754+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          993
-  🇨🇳 China          837
-  🇹🇼 Taiwan         376
-  🇰🇷 Coreia do Sul  794
+  🇯🇵 Japão          991
+  🇨🇳 China          839
+  🇹🇼 Taiwan         375
+  🇰🇷 Coreia do Sul  795
 
 ## O que já está no feed (não repita)
 
+  - [china] HKEX launches AI and semiconductor indexes, licenses AI index in China
+  - [korea] South Korea to amend forex law to regulate stablecoins as payment instruments: report
   - [china] China sells offshore yuan bonds in Hong Kong at record-low yields
   - [japan] Bank of Japan: Inflation likely to reach 2% inflation
   - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%; further interest rate hikes may be pos
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Fanuc Corp Says It Will Buy Back Up To 1.08% Of Own Shares Worth 500 Billion Yen
   - [korea] Hanwha takes Korean defense, manufacturing ETFs to Abu Dhabi
   - [japan] Medipal Holdings Corp Says It Will Buy Back Up To 2% Of Own Shares Worth 10 Billion Yen
-  - [japan] BOJ says Japan financial system stable, flags Middle East, AI financing risks
-  - [korea] SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T09:52:46+00:00",
+      "published_utc": "2026-10-23T10:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

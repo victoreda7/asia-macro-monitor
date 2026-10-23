@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T09:52:46.459451+00:00",
- "collected_at_utc": "2026-10-23T09:52:46.459451+00:00",
+ "generated_at_utc": "2026-10-23T10:02:42.744754+00:00",
+ "collected_at_utc": "2026-10-23T10:02:42.744754+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 993,
-  "china": 837,
-  "taiwan": 376,
-  "korea": 794
+  "japan": 991,
+  "china": 839,
+  "taiwan": 375,
+  "korea": 795
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T08:43:34+00:00"
+   "newest": "2026-10-23T06:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T04:01:05+00:00"
+   "newest": "2026-10-23T04:00:18+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-21T02:48:04+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 24,
+   "count": 30,
    "error": "",
    "newest": "2026-10-23T09:28:57+00:00"
   },
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T06:38:09+00:00"
+   "newest": "2026-10-23T06:30:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T09:51:46+00:00"
+   "newest": "2026-10-23T10:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T12:09:00+00:00"
+   "newest": "2026-10-22T14:02:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "HKEX launches AI and semiconductor indexes, licenses AI index in China",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4690QP:0-hkex-launches-ai-and-semiconductor-indexes-licenses-ai-index-in-china/",
+   "published_utc": "2026-10-23T10:00:29+00:00",
+   "title_original": "HKEX launches AI and semiconductor indexes, licenses AI index in China",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "be3d35be7cfe3714"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "The Block",
+   "title_en": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+   "url": "https://www.tradingview.com/news/the_block:672bac5bf094b:0-south-korea-to-amend-forex-law-to-regulate-stablecoins-as-payment-instruments-report/",
+   "published_utc": "2026-10-23T09:52:44+00:00",
+   "title_original": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6cc8a4a3bd360341"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1246,41 +1280,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5abf1f301a8a9ea8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan Flash PMI Signals Softening Demand as Inflation Risks Linger — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261023000091:0-japan-flash-pmi-signals-softening-demand-as-inflation-risks-linger-market-talk/",
-   "published_utc": "2026-10-23T04:48:00+00:00",
-   "title_original": "Japan Flash PMI Signals Softening Demand as Inflation Risks Linger — Market Talk",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8f6c2640246ffb9e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "Japan inflation reaches highest level since December 2025",
-   "url": "https://www.tradingview.com/news/seekingalpha:385a2c283094b:0-japan-inflation-reaches-highest-level-since-december-2025/",
-   "published_utc": "2026-10-23T04:44:58+00:00",
-   "title_original": "Japan inflation reaches highest level since December 2025",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "19ac669b26f6deb4"
   },
   {
    "source_id": "gn_tw_cna",
@@ -3829,7 +3828,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -3841,7 +3840,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6258,6 +6257,23 @@
    "id": "4932d8c9ad5c811e"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪网",
+   "title_en": "From now on, the central bank continues to \"strengthen\"",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGVscVh3aFpuRjlyY3dOd2lveUxtWVB5dFd1cnNQWk44MklxSXRfOHFyYzZHMXJvMWY3YkRyWG9vMEF5TDRadVJXUUVheTh4amhUajBrZE1id01idGs1Ny1UMnpOQ0hLellEemY1Uzd6YkNTQS1Fa29Qc3hxdjFhTTNRdw?oc=5",
+   "published_utc": "2026-10-21T05:02:00+00:00",
+   "title_original": "今起，央行连续“发力”",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7b59d3d09f8c8605"
+  },
+  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China signals intent to push back against cleantech tariffs at COP31",
@@ -6290,23 +6306,6 @@
    "live_wire": false,
    "manual": false,
    "id": "64dc13c2cc1b7769"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐",
-   "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVldhQU5xN0tMLTRxRDJsUUZRdVdsQjVNbHMwUmtEMm1VQzZ1NkpYdHYtYlc0aFJCYmVCQ05vbF9SOHpnVlZwMDFaX1NvQjRoQnhkMjkzRFJyVldIM1ktbHJua0lCWmo5LU5yRlMwQklRZ2tuZ1hIRTM5eEdpSHlKQ1BZeGtoVGFKV1ZlbQ?oc=5",
-   "published_utc": "2026-10-21T04:49:47+00:00",
-   "title_original": "今起，央行连续“发力”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "70bb31ada22a6249"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -9207,6 +9206,23 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ubk5vLXZRMWtvZ3VPTEpoQ1pCQnYyc291dW52MFJTalcxM2VqN3MxckJfbm55b0JvTVVxS0MwbE1kRzk4MndEeHlGUUkyQWp4a2dZUUt3VjZDVzIwM0tVS2s0cVYxZw?oc=5",
+   "published_utc": "2026-10-20T04:49:05+00:00",
+   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a9e8cfec4b745bb0"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "京报网",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
@@ -9240,23 +9256,6 @@
    "live_wire": false,
    "manual": false,
    "id": "94948b0310f08f53"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vZDB1N2tzLWE0SW1aRHFzejRiOGZNMUQyQ3Y0QjY0Q01HTUtDT3J4aU10c0JVb3BaYWRvOWg4Y1JrMG9hMTZMN2M2MU16Rzh6NnhCVnROQ21fSmxWWVRzdg?oc=5",
-   "published_utc": "2026-10-20T04:35:40+00:00",
-   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c0255988d518ffc"
   },
   {
    "source_id": "nhk_politics",
@@ -9381,6 +9380,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ff88125366e2a452"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will carry out overnight reverse repurchase operations from October 21 to November 2, with the daily operation volume not exceeding 1 trillion yuan",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhM01WWjVFaGtkTjU5bUNfYmFhVjltM0FDUkVJbEZiTXpuRjNYNkYxVWZ3R0lZRGNPMXloUk9Lb25UUHh1WjB3QUE2bXpfQXpoQnVLUENmLUhEZHFZQ25qRmNxMm83UQ?oc=5",
+   "published_utc": "2026-10-20T03:04:45+00:00",
+   "title_original": "央行将于10月21日至11月2日开展隔夜逆回购操作，每日操作量不超过10000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f28e3c7fc7d46a97"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -9525,9 +9542,9 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UOEd5TVhYdldxVjFRUFJkWVJDaXJaNmItUVh3UkVCRDRSdzBTYWEwQUVsQ3gzRThSbU1yLXkzZDBHVnluYi1aSXl3M2trV1JyS1lGdFFQcHU2SHZmeFR2SXhQZFc3amloMEpwSGdBczJ5ZloxMUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNXY4d0E5eEF5aUw0UlpGTGhjRnJzUENrZ010cUVzMVRZVmVnSDJOSW9yNEswWm9jdEN0UnhRNFNzMmV4VVp5ZktLWlJFRVpXWThpNTJSSEJ5Wm5adEpwSFpxMWhhZXp4ME45SHBtOEVRZw?oc=5",
    "published_utc": "2026-10-20T02:00:00+00:00",
-   "title_original": "2026年前三季度广东居民消费价格同比上涨0.9%",
+   "title_original": "2026年前三季度广东居民消费价格 同比上涨0.9%",
    "region": "china",
    "topics": [
     "inflation"
@@ -9536,7 +9553,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "83d5a510f10ebe66"
+   "id": "0bee112acf295ae1"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -51909,23 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "868e2c2544016317"
-  },
-  {
-   "source_id": "focus_taiwan",
-   "source_name": "Focus Taiwan (CNA)",
-   "title_en": "VIS-NXP JV chip fab enters initial production stage",
-   "url": "https://focustaiwan.tw/business/202609280015",
-   "published_utc": "2026-09-28T09:36:26+00:00",
-   "title_original": "VIS-NXP JV chip fab enters initial production stage",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dc905dd71142c7fa"
   },
   {
    "source_id": "manual_ia",
