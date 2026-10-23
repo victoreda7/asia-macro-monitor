@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T01:42:43.396106+00:00
+Última coleta: 2026-10-23T01:52:44.432665+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY258 BLN VIA O/N REVERSE REPO FRI
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7180 FRI VS 6.7195
   - [japan] Japan weighs phasing out gasoline subsidies from December as costs mount, officials say
+  - [china] The central bank launched a 258 billion yuan overnight reverse repurchase operation on October 23
   - [japan] Dollar Likely to Remain in 155-160 Yen Range in Near Term — Market Talk
   - [japan] Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures
   - [korea] SK Hynix abandons plan for US unit's IPO, citing market volatility
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei May Decline Amid Concerns About Energy Costs — Market Talk
   - [japan] JAPAN SEPT CPI: ENERGY PRICES -0.6% Y/Y (-0.04 POINT) VS. -0.7% (-0.05 PT) IN AUG
   - [japan] Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike
-  - [japan] Japan Inflation Rate Hits 9-Month High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T01:42:43+00:00",
+      "published_utc": "2026-10-23T01:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
