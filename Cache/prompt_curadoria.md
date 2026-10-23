@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T10:12:43.965329+00:00
+Última coleta: 2026-10-23T10:22:45.882423+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          991
-  🇨🇳 China          840
+  🇯🇵 Japão          990
+  🇨🇳 China          841
   🇹🇼 Taiwan         375
   🇰🇷 Coreia do Sul  794
 
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [china] HKEX launches AI and semiconductor indexes, licenses AI index in China
   - [korea] South Korea to amend forex law to regulate stablecoins as payment instruments: report
+  - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate
   - [china] China sells offshore yuan bonds in Hong Kong at record-low yields
   - [japan] Bank of Japan: Inflation likely to reach 2% inflation
   - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%; further interest rate hikes may be pos
@@ -31,6 +32,7 @@ Total: 3000 manchetes
   - [china] China's Hisense Home Appliances nine-month revenue falls on forex impact
   - [korea] SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount— WSJ
   - [japan] Bank of Japan warns of risks from AI market shock, cyberattacks
+  - [china] China's fiscal revenue slows to 5.1% growth in January-September period; land sales revenue falls 27.9% (Reute
   - [taiwan] Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer
   - [china] China’s January-September fiscal revenue up 5.1% y/y
   - [taiwan] Taiwan Jobless Rate at 3.33% in September
@@ -53,10 +55,8 @@ Total: 3000 manchetes
   - [japan] Japan's Nikkei Falls, JGBs Soar as AI Jitters Spur Demand for Safe Assets
   - [korea] Kospi drops on AI funding worries, oil-driven inflation fears
   - [taiwan] Taiwan manufacturers' business sentiment hits 54-month high
-  - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate
   - [china] China's Chery expects overseas-manufactured vehicles to top 50% of exports, exec says
   - [japan] Foreign Minister Motegi holds U.S.-China-Russia summit meeting, communicates closely with U.S.
-  - [japan] Fanuc Corp Says It Will Buy Back Up To 1.08% Of Own Shares Worth 500 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T10:12:44+00:00",
+      "published_utc": "2026-10-23T10:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
