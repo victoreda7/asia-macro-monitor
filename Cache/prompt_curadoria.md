@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T03:22:42.554193+00:00
+Última coleta: 2026-10-23T03:32:44.541937+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          987
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro
   - [japan] Japan government, BOJ gap on inflation laid bare ahead of key policy meeting
   - [japan] BOJ Could Be in Tough Spot If Costs Curb Consumption — Market Talk
   - [korea] Krafton Target Price Cut to KRW210,000 From KRW 300,000 by Nomura>259960.SE
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan manufacturing growth slows to 7-month low in October, PMI shows
   - [korea] SK hynix halts review of Solidigm US IPO
   - [japan] Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target By Investing.com
-  - [japan] Japanese Yen Hits 5-week High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T03:22:42+00:00",
+      "published_utc": "2026-10-23T03:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
