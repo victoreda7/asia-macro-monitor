@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T11:02:44.121700+00:00",
- "collected_at_utc": "2026-10-23T11:02:44.121700+00:00",
+ "generated_at_utc": "2026-10-23T11:12:43.352051+00:00",
+ "collected_at_utc": "2026-10-23T11:12:43.352051+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 988,
-  "china": 844,
-  "taiwan": 374,
+  "china": 843,
+  "taiwan": 375,
   "korea": 794
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T09:56:16+00:00"
+   "newest": "2026-10-23T09:37:26+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T04:32:00+00:00"
+   "newest": "2026-10-22T16:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T09:23:16+00:00"
+   "newest": "2026-10-23T04:00:18+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 52,
+   "count": 56,
    "error": "",
-   "newest": "2026-10-23T15:41:31+08:00"
+   "newest": "2026-10-23T18:37:42+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T10:44:28+00:00"
+   "newest": "2026-10-23T11:06:29+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-20T06:56:15+00:00"
+   "newest": "2026-10-21T14:17:37+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-21T02:48:04+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T09:01:10+00:00"
+   "newest": "2026-10-23T11:05:01+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T09:50:23+00:00"
+   "newest": "2026-10-23T05:00:20+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T11:02:00+00:00"
+   "newest": "2026-10-23T11:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T06:37:15+00:00"
+   "newest": "2026-10-23T11:07:45+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -344,6 +344,23 @@
  ],
  "items": [
   {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China issues guidelines to promote employment amid AI advances",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wdUJ0dWtjWnJyMG5zbVIwRUN6VXVlQ3lmNmtlSTRyOXpzWTI5WGVtMVF2WmhwTDV0aUhSY21pb3hLX25IOGxkQjkydWhJWDRteXpGZTlvS1ZaN05HMHpNOTlYTnp2c01zS1RSSWhSeWttMVBrY2VtOFNPVVk?oc=5",
+   "published_utc": "2026-10-23T11:07:45+00:00",
+   "title_original": "China issues guidelines to promote employment amid AI advances",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8fdc93f50ddb2ee5"
+  },
+  {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
    "title_en": "Could Europe’s cost-of-living protests sharpen EU-China trade tensions?",
@@ -394,6 +411,23 @@
    "live_wire": false,
    "manual": false,
    "id": "9036d477ab48e0d7"
+  },
+  {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiwan's September jobless rate drops to 3.36%, lowest in 26 years",
+   "url": "https://focustaiwan.tw/business/202610230014",
+   "published_utc": "2026-10-23T10:37:42+00:00",
+   "title_original": "Taiwan's September jobless rate drops to 3.36%, lowest in 26 years",
+   "region": "taiwan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a71de04e06b37d8b"
   },
   {
    "source_id": "tradingview_live",
@@ -639,6 +673,23 @@
    "id": "6b6d46e389e747c9"
   },
   {
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
+   "title_en": "Taiwan industrial production up for 31st straight month in September",
+   "url": "https://focustaiwan.tw/business/202610230013",
+   "published_utc": "2026-10-23T09:30:39+00:00",
+   "title_original": "Taiwan industrial production up for 31st straight month in September",
+   "region": "taiwan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b815ec866c0547b4"
+  },
+  {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
    "title_en": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision",
@@ -655,23 +706,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e736502ca4ce3d15"
-  },
-  {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
-   "title_en": "Taiwan industrial production up for 31st straight month in September",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYV0VpZkZTbnE5VFZ4Ti1PdEFIMVFJTld6TVZzMzQ5X2lOclU3VlFJS1VVSWVLeVozRzhrVzVWQnFiYUsyR3RNcDJFekxjQVI5S1ozQV9oYw?oc=5",
-   "published_utc": "2026-10-23T09:30:00+00:00",
-   "title_original": "Taiwan industrial production up for 31st straight month in September",
-   "region": "taiwan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7c8b4d5430b5c669"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3657,7 +3691,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "October 2026 Bank of Japan Policy Meeting Preview - Organizing the highlights of this meeting [Sumitomo Mitsui DS Asset Management Chief Market Strategist] (THE GOLD ONLINE)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MNUFnUWlkZUc3cElyWFFaV2ptNmNiOFJvQm85SkNHQzltZjBTOV9Ra09JVGRnTmVTLTdramVjdmlOejFqNlpveW5pQU5rQS1ON0JfZmMwMHNKQ0llQ3JHX1o0MkVpenpERGx1NktaRVNVUUdJZ085dE5DTk9Rdms?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnZOVVJxcjhXaGF0bS1YdDFwbVRnWEEwYlh2NTdwVVJydFVpeVpINWFXNm1BbGxQRHRwV3NTVkN3bURrZGZybFhYVlFZRG1PTXc0QjYyMlVMcEtBVXphcnNXWEM3djV4OTc0djM0QjZ1eHo1SlhTNkZ2Z1dFa3pGVjJWbnJ1ZFZz?oc=5",
    "published_utc": "2026-10-22T05:12:15+00:00",
    "title_original": "2026年10月日銀政策会合プレビュー～今回の注目点を整理する【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】（THE GOLD ONLINE（ゴールドオンライン））",
    "region": "japan",
@@ -3669,7 +3703,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1034c71bbfb07fa"
+   "id": "9faf0910794f29d5"
   },
   {
    "source_id": "gn_kr_bok",
@@ -4862,6 +4896,23 @@
    "id": "16c36bdd8a0dd658"
   },
   {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "YMTC overtakes Samsung in China’s NAND flash market",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41b1Zrenh5eGsxaWUtSlBYRS1LNGtEZnV4SGZuazJDY3REbXZPeW1Ka01WdEdiQ0toaDN3VGlNVGpOcXg5MVpWc3hDQkhVOUtIZ0xLZmE1U1VOd2VCem12dGZDNGxHUW5melctSkJlYUhsMTN4bWp3?oc=5",
+   "published_utc": "2026-10-21T23:47:10+00:00",
+   "title_original": "YMTC overtakes Samsung in China’s NAND flash market",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "65b91fef2d56eb5b"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Now that we have entered the ``age of interest rates,'' should you really buy or rent a house? Hiroyuki's ``extremely common sense'' answer | Life | Toyo Keizai Online",
@@ -5034,23 +5085,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7af20670ab2adc4e"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "YMTC overtakes Samsung in China’s NAND flash market",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41b1Zrenh5eGsxaWUtSlBYRS1LNGtEZnV4SGZuazJDY3REbXZPeW1Ka01WdEdiQ0toaDN3VGlNVGpOcXg5MVpWc3hDQkhVOUtIZ0xLZmE1U1VOd2VCem12dGZDNGxHUW5melctSkJlYUhsMTN4bWp3?oc=5",
-   "published_utc": "2026-10-21T19:36:18+00:00",
-   "title_original": "YMTC overtakes Samsung in China’s NAND flash market",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "65b91fef2d56eb5b"
   },
   {
    "source_id": "tradingview_live",
@@ -9487,23 +9521,6 @@
    "id": "05280fdf996be8e6"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "界面新闻",
-   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
-   "published_utc": "2026-10-20T03:23:09+00:00",
-   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16528f1711d07747"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Is the sudden rise in interest rates in France only due to special factors? The sudden sell-off of government bonds...Three warnings that Japan should heed | Politics, Economy, Investment | Toyo Keizai Online",
@@ -10632,6 +10649,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b474010cf2072a9c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "界面新闻",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
+   "published_utc": "2026-10-19T12:18:00+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "16528f1711d07747"
   },
   {
    "source_id": "tradingview_live",
@@ -51892,41 +51926,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c772daf9de5f4e42"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "US, China Release Product Lists for $30 Billion Tariff Deal",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejAwODBlZm1pdk5leVFwbHA2cnRWRkZXT2R2ejVDNjhtV01qb3ZFQ0hoMW9pWTVHN3dqOXBramZyY0RDdDJkMEQyUGRaVHh5QUFnak1SQ0c4dkp6aE5QYjdEd25ZMXFheXhRcmVXLXZJV1ZLNmk1MndtZ3FaNmNPcDNXSkxkV1Rvb2x6MmZBWVBvOV9rTmZMS0ljRENGWGY3d0ZFbFpTajZGVW1PZGdz?oc=5",
-   "published_utc": "2026-09-28T11:33:29+00:00",
-   "title_original": "US, China Release Product Lists for $30 Billion Tariff Deal",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a0f643c614f13ff6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank launched a 139 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KM3BLZGJuZmlKMWhVZUNIOVhUUzhBUVFEVzBHaUdsOXY4X0NxenZSZGViMzV0ZElOS29IR2lLN0JwZHNTT1dkelc4WDFZdndaMXRFSERfOFJoY25JNlVwWVdXMW5JZw?oc=5",
-   "published_utc": "2026-09-28T10:40:33+00:00",
-   "title_original": "央行今日开展1390亿元7天逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4af4deda6cc8be7d"
   },
   {
    "source_id": "manual_ia",

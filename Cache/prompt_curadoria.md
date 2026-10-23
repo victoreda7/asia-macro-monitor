@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T11:02:44.121700+00:00
+Última coleta: 2026-10-23T11:12:43.352051+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          988
-  🇨🇳 China          844
-  🇹🇼 Taiwan         374
+  🇨🇳 China          843
+  🇹🇼 Taiwan         375
   🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
+  - [china] China issues guidelines to promote employment amid AI advances
   - [china] Could Europe’s cost-of-living protests sharpen EU-China trade tensions?
   - [china] The central bank takes action! The 700 billion yuan MLF operation is coming
   - [japan] September consumer prices +2.1% compared to the same month last year, the first time in nine months that the i
+  - [taiwan] Taiwan's September jobless rate drops to 3.36%, lowest in 26 years
   - [china] Wingtech Says Q3 Net Loss At 216.6 Million Yuan
   - [korea] SK Hynix Scraps U.S. IPO of Memory-Chip Unit. Why the Stock Is Jumping. — Barrons.com
   - [china] Ziyuanyuan Holdings' Unit Enters Cooperation Framework Agreement With Shenzhen Shenshu
@@ -34,8 +36,8 @@ Total: 3000 manchetes
   - [china] China Barely Eased Austerity Just Before Shift to Stimulus Mode
   - [china] HKMA names Deutsche Bank offshore yuan primary liquidity provider
   - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision By Investing.com
-  - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision
   - [taiwan] Taiwan industrial production up for 31st straight month in September
+  - [japan] Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision
   - [china] The central bank will carry out 700 billion yuan MLF operation!
   - [china] Central Bank: 700 billion yuan MLF operation will be carried out on October 26
   - [china] China's Hisense Home Appliances nine-month revenue falls on forex impact
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] BoJ Likely to Keep Policy Rate Unchanged Next Week — Market Talk
   - [japan] BOJ Sees Limited Risk to Japanese Companies From Oil Shock — Market Talk
   - [japan] Bank of Japan decides to reach 2% inflation target, postpones interest rate hike after 14 years, October meeti
-  - [japan] Consumption tax reduction bill begins substantive deliberation in the House of Representatives Finance and Fin
-  - [japan] Japan futures slide as yen strengthens, logs weekly gain
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T11:02:44+00:00",
+      "published_utc": "2026-10-23T11:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
