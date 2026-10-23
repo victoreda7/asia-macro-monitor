@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-23T10:22:45.882423+00:00
+Última coleta: 2026-10-23T10:32:45.445123+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          990
-  🇨🇳 China          841
+  🇯🇵 Japão          988
+  🇨🇳 China          843
   🇹🇼 Taiwan         375
   🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
+  - [china] Wingtech Says Q3 Net Loss At 216.6 Million Yuan
+  - [korea] SK Hynix Scraps U.S. IPO of Memory-Chip Unit. Why the Stock Is Jumping. — Barrons.com
+  - [china] Ziyuanyuan Holdings' Unit Enters Cooperation Framework Agreement With Shenzhen Shenshu
+  - [china] The central bank will launch an MLF operation of 700 billion yuan on October 26, with a reduction of 200 billi
+  - [korea] SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns
   - [china] HKEX launches AI and semiconductor indexes, licenses AI index in China
   - [korea] South Korea to amend forex law to regulate stablecoins as payment instruments: report
   - [japan] Bank of Japan is likely to judge that the inflation rate will reach 2%, but may postpone further interest rate
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] BOK chief signals hawkish stance amid outlook for higher growth, rates
   - [taiwan] REG - Hon Hai Prec.Ind.Co - Obtaining Shares in Subsidiaries
   - [korea] SK Hynix shares soar 4.4% after Solidigm IPO cancellation
-  - [japan] Japan's Nikkei Falls, JGBs Soar as AI Jitters Spur Demand for Safe Assets
-  - [korea] Kospi drops on AI funding worries, oil-driven inflation fears
-  - [taiwan] Taiwan manufacturers' business sentiment hits 54-month high
-  - [china] China's Chery expects overseas-manufactured vehicles to top 50% of exports, exec says
-  - [japan] Foreign Minister Motegi holds U.S.-China-Russia summit meeting, communicates closely with U.S.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-23T10:22:46+00:00",
+      "published_utc": "2026-10-23T10:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
