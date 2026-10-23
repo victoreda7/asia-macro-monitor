@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-23T14:22:44.137562+00:00",
- "collected_at_utc": "2026-10-23T14:22:44.137562+00:00",
+ "generated_at_utc": "2026-10-23T14:32:43.931953+00:00",
+ "collected_at_utc": "2026-10-23T14:32:43.931953+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 986,
+  "japan": 987,
   "china": 846,
   "taiwan": 374,
-  "korea": 794
+  "korea": 793
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T04:01:05+00:00"
+   "newest": "2026-10-23T04:00:18+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T14:04:05+00:00"
+   "newest": "2026-10-23T14:24:58+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T13:55:50+00:00"
+   "newest": "2026-10-23T14:24:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-23T12:33:14+00:00"
+   "newest": "2026-10-23T14:06:49+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-21T02:48:04+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T06:31:00+00:00"
+   "newest": "2026-10-23T01:30:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-23T22:55:48+09:00"
+   "newest": "2026-10-23T23:25:07+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T13:02:04+00:00"
+   "newest": "2026-10-23T05:52:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-23T14:22:14+00:00"
+   "newest": "2026-10-23T14:32:14+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T13:04:30+00:00"
+   "newest": "2026-10-23T14:27:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "China issues guidelines to promote employment amid AI advances",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uZXdPcTlKSEdYS1R0Vk9SZ2RCbVZpZkdYdS1VTzhsRUFEM0c3ejZ0a2txVGhhZWRxQnh2ZlZGOS1GdkVqdHpGeEtWbVl3cWNsQjA0M2xBcDJ4UFNMRHQyZVRPMHdmZEphaFBOU09ySWk1SkloNkwzZlZ5cDI?oc=5",
+   "published_utc": "2026-10-23T14:27:15+00:00",
+   "title_original": "China issues guidelines to promote employment amid AI advances",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "591b07cd0b8fc51a"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "CoinMarketCal",
@@ -480,6 +497,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d6957e83d1d293f5"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The central bank will launch an MLF operation of 700 billion yuan on October 26, with a reduction of 200 billion yuan.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VWm1PYkJCZ2N3YWxCaXp0N1U2ZVY3amszbjVjcmNIcllaYWRGX2RaWlRJeXFnak5GZEpvT3NVWDlLUEgyNXNIVWdUbnAzMll6dVU1Qi1JMERwa2JHMXQ5ZXlRU1B0UnR6VEQxeDFFTjlGdlZwQW0yTw?oc=5",
+   "published_utc": "2026-10-23T12:46:57+00:00",
+   "title_original": "央行10月26日将开展7000亿元MLF操作，缩量续作2000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1f43fcc5027779c7"
   },
   {
    "source_id": "tradingview_live",
@@ -640,23 +675,6 @@
    "id": "187c3c434f8b9aa5"
   },
   {
-   "source_id": "gn_cn_xinhua",
-   "source_name": "Xinhua",
-   "title_en": "China issues guidelines to promote employment amid AI advances",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wdUJ0dWtjWnJyMG5zbVIwRUN6VXVlQ3lmNmtlSTRyOXpzWTI5WGVtMVF2WmhwTDV0aUhSY21pb3hLX25IOGxkQjkydWhJWDRteXpGZTlvS1ZaN05HMHpNOTlYTnp2c01zS1RSSWhSeWttMVBrY2VtOFNPVVk?oc=5",
-   "published_utc": "2026-10-23T11:07:45+00:00",
-   "title_original": "China issues guidelines to promote employment amid AI advances",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8fdc93f50ddb2ee5"
-  },
-  {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
    "title_en": "Could Europe’s cost-of-living protests sharpen EU-China trade tensions?",
@@ -677,7 +695,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "界面新闻",
    "title_en": "The central bank takes action! The 700 billion yuan MLF operation is coming",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxak9DNGVGYmJ0OEV3d2xVc1lHRElteUpFaXd5ME96Y01VZDZFZmE4aDhybWc3TGJlcWZzSzlSTGJiWDNRZzhfcFQ0cVo5Ri1rTlpwVlhwaXg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9STTMxZXFVdUdjdmt1cmJsN0ZfYWVmWW9PUlNrRUZadjYxa0VGcXdrRXhBQ1ZTeVZmakxrbWl3aFJ1b19zUTBlOUNZLTRqYnNINEgtcmZn?oc=5",
    "published_utc": "2026-10-23T10:56:21+00:00",
    "title_original": "央行出手！7000亿元MLF操作来了",
    "region": "china",
@@ -689,7 +707,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "32784aaf3dab8a64"
+   "id": "bb6b52c049cbbf88"
   },
   {
    "source_id": "nhk_economy",
@@ -775,24 +793,6 @@
    "live_wire": true,
    "manual": false,
    "id": "73bce0a65ed8d1a6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "The central bank will launch an MLF operation of 700 billion yuan on October 26, with a reduction of 200 billion yuan.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxYjZtLWI4TUNvVW5QLWNmSWZuSDc0OWs1ZXB2cWlGY2hDYXl1ZHlzNTd5NkZGZWdLV29UX2xWNV9nQ2FWN3Qtc1BzVTg4elFod3Z5RnVWQzk0YmpVOGUycg?oc=5",
-   "published_utc": "2026-10-23T10:22:00+00:00",
-   "title_original": "央行10月26日将开展7000亿元MLF操作，缩量续作2000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cf00fff66445f289"
   },
   {
    "source_id": "investing_live",
@@ -1244,6 +1244,23 @@
    "live_wire": true,
    "manual": false,
    "id": "044f2f008f8cd0d2"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Yen rallies, euro sags, dollar shrugs as AI worries drive haven bid",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXFCZWZ3d2p2eTU3ZVQ0Q2poLUdhOHhiVHNTUkRKalgweUJmbEdLTld0Z2JQNi1CcUFJeHVzNTllU2dPVUJKS0J3WWYtOURqaG1HMUJwWDFxc2dkRWpGM1ZFdzh2WGFLaHdlczdpOGNEMlZtZ1ZDenU5YjVGTVFXZE9DSk5pRTdDYVhDSEljRTRGbDZMYTU3ZnN1VGQ5QnhIRU43NVBRMXY3c3FJZ3o1Y3M3d1FudC0yeGpz?oc=5",
+   "published_utc": "2026-10-23T08:03:38+00:00",
+   "title_original": "Yen rallies, euro sags, dollar shrugs as AI worries drive haven bid",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f086b972b9af6563"
   },
   {
    "source_id": "tradingview_live",
@@ -4191,7 +4208,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -4203,7 +4220,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51907,23 +51924,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7cac974b160b2111"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
-   "title_en": "South Korea’s Central Bank Is Smart Not to Kill This Boom",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcG9nWDV6c2k4NzlmMFRzNkNPRzBWVmpRYXBnWXdYUEhVMVhXSXIxdC1Tc09iT0V6OVVqRXdkQUQ3cXNyYzZBWmVvZmxiU0FQcWRnMFhXeFpsM3h2Nm8zQk9EZmF2X2laN0xxLU1INVBKX1IwV2h5R0Y1ZFI3dnhDcGpzWG5hOXJ5Yy1wUC1HUzF1bXd1RmNpTWczaktpdHo3dDhjZl92elBwSDVHLWJqZw?oc=5",
-   "published_utc": "2026-09-28T18:00:09+00:00",
-   "title_original": "South Korea’s Central Bank Is Smart Not to Kill This Boom",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "aea8d53bfa5f7564"
   },
   {
    "source_id": "manual_ia",
