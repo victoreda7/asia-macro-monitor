@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-24T10:02:44.128360+00:00
+Última coleta: 2026-10-24T10:12:43.892208+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          981
+  🇯🇵 Japão          982
   🇨🇳 China          853
   🇹🇼 Taiwan         378
-  🇰🇷 Coreia do Sul  788
+  🇰🇷 Coreia do Sul  787
 
 ## O que já está no feed (não repita)
 
+  - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi on consumption tax reduction related bill 
   - [korea] Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
   - [taiwan] Atypical employment ratio dips to 14-year low: DGBAS
   - [korea] Samsung Electronics and SK hynix bonuses: 700 million won vs. 150 million won at Micron in Taiwan—why the huge
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Micron pivots from 4F² to 3D DRAM, differing from rivals Samsung, SK Hynix: Wedbush
   - [korea] What's Going On With SK Hynix Stock Friday
   - [china] The People's Bank of China will launch a 700 billion yuan MLF operation
-  - [korea] SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-24T10:02:44+00:00",
+      "published_utc": "2026-10-24T10:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
