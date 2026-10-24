@@ -1,14 +1,14 @@
 {
- "generated_at_utc": "2026-10-24T20:32:42.414816+00:00",
- "collected_at_utc": "2026-10-24T20:32:42.414816+00:00",
+ "generated_at_utc": "2026-10-24T20:33:28.174154+00:00",
+ "collected_at_utc": "2026-10-24T20:33:28.174154+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 984,
-  "china": 851,
-  "taiwan": 379,
+  "china": 852,
+  "taiwan": 378,
   "korea": 786
  },
  "elapsed_s": 29.6,
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T08:43:34+00:00"
+   "newest": "2026-10-24T01:43:35+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T14:17:37+00:00"
+   "newest": "2026-10-22T14:34:36+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-24T02:14:26+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-25T05:31:00+09:00"
+   "newest": "2026-10-25T05:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T12:45:27+00:00"
+   "newest": "2026-10-22T08:42:44+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1607,6 +1607,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e736502ca4ce3d15"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China Tightens Rules on Overseas Investment, Expands Reporting Requirements",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdUZ1d3VqUUJDVVBqVTgzTDR4LWZJbDd0d09BdVd6SWZYSGZrYktMaGE5eDA4YzZLaE1MazdteWtyME1Gb2JQYWpaeHMxbmdFUmlvQXB3b2Z2VFJ4cjJ2dW9mVFBrcy1qQ3Q4SEJRYXI4UFBpbVRUNzI0Y1l4NWJtT1BkdDVBNlNMV2ZnVUx5Y0xDWktaUTdfQkdscG9MYjZrSk01Sk5zWDhHcXg5Ml9PLUhzcWxSalFia0VBLVVKOEMtMUFKd25Deg?oc=5",
+   "published_utc": "2026-10-23T09:30:00+00:00",
+   "title_original": "China Tightens Rules on Overseas Investment, Expands Reporting Requirements",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2d285a23f393bbec"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51908,23 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "112d1581fbcec277"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC helps VSMC build first Singapore fab in 22 months at lower cost than US",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0gzdjRtUjRUck54R3Y3YWNyM2phblVRQmV0WW1SaGlWb0ZsTjdEdEk3LUJ4RlhnV3hpQVg4NnhqYW96RFJuY2t1U1ZBUkFiUGYwOUluOGJjUE9TajVBNkxsWHp4SEljVG5Ndkp6bnNHZjVXTUdPOXpsQkpBVEptRVR1VFI0R3Z1b2FfdWJB?oc=5",
-   "published_utc": "2026-09-29T02:38:26+00:00",
-   "title_original": "TSMC helps VSMC build first Singapore fab in 22 months at lower cost than US",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f02e719ae9ae4186"
   },
   {
    "source_id": "manual_ia",
