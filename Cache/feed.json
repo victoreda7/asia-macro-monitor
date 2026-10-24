@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-24T04:12:45.865875+00:00",
- "collected_at_utc": "2026-10-24T04:12:45.865875+00:00",
+ "generated_at_utc": "2026-10-24T04:22:41.661525+00:00",
+ "collected_at_utc": "2026-10-24T04:22:41.661525+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 983,
   "china": 853,
-  "taiwan": 376,
-  "korea": 788
+  "taiwan": 377,
+  "korea": 787
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 42,
+   "count": 44,
    "error": "",
-   "newest": "2026-10-24T10:16:17+08:00"
+   "newest": "2026-10-24T11:49:23+08:00"
   },
   {
    "source_id": "investing_live",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T14:17:37+00:00"
+   "newest": "2026-10-22T14:34:36+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:12:00+00:00"
+   "newest": "2026-10-23T19:15:47+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-24T04:06:16+00:00"
+   "newest": "2026-10-24T04:20:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T22:06:32+00:00"
+   "newest": "2026-10-24T01:07:28+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Taiwan Semiconductor Manufacturing Company Ltd. Stock 12‑Month Price Target Cut to $553.18, Implies 32% Upside",
+   "url": "https://www.tradingview.com/news/tradingview:449b311a6a7d2:0-taiwan-semiconductor-manufacturing-company-ltd-stock-12-month-price-target-cut-to-553-18-implies-32-upside/",
+   "published_utc": "2026-10-24T04:20:00+00:00",
+   "title_original": "Taiwan Semiconductor Manufacturing Company Ltd. Stock 12‑Month Price Target Cut to $553.18, Implies 32% Upside",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "31809670d1de850d"
+  },
   {
    "source_id": "gn_kr_bok",
    "source_name": "농민신문",
@@ -522,7 +539,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwUVpjTWN6ODlLRHBaTXYyNjZsdnZTVERqRjdFeHRBNjAtcWNmU3dFZnpGajZlTzFPWThqSGRBN0ZGTnRITXZZN3BGTktrZFQ4VE4xZ2pCblQ5LTJVU1pEaEJObw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWXlZaGMwdE8tUUU4VVExX0FmWXJqTjlTWUQyeDU2V0JaVW02c09iVEhSUkVCTngwdDBJaml6ZXVVT3pMek14T0ljQmZhczBhMjhIS01BaGp0TVhHV19ldWh5UDVRZw?oc=5",
    "published_utc": "2026-10-23T16:37:25+00:00",
    "title_original": "央行10月26日将开展7000亿元MLF操作 缩量续作2000亿元",
    "region": "china",
@@ -534,7 +551,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "53420506ac36550c"
+   "id": "5475dbf6f1e51267"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -2308,8 +2325,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -2323,7 +2340,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a1aa424a8381650f"
+   "id": "9f7d07c9dd0602ca"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2412,8 +2429,8 @@
    "id": "ab339f10ce551a59"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -2426,7 +2443,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -3084,6 +3101,23 @@
    "live_wire": true,
    "manual": false,
    "id": "abfe0c2edffabbef"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "https://www.thedailyeconomy.kr/",
+   "title_en": "Bank of Korea freezes base interest rate at 3.00% per annum... Speed ​​adjustment after consecutive increases in July and August",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mNHFKTEJjLUZDNmV2SzQwUU4tcGk4MFAxYnM5VmRzQkhWRy1fZ0tfNGFYUkhTWUx0WDlRTUNDa3RKdDVpUnRIMjBnNkJuRkxVc2RwZjdidE5iNzVISnZCZU1MdmplNlBsaFZEZ1FVb3g?oc=5",
+   "published_utc": "2026-10-22T22:05:00+00:00",
+   "title_original": "한국은행, 기준금리 연 3.00% 동결…7·8월 연속 인상 후 속도 조절",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3804aa094cc0fd04"
   },
   {
    "source_id": "tradingview_live",
@@ -5157,23 +5191,6 @@
    "id": "04c192aa529f8a7d"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴시스",
-   "title_en": "Bank of Korea freezes base interest rate at 3.00% per annum [Newsis Pic]",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xUGY3WnAteUMtUGlxbHBXREszT0kxbFZ3RlBxbTBEdTRFUjNwRkZXN0NGRWh2TUh6Y1BsWFNSX3dPSzRZZXBaVWZnTHJSWHNKWEFicVB5azI3aUF2M3FpdtIBeEFVX3lxTE9pOGxtbk1jMlJBcDZaWGV1LWY3V21ta29xNzh4c1phLTVLVGhhYk5FQmVabVA2WGhxS0lCaHVNUDAyenFDZkJfbW5sbGJiQlM2VUVjQk5iV1JDY0NpNnRhZlFYLUFaUGFOVDJrVmdYdFhZUWdtRXBJNA?oc=5",
-   "published_utc": "2026-10-22T01:55:28+00:00",
-   "title_original": "한국은행, 기준금리 연 3.00% 동결 [뉴시스Pic]",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d29b14b60d69785"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(2nd LD) BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
@@ -6054,8 +6071,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -6069,7 +6086,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -8735,8 +8752,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -8750,7 +8767,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -10425,9 +10442,9 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNXY4d0E5eEF5aUw0UlpGTGhjRnJzUENrZ010cUVzMVRZVmVnSDJOSW9yNEswWm9jdEN0UnhRNFNzMmV4VVp5ZktLWlJFRVpXWThpNTJSSEJ5Wm5adEpwSFpxMWhhZXp4ME45SHBtOEVRZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UOEd5TVhYdldxVjFRUFJkWVJDaXJaNmItUVh3UkVCRDRSdzBTYWEwQUVsQ3gzRThSbU1yLXkzZDBHVnluYi1aSXl3M2trV1JyS1lGdFFQcHU2SHZmeFR2SXhQZFc3amloMEpwSGdBczJ5ZloxMUE?oc=5",
    "published_utc": "2026-10-20T02:00:00+00:00",
-   "title_original": "2026年前三季度广东居民消费价格 同比上涨0.9%",
+   "title_original": "2026年前三季度广东居民消费价格同比上涨0.9%",
    "region": "china",
    "topics": [
     "inflation"
@@ -10436,7 +10453,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0bee112acf295ae1"
+   "id": "83d5a510f10ebe66"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -14412,7 +14429,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "The base interest rate has been raised repeatedly... A decision by the Monetary Policy Committee is expected this week.",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PU2FIcjhlR2cxeWkweTY1aE1BRUs4ZGhyV3VsMkdVRy1pWkZHQ3oxeUxIUVVKODcxQ3VKM1ZsMkJlb3hXanpfaTNwazRlbnc2QVl4cHRxVF96OUowS3c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iaVl4SmYwUmtwQnVPRXFfR3lnaGl2UjZaSG1XX2tKamdkN0tmZGNGamdkTkVkMHoyZjdqeUNoWXlRYjVFcHpYZWp2c0FPZV9ZRndpQWlqYTRQTVFjWXZTbTA4X1RJR3Vhd25qVDdRUQ?oc=5",
    "published_utc": "2026-10-18T02:11:00+00:00",
    "title_original": "연거푸 인상한 기준금리...이번 주 금통위 결정 촉각",
    "region": "korea",
@@ -14424,7 +14441,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a4f6fc73f61ae158"
+   "id": "e9a548bf6bd60c0e"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51912,24 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a7d69f63a9aba770"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South Korean exports seen rising for 16th month on solid AI chip demand",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPangxT3pzak9jS0tDVDNNYXJGMTZiZTdTM2p6WVNWWlhqRFpMeHFOcWR3SExFVWVJMU4tQWQ1WGx5M2xaamRsc3paWmFkVXJCNFhncGlwQkxMb2pZYmRYNG9faVcyYzZsUDJmLWN5OGF0SjBHM0VzSlRwSVBHZ1pYc2R6Z3hwbmV5cmZyb2FodEVkaGVCbEY2VURiNkp4RFdiQlVFRUpaR1BJOGRJQS1lTFZMekhxb2RVeE5j?oc=5",
-   "published_utc": "2026-09-29T01:08:00+00:00",
-   "title_original": "South Korean exports seen rising for 16th month on solid AI chip demand",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fe138add491b31db"
   },
   {
    "source_id": "manual_ia",
