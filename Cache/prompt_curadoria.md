@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-24T16:32:43.221370+00:00
+Última coleta: 2026-10-24T16:42:43.459895+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
-  🇨🇳 China          850
+  🇨🇳 China          851
   🇹🇼 Taiwan         380
-  🇰🇷 Coreia do Sul  787
+  🇰🇷 Coreia do Sul  786
 
 ## O que já está no feed (não repita)
 
+  - [china] China Hits Back at US Proposal to Tighten Investment Limits
   - [taiwan] Lin urges Taiwan-Europe cooperation on trusted AI, drone supply chains
   - [taiwan] Diplomatic discord over haze issue erupts, Indonesia cuts natural gas exports to Singapore | International
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi on consumption tax reduction related bill 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese premier chairs State Council executive meeting
   - [china] The central bank launched a 700 billion yuan medium-term lending facility (MLF) operation on October 26
   - [china] The central bank launched a 700 billion yuan medium-term lending facility (MLF) operation on October 26_Compan
-  - [korea] Micron pivots from 4F² to 3D DRAM, differing from rivals Samsung, SK Hynix: Wedbush
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-24T16:32:43+00:00",
+      "published_utc": "2026-10-24T16:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
