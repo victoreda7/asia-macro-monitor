@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-24T04:42:43.431189+00:00
+Última coleta: 2026-10-24T04:52:43.251112+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
@@ -21,10 +21,10 @@ Total: 3000 manchetes
   - [korea] Bank of Korea maintains base interest rate at 3%... Leave room for price increases due to price instability
   - [taiwan] Key facts: TSMC (2330) Q3 net +69%; tests rare‑earth‑free motors
   - [japan] CFTC: Hedge Funds Cut Yen Shorts and Increase Australian Dollar Longs
+  - [china] The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion y
   - [japan] Demonstrations in France reflect the "spark of Europe", which country will sell government bonds next, and the
   - [japan] Bank of Japan Monetary Policy Meeting from the 29th It is likely that the underlying inflation rate will reach
   - [korea] SK Hynix Stocks Gain 4.42% as Solidigm Ends IPO Review
-  - [china] The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion y
   - [china] The central bank will carry out 700 billion yuan of MLF operations to maintain sufficient liquidity in the ban
   - [japan] Japan banks prepared to weather AI crash, global rate spike: BOJ stress test
   - [japan] Consumption tax reduction bill enters substantive deliberation; debate continues over support payments, etc.
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-24T04:42:43+00:00",
+      "published_utc": "2026-10-24T04:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

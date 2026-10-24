@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-24T04:42:43.431189+00:00",
- "collected_at_utc": "2026-10-24T04:42:43.431189+00:00",
+ "generated_at_utc": "2026-10-24T04:52:43.251112+00:00",
+ "collected_at_utc": "2026-10-24T04:52:43.251112+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 377,
   "korea": 787
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-23T06:11:23+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-24T05:20:00+09:00"
+   "newest": "2026-10-24T13:49:50+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-24T04:35:19+00:00"
+   "newest": "2026-10-24T04:39:38+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T22:06:32+00:00"
+   "newest": "2026-10-24T01:07:28+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T05:49:01+00:00"
+   "newest": "2026-10-23T08:45:02+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -413,6 +413,24 @@
    "id": "81460964943e729c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWXlZaGMwdE8tUUU4VVExX0FmWXJqTjlTWUQyeDU2V0JaVW02c09iVEhSUkVCTngwdDBJaml6ZXVVT3pMek14T0ljQmZhczBhMjhIS01BaGp0TVhHV19ldWh5UDVRZw?oc=5",
+   "published_utc": "2026-10-23T22:25:03+00:00",
+   "title_original": "央行10月26日将开展7000亿元MLF操作 缩量续作2000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5475dbf6f1e51267"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "Demonstrations in France reflect the \"spark of Europe\", which country will sell government bonds next, and the outcome of the 2027 presidential election | Politics, Economy, Investment | Toyo Keizai Online",
@@ -464,24 +482,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7fb2c581f922fae0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwUVpjTWN6ODlLRHBaTXYyNjZsdnZTVERqRjdFeHRBNjAtcWNmU3dFZnpGajZlTzFPWThqSGRBN0ZGTnRITXZZN3BGTktrZFQ4VE4xZ2pCblQ5LTJVU1pEaEJObw?oc=5",
-   "published_utc": "2026-10-23T18:20:48+00:00",
-   "title_original": "央行10月26日将开展7000亿元MLF操作 缩量续作2000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "53420506ac36550c"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2325,8 +2325,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -2340,7 +2340,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a1aa424a8381650f"
+   "id": "9f7d07c9dd0602ca"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2429,8 +2429,8 @@
    "id": "ab339f10ce551a59"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -2443,7 +2443,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -4711,7 +4711,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -4723,7 +4723,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6071,8 +6071,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -6086,7 +6086,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -8752,8 +8752,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -8767,7 +8767,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "260bb7b52d56117c"
+   "id": "0583e4ec02152092"
   },
   {
    "source_id": "tradingview_live",
@@ -14429,7 +14429,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "The base interest rate has been raised repeatedly... A decision by the Monetary Policy Committee is expected this week.",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iaVl4SmYwUmtwQnVPRXFfR3lnaGl2UjZaSG1XX2tKamdkN0tmZGNGamdkTkVkMHoyZjdqeUNoWXlRYjVFcHpYZWp2c0FPZV9ZRndpQWlqYTRQTVFjWXZTbTA4X1RJR3Vhd25qVDdRUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PU2FIcjhlR2cxeWkweTY1aE1BRUs4ZGhyV3VsMkdVRy1pWkZHQ3oxeUxIUVVKODcxQ3VKM1ZsMkJlb3hXanpfaTNwazRlbnc2QVl4cHRxVF96OUowS3c?oc=5",
    "published_utc": "2026-10-18T02:11:00+00:00",
    "title_original": "연거푸 인상한 기준금리...이번 주 금통위 결정 촉각",
    "region": "korea",
@@ -14441,7 +14441,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e9a548bf6bd60c0e"
+   "id": "a4f6fc73f61ae158"
   },
   {
    "source_id": "korea_herald_biz",
