@@ -1,18 +1,26 @@
 {
- "generated_at_utc": "2026-10-24T20:02:46.436422+00:00",
- "collected_at_utc": "2026-10-24T20:02:46.436422+00:00",
+ "generated_at_utc": "2026-10-24T20:12:47.658028+00:00",
+ "collected_at_utc": "2026-10-24T20:12:47.658028+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 983,
+  "japan": 984,
   "china": 851,
-  "taiwan": 380,
+  "taiwan": 379,
   "korea": 786
  },
- "elapsed_s": 31.7,
+ "elapsed_s": 32.9,
  "sources": [
+  {
+   "source_id": "gn_asia_bloomberg",
+   "name": "Bloomberg Asia",
+   "ok": false,
+   "count": 0,
+   "error": "sem resultados",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
@@ -20,14 +28,6 @@
    "count": 51,
    "error": "",
    "newest": "2026-10-23T15:00:00+09:00"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "name": "Bloomberg Asia",
-   "ok": true,
-   "count": 30,
-   "error": "",
-   "newest": "2026-10-24T14:30:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-24T19:33:50+00:00"
+   "newest": "2026-10-24T19:59:37+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-24T19:33:50+00:00"
+   "newest": "2026-10-24T19:59:37+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-24T19:47:04+00:00"
+   "newest": "2026-10-24T20:05:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-25T04:30:00+09:00"
+   "newest": "2026-10-25T05:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Amazing Venture [17] LENZO / Taking on the challenge of next-generation AI semiconductors from Japan | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/961731?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-24T20:00:00+00:00",
+   "title_original": "すごいベンチャー【17】LENZO／日本発の次世代AI半導体に挑む | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d8b0a63a7e24a9e6"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "Amazing Venture [19] EmotionX/Secret Computing Semiconductor & Cloud | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/961733?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-24T20:00:00+00:00",
+   "title_original": "すごいベンチャー【19】EmotionX／秘密計算の半導体&クラウド | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b939e5964ced72d"
+  },
   {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
@@ -4901,7 +4935,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -4913,7 +4947,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51891,42 +51925,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f02e719ae9ae4186"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The prefecture's economy is left unchanged as a \"moderate recovery.\" Prices continue to be under upward pressure. Future trends will be closely watched. Bank of Japan Akita Branch (ABS Akita Broadcasting)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ma2ZsQnAwX28tREN0SzhzMkg0OHBSdVhIZXJUSHcyUXFaVGFZQkZFT1VXdVlFR00wNzBHdUJ5U24yLTZhV0RvUmlRd1doOXVrMlZna2tjbW1falBBV3RuTTBDbVQycUpXeEZrQzVtTmpDY3pTNVlVQzZSZmhMRUE?oc=5",
-   "published_utc": "2026-09-29T02:33:00+00:00",
-   "title_original": "県内の景気「緩やかに回復」判断据え置く 物価は上昇圧力がかかる状況続く 今後の動向を注視 日銀秋田支店（ABS秋田放送）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2c3d8c743ef38125"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Trump-Xi state dinner puts tech titans at the head table, spotlighting Taiwan's quiet supply chain clout",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLXdQRGVNd0FsN0FoY1RWUDNxZ3hRZ2dLWFZIZWtQZklDR0tKYjExemdReERwSjhfTzVBcDlsd2xzNkdPTDlaOTZDaVFvakZ1NXlraGVzWC1zRS1HaWd6WjNzbTR1T3VtRUt1UWI0UllCZGt4OXQ4dWhleG82ZUJpV0c0ZEk5Tk9tVkNhWTlTR2E2VWNmWTlIZkZzN0U?oc=5",
-   "published_utc": "2026-09-29T02:16:46+00:00",
-   "title_original": "Trump-Xi state dinner puts tech titans at the head table, spotlighting Taiwan's quiet supply chain clout",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "24ad11289105eef3"
   },
   {
    "source_id": "manual_ia",
