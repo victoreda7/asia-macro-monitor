@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-24T00:22:44.033066+00:00
+Última coleta: 2026-10-24T00:32:43.732513+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
@@ -17,8 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [japan] Bank of Japan Monetary Policy Meeting from the 29th It is likely that the underlying inflation rate will reach
   - [japan] <Deepening division> Demonstrations in France reflect the "spark of Europe", which country will sell governmen
+  - [japan] Bank of Japan Monetary Policy Meeting from the 29th It is likely that the underlying inflation rate will reach
   - [korea] SK Hynix Stocks Gain 4.42% as Solidigm Ends IPO Review
   - [china] The central bank will carry out 700 billion yuan of MLF operations to maintain sufficient liquidity in the ban
   - [japan] Consumption tax reduction bill enters substantive deliberation; debate continues over support payments, etc.
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-24T00:22:44+00:00",
+      "published_utc": "2026-10-24T00:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
