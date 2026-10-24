@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-24T06:32:43.270289+00:00
+Última coleta: 2026-10-24T06:42:44.660591+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [taiwan] Taiwan Semiconductor Manufacturing Company Ltd. Stock 12‑Month Price Target Cut to $553.18, Implies 32% Upside
+  - [china] The central bank will carry out 700 billion yuan of MLF operations to reduce volume and continue operations
   - [japan] What's New October, 2026 : Ministry of Finance
   - [korea] Bank of Korea maintains base interest rate at 3%... Leave room for price increases due to price instability
   - [china] China Barely Eased Austerity Just Before Shift to Stimulus Mode
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank's MLF reduction in October was extended to 200 billion yuan to avoid excessive accumulation o
   - [china] Wuhan Tianyuan Group's Consortium Wins 3.6 Billion Yuan Bid For Project
   - [china] The central bank announced that it will carry out 700 billion yuan MLF operations
-  - [china] The central bank will launch a 700 billion yuan MLF operation on October 26
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-24T06:32:43+00:00",
+      "published_utc": "2026-10-24T06:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
