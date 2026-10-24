@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-24T01:32:44.022289+00:00
+Última coleta: 2026-10-24T01:42:43.900320+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
@@ -34,8 +34,8 @@ Total: 3000 manchetes
   - [china] China's MiniMax completes export registration for open-source, overseas AI model licensing
   - [korea] Woori Financial Group : Earnings topped KRW 1 trillion as stronger fees and lower credit costs supported retur
   - [china] China issues guidelines to promote employment amid AI advances
-  - [korea] Apro: AT begins KRW spot trading on Bithumb - 23 Oct 2026
   - [china] The central bank launches 700 billion yuan 1-year MLF operation
+  - [korea] Apro: AT begins KRW spot trading on Bithumb - 23 Oct 2026
   - [korea] SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com
   - [china] BGI Genomics Q3 Net Profit At 2.9 Million Yuan
   - [japan] German Chancellor Merz will visit Japan next week to hold a summit meeting with Prime Minister Takaichi
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-24T01:32:44+00:00",
+      "published_utc": "2026-10-24T01:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
