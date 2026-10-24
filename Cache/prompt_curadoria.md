@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-24T23:22:44.808710+00:00
+Última coleta: 2026-10-24T23:32:42.577743+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          984
-  🇨🇳 China          852
+  🇨🇳 China          851
   🇹🇼 Taiwan         378
-  🇰🇷 Coreia do Sul  786
+  🇰🇷 Coreia do Sul  787
 
 ## O que já está no feed (não repita)
 
@@ -30,6 +30,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor Manufacturing Company Ltd. Stock 12‑Month Price Target Cut to $553.18, Implies 32% Upside
   - [china] The central bank will carry out 700 billion yuan of MLF operations to reduce volume and continue operations
   - [japan] What's New October, 2026 : Ministry of Finance
+  - [korea] With the won-yen exchange rate moving around 840 won per 100 yen, the Bank of Japan's expectation of..
   - [korea] Bank of Korea maintains base interest rate at 3%... Leave room for price increases due to price instability
   - [china] China Barely Eased Austerity Just Before Shift to Stimulus Mode
   - [taiwan] Key facts: TSMC (2330) Q3 net +69%; tests rare‑earth‑free motors
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] German Chancellor Merz will visit Japan next week to hold a summit meeting with Prime Minister Takaichi
   - [china] Hang Zhou Iron & Steel Q3 Net Loss At 108.7 Million Yuan
   - [japan] Japan-Micronesia summit meeting confirms further strengthening of bilateral relations
-  - [china] Chinese premier chairs State Council executive meeting
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-24T23:22:45+00:00",
+      "published_utc": "2026-10-24T23:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
