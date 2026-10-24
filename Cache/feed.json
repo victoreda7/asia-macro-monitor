@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-24T02:02:44.143485+00:00",
- "collected_at_utc": "2026-10-24T02:02:44.143485+00:00",
+ "generated_at_utc": "2026-10-24T02:12:44.155732+00:00",
+ "collected_at_utc": "2026-10-24T02:12:44.155732+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 375,
   "korea": 790
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-24T01:42:20+00:00"
+   "newest": "2026-10-24T01:57:25+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-24T05:20:57+09:00"
+   "newest": "2026-10-24T05:20:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-24T01:49:11+00:00"
+   "newest": "2026-10-24T02:08:21+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-24T10:30:00+09:00"
+   "newest": "2026-10-24T11:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T12:09:00+00:00"
+   "newest": "2026-10-24T02:00:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "농민신문",
+   "title_en": "Bank of Korea maintains base interest rate at 3%... Leave room for price increases due to price instability",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vNW9lZnltS3lNdjdUYXpQQktYbGszajV0R0hnU0NTdEo0eFA4UnFfeS1ISXVteFY2Q2NRQ3dRNlRxUUpnSWFUa19sdUpFRmZBd0NkX0VjbDc3dw?oc=5",
+   "published_utc": "2026-10-24T02:00:00+00:00",
+   "title_original": "한국은행, 기준금리 3% 유지…물가 불안에 인상 여지 남겨둬",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d5c6016de1ffcc87"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -1209,24 +1227,6 @@
    "id": "b383780a675cef3c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrbTdtbkFORU0tZnpFeExiMG1uX3lEcW5hcmZ5aUFuN0dfSV9NTWhWRDdfb2ZHTmppbFlaX1pTczB0X0hLQzdrX1QwaFRBRkh4eThHWEozcVVyOVlkMWJucHEyVmw?oc=5",
-   "published_utc": "2026-10-23T09:48:09+00:00",
-   "title_original": "央行：10月26日将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bf3b1c2a262c515b"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China sells offshore yuan bonds in Hong Kong at record-low yields",
@@ -1383,6 +1383,24 @@
    "live_wire": false,
    "manual": false,
    "id": "a28d8404fa28eebc"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84VTMzdTBDNzVvNk9YTDBmV0pzUmRnUFJXYmk3bnNrZ2o0OU9JUDRjUFhSZXhoNUZBYmgtZWdEYWlkTE94QVFQTjI2eG1xLVl4U0lqSTdiUU02cnlYaE9UTGdRTmJmc3dnUFA5VDVjeUpTVDExLXZ2ZQ?oc=5",
+   "published_utc": "2026-10-23T09:15:45+00:00",
+   "title_original": "央行：10月26将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "37ab205c7f5915c5"
   },
   {
    "source_id": "tradingview_live",
@@ -19542,7 +19560,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlNsUG41RWRYNzFCcG1SZnBOblhubjhhb1pGazQzcnE2T2hjVTk3bFZjbmRBLWEtVjBvR2tvRGJtbTBQbFc3eUcwcjhsVWJhakZiUG94a3FmMlZ3NjRGN0pPQVI1Tmppb3ZhRk0yc2RoV19va1Z3SWpHSFEwcm56TVJzXzd0TUlVZnVmaWthckdzNjByUi1R?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV0wzeG5xZkFxWTNKWjJSQ25SckhoS0tuaXhaQkNlTW1IeU5DTW9XMGk0SkRYUHd1TmJzNDdZVXg0R3VFZ1JMRUFKX09GR00xcDBaRzIzb3lhVll4bUNVWjRHRmc1UUdGaEdQakpYVTR2ZUpJMExlVXdRS19TSk1QbTdqV2xzaE12UFBoZ0NYaWhOaG1Ua1h4Y0ZtX2FxRWVyMWVfZHhwZGc?oc=5",
    "published_utc": "2026-10-15T07:50:31+00:00",
    "title_original": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
    "region": "taiwan",
@@ -19553,7 +19571,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "dfc393bc45321e3c"
+   "id": "142595bf1a5461fb"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -51911,23 +51929,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ad0664e7cc9cabb0"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Seoul stocks open lower on inflation woes",
-   "url": "https://www.koreaherald.com/article/10887097",
-   "published_utc": "2026-09-29T00:33:05+00:00",
-   "title_original": "Seoul stocks open lower on inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "aea6b278d10f5b3a"
   },
   {
    "source_id": "manual_ia",

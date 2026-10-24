@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-24T02:02:44.143485+00:00
+Última coleta: 2026-10-24T02:12:44.155732+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea maintains base interest rate at 3%... Leave room for price increases due to price instability
   - [taiwan] Key facts: TSMC (2330) Q3 net +69%; tests rare‑earth‑free motors
   - [japan] CFTC: Hedge Funds Cut Yen Shorts and Increase Australian Dollar Longs
   - [japan] <Deepening division> Demonstrations in France reflect the "spark of Europe", which country will sell governmen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Could Europe’s cost-of-living protests sharpen EU-China trade tensions?
   - [china] The central bank takes action! The 700 billion yuan MLF operation is coming
   - [japan] September consumer prices +2.1% compared to the same month last year, the first time in nine months that the i
-  - [taiwan] Taiwan's September jobless rate drops to 3.36%, lowest in 26 years
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-24T02:02:44+00:00",
+      "published_utc": "2026-10-24T02:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
