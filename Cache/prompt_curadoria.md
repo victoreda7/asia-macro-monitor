@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-24T05:32:42.641623+00:00
+Última coleta: 2026-10-24T05:42:41.715673+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
@@ -18,14 +18,13 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [taiwan] Taiwan Semiconductor Manufacturing Company Ltd. Stock 12‑Month Price Target Cut to $553.18, Implies 32% Upside
-  - [japan] What's New October, 2026 : Ministry of Finance
   - [korea] Bank of Korea maintains base interest rate at 3%... Leave room for price increases due to price instability
   - [china] China Barely Eased Austerity Just Before Shift to Stimulus Mode
   - [taiwan] Key facts: TSMC (2330) Q3 net +69%; tests rare‑earth‑free motors
   - [japan] CFTC: Hedge Funds Cut Yen Shorts and Increase Australian Dollar Longs
-  - [china] The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion y
   - [japan] Demonstrations in France reflect the "spark of Europe", which country will sell government bonds next, and the
   - [japan] Bank of Japan Monetary Policy Meeting from the 29th It is likely that the underlying inflation rate will reach
+  - [china] The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion y
   - [korea] SK Hynix Stocks Gain 4.42% as Solidigm Ends IPO Review
   - [china] The central bank will carry out 700 billion yuan of MLF operations to maintain sufficient liquidity in the ban
   - [japan] Japan banks prepared to weather AI crash, global rate spike: BOJ stress test
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [china] Wuhan Tianyuan Group's Consortium Wins 3.6 Billion Yuan Bid For Project
   - [china] The central bank announced that it will carry out 700 billion yuan MLF operations
   - [china] The central bank will launch a 700 billion yuan MLF operation on October 26
+  - [japan] Euro set for weekly drop against dollar, yen as France concerns resurface
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-24T05:32:42+00:00",
+      "published_utc": "2026-10-24T05:42:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
