@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-24T00:12:42.427188+00:00
+Última coleta: 2026-10-24T00:22:44.033066+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
@@ -39,6 +39,7 @@ Total: 3000 manchetes
   - [japan] German Chancellor Merz will visit Japan next week to hold a summit meeting with Prime Minister Takaichi
   - [china] Hang Zhou Iron & Steel Q3 Net Loss At 108.7 Million Yuan
   - [japan] Japan-Micronesia summit meeting confirms further strengthening of bilateral relations
+  - [china] Chinese premier chairs State Council executive meeting
   - [china] The central bank launched a 700 billion yuan medium-term lending facility (MLF) operation on October 26
   - [china] The central bank launched a 700 billion yuan medium-term lending facility (MLF) operation on October 26_Compan
   - [korea] Micron pivots from 4F² to 3D DRAM, differing from rivals Samsung, SK Hynix: Wedbush
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's September jobless rate drops to 3.36%, lowest in 26 years
   - [china] Wingtech Says Q3 Net Loss At 216.6 Million Yuan
   - [korea] SK Hynix Scraps U.S. IPO of Memory-Chip Unit. Why the Stock Is Jumping. — Barrons.com
-  - [china] Ziyuanyuan Holdings' Unit Enters Cooperation Framework Agreement With Shenzhen Shenshu
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-24T00:12:42+00:00",
+      "published_utc": "2026-10-24T00:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
