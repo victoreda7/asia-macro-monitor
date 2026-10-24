@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-24T01:22:44.470575+00:00",
- "collected_at_utc": "2026-10-24T01:22:44.470575+00:00",
+ "generated_at_utc": "2026-10-24T01:27:57.672151+00:00",
+ "collected_at_utc": "2026-10-24T01:27:57.672151+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 375,
   "korea": 790
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-24T00:55:01+00:00"
+   "newest": "2026-10-24T01:19:07+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-23T06:11:23+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-24T01:10:19+00:00"
+   "newest": "2026-10-24T01:26:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T05:49:01+00:00"
+   "newest": "2026-10-23T08:45:02+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -359,6 +359,23 @@
    "live_wire": true,
    "manual": false,
    "id": "fb66ce3fb7de1526"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "CFTC: Hedge Funds Cut Yen Shorts and Increase Australian Dollar Longs",
+   "url": "https://www.tradingview.com/news/binance_news:7a046d839094b:0-cftc-hedge-funds-cut-yen-shorts-and-increase-australian-dollar-longs/",
+   "published_utc": "2026-10-23T22:39:09+00:00",
+   "title_original": "CFTC: Hedge Funds Cut Yen Shorts and Increase Australian Dollar Longs",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "81460964943e729c"
   },
   {
    "source_id": "toyo_keizai",
@@ -487,7 +504,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWXlZaGMwdE8tUUU4VVExX0FmWXJqTjlTWUQyeDU2V0JaVW02c09iVEhSUkVCTngwdDBJaml6ZXVVT3pMek14T0ljQmZhczBhMjhIS01BaGp0TVhHV19ldWh5UDVRZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwUVpjTWN6ODlLRHBaTXYyNjZsdnZTVERqRjdFeHRBNjAtcWNmU3dFZnpGajZlTzFPWThqSGRBN0ZGTnRITXZZN3BGTktrZFQ4VE4xZ2pCblQ5LTJVU1pEaEJObw?oc=5",
    "published_utc": "2026-10-23T16:37:25+00:00",
    "title_original": "央行10月26日将开展7000亿元MLF操作 缩量续作2000亿元",
    "region": "china",
@@ -499,7 +516,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "5475dbf6f1e51267"
+   "id": "53420506ac36550c"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1696,23 +1713,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0c1261b944685189"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan futures slide as yen strengthens, logs weekly gain",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N469090:0-japan-futures-slide-as-yen-strengthens-logs-weekly-gain/",
-   "published_utc": "2026-10-23T07:26:58+00:00",
-   "title_original": "Japan futures slide as yen strengthens, logs weekly gain",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b68f463a275484a4"
   },
   {
    "source_id": "gn_kr_yonhap",
