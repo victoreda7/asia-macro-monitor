@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-24T04:52:43.251112+00:00",
- "collected_at_utc": "2026-10-24T04:52:43.251112+00:00",
+ "generated_at_utc": "2026-10-24T05:02:44.239638+00:00",
+ "collected_at_utc": "2026-10-24T05:02:44.239638+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,15 +11,15 @@
   "taiwan": 377,
   "korea": 787
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 51,
-   "error": "",
-   "newest": "2026-10-23T15:00:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T19:25:35+00:00"
+   "newest": "2026-10-22T18:22:19+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-23T06:11:23+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-24T13:49:50+09:00"
+   "newest": "2026-10-24T13:49:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-24T04:39:38+00:00"
+   "newest": "2026-10-24T05:00:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:07:28+00:00"
+   "newest": "2026-10-24T04:10:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-24T13:00:00+09:00"
+   "newest": "2026-10-24T14:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T08:45:02+00:00"
+   "newest": "2026-10-23T05:49:01+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2291,7 +2291,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "China Is Said to Tighten Scrutiny of Listed Company Spinoffs",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXk1Sk1jbWdKU19YakhUSldKaDMxVnpXOWJaVXdQZy1NaEc5ZVJjdjNJc1Q1a09wTC1PU04wT2gtQ0NQczdXSXc5VGxzWlp6Vk9xaVAxZUlHT2dTeUVYYjZnYVZWV21TbTliZlNuVjN4dmRKT0p4aVFNSVA4MlRwMHg1X0YwczZOZ3l3M3BWZE5XNFpTbmZ0RFdNd2VGbGs5eWc3YnhRX094V1NTT1c3TQ?oc=5",
    "published_utc": "2026-10-23T02:16:00+00:00",
@@ -4711,7 +4711,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -4723,7 +4723,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c5865e4da1f5c503"
+   "id": "6181c2f60b87f6c6"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -10807,7 +10807,7 @@
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUlXRzA1YVNhSkh4U0dNMjVIZko0VHFqZHFaTlptUUdPTlFzU25TeFl3dXVnLVBMSGFXWExCMkpQRFpncV9VSjNncEVTTnl2SHB5R0ZmVGJnWUhBQUJXM1hibzdNVk1QVFdrOW1LVjBXQmVzNkN6bi01NFNPeHMtb1R3RkpLbl9XMkVWc2xrOTRKd3ZNUnBVUGdYeTdrNFZ5NEtiVDJ2Mm5tLWQwLTJkeDRuMkRaTU94anFQODZma0VlX0JIa1hzbmlQLXNIVWlYa1VJ0gHTAUFVX3lxTFB3SGxmMDdDZUNibnhKc1RHTGhSNzJZZFptRUh5NmlqRnlmUUE0bTAwMmMyNk15dUN1cTRFUmNqeDB3Nnh6VjdqSThnM3Q5ZmNxdDFRX0ptSjhDUnJLX1AtTEpBWWQwRFA2VzBJX2V6TWJna0IxWVdjVlVjMFpmZ3pVcWtzRV9aazdPeXpMSjcwMUN6NU9IRzZBcFdBeXZBWjlGQUJ6aHUwZEpHRFBmX19lOXg4Z3U3X1E3a3poX2ZGYVRvQ1VGMnhBZ29XZkJMWktuMG8?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUlXRzA1YVNhSkh4U0dNMjVIZko0VHFqZHFaTlptUUdPTlFzU25TeFl3dXVnLVBMSGFXWExCMkpQRFpncV9VSjNncEVTTnl2SHB5R0ZmVGJnWUhBQUJXM1hibzdNVk1QVFdrOW1LVjBXQmVzNkN6bi01NFNPeHMtb1R3RkpLbl9XMkVWc2xrOTRKd3ZNUnBVUGdYeTdrNFZ5NEtiVDJ2Mm5tLWQwLTJkeDRuMkRaTU94anFQODZma0VlX0JIa1hzbmlQLXNIVWlYa1VJ?oc=5",
    "published_utc": "2026-10-19T22:36:07+00:00",
    "title_original": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft",
    "region": "china",
@@ -10818,7 +10818,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "b520f3b54afd2001"
+   "id": "ddfbe8931910f700"
   },
   {
    "source_id": "tradingview_live",
