@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-24T05:02:44.239638+00:00",
- "collected_at_utc": "2026-10-24T05:02:44.239638+00:00",
+ "generated_at_utc": "2026-10-24T05:12:42.760325+00:00",
+ "collected_at_utc": "2026-10-24T05:12:42.760325+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,15 +11,15 @@
   "taiwan": 377,
   "korea": 787
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 51,
+   "error": "",
+   "newest": "2026-10-23T15:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T19:48:08+00:00"
+   "newest": "2026-10-24T01:30:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -57,9 +57,9 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "error": "",
-   "newest": "2026-10-23T09:30:00+00:00"
+   "newest": "2026-10-24T05:03:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-24T03:52:35+00:00"
+   "newest": "2026-10-24T05:01:36+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T18:22:19+00:00"
+   "newest": "2026-10-23T19:25:35+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-24T05:00:00+00:00"
+   "newest": "2026-10-24T05:02:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -379,6 +379,23 @@
    "id": "d5c6016de1ffcc87"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Barely Eased Austerity Just Before Shift to Stimulus Mode",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMzNVNE5TMkFBWS1ReFFlbEgwZGJTMmY2YmJibmZpWE9EVmI0R2dMV0hkZkNBcVJNMnU0Mml5R055bkE3emxEb01SbTYyMjYxdFA2S0tjcEhEdkxLVjlMQl9ELXFQa3l6Skx3U3dZMmxXMGswc0NJYTQ2QzlWXzNHNjhwV0xTNHBzN1VaeGpXRUZ2WGpiT1NHYndhUW1vTEx2MzFLVXJtQkM5OU5oV1lQZHM2RzE?oc=5",
+   "published_utc": "2026-10-24T01:30:00+00:00",
+   "title_original": "China Barely Eased Austerity Just Before Shift to Stimulus Mode",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f8b5673450e49cbb"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
    "title_en": "Key facts: TSMC (2330) Q3 net +69%; tests rare‑earth‑free motors",
@@ -411,24 +428,6 @@
    "live_wire": true,
    "manual": false,
    "id": "81460964943e729c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWXlZaGMwdE8tUUU4VVExX0FmWXJqTjlTWUQyeDU2V0JaVW02c09iVEhSUkVCTngwdDBJaml6ZXVVT3pMek14T0ljQmZhczBhMjhIS01BaGp0TVhHV19ldWh5UDVRZw?oc=5",
-   "published_utc": "2026-10-23T22:25:03+00:00",
-   "title_original": "央行10月26日将开展7000亿元MLF操作 缩量续作2000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5475dbf6f1e51267"
   },
   {
    "source_id": "toyo_keizai",
@@ -552,6 +551,24 @@
    "live_wire": false,
    "manual": false,
    "id": "1d0a14923f2a3dae"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWXlZaGMwdE8tUUU4VVExX0FmWXJqTjlTWUQyeDU2V0JaVW02c09iVEhSUkVCTngwdDBJaml6ZXVVT3pMek14T0ljQmZhczBhMjhIS01BaGp0TVhHV19ldWh5UDVRZw?oc=5",
+   "published_utc": "2026-10-23T16:37:25+00:00",
+   "title_original": "央行10月26日将开展7000亿元MLF操作 缩量续作2000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5475dbf6f1e51267"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -1331,23 +1348,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d3b757d7123a85b7"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China Barely Eased Austerity Just Before Shift to Stimulus Mode",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMzNVNE5TMkFBWS1ReFFlbEgwZGJTMmY2YmJibmZpWE9EVmI0R2dMV0hkZkNBcVJNMnU0Mml5R055bkE3emxEb01SbTYyMjYxdFA2S0tjcEhEdkxLVjlMQl9ELXFQa3l6Skx3U3dZMmxXMGswc0NJYTQ2QzlWXzNHNjhwV0xTNHBzN1VaeGpXRUZ2WGpiT1NHYndhUW1vTEx2MzFLVXJtQkM5OU5oV1lQZHM2RzE?oc=5",
-   "published_utc": "2026-10-23T09:37:26+00:00",
-   "title_original": "China Barely Eased Austerity Just Before Shift to Stimulus Mode",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f8b5673450e49cbb"
   },
   {
    "source_id": "tradingview_live",
@@ -2325,8 +2325,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -2340,7 +2340,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2429,8 +2429,8 @@
    "id": "ab339f10ce551a59"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -2443,7 +2443,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -6071,8 +6071,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -6086,7 +6086,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -8752,8 +8752,8 @@
    "id": "bc573d6f88cf6cb5"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Food consumption tax reduction bill to be debated in the House of Representatives What financial resources and support will be provided?",
    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62468",
    "published_utc": "2026-10-20T12:57:53+00:00",
@@ -8767,7 +8767,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0583e4ec02152092"
+   "id": "260bb7b52d56117c"
   },
   {
    "source_id": "tradingview_live",
