@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-24T08:02:43.016755+00:00
+Última coleta: 2026-10-24T08:12:44.181047+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          983
+  🇯🇵 Japão          982
   🇨🇳 China          853
-  🇹🇼 Taiwan         377
+  🇹🇼 Taiwan         378
   🇰🇷 Coreia do Sul  787
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
+  - [taiwan] Atypical employment ratio dips to 14-year low: DGBAS
+  - [korea] Samsung Electronics and SK hynix bonuses: 700 million won vs. 150 million won at Micron in Taiwan—why the huge
   - [china] The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion y
   - [taiwan] Taiwan Semiconductor Manufacturing Company Ltd. Stock 12‑Month Price Target Cut to $553.18, Implies 32% Upside
   - [china] The central bank will carry out 700 billion yuan of MLF operations to reduce volume and continue operations
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] The People's Bank of China will launch a 700 billion yuan MLF operation
   - [korea] SK Hynix’s Solidigm Nasdaq IPO plans derailed by shareholder backlash, state scrutiny of dual listings; Shares
   - [japan] Bank of Japan's monetary policy meeting next week: Underlying inflation expected to reach 2%; interest rate hi
-  - [china] The central bank's MLF reduction in October was extended to 200 billion yuan to avoid excessive accumulation o
-  - [china] Wuhan Tianyuan Group's Consortium Wins 3.6 Billion Yuan Bid For Project
-  - [china] The central bank announced that it will carry out 700 billion yuan MLF operations
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-24T08:02:43+00:00",
+      "published_utc": "2026-10-24T08:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
