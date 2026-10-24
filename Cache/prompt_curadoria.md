@@ -7,21 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-24T10:22:43.296640+00:00
+Última coleta: 2026-10-24T10:32:45.399545+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          982
-  🇨🇳 China          853
-  🇹🇼 Taiwan         378
+  🇨🇳 China          852
+  🇹🇼 Taiwan         379
   🇰🇷 Coreia do Sul  787
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Diplomatic discord over haze issue erupts, Indonesia cuts natural gas exports to Singapore | International
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi on consumption tax reduction related bill 
   - [korea] Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
   - [taiwan] Atypical employment ratio dips to 14-year low: DGBAS
   - [korea] Samsung Electronics and SK hynix bonuses: 700 million won vs. 150 million won at Micron in Taiwan—why the huge
-  - [china] The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion y
   - [taiwan] Taiwan Semiconductor Manufacturing Company Ltd. Stock 12‑Month Price Target Cut to $553.18, Implies 32% Upside
   - [china] The central bank will carry out 700 billion yuan of MLF operations to reduce volume and continue operations
   - [japan] What's New October, 2026 : Ministry of Finance
@@ -31,6 +31,7 @@ Total: 3000 manchetes
   - [japan] CFTC: Hedge Funds Cut Yen Shorts and Increase Australian Dollar Longs
   - [japan] Demonstrations in France reflect the "spark of Europe", which country will sell government bonds next, and the
   - [japan] Bank of Japan Monetary Policy Meeting from the 29th It is likely that the underlying inflation rate will reach
+  - [china] The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion y
   - [korea] SK Hynix Stocks Gain 4.42% as Solidigm Ends IPO Review
   - [china] The central bank will carry out 700 billion yuan of MLF operations to maintain sufficient liquidity in the ban
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Friday?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched a 700 billion yuan medium-term lending facility (MLF) operation on October 26_Compan
   - [korea] Micron pivots from 4F² to 3D DRAM, differing from rivals Samsung, SK Hynix: Wedbush
   - [korea] What's Going On With SK Hynix Stock Friday
-  - [china] The People's Bank of China will launch a 700 billion yuan MLF operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-24T10:22:43+00:00",
+      "published_utc": "2026-10-24T10:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
