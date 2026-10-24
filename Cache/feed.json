@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-24T18:02:43.601654+00:00",
- "collected_at_utc": "2026-10-24T18:02:43.601654+00:00",
+ "generated_at_utc": "2026-10-24T18:12:43.502990+00:00",
+ "collected_at_utc": "2026-10-24T18:12:43.502990+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 380,
   "korea": 786
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-24T02:14:26+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-24T17:44:49+00:00"
+   "newest": "2026-10-24T18:03:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T08:42:44+00:00"
+   "newest": "2026-10-24T12:03:02+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1452,24 +1452,6 @@
    "id": "b383780a675cef3c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrbTdtbkFORU0tZnpFeExiMG1uX3lEcW5hcmZ5aUFuN0dfSV9NTWhWRDdfb2ZHTmppbFlaX1pTczB0X0hLQzdrX1QwaFRBRkh4eThHWEozcVVyOVlkMWJucHEyVmw?oc=5",
-   "published_utc": "2026-10-23T09:48:09+00:00",
-   "title_original": "央行：10月26日将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bf3b1c2a262c515b"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China sells offshore yuan bonds in Hong Kong at record-low yields",
@@ -1627,6 +1609,24 @@
    "live_wire": false,
    "manual": false,
    "id": "5475dbf6f1e51267"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84VTMzdTBDNzVvNk9YTDBmV0pzUmRnUFJXYmk3bnNrZ2o0OU9JUDRjUFhSZXhoNUZBYmgtZWdEYWlkTE94QVFQTjI2eG1xLVl4U0lqSTdiUU02cnlYaE9UTGdRTmJmc3dnUFA5VDVjeUpTVDExLXZ2ZQ?oc=5",
+   "published_utc": "2026-10-23T09:15:45+00:00",
+   "title_original": "央行：10月26将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "37ab205c7f5915c5"
   },
   {
    "source_id": "tradingview_live",
@@ -2066,7 +2066,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1RzcGc5ekpZM0h0SER4alRGU19YNE9idVpaWDQtc2JKWnp0YnVUVmNkTlQ5S1JFYUFoRnBRRW9UTnUtTXlwQ2RNNGZzdmxrbzBqRHVQUWtyT2xaSlhlVVVRRjRvaTVHQmtKWVYzOTdScEJxd2NyT25oVi1kRW5Lc0lzeWpBN0lVRlZqQ1JhMzM5NGxwdlg0UWNrajVjX1MwT082N0EyTWZoZDRfejB0Z1JTQl9zOTB5UTkxUU1BX090a3NBUWRjYnF5RG8?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUHFnYVNQV2pFNUFzTWEyaDNLZmVwcFNoQXJReU1wSXVXV0dFcS12OUt1RTNvcmR6QlUzamQybncxUEE5S0kwS3hWc2k0UUNqYVlBel9iQXktSlFhbmtraTM0OUZNeUFVdlBYVnFRNGVyZHFkQUFadUtmNGhRMU9uR1c3QVJzSnh1VmZGcTYyWm1Ya0JBUTlYZ0o1eTVXOVlaaVNTemxwOTdtU1AwaVR4cXMxNnR0Vks5aGVmWWhNSTRqWERNWnVV?oc=5",
    "published_utc": "2026-10-23T06:30:52+00:00",
    "title_original": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
    "region": "taiwan",
@@ -2078,7 +2078,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "6a6d33d7a8754e6c"
+   "id": "9cd65b32798a8b40"
   },
   {
    "source_id": "korea_herald_biz",
