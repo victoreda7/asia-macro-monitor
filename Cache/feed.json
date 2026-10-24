@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-24T11:52:45.152826+00:00",
- "collected_at_utc": "2026-10-24T11:52:45.152826+00:00",
+ "generated_at_utc": "2026-10-24T12:02:44.459270+00:00",
+ "collected_at_utc": "2026-10-24T12:02:44.459270+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 380,
   "korea": 787
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-24T02:14:26+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-24T11:49:25+00:00"
+   "newest": "2026-10-24T12:00:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -603,24 +603,6 @@
    "live_wire": false,
    "manual": false,
    "id": "863971c48d96f6e6"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWXlZaGMwdE8tUUU4VVExX0FmWXJqTjlTWUQyeDU2V0JaVW02c09iVEhSUkVCTngwdDBJaml6ZXVVT3pMek14T0ljQmZhczBhMjhIS01BaGp0TVhHV19ldWh5UDVRZw?oc=5",
-   "published_utc": "2026-10-23T19:36:10+00:00",
-   "title_original": "央行10月26日将开展7000亿元MLF操作 缩量续作2000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5475dbf6f1e51267"
   },
   {
    "source_id": "tradingview_live",
@@ -1574,6 +1556,24 @@
    "live_wire": false,
    "manual": false,
    "id": "a28d8404fa28eebc"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "东方财富",
+   "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWXlZaGMwdE8tUUU4VVExX0FmWXJqTjlTWUQyeDU2V0JaVW02c09iVEhSUkVCTngwdDBJaml6ZXVVT3pMek14T0ljQmZhczBhMjhIS01BaGp0TVhHV19ldWh5UDVRZw?oc=5",
+   "published_utc": "2026-10-23T09:19:04+00:00",
+   "title_original": "央行10月26日将开展7000亿元MLF操作 缩量续作2000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5475dbf6f1e51267"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4850,7 +4850,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -4862,7 +4862,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -4933,6 +4933,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3cf9b35dd6ff65d3"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Breakingviews - COMMENTARY: Japan's strong-armed $21 bln chip bet is low risk",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFBYZ1dqLXJ5X3BsNjR4dFlsY2VrX0VPN1AxZ0VEaE96UlhKSjVOUEtFa2NWUGEyN0VDRnNfODdhaFdJdjl5LUctbDkwaWNPRWJwRldrU0h4d3dXOTZEaVpqcjI1QW5YSldxVllQc2Mxc25kLUlOclFaWXY5S2hNVUdYY0Z6ekhHUnItWjFudlpmLUxQOGc3SzJ4N0lFb0VFdlVVV1JCY2Y5dy1Q?oc=5",
+   "published_utc": "2026-10-22T02:47:59+00:00",
+   "title_original": "Breakingviews - COMMENTARY: Japan's strong-armed $21 bln chip bet is low risk",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ee5be7be07b30af5"
   },
   {
    "source_id": "gn_kr_bok",
@@ -5260,23 +5277,6 @@
    "live_wire": false,
    "manual": false,
    "id": "60640b9ef9484981"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Breakingviews - COMMENTARY: Japan's strong-armed $21 bln chip bet is low risk",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFBYZ1dqLXJ5X3BsNjR4dFlsY2VrX0VPN1AxZ0VEaE96UlhKSjVOUEtFa2NWUGEyN0VDRnNfODdhaFdJdjl5LUctbDkwaWNPRWJwRldrU0h4d3dXOTZEaVpqcjI1QW5YSldxVllQc2Mxc25kLUlOclFaWXY5S2hNVUdYY0Z6ekhHUnItWjFudlpmLUxQOGc3SzJ4N0lFb0VFdlVVV1JCY2Y5dy1Q?oc=5",
-   "published_utc": "2026-10-22T02:01:00+00:00",
-   "title_original": "Breakingviews - COMMENTARY: Japan's strong-armed $21 bln chip bet is low risk",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ee5be7be07b30af5"
   },
   {
    "source_id": "gn_kr_bok",
@@ -17198,6 +17198,23 @@
    "id": "37e538277195bcfb"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics, SK hynix rebound after sell-off",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TYU5xcTVfSFZ5dEdqTUYxTkNOU01mRmhEQ1c4SGg1ZnNkV0UyV28tSXV0UGpPakVIaWhzRkZYaDZWeUVxc0dpaU9TLWh2MUxDeGlkV29uaw?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "title_original": "Samsung Electronics, SK hynix rebound after sell-off",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1800223d8796e355"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "BOJ's Ueda says anchoring inflation around 2% target becoming more important",
@@ -17687,23 +17704,6 @@
    "live_wire": false,
    "manual": false,
    "id": "07d3cbedfebbd34a"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Samsung Electronics, SK hynix rebound after sell-off",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TYU5xcTVfSFZ5dEdqTUYxTkNOU01mRmhEQ1c4SGg1ZnNkV0UyV28tSXV0UGpPakVIaWhzRkZYaDZWeUVxc0dpaU9TLWh2MUxDeGlkV29uaw?oc=5",
-   "published_utc": "2026-10-16T02:02:11+00:00",
-   "title_original": "Samsung Electronics, SK hynix rebound after sell-off",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1800223d8796e355"
   },
   {
    "source_id": "gn_cn_pboc",
