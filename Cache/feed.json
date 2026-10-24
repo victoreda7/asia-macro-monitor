@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-24T13:42:43.091371+00:00",
- "collected_at_utc": "2026-10-24T13:42:43.091371+00:00",
+ "generated_at_utc": "2026-10-24T13:52:45.583879+00:00",
+ "collected_at_utc": "2026-10-24T13:52:45.583879+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 982,
-  "china": 851,
+  "japan": 983,
+  "china": 850,
   "taiwan": 380,
   "korea": 787
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-24T13:06:22+00:00"
+   "newest": "2026-10-24T13:30:57+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-24T02:14:26+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-24T13:40:06+00:00"
+   "newest": "2026-10-24T13:46:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T08:42:44+00:00"
+   "newest": "2026-10-24T12:45:27+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2463,6 +2463,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a1aa424a8381650f"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Euro sinks on French debt worries, yen gains for week on AI rout",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRU4zMGRzLXpsS3VUeXg0YlJGV1NNYnZCUTZaOVJhSm5KQkUxcExfVEZ0cmsyUkFHX2JubWJKV3RwVkpVd3dodmFLcHV2YU83S1JQSGF4YzlnOUdldHBHeks2bFpZLVJBVGhDeGxONTd1S05KSkxTZlhqYWFqZXA3bmloWDhhVEdQa3dpcllLbk16eURmMzhpUzJueE9vZw?oc=5",
+   "published_utc": "2026-10-23T02:08:00+00:00",
+   "title_original": "Euro sinks on French debt worries, yen gains for week on AI rout",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "04de13399715579e"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -51910,24 +51927,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5d852b2754b725cd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "eastmoney.com",
-   "title_en": "The central bank launched a 90.5 billion yuan 7-day reverse repurchase operation in the open market",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSYTNkS1ZwV2p5UC1ycEtGMzlhcW45blZ3aV9mcE5KZW9rZDU5ODR1djFDYmR2WVV6c0R1aHJsOTFoNHZLNy1mMWhndkxHM0lqTlR4VTRsTTJvbEhTajlNWQ?oc=5",
-   "published_utc": "2026-09-29T02:07:17+00:00",
-   "title_original": "央行公开市场开展905亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "66af5a0694a94675"
   },
   {
    "source_id": "manual_ia",
