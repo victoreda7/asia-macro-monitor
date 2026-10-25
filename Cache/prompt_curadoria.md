@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T11:02:42.803926+00:00
+Última coleta: 2026-10-25T11:07:19.309740+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
@@ -17,10 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] [Breaking news] Fukushima prefecture gubernatorial election exit poll results
   - [korea] Osong beauty expo draws nearly $100m in export deals
   - [china] China’s export controls around PV cells could slow India’s upstream solar push
   - [china] Govt needs to incentivise domestic solar production as China eyes curbs on tech exports: Solex Chairman
-  - [japan] [Breaking news] Fukushima prefecture gubernatorial election exit poll results
   - [japan] Fukushima prefecture gubernatorial election vote counting and exit poll election information is here [Breaking
   - [china] The Egyptian pound continues to depreciate and reaches a record low. The president of the Egyptian Central Ban
   - [china] Daan Gene Q3 Net Loss At 19.7 Million Yuan
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T11:02:43+00:00",
+      "published_utc": "2026-10-25T11:07:19+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
