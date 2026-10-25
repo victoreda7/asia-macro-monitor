@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T18:32:43.347831+00:00
+Última coleta: 2026-10-25T18:42:41.875626+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          985
-  🇨🇳 China          857
+  🇯🇵 Japão          986
+  🇨🇳 China          856
   🇹🇼 Taiwan         375
   🇰🇷 Coreia do Sul  783
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Week Ahead: BOJ Set to Leave Rate at 1.25% as Mission Shifts from Normalizing Super-Low Rates to Keeping
   - [korea] Osong beauty expo draws nearly $100m in export deals
   - [korea] AI money shifts from chips to software, exposing Korea’s lack of alternatives
   - [japan] [Breaking news] Fukushima prefecture gubernatorial election exit poll results
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] What's New October, 2026 : Ministry of Finance
   - [korea] With the won-yen exchange rate moving around 840 won per 100 yen, the Bank of Japan's expectation of..
   - [korea] Bank of Korea maintains base interest rate at 3%... Leave room for price increases due to price instability
-  - [taiwan] Key facts: TSMC (2330) Q3 net +69%; tests rare‑earth‑free motors
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T18:32:43+00:00",
+      "published_utc": "2026-10-25T18:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
