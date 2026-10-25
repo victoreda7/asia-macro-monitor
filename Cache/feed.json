@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-25T04:22:42.987404+00:00",
- "collected_at_utc": "2026-10-25T04:22:42.987404+00:00",
+ "generated_at_utc": "2026-10-25T04:32:43.988427+00:00",
+ "collected_at_utc": "2026-10-25T04:32:43.988427+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 377,
   "korea": 788
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-25T03:36:21+00:00"
+   "newest": "2026-10-25T04:07:10+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-25T03:29:51+00:00"
+   "newest": "2026-10-25T04:07:10+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T17:00:24+00:00"
+   "newest": "2026-10-23T19:25:35+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-24T02:14:26+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T08:00:13+00:00"
+   "newest": "2026-10-24T13:50:26+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-25T04:00:00+00:00"
+   "newest": "2026-10-25T04:29:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -2722,8 +2722,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -2737,7 +2737,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2825,8 +2825,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -2839,7 +2839,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -6536,8 +6536,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -6551,7 +6551,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -20074,23 +20074,6 @@
    "id": "326add6ad82d7f7c"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlNsUG41RWRYNzFCcG1SZnBOblhubjhhb1pGazQzcnE2T2hjVTk3bFZjbmRBLWEtVjBvR2tvRGJtbTBQbFc3eUcwcjhsVWJhakZiUG94a3FmMlZ3NjRGN0pPQVI1Tmppb3ZhRk0yc2RoV19va1Z3SWpHSFEwcm56TVJzXzd0TUlVZnVmaWthckdzNjByUi1R?oc=5",
-   "published_utc": "2026-10-15T07:50:31+00:00",
-   "title_original": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dfc393bc45321e3c"
-  },
-  {
    "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Sweden to reject Irish EU presidency proposal on 2028-2034 budget plan",
@@ -20281,6 +20264,23 @@
    "live_wire": false,
    "manual": false,
    "id": "858b64fc398f2573"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlNsUG41RWRYNzFCcG1SZnBOblhubjhhb1pGazQzcnE2T2hjVTk3bFZjbmRBLWEtVjBvR2tvRGJtbTBQbFc3eUcwcjhsVWJhakZiUG94a3FmMlZ3NjRGN0pPQVI1Tmppb3ZhRk0yc2RoV19va1Z3SWpHSFEwcm56TVJzXzd0TUlVZnVmaWthckdzNjByUi1R?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dfc393bc45321e3c"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -24048,6 +24048,23 @@
    "id": "66fc5a1202af3a7a"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0FfMERHSnNDdjJHR0FSQVoxX3B0SnI2R3RwaGNjblNVQlgzQ1lFUy1GOHV0Z0RzNzNmb0FoTDJGZmtFMFdaZkJZLVRpQ2FxcUhJTXNmaWtOUXY4TzVMTUNLc3FNRTN0MWtJekVDUl9oU2MyX2RodmdZcTVkT19JUDVwNVFvXzV5dkhudg?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "title_original": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c4b088009d768a94"
+  },
+  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Consumer prices in September 2026 increased by 0.9% year-on-year",
@@ -24410,23 +24427,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f5d48f1bced78a75"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0FfMERHSnNDdjJHR0FSQVoxX3B0SnI2R3RwaGNjblNVQlgzQ1lFUy1GOHV0Z0RzNzNmb0FoTDJGZmtFMFdaZkJZLVRpQ2FxcUhJTXNmaWtOUXY4TzVMTUNLc3FNRTN0MWtJekVDUl9oU2MyX2RodmdZcTVkT19JUDVwNVFvXzV5dkhudg?oc=5",
-   "published_utc": "2026-10-14T03:39:39+00:00",
-   "title_original": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c4b088009d768a94"
   },
   {
    "source_id": "gn_kr_bok",
@@ -26568,24 +26568,6 @@
    "id": "8ddfc296c6d0d1af"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOejJzTjZ2NXJGaEtHZFZTdGlQaVJPdkYtbUZOakw4QXpYWG1hLVVtUGthNTdyMmlOODdCclJJZ2oyS01TdDlQaGNVMkpWX0IyNllNMGRxY2RKZEEzbVozV1RaenhlTXF5XzZ4d0pwanJaVnRfUWpxYk1tMDQ0YWI3Z2RLdEdmR05va2I0VS1qUFN2eWtnalJCUjRUM2xVOGx2aXpRcUZyQnZkcDdma0E3NzNTcW1TNUNOZll3VmEwVQ?oc=5",
-   "published_utc": "2026-10-13T07:00:00+00:00",
-   "title_original": "Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "79a311e80f970d82"
-  },
-  {
    "source_id": "gn_kr_herald",
    "source_name": "The Korea Herald",
    "title_en": "Seoul shares open sharply lower on US losses, inflation concerns",
@@ -27541,6 +27523,24 @@
    "live_wire": false,
    "manual": false,
    "id": "db15a077d4d662ef"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOejJzTjZ2NXJGaEtHZFZTdGlQaVJPdkYtbUZOakw4QXpYWG1hLVVtUGthNTdyMmlOODdCclJJZ2oyS01TdDlQaGNVMkpWX0IyNllNMGRxY2RKZEEzbVozV1RaenhlTXF5XzZ4d0pwanJaVnRfUWpxYk1tMDQ0YWI3Z2RLdEdmR05va2I0VS1qUFN2eWtnalJCUjRUM2xVOGx2aXpRcUZyQnZkcDdma0E3NzNTcW1TNUNOZll3VmEwVQ?oc=5",
+   "published_utc": "2026-10-13T00:13:51+00:00",
+   "title_original": "Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil By Investing.com",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "79a311e80f970d82"
   },
   {
    "source_id": "gn_jp_yahoo",
