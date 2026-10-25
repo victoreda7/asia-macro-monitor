@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T12:32:42.095606+00:00
+Última coleta: 2026-10-25T12:42:42.847701+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [china] Hengyi Petrochemical Says Q3 Net Profit At 2.1 Billion Yuan
   - [china] DeepSeek and others complete overseas export registration amid China’s AI export controls | Cross-Strait
   - [china] China's fifth plenum, Jio listing on Indian bourses, BOJ meeting
+  - [korea] Osong beauty expo draws nearly US$100 mln in export deals
   - [korea] Why Kospi and Korean won have parted ways
   - [japan] ``Japan's first full-fledged suburban luxury residential area'' ``Eiichi Shibusawa is also involved in the dev
   - [japan] "A garden city before Denenchofu" and "favored by the elites of the Taisho era"...The background of the "hidde
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Key facts: TSMC (2330) Q3 net +69%; tests rare‑earth‑free motors
   - [japan] CFTC: Hedge Funds Cut Yen Shorts and Increase Australian Dollar Longs
   - [japan] Demonstrations in France reflect the "spark of Europe", which country will sell government bonds next, and the
-  - [japan] Bank of Japan Monetary Policy Meeting from the 29th It is likely that the underlying inflation rate will reach
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T12:32:42+00:00",
+      "published_utc": "2026-10-25T12:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

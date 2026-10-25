@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-25T12:32:42.095606+00:00",
- "collected_at_utc": "2026-10-25T12:32:42.095606+00:00",
+ "generated_at_utc": "2026-10-25T12:42:42.847701+00:00",
+ "collected_at_utc": "2026-10-25T12:42:42.847701+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 375,
   "korea": 782
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-25T12:01:14+00:00"
+   "newest": "2026-10-25T12:31:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-25T08:17:00+00:00"
+   "newest": "2026-10-25T12:24:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-24T02:14:26+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T04:17:22+00:00"
+   "newest": "2026-10-25T10:19:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:40:10+00:00"
+   "newest": "2026-10-25T06:23:49+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -514,6 +514,23 @@
    "live_wire": false,
    "manual": false,
    "id": "66473115a47e0f62"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "Osong beauty expo draws nearly US$100 mln in export deals",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YbnJPeHppOHFtd1B0M3ViS0V0S2t1ajltNEtQcEswZUlDSzZkRDBmWWM3TnpYZmdkNGNlcEFjU3lubTdMQ09KZm9PUTlaRWNFNlFwUXBMZjBXQQ?oc=5",
+   "published_utc": "2026-10-25T06:23:49+00:00",
+   "title_original": "Osong beauty expo draws nearly US$100 mln in export deals",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "760f7457105ee286"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51905,23 +51922,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0f48d8649b88e044"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "Seoul stocks slightly lower late Tues. morning on inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96Y0RuUm5OSUNBSWpQSW9hRm9Vb05sNHdHeVJwTVZMUlZVNTJjbXphQTlpR3JfdG1Pdm9LRWkzM3pfUmN4Ynd0TmN4eWpRSktDbUwzdTAtUXNyUQ?oc=5",
-   "published_utc": "2026-09-29T07:00:00+00:00",
-   "title_original": "Seoul stocks slightly lower late Tues. morning on inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d7e346d3125265bc"
   },
   {
    "source_id": "manual_ia",
