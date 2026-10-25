@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-25T21:22:41.992702+00:00",
- "collected_at_utc": "2026-10-25T21:22:41.992702+00:00",
+ "generated_at_utc": "2026-10-25T21:32:43.168081+00:00",
+ "collected_at_utc": "2026-10-25T21:32:43.168081+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 376,
   "korea": 783
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T04:00:00+00:00"
+   "newest": "2026-10-23T16:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T02:11:32+00:00"
+   "newest": "2026-10-25T00:36:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 21,
    "error": "",
    "newest": "2026-10-24T00:08:57+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-25T21:14:00+00:00"
+   "newest": "2026-10-25T21:30:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T06:23:49+00:00"
+   "newest": "2026-10-25T00:40:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T05:14:41+00:00"
+   "newest": "2026-10-25T09:28:26+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2055,6 +2055,24 @@
    "id": "b383780a675cef3c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrbTdtbkFORU0tZnpFeExiMG1uX3lEcW5hcmZ5aUFuN0dfSV9NTWhWRDdfb2ZHTmppbFlaX1pTczB0X0hLQzdrX1QwaFRBRkh4eThHWEozcVVyOVlkMWJucHEyVmw?oc=5",
+   "published_utc": "2026-10-23T09:48:09+00:00",
+   "title_original": "央行：10月26日将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf3b1c2a262c515b"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China sells offshore yuan bonds in Hong Kong at record-low yields",
@@ -2247,24 +2265,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5475dbf6f1e51267"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84VTMzdTBDNzVvNk9YTDBmV0pzUmRnUFJXYmk3bnNrZ2o0OU9JUDRjUFhSZXhoNUZBYmgtZWdEYWlkTE94QVFQTjI2eG1xLVl4U0lqSTdiUU02cnlYaE9UTGdRTmJmc3dnUFA5VDVjeUpTVDExLXZ2ZQ?oc=5",
-   "published_utc": "2026-10-23T09:15:45+00:00",
-   "title_original": "央行：10月26将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "37ab205c7f5915c5"
   },
   {
    "source_id": "tradingview_live",
@@ -3118,8 +3118,8 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -3133,7 +3133,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -3222,8 +3222,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -3236,7 +3236,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -3358,6 +3358,23 @@
    "live_wire": false,
    "manual": false,
    "id": "cd0b8b42ea877885"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Semiconductor stocks are plunging due to concerns over profitability of artificial intelligence (AI)..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FeGs0MkpMeGJndURDX1J0bUk4WGhUeHV6bjhkZTRBTXJxblJGcTdmSlFWTllkbFUwM0xwVWdjR2VaNmE2allWbXlpV3daNzQ?oc=5",
+   "published_utc": "2026-10-23T00:49:18+00:00",
+   "title_original": "Semiconductor stocks are plunging due to concerns over profitability of artificial intelligence (AI)..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a29d72095c68ae17"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -4998,6 +5015,23 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
+   "title_en": "As if representing the feelings of parents who are serious about their children's education, housing..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90SmMxV3h5Q1F5V21VMklMZTlNTWFRZmRTTjktaWhSRUY3b2wyRFRBYlBfMUNtcnFIeTMzQTZCdUtwQ043U1lDdWFiVXNrWUZ1RlE?oc=5",
+   "published_utc": "2026-10-22T06:50:15+00:00",
+   "title_original": "As if representing the feelings of parents who are serious about their children's education, housing..",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fac5fce3cd370fb4"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
    "title_en": "Retail investors lose $4.8bn on Samsung, SK hynix leveraged ETFs in 80 days",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6RGdGNW1UbEpCcUExT0xrOHkzM0VhaXJQd2NWT3pkZlp5Yk1JNlhyd3FhckowY0Mtd3l6WGR5NWhUN0wxSE43R1NtWFg2aUhKRGc?oc=5",
    "published_utc": "2026-10-22T06:48:27+00:00",
@@ -5643,7 +5677,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -5655,7 +5689,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c5865e4da1f5c503"
+   "id": "6181c2f60b87f6c6"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -6968,8 +7002,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -6983,7 +7017,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -51889,42 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "959a0a78fbe1e132"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
-   "title_en": "Issues that affect the decision to increase interest rates... Look at the remarks of the Monetary Policy Committee members who have decision-making power",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12MlZZMzFNR2xaejZPUEJfMHNwY3A3azVXT1IzS1hRc1JJM1Z3Sk5fWER4U2g0c0Etd1hyaXB3S0lIZWlUUlFMMzJ5LXFleWkwTkE?oc=5",
-   "published_utc": "2026-09-29T08:30:55+00:00",
-   "title_original": "금리 인상 결정에 영향 주는 사안은 …결정권 있는 금통위원 발언 보니",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4ef66e93d9b702ce"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "v.daum.net",
-   "title_en": "Oil prices rise and US government bond interest rates hover around 5%... Will the Bank of Korea raise interest rates again within the year?",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UZXdTOVZvVFQxd2tvV1hvM3dCNVZTNE1sWlgxQ2dPek5pR01iZmc1aGdZSjFTWmxQb0VlSFlFei0zeS1BdFE?oc=5",
-   "published_utc": "2026-09-29T08:23:00+00:00",
-   "title_original": "유가 뛰고 美 국채금리 5%대…한은, 연내 금리 한번 더 올리나",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3ea27d4a276e6873"
   },
   {
    "source_id": "manual_ia",
