@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T01:42:44.704245+00:00
+Última coleta: 2026-10-25T01:52:42.586315+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
@@ -28,7 +28,6 @@ Total: 3000 manchetes
   - [korea] Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
   - [taiwan] Atypical employment ratio dips to 14-year low: DGBAS
   - [korea] Samsung Electronics and SK hynix bonuses: 700 million won vs. 150 million won at Micron in Taiwan—why the huge
-  - [china] China's Chery expects overseas-manufactured vehicles to top 50% of exports, exec says
   - [taiwan] Taiwan Semiconductor Manufacturing Company Ltd. Stock 12‑Month Price Target Cut to $553.18, Implies 32% Upside
   - [china] The central bank will carry out 700 billion yuan of MLF operations to reduce volume and continue operations
   - [japan] What's New October, 2026 : Ministry of Finance
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [korea] SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com
   - [china] BGI Genomics Q3 Net Profit At 2.9 Million Yuan
   - [japan] German Chancellor Merz will visit Japan next week to hold a summit meeting with Prime Minister Takaichi
+  - [china] Hang Zhou Iron & Steel Q3 Net Loss At 108.7 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T01:42:44+00:00",
+      "published_utc": "2026-10-25T01:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
