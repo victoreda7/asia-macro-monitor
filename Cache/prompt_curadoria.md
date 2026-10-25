@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T12:42:42.847701+00:00
+Última coleta: 2026-10-25T12:52:44.154032+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
-  🇨🇳 China          857
+  🇨🇳 China          858
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  782
+  🇰🇷 Coreia do Sul  781
 
 ## O que já está no feed (não repita)
 
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [china] China's fifth plenum, Jio listing on Indian bourses, BOJ meeting
   - [korea] Osong beauty expo draws nearly US$100 mln in export deals
   - [korea] Why Kospi and Korean won have parted ways
+  - [china] China’s tech giants are paying 1 million yuan for a new kind of AI engineer
   - [japan] ``Japan's first full-fledged suburban luxury residential area'' ``Eiichi Shibusawa is also involved in the dev
   - [japan] "A garden city before Denenchofu" and "favored by the elites of the Taisho era"...The background of the "hidde
   - [japan] Will the October FOMC leave interest rates unchanged? Focus
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Bank of Korea maintains base interest rate at 3%... Leave room for price increases due to price instability
   - [taiwan] Key facts: TSMC (2330) Q3 net +69%; tests rare‑earth‑free motors
   - [japan] CFTC: Hedge Funds Cut Yen Shorts and Increase Australian Dollar Longs
-  - [japan] Demonstrations in France reflect the "spark of Europe", which country will sell government bonds next, and the
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T12:42:43+00:00",
+      "published_utc": "2026-10-25T12:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
