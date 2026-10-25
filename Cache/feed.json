@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-25T01:02:42.728768+00:00",
- "collected_at_utc": "2026-10-25T01:02:42.728768+00:00",
+ "generated_at_utc": "2026-10-25T01:12:45.771452+00:00",
+ "collected_at_utc": "2026-10-25T01:12:45.771452+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 984,
-  "china": 850,
+  "china": 851,
   "taiwan": 379,
-  "korea": 787
+  "korea": 786
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 31.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T07:34:00+00:00"
+   "newest": "2026-10-22T14:34:36+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-24T02:14:26+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T04:28:21+00:00"
+   "newest": "2026-10-22T05:31:01+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T13:51:55+00:00"
+   "newest": "2026-10-24T23:47:43+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T06:17:00+00:00"
+   "newest": "2026-10-24T23:47:43+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-25T00:55:00+00:00"
+   "newest": "2026-10-25T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-24T22:48:39+00:00"
+   "newest": "2026-10-25T01:07:26+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:12:04+00:00"
+   "newest": "2026-10-25T00:47:10+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2567,8 +2567,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -2582,7 +2582,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a1aa424a8381650f"
+   "id": "9f7d07c9dd0602ca"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2688,8 +2688,8 @@
    "id": "ab339f10ce551a59"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -2702,7 +2702,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -6381,8 +6381,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -6396,7 +6396,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -9646,6 +9646,23 @@
    "id": "4b18ba052300649f"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "ThePaper.cn",
+   "title_en": "The latest interpretation of the speech at the Financial Street Forum! Why did the central bank's policy interest rate \"change its anchor\"?",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAycE1SeUZXUDN6RzVRZlZDVFZOeVBMWGxZSkNoSzVub3k1eGdaUmtZN1hUaDdwZGNCaEtIUEJlQTRzZk4xSlNXRkViOF8tQXgtMmJuTnhmNnNuTUtvYU5xbQ?oc=5",
+   "published_utc": "2026-10-20T08:38:00+00:00",
+   "title_original": "金融街论坛讲话最新解读！央行政策利率为何“换锚”？",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "22b2a4d8ec6a4e8a"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "China’s Central Bank Plans Shift to Overnight Rate as Key Policy Benchmark",
@@ -10382,23 +10399,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
-   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ubk5vLXZRMWtvZ3VPTEpoQ1pCQnYyc291dW52MFJTalcxM2VqN3MxckJfbm55b0JvTVVxS0MwbE1kRzk4MndEeHlGUUkyQWp4a2dZUUt3VjZDVzIwM0tVS2s0cVYxZw?oc=5",
-   "published_utc": "2026-10-20T04:49:05+00:00",
-   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9e8cfec4b745bb0"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "京报网",
    "title_en": "For 9 consecutive working days, the central bank has made major moves! No more than 1 trillion yuan per day",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nNFlTWTB4T3lRemdPZTd5aGdSbFAtMFBnbExSdDU0c1hZcTR6MDRXNE4zLXk2cGNOUnFLWUdVMVMxcXFHN0EzN0xweVVUcm1FU1JJYzFMN0lOOWdhRFFKa0hPcGZ2UTNHdjRadUJOYVhYQQ?oc=5",
@@ -10432,6 +10432,23 @@
    "live_wire": false,
    "manual": false,
    "id": "94948b0310f08f53"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank’s latest announcement: It will carry out overnight reverse repurchase operations for 9 consecutive working days",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vZDB1N2tzLWE0SW1aRHFzejRiOGZNMUQyQ3Y0QjY0Q01HTUtDT3J4aU10c0JVb3BaYWRvOWg4Y1JrMG9hMTZMN2M2MU16Rzh6NnhCVnROQ21fSmxWWVRzdg?oc=5",
+   "published_utc": "2026-10-20T04:35:40+00:00",
+   "title_original": "央行最新宣布：将连续9个工作日开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8c0255988d518ffc"
   },
   {
    "source_id": "nhk_politics",
@@ -51906,23 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "fe701e06758305c1"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "다바(DABA)뉴스",
-   "title_en": "[Diagnosis] Trying to control housing prices in the metropolitan area is shaking up the local economy",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Id29Gek9SUGl2Y2duZXJ5VGpxQi1hZlBMT0laWFdVNWN2SVVzWVJJRVBla25PZXVWbXM1Q0xsT19zZVdGdWt5ZGRQUXJTSGxUbDlxUF9SRUlGRUZ1ZzNodjc4UnNMSE03QW5UN0FnUXXSAXBBVV95cUxNSHdvRnpPUlBpdmNnbmVyeVRqcUItYWZQTE9JWlhXVTVjdklVc1lSSUVQZWtuT2V1Vm1zNUNMbE9fc2VXRnVreWRkUFFyU0hsVGw5cVBfUkVJRkVGdWczaHY3OFJzTEhNN0FuVDdBZ1F1?oc=5",
-   "published_utc": "2026-09-29T02:54:14+00:00",
-   "title_original": "[진단] 수도권 집값 잡으려다 지방경제 흔드나",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "def6bec2b01d4f7d"
   },
   {
    "source_id": "manual_ia",
