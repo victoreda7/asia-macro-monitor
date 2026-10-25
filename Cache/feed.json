@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-25T09:02:45.999653+00:00",
- "collected_at_utc": "2026-10-25T09:02:45.999653+00:00",
+ "generated_at_utc": "2026-10-25T09:12:43.289106+00:00",
+ "collected_at_utc": "2026-10-25T09:12:43.289106+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 985,
+  "japan": 986,
   "china": 854,
   "taiwan": 376,
-  "korea": 785
+  "korea": 784
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-25T08:40:35+00:00"
+   "newest": "2026-10-25T09:00:23+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T04:28:21+00:00"
+   "newest": "2026-10-22T05:31:01+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-25T14:22:07+09:00"
+   "newest": "2026-10-25T18:03:45+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Fukushima prefecture gubernatorial election vote counting and exit poll election information is here [Breaking news]",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261025de65086",
+   "published_utc": "2026-10-25T09:03:45+00:00",
+   "title_original": "福島県知事選挙 開票や出口調査 当選情報はこちらで【速報】",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2507e264397863ae"
+  },
   {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
@@ -51906,23 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "381406bfc76f24bc"
-  },
-  {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(LEAD) Seoul stocks open lower on inflation woes",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XZjJIRjluTVcyU3hfbDBTdFBGdHNNZzItWEVyMFRuZWZUaFV2RllPd0JhdzZ2WEZ2RTZKS2JLalI1cWgxQ284WFZuRWpLaHdpUlZ0aXVUd3RWZw?oc=5",
-   "published_utc": "2026-09-29T07:00:00+00:00",
-   "title_original": "(LEAD) Seoul stocks open lower on inflation woes",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8cd289428b7882c1"
   },
   {
    "source_id": "manual_ia",
