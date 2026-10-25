@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T11:35:25.000386+00:00
+Última coleta: 2026-10-25T11:42:42.389375+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
-  🇨🇳 China          856
-  🇹🇼 Taiwan         376
+  🇨🇳 China          857
+  🇹🇼 Taiwan         375
   🇰🇷 Coreia do Sul  782
 
 ## O que já está no feed (não repita)
@@ -37,6 +37,7 @@ Total: 3000 manchetes
   - [korea] Samsung's Exynos 2700 outscores Qualcomm's top chip by nearly 20%
   - [china] Despite a large surplus in health insurance finances for foreign members, ``Chinese nationals are once again i
   - [japan] Fiscal soundness begins with "procedures" - Institutionalization of independent verification indicated by the 
+  - [china] Sri Lanka’s property boom gives Chinese developers hope. But old risks linger
   - [taiwan] Magnate Technology sees aerospace, semiconductor growth opportunities
   - [japan] Amazing Venture [17] LENZO / Taking on the challenge of next-generation AI semiconductors from Japan | Busines
   - [japan] Amazing Venture [19] EmotionX/Secret Computing Semiconductor & Cloud | Business | Toyo Keizai Online
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] CFTC: Hedge Funds Cut Yen Shorts and Increase Australian Dollar Longs
   - [japan] Demonstrations in France reflect the "spark of Europe", which country will sell government bonds next, and the
   - [japan] Bank of Japan Monetary Policy Meeting from the 29th It is likely that the underlying inflation rate will reach
-  - [japan] Euro sinks on French debt worries, yen gains for week on AI rout
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T11:35:25+00:00",
+      "published_utc": "2026-10-25T11:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
