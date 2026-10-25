@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T07:52:43.342632+00:00
+Última coleta: 2026-10-25T08:02:42.226253+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          986
-  🇨🇳 China          851
+  🇯🇵 Japão          985
+  🇨🇳 China          852
   🇹🇼 Taiwan         376
   🇰🇷 Coreia do Sul  787
 
 ## O que já está no feed (não repita)
 
+  - [china] Daan Gene Q3 Net Loss At 19.7 Million Yuan
   - [china] Hengyi Petrochemical Says Q3 Net Profit At 2.1 Billion Yuan
   - [china] DeepSeek and others complete overseas export registration amid China’s AI export controls | Cross-Strait
   - [china] China's fifth plenum, Jio listing on Indian bourses, BOJ meeting
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Friday?
   - [japan] Japan banks prepared to weather AI crash, global rate spike: BOJ stress test
   - [japan] Consumption tax reduction bill enters substantive deliberation; debate continues over support payments, etc.
-  - [china] China’s Fiscal Revenue Slips as Land-Sale Slump Deepens
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T07:52:43+00:00",
+      "published_utc": "2026-10-25T08:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
