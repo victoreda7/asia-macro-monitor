@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T22:32:43.799996+00:00
+Última coleta: 2026-10-25T22:42:42.665245+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Why aren't wages going up in Japan? The reason why the price increase rate is "companies > consumers" (weekly 
   - [japan] Life insurance companies plan to replace government bonds due to rise in long-term interest rates
   - [japan] Bank of Japan October meeting expected to maintain policy, focus on reaching 2% inflation
   - [japan] Bank of Japan decision meeting & changes in payment methods etc. = Some points to consider in FSR (Hirotoshi K
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Diplomatic discord over haze issue erupts, Indonesia cuts natural gas exports to Singapore | International
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi on consumption tax reduction related bill 
   - [korea] Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
-  - [taiwan] Atypical employment ratio dips to 14-year low: DGBAS
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T22:32:44+00:00",
+      "published_utc": "2026-10-25T22:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
