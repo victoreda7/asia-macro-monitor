@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-25T23:42:43.315608+00:00",
- "collected_at_utc": "2026-10-25T23:42:43.315608+00:00",
+ "generated_at_utc": "2026-10-25T23:52:44.480752+00:00",
+ "collected_at_utc": "2026-10-25T23:52:44.480752+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 985,
+  "japan": 984,
   "china": 857,
   "taiwan": 375,
-  "korea": 783
+  "korea": 784
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:41:58+00:00"
+   "newest": "2026-10-25T00:43:37+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-25T23:20:51+00:00"
+   "newest": "2026-10-25T23:40:05+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 21,
    "error": "",
    "newest": "2026-10-24T00:08:57+00:00"
   },
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T23:27:39+00:00"
+   "newest": "2026-10-25T22:01:42+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-25T23:41:00+00:00"
+   "newest": "2026-10-25T23:49:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-25T23:02:18+00:00"
+   "newest": "2026-10-25T23:50:31+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T02:00:00+00:00"
+   "newest": "2026-10-25T22:30:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Nikkei Likely Rangebound Amid Concerns About High Energy Costs — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261025000656:0-nikkei-likely-rangebound-amid-concerns-about-high-energy-costs-market-talk/",
+   "published_utc": "2026-10-25T23:46:00+00:00",
+   "title_original": "Nikkei Likely Rangebound Amid Concerns About High Energy Costs — Market Talk",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6408e34c7e77af70"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
@@ -410,6 +427,23 @@
    "live_wire": false,
    "manual": false,
    "id": "31a3f28bd0332a21"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스후플러스",
+   "title_en": "Bank of Korea freezes base interest rate by 3%... Policy interest rates have stopped, market interest rates are rising",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82SW14bEViOXZNOF9IejJabUV0ampkc3ZfZlA4b0hCTjN3TGgxMjE3SnRGR3JhLVFkVHNiVmJJckVCRDlzT3VrNEdTYXkycHVpaHFhQkF3RzlidlQ4RkV0N2pzYWRGRVBGcHhtcjZn?oc=5",
+   "published_utc": "2026-10-25T22:30:00+00:00",
+   "title_original": "한국은행 기준금리 3% 동결…멈춘 정책금리, 뛰는 시장금리",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "145fca5ca9230f0e"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -2157,6 +2191,24 @@
    "id": "b383780a675cef3c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrbTdtbkFORU0tZnpFeExiMG1uX3lEcW5hcmZ5aUFuN0dfSV9NTWhWRDdfb2ZHTmppbFlaX1pTczB0X0hLQzdrX1QwaFRBRkh4eThHWEozcVVyOVlkMWJucHEyVmw?oc=5",
+   "published_utc": "2026-10-23T09:48:09+00:00",
+   "title_original": "央行：10月26日将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf3b1c2a262c515b"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China sells offshore yuan bonds in Hong Kong at record-low yields",
@@ -2349,24 +2401,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5475dbf6f1e51267"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84VTMzdTBDNzVvNk9YTDBmV0pzUmRnUFJXYmk3bnNrZ2o0OU9JUDRjUFhSZXhoNUZBYmgtZWdEYWlkTE94QVFQTjI2eG1xLVl4U0lqSTdiUU02cnlYaE9UTGdRTmJmc3dnUFA5VDVjeUpTVDExLXZ2ZQ?oc=5",
-   "published_utc": "2026-10-23T09:15:45+00:00",
-   "title_original": "央行：10月26将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "37ab205c7f5915c5"
   },
   {
    "source_id": "tradingview_live",
@@ -5779,7 +5813,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -5791,7 +5825,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c5865e4da1f5c503"
+   "id": "6181c2f60b87f6c6"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51882,42 +51916,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b3b16c6f6b27b5c1"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Supplementary budget proposal of 14.9 billion yen TEPCO's contribution to snow removal support: Prefectural assembly September regular meeting opening [Niigata] (UX Niigata TV 21)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5MWpyWmxvWFJzTWZfT0FTRExNOFBpQWhFaUpFYXlqdno4MFZDa05lSy1vLVFPb011dllSM204dTVWMEdYdjRQdGRURVFPRkdpR3R2QU5qc25XTlVQTnJNZjJ0M3V1T0hpc1pVWjZGTGpRdFMzamdyUTYwUTNhVkE?oc=5",
-   "published_utc": "2026-09-29T09:48:22+00:00",
-   "title_original": "補正予算案149億円 除雪支援に東京電力の拠出金：県議会9月定例会開会【新潟】（UX新潟テレビ21）",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "cb4cba8bfb55bebd"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "What will happen this winter as electricity prices reach record highs? [Q&A]",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260929de52999",
-   "published_utc": "2026-09-29T09:13:00+00:00",
-   "title_original": "電気料金が「過去最高」の水準へ この冬はどうなる？【Q＆A】",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ae346823dd1f3fbc"
   },
   {
    "source_id": "manual_ia",
