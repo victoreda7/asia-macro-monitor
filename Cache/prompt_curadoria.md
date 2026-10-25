@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T21:09:27.715495+00:00
+Última coleta: 2026-10-25T21:12:45.299253+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
-  🇨🇳 China          856
-  🇹🇼 Taiwan         375
+  🇨🇳 China          855
+  🇹🇼 Taiwan         376
   🇰🇷 Coreia do Sul  783
 
 ## O que já está no feed (não repita)
 
+  - [japan] Life insurance companies plan to replace government bonds due to rise in long-term interest rates
   - [japan] Bank of Japan October meeting expected to maintain policy, focus on reaching 2% inflation
   - [japan] Consumption tax reduction bill Ruling party looks for passage time Opposition parties clarify recipients of su
   - [taiwan] The United States: It has assisted Gulf countries in exporting 1.5 billion barrels of crude oil through the St
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
   - [taiwan] Atypical employment ratio dips to 14-year low: DGBAS
   - [korea] Samsung Electronics and SK hynix bonuses: 700 million won vs. 150 million won at Micron in Taiwan—why the huge
-  - [taiwan] Taiwan Semiconductor Manufacturing Company Ltd. Stock 12‑Month Price Target Cut to $553.18, Implies 32% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T21:09:27+00:00",
+      "published_utc": "2026-10-25T21:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
