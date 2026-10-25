@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T06:02:43.124984+00:00
+Última coleta: 2026-10-25T06:12:42.773908+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Why Kospi and Korean won have parted ways
   - [japan] ``Japan's first full-fledged suburban luxury residential area'' ``Eiichi Shibusawa is also involved in the dev
   - [japan] "A garden city before Denenchofu" and "favored by the elites of the Taisho era"...The background of the "hidde
   - [japan] Will the October FOMC leave interest rates unchanged? Focus
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says
   - [japan] Japan weighs rebranding energy, AI as defense spending under Trump pressure
   - [korea] SK Hynix and Samsung likely to boost shareholder returns as demand stays strong: BofA
-  - [china] China's MiniMax completes export registration for open-source, overseas AI model licensing
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T06:02:43+00:00",
+      "published_utc": "2026-10-25T06:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
