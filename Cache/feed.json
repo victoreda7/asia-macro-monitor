@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-25T00:52:42.993673+00:00",
- "collected_at_utc": "2026-10-25T00:52:42.993673+00:00",
+ "generated_at_utc": "2026-10-25T00:57:41.472737+00:00",
+ "collected_at_utc": "2026-10-25T00:57:41.472737+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 985,
+  "japan": 984,
   "china": 850,
-  "taiwan": 378,
+  "taiwan": 379,
   "korea": 787
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:44:19+00:00"
+   "newest": "2026-10-25T00:41:58+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T12:41:43+00:00"
+   "newest": "2026-10-25T00:36:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-22T06:36:28+00:00"
+   "newest": "2026-10-24T07:00:01+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-24T02:14:26+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-25T00:40:00+00:00"
+   "newest": "2026-10-25T00:55:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:12:04+00:00"
+   "newest": "2026-10-25T00:47:10+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Magnate Technology sees aerospace, semiconductor growth opportunities",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV0NxM3FxbExCaGEyeTZMeWliZzktX1N4VS1nQkhEVU1GUnlLamFQX1RlV0ZOTVc5dGF5V3d6RjV4Q3ZTRDNXU1NIeG14M2pfMFZ3bmhPMkx0dEhkTTdIYWRhTVZxMU8zUUpvQUdqaXphLWNKR09vV2FaSUotdVY1QWNnZkFCVTBUcm0yYzUwSXZhS3QtS3c?oc=5",
+   "published_utc": "2026-10-25T00:41:58+00:00",
+   "title_original": "Magnate Technology sees aerospace, semiconductor growth opportunities",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "c6c0aff47110f5de"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -2550,8 +2567,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -2565,7 +2582,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a1aa424a8381650f"
+   "id": "9f7d07c9dd0602ca"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2671,8 +2688,8 @@
    "id": "ab339f10ce551a59"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -2685,7 +2702,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -6364,8 +6381,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -6379,7 +6396,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
@@ -10718,9 +10735,9 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局广东调查总队",
    "title_en": "In the first three quarters of 2026, consumer prices in Guangdong increased by 0.9% year-on-year.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pNXY4d0E5eEF5aUw0UlpGTGhjRnJzUENrZ010cUVzMVRZVmVnSDJOSW9yNEswWm9jdEN0UnhRNFNzMmV4VVp5ZktLWlJFRVpXWThpNTJSSEJ5Wm5adEpwSFpxMWhhZXp4ME45SHBtOEVRZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UOEd5TVhYdldxVjFRUFJkWVJDaXJaNmItUVh3UkVCRDRSdzBTYWEwQUVsQ3gzRThSbU1yLXkzZDBHVnluYi1aSXl3M2trV1JyS1lGdFFQcHU2SHZmeFR2SXhQZFc3amloMEpwSGdBczJ5ZloxMUE?oc=5",
    "published_utc": "2026-10-20T02:00:00+00:00",
-   "title_original": "2026年前三季度广东居民消费价格 同比上涨0.9%",
+   "title_original": "2026年前三季度广东居民消费价格同比上涨0.9%",
    "region": "china",
    "topics": [
     "inflation"
@@ -10729,7 +10746,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0bee112acf295ae1"
+   "id": "83d5a510f10ebe66"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -51906,23 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "def6bec2b01d4f7d"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Katayama Repeats Weak Yen Concern After Bessent Call",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0ZtZHBuSFVRWl9jUWR5cjRSVzlYem9SR2NrZnBsbXF3ZUt2T19lU0tDZEFSV2dIMnJkNVJpUG1nYl9rRUUwMTk1SkRvUkdxVExueThrc3U0ZWV2VEhSUjJFaTRFaHFjNnpyaHNUVGt3aGxHRWhmSldVYkZvdWxieTRxSVpRREszemFicUZvUVNENDRjOWQ3OU16dmRQUXF4d1l5WVlBdjA3YTFIS25rekRTcmc?oc=5",
-   "published_utc": "2026-09-29T02:54:00+00:00",
-   "title_original": "Japan’s Katayama Repeats Weak Yen Concern After Bessent Call",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0df8bdd2b6c097cc"
   },
   {
    "source_id": "manual_ia",
