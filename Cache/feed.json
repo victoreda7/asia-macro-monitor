@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-25T04:02:43.693592+00:00",
- "collected_at_utc": "2026-10-25T04:02:43.693592+00:00",
+ "generated_at_utc": "2026-10-25T04:12:45.292385+00:00",
+ "collected_at_utc": "2026-10-25T04:12:45.292385+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 985,
-  "china": 850,
+  "japan": 986,
+  "china": 849,
   "taiwan": 377,
   "korea": 788
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-25T03:56:00+00:00"
+   "newest": "2026-10-25T04:00:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-25T12:00:00+09:00"
+   "newest": "2026-10-25T13:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:12:04+00:00"
+   "newest": "2026-10-25T00:47:10+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "``Japan's first full-fledged suburban luxury residential area'' ``Eiichi Shibusawa is also involved in the development''...The reality of the ``hidden luxury residential area'' that straddles Meguro, Shinagawa, and Ota wards | Life | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/962288?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-25T04:00:00+00:00",
+   "title_original": "｢日本初の本格的な郊外型高級住宅街｣｢渋沢栄一も開発に関わる｣…目黒･品川･大田区にまたがる\"隠れ高級住宅街\"の実態 | ライフ | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "26c72d823338de57"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "\"A garden city before Denenchofu\" and \"favored by the elites of the Taisho era\"...The background of the \"hidden high-class residential area\" just 6 minutes from Meguro Station | Life | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/962289?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-25T04:00:00+00:00",
+   "title_original": "｢田園調布より前の田園都市｣｢大正時代のエリートたちが好んだ｣…目黒駅からわずか6分にある\"隠れ高級住宅街\"の背景 | ライフ | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "02080888ea70a078"
+  },
   {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
@@ -1624,6 +1658,24 @@
    "id": "b383780a675cef3c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrbTdtbkFORU0tZnpFeExiMG1uX3lEcW5hcmZ5aUFuN0dfSV9NTWhWRDdfb2ZHTmppbFlaX1pTczB0X0hLQzdrX1QwaFRBRkh4eThHWEozcVVyOVlkMWJucHEyVmw?oc=5",
+   "published_utc": "2026-10-23T09:48:09+00:00",
+   "title_original": "央行：10月26日将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bf3b1c2a262c515b"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China sells offshore yuan bonds in Hong Kong at record-low yields",
@@ -1798,24 +1850,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5475dbf6f1e51267"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84VTMzdTBDNzVvNk9YTDBmV0pzUmRnUFJXYmk3bnNrZ2o0OU9JUDRjUFhSZXhoNUZBYmgtZWdEYWlkTE94QVFQTjI2eG1xLVl4U0lqSTdiUU02cnlYaE9UTGdRTmJmc3dnUFA5VDVjeUpTVDExLXZ2ZQ?oc=5",
-   "published_utc": "2026-10-23T09:15:45+00:00",
-   "title_original": "央行：10月26将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "37ab205c7f5915c5"
   },
   {
    "source_id": "tradingview_live",
@@ -5142,7 +5176,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -5154,7 +5188,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c5865e4da1f5c503"
+   "id": "6181c2f60b87f6c6"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -7623,10 +7657,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "搜狐",
    "title_en": "From now on, the central bank continues to \"strengthen\"",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XY0tKYTZnZkRkdXJQRDJ6NHUxMTJhQUNwVTRIelA3cWtIdnY2RGtkN0t1ZVFIajAxa1J2WUtyVGdqRGlOZUg0Z2JUVGVYMUR2eUdN?oc=5",
-   "published_utc": "2026-10-21T04:40:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVldhQU5xN0tMLTRxRDJsUUZRdVdsQjVNbHMwUmtEMm1VQzZ1NkpYdHYtYlc0aFJCYmVCQ05vbF9SOHpnVlZwMDFaX1NvQjRoQnhkMjkzRFJyVldIM1ktbHJua0lCWmo5LU5yRlMwQklRZ2tuZ1hIRTM5eEdpSHlKQ1BZeGtoVGFKV1ZlbQ?oc=5",
+   "published_utc": "2026-10-21T04:49:47+00:00",
    "title_original": "今起，央行连续“发力”",
    "region": "china",
    "topics": [
@@ -7636,7 +7670,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "322d5a1b2f2277e1"
+   "id": "70bb31ada22a6249"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51889,40 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f96d5aa961004954"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVNfSzV5azFFMnhubTBnaDY2MjZWVGRaQUlHNDlRU3dVM2R4UHFsN0JNVElxV09WVUJ0LWs2aWcxNUI3aGh4QUVwWlZqMUowNXo3eEZqdlJ6YldhVjJnUW5PV2tIYW9qTnpkN1lKd3FkMzUyN1U3d0sxUXJ6SXlDTVlnM2JMZVRyM0tTVmtTTW12V1Z6eF9WZ1Zmbjk4VmFRaVlMeUJFdE45YmYyUVB2ZUl1eGVzRjNLVUhlcHlEQ3RZYlVZNTl4Z1RCRjlOR3Zab1HSAdIBQVVfeXFMTUc4ZUptZUpqOW92SDNDYjNTb0NXTi03aTR4N1lEUkpFRVlUMk00OEZyemM4b3hwSG1FSkZBZGY4TUZxM2s1SlAzUkkwYjI0V2dJVm1sdEVMekJ4TGZnM3lhRXZqYS05N1EyN2I1VWRtT2w4Zi0zQVJFaWg2MTB2NUxJSDVhejl4VkNfUEZtMm5vckxmdTRYOGFhX3VMZlNSM2JKa0VaLV92T3Y2ODl0RXlvajZuaU45UHZLUUUyNHpwODYzSWlWX2pBc2VCc2pmaTNB?oc=5",
-   "published_utc": "2026-09-29T05:20:17+00:00",
-   "title_original": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ed81b85bd2ad81b5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "Nikkei 225 drops 1.2% as US interest rates hit 19-year high: Why KOSPI barely moves",
-   "url": "https://www.tradingview.com/news/invezz:37e5b9e08bc81:0/",
-   "published_utc": "2026-09-29T05:13:04+00:00",
-   "title_original": "Nikkei 225 cai 1,2% com juros dos EUA em máxima de 19 anos: por que KOSPI mal se move",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "64184d429a4b1532"
   },
   {
    "source_id": "manual_ia",
