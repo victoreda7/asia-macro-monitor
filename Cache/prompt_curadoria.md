@@ -7,19 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T02:52:44.993269+00:00
+Última coleta: 2026-10-25T03:02:42.373260+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
-  🇨🇳 China          850
+  🇨🇳 China          851
   🇹🇼 Taiwan         378
-  🇰🇷 Coreia do Sul  789
+  🇰🇷 Coreia do Sul  788
 
 ## O que já está no feed (não repita)
 
   - [korea] SK Hynix, a Korean semiconductor company that has transformed from the verge of selling itself, ignites demand
   - [korea] S. Korea's Q2 current account surplus ranks 2nd on robust chip exports
   - [korea] Samsung's Exynos 2700 outscores Qualcomm's top chip by nearly 20%
+  - [china] Despite a large surplus in health insurance finances for foreign members, ``Chinese nationals are once again i
   - [japan] Fiscal soundness begins with "procedures" - Institutionalization of independent verification indicated by the 
   - [taiwan] Magnate Technology sees aerospace, semiconductor growth opportunities
   - [japan] Amazing Venture [17] LENZO / Taking on the challenge of next-generation AI semiconductors from Japan | Busines
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China issues guidelines to promote employment amid AI advances
   - [china] The central bank launches 700 billion yuan 1-year MLF operation
   - [korea] Apro: AT begins KRW spot trading on Bithumb - 23 Oct 2026
-  - [korea] SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T02:52:45+00:00",
+      "published_utc": "2026-10-25T03:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

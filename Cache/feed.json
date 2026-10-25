@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-25T02:52:44.993269+00:00",
- "collected_at_utc": "2026-10-25T02:52:44.993269+00:00",
+ "generated_at_utc": "2026-10-25T03:02:42.373260+00:00",
+ "collected_at_utc": "2026-10-25T03:02:42.373260+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 983,
-  "china": 850,
+  "china": 851,
   "taiwan": 378,
-  "korea": 789
+  "korea": 788
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:36:00+00:00"
+   "newest": "2026-10-25T00:38:29+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-25T01:53:35+00:00"
+   "newest": "2026-10-25T02:52:41+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T07:34:00+00:00"
+   "newest": "2026-10-21T14:17:37+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T22:16:03+00:00"
+   "newest": "2026-10-25T01:16:29+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -394,6 +394,23 @@
    "live_wire": false,
    "manual": false,
    "id": "dd27d5ad421d3a94"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Despite a large surplus in health insurance finances for foreign members, ``Chinese nationals are once again in the red'' = South Korea",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tVVozV0Z0REZXQW5adW1YcDhwcHBpTmVZemVweGh4OEZNSDhnamFmN2tQRWF6dWxYVzlURktDSjNPUF9vZkZzcjlXSFB5TE4wa0xRRlVNc2FxaHlITW9hRHRNdjQ3cUZia3RfRXd4N2tZMzA4Yjg3NnJRUjA5VUk?oc=5",
+   "published_utc": "2026-10-25T01:24:26+00:00",
+   "title_original": "外国人加入者の健康保険財政 大幅黒字も「中国籍は再び赤字」＝韓国",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ee79c2c30498e5fb"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3515,6 +3532,23 @@
    "id": "6c4c3afc2afea619"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3czTU9vU0R1MUs1S2U5UmdQX2s5THdMSnppZVpzbkMxQzJfX0JyY1o2MHVpX1h3b2ZzREhWZ0VEeEw0YTVIOFp4X19oWjlFYWJpaFhYMmItTUpFYU83bllCWjZDSXd2RlR6U3hoOHVxOFNJbGJybkNUVHFPTEZrRWVvNm02Z0E0c09oY3V2c3VHejJ1UEFRX3BxRUZtMDRUdnNGbTFB?oc=5",
+   "published_utc": "2026-10-22T21:09:57+00:00",
+   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "099657ed920ba39c"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering trade friction with Europe and the US | Business | Toyo Keizai Online",
@@ -3530,23 +3564,6 @@
    "live_wire": false,
    "manual": false,
    "id": "abda22d11ccbdbdf"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmhJMkZNNjM5TkpjNnVnME9DWHc1Wkhoa0NqX1A5bWR3bHh3aURpTGRDbjVia3V1QXlBSG5mNFpONmdUbXBoT0huYUFlXzdHX2RsXzVMakw4aE5ZMXRiblB2UWdnb3d4WUN5aDkxLVdMMHdPREctRG85MkdhUFJKbTRlUk83WHdCaE0zU0VKaEVma3N6QXh4ZlA2MU5iUUpFYVp5TkRBM0hrQQ?oc=5",
-   "published_utc": "2026-10-22T20:54:00+00:00",
-   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b95392a85fcfbe5"
   },
   {
    "source_id": "investing_fx",
@@ -51905,23 +51922,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f5bef8b2d3062b86"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "Samsung shares rise after 5% drop as Nvidia bets on AI beyond chips",
-   "url": "https://www.tradingview.com/news/invezz:31fa5460ebc81:0/",
-   "published_utc": "2026-09-29T04:32:46+00:00",
-   "title_original": "Ações da Samsung sobem após queda de 5% com aposta em IA da Nvidia além dos chips",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "703f925fda4ee45d"
   },
   {
    "source_id": "manual_ia",
