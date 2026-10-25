@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T22:12:42.766087+00:00
+Última coleta: 2026-10-25T22:22:44.284367+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [japan] Life insurance companies plan to replace government bonds due to rise in long-term interest rates
   - [japan] Bank of Japan October meeting expected to maintain policy, focus on reaching 2% inflation
+  - [japan] Bank of Japan decision meeting & changes in payment methods etc. = Some points to consider in FSR (Hirotoshi K
   - [japan] Consumption tax reduction bill Ruling party looks for passage time Opposition parties clarify recipients of su
   - [taiwan] The United States: It has assisted Gulf countries in exporting 1.5 billion barrels of crude oil through the St
   - [japan] Amazing venture [29] Beff/Horizontal division of labor for batteries like semiconductors | Business | Toyo Kei
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Liberal Democratic Party Policy Research Council Chairman Kobayashi on consumption tax reduction related bill 
   - [korea] Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
   - [taiwan] Atypical employment ratio dips to 14-year low: DGBAS
-  - [korea] Samsung Electronics and SK hynix bonuses: 700 million won vs. 150 million won at Micron in Taiwan—why the huge
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T22:12:43+00:00",
+      "published_utc": "2026-10-25T22:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
