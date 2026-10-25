@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-25T09:22:44.553273+00:00",
- "collected_at_utc": "2026-10-25T09:22:44.553273+00:00",
+ "generated_at_utc": "2026-10-25T09:32:42.552461+00:00",
+ "collected_at_utc": "2026-10-25T09:32:42.552461+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 376,
   "korea": 784
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:41:58+00:00"
+   "newest": "2026-10-25T00:43:37+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T05:00:38+00:00"
+   "newest": "2026-10-25T05:00:02+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-21T14:17:37+00:00"
+   "newest": "2026-10-21T07:34:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-24T02:14:26+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 25,
+   "count": 30,
    "error": "",
    "newest": "2026-10-24T03:27:53+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-25T09:18:24+00:00"
+   "newest": "2026-10-25T09:30:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T04:17:22+00:00"
+   "newest": "2026-10-25T07:18:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:40:10+00:00"
+   "newest": "2026-10-24T12:26:04+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1813,24 +1813,6 @@
    "id": "b383780a675cef3c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrbTdtbkFORU0tZnpFeExiMG1uX3lEcW5hcmZ5aUFuN0dfSV9NTWhWRDdfb2ZHTmppbFlaX1pTczB0X0hLQzdrX1QwaFRBRkh4eThHWEozcVVyOVlkMWJucHEyVmw?oc=5",
-   "published_utc": "2026-10-23T09:48:09+00:00",
-   "title_original": "央行：10月26日将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bf3b1c2a262c515b"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China sells offshore yuan bonds in Hong Kong at record-low yields",
@@ -2005,6 +1987,24 @@
    "live_wire": false,
    "manual": false,
    "id": "5475dbf6f1e51267"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84VTMzdTBDNzVvNk9YTDBmV0pzUmRnUFJXYmk3bnNrZ2o0OU9JUDRjUFhSZXhoNUZBYmgtZWdEYWlkTE94QVFQTjI2eG1xLVl4U0lqSTdiUU02cnlYaE9UTGdRTmJmc3dnUFA5VDVjeUpTVDExLXZ2ZQ?oc=5",
+   "published_utc": "2026-10-23T09:15:45+00:00",
+   "title_original": "央行：10月26将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "37ab205c7f5915c5"
   },
   {
    "source_id": "tradingview_live",
@@ -2841,8 +2841,8 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -2856,7 +2856,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2945,8 +2945,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -2959,7 +2959,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -6674,8 +6674,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -6689,7 +6689,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -9304,6 +9304,23 @@
    "id": "5a3aa92931facdf2"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "经济频道",
+   "title_en": "The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzOWFpMWhWeUx4QVphbmZSejQzMjd0NVZJMi1tNld1R3FNd01KNFMzSTBkU0pCU25DOTdrcTdGV196dmlRcnRnWVExWThYOHUxanotcVNtLWlDWm95RUhWRjVKVjdUUGt5N3ZGZ2RRYmhPX3JlVE04ODZ6Yw?oc=5",
+   "published_utc": "2026-10-20T13:27:00+00:00",
+   "title_original": "央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b681d22144b0848c"
+  },
+  {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
    "title_en": "China’s hybrid car exports to EU surge by more than 200% as import cap looms",
@@ -9405,23 +9422,6 @@
    "live_wire": true,
    "manual": false,
    "id": "67ee3de7f08798d9"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国日报网",
-   "title_en": "The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2UXh6cFVxXzNHcG5LSThnMDBDanphZFZkTWRLWWwtSnE0WFRIRDJNV1RIZEN2VGRLSUpsWFU0aTJRMHJnb01yeVl1YUIxVHhFZUxrV3dRSFVqOTRJUkVrX1pNOWhKbVBMRGVtaVJUaGdVOUFad25weTE0NmQ?oc=5",
-   "published_utc": "2026-10-20T12:24:41+00:00",
-   "title_original": "央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d1907d7b2abb6fff"
   },
   {
    "source_id": "gn_tw_reuters",
