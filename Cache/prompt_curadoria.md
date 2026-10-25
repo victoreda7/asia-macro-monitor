@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T10:02:43.268487+00:00
+Última coleta: 2026-10-25T10:12:42.177892+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
-  🇨🇳 China          854
+  🇨🇳 China          856
   🇹🇼 Taiwan         376
-  🇰🇷 Coreia do Sul  784
+  🇰🇷 Coreia do Sul  782
 
 ## O que já está no feed (não repita)
 
+  - [china] China’s export controls around PV cells could slow India’s upstream solar push
+  - [china] Govt needs to incentivise domestic solar production as China eyes curbs on tech exports: Solex Chairman
+  - [japan] [Breaking news] Fukushima prefecture gubernatorial election exit poll results
   - [japan] Fukushima prefecture gubernatorial election vote counting and exit poll election information is here [Breaking
   - [china] The Egyptian pound continues to depreciate and reaches a record low. The president of the Egyptian Central Ban
   - [china] Daan Gene Q3 Net Loss At 19.7 Million Yuan
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Demonstrations in France reflect the "spark of Europe", which country will sell government bonds next, and the
   - [japan] Bank of Japan Monetary Policy Meeting from the 29th It is likely that the underlying inflation rate will reach
   - [japan] Euro sinks on French debt worries, yen gains for week on AI rout
-  - [korea] SK Hynix Stocks Gain 4.42% as Solidigm Ends IPO Review
-  - [china] The central bank will carry out 700 billion yuan of MLF operations to maintain sufficient liquidity in the ban
-  - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Friday?
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T10:02:43+00:00",
+      "published_utc": "2026-10-25T10:12:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
