@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T21:02:43.811250+00:00
+Última coleta: 2026-10-25T21:09:27.715495+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Bank of Japan October meeting expected to maintain policy, focus on reaching 2% inflation
   - [japan] Consumption tax reduction bill Ruling party looks for passage time Opposition parties clarify recipients of su
   - [taiwan] The United States: It has assisted Gulf countries in exporting 1.5 billion barrels of crude oil through the St
   - [japan] Amazing venture [29] Beff/Horizontal division of labor for batteries like semiconductors | Business | Toyo Kei
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Atypical employment ratio dips to 14-year low: DGBAS
   - [korea] Samsung Electronics and SK hynix bonuses: 700 million won vs. 150 million won at Micron in Taiwan—why the huge
   - [taiwan] Taiwan Semiconductor Manufacturing Company Ltd. Stock 12‑Month Price Target Cut to $553.18, Implies 32% Upside
-  - [china] The central bank will carry out 700 billion yuan of MLF operations to reduce volume and continue operations
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T21:02:44+00:00",
+      "published_utc": "2026-10-25T21:09:27+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
