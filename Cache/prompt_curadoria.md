@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T06:22:44.574085+00:00
+Última coleta: 2026-10-25T06:32:44.134842+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
-  🇨🇳 China          849
-  🇹🇼 Taiwan         377
+  🇨🇳 China          850
+  🇹🇼 Taiwan         376
   🇰🇷 Coreia do Sul  788
 
 ## O que já está no feed (não repita)
 
+  - [china] China's fifth plenum, Jio listing on Indian bourses, BOJ meeting
   - [korea] Why Kospi and Korean won have parted ways
   - [japan] ``Japan's first full-fledged suburban luxury residential area'' ``Eiichi Shibusawa is also involved in the dev
   - [japan] "A garden city before Denenchofu" and "favored by the elites of the Taisho era"...The background of the "hidde
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] EU Looks Beyond Cars for Next Round of China Trade Talks
   - [korea] Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says
   - [japan] Japan weighs rebranding energy, AI as defense spending under Trump pressure
-  - [korea] SK Hynix and Samsung likely to boost shareholder returns as demand stays strong: BofA
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T06:22:44+00:00",
+      "published_utc": "2026-10-25T06:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
