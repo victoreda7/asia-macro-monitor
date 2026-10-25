@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T11:12:41.635110+00:00
+Última coleta: 2026-10-25T11:22:43.559009+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
@@ -52,11 +52,11 @@ Total: 3000 manchetes
   - [japan] What's New October, 2026 : Ministry of Finance
   - [korea] With the won-yen exchange rate moving around 840 won per 100 yen, the Bank of Japan's expectation of..
   - [korea] Bank of Korea maintains base interest rate at 3%... Leave room for price increases due to price instability
-  - [china] China Barely Eased Austerity Just Before Shift to Stimulus Mode
   - [taiwan] Key facts: TSMC (2330) Q3 net +69%; tests rare‑earth‑free motors
   - [japan] CFTC: Hedge Funds Cut Yen Shorts and Increase Australian Dollar Longs
   - [japan] Demonstrations in France reflect the "spark of Europe", which country will sell government bonds next, and the
   - [japan] Bank of Japan Monetary Policy Meeting from the 29th It is likely that the underlying inflation rate will reach
+  - [japan] Euro sinks on French debt worries, yen gains for week on AI rout
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T11:12:41+00:00",
+      "published_utc": "2026-10-25T11:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
