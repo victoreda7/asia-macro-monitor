@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T02:32:42.517824+00:00
+Última coleta: 2026-10-25T02:42:43.489083+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          984
+  🇯🇵 Japão          983
   🇨🇳 China          850
   🇹🇼 Taiwan         378
-  🇰🇷 Coreia do Sul  788
+  🇰🇷 Coreia do Sul  789
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix, a Korean semiconductor company that has transformed from the verge of selling itself, ignites demand
   - [korea] S. Korea's Q2 current account surplus ranks 2nd on robust chip exports
   - [korea] Samsung's Exynos 2700 outscores Qualcomm's top chip by nearly 20%
   - [japan] Fiscal soundness begins with "procedures" - Institutionalization of independent verification indicated by the 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launches 700 billion yuan 1-year MLF operation
   - [korea] Apro: AT begins KRW spot trading on Bithumb - 23 Oct 2026
   - [korea] SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com
-  - [china] BGI Genomics Q3 Net Profit At 2.9 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T02:32:42+00:00",
+      "published_utc": "2026-10-25T02:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
