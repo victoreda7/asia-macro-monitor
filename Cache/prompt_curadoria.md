@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T01:32:43.311235+00:00
+Última coleta: 2026-10-25T01:42:44.704245+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          984
+  🇯🇵 Japão          983
   🇨🇳 China          851
   🇹🇼 Taiwan         379
-  🇰🇷 Coreia do Sul  786
+  🇰🇷 Coreia do Sul  787
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung's Exynos 2700 outscores Qualcomm's top chip by nearly 20%
   - [taiwan] Magnate Technology sees aerospace, semiconductor growth opportunities
   - [japan] Amazing Venture [17] LENZO / Taking on the challenge of next-generation AI semiconductors from Japan | Busines
   - [japan] Amazing Venture [19] EmotionX/Secret Computing Semiconductor & Cloud | Business | Toyo Keizai Online
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Just Sent Another Warning Signal to the AI Trade — Barrons.com
   - [china] BGI Genomics Q3 Net Profit At 2.9 Million Yuan
   - [japan] German Chancellor Merz will visit Japan next week to hold a summit meeting with Prime Minister Takaichi
-  - [china] Hang Zhou Iron & Steel Q3 Net Loss At 108.7 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T01:32:43+00:00",
+      "published_utc": "2026-10-25T01:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

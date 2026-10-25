@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-25T01:32:43.311235+00:00",
- "collected_at_utc": "2026-10-25T01:32:43.311235+00:00",
+ "generated_at_utc": "2026-10-25T01:42:44.704245+00:00",
+ "collected_at_utc": "2026-10-25T01:42:44.704245+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 984,
+  "japan": 983,
   "china": 851,
   "taiwan": 379,
-  "korea": 786
+  "korea": 787
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-24T23:30:00+00:00"
+   "newest": "2026-10-25T01:40:13+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T11:02:14+00:00"
+   "newest": "2026-10-23T22:55:14+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:12:04+00:00"
+   "newest": "2026-10-25T00:47:10+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Samsung's Exynos 2700 outscores Qualcomm's top chip by nearly 20%",
+   "url": "https://www.koreaherald.com/article/10913791",
+   "published_utc": "2026-10-25T01:40:13+00:00",
+   "title_original": "Samsung's Exynos 2700 outscores Qualcomm's top chip by nearly 20%",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dd27d5ad421d3a94"
+  },
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
@@ -4066,7 +4083,7 @@
    "id": "7ac1ddbbd4aa0525"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "EXCLUSIVE: TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDZiLXZ3MjNBLVhJa0g3VzJ0SU9MalBLSjFrMWlJUVhXd21CY0x2OVo3SUVLV25tNnBDZVBKYnN4b1E2ZHd4Rm9FTzVGMDYySmtfU1lBRkxYUFl2eGlOWjllZEptTVZ6V3BVVFVtQVBaODVqWmp1V3dTckg2WUZVQVRYNTFIZU9yLU81bVJTNEhzZG8xR0xVNnFUcTRXSkg0cFVLOHBxSjVXSzdtdS13cFF4RkpscWdLeXdPb3Q4Sk9GQ1dybDZn?oc=5",
@@ -4080,7 +4097,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2f8e1d6ff4eb0a1d"
+   "id": "20b2a202fe543c4f"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51906,23 +51923,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e922842939eb03f4"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[By prefecture] The prefecture with the highest prices is Tokyo, and the second is Kanagawa Prefecture...A ranking of surprising price levels by region based on the latest data from the Ministry of Internal Affairs and Communications (LIMO)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90TkZVRnJFX1NubktxT253cUVIR2ZpbWFDNm9XczJCN3pRemlsZU83Nktva0VRaTdDcDQ1OWlUMGZKX3VTdzNHalJTWXhJRGdZWE0xckxzYVExaFBVbDEtZ0duRlM1aGdIY0NKWk9xSG1JQXJqYlpYR2lXUmhoYjQ?oc=5",
-   "published_utc": "2026-09-29T03:05:43+00:00",
-   "title_original": "【都道府県別】1番「物価が高い」県は「東京都」2位は「神奈川県」…総務省の最新データから地域ごとの意外な「物価水準」をランキングで解説（LIMO）",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "fe701e06758305c1"
   },
   {
    "source_id": "manual_ia",
