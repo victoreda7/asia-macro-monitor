@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T07:42:43.026652+00:00
+Última coleta: 2026-10-25T07:52:43.342632+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Hengyi Petrochemical Says Q3 Net Profit At 2.1 Billion Yuan
   - [china] DeepSeek and others complete overseas export registration amid China’s AI export controls | Cross-Strait
   - [china] China's fifth plenum, Jio listing on Indian bourses, BOJ meeting
   - [korea] Why Kospi and Korean won have parted ways
@@ -49,14 +50,13 @@ Total: 3000 manchetes
   - [japan] CFTC: Hedge Funds Cut Yen Shorts and Increase Australian Dollar Longs
   - [japan] Demonstrations in France reflect the "spark of Europe", which country will sell government bonds next, and the
   - [japan] Bank of Japan Monetary Policy Meeting from the 29th It is likely that the underlying inflation rate will reach
+  - [japan] Euro sinks on French debt worries, yen gains for week on AI rout
   - [korea] SK Hynix Stocks Gain 4.42% as Solidigm Ends IPO Review
   - [china] The central bank will carry out 700 billion yuan of MLF operations to maintain sufficient liquidity in the ban
   - [korea] Why did Micron, SK Hynix and SanDisk shares rise on Friday?
   - [japan] Japan banks prepared to weather AI crash, global rate spike: BOJ stress test
   - [japan] Consumption tax reduction bill enters substantive deliberation; debate continues over support payments, etc.
   - [china] China’s Fiscal Revenue Slips as Land-Sale Slump Deepens
-  - [china] EU Looks Beyond Cars for Next Round of China Trade Talks
-  - [korea] Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T07:42:43+00:00",
+      "published_utc": "2026-10-25T07:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
