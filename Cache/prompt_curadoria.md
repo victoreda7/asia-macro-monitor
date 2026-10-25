@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T03:32:42.989291+00:00
+Última coleta: 2026-10-25T03:42:45.261387+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          984
-  🇨🇳 China          851
+  🇯🇵 Japão          985
+  🇨🇳 China          850
   🇹🇼 Taiwan         377
   🇰🇷 Coreia do Sul  788
 
 ## O que já está no feed (não repita)
 
+  - [japan] Will the October FOMC leave interest rates unchanged? Focus
   - [japan] Chairman of the ruling and opposition party committees discuss consumption tax reduction bill NHK Sunday debat
   - [korea] SK Hynix, a Korean semiconductor company that has transformed from the verge of selling itself, ignites demand
   - [korea] S. Korea's Q2 current account surplus ranks 2nd on robust chip exports
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China's MiniMax completes export registration for open-source, overseas AI model licensing
   - [korea] Woori Financial Group : Earnings topped KRW 1 trillion as stronger fees and lower credit costs supported retur
   - [china] China issues guidelines to promote employment amid AI advances
-  - [china] The central bank launches 700 billion yuan 1-year MLF operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T03:32:43+00:00",
+      "published_utc": "2026-10-25T03:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
