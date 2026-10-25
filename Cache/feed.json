@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-25T14:32:43.021757+00:00",
- "collected_at_utc": "2026-10-25T14:32:43.021757+00:00",
+ "generated_at_utc": "2026-10-25T14:42:42.382773+00:00",
+ "collected_at_utc": "2026-10-25T14:42:42.382773+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 375,
   "korea": 782
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-25T13:56:21+00:00"
+   "newest": "2026-10-25T14:32:13+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-24T02:14:26+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-25T14:23:31+00:00"
+   "newest": "2026-10-25T14:31:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -2893,6 +2893,23 @@
   },
   {
    "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "Yen shines as AI jitters spur safe-haven rush By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVm16TFQ0eXhWUVpIcEV3VjJTME5NcmpnTnhvQWY1dlNaLVdIc1ZIQ0RsdS0wbGZTOWFqUFh3YVJ1TmRZNDBrWnUtX1BKVHdBMDBydGV0YlhLcFRYdGZoSkNtbDhQeVRJNUZhWUZmbmJxcG9SU0VPc3N1dHZsR1F2RnhObWphbXBTakdiRV83QUQzampzQUswbTVJOA?oc=5",
+   "published_utc": "2026-10-23T02:22:44+00:00",
+   "title_original": "Yen shines as AI jitters spur safe-haven rush By Reuters",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5e3cdf91f7127bb7"
+  },
+  {
+   "source_id": "gn_jp_investing",
    "source_name": "Investing.com",
    "title_en": "Euro set for weekly drop against dollar, yen as France concerns resurface By Reuters",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHlOUlhldm15UUtobGhtYXloSVowemtZQVg0dElWSk91c2ZsX0tjYXhQN0RLc1RNZEhScHBmcVlLOHBuY3Y4NDlMQkJKYUpFcG01aUlQaVAxc0RYVFN2Umc2RzFjRzRmZERsWU1nWjliMG5nbURtTGxRNVVQYWVzaENqLVc3RTRmd2ZHMThuZWQ4TnRSb2R3TmMxZ0Q?oc=5",
@@ -2941,23 +2958,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7ba0dd03d3f46118"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Yen shines as AI jitters spur safe-haven rush By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHlOUlhldm15UUtobGhtYXloSVowemtZQVg0dElWSk91c2ZsX0tjYXhQN0RLc1RNZEhScHBmcVlLOHBuY3Y4NDlMQkJKYUpFcG01aUlQaVAxc0RYVFN2Umc2RzFjRzRmZERsWU1nWjliMG5nbURtTGxRNVVQYWVzaENqLVc3RTRmd2ZHMThuZWQ4TnRSb2R3TmMxZ0Q?oc=5",
-   "published_utc": "2026-10-23T02:18:57+00:00",
-   "title_original": "Yen shines as AI jitters spur safe-haven rush By Reuters",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b69cc6af32d48def"
   },
   {
    "source_id": "gn_asia_bloomberg",
