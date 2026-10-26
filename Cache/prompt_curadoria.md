@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T11:32:45.047856+00:00
+Última coleta: 2026-10-26T11:42:42.728181+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          980
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [korea] SK hynix Price Target Cut to $250.00/Share From $300.00 by Cantor Fitzgerald
   - [china] Dosilicon Q3 Net Profit At 830.1 Million Yuan
   - [china] SPIC Industry Finance Q3 Net Profit At 903.3 Million Yuan
+  - [china] EU Plans to Hit China With More Import Curbs in Early 2027
   - [japan] Japan's largest machine tool trade show Introducing technologies using AI
   - [japan] Currencies idle ahead of five-bank gauntlet; euro gains on Moody’s reprieve
   - [china] China's central bank launches swap facility to offer emergency liquidity to asset managers
@@ -41,7 +42,6 @@ Total: 3000 manchetes
   - [china] XTC New Energy Materials Xiamen's Unit Plans To Invest 722.5 Million Yuan In Project
   - [korea] Korea's export front is on alert as the European Union (EU) raises trade barriers with carbon neutra..
   - [korea] Amid the strong won (the weak dollar), the investment strategy of an opportunity to buy dollar-denom..
-  - [china] EU Plans to Hit China With More Import Curbs in Early 2027
   - [korea] Shipbuilders’ earnings rise and fall with their ‘currency-hedging strategies’
   - [china] Shenzhen Envicool Technology: Strong revenue growth was offset by lower 9M earnings and shipment timing delays
   - [korea] Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T11:32:45+00:00",
+      "published_utc": "2026-10-26T11:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
