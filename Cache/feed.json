@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T19:12:43.934342+00:00",
- "collected_at_utc": "2026-10-26T19:12:43.934342+00:00",
+ "generated_at_utc": "2026-10-26T19:22:42.831864+00:00",
+ "collected_at_utc": "2026-10-26T19:22:42.831864+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 980,
-  "china": 851,
+  "china": 852,
   "taiwan": 376,
-  "korea": 793
+  "korea": 792
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T18:54:10+00:00"
+   "newest": "2026-10-26T13:55:37+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T18:55:09+00:00"
+   "newest": "2026-10-26T19:16:04+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:20:49+00:00"
+   "newest": "2026-10-26T04:43:18+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-26T18:56:18+00:00"
+   "newest": "2026-10-26T19:16:47+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T19:02:00+00:00"
+   "newest": "2026-10-26T19:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 196.86, Implies 36% Upside",
+   "url": "https://www.tradingview.com/news/tradingview:b970bc3c0dd80:0-wuxi-apptec-co-ltd-class-a-stock-12-month-price-target-raised-to-cny-196-86-implies-36-upside/",
+   "published_utc": "2026-10-26T19:20:00+00:00",
+   "title_original": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 196.86, Implies 36% Upside",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "57990c995ca71c0a"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1289,23 +1306,6 @@
    "id": "00efb2fc0d2216be"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Industrial Bank Of Korea Q3 Operating Profit 1 Trln Won, Up 5.6% From Year Earlier",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46A0I2:0-industrial-bank-of-korea-q3-operating-profit-1-trln-won-up-5-6-from-year-earlier/",
-   "published_utc": "2026-10-26T07:21:51+00:00",
-   "title_original": "Industrial Bank Of Korea Q3 Operating Profit 1 Trln Won, Up 5.6% From Year Earlier",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "405e1a545218c53b"
-  },
-  {
    "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "EXCLUSIVE: Vietnam's first chip plant unlikely to meet 2027 target, sources say no deal yet with ASML",
@@ -1736,9 +1736,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmdUams3cmxlNXc5TXEzSmpsam1JX3NtNGJWM0h4R05LWWhJeVBFYkxjZW9QS3Vkb2p4U0VUTFY1d1BRTkg4Q1FLanhyWXNmYXE0NGJZYTREVjlmajZURWJNWVdMbWtEdWpRODIyUnUzTjctTC1iNjJrcFJWSnRGTU16RGFCYUtSUTlN?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53amxBcmVuSFR3amxLQThXNVcwWnFRVl9IU2Z0QWVTWGRFLXpGTElFbHJUNEJwUGx0blMtYmw5SUd5XzFDS0lZaTM3UG10S2VHOXBKVkR0bi1RU1JMbHBNZTRB?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -1750,7 +1750,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dee37dbc8c1d6e98"
+   "id": "637fb07118250770"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1790,7 +1790,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 billion yuan of MLF expires.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14YnZJVThIRTl5M240ZE54VWVlVEh5ZTZob2hTdTE1c3ltUTdzdXA3MEZUUGd4eWo4SHRrbnRCZmJZOWxlRTdsbWFsc1RCNWk5VHBYV0hZNi1YelowbHpVQnh3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95Z19yZUlkamFRWjlmcjNXYVJmUXVhbWczbEsyS1lWVnlDYVdVZWt6N0FqaGUxQjlocWlwN3lZM1gtOXphQmNEdGJScWNGdw?oc=5",
    "published_utc": "2026-10-26T02:57:10+00:00",
    "title_original": "本周央行公开市场逆回购到期3380亿元 周二9000亿元MLF到期",
    "region": "china",
@@ -1802,7 +1802,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50b41cccc95aaa06"
+   "id": "e21ee44288074ab5"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1960,6 +1960,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d4a3aa3b3df6303c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2513,24 +2531,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -3671,6 +3671,24 @@
    "id": "c0606821eacd5484"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
+   "published_utc": "2026-10-23T12:38:12+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d3a519ddfcdc2da"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -3686,24 +3704,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
-   "published_utc": "2026-10-23T12:32:55+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -4087,24 +4087,6 @@
    "id": "b383780a675cef3c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "证券之星",
-   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrbTdtbkFORU0tZnpFeExiMG1uX3lEcW5hcmZ5aUFuN0dfSV9NTWhWRDdfb2ZHTmppbFlaX1pTczB0X0hLQzdrX1QwaFRBRkh4eThHWEozcVVyOVlkMWJucHEyVmw?oc=5",
-   "published_utc": "2026-10-23T09:48:09+00:00",
-   "title_original": "央行：10月26日将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bf3b1c2a262c515b"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China sells offshore yuan bonds in Hong Kong at record-low yields",
@@ -4297,6 +4279,24 @@
    "live_wire": false,
    "manual": false,
    "id": "77de976f71e72596"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "Central Bank: 700 billion yuan MLF operation will be carried out on October 26",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84VTMzdTBDNzVvNk9YTDBmV0pzUmRnUFJXYmk3bnNrZ2o0OU9JUDRjUFhSZXhoNUZBYmgtZWdEYWlkTE94QVFQTjI2eG1xLVl4U0lqSTdiUU02cnlYaE9UTGdRTmJmc3dnUFA5VDVjeUpTVDExLXZ2ZQ?oc=5",
+   "published_utc": "2026-10-23T09:15:45+00:00",
+   "title_original": "央行：10月26将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "37ab205c7f5915c5"
   },
   {
    "source_id": "tradingview_live",
@@ -19795,6 +19795,23 @@
    "id": "6a59efb360337ae1"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI server tracker: semiconductor testing and design services rally on compute demand",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDVvaDBTUUxqNkRxS3FjTVp1TVJXOXRoZVFoT3NkX3c1OUJBUU5rd1dja05uS05JZXZfbFNPZW9SeXNGM2lheFNDMVBKSzBiSnI0dlpaXzdhN1pob1lRcmk3NDJmck5qZS1yTGtFS2dOZVAteXFyNTFyN24wZ2FrT3d6ZWNJaHNmY0JoSEFHclZpRVc4dW1UVlJaZ2hvOEFoY3V4d250Q2VHUDRVN1Vqd2Vscw?oc=5",
+   "published_utc": "2026-10-16T07:52:03+00:00",
+   "title_original": "AI server tracker: semiconductor testing and design services rally on compute demand",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff4b94f11151b63d"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
    "title_en": "Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China",
@@ -20037,23 +20054,6 @@
    "live_wire": false,
    "manual": false,
    "id": "893c04f0fc4e799b"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AI server tracker: semiconductor testing and design services rally on compute demand",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDVvaDBTUUxqNkRxS3FjTVp1TVJXOXRoZVFoT3NkX3c1OUJBUU5rd1dja05uS05JZXZfbFNPZW9SeXNGM2lheFNDMVBKSzBiSnI0dlpaXzdhN1pob1lRcmk3NDJmck5qZS1yTGtFS2dOZVAteXFyNTFyN24wZ2FrT3d6ZWNJaHNmY0JoSEFHclZpRVc4dW1UVlJaZ2hvOEFoY3V4d250Q2VHUDRVN1Vqd2Vscw?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "AI server tracker: semiconductor testing and design services rally on compute demand",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff4b94f11151b63d"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -22972,23 +22972,6 @@
    "id": "8ffd1fbf9eb63777"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Fujifilm to expand Arizona semiconductor materials output",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUW9QeHp1QThMTGNJZXVHbGRabjFYUVFvUzBBQU92bkxKMDFwQWZncF9FdFNZLWVSVVZjYWpNQnF3aUNjbkxmdmt4TTNHZXZmUHNmRVc3b045N09WWnMyN0poWXl3dWR3eHduLUJpTFpLQkZacDJKcXMyQVJsX2Jma3hlOW5GZ0NNTkZNVUJiQjdSdlRldlowc0Y5SE0zZnBBREEtMA?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "Fujifilm to expand Arizona semiconductor materials output",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5f4fc9eccb384b11"
-  },
-  {
    "source_id": "gn_jp_nhkworld",
    "source_name": "NHKニュース",
    "title_en": "Policymaker: BOJ shouldn't be too cautious raising rates",
@@ -24449,6 +24432,23 @@
    "live_wire": false,
    "manual": false,
    "id": "acdf63eb116952b3"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Fujifilm to expand Arizona semiconductor materials output",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUW9QeHp1QThMTGNJZXVHbGRabjFYUVFvUzBBQU92bkxKMDFwQWZncF9FdFNZLWVSVVZjYWpNQnF3aUNjbkxmdmt4TTNHZXZmUHNmRVc3b045N09WWnMyN0poWXl3dWR3eHduLUJpTFpLQkZacDJKcXMyQVJsX2Jma3hlOW5GZ0NNTkZNVUJiQjdSdlRldlowc0Y5SE0zZnBBREEtMA?oc=5",
+   "published_utc": "2026-10-15T00:12:59+00:00",
+   "title_original": "Fujifilm to expand Arizona semiconductor materials output",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5f4fc9eccb384b11"
   },
   {
    "source_id": "gn_tw_digitimes",
