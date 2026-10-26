@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T06:51:16.952455+00:00
+Última coleta: 2026-10-26T06:52:44.118017+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          981
-  🇨🇳 China          856
+  🇨🇳 China          858
   🇹🇼 Taiwan         372
-  🇰🇷 Coreia do Sul  791
+  🇰🇷 Coreia do Sul  789
 
 ## O que já está no feed (não repita)
 
@@ -48,6 +48,7 @@ Total: 3000 manchetes
   - [taiwan] Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp
   - [china] This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 bi
   - [korea] SK Hynix Stock Rises: Korean Memory Giant Reportedly Weighs $12B Special Dividend From Kioxia Gains
+  - [china] On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.
   - [korea] A SK Hynix anunciará, nesta quarta-feira, medidas para aumentar o retorno aos acionistas
   - [korea] SK Hynix to announce steps to boost shareholder returns on Wednesday
   - [japan] Amazing Venture [39] Patentix/Next Generation Power Semiconductor with Energy Saving | Business | Toyo Keizai 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..
   - [korea] Major banks have increased their information protection budgets for next year significantly since th..
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation today
-  - [japan] Currency markets subdued ahead of pivotal central bank week
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T06:51:17+00:00",
+      "published_utc": "2026-10-26T06:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
