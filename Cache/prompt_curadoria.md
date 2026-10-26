@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T11:22:42.255795+00:00
+Última coleta: 2026-10-26T11:32:45.047856+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          980
-  🇨🇳 China          852
+  🇨🇳 China          853
   🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  794
+  🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [china] Zhejiang Jiemei Electronic and Technology Plans To Invest 2.7 Billion Yuan In Project
+  - [korea] SK hynix Inc. expected to post earnings of $6.00 a share - Earnings Preview
   - [korea] SK hynix Price Target Cut to $250.00/Share From $300.00 by Cantor Fitzgerald
   - [china] Dosilicon Q3 Net Profit At 830.1 Million Yuan
   - [china] SPIC Industry Finance Q3 Net Profit At 903.3 Million Yuan
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] The misunderstanding of “Japan’s fiscal deterioration theory” and the paradoxical structure of Japan-US policy
   - [korea] It was found that the top 1% of stock investment returns also bought SK Hynix and Samsung Electronic..
   - [japan] Shin-Etsu Polymer Co Ltd - To Buy Back Up To 0.56% Of Own Shares Worth 1.25 Billion Yen
-  - [korea] Inside Henkel's Korean factory making adhesives for AI chips
-  - [korea] Samsung may have overtaken SK hynix in HBM revenue, analysis suggests
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T11:22:42+00:00",
+      "published_utc": "2026-10-26T11:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
