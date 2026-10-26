@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T00:32:42.560851+00:00
+Última coleta: 2026-10-26T00:42:42.400529+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          985
-  🇨🇳 China          854
+  🇨🇳 China          853
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  786
+  🇰🇷 Coreia do Sul  787
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix is said to plan $12B special dividend from Kioxia investment
+  - [china] Meituan mandates banks for offshore yuan bond sale to refinance debt
   - [japan] BOJ Tipped to Hold Rates Despite High Inflation — Market Talk
   - [korea] SK hynix weighs $12.1 billion special dividend, newspaper says
   - [china] The central bank launched a 700 billion yuan medium-term lending facility operation today
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] "A garden city before Denenchofu" and "favored by the elites of the Taisho era"...The background of the "hidde
   - [japan] Will the October FOMC leave interest rates unchanged? Focus
   - [japan] Chairman of the ruling and opposition party committees discuss consumption tax reduction bill NHK Sunday debat
-  - [korea] SK Hynix, a Korean semiconductor company that has transformed from the verge of selling itself, ignites demand
-  - [korea] S. Korea's Q2 current account surplus ranks 2nd on robust chip exports
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T00:32:42+00:00",
+      "published_utc": "2026-10-26T00:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
