@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T06:22:42.234537+00:00
+Última coleta: 2026-10-26T06:32:43.584778+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          981
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Shin-Etsu Polymer Co Ltd - To Buy Back Up To 0.56% Of Own Shares Worth 1.25 Billion Yen
   - [korea] Inside Henkel's Korean factory making adhesives for AI chips
   - [korea] Samsung may have overtaken SK hynix in HBM revenue, analysis suggests
   - [china] Beyond exports: China's automakers dig deeper into Europe
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Major banks have increased their information protection budgets for next year significantly since th..
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation today
   - [japan] Currency markets subdued ahead of pivotal central bank week
-  - [japan] Japan bond yields edge higher before key central bank meets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T06:22:42+00:00",
+      "published_utc": "2026-10-26T06:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
