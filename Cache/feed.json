@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T23:22:44.736040+00:00",
- "collected_at_utc": "2026-10-26T23:22:44.736040+00:00",
+ "generated_at_utc": "2026-10-26T23:32:42.419343+00:00",
+ "collected_at_utc": "2026-10-26T23:32:42.419343+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 984,
-  "china": 848,
+  "china": 847,
   "taiwan": 375,
-  "korea": 793
+  "korea": 794
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:44:19+00:00"
+   "newest": "2026-10-25T00:43:37+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T23:01:20+00:00"
+   "newest": "2026-10-26T23:18:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T23:06:17+00:00"
+   "newest": "2026-10-26T23:25:00+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T23:21:49+00:00"
+   "newest": "2026-10-26T23:32:15+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T19:28:42+00:00"
+   "newest": "2026-10-26T16:29:29+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T21:24:50+00:00"
+   "newest": "2026-10-26T12:18:17+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T21:00:08+00:00"
+   "newest": "2026-10-26T23:20:33+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T21:39:28+00:00"
+   "newest": "2026-10-26T23:02:40+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,29 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-26T12:19:40+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(LEAD) S. Korea's GDP expands 1 pct in Q3 on strong exports, investment: BOK",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIQUxxcFc1em5teWhWUGlVcEZQNVhrc3Z6bTNIZlFTd01UMWFVZWR2dEJBaGJCQ3NReHBacnhGTnk5Q3BOUllHS0RoNzc0RElsb0FxYTdmYlJxQQ?oc=5",
+   "published_utc": "2026-10-26T23:20:33+00:00",
+   "title_original": "(LEAD) S. Korea's GDP expands 1 pct in Q3 on strong exports, investment: BOK",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fae2a8d66644c3a5"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
@@ -361,6 +380,23 @@
    "id": "dddb19f48cd6f65b"
   },
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Analysis-China’s lab-grown diamond makers target AI, chip sectors for next wave of growth",
+   "url": "https://www.investing.com/news/stock-market-news/analysischinas-labgrown-diamond-makers-target-ai-chip-sectors-for-next-wave-of-growth-4973927",
+   "published_utc": "2026-10-26T23:06:05+00:00",
+   "title_original": "Analysis-China’s lab-grown diamond makers target AI, chip sectors for next wave of growth",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "25b7b8d65dc9eac2"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "South Korea's economy grows 1.0% in 3rd quarter on chip boom",
@@ -376,23 +412,6 @@
    "live_wire": false,
    "manual": false,
    "id": "adb975d418844876"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's lab-grown diamond makers target AI, chip sectors for next wave of growth",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45807I:0-china-s-lab-grown-diamond-makers-target-ai-chip-sectors-for-next-wave-of-growth/",
-   "published_utc": "2026-10-26T23:00:00+00:00",
-   "title_original": "China's lab-grown diamond makers target AI, chip sectors for next wave of growth",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "da09f8845df91dce"
   },
   {
    "source_id": "tradingview_live",
@@ -427,6 +446,23 @@
    "live_wire": true,
    "manual": false,
    "id": "3bcde079de40ac48"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Samsung Electronics and SK Hynix, which are set to announce their earnings this week, are expected t..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmbE8yTnoydTgzeVpRRER3Wk5nU3RFZ05iVHlGSEozUUdRb3lJZnpkU3phYlgwb2hwNzU1UE42OW5fa2F1UzJHUWRVaEstbW8?oc=5",
+   "published_utc": "2026-10-26T21:54:09+00:00",
+   "title_original": "Samsung Electronics and SK Hynix, which are set to announce their earnings this week, are expected t..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "137a31a244c6ce80"
   },
   {
    "source_id": "tradingview_live",
@@ -2118,6 +2154,23 @@
    "live_wire": false,
    "manual": false,
    "id": "26cbdb1b7286371e"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93SW1kSTJ0XzB5Ml9ELVloZ0I5Z2tnNC1uRF9KUVRib3lnNHBFYjI0ZUY0dkZDSENQa2JsYTN6VGs4amFiUG9qeFBjczdxZnFxYmVXNURiNnN3b210cDV6X2xqdlJ3b1dRUHBDbzdvVnhyeF9WenplYzZTQ2tyOHM?oc=5",
+   "published_utc": "2026-10-26T01:39:15+00:00",
+   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "909577cb78ba9d43"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4750,23 +4803,6 @@
    "id": "3ac990465bc04646"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXZTbzVEaXY2d3l5bk5vb0xkVm5aZkl0Z25nLWtiTWpuUmgtR05ZYTB5V1BlbWcxMmRCS01yN0FfXzJXT2lJLXhucE9hZzBuWURzcklaMF81bzNGRU95TVNYbzdiRXhEcURrR2JBYU9yOENjVDU0RlVBbzJRUlBhZWdTaXZfQnI4?oc=5",
-   "published_utc": "2026-10-23T07:00:00+00:00",
-   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "eda4db23a9b07274"
-  },
-  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Taiwan manufacturers' business sentiment hits 54-month high",
@@ -5272,8 +5308,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -5287,7 +5323,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5358,8 +5394,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -5372,7 +5408,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -13088,7 +13124,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺财经",
+   "source_name": "同花顺",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1bUlWbk81QVNIdjBWdl9xLWR5Z3dpcng2TG9DTjZRRFlBanZvSmh1NnF4RllUZ2FWZEU1OFRkdlRfQ0g1OGtNX0laQ3JaU1NGYXF3eWFjOXBBZlliYVE?oc=5",
    "published_utc": "2026-10-20T05:21:26+00:00",
@@ -51876,41 +51912,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e305e26fdfd1fbd8"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank takes action! 1.2 trillion buyout reverse repurchase is coming | People's Bank of China | Bonds | Interest rates | Wang Qing | 3 months",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90S0ZzZnVONmxfdUhHYnhRcldTMDZOYkpTVkx6SGQ0RlpoZngyUG1pM1hrTngyQ2pLaVdReTFQVDZJSm1YRURBOHNpcFJBUHFtcHFZWnRWM1ZONV83dXJkdzZsMXc2R2laNF9SazBNbzFtLXFFYlMwbQ?oc=5",
-   "published_utc": "2026-09-30T07:00:00+00:00",
-   "title_original": "央行出手！12000亿买断式逆回购来了|中国人民银行|债券|利率|王青|3个月",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6cb0b13831ce3d7"
-  },
-  {
-   "source_id": "gn_kr_reuters",
-   "source_name": "Reuters",
-   "title_en": "South Korea's monthly exports top $120 billion for the first time on record chip sales",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnJyM2ZNTm1lLU0yWWdRY3VFSDFYdEZHV29NSzR4LVl3RUhpLXk2b0UtVExfM0VUYlBKbGVKWF80NVpONGdrcTNySU5IZDEwMjdHWWtkNUR6ZnRoMlNqWVFNRXM2RUtZZTRaTFQwVVVLMm9oWUpTcEd5YW4tUUFNMGpucVpnUU1oY29Lak9oMnBrSHp5V1REQ1F4OWpUaTdfNGRsb1AtUTNDZUo5cHNOMg?oc=5",
-   "published_utc": "2026-09-30T07:00:00+00:00",
-   "title_original": "South Korea's monthly exports top $120 billion for the first time on record chip sales",
-   "region": "korea",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "70411000e629aa83"
   },
   {
    "source_id": "manual_ia",
