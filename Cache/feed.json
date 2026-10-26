@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-26T13:43:01.386587+00:00",
- "collected_at_utc": "2026-10-26T13:43:01.386587+00:00",
+ "generated_at_utc": "2026-10-26T13:53:06.432100+00:00",
+ "collected_at_utc": "2026-10-26T13:53:06.432100+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 38,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,8 +11,16 @@
   "taiwan": 373,
   "korea": 793
  },
- "elapsed_s": 45.8,
+ "elapsed_s": 52.7,
  "sources": [
+  {
+   "source_id": "investing_live",
+   "name": "Investing (ao vivo)",
+   "ok": false,
+   "count": 0,
+   "error": "403 ou layout mudou",
+   "newest": ""
+  },
   {
    "source_id": "investing_econ",
    "name": "Investing Economy",
@@ -86,14 +94,6 @@
    "newest": "2026-10-26T19:54:39+08:00"
   },
   {
-   "source_id": "investing_live",
-   "name": "Investing (ao vivo)",
-   "ok": true,
-   "count": 10,
-   "error": "",
-   "newest": "2026-10-26T11:58:54+00:00"
-  },
-  {
    "source_id": "gn_jp_investing",
    "name": "Investing Japan",
    "ok": true,
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T21:47:49+09:00"
+   "newest": "2026-10-26T22:50:17+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T13:41:00+00:00"
+   "newest": "2026-10-26T13:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -1582,7 +1582,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53amxBcmVuSFR3amxLQThXNVcwWnFRVl9IU2Z0QWVTWGRFLXpGTElFbHJUNEJwUGx0blMtYmw5SUd5XzFDS0lZaTM3UG10S2VHOXBKVkR0bi1RU1JMbHBNZTRB?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -1594,7 +1594,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "637fb07118250770"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -25110,23 +25110,6 @@
    "id": "6f4598c244355d82"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0tDR2tWdzFlcUZCRHJUYU4ySVl5OXE5aTZCV09pM1Q2OXM2NXB3UU1INUtHdExQRV9RTlEtU2NFZUtST1d0bUQzXzZLNW8wS1RjQjZTZ044WEhWVDAwbjllaFFodU9EbjNpeTlERTZ1NThLb21RMkhhWjQtRUFsNzN6RWMzLUhTMmRFczVtLXRPYzRPVVQ5Z3RPV0NVVVRWeURXdTFuYmlBdk1JYlVtTE9uZw?oc=5",
-   "published_utc": "2026-10-14T13:33:34+00:00",
-   "title_original": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "721a8861261fd171"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "济南新闻",
    "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation - News",
@@ -26386,6 +26369,23 @@
    "live_wire": false,
    "manual": false,
    "id": "172e77c048cae483"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0tDR2tWdzFlcUZCRHJUYU4ySVl5OXE5aTZCV09pM1Q2OXM2NXB3UU1INUtHdExQRV9RTlEtU2NFZUtST1d0bUQzXzZLNW8wS1RjQjZTZ044WEhWVDAwbjllaFFodU9EbjNpeTlERTZ1NThLb21RMkhhWjQtRUFsNzN6RWMzLUhTMmRFczVtLXRPYzRPVVQ5Z3RPV0NVVVRWeURXdTFuYmlBdk1JYlVtTE9uZw?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "title_original": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "721a8861261fd171"
   },
   {
    "source_id": "gn_jp_nhkworld",
