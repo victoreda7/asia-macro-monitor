@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T14:33:01.513641+00:00
+Última coleta: 2026-10-26T14:42:43.977055+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          981
+  🇯🇵 Japão          980
   🇨🇳 China          853
-  🇹🇼 Taiwan         373
+  🇹🇼 Taiwan         374
   🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [china] EU Plans to Hit China With More Import Curbs in Early 2027
   - [korea] Micron, SanDisk and SK Hynix Stocks Climb as AI Memory Demand Takes Center Stage
+  - [taiwan] Goldman Sachs has revised up its forecast for Taiwan’s GDP growth this year to 11.7% and expects to start an i
   - [taiwan] Goldman Sachs revise up Taiwan's GDP growth forecast for this year and next, predicting the start of an intere
   - [china] China plans to strengthen the protection of trade secrets and ban foreign investment in the import and export 
   - [china] On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.
@@ -28,7 +30,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Price Target Cut to $250.00/Share From $300.00 by Cantor Fitzgerald
   - [china] Dosilicon Q3 Net Profit At 830.1 Million Yuan
   - [china] SPIC Industry Finance Q3 Net Profit At 903.3 Million Yuan
-  - [china] EU Plans to Hit China With More Import Curbs in Early 2027
   - [japan] Japan's largest machine tool trade show Introducing technologies using AI
   - [japan] Currencies idle ahead of five-bank gauntlet; euro gains on Moody’s reprieve
   - [china] China's central bank launches swap facility to offer emergency liquidity to asset managers
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..
   - [korea] Kukdo Chemical Co To Buy Lg Chem's Bpa Manufacturing Facility And Business Unit For 78.4 Billion Won
   - [taiwan] Taiwan Retail Sales Hit Over 2-Year High
-  - [korea] Industrial Bank Of Korea Earnings Up In Q3
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T14:33:01+00:00",
+      "published_utc": "2026-10-26T14:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
