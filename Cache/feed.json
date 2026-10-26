@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T07:12:44.419587+00:00",
- "collected_at_utc": "2026-10-26T07:12:44.419587+00:00",
+ "generated_at_utc": "2026-10-26T07:22:43.824608+00:00",
+ "collected_at_utc": "2026-10-26T07:22:43.824608+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 980,
+  "japan": 979,
   "china": 859,
   "taiwan": 372,
-  "korea": 789
+  "korea": 790
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T04:07:00+00:00"
+   "newest": "2026-10-26T03:21:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T05:01:01+00:00"
+   "newest": "2026-10-26T05:30:24+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T06:54:53+00:00"
+   "newest": "2026-10-26T07:15:15+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T07:11:00+00:00"
+   "newest": "2026-10-26T07:21:53+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T06:16:22+00:00"
+   "newest": "2026-10-26T07:11:23+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Industrial Bank Of Korea Q3 Operating Profit 1 Trln Won, Up 5.6% From Year Earlier",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46A0I2:0-industrial-bank-of-korea-q3-operating-profit-1-trln-won-up-5-6-from-year-earlier/",
+   "published_utc": "2026-10-26T07:21:51+00:00",
+   "title_original": "Industrial Bank Of Korea Q3 Operating Profit 1 Trln Won, Up 5.6% From Year Earlier",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "405e1a545218c53b"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -7106,7 +7123,7 @@
    "id": "3cf9b35dd6ff65d3"
   },
   {
-   "source_id": "gn_jp_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Breakingviews - COMMENTARY: Japan's strong-armed $21 bln chip bet is low risk",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFBYZ1dqLXJ5X3BsNjR4dFlsY2VrX0VPN1AxZ0VEaE96UlhKSjVOUEtFa2NWUGEyN0VDRnNfODdhaFdJdjl5LUctbDkwaWNPRWJwRldrU0h4d3dXOTZEaVpqcjI1QW5YSldxVllQc2Mxc25kLUlOclFaWXY5S2hNVUdYY0Z6ekhHUnItWjFudlpmLUxQOGc3SzJ4N0lFb0VFdlVVV1JCY2Y5dy1Q?oc=5",
@@ -7120,7 +7137,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ee5be7be07b30af5"
+   "id": "12df48a92ffb874e"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51895,23 +51912,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9bff7e31709789be"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Industrial production index for August was 1.7% lower than the previous month",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260930de53257",
-   "published_utc": "2026-09-30T01:01:00+00:00",
-   "title_original": "8月の鉱工業生産指数 前月を1.7％下回る",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5518687e78379ffa"
   },
   {
    "source_id": "manual_ia",
