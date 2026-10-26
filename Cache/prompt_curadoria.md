@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T23:32:42.419343+00:00
+Última coleta: 2026-10-26T23:41:29.547917+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          984
@@ -44,6 +44,7 @@ Total: 3000 manchetes
   - [japan] Preview: Forecasters See Tokyo CPI Staying Well above BOJ’s 2% Target in October
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 195.93, Implies 35% Upside
   - [japan] Dollar rebounds as euro slips ahead of key central bank decisions
+  - [china] Properties Pass Down China’s Construction Supply Chain in a ‘Debt Relay’
   - [taiwan] Anthropic Highlights Disruptions to TSMC Operations as a Risk
   - [japan] Japan to back perovskite solar cell mass production with $640m in subsidies
   - [china] Shanghai Iluvatar Corex Semiconductor Granted Aggregate Banking Facilities Of Over Rmb12 Billion, As At Oct 26
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Euro firms against yen, flat vs dollar ahead of central bank meetings
   - [china] China XLX Fertiliser nine-month profit rises on export growth
   - [china] Zhejiang Jiemei Electronic and Technology Plans To Invest 2.7 Billion Yuan In Project
-  - [korea] SK hynix Inc. expected to post earnings of $6.00 a share - Earnings Preview
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T23:32:42+00:00",
+      "published_utc": "2026-10-26T23:41:29+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
