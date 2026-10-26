@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T21:02:44.557615+00:00
+Última coleta: 2026-10-26T21:12:46.052914+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          980
-  🇨🇳 China          853
+  🇯🇵 Japão          981
+  🇨🇳 China          852
   🇹🇼 Taiwan         376
   🇰🇷 Coreia do Sul  791
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung's Exynos 2700 outperforms Qualcomm's flagship chip by nearly 20 pc
+  - [china] Chinese automakers expand manufacturing in Europe to avoid EU tariffs amid rising domestic competition: Report
   - [japan] [France at a dead end] If spending is suppressed, the people will protest, and if the financial situation wors
   - [china] MBRF meatpacking plant in Promissão has exports suspended by China
   - [china] China halts beef imports from MBRF plant in Brazil
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Euro firms against dollar, yen ahead of central bank meetings
   - [korea] Vt Co Ltd To Acquire Real Estate Worth 79 Billion Won
   - [china] Beijing Wantai Biological Pharmacy Q3 Net Loss At 102.5 Million Yuan
-  - [china] Asian stocks closed with mixed trends as the market awaits technology industry earnings reports and central ba
-  - [china] China's central bank sets up non-bank financial institution bond market swap facility
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T21:02:44+00:00",
+      "published_utc": "2026-10-26T21:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
