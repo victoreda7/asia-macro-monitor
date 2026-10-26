@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T18:52:45.543443+00:00
+Última coleta: 2026-10-26T19:02:55.633049+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          981
-  🇨🇳 China          850
+  🇯🇵 Japão          980
+  🇨🇳 China          851
   🇹🇼 Taiwan         376
   🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan life insurers eye purchases of higher-yielding JGBs
+  - [china] MBRF meatpacking plant in Promissão has exports suspended by China, says CNN
   - [china] China halts beef imports from MBRF plant in Brazil, CNN reports
   - [korea] Samsung Life lança emissão de títulos de US$ 1,5 bilhão, segundo mostra a ficha de termos
   - [korea] SK Hynix Q3 earnings on deck: What to expect
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea warned that if U.S. big tech companies' investment in artificial intelligence (AI)..
   - [korea] Due to the boom in artificial intelligence (AI) semiconductors, the Korean economy's external report..
   - [korea] The difference in housing prices owned by the top 20% of Korea's national assets and the bottom 20%
-  - [korea] AI chip surge lifts South Korea to record surplus, behind only China
-  - [korea] Director Choi Chang-ho appointed as Bank of Korea's new Assistant Vice President for Monetary Policy and Marke
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T18:52:45+00:00",
+      "published_utc": "2026-10-26T19:02:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
