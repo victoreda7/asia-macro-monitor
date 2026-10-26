@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T08:42:42.321196+00:00
+Última coleta: 2026-10-26T08:52:45.702499+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          977
-  🇨🇳 China          856
-  🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  793
+  🇨🇳 China          854
+  🇹🇼 Taiwan         373
+  🇰🇷 Coreia do Sul  796
 
 ## O que já está no feed (não repita)
 
+  - [korea] Industrial Bank of Korea: SME growth and higher interest income offset rising credit costs and weaker subsidia
+  - [korea] Due to the boom in artificial intelligence (AI) semiconductors, the Korean economy's external report..
   - [china] XTC New Energy Materials Xiamen's Unit Plans To Invest 722.5 Million Yuan In Project
+  - [korea] Korea's export front is on alert as the European Union (EU) raises trade barriers with carbon neutra..
   - [korea] Shipbuilders’ earnings rise and fall with their ‘currency-hedging strategies’
   - [china] Shenzhen Envicool Technology: Strong revenue growth was offset by lower 9M earnings and shipment timing delays
   - [korea] Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan’s hawkish pause to leave scope for December hike
   - [china] China’s yuan climbs to fresh 4-year high ahead of key policy meetings
   - [taiwan] New Taiwan Dollar Likely to Rebound After Recent Slump — Market Talk
-  - [korea] South Korea 3Q GDP Growth Likely Accelerated Sequentially, Poll Shows — Market Talk
-  - [japan] Yen Holds Steady Ahead of BOJ Policy Meeting
-  - [korea] Banks expected to maintain tight lending standards in Q4: BOK survey
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T08:42:42+00:00",
+      "published_utc": "2026-10-26T08:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
