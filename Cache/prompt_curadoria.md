@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T12:52:48.474545+00:00
+Última coleta: 2026-10-26T13:09:59.585501+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          982
-  🇨🇳 China          852
+  🇯🇵 Japão          981
+  🇨🇳 China          853
   🇹🇼 Taiwan         373
   🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [korea] Micron, SanDisk and SK Hynix Stocks Climb as AI Memory Demand Takes Center Stage
+  - [taiwan] Goldman Sachs revise up Taiwan's GDP growth forecast for this year and next, predicting the start of an intere
+  - [china] China plans to strengthen the protection of trade secrets and ban foreign investment in the import and export 
   - [china] On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.
   - [japan] Euro firms against yen, flat vs dollar ahead of central bank meetings
   - [china] China XLX Fertiliser nine-month profit rises on export growth
@@ -42,6 +45,7 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea warned that if U.S. big tech companies' investment in artificial intelligence (AI)..
   - [korea] Due to the boom in artificial intelligence (AI) semiconductors, the Korean economy's external report..
   - [korea] The difference in housing prices owned by the top 20% of Korea's national assets and the bottom 20%
+  - [korea] AI chip surge lifts South Korea to record surplus, behind only China
   - [korea] Director Choi Chang-ho appointed as Bank of Korea's new Assistant Vice President for Monetary Policy and Marke
   - [china] XTC New Energy Materials Xiamen's Unit Plans To Invest 722.5 Million Yuan In Project
   - [korea] Korea's export front is on alert as the European Union (EU) raises trade barriers with carbon neutra..
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Retail Sales Hit Over 2-Year High
   - [korea] Industrial Bank Of Korea Earnings Up In Q3
   - [japan] Sumitomo Life to remain cautious on JGB yields, keep investment pace unchanged from H1
-  - [china] Why Xi Is Using China’s Fifth Plenum to Tighten Party Control
-  - [korea] Industrial Bank Of Korea Q3 Operating Profit 1 Trln Won, Up 5.6% From Year Earlier
-  - [taiwan] Survey: Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International
-  - [taiwan] Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T12:52:48+00:00",
+      "published_utc": "2026-10-26T13:09:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

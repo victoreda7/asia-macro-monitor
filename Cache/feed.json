@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T12:52:48.474545+00:00",
- "collected_at_utc": "2026-10-26T12:52:48.474545+00:00",
+ "generated_at_utc": "2026-10-26T13:09:59.585501+00:00",
+ "collected_at_utc": "2026-10-26T13:09:59.585501+00:00",
  "degraded": false,
  "sources_ok": 38,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 982,
-  "china": 852,
+  "japan": 981,
+  "china": 853,
   "taiwan": 373,
   "korea": 793
  },
- "elapsed_s": 33.3,
+ "elapsed_s": 93.0,
  "sources": [
   {
    "source_id": "investing_live",
@@ -26,7 +26,7 @@
    "name": "Investing Economy",
    "ok": false,
    "count": 0,
-   "error": "HTTP 502",
+   "error": "The read operation timed out",
    "newest": ""
   },
   {
@@ -34,7 +34,7 @@
    "name": "Investing Forex",
    "ok": false,
    "count": 0,
-   "error": "HTTP 502",
+   "error": "The read operation timed out",
    "newest": ""
   },
   {
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-26T12:48:25+00:00"
+   "newest": "2026-10-26T13:02:50+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:28:14+00:00"
+   "newest": "2026-10-26T08:39:38+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T12:52:05+00:00"
+   "newest": "2026-10-26T13:08:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T07:27:00+00:00"
+   "newest": "2026-10-26T10:26:24+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T10:48:45+00:00"
+   "newest": "2026-10-26T10:53:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-26T06:19:43+00:00"
+   "newest": "2026-10-26T13:03:11+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T03:00:30+00:00"
+   "newest": "2026-10-25T06:23:49+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T09:04:00+00:00"
+   "newest": "2026-10-26T12:52:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,59 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "Micron, SanDisk and SK Hynix Stocks Climb as AI Memory Demand Takes Center Stage",
+   "url": "https://www.tradingview.com/news/gurufocus:3c74d4770094b:0-micron-sandisk-and-sk-hynix-stocks-climb-as-ai-memory-demand-takes-center-stage/",
+   "published_utc": "2026-10-26T13:01:44+00:00",
+   "title_original": "Micron, SanDisk and SK Hynix Stocks Climb as AI Memory Demand Takes Center Stage",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "406e280cfee6dd4f"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Goldman Sachs revise up Taiwan's GDP growth forecast for this year and next, predicting the start of an interest rate hike cycle in December | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RZ3QxWkpGVVFQSGJzcDVzS3NObDlweWF5Zks0OTd6dnMxTm5IQXlKeTF5eFNzanlKQnVMOFVFd3ZxQlItOGJscjl5cG81aFcxV1ZQcUJOclg3RnRGa2c?oc=5",
+   "published_utc": "2026-10-26T12:52:00+00:00",
+   "title_original": "高盛上修台灣今明年GDP成長預測估12月啟動升息週期| 產經",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d79f84dd0e43e2d4"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "China plans to strengthen the protection of trade secrets and ban foreign investment in the import and export of technology | Cross-Strait",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90ZDhILWZSbTFrWnNpeWlDMnpJR0VMOVlzdHdsZUZnVmhHanBTbEV0WUVHMnFmVzg5eW1tRFp2WnpsNU15cUJFZ3BRRE9oUFhyemtwQ1d4VElIcFNtTFE?oc=5",
+   "published_utc": "2026-10-26T12:46:00+00:00",
+   "title_original": "中國擬加強保護商業秘密可禁外資進出口技術| 兩岸",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e8bbb531f78add81"
+  },
   {
    "source_id": "gn_cn_pboc",
    "source_name": "新浪财经",
@@ -771,6 +824,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8b553ec077aa9e91"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "AI chip surge lifts South Korea to record surplus, behind only China",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHcwaG1RQ0RTNzdYc0d6LVpQamYwRzh3ZDRVWC1EcG52cXBhRnZwRGhDSGVXeWVzVDkxbEhLRWRBV3plMUt3R0xFWGtCdkdSelI2MDRhSkU1WXhyamVGSTU2cEJlNTRJajNadmlsZ3htSTFhbjNJcVpPelBaUmpvLTZNY205aWR4SXBCaS12cTNhUTh2ckRLZHdRYjJJZm1OOGhPVTRySk1hRHplUjZwcGFkMGlUSnFkbElieW9B0gG-AUFVX3lxTFA4T2FCM0JIeVFnZlZBd3lKV0JUY1A3SERUajdTeTZvZGJ4cEVVSzJIVzBHNEptWEtRcF9LU21oOWJieTJqSG91TkctTXo1MG5mUHg5UTFycG40dWVkS1ZPcER3WURxQlZTQk4wY3ZzcDhsOW9EMVE4Zy0wZ1F5bEZ2dmZaU1dNQVlaaTY1YnhCTGsxanJnV0oyMUlsVVhiaFJxRkFvQUVhTHpTbzZwVUpmSlFRbWJFV3hlei1RblE?oc=5",
+   "published_utc": "2026-10-26T08:39:38+00:00",
+   "title_original": "AI chip surge lifts South Korea to record surplus, behind only China",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4b2ff2daa99b47c6"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1492,23 +1562,6 @@
    "id": "ab7f2e147df81735"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "New Taiwan Dollar Likely to Rebound After Recent Slump — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261025000931:0-new-taiwan-dollar-likely-to-rebound-after-recent-slump-market-talk/",
-   "published_utc": "2026-10-26T03:21:00+00:00",
-   "title_original": "New Taiwan Dollar Likely to Rebound After Recent Slump — Market Talk",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "474b4f28fd5cc509"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks expected to maintain tight lending standards in Q4: BOK survey",
@@ -1529,7 +1582,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53amxBcmVuSFR3amxLQThXNVcwWnFRVl9IU2Z0QWVTWGRFLXpGTElFbHJUNEJwUGx0blMtYmw5SUd5XzFDS0lZaTM3UG10S2VHOXBKVkR0bi1RU1JMbHBNZTRB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -1541,7 +1594,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "637fb07118250770"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51854,58 +51907,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0aa2cdcb498bfab6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스웍스",
-   "title_en": "Bank mortgage interest rate in August was 4.66%... Highest in 3 years and 9 months",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11eElISS0wTnprV1hLYmptd19USHhONnNNdHhPdnpyMmxodmlrSExXMlpmNUkyMldIVzVYdDJUREF5MjFNSE1OanI3WWhQVVN1VVRwUzMxUkhPeWdkVXdKVXdSWngtN0kycWlRamlPeXBoQVHSAXNBVV95cUxNdXhJSEktME56a1dYS2JqbXdfVEh4TjZzTXR4T3Z6cjJsaHZpa0hMVzJaZjVJMjJXSFc1WHQyVERBeTIxTUhNTmpyN1loUFVTdVVUcFMzMVJIT3lnZFV3SlV3Ulp4LTdJMnFpUWppT3lwaEFR?oc=5",
-   "published_utc": "2026-09-30T04:28:43+00:00",
-   "title_original": "8월 은행 주담대 금리 4.66%…3년 9개월 만에 최고",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "property"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7ac6c82d808e8b1"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYXlMTGlZNGp2b1VacnJiTldZMXdtLWVUaXVIQncwMkxFeDZ1N3lKQURqcTlNZWtranVHeHFaWGJZUDNHelFfR3RWX0QxOThWMzFWNW5WTzBfNFVVQWZUaW1lUThvMFlmVWlNV3JicEhtbmFxQnRZWHNoWWxraUhrejFXc2hLTjI2U0hkNGRFNTZ4VmRPSVk5blpkbXFVQXNmNVVNS05weU5TZEstd0VhRll2SFJRUjVFWUlIY1pCOTc?oc=5",
-   "published_utc": "2026-09-30T04:15:17+00:00",
-   "title_original": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c1b882e010d921c1"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "미디어펜",
-   "title_en": "Bank term deposit interest rate exceeds 4% in “only 2 years and 3 months”",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xc1RoVzFWcFZscDJJZHF5d0g1QkdsVER1dElBNERWV2dGQmVEVVdnR1pkbG04dHA3QUgzTGdHaVpKd2I4TjlpQXNSWWpONXZJUkZkVdIBWEFVX3lxTE1VWjc0S0ljczhZUmZQOUJCQmEwRHN5aEtyRzBEU2hTa3RRTkUwdUd0NDVyaGRMcTF1a0FDS2c4VGpDbWRNWDZhZ1lidUVZOWRXUVVUT3c3MWs?oc=5",
-   "published_utc": "2026-09-30T03:59:26+00:00",
-   "title_original": "\"2년 3개월만\" 은행권 정기예금 금리 4% 돌파",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0105aab435871ecd"
   },
   {
    "source_id": "manual_ia",
