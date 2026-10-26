@@ -7,22 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T14:52:43.816716+00:00
+Última coleta: 2026-10-26T15:02:45.590107+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          980
-  🇨🇳 China          853
+  🇨🇳 China          854
   🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  793
+  🇰🇷 Coreia do Sul  792
 
 ## O que já está no feed (não repita)
 
+  - [china] Shanghai Iluvatar Corex Semiconductor Granted Aggregate Banking Facilities Of Over Rmb12 Billion, As At Oct 26
   - [china] EU Plans to Hit China With More Import Curbs in Early 2027
   - [korea] Micron, SanDisk and SK Hynix Stocks Climb as AI Memory Demand Takes Center Stage
   - [taiwan] Goldman Sachs has revised up its forecast for Taiwan’s GDP growth this year to 11.7% and expects to start an i
   - [taiwan] Goldman Sachs revise up Taiwan's GDP growth forecast for this year and next, predicting the start of an intere
   - [china] China plans to strengthen the protection of trade secrets and ban foreign investment in the import and export 
-  - [china] On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.
   - [japan] Euro firms against yen, flat vs dollar ahead of central bank meetings
   - [china] China XLX Fertiliser nine-month profit rises on export growth
   - [china] Zhejiang Jiemei Electronic and Technology Plans To Invest 2.7 Billion Yuan In Project
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T14:52:44+00:00",
+      "published_utc": "2026-10-26T15:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
