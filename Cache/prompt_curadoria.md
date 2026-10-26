@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T08:32:43.167838+00:00
+Última coleta: 2026-10-26T08:42:42.321196+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          978
-  🇨🇳 China          855
+  🇯🇵 Japão          977
+  🇨🇳 China          856
   🇹🇼 Taiwan         374
   🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [china] XTC New Energy Materials Xiamen's Unit Plans To Invest 722.5 Million Yuan In Project
   - [korea] Shipbuilders’ earnings rise and fall with their ‘currency-hedging strategies’
   - [china] Shenzhen Envicool Technology: Strong revenue growth was offset by lower 9M earnings and shipment timing delays
   - [korea] Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea 3Q GDP Growth Likely Accelerated Sequentially, Poll Shows — Market Talk
   - [japan] Yen Holds Steady Ahead of BOJ Policy Meeting
   - [korea] Banks expected to maintain tight lending standards in Q4: BOK survey
-  - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 b
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T08:32:43+00:00",
+      "published_utc": "2026-10-26T08:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
