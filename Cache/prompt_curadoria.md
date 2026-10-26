@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T15:12:45.338922+00:00
+Última coleta: 2026-10-26T15:22:45.210236+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          981
-  🇨🇳 China          853
-  🇹🇼 Taiwan         374
+  🇯🇵 Japão          982
+  🇨🇳 China          851
+  🇹🇼 Taiwan         375
   🇰🇷 Coreia do Sul  792
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan to back perovskite solar cell mass production with $640m in subsidies
   - [china] Shanghai Iluvatar Corex Semiconductor Granted Aggregate Banking Facilities Of Over Rmb12 Billion, As At Oct 26
   - [china] EU Plans to Hit China With More Import Curbs in Early 2027
   - [korea] Micron, SanDisk and SK Hynix Stocks Climb as AI Memory Demand Takes Center Stage
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Shenzhen Envicool Technology: Strong revenue growth was offset by lower 9M earnings and shipment timing delays
   - [korea] Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..
   - [korea] Kukdo Chemical Co To Buy Lg Chem's Bpa Manufacturing Facility And Business Unit For 78.4 Billion Won
-  - [taiwan] Taiwan Retail Sales Hit Over 2-Year High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T15:12:45+00:00",
+      "published_utc": "2026-10-26T15:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
