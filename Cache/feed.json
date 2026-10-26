@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T06:42:45.563390+00:00",
- "collected_at_utc": "2026-10-26T06:42:45.563390+00:00",
+ "generated_at_utc": "2026-10-26T06:51:16.952455+00:00",
+ "collected_at_utc": "2026-10-26T06:51:16.952455+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 981,
-  "china": 855,
+  "china": 856,
   "taiwan": 372,
-  "korea": 792
+  "korea": 791
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 31.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:44:19+00:00"
+   "newest": "2026-10-26T02:58:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T15:11:37+09:00"
+   "newest": "2026-10-26T15:45:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T12:24:15+09:00"
+   "newest": "2026-10-26T15:43:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T06:41:58+00:00"
+   "newest": "2026-10-26T06:50:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T01:23:27+00:00"
+   "newest": "2026-10-26T04:26:11+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T06:23:49+00:00"
+   "newest": "2026-10-26T03:00:30+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1272,6 +1272,25 @@
    "live_wire": true,
    "manual": false,
    "id": "add0e77f9d9432c8"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财联社",
+   "title_en": "Bond market early participation, October 26 | Some new local government debt limits next year will be issued in advance; the central bank will launch a 700 billion yuan MLF operation today",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EVUphN1VZWmpsZnRsNDdSRFZJdENhUDZ0UWN2V0lfMm5sMmNZLXUtSVlwR0JrTE5VN1gzZGdXQXdkWmFKcXd4YQ?oc=5",
+   "published_utc": "2026-10-26T00:47:10+00:00",
+   "title_original": "债市早参10月26日|明年部分新增地方债限额将提前下达；央行今日将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fiscal",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "5369fdb9dac7ca38"
   },
   {
    "source_id": "gn_jp_mof",
@@ -4614,6 +4633,24 @@
    "id": "a29d72095c68ae17"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "September CPI at 2% level for the first time in 9 months and Bank of Japan decision meeting (NRI researcher's commentary on current events)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KYTVkMERRMXNkQ1NLdjdjTzBnNFRtWEl1Z1Q1V0JsaVQxRjRDZ3dxQURWN1VWM09pd1hzYlBYa3dGSHNzX2RBY2hhNW9GX1JXNHVLX0lMN3FNbk9saHlUT09nTTdVeGhUTVBkdFpqX3YxbW9ZZTRDQ2UtLWo2N2s?oc=5",
+   "published_utc": "2026-10-23T00:36:18+00:00",
+   "title_original": "9か月ぶりの2％台となった9月CPIと日銀決定会合（NRI研究員の時事解説）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a60f9aabdeb572ae"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Japan manufacturing growth slows to 7-month low in October, PMI shows",
@@ -7052,6 +7089,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "뉴스핌",
+   "title_en": "The Bank of Korea unanimously freezes the base interest rate at 3.00% per annum... Maintains possibility of further increases",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9udTBEeVB0SDJsLXNYNmRoOXRUZUxGZXpEMlZhS1R2SERaR003aDh5LVhUOWhhb1hzQWdrcklOcFNrYTVJc2M3MHlQTTZsWFBxeW1WVnBFZkZfZEcw?oc=5",
+   "published_utc": "2026-10-22T02:33:00+00:00",
+   "title_original": "한은, 기준금리 연 3.00% 만장일치 동결…추가 인상 가능성 유지",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "988d5e65c5cc47c5"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "한국보험신문",
    "title_en": "The Bank of Korea freezes the base interest rate by 3%... “Watch prices and financial stability”",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02ZVV4cnRRMGhOQ0JVR2Z6d1BoOE9DYzJ2S3k2eVF2T2NIdGVZYXRJN09TY2pzeGZOWEV0MS1SYjlJRm9GQ1hJZExhSnFlVGRkRjl6REFwaml4WGE1c1Y2ZWNBSER3R2ZlWDNF0gFvQVVfeXFMT2poRnh2ZGxuV2JtWURCWE1oeE53UjAxb2xuWU5BSDNXSTNzUFFCOEpfSy1CazItR3NrSVZQdVpQbTBCZzVESW8wSVlNYjB3ZzVXa25UQ01zNG90WXY1cW9CdTRTV19FWXlaNDRkdjhZ?oc=5",
@@ -7288,24 +7342,6 @@
    "live_wire": false,
    "manual": false,
    "id": "498c0e6782864fff"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴시스",
-   "title_en": "[Full text] Bank of Korea Monetary Policy Committee October monetary policy direction",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lblI1SU9jQkNEZzVWQ1gxNXlFUWZyc1VabmtsRnJfUkZmc2V3Y1lmczlPbHNfU09zd1dnX0hvWEIzaE1UOU5WM2RFMktMRzROUTltb3g3T0xleW1GQ240X9IBeEFVX3lxTE5pNzFCV2prczUxUlk1b1h5TVVpMzRXWTBTdV9rTEFSYUJwUTVZQ0N5ckxJODRBUEd2Z0h4eVNaREE0UEEzSUtFdXlDdFM3MHp3SXdOZnAycXd2T2xvdEV5b2ROcTFMRnJIN0hiYm9Uc1pka1NERm13Sw?oc=5",
-   "published_utc": "2026-10-22T02:09:09+00:00",
-   "title_original": "[전문]한국은행 금융통화위원회 10월 통화정책방향",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e70fbc5e8de0f1e3"
   },
   {
    "source_id": "gn_kr_ked",
@@ -24472,23 +24508,6 @@
    "id": "6f4598c244355d82"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0tDR2tWdzFlcUZCRHJUYU4ySVl5OXE5aTZCV09pM1Q2OXM2NXB3UU1INUtHdExQRV9RTlEtU2NFZUtST1d0bUQzXzZLNW8wS1RjQjZTZ044WEhWVDAwbjllaFFodU9EbjNpeTlERTZ1NThLb21RMkhhWjQtRUFsNzN6RWMzLUhTMmRFczVtLXRPYzRPVVQ5Z3RPV0NVVVRWeURXdTFuYmlBdk1JYlVtTE9uZw?oc=5",
-   "published_utc": "2026-10-14T13:33:34+00:00",
-   "title_original": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "721a8861261fd171"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "济南新闻",
    "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation - News",
@@ -25748,6 +25767,23 @@
    "live_wire": false,
    "manual": false,
    "id": "172e77c048cae483"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0tDR2tWdzFlcUZCRHJUYU4ySVl5OXE5aTZCV09pM1Q2OXM2NXB3UU1INUtHdExQRV9RTlEtU2NFZUtST1d0bUQzXzZLNW8wS1RjQjZTZ044WEhWVDAwbjllaFFodU9EbjNpeTlERTZ1NThLb21RMkhhWjQtRUFsNzN6RWMzLUhTMmRFczVtLXRPYzRPVVQ5Z3RPV0NVVVRWeURXdTFuYmlBdk1JYlVtTE9uZw?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "title_original": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "721a8861261fd171"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51875,40 +51911,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9867ed91f19fb62d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG RETAIL SALES -1.2% M/M (JULY REVISED TO +2.1% FROM +2.4%); MEDIAN FORECAST -0.9% (RANGE: -1.6% TO -0.8%)",
-   "url": "https://www.tradingview.com/news/macenews:6800551a5094b:0-japan-aug-retail-sales-1-2-m-m-july-revised-to-2-1-from-2-4-median-forecast-0-9-range-1-6-to-0-8/",
-   "published_utc": "2026-09-29T23:58:00+00:00",
-   "title_original": "JAPAN AUG RETAIL SALES -1.2% M/M (JULY REVISED TO +2.1% FROM +2.4%); MEDIAN FORECAST -0.9% (RANGE: -1.6% TO -0.8%)",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "add633bc6800107b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Hengan International Says Chair And Executive Director Sze Man Bok Passed Away On Sept 29",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45L1TG:0-hengan-international-says-chair-and-executive-director-sze-man-bok-passed-away-on-sept-29/",
-   "published_utc": "2026-09-29T23:57:34+00:00",
-   "title_original": "Hengan International Says Chair And Executive Director Sze Man Bok Passed Away On Sept 29",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "eb06e3b47abcc09c"
   },
   {
    "source_id": "manual_ia",
