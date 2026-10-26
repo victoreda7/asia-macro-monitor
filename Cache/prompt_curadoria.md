@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T08:02:42.615337+00:00
+Última coleta: 2026-10-26T08:12:43.341255+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          980
-  🇨🇳 China          858
-  🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  789
+  🇨🇳 China          857
+  🇹🇼 Taiwan         372
+  🇰🇷 Coreia do Sul  791
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kukdo Chemical Co To Buy Lg Chem's Bpa Manufacturing Facility And Business Unit For 78.4 Billion Won
+  - [korea] Industrial Bank Of Korea Earnings Up In Q3
   - [japan] Sumitomo Life to remain cautious on JGB yields, keep investment pace unchanged from H1
   - [korea] Industrial Bank Of Korea Q3 Operating Profit 1 Trln Won, Up 5.6% From Year Earlier
   - [taiwan] Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Stock Rises: Korean Memory Giant Reportedly Weighs $12B Special Dividend From Kioxia Gains
   - [china] On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.
   - [korea] A SK Hynix anunciará, nesta quarta-feira, medidas para aumentar o retorno aos acionistas
-  - [korea] SK Hynix to announce steps to boost shareholder returns on Wednesday
-  - [japan] Amazing Venture [39] Patentix/Next Generation Power Semiconductor with Energy Saving | Business | Toyo Keizai 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T08:02:42+00:00",
+      "published_utc": "2026-10-26T08:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
