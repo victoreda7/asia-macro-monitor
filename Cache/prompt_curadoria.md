@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T11:02:45.164030+00:00
+Última coleta: 2026-10-26T11:12:43.318235+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          980
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix Price Target Cut to $250.00/Share From $300.00 by Cantor Fitzgerald
   - [china] Dosilicon Q3 Net Profit At 830.1 Million Yuan
   - [china] SPIC Industry Finance Q3 Net Profit At 903.3 Million Yuan
   - [japan] Japan's largest machine tool trade show Introducing technologies using AI
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Shin-Etsu Polymer Co Ltd - To Buy Back Up To 0.56% Of Own Shares Worth 1.25 Billion Yen
   - [korea] Inside Henkel's Korean factory making adhesives for AI chips
   - [korea] Samsung may have overtaken SK hynix in HBM revenue, analysis suggests
-  - [china] Beyond exports: China's automakers dig deeper into Europe
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T11:02:45+00:00",
+      "published_utc": "2026-10-26T11:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

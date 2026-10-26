@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-26T11:02:45.164030+00:00",
- "collected_at_utc": "2026-10-26T11:02:45.164030+00:00",
+ "generated_at_utc": "2026-10-26T11:12:43.318235+00:00",
+ "collected_at_utc": "2026-10-26T11:12:43.318235+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 374,
   "korea": 794
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T19:55:23+09:00"
+   "newest": "2026-10-26T20:11:22+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T05:26:00+00:00"
+   "newest": "2026-10-26T09:40:40+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T05:52:00+00:00"
+   "newest": "2026-10-26T07:53:43+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T11:02:00+00:00"
+   "newest": "2026-10-26T11:12:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T06:23:49+00:00"
+   "newest": "2026-10-26T03:00:30+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T10:42:01+00:00"
+   "newest": "2026-10-26T08:42:27+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "SK hynix Price Target Cut to $250.00/Share From $300.00 by Cantor Fitzgerald",
+   "url": "https://www.tradingview.com/news/DJN_DN20261026002346:0-sk-hynix-price-target-cut-to-250-00-share-from-300-00-by-cantor-fitzgerald/",
+   "published_utc": "2026-10-26T11:08:00+00:00",
+   "title_original": "SK hynix Price Target Cut to $250.00/Share From $300.00 by Cantor Fitzgerald",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "d7f1f689d033f0a0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1543,23 +1560,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8a7ae9f44704cb3f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "A SK Hynix anunciará, nesta quarta-feira, medidas para aumentar o retorno aos acionistas",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46C03B:0/",
-   "published_utc": "2026-10-26T02:37:55+00:00",
-   "title_original": "A SK Hynix anunciará, nesta quarta-feira, medidas para aumentar o retorno aos acionistas",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "096052c8734b9f45"
   },
   {
    "source_id": "toyo_keizai",
@@ -6834,6 +6834,24 @@
    "id": "4eaa76ab6ca3cd14"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "한겨레",
+   "title_en": "Bank of Korea: “This year’s growth rate will exceed forecasts by a significant margin.”",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxYUdZWHhBakczcXFkTkJlSllWT0tLOUtGMVFvRHlmWVA1UnJYT1BISEVDcmgzMm9SWHZ1UVBNM250RXNEeXBVTU0zdmtJMlNpQnVfZ2lmaThsdUxaZmhPVy16azg4Ylg2VGJ6T0VzaDl2QQ?oc=5",
+   "published_utc": "2026-10-22T06:33:00+00:00",
+   "title_original": "한은 “올해 성장률, 전망치 상당 폭 상회할 것”",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ae1da920fd82c9"
+  },
+  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Six opposition parties in the House of Councilors consumption tax reduction bill “call for establishment of a special committee”",
@@ -7753,23 +7771,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7006e79aacb8b1ef"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "미디어스",
-   "title_en": "The Bank of Korea freezes the base interest rate at 3.00% per annum... Pay attention to whether there will be an additional increase in November",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yNlA4R3loeU1mMnVSN0FZZ183TkRGeTdXdWdzSUVmYW1vYUNMYnJPX3l1aEVvMXdfaVJmOGdmcUNES1l3bzM5RXc3Z1pPR2dWU0lyVHlNU3gzc0FvdE5WekgyT2MtMklzUXVCNNIBcEFVX3lxTE9WRmpnYlZ2cVJHUTdBaDk2NkdBVmFGWFh6U1VJSFlIdWJCRHlzMFZlMUZzYlZOS2Qxb2p4UTVVdzBhUlNDZ2MtQ3hsZnlvTDY0RXZxelFLTlNMdDJsMnJIWkZndFc4RTYwWFJpT3AwR1c?oc=5",
-   "published_utc": "2026-10-22T02:12:00+00:00",
-   "title_original": "한은, 기준금리 연 3.00% 동결…11월 추가 인상 여부 주목",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "90237e098af21acd"
   },
   {
    "source_id": "gn_jp_reuters",
