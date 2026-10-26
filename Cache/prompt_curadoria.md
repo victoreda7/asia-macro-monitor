@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T10:02:44.352715+00:00
+Última coleta: 2026-10-26T10:12:44.181170+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          978
+  🇯🇵 Japão          979
   🇨🇳 China          854
   🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  794
+  🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's largest machine tool trade show Introducing technologies using AI
   - [china] China's central bank launches swap facility to offer emergency liquidity to asset managers
   - [korea] SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report
   - [japan] Euro firms against dollar, yen ahead of central bank meetings
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea's Lee says unlikely to join Pacific trade pact within his term
   - [korea] Hyundai Glovis partners with Shopee to boost K-beauty exports
   - [korea] Korea Investment Management enters Hong Kong ETF market with chip fund
-  - [japan] Prime Minister Takaichi seeks cooperation from ruling party for early passage of consumption tax reduction bil
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T10:02:44+00:00",
+      "published_utc": "2026-10-26T10:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
