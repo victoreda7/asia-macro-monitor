@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T13:53:06.432100+00:00
+Última coleta: 2026-10-26T14:03:14.782037+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          981
@@ -51,12 +51,12 @@ Total: 3000 manchetes
   - [korea] Korea's export front is on alert as the European Union (EU) raises trade barriers with carbon neutra..
   - [korea] Amid the strong won (the weak dollar), the investment strategy of an opportunity to buy dollar-denom..
   - [korea] Shipbuilders’ earnings rise and fall with their ‘currency-hedging strategies’
+  - [china] The central bank launched 56 billion yuan of 7-day and 398 billion yuan of overnight reverse repurchase operat
   - [china] Shenzhen Envicool Technology: Strong revenue growth was offset by lower 9M earnings and shipment timing delays
   - [korea] Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..
   - [korea] Kukdo Chemical Co To Buy Lg Chem's Bpa Manufacturing Facility And Business Unit For 78.4 Billion Won
   - [taiwan] Taiwan Retail Sales Hit Over 2-Year High
   - [korea] Industrial Bank Of Korea Earnings Up In Q3
-  - [japan] Sumitomo Life to remain cautious on JGB yields, keep investment pace unchanged from H1
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T13:53:06+00:00",
+      "published_utc": "2026-10-26T14:03:15+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
