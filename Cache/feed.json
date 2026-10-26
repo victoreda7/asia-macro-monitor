@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-26T04:12:42.918055+00:00",
- "collected_at_utc": "2026-10-26T04:12:42.918055+00:00",
+ "generated_at_utc": "2026-10-26T04:22:42.035118+00:00",
+ "collected_at_utc": "2026-10-26T04:22:42.035118+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 373,
   "korea": 788
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T03:21:00+00:00"
+   "newest": "2026-10-26T04:07:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T03:49:08+00:00"
+   "newest": "2026-10-26T04:12:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T03:48:28+00:00"
+   "newest": "2026-10-26T04:12:21+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -155,7 +155,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "newest": "2026-10-24T02:14:26+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T12:52:44+09:00"
+   "newest": "2026-10-26T13:18:43+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -344,11 +344,28 @@
  ],
  "items": [
   {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Future “Regulatory reform for AI utilization and countermeasures against “AI unemployment”” Recommendations to the government",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261026de65641",
+   "published_utc": "2026-10-26T04:18:43+00:00",
+   "title_original": "みらい“AI活用へ規制改革と「AI失業」対策を” 政府に提言",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bcfe1b55a653f713"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Bank of Japan’s hawkish pause to leave scope for December hike",
    "url": "https://www.investing.com/news/economy-news/bank-of-japans-hawkish-pause-to-leave-scope-for-december-hike-4971365",
-   "published_utc": "2026-10-26T03:48:28+00:00",
+   "published_utc": "2026-10-26T04:00:38+00:00",
    "title_original": "Bank of Japan’s hawkish pause to leave scope for December hike",
    "region": "japan",
    "topics": [
@@ -911,23 +928,6 @@
    "live_wire": true,
    "manual": false,
    "id": "add0e77f9d9432c8"
-  },
-  {
-   "source_id": "gn_jp_mof",
-   "source_name": "財務省",
-   "title_en": "What's New October, 2026 : Ministry of Finance",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaGVTdkpkMGtWc1pmZ0FOOEFXNnd0ejBiYXZmTDJRVGpDREM0bEp5V0VvWVYzb2JzR194V0dzV3JrMTBTalJSWnJwUWhMZXozUlJYTFFxdkRwODRDelhMaFFXZGRTemFMVUlWQ0F2M04zSkd3cFBB?oc=5",
-   "published_utc": "2026-10-26T00:43:47+00:00",
-   "title_original": "What's New October, 2026 : Ministry of Finance",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "816a8b781a3d4bd5"
   },
   {
    "source_id": "tradingview_live",
@@ -1926,6 +1926,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f2a9e7e6ad7ecf84"
+  },
+  {
+   "source_id": "gn_jp_mof",
+   "source_name": "財務省",
+   "title_en": "What's New October, 2026 : Ministry of Finance",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaGVTdkpkMGtWc1pmZ0FOOEFXNnd0ejBiYXZmTDJRVGpDREM0bEp5V0VvWVYzb2JzR194V0dzV3JrMTBTalJSWnJwUWhMZXozUlJYTFFxdkRwODRDelhMaFFXZGRTemFMVUlWQ0F2M04zSkd3cFBB?oc=5",
+   "published_utc": "2026-10-24T02:14:26+00:00",
+   "title_original": "What's New October, 2026 : Ministry of Finance",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "816a8b781a3d4bd5"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51889,24 +51906,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f8a613d3956bb18d"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Nikkei average could reach 80,000 yen level due to six performance improvement drivers such as AI and semiconductor related, Japanese companies will reach record profits by FY2027 | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/959491?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-29T21:00:00+00:00",
-   "title_original": "AIや半導体関連など6つの業績改善ドライバーで日経平均は8万円台の可能性も､日本企業は27年度にかけて最高益に | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d3608b7c081de7ad"
   },
   {
    "source_id": "manual_ia",
