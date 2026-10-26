@@ -1,25 +1,49 @@
 {
- "generated_at_utc": "2026-10-26T12:13:09.056059+00:00",
- "collected_at_utc": "2026-10-26T12:13:09.056059+00:00",
+ "generated_at_utc": "2026-10-26T12:22:48.147637+00:00",
+ "collected_at_utc": "2026-10-26T12:22:48.147637+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 38,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 981,
-  "china": 853,
+  "japan": 982,
+  "china": 852,
   "taiwan": 373,
   "korea": 793
  },
- "elapsed_s": 55.9,
+ "elapsed_s": 33.3,
  "sources": [
+  {
+   "source_id": "investing_live",
+   "name": "Investing (ao vivo)",
+   "ok": false,
+   "count": 0,
+   "error": "403 ou layout mudou",
+   "newest": ""
+  },
+  {
+   "source_id": "investing_econ",
+   "name": "Investing Economy",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 502",
+   "newest": ""
+  },
+  {
+   "source_id": "investing_fx",
+   "name": "Investing Forex",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP 502",
+   "newest": ""
+  },
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 51,
+   "error": "",
+   "newest": "2026-10-23T15:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -35,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T10:57:00+00:00"
+   "newest": "2026-10-26T08:02:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -68,30 +92,6 @@
    "count": 35,
    "error": "",
    "newest": "2026-10-26T17:11:28+08:00"
-  },
-  {
-   "source_id": "investing_live",
-   "name": "Investing (ao vivo)",
-   "ok": true,
-   "count": 10,
-   "error": "",
-   "newest": "2026-10-26T11:58:54+00:00"
-  },
-  {
-   "source_id": "investing_econ",
-   "name": "Investing Economy",
-   "ok": true,
-   "count": 10,
-   "error": "",
-   "newest": "2026-10-26T11:25:02+00:00"
-  },
-  {
-   "source_id": "investing_fx",
-   "name": "Investing Forex",
-   "ok": true,
-   "count": 10,
-   "error": "",
-   "newest": "2026-10-26T09:45:26+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T20:59:34+09:00"
+   "newest": "2026-10-26T21:18:46+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T10:02:23+00:00"
+   "newest": "2026-10-26T08:28:14+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T12:12:00+00:00"
+   "newest": "2026-10-26T12:21:43+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T09:59:16+00:00"
+   "newest": "2026-10-26T11:00:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -1494,7 +1494,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53amxBcmVuSFR3amxLQThXNVcwWnFRVl9IU2Z0QWVTWGRFLXpGTElFbHJUNEJwUGx0blMtYmw5SUd5XzFDS0lZaTM3UG10S2VHOXBKVkR0bi1RU1JMbHBNZTRB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -1506,7 +1506,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "637fb07118250770"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1546,7 +1546,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 billion yuan of MLF expires.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95Z19yZUlkamFRWjlmcjNXYVJmUXVhbWczbEsyS1lWVnlDYVdVZWt6N0FqaGUxQjlocWlwN3lZM1gtOXphQmNEdGJScWNGdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14YnZJVThIRTl5M240ZE54VWVlVEh5ZTZob2hTdTE1c3ltUTdzdXA3MEZUUGd4eWo4SHRrbnRCZmJZOWxlRTdsbWFsc1RCNWk5VHBYV0hZNi1YelowbHpVQnh3?oc=5",
    "published_utc": "2026-10-26T02:57:10+00:00",
    "title_original": "本周央行公开市场逆回购到期3380亿元 周二9000亿元MLF到期",
    "region": "china",
@@ -1558,7 +1558,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e21ee44288074ab5"
+   "id": "50b41cccc95aaa06"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -1859,23 +1859,6 @@
    "id": "de72ef6f280f0b18"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "BOJ, Fed expected to leave rates unchanged this week",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oZ2RwYmhoZXVpYl9tV0tFR3hDVVR3U3ZDX3JjLVF6UVQ0VzlxSTh6MjAxQUtEZHpDSHBadDFqNWFoeWZCWGxiei1TZnFtYjhkbkp2V2ZLU2FJb2tzR2s4YVF4dw?oc=5",
-   "published_utc": "2026-10-26T00:21:11+00:00",
-   "title_original": "BOJ, Fed expected to leave rates unchanged this week",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bffb7a643041e1fd"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "Sohu",
    "title_en": "The central bank invested 700 billion MLF, the performance of Cambrian, Tianqi Lithium, etc. increased significantly, and the actual controller of Sanan Optoelectronics was arrested",
@@ -1993,6 +1976,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ed054c02a0450be8"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "BOJ, Fed expected to leave rates unchanged this week",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oZ2RwYmhoZXVpYl9tV0tFR3hDVVR3U3ZDX3JjLVF6UVQ0VzlxSTh6MjAxQUtEZHpDSHBadDFqNWFoeWZCWGxiei1TZnFtYjhkbkp2V2ZLU2FJb2tzR2s4YVF4dw?oc=5",
+   "published_utc": "2026-10-25T23:21:11+00:00",
+   "title_original": "BOJ, Fed expected to leave rates unchanged this week",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "bffb7a643041e1fd"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -4677,6 +4677,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f358bacbe8929b46"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXFCZWZ3d2p2eTU3ZVQ0Q2poLUdhOHhiVHNTUkRKalgweUJmbEdLTld0Z2JQNi1CcUFJeHVzNTllU2dPVUJKS0J3WWYtOURqaG1HMUJwWDFxc2dkRWpGM1ZFdzh2WGFLaHdlczdpOGNEMlZtZ1ZDenU5YjVGTVFXZE9DSk5pRTdDYVhDSEljRTRGbDZMYTU3ZnN1VGQ5QnhIRU43NVBRMXY3c3FJZ3o1Y3M3d1FudC0yeGpz?oc=5",
+   "published_utc": "2026-10-23T04:01:55+00:00",
+   "title_original": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9cff6654c2fd53b9"
   },
   {
    "source_id": "investing_fx",
@@ -12722,27 +12739,10 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺",
-   "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1bUlWbk81QVNIdjBWdl9xLWR5Z3dpcng2TG9DTjZRRFlBanZvSmh1NnF4RllUZ2FWZEU1OFRkdlRfQ0g1OGtNX0laQ3JaU1NGYXF3eWFjOXBBZlliYVE?oc=5",
-   "published_utc": "2026-10-20T05:21:26+00:00",
-   "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2145711a371044cd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYRENCTElBUWY0VlJyYmlCZlJtRXZwZGJyVHhrLVp2bGVTNE1jNHhmSk1lZkJLbUkzdHc5UzdSVzEtQ2RCUDNEcDNSMWVmVTlhMGhCRzNoQnFZQTg1QlNaTURXTGZpQQ?oc=5",
-   "published_utc": "2026-10-20T05:16:51+00:00",
+   "published_utc": "2026-10-20T05:18:44+00:00",
    "title_original": "每日不超过1万亿！央行将连续九个工作日开展隔夜逆回购",
    "region": "china",
    "topics": [
@@ -12771,6 +12771,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2e0f290e3e73bd70"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观察者网",
+   "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
+   "published_utc": "2026-10-20T05:07:00+00:00",
+   "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "50e1092b7ea2ed64"
   },
   {
    "source_id": "gn_jp_investing",
@@ -12981,6 +12998,23 @@
    "live_wire": true,
    "manual": false,
    "id": "05280fdf996be8e6"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "界面新闻",
+   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUVW9zRTJBaDUxanZMRGhBSDFqaEtSb20zMXJNcUtEUWFtMnBRNzJNRlJLZ1BoX01vbjVSeFhUNlVtRnBkTzhqaWNpei1sTHptS0lnU1RSdTA?oc=5",
+   "published_utc": "2026-10-20T03:26:05+00:00",
+   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0ecd4262e4547fcf"
   },
   {
    "source_id": "toyo_keizai",
@@ -14111,23 +14145,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b474010cf2072a9c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "The daily operation volume does not exceed 1 trillion! The central bank will carry out overnight reverse repurchase operations",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBacG1IM09LOFdCVXJ3Q29RVGRuMUJEbGFPOFgydDZtRjFCV1pXUjhyU1hlUDlmcFdVYmlFbkVDdlJGaWNOV2hyRkFvNG5VS1pYYU9zUEpB?oc=5",
-   "published_utc": "2026-10-19T12:18:00+00:00",
-   "title_original": "每日操作量不超过1万亿！央行将开展隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16528f1711d07747"
   },
   {
    "source_id": "tradingview_live",
@@ -51889,23 +51906,6 @@
    "live_wire": false,
    "manual": false,
    "id": "0105aab435871ecd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "Standard Chartered does not rule out the possibility of central bank cutting RRR",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RVXJ3UHFEa21BR3hEVFhaSnptYVNDdGpWMjBoYlhrbC11R2VrRTFjenNXY3Y0bDFrRVVEUlRELUJXN0JzWDA2eFF5UG9XZw?oc=5",
-   "published_utc": "2026-09-30T03:56:15+00:00",
-   "title_original": "渣打不排除央行降准的可能性",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ad34efd162f89224"
   },
   {
    "source_id": "manual_ia",
