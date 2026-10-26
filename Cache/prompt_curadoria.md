@@ -7,22 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T03:52:43.025497+00:00
+Última coleta: 2026-10-26T04:02:43.121082+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          989
-  🇨🇳 China          852
-  🇹🇼 Taiwan         371
+  🇯🇵 Japão          988
+  🇨🇳 China          851
+  🇹🇼 Taiwan         373
   🇰🇷 Coreia do Sul  788
 
 ## O que já está no feed (não repita)
 
-  - [china] China's yuan climbs to fresh 4-year high ahead of key policy meetings
+  - [japan] Bank of Japan’s hawkish pause to leave scope for December hike
+  - [china] China’s yuan climbs to fresh 4-year high ahead of key policy meetings
   - [japan] Stock prices fall Sell orders centered on semiconductor-related stocks
   - [taiwan] New Taiwan Dollar Likely to Rebound After Recent Slump — Market Talk
   - [korea] South Korea 3Q GDP Growth Likely Accelerated Sequentially, Poll Shows — Market Talk
   - [japan] Yen Holds Steady Ahead of BOJ Policy Meeting
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 b
+  - [taiwan] Taiwan wafer-testing supplier Hermes Testing Solutions commits more than US$215 million to advanced chip testi
+  - [taiwan] Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp
   - [china] This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 bi
   - [korea] SK Hynix Stock Rises: Korean Memory Giant Reportedly Weighs $12B Special Dividend From Kioxia Gains
   - [korea] A SK Hynix anunciará, nesta quarta-feira, medidas para aumentar o retorno aos acionistas
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Korean won's nominal effective rate rises to 2-yr high
   - [china] Meituan Plans to Issue Yuan Denominated Senior Notes
   - [japan] Nikkei Likely Rangebound Amid Concerns About High Energy Costs — Market Talk
-  - [japan] Goldman Says Yen Becoming Better Hedge Against AI Market Shock
-  - [china] China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep
-  - [china] Weekly Recap: DeepSkill 370k+ tools and DeepSeek ~100bn yuan funding
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T03:52:43+00:00",
+      "published_utc": "2026-10-26T04:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

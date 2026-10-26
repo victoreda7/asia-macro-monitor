@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T03:52:43.025497+00:00",
- "collected_at_utc": "2026-10-26T03:52:43.025497+00:00",
+ "generated_at_utc": "2026-10-26T04:02:43.121082+00:00",
+ "collected_at_utc": "2026-10-26T04:02:43.121082+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 989,
-  "china": 852,
-  "taiwan": 371,
+  "japan": 988,
+  "china": 851,
+  "taiwan": 373,
   "korea": 788
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:41:58+00:00"
+   "newest": "2026-10-26T02:58:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-25T21:18:49+08:00"
+   "newest": "2026-10-26T10:52:11+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T03:18:40+00:00"
+   "newest": "2026-10-26T03:49:08+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T02:06:19+00:00"
+   "newest": "2026-10-26T03:48:28+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-24T02:14:26+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T11:59:36+09:00"
+   "newest": "2026-10-26T12:52:44+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T03:52:16+00:00"
+   "newest": "2026-10-26T04:01:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T22:21:29+00:00"
+   "newest": "2026-10-26T01:23:27+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T05:14:41+00:00"
+   "newest": "2026-10-26T03:00:15+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -344,21 +344,38 @@
  ],
  "items": [
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's yuan climbs to fresh 4-year high ahead of key policy meetings",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46C05P:0-china-s-yuan-climbs-to-fresh-4-year-high-ahead-of-key-policy-meetings/",
-   "published_utc": "2026-10-26T03:35:11+00:00",
-   "title_original": "China's yuan climbs to fresh 4-year high ahead of key policy meetings",
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Bank of Japan’s hawkish pause to leave scope for December hike",
+   "url": "https://www.investing.com/news/economy-news/bank-of-japans-hawkish-pause-to-leave-scope-for-december-hike-4971365",
+   "published_utc": "2026-10-26T03:48:28+00:00",
+   "title_original": "Bank of Japan’s hawkish pause to leave scope for December hike",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3099d41ea8e22cc4"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "China’s yuan climbs to fresh 4-year high ahead of key policy meetings",
+   "url": "https://www.investing.com/news/economy-news/chinas-yuan-climbs-to-fresh-4year-high-ahead-of-key-policy-meetings-4971368",
+   "published_utc": "2026-10-26T03:42:22+00:00",
+   "title_original": "China’s yuan climbs to fresh 4-year high ahead of key policy meetings",
    "region": "china",
    "topics": [
     "fx"
    ],
    "lang_original": "en",
    "translated": false,
-   "live_wire": true,
+   "live_wire": false,
    "manual": false,
-   "id": "e08ecc5ab7fb5cce"
+   "id": "98a453cca82b30f4"
   },
   {
    "source_id": "nhk_economy",
@@ -447,6 +464,40 @@
    "live_wire": false,
    "manual": false,
    "id": "637fb07118250770"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Taiwan wafer-testing supplier Hermes Testing Solutions commits more than US$215 million to advanced chip testing expansion",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXhXN1dYUWQ0ZnlfR3Azb0dDMEEyTnhiWTZRRHZsV09DdklRQWRWYWFFSk52Rk5CQ3hPcGRvVXNad1FhbzdCTmtSeEhjM0M3VnlIVnVXM2NfVEs2eVpTSEZEaFdLWjlaT2MxTXZmcVdCZUticFpyNUFScGpGZzZtQ3BBRVV1SEUxVG9ULUZ0bnl6ZjQxR3E5aw?oc=5",
+   "published_utc": "2026-10-26T02:58:19+00:00",
+   "title_original": "Taiwan wafer-testing supplier Hermes Testing Solutions commits more than US$215 million to advanced chip testing expansion",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "aaa72da40a4cc8ae"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGZ1aU42bDhxd0swUkZZWk1jMURwS1FxdERtRVZvQ2xKZlFCQ2ZBdWlqRFpMMDVzcUp2UXB4M1VDM2piX3hjT2V2YkRZcW9YQlhEcjR5d0gwdmpyNnBKVGRPczFhc3VSYlg1ekZBNnVHemlfWmtWT3ZEUU5SelpNUmVMazA?oc=5",
+   "published_utc": "2026-10-26T02:57:50+00:00",
+   "title_original": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8c8ff070eba51b15"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2447,24 +2498,6 @@
    "id": "c0606821eacd5484"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
-   "published_utc": "2026-10-23T12:38:12+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d3a519ddfcdc2da"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -2480,6 +2513,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
+   "published_utc": "2026-10-23T12:32:55+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51856,57 +51907,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d3608b7c081de7ad"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Behind the scenes of dependence on champion Asahi's \"Super Dry\"... \"Retail store shelves\" stolen by cyber damage and the merits and demerits of one leg | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/959398?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-29T20:55:00+00:00",
-   "title_original": "〈10月から酒税一本化〉王者アサヒ｢スーパードライ｣依存の裏側…サイバー被害で奪われた｢小売店の棚｣と一本足の功罪 | ビジネス | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9ff8d7bdbaa90c48"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Roland revived from a large deficit through MBO...6 years after relisting, now that the fund that supported the company's restructuring has left, the question of \"next growth\" | Business | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/959044?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-09-29T20:50:00+00:00",
-   "title_original": "大赤字からMBOで蘇ったローランド…再上場から6年､再建支えたファンドが去った今､問われる｢次なる成長｣ | ビジネス | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ce49ba70033306fd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "Jiemian.com",
-   "title_en": "The central bank takes action! 1.2 trillion buyout reverse repurchase is coming",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nNHhLdEFRRHdfdWRiWGxBZHR3WFhhZmxqaVl2NkM3TFFHT2F4WkVuRnJtcEIyeVA2OTBTUEN6NER5WkN0RFNXc1FsSy1xY05YZ3FoTzlVcjQ?oc=5",
-   "published_utc": "2026-09-29T20:10:00+00:00",
-   "title_original": "央行出手！12000亿买断式逆回购来了",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5181a9d6f388a7ad"
   },
   {
    "source_id": "manual_ia",
