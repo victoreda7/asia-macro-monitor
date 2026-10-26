@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T16:12:43.972010+00:00
+Última coleta: 2026-10-26T16:22:43.619345+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          981
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 195.93, Implies 35% Upside
   - [japan] Japan to back perovskite solar cell mass production with $640m in subsidies
   - [china] Shanghai Iluvatar Corex Semiconductor Granted Aggregate Banking Facilities Of Over Rmb12 Billion, As At Oct 26
   - [china] EU Plans to Hit China With More Import Curbs in Early 2027
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Shipbuilders’ earnings rise and fall with their ‘currency-hedging strategies’
   - [china] The central bank launched 56 billion yuan of 7-day and 398 billion yuan of overnight reverse repurchase operat
   - [china] Shenzhen Envicool Technology: Strong revenue growth was offset by lower 9M earnings and shipment timing delays
-  - [korea] Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T16:12:44+00:00",
+      "published_utc": "2026-10-26T16:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
