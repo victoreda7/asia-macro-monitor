@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T06:12:44.151470+00:00",
- "collected_at_utc": "2026-10-26T06:12:44.151470+00:00",
+ "generated_at_utc": "2026-10-26T06:22:42.234537+00:00",
+ "collected_at_utc": "2026-10-26T06:22:42.234537+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 983,
-  "china": 854,
+  "japan": 981,
+  "china": 855,
   "taiwan": 372,
-  "korea": 791
+  "korea": 792
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 30,
+   "count": 32,
    "error": "",
-   "newest": "2026-10-26T10:52:11+08:00"
+   "newest": "2026-10-26T14:07:18+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T05:50:09+00:00"
+   "newest": "2026-10-26T06:14:35+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-26T06:06:59+00:00"
+   "newest": "2026-10-26T06:20:34+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T14:56:21+09:00"
+   "newest": "2026-10-26T15:11:37+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T02:04:00+00:00"
+   "newest": "2026-10-26T04:28:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T06:11:38+00:00"
+   "newest": "2026-10-26T06:21:58+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T01:23:27+00:00"
+   "newest": "2026-10-26T04:26:11+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-26T04:29:04+00:00"
+   "newest": "2026-10-26T06:19:43+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T04:37:16+00:00"
+   "newest": "2026-10-26T06:07:55+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Inside Henkel's Korean factory making adhesives for AI chips",
+   "url": "https://www.koreaherald.com/article/10915087",
+   "published_utc": "2026-10-26T06:20:34+00:00",
+   "title_original": "Inside Henkel's Korean factory making adhesives for AI chips",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0f1ec44b0efeb9fe"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -617,6 +634,23 @@
    "live_wire": true,
    "manual": false,
    "id": "52c55831e5e85514"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China National Team ETFs Draw Most Inflows Since Trade War Rout",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc1VzZUdFMU1JMGduUUlIVHEtUkFzZnZkVDhlMGxsRERySHVxTFZCTW1QOG5sRkhjd3RpRVFRODljZTVSdFc3d0JwSGlXVVl3dV9ZbUgwcVRGd0tub3NQTjBJMlY2Qk04Nk1EcEJtdGllSHlGZDUyNHZjSVUxMXg2M3B3bThkcDFzS2dLd0JfNFFmQnVvdkJEV2l0bkRyQ2hEc01GMWxnVDRlVzJaQkdRdjJhMWo?oc=5",
+   "published_utc": "2026-10-26T04:14:00+00:00",
+   "title_original": "China National Team ETFs Draw Most Inflows Since Trade War Rout",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3aaeb5e3a05d948e"
   },
   {
    "source_id": "investing_econ",
@@ -4286,8 +4320,8 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -4301,7 +4335,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -4390,8 +4424,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -4404,7 +4438,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -8153,8 +8187,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -8168,7 +8202,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -51874,40 +51908,6 @@
    "live_wire": true,
    "manual": false,
    "id": "abfc1d58a94c7219"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Industrial Output Unexpectedly Falls",
-   "url": "https://www.tradingview.com/news/te_news:587863:0-japan-industrial-output-unexpectedly-falls/",
-   "published_utc": "2026-09-29T23:54:03+00:00",
-   "title_original": "Japan Industrial Output Unexpectedly Falls",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3ffcce332e2157e3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN METI KEEPS VIEW: INDUSTRIAL OUTPUT TAKING ONE STEP FORWARD AND ONE STEP BACK",
-   "url": "https://www.tradingview.com/news/macenews:9b9bfe7bf094b:0-japan-meti-keeps-view-industrial-output-taking-one-step-forward-and-one-step-back/",
-   "published_utc": "2026-09-29T23:53:00+00:00",
-   "title_original": "JAPAN METI KEEPS VIEW: INDUSTRIAL OUTPUT TAKING ONE STEP FORWARD AND ONE STEP BACK",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bcb59f9c94ba8a52"
   },
   {
    "source_id": "manual_ia",
