@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T01:02:42.307394+00:00
+Última coleta: 2026-10-26T01:12:44.226709+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          985
-  🇨🇳 China          852
+  🇯🇵 Japão          986
+  🇨🇳 China          851
   🇹🇼 Taiwan         375
   🇰🇷 Coreia do Sul  788
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB Yields Higher Amid Concerns About Higher Energy Prices — Market Talk
   - [china] Key facts: Meituan Class B (3690) plans 5-/10-yr CNY bond; Moody's Baa1
   - [korea] Sk Hynix Considering Various Ways On Shareholder Return Plans
   - [korea] SK Hynix's Halt to Potential Solidigm U.S. IPO Positive for Shares — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Osong beauty expo draws nearly US$100 mln in export deals
   - [korea] Why Kospi and Korean won have parted ways
   - [china] China’s tech giants are paying 1 million yuan for a new kind of AI engineer
-  - [japan] ``Japan's first full-fledged suburban luxury residential area'' ``Eiichi Shibusawa is also involved in the dev
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T01:02:42+00:00",
+      "published_utc": "2026-10-26T01:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

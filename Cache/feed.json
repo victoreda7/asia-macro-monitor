@@ -1,13 +1,13 @@
 {
- "generated_at_utc": "2026-10-26T01:02:42.307394+00:00",
- "collected_at_utc": "2026-10-26T01:02:42.307394+00:00",
+ "generated_at_utc": "2026-10-26T01:12:44.226709+00:00",
+ "collected_at_utc": "2026-10-26T01:12:44.226709+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 985,
-  "china": 852,
+  "japan": 986,
+  "china": 851,
   "taiwan": 375,
   "korea": 788
  },
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T21:35:00+00:00"
+   "newest": "2026-10-26T01:00:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T00:45:14+00:00"
+   "newest": "2026-10-26T00:54:29+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T00:42:24+00:00"
+   "newest": "2026-10-26T00:54:29+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-24T02:14:26+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T01:01:00+00:00"
+   "newest": "2026-10-26T01:11:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T15:46:15+00:00"
+   "newest": "2026-10-23T14:27:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T22:34:48+00:00"
+   "newest": "2026-10-25T23:35:42+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "JGB Yields Higher Amid Concerns About Higher Energy Prices — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261025000801:0-jgb-yields-higher-amid-concerns-about-higher-energy-prices-market-talk/",
+   "published_utc": "2026-10-26T01:11:00+00:00",
+   "title_original": "JGB Yields Higher Amid Concerns About Higher Energy Prices — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b81937ff47cc8c4b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -432,7 +450,7 @@
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "BOJ Tipped to Hold Rates Despite High Inflation — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261025000696:0-boj-tipped-to-hold-rates-despite-high-inflation-market-talk/",
+   "url": "https://www.tradingview.com/news/DJN_DN20261025000703:0-boj-tipped-to-hold-rates-despite-high-inflation-market-talk/",
    "published_utc": "2026-10-26T00:00:00+00:00",
    "title_original": "BOJ Tipped to Hold Rates Despite High Inflation — Market Talk",
    "region": "japan",
@@ -444,7 +462,7 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "5b679ac744df945a"
+   "id": "4c14dac36428e682"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1981,6 +1999,24 @@
    "id": "c0606821eacd5484"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
+   "published_utc": "2026-10-23T12:38:12+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d3a519ddfcdc2da"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -1996,24 +2032,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
-   "published_utc": "2026-10-23T12:32:55+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -3443,8 +3461,8 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -3458,7 +3476,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -3547,8 +3565,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -3561,7 +3579,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -7310,8 +7328,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -7325,7 +7343,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -51894,23 +51912,6 @@
    "live_wire": false,
    "manual": false,
    "id": "32aeac54145f756e"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "手机网易网",
-   "title_en": "Four arrows fired in unison! After the National Standing Committee set the tone, the central bank launched a new round of financial package to stabilize growth.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pM1JUQTRuZmlOTTc1VkdBWDJxZHpOcDVHVHk2eEE1RERFVHFvRmU4TEp1cnA2R3BBVFBETG1IQktsMmpxUl9CVURqQW4wYVlFaVpTVU9ST19Kd1I5ZkFQeVFB?oc=5",
-   "published_utc": "2026-09-29T13:14:09+00:00",
-   "title_original": "四箭齐发！国常会定调后，央行新一轮稳增长金融组合拳来了",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f62a612d6dde91c3"
   },
   {
    "source_id": "manual_ia",
