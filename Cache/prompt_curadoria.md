@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T02:32:43.011012+00:00
+Última coleta: 2026-10-26T02:42:43.687367+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          988
-  🇨🇳 China          850
-  🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  787
+  🇯🇵 Japão          989
+  🇨🇳 China          849
+  🇹🇼 Taiwan         374
+  🇰🇷 Coreia do Sul  788
 
 ## O que já está no feed (não repita)
 
+  - [korea] A SK Hynix anunciará, nesta quarta-feira, medidas para aumentar o retorno aos acionistas
+  - [korea] SK Hynix to announce steps to boost shareholder returns on Wednesday
+  - [japan] Amazing Venture [39] Patentix/Next Generation Power Semiconductor with Energy Saving | Business | Toyo Keizai 
   - [china] The central bank launched a 700 billion yuan medium-term lending facility operation today
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation today
   - [japan] Japan bond yields edge higher before key central bank meets
@@ -32,6 +35,7 @@ Total: 3000 manchetes
   - [china] Key facts: Meituan Class B (3690) plans 5-/10-yr CNY bond; Moody's Baa1
   - [korea] Sk Hynix Considering Various Ways On Shareholder Return Plans
   - [korea] SK Hynix's Halt to Potential Solidigm U.S. IPO Positive for Shares — Market Talk
+  - [japan] What's New October, 2026 : Ministry of Finance
   - [korea] SK Hynix is said to plan $12B special dividend from Kioxia investment
   - [china] Meituan mandates banks for offshore yuan bond sale to refinance debt
   - [japan] BOJ Tipped to Hold Rates Despite High Inflation — Market Talk
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Consumption tax reduction bill Ruling party looks for passage time Opposition parties clarify recipients of su
   - [taiwan] The United States: It has assisted Gulf countries in exporting 1.5 billion barrels of crude oil through the St
   - [japan] Amazing venture [29] Beff/Horizontal division of labor for batteries like semiconductors | Business | Toyo Kei
-  - [japan] Japan Week Ahead: BOJ Set to Leave Rate at 1.25% as Mission Shifts from Normalizing Super-Low Rates to Keeping
-  - [korea] Osong beauty expo draws nearly $100m in export deals
-  - [korea] AI money shifts from chips to software, exposing Korea’s lack of alternatives
-  - [japan] [Breaking news] Fukushima prefecture gubernatorial election exit poll results
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T02:32:43+00:00",
+      "published_utc": "2026-10-26T02:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
