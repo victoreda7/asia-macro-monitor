@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T07:42:46.287513+00:00
+Última coleta: 2026-10-26T07:52:42.628097+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          979
-  🇨🇳 China          859
+  🇯🇵 Japão          980
+  🇨🇳 China          858
   🇹🇼 Taiwan         373
   🇰🇷 Coreia do Sul  789
 
 ## O que já está no feed (não repita)
 
+  - [japan] Sumitomo Life to remain cautious on JGB yields, keep investment pace unchanged from H1
   - [korea] Industrial Bank Of Korea Q3 Operating Profit 1 Trln Won, Up 5.6% From Year Earlier
   - [taiwan] Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International
   - [japan] Stock prices fall Sell orders centered on semiconductor-related stocks
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] A SK Hynix anunciará, nesta quarta-feira, medidas para aumentar o retorno aos acionistas
   - [korea] SK Hynix to announce steps to boost shareholder returns on Wednesday
   - [japan] Amazing Venture [39] Patentix/Next Generation Power Semiconductor with Energy Saving | Business | Toyo Keizai 
-  - [korea] The U.S. Dairy Export Council (USDEC) participated in the session under the theme of "The Future of
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T07:42:46+00:00",
+      "published_utc": "2026-10-26T07:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
