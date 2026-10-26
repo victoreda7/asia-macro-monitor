@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-26T05:02:42.850152+00:00",
- "collected_at_utc": "2026-10-26T05:02:42.850152+00:00",
+ "generated_at_utc": "2026-10-26T05:12:43.513536+00:00",
+ "collected_at_utc": "2026-10-26T05:12:43.513536+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 986,
+  "japan": 987,
   "china": 854,
   "taiwan": 372,
-  "korea": 788
+  "korea": 787
  },
  "elapsed_s": 29.6,
  "sources": [
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T04:07:00+00:00"
+   "newest": "2026-10-26T04:23:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
    "newest": "2026-10-25T09:07:00+00:00"
   },
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T13:18:43+09:00"
+   "newest": "2026-10-26T14:11:06+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T05:01:10+00:00"
+   "newest": "2026-10-26T05:12:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T02:30:48+00:00"
+   "newest": "2026-10-26T05:05:00+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "Why is Japan tightening its immigration rules?",
+   "url": "https://asia.nikkei.com/video/why-is-japan-tightening-its-immigration-rules",
+   "published_utc": "2026-10-26T05:12:43.007178+00:00",
+   "title_original": "Why is Japan tightening its immigration rules?",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "72625907d7afb066"
+  },
   {
    "source_id": "investing_fx",
    "source_name": "Investing Forex",
@@ -2635,24 +2652,6 @@
    "id": "c0606821eacd5484"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
-   "published_utc": "2026-10-23T12:38:12+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d3a519ddfcdc2da"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -2668,6 +2667,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
+   "published_utc": "2026-10-23T12:32:55+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51889,23 +51906,6 @@
    "live_wire": true,
    "manual": false,
    "id": "aebbd300d845893f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Retail Sales Fall Again in August",
-   "url": "https://www.tradingview.com/news/te_news:587859:0-south-korea-retail-sales-fall-again-in-august/",
-   "published_utc": "2026-09-29T23:33:12+00:00",
-   "title_original": "South Korea Retail Sales Fall Again in August",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5e7b8729eb3ec9ee"
   },
   {
    "source_id": "manual_ia",
