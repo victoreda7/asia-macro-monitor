@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T09:32:42.881497+00:00
+Última coleta: 2026-10-26T09:42:44.565765+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          979
-  🇨🇳 China          854
+  🇨🇳 China          853
   🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  793
+  🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
@@ -26,7 +26,9 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Industrial Output Growth Eases to 4-Month Low
   - [china] China stocks end flat as investors turn cautious before key central bank meetings
   - [korea] Industrial Bank of Korea: SME growth and higher interest income offset rising credit costs and weaker subsidia
+  - [korea] The Bank of Korea warned that if U.S. big tech companies' investment in artificial intelligence (AI)..
   - [korea] Due to the boom in artificial intelligence (AI) semiconductors, the Korean economy's external report..
+  - [korea] The difference in housing prices owned by the top 20% of Korea's national assets and the bottom 20%
   - [china] XTC New Energy Materials Xiamen's Unit Plans To Invest 722.5 Million Yuan In Project
   - [korea] Korea's export front is on alert as the European Union (EU) raises trade barriers with carbon neutra..
   - [korea] Amid the strong won (the weak dollar), the investment strategy of an opportunity to buy dollar-denom..
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Why is Japan tightening its immigration rules?
   - [korea] SK Hynix tests Bear Flag resistance near KRW 1,320,000: Live
   - [korea] South Korean Won Hits 24-month High
-  - [china] Asia FX muted, yuan at 4-yr high; dollar drifts lower ahead of c.bank-packed week
-  - [china] The central bank launched a 700 billion yuan MLF operation on October 26 with a term of one year
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T09:32:43+00:00",
+      "published_utc": "2026-10-26T09:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

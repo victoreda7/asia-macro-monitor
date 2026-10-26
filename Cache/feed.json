@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T09:32:42.881497+00:00",
- "collected_at_utc": "2026-10-26T09:32:42.881497+00:00",
+ "generated_at_utc": "2026-10-26T09:42:44.565765+00:00",
+ "collected_at_utc": "2026-10-26T09:42:44.565765+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 979,
-  "china": 854,
+  "china": 853,
   "taiwan": 374,
-  "korea": 793
+  "korea": 794
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T09:14:35+00:00"
+   "newest": "2026-10-26T09:34:46+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T09:31:24+00:00"
+   "newest": "2026-10-26T09:41:35+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T09:06:24+00:00"
+   "newest": "2026-10-26T07:01:32+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:42:27+00:00"
+   "newest": "2026-10-26T08:44:59+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -501,6 +501,23 @@
   {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
+   "title_en": "The Bank of Korea warned that if U.S. big tech companies' investment in artificial intelligence (AI)..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzTnBxU3lnYkJyWVhqdk9YekV0VVE5aE9tV3pFNXFfRENnWjBucnA0c2ZpRWlHcXY3QktUS2pndWFCcGpzdXFBUzI4OWtLOFNXcXc?oc=5",
+   "published_utc": "2026-10-26T08:44:59+00:00",
+   "title_original": "The Bank of Korea warned that if U.S. big tech companies' investment in artificial intelligence (AI)..",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4c653033f8e9746f"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
    "title_en": "Due to the boom in artificial intelligence (AI) semiconductors, the Korean economy's external report..",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wY1JkaGpNOG80OGNXdGRROHBUZi1qa1ZpOEF1R3JUR2Z2S2wzaGE0aTc1dUNMd1o2blJscGJWUmxoLUhuNGY0X19zZlp2d25JVXc?oc=5",
    "published_utc": "2026-10-26T08:42:27+00:00",
@@ -514,6 +531,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1b2cf8c5f3fcc678"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The difference in housing prices owned by the top 20% of Korea's national assets and the bottom 20%",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04T0FVN1dZNkVqQU9fVkZZekphS3M1ZkhjRW5rYzNNcVg4eDNmLVRUeVpOWnppSVhUQ2NGM2JXYXRubm0zaFlJY0Nvbzc2NkVuR0E?oc=5",
+   "published_utc": "2026-10-26T08:42:26+00:00",
+   "title_original": "The difference in housing prices owned by the top 20% of Korea's national assets and the bottom 20%",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8b553ec077aa9e91"
   },
   {
    "source_id": "tradingview_live",
@@ -51872,42 +51906,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3276ce83dd45c66b"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "The Standing Committee of the State Council has made major arrangements! The central bank, the Ministry of Finance, etc. take action! Adjust and improve several monetary policy tools",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGQxUmhhZWdreUcySkwwSXBmQnltbmIzbkhqX3pnN3QtLVRCUWtWMjNPSmJlY2dXZlFBYlZ1ZnVJcW5LdVhobEN4SDkwUTJzcXZYN1FBWGRPSHJzV1pDaENLV0U2YzYwaC1sU2VsdHVmNFp1T2VwdmFHeFFDZnVyUVFUNmdfc1BoeWRUdQ?oc=5",
-   "published_utc": "2026-09-30T03:01:00+00:00",
-   "title_original": "国常会重磅部署！央行、财政部等出手！调整完善若干货币政策工具",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9e5ec06cffbe92e2"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "이데일리",
-   "title_en": "“We raised the base interest rate in August as well”… Why did deposit and savings interest rates fall?",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS2NYQzhvV2pkLV85MmdRMVk4elhxdU5zUzFfUEJ0SXVvRTFMVUNUMzdIQ20waGdDdUI0bnd6V3BLTG9mTXF0azVQbjRJZnluV0tyZU1RcnlMbWY5dV9PYjFnenFuaEhwZFFMYXpZZkF1UlM1TnJNNTZ6bzB0UzJwWA?oc=5",
-   "published_utc": "2026-09-30T03:00:19+00:00",
-   "title_original": "\"8월에도 기준금리 올렸는데\"…예·적금 금리는 왜 떨어졌나",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "44763fda4d3a2a74"
   },
   {
    "source_id": "manual_ia",
