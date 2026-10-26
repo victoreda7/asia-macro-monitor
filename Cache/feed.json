@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T09:02:44.440946+00:00",
- "collected_at_utc": "2026-10-26T09:02:44.440946+00:00",
+ "generated_at_utc": "2026-10-26T09:12:45.034853+00:00",
+ "collected_at_utc": "2026-10-26T09:12:45.034853+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 977,
+  "japan": 978,
   "china": 854,
   "taiwan": 373,
-  "korea": 796
+  "korea": 795
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T07:00:00+00:00"
+   "newest": "2026-10-26T08:12:02+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T17:29:49+09:00"
+   "newest": "2026-10-26T18:06:02+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T17:11:22+09:00"
+   "newest": "2026-10-26T18:01:35+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-26T05:49:19+00:00"
+   "newest": "2026-10-26T09:07:52+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:26:58+00:00"
+   "newest": "2026-10-25T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T08:52:08+00:00"
+   "newest": "2026-10-26T09:12:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T07:27:00+00:00"
+   "newest": "2026-10-26T04:26:11+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -345,6 +345,74 @@
  "items": [
   {
    "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Vt Co Ltd To Acquire Real Estate Worth 79 Billion Won",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46A0DO:0-vt-co-ltd-to-acquire-real-estate-worth-79-billion-won/",
+   "published_utc": "2026-10-26T09:12:07+00:00",
+   "title_original": "Vt Co Ltd To Acquire Real Estate Worth 79 Billion Won",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "49733b0dfbc48686"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Beijing Wantai Biological Pharmacy Q3 Net Loss At 102.5 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46C0JT:0-beijing-wantai-biological-pharmacy-q3-net-loss-at-102-5-million-yuan/",
+   "published_utc": "2026-10-26T09:08:00+00:00",
+   "title_original": "Beijing Wantai Biological Pharmacy Q3 Net Loss At 102.5 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b2c4dd7b1f650cc0"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China stocks end flat as investors turn cautious before key central bank meetings",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46C08P:0-china-stocks-end-flat-as-investors-turn-cautious-before-key-central-bank-meetings/",
+   "published_utc": "2026-10-26T08:53:56+00:00",
+   "title_original": "China stocks end flat as investors turn cautious before key central bank meetings",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "569032ad88de416b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46C045:0-japan-auto-union-group-looks-beyond-inflation-linked-pay-hikes-for-2027-talks/",
+   "published_utc": "2026-10-26T08:53:22+00:00",
+   "title_original": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2b457e0ab5ea892d"
+  },
+  {
+   "source_id": "tradingview_live",
    "source_name": "Quartr",
    "title_en": "Industrial Bank of Korea: SME growth and higher interest income offset rising credit costs and weaker subsidiary earnings",
    "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4281486:0-industrial-bank-of-korea-sme-growth-and-higher-interest-income-offset-rising-credit-costs-and-weaker-subsidiary-earnings/",
@@ -411,6 +479,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f9093726480c6054"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Amid the strong won (the weak dollar), the investment strategy of an opportunity to buy dollar-denom..",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLT2FBYnVaRE9PeWFZMEF0X1d6NjZ5b1ZGcmZMRWswS1pwVnFDemdPaGJVbTZtTkZHRTJyVTRUYmtIOEpjS0FlSy0tSVJPRWNP?oc=5",
+   "published_utc": "2026-10-26T08:33:45+00:00",
+   "title_original": "Amid the strong won (the weak dollar), the investment strategy of an opportunity to buy dollar-denom..",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0da31c0c99aa5cbf"
   },
   {
    "source_id": "gn_kr_mk",
@@ -1549,57 +1634,6 @@
    "id": "b81937ff47cc8c4b"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Key facts: Meituan Class B (3690) plans 5-/10-yr CNY bond; Moody's Baa1",
-   "url": "https://www.tradingview.com/news/tradingview:7a69a5bd59157:0-key-facts-meituan-class-b-3690-plans-5-10-yr-cny-bond-moody-s-baa1/",
-   "published_utc": "2026-10-26T01:00:00+00:00",
-   "title_original": "Key facts: Meituan Class B (3690) plans 5-/10-yr CNY bond; Moody's Baa1",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5ab6a5a0f707229e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Sk Hynix Considering Various Ways On Shareholder Return Plans",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46A06I:0-sk-hynix-considering-various-ways-on-shareholder-return-plans/",
-   "published_utc": "2026-10-26T00:59:59+00:00",
-   "title_original": "Sk Hynix Considering Various Ways On Shareholder Return Plans",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3598ca917911ed7f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "SK Hynix's Halt to Potential Solidigm U.S. IPO Positive for Shares — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261025000775:0-sk-hynix-s-halt-to-potential-solidigm-u-s-ipo-positive-for-shares-market-talk/",
-   "published_utc": "2026-10-26T00:57:00+00:00",
-   "title_original": "SK Hynix's Halt to Potential Solidigm U.S. IPO Positive for Shares — Market Talk",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "add0e77f9d9432c8"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "财联社",
    "title_en": "Bond market early participation, October 26 | Some new local government debt limits next year will be issued in advance; the central bank will launch a 700 billion yuan MLF operation today",
@@ -1634,23 +1668,6 @@
    "live_wire": false,
    "manual": false,
    "id": "816a8b781a3d4bd5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "SK Hynix is said to plan $12B special dividend from Kioxia investment",
-   "url": "https://www.tradingview.com/news/seekingalpha:2ba418edc094b:0-sk-hynix-is-said-to-plan-12b-special-dividend-from-kioxia-investment/",
-   "published_utc": "2026-10-26T00:33:22+00:00",
-   "title_original": "SK Hynix is said to plan $12B special dividend from Kioxia investment",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "eb35ef91d43e7070"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -12498,23 +12515,6 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺",
-   "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1bUlWbk81QVNIdjBWdl9xLWR5Z3dpcng2TG9DTjZRRFlBanZvSmh1NnF4RllUZ2FWZEU1OFRkdlRfQ0g1OGtNX0laQ3JaU1NGYXF3eWFjOXBBZlliYVE?oc=5",
-   "published_utc": "2026-10-20T05:21:26+00:00",
-   "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2145711a371044cd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYRENCTElBUWY0VlJyYmlCZlJtRXZwZGJyVHhrLVp2bGVTNE1jNHhmSk1lZkJLbUkzdHc5UzdSVzEtQ2RCUDNEcDNSMWVmVTlhMGhCRzNoQnFZQTg1QlNaTURXTGZpQQ?oc=5",
@@ -12547,6 +12547,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2e0f290e3e73bd70"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "观察者网",
+   "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
+   "published_utc": "2026-10-20T05:07:00+00:00",
+   "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "50e1092b7ea2ed64"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51891,23 +51908,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5ab9043d1f498d74"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.eastmoney.com",
-   "title_en": "The central bank’s 7-day reverse repurchase operation volume on September 30 was zero",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVFNuSFNTOWh2WTNvSmEwc2RjLWIySFJCSzdhSllQMmdGMkNhNnY1WjJ4emp0ejZzTjB6QTNEWjdLNGVsNlFvaVI1S1c5cmE2SzRrWGptY0RKOC1WdW5GSTM4Y0tjUQ?oc=5",
-   "published_utc": "2026-09-30T02:32:05+00:00",
-   "title_original": "央行9月30日7天期逆回购操作量为零",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ddd190991187b503"
   },
   {
    "source_id": "manual_ia",

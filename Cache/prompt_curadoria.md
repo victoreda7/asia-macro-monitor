@@ -7,20 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T09:02:44.440946+00:00
+Última coleta: 2026-10-26T09:12:45.034853+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          977
+  🇯🇵 Japão          978
   🇨🇳 China          854
   🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  796
+  🇰🇷 Coreia do Sul  795
 
 ## O que já está no feed (não repita)
 
+  - [korea] Vt Co Ltd To Acquire Real Estate Worth 79 Billion Won
+  - [china] Beijing Wantai Biological Pharmacy Q3 Net Loss At 102.5 Million Yuan
+  - [china] China stocks end flat as investors turn cautious before key central bank meetings
+  - [japan] Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks
   - [korea] Industrial Bank of Korea: SME growth and higher interest income offset rising credit costs and weaker subsidia
   - [korea] Due to the boom in artificial intelligence (AI) semiconductors, the Korean economy's external report..
   - [china] XTC New Energy Materials Xiamen's Unit Plans To Invest 722.5 Million Yuan In Project
   - [korea] Korea's export front is on alert as the European Union (EU) raises trade barriers with carbon neutra..
+  - [korea] Amid the strong won (the weak dollar), the investment strategy of an opportunity to buy dollar-denom..
   - [korea] Shipbuilders’ earnings rise and fall with their ‘currency-hedging strategies’
   - [china] Shenzhen Envicool Technology: Strong revenue growth was offset by lower 9M earnings and shipment timing delays
   - [korea] Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report
   - [china] China stocks slip as tech shares lead declines, before key central bank meetings
   - [japan] Future “Regulatory reform for AI utilization and countermeasures against “AI unemployment”” Recommendations to
-  - [china] China's Humanoid Shipment Volumes Likely to Remain Modest — Market Talk
-  - [china] China National Team ETFs Draw Most Inflows Since Trade War Rout
-  - [japan] Bank of Japan’s hawkish pause to leave scope for December hike
-  - [china] China’s yuan climbs to fresh 4-year high ahead of key policy meetings
-  - [taiwan] New Taiwan Dollar Likely to Rebound After Recent Slump — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T09:02:44+00:00",
+      "published_utc": "2026-10-26T09:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
