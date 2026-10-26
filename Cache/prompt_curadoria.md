@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T03:22:42.529152+00:00
+Última coleta: 2026-10-26T03:32:42.114642+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          988
+  🇯🇵 Japão          990
   🇨🇳 China          851
-  🇹🇼 Taiwan         372
-  🇰🇷 Coreia do Sul  789
+  🇹🇼 Taiwan         371
+  🇰🇷 Coreia do Sul  788
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock prices fall Sell orders centered on semiconductor-related stocks
   - [taiwan] New Taiwan Dollar Likely to Rebound After Recent Slump — Market Talk
   - [korea] South Korea 3Q GDP Growth Likely Accelerated Sequentially, Poll Shows — Market Talk
+  - [japan] Yen Holds Steady Ahead of BOJ Policy Meeting
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 b
   - [china] This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 bi
   - [china] The central bank launches 700 billion yuan 1-year MLF operation
@@ -30,6 +32,7 @@ Total: 3000 manchetes
   - [china] The central bank launched a 700 billion yuan medium-term lending facility operation today
   - [korea] Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation today
+  - [japan] Currency markets subdued ahead of pivotal central bank week
   - [japan] Japan bond yields edge higher before key central bank meets
   - [japan] Trump's approval rating is at an all-time low, but white Christian evangelicals still form a solid support bas
   - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO MON
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Nikkei Likely Rangebound Amid Concerns About High Energy Costs — Market Talk
   - [japan] Goldman Says Yen Becoming Better Hedge Against AI Market Shock
   - [china] China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep
-  - [china] Weekly Recap: DeepSkill 370k+ tools and DeepSeek ~100bn yuan funding
-  - [china] Why China’s stimulus keeps missing the mark: Manishi Raychaudhuri
-  - [china] Why Xi Is Using China’s Fifth Plenum to Tighten Party Control
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T03:22:42+00:00",
+      "published_utc": "2026-10-26T03:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
