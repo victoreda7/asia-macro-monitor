@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T18:42:43.374860+00:00",
- "collected_at_utc": "2026-10-26T18:42:43.374860+00:00",
+ "generated_at_utc": "2026-10-26T18:52:45.543443+00:00",
+ "collected_at_utc": "2026-10-26T18:52:45.543443+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 981,
-  "china": 849,
+  "china": 850,
   "taiwan": 376,
-  "korea": 794
+  "korea": 793
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 41,
+   "count": 26,
    "error": "",
-   "newest": "2026-10-26T22:17:46+08:00"
+   "newest": "2026-10-26T23:54:49+08:00"
   },
   {
    "source_id": "investing_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T18:41:18+00:00"
+   "newest": "2026-10-26T18:52:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T13:28:37+00:00"
+   "newest": "2026-10-26T16:29:29+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-26T12:19:40+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China halts beef imports from MBRF plant in Brazil, CNN reports",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S0N45U06F:0-china-halts-beef-imports-from-mbrf-plant-in-brazil-cnn-reports/",
+   "published_utc": "2026-10-26T18:32:49+00:00",
+   "title_original": "China halts beef imports from MBRF plant in Brazil, CNN reports",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "01678a63898268e6"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1442,23 +1459,6 @@
    "id": "ecaa6ce4016d9ee4"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea's Lee says unlikely to join Pacific trade pact within his term",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46C0AV:0-south-korea-s-lee-says-unlikely-to-join-pacific-trade-pact-within-his-term/",
-   "published_utc": "2026-10-26T05:51:37+00:00",
-   "title_original": "South Korea's Lee says unlikely to join Pacific trade pact within his term",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "067b80a6dffb5b01"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Hyundai Glovis partners with Shopee to boost K-beauty exports",
@@ -1704,7 +1704,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53amxBcmVuSFR3amxLQThXNVcwWnFRVl9IU2Z0QWVTWGRFLXpGTElFbHJUNEJwUGx0blMtYmw5SUd5XzFDS0lZaTM3UG10S2VHOXBKVkR0bi1RU1JMbHBNZTRB?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -1716,7 +1716,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "637fb07118250770"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1756,7 +1756,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 billion yuan of MLF expires.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14YnZJVThIRTl5M240ZE54VWVlVEh5ZTZob2hTdTE1c3ltUTdzdXA3MEZUUGd4eWo4SHRrbnRCZmJZOWxlRTdsbWFsc1RCNWk5VHBYV0hZNi1YelowbHpVQnh3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95Z19yZUlkamFRWjlmcjNXYVJmUXVhbWczbEsyS1lWVnlDYVdVZWt6N0FqaGUxQjlocWlwN3lZM1gtOXphQmNEdGJScWNGdw?oc=5",
    "published_utc": "2026-10-26T02:57:10+00:00",
    "title_original": "本周央行公开市场逆回购到期3380亿元 周二9000亿元MLF到期",
    "region": "china",
@@ -1768,7 +1768,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50b41cccc95aaa06"
+   "id": "e21ee44288074ab5"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5151,8 +5151,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -5166,7 +5166,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5237,8 +5237,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -5251,7 +5251,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -12967,6 +12967,23 @@
   },
   {
    "source_id": "gn_cn_pboc",
+   "source_name": "同花顺财经",
+   "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1bUlWbk81QVNIdjBWdl9xLWR5Z3dpcng2TG9DTjZRRFlBanZvSmh1NnF4RllUZ2FWZEU1OFRkdlRfQ0g1OGtNX0laQ3JaU1NGYXF3eWFjOXBBZlliYVE?oc=5",
+   "published_utc": "2026-10-20T05:21:26+00:00",
+   "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "2145711a371044cd"
+  },
+  {
+   "source_id": "gn_cn_pboc",
    "source_name": "东方财富",
    "title_en": "No more than 1 trillion per day! The central bank will carry out overnight reverse repos for nine consecutive working days",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYRENCTElBUWY0VlJyYmlCZlJtRXZwZGJyVHhrLVp2bGVTNE1jNHhmSk1lZkJLbUkzdHc5UzdSVzEtQ2RCUDNEcDNSMWVmVTlhMGhCRzNoQnFZQTg1QlNaTURXTGZpQQ?oc=5",
@@ -12999,23 +13016,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2e0f290e3e73bd70"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观察者网",
-   "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGo3UHE2WHhjX0RlV0w3UlR2VTR4eC1YQUNUb2l2OTFyNTBkVG5TYWlBUUI5WXFJVWl1RENIM2FzNllWTXUzMHVTempsRjBFbVA2c0taTGpweTdHYlNGaVBHX3Q4NDhIcFE?oc=5",
-   "published_utc": "2026-10-20T05:07:00+00:00",
-   "title_original": "央行明起开展每日限额1万亿隔夜逆回购",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "50e1092b7ea2ed64"
   },
   {
    "source_id": "gn_jp_investing",
