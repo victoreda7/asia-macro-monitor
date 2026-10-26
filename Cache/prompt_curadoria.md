@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T16:52:44.534904+00:00
+Última coleta: 2026-10-26T17:02:44.207760+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          981
-  🇨🇳 China          851
-  🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  793
+  🇨🇳 China          849
+  🇹🇼 Taiwan         376
+  🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix Q3 earnings on deck: What to expect
   - [japan] Preview: Forecasters See Tokyo CPI Staying Well above BOJ’s 2% Target in October
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 195.93, Implies 35% Upside
   - [japan] Dollar rebounds as euro slips ahead of key central bank decisions
+  - [taiwan] Anthropic Highlights Disruptions to TSMC Operations as a Risk
   - [japan] Japan to back perovskite solar cell mass production with $640m in subsidies
   - [china] Shanghai Iluvatar Corex Semiconductor Granted Aggregate Banking Facilities Of Over Rmb12 Billion, As At Oct 26
   - [china] EU Plans to Hit China With More Import Curbs in Early 2027
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Director Choi Chang-ho appointed as Bank of Korea's new Assistant Vice President for Monetary Policy and Marke
   - [china] XTC New Energy Materials Xiamen's Unit Plans To Invest 722.5 Million Yuan In Project
   - [korea] Korea's export front is on alert as the European Union (EU) raises trade barriers with carbon neutra..
-  - [korea] Amid the strong won (the weak dollar), the investment strategy of an opportunity to buy dollar-denom..
-  - [korea] Shipbuilders’ earnings rise and fall with their ‘currency-hedging strategies’
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T16:52:44+00:00",
+      "published_utc": "2026-10-26T17:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
