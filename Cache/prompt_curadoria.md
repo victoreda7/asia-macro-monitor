@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T03:02:43.082969+00:00
+Última coleta: 2026-10-26T03:12:43.368727+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          989
+  🇯🇵 Japão          988
   🇨🇳 China          851
-  🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  787
+  🇹🇼 Taiwan         371
+  🇰🇷 Coreia do Sul  790
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea 3Q GDP Growth Likely Accelerated Sequentially, Poll Shows — Market Talk
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 b
   - [china] This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 bi
+  - [china] The central bank launches 700 billion yuan 1-year MLF operation
+  - [korea] SK Hynix Stock Rises: Korean Memory Giant Reportedly Weighs $12B Special Dividend From Kioxia Gains
   - [korea] A SK Hynix anunciará, nesta quarta-feira, medidas para aumentar o retorno aos acionistas
   - [korea] SK Hynix to announce steps to boost shareholder returns on Wednesday
   - [japan] Amazing Venture [39] Patentix/Next Generation Power Semiconductor with Energy Saving | Business | Toyo Keizai 
+  - [korea] The U.S. Dairy Export Council (USDEC) participated in the session under the theme of "The Future of
   - [china] The central bank launched a 700 billion yuan medium-term lending facility operation today
   - [korea] Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation today
@@ -32,6 +36,7 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7162 MON VS 6.7180
   - [japan] Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)
   - [japan] Japan MOF To Auction Y250.0B Of Nov 2
+  - [korea] SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report
   - [china] Chinese Yuan Hits 4-year High
   - [japan] JGB Yields Higher Amid Concerns About Higher Energy Prices — Market Talk
   - [korea] SK Hynix neutral in no-trade zone, awaiting breakout: Live
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [china] Why Xi Is Using China’s Fifth Plenum to Tighten Party Control
   - [japan] Why aren't wages going up in Japan? The reason why the price increase rate is "companies > consumers" (weekly 
   - [korea] Bank of Korea freezes base interest rate by 3%... Policy interest rates have stopped, market interest rates ar
-  - [korea] North Korea tells UN South fabricated landmine incident, KCNA says
-  - [japan] Life insurance companies plan to replace government bonds due to rise in long-term interest rates
-  - [japan] Bank of Japan October meeting expected to maintain policy, focus on reaching 2% inflation
-  - [japan] Bank of Japan decision meeting & changes in payment methods etc. = Some points to consider in FSR (Hirotoshi K
-  - [japan] Consumption tax reduction bill Ruling party looks for passage time Opposition parties clarify recipients of su
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T03:02:43+00:00",
+      "published_utc": "2026-10-26T03:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
