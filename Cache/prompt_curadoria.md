@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T05:12:43.513536+00:00
+Última coleta: 2026-10-26T05:22:43.480983+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          987
-  🇨🇳 China          854
+  🇯🇵 Japão          988
+  🇨🇳 China          853
   🇹🇼 Taiwan         372
   🇰🇷 Coreia do Sul  787
 
 ## O que já está no feed (não repita)
 
+  - [japan] Prime Minister Takaichi seeks cooperation from ruling party for early passage of consumption tax reduction bil
   - [japan] Why is Japan tightening its immigration rules?
+  - [korea] SK Hynix tests Bear Flag resistance near KRW 1,320,000: Live
+  - [korea] South Korean Won Hits 24-month High
   - [china] Asia FX muted, yuan at 4-yr high; dollar drifts lower ahead of c.bank-packed week
   - [china] The central bank launched a 700 billion yuan MLF operation on October 26 with a term of one year
   - [china] China stocks slip as tech shares lead declines, before key central bank meetings
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report
   - [china] Chinese Yuan Hits 4-year High
   - [japan] JGB Yields Higher Amid Concerns About Higher Energy Prices — Market Talk
-  - [korea] SK Hynix neutral in no-trade zone, awaiting breakout: Live
-  - [china] Key facts: Meituan Class B (3690) plans 5-/10-yr CNY bond; Moody's Baa1
-  - [korea] Sk Hynix Considering Various Ways On Shareholder Return Plans
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T05:12:43+00:00",
+      "published_utc": "2026-10-26T05:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

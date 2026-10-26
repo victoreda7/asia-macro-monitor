@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T05:12:43.513536+00:00",
- "collected_at_utc": "2026-10-26T05:12:43.513536+00:00",
+ "generated_at_utc": "2026-10-26T05:22:43.480983+00:00",
+ "collected_at_utc": "2026-10-26T05:22:43.480983+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 987,
-  "china": 854,
+  "japan": 988,
+  "china": 853,
   "taiwan": 372,
   "korea": 787
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T02:29:00+00:00"
+   "newest": "2026-10-26T04:03:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:44:19+00:00"
+   "newest": "2026-10-26T02:58:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T04:54:23+00:00"
+   "newest": "2026-10-26T05:13:46+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-24T02:14:26+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T14:11:06+09:00"
+   "newest": "2026-10-26T14:21:07+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T05:12:07+00:00"
+   "newest": "2026-10-26T05:20:25+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T20:46:00+00:00"
+   "newest": "2026-10-26T05:05:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,24 @@
  ],
  "items": [
   {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Prime Minister Takaichi seeks cooperation from ruling party for early passage of consumption tax reduction bill, etc.",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261026de65662",
+   "published_utc": "2026-10-26T05:21:07+00:00",
+   "title_original": "高市首相 消費税減税法案など早期成立に向け与党に協力求める",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "487f289eade68c4d"
+  },
+  {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
    "title_en": "Why is Japan tightening its immigration rules?",
@@ -359,6 +377,41 @@
    "live_wire": false,
    "manual": false,
    "id": "72625907d7afb066"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK Hynix tests Bear Flag resistance near KRW 1,320,000: Live",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
+   "published_utc": "2026-10-26T05:07:01+00:00",
+   "title_original": "SK Hynix tests Bear Flag resistance near KRW 1,320,000: Live",
+   "region": "korea",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "002e6f70122192bf"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "South Korean Won Hits 24-month High",
+   "url": "https://www.tradingview.com/news/te_news:594887:0-south-korean-won-hits-24-month-high/",
+   "published_utc": "2026-10-26T05:01:16+00:00",
+   "title_original": "South Korean Won Hits 24-month High",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bb41053585d97d37"
   },
   {
    "source_id": "investing_fx",
@@ -980,23 +1033,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b81937ff47cc8c4b"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "SK Hynix neutral in no-trade zone, awaiting breakout: Live",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
-   "published_utc": "2026-10-26T01:06:55+00:00",
-   "title_original": "SK Hynix neutral in no-trade zone, awaiting breakout: Live",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e679e8a0257e344b"
   },
   {
    "source_id": "tradingview_live",
@@ -6758,7 +6794,7 @@
    "id": "3cf9b35dd6ff65d3"
   },
   {
-   "source_id": "gn_jp_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Breakingviews - COMMENTARY: Japan's strong-armed $21 bln chip bet is low risk",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFBYZ1dqLXJ5X3BsNjR4dFlsY2VrX0VPN1AxZ0VEaE96UlhKSjVOUEtFa2NWUGEyN0VDRnNfODdhaFdJdjl5LUctbDkwaWNPRWJwRldrU0h4d3dXOTZEaVpqcjI1QW5YSldxVllQc2Mxc25kLUlOclFaWXY5S2hNVUdYY0Z6ekhHUnItWjFudlpmLUxQOGc3SzJ4N0lFb0VFdlVVV1JCY2Y5dy1Q?oc=5",
@@ -6772,7 +6808,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ee5be7be07b30af5"
+   "id": "12df48a92ffb874e"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51872,40 +51908,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cebb8325e5b33262"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China promete reagir caso UE adote medidas que visem comércio chinês",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45L1D9:0/",
-   "published_utc": "2026-09-29T23:40:10+00:00",
-   "title_original": "China promete reagir caso UE adote medidas que visem comércio chinês",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e2f882c894926003"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "AMD CEO Lisa Su Reportedly to Visit South Korea Next Month for Semiconductor Meeting",
-   "url": "https://www.tradingview.com/news/binance_news:913883e12094b:0-amd-ceo-lisa-su-reportedly-to-visit-south-korea-next-month-for-semiconductor-meeting/",
-   "published_utc": "2026-09-29T23:39:54+00:00",
-   "title_original": "AMD CEO Lisa Su Reportedly to Visit South Korea Next Month for Semiconductor Meeting",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "aebbd300d845893f"
   },
   {
    "source_id": "manual_ia",
