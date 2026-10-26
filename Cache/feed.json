@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T11:42:42.728181+00:00",
- "collected_at_utc": "2026-10-26T11:42:42.728181+00:00",
+ "generated_at_utc": "2026-10-26T11:52:43.371514+00:00",
+ "collected_at_utc": "2026-10-26T11:52:43.371514+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 980,
-  "china": 853,
-  "taiwan": 374,
-  "korea": 793
+  "japan": 979,
+  "china": 854,
+  "taiwan": 373,
+  "korea": 794
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T23:51:42+00:00"
+   "newest": "2026-10-26T00:50:33+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T20:19:23+09:00"
+   "newest": "2026-10-26T20:43:23+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T11:41:49+00:00"
+   "newest": "2026-10-26T11:52:26+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T09:59:16+00:00"
+   "newest": "2026-10-26T10:22:02+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T22:30:00+00:00"
+   "newest": "2026-10-26T08:38:46+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China XLX Fertiliser nine-month profit rises on export growth",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46C0EJ:0-china-xlx-fertiliser-nine-month-profit-rises-on-export-growth/",
+   "published_utc": "2026-10-26T11:48:41+00:00",
+   "title_original": "China XLX Fertiliser nine-month profit rises on export growth",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c29875094ad036d7"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -718,6 +735,24 @@
    "live_wire": false,
    "manual": false,
    "id": "8b553ec077aa9e91"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합인포맥스",
+   "title_en": "Director Choi Chang-ho appointed as Bank of Korea's new Assistant Vice President for Monetary Policy and Markets",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGYnVwTEM5TGZrWGhGN0U0NlpCdlNJU1RKeURsU2l4TnRUX2NYVEpoNTNVcFdDc0FONjJub182OHpxTlJCLWdabHJoVkJHT0dyaDU4eHF1ekp3N0ZwbnVzRlMwY1NQLTlWb3dCR0ZCeUc?oc=5",
+   "published_utc": "2026-10-26T08:38:46+00:00",
+   "title_original": "한국은행 신임 통화정책·시장 담당 부총재보에 최창호 국장",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "05ae6a34237b983c"
   },
   {
    "source_id": "tradingview_live",
@@ -1421,25 +1456,6 @@
    "id": "4a1c01b8bfe58322"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Yen Holds Steady Ahead of BOJ Policy Meeting",
-   "url": "https://www.tradingview.com/news/te_news:594839:0-yen-holds-steady-ahead-of-boj-policy-meeting/",
-   "published_utc": "2026-10-26T03:11:40+00:00",
-   "title_original": "Yen Holds Steady Ahead of BOJ Policy Meeting",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "aae2d4968281c641"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks expected to maintain tight lending standards in Q4: BOK survey",
@@ -1460,7 +1476,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53amxBcmVuSFR3amxLQThXNVcwWnFRVl9IU2Z0QWVTWGRFLXpGTElFbHJUNEJwUGx0blMtYmw5SUd5XzFDS0lZaTM3UG10S2VHOXBKVkR0bi1RU1JMbHBNZTRB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -1472,7 +1488,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "637fb07118250770"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51888,23 +51904,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0db7f26b3e34f0bd"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Foundry 2.0 revenue hits record as growth spreads beyond TSMC",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUNNM0JMVFlMYlNjbXdxbWlIUVRTRzZfOUlZS1h4djZIMklrVTlHaXI0NnFwLXNpbEcyZkxrSmlNNktBT05wM3Nud0xsQzdaaU04a3hVU1JLVWpRcnVmLS1IcjNHWG55c2VsTzZyVmJ0alFVZVg3RDRhWGV2RWdPc1VzNk02dFR2VXNaVEZVYw?oc=5",
-   "published_utc": "2026-09-30T03:29:34+00:00",
-   "title_original": "Foundry 2.0 revenue hits record as growth spreads beyond TSMC",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "98e8a22fc8dab0e4"
   },
   {
    "source_id": "manual_ia",

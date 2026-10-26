@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T11:42:42.728181+00:00
+Última coleta: 2026-10-26T11:52:43.371514+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          980
-  🇨🇳 China          853
-  🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  793
+  🇯🇵 Japão          979
+  🇨🇳 China          854
+  🇹🇼 Taiwan         373
+  🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
+  - [china] China XLX Fertiliser nine-month profit rises on export growth
   - [china] Zhejiang Jiemei Electronic and Technology Plans To Invest 2.7 Billion Yuan In Project
   - [korea] SK hynix Inc. expected to post earnings of $6.00 a share - Earnings Preview
   - [korea] SK hynix Price Target Cut to $250.00/Share From $300.00 by Cantor Fitzgerald
@@ -39,6 +40,7 @@ Total: 3000 manchetes
   - [korea] The Bank of Korea warned that if U.S. big tech companies' investment in artificial intelligence (AI)..
   - [korea] Due to the boom in artificial intelligence (AI) semiconductors, the Korean economy's external report..
   - [korea] The difference in housing prices owned by the top 20% of Korea's national assets and the bottom 20%
+  - [korea] Director Choi Chang-ho appointed as Bank of Korea's new Assistant Vice President for Monetary Policy and Marke
   - [china] XTC New Energy Materials Xiamen's Unit Plans To Invest 722.5 Million Yuan In Project
   - [korea] Korea's export front is on alert as the European Union (EU) raises trade barriers with carbon neutra..
   - [korea] Amid the strong won (the weak dollar), the investment strategy of an opportunity to buy dollar-denom..
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International
   - [japan] Stock prices fall Sell orders centered on semiconductor-related stocks
   - [japan] The misunderstanding of “Japan’s fiscal deterioration theory” and the paradoxical structure of Japan-US policy
-  - [korea] It was found that the top 1% of stock investment returns also bought SK Hynix and Samsung Electronic..
-  - [japan] Shin-Etsu Polymer Co Ltd - To Buy Back Up To 0.56% Of Own Shares Worth 1.25 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T11:42:42+00:00",
+      "published_utc": "2026-10-26T11:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
