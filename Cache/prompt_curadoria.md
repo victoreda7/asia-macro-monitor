@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T05:52:43.448341+00:00
+Última coleta: 2026-10-26T06:02:42.860821+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          985
-  🇨🇳 China          853
+  🇯🇵 Japão          983
+  🇨🇳 China          854
   🇹🇼 Taiwan         372
-  🇰🇷 Coreia do Sul  790
+  🇰🇷 Coreia do Sul  791
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung may have overtaken SK hynix in HBM revenue, analysis suggests
+  - [china] Beyond exports: China's automakers dig deeper into Europe
   - [korea] South Korea's Lee says unlikely to join Pacific trade pact within his term
   - [korea] Hyundai Glovis partners with Shopee to boost K-beauty exports
   - [korea] Korea Investment Management enters Hong Kong ETF market with chip fund
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Trump's approval rating is at an all-time low, but white Christian evangelicals still form a solid support bas
   - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO MON
   - [china] CHINA PBOC CONDUCTS CNY398 BLN VIA O/N REVERSE REPO MON
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7162 MON VS 6.7180
-  - [japan] Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T05:52:43+00:00",
+      "published_utc": "2026-10-26T06:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
