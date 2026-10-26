@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-26T13:14:07.560587+00:00",
- "collected_at_utc": "2026-10-26T13:14:07.560587+00:00",
+ "generated_at_utc": "2026-10-26T13:24:07.813062+00:00",
+ "collected_at_utc": "2026-10-26T13:24:07.813062+00:00",
  "degraded": false,
- "sources_ok": 39,
+ "sources_ok": 38,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,7 +11,7 @@
   "taiwan": 373,
   "korea": 793
  },
- "elapsed_s": 112.6,
+ "elapsed_s": 112.2,
  "sources": [
   {
    "source_id": "investing_live",
@@ -19,6 +19,14 @@
    "ok": false,
    "count": 0,
    "error": "403 ou layout mudou",
+   "newest": ""
+  },
+  {
+   "source_id": "investing_econ",
+   "name": "Investing Economy",
+   "ok": false,
+   "count": 0,
+   "error": "The read operation timed out",
    "newest": ""
   },
   {
@@ -43,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T11:36:17+00:00"
+   "newest": "2026-10-26T10:30:51+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -84,14 +92,6 @@
    "count": 39,
    "error": "",
    "newest": "2026-10-26T19:54:39+08:00"
-  },
-  {
-   "source_id": "investing_econ",
-   "name": "Investing Economy",
-   "ok": true,
-   "count": 10,
-   "error": "",
-   "newest": "2026-10-26T11:25:02+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T13:11:03+00:00"
+   "newest": "2026-10-26T13:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -1582,7 +1582,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53amxBcmVuSFR3amxLQThXNVcwWnFRVl9IU2Z0QWVTWGRFLXpGTElFbHJUNEJwUGx0blMtYmw5SUd5XzFDS0lZaTM3UG10S2VHOXBKVkR0bi1RU1JMbHBNZTRB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -1594,7 +1594,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "637fb07118250770"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
