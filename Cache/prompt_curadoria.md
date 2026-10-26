@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T03:12:43.368727+00:00
+Última coleta: 2026-10-26T03:22:42.529152+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          988
   🇨🇳 China          851
-  🇹🇼 Taiwan         371
-  🇰🇷 Coreia do Sul  790
+  🇹🇼 Taiwan         372
+  🇰🇷 Coreia do Sul  789
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] New Taiwan Dollar Likely to Rebound After Recent Slump — Market Talk
   - [korea] South Korea 3Q GDP Growth Likely Accelerated Sequentially, Poll Shows — Market Talk
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 b
   - [china] This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 bi
@@ -43,6 +44,7 @@ Total: 3000 manchetes
   - [china] Key facts: Meituan Class B (3690) plans 5-/10-yr CNY bond; Moody's Baa1
   - [korea] Sk Hynix Considering Various Ways On Shareholder Return Plans
   - [korea] SK Hynix's Halt to Potential Solidigm U.S. IPO Positive for Shares — Market Talk
+  - [japan] What's New October, 2026 : Ministry of Finance
   - [korea] SK Hynix is said to plan $12B special dividend from Kioxia investment
   - [china] Meituan mandates banks for offshore yuan bond sale to refinance debt
   - [japan] BOJ Tipped to Hold Rates Despite High Inflation — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Weekly Recap: DeepSkill 370k+ tools and DeepSeek ~100bn yuan funding
   - [china] Why China’s stimulus keeps missing the mark: Manishi Raychaudhuri
   - [china] Why Xi Is Using China’s Fifth Plenum to Tighten Party Control
-  - [japan] Why aren't wages going up in Japan? The reason why the price increase rate is "companies > consumers" (weekly 
-  - [korea] Bank of Korea freezes base interest rate by 3%... Policy interest rates have stopped, market interest rates ar
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T03:12:43+00:00",
+      "published_utc": "2026-10-26T03:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
