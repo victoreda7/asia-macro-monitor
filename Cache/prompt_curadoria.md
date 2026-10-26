@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T04:52:43.526292+00:00
+Última coleta: 2026-10-26T05:02:42.850152+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Asia FX muted, yuan at 4-yr high; dollar drifts lower ahead of c.bank-packed week
   - [china] The central bank launched a 700 billion yuan MLF operation on October 26 with a term of one year
   - [china] China stocks slip as tech shares lead declines, before key central bank meetings
   - [japan] Future “Regulatory reform for AI utilization and countermeasures against “AI unemployment”” Recommendations to
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Key facts: Meituan Class B (3690) plans 5-/10-yr CNY bond; Moody's Baa1
   - [korea] Sk Hynix Considering Various Ways On Shareholder Return Plans
   - [korea] SK Hynix's Halt to Potential Solidigm U.S. IPO Positive for Shares — Market Talk
-  - [korea] SK Hynix is said to plan $12B special dividend from Kioxia investment
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T04:52:43+00:00",
+      "published_utc": "2026-10-26T05:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
