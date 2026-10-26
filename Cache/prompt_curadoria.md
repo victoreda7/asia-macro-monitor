@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T07:02:43.612403+00:00
+Última coleta: 2026-10-26T07:12:44.419587+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          981
-  🇨🇳 China          858
+  🇯🇵 Japão          980
+  🇨🇳 China          859
   🇹🇼 Taiwan         372
   🇰🇷 Coreia do Sul  789
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock prices fall Sell orders centered on semiconductor-related stocks
+  - [japan] The misunderstanding of “Japan’s fiscal deterioration theory” and the paradoxical structure of Japan-US policy
   - [japan] Shin-Etsu Polymer Co Ltd - To Buy Back Up To 0.56% Of Own Shares Worth 1.25 Billion Yen
   - [korea] Inside Henkel's Korean factory making adhesives for AI chips
   - [korea] Samsung may have overtaken SK hynix in HBM revenue, analysis suggests
@@ -38,7 +40,6 @@ Total: 3000 manchetes
   - [china] China National Team ETFs Draw Most Inflows Since Trade War Rout
   - [japan] Bank of Japan’s hawkish pause to leave scope for December hike
   - [china] China’s yuan climbs to fresh 4-year high ahead of key policy meetings
-  - [japan] Stock prices fall Sell orders centered on semiconductor-related stocks
   - [taiwan] New Taiwan Dollar Likely to Rebound After Recent Slump — Market Talk
   - [korea] South Korea 3Q GDP Growth Likely Accelerated Sequentially, Poll Shows — Market Talk
   - [japan] Yen Holds Steady Ahead of BOJ Policy Meeting
@@ -53,10 +54,9 @@ Total: 3000 manchetes
   - [korea] SK Hynix to announce steps to boost shareholder returns on Wednesday
   - [japan] Amazing Venture [39] Patentix/Next Generation Power Semiconductor with Energy Saving | Business | Toyo Keizai 
   - [korea] The U.S. Dairy Export Council (USDEC) participated in the session under the theme of "The Future of
+  - [japan] Currency markets subdued ahead of pivotal central bank week By Reuters
   - [china] The central bank launched a 700 billion yuan medium-term lending facility operation today
   - [korea] Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..
-  - [korea] Major banks have increased their information protection budgets for next year significantly since th..
-  - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T07:02:43+00:00",
+      "published_utc": "2026-10-26T07:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
