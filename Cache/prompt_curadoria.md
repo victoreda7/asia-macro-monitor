@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T08:22:43.581761+00:00
+Última coleta: 2026-10-26T08:32:43.167838+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          979
-  🇨🇳 China          856
+  🇯🇵 Japão          978
+  🇨🇳 China          855
   🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  791
+  🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [korea] Shipbuilders’ earnings rise and fall with their ‘currency-hedging strategies’
+  - [china] Shenzhen Envicool Technology: Strong revenue growth was offset by lower 9M earnings and shipment timing delays
+  - [korea] Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..
   - [korea] Kukdo Chemical Co To Buy Lg Chem's Bpa Manufacturing Facility And Business Unit For 78.4 Billion Won
   - [taiwan] Taiwan Retail Sales Hit Over 2-Year High
   - [korea] Industrial Bank Of Korea Earnings Up In Q3
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Holds Steady Ahead of BOJ Policy Meeting
   - [korea] Banks expected to maintain tight lending standards in Q4: BOK survey
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 b
-  - [taiwan] Taiwan wafer-testing supplier Hermes Testing Solutions commits more than US$215 million to advanced chip testi
-  - [taiwan] Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp
-  - [china] This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 bi
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T08:22:43+00:00",
+      "published_utc": "2026-10-26T08:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
