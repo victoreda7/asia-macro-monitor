@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T09:42:44.565765+00:00
+Última coleta: 2026-10-26T09:52:44.364080+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          979
@@ -54,9 +54,9 @@ Total: 3000 manchetes
   - [korea] Hyundai Glovis partners with Shopee to boost K-beauty exports
   - [korea] Korea Investment Management enters Hong Kong ETF market with chip fund
   - [japan] Prime Minister Takaichi seeks cooperation from ruling party for early passage of consumption tax reduction bil
+  - [japan] BOJ, Fed expected to leave rates unchanged this week
   - [japan] Why is Japan tightening its immigration rules?
   - [korea] SK Hynix tests Bear Flag resistance near KRW 1,320,000: Live
-  - [korea] South Korean Won Hits 24-month High
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T09:42:44+00:00",
+      "published_utc": "2026-10-26T09:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
