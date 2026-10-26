@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T01:22:42.319052+00:00
+Última coleta: 2026-10-26T01:32:43.409838+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          986
-  🇨🇳 China          851
+  🇯🇵 Japão          987
+  🇨🇳 China          849
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  788
+  🇰🇷 Coreia do Sul  789
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan MOF To Auction Y250.0B Of Nov 2
+  - [china] Chinese Yuan Hits 4-year High
   - [japan] JGB Yields Higher Amid Concerns About Higher Energy Prices — Market Talk
+  - [korea] SK Hynix neutral in no-trade zone, awaiting breakout: Live
   - [china] Key facts: Meituan Class B (3690) plans 5-/10-yr CNY bond; Moody's Baa1
   - [korea] Sk Hynix Considering Various Ways On Shareholder Return Plans
   - [korea] SK Hynix's Halt to Potential Solidigm U.S. IPO Positive for Shares — Market Talk
@@ -29,7 +32,7 @@ Total: 3000 manchetes
   - [korea] Korean won's nominal effective rate rises to 2-yr high
   - [china] Meituan Plans to Issue Yuan Denominated Senior Notes
   - [japan] Nikkei Likely Rangebound Amid Concerns About High Energy Costs — Market Talk
-  - [taiwan] The United States: It has assisted Gulf countries in exporting 1.5 billion barrels of crude oil through the St
+  - [japan] Goldman Says Yen Becoming Better Hedge Against AI Market Shock
   - [china] China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep
   - [china] Weekly Recap: DeepSkill 370k+ tools and DeepSeek ~100bn yuan funding
   - [china] Why China’s stimulus keeps missing the mark: Manishi Raychaudhuri
@@ -41,6 +44,7 @@ Total: 3000 manchetes
   - [japan] Bank of Japan October meeting expected to maintain policy, focus on reaching 2% inflation
   - [japan] Bank of Japan decision meeting & changes in payment methods etc. = Some points to consider in FSR (Hirotoshi K
   - [japan] Consumption tax reduction bill Ruling party looks for passage time Opposition parties clarify recipients of su
+  - [taiwan] The United States: It has assisted Gulf countries in exporting 1.5 billion barrels of crude oil through the St
   - [japan] Amazing venture [29] Beff/Horizontal division of labor for batteries like semiconductors | Business | Toyo Kei
   - [japan] Japan Week Ahead: BOJ Set to Leave Rate at 1.25% as Mission Shifts from Normalizing Super-Low Rates to Keeping
   - [korea] Osong beauty expo draws nearly $100m in export deals
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Daan Gene Q3 Net Loss At 19.7 Million Yuan
   - [china] Hengyi Petrochemical Says Q3 Net Profit At 2.1 Billion Yuan
   - [china] DeepSeek and others complete overseas export registration amid China’s AI export controls | Cross-Strait
-  - [china] China's fifth plenum, Jio listing on Indian bourses, BOJ meeting
-  - [korea] Osong beauty expo draws nearly US$100 mln in export deals
-  - [korea] Why Kospi and Korean won have parted ways
-  - [china] China’s tech giants are paying 1 million yuan for a new kind of AI engineer
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T01:22:42+00:00",
+      "published_utc": "2026-10-26T01:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
