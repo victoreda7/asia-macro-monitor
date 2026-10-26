@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T02:52:45.476191+00:00
+Última coleta: 2026-10-26T03:02:43.082969+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          989
-  🇨🇳 China          849
-  🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  788
+  🇨🇳 China          851
+  🇹🇼 Taiwan         373
+  🇰🇷 Coreia do Sul  787
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 b
+  - [china] This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 bi
   - [korea] A SK Hynix anunciará, nesta quarta-feira, medidas para aumentar o retorno aos acionistas
   - [korea] SK Hynix to announce steps to boost shareholder returns on Wednesday
   - [japan] Amazing Venture [39] Patentix/Next Generation Power Semiconductor with Energy Saving | Business | Toyo Keizai 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan October meeting expected to maintain policy, focus on reaching 2% inflation
   - [japan] Bank of Japan decision meeting & changes in payment methods etc. = Some points to consider in FSR (Hirotoshi K
   - [japan] Consumption tax reduction bill Ruling party looks for passage time Opposition parties clarify recipients of su
-  - [taiwan] The United States: It has assisted Gulf countries in exporting 1.5 billion barrels of crude oil through the St
-  - [japan] Amazing venture [29] Beff/Horizontal division of labor for batteries like semiconductors | Business | Toyo Kei
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T02:52:45+00:00",
+      "published_utc": "2026-10-26T03:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
