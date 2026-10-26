@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-26T09:22:46.105496+00:00",
- "collected_at_utc": "2026-10-26T09:22:46.105496+00:00",
+ "generated_at_utc": "2026-10-26T09:32:42.881497+00:00",
+ "collected_at_utc": "2026-10-26T09:32:42.881497+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 979,
   "china": 854,
-  "taiwan": 373,
-  "korea": 794
+  "taiwan": 374,
+  "korea": 793
  },
- "elapsed_s": 32.1,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T05:30:01+00:00"
+   "newest": "2026-10-26T05:30:24+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T18:06:02+09:00"
+   "newest": "2026-10-26T18:22:47+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T18:01:35+09:00"
+   "newest": "2026-10-26T18:31:09+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T09:12:07+00:00"
+   "newest": "2026-10-26T09:31:24+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -346,6 +346,24 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
+   "title_en": "Euro firms against dollar, yen ahead of central bank meetings",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46C0ER:0-euro-firms-against-dollar-yen-ahead-of-central-bank-meetings/",
+   "published_utc": "2026-10-26T09:21:01+00:00",
+   "title_original": "Euro firms against dollar, yen ahead of central bank meetings",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "53a9ba04ed06df16"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
    "title_en": "Vt Co Ltd To Acquire Real Estate Worth 79 Billion Won",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46A0DO:0-vt-co-ltd-to-acquire-real-estate-worth-79-billion-won/",
    "published_utc": "2026-10-26T09:12:07+00:00",
@@ -395,6 +413,23 @@
    "id": "3f20e5bcf5f19e10"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's central bank sets up non-bank financial institution bond market swap facility",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44P09Y:0-china-s-central-bank-sets-up-non-bank-financial-institution-bond-market-swap-facility/",
+   "published_utc": "2026-10-26T09:02:47+00:00",
+   "title_original": "China's central bank sets up non-bank financial institution bond market swap facility",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bcf290620e7c9862"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks",
@@ -410,6 +445,23 @@
    "live_wire": false,
    "manual": false,
    "id": "845fb5482b1c9c7b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Taiwan Industrial Output Growth Eases to 4-Month Low",
+   "url": "https://www.tradingview.com/news/te_news:594989:0-taiwan-industrial-output-growth-eases-to-4-month-low/",
+   "published_utc": "2026-10-26T08:57:29+00:00",
+   "title_original": "Taiwan Industrial Output Growth Eases to 4-Month Low",
+   "region": "taiwan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e852449bb332a68b"
   },
   {
    "source_id": "tradingview_live",
@@ -1632,41 +1684,6 @@
    "live_wire": true,
    "manual": false,
    "id": "55da07145eb14ead"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Chinese Yuan Hits 4-year High",
-   "url": "https://www.tradingview.com/news/te_news:594800:0-chinese-yuan-hits-4-year-high/",
-   "published_utc": "2026-10-26T01:15:42+00:00",
-   "title_original": "Chinese Yuan Hits 4-year High",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d52c43fdb6b15e94"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "JGB Yields Higher Amid Concerns About Higher Energy Prices — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261025000801:0-jgb-yields-higher-amid-concerns-about-higher-energy-prices-market-talk/",
-   "published_utc": "2026-10-26T01:11:00+00:00",
-   "title_original": "JGB Yields Higher Amid Concerns About Higher Energy Prices — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b81937ff47cc8c4b"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4734,8 +4751,8 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -4749,7 +4766,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -4838,8 +4855,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -4852,7 +4869,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -15165,23 +15182,6 @@
    "id": "fd036183e1a31faa"
   },
   {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "China's new home prices fall again as recovery remains elusive",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndWUGt0d00tOWNGS2lsS3c3WmZTcWFaeVZwNUJVZC0tNkpaR295ZkJpc3FiWGgyeEVUYkgwUi1OUXpiUUo3WG5xeDN3WnpXNlIzc3hSdWxPdkpPcVd4QjI0eTNtR19KX25FcmNRYjlBX2h1R2twRzlPeW1wb0t5QnJ6Q091bnpSMVpLa3cycXAxS2JlTU13YWw5TGhqREx2NGJ3bG5GTi16d0dNVmpzSkVfR3RqclJFd0J0MzdB?oc=5",
-   "published_utc": "2026-10-19T02:46:00+00:00",
-   "title_original": "China's new home prices fall again as recovery remains elusive",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "398cc36db2c31844"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "China’s economic growth accelerates to 4.5% in third quarter",
@@ -16747,6 +16747,23 @@
    "live_wire": false,
    "manual": false,
    "id": "137e90d2f3fb2ade"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China's new home prices fall again as recovery remains elusive",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndWUGt0d00tOWNGS2lsS3c3WmZTcWFaeVZwNUJVZC0tNkpaR295ZkJpc3FiWGgyeEVUYkgwUi1OUXpiUUo3WG5xeDN3WnpXNlIzc3hSdWxPdkpPcVd4QjI0eTNtR19KX25FcmNRYjlBX2h1R2twRzlPeW1wb0t5QnJ6Q091bnpSMVpLa3cycXAxS2JlTU13YWw5TGhqREx2NGJ3bG5GTi16d0dNVmpzSkVfR3RqclJFd0J0MzdB?oc=5",
+   "published_utc": "2026-10-18T07:00:00+00:00",
+   "title_original": "China's new home prices fall again as recovery remains elusive",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "398cc36db2c31844"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51891,23 +51908,6 @@
    "live_wire": false,
    "manual": false,
    "id": "44763fda4d3a2a74"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한국일보",
-   "title_en": "Home loan interest rate '4.66%' highest in 3 years and 9 months... Credit loan interest rates also exceeded 6%",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53dnAzN3FsazVxdVpmOGxuY3RDVEFFTG9TYUQzOUxxS1RtN1llcEJJbWxQZ0dsWFNhbzZ2Z2lvZjlFRXpGNHBoMGVENW04R2M0VHAwdVRMN1B6MGNJSkk2WW1HTmpFejR0bm5kejh30gFzQVVfeXFMUG9KcWV5ZVo1djR2MlM4aGRLRFEtSjNqMkFEYmptMkdwOHJTUXZnVlRULUdSYmhRNkRTaEFMcVRjMWVwSzRYU3NidHFoRFFSanE2bzFrZ29PeV9jMmE1el9lRmROVHhCUk83X1REYUlsLVQ4Zw?oc=5",
-   "published_utc": "2026-09-30T03:00:00+00:00",
-   "title_original": "주담대 금리 '4.66%' 3년 9개월 만에 최고… 신용대출 금리도 6% 돌파",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "998231d4b9a74e46"
   },
   {
    "source_id": "manual_ia",
