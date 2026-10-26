@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T09:52:44.364080+00:00
+Última coleta: 2026-10-26T10:02:44.352715+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          979
-  🇨🇳 China          853
+  🇯🇵 Japão          978
+  🇨🇳 China          854
   🇹🇼 Taiwan         374
   🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
+  - [china] China's central bank launches swap facility to offer emergency liquidity to asset managers
+  - [korea] SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report
   - [japan] Euro firms against dollar, yen ahead of central bank meetings
   - [korea] Vt Co Ltd To Acquire Real Estate Worth 79 Billion Won
   - [china] Beijing Wantai Biological Pharmacy Q3 Net Loss At 102.5 Million Yuan
@@ -32,6 +34,7 @@ Total: 3000 manchetes
   - [china] XTC New Energy Materials Xiamen's Unit Plans To Invest 722.5 Million Yuan In Project
   - [korea] Korea's export front is on alert as the European Union (EU) raises trade barriers with carbon neutra..
   - [korea] Amid the strong won (the weak dollar), the investment strategy of an opportunity to buy dollar-denom..
+  - [china] EU Plans to Hit China With More Import Curbs in Early 2027
   - [korea] Shipbuilders’ earnings rise and fall with their ‘currency-hedging strategies’
   - [china] Shenzhen Envicool Technology: Strong revenue growth was offset by lower 9M earnings and shipment timing delays
   - [korea] Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Hyundai Glovis partners with Shopee to boost K-beauty exports
   - [korea] Korea Investment Management enters Hong Kong ETF market with chip fund
   - [japan] Prime Minister Takaichi seeks cooperation from ruling party for early passage of consumption tax reduction bil
-  - [japan] BOJ, Fed expected to leave rates unchanged this week
-  - [japan] Why is Japan tightening its immigration rules?
-  - [korea] SK Hynix tests Bear Flag resistance near KRW 1,320,000: Live
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T09:52:44+00:00",
+      "published_utc": "2026-10-26T10:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
