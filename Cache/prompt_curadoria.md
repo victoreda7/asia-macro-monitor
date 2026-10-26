@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T07:22:43.824608+00:00
+Última coleta: 2026-10-26T07:32:43.987168+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          979
   🇨🇳 China          859
-  🇹🇼 Taiwan         372
-  🇰🇷 Coreia do Sul  790
+  🇹🇼 Taiwan         373
+  🇰🇷 Coreia do Sul  789
 
 ## O que já está no feed (não repita)
 
   - [korea] Industrial Bank Of Korea Q3 Operating Profit 1 Trln Won, Up 5.6% From Year Earlier
+  - [taiwan] Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International
   - [japan] Stock prices fall Sell orders centered on semiconductor-related stocks
   - [japan] The misunderstanding of “Japan’s fiscal deterioration theory” and the paradoxical structure of Japan-US policy
+  - [korea] It was found that the top 1% of stock investment returns also bought SK Hynix and Samsung Electronic..
   - [japan] Shin-Etsu Polymer Co Ltd - To Buy Back Up To 0.56% Of Own Shares Worth 1.25 Billion Yen
   - [korea] Inside Henkel's Korean factory making adhesives for AI chips
   - [korea] Samsung may have overtaken SK hynix in HBM revenue, analysis suggests
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix to announce steps to boost shareholder returns on Wednesday
   - [japan] Amazing Venture [39] Patentix/Next Generation Power Semiconductor with Energy Saving | Business | Toyo Keizai 
   - [korea] The U.S. Dairy Export Council (USDEC) participated in the session under the theme of "The Future of
-  - [japan] Currency markets subdued ahead of pivotal central bank week By Reuters
-  - [china] The central bank launched a 700 billion yuan medium-term lending facility operation today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T07:22:44+00:00",
+      "published_utc": "2026-10-26T07:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
