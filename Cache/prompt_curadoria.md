@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-25T23:52:44.480752+00:00
+Última coleta: 2026-10-26T00:02:45.263898+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          984
-  🇨🇳 China          857
+  🇯🇵 Japão          985
+  🇨🇳 China          854
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  784
+  🇰🇷 Coreia do Sul  786
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Tipped to Hold Rates Despite High Inflation — Market Talk
+  - [korea] SK hynix weighs $12.1 billion special dividend, newspaper says
+  - [china] The central bank launched a 700 billion yuan medium-term lending facility operation today
+  - [korea] Korean won's nominal effective rate rises to 2-yr high
+  - [china] Meituan Plans to Issue Yuan Denominated Senior Notes
   - [japan] Nikkei Likely Rangebound Amid Concerns About High Energy Costs — Market Talk
   - [china] China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep
   - [china] Weekly Recap: DeepSkill 370k+ tools and DeepSeek ~100bn yuan funding
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix, a Korean semiconductor company that has transformed from the verge of selling itself, ignites demand
   - [korea] S. Korea's Q2 current account surplus ranks 2nd on robust chip exports
   - [korea] Samsung's Exynos 2700 outscores Qualcomm's top chip by nearly 20%
-  - [china] Despite a large surplus in health insurance finances for foreign members, ``Chinese nationals are once again i
-  - [japan] Fiscal soundness begins with "procedures" - Institutionalization of independent verification indicated by the 
-  - [china] Sri Lanka’s property boom gives Chinese developers hope. But old risks linger
-  - [taiwan] Magnate Technology sees aerospace, semiconductor growth opportunities
-  - [japan] Amazing Venture [17] LENZO / Taking on the challenge of next-generation AI semiconductors from Japan | Busines
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-25T23:52:44+00:00",
+      "published_utc": "2026-10-26T00:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
