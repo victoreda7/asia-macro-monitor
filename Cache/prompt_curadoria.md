@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T19:22:42.831864+00:00
+Última coleta: 2026-10-26T19:32:44.467315+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          980
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] U.S. IT giant Meta raises up to 15 trillion yen through stock issuance, plans for huge capital investment in A
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 196.86, Implies 36% Upside
   - [japan] Japan life insurers eye purchases of higher-yielding JGBs
   - [china] MBRF meatpacking plant in Promissão has exports suspended by China, says CNN
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] China stocks end flat as investors turn cautious before key central bank meetings
   - [korea] Industrial Bank of Korea: SME growth and higher interest income offset rising credit costs and weaker subsidia
   - [korea] The Bank of Korea warned that if U.S. big tech companies' investment in artificial intelligence (AI)..
-  - [korea] Due to the boom in artificial intelligence (AI) semiconductors, the Korean economy's external report..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T19:22:43+00:00",
+      "published_utc": "2026-10-26T19:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

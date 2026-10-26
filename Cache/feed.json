@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-26T19:22:42.831864+00:00",
- "collected_at_utc": "2026-10-26T19:22:42.831864+00:00",
+ "generated_at_utc": "2026-10-26T19:32:44.467315+00:00",
+ "collected_at_utc": "2026-10-26T19:32:44.467315+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,15 +11,15 @@
   "taiwan": 376,
   "korea": 792
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 51,
-   "error": "",
-   "newest": "2026-10-23T15:00:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T13:55:37+00:00"
+   "newest": "2026-10-26T18:54:10+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T11:40:18+00:00"
+   "newest": "2026-10-26T05:20:11+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T03:51:44+09:00"
+   "newest": "2026-10-27T04:26:05+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T16:41:14+00:00"
+   "newest": "2026-10-26T17:22:09+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T19:21:00+00:00"
+   "newest": "2026-10-26T19:31:01+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-26T19:00:00+09:00"
+   "newest": "2026-10-27T04:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "U.S. IT giant Meta raises up to 15 trillion yen through stock issuance, plans for huge capital investment in AI",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66071",
+   "published_utc": "2026-10-26T19:26:05+00:00",
+   "title_original": "米IT大手メタ 株式発行で最大15兆円調達 AI巨額設備投資の方針",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "4f2d21b3499a1d51"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -1738,7 +1756,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53amxBcmVuSFR3amxLQThXNVcwWnFRVl9IU2Z0QWVTWGRFLXpGTElFbHJUNEJwUGx0blMtYmw5SUd5XzFDS0lZaTM3UG10S2VHOXBKVkR0bi1RU1JMbHBNZTRB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -1750,7 +1768,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "637fb07118250770"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1790,7 +1808,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 billion yuan of MLF expires.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95Z19yZUlkamFRWjlmcjNXYVJmUXVhbWczbEsyS1lWVnlDYVdVZWt6N0FqaGUxQjlocWlwN3lZM1gtOXphQmNEdGJScWNGdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14YnZJVThIRTl5M240ZE54VWVlVEh5ZTZob2hTdTE1c3ltUTdzdXA3MEZUUGd4eWo4SHRrbnRCZmJZOWxlRTdsbWFsc1RCNWk5VHBYV0hZNi1YelowbHpVQnh3?oc=5",
    "published_utc": "2026-10-26T02:57:10+00:00",
    "title_original": "本周央行公开市场逆回购到期3380亿元 周二9000亿元MLF到期",
    "region": "china",
@@ -1802,7 +1820,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e21ee44288074ab5"
+   "id": "50b41cccc95aaa06"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5185,8 +5203,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -5200,7 +5218,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5271,8 +5289,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -5285,7 +5303,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -17046,24 +17064,6 @@
    "id": "189d45ef6105b165"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qNkdfZVh6TjltcFpvMXpROGZyQWJ0N3lfMVV0YUlMaDZ1T0FLbFdqUXppY2JBWTZaeTZzLVE1RE94cHE3LUhhLVB4cndPUXZYZTNFc2w3NWxSZw?oc=5",
-   "published_utc": "2026-10-18T07:57:00+00:00",
-   "title_original": "BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "103d1d164eaf3df1"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Shengyi Technology Plans To Buy Back Shares For Up To 300 Mln Yuan",
@@ -17181,6 +17181,24 @@
    "live_wire": false,
    "manual": false,
    "id": "137e90d2f3fb2ade"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qNkdfZVh6TjltcFpvMXpROGZyQWJ0N3lfMVV0YUlMaDZ1T0FLbFdqUXppY2JBWTZaeTZzLVE1RE94cHE3LUhhLVB4cndPUXZYZTNFc2w3NWxSZw?oc=5",
+   "published_utc": "2026-10-18T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "103d1d164eaf3df1"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -22676,23 +22694,6 @@
    "id": "447ad23b516bde94"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC eyes US$54.3bn in 4Q26 revenue, but 2nm ramp and overseas fabs pressure margins",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa0hvYmZpX1d2aE1UOERjQ3ExNmZGOEVROXRDQm5vaG43VlowaV9EYmd3OHIwc3lyaVpfd3FPYzBjSXdERGcza0VxSlRKLV9Udy1nOWoxdVpBNEptWlVGbE92a2IwdG1EWGRkZkIyb1dhbVRHMXlnWnNEaDlTZG00NEJuNXVKUQ?oc=5",
-   "published_utc": "2026-10-15T07:31:02+00:00",
-   "title_original": "TSMC eyes US$54.3bn in 4Q26 revenue, but 2nm ramp and overseas fabs pressure margins",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f70b6cafaf408c20"
-  },
-  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "TSMC's Q3 net profit hits new quarterly high",
@@ -22865,6 +22866,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ac64bc283cf85c19"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC eyes US$54.3bn in 4Q26 revenue, but 2nm ramp and overseas fabs pressure margins",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa0hvYmZpX1d2aE1UOERjQ3ExNmZGOEVROXRDQm5vaG43VlowaV9EYmd3OHIwc3lyaVpfd3FPYzBjSXdERGcza0VxSlRKLV9Udy1nOWoxdVpBNEptWlVGbE92a2IwdG1EWGRkZkIyb1dhbVRHMXlnWnNEaDlTZG00NEJuNXVKUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "TSMC eyes US$54.3bn in 4Q26 revenue, but 2nm ramp and overseas fabs pressure margins",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f70b6cafaf408c20"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -30716,23 +30734,6 @@
    "id": "0eacdf2ef37fd196"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkRWVHotZW5zOTdPS2FVeGVTcl9ETm5UWW1MQ3k5VVh3cGxMbnl2VGJBZktHZ3Z1QVR0a1VCT3cwZ3g5NVZWTzhDR1JDdG9YaVU1QXIxV0lEMDkzWEd0dFFaaTZvVHplNkxvWHEwOVA2cWhwQmJabkl1UFZhc2FqSWh1Z2JJWF92a0RYd1BPV25QYTVsNjl1XzhHR3FKdDRINE9ranpGZ3JiN1BZTWc?oc=5",
-   "published_utc": "2026-10-12T13:05:00+00:00",
-   "title_original": "Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fe7fdcc541095358"
-  },
-  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Nanya Technology expects DRAM prices, margins to rise in Q4",
@@ -31739,6 +31740,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1a85b80d1cfd38e8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkRWVHotZW5zOTdPS2FVeGVTcl9ETm5UWW1MQ3k5VVh3cGxMbnl2VGJBZktHZ3Z1QVR0a1VCT3cwZ3g5NVZWTzhDR1JDdG9YaVU1QXIxV0lEMDkzWEd0dFFaaTZvVHplNkxvWHEwOVA2cWhwQmJabkl1UFZhc2FqSWh1Z2JJWF92a0RYd1BPV25QYTVsNjl1XzhHR3FKdDRINE9ranpGZ3JiN1BZTWc?oc=5",
+   "published_utc": "2026-10-12T07:00:00+00:00",
+   "title_original": "Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fe7fdcc541095358"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51892,23 +51910,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3926c4b679483528"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHJwbTJwSzgzVDFaelEyck14dlFhNkF3MXpoQUJ3VEhlcXZ2bXBvMUw1ajdBSV9kQzVNNGY4WEc0TGUxRWVFNDBsSk5DYVdELUdNa2tETERRTW5XanR3WGQ1b0kwQVBzQTRIZUNzcDkxN3Vsdlc5d2xDSDVySlFWTE5CR2pObUZYX0N3MkxoNzhDS0VaWHZJc1ZvejRTZDQzY3AzMURmX3VhVEZ4bnNtYQ?oc=5",
-   "published_utc": "2026-09-30T06:51:00+00:00",
-   "title_original": "Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers: JPY/USD",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bd5c69b164b05007"
   },
   {
    "source_id": "manual_ia",
