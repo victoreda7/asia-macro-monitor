@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T02:12:46.212831+00:00
+Última coleta: 2026-10-26T02:22:43.945585+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          988
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank launched a 700 billion yuan medium-term lending facility operation today
+  - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation today
   - [japan] Japan bond yields edge higher before key central bank meets
   - [japan] Trump's approval rating is at an all-time low, but white Christian evangelicals still form a solid support bas
   - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO MON
@@ -34,7 +36,6 @@ Total: 3000 manchetes
   - [china] Meituan mandates banks for offshore yuan bond sale to refinance debt
   - [japan] BOJ Tipped to Hold Rates Despite High Inflation — Market Talk
   - [korea] SK hynix weighs $12.1 billion special dividend, newspaper says
-  - [china] The central bank launched a 700 billion yuan medium-term lending facility operation today
   - [korea] Korean won's nominal effective rate rises to 2-yr high
   - [china] Meituan Plans to Issue Yuan Denominated Senior Notes
   - [japan] Nikkei Likely Rangebound Amid Concerns About High Energy Costs — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Osong beauty expo draws nearly $100m in export deals
   - [korea] AI money shifts from chips to software, exposing Korea’s lack of alternatives
   - [japan] [Breaking news] Fukushima prefecture gubernatorial election exit poll results
-  - [china] China’s export controls around PV cells could slow India’s upstream solar push
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T02:12:46+00:00",
+      "published_utc": "2026-10-26T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
