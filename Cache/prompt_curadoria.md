@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T00:12:43.080672+00:00
+Última coleta: 2026-10-26T00:22:43.264721+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          985
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [china] Weekly Recap: DeepSkill 370k+ tools and DeepSeek ~100bn yuan funding
   - [china] Why China’s stimulus keeps missing the mark: Manishi Raychaudhuri
   - [japan] Why aren't wages going up in Japan? The reason why the price increase rate is "companies > consumers" (weekly 
+  - [china] Why Xi Is Using China’s Fifth Plenum to Tighten Party Control
   - [korea] Bank of Korea freezes base interest rate by 3%... Policy interest rates have stopped, market interest rates ar
   - [korea] North Korea tells UN South fabricated landmine incident, KCNA says
   - [japan] Life insurance companies plan to replace government bonds due to rise in long-term interest rates
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Chairman of the ruling and opposition party committees discuss consumption tax reduction bill NHK Sunday debat
   - [korea] SK Hynix, a Korean semiconductor company that has transformed from the verge of selling itself, ignites demand
   - [korea] S. Korea's Q2 current account surplus ranks 2nd on robust chip exports
-  - [korea] Samsung's Exynos 2700 outscores Qualcomm's top chip by nearly 20%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T00:12:43+00:00",
+      "published_utc": "2026-10-26T00:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
