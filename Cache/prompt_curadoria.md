@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T05:32:42.927602+00:00
+Última coleta: 2026-10-26T05:42:42.756055+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          988
+  🇯🇵 Japão          987
   🇨🇳 China          853
   🇹🇼 Taiwan         372
-  🇰🇷 Coreia do Sul  787
+  🇰🇷 Coreia do Sul  788
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea Investment Management enters Hong Kong ETF market with chip fund
   - [japan] Prime Minister Takaichi seeks cooperation from ruling party for early passage of consumption tax reduction bil
   - [japan] BOJ, Fed expected to leave rates unchanged this week
   - [japan] Why is Japan tightening its immigration rules?
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)
   - [korea] The top 1% of stock investment returns bought SK Hynix, Samsung Electronics, and Samsung Electronics..
   - [japan] Japan MOF To Auction Y250.0B Of Nov 2
-  - [korea] SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T05:32:43+00:00",
+      "published_utc": "2026-10-26T05:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
