@@ -7,23 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T03:32:42.114642+00:00
+Última coleta: 2026-10-26T03:42:44.292092+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          990
-  🇨🇳 China          851
+  🇯🇵 Japão          989
+  🇨🇳 China          852
   🇹🇼 Taiwan         371
   🇰🇷 Coreia do Sul  788
 
 ## O que já está no feed (não repita)
 
+  - [china] China's yuan climbs to fresh 4-year high ahead of key policy meetings
   - [japan] Stock prices fall Sell orders centered on semiconductor-related stocks
   - [taiwan] New Taiwan Dollar Likely to Rebound After Recent Slump — Market Talk
   - [korea] South Korea 3Q GDP Growth Likely Accelerated Sequentially, Poll Shows — Market Talk
   - [japan] Yen Holds Steady Ahead of BOJ Policy Meeting
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 b
   - [china] This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 bi
-  - [china] The central bank launches 700 billion yuan 1-year MLF operation
   - [korea] SK Hynix Stock Rises: Korean Memory Giant Reportedly Weighs $12B Special Dividend From Kioxia Gains
   - [korea] A SK Hynix anunciará, nesta quarta-feira, medidas para aumentar o retorno aos acionistas
   - [korea] SK Hynix to announce steps to boost shareholder returns on Wednesday
@@ -47,7 +47,6 @@ Total: 3000 manchetes
   - [china] Key facts: Meituan Class B (3690) plans 5-/10-yr CNY bond; Moody's Baa1
   - [korea] Sk Hynix Considering Various Ways On Shareholder Return Plans
   - [korea] SK Hynix's Halt to Potential Solidigm U.S. IPO Positive for Shares — Market Talk
-  - [japan] What's New October, 2026 : Ministry of Finance
   - [korea] SK Hynix is said to plan $12B special dividend from Kioxia investment
   - [china] Meituan mandates banks for offshore yuan bond sale to refinance debt
   - [japan] BOJ Tipped to Hold Rates Despite High Inflation — Market Talk
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [japan] Nikkei Likely Rangebound Amid Concerns About High Energy Costs — Market Talk
   - [japan] Goldman Says Yen Becoming Better Hedge Against AI Market Shock
   - [china] China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep
+  - [china] Weekly Recap: DeepSkill 370k+ tools and DeepSeek ~100bn yuan funding
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T03:32:42+00:00",
+      "published_utc": "2026-10-26T03:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
