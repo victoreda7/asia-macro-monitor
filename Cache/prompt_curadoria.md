@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T23:42:42.248271+00:00
+Última coleta: 2026-10-26T23:52:42.905156+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          984
+  🇯🇵 Japão          983
   🇨🇳 China          847
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  794
+  🇰🇷 Coreia do Sul  795
 
 ## O que já está no feed (não repita)
 
+  - [japan] Services Producer Price Index (Sept.)
+  - [korea] South Korea GDP grows more than expected in Q3 on AI boost
   - [korea] (LEAD) S. Korea's GDP expands 1 pct in Q3 on strong exports, investment: BOK
   - [korea] South Korea Q3 GDP Growth Tops Forecasts
   - [china] Analysis-China’s lab-grown diamond makers target AI, chip sectors for next wave of growth
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China plans to strengthen the protection of trade secrets and ban foreign investment in the import and export 
   - [korea] Choi Chang-ho, Assistant Vice Governor for Monetary Policy, Bank of Korea
   - [japan] Euro firms against yen, flat vs dollar ahead of central bank meetings
-  - [china] China XLX Fertiliser nine-month profit rises on export growth
-  - [china] Zhejiang Jiemei Electronic and Technology Plans To Invest 2.7 Billion Yuan In Project
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T23:42:42+00:00",
+      "published_utc": "2026-10-26T23:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
