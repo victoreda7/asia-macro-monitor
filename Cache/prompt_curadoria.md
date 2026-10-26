@@ -7,20 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T09:12:45.034853+00:00
+Última coleta: 2026-10-26T09:22:46.105496+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          978
+  🇯🇵 Japão          979
   🇨🇳 China          854
   🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  795
+  🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
   - [korea] Vt Co Ltd To Acquire Real Estate Worth 79 Billion Won
   - [china] Beijing Wantai Biological Pharmacy Q3 Net Loss At 102.5 Million Yuan
-  - [china] China stocks end flat as investors turn cautious before key central bank meetings
+  - [china] Asian stocks closed with mixed trends as the market awaits technology industry earnings reports and central ba
   - [japan] Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks
+  - [china] China stocks end flat as investors turn cautious before key central bank meetings
   - [korea] Industrial Bank of Korea: SME growth and higher interest income offset rising credit costs and weaker subsidia
   - [korea] Due to the boom in artificial intelligence (AI) semiconductors, the Korean economy's external report..
   - [china] XTC New Energy Materials Xiamen's Unit Plans To Invest 722.5 Million Yuan In Project
@@ -48,7 +49,6 @@ Total: 3000 manchetes
   - [korea] Hyundai Glovis partners with Shopee to boost K-beauty exports
   - [korea] Korea Investment Management enters Hong Kong ETF market with chip fund
   - [japan] Prime Minister Takaichi seeks cooperation from ruling party for early passage of consumption tax reduction bil
-  - [japan] BOJ, Fed expected to leave rates unchanged this week
   - [japan] Why is Japan tightening its immigration rules?
   - [korea] SK Hynix tests Bear Flag resistance near KRW 1,320,000: Live
   - [korea] South Korean Won Hits 24-month High
@@ -56,7 +56,7 @@ Total: 3000 manchetes
   - [china] The central bank launched a 700 billion yuan MLF operation on October 26 with a term of one year
   - [korea] SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report
   - [china] China stocks slip as tech shares lead declines, before key central bank meetings
-  - [japan] Future “Regulatory reform for AI utilization and countermeasures against “AI unemployment”” Recommendations to
+  - [japan] USD/JPY Weekly Outlook: AI Earnings Could Overshadow the Fed and BoJ
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T09:12:45+00:00",
+      "published_utc": "2026-10-26T09:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
