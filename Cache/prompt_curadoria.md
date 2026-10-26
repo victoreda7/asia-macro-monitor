@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T01:12:44.226709+00:00
+Última coleta: 2026-10-26T01:22:42.319052+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          986
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [korea] Korean won's nominal effective rate rises to 2-yr high
   - [china] Meituan Plans to Issue Yuan Denominated Senior Notes
   - [japan] Nikkei Likely Rangebound Amid Concerns About High Energy Costs — Market Talk
+  - [taiwan] The United States: It has assisted Gulf countries in exporting 1.5 billion barrels of crude oil through the St
   - [china] China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep
   - [china] Weekly Recap: DeepSkill 370k+ tools and DeepSeek ~100bn yuan funding
   - [china] Why China’s stimulus keeps missing the mark: Manishi Raychaudhuri
@@ -40,7 +41,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan October meeting expected to maintain policy, focus on reaching 2% inflation
   - [japan] Bank of Japan decision meeting & changes in payment methods etc. = Some points to consider in FSR (Hirotoshi K
   - [japan] Consumption tax reduction bill Ruling party looks for passage time Opposition parties clarify recipients of su
-  - [taiwan] The United States: It has assisted Gulf countries in exporting 1.5 billion barrels of crude oil through the St
   - [japan] Amazing venture [29] Beff/Horizontal division of labor for batteries like semiconductors | Business | Toyo Kei
   - [japan] Japan Week Ahead: BOJ Set to Leave Rate at 1.25% as Mission Shifts from Normalizing Super-Low Rates to Keeping
   - [korea] Osong beauty expo draws nearly $100m in export deals
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T01:12:44+00:00",
+      "published_utc": "2026-10-26T01:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

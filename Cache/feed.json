@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-26T01:12:44.226709+00:00",
- "collected_at_utc": "2026-10-26T01:12:44.226709+00:00",
+ "generated_at_utc": "2026-10-26T01:22:42.319052+00:00",
+ "collected_at_utc": "2026-10-26T01:22:42.319052+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 375,
   "korea": 788
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-24T02:14:26+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T01:11:39+00:00"
+   "newest": "2026-10-26T01:19:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T20:46:00+00:00"
+   "newest": "2026-10-25T23:27:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -551,6 +551,23 @@
    "id": "1718517c6af057df"
   },
   {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "The United States: It has assisted Gulf countries in exporting 1.5 billion barrels of crude oil through the Strait of Hormuz | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhbjgtc3A3Qkg1ZFRDZnJhVXFjREZQa0xwZ00zeDByMVl3dnNkaTJiSDdOZFpvSlFmOXhQbUJBRGkwYm1HUTVEZk5IZXFxdi1Va2NCLWJoNE5zc3VYU200?oc=5",
+   "published_utc": "2026-10-25T23:27:00+00:00",
+   "title_original": "美國：已協助波灣國家經荷莫茲海峽出口15億桶原油| 國際",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "81ea3f698666daf3"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Trading Economics",
    "title_en": "China's Fiscal Expenditure Growth Slows to 1% in Jan-Sep",
@@ -739,23 +756,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ef0f735e6a304067"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The United States: It has assisted Gulf countries in exporting 1.5 billion barrels of crude oil through the Strait of Hormuz | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhbjgtc3A3Qkg1ZFRDZnJhVXFjREZQa0xwZ00zeDByMVl3dnNkaTJiSDdOZFpvSlFmOXhQbUJBRGkwYm1HUTVEZk5IZXFxdi1Va2NCLWJoNE5zc3VYU200?oc=5",
-   "published_utc": "2026-10-25T20:46:00+00:00",
-   "title_original": "美國：已協助波灣國家經荷莫茲海峽出口15億桶原油| 國際",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "81ea3f698666daf3"
   },
   {
    "source_id": "toyo_keizai",
@@ -3461,8 +3461,8 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -3476,7 +3476,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a1aa424a8381650f"
+   "id": "9f7d07c9dd0602ca"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -3565,8 +3565,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -3579,7 +3579,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -7328,8 +7328,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -7343,7 +7343,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "92cfcaa6e2cfb914"
+   "id": "f1e35c84352fe79d"
   },
   {
    "source_id": "tradingview_live",
