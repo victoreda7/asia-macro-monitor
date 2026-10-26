@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T10:12:44.181170+00:00",
- "collected_at_utc": "2026-10-26T10:12:44.181170+00:00",
+ "generated_at_utc": "2026-10-26T10:22:46.823043+00:00",
+ "collected_at_utc": "2026-10-26T10:22:46.823043+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 979,
-  "china": 854,
+  "japan": 981,
+  "china": 850,
   "taiwan": 374,
-  "korea": 793
+  "korea": 795
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:31:05+00:00"
+   "newest": "2026-10-26T09:59:15+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T09:54:46+00:00"
+   "newest": "2026-10-26T10:14:18+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T09:50:33+00:00"
+   "newest": "2026-10-26T10:08:11+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:12:02+00:00"
+   "newest": "2026-10-26T10:01:06+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-26T19:04:59+09:00"
+   "newest": "2026-10-26T19:14:24+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T04:28:00+00:00"
+   "newest": "2026-10-26T08:26:44+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T03:00:24+00:00"
+   "newest": "2026-10-26T10:02:23+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T10:12:02+00:00"
+   "newest": "2026-10-26T10:22:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T06:23:49+00:00"
+   "newest": "2026-10-26T03:00:30+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -359,6 +359,23 @@
    "live_wire": false,
    "manual": false,
    "id": "88e1f0d791851884"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Currencies idle ahead of five-bank gauntlet; euro gains on Moody’s reprieve",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUV4c3VobUxpNXJEbkNTMnNUanJhZ0U0OE1xTFZpYllnNlhocnNiV0x6aU1EV0Q0SXFBQ2RneENDaTdRNUFoWWdUcTVvRTFVaWZrWTBBUnEwNWFka3dmNk1XOE1ieC1Nd3k0LTQ5NzFkcTR5WmtSeEtJTllQT0FrWHM4QWUtVDVBQ3Z0OGo2VWRyaVd2MmVoTV9sZjhReGYtUUdxaFZWLTVzSUdmMW9maDRIYlNENV9hVHpPZDFua3kwVkNu?oc=5",
+   "published_utc": "2026-10-26T10:01:06+00:00",
+   "title_original": "Currencies idle ahead of five-bank gauntlet; euro gains on Moody’s reprieve",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7c12d1e15df460e0"
   },
   {
    "source_id": "tradingview_live",
@@ -1148,6 +1165,23 @@
    "id": "09946558453d81d2"
   },
   {
+   "source_id": "tradingview_live",
+   "source_name": "Invezz",
+   "title_en": "Nikkei 225 outlook ahead of Japan key results and BoJ decision",
+   "url": "https://www.tradingview.com/news/invezz:6c8fc1c8dbc81:0/",
+   "published_utc": "2026-10-26T04:28:40+00:00",
+   "title_original": "Perspectiva do Nikkei 225 antes de resultados-chave do Japão e decisão do BoJ",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "fcee8452501186c7"
+  },
+  {
    "source_id": "gn_jp_investing",
    "source_name": "Investing.com UK",
    "title_en": "USD/JPY Weekly Outlook: AI Earnings Could Overshadow the Fed and BoJ",
@@ -1249,6 +1283,23 @@
    "live_wire": false,
    "manual": false,
    "id": "98a453cca82b30f4"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Invezz",
+   "title_en": "Samsung and SK Hynix shares fall again, but Goldman sees 60% rise: understand why",
+   "url": "https://www.tradingview.com/news/invezz:de20c1bcdbc81:0/",
+   "published_utc": "2026-10-26T03:38:00+00:00",
+   "title_original": "Ações da Samsung e SK Hynix caem de novo, mas Goldman vê alta de 60%: entenda por quê",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "ab7f2e147df81735"
   },
   {
    "source_id": "tradingview_live",
@@ -1424,6 +1475,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c7c1d9a91e0558eb"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Invezz",
+   "title_en": "Kospi's outlook: death cross looms ahead of SK Hynix results",
+   "url": "https://www.tradingview.com/news/invezz:266010bb6bc81:0/",
+   "published_utc": "2026-10-26T02:50:20+00:00",
+   "title_original": "Perspectiva do Kospi: death cross se aproxima antes dos resultados da SK Hynix",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "ef5606ded7494761"
   },
   {
    "source_id": "tradingview_live",
@@ -1667,57 +1735,6 @@
    "live_wire": false,
    "manual": false,
    "id": "26cbdb1b7286371e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO MON",
-   "url": "https://www.tradingview.com/news/dpa_afx:5b008cdd1a389:0-china-pboc-conducts-cny56-bln-via-7-day-reverse-repo-mon/",
-   "published_utc": "2026-10-26T01:50:23+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO MON",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8e9d0a1f87b5ccd2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY398 BLN VIA O/N REVERSE REPO MON",
-   "url": "https://www.tradingview.com/news/dpa_afx:1769ec259efc7:0-china-pboc-conducts-cny398-bln-via-o-n-reverse-repo-mon/",
-   "published_utc": "2026-10-26T01:46:59+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY398 BLN VIA O/N REVERSE REPO MON",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2bae171dd5300d3a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7162 MON VS 6.7180",
-   "url": "https://www.tradingview.com/news/dpa_afx:392fe9de14069:0-china-sets-yuan-central-parity-at-6-7162-mon-vs-6-7180/",
-   "published_utc": "2026-10-26T01:40:47+00:00",
-   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7162 MON VS 6.7180",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "040b626decba418b"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4819,8 +4836,8 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -4834,7 +4851,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -4923,8 +4940,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -4937,7 +4954,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -51888,23 +51905,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3b58b0e8b14b9c1e"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "China stimulus picks: tech and consumer names tied to new credit flows",
-   "url": "https://www.investing.com/news/stock-market-news/china-stimulus-picks-tech-and-consumer-names-tied-to-new-credit-flows-93CH-4924052",
-   "published_utc": "2026-09-30T03:16:19+00:00",
-   "title_original": "China stimulus picks: tech and consumer names tied to new credit flows",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0575f848327386f8"
   },
   {
    "source_id": "manual_ia",
