@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-26T01:42:43.606023+00:00",
- "collected_at_utc": "2026-10-26T01:42:43.606023+00:00",
+ "generated_at_utc": "2026-10-26T01:52:44.317383+00:00",
+ "collected_at_utc": "2026-10-26T01:52:44.317383+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 987,
-  "china": 849,
+  "japan": 986,
+  "china": 851,
   "taiwan": 375,
-  "korea": 789
+  "korea": 788
  },
  "elapsed_s": 29.8,
  "sources": [
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T07:00:01+00:00"
+   "newest": "2026-10-25T10:41:53+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T01:30:41+00:00"
+   "newest": "2026-10-26T01:51:50+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-26T01:22:05+00:00"
+   "newest": "2026-10-26T01:48:55+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-26T08:30:00+09:00"
+   "newest": "2026-10-26T10:40:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO MON",
+   "url": "https://www.tradingview.com/news/dpa_afx:5b008cdd1a389:0-china-pboc-conducts-cny56-bln-via-7-day-reverse-repo-mon/",
+   "published_utc": "2026-10-26T01:50:23+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO MON",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8e9d0a1f87b5ccd2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY398 BLN VIA O/N REVERSE REPO MON",
+   "url": "https://www.tradingview.com/news/dpa_afx:1769ec259efc7:0-china-pboc-conducts-cny398-bln-via-o-n-reverse-repo-mon/",
+   "published_utc": "2026-10-26T01:46:59+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY398 BLN VIA O/N REVERSE REPO MON",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2bae171dd5300d3a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7162 MON VS 6.7180",
+   "url": "https://www.tradingview.com/news/dpa_afx:392fe9de14069:0-china-sets-yuan-central-parity-at-6-7162-mon-vs-6-7180/",
+   "published_utc": "2026-10-26T01:40:47+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7162 MON VS 6.7180",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "040b626decba418b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -3529,8 +3580,8 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -3544,7 +3595,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -3633,8 +3684,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -3647,7 +3698,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -7396,8 +7447,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -7411,7 +7462,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -51858,58 +51909,6 @@
    "live_wire": false,
    "manual": false,
    "id": "f428d94cbd2e1c0d"
-  },
-  {
-   "source_id": "investing_fx",
-   "source_name": "Investing Forex",
-   "title_en": "Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook",
-   "url": "https://www.investing.com/news/forex-news/wells-fargo-revises-dollar-yen-euro-estimates-amid-rate-hike-outlook-4923047",
-   "published_utc": "2026-09-29T14:44:38+00:00",
-   "title_original": "Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "6b8a0d256a329ac5"
-  },
-  {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "K-defense: A textbook case of transforming weapons self-reliance into global exporter",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aVFZ4VGJZWHFuU1VsRnBXM1dOLWRwdlJYMk5sRzd3a1ctLUhKLVRjU193VmJuR3NOOEhjOUwweGRNT203a19RRVNGTk9JYnJ6RnJQWlpDVW1saGNwRVU4eEpVb1R0bXl4b2tMSlhxV1hBVVpLR1VR?oc=5",
-   "published_utc": "2026-09-29T13:36:00+00:00",
-   "title_original": "K-defense: A textbook case of transforming weapons self-reliance into global exporter",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8fee5339a46568c4"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "China launches 'mini stimulus' targeting affordable homes, infrastructure",
-   "url": "https://asia.nikkei.com/business/markets/china-debt-crunch/china-launches-mini-stimulus-targeting-affordable-homes-infrastructure",
-   "published_utc": "2026-09-29T13:20:19.332254+00:00",
-   "title_original": "China launches 'mini stimulus' targeting affordable homes, infrastructure",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fa1bd8958df8847e"
   },
   {
    "source_id": "manual_ia",
