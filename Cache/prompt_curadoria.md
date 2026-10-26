@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T20:52:44.139312+00:00
+Última coleta: 2026-10-26T21:02:44.557615+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          979
-  🇨🇳 China          851
-  🇹🇼 Taiwan         377
-  🇰🇷 Coreia do Sul  793
+  🇯🇵 Japão          980
+  🇨🇳 China          853
+  🇹🇼 Taiwan         376
+  🇰🇷 Coreia do Sul  791
 
 ## O que já está no feed (não repita)
 
+  - [japan] [France at a dead end] If spending is suppressed, the people will protest, and if the financial situation wors
+  - [china] MBRF meatpacking plant in Promissão has exports suspended by China
+  - [china] China halts beef imports from MBRF plant in Brazil
   - [taiwan] AI and oil worries rattle Asian currencies from Taiwan to Philippines
   - [korea] Samsung Electronics Stocks Decline Before 107.4 Trillion Won Profit Test
   - [japan] U.S. IT giant Meta raises up to 15 trillion yen through stock issuance, plans for huge capital investment in A
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] Beijing Wantai Biological Pharmacy Q3 Net Loss At 102.5 Million Yuan
   - [china] Asian stocks closed with mixed trends as the market awaits technology industry earnings reports and central ba
   - [china] China's central bank sets up non-bank financial institution bond market swap facility
-  - [japan] Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks
-  - [taiwan] Taiwan Industrial Output Growth Eases to 4-Month Low
-  - [china] China stocks end flat as investors turn cautious before key central bank meetings
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T20:52:44+00:00",
+      "published_utc": "2026-10-26T21:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
