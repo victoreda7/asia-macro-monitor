@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T10:42:43.619570+00:00
+Última coleta: 2026-10-26T10:52:43.111783+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          980
-  🇨🇳 China          851
+  🇨🇳 China          852
   🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  795
+  🇰🇷 Coreia do Sul  794
 
 ## O que já está no feed (não repita)
 
+  - [china] Dosilicon Q3 Net Profit At 830.1 Million Yuan
   - [china] SPIC Industry Finance Q3 Net Profit At 903.3 Million Yuan
   - [japan] Japan's largest machine tool trade show Introducing technologies using AI
   - [japan] Currencies idle ahead of five-bank gauntlet; euro gains on Moody’s reprieve
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Inside Henkel's Korean factory making adhesives for AI chips
   - [korea] Samsung may have overtaken SK hynix in HBM revenue, analysis suggests
   - [china] Beyond exports: China's automakers dig deeper into Europe
-  - [korea] South Korea's Lee says unlikely to join Pacific trade pact within his term
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T10:42:43+00:00",
+      "published_utc": "2026-10-26T10:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
