@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T04:42:44.766800+00:00
+Última coleta: 2026-10-26T04:52:43.526292+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          987
-  🇨🇳 China          853
+  🇯🇵 Japão          986
+  🇨🇳 China          854
   🇹🇼 Taiwan         372
   🇰🇷 Coreia do Sul  788
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank launched a 700 billion yuan MLF operation on October 26 with a term of one year
   - [china] China stocks slip as tech shares lead declines, before key central bank meetings
   - [japan] Future “Regulatory reform for AI utilization and countermeasures against “AI unemployment”” Recommendations to
   - [china] China's Humanoid Shipment Volumes Likely to Remain Modest — Market Talk
@@ -37,6 +38,7 @@ Total: 3000 manchetes
   - [korea] The U.S. Dairy Export Council (USDEC) participated in the session under the theme of "The Future of
   - [china] The central bank launched a 700 billion yuan medium-term lending facility operation today
   - [korea] Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..
+  - [korea] Major banks have increased their information protection budgets for next year significantly since th..
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation today
   - [japan] Currency markets subdued ahead of pivotal central bank week
   - [japan] Japan bond yields edge higher before key central bank meets
@@ -45,6 +47,7 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY398 BLN VIA O/N REVERSE REPO MON
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7162 MON VS 6.7180
   - [japan] Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)
+  - [korea] The top 1% of stock investment returns bought SK Hynix, Samsung Electronics, and Samsung Electronics..
   - [japan] Japan MOF To Auction Y250.0B Of Nov 2
   - [korea] SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report
   - [china] Chinese Yuan Hits 4-year High
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Sk Hynix Considering Various Ways On Shareholder Return Plans
   - [korea] SK Hynix's Halt to Potential Solidigm U.S. IPO Positive for Shares — Market Talk
   - [korea] SK Hynix is said to plan $12B special dividend from Kioxia investment
-  - [china] Meituan mandates banks for offshore yuan bond sale to refinance debt
-  - [japan] BOJ Tipped to Hold Rates Despite High Inflation — Market Talk
-  - [korea] SK hynix weighs $12.1 billion special dividend, newspaper says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T04:42:45+00:00",
+      "published_utc": "2026-10-26T04:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
