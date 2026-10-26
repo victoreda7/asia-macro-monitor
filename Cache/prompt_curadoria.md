@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T15:52:43.808940+00:00
+Última coleta: 2026-10-26T16:02:44.700345+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          982
+  🇯🇵 Japão          981
   🇨🇳 China          851
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  792
+  🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [taiwan] Goldman Sachs has revised up its forecast for Taiwan’s GDP growth this year to 11.7% and expects to start an i
   - [taiwan] Goldman Sachs revise up Taiwan's GDP growth forecast for this year and next, predicting the start of an intere
   - [china] China plans to strengthen the protection of trade secrets and ban foreign investment in the import and export 
+  - [korea] Choi Chang-ho, Assistant Vice Governor for Monetary Policy, Bank of Korea
   - [japan] Euro firms against yen, flat vs dollar ahead of central bank meetings
   - [china] China XLX Fertiliser nine-month profit rises on export growth
   - [china] Zhejiang Jiemei Electronic and Technology Plans To Invest 2.7 Billion Yuan In Project
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched 56 billion yuan of 7-day and 398 billion yuan of overnight reverse repurchase operat
   - [china] Shenzhen Envicool Technology: Strong revenue growth was offset by lower 9M earnings and shipment timing delays
   - [korea] Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they..
-  - [korea] Kukdo Chemical Co To Buy Lg Chem's Bpa Manufacturing Facility And Business Unit For 78.4 Billion Won
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T15:52:44+00:00",
+      "published_utc": "2026-10-26T16:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
