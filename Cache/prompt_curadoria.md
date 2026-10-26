@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T11:52:43.371514+00:00
+Última coleta: 2026-10-26T12:03:00.825508+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          979
-  🇨🇳 China          854
+  🇯🇵 Japão          981
+  🇨🇳 China          853
   🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  794
+  🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [japan] Euro firms against yen, flat vs dollar ahead of central bank meetings
   - [china] China XLX Fertiliser nine-month profit rises on export growth
   - [china] Zhejiang Jiemei Electronic and Technology Plans To Invest 2.7 Billion Yuan In Project
   - [korea] SK hynix Inc. expected to post earnings of $6.00 a share - Earnings Preview
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Survey: Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International
   - [taiwan] Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International
   - [japan] Stock prices fall Sell orders centered on semiconductor-related stocks
-  - [japan] The misunderstanding of “Japan’s fiscal deterioration theory” and the paradoxical structure of Japan-US policy
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T11:52:43+00:00",
+      "published_utc": "2026-10-26T12:03:01+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
