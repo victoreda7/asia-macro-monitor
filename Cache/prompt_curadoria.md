@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T02:42:43.687367+00:00
+Última coleta: 2026-10-26T02:52:45.476191+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          989
@@ -21,6 +21,7 @@ Total: 3000 manchetes
   - [korea] SK Hynix to announce steps to boost shareholder returns on Wednesday
   - [japan] Amazing Venture [39] Patentix/Next Generation Power Semiconductor with Energy Saving | Business | Toyo Keizai 
   - [china] The central bank launched a 700 billion yuan medium-term lending facility operation today
+  - [korea] Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..
   - [china] The central bank launched a 56 billion yuan 7-day reverse repurchase operation today
   - [japan] Japan bond yields edge higher before key central bank meets
   - [japan] Trump's approval rating is at an all-time low, but white Christian evangelicals still form a solid support bas
@@ -35,7 +36,6 @@ Total: 3000 manchetes
   - [china] Key facts: Meituan Class B (3690) plans 5-/10-yr CNY bond; Moody's Baa1
   - [korea] Sk Hynix Considering Various Ways On Shareholder Return Plans
   - [korea] SK Hynix's Halt to Potential Solidigm U.S. IPO Positive for Shares — Market Talk
-  - [japan] What's New October, 2026 : Ministry of Finance
   - [korea] SK Hynix is said to plan $12B special dividend from Kioxia investment
   - [china] Meituan mandates banks for offshore yuan bond sale to refinance debt
   - [japan] BOJ Tipped to Hold Rates Despite High Inflation — Market Talk
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T02:42:43+00:00",
+      "published_utc": "2026-10-26T02:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
