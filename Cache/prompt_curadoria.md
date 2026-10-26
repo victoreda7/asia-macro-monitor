@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T19:52:43.045588+00:00
+Última coleta: 2026-10-26T20:02:43.679880+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          980
-  🇨🇳 China          852
-  🇹🇼 Taiwan         376
-  🇰🇷 Coreia do Sul  792
+  🇯🇵 Japão          979
+  🇨🇳 China          851
+  🇹🇼 Taiwan         377
+  🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] AI and oil worries rattle Asian currencies from Taiwan to Philippines
+  - [korea] Samsung Electronics Stocks Decline Before 107.4 Trillion Won Profit Test
   - [japan] U.S. IT giant Meta raises up to 15 trillion yen through stock issuance, plans for huge capital investment in A
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 196.86, Implies 36% Upside
   - [japan] Japan life insurers eye purchases of higher-yielding JGBs
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks
   - [taiwan] Taiwan Industrial Output Growth Eases to 4-Month Low
   - [china] China stocks end flat as investors turn cautious before key central bank meetings
-  - [korea] Industrial Bank of Korea: SME growth and higher interest income offset rising credit costs and weaker subsidia
-  - [korea] The Bank of Korea warned that if U.S. big tech companies' investment in artificial intelligence (AI)..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T19:52:43+00:00",
+      "published_utc": "2026-10-26T20:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
