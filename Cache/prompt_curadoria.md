@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T23:12:44.748606+00:00
+Última coleta: 2026-10-26T23:22:44.736040+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          984
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea Q3 GDP Growth Tops Forecasts
   - [korea] South Korea's economy grows 1.0% in 3rd quarter on chip boom
   - [china] China's lab-grown diamond makers target AI, chip sectors for next wave of growth
   - [korea] South Korea Q3 GDP +1.0% q/q, stronger than expected
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Inc. expected to post earnings of $6.00 a share - Earnings Preview
   - [korea] SK hynix Price Target Cut to $250.00/Share From $300.00 by Cantor Fitzgerald
   - [china] Dosilicon Q3 Net Profit At 830.1 Million Yuan
-  - [china] SPIC Industry Finance Q3 Net Profit At 903.3 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T23:12:44+00:00",
+      "published_utc": "2026-10-26T23:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
