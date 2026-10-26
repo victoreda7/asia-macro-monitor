@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T05:42:42.756055+00:00
+Última coleta: 2026-10-26T05:52:43.448341+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          987
+  🇯🇵 Japão          985
   🇨🇳 China          853
   🇹🇼 Taiwan         372
-  🇰🇷 Coreia do Sul  788
+  🇰🇷 Coreia do Sul  790
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's Lee says unlikely to join Pacific trade pact within his term
+  - [korea] Hyundai Glovis partners with Shopee to boost K-beauty exports
   - [korea] Korea Investment Management enters Hong Kong ETF market with chip fund
   - [japan] Prime Minister Takaichi seeks cooperation from ruling party for early passage of consumption tax reduction bil
   - [japan] BOJ, Fed expected to leave rates unchanged this week
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY398 BLN VIA O/N REVERSE REPO MON
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7162 MON VS 6.7180
   - [japan] Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)
-  - [korea] The top 1% of stock investment returns bought SK Hynix, Samsung Electronics, and Samsung Electronics..
-  - [japan] Japan MOF To Auction Y250.0B Of Nov 2
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T05:42:42+00:00",
+      "published_utc": "2026-10-26T05:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
