@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T08:12:43.341255+00:00",
- "collected_at_utc": "2026-10-26T08:12:43.341255+00:00",
+ "generated_at_utc": "2026-10-26T08:22:43.581761+00:00",
+ "collected_at_utc": "2026-10-26T08:22:43.581761+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 980,
-  "china": 857,
-  "taiwan": 372,
+  "japan": 979,
+  "china": 856,
+  "taiwan": 374,
   "korea": 791
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T06:45:00+00:00"
+   "newest": "2026-10-26T07:43:08+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:02:00+00:00"
+   "newest": "2026-10-23T16:47:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T05:30:01+00:00"
+   "newest": "2026-10-26T07:52:30+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T07:54:41+00:00"
+   "newest": "2026-10-26T08:14:59+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T12:50:00+00:00"
+   "newest": "2026-10-26T08:17:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T08:12:00+00:00"
+   "newest": "2026-10-26T08:21:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T03:00:30+00:00"
+   "newest": "2026-10-25T06:23:49+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T05:14:41+00:00"
+   "newest": "2026-10-26T07:24:32+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -359,6 +359,23 @@
    "live_wire": true,
    "manual": false,
    "id": "a50469cea1e9582a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Taiwan Retail Sales Hit Over 2-Year High",
+   "url": "https://www.tradingview.com/news/te_news:594946:0-taiwan-retail-sales-hit-over-2-year-high/",
+   "published_utc": "2026-10-26T07:57:16+00:00",
+   "title_original": "Taiwan Retail Sales Hit Over 2-Year High",
+   "region": "taiwan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "eeb1af11d3a47535"
   },
   {
    "source_id": "tradingview_live",
@@ -395,6 +412,23 @@
    "id": "e924d1341ddb07b5"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Why Xi Is Using China’s Fifth Plenum to Tighten Party Control",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFlTcEswcWctMHdHZEx2NThLdFlkcDR2N0ZXRVlJWVF4djFmMjBocnV1OEFYb2wyRXZ5NDB6Z2VVdFFIMkVVUl8yYUl3QWFhR0luUnlVdDlGLXl3MUZZaWhUSjgyLUNIY3FiUmtnbTA2TVNaakxyLU1zSGZRQnRVbmFXRHBDajNoTEdia0duRmZ3VFUza0hod1BLQXhJQVQ4MWkzdEpONGh2VmNpdjhjY21EbUoyek1tTGtjdF9QaXpYWVdiSWZOTA?oc=5",
+   "published_utc": "2026-10-26T07:43:08+00:00",
+   "title_original": "Why Xi Is Using China’s Fifth Plenum to Tighten Party Control",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "266223d270130fa2"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Industrial Bank Of Korea Q3 Operating Profit 1 Trln Won, Up 5.6% From Year Earlier",
@@ -410,6 +444,23 @@
    "live_wire": true,
    "manual": false,
    "id": "405e1a545218c53b"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Survey: Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lbk8yQWRoNmRUbEVCekExdl81bjNCNlI2UG1WcGZBYVZLSFd4TWVjYmRZemgxSm5uRDhWajNXOUctVENxU3lJdmstbzd2UlpIaXN4N09TMVNzNU1lREMw?oc=5",
+   "published_utc": "2026-10-26T07:16:00+00:00",
+   "title_original": "調查：菲律賓通膨加劇近1/4家庭曾挨餓| 國際",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a9d628b53262d0d8"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1702,23 +1753,6 @@
    "live_wire": true,
    "manual": false,
    "id": "abb99736a46b6274"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Why Xi Is Using China’s Fifth Plenum to Tighten Party Control",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFlTcEswcWctMHdHZEx2NThLdFlkcDR2N0ZXRVlJWVF4djFmMjBocnV1OEFYb2wyRXZ5NDB6Z2VVdFFIMkVVUl8yYUl3QWFhR0luUnlVdDlGLXl3MUZZaWhUSjgyLUNIY3FiUmtnbTA2TVNaakxyLU1zSGZRQnRVbmFXRHBDajNoTEdia0duRmZ3VFUza0hod1BLQXhJQVQ4MWkzdEpONGh2VmNpdjhjY21EbUoyek1tTGtjdF9QaXpYWVdiSWZOTA?oc=5",
-   "published_utc": "2026-10-25T22:32:34+00:00",
-   "title_original": "Why Xi Is Using China’s Fifth Plenum to Tighten Party Control",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "266223d270130fa2"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -4563,8 +4597,8 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -4578,7 +4612,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -4667,8 +4701,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -4681,7 +4715,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -8447,8 +8481,8 @@
    "id": "5043654c1ca7f440"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "One year of the Takaichi administration: Interview with key figures from the ruling and opposition parties: Administration management and consumption tax cuts",
    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63175",
    "published_utc": "2026-10-21T13:09:44+00:00",
@@ -8462,7 +8496,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f1e35c84352fe79d"
+   "id": "92cfcaa6e2cfb914"
   },
   {
    "source_id": "tradingview_live",
@@ -51875,40 +51909,6 @@
    "live_wire": false,
    "manual": false,
    "id": "63433e8a12b0f15b"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "US dollar retreats after softer-than-expected inflation data By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeEVuaHZwUzYyU1BneUZ2bDBwYW1rTGx0ZjItbHozUWdlYVpsWmpWNjZyZ0VheFdjZHNweTVYWTR2WjNRazYtWGNQRWVzcFBSMzFJc0lJc0R2S0tqYlRYcTRCaUcyMWFhWFRUZVhrckE5ZWNNNTdjZVhfNk1HTlhkMmNJai1YRDBmUlBrRkRiRDBud2NXLWJsN3I4MjRjNzR3OG1rTTFJQlg?oc=5",
-   "published_utc": "2026-09-30T01:45:07+00:00",
-   "title_original": "US dollar retreats after softer-than-expected inflation data By Reuters",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "be3d5290543de2f7"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Breakingviews - COMMENTARY: China’s next big export could be $1.5 trln of debt",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHVjbHYwSi1PRDZQYXlRUVRtUkNnTl9zOGx0Z0RUdmpkY2IwRURZZ1BWSS14ZFBlM3VxNlFDcVJUdUF4LS13ZWd6WEpha19vR1U1WWY5cE8yZUQtdThzeXlucDFBdGFMSFpZLVJKNk1vNFBWcFEya3lxbk82VU1rY0VSMTFoRDA0SV93ei1XSlRwWlRuMGxNVFBTRU55X1pvUlIzRU5ROE4?oc=5",
-   "published_utc": "2026-09-30T01:39:00+00:00",
-   "title_original": "Breakingviews - COMMENTARY: China’s next big export could be $1.5 trln of debt",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ea90af80873acd33"
   },
   {
    "source_id": "manual_ia",
