@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T01:52:44.317383+00:00
+Última coleta: 2026-10-26T02:02:44.271451+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          986
+  🇯🇵 Japão          987
   🇨🇳 China          851
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  788
+  🇰🇷 Coreia do Sul  787
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan bond yields edge higher before key central bank meets
   - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO MON
   - [china] CHINA PBOC CONDUCTS CNY398 BLN VIA O/N REVERSE REPO MON
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7162 MON VS 6.7180
+  - [japan] Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)
   - [japan] Japan MOF To Auction Y250.0B Of Nov 2
   - [china] Chinese Yuan Hits 4-year High
   - [japan] JGB Yields Higher Amid Concerns About Higher Energy Prices — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] [Breaking news] Fukushima prefecture gubernatorial election exit poll results
   - [china] China’s export controls around PV cells could slow India’s upstream solar push
   - [china] Govt needs to incentivise domestic solar production as China eyes curbs on tech exports: Solex Chairman
-  - [japan] Fukushima prefecture gubernatorial election vote counting and exit poll election information is here [Breaking
-  - [china] The Egyptian pound continues to depreciate and reaches a record low. The president of the Egyptian Central Ban
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T01:52:44+00:00",
+      "published_utc": "2026-10-26T02:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

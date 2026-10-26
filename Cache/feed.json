@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T01:52:44.317383+00:00",
- "collected_at_utc": "2026-10-26T01:52:44.317383+00:00",
+ "generated_at_utc": "2026-10-26T02:02:44.271451+00:00",
+ "collected_at_utc": "2026-10-26T02:02:44.271451+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 986,
+  "japan": 987,
   "china": 851,
   "taiwan": 375,
-  "korea": 788
+  "korea": 787
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T01:51:50+00:00"
+   "newest": "2026-10-26T02:02:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T00:45:23+00:00"
+   "newest": "2026-10-26T01:39:15+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T00:26:24+00:00"
+   "newest": "2026-10-26T01:30:32+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan bond yields edge higher before key central bank meets",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46C03A:0-japan-bond-yields-edge-higher-before-key-central-bank-meets/",
+   "published_utc": "2026-10-26T02:01:16+00:00",
+   "title_original": "Japan bond yields edge higher before key central bank meets",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2a2e89741b55e498"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -393,6 +410,23 @@
    "live_wire": true,
    "manual": false,
    "id": "040b626decba418b"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93SW1kSTJ0XzB5Ml9ELVloZ0I5Z2tnNC1uRF9KUVRib3lnNHBFYjI0ZUY0dkZDSENQa2JsYTN6VGs4amFiUG9qeFBjczdxZnFxYmVXNURiNnN3b210cDV6X2xqdlJ3b1dRUHBDbzdvVnhyeF9WenplYzZTQ2tyOHM?oc=5",
+   "published_utc": "2026-10-26T01:39:15+00:00",
+   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "909577cb78ba9d43"
   },
   {
    "source_id": "tradingview_live",
@@ -1599,6 +1633,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f8b5673450e49cbb"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China Barely Eased Austerity Before Shift Into Stimulus Mode",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMzNVNE5TMkFBWS1ReFFlbEgwZGJTMmY2YmJibmZpWE9EVmI0R2dMV0hkZkNBcVJNMnU0Mml5R055bkE3emxEb01SbTYyMjYxdFA2S0tjcEhEdkxLVjlMQl9ELXFQa3l6Skx3U3dZMmxXMGswc0NJYTQ2QzlWXzNHNjhwV0xTNHBzN1VaeGpXRUZ2WGpiT1NHYndhUW1vTEx2MzFLVXJtQkM5OU5oV1lQZHM2RzE?oc=5",
+   "published_utc": "2026-10-24T01:30:00+00:00",
+   "title_original": "China Barely Eased Austerity Before Shift Into Stimulus Mode",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5ec6f3c975087dd"
   },
   {
    "source_id": "tradingview_live",
@@ -51855,60 +51906,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c757101be746c8e4"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "After the National Standing Committee set the tone, the central bank launched a new round of financial package to stabilize growth.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkMkktX0FfRXhJNDA2eWxUT1JUVjhNZHhnUXdTcEFjNHRkeXFnVjJvdnRqWUNURmdRUmtWdzN2LUVNdzB4UEg2b3FXdnJqanlGZnV6YW01VWxLSnF5WTNoRTNtMUphaTNJZTZ1RTZwb2NiblFodXc?oc=5",
-   "published_utc": "2026-09-29T15:02:00+00:00",
-   "title_original": "国常会定调后，央行新一轮稳增长金融组合拳来了",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "96a982a3ef6194fe"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "K-Radio 우리방송",
-   "title_en": "The Korean financial market is tense due to the sharp rise in US and Japanese government bond yields... Bank of Korea warns of ‘interest rate and foreign exchange’ risks",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vQWlCOUxPWk9CS1FnNjRZckN1ZGc1dFJzU1JlVWlXQzExQUtSWUpCMUlLay1NLWRPbnlJbm5IcWx5ZnV5UFFGelEtd3VoSk1wVjBtaEFCaUdvMVNFSEdyX19ka0tUbnIyVmJGLWNR0gFyQVVfeXFMUFFsZ2NUeldGNDNROHJ6M2x4UHRVTFl2VWVJalZkRHp2d0lqa1VYUy1vYVJXYmVqeE8wS1QyMzRwRWJHdVg4WjZZOW5CblZ3SzUydmJLdUY2Z0lxaTFwd0JiTFd4NFNiUWN4NmNISUJ2dzVR?oc=5",
-   "published_utc": "2026-09-29T14:55:17+00:00",
-   "title_original": "미·일 국채금리 급등에 한국 금융시장 긴장…한은, ‘금리·외환’ 리스크 경고",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d5a3580e0dddf956"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmw2eEY3N1RVcXQxSjJjNTNBSzZEZG9VcHBzZC1xbHYyQi1PaGVTSk4yZ0NWMHBqNTdUTlhUdlZwVFREdGJQOFFXNlE4R0pqMkZfQmtVWUdLVWNQbGhOeDcwLUhyWk14RmtMOXo4Ty1UX19XRWlFUU1tcmIxOC1WOW9lLU5aUkRfQk9wNjdreWdfNVdYbEo4aEZWRUVBVkpqcEp0ckJqdUprVm1rbUJ3TFdKTW9mVVJn?oc=5",
-   "published_utc": "2026-09-29T14:46:00+00:00",
-   "title_original": "Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook By Investing.com",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f428d94cbd2e1c0d"
   },
   {
    "source_id": "manual_ia",
