@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-26T22:52:45.668351+00:00",
- "collected_at_utc": "2026-10-26T22:52:45.668351+00:00",
+ "generated_at_utc": "2026-10-26T23:02:42.457263+00:00",
+ "collected_at_utc": "2026-10-26T23:02:42.457263+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 984,
-  "china": 850,
+  "china": 848,
   "taiwan": 375,
-  "korea": 791
+  "korea": 793
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-26T22:51:04+00:00"
+   "newest": "2026-10-26T23:02:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T21:24:50+00:00"
+   "newest": "2026-10-26T19:18:03+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-26T22:34:48+00:00"
+   "newest": "2026-10-26T22:58:08+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T22:08:00+00:00"
+   "newest": "2026-10-26T22:53:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "South Korea's economy grows 1.0% in 3rd quarter on chip boom",
+   "url": "https://asia.nikkei.com/economy/south-korea-s-economy-grows-1.0-in-3rd-quarter-on-chip-boom",
+   "published_utc": "2026-10-26T23:02:42.139597+00:00",
+   "title_original": "South Korea's economy grows 1.0% in 3rd quarter on chip boom",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "adb975d418844876"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's lab-grown diamond makers target AI, chip sectors for next wave of growth",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45807I:0-china-s-lab-grown-diamond-makers-target-ai-chip-sectors-for-next-wave-of-growth/",
+   "published_utc": "2026-10-26T23:00:00+00:00",
+   "title_original": "China's lab-grown diamond makers target AI, chip sectors for next wave of growth",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "da09f8845df91dce"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korea Q3 GDP +1.0% q/q, stronger than expected",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N440056:0-south-korea-q3-gdp-1-0-q-q-stronger-than-expected/",
+   "published_utc": "2026-10-26T23:00:00+00:00",
+   "title_original": "South Korea Q3 GDP +1.0% q/q, stronger than expected",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "62460f5a78557d4a"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -1085,23 +1136,6 @@
    "id": "49733b0dfbc48686"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Beijing Wantai Biological Pharmacy Q3 Net Loss At 102.5 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46C0JT:0-beijing-wantai-biological-pharmacy-q3-net-loss-at-102-5-million-yuan/",
-   "published_utc": "2026-10-26T09:08:00+00:00",
-   "title_original": "Beijing Wantai Biological Pharmacy Q3 Net Loss At 102.5 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b2c4dd7b1f650cc0"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "Asian stocks closed with mixed trends as the market awaits technology industry earnings reports and central bank decisions | Securities",
@@ -1117,23 +1151,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3f20e5bcf5f19e10"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's central bank sets up non-bank financial institution bond market swap facility",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44P09Y:0-china-s-central-bank-sets-up-non-bank-financial-institution-bond-market-swap-facility/",
-   "published_utc": "2026-10-26T09:02:47+00:00",
-   "title_original": "China's central bank sets up non-bank financial institution bond market swap facility",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "bcf290620e7c9862"
   },
   {
    "source_id": "investing_econ",
@@ -1791,7 +1808,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53amxBcmVuSFR3amxLQThXNVcwWnFRVl9IU2Z0QWVTWGRFLXpGTElFbHJUNEJwUGx0blMtYmw5SUd5XzFDS0lZaTM3UG10S2VHOXBKVkR0bi1RU1JMbHBNZTRB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -1803,7 +1820,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "637fb07118250770"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -13071,7 +13088,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺财经",
+   "source_name": "同花顺",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1bUlWbk81QVNIdjBWdl9xLWR5Z3dpcng2TG9DTjZRRFlBanZvSmh1NnF4RllUZ2FWZEU1OFRkdlRfQ0g1OGtNX0laQ3JaU1NGYXF3eWFjOXBBZlliYVE?oc=5",
    "published_utc": "2026-10-20T05:21:26+00:00",
@@ -51894,23 +51911,6 @@
    "live_wire": false,
    "manual": false,
    "id": "70411000e629aa83"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmY1bmJOSzlUYUtEZ1Bna3ZEM21LdXdyOEZYX3hpTkJ5THk2SG52WlQzcTRSOTl5SjRCS2JJYkZxYUdLRTNyanBhN0lsODBVeFM0cnlHbW4zamdOby0wNUltSWZxRnFkQkFVRV9famVYSDVvRHlCTjNpYzliQVJneUd0VHZmblFCSGh5ckdIX3paLXpXc3l5am9uaTdJNWRDaTdBWjl5dzJoOVplYWpHZXJkanJpY3FtU0pZaC1SRm1PNkdMUktkaWJ3?oc=5",
-   "published_utc": "2026-09-30T07:00:00+00:00",
-   "title_original": "China Posts $378 Billion Current Account Surplus Driven by Strong Exports, AI",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "43fd139b9ffda4e0"
   },
   {
    "source_id": "manual_ia",

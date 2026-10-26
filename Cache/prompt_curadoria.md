@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T22:52:45.668351+00:00
+Última coleta: 2026-10-26T23:02:42.457263+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          984
-  🇨🇳 China          850
+  🇨🇳 China          848
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  791
+  🇰🇷 Coreia do Sul  793
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea's economy grows 1.0% in 3rd quarter on chip boom
+  - [china] China's lab-grown diamond makers target AI, chip sectors for next wave of growth
+  - [korea] South Korea Q3 GDP +1.0% q/q, stronger than expected
   - [korea] South Korea GDP Data Due On Tuesday
   - [japan] Preview: Forecasters See Japanese Retail Sales Up Again in September with Boost from Autos, Department Store S
   - [japan] Preview: Forecasters See Japan Industrial Production Lifted Again By AI Buildout in September
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Price Target Cut to $250.00/Share From $300.00 by Cantor Fitzgerald
   - [china] Dosilicon Q3 Net Profit At 830.1 Million Yuan
   - [china] SPIC Industry Finance Q3 Net Profit At 903.3 Million Yuan
-  - [japan] Japan's largest machine tool trade show Introducing technologies using AI
-  - [japan] Currencies idle ahead of five-bank gauntlet; euro gains on Moody’s reprieve
-  - [china] China's central bank launches swap facility to offer emergency liquidity to asset managers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T22:52:45+00:00",
+      "published_utc": "2026-10-26T23:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
