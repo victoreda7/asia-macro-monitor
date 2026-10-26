@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T21:52:45.057170+00:00
+Última coleta: 2026-10-26T22:02:45.415509+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          983
-  🇨🇳 China          851
+  🇯🇵 Japão          984
+  🇨🇳 China          850
   🇹🇼 Taiwan         376
   🇰🇷 Coreia do Sul  790
 
 ## O que já está no feed (não repita)
 
+  - [japan] Preview: Forecasters See Japanese Retail Sales Up Again in September with Boost from Autos, Department Store S
   - [japan] Preview: Forecasters See Japan Industrial Production Lifted Again By AI Buildout in September
   - [japan] Preview: Forecasters See Japan Jobless Rate Flat in September as Employment Remains Buoyant
   - [korea] Samsung's Exynos 2700 outperforms Qualcomm's flagship chip by nearly 20 pc
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Currencies idle ahead of five-bank gauntlet; euro gains on Moody’s reprieve
   - [china] China's central bank launches swap facility to offer emergency liquidity to asset managers
   - [korea] SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report
-  - [japan] Euro firms against dollar, yen ahead of central bank meetings
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T21:52:45+00:00",
+      "published_utc": "2026-10-26T22:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
