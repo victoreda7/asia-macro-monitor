@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T12:33:44.582997+00:00
+Última coleta: 2026-10-26T12:43:41.794807+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          982
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.
   - [japan] Euro firms against yen, flat vs dollar ahead of central bank meetings
   - [china] China XLX Fertiliser nine-month profit rises on export growth
   - [china] Zhejiang Jiemei Electronic and Technology Plans To Invest 2.7 Billion Yuan In Project
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Industrial Bank Of Korea Q3 Operating Profit 1 Trln Won, Up 5.6% From Year Earlier
   - [taiwan] Survey: Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International
   - [taiwan] Inflation rises in Philippines, nearly 1/4 of households have gone hungry | International
-  - [japan] Stock prices fall Sell orders centered on semiconductor-related stocks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T12:33:44+00:00",
+      "published_utc": "2026-10-26T12:43:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
