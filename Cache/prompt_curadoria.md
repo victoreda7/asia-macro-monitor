@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T06:02:42.860821+00:00
+Última coleta: 2026-10-26T06:12:44.151470+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [korea] South Korean Won Hits 24-month High
   - [china] Asia FX muted, yuan at 4-yr high; dollar drifts lower ahead of c.bank-packed week
   - [china] The central bank launched a 700 billion yuan MLF operation on October 26 with a term of one year
+  - [korea] SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report
   - [china] China stocks slip as tech shares lead declines, before key central bank meetings
   - [japan] Future “Regulatory reform for AI utilization and countermeasures against “AI unemployment”” Recommendations to
   - [china] China's Humanoid Shipment Volumes Likely to Remain Modest — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan bond yields edge higher before key central bank meets
   - [japan] Trump's approval rating is at an all-time low, but white Christian evangelicals still form a solid support bas
   - [china] CHINA PBOC CONDUCTS CNY56 BLN VIA 7-DAY REVERSE REPO MON
-  - [china] CHINA PBOC CONDUCTS CNY398 BLN VIA O/N REVERSE REPO MON
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T06:02:43+00:00",
+      "published_utc": "2026-10-26T06:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
