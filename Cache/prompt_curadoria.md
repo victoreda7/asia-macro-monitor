@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-26T00:52:45.643597+00:00
+Última coleta: 2026-10-26T01:02:42.307394+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          985
-  🇨🇳 China          853
+  🇨🇳 China          852
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  787
+  🇰🇷 Coreia do Sul  788
 
 ## O que já está no feed (não repita)
 
+  - [china] Key facts: Meituan Class B (3690) plans 5-/10-yr CNY bond; Moody's Baa1
+  - [korea] Sk Hynix Considering Various Ways On Shareholder Return Plans
+  - [korea] SK Hynix's Halt to Potential Solidigm U.S. IPO Positive for Shares — Market Talk
   - [korea] SK Hynix is said to plan $12B special dividend from Kioxia investment
   - [china] Meituan mandates banks for offshore yuan bond sale to refinance debt
   - [japan] BOJ Tipped to Hold Rates Despite High Inflation — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Why Kospi and Korean won have parted ways
   - [china] China’s tech giants are paying 1 million yuan for a new kind of AI engineer
   - [japan] ``Japan's first full-fledged suburban luxury residential area'' ``Eiichi Shibusawa is also involved in the dev
-  - [japan] "A garden city before Denenchofu" and "favored by the elites of the Taisho era"...The background of the "hidde
-  - [japan] Will the October FOMC leave interest rates unchanged? Focus
-  - [japan] Chairman of the ruling and opposition party committees discuss consumption tax reduction bill NHK Sunday debat
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-26T00:52:45+00:00",
+      "published_utc": "2026-10-26T01:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
