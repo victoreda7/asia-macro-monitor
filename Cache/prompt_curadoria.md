@@ -7,16 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T01:32:43.338057+00:00
+Última coleta: 2026-10-27T01:42:43.593439+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
-  🇨🇳 China          846
+  🇨🇳 China          848
   🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  798
+  🇰🇷 Coreia do Sul  796
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY1000 BLN VIA O/N REVERSE REPO TUES
+  - [china] The central bank launched a 412 billion yuan 7-day reverse repurchase operation today
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7171 TUES VS 6.7162
+  - [china] China's industrial profits rise 15.5% in January-September
+  - [china] Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets t
+  - [china] From January to September 2026, profits of industrial enterprises above designated size nationwide increased b
   - [korea] S.Korean shares rebound as Anthropic IPO plan drives Samsung, SK Hynix rally
   - [korea] SK Hynix tests bearish resistance cluster at KRW 1,381,000: Live
   - [japan] BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins
@@ -30,6 +36,7 @@ Total: 3000 manchetes
   - [korea] South Korea’s Economy Beats Forecasts on AI-Driven Chip Boom
   - [japan] MNI: JAPAN SEPT SERVICES PPI +3.7% Y/Y; AUG +3.5%
   - [japan] Japan Services Producer Inflation Highest Since June 2024
+  - [korea] South Korea’s AI Fund Offers ‘Fiscal Dam’ Against Higher Yields
   - [japan] Services Producer Price Index (Sept.)
   - [korea] South Korea GDP grows more than expected in Q3 on AI boost
   - [korea] (LEAD) S. Korea's GDP expands 1 pct in Q3 on strong exports, investment: BOK
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [taiwan] AI and oil worries rattle Asian currencies from Taiwan to Philippines
   - [korea] Samsung Electronics Stocks Decline Before 107.4 Trillion Won Profit Test
   - [japan] U.S. IT giant Meta raises up to 15 trillion yen through stock issuance, plans for huge capital investment in A
-  - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 196.86, Implies 36% Upside
-  - [japan] Japan life insurers eye purchases of higher-yielding JGBs
-  - [china] MBRF meatpacking plant in Promissão has exports suspended by China, says CNN
-  - [china] China halts beef imports from MBRF plant in Brazil, CNN reports
-  - [korea] Samsung Life lança emissão de títulos de US$ 1,5 bilhão, segundo mostra a ficha de termos
-  - [korea] SK Hynix Q3 earnings on deck: What to expect
-  - [japan] Preview: Forecasters See Tokyo CPI Staying Well above BOJ’s 2% Target in October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T01:32:43+00:00",
+      "published_utc": "2026-10-27T01:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

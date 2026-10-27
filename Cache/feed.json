@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T01:32:43.338057+00:00",
- "collected_at_utc": "2026-10-27T01:32:43.338057+00:00",
+ "generated_at_utc": "2026-10-27T01:42:43.593439+00:00",
+ "collected_at_utc": "2026-10-27T01:42:43.593439+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 983,
-  "china": 846,
+  "china": 848,
   "taiwan": 373,
-  "korea": 798
+  "korea": 796
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T16:41:00+00:00"
+   "newest": "2026-10-26T10:27:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:43:37+00:00"
+   "newest": "2026-10-24T01:44:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -163,7 +163,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T07:00:00+00:00"
+   "newest": "2026-10-27T01:30:00+00:00"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 25,
    "error": "",
-   "newest": "2026-10-26T04:43:18+00:00"
+   "newest": "2026-10-27T01:35:10+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T01:31:12+00:00"
+   "newest": "2026-10-27T01:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T19:28:42+00:00"
+   "newest": "2026-10-26T22:28:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T23:46:32+00:00"
+   "newest": "2026-10-26T23:39:46+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,109 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY1000 BLN VIA O/N REVERSE REPO TUES",
+   "url": "https://www.tradingview.com/news/dpa_afx:a3531bc578708:0-china-pboc-conducts-cny1000-bln-via-o-n-reverse-repo-tues/",
+   "published_utc": "2026-10-27T01:39:31+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY1000 BLN VIA O/N REVERSE REPO TUES",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "acf2cc9945b60cf4"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "www.capwhale.com",
+   "title_en": "The central bank launched a 412 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFExZjh0N01aM2RRenlpVUo4QzNIVHZxelRiaWxrMzhNR0pDaGM4RFFENjNUaW5IdF96NElFNm5mOEd3Q3p0RlVNOFRCT1EwVVJoQTRMSHdsZmFFMFFXRE55VUR4WFNoaGpXWkJoT1hDUFEwSzJmd1dKdzAyTmpObHdwQXFuZnJDbE93NFZpZm8zdw?oc=5",
+   "published_utc": "2026-10-27T01:35:10+00:00",
+   "title_original": "央行今日开展4120亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "57b5d193a27af473"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7171 TUES VS 6.7162",
+   "url": "https://www.tradingview.com/news/dpa_afx:8ed64b49147d4:0-china-sets-yuan-central-parity-at-6-7171-tues-vs-6-7162/",
+   "published_utc": "2026-10-27T01:34:49+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7171 TUES VS 6.7162",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "75434dc7a446e12b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's industrial profits rise 15.5% in January-September",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45901U:0-china-s-industrial-profits-rise-15-5-in-january-september/",
+   "published_utc": "2026-10-27T01:31:48+00:00",
+   "title_original": "China's industrial profits rise 15.5% in January-September",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "402704751b91007a"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets the profit data of industrial enterprises from January to September 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aWHVCdzdGSjdJZ0VfQldrZ0p6XzIxYkdPYm1ndWpyUHVkQ0ZaUHMxbkZlc3JscFM3ZURhMGVPOThvempiUDlzcks5U2pRTmx3TEJKZG94VTRJYURqM0tPbW9LWm1DTGVzQXdaejFPTnYxX0k?oc=5",
+   "published_utc": "2026-10-27T01:30:00+00:00",
+   "title_original": "国家统计局工业司首席统计师于卫宁解读2026年1—9月份工业企业利润数据",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9d55f8e43a19a264"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "From January to September 2026, profits of industrial enterprises above designated size nationwide increased by 15.5%",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wNzk1c3k4UGJNUFpNeTNHUGg4UG91cGlqTUJuVzV1anpQVFBxdzZkQ21XMjl5VER6VEVQTHloNDkwVzJsd0J6X2duUTRuLWZvN09tbVVoOEg0SE5qTjQ2ajhscHlLWHZLNkg2Q3o1V2Z1bGc?oc=5",
+   "published_utc": "2026-10-27T01:30:00+00:00",
+   "title_original": "2026年1—9月份全国规模以上工业企业利润增长15.5%",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "781d054f0a999f07"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -566,6 +669,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c1e02361f181a322"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "South Korea’s AI Fund Offers ‘Fiscal Dam’ Against Higher Yields",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTViQmFtUVJ2QkdFNTJQZThwNzMtM3hwbGxjbmtrY3dReDNqQk5jN2NzRk9hWlJCTGtTRV9hNzNQal9pU2xicTFIZHM3MVBOclFMeS10UF9WN3RrWXVPdHR0Z29QMmxta1d3a0RyaXQ2TFVxajlrdEdRd2RwMmFGRGJpVHB4d1N0T3B0M3F4T1U4dzI3UnRKaTdoc1RaTWJ4YzVmV2hQZnRrY2I4SWdBeUtn?oc=5",
+   "published_utc": "2026-10-27T00:00:00+00:00",
+   "title_original": "South Korea’s AI Fund Offers ‘Fiscal Dam’ Against Higher Yields",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5829b201bd4293dc"
   },
   {
    "source_id": "boj_whatsnew",
@@ -2099,9 +2219,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "Sohu",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmdUams3cmxlNXc5TXEzSmpsam1JX3NtNGJWM0h4R05LWWhJeVBFYkxjZW9QS3Vkb2p4U0VUTFY1d1BRTkg4Q1FLanhyWXNmYXE0NGJZYTREVjlmajZURWJNWVdMbWtEdWpRODIyUnUzTjctTC1iNjJrcFJWSnRGTU16RGFCYUtSUTlN?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -2113,7 +2233,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "dee37dbc8c1d6e98"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2153,7 +2273,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 billion yuan of MLF expires.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95Z19yZUlkamFRWjlmcjNXYVJmUXVhbWczbEsyS1lWVnlDYVdVZWt6N0FqaGUxQjlocWlwN3lZM1gtOXphQmNEdGJScWNGdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14YnZJVThIRTl5M240ZE54VWVlVEh5ZTZob2hTdTE1c3ltUTdzdXA3MEZUUGd4eWo4SHRrbnRCZmJZOWxlRTdsbWFsc1RCNWk5VHBYV0hZNi1YelowbHpVQnh3?oc=5",
    "published_utc": "2026-10-26T02:57:10+00:00",
    "title_original": "本周央行公开市场逆回购到期3380亿元 周二9000亿元MLF到期",
    "region": "china",
@@ -2165,7 +2285,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e21ee44288074ab5"
+   "id": "50b41cccc95aaa06"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2342,24 +2462,6 @@
    "id": "d4a3aa3b3df6303c"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
-  },
-  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Currency markets subdued ahead of pivotal central bank week",
@@ -2428,6 +2530,23 @@
    "live_wire": false,
    "manual": false,
    "id": "26cbdb1b7286371e"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93SW1kSTJ0XzB5Ml9ELVloZ0I5Z2tnNC1uRF9KUVRib3lnNHBFYjI0ZUY0dkZDSENQa2JsYTN6VGs4amFiUG9qeFBjczdxZnFxYmVXNURiNnN3b210cDV6X2xqdlJ3b1dRUHBDbzdvVnhyeF9WenplYzZTQ2tyOHM?oc=5",
+   "published_utc": "2026-10-26T01:39:15+00:00",
+   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "909577cb78ba9d43"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2911,6 +3030,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -4051,24 +4188,6 @@
    "id": "c0606821eacd5484"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
-   "published_utc": "2026-10-23T12:38:12+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d3a519ddfcdc2da"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -4084,6 +4203,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
+   "published_utc": "2026-10-23T12:32:55+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -5058,23 +5195,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3ac990465bc04646"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXZTbzVEaXY2d3l5bk5vb0xkVm5aZkl0Z25nLWtiTWpuUmgtR05ZYTB5V1BlbWcxMmRCS01yN0FfXzJXT2lJLXhucE9hZzBuWURzcklaMF81bzNGRU95TVNYbzdiRXhEcURrR2JBYU9yOENjVDU0RlVBbzJRUlBhZWdTaXZfQnI4?oc=5",
-   "published_utc": "2026-10-23T07:00:00+00:00",
-   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "eda4db23a9b07274"
   },
   {
    "source_id": "focus_taiwan",
@@ -29032,23 +29152,6 @@
    "id": "11b3252f7e54d884"
   },
   {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Visa Wins Preliminary Approval for Yuan Card Clearing in China",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV1lLRy1MeHV6cXZGQ0NkdmNFdUV5dmljenhqQy1mVDRCOTZzRU1UU1hGVU00ekJRMVNJUjM3bkp4cldYTlNYV0R5NmUxRmJmWnRFT1Z5c1ZVUW41SUp3NmN3RFYzRFI1ZHN0dmRhMWVSclF4UFJqV0dxdmdKRE85TEZNT0xJS1hRdlNFWjhmWV8xeC1Ma0N5Ui1xU0xudllacVpRbjJUVWE4ak5wLXZSZWdoX21STFhD?oc=5",
-   "published_utc": "2026-10-13T08:29:00+00:00",
-   "title_original": "Visa Wins Preliminary Approval for Yuan Card Clearing in China",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "889e0c1227ff4a8b"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Repeat & Correct: South Korea's Kospi Slumps on Selloff in Chip Stocks — Update",
@@ -29532,6 +29635,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f67cbc8c5f9c4c11"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "Visa Wins Preliminary Approval for Yuan Card Clearing in China",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV1lLRy1MeHV6cXZGQ0NkdmNFdUV5dmljenhqQy1mVDRCOTZzRU1UU1hGVU00ekJRMVNJUjM3bkp4cldYTlNYV0R5NmUxRmJmWnRFT1Z5c1ZVUW41SUp3NmN3RFYzRFI1ZHN0dmRhMWVSclF4UFJqV0dxdmdKRE85TEZNT0xJS1hRdlNFWjhmWV8xeC1Ma0N5Ui1xU0xudllacVpRbjJUVWE4ak5wLXZSZWdoX21STFhD?oc=5",
+   "published_utc": "2026-10-13T07:00:00+00:00",
+   "title_original": "Visa Wins Preliminary Approval for Yuan Card Clearing in China",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "889e0c1227ff4a8b"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51790,128 +51910,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4f9dd025eecd175a"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minister of Land, Infrast..",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iY0gtTXdiUkc2eXdjUHh1OW1LSzZuR1kwMGNEcEg2YUhubFhwQXJNMUhJLWVrMGFEZzIwOWEydWlKVWtSTHhyZ2JvN3RYM0Fiam00?oc=5",
-   "published_utc": "2026-09-30T09:24:24+00:00",
-   "title_original": "Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minister of Land, Infrast..",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "a9cd4a24be68adf4"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "资鲸",
-   "title_en": "Central Bank: Launching 1.2 trillion yuan buyout reverse repurchase operation on October 8 with a period of 3 months",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQTdKcmZULVlFRGxqWEx6aW9rYnlQQ0NJVmI1bnMxNnhCOGZYWVZXS3JHbmhlVHliekFVOXBEaEVTenFYaElRdGN1WkRCeERwZkhubGFjZTFCblNhSmRlMlZuaTNhbDR4b24zUFFvY2dkUnJQbzNiMC0xWmZMckRzMlVMTGMxekQzUkxEZEhzbnhfZw?oc=5",
-   "published_utc": "2026-09-30T09:22:26+00:00",
-   "title_original": "央行：10月8日开展12000亿元买断式逆回购操作 期限3个月",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c415529b8da5829a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Central Bank: Will launch 1.2 trillion yuan buyout reverse repurchase operation on October 8",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR09fQVNodnExMkNJZWx6TkkzQVBsYnVwU3B0TlRuUFZtZS1tTG82Z0stUzZ5MGZrQnFPZldFQi1FYVdlNGNqMy1GTHR2XzEyYTlZNkJGM3pMa3hkemJZcEgzd19wZXZoOHViX2dVVXBMY21NOURVckhyMGR0emk2X1gxRDRocnp3dUhVbXRR?oc=5",
-   "published_utc": "2026-09-30T09:14:00+00:00",
-   "title_original": "央行：将于10月8日开展12000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3f8802ed2acb110"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한국경제",
-   "title_en": "Global interest rates are resembling 'Corona tightening'... Will Korea also go up by 3.5% per year?",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcmp0RDhESlJPQVFlaE9QTDUyREZ5TXNDMmhCV1hFc0NfOUg4RWJ6NFpQM25LYzRLcExFZ0NPSW9feW5tZ3VmSG1vMVFmcUt1SmRidVoxUmxZdw?oc=5",
-   "published_utc": "2026-09-30T09:11:13+00:00",
-   "title_original": "'코로나 긴축' 닮아가는 글로벌 금리…韓도 年3.5% 갈까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "772e3a46e7fccceb"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한국경제",
-   "title_en": "Global interest rates are resembling ‘post-Corona austerity’… Will Korea also go to 3.5%?",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcmp0RDhESlJPQVFlaE9QTDUyREZ5TXNDMmhCV1hFc0NfOUg4RWJ6NFpQM25LYzRLcExFZ0NPSW9feW5tZ3VmSG1vMVFmcUt1SmRidVoxUmxZdw?oc=5",
-   "published_utc": "2026-09-30T09:11:13+00:00",
-   "title_original": "'코로나 후 긴축' 닮아가는 글로벌 금리…韓도 3.5% 갈까",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c12809ebef3e275f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "财联社",
-   "title_en": "17:04:27 [Central Bank: A 1.2 trillion yuan buyout reverse repurchase operation will be carried out on October 8 with a period of 3 months]",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2cktXNzRrMEZfZVFtaS15UF84a0t3ZGpuRWpud3hsaWhsWnpKTjhJcHQwTDlrWVltRlB2dkh1ZGZWRU42clB4Rw?oc=5",
-   "published_utc": "2026-09-30T09:09:45+00:00",
-   "title_original": "17:04:27【央行：10月8日将开展12000亿元买断式逆回购操作 期限为3个月】",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "98c3b3f017e15a8b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China enables four new Brazilian plants to export meat",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45M0AQ:0/",
-   "published_utc": "2026-09-30T09:08:37+00:00",
-   "title_original": "China habilita quatro novas plantas brasileiras para exportação de carnes",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "884caacfe9b58be6"
   },
   {
    "source_id": "manual_ia",
