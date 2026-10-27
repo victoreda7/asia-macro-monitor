@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-27T07:12:46.822209+00:00",
- "collected_at_utc": "2026-10-27T07:12:46.822209+00:00",
+ "generated_at_utc": "2026-10-27T07:22:42.043119+00:00",
+ "collected_at_utc": "2026-10-27T07:22:42.043119+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 377,
   "korea": 809
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T06:55:36+00:00"
+   "newest": "2026-10-27T07:11:26+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-27T06:25:21+00:00"
+   "newest": "2026-10-27T07:12:06+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T07:11:32+00:00"
+   "newest": "2026-10-27T07:21:50+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-27T02:08:50+00:00"
+   "newest": "2026-10-27T07:13:02+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:13:26+00:00"
+   "newest": "2026-10-27T06:26:47+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -359,6 +359,24 @@
    "live_wire": true,
    "manual": false,
    "id": "25474011daf988d8"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, had net remittances of US$54.3 billion in the past four months | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzNEpfVUpXay1HRzU0Ym9PMGNVVVBtc0Z3cm1mbnRQamVDMlNXYjJTVEZsbHdRNW56Y3FwbEttQk1OT0xzNk9QbGItRFZOcnpjOWotNzEwTUdoSjNqVFE?oc=5",
+   "published_utc": "2026-10-27T06:54:00+00:00",
+   "title_original": "央行揭新台幣貶值關鍵外資近4個月淨匯出543億美元| 產經",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "95a2da0ff3f35a18"
   },
   {
    "source_id": "gn_tw_cna",
@@ -619,24 +637,6 @@
    "live_wire": true,
    "manual": false,
    "id": "47a8ca8cb15820e1"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, had net remittances of US$54.3 billion in the past four months | Sankei",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzNEpfVUpXay1HRzU0Ym9PMGNVVVBtc0Z3cm1mbnRQamVDMlNXYjJTVEZsbHdRNW56Y3FwbEttQk1OT0xzNk9QbGItRFZOcnpjOWotNzEwTUdoSjNqVFE?oc=5",
-   "published_utc": "2026-10-27T05:33:00+00:00",
-   "title_original": "央行揭新台幣貶值關鍵外資近4個月淨匯出543億美元| 產經",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "95a2da0ff3f35a18"
   },
   {
    "source_id": "investing_econ",
@@ -10939,10 +10939,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
+   "source_name": "Investing.com Nigeria",
    "title_en": "IMF official says currency intervention offers limited benefits By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0lDRUJlUk9keFZsemc1dF82SDg0SURhNGxHWEU5TktyaE43Yk12VEpzQWlfdzhOVm1USTlHUW5ta3BBNEl6bVpQWkVBSFB3RXQyUUdmeFU3U2djbFFPRUtDTWNoSVYyZXU4ZnZWbWUyRXpUdFo5R19za1dVaEhuRXpLSlFBbVByTTltcE0yUk5YSF9rN2laTUNmZkx2bVdwZ0Z5TzdUVXBudG9xSjRpeEFTQVYzRlpHMzZKend2QWtCZw?oc=5",
-   "published_utc": "2026-10-21T11:32:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEFyQmpNR3FKZy1DMDJ3cXE0cThrUDNyOTFFb2kxcUF4cDZkY3FyeW5UcHlKMnF0UkxpVzZSc0hZQWIzSUloQWVXOVNHTnA5dkQ1RzJQaG5idGVGMTJTM2lucDNLNzV4WXdlN0lIX1cxbjF3SVpOODE1R3VBSTl6R1JPNEUwUHI2T3FKTnZPYjFwTW5EU21nOEVNQ2VUaEM3R0hXLWtVXzJjb0N4Z3NmZzZIc1QtOXpSMnJfdERQVWdmQQ?oc=5",
+   "published_utc": "2026-10-21T11:31:33+00:00",
    "title_original": "IMF official says currency intervention offers limited benefits By Investing.com",
    "region": "japan",
    "topics": [
@@ -10952,7 +10952,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "4a7ba9c9b837fbf7"
+   "id": "b05f20efe1c5bdbf"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -24580,23 +24580,6 @@
    "id": "f70b6cafaf408c20"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -24613,6 +24596,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",

@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T07:12:46.822209+00:00
+Última coleta: 2026-10-27T07:22:42.043119+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          972
@@ -18,6 +18,7 @@ Total: 3000 manchetes
 ## O que já está no feed (não repita)
 
   - [korea] South Korean shares end over 3% higher on US rally, strong GDP
+  - [china] The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, ha
   - [china] AI investment expansion encounters bottlenecks, the central bank is worried about financing risks and amplifie
   - [japan] Japan’s trend inflation index hits 3-year high, cements case for BOJ rate hike
   - [japan] Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs
@@ -33,7 +34,6 @@ Total: 3000 manchetes
   - [china] The central bank's reverse repurchase net investment today was 1.014 billion yuan, and the China Development B
   - [korea] SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview
   - [japan] Japan stands ready to take decisive action in currency market, finance minister says
-  - [china] The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, ha
   - [taiwan] Taiwan central bank sees strong tech demand driving exports into 2027
   - [china] China 5-Year Yield Hits Record Low on PBOC’s Cash Injection
   - [japan] Yen eases on risk-on mood ahead of central bank bonanza
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T07:12:47+00:00",
+      "published_utc": "2026-10-27T07:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
