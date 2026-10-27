@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T10:12:44.961012+00:00
+Última coleta: 2026-10-27T10:22:44.144586+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          956
-  🇨🇳 China          853
-  🇹🇼 Taiwan         380
+  🇨🇳 China          854
+  🇹🇼 Taiwan         379
   🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 199.71, Implies 37% Upside
+  - [china] Sustained Recovery for China Equities May Require Stronger Stimulus — Market Talk
   - [japan] Retail price of eggs reaches record high “Avian influenza continues to affect” Ministry of Agriculture, Forest
+  - [japan] Meiko Electronics - Announcement Of Execution Of A Basic Agreement Regarding Acquisition Of Shares Of Unimicro
+  - [korea] Huons Global To Acquire Real Estate Worth 244.5 Billion Won
   - [china] Xinjiang Daqo New Energy Q3 Net Loss At 410.9 Million Yuan
   - [taiwan] Foreign fund outflows send Taiwan dollar sharply lower: Central bank
   - [china] China National Nuclear Power: Nine-month profit fell sharply amid tariff and cost pressures, despite stronger 
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean shares end over 3% higher on US rally, strong GDP
   - [china] AI investment expansion encounters bottlenecks, the central bank is worried about financing risks and amplifie
   - [japan] Japan’s trend inflation index hits 3-year high, cements case for BOJ rate hike
-  - [korea] Kospi Gains as Chip, Battery Stocks Advance
-  - [korea] S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast
-  - [japan] CPI excluding special factors accelerates sharply in September, perhaps supporting Bank of Japan's 2% trend (R
-  - [korea] Four years on, Lee Jae-yong steers Samsung from chip slump to AI boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T10:12:45+00:00",
+      "published_utc": "2026-10-27T10:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
