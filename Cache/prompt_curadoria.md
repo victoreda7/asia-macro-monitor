@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T22:12:43.577284+00:00
+Última coleta: 2026-10-27T22:22:46.139076+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          952
-  🇨🇳 China          854
+  🇯🇵 Japão          954
+  🇨🇳 China          852
   🇹🇼 Taiwan         383
   🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [japan] FX weekly: Dollar slips weekly as Yen leads major currency gains
+  - [japan] ``In the past, we would have received twice as much as younger people,'' but due to fewer posts, annual income
   - [taiwan] The first wave of exit polls for the Israeli election comes out, with the opposition slightly leading by less 
   - [japan] <Machine tool trends that can be understood in 5 minutes> Orders received at record high in September; concern
   - [japan] Today's Japan-German summit meeting to confirm supply chain strengthening, etc.
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Sustained Recovery for China Equities May Require Stronger Stimulus — Market Talk
   - [japan] What role does the Bank of Japan branch play? "Bank of Japan Nagasaki Branch" Branch Manager talks about the c
   - [japan] Retail price of eggs reaches record high “Avian influenza continues to affect” Ministry of Agriculture, Forest
-  - [japan] Mr. Hitoshi Sasaki is appointed as the new branch manager of the Bank of Japan's Shizuoka Branch, with the amb
-  - [japan] Meiko Electronics - Announcement Of Execution Of A Basic Agreement Regarding Acquisition Of Shares Of Unimicro
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T22:12:44+00:00",
+      "published_utc": "2026-10-27T22:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
