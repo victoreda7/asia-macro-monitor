@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T07:02:44.018247+00:00",
- "collected_at_utc": "2026-10-27T07:02:44.018247+00:00",
+ "generated_at_utc": "2026-10-27T07:12:46.822209+00:00",
+ "collected_at_utc": "2026-10-27T07:12:46.822209+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 973,
-  "china": 841,
+  "japan": 972,
+  "china": 842,
   "taiwan": 377,
   "korea": 809
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T05:59:00+00:00"
+   "newest": "2026-10-27T05:01:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T03:35:00+00:00"
+   "newest": "2026-10-27T07:02:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-23T06:30:52+00:00"
+   "newest": "2026-10-27T06:00:12+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:12:26+00:00"
+   "newest": "2026-10-27T00:09:40+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-27T06:47:13+00:00"
+   "newest": "2026-10-27T06:25:21+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T07:02:00+00:00"
+   "newest": "2026-10-27T07:11:32+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T05:49:39+00:00"
+   "newest": "2026-10-27T06:54:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-27T13:15:00+09:00"
+   "newest": "2026-10-27T16:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -359,6 +359,23 @@
    "live_wire": true,
    "manual": false,
    "id": "25474011daf988d8"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "AI investment expansion encounters bottlenecks, the central bank is worried about financing risks and amplifies market fluctuations | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vaFV0eHJHcUZHcll3T0MtQWplVC1QUkhHWVdoNGFmLXdtUk1MaEFoMjk5eklwcXFOV3h0d1dxRjM0ZDQ1MFR3QVI4TGF0MEN6UjQ4Y1gxVURBclNCQ1E?oc=5",
+   "published_utc": "2026-10-27T06:54:00+00:00",
+   "title_original": "AI投資擴張遇瓶頸央行憂融資風險放大市場波動| 產經",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "12110e0c6493cb2b"
   },
   {
    "source_id": "investing_econ",
@@ -51888,23 +51905,6 @@
    "live_wire": false,
    "manual": false,
    "id": "1e9bd8a57c0b32eb"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Tankan (Sept.): Summary and Outline",
-   "url": "http://www.boj.or.jp/en/statistics/tk/tankan09a.htm",
-   "published_utc": "2026-09-30T23:50:00+00:00",
-   "title_original": "Tankan (Sept.): Summary and Outline",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "0fc13cf506e278be"
   },
   {
    "source_id": "manual_ia",
