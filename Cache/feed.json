@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T03:02:43.170974+00:00",
- "collected_at_utc": "2026-10-27T03:02:43.170974+00:00",
+ "generated_at_utc": "2026-10-27T03:12:43.695008+00:00",
+ "collected_at_utc": "2026-10-27T03:12:43.695008+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 976,
+  "japan": 975,
   "china": 850,
   "taiwan": 371,
-  "korea": 803
+  "korea": 804
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T01:40:00+00:00"
+   "newest": "2026-10-27T02:01:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T02:40:11+00:00"
+   "newest": "2026-10-27T03:01:52+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T11:51:55+09:00"
+   "newest": "2026-10-27T12:06:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-27T02:23:17+00:00"
+   "newest": "2026-10-27T03:03:05+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T16:00:00+00:00"
+   "newest": "2026-10-26T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T02:52:00+00:00"
+   "newest": "2026-10-27T03:10:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T02:31:22+00:00"
+   "newest": "2026-10-27T03:03:43+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T21:00:08+00:00"
+   "newest": "2026-10-27T02:00:03+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-27T11:30:00+09:00"
+   "newest": "2026-10-27T12:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -344,6 +344,74 @@
  ],
  "items": [
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "China industrial profits rise 14.4% in September on AI demand",
+   "url": "https://www.investing.com/news/economic-indicators/china-industrial-profits-rise-144-in-september-on-ai-demand-4974109",
+   "published_utc": "2026-10-27T03:01:52+00:00",
+   "title_original": "China industrial profits rise 14.4% in September on AI demand",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "eb7e969a9c6b84b9"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Chips&Media Inc Q3 Operating Profit 1.7 Billion Won, Up 8.7% From Year Earlier",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46C2MX:0-chips-media-inc-q3-operating-profit-1-7-billion-won-up-8-7-from-year-earlier/",
+   "published_utc": "2026-10-27T02:55:40+00:00",
+   "title_original": "Chips&Media Inc Q3 Operating Profit 1.7 Billion Won, Up 8.7% From Year Earlier",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9a28656b2efb4983"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "TSMC to raise advanced chip packaging prices by up to 20%, report says",
+   "url": "https://www.investing.com/news/stock-market-news/tsmc-to-raise-advanced-chip-packaging-prices-by-up-to-20-report-says-4974101",
+   "published_utc": "2026-10-27T02:55:10+00:00",
+   "title_original": "TSMC to raise advanced chip packaging prices by up to 20%, report says",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "98324b5c3e5dd546"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "Yen Weakens as Safe-Haven Demand Fades",
+   "url": "https://www.tradingview.com/news/te_news:595241:0-yen-weakens-as-safe-haven-demand-fades/",
+   "published_utc": "2026-10-27T02:50:15+00:00",
+   "title_original": "Yen Weakens as Safe-Haven Demand Fades",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e627e15d5a008821"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Ex-BOJ chief Kuroda backs more rate hikes, his former deputy urges caution",
@@ -359,6 +427,23 @@
    "live_wire": true,
    "manual": false,
    "id": "7f752112d5781b11"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "China’s industrial profits rises most in three months on oil, AI",
+   "url": "https://www.tradingview.com/news/cnbctv:b56185772094b:0/",
+   "published_utc": "2026-10-27T02:47:22+00:00",
+   "title_original": "China’s industrial profits rises most in three months on oil, AI",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ed7aefea419bda50"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -532,6 +617,23 @@
    "live_wire": false,
    "manual": false,
    "id": "33a2ec2d250852ae"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China 5-Year Yield Hits Record Low on PBOC’s Cash Injection",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXJESzNscWY4WGhKOGRDcnI1TWhCTVpoRU1BdXZFNHQ3d3NOR25oaDBUZ0VMSTJJcTdNcWlISDZ2aU1ueTd1Sm90d3MwNHRHcDA5QUFoRjlMbzVSWG5aWDgzRExySWtOdDN0MkNucGlRUWFvMFpnSFFMTWV6WHVwdnkzbjdFeXlROTlJbmw1Q1FXQU1hNjNZTlFRc2dTRFpSSWpPWEtzQ1RrUlQ0RkJR?oc=5",
+   "published_utc": "2026-10-27T02:01:00+00:00",
+   "title_original": "China 5-Year Yield Hits Record Low on PBOC’s Cash Injection",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fb7d00c8942e7eac"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2911,6 +3013,23 @@
    "live_wire": false,
    "manual": false,
    "id": "26cbdb1b7286371e"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93SW1kSTJ0XzB5Ml9ELVloZ0I5Z2tnNC1uRF9KUVRib3lnNHBFYjI0ZUY0dkZDSENQa2JsYTN6VGs4amFiUG9qeFBjczdxZnFxYmVXNURiNnN3b210cDV6X2xqdlJ3b1dRUHBDbzdvVnhyeF9WenplYzZTQ2tyOHM?oc=5",
+   "published_utc": "2026-10-26T01:39:15+00:00",
+   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "909577cb78ba9d43"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5543,23 +5662,6 @@
    "id": "3ac990465bc04646"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXZTbzVEaXY2d3l5bk5vb0xkVm5aZkl0Z25nLWtiTWpuUmgtR05ZYTB5V1BlbWcxMmRCS01yN0FfXzJXT2lJLXhucE9hZzBuWURzcklaMF81bzNGRU95TVNYbzdiRXhEcURrR2JBYU9yOENjVDU0RlVBbzJRUlBhZWdTaXZfQnI4?oc=5",
-   "published_utc": "2026-10-23T07:00:00+00:00",
-   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "eda4db23a9b07274"
-  },
-  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Taiwan manufacturers' business sentiment hits 54-month high",
@@ -6065,8 +6167,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -6080,7 +6182,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -6151,8 +6253,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -6165,7 +6267,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -51803,108 +51905,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c6a7c990cb0818fa"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Crude oil imports in August Imports from the United States were 12 times higher than in the same month last year",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260930de53463",
-   "published_utc": "2026-09-30T11:40:00+00:00",
-   "title_original": "8月の原油輸入 アメリカからの輸入は前年同月比12倍",
-   "region": "japan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "60f4ae85956b9a89"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Retail Export Strategies Give Way to Integrated China-ASEAN Supply Chains",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMmF5TU9ma2Nvb0VHOWxBSFJKMzZoanNkOHc2QXM2VVBmVHFGdUQzcXZYM2RyUFhDOXVlNVpFbllGUDZPaVQzbThJelhkRFgwVnczMUVFbm95X3BpdWZudDJ5TG9IRW9CV2V6SHg1NDU5MldGZUtYdi1qZmo4RG9peGxadnFoSzNGYWdOWjJjNktDX1E2Wm1TQ3NvQjRBaEZMdl8yR1FHVDUtQ0FfWHBwdGZFZnFVX05rb0Jpal9ZTnFCd1RxWXJN?oc=5",
-   "published_utc": "2026-09-30T11:26:00+00:00",
-   "title_original": "Retail Export Strategies Give Way to Integrated China-ASEAN Supply Chains",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "27df67a63ee0fb7f"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Prime Minister Takaichi \"examines financial scale\" in preparation for next year's budget draft",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260930de53453",
-   "published_utc": "2026-09-30T11:15:57+00:00",
-   "title_original": "高市首相 来年度予算案編成に向け\"財政規模を精査”",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "90bb298f3799ad1c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "London Stock Exchange",
-   "title_en": "REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining Shares",
-   "url": "https://www.tradingview.com/news/reuters.com,2026-09-30:newsml_RSd0008Xa:0-reg-hon-hai-prec-ind-co-subsidiary-obtaining-shares/",
-   "published_utc": "2026-09-30T11:02:56+00:00",
-   "title_original": "REG - Hon Hai Prec.Ind.Co - Subsidiary obtaining Shares",
-   "region": "taiwan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7498481278488cc1"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "China to further boost domestic grain supply as US soybeans excluded from tariff cuts",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZzJOTXB4dlRJMVJPdTlRTUJ6ZkdiZVRXS2c2NHQ5SEljQzNXZTYwOEl5RS1JeGdPem9vazlBbkt6X25zZHVYbEVKTnhjZEZqcW9NMjRFRXZhSVhwemhMM3R0U284aF9OV2lzUnUxdkVjeTF2R0tRTkFmclBBQlFjMWFJRUhDVjhqYnI2bWptYVo5VGZqZEdqbDJud3A2YzRYUC1QRUVEd01WNXZScHRIR0NELVNKUWJwVlFYTWctdFlMcHFjUTdRcWJ3SjhCbHctMW5vci1B0gHWAUFVX3lxTFBqbmpZeFE5VEFfQXpuMUd0VUw1cm1hMmlLNXRnamtBNFlrQXdyem8tTE03Ym5OR3VxVGRTdVBBa3p5UE1xaEZDODhVU2xEekpreTZsS2d1YjRRTVl0aDJmbzNVYzFXakZobGhLQnBJTFFWVHd4THd2MDNYX1hsWjFnMTZOV2VXUVpFeE9kZVZsZWpGclhMamtyNUlzX1hLT1NzaDB2LUMzYThMSkgtQVV4Vk4wanpTMHZveW1iSzdmWVRhbkhyOXZ1S0RWZDBGeHJFbEI4UVE?oc=5",
-   "published_utc": "2026-09-30T11:00:06+00:00",
-   "title_original": "China to further boost domestic grain supply as US soybeans excluded from tariff cuts",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "085a177438a291ba"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's metal-heavy commodity imports map a messy energy transition: Maguire",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45L01Y:0-china-s-metal-heavy-commodity-imports-map-a-messy-energy-transition-maguire/",
-   "published_utc": "2026-09-30T11:00:00+00:00",
-   "title_original": "China's metal-heavy commodity imports map a messy energy transition: Maguire",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a325054b7ce419c9"
   },
   {
    "source_id": "manual_ia",

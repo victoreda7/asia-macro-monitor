@@ -7,17 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T03:02:43.170974+00:00
+Última coleta: 2026-10-27T03:12:43.695008+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          976
+  🇯🇵 Japão          975
   🇨🇳 China          850
   🇹🇼 Taiwan         371
-  🇰🇷 Coreia do Sul  803
+  🇰🇷 Coreia do Sul  804
 
 ## O que já está no feed (não repita)
 
+  - [china] China industrial profits rise 14.4% in September on AI demand
+  - [korea] Chips&Media Inc Q3 Operating Profit 1.7 Billion Won, Up 8.7% From Year Earlier
+  - [taiwan] TSMC to raise advanced chip packaging prices by up to 20%, report says
+  - [japan] Yen Weakens as Safe-Haven Demand Fades
   - [japan] Ex-BOJ chief Kuroda backs more rate hikes, his former deputy urges caution
+  - [china] China’s industrial profits rises most in three months on oil, AI
   - [korea] Roundup: S. Korea's real GDP grows 1.0 pct on quarter in Q3
   - [china] The world's super central bank debuts this week, the United States, Europe and Japan are expected to remain on
   - [china] "Peak-cutting and valley-filling" precise adjustment, MLF volume reduction continuation in October
@@ -28,6 +33,7 @@ Total: 3000 manchetes
   - [japan] Yen slips ahead of central bank bonanza, dollar firms on tech rebound
   - [taiwan] Anthropic's IPO filing puts TSMC, HBM, direct leasing at the center of AI compute risk
   - [korea] The top 1% return on equity investment was found to have bought Samsung Electronics the most and sol..
+  - [china] China 5-Year Yield Hits Record Low on PBOC’s Cash Injection
   - [china] The central bank launched a 412 billion yuan reverse repurchase today
   - [korea] With semiconductor market leader Samsung Electronics and SK Hynix announcing their third-quarter ear..
   - [china] On October 27, the central bank launched a 412 billion yuan 7-day reverse repurchase operation.
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Major life insurance companies accelerate replacement of government bonds
   - [korea] South Korea’s economy grows 1% in Q3, beating BOK forecast
   - [korea] Foreigners have sold a large number of domestic stocks, but the won-dollar exchange rate is on the d..
-  - [japan] JAPAN SEPT SERVICES PPI +0.3% M/M: AUG +0.1%
-  - [korea] S. Korea's GDP expands 1% in Q3 on strong exports, investment: BOK
-  - [korea] South Korea’s Economy Beats Forecasts on AI-Driven Chip Boom
-  - [japan] MNI: JAPAN SEPT SERVICES PPI +3.7% Y/Y; AUG +3.5%
-  - [japan] Japan Services Producer Inflation Highest Since June 2024
-  - [china] Southeast Asia’s housing paradox: too many homes, too few buyers
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T03:02:43+00:00",
+      "published_utc": "2026-10-27T03:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
