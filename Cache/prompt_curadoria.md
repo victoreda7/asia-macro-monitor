@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T01:22:45.978863+00:00
+Última coleta: 2026-10-27T01:32:43.338057+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
   🇨🇳 China          846
-  🇹🇼 Taiwan         374
-  🇰🇷 Coreia do Sul  797
+  🇹🇼 Taiwan         373
+  🇰🇷 Coreia do Sul  798
 
 ## O que já está no feed (não repita)
 
+  - [korea] S.Korean shares rebound as Anthropic IPO plan drives Samsung, SK Hynix rally
+  - [korea] SK Hynix tests bearish resistance cluster at KRW 1,381,000: Live
   - [japan] BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins
   - [japan] JGB Yields Higher as AI Bubble Concerns Ease — Market Talk
   - [korea] Why is SK Hynix stock surging today?
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Life lança emissão de títulos de US$ 1,5 bilhão, segundo mostra a ficha de termos
   - [korea] SK Hynix Q3 earnings on deck: What to expect
   - [japan] Preview: Forecasters See Tokyo CPI Staying Well above BOJ’s 2% Target in October
-  - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 195.93, Implies 35% Upside
-  - [japan] Dollar rebounds as euro slips ahead of key central bank decisions
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T01:22:46+00:00",
+      "published_utc": "2026-10-27T01:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
