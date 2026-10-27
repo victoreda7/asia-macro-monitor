@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-27T17:42:46.142079+00:00",
- "collected_at_utc": "2026-10-27T17:42:46.142079+00:00",
+ "generated_at_utc": "2026-10-27T17:52:46.759531+00:00",
+ "collected_at_utc": "2026-10-27T17:52:46.759531+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 378,
   "korea": 810
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T17:20:25+00:00"
+   "newest": "2026-10-27T17:42:42+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T16:54:46+00:00"
+   "newest": "2026-10-27T17:42:29+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:54:35+00:00"
+   "newest": "2026-10-27T11:44:48+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T16:05:27+00:00"
+   "newest": "2026-10-27T16:16:31+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T17:41:25+00:00"
+   "newest": "2026-10-27T17:52:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T09:25:37+00:00"
+   "newest": "2026-10-27T08:43:25+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-26T12:19:40+00:00"
   }
  ],
  "items": [
@@ -4211,9 +4211,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -4225,7 +4225,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b972d8c6ac9362b"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4384,24 +4384,6 @@
    "id": "3a3f57c11641a184"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
-   "published_utc": "2026-10-26T02:13:49+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1033a50b0d22ef1a"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..",
@@ -4417,6 +4399,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4609,6 +4609,24 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新湖南",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
+   "published_utc": "2026-10-26T00:06:24+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -5004,24 +5022,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -9539,23 +9539,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
-   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaVlGcjZfUlBESnYxelFndUgybDRWQkpQeW40eHBwNTlYMHh4TnJUY1J2S19kZElIeGd1ajlQcWQ5VHhROXJvX1NXdWFEa1l4Qmc?oc=5",
-   "published_utc": "2026-10-22T07:47:42+00:00",
-   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e77a77dfde09eac"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "CEO스코어데일리",
    "title_en": "Bank of Korea, ‘taking a breather’ with base interest rate... Shin Hyun-song, “The past two rounds of ‘homing’ have paid off”",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04SVpMTHBuOGc3SjVsdHhQM0ZHd2Y2TkNOWmcwbjhlQTZoV1NHRzloOHBOZ0ZxTUtwM2YtbDFsVVB0UmV5dFZwdXkzWmxkZDdhR3FreDJBeXJpUjdva1dBVWc1c3dXcUZC?oc=5",
@@ -9604,6 +9587,23 @@
    "live_wire": false,
    "manual": false,
    "id": "dbed6b67f81300ac"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제TV",
+   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSHlwMkhTa2dtZkZvdUZwSVI1Tk03OEhwNFJTdDk4OERWLXFhX19pSXdlbXZXX1pXb09EcU1rZncxR2pBaE1IbU1vTF9YUlhNelpvS2MxODJlM0ZFemZlMFlWZ3JpT2F0?oc=5",
+   "published_utc": "2026-10-22T07:29:00+00:00",
+   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bfd94abb0650cc0d"
   },
   {
    "source_id": "gn_kr_yonhap",
