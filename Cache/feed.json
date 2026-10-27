@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T06:22:43.058462+00:00",
- "collected_at_utc": "2026-10-27T06:22:43.058462+00:00",
+ "generated_at_utc": "2026-10-27T06:32:44.470733+00:00",
+ "collected_at_utc": "2026-10-27T06:32:44.470733+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 973,
+  "japan": 975,
   "china": 840,
   "taiwan": 377,
-  "korea": 810
+  "korea": 808
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T16:14:00+00:00"
+   "newest": "2026-10-27T03:35:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T03:32:40+00:00"
+   "newest": "2026-10-27T05:00:28+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:12:26+00:00"
+   "newest": "2026-10-27T00:09:40+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-27T06:18:12+00:00"
+   "newest": "2026-10-27T06:25:21+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T15:01:58+09:00"
+   "newest": "2026-10-27T15:22:58+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
    "newest": "2026-10-27T02:35:31+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T06:21:17+00:00"
+   "newest": "2026-10-27T06:32:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T04:50:22+00:00"
+   "newest": "2026-10-27T06:28:23+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "CPI excluding special factors accelerates sharply in September, perhaps supporting Bank of Japan's 2% trend (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8teFkwT3ZOaklsdmVnb2dnaExVal96VEo5Qkw3X1F5WjVvaEdaTDhsOXFNVnQ3MUQ5eDM2WkI2V05YenhQaTRjZGIwbFZlUUIxWnEzXy1aS0dJeWRFRVY1YjNCX0VhbGQ0TG10c2RRNjVwUGk4ZmpBNV9qa3BJX1U?oc=5",
+   "published_utc": "2026-10-27T06:28:23+00:00",
+   "title_original": "特殊要因除くＣＰＩ、9月は伸び急加速 日銀の基調2％判断後押しか（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6e854cef6dccbb26"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -428,6 +446,23 @@
    "live_wire": false,
    "manual": false,
    "id": "4521304f2432b473"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Mr. Kuroda supports interest rate hike policy, Mr. Wakatabe is cautious. Former Bank of Japan leaders write one after another (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUWg1c2xSekxuTnJmVWlLQWkzUjQ3dmZPRERhVHFDVGNud2E3bk5lVEpTV05qQlBhRElHeGxFV01tNGNSQWlpODg5R3hGdEV4Z2NNQWRFXzFlRldKdFltdzJBSUdPaEEwRzc5Q29idHNRYkZCQ1FzcU9QVXNGOWc?oc=5",
+   "published_utc": "2026-10-27T05:47:58+00:00",
+   "title_original": "黒田氏は利上げ路線支持、若田部氏は慎重論 日銀元首脳が相次ぎ著書（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "abb4ca444ccb52a7"
   },
   {
    "source_id": "tradingview_live",
@@ -551,6 +586,23 @@
    "live_wire": true,
    "manual": false,
    "id": "06af8a6426d96f3e"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "UK’s tariffs on Chinese diggers challenged by Caterpillar",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0xWTlFHR3Y4MzBRSk1KSDZHaFI2amJZQnd6RGxRRXBmcFd0cmw5eHhvOEVHTzNQZkVjcmFaWW94enR1dXBGVlhxR2Fyd3VBaGRPSUVETS1xZ3ZPWmI5Z050clpDVHUxMXVmU0J5Mk0wS3dPOVNPdTZiVGs1TF9EV3lIc1A?oc=5",
+   "published_utc": "2026-10-27T05:00:28+00:00",
+   "title_original": "UK’s tariffs on Chinese diggers challenged by Caterpillar",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "62915d242cff8d6f"
   },
   {
    "source_id": "boj_whatsnew",
@@ -1211,6 +1263,23 @@
   {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
+   "title_en": "Asian stocks rise as AI enthusiasm returns ahead of earnings, central bank decisions",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5",
+   "published_utc": "2026-10-27T01:46:00+00:00",
+   "title_original": "Asian stocks rise as AI enthusiasm returns ahead of earnings, central bank decisions",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5de6a946616f5370"
+  },
+  {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
    "title_en": "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5",
    "published_utc": "2026-10-27T01:46:00+00:00",
@@ -1348,7 +1417,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "From January to September 2026, profits of industrial enterprises above designated size nationwide increased by 15.5%",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wNzk1c3k4UGJNUFpNeTNHUGg4UG91cGlqTUJuVzV1anpQVFBxdzZkQ21XMjl5VER6VEVQTHloNDkwVzJsd0J6X2duUTRuLWZvN09tbVVoOEg0SE5qTjQ2ajhscHlLWHZLNkg2Q3o1V2Z1bGc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzRnZVQVZZeUdtakJ6VkcxdGpCRURNeHQ1WEJXTUV1VVU0YnNnQWUzYkJKc3dUR2JwUm1HSWlUY3pJY1lfR0o0N2tKU3QtbDlMaFFZdDJ0Zm5STzRsX3hxeE90RGRTNHIyRWlEX20xQQ?oc=5",
    "published_utc": "2026-10-27T01:30:00+00:00",
    "title_original": "2026年1—9月份全国规模以上工业企业利润增长15.5%",
    "region": "china",
@@ -1359,7 +1428,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "781d054f0a999f07"
+   "id": "06c0bc75c76849a4"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3240,9 +3309,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmdUams3cmxlNXc5TXEzSmpsam1JX3NtNGJWM0h4R05LWWhJeVBFYkxjZW9QS3Vkb2p4U0VUTFY1d1BRTkg4Q1FLanhyWXNmYXE0NGJZYTREVjlmajZURWJNWVdMbWtEdWpRODIyUnUzTjctTC1iNjJrcFJWSnRGTU16RGFCYUtSUTlN?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -3254,7 +3323,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dee37dbc8c1d6e98"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3294,7 +3363,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 billion yuan of MLF expires.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14YnZJVThIRTl5M240ZE54VWVlVEh5ZTZob2hTdTE1c3ltUTdzdXA3MEZUUGd4eWo4SHRrbnRCZmJZOWxlRTdsbWFsc1RCNWk5VHBYV0hZNi1YelowbHpVQnh3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95Z19yZUlkamFRWjlmcjNXYVJmUXVhbWczbEsyS1lWVnlDYVdVZWt6N0FqaGUxQjlocWlwN3lZM1gtOXphQmNEdGJScWNGdw?oc=5",
    "published_utc": "2026-10-26T02:57:10+00:00",
    "title_original": "本周央行公开市场逆回购到期3380亿元 周二9000亿元MLF到期",
    "region": "china",
@@ -3306,7 +3375,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50b41cccc95aaa06"
+   "id": "e21ee44288074ab5"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3481,6 +3550,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d4a3aa3b3df6303c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -4051,24 +4138,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -5209,6 +5278,24 @@
    "id": "c0606821eacd5484"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
+   "published_utc": "2026-10-23T12:38:12+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d3a519ddfcdc2da"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -5224,24 +5311,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
-   "published_utc": "2026-10-23T12:32:55+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -24373,23 +24442,6 @@
    "id": "f70b6cafaf408c20"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -24406,6 +24458,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51838,74 +51907,6 @@
    "live_wire": false,
    "manual": false,
    "id": "22e351827a26a791"
-  },
-  {
-   "source_id": "gn_cn_scmp",
-   "source_name": "South China Morning Post",
-   "title_en": "How US sanctions forced Xinjiang’s cotton industry to build a survival model",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWhNS2JiNlFPVnpqQmZPY1hDM3c3V0NQX0tjMGg3LTRhbXRvSzFDMnJZQWdQLVVZU2VsMG1JcGxWS2FlaDFUdnRpM1JCTU11aVVFUXVrODBISFFlYmVZNXlZbGVpem02YmJrWUhXY3hValg4YkFGM19hMnY2MXB0UUVZUHljVVUzOUtsMlhPczhxcE5nZTJiUG8wNWVEQldaNXkwT3htamJydDZIM1pPRHhQeEVfVGZuNEFDadIBvAFBVV95cUxPUkJaS1RwOWt2eW1kYXJsTFFVN2ptUG5fLXpnbHRhTFBJR2daZnktVjNwR2JsVTVhU2VoYUl3cVRvTzdPUERLZ0FiX1NRRktLR0wxOGQ4NlFkNkgwZy1Ed2hsNjN2cjhLY01fbUxSRUFfYVE3RUhBN3NoRmdTalRTWUhrcGZrdnlQSk13dkhBejZsTFA2bmhjU3ZRSGNGZklabmFzT3ExX0U5cVZyVmRXcnlhY0M4dmFxVk9Rcw?oc=5",
-   "published_utc": "2026-09-30T22:00:13+00:00",
-   "title_original": "How US sanctions forced Xinjiang’s cotton industry to build a survival model",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8ef0a53baf5e47a3"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Is the accelerating pace of interest rate hikes by the Bank of Japan a contributing factor? Signs of a ``bargain sale'' opening in the city's condominium market (Weekly Pre-NEWS)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vd28wNUFNSHRWRjFZdUFtQUFOWmRUdVZCc0pXWVVCbW5iWHotbUZMVUdrZ1piQkxJV2Uta2VOcVdfdG03QVpOT1phY0Rld3M1NFNHWDVHMjRhMGhNSi1XNzJuNkpjcTdGUGtDR2ExOVJwWUpaZUx1ejFQblJFX0k?oc=5",
-   "published_utc": "2026-09-30T21:49:31+00:00",
-   "title_original": "日銀の利上げペース加速も一因に？ 都心マンション市場に「バーゲンセール開幕」の予兆（週プレNEWS）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "426d48034686dc76"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Korea kicks off US investment plan with $22.3b Texas power project",
-   "url": "https://www.koreaherald.com/article/10889661",
-   "published_utc": "2026-09-30T21:07:56+00:00",
-   "title_original": "Korea kicks off US investment plan with $22.3b Texas power project",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5725b60eb0fe9474"
-  },
-  {
-   "source_id": "gn_kr_herald",
-   "source_name": "The Korea Herald",
-   "title_en": "Trump unveils 3 projects under Korea's $200b US investment plan",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OSEQySzNPUUs5Ynp0MVdfUDlYUjZSdGN6ZS1BUFplMWw3OXpHRDllRE1fU1FmS1pyeHI4T1BUcW1qRkdTY0w3dlBWYkZqb3FKcVRYMldIWQ?oc=5",
-   "published_utc": "2026-09-30T21:07:56+00:00",
-   "title_original": "Trump unveils 3 projects under Korea's $200b US investment plan",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "d12070d403d09dff"
   },
   {
    "source_id": "manual_ia",

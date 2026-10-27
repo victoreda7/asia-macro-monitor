@@ -7,21 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T06:22:43.058462+00:00
+Última coleta: 2026-10-27T06:32:44.470733+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          973
+  🇯🇵 Japão          975
   🇨🇳 China          840
   🇹🇼 Taiwan         377
-  🇰🇷 Coreia do Sul  810
+  🇰🇷 Coreia do Sul  808
 
 ## O que já está no feed (não repita)
 
+  - [japan] CPI excluding special factors accelerates sharply in September, perhaps supporting Bank of Japan's 2% trend (R
   - [korea] Four years on, Lee Jae-yong steers Samsung from chip slump to AI boom
   - [korea] Chip boom drives Korea's surprise 1% GDP growth in Q3
   - [korea] While the Korean economy grew by surprise in the third quarter of this year on the back of semicondu..
   - [taiwan] PSMC capacity crunch holds back Jeju Semiconductor's growth
   - [korea] Korea should save chip boom windfall for downturns: IDB economist
+  - [japan] Mr. Kuroda supports interest rate hike policy, Mr. Wakatabe is cautious. Former Bank of Japan leaders write on
   - [korea] SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview
   - [japan] Japan stands ready to take decisive action in currency market, finance minister says
   - [china] The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, ha
@@ -29,6 +31,7 @@ Total: 3000 manchetes
   - [china] China 5-Year Yield Hits Record Low on PBOC’s Cash Injection
   - [japan] Yen eases on risk-on mood ahead of central bank bonanza
   - [taiwan] Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging
+  - [china] UK’s tariffs on Chinese diggers challenged by Caterpillar
   - [japan] Indicators for Core CPI
   - [japan] Yen eases on risk-on mood ahead of central bank bonanza By Reuters
   - [japan] Cybersecurity - Rising risks, ``threat to the financial system'' - Bank of Japan board member (Reuters)
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] The world's super central bank debuts this week, the United States, Europe and Japan are expected to remain on
   - [china] "Peak-cutting and valley-filling" precise adjustment, MLF volume reduction continuation in October
   - [china] China’s Industrial Profits Jump Most in Three Months on Oil, AI
-  - [china] China’s Industrial Profits Surge Most in Three Months on Oil
-  - [taiwan] Weekly news roundup: iPhone Duo shipment target revised upward amid display issues
-  - [korea] BOK warns AI slowdown could cut Korea’s chip exports by $100bn
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T06:22:43+00:00",
+      "published_utc": "2026-10-27T06:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
