@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T11:02:46.320458+00:00
+Última coleta: 2026-10-27T11:12:44.582634+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          958
-  🇨🇳 China          854
+  🇨🇳 China          855
   🇹🇼 Taiwan         378
-  🇰🇷 Coreia do Sul  810
+  🇰🇷 Coreia do Sul  809
 
 ## O que já está no feed (não repita)
 
+  - [china] Sinograin vende 172.240 t de soja importada pela China, aponta Mysteel
   - [china] Gree Electric Appliances's Shareholder To Raise Stake By 600-1200 Million Yuan
   - [china] Hainan Airport Infrastructure Q3 Net Loss At 132.6 Million Yuan
   - [japan] Digital Core REIT Announces Pricing Of JPY 5 Bln 3.47% Fixed Rate Notes Due 2031
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi jumps as Samsung, SK Hynix rally on Anthropic IPO plan, payout hopes
   - [japan] Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers
   - [japan] Top Japanese Chip Stocks to Watch Going Into Q3 Earnings, According to Bernstein
-  - [taiwan] COST OF LIVING Taiwan's consumer confidence weakens in October
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T11:02:46+00:00",
+      "published_utc": "2026-10-27T11:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

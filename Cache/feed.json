@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T11:02:46.320458+00:00",
- "collected_at_utc": "2026-10-27T11:02:46.320458+00:00",
+ "generated_at_utc": "2026-10-27T11:12:44.582634+00:00",
+ "collected_at_utc": "2026-10-27T11:12:44.582634+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 958,
-  "china": 854,
+  "china": 855,
   "taiwan": 378,
-  "korea": 810
+  "korea": 809
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T09:05:59+00:00"
+   "newest": "2026-10-27T09:59:05+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:56:00+00:00"
+   "newest": "2026-10-27T11:04:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:44:19+00:00"
+   "newest": "2026-10-27T09:01:32+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T10:29:42+00:00"
+   "newest": "2026-10-27T05:00:28+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T02:39:50+00:00"
+   "newest": "2026-10-27T04:43:23+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T11:02:00+00:00"
+   "newest": "2026-10-27T11:10:19+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:43:25+00:00"
+   "newest": "2026-10-27T09:25:37+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sinograin vende 172.240 t de soja importada pela China, aponta Mysteel",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46D0OK:0/",
+   "published_utc": "2026-10-27T11:09:42+00:00",
+   "title_original": "Sinograin vende 172.240 t de soja importada pela China, aponta Mysteel",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "60076d3dc476e987"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1342,23 +1359,6 @@
    "id": "2723767dc7da7222"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview",
-   "url": "https://www.tradingview.com/news/DJN_DN20261027000260:0-sk-hynix-set-for-record-revenue-operating-profit-in-third-quarter-earnings-preview/",
-   "published_utc": "2026-10-27T05:39:00+00:00",
-   "title_original": "SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4d54d7ad5c5a6cd6"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, had net remittances of US$54.3 billion in the past four months | Sankei",
@@ -1412,23 +1412,6 @@
    "id": "60b9efe70468c7cc"
   },
   {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "UK’s tariffs on Chinese diggers challenged by Caterpillar",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0xWTlFHR3Y4MzBRSk1KSDZHaFI2amJZQnd6RGxRRXBmcFd0cmw5eHhvOEVHTzNQZkVjcmFaWW94enR1dXBGVlhxR2Fyd3VBaGRPSUVETS1xZ3ZPWmI5Z050clpDVHUxMXVmU0J5Mk0wS3dPOVNPdTZiVGs1TF9EV3lIc1A?oc=5",
-   "published_utc": "2026-10-27T05:01:46+00:00",
-   "title_original": "UK’s tariffs on Chinese diggers challenged by Caterpillar",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "62915d242cff8d6f"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Taiwan central bank sees strong tech demand driving exports into 2027",
@@ -1480,6 +1463,23 @@
    "live_wire": false,
    "manual": false,
    "id": "bc402dac59f61152"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "UK’s tariffs on Chinese diggers challenged by Caterpillar",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0xWTlFHR3Y4MzBRSk1KSDZHaFI2amJZQnd6RGxRRXBmcFd0cmw5eHhvOEVHTzNQZkVjcmFaWW94enR1dXBGVlhxR2Fyd3VBaGRPSUVETS1xZ3ZPWmI5Z050clpDVHUxMXVmU0J5Mk0wS3dPOVNPdTZiVGs1TF9EV3lIc1A?oc=5",
+   "published_utc": "2026-10-27T05:00:28+00:00",
+   "title_original": "UK’s tariffs on Chinese diggers challenged by Caterpillar",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "62915d242cff8d6f"
   },
   {
    "source_id": "boj_whatsnew",
@@ -2003,7 +2003,7 @@
    "source_name": "Bloomberg.com",
    "title_en": "Japanese Yen’s Role in Latin American Carry Trade Withstands Brazil Rout",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTQ2N29zeVVLU0YwR3ZIcVhXaGxVNjQwY3hja2ZseUctWGxkV2k4anc2TkcwaS1RbnhwUkRMYXNDZy16TFVNbFhpNVppYzNzYVB4aFlQRjJ4VDdzdWlOczJzbWtVZFNwdmg0dkdDTG1UZ2F2VmVlTWljanNhSWtmQ1JMLUtoTGs1bjNMNXJ5cDRDeEZFU1M0ejNMNVZfb2RrQ1Y0VkNTMFJvZUNLbXQ3SVo5LXA?oc=5",
-   "published_utc": "2026-10-27T01:53:00+00:00",
+   "published_utc": "2026-10-27T01:53:33+00:00",
    "title_original": "Japanese Yen’s Role in Latin American Carry Trade Withstands Brazil Rout",
    "region": "japan",
    "topics": [
@@ -22303,23 +22303,6 @@
    "id": "5550786906e36fe3"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVZEVDBJNlRHakU2ZHUxSnZHSWRGN05qSXlmWjRmY1VhMjdRWlZUVUhqQnA0ZVFMVGNsZ3ZLSWh0TGZMTG1HR0UwTGhzVzVFanFXc3FJUDd5UE5oM3dja0owU0xQLXNmQWRIQ1BwdE14R0J1aFMtUGIxM2JLZ090SmloelgtWlh6YkFRYUUwZ2dGZEE?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "912c3fdcf5b7083e"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
@@ -22335,6 +22318,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5ed3d10817c389f2"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVZEVDBJNlRHakU2ZHUxSnZHSWRGN05qSXlmWjRmY1VhMjdRWlZUVUhqQnA0ZVFMVGNsZ3ZLSWh0TGZMTG1HR0UwTGhzVzVFanFXc3FJUDd5UE5oM3dja0owU0xQLXNmQWRIQ1BwdE14R0J1aFMtUGIxM2JLZ090SmloelgtWlh6YkFRYUUwZ2dGZEE?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "title_original": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "912c3fdcf5b7083e"
   },
   {
    "source_id": "gn_jp_kyodo",
