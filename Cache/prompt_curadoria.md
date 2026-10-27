@@ -7,16 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T08:52:43.656598+00:00
+Última coleta: 2026-10-27T09:02:44.721330+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          962
+  🇯🇵 Japão          961
   🇨🇳 China          847
-  🇹🇼 Taiwan         381
-  🇰🇷 Coreia do Sul  810
+  🇹🇼 Taiwan         379
+  🇰🇷 Coreia do Sul  813
 
 ## O que já está no feed (não repita)
 
+  - [china] How This U.S. Agency Works to Beat China at Building Energy and Mineral Supply Chains — Barrons.com
+  - [china] Sichuan Development Lomon Q3 Net Loss At 402.2 Million Yuan
+  - [korea] South Korea's economy grew 1.0 percent in the third quarter on strong semiconductor exports and faci..
+  - [korea] Exports, facility investment, and government consumption "three-horse cars" led the Korean economy i..
+  - [korea] High-value orders ... Shipbuilding and defense hold firm despite a stronger won
+  - [china] Shandong Hi-tech Spring Material Technology's Unit To Invest Up To 630 Million Yuan In Project
   - [china] Shanxi Meijin Energy Q3 Net Loss At 418.9 Million Yuan
   - [taiwan] Taiwan shares edge up as TSMC bounces back
   - [china] If AI spending slows down, South Korea's central bank warns chip exports could drop by US$100 billion | Intern
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan stands ready to take decisive action in currency market, finance minister says
   - [china] The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, ha
   - [japan] CPI excluding special factors accelerates rapidly in September, perhaps supporting Bank of Japan's 2% trend (R
-  - [taiwan] Taiwan central bank sees strong tech demand driving exports into 2027
-  - [china] China 5-Year Yield Hits Record Low on PBOC’s Cash Injection
-  - [japan] Yen eases on risk-on mood ahead of central bank bonanza
-  - [taiwan] Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging
-  - [china] UK’s tariffs on Chinese diggers challenged by Caterpillar
-  - [japan] Indicators for Core CPI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T08:52:43+00:00",
+      "published_utc": "2026-10-27T09:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

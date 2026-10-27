@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T08:52:43.656598+00:00",
- "collected_at_utc": "2026-10-27T08:52:43.656598+00:00",
+ "generated_at_utc": "2026-10-27T09:02:44.721330+00:00",
+ "collected_at_utc": "2026-10-27T09:02:44.721330+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 962,
+  "japan": 961,
   "china": 847,
-  "taiwan": 381,
-  "korea": 810
+  "taiwan": 379,
+  "korea": 813
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T05:59:00+00:00"
+   "newest": "2026-10-27T07:53:41+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:39:00+00:00"
+   "newest": "2026-10-27T08:56:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T08:33:19+00:00"
+   "newest": "2026-10-27T08:53:56+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:44:57+00:00"
+   "newest": "2026-10-27T07:07:28+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T05:04:17+00:00"
+   "newest": "2026-10-27T00:44:23+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T17:15:11+09:00"
+   "newest": "2026-10-27T17:59:42+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T08:51:34+00:00"
+   "newest": "2026-10-27T09:01:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T04:31:14+00:00"
+   "newest": "2026-10-27T01:29:53+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:42:52+00:00"
+   "newest": "2026-10-27T08:49:05+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,111 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "How This U.S. Agency Works to Beat China at Building Energy and Mineral Supply Chains — Barrons.com",
+   "url": "https://www.tradingview.com/news/DJN_DN20261027001822:0-how-this-u-s-agency-works-to-beat-china-at-building-energy-and-mineral-supply-chains-barrons-com/",
+   "published_utc": "2026-10-27T09:00:00+00:00",
+   "title_original": "How This U.S. Agency Works to Beat China at Building Energy and Mineral Supply Chains — Barrons.com",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9e7016776594c42e"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sichuan Development Lomon Q3 Net Loss At 402.2 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D0OA:0-sichuan-development-lomon-q3-net-loss-at-402-2-million-yuan/",
+   "published_utc": "2026-10-27T08:47:32+00:00",
+   "title_original": "Sichuan Development Lomon Q3 Net Loss At 402.2 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3e7b471aa213ee57"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "South Korea's economy grew 1.0 percent in the third quarter on strong semiconductor exports and faci..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYbEphRmNvczZ6VjlVdEdwRk5RazlmSFdpaHBOLXpGVnFqM21iTVVBeUlLc09lTVNmS1FHTHlkaW11SWdOb2JvRGJJT19sWXp2ekE?oc=5",
+   "published_utc": "2026-10-27T08:43:45+00:00",
+   "title_original": "South Korea's economy grew 1.0 percent in the third quarter on strong semiconductor exports and faci..",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5a1d1923e5e7ed53"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Exports, facility investment, and government consumption \"three-horse cars\" led the Korean economy i..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vME9EMFEzZHpRZ1kxTUhhTzdhVm5Kd2liMThxMXFNSk9QVTBkOXpRZDZQSkdpX1V6dWpEeGNoTkQ3NVdOYS0zUjBoTkttS0tHMXc?oc=5",
+   "published_utc": "2026-10-27T08:43:25+00:00",
+   "title_original": "Exports, facility investment, and government consumption \"three-horse cars\" led the Korean economy i..",
+   "region": "korea",
+   "topics": [
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "03eef1554aa93a01"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "High-value orders ... Shipbuilding and defense hold firm despite a stronger won",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UMElRNF9pUTNlREF5aUQ0X2NQc2xxbEZHcktudE5nTnhoSndtTTdZMnpnaGN2MlZVcVE4NW55NjV3dGJQMEVTeks2Nm41cFJvQVVR?oc=5",
+   "published_utc": "2026-10-27T08:40:26+00:00",
+   "title_original": "High-value orders ... Shipbuilding and defense hold firm despite a stronger won",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fb7ac4f94e85ba7c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Shandong Hi-tech Spring Material Technology's Unit To Invest Up To 630 Million Yuan In Project",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D0NI:0-shandong-hi-tech-spring-material-technology-s-unit-to-invest-up-to-630-million-yuan-in-project/",
+   "published_utc": "2026-10-27T08:39:14+00:00",
+   "title_original": "Shandong Hi-tech Spring Material Technology's Unit To Invest Up To 630 Million Yuan In Project",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "dd6c1ab167550d17"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1776,57 +1881,6 @@
    "live_wire": true,
    "manual": false,
    "id": "40f1fc1a2e541d2c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "China Industrial Profits Grow 15.5% YoY in Jan-Sept",
-   "url": "https://www.tradingview.com/news/te_news:595210:0-china-industrial-profits-grow-15-5-yoy-in-jan-sept/",
-   "published_utc": "2026-10-27T01:40:30+00:00",
-   "title_original": "China Industrial Profits Grow 15.5% YoY in Jan-Sept",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a7f16b5472ecd42a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY1000 BLN VIA O/N REVERSE REPO TUES",
-   "url": "https://www.tradingview.com/news/dpa_afx:a3531bc578708:0-china-pboc-conducts-cny1000-bln-via-o-n-reverse-repo-tues/",
-   "published_utc": "2026-10-27T01:39:31+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY1000 BLN VIA O/N REVERSE REPO TUES",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "acf2cc9945b60cf4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7171 TUES VS 6.7162",
-   "url": "https://www.tradingview.com/news/dpa_afx:8ed64b49147d4:0-china-sets-yuan-central-parity-at-6-7171-tues-vs-6-7162/",
-   "published_utc": "2026-10-27T01:34:49+00:00",
-   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7171 TUES VS 6.7162",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "75434dc7a446e12b"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -3639,6 +3693,23 @@
    "id": "98a453cca82b30f4"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Bank of Japan’s hawkish pause to leave scope for December hike By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2Y2TW5nSkRfeEpwclhyYXRnMEJoXzBUaW8wem1PUU0xYXVQZkdUM0p2aGxzOVF6QWlEQkwzZm4tRU1YeHZpVkNTazdTN1RCbEZpVWstUGE1SXQ2dnpacTZDVGx2aC12Yl93ZU9kQ3NHUGtxZlJ1MFRlaDF1YW9JTEpnbGUzZ3IyU0tVU2JFQkF4QkpMbFNmZTBkdXZUdnFZTlZ2Y3pwOGhKa1ZSWE5yQ1MtUQ?oc=5",
+   "published_utc": "2026-10-26T03:40:51+00:00",
+   "title_original": "Bank of Japan’s hawkish pause to leave scope for December hike By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e12668b3e0b0dbdc"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks expected to maintain tight lending standards in Q4: BOK survey",
@@ -3657,9 +3728,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -3671,7 +3742,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b972d8c6ac9362b"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3881,6 +3952,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4468,24 +4557,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -5626,6 +5697,24 @@
    "id": "c0606821eacd5484"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
+   "published_utc": "2026-10-23T12:38:12+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d3a519ddfcdc2da"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -5641,24 +5730,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
-   "published_utc": "2026-10-23T12:32:55+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -8037,23 +8108,6 @@
    "id": "6c4c3afc2afea619"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3czTU9vU0R1MUs1S2U5UmdQX2s5THdMSnppZVpzbkMxQzJfX0JyY1o2MHVpX1h3b2ZzREhWZ0VEeEw0YTVIOFp4X19oWjlFYWJpaFhYMmItTUpFYU83bllCWjZDSXd2RlR6U3hoOHVxOFNJbGJybkNUVHFPTEZrRWVvNm02Z0E0c09oY3V2c3VHejJ1UEFRX3BxRUZtMDRUdnNGbTFB?oc=5",
-   "published_utc": "2026-10-22T21:09:57+00:00",
-   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "099657ed920ba39c"
-  },
-  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering trade friction with Europe and the US | Business | Toyo Keizai Online",
@@ -8069,6 +8123,23 @@
    "live_wire": false,
    "manual": false,
    "id": "abda22d11ccbdbdf"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com UK",
+   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmhJMkZNNjM5TkpjNnVnME9DWHc1Wkhoa0NqX1A5bWR3bHh3aURpTGRDbjVia3V1QXlBSG5mNFpONmdUbXBoT0huYUFlXzdHX2RsXzVMakw4aE5ZMXRiblB2UWdnb3d4WUN5aDkxLVdMMHdPREctRG85MkdhUFJKbTRlUk83WHdCaE0zU0VKaEVma3N6QXh4ZlA2MU5iUUpFYVp5TkRBM0hrQQ?oc=5",
+   "published_utc": "2026-10-22T20:54:00+00:00",
+   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9b95392a85fcfbe5"
   },
   {
    "source_id": "investing_fx",
@@ -22030,23 +22101,6 @@
    "id": "5550786906e36fe3"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83cG1rU3ZZMV9uU2oxaGhfdjlkdmdPX3F4eWhNendhY3YtamtBN1lFTWFZeDl6MUdoa1FOelh0OFlfSTVMNlRSWU1BSDVSMTJ6cjBEeVVGQW1HQQ?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5ed3d10817c389f2"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
@@ -22062,6 +22116,23 @@
    "live_wire": false,
    "manual": false,
    "id": "912c3fdcf5b7083e"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83cG1rU3ZZMV9uU2oxaGhfdjlkdmdPX3F4eWhNendhY3YtamtBN1lFTWFZeDl6MUdoa1FOelh0OFlfSTVMNlRSWU1BSDVSMTJ6cjBEeVVGQW1HQQ?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5ed3d10817c389f2"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -38665,23 +38736,6 @@
    "id": "a760e8fb484ef113"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "USD/JPY: The Yen Is Capitalising on the Euro’s Weakness",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejZXc2RjT0UxbVVwWUpLOVhsTDloNjM3MEZlZ0gyR2VOZWtWbDZFUUl2bEkzb0dOc2doZkxFSG1kcXI4T040SkRlVnFuQ3VRV2hkLXVMYkNNZXA2TURQNDRuc3d5RGVvRWZENHRKRWozZ0FNU0FhbVBndFhWb3N6ZmxlU2Rjb2xMYTJfbV9SdzJKaGswUWhpTnh5aVdWQQ?oc=5",
-   "published_utc": "2026-10-08T11:59:15+00:00",
-   "title_original": "USD/JPY: The Yen Is Capitalising on the Euro’s Weakness",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1229d6963b98f3a2"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "China has no need or intention to weaken yuan for trade edge, central bank says",
@@ -39554,6 +39608,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0aec8ec5361ac961"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "USD/JPY: The Yen Is Capitalising on the Euro’s Weakness",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejZXc2RjT0UxbVVwWUpLOVhsTDloNjM3MEZlZ0gyR2VOZWtWbDZFUUl2bEkzb0dOc2doZkxFSG1kcXI4T040SkRlVnFuQ3VRV2hkLXVMYkNNZXA2TURQNDRuc3d5RGVvRWZENHRKRWozZ0FNU0FhbVBndFhWb3N6ZmxlU2Rjb2xMYTJfbV9SdzJKaGswUWhpTnh5aVdWQQ?oc=5",
+   "published_utc": "2026-10-08T07:00:00+00:00",
+   "title_original": "USD/JPY: The Yen Is Capitalising on the Euro’s Weakness",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1229d6963b98f3a2"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51817,77 +51888,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d8d35d4ef32b9699"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
-   "title_en": "Bank of Japan September meeting should be managed appropriately to prevent prices from continuing to rise excessively - main opinions (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oLXMyazBjRFVHTXdDcmxjTDdQRGtlYTFyVDA1SjBIc1d2YU5JeXR5R01qOWQwa1dKa1BGSE9PYTlyakNHcFdDeXBDOXNJdzliVjdSd3JrcVBrNS1kTUFhb0kxVlB3VzBJazBSdVVzZnk2OUZ3WlRSY3I1Mzc0WEU?oc=5",
-   "published_utc": "2026-10-01T00:13:48+00:00",
-   "title_original": "日銀9月会合､物価が過度に上昇続けないよう適切運営を-主な意見（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "86b3f3a0b611ed72"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Lip-Bu Tan calls TSMC a partner rather than a rival",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWW82ZlFIOG9kMHZqdnlsYkxCOWlOeE1Fb01XeEoxYWtkYjRHck04R2ZxdEJ6TzhBRTRTNFZkUlI5SEp2S0ttN0FXWVk5aFdRSXFzM3UxcU0zLTF5TjNvNWhaOHZXeVVjLThiUjlZQlA3Skx0NXc3ODB6dTFkVnNzYXpHSkREbjNOc2UxMQ?oc=5",
-   "published_utc": "2026-10-01T00:11:53+00:00",
-   "title_original": "Lip-Bu Tan calls TSMC a partner rather than a rival",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "29e4280f67038245"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "How a TSMC veteran is steering Singapore's lab-to-fab chip strategy",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUtJaTNCUlJYSm02cjVFdnlDN3ZVLUZFV3pqaktUR3ktRDBLQVFWMnA3dW42WFNTWHdoMENhb2FOaHhJVlpGVlJnNHBwOWUxdGR0aDBpZW1OSXFXWXNxLURONmF5aHE4QjhOMGZaYk1uOW5lQ3pMNkE1UmgxaGd1Y01lRFJvRFJEYTBGVnhpX2FYYUxjQnJJbEplSzVnMzdqYmc?oc=5",
-   "published_utc": "2026-10-01T00:11:28+00:00",
-   "title_original": "How a TSMC veteran is steering Singapore's lab-to-fab chip strategy",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "932b64d36a373771"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "BOJ Tankan shows sixth straight rise in manufacturer sentiment",
-   "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-tankan-shows-sixth-straight-rise-in-manufacturer-sentiment",
-   "published_utc": "2026-10-01T00:02:44.055782+00:00",
-   "title_original": "BOJ Tankan shows sixth straight rise in manufacturer sentiment",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5e72122d1d4434d4"
   },
   {
    "source_id": "manual_ia",
