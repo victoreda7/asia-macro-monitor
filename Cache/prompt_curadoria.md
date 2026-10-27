@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T02:42:44.705991+00:00
+Última coleta: 2026-10-27T02:52:44.045101+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          976
-  🇨🇳 China          850
+  🇨🇳 China          849
   🇹🇼 Taiwan         372
-  🇰🇷 Coreia do Sul  802
+  🇰🇷 Coreia do Sul  803
 
 ## O que já está no feed (não repita)
 
+  - [japan] Ex-BOJ chief Kuroda backs more rate hikes, his former deputy urges caution
+  - [korea] Roundup: S. Korea's real GDP grows 1.0 pct on quarter in Q3
   - [china] "Peak-cutting and valley-filling" precise adjustment, MLF volume reduction continuation in October
   - [korea] Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows
   - [korea] Rupiah, peso lead losses among Asian currencies; won bucks trend
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan Services Producer Inflation Highest Since June 2024
   - [china] Southeast Asia’s housing paradox: too many homes, too few buyers
   - [korea] South Korea’s AI Fund Offers ‘Fiscal Dam’ Against Higher Yields
-  - [japan] Services Producer Price Index (Sept.)
-  - [korea] South Korea GDP grows more than expected in Q3 on AI boost
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T02:42:44+00:00",
+      "published_utc": "2026-10-27T02:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
