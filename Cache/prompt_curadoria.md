@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T05:42:43.652251+00:00
+Última coleta: 2026-10-27T05:52:45.938213+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          979
@@ -19,6 +19,7 @@ Total: 3000 manchetes
 
   - [korea] SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview
   - [japan] Japan stands ready to take decisive action in currency market, finance minister says
+  - [china] The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, ha
   - [taiwan] Taiwan central bank sees strong tech demand driving exports into 2027
   - [china] China 5-Year Yield Hits Record Low on PBOC’s Cash Injection
   - [japan] Yen eases on risk-on mood ahead of central bank bonanza
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank launched a 412 billion yuan reverse repurchase today
   - [korea] With semiconductor market leader Samsung Electronics and SK Hynix announcing their third-quarter ear..
   - [china] On October 27, the central bank launched a 412 billion yuan 7-day reverse repurchase operation.
-  - [japan] Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T05:42:43+00:00",
+      "published_utc": "2026-10-27T05:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
