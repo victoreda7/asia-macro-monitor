@@ -7,21 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T03:32:42.890579+00:00
+Última coleta: 2026-10-27T03:42:44.322504+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          974
-  🇨🇳 China          850
+  🇯🇵 Japão          975
+  🇨🇳 China          849
   🇹🇼 Taiwan         372
   🇰🇷 Coreia do Sul  804
 
 ## O que já está no feed (não repita)
 
+  - [china] Yuan holds flat near four-year peak; central bank meetings awaited
+  - [japan] Asian currencies mixed as dollar holds firm, yen retreats ahead of Fed decision
+  - [japan] Ex-BOJ chief Kuroda backs more rate hikes, his former deputy urges caution
+  - [japan] “Moderate recovery” for 40 consecutive months Bank of Japan Nagasaki Branch announces business conditions in N
   - [china] China industrial profits rise 14.4% in September on AI demand
   - [korea] Chips&Media Inc Q3 Operating Profit 1.7 Billion Won, Up 8.7% From Year Earlier
   - [taiwan] TSMC to raise advanced chip packaging prices by up to 20%, report says
   - [japan] Yen Weakens as Safe-Haven Demand Fades
-  - [japan] Ex-BOJ chief Kuroda backs more rate hikes, his former deputy urges caution
   - [china] China’s industrial profits rises most in three months on oil, AI
   - [korea] Roundup: S. Korea's real GDP grows 1.0 pct on quarter in Q3
   - [china] The world's super central bank debuts this week, the United States, Europe and Japan are expected to remain on
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] BlackRock Joins SBI and Startale to Link Tokenized MMFs With Japanese Yen Stablecoins
   - [korea] South Korea's Corporate Bond Issuance Surges 77.5% in September
   - [japan] JGB Yields Higher as AI Bubble Concerns Ease — Market Talk
-  - [korea] Why is SK Hynix stock surging today?
-  - [japan] Major life insurance companies accelerate replacement of government bonds
-  - [korea] South Korea’s economy grows 1% in Q3, beating BOK forecast
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T03:32:43+00:00",
+      "published_utc": "2026-10-27T03:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
