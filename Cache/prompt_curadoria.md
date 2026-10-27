@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T06:12:42.964372+00:00
+Última coleta: 2026-10-27T06:22:43.058462+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          977
+  🇯🇵 Japão          973
   🇨🇳 China          840
   🇹🇼 Taiwan         377
-  🇰🇷 Coreia do Sul  806
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [korea] Four years on, Lee Jae-yong steers Samsung from chip slump to AI boom
+  - [korea] Chip boom drives Korea's surprise 1% GDP growth in Q3
+  - [korea] While the Korean economy grew by surprise in the third quarter of this year on the back of semicondu..
   - [taiwan] PSMC capacity crunch holds back Jeju Semiconductor's growth
   - [korea] Korea should save chip boom windfall for downturns: IDB economist
   - [korea] SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview
@@ -51,12 +54,9 @@ Total: 3000 manchetes
   - [china] The world's super central bank debuts this week, the United States, Europe and Japan are expected to remain on
   - [china] "Peak-cutting and valley-filling" precise adjustment, MLF volume reduction continuation in October
   - [china] China’s Industrial Profits Jump Most in Three Months on Oil, AI
+  - [china] China’s Industrial Profits Surge Most in Three Months on Oil
   - [taiwan] Weekly news roundup: iPhone Duo shipment target revised upward amid display issues
-  - [korea] Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows
-  - [korea] Rupiah, peso lead losses among Asian currencies; won bucks trend
-  - [korea] South Korean shares surge on US rally, strong GDP
-  - [korea] South Korea's Stronger 3Q Growth Bolsters Case for November Rate Hike — Market Talk
-  - [japan] Yen slips ahead of central bank bonanza, dollar firms on tech rebound
+  - [korea] BOK warns AI slowdown could cut Korea’s chip exports by $100bn
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T06:12:43+00:00",
+      "published_utc": "2026-10-27T06:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
