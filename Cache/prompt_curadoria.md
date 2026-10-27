@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T06:02:43.391068+00:00
+Última coleta: 2026-10-27T06:12:42.964372+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          978
-  🇨🇳 China          841
-  🇹🇼 Taiwan         375
+  🇯🇵 Japão          977
+  🇨🇳 China          840
+  🇹🇼 Taiwan         377
   🇰🇷 Coreia do Sul  806
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] PSMC capacity crunch holds back Jeju Semiconductor's growth
   - [korea] Korea should save chip boom windfall for downturns: IDB economist
   - [korea] SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview
   - [japan] Japan stands ready to take decisive action in currency market, finance minister says
@@ -33,6 +34,8 @@ Total: 3000 manchetes
   - [japan] BREAKING NEWS: Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs: PM
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 198.49, Implies 36% Upside
   - [taiwan] Taiwan Central Bank: Demand For Emerging Tech Expected To Remain Strong In 2027
+  - [taiwan] Kazakhstan positions AI infrastructure as a potential export industry after Nvidia CEO's visit
+  - [korea] Fujifilm expands South Korean capacity to meet AI chip demand
   - [taiwan] Confidence in the housing market fell, technology inflation hit, confidence in durable goods hit a 17-year low
   - [china] Yuan holds flat near four-year peak; central bank meetings awaited
   - [japan] Asian currencies mixed as dollar holds firm, yen retreats ahead of Fed decision
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean shares surge on US rally, strong GDP
   - [korea] South Korea's Stronger 3Q Growth Bolsters Case for November Rate Hike — Market Talk
   - [japan] Yen slips ahead of central bank bonanza, dollar firms on tech rebound
-  - [taiwan] Anthropic's IPO filing puts TSMC, HBM, direct leasing at the center of AI compute risk
-  - [korea] The top 1% return on equity investment was found to have bought Samsung Electronics the most and sol..
-  - [china] The central bank launched a 412 billion yuan reverse repurchase today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T06:02:43+00:00",
+      "published_utc": "2026-10-27T06:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
