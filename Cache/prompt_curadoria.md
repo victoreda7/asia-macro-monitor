@@ -7,18 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T07:42:43.117381+00:00
+Última coleta: 2026-10-27T07:52:42.655488+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          971
+  🇯🇵 Japão          970
   🇨🇳 China          842
-  🇹🇼 Taiwan         377
+  🇹🇼 Taiwan         378
   🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
-  - [japan] Top Japanese Chip Stocks to Watch Going Into Q3 Earnings, According to Bernstein
   - [korea] Kospi jumps as Samsung, SK Hynix rally on Anthropic IPO plan, payout hopes
+  - [japan] Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers
+  - [japan] Top Japanese Chip Stocks to Watch Going Into Q3 Earnings, According to Bernstein
+  - [taiwan] COST OF LIVING Taiwan's consumer confidence weakens in October
   - [japan] Japan life insurers offer mixed view of JGBs as foreign bond selling persists
   - [korea] South Korean shares end over 3% higher on US rally, strong GDP
   - [china] The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, ha
@@ -37,6 +39,7 @@ Total: 3000 manchetes
   - [china] The central bank's reverse repurchase net investment today was 1.014 billion yuan, and the China Development B
   - [korea] SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview
   - [japan] Japan stands ready to take decisive action in currency market, finance minister says
+  - [japan] CPI excluding special factors accelerates rapidly in September, perhaps supporting Bank of Japan's 2% trend (R
   - [taiwan] Taiwan central bank sees strong tech demand driving exports into 2027
   - [china] China 5-Year Yield Hits Record Low on PBOC’s Cash Injection
   - [japan] Yen eases on risk-on mood ahead of central bank bonanza
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Kazakhstan positions AI infrastructure as a potential export industry after Nvidia CEO's visit
   - [korea] Fujifilm expands South Korean capacity to meet AI chip demand
   - [taiwan] Confidence in the housing market fell, technology inflation hit, confidence in durable goods hit a 17-year low
-  - [china] Yuan holds flat near four-year peak; central bank meetings awaited
-  - [japan] Asian currencies mixed as dollar holds firm, yen retreats ahead of Fed decision
-  - [japan] Ex-BOJ chief Kuroda backs more rate hikes, his former deputy urges caution
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T07:42:43+00:00",
+      "published_utc": "2026-10-27T07:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
