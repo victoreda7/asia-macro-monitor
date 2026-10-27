@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T17:12:43.581769+00:00
+Última coleta: 2026-10-27T17:22:48.906434+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          954
-  🇨🇳 China          859
+  🇨🇳 China          858
   🇹🇼 Taiwan         378
-  🇰🇷 Coreia do Sul  809
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics Stocks Gain 4.23% With Cash-Return Decisions Approaching
   - [china] China Claims Strong Economic Growth, but Skeptics Question Official Figures — WSJ
   - [korea] SK Hynix's Solidigm Reportedly In Talks Over $45B Investment In US Chip Plant
   - [korea] SK Hynix $155 call OI leads options chain as 6.7% Q3 swing looms
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Investor sentiment in semiconductors, which had been solid, is shaking. Samsung Electronics fell mor..
   - [china] China's October PMI Readings Likely to Reflect Seasonal Weakness — Market Talk
   - [china] Chinese Universe Publishing And Media Group's Unit Signs 1.7 Billion Yuan Textbook Supply Contract
-  - [china] Shanghai Electric Wind Power Group Q3 Net Loss At 321.8 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T17:12:43+00:00",
+      "published_utc": "2026-10-27T17:22:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
