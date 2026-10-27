@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T23:22:44.843802+00:00
+Última coleta: 2026-10-27T23:32:44.009930+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          956
-  🇨🇳 China          850
+  🇨🇳 China          849
   🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  811
+  🇰🇷 Coreia do Sul  812
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix 3Q Rev KRW104.615T Vs. KRW24.449T >000660.SE
   - [japan] Mapletree Industrial Trust: Yen Depreciation Against Singapore Dollar Also Weighed on Rev >ME8U.SG
   - [japan] FX weekly: Dollar slips weekly as Yen leads major currency gains
   - [japan] ``In the past, we would have received twice as much as younger people,'' but due to fewer posts, annual income
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Hainan Airport Infrastructure Q3 Net Loss At 132.6 Million Yuan
   - [japan] Digital Core REIT Announces Pricing Of JPY 5 Bln 3.47% Fixed Rate Notes Due 2031
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 199.71, Implies 37% Upside
-  - [china] Sustained Recovery for China Equities May Require Stronger Stimulus — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T23:22:45+00:00",
+      "published_utc": "2026-10-27T23:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
