@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T00:12:43.690932+00:00
+Última coleta: 2026-10-27T00:22:41.714607+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [japan] JAPAN SEPT SERVICES PPI +0.3% M/M: AUG +0.1%
   - [korea] S. Korea's GDP expands 1% in Q3 on strong exports, investment: BOK
   - [japan] MNI: JAPAN SEPT SERVICES PPI +3.7% Y/Y; AUG +3.5%
+  - [japan] Japan Services Producer Inflation Highest Since June 2024
   - [japan] Services Producer Price Index (Sept.)
   - [korea] South Korea GDP grows more than expected in Q3 on AI boost
   - [korea] (LEAD) S. Korea's GDP expands 1 pct in Q3 on strong exports, investment: BOK
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] EU Plans to Hit China With More Import Curbs in Early 2027
   - [korea] Micron, SanDisk and SK Hynix Stocks Climb as AI Memory Demand Takes Center Stage
   - [taiwan] Goldman Sachs has revised up its forecast for Taiwan’s GDP growth this year to 11.7% and expects to start an i
-  - [taiwan] Goldman Sachs revise up Taiwan's GDP growth forecast for this year and next, predicting the start of an intere
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T00:12:43+00:00",
+      "published_utc": "2026-10-27T00:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
