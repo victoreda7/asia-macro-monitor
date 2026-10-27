@@ -1,23 +1,23 @@
 {
- "generated_at_utc": "2026-10-27T07:52:42.655488+00:00",
- "collected_at_utc": "2026-10-27T07:52:42.655488+00:00",
+ "generated_at_utc": "2026-10-27T08:02:45.161930+00:00",
+ "collected_at_utc": "2026-10-27T08:02:45.161930+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 970,
-  "china": 842,
+  "japan": 968,
+  "china": 843,
   "taiwan": 378,
-  "korea": 810
+  "korea": 811
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 47,
+   "count": 45,
    "error": "",
    "newest": "2026-10-27T14:00:00+09:00"
   },
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:00:12+00:00"
+   "newest": "2026-10-24T01:44:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T07:34:54+00:00"
+   "newest": "2026-10-27T07:53:01+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:12:26+00:00"
+   "newest": "2026-10-27T00:09:40+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T16:34:19+09:00"
+   "newest": "2026-10-27T17:00:35+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 27,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T07:51:36+00:00"
+   "newest": "2026-10-27T08:01:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T04:31:14+00:00"
+   "newest": "2026-10-27T01:29:53+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:13:26+00:00"
+   "newest": "2026-10-27T07:08:12+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "China Industrial Profits Increase Notably",
+   "url": "https://www.tradingview.com/news/dpa_afx:890d3e90f9e37:0-china-industrial-profits-increase-notably/",
+   "published_utc": "2026-10-27T07:59:16+00:00",
+   "title_original": "China Industrial Profits Increase Notably",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bfdf065e9bf17b51"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -429,6 +446,24 @@
    "id": "50a7cb118a497d48"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The Export-Import Bank of Korea announced on the 27th that it has signed a business agreement with t..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15TC1TQUN1YkpmbE1JQWRVUTJEZlc5aTVzdEJwNFJST2xTU0g3ZWw4SERkOVlQUjJYNTJNMzg1OXNORlF3TUx5R095ZVBldXFwSVE?oc=5",
+   "published_utc": "2026-10-27T07:08:12+00:00",
+   "title_original": "The Export-Import Bank of Korea announced on the 27th that it has signed a business agreement with t..",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a656e7fda2eb724f"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "South Korean shares end over 3% higher on US rally, strong GDP",
@@ -444,24 +479,6 @@
    "live_wire": true,
    "manual": false,
    "id": "25474011daf988d8"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, had net remittances of US$54.3 billion in the past four months | Sankei",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzNEpfVUpXay1HRzU0Ym9PMGNVVVBtc0Z3cm1mbnRQamVDMlNXYjJTVEZsbHdRNW56Y3FwbEttQk1OT0xzNk9QbGItRFZOcnpjOWotNzEwTUdoSjNqVFE?oc=5",
-   "published_utc": "2026-10-27T06:54:00+00:00",
-   "title_original": "央行揭新台幣貶值關鍵外資近4個月淨匯出543億美元| 產經",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "95a2da0ff3f35a18"
   },
   {
    "source_id": "gn_tw_cna",
@@ -724,6 +741,24 @@
    "id": "47a8ca8cb15820e1"
   },
   {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, had net remittances of US$54.3 billion in the past four months | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzNEpfVUpXay1HRzU0Ym9PMGNVVVBtc0Z3cm1mbnRQamVDMlNXYjJTVEZsbHdRNW56Y3FwbEttQk1OT0xzNk9QbGItRFZOcnpjOWotNzEwTUdoSjNqVFE?oc=5",
+   "published_utc": "2026-10-27T05:33:00+00:00",
+   "title_original": "央行揭新台幣貶值關鍵外資近4個月淨匯出543億美元| 產經",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "95a2da0ff3f35a18"
+  },
+  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "CPI excluding special factors accelerates rapidly in September, perhaps supporting Bank of Japan's 2% trend (Reuters)",
@@ -832,7 +867,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Indicators for Core CPI",
-   "url": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
+   "url": "https://www.boj.or.jp/en/research/research_data/cpi/index.htm",
    "published_utc": "2026-10-27T05:00:00+00:00",
    "title_original": "Indicators for Core CPI",
    "region": "japan",
@@ -843,7 +878,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "549870a4319d8a4a"
+   "id": "9774b75f82219d2f"
   },
   {
    "source_id": "gn_jp_investing",
@@ -1949,23 +1984,6 @@
    "id": "3fd65467f2aa40c1"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "MNI: JAPAN SEPT SERVICES PPI +3.7% Y/Y; AUG +3.5%",
-   "url": "https://www.tradingview.com/news/dpa_afx:901b927042b81:0-mni-japan-sept-services-ppi-3-7-y-y-aug-3-5/",
-   "published_utc": "2026-10-27T00:05:58+00:00",
-   "title_original": "MNI: JAPAN SEPT SERVICES PPI +3.7% Y/Y; AUG +3.5%",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "74eaf0daa7df1787"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Southeast Asia’s housing paradox: too many homes, too few buyers",
@@ -2003,7 +2021,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Services Producer Price Index (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
+   "url": "https://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
    "published_utc": "2026-10-26T23:50:00+00:00",
    "title_original": "Services Producer Price Index (Sept.)",
    "region": "japan",
@@ -2014,7 +2032,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ba849d5af773718a"
+   "id": "f13b34f5cf17e8c3"
   },
   {
    "source_id": "investing_live",
@@ -3533,9 +3551,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "Sohu",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmdUams3cmxlNXc5TXEzSmpsam1JX3NtNGJWM0h4R05LWWhJeVBFYkxjZW9QS3Vkb2p4U0VUTFY1d1BRTkg4Q1FLanhyWXNmYXE0NGJZYTREVjlmajZURWJNWVdMbWtEdWpRODIyUnUzTjctTC1iNjJrcFJWSnRGTU16RGFCYUtSUTlN?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -3547,7 +3565,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "dee37dbc8c1d6e98"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3585,11 +3603,11 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 billion yuan of MLF expires.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95Z19yZUlkamFRWjlmcjNXYVJmUXVhbWczbEsyS1lWVnlDYVdVZWt6N0FqaGUxQjlocWlwN3lZM1gtOXphQmNEdGJScWNGdw?oc=5",
-   "published_utc": "2026-10-26T02:57:10+00:00",
-   "title_original": "本周央行公开市场逆回购到期3380亿元 周二9000亿元MLF到期",
+   "source_name": "证券之星",
+   "title_en": "This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 billion yuan of MLF expires_Company News_Finance",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4OWJKYUY2V0pkR0JmUW9TekhPRmIwWEJSUlZ2VGVITlVDV3VOLVliTk0tbUFNakFTS18yOGRyTFVqMVFxUHc0eVJjLWE0Ni1WRkZaM0lBaG9zaVNQZlhLRQ?oc=5",
+   "published_utc": "2026-10-26T02:57:00+00:00",
+   "title_original": "本周央行公开市场逆回购到期3380亿元周二9000亿元MLF到期_公司新闻_财经",
    "region": "china",
    "topics": [
     "monetary",
@@ -3599,7 +3617,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e21ee44288074ab5"
+   "id": "8ad0e6381b5427fd"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3774,24 +3792,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d4a3aa3b3df6303c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -4379,6 +4379,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -5519,24 +5537,6 @@
    "id": "c0606821eacd5484"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
-   "published_utc": "2026-10-23T12:38:12+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d3a519ddfcdc2da"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -5552,6 +5552,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
+   "published_utc": "2026-10-23T12:32:55+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -8760,7 +8778,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
    "published_utc": "2026-10-22T08:00:00+00:00",
    "title_original": "Japanese Government Bonds Held by the Bank of Japan",
    "region": "japan",
@@ -8771,7 +8789,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "be5e3fa3018b8dab"
+   "id": "29c1a23370b716a3"
   },
   {
    "source_id": "gn_kr_bok",
@@ -8897,7 +8915,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Developments in Real Exports and Real Imports",
-   "url": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+   "url": "https://www.boj.or.jp/en/research/research_data/reri/index.htm",
    "published_utc": "2026-10-22T07:00:00+00:00",
    "title_original": "Developments in Real Exports and Real Imports",
    "region": "japan",
@@ -8908,7 +8926,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "660ca9ffa7c57e97"
+   "id": "ef504da8e8250954"
   },
   {
    "source_id": "gn_kr_bok",
@@ -10319,7 +10337,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (October 20)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
    "published_utc": "2026-10-22T01:00:00+00:00",
    "title_original": "Bank of Japan Accounts (October 20)",
    "region": "japan",
@@ -10330,7 +10348,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "ec0f42a760b9874d"
+   "id": "0d4eb0513f284069"
   },
   {
    "source_id": "investing_econ",
@@ -21578,7 +21596,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "BOJ Current Account Balances by Sector (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
    "published_utc": "2026-10-16T08:00:00+00:00",
    "title_original": "BOJ Current Account Balances by Sector (Sept.)",
    "region": "japan",
@@ -21590,7 +21608,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "4fa0bf559afdc7a1"
+   "id": "dfe5350a6c9655a8"
   },
   {
    "source_id": "tradingview_live",
@@ -24683,6 +24701,23 @@
    "id": "f70b6cafaf408c20"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -24699,23 +24734,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -26065,7 +26083,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Summary of the \"Meeting on Market Operations\" (October 2026)",
-   "url": "http://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
+   "url": "https://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
    "published_utc": "2026-10-15T01:00:00+00:00",
    "title_original": "Summary of the \"Meeting on Market Operations\" (October 2026)",
    "region": "japan",
@@ -26076,7 +26094,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "d082cbec90b9340a"
+   "id": "e435c44f6fa50d1b"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -27551,7 +27569,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
-   "url": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
+   "url": "https://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
    "published_utc": "2026-10-14T11:00:00+00:00",
    "title_original": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
    "region": "china",
@@ -27562,7 +27580,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "2661a76747634fcc"
+   "id": "45b4eb71a85f25ba"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -29437,7 +29455,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (October 10)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
    "published_utc": "2026-10-14T01:00:00+00:00",
    "title_original": "Bank of Japan Accounts (October 10)",
    "region": "japan",
@@ -29448,7 +29466,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "16486515c4222e51"
+   "id": "c471ba9735663553"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -30987,6 +31005,23 @@
   {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
+   "title_en": "China to Cut Export Tax Rebate for New-Energy Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGR4Qzk1OFJma3NHbkdnVEt5YlpUOEc2QWpRaldDSHhxLVJPNS0tOGZpSVFtLWRFOTlrUkVqR19MMGw0bDZ3SzV4eTliVV9Zam9zOHUwdjA1LUhZNjZ2NFpSRkU5anpmQ2JEWkkxdDhMa3hhSVJvaGNBY0dTQ3Faal9YYi1rNXJFY3NsUTNvN0NPQlV4ZG5TZklCTl9GOWVCUmJpNG5VQzA0ODVRSVE?oc=5",
+   "published_utc": "2026-10-13T07:00:00+00:00",
+   "title_original": "China to Cut Export Tax Rebate for New-Energy Vehicles",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8ac9f4e5ad27899f"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
    "title_en": "IMF Cuts China Growth Forecasts for 2026 and 2027",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWpBcHFFOFRrSUxWNzNhWHFOMXh6UmdyeFBrNDM2blJDTEdzSzRYT0NvMEwtN1NES2Z6Q3V3ZG52SjViSU11VVRfb3VkUU56SHZ5N21Bb284M1R5UE1RRHFVQ0ZOT3EtdHkwOUYxZkNOTF9rbnQwSExadzFMY1pFRnZwN0o3MjUzYk5Ka1dJTF9jN0NtakdvQ0U3aHJXNVlJdXBaRkVUNA?oc=5",
    "published_utc": "2026-10-13T07:00:00+00:00",
@@ -32105,7 +32140,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Corporate Goods Price Index (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
+   "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
    "published_utc": "2026-10-12T23:50:00+00:00",
    "title_original": "Corporate Goods Price Index (Sept.)",
    "region": "japan",
@@ -32116,7 +32151,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "a6981feb23bc2f0f"
+   "id": "deff6dae29de0790"
   },
   {
    "source_id": "tradingview_live",
@@ -32341,23 +32376,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d2909c578f738bbe"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China to Cut Export Tax Rebate for New-Energy Vehicles",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGR4Qzk1OFJma3NHbkdnVEt5YlpUOEc2QWpRaldDSHhxLVJPNS0tOGZpSVFtLWRFOTlrUkVqR19MMGw0bDZ3SzV4eTliVV9Zam9zOHUwdjA1LUhZNjZ2NFpSRkU5anpmQ2JEWkkxdDhMa3hhSVJvaGNBY0dTQ3Faal9YYi1rNXJFY3NsUTNvN0NPQlV4ZG5TZklCTl9GOWVCUmJpNG5VQzA0ODVRSVE?oc=5",
-   "published_utc": "2026-10-12T18:17:00+00:00",
-   "title_original": "China to Cut Export Tax Rebate for New-Energy Vehicles",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8ac9f4e5ad27899f"
   },
   {
    "source_id": "tradingview_live",
@@ -42238,7 +42256,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Consumption Activity Index",
-   "url": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+   "url": "https://www.boj.or.jp/en/research/research_data/cai/index.htm",
    "published_utc": "2026-10-07T05:00:00+00:00",
    "title_original": "Consumption Activity Index",
    "region": "japan",
@@ -42249,7 +42267,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "59b2bbbcbbf50853"
+   "id": "d3d9f294ad8ba496"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -42476,7 +42494,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan Accounts (September 30)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260930.htm",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260930.htm",
    "published_utc": "2026-10-07T01:00:00+00:00",
    "title_original": "Bank of Japan Accounts (September 30)",
    "region": "japan",
@@ -42487,7 +42505,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "b71aae053b239416"
+   "id": "8c5c3bff28bcfa15"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -42544,7 +42562,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2609.pdf",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2609.pdf",
    "published_utc": "2026-10-06T23:50:00+00:00",
    "title_original": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
    "region": "japan",
@@ -42555,13 +42573,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "6b125bca3a1efc08"
+   "id": "becc856cca01f93b"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Bank of Japan's Transactions with the Government (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
    "published_utc": "2026-10-06T23:50:00+00:00",
    "title_original": "Bank of Japan's Transactions with the Government (Sept.)",
    "region": "japan",
@@ -42572,13 +42590,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "a825fddb85031586"
+   "id": "a9a18a3bd8fa6d2b"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Market Operations by the Bank of Japan (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
    "published_utc": "2026-10-06T23:50:00+00:00",
    "title_original": "Market Operations by the Bank of Japan (Sept.)",
    "region": "japan",
@@ -42589,7 +42607,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "36d85464386a55ad"
+   "id": "36f3852c9359d1b0"
   },
   {
    "source_id": "investing_econ",
@@ -45377,7 +45395,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Output Gap, Potential Growth Rate, and Labor Market Indicators",
-   "url": "http://www.boj.or.jp/en/research/research_data/gap/index.htm",
+   "url": "https://www.boj.or.jp/en/research/research_data/gap/index.htm",
    "published_utc": "2026-10-05T05:00:00+00:00",
    "title_original": "Output Gap, Potential Growth Rate, and Labor Market Indicators",
    "region": "japan",
@@ -45388,7 +45406,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "1b470663e1f8bc72"
+   "id": "b511d254bbdca0ac"
   },
   {
    "source_id": "tradingview_live",
@@ -45875,7 +45893,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Sources of Changes in Current Account Balances (Projections for Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2610.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2610.xlsx",
    "published_utc": "2026-10-04T23:50:00+00:00",
    "title_original": "Sources of Changes in Current Account Balances (Projections for Oct.)",
    "region": "japan",
@@ -45886,7 +45904,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "62c9d39b8568f039"
+   "id": "c6da2c063840ceea"
   },
   {
    "source_id": "gn_kr_bok",
@@ -47470,7 +47488,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Collateral Accepted by the Bank of Japan (End of Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/col/col2609.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/other/col/col2609.xlsx",
    "published_utc": "2026-10-02T08:00:00+00:00",
    "title_original": "Collateral Accepted by the Bank of Japan (End of Sept.)",
    "region": "japan",
@@ -47481,7 +47499,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "1c307fe313ac1af2"
+   "id": "2db9638292a32875"
   },
   {
    "source_id": "gn_kr_mk",
@@ -48874,7 +48892,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Average Contract Interest Rates on Loans and Discounts (Aug.)",
-   "url": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2608.pdf",
+   "url": "https://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2608.pdf",
    "published_utc": "2026-10-01T23:50:00+00:00",
    "title_original": "Average Contract Interest Rates on Loans and Discounts (Aug.)",
    "region": "japan",
@@ -48885,13 +48903,13 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5fed2ac6f33fcdae"
+   "id": "309b9537332fbc1a"
   },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Tankan (Sept.): Comprehensive Data Set",
-   "url": "http://www.boj.or.jp/en/statistics/tk/tankan09b.htm",
+   "url": "https://www.boj.or.jp/en/statistics/tk/tankan09b.htm",
    "published_utc": "2026-10-01T23:50:00+00:00",
    "title_original": "Tankan (Sept.): Comprehensive Data Set",
    "region": "japan",
@@ -48902,7 +48920,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "220623f5d15ca159"
+   "id": "ef1117f819c10bc6"
   },
   {
    "source_id": "tradingview_live",
@@ -50928,7 +50946,7 @@
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
    "title_en": "Sources of Changes in Current Account Balances and Market Operations (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf09.xlsx",
+   "url": "https://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf09.xlsx",
    "published_utc": "2026-10-01T04:00:00+00:00",
    "title_original": "Sources of Changes in Current Account Balances and Market Operations (Sept.)",
    "region": "japan",
@@ -50940,7 +50958,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "9bfd1df757ddaa40"
+   "id": "7bc8309a7d950eb5"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51878,25 +51896,6 @@
    "live_wire": true,
    "manual": false,
    "id": "798bf2250791c4e4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "BOJ SEPT TANKAN SMALLER NON-MANUFACTURER SENTIMENT INDEX +15 (JUNE +15); MEDIAN FORECAST +14",
-   "url": "https://www.tradingview.com/news/macenews:77b574535094b:0-boj-sept-tankan-smaller-non-manufacturer-sentiment-index-15-june-15-median-forecast-14/",
-   "published_utc": "2026-09-30T23:55:00+00:00",
-   "title_original": "BOJ SEPT TANKAN SMALLER NON-MANUFACTURER SENTIMENT INDEX +15 (JUNE +15); MEDIAN FORECAST +14",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2795fef64c8cd87d"
   },
   {
    "source_id": "manual_ia",

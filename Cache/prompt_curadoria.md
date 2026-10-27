@@ -7,23 +7,24 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T07:52:42.655488+00:00
+Última coleta: 2026-10-27T08:02:45.161930+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          970
-  🇨🇳 China          842
+  🇯🇵 Japão          968
+  🇨🇳 China          843
   🇹🇼 Taiwan         378
-  🇰🇷 Coreia do Sul  810
+  🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [china] China Industrial Profits Increase Notably
   - [korea] Kospi jumps as Samsung, SK Hynix rally on Anthropic IPO plan, payout hopes
   - [japan] Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers
   - [japan] Top Japanese Chip Stocks to Watch Going Into Q3 Earnings, According to Bernstein
   - [taiwan] COST OF LIVING Taiwan's consumer confidence weakens in October
   - [japan] Japan life insurers offer mixed view of JGBs as foreign bond selling persists
+  - [korea] The Export-Import Bank of Korea announced on the 27th that it has signed a business agreement with t..
   - [korea] South Korean shares end over 3% higher on US rally, strong GDP
-  - [china] The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, ha
   - [china] AI investment expansion encounters bottlenecks, the central bank is worried about financing risks and amplifie
   - [japan] Japan’s trend inflation index hits 3-year high, cements case for BOJ rate hike
   - [japan] Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs
@@ -39,6 +40,7 @@ Total: 3000 manchetes
   - [china] The central bank's reverse repurchase net investment today was 1.014 billion yuan, and the China Development B
   - [korea] SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview
   - [japan] Japan stands ready to take decisive action in currency market, finance minister says
+  - [china] The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, ha
   - [japan] CPI excluding special factors accelerates rapidly in September, perhaps supporting Bank of Japan's 2% trend (R
   - [taiwan] Taiwan central bank sees strong tech demand driving exports into 2027
   - [china] China 5-Year Yield Hits Record Low on PBOC’s Cash Injection
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 198.49, Implies 36% Upside
   - [taiwan] Taiwan Central Bank: Demand For Emerging Tech Expected To Remain Strong In 2027
   - [taiwan] Kazakhstan positions AI infrastructure as a potential export industry after Nvidia CEO's visit
-  - [korea] Fujifilm expands South Korean capacity to meet AI chip demand
-  - [taiwan] Confidence in the housing market fell, technology inflation hit, confidence in durable goods hit a 17-year low
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T07:52:42+00:00",
+      "published_utc": "2026-10-27T08:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
