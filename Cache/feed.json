@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T02:22:42.695996+00:00",
- "collected_at_utc": "2026-10-27T02:22:42.695996+00:00",
+ "generated_at_utc": "2026-10-27T02:32:43.292324+00:00",
+ "collected_at_utc": "2026-10-27T02:32:43.292324+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 978,
-  "china": 849,
+  "japan": 976,
+  "china": 850,
   "taiwan": 372,
-  "korea": 801
+  "korea": 802
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T02:02:27+00:00"
+   "newest": "2026-10-27T02:16:56+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T06:11:58+00:00"
+   "newest": "2026-10-27T00:09:40+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T11:21:15+09:00"
+   "newest": "2026-10-27T11:27:53+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-26T22:29:05+00:00"
+   "newest": "2026-10-27T02:23:17+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T02:19:00+00:00"
+   "newest": "2026-10-27T02:30:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T23:20:33+00:00"
+   "newest": "2026-10-26T21:00:08+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T01:46:40+00:00"
+   "newest": "2026-10-27T02:01:25+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -449,6 +449,23 @@
    "id": "5232481bfc22f7b0"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The top 1% return on equity investment was found to have bought Samsung Electronics the most and sol..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EZjRLTXVIa2ZmbkUxVksxZjljZVB6Y0Y3VGhVd1NPdGkyWmJtQ3lVbEtORmE2MGhvZ1YyRWhVaDFUTkoyaE83eHY2QlBmdjg?oc=5",
+   "published_utc": "2026-10-27T02:01:25+00:00",
+   "title_original": "The top 1% return on equity investment was found to have bought Samsung Electronics the most and sol..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "33a2ec2d250852ae"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "搜狐网",
    "title_en": "The central bank launched a 412 billion yuan reverse repurchase today",
@@ -482,6 +499,24 @@
    "live_wire": false,
    "manual": false,
    "id": "5842588dee41f8d3"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "On October 27, the central bank launched a 412 billion yuan 7-day reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ESll3R3BoUHFoTnNJUzYxQWFSZUVMSzlHY1pCNkYxeHo0cElkRl9HdTJCb1VHT0dVR1c3aHN3aFluYV9SUDBEa05lM2JyTDN4TzZyWDBWTGZSb2tWRUxjVThWXzNTejZn?oc=5",
+   "published_utc": "2026-10-27T01:51:41+00:00",
+   "title_original": "10月27日央行开展4120亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d883e0ce4b65f4e4"
   },
   {
    "source_id": "tradingview_live",
@@ -2773,23 +2808,6 @@
    "live_wire": false,
    "manual": false,
    "id": "26cbdb1b7286371e"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93SW1kSTJ0XzB5Ml9ELVloZ0I5Z2tnNC1uRF9KUVRib3lnNHBFYjI0ZUY0dkZDSENQa2JsYTN6VGs4amFiUG9qeFBjczdxZnFxYmVXNURiNnN3b210cDV6X2xqdlJ3b1dRUHBDbzdvVnhyeF9WenplYzZTQ2tyOHM?oc=5",
-   "published_utc": "2026-10-26T01:39:15+00:00",
-   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "909577cb78ba9d43"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5440,6 +5458,23 @@
    "id": "3ac990465bc04646"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXZTbzVEaXY2d3l5bk5vb0xkVm5aZkl0Z25nLWtiTWpuUmgtR05ZYTB5V1BlbWcxMmRCS01yN0FfXzJXT2lJLXhucE9hZzBuWURzcklaMF81bzNGRU95TVNYbzdiRXhEcURrR2JBYU9yOENjVDU0RlVBbzJRUlBhZWdTaXZfQnI4?oc=5",
+   "published_utc": "2026-10-23T07:00:00+00:00",
+   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eda4db23a9b07274"
+  },
+  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Taiwan manufacturers' business sentiment hits 54-month high",
@@ -5945,8 +5980,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -5960,7 +5995,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a1aa424a8381650f"
+   "id": "9f7d07c9dd0602ca"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -6031,8 +6066,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -6045,7 +6080,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -23595,6 +23630,23 @@
    "id": "f70b6cafaf408c20"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -23611,23 +23663,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -26064,23 +26099,6 @@
    "id": "6f4598c244355d82"
   },
   {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0tDR2tWdzFlcUZCRHJUYU4ySVl5OXE5aTZCV09pM1Q2OXM2NXB3UU1INUtHdExQRV9RTlEtU2NFZUtST1d0bUQzXzZLNW8wS1RjQjZTZ044WEhWVDAwbjllaFFodU9EbjNpeTlERTZ1NThLb21RMkhhWjQtRUFsNzN6RWMzLUhTMmRFczVtLXRPYzRPVVQ5Z3RPV0NVVVRWeURXdTFuYmlBdk1JYlVtTE9uZw?oc=5",
-   "published_utc": "2026-10-14T13:33:34+00:00",
-   "title_original": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "721a8861261fd171"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "济南新闻",
    "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation - News",
@@ -27340,6 +27358,23 @@
    "live_wire": false,
    "manual": false,
    "id": "172e77c048cae483"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0tDR2tWdzFlcUZCRHJUYU4ySVl5OXE5aTZCV09pM1Q2OXM2NXB3UU1INUtHdExQRV9RTlEtU2NFZUtST1d0bUQzXzZLNW8wS1RjQjZTZ044WEhWVDAwbjllaFFodU9EbjNpeTlERTZ1NThLb21RMkhhWjQtRUFsNzN6RWMzLUhTMmRFczVtLXRPYzRPVVQ5Z3RPV0NVVVRWeURXdTFuYmlBdk1JYlVtTE9uZw?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "title_original": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "721a8861261fd171"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -51872,40 +51907,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6f1f5e35095003ce"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Japan economic panel members underline BOJ independence By Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjhnX05TckxwSmRlRlZZZzBsVjl6NFZ2a1ZuTUtOcXpiWWk0N1otWUV4WlRVdGpFcTRZdXd4YXQzbWcxU0FRRVJmRVFJRGZWeGFJaDBFUkFydFU1YmlPd2hHZXEtT2phTWNvN0tUQnZ5a3NWX284SU03RHV5eTQwLVdVV0RtM2s4TF9rY0UybWZyN2RlZlZ3OW95dmNwS3EwamVtMkxTbHNPa3JGbjRFcA?oc=5",
-   "published_utc": "2026-09-30T10:39:37+00:00",
-   "title_original": "Japan economic panel members underline BOJ independence By Reuters",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "100f0fdf6f56156a"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Japan economic panel members underline BOJ independence",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVNiTU5jU2tYdUxMU08tTVRMWDRMelFGSE5hSUNWUDdzZGFkUF9zVm5ldjVsY3NBT19yWkJKNjBzVVU4cGNRX2tjSmkwaEVDaTZsZFg0WWh5UmQ5SGx2NkJEU0dyMDAtc242VlROZFFZU09USnNDVkdRLWpxOW1pblhYQVZldWVRZ25xc2RYRVJ0R204akVLdElnaGM5eDRoRGZoMGlIUmdtM3hnU3J4b3MtbUE?oc=5",
-   "published_utc": "2026-09-30T10:33:42+00:00",
-   "title_original": "Japan economic panel members underline BOJ independence",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "c876647dbef33ade"
   },
   {
    "source_id": "manual_ia",

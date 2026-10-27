@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T02:22:42.695996+00:00
+Última coleta: 2026-10-27T02:32:43.292324+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          978
-  🇨🇳 China          849
+  🇯🇵 Japão          976
+  🇨🇳 China          850
   🇹🇼 Taiwan         372
-  🇰🇷 Coreia do Sul  801
+  🇰🇷 Coreia do Sul  802
 
 ## O que já está no feed (não repita)
 
@@ -23,8 +23,10 @@ Total: 3000 manchetes
   - [korea] South Korea's Stronger 3Q Growth Bolsters Case for November Rate Hike — Market Talk
   - [japan] Yen slips ahead of central bank bonanza, dollar firms on tech rebound
   - [taiwan] Anthropic's IPO filing puts TSMC, HBM, direct leasing at the center of AI compute risk
+  - [korea] The top 1% return on equity investment was found to have bought Samsung Electronics the most and sol..
   - [china] The central bank launched a 412 billion yuan reverse repurchase today
   - [korea] With semiconductor market leader Samsung Electronics and SK Hynix announcing their third-quarter ear..
+  - [china] On October 27, the central bank launched a 412 billion yuan 7-day reverse repurchase operation.
   - [china] China Industrial Profits Rise 14.4%, Fastest Growth in Three Months
   - [china] CHINA PBOC CONDUCTS CNY412 BLN VIA 7-DAY REVERSE REPO TUES
   - [china] China Industrial Profits Grow 15.5% YoY in Jan-Sept
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea GDP grows more than expected in Q3 on AI boost
   - [korea] (LEAD) S. Korea's GDP expands 1 pct in Q3 on strong exports, investment: BOK
   - [korea] South Korea Q3 GDP Growth Tops Forecasts
-  - [china] Analysis-China’s lab-grown diamond makers target AI, chip sectors for next wave of growth
-  - [korea] South Korea's economy grows 1.0% in 3rd quarter on chip boom
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T02:22:42+00:00",
+      "published_utc": "2026-10-27T02:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
