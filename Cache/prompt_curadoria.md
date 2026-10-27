@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T03:22:43.991155+00:00
+Última coleta: 2026-10-27T03:32:42.890579+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          975
+  🇯🇵 Japão          974
   🇨🇳 China          850
-  🇹🇼 Taiwan         371
+  🇹🇼 Taiwan         372
   🇰🇷 Coreia do Sul  804
 
 ## O que já está no feed (não repita)
@@ -27,6 +27,7 @@ Total: 3000 manchetes
   - [china] The world's super central bank debuts this week, the United States, Europe and Japan are expected to remain on
   - [china] "Peak-cutting and valley-filling" precise adjustment, MLF volume reduction continuation in October
   - [china] China’s Industrial Profits Jump Most in Three Months on Oil, AI
+  - [taiwan] Weekly news roundup: iPhone Duo shipment target revised upward amid display issues
   - [korea] Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows
   - [korea] Rupiah, peso lead losses among Asian currencies; won bucks trend
   - [korea] South Korean shares surge on US rally, strong GDP
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Why is SK Hynix stock surging today?
   - [japan] Major life insurance companies accelerate replacement of government bonds
   - [korea] South Korea’s economy grows 1% in Q3, beating BOK forecast
-  - [korea] Foreigners have sold a large number of domestic stocks, but the won-dollar exchange rate is on the d..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T03:22:44+00:00",
+      "published_utc": "2026-10-27T03:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
