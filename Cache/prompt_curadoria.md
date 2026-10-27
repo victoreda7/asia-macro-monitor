@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T09:22:42.730269+00:00
+Última coleta: 2026-10-27T09:32:43.400748+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          958
-  🇨🇳 China          849
+  🇨🇳 China          851
   🇹🇼 Taiwan         379
-  🇰🇷 Coreia do Sul  814
+  🇰🇷 Coreia do Sul  812
 
 ## O que já está no feed (não repita)
 
+  - [china] China's Solar Tech Curbs Put India's Manufacturing Push At Risk
+  - [china] Liaoning Energy Industry Q3 Net Loss At 374.4 Million Yuan
   - [china] China's October PMI Readings Likely to Reflect Seasonal Weakness — Market Talk
   - [china] Chinese Universe Publishing And Media Group's Unit Signs 1.7 Billion Yuan Textbook Supply Contract
   - [china] Shanghai Electric Wind Power Group Q3 Net Loss At 321.8 Million Yuan
@@ -45,7 +47,6 @@ Total: 3000 manchetes
   - [korea] South Korean shares end over 3% higher on US rally, strong GDP
   - [china] AI investment expansion encounters bottlenecks, the central bank is worried about financing risks and amplifie
   - [japan] Japan’s trend inflation index hits 3-year high, cements case for BOJ rate hike
-  - [japan] Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs
   - [korea] Kospi Gains as Chip, Battery Stocks Advance
   - [korea] S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast
   - [japan] CPI excluding special factors accelerates sharply in September, perhaps supporting Bank of Japan's 2% trend (R
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] PSMC capacity crunch holds back Jeju Semiconductor's growth
   - [korea] Korea should save chip boom windfall for downturns: IDB economist
   - [japan] Mr. Kuroda supports interest rate hike policy, Mr. Wakatabe is cautious. Former Bank of Japan leaders write on
-  - [china] The central bank's reverse repurchase net investment today was 1.014 billion yuan, and the China Development B
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T09:22:42+00:00",
+      "published_utc": "2026-10-27T09:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

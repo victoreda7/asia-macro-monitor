@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T09:22:42.730269+00:00",
- "collected_at_utc": "2026-10-27T09:22:42.730269+00:00",
+ "generated_at_utc": "2026-10-27T09:32:43.400748+00:00",
+ "collected_at_utc": "2026-10-27T09:32:43.400748+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 958,
-  "china": 849,
+  "china": 851,
   "taiwan": 379,
-  "korea": 814
+  "korea": 812
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:56:00+00:00"
+   "newest": "2026-10-27T07:39:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:44:19+00:00"
+   "newest": "2026-10-27T07:56:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T00:44:23+00:00"
+   "newest": "2026-10-27T04:43:23+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T17:59:42+09:00"
+   "newest": "2026-10-27T18:29:39+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T09:21:20+00:00"
+   "newest": "2026-10-27T09:31:36+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T04:31:14+00:00"
+   "newest": "2026-10-27T07:30:52+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-27T09:09:52+00:00"
+   "newest": "2026-10-27T09:22:21+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T23:20:33+00:00"
+   "newest": "2026-10-27T05:42:11+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-27T16:00:00+09:00"
+   "newest": "2026-10-27T18:20:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:49:05+00:00"
+   "newest": "2026-10-27T08:43:25+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Businessworld",
+   "title_en": "China's Solar Tech Curbs Put India's Manufacturing Push At Risk",
+   "url": "https://www.tradingview.com/news/moodys:da9ba45edf443:0-china-s-solar-tech-curbs-put-india-s-manufacturing-push-at-risk/",
+   "published_utc": "2026-10-27T09:31:27+00:00",
+   "title_original": "China's Solar Tech Curbs Put India's Manufacturing Push At Risk",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8fd0f8b17c6e55d2"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Liaoning Energy Industry Q3 Net Loss At 374.4 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D0S3:0-liaoning-energy-industry-q3-net-loss-at-374-4-million-yuan/",
+   "published_utc": "2026-10-27T09:30:10+00:00",
+   "title_original": "Liaoning Energy Industry Q3 Net Loss At 374.4 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "e04b4cdcac95e5fb"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -828,23 +862,6 @@
    "id": "13862da1624c16d3"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xcGdBLVR3Rk1BNzBOc2UycEJ6Mno0dVhjWVV5VmE2Z1JybUozNnVHenlTandIcXpDeWRoaTVpb191THVIOHZsUFVzaTR5N2pOTDVRLXhteHJuQQ?oc=5",
-   "published_utc": "2026-10-27T06:41:59+00:00",
-   "title_original": "Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7057428ad7dd94f8"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Kospi Gains as Chip, Battery Stocks Advance",
@@ -1086,6 +1103,23 @@
    "live_wire": false,
    "manual": false,
    "id": "95a2da0ff3f35a18"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xcGdBLVR3Rk1BNzBOc2UycEJ6Mno0dVhjWVV5VmE2Z1JybUozNnVHenlTandIcXpDeWRoaTVpb191THVIOHZsUFVzaTR5N2pOTDVRLXhteHJuQQ?oc=5",
+   "published_utc": "2026-10-27T05:30:00+00:00",
+   "title_original": "Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7057428ad7dd94f8"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -1742,40 +1776,6 @@
    "live_wire": true,
    "manual": false,
    "id": "10fd1cd34d7524e1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korean shares surge on US rally, strong GDP",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46D01L:0-south-korean-shares-surge-on-us-rally-strong-gdp/",
-   "published_utc": "2026-10-27T02:14:32+00:00",
-   "title_original": "South Korean shares surge on US rally, strong GDP",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "05237fe4c1cad578"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "South Korea's Stronger 3Q Growth Bolsters Case for November Rate Hike — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261026010440:0-south-korea-s-stronger-3q-growth-bolsters-case-for-november-rate-hike-market-talk/",
-   "published_utc": "2026-10-27T02:12:00+00:00",
-   "title_original": "South Korea's Stronger 3Q Growth Bolsters Case for November Rate Hike — Market Talk",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "37019cae5164e668"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3848,7 +3848,7 @@
    "id": "c7c1d9a91e0558eb"
   },
   {
-   "source_id": "gn_kr_reuters",
+   "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "SK Hynix to announce steps to boost shareholder returns on Wednesday",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWx4UTlDVjlGVEQ4VlRud29jaTNKbVFVTTAwdDNMaGRUeVJYaHk1WnpZMFhTSkNBMmpZLVNFaThKQnlGbGNLZnF4Q3RkRWxzQ01QdFZRak5zUURmc19BX0NybFhwU3dweGh0LUYtTVY3N3pXMGVvalo5Rm5wU1UwcmZzSFJvRElQQXdzVWlBLUQ5b05LdWk0T0FTY1RmVml5aXZyVDZfS2dQc3Zsdzk3eklLM1M?oc=5",
@@ -3862,7 +3862,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "8a7ae9f44704cb3f"
+   "id": "b6490a6878005e0c"
   },
   {
    "source_id": "toyo_keizai",
@@ -24911,23 +24911,6 @@
    "id": "f70b6cafaf408c20"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -24944,6 +24927,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
