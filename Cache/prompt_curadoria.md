@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T04:42:52.851953+00:00
+Última coleta: 2026-10-27T04:52:43.337387+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          975
-  🇨🇳 China          847
+  🇯🇵 Japão          976
+  🇨🇳 China          846
   🇹🇼 Taiwan         373
   🇰🇷 Coreia do Sul  805
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen eases on risk-on mood ahead of central bank bonanza
+  - [taiwan] Inflation intensifies in Philippines, nearly a quarter of households go hungry
+  - [japan] Japan stands ready to take decisive action in currency market, finance minister says
+  - [korea] South Korean Won Extends Gains on Dollar Selling
   - [japan] BREAKING NEWS: Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs: PM
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 198.49, Implies 36% Upside
   - [taiwan] Taiwan Central Bank: Demand For Emerging Tech Expected To Remain Strong In 2027
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7171 TUES VS 6.7162
   - [china] China's industrial profits rise 15.5% in January-September
   - [china] Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets t
-  - [china] From January to September 2026, profits of industrial enterprises above designated size nationwide increased b
-  - [china] The central bank's reverse repurchase net investment today is 1.014 billion yuan
-  - [korea] S.Korean shares rebound as Anthropic IPO plan drives Samsung, SK Hynix rally
-  - [china] The central bank launched a 412 billion yuan 7-day reverse repurchase operation today
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T04:42:53+00:00",
+      "published_utc": "2026-10-27T04:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
