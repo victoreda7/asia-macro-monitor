@@ -7,26 +7,29 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T02:02:41.928603+00:00
+Última coleta: 2026-10-27T02:12:44.010154+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          982
-  🇨🇳 China          848
+  🇨🇳 China          849
   🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  797
+  🇰🇷 Coreia do Sul  796
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yen slips ahead of central bank bonanza, dollar firms on tech rebound
+  - [china] The central bank launched a 412 billion yuan reverse repurchase today
   - [korea] With semiconductor market leader Samsung Electronics and SK Hynix announcing their third-quarter ear..
   - [china] CHINA PBOC CONDUCTS CNY412 BLN VIA 7-DAY REVERSE REPO TUES
   - [china] China Industrial Profits Grow 15.5% YoY in Jan-Sept
   - [china] CHINA PBOC CONDUCTS CNY1000 BLN VIA O/N REVERSE REPO TUES
-  - [china] The central bank launched a 412 billion yuan 7-day reverse repurchase operation today
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7171 TUES VS 6.7162
   - [china] China's industrial profits rise 15.5% in January-September
   - [china] Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets t
   - [china] From January to September 2026, profits of industrial enterprises above designated size nationwide increased b
+  - [china] The central bank's reverse repurchase net investment today is 1.014 billion yuan
   - [korea] S.Korean shares rebound as Anthropic IPO plan drives Samsung, SK Hynix rally
+  - [china] The central bank launched a 412 billion yuan 7-day reverse repurchase operation today
   - [korea] SK Hynix tests bearish resistance cluster at KRW 1,381,000: Live
   - [japan] BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins
   - [japan] JGB Yields Higher as AI Bubble Concerns Ease — Market Talk
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Preview: Forecasters See Japan Industrial Production Lifted Again By AI Buildout in September
   - [japan] Preview: Forecasters See Japan Jobless Rate Flat in September as Employment Remains Buoyant
   - [korea] Samsung's Exynos 2700 outperforms Qualcomm's flagship chip by nearly 20 pc
-  - [china] Chinese automakers expand manufacturing in Europe to avoid EU tariffs amid rising domestic competition: Report
-  - [japan] [France at a dead end] If spending is suppressed, the people will protest, and if the financial situation wors
-  - [china] MBRF meatpacking plant in Promissão has exports suspended by China
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T02:02:42+00:00",
+      "published_utc": "2026-10-27T02:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
