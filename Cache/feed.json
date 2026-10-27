@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T15:02:44.265703+00:00",
- "collected_at_utc": "2026-10-27T15:02:44.265703+00:00",
+ "generated_at_utc": "2026-10-27T15:12:43.597335+00:00",
+ "collected_at_utc": "2026-10-27T15:12:43.597335+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 960,
-  "china": 856,
+  "japan": 959,
+  "china": 857,
   "taiwan": 378,
   "korea": 806
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T22:05:32+09:00"
+   "newest": "2026-10-28T00:09:38+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T15:02:16+00:00"
+   "newest": "2026-10-27T15:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T11:33:30+00:00"
+   "newest": "2026-10-27T15:05:30+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:43:25+00:00"
+   "newest": "2026-10-27T07:08:12+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Portuguese president condemns violence, calls for ending housing crisis",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FZ3BoYkRObFNIS0l5bE0zcFFIb1ZSdDBYVk1aREl2QzBsc0tFRHhBTFVKdVBBYXA0UnE4Mzh5SHhNZTJURjFHZTZ5RjdrUjB1YzNPOUQxLWxKTzVLRjVxbFBaeWVCMDVoS0VubjJyZ3JpOUpwUGtWQkRHeFY?oc=5",
+   "published_utc": "2026-10-27T15:05:30+00:00",
+   "title_original": "Portuguese president condemns violence, calls for ending housing crisis",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d4bb8183aa5cb04"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -517,8 +534,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -533,7 +550,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "tradingview_live",
@@ -1014,6 +1031,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fb7ac4f94e85ba7c"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Samsung, SK Hynix plan more than $158 billion in combined shareholder returns",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LeDh1Z21VcVd4VzBmMkZOQmlHWUpTZktuVWx4X3BhRXVQWWs5aDNwekdwN3QydjI3dy04YzBNbGpNUzltQno3UXg1MWxZOEdsVFVIaFJzQ1A3WnRwaWtGUXc0X0JVcTVabEZSd3p5ZmRtcFdhU0tv?oc=5",
+   "published_utc": "2026-10-27T08:40:00+00:00",
+   "title_original": "Samsung, SK Hynix plan more than $158 billion in combined shareholder returns",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "72c803f37cbe1229"
   },
   {
    "source_id": "tradingview_live",
@@ -9419,23 +9453,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
-   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaVlGcjZfUlBESnYxelFndUgybDRWQkpQeW40eHBwNTlYMHh4TnJUY1J2S19kZElIeGd1ajlQcWQ5VHhROXJvX1NXdWFEa1l4Qmc?oc=5",
-   "published_utc": "2026-10-22T07:47:42+00:00",
-   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e77a77dfde09eac"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "CEO스코어데일리",
    "title_en": "Bank of Korea, ‘taking a breather’ with base interest rate... Shin Hyun-song, “The past two rounds of ‘homing’ have paid off”",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04SVpMTHBuOGc3SjVsdHhQM0ZHd2Y2TkNOWmcwbjhlQTZoV1NHRzloOHBOZ0ZxTUtwM2YtbDFsVVB0UmV5dFZwdXkzWmxkZDdhR3FreDJBeXJpUjdva1dBVWc1c3dXcUZC?oc=5",
@@ -9484,6 +9501,23 @@
    "live_wire": false,
    "manual": false,
    "id": "dbed6b67f81300ac"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제TV",
+   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSHlwMkhTa2dtZkZvdUZwSVI1Tk03OEhwNFJTdDk4OERWLXFhX19pSXdlbXZXX1pXb09EcU1rZncxR2pBaE1IbU1vTF9YUlhNelpvS2MxODJlM0ZFemZlMFlWZ3JpT2F0?oc=5",
+   "published_utc": "2026-10-22T07:29:00+00:00",
+   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bfd94abb0650cc0d"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51846,41 +51880,6 @@
    "live_wire": false,
    "manual": false,
    "id": "381f92c4168e65e2"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Korea moves to cut bond issuance as high rates bite",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14QjBPcG5SbjBPb2NINzZkeEJ1Ni1mYVpYMF9SWjdMT0ZubnFuSGxxNDlpMDFTT3Q4Ymd2cm1kYUwzY1JaQWhJUnM0dXZ0RFhuTzBWaw?oc=5",
-   "published_utc": "2026-10-01T01:55:39+00:00",
-   "title_original": "Korea moves to cut bond issuance as high rates bite",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3226f022c499edff"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Need to accelerate pace of interest rate hikes; strong economy, wary of upward movement in prices; Bank of Japan September meeting (Jiji Press)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlRXJPSFhldHl6NHlEbHZLMnAwc3o4MTF5YTZna2lJa29sbWcxNzhnaDBNNXhwVkt6N1VBNVE4NU9hSlJuNlREbG12R2RUVlQ4S0k1Ykl4OXZud1ZtZW02RlZZTXFlVVQwMllGZGszaWpSclhvMkVOdFMtZjN2Y1E?oc=5",
-   "published_utc": "2026-10-01T01:54:06+00:00",
-   "title_original": "利上げペース加速が必要 経済堅調、物価上振れを警戒 日銀9月会合（時事通信）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "61151f325701ab37"
   },
   {
    "source_id": "manual_ia",

@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T15:02:44.265703+00:00
+Última coleta: 2026-10-27T15:12:43.597335+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          960
-  🇨🇳 China          856
+  🇯🇵 Japão          959
+  🇨🇳 China          857
   🇹🇼 Taiwan         378
   🇰🇷 Coreia do Sul  806
 
 ## O que já está no feed (não repita)
 
+  - [china] Portuguese president condemns violence, calls for ending housing crisis
   - [china] Xinjiang Beixin Road & Bridge Q3 Net Loss At 163.1 Million Yuan
   - [china] Geovis Technology Q3 Net Loss At 171.9 Million Yuan
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 200.32, Implies 37% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea's economy grew 1.0 percent in the third quarter on strong semiconductor exports and faci..
   - [korea] Exports, facility investment, and government consumption "three-horse cars" led the Korean economy i..
   - [korea] High-value orders ... Shipbuilding and defense hold firm despite a stronger won
-  - [china] Shandong Hi-tech Spring Material Technology's Unit To Invest Up To 630 Million Yuan In Project
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T15:02:44+00:00",
+      "published_utc": "2026-10-27T15:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
