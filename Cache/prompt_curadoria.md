@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T05:22:42.837567+00:00
+Última coleta: 2026-10-27T05:32:43.116546+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          978
-  🇨🇳 China          844
+  🇯🇵 Japão          979
+  🇨🇳 China          843
   🇹🇼 Taiwan         375
   🇰🇷 Coreia do Sul  803
 
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [japan] Yen eases on risk-on mood ahead of central bank bonanza
   - [taiwan] Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging
   - [japan] Indicators for Core CPI
+  - [japan] Yen eases on risk-on mood ahead of central bank bonanza By Reuters
   - [japan] Cybersecurity - Rising risks, ``threat to the financial system'' - Bank of Japan board member (Reuters)
   - [taiwan] Inflation intensifies in Philippines, nearly a quarter of households go hungry
   - [japan] Japan stands ready to take decisive action in currency market, finance minister says
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] On October 27, the central bank launched a 412 billion yuan 7-day reverse repurchase operation.
   - [japan] Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks
   - [china] China Industrial Profits Rise 14.4%, Fastest Growth in Three Months
-  - [china] CHINA PBOC CONDUCTS CNY412 BLN VIA 7-DAY REVERSE REPO TUES
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T05:22:43+00:00",
+      "published_utc": "2026-10-27T05:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

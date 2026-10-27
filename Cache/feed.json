@@ -1,13 +1,13 @@
 {
- "generated_at_utc": "2026-10-27T05:22:42.837567+00:00",
- "collected_at_utc": "2026-10-27T05:22:42.837567+00:00",
+ "generated_at_utc": "2026-10-27T05:32:43.116546+00:00",
+ "collected_at_utc": "2026-10-27T05:32:43.116546+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 978,
-  "china": 844,
+  "japan": 979,
+  "china": 843,
   "taiwan": 375,
   "korea": 803
  },
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T04:52:00+00:00"
+   "newest": "2026-10-27T04:57:58+00:00"
   },
   {
    "source_id": "ked_global",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-27T05:21:43+00:00"
+   "newest": "2026-10-27T05:25:33+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T14:19:27+09:00"
+   "newest": "2026-10-27T14:23:11+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T14:07:33+09:00"
+   "newest": "2026-10-27T14:23:11+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T23:17:00+00:00"
+   "newest": "2026-10-27T02:17:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-27T03:03:05+00:00"
+   "newest": "2026-10-27T05:22:48+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T05:19:41+00:00"
+   "newest": "2026-10-27T05:30:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T01:29:53+00:00"
+   "newest": "2026-10-26T22:28:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -429,6 +429,24 @@
    "live_wire": false,
    "manual": false,
    "id": "549870a4319d8a4a"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Yen eases on risk-on mood ahead of central bank bonanza By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMTYweHpQTkw0d0ZBOTF0SkhBejRRb2NlMjFvbjEybjNfUHRwOE9ObEJuTks5V0Z2aUthTDdveEJlUklncUNxRFlXaVpNcW9ROWJqY0tMeVNQQWh1aXNELVNkSGE5SHRiSXdoUWh2VEhMaFQ2YUpDSC1LMmM3MFhuLXptWjBHWEI1bWVTRlpWYVlIaVE0bTNELURVOGp1dmV3eVcwZHd3TGtyZw?oc=5",
+   "published_utc": "2026-10-27T04:57:58+00:00",
+   "title_original": "Yen eases on risk-on mood ahead of central bank bonanza By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4d19d8a1a32909ef"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -24147,23 +24165,6 @@
    "id": "f70b6cafaf408c20"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -24180,6 +24181,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51889,23 +51907,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d638356565f10093"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Central China Real Estate Reaches Agreement With Existing Lenders On Extension Group's Borrowings",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45M0J5:0-central-china-real-estate-reaches-agreement-with-existing-lenders-on-extension-group-s-borrowings/",
-   "published_utc": "2026-09-30T15:40:28+00:00",
-   "title_original": "Central China Real Estate Reaches Agreement With Existing Lenders On Extension Group's Borrowings",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e23d47962f823456"
   },
   {
    "source_id": "manual_ia",
