@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-27T12:42:43.831747+00:00",
- "collected_at_utc": "2026-10-27T12:42:43.831747+00:00",
+ "generated_at_utc": "2026-10-27T12:52:45.787996+00:00",
+ "collected_at_utc": "2026-10-27T12:52:45.787996+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 378,
   "korea": 808
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T12:34:49+00:00"
+   "newest": "2026-10-27T12:45:06+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:54:35+00:00"
+   "newest": "2026-10-27T11:44:48+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T21:23:04+09:00"
+   "newest": "2026-10-27T21:45:13+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 28,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T12:42:09+00:00"
+   "newest": "2026-10-27T12:52:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-26T12:19:40+00:00"
   }
  ],
  "items": [
@@ -430,6 +430,23 @@
    "live_wire": false,
    "manual": false,
    "id": "57824ed6928a12f1"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "Japan eyes 1 tril. yen private investment in Bangladesh over 5 yrs",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xcGdBLVR3Rk1BNzBOc2UycEJ6Mno0dVhjWVV5VmE2Z1JybUozNnVHenlTandIcXpDeWRoaTVpb191THVIOHZsUFVzaTR5N2pOTDVRLXhteHJuQQ?oc=5",
+   "published_utc": "2026-10-27T11:44:48+00:00",
+   "title_original": "Japan eyes 1 tril. yen private investment in Bangladesh over 5 yrs",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "31075aa41a694ee6"
   },
   {
    "source_id": "nhk_politics",
@@ -1519,23 +1536,6 @@
    "id": "60b9efe70468c7cc"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "China 5-Year Yield Hits Record Low on PBOC’s Cash Injection",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXJESzNscWY4WGhKOGRDcnI1TWhCTVpoRU1BdXZFNHQ3d3NOR25oaDBUZ0VMSTJJcTdNcWlISDZ2aU1ueTd1Sm90d3MwNHRHcDA5QUFoRjlMbzVSWG5aWDgzRExySWtOdDN0MkNucGlRUWFvMFpnSFFMTWV6WHVwdnkzbjdFeXlROTlJbmw1Q1FXQU1hNjNZTlFRc2dTRFpSSWpPWEtzQ1RrUlQ0RkJR?oc=5",
-   "published_utc": "2026-10-27T05:01:32+00:00",
-   "title_original": "China 5-Year Yield Hits Record Low on PBOC’s Cash Injection",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "fb7d00c8942e7eac"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Taiwan central bank sees strong tech demand driving exports into 2027",
@@ -1552,6 +1552,23 @@
    "live_wire": false,
    "manual": false,
    "id": "1ba0f7fff3abcbef"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "China 5-Year Yield Hits Record Low on PBOC’s Cash Injection",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXJESzNscWY4WGhKOGRDcnI1TWhCTVpoRU1BdXZFNHQ3d3NOR25oaDBUZ0VMSTJJcTdNcWlISDZ2aU1ueTd1Sm90d3MwNHRHcDA5QUFoRjlMbzVSWG5aWDgzRExySWtOdDN0MkNucGlRUWFvMFpnSFFMTWV6WHVwdnkzbjdFeXlROTlJbmw1Q1FXQU1hNjNZTlFRc2dTRFpSSWpPWEtzQ1RrUlQ0RkJR?oc=5",
+   "published_utc": "2026-10-27T05:01:00+00:00",
+   "title_original": "China 5-Year Yield Hits Record Low on PBOC’s Cash Injection",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fb7d00c8942e7eac"
   },
   {
    "source_id": "investing_econ",
@@ -4040,9 +4057,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -4054,7 +4071,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "2b972d8c6ac9362b"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4264,24 +4281,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4886,6 +4885,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -6043,24 +6060,6 @@
    "id": "c0606821eacd5484"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
-   "published_utc": "2026-10-23T12:38:12+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d3a519ddfcdc2da"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -6076,6 +6075,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
+   "published_utc": "2026-10-23T12:32:55+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -9520,6 +9537,23 @@
    "id": "fac5fce3cd370fb4"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "네이버페이 머니스토리",
+   "title_en": "The Bank of Korea, which had been raising the base interest rate, now freezes it at 3.00%... What is the background?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fdmE2NlhjLWxpQ3dObWNRYVlTMnJIV2UyczQ0SXVmazFFcXBkbnloR1B5WGtYeWlvVzlMRlBnVGlRSEtiT2VGSnRjTm8wQXhuTFE?oc=5",
+   "published_utc": "2026-10-22T06:50:01+00:00",
+   "title_original": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b4fcebcd8480f063"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Retail investors lose $4.8bn on Samsung, SK hynix leveraged ETFs in 80 days",
@@ -10373,24 +10407,6 @@
    "live_wire": false,
    "manual": false,
    "id": "988d5e65c5cc47c5"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "한국보험신문",
-   "title_en": "The Bank of Korea freezes the base interest rate by 3%... “Watch prices and financial stability”",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02ZVV4cnRRMGhOQ0JVR2Z6d1BoOE9DYzJ2S3k2eVF2T2NIdGVZYXRJN09TY2pzeGZOWEV0MS1SYjlJRm9GQ1hJZExhSnFlVGRkRjl6REFwaml4WGE1c1Y2ZWNBSER3R2ZlWDNF0gFvQVVfeXFMT2poRnh2ZGxuV2JtWURCWE1oeE53UjAxb2xuWU5BSDNXSTNzUFFCOEpfSy1CazItR3NrSVZQdVpQbTBCZzVESW8wSVlNYjB3ZzVXa25UQ01zNG90WXY1cW9CdTRTV19FWXlaNDRkdjhZ?oc=5",
-   "published_utc": "2026-10-22T02:28:53+00:00",
-   "title_original": "한은, 기준금리 3% 동결… “물가·금융안정 주시”",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "67047fbd1f32ba36"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51866,23 +51882,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9f784de7b0869a38"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan’s Biggest Manufacturers Most Optimistic Since 2018",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQlJkcXppNWoyNEdsV2puUjE4UDNpVHhVTW9pdjJjUV9ET0l3UU0zQVlGbWlwcDJyalUtSkdmczk0cHhCOFViQnRjY25LSWk1OE4xNnIxRURIVlRWZWRKT1puZ2NPeTVRSTNBUEVWY0VzbFJvekdFdmlSdjVxdlVyb3docE1EYmtnanprV0R4Szh2dmIweVNjNnp3bEV2RFB2cEZRVlRvSkxEU1dEeDAySmZwRQ?oc=5",
-   "published_utc": "2026-10-01T01:34:00+00:00",
-   "title_original": "Japan’s Biggest Manufacturers Most Optimistic Since 2018",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "21203d04a4333780"
   },
   {
    "source_id": "manual_ia",

@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T12:42:43.831747+00:00
+Última coleta: 2026-10-27T12:52:45.787996+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          961
@@ -22,6 +22,7 @@ Total: 3000 manchetes
   - [japan] Selling investment trusts as prices fall due to rising interest rates, JA Saga will be in the red this fiscal 
   - [china] Shenzhen Kingkey Smart Agriculture Times Q3 Net Loss At 193.6 Million Yuan
   - [japan] The reason why the report card for the first year of the Takaichi administration is ``barely passing in fiscal
+  - [japan] Japan eyes 1 tril. yen private investment in Bangladesh over 5 yrs
   - [japan] Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and 
   - [china] Shanghai V-Test Semiconductor Tech To Invest In Shanghai HQ Project
   - [china] Sinograin vende 172.240 t de soja importada pela China, aponta Mysteel
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan shares edge up as TSMC bounces back
   - [china] If AI spending slows down, South Korea's central bank warns chip exports could drop by US$100 billion | Intern
   - [japan] Japan Government Keeps Gradual Economic Recovery Outlook, Continues to Warn about Inflationary Impact of Linge
-  - [china] China Railway Construction Heavy Industry January-September New Contracts, Bids Totalled 10.5 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T12:42:44+00:00",
+      "published_utc": "2026-10-27T12:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
