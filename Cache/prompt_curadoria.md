@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T22:32:42.155334+00:00
+Última coleta: 2026-10-27T22:42:42.999439+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          955
@@ -36,6 +36,7 @@ Total: 3000 manchetes
   - [korea] SK hynix Stocks Gain 5.18% Before Its Payout Plan Faces Board Scrutiny
   - [china] Portuguese president condemns violence, calls for ending housing crisis
   - [china] Xinjiang Beixin Road & Bridge Q3 Net Loss At 163.1 Million Yuan
+  - [china] China’s energy supply chain is withstanding test of Middle East war, expert says
   - [japan] Dollar firms ahead of central bank meetings, steadier stocks stall safe haven play By Reuters
   - [china] Geovis Technology Q3 Net Loss At 171.9 Million Yuan
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 200.32, Implies 37% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 199.71, Implies 37% Upside
   - [china] Sustained Recovery for China Equities May Require Stronger Stimulus — Market Talk
   - [japan] What role does the Bank of Japan branch play? "Bank of Japan Nagasaki Branch" Branch Manager talks about the c
-  - [japan] Retail price of eggs reaches record high “Avian influenza continues to affect” Ministry of Agriculture, Forest
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T22:32:42+00:00",
+      "published_utc": "2026-10-27T22:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
