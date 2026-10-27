@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T15:52:44.662035+00:00",
- "collected_at_utc": "2026-10-27T15:52:44.662035+00:00",
+ "generated_at_utc": "2026-10-27T16:02:46.207044+00:00",
+ "collected_at_utc": "2026-10-27T16:02:46.207044+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 957,
-  "china": 858,
+  "japan": 956,
+  "china": 859,
   "taiwan": 378,
   "korea": 807
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T09:01:32+00:00"
+   "newest": "2026-10-24T01:44:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "error": "",
    "newest": "2026-10-27T09:45:00+00:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T15:36:25+00:00"
+   "newest": "2026-10-27T15:52:14+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T15:36:25+00:00"
+   "newest": "2026-10-27T15:48:38+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 28,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T04:33:00+00:00"
+   "newest": "2026-10-27T04:34:02+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T15:47:41+00:00"
+   "newest": "2026-10-27T16:01:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:43:25+00:00"
+   "newest": "2026-10-27T09:25:37+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2382,6 +2382,24 @@
    "id": "4731e84578a9b26c"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "汇通网",
+   "title_en": "Central Bank of China: Launching 412 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BX3NUVDNJNGFpVG5SUXNTYUdqajRoeEQ2RjEzYVlJX3h1WnpfWVJ3cFNFZjRSTHQxcEhzTm16Vld4YXJzU3d5RGZwOE1zMXpnbjhqdGd5S2pYdDBBaHZCLThmRGd5Wms?oc=5",
+   "published_utc": "2026-10-27T01:22:15+00:00",
+   "title_original": "中国央行：今日开展4120亿元7天逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "101d88d091a358a6"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Cadence says chip design demand is broadening beyond AI as analysts test margins, rival targets",
@@ -4194,9 +4212,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -4208,7 +4226,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "2b972d8c6ac9362b"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4400,24 +4418,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5005,6 +5005,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -6162,24 +6180,6 @@
    "id": "c0606821eacd5484"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
-   "published_utc": "2026-10-23T12:38:12+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d3a519ddfcdc2da"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -6195,6 +6195,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
+   "published_utc": "2026-10-23T12:32:55+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -25394,6 +25412,23 @@
    "id": "51a413bc8920483f"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -25410,23 +25445,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51858,25 +51876,6 @@
    "live_wire": false,
    "manual": false,
    "id": "554b60bef9333a48"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan's short view on the 6th period of continuous improvements in the large enterprise manufacturing industry (ABEMA TIMES)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVlvVkF5SmJZbUR1RmxHQ2c5SGFBODlvNXoyZWdHSnhoamxJcVoyeENWanBTZmdpY29mVnYwOG10TUwzcTZtb285MDhIVWhtaktoaFZFSGdoSFZBaENkZnk2NVhYWDgzZ0FXejVSTDhyTlFxR0w0UTg3bVdsWk1SdGZpNUVOalFJWnZDT0FB?oc=5",
-   "published_utc": "2026-10-01T02:09:16+00:00",
-   "title_original": "日銀短観 大企業製造業6期連続改善（ABEMA TIMES）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "337caf8e4f168932"
   },
   {
    "source_id": "manual_ia",
