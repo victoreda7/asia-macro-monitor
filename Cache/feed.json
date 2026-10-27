@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T11:32:44.402081+00:00",
- "collected_at_utc": "2026-10-27T11:32:44.402081+00:00",
+ "generated_at_utc": "2026-10-27T11:42:44.341886+00:00",
+ "collected_at_utc": "2026-10-27T11:42:44.341886+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 958,
-  "china": 856,
+  "japan": 960,
+  "china": 854,
   "taiwan": 378,
   "korea": 808
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T11:04:00+00:00"
+   "newest": "2026-10-26T10:27:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T11:15:51+00:00"
+   "newest": "2026-10-27T11:38:56+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T10:54:29+00:00"
+   "newest": "2026-10-27T11:30:46+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T19:52:00+09:00"
+   "newest": "2026-10-27T20:39:14+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T19:32:00+09:00"
+   "newest": "2026-10-27T20:39:14+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T04:31:14+00:00"
+   "newest": "2026-10-27T07:30:52+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,25 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
+   "published_utc": "2026-10-27T11:39:14+00:00",
+   "title_original": "片山財務相 消費税減税の買い控えと駆け込み 関係省庁で対処",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "13a041a9c99324db"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -2068,6 +2087,24 @@
    "id": "c7772dd28b7e8d3d"
   },
   {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "Japan’s Business Service Prices Accelerate Ahead of BOJ Meeting",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2Zha1YzUkZSOW40ZDdNOWRzTkxMcGlPM3hpRVNXbjR6Nk1fUDRXRmQwbFZUb21uRTdNbVl5eWpzWUcydEs2S3VMWl9aMDVtRDVqODZjMFloZ2RJMkY2N1ZjUDdDZ0psSEdpMU10NnVwT0dXVHRGUEtkVTNzbVFIVGlQUzFNTndCb1loWEpfV3NiRzBPWV9iLW5JYU1ueVBhM3NEQ2szcURHWHlGdEprTTVHcTU?oc=5",
+   "published_utc": "2026-10-27T01:44:00+00:00",
+   "title_original": "Japan’s Business Service Prices Accelerate Ahead of BOJ Meeting",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "992e13bc7fc603f5"
+  },
+  {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets the profit data of industrial enterprises from January to September 2026",
@@ -2964,6 +3001,25 @@
    "live_wire": false,
    "manual": false,
    "id": "7b08c4a761ba4502"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Goldman Sachs has revised up its GDP growth forecast for Taiwan this year to 11.7% and expects to start an interest rate hike cycle in December | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RZ3QxWkpGVVFQSGJzcDVzS3NObDlweWF5Zks0OTd6dnMxTm5IQXlKeTF5eFNzanlKQnVMOFVFd3ZxQlItOGJscjl5cG81aFcxV1ZQcUJOclg3RnRGa2c?oc=5",
+   "published_utc": "2026-10-26T12:52:00+00:00",
+   "title_original": "高盛上修台灣今年GDP成長預測至11.7％ 估12月啟動升息週期 | 產經",
+   "region": "taiwan",
+   "topics": [
+    "monetary",
+    "activity",
+    "signaling"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3df1a9747aa4e45e"
   },
   {
    "source_id": "gn_tw_cna",
@@ -4931,6 +4987,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7d915107833d2141"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "KB Think",
+   "title_en": "Market Comment: Taking a breather after back-to-back hikes, base interest rate hike expected to resume in November | KB's thoughts",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MSU5oTW5wOU9zMDlLcXJoSUV1Y1RxZEM3MTdWT1lHczNwQzBhNUpSSkdjMWlNVTJYOHp6clFCaDlqZHR1ZmZpQkNhbnlXd213YlBSZFpJdXNPZ01xWGtqY0hmVQ?oc=5",
+   "published_utc": "2026-10-25T04:43:28+00:00",
+   "title_original": "Market Comment : 백투백 인상 후 숨고르기, 11월 기준금리 인상 재개 전망 | KB의 생각",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eeae5cc7aacb8b30"
   },
   {
    "source_id": "toyo_keizai",
@@ -51807,74 +51880,6 @@
    "live_wire": false,
    "manual": false,
    "id": "277872acf2398e2e"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "SK Hynix trapped in no-trade zone at ₩1,778,000: Live levels",
-   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-doji-at-fibonacci-inflection-1808000-live-levels-93CH-4919227",
-   "published_utc": "2026-10-01T01:06:00+00:00",
-   "title_original": "SK Hynix trapped in no-trade zone at ₩1,778,000: Live levels",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1304ec4cc14586f9"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "SG Semiconductor builds brand and talent for Singapore chip industry",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVl9KeWpFRFBJenc0NXNkVU1oYjhxcmpyd2wtX2RYODVkNlNldEtvUXA2T1NPdWRhQzNfZFBOTjZQQ1FyTXd6ZWpidGN0d3BNVWRaYk04SzkwSGVsandkX1ZCem1uSXl0VlIzWnMxd3VTUTd0dTBoQXcwTjhQQWhuckQzaEdXRXRGOWN4b3RCUTZuUDhhd2lXdmk2WF9CSjQ?oc=5",
-   "published_utc": "2026-10-01T01:02:01+00:00",
-   "title_original": "SG Semiconductor builds brand and talent for Singapore chip industry",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e0c0560cb0fb4f94"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "QQ News",
-   "title_en": "The central bank's regular meeting releases high-quality signals, and the policy of lowering reserve requirements and interest rates is on the way, but \"6 new nets\" have been added",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWFQtdUY4akhaWHFfQlV3dGVaaGQzbWxEcFd3QjBmRU43MmdfcVI0MDhZLUE0ZW02RHdtRW5mazZWVzRpSUVpR3dRSk9YQ0x5Qi1pdEhB?oc=5",
-   "published_utc": "2026-10-01T00:55:00+00:00",
-   "title_original": "央行例会释放优质信号，降准降息政策正在路上，但新增“6张网”",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6eb588e758336305"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "ThePaper.cn",
-   "title_en": "Interest rate cut? What does it mean when the central bank launches PSL?",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MNV9VUUJZNjNST29PdFU1MzJWenMtUXNWLWsxbVFJRk5tNTRLVkhYWG1EVmNLdmlQaTJENXdLNWZ6cmllclBuc1dlalc1anRoZk1Zcm5PYm5sN2JWMUE?oc=5",
-   "published_utc": "2026-10-01T00:53:00+00:00",
-   "title_original": "降息？央行出手PSL是啥意思？",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f7d5621246b54b8e"
   },
   {
    "source_id": "manual_ia",
