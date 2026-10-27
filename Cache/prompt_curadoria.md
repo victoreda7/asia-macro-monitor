@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T16:42:43.928759+00:00
+Última coleta: 2026-10-27T16:52:45.019827+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          956
+  🇯🇵 Japão          955
   🇨🇳 China          859
   🇹🇼 Taiwan         378
-  🇰🇷 Coreia do Sul  807
+  🇰🇷 Coreia do Sul  808
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix $155 call OI leads options chain as 6.7% Q3 swing looms
   - [japan] Japan's EV subsidies face uncertain future as country's 'DOGE' takes aim
   - [korea] SK hynix Stocks Gain 5.18% Before Its Payout Plan Faces Board Scrutiny
   - [china] Portuguese president condemns violence, calls for ending housing crisis
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Shanghai Electric Wind Power Group Q3 Net Loss At 321.8 Million Yuan
   - [china] How This U.S. Agency Works to Beat China at Building Energy and Mineral Supply Chains — Barrons.com
   - [china] Sichuan Development Lomon Q3 Net Loss At 402.2 Million Yuan
-  - [korea] South Korea's economy grew 1.0 percent in the third quarter on strong semiconductor exports and faci..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T16:42:44+00:00",
+      "published_utc": "2026-10-27T16:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

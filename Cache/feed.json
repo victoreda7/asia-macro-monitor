@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-27T16:42:43.928759+00:00",
- "collected_at_utc": "2026-10-27T16:42:43.928759+00:00",
+ "generated_at_utc": "2026-10-27T16:52:45.019827+00:00",
+ "collected_at_utc": "2026-10-27T16:52:45.019827+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 956,
+  "japan": 955,
   "china": 859,
   "taiwan": 378,
-  "korea": 807
+  "korea": 808
  },
  "elapsed_s": 29.6,
  "sources": [
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T16:29:00+00:00"
+   "newest": "2026-10-27T16:41:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:44:19+00:00"
+   "newest": "2026-10-27T07:56:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 46,
+   "count": 36,
    "error": "",
-   "newest": "2026-10-27T19:32:56+08:00"
+   "newest": "2026-10-27T20:42:01+08:00"
   },
   {
    "source_id": "investing_live",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T04:43:23+00:00"
+   "newest": "2026-10-27T02:39:50+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T15:34:41+00:00"
+   "newest": "2026-10-27T16:05:27+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T04:34:02+00:00"
+   "newest": "2026-10-27T04:33:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T12:08:09+00:00"
+   "newest": "2026-10-27T15:15:35+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T16:31:36+00:00"
+   "newest": "2026-10-27T16:52:14+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T09:25:37+00:00"
+   "newest": "2026-10-27T08:43:25+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-26T12:19:40+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "SK Hynix $155 call OI leads options chain as 6.7% Q3 swing looms",
+   "url": "https://www.tradingview.com/news/seekingalpha:216a19c31094b:0-sk-hynix-155-call-oi-leads-options-chain-as-6-7-q3-swing-looms/",
+   "published_utc": "2026-10-27T16:30:13+00:00",
+   "title_original": "SK Hynix $155 call OI leads options chain as 6.7% Q3 swing looms",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "aa2a2a5fb6c01f5e"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1203,24 +1220,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c8a193be2d594e10"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN’S GOVERNMENT UPGRADES ITS VIEW ON BUSINESS SENTIMENT AFTER UPBEAT Q3 TANKAN SURVEY, DOWNGRADES ASSESSMENT OF EXPORTS AMID SLIDING VOLUMES",
-   "url": "https://www.tradingview.com/news/macenews:74bd37308094b:0-japan-s-government-upgrades-its-view-on-business-sentiment-after-upbeat-q3-tankan-survey-downgrades-assessment-of-exports-amid-sliding-volumes/",
-   "published_utc": "2026-10-27T08:06:00+00:00",
-   "title_original": "JAPAN’S GOVERNMENT UPGRADES ITS VIEW ON BUSINESS SENTIMENT AFTER UPBEAT Q3 TANKAN SURVEY, DOWNGRADES ASSESSMENT OF EXPORTS AMID SLIDING VOLUMES",
-   "region": "japan",
-   "topics": [
-    "activity",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "49cb5fec85fc700f"
   },
   {
    "source_id": "gn_kr_ked",
@@ -9522,6 +9521,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaVlGcjZfUlBESnYxelFndUgybDRWQkpQeW40eHBwNTlYMHh4TnJUY1J2S19kZElIeGd1ajlQcWQ5VHhROXJvX1NXdWFEa1l4Qmc?oc=5",
+   "published_utc": "2026-10-22T07:47:42+00:00",
+   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e77a77dfde09eac"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "CEO스코어데일리",
    "title_en": "Bank of Korea, ‘taking a breather’ with base interest rate... Shin Hyun-song, “The past two rounds of ‘homing’ have paid off”",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04SVpMTHBuOGc3SjVsdHhQM0ZHd2Y2TkNOWmcwbjhlQTZoV1NHRzloOHBOZ0ZxTUtwM2YtbDFsVVB0UmV5dFZwdXkzWmxkZDdhR3FreDJBeXJpUjdva1dBVWc1c3dXcUZC?oc=5",
@@ -9570,23 +9586,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dbed6b67f81300ac"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제TV",
-   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSHlwMkhTa2dtZkZvdUZwSVI1Tk03OEhwNFJTdDk4OERWLXFhX19pSXdlbXZXX1pXb09EcU1rZncxR2pBaE1IbU1vTF9YUlhNelpvS2MxODJlM0ZFemZlMFlWZ3JpT2F0?oc=5",
-   "published_utc": "2026-10-22T07:29:00+00:00",
-   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bfd94abb0650cc0d"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -20563,6 +20562,24 @@
    "id": "84cc618fe4cacddd"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: Economic, fiscal policy minister Kiuchi visits war-linked Yasukuni shrine",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kc1ZMdHRvOTd0R0xEUEZrS3lWSVJFNzhUcU1IUkpjMS1TbjAwd0Y5a21DVk9namxNQkZ1U3ZpejRMa29JSjluRmlZOHU0d0NjV0RqR2ZiVzhjQQ?oc=5",
+   "published_utc": "2026-10-17T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: Economic, fiscal policy minister Kiuchi visits war-linked Yasukuni shrine",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "98b5aca32d81cee0"
+  },
+  {
    "source_id": "gn_cn_xinhua",
    "source_name": "Xinhua",
    "title_en": "Interview: IMF official highlights mounting global fiscal challenges",
@@ -20631,24 +20648,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8829b404772c7591"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Economic, fiscal policy minister Kiuchi visits war-linked Yasukuni shrine",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kc1ZMdHRvOTd0R0xEUEZrS3lWSVJFNzhUcU1IUkpjMS1TbjAwd0Y5a21DVk9namxNQkZ1U3ZpejRMa29JSjluRmlZOHU0d0NjV0RqR2ZiVzhjQQ?oc=5",
-   "published_utc": "2026-10-17T03:20:00+00:00",
-   "title_original": "BREAKING NEWS: Economic, fiscal policy minister Kiuchi visits war-linked Yasukuni shrine",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "98b5aca32d81cee0"
   },
   {
    "source_id": "korea_herald_biz",
