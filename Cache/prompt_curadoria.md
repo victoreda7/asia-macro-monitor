@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T04:52:43.337387+00:00
+Última coleta: 2026-10-27T05:02:41.543416+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          976
-  🇨🇳 China          846
-  🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  805
+  🇯🇵 Japão          977
+  🇨🇳 China          845
+  🇹🇼 Taiwan         374
+  🇰🇷 Coreia do Sul  804
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging
+  - [japan] Indicators for Core CPI
+  - [taiwan] Taiwan central bank sees strong tech demand driving exports into 2027
   - [japan] Yen eases on risk-on mood ahead of central bank bonanza
   - [taiwan] Inflation intensifies in Philippines, nearly a quarter of households go hungry
   - [japan] Japan stands ready to take decisive action in currency market, finance minister says
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY412 BLN VIA 7-DAY REVERSE REPO TUES
   - [china] China Industrial Profits Grow 15.5% YoY in Jan-Sept
   - [china] CHINA PBOC CONDUCTS CNY1000 BLN VIA O/N REVERSE REPO TUES
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7171 TUES VS 6.7162
-  - [china] China's industrial profits rise 15.5% in January-September
-  - [china] Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets t
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T04:52:43+00:00",
+      "published_utc": "2026-10-27T05:02:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
