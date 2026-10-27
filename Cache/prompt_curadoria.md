@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T23:42:45.765448+00:00
+Última coleta: 2026-10-27T23:52:43.221076+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          957
+  🇯🇵 Japão          956
   🇨🇳 China          845
   🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  815
+  🇰🇷 Coreia do Sul  816
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix posts record Q3 profit, plans W100tr in shareholder returns this year
   - [korea] SK Hynix 3Q Net KRW39.776T Vs. Net KRW12.598T >000660.SE
   - [korea] SK Hynix 3Q Net Profit Below FactSet-Compiled Consensus
   - [korea] SK Hynix 3Q Oper Pft KRW83.334T Vs. Pft KRW11.383T >000660.SE
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and 
   - [china] Shanghai V-Test Semiconductor Tech To Invest In Shanghai HQ Project
   - [china] Sinograin vende 172.240 t de soja importada pela China, aponta Mysteel
-  - [taiwan] Taiwan's 2027 budget with NT$10,000 handouts heads to committee
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T23:42:45+00:00",
+      "published_utc": "2026-10-27T23:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
