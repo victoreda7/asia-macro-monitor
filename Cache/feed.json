@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-27T14:12:45.688711+00:00",
- "collected_at_utc": "2026-10-27T14:12:45.688711+00:00",
+ "generated_at_utc": "2026-10-27T14:22:44.417367+00:00",
+ "collected_at_utc": "2026-10-27T14:22:44.417367+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T09:59:05+00:00"
+   "newest": "2026-10-27T08:48:50+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T11:04:00+00:00"
+   "newest": "2026-10-26T16:14:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T13:51:14+00:00"
+   "newest": "2026-10-27T14:15:24+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:30:52+00:00"
+   "newest": "2026-10-27T10:31:37+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-26T12:19:40+00:00"
   }
  ],
  "items": [
@@ -517,8 +517,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -533,7 +533,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "tradingview_live",
@@ -9419,6 +9419,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaVlGcjZfUlBESnYxelFndUgybDRWQkpQeW40eHBwNTlYMHh4TnJUY1J2S19kZElIeGd1ajlQcWQ5VHhROXJvX1NXdWFEa1l4Qmc?oc=5",
+   "published_utc": "2026-10-22T07:47:42+00:00",
+   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e77a77dfde09eac"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "CEO스코어데일리",
    "title_en": "Bank of Korea, ‘taking a breather’ with base interest rate... Shin Hyun-song, “The past two rounds of ‘homing’ have paid off”",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04SVpMTHBuOGc3SjVsdHhQM0ZHd2Y2TkNOWmcwbjhlQTZoV1NHRzloOHBOZ0ZxTUtwM2YtbDFsVVB0UmV5dFZwdXkzWmxkZDdhR3FreDJBeXJpUjdva1dBVWc1c3dXcUZC?oc=5",
@@ -9467,23 +9484,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dbed6b67f81300ac"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제TV",
-   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSHlwMkhTa2dtZkZvdUZwSVI1Tk03OEhwNFJTdDk4OERWLXFhX19pSXdlbXZXX1pXb09EcU1rZncxR2pBaE1IbU1vTF9YUlhNelpvS2MxODJlM0ZFemZlMFlWZ3JpT2F0?oc=5",
-   "published_utc": "2026-10-22T07:29:00+00:00",
-   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bfd94abb0650cc0d"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -22236,23 +22236,6 @@
    "id": "6a59efb360337ae1"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AI server tracker: semiconductor testing and design services rally on compute demand",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDVvaDBTUUxqNkRxS3FjTVp1TVJXOXRoZVFoT3NkX3c1OUJBUU5rd1dja05uS05JZXZfbFNPZW9SeXNGM2lheFNDMVBKSzBiSnI0dlpaXzdhN1pob1lRcmk3NDJmck5qZS1yTGtFS2dOZVAteXFyNTFyN24wZ2FrT3d6ZWNJaHNmY0JoSEFHclZpRVc4dW1UVlJaZ2hvOEFoY3V4d250Q2VHUDRVN1Vqd2Vscw?oc=5",
-   "published_utc": "2026-10-16T07:52:03+00:00",
-   "title_original": "AI server tracker: semiconductor testing and design services rally on compute demand",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff4b94f11151b63d"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
    "title_en": "Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China",
@@ -22495,6 +22478,23 @@
    "live_wire": false,
    "manual": false,
    "id": "893c04f0fc4e799b"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI server tracker: semiconductor testing and design services rally on compute demand",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDVvaDBTUUxqNkRxS3FjTVp1TVJXOXRoZVFoT3NkX3c1OUJBUU5rd1dja05uS05JZXZfbFNPZW9SeXNGM2lheFNDMVBKSzBiSnI0dlpaXzdhN1pob1lRcmk3NDJmck5qZS1yTGtFS2dOZVAteXFyNTFyN24wZ2FrT3d6ZWNJaHNmY0JoSEFHclZpRVc4dW1UVlJaZ2hvOEFoY3V4d250Q2VHUDRVN1Vqd2Vscw?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "title_original": "AI server tracker: semiconductor testing and design services rally on compute demand",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff4b94f11151b63d"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -25032,23 +25032,6 @@
    "id": "1e3bf8495890fee5"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHRIQm9jWktNS3hLVWdRbmx5VzhXQ05mMW03Skt4S0dBT2M0RE1ob2V5bTY4aEZmNU10Z3lOWUExakd6bmMzbFJ3NWljVUhGVHVXUjZrNXNoQ2RZMmR1NUw0bUpTd3lwM2pJWDBFVEFiUHd3aF9PQ3JoSlR3TTFQdGRiQThBYnFG?oc=5",
-   "published_utc": "2026-10-15T08:14:39+00:00",
-   "title_original": "TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "51a413bc8920483f"
-  },
-  {
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Notable demographer calls for 18-fold increase to China’s childcare subsidies",
@@ -25307,6 +25290,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f70b6cafaf408c20"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHRIQm9jWktNS3hLVWdRbmx5VzhXQ05mMW03Skt4S0dBT2M0RE1ob2V5bTY4aEZmNU10Z3lOWUExakd6bmMzbFJ3NWljVUhGVHVXUjZrNXNoQ2RZMmR1NUw0bUpTd3lwM2pJWDBFVEFiUHd3aF9PQ3JoSlR3TTFQdGRiQThBYnFG?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "51a413bc8920483f"
   },
   {
    "source_id": "gn_jp_kyodo",
