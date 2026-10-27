@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T06:32:44.470733+00:00
+Última coleta: 2026-10-27T06:42:43.034217+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          975
+  🇯🇵 Japão          974
   🇨🇳 China          840
   🇹🇼 Taiwan         377
-  🇰🇷 Coreia do Sul  808
+  🇰🇷 Coreia do Sul  809
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's trend inflation index hits 3-year high, cements case for BOJ rate hike
+  - [korea] Kospi Gains as Chip, Battery Stocks Advance
+  - [korea] S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast
   - [japan] CPI excluding special factors accelerates sharply in September, perhaps supporting Bank of Japan's 2% trend (R
   - [korea] Four years on, Lee Jae-yong steers Samsung from chip slump to AI boom
   - [korea] Chip boom drives Korea's surprise 1% GDP growth in Q3
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China’s industrial profits rises most in three months on oil, AI
   - [korea] Roundup: S. Korea's real GDP grows 1.0 pct on quarter in Q3
   - [korea] S. Korea's real GDP grows 1.0 pct on quarter in Q3
-  - [china] The world's super central bank debuts this week, the United States, Europe and Japan are expected to remain on
-  - [china] "Peak-cutting and valley-filling" precise adjustment, MLF volume reduction continuation in October
-  - [china] China’s Industrial Profits Jump Most in Three Months on Oil, AI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T06:32:44+00:00",
+      "published_utc": "2026-10-27T06:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
