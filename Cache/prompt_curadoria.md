@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T08:12:43.429136+00:00
+Última coleta: 2026-10-27T08:22:45.130600+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          968
-  🇨🇳 China          843
-  🇹🇼 Taiwan         378
-  🇰🇷 Coreia do Sul  811
+  🇯🇵 Japão          965
+  🇨🇳 China          846
+  🇹🇼 Taiwan         379
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [china] China Railway Construction Heavy Industry January-September New Contracts, Bids Totalled 10.5 Billion Yuan
+  - [china] BofA: China core semiconductor sales rise 24% in June-August
   - [japan] JAPAN’S GOVERNMENT UPGRADES ITS VIEW ON BUSINESS SENTIMENT AFTER UPBEAT Q3 TANKAN SURVEY, DOWNGRADES ASSESSMEN
   - [japan] JAPAN KEEPS GRADUAL ECONOMIC RECOVERY OUTLOOK IN MONTHLY REPORT, REPEATS ITS WARNING ABOUT IMPACT OF MIDEAST C
   - [china] China Industrial Profits Increase Notably
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Rising cybersecurity risks, ``a threat to the financial system'' - Bank of Japan board member (Reuters)
   - [taiwan] Inflation intensifies in Philippines, nearly a quarter of households go hungry
   - [korea] South Korean Won Extends Gains on Dollar Selling
-  - [japan] BREAKING NEWS: Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs: PM
-  - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 198.49, Implies 36% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T08:12:43+00:00",
+      "published_utc": "2026-10-27T08:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

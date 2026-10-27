@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T08:12:43.429136+00:00",
- "collected_at_utc": "2026-10-27T08:12:43.429136+00:00",
+ "generated_at_utc": "2026-10-27T08:22:45.130600+00:00",
+ "collected_at_utc": "2026-10-27T08:22:45.130600+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 968,
-  "china": 843,
-  "taiwan": 378,
-  "korea": 811
+  "japan": 965,
+  "china": 846,
+  "taiwan": 379,
+  "korea": 810
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T07:53:01+00:00"
+   "newest": "2026-10-27T08:13:20+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T17:00:35+09:00"
+   "newest": "2026-10-27T17:15:11+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T16:42:01+09:00"
+   "newest": "2026-10-27T17:15:29+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T16:00:00+00:00"
+   "newest": "2026-10-27T07:43:46+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T08:12:05+00:00"
+   "newest": "2026-10-27T08:22:14+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T04:31:14+00:00"
+   "newest": "2026-10-27T01:29:53+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China Railway Construction Heavy Industry January-September New Contracts, Bids Totalled 10.5 Billion Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D0LU:0-china-railway-construction-heavy-industry-january-september-new-contracts-bids-totalled-10-5-billion-yuan/",
+   "published_utc": "2026-10-27T08:16:51+00:00",
+   "title_original": "China Railway Construction Heavy Industry January-September New Contracts, Bids Totalled 10.5 Billion Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3783f15fd5ca63bb"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "BofA: China core semiconductor sales rise 24% in June-August",
+   "url": "https://www.investing.com/news/stock-market-news/bofa-china-core-semiconductor-sales-rise-24-in-juneaugust-93CH-4974383",
+   "published_utc": "2026-10-27T08:13:20+00:00",
+   "title_original": "BofA: China core semiconductor sales rise 24% in June-August",
+   "region": "china",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c8a193be2d594e10"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
@@ -1864,23 +1898,6 @@
    "id": "76d864d4cbb5bb77"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "South Korea's Corporate Bond Issuance Surges 77.5% in September",
-   "url": "https://www.tradingview.com/news/binance_news:89dbc0195094b:0-south-korea-s-corporate-bond-issuance-surges-77-5-in-september/",
-   "published_utc": "2026-10-27T00:53:06+00:00",
-   "title_original": "South Korea's Corporate Bond Issuance Surges 77.5% in September",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cb4a1d220d379351"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "Why is SK Hynix stock surging today?",
@@ -2882,6 +2899,24 @@
    "id": "2b3584fb5069f574"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "MLF net withdrawal of 200 billion yuan in October",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9scFVSY29mVFByRHI2SG1yeGlSV2pUWmVBMnlkRVpLdlBiUThKTGY5YmJvMlBtZGZxd29IUVhUTFpydkNqVXlERmxPUk1uU2p3VXZuSy1zS19aNGx5by1VRjJSZUFJUVR4clA1aTBXNFE2Z0pNVmx3eQ?oc=5",
+   "published_utc": "2026-10-26T09:39:41+00:00",
+   "title_original": "10月MLF净回笼2000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "52d19afe20817e3e"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report",
@@ -3552,9 +3587,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmdUams3cmxlNXc5TXEzSmpsam1JX3NtNGJWM0h4R05LWWhJeVBFYkxjZW9QS3Vkb2p4U0VUTFY1d1BRTkg4Q1FLanhyWXNmYXE0NGJZYTREVjlmajZURWJNWVdMbWtEdWpRODIyUnUzTjctTC1iNjJrcFJWSnRGTU16RGFCYUtSUTlN?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53amxBcmVuSFR3amxLQThXNVcwWnFRVl9IU2Z0QWVTWGRFLXpGTElFbHJUNEJwUGx0blMtYmw5SUd5XzFDS0lZaTM3UG10S2VHOXBKVkR0bi1RU1JMbHBNZTRB?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -3566,7 +3601,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dee37dbc8c1d6e98"
+   "id": "637fb07118250770"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3776,6 +3811,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4363,24 +4416,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -5521,6 +5556,24 @@
    "id": "c0606821eacd5484"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
+   "published_utc": "2026-10-23T12:38:12+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d3a519ddfcdc2da"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -5536,24 +5589,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
-   "published_utc": "2026-10-23T12:32:55+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -8034,6 +8069,23 @@
    "live_wire": false,
    "manual": false,
    "id": "7663f7a301e51c9a"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Gold falls to more than two-month low as oil-fuelled inflation fears weigh",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5",
+   "published_utc": "2026-10-22T20:06:35+00:00",
+   "title_original": "Gold falls to more than two-month low as oil-fuelled inflation fears weigh",
+   "region": "taiwan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7fb731c9b7f2ccb1"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -21925,23 +21977,6 @@
    "id": "5550786906e36fe3"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83cG1rU3ZZMV9uU2oxaGhfdjlkdmdPX3F4eWhNendhY3YtamtBN1lFTWFZeDl6MUdoa1FOelh0OFlfSTVMNlRSWU1BSDVSMTJ6cjBEeVVGQW1HQQ?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5ed3d10817c389f2"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
@@ -21957,6 +21992,23 @@
    "live_wire": false,
    "manual": false,
    "id": "912c3fdcf5b7083e"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83cG1rU3ZZMV9uU2oxaGhfdjlkdmdPX3F4eWhNendhY3YtamtBN1lFTWFZeDl6MUdoa1FOelh0OFlfSTVMNlRSWU1BSDVSMTJ6cjBEeVVGQW1HQQ?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5ed3d10817c389f2"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51838,65 +51890,6 @@
    "live_wire": true,
    "manual": false,
    "id": "5b2dce502480f3eb"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Business confidence of large companies and manufacturing industries improves for 6th consecutive quarter, Bank of Japan Tankan shows tailwind from AI demand (Asahi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oaG9pMDRrRWRkekpjWGVpLW94UllpYnRJZnM0cmFKZnQ5MER5TnVfODV1dG9lNnlWUERsaUFPY201RWZtS3ZQWFJJUkU2RHk3d1hLSFpwdDVNY25iZXViQTdCYXpYeE5ZT1ZhWVdqMlpIWkZyNmhzQVRVN3RLbWs?oc=5",
-   "published_utc": "2026-09-30T23:57:01+00:00",
-   "title_original": "大企業・製造業の景況感、6期連続改善 日銀短観、AI需要追い風に（朝日新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b9958c43c2891805"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "BOJ SEPT TANKAN: SMALLER FIRM FISCAL 2026 COMBINED CAPEX PLANS -4.7% Y/Y (JUNE -8.3%); MEDIAN FORECAST -4.8%",
-   "url": "https://www.tradingview.com/news/macenews:e5b11bc0b094b:0-boj-sept-tankan-smaller-firm-fiscal-2026-combined-capex-plans-4-7-y-y-june-8-3-median-forecast-4-8/",
-   "published_utc": "2026-09-30T23:57:00+00:00",
-   "title_original": "BOJ SEPT TANKAN: SMALLER FIRM FISCAL 2026 COMBINED CAPEX PLANS -4.7% Y/Y (JUNE -8.3%); MEDIAN FORECAST -4.8%",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0250ad4da37afa6c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "BOJ SEPT TANKAN: LARGE FIRM FISCAL 2026 COMBINED CAPEX PLANS +11.3% Y/Y (JUNE +11.5%); MEDIAN FORECAST +12.1%",
-   "url": "https://www.tradingview.com/news/macenews:e49ff32cf094b:0-boj-sept-tankan-large-firm-fiscal-2026-combined-capex-plans-11-3-y-y-june-11-5-median-forecast-12-1/",
-   "published_utc": "2026-09-30T23:56:00+00:00",
-   "title_original": "BOJ SEPT TANKAN: LARGE FIRM FISCAL 2026 COMBINED CAPEX PLANS +11.3% Y/Y (JUNE +11.5%); MEDIAN FORECAST +12.1%",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "798bf2250791c4e4"
   },
   {
    "source_id": "manual_ia",
