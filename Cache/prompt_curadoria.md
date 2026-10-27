@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T04:32:44.004409+00:00
+Última coleta: 2026-10-27T04:36:31.644741+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          974
-  🇨🇳 China          848
+  🇯🇵 Japão          975
+  🇨🇳 China          847
   🇹🇼 Taiwan         373
   🇰🇷 Coreia do Sul  805
 
 ## O que já está no feed (não repita)
 
+  - [japan] BREAKING NEWS: Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs: PM
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 198.49, Implies 36% Upside
   - [taiwan] Taiwan Central Bank: Demand For Emerging Tech Expected To Remain Strong In 2027
   - [taiwan] Confidence in the housing market fell, technology inflation hit, confidence in durable goods hit a 17-year low
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] The central bank's reverse repurchase net investment today is 1.014 billion yuan
   - [korea] S.Korean shares rebound as Anthropic IPO plan drives Samsung, SK Hynix rally
   - [china] The central bank launched a 412 billion yuan 7-day reverse repurchase operation today
-  - [korea] SK Hynix tests bearish resistance cluster at KRW 1,381,000: Live
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T04:32:44+00:00",
+      "published_utc": "2026-10-27T04:36:31+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
