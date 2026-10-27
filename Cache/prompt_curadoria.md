@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T01:12:43.380363+00:00
+Última coleta: 2026-10-27T01:22:45.978863+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          983
   🇨🇳 China          846
-  🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  796
+  🇹🇼 Taiwan         374
+  🇰🇷 Coreia do Sul  797
 
 ## O que já está no feed (não repita)
 
@@ -25,6 +25,7 @@ Total: 3000 manchetes
   - [korea] Foreigners have sold a large number of domestic stocks, but the won-dollar exchange rate is on the d..
   - [japan] JAPAN SEPT SERVICES PPI +0.3% M/M: AUG +0.1%
   - [korea] S. Korea's GDP expands 1% in Q3 on strong exports, investment: BOK
+  - [korea] South Korea’s Economy Beats Forecasts on AI-Driven Chip Boom
   - [japan] MNI: JAPAN SEPT SERVICES PPI +3.7% Y/Y; AUG +3.5%
   - [japan] Japan Services Producer Inflation Highest Since June 2024
   - [japan] Services Producer Price Index (Sept.)
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Preview: Forecasters See Tokyo CPI Staying Well above BOJ’s 2% Target in October
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 195.93, Implies 35% Upside
   - [japan] Dollar rebounds as euro slips ahead of key central bank decisions
-  - [china] Properties Pass Down China’s Construction Supply Chain in a ‘Debt Relay’
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T01:12:43+00:00",
+      "published_utc": "2026-10-27T01:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
