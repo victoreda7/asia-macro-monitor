@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-27T12:32:45.724980+00:00",
- "collected_at_utc": "2026-10-27T12:32:45.724980+00:00",
+ "generated_at_utc": "2026-10-27T12:42:43.831747+00:00",
+ "collected_at_utc": "2026-10-27T12:42:43.831747+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -8,10 +8,10 @@
  "by_region": {
   "japan": 961,
   "china": 853,
-  "taiwan": 377,
-  "korea": 809
+  "taiwan": 378,
+  "korea": 808
  },
- "elapsed_s": 30.6,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:48:50+00:00"
+   "newest": "2026-10-27T09:59:05+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T05:01:46+00:00"
+   "newest": "2026-10-27T10:29:42+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T12:17:10+00:00"
+   "newest": "2026-10-27T12:35:51+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T12:06:19+00:00"
+   "newest": "2026-10-27T12:30:39+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T12:15:14+00:00"
+   "newest": "2026-10-27T12:29:50+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T12:12:54+00:00"
+   "newest": "2026-10-27T12:34:49+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T11:29:12+00:00"
+   "newest": "2026-10-27T12:22:58+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T12:31:36+00:00"
+   "newest": "2026-10-27T12:42:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T12:19:40+00:00"
+   "newest": "2026-10-26T08:38:46+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iTGgwWHlxWl9yblZJblNYSmllMmlXLTRaZXA2TDhuV0dwbk1pRlNiQW10NkdQRk4xUzZuYThRSk92WEtXN0NweC1RaHVfZDQ3NEFxVDN4Qk1nVzZXTkZfZE1WbVl1ci1UN2c?oc=5",
+   "published_utc": "2026-10-27T12:34:49+00:00",
+   "title_original": "S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "503d81ecd11153ec"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "Cathie Wood Trims AMD and TSMC, Adds Air Taxi Bets",
+   "url": "https://www.tradingview.com/news/gurufocus:2e84176ad094b:0-cathie-wood-trims-amd-and-tsmc-adds-air-taxi-bets/",
+   "published_utc": "2026-10-27T12:29:44+00:00",
+   "title_original": "Cathie Wood Trims AMD and TSMC, Adds Air Taxi Bets",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6d6790fcc9d38c2a"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -379,23 +413,6 @@
    "id": "21ea28ce10fbb514"
   },
   {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iTGgwWHlxWl9yblZJblNYSmllMmlXLTRaZXA2TDhuV0dwbk1pRlNiQW10NkdQRk4xUzZuYThRSk92WEtXN0NweC1RaHVfZDQ3NEFxVDN4Qk1nVzZXTkZfZE1WbVl1ci1UN2c?oc=5",
-   "published_utc": "2026-10-27T12:00:10+00:00",
-   "title_original": "S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "503d81ecd11153ec"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The reason why the report card for the first year of the Takaichi administration is ``barely passing in fiscal policy and 80 points in monetary policy'' (Newsweek Japan version)",
@@ -415,8 +432,8 @@
    "id": "57824ed6928a12f1"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -431,7 +448,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "tradingview_live",
@@ -1239,23 +1256,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a656e7fda2eb724f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korean shares end over 3% higher on US rally, strong GDP",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46D05W:0-south-korean-shares-end-over-3-higher-on-us-rally-strong-gdp/",
-   "published_utc": "2026-10-27T06:59:24+00:00",
-   "title_original": "South Korean shares end over 3% higher on US rally, strong GDP",
-   "region": "korea",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "25474011daf988d8"
   },
   {
    "source_id": "gn_tw_cna",
@@ -22168,6 +22168,23 @@
    "id": "6a59efb360337ae1"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI server tracker: semiconductor testing and design services rally on compute demand",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDVvaDBTUUxqNkRxS3FjTVp1TVJXOXRoZVFoT3NkX3c1OUJBUU5rd1dja05uS05JZXZfbFNPZW9SeXNGM2lheFNDMVBKSzBiSnI0dlpaXzdhN1pob1lRcmk3NDJmck5qZS1yTGtFS2dOZVAteXFyNTFyN24wZ2FrT3d6ZWNJaHNmY0JoSEFHclZpRVc4dW1UVlJaZ2hvOEFoY3V4d250Q2VHUDRVN1Vqd2Vscw?oc=5",
+   "published_utc": "2026-10-16T07:52:03+00:00",
+   "title_original": "AI server tracker: semiconductor testing and design services rally on compute demand",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff4b94f11151b63d"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
    "title_en": "Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China",
@@ -22410,23 +22427,6 @@
    "live_wire": false,
    "manual": false,
    "id": "893c04f0fc4e799b"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AI server tracker: semiconductor testing and design services rally on compute demand",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDVvaDBTUUxqNkRxS3FjTVp1TVJXOXRoZVFoT3NkX3c1OUJBUU5rd1dja05uS05JZXZfbFNPZW9SeXNGM2lheFNDMVBKSzBiSnI0dlpaXzdhN1pob1lRcmk3NDJmck5qZS1yTGtFS2dOZVAteXFyNTFyN24wZ2FrT3d6ZWNJaHNmY0JoSEFHclZpRVc4dW1UVlJaZ2hvOEFoY3V4d250Q2VHUDRVN1Vqd2Vscw?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "AI server tracker: semiconductor testing and design services rally on compute demand",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff4b94f11151b63d"
   },
   {
    "source_id": "gn_tw_reuters",
