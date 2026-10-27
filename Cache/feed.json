@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T13:42:42.492073+00:00",
- "collected_at_utc": "2026-10-27T13:42:42.492073+00:00",
+ "generated_at_utc": "2026-10-27T13:52:43.640824+00:00",
+ "collected_at_utc": "2026-10-27T13:52:43.640824+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 961,
-  "china": 854,
-  "taiwan": 379,
+  "japan": 960,
+  "china": 857,
+  "taiwan": 377,
   "korea": 806
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T05:00:28+00:00"
+   "newest": "2026-10-27T12:00:08+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T12:22:58+00:00"
+   "newest": "2026-10-27T13:03:49+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T13:42:00+00:00"
+   "newest": "2026-10-27T13:51:29+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:30:52+00:00"
+   "newest": "2026-10-27T10:31:37+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-27T19:20:00+09:00"
+   "newest": "2026-10-27T22:40:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T12:19:40+00:00"
+   "newest": "2026-10-26T08:38:46+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Geovis Technology Q3 Net Loss At 171.9 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D1DT:0-geovis-technology-q3-net-loss-at-171-9-million-yuan/",
+   "published_utc": "2026-10-27T13:48:04+00:00",
+   "title_original": "Geovis Technology Q3 Net Loss At 171.9 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b8b46583a9c86113"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -450,7 +467,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The reason why the report card for the first year of the Takaichi administration is ``barely passing in fiscal policy and 80 points in monetary policy'' (Newsweek Japan version)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzS01zanR1YXVoSW92RkNIMnlXMHpLbEF1dTY3dmsxSDJGeEtzUE8wb2h0S3ZCaWFpcm1JR2M2Zk1LaEpuZEdjYXlfVmRpcEtZOENiZ2dZNkkzQTFfUzlNS1BvUWhPR1FSdG55Z0dTMnJONVRqNVVwWHlZVUZESkU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2djelRsc3YxV25OVnM0aFdkRVhkNWZRbF9BbnByQzMtOTcybEFQTjFxenRZWmJxOXltU2JuR2szVVFiTXRpRFdpQ0N6dklRemVCaV9Ta2ZaYW9ZQ1ZLSW9OeUlGaElWYUhnZ1p5T0NYd0c4bTYzS3NWcXA4eDRXWFRZdFREYjFEdzdtLWRR?oc=5",
    "published_utc": "2026-10-27T11:50:06+00:00",
    "title_original": "高市政権発足1年の成績表「財政政策はぎりぎり合格、金融政策は80点」と言える理由（ニューズウィーク日本版）",
    "region": "japan",
@@ -463,7 +480,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "ecfe2c6e3f843e00"
+   "id": "57824ed6928a12f1"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -483,8 +500,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -499,7 +516,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "tradingview_live",
@@ -1204,23 +1221,6 @@
    "live_wire": false,
    "manual": false,
    "id": "894363eabea7e046"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers",
-   "url": "https://www.tradingview.com/news/DJN_DN20261027001349:0-japan-vows-to-fortify-cyber-defenses-as-gmo-hack-hits-forex-brokers/",
-   "published_utc": "2026-10-27T07:44:00+00:00",
-   "title_original": "Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4fb03229da5d9dc8"
   },
   {
    "source_id": "investing_live",
@@ -2230,7 +2230,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "Yu Weining, chief statistician of the Industrial Department of the National Bureau of Statistics, interprets the profit data of industrial enterprises from January to September 2026",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aWHVCdzdGSjdJZ0VfQldrZ0p6XzIxYkdPYm1ndWpyUHVkQ0ZaUHMxbkZlc3JscFM3ZURhMGVPOThvempiUDlzcks5U2pRTmx3TEJKZG94VTRJYURqM0tPbW9LWm1DTGVzQXdaejFPTnYxX0k?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KR1czSFhnVFFWeFZZU2N4WS1BQ2hONVN1OTlRaV8wSVR3YXNQaWh3Rm5aNDB3VVZBNlhPUUlMdklIVG5XY3NHazVycTJSdHFqVW83MHVJQWVGZU5hYVptTGZoTzRrX0lOUWEtWnJHNA?oc=5",
    "published_utc": "2026-10-27T01:30:00+00:00",
    "title_original": "国家统计局工业司首席统计师于卫宁解读2026年1—9月份工业企业利润数据",
    "region": "china",
@@ -2241,7 +2241,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9d55f8e43a19a264"
+   "id": "c7d7dddcd4247a88"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -3088,6 +3088,24 @@
    "live_wire": false,
    "manual": false,
    "id": "7adbdf01fa182586"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
+   "published_utc": "2026-10-26T13:28:47+00:00",
+   "title_original": "10月26日央行开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0facd9f9793a1c33"
   },
   {
    "source_id": "tradingview_live",
@@ -4158,24 +4176,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8ad0e6381b5427fd"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkRkhMSVA3eGFVeVZSTVRvNjZsLTVMdU1MR2UweUJzaEc4X2NtYWhySC1ZQkVhNHB5VUtTd2lZU2VLaWtkYzA4cXQxYnh3akUxOEUxLVpnRWdBUjEtcXJuYzRWSjJZQTNwUU1KbHZYYzJXSnRIWERYRA?oc=5",
-   "published_utc": "2026-10-26T02:52:24+00:00",
-   "title_original": "10月26日央行开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c7c1d9a91e0558eb"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -6181,6 +6181,23 @@
    "live_wire": true,
    "manual": false,
    "id": "9a4c219e4624d6fa"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Cambodian gov't passes 9.72-bln-USD draft budget for 2027 public spending",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuU3FRZFdwZDZYazNVbFN4WTFsclE0OWxuUk9XSnNLcXRHTHJFZ3FVX2RUc0ozVHZSSGphWF9vbG4wWVVvNkRMT1BrczIxWk12a3F1aTFPaEdUZHI0TkZwUE83NXhaT0doQ1I0OGhsaHk4M2VSVnhhZXg4ZmY?oc=5",
+   "published_utc": "2026-10-23T11:24:00+00:00",
+   "title_original": "Cambodian gov't passes 9.72-bln-USD draft budget for 2027 public spending",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0d39cb496943fc98"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -14021,13 +14038,13 @@
    "id": "fe29b34f0935010a"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
    "published_utc": "2026-10-20T15:51:20+00:00",
    "title_original": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
-   "region": "taiwan",
+   "region": "china",
    "topics": [
     "industrial"
    ],
@@ -14035,7 +14052,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "279f216db65210d6"
+   "id": "4b5de8a6134217b8"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51864,23 +51881,6 @@
    "live_wire": false,
    "manual": false,
    "id": "61151f325701ab37"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "TSMC weighs investment in Texas to expand U.S. chip production, Reuters reports",
-   "url": "https://www.investing.com/news/stock-market-news/tsmc-weighs-investment-in-texas-to-expand-us-chip-production-reuters-reports-4926170",
-   "published_utc": "2026-10-01T01:40:55+00:00",
-   "title_original": "TSMC weighs investment in Texas to expand U.S. chip production, Reuters reports",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "01d71cfb2ead7a5e"
   },
   {
    "source_id": "manual_ia",
