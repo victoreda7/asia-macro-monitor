@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T03:12:43.695008+00:00
+Última coleta: 2026-10-27T03:22:43.991155+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          975
@@ -26,6 +26,7 @@ Total: 3000 manchetes
   - [korea] Roundup: S. Korea's real GDP grows 1.0 pct on quarter in Q3
   - [china] The world's super central bank debuts this week, the United States, Europe and Japan are expected to remain on
   - [china] "Peak-cutting and valley-filling" precise adjustment, MLF volume reduction continuation in October
+  - [china] China’s Industrial Profits Jump Most in Three Months on Oil, AI
   - [korea] Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows
   - [korea] Rupiah, peso lead losses among Asian currencies; won bucks trend
   - [korea] South Korean shares surge on US rally, strong GDP
@@ -40,7 +41,6 @@ Total: 3000 manchetes
   - [china] China Industrial Profits Rise 14.4%, Fastest Growth in Three Months
   - [china] CHINA PBOC CONDUCTS CNY412 BLN VIA 7-DAY REVERSE REPO TUES
   - [china] China Industrial Profits Grow 15.5% YoY in Jan-Sept
-  - [china] China’s Industrial Profits Jump Most in Three Months on Oil, AI
   - [china] CHINA PBOC CONDUCTS CNY1000 BLN VIA O/N REVERSE REPO TUES
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7171 TUES VS 6.7162
   - [china] China's industrial profits rise 15.5% in January-September
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T03:12:43+00:00",
+      "published_utc": "2026-10-27T03:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
