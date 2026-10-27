@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T02:12:44.010154+00:00",
- "collected_at_utc": "2026-10-27T02:12:44.010154+00:00",
+ "generated_at_utc": "2026-10-27T02:22:42.695996+00:00",
+ "collected_at_utc": "2026-10-27T02:22:42.695996+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 982,
+  "japan": 978,
   "china": 849,
-  "taiwan": 373,
-  "korea": 796
+  "taiwan": 372,
+  "korea": 801
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:44:19+00:00"
+   "newest": "2026-10-27T02:03:36+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
-   "newest": "2026-10-26T23:54:49+08:00"
+   "newest": "2026-10-27T09:06:05+08:00"
   },
   {
    "source_id": "investing_live",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T00:09:40+00:00"
+   "newest": "2026-10-26T06:11:58+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T11:09:45+09:00"
+   "newest": "2026-10-27T11:21:15+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
    "newest": "2026-10-27T01:58:30+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T02:09:58+00:00"
+   "newest": "2026-10-27T02:19:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T19:28:42+00:00"
+   "newest": "2026-10-26T22:28:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T02:00:03+00:00"
+   "newest": "2026-10-26T23:20:33+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T22:08:00+00:00"
+   "newest": "2026-10-27T02:07:05+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -346,6 +346,76 @@
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
+   "title_en": "Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D04A:0-bank-of-korea-warns-country-s-chip-exports-could-fall-by-up-to-100-billion-if-ai-spending-slows/",
+   "published_utc": "2026-10-27T02:15:06+00:00",
+   "title_original": "Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a53ee12f51dcfec8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Rupiah, peso lead losses among Asian currencies; won bucks trend",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D056:0-rupiah-peso-lead-losses-among-asian-currencies-won-bucks-trend/",
+   "published_utc": "2026-10-27T02:14:59+00:00",
+   "title_original": "Rupiah, peso lead losses among Asian currencies; won bucks trend",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "10fd1cd34d7524e1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean shares surge on US rally, strong GDP",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46D01L:0-south-korean-shares-surge-on-us-rally-strong-gdp/",
+   "published_utc": "2026-10-27T02:14:32+00:00",
+   "title_original": "South Korean shares surge on US rally, strong GDP",
+   "region": "korea",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "05237fe4c1cad578"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korea's Stronger 3Q Growth Bolsters Case for November Rate Hike — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261026010440:0-south-korea-s-stronger-3q-growth-bolsters-case-for-november-rate-hike-market-talk/",
+   "published_utc": "2026-10-27T02:12:00+00:00",
+   "title_original": "South Korea's Stronger 3Q Growth Bolsters Case for November Rate Hike — Market Talk",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "37019cae5164e668"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
    "title_en": "Yen slips ahead of central bank bonanza, dollar firms on tech rebound",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46D017:0-yen-slips-ahead-of-central-bank-bonanza-dollar-firms-on-tech-rebound/",
    "published_utc": "2026-10-27T02:09:58+00:00",
@@ -360,6 +430,23 @@
    "live_wire": true,
    "manual": false,
    "id": "fd377025bb0f03e9"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Anthropic's IPO filing puts TSMC, HBM, direct leasing at the center of AI compute risk",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWE80SHNfSHh2Y1BKakdEUlZGeHVKdlo5WklQZG9XQ1N3NWR4Y1RxNEs5UzVLSndXd21SeW5kMDltZ01zWUpWS2pnMEc5TkNWek1ESTU5NThPZzhBbWZ5SUR2QXNJXzNBWFJSYjVXblN1eW1wdW5oa0VVcFQ0UjBodHJwTUp6VW1aclhDNlJjOA?oc=5",
+   "published_utc": "2026-10-27T02:03:36+00:00",
+   "title_original": "Anthropic's IPO filing puts TSMC, HBM, direct leasing at the center of AI compute risk",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5232481bfc22f7b0"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -395,6 +482,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5842588dee41f8d3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "China Industrial Profits Rise 14.4%, Fastest Growth in Three Months",
+   "url": "https://www.tradingview.com/news/binance_news:1f31e3c0f094b:0-china-industrial-profits-rise-14-4-fastest-growth-in-three-months/",
+   "published_utc": "2026-10-27T01:43:07+00:00",
+   "title_original": "China Industrial Profits Rise 14.4%, Fastest Growth in Three Months",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b2aa5109f8f60308"
   },
   {
    "source_id": "tradingview_live",
@@ -588,11 +692,11 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "The Block",
-   "title_en": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
-   "url": "https://www.tradingview.com/news/the_block:e253bfe54094b:0-blackrock-joins-sbi-and-startale-to-link-tokenized-mmfs-with-japanese-yen-stablecoins/",
-   "published_utc": "2026-10-27T01:00:00+00:00",
-   "title_original": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+   "source_name": "Binance News",
+   "title_en": "BlackRock Joins SBI and Startale to Link Tokenized MMFs With Japanese Yen Stablecoins",
+   "url": "https://www.tradingview.com/news/binance_news:bb8f75120094b:0-blackrock-joins-sbi-and-startale-to-link-tokenized-mmfs-with-japanese-yen-stablecoins/",
+   "published_utc": "2026-10-27T01:05:48+00:00",
+   "title_original": "BlackRock Joins SBI and Startale to Link Tokenized MMFs With Japanese Yen Stablecoins",
    "region": "japan",
    "topics": [
     "fx"
@@ -601,7 +705,24 @@
    "translated": false,
    "live_wire": true,
    "manual": false,
-   "id": "eebe2cfbfb717461"
+   "id": "76d864d4cbb5bb77"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Binance News",
+   "title_en": "South Korea's Corporate Bond Issuance Surges 77.5% in September",
+   "url": "https://www.tradingview.com/news/binance_news:89dbc0195094b:0-south-korea-s-corporate-bond-issuance-surges-77-5-in-september/",
+   "published_utc": "2026-10-27T00:53:06+00:00",
+   "title_original": "South Korea's Corporate Bond Issuance Surges 77.5% in September",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "cb4a1d220d379351"
   },
   {
    "source_id": "tradingview_live",
@@ -23474,23 +23595,6 @@
    "id": "f70b6cafaf408c20"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -23507,6 +23611,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51785,128 +51906,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c876647dbef33ade"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Hyperscale Data Secures $22.58 Million Notes, Extends JGB Loan Maturity to 2027",
-   "url": "https://www.tradingview.com/news/tradingview:0dfb01c4a5efb:0-hyperscale-data-secures-22-58-million-notes-extends-jgb-loan-maturity-to-2027/",
-   "published_utc": "2026-09-30T10:33:00+00:00",
-   "title_original": "Hyperscale Data Secures $22.58 Million Notes, Extends JGB Loan Maturity to 2027",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8737cc70630aefe3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Japan Paused Forex Intervention as Yen Strengthened Modestly",
-   "url": "https://www.tradingview.com/news/DJN_DN20260930002398:0-japan-paused-forex-intervention-as-yen-strengthened-modestly/",
-   "published_utc": "2026-09-30T10:30:00+00:00",
-   "title_original": "Japan Paused Forex Intervention as Yen Strengthened Modestly",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "57ba1648e03a332a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China Aoyuan Is Close To Finalizing Onshore Debt Restructuring Proposal",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45M0KQ:0-china-aoyuan-is-close-to-finalizing-onshore-debt-restructuring-proposal/",
-   "published_utc": "2026-09-30T10:19:53+00:00",
-   "title_original": "China Aoyuan Is Close To Finalizing Onshore Debt Restructuring Proposal",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9b5dabf364983d73"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Seeking Alpha",
-   "title_en": "TSMC weighs Texas investment to expand U.S. chip production: report",
-   "url": "https://www.tradingview.com/news/seekingalpha:0bc83dcb2094b:0-tsmc-weighs-texas-investment-to-expand-u-s-chip-production-report/",
-   "published_utc": "2026-09-30T10:15:19+00:00",
-   "title_original": "TSMC weighs Texas investment to expand U.S. chip production: report",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "11a136c38ac3b563"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "I don't think there is a big discrepancy in perception between the Bank of Japan and the economy and prices - Minister of Finance and Finance Jouchi (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0MEcyNVU5UTNtcm12NjlIaENMYVhleVhVdjZfakpYeDhYc3NTUWNLOGN1aGg2VEdnVXM3YzJycHpqek9GRE5iWEFkLXNtNVJlcFdFU1kwSVEzUkZTUEJZdHZ0TFE1WDRROGRWX3VyZkYtR0tBUkpOdndTeF9XZ2c?oc=5",
-   "published_utc": "2026-09-30T10:01:57+00:00",
-   "title_original": "日銀と経済・物価で大きな認識の齟齬あると考えていない＝城内経財相（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b3c83bdfa47f35b5"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "There has been no foreign exchange intervention in the past month, and the yen continues to appreciate as the Bank of Japan rate hike is expected to accelerate (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04YWxJNVB2cFZsWGhnSGFzV25vanpqbW1jd09jZEZlRmVEUlFidERJdFNiYVlhdTV1emEtQkhQdGFodG8ySmhfcGh4ZzVjSVY2bVlrdnZva3lxdDN3ektFMFFSVTF2S19yV2RyMl83Zm9ETDlYd2tvQTdiMER1dlk?oc=5",
-   "published_utc": "2026-09-30T10:01:56+00:00",
-   "title_original": "直近1カ月の為替介入はゼロ､日銀利上げペース加速観測などで円高進行（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d69e85cbd2b685de"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "Italian inflation surges above 4%, in headache for PM Meloni",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdjQzckhrRFE3ZWs2NTI2dnZmUlRXZlREQXZDWkpNclRrLXFma2R6M01SZWRlY2NuQXhkTWE3Ry14eE02dUtmOHYzcTdHdnFCSmxLaGNzSEh4R3dFRnRwbnQ5VW9ZT0FsRXlyYy1XQVpkczRTYUd1ZVFhQXlxbzBiXzFJSkdsTDAzMk1XRWxNc1R0YTJCTEI0VWFQRWhLRFQ4Mmc?oc=5",
-   "published_utc": "2026-09-30T09:55:44+00:00",
-   "title_original": "Italian inflation surges above 4%, in headache for PM Meloni",
-   "region": "taiwan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "bf60cfa60bf0f323"
   },
   {
    "source_id": "manual_ia",

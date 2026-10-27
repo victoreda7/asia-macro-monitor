@@ -7,19 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T02:12:44.010154+00:00
+Última coleta: 2026-10-27T02:22:42.695996+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          982
+  🇯🇵 Japão          978
   🇨🇳 China          849
-  🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  796
+  🇹🇼 Taiwan         372
+  🇰🇷 Coreia do Sul  801
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows
+  - [korea] Rupiah, peso lead losses among Asian currencies; won bucks trend
+  - [korea] South Korean shares surge on US rally, strong GDP
+  - [korea] South Korea's Stronger 3Q Growth Bolsters Case for November Rate Hike — Market Talk
   - [japan] Yen slips ahead of central bank bonanza, dollar firms on tech rebound
+  - [taiwan] Anthropic's IPO filing puts TSMC, HBM, direct leasing at the center of AI compute risk
   - [china] The central bank launched a 412 billion yuan reverse repurchase today
   - [korea] With semiconductor market leader Samsung Electronics and SK Hynix announcing their third-quarter ear..
+  - [china] China Industrial Profits Rise 14.4%, Fastest Growth in Three Months
   - [china] CHINA PBOC CONDUCTS CNY412 BLN VIA 7-DAY REVERSE REPO TUES
   - [china] China Industrial Profits Grow 15.5% YoY in Jan-Sept
   - [china] CHINA PBOC CONDUCTS CNY1000 BLN VIA O/N REVERSE REPO TUES
@@ -31,7 +37,8 @@ Total: 3000 manchetes
   - [korea] S.Korean shares rebound as Anthropic IPO plan drives Samsung, SK Hynix rally
   - [china] The central bank launched a 412 billion yuan 7-day reverse repurchase operation today
   - [korea] SK Hynix tests bearish resistance cluster at KRW 1,381,000: Live
-  - [japan] BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins
+  - [japan] BlackRock Joins SBI and Startale to Link Tokenized MMFs With Japanese Yen Stablecoins
+  - [korea] South Korea's Corporate Bond Issuance Surges 77.5% in September
   - [japan] JGB Yields Higher as AI Bubble Concerns Ease — Market Talk
   - [korea] Why is SK Hynix stock surging today?
   - [japan] Major life insurance companies accelerate replacement of government bonds
@@ -50,13 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea Q3 GDP Growth Tops Forecasts
   - [china] Analysis-China’s lab-grown diamond makers target AI, chip sectors for next wave of growth
   - [korea] South Korea's economy grows 1.0% in 3rd quarter on chip boom
-  - [korea] South Korea Q3 GDP +1.0% q/q, stronger than expected
-  - [korea] South Korea GDP Data Due On Tuesday
-  - [korea] Samsung Electronics and SK Hynix, which are set to announce their earnings this week, are expected t..
-  - [japan] Preview: Forecasters See Japanese Retail Sales Up Again in September with Boost from Autos, Department Store S
-  - [japan] Preview: Forecasters See Japan Industrial Production Lifted Again By AI Buildout in September
-  - [japan] Preview: Forecasters See Japan Jobless Rate Flat in September as Employment Remains Buoyant
-  - [korea] Samsung's Exynos 2700 outperforms Qualcomm's flagship chip by nearly 20 pc
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T02:12:44+00:00",
+      "published_utc": "2026-10-27T02:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
