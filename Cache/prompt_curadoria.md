@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T21:12:45.957994+00:00
+Última coleta: 2026-10-27T21:22:43.835063+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          953
@@ -26,8 +26,10 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Stocks Gain 4.23% With Cash-Return Decisions Approaching
   - [china] China Claims Strong Economic Growth, but Skeptics Question Official Figures — WSJ
   - [korea] SK Hynix's Solidigm Reportedly In Talks Over $45B Investment In US Chip Plant
+  - [japan] Dollar rises as markets eye central bank meetings By Reuters
   - [korea] SK Hynix $155 call OI leads options chain as 6.7% Q3 swing looms
   - [japan] Japan's EV subsidies face uncertain future as country's 'DOGE' takes aim
+  - [taiwan] High inflation to persist globally into next year, Reuters poll shows
   - [korea] SK hynix Stocks Gain 5.18% Before Its Payout Plan Faces Board Scrutiny
   - [china] Portuguese president condemns violence, calls for ending housing crisis
   - [china] Xinjiang Beixin Road & Bridge Q3 Net Loss At 163.1 Million Yuan
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Mr. Hitoshi Sasaki is appointed as the new branch manager of the Bank of Japan's Shizuoka Branch, with the amb
   - [japan] Meiko Electronics - Announcement Of Execution Of A Basic Agreement Regarding Acquisition Of Shares Of Unimicro
   - [korea] Huons Global To Acquire Real Estate Worth 244.5 Billion Won
-  - [china] Xinjiang Daqo New Energy Q3 Net Loss At 410.9 Million Yuan
-  - [taiwan] Foreign fund outflows send Taiwan dollar sharply lower: Central bank
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T21:12:46+00:00",
+      "published_utc": "2026-10-27T21:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
