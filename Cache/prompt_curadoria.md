@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T09:32:43.400748+00:00
+Última coleta: 2026-10-27T09:42:43.587321+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          958
-  🇨🇳 China          851
+  🇨🇳 China          852
   🇹🇼 Taiwan         379
-  🇰🇷 Coreia do Sul  812
+  🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
   - [china] China's Solar Tech Curbs Put India's Manufacturing Push At Risk
   - [china] Liaoning Energy Industry Q3 Net Loss At 374.4 Million Yuan
+  - [china] Sinosteel Engineering & Technology Q3 Newly Signed Contracts Totalled 1.3 Billion Yuan
   - [china] China's October PMI Readings Likely to Reflect Seasonal Weakness — Market Talk
   - [china] Chinese Universe Publishing And Media Group's Unit Signs 1.7 Billion Yuan Textbook Supply Contract
   - [china] Shanghai Electric Wind Power Group Q3 Net Loss At 321.8 Million Yuan
@@ -49,7 +50,6 @@ Total: 3000 manchetes
   - [japan] Japan’s trend inflation index hits 3-year high, cements case for BOJ rate hike
   - [korea] Kospi Gains as Chip, Battery Stocks Advance
   - [korea] S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast
-  - [japan] CPI excluding special factors accelerates sharply in September, perhaps supporting Bank of Japan's 2% trend (R
   - [korea] Four years on, Lee Jae-yong steers Samsung from chip slump to AI boom
   - [korea] Chip boom drives Korea's surprise 1% GDP growth in Q3
   - [korea] While the Korean economy grew by surprise in the third quarter of this year on the back of semicondu..
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T09:32:43+00:00",
+      "published_utc": "2026-10-27T09:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

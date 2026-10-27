@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T09:32:43.400748+00:00",
- "collected_at_utc": "2026-10-27T09:32:43.400748+00:00",
+ "generated_at_utc": "2026-10-27T09:42:43.587321+00:00",
+ "collected_at_utc": "2026-10-27T09:42:43.587321+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 958,
-  "china": 851,
+  "china": 852,
   "taiwan": 379,
-  "korea": 812
+  "korea": 811
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:39:00+00:00"
+   "newest": "2026-10-27T08:56:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:56:00+00:00"
+   "newest": "2026-10-24T01:44:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T05:01:46+00:00"
+   "newest": "2026-10-27T05:00:28+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 37,
+   "count": 42,
    "error": "",
-   "newest": "2026-10-27T15:06:32+08:00"
+   "newest": "2026-10-27T17:04:44+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T09:14:21+00:00"
+   "newest": "2026-10-27T09:34:14+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T09:12:35+00:00"
+   "newest": "2026-10-27T09:18:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T06:20:36+00:00"
+   "newest": "2026-10-27T09:15:01+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-10-27T09:00:00+09:00"
+   "newest": "2026-10-27T10:50:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T02:50:00+00:00"
+   "newest": "2026-10-27T04:33:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T09:31:36+00:00"
+   "newest": "2026-10-27T09:42:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:30:52+00:00"
+   "newest": "2026-10-27T04:31:14+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:03:41+00:00"
+   "newest": "2026-10-27T09:27:57+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:56:00+00:00"
+   "newest": "2026-10-27T09:31:12+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -376,6 +376,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e04b4cdcac95e5fb"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sinosteel Engineering & Technology Q3 Newly Signed Contracts Totalled 1.3 Billion Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D0S2:0-sinosteel-engineering-technology-q3-newly-signed-contracts-totalled-1-3-billion-yuan/",
+   "published_utc": "2026-10-27T09:30:04+00:00",
+   "title_original": "Sinosteel Engineering & Technology Q3 Newly Signed Contracts Totalled 1.3 Billion Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "afccc3c398bdd015"
   },
   {
    "source_id": "tradingview_live",
@@ -551,11 +568,11 @@
    "id": "839fe37f8879b0b9"
   },
   {
-   "source_id": "gn_tw_focus",
-   "source_name": "Focus Taiwan",
+   "source_id": "focus_taiwan",
+   "source_name": "Focus Taiwan (CNA)",
    "title_en": "Taiwan shares edge up as TSMC bounces back",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYbEFpZE1ueGtxTW81Mlk5ZWRDcTBOU1JsY0JSNVM4a2UydEJ6bkhtclQ0S1BQT1I0Vy1WSXplNUpLTWtXeW9oWWhKYzFsQmJmRHpHUkZEVQ?oc=5",
-   "published_utc": "2026-10-27T08:29:00+00:00",
+   "url": "https://focustaiwan.tw/business/202610270015",
+   "published_utc": "2026-10-27T08:29:40+00:00",
    "title_original": "Taiwan shares edge up as TSMC bounces back",
    "region": "taiwan",
    "topics": [
@@ -565,7 +582,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "174fc4510757d019"
+   "id": "3636bbf4ed259faa"
   },
   {
    "source_id": "gn_tw_cna",
@@ -896,24 +913,6 @@
    "id": "503d81ecd11153ec"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "CPI excluding special factors accelerates sharply in September, perhaps supporting Bank of Japan's 2% trend (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8teFkwT3ZOaklsdmVnb2dnaExVal96VEo5Qkw3X1F5WjVvaEdaTDhsOXFNVnQ3MUQ5eDM2WkI2V05YenhQaTRjZGIwbFZlUUIxWnEzXy1aS0dJeWRFRVY1YjNCX0VhbGQ0TG10c2RRNjVwUGk4ZmpBNV9qa3BJX1U?oc=5",
-   "published_utc": "2026-10-27T06:28:23+00:00",
-   "title_original": "特殊要因除くＣＰＩ、9月は伸び急加速 日銀の基調2％判断後押しか（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6e854cef6dccbb26"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Four years on, Lee Jae-yong steers Samsung from chip slump to AI boom",
@@ -1124,6 +1123,24 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "CPI excluding special factors accelerates sharply in September, perhaps supporting Bank of Japan's 2% trend (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8teFkwT3ZOaklsdmVnb2dnaExVal96VEo5Qkw3X1F5WjVvaEdaTDhsOXFNVnQ3MUQ5eDM2WkI2V05YenhQaTRjZGIwbFZlUUIxWnEzXy1aS0dJeWRFRVY1YjNCX0VhbGQ0TG10c2RRNjVwUGk4ZmpBNV9qa3BJX1U?oc=5",
+   "published_utc": "2026-10-27T05:25:12+00:00",
+   "title_original": "特殊要因除くＣＰＩ、9月は伸び急加速 日銀の基調2％判断後押しか（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6e854cef6dccbb26"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "CPI excluding special factors accelerates rapidly in September, perhaps supporting Bank of Japan's 2% trend (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVFqZ3lIUmpwVjZGQUp0RWhjdXZnMUUxQ3RVdWM1Q2twZkVVb2dLLVRpZnhrOUdVbktob0d2OGQ2b0tHQTRSckdKUGRjUkh2ZERsSGhyd0tSUm94c2JtRUt2RmhzU0lEcy1tQlNiUnc3WGhiYi1YWERQWHVGTDNIVWJVdDVXaWk0MDU1bC13?oc=5",
    "published_utc": "2026-10-27T05:25:12+00:00",
@@ -1138,23 +1155,6 @@
    "live_wire": false,
    "manual": false,
    "id": "60b9efe70468c7cc"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "UK’s tariffs on Chinese diggers challenged by Caterpillar",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0xWTlFHR3Y4MzBRSk1KSDZHaFI2amJZQnd6RGxRRXBmcFd0cmw5eHhvOEVHTzNQZkVjcmFaWW94enR1dXBGVlhxR2Fyd3VBaGRPSUVETS1xZ3ZPWmI5Z050clpDVHUxMXVmU0J5Mk0wS3dPOVNPdTZiVGs1TF9EV3lIc1A?oc=5",
-   "published_utc": "2026-10-27T05:01:46+00:00",
-   "title_original": "UK’s tariffs on Chinese diggers challenged by Caterpillar",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "62915d242cff8d6f"
   },
   {
    "source_id": "investing_econ",
@@ -1225,6 +1225,23 @@
    "live_wire": true,
    "manual": false,
    "id": "06af8a6426d96f3e"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "UK’s tariffs on Chinese diggers challenged by Caterpillar",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0xWTlFHR3Y4MzBRSk1KSDZHaFI2amJZQnd6RGxRRXBmcFd0cmw5eHhvOEVHTzNQZkVjcmFaWW94enR1dXBGVlhxR2Fyd3VBaGRPSUVETS1xZ3ZPWmI5Z050clpDVHUxMXVmU0J5Mk0wS3dPOVNPdTZiVGs1TF9EV3lIc1A?oc=5",
+   "published_utc": "2026-10-27T05:00:28+00:00",
+   "title_original": "UK’s tariffs on Chinese diggers challenged by Caterpillar",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "62915d242cff8d6f"
   },
   {
    "source_id": "boj_whatsnew",
@@ -1759,23 +1776,6 @@
    "live_wire": true,
    "manual": false,
    "id": "a53ee12f51dcfec8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Rupiah, peso lead losses among Asian currencies; won bucks trend",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D056:0-rupiah-peso-lead-losses-among-asian-currencies-won-bucks-trend/",
-   "published_utc": "2026-10-27T02:14:59+00:00",
-   "title_original": "Rupiah, peso lead losses among Asian currencies; won bucks trend",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "10fd1cd34d7524e1"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3761,9 +3761,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -3775,7 +3775,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b972d8c6ac9362b"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3848,7 +3848,7 @@
    "id": "c7c1d9a91e0558eb"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "SK Hynix to announce steps to boost shareholder returns on Wednesday",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWx4UTlDVjlGVEQ4VlRud29jaTNKbVFVTTAwdDNMaGRUeVJYaHk1WnpZMFhTSkNBMmpZLVNFaThKQnlGbGNLZnF4Q3RkRWxzQ01QdFZRak5zUURmc19BX0NybFhwU3dweGh0LUYtTVY3N3pXMGVvalo5Rm5wU1UwcmZzSFJvRElQQXdzVWlBLUQ5b05LdWk0T0FTY1RmVml5aXZyVDZfS2dQc3Zsdzk3eklLM1M?oc=5",
@@ -3862,7 +3862,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "b6490a6878005e0c"
+   "id": "8a7ae9f44704cb3f"
   },
   {
    "source_id": "toyo_keizai",
@@ -3985,6 +3985,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4572,24 +4590,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -5730,6 +5730,24 @@
    "id": "c0606821eacd5484"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
+   "published_utc": "2026-10-23T12:38:12+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d3a519ddfcdc2da"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -5745,24 +5763,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
-   "published_utc": "2026-10-23T12:32:55+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -22134,23 +22134,6 @@
    "id": "5550786906e36fe3"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVZEVDBJNlRHakU2ZHUxSnZHSWRGN05qSXlmWjRmY1VhMjdRWlZUVUhqQnA0ZVFMVGNsZ3ZLSWh0TGZMTG1HR0UwTGhzVzVFanFXc3FJUDd5UE5oM3dja0owU0xQLXNmQWRIQ1BwdE14R0J1aFMtUGIxM2JLZ090SmloelgtWlh6YkFRYUUwZ2dGZEE?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "912c3fdcf5b7083e"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
@@ -22166,6 +22149,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5ed3d10817c389f2"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVZEVDBJNlRHakU2ZHUxSnZHSWRGN05qSXlmWjRmY1VhMjdRWlZUVUhqQnA0ZVFMVGNsZ3ZLSWh0TGZMTG1HR0UwTGhzVzVFanFXc3FJUDd5UE5oM3dja0owU0xQLXNmQWRIQ1BwdE14R0J1aFMtUGIxM2JLZ090SmloelgtWlh6YkFRYUUwZ2dGZEE?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "title_original": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "912c3fdcf5b7083e"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -24911,6 +24911,23 @@
    "id": "f70b6cafaf408c20"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -24927,23 +24944,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
