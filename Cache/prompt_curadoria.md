@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T19:32:45.649592+00:00
+Última coleta: 2026-10-27T19:42:43.539012+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          953
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [korea] SK hynix Stocks Gain 5.18% Before Its Payout Plan Faces Board Scrutiny
   - [china] Portuguese president condemns violence, calls for ending housing crisis
   - [china] Xinjiang Beixin Road & Bridge Q3 Net Loss At 163.1 Million Yuan
+  - [japan] Dollar firms ahead of central bank meetings, steadier stocks stall safe haven play By Reuters
   - [china] Geovis Technology Q3 Net Loss At 171.9 Million Yuan
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 200.32, Implies 37% Upside
   - [japan] Opinion of the expert panel regarding the three security documents, “Tax increases are not excluded as an opti
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Foreign fund outflows send Taiwan dollar sharply lower: Central bank
   - [china] China National Nuclear Power: Nine-month profit fell sharply amid tariff and cost pressures, despite stronger 
   - [china] China's Solar Tech Curbs Put India's Manufacturing Push At Risk
-  - [china] Liaoning Energy Industry Q3 Net Loss At 374.4 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T19:32:45+00:00",
+      "published_utc": "2026-10-27T19:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
