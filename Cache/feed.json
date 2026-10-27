@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T19:12:43.684174+00:00",
- "collected_at_utc": "2026-10-27T19:12:43.684174+00:00",
+ "generated_at_utc": "2026-10-27T19:22:44.842751+00:00",
+ "collected_at_utc": "2026-10-27T19:22:44.842751+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 953,
-  "china": 858,
-  "taiwan": 379,
-  "korea": 810
+  "china": 856,
+  "taiwan": 380,
+  "korea": 811
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:56:00+00:00"
+   "newest": "2026-10-24T01:44:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T18:44:36+00:00"
+   "newest": "2026-10-27T19:07:56+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T18:42:24+00:00"
+   "newest": "2026-10-27T18:54:26+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T19:02:00+00:00"
+   "newest": "2026-10-27T19:21:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T09:25:37+00:00"
+   "newest": "2026-10-27T08:43:25+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 202.63, Implies 39% Upside",
+   "url": "https://www.tradingview.com/news/tradingview:de00e4a0dc735:0-wuxi-apptec-co-ltd-class-a-stock-12-month-price-target-raised-to-cny-202-63-implies-39-upside/",
+   "published_utc": "2026-10-27T19:20:00+00:00",
+   "title_original": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 202.63, Implies 39% Upside",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "99445a36acc36aff"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "SK Hynix Stock Jumps as Massive Payout Rumors Swirl",
+   "url": "https://www.tradingview.com/news/gurufocus:b7f0f6daa094b:0-sk-hynix-stock-jumps-as-massive-payout-rumors-swirl/",
+   "published_utc": "2026-10-27T19:04:23+00:00",
+   "title_original": "SK Hynix Stock Jumps as Massive Payout Rumors Swirl",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c8661b3c2e33379b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "GuruFocus",
+   "title_en": "TSMC Gets Fresh Pricing Power From AI Chip Boom",
+   "url": "https://www.tradingview.com/news/gurufocus:012295074094b:0-tsmc-gets-fresh-pricing-power-from-ai-chip-boom/",
+   "published_utc": "2026-10-27T19:03:08+00:00",
+   "title_original": "TSMC Gets Fresh Pricing Power From AI Chip Boom",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ffe64e5fd8c55d34"
+  },
   {
    "source_id": "nikkei_asia",
    "source_name": "Nikkei Asia",
@@ -1064,40 +1115,6 @@
    "id": "2c180462b1c90134"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "How This U.S. Agency Works to Beat China at Building Energy and Mineral Supply Chains — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261027001822:0-how-this-u-s-agency-works-to-beat-china-at-building-energy-and-mineral-supply-chains-barrons-com/",
-   "published_utc": "2026-10-27T09:00:00+00:00",
-   "title_original": "How This U.S. Agency Works to Beat China at Building Energy and Mineral Supply Chains — Barrons.com",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9e7016776594c42e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Sichuan Development Lomon Q3 Net Loss At 402.2 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D0OA:0-sichuan-development-lomon-q3-net-loss-at-402-2-million-yuan/",
-   "published_utc": "2026-10-27T08:47:32+00:00",
-   "title_original": "Sichuan Development Lomon Q3 Net Loss At 402.2 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3e7b471aa213ee57"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "South Korea's economy grew 1.0 percent in the third quarter on strong semiconductor exports and faci..",
@@ -1167,23 +1184,6 @@
    "live_wire": false,
    "manual": false,
    "id": "72c803f37cbe1229"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Shandong Hi-tech Spring Material Technology's Unit To Invest Up To 630 Million Yuan In Project",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D0NI:0-shandong-hi-tech-spring-material-technology-s-unit-to-invest-up-to-630-million-yuan-in-project/",
-   "published_utc": "2026-10-27T08:39:14+00:00",
-   "title_original": "Shandong Hi-tech Spring Material Technology's Unit To Invest Up To 630 Million Yuan In Project",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "dd6c1ab167550d17"
   },
   {
    "source_id": "focus_taiwan",
@@ -3210,9 +3210,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
    "title_original": "10月26日央行开展560亿元7天期逆回购操作",
    "region": "china",
@@ -3224,7 +3224,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0facd9f9793a1c33"
+   "id": "8166e1f4e20d2cef"
   },
   {
    "source_id": "tradingview_live",
@@ -4228,9 +4228,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -4242,7 +4242,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b972d8c6ac9362b"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4434,6 +4434,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5021,24 +5039,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",

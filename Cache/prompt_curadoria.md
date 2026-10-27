@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T19:12:43.684174+00:00
+Última coleta: 2026-10-27T19:22:44.842751+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          953
-  🇨🇳 China          858
-  🇹🇼 Taiwan         379
-  🇰🇷 Coreia do Sul  810
+  🇨🇳 China          856
+  🇹🇼 Taiwan         380
+  🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 202.63, Implies 39% Upside
+  - [korea] SK Hynix Stock Jumps as Massive Payout Rumors Swirl
+  - [taiwan] TSMC Gets Fresh Pricing Power From AI Chip Boom
   - [japan] Japan banks, fintech step up digital currency push for trade settlements
   - [korea] Samsung Electronics Stocks Gain 4.23% With Cash-Return Decisions Approaching
   - [china] China Claims Strong Economic Growth, but Skeptics Question Official Figures — WSJ
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China National Nuclear Power: Nine-month profit fell sharply amid tariff and cost pressures, despite stronger 
   - [china] China's Solar Tech Curbs Put India's Manufacturing Push At Risk
   - [china] Liaoning Energy Industry Q3 Net Loss At 374.4 Million Yuan
-  - [china] Sinosteel Engineering & Technology Q3 Newly Signed Contracts Totalled 1.3 Billion Yuan
-  - [korea] Investor sentiment in semiconductors, which had been solid, is shaking. Samsung Electronics fell mor..
-  - [china] China's October PMI Readings Likely to Reflect Seasonal Weakness — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T19:12:43+00:00",
+      "published_utc": "2026-10-27T19:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
