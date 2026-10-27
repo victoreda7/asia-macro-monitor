@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T22:42:42.999439+00:00
+Última coleta: 2026-10-27T22:52:44.483627+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          955
@@ -20,7 +20,7 @@ Total: 3000 manchetes
   - [japan] FX weekly: Dollar slips weekly as Yen leads major currency gains
   - [japan] ``In the past, we would have received twice as much as younger people,'' but due to fewer posts, annual income
   - [taiwan] The first wave of exit polls for the Israeli election comes out, with the opposition slightly leading by less 
-  - [japan] <Machine tool trends that can be understood in 5 minutes> Orders received at record high in September; concern
+  - [japan] [Machine tool trends that can be understood in 5 minutes] Concerns about "over-investment in AI" as orders rea
   - [japan] Today's Japan-German summit meeting to confirm supply chain strengthening, etc.
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 202.63, Implies 39% Upside
   - [korea] SK Hynix Stock Jumps as Massive Payout Rumors Swirl
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T22:42:43+00:00",
+      "published_utc": "2026-10-27T22:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
