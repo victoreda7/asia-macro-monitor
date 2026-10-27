@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T09:42:43.587321+00:00
+Última coleta: 2026-10-27T09:52:43.258990+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          958
-  🇨🇳 China          852
-  🇹🇼 Taiwan         379
-  🇰🇷 Coreia do Sul  811
+  🇯🇵 Japão          957
+  🇨🇳 China          853
+  🇹🇼 Taiwan         380
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Foreign fund outflows send Taiwan dollar sharply lower: Central bank
+  - [china] China National Nuclear Power: Nine-month profit fell sharply amid tariff and cost pressures, despite stronger 
   - [china] China's Solar Tech Curbs Put India's Manufacturing Push At Risk
   - [china] Liaoning Energy Industry Q3 Net Loss At 374.4 Million Yuan
   - [china] Sinosteel Engineering & Technology Q3 Newly Signed Contracts Totalled 1.3 Billion Yuan
+  - [korea] Investor sentiment in semiconductors, which had been solid, is shaking. Samsung Electronics fell mor..
   - [china] China's October PMI Readings Likely to Reflect Seasonal Weakness — Market Talk
   - [china] Chinese Universe Publishing And Media Group's Unit Signs 1.7 Billion Yuan Textbook Supply Contract
   - [china] Shanghai Electric Wind Power Group Q3 Net Loss At 321.8 Million Yuan
@@ -50,13 +53,10 @@ Total: 3000 manchetes
   - [japan] Japan’s trend inflation index hits 3-year high, cements case for BOJ rate hike
   - [korea] Kospi Gains as Chip, Battery Stocks Advance
   - [korea] S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast
+  - [japan] CPI excluding special factors accelerates sharply in September, perhaps supporting Bank of Japan's 2% trend (R
   - [korea] Four years on, Lee Jae-yong steers Samsung from chip slump to AI boom
   - [korea] Chip boom drives Korea's surprise 1% GDP growth in Q3
   - [korea] While the Korean economy grew by surprise in the third quarter of this year on the back of semicondu..
-  - [china] Beijing pushes digital yuan adoption with university salary payments
-  - [taiwan] PSMC capacity crunch holds back Jeju Semiconductor's growth
-  - [korea] Korea should save chip boom windfall for downturns: IDB economist
-  - [japan] Mr. Kuroda supports interest rate hike policy, Mr. Wakatabe is cautious. Former Bank of Japan leaders write on
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T09:42:43+00:00",
+      "published_utc": "2026-10-27T09:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
