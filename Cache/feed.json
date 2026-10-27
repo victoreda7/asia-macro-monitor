@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T08:22:45.130600+00:00",
- "collected_at_utc": "2026-10-27T08:22:45.130600+00:00",
+ "generated_at_utc": "2026-10-27T08:32:43.130795+00:00",
+ "collected_at_utc": "2026-10-27T08:32:43.130795+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 965,
+  "japan": 964,
   "china": 846,
-  "taiwan": 379,
+  "taiwan": 380,
   "korea": 810
  },
- "elapsed_s": 30.2,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:44:19+00:00"
+   "newest": "2026-10-27T07:56:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:12:26+00:00"
+   "newest": "2026-10-27T00:09:40+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-27T08:10:27+00:00"
+   "newest": "2026-10-27T08:26:43+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:41:59+00:00"
+   "newest": "2026-10-27T07:54:35+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T17:15:29+09:00"
+   "newest": "2026-10-27T17:30:37+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-27T07:00:49+00:00"
+   "newest": "2026-10-27T08:30:10+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T00:00:24+00:00"
+   "newest": "2026-10-27T08:14:41+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T08:22:14+00:00"
+   "newest": "2026-10-27T08:32:18+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:08:12+00:00"
+   "newest": "2026-10-27T08:10:57+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "Japan Government Keeps Gradual Economic Recovery Outlook, Continues to Warn about Inflationary Impact of Lingering Mideast Conflict",
+   "url": "https://www.tradingview.com/news/macenews:e24d0aef0094b:0-japan-government-keeps-gradual-economic-recovery-outlook-continues-to-warn-about-inflationary-impact-of-lingering-mideast-conflict/",
+   "published_utc": "2026-10-27T08:22:00+00:00",
+   "title_original": "Japan Government Keeps Gradual Economic Recovery Outlook, Continues to Warn about Inflationary Impact of Lingering Mideast Conflict",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4a11bf04ef34a8e6"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -428,6 +445,23 @@
    "live_wire": true,
    "manual": false,
    "id": "bfdf065e9bf17b51"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "JIMTOF 2026 draws 94 Taiwan machine tool exhibitors",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFVBNnF2Q0pNRFhza0ZIOVloaHoxWC1mX1VVNnpFYlE2YW1BemxxazZXMmYwd0ExQjM0d1BMX1JRcnJ0clJzR2FVTHhXbzA1RmZEQVBHNXZVMGdhc1o2WVBwM3J0WFhJSGJLUk9ZSDUyYVJEOEVWR3dzZzhEN0g1WHpaUWFmbkhEVXlBNmpEc2tOQUhXNS1DdkpWNlc5bWM?oc=5",
+   "published_utc": "2026-10-27T07:56:00+00:00",
+   "title_original": "JIMTOF 2026 draws 94 Taiwan machine tool exhibitors",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "054095e32004d48c"
   },
   {
    "source_id": "gn_kr_ked",
@@ -1879,23 +1913,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9169e480f65f285f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "BlackRock Joins SBI and Startale to Link Tokenized MMFs With Japanese Yen Stablecoins",
-   "url": "https://www.tradingview.com/news/binance_news:bb8f75120094b:0-blackrock-joins-sbi-and-startale-to-link-tokenized-mmfs-with-japanese-yen-stablecoins/",
-   "published_utc": "2026-10-27T01:05:48+00:00",
-   "title_original": "BlackRock Joins SBI and Startale to Link Tokenized MMFs With Japanese Yen Stablecoins",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "76d864d4cbb5bb77"
   },
   {
    "source_id": "investing_live",
@@ -3589,7 +3606,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53amxBcmVuSFR3amxLQThXNVcwWnFRVl9IU2Z0QWVTWGRFLXpGTElFbHJUNEJwUGx0blMtYmw5SUd5XzFDS0lZaTM3UG10S2VHOXBKVkR0bi1RU1JMbHBNZTRB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -3601,7 +3618,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "637fb07118250770"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3778,24 +3795,6 @@
    "id": "3a3f57c11641a184"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
-   "published_utc": "2026-10-26T02:13:49+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1033a50b0d22ef1a"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..",
@@ -3813,24 +3812,6 @@
    "id": "c39539e469407cde"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Major banks have increased their information protection budgets for next year significantly since th..",
@@ -3846,6 +3827,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d4a3aa3b3df6303c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -3918,6 +3917,23 @@
    "id": "26cbdb1b7286371e"
   },
   {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93SW1kSTJ0XzB5Ml9ELVloZ0I5Z2tnNC1uRF9KUVRib3lnNHBFYjI0ZUY0dkZDSENQa2JsYTN6VGs4amFiUG9qeFBjczdxZnFxYmVXNURiNnN3b210cDV6X2xqdlJ3b1dRUHBDbzdvVnhyeF9WenplYzZTQ2tyOHM?oc=5",
+   "published_utc": "2026-10-26T01:39:15+00:00",
+   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "909577cb78ba9d43"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "The top 1% of stock investment returns bought SK Hynix, Samsung Electronics, and Samsung Electronics..",
@@ -3987,6 +4003,24 @@
    "live_wire": false,
    "manual": false,
    "id": "de72ef6f280f0b18"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kYXM5YUF1NlRvUTZEdjJEVjNJNXZqMDZiai1FcGM3RVVGaVZwOUx2YlpMbHpydlZMV1VUNUhkaE9ud2VvdjlGLUlWRk5XMGVuNGgxZFhZYnN1b2kyeHc?oc=5",
+   "published_utc": "2026-10-26T00:27:36+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "80c3ba148e83c89b"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6563,23 +6597,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3ac990465bc04646"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXZTbzVEaXY2d3l5bk5vb0xkVm5aZkl0Z25nLWtiTWpuUmgtR05ZYTB5V1BlbWcxMmRCS01yN0FfXzJXT2lJLXhucE9hZzBuWURzcklaMF81bzNGRU95TVNYbzdiRXhEcURrR2JBYU9yOENjVDU0RlVBbzJRUlBhZWdTaXZfQnI4?oc=5",
-   "published_utc": "2026-10-23T07:00:00+00:00",
-   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "eda4db23a9b07274"
   },
   {
    "source_id": "focus_taiwan",
@@ -9700,7 +9717,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "The central bank's 7-day reverse repurchase operation volume was zero on October 22, and it carried out 173 billion yuan of overnight reverse repurchase.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMFZha2lFSzR1NnNlUnRpWkZZdmVQNFZDMlBlM1JUQ1AxNTh6NllvTFR1c0lxWkR5QkJZRGNNZ01BbkRKYkZqUGlKaVFNM1cwMUxuZDZwbTV5a0ZSRmpMSGFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWkFra0pyV1pfMWtjdTk4ODZNOUdGeWJ0Mml3UENxeUtucjBUTzNleEpBVnpoS1htcVZPNTFuMXlFc29UOVpkZHlkM1F3UQ?oc=5",
    "published_utc": "2026-10-22T03:01:14+00:00",
    "title_original": "央行10月22日7天期逆回购操作量为零 开展1730亿元隔夜逆回购",
    "region": "china",
@@ -9712,7 +9729,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "6181c2f60b87f6c6"
+   "id": "c5865e4da1f5c503"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -21977,23 +21994,6 @@
    "id": "5550786906e36fe3"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVZEVDBJNlRHakU2ZHUxSnZHSWRGN05qSXlmWjRmY1VhMjdRWlZUVUhqQnA0ZVFMVGNsZ3ZLSWh0TGZMTG1HR0UwTGhzVzVFanFXc3FJUDd5UE5oM3dja0owU0xQLXNmQWRIQ1BwdE14R0J1aFMtUGIxM2JLZ090SmloelgtWlh6YkFRYUUwZ2dGZEE?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "912c3fdcf5b7083e"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
@@ -22009,6 +22009,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5ed3d10817c389f2"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVZEVDBJNlRHakU2ZHUxSnZHSWRGN05qSXlmWjRmY1VhMjdRWlZUVUhqQnA0ZVFMVGNsZ3ZLSWh0TGZMTG1HR0UwTGhzVzVFanFXc3FJUDd5UE5oM3dja0owU0xQLXNmQWRIQ1BwdE14R0J1aFMtUGIxM2JLZ090SmloelgtWlh6YkFRYUUwZ2dGZEE?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "title_original": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "912c3fdcf5b7083e"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51873,23 +51890,6 @@
    "live_wire": false,
    "manual": false,
    "id": "04d8335519794377"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Japan Q3 Business Confidence Hit Highest Since 2018",
-   "url": "https://www.tradingview.com/news/te_news:588394:0-japan-q3-business-confidence-hit-highest-since-2018/",
-   "published_utc": "2026-09-30T23:57:52+00:00",
-   "title_original": "Japan Q3 Business Confidence Hit Highest Since 2018",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "5b2dce502480f3eb"
   },
   {
    "source_id": "manual_ia",
