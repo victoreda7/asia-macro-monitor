@@ -7,20 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T12:02:49.057354+00:00
+Última coleta: 2026-10-27T12:12:44.961952+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          960
+  🇯🇵 Japão          961
   🇨🇳 China          853
-  🇹🇼 Taiwan         378
+  🇹🇼 Taiwan         377
   🇰🇷 Coreia do Sul  809
 
 ## O que já está no feed (não repita)
 
+  - [china] Shenzhen Kingkey Smart Agriculture Times Q3 Net Loss At 193.6 Million Yuan
   - [korea] S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast
+  - [japan] The reason why the report card for the first year of the Takaichi administration is ``barely passing in fiscal
   - [japan] Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and 
   - [china] Shanghai V-Test Semiconductor Tech To Invest In Shanghai HQ Project
   - [china] Sinograin vende 172.240 t de soja importada pela China, aponta Mysteel
+  - [taiwan] Taiwan's 2027 budget with NT$10,000 handouts heads to committee
   - [china] Gree Electric Appliances's Shareholder To Raise Stake By 600-1200 Million Yuan
   - [china] Hainan Airport Infrastructure Q3 Net Loss At 132.6 Million Yuan
   - [japan] Digital Core REIT Announces Pricing Of JPY 5 Bln 3.47% Fixed Rate Notes Due 2031
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [china] China Railway Construction Heavy Industry January-September New Contracts, Bids Totalled 10.5 Billion Yuan
   - [china] BofA: China core semiconductor sales rise 24% in June-August
   - [japan] JAPAN’S GOVERNMENT UPGRADES ITS VIEW ON BUSINESS SENTIMENT AFTER UPBEAT Q3 TANKAN SURVEY, DOWNGRADES ASSESSMEN
-  - [japan] JAPAN KEEPS GRADUAL ECONOMIC RECOVERY OUTLOOK IN MONTHLY REPORT, REPEATS ITS WARNING ABOUT IMPACT OF MIDEAST C
-  - [korea] Kospi hits one-week high as Samsung, SK Hynix rally on Anthropic, payout hopes
-  - [china] China Industrial Profits Increase Notably
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T12:02:49+00:00",
+      "published_utc": "2026-10-27T12:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
