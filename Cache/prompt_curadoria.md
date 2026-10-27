@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T10:32:45.049503+00:00
+Última coleta: 2026-10-27T10:42:49.289614+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          957
-  🇨🇳 China          853
-  🇹🇼 Taiwan         379
-  🇰🇷 Coreia do Sul  811
+  🇨🇳 China          855
+  🇹🇼 Taiwan         378
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [china] Gree Electric Appliances's Shareholder To Raise Stake By 600-1200 Million Yuan
+  - [china] Hainan Airport Infrastructure Q3 Net Loss At 132.6 Million Yuan
   - [japan] Digital Core REIT Announces Pricing Of JPY 5 Bln 3.47% Fixed Rate Notes Due 2031
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 199.71, Implies 37% Upside
   - [china] Sustained Recovery for China Equities May Require Stronger Stimulus — Market Talk
+  - [japan] What role does the Bank of Japan branch play? "Bank of Japan Nagasaki Branch" Branch Manager talks about the c
   - [japan] Retail price of eggs reaches record high “Avian influenza continues to affect” Ministry of Agriculture, Forest
   - [japan] Meiko Electronics - Announcement Of Execution Of A Basic Agreement Regarding Acquisition Of Shares Of Unimicro
   - [korea] Huons Global To Acquire Real Estate Worth 244.5 Billion Won
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Top Japanese Chip Stocks to Watch Going Into Q3 Earnings, According to Bernstein
   - [taiwan] COST OF LIVING Taiwan's consumer confidence weakens in October
   - [japan] Japan life insurers offer mixed view of JGBs as foreign bond selling persists
-  - [korea] The Export-Import Bank of Korea announced on the 27th that it has signed a business agreement with t..
-  - [korea] South Korean shares end over 3% higher on US rally, strong GDP
-  - [china] AI investment expansion encounters bottlenecks, the central bank is worried about financing risks and amplifie
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T10:32:45+00:00",
+      "published_utc": "2026-10-27T10:42:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
