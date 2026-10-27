@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T06:42:43.034217+00:00
+Última coleta: 2026-10-27T06:52:45.906847+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          974
-  🇨🇳 China          840
+  🇯🇵 Japão          973
+  🇨🇳 China          841
   🇹🇼 Taiwan         377
   🇰🇷 Coreia do Sul  809
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs
   - [japan] Japan's trend inflation index hits 3-year high, cements case for BOJ rate hike
   - [korea] Kospi Gains as Chip, Battery Stocks Advance
   - [korea] S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast
@@ -27,6 +28,7 @@ Total: 3000 manchetes
   - [taiwan] PSMC capacity crunch holds back Jeju Semiconductor's growth
   - [korea] Korea should save chip boom windfall for downturns: IDB economist
   - [japan] Mr. Kuroda supports interest rate hike policy, Mr. Wakatabe is cautious. Former Bank of Japan leaders write on
+  - [china] The central bank's reverse repurchase net investment today was 1.014 billion yuan, and the China Development B
   - [korea] SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview
   - [japan] Japan stands ready to take decisive action in currency market, finance minister says
   - [china] The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, ha
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] TSMC to raise advanced chip packaging prices by up to 20%, report says
   - [japan] Yen Weakens as Safe-Haven Demand Fades
   - [china] China’s industrial profits rises most in three months on oil, AI
-  - [korea] Roundup: S. Korea's real GDP grows 1.0 pct on quarter in Q3
-  - [korea] S. Korea's real GDP grows 1.0 pct on quarter in Q3
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T06:42:43+00:00",
+      "published_utc": "2026-10-27T06:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
