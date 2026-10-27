@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T18:12:43.060674+00:00",
- "collected_at_utc": "2026-10-27T18:12:43.060674+00:00",
+ "generated_at_utc": "2026-10-27T18:22:45.244439+00:00",
+ "collected_at_utc": "2026-10-27T18:22:45.244439+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 954,
-  "china": 857,
+  "china": 858,
   "taiwan": 379,
-  "korea": 810
+  "korea": 809
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T09:59:05+00:00"
+   "newest": "2026-10-27T18:01:40+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:44:19+00:00"
+   "newest": "2026-10-27T07:56:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T12:45:06+00:00"
+   "newest": "2026-10-27T18:12:54+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T15:15:35+00:00"
+   "newest": "2026-10-27T17:51:43+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T18:12:00+00:00"
+   "newest": "2026-10-27T18:22:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T12:19:40+00:00"
+   "newest": "2026-10-26T08:38:46+00:00"
   }
  ],
  "items": [
@@ -4384,6 +4384,24 @@
    "id": "3a3f57c11641a184"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
+   "published_utc": "2026-10-26T02:13:49+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1033a50b0d22ef1a"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..",
@@ -4609,24 +4627,6 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新湖南",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
-   "published_utc": "2026-10-26T00:06:24+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -25341,6 +25341,23 @@
    "live_wire": false,
    "manual": false,
    "id": "858b64fc398f2573"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
+   "title_en": "Data release and interpretation - Jiangsu consumer prices increased by 0.8% year-on-year in September 2026",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzdYY2V0dzdfQlVXX21wNFZqQTdFZGY3SEkwVXNaVnlQTi1ENklTUXVRMFFmT3dkLXBiZ1paS05DTEt3U3RmdFdFV0Z2d1Z5NG1MQVRXN3lCMlc0VjVPODllLVhBSzlCX0R3MXp4YVREUmlMMGVxTXYxOTVDcTZEN2Q1aHJLdE1lU2w0SDEwOWRpS3RINGpkcjIxeE9vQ0MzdFVJ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "数据发布与解读-2026年9月份江苏居民消费价格同比上涨0.8%",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a9f3422a5f3caded"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51858,23 +51875,6 @@
    "live_wire": false,
    "manual": false,
    "id": "67a8b074e79298c7"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Lotte expands financial, export support for partners",
-   "url": "https://www.koreaherald.com/article/10890268",
-   "published_utc": "2026-10-01T02:12:14+00:00",
-   "title_original": "Lotte expands financial, export support for partners",
-   "region": "korea",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "554b60bef9333a48"
   },
   {
    "source_id": "manual_ia",
