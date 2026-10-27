@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T08:32:43.130795+00:00",
- "collected_at_utc": "2026-10-27T08:32:43.130795+00:00",
+ "generated_at_utc": "2026-10-27T08:42:43.322205+00:00",
+ "collected_at_utc": "2026-10-27T08:42:43.322205+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 964,
-  "china": 846,
-  "taiwan": 380,
+  "japan": 962,
+  "china": 847,
+  "taiwan": 381,
   "korea": 810
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:56:00+00:00"
+   "newest": "2026-10-24T01:44:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -57,9 +57,9 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "error": "",
-   "newest": "2026-10-27T07:23:00+00:00"
+   "newest": "2026-10-27T08:29:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T08:13:20+00:00"
+   "newest": "2026-10-27T08:33:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T06:42:43+00:00"
+   "newest": "2026-10-27T08:20:07+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-27T08:26:43+00:00"
+   "newest": "2026-10-27T08:40:42+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:07:00+00:00"
+   "newest": "2026-10-27T07:40:20+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T08:32:18+00:00"
+   "newest": "2026-10-27T08:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:26:08+00:00"
+   "newest": "2026-10-27T08:26:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:10:57+00:00"
+   "newest": "2026-10-27T08:22:44+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,59 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Shanxi Meijin Energy Q3 Net Loss At 418.9 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D0MV:0-shanxi-meijin-energy-q3-net-loss-at-418-9-million-yuan/",
+   "published_utc": "2026-10-27T08:34:38+00:00",
+   "title_original": "Shanxi Meijin Energy Q3 Net Loss At 418.9 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "839fe37f8879b0b9"
+  },
+  {
+   "source_id": "gn_tw_focus",
+   "source_name": "Focus Taiwan",
+   "title_en": "Taiwan shares edge up as TSMC bounces back",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYbEFpZE1ueGtxTW81Mlk5ZWRDcTBOU1JsY0JSNVM4a2UydEJ6bkhtclQ0S1BQT1I0Vy1WSXplNUpLTWtXeW9oWWhKYzFsQmJmRHpHUkZEVQ?oc=5",
+   "published_utc": "2026-10-27T08:29:00+00:00",
+   "title_original": "Taiwan shares edge up as TSMC bounces back",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "174fc4510757d019"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "If AI spending slows down, South Korea's central bank warns chip exports could drop by US$100 billion | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94d25qbFZPY1hweTZEYkFzSjFnV3poNGExdVVOUDlubDY1dTNoNVZJWDh5TkFWeUFST0txY0ZJUFZ1ZE93N1AtTHRYbk9KZ2plOXhRV3VZZmszekJCMVVF?oc=5",
+   "published_utc": "2026-10-27T08:26:00+00:00",
+   "title_original": "AI支出若放緩韓央行示警晶片出口恐減千億美元| 國際",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "218c631dc8932755"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
@@ -1774,23 +1827,6 @@
    "live_wire": true,
    "manual": false,
    "id": "75434dc7a446e12b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's industrial profits rise 15.5% in January-September",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45901U:0-china-s-industrial-profits-rise-15-5-in-january-september/",
-   "published_utc": "2026-10-27T01:31:48+00:00",
-   "title_original": "China's industrial profits rise 15.5% in January-September",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "402704751b91007a"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -3795,6 +3831,24 @@
    "id": "3a3f57c11641a184"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
+   "published_utc": "2026-10-26T02:13:49+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1033a50b0d22ef1a"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..",
@@ -3812,6 +3866,24 @@
    "id": "c39539e469407cde"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Major banks have increased their information protection budgets for next year significantly since th..",
@@ -3827,24 +3899,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d4a3aa3b3df6303c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -4003,24 +4057,6 @@
    "live_wire": false,
    "manual": false,
    "id": "de72ef6f280f0b18"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kYXM5YUF1NlRvUTZEdjJEVjNJNXZqMDZiai1FcGM3RVVGaVZwOUx2YlpMbHpydlZMV1VUNUhkaE9ud2VvdjlGLUlWRk5XMGVuNGgxZFhZYnN1b2kyeHc?oc=5",
-   "published_utc": "2026-10-26T00:27:36+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "80c3ba148e83c89b"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51852,44 +51888,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5e72122d1d4434d4"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
-   "title_en": "Bank of Japan Tankan in September: Business confidence in \"large companies and manufacturing industries\" improved for the sixth consecutive quarter... \"Large companies and non-manufacturing industries\" worsened (Yomiuri Shimbun Online)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmVNd1EtU2gydWh6eHJVWTBoa2g3TzlWUVNnQnZJOEJyTTBXdjNqSTgtTUxsR0xYNlFCakoxOEw0bi0zcTNiZmF3NlVINTBDc3ZSTlB1c1dRSExEX1Y5VVhPQ2YtVlBERDdJVUhTaEt3Y0k5T1dvWEhqQ0ZOREdwLVVxZ0thVWpCQ0RHckRB?oc=5",
-   "published_utc": "2026-10-01T00:01:10+00:00",
-   "title_original": "９月の日銀短観、「大企業・製造業」景況感は６期連続改善…「大企業・非製造業」は悪化 (読売新聞オンライン)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "561357efb6546579"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Tankan in September: Business confidence in “large companies and manufacturing industries” improves for the sixth consecutive quarter… “Large companies and non-manufacturing industries” worsens (Yomiuri Shimbun Online)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xUHVNTG41WVZDSDZYVklURDNpUFdRSC1acmx5VjJSdnNTMlE2NjBwcEtYMGxEZjBZc0VNMVE0OWVRLW1MWExzYlVnenQtUWpLWUtwZTdWbWdHa1FFQ1RvcUNsYTJUS2QyaXo2TTRNV0M5U2VUMHpJUTRfVW41dkU?oc=5",
-   "published_utc": "2026-10-01T00:01:10+00:00",
-   "title_original": "９月の日銀短観、「大企業・製造業」景況感は６期連続改善…「大企業・非製造業」は悪化（読売新聞オンライン）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "04d8335519794377"
   },
   {
    "source_id": "manual_ia",

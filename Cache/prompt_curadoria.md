@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T08:32:43.130795+00:00
+Última coleta: 2026-10-27T08:42:43.322205+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          964
-  🇨🇳 China          846
-  🇹🇼 Taiwan         380
+  🇯🇵 Japão          962
+  🇨🇳 China          847
+  🇹🇼 Taiwan         381
   🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [china] Shanxi Meijin Energy Q3 Net Loss At 418.9 Million Yuan
+  - [taiwan] Taiwan shares edge up as TSMC bounces back
+  - [china] If AI spending slows down, South Korea's central bank warns chip exports could drop by US$100 billion | Intern
   - [japan] Japan Government Keeps Gradual Economic Recovery Outlook, Continues to Warn about Inflationary Impact of Linge
   - [china] China Railway Construction Heavy Industry January-September New Contracts, Bids Totalled 10.5 Billion Yuan
   - [china] BofA: China core semiconductor sales rise 24% in June-August
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen eases on risk-on mood ahead of central bank bonanza
   - [taiwan] Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging
   - [japan] Indicators for Core CPI
-  - [japan] Yen eases on risk-on mood ahead of central bank bonanza By Reuters
-  - [japan] Cybersecurity - Rising risks, ``threat to the financial system'' - Bank of Japan board member (Reuters)
-  - [japan] Rising cybersecurity risks, ``a threat to the financial system'' - Bank of Japan board member (Reuters)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T08:32:43+00:00",
+      "published_utc": "2026-10-27T08:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
