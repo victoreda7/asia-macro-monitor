@@ -7,17 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T23:52:43.221076+00:00
+Última coleta: 2026-10-27T23:57:04.779256+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          956
-  🇨🇳 China          845
+  🇯🇵 Japão          954
+  🇨🇳 China          840
   🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  816
+  🇰🇷 Coreia do Sul  823
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix: Record Q3 revenue and operating profit meet AI-led demand as net profit absorbs large non-operating 
+  - [korea] SK Hynix Q3 profit increases more than 7 times and beats forecasts
+  - [korea] SK Hynix Q3 profit jumps more than 7-fold, beats forecasts
+  - [korea] SK Hynix: To Buy Back Additional KRW20T of Shares
+  - [korea] SK Hynix: To Pay More Than KRW30B in Dividends
+  - [korea] SK Hynix Q3 profit beats expectations, vows $75 bln in shareholders returns
   - [korea] SK hynix posts record Q3 profit, plans W100tr in shareholder returns this year
+  - [korea] SK Hynix Expects 2026 Shareholder Returns to Total KRW100T, Including Completed KRW40T Buyback
+  - [korea] SK hynix Inc. Q3 Revenue ₩104.6T, Op Profit ₩83.3T
+  - [korea] SK hynix Announces 3Q26 Financial Results
   - [korea] SK Hynix 3Q Net KRW39.776T Vs. Net KRW12.598T >000660.SE
   - [korea] SK Hynix 3Q Net Profit Below FactSet-Compiled Consensus
   - [korea] SK Hynix 3Q Oper Pft KRW83.334T Vs. Pft KRW11.383T >000660.SE
@@ -48,15 +57,6 @@ Total: 3000 manchetes
   - [china] Geovis Technology Q3 Net Loss At 171.9 Million Yuan
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 200.32, Implies 37% Upside
   - [japan] Opinion of the expert panel regarding the three security documents, “Tax increases are not excluded as an opti
-  - [korea] S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast
-  - [taiwan] Cathie Wood Trims AMD and TSMC, Adds Air Taxi Bets
-  - [japan] Selling investment trusts as prices fall due to rising interest rates, JA Saga will be in the red this fiscal 
-  - [china] Shenzhen Kingkey Smart Agriculture Times Q3 Net Loss At 193.6 Million Yuan
-  - [japan] The reason why the report card for the first year of the Takaichi administration is ``barely passing in fiscal
-  - [japan] Japan eyes 1 tril. yen private investment in Bangladesh over 5 yrs
-  - [japan] Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and 
-  - [china] Shanghai V-Test Semiconductor Tech To Invest In Shanghai HQ Project
-  - [china] Sinograin vende 172.240 t de soja importada pela China, aponta Mysteel
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T23:52:43+00:00",
+      "published_utc": "2026-10-27T23:57:05+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

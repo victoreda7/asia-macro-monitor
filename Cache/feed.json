@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T23:52:43.221076+00:00",
- "collected_at_utc": "2026-10-27T23:52:43.221076+00:00",
+ "generated_at_utc": "2026-10-27T23:57:04.779256+00:00",
+ "collected_at_utc": "2026-10-27T23:57:04.779256+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 956,
-  "china": 845,
+  "japan": 954,
+  "china": 840,
   "taiwan": 383,
-  "korea": 816
+  "korea": 823
  },
- "elapsed_s": 29.2,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T23:32:45+00:00"
+   "newest": "2026-10-27T23:48:28+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T23:12:26+00:00"
+   "newest": "2026-10-27T23:48:18+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T23:41:07+00:00"
+   "newest": "2026-10-27T23:56:31+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T19:35:43+00:00"
+   "newest": "2026-10-27T16:33:45+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T22:54:08+00:00"
+   "newest": "2026-10-27T21:09:55+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,112 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T12:19:40+00:00"
+   "newest": "2026-10-26T08:38:46+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "SK hynix: Record Q3 revenue and operating profit meet AI-led demand as net profit absorbs large non-operating losses",
+   "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4266836:0-sk-hynix-record-q3-revenue-and-operating-profit-meet-ai-led-demand-as-net-profit-absorbs-large-non-operating-losses/",
+   "published_utc": "2026-10-27T23:56:31+00:00",
+   "title_original": "SK hynix: Record Q3 revenue and operating profit meet AI-led demand as net profit absorbs large non-operating losses",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f67d69a0876fb6e8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SK Hynix Q3 profit increases more than 7 times and beats forecasts",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46D1DH:0/",
+   "published_utc": "2026-10-27T23:50:45+00:00",
+   "title_original": "Lucro da SK Hynix no terceiro trimestre aumenta mais de 7 vezes e supera as previsões",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "e19eeb2687e03df8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SK Hynix Q3 profit jumps more than 7-fold, beats forecasts",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46D1DE:0-sk-hynix-q3-profit-jumps-more-than-7-fold-beats-forecasts/",
+   "published_utc": "2026-10-27T23:50:21+00:00",
+   "title_original": "SK Hynix Q3 profit jumps more than 7-fold, beats forecasts",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "7d7fd9252cd65e28"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "SK Hynix: To Buy Back Additional KRW20T of Shares",
+   "url": "https://www.tradingview.com/news/DJN_DN20261027013462_20261027013511:0-sk-hynix-to-buy-back-additional-krw20t-of-shares/",
+   "published_utc": "2026-10-27T23:50:00+00:00",
+   "title_original": "SK Hynix: To Buy Back Additional KRW20T of Shares",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3a82312455adedaa"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "SK Hynix: To Pay More Than KRW30B in Dividends",
+   "url": "https://www.tradingview.com/news/DJN_DN20261027013462_20261027013510:0-sk-hynix-to-pay-more-than-krw30b-in-dividends/",
+   "published_utc": "2026-10-27T23:49:00+00:00",
+   "title_original": "SK Hynix: To Pay More Than KRW30B in Dividends",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b5b3e1951e41f601"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK Hynix Q3 profit beats expectations, vows $75 bln in shareholders returns",
+   "url": "https://www.investing.com/news/earnings/sk-hynix-q3-profit-beats-expectations-vows-75-bln-in-shareholders-returns-4977255",
+   "published_utc": "2026-10-27T23:48:28+00:00",
+   "title_original": "SK Hynix Q3 profit beats expectations, vows $75 bln in shareholders returns",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3676082d58f075ea"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -359,6 +461,57 @@
    "live_wire": false,
    "manual": false,
    "id": "4f4932983b8ed1bd"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "SK Hynix Expects 2026 Shareholder Returns to Total KRW100T, Including Completed KRW40T Buyback",
+   "url": "https://www.tradingview.com/news/DJN_DN20261027013462_20261027013509:0-sk-hynix-expects-2026-shareholder-returns-to-total-krw100t-including-completed-krw40t-buyback/",
+   "published_utc": "2026-10-27T23:48:00+00:00",
+   "title_original": "SK Hynix Expects 2026 Shareholder Returns to Total KRW100T, Including Completed KRW40T Buyback",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "38e72f10275ab4d3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "SK hynix Inc. Q3 Revenue ₩104.6T, Op Profit ₩83.3T",
+   "url": "https://www.tradingview.com/news/tradingview:64588adaf634d:0-sk-hynix-inc-q3-revenue-104-6t-op-profit-83-3t/",
+   "published_utc": "2026-10-27T23:45:00+00:00",
+   "title_original": "SK hynix Inc. Q3 Revenue ₩104.6T, Op Profit ₩83.3T",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f3f4ba5d59ef61d8"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "PR Newswire",
+   "title_en": "SK hynix Announces 3Q26 Financial Results",
+   "url": "https://www.tradingview.com/news/prnewswire:10159c85e082e:0-sk-hynix-announces-3q26-financial-results/",
+   "published_utc": "2026-10-27T23:45:00+00:00",
+   "title_original": "SK hynix Announces 3Q26 Financial Results",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "085af378b3a6fff0"
   },
   {
    "source_id": "tradingview_live",
@@ -979,8 +1132,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -995,7 +1148,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "tradingview_live",
@@ -1066,74 +1219,6 @@
    "id": "b2b96ae414eeff4e"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Hainan Airport Infrastructure Q3 Net Loss At 132.6 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D0XH:0-hainan-airport-infrastructure-q3-net-loss-at-132-6-million-yuan/",
-   "published_utc": "2026-10-27T10:33:12+00:00",
-   "title_original": "Hainan Airport Infrastructure Q3 Net Loss At 132.6 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "da0b8347a46d8a96"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Digital Core REIT Announces Pricing Of JPY 5 Bln 3.47% Fixed Rate Notes Due 2031",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46C2JG:0-digital-core-reit-announces-pricing-of-jpy-5-bln-3-47-fixed-rate-notes-due-2031/",
-   "published_utc": "2026-10-27T10:25:40+00:00",
-   "title_original": "Digital Core REIT Announces Pricing Of JPY 5 Bln 3.47% Fixed Rate Notes Due 2031",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9523fc40bb39a076"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 199.71, Implies 37% Upside",
-   "url": "https://www.tradingview.com/news/tradingview:de00e4a0dc735:0-wuxi-apptec-co-ltd-class-a-stock-12-month-price-target-raised-to-cny-199-71-implies-37-upside/",
-   "published_utc": "2026-10-27T10:20:00+00:00",
-   "title_original": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 199.71, Implies 37% Upside",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e83571c133921c20"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Sustained Recovery for China Equities May Require Stronger Stimulus — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261027002737:0-sustained-recovery-for-china-equities-may-require-stronger-stimulus-market-talk/",
-   "published_utc": "2026-10-27T10:19:00+00:00",
-   "title_original": "Sustained Recovery for China Equities May Require Stronger Stimulus — Market Talk",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "99ee18ae8991584b"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "What role does the Bank of Japan branch play? \"Bank of Japan Nagasaki Branch\" Branch Manager talks about the challenges and future of Nagasaki's economy (Nagasaki) (Nagasaki International Television)",
@@ -1185,57 +1270,6 @@
    "id": "11ea739be45b9a29"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Meiko Electronics - Announcement Of Execution Of A Basic Agreement Regarding Acquisition Of Shares Of Unimicron Japan, A Unimicron Technology Subsidiary",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46D0CL:0-meiko-electronics-announcement-of-execution-of-a-basic-agreement-regarding-acquisition-of-shares-of-unimicron-japan-a-unimicron-technology-subsidiary/",
-   "published_utc": "2026-10-27T10:07:21+00:00",
-   "title_original": "Meiko Electronics - Announcement Of Execution Of A Basic Agreement Regarding Acquisition Of Shares Of Unimicron Japan, A Unimicron Technology Subsidiary",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "880c98af32352f56"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Huons Global To Acquire Real Estate Worth 244.5 Billion Won",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46D0S2:0-huons-global-to-acquire-real-estate-worth-244-5-billion-won/",
-   "published_utc": "2026-10-27T10:03:50+00:00",
-   "title_original": "Huons Global To Acquire Real Estate Worth 244.5 Billion Won",
-   "region": "korea",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1128312e13781987"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Xinjiang Daqo New Energy Q3 Net Loss At 410.9 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D0TI:0-xinjiang-daqo-new-energy-q3-net-loss-at-410-9-million-yuan/",
-   "published_utc": "2026-10-27T09:56:32+00:00",
-   "title_original": "Xinjiang Daqo New Energy Q3 Net Loss At 410.9 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "27c1ded8cdeee0bc"
-  },
-  {
    "source_id": "focus_taiwan",
    "source_name": "Focus Taiwan (CNA)",
    "title_en": "Foreign fund outflows send Taiwan dollar sharply lower: Central bank",
@@ -1252,23 +1286,6 @@
    "live_wire": false,
    "manual": false,
    "id": "10451872bb9d3c08"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "China National Nuclear Power: Nine-month profit fell sharply amid tariff and cost pressures, despite stronger operating cash flow",
-   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4098719:0-china-national-nuclear-power-nine-month-profit-fell-sharply-amid-tariff-and-cost-pressures-despite-stronger-operating-cash-flow/",
-   "published_utc": "2026-10-27T09:39:31+00:00",
-   "title_original": "China National Nuclear Power: Nine-month profit fell sharply amid tariff and cost pressures, despite stronger operating cash flow",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3ec3bd038ae526a3"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51857,24 +51874,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5b227560d96b2c22"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "mk.co.kr",
-   "title_en": "Even if the won/dollar exchange rate surges, the negative impact on household consumption is limited..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fZ09EMHRSc3p3YnVMQzNxRmhGZkV1Rm4tbDVVT0liU0lkcnUzT1ZXa0FDelJJdTY1YmRhcXhzWnRmckZQVUNBbGVIS1YxelhNOWc?oc=5",
-   "published_utc": "2026-10-01T04:29:38+00:00",
-   "title_original": "Even if the won/dollar exchange rate surges, the negative impact on household consumption is limited..",
-   "region": "korea",
-   "topics": [
-    "fx",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "71adc8479a6428da"
   },
   {
    "source_id": "manual_ia",
