@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T20:02:43.963696+00:00
+Última coleta: 2026-10-27T20:12:45.611254+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          953
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Today's Japan-German summit meeting to confirm supply chain strengthening, etc.
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 202.63, Implies 39% Upside
   - [korea] SK Hynix Stock Jumps as Massive Payout Rumors Swirl
   - [taiwan] TSMC Gets Fresh Pricing Power From AI Chip Boom
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Xinjiang Daqo New Energy Q3 Net Loss At 410.9 Million Yuan
   - [taiwan] Foreign fund outflows send Taiwan dollar sharply lower: Central bank
   - [china] China National Nuclear Power: Nine-month profit fell sharply amid tariff and cost pressures, despite stronger 
-  - [china] China's Solar Tech Curbs Put India's Manufacturing Push At Risk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T20:02:44+00:00",
+      "published_utc": "2026-10-27T20:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
