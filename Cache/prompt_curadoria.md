@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T09:12:42.875183+00:00
+Última coleta: 2026-10-27T09:22:42.730269+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          961
-  🇨🇳 China          847
+  🇯🇵 Japão          958
+  🇨🇳 China          849
   🇹🇼 Taiwan         379
-  🇰🇷 Coreia do Sul  813
+  🇰🇷 Coreia do Sul  814
 
 ## O que já está no feed (não repita)
 
+  - [china] China's October PMI Readings Likely to Reflect Seasonal Weakness — Market Talk
+  - [china] Chinese Universe Publishing And Media Group's Unit Signs 1.7 Billion Yuan Textbook Supply Contract
+  - [china] Shanghai Electric Wind Power Group Q3 Net Loss At 321.8 Million Yuan
   - [china] How This U.S. Agency Works to Beat China at Building Energy and Mineral Supply Chains — Barrons.com
   - [china] Sichuan Development Lomon Q3 Net Loss At 402.2 Million Yuan
   - [korea] South Korea's economy grew 1.0 percent in the third quarter on strong semiconductor exports and faci..
@@ -49,14 +52,11 @@ Total: 3000 manchetes
   - [korea] Four years on, Lee Jae-yong steers Samsung from chip slump to AI boom
   - [korea] Chip boom drives Korea's surprise 1% GDP growth in Q3
   - [korea] While the Korean economy grew by surprise in the third quarter of this year on the back of semicondu..
+  - [china] Beijing pushes digital yuan adoption with university salary payments
   - [taiwan] PSMC capacity crunch holds back Jeju Semiconductor's growth
   - [korea] Korea should save chip boom windfall for downturns: IDB economist
   - [japan] Mr. Kuroda supports interest rate hike policy, Mr. Wakatabe is cautious. Former Bank of Japan leaders write on
   - [china] The central bank's reverse repurchase net investment today was 1.014 billion yuan, and the China Development B
-  - [korea] SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview
-  - [japan] Japan stands ready to take decisive action in currency market, finance minister says
-  - [china] The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, ha
-  - [japan] CPI excluding special factors accelerates rapidly in September, perhaps supporting Bank of Japan's 2% trend (R
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T09:12:43+00:00",
+      "published_utc": "2026-10-27T09:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T09:12:42.875183+00:00",
- "collected_at_utc": "2026-10-27T09:12:42.875183+00:00",
+ "generated_at_utc": "2026-10-27T09:22:42.730269+00:00",
+ "collected_at_utc": "2026-10-27T09:22:42.730269+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 961,
-  "china": 847,
+  "japan": 958,
+  "china": 849,
   "taiwan": 379,
-  "korea": 813
+  "korea": 814
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:56:00+00:00"
+   "newest": "2026-10-24T01:44:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T08:53:56+00:00"
+   "newest": "2026-10-27T09:14:21+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T08:20:07+00:00"
+   "newest": "2026-10-27T09:12:35+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:44:57+00:00"
+   "newest": "2026-10-27T07:22:40+00:00"
   },
   {
    "source_id": "ked_global",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 27,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T09:12:12+00:00"
+   "newest": "2026-10-27T09:21:20+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T05:42:11+00:00"
+   "newest": "2026-10-26T23:20:33+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:43:25+00:00"
+   "newest": "2026-10-27T08:49:05+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "China's October PMI Readings Likely to Reflect Seasonal Weakness — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261027001966:0-china-s-october-pmi-readings-likely-to-reflect-seasonal-weakness-market-talk/",
+   "published_utc": "2026-10-27T09:14:00+00:00",
+   "title_original": "China's October PMI Readings Likely to Reflect Seasonal Weakness — Market Talk",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0af08a64d3c9e7b3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Chinese Universe Publishing And Media Group's Unit Signs 1.7 Billion Yuan Textbook Supply Contract",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D0QP:0-chinese-universe-publishing-and-media-group-s-unit-signs-1-7-billion-yuan-textbook-supply-contract/",
+   "published_utc": "2026-10-27T09:13:51+00:00",
+   "title_original": "Chinese Universe Publishing And Media Group's Unit Signs 1.7 Billion Yuan Textbook Supply Contract",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2eb76d51297fad90"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Shanghai Electric Wind Power Group Q3 Net Loss At 321.8 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D0QM:0-shanghai-electric-wind-power-group-q3-net-loss-at-321-8-million-yuan/",
+   "published_utc": "2026-10-27T09:11:46+00:00",
+   "title_original": "Shanghai Electric Wind Power Group Q3 Net Loss At 321.8 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2c180462b1c90134"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -898,6 +949,23 @@
    "id": "6c9c3b8bb96efe5a"
   },
   {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Beijing pushes digital yuan adoption with university salary payments",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVE1RVVlqa2pKbnFTeUZZWTFnMWJYUHE5SmdCRjJrTTkxZDF4TlVETmxrU1NWcVRfYjNPQlFWVTB2WktzSGNxQ1VpMmhfLTBYM0hMcnF6WlRQdUVvR042R3hqbGtGU2U2c1lmU2ZKMllsb0ZVaFdWSV9ObUtGZUE0eEtXaGJLT3AyVDFQU0RxSk5zdjZKUkZTdjk3djFPRFRIWUxYR3ZudDJUS1Fxd3hDekRBX2dLcGvSAbcBQVVfeXFMTzE2MWlqSTRSdUpvUy1sbV9KS0FvSEpRQnlXclZBSnFOYS1zZ0E4QmFkdDltamw5ellIYm5OV0l6NDJ0aUVGMDQwa3BlS29aMDNEUWNuV1VnNUFhelhSRkRhWnNFeHNOUXFCeUgyb3hSTnhqN0oxejhSZmhfVTFBeUZHa21ONmM3dXo0X0pKRFhETS1rUEk5b09ZcEhTS1pqdEVqdFF4c3ltWXhKTWZhR0VpZHBzUG9n?oc=5",
+   "published_utc": "2026-10-27T06:03:05+00:00",
+   "title_original": "Beijing pushes digital yuan adoption with university salary payments",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8834d09fb70726f7"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "PSMC capacity crunch holds back Jeju Semiconductor's growth",
@@ -1243,6 +1311,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6aa768b4672e23c9"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "When Samsung Electronics was fined a provisional 20 billion won by the Fair Trade Commission over th..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OS2JFT3ZrdjNIRVpqR1dlWHNzWXFpWjlFdVVOcEZhbkZKaHItWW4zRzl6VGNRbWw5TWRpN2daaHNMb3ltU3lObG9NeGNBdnM?oc=5",
+   "published_utc": "2026-10-27T04:25:28+00:00",
+   "title_original": "When Samsung Electronics was fined a provisional 20 billion won by the Fair Trade Commission over th..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fe440bd2238c5da6"
   },
   {
    "source_id": "tradingview_live",
@@ -1693,24 +1778,6 @@
    "id": "37019cae5164e668"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Yen slips ahead of central bank bonanza, dollar firms on tech rebound",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46D017:0-yen-slips-ahead-of-central-bank-bonanza-dollar-firms-on-tech-rebound/",
-   "published_utc": "2026-10-27T02:09:58+00:00",
-   "title_original": "Yen slips ahead of central bank bonanza, dollar firms on tech rebound",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fd377025bb0f03e9"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Anthropic's IPO filing puts TSMC, HBM, direct leasing at the center of AI compute risk",
@@ -1847,40 +1914,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c7772dd28b7e8d3d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "China Industrial Profits Rise 14.4%, Fastest Growth in Three Months",
-   "url": "https://www.tradingview.com/news/binance_news:1f31e3c0f094b:0-china-industrial-profits-rise-14-4-fastest-growth-in-three-months/",
-   "published_utc": "2026-10-27T01:43:07+00:00",
-   "title_original": "China Industrial Profits Rise 14.4%, Fastest Growth in Three Months",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b2aa5109f8f60308"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY412 BLN VIA 7-DAY REVERSE REPO TUES",
-   "url": "https://www.tradingview.com/news/dpa_afx:0d11287194e56:0-china-pboc-conducts-cny412-bln-via-7-day-reverse-repo-tues/",
-   "published_utc": "2026-10-27T01:43:00+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY412 BLN VIA 7-DAY REVERSE REPO TUES",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "40f1fc1a2e541d2c"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -3267,6 +3300,23 @@
   {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
+   "title_en": "Why Xi Is Using China’s Fifth Plenum to Tighten Party Control",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFlTcEswcWctMHdHZEx2NThLdFlkcDR2N0ZXRVlJWVF4djFmMjBocnV1OEFYb2wyRXZ5NDB6Z2VVdFFIMkVVUl8yYUl3QWFhR0luUnlVdDlGLXl3MUZZaWhUSjgyLUNIY3FiUmtnbTA2TVNaakxyLU1zSGZRQnRVbmFXRHBDajNoTEdia0duRmZ3VFUza0hod1BLQXhJQVQ4MWkzdEpONGh2VmNpdjhjY21EbUoyek1tTGtjdF9QaXpYWVdiSWZOTA?oc=5",
+   "published_utc": "2026-10-26T07:43:08+00:00",
+   "title_original": "Why Xi Is Using China’s Fifth Plenum to Tighten Party Control",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "266223d270130fa2"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Yen Haven Revived as Euro-Yen Bears Eye Move Below 175, BI Says",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTZXdDVleEhfRGJhdllReVo0UTJyQk1nMUlSNE5wRHV1aGs5cTN3LVJJY1NMOHRROGtSQmYtbUVGY2VOUWs5SnpzS0pBdUtiMWdXWXFoak9EeG14THRVc3Rrb1RUYU1GMERVUVBscHlLZ1ExRmp1X0dWbm15VC0xaG1fM09TMWp1ZFQxM0NCSUczUVVFaHBOTk0xRzNrX3otaHlFaldyUXl5U0dscWxKT2RyQQ?oc=5",
    "published_utc": "2026-10-26T07:28:18+00:00",
@@ -3711,9 +3761,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -3725,7 +3775,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "2b972d8c6ac9362b"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3935,24 +3985,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4317,23 +4349,6 @@
    "id": "abb99736a46b6274"
   },
   {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Why Xi Is Using China’s Fifth Plenum to Tighten Party Control",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFlTcEswcWctMHdHZEx2NThLdFlkcDR2N0ZXRVlJWVF4djFmMjBocnV1OEFYb2wyRXZ5NDB6Z2VVdFFIMkVVUl8yYUl3QWFhR0luUnlVdDlGLXl3MUZZaWhUSjgyLUNIY3FiUmtnbTA2TVNaakxyLU1zSGZRQnRVbmFXRHBDajNoTEdia0duRmZ3VFUza0hod1BLQXhJQVQ4MWkzdEpONGh2VmNpdjhjY21EbUoyek1tTGtjdF9QaXpYWVdiSWZOTA?oc=5",
-   "published_utc": "2026-10-25T22:32:34+00:00",
-   "title_original": "Why Xi Is Using China’s Fifth Plenum to Tighten Party Control",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "266223d270130fa2"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "Why aren't wages going up in Japan? The reason why the price increase rate is \"companies > consumers\" (weekly pre-NEWS)",
@@ -4557,6 +4572,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -5697,24 +5730,6 @@
    "id": "c0606821eacd5484"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
-   "published_utc": "2026-10-23T12:38:12+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d3a519ddfcdc2da"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -5730,6 +5745,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
+   "published_utc": "2026-10-23T12:32:55+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -8108,6 +8141,23 @@
    "id": "6c4c3afc2afea619"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com Nigeria",
+   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3czTU9vU0R1MUs1S2U5UmdQX2s5THdMSnppZVpzbkMxQzJfX0JyY1o2MHVpX1h3b2ZzREhWZ0VEeEw0YTVIOFp4X19oWjlFYWJpaFhYMmItTUpFYU83bllCWjZDSXd2RlR6U3hoOHVxOFNJbGJybkNUVHFPTEZrRWVvNm02Z0E0c09oY3V2c3VHejJ1UEFRX3BxRUZtMDRUdnNGbTFB?oc=5",
+   "published_utc": "2026-10-22T21:09:57+00:00",
+   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "099657ed920ba39c"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "China reduces export incentives for new energy vehicles, lowers value-added tax refund rate to 9%, considering trade friction with Europe and the US | Business | Toyo Keizai Online",
@@ -8123,23 +8173,6 @@
    "live_wire": false,
    "manual": false,
    "id": "abda22d11ccbdbdf"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com UK",
-   "title_en": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmhJMkZNNjM5TkpjNnVnME9DWHc1Wkhoa0NqX1A5bWR3bHh3aURpTGRDbjVia3V1QXlBSG5mNFpONmdUbXBoT0huYUFlXzdHX2RsXzVMakw4aE5ZMXRiblB2UWdnb3d4WUN5aDkxLVdMMHdPREctRG85MkdhUFJKbTRlUk83WHdCaE0zU0VKaEVma3N6QXh4ZlA2MU5iUUpFYVp5TkRBM0hrQQ?oc=5",
-   "published_utc": "2026-10-22T20:54:00+00:00",
-   "title_original": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9b95392a85fcfbe5"
   },
   {
    "source_id": "investing_fx",
@@ -22101,23 +22134,6 @@
    "id": "5550786906e36fe3"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83cG1rU3ZZMV9uU2oxaGhfdjlkdmdPX3F4eWhNendhY3YtamtBN1lFTWFZeDl6MUdoa1FOelh0OFlfSTVMNlRSWU1BSDVSMTJ6cjBEeVVGQW1HQQ?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5ed3d10817c389f2"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
@@ -22133,6 +22149,23 @@
    "live_wire": false,
    "manual": false,
    "id": "912c3fdcf5b7083e"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83cG1rU3ZZMV9uU2oxaGhfdjlkdmdPX3F4eWhNendhY3YtamtBN1lFTWFZeDl6MUdoa1FOelh0OFlfSTVMNlRSWU1BSDVSMTJ6cjBEeVVGQW1HQQ?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5ed3d10817c389f2"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51851,43 +51884,6 @@
    "live_wire": false,
    "manual": false,
    "id": "8d8f29f602c56cb8"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Breaking News] Bank of Japan Tankan: Large corporate manufacturing industry improves for 6th consecutive quarter, non-manufacturing industry worsens for the first time in 5 quarters, outlook worsens across the board (TV Asahi Network (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UV0NOWkdaN0JlUHdtQW9meVI3RGp6Slg4ODZLREkwdG1EZ0M3YnJBQzBUQjRNN2VjbnlIUzkyRVp4WEIwbVdpaHlJNHhqdG9qMFZFbzN0ZlAyWDJleXdxNVVFOTdudEd5cExjWW40V3ZNUHNxdWdTcFVIaWxWTlk?oc=5",
-   "published_utc": "2026-10-01T00:14:34+00:00",
-   "title_original": "【速報】日銀短観 大企業製造業6期連続改善 非製造業5期ぶり悪化 先行きは軒並み悪化（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "16f2a162dd1f9088"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
-   "title_en": "Bank of Japan September meeting: If there are signs of an upward trend in prices, the pace of interest rate hikes may accelerate - Main opinion (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oLXMyazBjRFVHTXdDcmxjTDdQRGtlYTFyVDA1SjBIc1d2YU5JeXR5R01qOWQwa1dKa1BGSE9PYTlyakNHcFdDeXBDOXNJdzliVjdSd3JrcVBrNS1kTUFhb0kxVlB3VzBJazBSdVVzZnk2OUZ3WlRSY3I1Mzc0WEU?oc=5",
-   "published_utc": "2026-10-01T00:13:48+00:00",
-   "title_original": "日銀9月会合、物価上振れ兆候なら利上げペース加速も－主な意見（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d8d35d4ef32b9699"
   },
   {
    "source_id": "manual_ia",
