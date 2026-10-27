@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T05:32:43.116546+00:00
+Última coleta: 2026-10-27T05:42:43.652251+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          979
-  🇨🇳 China          843
+  🇨🇳 China          842
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  803
+  🇰🇷 Coreia do Sul  804
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview
+  - [japan] Japan stands ready to take decisive action in currency market, finance minister says
   - [taiwan] Taiwan central bank sees strong tech demand driving exports into 2027
   - [china] China 5-Year Yield Hits Record Low on PBOC’s Cash Injection
   - [japan] Yen eases on risk-on mood ahead of central bank bonanza
@@ -25,7 +27,6 @@ Total: 3000 manchetes
   - [japan] Yen eases on risk-on mood ahead of central bank bonanza By Reuters
   - [japan] Cybersecurity - Rising risks, ``threat to the financial system'' - Bank of Japan board member (Reuters)
   - [taiwan] Inflation intensifies in Philippines, nearly a quarter of households go hungry
-  - [japan] Japan stands ready to take decisive action in currency market, finance minister says
   - [korea] South Korean Won Extends Gains on Dollar Selling
   - [japan] BREAKING NEWS: Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs: PM
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 198.49, Implies 36% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] With semiconductor market leader Samsung Electronics and SK Hynix announcing their third-quarter ear..
   - [china] On October 27, the central bank launched a 412 billion yuan 7-day reverse repurchase operation.
   - [japan] Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks
-  - [china] China Industrial Profits Rise 14.4%, Fastest Growth in Three Months
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T05:32:43+00:00",
+      "published_utc": "2026-10-27T05:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
