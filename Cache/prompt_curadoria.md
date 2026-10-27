@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T13:12:45.737499+00:00
+Última coleta: 2026-10-27T13:22:41.787280+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          962
-  🇨🇳 China          853
+  🇯🇵 Japão          961
+  🇨🇳 China          854
   🇹🇼 Taiwan         378
   🇰🇷 Coreia do Sul  807
 
 ## O que já está no feed (não repita)
 
+  - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 200.32, Implies 37% Upside
   - [japan] Opinion of the expert panel regarding the three security documents, “Tax increases are not excluded as an opti
   - [korea] S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast
   - [taiwan] Cathie Wood Trims AMD and TSMC, Adds Air Taxi Bets
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Shandong Hi-tech Spring Material Technology's Unit To Invest Up To 630 Million Yuan In Project
   - [china] Shanxi Meijin Energy Q3 Net Loss At 418.9 Million Yuan
   - [taiwan] Taiwan shares edge up as TSMC bounces back
-  - [china] If AI spending slows down, South Korea's central bank warns chip exports could drop by US$100 billion | Intern
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T13:12:45+00:00",
+      "published_utc": "2026-10-27T13:22:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T13:12:45.737499+00:00",
- "collected_at_utc": "2026-10-27T13:12:45.737499+00:00",
+ "generated_at_utc": "2026-10-27T13:22:41.787280+00:00",
+ "collected_at_utc": "2026-10-27T13:22:41.787280+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 962,
-  "china": 853,
+  "japan": 961,
+  "china": 854,
   "taiwan": 378,
   "korea": 807
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T09:01:32+00:00"
+   "newest": "2026-10-24T01:44:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T12:53:04+00:00"
+   "newest": "2026-10-27T13:16:03+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T12:30:39+00:00"
+   "newest": "2026-10-27T12:54:28+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T12:29:50+00:00"
+   "newest": "2026-10-27T13:00:12+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T13:11:01+00:00"
+   "newest": "2026-10-27T13:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:43:25+00:00"
+   "newest": "2026-10-27T09:25:37+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 200.32, Implies 37% Upside",
+   "url": "https://www.tradingview.com/news/tradingview:de00e4a0dc735:0-wuxi-apptec-co-ltd-class-a-stock-12-month-price-target-raised-to-cny-200-32-implies-37-upside/",
+   "published_utc": "2026-10-27T13:20:00+00:00",
+   "title_original": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 200.32, Implies 37% Upside",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "67cfbb6a3694a2f0"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -1238,23 +1255,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e30e9ebf6c3a551c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan life insurers offer mixed view of JGBs as foreign bond selling persists",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D04W:0-japan-life-insurers-offer-mixed-view-of-jgbs-as-foreign-bond-selling-persists/",
-   "published_utc": "2026-10-27T07:22:46+00:00",
-   "title_original": "Japan life insurers offer mixed view of JGBs as foreign bond selling persists",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "50a7cb118a497d48"
   },
   {
    "source_id": "gn_jp_investing",
@@ -9384,6 +9384,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaVlGcjZfUlBESnYxelFndUgybDRWQkpQeW40eHBwNTlYMHh4TnJUY1J2S19kZElIeGd1ajlQcWQ5VHhROXJvX1NXdWFEa1l4Qmc?oc=5",
+   "published_utc": "2026-10-22T07:47:42+00:00",
+   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e77a77dfde09eac"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "CEO스코어데일리",
    "title_en": "Bank of Korea, ‘taking a breather’ with base interest rate... Shin Hyun-song, “The past two rounds of ‘homing’ have paid off”",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04SVpMTHBuOGc3SjVsdHhQM0ZHd2Y2TkNOWmcwbjhlQTZoV1NHRzloOHBOZ0ZxTUtwM2YtbDFsVVB0UmV5dFZwdXkzWmxkZDdhR3FreDJBeXJpUjdva1dBVWc1c3dXcUZC?oc=5",
@@ -9432,23 +9449,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dbed6b67f81300ac"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제TV",
-   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSHlwMkhTa2dtZkZvdUZwSVI1Tk03OEhwNFJTdDk4OERWLXFhX19pSXdlbXZXX1pXb09EcU1rZncxR2pBaE1IbU1vTF9YUlhNelpvS2MxODJlM0ZFemZlMFlWZ3JpT2F0?oc=5",
-   "published_utc": "2026-10-22T07:29:00+00:00",
-   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bfd94abb0650cc0d"
   },
   {
    "source_id": "gn_kr_yonhap",
