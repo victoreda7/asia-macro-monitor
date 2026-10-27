@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T00:02:42.837863+00:00",
- "collected_at_utc": "2026-10-27T00:02:42.837863+00:00",
+ "generated_at_utc": "2026-10-27T00:12:43.690932+00:00",
+ "collected_at_utc": "2026-10-27T00:12:43.690932+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 983,
-  "china": 847,
+  "china": 846,
   "taiwan": 375,
-  "korea": 795
+  "korea": 796
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T19:02:00+00:00"
+   "newest": "2026-10-26T16:41:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T23:42:24+00:00"
+   "newest": "2026-10-27T00:04:29+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-26T23:25:00+00:00"
+   "newest": "2026-10-27T00:00:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-26T07:05:52+00:00"
+   "newest": "2026-10-27T00:09:40+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T16:19:47+00:00"
+   "newest": "2026-10-26T15:35:43+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T00:01:00+00:00"
+   "newest": "2026-10-27T00:12:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,63 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-26T12:19:40+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "JAPAN SEPT SERVICES PPI +0.3% M/M: AUG +0.1%",
+   "url": "https://www.tradingview.com/news/dpa_afx:b62b41a3e2026:0-japan-sept-services-ppi-0-3-m-m-aug-0-1/",
+   "published_utc": "2026-10-27T00:12:08+00:00",
+   "title_original": "JAPAN SEPT SERVICES PPI +0.3% M/M: AUG +0.1%",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "58d6cc65619e2aa7"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "S. Korea's GDP expands 1% in Q3 on strong exports, investment: BOK",
+   "url": "https://www.koreaherald.com/article/10915627",
+   "published_utc": "2026-10-27T00:09:40+00:00",
+   "title_original": "S. Korea's GDP expands 1% in Q3 on strong exports, investment: BOK",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "activity",
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cec1a53489053418"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "MNI: JAPAN SEPT SERVICES PPI +3.7% Y/Y; AUG +3.5%",
+   "url": "https://www.tradingview.com/news/dpa_afx:901b927042b81:0-mni-japan-sept-services-ppi-3-7-y-y-aug-3-5/",
+   "published_utc": "2026-10-27T00:05:58+00:00",
+   "title_original": "MNI: JAPAN SEPT SERVICES PPI +3.7% Y/Y; AUG +3.5%",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "74eaf0daa7df1787"
+  },
   {
    "source_id": "boj_whatsnew",
    "source_name": "BOJ What's New (EN)",
@@ -1947,7 +2000,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 billion yuan of MLF expires.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95Z19yZUlkamFRWjlmcjNXYVJmUXVhbWczbEsyS1lWVnlDYVdVZWt6N0FqaGUxQjlocWlwN3lZM1gtOXphQmNEdGJScWNGdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14YnZJVThIRTl5M240ZE54VWVlVEh5ZTZob2hTdTE1c3ltUTdzdXA3MEZUUGd4eWo4SHRrbnRCZmJZOWxlRTdsbWFsc1RCNWk5VHBYV0hZNi1YelowbHpVQnh3?oc=5",
    "published_utc": "2026-10-26T02:57:10+00:00",
    "title_original": "本周央行公开市场逆回购到期3380亿元 周二9000亿元MLF到期",
    "region": "china",
@@ -1959,7 +2012,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e21ee44288074ab5"
+   "id": "50b41cccc95aaa06"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -5359,8 +5412,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -5374,7 +5427,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a1aa424a8381650f"
+   "id": "9f7d07c9dd0602ca"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5445,8 +5498,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -5459,7 +5512,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -7692,6 +7745,25 @@
    "id": "951d8323bfbea52c"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "시사뉴스",
+   "title_en": "The Bank of Korea keeps a close eye on inflation and housing prices and freezes the base interest rate at 3% per year after raising it for two consecutive months.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IbHNEeWM4bWxfNXBQdDFVeThaTXBQbkZGb3hiZEJDZDZnNXJ0UWQySWtnNlR1Vl84aGVoUXhWTnZpRXFtTWx2dzNZcWROVmM2T2hTT1JXaFpzOTV1bmszOWJFUQ?oc=5",
+   "published_utc": "2026-10-22T04:26:27+00:00",
+   "title_original": "한국은행, 물가와 집값 등 예의주시하며 기준금리 두달 연속 인상 후 연 3%로 동결",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "property"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e7681f0c0cef03de"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Nvidia taps Korean component makers for AI chips, robots",
@@ -8191,23 +8263,6 @@
    "live_wire": false,
    "manual": false,
    "id": "12206617541a6d3b"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "대한데일리",
-   "title_en": "Bank of Korea freezes base interest rate... 'Loan and stock market keen' due to November hike",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Qd2otTi1xVW03ek5PM1VERlF6MlF6V0ZyZ0o0XzhKOC1YSmluYi15aDBfYU5qcjREaEI2X285Nm9pb0Q3Q3pJLVZ2T0JCTWVWT1ZLY0VrRmJwVG9qNFphMXVnb205Z1ktdHFF?oc=5",
-   "published_utc": "2026-10-22T02:25:31+00:00",
-   "title_original": "한국은행, 기준금리 동결…11월 인상 기로 '대출·증시 촉각'",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8c272479d207931e"
   },
   {
    "source_id": "gn_jp_investing",
@@ -13175,7 +13230,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "同花顺财经",
+   "source_name": "同花顺",
    "title_en": "The central bank will launch overnight reverse repos with a daily limit of 1 trillion from tomorrow",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1bUlWbk81QVNIdjBWdl9xLWR5Z3dpcng2TG9DTjZRRFlBanZvSmh1NnF4RllUZ2FWZEU1OFRkdlRfQ0g1OGtNX0laQ3JaU1NGYXF3eWFjOXBBZlliYVE?oc=5",
    "published_utc": "2026-10-20T05:21:26+00:00",
@@ -20247,23 +20302,6 @@
    "id": "5550786906e36fe3"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVZEVDBJNlRHakU2ZHUxSnZHSWRGN05qSXlmWjRmY1VhMjdRWlZUVUhqQnA0ZVFMVGNsZ3ZLSWh0TGZMTG1HR0UwTGhzVzVFanFXc3FJUDd5UE5oM3dja0owU0xQLXNmQWRIQ1BwdE14R0J1aFMtUGIxM2JLZ090SmloelgtWlh6YkFRYUUwZ2dGZEE?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "912c3fdcf5b7083e"
-  },
-  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
@@ -20279,6 +20317,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5ed3d10817c389f2"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVZEVDBJNlRHakU2ZHUxSnZHSWRGN05qSXlmWjRmY1VhMjdRWlZUVUhqQnA0ZVFMVGNsZ3ZLSWh0TGZMTG1HR0UwTGhzVzVFanFXc3FJUDd5UE5oM3dja0owU0xQLXNmQWRIQ1BwdE14R0J1aFMtUGIxM2JLZ090SmloelgtWlh6YkFRYUUwZ2dGZEE?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "title_original": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "912c3fdcf5b7083e"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51860,57 +51915,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3434955d84a1f1e9"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Asia stocks gain ahead of U.S. PCE inflation; regional data in focus",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYXlMTGlZNGp2b1VacnJiTldZMXdtLWVUaXVIQncwMkxFeDZ1N3lKQURqcTlNZWtranVHeHFaWGJZUDNHelFfR3RWX0QxOThWMzFWNW5WTzBfNFVVQWZUaW1lUThvMFlmVWlNV3JicEhtbmFxQnRZWHNoWWxraUhrejFXc2hLTjI2U0hkNGRFNTZ4VmRPSVk5blpkbXFVQXNmNVVNS05weU5TZEstd0VhRll2SFJRUjVFWUlIY1pCOTc?oc=5",
-   "published_utc": "2026-09-30T07:31:11+00:00",
-   "title_original": "Asia stocks gain ahead of U.S. PCE inflation; regional data in focus",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "098bc4deead86d1f"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "China Must Shift Focus to Consumption to Overcome Economic Bottlenecks, Economists Say",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT1RyTUZjZ3FlR2xkTVVxamhxTGNYUU9Wei1yaXJuZG9SelBSSDBESGdsTU40STFsa1FvLUF6Sk1IQi1IcVhDblUyUktDV2czQ2lhcDNCb1NRRWJJWWxudGVkb0JXWWI1YmY2UGNLTlRhcV9VRFEwV3VGaDNxSHVqblRpVlhxcjBKQlBVaVE4c0JWeE8zaTdrTzg3NWlycEN4UjZ3bkRjcnZCZ2NXWWtPZzRKRHd3dnlBQncyb1RvVVBSeGdmalpFemtHSWlacldjdU1wQzJ3NA?oc=5",
-   "published_utc": "2026-09-30T07:22:00+00:00",
-   "title_original": "China Must Shift Focus to Consumption to Overcome Economic Bottlenecks, Economists Say",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "26635a3373b17a66"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Stock prices rise; concerns about corporate profits ease as crude oil futures prices trend downwards",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260930de53398",
-   "published_utc": "2026-09-30T07:21:27+00:00",
-   "title_original": "株価 値上がり 原油先物価格が下落傾向で企業収益の懸念和らぐ",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c9c6478d1a2b7a77"
   },
   {
    "source_id": "manual_ia",
