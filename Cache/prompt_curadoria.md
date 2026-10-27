@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T01:52:41.924089+00:00
+Última coleta: 2026-10-27T02:02:41.928603+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          983
+  🇯🇵 Japão          982
   🇨🇳 China          848
   🇹🇼 Taiwan         373
-  🇰🇷 Coreia do Sul  796
+  🇰🇷 Coreia do Sul  797
 
 ## O que já está no feed (não repita)
 
+  - [korea] With semiconductor market leader Samsung Electronics and SK Hynix announcing their third-quarter ear..
+  - [china] CHINA PBOC CONDUCTS CNY412 BLN VIA 7-DAY REVERSE REPO TUES
+  - [china] China Industrial Profits Grow 15.5% YoY in Jan-Sept
   - [china] CHINA PBOC CONDUCTS CNY1000 BLN VIA O/N REVERSE REPO TUES
   - [china] The central bank launched a 412 billion yuan 7-day reverse repurchase operation today
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7171 TUES VS 6.7162
@@ -36,6 +39,7 @@ Total: 3000 manchetes
   - [korea] South Korea’s Economy Beats Forecasts on AI-Driven Chip Boom
   - [japan] MNI: JAPAN SEPT SERVICES PPI +3.7% Y/Y; AUG +3.5%
   - [japan] Japan Services Producer Inflation Highest Since June 2024
+  - [china] Southeast Asia’s housing paradox: too many homes, too few buyers
   - [korea] South Korea’s AI Fund Offers ‘Fiscal Dam’ Against Higher Yields
   - [japan] Services Producer Price Index (Sept.)
   - [korea] South Korea GDP grows more than expected in Q3 on AI boost
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Chinese automakers expand manufacturing in Europe to avoid EU tariffs amid rising domestic competition: Report
   - [japan] [France at a dead end] If spending is suppressed, the people will protest, and if the financial situation wors
   - [china] MBRF meatpacking plant in Promissão has exports suspended by China
-  - [china] China halts beef imports from MBRF plant in Brazil
-  - [taiwan] AI and oil worries rattle Asian currencies from Taiwan to Philippines
-  - [korea] Samsung Electronics Stocks Decline Before 107.4 Trillion Won Profit Test
-  - [japan] U.S. IT giant Meta raises up to 15 trillion yen through stock issuance, plans for huge capital investment in A
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T01:52:42+00:00",
+      "published_utc": "2026-10-27T02:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

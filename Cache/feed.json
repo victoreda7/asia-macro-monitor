@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T01:52:41.924089+00:00",
- "collected_at_utc": "2026-10-27T01:52:41.924089+00:00",
+ "generated_at_utc": "2026-10-27T02:02:41.928603+00:00",
+ "collected_at_utc": "2026-10-27T02:02:41.928603+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 983,
+  "japan": 982,
   "china": 848,
   "taiwan": 373,
-  "korea": 796
+  "korea": 797
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T07:02:00+09:00"
+   "newest": "2026-10-27T10:57:59+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T15:35:43+00:00"
+   "newest": "2026-10-26T14:40:49+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T13:30:07+00:00"
+   "newest": "2026-10-27T00:00:24+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T01:45:51+00:00"
+   "newest": "2026-10-27T02:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T19:28:42+00:00"
+   "newest": "2026-10-26T22:28:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T01:35:21+00:00"
+   "newest": "2026-10-27T01:53:40+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "With semiconductor market leader Samsung Electronics and SK Hynix announcing their third-quarter ear..",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ba3p4dVNyWDZWSFY5SUE4a19ZOE9XR0N2UzZRZlVZSm9VeHRVOE9GXzI5bzFINzNQMDVDczJLZDJMbkxwRmNHRWN3RWlqbzA?oc=5",
+   "published_utc": "2026-10-27T01:53:40+00:00",
+   "title_original": "With semiconductor market leader Samsung Electronics and SK Hynix announcing their third-quarter ear..",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5842588dee41f8d3"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY412 BLN VIA 7-DAY REVERSE REPO TUES",
+   "url": "https://www.tradingview.com/news/dpa_afx:0d11287194e56:0-china-pboc-conducts-cny412-bln-via-7-day-reverse-repo-tues/",
+   "published_utc": "2026-10-27T01:43:00+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY412 BLN VIA 7-DAY REVERSE REPO TUES",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "40f1fc1a2e541d2c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Trading Economics",
+   "title_en": "China Industrial Profits Grow 15.5% YoY in Jan-Sept",
+   "url": "https://www.tradingview.com/news/te_news:595210:0-china-industrial-profits-grow-15-5-yoy-in-jan-sept/",
+   "published_utc": "2026-10-27T01:40:30+00:00",
+   "title_original": "China Industrial Profits Grow 15.5% YoY in Jan-Sept",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a7f16b5472ecd42a"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -669,6 +720,23 @@
    "live_wire": true,
    "manual": false,
    "id": "c1e02361f181a322"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Southeast Asia’s housing paradox: too many homes, too few buyers",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclVVbi1ocG5ZSlBJN0FRZDZqSno2U1dWN3F5Szg4d0lCOF9XNDNFUnRRZVBMZUFtUERlQldpYTZLWXg2MXliakZKY2lxVjBxWjlCOE11c1picWswVER0ZHlYdi1vNmdPMUNxSlc4VlIwSVVjbk4ySFlDYVV1ek80eGRUcklMa2Z0SGV4NEZCdmpRRDBqMGhUVzBES3hxbnFIOGNrM01xdzRySm03MDFDU1oxclJMdWxCY3fSAboBQVVfeXFMUDBfcTJ6M2FaOExFV2dUTkVsWjloZnp1a1JrQ2dYZGlpOV9LMWhrUk1WX1hCQW9fWml4V3RqcnFSS1dlYUZBRGpxWWRwdXg3S1lwR2JPSHNnNEVyRzJzMm1QV1AzZ0tQRjB5Qi15MTVHMW5NVlNBWVM1Vk5SV19WdUxlSVpjRTZSU25tQXR2bThtSWw2dUh4M2NJbDV1TU1ETFRMQ21xSzltOFR4bFBBZU5kNjIzRk1SY2R3?oc=5",
+   "published_utc": "2026-10-27T00:00:24+00:00",
+   "title_original": "Southeast Asia’s housing paradox: too many homes, too few buyers",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "33ae3c2387941428"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -5702,8 +5770,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -5717,7 +5785,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a1aa424a8381650f"
+   "id": "9f7d07c9dd0602ca"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5788,8 +5856,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -5802,7 +5870,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "a2b5d4dc1c7f6b12"
+   "id": "2ba9b3add215d811"
   },
   {
    "source_id": "nikkei_asia",
@@ -23352,6 +23420,23 @@
    "id": "f70b6cafaf408c20"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -23368,23 +23453,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -25821,6 +25889,23 @@
    "id": "6f4598c244355d82"
   },
   {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com South Africa",
+   "title_en": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0tDR2tWdzFlcUZCRHJUYU4ySVl5OXE5aTZCV09pM1Q2OXM2NXB3UU1INUtHdExQRV9RTlEtU2NFZUtST1d0bUQzXzZLNW8wS1RjQjZTZ044WEhWVDAwbjllaFFodU9EbjNpeTlERTZ1NThLb21RMkhhWjQtRUFsNzN6RWMzLUhTMmRFczVtLXRPYzRPVVQ5Z3RPV0NVVVRWeURXdTFuYmlBdk1JYlVtTE9uZw?oc=5",
+   "published_utc": "2026-10-14T13:33:34+00:00",
+   "title_original": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "721a8861261fd171"
+  },
+  {
    "source_id": "gn_cn_pboc",
    "source_name": "济南新闻",
    "title_en": "The central bank will launch a 700 billion yuan buyout reverse repurchase operation - News",
@@ -27080,23 +27165,6 @@
    "live_wire": false,
    "manual": false,
    "id": "172e77c048cae483"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com South Africa",
-   "title_en": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0tDR2tWdzFlcUZCRHJUYU4ySVl5OXE5aTZCV09pM1Q2OXM2NXB3UU1INUtHdExQRV9RTlEtU2NFZUtST1d0bUQzXzZLNW8wS1RjQjZTZ044WEhWVDAwbjllaFFodU9EbjNpeTlERTZ1NThLb21RMkhhWjQtRUFsNzN6RWMzLUhTMmRFczVtLXRPYzRPVVQ5Z3RPV0NVVVRWeURXdTFuYmlBdk1JYlVtTE9uZw?oc=5",
-   "published_utc": "2026-10-14T07:00:00+00:00",
-   "title_original": "GlobalFoundries stock rises on U.S.-Japan semiconductor deal By Investing.com",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "721a8861261fd171"
   },
   {
    "source_id": "gn_jp_nhkworld",
@@ -46295,6 +46363,23 @@
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
+   "title_en": "DIGITIMES Insight: Intel, TSMC, Samsung converge on backside power — packaging becomes the next divide",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjIzNWlKbzRLMWlHREJYc19VWGRvZWVpWHNwdmZUUVdQaHFGWldhX2VjMzdrMkt5cXozWlBUaE1udHVBRXNId2J2ZjhoZ3ZXZElQb2V2SXNhMFF2WDV0X25GTEZ0cWQ0NzR0ai1DenZiRkdQS3VmZDBqSk9YT09MQ2RqWVRsWTd0OTRYRWN1eVRjbDhZYUE?oc=5",
+   "published_utc": "2026-10-02T07:00:00+00:00",
+   "title_original": "DIGITIMES Insight: Intel, TSMC, Samsung converge on backside power — packaging becomes the next divide",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "408dff11173dded3"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
    "title_en": "Podcast highlights: TSMC Texas plant talk is premature, Intel 18A hits backfiring criticism",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1FVNEdaTFN5dXFXdGtCbzNUTDFXTmNpLThlOEZtazNxZWVGczBCazdUdXNUWkF3OXFfb1U3MWVKejc2RzQ4dmdJMGlvWENlWUxkTmExZUc3Skc1elR1Y1ZSR2cwWldnLUFCQVNjR0poSEI1dFhKMDhUYzFhOWtQZmRCX2k1Wi1FclltRDJB?oc=5",
    "published_utc": "2026-10-02T07:00:00+00:00",
@@ -46829,23 +46914,6 @@
    "live_wire": false,
    "manual": false,
    "id": "092878d296159105"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "DIGITIMES Insight: Intel, TSMC, Samsung converge on backside power — packaging becomes the next divide",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjIzNWlKbzRLMWlHREJYc19VWGRvZWVpWHNwdmZUUVdQaHFGWldhX2VjMzdrMkt5cXozWlBUaE1udHVBRXNId2J2ZjhoZ3ZXZElQb2V2SXNhMFF2WDV0X25GTEZ0cWQ0NzR0ai1DenZiRkdQS3VmZDBqSk9YT09MQ2RqWVRsWTd0OTRYRWN1eVRjbDhZYUE?oc=5",
-   "published_utc": "2026-10-02T03:21:24+00:00",
-   "title_original": "DIGITIMES Insight: Intel, TSMC, Samsung converge on backside power — packaging becomes the next divide",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "408dff11173dded3"
   },
   {
    "source_id": "tradingview_live",
@@ -51838,78 +51906,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9a3fde741c2e8b04"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Respect the Bank of Japan's autonomy, explain economic and fiscal risks and secure confidence - Member of the Advisory Council (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ZEc4azhCejdhdXh2dGp6S3V2UUVFZmJhdk1obGJnR19ESks3ZHpESk5Od3MyMmIyS2RKZ3BmamVWdm1IcHYxNi1zQ1M1dGM2TFNneWJaM1I2N2dSNnBnOWFFTEQybWY1eEtfSWx6bXBiRmRIbUNwX2tFbTNuSHc?oc=5",
-   "published_utc": "2026-09-30T09:42:03+00:00",
-   "title_original": "日銀の自主性尊重、経済財政のリスク説明し信認確保＝諮問会議議員（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b83b593ee33d0ea2"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "Central Bank: Will carry out 1.2 trillion yuan buyout reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWm00VXNndWlwQzJxcjRlUUZYUUJqMVhqUC1DcGtybmpDamtYNWd5RWNsWjVhSG9tQ3N6RnZreDlWUm9YOFBOMk4xNmdUQjlLbFBGM1BwdjdST0YwTlFsTUJJLXJHNzVGcTdhU3VuYXJtZWxnTm52b01jYklxRmV0OXVRRQ?oc=5",
-   "published_utc": "2026-09-30T09:34:59+00:00",
-   "title_original": "央行：将开展12000亿元买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "719bb674bfa1065e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Central Bank May Still Prefer Targeted, Low-Profile Credit Easing — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20260930002032:0/",
-   "published_utc": "2026-09-30T09:33:00+00:00",
-   "title_original": "China's Central Bank May Still Prefer Targeted, Low-Profile Credit Easing — Market Talk",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f4885661ee116154"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "TradingView",
-   "title_en": "The People's Bank of China will launch a 1.2 trillion yuan buyout reverse repurchase operation on October 8",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XMlc2NWlUV2dBRVVZOWVqTXlpb0VJSWlYR1JsSjBLOG9VZDJUb1Z2NTBfSGJDRmpza3dFQ2RlVVhJYnlZZlFzWDRWaEpjc1dMYXFqcWgwbC1TdjV2VnJrT0dZOGpDdw?oc=5",
-   "published_utc": "2026-09-30T09:28:00+00:00",
-   "title_original": "中国央行将于10月8日开展1.2万亿元的买断式逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "4f9dd025eecd175a"
   },
   {
    "source_id": "manual_ia",
