@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-27T01:02:42.791126+00:00",
- "collected_at_utc": "2026-10-27T01:02:42.791126+00:00",
+ "generated_at_utc": "2026-10-27T01:12:43.380363+00:00",
+ "collected_at_utc": "2026-10-27T01:12:43.380363+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 375,
   "korea": 796
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:43:37+00:00"
+   "newest": "2026-10-24T01:44:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T00:44:04+00:00"
+   "newest": "2026-10-27T00:59:19+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "newest": "2026-10-26T08:20:49+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T01:01:03+00:00"
+   "newest": "2026-10-27T01:11:36+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T22:28:51+00:00"
+   "newest": "2026-10-26T19:28:42+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "The Block",
+   "title_en": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+   "url": "https://www.tradingview.com/news/the_block:e253bfe54094b:0-blackrock-joins-sbi-and-startale-to-link-tokenized-mmfs-with-japanese-yen-stablecoins/",
+   "published_utc": "2026-10-27T01:00:00+00:00",
+   "title_original": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "eebe2cfbfb717461"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -20405,23 +20422,6 @@
    "id": "5550786906e36fe3"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83cG1rU3ZZMV9uU2oxaGhfdjlkdmdPX3F4eWhNendhY3YtamtBN1lFTWFZeDl6MUdoa1FOelh0OFlfSTVMNlRSWU1BSDVSMTJ6cjBEeVVGQW1HQQ?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5ed3d10817c389f2"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
@@ -20437,6 +20437,23 @@
    "live_wire": false,
    "manual": false,
    "id": "912c3fdcf5b7083e"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83cG1rU3ZZMV9uU2oxaGhfdjlkdmdPX3F4eWhNendhY3YtamtBN1lFTWFZeDl6MUdoa1FOelh0OFlfSTVMNlRSWU1BSDVSMTJ6cjBEeVVGQW1HQQ?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5ed3d10817c389f2"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -51896,24 +51913,6 @@
    "live_wire": false,
    "manual": false,
    "id": "418683df7dcfc6d8"
-  },
-  {
-   "source_id": "kantei_jnews",
-   "source_name": "Kantei 首相官邸",
-   "title_en": "Prime Minister Takaichi held the 13th Economic and Fiscal Council Meeting in 2026",
-   "url": "https://www.kantei.go.jp/jp/105/actions/202609/30keizai.html",
-   "published_utc": "2026-09-30T08:40:00+00:00",
-   "title_original": "高市総理は令和８年第１３回経済財政諮問会議を開催しました",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "849c1b48a3494572"
   },
   {
    "source_id": "manual_ia",
