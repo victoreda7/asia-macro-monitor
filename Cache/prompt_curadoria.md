@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T05:52:45.938213+00:00
+Última coleta: 2026-10-27T06:02:43.391068+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          979
-  🇨🇳 China          842
+  🇯🇵 Japão          978
+  🇨🇳 China          841
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  804
+  🇰🇷 Coreia do Sul  806
 
 ## O que já está no feed (não repita)
 
+  - [korea] Korea should save chip boom windfall for downturns: IDB economist
   - [korea] SK Hynix Set for Record Revenue, Operating Profit in Third Quarter — Earnings Preview
   - [japan] Japan stands ready to take decisive action in currency market, finance minister says
   - [china] The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, ha
@@ -43,6 +44,7 @@ Total: 3000 manchetes
   - [japan] Yen Weakens as Safe-Haven Demand Fades
   - [china] China’s industrial profits rises most in three months on oil, AI
   - [korea] Roundup: S. Korea's real GDP grows 1.0 pct on quarter in Q3
+  - [korea] S. Korea's real GDP grows 1.0 pct on quarter in Q3
   - [china] The world's super central bank debuts this week, the United States, Europe and Japan are expected to remain on
   - [china] "Peak-cutting and valley-filling" precise adjustment, MLF volume reduction continuation in October
   - [china] China’s Industrial Profits Jump Most in Three Months on Oil, AI
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Anthropic's IPO filing puts TSMC, HBM, direct leasing at the center of AI compute risk
   - [korea] The top 1% return on equity investment was found to have bought Samsung Electronics the most and sol..
   - [china] The central bank launched a 412 billion yuan reverse repurchase today
-  - [korea] With semiconductor market leader Samsung Electronics and SK Hynix announcing their third-quarter ear..
-  - [china] On October 27, the central bank launched a 412 billion yuan 7-day reverse repurchase operation.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T05:52:46+00:00",
+      "published_utc": "2026-10-27T06:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
