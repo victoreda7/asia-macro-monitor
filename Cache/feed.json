@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T11:52:43.703685+00:00",
- "collected_at_utc": "2026-10-27T11:52:43.703685+00:00",
+ "generated_at_utc": "2026-10-27T12:02:49.057354+00:00",
+ "collected_at_utc": "2026-10-27T12:02:49.057354+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 960,
-  "china": 854,
+  "china": 853,
   "taiwan": 378,
-  "korea": 808
+  "korea": 809
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 34.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:48:50+00:00"
+   "newest": "2026-10-27T09:59:05+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T11:38:56+00:00"
+   "newest": "2026-10-27T11:57:35+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T11:50:34+00:00"
+   "newest": "2026-10-27T12:00:11+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T20:39:14+09:00"
+   "newest": "2026-10-27T21:01:50+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T20:39:14+09:00"
+   "newest": "2026-10-27T20:55:51+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T11:52:22+00:00"
+   "newest": "2026-10-27T12:01:35+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -344,8 +344,25 @@
  ],
  "items": [
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iTGgwWHlxWl9yblZJblNYSmllMmlXLTRaZXA2TDhuV0dwbk1pRlNiQW10NkdQRk4xUzZuYThRSk92WEtXN0NweC1RaHVfZDQ3NEFxVDN4Qk1nVzZXTkZfZE1WbVl1ci1UN2c?oc=5",
+   "published_utc": "2026-10-27T12:00:10+00:00",
+   "title_original": "S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "503d81ecd11153ec"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:14+00:00",
@@ -360,7 +377,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "tradingview_live",
@@ -982,6 +999,23 @@
    "id": "6459d4298f356c7c"
   },
   {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Kospi hits one-week high as Samsung, SK Hynix rally on Anthropic, payout hopes",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBScWRxc1dmTnNUNnlZRU1RZXp1YWZGNVc1cW1TeXVaTUJZTEtieTk0MUJ5Z0NhdTJTQ3VfZm1OQ3JQYmEwQVdsa3JsdkJNT04xN0lNbHVCZHZtUFFNZVBDUXR3RTNPQV9RR1dBeFBpWFZBQktsX2ZKUVVR?oc=5",
+   "published_utc": "2026-10-27T08:05:00+00:00",
+   "title_original": "Kospi hits one-week high as Samsung, SK Hynix rally on Anthropic, payout hopes",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d861c18021a79643"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "China Industrial Profits Increase Notably",
@@ -1205,21 +1239,22 @@
    "id": "8a47d3386ecf4a67"
   },
   {
-   "source_id": "gn_kr_ked",
-   "source_name": "KED Global",
-   "title_en": "S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iTGgwWHlxWl9yblZJblNYSmllMmlXLTRaZXA2TDhuV0dwbk1pRlNiQW10NkdQRk4xUzZuYThRSk92WEtXN0NweC1RaHVfZDQ3NEFxVDN4Qk1nVzZXTkZfZE1WbVl1ci1UN2c?oc=5",
-   "published_utc": "2026-10-27T06:34:49+00:00",
-   "title_original": "S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast",
-   "region": "korea",
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "CPI excluding special factors accelerates sharply in September, perhaps supporting Bank of Japan's 2% trend (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8teFkwT3ZOaklsdmVnb2dnaExVal96VEo5Qkw3X1F5WjVvaEdaTDhsOXFNVnQ3MUQ5eDM2WkI2V05YenhQaTRjZGIwbFZlUUIxWnEzXy1aS0dJeWRFRVY1YjNCX0VhbGQ0TG10c2RRNjVwUGk4ZmpBNV9qa3BJX1U?oc=5",
+   "published_utc": "2026-10-27T06:28:23+00:00",
+   "title_original": "特殊要因除くＣＰＩ、9月は伸び急加速 日銀の基調2％判断後押しか（ロイター）",
+   "region": "japan",
    "topics": [
-    "monetary"
+    "monetary",
+    "inflation"
    ],
-   "lang_original": "en",
-   "translated": false,
+   "lang_original": "ja",
+   "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "503d81ecd11153ec"
+   "id": "6e854cef6dccbb26"
   },
   {
    "source_id": "korea_herald_biz",
@@ -1393,24 +1428,6 @@
    "live_wire": false,
    "manual": false,
    "id": "7057428ad7dd94f8"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "CPI excluding special factors accelerates sharply in September, perhaps supporting Bank of Japan's 2% trend (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8teFkwT3ZOaklsdmVnb2dnaExVal96VEo5Qkw3X1F5WjVvaEdaTDhsOXFNVnQ3MUQ5eDM2WkI2V05YenhQaTRjZGIwbFZlUUIxWnEzXy1aS0dJeWRFRVY1YjNCX0VhbGQ0TG10c2RRNjVwUGk4ZmpBNV9qa3BJX1U?oc=5",
-   "published_utc": "2026-10-27T05:25:12+00:00",
-   "title_original": "特殊要因除くＣＰＩ、9月は伸び急加速 日銀の基調2％判断後押しか（ロイター）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6e854cef6dccbb26"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -3952,9 +3969,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -3966,7 +3983,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b972d8c6ac9362b"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4176,6 +4193,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -4780,24 +4815,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -5955,6 +5972,24 @@
    "id": "c0606821eacd5484"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
+   "published_utc": "2026-10-23T12:38:12+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d3a519ddfcdc2da"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -5970,24 +6005,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
-   "published_utc": "2026-10-23T12:32:55+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -7451,24 +7468,6 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "湖南红网",
-   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JOU4xQURkbWUzMkFXZkI1bXRrZHNtckpVaHE1YVd5TXZkbWJCTEJKYnNYQmVnZUQ2OXlSNWFrZkFDZzVCZ21NeG1IWDFtcEkyUkRWOFpTaVpoLWZUdFNvRC1fR3lVUQ?oc=5",
-   "published_utc": "2026-10-23T02:15:26+00:00",
-   "title_original": "央行开展2580亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "649f01690852552b"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
@@ -7536,6 +7535,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ab3208d7cfdf114d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wemhzYTYzWkM3NllscXN6dkhkenVwRnlxSm5MZFVmYU1XRkNJamFXLU1zTHJkTFY2LUlOT3JneUctb3o4RVNKb2RTaFVJMUtkMFlsWjVhM1pGdDJrRlU0d2IzSlotY29f?oc=5",
+   "published_utc": "2026-10-23T01:53:53+00:00",
+   "title_original": "央行开展2580亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b449075bd88b714"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -22080,6 +22097,23 @@
    "id": "6a59efb360337ae1"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "AI server tracker: semiconductor testing and design services rally on compute demand",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDVvaDBTUUxqNkRxS3FjTVp1TVJXOXRoZVFoT3NkX3c1OUJBUU5rd1dja05uS05JZXZfbFNPZW9SeXNGM2lheFNDMVBKSzBiSnI0dlpaXzdhN1pob1lRcmk3NDJmck5qZS1yTGtFS2dOZVAteXFyNTFyN24wZ2FrT3d6ZWNJaHNmY0JoSEFHclZpRVc4dW1UVlJaZ2hvOEFoY3V4d250Q2VHUDRVN1Vqd2Vscw?oc=5",
+   "published_utc": "2026-10-16T07:52:03+00:00",
+   "title_original": "AI server tracker: semiconductor testing and design services rally on compute demand",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ff4b94f11151b63d"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Stocktwits",
    "title_en": "Amid TSMC-Terafab Talks, Taiwan Said To Be Mulling Greater Curbs On AI Chip Sales To China",
@@ -22322,23 +22356,6 @@
    "live_wire": false,
    "manual": false,
    "id": "893c04f0fc4e799b"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "AI server tracker: semiconductor testing and design services rally on compute demand",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDVvaDBTUUxqNkRxS3FjTVp1TVJXOXRoZVFoT3NkX3c1OUJBUU5rd1dja05uS05JZXZfbFNPZW9SeXNGM2lheFNDMVBKSzBiSnI0dlpaXzdhN1pob1lRcmk3NDJmck5qZS1yTGtFS2dOZVAteXFyNTFyN24wZ2FrT3d6ZWNJaHNmY0JoSEFHclZpRVc4dW1UVlJaZ2hvOEFoY3V4d250Q2VHUDRVN1Vqd2Vscw?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "AI server tracker: semiconductor testing and design services rally on compute demand",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ff4b94f11151b63d"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -51863,23 +51880,6 @@
    "live_wire": false,
    "manual": false,
    "id": "763faa12081b8f71"
-  },
-  {
-   "source_id": "gn_cn_reuters",
-   "source_name": "Reuters",
-   "title_en": "Oil prices rise as China suspends fuel exports",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGNFYVVqQ0xkMTkyblJkMU5mMnJ6Y1RhTEhBWjJyWEhDaXdCVzg3aF9pWTFYdVkyN3d5WmpIRDdHQ283dUJhVlV4WTJzSEMwTy1uZkhwS2NNNndEZlhJY2lGTHgtRng1TjQ0XzRWdUNnUjRPQ2ZoaDg2UlJ1cTgtRGZHbTNVcUVFenI1SlIxREdDbWJJX25kWFY2ZWxxVzRyOFl3SGZzbjZUWEk2NklWOUR2UzEwanpPSzU1TnJyXzVveDRoX2c?oc=5",
-   "published_utc": "2026-10-01T01:10:00+00:00",
-   "title_original": "Oil prices rise as China suspends fuel exports",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "277872acf2398e2e"
   },
   {
    "source_id": "manual_ia",
