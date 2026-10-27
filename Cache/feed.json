@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-27T16:02:46.207044+00:00",
- "collected_at_utc": "2026-10-27T16:02:46.207044+00:00",
+ "generated_at_utc": "2026-10-27T16:12:44.305890+00:00",
+ "collected_at_utc": "2026-10-27T16:12:44.305890+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 378,
   "korea": 807
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T00:09:38+09:00"
+   "newest": "2026-10-28T01:03:41+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T16:01:56+00:00"
+   "newest": "2026-10-27T16:11:40+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -4194,6 +4194,24 @@
    "id": "e12668b3e0b0dbdc"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVUxuT01uNzVGcWdXNjJsNmZXY2tjajQ2NGcxeWVaNkRRLUtSNlFoTGhfeGhhYUNENUNRY01PVF9mVDVmTl8tZGlYTFNOMEtGd2lVZmg0SzljbnUtQUs0aXVNU0hkanJZMHlXS0VZTzFBcm8ydlZhRU5LcDhCWUVCMUhqMWZ4VTI3akE?oc=5",
+   "published_utc": "2026-10-26T03:09:06+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "26723466cf9fd537"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks expected to maintain tight lending standards in Q4: BOK survey",
@@ -5988,24 +6006,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9f5caab2bcd6c61a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
-   "published_utc": "2026-10-23T14:14:15+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",
