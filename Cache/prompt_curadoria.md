@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T00:42:43.338569+00:00
+Última coleta: 2026-10-27T00:52:43.187647+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          982
+  🇯🇵 Japão          983
   🇨🇳 China          846
   🇹🇼 Taiwan         375
-  🇰🇷 Coreia do Sul  797
+  🇰🇷 Coreia do Sul  796
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB Yields Higher as AI Bubble Concerns Ease — Market Talk
+  - [korea] Why is SK Hynix stock surging today?
   - [japan] Major life insurance companies accelerate replacement of government bonds
   - [korea] South Korea’s economy grows 1% in Q3, beating BOK forecast
+  - [korea] Foreigners have sold a large number of domestic stocks, but the won-dollar exchange rate is on the d..
   - [japan] JAPAN SEPT SERVICES PPI +0.3% M/M: AUG +0.1%
   - [korea] S. Korea's GDP expands 1% in Q3 on strong exports, investment: BOK
   - [japan] MNI: JAPAN SEPT SERVICES PPI +3.7% Y/Y; AUG +3.5%
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar rebounds as euro slips ahead of key central bank decisions
   - [china] Properties Pass Down China’s Construction Supply Chain in a ‘Debt Relay’
   - [taiwan] Anthropic Highlights Disruptions to TSMC Operations as a Risk
-  - [japan] Japan to back perovskite solar cell mass production with $640m in subsidies
-  - [china] Shanghai Iluvatar Corex Semiconductor Granted Aggregate Banking Facilities Of Over Rmb12 Billion, As At Oct 26
-  - [china] EU Plans to Hit China With More Import Curbs in Early 2027
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T00:42:43+00:00",
+      "published_utc": "2026-10-27T00:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T00:42:43.338569+00:00",
- "collected_at_utc": "2026-10-27T00:42:43.338569+00:00",
+ "generated_at_utc": "2026-10-27T00:52:43.187647+00:00",
+ "collected_at_utc": "2026-10-27T00:52:43.187647+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 982,
+  "japan": 983,
   "china": 846,
   "taiwan": 375,
-  "korea": 797
+  "korea": 796
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T00:24:23+00:00"
+   "newest": "2026-10-27T00:44:04+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 25,
    "error": "",
-   "newest": "2026-10-26T04:43:18+00:00"
+   "newest": "2026-10-26T08:20:49+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T20:51:27+00:00"
+   "newest": "2026-10-26T23:01:00+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T00:41:11+00:00"
+   "newest": "2026-10-27T00:51:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T19:28:42+00:00"
+   "newest": "2026-10-26T16:29:29+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T23:53:31+00:00"
+   "newest": "2026-10-27T00:20:57+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "JGB Yields Higher as AI Bubble Concerns Ease — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261026010291:0-jgb-yields-higher-as-ai-bubble-concerns-ease-market-talk/",
+   "published_utc": "2026-10-27T00:48:00+00:00",
+   "title_original": "JGB Yields Higher as AI Bubble Concerns Ease — Market Talk",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a054306b2b58e22b"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is SK Hynix stock surging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007",
+   "published_utc": "2026-10-27T00:44:04+00:00",
+   "title_original": "Why is SK Hynix stock surging today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "387f697cfb1b5205"
+  },
   {
    "source_id": "yahoo_business",
    "source_name": "Yahoo! ニュース 経済",
@@ -376,6 +410,23 @@
    "live_wire": false,
    "manual": false,
    "id": "8df68311dc346dfe"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Foreigners have sold a large number of domestic stocks, but the won-dollar exchange rate is on the d..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRNlJpc2hSOFotSVRMNnM4VlVZQUxmN0ZERjdYT0JMOWtFNC1rQngyN05Rbzg0ZFRCdlBVU0htYjdhWGRYa0VScmJXV3ZUWDZDeFE?oc=5",
+   "published_utc": "2026-10-27T00:20:57+00:00",
+   "title_original": "Foreigners have sold a large number of domestic stocks, but the won-dollar exchange rate is on the d..",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "af9f934eb206b3ca"
   },
   {
    "source_id": "tradingview_live",
@@ -1997,9 +2048,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "Sohu",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmdUams3cmxlNXc5TXEzSmpsam1JX3NtNGJWM0h4R05LWWhJeVBFYkxjZW9QS3Vkb2p4U0VUTFY1d1BRTkg4Q1FLanhyWXNmYXE0NGJZYTREVjlmajZURWJNWVdMbWtEdWpRODIyUnUzTjctTC1iNjJrcFJWSnRGTU16RGFCYUtSUTlN?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -2011,7 +2062,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "dee37dbc8c1d6e98"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2051,7 +2102,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 billion yuan of MLF expires.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95Z19yZUlkamFRWjlmcjNXYVJmUXVhbWczbEsyS1lWVnlDYVdVZWt6N0FqaGUxQjlocWlwN3lZM1gtOXphQmNEdGJScWNGdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14YnZJVThIRTl5M240ZE54VWVlVEh5ZTZob2hTdTE1c3ltUTdzdXA3MEZUUGd4eWo4SHRrbnRCZmJZOWxlRTdsbWFsc1RCNWk5VHBYV0hZNi1YelowbHpVQnh3?oc=5",
    "published_utc": "2026-10-26T02:57:10+00:00",
    "title_original": "本周央行公开市场逆回购到期3380亿元 周二9000亿元MLF到期",
    "region": "china",
@@ -2063,7 +2114,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "e21ee44288074ab5"
+   "id": "50b41cccc95aaa06"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -2221,24 +2272,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d4a3aa3b3df6303c"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -2792,6 +2825,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -3932,24 +3983,6 @@
    "id": "c0606821eacd5484"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
-   "published_utc": "2026-10-23T12:38:12+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1d3a519ddfcdc2da"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -3965,6 +3998,24 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
+   "published_utc": "2026-10-23T12:32:55+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -5463,8 +5514,8 @@
    "id": "649f01690852552b"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64034",
    "published_utc": "2026-10-23T02:08:17+00:00",
@@ -5478,7 +5529,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "9f7d07c9dd0602ca"
+   "id": "a1aa424a8381650f"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5549,8 +5600,8 @@
    "id": "1032bd0dfd89b6ed"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Decided on amendments to digitize bill of lading, etc. to improve efficiency of trade procedures",
    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64007",
    "published_utc": "2026-10-23T01:20:33+00:00",
@@ -5563,7 +5614,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2ba9b3add215d811"
+   "id": "a2b5d4dc1c7f6b12"
   },
   {
    "source_id": "nikkei_asia",
@@ -7956,7 +8007,7 @@
    "source_name": "뉴데일리",
    "title_en": "[Photo] Bank of Korea monetary policy direction meeting... base interest rate maintained at 3.00% per annum",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2VHlkMkE0WVJIR3ZZeTcxeVpmODVoMlliN0U3azQxV1dxLVNYWHQ5U3I1T1dTTnlJVERQeDNFN1pDS2hORGR6bmJjWHoyVW5CNHNXbVRqSVpKYjlCdy05TmVrUXhjRGJnMFc0TlRJNDMzNkpUUVZEdWtPa9IBgAFBVV95cUxNaFNway1GMzZOYnlZQ09fMVhnbWdIQkFraDRGWlJvZGhoZ0t6MERWMG1wWmtqNDVya1V3bkNYV2NGQXV0cWNZb2U4Q3BpZG5SNXE3bTc5X2VHQjVzaUJGWW5iY19fTVdBSkNBTTBEMTJ6eHB3M0VkWGpiU0MtX0VwUQ?oc=5",
-   "published_utc": "2026-10-22T03:21:12+00:00",
+   "published_utc": "2026-10-22T03:21:00+00:00",
    "title_original": "[포토] 한국은행 통화정책방향 간담회...기준금리 연3.00% 유지",
    "region": "korea",
    "topics": [
@@ -10572,23 +10623,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3f3a89c09005b8cf"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Why is SK Hynix stock surging today?",
-   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4961533",
-   "published_utc": "2026-10-21T04:12:16+00:00",
-   "title_original": "Why is SK Hynix stock surging today?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9ddf5246ae172db2"
   },
   {
    "source_id": "gn_tw_cna",
@@ -51880,40 +51914,6 @@
    "live_wire": false,
    "manual": false,
    "id": "849c1b48a3494572"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "While Samsung Electronics and SK Hynix are completing large-scale treasury stock purchases, other li..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GODltejlGYS1iZ01BTjNuQWRKUzVVVm1HU1FCVTJRVXlWUWlWWWw0R05qeWdRRTA2ZkFFbV9TWjA3Si1wTzlsOHo5MUQ4WW8?oc=5",
-   "published_utc": "2026-09-30T08:38:54+00:00",
-   "title_original": "While Samsung Electronics and SK Hynix are completing large-scale treasury stock purchases, other li..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b1e1d09fbc69be9f"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The government plans to inject 63 trillion won worth of \"excess tax revenue\" generated by the semico..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWdFYwcGdtSS02OUcxRmJqdmJpU0s2aVNHT0Z5TzNScHBNMGVnMzBqaHJoUTliTEtxWDVTUzk3S3ctWFZTUDhFdWFiSWZhVVJWTnc?oc=5",
-   "published_utc": "2026-09-30T08:32:13+00:00",
-   "title_original": "The government plans to inject 63 trillion won worth of \"excess tax revenue\" generated by the semico..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "f608d99ffb831de5"
   },
   {
    "source_id": "manual_ia",
