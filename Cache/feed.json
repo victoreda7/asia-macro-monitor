@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-27T10:02:44.513131+00:00",
- "collected_at_utc": "2026-10-27T10:02:44.513131+00:00",
+ "generated_at_utc": "2026-10-27T10:12:44.961012+00:00",
+ "collected_at_utc": "2026-10-27T10:12:44.961012+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 380,
   "korea": 811
  },
- "elapsed_s": 29.1,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T07:56:00+00:00"
+   "newest": "2026-10-24T01:44:19+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T18:53:03+09:00"
+   "newest": "2026-10-27T19:10:44+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T03:48:00+00:00"
+   "newest": "2026-10-27T08:42:20+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-27T08:30:10+00:00"
+   "newest": "2026-10-27T10:08:33+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:14:41+00:00"
+   "newest": "2026-10-27T09:30:34+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T10:01:58+00:00"
+   "newest": "2026-10-27T10:11:08+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:43:25+00:00"
+   "newest": "2026-10-27T09:25:37+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Retail price of eggs reaches record high “Avian influenza continues to affect” Ministry of Agriculture, Forestry and Fisheries",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261027de66318",
+   "published_utc": "2026-10-27T10:10:44+00:00",
+   "title_original": "卵の小売価格が過去最高“鳥インフルエンザの影響続く”農水省",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ec68dbd06d84dc54"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -4038,6 +4055,24 @@
    "id": "3a3f57c11641a184"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
+   "published_utc": "2026-10-26T02:13:49+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1033a50b0d22ef1a"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..",
@@ -4263,24 +4298,6 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新湖南",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
-   "published_utc": "2026-10-26T00:06:24+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -22220,23 +22237,6 @@
    "id": "5550786906e36fe3"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83cG1rU3ZZMV9uU2oxaGhfdjlkdmdPX3F4eWhNendhY3YtamtBN1lFTWFZeDl6MUdoa1FOelh0OFlfSTVMNlRSWU1BSDVSMTJ6cjBEeVVGQW1HQQ?oc=5",
-   "published_utc": "2026-10-16T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5ed3d10817c389f2"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC deal could slow Musk's Terafab, but US suppliers still see upside",
@@ -22252,6 +22252,23 @@
    "live_wire": false,
    "manual": false,
    "id": "912c3fdcf5b7083e"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83cG1rU3ZZMV9uU2oxaGhfdjlkdmdPX3F4eWhNendhY3YtamtBN1lFTWFZeDl6MUdoa1FOelh0OFlfSTVMNlRSWU1BSDVSMTJ6cjBEeVVGQW1HQQ?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "title_original": "BREAKING NEWS: BOJ to keep raising rates, adjust monetary easing: Ueda",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "5ed3d10817c389f2"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -51863,24 +51880,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ad139c92b76c096b"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "[Japanese Market Conditions] Yen falls to 157 yen-lower level following Bank of Japan's ``main opinion'' - bonds cheap (Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rXzM2OTFrNUF4VldMVWxndHpuUkZZa2JDcHB5eE5vdHc5VFZubXZGeWx2d0pHd3NhODU5MkU5R1ktQXFjVFk4S0h3djFQRFFlUjhmZnVwOXFPUE9NbEVCNnNYU2pLd2NtV2hNUU91YWxwZ1lCTmNpR2dHQ1UwSjA?oc=5",
-   "published_utc": "2026-10-01T00:30:54+00:00",
-   "title_original": "【日本市況】日銀「主な意見」受け157円後半に円下落－債券安い（Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d51fcb0acca31873"
   },
   {
    "source_id": "manual_ia",
