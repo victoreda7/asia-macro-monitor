@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T04:12:43.379238+00:00
+Última coleta: 2026-10-27T04:22:43.154712+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          975
-  🇨🇳 China          847
+  🇯🇵 Japão          974
+  🇨🇳 China          848
   🇹🇼 Taiwan         373
   🇰🇷 Coreia do Sul  805
 
 ## O que já está no feed (não repita)
 
+  - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 198.49, Implies 36% Upside
+  - [taiwan] Taiwan Central Bank: Demand For Emerging Tech Expected To Remain Strong In 2027
   - [taiwan] Confidence in the housing market fell, technology inflation hit, confidence in durable goods hit a 17-year low
   - [china] Yuan holds flat near four-year peak; central bank meetings awaited
   - [japan] Asian currencies mixed as dollar holds firm, yen retreats ahead of Fed decision
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] S.Korean shares rebound as Anthropic IPO plan drives Samsung, SK Hynix rally
   - [china] The central bank launched a 412 billion yuan 7-day reverse repurchase operation today
   - [korea] SK Hynix tests bearish resistance cluster at KRW 1,381,000: Live
-  - [japan] BlackRock Joins SBI and Startale to Link Tokenized MMFs With Japanese Yen Stablecoins
-  - [korea] South Korea's Corporate Bond Issuance Surges 77.5% in September
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T04:12:43+00:00",
+      "published_utc": "2026-10-27T04:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

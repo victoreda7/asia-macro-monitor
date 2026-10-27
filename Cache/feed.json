@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T04:12:43.379238+00:00",
- "collected_at_utc": "2026-10-27T04:12:43.379238+00:00",
+ "generated_at_utc": "2026-10-27T04:22:43.154712+00:00",
+ "collected_at_utc": "2026-10-27T04:22:43.154712+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 975,
-  "china": 847,
+  "japan": 974,
+  "china": 848,
   "taiwan": 373,
   "korea": 805
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 30,
+   "count": 31,
    "error": "",
-   "newest": "2026-10-27T11:18:13+08:00"
+   "newest": "2026-10-27T11:24:15+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T03:45:55+00:00"
+   "newest": "2026-10-27T04:12:54+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T12:50:39+09:00"
+   "newest": "2026-10-27T13:20:24+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T13:11:13+09:00"
+   "newest": "2026-10-27T13:11:00+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
    "newest": "2026-10-27T02:35:31+00:00"
   },
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T20:38:03+00:00"
+   "newest": "2026-10-27T02:17:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T04:10:59+00:00"
+   "newest": "2026-10-27T04:21:41+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T01:29:53+00:00"
+   "newest": "2026-10-26T22:28:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T21:00:08+00:00"
+   "newest": "2026-10-27T02:00:03+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-27T12:00:00+09:00"
+   "newest": "2026-10-27T13:15:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T03:17:53+00:00"
+   "newest": "2026-10-27T02:29:37+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 198.49, Implies 36% Upside",
+   "url": "https://www.tradingview.com/news/tradingview:de00e4a0dc735:0-wuxi-apptec-co-ltd-class-a-stock-12-month-price-target-raised-to-cny-198-49-implies-36-upside/",
+   "published_utc": "2026-10-27T04:20:00+00:00",
+   "title_original": "WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 198.49, Implies 36% Upside",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1d000e7e50b11f4a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Taiwan Central Bank: Demand For Emerging Tech Expected To Remain Strong In 2027",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N42O0AU:0-taiwan-central-bank-demand-for-emerging-tech-expected-to-remain-strong-in-2027/",
+   "published_utc": "2026-10-27T04:17:52+00:00",
+   "title_original": "Taiwan Central Bank: Demand For Emerging Tech Expected To Remain Strong In 2027",
+   "region": "taiwan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2c61c8d593a412d6"
+  },
   {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
@@ -2790,9 +2824,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "Sohu",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmdUams3cmxlNXc5TXEzSmpsam1JX3NtNGJWM0h4R05LWWhJeVBFYkxjZW9QS3Vkb2p4U0VUTFY1d1BRTkg4Q1FLanhyWXNmYXE0NGJZYTREVjlmajZURWJNWVdMbWtEdWpRODIyUnUzTjctTC1iNjJrcFJWSnRGTU16RGFCYUtSUTlN?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -2804,7 +2838,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "dee37dbc8c1d6e98"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2844,7 +2878,7 @@
    "source_id": "gn_cn_pboc",
    "source_name": "观点网",
    "title_en": "This week, the central bank's open market reverse repurchase expires with 338 billion yuan. On Tuesday, 900 billion yuan of MLF expires.",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14YnZJVThIRTl5M240ZE54VWVlVEh5ZTZob2hTdTE1c3ltUTdzdXA3MEZUUGd4eWo4SHRrbnRCZmJZOWxlRTdsbWFsc1RCNWk5VHBYV0hZNi1YelowbHpVQnh3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95Z19yZUlkamFRWjlmcjNXYVJmUXVhbWczbEsyS1lWVnlDYVdVZWt6N0FqaGUxQjlocWlwN3lZM1gtOXphQmNEdGJScWNGdw?oc=5",
    "published_utc": "2026-10-26T02:57:10+00:00",
    "title_original": "本周央行公开市场逆回购到期3380亿元 周二9000亿元MLF到期",
    "region": "china",
@@ -2856,7 +2890,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "50b41cccc95aaa06"
+   "id": "e21ee44288074ab5"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -3031,6 +3065,24 @@
    "live_wire": false,
    "manual": false,
    "id": "d4a3aa3b3df6303c"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -3601,24 +3653,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -4759,6 +4793,24 @@
    "id": "c0606821eacd5484"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新浪财经",
+   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NcEZoLUhza1JxemdDUEdvTEQ0RHBfdnI1dXRlZWxwRHRvRlhJZkRpWjI5andEOGZtX3dwUnRGendBTUZmZG96R3VYb0I1S2U1UzVkZ3p6MWUtN3ljYkNod2Qzb1JnWTFXbTFqcVVzRmdIbTVLdXRkVg?oc=5",
+   "published_utc": "2026-10-23T12:38:12+00:00",
+   "title_original": "中国央行将开展7000亿元MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1d3a519ddfcdc2da"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
    "title_en": "What's Going On With SK Hynix Stock Friday",
@@ -4774,24 +4826,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3944d7e250875daa"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The People's Bank of China will launch a 700 billion yuan MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
-   "published_utc": "2026-10-23T12:32:55+00:00",
-   "title_original": "中国央行将开展7000亿元MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c066713b0df07fc7"
   },
   {
    "source_id": "gn_kr_ked",
@@ -51871,40 +51905,6 @@
    "live_wire": true,
    "manual": false,
    "id": "42064d8debffe25a"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "RDP plans to improve financial situation by downsizing party headquarters and reducing staff",
-   "url": "https://news.web.nhk/newsweb/na/nd-20260930de53480",
-   "published_utc": "2026-09-30T13:14:00+00:00",
-   "title_original": "立民 党本部縮小や職員削減で財政状況の改善を図る方針",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5c82d592be00ecd8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "TSMC Is Ready to Spend $265 Billion in the U.S. It Could Spend Even More. — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20260930004606:0/",
-   "published_utc": "2026-09-30T13:10:00+00:00",
-   "title_original": "TSMC Is Ready to Spend $265 Billion in the U.S. It Could Spend Even More. — Barrons.com",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c11cbd3dd64cede5"
   },
   {
    "source_id": "manual_ia",
