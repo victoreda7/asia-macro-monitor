@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T07:22:42.043119+00:00
+Última coleta: 2026-10-27T07:32:44.257909+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          972
+  🇯🇵 Japão          971
   🇨🇳 China          842
   🇹🇼 Taiwan         377
-  🇰🇷 Coreia do Sul  809
+  🇰🇷 Coreia do Sul  810
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi jumps as Samsung, SK Hynix rally on Anthropic IPO plan, payout hopes
+  - [japan] Japan life insurers offer mixed view of JGBs as foreign bond selling persists
   - [korea] South Korean shares end over 3% higher on US rally, strong GDP
   - [china] The central bank revealed that foreign capital, which was the key to the depreciation of the Taiwan dollar, ha
   - [china] AI investment expansion encounters bottlenecks, the central bank is worried about financing risks and amplifie
@@ -42,6 +44,7 @@ Total: 3000 manchetes
   - [japan] Indicators for Core CPI
   - [japan] Yen eases on risk-on mood ahead of central bank bonanza By Reuters
   - [japan] Cybersecurity - Rising risks, ``threat to the financial system'' - Bank of Japan board member (Reuters)
+  - [japan] Rising cybersecurity risks, ``a threat to the financial system'' - Bank of Japan board member (Reuters)
   - [taiwan] Inflation intensifies in Philippines, nearly a quarter of households go hungry
   - [korea] South Korean Won Extends Gains on Dollar Selling
   - [japan] BREAKING NEWS: Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs: PM
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Asian currencies mixed as dollar holds firm, yen retreats ahead of Fed decision
   - [japan] Ex-BOJ chief Kuroda backs more rate hikes, his former deputy urges caution
   - [japan] “Moderate recovery” for 40 consecutive months Bank of Japan Nagasaki Branch announces business conditions in N
-  - [china] China industrial profits rise 14.4% in September on AI demand
-  - [korea] Chips&Media Inc Q3 Operating Profit 1.7 Billion Won, Up 8.7% From Year Earlier
-  - [taiwan] TSMC to raise advanced chip packaging prices by up to 20%, report says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T07:22:42+00:00",
+      "published_utc": "2026-10-27T07:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

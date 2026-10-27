@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T07:22:42.043119+00:00",
- "collected_at_utc": "2026-10-27T07:22:42.043119+00:00",
+ "generated_at_utc": "2026-10-27T07:32:44.257909+00:00",
+ "collected_at_utc": "2026-10-27T07:32:44.257909+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 972,
+  "japan": 971,
   "china": 842,
   "taiwan": 377,
-  "korea": 809
+  "korea": 810
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T05:01:00+00:00"
+   "newest": "2026-10-27T05:59:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,23 +51,23 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:21:58+00:00"
+   "newest": "2026-10-27T05:00:28+00:00"
   },
   {
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": "",
-   "newest": "2026-10-25T09:07:00+00:00"
+   "newest": "2026-10-27T07:23:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 35,
+   "count": 37,
    "error": "",
-   "newest": "2026-10-27T13:45:26+08:00"
+   "newest": "2026-10-27T15:06:32+08:00"
   },
   {
    "source_id": "investing_live",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T04:57:58+00:00"
+   "newest": "2026-10-27T03:33:17+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:45:06+00:00"
+   "newest": "2026-10-27T07:28:03+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-27T15:22:58+09:00"
+   "newest": "2026-10-27T16:23:06+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T02:12:00+00:00"
+   "newest": "2026-10-27T02:50:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T07:21:50+00:00"
+   "newest": "2026-10-27T07:32:06+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T06:54:00+00:00"
+   "newest": "2026-10-27T07:16:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Kospi jumps as Samsung, SK Hynix rally on Anthropic IPO plan, payout hopes",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBScWRxc1dmTnNUNnlZRU1RZXp1YWZGNVc1cW1TeXVaTUJZTEtieTk0MUJ5Z0NhdTJTQ3VfZm1OQ3JQYmEwQVdsa3JsdkJNT04xN0lNbHVCZHZtUFFNZVBDUXR3RTNPQV9RR1dBeFBpWFZBQktsX2ZKUVVR?oc=5",
+   "published_utc": "2026-10-27T07:28:03+00:00",
+   "title_original": "Kospi jumps as Samsung, SK Hynix rally on Anthropic IPO plan, payout hopes",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "894363eabea7e046"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan life insurers offer mixed view of JGBs as foreign bond selling persists",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46D04W:0-japan-life-insurers-offer-mixed-view-of-jgbs-as-foreign-bond-selling-persists/",
+   "published_utc": "2026-10-27T07:22:46+00:00",
+   "title_original": "Japan life insurers offer mixed view of JGBs as foreign bond selling persists",
+   "region": "japan",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "50a7cb118a497d48"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -776,6 +810,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5dae0032ed806708"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Rising cybersecurity risks, ``a threat to the financial system'' - Bank of Japan board member (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOWNWYi0wQ0JMY2NKMUpwYkJKUFpsWGlpNmZzUnpnRzRuWEZaalUwd21HNGJlalF6QXU5aWducXh3cklmb2E3TzNjMnZjb1pKVDVnNlEtUXNQT1BpS1RLQ09fSTc2MWtzUk9SV0xnZnJ0LVhtM3JTQ0U4Ykpoa1NRYkZIZDYxeldLTjJMOUdR?oc=5",
+   "published_utc": "2026-10-27T04:50:22+00:00",
+   "title_original": "サイバーセキュリティーリスクの高まり、「金融システムへの脅威」＝日銀理事 (ロイター)",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "32b7368761960692"
   },
   {
    "source_id": "gn_tw_cna",
@@ -3778,23 +3829,6 @@
    "id": "26cbdb1b7286371e"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93SW1kSTJ0XzB5Ml9ELVloZ0I5Z2tnNC1uRF9KUVRib3lnNHBFYjI0ZUY0dkZDSENQa2JsYTN6VGs4amFiUG9qeFBjczdxZnFxYmVXNURiNnN3b210cDV6X2xqdlJ3b1dRUHBDbzdvVnhyeF9WenplYzZTQ2tyOHM?oc=5",
-   "published_utc": "2026-10-26T01:39:15+00:00",
-   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "909577cb78ba9d43"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "The top 1% of stock investment returns bought SK Hynix, Samsung Electronics, and Samsung Electronics..",
@@ -6423,6 +6457,23 @@
    "live_wire": false,
    "manual": false,
    "id": "3ac990465bc04646"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan “Financial System Report” focuses on AI investment risks (TBS CROSS DIG with Bloomberg)",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXZTbzVEaXY2d3l5bk5vb0xkVm5aZkl0Z25nLWtiTWpuUmgtR05ZYTB5V1BlbWcxMmRCS01yN0FfXzJXT2lJLXhucE9hZzBuWURzcklaMF81bzNGRU95TVNYbzdiRXhEcURrR2JBYU9yOENjVDU0RlVBbzJRUlBhZWdTaXZfQnI4?oc=5",
+   "published_utc": "2026-10-23T07:00:00+00:00",
+   "title_original": "日銀「金融システムレポート」はAI投資リスクに注目（TBS CROSS DIG with Bloomberg）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "eda4db23a9b07274"
   },
   {
    "source_id": "focus_taiwan",
@@ -10939,10 +10990,10 @@
   },
   {
    "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
+   "source_name": "Investing.com South Africa",
    "title_en": "IMF official says currency intervention offers limited benefits By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEFyQmpNR3FKZy1DMDJ3cXE0cThrUDNyOTFFb2kxcUF4cDZkY3FyeW5UcHlKMnF0UkxpVzZSc0hZQWIzSUloQWVXOVNHTnA5dkQ1RzJQaG5idGVGMTJTM2lucDNLNzV4WXdlN0lIX1cxbjF3SVpOODE1R3VBSTl6R1JPNEUwUHI2T3FKTnZPYjFwTW5EU21nOEVNQ2VUaEM3R0hXLWtVXzJjb0N4Z3NmZzZIc1QtOXpSMnJfdERQVWdmQQ?oc=5",
-   "published_utc": "2026-10-21T11:31:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0lDRUJlUk9keFZsemc1dF82SDg0SURhNGxHWEU5TktyaE43Yk12VEpzQWlfdzhOVm1USTlHUW5ta3BBNEl6bVpQWkVBSFB3RXQyUUdmeFU3U2djbFFPRUtDTWNoSVYyZXU4ZnZWbWUyRXpUdFo5R19za1dVaEhuRXpLSlFBbVByTTltcE0yUk5YSF9rN2laTUNmZkx2bVdwZ0Z5TzdUVXBudG9xSjRpeEFTQVYzRlpHMzZKend2QWtCZw?oc=5",
+   "published_utc": "2026-10-21T11:32:29+00:00",
    "title_original": "IMF official says currency intervention offers limited benefits By Investing.com",
    "region": "japan",
    "topics": [
@@ -10952,7 +11003,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "b05f20efe1c5bdbf"
+   "id": "4a7ba9c9b837fbf7"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51850,61 +51901,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0b23e20d6a2da96f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "BOJ SEPT QUARTER TANKAN LARGE MANUFACTURER SENTIMENT INDEX AT +24 (JUNE +22); MEDIAN FORECAST +25",
-   "url": "https://www.tradingview.com/news/macenews:f1c4247ed094b:0-boj-sept-quarter-tankan-large-manufacturer-sentiment-index-at-24-june-22-median-forecast-25/",
-   "published_utc": "2026-09-30T23:51:00+00:00",
-   "title_original": "BOJ SEPT QUARTER TANKAN LARGE MANUFACTURER SENTIMENT INDEX AT +24 (JUNE +22); MEDIAN FORECAST +25",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "131db5073eb7b809"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Japan big manufacturers' confidence improves to 24 in Sept. from 22: BOJ",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMRlItT0ozSEdlUXpJbTdJWkhaUldSWUVGSS1MNjYtbGl2YnFaTVZmR1BSZXVvMTNKdUJYVnJvd1M0MG5EN1Z5Q0EyOXJ1b2liYUlBWVZjMExvUQ?oc=5",
-   "published_utc": "2026-09-30T23:51:00+00:00",
-   "title_original": "BREAKING NEWS: Japan big manufacturers' confidence improves to 24 in Sept. from 22: BOJ",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "2f04b59ac05f5b4d"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
-   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
-   "published_utc": "2026-09-30T23:50:00+00:00",
-   "title_original": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1e9bd8a57c0b32eb"
   },
   {
    "source_id": "manual_ia",
