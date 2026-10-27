@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T06:52:45.906847+00:00
+Última coleta: 2026-10-27T07:02:44.018247+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          973
@@ -17,8 +17,9 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean shares end over 3% higher on US rally, strong GDP
+  - [japan] Japan’s trend inflation index hits 3-year high, cements case for BOJ rate hike
   - [japan] Japan eyes 1 tril. yen private investment into Bangladesh over 5 yrs
-  - [japan] Japan's trend inflation index hits 3-year high, cements case for BOJ rate hike
   - [korea] Kospi Gains as Chip, Battery Stocks Advance
   - [korea] S.Korea’s 1% Q3 growth sets pace to beat BOK’s 3.3% annual forecast
   - [japan] CPI excluding special factors accelerates sharply in September, perhaps supporting Bank of Japan's 2% trend (R
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Chips&Media Inc Q3 Operating Profit 1.7 Billion Won, Up 8.7% From Year Earlier
   - [taiwan] TSMC to raise advanced chip packaging prices by up to 20%, report says
   - [japan] Yen Weakens as Safe-Haven Demand Fades
-  - [china] China’s industrial profits rises most in three months on oil, AI
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T06:52:46+00:00",
+      "published_utc": "2026-10-27T07:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
