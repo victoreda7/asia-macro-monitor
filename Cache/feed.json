@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-27T22:02:45.135433+00:00",
- "collected_at_utc": "2026-10-27T22:02:45.135433+00:00",
+ "generated_at_utc": "2026-10-27T22:12:43.577284+00:00",
+ "collected_at_utc": "2026-10-27T22:12:43.577284+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 953,
+  "japan": 952,
   "china": 854,
-  "taiwan": 382,
+  "taiwan": 383,
   "korea": 811
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-24T01:44:19+00:00"
+   "newest": "2026-10-25T00:41:58+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T10:08:28+00:00"
+   "newest": "2026-10-27T10:08:57+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-27T22:01:08+00:00"
+   "newest": "2026-10-27T22:11:51+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T09:37:00+00:00"
+   "newest": "2026-10-27T21:55:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-28T06:45:00+09:00"
+   "newest": "2026-10-28T07:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-26T12:19:40+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "The first wave of exit polls for the Israeli election comes out, with the opposition slightly leading by less than half | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42azBSRXBRRWF1WHp1VXYwU2FxTi04djFOOHlIaXNGYkkwY3B5MFlZeG12eG5NSVlOZnV1LTQ2VFhaS25SSlZZV2ZsX2JSSTRRa0hTa0E3b2RQUGRiWjVN?oc=5",
+   "published_utc": "2026-10-27T21:55:00+00:00",
+   "title_original": "以色列大選首波出口民調出爐反對派微幅領先未過半| 國際",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6a3a815c4cc3cb00"
+  },
   {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
@@ -4332,9 +4349,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -4346,7 +4363,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b972d8c6ac9362b"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4538,6 +4555,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5143,24 +5178,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -9696,23 +9713,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
-   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaVlGcjZfUlBESnYxelFndUgybDRWQkpQeW40eHBwNTlYMHh4TnJUY1J2S19kZElIeGd1ajlQcWQ5VHhROXJvX1NXdWFEa1l4Qmc?oc=5",
-   "published_utc": "2026-10-22T07:47:42+00:00",
-   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e77a77dfde09eac"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "CEO스코어데일리",
    "title_en": "Bank of Korea, ‘taking a breather’ with base interest rate... Shin Hyun-song, “The past two rounds of ‘homing’ have paid off”",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04SVpMTHBuOGc3SjVsdHhQM0ZHd2Y2TkNOWmcwbjhlQTZoV1NHRzloOHBOZ0ZxTUtwM2YtbDFsVVB0UmV5dFZwdXkzWmxkZDdhR3FreDJBeXJpUjdva1dBVWc1c3dXcUZC?oc=5",
@@ -9761,6 +9761,23 @@
    "live_wire": false,
    "manual": false,
    "id": "dbed6b67f81300ac"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제TV",
+   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSHlwMkhTa2dtZkZvdUZwSVI1Tk03OEhwNFJTdDk4OERWLXFhX19pSXdlbXZXX1pXb09EcU1rZncxR2pBaE1IbU1vTF9YUlhNelpvS2MxODJlM0ZFemZlMFlWZ3JpT2F0?oc=5",
+   "published_utc": "2026-10-22T07:29:00+00:00",
+   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bfd94abb0650cc0d"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -19918,6 +19935,24 @@
    "id": "137e90d2f3fb2ade"
   },
   {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0IwaktBNmdOemNfNWgydVVvdk9oVklTal9UTkNpMkNQcWdPT0JuN3BleXAtZUM5X3pmUU0xandTdkt2aHo4UlJsVjNOTnY5U2IxZzJZVW9Mdnhsb21kdEFPaDN2UjQ1Wi0yNTFMYllpT0ZLQUxvVEVqTnRxTHI4YlpvQy1CMVpJMkJpeE12aVVCeE8wc0N6SG9ZSDJJdVFTclE?oc=5",
+   "published_utc": "2026-10-18T07:00:00+00:00",
+   "title_original": "Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains",
+   "region": "taiwan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8239ca419f282f49"
+  },
+  {
    "source_id": "gn_jp_kyodo",
    "source_name": "Japan Wire by Kyodo News",
    "title_en": "BREAKING NEWS: 65.1% concerned about consumption tax cut's fiscal impact: Kyodo poll",
@@ -20491,24 +20526,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9d2839c7343126db"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0IwaktBNmdOemNfNWgydVVvdk9oVklTal9UTkNpMkNQcWdPT0JuN3BleXAtZUM5X3pmUU0xandTdkt2aHo4UlJsVjNOTnY5U2IxZzJZVW9Mdnhsb21kdEFPaDN2UjQ1Wi0yNTFMYllpT0ZLQUxvVEVqTnRxTHI4YlpvQy1CMVpJMkJpeE12aVVCeE8wc0N6SG9ZSDJJdVFTclE?oc=5",
-   "published_utc": "2026-10-17T18:39:00+00:00",
-   "title_original": "Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains",
-   "region": "taiwan",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "8239ca419f282f49"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -51859,24 +51876,6 @@
    "live_wire": false,
    "manual": false,
    "id": "599025f61d0ddf78"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Sources of Changes in Current Account Balances and Market Operations (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf09.xlsx",
-   "published_utc": "2026-10-01T04:00:00+00:00",
-   "title_original": "Sources of Changes in Current Account Balances and Market Operations (Sept.)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9bfd1df757ddaa40"
   },
   {
    "source_id": "manual_ia",

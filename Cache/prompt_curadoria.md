@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T22:02:45.135433+00:00
+Última coleta: 2026-10-27T22:12:43.577284+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          953
+  🇯🇵 Japão          952
   🇨🇳 China          854
-  🇹🇼 Taiwan         382
+  🇹🇼 Taiwan         383
   🇰🇷 Coreia do Sul  811
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] The first wave of exit polls for the Israeli election comes out, with the opposition slightly leading by less 
   - [japan] <Machine tool trends that can be understood in 5 minutes> Orders received at record high in September; concern
   - [japan] Today's Japan-German summit meeting to confirm supply chain strengthening, etc.
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 202.63, Implies 39% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Retail price of eggs reaches record high “Avian influenza continues to affect” Ministry of Agriculture, Forest
   - [japan] Mr. Hitoshi Sasaki is appointed as the new branch manager of the Bank of Japan's Shizuoka Branch, with the amb
   - [japan] Meiko Electronics - Announcement Of Execution Of A Basic Agreement Regarding Acquisition Of Shares Of Unimicro
-  - [korea] Huons Global To Acquire Real Estate Worth 244.5 Billion Won
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T22:02:45+00:00",
+      "published_utc": "2026-10-27T22:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
