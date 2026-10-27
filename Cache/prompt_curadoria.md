@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T02:32:43.292324+00:00
+Última coleta: 2026-10-27T02:42:44.705991+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          976
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] "Peak-cutting and valley-filling" precise adjustment, MLF volume reduction continuation in October
   - [korea] Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows
   - [korea] Rupiah, peso lead losses among Asian currencies; won bucks trend
   - [korea] South Korean shares surge on US rally, strong GDP
@@ -30,6 +31,7 @@ Total: 3000 manchetes
   - [china] China Industrial Profits Rise 14.4%, Fastest Growth in Three Months
   - [china] CHINA PBOC CONDUCTS CNY412 BLN VIA 7-DAY REVERSE REPO TUES
   - [china] China Industrial Profits Grow 15.5% YoY in Jan-Sept
+  - [china] China’s Industrial Profits Jump Most in Three Months on Oil, AI
   - [china] CHINA PBOC CONDUCTS CNY1000 BLN VIA O/N REVERSE REPO TUES
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7171 TUES VS 6.7162
   - [china] China's industrial profits rise 15.5% in January-September
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korea’s AI Fund Offers ‘Fiscal Dam’ Against Higher Yields
   - [japan] Services Producer Price Index (Sept.)
   - [korea] South Korea GDP grows more than expected in Q3 on AI boost
-  - [korea] (LEAD) S. Korea's GDP expands 1 pct in Q3 on strong exports, investment: BOK
-  - [korea] South Korea Q3 GDP Growth Tops Forecasts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T02:32:43+00:00",
+      "published_utc": "2026-10-27T02:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
