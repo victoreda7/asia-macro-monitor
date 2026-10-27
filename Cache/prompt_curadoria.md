@@ -7,21 +7,25 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T23:32:44.009930+00:00
+Última coleta: 2026-10-27T23:42:45.765448+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          956
-  🇨🇳 China          849
+  🇯🇵 Japão          957
+  🇨🇳 China          845
   🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  812
+  🇰🇷 Coreia do Sul  815
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix 3Q Net KRW39.776T Vs. Net KRW12.598T >000660.SE
+  - [korea] SK Hynix 3Q Net Profit Below FactSet-Compiled Consensus
+  - [korea] SK Hynix 3Q Oper Pft KRW83.334T Vs. Pft KRW11.383T >000660.SE
+  - [japan] What kind of discussion will unfold at the Bank of Japan's October meeting? (NRI researcher's commentary on cu
   - [korea] SK Hynix 3Q Rev KRW104.615T Vs. KRW24.449T >000660.SE
+  - [taiwan] The first wave of exit polls for the Israeli election comes out, with the opposition slightly leading by less 
   - [japan] Mapletree Industrial Trust: Yen Depreciation Against Singapore Dollar Also Weighed on Rev >ME8U.SG
   - [japan] FX weekly: Dollar slips weekly as Yen leads major currency gains
   - [japan] ``In the past, we would have received twice as much as younger people,'' but due to fewer posts, annual income
-  - [taiwan] The first wave of exit polls for the Israeli election comes out, with the opposition slightly leading by less 
   - [japan] [Machine tool trends that can be understood in 5 minutes] Concerns about "over-investment in AI" as orders rea
   - [japan] Today's Japan-German summit meeting to confirm supply chain strengthening, etc.
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 202.63, Implies 39% Upside
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Shanghai V-Test Semiconductor Tech To Invest In Shanghai HQ Project
   - [china] Sinograin vende 172.240 t de soja importada pela China, aponta Mysteel
   - [taiwan] Taiwan's 2027 budget with NT$10,000 handouts heads to committee
-  - [china] Gree Electric Appliances's Shareholder To Raise Stake By 600-1200 Million Yuan
-  - [china] Hainan Airport Infrastructure Q3 Net Loss At 132.6 Million Yuan
-  - [japan] Digital Core REIT Announces Pricing Of JPY 5 Bln 3.47% Fixed Rate Notes Due 2031
-  - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 199.71, Implies 37% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T23:32:44+00:00",
+      "published_utc": "2026-10-27T23:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
