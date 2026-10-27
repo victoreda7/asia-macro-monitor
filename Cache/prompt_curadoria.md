@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T15:42:44.819191+00:00
+Última coleta: 2026-10-27T15:48:59.737025+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          957
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's EV subsidies face uncertain future as country's 'DOGE' takes aim
   - [korea] SK hynix Stocks Gain 5.18% Before Its Payout Plan Faces Board Scrutiny
   - [china] Portuguese president condemns violence, calls for ending housing crisis
   - [china] Xinjiang Beixin Road & Bridge Q3 Net Loss At 163.1 Million Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] How This U.S. Agency Works to Beat China at Building Energy and Mineral Supply Chains — Barrons.com
   - [china] Sichuan Development Lomon Q3 Net Loss At 402.2 Million Yuan
   - [korea] South Korea's economy grew 1.0 percent in the third quarter on strong semiconductor exports and faci..
-  - [korea] Exports, facility investment, and government consumption "three-horse cars" led the Korean economy i..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T15:42:45+00:00",
+      "published_utc": "2026-10-27T15:48:59+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
