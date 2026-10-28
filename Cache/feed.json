@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T02:52:46.031318+00:00",
- "collected_at_utc": "2026-10-28T02:52:46.031318+00:00",
+ "generated_at_utc": "2026-10-28T03:02:44.054831+00:00",
+ "collected_at_utc": "2026-10-28T03:02:44.054831+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 936,
-  "china": 836,
+  "japan": 935,
+  "china": 837,
   "taiwan": 385,
   "korea": 843
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T02:22:09+00:00"
+   "newest": "2026-10-28T02:48:33+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T01:48:41+00:00"
+   "newest": "2026-10-28T02:45:33+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T11:38:00+09:00"
+   "newest": "2026-10-28T11:59:52+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 25,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:25:23+00:00"
+   "newest": "2026-10-27T05:46:33+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T02:44:42+00:00"
+   "newest": "2026-10-28T03:01:57+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-28T01:33:48+00:00"
+   "newest": "2026-10-28T02:59:03+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T21:55:00+00:00"
+   "newest": "2026-10-28T02:53:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -344,6 +344,41 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "South Korean Stocks Rally as SK Hynix Payout and AI Optimism Boost Markets",
+   "url": "https://www.tradingview.com/news/DJN_DN20261027014144:0-south-korean-stocks-rally-as-sk-hynix-payout-and-ai-optimism-boost-markets/",
+   "published_utc": "2026-10-28T02:54:00+00:00",
+   "title_original": "South Korean Stocks Rally as SK Hynix Payout and AI Optimism Boost Markets",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "3471d4fc141ef047"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Is the stock market falsely decoupled from the typhoon? Yang Jinlong: Depending on the attitude of the Financial Supervisory Committee, the central bank will cooperate with foreign exchange | Sankei",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBydTJSR1R0NjhaUHFIY1BqbjlGU2hISjFPSndTbGtoM0VUZ0dJaEJKOW14XzFueTFXMXFnTzRDZWRuR2FqWHJ4bFJWWXdFY1RLdVZIak9NVXJtbHduZ1E?oc=5",
+   "published_utc": "2026-10-28T02:53:00+00:00",
+   "title_original": "股市與颱風假脫鉤？楊金龍：視金管會態度央行配合外匯面| 產經",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "38704293ad4a6009"
+  },
+  {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
    "title_en": "NPS sets sights on Silicon Valley startups, tightens risk control on AI bets",
@@ -359,6 +394,23 @@
    "live_wire": false,
    "manual": false,
    "id": "ed3704345b2a626d"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Why is SK Hynix stock surging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4977400",
+   "published_utc": "2026-10-28T02:48:33+00:00",
+   "title_original": "Why is SK Hynix stock surging today?",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "193c314b45bc40aa"
   },
   {
    "source_id": "tradingview_live",
@@ -1798,8 +1850,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -1814,7 +1866,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "focus_taiwan",
@@ -3341,23 +3393,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9169e480f65f285f"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Why is SK Hynix stock surging today?",
-   "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007",
-   "published_utc": "2026-10-27T00:44:04+00:00",
-   "title_original": "Why is SK Hynix stock surging today?",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "387f697cfb1b5205"
   },
   {
    "source_id": "yahoo_business",
@@ -5138,9 +5173,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -5152,7 +5187,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b972d8c6ac9362b"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5344,6 +5379,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5949,24 +6002,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -8637,24 +8672,6 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "湖南红网",
-   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JOU4xQURkbWUzMkFXZkI1bXRrZHNtckpVaHE1YVd5TXZkbWJCTEJKYnNYQmVnZUQ2OXlSNWFrZkFDZzVCZ21NeG1IWDFtcEkyUkRWOFpTaVpoLWZUdFNvRC1fR3lVUQ?oc=5",
-   "published_utc": "2026-10-23T02:15:26+00:00",
-   "title_original": "央行开展2580亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "649f01690852552b"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
@@ -8722,6 +8739,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ab3208d7cfdf114d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wemhzYTYzWkM3NllscXN6dkhkenVwRnlxSm5MZFVmYU1XRkNJamFXLU1zTHJkTFY2LUlOT3JneUctb3o4RVNKb2RTaFVJMUtkMFlsWjVhM1pGdDJrRlU0d2IzSlotY29f?oc=5",
+   "published_utc": "2026-10-23T01:53:53+00:00",
+   "title_original": "央行开展2580亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b449075bd88b714"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -23668,6 +23703,23 @@
   {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
+   "title_en": "TSMC details pricing, confirms agentic AI boosts CPU demand",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORGdnRGx2eEd5LWVuc1hEMmxIemQ4Z255OHpGUXBRcXZJX09LeGhyNjVSUGRsZDZpZEpYNUl3c2V5Wml0UFpVQkJCRmpaWFBIbC1Da1RTek5vckd5cGtwNkxLQTF3N3ZRZnZCMmFjTGpYQTdWVWVTMFJYSGktU21IcmZQSnZjanhvc1k2NDF3?oc=5",
+   "published_utc": "2026-10-16T07:00:00+00:00",
+   "title_original": "TSMC details pricing, confirms agentic AI boosts CPU demand",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "07d3cbedfebbd34a"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
    "title_en": "TSMC excludes CPUs from AI accelerator growth forecast",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSjE4a2Q3X3lhTV96TnJiR2d5RHJNa1RoMTFxcmh1ZTBDNFZnUHF6SXVZckYwOTVnYjVWdEhmM3VBbjJQM1BpYmU1b19CVDV0T0FYOW1DemFJeUF4cXVXWDMwV1pWNDA3b3VKVzZvUVZQOWhLWUhSR2JXUUlCWlNCMzR2YUlHd2g0YnVWQk1ld3Jsdw?oc=5",
    "published_utc": "2026-10-16T07:00:00+00:00",
@@ -24157,23 +24209,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e7a8ca786d1a7767"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "TSMC details pricing, confirms agentic AI boosts CPU demand",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORGdnRGx2eEd5LWVuc1hEMmxIemQ4Z255OHpGUXBRcXZJX09LeGhyNjVSUGRsZDZpZEpYNUl3c2V5Wml0UFpVQkJCRmpaWFBIbC1Da1RTek5vckd5cGtwNkxLQTF3N3ZRZnZCMmFjTGpYQTdWVWVTMFJYSGktU21IcmZQSnZjanhvc1k2NDF3?oc=5",
-   "published_utc": "2026-10-16T02:07:43+00:00",
-   "title_original": "TSMC details pricing, confirms agentic AI boosts CPU demand",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "07d3cbedfebbd34a"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -51829,40 +51864,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5f9188913f0460ec"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The appointments of Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minis..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xUHY2d1RXUVhISFZJekJfdlBCNTY5YmF0S21pZllrUTNZbjNBd1N1aEtmb3RnRnc5bnZjQWFfQl9ENDJuaTZCZ2h4cHpXbkFvM2c?oc=5",
-   "published_utc": "2026-10-01T08:38:03+00:00",
-   "title_original": "The appointments of Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il and Minis..",
-   "region": "korea",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "9a51c19822a3b35e"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "``Main opinions'' announced at Bank of Japan's September meeting; no comments on continuous interest rate hikes (Mainichi Shimbun)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VeHZ3bFEtc3NtTXdKTlZGdGplVk5famlQenRRWTh1N1FqejNRZEFNVG9tRlhsYzAwYXJZaE9TZERJWGFWaWFzWjhPMlllTjlnemcxM2VMLVpIT2ZhSE5EenVVcDdGRExWLUJzUENHYTN0TFVUTFQ1OUZmWEtCQjg?oc=5",
-   "published_utc": "2026-10-01T08:31:30+00:00",
-   "title_original": "日銀9月会合「主な意見」公表 連続利上げに踏み込んだ発言なし（毎日新聞）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "38611bcc5d762797"
   },
   {
    "source_id": "manual_ia",
