@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T00:22:42.830136+00:00
+Última coleta: 2026-10-28T00:32:46.064928+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          950
-  🇨🇳 China          838
+  🇯🇵 Japão          948
+  🇨🇳 China          837
   🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  829
+  🇰🇷 Coreia do Sul  832
 
 ## O que já está no feed (não repita)
 
+  - [korea] Correct: SK Hynix: To Pay More Than KRW30T in Dividends, Not KRW30B
+  - [korea] SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings
   - [korea] SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand
   - [china] Meituan to Raise $1.20 Billion Via Offshore Yuan Bond Sale
   - [korea] Key facts: SK hynix (000660) shareholder return; record Q3 profit; HBM4 mass production Q2 2027
@@ -25,6 +27,7 @@ Total: 3000 manchetes
   - [korea] SK Hynix Unveils $75 Billion Shareholder Return Plan After Reporting Sevenfold Increase in Q3 Profit
   - [korea] SK Hynix unveils shareholder return plan worth $75 billion after posting 7-fold jump in Q3 profit
   - [korea] SK Hynix: To Buy Back Additional KRW20T of Shares
+  - [korea] SK Hynix: To Pay More Than KRW30T in Dividends
   - [korea] SK Hynix: To Pay More Than KRW30B in Dividends
   - [korea] SK Hynix Q3 profit beats expectations, vows $75 bln in shareholders returns
   - [korea] SK hynix posts record Q3 profit, plans W100tr in shareholder returns this year
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar rises as markets eye central bank meetings By Reuters
   - [korea] SK Hynix $155 call OI leads options chain as 6.7% Q3 swing looms
   - [japan] Japan's EV subsidies face uncertain future as country's 'DOGE' takes aim
-  - [taiwan] High inflation to persist globally into next year, Reuters poll shows
-  - [korea] SK hynix Stocks Gain 5.18% Before Its Payout Plan Faces Board Scrutiny
-  - [china] Portuguese president condemns violence, calls for ending housing crisis
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T00:22:43+00:00",
+      "published_utc": "2026-10-28T00:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
