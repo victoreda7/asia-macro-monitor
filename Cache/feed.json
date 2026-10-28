@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T21:52:48.755616+00:00",
- "collected_at_utc": "2026-10-28T21:52:48.755616+00:00",
+ "generated_at_utc": "2026-10-28T22:02:52.821460+00:00",
+ "collected_at_utc": "2026-10-28T22:02:52.821460+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 909,
-  "china": 838,
+  "china": 839,
   "taiwan": 390,
-  "korea": 863
+  "korea": 862
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-28T02:16:20+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 27,
    "error": "",
-   "newest": "2026-10-27T05:46:33+00:00"
+   "newest": "2026-10-28T01:25:23+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T21:52:00+00:00"
+   "newest": "2026-10-28T22:02:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T13:36:11+00:00"
+   "newest": "2026-10-28T16:37:35+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-29T06:45:00+09:00"
+   "newest": "2026-10-29T07:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T09:19:41+00:00"
+   "newest": "2026-10-28T08:31:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1272,6 +1272,23 @@
    "live_wire": false,
    "manual": false,
    "id": "68c4c0d75c45e3e1"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "Hong Kong exports jump nearly 65% in September, highest growth in over 40 years",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNUs0R0NjX0dwRmd1bFRFejRPVGc0Ri14N1k4UGZsdjNfbnliS0pZcmFKYjVydG5yMXdCeDFIWWx2T2ZteGV4ZjBuMmRjaXZlVWw2SXh4NzlyNFYxTjAtUms1V3FIZ3dPNFNDTHYxYUw0SmlYV0F5Z2FPanlUYl9TSDBleFU0alhJb0dTbTAzU1VCS0JFWnM1UG9mR1J2WjFjdGs3b1NLTkltbElmYjg0c1VwN1NQaXE5Z3lUaDdKU0JnVElDSzRoMUM3cWZzdHViU09ySzE3Z0nSAdgBQVVfeXFMUGpoV1dsc1cwSVIzeVE2YVFKNzZHUEdtWnZiY2loTUFUNU9uQnk1R3FuQmVodDZVZUxBNDRJNWRmcURhZ1V6WHlhWFRVaHRhWjg1bXg3Z0NPSnUyTTU5TTA5dTdveWgwZEpUVm8yNW5kWXpIZDFtWUdDWmhCVWlsc1NWMUZkOHY5T2FaXzNfcXRfRXRkWk10ZVlHZmNvSllzckFENEVhTEZfSkVHbUVDNnQ1ZXdJanJ0TVFTOUVKZ3JGeExjLV9FTHJoNE9HQmNrZ1NEMHdWOEdF?oc=5",
+   "published_utc": "2026-10-28T08:53:24+00:00",
+   "title_original": "Hong Kong exports jump nearly 65% in September, highest growth in over 40 years",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ba441e8d96980796"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -3218,8 +3235,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -3234,7 +3251,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "focus_taiwan",
@@ -6627,6 +6644,24 @@
    "id": "e12668b3e0b0dbdc"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVUxuT01uNzVGcWdXNjJsNmZXY2tjajQ2NGcxeWVaNkRRLUtSNlFoTGhfeGhhYUNENUNRY01PVF9mVDVmTl8tZGlYTFNOMEtGd2lVZmg0SzljbnUtQUs0aXVNU0hkanJZMHlXS0VZTzFBcm8ydlZhRU5LcDhCWUVCMUhqMWZ4VTI3akE?oc=5",
+   "published_utc": "2026-10-26T03:09:06+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "26723466cf9fd537"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks expected to maintain tight lending standards in Q4: BOK survey",
@@ -6645,9 +6680,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -6659,7 +6694,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "2b972d8c6ac9362b"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6818,6 +6853,24 @@
    "id": "3a3f57c11641a184"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
+   "published_utc": "2026-10-26T02:13:49+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1033a50b0d22ef1a"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..",
@@ -6833,24 +6886,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -7027,24 +7062,6 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新湖南",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
-   "published_utc": "2026-10-26T00:06:24+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -7440,6 +7457,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -8439,24 +8474,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9f5caab2bcd6c61a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
-   "published_utc": "2026-10-23T14:14:15+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",
@@ -9714,7 +9731,7 @@
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGFvMzJqX3oycUE3ZVZadUNER2xDWUZpUW95NDhXdkVjblVjaWFUMUpvem9IVlNVMW5YemVGVkRnQ1U2Y0tQRTAwcWd4Qm93M1Y2WV81aWNza3RGczhqTnNSYTdrYkdObTBTdzBMT3pnTzFoUFN4LVNLZUZkOWQwVFV0TVZxZUtDUDVUQ21BemxPTWZGbThWSHRJQnVYYl9nNWlHTGQ4VFNJLVEwLWF4WWE3bmEwcUZHNlpXX0NSemdha3ItNWczN0R6cC1SQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1RzcGc5ekpZM0h0SER4alRGU19YNE9idVpaWDQtc2JKWnp0YnVUVmNkTlQ5S1JFYUFoRnBRRW9UTnUtTXlwQ2RNNGZzdmxrbzBqRHVQUWtyT2xaSlhlVVVRRjRvaTVHQmtKWVYzOTdScEJxd2NyT25oVi1kRW5Lc0lzeWpBN0lVRlZqQ1JhMzM5NGxwdlg0UWNrajVjX1MwT082N0EyTWZoZDRfejB0Z1JTQl9zOTB5UTkxUU1BX090a3NBUWRjYnF5RG8?oc=5",
    "published_utc": "2026-10-23T06:30:52+00:00",
    "title_original": "TSMC advances CoPoS packaging at Taoyuan Longtan site",
    "region": "taiwan",
@@ -9726,7 +9743,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "325b6e574400629e"
+   "id": "6a6d33d7a8754e6c"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -27947,6 +27964,23 @@
    "id": "51a413bc8920483f"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -27963,23 +27997,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -36820,23 +36837,6 @@
    "id": "fe7fdcc541095358"
   },
   {
-   "source_id": "gn_kr_yonhap",
-   "source_name": "Yonhap News Agency",
-   "title_en": "(2nd LD) BOK chief says back-to-back rate hikes bought time to respond to financial risks",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwbDhoRUkyRUs1ZnZIaG1iSkRtbDdnMWJjOWhxTldhcDZYTHJSbVh0ajhJVUhLUUhBd2dxcjNENnVLWWlFRm5ZanZZU05rY2haa3VndGFBd2hQdw?oc=5",
-   "published_utc": "2026-10-12T07:00:00+00:00",
-   "title_original": "(2nd LD) BOK chief says back-to-back rate hikes bought time to respond to financial risks",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "08247f61a9a38de9"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Rapidus targets customers underserved by TSMC, but can it convince them to take the risk?",
@@ -36852,6 +36852,23 @@
    "live_wire": false,
    "manual": false,
    "id": "0da91e6db5f6dced"
+  },
+  {
+   "source_id": "gn_kr_yonhap",
+   "source_name": "Yonhap News Agency",
+   "title_en": "(2nd LD) BOK chief says back-to-back rate hikes bought time to respond to financial risks",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwbDhoRUkyRUs1ZnZIaG1iSkRtbDdnMWJjOWhxTldhcDZYTHJSbVh0ajhJVUhLUUhBd2dxcjNENnVLWWlFRm5ZanZZU05rY2haa3VndGFBd2hQdw?oc=5",
+   "published_utc": "2026-10-12T07:00:00+00:00",
+   "title_original": "(2nd LD) BOK chief says back-to-back rate hikes bought time to respond to financial risks",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "08247f61a9a38de9"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51853,23 +51870,6 @@
    "live_wire": false,
    "manual": false,
    "id": "12b7e3dc0fd807c8"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일신문",
-   "title_en": "As the base interest rate rises, the CMA also gets excited... Securities company interest rate competition ‘active’",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CcjhPeVZJckFGWGYyUGxjRS0taFpsRU55Q0F1ekFQMFZuTGhicXc2bUtLU2FYdWpiLXZkWU1MczdoMGhYc0RYTktzWU9ldmRjMTRNNEVXbUNNenBzNm1FOGhn?oc=5",
-   "published_utc": "2026-10-02T01:18:23+00:00",
-   "title_original": "기준금리 오르자 CMA도 들썩…증권사 금리 경쟁 `활활`",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f33934b8e64a58ce"
   },
   {
    "source_id": "manual_ia",
