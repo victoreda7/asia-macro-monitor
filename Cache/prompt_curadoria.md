@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T18:22:46.027046+00:00
+Última coleta: 2026-10-28T18:32:46.227194+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          909
+  🇯🇵 Japão          910
   🇨🇳 China          835
   🇹🇼 Taiwan         391
-  🇰🇷 Coreia do Sul  865
+  🇰🇷 Coreia do Sul  864
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan weighs corporate tax hike to fund defense buildup
   - [japan] Fed leaves policy interest rate unchanged for the first time in two meetings, perhaps to assess the impact on 
   - [korea] Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [japan] Takaichi presses Merz not to leave Japan out of 'Made in Europe' EV subsidies
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Semiconductor raising prices could mean less competition from Intel: Wedbush
   - [korea] Lynx sees SK Hynix results rekindling interest in this chip stock
   - [japan] Shinya Ueda The price gap with Japan that I felt in the United States: ``If it were in Japan, it would be 1,50
-  - [korea] SK hynix Is Maintained at Buy by Rosenblatt
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T18:22:46+00:00",
+      "published_utc": "2026-10-28T18:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
