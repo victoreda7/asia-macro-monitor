@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T10:02:43.702694+00:00
+Última coleta: 2026-10-28T10:12:43.285661+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          925
+  🇯🇵 Japão          924
   🇨🇳 China          839
   🇹🇼 Taiwan         387
-  🇰🇷 Coreia do Sul  849
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
@@ -34,6 +34,7 @@ Total: 3000 manchetes
   - [china] Yuan Long Ping High-Tech Agriculture Q3 Net Loss At 402.4 Million Yuan
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
   - [korea] Finance minister hopes for Bloomberg review of S. Korea's market status
+  - [korea] SK Hynix announced its plan to return more than KRW 60 trillion to additional shareholders within th..
   - [china] Inner Mongolia Yuan Xing Energy Company: Q3 sales grew, profit softened, and the arbitration settlement was co
   - [korea] S. Korean won sharply weakens against US dollar
   - [korea] Earnings Snapshot: SK hynix posts Q3 revenue beat, announces ₩20T buyback and ₩14T Q3 dividend
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi hits two-week high on tech rally as SK Hynix plans $75 bn payout on record profit
   - [korea] Amended: SK Hynix Earnings Up In Q3; Shares Surge
   - [china] China's Economic Growth Likely to Stabilize in 4Q — Market Talk
-  - [taiwan] Israel fears change, opposition temporarily leads in exit polls
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T10:02:43+00:00",
+      "published_utc": "2026-10-28T10:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
