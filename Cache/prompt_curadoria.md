@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T15:02:45.382526+00:00
+Última coleta: 2026-10-28T15:12:45.749662+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          912
+  🇯🇵 Japão          911
   🇨🇳 China          836
   🇹🇼 Taiwan         393
-  🇰🇷 Coreia do Sul  859
+  🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [china] China’s Policy Banks Complete 800 Billion Yuan Financing Push
+  - [korea] SK Hynix Stock Rallies as Chipmaker Plans Massive Buyback and Special Dividend
   - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] Micron, SK Hynix, GE Vernova, Alphabet, Vertiv, Boston Scientific, and More Stocks That Explain Today's Market
   - [korea] Cantor Fitzgerald reiterates SK Hynix stock rating on AI demand
@@ -54,9 +56,7 @@ Total: 3000 manchetes
   - [korea] Asia report: SK Hynix leads chip rally after record profits
   - [korea] Nasdaq Futures Rise as SK Hynix Boosts Chip Sector Ahead of Fed Decision, Earnings Release
   - [korea] Nasdaq futures gain as SK Hynix lifts chips ahead of Fed decision, earnings
-  - [china] Zhejiang Zheneng Electric Power Q3 Net Loss At 56.8 Million Yuan
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
-  - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T15:02:45+00:00",
+      "published_utc": "2026-10-28T15:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
