@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T22:42:43.320645+00:00
+Última coleta: 2026-10-28T22:52:43.179414+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          909
+  🇯🇵 Japão          908
   🇨🇳 China          839
   🇹🇼 Taiwan         389
-  🇰🇷 Coreia do Sul  863
+  🇰🇷 Coreia do Sul  864
 
 ## O que já está no feed (não repita)
 
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 36% Upside
+  - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
   - [korea] South Korea’s Manufacturing Sentiment Weakens Slightly
   - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
   - [japan] Japan girds for new wave of food price hikes as tanker rates soar
@@ -34,7 +35,6 @@ Total: 3000 manchetes
   - [korea] SK hynix: AI-led memory demand drove record Q3 results and ~KRW 100T in planned FY2026 shareholder returns
   - [japan] Japan weighs corporate tax hike to fund defense buildup
   - [japan] Takaichi presses Merz not to leave Japan out of 'Made in Europe' EV subsidies
-  - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
   - [korea] SK hynix Stocks Rally 10.89% With Buyback Cancellation Split in Focus
   - [china] Tunisia sets 3.1 pct economic growth target for 2027
   - [korea] US sanctions North Korean network accused of defrauding businesses
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T22:42:43+00:00",
+      "published_utc": "2026-10-28T22:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
