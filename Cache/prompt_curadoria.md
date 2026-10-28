@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T20:32:46.518786+00:00
+Última coleta: 2026-10-28T20:42:54.939139+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          909
@@ -24,6 +24,7 @@ Total: 3000 manchetes
   - [korea] Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3234972.13, Implies 141% Upside
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45831.82, Implies 35% Upside
+  - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] SK hynix: AI-led memory demand drove record Q3 results and ~KRW 100T in planned FY2026 shareholder returns
   - [japan] Japan weighs corporate tax hike to fund defense buildup
   - [japan] Takaichi presses Merz not to leave Japan out of 'Made in Europe' EV subsidies
@@ -40,7 +41,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Stocks Rally 9% Ahead of Earnings and Cash-Return Details
   - [china] China’s Policy Banks Complete 800 Billion Yuan Financing Push
   - [korea] SK Hynix Stock Rallies as Chipmaker Plans Massive Buyback and Special Dividend
-  - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] Micron, SK Hynix, GE Vernova, Alphabet, Vertiv, Boston Scientific, and More Stocks That Explain Today's Market
   - [korea] Cantor Fitzgerald reiterates SK Hynix stock rating on AI demand
   - [korea] Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T20:32:46+00:00",
+      "published_utc": "2026-10-28T20:42:55+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
