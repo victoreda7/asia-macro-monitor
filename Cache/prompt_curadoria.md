@@ -7,19 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T13:42:45.362758+00:00
+Última coleta: 2026-10-28T13:52:46.096118+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          915
+  🇯🇵 Japão          914
   🇨🇳 China          836
-  🇹🇼 Taiwan         391
+  🇹🇼 Taiwan         392
   🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [korea] S&P 500 and Nasdaq open higher with SK Hynix boosting semiconductor sector; Fed Spotlight
   - [china] SUNING.COM Q3 Net Loss At 73.2 Million Yuan
+  - [china] IMF says deputy managing director Li to be replaced by Chinese vice finance minister Liao
   - [korea] S&P 500 and Nasdaq open higher with SK Hynix boosting the chip sector; Fed Spotlight
   - [china] BBMG Jidong Cement Group Q3 Net Loss At 488.6 Million Yuan
+  - [taiwan] French media: France is in financial trouble and encounters social protests, adding variables to economic grow
   - [korea] SKHY Stock: Analyst Sees 175% Upside Potential For SK Hynix, Company's Q3 Beat Uplifts MU, SNDK, WDC
   - [china] Axt, Inc. Announces Up To RMB 3.67 Billion (Approximately Us$545 Million) In Private Equity Financing For Subs
   - [china] Intco Medical Technology Q3 Net Loss At 625.2 Million Yuan
@@ -50,13 +53,10 @@ Total: 3000 manchetes
   - [china] Zhejiang Zheneng Electric Power Q3 Net Loss At 56.8 Million Yuan
   - [korea] SK hynix Price Target Maintained With a $250.00/Share by Cantor Fitzgerald
   - [korea] Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
-  - [china] China's September net gold imports via Hong Kong hit five-month high in September
-  - [korea] Cantor Fitzgerald reiterates Overweight rating on SK hynix, $250 price target
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
   - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
   - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
-  - [korea] Finance minister hopes for Bloomberg review of S. Korea's market status
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T13:42:45+00:00",
+      "published_utc": "2026-10-28T13:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
