@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T01:52:43.125882+00:00",
- "collected_at_utc": "2026-10-28T01:52:43.125882+00:00",
+ "generated_at_utc": "2026-10-28T02:02:45.876915+00:00",
+ "collected_at_utc": "2026-10-28T02:02:45.876915+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 939,
+  "japan": 937,
   "china": 837,
   "taiwan": 385,
-  "korea": 839
+  "korea": 841
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:41:58+00:00"
+   "newest": "2026-10-28T00:42:40+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T01:33:36+00:00"
+   "newest": "2026-10-28T01:48:41+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T01:28:55+00:00"
+   "newest": "2026-10-28T01:48:41+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:37:33+00:00"
+   "newest": "2026-10-27T18:45:06+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T15:47:16+00:00"
+   "newest": "2026-10-27T19:47:05+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T01:51:28+00:00"
+   "newest": "2026-10-28T02:01:22+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T19:35:43+00:00"
+   "newest": "2026-10-27T22:33:19+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,62 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T12:19:40+00:00"
+   "newest": "2026-10-26T08:38:46+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7165 WEDS VS 6.7171",
+   "url": "https://www.tradingview.com/news/dpa_afx:c0d96a9af74af:0-china-sets-yuan-central-parity-at-6-7165-weds-vs-6-7171/",
+   "published_utc": "2026-10-28T02:00:38+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7165 WEDS VS 6.7171",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "13c2da2551725cdc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan bond yields rise as haven demand recedes, BOJ meeting looms",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46E036:0-japan-bond-yields-rise-as-haven-demand-recedes-boj-meeting-looms/",
+   "published_utc": "2026-10-28T01:54:32+00:00",
+   "title_original": "Japan bond yields rise as haven demand recedes, BOJ meeting looms",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9e57b88a2dbcd596"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean shares rally 6% as SK Hynix beats forecasts",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E01R:0-south-korean-shares-rally-6-as-sk-hynix-beats-forecasts/",
+   "published_utc": "2026-10-28T01:53:12+00:00",
+   "title_original": "South Korean shares rally 6% as SK Hynix beats forecasts",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c8f88fb299869da6"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -359,6 +411,23 @@
    "live_wire": true,
    "manual": false,
    "id": "6ce452278eb414f4"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "SK hynix Q3 2026 slides: revenue tops 100T, 80% margin on AI boom",
+   "url": "https://www.investing.com/news/company-news/sk-hynix-q3-2026-slides-revenue-tops-100t-80-margin-on-ai-boom-93CH-4977357",
+   "published_utc": "2026-10-28T01:43:29+00:00",
+   "title_original": "SK hynix Q3 2026 slides: revenue tops 100T, 80% margin on AI boom",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "46b759fcee2dd621"
   },
   {
    "source_id": "gn_kr_ked",
@@ -3895,9 +3964,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
    "title_original": "10月26日央行开展560亿元7天期逆回购操作",
    "region": "china",
@@ -3909,7 +3978,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0facd9f9793a1c33"
+   "id": "8166e1f4e20d2cef"
   },
   {
    "source_id": "tradingview_live",
@@ -6126,7 +6195,7 @@
    "source_id": "gn_cn_scmp",
    "source_name": "South China Morning Post",
    "title_en": "Sri Lanka’s property boom gives Chinese developers hope. But old risks linger",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNi1OT0FEUUthWk03REp2UjB6eTFqdEdKdlFYaWRQdU5IUnFabllsdEQ3SzZIQWJTZ1pYUzUyMWFQbVZnYVZlQ195RVBPRHUwSnNkREo2cjZaeXBndnBOaWNmNVRodHhTbHVKem5Ja3VwMFlfSFg5Y3V2c2ZNTi1xRVhXekZ4QXk4cU1mUTZpMEZKdDQwbEp0V1g5aUlNYk9oY0x2NW9OSFdSZkZnQTk0a0FrYzhuMHN1Nk5jYkxwWThNSTgtc0lMNmV3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNi1OT0FEUUthWk03REp2UjB6eTFqdEdKdlFYaWRQdU5IUnFabllsdEQ3SzZIQWJTZ1pYUzUyMWFQbVZnYVZlQ195RVBPRHUwSnNkREo2cjZaeXBndnBOaWNmNVRodHhTbHVKem5Ja3VwMFlfSFg5Y3V2c2ZNTi1xRVhXekZ4QXk4cU1mUTZpMEZKdDQwbEp0V1g5aUlNYk9oY0x2NW9OSFdSZkZnQTk0a0FrYzhuMHN1Nk5jYkxwWThNSTgtc0lMNmV30gHKAUFVX3lxTE1qd3h2TjBFYW85Rjh0ck5VeVJqYVdXT1oySVJNanM0SGR0Q1pyemIyWVJxRmx0WEJ1T3d3NTF6TGJhaFpRUEZ1OGdKRWw4MUVrbFR2TEhYLUZ6azlpMDE4TUVsZ3VfT2Z6VG9pNzVmUGdHeXQtTHdrZG1femtPUURBMWpNWDZ3anA1OEk3Y0ZYeGlEcHdEcWRDWXc4TEoyczZvTEQtZ280VzFCdXdzelY5bDhTcEhYT2NvX1Z5TVhySlRSU0h1WTBzZXc?oc=5",
    "published_utc": "2026-10-25T01:00:11+00:00",
    "title_original": "Sri Lanka’s property boom gives Chinese developers hope. But old risks linger",
    "region": "china",
@@ -6137,7 +6206,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "b08c43c6617caf14"
+   "id": "bbc509540228b08e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -10294,6 +10363,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "매일경제 마켓",
+   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaVlGcjZfUlBESnYxelFndUgybDRWQkpQeW40eHBwNTlYMHh4TnJUY1J2S19kZElIeGd1ajlQcWQ5VHhROXJvX1NXdWFEa1l4Qmc?oc=5",
+   "published_utc": "2026-10-22T07:47:42+00:00",
+   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "8e77a77dfde09eac"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "CEO스코어데일리",
    "title_en": "Bank of Korea, ‘taking a breather’ with base interest rate... Shin Hyun-song, “The past two rounds of ‘homing’ have paid off”",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04SVpMTHBuOGc3SjVsdHhQM0ZHd2Y2TkNOWmcwbjhlQTZoV1NHRzloOHBOZ0ZxTUtwM2YtbDFsVVB0UmV5dFZwdXkzWmxkZDdhR3FreDJBeXJpUjdva1dBVWc1c3dXcUZC?oc=5",
@@ -10342,23 +10428,6 @@
    "live_wire": false,
    "manual": false,
    "id": "dbed6b67f81300ac"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "매일경제TV",
-   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSHlwMkhTa2dtZkZvdUZwSVI1Tk03OEhwNFJTdDk4OERWLXFhX19pSXdlbXZXX1pXb09EcU1rZncxR2pBaE1IbU1vTF9YUlhNelpvS2MxODJlM0ZFemZlMFlWZ3JpT2F0?oc=5",
-   "published_utc": "2026-10-22T07:29:00+00:00",
-   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "bfd94abb0650cc0d"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51796,76 +51865,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a393f3821c69ea6b"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Main opinions from the September meeting of the Bank of Japan: If there are signs of upward movement in prices, the pace of interest rate hikes may accelerate (TBS NEWS DIG Powered by JNN)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtWmhUc0pJQUgwX0NDZ1ZPSnpNbWJhT2JCNmtfU2tRRnF6QmV4WmFwRXFGc1Y4WGlyNGtLVzh6ZXpiX0luUXhHWUxuX3h6ZWw0dENxZWdLcDhORFJxVUpFeUd3aS1tQ0xUQUF1SGNPVnBfRnJ3OHkwdGd3R1c3U0U?oc=5",
-   "published_utc": "2026-10-01T07:10:48+00:00",
-   "title_original": "日銀9月会合の主な意見 物価上振れの兆候あれば利上げペース加速も（TBS NEWS DIG Powered by JNN）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "37bcc56f280f9e8d"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: BOJ member cites need to accelerate pace of rate hikes if inflation quickens",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KdW9CMVNxUWNrTjdtUjhRbkJrVzBLSncxNjNzUjVvMGZqSU1yVkpRZ1oxQUpVUlpUdHVwcHhHRzZacmdSakV6TkJFeUlHcUwwYktaazZrZXdldw?oc=5",
-   "published_utc": "2026-10-01T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: BOJ member cites need to accelerate pace of rate hikes if inflation quickens",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "55b75f5c1649ad32"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "Commentary: China’s Youth Labor Market Demands Intervention to Avert a ‘Lost Generation’",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMm50WTlkclBJMlRsNTI5aVpfdHNObWtBQU9vY1J4YVRiRG5YX09EQmc5S1lqR0FKNjF3N0VRNXBzLWtXdlF3OF9jOGhHb0dESEtFY3A3TUFPQlROLUJjZGtDclYzQmQyMGpLUTJteG90N3VxcWJQLVhQaGlmXy1wbVBFSkVtRUxyTjVVUE9HR3FVUnZLa1EtTGlBQjBTQjBxdUhQLTlSY2hpZkhndll0R3RadkZ1WXhWTHYtb3hGSmlYODRHUXR6MEdublBaS2gtbkxNOWF3?oc=5",
-   "published_utc": "2026-10-01T07:00:00+00:00",
-   "title_original": "Commentary: China’s Youth Labor Market Demands Intervention to Avert a ‘Lost Generation’",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "ca13f67bcf60ae47"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTC1kdUV3dGl5OTE1dHFxT3I3cXF5MFA2cy1kQkQtMVNQUUJIeUJoOVVNRlctZWN0bWhOQVZnbVhEZGdVNEdLUEtYX1VFTkYtQVNmM0k4WlcyQQ?oc=5",
-   "published_utc": "2026-10-01T07:00:00+00:00",
-   "title_original": "BREAKING NEWS: Gov't urged BOJ to act proactively vs. excessive market moves: summary",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b7d3aba20d42cafc"
   },
   {
    "source_id": "manual_ia",

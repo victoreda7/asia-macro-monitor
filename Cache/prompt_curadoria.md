@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T01:52:43.125882+00:00
+Última coleta: 2026-10-28T02:02:45.876915+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          939
+  🇯🇵 Japão          937
   🇨🇳 China          837
   🇹🇼 Taiwan         385
-  🇰🇷 Coreia do Sul  839
+  🇰🇷 Coreia do Sul  841
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7165 WEDS VS 6.7171
+  - [japan] Japan bond yields rise as haven demand recedes, BOJ meeting looms
+  - [korea] South Korean shares rally 6% as SK Hynix beats forecasts
   - [korea] SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings — Update
+  - [korea] SK hynix Q3 2026 slides: revenue tops 100T, 80% margin on AI boom
   - [korea] Kospi jumps as chipmakers rally on SK Hynix’s record profit, shareholder returns
   - [korea] Kospi rises 4% after SK Hynix results; Asian stocks gain on AI optimism ahead of US Fed decision
   - [korea] SK Hynix Unveils $45 Billion Shareholder Returns as AI Memory Demand Lifts Profit
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Q3 profit jumps more than 7-fold, beats forecasts
   - [korea] [Breaking] SK hynix to provide an additional 60 trillion won in shareholder returns through dividends and shar
   - [korea] SK Hynix 3Q Net KRW39.776T Vs. Net KRW12.598T >000660.SE
-  - [korea] SK Hynix 3Q Net Profit Below FactSet-Compiled Consensus
-  - [korea] SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush
-  - [korea] SK Hynix 3Q Oper Pft KRW83.334T Vs. Pft KRW11.383T >000660.SE
-  - [japan] What kind of discussion will unfold at the Bank of Japan's October meeting? (NRI researcher's commentary on cu
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T01:52:43+00:00",
+      "published_utc": "2026-10-28T02:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
