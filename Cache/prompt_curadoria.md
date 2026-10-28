@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T00:42:42.858287+00:00
+Última coleta: 2026-10-28T00:52:41.714904+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          948
-  🇨🇳 China          837
-  🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  832
+  🇯🇵 Japão          947
+  🇨🇳 China          835
+  🇹🇼 Taiwan         385
+  🇰🇷 Coreia do Sul  833
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Semiconductor equipment is not AI chip growth's biggest bottleneck
   - [korea] SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings
+  - [taiwan] MiCo Ceramics acquires idle LGD plant for KRW150 billion to boost semiconductor component capacity
   - [china] Meituan to Raise $1.20 Billion Via Offshore Yuan Bond Sale
   - [korea] Correct: SK Hynix: To Pay More Than KRW30T in Dividends, Not KRW30B
   - [korea] SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand
@@ -38,6 +40,7 @@ Total: 3000 manchetes
   - [korea] SK Hynix Q3 profit jumps more than 7-fold, beats forecasts
   - [korea] SK Hynix 3Q Net KRW39.776T Vs. Net KRW12.598T >000660.SE
   - [korea] SK Hynix 3Q Net Profit Below FactSet-Compiled Consensus
+  - [korea] SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush
   - [korea] SK Hynix 3Q Oper Pft KRW83.334T Vs. Pft KRW11.383T >000660.SE
   - [japan] What kind of discussion will unfold at the Bank of Japan's October meeting? (NRI researcher's commentary on cu
   - [korea] SK Hynix 3Q Rev KRW104.615T Vs. KRW24.449T >000660.SE
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Stocks Gain 4.23% With Cash-Return Decisions Approaching
   - [china] China Claims Strong Economic Growth, but Skeptics Question Official Figures — WSJ
   - [korea] SK Hynix's Solidigm Reportedly In Talks Over $45B Investment In US Chip Plant
-  - [japan] Dollar rises as markets eye central bank meetings By Reuters
-  - [korea] SK Hynix $155 call OI leads options chain as 6.7% Q3 swing looms
-  - [japan] Japan's EV subsidies face uncertain future as country's 'DOGE' takes aim
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T00:42:42+00:00",
+      "published_utc": "2026-10-28T00:52:41+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
