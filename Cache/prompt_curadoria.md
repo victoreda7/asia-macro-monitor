@@ -7,20 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T01:42:44.662824+00:00
+Última coleta: 2026-10-28T01:52:43.125882+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          940
+  🇯🇵 Japão          939
   🇨🇳 China          837
   🇹🇼 Taiwan         385
-  🇰🇷 Coreia do Sul  838
+  🇰🇷 Coreia do Sul  839
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings — Update
+  - [korea] Kospi jumps as chipmakers rally on SK Hynix’s record profit, shareholder returns
   - [korea] Kospi rises 4% after SK Hynix results; Asian stocks gain on AI optimism ahead of US Fed decision
   - [korea] SK Hynix Unveils $45 Billion Shareholder Returns as AI Memory Demand Lifts Profit
   - [japan] JGB Yields Rise as AI Trade Regains Momentum — Market Talk
-  - [korea] Kospi jumps as chipmakers rally on SK Hynix’s record profit, shareholder returns
+  - [korea] SK Hynix profits soar amid roaring AI chip demand
   - [korea] South Korean Shares Rally on SK Hynix Earnings
   - [korea] SK Hynix posts record Q3 profit of $62.8 billion, beats estimates on AI demand
   - [china] How China’s ancient capital staked a claim to the nation’s fastest export growth
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush
   - [korea] SK Hynix 3Q Oper Pft KRW83.334T Vs. Pft KRW11.383T >000660.SE
   - [japan] What kind of discussion will unfold at the Bank of Japan's October meeting? (NRI researcher's commentary on cu
-  - [korea] SK Hynix 3Q Rev KRW104.615T Vs. KRW24.449T >000660.SE
-  - [japan] Mapletree Industrial Trust: Yen Depreciation Against Singapore Dollar Also Weighed on Rev >ME8U.SG
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T01:42:44+00:00",
+      "published_utc": "2026-10-28T01:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
