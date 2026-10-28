@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T06:42:43.945049+00:00
+Última coleta: 2026-10-28T06:52:42.717740+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          935
+  🇯🇵 Japão          934
   🇨🇳 China          831
   🇹🇼 Taiwan         386
-  🇰🇷 Coreia do Sul  848
+  🇰🇷 Coreia do Sul  849
 
 ## O que já está no feed (não repita)
 
+  - [korea] MU, SNDK, Neocloud Stocks Extend Gains On Anthropic Boost, SK Hynix Q3 Stunner; Jim Cramer Urges Caution
+  - [china] KNEBV: Orders and adjusted margins advanced; China and inflation remain key headwinds
+  - [korea] SK Hynix Stock Jumps 10% on $75 Billion Payout Plan, Massive Profit Increase
   - [korea] Kospi Gains, Led by Semiconductor, Battery Stocks
   - [japan] Nisshin Seifun Group Inc. - To Buy Back Up To 5% Of Own Shares Worth 20 Billion Yen
   - [japan] Advantest Corporation - To Buy Back Up To 1.5% Of Own Shares Worth 280 Billion Yen
+  - [korea] While housing prices in major areas in southern Gyeonggi Province, such as Hwaseong Dongtan, are str..
   - [korea] The Bank of Korea analyzed that Korea needs about 840 trillion won in investment in the energy suppl..
   - [japan] BlackRock and SBI Explore Yen Stablecoin Link for Tokenised Funds
   - [japan] Tokai Rika Co., Ltd. - To Buy Back Up To 2.9% Of Shares Worth 8.6 Billion Yen
@@ -52,11 +56,7 @@ Total: 3000 manchetes
   - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] Why is SK Hynix stock surging today?
   - [korea] South Korean won, Philippine peso lead declines among Asian currencies
-  - [korea] Micron recruits in South Korea for Taiwan roles as Taoyuan strike dispute persists
-  - [taiwan] Cathie Wood Extends Archer, Joby Buying Spree; Ark Sells More AMD, Taiwan Semiconductor Shares
-  - [korea] SK hynix’s $45bn shareholder return plan lifts chip stocks
-  - [korea] SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings — Update
-  - [china] CHINA PBOC CONDUCTS CNY151 BLN VIA 7-DAY REVERSE REPO WEDS
+  - [japan] What's New October, 2026 : Ministry of Finance
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T06:42:44+00:00",
+      "published_utc": "2026-10-28T06:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

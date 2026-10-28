@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T06:42:43.945049+00:00",
- "collected_at_utc": "2026-10-28T06:42:43.945049+00:00",
+ "generated_at_utc": "2026-10-28T06:52:42.717740+00:00",
+ "collected_at_utc": "2026-10-28T06:52:42.717740+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 935,
+  "japan": 934,
   "china": 831,
   "taiwan": 386,
-  "korea": 848
+  "korea": 849
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T03:14:42+00:00"
+   "newest": "2026-10-28T05:00:23+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T05:07:51+00:00"
+   "newest": "2026-10-28T06:49:32+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-28T06:37:24+00:00"
+   "newest": "2026-10-28T06:50:07+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T14:47:05+09:00"
+   "newest": "2026-10-28T15:51:45+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 26,
    "error": "",
-   "newest": "2026-10-27T05:46:33+00:00"
+   "newest": "2026-10-28T01:25:23+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T21:48:35+00:00"
+   "newest": "2026-10-27T19:47:05+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T06:42:08+00:00"
+   "newest": "2026-10-28T06:51:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:34:01+00:00"
+   "newest": "2026-10-28T04:34:21+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T06:24:01+00:00"
+   "newest": "2026-10-28T06:29:04+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Stocktwits",
+   "title_en": "MU, SNDK, Neocloud Stocks Extend Gains On Anthropic Boost, SK Hynix Q3 Stunner; Jim Cramer Urges Caution",
+   "url": "https://www.tradingview.com/news/stocktwits:343418184094b:0-mu-sndk-neocloud-stocks-extend-gains-on-anthropic-boost-sk-hynix-q3-stunner-jim-cramer-urges-caution/",
+   "published_utc": "2026-10-28T06:46:05+00:00",
+   "title_original": "MU, SNDK, Neocloud Stocks Extend Gains On Anthropic Boost, SK Hynix Q3 Stunner; Jim Cramer Urges Caution",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "1ad054d48b3a518b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "KNEBV: Orders and adjusted margins advanced; China and inflation remain key headwinds",
+   "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4245864:0-knebv-orders-and-adjusted-margins-advanced-china-and-inflation-remain-key-headwinds/",
+   "published_utc": "2026-10-28T06:45:35+00:00",
+   "title_original": "KNEBV: Orders and adjusted margins advanced; China and inflation remain key headwinds",
+   "region": "china",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "93487aab21708886"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "SK Hynix Stock Jumps 10% on $75 Billion Payout Plan, Massive Profit Increase",
+   "url": "https://www.tradingview.com/news/tradingview:f687e5726094b:0-sk-hynix-stock-jumps-10-on-75-billion-payout-plan-massive-profit-increase/",
+   "published_utc": "2026-10-28T06:44:26+00:00",
+   "title_original": "SK Hynix Stock Jumps 10% on $75 Billion Payout Plan, Massive Profit Increase",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "530e7a1ad9a8cdd1"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -393,6 +444,23 @@
    "live_wire": true,
    "manual": false,
    "id": "9f74dfe7fb40972c"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "While housing prices in major areas in southern Gyeonggi Province, such as Hwaseong Dongtan, are str..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HbmF5dFJQVUFiZWRGaTkzSjg5TGpsMU1BZ3RRU2dYbmpsckx5WXF4RE1PN0ZPVlJxM1V4UTFfZlo1aHJtSmViR2dwanR0VjRqVkE?oc=5",
+   "published_utc": "2026-10-28T06:29:04+00:00",
+   "title_original": "While housing prices in major areas in southern Gyeonggi Province, such as Hwaseong Dongtan, are str..",
+   "region": "korea",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ca6d31530ac4a7ef"
   },
   {
    "source_id": "gn_kr_mk",
@@ -949,6 +1017,23 @@
    "id": "6317a87286571e5d"
   },
   {
+   "source_id": "gn_jp_mof",
+   "source_name": "財務省",
+   "title_en": "What's New October, 2026 : Ministry of Finance",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaGVTdkpkMGtWc1pmZ0FOOEFXNnd0ejBiYXZmTDJRVGpDREM0bEp5V0VvWVYzb2JzR194V0dzV3JrMTBTalJSWnJwUWhMZXozUlJYTFFxdkRwODRDelhMaFFXZGRTemFMVUlWQ0F2M04zSkd3cFBB?oc=5",
+   "published_utc": "2026-10-28T02:16:20+00:00",
+   "title_original": "What's New October, 2026 : Ministry of Finance",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "816a8b781a3d4bd5"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron recruits in South Korea for Taiwan roles as Taoyuan strike dispute persists",
@@ -1207,40 +1292,6 @@
    "id": "7ff4f275544af888"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Binance News",
-   "title_en": "SK Hynix Unveils $45 Billion Shareholder Returns as AI Memory Demand Lifts Profit",
-   "url": "https://www.tradingview.com/news/binance_news:b6ffa5a39094b:0-sk-hynix-unveils-45-billion-shareholder-returns-as-ai-memory-demand-lifts-profit/",
-   "published_utc": "2026-10-28T01:25:21+00:00",
-   "title_original": "SK Hynix Unveils $45 Billion Shareholder Returns as AI Memory Demand Lifts Profit",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "352dc1002f747846"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "JGB Yields Rise as AI Trade Regains Momentum — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261027013947:0-jgb-yields-rise-as-ai-trade-regains-momentum-market-talk/",
-   "published_utc": "2026-10-28T01:23:00+00:00",
-   "title_original": "JGB Yields Rise as AI Trade Regains Momentum — Market Talk",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "0696c68236b17876"
-  },
-  {
    "source_id": "gn_cn_pboc",
    "source_name": "手机新浪网",
    "title_en": "The central bank injected 151 billion yuan through a 7-day reverse repurchase operation, with an interest rate of 1.40%, the same as the previous 1.40%.",
@@ -1274,23 +1325,6 @@
    "live_wire": false,
    "manual": false,
    "id": "619da149fa1964a5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Benzinga",
-   "title_en": "SK Hynix, Boeing, SoFi, Seagate and Robinhood: Why These 5 Stocks Are on Investors' Radars Today",
-   "url": "https://www.tradingview.com/news/benzinga:af72987ad094b:0-sk-hynix-boeing-sofi-seagate-and-robinhood-why-these-5-stocks-are-on-investors-radars-today/",
-   "published_utc": "2026-10-28T01:12:35+00:00",
-   "title_original": "SK Hynix, Boeing, SoFi, Seagate and Robinhood: Why These 5 Stocks Are on Investors' Radars Today",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8237606a58fe072a"
   },
   {
    "source_id": "scmp_business",
@@ -2370,8 +2404,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2386,7 +2420,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "focus_taiwan",
@@ -5729,9 +5763,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -5743,7 +5777,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "2b972d8c6ac9362b"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5937,24 +5971,6 @@
    "id": "c39539e469407cde"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Major banks have increased their information protection budgets for next year significantly since th..",
@@ -6111,23 +6127,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5369fdb9dac7ca38"
-  },
-  {
-   "source_id": "gn_jp_mof",
-   "source_name": "財務省",
-   "title_en": "What's New October, 2026 : Ministry of Finance",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaGVTdkpkMGtWc1pmZ0FOOEFXNnd0ejBiYXZmTDJRVGpDREM0bEp5V0VvWVYzb2JzR194V0dzV3JrMTBTalJSWnJwUWhMZXozUlJYTFFxdkRwODRDelhMaFFXZGRTemFMVUlWQ0F2M04zSkd3cFBB?oc=5",
-   "published_utc": "2026-10-26T00:43:47+00:00",
-   "title_original": "What's New October, 2026 : Ministry of Finance",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "816a8b781a3d4bd5"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -6558,6 +6557,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -9228,6 +9245,24 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "湖南红网",
+   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JOU4xQURkbWUzMkFXZkI1bXRrZHNtckpVaHE1YVd5TXZkbWJCTEJKYnNYQmVnZUQ2OXlSNWFrZkFDZzVCZ21NeG1IWDFtcEkyUkRWOFpTaVpoLWZUdFNvRC1fR3lVUQ?oc=5",
+   "published_utc": "2026-10-23T02:15:26+00:00",
+   "title_original": "央行开展2580亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "649f01690852552b"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
@@ -9295,24 +9330,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ab3208d7cfdf114d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wemhzYTYzWkM3NllscXN6dkhkenVwRnlxSm5MZFVmYU1XRkNJamFXLU1zTHJkTFY2LUlOT3JneUctb3o4RVNKb2RTaFVJMUtkMFlsWjVhM1pGdDJrRlU0d2IzSlotY29f?oc=5",
-   "published_utc": "2026-10-23T01:53:53+00:00",
-   "title_original": "央行开展2580亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0b449075bd88b714"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -51851,23 +51868,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b56b1d586a16e279"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mint",
-   "title_en": "45% YTD rally! Experts see up to 56% upside in these 3 stocks on China's export shift | Target, rationale",
-   "url": "https://www.tradingview.com/news/moodys:cf9690ffed046:0-45-ytd-rally-experts-see-up-to-56-upside-in-these-3-stocks-on-china-s-export-shift-target-rationale/",
-   "published_utc": "2026-10-01T16:52:04+00:00",
-   "title_original": "45% YTD rally! Experts see up to 56% upside in these 3 stocks on China's export shift | Target, rationale",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "43c1a58aabd236cd"
   },
   {
    "source_id": "manual_ia",
