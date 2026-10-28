@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T01:12:44.704399+00:00",
- "collected_at_utc": "2026-10-28T01:12:44.704399+00:00",
+ "generated_at_utc": "2026-10-28T01:22:43.382867+00:00",
+ "collected_at_utc": "2026-10-28T01:22:43.382867+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 945,
+  "japan": 944,
   "china": 836,
-  "taiwan": 386,
-  "korea": 833
+  "taiwan": 385,
+  "korea": 835
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T23:34:14+00:00"
+   "newest": "2026-10-28T00:25:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T00:41:58+00:00"
+   "newest": "2026-10-28T00:42:40+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T00:53:02+00:00"
+   "newest": "2026-10-28T01:12:30+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T18:45:06+00:00"
+   "newest": "2026-10-28T01:18:16+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-28T00:37:43+00:00"
+   "newest": "2026-10-28T01:21:24+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T23:54:28+00:00"
+   "newest": "2026-10-27T23:49:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T01:10:00+00:00"
+   "newest": "2026-10-28T01:21:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T22:33:19+00:00"
+   "newest": "2026-10-27T19:35:43+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T23:19:00+00:00"
+   "newest": "2026-10-27T21:55:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T00:55:04+00:00"
+   "newest": "2026-10-27T23:35:59+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Kospi jumps as chipmakers rally on SK Hynix’s record profit, shareholder returns",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Pek1RUzdReGFnS3VJY20xZ2VSQkpLWVplTW1PcUJsdGhmS2F5QkhnUmQ4T203M2dwczhnSjlZLUdyd1lRaUgzcGNFcndjTF8tNXBEYzFsR1ZaTTdxX3pma044YnhFbzlpb1B5NWZDakZocXRlcjIybjNB?oc=5",
+   "published_utc": "2026-10-28T01:18:16+00:00",
+   "title_original": "Kospi jumps as chipmakers rally on SK Hynix’s record profit, shareholder returns",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a589a65edad275bd"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "CNBC TV18",
@@ -495,6 +512,23 @@
    "live_wire": true,
    "manual": false,
    "id": "5b621042ca3c4992"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzhINFhrV3VnOG40ZnJlUGZjVW0zemZlb3l3QVFWdmhBREp4Y2hhTVJ1bU5ETnJlN3VHdnd1V2d1cWo3SGlWeVlqZzV6ZFlJQlVuOXBNYi1wNDc2dXpqT1FRU2k2ajY2M0hXeF82S1lBekhMOEctUnRyTlg1MGY4dHVrT2dJM0FkM1NRY015c0NJLVNhYUFFNkJIenNyLVRnYVFVT3I2VUg4cnhUcUZsdkVYQQ?oc=5",
+   "published_utc": "2026-10-28T00:25:00+00:00",
+   "title_original": "SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "04b16dd481103030"
   },
   {
    "source_id": "nikkei_asia",
@@ -769,6 +803,23 @@
    "id": "579a941a95130e9b"
   },
   {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "[Breaking] SK hynix to provide an additional 60 trillion won in shareholder returns through dividends and share buybacks",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zVjMwaXI5YzdBUndZY3QxalJ1RkpPVW84X0owZDNPa0FsUncxbG9PaVBwWWtWY191bC1sMnd6R1c5UjVKdUs4WDI0TkF4ZTR5RnBR?oc=5",
+   "published_utc": "2026-10-27T23:35:59+00:00",
+   "title_original": "[Breaking] SK hynix to provide an additional 60 trillion won in shareholder returns through dividends and share buybacks",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "ef3d59d88304f7c4"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "SK Hynix 3Q Net KRW39.776T Vs. Net KRW12.598T >000660.SE",
@@ -801,23 +852,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ea67718dbc141bf0"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzhINFhrV3VnOG40ZnJlUGZjVW0zemZlb3l3QVFWdmhBREp4Y2hhTVJ1bU5ETnJlN3VHdnd1V2d1cWo3SGlWeVlqZzV6ZFlJQlVuOXBNYi1wNDc2dXpqT1FRU2k2ajY2M0hXeF82S1lBekhMOEctUnRyTlg1MGY4dHVrT2dJM0FkM1NRY015c0NJLVNhYUFFNkJIenNyLVRnYVFVT3I2VUg4cnhUcUZsdkVYQQ?oc=5",
-   "published_utc": "2026-10-27T23:34:14+00:00",
-   "title_original": "SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "04b16dd481103030"
   },
   {
    "source_id": "tradingview_live",
@@ -869,23 +903,6 @@
    "live_wire": true,
    "manual": false,
    "id": "27db9395996a4c41"
-  },
-  {
-   "source_id": "gn_tw_cna",
-   "source_name": "中央社 CNA",
-   "title_en": "The first wave of exit polls for the Israeli election comes out, with the opposition slightly leading by less than half | International",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42azBSRXBRRWF1WHp1VXYwU2FxTi04djFOOHlIaXNGYkkwY3B5MFlZeG12eG5NSVlOZnV1LTQ2VFhaS25SSlZZV2ZsX2JSSTRRa0hTa0E3b2RQUGRiWjVN?oc=5",
-   "published_utc": "2026-10-27T23:19:00+00:00",
-   "title_original": "以色列大選首波出口民調出爐反對派微幅領先未過半| 國際",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6a3a815c4cc3cb00"
   },
   {
    "source_id": "tradingview_live",
@@ -955,6 +972,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fbbaa60fd952faa8"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "The first wave of exit polls for the Israeli election comes out, with the opposition slightly leading by less than half | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42azBSRXBRRWF1WHp1VXYwU2FxTi04djFOOHlIaXNGYkkwY3B5MFlZeG12eG5NSVlOZnV1LTQ2VFhaS25SSlZZV2ZsX2JSSTRRa0hTa0E3b2RQUGRiWjVN?oc=5",
+   "published_utc": "2026-10-27T21:55:00+00:00",
+   "title_original": "以色列大選首波出口民調出爐反對派微幅領先未過半| 國際",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6a3a815c4cc3cb00"
   },
   {
    "source_id": "toyo_keizai",
@@ -1889,6 +1923,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6c9c3b8bb96efe5a"
+  },
+  {
+   "source_id": "gn_kr_reuters",
+   "source_name": "Reuters",
+   "title_en": "Nvidia, Meta deepen AI ties with $3 billion investment deal",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5",
+   "published_utc": "2026-10-27T06:08:00+00:00",
+   "title_original": "Nvidia, Meta deepen AI ties with $3 billion investment deal",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "407b8d8a0ceee3b3"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -8243,6 +8294,24 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "湖南红网",
+   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JOU4xQURkbWUzMkFXZkI1bXRrZHNtckpVaHE1YVd5TXZkbWJCTEJKYnNYQmVnZUQ2OXlSNWFrZkFDZzVCZ21NeG1IWDFtcEkyUkRWOFpTaVpoLWZUdFNvRC1fR3lVUQ?oc=5",
+   "published_utc": "2026-10-23T02:15:26+00:00",
+   "title_original": "央行开展2580亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "649f01690852552b"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
@@ -8310,24 +8379,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ab3208d7cfdf114d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wemhzYTYzWkM3NllscXN6dkhkenVwRnlxSm5MZFVmYU1XRkNJamFXLU1zTHJkTFY2LUlOT3JneUctb3o4RVNKb2RTaFVJMUtkMFlsWjVhM1pGdDJrRlU0d2IzSlotY29f?oc=5",
-   "published_utc": "2026-10-23T01:53:53+00:00",
-   "title_original": "央行开展2580亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0b449075bd88b714"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -51817,58 +51868,6 @@
    "live_wire": false,
    "manual": false,
    "id": "292ab278cfb44601"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms",
-   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-chipmaker-gains-soft-us-inflation-nikkei-outperforms-4926231",
-   "published_utc": "2026-10-01T06:14:22+00:00",
-   "title_original": "Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms",
-   "region": "japan",
-   "topics": [
-    "inflation",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "43c1899f02d7fc08"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Korea’s real wages fall for 4th straight month as inflation outpaces pay gains",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JdVZVVjhfVzJvOGJSV2M5eUMwMncxX1JFa2t6Ym1nX0taUENvV0xWOWYwdFcwWXhhS1Bzbjk3YWJlVEdjQ3F5bHlMZ3lDa3RqTkE?oc=5",
-   "published_utc": "2026-10-01T06:08:01+00:00",
-   "title_original": "Korea’s real wages fall for 4th straight month as inflation outpaces pay gains",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "37f1489291b16262"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Four glass makers converge on 510x515mm substrate, hinting at TSMC's next move",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc29kZ055RjMyNmZOb1cyUDF5SUd6TlBuUF9yR1E5ZmlnNmVkUlh5SnoydEI2Q1R1S0dfRlVoQnZLWFVQamxQbk13X2NOTHp2Uy14OU5ISlg4M0NER2lWR1Jmc2UtTnhhYXNnYlJubm5Zdnp1LWZwUXA5Uk5ybnRLb0tFVkt2R0pmZXl3Yk1VUV9Dd29rOGc?oc=5",
-   "published_utc": "2026-10-01T05:56:31+00:00",
-   "title_original": "Four glass makers converge on 510x515mm substrate, hinting at TSMC's next move",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "13d769602e707732"
   },
   {
    "source_id": "manual_ia",
