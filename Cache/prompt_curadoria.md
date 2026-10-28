@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T12:42:43.930167+00:00
+Última coleta: 2026-10-28T12:52:45.550891+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          918
-  🇨🇳 China          834
+  🇯🇵 Japão          917
+  🇨🇳 China          832
   🇹🇼 Taiwan         391
-  🇰🇷 Coreia do Sul  857
+  🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [korea] S&P 500 and Nasdaq should open higher, with SK Hynix boosting the chip sector; the Fed is the center of attent
+  - [korea] S&P 500, Nasdaq set for higher open as SK Hynix lifts chips; Fed in focus
+  - [korea] Reborn Coffee Secures Manufacturing Infrastructure For $30 Million Supply Volume And Expands Global Supply Cha
+  - [korea] RBC Capital reiterates Outperform rating on SK hynix, $200 price target
+  - [korea] SK Hynix delivered on third-quarter results - but the outlook is what really mattered to Wall Street and the A
   - [taiwan] Taiwan Semiconductor raising prices could mean less competition from Intel: Wedbush
   - [korea] Lynx sees SK Hynix results rekindling interest in this chip stock
   - [korea] SK hynix Is Maintained at Buy by Rosenblatt
@@ -39,7 +44,6 @@ Total: 3000 manchetes
   - [china] China's September net gold imports via Hong Kong hit five-month high in September
   - [korea] Cantor Fitzgerald reiterates Overweight rating on SK hynix, $250 price target
   - [china] Shenzhen Edadoc Technology's Unit Plans To Invest About 1 Billion Yuan In PCB Project
-  - [korea] SK Hynix delivered on third-quarter results - but the outlook is what really mattered to Wall Street and the A
   - [korea] SK hynix Is Maintained at Buy by Needham
   - [korea] Needham maintains Buy rating on SK hynix, $235 price target
   - [japan] Sales of Leqembi® totaled 32.2 billion yen in the third quarter 2026
@@ -47,11 +51,7 @@ Total: 3000 manchetes
   - [korea] AM Markets Need to Know: SK Hynix surges on record profit, U.S.-Russia weigh oil deals, and more
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
   - [korea] Alphabet, Microsoft, SK Hynix, Robinhood, and More Stocks That Explain Today's Market — Barrons.com
-  - [china] Moore Threads Tech Q3 Net Profit At 49.3 Million Yuan
-  - [china] China's September net gold imports via Hong Kong rise over 28% m/m
   - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
-  - [korea] AI memory, chip stocks gain after SK Hynix posts record profit
-  - [china] China Hainan Rubber Industry Group: Rubber-price gains and cost cuts supported Q3, but 9M revenue fell 22.28%
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
   - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] Finance minister hopes for Bloomberg review of S. Korea's market status
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T12:42:44+00:00",
+      "published_utc": "2026-10-28T12:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
