@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T20:42:54.939139+00:00
+Última coleta: 2026-10-28T20:52:44.531771+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          909
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] <JR Hokkaido> ``We do not accept the burden of local governments'', as pointed out by House of Councilors memb
   - [japan] [Chaos] France's large-scale demonstrations and riots: "Plummeting retail stocks," "increased burden on insura
   - [japan] Fed leaves policy interest rate unchanged for the first time in two meetings, perhaps to assess the impact on 
   - [china] IMF Taps China’s Vice Finance Minister Liao Min for Deputy Managing Director Role
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix target bumped at Wedbush after blockbuster earnings
   - [china] Japan and Germany set up high-level AI dialogue to strengthen economic security against China's export control
   - [korea] S&P 500 and Nasdaq should open higher, with SK Hynix boosting the chip sector; the Fed is the center of attent
-  - [korea] S&P 500, Nasdaq set for higher open as SK Hynix lifts chips; Fed in focus
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T20:42:55+00:00",
+      "published_utc": "2026-10-28T20:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
