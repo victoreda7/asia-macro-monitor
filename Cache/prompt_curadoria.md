@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T06:32:42.878884+00:00
+Última coleta: 2026-10-28T06:42:43.945049+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
+  🇯🇵 Japão          935
   🇨🇳 China          831
   🇹🇼 Taiwan         386
-  🇰🇷 Coreia do Sul  849
+  🇰🇷 Coreia do Sul  848
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi Gains, Led by Semiconductor, Battery Stocks
+  - [japan] Nisshin Seifun Group Inc. - To Buy Back Up To 5% Of Own Shares Worth 20 Billion Yen
   - [japan] Advantest Corporation - To Buy Back Up To 1.5% Of Own Shares Worth 280 Billion Yen
   - [korea] The Bank of Korea analyzed that Korea needs about 840 trillion won in investment in the energy suppl..
   - [japan] BlackRock and SBI Explore Yen Stablecoin Link for Tokenised Funds
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix’s $45bn shareholder return plan lifts chip stocks
   - [korea] SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings — Update
   - [china] CHINA PBOC CONDUCTS CNY151 BLN VIA 7-DAY REVERSE REPO WEDS
-  - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO WEDS
-  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7165 WEDS VS 6.7171
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T06:32:43+00:00",
+      "published_utc": "2026-10-28T06:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
