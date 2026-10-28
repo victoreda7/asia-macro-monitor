@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T13:22:44.049884+00:00
+Última coleta: 2026-10-28T13:32:44.719826+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          917
-  🇨🇳 China          834
+  🇯🇵 Japão          916
+  🇨🇳 China          835
   🇹🇼 Taiwan         391
   🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [china] BBMG Jidong Cement Group Q3 Net Loss At 488.6 Million Yuan
+  - [korea] SKHY Stock: Analyst Sees 175% Upside Potential For SK Hynix, Company's Q3 Beat Uplifts MU, SNDK, WDC
+  - [china] Axt, Inc. Announces Up To RMB 3.67 Billion (Approximately Us$545 Million) In Private Equity Financing For Subs
   - [china] Intco Medical Technology Q3 Net Loss At 625.2 Million Yuan
   - [korea] SK Hynix target bumped at Wedbush after blockbuster earnings
-  - [china] AXT, Inc. Announces Up to RMB 3.67 Billion (Approximately US$545 Million) in Private Equity Financing for Subs
   - [china] Japan and Germany set up high-level AI dialogue to strengthen economic security against China's export control
   - [korea] S&P 500 and Nasdaq should open higher, with SK Hynix boosting the chip sector; the Fed is the center of attent
   - [korea] S&P 500, Nasdaq set for higher open as SK Hynix lifts chips; Fed in focus
@@ -50,8 +52,6 @@ Total: 3000 manchetes
   - [korea] Cantor Fitzgerald reiterates Overweight rating on SK hynix, $250 price target
   - [china] Shenzhen Edadoc Technology's Unit Plans To Invest About 1 Billion Yuan In PCB Project
   - [korea] SK hynix Is Maintained at Buy by Needham
-  - [korea] Needham maintains Buy rating on SK hynix, $235 price target
-  - [japan] Sales of Leqembi® totaled 32.2 billion yen in the third quarter 2026
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
   - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T13:22:44+00:00",
+      "published_utc": "2026-10-28T13:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
