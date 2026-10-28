@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T08:52:45.338562+00:00
+Última coleta: 2026-10-28T09:02:44.595692+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
-  🇨🇳 China          831
-  🇹🇼 Taiwan         387
-  🇰🇷 Coreia do Sul  851
+  🇨🇳 China          834
+  🇹🇼 Taiwan         386
+  🇰🇷 Coreia do Sul  849
 
 ## O que já está no feed (não repita)
 
+  - [china] Gotion High Tech Q3 Net Loss At 537.0 Million Yuan
+  - [china] Power Construction Corporation Of China Jan-Sep New Contracts Signed Totalled 807.98 Billion Yuan
+  - [china] Sansteel Minguang Co Ltd Fujian Q3 Net Loss At 434.4 Million Yuan
+  - [china] Yuan Long Ping High-Tech Agriculture Q3 Net Loss At 402.4 Million Yuan
   - [korea] Finance minister hopes for Bloomberg review of S. Korea's market status
   - [china] Inner Mongolia Yuan Xing Energy Company: Q3 sales grew, profit softened, and the arbitration settlement was co
   - [korea] S. Korean won sharply weakens against US dollar
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] BlackRock and SBI Explore Yen Stablecoin Link for Tokenised Funds
   - [japan] Tokai Rika Co., Ltd. - To Buy Back Up To 2.9% Of Shares Worth 8.6 Billion Yen
   - [korea] SK Hynix Earnings Up In Q3; Shares Surge
-  - [china] AI chips worth $12.1 million seized at Malaysia airport, customs authority says
-  - [taiwan] Yang Jinlong: Without budgetary subsidies and energy subsidies, the inflation rate may rise if oil prices cont
-  - [taiwan] Taiwan's central bank may raise interest rates next year if prices rise significantly - Governor (Reuters)
-  - [taiwan] AI-Driven Tech Rise Lifts Taiwan, South Korea Stocks; Asian currencies fall
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T08:52:45+00:00",
+      "published_utc": "2026-10-28T09:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
