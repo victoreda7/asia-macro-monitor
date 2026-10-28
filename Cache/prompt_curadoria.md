@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T04:52:44.673141+00:00
+Última coleta: 2026-10-28T05:02:46.780498+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          929
-  🇨🇳 China          834
+  🇯🇵 Japão          930
+  🇨🇳 China          833
   🇹🇼 Taiwan         386
   🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Gov. Ueda's Remarks to Be Under Scrutiny for Rate-Hike Hints — Market Talk
   - [japan] BOJ Rate Hold Seen as Done Deal, Putting Focus on Guidance
   - [japan] Presentation of materials on the government's consumption tax reduction bill support funding concept
   - [japan] Bank of Japan decision meeting emphasizes that achieving the price target is still the “gateway” (TBS CROSS DI
@@ -37,7 +38,6 @@ Total: 3000 manchetes
   - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] Why is SK Hynix stock surging today?
   - [korea] South Korean won, Philippine peso lead declines among Asian currencies
-  - [japan] What's New October, 2026 : Ministry of Finance
   - [korea] Micron recruits in South Korea for Taiwan roles as Taoyuan strike dispute persists
   - [taiwan] Cathie Wood Extends Archer, Joby Buying Spree; Ark Sells More AMD, Taiwan Semiconductor Shares
   - [korea] SK hynix’s $45bn shareholder return plan lifts chip stocks
@@ -56,7 +56,7 @@ Total: 3000 manchetes
   - [china] The central bank launched a 151 billion yuan 7-day reverse repurchase operation today
   - [korea] SK Hynix Unveils $45 Billion Shareholder Returns as AI Memory Demand Lifts Profit
   - [japan] JGB Yields Rise as AI Trade Regains Momentum — Market Talk
-  - [korea] SK Hynix profits soar amid roaring AI chip demand
+  - [china] The central bank injected 151 billion yuan through a 7-day reverse repurchase operation, with an interest rate
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T04:52:44+00:00",
+      "published_utc": "2026-10-28T05:02:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
