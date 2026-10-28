@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T14:22:42.562025+00:00
+Última coleta: 2026-10-28T14:32:46.183600+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          914
+  🇯🇵 Japão          912
   🇨🇳 China          836
-  🇹🇼 Taiwan         392
-  🇰🇷 Coreia do Sul  858
+  🇹🇼 Taiwan         393
+  🇰🇷 Coreia do Sul  859
 
 ## O que já está no feed (não repita)
 
+  - [korea] Cantor Fitzgerald reiterates SK Hynix stock rating on AI demand
   - [korea] Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [korea] S&P 500 and Nasdaq open higher with SK Hynix boosting semiconductor sector; Fed Spotlight
   - [china] SUNING.COM Q3 Net Loss At 73.2 Million Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
   - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
-  - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T14:22:42+00:00",
+      "published_utc": "2026-10-28T14:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
