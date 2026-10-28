@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T08:32:49.643734+00:00",
- "collected_at_utc": "2026-10-28T08:32:49.643734+00:00",
+ "generated_at_utc": "2026-10-28T08:42:44.294492+00:00",
+ "collected_at_utc": "2026-10-28T08:42:44.294492+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 934,
-  "china": 829,
-  "taiwan": 387,
-  "korea": 850
+  "japan": 932,
+  "china": 828,
+  "taiwan": 388,
+  "korea": 852
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T08:13:55+00:00"
+   "newest": "2026-10-28T08:35:30+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T08:13:00+00:00"
+   "newest": "2026-10-27T19:23:54+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-28T08:27:19+00:00"
+   "newest": "2026-10-28T08:41:48+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T17:24:37+09:00"
+   "newest": "2026-10-28T17:24:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 27,
    "error": "",
-   "newest": "2026-10-27T05:46:33+00:00"
+   "newest": "2026-10-28T02:21:00+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T04:50:00+00:00"
+   "newest": "2026-10-28T08:03:30+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T19:47:05+00:00"
+   "newest": "2026-10-28T05:21:00+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T08:31:52+00:00"
+   "newest": "2026-10-28T08:41:49+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T08:12:42+00:00"
+   "newest": "2026-10-28T08:31:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,61 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:39:22+00:00"
+   "newest": "2026-10-26T08:38:46+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Finance minister hopes for Bloomberg review of S. Korea's market status",
+   "url": "https://www.koreaherald.com/article/10918098",
+   "published_utc": "2026-10-28T08:39:23+00:00",
+   "title_original": "Finance minister hopes for Bloomberg review of S. Korea's market status",
+   "region": "korea",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a645f5a9d07f4e44"
+  },
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "S. Korean won sharply weakens against US dollar",
+   "url": "https://www.koreaherald.com/article/10918094",
+   "published_utc": "2026-10-28T08:36:58+00:00",
+   "title_original": "S. Korean won sharply weakens against US dollar",
+   "region": "korea",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "a41078de6b271b5c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Earnings Snapshot: SK hynix posts Q3 revenue beat, announces ₩20T buyback and ₩14T Q3 dividend",
+   "url": "https://www.tradingview.com/news/seekingalpha:66428a05e094b:0-earnings-snapshot-sk-hynix-posts-q3-revenue-beat-announces-20t-buyback-and-14t-q3-dividend/",
+   "published_utc": "2026-10-28T08:31:32+00:00",
+   "title_original": "Earnings Snapshot: SK hynix posts Q3 revenue beat, announces ₩20T buyback and ₩14T Q3 dividend",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b80823c6fb635347"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -382,7 +433,7 @@
    "source_name": "NHK 政治",
    "title_en": "Former Liberal Democratic Party Secretary-General Moriyama “Need to secure alternative revenue sources for consumption tax reduction”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261028de67179",
-   "published_utc": "2026-10-28T08:24:37+00:00",
+   "published_utc": "2026-10-28T08:24:00+00:00",
    "title_original": "自民 森山前幹事長“消費税減税 代替財源の確実な確保必要”",
    "region": "japan",
    "topics": [
@@ -429,6 +480,23 @@
    "live_wire": false,
    "manual": false,
    "id": "2ece95b309ad0561"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "HD Hyundai’s operating profit nears 3 trillion won ... subsidiaries fire celebratory salvo over results",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55cEpNMGc5NldhNFQ0T0w1cTVhN1BJalVkN0U2amdQeDVTMm1yUkhFYWRGbzBxa3Y1ZjU5VFlLYVA4V096RkFNdkJrdmFWbkRnaWhj?oc=5",
+   "published_utc": "2026-10-28T08:12:39+00:00",
+   "title_original": "HD Hyundai’s operating profit nears 3 trillion won ... subsidiaries fire celebratory salvo over results",
+   "region": "korea",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "cc0bb2ff0a88e505"
   },
   {
    "source_id": "gn_tw_focus",
@@ -839,6 +907,24 @@
    "live_wire": true,
    "manual": false,
    "id": "62cee675ac431b02"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "AI chips worth $12.1 million seized at Malaysia airport, customs authority says",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVU14ajJqOUhlTEt4cEJzR0o0Ry1kVGc4bmRmTW9zSWVYb1pjZ042X2ZlLVBVZ1l3dV95WDFjUTFodnF6eTF6OVAtX0hCdG1jZzA3ZkNmb09jNDhFd1JUcnc5QkJrN3poemVSVDQ1OGxBdkJEZkFmSmgzWnZGT2Z5ZGdHaWF1ZlFEbXl6M0VRQklfU3hydktmMnRFSUNuZGFwdjJrS05qUF9rUlVxXzNfeU9ZN2hKeHgwV1c2aHV3?oc=5",
+   "published_utc": "2026-10-28T05:21:00+00:00",
+   "title_original": "AI chips worth $12.1 million seized at Malaysia airport, customs authority says",
+   "region": "taiwan",
+   "topics": [
+    "trade",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "143f3e564f0bf2bd"
   },
   {
    "source_id": "gn_tw_cna",
@@ -1258,23 +1344,6 @@
    "id": "8b208898763ccd0f"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Yen Weakens as Safe-Haven Appeal Diminishes",
-   "url": "https://www.tradingview.com/news/te_news:595612:0-yen-weakens-as-safe-haven-appeal-diminishes/",
-   "published_utc": "2026-10-28T02:55:42+00:00",
-   "title_original": "Yen Weakens as Safe-Haven Appeal Diminishes",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "39a911c7e3e1c028"
-  },
-  {
    "source_id": "gn_tw_cna",
    "source_name": "中央社 CNA",
    "title_en": "Is the stock market falsely decoupled from the typhoon? Yang Jinlong: Depending on the attitude of the Financial Supervisory Committee and the central bank's cooperation with foreign exchange | Sankei",
@@ -1325,6 +1394,24 @@
    "live_wire": true,
    "manual": false,
    "id": "193c314b45bc40aa"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "财中社",
+   "title_en": "The central bank launched a 151 billion yuan 7-day reverse repurchase operation with an interest rate of 1.40% and a net investment of 151 billion yuan",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jTUdJSUJUUXBUeWJla1lGSzZsNTRPS0tkVWdvMjR3ZjZaOVF1bnZ3cUM4VmEzM3hYcVNPZzgzTng0TE9qWlVMbTVXQ2p6SnZ4YXdnM1JhWFRmLTVLLWR5dEx0TW0?oc=5",
+   "published_utc": "2026-10-28T02:21:00+00:00",
+   "title_original": "央行开展1510亿元7天期逆回购操作 利率1.40% 净投放1510亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "51683ee584f05496"
   },
   {
    "source_id": "gn_jp_mof",
@@ -2559,8 +2646,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2575,7 +2662,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -5987,9 +6074,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -6001,7 +6088,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "2b972d8c6ac9362b"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6193,24 +6280,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6782,6 +6851,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -9452,6 +9539,24 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "湖南红网",
+   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JOU4xQURkbWUzMkFXZkI1bXRrZHNtckpVaHE1YVd5TXZkbWJCTEJKYnNYQmVnZUQ2OXlSNWFrZkFDZzVCZ21NeG1IWDFtcEkyUkRWOFpTaVpoLWZUdFNvRC1fR3lVUQ?oc=5",
+   "published_utc": "2026-10-23T02:15:26+00:00",
+   "title_original": "央行开展2580亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "649f01690852552b"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
@@ -9519,24 +9624,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ab3208d7cfdf114d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wemhzYTYzWkM3NllscXN6dkhkenVwRnlxSm5MZFVmYU1XRkNJamFXLU1zTHJkTFY2LUlOT3JneUctb3o4RVNKb2RTaFVJMUtkMFlsWjVhM1pGdDJrRlU0d2IzSlotY29f?oc=5",
-   "published_utc": "2026-10-23T01:53:53+00:00",
-   "title_original": "央行开展2580亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0b449075bd88b714"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -11554,23 +11641,6 @@
    "id": "fac5fce3cd370fb4"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "네이버페이 머니스토리",
-   "title_en": "The Bank of Korea, which had been raising the base interest rate, now freezes it at 3.00%... What is the background?",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fdmE2NlhjLWxpQ3dObWNRYVlTMnJIV2UyczQ0SXVmazFFcXBkbnloR1B5WGtYeWlvVzlMRlBnVGlRSEtiT2VGSnRjTm8wQXhuTFE?oc=5",
-   "published_utc": "2026-10-22T06:50:01+00:00",
-   "title_original": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b4fcebcd8480f063"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Retail investors lose $4.8bn on Samsung, SK hynix leveraged ETFs in 80 days",
@@ -12042,6 +12112,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e841288bedeb8aa8"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "세상을 바꾸는 시민언론 민들레",
+   "title_en": "Bank of Korea stops raising interest rates... Tightening speed control",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Ylk3ZnZlc19UMUc1U09DN2Q5WFdGZk5wT1R6Vnp4eGk1b1Q5WjlEbFhyaWtOWTBaMnVDZXM3UGREcmIzWWVBM3hfY1lOU09kV1AyMVlTX1RTMFhjbTF2MzJSMTY2RGdCaHhwTw?oc=5",
+   "published_utc": "2026-10-22T04:10:00+00:00",
+   "title_original": "기준금리 인상 멈춘 한국은행…긴축 속도 조절",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9c4829ceb49aac68"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51785,92 +51872,6 @@
    "live_wire": true,
    "manual": false,
    "id": "952beb41ae60ef0c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea Sept inflation +2.9% y/y, as expected",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44Z073:0-south-korea-sept-inflation-2-9-y-y-as-expected/",
-   "published_utc": "2026-10-01T23:00:00+00:00",
-   "title_original": "South Korea Sept inflation +2.9% y/y, as expected",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "266c3052d79f87f8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "US alleges California man smuggled export-controlled servers to China",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N17D:0-us-alleges-california-man-smuggled-export-controlled-servers-to-china/",
-   "published_utc": "2026-10-01T22:50:21+00:00",
-   "title_original": "US alleges California man smuggled export-controlled servers to China",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6fb68c721b4368b2"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "South Korea Inflation Data Due On Friday",
-   "url": "https://www.tradingview.com/news/dpa_afx:c383a7e406eb6:0-south-korea-inflation-data-due-on-friday/",
-   "published_utc": "2026-10-01T22:22:00+00:00",
-   "title_original": "South Korea Inflation Data Due On Friday",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c0d562a77e735a89"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Beincrypto",
-   "title_en": "China and Russia Just Tightened Fuel Supplies: Will Bitcoin Pay in October?",
-   "url": "https://www.tradingview.com/news/beincrypto:081d53f3e094b:0-china-and-russia-just-tightened-fuel-supplies-will-bitcoin-pay-in-october/",
-   "published_utc": "2026-10-01T21:54:09+00:00",
-   "title_original": "China and Russia Just Tightened Fuel Supplies: Will Bitcoin Pay in October?",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d854b3eceaae1875"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "\"Constructed at a cost of 4.9 billion yen → Big deficit due to declining popularity → In danger of closure\"...Until the \"mysterious promenade\" hanging from Yokohama Bay Bridge is revived | Life | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/959520?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-01T21:45:00+00:00",
-   "title_original": "｢49億円かけて建設→人気低迷で大赤字→閉鎖の憂き目に｣…横浜ベイブリッジにぶら下がる｢謎の遊歩道｣が復活するまで | ライフ | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3567b896aa6b3462"
   },
   {
    "source_id": "manual_ia",
