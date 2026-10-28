@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T12:02:42.659000+00:00
+Última coleta: 2026-10-28T12:12:44.542408+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          919
-  🇨🇳 China          839
+  🇨🇳 China          836
   🇹🇼 Taiwan         389
-  🇰🇷 Coreia do Sul  853
+  🇰🇷 Coreia do Sul  856
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix Is Maintained at Buy by Rosenblatt
+  - [korea] SK Hynix vai retornar US$75 bi aos acionistas após lucro recorde
+  - [korea] SK hynix Inc. reports results for the quarter ended September 30 - Earnings Summary
   - [korea] Rosenblatt maintains Buy rating on SK hynix, $400 price target
   - [china] China Nonferrous Metal Industry's Foreign Engineering And Construction's Q3 New Contracts Total 3.2 Billion Yu
   - [china] Changjiang Publishing & Media Q3 Net Profit At 317.4 Million Yuan
@@ -48,9 +51,6 @@ Total: 3000 manchetes
   - [korea] AI memory, chip stocks gain after SK Hynix posts record profit
   - [china] China Hainan Rubber Industry Group: Rubber-price gains and cost cuts supported Q3, but 9M revenue fell 22.28%
   - [china] Lufax Holding: Loan sales edged higher, but rising credit losses drove a CNY 1.494B net loss
-  - [china] Beijing United Information Technology's Units Plan To Purchase Servers Worth 1.5 Billion Yuan
-  - [china] Gotion High Tech Q3 Net Loss At 537.0 Million Yuan
-  - [china] Power Construction Corporation Of China Jan-Sep New Contracts Signed Totalled 807.98 Billion Yuan
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
   - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] Finance minister hopes for Bloomberg review of S. Korea's market status
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T12:02:42+00:00",
+      "published_utc": "2026-10-28T12:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T12:02:42.659000+00:00",
- "collected_at_utc": "2026-10-28T12:02:42.659000+00:00",
+ "generated_at_utc": "2026-10-28T12:12:44.542408+00:00",
+ "collected_at_utc": "2026-10-28T12:12:44.542408+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 919,
-  "china": 839,
+  "china": 836,
   "taiwan": 389,
-  "korea": 853
+  "korea": 856
  },
- "elapsed_s": 29.3,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T11:46:37+00:00"
+   "newest": "2026-10-28T12:04:29+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T11:36:44+00:00"
+   "newest": "2026-10-28T11:48:58+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:33:00+00:00"
+   "newest": "2026-10-28T08:13:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T21:00:52+09:00"
+   "newest": "2026-10-28T21:06:30+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T12:02:00+00:00"
+   "newest": "2026-10-28T12:11:37+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T07:35:33+00:00"
+   "newest": "2026-10-28T10:35:35+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:48:02+00:00"
+   "newest": "2026-10-28T10:38:01+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T10:05:10+00:00"
+   "newest": "2026-10-28T03:00:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,61 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T22:30:00+00:00"
+   "newest": "2026-10-26T08:38:46+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "SK hynix Is Maintained at Buy by Rosenblatt",
+   "url": "https://www.tradingview.com/news/DJN_DN20261028006473:0-sk-hynix-is-maintained-at-buy-by-rosenblatt/",
+   "published_utc": "2026-10-28T12:06:00+00:00",
+   "title_original": "SK hynix Is Maintained at Buy by Rosenblatt",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fcbbe50e8ecbee7a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SK Hynix vai retornar US$75 bi aos acionistas após lucro recorde",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46E0RT:0/",
+   "published_utc": "2026-10-28T12:04:22+00:00",
+   "title_original": "SK Hynix vai retornar US$75 bi aos acionistas após lucro recorde",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "305bc5a440d355a9"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SK hynix Inc. reports results for the quarter ended September 30 - Earnings Summary",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46E1KP:0-sk-hynix-inc-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+   "published_utc": "2026-10-28T12:00:54+00:00",
+   "title_original": "SK hynix Inc. reports results for the quarter ended September 30 - Earnings Summary",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a9611393c4be3515"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -872,57 +923,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3890fe24fe11474e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Beijing United Information Technology's Units Plan To Purchase Servers Worth 1.5 Billion Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46E0WC:0-beijing-united-information-technology-s-units-plan-to-purchase-servers-worth-1-5-billion-yuan/",
-   "published_utc": "2026-10-28T09:18:22+00:00",
-   "title_original": "Beijing United Information Technology's Units Plan To Purchase Servers Worth 1.5 Billion Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "47c953282f618f8e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Gotion High Tech Q3 Net Loss At 537.0 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46E0UN:0-gotion-high-tech-q3-net-loss-at-537-0-million-yuan/",
-   "published_utc": "2026-10-28T09:00:14+00:00",
-   "title_original": "Gotion High Tech Q3 Net Loss At 537.0 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e617bda1f6803038"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Power Construction Corporation Of China Jan-Sep New Contracts Signed Totalled 807.98 Billion Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46E0U5:0-power-construction-corporation-of-china-jan-sep-new-contracts-signed-totalled-807-98-billion-yuan/",
-   "published_utc": "2026-10-28T08:59:24+00:00",
-   "title_original": "Power Construction Corporation Of China Jan-Sep New Contracts Signed Totalled 807.98 Billion Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b0d2244ae4eb532c"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2802,7 +2802,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The reason why the report card for the first year of the Takaichi administration is ``barely passing in fiscal policy and 80 points in monetary policy'' (Newsweek Japan version)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDBmRmM5X0o2M1JhZ095QjZiTkhOcWRjWlk3NWQyNEltUWs0UEJQRk9yWFpTemFKVzFXcWtLSndhWldZbFAwb1BUVzZyblZKSlI4YmhWTlR6ekY5b3I5ZFVnbE5hR2pybEo1WHh0aGJ5UGNyZW8yVFZuMEhnd2tNdm0zc000cVJF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2djelRsc3YxV25OVnM0aFdkRVhkNWZRbF9BbnByQzMtOTcybEFQTjFxenRZWmJxOXltU2JuR2szVVFiTXRpRFdpQ0N6dklRemVCaV9Ta2ZaYW9ZQ1ZLSW9OeUlGaElWYUhnZ1p5T0NYd0c4bTYzS3NWcXA4eDRXWFRZdFREYjFEdzdtLWRR?oc=5",
    "published_utc": "2026-10-27T11:50:06+00:00",
    "title_original": "高市政権発足1年の成績表「財政政策はぎりぎり合格、金融政策は80点」と言える理由（ニューズウィーク日本版）",
    "region": "japan",
@@ -2815,7 +2815,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4d24175a3b178b53"
+   "id": "57824ed6928a12f1"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2835,8 +2835,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2851,7 +2851,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -27531,6 +27531,23 @@
    "id": "51a413bc8920483f"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -27547,23 +27564,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
