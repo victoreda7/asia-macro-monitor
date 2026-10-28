@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T10:32:45.196585+00:00
+Última coleta: 2026-10-28T10:42:46.720786+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          923
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Needham maintains Buy rating on SK hynix, $235 price target
   - [japan] Sales of Leqembi® totaled 32.2 billion yen in the third quarter 2026
   - [china] Shandong Gold Mining Q3 Net Loss At 362.5 Million Yuan
   - [korea] AM Markets Need to Know: SK Hynix surges on record profit, U.S.-Russia weigh oil deals, and more
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Mercedes-Benz CEO: China Will Remain a Very Important Part of Our Business
   - [japan] Chuo Spring Co Ltd - To Buy Back Up To 17.8% Of Own Shares Worth 15 Billion Yen
   - [china] New BYD factories in Europe, China’s hybrid car exports surge: 7 EV reads
-  - [korea] South Korean shares post biggest jump in 3 months as SK Hynix beats forecasts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T10:32:45+00:00",
+      "published_utc": "2026-10-28T10:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

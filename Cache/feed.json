@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-28T10:32:45.196585+00:00",
- "collected_at_utc": "2026-10-28T10:32:45.196585+00:00",
+ "generated_at_utc": "2026-10-28T10:42:46.720786+00:00",
+ "collected_at_utc": "2026-10-28T10:42:46.720786+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 387,
   "korea": 850
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 31.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T02:37:04+00:00"
+   "newest": "2026-10-28T08:51:46+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T10:12:57+00:00"
+   "newest": "2026-10-28T10:35:44+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T09:48:33+00:00"
+   "newest": "2026-10-28T10:30:58+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T08:57:29+00:00"
+   "newest": "2026-10-28T10:32:09+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-28T02:16:20+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T19:16:56+09:00"
+   "newest": "2026-10-28T19:32:55+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T10:31:45+00:00"
+   "newest": "2026-10-28T10:41:58+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T10:05:10+00:00"
+   "newest": "2026-10-28T03:00:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T09:19:41+00:00"
+   "newest": "2026-10-28T08:31:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T22:30:00+00:00"
+   "newest": "2026-10-26T08:38:46+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Needham maintains Buy rating on SK hynix, $235 price target",
+   "url": "https://www.tradingview.com/news/tradingview:3e81bf0256432:0-needham-maintains-buy-rating-on-sk-hynix-235-price-target/",
+   "published_utc": "2026-10-28T10:32:57+00:00",
+   "title_original": "Needham maintains Buy rating on SK hynix, $235 price target",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "78d68eac9870378b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "PR Newswire",
@@ -1146,23 +1163,6 @@
    "live_wire": true,
    "manual": false,
    "id": "d5f72a410c41bb2e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Invezz",
-   "title_en": "Asian Tech Stocks Rise After SK Hynix Pledges $75B to Shareholders",
-   "url": "https://www.tradingview.com/news/invezz:104a282f3bc81:0/",
-   "published_utc": "2026-10-28T06:51:38+00:00",
-   "title_original": "Ações de tecnologia asiáticas sobem após SK Hynix prometer $75B a acionistas",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "fd42a20d0279b744"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2781,8 +2781,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2797,7 +2797,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "focus_taiwan",
@@ -11623,6 +11623,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "인포스탁데일리",
+   "title_en": "The Bank of Korea freezes the base interest rate at 3.00% per annum... ‘Take a breather’ after continuous impressions",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43dXo2QTR3djRCT2ZXcGdtYTdIcmdiZnVMeHJMbDlveHUtMmNYWi01d1pfaGZpQkdMMkVEajEwZWZCUEppX0tnbnprVXdHdDhFVGJsak9LOFI3aXk2RThOS2EzNlRQUHBfMWlzOG0zbVpMWDhzSEE?oc=5",
+   "published_utc": "2026-10-22T07:48:26+00:00",
+   "title_original": "한은, 기준금리 연 3.00% 동결…연속 인상 후 '숨 고르기'",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "3352f9d4a1897826"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "매일경제 마켓",
    "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaVlGcjZfUlBESnYxelFndUgybDRWQkpQeW40eHBwNTlYMHh4TnJUY1J2S19kZElIeGd1ajlQcWQ5VHhROXJvX1NXdWFEa1l4Qmc?oc=5",
@@ -11791,6 +11808,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fac5fce3cd370fb4"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "네이버페이 머니스토리",
+   "title_en": "The Bank of Korea, which had been raising the base interest rate, now freezes it at 3.00%... What is the background?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fdmE2NlhjLWxpQ3dObWNRYVlTMnJIV2UyczQ0SXVmazFFcXBkbnloR1B5WGtYeWlvVzlMRlBnVGlRSEtiT2VGSnRjTm8wQXhuTFE?oc=5",
+   "published_utc": "2026-10-22T06:50:01+00:00",
+   "title_original": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b4fcebcd8480f063"
   },
   {
    "source_id": "gn_kr_mk",
@@ -12213,25 +12247,6 @@
    "id": "951d8323bfbea52c"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "시사뉴스",
-   "title_en": "The Bank of Korea keeps a close eye on inflation and housing prices and freezes the base interest rate at 3% per year after raising it for two consecutive months.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IbHNEeWM4bWxfNXBQdDFVeThaTXBQbkZGb3hiZEJDZDZnNXJ0UWQySWtnNlR1Vl84aGVoUXhWTnZpRXFtTWx2dzNZcWROVmM2T2hTT1JXaFpzOTV1bmszOWJFUQ?oc=5",
-   "published_utc": "2026-10-22T04:26:27+00:00",
-   "title_original": "한국은행, 물가와 집값 등 예의주시하며 기준금리 두달 연속 인상 후 연 3%로 동결",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "inflation",
-    "property"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e7681f0c0cef03de"
-  },
-  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Nvidia taps Korean component makers for AI chips, robots",
@@ -12264,23 +12279,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e841288bedeb8aa8"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "세상을 바꾸는 시민언론 민들레",
-   "title_en": "Bank of Korea stops raising interest rates... Tightening speed control",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Ylk3ZnZlc19UMUc1U09DN2Q5WFdGZk5wT1R6Vnp4eGk1b1Q5WjlEbFhyaWtOWTBaMnVDZXM3UGREcmIzWWVBM3hfY1lOU09kV1AyMVlTX1RTMFhjbTF2MzJSMTY2RGdCaHhwTw?oc=5",
-   "published_utc": "2026-10-22T04:10:00+00:00",
-   "title_original": "기준금리 인상 멈춘 한국은행…긴축 속도 조절",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9c4829ceb49aac68"
   },
   {
    "source_id": "gn_cn_reuters",
