@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T10:12:43.285661+00:00
+Última coleta: 2026-10-28T10:22:49.444599+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          924
-  🇨🇳 China          839
+  🇯🇵 Japão          923
+  🇨🇳 China          840
   🇹🇼 Taiwan         387
   🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [korea] AM Markets Need to Know: SK Hynix surges on record profit, U.S.-Russia weigh oil deals, and more
   - [korea] Alphabet, Microsoft, SK Hynix, Robinhood, and More Stocks That Explain Today's Market — Barrons.com
   - [china] Moore Threads Tech Q3 Net Profit At 49.3 Million Yuan
   - [china] China's September net gold imports via Hong Kong rise over 28% m/m
@@ -52,11 +53,10 @@ Total: 3000 manchetes
   - [japan] Prime Minister Takaichi received proposals from the Japan Restoration Association regarding countermeasures fo
   - [china] Mercedes-Benz CEO: China Will Remain a Very Important Part of Our Business
   - [japan] Chuo Spring Co Ltd - To Buy Back Up To 17.8% Of Own Shares Worth 15 Billion Yen
+  - [china] New BYD factories in Europe, China’s hybrid car exports surge: 7 EV reads
   - [korea] South Korean shares post biggest jump in 3 months as SK Hynix beats forecasts
   - [china] Analysis-China’s new export curbs draw a line around its AI crown jewels
   - [korea] Kospi hits two-week high on tech rally as SK Hynix plans $75 bn payout on record profit
-  - [korea] Amended: SK Hynix Earnings Up In Q3; Shares Surge
-  - [china] China's Economic Growth Likely to Stabilize in 4Q — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T10:12:43+00:00",
+      "published_utc": "2026-10-28T10:22:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
