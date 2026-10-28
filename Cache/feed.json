@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T07:32:44.863004+00:00",
- "collected_at_utc": "2026-10-28T07:32:44.863004+00:00",
+ "generated_at_utc": "2026-10-28T07:42:45.555001+00:00",
+ "collected_at_utc": "2026-10-28T07:42:45.555001+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 933,
-  "china": 830,
+  "china": 831,
   "taiwan": 387,
-  "korea": 850
+  "korea": 849
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T07:13:43+00:00"
+   "newest": "2026-10-28T07:33:00+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T05:33:49+00:00"
+   "newest": "2026-10-28T07:28:46+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T16:22:28+09:00"
+   "newest": "2026-10-28T16:33:38+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T07:31:44+00:00"
+   "newest": "2026-10-28T07:41:18+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T10:05:10+00:00"
+   "newest": "2026-10-28T03:00:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T07:26:39+00:00"
+   "newest": "2026-10-28T06:29:04+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Mercedes-Benz CEO: China Will Remain a Very Important Part of Our Business",
+   "url": "https://www.tradingview.com/news/DJN_DN20261028001850_20261028002098:0-mercedes-benz-ceo-china-will-remain-a-very-important-part-of-our-business/",
+   "published_utc": "2026-10-28T07:35:00+00:00",
+   "title_original": "Mercedes-Benz CEO: China Will Remain a Very Important Part of Our Business",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4ea34445cb00d77b"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -376,6 +393,23 @@
    "live_wire": true,
    "manual": false,
    "id": "aa44c6f3e950ea92"
+  },
+  {
+   "source_id": "investing_econ",
+   "source_name": "Investing Economy",
+   "title_en": "Analysis-China’s new export curbs draw a line around its AI crown jewels",
+   "url": "https://www.investing.com/news/economy-news/analysischinas-new-export-curbs-draw-a-line-around-its-ai-crown-jewels-4977600",
+   "published_utc": "2026-10-28T07:18:31+00:00",
+   "title_original": "Analysis-China’s new export curbs draw a line around its AI crown jewels",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7de1f66eb95fc01e"
   },
   {
    "source_id": "gn_kr_ked",
@@ -444,23 +478,6 @@
    "live_wire": true,
    "manual": false,
    "id": "7c6afbf730d4f51a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's new export curbs draw a line around its AI crown jewels",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46C0QH:0-china-s-new-export-curbs-draw-a-line-around-its-ai-crown-jewels/",
-   "published_utc": "2026-10-28T07:07:06+00:00",
-   "title_original": "China's new export curbs draw a line around its AI crown jewels",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f63d1e0efb373458"
   },
   {
    "source_id": "gn_tw_cna",
@@ -2419,8 +2436,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2435,7 +2452,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "focus_taiwan",
@@ -3204,6 +3221,23 @@
   {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
+   "title_en": "Rising cybersecurity risks, ``a threat to the financial system'' - Bank of Japan board member (Reuters)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EOWlTVzRJVXU2ZXZBWnVOUVpHa0doMVc5aHdVZ1VaLVlvQmwzeERsNmRIMjEzSG5ncmMzSkNndkdWM3RmWDdRZGRoQU5TM3hsaEJpT3ZSeWtMVFUxTGdkcmJmeXlRaHVrTzdVTFFnelhtU19GQkI3S013Wm1jVGc?oc=5",
+   "published_utc": "2026-10-27T04:50:22+00:00",
+   "title_original": "サイバーセキュリティーリスクの高まり、「金融システムへの脅威」＝日銀理事（ロイター）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "51e429824f629fde"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
    "title_en": "Cybersecurity - Rising risks, ``threat to the financial system'' - Bank of Japan board member (Reuters)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EOWlTVzRJVXU2ZXZBWnVOUVpHa0doMVc5aHdVZ1VaLVlvQmwzeERsNmRIMjEzSG5ncmMzSkNndkdWM3RmWDdRZGRoQU5TM3hsaEJpT3ZSeWtMVFUxTGdkcmJmeXlRaHVrTzdVTFFnelhtU19GQkI3S013Wm1jVGc?oc=5",
    "published_utc": "2026-10-27T04:50:22+00:00",
@@ -3217,23 +3251,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5dae0032ed806708"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Rising cybersecurity risks, ``a threat to the financial system'' - Bank of Japan board member (Reuters)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOWNWYi0wQ0JMY2NKMUpwYkJKUFpsWGlpNmZzUnpnRzRuWEZaalUwd21HNGJlalF6QXU5aWducXh3cklmb2E3TzNjMnZjb1pKVDVnNlEtUXNQT1BpS1RLQ09fSTc2MWtzUk9SV0xnZnJ0LVhtM3JTQ0U4Ykpoa1NRYkZIZDYxeldLTjJMOUdR?oc=5",
-   "published_utc": "2026-10-27T04:50:22+00:00",
-   "title_original": "サイバーセキュリティーリスクの高まり、「金融システムへの脅威」＝日銀理事 (ロイター)",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "32b7368761960692"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -3631,6 +3648,23 @@
    "live_wire": false,
    "manual": false,
    "id": "45fde8ecc3b4f1a5"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Korean chip stocks rally on Wall Street gains, Anthropic IPO filing",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbHE1VVdzR1AybkZ5SWxoZlo3OVQ2ajVSdEgxLVUtTHN5NWJmTDN2cnNveWhkZ0ZmV2k2LUVCUEtORU9YVjRiSUpfdElpdVlhTXY3dXhBQQ?oc=5",
+   "published_utc": "2026-10-27T02:14:51+00:00",
+   "title_original": "Korean chip stocks rally on Wall Street gains, Anthropic IPO filing",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "2d72910e73532067"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -5297,7 +5331,7 @@
   },
   {
    "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg",
+   "source_name": "Bloomberg.com",
    "title_en": "Why Xi Is Using China’s Fifth Plenum to Tighten Party Control",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFlTcEswcWctMHdHZEx2NThLdFlkcDR2N0ZXRVlJWVF4djFmMjBocnV1OEFYb2wyRXZ5NDB6Z2VVdFFIMkVVUl8yYUl3QWFhR0luUnlVdDlGLXl3MUZZaWhUSjgyLUNIY3FiUmtnbTA2TVNaakxyLU1zSGZRQnRVbmFXRHBDajNoTEdia0duRmZ3VFUza0hod1BLQXhJQVQ4MWkzdEpONGh2VmNpdjhjY21EbUoyek1tTGtjdF9QaXpYWVdiSWZOTA?oc=5",
    "published_utc": "2026-10-26T07:43:08+00:00",
@@ -51832,40 +51866,6 @@
    "live_wire": false,
    "manual": false,
    "id": "07548b0bdfc5baaf"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "While U.S. Micron, the third-largest memory chipmaker, was the first to start its earnings season sm..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MbTVqYmVDN0NfcXlhQkVUVHN5Z05QbnJ3amdJQXJrcFVFNHQxZ1QzS2VvZ3Rybi1BT2ZSVzRuVVlrTWFueVBHVkVVV2F3OGs?oc=5",
-   "published_utc": "2026-10-01T20:51:23+00:00",
-   "title_original": "While U.S. Micron, the third-largest memory chipmaker, was the first to start its earnings season sm..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "53145550ee7cce98"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "GuruFocus",
-   "title_en": "Samsung Electronics Stocks Gain 2.8% as Micron Reinforces Memory Scarcity",
-   "url": "https://www.tradingview.com/news/gurufocus:255be47ad094b:0-samsung-electronics-stocks-gain-2-8-as-micron-reinforces-memory-scarcity/",
-   "published_utc": "2026-10-01T17:54:57+00:00",
-   "title_original": "Samsung Electronics Stocks Gain 2.8% as Micron Reinforces Memory Scarcity",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4db06f4ff88f951a"
   },
   {
    "source_id": "manual_ia",
