@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T21:42:44.822296+00:00
+Última coleta: 2026-10-28T21:52:08.452441+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          909
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korea’s Manufacturing Sentiment Weakens Slightly
   - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
   - [japan] Japan girds for new wave of food price hikes as tanker rates soar
   - [korea] Biz sentiment rises to over 4-yr high in Oct. on improved outlook: BOK
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SKHY Stock: Analyst Sees 175% Upside Potential For SK Hynix, Company's Q3 Beat Uplifts MU, SNDK, WDC
   - [china] Axt, Inc. Announces Up To RMB 3.67 Billion (Approximately Us$545 Million) In Private Equity Financing For Subs
   - [china] Intco Medical Technology Q3 Net Loss At 625.2 Million Yuan
-  - [korea] SK Hynix target bumped at Wedbush after blockbuster earnings
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T21:42:45+00:00",
+      "published_utc": "2026-10-28T21:52:08+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
