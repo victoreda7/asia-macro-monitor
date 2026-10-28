@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T01:32:43.289601+00:00
+Última coleta: 2026-10-28T01:42:44.662824+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          943
-  🇨🇳 China          836
+  🇯🇵 Japão          940
+  🇨🇳 China          837
   🇹🇼 Taiwan         385
-  🇰🇷 Coreia do Sul  836
+  🇰🇷 Coreia do Sul  838
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi rises 4% after SK Hynix results; Asian stocks gain on AI optimism ahead of US Fed decision
+  - [korea] SK Hynix Unveils $45 Billion Shareholder Returns as AI Memory Demand Lifts Profit
   - [japan] JGB Yields Rise as AI Trade Regains Momentum — Market Talk
   - [korea] Kospi jumps as chipmakers rally on SK Hynix’s record profit, shareholder returns
   - [korea] South Korean Shares Rally on SK Hynix Earnings
@@ -24,6 +26,7 @@ Total: 3000 manchetes
   - [china] How China’s ancient capital staked a claim to the nation’s fastest export growth
   - [japan] A sense of caution that ``even if we use AI to get things done faster, it will only mean more work.'' - The ``
   - [taiwan] Key facts: TSMC (2330) ups CoWoS prices 10–20%; U.S. interposers
+  - [korea] SK Hynix Says Its Stock Is Undervalued as Chip Supply-Demand Imbalance Persists
   - [taiwan] Semiconductor equipment is not AI chip growth's biggest bottleneck
   - [korea] SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings
   - [taiwan] MiCo Ceramics acquires idle LGD plant for KRW150 billion to boost semiconductor component capacity
@@ -36,6 +39,7 @@ Total: 3000 manchetes
   - [korea] SK Hynix Unveils $75 Billion Shareholder Return Plan After Reporting Sevenfold Increase in Q3 Profit
   - [korea] SK Hynix unveils shareholder return plan worth $75 billion after posting 7-fold jump in Q3 profit
   - [korea] SK Hynix: To Buy Back Additional KRW20T of Shares
+  - [china] China Stock Premium Over Hong Kong Widens on State Intervention
   - [korea] SK Hynix: To Pay More Than KRW30T in Dividends
   - [korea] SK Hynix: To Pay More Than KRW30B in Dividends
   - [korea] SK Hynix Q3 profit beats expectations, vows $75 bln in shareholders returns
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] What kind of discussion will unfold at the Bank of Japan's October meeting? (NRI researcher's commentary on cu
   - [korea] SK Hynix 3Q Rev KRW104.615T Vs. KRW24.449T >000660.SE
   - [japan] Mapletree Industrial Trust: Yen Depreciation Against Singapore Dollar Also Weighed on Rev >ME8U.SG
-  - [japan] FX weekly: Dollar slips weekly as Yen leads major currency gains
-  - [japan] ``In the past, we would have received twice as much as younger people,'' but due to fewer posts, annual income
-  - [china] In Focus | How Hong Kong went from a yuan gateway to a complete currency ecosystem
-  - [taiwan] The first wave of exit polls for the Israeli election comes out, with the opposition slightly leading by less 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T01:32:43+00:00",
+      "published_utc": "2026-10-28T01:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
