@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T03:32:42.844657+00:00
+Última coleta: 2026-10-28T03:42:44.604225+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
+  🇯🇵 Japão          932
   🇨🇳 China          836
   🇹🇼 Taiwan         385
-  🇰🇷 Coreia do Sul  846
+  🇰🇷 Coreia do Sul  847
 
 ## O que já está no feed (não repita)
 
+  - [japan] Stock price rise Buy orders for stocks such as semiconductors
+  - [japan] Yurtec Corp - To Buy Back Up To 2.47% Of Shares Worth 5.5 Billion Yen
+  - [japan] The Japanese economy is now an AI-powered economy, with capital investment in exports, stock prices, and even 
+  - [korea] Asia stocks rally as SK Hynix earnings boost AI trade; Fed decision ahead
   - [korea] South Korean Stocks Rally as SK Hynix Payout and AI Optimism Boost Markets
   - [korea] Why is Samsung Electronics stock surging today?
   - [korea] Foreign currency deposits rise to fresh record high in Sept.
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Says Its Stock Is Undervalued as Chip Supply-Demand Imbalance Persists
   - [taiwan] Semiconductor equipment is not AI chip growth's biggest bottleneck
   - [korea] SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings
-  - [taiwan] MiCo Ceramics acquires idle LGD plant for KRW150 billion to boost semiconductor component capacity
-  - [china] Meituan to Raise $1.20 Billion Via Offshore Yuan Bond Sale
-  - [korea] Correct: SK Hynix: To Pay More Than KRW30T in Dividends, Not KRW30B
-  - [korea] SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T03:32:43+00:00",
+      "published_utc": "2026-10-28T03:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
