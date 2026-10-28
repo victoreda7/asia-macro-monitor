@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T20:22:45.204380+00:00
+Última coleta: 2026-10-28T20:32:46.518786+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          908
+  🇯🇵 Japão          909
   🇨🇳 China          838
-  🇹🇼 Taiwan         391
+  🇹🇼 Taiwan         390
   🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [japan] [Chaos] France's large-scale demonstrations and riots: "Plummeting retail stocks," "increased burden on insura
   - [japan] Fed leaves policy interest rate unchanged for the first time in two meetings, perhaps to assess the impact on 
   - [china] IMF Taps China’s Vice Finance Minister Liao Min for Deputy Managing Director Role
   - [japan] Behind the Odakyu "base" in a quiet residential area of ​​Setagaya, 5 minutes walk from Kitami Station, "train
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] Japan and Germany set up high-level AI dialogue to strengthen economic security against China's export control
   - [korea] S&P 500 and Nasdaq should open higher, with SK Hynix boosting the chip sector; the Fed is the center of attent
   - [korea] S&P 500, Nasdaq set for higher open as SK Hynix lifts chips; Fed in focus
-  - [korea] Reborn Coffee Secures Manufacturing Infrastructure For $30 Million Supply Volume And Expands Global Supply Cha
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T20:22:45+00:00",
+      "published_utc": "2026-10-28T20:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

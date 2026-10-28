@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T20:22:45.204380+00:00",
- "collected_at_utc": "2026-10-28T20:22:45.204380+00:00",
+ "generated_at_utc": "2026-10-28T20:32:46.518786+00:00",
+ "collected_at_utc": "2026-10-28T20:32:46.518786+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 908,
+  "japan": 909,
   "china": 838,
-  "taiwan": 391,
+  "taiwan": 390,
   "korea": 863
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T08:18:00+00:00"
+   "newest": "2026-10-28T08:11:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T20:07:29+00:00"
+   "newest": "2026-10-28T20:24:51+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -147,7 +147,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:26:00+00:00"
+   "newest": "2026-10-28T01:30:51+00:00"
   },
   {
    "source_id": "gn_jp_mof",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T20:12:07+00:00"
+   "newest": "2026-10-28T20:31:55+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T18:34:01+00:00"
+   "newest": "2026-10-28T20:29:06+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-29T05:15:00+09:00"
+   "newest": "2026-10-29T05:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,10 +339,28 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-28T10:00:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "[Chaos] France's large-scale demonstrations and riots: \"Plummeting retail stocks,\" \"increased burden on insurance companies,\" and widespread corporate damage...A government that is \"unresponsive\" due to financial difficulties | Politics, Economy, and Investment | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/962597?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-28T20:30:00+00:00",
+   "title_original": "【混迷】フランス大規模デモ＆暴動｢小売り株急落｣｢保険会社の負担増｣広がる企業被害…財政難で\"ない袖振れぬ\"政権 | 政治・経済・投資 | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "04af16839fe084bf"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -6558,24 +6576,6 @@
    "id": "e12668b3e0b0dbdc"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVUxuT01uNzVGcWdXNjJsNmZXY2tjajQ2NGcxeWVaNkRRLUtSNlFoTGhfeGhhYUNENUNRY01PVF9mVDVmTl8tZGlYTFNOMEtGd2lVZmg0SzljbnUtQUs0aXVNU0hkanJZMHlXS0VZTzFBcm8ydlZhRU5LcDhCWUVCMUhqMWZ4VTI3akE?oc=5",
-   "published_utc": "2026-10-26T03:09:06+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "26723466cf9fd537"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks expected to maintain tight lending standards in Q4: BOK survey",
@@ -8388,6 +8388,24 @@
    "live_wire": true,
    "manual": false,
    "id": "9f5caab2bcd6c61a"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
+   "published_utc": "2026-10-23T14:14:15+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",
@@ -12649,6 +12667,25 @@
    "id": "951d8323bfbea52c"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "시사뉴스",
+   "title_en": "The Bank of Korea keeps a close eye on inflation and housing prices and freezes the base interest rate at 3% per year after raising it for two consecutive months.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IbHNEeWM4bWxfNXBQdDFVeThaTXBQbkZGb3hiZEJDZDZnNXJ0UWQySWtnNlR1Vl84aGVoUXhWTnZpRXFtTWx2dzNZcWROVmM2T2hTT1JXaFpzOTV1bmszOWJFUQ?oc=5",
+   "published_utc": "2026-10-22T04:26:27+00:00",
+   "title_original": "한국은행, 물가와 집값 등 예의주시하며 기준금리 두달 연속 인상 후 연 3%로 동결",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "property"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e7681f0c0cef03de"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Nvidia taps Korean component makers for AI chips, robots",
@@ -12681,23 +12718,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e841288bedeb8aa8"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "세상을 바꾸는 시민언론 민들레",
-   "title_en": "Bank of Korea stops raising interest rates... Tightening speed control",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Ylk3ZnZlc19UMUc1U09DN2Q5WFdGZk5wT1R6Vnp4eGk1b1Q5WjlEbFhyaWtOWTBaMnVDZXM3UGREcmIzWWVBM3hfY1lOU09kV1AyMVlTX1RTMFhjbTF2MzJSMTY2RGdCaHhwTw?oc=5",
-   "published_utc": "2026-10-22T04:10:00+00:00",
-   "title_original": "기준금리 인상 멈춘 한국은행…긴축 속도 조절",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9c4829ceb49aac68"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51854,23 +51874,6 @@
    "live_wire": false,
    "manual": false,
    "id": "97cce119cba9a4df"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Key facts: TSMC (2330) Leads AI Foundry, Tops $2T Market Cap",
-   "url": "https://www.tradingview.com/news/tradingview:7fbbb5f31c594:0-key-facts-tsmc-2330-leads-ai-foundry-tops-2t-market-cap/",
-   "published_utc": "2026-10-02T01:00:00+00:00",
-   "title_original": "Key facts: TSMC (2330) Leads AI Foundry, Tops $2T Market Cap",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fcb748a2375f57ff"
   },
   {
    "source_id": "manual_ia",
