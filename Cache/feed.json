@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-28T05:12:45.830837+00:00",
- "collected_at_utc": "2026-10-28T05:12:45.830837+00:00",
+ "generated_at_utc": "2026-10-28T05:22:42.383286+00:00",
+ "collected_at_utc": "2026-10-28T05:22:42.383286+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 387,
   "korea": 850
  },
- "elapsed_s": 31.4,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 37,
+   "count": 44,
    "error": "",
-   "newest": "2026-10-28T09:07:20+08:00"
+   "newest": "2026-10-28T12:57:41+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T04:54:36+00:00"
+   "newest": "2026-10-28T05:10:15+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-28T05:07:03+00:00"
+   "newest": "2026-10-28T05:21:00+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 26,
    "error": "",
-   "newest": "2026-10-27T05:46:33+00:00"
+   "newest": "2026-10-28T01:25:23+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T05:12:12+00:00"
+   "newest": "2026-10-28T05:22:02+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T05:04:57+00:00"
+   "newest": "2026-10-28T05:11:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Yang Jinlong: Without budgetary subsidies and energy subsidies, the inflation rate may rise if oil prices continue to rise |",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zZHc1WmN1YW4tUkNkRG5ST0xldnl1cFBPMndjOUJtSTNSMndiQ2xiS2tUUFNuV3ZhLW9qRkloWlNrSzR1bnpYbWxCQ0tpWGJrOG1yS1JoWEpNR0E0Y3c?oc=5",
+   "published_utc": "2026-10-28T05:11:00+00:00",
+   "title_original": "楊金龍：若無預算撥補與能源補貼油價續漲通膨率恐升| 產經",
+   "region": "taiwan",
+   "topics": [
+    "fiscal",
+    "inflation"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "d3d9dd439af32690"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -2059,13 +2077,13 @@
    "id": "f8701ff0137361c1"
   },
   {
-   "source_id": "gn_tw_reuters",
+   "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "High inflation to persist globally into next year, Reuters poll shows",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGlkNFRUdUxnaVVWLTVGV2pJeEdyQzVIUTBoak15M0dBVjMzcGZrV0NjMnVISDZud2U2RGdDcXc3NUZpSU5QNGtSS0xpc2F3QkR0Y05OOE00czlTSUV6ZUQ1V1Vrdk9BT2x6Qzk1a1IycThjeEJ0bk5MT3FjN0FxTEpvdFV1aEZ6MkRfTkJpbVU5eEZVdlhOVzdxVkJENXpjazlRVk0yZlROcTByLVluVXp0MA?oc=5",
    "published_utc": "2026-10-27T15:47:16+00:00",
    "title_original": "High inflation to persist globally into next year, Reuters poll shows",
-   "region": "taiwan",
+   "region": "china",
    "topics": [
     "inflation"
    ],
@@ -2073,7 +2091,7 @@
    "translated": false,
    "live_wire": false,
    "manual": false,
-   "id": "5be9f46dde264d45"
+   "id": "d2cf8147444a0dd6"
   },
   {
    "source_id": "tradingview_live",
@@ -5642,9 +5660,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -5656,7 +5674,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "2b972d8c6ac9362b"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5848,24 +5866,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6471,6 +6471,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -8238,7 +8256,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富",
+   "source_name": "东方财富网",
    "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5Zmw5cXBXaHJuYURNaGlPR0kzSEszWlgzLUo3RlNmZFc1RDZiQ0E4UWRTVTVQRG9ya0psOVdnLWxOTGdRUkVJWmNqM1FfTF9FUnhZb1ZlRnVOVFBZbTNRTDZZVlY1bjQ?oc=5",
    "published_utc": "2026-10-23T09:19:04+00:00",
@@ -9141,6 +9159,24 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "湖南红网",
+   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JOU4xQURkbWUzMkFXZkI1bXRrZHNtckpVaHE1YVd5TXZkbWJCTEJKYnNYQmVnZUQ2OXlSNWFrZkFDZzVCZ21NeG1IWDFtcEkyUkRWOFpTaVpoLWZUdFNvRC1fR3lVUQ?oc=5",
+   "published_utc": "2026-10-23T02:15:26+00:00",
+   "title_original": "央行开展2580亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "649f01690852552b"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
@@ -9208,24 +9244,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ab3208d7cfdf114d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wemhzYTYzWkM3NllscXN6dkhkenVwRnlxSm5MZFVmYU1XRkNJamFXLU1zTHJkTFY2LUlOT3JneUctb3o4RVNKb2RTaFVJMUtkMFlsWjVhM1pGdDJrRlU0d2IzSlotY29f?oc=5",
-   "published_utc": "2026-10-23T01:53:53+00:00",
-   "title_original": "央行开展2580亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0b449075bd88b714"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -51849,23 +51867,6 @@
    "live_wire": true,
    "manual": false,
    "id": "2eddd8e9331d6a3b"
-  },
-  {
-   "source_id": "gn_cn_caixin",
-   "source_name": "Caixin Global",
-   "title_en": "In Depth: What’s in the China-U.S. Tariff Truce, and What’s Left Unsettled",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOEs1UmdkRFViNlFBNndUaHFCbWxkSGtLcnBFQ3U1V3FDR1Qyb1BFZHl0M2prclJhdFJidTRlaFdHNlJzT2EyVDJScndialdTNFFpclU0aHFRT1I1Vlc3TmRHQ1NiRWRQSV9IcDlBNFRaRlhjeGZBVEs2cG5HQzIzQzRkX250dlRtSnRpejJKdXJIS0NkVjZYMVVIZnBfczZIa25IZzVNeVk5QnpJMWNhbTdKRlktcm4tWk9lV1k0N1o?oc=5",
-   "published_utc": "2026-10-01T14:10:00+00:00",
-   "title_original": "In Depth: What’s in the China-U.S. Tariff Truce, and What’s Left Unsettled",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "1467c887f244136c"
   },
   {
    "source_id": "manual_ia",
