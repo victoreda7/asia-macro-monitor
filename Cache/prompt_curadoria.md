@@ -7,18 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T09:52:45.328857+00:00
+Última coleta: 2026-10-28T10:02:43.702694+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          926
-  🇨🇳 China          837
+  🇯🇵 Japão          925
+  🇨🇳 China          839
   🇹🇼 Taiwan         387
-  🇰🇷 Coreia do Sul  850
+  🇰🇷 Coreia do Sul  849
 
 ## O que já está no feed (não repita)
 
-  - [korea] Nasdaq Futures Rise as SK Hynix Boosts Chip Sector Ahead of Fed Decision, Earnings Release
+  - [korea] Alphabet, Microsoft, SK Hynix, Robinhood, and More Stocks That Explain Today's Market — Barrons.com
+  - [china] Moore Threads Tech Q3 Net Profit At 49.3 Million Yuan
+  - [china] China's September net gold imports via Hong Kong rise over 28% m/m
   - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
+  - [korea] Nasdaq Futures Rise as SK Hynix Boosts Chip Sector Ahead of Fed Decision, Earnings Release
   - [korea] AI memory, chip stocks gain after SK Hynix posts record profit
   - [china] China Hainan Rubber Industry Group: Rubber-price gains and cost cuts supported Q3, but 9M revenue fell 22.28%
   - [china] Lufax Holding: Loan sales edged higher, but rising credit losses drove a CNY 1.494B net loss
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Amended: SK Hynix Earnings Up In Q3; Shares Surge
   - [china] China's Economic Growth Likely to Stabilize in 4Q — Market Talk
   - [taiwan] Israel fears change, opposition temporarily leads in exit polls
-  - [japan] Prime Minister Takaichi received proposals from the Liberal Democratic Party regarding the stable supply of en
-  - [korea] Samsung Epis Holdings (0126Z0) Posts Q3 Revenue KRW 441.9B, OP KRW 105.0B
-  - [korea] Asian Tech Stocks Rise After SK Hynix Pledges $75B to Shareholders
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T09:52:45+00:00",
+      "published_utc": "2026-10-28T10:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
