@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T14:12:47.942587+00:00
+Última coleta: 2026-10-28T14:22:42.562025+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          914
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [korea] S&P 500 and Nasdaq open higher with SK Hynix boosting semiconductor sector; Fed Spotlight
   - [china] SUNING.COM Q3 Net Loss At 73.2 Million Yuan
   - [china] IMF says deputy managing director Li to be replaced by Chinese vice finance minister Liao
@@ -52,7 +53,6 @@ Total: 3000 manchetes
   - [korea] Nasdaq futures gain as SK Hynix lifts chips ahead of Fed decision, earnings
   - [china] Zhejiang Zheneng Electric Power Q3 Net Loss At 56.8 Million Yuan
   - [korea] SK hynix Price Target Maintained With a $250.00/Share by Cantor Fitzgerald
-  - [korea] Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
   - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T14:12:48+00:00",
+      "published_utc": "2026-10-28T14:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
