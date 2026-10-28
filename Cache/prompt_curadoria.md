@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T21:22:43.675929+00:00
+Última coleta: 2026-10-28T21:32:44.054012+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          909
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
   - [japan] Japan girds for new wave of food price hikes as tanker rates soar
   - [korea] Biz sentiment rises to over 4-yr high in Oct. on improved outlook: BOK
   - [japan] <JR Hokkaido> ``We do not accept the burden of local governments'', as pointed out by House of Councilors memb
@@ -36,7 +37,6 @@ Total: 3000 manchetes
   - [china] Tunisia sets 3.1 pct economic growth target for 2027
   - [korea] US sanctions North Korean network accused of defrauding businesses
   - [korea] SK Hynix Shakes Up the AI Chip Stock Narrative
-  - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3229708.97, Implies 141% Upside
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 44931.82, Implies 33% Upside
   - [korea] Micron's stock rises after SK Hynix earnings. Here's its next major test.
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T21:22:43+00:00",
+      "published_utc": "2026-10-28T21:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
