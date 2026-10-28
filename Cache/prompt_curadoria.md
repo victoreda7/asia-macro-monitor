@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T09:22:45.364649+00:00
+Última coleta: 2026-10-28T09:32:44.744297+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
+  🇯🇵 Japão          930
   🇨🇳 China          835
-  🇹🇼 Taiwan         387
+  🇹🇼 Taiwan         388
   🇰🇷 Coreia do Sul  847
 
 ## O que já está no feed (não repita)
@@ -37,6 +37,7 @@ Total: 3000 manchetes
   - [taiwan] Taiwan inflation could rise if energy subsidies end: Central bank
   - [korea] Kospi at two-week high as SK Hynix’s $75 bn payout plan, record profit fan tech rally
   - [china] China's New Export Restrictions Protect Its AI Crown Jewels
+  - [taiwan] Drone supply chains key to wartime endurance: AerosoarX chairman
   - [japan] Kamgras1 Raises Share Tender Price For Kakaku.Com To 3683 Yen Per Share From 3682 Yen, Filing Shows
   - [japan] Prime Minister Takaichi received proposals from the Japan Restoration Association regarding countermeasures fo
   - [china] Mercedes-Benz CEO: China Will Remain a Very Important Part of Our Business
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Kospi Gains, Led by Semiconductor, Battery Stocks
   - [korea] SK Hynix Stock Soars as Revenue and Profits Rise: Will These Gains Sustain?
   - [japan] Nisshin Seifun Group Inc. - To Buy Back Up To 5% Of Own Shares Worth 20 Billion Yen
-  - [japan] Advantest Corporation - To Buy Back Up To 1.5% Of Own Shares Worth 280 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T09:22:45+00:00",
+      "published_utc": "2026-10-28T09:32:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
