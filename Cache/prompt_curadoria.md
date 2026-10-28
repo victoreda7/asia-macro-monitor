@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T13:12:45.604279+00:00
+Última coleta: 2026-10-28T13:22:44.049884+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          917
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] Intco Medical Technology Q3 Net Loss At 625.2 Million Yuan
+  - [korea] SK Hynix target bumped at Wedbush after blockbuster earnings
   - [china] AXT, Inc. Announces Up to RMB 3.67 Billion (Approximately US$545 Million) in Private Equity Financing for Subs
   - [china] Japan and Germany set up high-level AI dialogue to strengthen economic security against China's export control
   - [korea] S&P 500 and Nasdaq should open higher, with SK Hynix boosting the chip sector; the Fed is the center of attent
@@ -50,8 +52,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Is Maintained at Buy by Needham
   - [korea] Needham maintains Buy rating on SK hynix, $235 price target
   - [japan] Sales of Leqembi® totaled 32.2 billion yen in the third quarter 2026
-  - [china] Shandong Gold Mining Q3 Net Loss At 362.5 Million Yuan
-  - [korea] AM Markets Need to Know: SK Hynix surges on record profit, U.S.-Russia weigh oil deals, and more
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
   - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T13:12:45+00:00",
+      "published_utc": "2026-10-28T13:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
