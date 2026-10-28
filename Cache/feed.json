@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T03:42:44.604225+00:00",
- "collected_at_utc": "2026-10-28T03:42:44.604225+00:00",
+ "generated_at_utc": "2026-10-28T03:52:44.571940+00:00",
+ "collected_at_utc": "2026-10-28T03:52:44.571940+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 932,
-  "china": 836,
+  "japan": 930,
+  "china": 837,
   "taiwan": 385,
-  "korea": 847
+  "korea": 848
  },
- "elapsed_s": 31.0,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T19:48:00+00:00"
+   "newest": "2026-10-27T17:04:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T16:00:00+00:00"
+   "newest": "2026-10-28T03:31:03+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T03:41:37+00:00"
+   "newest": "2026-10-28T03:50:27+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:34:01+00:00"
+   "newest": "2026-10-27T22:33:19+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:58:16+00:00"
+   "newest": "2026-10-28T03:45:30+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Quartr",
+   "title_en": "SK hynix: Record Q3 earnings, tight AI-memory supply and ~KRW 100tn in planned shareholder returns",
+   "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4370294:0-sk-hynix-record-q3-earnings-tight-ai-memory-supply-and-krw-100tn-in-planned-shareholder-returns/",
+   "published_utc": "2026-10-28T03:46:56+00:00",
+   "title_original": "SK hynix: Record Q3 earnings, tight AI-memory supply and ~KRW 100tn in planned shareholder returns",
+   "region": "korea",
+   "topics": [
+    "fx",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "82ce072643199e68"
+  },
   {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
@@ -550,6 +568,23 @@
    "live_wire": true,
    "manual": false,
    "id": "6317a87286571e5d"
+  },
+  {
+   "source_id": "gn_jp_mof",
+   "source_name": "財務省",
+   "title_en": "What's New October, 2026 : Ministry of Finance",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaGVTdkpkMGtWc1pmZ0FOOEFXNnd0ejBiYXZmTDJRVGpDREM0bEp5V0VvWVYzb2JzR194V0dzV3JrMTBTalJSWnJwUWhMZXozUlJYTFFxdkRwODRDelhMaFFXZGRTemFMVUlWQ0F2M04zSkd3cFBB?oc=5",
+   "published_utc": "2026-10-28T02:16:20+00:00",
+   "title_original": "What's New October, 2026 : Ministry of Finance",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "816a8b781a3d4bd5"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -1456,23 +1491,6 @@
    "id": "facede2f9640eaad"
   },
   {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "What kind of discussion will unfold at the Bank of Japan's October meeting? (NRI researcher's commentary on current events)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFbWlEa3pZQVN3TmhtdjgxbVJMa2JWTVRjZGNkRVpSUW1mYWRWanQ5elBmaU9qY3NUWGNMeUpvaFdPQU1ZUmhYVDA3T3pRbFlBQWxYS3lqQWNiLVhFdkJ6QkJ0VEU1T0x6cDJtcVBmSDQ5QkNZRnAtYVY2dFMzN3M?oc=5",
-   "published_utc": "2026-10-27T23:32:17+00:00",
-   "title_original": "日銀10月会合ではどのような議論が展開されるのか？（NRI研究員の時事解説）",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c55b89d012c687ee"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "SK Hynix 3Q Rev KRW104.615T Vs. KRW24.449T >000660.SE",
@@ -1488,6 +1506,23 @@
    "live_wire": true,
    "manual": false,
    "id": "27db9395996a4c41"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "What kind of discussion will unfold at the Bank of Japan's October meeting? (NRI researcher's commentary on current events)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFbWlEa3pZQVN3TmhtdjgxbVJMa2JWTVRjZGNkRVpSUW1mYWRWanQ5elBmaU9qY3NUWGNMeUpvaFdPQU1ZUmhYVDA3T3pRbFlBQWxYS3lqQWNiLVhFdkJ6QkJ0VEU1T0x6cDJtcVBmSDQ5QkNZRnAtYVY2dFMzN3M?oc=5",
+   "published_utc": "2026-10-27T23:24:57+00:00",
+   "title_original": "日銀10月会合ではどのような議論が展開されるのか？（NRI研究員の時事解説）",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c55b89d012c687ee"
   },
   {
    "source_id": "tradingview_live",
@@ -1557,6 +1592,23 @@
    "live_wire": false,
    "manual": false,
    "id": "fbbaa60fd952faa8"
+  },
+  {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "How Hong Kong went from a yuan gateway to a complete currency ecosystem",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamItbGduV2NPRnRqR0ZtWXlTOVZXVy1ycGNnRlAzZG9NOUVvaWFyYTNXXzdWcnRWd2hzajdtUGt0SUpJcm8zYmxkLWZhRnY5OUN5ZGh2UFFGRlVaQ0xpYVdEWUtETmhnaVd6d1FsWFpON1hoVHUyZldHX29RNmZPaHZJUVNGUTluaV81YTJUMkItRzU2a2t5cmVtWjBtd1hWdmN2Y1JrenFJQnNKU3M5dmNiZlMxUGJCU0ZZam9R0gG-AUFVX3lxTE5tUVM0QUxDR1VPdlpMeHN1YkdHcW5vUEp0bGMxMnVwQVJXWUtCRWd0S3dtWDFRMGJ3M09jTm9JS29KZ01LWEpkcGNQZEJ5NFlkZDZ0TEJHdkJLaXdwYU1YMTJzMWRLTDBTeWJ0NUdFQzVoT01ucGE5eDJVM3BtUkFaX2pjX2N0bTR4WWZFSEF4NmpDb2x2ZGxveng4MHFlSDQwaWhtR1NBRHpWNGdoVVl3bFVRSjNSdkJ1Q0E3Qmc?oc=5",
+   "published_utc": "2026-10-27T22:00:15+00:00",
+   "title_original": "How Hong Kong went from a yuan gateway to a complete currency ecosystem",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "05d07c476e139bf0"
   },
   {
    "source_id": "gn_tw_cna",
@@ -4623,24 +4675,6 @@
    "id": "2b3584fb5069f574"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "MLF net withdrawal of 200 billion yuan in October",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9scFVSY29mVFByRHI2SG1yeGlSV2pUWmVBMnlkRVpLdlBiUThKTGY5YmJvMlBtZGZxd29IUVhUTFpydkNqVXlERmxPUk1uU2p3VXZuSy1zS19aNGx5by1VRjJSZUFJUVR4clA1aTBXNFE2Z0pNVmx3eQ?oc=5",
-   "published_utc": "2026-10-26T09:39:41+00:00",
-   "title_original": "10月MLF净回笼2000亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "52d19afe20817e3e"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report",
@@ -4999,6 +5033,24 @@
    "live_wire": false,
    "manual": false,
    "id": "16a4ac8e60c90522"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "MLF net withdrawal of 200 billion yuan in October",
+   "url": "https://news.google.com/rss/articles/CBMioAhBVV95cUxNYV81MFhCU1c3Q1pLeVpRZF9mUzRKSnBMRFJRcTNBSmsyUXVBemZiU252M0VKVTM5RnhoWFlhNVJGM1QtejJjZ3VRUldQakVqbGxyUVd6a3kxWHU5UEJYMU5pcTk1SGl3cm5ZNUJBSFlPWUUzeXA5Z0JrMlF0TzJYcGEyVHBfOUU5VzJBLXZOTi1EbzdJams5R1lJTEJYRFlqd1dicEF3OEJZSEpBaGYxVGczaVVhdHROUkRhLWJ5VS1YRFdrcmlFZlItMHNBUm8wR2JIV3RmUFdXVzZWLTVOSEU0SlRTTnBKakQ1UnpzRWpTU2lLWmxjbHZlbWU1Z1ZkYVNHUU1NVGxJazI1ejRHMDczQ1FuaFI3VFp1UlN2YXNFWjRDVy1VTUtUNVdZRTBHY3hNc19YdTMwVU16NHNVY2hud05WaFZPcXJXN3dMQUdhX1BlbkxuVndjc293blRXQTVaZmdPTWhnTm9XMmlfcFhpRTU3eHdNbjVONXhWaEQ2RTY0dk1VMzZYcnFXeXlacFZaWFJGSGQ2WEIyRXoyQTJ5MEFVOHJWeTlCakVseHVPVUJxQmU1b0lnNlVKeDZNTUxPMDhfUHdmTU1MTFN3TlMxWXNTbk9UNnd6aTltWW9mZEdvaWlydnNUcmdYR3BnVXRDMVA2QkF1OWNHWDhRUm1wcDFnY3V2RFM0NHZMTVlTaVlSMXB3V05FQVhiU1BselpSMkExS1F5bzFXci13eWlTcTdOS05WRTRpX0tmb3ZDOEpmaVpUUV9VVVZRbUkzb3ZCM0pwZS05b0Z5X0NCSF9CbVV0bkJ5bkVrUXFjcHZTV2ZmY01Lc0ZWdU93aGFXWnlnVm14Sm1rOEpET25jMU1xVzFKRG1DV2VQNXZJU0Zua2NReDFjdkdJTjU3b1N1NU1Hc1hHdGg3bVRLaWNBLVFPWDRFa0lreWRFYnhIUHV0RENqTlZiZURWZlR2RzRmY1lSME5YUmVUWWpSc0haSGJ4akZjeG5DUjN0SkJFQndvbVZSUXV4Y2RKY2NzRWJYSDYwclZhSUFvXy01bnI2Q0Qza0h2NWFhQTRxdjN4WWs0TE5DbjdBRU85SmpSNjh2QzV5aWtlc2l0LWNqZ1RSOHZQWnRSbHNza2tHRTVUZzlVSDB5MEJJYkp0cTRGV1dWQzg1N1lHeGVmU3BrTEl3N0w2SGVnXzZhVVYzeTRpYU5RR0o4Y3B4MnNlUEdJd0t4SjRBWEJZQkhhYV9CRFNWRW1GU193T01QNy1PRWF5VFVocHQ5OXQ3Z3djQm5yUmo4S2hoRnVUSHhJUFp5Tkd3RkptSW5XbTBWTDU0MUJCYmFSanpVeDdxV0xfLWlqWjdndHRnUllubVBQZmViUUFWOEc1R0NRc051dk5TZmp4M1Y?oc=5",
+   "published_utc": "2026-10-26T07:00:00+00:00",
+   "title_original": "10月MLF净回笼2000亿元",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0e81e0fdbd45e2ea"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5745,23 +5797,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5369fdb9dac7ca38"
-  },
-  {
-   "source_id": "gn_jp_mof",
-   "source_name": "財務省",
-   "title_en": "What's New October, 2026 : Ministry of Finance",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaGVTdkpkMGtWc1pmZ0FOOEFXNnd0ejBiYXZmTDJRVGpDREM0bEp5V0VvWVYzb2JzR194V0dzV3JrMTBTalJSWnJwUWhMZXozUlJYTFFxdkRwODRDelhMaFFXZGRTemFMVUlWQ0F2M04zSkd3cFBB?oc=5",
-   "published_utc": "2026-10-26T00:43:47+00:00",
-   "title_original": "What's New October, 2026 : Ministry of Finance",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "816a8b781a3d4bd5"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -26616,6 +26651,23 @@
    "id": "51a413bc8920483f"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -26632,23 +26684,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51828,42 +51863,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ff9e6eb86b9ca6a8"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com",
-   "title_en": "Dollar holds as elevated U.S. yields overshadow cooling inflation data",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbHdTNjFJamstc3hSNXl0enBjdWlWb2ZqTUV3dnM1RkdpWTNGMm1KMnNIVWlaVkQ4cmF1TlE5ZXhwcDdPWldQa0F2WThkTjlYSWJKS0hScThGd2l0bktiM0w1dHRvVC1SWjlsOGVXcDFuOTVIT0lDUzljYnA1Zko2bENqdkZsOE40T2REWE5HWHlqcVdZcnNCUGw3X1dNa2RxRUVWUy1ZTjRRbjduOWtSLXdWRXNJN1p4OV9Z?oc=5",
-   "published_utc": "2026-10-01T09:56:17+00:00",
-   "title_original": "Dollar holds as elevated U.S. yields overshadow cooling inflation data",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "79278accf4828e44"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan Tankan Large Enterprises/Non-Manufacturing Index worsens for the first time in five quarters (ABEMA TIMES)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNi0wdEpBWW5GNmVnSjdoVDhNZ1B4ME51VWd4Ul9RRzIyUGZzcm13Rkt4S29Ld0J5T0h1RjZ6US13Z3c2RUpwSUpOU3YzbWpjT181dEpxaEFVV1hIbk5UZ3BYUTZWOGwzTjk1eFVmNG9teU45TzE5ZVJLbWY0ejZrS0txMXlvNlg3WGJlbE9B?oc=5",
-   "published_utc": "2026-10-01T09:45:30+00:00",
-   "title_original": "日銀短観 大企業・非製造業指数が5期ぶり悪化（ABEMA TIMES）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity",
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "00a770fec7f5a066"
   },
   {
    "source_id": "manual_ia",
