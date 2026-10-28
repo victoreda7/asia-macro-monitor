@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T23:42:45.324337+00:00
+Última coleta: 2026-10-28T23:52:43.786956+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          908
+  🇯🇵 Japão          909
   🇨🇳 China          840
   🇹🇼 Taiwan         389
-  🇰🇷 Coreia do Sul  863
+  🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [japan] Nikkei May Decline Amid Caution Over U.S., Japan Monetary Policy — Market Talk
   - [japan] Although the Bank of Japan judged that the underlying price trend had reached the target level of 2%, the posi
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 36% Upside
   - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] S&P 500 and Nasdaq open higher with SK Hynix boosting the chip sector; Fed Spotlight
   - [china] BBMG Jidong Cement Group Q3 Net Loss At 488.6 Million Yuan
   - [taiwan] French media: France is in financial trouble and encounters social protests, adding variables to economic grow
-  - [korea] SKHY Stock: Analyst Sees 175% Upside Potential For SK Hynix, Company's Q3 Beat Uplifts MU, SNDK, WDC
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T23:42:45+00:00",
+      "published_utc": "2026-10-28T23:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
