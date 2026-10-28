@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T06:02:44.536525+00:00
+Última coleta: 2026-10-28T06:12:43.755177+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
-  🇨🇳 China          830
-  🇹🇼 Taiwan         388
-  🇰🇷 Coreia do Sul  850
+  🇯🇵 Japão          933
+  🇨🇳 China          831
+  🇹🇼 Taiwan         387
+  🇰🇷 Coreia do Sul  849
 
 ## O que já está no feed (não repita)
 
+  - [japan] BlackRock and SBI Explore Yen Stablecoin Link for Tokenised Funds
   - [japan] Tokai Rika Co., Ltd. - To Buy Back Up To 2.9% Of Shares Worth 8.6 Billion Yen
   - [korea] SK Hynix Earnings Up In Q3; Shares Surge
   - [taiwan] Yang Jinlong: Without budgetary subsidies and energy subsidies, the inflation rate may rise if oil prices cont
@@ -24,6 +25,7 @@ Total: 3000 manchetes
   - [korea] Kospi hits two-week high on tech rally as SK Hynix plans $75 bn payout on record profit
   - [taiwan] AI-Driven Tech Rise Lifts Taiwan, South Korea Stocks; Asian currencies fall
   - [china] Is Israel afraid of change? The first wave of exit polls exposed! ｜Bosonaro is said to have fled to the United
+  - [china] Exclusive | EU plans high-level China currency talks as fears of new trade shock mount
   - [japan] BOJ Gov. Ueda's Remarks to Be Under Scrutiny for Rate-Hike Hints — Market Talk
   - [japan] BOJ Rate Hold Seen as Done Deal, Putting Focus on Guidance
   - [japan] Presentation of materials on the government's consumption tax reduction bill support funding concept
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7165 WEDS VS 6.7171
   - [japan] Japan bond yields rise as haven demand recedes, BOJ meeting looms
-  - [taiwan] Taiwan Central Bank Chief: Never Said CPI Cannot Remain Above +2%
-  - [korea] South Korean shares rally 6% as SK Hynix beats forecasts
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T06:02:44+00:00",
+      "published_utc": "2026-10-28T06:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
