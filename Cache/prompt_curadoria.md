@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T08:42:44.294492+00:00
+Última coleta: 2026-10-28T08:52:45.338562+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
-  🇨🇳 China          828
-  🇹🇼 Taiwan         388
-  🇰🇷 Coreia do Sul  852
+  🇯🇵 Japão          931
+  🇨🇳 China          831
+  🇹🇼 Taiwan         387
+  🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
   - [korea] Finance minister hopes for Bloomberg review of S. Korea's market status
+  - [china] Inner Mongolia Yuan Xing Energy Company: Q3 sales grew, profit softened, and the arbitration settlement was co
   - [korea] S. Korean won sharply weakens against US dollar
   - [korea] Earnings Snapshot: SK hynix posts Q3 revenue beat, announces ₩20T buyback and ₩14T Q3 dividend
   - [china] Aoshikang Technology Plans To Invest 6 Billion Yuan In Project
@@ -39,10 +40,12 @@ Total: 3000 manchetes
   - [china] China's Economic Growth Likely to Stabilize in 4Q — Market Talk
   - [taiwan] Israel fears change, opposition temporarily leads in exit polls
   - [korea] Samsung Epis Holdings (0126Z0) Posts Q3 Revenue KRW 441.9B, OP KRW 105.0B
+  - [korea] Asian Tech Stocks Rise After SK Hynix Pledges $75B to Shareholders
   - [korea] MU, SNDK, Neocloud Stocks Extend Gains On Anthropic Boost, SK Hynix Q3 Stunner; Jim Cramer Urges Caution
   - [china] KNEBV: Orders and adjusted margins advanced; China and inflation remain key headwinds
   - [korea] SK Hynix Stock Jumps 10% on $75 Billion Payout Plan, Massive Profit Increase
   - [korea] Kospi Gains, Led by Semiconductor, Battery Stocks
+  - [korea] SK Hynix Stock Soars as Revenue and Profits Rise: Will These Gains Sustain?
   - [japan] Nisshin Seifun Group Inc. - To Buy Back Up To 5% Of Own Shares Worth 20 Billion Yen
   - [japan] Advantest Corporation - To Buy Back Up To 1.5% Of Own Shares Worth 280 Billion Yen
   - [korea] While housing prices in major areas in southern Gyeonggi Province, such as Hwaseong Dongtan, are str..
@@ -50,13 +53,10 @@ Total: 3000 manchetes
   - [japan] BlackRock and SBI Explore Yen Stablecoin Link for Tokenised Funds
   - [japan] Tokai Rika Co., Ltd. - To Buy Back Up To 2.9% Of Shares Worth 8.6 Billion Yen
   - [korea] SK Hynix Earnings Up In Q3; Shares Surge
-  - [taiwan] AI chips worth $12.1 million seized at Malaysia airport, customs authority says
+  - [china] AI chips worth $12.1 million seized at Malaysia airport, customs authority says
   - [taiwan] Yang Jinlong: Without budgetary subsidies and energy subsidies, the inflation rate may rise if oil prices cont
   - [taiwan] Taiwan's central bank may raise interest rates next year if prices rise significantly - Governor (Reuters)
   - [taiwan] AI-Driven Tech Rise Lifts Taiwan, South Korea Stocks; Asian currencies fall
-  - [china] Is Israel afraid of change? The first wave of exit polls exposed! ｜Bosonaro is said to have fled to the United
-  - [china] Exclusive | EU plans high-level China currency talks as fears of new trade shock mount
-  - [japan] BOJ Gov. Ueda's Remarks to Be Under Scrutiny for Rate-Hike Hints — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T08:42:44+00:00",
+      "published_utc": "2026-10-28T08:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
