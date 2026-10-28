@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T12:22:46.151747+00:00
+Última coleta: 2026-10-28T12:32:46.524354+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          919
-  🇨🇳 China          835
-  🇹🇼 Taiwan         390
-  🇰🇷 Coreia do Sul  856
+  🇯🇵 Japão          918
+  🇨🇳 China          834
+  🇹🇼 Taiwan         391
+  🇰🇷 Coreia do Sul  857
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan Semiconductor raising prices could mean less competition from Intel: Wedbush
+  - [korea] Lynx sees SK Hynix results rekindling interest in this chip stock
   - [korea] SK hynix Is Maintained at Buy by Rosenblatt
   - [korea] SK Hynix vai retornar US$75 bi aos acionistas após lucro recorde
   - [korea] SK hynix Inc. reports results for the quarter ended September 30 - Earnings Summary
@@ -50,13 +52,11 @@ Total: 3000 manchetes
   - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
   - [korea] AI memory, chip stocks gain after SK Hynix posts record profit
   - [china] China Hainan Rubber Industry Group: Rubber-price gains and cost cuts supported Q3, but 9M revenue fell 22.28%
-  - [china] Lufax Holding: Loan sales edged higher, but rising credit losses drove a CNY 1.494B net loss
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
   - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] Finance minister hopes for Bloomberg review of S. Korea's market status
   - [korea] SK Hynix announced its plan to return more than KRW 60 trillion to additional shareholders within th..
   - [korea] S. Korean won sharply weakens against US dollar
-  - [korea] Seoul shares soar over 6% on revived AI optimism, SK hynix earnings
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T12:22:46+00:00",
+      "published_utc": "2026-10-28T12:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

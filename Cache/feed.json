@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T12:22:46.151747+00:00",
- "collected_at_utc": "2026-10-28T12:22:46.151747+00:00",
+ "generated_at_utc": "2026-10-28T12:32:46.524354+00:00",
+ "collected_at_utc": "2026-10-28T12:32:46.524354+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 919,
-  "china": 835,
-  "taiwan": 390,
-  "korea": 856
+  "japan": 918,
+  "china": 834,
+  "taiwan": 391,
+  "korea": 857
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 30.0,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T12:04:29+00:00"
+   "newest": "2026-10-28T12:25:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T11:48:58+00:00"
+   "newest": "2026-10-28T12:06:31+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -91,7 +91,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T11:39:01+00:00"
+   "newest": "2026-10-28T12:11:04+00:00"
   },
   {
    "source_id": "gn_jp_investing",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-28T02:16:20+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T21:06:30+09:00"
+   "newest": "2026-10-28T21:06:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T21:19:15+09:00"
+   "newest": "2026-10-28T21:28:42+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T12:22:08+00:00"
+   "newest": "2026-10-28T12:32:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T07:35:33+00:00"
+   "newest": "2026-10-28T10:35:35+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:48:02+00:00"
+   "newest": "2026-10-28T09:51:24+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-28T09:07:38+00:00"
+   "newest": "2026-10-28T12:24:14+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T03:00:10+00:00"
+   "newest": "2026-10-27T10:05:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T08:31:03+00:00"
+   "newest": "2026-10-28T09:19:41+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Seeking Alpha",
+   "title_en": "Taiwan Semiconductor raising prices could mean less competition from Intel: Wedbush",
+   "url": "https://www.tradingview.com/news/seekingalpha:67efdff58094b:0-taiwan-semiconductor-raising-prices-could-mean-less-competition-from-intel-wedbush/",
+   "published_utc": "2026-10-28T12:24:21+00:00",
+   "title_original": "Taiwan Semiconductor raising prices could mean less competition from Intel: Wedbush",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "bda0d78e00eecd7f"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Lynx sees SK Hynix results rekindling interest in this chip stock",
+   "url": "https://www.investing.com/news/stock-market-news/lynx-sees-sk-hynix-results-rekindling-interest-in-this-chip-stock-4978996",
+   "published_utc": "2026-10-28T12:22:24+00:00",
+   "title_original": "Lynx sees SK Hynix results rekindling interest in this chip stock",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8fbfe9b9cf445778"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -906,23 +940,6 @@
    "live_wire": true,
    "manual": false,
    "id": "85a105661ecb93a3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "Lufax Holding: Loan sales edged higher, but rising credit losses drove a CNY 1.494B net loss",
-   "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4372092:0-lufax-holding-loan-sales-edged-higher-but-rising-credit-losses-drove-a-cny-1-494b-net-loss/",
-   "published_utc": "2026-10-28T09:29:06+00:00",
-   "title_original": "Lufax Holding: Loan sales edged higher, but rising credit losses drove a CNY 1.494B net loss",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3890fe24fe11474e"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2835,8 +2852,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2851,7 +2868,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "focus_taiwan",
@@ -6436,6 +6453,24 @@
    "id": "3a3f57c11641a184"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
+   "published_utc": "2026-10-26T02:13:49+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1033a50b0d22ef1a"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..",
@@ -6645,24 +6680,6 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新湖南",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
-   "published_utc": "2026-10-26T00:06:24+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51853,24 +51870,6 @@
    "live_wire": true,
    "manual": false,
    "id": "f364c06638dc9e4b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "Tokyo Core Inflation Rises Above BoJ Target",
-   "url": "https://www.tradingview.com/news/te_news:588925:0-tokyo-core-inflation-rises-above-boj-target/",
-   "published_utc": "2026-10-01T23:39:35+00:00",
-   "title_original": "Tokyo Core Inflation Rises Above BoJ Target",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "916faa80ae1fa4a4"
   },
   {
    "source_id": "manual_ia",
