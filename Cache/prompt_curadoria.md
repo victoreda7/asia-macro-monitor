@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T16:02:43.843242+00:00
+Última coleta: 2026-10-28T16:12:43.801714+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          910
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Micron's stock rises after SK Hynix earnings. Here's its next major test.
   - [japan] Japan-Germany summit meeting agrees to strengthen cooperation, including strengthening supply chain
   - [korea] Samsung Electronics Stocks Rally 9% Ahead of Earnings and Cash-Return Details
   - [china] China’s Policy Banks Complete 800 Billion Yuan Financing Push
@@ -55,7 +56,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan's UMC Q3 revenue rises on wafer shipments growth
   - [taiwan] BRIEF-United Microelectronics Q3 Revenue TWD 74,240 Million
   - [korea] Asia report: SK Hynix leads chip rally after record profits
-  - [korea] Nasdaq Futures Rise as SK Hynix Boosts Chip Sector Ahead of Fed Decision, Earnings Release
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
 
 ## O que fazer
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T16:02:43+00:00",
+      "published_utc": "2026-10-28T16:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

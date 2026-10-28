@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-28T16:02:43.843242+00:00",
- "collected_at_utc": "2026-10-28T16:02:43.843242+00:00",
+ "generated_at_utc": "2026-10-28T16:12:43.801714+00:00",
+ "collected_at_utc": "2026-10-28T16:12:43.801714+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 393,
   "korea": 860
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T06:30:03+00:00"
+   "newest": "2026-10-28T10:39:11+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T15:46:04+00:00"
+   "newest": "2026-10-28T16:04:56+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T15:36:41+00:00"
+   "newest": "2026-10-28T15:47:00+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T13:41:27+00:00"
+   "newest": "2026-10-28T14:49:26+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T22:28:00+09:00"
+   "newest": "2026-10-29T01:05:16+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T16:02:09+00:00"
+   "newest": "2026-10-28T16:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T13:36:11+00:00"
+   "newest": "2026-10-28T10:35:35+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-28T10:00:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "MarketWatch",
+   "title_en": "Micron's stock rises after SK Hynix earnings. Here's its next major test.",
+   "url": "https://www.tradingview.com/news/DJN_SN20261028010406:0-micron-s-stock-rises-after-sk-hynix-earnings-here-s-its-next-major-test/",
+   "published_utc": "2026-10-28T16:03:00+00:00",
+   "title_original": "Micron's stock rises after SK Hynix earnings. Here's its next major test.",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "82dda0df1dc02d72"
+  },
   {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
@@ -995,23 +1012,6 @@
    "live_wire": true,
    "manual": false,
    "id": "056b01df5a883633"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Nasdaq Futures Rise as SK Hynix Boosts Chip Sector Ahead of Fed Decision, Earnings Release",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E0K6:0/",
-   "published_utc": "2026-10-28T11:25:55+00:00",
-   "title_original": "Futuros da Nasdaq sobem com a SK Hynix impulsionando o setor de chips antes da decisão do Fed e da divulgação dos resultados",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "bc9c29d974e58772"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2942,7 +2942,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The reason why the report card for the first year of the Takaichi administration is ``barely passing in fiscal policy and 80 points in monetary policy'' (Newsweek Japan version)",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDBmRmM5X0o2M1JhZ095QjZiTkhOcWRjWlk3NWQyNEltUWs0UEJQRk9yWFpTemFKVzFXcWtLSndhWldZbFAwb1BUVzZyblZKSlI4YmhWTlR6ekY5b3I5ZFVnbE5hR2pybEo1WHh0aGJ5UGNyZW8yVFZuMEhnd2tNdm0zc000cVJF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2djelRsc3YxV25OVnM0aFdkRVhkNWZRbF9BbnByQzMtOTcybEFQTjFxenRZWmJxOXltU2JuR2szVVFiTXRpRFdpQ0N6dklRemVCaV9Ta2ZaYW9ZQ1ZLSW9OeUlGaElWYUhnZ1p5T0NYd0c4bTYzS3NWcXA4eDRXWFRZdFREYjFEdzdtLWRR?oc=5",
    "published_utc": "2026-10-27T11:50:06+00:00",
    "title_original": "高市政権発足1年の成績表「財政政策はぎりぎり合格、金融政策は80点」と言える理由（ニューズウィーク日本版）",
    "region": "japan",
@@ -2955,7 +2955,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "4d24175a3b178b53"
+   "id": "57824ed6928a12f1"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -6384,6 +6384,24 @@
    "id": "e12668b3e0b0dbdc"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVUxuT01uNzVGcWdXNjJsNmZXY2tjajQ2NGcxeWVaNkRRLUtSNlFoTGhfeGhhYUNENUNRY01PVF9mVDVmTl8tZGlYTFNOMEtGd2lVZmg0SzljbnUtQUs0aXVNU0hkanJZMHlXS0VZTzFBcm8ydlZhRU5LcDhCWUVCMUhqMWZ4VTI3akE?oc=5",
+   "published_utc": "2026-10-26T03:09:06+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "26723466cf9fd537"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks expected to maintain tight lending standards in Q4: BOK survey",
@@ -8196,24 +8214,6 @@
    "live_wire": true,
    "manual": false,
    "id": "9f5caab2bcd6c61a"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
-   "published_utc": "2026-10-23T14:14:15+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",
