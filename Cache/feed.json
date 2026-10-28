@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T02:02:45.876915+00:00",
- "collected_at_utc": "2026-10-28T02:02:45.876915+00:00",
+ "generated_at_utc": "2026-10-28T02:12:42.693728+00:00",
+ "collected_at_utc": "2026-10-28T02:12:42.693728+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 937,
-  "china": 837,
+  "japan": 936,
+  "china": 838,
   "taiwan": 385,
   "korea": 841
  },
- "elapsed_s": 30.0,
+ "elapsed_s": 29.7,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T00:42:40+00:00"
+   "newest": "2026-10-25T00:41:58+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "error": "",
    "newest": "2026-10-27T09:45:00+00:00"
   },
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T08:17:32+00:00"
+   "newest": "2026-10-27T23:48:24+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-28T01:29:12+00:00"
+   "newest": "2026-10-28T02:01:52+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T10:08:28+00:00"
+   "newest": "2026-10-27T08:35:13+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T02:01:22+00:00"
+   "newest": "2026-10-28T02:12:04+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T10:05:10+00:00"
+   "newest": "2026-10-28T01:51:21+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-28T10:00:00+09:00"
+   "newest": "2026-10-28T11:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:27:07+00:00"
+   "newest": "2026-10-28T01:40:00+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings — Update",
+   "url": "https://www.tradingview.com/news/DJN_DN20261027014036:0-sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-update/",
+   "published_utc": "2026-10-28T02:06:00+00:00",
+   "title_original": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings — Update",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ae3b2dfce506be0c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY151 BLN VIA 7-DAY REVERSE REPO WEDS",
+   "url": "https://www.tradingview.com/news/dpa_afx:2f23e336df8f4:0-china-pboc-conducts-cny151-bln-via-7-day-reverse-repo-weds/",
+   "published_utc": "2026-10-28T02:05:22+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY151 BLN VIA 7-DAY REVERSE REPO WEDS",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "790874a76d2998cc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO WEDS",
+   "url": "https://www.tradingview.com/news/dpa_afx:a0d4df419b8a5:0-china-pboc-conducts-cny1-trln-via-o-n-reverse-repo-weds/",
+   "published_utc": "2026-10-28T02:03:25+00:00",
+   "title_original": "CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO WEDS",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4e5227f540edc857"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
@@ -396,23 +447,6 @@
    "id": "c8f88fb299869da6"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings — Update",
-   "url": "https://www.tradingview.com/news/DJN_DN20261027014014:0-sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-update/",
-   "published_utc": "2026-10-28T01:51:00+00:00",
-   "title_original": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings — Update",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "6ce452278eb414f4"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "SK hynix Q3 2026 slides: revenue tops 100T, 80% margin on AI boom",
@@ -428,6 +462,23 @@
    "live_wire": true,
    "manual": false,
    "id": "46b759fcee2dd621"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Choi Won-tae (Samsung Lions) will take the mound at an important moment.Samsung, led by head coach P..",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91UEdWRmRjQ1FkNng3NjVfV0txVF90ZmxXY2g3RkJkM2RGZmdicEEzSmppZFYzQ1BOUXhwNWc1bVMtRTRIMjRBM0g1TUFvekdP?oc=5",
+   "published_utc": "2026-10-28T01:40:00+00:00",
+   "title_original": "Choi Won-tae (Samsung Lions) will take the mound at an important moment.Samsung, led by head coach P..",
+   "region": "korea",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "3253d9f6318599ee"
   },
   {
    "source_id": "gn_kr_ked",
@@ -1660,8 +1711,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -1676,7 +1727,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -3964,9 +4015,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
    "title_original": "10月26日央行开展560亿元7天期逆回购操作",
    "region": "china",
@@ -3978,7 +4029,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8166e1f4e20d2cef"
+   "id": "0facd9f9793a1c33"
   },
   {
    "source_id": "tradingview_live",
@@ -18621,23 +18672,6 @@
    "id": "9e74350000a8c869"
   },
   {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Chenming Hu urges universities to 'find the solutions', targets world-class Taiwan semiconductor sector",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFk0amltWmtxVXozZVptMW5fRi1uUGJxVFFnd1hJNTVYcFA3OTZsbDJVa01GbTNGbjFiOWlBc0xzVnlVTDJ0SFBzYTRBLTNyS1pBTmJycXRnTURNNG0zU0tWUXBOVHR0bDExeTl2X3RXenZrZmYwWnp2bnM5SGZfbUVqU0VHREZEVzY5YU13UTUyZW5ScTlJeTVJMHd2TzZOY3c?oc=5",
-   "published_utc": "2026-10-19T07:00:00+00:00",
-   "title_original": "Chenming Hu urges universities to 'find the solutions', targets world-class Taiwan semiconductor sector",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "51652561aa678742"
-  },
-  {
    "source_id": "gn_kr_reuters",
    "source_name": "Reuters",
    "title_en": "Putin elevates finance minister amid mounting budget pressures",
@@ -19393,6 +19427,23 @@
    "live_wire": false,
    "manual": false,
    "id": "db58763a0882baa2"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Chenming Hu urges universities to 'find the solutions', targets world-class Taiwan semiconductor sector",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFk0amltWmtxVXozZVptMW5fRi1uUGJxVFFnd1hJNTVYcFA3OTZsbDJVa01GbTNGbjFiOWlBc0xzVnlVTDJ0SFBzYTRBLTNyS1pBTmJycXRnTURNNG0zU0tWUXBOVHR0bDExeTl2X3RXenZrZmYwWnp2bnM5SGZfbUVqU0VHREZEVzY5YU13UTUyZW5ScTlJeTVJMHd2TzZOY3c?oc=5",
+   "published_utc": "2026-10-19T01:46:02+00:00",
+   "title_original": "Chenming Hu urges universities to 'find the solutions', targets world-class Taiwan semiconductor sector",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "51652561aa678742"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -26637,23 +26688,6 @@
    "id": "eb0d76460a148fa8"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "IMF: Japan to fall to 6th in 2027 global GDP rankings",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1td204RjZjVnBuOEZkbFpwc1BRZ1lwQXVNdF9wR0QxRlZxbjBWZFNraHRGREJYNWxLNURpTzItVmloMi1MR1NkNkgzNFo3Q3Etemh5TzFCclN0U0F2UmsxMXFTRQ?oc=5",
-   "published_utc": "2026-10-15T05:43:51+00:00",
-   "title_original": "IMF: Japan to fall to 6th in 2027 global GDP rankings",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7830dd74a47254b5"
-  },
-  {
    "source_id": "investing_live",
    "source_name": "Investing.com",
    "title_en": "TSMC Q3 profit surges more than expected to record high on AI-fueled demand",
@@ -30101,6 +30135,23 @@
    "live_wire": false,
    "manual": false,
    "id": "d86d51e42067b1c5"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "IMF: Japan to fall to 6th in 2027 global GDP rankings",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1td204RjZjVnBuOEZkbFpwc1BRZ1lwQXVNdF9wR0QxRlZxbjBWZFNraHRGREJYNWxLNURpTzItVmloMi1MR1NkNkgzNFo3Q3Etemh5TzFCclN0U0F2UmsxMXFTRQ?oc=5",
+   "published_utc": "2026-10-14T07:00:00+00:00",
+   "title_original": "IMF: Japan to fall to 6th in 2027 global GDP rankings",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "7830dd74a47254b5"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51812,59 +51863,6 @@
    "live_wire": false,
    "manual": false,
    "id": "46f5984de7a207e1"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
-   "title_en": "1.2 trillion yuan, the central bank will make big moves after the holiday",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DX3VvUWdKUkRWazg2aXpEcmpTTng5VXBkWHBXbVRtNGJvNmVGRDItZUx6ZzhCV0RxSDhnem5QYVZXOUpUNDBXbDdpVWVjb2xSa2tF?oc=5",
-   "published_utc": "2026-10-01T07:40:00+00:00",
-   "title_original": "12000亿元，节后央行有大动作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "64a7f8ac1fa13450"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "The 2026 tax reform bill, which passed the Cabinet meeting on the 1st of last month, was passed to t..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzYWpSVFdQT2ZDRFVzSnRUTUZhR2ZTSWUwYjYwblpHa2l3LWotUWNIRERSQ0otSFJGSGhCN3NUNjhQZV9iLWNJT2NSWUxDM0JiVXc?oc=5",
-   "published_utc": "2026-10-01T07:18:09+00:00",
-   "title_original": "The 2026 tax reform bill, which passed the Cabinet meeting on the 1st of last month, was passed to t..",
-   "region": "korea",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "7c0c22372fa4d9e6"
-  },
-  {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Stock price rises by 2,200 yen Buy orders spread to AI/semiconductor related stocks",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261001de53572",
-   "published_utc": "2026-10-01T07:12:27+00:00",
-   "title_original": "株価 2200円値上がり AI・半導体関連銘柄に買い注文が広がる",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "a393f3821c69ea6b"
   },
   {
    "source_id": "manual_ia",
