@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T08:02:46.210180+00:00
+Última coleta: 2026-10-28T08:12:46.526901+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
-  🇨🇳 China          831
-  🇹🇼 Taiwan         387
-  🇰🇷 Coreia do Sul  848
+  🇯🇵 Japão          933
+  🇨🇳 China          830
+  🇹🇼 Taiwan         386
+  🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [korea] Seoul shares soar over 6% on revived AI optimism, SK hynix earnings
+  - [korea] Kospi at two-week high as SK Hynix’s $75 bn payout plan, record profit fan tech rally
+  - [china] China's New Export Restrictions Protect Its AI Crown Jewels
   - [japan] Kamgras1 Raises Share Tender Price For Kakaku.Com To 3683 Yen Per Share From 3682 Yen, Filing Shows
   - [china] Mercedes-Benz CEO: China Will Remain a Very Important Part of Our Business
   - [japan] Chuo Spring Co Ltd - To Buy Back Up To 17.8% Of Own Shares Worth 15 Billion Yen
@@ -25,7 +28,6 @@ Total: 3000 manchetes
   - [korea] Kospi hits two-week high on tech rally as SK Hynix plans $75 bn payout on record profit
   - [korea] Amended: SK Hynix Earnings Up In Q3; Shares Surge
   - [china] China's Economic Growth Likely to Stabilize in 4Q — Market Talk
-  - [china] China's New Export Restrictions Protect Its AI Crown Jewels
   - [taiwan] Israel fears change, opposition temporarily leads in exit polls
   - [korea] Samsung Epis Holdings (0126Z0) Posts Q3 Revenue KRW 441.9B, OP KRW 105.0B
   - [korea] MU, SNDK, Neocloud Stocks Extend Gains On Anthropic Boost, SK Hynix Q3 Stunner; Jim Cramer Urges Caution
@@ -51,12 +53,10 @@ Total: 3000 manchetes
   - [taiwan] Taiwan central bank says it will hike interest rate if inflation too hot next year
   - [korea] SK Hynix profit beat fuels $45 billion of dividends, buyback
   - [korea] South Korean Won Retreats from Over 2-Year High
+  - [korea] SK Hynix profits soar amid roaring AI chip demand
   - [china] China's yuan hovers near 4-year high ahead of Fed decision
   - [korea] SK hynix: Record Q3 earnings, tight AI-memory supply and ~KRW 100tn in planned shareholder returns
   - [korea] SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush
-  - [japan] Yurtec Corp - To Buy Back Up To 2.47% Of Shares Worth 5.5 Billion Yen
-  - [japan] Stock price rise Buy orders for stocks such as semiconductors
-  - [japan] The Japanese economy is now an AI-powered economy, with capital investment in exports, stock prices, and even 
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T08:02:46+00:00",
+      "published_utc": "2026-10-28T08:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T08:02:46.210180+00:00",
- "collected_at_utc": "2026-10-28T08:02:46.210180+00:00",
+ "generated_at_utc": "2026-10-28T08:12:46.526901+00:00",
+ "collected_at_utc": "2026-10-28T08:12:46.526901+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 934,
-  "china": 831,
-  "taiwan": 387,
-  "korea": 848
+  "japan": 933,
+  "china": 830,
+  "taiwan": 386,
+  "korea": 851
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T06:58:00+00:00"
+   "newest": "2026-10-28T07:49:22+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T07:18:16+00:00"
+   "newest": "2026-10-28T08:03:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-28T07:07:57+00:00"
+   "newest": "2026-10-28T08:08:44+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T10:08:57+00:00"
+   "newest": "2026-10-27T08:35:13+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 26,
    "error": "",
-   "newest": "2026-10-27T05:46:33+00:00"
+   "newest": "2026-10-28T01:25:23+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T08:01:23+00:00"
+   "newest": "2026-10-28T08:12:10+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T07:26:39+00:00"
+   "newest": "2026-10-28T07:49:17+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "korea_herald_biz",
+   "source_name": "Korea Herald Business",
+   "title_en": "Seoul shares soar over 6% on revived AI optimism, SK hynix earnings",
+   "url": "https://www.koreaherald.com/article/10918058",
+   "published_utc": "2026-10-28T08:08:44+00:00",
+   "title_original": "Seoul shares soar over 6% on revived AI optimism, SK hynix earnings",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "dfd8817086056ee0"
+  },
+  {
+   "source_id": "gn_kr_ked",
+   "source_name": "KED Global",
+   "title_en": "Kospi at two-week high as SK Hynix’s $75 bn payout plan, record profit fan tech rally",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Pek1RUzdReGFnS3VJY20xZ2VSQkpLWVplTW1PcUJsdGhmS2F5QkhnUmQ4T203M2dwczhnSjlZLUdyd1lRaUgzcGNFcndjTF8tNXBEYzFsR1ZaTTdxX3pma044YnhFbzlpb1B5NWZDakZocXRlcjIybjNB?oc=5",
+   "published_utc": "2026-10-28T08:03:00+00:00",
+   "title_original": "Kospi at two-week high as SK Hynix’s $75 bn payout plan, record profit fan tech rally",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "1411312a3ae1376d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's New Export Restrictions Protect Its AI Crown Jewels",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E0AQ:0/",
+   "published_utc": "2026-10-28T08:02:50+00:00",
+   "title_original": "Novas restrições à exportação da China protegem suas joias da coroa em IA",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "c94db7e08ddd59ca"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -478,23 +529,6 @@
    "live_wire": true,
    "manual": false,
    "id": "1b77d26461a37970"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "China's New Export Restrictions Protect Its AI Crown Jewels",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E08T:0/",
-   "published_utc": "2026-10-28T07:07:58+00:00",
-   "title_original": "Novas restrições à exportação da China protegem suas joias da coroa em IA",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "pt",
-   "translated": true,
-   "live_wire": true,
-   "manual": false,
-   "id": "7c6afbf730d4f51a"
   },
   {
    "source_id": "gn_tw_cna",
@@ -927,6 +961,23 @@
    "id": "6f2ec1c2b88a7ab3"
   },
   {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "SK Hynix profits soar amid roaring AI chip demand",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rSWRLVno2ZTFHT0dYMmVLOUxLZ3g4WGpUc21VU3lFV3BWY3p6VmRLX0N1WWJjbVd3SGRTa3U4OHZaVzJUMlJVRldEd1dkMkw1RmdqYTZudUpZbGF6TE8xQWhoaTR6cHZNNVI1dmxzZ3U?oc=5",
+   "published_utc": "2026-10-28T04:13:20+00:00",
+   "title_original": "SK Hynix profits soar amid roaring AI chip demand",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "619da149fa1964a5"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "China's yuan hovers near 4-year high ahead of Fed decision",
@@ -977,6 +1028,23 @@
    "live_wire": false,
    "manual": false,
    "id": "04b16dd481103030"
+  },
+  {
+   "source_id": "gn_asia_bloomberg",
+   "source_name": "Bloomberg.com",
+   "title_en": "SK Hynix’s Profit Surge, $45 Billion Payout Fuel AI Rally",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzhINFhrV3VnOG40ZnJlUGZjVW0zemZlb3l3QVFWdmhBREp4Y2hhTVJ1bU5ETnJlN3VHdnd1V2d1cWo3SGlWeVlqZzV6ZFlJQlVuOXBNYi1wNDc2dXpqT1FRU2k2ajY2M0hXeF82S1lBekhMOEctUnRyTlg1MGY4dHVrT2dJM0FkM1NRY015c0NJLVNhYUFFNkJIenNyLVRnYVFVT3I2VUg4cnhUcUZsdkVYQQ?oc=5",
+   "published_utc": "2026-10-28T03:43:00+00:00",
+   "title_original": "SK Hynix’s Profit Surge, $45 Billion Payout Fuel AI Rally",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "83be864074c1a3b3"
   },
   {
    "source_id": "tradingview_live",
@@ -1340,23 +1408,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b659c9985e626793"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "SK Hynix profits soar amid roaring AI chip demand",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rSWRLVno2ZTFHT0dYMmVLOUxLZ3g4WGpUc21VU3lFV3BWY3p6VmRLX0N1WWJjbVd3SGRTa3U4OHZaVzJUMlJVRldEd1dkMkw1RmdqYTZudUpZbGF6TE8xQWhoaTR6cHZNNVI1dmxzZ3U?oc=5",
-   "published_utc": "2026-10-28T01:15:00+00:00",
-   "title_original": "SK Hynix profits soar amid roaring AI chip demand",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "619da149fa1964a5"
   },
   {
    "source_id": "scmp_business",
@@ -5846,9 +5897,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -5860,7 +5911,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "2b972d8c6ac9362b"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6052,24 +6103,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6641,6 +6674,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -9311,6 +9362,24 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "湖南红网",
+   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JOU4xQURkbWUzMkFXZkI1bXRrZHNtckpVaHE1YVd5TXZkbWJCTEJKYnNYQmVnZUQ2OXlSNWFrZkFDZzVCZ21NeG1IWDFtcEkyUkRWOFpTaVpoLWZUdFNvRC1fR3lVUQ?oc=5",
+   "published_utc": "2026-10-23T02:15:26+00:00",
+   "title_original": "央行开展2580亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "649f01690852552b"
+  },
+  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
@@ -9378,24 +9447,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ab3208d7cfdf114d"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "中国新闻网",
-   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wemhzYTYzWkM3NllscXN6dkhkenVwRnlxSm5MZFVmYU1XRkNJamFXLU1zTHJkTFY2LUlOT3JneUctb3o4RVNKb2RTaFVJMUtkMFlsWjVhM1pGdDJrRlU0d2IzSlotY29f?oc=5",
-   "published_utc": "2026-10-23T01:53:53+00:00",
-   "title_original": "央行开展2580亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0b449075bd88b714"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -11413,23 +11464,6 @@
    "id": "fac5fce3cd370fb4"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "네이버페이 머니스토리",
-   "title_en": "The Bank of Korea, which had been raising the base interest rate, now freezes it at 3.00%... What is the background?",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fdmE2NlhjLWxpQ3dObWNRYVlTMnJIV2UyczQ0SXVmazFFcXBkbnloR1B5WGtYeWlvVzlMRlBnVGlRSEtiT2VGSnRjTm8wQXhuTFE?oc=5",
-   "published_utc": "2026-10-22T06:50:01+00:00",
-   "title_original": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b4fcebcd8480f063"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Retail investors lose $4.8bn on Samsung, SK hynix leveraged ETFs in 80 days",
@@ -11901,6 +11935,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e841288bedeb8aa8"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "세상을 바꾸는 시민언론 민들레",
+   "title_en": "Bank of Korea stops raising interest rates... Tightening speed control",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Ylk3ZnZlc19UMUc1U09DN2Q5WFdGZk5wT1R6Vnp4eGk1b1Q5WjlEbFhyaWtOWTBaMnVDZXM3UGREcmIzWWVBM3hfY1lOU09kV1AyMVlTX1RTMFhjbTF2MzJSMTY2RGdCaHhwTw?oc=5",
+   "published_utc": "2026-10-22T04:10:00+00:00",
+   "title_original": "기준금리 인상 멈춘 한국은행…긴축 속도 조절",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9c4829ceb49aac68"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51815,57 +51866,6 @@
    "live_wire": false,
    "manual": false,
    "id": "786b2afa0ce1a378"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Coordinated intervention to buy yen for the first time in 28 years, US stance and future of international cooperation as seen in comparison with 1998 and 2011 | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/959505?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-01T21:00:00+00:00",
-   "title_original": "28年ぶりの円買い協調介入､1998年･2011年との比較で見えるアメリカの姿勢と国際協調の行方 | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "22aabb3fe16105a7"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHgtcGRUUmk5UVJtZ1dYTlNiSmw5aEtBQ1ZRLXhDZjN0bnFZV3A2UXdRN1ZEbGlEb3RDdGFoTUY5VkI4djZnT0hqRFZKdXpNNVBJeWNsQ0dzbFZfVUUwZWhCUklMVmhuaURGdHNxSEtNYjFnWXRJVG41X283SGlFa2d0MW9mWV9FWnNCU05pZkFrdmc3WGlNeWFPbzl4Qi1UdXpwX2U1WFNUUEM4ejBhMXlkZVA?oc=5",
-   "published_utc": "2026-10-01T21:00:00+00:00",
-   "title_original": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
-   "region": "china",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dac091311aa3b712"
-  },
-  {
-   "source_id": "gn_tw_reuters",
-   "source_name": "Reuters",
-   "title_en": "US sanctions target Iran's auto, rail sectors as blockade chokes ship lanes",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGQ5cWhPbnlFT0hFQU1VME1qVVB2SndmZVROdUpzUU1sVGxRcDZndDN0R1BwdGVXRThreEJhTnV4WWQzZ19xUjlqZ3hqWjBWSEJWQ1JtcExJNVVRTG95UHQ1RjFsc21pbWQ4Q3c3dnhvYWZXUF9uNmQ0UHhWT1pJRXg3Yk42b0dOS0FJVmNsbGJLeFZTQkNKcW5ocVZVSzBlS2tnSnRpM044NEhMZW1FMG94N1U2dW1fUXJkbng1clJZSHpaZVVGLXFyeDBYcXM?oc=5",
-   "published_utc": "2026-10-01T20:52:13+00:00",
-   "title_original": "US sanctions target Iran's auto, rail sectors as blockade chokes ship lanes",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "07548b0bdfc5baaf"
   },
   {
    "source_id": "manual_ia",
