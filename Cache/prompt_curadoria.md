@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T19:32:44.677132+00:00
+Última coleta: 2026-10-28T19:42:43.974438+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          909
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] IMF Taps China’s Vice Finance Minister Liao Min for Deputy Managing Director Role
   - [japan] Behind the Odakyu "base" in a quiet residential area of ​​Setagaya, 5 minutes walk from Kitami Station, "train
   - [korea] Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3234972.13, Implies 141% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] S&P 500 and Nasdaq should open higher, with SK Hynix boosting the chip sector; the Fed is the center of attent
   - [korea] S&P 500, Nasdaq set for higher open as SK Hynix lifts chips; Fed in focus
   - [korea] Reborn Coffee Secures Manufacturing Infrastructure For $30 Million Supply Volume And Expands Global Supply Cha
-  - [korea] RBC Capital reiterates Outperform rating on SK hynix, $200 price target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T19:32:44+00:00",
+      "published_utc": "2026-10-28T19:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
