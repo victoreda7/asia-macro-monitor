@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T16:12:43.801714+00:00
+Última coleta: 2026-10-28T16:22:49.787759+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          910
+  🇯🇵 Japão          911
   🇨🇳 China          837
-  🇹🇼 Taiwan         393
+  🇹🇼 Taiwan         392
   🇰🇷 Coreia do Sul  860
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3229708.97, Implies 141% Upside
+  - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 44931.82, Implies 33% Upside
   - [korea] Micron's stock rises after SK Hynix earnings. Here's its next major test.
   - [japan] Japan-Germany summit meeting agrees to strengthen cooperation, including strengthening supply chain
   - [korea] Samsung Electronics Stocks Rally 9% Ahead of Earnings and Cash-Return Details
@@ -54,8 +56,6 @@ Total: 3000 manchetes
   - [china] Yunnan Coal & Energy Q3 Net Loss At 397.8 Million Yuan
   - [japan] Finance Minister: Consumption tax cut “Support measures for farmers will be materialized during the budget for
   - [taiwan] Taiwan's UMC Q3 revenue rises on wafer shipments growth
-  - [taiwan] BRIEF-United Microelectronics Q3 Revenue TWD 74,240 Million
-  - [korea] Asia report: SK Hynix leads chip rally after record profits
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
 
 ## O que fazer
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T16:12:43+00:00",
+      "published_utc": "2026-10-28T16:22:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
