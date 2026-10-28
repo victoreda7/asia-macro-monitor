@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T13:32:44.719826+00:00",
- "collected_at_utc": "2026-10-28T13:32:44.719826+00:00",
+ "generated_at_utc": "2026-10-28T13:42:45.362758+00:00",
+ "collected_at_utc": "2026-10-28T13:42:45.362758+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 916,
-  "china": 835,
+  "japan": 915,
+  "china": 836,
   "taiwan": 391,
   "korea": 858
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T08:18:00+00:00"
+   "newest": "2026-10-28T10:52:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-26T00:43:47+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 27,
    "error": "",
    "newest": "2026-10-28T02:21:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T13:32:12+00:00"
+   "newest": "2026-10-28T13:41:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T03:00:10+00:00"
+   "newest": "2026-10-27T10:05:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:00:00+00:00"
+   "newest": "2026-10-26T12:19:40+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "SUNING.COM Q3 Net Loss At 73.2 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46E1MW:0-suning-com-q3-net-loss-at-73-2-million-yuan/",
+   "published_utc": "2026-10-28T13:35:43+00:00",
+   "title_original": "SUNING.COM Q3 Net Loss At 73.2 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4c05baf3336c63de"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "S&P 500 and Nasdaq open higher with SK Hynix boosting the chip sector; Fed Spotlight",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E0QH:0/",
+   "published_utc": "2026-10-28T13:32:36+00:00",
+   "title_original": "S&P 500 e Nasdaq abrem em alta com a SK Hynix impulsionando o setor de chips; Fed em destaque",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "pt",
+   "translated": true,
+   "live_wire": true,
+   "manual": false,
+   "id": "6e5045c43e9d1c3e"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -908,40 +942,6 @@
    "live_wire": true,
    "manual": false,
    "id": "c949443dba11be60"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Shenzhen Edadoc Technology's Unit Plans To Invest About 1 Billion Yuan In PCB Project",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46E199:0-shenzhen-edadoc-technology-s-unit-plans-to-invest-about-1-billion-yuan-in-pcb-project/",
-   "published_utc": "2026-10-28T11:10:51+00:00",
-   "title_original": "Shenzhen Edadoc Technology's Unit Plans To Invest About 1 Billion Yuan In PCB Project",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a9da59ba64f41ebc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "SK hynix Is Maintained at Buy by Needham",
-   "url": "https://www.tradingview.com/news/DJN_DN20261028003981:0-sk-hynix-is-maintained-at-buy-by-needham/",
-   "published_utc": "2026-10-28T10:43:00+00:00",
-   "title_original": "SK hynix Is Maintained at Buy by Needham",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "a6feb9f8cf4d1799"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2494,6 +2494,23 @@
    "id": "592b7244489d1b5f"
   },
   {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "National Bank of Kyrgyzstan keeps key interest rate at 12 pct",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Zb3ZiZkRtZXo0NzlyeDJlcXR4YURWSm1IMDRwUFFHWFhlbzdwV1drUUh1WVhQaTRpeUxSMVVMZkJ5bnVVSUhDZ045VzJ5c2hNejlUSmVsUzZQckowVHAyNDlMUDNyaWUyYWtrWllHb3d0OGg3dGFWTl9QNWc?oc=5",
+   "published_utc": "2026-10-27T18:18:15+00:00",
+   "title_original": "National Bank of Kyrgyzstan keeps key interest rate at 12 pct",
+   "region": "china",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "93a6870684bfe769"
+  },
+  {
    "source_id": "gn_tw_reuters",
    "source_name": "Reuters",
    "title_en": "Senegal parliamentary committee to review revised budget key for new IMF deal",
@@ -2855,7 +2872,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The reason why the report card for the first year of the Takaichi administration is ``barely passing in fiscal policy and 80 points in monetary policy'' (Newsweek Japan version)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2djelRsc3YxV25OVnM0aFdkRVhkNWZRbF9BbnByQzMtOTcybEFQTjFxenRZWmJxOXltU2JuR2szVVFiTXRpRFdpQ0N6dklRemVCaV9Ta2ZaYW9ZQ1ZLSW9OeUlGaElWYUhnZ1p5T0NYd0c4bTYzS3NWcXA4eDRXWFRZdFREYjFEdzdtLWRR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDBmRmM5X0o2M1JhZ095QjZiTkhOcWRjWlk3NWQyNEltUWs0UEJQRk9yWFpTemFKVzFXcWtLSndhWldZbFAwb1BUVzZyblZKSlI4YmhWTlR6ekY5b3I5ZFVnbE5hR2pybEo1WHh0aGJ5UGNyZW8yVFZuMEhnd2tNdm0zc000cVJF?oc=5",
    "published_utc": "2026-10-27T11:50:06+00:00",
    "title_original": "高市政権発足1年の成績表「財政政策はぎりぎり合格、金融政策は80点」と言える理由（ニューズウィーク日本版）",
    "region": "japan",
@@ -2868,7 +2885,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "57824ed6928a12f1"
+   "id": "4d24175a3b178b53"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -2888,8 +2905,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2904,7 +2921,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -51855,23 +51872,6 @@
    "live_wire": false,
    "manual": false,
    "id": "d3de50e17d4f2bb3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Nikkei May Decline Amid Concerns About Higher Energy Costs — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261001010079:0/",
-   "published_utc": "2026-10-01T23:46:00+00:00",
-   "title_original": "Nikkei May Decline Amid Concerns About Higher Energy Costs — Market Talk",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3dd2ab541e0ea56d"
   },
   {
    "source_id": "manual_ia",

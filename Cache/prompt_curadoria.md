@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T13:32:44.719826+00:00
+Última coleta: 2026-10-28T13:42:45.362758+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          916
-  🇨🇳 China          835
+  🇯🇵 Japão          915
+  🇨🇳 China          836
   🇹🇼 Taiwan         391
   🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [china] SUNING.COM Q3 Net Loss At 73.2 Million Yuan
+  - [korea] S&P 500 and Nasdaq open higher with SK Hynix boosting the chip sector; Fed Spotlight
   - [china] BBMG Jidong Cement Group Q3 Net Loss At 488.6 Million Yuan
   - [korea] SKHY Stock: Analyst Sees 175% Upside Potential For SK Hynix, Company's Q3 Beat Uplifts MU, SNDK, WDC
   - [china] Axt, Inc. Announces Up To RMB 3.67 Billion (Approximately Us$545 Million) In Private Equity Financing For Subs
@@ -50,8 +52,6 @@ Total: 3000 manchetes
   - [korea] Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [china] China's September net gold imports via Hong Kong hit five-month high in September
   - [korea] Cantor Fitzgerald reiterates Overweight rating on SK hynix, $250 price target
-  - [china] Shenzhen Edadoc Technology's Unit Plans To Invest About 1 Billion Yuan In PCB Project
-  - [korea] SK hynix Is Maintained at Buy by Needham
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
   - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T13:32:44+00:00",
+      "published_utc": "2026-10-28T13:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
