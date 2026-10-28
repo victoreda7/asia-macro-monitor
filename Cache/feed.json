@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T10:42:46.720786+00:00",
- "collected_at_utc": "2026-10-28T10:42:46.720786+00:00",
+ "generated_at_utc": "2026-10-28T10:52:43.706580+00:00",
+ "collected_at_utc": "2026-10-28T10:52:43.706580+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 923,
+  "japan": 922,
   "china": 840,
-  "taiwan": 387,
+  "taiwan": 388,
   "korea": 850
  },
- "elapsed_s": 31.0,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T08:51:46+00:00"
+   "newest": "2026-10-28T02:37:04+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T10:41:58+00:00"
+   "newest": "2026-10-28T10:52:03+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "SK hynix Is Maintained at Buy by Needham",
+   "url": "https://www.tradingview.com/news/DJN_DN20261028003981:0-sk-hynix-is-maintained-at-buy-by-needham/",
+   "published_utc": "2026-10-28T10:43:00+00:00",
+   "title_original": "SK hynix Is Maintained at Buy by Needham",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a6feb9f8cf4d1799"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -1146,23 +1163,6 @@
    "live_wire": false,
    "manual": false,
    "id": "405780e24d1dc7a8"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Samsung Epis Holdings (0126Z0) Posts Q3 Revenue KRW 441.9B, OP KRW 105.0B",
-   "url": "https://www.tradingview.com/news/tradingview:6e70e538b224c:0-samsung-epis-holdings-0126z0-posts-q3-revenue-krw-441-9b-op-krw-105-0b/",
-   "published_utc": "2026-10-28T07:00:00+00:00",
-   "title_original": "Samsung Epis Holdings (0126Z0) Posts Q3 Revenue KRW 441.9B, OP KRW 105.0B",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d5f72a410c41bb2e"
   },
   {
    "source_id": "gn_kr_mk",
@@ -2781,8 +2781,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2797,7 +2797,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -7952,6 +7952,23 @@
    "live_wire": true,
    "manual": false,
    "id": "e52b14fd69092591"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Nigeria central bank grants JPMorgan initial nod to launch merchant bank",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHZpZXZNTGh4emhON2o3bXlQUGt1eWJDbjRmaTh4MXRQMThTN1lUSTdGVEhjOU81WDF2MFhOcEZfWHE5WmYtVjlqNjEyNHQ3SkloQ3dFZGVzVEZJWFBCWjZNQmhkOXJaYmd4bU5GeE5qZjlxZUtzbl9tQUE3QV9zT0ktSUx0cHppQ21JTzdaUnFnVUwyUV9NaE9ZbEhFSUNsRVNnUk92QWxBRUlIMlJUcHpwY21Fa2dXU3c?oc=5",
+   "published_utc": "2026-10-23T15:17:24+00:00",
+   "title_original": "Nigeria central bank grants JPMorgan initial nod to launch merchant bank",
+   "region": "taiwan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "8d825e2cb060b885"
   },
   {
    "source_id": "tradingview_live",
@@ -51852,23 +51869,6 @@
    "live_wire": false,
    "manual": false,
    "id": "ecc61ca4998a0575"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN SEPT TOKYO INFLATION ANNUAL RATE JUMPS AS CITY’S FREE BASE WATER CHARGES END AFTER PEAK SUMMER MONTHS, DAY CARE FEES POST SMALLER DROP",
-   "url": "https://www.tradingview.com/news/macenews:900964849094b:0-japan-sept-tokyo-inflation-annual-rate-jumps-as-city-s-free-base-water-charges-end-after-peak-summer-months-day-care-fees-post-smaller-drop/",
-   "published_utc": "2026-10-01T23:37:00+00:00",
-   "title_original": "JAPAN SEPT TOKYO INFLATION ANNUAL RATE JUMPS AS CITY’S FREE BASE WATER CHARGES END AFTER PEAK SUMMER MONTHS, DAY CARE FEES POST SMALLER DROP",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "8fa400806e350990"
   },
   {
    "source_id": "manual_ia",
