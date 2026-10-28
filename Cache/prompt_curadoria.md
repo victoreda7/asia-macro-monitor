@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T11:22:45.095104+00:00
+Última coleta: 2026-10-28T11:32:21.350343+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          921
+  🇯🇵 Japão          919
   🇨🇳 China          841
-  🇹🇼 Taiwan         388
-  🇰🇷 Coreia do Sul  850
+  🇹🇼 Taiwan         387
+  🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
+  - [korea] Asia report: SK Hynix leads chip rally after record profits
+  - [korea] Nasdaq Futures Rise as SK Hynix Boosts Chip Sector Ahead of Fed Decision, Earnings Release
+  - [korea] Nasdaq futures gain as SK Hynix lifts chips ahead of Fed decision, earnings
+  - [china] Zhejiang Zheneng Electric Power Q3 Net Loss At 56.8 Million Yuan
+  - [korea] SK hynix Price Target Maintained With a $250.00/Share by Cantor Fitzgerald
   - [korea] Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [china] China's September net gold imports via Hong Kong hit five-month high in September
   - [korea] Cantor Fitzgerald reiterates Overweight rating on SK hynix, $250 price target
@@ -32,7 +37,6 @@ Total: 3000 manchetes
   - [china] Moore Threads Tech Q3 Net Profit At 49.3 Million Yuan
   - [china] China's September net gold imports via Hong Kong rise over 28% m/m
   - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
-  - [korea] Nasdaq Futures Rise as SK Hynix Boosts Chip Sector Ahead of Fed Decision, Earnings Release
   - [korea] AI memory, chip stocks gain after SK Hynix posts record profit
   - [china] China Hainan Rubber Industry Group: Rubber-price gains and cost cuts supported Q3, but 9M revenue fell 22.28%
   - [china] Lufax Holding: Loan sales edged higher, but rising credit losses drove a CNY 1.494B net loss
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Former Liberal Democratic Party Secretary-General Moriyama “Need to secure alternative revenue sources for con
   - [china] Beijing Dabeinong Technology Q3 Net Loss At 125.3 Million Yuan
   - [japan] Who will lose the most from the Bank of Japan's interest rate hike?The irrationality of the ``valley generatio
-  - [korea] HD Hyundai’s operating profit nears 3 trillion won ... subsidiaries fire celebratory salvo over results
-  - [taiwan] Taiwan inflation could rise if energy subsidies end: Central bank
-  - [korea] Kospi at two-week high as SK Hynix’s $75 bn payout plan, record profit fan tech rally
-  - [china] China's New Export Restrictions Protect Its AI Crown Jewels
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T11:22:45+00:00",
+      "published_utc": "2026-10-28T11:32:21+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
