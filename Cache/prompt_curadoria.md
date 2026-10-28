@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T02:12:42.693728+00:00
+Última coleta: 2026-10-28T02:22:43.909537+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          936
-  🇨🇳 China          838
-  🇹🇼 Taiwan         385
-  🇰🇷 Coreia do Sul  841
+  🇨🇳 China          837
+  🇹🇼 Taiwan         384
+  🇰🇷 Coreia do Sul  843
 
 ## O que já está no feed (não repita)
 
+  - [korea] South Korean won, Philippine peso lead declines among Asian currencies
   - [korea] SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings — Update
   - [china] CHINA PBOC CONDUCTS CNY151 BLN VIA 7-DAY REVERSE REPO WEDS
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO WEDS
@@ -27,9 +28,11 @@ Total: 3000 manchetes
   - [korea] Choi Won-tae (Samsung Lions) will take the mound at an important moment.Samsung, led by head coach P..
   - [korea] Kospi jumps as chipmakers rally on SK Hynix’s record profit, shareholder returns
   - [korea] Kospi rises 4% after SK Hynix results; Asian stocks gain on AI optimism ahead of US Fed decision
+  - [china] The central bank launched a 151 billion yuan 7-day reverse repurchase operation today
   - [korea] SK Hynix Unveils $45 Billion Shareholder Returns as AI Memory Demand Lifts Profit
   - [japan] JGB Yields Rise as AI Trade Regains Momentum — Market Talk
   - [korea] SK Hynix profits soar amid roaring AI chip demand
+  - [korea] SK Hynix, Boeing, SoFi, Seagate and Robinhood: Why These 5 Stocks Are on Investors' Radars Today
   - [korea] South Korean Shares Rally on SK Hynix Earnings
   - [korea] SK Hynix posts record Q3 profit of $62.8 billion, beats estimates on AI demand
   - [china] How China’s ancient capital staked a claim to the nation’s fastest export growth
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Q3 profit beats expectations, vows $75 bln in shareholders returns
   - [korea] SK hynix posts record Q3 profit, plans W100tr in shareholder returns this year
   - [korea] SK Hynix Expects 2026 Shareholder Returns to Total KRW100T, Including Completed KRW40T Buyback
-  - [korea] SK Hynix Q3 profit increases more than 7 times and beats forecasts
-  - [korea] SK hynix Inc. Q3 Revenue ₩104.6T, Op Profit ₩83.3T
-  - [korea] SK hynix Announces 3Q26 Financial Results
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T02:12:42+00:00",
+      "published_utc": "2026-10-28T02:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
