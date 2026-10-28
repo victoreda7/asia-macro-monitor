@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T23:12:46.629649+00:00
+Última coleta: 2026-10-28T23:22:42.723034+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          908
-  🇨🇳 China          839
+  🇨🇳 China          840
   🇹🇼 Taiwan         389
-  🇰🇷 Coreia do Sul  864
+  🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
@@ -23,7 +23,7 @@ Total: 3000 manchetes
   - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
   - [japan] Japan girds for new wave of food price hikes as tanker rates soar
   - [korea] Biz sentiment rises to over 4-yr high in Oct. on improved outlook: BOK
-  - [japan] <JR Hokkaido> ``We do not accept the burden of local governments'', as pointed out by House of Councilors memb
+  - [japan] ``We do not accept the burden of local governments'', as pointed out by House of Councilors member Gaku Hasega
   - [japan] [Chaos] France's large-scale demonstrations and riots: "Plummeting retail stocks," "increased burden on insura
   - [japan] Fed leaves policy interest rate unchanged for the first time in two meetings, perhaps to assess the impact on 
   - [china] IMF Taps China’s Vice Finance Minister Liao Min for Deputy Managing Director Role
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T23:12:46+00:00",
+      "published_utc": "2026-10-28T23:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
