@@ -7,26 +7,28 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T19:12:44.914796+00:00
+Última coleta: 2026-10-28T19:22:45.199267+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          910
-  🇨🇳 China          835
+  🇯🇵 Japão          909
+  🇨🇳 China          837
   🇹🇼 Taiwan         391
-  🇰🇷 Coreia do Sul  864
+  🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3234972.13, Implies 141% Upside
+  - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45831.82, Implies 35% Upside
   - [korea] SK hynix: AI-led memory demand drove record Q3 results and ~KRW 100T in planned FY2026 shareholder returns
   - [japan] Fed leaves policy interest rate unchanged for the first time in two meetings, perhaps to assess the impact on 
   - [japan] Japan weighs corporate tax hike to fund defense buildup
   - [korea] Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [japan] Takaichi presses Merz not to leave Japan out of 'Made in Europe' EV subsidies
+  - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
   - [korea] SK hynix Stocks Rally 10.89% With Buyback Cancellation Split in Focus
   - [china] Tunisia sets 3.1 pct economic growth target for 2027
   - [korea] US sanctions North Korean network accused of defrauding businesses
   - [korea] SK Hynix Shakes Up the AI Chip Stock Narrative
-  - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
   - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3229708.97, Implies 141% Upside
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 44931.82, Implies 33% Upside
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Reborn Coffee Secures Manufacturing Infrastructure For $30 Million Supply Volume And Expands Global Supply Cha
   - [korea] RBC Capital reiterates Outperform rating on SK hynix, $200 price target
   - [korea] SK Hynix delivered on third-quarter results - but the outlook is what really mattered to Wall Street and the A
-  - [taiwan] Taiwan Semiconductor raising prices could mean less competition from Intel: Wedbush
-  - [korea] Lynx sees SK Hynix results rekindling interest in this chip stock
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T19:12:45+00:00",
+      "published_utc": "2026-10-28T19:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
