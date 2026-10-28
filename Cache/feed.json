@@ -1,25 +1,25 @@
 {
- "generated_at_utc": "2026-10-28T00:12:43.440032+00:00",
- "collected_at_utc": "2026-10-28T00:12:43.440032+00:00",
+ "generated_at_utc": "2026-10-28T00:22:42.830136+00:00",
+ "collected_at_utc": "2026-10-28T00:22:42.830136+00:00",
  "degraded": false,
- "sources_ok": 40,
+ "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 952,
-  "china": 837,
+  "japan": 950,
+  "china": 838,
   "taiwan": 383,
-  "korea": 828
+  "korea": 829
  },
  "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": false,
-   "count": 0,
-   "error": "feed vazio ou ilegível",
-   "newest": ""
+   "ok": true,
+   "count": 45,
+   "error": "",
+   "newest": "2026-10-27T14:00:00+09:00"
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-27T23:48:28+00:00"
+   "newest": "2026-10-28T00:16:26+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T00:11:39+00:00"
+   "newest": "2026-10-28T00:18:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T12:19:40+00:00"
+   "newest": "2026-10-26T08:38:46+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "nikkei_asia",
+   "source_name": "Nikkei Asia",
+   "title_en": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+   "published_utc": "2026-10-28T00:22:42.375584+00:00",
+   "title_original": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "9c1b8f5a4ad1f015"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Meituan to Raise $1.20 Billion Via Offshore Yuan Bond Sale",
+   "url": "https://www.tradingview.com/news/DJN_DN20261027013573:0-meituan-to-raise-1-20-billion-via-offshore-yuan-bond-sale/",
+   "published_utc": "2026-10-28T00:17:00+00:00",
+   "title_original": "Meituan to Raise $1.20 Billion Via Offshore Yuan Bond Sale",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "6aebe93c5f0283e0"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "TradingView",
@@ -1217,8 +1251,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -1233,7 +1267,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "focus_taiwan",
@@ -2607,7 +2641,7 @@
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
    "title_en": "From January to September 2026, profits of industrial enterprises above designated size nationwide increased by 15.5%",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzRnZVQVZZeUdtakJ6VkcxdGpCRURNeHQ1WEJXTUV1VVU0YnNnQWUzYkJKc3dUR2JwUm1HSWlUY3pJY1lfR0o0N2tKU3QtbDlMaFFZdDJ0Zm5STzRsX3hxeE90RGRTNHIyRWlEX20xQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00SzczM3Zhd0JnM3ZZNkRhMVpTMHhHU0xtNEptNFBuQTNCLXJBcldmMnV5S25KYkFJd0Rxb1VPcGozTC15d2FRZU4xUFk4cHRQMEZLY0IzejA0bWdNdTBMRWgwazdXTlEybXJ3Qmt5d1NVTEtC?oc=5",
    "published_utc": "2026-10-27T01:30:00+00:00",
    "title_original": "2026年1—9月份全国规模以上工业企业利润增长15.5%",
    "region": "china",
@@ -2618,7 +2652,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "06c0bc75c76849a4"
+   "id": "a98b0afd638e1d84"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -4504,9 +4538,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -4518,7 +4552,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b972d8c6ac9362b"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4710,6 +4744,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5315,24 +5367,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -51837,41 +51871,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4c57d6c4fc3f5c4a"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "news.yahoo.co.jp",
-   "title_en": "At the Bank of Japan's meeting in September, when it decided to raise interest rates for the first time in three months, some said that if there were signs of an upward trend in prices, ``the pace of interest rate hikes would have to be accelerated.''",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOeUhvWGgtbzZQWG51Mmh1NDNHeGFSb29lSHBCTWlEM1Mya3RFcmdrcUMyMmRpTlk2TTVDWnBvcjAtYWZ5bFZManRlTzUtUjBfRHJhTllEcDEySzByaUktY01EMGQzNXVpM1dTSXdKSHNSSmVfcThXdnpMeUVlVnM?oc=5",
-   "published_utc": "2026-10-01T04:33:51+00:00",
-   "title_original": "３か月ぶり利上げ決めた９月の日銀会合、物価上振れの兆候なら「利上げペース速めざるを得ない」との意見も",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "3a98c2292f65a636"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Morning Bid: Inflation relief gives bonds little reprieve",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0Etd0dqZDdmOElyWmt1UmRTQUpyZlNEckx1Ti1rclc0V1g1QjdzaUxhckRyVTZtX2l0UWRaV2pmdW9RX01rQzhTQzdydUxYdEUtTjFVVUtGcGpLUXFHdFdSd010RTkxc29tZ0t6dDhfWDJLZHFQX1FSTHRSU2V5WEh1QQ?oc=5",
-   "published_utc": "2026-10-01T04:33:00+00:00",
-   "title_original": "Morning Bid: Inflation relief gives bonds little reprieve",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "77e7e857a14ecfac"
   },
   {
    "source_id": "manual_ia",

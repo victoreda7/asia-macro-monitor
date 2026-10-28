@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T00:12:43.440032+00:00
+Última coleta: 2026-10-28T00:22:42.830136+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          952
-  🇨🇳 China          837
+  🇯🇵 Japão          950
+  🇨🇳 China          838
   🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  828
+  🇰🇷 Coreia do Sul  829
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand
+  - [china] Meituan to Raise $1.20 Billion Via Offshore Yuan Bond Sale
   - [korea] Key facts: SK hynix (000660) shareholder return; record Q3 profit; HBM4 mass production Q2 2027
   - [korea] SK hynix Q3 2026 Earnings Call Is Live
   - [korea] SK hynix: Record Q3 revenue and operating profit meet AI-led demand as net profit absorbs large non-operating 
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] High inflation to persist globally into next year, Reuters poll shows
   - [korea] SK hynix Stocks Gain 5.18% Before Its Payout Plan Faces Board Scrutiny
   - [china] Portuguese president condemns violence, calls for ending housing crisis
-  - [china] Xinjiang Beixin Road & Bridge Q3 Net Loss At 163.1 Million Yuan
-  - [china] China’s energy supply chain is withstanding test of Middle East war, expert says
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T00:12:43+00:00",
+      "published_utc": "2026-10-28T00:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
