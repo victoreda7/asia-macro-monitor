@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T10:52:43.706580+00:00
+Última coleta: 2026-10-28T11:02:46.598669+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          922
@@ -38,6 +38,7 @@ Total: 3000 manchetes
   - [china] Sansteel Minguang Co Ltd Fujian Q3 Net Loss At 434.4 Million Yuan
   - [china] Yuan Long Ping High-Tech Agriculture Q3 Net Loss At 402.4 Million Yuan
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
+  - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] Finance minister hopes for Bloomberg review of S. Korea's market status
   - [korea] SK Hynix announced its plan to return more than KRW 60 trillion to additional shareholders within th..
   - [china] Inner Mongolia Yuan Xing Energy Company: Q3 sales grew, profit softened, and the arbitration settlement was co
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Kamgras1 Raises Share Tender Price For Kakaku.Com To 3683 Yen Per Share From 3682 Yen, Filing Shows
   - [japan] Prime Minister Takaichi received proposals from the Japan Restoration Association regarding countermeasures fo
   - [china] Mercedes-Benz CEO: China Will Remain a Very Important Part of Our Business
-  - [japan] Chuo Spring Co Ltd - To Buy Back Up To 17.8% Of Own Shares Worth 15 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T10:52:43+00:00",
+      "published_utc": "2026-10-28T11:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
