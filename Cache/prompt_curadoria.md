@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T07:42:45.555001+00:00
+Última coleta: 2026-10-28T07:52:45.182387+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
+  🇯🇵 Japão          934
   🇨🇳 China          831
   🇹🇼 Taiwan         387
-  🇰🇷 Coreia do Sul  849
+  🇰🇷 Coreia do Sul  848
 
 ## O que já está no feed (não repita)
 
+  - [japan] Kamgras1 Raises Share Tender Price For Kakaku.Com To 3683 Yen Per Share From 3682 Yen, Filing Shows
   - [china] Mercedes-Benz CEO: China Will Remain a Very Important Part of Our Business
   - [japan] Chuo Spring Co Ltd - To Buy Back Up To 17.8% Of Own Shares Worth 15 Billion Yen
   - [korea] South Korean shares post biggest jump in 3 months as SK Hynix beats forecasts
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yurtec Corp - To Buy Back Up To 2.47% Of Shares Worth 5.5 Billion Yen
   - [japan] Stock price rise Buy orders for stocks such as semiconductors
   - [japan] The Japanese economy is now an AI-powered economy, with capital investment in exports, stock prices, and even 
-  - [korea] Asia stocks rally as SK Hynix earnings boost AI trade; Fed decision ahead
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T07:42:45+00:00",
+      "published_utc": "2026-10-28T07:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
