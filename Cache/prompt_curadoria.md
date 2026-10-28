@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T13:02:44.002342+00:00
+Última coleta: 2026-10-28T13:12:45.604279+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          917
-  🇨🇳 China          832
+  🇨🇳 China          834
   🇹🇼 Taiwan         391
-  🇰🇷 Coreia do Sul  860
+  🇰🇷 Coreia do Sul  858
 
 ## O que já está no feed (não repita)
 
+  - [china] AXT, Inc. Announces Up to RMB 3.67 Billion (Approximately US$545 Million) in Private Equity Financing for Subs
+  - [china] Japan and Germany set up high-level AI dialogue to strengthen economic security against China's export control
   - [korea] S&P 500 and Nasdaq should open higher, with SK Hynix boosting the chip sector; the Fed is the center of attent
   - [korea] S&P 500, Nasdaq set for higher open as SK Hynix lifts chips; Fed in focus
   - [korea] Reborn Coffee Secures Manufacturing Infrastructure For $30 Million Supply Volume And Expands Global Supply Cha
@@ -24,6 +26,7 @@ Total: 3000 manchetes
   - [korea] SK Hynix delivered on third-quarter results - but the outlook is what really mattered to Wall Street and the A
   - [taiwan] Taiwan Semiconductor raising prices could mean less competition from Intel: Wedbush
   - [korea] Lynx sees SK Hynix results rekindling interest in this chip stock
+  - [japan] Shinya Ueda The price gap with Japan that I felt in the United States: ``If it were in Japan, it would be 1,50
   - [korea] SK hynix Is Maintained at Buy by Rosenblatt
   - [korea] SK Hynix vai retornar US$75 bi aos acionistas após lucro recorde
   - [korea] SK hynix Inc. reports results for the quarter ended September 30 - Earnings Summary
@@ -50,13 +53,10 @@ Total: 3000 manchetes
   - [china] Shandong Gold Mining Q3 Net Loss At 362.5 Million Yuan
   - [korea] AM Markets Need to Know: SK Hynix surges on record profit, U.S.-Russia weigh oil deals, and more
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
-  - [korea] Alphabet, Microsoft, SK Hynix, Robinhood, and More Stocks That Explain Today's Market — Barrons.com
   - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
   - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] Finance minister hopes for Bloomberg review of S. Korea's market status
-  - [korea] SK Hynix announced its plan to return more than KRW 60 trillion to additional shareholders within th..
-  - [korea] S. Korean won sharply weakens against US dollar
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T13:02:44+00:00",
+      "published_utc": "2026-10-28T13:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

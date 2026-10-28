@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T13:02:44.002342+00:00",
- "collected_at_utc": "2026-10-28T13:02:44.002342+00:00",
+ "generated_at_utc": "2026-10-28T13:12:45.604279+00:00",
+ "collected_at_utc": "2026-10-28T13:12:45.604279+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 917,
-  "china": 832,
+  "china": 834,
   "taiwan": 391,
-  "korea": 860
+  "korea": 858
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 30.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:36:25+00:00"
+   "newest": "2026-10-28T13:05:42+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T06:30:03+00:00"
+   "newest": "2026-10-28T10:39:11+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T08:11:00+00:00"
+   "newest": "2026-10-28T11:47:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T12:46:27+00:00"
+   "newest": "2026-10-28T13:02:46+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T12:36:49+00:00"
+   "newest": "2026-10-28T12:59:39+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 29,
+   "count": 27,
    "error": "",
    "newest": "2026-10-28T02:21:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T12:52:09+00:00"
+   "newest": "2026-10-28T13:12:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:35:35+00:00"
+   "newest": "2026-10-28T07:35:33+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:38:01+00:00"
+   "newest": "2026-10-28T12:20:16+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -315,7 +315,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:45:24+00:00"
+   "newest": "2026-10-28T12:55:00+00:00"
   },
   {
    "source_id": "toyo_keizai",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T09:19:41+00:00"
+   "newest": "2026-10-28T08:31:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T12:19:40+00:00"
+   "newest": "2026-10-28T10:00:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "BusinessWire",
+   "title_en": "AXT, Inc. Announces Up to RMB 3.67 Billion (Approximately US$545 Million) in Private Equity Financing for Subsidiary Tongmei",
+   "url": "https://www.tradingview.com/news/business_wire:1279e7956a961:0-axt-inc-announces-up-to-rmb-3-67-billion-approximately-us-545-million-in-private-equity-financing-for-subsidiary-tongmei/",
+   "published_utc": "2026-10-28T13:00:00+00:00",
+   "title_original": "AXT, Inc. Announces Up to RMB 3.67 Billion (Approximately US$545 Million) in Private Equity Financing for Subsidiary Tongmei",
+   "region": "china",
+   "topics": [
+    "fiscal"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "16473e21b5fb0924"
+  },
+  {
+   "source_id": "gn_tw_cna",
+   "source_name": "中央社 CNA",
+   "title_en": "Japan and Germany set up high-level AI dialogue to strengthen economic security against China's export controls | International",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wOWZYY1NhVm1OQW5oTW9UU2x5Q2hYamp2T3VfRlFMVWI5VXlwS2JTUFV6MERuVWZYNDBOek9uRlJSMmRMSXl5TFd4SnAxZG9PTDBlczlwREZ3YlMwUGVF?oc=5",
+   "published_utc": "2026-10-28T12:55:00+00:00",
+   "title_original": "日德設AI高層對話針對中國出口管制強化經濟安保| 國際",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ddc8ae67ed070347"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -462,6 +496,24 @@
    "live_wire": true,
    "manual": false,
    "id": "8fbfe9b9cf445778"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Shinya Ueda The price gap with Japan that I felt in the United States: ``If it were in Japan, it would be 1,500 yen.'' Shocking bill (Sponichi Annex)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFQ2swdG41QWgzcGRpeVpOLTc3UWQtaWFRRzFiU0NOa2c2c0dlV1I3cnozXzlDZWNHOGIwSjNXdEk3M3F4LWkyY290OU1US3JER0VPYWJONExLRnJTQ1hSeWROczV6TTB2dzNETGVCNldlQUlUNDJxa09KSlFlUTg?oc=5",
+   "published_utc": "2026-10-28T12:20:16+00:00",
+   "title_original": "上田晋也 米国で感じた日本との物価ギャップ「日本だったら1500円しないかな」 衝撃のお会計（スポニチアネックス）",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b2ffc7feadeb53a5"
   },
   {
    "source_id": "tradingview_live",
@@ -606,7 +658,7 @@
    "source_name": "NHK 政治",
    "title_en": "Japan-Germany Summit Meeting Prime Minister: “We want to deepen cooperation as premium partners”",
    "url": "https://news.web.nhk/newsweb/na/nd-20261028de67318",
-   "published_utc": "2026-10-28T11:46:55+00:00",
+   "published_utc": "2026-10-28T11:46:00+00:00",
    "title_original": "日独首脳会談 首相“プレミアム・パートナーで連携深めたい”",
    "region": "japan",
    "topics": [
@@ -907,23 +959,6 @@
    "live_wire": false,
    "manual": false,
    "id": "933077e50859dca4"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Alphabet, Microsoft, SK Hynix, Robinhood, and More Stocks That Explain Today's Market — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261028003027:0-alphabet-microsoft-sk-hynix-robinhood-and-more-stocks-that-explain-today-s-market-barrons-com/",
-   "published_utc": "2026-10-28T09:56:00+00:00",
-   "title_original": "Alphabet, Microsoft, SK Hynix, Robinhood, and More Stocks That Explain Today's Market — Barrons.com",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "f31cc021a6711c1c"
   },
   {
    "source_id": "investing_econ",
@@ -2853,8 +2888,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2869,7 +2904,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -27566,23 +27601,6 @@
    "id": "51a413bc8920483f"
   },
   {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -27599,6 +27617,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
+  },
+  {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51837,40 +51872,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3dd2ab541e0ea56d"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mace News",
-   "title_en": "JAPAN AUG UNEMPLOYMENT DOWN 20,000 Y/Y AT 1.80 MLN, DOWN FOR FIRST TIME IN 13 MONTHS AFTER BEING FLAT IN JULY AT 1.69 MLN",
-   "url": "https://www.tradingview.com/news/macenews:2b032845f094b:0-japan-aug-unemployment-down-20-000-y-y-at-1-80-mln-down-for-first-time-in-13-months-after-being-flat-in-july-at-1-69-mln/",
-   "published_utc": "2026-10-01T23:45:00+00:00",
-   "title_original": "JAPAN AUG UNEMPLOYMENT DOWN 20,000 Y/Y AT 1.80 MLN, DOWN FOR FIRST TIME IN 13 MONTHS AFTER BEING FLAT IN JULY AT 1.69 MLN",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "96ced52947cd65b5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korea September inflation eases to 2.9% y/y, matches forecast",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45N18N:0-south-korea-september-inflation-eases-to-2-9-y-y-matches-forecast/",
-   "published_utc": "2026-10-01T23:42:13+00:00",
-   "title_original": "South Korea September inflation eases to 2.9% y/y, matches forecast",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "7d2226558865e7f8"
   },
   {
    "source_id": "manual_ia",
