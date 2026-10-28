@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T09:02:44.595692+00:00",
- "collected_at_utc": "2026-10-28T09:02:44.595692+00:00",
+ "generated_at_utc": "2026-10-28T09:12:49.379037+00:00",
+ "collected_at_utc": "2026-10-28T09:12:49.379037+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 931,
+  "japan": 932,
   "china": 834,
-  "taiwan": 386,
-  "korea": 849
+  "taiwan": 387,
+  "korea": 847
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T02:37:04+00:00"
+   "newest": "2026-10-28T08:51:46+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -57,7 +57,7 @@
    "source_id": "gn_tw_focus",
    "name": "Focus Taiwan",
    "ok": true,
-   "count": 21,
+   "count": 23,
    "error": "",
    "newest": "2026-10-28T08:18:00+00:00"
   },
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "newest": "2026-10-27T16:45:00+09:00"
+   "newest": "2026-10-28T16:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-28T02:16:20+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-28T02:21:00+00:00"
+   "newest": "2026-10-27T05:46:33+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T09:02:08+00:00"
+   "newest": "2026-10-28T09:12:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T08:15:36+00:00"
+   "newest": "2026-10-28T08:30:17+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "newest": "2026-10-28T08:11:52+00:00"
+   "newest": "2026-10-28T09:07:38+00:00"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-25T22:30:00+00:00"
   }
  ],
  "items": [
@@ -410,6 +410,23 @@
    "live_wire": true,
    "manual": false,
    "id": "1c759ee7989c4de8"
+  },
+  {
+   "source_id": "gn_tw_digitimes",
+   "source_name": "digitimes",
+   "title_en": "Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjZHRkdvcWpDSFVYNFhHTlM1X2R6VFF2MThsbTY0S2owTmtEUnhqYTJrdzhVOEMxOVdQZE11X3RBQzdfY0NpRGc0TWduZ3l6RGo4RVE0aFhIT0xOOE5iREZMc2pwd3JuTVFNdVFkbk1qZVd1bDc3bXBYS0c1SHk3ZzF1NGpoNGp1WHRPYi1FNE4tNlJCRkpCTWFTY3hrUQ?oc=5",
+   "published_utc": "2026-10-28T08:51:46+00:00",
+   "title_original": "Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "991d49763d85a707"
   },
   {
    "source_id": "korea_herald_biz",
@@ -788,6 +805,23 @@
    "live_wire": false,
    "manual": false,
    "id": "c2ce171f5e8dcfe7"
+  },
+  {
+   "source_id": "kantei_jnews",
+   "source_name": "Kantei 首相官邸",
+   "title_en": "Prime Minister Takaichi received proposals from the Liberal Democratic Party regarding the stable supply of energy and countermeasures against rising prices in light of the prolonged tense situation in the Middle East.",
+   "url": "https://www.kantei.go.jp/jp/105/actions/202610/28teigen.html",
+   "published_utc": "2026-10-28T07:00:00+00:00",
+   "title_original": "高市総理は自由民主党・中東情勢緊迫の長期化を踏まえたエネルギー安定供給・物価高対策に関する提言申入れを受けました",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "405780e24d1dc7a8"
   },
   {
    "source_id": "tradingview_live",
@@ -6072,9 +6106,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -6086,7 +6120,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b972d8c6ac9362b"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6278,6 +6312,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6849,24 +6901,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -9537,24 +9571,6 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "湖南红网",
-   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JOU4xQURkbWUzMkFXZkI1bXRrZHNtckpVaHE1YVd5TXZkbWJCTEJKYnNYQmVnZUQ2OXlSNWFrZkFDZzVCZ21NeG1IWDFtcEkyUkRWOFpTaVpoLWZUdFNvRC1fR3lVUQ?oc=5",
-   "published_utc": "2026-10-23T02:15:26+00:00",
-   "title_original": "央行开展2580亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "649f01690852552b"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
@@ -9622,6 +9638,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ab3208d7cfdf114d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wemhzYTYzWkM3NllscXN6dkhkenVwRnlxSm5MZFVmYU1XRkNJamFXLU1zTHJkTFY2LUlOT3JneUctb3o4RVNKb2RTaFVJMUtkMFlsWjVhM1pGdDJrRlU0d2IzSlotY29f?oc=5",
+   "published_utc": "2026-10-23T01:53:53+00:00",
+   "title_original": "央行开展2580亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b449075bd88b714"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -11639,23 +11673,6 @@
    "id": "fac5fce3cd370fb4"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "네이버페이 머니스토리",
-   "title_en": "The Bank of Korea, which had been raising the base interest rate, now freezes it at 3.00%... What is the background?",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fdmE2NlhjLWxpQ3dObWNRYVlTMnJIV2UyczQ0SXVmazFFcXBkbnloR1B5WGtYeWlvVzlMRlBnVGlRSEtiT2VGSnRjTm8wQXhuTFE?oc=5",
-   "published_utc": "2026-10-22T06:50:01+00:00",
-   "title_original": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b4fcebcd8480f063"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Retail investors lose $4.8bn on Samsung, SK hynix leveraged ETFs in 80 days",
@@ -12127,6 +12144,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e841288bedeb8aa8"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "세상을 바꾸는 시민언론 민들레",
+   "title_en": "Bank of Korea stops raising interest rates... Tightening speed control",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Ylk3ZnZlc19UMUc1U09DN2Q5WFdGZk5wT1R6Vnp4eGk1b1Q5WjlEbFhyaWtOWTBaMnVDZXM3UGREcmIzWWVBM3hfY1lOU09kV1AyMVlTX1RTMFhjbTF2MzJSMTY2RGdCaHhwTw?oc=5",
+   "published_utc": "2026-10-22T04:10:00+00:00",
+   "title_original": "기준금리 인상 멈춘 한국은행…긴축 속도 조절",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9c4829ceb49aac68"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51836,40 +51870,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c3c5053054d7e45c"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "South Korea CPI inflation eases slightly in September",
-   "url": "https://www.investing.com/news/economic-indicators/south-korea-cpi-inflation-eases-slightly-in-september-4928671",
-   "published_utc": "2026-10-01T23:28:45+00:00",
-   "title_original": "South Korea CPI inflation eases slightly in September",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1b1517dfe9e651d3"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Trading Economics",
-   "title_en": "South Korea Inflation Rate Slows in September",
-   "url": "https://www.tradingview.com/news/te_news:588916:0-south-korea-inflation-rate-slows-in-september/",
-   "published_utc": "2026-10-01T23:16:11+00:00",
-   "title_original": "South Korea Inflation Rate Slows in September",
-   "region": "korea",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "72e8672382bd297f"
   },
   {
    "source_id": "manual_ia",
