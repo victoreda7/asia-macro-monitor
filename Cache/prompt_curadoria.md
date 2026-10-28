@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T07:02:44.223935+00:00
+Última coleta: 2026-10-28T07:12:43.813772+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          934
-  🇨🇳 China          830
+  🇯🇵 Japão          933
+  🇨🇳 China          831
   🇹🇼 Taiwan         387
   🇰🇷 Coreia do Sul  849
 
 ## O que já está no feed (não repita)
 
+  - [korea] Amended: SK Hynix Earnings Up In Q3; Shares Surge
+  - [china] China's Economic Growth Likely to Stabilize in 4Q — Market Talk
+  - [china] China's New Export Restrictions Protect Its AI Crown Jewels
+  - [china] China's new export curbs draw a line around its AI crown jewels
+  - [taiwan] Israel fears change, opposition temporarily leads in exit polls
   - [korea] Samsung Epis Holdings (0126Z0) Posts Q3 Revenue KRW 441.9B, OP KRW 105.0B
   - [korea] MU, SNDK, Neocloud Stocks Extend Gains On Anthropic Boost, SK Hynix Q3 Stunner; Jim Cramer Urges Caution
   - [china] KNEBV: Orders and adjusted margins advanced; China and inflation remain key headwinds
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean Stocks Rally as SK Hynix Payout and AI Optimism Boost Markets
   - [korea] Why is Samsung Electronics stock surging today?
   - [korea] Foreign currency deposits rise to fresh record high in Sept.
-  - [japan] Yen Weakens as Safe-Haven Appeal Diminishes
-  - [china] Is the stock market falsely decoupled from the typhoon? Yang Jinlong: Depending on the attitude of the Financi
-  - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
-  - [korea] Why is SK Hynix stock surging today?
-  - [korea] South Korean won, Philippine peso lead declines among Asian currencies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T07:02:44+00:00",
+      "published_utc": "2026-10-28T07:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
