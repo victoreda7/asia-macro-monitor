@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T04:32:46.015617+00:00
+Última coleta: 2026-10-28T04:42:46.539525+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          928
-  🇨🇳 China          837
+  🇯🇵 Japão          929
+  🇨🇳 China          835
   🇹🇼 Taiwan         386
-  🇰🇷 Coreia do Sul  849
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [japan] BOJ Rate Hold Seen as Done Deal, Putting Focus on Guidance
+  - [japan] Presentation of materials on the government's consumption tax reduction bill support funding concept
+  - [japan] Bank of Japan decision meeting emphasizes that achieving the price target is still the “gateway” (TBS CROSS DI
   - [taiwan] Taiwan central bank says it will hike interest rate if inflation too hot next year
   - [korea] SK Hynix profit beat fuels $45 billion of dividends, buyback
+  - [korea] South Korean Won Retreats from Over 2-Year High
   - [china] China's yuan hovers near 4-year high ahead of Fed decision
   - [korea] SK hynix: Record Q3 earnings, tight AI-memory supply and ~KRW 100tn in planned shareholder returns
   - [japan] Stock price rise Buy orders for stocks such as semiconductors
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Unveils $45 Billion Shareholder Returns as AI Memory Demand Lifts Profit
   - [japan] JGB Yields Rise as AI Trade Regains Momentum — Market Talk
   - [korea] SK Hynix profits soar amid roaring AI chip demand
-  - [korea] SK Hynix, Boeing, SoFi, Seagate and Robinhood: Why These 5 Stocks Are on Investors' Radars Today
-  - [korea] South Korean Shares Rally on SK Hynix Earnings
-  - [korea] SK Hynix posts record Q3 profit of $62.8 billion, beats estimates on AI demand
-  - [china] How China’s ancient capital staked a claim to the nation’s fastest export growth
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T04:32:46+00:00",
+      "published_utc": "2026-10-28T04:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
