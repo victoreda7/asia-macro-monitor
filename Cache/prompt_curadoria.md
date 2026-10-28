@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T00:52:41.714904+00:00
+Última coleta: 2026-10-28T01:02:44.414079+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          947
-  🇨🇳 China          835
+  🇯🇵 Japão          946
+  🇨🇳 China          836
   🇹🇼 Taiwan         385
   🇰🇷 Coreia do Sul  833
 
 ## O que já está no feed (não repita)
 
+  - [china] How China’s ancient capital staked a claim to the nation’s fastest export growth
   - [taiwan] Semiconductor equipment is not AI chip growth's biggest bottleneck
   - [korea] SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings
   - [taiwan] MiCo Ceramics acquires idle LGD plant for KRW150 billion to boost semiconductor component capacity
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Japan banks, fintech step up digital currency push for trade settlements
   - [korea] Samsung Electronics Stocks Gain 4.23% With Cash-Return Decisions Approaching
   - [china] China Claims Strong Economic Growth, but Skeptics Question Official Figures — WSJ
-  - [korea] SK Hynix's Solidigm Reportedly In Talks Over $45B Investment In US Chip Plant
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T00:52:41+00:00",
+      "published_utc": "2026-10-28T01:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
