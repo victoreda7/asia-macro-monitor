@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T05:32:43.555866+00:00
+Última coleta: 2026-10-28T05:42:42.764863+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          931
-  🇨🇳 China          832
+  🇨🇳 China          831
   🇹🇼 Taiwan         387
-  🇰🇷 Coreia do Sul  850
+  🇰🇷 Coreia do Sul  851
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix Earnings Up In Q3; Shares Surge
   - [taiwan] Yang Jinlong: Without budgetary subsidies and energy subsidies, the inflation rate may rise if oil prices cont
   - [korea] Kospi hits two-week high on tech rally as SK Hynix plans $75 bn payout on record profit
   - [taiwan] AI-Driven Tech Rise Lifts Taiwan, South Korea Stocks; Asian currencies fall
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean shares rally 6% as SK Hynix beats forecasts
   - [korea] SK hynix Q3 2026 slides: revenue tops 100T, 80% margin on AI boom
   - [korea] SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush
-  - [korea] Choi Won-tae (Samsung Lions) will take the mound at an important moment.Samsung, led by head coach P..
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T05:32:43+00:00",
+      "published_utc": "2026-10-28T05:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
