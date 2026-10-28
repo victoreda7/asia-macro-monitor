@@ -7,16 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T09:32:44.744297+00:00
+Última coleta: 2026-10-28T09:42:45.301049+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          930
-  🇨🇳 China          835
-  🇹🇼 Taiwan         388
-  🇰🇷 Coreia do Sul  847
+  🇯🇵 Japão          927
+  🇨🇳 China          836
+  🇹🇼 Taiwan         387
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [korea] Nasdaq Futures Rise as SK Hynix Boosts Chip Sector Ahead of Fed Decision, Earnings Release
+  - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
+  - [korea] AI memory, chip stocks gain after SK Hynix posts record profit
+  - [china] Lufax Holding: Loan sales edged higher, but rising credit losses drove a CNY 1.494B net loss
+  - [korea] SK Hynix delivered on third-quarter results - but the outlook is what really mattered to Wall Street and the A
   - [china] Beijing United Information Technology's Units Plan To Purchase Servers Worth 1.5 Billion Yuan
   - [korea] Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [china] Gotion High Tech Q3 Net Loss At 537.0 Million Yuan
@@ -52,11 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Epis Holdings (0126Z0) Posts Q3 Revenue KRW 441.9B, OP KRW 105.0B
   - [korea] Asian Tech Stocks Rise After SK Hynix Pledges $75B to Shareholders
   - [korea] MU, SNDK, Neocloud Stocks Extend Gains On Anthropic Boost, SK Hynix Q3 Stunner; Jim Cramer Urges Caution
-  - [china] KNEBV: Orders and adjusted margins advanced; China and inflation remain key headwinds
-  - [korea] SK Hynix Stock Jumps 10% on $75 Billion Payout Plan, Massive Profit Increase
-  - [korea] Kospi Gains, Led by Semiconductor, Battery Stocks
-  - [korea] SK Hynix Stock Soars as Revenue and Profits Rise: Will These Gains Sustain?
-  - [japan] Nisshin Seifun Group Inc. - To Buy Back Up To 5% Of Own Shares Worth 20 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T09:32:44+00:00",
+      "published_utc": "2026-10-28T09:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
