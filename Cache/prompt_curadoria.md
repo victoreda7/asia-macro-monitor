@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T02:22:43.909537+00:00
+Última coleta: 2026-10-28T02:32:41.825478+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          936
-  🇨🇳 China          837
-  🇹🇼 Taiwan         384
+  🇨🇳 China          836
+  🇹🇼 Taiwan         385
   🇰🇷 Coreia do Sul  843
 
 ## O que já está no feed (não repita)
@@ -23,6 +23,7 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7165 WEDS VS 6.7171
   - [japan] Japan bond yields rise as haven demand recedes, BOJ meeting looms
+  - [taiwan] Taiwan Central Bank Chief: Never Said CPI Cannot Remain Above +2%
   - [korea] South Korean shares rally 6% as SK Hynix beats forecasts
   - [korea] SK hynix Q3 2026 slides: revenue tops 100T, 80% margin on AI boom
   - [korea] Choi Won-tae (Samsung Lions) will take the mound at an important moment.Samsung, led by head coach P..
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix: To Pay More Than KRW30B in Dividends
   - [korea] SK Hynix Q3 profit beats expectations, vows $75 bln in shareholders returns
   - [korea] SK hynix posts record Q3 profit, plans W100tr in shareholder returns this year
-  - [korea] SK Hynix Expects 2026 Shareholder Returns to Total KRW100T, Including Completed KRW40T Buyback
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T02:22:44+00:00",
+      "published_utc": "2026-10-28T02:32:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
