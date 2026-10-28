@@ -1,8 +1,8 @@
 {
- "generated_at_utc": "2026-10-28T14:32:46.183600+00:00",
- "collected_at_utc": "2026-10-28T14:32:46.183600+00:00",
+ "generated_at_utc": "2026-10-28T14:42:42.471068+00:00",
+ "collected_at_utc": "2026-10-28T14:42:42.471068+00:00",
  "degraded": false,
- "sources_ok": 41,
+ "sources_ok": 40,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
@@ -11,15 +11,15 @@
   "taiwan": 393,
   "korea": 859
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
-   "ok": true,
-   "count": 45,
-   "error": "",
-   "newest": "2026-10-27T14:00:00+09:00"
+   "ok": false,
+   "count": 0,
+   "error": "feed vazio ou ilegível",
+   "newest": ""
   },
   {
    "source_id": "gn_asia_bloomberg",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T22:14:00+09:00"
+   "newest": "2026-10-28T23:40:33+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-10-28T01:25:23+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T14:32:07+00:00"
+   "newest": "2026-10-28T14:41:40+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T09:19:41+00:00"
+   "newest": "2026-10-28T08:31:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Micron, SK Hynix, GE Vernova, Alphabet, Vertiv, Boston Scientific, and More Stocks That Explain Today's Market — Barrons.com",
+   "url": "https://www.tradingview.com/news/DJN_DN20261028003027:0-micron-sk-hynix-ge-vernova-alphabet-vertiv-boston-scientific-and-more-stocks-that-explain-today-s-market-barrons-com/",
+   "published_utc": "2026-10-28T14:34:00+00:00",
+   "title_original": "Micron, SK Hynix, GE Vernova, Alphabet, Vertiv, Boston Scientific, and More Stocks That Explain Today's Market — Barrons.com",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b3cdc3c58a0bf73e"
+  },
   {
    "source_id": "investing_live",
    "source_name": "Investing.com",
@@ -960,23 +977,6 @@
    "live_wire": true,
    "manual": false,
    "id": "8d0433517e101781"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "SK hynix Price Target Maintained With a $250.00/Share by Cantor Fitzgerald",
-   "url": "https://www.tradingview.com/news/DJN_DN20261028005354:0-sk-hynix-price-target-maintained-with-a-250-00-share-by-cantor-fitzgerald/",
-   "published_utc": "2026-10-28T11:22:00+00:00",
-   "title_original": "SK hynix Price Target Maintained With a $250.00/Share by Cantor Fitzgerald",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "213cb96d7c3f0ce5"
   },
   {
    "source_id": "gn_kr_bok",
@@ -6366,24 +6366,6 @@
    "id": "e12668b3e0b0dbdc"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVUxuT01uNzVGcWdXNjJsNmZXY2tjajQ2NGcxeWVaNkRRLUtSNlFoTGhfeGhhYUNENUNRY01PVF9mVDVmTl8tZGlYTFNOMEtGd2lVZmg0SzljbnUtQUs0aXVNU0hkanJZMHlXS0VZTzFBcm8ydlZhRU5LcDhCWUVCMUhqMWZ4VTI3akE?oc=5",
-   "published_utc": "2026-10-26T03:09:06+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "26723466cf9fd537"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks expected to maintain tight lending standards in Q4: BOK survey",
@@ -8196,6 +8178,24 @@
    "live_wire": true,
    "manual": false,
    "id": "9f5caab2bcd6c61a"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
+   "published_utc": "2026-10-23T14:14:15+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",

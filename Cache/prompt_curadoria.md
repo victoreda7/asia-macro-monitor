@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T14:32:46.183600+00:00
+Última coleta: 2026-10-28T14:42:42.471068+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          912
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Micron, SK Hynix, GE Vernova, Alphabet, Vertiv, Boston Scientific, and More Stocks That Explain Today's Market
   - [korea] Cantor Fitzgerald reiterates SK Hynix stock rating on AI demand
   - [korea] Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [korea] S&P 500 and Nasdaq open higher with SK Hynix boosting semiconductor sector; Fed Spotlight
@@ -53,7 +54,6 @@ Total: 3000 manchetes
   - [korea] Nasdaq Futures Rise as SK Hynix Boosts Chip Sector Ahead of Fed Decision, Earnings Release
   - [korea] Nasdaq futures gain as SK Hynix lifts chips ahead of Fed decision, earnings
   - [china] Zhejiang Zheneng Electric Power Q3 Net Loss At 56.8 Million Yuan
-  - [korea] SK hynix Price Target Maintained With a $250.00/Share by Cantor Fitzgerald
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
   - [korea] Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T14:32:46+00:00",
+      "published_utc": "2026-10-28T14:42:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
