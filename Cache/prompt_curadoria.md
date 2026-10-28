@@ -7,21 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T11:12:44.967208+00:00
+Última coleta: 2026-10-28T11:22:45.095104+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          922
-  🇨🇳 China          840
+  🇯🇵 Japão          921
+  🇨🇳 China          841
   🇹🇼 Taiwan         388
   🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [korea] Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
+  - [china] China's September net gold imports via Hong Kong hit five-month high in September
+  - [korea] Cantor Fitzgerald reiterates Overweight rating on SK hynix, $250 price target
+  - [china] Shenzhen Edadoc Technology's Unit Plans To Invest About 1 Billion Yuan In PCB Project
+  - [korea] SK Hynix delivered on third-quarter results - but the outlook is what really mattered to Wall Street and the A
   - [korea] SK hynix Is Maintained at Buy by Needham
   - [korea] Needham maintains Buy rating on SK hynix, $235 price target
   - [japan] Sales of Leqembi® totaled 32.2 billion yen in the third quarter 2026
   - [china] Shandong Gold Mining Q3 Net Loss At 362.5 Million Yuan
   - [korea] AM Markets Need to Know: SK Hynix surges on record profit, U.S.-Russia weigh oil deals, and more
+  - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
   - [korea] Alphabet, Microsoft, SK Hynix, Robinhood, and More Stocks That Explain Today's Market — Barrons.com
   - [china] Moore Threads Tech Q3 Net Profit At 49.3 Million Yuan
   - [china] China's September net gold imports via Hong Kong rise over 28% m/m
@@ -30,9 +36,7 @@ Total: 3000 manchetes
   - [korea] AI memory, chip stocks gain after SK Hynix posts record profit
   - [china] China Hainan Rubber Industry Group: Rubber-price gains and cost cuts supported Q3, but 9M revenue fell 22.28%
   - [china] Lufax Holding: Loan sales edged higher, but rising credit losses drove a CNY 1.494B net loss
-  - [korea] SK Hynix delivered on third-quarter results - but the outlook is what really mattered to Wall Street and the A
   - [china] Beijing United Information Technology's Units Plan To Purchase Servers Worth 1.5 Billion Yuan
-  - [korea] Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [china] Gotion High Tech Q3 Net Loss At 537.0 Million Yuan
   - [china] Power Construction Corporation Of China Jan-Sep New Contracts Signed Totalled 807.98 Billion Yuan
   - [china] Sansteel Minguang Co Ltd Fujian Q3 Net Loss At 434.4 Million Yuan
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan inflation could rise if energy subsidies end: Central bank
   - [korea] Kospi at two-week high as SK Hynix’s $75 bn payout plan, record profit fan tech rally
   - [china] China's New Export Restrictions Protect Its AI Crown Jewels
-  - [taiwan] Drone supply chains key to wartime endurance: AerosoarX chairman
-  - [japan] Kamgras1 Raises Share Tender Price For Kakaku.Com To 3683 Yen Per Share From 3682 Yen, Filing Shows
-  - [japan] Prime Minister Takaichi received proposals from the Japan Restoration Association regarding countermeasures fo
-  - [china] Mercedes-Benz CEO: China Will Remain a Very Important Part of Our Business
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T11:12:45+00:00",
+      "published_utc": "2026-10-28T11:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

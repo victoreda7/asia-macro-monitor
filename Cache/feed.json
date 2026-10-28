@@ -1,13 +1,13 @@
 {
- "generated_at_utc": "2026-10-28T11:12:44.967208+00:00",
- "collected_at_utc": "2026-10-28T11:12:44.967208+00:00",
+ "generated_at_utc": "2026-10-28T11:22:45.095104+00:00",
+ "collected_at_utc": "2026-10-28T11:22:45.095104+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 922,
-  "china": 840,
+  "japan": 921,
+  "china": 841,
   "taiwan": 388,
   "korea": 850
  },
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T02:37:04+00:00"
+   "newest": "2026-10-28T08:51:46+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:52:00+00:00"
+   "newest": "2026-10-28T11:13:00+00:00"
   },
   {
    "source_id": "focus_taiwan",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T08:13:00+00:00"
+   "newest": "2026-10-28T10:33:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T19:52:22+09:00"
+   "newest": "2026-10-28T20:12:14+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T11:02:04+00:00"
+   "newest": "2026-10-28T11:22:13+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T07:35:33+00:00"
+   "newest": "2026-10-28T10:35:35+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -339,10 +339,95 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-25T22:30:00+00:00"
+   "newest": "2026-10-28T10:00:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com",
+   "url": "https://www.tradingview.com/news/DJN_DN20261028002795:0-micron-stock-pops-as-rival-sk-hynix-fuels-ai-frenzy-with-two-bombshells-barrons-com/",
+   "published_utc": "2026-10-28T11:14:00+00:00",
+   "title_original": "Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4a164cd26e200e32"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China's September net gold imports via Hong Kong hit five-month high in September",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E0E7:0-china-s-september-net-gold-imports-via-hong-kong-hit-five-month-high-in-september/",
+   "published_utc": "2026-10-28T11:13:51+00:00",
+   "title_original": "China's September net gold imports via Hong Kong hit five-month high in September",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "b71ad1e911f0aa84"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Cantor Fitzgerald reiterates Overweight rating on SK hynix, $250 price target",
+   "url": "https://www.tradingview.com/news/tradingview:91b23bee55a7e:0-cantor-fitzgerald-reiterates-overweight-rating-on-sk-hynix-250-price-target/",
+   "published_utc": "2026-10-28T11:11:57+00:00",
+   "title_original": "Cantor Fitzgerald reiterates Overweight rating on SK hynix, $250 price target",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c949443dba11be60"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Shenzhen Edadoc Technology's Unit Plans To Invest About 1 Billion Yuan In PCB Project",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46E199:0-shenzhen-edadoc-technology-s-unit-plans-to-invest-about-1-billion-yuan-in-pcb-project/",
+   "published_utc": "2026-10-28T11:10:51+00:00",
+   "title_original": "Shenzhen Edadoc Technology's Unit Plans To Invest About 1 Billion Yuan In PCB Project",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "a9da59ba64f41ebc"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "MarketWatch",
+   "title_en": "SK Hynix delivered on third-quarter results - but the outlook is what really mattered to Wall Street and the AI trade",
+   "url": "https://www.tradingview.com/news/DJN_SN20261028004147:0-sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade/",
+   "published_utc": "2026-10-28T11:08:00+00:00",
+   "title_original": "SK Hynix delivered on third-quarter results - but the outlook is what really mattered to Wall Street and the AI trade",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "238255c0e59d50ac"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
@@ -427,6 +512,23 @@
    "live_wire": true,
    "manual": false,
    "id": "50366ba87a69b5d6"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "BBS불교방송",
+   "title_en": "[Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUMmY1NERtZnRUdmVvZjVrZFJsT0lSZlVUX2hhZUVPUmRzbFpLclhNU1ljNjlIR2RYYnNYb0xydzBzVXN6dHdZWXRsb0JITWZRbTlJbER2UUZlN3RJMUpaTFJJaHFjYmNEVlpV?oc=5",
+   "published_utc": "2026-10-28T10:00:00+00:00",
+   "title_original": "[경제 오딧세이]한국은행, 기준금리 동결...11월의 선택은?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "933077e50859dca4"
   },
   {
    "source_id": "tradingview_live",
@@ -566,23 +668,6 @@
   },
   {
    "source_id": "tradingview_live",
-   "source_name": "MarketWatch",
-   "title_en": "SK Hynix delivered on third-quarter results - but the outlook is what really mattered to Wall Street and the AI trade",
-   "url": "https://www.tradingview.com/news/DJN_SN20261028004147:0-sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade/",
-   "published_utc": "2026-10-28T09:26:00+00:00",
-   "title_original": "SK Hynix delivered on third-quarter results - but the outlook is what really mattered to Wall Street and the AI trade",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "238255c0e59d50ac"
-  },
-  {
-   "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Beijing United Information Technology's Units Plan To Purchase Servers Worth 1.5 Billion Yuan",
    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46E0WC:0-beijing-united-information-technology-s-units-plan-to-purchase-servers-worth-1-5-billion-yuan/",
@@ -597,23 +682,6 @@
    "live_wire": true,
    "manual": false,
    "id": "47c953282f618f8e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com",
-   "url": "https://www.tradingview.com/news/DJN_DN20261028002795:0-micron-stock-pops-as-rival-sk-hynix-fuels-ai-frenzy-with-two-bombshells-barrons-com/",
-   "published_utc": "2026-10-28T09:16:00+00:00",
-   "title_original": "Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4a164cd26e200e32"
   },
   {
    "source_id": "tradingview_live",
@@ -1063,23 +1131,6 @@
    "id": "2ae4e5943bc0dd31"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korean shares post biggest jump in 3 months as SK Hynix beats forecasts",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E088:0-south-korean-shares-post-biggest-jump-in-3-months-as-sk-hynix-beats-forecasts/",
-   "published_utc": "2026-10-28T07:27:12+00:00",
-   "title_original": "South Korean shares post biggest jump in 3 months as SK Hynix beats forecasts",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "aa44c6f3e950ea92"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Analysis-China’s new export curbs draw a line around its AI crown jewels",
@@ -1112,40 +1163,6 @@
    "live_wire": false,
    "manual": false,
    "id": "2fe4ee0dd81d325a"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "Amended: SK Hynix Earnings Up In Q3; Shares Surge",
-   "url": "https://www.tradingview.com/news/dpa_afx:03007198d9c42:0-amended-sk-hynix-earnings-up-in-q3-shares-surge/",
-   "published_utc": "2026-10-28T07:11:47+00:00",
-   "title_original": "Amended: SK Hynix Earnings Up In Q3; Shares Surge",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3c1e7d2a5a0ef374"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "China's Economic Growth Likely to Stabilize in 4Q — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261028001909:0-china-s-economic-growth-likely-to-stabilize-in-4q-market-talk/",
-   "published_utc": "2026-10-28T07:10:00+00:00",
-   "title_original": "China's Economic Growth Likely to Stabilize in 4Q — Market Talk",
-   "region": "china",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1b77d26461a37970"
   },
   {
    "source_id": "gn_tw_cna",
@@ -2748,7 +2765,7 @@
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The reason why the report card for the first year of the Takaichi administration is ``barely passing in fiscal policy and 80 points in monetary policy'' (Newsweek Japan version)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2djelRsc3YxV25OVnM0aFdkRVhkNWZRbF9BbnByQzMtOTcybEFQTjFxenRZWmJxOXltU2JuR2szVVFiTXRpRFdpQ0N6dklRemVCaV9Ta2ZaYW9ZQ1ZLSW9OeUlGaElWYUhnZ1p5T0NYd0c4bTYzS3NWcXA4eDRXWFRZdFREYjFEdzdtLWRR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDBmRmM5X0o2M1JhZ095QjZiTkhOcWRjWlk3NWQyNEltUWs0UEJQRk9yWFpTemFKVzFXcWtLSndhWldZbFAwb1BUVzZyblZKSlI4YmhWTlR6ekY5b3I5ZFVnbE5hR2pybEo1WHh0aGJ5UGNyZW8yVFZuMEhnd2tNdm0zc000cVJF?oc=5",
    "published_utc": "2026-10-27T11:50:06+00:00",
    "title_original": "高市政権発足1年の成績表「財政政策はぎりぎり合格、金融政策は80点」と言える理由（ニューズウィーク日本版）",
    "region": "japan",
@@ -2761,7 +2778,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "57824ed6928a12f1"
+   "id": "4d24175a3b178b53"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -12247,6 +12264,25 @@
    "id": "951d8323bfbea52c"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "시사뉴스",
+   "title_en": "The Bank of Korea keeps a close eye on inflation and housing prices and freezes the base interest rate at 3% per year after raising it for two consecutive months.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IbHNEeWM4bWxfNXBQdDFVeThaTXBQbkZGb3hiZEJDZDZnNXJ0UWQySWtnNlR1Vl84aGVoUXhWTnZpRXFtTWx2dzNZcWROVmM2T2hTT1JXaFpzOTV1bmszOWJFUQ?oc=5",
+   "published_utc": "2026-10-22T04:26:27+00:00",
+   "title_original": "한국은행, 물가와 집값 등 예의주시하며 기준금리 두달 연속 인상 후 연 3%로 동결",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "inflation",
+    "property"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e7681f0c0cef03de"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "Nvidia taps Korean component makers for AI chips, robots",
@@ -12279,23 +12315,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e841288bedeb8aa8"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "세상을 바꾸는 시민언론 민들레",
-   "title_en": "Bank of Korea stops raising interest rates... Tightening speed control",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Ylk3ZnZlc19UMUc1U09DN2Q5WFdGZk5wT1R6Vnp4eGk1b1Q5WjlEbFhyaWtOWTBaMnVDZXM3UGREcmIzWWVBM3hfY1lOU09kV1AyMVlTX1RTMFhjbTF2MzJSMTY2RGdCaHhwTw?oc=5",
-   "published_utc": "2026-10-22T04:10:00+00:00",
-   "title_original": "기준금리 인상 멈춘 한국은행…긴축 속도 조절",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9c4829ceb49aac68"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -51852,23 +51871,6 @@
    "live_wire": true,
    "manual": false,
    "id": "0d6c88b7fc3a01db"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Prices in Tokyo's wards rose 2.7% in September...an increase of 2% for the first time in eight months (Yomiuri Shimbun Online)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55dXNHNGJaWTVWWDE3LVVuZ25TRkNJSTI1QzZxLUpqMHhoSEp5ZW9lbHlZbTJqcklUWHljdHNXRHN4bUNXTmtyZ21QTzQtVXlBQnVVSWV2TlAtOGJrM0MxcEp5ejhuSXh3Q01lc3NIakVRelAwYWhVd3B1cXRKVWM?oc=5",
-   "published_utc": "2026-10-01T23:38:34+00:00",
-   "title_original": "９月の東京都区部物価、２・７％上昇…８か月ぶり２％台の上げ幅（読売新聞オンライン）",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ecc61ca4998a0575"
   },
   {
    "source_id": "manual_ia",
