@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-28T05:09:24.435065+00:00",
- "collected_at_utc": "2026-10-28T05:09:24.435065+00:00",
+ "generated_at_utc": "2026-10-28T05:12:45.830837+00:00",
+ "collected_at_utc": "2026-10-28T05:12:45.830837+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 387,
   "korea": 850
  },
- "elapsed_s": 31.2,
+ "elapsed_s": 31.4,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-28T02:16:20+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 27,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:25:23+00:00"
+   "newest": "2026-10-27T05:46:33+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:00:08+00:00"
+   "newest": "2026-10-28T03:00:10+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T05:07:51+00:00"
+   "newest": "2026-10-28T05:12:12+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T23:35:59+00:00"
+   "newest": "2026-10-28T02:11:13+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -2317,8 +2317,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2333,7 +2333,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -5642,9 +5642,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -5656,7 +5656,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b972d8c6ac9362b"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5848,6 +5848,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -6453,24 +6471,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -8238,7 +8238,7 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "东方财富网",
+   "source_name": "东方财富",
    "title_en": "The central bank will launch a 700 billion yuan MLF operation on October 26, with a reduction of 200 billion yuan.",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5Zmw5cXBXaHJuYURNaGlPR0kzSEszWlgzLUo3RlNmZFc1RDZiQ0E4UWRTVTVQRG9ya0psOVdnLWxOTGdRUkVJWmNqM1FfTF9FUnhZb1ZlRnVOVFBZbTNRTDZZVlY1bjQ?oc=5",
    "published_utc": "2026-10-23T09:19:04+00:00",
@@ -9141,24 +9141,6 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "湖南红网",
-   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JOU4xQURkbWUzMkFXZkI1bXRrZHNtckpVaHE1YVd5TXZkbWJCTEJKYnNYQmVnZUQ2OXlSNWFrZkFDZzVCZ21NeG1IWDFtcEkyUkRWOFpTaVpoLWZUdFNvRC1fR3lVUQ?oc=5",
-   "published_utc": "2026-10-23T02:15:26+00:00",
-   "title_original": "央行开展2580亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "649f01690852552b"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
@@ -9226,6 +9208,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ab3208d7cfdf114d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wemhzYTYzWkM3NllscXN6dkhkenVwRnlxSm5MZFVmYU1XRkNJamFXLU1zTHJkTFY2LUlOT3JneUctb3o4RVNKb2RTaFVJMUtkMFlsWjVhM1pGdDJrRlU0d2IzSlotY29f?oc=5",
+   "published_utc": "2026-10-23T01:53:53+00:00",
+   "title_original": "央行开展2580亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b449075bd88b714"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -9937,6 +9937,23 @@
    "id": "ec606647456dc1ab"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "YTN",
+   "title_en": "[Start Economy] The Bank of Korea unanimously freezes the base interest rate at 3% per annum... Will it be raised in November?",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4dWczYUlhbGF6alpycXF3ZzRyUXdjUXI4MUllTXVFbXVfX0pmYnVLVXlGT1FRWVQxckd2RFRwZlY1WUVzeDd0cGtHZHZqM00xSjNWUTRrN1RDRmFWbGc?oc=5",
+   "published_utc": "2026-10-22T22:27:00+00:00",
+   "title_original": "[스타트 경제] 한은, 기준금리 연 3%로 만장일치 동결...11월 인상?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b3580e037cbbf028"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "dpa-AFX",
    "title_en": "Japan Inflation Data Due On Friday",
@@ -10054,6 +10071,23 @@
    "live_wire": false,
    "manual": false,
    "id": "6c4c3afc2afea619"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "MBC 뉴스",
+   "title_en": "Bank of Korea freezes base interest rate at 3.0% per annum, possibility of further increase",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3UUZScEZDeUlPU1BELWRoYllERG82ZF9ZNEN6d3p1bTJUWktvbTZqR3BWZHF1MUNUcTNxazQyZFVSTXJpblJVU3k3dmEydjVnSGFFR29hdFpndXo4bTJabjU2MEt3VlV2clJreHF0RWVHUVV1Z0Nxdll30gF6QVVfeXFMT0xDQ2ppTWZkR2tEeS04NV9LUXdEODRGajRWUlpqZ3B1UGVkZGZicnhCTE1XUFd1WjYyTWhrNUFaSlpvNEFlN3ZnOEFVc1dKc1dYRWZzdHNUN3ZMMnpYWW02MExLTDFRTFZDM1RYdWxZb0Q5SkNJRHl1ZHc?oc=5",
+   "published_utc": "2026-10-22T21:32:37+00:00",
+   "title_original": "한은, 기준금리 연 3.0% 동결‥추가 인상 가능성",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "947952a8ebce67d7"
   },
   {
    "source_id": "gn_jp_investing",
@@ -10401,6 +10435,23 @@
    "id": "686ce58d0422e0ec"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "중앙일보",
+   "title_en": "Shin Hyun-song emphasized ‘hoeing’… Bank of Korea freezes interest rates by 3% per year",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YdHVHZHlEMlVpbGJvSkQ0R0w2cEZseFdUQmNtMHliYnI1cjJHX3lqdlktSjR6V0dWeWZZUXJ5UURidHBLVGpIeE1sWDF1dzJ1TmpwekxR?oc=5",
+   "published_utc": "2026-10-22T15:02:00+00:00",
+   "title_original": "‘호미질’ 강조했던 신현송…한은 금리 연 3% 동결",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "061324ecdd0c2c87"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Nippon Steel to invest $3 billion in modernizing U.S. Steel factory equipment, says Nikkei",
@@ -10675,6 +10726,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b0c78645e8617878"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "국제신문",
+   "title_en": "The Bank of Korea freezes its base interest rate by 3%... Maintaining tightness, possibility of another hike next month amidst speed control (comprehensive)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSjZNNnZ5Xy1icFB6MnE2QnVvNUd0U1g1N28zVXhfMVBqMlVKWVg4ZVdibUd5NmVfLWdvVTN2cW0yLWh1MWNWS3JzTXd3N0NjeXJkbXNybUlYcHpjWTRlTS1SMDV4cWl6RTNvTHlGZWg1Q1EzUDhKS1RhSUhpVm5HelB1X2NJQWdYMndyeFNR?oc=5",
+   "published_utc": "2026-10-22T10:34:00+00:00",
+   "title_original": "한은 기준금리 3% 동결…긴축 유지, 속도조절 속 내달 다시 인상 가능성(종합)",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "336353c1b4d4b8df"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -11175,6 +11243,23 @@
    "id": "fac5fce3cd370fb4"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "네이버페이 머니스토리",
+   "title_en": "The Bank of Korea, which had been raising the base interest rate, now freezes it at 3.00%... What is the background?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fdmE2NlhjLWxpQ3dObWNRYVlTMnJIV2UyczQ0SXVmazFFcXBkbnloR1B5WGtYeWlvVzlMRlBnVGlRSEtiT2VGSnRjTm8wQXhuTFE?oc=5",
+   "published_utc": "2026-10-22T06:50:01+00:00",
+   "title_original": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b4fcebcd8480f063"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Retail investors lose $4.8bn on Samsung, SK hynix leveraged ETFs in 80 days",
@@ -11348,6 +11433,24 @@
    "live_wire": false,
    "manual": false,
    "id": "36457313463330e2"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "더구루",
+   "title_en": "The Bank of Korea freezes the base interest rate by 3% as expected... Is the real estate market in a wait-and-see mode?",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xUFBnRGRqV210alpJM3lYTDUyMFJNaTdwSVk1R1prYmxVMTFDdnJhMm1rN1BvVWRDVWlTdjhaRFQwVGtYajdIYmg4UWxFOGVadXJIZ3AxTjBDN0RoYjVNVnIyOA?oc=5",
+   "published_utc": "2026-10-22T06:05:54+00:00",
+   "title_original": "한은, 예상대로 기준금리 3% 동결…부동산 시장 관망세 이어지나",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "property"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6dd68c4874e5e3ec"
   },
   {
    "source_id": "gn_tw_cna",
@@ -11630,23 +11733,6 @@
    "id": "e841288bedeb8aa8"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "세상을 바꾸는 시민언론 민들레",
-   "title_en": "Bank of Korea stops raising interest rates... Tightening speed control",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Ylk3ZnZlc19UMUc1U09DN2Q5WFdGZk5wT1R6Vnp4eGk1b1Q5WjlEbFhyaWtOWTBaMnVDZXM3UGREcmIzWWVBM3hfY1lOU09kV1AyMVlTX1RTMFhjbTF2MzJSMTY2RGdCaHhwTw?oc=5",
-   "published_utc": "2026-10-22T04:10:00+00:00",
-   "title_original": "기준금리 인상 멈춘 한국은행…긴축 속도 조절",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9c4829ceb49aac68"
-  },
-  {
    "source_id": "gn_cn_reuters",
    "source_name": "Reuters",
    "title_en": "China bets on manufactured water, and wants to sell it to the world",
@@ -11733,24 +11819,6 @@
    "id": "6d9d439c8ec5d2e5"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴데일리",
-   "title_en": "[Photo] Bank of Korea monetary policy direction meeting... base interest rate maintained at 3.00% per annum",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2VHlkMkE0WVJIR3ZZeTcxeVpmODVoMlliN0U3azQxV1dxLVNYWHQ5U3I1T1dTTnlJVERQeDNFN1pDS2hORGR6bmJjWHoyVW5CNHNXbVRqSVpKYjlCdy05TmVrUXhjRGJnMFc0TlRJNDMzNkpUUVZEdWtPa9IBgAFBVV95cUxNaFNway1GMzZOYnlZQ09fMVhnbWdIQkFraDRGWlJvZGhoZ0t6MERWMG1wWmtqNDVya1V3bkNYV2NGQXV0cWNZb2U4Q3BpZG5SNXE3bTc5X2VHQjVzaUJGWW5iY19fTVdBSkNBTTBEMTJ6eHB3M0VkWGpiU0MtX0VwUQ?oc=5",
-   "published_utc": "2026-10-22T03:21:00+00:00",
-   "title_original": "[포토] 한국은행 통화정책방향 간담회...기준금리 연3.00% 유지",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "54476456a6e333aa"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "U.S. Meta profits will increase significantly, with huge capital investment expected to continue in areas such as AI",
@@ -11801,40 +11869,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c8a37e047d11aac2"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "네이버페이 머니스토리",
-   "title_en": "The Bank of Korea, which had been raising the base interest rate, now freezes it at 3.00%... What is the background?",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tVG51ZUwybHpPWGpjLWVNNEY1dmZVa0V5bGh1UkZYNTJRZ01Na2xnOGZzbC1kUVh3OTJsNTRrZXNUVmptbHZJOXNwZlJJVmRXQWt0VmRSdElVQQ?oc=5",
-   "published_utc": "2026-10-22T03:09:24+00:00",
-   "title_original": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d700f0b6994fcf51"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "BBS불교방송",
-   "title_en": "Bank of Korea decides to freeze base interest rate at 3.00% per annum",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXRDNzQ0dMSVBIOG5Ib2h5Vnk3VmtQa0NvNnVJWUZGcC1LbW81WGN1eFlPSXVzVjdjOWRFbmhSVzdBVmNvWlNVT0ZfaVlPWDNYRU5McFRSc25FSFBzcXFNd3R6ZHVkYUlqRU5R?oc=5",
-   "published_utc": "2026-10-22T03:03:53+00:00",
-   "title_original": "한국은행 기준금리 연 3.00% 동결 결정",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b37ca66e91005b66"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -11940,40 +11974,6 @@
    "live_wire": false,
    "manual": false,
    "id": "12df48a92ffb874e"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "비즈니스포스트",
-   "title_en": "The Bank of Korea's base interest rate is frozen at 3.00% per year, and the interest rate difference between Korea and the United States is maintained at 1.00% point.",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uUVlJalBtNlVuQ250bm42aURXSk0zVjN4RURSQ3FVaC1PZ0RCRzJJV3YydW1fUmhSRGUyVzVVYk1GZm1DRjFvVmE5a2VmVUhreDA4RVhWNTRLV3A4LUdWbWtUNFR1VWM2OE11TE5IZDF3Ukk?oc=5",
-   "published_utc": "2026-10-22T02:44:47+00:00",
-   "title_original": "한국은행 기준금리 연 3.00%로 동결, 한국 미국 금리차 1.00%포인트 유지",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "70a0c3b39c458a86"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "YTN",
-   "title_en": "The Bank of Korea freezes the base interest rate at 3% per annum... \"Check the effect of the existing increase\"",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yUzZnZVhDU1FaUm5XZUw4NFhDZ3RaXzdJaE1faVBHUWpUaFEyWTlBVGs4TnJ5V3dWRWFVdGpoeWU4UUVyTHF4WnlYRlFWTm5rTXRIVkZFeTJKYzJrcEE?oc=5",
-   "published_utc": "2026-10-22T02:40:00+00:00",
-   "title_original": "한은, 기준금리 연 3%로 동결...\"기존 인상 효과 점검\"",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "6882e4624118e373"
   },
   {
    "source_id": "gn_kr_mk",
