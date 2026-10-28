@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T17:02:43.881507+00:00
+Última coleta: 2026-10-28T17:12:46.633345+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          910
-  🇨🇳 China          837
+  🇯🇵 Japão          909
+  🇨🇳 China          838
   🇹🇼 Taiwan         391
   🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [china] Tunisia sets 3.1 pct economic growth target for 2027
   - [korea] SK Hynix Shakes Up the AI Chip Stock Narrative
   - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
   - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Rosenblatt maintains Buy rating on SK hynix, $400 price target
   - [china] China Nonferrous Metal Industry's Foreign Engineering And Construction's Q3 New Contracts Total 3.2 Billion Yu
   - [china] Changjiang Publishing & Media Q3 Net Profit At 317.4 Million Yuan
-  - [japan] Finance Minister: Consumption tax cut “Support measures for farmers will be materialized during the budget for
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T17:02:44+00:00",
+      "published_utc": "2026-10-28T17:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
