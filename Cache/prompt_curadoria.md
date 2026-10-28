@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T06:12:43.755177+00:00
+Última coleta: 2026-10-28T06:22:43.706809+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
@@ -48,7 +48,6 @@ Total: 3000 manchetes
   - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] Why is SK Hynix stock surging today?
   - [korea] South Korean won, Philippine peso lead declines among Asian currencies
-  - [japan] What's New October, 2026 : Ministry of Finance
   - [korea] Micron recruits in South Korea for Taiwan roles as Taoyuan strike dispute persists
   - [taiwan] Cathie Wood Extends Archer, Joby Buying Spree; Ark Sells More AMD, Taiwan Semiconductor Shares
   - [korea] SK hynix’s $45bn shareholder return plan lifts chip stocks
@@ -57,6 +56,7 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7165 WEDS VS 6.7171
   - [japan] Japan bond yields rise as haven demand recedes, BOJ meeting looms
+  - [taiwan] Taiwan Central Bank Chief: Never Said CPI Cannot Remain Above +2%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T06:12:43+00:00",
+      "published_utc": "2026-10-28T06:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
