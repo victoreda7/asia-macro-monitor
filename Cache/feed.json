@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-28T15:52:46.573585+00:00",
- "collected_at_utc": "2026-10-28T15:52:46.573585+00:00",
+ "generated_at_utc": "2026-10-28T16:02:43.843242+00:00",
+ "collected_at_utc": "2026-10-28T16:02:43.843242+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 393,
   "korea": 860
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:39:11+00:00"
+   "newest": "2026-10-28T06:30:03+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T14:49:26+00:00"
+   "newest": "2026-10-28T13:41:27+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-28T02:16:20+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-29T00:03:06+09:00"
+   "newest": "2026-10-29T00:56:18+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "error": "",
    "newest": "2026-10-28T01:25:23+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T15:51:49+00:00"
+   "newest": "2026-10-28T16:02:09+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:35:35+00:00"
+   "newest": "2026-10-28T13:36:11+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -283,7 +283,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T11:35:45+00:00"
+   "newest": "2026-10-28T15:49:15+00:00"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -343,6 +343,24 @@
   }
  ],
  "items": [
+  {
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
+   "title_en": "Japan-Germany summit meeting agrees to strengthen cooperation, including strengthening supply chain",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67318",
+   "published_utc": "2026-10-28T15:56:18+00:00",
+   "title_original": "日独首脳会談 サプライチェーン強じん化など協力強化で一致",
+   "region": "japan",
+   "topics": [
+    "trade",
+    "signaling"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "70d71e226e173bda"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "GuruFocus",
@@ -925,23 +943,6 @@
    "live_wire": false,
    "manual": false,
    "id": "68a2f837df48a5df"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Japan-Germany Summit Meeting Prime Minister: “We want to deepen cooperation as premium partners”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de67318",
-   "published_utc": "2026-10-28T11:46:00+00:00",
-   "title_original": "日独首脳会談 首相“プレミアム・パートナーで連携深めたい”",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f8da21e1def5a05c"
   },
   {
    "source_id": "tradingview_live",
@@ -2974,8 +2975,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2990,7 +2991,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "focus_taiwan",
@@ -6383,24 +6384,6 @@
    "id": "e12668b3e0b0dbdc"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVUxuT01uNzVGcWdXNjJsNmZXY2tjajQ2NGcxeWVaNkRRLUtSNlFoTGhfeGhhYUNENUNRY01PVF9mVDVmTl8tZGlYTFNOMEtGd2lVZmg0SzljbnUtQUs0aXVNU0hkanJZMHlXS0VZTzFBcm8ydlZhRU5LcDhCWUVCMUhqMWZ4VTI3akE?oc=5",
-   "published_utc": "2026-10-26T03:09:06+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "26723466cf9fd537"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks expected to maintain tight lending standards in Q4: BOK survey",
@@ -8213,6 +8196,24 @@
    "live_wire": true,
    "manual": false,
    "id": "9f5caab2bcd6c61a"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
+   "published_utc": "2026-10-23T14:14:15+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",
@@ -17516,24 +17517,6 @@
    "id": "5aa8fdba097a496d"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Japan consumption tax cut bill on food goes to Lower House",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
-   "published_utc": "2026-10-20T07:00:00+00:00",
-   "title_original": "Japan consumption tax cut bill on food goes to Lower House",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "70e124fbcd6d9970"
-  },
-  {
    "source_id": "gn_jp_yahoo",
    "source_name": "Yahoo!ニュース",
    "title_en": "The prefecture's economy is on a \"moderate recovery trend\", Bank of Japan's Councilor Koeda gives a speech in Kumamoto City (Kumamoto Nichinichi Shimbun)",
@@ -19055,6 +19038,24 @@
    "live_wire": false,
    "manual": false,
    "id": "156428881b01eb40"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Japan consumption tax cut bill on food goes to Lower House",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTjE2OElMaEFSZTQ2V0w0SkFvZ2JEcEEyV19tX2ttcVZFV1dFb2MtdW1QandSYTFzREUtVHBuUjJ4anVqWmdLM3l2UHZJZl90RzRxSFFfTWNJc2FETGRVQWp6OA?oc=5",
+   "published_utc": "2026-10-19T15:12:00+00:00",
+   "title_original": "Japan consumption tax cut bill on food goes to Lower House",
+   "region": "japan",
+   "topics": [
+    "fiscal",
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "70e124fbcd6d9970"
   },
   {
    "source_id": "gn_cn_scmp",

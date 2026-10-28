@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T15:52:46.573585+00:00
+Última coleta: 2026-10-28T16:02:43.843242+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          910
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan-Germany summit meeting agrees to strengthen cooperation, including strengthening supply chain
   - [korea] Samsung Electronics Stocks Rally 9% Ahead of Earnings and Cash-Return Details
   - [china] China’s Policy Banks Complete 800 Billion Yuan Financing Push
   - [korea] SK Hynix Stock Rallies as Chipmaker Plans Massive Buyback and Special Dividend
@@ -51,7 +52,6 @@ Total: 3000 manchetes
   - [china] Changjiang Publishing & Media Q3 Net Profit At 317.4 Million Yuan
   - [china] Yunnan Coal & Energy Q3 Net Loss At 397.8 Million Yuan
   - [japan] Finance Minister: Consumption tax cut “Support measures for farmers will be materialized during the budget for
-  - [japan] Japan-Germany Summit Meeting Prime Minister: “We want to deepen cooperation as premium partners”
   - [taiwan] Taiwan's UMC Q3 revenue rises on wafer shipments growth
   - [taiwan] BRIEF-United Microelectronics Q3 Revenue TWD 74,240 Million
   - [korea] Asia report: SK Hynix leads chip rally after record profits
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T15:52:46+00:00",
+      "published_utc": "2026-10-28T16:02:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
