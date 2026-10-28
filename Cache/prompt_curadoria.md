@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T07:22:44.046999+00:00
+Última coleta: 2026-10-28T07:32:44.863004+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
-  🇨🇳 China          831
+  🇨🇳 China          830
   🇹🇼 Taiwan         387
-  🇰🇷 Coreia do Sul  849
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [japan] Chuo Spring Co Ltd - To Buy Back Up To 17.8% Of Own Shares Worth 15 Billion Yen
+  - [korea] South Korean shares post biggest jump in 3 months as SK Hynix beats forecasts
   - [korea] Kospi hits two-week high on tech rally as SK Hynix plans $75 bn payout on record profit
   - [korea] Amended: SK Hynix Earnings Up In Q3; Shares Surge
   - [china] China's Economic Growth Likely to Stabilize in 4Q — Market Talk
@@ -50,13 +52,11 @@ Total: 3000 manchetes
   - [china] China's yuan hovers near 4-year high ahead of Fed decision
   - [korea] SK hynix: Record Q3 earnings, tight AI-memory supply and ~KRW 100tn in planned shareholder returns
   - [korea] SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush
-  - [japan] Stock price rise Buy orders for stocks such as semiconductors
   - [japan] Yurtec Corp - To Buy Back Up To 2.47% Of Shares Worth 5.5 Billion Yen
+  - [japan] Stock price rise Buy orders for stocks such as semiconductors
   - [japan] The Japanese economy is now an AI-powered economy, with capital investment in exports, stock prices, and even 
   - [korea] Asia stocks rally as SK Hynix earnings boost AI trade; Fed decision ahead
   - [korea] South Korean Stocks Rally as SK Hynix Payout and AI Optimism Boost Markets
-  - [korea] Why is Samsung Electronics stock surging today?
-  - [korea] Foreign currency deposits rise to fresh record high in Sept.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T07:22:44+00:00",
+      "published_utc": "2026-10-28T07:32:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

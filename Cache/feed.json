@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-28T07:22:44.046999+00:00",
- "collected_at_utc": "2026-10-28T07:22:44.046999+00:00",
+ "generated_at_utc": "2026-10-28T07:32:44.863004+00:00",
+ "collected_at_utc": "2026-10-28T07:32:44.863004+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 933,
-  "china": 831,
+  "china": 830,
   "taiwan": 387,
-  "korea": 849
+  "korea": 850
  },
  "elapsed_s": 29.7,
  "sources": [
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T03:55:00+00:00"
+   "newest": "2026-10-28T06:58:00+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T05:56:00+00:00"
+   "newest": "2026-10-28T07:29:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T15:34:36+09:00"
+   "newest": "2026-10-28T16:22:28+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T07:21:25+00:00"
+   "newest": "2026-10-28T07:31:44+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T06:47:14+00:00"
+   "newest": "2026-10-28T07:11:32+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T03:00:10+00:00"
+   "newest": "2026-10-27T10:05:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T06:48:26+00:00"
+   "newest": "2026-10-28T07:26:39+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Chuo Spring Co Ltd - To Buy Back Up To 17.8% Of Own Shares Worth 15 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46E0RZ:0-chuo-spring-co-ltd-to-buy-back-up-to-17-8-of-own-shares-worth-15-billion-yen/",
+   "published_utc": "2026-10-28T07:31:19+00:00",
+   "title_original": "Chuo Spring Co Ltd - To Buy Back Up To 17.8% Of Own Shares Worth 15 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0822c54041ee3875"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "South Korean shares post biggest jump in 3 months as SK Hynix beats forecasts",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46E088:0-south-korean-shares-post-biggest-jump-in-3-months-as-sk-hynix-beats-forecasts/",
+   "published_utc": "2026-10-28T07:27:12+00:00",
+   "title_original": "South Korean shares post biggest jump in 3 months as SK Hynix beats forecasts",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "aa44c6f3e950ea92"
+  },
   {
    "source_id": "gn_kr_ked",
    "source_name": "KED Global",
@@ -911,23 +945,6 @@
    "id": "04b16dd481103030"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
-   "title_en": "Stock price rise Buy orders for stocks such as semiconductors",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66876",
-   "published_utc": "2026-10-28T03:32:49+00:00",
-   "title_original": "株価 値上がり 半導体などの銘柄に買い注文",
-   "region": "japan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f16c82c2ea7f75ca"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Yurtec Corp - To Buy Back Up To 2.47% Of Shares Worth 5.5 Billion Yen",
@@ -943,6 +960,23 @@
    "live_wire": true,
    "manual": false,
    "id": "2be1b882f1386ebe"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "Stock price rise Buy orders for stocks such as semiconductors",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261028de66876",
+   "published_utc": "2026-10-28T03:32:00+00:00",
+   "title_original": "株価 値上がり 半導体などの銘柄に買い注文",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f16c82c2ea7f75ca"
   },
   {
    "source_id": "toyo_keizai",
@@ -1202,40 +1236,6 @@
    "live_wire": true,
    "manual": false,
    "id": "ae3b2dfce506be0c"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY151 BLN VIA 7-DAY REVERSE REPO WEDS",
-   "url": "https://www.tradingview.com/news/dpa_afx:2f23e336df8f4:0-china-pboc-conducts-cny151-bln-via-7-day-reverse-repo-weds/",
-   "published_utc": "2026-10-28T02:05:22+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY151 BLN VIA 7-DAY REVERSE REPO WEDS",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "790874a76d2998cc"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "dpa-AFX",
-   "title_en": "CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO WEDS",
-   "url": "https://www.tradingview.com/news/dpa_afx:a0d4df419b8a5:0-china-pboc-conducts-cny1-trln-via-o-n-reverse-repo-weds/",
-   "published_utc": "2026-10-28T02:03:25+00:00",
-   "title_original": "CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO WEDS",
-   "region": "china",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "4e5227f540edc857"
   },
   {
    "source_id": "investing_live",
@@ -2419,8 +2419,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2435,7 +2435,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -2627,6 +2627,23 @@
    "live_wire": false,
    "manual": false,
    "id": "72c803f37cbe1229"
+  },
+  {
+   "source_id": "gn_cn_caixin",
+   "source_name": "Caixin Global",
+   "title_en": "China’s Industrial Profits Surge, but Recovery Remains Uneven",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnRCazZiVm4waEw0aXZQZm9pdmoyeG5lSFNSMHRSZmRCdEJQald6TlB4WHJhSkU0WHJWTG5pRkgxZ0N1eEtqVTJNaENSUFFFQ042ZVRGSWJYVVRXWUxiSlVJb3k4SUIzUmJjeThickVGbkpLWGRxV0tLQ0NRZENfbl9lUXRManZqZHkzTUpkSjFGbzgxS0E1NHlOOGlhOWpSV0JDN21NSDgxNHFUZ0ZNT3dPazk?oc=5",
+   "published_utc": "2026-10-27T08:31:00+00:00",
+   "title_original": "China’s Industrial Profits Surge, but Recovery Remains Uneven",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "d34708138858d4a1"
   },
   {
    "source_id": "focus_taiwan",
@@ -4639,6 +4656,23 @@
    "id": "a7d4014fc2be905c"
   },
   {
+   "source_id": "gn_jp_reuters",
+   "source_name": "Reuters",
+   "title_en": "Euro slips ahead of central bank meetings, real tumbles",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlRGQXNlMDJDS0ZlQnJqVlI0Q3FOUUhyZmpfcUY2TDJNOTA5a0NDMEc5QWpKZ3NrQlZ0QWJSMERlU2wzQlFxcWF0OVFRVlNOSUYydEdiaU5LaTFvVDMxTk5NWTF6NVVFZEdRcW8tOHpZRnlmWDhiRnV3QlllYnVtVldqTGllWmY2RnF1MWVlMFRBT0xWbHliN3pWM3NhQnNzRV80ZHJ5T0M?oc=5",
+   "published_utc": "2026-10-26T15:36:12+00:00",
+   "title_original": "Euro slips ahead of central bank meetings, real tumbles",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "91056d5e8fec4ce4"
+  },
+  {
    "source_id": "gn_cn_caixin",
    "source_name": "Caixin Global",
    "title_en": "Properties Pass Down China’s Construction Supply Chain in a ‘Debt Relay’",
@@ -4725,9 +4759,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
    "title_original": "10月26日央行开展560亿元7天期逆回购操作",
    "region": "china",
@@ -4739,7 +4773,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8166e1f4e20d2cef"
+   "id": "0facd9f9793a1c33"
   },
   {
    "source_id": "tradingview_live",
@@ -6055,23 +6089,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a26d9cbdf0108a88"
-  },
-  {
-   "source_id": "gn_jp_reuters",
-   "source_name": "Reuters",
-   "title_en": "Euro slips ahead of central bank meetings, real tumbles",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlRGQXNlMDJDS0ZlQnJqVlI0Q3FOUUhyZmpfcUY2TDJNOTA5a0NDMEc5QWpKZ3NrQlZ0QWJSMERlU2wzQlFxcWF0OVFRVlNOSUYydEdiaU5LaTFvVDMxTk5NWTF6NVVFZEdRcW8tOHpZRnlmWDhiRnV3QlllYnVtVldqTGllWmY2RnF1MWVlMFRBT0xWbHliN3pWM3NhQnNzRV80ZHJ5T0M?oc=5",
-   "published_utc": "2026-10-26T02:02:00+00:00",
-   "title_original": "Euro slips ahead of central bank meetings, real tumbles",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "91056d5e8fec4ce4"
   },
   {
    "source_id": "toyo_keizai",
@@ -51849,23 +51866,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4db06f4ff88f951a"
-  },
-  {
-   "source_id": "nikkei_asia",
-   "source_name": "Nikkei Asia",
-   "title_en": "BOJ debated more rate hikes to adjust 'accommodative' conditions: opinion summary",
-   "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-debated-more-rate-hikes-to-adjust-accommodative-conditions-opinion-summary",
-   "published_utc": "2026-10-01T17:42:45.564399+00:00",
-   "title_original": "BOJ debated more rate hikes to adjust 'accommodative' conditions: opinion summary",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e574200b8c801fdd"
   },
   {
    "source_id": "manual_ia",
