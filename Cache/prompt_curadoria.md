@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T11:33:06.723839+00:00
+Última coleta: 2026-10-28T11:42:44.036613+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          919
-  🇨🇳 China          841
-  🇹🇼 Taiwan         387
+  🇨🇳 China          840
+  🇹🇼 Taiwan         388
   🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] BRIEF-United Microelectronics Q3 Revenue TWD 74,240 Million
   - [korea] Asia report: SK Hynix leads chip rally after record profits
   - [korea] Nasdaq Futures Rise as SK Hynix Boosts Chip Sector Ahead of Fed Decision, Earnings Release
   - [korea] Nasdaq futures gain as SK Hynix lifts chips ahead of Fed decision, earnings
@@ -55,7 +56,6 @@ Total: 3000 manchetes
   - [china] Aoshikang Technology Plans To Invest 6 Billion Yuan In Project
   - [korea] Seoul shares soar over 6% on revived AI optimism, SK hynix earnings
   - [japan] Former Liberal Democratic Party Secretary-General Moriyama “Need to secure alternative revenue sources for con
-  - [china] Beijing Dabeinong Technology Q3 Net Loss At 125.3 Million Yuan
   - [japan] Who will lose the most from the Bank of Japan's interest rate hike?The irrationality of the ``valley generatio
 
 ## O que fazer
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T11:33:06+00:00",
+      "published_utc": "2026-10-28T11:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
