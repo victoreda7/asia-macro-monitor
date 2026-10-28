@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-28T11:02:46.598669+00:00",
- "collected_at_utc": "2026-10-28T11:02:46.598669+00:00",
+ "generated_at_utc": "2026-10-28T11:12:44.967208+00:00",
+ "collected_at_utc": "2026-10-28T11:12:44.967208+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 388,
   "korea": 850
  },
- "elapsed_s": 30.8,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -65,9 +65,9 @@
    "source_id": "focus_taiwan",
    "name": "Focus Taiwan (CNA)",
    "ok": true,
-   "count": 53,
+   "count": 54,
    "error": "",
-   "newest": "2026-10-28T16:18:03+08:00"
+   "newest": "2026-10-28T18:52:08+08:00"
   },
   {
    "source_id": "investing_live",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T10:35:44+00:00"
+   "newest": "2026-10-28T11:07:50+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:33:00+00:00"
+   "newest": "2026-10-28T08:13:00+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-28T02:16:20+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-28T09:53:03+00:00"
+   "newest": "2026-10-28T11:06:41+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T03:00:10+00:00"
+   "newest": "2026-10-27T10:05:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-25T22:30:00+00:00"
   }
  ],
  "items": [
@@ -1340,23 +1340,6 @@
    "id": "de5a728ea79b16ce"
   },
   {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "SK Hynix profits soar amid roaring AI chip demand",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rSWRLVno2ZTFHT0dYMmVLOUxLZ3g4WGpUc21VU3lFV3BWY3p6VmRLX0N1WWJjbVd3SGRTa3U4OHZaVzJUMlJVRldEd1dkMkw1RmdqYTZudUpZbGF6TE8xQWhoaTR6cHZNNVI1dmxzZ3U?oc=5",
-   "published_utc": "2026-10-28T04:13:20+00:00",
-   "title_original": "SK Hynix profits soar amid roaring AI chip demand",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "619da149fa1964a5"
-  },
-  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush",
@@ -1668,6 +1651,23 @@
    "live_wire": false,
    "manual": false,
    "id": "b659c9985e626793"
+  },
+  {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "SK Hynix profits soar amid roaring AI chip demand",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rSWRLVno2ZTFHT0dYMmVLOUxLZ3g4WGpUc21VU3lFV3BWY3p6VmRLX0N1WWJjbVd3SGRTa3U4OHZaVzJUMlJVRldEd1dkMkw1RmdqYTZudUpZbGF6TE8xQWhoaTR6cHZNNVI1dmxzZ3U?oc=5",
+   "published_utc": "2026-10-28T01:15:00+00:00",
+   "title_original": "SK Hynix profits soar amid roaring AI chip demand",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "619da149fa1964a5"
   },
   {
    "source_id": "scmp_business",
@@ -2781,8 +2781,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2797,7 +2797,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -11827,23 +11827,6 @@
    "id": "fac5fce3cd370fb4"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "네이버페이 머니스토리",
-   "title_en": "The Bank of Korea, which had been raising the base interest rate, now freezes it at 3.00%... What is the background?",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fdmE2NlhjLWxpQ3dObWNRYVlTMnJIV2UyczQ0SXVmazFFcXBkbnloR1B5WGtYeWlvVzlMRlBnVGlRSEtiT2VGSnRjTm8wQXhuTFE?oc=5",
-   "published_utc": "2026-10-22T06:50:01+00:00",
-   "title_original": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b4fcebcd8480f063"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Retail investors lose $4.8bn on Samsung, SK hynix leveraged ETFs in 80 days",
@@ -12296,6 +12279,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e841288bedeb8aa8"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "세상을 바꾸는 시민언론 민들레",
+   "title_en": "Bank of Korea stops raising interest rates... Tightening speed control",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Ylk3ZnZlc19UMUc1U09DN2Q5WFdGZk5wT1R6Vnp4eGk1b1Q5WjlEbFhyaWtOWTBaMnVDZXM3UGREcmIzWWVBM3hfY1lOU09kV1AyMVlTX1RTMFhjbTF2MzJSMTY2RGdCaHhwTw?oc=5",
+   "published_utc": "2026-10-22T04:10:00+00:00",
+   "title_original": "기준금리 인상 멈춘 한국은행…긴축 속도 조절",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9c4829ceb49aac68"
   },
   {
    "source_id": "gn_cn_reuters",
