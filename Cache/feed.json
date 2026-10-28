@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-28T02:32:41.825478+00:00",
- "collected_at_utc": "2026-10-28T02:32:41.825478+00:00",
+ "generated_at_utc": "2026-10-28T02:42:43.054337+00:00",
+ "collected_at_utc": "2026-10-28T02:42:43.054337+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 385,
   "korea": 843
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.5,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-28T02:12:56+00:00"
+   "newest": "2026-10-28T02:22:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:37:33+00:00"
+   "newest": "2026-10-27T18:45:06+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-28T02:30:00+00:00"
+   "newest": "2026-10-28T02:33:42+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T09:09:53+09:00"
+   "newest": "2026-10-28T11:41:28+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-28T05:33:00+09:00"
+   "newest": "2026-10-28T11:38:22+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:25:23+00:00"
+   "newest": "2026-10-27T05:46:33+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T13:19:44+00:00"
+   "newest": "2026-10-28T01:40:00+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T23:49:00+00:00"
+   "newest": "2026-10-28T01:40:00+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T22:00:15+00:00"
+   "newest": "2026-10-28T00:30:11+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T02:30:42+00:00"
+   "newest": "2026-10-28T02:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-28T11:00:00+09:00"
+   "newest": "2026-10-28T11:30:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-26T08:38:46+00:00"
+   "newest": "2026-10-26T12:19:40+00:00"
   }
  ],
  "items": [
@@ -1781,8 +1781,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -1797,7 +1797,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "focus_taiwan",
@@ -5121,9 +5121,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -5135,7 +5135,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b972d8c6ac9362b"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5327,6 +5327,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5932,24 +5950,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -7164,7 +7164,7 @@
    "source_name": "财联社",
    "title_en": "The central bank's MLF reduction in October was extended to 200 billion yuan to avoid excessive accumulation of medium and long-term liquidity and guide short-term interest rates in the money market to moderately recover.",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xNGhWS0VtYVFuczIwU29MeWt3UXNkajQwaEEwWXpTR3dSeEZxYWNCejJLRHRVNmpFeXZBT2dCTVdRNXV0SVl2OA?oc=5",
-   "published_utc": "2026-10-23T11:38:00+00:00",
+   "published_utc": "2026-10-23T11:40:41+00:00",
    "title_original": "央行10月MLF缩量续作2000亿元 避免中长期流动性过度叠加 引导货币市场短端利率适度回升",
    "region": "china",
    "topics": [
@@ -8620,24 +8620,6 @@
    "id": "4aeeb6c4911d26dc"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "湖南红网",
-   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JOU4xQURkbWUzMkFXZkI1bXRrZHNtckpVaHE1YVd5TXZkbWJCTEJKYnNYQmVnZUQ2OXlSNWFrZkFDZzVCZ21NeG1IWDFtcEkyUkRWOFpTaVpoLWZUdFNvRC1fR3lVUQ?oc=5",
-   "published_utc": "2026-10-23T02:15:26+00:00",
-   "title_original": "央行开展2580亿元隔夜逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "649f01690852552b"
-  },
-  {
    "source_id": "nhk_economy",
    "source_name": "NHK 経済",
    "title_en": "The consumption tax reduction bill was questioned by the House Finance Committee on the 27th and jointly reviewed on the 28th and agreed.",
@@ -8705,6 +8687,24 @@
    "live_wire": false,
    "manual": false,
    "id": "ab3208d7cfdf114d"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "中国新闻网",
+   "title_en": "The central bank launches 258 billion yuan overnight reverse repurchase operation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wemhzYTYzWkM3NllscXN6dkhkenVwRnlxSm5MZFVmYU1XRkNJamFXLU1zTHJkTFY2LUlOT3JneUctb3o4RVNKb2RTaFVJMUtkMFlsWjVhM1pGdDJrRlU0d2IzSlotY29f?oc=5",
+   "published_utc": "2026-10-23T01:53:53+00:00",
+   "title_original": "央行开展2580亿元隔夜逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "0b449075bd88b714"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -10484,23 +10484,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "매일경제 마켓",
-   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaVlGcjZfUlBESnYxelFndUgybDRWQkpQeW40eHBwNTlYMHh4TnJUY1J2S19kZElIeGd1ajlQcWQ5VHhROXJvX1NXdWFEa1l4Qmc?oc=5",
-   "published_utc": "2026-10-22T07:47:42+00:00",
-   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "8e77a77dfde09eac"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "CEO스코어데일리",
    "title_en": "Bank of Korea, ‘taking a breather’ with base interest rate... Shin Hyun-song, “The past two rounds of ‘homing’ have paid off”",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04SVpMTHBuOGc3SjVsdHhQM0ZHd2Y2TkNOWmcwbjhlQTZoV1NHRzloOHBOZ0ZxTUtwM2YtbDFsVVB0UmV5dFZwdXkzWmxkZDdhR3FreDJBeXJpUjdva1dBVWc1c3dXcUZC?oc=5",
@@ -10549,6 +10532,23 @@
    "live_wire": false,
    "manual": false,
    "id": "dbed6b67f81300ac"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제TV",
+   "title_en": "[Issue & People] Bank of Korea base interest rate freeze… What is the meaning of President Shin Hyun-song’s remarks?",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSHlwMkhTa2dtZkZvdUZwSVI1Tk03OEhwNFJTdDk4OERWLXFhX19pSXdlbXZXX1pXb09EcU1rZncxR2pBaE1IbU1vTF9YUlhNelpvS2MxODJlM0ZFemZlMFlWZ3JpT2F0?oc=5",
+   "published_utc": "2026-10-22T07:29:00+00:00",
+   "title_original": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는?",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "bfd94abb0650cc0d"
   },
   {
    "source_id": "gn_kr_yonhap",
