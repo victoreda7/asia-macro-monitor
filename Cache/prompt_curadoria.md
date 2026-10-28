@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T05:42:42.764863+00:00
+Última coleta: 2026-10-28T05:52:45.270263+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          931
+  🇯🇵 Japão          932
   🇨🇳 China          831
   🇹🇼 Taiwan         387
-  🇰🇷 Coreia do Sul  851
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
+  - [japan] Tokai Rika Co., Ltd. - To Buy Back Up To 2.9% Of Shares Worth 8.6 Billion Yen
   - [korea] SK Hynix Earnings Up In Q3; Shares Surge
   - [taiwan] Yang Jinlong: Without budgetary subsidies and energy subsidies, the inflation rate may rise if oil prices cont
   - [korea] Kospi hits two-week high on tech rally as SK Hynix plans $75 bn payout on record profit
@@ -29,9 +30,9 @@ Total: 3000 manchetes
   - [taiwan] Taiwan central bank says it will hike interest rate if inflation too hot next year
   - [korea] SK Hynix profit beat fuels $45 billion of dividends, buyback
   - [korea] South Korean Won Retreats from Over 2-Year High
-  - [korea] SK Hynix profits soar amid roaring AI chip demand
   - [china] China's yuan hovers near 4-year high ahead of Fed decision
   - [korea] SK hynix: Record Q3 earnings, tight AI-memory supply and ~KRW 100tn in planned shareholder returns
+  - [korea] SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush
   - [japan] Stock price rise Buy orders for stocks such as semiconductors
   - [japan] Yurtec Corp - To Buy Back Up To 2.47% Of Shares Worth 5.5 Billion Yen
   - [japan] The Japanese economy is now an AI-powered economy, with capital investment in exports, stock prices, and even 
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan Central Bank Chief: Never Said CPI Cannot Remain Above +2%
   - [korea] South Korean shares rally 6% as SK Hynix beats forecasts
   - [korea] SK hynix Q3 2026 slides: revenue tops 100T, 80% margin on AI boom
-  - [korea] SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T05:42:42+00:00",
+      "published_utc": "2026-10-28T05:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
