@@ -7,26 +7,30 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-27T23:57:04.779256+00:00
+Última coleta: 2026-10-28T00:02:49.216632+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          954
-  🇨🇳 China          840
+  🇯🇵 Japão          953
+  🇨🇳 China          837
   🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  823
+  🇰🇷 Coreia do Sul  827
 
 ## O que já está no feed (não repita)
 
+  - [korea] Key facts: SK hynix (000660) shareholder return; record Q3 profit; HBM4 mass production Q2 2027
+  - [korea] SK hynix Q3 2026 Earnings Call Is Live
   - [korea] SK hynix: Record Q3 revenue and operating profit meet AI-led demand as net profit absorbs large non-operating 
-  - [korea] SK Hynix Q3 profit increases more than 7 times and beats forecasts
-  - [korea] SK Hynix Q3 profit jumps more than 7-fold, beats forecasts
+  - [korea] SK Hynix Unveils $75 Billion Shareholder Return Plan After Reporting Sevenfold Increase in Q3 Profit
+  - [korea] SK Hynix unveils shareholder return plan worth $75 billion after posting 7-fold jump in Q3 profit
   - [korea] SK Hynix: To Buy Back Additional KRW20T of Shares
   - [korea] SK Hynix: To Pay More Than KRW30B in Dividends
   - [korea] SK Hynix Q3 profit beats expectations, vows $75 bln in shareholders returns
   - [korea] SK hynix posts record Q3 profit, plans W100tr in shareholder returns this year
   - [korea] SK Hynix Expects 2026 Shareholder Returns to Total KRW100T, Including Completed KRW40T Buyback
+  - [korea] SK Hynix Q3 profit increases more than 7 times and beats forecasts
   - [korea] SK hynix Inc. Q3 Revenue ₩104.6T, Op Profit ₩83.3T
   - [korea] SK hynix Announces 3Q26 Financial Results
+  - [korea] SK Hynix Q3 profit jumps more than 7-fold, beats forecasts
   - [korea] SK Hynix 3Q Net KRW39.776T Vs. Net KRW12.598T >000660.SE
   - [korea] SK Hynix 3Q Net Profit Below FactSet-Compiled Consensus
   - [korea] SK Hynix 3Q Oper Pft KRW83.334T Vs. Pft KRW11.383T >000660.SE
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] Portuguese president condemns violence, calls for ending housing crisis
   - [china] Xinjiang Beixin Road & Bridge Q3 Net Loss At 163.1 Million Yuan
   - [china] China’s energy supply chain is withstanding test of Middle East war, expert says
-  - [japan] Dollar firms ahead of central bank meetings, steadier stocks stall safe haven play By Reuters
-  - [china] Geovis Technology Q3 Net Loss At 171.9 Million Yuan
-  - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 200.32, Implies 37% Upside
-  - [japan] Opinion of the expert panel regarding the three security documents, “Tax increases are not excluded as an opti
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-27T23:57:05+00:00",
+      "published_utc": "2026-10-28T00:02:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
