@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T01:22:43.382867+00:00
+Última coleta: 2026-10-28T01:32:43.289601+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          944
+  🇯🇵 Japão          943
   🇨🇳 China          836
   🇹🇼 Taiwan         385
-  🇰🇷 Coreia do Sul  835
+  🇰🇷 Coreia do Sul  836
 
 ## O que já está no feed (não repita)
 
+  - [japan] JGB Yields Rise as AI Trade Regains Momentum — Market Talk
   - [korea] Kospi jumps as chipmakers rally on SK Hynix’s record profit, shareholder returns
+  - [korea] South Korean Shares Rally on SK Hynix Earnings
   - [korea] SK Hynix posts record Q3 profit of $62.8 billion, beats estimates on AI demand
   - [china] How China’s ancient capital staked a claim to the nation’s fastest export growth
   - [japan] A sense of caution that ``even if we use AI to get things done faster, it will only mean more work.'' - The ``
@@ -27,7 +29,6 @@ Total: 3000 manchetes
   - [taiwan] MiCo Ceramics acquires idle LGD plant for KRW150 billion to boost semiconductor component capacity
   - [china] Meituan to Raise $1.20 Billion Via Offshore Yuan Bond Sale
   - [korea] Correct: SK Hynix: To Pay More Than KRW30T in Dividends, Not KRW30B
-  - [korea] SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush
   - [korea] SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand
   - [korea] Key facts: SK hynix (000660) shareholder return; record Q3 profit; HBM4 mass production Q2 2027
   - [korea] SK hynix Q3 2026 Earnings Call Is Live
@@ -47,6 +48,7 @@ Total: 3000 manchetes
   - [korea] [Breaking] SK hynix to provide an additional 60 trillion won in shareholder returns through dividends and shar
   - [korea] SK Hynix 3Q Net KRW39.776T Vs. Net KRW12.598T >000660.SE
   - [korea] SK Hynix 3Q Net Profit Below FactSet-Compiled Consensus
+  - [korea] SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush
   - [korea] SK Hynix 3Q Oper Pft KRW83.334T Vs. Pft KRW11.383T >000660.SE
   - [japan] What kind of discussion will unfold at the Bank of Japan's October meeting? (NRI researcher's commentary on cu
   - [korea] SK Hynix 3Q Rev KRW104.615T Vs. KRW24.449T >000660.SE
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] ``In the past, we would have received twice as much as younger people,'' but due to fewer posts, annual income
   - [china] In Focus | How Hong Kong went from a yuan gateway to a complete currency ecosystem
   - [taiwan] The first wave of exit polls for the Israeli election comes out, with the opposition slightly leading by less 
-  - [japan] [Machine tool trends that can be understood in 5 minutes] Concerns about "over-investment in AI" as orders rea
-  - [japan] Today's Japan-German summit meeting to confirm supply chain strengthening, etc.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T01:22:43+00:00",
+      "published_utc": "2026-10-28T01:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
