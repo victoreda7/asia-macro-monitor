@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T07:12:43.813772+00:00
+Última coleta: 2026-10-28T07:22:44.046999+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          933
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Kospi hits two-week high on tech rally as SK Hynix plans $75 bn payout on record profit
   - [korea] Amended: SK Hynix Earnings Up In Q3; Shares Surge
   - [china] China's Economic Growth Likely to Stabilize in 4Q — Market Talk
   - [china] China's New Export Restrictions Protect Its AI Crown Jewels
@@ -36,7 +37,6 @@ Total: 3000 manchetes
   - [korea] SK Hynix Earnings Up In Q3; Shares Surge
   - [taiwan] Yang Jinlong: Without budgetary subsidies and energy subsidies, the inflation rate may rise if oil prices cont
   - [taiwan] Taiwan's central bank may raise interest rates next year if prices rise significantly - Governor (Reuters)
-  - [korea] Kospi hits two-week high on tech rally as SK Hynix plans $75 bn payout on record profit
   - [taiwan] AI-Driven Tech Rise Lifts Taiwan, South Korea Stocks; Asian currencies fall
   - [china] Is Israel afraid of change? The first wave of exit polls exposed! ｜Bosonaro is said to have fled to the United
   - [china] Exclusive | EU plans high-level China currency talks as fears of new trade shock mount
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T07:12:44+00:00",
+      "published_utc": "2026-10-28T07:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
