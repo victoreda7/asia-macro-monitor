@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T17:42:44.003617+00:00
+Última coleta: 2026-10-28T17:52:45.032222+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          910
-  🇨🇳 China          836
+  🇯🇵 Japão          909
+  🇨🇳 China          835
   🇹🇼 Taiwan         391
-  🇰🇷 Coreia do Sul  863
+  🇰🇷 Coreia do Sul  865
 
 ## O que já está no feed (não repita)
 
+  - [korea] Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [japan] Takaichi presses Merz not to leave Japan out of 'Made in Europe' EV subsidies
   - [korea] SK hynix Stocks Rally 10.89% With Buyback Cancellation Split in Focus
   - [china] Tunisia sets 3.1 pct economic growth target for 2027
+  - [korea] US sanctions North Korean network accused of defrauding businesses
   - [korea] SK Hynix Shakes Up the AI Chip Stock Narrative
   - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
   - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Shinya Ueda The price gap with Japan that I felt in the United States: ``If it were in Japan, it would be 1,50
   - [korea] SK hynix Is Maintained at Buy by Rosenblatt
   - [korea] SK Hynix vai retornar US$75 bi aos acionistas após lucro recorde
-  - [korea] SK hynix Inc. reports results for the quarter ended September 30 - Earnings Summary
-  - [korea] Rosenblatt maintains Buy rating on SK hynix, $400 price target
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T17:42:44+00:00",
+      "published_utc": "2026-10-28T17:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
