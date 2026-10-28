@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T11:52:45.226276+00:00
+Última coleta: 2026-10-28T12:02:42.659000+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          919
@@ -17,6 +17,10 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Rosenblatt maintains Buy rating on SK hynix, $400 price target
+  - [china] China Nonferrous Metal Industry's Foreign Engineering And Construction's Q3 New Contracts Total 3.2 Billion Yu
+  - [china] Changjiang Publishing & Media Q3 Net Profit At 317.4 Million Yuan
+  - [china] Yunnan Coal & Energy Q3 Net Loss At 397.8 Million Yuan
   - [japan] Finance Minister: Consumption tax cut “Support measures for farmers will be materialized during the budget for
   - [japan] Japan-Germany Summit Meeting Prime Minister: “We want to deepen cooperation as premium partners”
   - [taiwan] Taiwan's UMC Q3 revenue rises on wafer shipments growth
@@ -47,15 +51,11 @@ Total: 3000 manchetes
   - [china] Beijing United Information Technology's Units Plan To Purchase Servers Worth 1.5 Billion Yuan
   - [china] Gotion High Tech Q3 Net Loss At 537.0 Million Yuan
   - [china] Power Construction Corporation Of China Jan-Sep New Contracts Signed Totalled 807.98 Billion Yuan
-  - [china] Sansteel Minguang Co Ltd Fujian Q3 Net Loss At 434.4 Million Yuan
-  - [china] Yuan Long Ping High-Tech Agriculture Q3 Net Loss At 402.4 Million Yuan
   - [taiwan] Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent
   - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] Finance minister hopes for Bloomberg review of S. Korea's market status
   - [korea] SK Hynix announced its plan to return more than KRW 60 trillion to additional shareholders within th..
-  - [china] Inner Mongolia Yuan Xing Energy Company: Q3 sales grew, profit softened, and the arbitration settlement was co
   - [korea] S. Korean won sharply weakens against US dollar
-  - [korea] Earnings Snapshot: SK hynix posts Q3 revenue beat, announces ₩20T buyback and ₩14T Q3 dividend
   - [korea] Seoul shares soar over 6% on revived AI optimism, SK hynix earnings
 
 ## O que fazer
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T11:52:45+00:00",
+      "published_utc": "2026-10-28T12:02:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
