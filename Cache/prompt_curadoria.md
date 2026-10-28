@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T11:42:44.036613+00:00
+Última coleta: 2026-10-28T11:52:45.226276+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          919
-  🇨🇳 China          840
-  🇹🇼 Taiwan         388
+  🇨🇳 China          839
+  🇹🇼 Taiwan         389
   🇰🇷 Coreia do Sul  853
 
 ## O que já está no feed (não repita)
 
+  - [japan] Finance Minister: Consumption tax cut “Support measures for farmers will be materialized during the budget for
+  - [japan] Japan-Germany Summit Meeting Prime Minister: “We want to deepen cooperation as premium partners”
+  - [taiwan] Taiwan's UMC Q3 revenue rises on wafer shipments growth
   - [taiwan] BRIEF-United Microelectronics Q3 Revenue TWD 74,240 Million
   - [korea] Asia report: SK Hynix leads chip rally after record profits
   - [korea] Nasdaq Futures Rise as SK Hynix Boosts Chip Sector Ahead of Fed Decision, Earnings Release
@@ -53,10 +56,7 @@ Total: 3000 manchetes
   - [china] Inner Mongolia Yuan Xing Energy Company: Q3 sales grew, profit softened, and the arbitration settlement was co
   - [korea] S. Korean won sharply weakens against US dollar
   - [korea] Earnings Snapshot: SK hynix posts Q3 revenue beat, announces ₩20T buyback and ₩14T Q3 dividend
-  - [china] Aoshikang Technology Plans To Invest 6 Billion Yuan In Project
   - [korea] Seoul shares soar over 6% on revived AI optimism, SK hynix earnings
-  - [japan] Former Liberal Democratic Party Secretary-General Moriyama “Need to secure alternative revenue sources for con
-  - [japan] Who will lose the most from the Bank of Japan's interest rate hike?The irrationality of the ``valley generatio
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T11:42:44+00:00",
+      "published_utc": "2026-10-28T11:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
