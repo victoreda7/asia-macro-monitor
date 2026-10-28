@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-28T14:52:43.602924+00:00",
- "collected_at_utc": "2026-10-28T14:52:43.602924+00:00",
+ "generated_at_utc": "2026-10-28T15:02:45.382526+00:00",
+ "collected_at_utc": "2026-10-28T15:02:45.382526+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 393,
   "korea": 859
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T14:49:26+00:00"
+   "newest": "2026-10-28T13:41:27+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T03:31:03+00:00"
+   "newest": "2026-10-28T04:25:44+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T14:52:00+00:00"
+   "newest": "2026-10-28T15:02:07+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T12:53:01+00:00"
+   "newest": "2026-10-27T10:05:10+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T09:19:41+00:00"
+   "newest": "2026-10-28T08:31:03+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:00:00+00:00"
+   "newest": "2026-10-26T08:38:46+00:00"
   }
  ],
  "items": [
@@ -1499,6 +1499,23 @@
    "id": "f552e90413765d0d"
   },
   {
+   "source_id": "gn_asia_ft",
+   "source_name": "Financial Times",
+   "title_en": "SK Hynix profits soar amid roaring AI chip demand",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rSWRLVno2ZTFHT0dYMmVLOUxLZ3g4WGpUc21VU3lFV3BWY3p6VmRLX0N1WWJjbVd3SGRTa3U4OHZaVzJUMlJVRldEd1dkMkw1RmdqYTZudUpZbGF6TE8xQWhoaTR6cHZNNVI1dmxzZ3U?oc=5",
+   "published_utc": "2026-10-28T04:13:20+00:00",
+   "title_original": "SK Hynix profits soar amid roaring AI chip demand",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "619da149fa1964a5"
+  },
+  {
    "source_id": "gn_asia_bloomberg",
    "source_name": "Bloomberg.com",
    "title_en": "SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush",
@@ -1810,23 +1827,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b659c9985e626793"
-  },
-  {
-   "source_id": "gn_asia_ft",
-   "source_name": "Financial Times",
-   "title_en": "SK Hynix profits soar amid roaring AI chip demand",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rSWRLVno2ZTFHT0dYMmVLOUxLZ3g4WGpUc21VU3lFV3BWY3p6VmRLX0N1WWJjbVd3SGRTa3U4OHZaVzJUMlJVRldEd1dkMkw1RmdqYTZudUpZbGF6TE8xQWhoaTR6cHZNNVI1dmxzZ3U?oc=5",
-   "published_utc": "2026-10-28T01:15:00+00:00",
-   "title_original": "SK Hynix profits soar amid roaring AI chip demand",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "619da149fa1964a5"
   },
   {
    "source_id": "scmp_business",
@@ -6366,24 +6366,6 @@
    "id": "e12668b3e0b0dbdc"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVUxuT01uNzVGcWdXNjJsNmZXY2tjajQ2NGcxeWVaNkRRLUtSNlFoTGhfeGhhYUNENUNRY01PVF9mVDVmTl8tZGlYTFNOMEtGd2lVZmg0SzljbnUtQUs0aXVNU0hkanJZMHlXS0VZTzFBcm8ydlZhRU5LcDhCWUVCMUhqMWZ4VTI3akE?oc=5",
-   "published_utc": "2026-10-26T03:09:06+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "26723466cf9fd537"
-  },
-  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "Banks expected to maintain tight lending standards in Q4: BOK survey",
@@ -8196,6 +8178,24 @@
    "live_wire": true,
    "manual": false,
    "id": "9f5caab2bcd6c61a"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
+   "published_utc": "2026-10-23T14:14:15+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",
