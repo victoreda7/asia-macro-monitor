@@ -7,18 +7,22 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T08:22:45.224718+00:00
+Última coleta: 2026-10-28T08:32:49.643734+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          932
-  🇨🇳 China          830
+  🇯🇵 Japão          934
+  🇨🇳 China          829
   🇹🇼 Taiwan         387
-  🇰🇷 Coreia do Sul  851
+  🇰🇷 Coreia do Sul  850
 
 ## O que já está no feed (não repita)
 
-  - [taiwan] Taiwan inflation could rise if energy subsidies end: Central bank
+  - [china] Aoshikang Technology Plans To Invest 6 Billion Yuan In Project
   - [korea] Seoul shares soar over 6% on revived AI optimism, SK hynix earnings
+  - [japan] Former Liberal Democratic Party Secretary-General Moriyama “Need to secure alternative revenue sources for con
+  - [china] Beijing Dabeinong Technology Q3 Net Loss At 125.3 Million Yuan
+  - [japan] Who will lose the most from the Bank of Japan's interest rate hike?The irrationality of the ``valley generatio
+  - [taiwan] Taiwan inflation could rise if energy subsidies end: Central bank
   - [korea] Kospi at two-week high as SK Hynix’s $75 bn payout plan, record profit fan tech rally
   - [china] China's New Export Restrictions Protect Its AI Crown Jewels
   - [japan] Kamgras1 Raises Share Tender Price For Kakaku.Com To 3683 Yen Per Share From 3682 Yen, Filing Shows
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan decision meeting emphasizes that achieving the price target is still the “gateway” (TBS CROSS DI
   - [taiwan] Taiwan central bank says it will hike interest rate if inflation too hot next year
   - [korea] SK Hynix profit beat fuels $45 billion of dividends, buyback
-  - [korea] South Korean Won Retreats from Over 2-Year High
-  - [korea] SK Hynix profits soar amid roaring AI chip demand
-  - [china] China's yuan hovers near 4-year high ahead of Fed decision
-  - [korea] SK hynix: Record Q3 earnings, tight AI-memory supply and ~KRW 100tn in planned shareholder returns
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T08:22:45+00:00",
+      "published_utc": "2026-10-28T08:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
