@@ -7,23 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T19:42:43.974438+00:00
+Última coleta: 2026-10-28T19:52:46.141373+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          909
-  🇨🇳 China          837
+  🇯🇵 Japão          908
+  🇨🇳 China          838
   🇹🇼 Taiwan         391
   🇰🇷 Coreia do Sul  863
 
 ## O que já está no feed (não repita)
 
+  - [japan] Fed leaves policy interest rate unchanged for the first time in two meetings, perhaps to assess the impact on 
   - [china] IMF Taps China’s Vice Finance Minister Liao Min for Deputy Managing Director Role
   - [japan] Behind the Odakyu "base" in a quiet residential area of ​​Setagaya, 5 minutes walk from Kitami Station, "train
   - [korea] Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3234972.13, Implies 141% Upside
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45831.82, Implies 35% Upside
   - [korea] SK hynix: AI-led memory demand drove record Q3 results and ~KRW 100T in planned FY2026 shareholder returns
-  - [japan] Fed leaves policy interest rate unchanged for the first time in two meetings, perhaps to assess the impact on 
   - [japan] Japan weighs corporate tax hike to fund defense buildup
   - [japan] Takaichi presses Merz not to leave Japan out of 'Made in Europe' EV subsidies
   - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T19:42:44+00:00",
+      "published_utc": "2026-10-28T19:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
