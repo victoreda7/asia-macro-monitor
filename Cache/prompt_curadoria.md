@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T16:32:49.001621+00:00
+Última coleta: 2026-10-28T16:42:43.720776+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          911
   🇨🇳 China          837
-  🇹🇼 Taiwan         392
-  🇰🇷 Coreia do Sul  860
+  🇹🇼 Taiwan         391
+  🇰🇷 Coreia do Sul  861
 
 ## O que já está no feed (não repita)
 
+  - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3229708.97, Implies 141% Upside
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 44931.82, Implies 33% Upside
   - [korea] Micron's stock rises after SK Hynix earnings. Here's its next major test.
@@ -55,7 +56,6 @@ Total: 3000 manchetes
   - [china] Changjiang Publishing & Media Q3 Net Profit At 317.4 Million Yuan
   - [china] Yunnan Coal & Energy Q3 Net Loss At 397.8 Million Yuan
   - [japan] Finance Minister: Consumption tax cut “Support measures for farmers will be materialized during the budget for
-  - [taiwan] Taiwan's UMC Q3 revenue rises on wafer shipments growth
   - [korea] [Economic Odyssey] Bank of Korea freezes base interest rate...What will be your choice for November?
 
 ## O que fazer
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T16:32:49+00:00",
+      "published_utc": "2026-10-28T16:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
