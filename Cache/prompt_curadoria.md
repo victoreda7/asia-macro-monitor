@@ -7,17 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T01:02:44.414079+00:00
+Última coleta: 2026-10-28T01:12:44.704399+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          946
+  🇯🇵 Japão          945
   🇨🇳 China          836
-  🇹🇼 Taiwan         385
+  🇹🇼 Taiwan         386
   🇰🇷 Coreia do Sul  833
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix posts record Q3 profit of $62.8 billion, beats estimates on AI demand
   - [china] How China’s ancient capital staked a claim to the nation’s fastest export growth
+  - [japan] A sense of caution that ``even if we use AI to get things done faster, it will only mean more work.'' - The ``
+  - [taiwan] Key facts: TSMC (2330) ups CoWoS prices 10–20%; U.S. interposers
   - [taiwan] Semiconductor equipment is not AI chip growth's biggest bottleneck
   - [korea] SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings
   - [taiwan] MiCo Ceramics acquires idle LGD plant for KRW150 billion to boost semiconductor component capacity
@@ -49,14 +52,11 @@ Total: 3000 manchetes
   - [japan] Mapletree Industrial Trust: Yen Depreciation Against Singapore Dollar Also Weighed on Rev >ME8U.SG
   - [japan] FX weekly: Dollar slips weekly as Yen leads major currency gains
   - [japan] ``In the past, we would have received twice as much as younger people,'' but due to fewer posts, annual income
+  - [china] In Focus | How Hong Kong went from a yuan gateway to a complete currency ecosystem
   - [japan] [Machine tool trends that can be understood in 5 minutes] Concerns about "over-investment in AI" as orders rea
   - [japan] Today's Japan-German summit meeting to confirm supply chain strengthening, etc.
   - [china] WuXi AppTec Co., Ltd. Class A Stock 12‑Month Price Target Raised to CNY 202.63, Implies 39% Upside
   - [korea] SK Hynix Stock Jumps as Massive Payout Rumors Swirl
-  - [taiwan] TSMC Gets Fresh Pricing Power From AI Chip Boom
-  - [japan] Japan banks, fintech step up digital currency push for trade settlements
-  - [korea] Samsung Electronics Stocks Gain 4.23% With Cash-Return Decisions Approaching
-  - [china] China Claims Strong Economic Growth, but Skeptics Question Official Figures — WSJ
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T01:02:44+00:00",
+      "published_utc": "2026-10-28T01:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

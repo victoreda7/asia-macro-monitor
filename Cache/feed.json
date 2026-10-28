@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T01:02:44.414079+00:00",
- "collected_at_utc": "2026-10-28T01:02:44.414079+00:00",
+ "generated_at_utc": "2026-10-28T01:12:44.704399+00:00",
+ "collected_at_utc": "2026-10-28T01:12:44.704399+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 946,
+  "japan": 945,
   "china": 836,
-  "taiwan": 385,
+  "taiwan": 386,
   "korea": 833
  },
- "elapsed_s": 29.5,
+ "elapsed_s": 31.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T00:42:40+00:00"
+   "newest": "2026-10-25T00:41:58+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 25,
    "error": "",
    "newest": "2026-10-27T05:46:33+00:00"
   },
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T14:00:21+00:00"
+   "newest": "2026-10-27T22:00:15+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T01:01:16+00:00"
+   "newest": "2026-10-28T01:10:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-27T19:35:43+00:00"
+   "newest": "2026-10-27T22:33:19+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-28T09:30:00+09:00"
+   "newest": "2026-10-28T10:00:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T00:45:17+00:00"
+   "newest": "2026-10-28T00:55:04+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "CNBC TV18",
+   "title_en": "SK Hynix posts record Q3 profit of $62.8 billion, beats estimates on AI demand",
+   "url": "https://www.tradingview.com/news/cnbctv:b38b15bf5094b:0/",
+   "published_utc": "2026-10-28T01:02:02+00:00",
+   "title_original": "SK Hynix posts record Q3 profit of $62.8 billion, beats estimates on AI demand",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "5125928c59830f2c"
+  },
   {
    "source_id": "scmp_business",
    "source_name": "SCMP Business",
@@ -359,6 +376,40 @@
    "live_wire": false,
    "manual": false,
    "id": "1eae403a35ab5b0e"
+  },
+  {
+   "source_id": "toyo_keizai",
+   "source_name": "東洋経済オンライン",
+   "title_en": "A sense of caution that ``even if we use AI to get things done faster, it will only mean more work.'' - The ``paradox of employment'' hidden in the workplaces of Japanese people who are not afraid of AI but do not use it | Business | Toyo Keizai Online",
+   "url": "https://toyokeizai.net/articles/-/962167?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "published_utc": "2026-10-28T01:00:00+00:00",
+   "title_original": "｢AIで早く終わらせても､仕事が増えるだけ｣という警戒感――AIを恐れないのに使わない日本人の職場に潜む｢雇用の逆説｣ | ビジネス | 東洋経済オンライン",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "029a5fc5de99bb37"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "TradingView",
+   "title_en": "Key facts: TSMC (2330) ups CoWoS prices 10–20%; U.S. interposers",
+   "url": "https://www.tradingview.com/news/tradingview:a9bd4932803be:0-key-facts-tsmc-2330-ups-cowos-prices-10-20-u-s-interposers/",
+   "published_utc": "2026-10-28T01:00:00+00:00",
+   "title_original": "Key facts: TSMC (2330) ups CoWoS prices 10–20%; U.S. interposers",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fab30ec2a36133a2"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -889,6 +940,23 @@
    "id": "99bb90f416ce4325"
   },
   {
+   "source_id": "gn_cn_scmp",
+   "source_name": "South China Morning Post",
+   "title_en": "In Focus | How Hong Kong went from a yuan gateway to a complete currency ecosystem",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamItbGduV2NPRnRqR0ZtWXlTOVZXVy1ycGNnRlAzZG9NOUVvaWFyYTNXXzdWcnRWd2hzajdtUGt0SUpJcm8zYmxkLWZhRnY5OUN5ZGh2UFFGRlVaQ0xpYVdEWUtETmhnaVd6d1FsWFpON1hoVHUyZldHX29RNmZPaHZJUVNGUTluaV81YTJUMkItRzU2a2t5cmVtWjBtd1hWdmN2Y1JrenFJQnNKU3M5dmNiZlMxUGJCU0ZZam9R?oc=5",
+   "published_utc": "2026-10-27T22:00:15+00:00",
+   "title_original": "In Focus | How Hong Kong went from a yuan gateway to a complete currency ecosystem",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "fbbaa60fd952faa8"
+  },
+  {
    "source_id": "toyo_keizai",
    "source_name": "東洋経済オンライン",
    "title_en": "[Machine tool trends that can be understood in 5 minutes] Concerns about \"over-investment in AI\" as orders reach a record high in September and \"2 trillion yen per year\" is emerging | Business | Toyo Keizai Online",
@@ -1353,8 +1421,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -1369,7 +1437,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -4676,9 +4744,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
+   "source_name": "搜狐网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -4690,7 +4758,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "b1b5c2b77adc6ac0"
+   "id": "2b972d8c6ac9362b"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -4882,24 +4950,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -5505,6 +5555,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -9194,6 +9262,23 @@
    "id": "7fb731c9b7f2ccb1"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "매일경제",
+   "title_en": "Governor Shin feels burdened by three consecutive interest rate hikes... ‘hawkish attitude’ continues",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51UTlkWmxWakFqdTRUQXNrXzhwcW5YQ3k0Vi1ZSFRXN3hsSnFsQ3pwcFZmRkU0eVBzTUpKUFpKTzVGYlQ2WDk4dVoxVFR4bWZ4VHhRMQ?oc=5",
+   "published_utc": "2026-10-22T20:00:00+00:00",
+   "title_original": "3회 연속 금리 인상에 부담느낀 신 총재 ... ‘매파본색’은 계속된다",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "245a52ebdb86e663"
+  },
+  {
    "source_id": "gn_jp_reuters",
    "source_name": "Reuters",
    "title_en": "Yen jumps as oil, AI and France worries rattle markets",
@@ -11045,23 +11130,6 @@
    "live_wire": false,
    "manual": false,
    "id": "9d6a548b8f00ae48"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "뉴스핌",
-   "title_en": "The Bank of Korea unanimously freezes the base interest rate at 3.00% per annum... Maintains possibility of further increases",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9udTBEeVB0SDJsLXNYNmRoOXRUZUxGZXpEMlZhS1R2SERaR003aDh5LVhUOWhhb1hzQWdrcklOcFNrYTVJc2M3MHlQTTZsWFBxeW1WVnBFZkZfZEcw?oc=5",
-   "published_utc": "2026-10-22T02:33:00+00:00",
-   "title_original": "한은, 기준금리 연 3.00% 만장일치 동결…추가 인상 가능성 유지",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "988d5e65c5cc47c5"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51801,76 +51869,6 @@
    "live_wire": false,
    "manual": false,
    "id": "13d769602e707732"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "旅日侨网",
-   "title_en": "The central bank has carried out a total of nearly 1.9 trillion yuan in reverse repurchase operations in two days",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemFKTGJtZy16WG5USE05c1ZDc2RaN1R0NHo3clRCMHpzSTA0Y3hOSXpnejV0Q1o0dXl4eXlPSm1aejhQU1B4ak13aXFnZURmMmJrMGthZzJnQmhjSG93OFU5anppbXlCSk5XcGEzRHU4VERIOGNXR1JwY1lqRldqZ0czUTlOUHI4MXc?oc=5",
-   "published_utc": "2026-10-01T05:56:21+00:00",
-   "title_original": "央行两日累计开展近1.9万亿元逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "2d9ee5d4a7680312"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Bank of Japan releases main opinions at September meeting, maintains interest rate hike stance, with some pointing out the need to accelerate the pace (TV Asahi (ANN))",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xRU5tVjNfVEdZTzZJMnRlWWN4RUNkcFdVZjdfV0ltZ004RG1BSTJUSm9RVzJOUGQwM3BjR3N4eGxlYm9fcDdlSVFEZGNwTVVBc1oyYTRZS21qLWJKeDgtOFpnclBTa2hFelNaUkkwVlJQNEtENTh1akFtOUctdTQ?oc=5",
-   "published_utc": "2026-10-01T05:39:15+00:00",
-   "title_original": "日銀 9月会合での主な意見を公表 利上げ姿勢を維持 ペース加速の必要性指摘する声も（テレビ朝日系（ANN））",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1ef3a185e86470ce"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "Takashi Sasano mentions the ``deterioration of cockroaches'' in the Bank of Japan Tankan News: ``If you listen closely, it's the first time in five periods.'' (Tokyo Sports Web)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0eEo5dENpYjNndkg4X1JfRk16VlljVGZrTTF3SThYRzBYQnRZaXZTR0hzRjZzZUJWYjB6YTc0bERBcFNGbnVzZndPRnFUMGJSLXYtTWdicEdDUzFJWC03Rjk5d1BVaTJpY3FGeE4ydXh6dHJzRlQ0MWV6VXEyX0U?oc=5",
-   "published_utc": "2026-10-01T05:35:24+00:00",
-   "title_original": "笹野高史 日銀短観ニュースの〝ゴキブリ悪化〟に言及「よく聴いたら、『五期ぶり』なのね」（東スポWEB）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "aac93d74c4d80bc0"
-  },
-  {
-   "source_id": "korea_herald_biz",
-   "source_name": "Korea Herald Business",
-   "title_en": "Memory shortage deepens, extending boom for Korean chipmakers",
-   "url": "https://www.koreaherald.com/article/10890616",
-   "published_utc": "2026-10-01T05:31:07+00:00",
-   "title_original": "Memory shortage deepens, extending boom for Korean chipmakers",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "e582940d3fd8d627"
   },
   {
    "source_id": "manual_ia",
