@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T15:32:45.409301+00:00",
- "collected_at_utc": "2026-10-28T15:32:45.409301+00:00",
+ "generated_at_utc": "2026-10-28T15:42:52.843838+00:00",
+ "collected_at_utc": "2026-10-28T15:42:52.843838+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 911,
-  "china": 836,
+  "japan": 910,
+  "china": 837,
   "taiwan": 393,
   "korea": 860
  },
- "elapsed_s": 29.9,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T06:30:03+00:00"
+   "newest": "2026-10-28T10:39:11+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T13:54:05+00:00"
+   "newest": "2026-10-28T13:30:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -115,7 +115,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T13:41:27+00:00"
+   "newest": "2026-10-28T14:49:26+00:00"
   },
   {
    "source_id": "kantei_jnews",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 26,
+   "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:25:23+00:00"
+   "newest": "2026-10-27T05:46:33+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:40:00+00:00"
+   "newest": "2026-10-28T12:10:02+00:00"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-28T14:19:13+00:00"
+   "newest": "2026-10-28T15:42:01+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -251,7 +251,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T06:00:06+00:00"
+   "newest": "2026-10-28T07:30:08+00:00"
   },
   {
    "source_id": "gn_tw_taipeitimes",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T15:32:15+00:00"
+   "newest": "2026-10-28T15:42:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -1706,6 +1706,23 @@
    "live_wire": false,
    "manual": false,
    "id": "51683ee584f05496"
+  },
+  {
+   "source_id": "gn_jp_mof",
+   "source_name": "財務省",
+   "title_en": "What's New October, 2026 : Ministry of Finance",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaGVTdkpkMGtWc1pmZ0FOOEFXNnd0ejBiYXZmTDJRVGpDREM0bEp5V0VvWVYzb2JzR194V0dzV3JrMTBTalJSWnJwUWhMZXozUlJYTFFxdkRwODRDelhMaFFXZGRTemFMVUlWQ0F2M04zSkd3cFBB?oc=5",
+   "published_utc": "2026-10-28T02:16:20+00:00",
+   "title_original": "What's New October, 2026 : Ministry of Finance",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "816a8b781a3d4bd5"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -5314,9 +5331,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "新浪财经",
+   "source_name": "finance.sina.com.cn",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
    "title_original": "10月26日央行开展560亿元7天期逆回购操作",
    "region": "china",
@@ -5328,7 +5345,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "0facd9f9793a1c33"
+   "id": "8166e1f4e20d2cef"
   },
   {
    "source_id": "tradingview_live",
@@ -6402,9 +6419,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "搜狐网",
+   "source_name": "观点网",
    "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGhkZHR0WTdyWEg3d0Fma1NaZzlwRW54M04xZ01SX00zQW9GUU1HSHNURzd4dlMwOThMd1F2N2dPb241c19pTmRoUHRMZW9LVjFRRU13d2JqUXp4bjhxRUhCN3JNdUJmV2xONHVrdHpIRkxONXdfaldOWUhPbmppTjhCa1pPUkVI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
    "published_utc": "2026-10-26T02:58:35+00:00",
    "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
    "region": "china",
@@ -6416,7 +6433,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "2b972d8c6ac9362b"
+   "id": "b1b5c2b77adc6ac0"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -6610,6 +6627,24 @@
    "id": "c39539e469407cde"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "21财经",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
+   "published_utc": "2026-10-26T02:02:54+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "e3ebd8dab0afb08a"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Major banks have increased their information protection budgets for next year significantly since th..",
@@ -6749,23 +6784,6 @@
    "live_wire": false,
    "manual": false,
    "id": "5369fdb9dac7ca38"
-  },
-  {
-   "source_id": "gn_jp_mof",
-   "source_name": "財務省",
-   "title_en": "What's New October, 2026 : Ministry of Finance",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaGVTdkpkMGtWc1pmZ0FOOEFXNnd0ejBiYXZmTDJRVGpDREM0bEp5V0VvWVYzb2JzR194V0dzV3JrMTBTalJSWnJwUWhMZXozUlJYTFFxdkRwODRDelhMaFFXZGRTemFMVUlWQ0F2M04zSkd3cFBB?oc=5",
-   "published_utc": "2026-10-26T00:43:47+00:00",
-   "title_original": "What's New October, 2026 : Ministry of Finance",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "816a8b781a3d4bd5"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7196,24 +7214,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "36Kr",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
-   "published_utc": "2026-10-25T10:29:00+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -12402,6 +12402,23 @@
    "live_wire": false,
    "manual": false,
    "id": "5868945070120dac"
+  },
+  {
+   "source_id": "gn_cn_xinhua",
+   "source_name": "Xinhua",
+   "title_en": "Cambodia launches 5-year MSME strategy to drive economic growth",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUllwamlPQ0hGWERMaWZMMnNNajRrU3VsaEd5UG9KMUFjVG91c3lOaTFzM3dTakxHeDFGcHJESXhaZExYU21BTk8xeU1hM1NxLUtQT0xTRXQ2NG15bU9wcTJpNmNLYWhCTl81ZUlEV2x1OEh3d0xHTUlIb1VOTmh0SlNIcEZsODBnZ2xlbw?oc=5",
+   "published_utc": "2026-10-22T05:12:30+00:00",
+   "title_original": "Cambodia launches 5-year MSME strategy to drive economic growth",
+   "region": "china",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "4d0f00d52584db6a"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -51855,23 +51872,6 @@
    "live_wire": false,
    "manual": false,
    "id": "413a71ec236e98bb"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Average Contract Interest Rates on Loans and Discounts (Aug.)",
-   "url": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2608.pdf",
-   "published_utc": "2026-10-01T23:50:00+00:00",
-   "title_original": "Average Contract Interest Rates on Loans and Discounts (Aug.)",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "5fed2ac6f33fcdae"
   },
   {
    "source_id": "manual_ia",
