@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T06:52:42.717740+00:00
+Última coleta: 2026-10-28T07:02:44.223935+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          934
-  🇨🇳 China          831
-  🇹🇼 Taiwan         386
+  🇨🇳 China          830
+  🇹🇼 Taiwan         387
   🇰🇷 Coreia do Sul  849
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Epis Holdings (0126Z0) Posts Q3 Revenue KRW 441.9B, OP KRW 105.0B
   - [korea] MU, SNDK, Neocloud Stocks Extend Gains On Anthropic Boost, SK Hynix Q3 Stunner; Jim Cramer Urges Caution
   - [china] KNEBV: Orders and adjusted margins advanced; China and inflation remain key headwinds
   - [korea] SK Hynix Stock Jumps 10% on $75 Billion Payout Plan, Massive Profit Increase
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
   - [korea] Why is SK Hynix stock surging today?
   - [korea] South Korean won, Philippine peso lead declines among Asian currencies
-  - [japan] What's New October, 2026 : Ministry of Finance
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T06:52:42+00:00",
+      "published_utc": "2026-10-28T07:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
