@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-28T06:22:43.706809+00:00
+Última coleta: 2026-10-28T06:32:42.878884+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          933
+  🇯🇵 Japão          934
   🇨🇳 China          831
-  🇹🇼 Taiwan         387
+  🇹🇼 Taiwan         386
   🇰🇷 Coreia do Sul  849
 
 ## O que já está no feed (não repita)
 
+  - [japan] Advantest Corporation - To Buy Back Up To 1.5% Of Own Shares Worth 280 Billion Yen
+  - [korea] The Bank of Korea analyzed that Korea needs about 840 trillion won in investment in the energy suppl..
   - [japan] BlackRock and SBI Explore Yen Stablecoin Link for Tokenised Funds
   - [japan] Tokai Rika Co., Ltd. - To Buy Back Up To 2.9% Of Shares Worth 8.6 Billion Yen
   - [korea] SK Hynix Earnings Up In Q3; Shares Surge
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY151 BLN VIA 7-DAY REVERSE REPO WEDS
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO WEDS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7165 WEDS VS 6.7171
-  - [japan] Japan bond yields rise as haven demand recedes, BOJ meeting looms
-  - [taiwan] Taiwan Central Bank Chief: Never Said CPI Cannot Remain Above +2%
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-28T06:22:43+00:00",
+      "published_utc": "2026-10-28T06:32:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

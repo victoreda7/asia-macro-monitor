@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-28T06:22:43.706809+00:00",
- "collected_at_utc": "2026-10-28T06:22:43.706809+00:00",
+ "generated_at_utc": "2026-10-28T06:32:42.878884+00:00",
+ "collected_at_utc": "2026-10-28T06:32:42.878884+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 933,
+  "japan": 934,
   "china": 831,
-  "taiwan": 387,
+  "taiwan": 386,
   "korea": 849
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-28T05:41:52+00:00"
+   "newest": "2026-10-28T06:23:51+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-26T00:43:47+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T04:19:00+00:00"
+   "newest": "2026-10-27T19:47:05+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-28T06:21:47+00:00"
+   "newest": "2026-10-28T06:31:52+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T05:25:47+00:00"
+   "newest": "2026-10-28T06:24:01+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Advantest Corporation - To Buy Back Up To 1.5% Of Own Shares Worth 280 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46D24I:0-advantest-corporation-to-buy-back-up-to-1-5-of-own-shares-worth-280-billion-yen/",
+   "published_utc": "2026-10-28T06:31:26+00:00",
+   "title_original": "Advantest Corporation - To Buy Back Up To 1.5% Of Own Shares Worth 280 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9f74dfe7fb40972c"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "The Bank of Korea analyzed that Korea needs about 840 trillion won in investment in the energy suppl..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DUlBidm5IQ2dCSVpadmJEUFpxN1YyY2lBVmZhSHJfTDc0YUlVNXRmSEhfdjk2SWx3Z09NWXYzZmZvSktiRjczZTk5eWhmOTNPbUE?oc=5",
+   "published_utc": "2026-10-28T06:24:01+00:00",
+   "title_original": "The Bank of Korea analyzed that Korea needs about 840 trillion won in investment in the energy suppl..",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "11516dfc7e127958"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "NewsBTC",
@@ -1291,23 +1325,6 @@
    "live_wire": false,
    "manual": false,
    "id": "029a5fc5de99bb37"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "TradingView",
-   "title_en": "Key facts: TSMC (2330) ups CoWoS prices 10–20%; U.S. interposers",
-   "url": "https://www.tradingview.com/news/tradingview:a9bd4932803be:0-key-facts-tsmc-2330-ups-cowos-prices-10-20-u-s-interposers/",
-   "published_utc": "2026-10-28T01:00:00+00:00",
-   "title_original": "Key facts: TSMC (2330) ups CoWoS prices 10–20%; U.S. interposers",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "fab30ec2a36133a2"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -2353,8 +2370,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -2369,7 +2386,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -5885,6 +5902,24 @@
    "id": "3a3f57c11641a184"
   },
   {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
+   "published_utc": "2026-10-26T02:13:49+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1033a50b0d22ef1a"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..",
@@ -6128,24 +6163,6 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "新湖南",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
-   "published_utc": "2026-10-26T00:06:24+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51851,23 +51868,6 @@
    "live_wire": true,
    "manual": false,
    "id": "43c1a58aabd236cd"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Samsung raises Galaxy S26 prices by $100 amid chip shortage",
-   "url": "https://www.investing.com/news/stock-market-news/samsung-raises-galaxy-s26-prices-by-100-amid-chip-shortage-93CH-4927946",
-   "published_utc": "2026-10-01T16:20:51+00:00",
-   "title_original": "Samsung raises Galaxy S26 prices by $100 amid chip shortage",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d4605c745c7e3a3d"
   },
   {
    "source_id": "manual_ia",
