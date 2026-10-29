@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T19:12:43.216960+00:00
+Última coleta: 2026-10-29T19:22:44.872203+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          874
-  🇨🇳 China          847
+  🇨🇳 China          846
   🇹🇼 Taiwan         384
-  🇰🇷 Coreia do Sul  895
+  🇰🇷 Coreia do Sul  896
 
 ## O que já está no feed (não repita)
 
+  - [korea] Hyundai Motor Company Stock 12‑Month Price Target Cut to KRW 557516.13, Implies 88% Upside
+  - [china] Evolution Metals Secures 754 Tons of Feedstock to Help Build a Supply Chain Beyond China (NASDAQ: EMAT)
   - [korea] Samsung Electronics Stocks Decline 4.13% With Memory Profits Masking Device Weakness
   - [china] European stocks closed higher as the Federal Reserve and the European Central Bank kept interest rates unchang
   - [japan] Japan to gradually reduce gasoline subsidies from Dec.: Takaichi
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Dollar pulls back as Warsh leaves tightening path murky; Euro tread water
   - [japan] [After the mid-term elections, ``Stocks will go up no matter what happens''] The future of the ``US stock mark
   - [taiwan] Taiwan central bank board members flag inflation woes, minutes show
-  - [japan] Volkswagen's July-September fiscal year results in a large deficit of over 800 billion yen
-  - [china] RemeGen Q3 Net Profit At 610.9 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T19:12:43+00:00",
+      "published_utc": "2026-10-29T19:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
