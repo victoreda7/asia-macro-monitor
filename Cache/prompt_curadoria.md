@@ -7,18 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T10:22:47.438732+00:00
+Última coleta: 2026-10-29T10:32:45.971536+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          891
-  🇨🇳 China          842
-  🇹🇼 Taiwan         382
-  🇰🇷 Coreia do Sul  885
+  🇯🇵 Japão          892
+  🇨🇳 China          843
+  🇹🇼 Taiwan         381
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 46013.64, Implies 32% Upside
   - [japan] Dollar pulls back as Warsh leaves tightening path murky; Euro tread water
+  - [japan] [After the mid-term elections, ``Stocks will go up no matter what happens''] The future of the ``US stock mark
   - [taiwan] Taiwan central bank board members flag inflation woes, minutes show
   - [japan] Volkswagen's July-September fiscal year results in a large deficit of over 800 billion yen
   - [china] RemeGen Q3 Net Profit At 610.9 Million Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Financial Partners Group - To Buy Back Up To 1.2 Million Shares For 2 Billion Yen
   - [japan] House of Councilors Liberal Democratic Party consumption tax reduction bill “If a special committee is establi
   - [japan] Bank of Japan decides to reach 2% price target, policy interest rate will be maintained (Kyodo News)
-  - [japan] Bank of Japan decides to reach 2% inflation, policy interest rate will be maintained (Kyodo News)
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T10:22:47+00:00",
+      "published_utc": "2026-10-29T10:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
