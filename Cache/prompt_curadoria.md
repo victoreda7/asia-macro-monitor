@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T11:32:43.746662+00:00
+Última coleta: 2026-10-29T11:42:44.438458+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          891
-  🇨🇳 China          844
+  🇯🇵 Japão          889
+  🇨🇳 China          845
   🇹🇼 Taiwan         381
-  🇰🇷 Coreia do Sul  884
+  🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
@@ -56,7 +56,7 @@ Total: 3000 manchetes
   - [japan] Fed Tightening Bias Gives BOJ More Room for Hawkish Signaling — Market Talk
   - [taiwan] Taiwan semiconductor industry group backs government review of nuclear power restart
   - [japan] House of Representatives Finance and Financial Affairs Committee: Consumption tax reduction bill: Ruling and o
-  - [china] Sensodyne maker Haleon cuts revenue growth forecast due to weak flu season and disruptions in China
+  - [korea] 'Interest rate freeze', US Federal Reserve focuses on possibility of hike in December... What is the direction
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T11:32:43+00:00",
+      "published_utc": "2026-10-29T11:42:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
