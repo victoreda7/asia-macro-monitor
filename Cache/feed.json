@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T22:52:43.576090+00:00",
- "collected_at_utc": "2026-10-29T22:52:43.576090+00:00",
+ "generated_at_utc": "2026-10-29T23:02:45.991244+00:00",
+ "collected_at_utc": "2026-10-29T23:02:45.991244+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 877,
+  "japan": 876,
   "china": 846,
   "taiwan": 380,
-  "korea": 897
+  "korea": 898
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T22:36:00+00:00"
+   "newest": "2026-10-29T14:17:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T08:20:00+00:00"
+   "newest": "2026-10-29T02:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T22:52:00+00:00"
+   "newest": "2026-10-29T23:01:05+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-30T07:30:00+09:00"
+   "newest": "2026-10-30T07:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T21:03:15+00:00"
+   "newest": "2026-10-29T16:03:22+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -1134,6 +1134,23 @@
    "live_wire": true,
    "manual": false,
    "id": "7a5dd939d6f3be8c"
+  },
+  {
+   "source_id": "gn_cn_reuters",
+   "source_name": "Reuters",
+   "title_en": "China military vice chair joins Communist Party's Politburo",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ29tcTAwOGN0Ti14QlNNQmN2b0hvN0FMeWI0T2N4NFUtVzUzYkc2N2NLVmZXY0c5dnoxRDg5RldqVlBIYVF0eXdrblFWeFRFcG52ZnpHUDRqTVl6SzZUeU16RGZXOWtwLXJVU0NyVUhNZS1pTXp1V2QxT1EzbFhMY3ZyRGVjN3piLW5sSWljU1I1aTdjUUJDZXQzMVA5bW55VzljUlg3TmxxaFVCcHdzZmVrbw?oc=5",
+   "published_utc": "2026-10-29T10:23:01+00:00",
+   "title_original": "China military vice chair joins Communist Party's Politburo",
+   "region": "china",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "00718f71d5f391a5"
   },
   {
    "source_id": "tradingview_live",
@@ -1951,6 +1968,24 @@
    "live_wire": false,
    "manual": false,
    "id": "7d09bede3a001b6b"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴시스",
+   "title_en": "The Bank of Korea unveils next year's Monetary Policy Committee schedule... The first interest rate decision is on January 14th.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxcFdselU3ZmNpanYtNHplUmp3dDNrLUp2TW8wS1kwUXpUdnk3UVRYZUphNWhhLUpKcVRmSlJrSk1MV213SXl6TTFXTXU0LWNHWVRGT081UWxRdHlSNmRzbmNKa0dhemZYalZzYThhUTZaWk10NUpUYdIBeEFVX3lxTFBxcFdselU3ZmNpanYtNHplUmp3dDNrLUp2TW8wS1kwUXpUdnk3UVRYZUphNWhhLUpKcVRmSlJrSk1MV213SXl6TTFXTXU0LWNHWVRGT081UWxRdHlSNmRzbmNKa0dhemZYalZzYThhUTZaWk10NUpUYQ?oc=5",
+   "published_utc": "2026-10-29T05:20:59+00:00",
+   "title_original": "한은, 내년 금통위 일정 공개…첫 금리 결정은 1월 14일",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "26abd017cb6cd562"
   },
   {
    "source_id": "korea_herald_biz",
@@ -9772,24 +9807,6 @@
    "id": "3a3f57c11641a184"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
-   "published_utc": "2026-10-26T02:13:49+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1033a50b0d22ef1a"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..",
@@ -10016,6 +10033,24 @@
    "live_wire": false,
    "manual": false,
    "id": "502351d29f0aed8f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "新湖南",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GVE01YlZ6a04wOGsybVJ0N3dVaVRLZTVfdWwtQlM4ZDJMZW1BTzJKMVhUVDZVQ3hyUFdzMGtudHcxZGVWeURYNzF4LXBDZkdoVnlv?oc=5",
+   "published_utc": "2026-10-26T00:06:24+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f5860e800d5c84c5"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51848,41 +51883,6 @@
    "live_wire": true,
    "manual": false,
    "id": "b8f4c0ea0d2bdbd0"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Zawya",
-   "title_en": "ZAWYA: Egypt’s food industry exports to China rise 21% YoY in 8 months",
-   "url": "https://www.tradingview.com/news/reuters.com,2026-10-05:newsml_Zawb1jWmw:0-zawya-egypt-s-food-industry-exports-to-china-rise-21-yoy-in-8-months/",
-   "published_utc": "2026-10-05T02:59:12+00:00",
-   "title_original": "ZAWYA: Egypt’s food industry exports to China rise 21% YoY in 8 months",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c815c1734b9389b6"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Extraordinary National Diet convenes to debate bills such as “Food consumption tax reduction” bill",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261005de54388",
-   "published_utc": "2026-10-05T02:53:00+00:00",
-   "title_original": "臨時国会召集 “食料品 消費税減税”法案など論戦へ",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "46cdcf6a77f8b3b1"
   },
   {
    "source_id": "manual_ia",
