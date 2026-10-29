@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T17:42:43.994250+00:00",
- "collected_at_utc": "2026-10-29T17:42:43.994250+00:00",
+ "generated_at_utc": "2026-10-29T17:52:45.041438+00:00",
+ "collected_at_utc": "2026-10-29T17:52:45.041438+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 879,
+  "japan": 877,
   "china": 847,
   "taiwan": 383,
-  "korea": 891
+  "korea": 893
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-29T17:24:19+00:00"
+   "newest": "2026-10-29T17:44:49+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-29T17:12:24+00:00"
+   "newest": "2026-10-29T17:36:25+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
    "newest": "2026-10-29T05:50:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T17:31:25+00:00"
+   "newest": "2026-10-29T17:51:42+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T08:34:07+00:00"
+   "newest": "2026-10-29T08:34:53+00:00"
   }
  ],
  "items": [
@@ -5749,8 +5749,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -5765,7 +5765,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "focus_taiwan",
@@ -7486,6 +7486,24 @@
    "id": "936195605368260b"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "조세일보",
+   "title_en": "Bank of Korea appoints Director of Monetary Policy Bureau Choi Chang-ho as Assistant Vice Governor for Monetary Policy and Markets",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVRFFnM3A0Yk9XNm00RGIwc1IxcTBueU1hT1RaMlRDRUFHc2pZT1dURW94bU44YkZ5UGI4bVJTZG9IUExBNVlnSjFwQmFIUVU2bVhBb09tNUhQT3lENE1SdHlMT2ZQbzl5V1FuQkpKaw?oc=5",
+   "published_utc": "2026-10-26T23:24:00+00:00",
+   "title_original": "한은, 통화정책·시장 담당 부총재보에 최창호 통화정책국장 임명",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "6358c5e00aa74c82"
+  },
+  {
    "source_id": "gn_kr_yonhap",
    "source_name": "Yonhap News Agency",
    "title_en": "(LEAD) S. Korea's GDP expands 1 pct in Q3 on strong exports, investment: BOK",
@@ -8542,6 +8560,24 @@
    "id": "3f20e5bcf5f19e10"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "중앙일보",
+   "title_en": "Choi Chang-ho, Director of Monetary Policy Bureau, appointed Assistant Vice Governor for Monetary Policy and Markets at the Bank of Korea",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pbVAzazJqVDNWMFVNR0N5WXZaTWxNbmJKZU5mYWtWbUI1VUZWak1wMmpkS0JMZVpaRU5jWC1lYV9uYVl3c2Qyd1hfYjBDaGMyc19NMkRB?oc=5",
+   "published_utc": "2026-10-26T09:03:07+00:00",
+   "title_original": "한은 통화정책·시장 부총재보에 최창호 통화정책국장",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b52d4330b199d825"
+  },
+  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks",
@@ -8630,6 +8666,24 @@
    "id": "4b3115025e6465e7"
   },
   {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합인포맥스",
+   "title_en": "Bang Hong-ki appointed as Director of Monetary Policy at the Bank of Korea... International Cooperation Director Kang Nam-i |",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GcHlHMFFPNEhrbld5ZGpibUxReVliM0xMa2ZWTm5HNjNmaURWX3IydW1vdEhMYTJ5cTZtaVpXd000N1NadXpKZERkbG4zdkh1NURsWnJOb3F6WVZCQ0dsdVdwOGVMalRBRFQ4c3RlNFFGdUtG?oc=5",
+   "published_utc": "2026-10-26T08:48:33+00:00",
+   "title_original": "한은 통화정책국장에 방홍기…국제협력국장 강남이 |",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "80f4497e2835c14c"
+  },
+  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "The Bank of Korea warned that if U.S. big tech companies' investment in artificial intelligence (AI)..",
@@ -8714,24 +8768,6 @@
    "live_wire": false,
    "manual": false,
    "id": "4b2ff2daa99b47c6"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "연합뉴스",
-   "title_en": "Choi Chang-ho, Director of Monetary Policy Bureau, appointed Assistant Vice Governor for Monetary Policy and Markets at the Bank of Korea",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ybDNmdHdoQ0NLc1dvbHo4dmtULXlBZXlHSUNBa1ZZTkpRZG5OQ084WUp1VlVyUG9vaWVNUHNUbC1tczZjM2FHU3hONmx1em9uWUZ6YnJpSGFaX0NvUkNERNIBYEFVX3lxTE8ybDNmdHdoQ0NLc1dvbHo4dmtULXlBZXlHSUNBa1ZZTkpRZG5OQ084WUp1VlVyUG9vaWVNUHNUbC1tczZjM2FHU3hONmx1em9uWUZ6YnJpSGFaX0NvUkNERA?oc=5",
-   "published_utc": "2026-10-26T08:39:22+00:00",
-   "title_original": "한은 통화정책·시장 부총재보에 최창호 통화정책국장",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9053115dc2d6be5e"
   },
   {
    "source_id": "gn_kr_bok",
@@ -51843,41 +51879,6 @@
    "live_wire": true,
    "manual": false,
    "id": "df1768e2365bd30f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "BOJ's Uchida flags AI's mixed impacts on productivity",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45A03J:0-boj-s-uchida-flags-ai-s-mixed-impacts-on-productivity/",
-   "published_utc": "2026-10-05T00:28:57+00:00",
-   "title_original": "BOJ's Uchida flags AI's mixed impacts on productivity",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "58eadef53767fdab"
-  },
-  {
-   "source_id": "boj_whatsnew",
-   "source_name": "BOJ What's New (EN)",
-   "title_en": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
-   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261005a.htm",
-   "published_utc": "2026-10-05T00:20:00+00:00",
-   "title_original": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "db8cbb9a1a27eefd"
   },
   {
    "source_id": "manual_ia",
