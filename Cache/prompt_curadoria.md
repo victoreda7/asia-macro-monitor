@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T12:02:43.219882+00:00
+Última coleta: 2026-10-29T12:12:45.285043+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          889
+  🇯🇵 Japão          888
   🇨🇳 China          846
   🇹🇼 Taiwan         381
-  🇰🇷 Coreia do Sul  884
+  🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [japan] Ritsumeikan Counterproposal to the consumption tax reduction bill: “50,000 yen benefit to tax-exempt household
+  - [china] Former President Peng Huainan was also impostored by the central bank: people should not be deceived | Sankei
   - [china] European Central Bank President Christine Lagarde resigns ahead of schedule and will step down in February 202
   - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
   - [korea] Asia report: Markets diverge amid steady central bank signals, Samsung slips on record profits
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Foxconn Industrial Internet: AI-driven demand powered strong revenue and profit growth, alongside rising serve
   - [japan] Markets Shouldn't Take BOJ Rate Hikes for Granted — Market Talk
   - [japan] Shinya Ueda despairs over prices in the U.S. ``Japan doesn't cost 1,500 yen'' Taiyo Sugiura is also shocked by
-  - [japan] Fed Tightening Bias Gives BOJ More Room for Hawkish Signaling — Market Talk
-  - [taiwan] Taiwan semiconductor industry group backs government review of nuclear power restart
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T12:02:43+00:00",
+      "published_utc": "2026-10-29T12:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
