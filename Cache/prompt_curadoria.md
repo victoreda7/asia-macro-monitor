@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T07:12:43.229118+00:00
+Última coleta: 2026-10-29T07:22:46.257356+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          895
+  🇯🇵 Japão          896
   🇨🇳 China          838
   🇹🇼 Taiwan         382
-  🇰🇷 Coreia do Sul  885
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan's Nikkei rises on Advantest profit outlook as BOJ looms
   - [korea] OCI Holdings swings to profit as revenue tops 1 trillion won, builds U.S.-bound supply chain linking Malaysia 
   - [japan] Nippon Shokubai Co - To Buy Back Up To 2.0% Own Shares Worth 6 Billion Yen
   - [korea] INTC, AMD, AVGO, MU Decline On Samsung’s Profit Miss, Lighter Capex From Microsoft, Alphabet
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Banks' household mortgage lending rates up for 5th month in Sept.
   - [japan] Yen Steadies Ahead of BOJ Policy Decision
   - [japan] The Bank of Japan has determined that the inflation rate will reach 2%, and is expected to leave the policy ra
-  - [japan] Is the inflation rate determined to reach 2%? The Bank of Japan is expected to leave the policy rate unchanged
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T07:12:43+00:00",
+      "published_utc": "2026-10-29T07:22:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
