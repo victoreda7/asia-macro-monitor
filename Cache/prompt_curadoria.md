@@ -7,17 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T08:52:42.476560+00:00
+Última coleta: 2026-10-29T09:02:44.039020+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          895
-  🇨🇳 China          842
+  🇯🇵 Japão          892
+  🇨🇳 China          844
   🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  880
+  🇰🇷 Coreia do Sul  881
 
 ## O que já está no feed (não repita)
 
+  - [china] Alphabet spells out more AI capex, China+1 doesn't add up
+  - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
+  - [china] CanSemi Tech Q3 Net Loss At 349.1 Million Yuan
+  - [china] Shanxi Taigang Stainless Steel Q3 Net Loss At 355.1 Million Yuan
+  - [china] Beijing Compass Technology Development Q3 Net Loss At 91.1 Million Yuan
   - [japan] Kddi: To Expand London Data Centre With 47 Billion Yen Land Acquisition
+  - [korea] The Seoul Metropolitan Government has set aside 55.7445 trillion won for next year's budget. It is t..
   - [korea] Federal Reserve freezes base interest rate, ‘taking a breather’… Bank of Korea weighs ‘November hike’
   - [china] China stocks slip as tech gauges hit over one-year lows, overshadowing Fed rate decision
   - [china] Loongson Technology Q3 Net Loss At 188.6 Million Yuan
@@ -51,12 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea's chip boom catches US Fed chair's eye
   - [korea] Exclusive-Bank of Korea board member says won moves faster than expected
   - [japan] Yen strengthens against dollar following Warsh's remarks
-  - [china] The central bank launches 1 trillion yuan in overnight reverse repurchases
-  - [japan] Japan bonds steady ahead of BOJ decision; strong auction lends support
-  - [korea] BOK board member flags won volatility despite AI chip export boom - RTRS
-  - [japan] Popular entertainer shocked by overseas prices. Snacks in LA cost 1,500 yen if they were in Japan...Studios ar
-  - [korea] Samsung roars back in AI chip race with record W107tr profit
-  - [japan] Tokyo Gas Co Ltd - To Buy Back Up To 3.6% Of Shares Worth 50 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T08:52:42+00:00",
+      "published_utc": "2026-10-29T09:02:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
