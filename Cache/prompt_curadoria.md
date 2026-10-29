@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T07:22:46.257356+00:00
+Última coleta: 2026-10-29T07:32:47.577678+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          896
-  🇨🇳 China          838
+  🇨🇳 China          839
   🇹🇼 Taiwan         382
-  🇰🇷 Coreia do Sul  884
+  🇰🇷 Coreia do Sul  883
 
 ## O que já está no feed (não repita)
 
+  - [japan] Financial Partners Group - To Buy Back Up To 1.2 Million Shares For 2 Billion Yen
+  - [japan] House of Councilors Liberal Democratic Party consumption tax reduction bill “If a special committee is establi
   - [japan] Japan's Nikkei rises on Advantest profit outlook as BOJ looms
   - [korea] OCI Holdings swings to profit as revenue tops 1 trillion won, builds U.S.-bound supply chain linking Malaysia 
   - [japan] Nippon Shokubai Co - To Buy Back Up To 2.0% Own Shares Worth 6 Billion Yen
@@ -24,6 +26,7 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Quarterly Dividend for Third Quarter 2026
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Announcement of Capex Plan for FY 2026
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - 2026 3Q Earnings Release
+  - [korea] The Bank of Korea's first base interest rate decision for next year will be on January 14th.
   - [japan] Yen strengthens against dollar following Warsh's remarks
   - [china] Volkswagen: U.S. Tariffs Weigh on Us, China Mkt is Shrinking, Europe Competitive Pressure Increasing Significa
   - [japan] Bank of Japan Monetary Policy Meeting: Will the inflation rate reach 2%? (ABEMA TIMES)
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Bank of Japan holds monetary policy meeting from today, policy interest rate expected to remain unchanged
   - [japan] Bank of Japan expects to keep interest rates unchanged, determined to reach inflation rate target of 2% (TV As
   - [china] Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.1062
-  - [korea] Banks' household mortgage lending rates up for 5th month in Sept.
-  - [japan] Yen Steadies Ahead of BOJ Policy Decision
-  - [japan] The Bank of Japan has determined that the inflation rate will reach 2%, and is expected to leave the policy ra
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T07:22:46+00:00",
+      "published_utc": "2026-10-29T07:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
