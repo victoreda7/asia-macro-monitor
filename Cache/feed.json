@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T08:18:16.722586+00:00",
- "collected_at_utc": "2026-10-29T08:18:16.722586+00:00",
+ "generated_at_utc": "2026-10-29T08:22:45.196269+00:00",
+ "collected_at_utc": "2026-10-29T08:22:45.196269+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 896,
+  "japan": 897,
   "china": 839,
   "taiwan": 384,
-  "korea": 881
+  "korea": 880
  },
- "elapsed_s": 29.6,
+ "elapsed_s": 30.2,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T02:55:00+00:00"
+   "newest": "2026-10-29T03:51:27+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T06:17:05+00:00"
+   "newest": "2026-10-29T06:04:40+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -123,7 +123,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "newest": "2026-10-29T13:00:00+09:00"
+   "newest": "2026-10-29T16:00:00+09:00"
   },
   {
    "source_id": "gn_kr_herald",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T06:36:00+00:00"
+   "newest": "2026-10-28T01:30:51+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "error": "",
    "newest": "2026-10-29T05:50:00+00:00"
   },
@@ -211,7 +211,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T03:28:00+00:00"
+   "newest": "2026-10-29T07:24:36+00:00"
   },
   {
    "source_id": "gn_jp_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T08:17:23+00:00"
+   "newest": "2026-10-29T08:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -552,6 +552,24 @@
    "live_wire": false,
    "manual": false,
    "id": "c938698122404dc6"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Bank of Japan decides to reach 2% price target, policy interest rate will be maintained (Kyodo News)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rVVZSQlloOWxIcTUxMFl6QWJ2SHQ3UERJdWdWY3ZUN1pVbEkyUVc0V3RfbmFSc1ZFU3FaSnNpblZoSnFHTUExczhVeWVrMnFaNjRHWF9ySTFnbVVPdnROYWlyVHRhb1Bxek5KeEc3R1dkcXBHNE5QYjdRUjhRRG8?oc=5",
+   "published_utc": "2026-10-29T07:21:23+00:00",
+   "title_original": "日銀、物価2％到達判断へ 政策金利は維持方針（共同通信）",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f893747d841c132e"
   },
   {
    "source_id": "tradingview_live",
@@ -12926,6 +12944,23 @@
   },
   {
    "source_id": "gn_kr_bok",
+   "source_name": "KBS 뉴스",
+   "title_en": "Bank of Korea freezes base interest rate... Additional increase ‘weight’ in November",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XTkYzYjNMSG5nOGtUVzZxOGVBbFhiVG43LVV3dk5VcGJSY2tRb3J6dkwzZndUWWpaTkJ2ZXRZaEdOaHRpcS1KRHFsTjEtQTRZRkpwcGFpbkY2azA?oc=5",
+   "published_utc": "2026-10-22T22:54:00+00:00",
+   "title_original": "한은, 기준금리 동결…11월 추가 인상 ‘무게’",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "c6be3e2d56a5fb5a"
+  },
+  {
+   "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "[Start Economy] The Bank of Korea unanimously freezes the base interest rate at 3% per annum... Will it be raised in November?",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4dWczYUlhbGF6alpycXF3ZzRyUXdjUXI4MUllTXVFbXVfX0pmYnVLVXlGT1FRWVQxckd2RFRwZlY1WUVzeDd0cGtHZHZqM00xSjNWUTRrN1RDRmFWbGc?oc=5",
@@ -13495,7 +13530,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "Base interest rate frozen at 3%... Governor of the Bank of Korea criticizes fiscal policy",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EVWdWY052UVhuM3M0TTl0b1RZOWxXVXFsaW8tZXVydU00OGJ6UWRGNFBSNHduOGNaREJ4TzRrdkpRVlZncDVFREtvWXJwbkp0VjktXzViRTdaLXFvUmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WdVNnSXpoRnQzU1NLclMxTlpSTDFHNV9OV0NEX1dvNHlpM0JkOFFBV1lTaUY5UFkwU0RBdFB1dmxTaUV6TF9LWDYtRFZhYk9DZkZiU2piRzQtY2RzZWhabFp2LWR0TWJMSmFGOTBmVQ?oc=5",
    "published_utc": "2026-10-22T14:02:00+00:00",
    "title_original": "기준금리 3% 동결...한은 총재, 재정 정책에 쓴소리",
    "region": "korea",
@@ -13508,7 +13543,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f36a5b6c7b5629c6"
+   "id": "fb749003d99f6b60"
   },
   {
    "source_id": "tradingview_live",
@@ -13992,23 +14027,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e08d80a328df73a3"
-  },
-  {
-   "source_id": "gn_kr_bok",
-   "source_name": "KBS 뉴스",
-   "title_en": "Bank of Korea freezes base interest rate... Additional increase ‘weight’ in November",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GU2FoY25KN3lwSDNMUWVEV2wxdUFFT2lqTkVidDU2WDNmOW52X3FEZlRCaGlZamVldXBGVjFSVF9KTW1qOEJXUnF6NXlmTkVCY2t5YlU5VDV5R0E?oc=5",
-   "published_utc": "2026-10-22T09:03:00+00:00",
-   "title_original": "한은, 기준금리 동결…11월 추가 인상 ‘무게’",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "f4289abdd23771bb"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -29949,6 +29967,23 @@
    "id": "51a413bc8920483f"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -29965,23 +30000,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -51859,23 +51877,6 @@
    "live_wire": false,
    "manual": false,
    "id": "a86942cdc523ecfd"
-  },
-  {
-   "source_id": "gn_kr_mk",
-   "source_name": "매일경제",
-   "title_en": "Investors' attention has been concentrated on Samsung Electronics over the past week, a report showe..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RQVprOVptWWdrNk9NR2xYbVVPYWJsd1g0RDloWWFEM3M0cmZqVkJFQXRibTZ2VnBrc2h3Sk5WLTljQzQ3NktlTU5kTjZXVGc?oc=5",
-   "published_utc": "2026-10-03T01:38:59+00:00",
-   "title_original": "Investors' attention has been concentrated on Samsung Electronics over the past week, a report showe..",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "06b693e5571c577f"
   },
   {
    "source_id": "manual_ia",

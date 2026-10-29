@@ -7,13 +7,13 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T08:18:16.722586+00:00
+Última coleta: 2026-10-29T08:22:45.196269+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          896
+  🇯🇵 Japão          897
   🇨🇳 China          839
   🇹🇼 Taiwan         384
-  🇰🇷 Coreia do Sul  881
+  🇰🇷 Coreia do Sul  880
 
 ## O que já está no feed (não repita)
 
@@ -29,6 +29,7 @@ Total: 3000 manchetes
   - [korea] Puriosa AI, a domestic artificial intelligence (AI) semiconductor start-up, attracted an investment
   - [japan] Financial Partners Group - To Buy Back Up To 1.2 Million Shares For 2 Billion Yen
   - [japan] House of Councilors Liberal Democratic Party consumption tax reduction bill “If a special committee is establi
+  - [japan] Bank of Japan decides to reach 2% price target, policy interest rate will be maintained (Kyodo News)
   - [japan] Japan's Nikkei rises on Advantest profit outlook as BOJ looms
   - [korea] OCI Holdings swings to profit as revenue tops 1 trillion won, builds U.S.-bound supply chain linking Malaysia 
   - [japan] Nippon Shokubai Co - To Buy Back Up To 2.0% Own Shares Worth 6 Billion Yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean Won Recovers on Dollar Weakness
   - [japan] Why has the "long-term interest rate rise" temporarily stopped? Linkage with AI semiconductor stocks, "Don't l
   - [korea] Samsung Electronics: Record results led by Memory as AI demand surges and supply remains tight
-  - [japan] Toyoda Gosei - To Buy Back Up To 6.1% Own Shares Worth 30 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T08:18:16+00:00",
+      "published_utc": "2026-10-29T08:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
