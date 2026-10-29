@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T15:22:44.923521+00:00
+Última coleta: 2026-10-29T15:28:37.201619+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          879
-  🇨🇳 China          849
-  🇹🇼 Taiwan         382
-  🇰🇷 Coreia do Sul  890
+  🇯🇵 Japão          880
+  🇨🇳 China          848
+  🇹🇼 Taiwan         383
+  🇰🇷 Coreia do Sul  889
 
 ## O que já está no feed (não repita)
 
+  - [japan] AI boom, soaring memory prices lift Japan's chip exports 41%
+  - [taiwan] AUO: Display weakness drove a TWD 2.5bn Q3 net loss as Q4 revenue is set to soften
   - [japan] European Central Bank leaves interest rates unchanged for the first time in two meetings
   - [china] EU to Add €2 Fee on E-Commerce Imports Ahead of Holiday Season
   - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transactions with Affiliate Company
   - [china] The minutes of the central bank's proceedings reveal that 2 board members opposed the 10th consecutive freeze 
   - [china] Beijing Capital Development Q3 Net Loss At 1.1 Billion Yuan
-  - [japan] Prime Minister Takaichi held the 15th Economic and Fiscal Council Meeting in 2026
-  - [taiwan] AUO sells Taichung plant to TSMC for NT$38.8B, scraps Quanta deal
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T15:22:45+00:00",
+      "published_utc": "2026-10-29T15:28:37+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
