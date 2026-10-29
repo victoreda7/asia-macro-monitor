@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T16:32:46.263609+00:00
+Última coleta: 2026-10-29T16:42:44.958133+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          881
-  🇨🇳 China          847
+  🇨🇳 China          846
   🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  889
+  🇰🇷 Coreia do Sul  890
 
 ## O que já está no feed (não repita)
 
+  - [china] AOS: China divestiture sharpens the portfolio as boiler growth offsets inflation and softer demand
+  - [korea] Why are Micron, SK Hynix and SanDisk shares falling on Thursday?
   - [japan] US GDP +3.4% growth rate from July to September Expansion of consumer AI investment
   - [japan] AI boom, soaring memory prices lift Japan's chip exports 41%
   - [taiwan] AUO: Display weakness drove a TWD 2.5bn Q3 net loss as Q4 revenue is set to soften
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Decision on Share Disposition
   - [japan] Yomiuri: Sumitomo Mitsui Trust Bank to Launch 10 Billion Yen Anime Fund
   - [japan] Electricity charges for November hit record highs for seven major companies
-  - [japan] Yomiuri: Ward in Central Tokyo Calls on Condominium Developers to Prohibit Resale Within 5 Years
-  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transactions with Affiliate Company
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T16:32:46+00:00",
+      "published_utc": "2026-10-29T16:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
