@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T00:12:42.872604+00:00
+Última coleta: 2026-10-29T00:22:44.596167+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          909
+  🇯🇵 Japão          908
   🇨🇳 China          840
-  🇹🇼 Taiwan         389
+  🇹🇼 Taiwan         390
   🇰🇷 Coreia do Sul  862
 
 ## O que já está no feed (não repita)
 
+  - [korea] Russia imports North Korean workers disguised as students, report shows
+  - [japan] US Federal Reserve keeps interest rates unchanged
+  - [taiwan] Three major points of the Federal Reserve: Two members oppose maintaining interest rates, fighting inflation, 
   - [korea] Key facts: SK hynix posts record profit; ₩100T return, HBM4 gains
   - [japan] Nikkei May Decline Amid Caution Over U.S., Japan Monetary Policy — Market Talk
   - [japan] Although the Bank of Japan judged that the underlying price trend had reached the target level of 2%, the posi
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [korea] S&P 500 and Nasdaq open higher with SK Hynix boosting semiconductor sector; Fed Spotlight
   - [china] SUNING.COM Q3 Net Loss At 73.2 Million Yuan
-  - [china] IMF says deputy managing director Li to be replaced by Chinese vice finance minister Liao
-  - [korea] S&P 500 and Nasdaq open higher with SK Hynix boosting the chip sector; Fed Spotlight
-  - [china] BBMG Jidong Cement Group Q3 Net Loss At 488.6 Million Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T00:12:43+00:00",
+      "published_utc": "2026-10-29T00:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
