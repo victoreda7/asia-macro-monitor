@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T23:12:45.391939+00:00
+Última coleta: 2026-10-29T23:22:44.788086+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          876
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
   - [china] Hong Kong Housing Secretary Resigns Over Deadly Fire Oversight Failures
   - [japan] Japan Data, Rate Decision Due On Friday
   - [japan] Bank of Japan to hold rates, signal further hikes By Reuters
@@ -40,7 +41,6 @@ Total: 3000 manchetes
   - [china] China Makes First Inquiry for US Wheat Since Trump-Xi Summit
   - [japan] European Central Bank leaves interest rates unchanged for the first time in two meetings
   - [china] EU to Add €2 Fee on E-Commerce Imports Ahead of Holiday Season
-  - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
   - [china] Angang Steel Q3 Net Loss At 2.0 Billion Yuan
   - [taiwan] U.S. GDP expanded by 3.4% in the third quarter, higher than expected, and core inflation increased by 3.1% in 
   - [china] Jiangxi Zhengbang Tech Q3 Net Loss At 353.8 Million Yuan
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T23:12:45+00:00",
+      "published_utc": "2026-10-29T23:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
