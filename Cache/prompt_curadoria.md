@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T12:52:44.294433+00:00
+Última coleta: 2026-10-29T13:02:45.084049+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          886
-  🇨🇳 China          847
+  🇯🇵 Japão          884
+  🇨🇳 China          848
   🇹🇼 Taiwan         382
-  🇰🇷 Coreia do Sul  885
+  🇰🇷 Coreia do Sul  886
 
 ## O que já está no feed (não repita)
 
+  - [korea] SK Hynix Is Sold Out Through 2029 as Seagate Locks In Demand Into 2030
   - [japan] Japan plans to start reducing gasoline subsidies from December
   - [japan] Ritsumeikan Counterproposal to the consumption tax reduction bill: “50,000 yen benefit to tax-exempt household
   - [china] Former President Peng Huainan was also impostored by the central bank: people should not be deceived | Sankei
@@ -24,6 +25,7 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
   - [korea] Asia report: Markets diverge amid steady central bank signals, Samsung slips on record profits
   - [korea] Samsung prevê que escassez de chips de IA se agrave
+  - [china] China Names New Politburo Member, Plans Party Congress in 2027
   - [china] Geely Profit Climbs as Surging Exports Help Offset China Slump
   - [china] Volkswagen expects exports to compensate for part of the slowdown in China, says chief financial officer
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 46013.64, Implies 32% Upside
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] China stocks slip as tech gauges hit over one-year lows, overshadowing Fed rate decision
   - [china] Loongson Technology Q3 Net Loss At 188.6 Million Yuan
   - [china] Muyuan Foods Q3 Net Loss At 3.2 Billion Yuan
-  - [china] CNSIG Inner Mongolia Chemical Industry Q3 Net Loss At 302.5 Million Yuan
-  - [taiwan] Foxconn Industrial Internet: AI-driven demand powered strong revenue and profit growth, alongside rising serve
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T12:52:44+00:00",
+      "published_utc": "2026-10-29T13:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
