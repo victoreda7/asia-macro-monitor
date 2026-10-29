@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T04:12:45.424756+00:00
+Última coleta: 2026-10-29T04:22:44.329901+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          894
-  🇨🇳 China          840
-  🇹🇼 Taiwan         384
-  🇰🇷 Coreia do Sul  882
+  🇯🇵 Japão          895
+  🇨🇳 China          841
+  🇹🇼 Taiwan         383
+  🇰🇷 Coreia do Sul  881
 
 ## O que já está no feed (não repita)
 
+  - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 32% Upside
+  - [japan] Japan 10Y Yield Steadies Ahead of BOJ Decision
   - [japan] BOJ preview October: hawkish hold expected as inflation remains sticky By Investing.com
   - [china] China's yuan hits 4-year high versus dollar after Fed decision
   - [japan] BOJ preview October: hawkish hold expected as inflation remains sticky
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] S. Korea to conditionally ease diesel export restrictions amid stable crude supplies
   - [korea] Correct: Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q, Not KRW106.5
   - [korea] Samsung posts record quarterly profit as AI-driven chip demand surges
-  - [korea] Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q
-  - [korea] Samsung Electronics approves W30tr dividend on record Q3 profit
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T04:12:45+00:00",
+      "published_utc": "2026-10-29T04:22:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
