@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T08:42:45.839725+00:00
+Última coleta: 2026-10-29T08:52:42.476560+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          895
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Kddi: To Expand London Data Centre With 47 Billion Yen Land Acquisition
   - [korea] Federal Reserve freezes base interest rate, ‘taking a breather’… Bank of Korea weighs ‘November hike’
   - [china] China stocks slip as tech gauges hit over one-year lows, overshadowing Fed rate decision
   - [china] Loongson Technology Q3 Net Loss At 188.6 Million Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Popular entertainer shocked by overseas prices. Snacks in LA cost 1,500 yen if they were in Japan...Studios ar
   - [korea] Samsung roars back in AI chip race with record W107tr profit
   - [japan] Tokyo Gas Co Ltd - To Buy Back Up To 3.6% Of Shares Worth 50 Billion Yen
-  - [japan] [Today's Oha Biz October 29th (Thursday)] The point of the Fed leaving interest rates unchanged is
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T08:42:46+00:00",
+      "published_utc": "2026-10-29T08:52:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
