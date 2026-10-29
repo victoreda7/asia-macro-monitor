@@ -7,12 +7,12 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T01:52:43.499933+00:00
+Última coleta: 2026-10-29T02:02:46.411612+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          899
+  🇯🇵 Japão          898
   🇨🇳 China          841
-  🇹🇼 Taiwan         386
+  🇹🇼 Taiwan         387
   🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
@@ -40,6 +40,7 @@ Total: 3000 manchetes
   - [japan] [Tokyo Foreign Exchange] Dollar, high 157 yen level = Scuffle ahead of Bank of Japan decision meeting (9:00 a.
   - [korea] Russia imports North Korean workers disguised as students, report shows
   - [japan] US Federal Reserve keeps interest rates unchanged
+  - [taiwan] The Fed's two committee members opposed keeping interest rates on hold, and the issue of inflation remains unr
   - [taiwan] Three major points of the Federal Reserve: Two members oppose maintaining interest rates, fighting inflation, 
   - [korea] Key facts: SK hynix posts record profit; ₩100T return, HBM4 gains
   - [japan] Nikkei May Decline Amid Caution Over U.S., Japan Monetary Policy — Market Talk
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Fed leaves policy interest rate unchanged for the first time in two meetings, perhaps to assess the impact on 
   - [china] IMF Taps China’s Vice Finance Minister Liao Min for Deputy Managing Director Role
   - [japan] Behind the Odakyu "base" in a quiet residential area of ​​Setagaya, 5 minutes walk from Kitami Station, "train
-  - [korea] Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T01:52:43+00:00",
+      "published_utc": "2026-10-29T02:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
