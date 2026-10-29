@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T04:22:44.329901+00:00
+Última coleta: 2026-10-29T04:32:46.752934+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          895
-  🇨🇳 China          841
-  🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  881
+  🇯🇵 Japão          896
+  🇨🇳 China          840
+  🇹🇼 Taiwan         384
+  🇰🇷 Coreia do Sul  880
 
 ## O que já está no feed (não repita)
 
+  - [korea] Bank of Korea board member says won moves faster than expected
+  - [japan] Toyoda Gosei - To Buy Back Up To 6.1% Own Shares Worth 30 Billion Yen
+  - [china] China stocks slip as tech weakness overshadows Fed rate decision
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 32% Upside
   - [japan] Japan 10Y Yield Steadies Ahead of BOJ Decision
   - [japan] BOJ preview October: hawkish hold expected as inflation remains sticky By Investing.com
@@ -39,6 +42,7 @@ Total: 3000 manchetes
   - [japan] Toho Gas Co., Ltd. - To Buy Back Up To 5.7% Own Shares Worth 17 Billion Yen
   - [china] China clean tech exports to cut global emissions by Brazil-sized amount in 2026
   - [japan] Mito Securities Co Ltd - To Buy Back Up To 1.68% Own Shares Worth 800 Million Yen
+  - [korea] Samsung Electronics posts $80bn in chip profit in Q3
   - [taiwan] Cathie Wood Piles Into Archer, Joby for Third Straight Day as Ark Dumps AMD, TSMC Shares
   - [korea] Earnings call transcript: Samsung Electronics posts record Q3 2026 profit
   - [korea] South Korean won, Indonesian rupiah lead Asian currencies higher
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7147 THURS VS 6.7165
   - [japan] Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Nov 5
   - [china] The central bank launches 115 billion yuan 7-day reverse repurchase operation
-  - [korea] Sk Hynix Considering Various Ways To Increase Competitiveness Of Solidigm
-  - [korea] S. Korea to conditionally ease diesel export restrictions amid stable crude supplies
-  - [korea] Correct: Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q, Not KRW106.5
-  - [korea] Samsung posts record quarterly profit as AI-driven chip demand surges
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T04:22:44+00:00",
+      "published_utc": "2026-10-29T04:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
