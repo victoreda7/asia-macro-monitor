@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T01:02:45.254206+00:00
+Última coleta: 2026-10-29T01:12:45.558355+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          905
-  🇨🇳 China          839
-  🇹🇼 Taiwan         388
-  🇰🇷 Coreia do Sul  868
+  🇨🇳 China          838
+  🇹🇼 Taiwan         387
+  🇰🇷 Coreia do Sul  870
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics approves W30tr dividend on record Q3 profit
   - [korea] Samsung registra lucro recorde no terceiro trimestre graças ao boom dos chips de IA
-  - [korea] Samsung posts record profit in Q3 on AI chip boom
   - [japan] JGB Yields Rise Amid Caution Ahead of BOJ Decision — Market Talk
+  - [korea] Samsung posts record profit in Q3 on AI chip boom
+  - [korea] S. Korea to conditionally ease diesel export restrictions amid stable crude supplies
   - [korea] Samsung Electronics Q3 2026 Earnings Call Is Live
   - [korea] Samsung Electronics 3Q Net Profit Below FactSet-Compiled Consensus
   - [china] China's New Export Restrictions Protect Its AI Crown Jewels
@@ -27,6 +29,7 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics: AI-led memory drove record Q3 revenue and operating profit above KRW 100T
   - [korea] Samsung Electronics 3Q Oper Pft KRW107.441T Vs. Pft KRW12.166T >005930.SE
   - [korea] Samsung Electronics 3Q Rev KRW195.253T Vs. KRW86.062T >005930.SE
+  - [japan] [Tokyo Foreign Exchange] Dollar, high 157 yen level = Scuffle ahead of Bank of Japan decision meeting (9:00 a.
   - [korea] Russia imports North Korean workers disguised as students, report shows
   - [japan] US Federal Reserve keeps interest rates unchanged
   - [taiwan] Three major points of the Federal Reserve: Two members oppose maintaining interest rates, fighting inflation, 
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [korea] SK hynix Stocks Rally 10.89% With Buyback Cancellation Split in Focus
   - [china] Tunisia sets 3.1 pct economic growth target for 2027
   - [korea] US sanctions North Korean network accused of defrauding businesses
-  - [korea] SK Hynix Shakes Up the AI Chip Stock Narrative
-  - [korea] SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3229708.97, Implies 141% Upside
-  - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 44931.82, Implies 33% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T01:02:45+00:00",
+      "published_utc": "2026-10-29T01:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
