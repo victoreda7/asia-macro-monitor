@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T20:22:44.883228+00:00
+Última coleta: 2026-10-29T20:29:19.846139+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          875
-  🇨🇳 China          846
+  🇨🇳 China          845
   🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  896
+  🇰🇷 Coreia do Sul  897
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics: AI-led Memory records lifted Q3 operating profit above KRW 100T; costs pressure DX
   - [japan] European Central Bank leaves policy interest rate unchanged, focus of policy decision in December
   - [japan] Bank of Japan outlook for maintaining policy interest rate; focus on determining whether to reach 2% inflation
   - [japan] Volkswagen's July-September fiscal year results in a large deficit of over 800 billion yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung prevê que escassez de chips de IA se agrave
   - [china] China Names New Politburo Member, Plans Party Congress in 2027
   - [china] Geely Profit Climbs as Surging Exports Help Offset China Slump
-  - [china] Volkswagen expects exports to compensate for part of the slowdown in China, says chief financial officer
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T20:22:45+00:00",
+      "published_utc": "2026-10-29T20:29:20+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
