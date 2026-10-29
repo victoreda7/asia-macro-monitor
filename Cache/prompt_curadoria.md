@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T04:42:44.872975+00:00
+Última coleta: 2026-10-29T04:52:46.106395+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          896
@@ -17,7 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
-  - [korea] Bank of Korea board member says won moves faster than expected
+  - [korea] Samsung Electronics: Record results led by Memory as AI demand surges and supply remains tight
+  - [korea] Exclusive-Bank of Korea board member says won moves faster than expected
   - [japan] Toyoda Gosei - To Buy Back Up To 6.1% Own Shares Worth 30 Billion Yen
   - [china] China stocks slip as tech weakness overshadows Fed rate decision
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 32% Upside
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO THURS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7147 THURS VS 6.7165
   - [japan] Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Nov 5
-  - [china] The central bank launches 115 billion yuan 7-day reverse repurchase operation
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T04:42:45+00:00",
+      "published_utc": "2026-10-29T04:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
