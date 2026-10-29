@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T06:22:44.462098+00:00
+Última coleta: 2026-10-29T06:32:46.503771+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          897
+  🇯🇵 Japão          896
   🇨🇳 China          837
-  🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  883
+  🇹🇼 Taiwan         382
+  🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [korea] S. Korea eyes virtuous cycle via green economic growth
   - [korea] Korea's chip boom catches US Fed chair's eye
+  - [korea] Exclusive-Bank of Korea board member says won moves faster than expected
   - [china] The central bank launches 1 trillion yuan in overnight reverse repurchases
   - [korea] Samsung sees memory supply tight through 2028 as 2027 HBM sells out
   - [japan] Japan bonds steady ahead of BOJ decision; strong auction lends support
@@ -29,7 +31,6 @@ Total: 3000 manchetes
   - [korea] Samsung's Chip Profit Drives Another Record Quarter — Update
   - [korea] South Korean Won Recovers on Dollar Weakness
   - [japan] Why has the "long-term interest rate rise" temporarily stopped? Linkage with AI semiconductor stocks, "Don't l
-  - [korea] Exclusive-Bank of Korea board member says won moves faster than expected
   - [korea] Samsung Electronics: Record results led by Memory as AI demand surges and supply remains tight
   - [japan] Toyoda Gosei - To Buy Back Up To 6.1% Own Shares Worth 30 Billion Yen
   - [china] China stocks slip as tech weakness overshadows Fed rate decision
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Toho Gas Co., Ltd. - To Buy Back Up To 5.7% Own Shares Worth 17 Billion Yen
   - [china] China clean tech exports to cut global emissions by Brazil-sized amount in 2026
   - [japan] Mito Securities Co Ltd - To Buy Back Up To 1.68% Own Shares Worth 800 Million Yen
-  - [korea] Samsung Electronics posts $80bn in chip profit in Q3
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T06:22:44+00:00",
+      "published_utc": "2026-10-29T06:32:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
