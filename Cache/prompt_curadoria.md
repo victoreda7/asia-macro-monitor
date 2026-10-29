@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T15:32:44.839285+00:00
+Última coleta: 2026-10-29T15:42:46.874514+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          880
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] US GDP +3.4% growth rate from July to September Expansion of consumer AI investment
   - [japan] AI boom, soaring memory prices lift Japan's chip exports 41%
   - [taiwan] AUO: Display weakness drove a TWD 2.5bn Q3 net loss as Q4 revenue is set to soften
   - [japan] European Central Bank leaves interest rates unchanged for the first time in two meetings
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] Yomiuri: Ward in Central Tokyo Calls on Condominium Developers to Prohibit Resale Within 5 Years
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transactions with Affiliate Company
   - [china] The minutes of the central bank's proceedings reveal that 2 board members opposed the 10th consecutive freeze 
-  - [china] Beijing Capital Development Q3 Net Loss At 1.1 Billion Yuan
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T15:32:45+00:00",
+      "published_utc": "2026-10-29T15:42:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
