@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T10:12:44.069543+00:00
+Última coleta: 2026-10-29T10:22:47.438732+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          892
-  🇨🇳 China          841
-  🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  884
+  🇯🇵 Japão          891
+  🇨🇳 China          842
+  🇹🇼 Taiwan         382
+  🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 46013.64, Implies 32% Upside
   - [japan] Dollar pulls back as Warsh leaves tightening path murky; Euro tread water
   - [taiwan] Taiwan central bank board members flag inflation woes, minutes show
   - [japan] Volkswagen's July-September fiscal year results in a large deficit of over 800 billion yen
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [japan] House of Councilors Liberal Democratic Party consumption tax reduction bill “If a special committee is establi
   - [japan] Bank of Japan decides to reach 2% price target, policy interest rate will be maintained (Kyodo News)
   - [japan] Bank of Japan decides to reach 2% inflation, policy interest rate will be maintained (Kyodo News)
-  - [japan] Japan's Nikkei rises on Advantest profit outlook as BOJ looms
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T10:12:44+00:00",
+      "published_utc": "2026-10-29T10:22:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
