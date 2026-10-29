@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T12:32:44.765356+00:00
+Última coleta: 2026-10-29T12:42:44.916874+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          888
-  🇨🇳 China          846
+  🇯🇵 Japão          887
+  🇨🇳 China          847
   🇹🇼 Taiwan         381
   🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan plans to start reducing gasoline subsidies from December
   - [japan] Ritsumeikan Counterproposal to the consumption tax reduction bill: “50,000 yen benefit to tax-exempt household
   - [china] Former President Peng Huainan was also impostored by the central bank: people should not be deceived | Sankei
   - [china] European Central Bank President Christine Lagarde resigns ahead of schedule and will step down in February 202
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] CNSIG Inner Mongolia Chemical Industry Q3 Net Loss At 302.5 Million Yuan
   - [taiwan] Foxconn Industrial Internet: AI-driven demand powered strong revenue and profit growth, alongside rising serve
   - [japan] Markets Shouldn't Take BOJ Rate Hikes for Granted — Market Talk
-  - [japan] Shinya Ueda despairs over prices in the U.S. ``Japan doesn't cost 1,500 yen'' Taiyo Sugiura is also shocked by
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T12:32:44+00:00",
+      "published_utc": "2026-10-29T12:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
