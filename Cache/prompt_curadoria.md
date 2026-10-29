@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T03:02:44.762907+00:00
+Última coleta: 2026-10-29T03:12:44.498815+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          893
-  🇨🇳 China          840
-  🇹🇼 Taiwan         383
-  🇰🇷 Coreia do Sul  884
+  🇨🇳 China          839
+  🇹🇼 Taiwan         385
+  🇰🇷 Coreia do Sul  883
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan central bank head deems AI bubble crash scenario extreme
   - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation, with a net investment of 115 
+  - [taiwan] AI, semiconductors drive foreign investor gains, weakening Taiwan dollar
   - [japan] Bank of Japan outlook for keeping policy interest rate unchanged Monetary policy meeting from today (NTV NEWS 
   - [china] AgiBot Reports Nearly 2 Billion Yuan in H1 2026 Revenue, 20,000 Robots Produced
   - [japan] Toho Gas Co., Ltd. - To Buy Back Up To 5.7% Own Shares Worth 17 Billion Yen
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] US Federal Reserve keeps interest rates unchanged
   - [taiwan] The Fed's two committee members opposed keeping interest rates on hold, and the issue of inflation remains unr
   - [taiwan] Three major points of the Federal Reserve: Two members oppose maintaining interest rates, fighting inflation, 
-  - [korea] Key facts: SK hynix posts record profit; ₩100T return, HBM4 gains
-  - [japan] Nikkei May Decline Amid Caution Over U.S., Japan Monetary Policy — Market Talk
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T03:02:45+00:00",
+      "published_utc": "2026-10-29T03:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
