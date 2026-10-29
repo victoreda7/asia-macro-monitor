@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T11:02:45.484632+00:00
+Última coleta: 2026-10-29T11:12:45.243992+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          891
@@ -17,6 +17,8 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
+  - [korea] Asia report: Markets diverge amid steady central bank signals, Samsung slips on record profits
   - [korea] Samsung prevê que escassez de chips de IA se agrave
   - [china] Volkswagen expects exports to compensate for part of the slowdown in China, says chief financial officer
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 46013.64, Implies 32% Upside
@@ -29,17 +31,18 @@ Total: 3000 manchetes
   - [china] Governor of the Central Bank: Tightening again if necessary will maintain the housing market in a situation of
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Decision on Share Disposition
   - [japan] Yomiuri: Sumitomo Mitsui Trust Bank to Launch 10 Billion Yen Anime Fund
+  - [japan] Electricity charges for November hit record highs for seven major companies
   - [japan] Yomiuri: Ward in Central Tokyo Calls on Condominium Developers to Prohibit Resale Within 5 Years
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transactions with Affiliate Company
   - [china] The minutes of the central bank's proceedings reveal that 2 board members opposed the 10th consecutive freeze 
   - [china] Beijing Capital Development Q3 Net Loss At 1.1 Billion Yuan
   - [china] Alphabet spells out more AI capex, China+1 doesn't add up
-  - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
   - [china] CanSemi Tech Q3 Net Loss At 349.1 Million Yuan
   - [china] Shanxi Taigang Stainless Steel Q3 Net Loss At 355.1 Million Yuan
   - [china] Beijing Compass Technology Development Q3 Net Loss At 91.1 Million Yuan
   - [korea] Samsung Electronics' Investment in Facility Investment at Article 85...Responding to semiconductor boom with l
   - [korea] Samsung Electronics Co. Investments in Facilities Investment at Article 85
+  - [korea] Samsung Electronics confirmed an unconventional shareholder return policy of 30 trillion won in cash..
   - [japan] Kddi: To Expand London Data Centre With 47 Billion Yen Land Acquisition
   - [korea] The Seoul Metropolitan Government has set aside 55.7445 trillion won for next year's budget. It is t..
   - [korea] Federal Reserve freezes base interest rate, ‘taking a breather’… Bank of Korea weighs ‘November hike’
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan semiconductor industry group backs government review of nuclear power restart
   - [japan] House of Representatives Finance and Financial Affairs Committee: Consumption tax reduction bill: Ruling and o
   - [china] Sensodyne maker Haleon cuts revenue growth forecast due to weak flu season and disruptions in China
-  - [china] Sensodyne maker Haleon cuts revenue growth forecast on weak flu season, China disruption
-  - [korea] Puriosa AI, a domestic artificial intelligence (AI) semiconductor start-up, attracted an investment
-  - [japan] Financial Partners Group - To Buy Back Up To 1.2 Million Shares For 2 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T11:02:45+00:00",
+      "published_utc": "2026-10-29T11:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
