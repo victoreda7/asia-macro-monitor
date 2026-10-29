@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T22:42:43.057509+00:00
+Última coleta: 2026-10-29T22:52:43.576090+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          878
-  🇨🇳 China          845
+  🇯🇵 Japão          877
+  🇨🇳 China          846
   🇹🇼 Taiwan         380
   🇰🇷 Coreia do Sul  897
 
 ## O que já está no feed (não repita)
 
+  - [china] Hong Kong Housing Secretary Resigns Over Deadly Fire Oversight Failures
   - [japan] Japan Data, Rate Decision Due On Friday
   - [japan] Bank of Japan to hold rates, signal further hikes By Reuters
   - [japan] Bank of Japan to hold rates, signal further hikes
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] European Central Bank President Christine Lagarde resigns ahead of schedule and will step down in February 202
   - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
   - [korea] Asia report: Markets diverge amid steady central bank signals, Samsung slips on record profits
-  - [japan] BoJ Preview: Hawkish Hold
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T22:42:43+00:00",
+      "published_utc": "2026-10-29T22:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
