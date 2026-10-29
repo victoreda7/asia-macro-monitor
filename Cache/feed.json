@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T08:02:45.764621+00:00",
- "collected_at_utc": "2026-10-29T08:02:45.764621+00:00",
+ "generated_at_utc": "2026-10-29T08:12:43.511844+00:00",
+ "collected_at_utc": "2026-10-29T08:12:43.511844+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 897,
-  "china": 838,
+  "japan": 896,
+  "china": 839,
   "taiwan": 384,
   "korea": 881
  },
- "elapsed_s": 29.8,
+ "elapsed_s": 30.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -35,7 +35,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T07:46:00+00:00"
+   "newest": "2026-10-28T19:35:00+00:00"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T03:51:27+00:00"
+   "newest": "2026-10-29T02:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -51,7 +51,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T06:04:40+00:00"
+   "newest": "2026-10-29T06:17:05+00:00"
   },
   {
    "source_id": "gn_tw_focus",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-29T07:43:32+00:00"
+   "newest": "2026-10-29T08:07:09+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-29T07:52:12+00:00"
+   "newest": "2026-10-29T08:05:05+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T08:02:38+00:00"
+   "newest": "2026-10-29T08:11:16+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T01:43:25+00:00"
+   "newest": "2026-10-29T04:47:02+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -291,7 +291,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T06:27:17+00:00"
+   "newest": "2026-10-29T07:55:25+00:00"
   },
   {
    "source_id": "yahoo_business",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T03:00:09+00:00"
+   "newest": "2026-10-28T21:00:03+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T07:19:34+00:00"
+   "newest": "2026-10-29T07:37:17+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,23 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "CNSIG Inner Mongolia Chemical Industry Q3 Net Loss At 302.5 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F0QD:0-cnsig-inner-mongolia-chemical-industry-q3-net-loss-at-302-5-million-yuan/",
+   "published_utc": "2026-10-29T08:03:26+00:00",
+   "title_original": "CNSIG Inner Mongolia Chemical Industry Q3 Net Loss At 302.5 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "189ac88053ded200"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Quartr",
@@ -376,6 +393,24 @@
    "live_wire": true,
    "manual": false,
    "id": "e34b1cbf0f252b80"
+  },
+  {
+   "source_id": "gn_jp_yahoo",
+   "source_name": "Yahoo!ニュース",
+   "title_en": "Shinya Ueda despairs over prices in the U.S. ``Japan doesn't cost 1,500 yen'' Taiyo Sugiura is also shocked by hot dog prices (Tokyo Sports Web)",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQNnhkZ29xNlgyRkZEV1IwS3JmbjlqeTdUNHRfRXJ4SWJfV2VPdk8tVmhNNzRRUU4xOUdjOFV2OUt3aUFnWXExbk1Wb3ozZXBlWDdvaGxuVHdXZG1ldmp5TDItckdMN0VoUlI5b251T2VlUksyS01VclBHYjE5MjQ?oc=5",
+   "published_utc": "2026-10-29T07:55:25+00:00",
+   "title_original": "上田晋也 米国の物価に絶望「日本なら1500円しない」 杉浦太陽もホットドッグ価格に衝撃（東スポWEB）",
+   "region": "japan",
+   "topics": [
+    "fx",
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "a935151e1c54e6f1"
   },
   {
    "source_id": "tradingview_live",
@@ -465,6 +500,23 @@
    "live_wire": true,
    "manual": false,
    "id": "722ea41d649331e5"
+  },
+  {
+   "source_id": "gn_kr_mk",
+   "source_name": "매일경제",
+   "title_en": "Puriosa AI, a domestic artificial intelligence (AI) semiconductor start-up, attracted an investment",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NTGxjaDVOS3h5ckVNX002UUVnNVhvcW9CVlVJc0hmZlNnVEpJaW5jcDEwUHdGMTRWWTc0TDZVcDVZWm1fb0NlMHBaQWlhUQ?oc=5",
+   "published_utc": "2026-10-29T07:37:17+00:00",
+   "title_original": "Puriosa AI, a domestic artificial intelligence (AI) semiconductor start-up, attracted an investment",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "e43140f28cfbbaeb"
   },
   {
    "source_id": "tradingview_live",
@@ -1474,23 +1526,6 @@
    "live_wire": false,
    "manual": false,
    "id": "816a8b781a3d4bd5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "South Korean won, Indonesian rupiah lead Asian currencies higher",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F026:0-south-korean-won-indonesian-rupiah-lead-asian-currencies-higher/",
-   "published_utc": "2026-10-29T02:12:07+00:00",
-   "title_original": "South Korean won, Indonesian rupiah lead Asian currencies higher",
-   "region": "korea",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "515001d0a33385d8"
   },
   {
    "source_id": "investing_live",
@@ -12891,23 +12926,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "KBS 뉴스",
-   "title_en": "Bank of Korea freezes base interest rate... Additional increase ‘weight’ in November",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XTkYzYjNMSG5nOGtUVzZxOGVBbFhiVG43LVV3dk5VcGJSY2tRb3J6dkwzZndUWWpaTkJ2ZXRZaEdOaHRpcS1KRHFsTjEtQTRZRkpwcGFpbkY2azA?oc=5",
-   "published_utc": "2026-10-22T22:54:00+00:00",
-   "title_original": "한은, 기준금리 동결…11월 추가 인상 ‘무게’",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "c6be3e2d56a5fb5a"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "[Start Economy] The Bank of Korea unanimously freezes the base interest rate at 3% per annum... Will it be raised in November?",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4dWczYUlhbGF6alpycXF3ZzRyUXdjUXI4MUllTXVFbXVfX0pmYnVLVXlGT1FRWVQxckd2RFRwZlY1WUVzeDd0cGtHZHZqM00xSjNWUTRrN1RDRmFWbGc?oc=5",
@@ -13477,7 +13495,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "Base interest rate frozen at 3%... Governor of the Bank of Korea criticizes fiscal policy",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WdVNnSXpoRnQzU1NLclMxTlpSTDFHNV9OV0NEX1dvNHlpM0JkOFFBV1lTaUY5UFkwU0RBdFB1dmxTaUV6TF9LWDYtRFZhYk9DZkZiU2piRzQtY2RzZWhabFp2LWR0TWJMSmFGOTBmVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EVWdWY052UVhuM3M0TTl0b1RZOWxXVXFsaW8tZXVydU00OGJ6UWRGNFBSNHduOGNaREJ4TzRrdkpRVlZncDVFREtvWXJwbkp0VjktXzViRTdaLXFvUmc?oc=5",
    "published_utc": "2026-10-22T14:02:00+00:00",
    "title_original": "기준금리 3% 동결...한은 총재, 재정 정책에 쓴소리",
    "region": "korea",
@@ -13490,7 +13508,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "fb749003d99f6b60"
+   "id": "f36a5b6c7b5629c6"
   },
   {
    "source_id": "tradingview_live",
@@ -13974,6 +13992,23 @@
    "live_wire": false,
    "manual": false,
    "id": "e08d80a328df73a3"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "KBS 뉴스",
+   "title_en": "Bank of Korea freezes base interest rate... Additional increase ‘weight’ in November",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GU2FoY25KN3lwSDNMUWVEV2wxdUFFT2lqTkVidDU2WDNmOW52X3FEZlRCaGlZamVldXBGVjFSVF9KTW1qOEJXUnF6NXlmTkVCY2t5YlU5VDV5R0E?oc=5",
+   "published_utc": "2026-10-22T09:03:00+00:00",
+   "title_original": "한은, 기준금리 동결…11월 추가 인상 ‘무게’",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "f4289abdd23771bb"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -51841,41 +51876,6 @@
    "live_wire": false,
    "manual": false,
    "id": "06b693e5571c577f"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "The importance of the Bank of Japan's words \"change in circumstances\" (Hiroyuki Kubota) - Expert",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2RZSTZucXdtZVc1azFnSmJ3US1WOHBfQjQ4RXlVTWR1VmlGUkotN0FpeDA3blBVdUFzQ1B6dmVVMWZyN3RKZFhlWE02dVlUODVXQ1ctMzJZS2ZIY1p2SmRwVEZKQ1B3RTZxbXhtcmk1Y1IzV3M4a1pDa2J4TGQ3b2pXSE5RbVV3?oc=5",
-   "published_utc": "2026-10-02T23:48:15+00:00",
-   "title_original": "日銀による「局面の変化」との言葉の重要性（久保田博幸） - エキスパート",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "trade"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "5dae568979099ba5"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "U.S. employment statistics show a lower-than-expected 29,000 increase in September...unemployment rate rises from 4.1% to 4.2% | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/960051?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-02T23:00:00+00:00",
-   "title_original": "米雇用統計､9月は予想下回る2万9000人増にとどまる…失業率は4.1％から4.2%に上昇 | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "aaa74de4ca622e92"
   },
   {
    "source_id": "manual_ia",

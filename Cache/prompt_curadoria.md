@@ -7,23 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T08:02:45.764621+00:00
+Última coleta: 2026-10-29T08:12:43.511844+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          897
-  🇨🇳 China          838
+  🇯🇵 Japão          896
+  🇨🇳 China          839
   🇹🇼 Taiwan         384
   🇰🇷 Coreia do Sul  881
 
 ## O que já está no feed (não repita)
 
+  - [china] CNSIG Inner Mongolia Chemical Industry Q3 Net Loss At 302.5 Million Yuan
   - [taiwan] Foxconn Industrial Internet: AI-driven demand powered strong revenue and profit growth, alongside rising serve
   - [japan] Markets Shouldn't Take BOJ Rate Hikes for Granted — Market Talk
+  - [japan] Shinya Ueda despairs over prices in the U.S. ``Japan doesn't cost 1,500 yen'' Taiyo Sugiura is also shocked by
   - [japan] Fed Tightening Bias Gives BOJ More Room for Hawkish Signaling — Market Talk
   - [taiwan] Taiwan semiconductor industry group backs government review of nuclear power restart
   - [japan] House of Representatives Finance and Financial Affairs Committee: Consumption tax reduction bill: Ruling and o
   - [china] Sensodyne maker Haleon cuts revenue growth forecast due to weak flu season and disruptions in China
   - [china] Sensodyne maker Haleon cuts revenue growth forecast on weak flu season, China disruption
+  - [korea] Puriosa AI, a domestic artificial intelligence (AI) semiconductor start-up, attracted an investment
   - [japan] Financial Partners Group - To Buy Back Up To 1.2 Million Shares For 2 Billion Yen
   - [japan] House of Councilors Liberal Democratic Party consumption tax reduction bill “If a special committee is establi
   - [japan] Japan's Nikkei rises on Advantest profit outlook as BOJ looms
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [japan] Why has the "long-term interest rate rise" temporarily stopped? Linkage with AI semiconductor stocks, "Don't l
   - [korea] Samsung Electronics: Record results led by Memory as AI demand surges and supply remains tight
   - [japan] Toyoda Gosei - To Buy Back Up To 6.1% Own Shares Worth 30 Billion Yen
-  - [china] China stocks slip as tech weakness overshadows Fed rate decision
-  - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 32% Upside
-  - [japan] Japan 10Y Yield Steadies Ahead of BOJ Decision
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T08:02:46+00:00",
+      "published_utc": "2026-10-29T08:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
