@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T05:32:43.629977+00:00
+Última coleta: 2026-10-29T05:42:45.021148+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          898
+  🇯🇵 Japão          899
   🇨🇳 China          837
   🇹🇼 Taiwan         384
-  🇰🇷 Coreia do Sul  881
+  🇰🇷 Coreia do Sul  880
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan bonds steady ahead of BOJ decision; strong auction lends support
   - [korea] Samsung fires back in AI chip race with record W107tr profit
   - [japan] Tokyo Gas Co Ltd - To Buy Back Up To 3.6% Of Shares Worth 50 Billion Yen
   - [japan] [Today's Oha Biz October 29th (Thursday)] The point of the Fed leaving interest rates unchanged is
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] South Korean won, Indonesian rupiah lead Asian currencies higher
   - [japan] Denso Corporation - To Buy Back Up To 3.99% Own Shares Worth 200 Billion Yen
   - [korea] Why is Samsung Electronics stock sliding today?
-  - [korea] Samsung Electronics posts record profit in Q3 on AI chip supercycle
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T05:32:43+00:00",
+      "published_utc": "2026-10-29T05:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }

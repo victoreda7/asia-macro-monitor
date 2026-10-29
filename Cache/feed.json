@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T05:32:43.629977+00:00",
- "collected_at_utc": "2026-10-29T05:32:43.629977+00:00",
+ "generated_at_utc": "2026-10-29T05:42:45.021148+00:00",
+ "collected_at_utc": "2026-10-29T05:42:45.021148+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 898,
+  "japan": 899,
   "china": 837,
   "taiwan": 384,
-  "korea": 881
+  "korea": 880
  },
- "elapsed_s": 29.7,
+ "elapsed_s": 29.9,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-29T05:30:31+00:00"
+   "newest": "2026-10-29T05:40:15+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-29T14:25:01+09:00"
+   "newest": "2026-10-29T14:25:00+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-29T14:14:07+09:00"
+   "newest": "2026-10-29T14:33:54+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T05:32:18+00:00"
+   "newest": "2026-10-29T05:41:56+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T04:47:02+00:00"
+   "newest": "2026-10-29T01:43:25+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T02:27:29+00:00"
+   "newest": "2026-10-28T08:42:20+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -339,10 +339,27 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T10:00:00+00:00"
+   "newest": "2026-10-28T23:35:39+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan bonds steady ahead of BOJ decision; strong auction lends support",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F05O:0-japan-bonds-steady-ahead-of-boj-decision-strong-auction-lends-support/",
+   "published_utc": "2026-10-29T05:38:16+00:00",
+   "title_original": "Japan bonds steady ahead of BOJ decision; strong auction lends support",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "184b8d87bf77785f"
+  },
   {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
@@ -1329,23 +1346,6 @@
    "live_wire": true,
    "manual": false,
    "id": "6945aed89743cb7b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Samsung Electronics 3Q Net Profit Below FactSet-Compiled Consensus",
-   "url": "https://www.tradingview.com/news/DJN_DN20261028017557_20261028017562:0-samsung-electronics-3q-net-profit-below-factset-compiled-consensus/",
-   "published_utc": "2026-10-29T00:56:00+00:00",
-   "title_original": "Samsung Electronics 3Q Net Profit Below FactSet-Compiled Consensus",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "c4bacfabc403256f"
   },
   {
    "source_id": "gn_kr_reuters",
@@ -13108,7 +13108,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "YTN",
    "title_en": "Base interest rate frozen at 3%... Governor of the Bank of Korea criticizes fiscal policy",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EVWdWY052UVhuM3M0TTl0b1RZOWxXVXFsaW8tZXVydU00OGJ6UWRGNFBSNHduOGNaREJ4TzRrdkpRVlZncDVFREtvWXJwbkp0VjktXzViRTdaLXFvUmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WdVNnSXpoRnQzU1NLclMxTlpSTDFHNV9OV0NEX1dvNHlpM0JkOFFBV1lTaUY5UFkwU0RBdFB1dmxTaUV6TF9LWDYtRFZhYk9DZkZiU2piRzQtY2RzZWhabFp2LWR0TWJMSmFGOTBmVQ?oc=5",
    "published_utc": "2026-10-22T14:02:00+00:00",
    "title_original": "기준금리 3% 동결...한은 총재, 재정 정책에 쓴소리",
    "region": "korea",
@@ -13121,7 +13121,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "f36a5b6c7b5629c6"
+   "id": "fb749003d99f6b60"
   },
   {
    "source_id": "tradingview_live",
@@ -29546,6 +29546,23 @@
    "id": "51a413bc8920483f"
   },
   {
+   "source_id": "gn_jp_kyodo",
+   "source_name": "Japan Wire by Kyodo News",
+   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
+   "published_utc": "2026-10-15T07:00:00+00:00",
+   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "67ee8a7b322e3e29"
+  },
+  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -29562,23 +29579,6 @@
    "live_wire": false,
    "manual": false,
    "id": "b2e7c641ba6eff94"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNjZFWlVKbEdTcmFDbnZjVXBTYURJOU5zYUN6bUs5RUxmcmVBUzkyZzZVX1ctbHVBNUFnTXAwd05heURqM2tGZFcxTDVDdjV1VlJTM09SMzNXUQ?oc=5",
-   "published_utc": "2026-10-15T07:00:00+00:00",
-   "title_original": "G20 finance chiefs share global inflation concerns from Middle East crisis",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "67ee8a7b322e3e29"
   },
   {
    "source_id": "gn_kr_yonhap",
