@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T01:22:44.619448+00:00",
- "collected_at_utc": "2026-10-29T01:22:44.619448+00:00",
+ "generated_at_utc": "2026-10-29T01:32:49.132977+00:00",
+ "collected_at_utc": "2026-10-29T01:32:49.132977+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 902,
+  "japan": 900,
   "china": 839,
   "taiwan": 386,
-  "korea": 873
+  "korea": 875
  },
- "elapsed_s": 30.5,
+ "elapsed_s": 31.1,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-29T01:02:11+00:00"
+   "newest": "2026-10-29T01:21:15+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-29T01:16:31+00:00"
+   "newest": "2026-10-29T01:28:02+00:00"
   },
   {
    "source_id": "gn_jp_kyodo",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-28T02:16:20+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,9 +201,9 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 30,
+   "count": 27,
    "error": "",
-   "newest": "2026-10-27T05:46:33+00:00"
+   "newest": "2026-10-28T01:25:23+00:00"
   },
   {
    "source_id": "gn_cn_reuters",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T01:22:28+00:00"
+   "newest": "2026-10-29T01:31:54+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T22:42:17+00:00"
+   "newest": "2026-10-28T16:37:35+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T21:00:03+00:00"
+   "newest": "2026-10-29T01:00:02+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -344,6 +344,57 @@
  ],
  "items": [
   {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "CHINA SETS YUAN CENTRAL PARITY AT 6.7147 THURS VS 6.7165",
+   "url": "https://www.tradingview.com/news/dpa_afx:12bc3334dd60e:0-china-sets-yuan-central-parity-at-6-7147-thurs-vs-6-7165/",
+   "published_utc": "2026-10-29T01:31:54+00:00",
+   "title_original": "CHINA SETS YUAN CENTRAL PARITY AT 6.7147 THURS VS 6.7165",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fc18226147727b33"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Nov 5",
+   "url": "https://www.tradingview.com/news/DJN_DN20261028017651:0-japan-mof-to-auction-y2-6t-of-10-year-govt-bonds-nov-5/",
+   "published_utc": "2026-10-29T01:30:00+00:00",
+   "title_original": "Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Nov 5",
+   "region": "japan",
+   "topics": [
+    "signaling"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "f513d8e793fd907a"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Sk Hynix Considering Various Ways To Increase Competitiveness Of Solidigm",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46E2DK:0-sk-hynix-considering-various-ways-to-increase-competitiveness-of-solidigm/",
+   "published_utc": "2026-10-29T01:22:57+00:00",
+   "title_original": "Sk Hynix Considering Various Ways To Increase Competitiveness Of Solidigm",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "4c6237fbbd501abe"
+  },
+  {
    "source_id": "korea_herald_biz",
    "source_name": "Korea Herald Business",
    "title_en": "S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
@@ -378,6 +429,23 @@
    "id": "8ff2f95d601009c8"
   },
   {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Samsung posts record quarterly profit as AI-driven chip demand surges",
+   "url": "https://www.investing.com/news/earnings/samsung-posts-record-quarterly-profit-as-aidriven-chip-demand-surges-4981297",
+   "published_utc": "2026-10-29T01:10:19+00:00",
+   "title_original": "Samsung posts record quarterly profit as AI-driven chip demand surges",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0d6a6cb52ea35c4e"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q",
@@ -393,6 +461,23 @@
    "live_wire": true,
    "manual": false,
    "id": "604a88dd5bfc3348"
+  },
+  {
+   "source_id": "investing_live",
+   "source_name": "Investing.com",
+   "title_en": "Samsung posts record profit in Q3 on AI chip boom",
+   "url": "https://www.investing.com/news/stock-market-news/samsung-posts-record-profit-in-q3-on-ai-chip-boom-4981289",
+   "published_utc": "2026-10-29T01:07:31+00:00",
+   "title_original": "Samsung posts record profit in Q3 on AI chip boom",
+   "region": "korea",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2d09c27d75a3e10b"
   },
   {
    "source_id": "korea_herald_biz",
@@ -445,23 +530,6 @@
    "live_wire": true,
    "manual": false,
    "id": "4ac6cf75b4d8448a"
-  },
-  {
-   "source_id": "investing_live",
-   "source_name": "Investing.com",
-   "title_en": "Samsung posts record profit in Q3 on AI chip boom",
-   "url": "https://www.investing.com/news/stock-market-news/samsung-posts-record-profit-in-q3-on-ai-chip-boom-4981289",
-   "published_utc": "2026-10-29T01:00:28+00:00",
-   "title_original": "Samsung posts record profit in Q3 on AI chip boom",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "2d09c27d75a3e10b"
   },
   {
    "source_id": "tradingview_live",
@@ -3683,8 +3751,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -3699,7 +3767,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "c385cfaf1a735ef0"
+   "id": "13a041a9c99324db"
   },
   {
    "source_id": "focus_taiwan",
@@ -7127,24 +7195,6 @@
    "id": "8399afe95a73a2a4"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "观点网",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44bDhrZ3MzczNISjF4NGJQd3NtaE11U0R4Qi1kVVZzR3JJdS1sZ05aalRxY3hxWlI3ejRvUXVCS1VlTlV0S2ZsMWRKZi1nQQ?oc=5",
-   "published_utc": "2026-10-26T02:58:35+00:00",
-   "title_original": "央行开展560亿元7天期逆回购操作 当日净投放1160亿元",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b1b5c2b77adc6ac0"
-  },
-  {
    "source_id": "gn_tw_digitimes",
    "source_name": "digitimes",
    "title_en": "Taiwan wafer-testing supplier Hermes Testing Solutions commits more than US$215 million to advanced chip testing expansion",
@@ -7160,6 +7210,24 @@
    "live_wire": false,
    "manual": false,
    "id": "aaa72da40a4cc8ae"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "证券之星",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation, with a net investment of 116 billion yuan that day_Company News_Finance",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rTVRxbExmVHZiemhmTTVxQ1BrOEpYQ1dZM3pzRzFvVVl2a1EySndLZXo1eGdYSEsyWElxcFh2eHgzQzNVUzg4MGVhTmwwdW5NdTZYZzZQUVNuX0RpVS1XZQ?oc=5",
+   "published_utc": "2026-10-26T02:58:00+00:00",
+   "title_original": "央行开展560亿元7天期逆回购操作当日净投放1160亿元_公司新闻_财经",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "99d930fcac0d27b2"
   },
   {
    "source_id": "gn_tw_digitimes",
@@ -7301,24 +7369,6 @@
    "id": "3a3f57c11641a184"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
-   "published_utc": "2026-10-26T02:13:49+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1033a50b0d22ef1a"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..",
@@ -7334,24 +7384,6 @@
    "live_wire": false,
    "manual": false,
    "id": "c39539e469407cde"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "21财经",
-   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWhNU01CVy1DUGE3QThESUxpbTVTRlBzMlZjNVZ2a2Y1bFRYU1Z2LTZLVExQSV94ZEZJRVRuRjcyZDZ1VEdiajQtUmQyVE1VZ0RWamhHSF9GNXdIZGZ1V0w1eFBXa0Yyd3dJaFhjX05EYzF2Um44SUtOdDJ0SWFiQW9WSG1DSk82T3NkdGhCcw?oc=5",
-   "published_utc": "2026-10-26T02:02:54+00:00",
-   "title_original": "央行今日开展560亿元7天期逆回购操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "e3ebd8dab0afb08a"
   },
   {
    "source_id": "gn_kr_mk",
@@ -7511,6 +7543,24 @@
    "live_wire": false,
    "manual": false,
    "id": "de72ef6f280f0b18"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kYXM5YUF1NlRvUTZEdjJEVjNJNXZqMDZiai1FcGM3RVVGaVZwOUx2YlpMbHpydlZMV1VUNUhkaE9ud2VvdjlGLUlWRk5XMGVuNGgxZFhZYnN1b2kyeHc?oc=5",
+   "published_utc": "2026-10-26T00:27:36+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "80c3ba148e83c89b"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -7923,6 +7973,24 @@
    "live_wire": false,
    "manual": false,
    "id": "6ebaca0ceb12f77f"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 56 billion yuan 7-day reverse repurchase operation today",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2dqeHM1QWl0R0hPXzVKTVJrVmFUc3QydTM3aVZOdGNkUDB0aGJneEdsbHNlcU15eUVXck5ZRE5TTG9hTlVXMGZSSjJ5bm84THNGRzJMakE?oc=5",
+   "published_utc": "2026-10-25T10:29:00+00:00",
+   "title_original": "央行今日开展560亿元7天期逆回购操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "58e7522fe4f32f91"
   },
   {
    "source_id": "tradingview_live",
@@ -12816,23 +12884,6 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "네이버페이 머니스토리",
-   "title_en": "The Bank of Korea, which had been raising the base interest rate, now freezes it at 3.00%... What is the background?",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fdmE2NlhjLWxpQ3dObWNRYVlTMnJIV2UyczQ0SXVmazFFcXBkbnloR1B5WGtYeWlvVzlMRlBnVGlRSEtiT2VGSnRjTm8wQXhuTFE?oc=5",
-   "published_utc": "2026-10-22T06:50:01+00:00",
-   "title_original": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?",
-   "region": "korea",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b4fcebcd8480f063"
-  },
-  {
-   "source_id": "gn_kr_bok",
    "source_name": "비즈니스포스트",
    "title_en": "The Bank of Korea's monetary policy is a testbed for the Lee Jae-myung administration's '821 trillion active fiscal policy', and the task of managing household and corporate debt is heavy.",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80Z2xxeGF4RmZ2TktfSGtqMGlzNnlsMEJJV2VGdTF3aks1dUQyZ2tUOWxLTWs0czNfVzZJWVNUazNkZmRkejBNcm5DbUVwRV9valNOblJJcE56R1NTR2lGNkt3dVVlZVFWWTJkSnNCOGdXMnc?oc=5",
@@ -13215,6 +13266,23 @@
    "live_wire": false,
    "manual": false,
    "id": "f1034c71bbfb07fa"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "뉴스1",
+   "title_en": "[News 1 PICK] Bank of Korea freezes base interest rate at 3.00% per annum... adjusts pace of tightening",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Rc0tKUElBZG5iOUpvSlMxX3gxU3RsMkdKM2VoT2tnQ3I3QVduUWRYanhHSl9oWkdJbF9IY2huRVpHa19mSjIwLWpPX2N6T0MxTU9MaUtrTXg1SFRzcDBLN0ZlNA?oc=5",
+   "published_utc": "2026-10-22T04:39:58+00:00",
+   "title_original": "[뉴스1 PICK] 한국은행, 기준금리 연 3.00% 동결⋯긴축 속도 조절",
+   "region": "korea",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "1a6b6c6d7e45a056"
   },
   {
    "source_id": "korea_herald_biz",
@@ -51800,77 +51868,6 @@
    "live_wire": true,
    "manual": false,
    "id": "2635f566f13c1042"
-  },
-  {
-   "source_id": "investing_econ",
-   "source_name": "Investing Economy",
-   "title_en": "More aggressive China stimulus unlikely for now, BofA says",
-   "url": "https://www.investing.com/news/economy-news/more-aggressive-china-stimulus-unlikely-for-now-bofa-says-4928874",
-   "published_utc": "2026-10-02T04:03:51+00:00",
-   "title_original": "More aggressive China stimulus unlikely for now, BofA says",
-   "region": "china",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "30acb5fb8285c5fe"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "In the past five years, when inflation has rapidly increased, what and how have households saved? Thorough analysis of the best data | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/959892?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-02T04:00:00+00:00",
-   "title_original": "〈くっきり浮かび上がる傾向〉インフレが一気に進んだこの5年､家計は何をどう節約したのか？最高峰データを徹底分析 | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "inflation"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "9fb0e17833aaa50e"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "Japan Minister Declines to Elaborate on Remarks at BOJ Meeting",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUE5IRUVhY2pVYUxTaXRfdGlUSS1WNGpXZ2IybDgxa1VWdFMyT2ExTWZHeGlqQmVlTEIwNnoyUDV1eW5zeGVybmR1c0laSUtzQVo5RlJ1dHdJNW9BSThrRFFEa0tnTGUyWWpFMENWTU9pcnFWX3Rod2VpT0ZRdmhBSUFNTnB6UzIzYWNLTVQzOFAwaG1kaHJ6amJRT0dOTXF6d2FZSGI0OGFiVDdPSWZPblRrYw?oc=5",
-   "published_utc": "2026-10-02T03:55:00+00:00",
-   "title_original": "Japan Minister Declines to Elaborate on Remarks at BOJ Meeting",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "42daaacf18ce0810"
-  },
-  {
-   "source_id": "gn_jp_investing",
-   "source_name": "Investing.com Nigeria",
-   "title_en": "Japanese yen firms on strong inflation, dollar muted before payrolls test",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObmdaQ3FxdFRzcDBEWDVRUDhpSzJ6RnJyUDd3TnloVWMxOGUxY3ZjSGxWQU50eTEtdmZKSW8yczJ4dlRQMFJLcVR4VlZ4ZjVVbTV4UFJ3b210dE5FazBCUnF5MENQUDdHZDh5RlZ0cm9zZlZZbjFsNkswckxhMHB2VC05dzVrU1UzZ2s1QmhUd3RPd09TV1VYTlRSMnVoUFRhcHJWY0VJNEZPcjV1Q1JDa0s4UmN5cC1NNTZrSE13?oc=5",
-   "published_utc": "2026-10-02T03:52:12+00:00",
-   "title_original": "Japanese yen firms on strong inflation, dollar muted before payrolls test",
-   "region": "japan",
-   "topics": [
-    "fx",
-    "inflation",
-    "activity"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "dcae14b6d347af3f"
   },
   {
    "source_id": "manual_ia",

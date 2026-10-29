@@ -7,23 +7,27 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T01:22:44.619448+00:00
+Última coleta: 2026-10-29T01:32:49.132977+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          902
+  🇯🇵 Japão          900
   🇨🇳 China          839
   🇹🇼 Taiwan         386
-  🇰🇷 Coreia do Sul  873
+  🇰🇷 Coreia do Sul  875
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7147 THURS VS 6.7165
+  - [japan] Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Nov 5
+  - [korea] Sk Hynix Considering Various Ways To Increase Competitiveness Of Solidigm
   - [korea] S. Korea to conditionally ease diesel export restrictions amid stable crude supplies
   - [korea] Correct: Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q, Not KRW106.5
+  - [korea] Samsung posts record quarterly profit as AI-driven chip demand surges
   - [korea] Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q
+  - [korea] Samsung posts record profit in Q3 on AI chip boom
   - [korea] Samsung Electronics approves W30tr dividend on record Q3 profit
   - [korea] Samsung registra lucro recorde no terceiro trimestre graças ao boom dos chips de IA
   - [japan] JGB Yields Rise Amid Caution Ahead of BOJ Decision — Market Talk
-  - [korea] Samsung posts record profit in Q3 on AI chip boom
   - [korea] Samsung Electronics Q3 2026 Earnings Call Is Live
   - [korea] Samsung Electronics 3Q Net Profit Below FactSet-Compiled Consensus
   - [china] China's New Export Restrictions Protect Its AI Crown Jewels
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
   - [korea] SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3234972.13, Implies 141% Upside
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45831.82, Implies 35% Upside
-  - [korea] NPS sets sights on Silicon Valley startups, tightens risk control on AI bets
-  - [korea] SK hynix: AI-led memory demand drove record Q3 results and ~KRW 100T in planned FY2026 shareholder returns
-  - [japan] Japan weighs corporate tax hike to fund defense buildup
-  - [japan] Takaichi presses Merz not to leave Japan out of 'Made in Europe' EV subsidies
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T01:22:44+00:00",
+      "published_utc": "2026-10-29T01:32:49+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
