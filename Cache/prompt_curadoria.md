@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T03:42:45.326238+00:00
+Última coleta: 2026-10-29T03:52:45.414215+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          894
-  🇨🇳 China          841
+  🇯🇵 Japão          895
+  🇨🇳 China          840
   🇹🇼 Taiwan         385
   🇰🇷 Coreia do Sul  880
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung sees chip shortage worsening, but keeps investors in suspense on returns
   - [china] China Focus: China's sustained housing upgrades keep urban decay at bay
+  - [japan] Bank of Japan holds monetary policy meeting from today, policy interest rate expected to remain unchanged
   - [japan] Bank of Japan expects to keep interest rates unchanged, determined to reach inflation rate target of 2% (TV As
   - [china] Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.1062
   - [korea] Banks' household mortgage lending rates up for 5th month in Sept.
@@ -54,9 +56,7 @@ Total: 3000 manchetes
   - [japan] JGB Yields Rise Amid Caution Ahead of BOJ Decision — Market Talk
   - [korea] Samsung Electronics Q3 2026 Earnings Call Is Live
   - [korea] Samsung Electronics 3Q Net Profit Below FactSet-Compiled Consensus
-  - [korea] Samsung sees chip shortage worsening, but keeps investors in suspense on returns
   - [china] China's New Export Restrictions Protect Its AI Crown Jewels
-  - [korea] Samsung Electronics 3Q Net KRW75.136T Vs. Net KRW12.226T >005930.SE
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T03:42:45+00:00",
+      "published_utc": "2026-10-29T03:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
