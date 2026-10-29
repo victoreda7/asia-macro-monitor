@@ -7,17 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T05:12:43.623270+00:00
+Última coleta: 2026-10-29T05:22:43.352014+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          896
-  🇨🇳 China          839
-  🇹🇼 Taiwan         385
-  🇰🇷 Coreia do Sul  880
+  🇯🇵 Japão          898
+  🇨🇳 China          837
+  🇹🇼 Taiwan         384
+  🇰🇷 Coreia do Sul  881
 
 ## O que já está no feed (não repita)
 
+  - [korea] Samsung fires back in AI chip race with record W107tr profit
+  - [japan] Tokyo Gas Co Ltd - To Buy Back Up To 3.6% Of Shares Worth 50 Billion Yen
+  - [japan] [Today's Oha Biz October 29th (Thursday)] The point of the Fed leaving interest rates unchanged is
   - [korea] Samsung's Chip Profit Drives Another Record Quarter — Update
+  - [korea] South Korean Won Recovers on Dollar Weakness
   - [japan] Why has the "long-term interest rate rise" temporarily stopped? Linkage with AI semiconductor stocks, "Don't l
   - [korea] Exclusive-Bank of Korea board member says won moves faster than expected
   - [korea] Samsung Electronics: Record results led by Memory as AI demand surges and supply remains tight
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Denso Corporation - To Buy Back Up To 3.99% Own Shares Worth 200 Billion Yen
   - [korea] Why is Samsung Electronics stock sliding today?
   - [korea] Samsung Electronics posts record profit in Q3 on AI chip supercycle
-  - [korea] Samsung posts record profit in Q3 on AI chip boom
-  - [korea] Samsung Expects Chip Supply Shortages to Persist Through 2028
-  - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation today
-  - [china] CHINA PBOC CONDUCTS CNY115 BLN VIA 7-DAY REVERSE REPO THURS
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T05:12:43+00:00",
+      "published_utc": "2026-10-29T05:22:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
