@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-29T21:42:45.050285+00:00",
- "collected_at_utc": "2026-10-29T21:42:45.050285+00:00",
+ "generated_at_utc": "2026-10-29T21:52:42.943751+00:00",
+ "collected_at_utc": "2026-10-29T21:52:42.943751+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-29T21:25:40+00:00"
+   "newest": "2026-10-29T21:43:39+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-29T21:18:31+00:00"
+   "newest": "2026-10-29T21:36:24+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 25,
+   "count": 26,
    "error": "",
    "newest": "2026-10-29T05:50:00+00:00"
   },
@@ -243,7 +243,7 @@
    "ok": true,
    "count": 50,
    "error": "",
-   "newest": "2026-10-29T21:30:07+00:00"
+   "newest": "2026-10-29T21:42:06+00:00"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T16:00:00+00:00"
+   "newest": "2026-10-29T16:00:00+00:00"
   },
   {
    "source_id": "tradingview_live",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T21:41:11+00:00"
+   "newest": "2026-10-29T21:51:40+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T10:37:22+00:00"
+   "newest": "2026-10-28T21:00:03+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -323,7 +323,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "newest": "2026-10-30T06:30:00+09:00"
+   "newest": "2026-10-30T06:45:00+09:00"
   },
   {
    "source_id": "gn_kr_mk",
@@ -8392,7 +8392,7 @@
   },
   {
    "source_id": "gn_kr_bok",
-   "source_name": "금융신문",
+   "source_name": "한국금융신문",
    "title_en": "[Profile] Choi Chang-ho, Assistant Vice President for Monetary Policy and Markets at the Bank of Korea",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WNWxvWW9vNDM1UE5SYWFwb19tcjcxYVdhanI4UnRpT2JLMHdfb0RlajhkRm5PcFhhZ2Z2N05QTWx0c3VMb3RaOF83UXRneHNKZjR6RVZ3a1p0VVoxbVVJSHEycmh3RllQN0R4blRuU0ZNY3FZX2Z0Yzc2Y1Q?oc=5",
    "published_utc": "2026-10-26T11:33:55+00:00",
@@ -8666,24 +8666,6 @@
    "id": "3f20e5bcf5f19e10"
   },
   {
-   "source_id": "gn_kr_bok",
-   "source_name": "중앙일보",
-   "title_en": "Choi Chang-ho, Director of Monetary Policy Bureau, appointed Assistant Vice Governor for Monetary Policy and Markets at the Bank of Korea",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pbVAzazJqVDNWMFVNR0N5WXZaTWxNbmJKZU5mYWtWbUI1VUZWak1wMmpkS0JMZVpaRU5jWC1lYV9uYVl3c2Qyd1hfYjBDaGMyc19NMkRB?oc=5",
-   "published_utc": "2026-10-26T09:03:07+00:00",
-   "title_original": "한은 통화정책·시장 부총재보에 최창호 통화정책국장",
-   "region": "korea",
-   "topics": [
-    "monetary",
-    "signaling"
-   ],
-   "lang_original": "ko",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "b52d4330b199d825"
-  },
-  {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
    "title_en": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks",
@@ -8892,6 +8874,24 @@
    "live_wire": false,
    "manual": false,
    "id": "4b2ff2daa99b47c6"
+  },
+  {
+   "source_id": "gn_kr_bok",
+   "source_name": "연합뉴스",
+   "title_en": "Choi Chang-ho, Director of Monetary Policy Bureau, appointed Assistant Vice Governor for Monetary Policy and Markets at the Bank of Korea",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ybDNmdHdoQ0NLc1dvbHo4dmtULXlBZXlHSUNBa1ZZTkpRZG5OQ084WUp1VlVyUG9vaWVNUHNUbC1tczZjM2FHU3hONmx1em9uWUZ6YnJpSGFaX0NvUkNERNIBYEFVX3lxTE8ybDNmdHdoQ0NLc1dvbHo4dmtULXlBZXlHSUNBa1ZZTkpRZG5OQ084WUp1VlVyUG9vaWVNUHNUbC1tczZjM2FHU3hONmx1em9uWUZ6YnJpSGFaX0NvUkNERA?oc=5",
+   "published_utc": "2026-10-26T08:39:22+00:00",
+   "title_original": "한은 통화정책·시장 부총재보에 최창호 통화정책국장",
+   "region": "korea",
+   "topics": [
+    "monetary",
+    "signaling"
+   ],
+   "lang_original": "ko",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "9053115dc2d6be5e"
   },
   {
    "source_id": "gn_kr_bok",
