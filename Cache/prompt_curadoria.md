@@ -7,19 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T07:02:46.365077+00:00
+Última coleta: 2026-10-29T07:12:43.229118+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          894
+  🇯🇵 Japão          895
   🇨🇳 China          838
   🇹🇼 Taiwan         382
-  🇰🇷 Coreia do Sul  886
+  🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [korea] OCI Holdings swings to profit as revenue tops 1 trillion won, builds U.S.-bound supply chain linking Malaysia 
+  - [japan] Nippon Shokubai Co - To Buy Back Up To 2.0% Own Shares Worth 6 Billion Yen
+  - [korea] INTC, AMD, AVGO, MU Decline On Samsung’s Profit Miss, Lighter Capex From Microsoft, Alphabet
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Quarterly Dividend for Third Quarter 2026
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Announcement of Capex Plan for FY 2026
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - 2026 3Q Earnings Release
+  - [japan] Yen strengthens against dollar following Warsh's remarks
   - [china] Volkswagen: U.S. Tariffs Weigh on Us, China Mkt is Shrinking, Europe Competitive Pressure Increasing Significa
   - [japan] Bank of Japan Monetary Policy Meeting: Will the inflation rate reach 2%? (ABEMA TIMES)
   - [korea] S. Korea eyes virtuous cycle via green economic growth
@@ -30,7 +34,7 @@ Total: 3000 manchetes
   - [japan] Japan bonds steady ahead of BOJ decision; strong auction lends support
   - [korea] BOK board member flags won volatility despite AI chip export boom - RTRS
   - [japan] Popular entertainer shocked by overseas prices. Snacks in LA cost 1,500 yen if they were in Japan...Studios ar
-  - [korea] Samsung fires back in AI chip race with record W107tr profit
+  - [korea] Samsung roars back in AI chip race with record W107tr profit
   - [japan] Tokyo Gas Co Ltd - To Buy Back Up To 3.6% Of Shares Worth 50 Billion Yen
   - [japan] [Today's Oha Biz October 29th (Thursday)] The point of the Fed leaving interest rates unchanged is
   - [korea] Samsung's Chip Profit Drives Another Record Quarter — Update
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [japan] Yen Steadies Ahead of BOJ Policy Decision
   - [japan] The Bank of Japan has determined that the inflation rate will reach 2%, and is expected to leave the policy ra
   - [japan] Is the inflation rate determined to reach 2%? The Bank of Japan is expected to leave the policy rate unchanged
-  - [japan] Will the inflation rate reach 2%? The Bank of Japan is expected to leave the policy rate unchanged (TV Asahi (
-  - [taiwan] Taiwan central bank head deems AI bubble crash scenario extreme
-  - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation, with a net investment of 115 
-  - [taiwan] AI, semiconductors drive foreign investor gains, weakening Taiwan dollar
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T07:02:46+00:00",
+      "published_utc": "2026-10-29T07:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
