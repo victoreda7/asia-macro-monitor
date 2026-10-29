@@ -7,11 +7,11 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T09:32:47.439490+00:00
+Última coleta: 2026-10-29T09:42:45.131484+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          889
-  🇨🇳 China          844
+  🇯🇵 Japão          890
+  🇨🇳 China          843
   🇹🇼 Taiwan         382
   🇰🇷 Coreia do Sul  885
 
@@ -41,6 +41,7 @@ Total: 3000 manchetes
   - [japan] Fed Tightening Bias Gives BOJ More Room for Hawkish Signaling — Market Talk
   - [taiwan] Taiwan semiconductor industry group backs government review of nuclear power restart
   - [japan] House of Representatives Finance and Financial Affairs Committee: Consumption tax reduction bill: Ruling and o
+  - [japan] Dollar pulls back as Warsh leaves tightening path murky; Euro tread water
   - [china] Sensodyne maker Haleon cuts revenue growth forecast due to weak flu season and disruptions in China
   - [china] Sensodyne maker Haleon cuts revenue growth forecast on weak flu season, China disruption
   - [korea] Puriosa AI, a domestic artificial intelligence (AI) semiconductor start-up, attracted an investment
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - 2026 3Q Earnings Release
   - [korea] Samsung sees memory supply tight through 2028 as 2027 HBM sells out
   - [korea] The Bank of Korea's first base interest rate decision for next year will be on January 14th.
-  - [korea] The Bank of Korea makes its first base interest rate decision for next year on January 14th... Monetary Policy
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T09:32:47+00:00",
+      "published_utc": "2026-10-29T09:42:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
