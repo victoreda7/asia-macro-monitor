@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T02:52:43.329747+00:00
+Última coleta: 2026-10-29T03:02:44.762907+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          894
-  🇨🇳 China          839
-  🇹🇼 Taiwan         384
-  🇰🇷 Coreia do Sul  883
+  🇯🇵 Japão          893
+  🇨🇳 China          840
+  🇹🇼 Taiwan         383
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation, with a net investment of 115 
+  - [japan] Bank of Japan outlook for keeping policy interest rate unchanged Monetary policy meeting from today (NTV NEWS 
+  - [china] AgiBot Reports Nearly 2 Billion Yuan in H1 2026 Revenue, 20,000 Robots Produced
   - [japan] Toho Gas Co., Ltd. - To Buy Back Up To 5.7% Own Shares Worth 17 Billion Yen
   - [china] China clean tech exports to cut global emissions by Brazil-sized amount in 2026
   - [japan] Mito Securities Co Ltd - To Buy Back Up To 1.68% Own Shares Worth 800 Million Yen
@@ -26,6 +29,7 @@ Total: 3000 manchetes
   - [korea] Why is Samsung Electronics stock sliding today?
   - [korea] Samsung Electronics posts record profit in Q3 on AI chip supercycle
   - [korea] Samsung posts record profit in Q3 on AI chip boom
+  - [korea] Samsung Expects Chip Supply Shortages to Persist Through 2028
   - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation today
   - [china] CHINA PBOC CONDUCTS CNY115 BLN VIA 7-DAY REVERSE REPO THURS
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO THURS
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Three major points of the Federal Reserve: Two members oppose maintaining interest rates, fighting inflation, 
   - [korea] Key facts: SK hynix posts record profit; ₩100T return, HBM4 gains
   - [japan] Nikkei May Decline Amid Caution Over U.S., Japan Monetary Policy — Market Talk
-  - [japan] Although the Bank of Japan judged that the underlying price trend had reached the target level of 2%, the posi
-  - [korea] Korea’s growth rate improves amid freeze on U.S. Federal Reserve interest rate… Bank of Korea plans additional
-  - [korea] Despite the US interest rate freeze, will the Bank of Korea bring out its ‘hoe’ again? Weighted on November hi
-  - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 36% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T02:52:43+00:00",
+      "published_utc": "2026-10-29T03:02:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
