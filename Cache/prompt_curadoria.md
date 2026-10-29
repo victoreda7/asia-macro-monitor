@@ -7,16 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T06:52:45.008283+00:00
+Última coleta: 2026-10-29T07:02:46.365077+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          895
+  🇯🇵 Japão          894
   🇨🇳 China          838
   🇹🇼 Taiwan         382
-  🇰🇷 Coreia do Sul  885
+  🇰🇷 Coreia do Sul  886
 
 ## O que já está no feed (não repita)
 
+  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Quarterly Dividend for Third Quarter 2026
+  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Announcement of Capex Plan for FY 2026
+  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - 2026 3Q Earnings Release
   - [china] Volkswagen: U.S. Tariffs Weigh on Us, China Mkt is Shrinking, Europe Competitive Pressure Increasing Significa
   - [japan] Bank of Japan Monetary Policy Meeting: Will the inflation rate reach 2%? (ABEMA TIMES)
   - [korea] S. Korea eyes virtuous cycle via green economic growth
@@ -54,9 +57,6 @@ Total: 3000 manchetes
   - [taiwan] Taiwan central bank head deems AI bubble crash scenario extreme
   - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation, with a net investment of 115 
   - [taiwan] AI, semiconductors drive foreign investor gains, weakening Taiwan dollar
-  - [japan] Bank of Japan outlook for keeping policy interest rate unchanged Monetary policy meeting from today (NTV NEWS 
-  - [china] AgiBot Reports Nearly 2 Billion Yuan in H1 2026 Revenue, 20,000 Robots Produced
-  - [japan] Toho Gas Co., Ltd. - To Buy Back Up To 5.7% Own Shares Worth 17 Billion Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T06:52:45+00:00",
+      "published_utc": "2026-10-29T07:02:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
