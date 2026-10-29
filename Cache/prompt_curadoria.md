@@ -7,16 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T13:42:44.174812+00:00
+Última coleta: 2026-10-29T13:52:43.864320+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          882
-  🇨🇳 China          849
-  🇹🇼 Taiwan         382
+  🇯🇵 Japão          881
+  🇨🇳 China          851
+  🇹🇼 Taiwan         381
   🇰🇷 Coreia do Sul  887
 
 ## O que já está no feed (não repita)
 
+  - [china] Shanghai Yuyuan Tourist Mart Q3 Net Profit At 6.7 Million Yuan
+  - [china] China Longyuan Power Group: Solar expansion lifted capacity, but weaker wind conditions weighed on 9M earnings
+  - [china] Jiangsu Yanghe Distillery Q3 Net Loss At 770.9 Million Yuan
+  - [china] Sanan Optoelectronics Q3 Net Loss At 22.5 Million Yuan
   - [china] Kunlun Tech Q3 Net Loss At 1.1 Billion Yuan
   - [korea] SK Hynix Is Sold Out Through 2029 as Seagate Locks In Demand Into 2030
   - [japan] Japan plans to start reducing gasoline subsidies from December
@@ -53,10 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics Co. Investments in Facilities Investment at Article 85
   - [korea] Samsung Electronics confirmed an unconventional shareholder return policy of 30 trillion won in cash..
   - [japan] Kddi: To Expand London Data Centre With 47 Billion Yen Land Acquisition
-  - [korea] The Seoul Metropolitan Government has set aside 55.7445 trillion won for next year's budget. It is t..
-  - [korea] The first base interest rate decision for next year is January 14th... The Bank of Korea’s Monetary Policy Com
-  - [korea] Federal Reserve freezes base interest rate, ‘taking a breather’… Bank of Korea weighs ‘November hike’
-  - [china] China stocks slip as tech gauges hit over one-year lows, overshadowing Fed rate decision
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T13:42:44+00:00",
+      "published_utc": "2026-10-29T13:52:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
