@@ -7,20 +7,20 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T05:02:46.749363+00:00
+Última coleta: 2026-10-29T05:12:43.623270+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          897
+  🇯🇵 Japão          896
   🇨🇳 China          839
   🇹🇼 Taiwan         385
-  🇰🇷 Coreia do Sul  879
+  🇰🇷 Coreia do Sul  880
 
 ## O que já está no feed (não repita)
 
-  - [japan] Why has the "long-term interest rate rise" temporarily stopped? Linkage with AI semiconductor stocks, "Don't l
   - [korea] Samsung's Chip Profit Drives Another Record Quarter — Update
-  - [korea] Samsung Electronics: Record results led by Memory as AI demand surges and supply remains tight
+  - [japan] Why has the "long-term interest rate rise" temporarily stopped? Linkage with AI semiconductor stocks, "Don't l
   - [korea] Exclusive-Bank of Korea board member says won moves faster than expected
+  - [korea] Samsung Electronics: Record results led by Memory as AI demand surges and supply remains tight
   - [japan] Toyoda Gosei - To Buy Back Up To 6.1% Own Shares Worth 30 Billion Yen
   - [china] China stocks slip as tech weakness overshadows Fed rate decision
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 32% Upside
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T05:02:47+00:00",
+      "published_utc": "2026-10-29T05:12:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
