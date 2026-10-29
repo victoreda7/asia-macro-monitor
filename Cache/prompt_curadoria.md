@@ -7,19 +7,21 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T11:42:44.438458+00:00
+Última coleta: 2026-10-29T11:52:45.113798+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          889
-  🇨🇳 China          845
+  🇨🇳 China          846
   🇹🇼 Taiwan         381
-  🇰🇷 Coreia do Sul  885
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [china] European Central Bank President Christine Lagarde resigns ahead of schedule and will step down in February 202
   - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
   - [korea] Asia report: Markets diverge amid steady central bank signals, Samsung slips on record profits
   - [korea] Samsung prevê que escassez de chips de IA se agrave
+  - [china] Geely Profit Climbs as Surging Exports Help Offset China Slump
   - [china] Volkswagen expects exports to compensate for part of the slowdown in China, says chief financial officer
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 46013.64, Implies 32% Upside
   - [japan] Dollar pulls back as Warsh leaves tightening path murky; Euro tread water
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [japan] Shinya Ueda despairs over prices in the U.S. ``Japan doesn't cost 1,500 yen'' Taiyo Sugiura is also shocked by
   - [japan] Fed Tightening Bias Gives BOJ More Room for Hawkish Signaling — Market Talk
   - [taiwan] Taiwan semiconductor industry group backs government review of nuclear power restart
-  - [japan] House of Representatives Finance and Financial Affairs Committee: Consumption tax reduction bill: Ruling and o
-  - [korea] 'Interest rate freeze', US Federal Reserve focuses on possibility of hike in December... What is the direction
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T11:42:44+00:00",
+      "published_utc": "2026-10-29T11:52:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
