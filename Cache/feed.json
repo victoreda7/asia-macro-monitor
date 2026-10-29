@@ -1,15 +1,15 @@
 {
- "generated_at_utc": "2026-10-29T23:42:44.058733+00:00",
- "collected_at_utc": "2026-10-29T23:42:44.058733+00:00",
+ "generated_at_utc": "2026-10-29T23:52:44.560653+00:00",
+ "collected_at_utc": "2026-10-29T23:52:44.560653+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 881,
-  "china": 844,
+  "japan": 890,
+  "china": 837,
   "taiwan": 379,
-  "korea": 896
+  "korea": 894
  },
  "elapsed_s": 29.8,
  "sources": [
@@ -17,7 +17,7 @@
    "source_id": "boj_whatsnew",
    "name": "BOJ What's New (EN)",
    "ok": true,
-   "count": 45,
+   "count": 43,
    "error": "",
    "newest": "2026-10-27T14:00:00+09:00"
   },
@@ -75,7 +75,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-29T23:18:26+00:00"
+   "newest": "2026-10-29T23:42:22+00:00"
   },
   {
    "source_id": "investing_econ",
@@ -83,7 +83,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "newest": "2026-10-29T21:36:24+00:00"
+   "newest": "2026-10-29T23:37:19+00:00"
   },
   {
    "source_id": "investing_fx",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-29T02:14:31+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -187,7 +187,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-30T05:16:00+09:00"
+   "newest": "2026-10-30T08:44:54+09:00"
   },
   {
    "source_id": "nikkei_asia",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T23:39:00+00:00"
+   "newest": "2026-10-29T23:51:48+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -275,7 +275,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T16:45:01+00:00"
+   "newest": "2026-10-29T19:45:51+00:00"
   },
   {
    "source_id": "gn_cn_xinhua",
@@ -331,7 +331,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T08:15:53+00:00"
+   "newest": "2026-10-29T23:49:48+00:00"
   },
   {
    "source_id": "gn_kr_bok",
@@ -343,6 +343,177 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan Sep Inventory-Shipments Ratio +2.0% on Month",
+   "url": "https://www.tradingview.com/news/DJN_DN20261029020278_20261029020284:0-japan-sep-inventory-shipments-ratio-2-0-on-month/",
+   "published_utc": "2026-10-29T23:51:00+00:00",
+   "title_original": "Japan Sep Inventory-Shipments Ratio +2.0% on Month",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "23e76e24e633b5b6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Japan Sep Shipments +0.6% on Month",
+   "url": "https://www.tradingview.com/news/DJN_DN20261029020278_20261029020285:0-japan-sep-shipments-0-6-on-month/",
+   "published_utc": "2026-10-29T23:51:00+00:00",
+   "title_original": "Japan Sep Shipments +0.6% on Month",
+   "region": "japan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "ab709c3ee143a18f"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Japan September factory output rises 2.2% month-on-month",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44I06J:0-japan-september-factory-output-rises-2-2-month-on-month/",
+   "published_utc": "2026-10-29T23:50:15+00:00",
+   "title_original": "Japan September factory output rises 2.2% month-on-month",
+   "region": "japan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "994f407e58d14780"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "MNI JAPAN SEPT JOBLESS RATE FALLS TO 2.4% FROM AUG 2.5%",
+   "url": "https://www.tradingview.com/news/dpa_afx:28b53c937684b:0-mni-japan-sept-jobless-rate-falls-to-2-4-from-aug-2-5/",
+   "published_utc": "2026-10-29T23:48:19+00:00",
+   "title_original": "MNI JAPAN SEPT JOBLESS RATE FALLS TO 2.4% FROM AUG 2.5%",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9c552b6fb3f75e11"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Nikkei May Decline Ahead of BOJ Rate Decision — Market Talk",
+   "url": "https://www.tradingview.com/news/DJN_DN20261029020249:0-nikkei-may-decline-ahead-of-boj-rate-decision-market-talk/",
+   "published_utc": "2026-10-29T23:45:00+00:00",
+   "title_original": "Nikkei May Decline Ahead of BOJ Rate Decision — Market Talk",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c03cc0c8b28b0393"
+  },
+  {
+   "source_id": "nhk_economy",
+   "source_name": "NHK 経済",
+   "title_en": "October consumer price index for Tokyo's 23 wards increased by 2.6% compared to the same month last year",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68190",
+   "published_utc": "2026-10-29T23:44:54+00:00",
+   "title_original": "東京23区の10月の消費者物価指数 前年同月比2.6％上昇",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "ja",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "b6c60129cc5ff40b"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Tokyo core inflation exceeds BOJ target in October",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F06H:0-tokyo-core-inflation-exceeds-boj-target-in-october/",
+   "published_utc": "2026-10-29T23:44:05+00:00",
+   "title_original": "Tokyo core inflation exceeds BOJ target in October",
+   "region": "japan",
+   "topics": [
+    "monetary",
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "c30b09b1a0f5c679"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN OCT TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.6% Y/Y (SEPT REVISED +2.9%, AUG +2.0%); MEDIAN FORECAST +2.8% (RANGE: +2.5% TO +3.0%)",
+   "url": "https://www.tradingview.com/news/macenews:ee0b3fe93094b:0-japan-oct-tokyo-core-core-cpi-ex-fresh-food-energy-2-6-y-y-sept-revised-2-9-aug-2-0-median-forecast-2-8-range-2-5-to-3-0/",
+   "published_utc": "2026-10-29T23:44:00+00:00",
+   "title_original": "JAPAN OCT TOKYO CORE-CORE CPI (EX-FRESH FOOD, ENERGY) +2.6% Y/Y (SEPT REVISED +2.9%, AUG +2.0%); MEDIAN FORECAST +2.8% (RANGE: +2.5% TO +3.0%)",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9ef523747a0ac45d"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Dow Jones Newswires",
+   "title_en": "Tokyo Inflation Remains Above 2%, Fueling Rate-Hike Bets",
+   "url": "https://www.tradingview.com/news/DJN_DN20261029020207:0-tokyo-inflation-remains-above-2-fueling-rate-hike-bets/",
+   "published_utc": "2026-10-29T23:44:00+00:00",
+   "title_original": "Tokyo Inflation Remains Above 2%, Fueling Rate-Hike Bets",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "34a738acaf8cc15c"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Mace News",
+   "title_en": "JAPAN SEPT EMPLOYMENT UP 330,000 Y/Y AT 68.96 MILLION FOR 2ND STRAIGHT RISE, AFTER RISING 140,000 IN AUG",
+   "url": "https://www.tradingview.com/news/macenews:ca320c25d094b:0-japan-sept-employment-up-330-000-y-y-at-68-96-million-for-2nd-straight-rise-after-rising-140-000-in-aug/",
+   "published_utc": "2026-10-29T23:43:00+00:00",
+   "title_original": "JAPAN SEPT EMPLOYMENT UP 330,000 Y/Y AT 68.96 MILLION FOR 2ND STRAIGHT RISE, AFTER RISING 140,000 IN AUG",
+   "region": "japan",
+   "topics": [
+    "activity"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "fae65780ce4c8154"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Mace News",
@@ -997,142 +1168,6 @@
    "id": "0ecf2e834ed52be6"
   },
   {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Maanshan Iron & Steel Q3 Net Loss At 108.3 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F1XE:0-maanshan-iron-steel-q3-net-loss-at-108-3-million-yuan/",
-   "published_utc": "2026-10-29T13:50:41+00:00",
-   "title_original": "Maanshan Iron & Steel Q3 Net Loss At 108.3 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "9d9e8c8ed49ec85f"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Shanghai Yuyuan Tourist Mart Q3 Net Profit At 6.7 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F1X3:0-shanghai-yuyuan-tourist-mart-q3-net-profit-at-6-7-million-yuan/",
-   "published_utc": "2026-10-29T13:46:35+00:00",
-   "title_original": "Shanghai Yuyuan Tourist Mart Q3 Net Profit At 6.7 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "b7552bd31c61421b"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "China Longyuan Power Group: Solar expansion lifted capacity, but weaker wind conditions weighed on 9M earnings and generation",
-   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4093776:0-china-longyuan-power-group-solar-expansion-lifted-capacity-but-weaker-wind-conditions-weighed-on-9m-earnings-and-generation/",
-   "published_utc": "2026-10-29T13:43:39+00:00",
-   "title_original": "China Longyuan Power Group: Solar expansion lifted capacity, but weaker wind conditions weighed on 9M earnings and generation",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3e3b4b0d26bdb234"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Jiangsu Yanghe Distillery Q3 Net Loss At 770.9 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F1WM:0-jiangsu-yanghe-distillery-q3-net-loss-at-770-9-million-yuan/",
-   "published_utc": "2026-10-29T13:42:43+00:00",
-   "title_original": "Jiangsu Yanghe Distillery Q3 Net Loss At 770.9 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "632a1e40da35986e"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Sanan Optoelectronics Q3 Net Loss At 22.5 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F1VX:0-sanan-optoelectronics-q3-net-loss-at-22-5-million-yuan/",
-   "published_utc": "2026-10-29T13:38:59+00:00",
-   "title_original": "Sanan Optoelectronics Q3 Net Loss At 22.5 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "cadc7cdd7e85c2a1"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Kunlun Tech Q3 Net Loss At 1.1 Billion Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F1TY:0-kunlun-tech-q3-net-loss-at-1-1-billion-yuan/",
-   "published_utc": "2026-10-29T13:27:36+00:00",
-   "title_original": "Kunlun Tech Q3 Net Loss At 1.1 Billion Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1e9861e98fb8d693"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "InvestorPlace",
-   "title_en": "SK Hynix Is Sold Out Through 2029 as Seagate Locks In Demand Into 2030",
-   "url": "https://www.tradingview.com/news/investorplace:186598009094b:0-sk-hynix-is-sold-out-through-2029-as-seagate-locks-in-demand-into-2030/",
-   "published_utc": "2026-10-29T12:55:00+00:00",
-   "title_original": "SK Hynix Is Sold Out Through 2029 as Seagate Locks In Demand Into 2030",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "d91f0dc56fd49437"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Japan plans to start reducing gasoline subsidies from December",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F0N4:0-japan-plans-to-start-reducing-gasoline-subsidies-from-december/",
-   "published_utc": "2026-10-29T12:30:12+00:00",
-   "title_original": "Japan plans to start reducing gasoline subsidies from December",
-   "region": "japan",
-   "topics": [
-    "fiscal"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "26c45f42923ccf7c"
-  },
-  {
    "source_id": "nhk_politics",
    "source_name": "NHK 政治",
    "title_en": "Ritsumeikan Counterproposal to the consumption tax reduction bill: “50,000 yen benefit to tax-exempt households during this fiscal year”",
@@ -1185,23 +1220,6 @@
    "live_wire": false,
    "manual": false,
    "id": "6de3e8480f300ef5"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "MarketWatch",
-   "title_en": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
-   "url": "https://www.tradingview.com/news/DJN_SN20261029008026:0-samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook/",
-   "published_utc": "2026-10-29T11:09:00+00:00",
-   "title_original": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
-   "region": "korea",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "aeff050ccfa8e72c"
   },
   {
    "source_id": "gn_jp_investing",
@@ -51864,24 +51882,6 @@
    "live_wire": true,
    "manual": false,
    "id": "80cc2799e572fddf"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Mint",
-   "title_en": "Tata's Assam chip unit is almost ready, and a non-China supply chain is in place",
-   "url": "https://www.tradingview.com/news/moodys:717cb5ae0a593:0-tata-s-assam-chip-unit-is-almost-ready-and-a-non-china-supply-chain-is-in-place/",
-   "published_utc": "2026-10-05T03:33:42+00:00",
-   "title_original": "Tata's Assam chip unit is almost ready, and a non-China supply chain is in place",
-   "region": "china",
-   "topics": [
-    "trade",
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "3f880a0f0590f658"
   },
   {
    "source_id": "manual_ia",
