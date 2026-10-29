@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T02:32:44.444098+00:00",
- "collected_at_utc": "2026-10-29T02:32:44.444098+00:00",
+ "generated_at_utc": "2026-10-29T02:42:43.720583+00:00",
+ "collected_at_utc": "2026-10-29T02:42:43.720583+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
   "japan": 894,
-  "china": 838,
-  "taiwan": 387,
+  "china": 839,
+  "taiwan": 386,
   "korea": 881
  },
- "elapsed_s": 30.3,
+ "elapsed_s": 29.3,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": true,
+   "ok": false,
    "count": 30,
-   "error": "",
-   "newest": "2026-10-28T02:16:20+00:00"
+   "error": "parada desde 01/07/2026",
+   "newest": "2026-07-01T11:08:50+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -227,7 +227,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T16:58:38+00:00"
+   "newest": "2026-10-28T17:55:59+00:00"
   },
   {
    "source_id": "gn_tw_reuters",
@@ -235,7 +235,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T16:10:04+00:00"
+   "newest": "2026-10-28T22:11:43+00:00"
   },
   {
    "source_id": "scmp_business",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T02:32:10+00:00"
+   "newest": "2026-10-29T02:41:31+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -307,7 +307,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T21:00:03+00:00"
+   "newest": "2026-10-29T02:31:55+00:00"
   },
   {
    "source_id": "gn_tw_cna",
@@ -339,10 +339,44 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T23:35:39+00:00"
+   "newest": "2026-10-28T10:00:00+00:00"
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Toho Gas Co., Ltd. - To Buy Back Up To 5.7% Own Shares Worth 17 Billion Yen",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46E2K8:0-toho-gas-co-ltd-to-buy-back-up-to-5-7-own-shares-worth-17-billion-yen/",
+   "published_utc": "2026-10-29T02:41:31+00:00",
+   "title_original": "Toho Gas Co., Ltd. - To Buy Back Up To 5.7% Own Shares Worth 17 Billion Yen",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "2fc680c78c457ad1"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "China clean tech exports to cut global emissions by Brazil-sized amount in 2026",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46E0J0:0-china-clean-tech-exports-to-cut-global-emissions-by-brazil-sized-amount-in-2026/",
+   "published_utc": "2026-10-29T02:35:14+00:00",
+   "title_original": "China clean tech exports to cut global emissions by Brazil-sized amount in 2026",
+   "region": "china",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "8f15e794a514c4b5"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -997,6 +1031,23 @@
    "live_wire": true,
    "manual": false,
    "id": "5a3c9cb4fe2c8b97"
+  },
+  {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Trump says imported robotics pose national security risks but does not impose tariffs",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzYzMENTbWlLLWdKa2YzdVN4bXhKZUpVeG8tWm1RUVFHcmg5bXdiQ2dtY3lWYlY0dlF4anMyWWc2NF9zQld1TjlSMlFhR3hfMkxzY05iRGM5MmFXNGpQaGRNN3p6NW9YYm9sVXZXV0IwTE9BdDE5WkdHN3cwUnFzWGRDRHVPR2MxU1M2ZXktSk5MWG9aOHg4c0Rxc2diRzQ1RWUxZzlNRnJoMi1wTEFZWHNCWEJ0eGlxX01CektB?oc=5",
+   "published_utc": "2026-10-28T22:11:43+00:00",
+   "title_original": "Trump says imported robotics pose national security risks but does not impose tariffs",
+   "region": "taiwan",
+   "topics": [
+    "trade"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "394ece4c4f9eb15c"
   },
   {
    "source_id": "gn_cn_scmp",
@@ -6315,9 +6366,9 @@
   },
   {
    "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
+   "source_name": "新浪财经",
    "title_en": "On October 26, the central bank launched a 56 billion yuan 7-day reverse repurchase operation.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QbEM2VEZSVDRBMHhKODZid1hqc1FZYlF1TjlMSDFnZkRHWloxVXY3LWxYamNweU9EV1J4clEzTVlDdHpFc3JfTDJWQ0tOMzFONzE4b2ZWYm51REF6OWx2YnIyZ242c29NcEhpMkVmX0dTS0NQM0xxRQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3VPX05zVUVaMVpvaTd1eGRXcnhZYTIwLWVkZUViWnFzUHZZNHhZTXJicXp5NVdReGhIZDZRNXZ3bDJnRHNnSGRFYU5QUWwxYk1nbk00ZlBONUhubGI0czYwN1NlekczSkFVV255QzB5MXBqejlHQUY0ajlzak9ncy1fOGhxMlQxUGow?oc=5",
    "published_utc": "2026-10-26T13:28:47+00:00",
    "title_original": "10月26日央行开展560亿元7天期逆回购操作",
    "region": "china",
@@ -6329,7 +6380,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "8166e1f4e20d2cef"
+   "id": "0facd9f9793a1c33"
   },
   {
    "source_id": "tradingview_live",
@@ -7400,24 +7451,6 @@
    "live_wire": false,
    "manual": false,
    "id": "e12668b3e0b0dbdc"
-  },
-  {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVUxuT01uNzVGcWdXNjJsNmZXY2tjajQ2NGcxeWVaNkRRLUtSNlFoTGhfeGhhYUNENUNRY01PVF9mVDVmTl8tZGlYTFNOMEtGd2lVZmg0SzljbnUtQUs0aXVNU0hkanJZMHlXS0VZTzFBcm8ydlZhRU5LcDhCWUVCMUhqMWZ4VTI3akE?oc=5",
-   "published_utc": "2026-10-26T03:09:06+00:00",
-   "title_original": "央行开展7000亿元1年期MLF操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "26723466cf9fd537"
   },
   {
    "source_id": "gn_kr_yonhap",
@@ -9250,6 +9283,24 @@
    "live_wire": true,
    "manual": false,
    "id": "9f5caab2bcd6c61a"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "finance.sina.com.cn",
+   "title_en": "The central bank launches 700 billion yuan 1-year MLF operation",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGFaaWNiXzBLQVBGOHZ5MlR3WmZ0ZHF4aTQzWnV6MF8wcXh3b0Z6cmZQeTE2cXJWS3pPSlJGZXRMOWNTaW1oTno3WXZyNHk5NF9SU2tMd0JXb1R2aDdadkEwWXI0Qm1XRm14QW8yMS1pRGZ2TzdoTTlMaEFkVXhybTJxSkhZd2M3WWtj?oc=5",
+   "published_utc": "2026-10-23T14:14:15+00:00",
+   "title_original": "央行开展7000亿元1年期MLF操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "7d30db5f10da9efb"
   },
   {
    "source_id": "tradingview_live",
@@ -11246,6 +11297,24 @@
    "live_wire": false,
    "manual": false,
    "id": "94712f14ae9e07a4"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Japan manufacturing growth slows to 7-month low in October, PMI shows By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbVVYSTJvZkEtMko5czZXS3pzUWkzRUZldXVMXzBxeGZtdVBRaE1lSEhYaDhoTUlmTW1oMlRkbWZOMVhkX290T1N3TUp0RFRFTE1VQ1FaajNFWXdFNEVXUlJWWnN2LUJUVHpneUhlTUo0R0JvbVljcFQwSTh3ZlZ6WHNWejdtYTVPNDhGNkZHcnAzcW1XX1JnUzNWZWZzSWJUcHdWcGQyS3NHMUNQa2VqY2g2QVE5Rk9iaFJBWjJ3dXdncjV2?oc=5",
+   "published_utc": "2026-10-23T00:39:32+00:00",
+   "title_original": "Japan manufacturing growth slows to 7-month low in October, PMI shows By Reuters",
+   "region": "japan",
+   "topics": [
+    "activity",
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "49afbe8d84bb64b9"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -21128,6 +21197,23 @@
   {
    "source_id": "gn_cn_nbs",
    "source_name": "国家统计局",
+   "title_en": "Basic situation of the national real estate market from January to September 2026",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuSVVlanRWY19fOXkycWtaaGFhRnJWcU5WdjhRNjc2TkdqbDF5X2ZhYTVFZG1meGFPUXIwdGoxSWJuaEVvcDE4U3dlLWtTa3M5NjZWd01LT2tEWEdyWXV6TzZGazBBWVhNVkU4UjJTRQ?oc=5",
+   "published_utc": "2026-10-19T07:00:00+00:00",
+   "title_original": "2026年1—9月份全国房地产市场基本情况",
+   "region": "china",
+   "topics": [
+    "property"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "ebb2c7b6d0f517e8"
+  },
+  {
+   "source_id": "gn_cn_nbs",
+   "source_name": "国家统计局",
    "title_en": "Basic situation of national fixed asset investment from January to September 2026",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhcGhyODdyQlU0SkNHQmhqQ3VRSElXMGRQZEN0R29ZdzhSLVJ4dExTSTJ4RUZFaFR6ajJqWkJyVjRlTERuSEVhRnh2RzgyVnhxbXFESDIxNWNwNEd3eFhjVWFyemVQeHRvenVvQmV6SQ?oc=5",
    "published_utc": "2026-10-19T07:00:00+00:00",
@@ -21899,23 +21985,6 @@
    "live_wire": false,
    "manual": false,
    "id": "3df267849337c57c"
-  },
-  {
-   "source_id": "gn_cn_nbs",
-   "source_name": "国家统计局",
-   "title_en": "Basic situation of the national real estate market from January to September 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuSVVlanRWY19fOXkycWtaaGFhRnJWcU5WdjhRNjc2TkdqbDF5X2ZhYTVFZG1meGFPUXIwdGoxSWJuaEVvcDE4U3dlLWtTa3M5NjZWd01LT2tEWEdyWXV6TzZGazBBWVhNVkU4UjJTRQ?oc=5",
-   "published_utc": "2026-10-19T02:00:00+00:00",
-   "title_original": "2026年1—9月份全国房地产市场基本情况",
-   "region": "china",
-   "topics": [
-    "property"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "ebb2c7b6d0f517e8"
   },
   {
    "source_id": "gn_kr_mk",
@@ -51799,75 +51868,6 @@
    "live_wire": false,
    "manual": false,
    "id": "adcde024e44b1461"
-  },
-  {
-   "source_id": "gn_jp_kyodo",
-   "source_name": "Japan Wire by Kyodo News",
-   "title_en": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waTA1ZU9rZjBnU09BTHJRNC16bHNPMTVqam5Vd1VtMkFNbDY2WVRzeHlnbnNEN1ZOdGd2d05rdE1RZk8waHZUaWNMck1XclphN1Y0dHF2endiZw?oc=5",
-   "published_utc": "2026-10-02T07:00:00+00:00",
-   "title_original": "Mitsubishi Heavy to invest 100 bil. yen to ramp up shipbuilding capacity",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "623202d19857e66d"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFZaRkZzbGVWUGFEV1BMLThSMXVCY1F6V0h5dG9BWm1BWnRjTmpMZ09JY0FvTnVfQjhQMF9zNVZRQ2M5NE1fZG1TelNXYTRxblEtci1HeWNJbEY5eWdWTm4tMXF3OTdwTl9Udk5rRVVGbllnQVM4SkxVSFBvQXhzZXU3MDZMQnZZNjlpUEFHVXllQQ?oc=5",
-   "published_utc": "2026-10-02T07:00:00+00:00",
-   "title_original": "Taiwan government backs 7 semiconductor schools to upgrade equipment",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "71a3ae2c4c6b855d"
-  },
-  {
-   "source_id": "gn_tw_digitimes",
-   "source_name": "digitimes",
-   "title_en": "Micron ramps up HBM capacity at Taiwan's four major sites",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSGxqNmlweDBza1JSejhzaHVsVHJjSU40WnFxcjlVWjl6TGMxc1ZpUEdPVHpyMm1UWGx2QUdUNGdGbUdpWUxKYm1vbV9mXy1aNXBpV3BHeXd3cTlZcWNWRmVnNEFFeWFOX2RRN0RRVkhlUHNwSVdvTGNLUXpya1NoWnczVncycmQ3NlE?oc=5",
-   "published_utc": "2026-10-02T07:00:00+00:00",
-   "title_original": "Micron ramps up HBM capacity at Taiwan's four major sites",
-   "region": "taiwan",
-   "topics": [
-    "industrial"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "3711017619f62128"
-  },
-  {
-   "source_id": "nhk_politics",
-   "source_name": "NHK 政治",
-   "title_en": "Minister of Administrative Reform Nakajima Autumn Review “Keeping in mind the creation of financial resources for consumption tax cuts”",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261002de53894",
-   "published_utc": "2026-10-02T06:55:00+00:00",
-   "title_original": "中司行革相 秋のレビュー“消費減税の財源捻出も念頭に”",
-   "region": "japan",
-   "topics": [
-    "fiscal",
-    "activity"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "d9897b00277955d7"
   },
   {
    "source_id": "manual_ia",

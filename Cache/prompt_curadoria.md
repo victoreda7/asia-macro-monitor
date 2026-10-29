@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T02:32:44.444098+00:00
+Última coleta: 2026-10-29T02:42:43.720583+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          894
-  🇨🇳 China          838
-  🇹🇼 Taiwan         387
+  🇨🇳 China          839
+  🇹🇼 Taiwan         386
   🇰🇷 Coreia do Sul  881
 
 ## O que já está no feed (não repita)
 
+  - [japan] Toho Gas Co., Ltd. - To Buy Back Up To 5.7% Own Shares Worth 17 Billion Yen
+  - [china] China clean tech exports to cut global emissions by Brazil-sized amount in 2026
   - [japan] Mito Securities Co Ltd - To Buy Back Up To 1.68% Own Shares Worth 800 Million Yen
   - [korea] Earnings call transcript: Samsung Electronics posts record Q3 2026 profit
   - [korea] South Korean won, Indonesian rupiah lead Asian currencies higher
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Korea’s growth rate improves amid freeze on U.S. Federal Reserve interest rate… Bank of Korea plans additional
   - [korea] Despite the US interest rate freeze, will the Bank of Korea bring out its ‘hoe’ again? Weighted on November hi
   - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45945.45, Implies 36% Upside
-  - [china] Beijing has made Hong Kong a lab for digital yuan. Will the experiment work?
-  - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T02:32:44+00:00",
+      "published_utc": "2026-10-29T02:42:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
