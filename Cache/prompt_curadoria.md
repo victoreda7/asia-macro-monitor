@@ -7,17 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T04:02:42.943834+00:00
+Última coleta: 2026-10-29T04:12:45.424756+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          897
-  🇨🇳 China          839
+  🇯🇵 Japão          894
+  🇨🇳 China          840
   🇹🇼 Taiwan         384
-  🇰🇷 Coreia do Sul  880
+  🇰🇷 Coreia do Sul  882
 
 ## O que já está no feed (não repita)
 
   - [japan] BOJ preview October: hawkish hold expected as inflation remains sticky By Investing.com
+  - [china] China's yuan hits 4-year high versus dollar after Fed decision
   - [japan] BOJ preview October: hawkish hold expected as inflation remains sticky
   - [korea] Samsung sees chip shortage worsening, but keeps investors in suspense on returns
   - [china] China Focus: China's sustained housing upgrades keep urban decay at bay
@@ -26,6 +27,7 @@ Total: 3000 manchetes
   - [china] Beijing Branch of the Central Bank: Beijing’s social financing increase in the first three quarters was 1.1062
   - [korea] Banks' household mortgage lending rates up for 5th month in Sept.
   - [japan] Yen Steadies Ahead of BOJ Policy Decision
+  - [japan] The Bank of Japan has determined that the inflation rate will reach 2%, and is expected to leave the policy ra
   - [japan] Will the inflation rate reach 2%? The Bank of Japan is expected to leave the policy rate unchanged (TV Asahi (
   - [taiwan] Taiwan central bank head deems AI bubble crash scenario extreme
   - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation, with a net investment of 115 
@@ -48,15 +50,13 @@ Total: 3000 manchetes
   - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO THURS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7147 THURS VS 6.7165
   - [japan] Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Nov 5
+  - [china] The central bank launches 115 billion yuan 7-day reverse repurchase operation
   - [korea] Sk Hynix Considering Various Ways To Increase Competitiveness Of Solidigm
   - [korea] S. Korea to conditionally ease diesel export restrictions amid stable crude supplies
   - [korea] Correct: Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q, Not KRW106.5
   - [korea] Samsung posts record quarterly profit as AI-driven chip demand surges
   - [korea] Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q
   - [korea] Samsung Electronics approves W30tr dividend on record Q3 profit
-  - [korea] Samsung prevê que a escassez de chips se agrave, mas mantém os investidores em suspense quanto aos retornos
-  - [japan] JGB Yields Rise Amid Caution Ahead of BOJ Decision — Market Talk
-  - [korea] Samsung Electronics Q3 2026 Earnings Call Is Live
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T04:02:43+00:00",
+      "published_utc": "2026-10-29T04:12:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
