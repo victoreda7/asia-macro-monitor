@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T09:22:45.688466+00:00
+Última coleta: 2026-10-29T09:32:47.439490+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          890
-  🇨🇳 China          843
+  🇯🇵 Japão          889
+  🇨🇳 China          844
   🇹🇼 Taiwan         382
   🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [japan] Yomiuri: Ward in Central Tokyo Calls on Condominium Developers to Prohibit Resale Within 5 Years
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transactions with Affiliate Company
+  - [china] The minutes of the central bank's proceedings reveal that 2 board members opposed the 10th consecutive freeze 
   - [china] Beijing Capital Development Q3 Net Loss At 1.1 Billion Yuan
   - [china] Alphabet spells out more AI capex, China+1 doesn't add up
   - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung sees memory supply tight through 2028 as 2027 HBM sells out
   - [korea] The Bank of Korea's first base interest rate decision for next year will be on January 14th.
   - [korea] The Bank of Korea makes its first base interest rate decision for next year on January 14th... Monetary Policy
-  - [china] Volkswagen: U.S. Tariffs Weigh on Us, China Mkt is Shrinking, Europe Competitive Pressure Increasing Significa
-  - [japan] BREAKING NEWS: ANA Holdings' April-Sept. net profit drops 11.8% to 67.09 billion yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T09:22:45+00:00",
+      "published_utc": "2026-10-29T09:32:47+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
