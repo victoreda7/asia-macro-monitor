@@ -7,24 +7,26 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T01:42:42.665978+00:00
+Última coleta: 2026-10-29T01:52:43.499933+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          900
-  🇨🇳 China          839
+  🇯🇵 Japão          899
+  🇨🇳 China          841
   🇹🇼 Taiwan         386
-  🇰🇷 Coreia do Sul  875
+  🇰🇷 Coreia do Sul  874
 
 ## O que já está no feed (não repita)
 
+  - [china] CHINA PBOC CONDUCTS CNY115 BLN VIA 7-DAY REVERSE REPO THURS
+  - [china] CHINA PBOC CONDUCTS CNY1 TRLN VIA O/N REVERSE REPO THURS
   - [china] CHINA SETS YUAN CENTRAL PARITY AT 6.7147 THURS VS 6.7165
+  - [korea] Samsung posts record profit in Q3 on AI chip boom
   - [japan] Japan MOF To Auction Y2.6T Of 10-year Govt Bonds Nov 5
   - [korea] Sk Hynix Considering Various Ways To Increase Competitiveness Of Solidigm
   - [korea] S. Korea to conditionally ease diesel export restrictions amid stable crude supplies
   - [korea] Correct: Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q, Not KRW106.5
   - [korea] Samsung posts record quarterly profit as AI-driven chip demand surges
   - [korea] Samsung Electronics: Chip Business Posted Record Profit of KRW106.5T in 3Q
-  - [korea] Samsung posts record profit in Q3 on AI chip boom
   - [korea] Samsung Electronics approves W30tr dividend on record Q3 profit
   - [korea] Samsung registra lucro recorde no terceiro trimestre graças ao boom dos chips de IA
   - [japan] JGB Yields Rise Amid Caution Ahead of BOJ Decision — Market Talk
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] IMF Taps China’s Vice Finance Minister Liao Min for Deputy Managing Director Role
   - [japan] Behind the Odakyu "base" in a quiet residential area of ​​Setagaya, 5 minutes walk from Kitami Station, "train
   - [korea] Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells — Barrons.com
-  - [korea] SK hynix Inc. Stock 12‑Month Price Target Raised to KRW 3234972.13, Implies 141% Upside
-  - [japan] Advantest Corp. Stock 12‑Month Price Target Raised to JPY 45831.82, Implies 35% Upside
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T01:42:42+00:00",
+      "published_utc": "2026-10-29T01:52:43+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
