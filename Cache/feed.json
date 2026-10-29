@@ -1,13 +1,13 @@
 {
- "generated_at_utc": "2026-10-29T13:52:43.864320+00:00",
- "collected_at_utc": "2026-10-29T13:52:43.864320+00:00",
+ "generated_at_utc": "2026-10-29T14:02:45.447139+00:00",
+ "collected_at_utc": "2026-10-29T14:02:45.447139+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 881,
-  "china": 851,
+  "japan": 880,
+  "china": 852,
   "taiwan": 381,
   "korea": 887
  },
@@ -27,7 +27,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T11:51:14+00:00"
+   "newest": "2026-10-29T10:29:08+00:00"
   },
   {
    "source_id": "gn_cn_caixin",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T08:20:00+00:00"
+   "newest": "2026-10-29T02:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T11:38:00+00:00"
+   "newest": "2026-10-29T12:56:15+00:00"
   },
   {
    "source_id": "ked_global",
@@ -147,15 +147,15 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-28T01:30:51+00:00"
+   "newest": "2026-10-29T06:36:00+00:00"
   },
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-29T02:14:31+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 60,
    "error": "",
-   "newest": "2026-10-29T22:48:02+09:00"
+   "newest": "2026-10-29T22:53:48+09:00"
   },
   {
    "source_id": "nhk_economy",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T13:51:49+00:00"
+   "newest": "2026-10-29T14:01:39+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,57 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Angang Steel Q3 Net Loss At 2.0 Billion Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F1YM:0-angang-steel-q3-net-loss-at-2-0-billion-yuan/",
+   "published_utc": "2026-10-29T13:58:30+00:00",
+   "title_original": "Angang Steel Q3 Net Loss At 2.0 Billion Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "63fee951bdc29546"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Jiangxi Zhengbang Tech Q3 Net Loss At 353.8 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F1YH:0-jiangxi-zhengbang-tech-q3-net-loss-at-353-8-million-yuan/",
+   "published_utc": "2026-10-29T13:55:52+00:00",
+   "title_original": "Jiangxi Zhengbang Tech Q3 Net Loss At 353.8 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "0ecf2e834ed52be6"
+  },
+  {
+   "source_id": "tradingview_live",
+   "source_name": "Reuters",
+   "title_en": "Maanshan Iron & Steel Q3 Net Loss At 108.3 Million Yuan",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F1XE:0-maanshan-iron-steel-q3-net-loss-at-108-3-million-yuan/",
+   "published_utc": "2026-10-29T13:50:41+00:00",
+   "title_original": "Maanshan Iron & Steel Q3 Net Loss At 108.3 Million Yuan",
+   "region": "china",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "9d9e8c8ed49ec85f"
+  },
   {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
@@ -1117,6 +1168,23 @@
    "id": "343365fc9e244f16"
   },
   {
+   "source_id": "gn_tw_reuters",
+   "source_name": "Reuters",
+   "title_en": "Taiwan semiconductor industry group backs government review of nuclear power restart",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVUpZN2hCNjRnOE1DYXh5V3hkSzdZRjJqUHloN2lrOHB5UE05Q3dvOXBlNVIxUk1PWHFPcWxUblUwQVFfdjl4U1kwY0pWb3NBN1lrSVlGZ25tX0NabTA5UXRIc0JQYXplUUdrQTV6RUo2SWhpR3NhSkV4S3FGU1ZrZ0NEaDY5LTFQTUpqRTdPVTM5UUQxV3o4YzA4RmhEdi04QXpJZnhybjYyeW5vRnIyV1BSYlhlU0hKT3paU3F1S1hfeVk?oc=5",
+   "published_utc": "2026-10-29T08:27:47+00:00",
+   "title_original": "Taiwan semiconductor industry group backs government review of nuclear power restart",
+   "region": "taiwan",
+   "topics": [
+    "industrial"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "0f1b0bdfa04cb67d"
+  },
+  {
    "source_id": "tradingview_live",
    "source_name": "Reuters",
    "title_en": "Muyuan Foods Q3 Net Loss At 3.2 Billion Yuan",
@@ -1132,57 +1200,6 @@
    "live_wire": true,
    "manual": false,
    "id": "3051283766fcc3fb"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "CNSIG Inner Mongolia Chemical Industry Q3 Net Loss At 302.5 Million Yuan",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46F0QD:0-cnsig-inner-mongolia-chemical-industry-q3-net-loss-at-302-5-million-yuan/",
-   "published_utc": "2026-10-29T08:03:26+00:00",
-   "title_original": "CNSIG Inner Mongolia Chemical Industry Q3 Net Loss At 302.5 Million Yuan",
-   "region": "china",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "189ac88053ded200"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Quartr",
-   "title_en": "Foxconn Industrial Internet: AI-driven demand powered strong revenue and profit growth, alongside rising server and networking shipments",
-   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4008740:0-foxconn-industrial-internet-ai-driven-demand-powered-strong-revenue-and-profit-growth-alongside-rising-server-and-networking-shipments/",
-   "published_utc": "2026-10-29T07:59:51+00:00",
-   "title_original": "Foxconn Industrial Internet: AI-driven demand powered strong revenue and profit growth, alongside rising server and networking shipments",
-   "region": "taiwan",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e4acf4caae9e81cd"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Dow Jones Newswires",
-   "title_en": "Markets Shouldn't Take BOJ Rate Hikes for Granted — Market Talk",
-   "url": "https://www.tradingview.com/news/DJN_DN20261029003177:0-markets-shouldn-t-take-boj-rate-hikes-for-granted-market-talk/",
-   "published_utc": "2026-10-29T07:57:00+00:00",
-   "title_original": "Markets Shouldn't Take BOJ Rate Hikes for Granted — Market Talk",
-   "region": "japan",
-   "topics": [
-    "monetary"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "e34b1cbf0f252b80"
   },
   {
    "source_id": "gn_jp_yahoo",
@@ -5473,8 +5490,8 @@
    "id": "31075aa41a694ee6"
   },
   {
-   "source_id": "nhk_economy",
-   "source_name": "NHK 経済",
+   "source_id": "nhk_politics",
+   "source_name": "NHK 政治",
    "title_en": "Finance Minister Katayama refrains from purchasing and rushes for consumption tax cut, related ministries and agencies are dealing with it",
    "url": "https://news.web.nhk/newsweb/na/nd-20261027de66642",
    "published_utc": "2026-10-27T11:39:00+00:00",
@@ -5489,7 +5506,7 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "13a041a9c99324db"
+   "id": "c385cfaf1a735ef0"
   },
   {
    "source_id": "focus_taiwan",
@@ -8217,7 +8234,7 @@
    "source_id": "gn_kr_bok",
    "source_name": "뉴스토마토",
    "title_en": "Bank of Korea, Director of Monetary Policy Choi Chang-ho appointed as 'Assistant Vice Governor for Monetary Policy and Markets'",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tSGlzLTZpVVM2MkxCcmtxeWFVTVdWdjFkSE1XalN2U09mdjN3Y1hhTTc4UWRRVm1fb3RnLWotTGhCZWhPdVBTaTFFZERmS01WTjl1MVBtaVEtNUY5bWNpZA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtMGd4Vll2WjNxVUNsLXBEX21DS0hQX3htLUdRckttWGF2MWRPWHVySzNlVW9QT3Z3M2IxZC1rNDFlS0dPMEVoNkxxMndXSE5Xd1ZXczlUTXV2Vi1wSWVqZw?oc=5",
    "published_utc": "2026-10-26T09:17:32+00:00",
    "title_original": "한은, '통화정책·시장 담당 부총재보'에 최창호 통화정책국장",
    "region": "korea",
@@ -8229,7 +8246,24 @@
    "translated": true,
    "live_wire": false,
    "manual": false,
-   "id": "d40d5c6fffddf9d9"
+   "id": "7aa49798506a4672"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYVVYanhFdEFGelExdHVxMlk2M2ZVd1BCUlRxLWhCSDR0ZXgtVTJ6aVppa3I2WUIxdHRFbmJweGNvMnVZc2N0RTNjcGF3WDlGYTBmUm92SHZEZ3Zta2VPemxGd3VmNGhpWTRCRVR5NHpDdXlrT3Y4NDZJbmdGNFU4Qi1YM0dHZnFMcjlPWDZ1OWloSmdycTJ6N3RZR2tQN0xYYnFKbUZvX3o3ZEU5X3F1RkV3RHVISTRyU09ZSTVuNW54aEQ2cF9B?oc=5",
+   "published_utc": "2026-10-26T09:11:36+00:00",
+   "title_original": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks By Reuters",
+   "region": "japan",
+   "topics": [
+    "inflation"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "288d93641279b630"
   },
   {
    "source_id": "gn_tw_cna",
@@ -51843,41 +51877,6 @@
    "live_wire": false,
    "manual": false,
    "id": "cee5d779256a7953"
-  },
-  {
-   "source_id": "gn_asia_bloomberg",
-   "source_name": "Bloomberg.com",
-   "title_en": "UK Expected to Follow EU With China EV Tariffs, Times Says",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVRFZ2liSUUtX0ctTU1RbzA3V0ZKRU0wZ1lUUXh5bmp5ODljRVJwb2NmUHdHd2lyZEtIQVZFclVHWm9URzg5WGJzd3B5eEVkSi11WlFBQk1mYWVCVl9KTmdiSjI2UHBXOXgwSEdTS3ZLVzlscVJ5TzU3dlpLY2U3VE9vbXRzMmRwRmNYb2JsYmR0Y2hEMGhNcEtVQkFwTDBWWmZWcnJYdzJwZ0tqWmNyRWk3Zk4?oc=5",
-   "published_utc": "2026-10-04T21:22:51+00:00",
-   "title_original": "UK Expected to Follow EU With China EV Tariffs, Times Says",
-   "region": "china",
-   "topics": [
-    "trade"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "cfbb6599162a67a2"
-  },
-  {
-   "source_id": "gn_jp_yahoo",
-   "source_name": "Yahoo!ニュース",
-   "title_en": "It's not Prime Minister Takaichi's fault or the Bank of Japan's fault...The name of the politician pointed out by economists as the person responsible for the yen's depreciation (President Online)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WU2ZLT3dPZ0J1YnludC1QUFVRdHFOdEtWMldQbUZvWGp5Tm5Uc1lrUldxbmxuaWdwX3JVR01RTTJtUWY4MHJzY3lIN01PcXMyLWladjdFaDVUMFdSLTRVTGswY2hHam52VXhWMEJXM1JSbkY1N1JGSDdYZDJfSUE?oc=5",
-   "published_utc": "2026-10-04T21:15:36+00:00",
-   "title_original": "高市首相のせいでも､日銀のせいでもない…経済学者が｢円安を招いた張本人｣と指摘する政治家の名前（プレジデントオンライン）",
-   "region": "japan",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "0572959d9ed55227"
   },
   {
    "source_id": "manual_ia",
