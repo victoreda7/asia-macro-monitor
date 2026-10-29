@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T08:32:44.391003+00:00
+Última coleta: 2026-10-29T08:42:45.839725+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          896
-  🇨🇳 China          841
+  🇯🇵 Japão          895
+  🇨🇳 China          842
   🇹🇼 Taiwan         383
   🇰🇷 Coreia do Sul  880
 
 ## O que já está no feed (não repita)
 
+  - [korea] Federal Reserve freezes base interest rate, ‘taking a breather’… Bank of Korea weighs ‘November hike’
   - [china] China stocks slip as tech gauges hit over one-year lows, overshadowing Fed rate decision
   - [china] Loongson Technology Q3 Net Loss At 188.6 Million Yuan
   - [china] Muyuan Foods Q3 Net Loss At 3.2 Billion Yuan
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung roars back in AI chip race with record W107tr profit
   - [japan] Tokyo Gas Co Ltd - To Buy Back Up To 3.6% Of Shares Worth 50 Billion Yen
   - [japan] [Today's Oha Biz October 29th (Thursday)] The point of the Fed leaving interest rates unchanged is
-  - [korea] Samsung's Chip Profit Drives Another Record Quarter — Update
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T08:32:44+00:00",
+      "published_utc": "2026-10-29T08:42:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
