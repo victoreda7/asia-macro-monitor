@@ -7,17 +7,19 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T14:02:45.447139+00:00
+Última coleta: 2026-10-29T14:12:46.650276+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          880
-  🇨🇳 China          852
-  🇹🇼 Taiwan         381
+  🇨🇳 China          851
+  🇹🇼 Taiwan         382
   🇰🇷 Coreia do Sul  887
 
 ## O que já está no feed (não repita)
 
+  - [china] The European Central Bank decides to keep interest rates unchanged at 2.5% | International
   - [china] Angang Steel Q3 Net Loss At 2.0 Billion Yuan
+  - [taiwan] U.S. GDP expanded by 3.4% in the third quarter, higher than expected, and core inflation increased by 3.1% in 
   - [china] Jiangxi Zhengbang Tech Q3 Net Loss At 353.8 Million Yuan
   - [china] Maanshan Iron & Steel Q3 Net Loss At 108.3 Million Yuan
   - [china] Shanghai Yuyuan Tourist Mart Q3 Net Profit At 6.7 Million Yuan
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [china] Alphabet spells out more AI capex, China+1 doesn't add up
   - [china] CanSemi Tech Q3 Net Loss At 349.1 Million Yuan
   - [china] Shanxi Taigang Stainless Steel Q3 Net Loss At 355.1 Million Yuan
-  - [china] Beijing Compass Technology Development Q3 Net Loss At 91.1 Million Yuan
-  - [korea] Samsung Electronics' Investment in Facility Investment at Article 85...Responding to semiconductor boom with l
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T14:02:45+00:00",
+      "published_utc": "2026-10-29T14:12:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
