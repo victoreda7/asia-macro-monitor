@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T02:12:47.242600+00:00
+Última coleta: 2026-10-29T02:22:42.528680+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          894
@@ -20,6 +20,7 @@ Total: 3000 manchetes
   - [korea] South Korean won, Indonesian rupiah lead Asian currencies higher
   - [japan] Denso Corporation - To Buy Back Up To 3.99% Own Shares Worth 200 Billion Yen
   - [korea] Samsung Electronics posts record profit in Q3 on AI chip supercycle
+  - [china] The central bank launched a 115 billion yuan 7-day reverse repurchase operation today
   - [korea] Why is Samsung Electronics stock sliding today?
   - [korea] Samsung posts record profit in Q3 on AI chip boom
   - [china] CHINA PBOC CONDUCTS CNY115 BLN VIA 7-DAY REVERSE REPO THURS
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang
   - [korea] South Korea’s Manufacturing Sentiment Weakens Slightly
   - [korea] Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy's, Enphase, and More Stocks That Explain Today's Market — B
-  - [japan] Japan girds for new wave of food price hikes as tanker rates soar
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T02:12:47+00:00",
+      "published_utc": "2026-10-29T02:22:42+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
