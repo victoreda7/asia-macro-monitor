@@ -7,16 +7,17 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T06:32:46.503771+00:00
+Última coleta: 2026-10-29T06:42:49.870306+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          896
-  🇨🇳 China          837
+  🇯🇵 Japão          895
+  🇨🇳 China          838
   🇹🇼 Taiwan         382
   🇰🇷 Coreia do Sul  885
 
 ## O que já está no feed (não repita)
 
+  - [china] Volkswagen: U.S. Tariffs Weigh on Us, China Mkt is Shrinking, Europe Competitive Pressure Increasing Significa
   - [korea] S. Korea eyes virtuous cycle via green economic growth
   - [korea] Korea's chip boom catches US Fed chair's eye
   - [korea] Exclusive-Bank of Korea board member says won moves faster than expected
@@ -56,7 +57,6 @@ Total: 3000 manchetes
   - [china] AgiBot Reports Nearly 2 Billion Yuan in H1 2026 Revenue, 20,000 Robots Produced
   - [japan] Toho Gas Co., Ltd. - To Buy Back Up To 5.7% Own Shares Worth 17 Billion Yen
   - [china] China clean tech exports to cut global emissions by Brazil-sized amount in 2026
-  - [japan] Mito Securities Co Ltd - To Buy Back Up To 1.68% Own Shares Worth 800 Million Yen
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T06:32:46+00:00",
+      "published_utc": "2026-10-29T06:42:50+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
