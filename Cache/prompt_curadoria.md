@@ -7,16 +7,23 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T09:42:45.131484+00:00
+Última coleta: 2026-10-29T09:52:46.097124+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          890
-  🇨🇳 China          843
-  🇹🇼 Taiwan         382
-  🇰🇷 Coreia do Sul  885
+  🇯🇵 Japão          892
+  🇨🇳 China          841
+  🇹🇼 Taiwan         383
+  🇰🇷 Coreia do Sul  884
 
 ## O que já está no feed (não repita)
 
+  - [taiwan] Taiwan central bank board members flag inflation woes, minutes show
+  - [japan] Volkswagen's July-September fiscal year results in a large deficit of over 800 billion yen
+  - [china] RemeGen Q3 Net Profit At 610.9 Million Yuan
+  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Charitable Contribution
+  - [china] Governor of the Central Bank: Tightening again if necessary will maintain the housing market in a situation of
+  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Decision on Share Disposition
+  - [japan] Yomiuri: Sumitomo Mitsui Trust Bank to Launch 10 Billion Yen Anime Fund
   - [japan] Yomiuri: Ward in Central Tokyo Calls on Condominium Developers to Prohibit Resale Within 5 Years
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Transactions with Affiliate Company
   - [china] The minutes of the central bank's proceedings reveal that 2 board members opposed the 10th consecutive freeze 
@@ -48,15 +55,8 @@ Total: 3000 manchetes
   - [japan] Financial Partners Group - To Buy Back Up To 1.2 Million Shares For 2 Billion Yen
   - [japan] House of Councilors Liberal Democratic Party consumption tax reduction bill “If a special committee is establi
   - [japan] Bank of Japan decides to reach 2% price target, policy interest rate will be maintained (Kyodo News)
+  - [japan] Bank of Japan decides to reach 2% inflation, policy interest rate will be maintained (Kyodo News)
   - [japan] Japan's Nikkei rises on Advantest profit outlook as BOJ looms
-  - [korea] OCI Holdings swings to profit as revenue tops 1 trillion won, builds U.S.-bound supply chain linking Malaysia 
-  - [japan] Nippon Shokubai Co - To Buy Back Up To 2.0% Own Shares Worth 6 Billion Yen
-  - [korea] INTC, AMD, AVGO, MU Decline On Samsung’s Profit Miss, Lighter Capex From Microsoft, Alphabet
-  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Quarterly Dividend for Third Quarter 2026
-  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - Announcement of Capex Plan for FY 2026
-  - [korea] REG - Samsung Electronics Samsung Elec - SMSD - 2026 3Q Earnings Release
-  - [korea] Samsung sees memory supply tight through 2028 as 2027 HBM sells out
-  - [korea] The Bank of Korea's first base interest rate decision for next year will be on January 14th.
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T09:42:45+00:00",
+      "published_utc": "2026-10-29T09:52:46+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
