@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-29T08:12:43.511844+00:00",
- "collected_at_utc": "2026-10-29T08:12:43.511844+00:00",
+ "generated_at_utc": "2026-10-29T08:18:16.722586+00:00",
+ "collected_at_utc": "2026-10-29T08:18:16.722586+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
@@ -11,7 +11,7 @@
   "taiwan": 384,
   "korea": 881
  },
- "elapsed_s": 30.1,
+ "elapsed_s": 29.6,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-29T02:14:31+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -171,7 +171,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T06:56:12+00:00"
+   "newest": "2026-10-29T05:58:12+00:00"
   },
   {
    "source_id": "nhk_politics",
@@ -201,7 +201,7 @@
    "source_id": "gn_cn_pboc",
    "name": "PBoC 中文",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "newest": "2026-10-29T05:50:00+00:00"
   },
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T08:11:16+00:00"
+   "newest": "2026-10-29T08:17:23+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -707,23 +707,6 @@
    "id": "7dda43189b988204"
   },
   {
-   "source_id": "gn_jp_nhkworld",
-   "source_name": "NHKニュース",
-   "title_en": "Yen strengthens against dollar following Warsh's remarks",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fQnI2bFVKR0Z3QkxjZTFCM282RWEyNmx6Tko2aW1rQVMzWUUyYlZHZkxEZjVybTVrNjBrNjF2YWRsR2ZPWUNLYlA1b3g5dU5ZUG9IU2xyRS1obXlIclBPT2tkSQ?oc=5",
-   "published_utc": "2026-10-29T06:56:12+00:00",
-   "title_original": "Yen strengthens against dollar following Warsh's remarks",
-   "region": "japan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": false,
-   "manual": false,
-   "id": "b94e102d3845d241"
-  },
-  {
    "source_id": "tradingview_live",
    "source_name": "Dow Jones Newswires",
    "title_en": "Volkswagen: U.S. Tariffs Weigh on Us, China Mkt is Shrinking, Europe Competitive Pressure Increasing Significantly",
@@ -826,6 +809,23 @@
    "live_wire": false,
    "manual": false,
    "id": "a51612f30725af54"
+  },
+  {
+   "source_id": "gn_jp_nhkworld",
+   "source_name": "NHKニュース",
+   "title_en": "Yen strengthens against dollar following Warsh's remarks",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fQnI2bFVKR0Z3QkxjZTFCM282RWEyNmx6Tko2aW1rQVMzWUUyYlZHZkxEZjVybTVrNjBrNjF2YWRsR2ZPWUNLYlA1b3g5dU5ZUG9IU2xyRS1obXlIclBPT2tkSQ?oc=5",
+   "published_utc": "2026-10-29T05:58:12+00:00",
+   "title_original": "Yen strengthens against dollar following Warsh's remarks",
+   "region": "japan",
+   "topics": [
+    "fx"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "b94e102d3845d241"
   },
   {
    "source_id": "gn_cn_pboc",
@@ -8698,24 +8698,6 @@
    "id": "3a3f57c11641a184"
   },
   {
-   "source_id": "gn_cn_pboc",
-   "source_name": "finance.sina.com.cn",
-   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40aUJ0di1KLVN6T1NxWVhjaUQwVjBBZGQ2T2ExbklTblo2cWNrZmpZT3dlcE4wTzdSdWlWU0FrUHVEU2Z2WV9jNVRLdGxnNkZJNEx6cEdvanM0WlVBbExGY0NJMk1QMTJBMHp0NGdENExkbUJ0OVZ5SQ?oc=5",
-   "published_utc": "2026-10-26T02:13:49+00:00",
-   "title_original": "央行今日开展7000亿元中期借贷便利操作",
-   "region": "china",
-   "topics": [
-    "monetary",
-    "fx"
-   ],
-   "lang_original": "zh-CN",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "1033a50b0d22ef1a"
-  },
-  {
    "source_id": "gn_kr_mk",
    "source_name": "매일경제",
    "title_en": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip..",
@@ -8908,6 +8890,24 @@
    "live_wire": false,
    "manual": false,
    "id": "de72ef6f280f0b18"
+  },
+  {
+   "source_id": "gn_cn_pboc",
+   "source_name": "36Kr",
+   "title_en": "The central bank launched a 700 billion yuan medium-term lending facility operation today",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kYXM5YUF1NlRvUTZEdjJEVjNJNXZqMDZiai1FcGM3RVVGaVZwOUx2YlpMbHpydlZMV1VUNUhkaE9ud2VvdjlGLUlWRk5XMGVuNGgxZFhZYnN1b2kyeHc?oc=5",
+   "published_utc": "2026-10-26T00:27:36+00:00",
+   "title_original": "央行今日开展7000亿元中期借贷便利操作",
+   "region": "china",
+   "topics": [
+    "monetary",
+    "fx"
+   ],
+   "lang_original": "zh-CN",
+   "translated": true,
+   "live_wire": false,
+   "manual": false,
+   "id": "80c3ba148e83c89b"
   },
   {
    "source_id": "gn_cn_pboc",

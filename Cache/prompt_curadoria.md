@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T08:12:43.511844+00:00
+Última coleta: 2026-10-29T08:18:16.722586+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          896
@@ -38,13 +38,13 @@ Total: 3000 manchetes
   - [korea] REG - Samsung Electronics Samsung Elec - SMSD - 2026 3Q Earnings Release
   - [korea] Samsung sees memory supply tight through 2028 as 2027 HBM sells out
   - [korea] The Bank of Korea's first base interest rate decision for next year will be on January 14th.
-  - [japan] Yen strengthens against dollar following Warsh's remarks
   - [china] Volkswagen: U.S. Tariffs Weigh on Us, China Mkt is Shrinking, Europe Competitive Pressure Increasing Significa
   - [japan] BREAKING NEWS: ANA Holdings' April-Sept. net profit drops 11.8% to 67.09 billion yen
   - [japan] Bank of Japan Monetary Policy Meeting: Will the inflation rate reach 2%? (ABEMA TIMES)
   - [korea] S. Korea eyes virtuous cycle via green economic growth
   - [korea] Korea's chip boom catches US Fed chair's eye
   - [korea] Exclusive-Bank of Korea board member says won moves faster than expected
+  - [japan] Yen strengthens against dollar following Warsh's remarks
   - [china] The central bank launches 1 trillion yuan in overnight reverse repurchases
   - [japan] Japan bonds steady ahead of BOJ decision; strong auction lends support
   - [korea] BOK board member flags won volatility despite AI chip export boom - RTRS
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T08:12:43+00:00",
+      "published_utc": "2026-10-29T08:18:16+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
