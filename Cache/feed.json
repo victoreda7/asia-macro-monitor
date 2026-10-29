@@ -1,17 +1,17 @@
 {
- "generated_at_utc": "2026-10-29T22:12:42.491241+00:00",
- "collected_at_utc": "2026-10-29T22:12:42.491241+00:00",
+ "generated_at_utc": "2026-10-29T22:22:45.261635+00:00",
+ "collected_at_utc": "2026-10-29T22:22:45.261635+00:00",
  "degraded": false,
  "sources_ok": 41,
  "sources_total": 41,
  "count": 3000,
  "by_region": {
-  "japan": 877,
+  "japan": 878,
   "china": 845,
-  "taiwan": 381,
+  "taiwan": 380,
   "korea": 897
  },
- "elapsed_s": 29.4,
+ "elapsed_s": 29.8,
  "sources": [
   {
    "source_id": "boj_whatsnew",
@@ -43,7 +43,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T08:20:00+00:00"
+   "newest": "2026-10-29T02:55:00+00:00"
   },
   {
    "source_id": "gn_asia_ft",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T16:02:08+00:00"
+   "newest": "2026-10-29T22:02:00+00:00"
   },
   {
    "source_id": "ked_global",
@@ -131,7 +131,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "newest": "2026-10-29T09:16:32+00:00"
+   "newest": "2026-10-29T06:18:34+00:00"
   },
   {
    "source_id": "korea_herald_biz",
@@ -152,10 +152,10 @@
   {
    "source_id": "gn_jp_mof",
    "name": "MOF Japan",
-   "ok": false,
+   "ok": true,
    "count": 30,
-   "error": "parada desde 01/07/2026",
-   "newest": "2026-07-01T11:08:50+00:00"
+   "error": "",
+   "newest": "2026-10-29T02:14:31+00:00"
   },
   {
    "source_id": "gn_cn_nbs",
@@ -267,7 +267,7 @@
    "ok": true,
    "count": 400,
    "error": "",
-   "newest": "2026-10-29T22:01:45+00:00"
+   "newest": "2026-10-29T22:22:00+00:00"
   },
   {
    "source_id": "gn_tw_udn",
@@ -343,6 +343,40 @@
   }
  ],
  "items": [
+  {
+   "source_id": "tradingview_live",
+   "source_name": "dpa-AFX",
+   "title_en": "Japan Data, Rate Decision Due On Friday",
+   "url": "https://www.tradingview.com/news/dpa_afx:192813feb3afd:0-japan-data-rate-decision-due-on-friday/",
+   "published_utc": "2026-10-29T22:19:39+00:00",
+   "title_original": "Japan Data, Rate Decision Due On Friday",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": true,
+   "manual": false,
+   "id": "943121804c301673"
+  },
+  {
+   "source_id": "gn_jp_investing",
+   "source_name": "Investing.com",
+   "title_en": "Bank of Japan to hold rates, signal further hikes By Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUdMWGV0MUZxR2xIN2lHc3lzSFpma29aalZuaE10US12dHd6QU9jT2dLSC1oX0E4RkVrUENqTC05V2hiVUtlZTZ5VkVINTBiTDJ5clNwUkc3U1dyRGlidnBSM3Z0WGJYWUlfSGZXajB6VkRObHpOSWZ1dXYxbkt2UUdwUTRUOVVSYjVtUjl1SW51X0pTNDBCMkcwSHBQbDVRMUE?oc=5",
+   "published_utc": "2026-10-29T21:10:37+00:00",
+   "title_original": "Bank of Japan to hold rates, signal further hikes By Reuters",
+   "region": "japan",
+   "topics": [
+    "monetary"
+   ],
+   "lang_original": "en",
+   "translated": false,
+   "live_wire": false,
+   "manual": false,
+   "id": "213bcddb21aa9a42"
+  },
   {
    "source_id": "investing_econ",
    "source_name": "Investing Economy",
@@ -51850,40 +51884,6 @@
    "live_wire": false,
    "manual": false,
    "id": "049b59867b19b410"
-  },
-  {
-   "source_id": "toyo_keizai",
-   "source_name": "東洋経済オンライン",
-   "title_en": "Prime Minister Takaichi will be forced to make a major decision at the end of the year, and with the rise of the argument for postponing the reduction of the number of members, the possibility of the Liberal Democratic Party collapsing becomes more likely | Politics, Economy, Investment | Toyo Keizai Online",
-   "url": "https://toyokeizai.net/articles/-/960136?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "published_utc": "2026-10-05T02:30:00+00:00",
-   "title_original": "高市首相が迫られる年末の｢重大決断｣ ､議員定数削減｢先送り論｣台頭で現実味を増す自維連立\"崩壊\"の危うい足音 | 政治・経済・投資 | 東洋経済オンライン",
-   "region": "japan",
-   "topics": [
-    "signaling"
-   ],
-   "lang_original": "ja",
-   "translated": true,
-   "live_wire": false,
-   "manual": false,
-   "id": "be074c842383bdef"
-  },
-  {
-   "source_id": "tradingview_live",
-   "source_name": "Reuters",
-   "title_en": "Taiwan dollar gains most among muted Asian currencies",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45R01Z:0-taiwan-dollar-gains-most-among-muted-asian-currencies/",
-   "published_utc": "2026-10-05T02:16:58+00:00",
-   "title_original": "Taiwan dollar gains most among muted Asian currencies",
-   "region": "taiwan",
-   "topics": [
-    "fx"
-   ],
-   "lang_original": "en",
-   "translated": false,
-   "live_wire": true,
-   "manual": false,
-   "id": "1a4b3777439475c4"
   },
   {
    "source_id": "manual_ia",

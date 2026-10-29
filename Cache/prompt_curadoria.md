@@ -7,16 +7,18 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T22:12:42.491241+00:00
+Última coleta: 2026-10-29T22:22:45.261635+00:00
 Total: 3000 manchetes
 
-  🇯🇵 Japão          877
+  🇯🇵 Japão          878
   🇨🇳 China          845
-  🇹🇼 Taiwan         381
+  🇹🇼 Taiwan         380
   🇰🇷 Coreia do Sul  897
 
 ## O que já está no feed (não repita)
 
+  - [japan] Japan Data, Rate Decision Due On Friday
+  - [japan] Bank of Japan to hold rates, signal further hikes By Reuters
   - [japan] Bank of Japan to hold rates, signal further hikes
   - [japan] Demand for Kidalt isn't the only thing...The real aim of Don Quijote's parent company's acquisition of Toys R 
   - [korea] Samsung Electronics: AI-led Memory records lifted Q3 operating profit above KRW 100T; costs pressure DX
@@ -55,8 +57,6 @@ Total: 3000 manchetes
   - [korea] Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now say
   - [korea] Asia report: Markets diverge amid steady central bank signals, Samsung slips on record profits
   - [japan] BoJ Preview: Hawkish Hold
-  - [japan] Prime Minister Takaichi held a press conference regarding the future response to "emergency drastic change mit
-  - [korea] Samsung prevê que escassez de chips de IA se agrave
 
 ## O que fazer
 
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T22:12:42+00:00",
+      "published_utc": "2026-10-29T22:22:45+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
