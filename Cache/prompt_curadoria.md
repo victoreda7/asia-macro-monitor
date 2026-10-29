@@ -7,7 +7,7 @@ buracos recorrentes.
 
 ## Estado atual do feed
 
-Última coleta: 2026-10-29T10:02:43.324610+00:00
+Última coleta: 2026-10-29T10:12:44.069543+00:00
 Total: 3000 manchetes
 
   🇯🇵 Japão          892
@@ -17,6 +17,7 @@ Total: 3000 manchetes
 
 ## O que já está no feed (não repita)
 
+  - [japan] Dollar pulls back as Warsh leaves tightening path murky; Euro tread water
   - [taiwan] Taiwan central bank board members flag inflation woes, minutes show
   - [japan] Volkswagen's July-September fiscal year results in a large deficit of over 800 billion yen
   - [china] RemeGen Q3 Net Profit At 610.9 Million Yuan
@@ -48,7 +49,6 @@ Total: 3000 manchetes
   - [japan] Fed Tightening Bias Gives BOJ More Room for Hawkish Signaling — Market Talk
   - [taiwan] Taiwan semiconductor industry group backs government review of nuclear power restart
   - [japan] House of Representatives Finance and Financial Affairs Committee: Consumption tax reduction bill: Ruling and o
-  - [japan] Dollar pulls back as Warsh leaves tightening path murky; Euro tread water
   - [china] Sensodyne maker Haleon cuts revenue growth forecast due to weak flu season and disruptions in China
   - [china] Sensodyne maker Haleon cuts revenue growth forecast on weak flu season, China disruption
   - [korea] Puriosa AI, a domestic artificial intelligence (AI) semiconductor start-up, attracted an investment
@@ -116,7 +116,7 @@ Total: 3000 manchetes
       "url": "https://www.mof.go.jp/...",
       "region": "japan",
       "topics": ["fiscal"],
-      "published_utc": "2026-10-29T10:02:43+00:00",
+      "published_utc": "2026-10-29T10:12:44+00:00",
       "source_name": "MOF Japan",
       "lang_original": "ja"
     }
